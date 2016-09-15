@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Your Sidebar Name"
   avatar           : "assets/profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
