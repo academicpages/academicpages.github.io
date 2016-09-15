@@ -1,0 +1,35 @@
+// Float Span API
+// ==============
+
+// Float Span Output
+// -----------------
+// - $width             : <length>
+// - [$float]           : from | to
+// - [$margin-before]   : <length>
+// - [$margin-after]    : <length>
+// - [$padding-before]  : <length>
+// - [$padding-after]   : <length>
+// - [$flow]            : ltr | rtl
+@mixin float-span-output(
+  $width,
+  $float            : from,
+  $margin-before    : null,
+  $margin-after     : null,
+  $padding-before   : null,
+  $padding-after    : null,
+  $flow             : map-get($susy-defaults, flow)
+) {
+  $to     : to($flow);
+  $from   : from($flow);
+
+  $output: (
+    width: $width,
+    float: if($float == to, $to, null) or if($float == from, $from, null),
+    margin-#{$from}: $margin-before,
+    margin-#{$to}: $margin-after,
+    padding-#{$from}: $padding-before,
+    padding-#{$to}: $padding-after,
+  );
+
+  @include output($output);
+}

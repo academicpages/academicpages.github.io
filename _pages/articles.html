@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Publications"
+permalink: /articles/
+author_profile: true
+redirect_from: 
+  - /wordpress/academic-papers/
+---
+You can also find my articles on <u><a href="http://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
+{% include base_path %}
+
+{% for post in site.articles reversed %}
+  {% include archive-single.html %}
+{% endfor %}

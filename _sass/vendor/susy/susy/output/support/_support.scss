@@ -1,0 +1,85 @@
+// Browser Support
+// ===============
+
+// Susy Support Defaults
+// ---------------------
+@include susy-defaults((
+  use-custom: (
+    clearfix: false,
+    background-image: true,
+    background-options: false,
+    breakpoint: true,
+    box-sizing: true,
+    rem: true,
+  ),
+));
+
+
+// Susy Support [mixin]
+// --------------------
+// Send property-value pairs to the proper support modules.
+// - $prop  : <css property>
+// - $val   : <css value>
+@mixin susy-support(
+  $prop,
+  $val
+) {
+  // Background Support
+  @if $prop == background-image {
+    @include susy-background-image($val);
+  } @else if $prop == background-size {
+    @include susy-background-size($val);
+  } @else if $prop == background-origin {
+    @include susy-background-origin($val);
+  } @else if $prop == background-clip {
+    @include susy-background-clip($val);
+  }
+
+  // Box-Sizing Support
+  @else if $prop == box-sizing {
+    @include susy-box-sizing($val);
+  }
+
+  // Rem Support
+  @else {
+    @include susy-rem($prop, $val);
+  }
+}
+
+
+// Susy Support [function]
+// -----------------------
+// Check for support of a feature.
+// - $feature       : <string>
+//                    - e.g "rem" or "box-sizing"
+// - $requirements  : <map>
+//                    - e.g (variable: rem-with-px-fallback, mixin: rem)
+// - $warn          : <bool>
+@function susy-support(
+  $feature,
+  $requirements: (),
+  $warn: true
+) {
+  $_support: susy-get(use-custom $feature);
+
+  @if $_support {
+    $_fail: false;
+
+    @each $_type, $_req in $requirements {
+      @each $_i in $_req {
+        $_pass: call(unquote("#{$_type}-exists"), $_i);
+
+        @if not($_pass) {
+          $_fail: true;
+          @if $warn {
+            @warn "You requested custom support of #{$feature}, but the #{$_i} #{$_type} is not available.";
+          }
+        }
+      }
+    }
+
+    $_support: if($_fail, false, $_support);
+  }
+
+  @return $_support;
+}

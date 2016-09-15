@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link type="text/css" href="styles/style.css" rel="stylesheet" media="screen" />
+<link type="text/css" href="styles/style-papers.css" rel="stylesheet" media="screen" />
+
+<title>R. Stuart Geiger | Rhetoric of Cybercultres</title>
+
+<!--#include file="metadata.html"-->
+</head>
+
+<body>
+<div id="container">
+	<div id="header">
+			 <p>R. Stuart Geiger</p>
+	</div>
+	<div id="banner" >
+	
+
+<!--#include file="link-bar.html"-->
+
+	</div>
+
+
+
+	
+	<div id="content">
+		  <h2>Webfolio of </h2>
+  <h1>R. Stuart Geiger </h1>
+
+  <p align="left">&nbsp;</p>
+  <p align="left">Summary/Response Papers</p>
+  <div align="left">
+    <ul>
+      <li>Tile #1</li>
+        <li> Title #2</li>
+        <li>Title #3</li>
+
+        <li>Self-evaluation</li>
+    </ul>
+    <p>Cybersubculture Report</p>
+    <ul>
+      <li>Title</li>
+      <li>Self Evalation </li>
+    </ul>
+
+    <p>Individual Presentation</p>
+    <ul>
+      <li>Self-evaluation</li>
+    </ul>
+    <p>Website Project</p>
+    <ul>
+      <li>Title</li>
+
+      <li>Self-evaluation</li>
+    </ul>
+    <hr>
+    <p>Description: That's what your webfolio should look like, and it should be named webfolio.htm. The webfolio will serve a double function: first, it will act as an online portfolio in which you provide links to each of your actual major assignments; and second, it will act as an evaluation of your own work in the course. Each of the bulleted items above should be links. </p>
+    <p>You should evaluate each assignment separately (though you may evaluate the S/R papers as a whole), explaining what you believe you did well, what you learned, what you think you could have done better, and what grade you would ultimately give yourself for each assignment and why. Then create links from your webfolio to each of these evaluations. I will seriously consider your own evaluation of your efforts, so don't blow this off. Be honest and don't try to cover over what you didn't do well or what you could have put more effort into. Part of the importance of these evals is to indicate that you have learned something, that you understand what you could do better if you had had more time or whatnot. So take some time with this. <br>
+    <br>
+    </p>
+
+    <p></p>
+    <p>&nbsp; </p>
+    <p>&nbsp;</p>
+	</div>
+ 	<div id="footer">
+	<!--Creative Commons License-->
+	<h1><a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer"> Valid CSS</a> | <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/">Some rights reserved</a> by R. Stuart Geiger, 2006.</h1>
+	
+	<!--/Creative Commons License-->
+	<!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+		<Work rdf:about="">
+		<license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+	  <dc:date>2006</dc:date>
+	  <dc:creator><Agent><dc:title>R. Stuart Geiger</dc:title></Agent></dc:creator>
+	  <dc:rights><Agent><dc:title>R. Stuart Geiger</dc:title></Agent></dc:rights>
+	  <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+		</Work>
+		<License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+		<permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+		<permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+		<requires rdf:resource="http://web.resource.org/cc/Notice"/>
+		<requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+		<permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+		<requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+		</License>
+		</rdf:RDF> -->
+	
+	</div>
+</div>
+<!--#include file="scripts.html"-->
+</body>
+</html>
+

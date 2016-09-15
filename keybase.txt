@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/staeiou
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stuartgeiger.com
+  * I am staeiou (https://keybase.io/staeiou) on keybase.
+  * I have a public key with fingerprint 1FF0 73A2 6499 7EF1 3DB9  F29C 5335 0568 9A45 03DE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010170802c923f435de4abaab0a2a81208d50520f0f7ccc028901d99f19c5fe20ee40a",
+            "fingerprint": "1ff073a264997ef13db9f29c533505689a4503de",
+            "host": "keybase.io",
+            "key_id": "533505689a4503de",
+            "kid": "010170802c923f435de4abaab0a2a81208d50520f0f7ccc028901d99f19c5fe20ee40a",
+            "uid": "8bcb4f0cba7b81301b3fd38687418819",
+            "username": "staeiou"
+        },
+        "service": {
+            "hostname": "stuartgeiger.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472052511,
+    "expire_in": 157680000,
+    "prev": "e4d0f06103062031dfca1dcf815b0b9241bb3fe8757b4cb2c8b46bfc4e01c85a",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIsAnicrVJ5SBVBHH52SZYlJCHRxRZGojazx9vZV5KSFl2UQolYPWZmZ59rtvvc
+t89OkewwSgkqyMKijApCKcroMCOjiLCw6MIOiu6DbqLTbFaqv/qz+WeY33zfN9/3
+Mefie/riYhZ0FDdnBDcMjWlr3Rb15be0jFguEFtfKgSWCwtZ98ZKdBZxgwtNXQgI
+AAKoAgREqomSIUuKzmRMMCYAixhBESBdAYoIDGColFIgIg1AXdMMqFHFYCJgTAZY
+SBUM0woxJ+yYlstloWEAVcKiX9Y0lRlQ0olmiJwiSVzOjzQsK0DSGScW2RGPwc0R
+HGHpps1n/BDstvcP/H/2He2WQ4QS2QCUYJUgKAFIJEOXkB+pMkQIah4wwhwLL2Ic
+HXExM+2oUJ4q8GGZSZnXqxfkLyCKHTfETF5JOrUXcXrYsV2b2iX8tsh1wwGP7C4N
+e+jFjAR/6wSJaem8SU4oY07EtC0hADmSuqYnDGVV5KkUCFMFtiRsOixoeghF9SPA
+l/cMK+OSTNZ5dD8EEvCLQIK6QTHUqYGgQgDRRBkSnpAhVVGJTIlIEZH9xKAyA5Ai
+xSsmwkotWwhI3CYOeZnMkIXdqMOE8rNn5vXyxcT5+vTu4f0wX1zfhD//LlOP7cra
+LKa9ubtv/djKj7Om7kkumf/kqvVwTJGackdpmhz/bFneiSFX+sH2tsTXhSM/T9nV
+vDbjw8Z3qeendsQfqih8elqxghkZLyc+x8MLbp9suV4YnR7a8WrUmNaHt1Y3VnX2
+Rxfqd27pmtk14Erxl6zxiXtjiuvWfJ7XmJCSNGfVt4Stu/MmdGTeu3/WLLjxM3dT
+S3td/ePpfU4lH10x6NqRuQcS1zml1dnFtfNLL+RUjIo7fOnJC21l+7Oc7d9nbHTz
+Jw05CLoGK03jKrfXKDVpW95n5+bvbiiqnp1Qe6z2ZvvFpMfH33YOu5zTYX7dMfDT
++uqqhuzEE1u3BUfj2/b72Gk/MuWm/eaDR78A0RtF1g==
+=X1zr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/staeiou
+
+==================================================================

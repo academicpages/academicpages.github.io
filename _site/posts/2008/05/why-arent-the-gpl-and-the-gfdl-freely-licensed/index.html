@@ -1,0 +1,707 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Why aren’t the GPL and the GFDL freely licensed? - R. Stuart Geiger</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="R. Stuart Geiger">
+<meta property="og:title" content="Why aren’t the GPL and the GFDL freely licensed?">
+
+
+  <link rel="canonical" href="http://stuartgeiger.com/posts/2008/05/why-arent-the-gpl-and-the-gfdl-freely-licensed/">
+  <meta property="og:url" content="http://stuartgeiger.com/posts/2008/05/why-arent-the-gpl-and-the-gfdl-freely-licensed/">
+
+
+
+  <meta property="og:description" content="Works licensed under the GPL and the GFDL can be modified and then freely redistributed, as long as the modified versions are released under the same conditions. Why are we not allowed to modify these licenses and redistribute them?">
+
+
+
+  <meta name="twitter:site" content="@staeiou">
+  <meta name="twitter:title" content="Why aren’t the GPL and the GFDL freely licensed?">
+  <meta name="twitter:description" content="Works licensed under the GPL and the GFDL can be modified and then freely redistributed, as long as the modified versions are released under the same conditions. Why are we not allowed to modify these licenses and redistribute them?">
+  <meta name="twitter:url" content="http://stuartgeiger.com/posts/2008/05/why-arent-the-gpl-and-the-gfdl-freely-licensed/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="http://stuartgeiger.com/images/site-logo.png">
+    
+  
+
+  
+    <meta name="twitter:creator" content="@stuart">
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2008-05-23T13:04:17-07:00">
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://stuartgeiger.com",
+      "logo": "http://stuartgeiger.com/images/site-logo.png"
+    }
+  </script>
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "R. Stuart Geiger",
+      "url" : "http://stuartgeiger.com",
+      "sameAs" : ["https://twitter.com/mmistakes","https://facebook.com/michaelrose"]
+    }
+  </script>
+
+
+
+  <meta name="google-site-verification" content="3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg" />
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://stuartgeiger.com/feed.xml" type="application/atom+xml" rel="alternate" title="R. Stuart Geiger Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://stuartgeiger.com/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="http://stuartgeiger.com/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="http://stuartgeiger.com/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="http://stuartgeiger.com/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="http://stuartgeiger.com/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="http://stuartgeiger.com/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="http://stuartgeiger.com/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="http://stuartgeiger.com/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="http://stuartgeiger.com/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="http://stuartgeiger.com/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="http://stuartgeiger.com/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="http://stuartgeiger.com/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="http://stuartgeiger.com/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="http://stuartgeiger.com/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="http://stuartgeiger.com/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="http://stuartgeiger.com/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="http://stuartgeiger.com/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="http://stuartgeiger.com/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://stuartgeiger.com/">R. Stuart Geiger</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://stuartgeiger.com/articles/">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://stuartgeiger.com/talks/">Talks</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://stuartgeiger.com/expressions/">Expressions</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://stuartgeiger.com/year-archive/">Blog Posts</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://stuartgeiger.com/cv/">CV</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://stuartgeiger.com/contact/">Contact</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="http://stuartgeiger.com/images/oban3.jpg" class="author__avatar" alt="">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name"></h3>
+    <p class="author__bio">Computational ethnographer, ethnographer of computation, and postdoc at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a></p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Berkeley, CA</li>
+      
+      
+      
+      
+        <li><a href=""><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Google Scholar</a></li>
+      
+      
+      
+      
+        <li><a href="https://twitter.com/staeiou"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="http://orcid.org/0000-0001-7215-0532"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> ORCID</a></li>
+      
+      
+      
+      
+        <li><a href="https://github.com/staeiou"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="https://en.wikipedia.org/wiki/User:staeiou"><i class="fa fa-fw fa-wikipedia" aria-hidden="true"></i> Wikipedia</a></li>
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Why aren’t the GPL and the GFDL freely licensed?">
+    <meta itemprop="description" content="Works licensed under the GPL and the GFDL can be modified and then freely redistributed, as long as the modified versions are released under the same conditions. Why are we not allowed to modify these licenses and redistribute them?">
+    <meta itemprop="datePublished" content="May 23, 2008">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Why aren’t the GPL and the GFDL freely licensed?
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  4 minute read
+	
+</p>
+          
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2008-05-23T13:04:17-07:00">May 23, 2008</time></p>
+        
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>I’ve been doing a lot of work with copyright and software licenses for my new job at the <a href="http://www.fas.org">Federation of American Scientists</a>, and I’ve come upon a strange situation that someone else has bound to have thought about before. The <a href="http://www.gnu.org/licenses/fdl-1.2.txt">GNU Free Documentation License</a>, the copyleft license that <a href="http://en.wikipedia.org">Wikipedia</a>, the <a href="http://www.fsf.org">Free Software Foundation</a>, and many others use to ensure open access as well as the right to modify and re-release their text-based works, is itself not licensed under the GNU FDL or any similar scheme. Instead, the freedom to modify the license is explicitly denied.</p>
+
+<!--more-->
+<p>In the heading of the GNU FDL, the following text occurs (my emphasis):</p>
+
+<blockquote>
+  <p>Copyright (C) 2000,2001,2002 Free Software Foundation, Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA. Everyone is permitted to copy and distribute <strong>verbatim copies</strong> of this license document, <strong>but changing it is not allowed.</strong></p>
+</blockquote>
+
+<p>The same type of legal phrasing occurs in the <a href="http://www.opensource.org/licenses/gpl-3.0.html">GNU GPL</a>, the FSF’s copyleft license for computer code (my emphasis again):</p>
+
+<blockquote>
+  <p>Copyright © 2007 Free Software Foundation, Inc. <a href="http://fsf.org/">http://fsf.org/</a> Everyone is permitted to copy and distribute <strong>verbatim copies</strong> of this license document, <strong>but changing it is not allowed.</strong></p>
+</blockquote>
+
+<p>The GNU FDL and GPL were created so that anyone could publish their works and give others the freedom to edit and publish their versions as they pleased as long as they released them under the same license. This is basically is a <a href="http://creativecommons.org/licenses/by-nd/2.0/">Creative Commons Attribution/No-Derivatives</a> license, which is not exactly the freest of distribution privileges. If I want to create my own license based on the GFDL, GPL, or LGPL (the latter being the FSF’s more permissive open source software license), I would have to get the FSF’s permission.</p>
+
+<p>I know the reason why: license proliferation. They don’t want someone releasing code or text that cannot be combined with material released under their copyleft licenses. This is already a problem even with the prohibition on modifying the FSF’s licenses, as there are dozens of licenses that fit the Open Source Initiative’s <a href="http://www.opensource.org/docs/osd">definition of open source</a>, but are not compatible with the GPL. They are either too permissive and don’t force those who recieve the code to release the source code if they modify and pubish it, or they are too strict and forbid, say, commercial use.</p>
+
+<p>Let me explain why license compatibility is a rather pragmatic issue: if I add a section in the GFDL or GPL to forbid commercial use of the work without my permission, work licensed under that cannot be combined with work licensed under the GFDL or the GPL. The FSF has put a lot of work into these licenses and don’t want them to be tarnished. Now, they have every right to do so, just like Microsoft has every right to not allow anyone to change the source of their code for the same reason. It is simply antithetical to the principles of the free software movement: the freedom to tinker with the internals. I quote from the FSF’s <a href="http://www.fsf.org/licensing/essays/free-sw.html">definition of free software</a>, which exhaustively includes:</p>
+
+<blockquote>
+  <p>The freedom to run the program, for any purpose (freedom 0).</p>
+</blockquote>
+
+<blockquote>
+  <p>The freedom to study how the program works, and adapt it to your needs (freedom 1). Access to the source code is a precondition for this.</p>
+</blockquote>
+
+<blockquote>
+  <p>The freedom to redistribute copies so you can help your neighbor (freedom 2).</p>
+</blockquote>
+
+<blockquote>
+  <p>The freedom to improve the program, and release your improvements to the public, so that the whole community benefits (freedom 3). Access to the source code is a precondition for this.</p>
+</blockquote>
+
+<p>The FSF’s current stance on the copyright of the GPL and GFDL denies freedoms 1 and 3 to all who recieve the licenses. The freedom to release improvements to the public must be extended to the licenses themselves. I understand why it is pragmatically a bad idea to allow it, but this is an ideological stance instead of an ends-justify-the-means one. And Stallman and the FSF have no problem in making their software collections objectively worse by not allowing source code they feel is not free enough, which is why their stance on the copyright of their own license puzzles me.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#community" class="page__taxonomy-item" rel="tag">community</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#copyleft" class="page__taxonomy-item" rel="tag">copyleft</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#copyright" class="page__taxonomy-item" rel="tag">copyright</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#creative-commons" class="page__taxonomy-item" rel="tag">creative commons</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#free-culture" class="page__taxonomy-item" rel="tag">free culture</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#free-software-foundation" class="page__taxonomy-item" rel="tag">free software foundation</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#free-software-movement" class="page__taxonomy-item" rel="tag">free software movement</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#free-software" class="page__taxonomy-item" rel="tag">free software</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#gfdl" class="page__taxonomy-item" rel="tag">gfdl</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#gpl" class="page__taxonomy-item" rel="tag">gpl</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#html" class="page__taxonomy-item" rel="tag">html</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#intellectual-property" class="page__taxonomy-item" rel="tag">intellectual property</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#ip" class="page__taxonomy-item" rel="tag">ip</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#law" class="page__taxonomy-item" rel="tag">law</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#legal-philosophy" class="page__taxonomy-item" rel="tag">legal philosophy</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#open-source-software" class="page__taxonomy-item" rel="tag">open source software</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#open-source" class="page__taxonomy-item" rel="tag">open source</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#text" class="page__taxonomy-item" rel="tag">text</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#wiki" class="page__taxonomy-item" rel="tag">wiki</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://stuartgeiger.com/tags/#wikipedia" class="page__taxonomy-item" rel="tag">wikipedia</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://stuartgeiger.com/categories/#blog-posts" class="page__taxonomy-item" rel="tag">Blog Posts</a>
+    
+    </span>
+  </p>
+
+
+      </footer>
+
+      
+
+<section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=http://stuartgeiger.com/posts/2008/05/why-arent-the-gpl-and-the-gfdl-freely-licensed/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://stuartgeiger.com/posts/2008/05/why-arent-the-gpl-and-the-gfdl-freely-licensed/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://plus.google.com/share?url=http://stuartgeiger.com/posts/2008/05/why-arent-the-gpl-and-the-gfdl-freely-licensed/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://stuartgeiger.com/posts/2008/05/why-arent-the-gpl-and-the-gfdl-freely-licensed/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="http://stuartgeiger.com/posts/2008/05/review-10-books-that-screwed-up-the-world-by-benjamin-wiker/" class="pagination--pager" title="Review: 10 Books That Screwed Up the World by Benjamin Wiker
+">Previous</a>
+    
+    
+      <a href="http://stuartgeiger.com/posts/2008/06/memetic-inkblots/" class="pagination--pager" title="Memetic Inkblots
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      
+        <h4 class="page__related-title">You May Also Enjoy</h4>
+      
+      <div class="grid__wrapper">
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://stuartgeiger.com/posts/2016/03/trace-ethnography-a-retrospective" rel="permalink">Trace Ethnography: A Retrospective
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  8 minute read
+	
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description"><p><em>This is a cross-post of <a href="http://ethnographymatters.net/blog/2016/03/23/trace-ethnography-a-retrospective/">a post I wrote</a> for Ethnography Matters, in their <a href="http://ethnographymatters.net/editions/the-person-in-the-big-data/">“The Person in the (Big) Data” series</a></em></p>
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://stuartgeiger.com/posts/2015/01/register-to-the-trace-ethnography-workshop-at-the-2015-iconference/" rel="permalink">Come to the Trace Ethnography workshop at the 2015 iConference!
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  1 minute read
+	
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We’re organizing a workshop on trace ethnography at the 2015 iConference, led by Amelia Acker, Matt Burton, David Ribes, and myself. See more information about it on <a href="http://trace-ethnography.github.io/">the workshop’s website</a>, or feel free to contact me for more information.</p>
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://stuartgeiger.com/posts/2014/05/robots-txt/" rel="permalink">A dynamically-generated robots.txt: will search engine bots recognize themselves?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  7 minute read
+	
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>In short, I built a script that dynamically generates a robots.txt file for search engine bots, who download the file when they seek direction on what parts of a website they are allowed to index. By default, it directs all bots to stay away from the entire site, but then presents an exception: only the bot that requests the robots.txt file is allowed full reign over the site. If Google’s bot downloads the robots.txt file, it will see that only Google’s bot gets to index the entire site. If Yahoo’s bot downloads the robots.txt file, it will see that only Yahoo’s bot gets to index the entire site. Of course, this is assuming that bots identify themselves to my server in a way that they recognize when it is reflected back to them.</p>
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://stuartgeiger.com/posts/2014/01/bots-bespoke-code-and-the-materiality-of-software-platforms/" rel="permalink">Bots, bespoke code, and the materiality of software platforms
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  1 minute read
+	
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a new article published in <em>Information, Communication, and Society</em> as part of their annual special issue for the Association of Internet Researchers (AoIR) conference. This year’s special issue was edited by Lee Humphreys and Tarleton Gillespie, who did a great job throughout the whole process.</p>
+
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <div align="center" style="margin: 1em 0;">
+    <ins class="adsbygoogle"
+         style="display:block; border-bottom: initial;"
+         data-ad-client="ca-pub-7328585512091257"
+         data-ad-slot="3049671934"
+         data-ad-format="auto"></ins>
+    </div>
+    <script>
+    
+    </script>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<a href="/sitemap/">Sitemap</a>
+<!-- end custom footer snippets -->
+
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/staeiou"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+    
+      <li><a href="http://github.com/staeiou"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="http://stuartgeiger.com/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2016 R. Stuart Geiger. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    <script src="http://stuartgeiger.com/assets/js/main.min.js"></script>
+
+
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79273-2', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+
