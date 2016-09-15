@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Stuart Geiger"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
-description              : &description "computational ethnographer<br/>ethnographer of computation"
-url                      : http://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : http://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -47,14 +47,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
+google_site_verification : "-DRBg"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : &twitter 
 facebook:
   username               : 
   app_id                 :
@@ -73,17 +73,17 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-79273-2"
+    tracking_id          : 
 
 
 # Site Author
 author:
   name             : 
-  avatar           : "oban3.jpg"
-  bio              : "Computational ethnographer, ethnographer of computation, and postdoc at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
-  location         : "Berkeley, CA"
+  avatar           : ""
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              : 
   bitbucket        :
@@ -92,34 +92,31 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "staeiou"
+  wikipedia        : 
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - "*.pdf"
   - "papers/*.pdf"
-  - "portfolio/papers/*.pdf"
-  - "portfolio/*.pdf"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -178,7 +175,7 @@ collections:
   articles:
     output: true
     permalink: /:collection/:path/
-  expressions:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -225,10 +222,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _expressions
+  # _portfolio
   - scope:
       path: ""
-      type: expressions
+      type: portfolio
     values:
       layout: single
       author_profile: true
