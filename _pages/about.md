@@ -15,12 +15,15 @@ Hi! This is the front page of your Github Pages website. It can be long or it ca
 You can do anything that markdown does.
 
 Heading One
---------
-You can have subheadings.
+======
+You can have headings.
 
-Headnig Two
---------
+Heading Two
+------
+And subheadings
 
-    there can be code blocks
-    that are indented
-    and formatted nicely
+
+```python
+s = "You can have code blocks with syntax highlighting"
+print(s)
+```
