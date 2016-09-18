@@ -171,7 +171,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  articles:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -212,10 +212,10 @@ defaults:
       author_profile: false
       share: false
       comments: false
-  # _articles
+  # _publications
   - scope:
       path: ""
-      type: articles
+      type: publications
     values:
       layout: single
       author_profile: true
