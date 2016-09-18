@@ -28,7 +28,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Rejecting pull requests
-  * Supervisor: Professor Git
+  * Supervisor: Professor Hub
 
 
 Skills
