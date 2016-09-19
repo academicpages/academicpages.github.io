@@ -8,6 +8,6 @@ You can also find my articles on <u><a href="http://scholar.google.com/yourgoogl
 
 {% include base_path %}
 
-{% for post in site.articles reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
