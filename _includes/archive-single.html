@@ -51,7 +51,7 @@
     {% endif %}
     
     {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
+      <p>Recommended citation: {{ post.citation }} {% if post.paperurl %} {{<a href=" {{ post.paperurl }} "><u>{{ post.paperurl }}</u></a>}} {% endif %}</p>
     {% endif %}
 
   </article>
