@@ -1,11 +1,10 @@
 ---
-permalink: /
-title: "About"
-excerpt: "About me"
+permalink: /markdown/
+title: "Markdown"
 author_profile: true
 redirect_from: 
-  - "/wordpress/"
-  - "/wordpress/index.html"
+  - /md/
+  - /markdown.html
 ---
 
 A variety of common markup showing how the theme styles them.
