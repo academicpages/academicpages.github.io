@@ -37,16 +37,17 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-        {% if post.venue %}
-      Published in <i>{{ post.venue }}</i>, {{ post.date | year }} </br>
+    
+    {% if post.venue %}
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | year }} </p>
     {% endif %}
 
     {% if post.paperurl %}
-      Download <a href=" {{ post.paperurl }} "> here</a> </br>
+      <p>Download <a href=" {{ post.paperurl }} "> here</a></p>
     {% endif %}
 
     {% if post.citation %}
-      Recommended citation: {{ post.citation }} </br>
+      <p>Recommended citation: {{ post.citation }}</p>
     {% endif %}
     
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
