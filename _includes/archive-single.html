@@ -39,7 +39,7 @@
     {% endif %}
     
     {% if post.venue %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date }} </p>
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }} </p>
     {% endif %}
 
     {% if post.paperurl %}
@@ -47,7 +47,7 @@
     {% endif %}
 
     {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description">Description: {{ post.excerpt | markdownify }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
     
     {% if post.citation %}
