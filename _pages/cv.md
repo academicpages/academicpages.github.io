@@ -7,10 +7,7 @@ redirect_from:
   - /wordpress/cv/
 ---
 
-
 {% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
-
 
 Education
 ======
@@ -29,7 +26,6 @@ Work experience
   * Github University
   * Duties included: Rejecting pull requests
   * Supervisor: Professor Hub
-
 
 Skills
 ======
