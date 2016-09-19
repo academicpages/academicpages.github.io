@@ -50,9 +50,12 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
     
-    {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }} {% if post.paperurl %} {{<a href=" {{ post.paperurl }} "><u>{{ post.paperurl }}</u></a>}} {% endif %}</p>
+    {% if post.citation and post.paperurl %}
+      <p>Recommended citation: {{ post.citation }} <a href=" {{ post.paperurl }} "><u>{{ post.paperurl }}</u></a></p>
+    {% elsif post.citation %}
+      <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
+     
 
   </article>
 </div>
