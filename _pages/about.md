@@ -8,8 +8,6 @@ redirect_from:
   - "/wordpress/index.html"
 ---
 
-{% include base_path %}
-
 A variety of common markup showing how the theme styles them.
 
 # Header one
