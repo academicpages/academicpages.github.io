@@ -43,13 +43,16 @@
     {% endif %}
 
     {% if post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "> here</a></p>
+      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.excerpt %}
+    <p class="archive__item-excerpt" itemprop="description">Description: {{ post.excerpt | markdownify }}</p>
+    {% endif %}
+    
     {% if post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% endif %}
-    
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+
   </article>
 </div>
