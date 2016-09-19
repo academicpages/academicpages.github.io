@@ -7,9 +7,19 @@ redirect_from:
   - /markdown.html
 ---
 
-A variety of common markup showing how the theme styles them.
+# Jekyll / theme guide
 
-# Header one
+* Basic config options: _config.yml
+* Top navigation bar config: _data/navigation.yml
+*
+
+# Tips and hints
+
+* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github compiled with Jekyll. Successful builds have a green check, errors have a red x, and no icon means that version has not been compiled.
+
+
+# Markdown guide
 
 ## Header two
 
