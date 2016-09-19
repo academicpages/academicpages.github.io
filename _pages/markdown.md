@@ -7,13 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
-# Jekyll / theme guide
+## Jekyll / theme guide
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
-*
+* 
 
-# Tips and hints
+## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
@@ -22,10 +22,10 @@ redirect_from:
   * Red X: error
   * No icon: not built
 
+## Resources
+ * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-# Markdown guide
-
-## Header two
+## Markdown guide
 
 ### Header three
 
