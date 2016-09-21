@@ -33,14 +33,14 @@ $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
-$type-size-1                : 2.641em;  // ~39.056px
-$type-size-2                : 2.153em;  // ~31.248px
-$type-size-3                : 1.763em;  // ~25.008px
-$type-size-4                : 1.2em;   // ~20px
+$type-size-1                : 2.441em;  // ~39.056px
+$type-size-2                : 1.953em;  // ~31.248px
+$type-size-3                : 1.563em;  // ~25.008px
+$type-size-4                : 1.25em;   // ~20px
 $type-size-5                : 1em;      // ~16px
-$type-size-6                : .9em;   // ~12px
-$type-size-7                : 0.9em; // ~11px
-$type-size-8                : 0.8em;  // ~10px
+$type-size-6                : 0.75em;   // ~12px
+$type-size-7                : 0.6875em; // ~11px
+$type-size-8                : 0.625em;  // ~10px
 
 
 /*
@@ -104,19 +104,19 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 @include breakpoint-set("to ems", true);
 
 $small                      : 600px;
-$medium                     : 601px;
-$medium-wide                : 768px;
-$large                      : 900px;
-$x-large                    : 1200px;
+$medium                     : 768px;
+$medium-wide                : 900px;
+$large                      : 1024px;
+$x-large                    : 1280px;
 
 
 /*
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 0px;
-$right-sidebar-width        : 0px;
-$right-sidebar-width-wide   : 0px;
+$right-sidebar-width-narrow : 200px;
+$right-sidebar-width        : 300px;
+$right-sidebar-width-wide   : 400px;
 
 $susy: (
   columns: 12,
@@ -127,12 +127,12 @@ $susy: (
   gutter-position: after,
   container: $large,
   global-box-sizing: border-box,
-   debug: (
-     image: show,
-     color: blue,
-     output: overlay,
-     toggle: top right,
-   ),
+  // debug: (
+  //   image: show,
+  //   color: blue,
+  //   output: overlay,
+  //   toggle: top right,
+  // ),
 );
 
 
