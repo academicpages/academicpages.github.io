@@ -4,6 +4,8 @@ A Github Pages template for academic websites. This was forked (then detached) f
 
 1. Fork this repository
 1. Rename it "yourusername.github.io"
+ * Do this in the settings menu (top right, below watch/star/fork buttons)
+ * Check it is running in the "Github Pages" section of the settings page.
 1. Update variables in _config.yml to match your site
  * url is especially important
 1. Update files in _pages directory to set top-level 
