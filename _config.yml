@@ -115,7 +115,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - "papers/*.pdf"
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -258,7 +258,6 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
