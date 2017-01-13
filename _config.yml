@@ -205,7 +205,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: publications
+      type: teaching
     values:
       layout: single
       author_profile: true
