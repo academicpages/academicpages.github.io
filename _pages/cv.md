@@ -41,15 +41,15 @@ Publications
   {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}
-
-
+ 
+ 
 Talks
 ======
   {% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
-  
-
+   
+ 
 Teaching
 ======
   {% for post in site.teaching %}
