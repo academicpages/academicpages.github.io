@@ -25,3 +25,6 @@ For site content, there is one markdown file for each type of content, which are
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png "Editing a markdown file for a talk")
 
+For more info
+------
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
