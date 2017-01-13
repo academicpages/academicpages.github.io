@@ -45,7 +45,7 @@ Publications
 Talks
 ======
   {% for post in site.talks %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}
 
 Teaching
