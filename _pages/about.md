@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of your Github pages website, using the [academicpages Jekyll theme](https://github.com/academicpages/academicpages.github.io). This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose, and extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]((https://github.com/academicpages/academicpages.github.io)) right now, modify the configuration and markdown files, add your own images and other content, and have your own site for free!
+This is the front page of a generic Github pages website that uses the [academicpages Jekyll theme](https://github.com/academicpages/academicpages.github.io). This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]((https://github.com/academicpages/academicpages.github.io)) right now, modify the configuration and markdown files, add your own images and other content, and have your own site for free!
 
 A data-driven personal website
 ======
