@@ -42,11 +42,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
 
+
 Talks
 ======
   {% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
+  
 
 Teaching
 ======
