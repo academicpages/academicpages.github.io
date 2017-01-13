@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a generic Github pages website that uses the [academicpages Jekyll theme](https://github.com/academicpages/academicpages.github.io). This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]((https://github.com/academicpages/academicpages.github.io)) right now, modify the configuration and markdown files, add your own images and other content, and have your own site for free!
+This is the front page of a generic Github pages website that uses the [academicpages Jekyll theme](https://github.com/academicpages/academicpages.github.io). This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]((https://github.com/academicpages/academicpages.github.io)) right now, modify the configuration and markdown files, add your own images and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
-The academicpages Jekyll theme is entirely based on structured data in the [YAML metadata language](http://docs.ansible.com/ansible/YAMLSyntax.html), which is stored various markdown and .yml files. The free Github pages service creates static HTML pages for the entire site based on these files. The HTML pages are rebuilt every time the repository is updated. Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. 
+The academicpages Jekyll theme is entirely based on structured data in the [YAML metadata language](http://docs.ansible.com/ansible/YAMLSyntax.html), which is stored various markdown and .yml files. The free [Github pages](https://pages.github.com/) service creates static HTML pages for the entire site based on these files. The HTML pages are automatically rebuilt every time the repository is updated. Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. 
 
 Site-wide configuration
 ------
