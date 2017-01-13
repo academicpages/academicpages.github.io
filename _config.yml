@@ -205,13 +205,12 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: pages
+      type: publications
     values:
       layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
