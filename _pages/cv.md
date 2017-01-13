@@ -45,9 +45,7 @@ Publications
 Talks
 ======
   {% for post in site.talks %}
-    {% unless post.talk_type == "Conference proceedings talk" %}
-      {% include archive-single-talk-cv.html %}
-    {% endunless %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}
 
 Teaching
