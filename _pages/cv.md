@@ -15,7 +15,7 @@ Education
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2017 (expected)
 
-<br/>
+<p style="height:100px"> </p>
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Work experience
   * Duties included: Rejecting pull requests
   * Supervisor: Professor Hub
   
-<br/>
+<p style="height:100px"> </p>
 
 Skills
 ======
@@ -40,7 +40,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-<br/>
+<p style="height:100px"> </p>
 
 Publications
 ======
@@ -48,22 +48,24 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
   
-<br/>
+<p style="height:100px"> </p>
 
 Talks
 ======
   {% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
-<br/>
+  
+<p style="height:100px"> </p>
 
 Teaching
 ======
   {% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}
-<br/>
   
+<p style="height:100px"> </p>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
