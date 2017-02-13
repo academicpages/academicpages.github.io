@@ -19,7 +19,8 @@ This approach is also useful because it makes you separate the website's content
 Getting started
 ======
 1. Register a GitHub account if you don't have one
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button on the top right. Name the repository "[your GitHub username].github.io", which will also be your website.'s URL.
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button on the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be under "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata
 
 Site-wide configuration
