@@ -7,12 +7,6 @@ redirect_from:
   - /wordpress/cv/
 ---
 
-<!---
-Comment: You can freely edit the markdown file in this page, just make sure to not modify
-the {% code that is formatted like this %} because it is what turns your markdown files into
-summaries for this page.
--->
-
 {% include base_path %}
 
 Education
