@@ -12,7 +12,9 @@ This is the front page of a generic Github pages website that uses the [academic
 
 A data-driven personal website
 ======
-The academicpages Jekyll theme is entirely based on structured data in the [YAML metadata language](http://docs.ansible.com/ansible/YAMLSyntax.html), which is stored various markdown and .yml files in your own public Github repository. The free [Github pages](https://pages.github.com/) service creates static HTML pages for the entire site based on these files. The HTML pages are automatically rebuilt every time the repository is updated. Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. 
+The academicpages template is based on structured data in the [YAML metadata language](http://docs.ansible.com/ansible/YAMLSyntax.html), which is stored various markdown (.md) and .yml files in your own public Github repository. The free [Github pages](https://pages.github.com/) service creates static HTML pages for the entire site based on these files. The HTML pages are automatically rebuilt every time the repository is updated. Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. 
+
+This approach is also useful because it makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, telling GitHub Pages how to transform that content & metadata into HTML pages. You can modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files with the content & metadata your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over-- just be sure to save the markdown files!
 
 Site-wide configuration
 ------
