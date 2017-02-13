@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /wordpress/cv/
-section_spacing: 10px
+section_spacing: 0px
 ---
 
 {% include base_path %}
