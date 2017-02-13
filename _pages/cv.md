@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /wordpress/cv/
+  - /resume
 section_spacing: 0px
 ---
 
