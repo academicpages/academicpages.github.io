@@ -16,7 +16,7 @@ Education
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2017 (expected)
 
-<p style="height:{% section_spacing %}"> </p>
+<p style="height:{{ page.section_spacing }}"> </p>
 
 Work experience
 ======
@@ -30,7 +30,7 @@ Work experience
   * Duties included: Rejecting pull requests
   * Supervisor: Professor Hub
   
-<p style="height:{% section_spacing %}"> </p>
+<p style="height:{{ page.section_spacing }}"> </p>
 
 Skills
 ======
@@ -41,7 +41,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-<p style="height:{% section_spacing %}"> </p>
+<p style="height:{{ page.section_spacing }}"> </p>
 
 Publications
 ======
@@ -49,7 +49,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
   
-<p style="height:{% section_spacing %}"> </p>
+<p style="height:{{ page.section_spacing }}"> </p>
 
 Talks
 ======
@@ -57,7 +57,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}
   
-<p style="height:{% section_spacing %}"> </p>
+<p style="height:{{ page.section_spacing }}"> </p>
 
 Teaching
 ======
@@ -65,7 +65,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}
   
-<p style="height:{% section_spacing %}"> </p>
+<p style="height:{{ page.section_spacing }}"> </p>
 
 Service and leadership
 ======
