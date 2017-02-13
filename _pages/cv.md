@@ -45,25 +45,25 @@ Skills
 
 Publications
 ======
-  {% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
   
 <p style="height:{{ page.section_spacing }}"> </p>
 
 Talks
 ======
-  {% for post in site.talks %}
+  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
   
 <p style="height:{{ page.section_spacing }}"> </p>
 
 Teaching
 ======
-  {% for post in site.teaching %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
   
 <p style="height:{{ page.section_spacing }}"> </p>
 
