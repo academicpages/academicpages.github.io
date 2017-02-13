@@ -14,6 +14,7 @@ Education
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2017 (expected)
+<br/>
 
 Work experience
 ======
@@ -26,6 +27,7 @@ Work experience
   * Github University
   * Duties included: Rejecting pull requests
   * Supervisor: Professor Hub
+<br/>
 
 Skills
 ======
@@ -35,24 +37,28 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+<br/>
 
 Publications
 ======
   {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}
+<br/>
 
 Talks
 ======
   {% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
+<br/>
 
 Teaching
 ======
   {% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}
+<br/>
   
 Service and leadership
 ======
