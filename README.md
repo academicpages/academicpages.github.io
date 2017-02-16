@@ -4,15 +4,11 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 # Instructions
 
-1. Fork this repository
-1. Rename it "yourusername.github.io"
- * Do this in the settings menu (top right, below watch/star/fork buttons)
- * Check it is running in the "Github Pages" section of the settings page.
-1. Update variables in _config.yml to match your site
- * url is especially important
-1. Update files in _pages directory to set top-level 
-1. Update/delete sample files for different kinds of collections 
- * The files for each item are in _talks, _teaching, _publications, _portfolio, and _posts for each item in these collections
- * Delete the sample files (no need to delete the directory) if you do not want a kind of collection in your site
-1. Update top menu bar (to add/remove items) by editing _data/navigation.yml
-1. Run talkmap.ipynb (must have repository cloned) to generate talkmap
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+
+See more info at https://academicpages.github.io/
