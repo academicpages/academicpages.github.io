@@ -12,3 +12,11 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 See more info at https://academicpages.github.io/
+
+# Bugs that have been fixed
+
+There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+
+To support this, here is a manually-curated list of bugs that have been fixed since this project was released. If you have a bug, you can go through and manually update. (If you have a better idea about how to support this, please let me know!)
+
+- 2017-03-27: In author sidebar, link for Google Scholar displays site URL instead of Google Scholar URL in _config.yml. [Issue #6](https://github.com/academicpages/academicpages.github.io/issues/6), fixed in [34bg699](https://github.com/academicpages/academicpages.github.io/commit/34bd6990aa335c40cdadc01b5561797860d5eaa6)
