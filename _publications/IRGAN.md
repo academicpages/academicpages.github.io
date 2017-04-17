@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/IRGAN
 venue: "The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-17)"
 date: 2017-04-11
+citation: 'Jun Wang, Lantao Yu, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. (2017). "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models" <i>The International ACM SIGIR Conference on Research and Development in Information Retrieval.</i>.'
 ---
 
 ## Abstract
