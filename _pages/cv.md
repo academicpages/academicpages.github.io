@@ -18,20 +18,24 @@ Education
 * Research interests: machine learning (especially in deep learning, reinforcement learning, adversarial training) and their applications in sequential decision making, natural language processing and information retrieval.
 
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Research experience
 ======
-* Sequence generative adversarial nets with policy gradient, Jun. 2016 - Sep. 2016
+* **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**, Sep. 2016 - Jan. 2017
+* Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration (Under review at KDD 2017), Dec. 2016 - Feb. 2017
+* **Sequence generative adversarial nets with policy gradient**, Jun. 2016 - Sep. 2016
 * Reviewer of PIC-2016， SIGIR-2017
 * Open source project: Implementation of Sequence Generative Adversarial Nets with Policy Gradient. [[Link]](https://github.com/LantaoYu/SeqGAN).
 * Paper collection of multi-agent reinforcement learning (MARL). [[Link]](https://github.com/LantaoYu/MARL-Papers)
 * Research on click fraud detection in computational advertisement, cooperating with YOYI, 2015
 * Participation in Research Program: Based wearable device information perception and position trajectory, supervised by Gongliang Chen, Shanghai Jiao Tong University, 2014
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
