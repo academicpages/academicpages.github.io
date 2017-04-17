@@ -9,4 +9,4 @@ location: "Shanghai, China"
 ---
 
 Review of The Thirt-First AAAI Conference on Artificial Intelligence
-[Slide](http://lantaoyu.github.io/files/2017-03-08-aaai-review.pdf)
+[[Slide]](http://lantaoyu.github.io/files/2017-03-08-aaai-review.pdf)

@@ -22,8 +22,8 @@ Research experience
 ======
 * Sequence generative adversarial nets with policy gradient, Jun. 2016 - Sep. 2016
 * Reviewer of PIC-2016， SIGIR-2017
-* Open source project: [Implementation of Sequence Generative Adversarial Nets with Policy Gradient](https://github.com/LantaoYu/SeqGAN).
-* [Paper collection of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
+* Open source project: Implementation of Sequence Generative Adversarial Nets with Policy Gradient. [[Link]](https://github.com/LantaoYu/SeqGAN).
+* Paper collection of multi-agent reinforcement learning (MARL). [[Link]](https://github.com/LantaoYu/MARL-Papers)
 * Research on click fraud detection in computational advertisement, cooperating with YOYI, 2015
 * Participation in Research Program: Based wearable device information perception and position trajectory, supervised by Gongliang Chen, Shanghai Jiao Tong University, 2014
 

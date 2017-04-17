@@ -9,4 +9,4 @@ location: "San Francisco, California"
 ---
 
 Oral Presentation of the research paper [Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473.pdf) on the 31st AAAI Conference on Artificial Intellgence.
-[Slide](http://lantaoyu.github.io/files/2017-02-07-aaai-seqgan.pdf)
+[[Slide]](http://lantaoyu.github.io/files/2017-02-07-aaai-seqgan.pdf)
