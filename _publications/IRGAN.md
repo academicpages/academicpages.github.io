@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/IRGAN
 venue: "The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-17)"
 date: 2017-08
+citation: 'Lantao Yu, Weinan Zhang, Jun Wang, and Yong Yu. (2017). "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient." <i>AAAI conference on Artificial Intelligence</i>.'
 ---
 
 ## Abstract
