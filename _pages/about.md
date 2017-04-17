@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <center>
-![Photo](https://lantaoyu.github.io/files/lantaoyu_img.jpg =960x640)
+![Photo](https://lantaoyu.github.io/files/lantaoyu_img.jpg =960x)
 </center>
 <!-- <div align=center>
 ![Photo](https://lantaoyu.github.io/files/lantaoyu_img.jpg)
