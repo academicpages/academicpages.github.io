@@ -9,32 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+[[Curriculum Vitae]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* I am now pursuing **Bachelor’s Degree** in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
+* I am a  **Student Researcher** at Machine Learning group in **Apex Data and Knowledge Mangement Lab**, Shanghai Jiao Tong University.
+* Research interests: machine learning (especially in deep learning, reinforcement learning, adversarial training) and their applications in sequential decision making, natural language processing and information retrieval.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sequence generative adversarial nets with policy gradient, Jun. 2016 - Sep. 2016
+* Reviewer of PIC-2016， SIGIR-2017
+* Open source project: [Implementation of Sequence Generative Adversarial Nets with Policy Gradient](https://github.com/LantaoYu/SeqGAN).
+* [Paper collection of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
+* Research on click fraud detection in computational advertisement, cooperating with YOYI, 2015
+* Participation in Research Program: Based wearable device information perception and position trajectory, supervised by Gongliang Chen, Shanghai Jiao Tong University, 2014
 
 Publications
 ======
@@ -47,13 +38,9 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Honors & Awards
+* **National Scholarship**, Shanghai Jiao Tong University, 2016.
+* **GPA 1st/150**, CS Department, Shanghai Jiao Tong University, 2015-2016.
+* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University, 2015,2016.
+* **Yuan-Ze Scholarship**, Shanghai Jiao Tong University, 2015.
