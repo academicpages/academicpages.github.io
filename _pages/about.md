@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <center> -->
-<!-- ![Photo](https://lantaoyu.github.io/files/lantaoyu_img.jpg) -->
-<!-- </center> -->
-<!-- <div align=center>
-</div> -->
-![Photo](https://lantaoyu.github.io/files/lantaoyu_img.jpg){: .center width="640px"}
+<p align="center">
+  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="SeqGAN image" style="width: 640px;"/>
+</p>
 
 
 * I am now pursuing Bachelor’s Degree in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
