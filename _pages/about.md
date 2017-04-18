@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="SeqGAN image" style="width: 640px;"/>
+  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="SeqGAN image" style="width: 300px;"/>
 </p>
 
 
