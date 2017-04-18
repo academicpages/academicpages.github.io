@@ -13,7 +13,7 @@ redirect_from:
 <!-- </center> -->
 <!-- <div align=center>
 </div> -->
-![Photo](https://lantaoyu.github.io/files/lantaoyu_img.jpg){: .center-image width="640px"}
+![Photo](https://lantaoyu.github.io/files/lantaoyu_img.jpg){: .center width="640px"}
 
 
 * I am now pursuing Bachelor’s Degree in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
