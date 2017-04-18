@@ -3,7 +3,7 @@ title: "AAAI 2017 Review"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-03-08-aaai-review
-venue: "Apex, Shanghai Jiao Tong University"
+venue: "Apex Lab, Shanghai Jiao Tong University"
 date: 2017-03-08
 location: "Shanghai, China"
 ---
