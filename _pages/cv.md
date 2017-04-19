@@ -30,7 +30,7 @@ Publications
   {% endfor %}</ul>
 
 
-Research experience
+Research Experience
 ======
 * **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.** **Accepted as a full paper at SIGIR 2017**. Sep. 2016 - Jan. 2017
 * Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration (Submitted at KDD 2017), Dec. 2016 - Feb. 2017
