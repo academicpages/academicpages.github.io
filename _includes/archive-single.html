@@ -45,14 +45,14 @@
     {% endif %}
     
     {% if post.image %}
-    <img src=
+      <img src=
           {% if post.image contains "://" %}
             "{{ post.image }}"
           {% else %}
             "{{ post.image | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
-       ">
-     {% endif %}
+      >
+    {% endif %}
 
     {% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
