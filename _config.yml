@@ -220,6 +220,15 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
   # _portfolio
   - scope:
       path: ""
