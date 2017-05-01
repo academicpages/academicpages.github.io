@@ -2,12 +2,39 @@
    PAPERS
    ========================================================================== */
 
-   .stay_image{
+#wrapper {
+	background-color: #FFFFFF; 
+	display: inline-block;
+	min-width: 1000px;
+	min-height: 140px;
+	text-align: center;
+	height: auto;
+	padding: 0px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+.Publication_image{
+	display: inline-block;
+	width: 160px;
+	height: 120px;
+	padding-top: 12px;
+	float: left;
+	border-radius: 5%;
+}
+
+.stay_image{
 	display: inline-block;
 	width: 120px;
 	height: 30px;
 	float: left;
 	margin-right: 40px;
+	border-radius: 5%;
+}
+
+.roundImage{
 	border-radius: 5%;
 }
 
