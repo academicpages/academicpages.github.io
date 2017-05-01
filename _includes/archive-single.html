@@ -40,6 +40,33 @@
 	</div>
 	{% endif %}
 
+	<div class="Publication_text">
+	
+		<div class="Publication_text">
+			 {% if post.link %}
+			<a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+			{% else %}
+			<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+			{% endif %}
+		</div>
+		
+		<div class="Publication_authors" >
+			{% if post.authors %}
+            <em>{{ post.authors }}</em>
+			{% else %}
+			F. Javier Fabre
+			{% endif %}
+   		</div>
+		
+		<div class="Publication_info">
+			{% if post.excerpt %}
+			<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+			{% endif %}
+		</div>
+	
+	</div> 
+	
+<!--
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -71,5 +98,6 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+-->
   </article>
 </div>
