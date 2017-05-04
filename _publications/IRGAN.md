@@ -7,6 +7,7 @@ date: 2017-04-11
 citation: 'Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. (2017). "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models" <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i>'
 ---
 
+
 ## Abstract
 This paper provides a unified account of two schools of thinking in information retrieval modelling: the generative retrieval focusing on predicting relevant documents given a query, while discriminative retrieval focusing on predicting relevancy given a query-document pair. We propose a game theoretical minimax game to iteratively optimise both models.
 On one hand, the discriminative model, aiming to mine signals from labelled and unlabelled data, provides guidance to train the generative model towards fitting the underlying relevance distribution over documents given the query.
