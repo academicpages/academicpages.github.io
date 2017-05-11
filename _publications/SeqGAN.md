@@ -3,8 +3,8 @@ title: "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient"
 collection: publications
 permalink: /publications/SeqGAN
 venue: "The Thirty-First AAAI conference on Artificial Intelligence (AAAI-17)"
-date: 2016-11-11
-citation: '<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. 2017. <i>The 31st AAAI conference on Artificial Intelligence</i>.'
+date: 2017-2-7
+citation: '<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. 2017.'
 ---
 [[ArXiv]](https://arxiv.org/abs/1609.05473) [[AAAI Version]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14344/14489) [[Code]](https://github.com/LantaoYu/SeqGAN) [[Slide]](http://lantaoyu.github.io/files/2017-02-07-aaai-seqgan.pdf)
 
