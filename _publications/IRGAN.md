@@ -6,7 +6,6 @@ venue: "The 40th International ACM SIGIR Conference on Research and Development 
 date: 2017-04-11
 citation: 'Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. 2017. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i>'
 ---  
-\[PDF\] (Coming Soon)    
 
 
 ## Abstract
