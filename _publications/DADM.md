@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/DADM
 venue: "KDD 2017"
 date: 2017-06-09
-citation: '<b>Lantao Yu</b>*, Xuejian Wang* (Equal Contribution), Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang. <i>KDD 2017.</i> 2017.'
+citation: '<b>Lantao Yu</b>*, Xuejian Wang* (Equal Contribution), Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang. KDD 2017.'
 ---  
 
 
