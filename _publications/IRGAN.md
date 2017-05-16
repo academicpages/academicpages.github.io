@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/IRGAN
 venue: "The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-17)"
 date: 2017-04-11
-citation: 'Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> 2017.'
+citation: 'Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> SIGIR 2017.'
 ---  
 
 
