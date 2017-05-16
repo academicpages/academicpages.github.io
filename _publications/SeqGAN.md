@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SeqGAN
 venue: "The Thirty-First AAAI conference on Artificial Intelligence (AAAI-17)"
 date: 2017-2-7
-citation: '<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. AAAI 2017.'
+citation: '<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.'
 ---
 [[ArXiv]](https://arxiv.org/abs/1609.05473) [[AAAI Version]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14344/14489) [[Code]](https://github.com/LantaoYu/SeqGAN) [[Slide]](http://lantaoyu.github.io/files/2017-02-07-aaai-seqgan.pdf)
 
