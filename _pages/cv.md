@@ -32,9 +32,9 @@ Publications
 
 Research Experience
 ======
-* **Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. <br> Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
-* **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models. <br> Accepted as a full paper at SIGIR 2017**. Sep. 2016 - Jan. 2017
-* **Sequence Generative Adversarial Nets with Policy Gradient. <br> Accepted as a full paper at AAAI 2017**. Jun. 2016 - Sep. 2016
+* <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
+* <i> IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models. </i> **<br> Accepted as a full paper at SIGIR 2017**. Sep. 2016 - Jan. 2017
+* <i> Sequence Generative Adversarial Nets with Policy Gradient. </i> **<br> Accepted as a full paper at AAAI 2017**. Jun. 2016 - Sep. 2016
 * Reviewer of PIC-2016， SIGIR-2017
 * Open source project: [Implementation of Sequence Generative Adversarial Nets with Policy Gradient](https://github.com/LantaoYu/SeqGAN).
 * [Paper collection of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
