@@ -1,18 +1,19 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Haotian Zhang"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  email       : "haotiz@uw.edu"
+  bio         : "Be boundless."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  facebook    : "CarlZhang"
+ # google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+
+#Name2 Name2:
+#  name        : "Name2 Name2"
+ # email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+ # avatar      : "bio-photo.jpg"
+#  twitter     : "name2"
+ # google_plus : "Name"
