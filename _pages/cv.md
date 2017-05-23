@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Lantao Yu"
+title: "Lantao Yu (于澜涛)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ Shanghai Jiao Tong University<br>
 
 Education
 ======
-* I am now pursuing **Bachelor’s Degree** in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
+* I am now pursuing **Bachelor’s Degree** in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
 * I am a  **Student Researcher** at Machine Learning group in **Apex Data and Knowledge Mangement Lab**, Shanghai Jiao Tong University.
 * My research interests are the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
