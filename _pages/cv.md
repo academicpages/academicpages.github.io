@@ -36,7 +36,9 @@ Research Experience
 * <i> IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models. </i> **<br> Accepted as a full paper at SIGIR 2017**. Sep. 2016 - Jan. 2017
 * <i> Sequence Generative Adversarial Nets with Policy Gradient. </i> **<br> Accepted as a full paper at AAAI 2017**. Jun. 2016 - Sep. 2016
 * Reviewer of PIC-2016， SIGIR-2017
-* Open source project: [Implementation of Sequence Generative Adversarial Nets with Policy Gradient](https://github.com/LantaoYu/SeqGAN).
+* Open source project: 
+	* [Implementation of Sequence Generative Adversarial Nets with Policy Gradient](https://github.com/LantaoYu/SeqGAN).
+	* [Implementation of IRGAN](https://github.com/geek-ai/irgan)
 * [Paper collection of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 * Research on click fraud detection in computational advertisement, cooperating with YOYI, 2015
 * Participation in Research Program: Based wearable device information perception and position trajectory, supervised by Gongliang Chen, Shanghai Jiao Tong University, 2014
@@ -49,7 +51,8 @@ Talks
   {% endfor %}</ul>
 
 ## Honors & Awards
-* **National Scholarship**, Shanghai Jiao Tong University, 2016.
+* **Outstanding Undergraduate Scholarship (2%)**, Shanghai Jiao Tong University, 2016-2017
+* **National Scholarship (2%)**, Shanghai Jiao Tong University, 2015-2016.
 * **GPA 1st/150**, CS Department, Shanghai Jiao Tong University, 2015-2016.
 * **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University, 2015,2016.
-* **Yuan-Ze Scholarship**, Shanghai Jiao Tong University, 2015.
+* **Yuan-Ze Scholarship**, Shanghai Jiao Tong University, 2014-2015.
