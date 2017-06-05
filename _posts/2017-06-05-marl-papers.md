@@ -8,7 +8,7 @@ permalink: /posts/2017/06/marl-papers/
   - category2 -->
 ---
 
-# Paper Collection of Multi-Agent Reinforcement Learning (MARL)
+<!--# Paper Collection of Multi-Agent Reinforcement Learning (MARL)-->
 
 This is a collection of research and review papers of multi-agent reinforcement learning (MARL). The Papers are sorted by time.
 
