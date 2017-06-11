@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @kellieotto
+  username               : &twitter "kellieotto"
 facebook:
   username               : 
   app_id                 :
