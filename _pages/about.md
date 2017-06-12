@@ -13,7 +13,7 @@ I’m a fourth year PhD candidate in the [Statistics Department](https://statist
 
 Contact
 -------
-345 Evans Hall
-University of California, Berkeley
-Berkeley, CA 94720
+345 Evans Hall   
+University of California, Berkeley   
+Berkeley, CA 94720   
 kellieotto\[at\]berkeley\[dot\]edu
