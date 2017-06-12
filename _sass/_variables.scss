@@ -47,18 +47,18 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #D7CEC7; // grain
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #D7CEC7; // grain
+$background-color           : #D7CEC7; // grain
+$code-background-color      : #fff;
+$code-background-color-dark : mix(#000, #fff, 30%);
+$text-color                 : #565656; // blackboard
+$border-color               : mix(#fff, #565656, 50%);
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #9E828F;
-$link-color-hover           : #78AFA0;
-$link-color-visited         : #9E828F;
-$masthead-link-color        : #9E828F;
-$masthead-link-color-hover  : #78AFA0;
+$link-color                 : #76323F; // oxblood
+$link-color-hover           : mix(#fff, $link-color, 50%);
+$link-color-visited         : $link-color;
+$masthead-link-color        : $link-color;
+$masthead-link-color-hover  : $link-color-hover;
 
 
 /*
