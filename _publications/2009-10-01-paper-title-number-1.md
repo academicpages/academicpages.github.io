@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "permute: a Python Package for Permutation Methods"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2016-06-28-permute
+date: 2016-06-28
+paperurl: 'https://github.com/statlab/permute/'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[See my talk from UseR! 2016 on the corresponding R package.](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Wednesday-June-29--1048am-1106am)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+`permute` provides permutation tests for a variety of common hypothesis testing problems. Permutation tests require only minimal distributional assumptions about the data and guarantee correct type I error rates. Our goal is to enable researchers to enable researchers to reason about what nonparametric tests are suitable for their experimental design and to effectively implement these tests in Python. permute is available on [Python Package Index](https://pypi.python.org/pypi/permute/) and on [GitHub](https://github.com/statlab/permute/).
