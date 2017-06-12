@@ -47,14 +47,15 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #ede3dc; // grain
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
+$gray                       : #D7CEC7; // grain
+$dark-gray                  : $gray;
+$darker-gray                : mix(#000, $gray, 40%);
+$darkest-gray               : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #ede3dc; // grain
-$background-color           : #ede3dc; // grain
+$body-color                 : $lighter-gray; 
+$background-color           : $lighter-gray;
 $code-background-color      : #fff;
 $code-background-color-dark : mix(#000, #fff, 30%);
 $text-color                 : #565656; // blackboard
