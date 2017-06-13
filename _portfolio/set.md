@@ -1,0 +1,20 @@
+---
+title: "Student Evaluations of Teaching (Mostly) Do Not Measure Teaching Effectiveness"
+excerpt: ""
+collection: portfolio
+---
+*with Anne Boring and Philip Stark*
+
+[View the article on ScienceOpen Research](https://www.scienceopen.com/document/review?vid=818d8ec0-5908-47d8-86b4-5dc38f04b23e)
+
+In the press: [NPR](http://www.npr.org/sections/ed/2016/01/25/463846130/why-women-professors-get-lower-ratings), [Inside Higher Ed](https://www.insidehighered.com/news/2016/01/11/new-analysis-offers-more-evidence-against-student-evaluations-teaching)
+
+Student evaluations of teaching (SET) are widely used in academic personnel decisions as a measure of teaching effectiveness. We show:
+
+* SET are biased against female instructors by an amount that is large and statistically significant
+* the bias affects how students rate even putatively objective aspects of teaching, such as how promptly assignments are graded the bias varies by discipline and by student gender, among other things
+* it is not possible to adjust for the bias, because it depends on so many factors
+* SET are more sensitive to students’ gender bias and grade expectations than they are to teaching effectiveness
+* gender biases can be large enough to cause more effective instructors to get lower SET than less effective instructors.
+
+These findings are based on nonparametric statistical tests applied to two datasets: 23,001 SET of 379 instructors by 4,423 students in six mandatory first-year courses in a five-year natural experiment at a French university, and 43 SET for four sections of an online course in a randomized, controlled, blind experiment at a US university.
