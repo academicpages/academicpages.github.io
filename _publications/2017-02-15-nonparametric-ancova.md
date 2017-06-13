@@ -1,7 +1,7 @@
 ---
 title: "A Comparison of Parametric and Permutation Tests for Regression Analysis of Randomized Experiments"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2017-02-15-nonparametric-ancova
 excerpt: 'We compared traditional ANCOVA to permutation approaches in the analysis of randomized experiments.'
 date: 2017-02-15
 paperurl: 'https://arxiv.org/abs/1702.04851'
