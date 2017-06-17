@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Check out my CV here (spanish version here).
+Check out a short CV [here](files/cv.pdf) (spanish version soon).
