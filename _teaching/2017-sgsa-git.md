@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-sgsa-git
 venue: "UC Berkeley, Department of Statistics"
-date: 2016-08-25
+date: 2017-04-21
 ---
 
 I designed and taught a lesson on using git and GitHub for collaborative reproducible workflows for the Statistics Graduate Student Association. [The presentation materials are here](https://github.com/kellieotto/git-fundamentals).
