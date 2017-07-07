@@ -2,7 +2,7 @@
 title: "Model-based Matching"
 excerpt: ""
 collection: portfolio
-permalink: /portfolio/2015-modelmatch
+permalink: /portfolio/modelmatch
 date: 2015
 ---
 
