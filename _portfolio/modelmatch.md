@@ -3,7 +3,7 @@ title: "Model-based Matching"
 excerpt: ""
 collection: portfolio
 permalink: /portfolio/modelmatch
-date: 2015
+date: 2015-05-01
 ---
 
 *with Philip Stark and Jasjeet Sekhon*
