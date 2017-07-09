@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Check out a short CV [here](https://fjavifabre.github.io/files/cv.pdf) ([spanish version](https://fjavifabre.github.io/files/cv-spanish.pdf)).
+Check out a short CV [here](https://fjavifabre.github.io/files/cv.pdf) (spanish version [here](https://fjavifabre.github.io/files/cv-spanish.pdf)).
