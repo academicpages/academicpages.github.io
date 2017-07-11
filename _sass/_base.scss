@@ -25,10 +25,12 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin-top: 0;
   font-size: $type-size-3;
+  color: $link-color;
 }
 
 h2 {
   font-size: $type-size-4;
+  color: $link-color;
 }
 
 h3 {
