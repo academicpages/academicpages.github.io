@@ -52,10 +52,10 @@ $dark-gray                  : $gray;
 $darker-gray                : mix(#000, $gray, 40%);
 $darkest-gray               : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 70%);
+$lighter-gray               : mix(#fff, $gray, 60%);
 
-$body-color                 : $lighter-gray; 
-$background-color           : $lighter-gray;
+$body-color                 : $light-gray; 
+$background-color           : $light-gray;
 $code-background-color      : #fff;
 $code-background-color-dark : mix(#000, #fff, 30%);
 $text-color                 : #565656; // blackboard
