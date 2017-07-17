@@ -47,16 +47,16 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : &twitter
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -72,7 +72,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          :
 
 
 # Site Author
@@ -81,20 +81,20 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         : 
+  employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
-  uri              : 
+  email            :
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
@@ -108,7 +108,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : 
+  wikipedia        :
 
 
 # Reading Files
@@ -237,7 +237,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
