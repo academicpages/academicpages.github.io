@@ -6,7 +6,7 @@
   @include full();
   @include clearfix;
   margin-top: 3em;
-  color: $text-color;
+  color: mix(#fff, $text-color, 30%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
@@ -35,7 +35,7 @@
   }
 
   .fa {
-    color: mix(#fff, $gray, 25%);
+    color:mix(#fff, $text-color, 30%);
   }
 }
 
