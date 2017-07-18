@@ -24,7 +24,7 @@
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
-  color: mix(#fff, $gray, 25%);
+  color: mix(#fff, $link-color, 25%);
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
