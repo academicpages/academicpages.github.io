@@ -51,8 +51,8 @@ $gray                       : #D7CEC7; // grain
 $dark-gray                  : $gray;
 $darker-gray                : mix(#000, $gray, 40%);
 $darkest-gray               : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 20%);
-$lighter-gray               : mix(#fff, $gray, 40%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 60%);
 
 $body-color                 : $light-gray; 
 $background-color           : $light-gray;
