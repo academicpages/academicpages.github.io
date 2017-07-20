@@ -6,7 +6,7 @@ venue: "KDD 2017"
 date: 2017-06-09
 citation: '<b>Lantao Yu</b>*, Xuejian Wang*(equal contribution), Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang. <i> The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining. </i> <b>KDD 2017</b>.'
 ---  
-
+[[PDF]](https://lantaoyu.github.io/files/dadm-kdd.pdf)
 
 ## Abstract
 As aggregators, online news portals face great challenges in continuously selecting a pool of candidate articles to be shown to their users.
