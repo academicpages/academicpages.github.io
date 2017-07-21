@@ -8,13 +8,13 @@ tags:
   - open source
 ---
 
-I'm in the early stages of creating several Python packages right now (shameless self plug -- see [permute](statlab.github.io/permute), [cryptorandom](github.com/statlab/cryptorandom), and [pscore_match](github.com/kellieotto/pscore_match)). 
+I'm in the early stages of creating several Python packages right now (shameless self plug -- see [permute](https://www.statlab.github.io/permute), [cryptorandom](https://www.github.com/statlab/cryptorandom), and [pscore_match](https://www.github.com/kellieotto/pscore_match)). 
 I want people to *actually* use them when they're ready.
 They have potential for wide use, but they have narrow functionality compared to big packages like `numpy` or `scipy`.
 I could imagine that somebody looking to do a particular task in Python, like propensity score matching, would do a Google search and stumble upon my package.
 
 Anyone can write a package and upload it to GitHub, PyPi, or R CRAN,
-and more and more people are doing it as resources accessible to beginners, like Hadley's [R packages book](r-pkgs.had.co.nz), become available.
+and more and more people are doing it as resources accessible to beginners, like Hadley's [R packages book](http://r-pkgs.had.co.nz), become available.
 This leads to a new problem: we need to sift through packages to decide whether they suit our needs.
 
 I went out to Twitter to find out what people think about when they're deciding whether or not to use a package.
@@ -36,7 +36,7 @@ In R, this is typically done with vignettes, documents with code and explanatory
 The most comprehensive documentation would be a package website.
 While not strictly necessary, it enables you to navigate between documentation for different pieces of the package seamlessly.
 It adds a touch of professionalism that a Github repository just doesn't have.
-I've been using [Sphinx](dphinx-doc.org) to convert my docstrings to a website hosted on Github.
+I've been using [Sphinx](http://sphinx-doc.org) to convert my docstrings to a website hosted on Github.
 
 Lack of documentation shows that the package author was hurried and raises concerns that things might not work as they seem.
 Which leads to my next point...
@@ -60,7 +60,7 @@ It's important to run multiple test cases so that the code gets exercised in mor
 It's great to have tests, but you actually need to run them.
 A surefire way to do this is to set up a continuous integration system:
 every time a change is made to the code base, all of the tests are run.
-Most often I see people using [Travis CI](travis-ci.org) with Github.
+Most often I see people using [Travis CI](https://travis-ci.org) with Github.
 It raises a flag if new contributions don't pass all the tests; that way, you can avoid merging a bad pull request.
 
 You can even put badges for your coverage percentage and Travis build on your Github README.
