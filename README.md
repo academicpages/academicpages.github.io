@@ -21,14 +21,8 @@ See more info at https://academicpages.github.io/
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll serve` to generate the HTML and serve it from localhost:4000
 
-
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-To support this, here is a manually-curated list of bugs that have been fixed since this project was released. If you have a bug, you can go through and manually update. (If you have a better idea about how to support this, please let me know!)
-
-- 2017-03-27: In author sidebar, link for Google Scholar displays site URL instead of Google Scholar URL in _config.yml
-  - [Issue #6](https://github.com/academicpages/academicpages.github.io/issues/6), fixed in [34bg699](https://github.com/academicpages/academicpages.github.io/commit/34bd6990aa335c40cdadc01b5561797860d5eaa6)
-- 2017-03-27: Markdown generator is now functioning properly and is well-documented, see the Jupyter notebooks in `markdown_generator`
-  - [Issue #8](https://github.com/academicpages/academicpages.github.io/issues/8), fixed in [4528221](https://github.com/academicpages/academicpages.github.io/commit/4528221629bb93508c6ed149b9035d75bb38b402)
+To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
