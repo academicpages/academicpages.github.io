@@ -1,5 +1,5 @@
 ---
-title: 'What's important when vetting open source packages?'
+title: "What's important when vetting open source packages?"
 date: 2017-07-21
 permalink: /posts/2017/07/vetting-os/
 tags:
@@ -47,13 +47,9 @@ Which leads to my next point...
 Unit tests are chunks of code that use the software in various ways to determine if it behaves as expected.
 If a package has no unit tests, then we can't have much confidence that there are no bugs.
 
-{::options parse_block_html="false" /}
 
 <div class="center">
-
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">best sign is open source with good tests. Even if I can’t read/understand all code I should understand test suite.</p>&mdash; Jason Becker (@jsonbecker) <a href="https://twitter.com/jsonbecker/status/887838223229210624">July 20, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 </div>
 
 One measure of how well you've tested your code is coverage -- what percentage of lines are run in your unit tests?
@@ -85,19 +81,12 @@ Even more elusive is *the author's reputation*.
 If people recognize your name and know that you've contributed other useful packages, they're more likely to trust this package.
 If you're new to open source, your best bet at building your reputation is to create a personal website featuring your work and to establish a presence on Github by integrating it into your everyday workflow.
 
-{::options parse_block_html="false" /}
-
 <div class="center">
-
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">You can&#39;t really. Basic quality (version, doc), GitHub stars, downloads...<br>Always a gamble (and a security risk)</p>&mdash; Mastodon|Remi Rampin (@remram44) <a href="https://twitter.com/remram44/status/887815041545891840">July 19, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Plus squishier things like whether author seems aware of related packages and literature, author&#39;s reputation and other contributions.</p>&mdash; James E. Pustejovsky (@jepusto) <a href="https://twitter.com/jepusto/status/887830868299042816">July 20, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/seankross">@seankross</a> applies the punch in the face test -- if I could find them to punch them in the face, and I know them well enough, I&#39;ll use it</p>&mdash; Elissa Redmiles (@eredmil1) <a href="https://twitter.com/eredmil1/status/887894277497290754">July 20, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 </div>
 
 ## Take-aways
