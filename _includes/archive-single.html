@@ -47,7 +47,11 @@
         {% endif %}
 
     {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}
+	{% if post.collection == 'post' %}
+	<a href="{{ base_path }}{{ post.url }}" rel="permalink"><i>... Read more</i></a>
+	{% endif %}
+    </p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
