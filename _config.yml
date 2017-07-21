@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kellie Ottoboni / Personal Site"
+title                    : "Quantitative investigator"
 title_separator          : "-"
 name                     : &name "Kellie Ottoboni"
-description              : &description "Statistics PhD Student"
+description              : &description "Quantitative investigator"
 url                      : https://kellieotto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kellieotto/kellieotto.github.io"
