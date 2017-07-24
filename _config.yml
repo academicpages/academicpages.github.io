@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Quantitative investigator"
 title_separator          : "-"
 name                     : &name "Kellie Ottoboni"
-description              : &description "Quantitative investigator"
+description              : &description "Personal website for Kellie Ottoboni, a UC Berkeley PhD student in Statistics, data scientist and quantitative investigator."
 url                      : https://kellieotto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kellieotto/kellieotto.github.io"
@@ -66,7 +66,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/kellieotto"
+    - "https://instagram.com/kellieeatsplants"
+    - "https://www.linkedin.com/in/kellieottoboni"
 
 # Analytics
 analytics:
@@ -246,8 +248,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
