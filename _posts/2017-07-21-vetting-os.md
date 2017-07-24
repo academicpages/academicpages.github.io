@@ -37,6 +37,7 @@ The most comprehensive documentation would be a package website.
 While not strictly necessary, it enables you to navigate between documentation for different pieces of the package seamlessly.
 It adds a touch of professionalism that a Github repository just doesn't have.
 I've been using [Sphinx](http://sphinx-doc.org) to convert my docstrings to a website hosted on Github.
+My colleague [Nima Hejazi](http://nimahejazi.org/) pointed out that `pkgdown` is an R equivalent to Sphinx.
 
 Lack of documentation shows that the package author was hurried and raises concerns that things might not work as they seem.
 Which leads to my next point...
