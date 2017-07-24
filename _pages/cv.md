@@ -39,6 +39,7 @@ Research Experience
 * Open source project: 
 	* [Implementation of Sequence Generative Adversarial Nets with Policy Gradient](https://github.com/LantaoYu/SeqGAN).
 	* [Implementation of IRGAN](https://github.com/geek-ai/irgan)
+	* [A platform for up to million-level reinforcement learning agents](https://github.com/geek-ai/1m-agents)
 * [Paper collection of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 * Research on click fraud detection in computational advertisement, cooperating with YOYI, 2015
 * Participation in Research Program: Based wearable device information perception and position trajectory, supervised by Gongliang Chen, Shanghai Jiao Tong University, 2014
