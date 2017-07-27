@@ -3,7 +3,7 @@ title: "Generative Adversarial Networks for Discrete Data"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-07-26-gan-for-discrete-data
-venue: "Paperweekly, China"
+venue: "Paperweekly"
 date: 2017-07-26
 location: "Shanghai, China"
 ---

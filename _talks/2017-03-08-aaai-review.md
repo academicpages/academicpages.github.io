@@ -8,5 +8,5 @@ date: 2017-03-08
 location: "Shanghai, China"
 ---
 
-Review of The Thirt-First AAAI Conference on Artificial Intelligence
+Review of The Thirt-First AAAI Conference on Artificial Intelligence.<br>
 [[Slide]](http://lantaoyu.github.io/files/2017-03-08-aaai-review.pdf)
