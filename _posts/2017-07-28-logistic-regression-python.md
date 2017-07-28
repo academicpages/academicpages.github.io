@@ -20,27 +20,24 @@ I dig into a more in-depth comparison of the methods here.
 
 # Logistic regression
 
-We perform logistic regression when we believe there is a relationship between continuous covariates $X$ and binary outcomes $Y$.
-We assume that outcomes come from a distribution parameterized by $\beta$, and
+We perform logistic regression when we believe there is a relationship between continuous covariates X and binary outcomes Y.
+We assume that outcomes come from a distribution parameterized by B, and E(Y | X) = g^{-1}(X'B) for a link function g.
 
-$$\mathbb{E}(Y \mid X) = g^{-1}(x'\beta)$$
-for a link function $g$.
-
-For logistic regression, the link function is $g(p)= \log(\frac{p}{1-p}).
-$x'\beta$ represents the log-odds that $Y=1$, and applying $g^{-1}$ maps it to a probability.
-We do logistic regression to estimate $\beta$.
+For logistic regression, the link function is g(p)= log(p/1-p).
+X'B represents the log-odds that Y=1, and applying g^{-1} maps it to a probability.
+We do logistic regression to estimate B.
 
 Assuming that the model is correct, we can interpret the estimated coefficients as statistically significant or insignificant.
 (I highly discourage this; I tend to believe that the model is a useful approximation to the true data-generating process.)
-Otherwise, we can simply use logistic regression to predict $Y$ given $X$ or find the predicted probabilities that $Y=1$ given $X$.
-For my purposes, I'm trying to estimate in-sample probabilities given $Y$ and $X$; I'm not worried about inference on the coefficients or overfitting.
+Otherwise, we can simply use logistic regression to predict Y given X or find the predicted probabilities that Y=1 given X.
+For my purposes, I'm trying to estimate in-sample probabilities given Y and X; I'm not worried about inference on the coefficients or overfitting.
 
 ## Generalized linear models in `statsmodels`
 
 `statsmodels` is a package that implements a variety of regression methods.
 It seems like their main goal is to do inference on the estimated parameters.
 
-The model $\beta$ is estimated using the magic of one-parameter exponential families. 
+The model B is estimated using the magic of one-parameter exponential families. 
 There are nice formulas for the mean, variance, score function, etc for data from these distributions. 
 They fit by maximum likelihood; by default, it is done using iteratively reweighted least squares.
 
@@ -72,17 +69,17 @@ The solvers provided in `scikit-learn` don't include IRLS and the documentation 
 
 I wanted to know if I can use this function if I *don't* want to regularize?
 Turns out, you can't get rid of the penalty term in the loss function. 
-Instead, [you can set `C=1e10`](https://datascience.stackexchange.com/a/10807) or another large value to make the penalty term small.
+Instead, [you can set C=1e10](https://datascience.stackexchange.com/a/10807) or another large value to make the penalty term small.
 
 The outputs returned look similar to those from `statsmodels`, but there's no clean `summary` method to print the estimated coefficients and model fit statistics.
 
 # Speed comparison
 
 I'm interested in performance, so I did a small simulation to compare the speed of these three methods.
-I generated 10,000 observations with 100 independent, standard normal covariates $X$ and an independent standard normal error $\epsilon$.
-I set $\beta = [0.01, 0.02, ..., 1]$ and set the log-odds for individual $i$ to
-$\beta'X_i + \epsilon_i$.
-Then, the $i$th outcome is $Y_i = 1$ if the log-odds is at least 0.
+I generated 10,000 observations with 100 independent, standard normal covariates X and an independent standard normal error e.
+I set B = [0.01, 0.02, ..., 1] and set the log-odds for individual i to
+B'X_i + e_i.
+Then, the ith outcome is Y_i = 1 if the log-odds is at least 0.
 I used `%timeit` to run the three methods on this fake data.
 
 ```python
