@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/IRGAN
 venue: "The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-17)"
 date: 2017-04-11
-citation: 'Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017. <font color=red>Best Paper Award Honorable Mention</font> </b>'
+citation: 'Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017.</b> <font color=red>Best Paper Award Honorable Mention</font>'
 ---  
 [[PDF]](https://arxiv.org/abs/1705.10513)  [[Code]](https://github.com/geek-ai/irgan)
 
@@ -17,5 +17,5 @@ With the competition between these two models, we show that the unified framewor
 Our experimental results have demonstrated significant performance gains as much as 23.96% on Precision@5 and 15.50% on MAP over strong baselines in a variety of applications including web search, item recommendation, and question answering.
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/sigir17-award.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://lantaoyu.github.io/files/sigir17-award.jpg?raw=true" alt="Photo" style="width: 850px;"/>
 </p>
