@@ -52,6 +52,7 @@ Talks
   {% endfor %}</ul>
 
 ## Honors & Awards
+* **Best Paper Award Honorable Mention** at SIGIR'17, Tokyo, Japan, August 9, 2017.
 * **Outstanding Undergraduate Scholarship (2%)**, Shanghai Jiao Tong University, 2016-2017
 * **National Scholarship (2%)**, Shanghai Jiao Tong University, 2015-2016.
 * **GPA 1st/150**, CS Department, Shanghai Jiao Tong University, 2015-2016.
