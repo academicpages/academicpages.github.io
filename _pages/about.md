@@ -18,3 +18,4 @@ redirect_from:
 * As a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), my research interests are the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
 # Recent News
+* November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted at [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php).
