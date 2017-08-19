@@ -2,8 +2,8 @@
 title: "Taranis"
 collection: projects
 excerpt: 'An OpenGL based render engine.'
-image: "taranis.png"
+image: "crazoo.png"
 authors: "F Javier Fabre, Borja Villarino"
 header:
-  teaser: "taranis.png"
+  teaser: "crazoo.png"
 ---
