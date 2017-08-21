@@ -11,7 +11,7 @@ redirect_from:
 
 I’m a fourth year PhD candidate in the [Statistics Department](https://statistics.berkeley.edu) and a Fellow at the [Berkeley Institute for Data Science](http://bids.berkeley.edu). My advisor is [Philip Stark](http://www.stat.berkeley.edu/~stark/). In 2014 I received my B.A. in Statistics and B.A. in Applied Mathematics from UC Berkeley. My research interests include nonparametric statistics, causal inference, reproducibility, and applications in the health and social sciences.
 
-I'm currently an intern at State Street Global Exchange, GX Labs.
+Outside of statistics, I am passionate about food and fitness.
 
 Contact
 -------
