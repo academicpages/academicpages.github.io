@@ -9,18 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Undergraduate Student (3rd year)<br>
-Computer Science Department<br>
-Shanghai Jiao Tong University<br>
-
 [[Curriculum Vitae]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
-
 
 Education
 ======
-* I am now pursuing **Bachelor’s Degree** in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
-* I am a  **Student Researcher** at Machine Learning group in **Apex Data and Knowledge Mangement Lab**, Shanghai Jiao Tong University.
-* My research interests are the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
+* 2014.9 - Present<br>
+Undergaduate student in Computer Science Department, Shanghai Jiao Tong University.
+* 2015.9 - Present<br>
+Student researcher at Machine Learning Group in Apex Data and Knowledge Mangement Lab, Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
+* 2017.8 - Present<br>
+Visiting student at Institute for Software Research, School of Computer Science, Carnegie Mellon University.
+* Research interests: the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
 
 Publications
