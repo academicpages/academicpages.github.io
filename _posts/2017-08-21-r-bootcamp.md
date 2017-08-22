@@ -1,5 +1,5 @@
 ---
-title: "Lessons learned from Software Carpentry and R Bootcamp"
+title: "How Well Did I Follow Pedagogy Guidelines at R Bootcamp 2017?"
 date: 2017-08-21
 permalink: /posts/2017/08/r-bootcamp/
 tags:
@@ -86,7 +86,8 @@ There was low attrition and students actually seemed *more* engaged on day 2.
 I personally could have done more to follow the Software Carpentry guidelines for teaching.
 That said, with such a short amount of time between the instructor training and the R bootcamp, I didn't have enough time to modify the lessons to my liking and practice teaching and live coding them.
 
-I observed a few unsolved problems in how to run a successful bootcamp.
+I saw a few unsolved problems in how to run a successful bootcamp.
 
-* What's the best way to help students in real time? This is especially important at the beginning of a workshop when people have problems installing the software. The R bootcamp used Piazza for non-critical questions. I thought this worked well for a group of 100; [the Software Carpentry sticky note method](https://swcarpentry.github.io/instructor-training/15-practices/) probably works well for smaller groups.
+* How do you make sure everyone has the requisite programs installed? You can't devote half of the workshop to this, but you don't want people to give up and leave either. At the R bootcamp, we had a 30 minute buffer before the program started when students could talk to the helpers and get set up. I helped a few people during this time. Others came too late, tried to get set up while the lessons had already started, fell behind, and left.
+* What's the best way to help students in real time? This is especially important at the beginning of a workshop when are overwhelmed by details. The R bootcamp had 5 helpers circulating the room and used Piazza for non-critical questions. I thought this worked well for a group of 100+; [the Software Carpentry sticky note method](https://swcarpentry.github.io/instructor-training/15-practices/) probably works well for smaller groups.
 * What level of background do you assume? For instance, a lot of students had trouble loading in the example datasets because they didn't understand their file directory structure. This is a common problem for people who've never used the command line. But how much time in a bootcamp for R should be devoted to learning a concept outside the scope of R?
