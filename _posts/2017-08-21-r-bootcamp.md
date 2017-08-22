@@ -34,7 +34,8 @@ The lessons are made with R Markdown, so there is code along with slides.
 [The bootcamp materials are here.](https://github.com/berkeley-scf/r-bootcamp-2017)
 
 At the instructor training, I learned a number of useful things that I wanted to incorporate into my teaching.
-How well did I manage to practice these best-practices?
+I've helped at the R bootcamp for several years and felt confident answering common questions, but teaching with these new best-practices was a challenge.
+How well did I manage to incorporate them into my teaching?
 
 ## Live coding
 
