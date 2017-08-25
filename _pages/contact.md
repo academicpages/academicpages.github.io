@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Computer Science Department, Shanghai Jiao Tong University<br>
-Office: 310 Yifu Building, 800 Dongchuan Rd, Shanghai, CHina 200240
+Office: 310 Yifu Building, 800 Dongchuan Rd, Shanghai, China 200240
 Email: yulantao [at] apex.sjtu.edu.cn<br>
 
 Institute for Software Research, School of Computer Science, Carnegie Mellon University<br>
