@@ -13,12 +13,12 @@ redirect_from:
 
 Education
 ======
-* 2014.9 - Present<br>
-Undergaduate student, Computer Science Department, Shanghai Jiao Tong University.
-* 2015.9 - Present<br>
-Student researcher, Machine Learning Group in Apex Data and Knowledge Mangement Lab, Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
 * 2017.8 - Present<br>
 Research intern, Institute for Software Research, School of Computer Science, Carnegie Mellon University, advised by Prof. [Fei Fang](https://feifang.info/).
+* 2015.9 - Present<br>
+Student researcher, Machine Learning Group in Apex Data and Knowledge Mangement Lab, Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
+* 2014.9 - Present<br>
+Undergaduate student, Computer Science Department, Shanghai Jiao Tong University.
 * Research interests: the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
 
