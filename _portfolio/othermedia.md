@@ -1,6 +1,6 @@
 ---
 title: "Other media"
-excerpt: "Other media"
+excerpt: "SciComm products in other formats."
 collection: portfolio
 ---
 ### Translations and subtitling  
