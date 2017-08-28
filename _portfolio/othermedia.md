@@ -10,7 +10,7 @@ collection: portfolio
 * [Guia de bolso do divulgador de ciência](https://marcosvital.files.wordpress.com/2015/11/guia-de-divulgac3a7c3a3o-cientc3adfica.pdf)  
 
 ### Portuguese (BR) SciComm list  
-* [Lista de sites e portais de DC em português](divulgacao-cientifica-pt/lista.md)  
+* [Lista de sites e portais de DC em português](https://github.com/graciellehigino/divulgacao-cientifica-pt/blob/master/lista.md)  
 
 ### Git beginners guide  
-* [Aprendendo a usar Git e GitHub](studygroup-ufg/guia-de-referencia.md)  
+* [Aprendendo a usar Git e GitHub](https://github.com/kguidonimartins/studygroup-ufg/blob/master/guia-de-referencia.md)  
