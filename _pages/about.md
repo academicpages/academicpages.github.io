@@ -7,18 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-+++
-# About/Biography widget.
+# Why are species arranged in the way we see today?  
+  
+This is the main question guiding all my research interests. I am currently trying to understand how biological interactions and environmental variables determine species distribution in a biogeographical scale.  
+Open Science and Science Communication are important parts of my research routine. I am currently editing and writing for [Hipótese Nula](https://medium.com/hipótese-nula/) and [Nicho42](https://medium.com/nicho42/).  
 
-date = "2017-08-28"
-draft = false
 
-widget = "about"
-
-# Order that this section will appear in.
-weight = 0
-# List your academic interests.
-[interests]
+[interests]  
   interests = [
     "Theoretical ecology",
     "Science communication",
@@ -26,7 +21,6 @@ weight = 0
     "Open Science"
   ]
 
-# List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD candidate in Ecology and Evolution"
   institution = "Universidade Federal de Goiás"
@@ -42,8 +36,3 @@ weight = 0
   year = 2012
 
 +++
-# Why are species arranged in the way we see today?  
-  
-This is the main question guiding all my research interests. I am currently trying to understand how biological interactions and environmental variables determine species distribution in a biogeographical scale.  
-Open Science and Science Communication are important parts of my research routine. I am currently editing and writing for [Hipótese Nula](https://medium.com/hipótese-nula/) and [Nicho42](https://medium.com/nicho42/).
-
