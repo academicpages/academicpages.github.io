@@ -14,7 +14,7 @@ redirect_from:
 
 
 * I am pursuing Bachelor’s Degree in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
-* Currently, I am a research intern at the [Institute for Software Research](http://www.isri.cmu.edu/) in the [School of Computer Science](http://www.cs.cmu.edu/) in [Carnegie Mellon University](http://www.cmu.edu/), advised by Prof. [Fei Fang](https://feifang.info/), working in the field of multi-agent systems and computational game theory.
+* Currently, I am a research intern at [Carnegie Mellon University](http://www.cmu.edu/), advised by Prof. [Fei Fang](https://feifang.info/), working in the field of multi-agent systems and computational game theory.
 * As a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), my research interests are the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
 # Recent News
