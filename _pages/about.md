@@ -13,9 +13,9 @@ redirect_from:
 </p>
 
 
-* I am pursuing Bachelor’s Degree in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
-* Currently, I am a research intern at [Carnegie Mellon University](http://www.cmu.edu/), advised by Prof. [Fei Fang](https://feifang.info/), working in the field of multi-agent systems and computational game theory.
-* As a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), my research interests are the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
+* I am pursuing Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and in my sophomore year, I became a research assistant at [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/).
+* Currently, I am a research intern at [Carnegie Mellon University](http://www.cmu.edu/), advised by [Prof. Fei Fang](https://feifang.info/), working in the field of multi-agent systems and deep reinforcement learning.
+* My research interests lie in the general area of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
 # Recent News
 * August 25, 2017. We started the [Multi-Agent Reinforcement Learning reading group](https://feifang.info/marl-reading-group/).

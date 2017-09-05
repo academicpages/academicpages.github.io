@@ -27,7 +27,7 @@ Undergaduate Student<br>
 
 Research Interests
 ======
-My research interests lie in the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
+My research interests lie in the general area of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
 Publications
 ======
