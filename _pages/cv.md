@@ -11,16 +11,23 @@ redirect_from:
 
 [[Curriculum Vitae]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
 
-Education
+Positions
 ======
 * 2017.8 - Present<br>
-Research intern, Institute for Software Research, School of Computer Science, Carnegie Mellon University, advised by Prof. [Fei Fang](https://feifang.info/).
+Research Intern<br>
+[Institute for Software Research](http://isri.cmu.edu/), [School of Computer Science](http://www.cs.cmu.edu/), [Carnegie Mellon University](http://www.cmu.edu/)<br>
+Advisor: [Prof. Fei Fang](https://feifang.info/).
 * 2015.9 - Present<br>
-Student researcher, Machine Learning Group in Apex Data and Knowledge Mangement Lab, Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
+Research Assistant<br>
+[Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)<br>
+Advisor: [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/).
 * 2014.9 - Present<br>
-Undergaduate student, Computer Science Department, Shanghai Jiao Tong University.
-* Research interests: the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
+Undergaduate Student<br>
+[Computer Science Department](http://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
 
+Research Interests
+======
+My research interests lie in the general areas of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
 Publications
 ======
@@ -53,7 +60,7 @@ Talks
 Awards & Honors
 ======
 * **Best Paper Award Honorable Mention** at SIGIR'17, Tokyo, Japan, August 9, 2017.
-* **Scholarship of Outstanding Undergraduates (Top 2 students in school of Electronic Information and Electrical Engineering)**, Shanghai Jiao Tong University, 2016-2017
+* **Scholarship of Excellent Undergraduates (Top 2 students in school of Electronic Information and Electrical Engineering)**, Shanghai Jiao Tong University, 2016-2017
 * **National Scholarship (Top 3 students in Computer Science Department)**, Shanghai Jiao Tong University, 2015-2016.
 * **GPA 1st/150**, Computer Science Department, Shanghai Jiao Tong University, 2015-2016.
 * **Zhiyuan Honor Scholarship (Top 5%, Twice)**, Shanghai Jiao Tong University, 2015 & 2016.
