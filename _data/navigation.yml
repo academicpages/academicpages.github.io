@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "CV/Bio"
     url: /cv/
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Awards & Honors"
+    url: /awards/
 
   - title: "Talks"
     url: /talks/    

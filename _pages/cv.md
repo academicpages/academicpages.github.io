@@ -50,7 +50,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Honors & Awards
+Awards & Honors
 ======
 * **Best Paper Award Honorable Mention** at SIGIR'17, Tokyo, Japan, August 9, 2017.
 * **Scholarship of Outstanding Undergraduates (Top 2 students in school of Electronic Information and Electrical Engineering)**, Shanghai Jiao Tong University, 2016-2017
