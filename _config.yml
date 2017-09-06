@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Hector Bahamonde"
-  avatar           : "/resources/profile/pic1.png"
+  avatar           : "/images/pic1.png"
   bio              : "Postdoctoral Fellow, Tulane University"
   location         : "205 Richardson Building"
   employer         :
