@@ -10,7 +10,7 @@
         {% if s.image contains "://" %}
           "{{ s.image }}"
         {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+          "{{ s.image | prepend: "/resources/profile" | prepend: base_path }}"
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
