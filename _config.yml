@@ -15,7 +15,7 @@ url                      : https://www.hectorbahamonde.com # the base hostname &
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hbahamonde.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
