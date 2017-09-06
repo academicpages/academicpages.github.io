@@ -4,7 +4,7 @@ title: "Resources for Students"
 author_profile: true
 redirect_from: 
   - /md/
-  - /resources/etiquette.html
+  - /resources.html
 ---
 
 
