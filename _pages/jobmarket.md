@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /jobmarket/
+title: "Job Market Materials"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /jobmarket.html
 ---
 
 
