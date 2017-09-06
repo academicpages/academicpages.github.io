@@ -1,0 +1,49 @@
+---
+title: 'Packages and Visual Improvements for Sublime Text 3"'
+date: 2013-01-11
+permalink: /posts/sublime/
+tags:
+
+---
+
+
+This is my personal take on how Sublime Text 3 looks better for longer hours of work and happier coding. I also describe the packages that I use.
+
+### Packages
+* [Markdown HTML Preview](https://github.com/zeyon/MarkdownHtmlPreview):
+    - This plugin allows you to automatically inject your markdown document into an HTML page. I use it to preview my `.md` files before uploading them to my GitHub account. While in Sublime Text writing your `.md` file, use `Control + Shift + M` to preview.
+* [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3):
+    - Code linting in ST3.
+* [Insert Nums](https://github.com/jbrooksuk/InsertNums):
+    - It inserts (consecutive) numbers across multiple selections or modifies the selections' contents with expressions. Basic usage in OSX: `Command + Alt + N`.
+* [Sublime LaTeX Word Count](https://github.com/lionandoil/SublimeLaTeXWordCount):
+    -  Basic usage in OSX: `Control + Shift + C`.
+* [R-Box](https://github.com/randy3k/R-Box):
+    - Send commands to various programs. I use it for **R**.
+* [(Sublime) Knitr](https://github.com/andrewheiss/SublimeKnitr):
+    - It provides **knitr** Markdown and LaTeX support in Sublime Text 2 and 3.
+
+### Visual Enhacements
+
+Building on [this](http://webdesign.tutsplus.com/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052) blog post, I changed the default visuals for the following ones:
+
+* Go to `Sublime Text > Preferences > Settings - User`, then paste,
+
+```tex
+{
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+    "fade_fold_buttons": false,
+    "font_face": "Monaco",
+    "font_size": 17,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_padding_bottom": 2,
+    "line_padding_top": 2,
+    "word_wrap": true
+}
+```
