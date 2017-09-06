@@ -1,8 +1,14 @@
 ---
-title: "Talks"
 permalink: /talks/
+title: "Talks and Presentations"
 author_profile: true
+redirect_from: 
+  - /md/
+  - /talks.html
 ---
+
+
+
 
 
 <p class="lead">
