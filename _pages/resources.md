@@ -37,6 +37,11 @@ Appointments
 
 If you need to see me, **do not email me** but instead make directly an appointment [here](https://calendly.com/bahamonde/officehours). 
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/bahamonde" style="min-width:320px;height:580px;"></div>
+<script type="text/javascript" src="https://calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
 * There is *no* need for confirmation. I will receive an alert when you schedule a meeting with me. 
 * Briefly indicate the reason for the meeting. 
 
