@@ -18,11 +18,12 @@ redirect_from:
 - Math Camp for Political Scientists (Instructor, W:2015). <a href="https://github.com/hbahamonde/Math-Camp/raw/master/Syllabus/Math_Camp_Syllabus.pdf"><i class="fa fa-book fa"></i></a> <a href="https://github.com/hbahamonde/Math-Camp"><i class='fa fa-github-square fa'></i></a>
 
 
+---
+
 ## Undergraduate
 
 
 - American Government (TA, F:2014-Now). Prof. [Ross Baker](http://polisci.rutgers.edu/cb-profile/userprofile/bakerross). <a href="http://www.hectorbahamonde.com/americangovernment/"><i class='fa fa-github-square fa'></i></a>
-
 
 ---
 
