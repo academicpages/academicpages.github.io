@@ -2,9 +2,6 @@
 title: "Structural Transformations and State Institutions in Latin America, 1900-2010"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2009-10-01
-venue: ''
-paperurl: 'https://github.com/hbahamonde/Negative_Link_Paper/raw/master/Bahamonde_NegativeLink.pdf'
 ---
 
 [Download paper here](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/Bahamonde_NegativeLink.pdf)
