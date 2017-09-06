@@ -23,7 +23,7 @@ My primary subfield is the political economy of development and Latin American p
 <img src="/resources/wordcloud.png" alt="wordcloud" style="width:386px;height:330;">
 
 
-<font face="Source Code Pro" size="1">* Actual word cloud of <a href="http://www.hectorbahamonde.com/research/">my research</a>.</font>
+<font face="Source Code Pro" size="1">* Actual word cloud of <a href="http://www.hectorbahamonde.com/publications/">my research</a>.</font>
 
 
 Job Market
