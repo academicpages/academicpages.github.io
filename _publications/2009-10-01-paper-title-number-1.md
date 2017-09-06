@@ -1,12 +1,5 @@
 ---
 title: "Research"
-collection: publications
-permalink: /publication
-excerpt: ''
-date: 2009-10-01
-venue: ''
-paperurl: ''
-citation: ''
 ---
 
 
