@@ -38,10 +38,8 @@ My dissertation argues that sectoral economic conflicts fostered state-building 
 
 ## Contact
 
-Center for Inter-American Policy & Research 
-Tulane University
-Richardson Hall 
-205 Richardson, New Orleans, LA 70118
+Center for Inter-American Policy & Research.
+Tulane University.
 HBahamonde@tulane.edu
 www.HectorBahamonde.com
 
@@ -50,9 +48,6 @@ www.HectorBahamonde.com
 
 
 ---
-
-
-<font face="Source Code Pro" size="2">This website is proudly open sourced under the <a href="https://github.com/hbahamonde/hbahamonde.github.io/blob/master/LICENSE.md">MIT license</a> and freely hosted in <a href="https://pages.github.com">GitHub Pages</a>. I modified the free <a href="http://lanyon.getpoole.com">Lanyon</a> theme using the free <a href="https://jekyllrb.com">Jekyll</a> and <a href="http://daringfireball.net/projects/markdown/">Markdown</a> languages, as well as some HTML/CSS. Feel free to fork and make your own.</font>
 
 
 
