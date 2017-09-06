@@ -11,7 +11,9 @@ redirect_from:
 <p class="lead"> I am a post-doctoral fellow at Tulane University's <a href="http://cipr.tulane.edu">Center for Inter-American Policy & Research (CIPR)</a>. I received my Ph.D in political science from <span style="color:#d21034">Rutgers University </span> (New Brunswick, NJ) in the spring of 2017.</p> 
 
 
-## Profile
+Profile
+=======
+
 My primary subfield is the political economy of development and Latin American politics. My research extends across several substantive areas, including state building, clientelism, vote-buying and political development. I also have a strong interest in quantitative methods.
 
 
@@ -24,19 +26,22 @@ My primary subfield is the political economy of development and Latin American p
 <font face="Source Code Pro" size="1">* Actual word cloud of <a href="http://www.hectorbahamonde.com/research/">my research</a>.</font>
 
 
-## Job Market
+Job Market
+==========
 
 Now I am on the job market looking to begin in the fall term of the 2018 academic year. ___Find all the latest application materials___ <a href="http://www.hectorbahamonde.com/jobmarket/"><span style="color:#d21034">here</span></a>.
 
 
-## Dissertation
+Dissertation
+============
 
 My dissertation argues that sectoral economic conflicts fostered state-building in Latin America. Using fine-grained historical case study comparisons, sectoral outputs from 1900 to the present, panel data and time-series econometric techniques, and a novel earthquake dataset (to measure state capacities), I find that industrial expansion altered the post-colonial political balance, putting heavy pressures for the implementation of tax institutions. In turn, fiscal expansion fostered both political development and economic growth.
 
----
 
 
-## Contact
+Contact
+=======
+
 
 Center for Inter-American Policy & Research.\s\s
 Tulane University.\s\s
