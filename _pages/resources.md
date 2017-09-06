@@ -6,7 +6,8 @@ author_profile: true
 
 ---
 
-1.Email Etiquette
+
+Email Etiquette
 ===============
 
 1. Use a clear subject line. 
@@ -18,9 +19,7 @@ author_profile: true
 More details, here: [http://www.wikihow.com/Email-a-Professor](http://www.wikihow.com/Email-a-Professor).
 
 
-___
-
-2.Grade Appealing Policy
+Grade Appealing Policy
 =======================
 
 As an undergraduate student, it is your right to ask for a grade appeal. At the same time, I take grading very seriously. Please, read carefully my policy on grade appeals.
@@ -30,9 +29,9 @@ As an undergraduate student, it is your right to ask for a grade appeal. At the 
     <a href="/resources/ReGrade_Policy.pdf"><i class="fa fa-file-pdf-o fa-2x" style="color:#d21034"></i></a>
 </div>
 
-___
 
-3.Appointments
+
+Appointments
 ============
 
 If you need to see me, **do not email me** but instead make directly an appointment [here](https://calendly.com/bahamonde/officehours). 
