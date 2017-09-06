@@ -11,24 +11,27 @@ redirect_from:
 
 
 
-## Graduate
+Graduate
+=========
+
 
 - Introduction to Quantitative Methods (TA, F:2015). Prof. [Beth Leech](http://fas-polisci.rutgers.edu/leech/index.html).
 
 - Math Camp for Political Scientists (Instructor, W:2015). <a href="https://github.com/hbahamonde/Math-Camp/raw/master/Syllabus/Math_Camp_Syllabus.pdf"><i class="fa fa-book fa"></i></a> <a href="https://github.com/hbahamonde/Math-Camp"><i class='fa fa-github-square fa'></i></a>
 
 
----
 
-## Undergraduate
+Undergraduate
+=============
 
 
 - American Government (TA, F:2014-Now). Prof. [Ross Baker](http://polisci.rutgers.edu/cb-profile/userprofile/bakerross). <a href="http://www.hectorbahamonde.com/americangovernment/"><i class='fa fa-github-square fa'></i></a>
 
----
 
-### Sample Syllabi 
 
+
+Sample Syllabi 
+===============
 
 <a name="anchor"></a>
 
