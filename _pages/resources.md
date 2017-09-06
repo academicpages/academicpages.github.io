@@ -9,12 +9,13 @@ author_profile: true
 Appointments
 ============
 
-If you need to see me, **do not email me** but instead make directly an appointment using the box below. 
+If you need to see me, **do not email me** but instead make directly an appointment using the box below by selecting a day and time.
 
 * There is *no* need for confirmation. I will receive an alert when you schedule a meeting with me. 
 * Briefly indicate the reason for the meeting. 
 
 * *All kinds of questions/concerns are welcomed*. 
+* While I encourage you to make an appointment in advance, my doors are always open. Feel free to stop by.
 * **I am looking forward to meeting you!**
 
 <!-- Calendly inline widget begin -->
