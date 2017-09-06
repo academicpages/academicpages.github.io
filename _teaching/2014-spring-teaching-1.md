@@ -1,12 +1,14 @@
 ---
 title: "Make an appointment with me"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/appointment
-venue: "CIPR"
+venue: ""
 date: 2017-09-01
-location: "Richardson Building"
+location: ""
 ---
+
+
 
 If you need to see me, **do not email me** but instead make directly an appointment [here](https://calendly.com/bahamonde/officehours). 
 
