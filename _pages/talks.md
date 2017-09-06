@@ -11,9 +11,8 @@ redirect_from:
 
 
 
-<p class="lead">
 I have presented / will be presenting at...
-</p>
+=========================================
 
 ---
 
