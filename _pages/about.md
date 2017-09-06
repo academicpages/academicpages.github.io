@@ -38,9 +38,9 @@ My dissertation argues that sectoral economic conflicts fostered state-building 
 
 ## Contact
 
-Center for Inter-American Policy & Research.
-Tulane University.
-HBahamonde@tulane.edu
+Center for Inter-American Policy & Research.\s\s
+Tulane University.\s\s
+HBahamonde@tulane.edu\s\s
 www.HectorBahamonde.com
 
 
