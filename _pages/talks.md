@@ -9,8 +9,6 @@ redirect_from:
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">Map of the places I've given a talk.</a></p>
-
 
 
 <p class="lead">
