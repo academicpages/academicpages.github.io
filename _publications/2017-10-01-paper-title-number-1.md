@@ -1,5 +1,6 @@
 ---
 title: "Structural Transformations and State Institutions in Latin America, 1900-2010"
+permalink: /publication/Structural_Transformations
 collection: publications
 ---
 
