@@ -18,6 +18,7 @@ Email Etiquette
 
 More details, here: [http://www.wikihow.com/Email-a-Professor](http://www.wikihow.com/Email-a-Professor).
 
+---
 
 Grade Appealing Policy
 =======================
@@ -26,10 +27,10 @@ As an undergraduate student, it is your right to ask for a grade appeal. At the 
 
 
 <div>
-    <a href="/resources/ReGrade_Policy.pdf"><i class="fa fa-file-pdf-o fa-2x" style="color:#d21034"></i></a>
+    <a href="/resources/ReGrade_Policy.pdf"><i class="fa fa-file-pdf-o fa" style="color:#d21034"></i></a>
 </div>
 
-
+---
 
 Appointments
 ============
