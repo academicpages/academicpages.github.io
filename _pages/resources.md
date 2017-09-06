@@ -6,6 +6,23 @@ author_profile: true
 
 ---
 
+Appointments
+============
+
+If you need to see me, **do not email me** but instead make directly an appointment using the box below. 
+
+* There is *no* need for confirmation. I will receive an alert when you schedule a meeting with me. 
+* Briefly indicate the reason for the meeting. 
+
+* *All kinds of questions/concerns are welcomed*. 
+* **I am looking forward to meeting you!**
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="http://calendly.com/bahamonde/officehours" style="min-width:320px;height:580px;"></div>
+<script type="text/javascript" src="https://calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
+---
 
 Email Etiquette
 ===============
@@ -30,20 +47,6 @@ As an undergraduate student, it is your right to ask for a grade appeal. At the 
     <a href="/resources/ReGrade_Policy.pdf"><i class="fa fa-file-pdf-o fa" style="color:#d21034"></i></a>
 </div>
 
----
 
-Appointments
-============
 
-If you need to see me, **do not email me** but instead make directly an appointment [here](https://calendly.com/bahamonde/officehours). 
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/bahamonde" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
-
-* There is *no* need for confirmation. I will receive an alert when you schedule a meeting with me. 
-* Briefly indicate the reason for the meeting. 
-
-* *All kinds of questions/concerns are welcomed*. 
-* **I am looking forward to meeting you!**
