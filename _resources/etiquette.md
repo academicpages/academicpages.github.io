@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /resources/etiquette
 title: "Resources for Students"
 author_profile: true
