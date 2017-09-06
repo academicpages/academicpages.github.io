@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Hector Bahamonde"
-  avatar           : "profile.png"
+  avatar           : "/resources/profile/pic1.jpg"
   bio              : "Postdoctoral Fellow, Tulane University"
   location         : "205 Richardson Building, New Orleans, LA 70118"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3FHDoL0AAAAJ&hl=en"
   email            : "hbahamonde@tulane.edu"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
