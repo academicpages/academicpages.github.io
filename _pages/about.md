@@ -43,9 +43,9 @@ Contact
 =======
 
 
-Center for Inter-American Policy & Research.\s\s
-Tulane University.\s\s
-HBahamonde@tulane.edu\s\s
+Center for Inter-American Policy & Research.  
+Tulane University.  
+HBahamonde@tulane.edu  
 www.HectorBahamonde.com
 
 
