@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Resources for Undergraduate Students"
 permalink: /resources/
 author_profile: true
