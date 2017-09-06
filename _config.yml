@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Hector Bahamonde"
   avatar           : "pic1.jpg"
-  bio              : "Postdoctoral Fellow, Tulane University"
+  bio              : "Postdoctoral Fellow"
   location         : "205 Richardson Building"
-  employer         :
+  employer         : "Tulane University"
   googlescholar    : "https://scholar.google.com/citations?user=3FHDoL0AAAAJ&hl=en"
   email            : "hbahamonde@tulane.edu"
   uri              :
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  researchgate     : Hector_Bahamonde2
 
 # Reading Files
 include:
