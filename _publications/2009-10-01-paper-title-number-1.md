@@ -1,7 +1,7 @@
 ---
 title: "Research"
-collection: 
-permalink: 
+collection: publications
+permalink: /publication
 excerpt: ''
 date: 2009-10-01
 venue: ''
