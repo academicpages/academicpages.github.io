@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Make an appointment with me"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/appointment
+venue: "CIPR"
+date: 2017-09-01
+location: "Richardson Building"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+If you need to see me, **do not email me** but instead make directly an appointment [here](https://calendly.com/bahamonde/officehours). 
 
-Heading 1
-======
+* There is *no* need for confirmation. I will receive an alert when you schedule a meeting with me. 
+* Briefly indicate the reason for the meeting. 
 
-Heading 2
-======
-
-Heading 3
-======
+* *All kinds of questions/concerns are welcomed*. 
+* **I am looking forward to meeting you!**
