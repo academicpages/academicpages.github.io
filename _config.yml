@@ -196,7 +196,7 @@ defaults:
   #    comments: true
   #    share: true
   #    related: true
-  # _portfolio
+  # _pages
   - scope:
       path: ""
       type: pages
