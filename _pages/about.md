@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 
-* I am pursuing Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and in my sophomore year, I became a research assistant at [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/).
+* I am pursuing Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and in my sophomore year, I joined [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/) as a research assistant, advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/).
 * Currently, I am a research intern at [Carnegie Mellon University](http://www.cmu.edu/), advised by [Prof. Fei Fang](https://feifang.info/), working in the field of multi-agent systems and deep reinforcement learning.
 * My research interests lie in the general area of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
