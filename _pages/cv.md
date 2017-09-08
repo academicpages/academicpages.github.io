@@ -25,13 +25,6 @@ Work experience
   * Hospital de Medicina Veterinária da Universidade Federal da Bahia
   * Duties included: Isolation, identification and resistance testing of bacteria.
   
-
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
