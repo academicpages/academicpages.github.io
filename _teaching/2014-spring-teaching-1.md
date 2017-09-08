@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Mapeando a Biodiversidade: Uma Introdução ao DIVA-GIS"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Short-term course"
+permalink: /teaching/2015-DIVA
+venue: "ICBS - UFAL"
+date: 2015-12-03
+location: "Maceió - AL, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+"Mapeando a Biodiversidade: Uma Introdução ao DIVA-GIS" is a short-term, introductory course about Geographic Information System with practical application using the DIVA-GIS software.
