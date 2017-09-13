@@ -2,6 +2,9 @@
 title: "Publications"
 permalink: /research/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /research.html
 ---
 
 
