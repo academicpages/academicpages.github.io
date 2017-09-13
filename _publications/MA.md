@@ -3,15 +3,10 @@ title: "An Empirical Study of AI Population Dynamics with Million-agent Reinforc
 collection: publications
 permalink: /publications/MA
 venue: "arXiv 2017"
-date: 2017-09-13
+date: 2017-09-14
 citation: '<b>Lantao Yu</b>*, Yaodong Yang*, Yiwei Bai*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. arXiv 2017.'
 ---  
-[[PDF]](http://www.kdd.org/kdd2017/papers/view/dynamic-attention-deep-model-for-article-recommendation-by-learning-human-e)
+[[PDF]](https://lantaoyu.github.io/files/1m.pdf) [[Code]](https://github.com/geek-ai/1m-agents)
 
 ## Abstract
-As aggregators, online news portals face great challenges in continuously selecting a pool of candidate articles to be shown to their users.
-Typically, those candidate articles are recommended manually by platform editors from a much larger pool of articles aggregated from multiple sources. Such a hand-pick process is labor intensive and time-consuming. In this paper, we study the editor article selection behavior and propose a learning by demonstration system to automatically select a subset of articles from the large pool. Our data analysis shows that (i) editors' selection criteria are \emph{non-explicit}, which are less based only on the keywords or topics, but more depend on the quality and attractiveness of the writing from the candidate article, which is hard to capture based on traditional bag-of-words article representation.
-And (ii)
-editors' article selection behaviors are \emph{dynamic}: articles with different data distribution come into the pool everyday and the editors' preference varies, which are driven by some underlying periodic or occasional patterns.
-To address such problems, we propose a meta-attention model across multiple deep neural nets to (i) automatically catch the editors' underlying selection criteria via the automatic representation learning of each article and its interaction with the meta data and (ii) adaptively capture the change of such criteria via a hybrid attention model. The attention model strategically incorporates multiple prediction models, which are trained in previous days.
-The system has been deployed in a commercial article feed platform. A 9-day A/B testing has demonstrated the consistent superiority of our proposed model over several strong baselines.
+In this paper, we conduct an empirical study on discovering the ordered collective dynamics obtained by a population of artificial intelligence (AI) agents. Our intention is to put AI agents into a simulated natural context, and then to understand their induced dynamics at the population level. In particular, we aim to verify if the principles developed in the real world could also be used in understanding an artificially-created intelligent population. To achieve this, we simulate a large-scale predator-prey world, where the laws of the world are designed by only the findings or logical equivalence that have been discovered in nature. We endow the agents with the intelligence based on deep reinforcement learning, and scale the population size up to millions.  Our results show that the population dynamics of AI agents, driven only by each agent's individual self interest, reveals an ordered pattern that is similar to the Lotka-Volterra model studied in population biology. We further discover the emergent behaviors of collective adaptations in studying how the agents' grouping behaviors will change  with the environmental resources. Both of the two findings could be explained by the self-organization theory in nature.
