@@ -6,15 +6,15 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+   - title: "Datasets"
+    url: /datasets/   
+
   - title: "For Students"
     url: /resources/
 
   - title: "Talks"
     url: /talks/   
   
-  - title: "Datasets"
-    url: /datasets/   
-
   - title: "Blog Posts"
     url: /year-archive/
     
