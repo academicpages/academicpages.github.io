@@ -17,9 +17,12 @@ Education
 
 Work experience
 ======
-* 2016: Research Assistant
-  * Instituto do Meio Ambiente Herbarium
-  * Duties included: Curatorship and administrative assistant
+* 2017: South America Outreach for Ecography  
+  * Duties included: translation of outreach material to Portuguese.  
+  
+* 2016: Research Assistant   
+  * Instituto do Meio Ambiente Herbarium  
+  * Duties included: Curatorship and administrative assistant.  
 
 * 2012-2014: Biologist
   * Hospital de Medicina Veterinária da Universidade Federal da Bahia
