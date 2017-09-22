@@ -3,7 +3,7 @@
 url: http://localhost:4000
 
 analytics:
-  provider: false
+  provider: true
 
 comments:
   disqus:
