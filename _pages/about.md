@@ -18,6 +18,7 @@ redirect_from:
 * My research interests lie in the general area of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
 
 # Recent News
+* September 17, 2017. New preprint: An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning. Available on [arXiv](https://arxiv.org/abs/1709.04511)
 * August 25, 2017. We started the [Multi-Agent Reinforcement Learning reading group](https://feifang.info/marl-reading-group/).
 * August 15, 2017. I started to work as a research intern at Carnegie Mellon University for the next six months.
 * August 9, 2017. I won the [Best Paper Award Honorable Mention](https://lantaoyu.github.io/files/sigir17-award.jpg) at [SIGIR 2017](http://sigir.org/sigir2017/program/awards/).

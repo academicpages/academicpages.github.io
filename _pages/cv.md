@@ -38,6 +38,7 @@ Publications
 
 Research Experience
 ======
+* <i> An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning. </i> <br> Submitted to AAAI 2018. May. 2017 - Aug. 2017
 * <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
 * <i> IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models. </i> **<br> Accepted as a full paper at SIGIR 2017**. Sep. 2016 - Jan. 2017
 * <i> Sequence Generative Adversarial Nets with Policy Gradient. </i> **<br> Accepted as a full paper at AAAI 2017**. Jun. 2016 - Sep. 2016
