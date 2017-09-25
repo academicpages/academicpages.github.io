@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Cryptographi Vulnerabilities in Real-Life Web Servers"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+excerpt: 'This experimental work.'
+date: 2013-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'ealashwali.github.io/files/ccit_paper_2012.pdf'
+citation: 'E. Alashwali (2013). &quot;Cryptographi Vulnerabilities in Real-Life Web Servers.&quot; <i>ICCIT</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Test.
+[Download paper here](ealashwali.github.io/files/ccit_paper_2012.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: E. Alashwali, "Cryptographic vulnerabilities in real-life web servers," <i>in proc. of the 3rd International Conf. on Communications and Information Technology (ICCIT 2013)</i>, Beirut, Lebanon, 2013, pp. 6-11.
