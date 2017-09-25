@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a life-long learner who never left education. Education is my cause. I work as a Lecturer in the Faculty of Computing & IT (FCIT) at <a href="http://www.kau.edu.sa/home_ENGLISH.aspx"> King Abdulaziz University (KAU) </a>. Prior to that, I worked in various network and technical support positions in IT departments at different academic institutions: <a href="http://www.dah.edu.sa">Dar Al-Hekma University</a>, <a href="http://www.effatuniversity.edu.sa">Effat University</a>, and <a href="http://www.fikr.edu.sa/">Dar Al-Fikr Schools</a>.</p>
+A life-long learner who never left education. Education is my cause. I work as a Lecturer in the Faculty of Computing & IT (FCIT) at <a href="http://www.kau.edu.sa/home_ENGLISH.aspx"> King Abdulaziz University (KAU) </a>. Prior to that, I worked in various network and technical support positions in IT departments at different academic institutions: <a href="http://www.dah.edu.sa">Dar Al-Hekma University</a>, <a href="http://www.effatuniversity.edu.sa">Effat University</a>, and <a href="http://www.fikr.edu.sa/">Dar Al-Fikr Schools</a>.</p>
 
 <p>I hold a MSc. degree in Information Security from University College London (UCL). My master thesis examined the security of RSA public-keys, in particular, it examined the factorable RSA keys issue in TLS servers on the Internet. Previously, I obtained BSc. in Computer Science from <a href="http://www.kau.edu.sa/home_ENGLISH.aspx"> KAU</a>. </p>
 
