@@ -34,7 +34,7 @@ Work experience
 
 * Mar. 2007 – Aug. 2013: Teaching Assistant
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties included: Teaching Information Security Lab, Introduction to Programming with C++, Computer Skills, Computer Networks Lab, Academic Advising.
+  * Duties included: Teaching Introduction to Programming with C++, Computer Skills, Computer Networks Lab, Academic Advising.
 
 * Mar. 2008 – Jan. 2011: Head of the Labs & Technical Support Unit.
   * College of Computing & IT at King Abdulaziz University (KAU).
