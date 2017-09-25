@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as a lecturer  in King Abdulaziz University (KAU), Saudi Arabia with a master degree in  information security from University College London (UCL). I am passionate about  doing further research in information security area. 
+
 Education
 ======
-* B.S. in Github, Github University, 2012
+* B.S. in Computer Science, 2012
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
