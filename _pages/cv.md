@@ -38,7 +38,7 @@ Work experience
 
 * Mar. 2008 – Jan. 2011: Head of the Labs & Technical Support Unit.
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties included: Forming the labs of the newly opened (at that time) College of Computing & IT at KAU, Write the policies and procedures, pass the ISO accreditation, train newly hired technicians, ensure that the computer labs and staff computers are equipped and running for the academic process. 
+  * Duties included: Forming the labs of the newly opened (at that time) College of Computing & IT at KAU, write the department policies and procedures and forms, obtain the ISO accreditation for qualit management, train newly hired technicians, ensure that the computer labs and staff computers are equipped and running for the academic process. 
 
 * Nov. 2006 - Mar. 2007: Junior Network Administrator
   * IT Department, Dar Al-Hekma University. 
