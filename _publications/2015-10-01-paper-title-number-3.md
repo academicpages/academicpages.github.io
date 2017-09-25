@@ -11,4 +11,4 @@ citation: 'E. Alashwali (2013). &quot;Cryptographi Vulnerabilities in Real-Life 
 Test.
 [Download paper here](ealashwali.github.io/files/ccit_paper_2012.pdf)
 
-Recommended citation: E. Alashwali, "Cryptographic vulnerabilities in real-life web servers," <i>in proc. of the 3rd International Conf. on Communications and Information Technology (ICCIT 2013)</i>, Beirut, Lebanon, 2013, pp. 6-11.
+Citation: E. Alashwali, "Cryptographic vulnerabilities in real-life web servers," <i>in proc. of the 3rd International Conf. on Communications and Information Technology (ICCIT 2013)</i>, Beirut, Lebanon, 2013, pp. 6-11.
