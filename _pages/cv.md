@@ -11,7 +11,7 @@ redirect_from:
 
 Profile
 ======
-A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as a lecturer  in <a href="http://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University (KAU)</a>, Saudi Arabia with a Master of Science in  Information Security from <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_information_security/">University College London (UCL)</a> and Bachelor degree in Computer Science from <a href="http://www.kau.edu.sa/home_ENGLISH.aspx"> KAU </a>. I am passionate about  doing further research in information security area. 
+A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as a lecturer  in <a href="http://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University (KAU)</a>, Saudi Arabia with a Master of Science (MSc.) in Information Security from <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_information_security/">University College London (UCL)</a> and Bachelor of Science (BSc.) in Computer Science from <a href="http://www.kau.edu.sa/home_ENGLISH.aspx"> KAU </a>. I am passionate about  doing further research in information security area. 
 
 Education
 ======
