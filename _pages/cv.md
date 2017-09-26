@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Curriculum Vitae]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
+[Click to View My Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
 
 Positions
 ======
