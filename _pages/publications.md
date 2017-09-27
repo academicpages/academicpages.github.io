@@ -14,7 +14,7 @@ Conferences
 * E. Alashwali, "Cryptographic Vulnerabilities in Real-Life Web Servers," <i>in proc. of the 3rd International Conf. on Communications and Information Technology (ICCIT 2013)</i>, Beirut, Lebanon, 2013, pp. 6-11. <a href="ealashwali.github.io/files/ccit_paper_2012.pdf">PDF (pre-print)</a>
 * E. Alashwali and Hanene Ben-Abdallah, "Design and Evaluation of Competition-based Hacking Exercises," <i> in proc. of the IEEE Global Engineering Education Conference (EDUCON 2015)</i>, Tallin, Estonia, 2015. <a href= "ealashwali.github.io/files/competition_based_hacking_exercises.pdf">PDF (pre-print) </a>
 
-journal
+Journal
 ======
 * E. Alashwali, "Incorporating Hacking Projects in Computer and Information Security Education: an Empirical Study," Int. J. Electronic Security and Digital Forensics, Vol. 6, No. 3, pp.185-203. <a href="http://www.inderscienceonline.com/doi/abs/10.1504/IJESDF.2014.064406">Journal Link</a>
 
