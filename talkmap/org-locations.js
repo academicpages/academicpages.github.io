@@ -5,6 +5,11 @@ var addressPoints = [
     -90.0715
   ],
   [
+    "New Orleans, USA",
+    29.9511,
+    -90.0715
+  ],
+  [
     "New York, USA",
     40.7128,
     -74.0059
