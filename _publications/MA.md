@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MA
 venue: "arXiv 2017"
 date: 2017-09-14
-citation: '<b>Lantao Yu</b>*, Yaodong Yang*, Yiwei Bai*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. arXiv 2017.'
+citation: '<b>Lantao Yu</b>*, Yaodong Yang*, Yiwei Bai*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>Submitted to AAAI 2018</i>.'
 ---  
 [[PDF]](http://arxiv.org/abs/1709.04511) [[Code]](https://github.com/geek-ai/1m-agents)
 
