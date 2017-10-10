@@ -44,7 +44,9 @@ I have presented / will be presenting at...
 
 #### Southern Political Science Association (SPSA) 
 
+- New Orleans, LA: 2018. Panel: The Political Economy of Development.
 - New Orleans, LA: 2015. Panel: Issues in Electoral Politics.
+
 
 
 #### IX Congreso Chileno de Ciencia Política (ACCP)  
