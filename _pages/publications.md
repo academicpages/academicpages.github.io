@@ -20,10 +20,10 @@ Journal
 
 Miscellaneous
 ======
-* E. Alashwali, "Cryptographic Vulnerabilities in Real-Life Web Servers," <i> in the 3rd International Conf. on Communications and Information Technology (ICCIT 2013)</i>, Beirut, Lebanon, 2013. <a href="ealashwali.github.io/files/ccit_poster_2012.pdf">PDF</a>
+* E. Alashwali, "Cryptographic Vulnerabilities in Real-Life Web Servers," <i> in the 3rd International Conf. on Communications and Information Technology (ICCIT 2013)</i>, Beirut, Lebanon, 2013. <a href="ccit_poster_2012.pdf">PDF</a>
 * E. Alashwali (author and designer), "Labs & Technical Support Catalogue", published by the Scientific Publishing Centre at KAU, 2011. <a href="ealashwali.github.io/files/lab unit catalogue_2010_A5size_ver5.pdf">PDF</a>
-* E. Alashwali, "Software Security Assessment smbftpd-0.96" coursework submitted to University College London (UCL) in Language Based Security Course, 2012. <a href=" ealashwali.github.io/files/Software Security Assessment smbftpd-0.96.pdf ">PDF</a>
-* E. Alashwali, "Step by Step Guide: How to Install Network Simulator (NS2) on Linux Machine (Ubuntu 8.10), 2010. <a href=" ealashwali.github.io/files/STEP BY STEP GUIDE ON HOW TO INSTALL NETWORK SIMULATOR.pdf">PDF</a>
-* E. Alashwali, "Network Sniffing", Coursework Submitted to University College London (UCL) in Computer Security II Course, 2012. <a href="ealashwali.github.io/files/Network_sniffing_ver5.pdf">Presentation</a>
-* E. Alashwali, Introduction to Matlab Simulink, 2014. <a href="ealashwali.github.io/files/Lab4_Introduction to Simulink.pdf">PDF</a>
+* E. Alashwali, "Software Security Assessment smbftpd-0.96" coursework submitted to University College London (UCL) in Language Based Security Course, 2012. <a href="security_assesment.pdf ">PDF</a>
+* E. Alashwali, "Step by Step Guide: How to Install Network Simulator (NS2) on Linux Machine (Ubuntu 8.10), 2010. <a href="ns2.pdf">PDF</a>
+* E. Alashwali, "Network Sniffing", Coursework Submitted to University College London (UCL) in Computer Security II Course, 2012. <a href="network_sniffing_ver5.pdf">Presentation</a>
+* E. Alashwali, Introduction to Matlab Simulink, 2014. <a href="intro_simulink.pdf">PDF</a>
 
