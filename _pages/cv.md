@@ -17,7 +17,7 @@ Education
 ======
 * MSc. in Information Security, University College London (UCL), 2012.
 * Diploma in English for Academic Purposes, University College London (UCL), 2011.
-* BSc. in computer Science, King Abdulaziz University (KAU), 2004.
+* BSc. in Computer Science, King Abdulaziz University (KAU), 2004.
 
 IT Career Certificates
 ======
