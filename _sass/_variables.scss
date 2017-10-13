@@ -47,7 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #D7CEC7; // grain
+$gray                       : #fff; // white
 $dark-gray                  : $gray;
 $darker-gray                : mix(#000, $gray, 40%);
 $darkest-gray               : mix(#000, $gray, 60%);
