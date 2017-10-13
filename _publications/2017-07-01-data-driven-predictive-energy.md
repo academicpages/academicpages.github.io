@@ -2,7 +2,7 @@
 title: "A data-driven predictive model of city-scale energy use in buildings"
 collection: publications
 permalink: /publication/2017-07-01-data-driven-predictive-energy
-excerpt: 'We use statistical models to predict the energy use of 1.1 million buildings in New York City using the physical, spatial, and energy use attributes of a subset derived from 23,000 buildings required to report energy use data each year. Linear regression (OLS), random forest, and support vector regression (SVM) algorithms are fit to the city's energy benchmarking data and then used to predict electricity and natural gas use for every property in the city. Model accuracy is assessed and validated at the building level and zip code level.'
+excerpt: "We use statistical models to predict the energy use of 1.1 million buildings in New York City using the physical, spatial, and energy use attributes of a subset derived from 23,000 buildings required to report energy use data each year. Linear regression (OLS), random forest, and support vector regression (SVM) algorithms are fit to the city's energy benchmarking data and then used to predict electricity and natural gas use for every property in the city. Model accuracy is assessed and validated at the building level and zip code level."
 date: 2017-07-01
 venue: 'Applied Energy'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0306261917303835'
