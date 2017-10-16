@@ -4,12 +4,12 @@ excerpt: "Making water rates more accessible and understandable. <br/><img src='
 collection: portfolio
 ---
 
-As part of the [California Data Collaborative](http://californiadatacollaborative.org/) I help develop a variety of tools to make water rates easier for analysts, programmers and economists to work with.
+As part of the [California Data Collaborative](http://californiadatacollaborative.org/) I helped develop a variety of tools to make water rates easier for analysts, programmers and researchers to work with.
 
 
 ### [Open Water Rate Specification (OWSR)](https://github.com/California-Data-Collaborative/Open-Water-Rate-Specification)
 
-OWRS is a a machine-readable format for specifying and sharing water rate information. It is designed for analysts, economists, and software developers interested in analyzing water rates. OWRS attempts to fully encode a water utility's rate structure and pricing schedules in a form that is easy to store, share, modify and apply programmatically.
+OWRS is a a machine-readable format for specifying and sharing water rate information. It is designed for analysts, researchers, and software developers interested in analyzing water rates. OWRS attempts to fully encode a water utility's rate structure and pricing schedules in a form that is easy to store, share, modify and apply programmatically.
 
 ### [RateParser](https://github.com/California-Data-Collaborative/RateParser)
 
