@@ -1,6 +1,6 @@
 ---
 title: "Open Water Rates"
-excerpt: "Making water rates more accessible and understandable. <br/><img src='/images/ratecomparison.png'>"
+excerpt: "Making water rates more accessible and understandable. <br/><img src='/images/ratecomparison.png'><br/>"
 collection: portfolio
 ---
 

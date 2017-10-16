@@ -1,6 +1,6 @@
 ---
 title: "Benchmarking Energy & Water Use in New York City"
-excerpt: "The City of New York requires all large buildings to publicly disclose their annual energy consumption. As a graduate research assistant in the lab of [Dr. Constantine Kontokosta](http://www.urbanintelligencelab.org/) I worked with this energy disclosure data in a number of projects.  <br/><img src='/images/nyc_benchmarking.png'>"
+excerpt: "The City of New York requires all large buildings to publicly disclose their annual energy consumption. As a graduate research assistant in the lab of [Dr. Constantine Kontokosta](http://www.urbanintelligencelab.org/) I worked with this energy disclosure data in a number of projects.  <br/><img src='/images/nyc_benchmarking.png'><br/>"
 collection: portfolio
 ---
 
