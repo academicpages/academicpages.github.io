@@ -11,8 +11,4 @@ location: "Viçosa - Minas Gerais, Brazil"
 This was a talk that integrated the debate about Open Science in the XIII Congresso de Ecologia do Brasil and III International Symposium of Ecology and Evolution. Open Science is a way of doing, publishing and communicate science. It involves several steps of academic research, and proposes more openess, transparency and accessibility in each one of these steps, including practices such as open data usage and publication, reproducible scripts to data analyses, manuscripts submition to open access journals and science outreach.  
 In this debate we talked about concepts and tools related to open science practices. This talk, specifically, invited the public to question how open is a research without science outreach. What is the importance of Science Communication in our society, particularly in our Brazillian society, since we suffer with recent huge cuts in science fundings? How can we benefit from it? What do we need to do better SciComm?
 
-<object data="https://github.com/graciellehigino/graciellehigino.github.io/blob/master/files/Gracielle_Higino.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/graciellehigino/graciellehigino.github.io/blob/master/files/Gracielle_Higino.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/graciellehigino/graciellehigino.github.io/blob/master/files/Gracielle_Higino.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<embed src="https://github.com/graciellehigino/graciellehigino.github.io/blob/master/files/Gracielle_Higino.pdf" width="800px" height="2100px" />
