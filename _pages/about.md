@@ -1,5 +1,5 @@
 ---
-permalink:/home/_pages/about.md
+permalink:/home/_pages
 title: "Jingwei Li's Homepage"
 excerpt: "About me"
 author_profile: true
