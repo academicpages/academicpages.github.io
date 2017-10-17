@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter: lijingwei
-  username               : &twitter
+  username               : &twitter lijingwei
 facebook:
   username               :
   app_id                 :
