@@ -1,5 +1,5 @@
 ---
-permalink: /home
+permalink: /_pages
 title: "Jingwei Li's Homepage"
 excerpt: "About me"
 author_profile: true
