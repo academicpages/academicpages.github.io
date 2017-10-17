@@ -54,8 +54,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: lijingwei
-  username               : &lijingwei
+twitter: 
+  username               : "lijingwei"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ author:
   name             : "Jingwei Li"
   avatar           : "profile.png"
   bio              : "Graduate Student"
-  location         : "Location"
+  location         : "P.R. China"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
