@@ -1,15 +1,13 @@
 ---
-permalink: /_pages
-title: "Jingwei Li's Homepage"
+permalink: /
+title: "Jingwei"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about.md
+  - /about/
   - /about.html
 ---
 
-
-**Jingwei Li**
 
 Graduate Student, School of Computer Science and Engineering, UESTC
 Address: Room B1-207, Main Building, Qingshuihe Campus, UESTC
