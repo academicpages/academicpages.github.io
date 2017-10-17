@@ -1,7 +1,7 @@
 ---
 title: "Quão *open* é a sua *science*? Divulgação científica a favor de todos"
 collection: talks
-type: "Round table"
+type: "Roundtable"
 permalink: /talks/2017-10-09
 venue: "Universidade Federal de Viçosa"
 date: 2017-10-09
