@@ -12,7 +12,7 @@
 
 Graduate Student, School of Computer Science and Engineering, UESTC
 Address: Room B1-207, Main Building, Qingshuihe Campus, UESTC
-               No. 2006, Xueyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R. China
+               No. 2006, Xueyuan Ave, West Hi-Tech Zone, NJ, JS, P.R. China
 Email:     jwli at ac.cn or jingwei.lea at gmail.com
 
 I am an assistant professor of the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC). I joined UESTC in Feb. 2016. Before that, I was a postdoctoral researcher at the Chinese University of Hong Kong working with Prof. Patrick P. C. Lee. During Sep. 2013 to Oct. 2014, I was a visiting scholar at Pennsylvania State University working with Prof. Anna Squicciarini. I obtained my B.S. from Nanjing University of Technology in 2009 and my Ph.D. from Nankai University in 2014 under the supervision of Prof. Xiaoyang.
