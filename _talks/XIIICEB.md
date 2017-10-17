@@ -14,4 +14,4 @@ In this debate we talked about concepts and tools related to open science practi
 
 [See the presentation here (in Portuguese)](https://github.com/graciellehigino/graciellehigino.github.io/blob/master/files/Gracielle_Higino.pdf)  
   
-P.S.: I will translate the slides soon. =D
+P.S.: I will translate the presentation soon. =D
