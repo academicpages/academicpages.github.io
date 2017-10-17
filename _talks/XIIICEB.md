@@ -5,7 +5,7 @@ type: "Round table"
 permalink: /talks/2017-10-09
 venue: "Universidade Federal de Viçosa"
 date: 2017-10-09
-location: "Viçosa, Minas Gerais, Brazil"
+location: "Viçosa - Minas Gerais, Brazil"
 ---
 ![](https://raw.githubusercontent.com/graciellehigino/graciellehigino.github.io/master/images/IMG-20171009-WA0008%5B1%5D.jpg)
 
