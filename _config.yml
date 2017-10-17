@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter: lijingwei
-  username               : &twitter lijingwei
+  username               : &lijingwei
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lijingwei"
+  twitter          : lijingwei
   vine             :
   weibo            :
   xing             :
