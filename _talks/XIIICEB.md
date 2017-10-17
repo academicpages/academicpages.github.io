@@ -13,6 +13,7 @@ This was a talk that integrated the debate about Open Science in the XIII Congre
 In this debate we talked about concepts and tools related to open science practices. This talk, specifically, invited the public to question how open is a research without science outreach. What is the importance of Science Communication in our society, particularly in our Brazillian society, since we suffer with recent huge cuts in science fundings? How can we benefit from it? What do we need to do better SciComm?  
 
 [See the presentation here (in Portuguese)](https://github.com/graciellehigino/graciellehigino.github.io/blob/master/files/Gracielle_Higino.pdf)  
-[Download part of the talk here (video in Portuguese)](https://mega.nz/#!EXhkUYSB!HDs1fUTPsgyraVers6oSmFIDjDqbqlLuSAPlMMLUeP0)
-  
-P.S.: I will translate the presentation soon. =D
+P.S.: I will translate the presentation soon. =D  
+
+**Part of the talk was recorded and you can watch it here (in Portuguese):**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oN4frgogLys" frameborder="0" allowfullscreen></iframe>
