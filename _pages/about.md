@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Jingwei Li 
+**Jingwei Li**
 
 Graduate Student, School of Computer Science and Engineering, UESTC
 Address: Room B1-207, Main Building, Qingshuihe Campus, UESTC
