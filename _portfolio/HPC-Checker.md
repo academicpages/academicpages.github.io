@@ -10,7 +10,7 @@ When you run calculations on HPC servers, you typically want to keep an eye of t
 
 The app additionally provides a summary of all the active jobs on the server. This is particularly useful to check the availability of the server and its load, and could help to plan your next job submission.
 
-The app is based on connecting to the HPC server via ssh (secure shell). HPC Checker supports Sun GridEngine (SGE) and Portable Batch System (PBS) and Simple Linux Utility for Resource Management (SLURM) and in the near future the list will be extended with Simple Linux Utility for Resource Management (SLURM) and other popular job scheduling software.
+The app is based on connecting to the HPC server via ssh (secure shell). HPC Checker supports Sun GridEngine (SGE), Portable Batch System (PBS) and Simple Linux Utility for Resource Management (SLURM) job schedulers and, in the near future, I am planning to extend the list with other popular job scheduling software.
 
 I intend to keep this app free and without ads. I would really appreciate any feedback concerning the app and any support to sustain and improve it.
 
