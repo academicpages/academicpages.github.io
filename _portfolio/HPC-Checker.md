@@ -1,10 +1,12 @@
 ---
 title: "HPC Checker"
-excerpt: "<img src='/images/HPC_Checker.png' height='50' width='50' align='left'> HPC Checker aims to be a simple android app with useful features to monitor the status of your jobs on High Performance Computing (HPC) servers. "
+excerpt: "<img src='/images/HPC_Checker.png' height='100' width='100' align='left'> 
+<br>
+HPC Checker aims to be a simple android app with useful features to monitor the status of your jobs on High Performance Computing (HPC) servers. "
 collection: portfolio
 ---
 
-<img src='/images/HPC_Checker.png' height='50' width='50' align='left'> HPC Checker aims to be a simple android app with useful features to monitor the status of your jobs on High Performance Computing (HPC) servers.
+<img src='/images/HPC_Checker.png' height='50' width='100' align='100'><br>HPC Checker aims to be a simple android app with useful features to monitor the status of your jobs on High Performance Computing (HPC) servers.
 
 When you run calculations on HPC servers, you typically want to keep an eye of their progress and see whether they are in a queue, running or finished. From my experience this usually involved using a laptop or desktop, which are not usually close at hand. I have designed and developed HPC Checker in order to provide this information on your mobile device after just a few touches of your screen.
 
