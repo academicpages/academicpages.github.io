@@ -1,6 +1,6 @@
 ---
 title: "HPC Checker"
-excerpt: "HPC Checker aims to be a simple android app with useful features to monitor the status of your jobs on High Performance Computing (HPC) servers. <br/><img src='/images/HPC_Checker.png'>"
+excerpt: "<img src='/images/HPC_Checker.png' height="42" width="42" align=”right”> HPC Checker aims to be a simple android app with useful features to monitor the status of your jobs on High Performance Computing (HPC) servers."
 collection: portfolio
 ---
 
