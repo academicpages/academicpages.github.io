@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-Welcome to my home on the web dedicated to my job and hobbies. I am a computational scientist currently working as a Research Associate in the Department of Chemistry in University College London and passionate about programming, science, languages, and traveling.
+Welcome to my home on the web dedicated to my job and hobbies. I am a scientific software developer currently working as a Research Associate in the Department of Chemistry in University College London and passionate about programming, science, languages, and traveling.
 <br><br>
 My primary research interests and experience are in scientific programming and global optimization techniques. I aim to develop scientific software which is reliable, scalable, flexible, and targets to solve complex numerical problems.
 <br><br>
