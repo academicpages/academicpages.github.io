@@ -12,11 +12,11 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Photos"
+    url: /photos/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
