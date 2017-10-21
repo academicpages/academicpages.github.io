@@ -9,14 +9,8 @@ location: "City, Country"
 ---
 
 
-Combinatorics
+Heading 1
 ======
-This is a description of a teaching experience. You can use markdown like any other post.
-MATH 3170  Combinatorics 1
-(a.k.a. Combinatorics)
-Covers basic methods and results in combinatorial theory. Includes enumeration methods, elementary properties of functions and relations, and graph theory.
-Prerequisite:  MATH 2001.
-Generally offered every fall.
 
 
 Heading 2
