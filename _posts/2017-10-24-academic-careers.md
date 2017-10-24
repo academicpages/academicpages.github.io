@@ -29,8 +29,7 @@ The benefit of doing a survey about job preferences, as opposed to looking at ac
 
 The longitudinal nature of the study is unique. I imagine that most studies survey two groups of students, students in their first year and students in their fourth year of the PhD, and compare those two indepenent groups. The problem is that if the two groups differ in their average opinion, you cannot tell whether the difference is due to the older group's experience in the PhD or whether it's due to something else. Instead, this study looks at each student's **change** in opinion. This approach gives more power to detect differences and is just more interesting.
 
-![Alt text]
-(http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0184130.g002&size=large)
+![Alt text](http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0184130.g002&size=large)
 
 
 Potential problems
