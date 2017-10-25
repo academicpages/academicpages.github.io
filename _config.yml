@@ -178,6 +178,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  scientific-software:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -225,6 +228,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _scientific-software
+  - scope:
+      path: ""
+      type: scientific-software
     values:
       layout: single
       author_profile: true
