@@ -8,14 +8,13 @@ author_profile: true
 {% include base_path %}
 
 Current development:
-
 {% for post in site.scientific-software %}
   {% include archive-single.html %}
 {% endfor %}
+
 
 Previous development:
 
-{% for post in site.scientific-software %}
+{% for post in site.scientific-software-prev %}
   {% include archive-single.html %}
 {% endfor %}
-
