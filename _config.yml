@@ -245,7 +245,7 @@ defaults:
   # _scientific-software-prev
   - scope:
       path: ""
-      type: scientific-software-prev
+      type: scientific-software
     values:
       layout: single
       author_profile: true
