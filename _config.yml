@@ -242,6 +242,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _scientific-software-prev
+  - scope:
+      path: ""
+      type: scientific-software-prev
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
