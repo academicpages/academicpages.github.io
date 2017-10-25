@@ -2,7 +2,10 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
-
+  
+  - title: "Scientific Software"
+    url: /scientific-software/
+  
   - title: "Publications"
     url: /publications/
 
