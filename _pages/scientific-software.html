@@ -15,11 +15,13 @@ author_profile: true
 <br>
 
 <b>Previously (2011-2014)</b> at Loughborough University I was involved in developing and maintaining software to model physical processes, such as during radiation damage, occurring during radiation damage events. 
+
 <br><br>
 <img src='/images/RadiationEvent.png' width='600' align='100' hspace='20'>
 <br><br>
-In order to model such events, two in-house software packages were exploited. LboMD was used to model the ballistic phase and LAKMC was used to model the recovery phase. To read more about the software and the project, please check my PhD 
-<b><a href="https://dspace.lboro.ac.uk/2134/15411">thesis</a></b>.
+Radiation event is usually driven by energetic particles and their effect on the nearby atoms in physical objects. Within the first few ps of a radiation event, also known as the ballistic phase, the initial damage region becomes highly distorted and leads to a ``thermal spike'', a quick local temperature increase, and thermally driven processes occur which can be modelled using the Molecular Dynamics technique. After the ballistic phase, the system is left with metastable defects as it reaches local minimum and the processes of defect recombination, migration and clustering take place on much longer time scales - the so called ``Recovery Phase'', which cannot be simulated using MD and other techniques must be employed, such as Kinetic Monte Carlo.
+<br><br>
+In order to model such events, two in-house software packages were exploited. LboMD was used to model the ballistic phase and LAKMC was used to model the recovery phase. To read more about the software and the project, please check my PhD <b><a href="https://dspace.lboro.ac.uk/2134/15411">thesis</a></b>.
 <br>
 {% for post in site.scientific-software-prev %}
   {% include archive-single.html %}
