@@ -1,6 +1,6 @@
 ---
 title: "The Robin Hood of Wall Street"
-excerpt: "<img src='/images/robinhood_200_200.png' height='60' width='60' align='left' hspace='20'> Evidence-based method development for equity investment."
+excerpt: "<img src='/images/robinhood_200_200.png' height='60' width='60' align='left' hspace='20'> Evidence-based method development to invest in equity markets."
 collection: portfolio
 ---
 <br><br>
