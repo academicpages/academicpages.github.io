@@ -15,3 +15,5 @@ The app is based on connecting to the HPC server via ssh (secure shell). HPC Che
 I intend to keep this app free and without ads. I would really appreciate any feedback concerning the app and any support to sustain and improve it.
 
 <a href="https://play.google.com/store/apps/details?id=net.lazauskas.HPC_Checker"><img src='/images/en_badge_web_generic.png' align='left' width='200'></a>
+
+
