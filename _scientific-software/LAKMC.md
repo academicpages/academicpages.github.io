@@ -4,10 +4,7 @@ excerpt: "<img src='/images/Python_C_Fortran.png' height='60' width='60' align='
 collection: scientific-software
 ---
 <br><br>
-<img src='/images/Python_C_Fortran.png' height='50' width='100' align='100' hspace='20'><br><br> .
-
-
-Loughborough Atomistic Kinetic Monte Carlo (LAKMC) - a novel, parallel, long time scale atomistic simulation software suite.
+<img src='/images/Python_C_Fortran.png' height='50' width='100' align='100' hspace='20'><br><br> Loughborough Atomistic Kinetic Monte Carlo (LAKMC) - a novel, parallel, long time scale atomistic simulation software suite.
 
 LAKMC is a large scale highly parallelized simulation program which implements an atomistic, multi time scale technique incorporating molecular dynamics and on-the-fly kinetic Monte Carlo. 
 
