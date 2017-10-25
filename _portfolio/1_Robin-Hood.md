@@ -6,7 +6,7 @@ markets "
 collection: portfolio
 ---
 <br><br>
-<img src='/images/robinhood_200_200.png' height='50' width='100' align='100' hspace='20'><br><br> Evidence-based method development for equity investment.
+<img src='/images/robinhood_200_200.png' height='50' width='100' align='100' hspace='20'><br><br> Evidence-based method development of equity investment tools.
 
 The Robin Hood of Wall Street is a project that combines several things: finance and trading, building computer algorithms, traveling to remote places and helping those people in the world who are struggling to survive.
 
