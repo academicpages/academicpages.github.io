@@ -10,4 +10,4 @@ The Robin Hood of Wall Street is a project that combines several things: finance
 
 We design computer algorithms to pick stocks and run an endowment fund based on the results with intention to grant the returns to selected charities.
 
-More details about the project: 
+For more details about the project, <a title="The Robin Hood of Wall Street" href="http://robinhoodofwallstreet.com" rel="alternate">click here.</a>
