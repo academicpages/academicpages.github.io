@@ -14,6 +14,6 @@ The web-interfaced database is designed to:
 <li>to find similar structures which were previously uploaded (i.e. by analysing the topology of the nanoclusters),</li>
 <li>to perform on-demand analysis of nanoclusters (e.g. radial distribution function, angular distribution, etc.),</li>
 <li>to perform on-demand calculations,</li>
-<li>to provide a platform for the users to upload their own data and share it among the other users.</ul>
+<li>to provide a platform for the users to upload their own data and share it among the other users.</li></ul>
 
 WASP@N is developed using: Java, C/C++, Fortran, HTML, JavaScript, and Python. The website can be accessed using the following link: <a title="WASP@N website" href="http://hive.chem.ucl.ac.uk" rel="alternate">click here</a>
