@@ -12,4 +12,4 @@ KLMC enables to investigate diverse physical and chemical phenomena including pr
 
 More information about KLMC can be found using the following link: <a title=\\\"KLMC website" href="https://www.ucl.ac.uk/klmc/Software/" rel="alternate">click here</a>
 
-Various scripts to analyse the results from KLMC can be found on my GitHub <a href="https://github.com/tomaslaz/Analysis-Toolkit" target="_blank">account<\\/a>. 
+Various scripts to analyse the results from KLMC can be found on my GitHub <a href="https://github.com/tomaslaz/Analysis-Toolkit" target="_blank">account</a>. 
