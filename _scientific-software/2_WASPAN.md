@@ -7,7 +7,9 @@ collection: scientific-software
 <img src='/images/waspan_small.png' height='50' width='100' align='100' hspace='20'><br><br> Web Assisted Structure Prediction at the Nanoscale (WASP@N) - a novel web-interfaced database, linked with an HPC cluster.
 
 I am a member of a team dedicated to develop a novel nanocluster database, WASP@N, in which we intend to link a web-interfaced database and compute nodes dedicated to help scientific community to search, discover and disseminate nanoclusters.
-
+<br>
+<img src='/images/WASPAN_System.png' width='600' align='middle'>
+<br>
 The web-interfaced database is designed to:
 <ul><li>to enable the users an access to the uploaded nanoclusters (i.e. search, visualise, download),</li>
 <li>to calculate physical properties of the uploaded nanoclusters (e.g. symmetry, moments of inertia, electrical dipoles, etc.),</li>
