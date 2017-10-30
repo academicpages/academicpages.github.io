@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Integrated M.Sc (Hons.) is Physics, Birla Institute of Science and Technology (BITS) Pilani, India, 2013
+* Ph.D in Physics, University of Kansas, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Fellow
+  * Argonne National Laborataries
+  * Implemented​ ​ Deep​ ​ Neural​ ​ Network​ ​ algorithms​ ​ for​ ​ analysis​ ​ of​ ​ Gravitational​ ​ lensing​ ​ simulations​ ​ for​ ​ upcoming​ ​ ground​ ​ and
+space​ ​ telescopes.​ ​ Project​ ​ can​ ​ be​ ​ accessed​ ​ in this [public repo](https://github.com/hep-cce/ml_classification_studies)
+  * Supervisor: Professor Salman Habib
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2013 - Present
+  * Cosmological​ ​ simulations​ ​ using​ ​ massively​ ​ parallel​ ​ codes​ ​ on​ ​ supercomputing​ ​ clusters​ ​ (C/C++​ ​ with​ ​ MPI).​ ​ Spatial
+clustering​ ​ and​ ​ classification​ ​ algorithms,​ ​ and​ ​ visualizations​ ​ of​ ​ large​ ​ datasets​ ​ using​ ​ Python
+  * Supervisor: Professor Sergei Shandarin
+
+* Fall 2015: Head teaching Assistant
+  * University of Kansas
+  * Coordinated and managed Teaching Assistants in the Department of Physics. Implemented student performance analysis using statistical tools on lab/quiz grades of nearly 2000 students in 6 courses.
+  * Supervisor: Dr. Jennifer Delgado
+
+
   
 Skills
 ======
