@@ -11,49 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Applied Mathematics, University of Pennsylvania, 2018 (expected)
+* B.S. in Mathematics, Wuhan University, 2016
+* B.A. in Economics, Wuhan University, 2016
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2017: Research Assistant
+  * University of Pennsylvania
+  * Department of Biostatistics, Epidemiology and Informatics
+  * Supervisor: [Prof. J. Richard Landis](http://www.med.upenn.edu/apps/faculty/index.php/g275/p7791) and [Prof. Wensheng Guo](http://www.med.upenn.edu/apps/faculty/index.php/g275/p10796)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Summer 2015: Quatitative Researcher 
+  * Shenzhen Stock Exchange
+  * Internship
+
+* Spring 2015: Research Experience for Undergraduates
+  * Wuhan University
+  * Department of Finance
