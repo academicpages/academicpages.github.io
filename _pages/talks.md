@@ -37,6 +37,8 @@ I have presented / will be presenting at...
 
 #### Western Political Science Association (WPSA) 
 
+- San Francisco, CA: 2018. Miniconference: The Political Economy of Undemocratic Politics.
+
 - San Diego, CA: 2016. Panel: Politics of Inequality.
 
 - Las Vegas, NV: 2015. Panel: Latin American Politics.
