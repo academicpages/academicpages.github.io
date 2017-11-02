@@ -46,8 +46,8 @@ var addressPoints = [
   ],
     [
     "San Francisco, USA",
-    37.7749,
-    122.4194
+    37.773972,
+    -122.431297
   ],
 
 ];
