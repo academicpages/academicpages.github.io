@@ -70,10 +70,10 @@ social:
 
 
 # Analytics
-analytics: UA-99717716-1
+analytics: 
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-99717716-1
 
 
 # Site Author
