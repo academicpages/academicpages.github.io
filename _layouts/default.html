@@ -20,6 +20,11 @@ layout: compress
 
     </script>
 
+  {% if page.comments %}
+  {% include disqus.html %}	 
+  {% endif %}
+  
+  
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
@@ -29,8 +34,6 @@ layout: compress
 
     {% include scripts.html %}
   
-{% if page.comments %}
-{% include disqus.html %}	 
-{% endif %}
+
   </body>
 </html>
