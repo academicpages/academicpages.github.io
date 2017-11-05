@@ -1,5 +1,5 @@
 ---
-title: Who was Ralf Dahrendorf? 
+title: 'Who Was Ralf Dahrendorf?' 
 date: 2017-06-24
 comments: true
 tags:
