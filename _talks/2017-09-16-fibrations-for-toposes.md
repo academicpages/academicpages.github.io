@@ -1,5 +1,5 @@
 ---
-collection: talks
+collection: research
 type: "Conference talk, PSSL 101"
 permalink: /research/2017-09-16-fibrations-for-toposes
 venue: "School of Mathematics, University of Leeds"
