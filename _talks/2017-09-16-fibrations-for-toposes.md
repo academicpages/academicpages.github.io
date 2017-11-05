@@ -1,7 +1,7 @@
 ---
-collection: research
+collection: talks
 type: "Conference talk, PSSL 101"
-permalink: /research/2017-09-16-fibrations-for-toposes
+permalink: /talks/2017-09-16-fibrations-for-toposes
 venue: "School of Mathematics, University of Leeds"
 date: 2017-09-16
 location: "Leeds, UK"
