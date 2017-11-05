@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Elements of Functional Programming"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate module"
+permalink: /teaching/2015-autumn
+venue: "University of Birmingham, School of Computer Science"
+date: 2017-09-01
+location: "Birmingham, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Functional Programming, Haskell, 2nd year students,  Autumn 2015
+   * Module Lecturer: [Martin Escardo](http://www.cs.bham.ac.uk/~mhe/) 
+   * Other deomnstrators: [Bram Geron](https://bram.xyz/blog/), [Cory Knapp](http://www.cs.bham.ac.uk/~cmk497/), and [Tomas Jakl](http://kam.mff.cuni.cz/~jaklt/)
