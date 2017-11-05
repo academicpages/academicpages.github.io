@@ -8,6 +8,7 @@ tags:
   - Positive Liberty
 permalink: /posts/2017/05/how-to-think-about-liberty/  
 thumbnail: Freiheit.jpg
+comments: true
 ---
 
 
