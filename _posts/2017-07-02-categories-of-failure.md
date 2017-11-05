@@ -1,11 +1,15 @@
 ---
-layout: post
 title: Categories of failures of nations? 
 date: 2017-07-02
+tags:
+  - Why nations fail?
+  - Inclusive politics 
+  - Corruption of powerful elite
+permalink: /posts/2017/07/categories-of-failure/  
 comments: true
 ---
 
-<div class="thumbnail">	<img src="{{ site.baseurl }}/images/homeless-Iranians-living-in-graves.jpg" alt="homeless-Iranians-living-in-graves-Tehran" >	</div>
+
 
 Why are there so many poor nations in the world? How has the world reached astonishing inequality between nations? 
 Is really economic success and prosperity such a big mystery? Is it too much to ask for a country like Sierra Leone 
@@ -23,3 +27,7 @@ The book is highly praised by notable economists and political scientists includ
 
 
 But as Acemoglu and Robinson argued China is not a lone example and not a reliable model compared to sustainable prosperity of full inclusive societies.  
+
+
+
+<div class="thumbnail">	<img src="{{ site.baseurl }}/images/homeless-Iranians-living-in-graves.jpg" alt="homeless-Iranians-living-in-graves-Tehran" >	</div>
