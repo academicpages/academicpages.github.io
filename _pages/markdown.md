@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "GitHub Pages And Markdown"
 author_profile: true
 redirect_from: 
   - /md/
@@ -35,7 +35,7 @@ Also, a really cool maths blog on discrete geometry, graph theory, and other stu
 [Kramdown](https://kramdown.gettalong.org/) comes with optional support for LaTeX to PNG rendering via MathJax within math blocks. This [blogpost](http://gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/) has a good tutorial on how to use MathJax with Jekyll. Also, you will probably find the official [MathJax](http://docs.mathjax.org/en/latest/start.html) website useful.
 
 
-## Tips and hints for using Markdown
+### Tips and hints for using Markdown
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
@@ -44,28 +44,28 @@ Also, a really cool maths blog on discrete geometry, graph theory, and other stu
   * Red X: error
   * No icon: not built
 
-## Resources
+### Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-## Markdown guide
-
-### Header three
+### Markdown guide
 
 #### Header four
 
 ##### Header five
 
-###### Header six
+###### Header five
 
-## Blockquotes
+
+
+### Blockquotes
 
 Single line blockquote:
 
 > Quotes are cool.
 
-## Tables
+### Tables
 
-### Table 1
+#### Table 1
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -73,7 +73,7 @@ Single line blockquote:
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
-### Table 2
+#### Table 2
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -85,21 +85,16 @@ Single line blockquote:
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
-## Definition Lists
+### Definition Lists
 
 Definition List Title
 :   Definition list division.
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
 #dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
-## Unordered Lists (Nested)
+### Unordered Lists (Nested)
 
   * List item one 
       * List item one 
@@ -114,7 +109,7 @@ Do It Live
   * List item three
   * List item four
 
-## Ordered List (Nested)
+### Ordered List (Nested)
 
   1. List item one 
       1. List item one 
@@ -129,58 +124,58 @@ Do It Live
   3. List item three
   4. List item four
 
-## Buttons
+### Buttons
 
 Make any link standout more when applying the `.btn` class.
 
-## Notices
+### Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
 {: .notice}
 
-## HTML Tags
+### HTML Tags
 
-### Address Tag
+#### Address Tag
 
 <address>
   1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
 </address>
 
-### Anchor Tag (aka. Link)
+#### Anchor Tag (aka. Link)
 
 This is an example of a [link](http://github.com "Github").
 
-### Abbreviation Tag
+#### Abbreviation Tag
 
 The abbreviation CSS stands for "Cascading Style Sheets".
 
 *[CSS]: Cascading Style Sheets
 
-### Cite Tag
+#### Cite Tag
 
 "Code is poetry." ---<cite>Automattic</cite>
 
-### Code Tag
+#### Code Tag
 
 You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
 
-### Strike Tag
+#### Strike Tag
 
 This tag will let you <strike>strikeout text</strike>.
 
-### Emphasize Tag
+#### Emphasize Tag
 
 The emphasize tag should _italicize_ text.
 
-### Insert Tag
+#### Insert Tag
 
 This tag should denote <ins>inserted</ins> text.
 
-### Keyboard Tag
+#### Keyboard Tag
 
 This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
 
-### Preformatted Tag
+#### Preformatted Tag
 
 This tag styles large blocks of code.
 
@@ -194,19 +189,19 @@ This tag styles large blocks of code.
 }
 </pre>
 
-### Quote Tag
+#### Quote Tag
 
 <q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
 
-### Strong Tag
+#### Strong Tag
 
 This tag shows **bold text**.
 
-### Subscript Tag
+#### Subscript Tag
 
 Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
 
-### Superscript Tag
+#### Superscript Tag
 
 Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
 
