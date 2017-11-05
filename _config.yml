@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-US"
 title                    : "Sina Hazratpour"
 title_separator          : "-"
 name                     : &name "Sina Hazratpour"
@@ -304,4 +304,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman
+
