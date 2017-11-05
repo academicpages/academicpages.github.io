@@ -1,8 +1,12 @@
 ---
-layout: post
-title: The figure of Atlas
+title: 'The Figure of Atlas'
 date: 2017-05-28
 comments: true
+tags:
+  - Atlas
+  - Argo
+  - Sloterdijk
+permalink: /posts/2017/05/the-figure-of-Atlas/  
 thumbnail: atlas.jpg
 ---
 
