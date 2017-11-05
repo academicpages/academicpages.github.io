@@ -39,7 +39,7 @@ However, before we delve into our philsophical contemplation, here is a pretty c
 
 
 
-<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="Freiheit" >	</div>
+
 
 
 1. [Two ways of conceiving concept of liberty](#TwoWays) 
@@ -49,6 +49,8 @@ However, before we delve into our philsophical contemplation, here is a pretty c
 3. Where could we go wrong? 
 4. Is it always possible to distinguish between these two in different scenarios of human affairs? 
 
+
+<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="Freiheit" >	</div>
 
 ## <a name="TwoWays"> </a> Two ways of conceiving the concept of liberty
 
