@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-About Me 
-======
 I am a research student in foundation of mathematics and theoretical computer science. My main research interests include categorical logic, type theory, topos theory, and more recently higher category theory. Some of these subjects have close connections to fundamental concepts of computer science by either direct applications in computer science, providing proper foundation of discourse or sometimes being inspired by ideas from computer science such as computability. 
 
 My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/" target="_blank">Prof. Steve Vickers</a> a member of <a href="https://www.cs.bham.ac.uk/research/groupings/theory/" target="_blank">Theory of Computation</a> group at University of Birmingham. We are currently investigating some 2-categorical aspects of toposes from logical point of view. To know more I invite you to look at my <a href="https://www.cs.bham.ac.uk/~sjv/" target="_blank">research profile.</a>
@@ -20,11 +17,13 @@ My advisor was <a href="http://www-home.math.uwo.ca/~mpinson/" target="_blank">P
 
 
 
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+Other interests 
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+I am fond of remote places in nature, museums, hiking, and photography. I am a reader of philosophy and history of philosophical thoughts and enjoy discussing them any opportunity I find. In particular, among classics, I read Plato, Voltaire, Kant, Hegel, and among contemporaries Wittgenstein, Searle, Foucault, and Badiou are closer to my taste. I used to find more free time during my undergraduate and masters years to read these folks but during my PhD years I do regret that I do not have enough time to commit myself more seriously to reading some of heftier books. Ocassionally, I will write some of my thoughts on range of issues of philosphical nature on <a href="/Blog Posts">my blog</a>. If you like to discuss those ideas further, I would appreciate if you leave your comments under the posts. 
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
