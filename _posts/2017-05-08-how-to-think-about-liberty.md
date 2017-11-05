@@ -14,10 +14,6 @@ comments: true
 
 
 
-
-
-## The famous essay
-
 I recently read Isaiah Berlin's famous essay [two concepts of liberty][1] in which he delineates between two different historical understanding of the notion of liberty; the __negative__  and __positive__ liberty chiefly in their political sense. The essay is both concise and very clear in exposition, and  rich in terms of various historical events and references. After rerading it, I felt I was left with a sense of real and original intellectual force. 
 
 
