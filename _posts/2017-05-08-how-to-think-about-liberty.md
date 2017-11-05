@@ -12,7 +12,6 @@ comments: true
 ---
 
 
-<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="Freiheit" >	</div>
 
 
 
@@ -40,8 +39,7 @@ However, before we delve into our philsophical contemplation, here is a pretty c
 
 
 
-
-
+<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="Freiheit" >	</div>
 
 
 1. [Two ways of conceiving concept of liberty](#TwoWays) 
