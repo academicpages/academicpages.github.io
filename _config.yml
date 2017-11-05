@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Sina Hazratpour"
 title_separator          : "-"
 name                     : &name "Sina Hazratpour"
@@ -70,7 +70,7 @@ social:
 
 
 # Analytics
-analytics:
+analytics: UA-99717716-1
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Sina"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "a proletariat toposophist"
   location         : "Birmingham, UK"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -93,11 +93,11 @@ author:
   facebook         : "sinahazratpour"
   foursquare       :
   github           : "academicpages"
-  google_plus      :
+  google_plus      : "+SinaHazratpour"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "sina-hazratpour"
   orcid            : 
   pinterest        :
   soundcloud       :
