@@ -1,8 +1,13 @@
 ---
-layout: post
 title: Who was Ralf Dahrendorf? 
 date: 2017-06-24
 comments: true
+tags:
+  - Liberty
+  - Dahrendorf
+  - Pumpkapitalismus
+  - World War II
+permalink: /posts/2017/06/Sir-Ralf-Dahrendorf/  
 thumbnail: Dahrendorf-World-Economic-Forum.jpg
 ---
 
