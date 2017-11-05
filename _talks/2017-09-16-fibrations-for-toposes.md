@@ -7,8 +7,7 @@ date: 2017-09-16
 location: "Leeds, UK"
 ---
 
-Fibrations For Toposes
-======================
+
 
 Abstract: For many special constructions of topological spaces (which for us will be point-free, and generalized in the sense of Grothendieck), a structure preserving map between the presenting structures gives a map between the
 corresponding spaces. Two very simple examples are: a function $f\colon X \to Y$ between sets already is a map between the corresponding discrete spaces; and a homomorphism $f\colon K \to L$ between two distributive lattices gives a map \emph{in the opposite direction} between their spectra. The covariance or contravariance of this correspondence is a fundamental property of the construction.
