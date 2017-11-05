@@ -1,5 +1,5 @@
 ---
-title: Categories of failures of nations? 
+title: 'Categories of Failure' 
 date: 2017-07-02
 tags:
   - Why nations fail?
