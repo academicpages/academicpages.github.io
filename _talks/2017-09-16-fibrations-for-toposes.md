@@ -1,7 +1,7 @@
 ---
 title: "Fibrations For Toposes"
 collection: talks
-type: "Conference talk"
+type: "Conference talk, PSSL 101"
 permalink: /talks/2017-09-16-fibrations-for-toposes
 venue: "School of Mathematics, University of Leeds"
 date: 2017-09-16
