@@ -2,7 +2,7 @@
 title: "Fibrations For Toposes"
 collection: talks
 type: "Conference talk"
-permalink: /talks/2017-0-16-tutorial-1
+permalink: /talks/2017-09-16-fibrations-for-toposes
 venue: "School of Mathematics, University of Leeds"
 date: 2017-09-15
 location: "Leeds, UK"
