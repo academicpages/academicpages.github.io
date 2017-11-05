@@ -1,10 +1,10 @@
 ---
-title: "Elements of Functional Programming"
+title: "Functional Programming, Haskell"
 collection: teaching
 type: "Undergraduate module"
 permalink: /teaching/2015-autumn
 venue: "University of Birmingham, School of Computer Science"
-date: 2017-09-01
+date: 2015-09-01
 location: "Birmingham, UK"
 ---
 
