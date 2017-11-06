@@ -36,6 +36,7 @@ $$
 \newcommand{\geom}{\mathbf{Geom}}
 \def\catg{\mathop{\mathcal{C}\! {\it at}}\nolimits}
 \def\Cat{\mathop{\mathfrak{Cat}}}
+\def\Con{\mathop{\mathfrak{Con}}}
 \def\CAT{\mathop{\mathbf{2} \mathfrak{Cat}}}
 \def\Cat{\mathop{\mathfrak{Cat}}}
 \newcommand{\Psh}{\textit{Psh}}
@@ -57,4 +58,5 @@ $$
 \newcommand{\scr}[1]{\mathscr{#1}}
 \newcommand{\frk}[1]{\mathfrak{#1}}
 \newcommand{\bb}[1]{\mathbb{#1}}
+\newcommand{\CS}{\textit{S}}
 $$
