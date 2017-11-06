@@ -23,5 +23,5 @@ Here is the `abstract` of his talk:
 
 Here is a link to that lecture:  
 
- * [Sloterdijk on Globes](http://www.tate.org.uk/context-comment/video/spaces-transformation-spatialised-immunity)
+ * [Sloterdijk on Spaces of Transformation: Spatialised Immunity](http://www.tate.org.uk/context-comment/video/spaces-transformation-spatialised-immunity)
 
