@@ -18,6 +18,8 @@ I still have not found an opportunity to start indulging myself in wrestling wit
 <div class="thumbnail">	<img src="{{ site.baseurl }}/images/Aerocene-de-Thomas-Saraceno.jpg" alt="spatial immunity" width="620" height="223" >	</div>
 
 
+
+
 Here is the `abstract` of his talk: 
 > Peter Sloterdijk’s philosophico-morphological theory is based on an understanding of the history of culture as spatialisations of forms. The world in which we live now requires us to design new types of ‘spatialised immunity’. More broadly, the concept of a spherical logic of space – a polymorphologic of form, order and thinking – is explicated in Spheres, his three-volume archaeology of the human attempt to dwell within spaces, from womb to globe. The Spheres project (Bubbles, Globe, Foam) is a significant topological turn in the field of contemporary philosophy, ‘a super-workout for communicative energies capable of finding contact throughout the entire world.’
 
