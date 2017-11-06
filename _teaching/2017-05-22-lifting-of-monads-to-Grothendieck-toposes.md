@@ -1,5 +1,5 @@
 ---
-title: "lifting of Monads To Grothendieck Toposes"
+title: "Lifting of Monads To Grothendieck Toposes"
 collection: CARGO notes
 type: ""
 permalink: /scribbling/2017/05/lifting-of-monads-to-Grothendieck-toposes
