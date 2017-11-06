@@ -1,15 +1,17 @@
 ---
-layout: post
 title: Topos, being, and existence
 author: Sina Hazratpour
-category: research
-tags: 
+collection: portfolio
+type: "scribbling"
+permalink: /scribbling/2017-05-17-Topos-being-and-existence
+tags:
+ -topos
+ -Badiou
 use_math: true
 comments: true
 ---
-
-{{ page.title }}
-================
+[//]: <> (This is also a comment.)
+[//]: <> (Inspired by Badiou's book)
 
 The concept of (Grothendieck) topos was introduced by Alexandre Grothendieck in the early 1960s, in order to provide a mathematical underpinning for the 'exotic' cohomology theories needed in algebraic geometry. Every topological space $X$ gives rise to a topos (the category of sheaves of sets on $X$ ) and every topos in Grothendieck’s sense can be considered as a 'generalized space'.
 
