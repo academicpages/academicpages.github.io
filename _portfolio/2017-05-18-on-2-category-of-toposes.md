@@ -1,18 +1,19 @@
 ---
-layout: post
-title: The 2-category of toposes
+title: "On 2-Category Of Toposes"
 author: Sina Hazratpour
+excerpt: "Short description"
 category: research
 tags: 
+permalink: /scribbling/2017-05-18-on-2-category-of-toposes
+collection: portfolio
+type: "scribbling"
+date: 017-05-18
 use_math: true
-comments: true
+location: "Birmingham, UK"
 ---
 
-{{ page.title }}
-================
+{% include macro %}
 
-
-{% include macros %}
 
 Toposes, geometric morphisms, and natural transforamtions form a 2-category denoted by $\mathfrak{Top}$. Note that for each pair of toposes $D$ and $E$, $\mathbf{Geom}(D,E)$ is a large though locally small category. 
 
@@ -44,8 +45,6 @@ $$g_{\ast}(P)(V)=P(g^{-1}(V)) \rightarrow P(f^{-1}(V))= f_{\ast}(P)(V)$$.
 This yields a natural transforamtion $f \Rightarrow g$ in $\geom(Sh(X),Sh(Y))$. 
 
 ----------------------------------------------------------------------------------
-
-
 
 
 #### Remark.
