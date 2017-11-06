@@ -1,15 +1,18 @@
 ---
 title: "Topos, Being, And Existence"
 author: Sina Hazratpour
-collection: 
+collection: portfolio
 type: "scribbling"
-permalink: /scribbling/2017-05-17-Topos-being-and-existence
+permalink: /scribbling/2017-05-17-topos-being-and-existence
 tags:
  -topos
  -Badiou
+date: 2017-05-17 
 use_math: true
-comments: true
+location: "Birmingham, UK"
 ---
+
+
 [//]: <> (This is also a comment.)
 [//]: <> (Inspired by Badiou's book)
 
