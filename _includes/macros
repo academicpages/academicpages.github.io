@@ -4,14 +4,12 @@ $$
 \newcommand{\y}{\rv y} 
 %------------------- bars---------------------
 \newcommand{\bar}[1]{\overline{#1}}
-
 %------------------tildes--------------------------
 \newcommand{\wtil}[1]{\widetilde{#1}}
 \newcommand{\what}[1]{\widehat{#1}}
 % ---------------------greek letters------
 \newcommand{\ep}{\varepsilon}
 \newcommand{\ph}{\varphi}
-
 %-------------------arrows---------------------
 \newcommand{\to}{\rightarrow}
 \newcommand{\xraw}{\xrightarrow}
@@ -45,14 +43,11 @@ $$
 \def\catg{\mathop{\mathcal{C}\! {\it at}}\nolimits}
 \def\Cat{\mathop{\mathfrak{Cat}}}
 \def\CAT{\mathop{\mathbf{2} \mathfrak{Cat}}}
-
 %----------------cats of cats---------------------
 \def\Cat{\mathop{\mathfrak{Cat}}}
-
 %---------------Operators---------------
 \newcommand{\Psh}{\textit{Psh}}
 \newcommand{\Sh}{\textit{Sh}}
-
 \newcommand{\psh}[1]{\textit{Psh}(\cat{#1})}
 \newcommand{\sh}[1]{\textit{Sh}(\cat{#1})}
 \newcommand{\Id}{\operatorname{Id}}
@@ -71,4 +66,5 @@ $$
 \newcommand{\scr}[1]{\mathscr{#1}}
 \newcommand{\frk}[1]{\mathfrak{#1}}
 \newcommand{\bb}[1]{\mathbb{#1}}
+\newcommand{\bbC}{\mathbb{C}}
 $$
