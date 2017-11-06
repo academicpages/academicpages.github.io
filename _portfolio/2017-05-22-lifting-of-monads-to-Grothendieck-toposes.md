@@ -9,6 +9,8 @@ use_math: true
 location: "Birmingham, UK"
 ---
 
+{{ page.title }}
+================
 
 {% include macros %}
 
