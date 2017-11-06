@@ -1,11 +1,12 @@
 ---
-title: Model Category For Groupoids
+title: "Model Category For Groupoids"
 author: Sina Hazratpour
 permalink: /scribbling/2017-05-29-model-category-of-groupoids
 collection: portfolio
 type: "scribbling"
 date: 2017-05-29
 use_math: true
+excerpt: "Short description here!"
 location: "Birmingham, UK"
 ---
 
