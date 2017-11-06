@@ -7,7 +7,7 @@ tags:
 permalink: /scribbling/2017-05-18-on-2-category-of-toposes
 collection: portfolio
 type: "scribbling"
-date: 017-05-18
+date: 2017-05-18
 use_math: true
 location: "Birmingham, UK"
 ---
