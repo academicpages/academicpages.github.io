@@ -8,7 +8,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-        
+  - title: "Scribbling"
+    url: /scribbling/
+      
   - title: "Blog Posts"
     url: /year-archive/
     
