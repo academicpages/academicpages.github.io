@@ -22,7 +22,7 @@ Other interests
 
 I am fond of remote places in nature, museums, hiking, and photography. I am a reader of philosophy and history of philosophical thoughts and enjoy discussing them any opportunity I find. In particular, among classics, I read Plato, Voltaire, Kant, Hegel, and among contemporaries Wittgenstein, Searle, Foucault, and Badiou are closer to my taste. I used to find more free time during my undergraduate and masters years to read these folks but during my PhD years I do regret that I do not have much time to commit myself more seriously to reading some of heftier books. Maybe some [tomorrow](https://www.youtube.com/watch?v=4LDdyafsR7g)!    
 
-Ocassionally, I will write some of my thoughts on range of issues of philosphical nature on <a href="/Blog Posts">my blog</a>. If you like to discuss those ideas further, I would appreciate if you leave your comments under the posts. 
+Ocassionally, I will write some of my thoughts on range of issues of philosphical nature on <a href="/year-archive">my blog</a>. If you like to discuss those ideas further, I would appreciate if you leave your comments under the posts. 
 I also write on [Medium](https://medium.com/@sinahazratpour). 
 <div class="footer-col footer-col-3">
       <small>
