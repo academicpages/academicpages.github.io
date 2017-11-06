@@ -11,7 +11,7 @@ comments: true
 ---
 
 
-I still have not found an opportunity to start indulging myself in wrestling the thoughts in Peter Sloterdijk's celebrated magnum opus Sphären trilogy. However, I recently watched his lecture in Tate Britain on ideas of his book _Globen and relationship of thoses ideas to art_: for instance art of living in apartments as spaces of immunity. 
+I still have not found an opportunity to start indulging myself in wrestling with the thoughts in Peter Sloterdijk's celebrated magnum opus Sphären trilogy. However, I recently watched his lecture in Tate Britain on ideas of his book _Globen and relationship of thoses ideas to art_: for instance art of living in apartments as spaces of immunity. 
 
 <br/><img src='/images/Aerocene-de-Thomas-Saraceno.jpg'>
 
