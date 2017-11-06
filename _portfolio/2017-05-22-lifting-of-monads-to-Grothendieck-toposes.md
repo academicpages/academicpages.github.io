@@ -3,7 +3,7 @@ title: "Lifting Of Monads To Grothendieck Toposes"
 collection: portfolio
 type: "scribbling"
 permalink: /scribbling/2017-05-22-lifting-of-monads-to-Grothendieck-toposes
-venue: "University of Birmingham, School of Computer Science"
+venue: ""
 date: 2017-05-22
 use_math: true
 location: "Birmingham, UK"
