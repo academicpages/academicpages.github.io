@@ -10,7 +10,7 @@ redirect_from:
 
 I am a research student in foundation of mathematics and theoretical computer science. My main research interests include categorical logic, type theory, topos theory, and more recently higher category theory. Some of these subjects have close connections to fundamental concepts of computer science by either direct applications in computer science, providing proper foundation of discourse or sometimes being inspired by ideas from computer science such as computability. 
 
-My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/" target="_blank">Prof. Steve Vickers</a> a member of <a href="https://www.cs.bham.ac.uk/research/groupings/theory/" target="_blank">Theory of Computation</a> group at University of Birmingham. We are currently investigating some 2-categorical aspects of toposes from logical point of view. To know more I invite you to look at my <a href="https://www.cs.bham.ac.uk/~sjv/" target="_blank">research profile.</a>
+My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/" target="_blank">Prof. Steve Vickers</a> a member of <a href="https://www.cs.bham.ac.uk/research/groupings/theory/" target="_blank">Theory of Computation</a> group at University of Birmingham. We are currently investigating some 2-categorical aspects of toposes from logical point of view. To know more I invite you to look at my <a href="/research" target="_blank">research profile.</a>
 
 Prior to joining Birmingham I was in Western University in London Ontario where I did my masters in pure mathematics. 
 My advisor was <a href="http://www-home.math.uwo.ca/~mpinson/" target="_blank">Prof. Martin Pinsonnault</a>. I was born in Iran and I have lived in Canada and UK. 	
