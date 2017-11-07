@@ -16,20 +16,8 @@ location: "Birmingham, UK"
 
 
 Myles Tierney died on October 6, 2017 at age 80. He was one of the influential category theorists particularly in the earlier days of development of category theory, and made important contributions to category theory in collaboration with Bill Lawvere and with André Joyal. I encourage you to read two well-written and touching obituaries on life and work of Myles: 
- * by [Andre Joyal]() 
- * by [Bill Lawvere]()
-
-<div data-role="page" id="pageone">
-  <div data-role="header">
-  </div>
-<div data-role="main" class="ui-content">
-    <div data-role="collapsible">
-      <h1>Click me - I'm collapsible!</h1>
-      <p>I'm the expanded content.</p>
-    </div>
-  </div>
-</div>
-
+ * by <a href="/files/CT/Andre-Joyal-on-Myles-Tierney.pdf" target="_blank"><font color="#336666">Andre Joyal</font></a>
+ * by <a href="/files/CT/William-Lawvere-on-Myles-Tierney.pdf" target="_blank"><font color="#336666">Bill Lawevere</font></a>
 
 
 We saw it fit to have a session in our category reading group discussing [Lawvere Tierney topologies](https://ncatlab.org/nlab/show/Lawvere-Tierney+topology), something that we wanted to know for a while, and to honour Tierney's contribution to beautiful subject of topos theory. 
