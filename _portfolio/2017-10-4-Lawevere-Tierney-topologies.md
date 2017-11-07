@@ -19,13 +19,16 @@ Myles Tierney died on October 6, 2017 at age 80. He was one of the influential c
  * by [Andre Joyal]() 
  * by [Bill Lawvere]()
 
+<div data-role="page" id="pageone">
+  <div data-role="header">
+  </div>
 <div data-role="main" class="ui-content">
     <div data-role="collapsible">
       <h1>Click me - I'm collapsible!</h1>
       <p>I'm the expanded content.</p>
     </div>
   </div>
-
+</div>
 
 
 
