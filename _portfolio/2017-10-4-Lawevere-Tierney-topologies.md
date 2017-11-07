@@ -19,6 +19,15 @@ Myles Tierney died on October 6, 2017 at age 80. He was one of the influential c
  * by [Andre Joyal]() 
  * by [Bill Lawvere]()
 
+<div data-role="main" class="ui-content">
+    <div data-role="collapsible">
+      <h1>Click me - I'm collapsible!</h1>
+      <p>I'm the expanded content.</p>
+    </div>
+  </div>
+
+
+
 
 We saw it fit to have a session in our category reading group discussing [Lawvere Tierney topologies](https://ncatlab.org/nlab/show/Lawvere-Tierney+topology), something that we wanted to know for a while, and to honour Tierney's contribution to beautiful subject of topos theory. 
 
