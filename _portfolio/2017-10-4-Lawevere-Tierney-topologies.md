@@ -15,7 +15,10 @@ location: "Birmingham, UK"
 
 
 
-Myles Tierney died on October 6, 2017 at age 80. He was one of the influential category theorists particularly in the earlier days of development of category theory, and made important contributions to category theory in collaboration with Bill Lawvere and with André Joyal.
+Myles Tierney died on October 6, 2017 at age 80. He was one of the influential category theorists particularly in the earlier days of development of category theory, and made important contributions to category theory in collaboration with Bill Lawvere and with André Joyal. I encourage you to read two well-written and touching obituaries on life and work of Myles: 
+ * by [Andre Joyal]() 
+ * by [Bill Lawvere]()
+
 
 We saw it fit to have a session in our category reading group discussing [Lawvere Tierney topologies](https://ncatlab.org/nlab/show/Lawvere-Tierney+topology), something that we wanted to know for a while, and to honour Tierney's contribution to beautiful subject of topos theory. 
 
@@ -29,7 +32,7 @@ Here is supplementary notes to my talk which I gave in CARGO on October 24:
 ## Some of important work of Myles Tierney
 
 
-*  André Joyal and Myles Tierney, _An Extension of the Galois Theory of Grothendieck_, Memoirs of the American Mathematical Society 51 (1984). 
+* André Joyal and Myles Tierney, _An Extension of the Galois Theory of Grothendieck_, Memoirs of the American Mathematical Society 51 (1984). 
 
 
 * André Joyal and Myles Tierney, _Strong stacks and classifying spaces_,  Category theory (Como, 1990),  213--236, Lecture Notes in Math. __1488__, Springer 1991. 
