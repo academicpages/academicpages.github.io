@@ -12,7 +12,7 @@ location: "Birmingham, UK"
 
 {% include macro %}
 
-_Abstract_: 
+`Abstract:` 
 
 ## The fundamental groupoid $2$-functor 
 
