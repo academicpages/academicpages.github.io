@@ -5,7 +5,7 @@ permalink: /scribbling/2017-10-24-Lawevere-Tierney-topologies
 collection: portfolio
 type: "scribbling"
 date: 2017-10-24
-excerpt: "Some remarks and supplementary notes on CARGO talk"
+excerpt: "Some remarks and supplementary notes on my CARGO talk"
 use_math: true
 location: "Birmingham, UK"
 ---
