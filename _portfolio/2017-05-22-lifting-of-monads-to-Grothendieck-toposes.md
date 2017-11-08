@@ -107,5 +107,5 @@ A monad $T$ is exactly a lax functor $\ast \to \catg$. Post-composing this lax f
 
 
 
-[1]: https://sihp.github.io/files/2017-05-22/kan-ext-notes-2017-04-12.pdf
+[1]: https://sinhp.github.io/files/2017-05-22/kan-ext-notes-2017-04-12.pdf
 [2]: http://fsl.cs.illinois.edu/pubs/moggi-1991-ic.pdf
