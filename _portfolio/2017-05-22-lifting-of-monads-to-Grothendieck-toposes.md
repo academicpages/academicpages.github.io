@@ -13,7 +13,7 @@ location: "Birmingham, UK"
 {% include macro %}
 
 
-`Abstract:` Suppose $T: \cat{C} \to  \cat C$ is a monad on $\cat{C}$. We are intereted in answering the question that under which conditions on $\cat{C}$ it is possible to lift $T$ to $\psh{C}$ and to $\sh{C}$. In order to answer this question, in this post I am going to highlight some of relevant defintions and results that are elaborated in my [notes](files/2017-05-22/kan-ext-notes-2017-04-12.pdf) . For more details of proofs and more examples have a look there as well. 
+`Abstract:` Suppose $T: \cat{C} \to  \cat C$ is a monad on $\cat{C}$. We are intereted in answering the question that under which conditions on $\cat{C}$ it is possible to lift $T$ to $\psh{C}$ and to $\sh{C}$. In order to answer this question, in this post I am going to highlight some of relevant defintions and results that are elaborated in my [notes][1] . For more details of proofs and more examples have a look there as well. 
 
 ********************************************************
 ### What are Kan extensions?
@@ -107,5 +107,5 @@ A monad $T$ is exactly a lax functor $\ast \to \catg$. Post-composing this lax f
 
 
 
-[1]: files/2017-05-22/kan-ext-notes-2017-04-12.pdf
+[1]: https://sihp.github.io/files/2017-05-22/kan-ext-notes-2017-04-12.pdf
 [2]: http://fsl.cs.illinois.edu/pubs/moggi-1991-ic.pdf
