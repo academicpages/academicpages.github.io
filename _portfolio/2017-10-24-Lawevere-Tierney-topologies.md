@@ -1,10 +1,11 @@
 ---
 title: "Lawvere-Tierney Topology"
+author: Sina Hazratpour
+permalink: /scribbling/2017-10-24-Lawevere-Tierney-topologies
 collection: portfolio
 type: "scribbling"
-permalink: /scribbling/2017-10-24-Lawevere-Tierney-topologies
-venue: ""
 date: 2017-10-24
+excerpt: "Some remarks and supplementary notes on CARGO talk"
 use_math: true
 location: "Birmingham, UK"
 ---
