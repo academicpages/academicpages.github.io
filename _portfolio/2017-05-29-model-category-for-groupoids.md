@@ -6,7 +6,7 @@ collection: portfolio
 type: "scribbling"
 date: 2017-05-29
 use_math: true
-excerpt: "Short description here!"
+excerpt: "To be completed!"
 location: "Birmingham, UK"
 ---
 
