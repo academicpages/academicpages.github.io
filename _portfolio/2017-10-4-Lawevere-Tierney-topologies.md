@@ -26,6 +26,14 @@ Here is supplementary notes to my talk which I gave in CARGO on October 24:
 
  * <a href="/files/CT/notes-on-subobject-classifier-of-sheaf-toposes.pdf" target="_blank"><font color="#336666">Notes on $\Omega_j$</font></a>
 
+Also, make sure you read Zhen Lin's intuitive answer to "What is a Lawvere-Tierney topology?" on math.stackexchange: 
+
+ * [Zhen Lin on Lawvere-Tierney Topology](https://math.stackexchange.com/questions/177484/what-is-a-lawvere-tierney-topology)
+
+There he highlights the right view that Lawvere-Tiernery topologoies should ineed be called _local operators_ since they have little to do with classical notion of topology. In fact topologies on a set $X$ are in correspondence with lex comonads on poset category $P(X)$ of all subsets of $X$ (aka lex coclosure operators) while a local operator is a lex monad. This point is echoed both by Johnstone in the Sketches of an Elephant and also in Lawvere's obituary above where he says:
+
+> He [Myles Tierney] emphasized in general that Grothendieck had made the category (rather than the space) the central aspect that we should explicitly axiomatize. We had a pre-publication copy of SGA4 that we consulted frequently. In that work there was a significant advance over previous formulations of the sheaf condition: In a pre-sheaf topos, a covering specified by a Grothendieck topology, was no longer an infinite family of subobjects, but a single subobject R, (which of course might be imagined to arise as the union of a family); this made possible the formulation of notions in finitary terms, indeed in terms of a single operator whose properties Myles made precise. (Some people object to calling such operators topologies; the same objection applies to Grothendiecks use of the term topologies for his equivalent notion, which is of course also not literally a topology in the classical sense. Later we referred to such an operator as a localness operator, as a modal operator it is locally the case that, or as a Tierney closure operator which - as I pointed out to Kuratowski on his visit to Dalhousie - is not a Kuratowski closure operator since it preserves intersections, rather than unions. Similar operators arise in other parts of mathematics where they are sometimes called 'nuclei'.)
+
 
 
 
