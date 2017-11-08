@@ -2,7 +2,7 @@
 title: "Lawvere-Tierney Topology"
 collection: portfolio
 type: "scribbling"
-permalink: /scribbling/2017-10-4-Lawevere-Tierney-topologies
+permalink: /scribbling/2017-10-24-Lawevere-Tierney-topologies
 venue: ""
 date: 2017-10-24
 use_math: true
