@@ -1,10 +1,11 @@
 ---
 title: "Lifting Of Monads To Grothendieck Toposes"
+author: Sina Hazratpour
+permalink: /scribbling/2017-05-22-lifting-of-monads-to-Grothendieck-toposes
 collection: portfolio
 type: "scribbling"
-permalink: /scribbling/2017-05-22-lifting-of-monads-to-Grothendieck-toposes
-venue: ""
 date: 2017-05-22
+excerpt: "Notes for my CARGO talk."
 use_math: true
 location: "Birmingham, UK"
 ---
