@@ -29,12 +29,16 @@ I am also one of the organizers of category theory reading group (CARGO) at at t
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 -->
 
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
 
 <h1>Publications</h1> 
 <hr>
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 
