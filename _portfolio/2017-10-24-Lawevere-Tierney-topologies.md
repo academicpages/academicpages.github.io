@@ -25,7 +25,7 @@ We saw it fit to have a session in our category reading group discussing [Lawver
 
 Here is supplementary notes to my talk which I gave in CARGO on October 24:
 
- * <a href="/files/CT/notes-on-subobject-classifier-of-sheaf-toposes.pdf" target="_blank"><font color="#336666">Notes on $\Omega_j$</font></a>
+ <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="/files/CT/notes-on-subobject-classifier-of-sheaf-toposes.pdf" target="_blank"><font color="#336666">Notes on $\Omega_j$</font></a>
 
 Also, make sure you read Zhen Lin's intuitive answer to "What is a Lawvere-Tierney topology?" on math.stackexchange: 
 
