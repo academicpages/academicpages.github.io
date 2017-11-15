@@ -14,10 +14,14 @@ redirect_from:
 
 
 * I am pursuing Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). In my sophomore year, I joined [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/) as a research assistant, advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/). I also collaborate closely with [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) in [University College London](https://www.ucl.ac.uk/).
-* Currently, I am a research intern at [Carnegie Mellon University](http://www.cmu.edu/), advised by [Prof. Fei Fang](https://feifang.info/), working in the field of multi-agent systems and deep reinforcement learning.
-* My research interests lie in the general area of machine learning, including deep learning, reinforcement learning, multi-agent systems and their applications in sequential decision making, natural language processing and information retrieval.
+* At present, I am a research intern at [Carnegie Mellon University](http://www.cmu.edu/), advised by [Prof. Fei Fang](https://feifang.info/), working in the field of multi-agent systems and deep reinforcement learning.
+* My research interests lie in the general area of machine learning, particularly in the fundamental problems of deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and data mining.
+* I am currently applying for CS Ph.D. starting from Fall 2018. Click [here](http://lantaoyu.com/files/lantaoyu_cv.pdf) to view my CV. If you are interested in working with me, please feel free to contact me:\\ lantaoyu [at] cmu.edu or lantaoyu [at] hotmail.com
+
+
 
 # Recent News
+* November 12, 2017. A paper titled "Deep Reinforcement Learning for Green Security Game with Online Information" was accepted in the *AAAI-18 Workshop on Artificial Intelligence for Imperfect-Information Games*.
 * September 17, 2017. New preprint: An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning. Available on [arXiv](https://arxiv.org/abs/1709.04511)
 * August 25, 2017. We started the [Multi-Agent Reinforcement Learning reading group](https://feifang.info/marl-reading-group/).
 * August 15, 2017. I started to work as a research intern at Carnegie Mellon University for the next six months.
