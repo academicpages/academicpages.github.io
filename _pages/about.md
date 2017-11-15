@@ -17,7 +17,7 @@ redirect_from:
 * At present, I am a research intern at [Carnegie Mellon University](http://www.cmu.edu/), advised by [Prof. Fei Fang](https://feifang.info/), working in the field of multi-agent systems and deep reinforcement learning.
 * My research interests lie in the general area of machine learning, particularly in the fundamental problems of deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and data mining.
 
-<font color=#FF8C00>**I am currently applying for CS Ph.D. starting from Fall 2018. Click [here](http://lantaoyu.com/files/lantaoyu_cv.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to contact me at:**</font> <br>
+<font color="#FF8C00">**I am currently applying for CS Ph.D. starting from Fall 2018. Click [here](http://lantaoyu.com/files/lantaoyu_cv.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to contact me at:**</font> <br>
 lantaoyu [at] cmu [dot] edu or lantaoyu [at] hotmail [dot] com
 
 
