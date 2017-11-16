@@ -1,5 +1,5 @@
 ---
-title: "Calculus II for Engineers"
+title: "Spring 2014"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Department-of-Applied-Math
