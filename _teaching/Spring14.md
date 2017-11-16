@@ -2,7 +2,7 @@
 title: "Spring 2014"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Department-of-Applied-Math
+permalink: /teaching/Spring14
 venue: "University C, Department"
 date: 2012-08-27
 location: "City, Country"
