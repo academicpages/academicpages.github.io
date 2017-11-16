@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Nanjing University, 2006
-* M.S. in Applied Mathematics, C University, 2011
+* B.S. in Mathematics and Applied Mathematics, NUFE, 2008
+* Double M.S.s in Applied Mathematics(Numerical Analysis & Optimization), C University, 2016
+* M.S in Computer Science, C University, 2017
 * Ph.D in Computer Science, C University, 2018 (expected)
 
 Work experience
