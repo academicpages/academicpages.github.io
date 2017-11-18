@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, NUFE, 2008
-* Double M.S.s in Applied Mathematics(Numerical Analysis & Optimization), C University, 2016
-* M.S in Computer Science, C University, 2017
-* Ph.D in Computer Science, C University, 2018 (expected)
+* B.S. in Mathematics and Applied Mathematics, NUFE
+* M.S.s in Applied Mathematics(Numerical Analysis), C University
+* M.S in Applied Mathematics(Operations Research), C University 
+* M.S in Computer Science, C University 
+* Ph.D in Computer Science, C University
 
 Work experience
 ======
