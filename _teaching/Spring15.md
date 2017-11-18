@@ -9,12 +9,12 @@ location: "Boulder, USA"
 ---
 
 
-* CSCI 5720 Calculus II for Engineers
-======
+  * CSCI 5720 Calculus II for Engineers
+
 Help
 
-* CSCI 5720 Calculus II for Engineers
-======
+  * CSCI 5720 Calculus II for Engineers
+
 
 
 
