@@ -1,5 +1,5 @@
 ---
-title: "Spring 2015"
+title: "Fall 2017"
 collection: teaching
 type: "Course"
 permalink: /teaching/Spring15
@@ -10,8 +10,8 @@ location: "Boulder, USA"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Calculus II for Engineers
+* Calculus II for Engineers
 ======
 can I say somethingheer
 
-% 23
+
