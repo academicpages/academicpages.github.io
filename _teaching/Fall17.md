@@ -8,10 +8,9 @@ date: 2015-01-01
 location: "Boulder, USA"
 ---
 
-
   * CSCI 5720 Calculus II for Engineers
 
-Help
+     * Supervisor: Prof. Jem Corcoran
 
   * CSCI 5720 Calculus II for Engineers
 
