@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, NUFE
+* Ph.D in Computer Science, C University
+* M.S in Computer Science, C University 
 * M.S.s in Applied Mathematics(Numerical Analysis), C University
 * M.S in Applied Mathematics(Operations Research), C University 
-* M.S in Computer Science, C University 
-* Ph.D in Computer Science, C University
+* B.S. in Mathematics and Applied Mathematics, NUFE
 
 Work experience
 ======
