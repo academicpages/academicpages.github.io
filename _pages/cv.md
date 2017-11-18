@@ -12,17 +12,20 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, C University
-* M.S in Computer Science, C University 
-* M.S.s in Applied Mathematics(Numerical Analysis), C University
-* M.S in Applied Mathematics(Operations Research), C University 
+* M.S. in Computer Science, C University 
+* M.S. in Applied Mathematics(Numerical Analysis), C University
+* M.S. in Applied Mathematics(Operations Research), C University 
 * B.S. in Mathematics and Applied Mathematics, NUFE
 
 Work experience
 ======
 * Winter 2005: Research Assistant
-  * Nanjing Software CO.,Ltd
+  * Dept. of Software Developement, Nanjing Luculent Software Co.,Ltd
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+  
+* 2006-2007: Manager Assistant
+  * Dept. of Project Management, Nanjing Lucuent Software Co.,Ltd
 
 * Fall 2015: Research Assistant
   * Github University
