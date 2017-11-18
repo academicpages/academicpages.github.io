@@ -8,10 +8,13 @@ date: 2015-01-01
 location: "Boulder, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-* Calculus II for Engineers
+* CSCI 5720 Calculus II for Engineers
 ======
-can I say somethingheer
+Help
+
+* CSCI 5720 Calculus II for Engineers
+======
+
 
 
