@@ -12,10 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, C University
-* M.S. in Computer Science, C University 
-* M.S. in Applied Mathematics(Numerical Analysis), C University
-* M.S. in Applied Mathematics(Operations Research), C University 
-* B.S. in Mathematics and Applied Mathematics, NUFE
+* M.Sc. in Computer Science, C University 
+* Doulbe M.Sc. in Applied Mathematics(Numerical Analysis/Operations Research), C University 
+* B.Sc. in Mathematics and Applied Mathematics, NUFE
 
 Work experience
 ======
