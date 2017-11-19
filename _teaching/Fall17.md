@@ -8,13 +8,12 @@ date: 2015-01-01
 location: "Boulder, USA"
 ---
 
-CSCI 5720 Calculus II for Engineers
-======
-* Supervisor: Prof. Jem Corcoran
+* CSCI 5720 Calculus II for Engineers
+  * Supervisor: Prof. Jem Corcoran
 
 
-CSCI 5720 Calculus II for Engineers
-======
+* CSCI 5606 Principle Numerical of Computation
+  * Supervisor: Prof. Xiao-Chuan Cai
 
 
 
