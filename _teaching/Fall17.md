@@ -8,11 +8,13 @@ date: 2017-08-027
 location: "Boulder, USA"
 ---
 
-* CSCI 5720 Calculus II for Engineers
+* APPM 5720 Calculus II for Engineers
   * Supervisor: Prof. Jem Corcoran
 
 * CSCI 5606 Principle Numerical of Computation
   * Supervisor: Prof. Xiao-Chuan Cai
 
+* APPM 1350 Calculus I for Engineers
+  * Supervisor: Prof. Anne Doughtery
 
 
