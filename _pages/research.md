@@ -2,7 +2,7 @@
 title: "Publications"
 permalink: /research/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /research.html
 ---
@@ -14,7 +14,7 @@ redirect_from:
 
 - [Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil](https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). **Under review**.
 
-- [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf). **Under review**.
+- [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).
 
 - [Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf)
 
