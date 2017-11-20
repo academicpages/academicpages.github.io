@@ -3,12 +3,12 @@ permalink: /
 title: "Welcome!"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<p class="lead"> I am a post-doctoral fellow at Tulane University's <a href="http://cipr.tulane.edu">Center for Inter-American Policy & Research (CIPR)</a>. I received my Ph.D in political science from <span style="color:#d21034">Rutgers University </span> (New Brunswick, NJ) in the spring of 2017.</p> 
+<p class="lead"> I am a post-doctoral fellow at Tulane University's <a href="http://cipr.tulane.edu">Center for Inter-American Policy & Research (CIPR)</a>. I received my Ph.D in political science from <span style="color:#d21034">Rutgers University </span> (New Brunswick, NJ) in the spring of 2017.</p>
 
 
 Profile
@@ -29,7 +29,7 @@ My primary subfield is the political economy of development and Latin American p
 Job Market
 ==========
 
-Now I am on the job market looking to begin in the fall term of the 2018 academic year. ___Find all the latest application materials___ <a href="http://www.hectorbahamonde.com/jobmarket/"><span style="color:#d21034">here</span></a>.
+Now I am on the job market looking to begin in the fall term of the 2018 academic year.
 
 
 Dissertation
@@ -43,9 +43,9 @@ Contact
 =======
 
 
-Center for Inter-American Policy & Research.  
-Tulane University.  
-HBahamonde@tulane.edu  
+Center for Inter-American Policy & Research.
+Tulane University.
+HBahamonde@tulane.edu
 www.HectorBahamonde.com
 
 
