@@ -8,13 +8,14 @@ permalink: /scribbling/2017-05-18-on-2-category-of-toposes
 collection: portfolio
 type: "scribbling"
 date: 2017-05-18
-excerpt: "Research notes: *Incomplete*"
+excerpt: "Research notes: Incomplete"
 use_math: true
 location: "Birmingham, UK"
 ---
 
 {% include macro %}
 
+**Warning: Incomplete**
 
 Toposes, geometric morphisms, and natural transforamtions form a 2-category denoted by $\mathfrak{Top}$. Note that for each pair of toposes $D$ and $E$, $\mathbf{Geom}(D,E)$ is a large though locally small category. 
 
