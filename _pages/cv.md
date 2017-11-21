@@ -11,16 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Computer Science, C University
+* M.S. in Computer Science, C University 
+* Doulbe M.S. in Applied Mathematics(Numerical Analysis/Operations Research), C University 
+* B.S. in Mathematics and Applied Mathematics, NUFE
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Winter 2005: Research Assistant
+  * Dept. of Software Developement, Nanjing Luculent Software Co.,Ltd
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+  
+* 2006-2007: Manager Assistant
+  * Dept. of Project Management, Nanjing Lucuent Software Co.,Ltd
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,8 +33,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Mathematics 1
+* Computer Science 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
