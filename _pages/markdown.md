@@ -12,7 +12,7 @@ redirect_from:
 
 * [nLab](https://ncatlab.org/nlab/show/HomePage):
  a wiki-lab for collaborative work on Mathematics, Physics and Philosophy heavily oriented toward discussions on category theory
-and higher category theory. I started using nLab since 2014 and since then it has literally become a place where I spent a good deal of time learning about category theory and higher category theory. I also have seen how beautifully the collaborative effort of many people has resulted in such a great database. Remarkably there has been a great expansion of pages since first time I was there. If your work involves (higher) category theory then chances are you already know nLab place and use it frequently. However, If you are new to category theory then use nLab, but take this advice with a grain of salt. I remember my first experience of learning category theory back in 2014 using nLab among other sources and it was first a bit confusing. There are sometimes incomplete sources and sometimes self-referential , or even worse non-terminating cross-linking of pages. _Not to mention that in order to learn category theory first you have to learn infinity categories._    
+and higher category theory. I started using nLab since 2014 and since then it has literally become a place where I spent a good deal of time learning about category theory and higher category theory. I also have seen how beautifully the collaborative effort of many people has resulted in such a great database. Remarkably there has been a great expansion of pages since first time I was there. If your work involves (higher) category theory then chances are you already know nLab and use it frequently. However, If you are new to category theory then use nLab, but take this advice with a grain of salt. I remember my first experience of learning category theory back in 2014 using nLab among other sources and it was first a bit confusing. There are sometimes incomplete sources and sometimes self-referential , or even worse non-terminating cross-linking of pages. _Not to mention that in order to learn category theory first you have to learn infinity categories._    
 
 * [The n-Category Café](https://golem.ph.utexas.edu/category/):
  called n-Cafe for short, it is a A group blog where authors posts intriguing stuff on recent research work mostly on cateogry theory, higher category theory, categorical logic, diagrammatic reasoning, applied category theory. The posts are not too long and they tend to bring the core ideas to the front for general maths audience. 
@@ -68,7 +68,7 @@ e.g.
 ## Some of online sources where I read philosophy/ politics/ etc
 
 
-* [London Review of Books] (https://www.lrb.co.uk/)
+* [London Review of Books](https://www.lrb.co.uk/)
 
 * [Philosophy Now](https://philosophynow.org/)
 
@@ -84,6 +84,10 @@ e.g.
 
 * [Punctum Books](https://punctumbooks.com/blog/here-be-monsters-a-punctum-publishing-primer/)
 
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu)
+
+
+
 ------------------------------------------------------------------------------------------------
 ## This Wesbite
 
@@ -96,7 +100,8 @@ I used the front page of a website that is powered by the [academicpages templat
 Make sure you check this [guide](http://jmcglone.com/guides/github-pages/) as well. Personally, I found it very useful and succinct. 
 
 
-## Why Jekyll at all? 
+-------------------------
+### Why Jekyll at all? 
 
 You can do so much with Jekyll. Some of the best web developers use it for building their own websites. Here is a good examples:
 [CSS Wizardy](https://csswizardry.com/about/).
