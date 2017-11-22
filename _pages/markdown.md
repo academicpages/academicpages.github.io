@@ -10,26 +10,27 @@ redirect_from:
 
 ## Some of my favourite maths blogs
 
-* [nLab](https://ncatlab.org/nlab/show/HomePage)
-
+* [nLab](https://ncatlab.org/nlab/show/HomePage):
  a wiki-lab for collaborative work on Mathematics, Physics and Philosophy heavily oriented toward discussions on category theory
 and higher category theory. I started using nLab since 2014 and since then it has literally become a place where I spent a good deal of time learning about category theory and higher category theory. I also have seen how beautifully the collaborative effort of many people has resulted in such a great database. Remarkably there has been a great expansion of pages since first time I was there. If your work involves (higher) category theory then chances are you already know nLab place and use it frequently. However, If you are new to category theory then use nLab, but take this advice with a grain of salt. I remember my first experience of learning category theory back in 2014 using nLab among other sources and it was first a bit confusing. There are sometimes incomplete sources and sometimes self-referential , or even worse non-terminating cross-linking of pages. _Not to mention that in order to learn category theory first you have to learn infinity categories._    
 
-* [The n-Category Café](https://golem.ph.utexas.edu/category/)
-
- Called n-Cafe for short, it is a A group blog where authors posts intriguing stuff on recent research work mostly on cateogry theory, higher category theory, categorical logic, diagrammatic reasoning, applied category theory. The posts are not too long and they tend to bring the core ideas to the front for general maths audience. 
+* [The n-Category Café](https://golem.ph.utexas.edu/category/):
+ called n-Cafe for short, it is a A group blog where authors posts intriguing stuff on recent research work mostly on cateogry theory, higher category theory, categorical logic, diagrammatic reasoning, applied category theory. The posts are not too long and they tend to bring the core ideas to the front for general maths audience. 
  
-* [HoTT Blog](https://homotopytypetheory.org/blog/)
+* [HoTT Blog](https://homotopytypetheory.org/blog/):
+  main blog for homotopy type theory (aka univalent foundation aka synthetic homotopy theory)
+  
+* [Mathematics without Apologies](https://mathematicswithoutapologies.wordpress.com/):
+  An unapologetic guided tour of the mathematical life; a blog by Michael Harris. The posts and after-post discussions involve philosophy of mathematics, politics, science and ethics of academic activities, AI, etc. Some of the most heated intelligent debates I have ever seen online happened there.   
 
- The main blog for homotopy type theory (aka univalent foundation aka synthetic homotopy theory)
-
-* [Physics Forum](https://www.physicsforums.com/insights/a-first-idea-of-quantum-field-theory/)
-
- Ocassionally, I read the posts on mathematical physics on physics forum, particularly from Urs Schrieber and John Baez.  
+* [Shtetl-Optimized](https://www.scottaaronson.com/blog/):
+  blog of Scott Aaronson
+  
+* [Physics Forum](https://www.physicsforums.com/insights/a-first-idea-of-quantum-field-theory/):
+ ocassionally, I read the posts on mathematical physics on physics forum, particularly from Urs Schrieber and John Baez.  
  
-* [Terence Tao's Blog](https://terrytao.wordpress.com/)
- 
- A must-see blog if you are into combinatorics, probability theory, or analayis. 
+* [Terence Tao's Blog](https://terrytao.wordpress.com/):
+ a must-see blog if you are into combinatorics, probability theory, or analayis. 
 
 * [Polymath Project](http://michaelnielsen.org/polymath1/index.php?title=Main_Page)
 
@@ -41,22 +42,29 @@ and higher category theory. I started using nLab since 2014 and since then it ha
 
 * [Low Dimensional Topology](https://ldtopology.wordpress.com/about/)
 
-* [Dan Ghica's Lan Lunch](http://researchblogs.cs.bham.ac.uk/thelablunch/)
+* [Dan Ghica's Lab Lunch](http://researchblogs.cs.bham.ac.uk/thelablunch/):
+  a blog on game semantics, an interactive approach to denotational semantic, and feometry of synthesis among many other things
 
- A blog on game semantics, an interactive approach to denotational semantic, and feometry of synthesis among many other things
+* [Graphical Linear Algebra](https://graphicallinearalgebra.net/about/): 
+  learn linear algebra in a non-conventional diagrammatic way. 
 
-* [Graphical Linear Algebra](https://graphicallinearalgebra.net/about/)
- 
- If you want to learn linear algebra in a non-conventional diagrammatic way. 
-
-* [Mathoverflow](https://mathoverflow.net/search?q=topos)
-The cool feature of mathoverflow is someone can ask a research question about a paper/book and the author of that paper/book answers it!
+* [Mathoverflow](https://mathoverflow.net/search?q=topos):
+ one of the cool features of mathoverflow is that anybody can ask a research question about a paper/book and the author of that paper/book answers it!
 e.g. 
   * [Peter May's answer](https://mathoverflow.net/questions/204167/why-should-have-peter-may-worked-with-cgwh-instead-of-cgh-in-the-geometry-of-it) 
   * [Lurie's answer to the question on the relation between toposes and infinity toposes](https://mathoverflow.net/questions/92454/relation-between-topos-and-infty-topos)
 
+
+
+
+
 -----------------------------------------------------------------------------------------------
-## Sources for reading philosophy
+## Some of online sources where I read philosophy/ politics/ etc
+
+
+
+
+
 
 
 
