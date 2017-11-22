@@ -1,13 +1,13 @@
 ---
 title: "A Topos Without Points"
 author: Sina Hazratpour
-excerpt: "An example of topos (from logic) that does not have any points. "
+excerpt: "An example of a topos (from logic) that does not have any points."
 category: research notes
 tags: topos, points, sup-topology, atoms
-permalink: /scribbling/19-04-2015-a-topos-without-points
+permalink: /scribbling/22-11-2017-a-topos-without-points
 collection: portfolio
 type: "scribbling"
-date: 19-06-2016
+date: 22-11-2017
 use_math: true
 location: "London, Canada"
 ---
