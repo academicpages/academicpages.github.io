@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Some of my favourite maths blogs
+## Some of my favourite maths and computer science blogs
 
 * [nLab](https://ncatlab.org/nlab/show/HomePage):
  a wiki-lab for collaborative work on Mathematics, Physics and Philosophy heavily oriented toward discussions on category theory
@@ -22,6 +22,12 @@ and higher category theory. I started using nLab since 2014 and since then it ha
   
 * [Mathematics without Apologies](https://mathematicswithoutapologies.wordpress.com/):
   An unapologetic guided tour of the mathematical life; a blog by Michael Harris. The posts and after-post discussions involve philosophy of mathematics, politics, science and ethics of academic activities, AI, etc. Some of the most heated intelligent debates I have ever seen online happened there.   
+
+* [Existential Type](https://existentialtype.wordpress.com/): 
+ blog of Bob Harper
+  
+* [Mathematics and Computation](http://math.andrej.com): 
+ a blog by Andrej Bauer on connections between mathematics and the theory of computation 
 
 * [Shtetl-Optimized](https://www.scottaaronson.com/blog/):
   blog of Scott Aaronson
@@ -62,12 +68,21 @@ e.g.
 ## Some of online sources where I read philosophy/ politics/ etc
 
 
+* [London Review of Books] (https://www.lrb.co.uk/)
 
+* [Philosophy Now](https://philosophynow.org/)
 
+* [All about Hegel on Marxists.org](https://www.marxists.org/reference/archive/hegel/index.htm)
 
+* [Why Nations Fail](http://whynationsfail.com/)
 
+* [Hidden Forces](https://www.hiddenforcespod.com/)
 
+* [SIAS Blog- Architecture](http://blog.sias.gr/)
 
+* [Martin Heidegger in English](http://www.beyng.com/)
+
+* [Punctum Books](https://punctumbooks.com/blog/here-be-monsters-a-punctum-publishing-primer/)
 
 ------------------------------------------------------------------------------------------------
 ## This Wesbite
