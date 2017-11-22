@@ -49,6 +49,7 @@ $$
 \newcommand{\ad}{\operatorname{ad}}
 \newcommand{\Adj}{\operatorname{Adj}}
 \newcommand{\Sym}{\operatorname{Sym}}
+\newcommand{\Set}{\operatorname{Set}}
 \newcommand{\Pull}{\operatorname{Pull}}
 \newcommand{\Push}{\operatorname{Push}}
 \newcommand{\dom}{\operatorname{dom}}
