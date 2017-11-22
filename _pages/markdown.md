@@ -61,7 +61,13 @@ e.g.
   * [Lurie's answer to the question on the relation between toposes and infinity toposes](https://mathoverflow.net/questions/92454/relation-between-topos-and-infty-topos)
 
 
+* [Tim Gowers's blog](https://gowers.wordpress.com/) 
 
+* [Tricki](http://www.tricki.org/)
+ A wiki of useful mathematical problem-solving techniques initiated by Tim Gowers.
+ I came to know about this from a [lecture](https://www.youtube.com/watch?v=3n-3ZVfZfEU) by Michael Harris introducing his book _The science of tricks_ where he mentioned this website.
+
+* [XOR’S HAMMER](https://xorshammer.com/)
 
 
 -----------------------------------------------------------------------------------------------
