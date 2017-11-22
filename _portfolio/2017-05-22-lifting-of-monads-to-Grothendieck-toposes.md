@@ -10,7 +10,12 @@ use_math: true
 location: "Birmingham, UK"
 ---
 
+
 {% include macro %}
+
+**Warning**: These notes are severely incomplete! Hopefully I will finish them soon.
+{: .notice}
+
 
 
 `Abstract:` Suppose $T: \cat{C} \to  \cat C$ is a monad on $\cat{C}$. We are intereted in answering the question that under which conditions on $\cat{C}$ it is possible to lift $T$ to $\psh{C}$ and to $\sh{C}$. In order to answer this question, in this post I am going to highlight some of relevant defintions and results that are elaborated in <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [my notes][1]. For more details of proofs and more examples have a look there. 
