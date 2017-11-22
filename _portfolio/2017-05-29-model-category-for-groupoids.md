@@ -11,7 +11,9 @@ location: "Birmingham, UK"
 ---
 
 {% include macro %}
-**Warning: These notes are severely incomplete! Hopefully I will finish them soon.**
+
+**Warning**: These notes are severely incomplete! Hopefully I will finish them soon.
+{: .notice}
 
 `Abstract:` 
 
