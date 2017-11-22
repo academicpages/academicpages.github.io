@@ -21,7 +21,7 @@ Let $B$ be complete [Boolean algebra](https://ncatlab.org/nlab/show/Boolean+alge
 
 ## Points
 
-A point of a Grothendiek topos $\cat{E}$ is a geometric morphismp $\Set  \rightarrow \cat{E}$; if we write $\cat{E}$ as the 
+A point of a Grothendiek topos $\cat{E}$ is a geometric morphism $\Set  \rightarrow \cat{E}$; if we write $\cat{E}$ as the 
 classifying topos $\Set[\thT]$ of some geometric theory $T$ then the points of $\cat{E}$ are in one-to-one correspondence with the models of $\bbT$ in $\Set$. We say a Grothendiek topos $\cat{E}$ has enough points if the inverse image of points $p: \Set → \cat{E}$ are jointly
 conservative. $\cat{E} = \Set[\thT]$ has enough points precisely when $\thT$ has enough models. 
 
@@ -33,11 +33,11 @@ The way we proceed to show that $\Sh((B,\cat{J}_ {sup}))$ does not have any poin
 So the points of $\Sh((B,\cat{J}_ {sup}))$ correspond exactly to the points of locale $L_B$ which are in bijection with [completely prime filters](https://ncatlab.org/nlab/show/completely+prime+filter) of $B$. Now, any prime filter of a Boolean algebra is in fact an ultrafilter. (Simply because $1 = a \vee \neg a$ is in the prime filter so either $a$ is in the prime filter or $\neg a$.) For a completely prime filter $P$ of $B$, since $B$ is complete one can easily show that $\bigwedge P$ is indeed an atom of $B$: Suppose $x \in B$ with $x \le \bigwedge P$. So $x$ is not in $P$. Therefore $\neg x \in P$. Thus $ x \le \bigwedge P \leq \neg x$.
 This implies $x = x \wedge \neg x = \bot$.  
 
-Conversely, if $a$ is an atom of Boolean algebr $B$, then the principal filter $\uparrow (a)$ is an ultrafilter and hence a compeltely prime filter, and thus a point of $\Sh((B,\cat{J}_ {sup}))$. 
+Conversely, if $a$ is an atom of Boolean algebra $B$, then the principal filter $\uparrow (a)$ is an ultrafilter and hence a compeltely prime filter, and thus a point of $\Sh((B,\cat{J}_ {sup}))$. 
 
 In summary, for an atomless Boolean algebra, $\Sh(L_B)$ is a topos without points. For an example of an atomless Boolean algebra consider the <strike>frame</strike> Boolean algebra of regular open sets of $\mathbb{R}^n$. The negation is got be interior of complement. Regular open means an open set whose complement's interior is equal to itself. The intuition is that regular opens do not have holes. One easily checks that this Boolean algebra does not have any atoms. 
 
-**Remark** In general one can define an element of a Heyting algebra to be regular whenever $\neg \neg x = x$, where by definition $\neg x = x \implies \bottom$. Thus a Boolean algebra is precisely a Heyting algebra in which every element is regular. One always have  {: .notice}  
+**Remark** In general one can define an element of a Heyting algebra to be regular whenever $\neg \neg x = x$, where by definition $\neg x = x \implies \bottom$. Thus a Boolean algebra is precisely a Heyting algebra in which every element is regular.  {: .notice}  
 
 
 
