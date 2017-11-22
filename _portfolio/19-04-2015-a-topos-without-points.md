@@ -16,9 +16,10 @@ location: "London, Canada"
 {% include macro %}
 
 
-Let $B$ be complete [Boolean algebra](https://ncatlab.org/nlab/show/Boolean+algebra). Here, completeness is categorical completeness which means $B$ has all limits (i.e. meets). Note that any complete poset is necessarily cocomplete. Consider [locale](https://ncatlab.org/nlab/show/locale) $L_B$ whose corresponding frame $O(L_B)$ is $B$. We now construct a [site](https://ncatlab.org/nlab/show/site) on $B$ by introducing a basis for a [Grothendieck topology](https://ncatlab.org/nlab/show/Grothendieck+topology) . 
+Let $B$ be complete [Boolean algebra](https://ncatlab.org/nlab/show/Boolean+algebra). Here, completeness is categorical completeness which means $B$ has all limits (i.e. meets). Note that any complete poset is necessarily cocomplete. Consider [locale](https://ncatlab.org/nlab/show/locale) $L_B$ whose corresponding frame $O(L_B)$ is $B$. We now construct a [site](https://ncatlab.org/nlab/show/site) on $B$ by introducing a basis for a [Grothendieck topology](https://ncatlab.org/nlab/show/Grothendieck+topology). 
 
-Note that for any $a$ in $B$ a sieve on $a$ is just a downward closed subset $S$ of $\darr (a) = \{ b \in B | b \leq a \}$.  
+
+Note that for any $a$ in $B$ a sieve on $a$ is just a downward closed subset $S$ of $ (a) = \{ b \in B | b \leq a \}$.  
 
 
 
