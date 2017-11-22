@@ -9,6 +9,7 @@ $$
 \newcommand{\ph}{\varphi}
 \newcommand{\to}{\rightarrow}
 \newcommand{\xraw}{\xrightarrow}
+\newcommand{\darr}{\downarrow}
 \newcommand{\To}{\Rightarrow}
 \renewcommand{\dot}{\centerdot}
 \newcommand{\pr}{^\prime}
