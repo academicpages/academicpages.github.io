@@ -16,7 +16,7 @@ location: "London, Canada"
 {% include macro %}
 
 
-Let $B$ be complete [Boolean algebra](https://ncatlab.org/nlab/show/Boolean+algebra). Here, completeness is categorical completeness which means $B$ has all limits (i.e. meets). Note that any complete poset is necessarily cocomplete. Consider [locale](https://ncatlab.org/nlab/show/locale) $L_B$ whose corresponding frame $O(L_B)$ is $B$. We now construct a [site](https://ncatlab.org/nlab/show/site) on $B$ by introducing a basis for a [Grothendieck topology](https://ncatlab.org/nlab/show/Grothendieck+topology). The topology will be sup-topology $\cat{J}_{sup}$. We then consider topos of sheaves on site $(B,\cat{J}_{sup})$ and prove it does not have any points. 
+Let $B$ be complete [Boolean algebra](https://ncatlab.org/nlab/show/Boolean+algebra). Here, completeness is categorical completeness which means $B$ has all limits (i.e. meets). Note that any complete poset is necessarily cocomplete. Consider [locale](https://ncatlab.org/nlab/show/locale) $L_B$ whose corresponding frame $O(L_B)$ is $B$. We now construct a [site](https://ncatlab.org/nlab/show/site) on $B$ by introducing a basis for a [Grothendieck topology](https://ncatlab.org/nlab/show/Grothendieck+topology). The topology will be sup-topology $\cat{J}_ {sup}$. We then consider topos of sheaves on site $(B,\cat{J}_ {sup})$ and prove it does not have any points. 
 
 
 ## Points
@@ -28,4 +28,16 @@ conservative. $\cat{E} = \Set[\thT]$ has enough points precisely when $\thT$ has
 
 ### A topos with no points  
 
-The way we proceed to show that $\Sh((B,\cat{J}_{sup}))$ does not have any points is through a process called localic reflection. That is we can assign to any topos, its localic reflection $L(\cat{E})$, the locale which has the partially ordered set $Sub_{\cat{E}}(1)$ as frame of opens. If the topos $\cat{E} = \Sh (L)$ is localic, then we do not lose any information in the process of localic reflection; that is to say $Sub_{\cat{E}}(1) \simeq L $ 
+The way we proceed to show that $\Sh((B,\cat{J}_ {sup}))$ does not have any points is through a process called localic reflection. That is we can assign to any topos, its localic reflection $L(\cat{E})$, the locale which has the partially ordered set $Sub_{\cat{E}}(1)$ as frame of opens. If the topos $\cat{E} = \Sh (L)$ is localic, then we do not lose any information in the process of localic reflection; that is to say we have an isomorphism of frames $Sub_{\cat{E}}(1) \cong L $.   
+
+So the points of $\Sh((B,\cat{J}_ {sup}))$ correspond exactly to the points of locale $L_B$ which are in bijection with [completely prime filters](https://ncatlab.org/nlab/show/completely+prime+filter) of $B$. Now, any prime filter of a Boolean algebra is in fact an ultrafilter. (Simply because $1 = a \vee \neg a$ is in the prime filter so either $a$ is in the prime filter or $\neg a$.) For a completely prime filter $P$ of $B$, since $B$ is complete one can easily show that $\bigwedge P$ is indeed an atom of $B$: Suppose $x \in B$ with $x \le \bigwedge P$. So $x$ is not in $P$. Therefore $\neg x \in P$. Thus $ x \le \bigwedge P \leq \neg x$.
+This implies $x = x \wedge \neg x = \bot$.  
+
+Conversely, if $a$ is an atom of Boolean algebr $B$, then the principal filter $\uparrow (a)$ is an ultrafilter and hence a compeltely prime filter, and thus a point of $\Sh((B,\cat{J}_ {sup}))$. 
+
+In summary, for an atomless Boolean algebra, $\Sh(L_B)$ is a topos without points. For an example of an atomless Boolean algebra consider the <strike>frame</strike> Boolean algebra of regular open sets of $\mathbb{R}^n$. The negation is got be interior of complement. Regular open means an open set whose complement's interior is equal to itself. The intuition is that regular opens do not have holes. One easily checks that this Boolean algebra does not have any atoms. 
+
+**Remark** In general one can define an element of a Heyting algebra to be regular whenever $\neg \neg x = x$, where by definition $\neg x = x \implies \bottom$. Thus a Boolean algebra is precisely a Heyting algebra in which every element is regular. One always have  {: .notice}  
+
+
+
