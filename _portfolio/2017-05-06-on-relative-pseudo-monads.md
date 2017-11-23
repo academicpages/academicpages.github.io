@@ -55,7 +55,7 @@ For the rest of the story please see my notes here:
 
 * <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Notes from Nicola's talk](https://sinhp.github.io/files/CT/notes-from-talk-by-N.Gambino-relative-ps-monads.pdf) 
 
-* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Supplementary notes](files/CT/Kleisli-triples.pdf) on Kleisli triples from Moggi's [Notions of computation and monads](http://fsl.cs.illinois.edu/pubs/moggi-1991-ic.pdf)
+* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Supplementary notes](https://sinhp.github.io/files/CT/Kleisli-triples.pdf) on Kleisli triples from Moggi's [Notions of computation and monads](http://fsl.cs.illinois.edu/pubs/moggi-1991-ic.pdf)
    
 
 
