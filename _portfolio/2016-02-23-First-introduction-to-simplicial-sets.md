@@ -13,4 +13,4 @@ location: "Birmingham, UK"
 I gave a talk on 23 February 2016 in CARGO introducing basic concepts and construction of simplicial sets and simplicial objects from algebraic topology to postgraduate and postdoc students of theoretical computer science. This talk was subsequently followed by a talk on simplicial models of HoTT. 
 
 You can view/download my notes: 
-[Slides](https://sinhp.github.io/files/CT/First-introduction-to-simplicial-sets.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>[Slides](https://sinhp.github.io/files/CT/First-introduction-to-simplicial-sets.pdf)
