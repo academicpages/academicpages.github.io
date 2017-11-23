@@ -16,6 +16,11 @@ location: "Birmingham, UK"
 
 ## Theories to learn
 
+
+* **_Logical Relations_**:
+ In particular the classic Plotkin's paper  [Lambda-definability and logical relations](http://homepages.inf.ed.ac.uk/gdp/publications/logical_relations_1973.pdf) 
+
+
 * **_Homological Algebra_**: 
  I never had a proper course in homological algebra (I am thinking for instance Hilton-Stambach's level or Manin's). I learnt basic stuff from sparse lecture notes certain constructions in homological algebra from nLab. 
 
