@@ -1,5 +1,5 @@
 ---
-title: "A learning wishlist"
+title: "A Learning Wishlist"
 author: Sina Hazratpour
 permalink: /scribbling/15-02-2017-learning-wishlist
 collection: portfolio
@@ -25,7 +25,7 @@ location: "Birmingham, UK"
  I never had a proper course in homological algebra (I am thinking for instance Hilton-Stambach's level or Manin's). I learnt basic stuff from sparse lecture notes certain constructions in homological algebra from nLab. 
 
 * **_Connection between logic and topological/geometric invariants such as cohomology_**:
-  There is a very nice paper by A.Blass which shows EAC (EAC= external axiom of choice which states every epi splits. (or equivalently every object is projective.)) holds iff all first non-abelian cohomologies (for all  coefficient groups, not necessarily abelian) of discerete spaces are trivial. If you wonder what cohomology has to do with choice, roughly consider choice as a local to global statement, and first cohomology detects the obstructions of local to global. If there is no such obstruction then you can transition from local to global. If you would like to see the proof read his [paper](http://www.ams.org/journals/tran/1983-279-01/S0002-9947-1983-0704615-7/S0002-9947-1983-0704615-7.pdf). Be warned that his proofs use excluded middle, so it is not constructive. If you want the idea of proof, and indeed a constructive proof read a post from 3 years ago by [M.Shulman](https://golem.ph.utexas.edu/category/2013/07/cohomology_detects_failures_of.html). 
+  There is a very nice paper by A.Blass which shows EAC (EAC= external axiom of choice which states every epi splits. (or equivalently every object is projective.)) holds iff all first non-abelian cohomologies (for all  coefficient groups, not necessarily abelian) of discrete spaces are trivial. If you wonder what cohomology has to do with choice, roughly consider choice as a local to global statement, and first cohomology detects the obstructions of local to global. If there is no such obstruction then you can transition from local to global. If you would like to see the proof read his [paper](http://www.ams.org/journals/tran/1983-279-01/S0002-9947-1983-0704615-7/S0002-9947-1983-0704615-7.pdf). Be warned that his proofs use excluded middle, so it is not constructive. If you want the idea of proof, and indeed a constructive proof read a post from 3 years ago by [M.Shulman](https://golem.ph.utexas.edu/category/2013/07/cohomology_detects_failures_of.html). 
 
  Here is a quote from that post: 
 
@@ -39,7 +39,14 @@ location: "Birmingham, UK"
 
 
 
-## Papers to read
+## Books and papers to read
  
+1. Dan Kan's original paper on [adjoint functors](http://www.ams.org/journals/tran/1958-087-02/S0002-9947-1958-0131451-0/S0002-9947-1958-0131451-0.pdf)
 
+2. Emily Riehl and Dominic Verity's _Infinity category theory (and infinity cosmos) from scratch_
 
+3. Carlos Simpson's _Homotopy Theory of Higher Categories: From Segal Categories to N-Categories_
+
+4. Charles Rezk's _Toposes and homotopy toposes_
+
+5. Peter Johnstone's older topos theory book, chapter 8 on _Cohomology in toposes_
