@@ -18,15 +18,32 @@ Today, I am just going to give a very brief summary of my take from the talk. Yo
 He started by putting their work into a proper context by drawing the following table on the whiteboard<sup>1</sup>.   
 
 |         | Traditional | Kleisli | Relative |
-|:--------|:------------|:-------:|---------:|
+|:--------|:-----------:|:-------:|:--------:|
 | 1-dimensional| standard notion of monad   | Kleisli triple [1]  | relative monad [2]   |
-| 2-dimensional   | pseudo-monad  | no-iteration pseudo-monad [3]  | _relative pseudo-monad_ [4] |
+| 2-dimensional   | pseudo-monad  | no-iteration pseudo-monad [3]  | **_relative pseudo-monad_** [4] |
 |=============================|
 
 
+He then started by recalling definition of Kleisli triple due to Manes. After that came definition of relative pseudomonad (definition 3.1 in the paper), which is based on the notions of a relative monad and of a no-iteration pseudomonad, both of which in turn were inspired by that of Kleisli triples. He claimed that Kleisli triples are better suited to define Kleisli categories. There is some justification for this in the paper.
 
+Now, I quote from their paper:
 
-
+> For a pseudofunctor between bicategories $J: \cat{C} \rightarrow \cat{D}$ (which in our main example is the
+inclusion $J : \catg → \Cat$ of the 2-category of small categories into the 2-category of locally
+small categories), the core of the data for a relative pseudomonad $T$ over $J$ consists of an object
+$TX \in \cat{D}$ for every $X \in \cat{C}$, a morphism $iX : JX \rightarrow TX$ for every $X \in \cat{C}$, and a morphism
+$f^{\ast}: TX \rightarrow TY$ for every $f: JX \rightarrow TY$ in $\cat{D}$. This is as in a relative monad, but the equations
+for a relative monad are replaced in a relative pseudomonad by families of invertible 2-cells
+satisfying appropriate coherence conditions, as in a no-iteration pseudomonad. As we will see
+in Theorem 4.1, these conditions imply that every relative pseudomonad $T$ over $$J: \cat{C} \rightarrow \cat{D}$ has
+an associated Kleisli bicategory $Kl(T)$, defined analogously to the one-dimensional case. In our
+main example, the presheaf construction gives rise to a relative pseudomonad over the inclusion
+$J : \catg → \Cat$ in a natural way and it is then immediate to identify its Kleisli bicategory with
+the bicategory of profunctors. It should be noted here that the presheaf construction is neither
+a no-iteration pseudomonad (because of size issues) nor a relative monad (because of strictness
+issues). As part of our development of the theory of relative pseudomonads, we show how relative
+pseudomonads generalize no-iteration pseudomonads (Proposition 3.3) and hence (by the results
+in [53]) also pseudomonads.
 
 
 
