@@ -25,7 +25,7 @@ I gave a two CARGO talks on [classifying topos of topological categories](http:/
 [5] I.Moerdijk, _Classifying spaces and classifying topoi_
 
 
-*Warning**: Notes of this talk will be up here very soon.
+*Warning**: <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Notes of this talk will be up here very soon.
 {: .notice}
 
 
