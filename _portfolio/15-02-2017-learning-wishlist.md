@@ -39,6 +39,7 @@ location: "Birmingham, UK"
 
 
 
+--------------------------------
 ## Books and papers to read
  
 1. Dan Kan's original paper on [adjoint functors](http://www.ams.org/journals/tran/1958-087-02/S0002-9947-1958-0131451-0/S0002-9947-1958-0131451-0.pdf)
