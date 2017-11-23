@@ -11,5 +11,4 @@ redirect_from:
 
 [Click to View My Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
 
-<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="500" height="375" type='application/pdf'> -->
-![CV](http://lantaoyu.com/files/lantaoyu_cv.pdf)
+<embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="595" height="1682" type='application/pdf'>
