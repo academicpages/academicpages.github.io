@@ -11,6 +11,9 @@ location: "Birmingham, UK"
 ---
 
 
+{% include macro %}
+
+
 Nicola Gambino gave a very neat talk on his recent joint work with M. Fiore, M. Hyland, and G. Winskel. You can find their paper on arxiv here: [Relative pseudomonads, Kleisli bicategories, and substitution monoidal structures](https://arxiv.org/abs/1612.03678). 
 
 Today, I am just going to give a very brief summary of my take from the talk. You should read the paper if this summary interests you. Okay, then! Here we go. 
@@ -21,7 +24,9 @@ He started by putting their work into a proper context by drawing the following 
 |:--------|:-----------:|:-------:|:--------:|
 | 1-dimensional| standard notion of monad   | Kleisli triple [1]  | relative monad [2]   |
 | 2-dimensional   | pseudo-monad  | no-iteration pseudo-monad [3]  | **_relative pseudo-monad_** [4] |
-|=============================|
+|====================================================================================================|
+
+
 
 
 He then started by recalling definition of Kleisli triple due to Manes. After that came definition of relative pseudomonad (definition 3.1 in the paper), which is based on the notions of a relative monad and of a no-iteration pseudomonad, both of which in turn were inspired by that of Kleisli triples. He claimed that Kleisli triples are better suited to define Kleisli categories. There is some justification for this in the paper.
@@ -35,7 +40,7 @@ $TX \in \cat{D}$ for every $X \in \cat{C}$, a morphism $iX : JX \rightarrow TX$ 
 $f^{\ast}: TX \rightarrow TY$ for every $f: JX \rightarrow TY$ in $\cat{D}$. This is as in a relative monad, but the equations
 for a relative monad are replaced in a relative pseudomonad by families of invertible 2-cells
 satisfying appropriate coherence conditions, as in a no-iteration pseudomonad. As we will see
-in Theorem 4.1, these conditions imply that every relative pseudomonad $T$ over $$J: \cat{C} \rightarrow \cat{D}$ has
+in Theorem 4.1, these conditions imply that every relative pseudomonad $T$ over $J: \cat{C} \rightarrow \cat{D}$ has
 an associated Kleisli bicategory $Kl(T)$, defined analogously to the one-dimensional case. In our
 main example, the presheaf construction gives rise to a relative pseudomonad over the inclusion
 $J : \catg → \Cat$ in a natural way and it is then immediate to identify its Kleisli bicategory with
@@ -47,12 +52,12 @@ in [53]) also pseudomonads.
 
 
 
+Here are my notes: 
 
+* Notes from Nicola's talk 
 
-
-
-
-
+* Supplementary notes on Kleisli triples from Moggi's [Notions of computation and monads](http://fsl.cs.illinois.edu/pubs/moggi-1991-ic.pdf)
+   
 
 
 
