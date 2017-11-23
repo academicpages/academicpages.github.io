@@ -15,10 +15,9 @@ location: "Birmingham, UK"
 
 
 Nicola Gambino gave a very neat talk on his recent joint work with M. Fiore, M. Hyland, and G. Winskel. You can find their paper on arxiv here: [Relative pseudomonads, Kleisli bicategories, and substitution monoidal structures](https://arxiv.org/abs/1612.03678). 
+Today, I am going to report on his talk. It will be quite brief. However, I put all of references here so you can find the original paper and much more. I also attached my notes below the summary. You should read the original paper if this summary interests you. Okay, then! Here we go. 
 
-Today, I am just going to give a very brief summary of my take from the talk. You should read the paper if this summary interests you. Okay, then! Here we go. 
-
-He started by putting their work into a proper context by drawing the following table on the whiteboard<sup>1</sup>.   
+Nicola started by putting their work into a proper context by drawing the following table on the whiteboard<sup>1</sup>.   
 
 |         | Traditional | Kleisli | Relative |
 |:--------|:-----------:|:-------:|:--------:|
@@ -52,22 +51,21 @@ in [53]) also pseudomonads.
 
 
 
-Here are my notes: 
+For the rest of the story please see my notes here: 
 
-* Notes from Nicola's talk 
+* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Notes from Nicola's talk](https://sinhp.github.io/files/CT/notes-from-talk-by-N.Gambino-relative-ps-monads.pdf) 
 
-* Supplementary notes on Kleisli triples from Moggi's [Notions of computation and monads](http://fsl.cs.illinois.edu/pubs/moggi-1991-ic.pdf)
+* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Supplementary notes](Kleisli-triples.pdf) on Kleisli triples from Moggi's [Notions of computation and monads](http://fsl.cs.illinois.edu/pubs/moggi-1991-ic.pdf)
    
 
 
 
 
-
-
-
-
+--------------------------------------------------------
 1. One of the few negative aspects of being a student in Birmingham CS is lack of access to blackboards. It's whiteboards everywhere. Even, in the school of mathematics there are not many blackboards. I totally miss them. Some of us in theory group raised our voices to mention this to the head of school a year ago but nothing happened. Perhaps we should start carrying our own blackboards like these great folks: [the Kurdish teachers in western mountains of Iran](http://www.sbs.com.au/movies/review/kurdish-teachers-carrying-blackboards-their-backs-look-students-hills-iran). 
 {: .notice}
+---------------------------------------------------------
+
 
 
 [1] E. Manes. Algebraic theories. Springer, 1976.
