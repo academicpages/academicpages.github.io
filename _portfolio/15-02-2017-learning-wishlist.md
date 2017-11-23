@@ -22,9 +22,9 @@ location: "Birmingham, UK"
 * **_Connection between logic and topological/geometric invariants such as cohomology_**:
   There is a very nice paper by A.Blass which shows EAC (EAC= external axiom of choice which states every epi splits. (or equivalently every object is projective.)) holds iff all first non-abelian cohomologies (for all  coefficient groups, not necessarily abelian) of discerete spaces are trivial. If you wonder what cohomology has to do with choice, roughly consider choice as a local to global statement, and first cohomology detects the obstructions of local to global. If there is no such obstruction then you can transition from local to global. If you would like to see the proof read his [paper](http://www.ams.org/journals/tran/1983-279-01/S0002-9947-1983-0704615-7/S0002-9947-1983-0704615-7.pdf). Be warned that his proofs use excluded middle, so it is not constructive. If you want the idea of proof, and indeed a constructive proof read a post from 3 years ago by [M.Shulman](https://golem.ph.utexas.edu/category/2013/07/cohomology_detects_failures_of.html). 
 
-Here is a quote from that post: 
+ Here is a quote from that post: 
 
->  "...I think it’s quite cute that we can connect geometric ideas like characteristic classes of fiber bundles in cohomology with logical ideas like the axiom of choice. In some sense, this is what topos theory is supposed to be all about."
+  >  "...I think it’s quite cute that we can connect geometric ideas like characteristic classes of fiber bundles in cohomology with    logical ideas like the axiom of choice. In some sense, this is what topos theory is supposed to be all about."
 
 
 * **_Ideas of complexity theory_**:
