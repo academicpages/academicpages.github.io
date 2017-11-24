@@ -14,7 +14,8 @@ thumbnail: Stalinist-wedding-cake.jpg
 
 
 
-<br/><img src='/images/posts/nov17/Stalinist-wedding-cake.jpg'>
+
+{% include image.html url="/images/posts/nov17/Stalinist-wedding-cake.jpg" description="The Kotelnicheskaya Embankment Building, one of the most famous examples of the Stalinist "Wedding cake" style" %}
 
 
 > Isn't this the fundamental paradox of Stalinist architecture that we have a society, Stalinist communism, which officially presented itself as, you know, an egalitarian, just, the working class in power, and so on. Then you look at the building and what you see immediately there is some oppressive gothic quasi-medieval hierarchic image. Architecture tells the truth. What was not allowed to state publicly was materialized in the stones there. It is for me, how should I put it, a spontaneous critic of ruling ideology. 
