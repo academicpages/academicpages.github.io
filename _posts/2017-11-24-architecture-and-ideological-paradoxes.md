@@ -25,3 +25,4 @@ This is from an [interview](https://www.youtube.com/watch?v=fi6QT-10Ecw) of Slav
 
 
 <br/><img src='/images/posts/nov17/Dresden-museum-libeskind.jpg'>
+<FIGCAPTION>A view of York Minster from a side street.</FIGCAPTION>
