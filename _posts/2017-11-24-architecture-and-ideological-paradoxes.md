@@ -1,14 +1,13 @@
 --- 
 title: 'Architecture And Ideological Paradoxes' 
 date: 2017-11-24
-comments: true
 tags:
   - Daniel Libeskind
   - Parallax View 
   - Stalinist Wedding Cake
   - Russian Constructivism
   -Slavoj Zizek
-permalink: /posts/2017/11/architecture-and-ideological-paradoxes  
+permalink: /posts/2017/11/architecture-and-ideological-paradoxes/  
 comments: true
 thumbnail: Stalinist-wedding-cake.jpg
 ---
