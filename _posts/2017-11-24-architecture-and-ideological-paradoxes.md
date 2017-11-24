@@ -12,6 +12,8 @@ comments: true
 thumbnail: Stalinist-wedding-cake.jpg
 ---
 
+
+
 <br/><img src='/images/posts/nov17/Stalinist-wedding-cake.jpg'>
 
 
