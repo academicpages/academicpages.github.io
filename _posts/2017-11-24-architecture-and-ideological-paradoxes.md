@@ -6,7 +6,7 @@ tags:
   - Parallax View 
   - Stalinist Wedding Cake
   - Russian Constructivism
-  -Slavoj Zizek
+  - Slavoj Zizek
 permalink: /posts/2017/11/architecture-and-ideological-paradoxes/  
 comments: true
 thumbnail: Stalinist-wedding-cake.jpg
