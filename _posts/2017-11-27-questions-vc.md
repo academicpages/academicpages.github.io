@@ -1,5 +1,5 @@
 ---
-title: 'Questions to Expect from a VC Partner'
+title: 'Questions to Consider about Your Product from a VC Partner'
 date: 2017-11-27
 permalink: /posts/2017/11/questions-vc/
 tags:
@@ -13,8 +13,8 @@ I participated in my first hackathon two weekends ago.
 I use code to do data analysis most of the time, not write apps or websites.
 For me, it was more of a fun learning experience and I got to see what kinds of work are expected and rewarded.
 
-One of the judges for the hackathon was a principal at a venture capitalist fund.
-The questions he asked the hackathon teams during judging were clearly the type of questions one would ask a CEO about their startup.
+One of the judges for the hackathon was a principal at a venture capital fund.
+The questions he asked the hackathon teams during judging were clearly the type of questions one would ask a founder about their startup.
 It was super useful to hear those questions and to think about how I can use them to sell my research and future project pitches.
 
 Who else is doing it?
@@ -60,3 +60,4 @@ Most research papers, I'd guess, are read by tens or maybe hundreds of people wh
 Even when I do read a paper that I think is intellectually interesting, I often don't see how it'll be put into practice:
 lots of statistical methods sit in academic papers and never get turned into code that's widely distributed or used.
 I try to avoid that kind of work and instead make sure that I do research where the potential impact is clear and quantifiable, publish things online where people can find them, give good talks and write clearly so my work is accessible, and write open source code that people can download and use.
+In the future, I'd like to set better metrics and outcome goals for my work.
