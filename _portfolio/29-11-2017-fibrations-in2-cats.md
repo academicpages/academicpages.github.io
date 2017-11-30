@@ -1,5 +1,5 @@
 ---
-title: "First Introduction To Simplicial Sets"
+title: "On a paper of Street"
 author: Sina Hazratpour
 permalink: /scribbling/2016-02-23-fibrations-in2-cats
 collection: portfolio
@@ -17,5 +17,7 @@ The singular aim of these notes is to give a less condensed and more clear expla
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="/files/CT/street-pedestrians.pdf" target="_blank"><font color="#336666">Notes on $\Omega_j$</font></a>
 
 [1] Ross Street, _Fibrations and Yoneda's lemma in a 2-category_
+
 [2] Stephen Lack, _Coherent Approach to Pseudomonads_
+
 [3] Anders Kock, _Monads for which structures are adjoint to units_
