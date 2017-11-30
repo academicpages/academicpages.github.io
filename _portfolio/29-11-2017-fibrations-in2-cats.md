@@ -14,7 +14,7 @@ location: "Birmingham, UK"
 `Abstract:`
 The singular aim of these notes is to give a less condensed and more clear explanation of Ross Street's significant paper[1]. We highly encourage reader to also refer to [2] and [3]. 
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="/files/CT/street-pedestrians.pdf" target="_blank"><font color="#336666">Notes on $\Omega_j$</font></a>
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="/files/CT/street-pedestrians.pdf" target="_blank"><font color="#336666">Notes on co-KZ-monads and fibrations </font></a>
 
 [1] Ross Street, _Fibrations and Yoneda's lemma in a 2-category_
 
