@@ -21,7 +21,8 @@ redirect_from:
 
 
 # Recent News
-* November 12, 2017. A paper titled "Deep Reinforcement Learning for Green Security Game with Online Information" was accepted in the *AAAI-18 Workshop on Artificial Intelligence for Imperfect-Information Games*.
+* November 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*.
+* November 12, 2017. A paper was accepted in the *AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop*.
 * September 17, 2017. New preprint: An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning. Available on [arXiv](https://arxiv.org/abs/1709.04511)
 * August 25, 2017. We started the [Multi-Agent Reinforcement Learning reading group](https://feifang.info/marl-reading-group/).
 * August 15, 2017. I started to work as a research intern at Carnegie Mellon University for the next six months.

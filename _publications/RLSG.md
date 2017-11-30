@@ -2,9 +2,9 @@
 title: "Deep Reinforcement Learning for Green Security Game with Online Information"
 collection: publications
 permalink: /publications/RLSG
-venue: "Workshop on Artificial Intelligence for Imperfect-Information Games held at AAAI 2018"
+venue: "AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop"
 date: 2017-11-12
-citation: '<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>Workshop on Artificial Intelligence for Imperfect-Information Games</i> in <b>AAAI 2018</b>.'
+citation: '<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop</i>.'
 ---  
 [[PDF]](https://lantaoyu.github.io/files/rlforsg.pdf)
 
