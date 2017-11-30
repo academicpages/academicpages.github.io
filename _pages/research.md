@@ -10,9 +10,9 @@ redirect_from:
 
 ## Working Papers
 
-- [Structural Transformations and State Institutions in Latin America, 1900-2010] [comment]: <> (https://github.com/hbahamonde/Negative_Link_Paper/raw/master/Bahamonde_NegativeLink.pdf). **Under review**.
+- [Structural Transformations and State Institutions in Latin America, 1900-2010] [//]: # (https://github.com/hbahamonde/Negative_Link_Paper/raw/master/Bahamonde_NegativeLink.pdf). **Under review**.
 
-- **Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil** [comment]: <> (https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). **Under review**.
+- **Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil** [//]: # (https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). **Under review**.
 
 - [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).
 
