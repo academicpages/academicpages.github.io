@@ -1,7 +1,7 @@
 ---
 title: "On a paper of Street"
 author: Sina Hazratpour
-permalink: /scribbling/2016-02-23-fibrations-in2-cats
+permalink: /scribbling/2017-11-29-coKZ-monads-and-fibrations-in-2-cats
 collection: portfolio
 type: "scribbling"
 date: 2017-11-29
