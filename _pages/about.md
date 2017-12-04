@@ -11,7 +11,11 @@ I am currently working for Planet as a *Computer Vision Engineer*. My work invol
 
 ## Education
 
-	Chester Carlson Center for Imaging Science, Ph.D., 2011-2016 |  Electrical and Computer Engineering, M.S., 2009-2011 |  Electrial and Electronics Engineering, B.S., 2004-2009 
-	:-------------------------:|:-------------------------:|:-------------------------:
-	![rit](../images/RIT.Image.jpg)  |  ![ub](../images/University_of_Bridgeport.Image.png)  | ![esogu](../images/Esogu.Image.png)
+- **Ph.D.**, Chester F. Carlson Center for Imaging Science, RIT, 2011-2016
+- **M.S.**, Electrical and Computer Engineering Department, University of Bridgeport, 2009-2011
+- **B.S.**, Electrical and Electronics Engineering Department, Eskisehir Osmangazi University, 2004-2009
 
+## Work Experience
+- *Computer Vision Engineer*, Planet Labs, July 2017 - 
+- *Computer Vision Engineer*, Autel Robotics, August 2016 - July 2017
+- *Computer Vision Algorithm Engineer Intern*, Huawei R&D, November 2015 - May 2016
