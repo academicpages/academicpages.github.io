@@ -11,7 +11,7 @@ I am currently working for Planet as a *Computer Vision Engineer*. My work invol
 
 ## Education
 
-	Chester F. Carlson Center for Imaging Science, Ph.D., 2011-2016 |  Electrical and Computer Engineering, M.S., 2009-2011 |  Electrial and Electronics Engineering, B.S., 2004-2009 
+	Chester Carlson Center for Imaging Science, Ph.D., 2011-2016 |  Electrical and Computer Engineering, M.S., 2009-2011 |  Electrial and Electronics Engineering, B.S., 2004-2009 
 	:-------------------------:|:-------------------------:|:-------------------------:
 	![rit](../images/RIT.Image.jpg)  |  ![ub](../images/University_of_Bridgeport.Image.png)  | ![esogu](../images/Esogu.Image.png)
 
