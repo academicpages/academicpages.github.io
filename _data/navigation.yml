@@ -2,4 +2,5 @@
 main:
   - title: "CV"
     url: /files/CV.BurakUzkent.pdf
-      
+  - title: "Publications"
+    url: /Publications/    
