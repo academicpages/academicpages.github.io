@@ -19,7 +19,7 @@ redirect_from:
 	!['dataset_samples'](../images/positives_vehicle_detection.jpg)
 
 	```
-	@article{uzkent2017tracking,
+	## @article{uzkent2017tracking,
 		title={Tracking in Aerial Hyperspectral Videos using Deep Kernelized Correlation Filters},
 		author={Uzkent, Burak and Rangnekar, Aneesh and Hoffman, Matthew J},
 		journal={arXiv preprint arXiv:1711.07235},
@@ -34,7 +34,7 @@ redirect_from:
 	- [Aerial Vehicle Tracking Video](https://www.youtube.com/watch?v=-1-9WZH0Ki4)
 
 	```
-	@inproceedings{uzkent2016real,
+	## @inproceedings{uzkent2016real,
 	  	title={Real-time vehicle tracking in aerial video using hyperspectral features},
 	  	author={Uzkent, Burak and Hoffman, Matthew J and Vodacek, Anthony},
 	 	booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
@@ -42,5 +42,3 @@ redirect_from:
 	  	year={2016}
 	}
 	```
-
-
