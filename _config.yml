@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : "JudithNeukamm"
 facebook:
   username               : 
   app_id                 :
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Judith Neukamm"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student"
   location         : "Tübingen, Germany"
   employer         : 
