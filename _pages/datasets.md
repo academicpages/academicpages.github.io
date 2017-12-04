@@ -30,11 +30,11 @@ redirect_from:
 
 	- Download Hyperspectral Frames
 	```shell
-	wget https://drive.google.com/file/u/1/d/0B3lpS7qMFUmwTUQwaUpiOVN2SDA/view
+	wget https://drive.google.com/a/g.rit.edu/uc?id=0B3lpS7qMFUmwTUQwaUpiOVN2SDA&export=download
 	```
 	- Download ReadMe and Ground Truth for Vehicles
 	```shell
-	wget ./Datasets/GroundTruth.zip
+	wget https://buzkent86.github.io/datasets/GroundTruth.zip
 	```
 	- [Aerial Vehicle Tracking Video](https://www.youtube.com/watch?v=-1-9WZH0Ki4)
 
