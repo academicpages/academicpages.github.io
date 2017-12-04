@@ -4,4 +4,10 @@ main:
     url: /files/CV.BurakUzkent.pdf
 
   - title: "Publications"
-    url: /publications/    
+    url: /publications/
+
+  - title: "News"
+    url: /news/
+
+  - title: "Datasets"
+    url: /datasets/  
