@@ -12,8 +12,11 @@ I am currently working for Planet as a *Computer Vision Engineer*. My work invol
 ## Education
 
 - **Ph.D.**, Chester F. Carlson Center for Imaging Science, RIT, 2011-2016
+    - **Dissertation Topic** : "Aerial Object Detection and Tracking using a Multi-modal Adaptive Sensor"
 - **M.S.**, Electrical and Computer Engineering Department, University of Bridgeport, 2009-2011
+    - **Thesis Topic** : "Non-speech Enviromental Sound Classification with a New Set of Features"
 - **B.S.**, Electrical and Electronics Engineering Department, Eskisehir Osmangazi University, 2004-2009
+    - **Thesis Topic** : "Autonomous Parallel Parking of Non-holonomic Vehicles"
 
 ## Work Experience
 - *Computer Vision Engineer*, Planet Labs, July 2017 - 
