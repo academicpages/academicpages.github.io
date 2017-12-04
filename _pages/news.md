@@ -36,5 +36,6 @@ redirect_from:
 
 	- Uzkent, Burak, Matthew J. Hoffman, Elizabeth Cherry, and Nathan Cahill. "3-D MRI cardiac segmentation using graph cuts." In Image and Signal Processing Workshop (WNYISPW), 2014 IEEE Western New York, pp. 47-51. IEEE, 2014.
 
-	![canine_heart](../images/Canine_Heart_Segmentation.png)
-	![sheep_heart](../images/Sheep_Heart_Segmentation.png)
+	Canine Heart             |  Sheep Heart
+	:-------------------------:|:-------------------------:
+	![canine_heart](../images/Canine_Heart_Segmentation.png)  |  ![sheep_heart](../images/Sheep_Heart_Segmentation.png)
