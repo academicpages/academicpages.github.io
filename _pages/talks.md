@@ -18,7 +18,8 @@ I have presented / will be presenting at...
 
 #### Midwest Political Science Association (MPSA)
 
-- Chicago, IL: 2017. Panel: Political Economy of Development and Regime Change.
+- Chicago, IL: 2018. JSS Session: Comparative Political Economy. 
+- Chicago, IL: 2017. JSS Session: Political Economy of Development and Regime Change.
 
 
 #### American Political Science Association (APSA)
@@ -27,6 +28,8 @@ I have presented / will be presenting at...
 
 
 #### Latin American Studies Association (LASA) 
+
+- Barcelona, Spain: 2018. Panel: Building and Eroding State Capacity.
 
 - New York City, NY: 2016. Panel: States, Institutions, and Market Forces.
 

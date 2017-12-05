@@ -1,53 +1,64 @@
 var addressPoints = [
+  // SPSA
   [
-    "New Orleans, USA",
+    "New Orleans, USA", //SPSA 2015
     29.9511,
     -90.0715
   ],
   [
-    "New Orleans, USA",
+    "New Orleans, USA", //SPSA 2018
     29.9511,
     -90.0715
   ],
+  // LASA
   [
-    "New York, USA",
+    "Barcelona, Spain", // LASA 2018
+    41.409407,
+    -2.219077200000015
+  ],
+  [
+    "New York, USA", // LASA 2016
     40.7128,
     -74.0059
   ],
+   [
+  "Chicago, USA", // LASA: 2014
+    41.8781,
+    -87.6298
+  ],
+  // WPSA
+    [
+    "San Francisco, USA", // WPSA 2018
+    37.773972,
+    -122.431297
+  ],
   [
-    "Las Vegas, USA",
+    "Las Vegas, USA", // WPSA 2015
     36.1699,
     -115.1398
   ],
+  // APSA
   [
-    "Philadelphia, USA",
+    "Philadelphia, USA", // APSA 2016
     39.9526,
     -75.1652
   ],
+  // MPSA
   [
-    "Chicago, USA",
+    "Chicago, USA", // MPSA: 2017
     41.8781,
     -87.6298
   ],
   [
-    "San Juan, Puerto Rico",
-    18.4655,
-    -66.1057
+    "Chicago, USA", // MPSA: 2018
+    41.8781,
+    -87.6298
   ],
+  // Others
   [
-    "Santiago, Chile",
+    "Santiago, Chile", // ACCP
     -33.4489,
     -70.6693
-  ],
-  [
-    "San Diego, USA",
-    32.842674,
-    -117.257767
-  ],
-    [
-    "San Francisco, USA",
-    37.773972,
-    -122.431297
   ],
 
 ];
