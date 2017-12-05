@@ -13,8 +13,8 @@ var addressPoints = [
   // LASA
   [
     "Barcelona, Spain", // LASA 2018
-    41.409407,
-    -2.219077200000015
+    41.409584,
+    -2.219077
   ],
   [
     "New York, USA", // LASA 2016
