@@ -20,8 +20,9 @@ I am currently working for Planet as a *Computer Vision Engineer*. My work invol
 
 ## Work Experience
 - *Computer Vision Engineer*, Planet Labs, July 2017 -
-   * _Focus_ - object detection in low resolution satellite images
+   * _Topic_ - object detection in low resolution satellite images
 - *Computer Vision Engineer*, Autel Robotics, August 2016 - July 2017
-   * _Focus_ - high-speed object tracking from a drone platform
-- *Computer Vision Algorithm Engineer Intern*, Huawei R&D, November 2015 - May 2016   * _Focus_ - semantic role assignment to people in a photo album
+   * _Topic_ - high-speed object tracking from a drone platform
+- *Computer Vision Algorithm Engineer Intern*, Huawei R&D, November 2015 - May 2016   
+   * _Topic_ - semantic role assignment to people in a photo album
 
