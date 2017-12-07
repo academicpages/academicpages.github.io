@@ -14,7 +14,7 @@ redirect_from:
 	```shell
 	wget https://drive.google.com/open?id=1cQIM2a7gNaxlE2oFdQ_O-GqgBo84fLia
 	```
-        - The dataset is split into two folders :
+	- The dataset is split into two folders :
 		- **train_dirsig** that includes synthetic images and a text file containing the labels of the training samples.
 		- **validation_wami** that includes 600 WAMI images and a text file containing the labels of the validation samples.
 
