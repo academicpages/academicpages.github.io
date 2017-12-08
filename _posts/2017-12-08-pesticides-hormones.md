@@ -1,5 +1,5 @@
 ---
-title: 'Why There Isn't More Evidence That Pesticides Disrupt Your Hormones'
+title: "Why There Isn't More Evidence That Pesticides Disrupt Your Hormones"
 date: 2017-12-08
 permalink: /posts/2017/12/pesticides-hormones/
 tags:
