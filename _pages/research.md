@@ -14,9 +14,9 @@ redirect_from:
 
 - *Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil*. **Under review**.
 
-- [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).
+- *Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data*. **Under review**.
 
-- [Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf)
+- [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).
 
 - *Does the U.S. have Healthier Democratic Values? Measuring Vote-Selling Elasticities Using a List and Conjoint Experiments*.
 
