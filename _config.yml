@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "samantha1.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "University of Arizona, Steward Observatory"
+  location         : "University of Arizona"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
