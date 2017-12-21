@@ -14,7 +14,7 @@ redirect_from:
 Profile
 =======
 
-My <b>primary subfield</b> is the political economy of development of Latin America. My <b>research</b> extends across several substantive areas, including state capacities, vote-buying and political development. I also have a strong interest in <b>political methodology</b>. In my work, I leverage observational, experimental and statistical methods (linear, non-linear, hierarchical, time-series and Bayesian econometrics), but also historical institutionalist approaches. My <b>teaching interests</b> include political economy, Latin American politics, comparative politics, epistemology, and political methodology, all at the undergraduate and graduate levels.
+My <b>primary subfield is the political economy of development of Latin America</b>. My <b>research</b> extends across several substantive areas, including state capacities, vote-buying and political development. I also have a strong interest in <b>political methodology</b>. In my work, I leverage observational, experimental and statistical methods (linear, non-linear, hierarchical, time-series and Bayesian econometrics), but also historical institutionalist approaches. My <b>teaching interests</b> include political economy, Latin American politics, comparative politics, epistemology, and political methodology, all at the undergraduate and graduate levels.
 
 
 <img src="/resources/wordcloud.png" alt="wordcloud" style="width:386px;height:330;">
@@ -32,7 +32,7 @@ Now I am on the job market looking to begin in the fall term of the 2018 academi
 Dissertation
 ============
 
-My dissertation argues that sectoral economic conflicts fostered state-building in Latin America. Using fine-grained historical case study comparisons, sectoral outputs from 1900 to the present, panel data and time-series econometric techniques, and a novel earthquake dataset (to measure state capacities), I find that industrial expansion altered the post-colonial political balance, putting heavy pressures for the implementation of tax institutions. In turn, fiscal expansion fostered both political development and economic growth.
+My dissertation argues that sectoral economic conflicts fostered state-building in Latin America. Using fine-grained historical case study comparisons, sectoral outputs from 1900 to the present, panel data and time-series econometric techniques, and a novel earthquake dataset (to measure state capacities), I find that industrial expansion altered the post-colonial political balance, putting heavy pressures for the implementation of tax institutions. In turn, fiscal expansion fostered both political development and economic growth. In my <b>book project</b> I expand these findings.
 
 
 
