@@ -10,11 +10,11 @@ redirect_from:
 
 ## Working Papers
 
-- [Structural Transformations and State Institutions in Latin America, 1900-2010](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/abstract.txt). **Under review**.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt).
+- [Structural Transformations and State Institutions in Latin America, 1900-2010](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/status.txt). **Under review**.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt).
 
-- [Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). **Under review**.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt).
+- [Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/status.txt). **Under review**.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt).
 
-- [Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt). **Under review**.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt).
+- [Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/status.txt). **Under review**.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt).
 
 - [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt).
 
