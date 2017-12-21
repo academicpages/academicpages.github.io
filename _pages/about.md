@@ -14,10 +14,7 @@ redirect_from:
 Profile
 =======
 
-My primary subfield is the political economy of development and Latin American politics. My research extends across several substantive areas, including state building, clientelism, vote-buying and political development. I also have a strong interest in quantitative methods.
-
-
-
+My <b>primary subfield</b> is the political economy of development of Latin America. My <b>research</b> extends across several substantive areas, including state capacities, vote-buying and political development. I also have a strong interest in <b>political methodology</b>. In my work, I leverage observational, experimental and statistical methods (linear, non-linear, hierarchical, time-series and Bayesian econometrics), but also historical institutionalist approaches. My <b>teaching interests</b> include political economy, Latin American politics, comparative politics, epistemology, and political methodology, all at the undergraduate and graduate levels.
 
 
 <img src="/resources/wordcloud.png" alt="wordcloud" style="width:386px;height:330;">
