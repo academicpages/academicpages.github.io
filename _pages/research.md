@@ -18,9 +18,11 @@ redirect_from:
 
 - [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).
 
-- *Does the U.S. have Healthier Democratic Values? Measuring Vote-Selling Elasticities Using a List and Conjoint Experiments*.
+- *Broken Democratic Values and Individual Propensities of Vote-Selling: A Conjoint Experiment in the United States*.
 
 - *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau and Mona Kleinberg.
+
+- *Egalitarian Institutions, Unequal Outcomes: An Overtime Analysis of Global Inequality, States Capac- ities and Democracy*. With Mart Trasberg (Tulane).
 
 
 ## Peer-Reviewed
