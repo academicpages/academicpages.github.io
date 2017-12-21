@@ -24,12 +24,9 @@ redirect_from:
 
 - *Egalitarian Institutions, Unequal Outcomes: An Overtime Analysis of Global Inequality, States Capacities and Democracy*. With Mart Trasberg (Tulane).
 
-test:
-<object data="https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/title.txt" type="text/plain"
-width="500" style="height: 300px">
-<a href="https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/title.txt">No Support?</a>
+test3:
+<object width="300" height="300" type="text/plain" data="https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/title.txt" border="0" >
 </object>
-
 
 ## Peer-Reviewed
 
