@@ -10,7 +10,21 @@ redirect_from:
 
 ## Working Papers
 
-- *Structural Transformations and State Institutions in Latin America, 1900-2010*. **Under review**.
+- *Structural Transformations and State Institutions in Latin America, 1900-2010*. **Under review**. $.ajax({
+        async:false,
+        url: '/Users/hectorbahamonde/RU/Dissertation/Papers/IncomeTaxAdoption/title.txt',
+        dataType: 'text',
+        success: function(data)
+        {
+        $('element').append(data);
+            }
+        });
+
+
+        <object data="/Users/hectorbahamonde/RU/Dissertation/Papers/IncomeTaxAdoption/title.txtt" type="text/plain"
+width="500" style="height: 300px">
+<a href="/Users/hectorbahamonde/RU/Dissertation/Papers/IncomeTaxAdoption/title.txt">No Support?</a>
+</object>
 
 - *Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil*. **Under review**.
 
