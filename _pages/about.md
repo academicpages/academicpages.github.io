@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p class="lead"> I am a post-doctoral fellow at <span style="color:#336666"><strong>Tulane University<strong></span>'s <a href="http://cipr.tulane.edu">Center for Inter-American Policy & Research (CIPR)</a>. I received my Ph.D in political science from <span style="color:#d21034"><strong>Rutgers University <strong></span> (New Brunswick, NJ) in the spring of 2017.</p>
+<p class="lead"> I am a post-doctoral fellow at <span style="color:#336666"><b>Tulane University</b></span>'s <a href="http://cipr.tulane.edu">Center for Inter-American Policy & Research (CIPR)</a>. I received my Ph.D in political science from <span style="color:#d21034"><b>Rutgers University</b></span> (New Brunswick, NJ) in the spring of 2017.</p>
 
 
 Profile
