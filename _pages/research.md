@@ -12,13 +12,13 @@ redirect_from:
 
 - [Structural Transformations and State Institutions in Latin America, 1900-2010](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/abstract.txt). **Under review**.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt).
 
-- [Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil](http://github.com/hbahamonde/Clientelism_paper/raw/master/abstract.txt). **Under review**.  [[Abstract]](http://github.com/hbahamonde/Clientelism_paper/raw/master/abstract.txt).
+- [Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil](http://github.com/hbahamonde/Clientelism_paper/raw/master/abstract.txt). **Under review**.  [[Abstract]](http://raw.githubusercontent.com/hbahamonde/Clientelism_paper/raw/master/abstract.txt).
 
-- [Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Under review**.  [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt).
+- [Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Under review**.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt).
 
-- [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).  [[Abstract]](http://github.com/hbahamonde/IncomeTaxAdoption/raw/master/abstract.txt).
+- [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).  [[Abstract]](http://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/raw/master/abstract.txt).
 
-- [Broken Democratic Values and Individual Propensities of Vote-Selling: A Conjoint Experiment in the United States](https://github.com/hbahamonde/Vote_Selling/blob/master/abstract.txt). [[Abstract]](https://github.com/hbahamonde/Vote_Selling/blob/master/abstract.txt).
+- [Broken Democratic Values and Individual Propensities of Vote-Selling: A Conjoint Experiment in the United States](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/blob/master/abstract.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/blob/master/abstract.txt).
 
 - *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau and Mona Kleinberg.
 
