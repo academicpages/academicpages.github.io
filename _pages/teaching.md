@@ -15,10 +15,10 @@ Undergraduate
 =============
 
 
-- Comparative Politics (Tulane University, instructor, S:2018). <a href="https://github.com/hbahamonde/Comparative_Politics_UGRAD/raw/master/Bahamonde_Comparative_Politics_Syllabus_UGRAD.pdf"><i class='fa fa-github-square fa'></i></a>
+- Comparative Politics (Tulane University, instructor, S:2018). <a href="https://github.com/hbahamonde/Comparative_Politics_UGRAD/raw/master/Bahamonde_Comparative_Politics_Syllabus_UGRAD.pdf"><i class='fa fa-book fa'></i></a>
 
 
-- American Government (Rutgers University, TA, F:2014-2017). Prof. [Ross Baker](http://polisci.rutgers.edu/cb-profile/userprofile/bakerross). <a href="http://www.hectorbahamonde.com/americangovernment/"><i class='fa fa-github-square fa'></i></a>
+- American Government (Rutgers University, TA, F:2014-2017). Prof. [Ross Baker](http://polisci.rutgers.edu/cb-profile/userprofile/bakerross).
 
 
 
