@@ -10,33 +10,19 @@ redirect_from:
 
 ## Working Papers
 
-- *Structural Transformations and State Institutions in Latin America, 1900-2010*. **Under review**. $.ajax({
-        async:false,
-        url: '/Users/hectorbahamonde/RU/Dissertation/Papers/IncomeTaxAdoption/title.txt',
-        dataType: 'text',
-        success: function(data)
-        {
-        $('element').append(data);
-            }
-        });
+- [Structural Transformations and State Institutions in Latin America, 1900-2010](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/status.txt). **Under review**.  [Abstract](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt)
 
+- [Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/status.txt). **Under review**.  [Abstract](http://github.com/hbahamonde/Clientelism_paper/raw/master/abstract.txt)
 
-        <object data="/Users/hectorbahamonde/RU/Dissertation/Papers/IncomeTaxAdoption/title.txtt" type="text/plain"
-width="500" style="height: 300px">
-<a href="/Users/hectorbahamonde/RU/Dissertation/Papers/IncomeTaxAdoption/title.txt">No Support?</a>
-</object>
+- [Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data](https://github.com/hbahamonde/Earthquake_Paper/raw/master/status.txt). **Under review**.  [Abstract](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt)
 
-- *Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil*. **Under review**.
+- [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).  [Abstract](http://github.com/hbahamonde/IncomeTaxAdoption/raw/master/abstract.txt)
 
-- *Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data*. **Under review**.
-
-- [Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).
-
-- *Broken Democratic Values and Individual Propensities of Vote-Selling: A Conjoint Experiment in the United States*.
+- [Broken Democratic Values and Individual Propensities of Vote-Selling: A Conjoint Experiment in the United States](https://github.com/hbahamonde/Vote_Selling/blob/master/abstract.txt). [Abstract](https://github.com/hbahamonde/Vote_Selling/blob/master/abstract.txt)
 
 - *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau and Mona Kleinberg.
 
-- *Egalitarian Institutions, Unequal Outcomes: An Overtime Analysis of Global Inequality, States Capac- ities and Democracy*. With Mart Trasberg (Tulane).
+- *Egalitarian Institutions, Unequal Outcomes: An Overtime Analysis of Global Inequality, States Capacities and Democracy*. With Mart Trasberg (Tulane).
 
 
 ## Peer-Reviewed
