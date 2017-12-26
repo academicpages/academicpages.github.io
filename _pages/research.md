@@ -10,19 +10,20 @@ redirect_from:
 
 ## Working Papers
 
-- Structural Transformations and State Institutions in Latin America, 1900-2010. **Under review**. [[Paper]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/status.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt).
+- Structural Transformations and State Institutions in Latin America, 1900-2010. **Under review**. [[Paper]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/status.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta). 
 
-- Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil. **Under review**. [[Paper]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/status.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt).
+- Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil. **Under review**. [[Paper]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/status.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Clientelism_paper/raw/master/datasets/dat.RData).
 
-- Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data. **Under review**. [[Paper]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/status.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt).
+- Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data. **Under review**. [[Paper]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/status.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
-- Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010). [[Paper]](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt).
+- Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010). [[Paper]](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt). [[Data]](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/incometax_data.RData).
 
-- Broken Democratic Values and Individual Propensities of Vote-Selling: A Conjoint Experiment in the United States. [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt).
+- Broken Democratic Values and Individual Propensities of Vote-Selling: A Conjoint Experiment in the United States. [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
-- *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt).
+- *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
 - *Egalitarian Institutions, Unequal Outcomes: An Overtime Analysis of Global Inequality, States Capacities and Democracy*. With Mart Trasberg (Tulane).
+
 
 ## Peer-Reviewed
 
