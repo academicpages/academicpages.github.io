@@ -12,4 +12,4 @@ Soon I will be posting my original dataset on historical earthquakes, which I us
 
 2. **Vote-Selling: List and Conjoint Experimental Dataset**
 
-Soon I will be posting my original experimental dataset on vote-selling, which I use to study individual propensities of votes-selling, in its relationship with support for the democracy in the U.S. [Paper under review](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [Abstract](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt).
+Soon I will be posting my original experimental dataset on vote-selling, which I use to study individual propensities of votes-selling, in its relationship with support for the democracy in the U.S. [Paper in preparation](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [Abstract](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt).
