@@ -20,7 +20,7 @@ redirect_from:
 
 - [Broken Democratic Values and Individual Propensities of Vote-Selling: A Conjoint Experiment in the United States](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt).
 
-- *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau and Mona Kleinberg.
+- *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt).
 
 - *Egalitarian Institutions, Unequal Outcomes: An Overtime Analysis of Global Inequality, States Capacities and Democracy*. With Mart Trasberg (Tulane).
 
