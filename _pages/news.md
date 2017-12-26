@@ -12,7 +12,7 @@ redirect_from:
 
 	![positive_samples](../images/positives_vehicle_detection.jpg)
 
-- We submitted our paper on high speed object tracking to the *Winter Application of Computer Vision Conference 2018*. Some experiments on the UAV123 dataset is attached below. The experiments are carried out on an *I5, 2.7 GHz processor* in *C++* platform on a Ubuntu OS. We propose a scale adaptive-tracker that can run on average at `416 fps` on the *UAV123 dataset*.
+- We submitted our paper on high speed object tracking to the *Winter Application of Computer Vision Conference 2018*. Some experiments on the UAV123 dataset is attached below. The experiments are carried out on an *I5, 2.7 GHz processor* in *C++* platform on a Ubuntu OS. We propose a scale adaptive-tracker that can run on average at `416 fps` on the *UAV123 dataset*, that is faster than the vanilla form KCF tracker operating at 380 fps in the same platform on the *UAV123 dataset*. Such tracker can then be run on a low-end platformat real-time (30fps) unlike most of the state-of-the-art trackers.
 
 	- Uzkent, Burak, and Seo, YoungWoo "EnKCF : Ensemble of Kernelized Correlation Filters for Object Tracking in High Speed" [Abstract](../files/abstract_wacv18.pdf)
 
