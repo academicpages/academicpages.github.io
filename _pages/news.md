@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Page Archive"
-permalink: /page-archive/
+title: "News"
+permalink: /news/
 author_profile: false
 ---
 
