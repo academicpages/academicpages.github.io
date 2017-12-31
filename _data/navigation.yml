@@ -12,5 +12,5 @@ main:
   - title: "Techniques"
     url: /techniques/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
