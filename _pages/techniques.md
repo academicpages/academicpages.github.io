@@ -2,7 +2,7 @@
 layout: archive
 title: "Techniques"
 permalink: /techniques/
-author_profile: true
+author_profile: false
 ---
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
