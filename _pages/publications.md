@@ -12,6 +12,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-<p><h2><i>{{ post.date | date: '%Y' }}</i></h2></p>
   {% include archive-single.html %}
 {% endfor %}
