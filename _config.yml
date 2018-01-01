@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "<strong>Susana Rocha</strong>/ Researcher"
+title                    : "<span style="color: red">Susana Rocha</span>/ <i>Researcher</i>"
 title_separator          : "-"
 name                     : &name "Susana Rocha"
 description              : &description "enthusiastic researcher"
