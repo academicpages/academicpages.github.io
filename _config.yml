@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Susana Rocha | <i>Researcher <i>"
+title                    : "Susana Rocha @ Science"
 title_separator          : "-"
 name                     : &name "Susana Rocha"
 description              : &description "enthusiastic researcher"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Susana Rocha"
   avatar           : "profile.png"
-  bio              : "Researcher @ KU Leuven"
-  location         : "Leuven, Belgium"
+  bio              : "Researcher"
+  location         : "KU Leuven, Belgium"
   employer         :
   googlescholar    : "https://scholar.google.be/citations?user=OsiAwIYAAAAJ&hl=en&citsig=AMstHGQQx0uqfgCvrTEny2ghp98R3FtD5Q"
   email            : "susana.rocha@kuleuven.be"
@@ -229,7 +229,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: double
+      layout: splash
       author_profile: true
       share: true
       comment: true
