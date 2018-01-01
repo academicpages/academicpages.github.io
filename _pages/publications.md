@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 {% if author.googlescholar %}
@@ -12,5 +12,6 @@ author_profile: false
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+<p><h2><i>{{ post.date | date: '%Y' }}</i></h2></p>
   {% include archive-single.html %}
 {% endfor %}
