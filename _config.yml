@@ -229,7 +229,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: splash
+      layout: talk
       author_profile: true
       share: true
       comment: true
