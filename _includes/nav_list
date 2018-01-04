@@ -1,7 +1,20 @@
 {% include base_path %}
 {% assign navigation = site.data.navigation[include.nav] %}
 
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 <nav class="nav__list">
+
+<div class="author__avatar">
+  {% if author.avatar contains "://" %}
+    <img src="{{ author.avatar }}" alt="{{ author.name }}">
+  {% else %}
+    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+  {% endif %}
+</div>
+
   {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
   <ul>
     {% for nav in navigation %}

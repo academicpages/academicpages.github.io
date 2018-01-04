@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Using cutting edge microscopy we aim to understand the role of physical forces in cellular behaviour.
+Using cutting edge microscopy to understand the role of physical forces in cellular behaviour.
+<br>
+<br>
+<img src='/images/microscope-funny.jpg'>
