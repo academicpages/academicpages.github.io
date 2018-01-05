@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ethan Gates"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ethan Gates"
+description              : &description "Audiovisual Archivist"
+url                      : https://eg-tech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "EG-tech/eg-tech.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ethan Gates"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Audiovisual archivist, writer, technician, teacher (in some order)"
+  location         : "Brooklyn, NY"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    :
+  email            : "ethan.gates@nyu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,24 +92,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "EG-tech"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
+  mastodon         : "octodon.social/@The_BFOOL"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "The_BFOOL"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  wordpress        : "patchbaytech.wordpress.com"
 
 
 # Reading Files
@@ -169,7 +171,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  workshops:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -203,10 +205,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _workshops
   - scope:
       path: ""
-      type: teaching
+      type: workshops
     values:
       layout: single
       author_profile: true
