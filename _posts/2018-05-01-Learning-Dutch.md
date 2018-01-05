@@ -19,6 +19,12 @@ comments: true
 
 It was nearly a year ago when I decided to learn Dutch or <q>Nederlands</q>, a term<sup>1</sup> Dutch people use to refer to their own language. My efforts to learn Dutch was not concerted at all and I only did it in my spare time and most often whenever I travel to Holland. At the moment I would describe my Dutch efficiency as modest. I can read easier parts of newspaper articles columns, speak at the basic level and write some of weird Dutch words without mistakes. In my opinion, one of the difficulties to learn the language by yourself is to find approporiate learning resources, and in this post I am going to introduce some of resources I have found useful. Hopefully, there will be some Dutch learners and others who find this article interesting and helpful. I divide the list of resources into three categories: beginner, intermediate, and more challenging. 
 
+Before getting introducing categories, I must mention few good online dictionaries you may like to consistently use. Google Translate is an application that I frequently use. It has many downsides particularly when it comes to Dutch expresssions and proverbs and does not offer examples. I suggest that it should be used together with either of following free online dictionaries: 
+
+* [en.bab.la](https://en.bab.la/dictionary/dutch-english/)
+* [nl.glosbe](https://nl.glosbe.com/nl/en/)
+
+I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?q=Wolters+Woordenboek+Nederlands-Engels) hard-copy dictionary. I like its completeness of entries and relevant examples.  
 
 
 ## For beginners
