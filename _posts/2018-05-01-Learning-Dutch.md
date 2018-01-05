@@ -23,7 +23,7 @@ It was nearly a year ago when I decided to learn Dutch or <q>Nederlands</q>, a t
 
 ## For beginners
 
-* Duo lingo 
+* **Duo lingo** 
 *
 
 
@@ -31,9 +31,9 @@ It was nearly a year ago when I decided to learn Dutch or <q>Nederlands</q>, a t
 
 ## Intermediate Stuff
 
-* De Canon van Nederland
+* **De Canon van Nederland**
 is a list of fifty topics that aims to provide a chronological summary of Dutch history to be taught in primary schools and the first two years of secondary school in the Netherlands. It was designed to provide an overview of "what everyone ought to know, at the very least, about the history and culture of the Netherlands", as well as providing a framework for the teaching of History in Dutch schools.
-Check out the website [entoen.nu](https://www.entoen.nu/) which hosts the canon material for use in schools and in society in general. 
+Check out the very cool website [entoen.nu](https://www.entoen.nu/) which hosts the canon material for use in schools and in society in general. You can create your own account and customize your learning chronological map according to your taste. 
 
 
 
