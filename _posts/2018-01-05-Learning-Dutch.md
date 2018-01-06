@@ -23,7 +23,7 @@ comments: true
 
 ## A bit of context 
 
-It was nearly a year ago when I decided to learn Dutch or Nederlands<sup>2</sup>, a term Dutch use to refer to their own language. My efforts to learn Dutch was not concerted at all and I only did it in my spare time and most often whenever I travel to Holland. At the moment I would describe my Dutch efficiency as modest. I can read easier parts of newspaper articles columns, speak at the basic level and write some of weird Dutch words without mistakes. In my opinion, one of the difficulties to learn the language by yourself is to find approporiate learning resources, and in this post I am going to introduce some of resources I have found useful. Hopefully, there will be some Dutch learners and others who find this article interesting and helpful. I divide the list of resources into three categories: beginner, intermediate, and more challenging. 
+It was nearly a year ago when I decided to learn Dutch or Nederlands<sup>2</sup>, a term Dutch use to refer to their own language. My efforts to learn Dutch was not concerted at all and I only did it in my spare time and most often whenever I travel to Holland. At the moment I would describe my Dutch efficiency as modest. I can read easier parts of newspaper articles and columns, speak at a basic level and write some of weird Dutch words without a mistake. In my opinion, one of the difficulties to learn the language by yourself is to find approporiate and interesting learning resources you can stick too. In this post I am going to introduce some of resources I have found useful so far. Hopefully, there will be some Dutch learners and others who find this article interesting and helpful. I divide the list of resources into three categories: beginner, intermediate, and more challenging. 
 
 I should also mention few good online dictionaries you may like to consistently use. Google Translate is an application that I frequently use. It has many downsides particularly when it comes to Dutch expresssions and proverbs and does not offer examples. It can best be used in tandem with either of following freely accessible online dictionaries: 
 
@@ -80,9 +80,7 @@ If that is too much for you, just buy a pack of [Het Spreekwoorden spel](https:/
 
 -------------------------------------------------------
 1. Description: De stenen brug. Landschap met een stenen brug over een rivier of vaart. Op het water bevinden zich twee bootjes met figuren. Op de weg lopen verschillende personen, links een wagen. In het midden een hooischuur tussen bomen, rechts in de verte een kerktoren. More at [rijksmuseum.nl](https://www.rijksmuseum.nl/en/collection/SK-A-1935). 
-{: .notice}
---------------------------------------------------------
---------------------------------------------------------
+
 2. Nether means _situated down or below_ and _lower_, and the word Nederland literally refers to [the Low Countries](https://en.wikipedia.org/wiki/Low_Countries). For instance, kan je nederlands spreken?.  <q>Koninkrijk der Nederlanden</q> (Kingdom of the Netherlands) is used officially to refer to Dutch Kingdom, and Nederland (singular) is used for the modern nation. 
 {: .notice}
 ---------------------------------------------------------
