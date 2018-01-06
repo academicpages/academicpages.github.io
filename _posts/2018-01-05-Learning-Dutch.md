@@ -1,6 +1,6 @@
 ---
 title: 'Learning Dutch'
-date: 2018-05-01
+date: 2018-01-05
 comments: true
 tags:
   - Foreign language  
@@ -31,7 +31,7 @@ I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?
 
 * **[Duolingo](https://www.duolingo.com/):** Well, you've probably have heard of it already. Dutch lessons are well-prepared and they are great for absolute beginners. Remember that in addition to exercise lessons on your phone app, there are concise grammar tips for every lesson which are accessible via Duolingo website. Here is an exmaple from the first lesson:     
 <figure>
-<br/><img src='/images/posts/Jan17/Duo-Dutch-pronouns.png'>
+<br/><img src='/images/posts/Jan18/Duo-Dutch-pronouns.png'>
 <FIGCAPTION>Dutch pronouns</FIGCAPTION>
 </figure>
 
