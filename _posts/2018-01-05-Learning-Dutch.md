@@ -9,7 +9,7 @@ tags:
   - Spinoza
   - Geschiedenis.nl
   - Spreekwoorden
-permalink: /posts/2018/05/Learning-Dutch/  
+permalink: /posts/2018/01/Learning-Dutch/  
 thumbnail: 
 comments: true
 ---
