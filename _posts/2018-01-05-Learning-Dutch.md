@@ -9,6 +9,7 @@ tags:
   - Spinoza
   - Geschiedenis.nl
   - Spreekwoorden
+  - Stuff Dutch people like
 permalink: /posts/2018/01/Learning-Dutch/  
 thumbnail: 
 comments: true
@@ -38,7 +39,7 @@ I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?
 
 * **Donald Duck Junior** is arguably one of the most popular comic strip magazines (stripverhal) in Holland and beyond, with comics from Walt Disney characters . Check out [Donald Duck Junior website](https://www.donaldduck.nl/donald-duck-junior).  
 
-* **Stuff Dutch people like**: Learning a language is not just about words and grammar. Here is a somewhat accurate [list](https://stuffdutchpeoplelike.com/complete-list/) of things Dutch people in general like. "Hagelslag", "Scheduling agenda appointments", "Zwarte Piet", "Swearing with diseases", etc are noticeable. Treat it as an index of Dutch_ness_.   
+* **Stuff Dutch people like**: Learning a language is not just about words and grammar. Here is a somewhat accurate [list](https://stuffdutchpeoplelike.com/complete-list/) of things Dutch people in general like. "Hagelslag", "Scheduling agenda appointments", "Zwarte Piet", "Swearing with diseases", etc are noticeable. Treat it as an index of Dutch*ness*.   
 
 * **Some Dutch expressions and idioms**: [Here](https://stuffdutchpeoplelike.com/2016/03/08/funny-dutch-expressions/) is a list of few easy-to-remember and funny Dutch expressions you might like to learn. 
 
@@ -55,7 +56,7 @@ Check out the very cool website [entoen.nu](https://www.entoen.nu/) which hosts 
 
 * **Children's books** 
 Some children books have helped me my learning process to be faster and more interesting. Here are few of them
- * [Meneer Blijleven](https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/) which is a Dutch translation of J.R.R.Tolkein's picture book [Mr.Bliss](https://wiki2.org/en/Mr._Bliss). The cool part is that the book includes Tolkein's story with his own handwriting and illustrations on even pages and nice Dutch translation on odd pages which makes reading the book in Dutch much easier for learners of the language. Another edition of the book with a Dutch review is available at [boekreviews.nl](http://www.boekreviews.nl/recensies/meneer-blijleven). 
+ * [Meneer Blijleven](https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/) which is a Dutch translation of J.R.R.Tolkien's picture book [Mr.Bliss](https://wiki2.org/en/Mr._Bliss). The cool part is that the book includes Tolkien's story with his own handwriting and illustrations on even pages and nice Dutch translation on odd pages which makes reading the book in Dutch much easier for learners of the language. Another edition of the book with a Dutch review is available at [boekreviews.nl](http://www.boekreviews.nl/recensies/meneer-blijleven). 
  Here is my plea to you: please share with me if you know any books of this style. 
 <figure>
 <br/><img src='/images/posts/Jan18/meneerblijleven.jpg'>
