@@ -16,10 +16,8 @@ thumbnail: Rembrandt-StoneBridge.jpg
 comments: true
 ---
 
-<figure>
-<br/><img src='/images/posts/Jan18/Rembrandt-StoneBridge.jpg'>
-<FIGCAPTION>[Landscape with a Stone Bridge, Rembrandt van Rijn, c. 1638](https://www.rijksmuseum.nl/en/collection/SK-A-1935)</FIGCAPTION>
-</figure>
+
+{% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="[Landscape with a Stone Bridge, Rembrandt van Rijn, c. 1638](https://www.rijksmuseum.nl/en/collection/SK-A-1935)" %}
 
 
 
