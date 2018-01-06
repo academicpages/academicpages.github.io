@@ -18,7 +18,7 @@ comments: true
 
 ## A bit of context 
 
-It was nearly a year ago when I decided to learn Dutch or <q>Nederlands</q>, a term<sup>1</sup> Dutch people use to refer to their own language. My efforts to learn Dutch was not concerted at all and I only did it in my spare time and most often whenever I travel to Holland. At the moment I would describe my Dutch efficiency as modest. I can read easier parts of newspaper articles columns, speak at the basic level and write some of weird Dutch words without mistakes. In my opinion, one of the difficulties to learn the language by yourself is to find approporiate learning resources, and in this post I am going to introduce some of resources I have found useful. Hopefully, there will be some Dutch learners and others who find this article interesting and helpful. I divide the list of resources into three categories: beginner, intermediate, and more challenging. 
+It was nearly a year ago when I decided to learn Dutch or Nederlands<sup>1</sup>, a term Dutch use to refer to their own language. My efforts to learn Dutch was not concerted at all and I only did it in my spare time and most often whenever I travel to Holland. At the moment I would describe my Dutch efficiency as modest. I can read easier parts of newspaper articles columns, speak at the basic level and write some of weird Dutch words without mistakes. In my opinion, one of the difficulties to learn the language by yourself is to find approporiate learning resources, and in this post I am going to introduce some of resources I have found useful. Hopefully, there will be some Dutch learners and others who find this article interesting and helpful. I divide the list of resources into three categories: beginner, intermediate, and more challenging. 
 
 I should also mention few good online dictionaries you may like to consistently use. Google Translate is an application that I frequently use. It has many downsides particularly when it comes to Dutch expresssions and proverbs and does not offer examples. It can best be used in tandem with either of following freely accessible online dictionaries: 
 
@@ -63,12 +63,11 @@ Some children books have helped me my learning process to be faster and more int
 <FIGCAPTION></FIGCAPTION>
 </figure>
  
+ * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon_Tellegen#Bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
 
 ## More Challenging
 
-* **Geschiedenis.nl** is website with historical and cultural articles for the interest of broad public. Moreover, Geschiedenis.nl advise, lead, and holds lectures on projects in the fields of history and culture. 
-
-
+* **Geschiedenis.nl** is website with historical and cultural articles for the interest of broad public. Moreover, Geschiedenis.nl advise, leads, and holds lectures on projects in the fields of history and culture. 
 
 
 
