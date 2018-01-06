@@ -32,11 +32,13 @@ I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?
 * **[Duolingo](https://www.duolingo.com/):** Well, you've probably have heard of it already. Dutch lessons are well-prepared and they are great for absolute beginners. Remember that in addition to exercise lessons on your phone app, there are concise grammar tips for every lesson which are accessible via Duolingo website. Here is an exmaple from the first lesson:     
 <figure>
 <br/><img src='/images/posts/Jan18/Duo-Dutch-pronouns.png'>
-<FIGCAPTION>Dutch pronouns</FIGCAPTION>
+<FIGCAPTION></FIGCAPTION>
 </figure>
 
 
-* **Donald Duck Junior** is arguably one of the most popular comic strip magazines with comics from Walt Disney characters in Holland and beyond. Check out [Donald Duck Junior website](https://www.donaldduck.nl/donald-duck-junior).  
+* **Donald Duck Junior** is arguably one of the most popular comic strip magazines (stripverhal) in Holland and beyond, with comics from Walt Disney characters . Check out [Donald Duck Junior website](https://www.donaldduck.nl/donald-duck-junior).  
+
+* **[Stuff Dutch people like](https://stuffdutchpeoplelike.com/complete-list/)** Learning a language is not just about words and grammar. Here is a somewhat accurate list of things Dutch people in general like. "Hagelslag", "Scheduling agenda appointments", "Zwarte Piet", "Swearing with diseases", etc are noticeable. Treat it as an index of Dutch_ness_.   
 
 
 
@@ -49,6 +51,7 @@ Check out the very cool website [entoen.nu](https://www.entoen.nu/) which hosts 
 
 * **Donald Duck** is a more serious version of Donald Duck Junior and yes it is read avidly by adults as well as young childrend and teenagers. Compared to Donald Duck Junior the stories are way longer and more interesting and range of vocubalaries vastly greater. I like them a lot and I have a stack of them at home. Here is the website: [donaldduck.nl/](https://www.donaldduck.nl/) 
 
+* **
 
 ## More Challenging
 
