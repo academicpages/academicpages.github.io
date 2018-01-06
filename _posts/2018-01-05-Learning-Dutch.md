@@ -12,12 +12,12 @@ tags:
   - Stuff Dutch people like
   - Donald Duck
 permalink: /posts/2018/01/Learning-Dutch/  
-thumbnail: Rambrandt-StoneBridge.jpg
+thumbnail: Rembrandt-StoneBridge.jpg
 comments: true
 ---
 
 <figure>
-<br/><img src='/images/posts/Jan18/Rambrandt-StoneBridge.jpg'>
+<br/><img src='/images/posts/Jan18/Rembrandt-StoneBridge.jpg'>
 <FIGCAPTION>[Landscape with a Stone Bridge, Rembrandt van Rijn, c. 1638](https://www.rijksmuseum.nl/en/collection/SK-A-1935)</FIGCAPTION>
 </figure>
 
