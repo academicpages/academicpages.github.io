@@ -9,6 +9,7 @@ tags:
 permalink: /posts/2017/07/Peter-Sloterdijk-on-Globes/  
 comments: true
 thumbnail: Aerocene-de-Thomas-Saraceno.jpg
+excerpt: "Space as space of immunity"
 ---
 
 
