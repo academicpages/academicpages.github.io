@@ -69,10 +69,8 @@ Some children books have helped my learning process to be fun, faster and more i
   * **[Meneer Blijleven](https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/)** which is a Dutch translation of J.R.R.Tolkien's picture book [Mr.Bliss](https://wiki2.org/en/Mr._Bliss). The cool part is that the book includes Tolkien's story with his own handwriting and illustrations on even pages and nice Dutch translation on odd pages which makes reading the book in Dutch much easier for learners of the language. Another edition of the book with a Dutch review is available at [boekreviews.nl](http://www.boekreviews.nl/recensies/meneer-blijleven). 
  Here is my plea to you: please share with me if you know any books of this style. 
 
-<figure>
- <a href="https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/">  
+<figure>  
  <br/><img src='/images/posts/Jan18/meneerblijleven.jpg'>
- </a>   
 </figure>
 
 
