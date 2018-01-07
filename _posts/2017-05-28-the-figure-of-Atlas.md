@@ -7,7 +7,6 @@ tags:
   - Argo
   - Sloterdijk
 permalink: /posts/2017/05/the-figure-of-Atlas/  
-thumbnail:
 ---
 
 
