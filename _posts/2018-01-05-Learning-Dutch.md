@@ -16,9 +16,7 @@ comments: true
 excerpt: "If you already speak English then Dutch is one of easier languages you can begin to learn. But, where to start?"
 thumbnail: Rembrandt-StoneBridge.jpg
 ---
-<!--
-thumbnail: Rembrandt-StoneBridge.jpg
--->
+
 
 {% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638" link="https://www.rijksmuseum.nl/en/collection/SK-A-1935" %}
 
@@ -70,18 +68,15 @@ Some children books have helped my learning process to be fun, faster and more i
 
   * **[Meneer Blijleven](https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/)** which is a Dutch translation of J.R.R.Tolkien's picture book [Mr.Bliss](https://wiki2.org/en/Mr._Bliss). The cool part is that the book includes Tolkien's story with his own handwriting and illustrations on even pages and nice Dutch translation on odd pages which makes reading the book in Dutch much easier for learners of the language. Another edition of the book with a Dutch review is available at [boekreviews.nl](http://www.boekreviews.nl/recensies/meneer-blijleven). 
  Here is my plea to you: please share with me if you know any books of this style. 
+<!--
 <figure> 
  <a href="https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/">  
   <br/><img src='/images/posts/Jan18/meneerblijleven.jpg' align="middle">
  </a>   
 <FIGCAPTION></FIGCAPTION>
 </figure>
-
-<!--
-<div class="thumbnail">
-  <img src="{{ site.baseurl }}/images/Hydra-Crater.jpg" alt="Crater" >	
-</div>    
 -->
+{% include image.html url="/images/posts/Jan18/meneerblijleven.jpg" description="Meneer Blijleven" link="https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/" %}
 
 
 
