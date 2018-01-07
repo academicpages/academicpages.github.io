@@ -14,8 +14,14 @@ excerpt: "A tale of two lives: a man of politics, a man of academia"
 <div class="thumbnail">	<img src="{{ site.baseurl }}/images/Dahrendorf-World-Economic-Forum.jpg" alt="World-economics-forum" >	</div>
 -->
 
+<!--
 {% include image.html url="/images/Dahrendorf-World-Economic-Forum.jpg" description="World Economic Forum" %}
+-->
 
+<figure>  
+<br/><img src='/images/Dahrendorf-World-Economic-Forum.jpg'>
+<FIGCAPTION>Ralf Dahrendord and Dutch Prime Minister Joop den Uyl in World Economic Forum</FIGCAPTION>
+</figure>
 
 
 
