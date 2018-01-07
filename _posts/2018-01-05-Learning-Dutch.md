@@ -79,7 +79,7 @@ Some children books have helped me my learning process to be faster and more int
 * **Encyclopedia of Dutch expressions, idioms, and proverbs**: Find them at [spreekwoorden.nl](https://spreekwoorden.nl/).
 If that is too much for you, just buy a pack of [Het Spreekwoorden spel](https://www.trendyspeelgoed.nl/Het-Spreekwoorden-spel.html) to play! 
 
-* **Kranten (Newspapers)** Among different Dutch newspapers and newssites, I recommend [Trouw](https://www.trouw.nl/). It is thorough in their news coverage, and has interesting society and culture, history, religion and philosophy, and green life columns. They also publsih review of books as well as interviews with book authors and other important figures. A more mainstream option is [NRC Handelsblad](https://www.nrc.nl/). 
+* **Kranten (Newspapers)**: Among different Dutch newspapers and news sites, I recommend [Trouw](https://www.trouw.nl/). It is thorough in their news coverage, and has interesting society and culture, history, religion and philosophy, and green life columns. They also publsih review of books as well as interviews with book authors and other important figures. A more mainstream option is [NRC Handelsblad](https://www.nrc.nl/). 
 
 
 
