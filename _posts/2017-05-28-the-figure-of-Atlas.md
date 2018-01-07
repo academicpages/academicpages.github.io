@@ -8,15 +8,15 @@ tags:
   - Sloterdijk
 permalink: /posts/2017/05/the-figure-of-Atlas/  
 ---
-
-
-{% include image.html url="/images/atlas.jpg" description="Atlas" %}
-
 <!--
 <div class="thumbnail">	
   <img src="{{ site.baseurl }}/images/atlas.jpg" alt="Atlas" >	
 </div>
 -->
+
+{% include image.html url="/images/atlas.jpg" description="Atlas" %}
+
+
 
 ## The first glance 
 
