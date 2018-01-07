@@ -11,7 +11,9 @@ thumbnail: atlas.jpg
 ---
 
 
-<div class="thumbnail">	<img src="{{ site.baseurl }}/images/atlas.jpg" alt="Atlas" >	</div>
+<div class="thumbnail">	
+  <img src="{{ site.baseurl }}/images/atlas.jpg" alt="Atlas" >	
+</div>
 
 
 ## The first glance 
@@ -51,7 +53,9 @@ More on details of the picture, Sloterdijk writes:
 > The ship is flanked on the right by centaurs, above whom Hydra and [Crater][6] can be recognized; one the left, it is flanked by the figure of Canis Major. With each of these pictures, there is connected a micro-universe of tales, thanks to which the events of the world are inscribed amongst the images of scenic movement. If the sphaira as perfected figure readies the philosophical subduing of of beings in a single sublime silhouette, the inscription of the constellations bears the witness to the memory of primal dramas of life in their prototypical sequence. Aby Warburg has celebrated the constellated celestial globe as the true manifestation of Greek genius-as the human synthesis of mathematics and poetry. 
 
 
-<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Hydra-Crater.jpg" alt="Crater" >	</div>
+<div class="thumbnail">
+  <img src="{{ site.baseurl }}/images/Hydra-Crater.jpg" alt="Crater" >	
+</div>
 
 
 
