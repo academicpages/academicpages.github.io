@@ -11,10 +11,13 @@ thumbnail: atlas.jpg
 ---
 
 
+{% include image.html url="/images/atlas.jpg" description="Atlas" %}
+
+<!--
 <div class="thumbnail">	
   <img src="{{ site.baseurl }}/images/atlas.jpg" alt="Atlas" >	
 </div>
-
+-->
 
 ## The first glance 
 
