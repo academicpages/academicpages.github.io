@@ -70,7 +70,7 @@ Some children books have helped me my learning process to be faster and more int
  
  * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon Tellegen bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
  
- * **[FILOSOFIE IN BEELD](https://www.boekencentrum.nl/filosofie-in-beeld)** is an illustrated journey through the history of Western philosophy by Margreet de Heer. It is fun to read, and pictures help a lot to understand the contexts and sentences even if you do not understand every Dutch word in the text. Other books by the same author: [RELIGIE IN BEELD](https://www.boekencentrum.nl/religie-in-beeld), [WETENSCHAPPEN IN BEELD](https://www.boekencentrum.nl/wetenschappen-in-beeld), and [WERELDHEERSCHAPPIJ IN BEELD](https://www.boekencentrum.nl/wereldheerschappij-in-beeld) 
+ * **[Filosofie In Beeld](https://www.boekencentrum.nl/filosofie-in-beeld)** is an illustrated journey through the history of Western philosophy by Margreet de Heer. It is fun to read, and pictures help a lot to understand the contexts and sentences even if you do not understand every Dutch word in the text. Other books by the same author: [Religie In Beeeld](https://www.boekencentrum.nl/religie-in-beeld), [Wetenschappen In Beeld](https://www.boekencentrum.nl/wetenschappen-in-beeld), and [Wereldschappij In Beeld](https://www.boekencentrum.nl/wereldheerschappij-in-beeld) 
 
 ## More Challenging
 
