@@ -69,11 +69,18 @@ Some children books have helped my learning process to be fun, faster and more i
  Here is my plea to you: please share with me if you know any books of this style. 
 <figure> 
  <a href="https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/">  
-  <br/><img src='/images/posts/Jan18/meneerblijleven.jpg'>
+  <br/><img src='/images/posts/Jan18/meneerblijleven.jpg' align="middle">
  </a>   
 <FIGCAPTION></FIGCAPTION>
 </figure>
-    
+
+<!--
+<div class="thumbnail">
+  <img src="{{ site.baseurl }}/images/Hydra-Crater.jpg" alt="Crater" >	
+</div>    
+-->
+
+
 
   * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon Tellegen bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
  
