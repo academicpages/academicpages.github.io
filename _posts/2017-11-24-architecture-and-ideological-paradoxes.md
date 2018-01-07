@@ -9,7 +9,6 @@ tags:
   - Slavoj Zizek
 permalink: /posts/2017/11/architecture-and-ideological-paradoxes/  
 comments: true
-thumbnail: Stalinist-wedding-cake.jpg
 ---
 
 
