@@ -12,7 +12,6 @@ tags:
   - Stuff Dutch people like
   - Donald Duck
 permalink: /posts/2018/01/Learning-Dutch/  
-
 comments: true
 ---
 <!--
