@@ -9,7 +9,7 @@ tags:
 permalink: /posts/2017/05/how-to-think-about-liberty/  
 thumbnail: Freiheit.jpg
 comments: true
-excerpt: "Isiah Berlin in his famous essay Two Concepts Of Liberty contrasted two notions of liberty: positive and negative. Are there other forms of liberty outside of this dichotomy?"
+excerpt: "Isiah Berlin in his famous essay Two Concepts Of Liberty contrasted two notions of liberty: positive and negative. What are they and are there other forms of liberty in the 21st century social and political subjects outside of this dichotomy?"
 ---
 
 
