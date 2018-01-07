@@ -12,8 +12,6 @@ comments: true
 ---
 
 
-
-
 {% include image.html url="/images/posts/nov17/Stalinist-wedding-cake.jpg" description="The Kotelnicheskaya Embankment Building" %}
 
 
