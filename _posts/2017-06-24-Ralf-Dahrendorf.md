@@ -11,7 +11,7 @@ permalink: /posts/2017/06/Ralf-Dahrendorf/
 thumbnail: Dahrendorf-World-Economic-Forum.jpg
 ---
 
-{% include image.html url="/images/Dahrendorf-World-Economic-Forum.jpg" description="At The World Economics Forum" %}
+{% include image.html url="/images/Dahrendorf-World-Economic-Forum.jpg" description="World Economic Forum" %}
 
 <!--
 <div class="thumbnail">	<img src="{{ site.baseurl }}/images/Dahrendorf-World-Economic-Forum.jpg" alt="World-economics-forum" >	</div>
