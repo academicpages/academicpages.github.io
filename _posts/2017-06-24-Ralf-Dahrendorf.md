@@ -8,6 +8,7 @@ tags:
   - Pumpkapitalismus
   - World War II
 permalink: /posts/2017/06/Ralf-Dahrendorf/  
+excerpt: "A tale of two lives: a man of politics, a man of academia"
 ---
 <!--
 <div class="thumbnail">	<img src="{{ site.baseurl }}/images/Dahrendorf-World-Economic-Forum.jpg" alt="World-economics-forum" >	</div>
