@@ -36,8 +36,11 @@ I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?
 ## For beginners
 
 * **[Duolingo](https://www.duolingo.com/):** Well, you've probably heard of it already. Duo's Dutch lessons are well-prepared and they are great for absolute beginners. Remember that in addition to exercise lessons on your phone app, there are concise grammar tips for every lesson which are accessible via Duolingo website. Here is an exmaple from the first lesson:     
+
 <figure>
+<a href="https://www.duolingo.com/">  
 <br/><img src='/images/posts/Jan18/Duo-Dutch-pronouns.png'>
+</a> 
 <FIGCAPTION></FIGCAPTION>
 </figure>
 
