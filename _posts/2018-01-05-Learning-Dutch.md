@@ -17,7 +17,7 @@ comments: true
 ---
 
 
-{% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" href="/posts/2018/01/Learning-Dutch/" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638" %}
+{% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638" %}
 
 
 
