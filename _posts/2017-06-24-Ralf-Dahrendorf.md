@@ -9,12 +9,13 @@ tags:
   - World War II
 permalink: /posts/2017/06/Ralf-Dahrendorf/  
 ---
-
-{% include image.html url="/images/Dahrendorf-World-Economic-Forum.jpg" description="World Economic Forum" %}
-
 <!--
 <div class="thumbnail">	<img src="{{ site.baseurl }}/images/Dahrendorf-World-Economic-Forum.jpg" alt="World-economics-forum" >	</div>
 -->
+
+{% include image.html url="/images/Dahrendorf-World-Economic-Forum.jpg" description="World Economic Forum" %}
+
+
 
 
 I was introduced to _Ralf Dahrendorf_ in a paper entitled [The Politics of Public Debt][1] by [Wolfgang Streeck][2], a prominent contemporary German economic sociologist. In that paper, he cites Dahrendorf's essay [Vom Sparkapitalismus zum Pumpkapitalismus][3] whereby he credits him for coining the term "Pumpkapitalismus". Here is the pertinent excerpt: 
