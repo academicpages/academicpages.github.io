@@ -71,7 +71,7 @@ Some children books have helped my learning process to be fun, faster and more i
  
 <a href="https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/"> 
 <figure> 
- <br/><img src='/images/posts/Jan18/meneerblijleven.jpg'>
+ <img src='/images/posts/Jan18/meneerblijleven.jpg'>
 <FIGCAPTION></FIGCAPTION>
 </figure>
 </a>     
