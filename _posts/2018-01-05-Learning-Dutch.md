@@ -20,7 +20,7 @@ thumbnail: Rembrandt-StoneBridge.jpg
 thumbnail: Rembrandt-StoneBridge.jpg
 -->
 
-{% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638"  %}
+{% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638" link="https://www.rijksmuseum.nl/en/collection/SK-A-1935" %}
 
 
 
@@ -99,6 +99,7 @@ If that is too much for you, just buy a pack of [Het Spreekwoorden spel](https:/
 * **Kranten (Newspapers)**: Among different Dutch newspapers and news sites, I recommend [Trouw](https://www.trouw.nl/). It is thorough in their news coverage, and has interesting society and culture, history, religion and philosophy, and green life columns. They also publsih review of books as well as interviews with book authors and other important figures. A more mainstream option is [NRC Handelsblad](https://www.nrc.nl/). 
 
 
+* **Mathematics in Dutch**: Here is a list of mathematics (wiskunde) in Dutch. 
 
 
 -------------------------------------------------------
