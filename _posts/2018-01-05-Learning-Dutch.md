@@ -14,12 +14,13 @@ tags:
 permalink: /posts/2018/01/Learning-Dutch/  
 comments: true
 excerpt: "If you already speak English then Dutch is one of easier languages you can begin to learn. But, where to start?"
+thumbnail: Rembrandt-StoneBridge.jpg
 ---
 <!--
 thumbnail: Rembrandt-StoneBridge.jpg
 -->
 
-{% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638" %}
+{% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638"  %}
 
 
 
