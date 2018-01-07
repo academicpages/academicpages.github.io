@@ -17,8 +17,9 @@ comments: true
 ---
 
 
+<a href= "/posts/2018/01/Learning-Dutch/">
 {% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638" %}
-
+</a>
 
 
 ## A bit of context 
@@ -35,7 +36,7 @@ I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?
 
 ## For beginners
 
-* **[Duolingo](https://www.duolingo.com/):** Well, you've probably heard of it already. Duo's Dutch lessons are well-prepared and they are great for absolute beginners. Remember that in addition to exercise lessons on your phone app, there are concise grammar tips for every lesson which are accessible via Duolingo website. Here is an exmaple from the first lesson:     
+* **Duolingo**: Well, you've probably heard of it already. Duo's Dutch lessons are well-prepared and they are great for absolute beginners. Remember that in addition to exercise lessons on your phone app, there are concise grammar tips for every lesson which are accessible via Duolingo website. Here is an exmaple from the first lesson:     
 
 <figure>
 <a href="https://www.duolingo.com/">  
@@ -63,17 +64,22 @@ Check out the very cool website [entoen.nu](https://www.entoen.nu/) which hosts 
 * **Donald Duck** is a more serious version of Donald Duck Junior and yes it is read avidly by adults as well as young childrend and teenagers. Compared to Donald Duck Junior the stories are way longer and more interesting and range of vocubalaries vastly greater. I like them a lot and I have a stack of them at home. Here is the website: [donaldduck.nl/](https://www.donaldduck.nl/) 
 
 * **Children's books** 
-Some children books have helped me my learning process to be faster and more interesting. Here are few of them
- * [Meneer Blijleven](https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/) which is a Dutch translation of J.R.R.Tolkien's picture book [Mr.Bliss](https://wiki2.org/en/Mr._Bliss). The cool part is that the book includes Tolkien's story with his own handwriting and illustrations on even pages and nice Dutch translation on odd pages which makes reading the book in Dutch much easier for learners of the language. Another edition of the book with a Dutch review is available at [boekreviews.nl](http://www.boekreviews.nl/recensies/meneer-blijleven). 
+Some children books have helped my learning process to be fun, faster and more interesting. Here are few of them:
+
+  * **[Meneer Blijleven](https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/)** which is a Dutch translation of J.R.R.Tolkien's picture book [Mr.Bliss](https://wiki2.org/en/Mr._Bliss). The cool part is that the book includes Tolkien's story with his own handwriting and illustrations on even pages and nice Dutch translation on odd pages which makes reading the book in Dutch much easier for learners of the language. Another edition of the book with a Dutch review is available at [boekreviews.nl](http://www.boekreviews.nl/recensies/meneer-blijleven). 
  Here is my plea to you: please share with me if you know any books of this style. 
+
 <figure>
+ <a href="https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/">  
 <br/><img src='/images/posts/Jan18/meneerblijleven.jpg'>
+ </a>   
 <FIGCAPTION></FIGCAPTION>
 </figure>
+
+
+  * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon Tellegen bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
  
- * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon Tellegen bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
- 
- * **[Filosofie In Beeld](https://www.boekencentrum.nl/filosofie-in-beeld)** is an illustrated journey through the history of Western philosophy by Margreet de Heer. It is fun to read, and pictures help a lot to understand the contexts and sentences even if you do not understand every Dutch word in the text. Other books by the same author: [Religie In Beeeld](https://www.boekencentrum.nl/religie-in-beeld), [Wetenschappen In Beeld](https://www.boekencentrum.nl/wetenschappen-in-beeld), and [Wereldschappij In Beeld](https://www.boekencentrum.nl/wereldheerschappij-in-beeld) 
+  * **[Filosofie In Beeld](https://www.boekencentrum.nl/filosofie-in-beeld)** is an illustrated journey through the history of Western philosophy by Margreet de Heer. It is fun to read, and pictures help a lot to understand the contexts and sentences even if you do not understand every Dutch word in the text. Other books by the same author: [Religie In Beeeld](https://www.boekencentrum.nl/religie-in-beeld), [Wetenschappen In Beeld](https://www.boekencentrum.nl/wetenschappen-in-beeld), and [Wereldschappij In Beeld](https://www.boekencentrum.nl/wereldheerschappij-in-beeld) 
 
 ## More Challenging
 
