@@ -15,9 +15,14 @@ excerpt: "What does Atlas carry?"
 </div>
 -->
 
+<!--
 {% include image.html url="/images/atlas.jpg" description="Atlas" %}
+-->
 
-
+<figure>  
+<br/><img src='/images/atlas.jpg'>
+<FIGCAPTION></FIGCAPTION>
+</figure>
 
 ## The first glance 
 
