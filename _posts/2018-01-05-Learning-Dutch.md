@@ -68,7 +68,9 @@ Some children books have helped me my learning process to be faster and more int
 <FIGCAPTION></FIGCAPTION>
 </figure>
  
- * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon_Tellegen#Bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
+ * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon Tellegen bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
+ 
+ * **[FILOSOFIE IN BEELD](https://www.boekencentrum.nl/filosofie-in-beeld)** is an illustrated journey through the history of Western philosophy by Margreet de Heer. It is fun to read, and pictures help a lot to understand the contexts and sentences even if you do not understand every Dutch word in the text. Other books by the same author: [RELIGIE IN BEELD](https://www.boekencentrum.nl/religie-in-beeld), [WETENSCHAPPEN IN BEELD](https://www.boekencentrum.nl/wetenschappen-in-beeld), and [WERELDHEERSCHAPPIJ IN BEELD](https://www.boekencentrum.nl/wereldheerschappij-in-beeld) 
 
 ## More Challenging
 
@@ -76,6 +78,10 @@ Some children books have helped me my learning process to be faster and more int
 
 * **Encyclopedia of Dutch expressions, idioms, and proverbs**: Find them at [spreekwoorden.nl](https://spreekwoorden.nl/).
 If that is too much for you, just buy a pack of [Het Spreekwoorden spel](https://www.trendyspeelgoed.nl/Het-Spreekwoorden-spel.html) to play! 
+
+* **Kranten (Newspapers)** Among different Dutch newspapers and newssites, I recommend [Trouw](https://www.trouw.nl/). It is thorough in their news coverage, and has interesting society and culture, history, religion and philosophy, and green life columns. They also publsih review of books as well as interviews with book authors and other important figures. A more mainstream option is [NRC Handelsblad](https://www.nrc.nl/). 
+
+
 
 
 -------------------------------------------------------
