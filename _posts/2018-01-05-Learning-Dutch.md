@@ -36,6 +36,10 @@ I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?
 
 ## For beginners
 
+* **Dutch vocabulary: basic words** 
+  * [OCR basic vocabulary list](http://www.ocr.org.uk/Images/74540-alphabetical-vocabulary-list-for-2013-papers.pdf)
+  * [1000 most common words in Dutch](https://www.youtube.com/watch?v=k7t5HDxchqQ&list=PLUOa-qvvZolDeAYFOPqHRC9w8Nnx5cTcJ)
+
 * **Duolingo**: Well, you've probably heard of it already. Duo's Dutch lessons are well-prepared and they are great for absolute beginners. Remember that in addition to exercise lessons on your phone app, there are concise grammar tips for every lesson which are accessible via Duolingo website. Here is an exmaple from the first lesson:     
 
 <figure>
@@ -52,7 +56,9 @@ I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?
 
 * **Some Dutch expressions and idioms**: [Here](https://stuffdutchpeoplelike.com/2016/03/08/funny-dutch-expressions/) is a list of few easy-to-remember and funny Dutch expressions you might like to learn. 
 
-
+* **Dutch grammar books** 
+  * [Dutch: An Essential Grammar](https://books.google.nl/books/about/Dutch.html?id=3aU0DgAAQBAJ&redir_esc=y) by William Z. Shetter and Esther Ham 
+  * [Basic Dutch: A Grammar and Workbook](https://books.google.nl/books/about/Basic_Dutch_A_Grammar_and_Workbook.html?id=iRelBXxYRcIC&redir_esc=y) 
 
 
 ## Intermediate Stuff
@@ -63,6 +69,9 @@ Check out the very cool website [entoen.nu](https://www.entoen.nu/) which hosts 
 
 * **Donald Duck** is a more serious version of Donald Duck Junior and yes it is read avidly by adults as well as young childrend and teenagers. Compared to Donald Duck Junior the stories are way longer and more interesting and range of vocubalaries vastly greater. I like them a lot and I have a stack of them at home. Here is the website: [donaldduck.nl/](https://www.donaldduck.nl/) 
 
+* **[Intermediate Dutch: A Grammar and Workbook](https://books.google.nl/books?id=FCBp5NXeBrwC&source=gbs_book_similarbooks)** by Jenneke Oosterhoff
+
+
 * **Children's books** 
 Some children books have helped my learning process to be fun, faster and more interesting. Here are few of them:
 
@@ -72,9 +81,6 @@ Some children books have helped my learning process to be fun, faster and more i
 <figure>  
  <br/><img src='/images/posts/Jan18/meneerblijleven.jpg'>
 </figure>
-
-
-
 
   * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon Tellegen bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
  
