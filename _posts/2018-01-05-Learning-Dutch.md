@@ -58,7 +58,7 @@ I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?
 
 * **Dutch grammar books** 
   * [Dutch: An Essential Grammar](https://books.google.nl/books/about/Dutch.html?id=3aU0DgAAQBAJ&redir_esc=y) by William Z. Shetter and Esther Ham 
-  * [Basic Dutch: A Grammar and Workbook](https://books.google.nl/books/about/Basic_Dutch_A_Grammar_and_Workbook.html?id=iRelBXxYRcIC&redir_esc=y) 
+  * [Basic Dutch: A Grammar and Workbook](https://books.google.nl/books/about/Basic_Dutch_A_Grammar_and_Workbook.html?id=iRelBXxYRcIC&redir_esc=y) by Jenneke Oosterhoff
 
 
 ## Intermediate Stuff
@@ -70,7 +70,6 @@ Check out the very cool website [entoen.nu](https://www.entoen.nu/) which hosts 
 * **Donald Duck** is a more serious version of Donald Duck Junior and yes it is read avidly by adults as well as young childrend and teenagers. Compared to Donald Duck Junior the stories are way longer and more interesting and range of vocubalaries vastly greater. I like them a lot and I have a stack of them at home. Here is the website: [donaldduck.nl/](https://www.donaldduck.nl/) 
 
 * **[Intermediate Dutch: A Grammar and Workbook](https://books.google.nl/books?id=FCBp5NXeBrwC&source=gbs_book_similarbooks)** by Jenneke Oosterhoff
-
 
 * **Children's books** 
 Some children books have helped my learning process to be fun, faster and more interesting. Here are few of them:
@@ -97,6 +96,7 @@ If that is too much for you, just buy a pack of [Het Spreekwoorden spel](https:/
 
 
 * **Mathematics in Dutch**: Here is a list of mathematics (wiskunde) in Dutch. 
+ * [BASISBOEK WISKUNDE](https://staff.fnwi.uva.nl/j.vandecraats/BasisboekWiskunde2HP.pdf): an open book by Jan van de Craats en Rob Bosch
 
 
 -------------------------------------------------------
