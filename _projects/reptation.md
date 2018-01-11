@@ -1,8 +1,8 @@
 ---
 title: "Polymer reptation in 3D"
-excerpt: "What is the relation between the macroscopic properties and the microscopic structure and dynamics of ‘worm-like’ polymers? By combining quantitative microscopy, super-resolution imaging, local probe microscopywe aim to provide new insights in the dynamics of polymers."
 collection: projects
-feature: reptation_feature.png
+header:
+  teaser: reptation_feature.png
 sidebar:
   nav: "Projs"
 tags: individual project
@@ -13,7 +13,7 @@ Our current theoretical understanding of entangled polymer chain dynamics is bas
 The reptation model predicts five dynamical regimes for segment diffusion, summarized in the figure below. These regimes are as follows: (0) sub-segmental processes (“glassy dynamics”) at very short times (microseconds), (I) small motion subject only to chain connectivity, (II) “local reptation”: short-distance motion within the constraints imposed by the surrounding chains (“tube”), (III) “reptation”: diffusive motion along the curvilinear tube over distances larger than the polymer size, and (IV) free diffusion.
 
 <p>
-<img style='max-width: 50%; ' src='/images/PIC_WF.jpg'>
+<img src='/images/PIC_WF.jpg'>
 
 <br>
 While reptation theory has proven to be a powerful tool, there are significant discrepancies between its predictions and the experimental results. These differences mainly arise because the model neglects the presence of cooperative network interactions – differences in segment diffusion due to tube diameter variations and different local friction between monomer units and the matrix are ignored. While there is substantial interest in developing improved models, one of the limitations has been the difficulty in acquiring experimental data that can truly resolve the heterogeneity of polymer dynamics, preferably by avoiding ensemble averaging entirely and observing just a single chain.

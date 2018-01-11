@@ -7,9 +7,11 @@ sidebar:
   nav: "Projs"
 ---
 
-{% include base_path %}
 
-
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
+<p><i> Most of the research here presented is performed in the microscopic setups of Prof. Johan Hofkens</i></p>
+<br>
+<div class="grid__wrapper">
+  {% for post in site.projects %}
+    {% include archive-single-proj.html type="grid" %}
+  {% endfor %}
+</div>
