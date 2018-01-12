@@ -16,11 +16,10 @@ Profile
 
 My <b>primary subfield is the political economy of development of Latin America</b>. My <b>research</b> extends across several substantive areas, including state capacities, vote-buying and political development. I also have a strong interest in <b>political methodology</b>. In my work, I leverage observational, experimental and statistical methods (linear, non-linear, hierarchical, time-series and Bayesian econometrics), but also historical institutionalist approaches. My <b>teaching interests</b> include political economy, Latin American politics, comparative politics, epistemology, and political methodology, all at the undergraduate and graduate levels.
 
+<a href="http://www.hectorbahamonde.com/research/">
+<img src="/resources/wordcloud.png" alt="wordcloud of my research"  style="width:386px;height:330;;border:0;">
+</a>
 
-<img src="/resources/wordcloud.png" alt="wordcloud" style="width:386px;height:330;">
-
-
-<font face="Source Code Pro" size="1">* Actual word cloud of <a href="http://www.hectorbahamonde.com/publications/">my research</a>.</font>
 
 
 Job Market
