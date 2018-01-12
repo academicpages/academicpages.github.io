@@ -10,7 +10,6 @@ redirect_from:
 
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
-<html>
   <head>
     <title>PDF frame scrolling test</title>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
@@ -24,4 +23,3 @@ redirect_from:
       <object id="obj" data="http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf" >object can't be rendered</object>
     </div>
   </body>
-</html>
