@@ -5,6 +5,6 @@ permalink: http://www.sciencedirect.com/science/article/pii/S0305750X15002788
 excerpt: ''
 date: 2016-3-01
 venue: 'World Development'
-paperurl: 
+paperurl: http://www.sciencedirect.com/science/article/pii/S0305750X15002788
 citation: 'Masaki, Takaaki. (2016). &quot;Coups d’État and Foreign Aid.&quot; <i>World Development</i>. 79: 51-68.'
 ---
