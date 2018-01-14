@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You may download a recent [here](https://www.dropbox.com/s/hs68m38sovq7fjr/Masaki_CV.pdf?dl=0) here. 
+You may download a recent [here](https://www.dropbox.com/s/hs68m38sovq7fjr/Masaki_CV.pdf?dl=0). 
