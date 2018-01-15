@@ -29,13 +29,3 @@ redirect_from:
 
 
 - [El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009](http://www.revistacienciapolitica.cl/rcp/wp-content/uploads/2013/09/07_vol_31_2.pdf). *Revista de Ciencia Política*. 31(2), 285-310, 2010. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart.
-
----
-
-
-###### Replicability
-
-
-
-<font face="Source Code Pro" size="2"> I believe everything should be replicable and open source. When available, all my papers, data, R and LaTeX code will be available in a corresponding <a href="https://github.com/hbahamonde?tab=repositories">GitHub repository</a>
-. Presumably, using the <a href="http://yihui.name/knitr/">knitr</a> package. </font>
