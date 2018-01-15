@@ -22,7 +22,7 @@ redirect_from:
 
 - *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
-- *Egalitarian Institutions, Unequal Outcomes: An Overtime Analysis of Global Inequality, States Capacities and Democracy*. With Mart Trasberg (Tulane).
+- *Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015*. [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). With Mart Trasberg (Tulane).
 
 
 ## Peer-Reviewed
