@@ -47,3 +47,22 @@ Projs:
         url: /projects/FluoAFM/
       - title: "Imaging single HIV virions"
         url: /projects/HIV/
+
+Tech:
+  - title: Molecular Organization at the nanoscale
+    children:
+      - title: "Localization based super-resolution microscopy"
+        url: /techniques/localization/
+      - title: "SOFI: Stochastic Optical Fluctuation Imaging"
+        url: /techniques/SOFI/
+      - title: "STED: Stimulated Emission Depletion microscopy"
+        url: /techniques/STED/
+
+  - title: Molecular dynamics and protein interactions
+    children:
+      - title: "SPT: Single Particle Tracking"
+        url: /techniques/SPT/
+      - title: "RICS: Raster Imaging Correlation Spectroscopy"
+        url: /techniques/RICS/
+      - title: "FRET: Föster Energy Tranfer"
+        url: /techniques/FRET/

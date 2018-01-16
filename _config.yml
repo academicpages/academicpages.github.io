@@ -181,7 +181,10 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
-  talks:
+  techniques:
+    output: true
+    permalink: /:collection/:path/
+  maintech:
     output: true
     permalink: /:collection/:path/
 
@@ -241,6 +244,26 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+
+  # _maintech
+  - scope:
+      path: ""
+      type: maintech
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+      comment: true
+
+  # _techniques
+  - scope:
+      path: ""
+      type: techniques
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+      comment: true
 
 # Sass/SCSS
 sass:
