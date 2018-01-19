@@ -10,6 +10,8 @@ redirect_from:
 
 <p class="lead"> I am a post-doctoral fellow at <span style="color:#336666"><b>Tulane University</b></span>'s <a href="http://cipr.tulane.edu">Center for Inter-American Policy & Research (CIPR)</a>. I received my Ph.D in political science from <span style="color:#d21034"><b>Rutgers University</b></span> (New Brunswick, NJ) in the spring of 2017.</p>
 
+<p class="lead"> Since July 2018 I will be an assistant professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>, in Chile.</p>
+
 
 Profile
 =======
@@ -22,16 +24,20 @@ My <b>primary subfield is the political economy of development of Latin America<
 
 
 
+<!---
 Job Market
 ==========
 
 Now I am on the job market looking to begin in the fall term of the 2018 academic year.
+-->
 
+<!---
 
 Dissertation
 ============
 
 My dissertation argues that sectoral economic conflicts fostered state-building in Latin America. Using fine-grained historical case study comparisons, sectoral outputs from 1900 to the present, panel data and time-series econometric techniques, and a novel earthquake dataset (to measure state capacities), I find that industrial expansion altered the post-colonial political balance, putting heavy pressures for the implementation of tax institutions. In turn, fiscal expansion fostered both political development and economic growth. In my <b>book project</b> I expand these findings.
+-->
 
 
 
