@@ -10,7 +10,7 @@ redirect_from:
 
 <p class="lead"> I am a post-doctoral fellow at <span style="color:#336666"><b>Tulane University</b></span>'s <a href="http://cipr.tulane.edu">Center for Inter-American Policy & Research (CIPR)</a>. I received my Ph.D in political science from <span style="color:#d21034"><b>Rutgers University</b></span> (New Brunswick, NJ) in the spring of 2017.</p>
 
-<p class="lead"> Since July 2018 I will be an assistant professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>, in Chile.</p>
+<p class="lead"> Since July 2018 I will be an assistant professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>'s, <a href="http://www.uoh.cl">Instituto de Ciencias Sociales</a>, in Chile.</p>
 
 
 Profile
