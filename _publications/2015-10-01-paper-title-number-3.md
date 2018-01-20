@@ -9,5 +9,4 @@ venue: 'In Proceedings of the 27th ACM Conference on Hypertext and Social Media 
 paperurl: 'https://dl.acm.org/citation.cfm?id=2914613'
 ---
 
-[Download paper here](http://BhanuTejaGullapalli.github.io/files/p319-bhanu.pdf)
 
