@@ -58,6 +58,8 @@ facebook:
   username               : &facebook
   app_id                 :
   publisher              :
+linkedin:
+  username               : &linkedin
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -76,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bhanu Teja Gullapalli"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -95,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : bhanu-teja-gullapalli
   orcid            : 
   pinterest        :
   soundcloud       :
