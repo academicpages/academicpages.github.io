@@ -1,6 +1,5 @@
 ---
 title: "A new hierarchical clustering algorithm to identify non-overlapping like-minded communities
-Authors
 "
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
