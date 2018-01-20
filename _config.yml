@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Bhanu Teja Gullapalli"
   avatar           : "profile_blog.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Amherst, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en"
