@@ -54,8 +54,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               : &facebook
   app_id                 :
@@ -104,7 +102,6 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
   vine             :
   weibo            :
   xing             :
