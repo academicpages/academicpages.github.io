@@ -2,7 +2,7 @@
 title: "Teaching experience 2"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
-startdate: 2017-05-01
+startdate: 2017-May-01
 enddate: 2017-September-01
 ---
 
