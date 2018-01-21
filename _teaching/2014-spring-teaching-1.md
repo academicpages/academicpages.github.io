@@ -1,7 +1,7 @@
 ---
 title: "Growing Tree Structured Cascade"
-collection: projects
-permalink: /projects/2014-spring-teaching-1
+collection: teaching
+permalink: /teaching/2014-spring-teaching-1
 startdate: 2017-June-01
 startmonth: March
 enddate: 2017-September-01
