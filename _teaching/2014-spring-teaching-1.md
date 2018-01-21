@@ -2,7 +2,7 @@
 title: "Growing Tree Structured Cascade"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-startdate: 2017-May-01
+startdate: 2017-June-01
 enddate: 2017-September-01
 ---
 
