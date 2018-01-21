@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Teaching"
+  - title: "Projects"
     url: /teaching/    
         
   - title: "Blog Posts"
@@ -11,9 +11,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Projects"
-    url: /projects/
     
   - title: "Guide"
     url: /markdown/
