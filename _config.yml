@@ -200,10 +200,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _projects
+  # _teaching
   - scope:
       path: ""
-      type: projects
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -227,6 +227,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 
