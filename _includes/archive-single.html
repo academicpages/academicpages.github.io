@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.startdate | default: "1900-January-01" | date: "%Y %M %Y %m" }} to {{ post.enddate | default: "1900-01-01" | date: "%Y %M" }}   </p>
+          <p> <i>{{ post.startmonth }}</i> {{ post.startdate | default: "1900-January-01" | date: "%Y" }} to <i>{{ post.endmonth }}</i>  {{ post.enddate | default: "1900-01-01" | date: "%Y %M" }}   </p>
         {% elsif post.collection == 'projects' %}
           <p>project in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
