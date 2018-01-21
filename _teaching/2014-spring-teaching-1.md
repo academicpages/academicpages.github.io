@@ -2,8 +2,8 @@
 title: "Growing Tree Structured Cascade"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-startdate: 2017-05-01
-enddate: 2017-09-01
+startdate: 2017-May-01
+enddate: 2017-September-01
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
