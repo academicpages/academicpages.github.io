@@ -106,6 +106,10 @@ blockquote {
 /* links */
 
 a {
+
+  text-decoration: underline;
+  color: $text-color;
+
   &:focus {
     @extend %tab-focus;
   }
