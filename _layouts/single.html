@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+           <p> <i>{{ post.startmonth }}</i> {{ post.startdate | default: "1900-January-01" | date: "%Y" }} to <i>{{ post.endmonth }}</i>  {{ post.enddate | default: "1900-01-01" | date: "%Y" }}   </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
