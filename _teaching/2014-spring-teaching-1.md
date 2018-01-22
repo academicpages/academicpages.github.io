@@ -19,5 +19,5 @@ Given a datapoint.
 ## Heading 2
 
 hi
-## Heading 3
-hi
+## References
+[1]Paul Viola and Michael Jones. Rapid object detection using a boosted cascade of simple features. In Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer Society Conference on, volume 1, pages I–I. IEEE, 2001.
