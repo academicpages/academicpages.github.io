@@ -37,6 +37,7 @@ Most of the blog post behavior is defined in `{% include archive-single.html %}`
 - see if I can do an automatic population of publications (like in the original) but with nicer formatting    
     - I think this can be done with writing a new `_includes` html file with the formatting for the publications, similary to the `archive-single.html`
 - remove unused pages (e.g. look at how messy the sitemap is!)
+- put CV back in
 
 ## Done
 - change the format of the year-archive.html page so that titles are larger, published date is smaller   
