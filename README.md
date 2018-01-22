@@ -31,7 +31,8 @@ Most of the blog post behavior is defined in `{% include archive-single.html %}`
 
 ## TODO
 
-- migrate my wordpress posts to `_posts` (write script to do this...)   
+- fix images in blog posts, so they don't point to wordpress    
+- fix the ipython notebook blog post (Scatter plotting in...)    
 - see if I can figure out how to manually place the `Read more...` location in each blog post (i.e. change how excerpts get defined)   
 - see if I can do an automatic population of publications (like in the original) but with nicer formatting    
     - I think this can be done with writing a new `_includes` html file with the formatting for the publications, similary to the `archive-single.html`
@@ -39,6 +40,7 @@ Most of the blog post behavior is defined in `{% include archive-single.html %}`
 
 ## Done
 - change the format of the year-archive.html page so that titles are larger, published date is smaller   
+- migrate my wordpress posts to `_posts` (write script to do this...)      
 
 
 # Notes from the original repo

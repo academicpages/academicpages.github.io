@@ -5,10 +5,11 @@ permalink: /posts/2017/08/committee-meeting-slide-titles-that-make-me-feel-thing
 date: 2017-08-01
 ---
 
+<!--more-->
 
 ## "I am a rising 4th year" (Slide 2)
 
-Because let's be real my advisor can barely keep track let alone my committee! But they better keep it in mind - I'm gettin' old! lulz 
+Because let's be real my advisor can barely keep track let alone my committee! But they better keep it in mind - I'm gettin' old! lulz
 
 ## "In order to graduate, I should have demonstrated…"
 
