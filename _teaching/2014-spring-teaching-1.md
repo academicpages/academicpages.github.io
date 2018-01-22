@@ -13,8 +13,8 @@ This is a description of a teaching experience. You can use markdown like any ot
 ## Machine Learning Independent Study 123
 
 {% include image.html url="/images/linearcascade.png" caption="Linear Cascade" width=450 align="right" %}
-Heading 2
-======
+## Heading 2
 
-Heading 3
-======
+hi
+## Heading 3
+hi
