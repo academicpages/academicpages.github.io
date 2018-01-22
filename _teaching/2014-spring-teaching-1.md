@@ -8,11 +8,14 @@ enddate: 2017-September-01
 endmonth: September
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this project we describe a way to determine the optimal tree structured cascade configuration.
 
-## Machine Learning Independent Study 123
+## Cascading Architecture
 
-{% include image.html url="/images/linearcascade.png" caption="Linear Cascade" width=450 align="right" %}
+Consider a binary classification problem in which the datalabels are imbalanced ( # 0's >> #1's). Often, in these sort of problems classifying a datapoint with its correct label '1' is much harder task than classifying a datapoint correctly with label '0'. So, computationally we want to design a model which puts little effort is labelling datapoint as '0' and more effort effort in labelling datapoint as '1'. Cascading Architeture, first discussed in [1] addresses this. 
+{% include image.html url="/images/linearcascade.png" caption="Simple Cascade" width=450 align="right" %}
+Given a datapoint.
+
 ## Heading 2
 
 hi
