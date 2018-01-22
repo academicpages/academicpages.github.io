@@ -7,6 +7,7 @@ startmonth: March
 enddate: 2017-September-01
 endmonth: September
 mathjax: true
+paperurl: https://drive.google.com/file/d/0B05fyEsgAFRWRDlpeFdORGtjTFE/view?usp=sharing
 ---
 
 In this project we describe a way to determine the optimal tree structured cascade configuration.
