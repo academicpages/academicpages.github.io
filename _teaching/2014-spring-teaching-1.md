@@ -10,8 +10,8 @@ endmonth: September
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Machine Learning Independent Study 1
-======
+## Machine Learning Independent Study 1
+
 {% include image.html url="/images/linearcascade.png" caption="Linear Cascade" width=450 align="right" %}
 Heading 2
 ======
