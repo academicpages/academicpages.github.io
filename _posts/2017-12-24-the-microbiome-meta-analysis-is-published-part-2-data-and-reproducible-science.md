@@ -1,5 +1,5 @@
 ---
-title: The microbiome meta-analysis is published, Part 2: Data and reproducible science
+title: 'The microbiome meta-analysis is published, Part 2: Data and reproducible science'
 #link: https://claireduvallet.wordpress.com/2017/12/24/the-microbiome-meta-analysis-is-published-part-2-data-and-reproducible-science/
 permalink: /posts/2017/12/meta-analysis-is-published-part-2
 date: 2017-12-24

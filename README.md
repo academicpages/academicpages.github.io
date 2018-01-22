@@ -23,7 +23,7 @@ The files need to be formatted as `yyyy-mm-dd` for them to be parsed by the code
 
 The header info for each blog post needs the following:
 
-- `title`: title of the blog post. No need for single quotes   
+- `title`: title of the blog post. No need for single quotes unless there's a special character (especially a colon) in the title.   
 - `permalink`: link to the post. Note that if you also have something called `link`, then the `title` will link to whatever you put in `link` and the `Read more` will link to the `permalink`. Best to only have one link though...   
 
 The main blog page will show the first paragraph of text, and then include a `Read more...` link.

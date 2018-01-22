@@ -1,5 +1,5 @@
 ---
-title: "Bad luck" cancer
+title: '"Bad luck" cancer'
 #link: https://claireduvallet.wordpress.com/2017/03/31/bad-luck-cancer/
 permalink: /posts/2017/03/bad-luck-cancer
 date: 2017-03-31
