@@ -12,7 +12,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Machine Learning Independent Study 1
 ======
-
+{% include image.html url="/images/linearcascade.png" caption="Linear Cascade" width=450 align="right" %}
 Heading 2
 ======
 
