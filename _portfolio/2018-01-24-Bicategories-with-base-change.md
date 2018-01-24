@@ -5,7 +5,7 @@ permalink: /scribbling/2018-01-24-Bicategories-with-base-change
 collection: portfolio
 type: "scribbling"
 date: 2018-01-24
-excerpt: "Notes on weak double categories based on a Cargo Talk"
+excerpt: "Notes on framed bicategories based on a Cargo Talk"
 use_math: true
 location: "Birmingham, UK"
 ---
@@ -24,7 +24,7 @@ bi-modules along algebra maps. The idea of a bicategory with base change was fir
 Dominic Veritys PhD thesis [4]. There he uses concept of 2-categories with
 proarrow equipment which turns out to be equivalent to framed bicategories.
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="/files/CT/bicategories-with-base-change-Cargonotes.pdf" target="_blank"><font color="#336666">Notes on co-KZ-monads and fibrations </font></a>
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="/files/CT/bicategories-with-base-change-Cargonotes.pdf" target="_blank"><font color="#336666"> Notes on framed bicategories </font></a>
 
 
 
