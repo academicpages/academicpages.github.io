@@ -41,14 +41,28 @@
   }
 }
 
+.archive__item {
+  p {
+    text-indent: 0;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    margin: 0.5em 0 !important;
+  }
+}
+
 /* remove border*/
 .page__content {
+  font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
 
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
   }
+
+  h2,h3,h1,h4,h5 {
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif !important;
+  }
 }
+
 
 .archive__item-excerpt {
   margin-top: 0;
@@ -56,6 +70,8 @@
 
   & + p {
     text-indent: 0;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    margin: 0.5em 0 !important;
   }
 }
 
@@ -73,7 +89,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 

@@ -2,19 +2,29 @@
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
+    <div class="pl-section span12 offset0 pl-section-pad fix ">
+    </div>
+    <div class="pl-section span12 offset0    pl-bg-cover section-iheader">
+      <nav id="site-nav" class="nav-wrap fix classic greedy-nav">
+        <button>
+          <div class="navicon"></div>
+        </button>
+        <ul class="homebutton">
+          <li>
+            <a href="/" title="Dhananjay Ghanwat">
+
+              <i class="icon icon-home"></i>
+
+            </a>
+          </li>
+        </ul>
+        <ul id="menu-main-1" class="visible-links inline-list pl-nav sf-menu respond dd-theme-dark dd-toggle-hover sf-js-enabled sf-arrows" style="">
+            {% for link in site.data.navigation.main %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign
+              domain = base_path %} {% endif %}
+              <li class="masthead__menu-item megamenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-1603 mega-col-2">
+                <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              </li>
+              {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
