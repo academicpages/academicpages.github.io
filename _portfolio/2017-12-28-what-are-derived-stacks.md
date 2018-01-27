@@ -1,7 +1,7 @@
 ---
 title: "What Are Derived Stacks?"
 author: Sina Hazratpour
-permalink: /scribbling/2017-12-28-what-are-derived-stacks?
+permalink: /scribbling/2017-12-28-what-are-derived-stacks
 collection: portfolio
 type: "scribbling"
 date: 2017-12-28
