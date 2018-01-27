@@ -10,9 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Download CV Here: 
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Download VC here](http://samscibelli.github.io/files/scibelli_CV.pdf)
   
