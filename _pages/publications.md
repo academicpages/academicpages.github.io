@@ -10,11 +10,11 @@ redirect_from:
 
 Under Review
 ===
-1. B. Uzkent, A. Rangnekar, M.J. Hoffman, ''Tracking in Aerial Hyperspectral Videos using Deep Kernelized Correlation Filters'', In *IEEE Transactions on Geoscience and Remote Sensing*, 2017 [arxiv](https://arxiv.org/abs/1711.07235) [Code](https://github.com/buzkent86/HKCF_Tracker)
+1. B. Uzkent, A. Rangnekar, M.J. Hoffman, ''Tracking in Aerial Hyperspectral Videos using Deep Kernelized Correlation Filters'', In *IEEE Transactions on Geoscience and Remote Sensing*, 2017 [arxiv](https://arxiv.org/abs/1711.07235) [code](https://github.com/buzkent86/HKCF_Tracker)
 
 Journal Papers
 ===
-1. B. Uzkent, M. J. Hoffman, A. Vodacek, ''Integrating Hyperspectral Likelihoods in a Multi-dimensional Assignment Algorithm for Aerial Vehicle Tracking'', *IEEE Journal of Selected Topics in Remote Sensing and Observation*, 9(9): 4325--4333, May 2016. [Code](https://github.com/buzkent86/CVPRW17_Paper_Code)
+1. B. Uzkent, M. J. Hoffman, A. Vodacek, ''Integrating Hyperspectral Likelihoods in a Multi-dimensional Assignment Algorithm for Aerial Vehicle Tracking'', *IEEE Journal of Selected Topics in Remote Sensing and Observation*, 9(9): 4325--4333, May 2016. [code](https://github.com/buzkent86/CVPRW17_Paper_code)
 
 2. B. Uzkent, M. J. Hoffman, A. Vodacek, Bin Chen, ''Feature Matching with an Adaptive Optical Sensor in a Ground Target Tracking System'', *IEEE Sensors Journal*, 15(1): 510--519, January 2015.
 
@@ -30,9 +30,9 @@ Conference
 ===
 1. B. Uzkent, Y. Seo, ''*E*nKCF : Ensemble of Kernelized Correlation Filters for Object Tracking in High Speed'', In *Proceedings of the Winter Applications of Computer Vision*, 2018 (Accepted) [arxiv](https://arxiv.org/abs/1801.06729) [code](https://github.com/buzkent86/EnKCF_Tracking_WACV18)
 
-2. B. Uzkent, A. Rangnekar, M. J. Hoffman, A. Vodacek, ''Aerial Vehicle Tracking by Adaptive Fusion of Likelihood Maps'', In *Proceedings of the 13th IEEE Workshop on Perception Beyond the Visible Spectrum*, In conjunction with Computer Vision and Pattern Recognition 2017. [Code](https://github.com/buzkent86/CVPRW17_Paper_Code)
+2. B. Uzkent, A. Rangnekar, M. J. Hoffman, A. Vodacek, ''Aerial Vehicle Tracking by Adaptive Fusion of Likelihood Maps'', In *Proceedings of the 13th IEEE Workshop on Perception Beyond the Visible Spectrum*, In conjunction with Computer Vision and Pattern Recognition 2017. [code](https://github.com/buzkent86/CVPRW17_Paper_code)
 
-3. B. Uzkent, M. J. Hoffman, A. Vodacek, ''Real-time Target Detection and Tracking in Aerial Video using Hyperspectral Features," In *Proceedings of the 1st IEEE Workshop on Moving Cameras Meet Video Surveillance: From Body Cameras to Drones, In conjunction with Computer Vision and Pattern Recognition 2016*, pp. 36--44. June 2016. [Code](https://github.com/buzkent86/CVPRW17_Paper_Code)
+3. B. Uzkent, M. J. Hoffman, A. Vodacek, ''Real-time Target Detection and Tracking in Aerial Video using Hyperspectral Features," In *Proceedings of the 1st IEEE Workshop on Moving Cameras Meet Video Surveillance: From Body Cameras to Drones, In conjunction with Computer Vision and Pattern Recognition 2016*, pp. 36--44. June 2016. [code](https://github.com/buzkent86/CVPRW17_Paper_code)
         
 4. B. Uzkent, M. J. Hoffman, A. Vodacek, ''Spectral Validation of Measurements in a Vehicle Tracking DDDAS'', In *Proceedings of International Conference on Computational Science*, Volume 51, pp. 2493--2502, June 2015.
 
@@ -40,7 +40,7 @@ Conference
         
 6. B. Uzkent, M. J. Hoffman, A. Vodacek, ''Efficient Integration of Spectral Features for Vehicle Tracking utilizing an Adaptive Sensor'', In *Proceedings of the SPIE 9407, Video Surveillance and Transportation Imaging Applications*, pp. 940707--940707-10, February 2015.
     
-7. B. Uzkent, M. J. Hoffman, E. Cherry, N. Cahill, ''3-D MRI Cardiac Segmentation using Graph Cuts'', In *Proceedings of the IEEE Western NY Image Processing Workshop*, pp. 47--51, Rochester, NY, November 2014. [Code](https://github.com/buzkent86/3D_MRI_Segmentation)
+7. B. Uzkent, M. J. Hoffman, E. Cherry, N. Cahill, ''3-D MRI Cardiac Segmentation using Graph Cuts'', In *Proceedings of the IEEE Western NY Image Processing Workshop*, pp. 47--51, Rochester, NY, November 2014. [code](https://github.com/buzkent86/3D_MRI_Segmentation)
     
 8. B. Uzkent, M. J. Hoffman, A. Vodacek, J. P. Kerekes, B. Chen, ''Feature matching and adaptive prediction models in an object tracking DDDAS'', In *Procedia Computer Science*, Volume 18, pp. 1939-1948, 2013.
 
