@@ -1,7 +1,6 @@
 ---
 title: "Ioannis Paraskevakos"
 collection: people
-type: "Workshop"
 permalink: /people/iparask
 ---
 
