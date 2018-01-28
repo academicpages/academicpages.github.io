@@ -10,8 +10,7 @@ redirect_from:
 
 Under Review
 ===
-1. B. Uzkent, A. Rangnekar, M.J. Hoffman, ''Tracking in Aerial Hyperspectral Videos using Deep Kernelized Correlation Filters'', In *IEEE Transactions on Geoscience and Remote Sensing*, 2017 [Arxiv](https://arxiv.org/abs/1711.07235) [Code](https://github.com/buzkent86/HKCF_Tracker)
-
+1. B. Uzkent, A. Rangnekar, M.J. Hoffman, ''Tracking in Aerial Hyperspectral Videos using Deep Kernelized Correlation Filters'', In *IEEE Transactions on Geoscience and Remote Sensing*, 2017 [arxiv](https://arxiv.org/abs/1711.07235) [Code](https://github.com/buzkent86/HKCF_Tracker)
 
 Journal Papers
 ===
@@ -29,7 +28,7 @@ Journal Papers
 
 Conference
 ===
-1. B. Uzkent, Y. Seo, ''*E*nKCF : Ensemble of Kernelized Correlation Filters for Object Tracking in High Speed'', In *Proceedings of the Winter Applications of Computer Vision*, 2018 (Accepted)
+1. B. Uzkent, Y. Seo, ''*E*nKCF : Ensemble of Kernelized Correlation Filters for Object Tracking in High Speed'', In *Proceedings of the Winter Applications of Computer Vision*, 2018 (Accepted) [arxiv](https://arxiv.org/abs/1801.06729) [code](https://github.com/buzkent86/EnKCF_Tracking_WACV18)
 
 2. B. Uzkent, A. Rangnekar, M. J. Hoffman, A. Vodacek, ''Aerial Vehicle Tracking by Adaptive Fusion of Likelihood Maps'', In *Proceedings of the 13th IEEE Workshop on Perception Beyond the Visible Spectrum*, In conjunction with Computer Vision and Pattern Recognition 2017. [Code](https://github.com/buzkent86/CVPRW17_Paper_Code)
 
