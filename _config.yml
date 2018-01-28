@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "RADICAL"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+#name                     : &name "Your Name"
+#description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "radical-group/radicalgroup.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,38 +78,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name             : "Reasearch in Advanced Distributed Cyberinfrastructure and Applications"
+  location         : "Rutgers, the State University of New Jersey"
+  #employer         :
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  #email            :
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  #github           : "academicpages"
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #lastfm           :
+  #linkedin         :
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
+  #twitter          : "replacethistwitterhandle"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
@@ -169,7 +167,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  people:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -203,10 +201,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _people
   - scope:
       path: ""
-      type: teaching
+      type: people
     values:
       layout: single
       author_profile: true
