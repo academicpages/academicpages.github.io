@@ -28,9 +28,13 @@ redirect_from:
 	
 	- Uzkent, Burak, Aneesh Rangnekar, Matthew J. Hoffman, and Anthony Vodacek. "Aerial Vehicle Tracking by Adaptive Fusion of Hyperspectral Likelihoods Maps"
 
+        ![Tracking_Framework](../images/CVPRW17_Tracking.png)
+
 - Our [Hyperspectral Aerial Video Set](https://buzkent86.github.io/datasets/) for vehicle tracking is uploaded. Please cite the paper listed below if you use this dataset in your research. Our dataset also contains the ground truth files of the vehicles in the scene. You can download the C detection module coupled to MATLAB tracking module in this [link](https://github.com/buzkent86/CVPRW17_Paper_Code).
 
 	- Uzkent, Burak, Matthew J. Hoffman, and Anthony Vodacek. "Real-Time Vehicle Tracking in Aerial Video Using Hyperspectral Features." In *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, pp. 36-44. 2016.
+
+        ![Tracking_Framework](../images/CVPRW16_Tracking.png)
 
 - I defended my Ph.D. thesis on "Aerial Vehicle Tracking using a Multi-modal Optical Sensor" as of May 16, 2016. I would like to thank my thesis committee and my advisor Dr. Hoffman and co-adviser Dr. Vodacek for their supervision throughout my Ph.D. You can download my presentation [here](../files/Thesis.Defense.pdf)
 
