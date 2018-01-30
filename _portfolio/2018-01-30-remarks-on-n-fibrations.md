@@ -4,8 +4,8 @@ author: Sina Hazratpour
 permalink: /scribbling/2018-01-30-remarks-on-n-fibrations
 collection: portfolio
 type: "scribbling"
-date: 2017-12-28
-excerpt: "Some notes on my undertanding of derived algebraic geometry"
+date: 2018-01-30
+excerpt: "Some notes on generalization of Grothendieck fibrations to n-categories"
 use_math: true
 location: "Birmingham, UK"
 ---
