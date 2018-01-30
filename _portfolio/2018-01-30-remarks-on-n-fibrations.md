@@ -7,7 +7,7 @@ type: "scribbling"
 date: 2017-12-28
 excerpt: "Some notes on my undertanding of derived algebraic geometry"
 use_math: true
-location: "Utrecht, Netherlands"
+location: "Birmingham, UK"
 ---
 
 
