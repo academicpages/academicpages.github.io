@@ -1,0 +1,19 @@
+---
+title: "Some Remarks On n-Fibraitons"
+author: Sina Hazratpour
+permalink: /scribbling/2018-01-30-remarks-on-n-fibrations
+collection: portfolio
+type: "scribbling"
+date: 2017-12-28
+excerpt: "Some notes on my undertanding of derived algebraic geometry"
+use_math: true
+location: "Utrecht, Netherlands"
+---
+
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="/files/CT/remarks-on-n-fibrations.pdf" target="_blank"><font color="#336666">Notes on n-Fibraitons: introduction </font></a>
+
+
+
+
+
