@@ -12,7 +12,7 @@ Under Review
 ===
 1. B. Uzkent, A. Rangnekar, M.J. Hoffman, ''Tracking in Aerial Hyperspectral Videos using Deep Kernelized Correlation Filters'', In *IEEE Transactions on Geoscience and Remote Sensing*, 2017 [arxiv](https://arxiv.org/abs/1711.07235) [code](https://github.com/buzkent86/HKCF_Tracker)
 
-Journal Papers
+Peer-Reviewed Journal Papers
 ===
 1. B. Uzkent, M. J. Hoffman, A. Vodacek, ''Integrating Hyperspectral Likelihoods in a Multi-dimensional Assignment Algorithm for Aerial Vehicle Tracking'', *IEEE Journal of Selected Topics in Remote Sensing and Observation*, 9(9): 4325--4333, May 2016. [code](https://github.com/buzkent86/CVPRW17_Paper_code)
 
@@ -26,7 +26,7 @@ Journal Papers
 
 6. B. Uzkent, B.D. Barkana, J. Yang, ''Automatic environmental noise source classification model using fuzzy logic'', *Expert Systems with Applications*, 38(7): 8751--8755, July 2011
 
-Conference
+Peer-Reviewed Conference Papers
 ===
 1. B. Uzkent, Y. Seo, ''*E*nKCF : Ensemble of Kernelized Correlation Filters for Object Tracking in High Speed'', In *Proceedings of the Winter Applications of Computer Vision*, 2018 (Accepted) [arxiv](https://arxiv.org/abs/1801.06729) [code](https://github.com/buzkent86/EnKCF_Tracking_WACV18)
 
