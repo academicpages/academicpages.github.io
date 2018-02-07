@@ -76,38 +76,39 @@ analytics:
     tracking_id          :
 
 
-# Site Author
-author:
-  name             : "Reasearch in Advanced Distributed Cyberinfrastructure and Applications"
-  location         : "Rutgers, the State University of New Jersey"
-  #employer         :
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
-  #email            :
-  #uri              :
-  #bitbucket        :
-  #codepen          :
-  #dribbble         :
-  #flickr           :
-  #facebook         :
-  #foursquare       :
-  #github           : "academicpages"
-  #google_plus      :
-  #keybase          :
-  #instagram        :
-  #lastfm           :
-  #linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
-  #pinterest        :
-  #soundcloud       :
-  #stackoverflow    : # http://stackoverflow.com/users/123456/username
-  #steam            :
-  #tumblr           :
-  #twitter          : "replacethistwitterhandle"
-  #vine             :
-  #weibo            :
-  #xing             :
-  #youtube          :
-  #wikipedia        :
+# Site Authorauthor:
+  name             : #"Dr. Test Account"
+  avatar           : #"profile.png"
+  bio              : #"Research scientist at Test University, expert in all things test and account related"
+  location         : #"Test, California"
+  employer         : 
+  googlescholar    : #"http://scholar.google.com/this-is-a-test"
+  email            : 
+  uri              : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
+  github           : "radical-cybertools"
+  google_plus      :
+  keybase          :
+  instagram        : 
+  lastfm           :
+  linkedin         :
+  orcid            : #"http://orcid.org/testaccount"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "testaccount-this-is-fake"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        : 
 
 
 # Reading Files
