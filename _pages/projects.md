@@ -1,10 +1,10 @@
 ---
-permalink: /projects/
+permalink: projects/
 title: "RADICAL Projects"
 author_profile: true
 redirect_from:
-  - "/projects/"
-  - "/projects.html"
+  - "projects/"
+  - "projects.html"
 ---
 
 # Projects
