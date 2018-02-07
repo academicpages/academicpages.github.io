@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "RADICAL Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects/
