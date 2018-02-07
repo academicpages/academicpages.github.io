@@ -1,11 +1,10 @@
 ---
-layout: archive
-title: "RADICAL Projects"
 permalink: /projects/
+title: "RADICAL Projects"
 author_profile: true
 redirect_from:
-  - /projects/
-  - /projects.html
+  - "/projects/"
+  - "/projects.html"
 ---
 
 # Projects
