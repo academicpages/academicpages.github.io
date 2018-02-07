@@ -1,7 +1,7 @@
 ---
 title: "Project 1"
 collection: projects
-permalink: projects/project1
+permalink: /projects/project1
 ---
 
 ## Federally Funded Active:
