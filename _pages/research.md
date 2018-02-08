@@ -28,4 +28,4 @@ redirect_from:
 ## Peer-Reviewed Articles
 
 
-- [El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009](http://www.revistacienciapolitica.cl/rcp/wp-content/uploads/2013/09/07_vol_31_2.pdf). *Revista de Ciencia Política*. 31(2), 285-310, 2010. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart.
+- [El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). *Revista de Ciencia Política*. 31(2), 285-310, 2010. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart.
