@@ -10,7 +10,7 @@ redirect_from:
 
 Hello,
 
-I am Rute Correia, a Communication PhD student at [ISCTE-IUL](https://iscte-iul.pt/).
+I'm Rute Correia, a Communication PhD student at [ISCTE-IUL](https://iscte-iul.pt/).
 
 My thesis explores the intersection between community radio and open source - how open source methodologies can serve as a model for the sustainable development of such structures. It is still at a very early stage.
 

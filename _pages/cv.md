@@ -15,6 +15,7 @@ Education
 * PhD in Communication, [ISCTE-IUL](https://iscte-iul.pt/), *2020 (expected)*
 * MA in Radio (Production and Management), [University of Sunderland](https://www.sunderland.ac.uk/), *2016*
 * BA in Communication, [FCSH - Universidade Nova de Lisboa](http://fcsh.unl.pt/), *2009*
+    * _Erasmus at [Universität Leipzig](https://www.uni-leipzig.de/en/) under the BA Communication curriculum_
 
 
 Leadership & Community
