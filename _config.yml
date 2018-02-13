@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Rute Correia"
   avatar           : "profile.png"
-  bio              : "PhD student in Communication at [ISCTE-IUL](https://iscte-iul.pt/), do-it-all at [White Market Podcast](http://whitemarketpodcast.eu), member at [D3](https://direitosdigitais.pt), [Mozilla Open Leader](https://mozilla.github.io/leadership-training/) #RebelFoxes"
+  bio              : "PhD student in Communication at <a href="https://iscte-iul.pt/">ISCTE-IUL</a>, do-it-all at <a href="http://whitemarketpodcast.eu"<White Market Podcast</a>, member at <a href="https://direitosdigitais.pt">D3</a>, <a href="https://mozilla.github.io/leadership-training/">Mozilla Open Leader</a> #RebelFoxes
   location         : "Lisbon, Portugal"
   employer         :
   googlescholar    :
