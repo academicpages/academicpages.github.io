@@ -2,6 +2,7 @@
 title: "Hadoop on HPC: Integrating Hadoop and Pilot-Based Dynamic Resource Management"
 collection: publications
 permalink: /publication/hadoop-on-hpc
+excerpt: 'This paper is about integrating Hadoop on HPC environments'
 date: 2016-05-25
 venue: '2016 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)'
 paperurl: 'http://ieeexplore.ieee.org/document/7530058/'
