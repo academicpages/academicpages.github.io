@@ -180,7 +180,7 @@ tr: &DEFAULT_TR
 tr-TR:
   <<: *DEFAULT_TR
 
-# Brazilian Portguese
+# European Portguese
 # -----------------
 pt: &DEFAULT_PT
   page                       : "Página"
@@ -189,36 +189,36 @@ pt: &DEFAULT_PT
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   toc_label                  : "Nesta página"
-  ext_link_label             : "Link direto"
-  less_than                  : "meno que"
+  ext_link_label             : "Link directo"
+  less_than                  : "menos que"
   minute_read                : "minutos de leitura"
-  share_on_label             : "Compartilhe em"
+  share_on_label             : "Partilhar em"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categorias:"
-  date_label                 : "Atualizado em:"
+  date_label                 : "Actualizado em:"
   comments_label             : "Deixe um comentário"
   comments_title             :
   more_label                 : "Aprenda Mais"
-  related_label              : "Você Talvez Goste Também"
-  follow_label               : "Acompanhe em"
+  related_label              : "Talvez também goste de"
+  follow_label               : "Seguir"
   feed_label                 : "Feed"
   powered_by                 : "Feito com"
   website_label              : "Site"
-  email_label                : "Email"
-  recent_posts               : "Postagens recentes"
+  email_label                : "E-mail"
+  recent_posts               : "Posts recentes"
   undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
+  comment_form_info          : "O seu e-mail não será publicado. Os campos obrigatórios estão assinalados."
+  comment_form_comment_label : "Comentário"
+  comment_form_md_info       : "A linguagem markdown é suportada."
+  comment_form_name_label    : "Nome"
+  comment_form_email_label   : "Endereço de e-mail"
+  comment_form_website_label : "Site (opcional)"
+  comment_btn_submit         : "Submeter comentário"
+  comment_btn_submitted      : "Comentário submetido"
+  comment_success_msg        : "Obrigado pelo seu comentário. Vai aparecer no site assim que for aprovado."
+  comment_error_msg          : "Desculpe, a sua submissão deu erro. Por favor, verifique que preencheu todos os campos obrigatórios e tente outra vez."
+  loading_label              : "A carregar..."
 pt-BR:
   <<: *DEFAULT_PT
 pt-PT:
