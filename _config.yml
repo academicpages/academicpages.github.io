@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "RADICAL"
 title_separator          : "-"
-#name                     : &name "Research in Advanced Distributed Cyberinfrastructure and Applications Laboratory "
-#description              : &description "Research group at Rutgers, the State University of New Jersey"
+name                     : &name "Research in Advanced Distributed Cyberinfrastructure and Applications Laboratory "
+description              : &description "Research group at Rutgers, the State University of New Jersey"
 url                      : https://radical-group.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "radical-group/radicalgroup.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -76,11 +76,11 @@ analytics:
     tracking_id          :
 
 
-# Site Authorauthor:
+# Site Author:
   name             : #"Dr. Test Account"
   avatar           : #"profile.png"
   bio              : #"Research scientist at Test University, expert in all things test and account related"
-  location         : #"Test, California"
+  location         : "Piscataway, NJ, USA"
   employer         : 
   googlescholar    : #"http://scholar.google.com/this-is-a-test"
   email            : 
@@ -91,7 +91,7 @@ analytics:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "radical-cybertools"
+  github           : "https://www.github.com/radical-cybertools"
   google_plus      :
   keybase          :
   instagram        : 
