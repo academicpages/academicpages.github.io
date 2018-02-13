@@ -12,7 +12,7 @@ Hello,
 
 I am Rute Correia, a Communication PhD student at ISCTE-IUL.
 
-My thesis explores the intersection between community radio and open source - how open source methodologies can serve as a model for the sustainable development of such structures. On top of these two fields, my research (and personal) interests revolve around the [open movement](http://opendatahandbook.org/glossary/en/terms/open-movement/), open content and copyleft, digital rights and activism, participatory social structures, radio art and experimental forms of radio production.
+My thesis explores the intersection between community radio and open source - how open source methodologies can serve as a model for the sustainable development of such structures. On top of these two fields, my research (and personal) interests revolve around the [open movement](http://opendatahandbook.org/glossary/en/terms/open-movement/), open content and copyleft, remix studies, digital rights and activism, participatory social structures, radio art and experimental forms of radio production.
 
 This pages is currently under construction.
 
