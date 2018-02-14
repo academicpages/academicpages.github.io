@@ -5,7 +5,7 @@ permalink: /scribbling/2018-02-14-monoidal-monads
 collection: portfolio
 type: "scribbling"
 date: 2018-02-14
-excerpt: "Notes from my Lab Lunch talk"
+excerpt: "Notes from my Lab Lunch talk on February 13, 2018"
 use_math: true
 location: "Birmingham, UK"
 ---
