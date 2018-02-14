@@ -10,10 +10,11 @@ use_math: true
 location: "Birmingham, UK"
 ---
 
+{% include macro %}
 
 `Abstract:`
-In the talk, I introduce well-known and by now classical notion of monoidal monads. They are oplax monads on a monoidal category such that the monoidal structures are compatible with monad structures. This compatility is stated by several coherence axioms. I will then show that oplax monoidal structures of the monad making it an oplax monoidal monad is in one-to-one correspondence with monoidal structures of the Eilenberg–Moore category of algebras of that monad such that the forgetful functor from the category of algebras to the base category is strict monoidal. In other words, we get a lifting of the tensor structures of base category to tensor structures of the category of algebras over its objects.
-
+In the talk, I introduce well-known and by now classical notion of monoidal monads. They are oplax monads on a monoidal category such that the monoidal structures are compatible with monad structures. These compatibility conditions are stated by several coherence axioms. I will then show that oplax monoidal structures of the monad making it an oplax monoidal monad is in one-to-one correspondence with monoidal structures of the Eilenberg–Moore category of algebras of that monad such that the forgetful functor from the category of algebras to the base category is strict monoidal. In other words, we get a lifting of the tensor structures of base category to tensor structures of the category of algebras over its objects. I give two important examples of such situation: first, power set monad on monoidal category of sets where tensor product is just cartesian product and unit is the terminal set. The algebras are complete join semi-lattices (aka sup-lattices) and tensoring of algebras is the tensoring of sup-lattices (which is how coproduct of frames is constructed.) The unit of tensor product is the free sup-lattice on one generator, i.e. the lattice containing two elements $\bot$ and $\top$ where $\bot \leq \top$.
+The second example is symmetric algebra monoidal monad on the monoidal category of $k$-vector spaces over some field $k$. The algebras of this monad are commutative unital $k$-algebras.  
 
 Notes from the talk <a href="/files/CT/monoidal monad.pdf" target="_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> </a>
 
