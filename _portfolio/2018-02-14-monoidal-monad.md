@@ -19,3 +19,8 @@ The second example is symmetric algebra monoidal monad on the monoidal category 
 Notes from the talk <a href="/files/CT/monoidal-monad.pdf" target="_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> </a>
 
 
+
+
+
+**Added later**: For any commutative monoid $M$, the delooping category $\bbB M$ is a monoidal category in which both tensoring and composition are given by multiplication in $M$. Any monoidal monad on $\bbB M$ is necessarily the identity monad. 
+{: .notice}
