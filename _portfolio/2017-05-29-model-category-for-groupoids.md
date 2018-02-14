@@ -19,7 +19,7 @@ location: "Birmingham, UK"
 
 ## The fundamental groupoid $2$-functor 
 
-There is a strict $2$-fucntor $\Pi : \top \to \grpd$ which associates to every topological space its fundamental groupoid, to a continuous map of spaces, a functor of groupoids, and to a homotopy of maps, an iso natural transformation. 
+There is a strict $2$-fucntor $\Pi : \topl \to \grpd$ which associates to every topological space its fundamental groupoid, to a continuous map of spaces, a functor of groupoids, and to a homotopy of maps, an iso natural transformation. 
 
 For each groupoid $\cat{C}$ and each object $c$ of $\cat{C}$, $\pi(\cat{C}, c)$ is the full subgroupoid of $\cat{C}$ with only one object namely $c$. So, $\pi(\cat{C}, c) (c,c) = \aut_{\cat{C}} (c)$ Composing with $\Pi$, we get the familiar fundamental groups at different points.  
 
