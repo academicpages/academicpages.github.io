@@ -25,7 +25,7 @@ $$
 \newcommand{\bTopos}{\mathfrak{BTop}}
 \newcommand{\con}{\mathfrak{Con}}
 \newcommand{\pos}{\mathfrak{Poset}}
-\newcommand{\top}{\mathbb{Top}} 
+\newcommand{\topl}{\mathbb{Top}} 
 \newcommand{\grpd}{\mathbb{Grpd}}
 \newcommand{\thT}{\mathbb{T}}   
 \newcommand{\mod}{\mathbf{Mod}}
