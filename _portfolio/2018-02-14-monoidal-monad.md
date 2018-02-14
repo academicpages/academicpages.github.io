@@ -4,7 +4,7 @@ author: Sina Hazratpour
 permalink: /scribbling/2018-02-14-monoidal-monads
 collection: portfolio
 type: "scribbling"
-date: 2018-01-24
+date: 2018-02-14
 excerpt: "Notes from my Lab Lunch talk"
 use_math: true
 location: "Birmingham, UK"
