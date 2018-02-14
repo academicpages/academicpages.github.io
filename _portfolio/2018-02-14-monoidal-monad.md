@@ -19,15 +19,13 @@ I will then show that oplax monoidal structures of the monad, making it an oplax
 The second example is symmetric algebra monoidal monad on the monoidal category of $k$-vector spaces over some field $k$. The algebras of this monad are commutative unital $k$-algebras.  
 Also, for any commutative monoid $M$, the delooping category $\bb{B} M$ is a monoidal category in which both tensoring and composition are given by multiplication in $M$. Any monoidal monad on $\bb{B} M$ is necessarily the identity monad.
 
-
+`Notes:`
 Notes from the talk <a href="/files/CT/monoidal-monad.pdf" target="_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> </a>
 
 
 
 
 `Further Reading:`
-
-
 * Kock, A. (1968) 'Monads on symmetric monoidal closed categories', Arch. Math (1970) 21: 1. https://doi.org/10.1007/BF01220868
 
 * Moerdijk, I (2002). '[Monads on tensor categories](https://www.sciencedirect.com/science/article/pii/S0022404901000962?via%3Dihub)', Journal of Pure and Applied Algebra, Volume 168, Issues 2–3, 23 March 2002, Pages 189-208
