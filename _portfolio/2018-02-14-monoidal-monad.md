@@ -22,5 +22,5 @@ Notes from the talk <a href="/files/CT/monoidal-monad.pdf" target="_blank"> <i c
 
 
 
-**Added later**: For any commutative monoid $M$, the delooping category $\bbB M$ is a monoidal category in which both tensoring and composition are given by multiplication in $M$. Any monoidal monad on $\bbB M$ is necessarily the identity monad. 
+**Added later**: For any commutative monoid $M$, the delooping category $\bb{B} M$ is a monoidal category in which both tensoring and composition are given by multiplication in $M$. Any monoidal monad on $\bb{B} M$ is necessarily the identity monad. 
 {: .notice}
