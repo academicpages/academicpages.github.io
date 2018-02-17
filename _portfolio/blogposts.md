@@ -3,22 +3,20 @@ title: "Blog Posts"
 excerpt: "Here are all the blog posts I have ever written. All in Portuguese."
 collection: portfolio
 ---
-<blockquote class="m-profile" data-card-controls="0"><h4><a href="https://medium.com/@graciellehigino">Gracielle Higino - Medium</a></h4><p>Read my latest blog posts here!.</p></blockquote>
-
 
 <!-- Blog-->
 <section class="section blog" id="blog">
   <div class="container">
     <!---->
     <header class="section-heading">
-      <h2>Medium Profile</h2><span>Read my latest blog posts here!</span>
+      <h2>Medium Profile</h2><span>I keep all my blog posts in my Medium profile. You can read, comment and share my latest blog posts there!</span>
     </header>
     <!---->
     <div class="section-content" id="blogContent">
       <div class="row" id="jsonContent"></div>
     </div>
     <!-- /#blogContent-->
-    <div class="text-center"><a class="btn btn-dark" id="loadBlogPosts" href="https://medium.com/@graciellehigino">View All<span class="fa fa-angle-double-right"></span></a></div>
+    <div class="text-center"><a class="btn btn-dark" id="loadBlogPosts" href="https://medium.com/@graciellehigino">Go to my Medium profile<span class="fa fa-angle-double-right"></span></a></div>
   </div>
   <!-- /.container-->
 </section>
