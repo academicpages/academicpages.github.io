@@ -10,7 +10,7 @@ I've recently become our lab's AWS sysadmin, and my first task is to give our co
 
 First, I'll go through the steps I took on my end to set up my collaborators.
 
-# Setting up for new collaborators
+## Setting up for new collaborators
 
 Our collaborators are in the process of setting up their own computational infrastructure, so they theoretically won't need to have access to our AWS account for very long. Also, there's lots of data in our lab that's not relevant to what we're working on, and which I'd like to keep separate from this work. Thus, I decided to:
 
