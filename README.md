@@ -29,6 +29,16 @@ The header info for each blog post needs the following:
 The main blog page will show the first paragraph of text, and then include a `Read more...` link.
 Most of the blog post behavior is defined in `{% include archive-single.html %}` (`archive-single.html` is in the `_includes` folder).
 
+## Notes on notebooks
+
+1. Write the jupyter notebook in the `_jupyter` folder   
+1. When it's finished, `jupyter nbconvert <nb> --to markdown`   
+1. Move it to the `_posts` folder   
+
+Still to figure out: how to get images to show up, how to change font size/format of cells, how to have **[In 1]** show up.
+
+Might need more googling, use jekyll as a keyword!
+
 ## TODO
 
 - fix images in blog posts, so they don't point to wordpress    
