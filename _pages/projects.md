@@ -8,7 +8,7 @@ sidebar:
 ---
 
 
-<p><i> Most of the research here presented is performed in the microscopic setups of Prof. Johan Hofkens</i></p>
+<p><i> Most of the research here presented is performed in the microscopic setups of <b>Prof. Johan Hofkens</b></i></p>
 <br>
 <div class="grid__wrapper">
   {% for post in site.projects %}
