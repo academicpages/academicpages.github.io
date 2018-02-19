@@ -12,7 +12,7 @@ author_profile: true
 
 ## Academic publications
 
-_[Editorial]_ **Claire Duvallet**. "Meta-analysis generates and prioritizes hypotheses for translational microbiome research." _Microbial Biotechnology_ (2018). doi: [10.1111/1751-7915.13047](https://doi.org/10.1111/1751-7915.13047)
+**Claire Duvallet**. "Meta-analysis generates and prioritizes hypotheses for translational microbiome research." _Microbial Biotechnology_ (2018). doi: [10.1111/1751-7915.13047](https://doi.org/10.1111/1751-7915.13047)
 
 **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." _Nature Communications_ (2017). doi: [10.1038/s41467-017-01973-8](https://doi.org/10.1038/s41467-017-01973-8), bioRxiv doi: [10.1101/134031](https://doi.org/10.1101/134031). Associated github: [cduvallet/microbiomeHD](https://github.com/cduvallet/microbiomeHD) and data: [zenodo record 840333](https://doi.org/10.5281/zenodo.797943).
 
@@ -25,3 +25,12 @@ Sean M. Gibbons, **Claire Duvallet**, and Eric J. Alm. "Correcting for batch eff
 _[Blog post]_ **Claire Duvallet**. "[Beyond dysbiosis: disease-specific and shared microbiome responses to disease.](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease)" _Nature Microbiology Community Forum._ December 2017.
 
 _[Dataset]_ **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. (2017). MicrobiomeHD: the human gut microbiome in health and disease. _Zenodo_. doi: [10.5281/zenodo.797943](https://doi.org/10.5281/zenodo.797943)
+
+_[Blog posts]_ **Claire Duvallet**. During my Luce year (2014-2015), I wrote some posts for the Engineering World Health [blog](http://www.ewh.org/news/blog):
+
+* [Turning Knowledge into Practice: Cambodia BMET Training](http://www.ewh.org/news/blog/463-turning-knowledge-into-practice-cambodia-bmet-training)   
+* [Pass It On: Teaching in Cambodia](http://www.ewh.org/news/blog/472-pass-it-on-teaching-in-cambodia)   
+* [A Late Nigh In Phnom Penh](http://www.ewh.org/news/blog/477-a-late-night-in-phnom-penh)   
+* [Final Exams and Weddings in Cambodia](http://www.ewh.org/news/blog/489-final-exams-and-weddings-in-cambodia)   
+* [BMET Bonding in Phnom Penh](http://www.ewh.org/news/blog/508-bmet-bonding-in-phnom-penh)   
+* [BMET Cambodia Welcomes Dhritiman Das!](http://www.ewh.org/news/blog/522-bmet-cambodia-welcome-dhritiman-das)   
