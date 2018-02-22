@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Futoshi Futami's home on the web.
+This is Futoshi Futami's home on the web.\\
 ___
-NEWS
+NEWS\\
 ___
-RESEARCH INTERESTS
+RESEARCH INTERESTS\\
 ___
-CONTACT
+CONTACT\\
 ___
