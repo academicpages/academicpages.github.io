@@ -17,16 +17,16 @@ The University of Tokyo, Japan.
 
 
 
-# NEWS
+## NEWS
 - 2/1/2018 Our paper was accepted in AISTATS 2018
 - 2/1/2018 Our paper was accepted in NIPS 2017
 
-# RESEARCH INTERESTS
+## RESEARCH INTERESTS
 - Probablistic Inference
 - Approximate Bayesian infetence
 - Gaussian Process
 
-# CONTACT
+## CONTACT
 
 - Email: futami [at] ms.k.u-tokyo.ac.jp
 
