@@ -9,5 +9,10 @@ redirect_from:
 ---
 
 This is Futoshi Futami's home on the web.
-
-
+___
+NEWS
+___
+RESEARCH INTERESTS
+___
+CONTACT
+___
