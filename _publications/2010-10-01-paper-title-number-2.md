@@ -12,4 +12,4 @@ This paper is about the outlier-robust variational inference.
 
 [Download paper here](https://arxiv.org/abs/1710.06595)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
