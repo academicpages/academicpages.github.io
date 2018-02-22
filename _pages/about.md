@@ -28,6 +28,6 @@ The University of Tokyo, Japan.
 
 # CONTACT
 
-Email: futami [at] ms.k.u-tokyo.ac.jp
+- Email: futami [at] ms.k.u-tokyo.ac.jp
 
-Address: the 5th floor of Transdisciplinary Science Bldg., 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8561, Japan
+- Address: the 5th floor of Transdisciplinary Science Bldg, 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8561, Japan
