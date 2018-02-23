@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yongjun Zhang--Homepage"
+title: "Welcome to Yongjun's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
