@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-06-01-Cohabitation and Cohabitation in China
 excerpt: 'This paper examines the relationship between cohabitation and divorce in postreform China.'
 date: 2017-06-01
-venue: 'Journal 1'
+venue: 'Journal of Marriage and Family'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/jomf.12419/full'
 citation: 'Yongjun Zhang. 2017. "Premarital Cohabitation and Marital Dissolution in Postreform China."" <i>Journal of Marriage and Family</i> 79(5):1435–49.'
 ---
