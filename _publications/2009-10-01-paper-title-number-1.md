@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Cohabitation and Cohabitation in China"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/2017-06-01-Cohabitation and Cohabitation in China
+excerpt: 'Cohabitation and Divorce'
+date: 2017-06-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://joshzyj.github.io/files/paper1.pdf'
+citation: 'Yongjun Zhang. 2017. "Premarital Cohabitation and Marital Dissolution in Postreform China."" <i>Journal of Marriage and Family</i> 79(5):1435–49.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The author uses cohabitation data from the 2010 Chinese Family Panel Studies to analyze the association of premarital cohabitation with subsequent divorce of first marriage. After balancing selection factors that influence premarital cohabitation through propensity score matching, the author uses Cox proportional hazards models to examine the selection, causation, and diffusion perspectives on the relationship between premarital cohabitation and marital dissolution. The results show that premarital cohabitation is positively associated with divorce for those married in the early-reform period (1980–1994) when cohabitation was uncommon. However, this relationship disappears for those married in the late-reform period (1995–2010) when cohabitation became more prevalent. The findings suggest variation in the link between premarital cohabitation and divorce across different marriage cohorts and provide strong evidence for the diffusion perspective in postreform China. Supplemental sensitivity analyses support the robustness of the conclusion.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://onlinelibrary.wiley.com/doi/10.1111/jomf.12419/full)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yongjun Zhang. 2017. "Premarital Cohabitation and Marital Dissolution in Postreform China."" <i>Journal of Marriage and Family</i> 79(5):1435–49.
