@@ -1,7 +1,7 @@
 ---
-title: "Cohabitation and Cohabitation in China"
+title: "Cohabitation and Divorce in China"
 collection: publications
-permalink: /publication/2017-06-01-Cohabitation and Cohabitation in China
+permalink: /publication/2017-06-01-Cohabitation and Divorce in China
 excerpt: 'This paper examines the relationship between cohabitation and divorce in postreform China.'
 date: 2017-06-01
 venue: 'Journal of Marriage and Family'
