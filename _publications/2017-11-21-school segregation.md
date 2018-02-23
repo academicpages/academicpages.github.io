@@ -1,7 +1,7 @@
 ---
 title: "School Segregation"
 collection: publications
-permalink: /publication/2010-10-01-school segregation
+permalink: /publication/2017-11-21-school segregation
 excerpt: 'This study uses the first age-period-cohort (APC) analysis of segregation to examine changes in public school segregation from 1999-2000 to 2013-2014.'
 date: 2017-11-21
 venue: 'Demography'
