@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yongjun Zhang"
 title_separator          : "-"
 name                     : &name "Yongjun Zhang"
-description              : &description "Husband. ABD at UofA studying social movements, stratification, demography, and computational methods."
+description              : &description "Husband. Sociologist. ABD at UofA."
 url                      : https://joshzyj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshzyj/joshzyj.github.io"
@@ -73,7 +73,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :UA-97447130-1
 
 
 # Site Author
@@ -81,10 +81,10 @@ author:
   name             : #"Yongjun Zhang"
   avatar           : "profile.png"
   bio              : "Husband. ABD at the University of Arizona."
-  location         : "Location"
+  location         : "Tucson, Arizona"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3t2vqB0AAAAJ"
-  email            :
+  email            :"yongjunzhang@email.arizona.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8265-925X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
