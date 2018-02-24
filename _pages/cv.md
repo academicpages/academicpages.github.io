@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-*PhD, University of Arizona, Sociology, 2020 (Expected).
-*MA, Peking University, Sociology, 2014.
-*BA, Peking University, Sociology, 2011.
+* PhD, University of Arizona, Sociology, 2020 (Expected).
+* MA, Peking University, Sociology, 2014.
+* BA, Peking University, Sociology, 2011.
 
 Research area
 ======
@@ -62,5 +62,5 @@ Service and memberships
 * American Association for the Advancement of Science
 * International Network for Social Network Analysis
 
-======
+
 [Download pdf cv here](files/zhang-vita.pdf)
