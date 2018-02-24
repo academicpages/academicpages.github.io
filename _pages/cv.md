@@ -61,3 +61,6 @@ Service and memberships
 * Population Association of America
 * American Association for the Advancement of Science
 * International Network for Social Network Analysis
+
+======
+[Download pdf cv here](files/zhang-vita.pdf)
