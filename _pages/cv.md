@@ -11,49 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+*PhD, University of Arizona, Sociology, 2020 (Expected).
+*MA, Peking University, Sociology, 2014.
+*BA, Peking University, Sociology, 2011.
 
-Work experience
+Research area
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Social movements
+* Stratification and demography
+* Computational methods
+* Causal inference
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Research experience
+======
+* 2017-2018: Research Assistant
+  * University of Arizona
+  * Duties included: Web scraping, data wrangling, machine learning classification
+  * Supervisor: Professor Charles Seguin
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Grants and awards
+======
+* Sociology Travel Grant ($500), University of Arizona, 2017.
+* GPSC Travel Grant ($750), University of Arizona, 2017.
+* Sociology Tuition Scholarship ($5,520), University of Arizona, 2015-16.
+* SBS Graduate College Fellowship ($10,000), University of Arizona, 2015-16.
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service and memberships
 ======
-* Currently signed in to 43 different slack teams
+* ad hoc reviewer: Asian Population Studies
+* American Sociological Association
+* Population Association of America
+* American Association for the Advancement of Science
+* International Network for Social Network Analysis
