@@ -63,4 +63,4 @@ Service and memberships
 * International Network for Social Network Analysis
 
 
-[Download pdf cv here](files/zhang-vita.pdf)
+[Download pdf cv here](https://joshzyj.github.io/files/zhang-vita.pdf)
