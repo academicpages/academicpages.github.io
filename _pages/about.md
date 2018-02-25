@@ -4,12 +4,12 @@
  excerpt: "About me"
  author_profile: true
  redirect_from: 
-   /about/
-   /about.html
+   - /about/
+   - /about.html
  ---
 
 About Me
- ======
+======
 
 Hi, I'm Aubrey J. Rembert, a computer scientist in the [Next Big Sound](www.nextbigsound.com) department of [Pandora Media](www.pandora.com). Currently, my work is focused on building large scale data integration systems leveraging techniques from machine learning and natural language processing. Prior to working at Pandora, I was a Research Staff Member at [IBM T. J. Watson Research Center](www.research.ibm.com) studying machine learning approaches to enterprise integration.
  
