@@ -12,4 +12,3 @@ The author uses cohabitation data from the 2010 Chinese Family Panel Studies to 
 
 [Download paper here](http://joshzyj.github.io/files/paper1.pdf)
 
-Recommended citation: Yongjun Zhang. 2017. "Premarital Cohabitation and Marital Dissolution in Postreform China."" <i>Journal of Marriage and Family</i> 79(5):1435–49.
