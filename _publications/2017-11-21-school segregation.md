@@ -12,4 +12,3 @@ This study uses the first age-period-cohort (APC) analysis of segregation to exa
 
 [Download paper here](http://joshzyj.github.io/files/paper2.pdf)
 
-Recommended citation: Jeremy Fiel and Yongjun Zhang.  2017. "Three Dimensions of Change in School Segregation: A Grade-Period-Cohort Analysis." <i>Demography</i>.
