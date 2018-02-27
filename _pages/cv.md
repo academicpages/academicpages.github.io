@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Github, Github University, 2012
+* Physics, Graduate school of Science, the University of Tokyo　,Mar.2015
+
+　Adviser: Seiji Miyashita
+　
+ Thesis title: Static and dynamical properties of magnetic order in small world networks
+
 
 Work experience
 ======
