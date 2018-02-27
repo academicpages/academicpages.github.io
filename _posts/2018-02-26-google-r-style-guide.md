@@ -72,3 +72,14 @@ CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
   return(covariance)
 }
 ```
+
+### Re-format Your code
+If you are not a good code writer, there is a easy way that you can reformat your codes using the FORMATR package developed by [Yihui Xie](https://yihui.name/formatr/).
+>The formatR package was designed to reformat R code to improve readability; the main workhorse is the function tidy_source(). Features include:
+* long lines of code and comments are reorganized into appropriately shorter ones
+* spaces and indent are added where necessary
+* comments are preserved in most cases
+* the number of spaces to indent the code (i.e. tab width) can be specified (default is 4)
+* an else statement in a separate line without the leading } will be moved one line back
+* = as an assignment operator can be replaced with <-
+* the left brace { can be moved to a new line
