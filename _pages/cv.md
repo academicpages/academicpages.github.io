@@ -18,20 +18,11 @@ Education
 
 Work experience
 ======
-* Apr.2017 - Present: Research Assistant
-  * RIKEN Center for Advanced Intelligence Project
+* Apr.2017 - Present : Research Assistant, RIKEN Center for Advanced Intelligence Project
 
 
-* Apr.2015 - Dec.2016: Staff in Planning division
-  * Financial Services Agency, Japanese Government
+* Apr.2015 - Dec.2016 : Staff in Planning division, Financial Services Agency, Japanese Government
 
-  
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#* Skill 3
 
 Publications
 ======
@@ -45,12 +36,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+%Teaching
+%======
+%  <ul>{% for post in site.teaching %}
+%    {% include archive-single-cv.html %}
+%  {% endfor %}</ul>
