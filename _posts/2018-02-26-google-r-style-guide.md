@@ -10,8 +10,8 @@ tags:
 
 This post introduces R style guide from [google community](https://google.github.io/styleguide/Rguide.xml). It is very useful for beginners to learn how to code in an appropriate way that can share with other scholars. The basic goal of this post is to introduce the commonly used coding styles.
 
-R Style Rules
-=======
+# R Style Rules
+
 * File Names: end in .R
 * Identifiers: variable.name (or variableName), FunctionName, kConstantName
 * Line Length: maximum 80 characters
@@ -24,8 +24,8 @@ R Style Rules
 * General Layout and Ordering
 * Commenting Guidelines: all comments begin with # followed by a space; inline comments need two spaces before the #
 
-Example Funcion
-======
+### Example Funcion
+```
 CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
   # Computes the sample covariance between two vectors.
   #
@@ -51,3 +51,4 @@ CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
     cat("Covariance = ", round(covariance, 4), ".\n", sep = "")
   return(covariance)
 }
+```
