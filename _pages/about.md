@@ -18,8 +18,8 @@ The University of Tokyo, Japan.
 
 
 ## NEWS
-- 2/1/2018 Our paper was accepted in AISTATS 2018
-- 2/1/2018 Our paper was accepted in NIPS 2017
+- Our paper was accepted in AISTATS 2018
+- Our paper was accepted in NIPS 2017
 
 ## RESEARCH INTERESTS
 - Probablistic Inference
