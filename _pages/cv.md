@@ -16,15 +16,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012 - 2016: Biologist ORISE Fellow
+  * Newborn Screening Quality Assurance Program - Centers for Disease Control and Prevention
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 2010 - 2011: Student Assistant
+  * Nanotechnology Research Center - Institute for Electronics and Nanotechnology
+
 
 Skills
 ======
