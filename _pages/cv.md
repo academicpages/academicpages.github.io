@@ -11,13 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Jekyll, Github University, 2014
-* B.S. in Github, Github University, 2012
-* Physics, Graduate school of Science, the University of Tokyo　,Mar.2015
-
-　Adviser: Seiji Miyashita
-　
- Thesis title: Static and dynamical properties of magnetic order in small world networks
+* M.S. in Physics, Graduate school of Science, the University of Tokyo, March 2015
+ * Adviser: Seiji Miyashita
+* B.S. in Physics, the University of Tokyo, March 2013
 
 
 Work experience
