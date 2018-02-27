@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Physics, Graduate school of Science, the University of Tokyo, March 2015
- * Adviser: Seiji Miyashita
+  * Adviser: Seiji Miyashita
 * B.S. in Physics, the University of Tokyo, March 2013
 
 
