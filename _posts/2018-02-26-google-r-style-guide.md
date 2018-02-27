@@ -25,12 +25,11 @@ This post introduces R style guide from [google community](https://google.github
 * Commenting Guidelines: all comments begin with # followed by a space; inline comments need two spaces before the #
 
 ### Organization
-Google R style guide empashizes that
->General Layout and Ordering
->If everyone uses the same general ordering, we'll be able to read and understand each other's scripts faster and more easily.
->* Copyright statement comment
->* Author comment
->* File description comment, including purpose of program, inputs, and outputs
+Google R style guide empashizes a very useful general Layout and Ordering:
+> If everyone uses the same general ordering, we'll be able to read and understand each other's scripts faster and more easily.
+* Copyright statement comment
+* Author comment
+* File description comment, including purpose of program, inputs, and outputs
 * source() and library() statements
 * Function definitions
 * Executed statements, if applicable (e.g., print, plot)
@@ -41,10 +40,11 @@ Google R style guide empashizes that
 Google R style guide suggests that
 > Don't use underscores ( _ ) or hyphens ( - ) in identifiers. Identifiers should be named according to the following conventions. The preferred form for variable names is all lower case letters and words separated with dots (variable.name), but variableName is also accepted; function names have initial capital letters and no dots (FunctionName); constants are named like functions but with an initial k.
 
-### Example Funcion
+### Funcion Documentation
 Google R style guide recommends that
 > Functions should contain a comments section immediately below the function definition line. These comments should consist of a one-sentence description of the function; a list of the function's arguments, denoted by Args:, with a description of each (including the data type); and a description of the return value, denoted by Returns:. The comments should be descriptive enough that a caller can use the function without reading any of the function's code.
 
+Here is an example:
 ```
 CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
   # Computes the sample covariance between two vectors.
