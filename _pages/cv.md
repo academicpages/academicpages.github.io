@@ -14,7 +14,7 @@ You can download my pdf cv [here](https://yongjunzhang.com/files/zhang-vita.pdf)
 
 ## Research Overview
 
-My major research uses statistical, network and computational methods to study social, economic, and political outcomes of social movements. My dissertation will examine how social movements shape corporate activies and corresponding social inequality (e.g., wage inequality). I will investigate how double financialization (firms and unions) meidate or moderate the influence of social movements on different outcomes. My other side projects broadly align with my research agenda.
+My major research uses statistical, network and computational methods to study social, economic, and political outcomes of social movements. My dissertation will examine how social movements shape corporate activies and corresponding social inequality (e.g., wage inequality). I will investigate how double financialization (firms and unions) meidate or moderate the influence of social movements on different labor market outcomes. My other side projects broadly align with my research agenda.
 
 One line of my research focuses on cohabitation and its consequences in contemporary China. It examines how sexual revolution movements shape the biographical outcome of individuals in China. One paper on cohabitation and divorce has been published in Journal of Marriage and Family. Another paper in progress will use examine the subjective meaning of sexual revolution and cohabitation in contemporary China.
 
