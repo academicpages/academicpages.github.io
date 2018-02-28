@@ -12,16 +12,15 @@ redirect_from:
 
 You can download my pdf cv [<i>here<i>](https://joshzyj.github.io/files/zhang-vita.pdf).
 
-### Research Overview
+## Research Overview
 
+My major research uses statistical, network and computational methods to study
+social, economic, and political outcomes of social movements. My dissertation will examine how social movements shape corporate activies and corresponding social inequality (e.g., wage inequality). I will investigate how double financialization (firms and unions) meidate or moderate the influence of social movements on different outcomes. My other side projects broadly align with my research agenda.
 
-#### Dissertation Project
+One line of my research focuses on cohabitation and its consequences in contemporary China. It examines how sexual revolution movements shape the biographical outcome of individuals in China. One paper on cohabitation and divorce has been published in Journal of Marriage and Family. Another paper in progress will use examine the subjective meaning of sexual revolution and cohabitation in contemporary China.
 
+One line of my research examines school segregation and its causes and consequences. School segregation can be conceptualized as a movement-countermovement dynamics that reflects the development of U.S. civil rights movement. One paper with Jeremy Fiel in Demography investigates the trend of school segregation in recent years in the U.S. A follow-up paper under review assesses the reversal of school desegregation policies.
 
-#### Project 1. Cohabitation and its Consequences in Contemporary China
+Another line of my research examines radical social movements (terrorism). We conceptualiz terrorism as radical social movements, which allows us to borrow social movement theories to explain its emergence and consequences across the world. One paper with Alexander Kinney and Andrew Davis uses computational methods to study the propaganda of terror organizations. This paper entitled "Theming for Terror: Organizational Adornment in Terrorist Propaganda" has been resubmited to Poetics. Another paper with Andrew Davis examining the relationship between civil society and terrorim attacks has also resubmited to IJCS.
 
-
-#### Project 2. School Segregation and its Causes and Consequences
-
-
-#### Project 3. Terrorism
+Other research projects center different kinds of social movement outcomes such as media coverage of social protest and the impact of online acitivism on stock price.
