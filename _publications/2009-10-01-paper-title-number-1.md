@@ -12,7 +12,7 @@ This paper is about the extension of Expectation Propagation, and applied it to 
 
 [Download paper here](https://papers.nips.cc/paper/6819-expectation-propagation-for-t-exponential-family-using-q-algebra)
 
-##Outline
+## Outline
 * We extended the Expectation Propagation method beyond the exponential families to t-exponential families preserving the analytical update equations.
 * In the paper, experiments using Gaussian processes and Student-T processes show the usefulness of the method. 
 * The biggest contribution of this work is introducing the novel tool called ‘Q-algebra’ developed in the statistical physics and applying it to the Bayesian inference method successfully.
