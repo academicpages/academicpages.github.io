@@ -12,4 +12,7 @@ This paper is about the outlier-robust variational inference.
 
 [Download paper here](https://arxiv.org/abs/1710.06595)
 
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+##Outline
+* We reformulated the Bayesian inference in terms of the optimization problem and proposed the outlier-robust VI.
+* In the paper, we compared the proposed method with recent Bayesian robust methods.
+* The contribution of this paper is proposing the new VI problem and theoretical analysis using influence function.
