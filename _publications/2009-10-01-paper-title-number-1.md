@@ -12,4 +12,7 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://papers.nips.cc/paper/6819-expectation-propagation-for-t-exponential-family-using-q-algebra)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Outline
+* we extended the Expectation Propagation method beyond the exponential families preserving the analytical update equations.
+* In the paper, experiments using Gaussian processes and Student-T processes show the usefulness of the method. 
+* The biggest contribution of this work is introducing the novel tool called ‘Q-algebra’ developed in the statistical physics and applying it to the Bayesian inference method successfully.
