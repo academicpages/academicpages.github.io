@@ -80,19 +80,11 @@ analytics:
 author:
   name             : "Aubrey J. Rembert"
   avatar           : "profile.png"
-<<<<<<< HEAD
   bio              : "Computer Scientist @ Pandora/Next Big Sound"
   location         : "Greater Orlando Area"
   employer         : "Pandora Media"
   googlescholar    : 
   email            : "info@aubreyjrembert.com"
-=======
-  bio              : "Computer Scientist @ Pandora"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
->>>>>>> e77e515d59d54271bdbd3ed1d9b289340f8d7426
   uri              :
   bitbucket        :
   codepen          :
