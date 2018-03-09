@@ -15,23 +15,27 @@ A [recent paper](https://www.ncbi.nlm.nih.gov/pubmed/28591632) (closed access, s
 Technically they're not quite slopegraphs, since the points are showing continuous values rather than ordered categorical variables.
 But, tomato toh-mah-toe.
 
-![Figure 1C and D of Korem et al (2017) shows the kind of slopegraph I'm talking about being used in the literature. Even with not that many lines, it's pretty unclear what we're supposed to get out of the figure - even though the takeaway is that there isn't really a trend either way.](/images/2018-03-08-slopegraphs-in-python_files/slopegraph_example_Korem_2017.png)
+![png](/images/2018-03-08-slopegraphs-in-python_files/slopegraph_example_Korem_2017.png)
 
 Plotting paired data as slopegraphs is actually not my favorite way to show paired data, since in almost all cases the lines connecting the points end up very jumbled and difficult to distinguish any patterns from.
+For example, in the Korem at al figure above, it's pretty unclear what we're supposed to get out of the figure (even though there aren't that many lines).
+The takeaway is actually that there isn't really a trend either way, but even that isn't necessarily immediately obvious.
+
 I think the best option to explore and analyze paired data is to put the points on a scatter plot, where the x- and y-axes show the value for each member of the pair.
 For example, if you're plotting the average abundance of different microbes in healthy patients vs. patients with a disease, you'd have `abundance in healthy` on the x-axis and `abundance in diseased patients` on the y-axis, and each point would be a microbe.
+Then, you can just look at how many points are above the y=x line vs. below to get a sense of which abundances are higher.
 That said, these plots can be more difficult to interpret, especially for people who aren't as familiar with statistics or who are expecting a more "visual" slopegraph.
 
-Another option is just to plot the differences, but then this loses information about the actual values of each point in the pairs.
+Another option is just to plot the differences between pairs of points, but then this loses information about the actual values of each point in the pairs.
 And finally, regardless of the best way to show the data, many times your advisor wants you to try a slopegraph anyway and so you can choose to argue with her or just produce the plot and then decide together whether it's a good way to show the data.
 
 So let's do that!
 
-(Spoiler: in my particular case that motivated this post, my advisor ended up being right and the slopegraph was totally the best way to show the data. It's also very clinician-friendly, which is good because this was clinical data!)
+(Spoiler: in my particular case that motivated this post, my advisor ended up being right and the slopegraph was totally the best way to show the data. It's also very clinician-friendly, which is good because this was data for a clinical paper!)
 
 # Generate data
 
-First, let's set up some toy data. I'll use essentially the same data as in my [boxplots post](https://cduvallet.github.io/posts/2018/03/boxplots-in-python). We'll be simulating making some measurements on three different body sites for 15 healthy patients and 15 diseased patients. Because we're making slopegraphs, we're assuming that these are paired measurements - say, the abundance of a specific microbe on a tumor sample and on a nearby non-cancer sample.
+First, let's set up some toy data. I'll use essentially the same data as in my [boxplots post](https://cduvallet.github.io/posts/2018/03/boxplots-in-python). We'll be simulating making some measurements on three different body sites for 15 healthy patients and 15 diseased patients. Because we're making slopegraphs, we're assuming that these are paired measurements - say, the abundance of a specific microbe on a tumor sample and the abundance of that same microbe on a nearby non-cancer sample.
 
 
 ```python
