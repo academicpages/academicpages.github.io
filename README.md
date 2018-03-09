@@ -34,6 +34,8 @@ Most of the blog post behavior is defined in `{% include archive-single.html %}`
 1. Write the jupyter notebook in the `_jupyter` folder   
 1. When it's finished, `jupyter nbconvert <nb> --to markdown`   
 1. Move it to the `_posts` folder   
+1. Move the images to the `images` folder    
+1. Add `/images/` to all image paths in the markdown file   
 
 Still to figure out: how to get images to show up, how to change font size/format of cells, how to have **[In 1]** show up.
 

@@ -110,7 +110,7 @@ sns.lmplot(data=df, x='sepal_length', y='sepal_width', hue='species', fit_reg=Fa
 
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_4_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_4_1.png)
 
 
 
@@ -133,7 +133,7 @@ sns.lmplot(data=df, x='sepal_length', y='sepal_width', hue='species', fit_reg=Fa
 
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_5_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_5_1.png)
 
 
 pointplot
@@ -153,7 +153,7 @@ fig.tight_layout()
 ```
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_7_0.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_7_0.png)
 
 
 Another really important caveat with this function is that it treats the x-axis as *categorical* values - I've been tripped up by this before! This can really mess up your interpretation of the graph, if you're expecting to look for a relationship between continuous x and y-values. This is *definitely* not the right kind of plot for this.
@@ -168,7 +168,7 @@ fig.tight_layout()
 ```
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_9_0.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_9_0.png)
 
 
 FacetGrid
@@ -190,7 +190,7 @@ g.map(plt.scatter, 'sepal_length', 'sepal_width')
 
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_11_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_11_1.png)
 
 
 Because seaborn is a statistical plotting package, it tends to focus on making doing fancy things easier (while often times making doing easy things fancier...) This is one of those instances where it's not totally clear to me how to just plot the raw data.
@@ -210,7 +210,7 @@ gg.ggplot(df, gg.aes(x='sepal_length', y='sepal_width', color='species')) + gg.g
 ```
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_14_0.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_14_0.png)
 
 
 
@@ -423,7 +423,7 @@ gg.ggplot(dfnan, gg.aes(x='sepal_length', y='sepal_width', color='species')) + g
 
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_17_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_17_1.png)
 
 
 I could probably dig into this more, but honestly I don't really want to go down this rabbit hole. I'm just not hardcore enough to debug something that I know is still very early in development, and there isn't enough documentation or StackOverflow posts about it to be worth the investment.
@@ -455,7 +455,7 @@ ax.scatter(df['sepal_length'], df['sepal_width'], c=df['species'].apply(lambda x
 
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_20_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_20_1.png)
 
 
 However, this has a few downsides:
@@ -481,7 +481,7 @@ ax.scatter(df['sepal_length'], df['sepal_width'], c=df['species'].apply(lambda x
 
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_22_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_22_1.png)
 
 
 You could programmatically define the dictionary, but you'll have to handle `nan`s manually. Using `nan` as a dictionary key returns a `KeyError` because `nan` isn't equal to itself (more [here](http://stackoverflow.com/questions/6441857/nans-as-key-in-dictionaries)).
@@ -525,7 +525,7 @@ ax.scatter(dfnan['sepal_length'], dfnan['sepal_width'], c=dfnan['species'].apply
 
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_24_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_24_1.png)
 
 
 In my case, I ended up going with the ugly, manual, versatile matplotlib way to make my plot: replacing `nan`'s with strings, manually defining my dictionary, adding a column with the colors, and using groupby to plot - but only because I knew exactly what values I was expecting.
@@ -537,11 +537,10 @@ colors = {'setosa': 'red', 'versicolor': 'blue', 'virginica': 'green', 'nan': 'b
 dfnan = dfnan.replace(np.nan, 'nan')
 for c, subdf in dfnan.groupby('species'):
     ax.scatter(subdf['sepal_length'], subdf['sepal_width'], c=colors[c], label=c)
-
 ```
 
 
-![png](2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_26_0.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_26_0.png)
 
 
 I feel like the scatterplot is one of the breads and butters of data visualization - and though I recognize why seaborn approaches it the way it does, I'm still so surprised that there's no easy and versatile way to make a scatterplot colored by a categorical varaiable!
