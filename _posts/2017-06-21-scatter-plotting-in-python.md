@@ -110,7 +110,7 @@ sns.lmplot(data=df, x='sepal_length', y='sepal_width', hue='species', fit_reg=Fa
 
 
 
-![png](cduvallet.github.io/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_4_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_4_1.png)
 
 
 
@@ -423,7 +423,7 @@ gg.ggplot(dfnan, gg.aes(x='sepal_length', y='sepal_width', color='species')) + g
 
 
 
-![png](cduvallet.github.io/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_17_1.png)
+![png](/images/2017-06-21-scatter-plotting-in-python_files/2017-06-21-scatter-plotting-in-python_17_1.png)
 
 
 I could probably dig into this more, but honestly I don't really want to go down this rabbit hole. I'm just not hardcore enough to debug something that I know is still very early in development, and there isn't enough documentation or StackOverflow posts about it to be worth the investment.
