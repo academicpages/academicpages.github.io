@@ -8,27 +8,27 @@ redirect_from:
 
 ## Education
 
+**Massachusetts Institute of Technology**, PhD in Biological Engineering (expected 2019)   
 **Columbia University**, B.S. in Biomedical Engineering (2013)   
-**Massachusetts Institute of Technology**, PhD in Biological Engineering (expected 2019)
 
 ## Research experience
 
 **Alm lab**, Massachusetts Institute of Technology (2014-present)   
 *Under the direction of Eric Alm*
 
-I am currently a PhD student in [Eric Alm's lab](almlab.mit.edu) at MIT. You cn learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
+I am currently a PhD student in [Eric Alm's lab](almlab.mit.edu) at MIT. You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
 
 **Molecular and Microscale Bioenigneering Laboratory**, Columbia University (2011-2013)
 *Under the direction of Samuel K. Sia*
 
 I was an undergraduate research assistant in [Sam   Sia](http://bme.columbia.edu/samuel-k-sia)'s lab for two years at Columbia.
 There, I worked on developing a point-of-care microfluidic device to diagnose multi-drug resistant tuberculosis.
-I primarily worked on the DNA amplification and detection modules, optimizing primers and reaction conditions off-chip.
+I primarily focused on the DNA amplification and detection modules, optimizing primers and reaction conditions off-chip.
 
 **Laboratoire de Biochimie**, Ecole Polytechnique (Summer 2012)   
 *Under the direction of Cedric Norais*
 
-I was an International Undergraduate Research Intern at Ecole Polytechnique the summer before my senior year.
+I was an international undergraduate research intern at Ecole Polytechnique the summer before my senior year.
 There, I worked with Cedric Norais to study the acquired-immunity CRISPR system in E. coli.
 
 ## Publications
@@ -39,53 +39,96 @@ See [publications](/publications/) page.
 
 ### Oral presentations
 
-Oct. 2016 - "The human gut microbiome in health and disease." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
+Feb. 2018 - "Aspiration changes relationships in the aerodigestive microbiome." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
 
 Oct. 2017 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT Department of Biological Engineering Retreat](http://be-retreat.mit.edu/).
 
-Feb. 2018 - "Aspiration changes relationships in the aerodigestive microbiome." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
+Oct. 2016 - "The human gut microbiome in health and disease." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
 
 ### Poster presentations
 
-Jan. 2018 - "Meta-analysis "
+Mar. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Women in Data Science Cambridge](https://www.widscambridge.org/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
 
-- PSB   
-- WiDS 2018   
+Jan. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Pacific Symposium on Biocomputing](https://psb.stanford.edu/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
+
+Feb. 2016 - "Empirical signatures of compositional stability in the gut microbiome." Statistical and Algorithmic Challenges in Microbiome Data Analysis Workshop, MIT Center for Informatics and Therapeutics and The Simons Center for Data Analysis. [pdf](/files/2016-02-25.predictingOTUs.scda_workshop_poster.pdf)
+
 
 ## Teaching
 
 ### Academic
 
-- TAing in undergrad   
-- EWH   
-- TAing in grad school   
+**20.106 Systems Microbiology, Teaching assistant**   
+*Massachusetts Institute of Technology*, Cambridge, Massachusetts (Fall 2015)
 
-### Outreach
+I was a TA for seven advanced undergraduate students in a new course on the human microbiome, emerging disease, phylogenetics, and host-microbe interactions.
+I developed problem sets and guided lecture content for a module on processing and analyzing 16S data, and facilitated and participated in paper discussions on various topics in zoonotic disease, viral communities, host immune responses, and the human microbiome.
 
-- SPARK or whatever I did that year    
-- young leaders in stem (two summers)    
-- what's his name's skype class (link to his website)   
+**UP Biomedical Equipment Technology Department, Lecturer**   
+*Engineering World Health and University of Puthisastra*, Phnom Penh, Cambodia (2013-2014)
+
+During my Luce Year, I worked as a lecturer for [Engineering World Health](ewh.org) at the [University of Puthisastra](http://www.puthisastra.edu.kh/).
+I developed curricula for anatomy and physiology, troubleshooting skills, and math in the new Associate Bachelor's program in Biomedical Equipment Technology.
+I prepared and delivered lectures, exams, assignments, in-class activities, and demos for two classes of 12-18 Cambodian students and technicians (in English, with a translator).
+I also managed Cambodian student-teaching staff during main supervisor's absence and supported foreign and local teaching staff.
+
+**The Art of Engineering, Teaching assistant**    
+*Columbia University*, New York, NY (2012-2013)
+
+My senior year at Columbia, I TAed the intro to engineering course for freshmen.
+I assisted the students in designing and building a vital-signs monitoring device, guiding them through the engineering design process and teaching concepts in MATLAB and circuitry required for projects.
+I also mentored and advised students on general biomedical engineering and college-related questions.
+
+### Outreach   
+
+I've also taught some short courses about my work as part of various outreach activities:
+
+[**Mr. John Bartucz**](http://www.bartucz.com/mrbartucz/2017-speakers/)'s computer science class (2017). Introduction to my career path and research.
+
+[**Science Club for Girls**](http://www.scienceclubforgirls.org/) [Young leaders in STEM program](http://www.scienceclubforgirls.org/teen-programs-overview) (Summer 2016 and 2017). Three-day course on microbiology and the human microbiome.
+
+[**MIT SPLASH**](https://esp.mit.edu/learn/Splash/index.html) (2015). "Microbiome 101: What's in your poop?"
 
 ## Leadership and service
 
-- grad student board diversity chair   
-- GSC diversity stuff   
-- BE REFS   
-- frisbee captain (1.5 years)   
-- ESL tutoring   
-- IDEAS reviewer   
-- MSRP reviewer   
-- Committed to Caring reviewer   
+
+**Graduate Student Council Diversity and Inclusion Subcommittee**, *Department and Classroom Inclusion co-coordinator* (2017-present)    
+
+In this role, I coordinate and oversee semesterly conduit assemblies, which bring together diversity representatives from all MIT departments.
+
+[**BE Graduate Student Board**](http://begradboard.mit.edu/), *Diversity Chair* (2015-present)    
+
+As Diversity Chair, I co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap), co-wrote the [BE Departmental Values Statement](http://be.mit.edu/about/department-values-statement), and spearheaded the 2016 Diversity Climate Survey, which has informed diversity-related efforts since.
+
+[**BE Resources for Easing Friction and Stress**](http://berefs.com/), *BE Ref* (2016-present)    
+
+[**MIT IDEAS Global Challenge**](https://studentlife.mit.edu/ideas), *Reviewer* (2015-present)    
+
+[**MIT Summer Research Program (MSRP)**](https://odge.mit.edu/undergraduate/msrp/), *Reviewer* (2018)    
+
+[**MIT Committed to Caring**](https://odge.mit.edu/community/committed-to-caring-c2c/), *Reviewer* (2017)   
+
+[**HR ESL Program for MIT Service Employees**](http://hrweb.mit.edu/esl), *GED Math tutor* (2015-2018)
+
+[**MIT Women's Ultimate Frisbee Team**](http://scripts.mit.edu/~womens-ult/), *B-team captain* (2015-2016)
+
 
 ## Fellowships
 
-- NSF Honorable Mention??   
-- NDSEG   
-- Luce   
+**National Defense Science and Engineering Graduate (NDSEG) Fellowship**, *Awardee* (2015-2018)
+
+**Henry Luce Foundation**, *Luce Scholar* (2013-2014)
+
+**National Science Foundation Graduate Research Fellowship**, *Honorable Mention* (2015)
 
 ## Awards
 
-- Salutatorian
-- UG BME awards   
-- Did I get that community service/leaderhsip award at Columbia? King's Crown?   
-- Grad women of excellence    
+[MIT Graduate Women of Excellence](https://odge.mit.edu/community/women/celebratewomen/) (2017), [pdf](/files/2017-04-24.GWOE_Duvallet_Claire.pdf)
+
+Salutatorian, Columbia University Fu Foundation School of Engineering and Applied Science	(2013)
+
+Richard Skalak [Award in Biomedical Engineering](http://bme.columbia.edu/student-activities-community-and-awards) and Robert E. and Claire S. Reiss [Prize in Biomedical Engineering](http://bme.columbia.edu/student-activities-community-and-awards), Columbia University (2013)
+
+[King's Crown Bronze Leadership Award](https://www.cc-seas.columbia.edu/awards), Columbia University (2012)
+
+Tau Beta Pi, The Engineering Honor Society (2012)

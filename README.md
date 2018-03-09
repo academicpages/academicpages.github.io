@@ -16,6 +16,8 @@ Looks like the `archive-single.html` file in `_includes` is used in a lot of the
 For example, in `year-archive.html`, the line `{% include archive-single.html %}` basically does all of the heavy lifting and defines how things will look.
 I changed the `archive-single.html` file to change how my blog posts were being shown.
 
+**To change main navigation content**, edit `navigation.yml` in `_data`.
+
 ## Notes on blog posts
 
 Individual blog posts are in the `_posts` folder.
