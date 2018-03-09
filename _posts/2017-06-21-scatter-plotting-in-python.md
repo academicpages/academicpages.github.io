@@ -1,4 +1,8 @@
-
+---
+title: Scatter plotting in python
+permalink: /posts/2017/06/scatter-plotting-python
+date: 2017-06-21
+---
 In the past year or so, I've become a full-fledged tidy data convert. I use pandas and seaborn for almost everything that I do, and any time I figure out a new cool groupby trick I feel like I've PhD-leveled up.
 
 That's why it's so frustrating that I still can't find a good way to plot categorical scatterplots.
