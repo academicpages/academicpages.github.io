@@ -1,7 +1,7 @@
 ---
 title: Blogging with jupyter notebooks and jekyll
 permalink: /posts/2018/03/ipython-notebooks-jekyll
-date: 2018-03-08
+date: 2018-03-07
 ---
 
 One of the last parts before my full-fledged transition to github pages from wordpress was figuring out how to post nicely formatted jupyter notebooks.
