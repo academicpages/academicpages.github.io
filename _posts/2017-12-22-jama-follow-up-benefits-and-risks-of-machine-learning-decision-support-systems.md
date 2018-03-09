@@ -3,6 +3,9 @@ title: 'JAMA follow-up: Benefits and Risks of Machine Learning Decision Support 
 #link: https://claireduvallet.wordpress.com/2017/12/22/jama-follow-up-benefits-and-risks-of-machine-learning-decision-support-systems/
 permalink: /posts/2017/12/jama-follow-up-benefits-and-risks-of-machine-learning-decision-support-systems
 date: 2017-12-22
+tags:
+    - data-science
+    - ml-health
 ---
 
 

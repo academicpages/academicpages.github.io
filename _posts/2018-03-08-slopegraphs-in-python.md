@@ -2,6 +2,10 @@
 title: Slopegraphs in python
 permalink: /posts/2018/03/slopegraphs-in-python
 date: 2018-03-08
+tags:
+    - python
+    - plotting
+    - coding
 ---
 
 Slopegraphs are always introduced as being introduced by this Edward Tufte [post](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk), though [this page](http://charliepark.org/slopegraphs/) is my top Google hit for "slopegraph."

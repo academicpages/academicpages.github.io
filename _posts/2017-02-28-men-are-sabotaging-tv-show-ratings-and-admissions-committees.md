@@ -3,6 +3,9 @@ title: Men are sabotaging TV show ratings (and admissions committees?)
 #link: https://claireduvallet.wordpress.com/2017/02/28/men-are-sabotaging-tv-show-ratings-and-admissions-committees/
 permalink: /posts/2017/02/men-are-sabotaging-tv-show-ratings-and-admissions-committees
 date: 2017-02-28
+tags:
+    - diversity
+    - data-science
 ---
 
 

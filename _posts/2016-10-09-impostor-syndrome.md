@@ -3,6 +3,8 @@ title: Impostor syndrome
 #link: https://claireduvallet.wordpress.com/2016/10/09/impostor-syndrome/
 permalink: /posts/2016/10/impostor-syndrome
 date: 2016-10-09
+tags:
+    - grad-school
 ---
 
 

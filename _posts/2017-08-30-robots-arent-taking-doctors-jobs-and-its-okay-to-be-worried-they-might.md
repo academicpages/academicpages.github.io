@@ -3,6 +3,8 @@ title: Robots aren't taking doctors' jobs and it's okay to be worried they might
 #link: https://claireduvallet.wordpress.com/2017/08/30/robots-arent-taking-doctors-jobs-and-its-okay-to-be-worried-they-might/
 permalink: /posts/2017/08/robots-arent-taking-doctors-jobs-and-its-okay-to-be-worried-they-might
 date: 2017-08-30
+tags:
+    - ml-health
 ---
 
 

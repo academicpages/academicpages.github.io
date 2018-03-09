@@ -3,6 +3,9 @@ title: Professor superlatives
 #link: https://claireduvallet.wordpress.com/2017/04/18/professor-superlatives/
 permalink: /posts/2017/04/professor-superlatives
 date: 2017-04-18
+tags:
+    - grad-school
+    - diversity
 ---
 
 

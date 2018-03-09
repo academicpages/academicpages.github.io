@@ -3,6 +3,8 @@ title: Quotas work
 #link: https://claireduvallet.wordpress.com/2017/08/03/quotas-work/
 permalink: /posts/2017/08/quotas-work
 date: 2017-08-03
+tags:
+    - diversity
 ---
 
 

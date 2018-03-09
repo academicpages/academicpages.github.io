@@ -3,6 +3,8 @@ title: 'The microbiome meta-analysis is published, Part 2: Data and reproducible
 #link: https://claireduvallet.wordpress.com/2017/12/24/the-microbiome-meta-analysis-is-published-part-2-data-and-reproducible-science/
 permalink: /posts/2017/12/meta-analysis-is-published-part-2
 date: 2017-12-24
+tags:
+    - publications
 ---
 
 The other thing I didn't focus on as much in the Nature Microbiology [blog post](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease) was all of the lessons I learned about data and doing reproducible science.

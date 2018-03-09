@@ -2,6 +2,8 @@
 title: Hitting the diversity wall
 permalink: /posts/2018/02/hitting-diversity-wall
 date: 2018-02-26
+tags:
+    - diversity
 ---
 
 Some reactions to a recent Insider Higher Ed [article on "Hitting the [Diversity] Wall](https://www.insidehighered.com/advice/2018/02/23/its-unfair-expect-graduate-students-shoulder-all-diversity-work-opinion)". The tl;dr of my thoughts: (1) Yep, the wall is real. Finding other students working to remind ourselves that we’re not alone in this fight is critical. (2) The fight is for transformation beyond “diversity and inclusion” - it’s about transformation of power structures. That's what makes it hard and inspiring. (3) The strategies we take are important: when do we work _with_ our departments and when do we *demand* change?

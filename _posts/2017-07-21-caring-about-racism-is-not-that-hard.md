@@ -3,6 +3,9 @@ title: Caring about racism is not that hard
 #link: https://claireduvallet.wordpress.com/2017/07/21/caring-about-racism-is-not-that-hard/
 permalink: /posts/2017/07/caring-about-racism-is-not-that-hard
 date: 2017-07-21
+tags:
+    - data-science
+    - diversity
 ---
 
 

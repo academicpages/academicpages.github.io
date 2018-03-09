@@ -3,6 +3,9 @@ title: Reflections on Amazon same-day delivery excluding Roxbury
 #link: https://claireduvallet.wordpress.com/2018/01/07/reflections-on-amazon-same-day-delivery-excluding-roxbury/
 permalink: /posts/2018/01/reflections-on-amazon-same-day-delivery-excluding-roxbury
 date: 2018-01-07
+tags:
+    - diversity
+    - data-science
 ---
 
 

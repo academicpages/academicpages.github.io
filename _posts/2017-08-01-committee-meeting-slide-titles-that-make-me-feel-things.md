@@ -3,6 +3,8 @@ title: Committee meeting slide titles that make me feel things
 #link: https://claireduvallet.wordpress.com/2017/08/01/committee-meeting-slide-titles-that-make-me-feel-things/
 permalink: /posts/2017/08/committee-meeting-slide-titles-that-make-me-feel-things
 date: 2017-08-01
+tags:
+    - grad-schools
 ---
 
 <!--more-->

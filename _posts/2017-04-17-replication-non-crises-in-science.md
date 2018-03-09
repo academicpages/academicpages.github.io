@@ -3,6 +3,8 @@ title: Replication non-crises in science
 #link: https://claireduvallet.wordpress.com/2017/04/17/replication-non-crises-in-science/
 permalink: /posts/2017/04/replication-non-crises-in-science
 date: 2017-04-17
+tags:
+    - data-science
 ---
 
 

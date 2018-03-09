@@ -3,6 +3,8 @@ title: Hopkins Report on the Status of Women Faculty at MIT
 #link: https://claireduvallet.wordpress.com/2017/10/01/hopkins-report-on-the-status-of-women-faculty-at-mit/
 permalink: /posts/2017/10/hopkins-report-on-the-status-of-women-faculty-at-mit
 date: 2017-10-01
+tags:
+    - diversity
 ---
 
 

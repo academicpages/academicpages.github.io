@@ -3,6 +3,9 @@ title: Women in Data Science Conference 2016
 #link: https://claireduvallet.wordpress.com/2017/02/04/women-in-data-science-conference-2016/
 permalink: /posts/2017/02/women-in-data-science-conference-2016
 date: 2017-02-04
+tags:
+    - diversity
+    - data-science
 ---
 
 

@@ -3,6 +3,8 @@ title: Thinx again
 #link: https://claireduvallet.wordpress.com/2017/03/15/thinx-again/
 permalink: /posts/2017/03/thinx-again
 date: 2017-03-15
+tags:
+    - diversity
 ---
 
 

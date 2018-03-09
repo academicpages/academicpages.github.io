@@ -3,6 +3,8 @@ title: A response to "The Pay Gap Myth and Other Lies That Won’t Die"
 #link: https://claireduvallet.wordpress.com/2017/02/07/a-response-to-the-pay-gap-myth-and-other-lies-that-wont-die/
 permalink: /posts/2017/02/a-response-to-the-pay-gap-myth-and-other-lies-that-wont-die
 date: 2017-02-07
+tags:
+    - diversity
 ---
 
 

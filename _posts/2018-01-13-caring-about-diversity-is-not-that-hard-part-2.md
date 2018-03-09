@@ -3,6 +3,8 @@ title: Caring about diversity is not that hard (part 2)
 #link: https://claireduvallet.wordpress.com/2018/01/13/caring-about-diversity-is-not-that-hard-part-2/
 permalink: /posts/2018/01/caring-about-diversity-is-not-that-hard-part-2
 date: 2018-01-13
+tags:
+    - diversity
 ---
 
 
@@ -10,7 +12,7 @@ Every time I re-read my post "[Caring about racism is not that hard](https://cla
 
 On the one hand, I know that they do care deeply about these issues. On the other hand, I've been mostly disappointed at the relative lack of self-starting, inertia-overcoming, proactive-game-changing energy and responses I've received. In the post, when I say "if only faculty cared," what I really mean is "if only faculty cared enough to make theses issues as high of a priority as research." I really don't want to imply that they _don't_ care, I just want to point out that they don't seem to care _enough_.  
 
-I recently read something that explained my frustrations and dismay really concisely. Some context: a group of women ultimate frisbee players are organizing a boycott of the AUDL, which is currently the only pro league in our sport and also all-male (technically it's an "open" league which means that women can try out and play, but functionally it's only men). The AUDL responded, but the organizers were not satisfied and wrote this [open letter](http://skydmagazine.com/2018/01/audl-boycott-open-letter-steve-gordon-commissioner-audl/) in response. This part stuck out to me: 
+I recently read something that explained my frustrations and dismay really concisely. Some context: a group of women ultimate frisbee players are organizing a boycott of the AUDL, which is currently the only pro league in our sport and also all-male (technically it's an "open" league which means that women can try out and play, but functionally it's only men). The AUDL responded, but the organizers were not satisfied and wrote this [open letter](http://skydmagazine.com/2018/01/audl-boycott-open-letter-steve-gordon-commissioner-audl/) in response. This part stuck out to me:
 
 > Our broad impression is that the AUDL perceives many barriers to change, but that most of these perceptions are based on untested or flawed assumptions. We have also gotten the impression that AUDL leadership has not been motivated to think with enough creativity or urgency about how to overcome those barriers.
 

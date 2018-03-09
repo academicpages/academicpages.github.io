@@ -3,6 +3,8 @@ title: Reflecting mansplaining
 #link: https://claireduvallet.wordpress.com/2017/03/14/reflecting-mansplaining/
 permalink: /posts/2017/03/reflecting-mansplaining
 date: 2017-03-14
+tags:
+    - diversity
 ---
 
 

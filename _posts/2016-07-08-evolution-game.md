@@ -3,6 +3,9 @@ title: Evolution game
 #link: https://claireduvallet.wordpress.com/2016/07/08/evolution-game/
 permalink: /posts/2016/07/evolution-game
 date: 2016-07-08
+tags:
+    - coding
+    - python
 ---
 
 

@@ -2,6 +2,10 @@
 title: Boxplots in python
 permalink: /posts/2018/03/boxplots-in-python
 date: 2018-03-08
+tags:
+    - python
+    - plotting
+    - coding
 ---
 
 To celebrate figuring out [how to blog with jupyter notebooks](/posts/2018/03/ipython-notebooks-jekyll), I'm going to go through some tricks I've learned to plot pretty boxplots in Python.

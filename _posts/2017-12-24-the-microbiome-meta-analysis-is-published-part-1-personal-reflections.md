@@ -3,6 +3,8 @@ title: 'The microbiome meta-analysis is published, Part 1: personal reflections'
 #link: https://claireduvallet.wordpress.com/2017/12/24/the-microbiome-meta-analysis-is-published-part-1-personal-reflections/
 permalink: /posts/2017/12/meta-analysis-is-published-part-1
 date: 2017-12-24
+tags:
+    - publications
 ---
 
 

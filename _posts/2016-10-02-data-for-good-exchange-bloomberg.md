@@ -3,6 +3,8 @@ title: Data for Good Exchange (Bloomberg)
 #link: https://claireduvallet.wordpress.com/2016/10/02/data-for-good-exchange-bloomberg/
 permalink: /posts/2016/10/data-for-good-exchange-bloomberg
 date: 2016-10-02
+tags:
+    - data-science
 ---
 
 

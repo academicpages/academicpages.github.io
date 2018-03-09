@@ -3,6 +3,8 @@ title: Words matter - what is "diversity" anyway?
 #link: https://claireduvallet.wordpress.com/2017/01/27/words-matter-what-is-diversity-anyway/
 permalink: /posts/2017/01/words-matter-what-is-diversity-anyway
 date: 2017-01-27
+tags:
+    - diversity
 ---
 
 

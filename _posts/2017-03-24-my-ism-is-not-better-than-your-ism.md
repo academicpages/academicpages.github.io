@@ -3,6 +3,8 @@ title: My -ism is (not) better than your -ism
 #link: https://claireduvallet.wordpress.com/2017/03/24/my-ism-is-not-better-than-your-ism/
 permalink: /posts/2017/03/my-ism-is-not-better-than-your-ism
 date: 2017-03-24
+tags:
+    - diversity
 ---
 
 
@@ -22,7 +24,7 @@ One of the most powerful concepts I took away from training was the power of "an
 
 You can feel your pain, _and_ recognize the depth of someone else's.
 
-This article also provided clarity on something I've been thinking about in the back of my mind for a while: becoming aware of the ways in which society is messed up really sucks. Recognizing my privilege and my role in these complex systems is such a downer, like all of the time. But that's the whole point: 
+This article also provided clarity on something I've been thinking about in the back of my mind for a while: becoming aware of the ways in which society is messed up really sucks. Recognizing my privilege and my role in these complex systems is such a downer, like all of the time. But that's the whole point:
 
 > Talking about racism/white supremacy is painful for whites as well, but in a different way. Whites must confront their role as oppressors, or at least as beneficiaries of the racial oppression of others, in a race-based hierarchy. The pain of oppression must be communicated to the dominant group if there is to be any understanding of racism/white supremacy.
 

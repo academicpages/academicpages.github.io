@@ -3,6 +3,9 @@ title: Microbial Centennial of Men
 #link: https://claireduvallet.wordpress.com/2017/02/21/microbial-centennial-of-men/
 permalink: /posts/2017/02/microbial-centennial-of-men
 date: 2017-02-21
+tags:
+    - grad-school
+    - diversity
 ---
 
 
