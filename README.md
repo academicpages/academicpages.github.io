@@ -37,9 +37,7 @@ Most of the blog post behavior is defined in `{% include archive-single.html %}`
 1. Move the images to the `images` folder    
 1. Add `/images/` to all image paths in the markdown file   
 
-Still to figure out: how to get images to show up, how to change font size/format of cells, how to have **[In 1]** show up.
-
-Might need more googling, use jekyll as a keyword!
+Still to figure out: how to change font size/format of cells, how to have **[In 1]** show up, how to add image captions.
 
 ## TODO
 
