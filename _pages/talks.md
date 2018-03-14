@@ -18,7 +18,7 @@ I have presented / will be presenting at...
 
 #### Midwest Political Science Association (MPSA)
 
-- Chicago, IL: 2018. JSS Session: Comparative Political Economy.
+- Chicago, IL: 2018. JSS Session: Comparative Political Economy. [declined]
 - Chicago, IL: 2017. JSS Session: Political Economy of Development and Regime Change.
 
 
@@ -40,7 +40,7 @@ I have presented / will be presenting at...
 
 #### Western Political Science Association (WPSA)
 
-- San Francisco, CA: 2018. Miniconference: The Political Economy of Undemocratic Politics.
+- San Francisco, CA: 2018. Miniconference: The Political Economy of Undemocratic Politics. [declined]
 
 - San Diego, CA: 2016. Panel: Politics of Inequality. [declined]
 
