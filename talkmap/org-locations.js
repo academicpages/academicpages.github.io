@@ -27,11 +27,6 @@ var addressPoints = [
     -87.627422
   ],
   // WPSA
-    [
-    "San Francisco, USA", // WPSA 2018 (HYATT REGENCY HOTEL IN EMBARCADERO)
-    37.794402,
-    -122.395844
-  ],
   [
     "Las Vegas, USA", // WPSA 2015 (Caesar Palace)
     36.116243,
@@ -46,11 +41,6 @@ var addressPoints = [
   // MPSA
   [
     "Chicago, USA", // MPSA: 2017 (Palmer House)
-    41.880646,
-    -87.627422
-  ],
-  [
-    "Chicago, USA", // MPSA: 2018 (Palmer House)
     41.880646,
     -87.627422
   ],
