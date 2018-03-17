@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* BA in Geography & Anthropology, University of Southern Maine, 2013
 
-Work experience
+Related experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2015: GIS Technician
+  * DeLorme, Yarmouth ME
+
+* 2014-2015: GIS Specialist
+  * TR Advisors, Boston MA
+
+* 2014: GeoCorps Intern - Geological Society of America
+  * White Mountain National Forest, Conway NH
+  
+* 2013-2014: GIS & Database Intern
+  * TR Advisors, Boston MA
+  
+* 2014: GIS Intern
+  * Wells National Estuarine Reserve, Wells ME
+  
+* 2013: Archaeology Technican Intern
+  * Klamath National Forest, Macdoel CA
+  
+* 2011-2013: Laboratory Technician
+  * USM Archaeology Laboratory, Gorham ME
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spatial analysis
+* Spatial Databases
+  * ArcGIS
+  * QGIS
+* Python
+* R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
