@@ -2,7 +2,6 @@
 title: "Visitor Services Plan, Rachel Carson National Wildlife Refuge"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2013-05-01
 venue: 'US Fish & Wildlife Service'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
