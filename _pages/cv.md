@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -39,10 +39,10 @@ Related experience
   
 Skills
 ======
-* Spatial analysis
+* Spatial analysis & Remote Sensing
 * Spatial Databases
   * ArcGIS
   * QGIS
 * Python
 * R
-
+* Database maintenance & management
