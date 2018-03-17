@@ -6,6 +6,8 @@ collection: portfolio
 
 ### This project adds onto an earlier version that creates a plot summarizing bedrock area, to create a folium map.
 
+{% include geology_nh_map.html %}
+
 ``` python
 import numpy as np
 import geopandas as gpd
