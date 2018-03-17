@@ -1,14 +1,14 @@
-# main links links
-main:
- 
-  - title: "Portfolio"
-    url: /portfolio/
-    
- - title: "Publications"
+--- 
+main: 
+  - 
+    title: Publications
     url: /publications/
-        
-  - title: "CV"
+  - 
+    title: "Places I've Been"
+    url: /places/
+  - 
+    title: Portfolio
+    url: /portfolio/
+  - 
+    title: CV
     url: /cv/
-    
-  - title: "Places I've Been"
-    url: /markdown/
