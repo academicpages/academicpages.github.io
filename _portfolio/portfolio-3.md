@@ -1,5 +1,11 @@
-Reclassifying NH Lakes
+---
+title: "Reclassifying NH Lakes"
+excerpt: "Reclassify features used a custom Python function.<br/><img src='/images/Rock_types.png' style='width: 350px;'>"
+collection: portfolio
+---
 
+Reclassifying NH Lakes
+The object of this project was to create and use a custom class in Python. I created a class to seperate lakes in New Hampshire from those under 1 sq km from those over 1 sq km.
 
 ```import matplotlib.pyplot as plt
 import geopandas as gpd
