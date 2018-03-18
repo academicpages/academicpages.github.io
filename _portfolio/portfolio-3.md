@@ -1,84 +1,114 @@
 ---
-title: "Reclassifying NH Lakes"
-excerpt: "Reclassify features used a custom Python function.<br/><img src='/images/Rock_types.png' style='width: 350px;'>"
+title: "Folium Map of NH Bedrock"
+excerpt: "Using the USGS's MRData WMS, I created an interactive map using Folium, stylized with USGS Lithologic color classes.<br/><img src='/images/foliumbedrock.JPG'>"
 collection: portfolio
 ---
 
-Reclassifying NH Lakes
-The object of this project was to create and use a custom class in Python. I created a class to seperate lakes in New Hampshire from those under 1 sq km from those over 1 sq km.
+### This project adds onto an earlier version that creates a plot summarizing bedrock area, to create a folium map.
 
-```import matplotlib.pyplot as plt
+{% include geology_nh_map.html %}
+
+``` python
+import numpy as np
 import geopandas as gpd
+import pandas as pd
+import folium
+from matplotlib.colors import to_hex
+import seaborn as sns
 ```
 
-### File path below
+```python
+geology = gpd.read_file(r'C:\Users\Kaitlyn\Desktop\GIS\bedrock_geology\nhgeol_poly_dd.shp')
+```
+### Take a selection of the columns to simplify the dataset
+```python
+geology = geology.loc[:, ['geometry', 'ROCKTYPE1', 'ROCKTYPE2', 'UNIT_LINK']]
+```
+### Use the USGS litho symbology text file for color styling
+```python
+colors = pd.read_csv(r'C:\Users\Kaitlyn\Desktop\GeoPython\GeologyPython\lithrgb.txt', delimiter='\t')
+colors.index = colors.text.str.lower()
+colors.replace('-', '')
+colors.head()
+```
+### Use matplotlib's coloring and lambda function in python to join rgb values
+```python
+colors['rgba'] = colors.apply(lambda x:'rgba(%s,%s,%s,%s)' % (x['r'],x['g'],x['b'], 255), axis=1)
+colors['hex'] = colors.apply(lambda x: to_hex(np.asarray([x['r'],x['g'],x['b'],255]) / 255.0), axis=1)
+```
+### Group the polygons by rock type
+```python
+rock_group = geology.groupby('ROCKTYPE1')
+```
+### Create folium maps for each rock type
+```python
+map_center = [43.9,-72.6]
+m = folium.Map(location=map_center, zoom_start=8, height='100%', control_scale=True)
+fg = folium.FeatureGroup(name='Geology of New Hampshire').add_to(m)
 
-```
-fp = "C:/Users/Kaitlyn/Desktop/GeoPython/Reclass/data/NH_lakes_polygons.shp"
-```
-```
-data = gpd.read_file(fp)
-```
 
-### Examining the columns. I'm going to get rid of irrelevant columns in the shapefile.
+for rock in rock_group.groups.keys():
+    rock_df = geology.loc[geology.ROCKTYPE1 == rock]
+    style_function = lambda x: {'fillColor': colors.loc[x['properties']['ROCKTYPE1']]['hex'],
+                                'opacity': 0, 
+                                'fillOpacity': .85,
+                               }
+    g = folium.GeoJson(rock_df, style_function=style_function, name=rock.title())
+    g.add_child(folium.Popup(rock.title()))
+    fg.add_child(g)
 
-```
-data.head(2)
-```
-```
-selected_cols = ['COUNTY', 'AREA', 'LAKE', 'geometry']
-data = data[selected_cols]
-```
-
-#### Now I'm going to plot the data by area
-
-```
-data.plot(column='AREA', linewidth=0.05)
-```
-
-#### Remove any white space
-```
-plt.tight_layout()
-```
-
-### Create custom classifier - everything under 1 sq km in one class, everything else in another
-
-```
-def binaryClassifier(row, source_col, output_col, threshold):
-    if row[source_col] < threshold:
-        row[output_col] = 0
-    else:
-        row[output_col] = 1
-    return row
-```
-
-#### Calculating the area of lakes and converting from meters into sq km
-
-```
-data['area_km2'] = data['AREA'] / 1000000
-```
-```
-l_mean_size = data['area_km2'].mean()
+folium.LayerControl().add_to(m)
 ```
 
-### Create an empty column for the classifier to reside
+### Calculate area
+```python
+geology['AREA_sqkm'] = geology.to_crs({'init': 'epsg:32616'}).area / 10**6
 ```
-data['small_big'] = None
+### Get sum of all rock types
+```python
+rock_group_sum = rock_group.sum()
+rock_group_sum['ROCK'] = rock_group_sum.index
+rock_group_sum.head()
+print(rock_group_sum.head())
+                     AREA_sqkm                ROCK
+ROCKTYPE1                                         
+amphibolite          18.507552         amphibolite
+basalt               24.006376              basalt
+bimodal suite       723.229612       bimodal suite
+calc-silicate rock   47.731576  calc-silicate rock
+conglomerate         35.352720        conglomerate
+```
+### The resulting figure is created:
+
+    ![Mostly Granite](https://github.com/kmp24/GeologyPython/blob/master/Rock_types.png?raw=true)  
+
+
+
+### Create a folium map using USGS rock type descriptions
+```python
+import requests
+
+response = requests.request('GET', 'https://mrdata.usgs.gov/geology/state/json/{}'.format('MIYc;0')).json()
+m = folium.Map(location=map_center, zoom_start=8, height='100%', control_scale=True)
+fg = folium.FeatureGroup(name='Geology').add_to(m)
+
+for unit in geology.groupby('UNIT_LINK').groups.keys():
+    unit_df = geology.loc[geology.UNIT_LINK == unit]
+    description = requests.request(
+        'GET', 'https://mrdata.usgs.gov/geology/state/json/{}'.format(unit)).json()['unitdesc']
+    style_function = lambda x: {'fillColor': colors.loc[x['properties']['ROCKTYPE1']]['hex'],
+                                'opacity': 0, 
+                                'fillOpacity': .85,
+                               }
+    g = folium.GeoJson(unit_df, style_function=style_function)
+    g.add_child(folium.Popup(description))
+    fg.add_child(g)
+
+folium.LayerControl().add_to(m)
+m
 ```
 
-### Now apply the classifier to the data:
-
-```
-data = data.apply(binaryClassifier, source_col='area_km2', output_col='small_big', threshold=l_mean_size, axis=1)
-```
-
-### And here is the resulting plot:
-```
-data.plot(column='small_big', linewidth=0.05, cmap="seismic")
-```
-
-### Save the file as a new shapefile:
-```
-outfp_data = r"C:/Users/Kaitlyn/Desktop/GeoPython/Reclass/NH_lakes.shp"
-data.to_file(outfp_data)
+### Save the file
+```python
+m.save('C:/Users/Kaitlyn/Desktop/GeoPython/GeologyPython/geology_nh_map.html')
 ```
