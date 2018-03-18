@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Kaitlyn Perham"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "New Hampshire"
   employer         :
   googlescholar    : 
