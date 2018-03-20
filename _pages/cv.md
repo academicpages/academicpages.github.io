@@ -6,12 +6,16 @@ redirect_from:
   - /resume
 ---
 
-## Education
+***
+
+# Education
 
 **Massachusetts Institute of Technology**, PhD in Biological Engineering (expected 2019)   
 **Columbia University**, B.S. in Biomedical Engineering (2013)   
 
-## Research experience
+***
+
+# Research experience
 
 **Alm lab**, Massachusetts Institute of Technology (2014-present)   
 *Under the direction of Eric Alm*
@@ -31,13 +35,17 @@ I primarily focused on the DNA amplification and detection modules, optimizing p
 I was an international undergraduate research intern at Ecole Polytechnique the summer before my senior year.
 There, I worked with Cedric Norais to study the acquired-immunity CRISPR system in E. coli.
 
-## Publications
+***
+
+# Publications
 
 See [publications](/publications/) page.
 
-## Presentations
+***
 
-### Oral presentations
+# Presentations
+
+## Oral presentations
 
 Feb. 2018 - "Aspiration changes relationships in the aerodigestive microbiome." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
 
@@ -45,7 +53,7 @@ Oct. 2017 - "Meta-analysis to identify consistent disease-associated microbiome 
 
 Oct. 2016 - "The human gut microbiome in health and disease." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
 
-### Poster presentations
+## Poster presentations
 
 Mar. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Women in Data Science Cambridge](https://www.widscambridge.org/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
 
@@ -53,10 +61,11 @@ Jan. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific
 
 Feb. 2016 - "Empirical signatures of compositional stability in the gut microbiome." Statistical and Algorithmic Challenges in Microbiome Data Analysis Workshop, MIT Center for Informatics and Therapeutics and The Simons Center for Data Analysis. [pdf](/files/2016-02-25.predictingOTUs.scda_workshop_poster.pdf)
 
+***
 
-## Teaching
+# Teaching
 
-### Academic
+## Academic
 
 **20.106 Systems Microbiology, Teaching assistant**   
 *Massachusetts Institute of Technology*, Cambridge, Massachusetts (Fall 2015)
@@ -79,7 +88,7 @@ My senior year at Columbia, I TAed the intro to engineering course for freshmen.
 I assisted the students in designing and building a vital-signs monitoring device, guiding them through the engineering design process and teaching concepts in MATLAB and circuitry required for projects.
 I also mentored and advised students on general biomedical engineering and college-related questions.
 
-### Outreach   
+## Outreach   
 
 I've also taught some short courses about my work as part of various outreach activities:
 
@@ -89,8 +98,19 @@ I've also taught some short courses about my work as part of various outreach ac
 
 [**MIT SPLASH**](https://esp.mit.edu/learn/Splash/index.html) (2015). "Microbiome 101: What's in your poop?"
 
-## Leadership and service
+***
 
+# Leadership and service
+
+## Research-related
+
+[**MIT Microbiome Club**](http://microbiome.mit.edu/get-involved/#club), *co-Founder*, *President* (2015-2016), *Executive board member* (2016-present)
+
+**MIT-Harvard Microbiome Symposium**, *co-founder and Organizing committee* ([2016](https://microbiome2016.wordpress.com/) and [2017](https://microbiome2017.wordpress.com/))
+
+[**MIT Biotech Group**](http://biotech.mit.edu/), *Beyond the Bench Initiative board member* (2017-present)
+
+## Departmental and MIT
 
 **Graduate Student Council Diversity and Inclusion Subcommittee**, *Department and Classroom Inclusion co-coordinator* (2017-present)    
 
@@ -102,16 +122,25 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 
 [**BE Resources for Easing Friction and Stress**](http://berefs.com/), *BE Ref* (2016-present)    
 
+## Reviewer
+
 [**MIT IDEAS Global Challenge**](https://studentlife.mit.edu/ideas), *Reviewer* (2015-present)    
 
 [**MIT Summer Research Program (MSRP)**](https://odge.mit.edu/undergraduate/msrp/), *Reviewer* (2018)    
 
 [**MIT Committed to Caring**](https://odge.mit.edu/community/committed-to-caring-c2c/), *Reviewer* (2017)   
 
+## Extracurriculars
+
 [**HR ESL Program for MIT Service Employees**](http://hrweb.mit.edu/esl), *GED Math tutor* (2015-2018)
 
-[**MIT Women's Ultimate Frisbee Team**](http://scripts.mit.edu/~womens-ult/), *B-team captain* (2015-2016)
+[**MIT Women's Ultimate Frisbee Team**](http://scripts.mit.edu/~womens-ult/), *B-team captain* (2015-2016), *member* (2014-present)
 
+[**MIT Interfaith Dialogue Program**](http://addir.mit.edu/), *Addir fellow* (2017-present)
+
+***
+
+# Fellowships and Awards
 
 ## Fellowships
 
