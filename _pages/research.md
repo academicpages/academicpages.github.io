@@ -10,11 +10,11 @@ redirect_from:
 
 ## Work in Progress
 
-- Structural Transformations and State Institutions in Latin America, 1900-2010. **Under review**. [[Paper]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/status.txt). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta).
+- Structural Transformations and State Institutions in Latin America, 1900-2010.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta).
 
 - Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil. **Revise and resubmit**. [[Paper]](https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Clientelism_paper/raw/master/datasets/dat.RData).
 
-- Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Submitted**.
+- Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data.  [[Data]](http://www.hectorbahamonde.com/datasets/). **Submitted**.
 
 - Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt).
 
