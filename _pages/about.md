@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I was born in Zaragoza (Spain), where I also obtained my Computer Science Engineering degree. Now I am living in Madrid, where I work as an assistant investigator in Universidad Rey Juan Carlos while I am finishing the final project for my Master's degree in Computer Graphics, Videogames and Virtual Reality.
+I was born in Zaragoza (Spain), where I also obtained my Computer Science Engineering degree. Now I am living in Madrid, where I work as an research engineer Desilico Labs S.L. while I am finishing the final project for my Master's degree in Computer Graphics, Videogames and Virtual Reality.
 
 I really enjoy playing videogames, reading books and watching movies. Also I like to work on projects related to render, offline and real-time, but specially physically based offline render projects.
