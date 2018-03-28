@@ -1,5 +1,5 @@
 ---
-title: 'Expert's Advice On Writing Mathematics Papers'
+title: 'Experts Advice On Writing Mathematics Papers'
 date: 2018-03-28
 comments: true
 tags:
