@@ -41,7 +41,7 @@ There are also some books and articles that are more rigid on how you should wri
 > My main point is that mathematicians are so "singular", (and behave like fermions as opposed to the physicists who behave like bosons) that making general statements about them often produces something obviously wrong or devoid of any content.
 
 
-Finally, I cannot finish this point without mentioning that during my followig of various links people shared here and there, I came across a book by Carl E Linderholm from 1972.
+Finally, I cannot finish this point without mentioning that during my chasing of various interesting links folks shared here and there, I came across a book by Carl E Linderholm from 1972.
  
   **[Mathematics made difficult](https://en.wikipedia.org/wiki/Mathematics_Made_Difficult)**
 
