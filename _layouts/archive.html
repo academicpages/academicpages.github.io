@@ -26,3 +26,8 @@ layout: default
     {{ content }}
   </div>
 </div>
+
+
+{% if page.comments %}
+{% include disqus.html %}	 
+{% endif %}
