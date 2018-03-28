@@ -6,7 +6,6 @@ tags:
   - Style of writing 
   - Mathematics made difficult
   - How to write mathematics badly
-  - 
 permalink: /posts/2018/03/Expert's-Advice-On-Writing-Mathematics-Papers/  
 comments: true
 excerpt: "Avoiding common mistakes and pitfalls when writing your papers; Learning to show mercy on the readers/editors/publishers of your papers"
