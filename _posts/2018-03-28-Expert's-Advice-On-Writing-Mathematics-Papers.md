@@ -45,7 +45,7 @@ There are also some books and articles that are more rigid on how you should wri
 
 Finally, I cannot finish this point without mentioning that during my followig of various links people shared here and there, I came across a book by Carl E Linderholm from 1972.
  
- Mathematics made difficult, pp. 207, World Publishing
+  **Mathematics made difficult, pp. 207, World Publishing**
 
 Among other things, it is a humorous and entertaining satire of stereotypes of French mathematicians, the project of formulating all of mathematics on category-theoretic foundations, and some other pedestrian jokes. Here is a quote that stuck in my mind from it:
 
