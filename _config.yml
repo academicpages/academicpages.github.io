@@ -21,7 +21,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :  "sinhp-github-io"
+    shortname            :  sinhp-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
