@@ -3,105 +3,57 @@ title: 'Expert's Advice On Writing Mathematics Papers'
 date: 2018-03-28
 comments: true
 tags:
-  - Foreign language  
-  - Nederlands
-  - Canon van Nederland
-  - Spinoza
-  - Geschiedenis.nl
-  - Spreekwoorden
-  - Stuff Dutch people like
-  - Donald Duck
-permalink: /posts/2018/01/Learning-Dutch/  
+  - Style of writing 
+permalink: /posts/2018/03/Expert's-Advice-On-Writing-Mathematics-Papers/  
 comments: true
 excerpt: "Avoiding common mistakes and pitfalls when writing your papers; Learning to show mercy on the readers/editors/publishers of your papers"
-thumbnail: Rembrandt-StoneBridge.jpg
+
 ---
-
-
-{% include image.html url="/images/posts/Jan18/Rembrandt-StoneBridge.jpg" description="Landscape<sup>1</sup> with a Stone Bridge, Rembrandt van Rijn, c. 1638" link="https://www.rijksmuseum.nl/en/collection/SK-A-1935" %}
 
 
 
 ## A bit of context 
 
-It was nearly a year ago when I decided to learn Dutch or Nederlands<sup>2</sup>, a term Dutch use to refer to their own language. My efforts to learn Dutch was not concerted at all and I only did it in my spare time and most often whenever I travel to Holland. At the moment I would describe my Dutch efficiency as modest. I can read easier parts of newspaper articles and columns, speak at a basic level and write some of weird Dutch words without a mistake. In my opinion, one of the difficulties to learn the language by yourself is to find approporiate and interesting learning resources you can stick too. In this post I am going to introduce some of resources I have found useful so far. Hopefully, there will be some Dutch learners and others who find this article interesting and helpful. I divide the list of resources into three categories: beginner, intermediate, and more challenging. 
+The late number theorist David Gross in his very brief article [Some Hints on Mathematical Style](https://people.math.osu.edu/goss.3/hint.pdf) quotes famous mathematician J.P.Serre commenting on the original
+version of his article saying 
+> It strikes me that mathematical writing is similar to using a
+language. To be understood you have to follow some grammatical rules.
+However, in our case, nobody has taken the trouble of writing down the
+grammar; we get it as a baby does from parents, by imitation of others.
+Some mathematicians have a good ear; some not (and some prefer the
+slangy expressions such as “iff”). That’s life.
 
-I should also mention few good online dictionaries you may like to consistently use. Google Translate is an application that I frequently use. It has many downsides particularly when it comes to Dutch expresssions and proverbs and does not offer examples. It can best be used in tandem with either of following freely accessible online dictionaries: 
+Indeed, that is how I learn the grammar of this language. However, more recently I had to co-author a 50 plus page paper, and more and more I was concerned about readability of the final outcome. So, I decided to search on the web to see what the experts have to say on the matter. Goss's paper, despite its brevity, has very good tips on writing maths well with style; I like the analogy of writing papers with transmitting of ideas:   
+> All basic definitions should be given if they are not a
+standard part of the literature. It is perhaps best to err on the side
+of making life easier on the reader by including a bit too much as
+opposed to too little (Rule 1). Some redundancy should be built into the paper so that one or
+two misprints cannot destroy the understandability. The analogy
+is with “error-correcting codes” which allow transmission of
+information through noisy and defective channels.
 
-* [en.bab.la](https://en.bab.la/dictionary/dutch-english/)
-* [nl.glosbe](https://nl.glosbe.com/nl/en/)
-
-I also recommend to have [Wolters Woordenboek](https://www.boekwinkeltjes.nl/s/?q=Wolters+Woordenboek+Nederlands-Engels) hard-copy at hand. I like its completeness of entries and relevant examples.  
-
-
-## For beginners
-
-* **Dutch vocabulary: basic words** 
-  * [OCR basic vocabulary list](http://www.ocr.org.uk/Images/74540-alphabetical-vocabulary-list-for-2013-papers.pdf)
-  * [1000 most common words in Dutch](https://www.youtube.com/watch?v=k7t5HDxchqQ&list=PLUOa-qvvZolDeAYFOPqHRC9w8Nnx5cTcJ)
-
-* **Duolingo**: Well, you've probably heard of it already. Duo's Dutch lessons are well-prepared and they are great for absolute beginners. Remember that in addition to exercise lessons on your phone app, there are concise grammar tips for every lesson which are accessible via Duolingo website. Here is an exmaple from the first lesson:     
-
-<figure>
-<a href="https://www.duolingo.com/">  
-<br/><img src='/images/posts/Jan18/Duo-Dutch-pronouns.png'>
-</a> 
-<FIGCAPTION></FIGCAPTION>
-</figure>
+Goss gives a set of minimal rules. Most rules there must be observed in any good math writing, and maybe one or two seems subjective to me. As a great companion to Goss's paper you should also watch famous Serre's talk [How to write mathematics badly](https://www.youtube.com/watch?v=ECQyFzzBHlo). It is rather fun to watch! You get to watch lots of funny mistakes, including mispellings<sup>1</sup> of different kinds: e.g. "Principle bundles have moral fibres."     
 
 
-* **Donald Duck Junior** is arguably one of the most popular comic strip magazines (stripverhal) in Holland and beyond, with comics from Walt Disney characters . Check out [Donald Duck Junior website](https://www.donaldduck.nl/donald-duck-junior).  
-
-* **Stuff Dutch people like**: Learning a language is not just about words and grammar. Here is a somewhat accurate [list](https://stuffdutchpeoplelike.com/complete-list/) of things Dutch people in general like. "Hagelslag", "Scheduling agenda appointments", "Zwarte Piet", "Swearing with diseases", etc are noticeable. Treat it as an index of Dutch*ness*.   
-
-* **Some Dutch expressions and idioms**: [Here](https://stuffdutchpeoplelike.com/2016/03/08/funny-dutch-expressions/) is a list of few easy-to-remember and funny Dutch expressions you might like to learn. 
-
-* **Dutch grammar books** 
-  * [Dutch: An Essential Grammar](https://books.google.nl/books/about/Dutch.html?id=3aU0DgAAQBAJ&redir_esc=y) by William Z. Shetter and Esther Ham 
-  * [Basic Dutch: A Grammar and Workbook](https://books.google.nl/books/about/Basic_Dutch_A_Grammar_and_Workbook.html?id=iRelBXxYRcIC&redir_esc=y) by Jenneke Oosterhoff
+If you are unsure about certain typographical issue when writing maths, such as spacing, breaks, hyphens, etc. then you can consult the book [Mathematics into Type](https://www.ams.org/publications/authors/mit-2.pdf) by E. Swanson. (It is freely accessible.)
 
 
-## Intermediate Stuff
+There are also some books and articles that are more rigid on how you should write your mathematics. However, I think although some of these rules can improve the quality of piece of writing dramatically, especially for the reader, we must not forget that mathematics is a highly social activity and at the end of day any mathematics paper reflects the idiosyncratic habits of thinking of its author, and these could make an otherwise monotone stylish<sup>2</sup>. I agree with [Alain Connes](http://noncommutativegeometry.blogspot.co.uk/2007/02/good-mathematics.html) that  
 
-* **De Canon van Nederland**
-is a list of fifty topics that aims to provide a chronological summary of Dutch history to be taught in primary schools and the first two years of secondary school in the Netherlands. It was designed to provide an overview of "what everyone ought to know, at the very least, about the history and culture of the Netherlands", as well as providing a framework for the teaching of History in Dutch schools.
-Check out the very cool website [entoen.nu](https://www.entoen.nu/) which hosts the canon material for use in schools and in society in general. You can create your own account and customize your learning chronological map according to your taste. 
+> My main point is that mathematicians are so "singular", (and behave like fermions as opposed to the physicists who behave like bosons) that making general statements about them often produces something obviously wrong or devoid of any content.
 
-* **Donald Duck** is a more serious version of Donald Duck Junior and yes it is read avidly by adults as well as young childrend and teenagers. Compared to Donald Duck Junior the stories are way longer and more interesting and range of vocubalaries vastly greater. I like them a lot and I have a stack of them at home. Here is the website: [donaldduck.nl/](https://www.donaldduck.nl/) 
 
-* **[Intermediate Dutch: A Grammar and Workbook](https://books.google.nl/books?id=FCBp5NXeBrwC&source=gbs_book_similarbooks)** by Jenneke Oosterhoff
-
-* **Children's books** 
-Some children books have helped my learning process to be fun, faster and more interesting. Here are few of them:
-
-  * **[Meneer Blijleven](https://www.givnbooks.nl/product/tolkien-j-r-r-meneer-blijleven/)** which is a Dutch translation of J.R.R.Tolkien's picture book [Mr.Bliss](https://wiki2.org/en/Mr._Bliss). The cool part is that the book includes Tolkien's story with his own handwriting and illustrations on even pages and nice Dutch translation on odd pages which makes reading the book in Dutch much easier for learners of the language. Another edition of the book with a Dutch review is available at [boekreviews.nl](http://www.boekreviews.nl/recensies/meneer-blijleven). 
- Here is my plea to you: please share with me if you know any books of this style. 
-
-<figure>  
- <br/><img src='/images/posts/Jan18/meneerblijleven.jpg'>
-</figure>
-
-  * **[Toon Tellegen](https://wiki2.org/en/Toon_Tellegen)'s children books**: So far I only looked at <q>Maar niet uit het hart. Dierenverhalen over afscheid</q>. You can find list of all his children books here: [Toon Tellegen bibliografie](https://nl.wikipedia.org/wiki/Toon_Tellegen#Bibliografie).  
+Finally, I cannot finish this point without mentioning that during my followig of various links people shared here and there, I came across a book by Carl E Linderholm from 1972.
  
-  * **[Filosofie In Beeld](https://www.boekencentrum.nl/filosofie-in-beeld)** is an illustrated journey through the history of Western philosophy by Margreet de Heer. It is fun to read, and pictures help a lot to understand the contexts and sentences even if you do not understand every Dutch word in the text. Other books by the same author: [Religie In Beeeld](https://www.boekencentrum.nl/religie-in-beeld), [Wetenschappen In Beeld](https://www.boekencentrum.nl/wetenschappen-in-beeld), and [Wereldschappij In Beeld](https://www.boekencentrum.nl/wereldheerschappij-in-beeld) 
+ Mathematics made difficult, pp. 207, World Publishing
 
-## More Challenging
+Among other things, it is a humorous and entertaining satire of stereotypes of French mathematicians, the project of formulating all of mathematics on category-theoretic foundations, and some other pedestrian jokes. Here is a quote that stuck in my mind from it:
 
-* **Geschiedenis.nl** is website with historical and cultural articles for the interest of broad public. Moreover, Geschiedenis.nl advise, leads, and holds lectures on projects in the fields of history and culture. 
-
-* **Encyclopedia of Dutch expressions, idioms, and proverbs**: Find them at [spreekwoorden.nl](https://spreekwoorden.nl/).
-If that is too much for you, just buy a pack of [Het Spreekwoorden spel](https://www.trendyspeelgoed.nl/Het-Spreekwoorden-spel.html) to play! 
-
-* **Kranten (Newspapers)**: Among different Dutch newspapers and news sites, I recommend [Trouw](https://www.trouw.nl/). It is thorough in their news coverage, and has interesting society and culture, history, religion and philosophy, and green life columns. They also publsih review of books as well as interviews with book authors and other important figures. A more mainstream option is [NRC Handelsblad](https://www.nrc.nl/). 
-
-
-* **Mathematics in Dutch**: Here is a list of mathematics (wiskunde) in Dutch. 
- * [BASISBOEK WISKUNDE](https://staff.fnwi.uva.nl/j.vandecraats/BasisboekWiskunde2HP.pdf): an open-ended online book by Jan van de Craats en Rob Bosch
+> The simpler the things a man gets difficulty out of, the better his mathmanship.
 
 
 -------------------------------------------------------
-1. Description: De stenen brug. Landschap met een stenen brug over een rivier of vaart. Op het water bevinden zich twee bootjes met figuren. Op de weg lopen verschillende personen, links een wagen. In het midden een hooischuur tussen bomen, rechts in de verte een kerktoren. More at [rijksmuseum.nl](https://www.rijksmuseum.nl/en/collection/SK-A-1935). 
+1. A self-referential word. The correct spelling is, of course, misspelling. 
 
-2. Nether means _situated down or below_ and _lower_, and the word Nederland literally refers to [the Low Countries](https://en.wikipedia.org/wiki/Low_Countries). For instance, kan je nederlands spreken?.  <q>Koninkrijk der Nederlanden</q> (Kingdom of the Netherlands) is used officially to refer to Dutch Kingdom, and Nederland (singular) is used for the modern nation. 
-{: .notice}
+2. Speaking of stylish papers that come to my mind are 
 ---------------------------------------------------------
