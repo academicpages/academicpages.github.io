@@ -11,9 +11,6 @@ excerpt: "Avoiding common mistakes and pitfalls when writing your papers; Learni
 ---
 
 
-
-## A bit of context 
-
 The late number theorist David Gross in his very brief article [Some Hints on Mathematical Style](https://people.math.osu.edu/goss.3/hint.pdf) quotes famous mathematician J.P.Serre commenting on the original
 version of his article saying 
 > It strikes me that mathematical writing is similar to using a
