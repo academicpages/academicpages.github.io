@@ -21,7 +21,7 @@ grammar; we get it as a baby does from parents, by imitation of others.
 Some mathematicians have a good ear; some not (and some prefer the
 slangy expressions such as “iff”). That’s life.
 
-Indeed, that is how I learn the grammar of this language. However, more recently I had to co-author a 50 plus page paper, and more and more I was concerned about readability of the final outcome. So, I decided to search on the web to see what the experts have to say on the matter. Goss's paper, despite its brevity, has very good tips on writing maths well with style; I like the analogy of writing papers with transmitting of ideas:   
+Indeed, that is how I learn the grammar of this language; by reading from others and trail and error of writing. However, more recently I had to co-author a 50 plus page paper, and more and more I was concerned about readability of the final outcome. So, I decided to search on the web to see what the experts have to say on the matter. Goss's paper, despite its brevity, has very good tips on writing maths well with style; I like the analogy of writing papers with transmitting of ideas:   
 > All basic definitions should be given if they are not a
 standard part of the literature. It is perhaps best to err on the side
 of making life easier on the reader by including a bit too much as
@@ -54,4 +54,5 @@ Among other things, it is a humorous and entertaining satire of stereotypes of F
 1. A self-referential word. The correct spelling is, of course, misspelling. 
 
 2. Speaking of stylish papers that come to my mind are 
+
 ---------------------------------------------------------
