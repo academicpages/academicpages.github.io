@@ -24,10 +24,31 @@ I am fond of remote places in nature, museums, hiking, and photography. I am a r
 
 Ocassionally, I will write some of my thoughts on range of issues of philosphical nature on <a href="/year-archive">my blog</a>. If you like to discuss those ideas further, I would appreciate if you leave your comments under the posts. 
 I also write on [Medium](https://medium.com/@sinahazratpour). 
+
 <div class="footer-col footer-col-3">
       <small>
         <em>Last Updated:</em> {{'now' | date: "%h %d, %Y"}}
         </small>        
 </div>
 
+<!-- Default Statcounter code for Github page
+https://sinhp.github.io/ -->
+<script type="text/javascript">
+var sc_project=11670804; 
+var sc_invisible=0; 
+var sc_security="f1158054"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="http://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="//c.statcounter.com/11670804/0/f1158054/0/" alt="Web
+Analytics Made Easy - StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
+<a href="http://statcounter.com/p11670804/?guest=1">View My
+Stats</a>
 
