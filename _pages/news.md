@@ -12,9 +12,9 @@ redirect_from:
 
 - I am currently working on integrating a Bayes Filter into our DeepHKCF tracker to improve tracking through mild-to-severe occlusions. More to come soon!
 
-- I presented our paper on high-speed scale adaptive object tracking in WACV18 conference in South Lake Tahoe. [Presentation](../_pages/WACV18_Presentation.pdf) [Poster](../_pages/WACV18_Poster.pdf) [Video](https://www.youtube.com/watch?v=xLjLc0eVqLU)
+- I presented our paper on high-speed scale adaptive object tracking in WACV18 conference in South Lake Tahoe. [Presentation](../files/WACV18_Presentation.pdf) [Poster](../files/WACV18_Poster.pdf) [Video](https://www.youtube.com/watch?v=xLjLc0eVqLU)
 
-- Our paper on high-speed scale-adaptive object tracking (>300fps) has been accepted to the *IEEE Winter Conference on Applications of Computer Vision (WACV18) 2018*!
+- Our paper on high-speed scale-adaptive object tracking (>300fps) has been accepted to the *IEEE Winter Conference on Applications ofa Computer Vision (WACV18) 2018*!
 
 	- Uzkent, Burak, and Seo, YoungWoo "EnKCF : Ensemble of Kernelized Correlation Filters for Object Tracking in High Speed" [arxiv](https://arxiv.org/pdf/1801.06729.pdf)
 
