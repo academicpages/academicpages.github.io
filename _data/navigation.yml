@@ -8,11 +8,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Scribbling"
-    url: /scribbling/
+ 
       
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog/
     
     
   - title: "Useful Links"
