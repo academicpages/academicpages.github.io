@@ -49,6 +49,5 @@ target="_blank"><img class="statcounter"
 src="//c.statcounter.com/11670804/0/f1158054/0/" alt="Web
 Analytics Made Easy - StatCounter"></a></div></noscript>
 <!-- End of Statcounter Code -->
-<a href="http://statcounter.com/p11670804/?guest=1">View My
-Stats</a>
+
 
