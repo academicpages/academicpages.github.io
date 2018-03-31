@@ -1,6 +1,6 @@
 ---
 title: "Site is online!"
-date: 2017-12-01
+date: 2018-01-01
 collection: news
 ---
 
