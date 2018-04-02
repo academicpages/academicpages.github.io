@@ -12,6 +12,7 @@ redirect_from:
 
 **Massachusetts Institute of Technology**, PhD in Biological Engineering (expected 2019)   
 **Columbia University**, B.S. in Biomedical Engineering (2013)   
+James Bowie High School, Austin, TX (2009)
 
 ***
 
@@ -22,7 +23,7 @@ redirect_from:
 
 I am currently a PhD student in [Eric Alm's lab](almlab.mit.edu) at MIT. You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
 
-**Molecular and Microscale Bioenigneering Laboratory**, Columbia University (2011-2013)
+**Molecular and Microscale Bioengineering Laboratory**, Columbia University (2011-2013)
 *Under the direction of Samuel K. Sia*
 
 I was an undergraduate research assistant in [Sam   Sia](http://bme.columbia.edu/samuel-k-sia)'s lab for two years at Columbia.
@@ -47,6 +48,8 @@ See [publications](/publications/) page.
 
 ## Oral presentations
 
+Mar. 2018 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/).
+
 Feb. 2018 - "Aspiration changes relationships in the aerodigestive microbiome." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
 
 Oct. 2017 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT Department of Biological Engineering Retreat](http://be-retreat.mit.edu/).
@@ -54,6 +57,8 @@ Oct. 2017 - "Meta-analysis to identify consistent disease-associated microbiome 
 Oct. 2016 - "The human gut microbiome in health and disease." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
 
 ## Poster presentations
+
+Mar. 2018 - "Meta-analysis to identify consistent disease-specific and shared responses." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/). [pdf](/files/2018-03-21.symposium_poster.pdf)
 
 Mar. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Women in Data Science Cambridge](https://www.widscambridge.org/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
 
