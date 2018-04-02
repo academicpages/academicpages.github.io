@@ -14,4 +14,4 @@ The goal of this course is to introduce students the core concepts (i.e., the st
 
 Time:May 14, 2018-Jun 2, 2018
 
-You can download the preliminary syllabus by clicking [here](joshzyj.github.io/files/summer2018.pdf).
+You can download the preliminary syllabus by clicking [here](https://joshzyj.github.io/files/summer2018.pdf).
