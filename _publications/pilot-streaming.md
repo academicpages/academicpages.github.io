@@ -6,7 +6,7 @@ excerpt: 'This paper is about stream processing  on HPC environments'
 date: 2018-01-26
 paperurl: 'https://arxiv.org/pdf/1801.08648.pdf'
 citation: 'Andre Luckow,  George Chantzialexiou, Shantenu Jha
-Pilot-Streaming: A Stream Processing Framework for High-Performance Computing
+Pilot-Streaming: A Stream Processing Framework for High-Performance Computing'
 ---
 
 ## Abstract:
