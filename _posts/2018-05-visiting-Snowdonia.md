@@ -1,10 +1,10 @@
 ---
 title: 'visiting Snowdonia'
-date: 2018-01-05
+date: 
 comments: true
 tags:
   - May holidays
-permalink: /posts/2018/05/visiting-Snowdonia/  
+permalink: /posts/2018-05-visiting-Snowdonia/  
 comments: true
 excerpt: ""
 thumbnail: Rembrandt-StoneBridge.jpg
