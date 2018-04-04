@@ -58,8 +58,6 @@ He continues:
 In order to understand how crucial this distinction proves to be it is perhpas insightful to contrast it with its anti-thesis, that is a metaphysical commitment to a totality of of both worlds in which every political programme should be based on a theoretical ground. 
 
 
-<div class="overflowbugx" style="overflow:auto;"><a class="image" href="/en/File:Mawddach_river_valley_panorama_jpg" title="Panorama of the Afon Mawddach towards Penmaenpool and Cadair Idris"><div class="magnify2" id="magnify2">
- </div>
 
 
 [1]: http://www.mpifg.de/pu/mpifg_dp/dp13-7.pdf
