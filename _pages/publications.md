@@ -14,7 +14,7 @@ author_profile: true
 
 **Claire Duvallet**. "Meta-analysis generates and prioritizes hypotheses for translational microbiome research." _Microbial Biotechnology_ (2018). doi: [10.1111/1751-7915.13047](https://doi.org/10.1111/1751-7915.13047)
 
-**Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." _Nature Communications_ (2017). doi: [10.1038/s41467-017-01973-8](https://doi.org/10.1038/s41467-017-01973-8), bioRxiv doi: [10.1101/134031](https://doi.org/10.1101/134031). Associated github: [cduvallet/microbiomeHD](https://github.com/cduvallet/microbiomeHD) and data: [zenodo record 840333](https://doi.org/10.5281/zenodo.797943).
+**Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." _Nature Communications_ (2017). doi: [10.1038/s41467-017-01973-8](https://doi.org/10.1038/s41467-017-01973-8). Associated github: [cduvallet/microbiomeHD](https://github.com/cduvallet/microbiomeHD) and data: [zenodo record 840333](https://doi.org/10.5281/zenodo.797943).
 
 Scott W. Olesen, **Claire Duvallet**, and Eric J. Alm. "dbOTU3: A new implementation of distribution-based OTU calling." _PloS one_ 12, no. 5 (2017): e0176335. doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pone.0176335)
 
@@ -22,7 +22,7 @@ Sean M. Gibbons, **Claire Duvallet**, and Eric J. Alm. "Correcting for batch eff
 
 ## Other
 
-_[Resource]_ **Claire Duvallet** and Monika Avello. "[Graduate student support resources flowchart.](/files/2018-04-01-Grad-Support-Flowchart-MIT-Digital.pdf )" I and another student on [iREFS](http://refs.mit.edu/irefs/) created this flowchart to help graduate students find support at MIT. 
+_[Resource]_ **Claire Duvallet** and Monika Avello. "[Graduate student support resources flowchart.](/files/2018-04-01-Grad-Support-Flowchart-MIT-Digital.pdf )" I and another student on [iREFS](http://refs.mit.edu/irefs/) created this flowchart to help graduate students find support at MIT.
 
 _[Blog post]_ **Claire Duvallet**. "[Beyond dysbiosis: disease-specific and shared microbiome responses to disease.](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease)" _Nature Microbiology Community Forum._ December 2017.
 
