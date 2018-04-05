@@ -20,13 +20,15 @@ Scott W. Olesen, **Claire Duvallet**, and Eric J. Alm. "dbOTU3: A new implementa
 
 Sean M. Gibbons, **Claire Duvallet**, and Eric J. Alm. "Correcting for batch effects in case-control microbiome studies." _bioRxiv_ (2017): 165910. bioRxiv doi: [10.1101/165910](https://doi.org/10.1101/165910)
 
-## Other
-
-_[Resource]_ **Claire Duvallet** and Monika Avello. "[Graduate student support resources flowchart.](/files/2018-04-01-Grad-Support-Flowchart-MIT-Digital.pdf )" I and another student on [iREFS](http://refs.mit.edu/irefs/) created this flowchart to help graduate students find support at MIT.
+## Non-peer reviewed academic content
 
 _[Blog post]_ **Claire Duvallet**. "[Beyond dysbiosis: disease-specific and shared microbiome responses to disease.](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease)" _Nature Microbiology Community Forum._ December 2017.
 
 _[Dataset]_ **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. (2017). MicrobiomeHD: the human gut microbiome in health and disease. _Zenodo_. doi: [10.5281/zenodo.797943](https://doi.org/10.5281/zenodo.797943)
+
+## Other
+
+_[Resource]_ **Claire Duvallet** and Monika Avello. "[Graduate student support resources flowchart.](/files/2018-04-01-Grad-Support-Flowchart-MIT-Digital.pdf )" I and another student on [iREFS](http://refs.mit.edu/irefs/) created this flowchart to help graduate students find support at MIT.
 
 _[Blog posts]_ **Claire Duvallet**. During my Luce year (2014-2015), I wrote some posts for the Engineering World Health [blog](http://www.ewh.org/news/blog):
 
