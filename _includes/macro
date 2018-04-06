@@ -7,6 +7,7 @@ $$
 \newcommand{\what}[1]{\widehat{#1}}
 \newcommand{\ep}{\varepsilon}
 \newcommand{\ph}{\varphi}
+\newcommand{\maps}{\colon}
 \newcommand{\to}{\rightarrow}
 \newcommand{\xraw}{\xrightarrow}
 \newcommand{\darr}{\downarrow}
