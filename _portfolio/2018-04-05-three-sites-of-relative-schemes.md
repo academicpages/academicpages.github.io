@@ -1,7 +1,7 @@
 ---
 title: "Three Sites Of Relative Schemes"
 author: Sina Hazratpour
-excerpt: "We introduce three Grothendieck topologies on the category of based schemes; the Zariski, the étale and the fpqc topology"
+excerpt: "Warning: in construction! We introduce three Grothendieck topologies on the category of based schemes; the Zariski, the étale and the fpqc topology"
 category: research notes
 tags: 
    - schemes
