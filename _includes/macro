@@ -13,6 +13,7 @@ $$
 \newcommand{\darr}{\downarrow}
 \newcommand{\To}{\Rightarrow}
 \renewcommand{\dot}{\centerdot}
+\renewcommand{\tensor}{\otimes}
 \newcommand{\pr}{^\prime}
 \newcommand{\op}[1]{#1^{\mathrm{op}}}
 \newcommand{\hom}{\textit{Hom}}
