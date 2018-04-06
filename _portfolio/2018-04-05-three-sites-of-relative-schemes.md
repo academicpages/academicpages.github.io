@@ -25,7 +25,7 @@ location: "Vienna, Austria"
 
 Grothendeick's relative point of view philosophy in stuying schems and more generally any spatial category is that we should really be studying morphisms than objects; the emphasis of the basic theory of schemes should not be on the properties of schemes, but on the properties of morphisms. In doing this, one generalizes the notions previously defined on objects to morphisms, e.g. connectedness, local connectedness, etale, (quasi) compactness, etc. 
 
-Suppose $(\cat{C}, \bb{J})$ is a site. and $U$ is an object of $\cat{C}$. We say a sieve $R$ _covers_ $U$ if $R \in \bb{J}(U)$. We define an inherited topology $\bb{J}_U$ in the following way: for any morphism $f \maps \colon V \to U$ in $\cat{C}/U$, and any family ${ g_i \colon V_i \to U }_i$, the family ${ h_i \colon g_i \to f }_i$ in $\cat{C}/U$ covers $f$ whenever ${h_i \colon V_i \to V}$ covers $V$.   
+Suppose $(\cat{C}, \bb{J})$ is a site. and $U$ is an object of $\cat{C}$. We say a sieve $R$ _covers_ $U$ if $R \in \bb{J}(U)$. We define an inherited topology $\bb{J}_U$ in the following way: for any morphism $f \maps \colon V \to U$ in $\cat{C}/U$, and any family ${g_i \colon V_i \to U}$, the family ${h_i \colon g_i \to f}$ in $\cat{C}/U$ covers $f$ whenever ${h_i \colon V_i \to V}$ covers $V$.   
 
 
 
