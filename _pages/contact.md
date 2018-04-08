@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 Computer Science Department, Stanford University<br>
-Gates Computer Science Building, 353 Serra Mall, Stanford, CA 94305
+Gates Computer Science Building, 353 Serra Mall, Stanford, CA 94305<br>
 Email: lantaoyu [at] stanford.edu
 
 Computer Science Department, Shanghai Jiao Tong University<br>
