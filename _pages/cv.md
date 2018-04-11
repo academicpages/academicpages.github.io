@@ -21,7 +21,7 @@ James Bowie High School, Austin, TX (2009)
 **Alm lab**, Massachusetts Institute of Technology (2014-present)   
 *Under the direction of Eric Alm*
 
-I am currently a PhD student in [Eric Alm's lab](almlab.mit.edu) at MIT. You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
+I am currently a PhD student in [Eric Alm's lab](http://almlab.mit.edu/) at MIT. You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
 
 **Molecular and Microscale Bioengineering Laboratory**, Columbia University (2011-2013)
 *Under the direction of Samuel K. Sia*

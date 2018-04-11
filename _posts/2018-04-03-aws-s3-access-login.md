@@ -1,6 +1,6 @@
 ---
 title: Getting access, logging into, and using AWS S3
-permalink: /posts/2018/02/aws-s3-access
+permalink: /posts/2018/04/aws-s3-access
 date: 2018-04-03
 tags:
     - coding
