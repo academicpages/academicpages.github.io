@@ -20,6 +20,7 @@ redirect_from:
 
 
 # Recent News
+* April 12, 2018. New preprint: "CoT: Cooperative Training for Generative Modeling", a new paradigm for training tractable density generative model that is parallel to adversarial training. Available on [arXiv](https://arxiv.org/abs/1804.03782).
 * November 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*.
 * November 12, 2017. A paper was accepted in the *AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop*.
 * September 17, 2017. New preprint: An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning. Available on [arXiv](https://arxiv.org/abs/1709.04511)
