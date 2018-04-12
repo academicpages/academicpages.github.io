@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lantao Yu"
 title_separator          : "-"
 name                     : &name "Lantao Yu"
-description              : &description "Research Intern, School of Computer Science, Carnegie Mellon University"
+description              : &description "Undergraduate, Computer Science Department, Shanghai Jiao Tong University"
 url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LantaoYu/lantaoyu.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Lantao Yu"
   avatar           : "lantaoyu.jpg"
-  bio              : "Research Intern, School of Computer Science, Carnegie Mellon University"
-  location         : "Pittsburgh, United States"
+  bio              : "Undergraduate, Computer Science Department, Shanghai Jiao Tong University"
+  location         : "Shanghai, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@cmu.edu"
+  email            : "lantaoyu@hotmail.com"
   uri              : 
   bitbucket        :
   codepen          :
