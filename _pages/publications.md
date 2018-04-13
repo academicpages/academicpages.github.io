@@ -3,10 +3,9 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-
-
+<br>
 <b>[CoT: Cooperative Training for Generative Modeling](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Weinan Zhang, Yong Yu. <i>ArXiv 2018</i>.
+Sidi Lu, <b>Lantao Yu</b>, Weinan Zhang, Yong Yu. ArXiv 2018. <i>In submission to NIPS 2018.</i>.
 
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CoT
 venue: "ArXiv 2018"
 date: 2018-4-12
-citation: 'Sidi Lu, <b>Lantao Yu</b>, Weinan Zhang, Yong Yu. <i>ArXiv 2018</i>.'
+citation: 'Sidi Lu, <b>Lantao Yu</b>, Weinan Zhang, Yong Yu. ArXiv 2018. <i>In submission to NIPS 2018.</i>'
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
 
