@@ -2,7 +2,7 @@
 title: "Relative Pseudo-Monads"
 author: Sina Hazratpour
 permalink: /scribbling/2017-05-06-on-relative-pseudo-monads
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2017-05-06
 excerpt: "Notes from a talk given by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) in theory seminar "
