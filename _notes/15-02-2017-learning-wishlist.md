@@ -2,7 +2,7 @@
 title: "A Learning Wishlist"
 author: Sina Hazratpour
 permalink: /scribbling/15-02-2017-learning-wishlist
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2017-02-15
 excerpt: "A list of tricks/theorems/constructions/concepts/theories I wished to know but never had time/opportunity to learn them!"
