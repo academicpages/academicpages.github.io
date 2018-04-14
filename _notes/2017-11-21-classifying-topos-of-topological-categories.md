@@ -2,7 +2,7 @@
 title: "Classifying Topos of Topological Categories"
 author: Sina Hazratpour
 permalink: /scribbling/2017-11-21-classifying-topos-of-topological-categories
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2017-11-21
 excerpt: "Notes for my CARGO talks."
