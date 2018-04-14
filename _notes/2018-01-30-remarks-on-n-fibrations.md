@@ -2,7 +2,7 @@
 title: "Some Remarks On n-Fibraitons"
 author: Sina Hazratpour
 permalink: /scribbling/2018-01-30-remarks-on-n-fibrations
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2018-01-30
 excerpt: "Some notes on generalization of Grothendieck fibrations to n-categories"
