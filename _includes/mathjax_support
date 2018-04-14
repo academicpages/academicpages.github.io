@@ -7,9 +7,8 @@
       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
       processEscapes: true
     },
-    "HTML-CSS":
-    {scale: 92},
-    { availableFonts: ["TeX"] },
+    "HTML-CSS": { availableFonts: ["TeX"] },
+    {scale: 92}
   });
 </script>   
 
