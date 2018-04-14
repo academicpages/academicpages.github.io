@@ -2,7 +2,7 @@
 title: "Lifting Of Monads To Grothendieck Toposes"
 author: Sina Hazratpour
 permalink: /scribbling/2017-05-22-lifting-of-monads-to-Grothendieck-toposes
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2017-05-22
 excerpt: "Notes for my CARGO talk."
