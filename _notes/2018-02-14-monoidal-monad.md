@@ -2,7 +2,7 @@
 title: "Notes On Monoidal Monad"
 author: Sina Hazratpour
 permalink: /scribbling/2018-02-14-monoidal-monads
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2018-02-14
 excerpt: "Notes from my Lab Lunch talk on February 13, 2018"
