@@ -2,7 +2,7 @@
 title: "Lawvere-Tierney Topology"
 author: Sina Hazratpour
 permalink: /scribbling/2017-10-24-Lawevere-Tierney-topologies
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2017-10-24
 excerpt: "Some remarks and supplementary notes on my CARGO talk"
