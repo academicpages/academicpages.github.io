@@ -5,7 +5,7 @@ excerpt: "An example of a topos (from logic) that does not have any points."
 category: research notes
 tags: topos, points, sup-topology, atoms, ultrafilter
 permalink: /scribbling/22-11-2017-a-topos-without-points
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 22-11-2017
 use_math: true
