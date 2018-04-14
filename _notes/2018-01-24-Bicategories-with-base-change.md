@@ -2,7 +2,7 @@
 title: "Bicategories with Base Change"
 author: Sina Hazratpour
 permalink: /scribbling/2018-01-24-Bicategories-with-base-change
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2018-01-24
 excerpt: "Notes on framed bicategories based on a Cargo Talk"
