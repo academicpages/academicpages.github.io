@@ -10,7 +10,6 @@
     "HTML-CSS":
     {scale: 92},
     { availableFonts: ["TeX"] },
-    TeX: { equationNumbers: { autoNumber: "AMS" }}
   });
 </script>   
 
