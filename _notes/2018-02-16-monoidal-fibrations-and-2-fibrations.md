@@ -2,7 +2,7 @@
 title: "Are Monoidal Fibrations Instances Of 2-fibrations?"
 author: Sina Hazratpour
 permalink: /scribbling/2018-02-16-monoidal-fibrations-and-2-fibrations
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2018-02-16
 excerpt: "Notes on framed bicategories based on a Cargo Talk"
