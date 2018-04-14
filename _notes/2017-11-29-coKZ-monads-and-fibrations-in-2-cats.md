@@ -2,7 +2,7 @@
 title: "On a paper of Street"
 author: Sina Hazratpour
 permalink: /scribbling/2017-11-29-coKZ-monads-and-fibrations-in-2-cats
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2017-11-29
 excerpt: "Notes on Street's paper"
