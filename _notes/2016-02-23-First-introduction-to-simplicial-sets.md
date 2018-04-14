@@ -2,7 +2,7 @@
 title: "First Introduction To Simplicial Sets"
 author: Sina Hazratpour
 permalink: /scribbling/2016-02-23-First-introduction-to-simplicial-sets
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2016-02-23
 excerpt: "Notes for my CARGO talk."
