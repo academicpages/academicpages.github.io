@@ -2,7 +2,7 @@
 title: "Surjection Of Locales Are Not Surjective On Points"
 author: Sina Hazratpour
 permalink: /scribbling/2018-02-08-surjection-of-locales
-collection: portfolio
+collection: notes
 type: "scribbling"
 date: 2018-02-08
 excerpt: "Extended notes based on Steve Vickers’s expository talk in CARGO"
