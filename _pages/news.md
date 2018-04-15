@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+- I have presented my recent works on object detection and tracking in aerial images in the Vision and Autonomous System Center Seminar at Carnegie Mellon University. 
+
 - I am currently working on improving designing an end-to-end deep learning WAMI vehicle trained on non-WAMI dataset. More to come soon!
 
 - I am currently working on integrating a Bayes Filter into our DeepHKCF tracker to improve tracking through mild-to-severe occlusions. More to come soon!
