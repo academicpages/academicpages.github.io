@@ -21,7 +21,7 @@ location: "Birmingham,UK"
 
 The notion of principal bundle is by now a very important classical notion in mathematics, particularly in topology and differential geometry as well as in physics as foundational framework of gauge theories. Perhaps its first robust appearance is in
 
-STEENROD, N. (1951). The Topology of Fibre Bundles. (PMS-14). PRINCETON, NEW JERSEY: Princeton University Press. Retrieved from http://www.jstor.org/stable/j.ctt1bpm9t5 
+STEENROD, N. (1951). The Topology of Fibre Bundles. (PMS-14). PRINCETON, NEW JERSEY: Princeton University Press.
 {: .notice}
 
 
