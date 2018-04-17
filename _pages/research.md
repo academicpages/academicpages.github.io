@@ -12,12 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
----
-layout: archive
-title: "Working Papers"
-permalink: /research/
-author_profile: true
----
+
 {% include base_path %}
 
 {% for post in site.research reversed %}
