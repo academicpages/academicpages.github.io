@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.research reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pub.html %}
 {% endfor %}
 
 <h1> Working Papers </h1>
