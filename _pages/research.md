@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Working Papers
+**<font size="14"> Working Papers </font>**
 
 {% include base_path %}
 
