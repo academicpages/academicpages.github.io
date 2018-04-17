@@ -8,4 +8,5 @@ venue: 'Journal 1'
 paperurl:
 citation: 
 ---
-Prize 1</p>Prize 2
+Prize 1
+Prize 2
