@@ -20,6 +20,7 @@ words_per_minute         : 160
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 future                   : true
 talkmap_link             : false #change to true to add link to talkmap on talks page
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -84,10 +85,11 @@ author:
   avatar           : "profile-adrs.jpg"
   bio              : "NSERC post-doctoral fellow at the University of British Columbia"
   location         : "Vancouver, Canada"
-  employer         :
+  employer         : "University of British Columbia"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=andreas+buttenschon"
   googlescholar    : "https://scholar.google.ca/citations?user=VDDPd00AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Andreas_Buttenschoen"
   uri              :
   bitbucket        :
   codepen          :
