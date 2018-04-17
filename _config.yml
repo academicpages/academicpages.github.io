@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robert C Ready / Personal Website"
+title                    : 
 title_separator          : "-"
 name                     : &name "Robert C Ready"
 description              : &description "Associate Professor of Finance - University of Oregon"
