@@ -2,7 +2,7 @@
 title: "After the Tide: Commodity currencies and global trade"
 collection: research
 permalink: /research/tide.md
-with: 'with Nikolai Roussanov and Colin Ward
+with: 'with Nikolai Roussanov and Colin Ward'
 excerpt: 
 wdate: '2017'
 date: 'January 2017'
