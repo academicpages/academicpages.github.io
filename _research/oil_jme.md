@@ -7,7 +7,7 @@ excerpt:
 wdate: 'April 2018'
 date: 'April 2018'
 venue: 'Journal of Monetary Economics'
-issue: 'Volume 94, April 2018, Pages 1-26'
+issue: 'Volume 94, Pages 1-26'
 paperurl:
 linkurl:
 linkname:
