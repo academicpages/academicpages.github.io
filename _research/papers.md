@@ -2,10 +2,12 @@
 title: "Commodity Trade and the Carry Trade: A tale of two countries"
 collection: research
 permalink: /research/papers.md
-author: 'with Nikolai Roussanov and Colin Ward'
+with: 'with Nikolai Roussanov and Colin Ward'
 excerpt: 
+wdate: 'December 2017'
 date: 'December 2017'
-venue: 'Journal of Finance, 72(6), 2629-2684'
+venue: 'Journal of Finance'
+issue: '72(6), 2629-2684'
 paperurl:
 linkurl:
 linkname:
