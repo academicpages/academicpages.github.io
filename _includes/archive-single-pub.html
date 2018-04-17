@@ -13,21 +13,21 @@
 
 
         {% if post.with %}
-          <p style="line-height:0.7"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. {{post.with}} </p>
+          <p style="line-height:0.6"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}.  {{post.with}}. </p>
         {% else%}
-          <p style="line-height:0.7"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. </p>>
+          <p style="line-height:0.6"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. </p>>
         {% endif %}
 
         {% if post.prize1 %}
-          <p style="line-height:1">{{ post.prize1 }} </p>
+          <p style="line-height:1.3">{{ post.prize1 }} </p>
         {% endif %}
 
         {% if post.prize2 %}
-          <p style="line-height:1">{{ post.prize2 }} </p>
+          <p style="line-height:0.6">{{ post.prize2 }} </p>
         {% endif %}
 
         {% if post.prize3 %}
-          <p style="line-height:1">{{ post.prize3 }} </p>
+          <p style="line-height:0.6">{{ post.prize3 }} </p>
         {% endif %}
 
 
