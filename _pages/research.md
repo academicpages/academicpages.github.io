@@ -12,6 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Working Papers
 
 {% include base_path %}
 
