@@ -1,10 +1,6 @@
 {% include base_path %}
 
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
-
     <h2 class="archive__item-title" itemprop="headline">
      {{post.title}}
     </h2>
@@ -12,9 +8,9 @@
 
 
         {% if post.with %}
-          <p><i>{{ post.venue }}</i> {{ post.wdate}},{{post.issue}}.{{post.with}} </p>
+          <p><i>{{ post.venue }}</i> {{ post.wdate}}, {{post.issue}}. {{post.with}}. </p>
         {% else%}
-          <p><i>{{ post.venue }}</i> {{ post.wdate}},{{post.issue}}.{{post.with}} </p>>
+          <p><i>{{ post.venue }}</i> {{ post.wdate}}, {{post.issue}}. {{post.with}}. </p>>
         {% endif %}
 
         {% if post.prize1 %}
@@ -30,6 +26,3 @@
         {% endif %}
 
 
-
-  </article>
-</div>
