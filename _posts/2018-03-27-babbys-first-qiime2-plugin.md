@@ -62,7 +62,7 @@ When you're ready to actually try doing stuff, you'll need to run `python setup.
 python setup.py install
 ```
 
-If you've made updates to your plugin's command line interface, don't forget to [clear the cache](https://docs.qiime2.org/2018.2/plugins/developing/#testing-your-plugin-with-q2cli-during-development) before running this!
+If you've made updates to your plugin's command line interface, don't forget to [clear the cache](https://docs.qiime2.org/2018.2/plugins/developing/#testing-your-plugin-with-q2cli-during-development) (`qiime dev refresh-cache`) before running this!
 
 Note that the name of your plugin is what you put in your `plugin_setup.py` file:
 
