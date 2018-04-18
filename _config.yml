@@ -315,3 +315,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed/
