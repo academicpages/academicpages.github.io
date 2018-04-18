@@ -1,4 +1,7 @@
 _site/
 .DS_Store
 *~
-*/.ipynb_checkpoints*
+.ipynb_checkpoints/*
+.ipynb_checkpoints
+
+Disease datasets list - data blog post.tsv
