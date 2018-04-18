@@ -46,8 +46,11 @@ Contact
 
 
 Center for Inter-American Policy & Research.
+
 Tulane University.
+
 HBahamonde@tulane.edu
+
 www.HectorBahamonde.com
 
 
