@@ -38,6 +38,10 @@ staticman:
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
+  reCaptcha:
+    enabled: true
+    siteKey: "6LeWxVQUAAAAAKSuxJyUMyFnVFhmkRbyCIvIw1Gm"
+    secret: "I71ZTZTisIFJG8ugbTkLA/88PVtTJuZx7y/VY1KXe1Ex6Zic1rGM1t2qWnNMOcaiwPRFWuQHcf3lODToW2F/DE5cAiG8exmCKQxYHeh8c5RJ28ogOPVaAuGazo8f4UWnLQakoogIUvtPTYAFoKsbRLaBlbrvvP8BVtrbBCqNKNk="
   generatedFields:
     date:
       type               : "date"
