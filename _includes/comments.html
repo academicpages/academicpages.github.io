@@ -62,8 +62,6 @@
           <fieldset class="hidden">
             <input type="hidden" name="options[slug]" value="{{ page.slug }}">
             <input type="hidden" name="fields[hidden]"/>
-            <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-            <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
           </fieldset>
           <!-- Start comment form alert messaging -->
           <p class="hidden js-notice">
@@ -71,12 +69,10 @@
           </p>
           <!-- End comment form alert messaging -->
           <fieldset>
-            <div class="g-recaptcha" data-sitekey="{{ site.staticman.reCaptcha.siteKey }}"></div>
             <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
           </fieldset>
         </form>
         <!-- End new comment form -->
-        <script async src="https://www.google.com/recaptcha/api.js"></script>
       {% endif %}
     </section>
   {% when "custom" %}
