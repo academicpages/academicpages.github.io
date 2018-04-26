@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stephen D Schwab, PhD"
 title_separator          : "-"
 name                     : &name "Stephen Schwab"
-description              : &description "Assistant Professor at Army-Baylor University Graduate Programs in Health and Business Administration"
+description              : &description "Assistant Professor, US Army-Baylor University Graduate Programs in Health and Business Administration"
 url                      : https://stschwab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stschwab.github.io"
@@ -75,7 +75,7 @@ analytics:
 author:
   name             : "Steve Schwab"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at US Army - Baylor University Graduate Program in Health and Business Administration"
+  bio              : "Assistant Professor, US Army-Baylor University Graduate Program in Health and Business Administration"
   location         : "San Antonio, Texas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lbadXFMAAAAJ&hl=en&oi=sra"
