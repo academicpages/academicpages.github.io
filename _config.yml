@@ -42,7 +42,7 @@ staticman:
   generatedFields:
     date:
       type                            
-       options:
+       options:          : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
         format          
 atom_feed:
   path                   : # blank (default) uses feed.xml
