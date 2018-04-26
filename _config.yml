@@ -42,7 +42,7 @@ staticman:
   generatedFields:
     date:
       type               : "date"
-      options:
+       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
@@ -84,7 +84,7 @@ author:
   location         : "San Antonio, Texas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lbadXFMAAAAJ&hl=en&oi=sra"
-  email            :"stephen.d.schwab.mil@mail.mil"
+  email            : "stephen.d.schwab.mil@mail.mil"
   uri              :
   bitbucket        :
   codepen          :
