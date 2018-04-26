@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Steve Schwab"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Army-Baylor University Graduate Programs in Health and Business Administration. I conduct research on coordination, innovation, productivity primary within the health care sector"
-  location         : "Location"
+  bio              : "Assistant Professor at US Army - Baylor University Graduate Program in Health and Business Administration"
+  location         : "San Antonio, Texas"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=lbadXFMAAAAJ&hl=en&oi=sra"
+  email            :"stephen.d.schwab.mil@mail.mil"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "stschwab"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sdschwab"
   vine             :
   weibo            :
   xing             :
