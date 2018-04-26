@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Steve Schwab is a Major in the United States Army and an Assistant Professor in the joint [ Army - Baylor University graduate program in health and business administration](https://www.baylor.edu/graduate/mha/). He joined Army-Baylor in 2018 from the Wharton School at The University of Pennsylvania where he received his PhD in Managerial Science and Applied Economics with a focus in health care. His research interests are in coordination and organizational structure and the ways in which these effect productivity and innovation. He was previously an Associate Fellow at the Leonard Davis Institute for Health Economics. 
+ 
+His current research examines various determinants of successful teams and the effects of disruptions to teams. 
+ 
+Prior to Wharton, Steve served as the CFO for the [Walter Reed Army Institute of Research] (http://www.wrair.army.mil/) the Department of Defense's largest biomedical research laboratory. He has served in the Army Medical Service Corps since 2002 including three tours of duty in Iraq, twice earning the Bronze Star Medal. He received his MBA and MHA through the Army-Baylor program. 
 
 
