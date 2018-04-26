@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/COMPASS18
 venue: "ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2018)"
 date: 2018-4-14
-citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Fei Fang, Tianyu Gu. <i>ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2018).</i>'
+citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2018).</i>'
 ---
-
+[[PDF]](http://lantaoyu.github.io/files/compass18.pdf)
 
 ## Abstract
 Poaching continues to be a significant threat to the conservation of wildlife and the whole ecosystem. Estimating and predicting where the poachers have committed or would commit crimes is essential to designing a more effective allocation of patrolling resources. The real-world data in this domain is often sparse, noisy and incomplete, consisting of a small number of positive data (poaching signs), a large number of negative data with label uncertainty, and an even larger number of unlabeled data. Fortunately, domain experts such as the rangers can provide complementary information about the poaching activity patterns. However, such kind of prior knowledge is rarely used in previous approaches.
