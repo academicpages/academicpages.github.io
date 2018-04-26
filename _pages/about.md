@@ -12,6 +12,6 @@ Steve Schwab is a Major in the United States Army and an Assistant Professor in 
  
 
  
-Prior to Wharton, Steve served as the CFO for the [Walter Reed Army Institute of Research](http://www.wrair.army.mil/) the Department of Defense's largest biomedical research laboratory. He has served in the Army Medical Service Corps since 2002 including three tours of duty in Iraq, twice earning the Bronze Star Medal. He received his MBA and MHA through the Army-Baylor program. 
+Prior to Wharton, Steve served as the CFO for the [Walter Reed Army Institute of Research](http://www.wrair.army.mil/) the Department of Defense's largest biomedical research laboratory. He has served in the Army Medical Service Corps since 2002 including three tours of duty in Iraq, twice earning the Bronze Star Medal. He previously received his MBA and MHA through the Army-Baylor program and his BA from the George Washington University. 
 
 
