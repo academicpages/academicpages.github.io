@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : sdschwab
 facebook:
   username               :
   app_id                 :
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Steve Schwab"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor at Army-Baylor University Graduate Programs in Health and Business Administration. I conduct research on coordination, innovation, productivity primary within the health care sector"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
