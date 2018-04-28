@@ -1,4 +1,4 @@
-G---
+----
 permalink: /
 title: ""
 excerpt: ""
