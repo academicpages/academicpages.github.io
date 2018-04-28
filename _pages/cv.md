@@ -7,5 +7,5 @@ redirect_from:
   - /resume/
 ---
 
-Zhang-via.pdf
+Zhang-Vita.pdf
 [Download File Here](https://joshzyj.github.io/files/zhang-vita.pdf).
