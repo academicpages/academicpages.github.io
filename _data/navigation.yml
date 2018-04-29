@@ -22,12 +22,12 @@ Projs:
         url: /projects/
   - title: Main Research Topics
     children:
+      - title: "Structure of Biomimetic Materials"
+        url: /projects/struct-matrix/
       - title: "Polymer Reptation in 3D"
         url: /projects/reptation/
       - title: "Rheology at the micrometer scale"
         url: /projects/rheology/
-      - title: "Structure of Biomimetic Materials"
-        url: /projects/struct-matrix/
       - title: "Cellular adhesion in 3D matrices"
         url: /projects/cell-adhesion/
       - title: "Protein-protein Interactions"
@@ -37,12 +37,12 @@ Projs:
 
   - title: Collaborations
     children:
-      - title: "Cell signalling: probes and methods"
-        url: /projects/cell-signal/
       - title: "Single cell manipulation by endoscopy"
         url: /projects/endoscopy/
       - title: "New drug delivery systems"
         url: /projects/DDS/
+      - title: "Cell signalling: probes and methods"
+        url: /projects/cell-signal/
       - title: "Correlative AFM and Fluorescence Microscopy"
         url: /projects/FluoAFM/
       - title: "Imaging single HIV virions"
