@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Deep Learning
+## Deep Learning
 
 <b>[CoT: Cooperative Training for Generative Modeling](http://lantaoyu.com/publications/CoT)</b> <br>
 Sidi Lu, <b>Lantao Yu</b>, Weinan Zhang, Yong Yu. ArXiv 2018. <i>In submission to NIPS 2018.</i>.
@@ -18,7 +18,7 @@ Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng
 <b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
 <b>Lantao Yu\*</b>, Xuejian Wang\*(equal contribution), Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang. <i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
 
-# Multi-Agent Systems & Computational Sustainability
+## Multi-Agent Systems & Computational Sustainability
 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
 <b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multiagent Systems (Extended Abstract) & NIPS-17 Aligned Artificial Intelligence Workshop</i>.
