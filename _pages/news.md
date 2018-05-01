@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-- Our paper on "Deep Hyperspectral Kernelized Correlation Filter (DeepHKCF) Tracking from Aerial Images" has been accepted by the IEEE Transactions on Geoscience and Remote Sensing. [arxiv](https://arxiv.org/abs/1711.07235)
+- Our paper on "Deep Hyperspectral Kernelized Correlation Filter (DeepHKCF) Tracking in Aerial Images" has been accepted by the IEEE Transactions on Geoscience and Remote Sensing. [arxiv](https://arxiv.org/abs/1711.07235)
 
 - I have presented my recent works on object detection and tracking in aerial images in the Vision and Autonomous System Center Seminar at Carnegie Mellon University. 
 
