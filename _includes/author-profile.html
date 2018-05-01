@@ -34,6 +34,18 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+      {% endif %}
+      {% if author.wikipedia %}
+        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.researchgate %}
+        <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="fa fa-fw fa-book" aria-hidden="true"></i> Research Gate </a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -99,15 +111,6 @@
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
-      {% endif %}
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
-      {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
-      {% endif %}
-      {% if author.wikipedia %}
-        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
     </ul>
   </div>
