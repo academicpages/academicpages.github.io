@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter Susana_Science
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "Susana_Science"
   vine             :
   weibo            :
   xing             :
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: false
       comments: true
-      
+
   # _news
   - scope:
       path: ""

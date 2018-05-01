@@ -6,7 +6,7 @@ sidebar:
   nav: "Projs"
 date: 1905-01-01
 header:
-teaser: PPIs.png
+  teaser: PPIs.png
 ---
 Protein-protein interactions (PPIs) are intrinsic to all cellular processes, driving both metabolic and regulatory pathways. Despite the numerous techniques available, detection of transient short-lived PPIs remains challenging4. The main fluorescence microscopic techniques developed for visualizing PPIs in a cellular context are based on Föster resonance energy transfer (FRET) or bimolecular fluorescence complementation (BiFC)5. Both techniques detect the interaction between a pair of labeled molecules. Although highly informative, they require fine positioning of the labels and in the majority of the applications the spatial resolution achieved is limited by the diffraction of light to about 200 nm.
 <i>More information concerning the use of FRET to detect PPIs can be found at <a href="{{site.github.url}}/projects/cell-signal">Cellular Signalling</a>).</i>
