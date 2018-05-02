@@ -9,7 +9,7 @@
 locale                   : "en-GB"
 title                    : "UCL POND Group"
 title_separator          : "-"
-name                     : &name "UCL Progression Of Neurological Disease lab"
+name                     : &name "UCL Progression Of Neurological Disease group"
 description              : &description "personal description"
 url                      : https://uclpond.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
