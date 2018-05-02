@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "UCL POND GitHub.io website (under development)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+UCL's Progression Of Neurodegenerative Disease (POND) research group is developing new computational models and techniques for learning characteristic patterns of disease progression using large cross-sectional data sets. Our focus is currently on dementias, such as Alzheimer's disease, but our techniques have wider application to other diseases and developmental processes.
 
-A data-driven personal website
+We are considering a broad approach to modelling disease progression, starting with the work of Hubert Fonteijn ([NeuroImage 2012](http://dx.doi.org/10.1016/j.neuroimage.2012.01.062)) on event-based models, and also exploring the possibility of determining causal links between events. Events constitute biomarker abnormality, which includes image-based biomarkers such as regional atrophy in the brain, as well as biomarkers such as levels of abnormal proteins in cerebrospinal fluid.
+
+All the while, we ensure clinical relevance in the models through collaboration with the [Dementia Research Centre](http://dementia.ion.ucl.ac.uk/) at UCL's Institute of Neurology.
+
+UCL POND started with an EPSRC-funded project (see [here](http://pond.cs.ucl.ac.uk/projects/) for more details) and are coordinators of the subsequent [EuroPOND](http://europond.eu/) consortium (a [Horizon 2020](http://ec.europa.eu/programmes/horizon2020/) project).
+
+Featured publications:
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+(see our [publications page](http://pond.cs.ucl.ac.uk/publications/) for all of our publications)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -25,26 +27,53 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1.  Data-driven models of dominantly-inherited Alzheimer's disease progression,
+Neil Oxtoby, Alex Young, Dave Cash, TLS Benzinger, AM Fagan, JC Morris, RJ Bateman, Nick Fox, Jon Schott, Danny Alexander;
+[Brain **141**, 1529](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awy050/4951528?guestAccessKey=73f004ae-2bcc-47aa-b1b5-c94e563084ea) (2018)
+1. Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference, 
+Alexandra Young, et al. [bioRxiv 236604](https://doi.org/10.1101/236604) (2017)
+1.  Data Driven Sequence of Changes to Anatomical Brain Connectivity in Sporadic Alzheimer's Disease,
+Neil Oxtoby, Sara Garbarino, Nick Firth, J Warren, Jon Schott, Danny Alexander
+[Frontiers in Neurology, **8**, 580](http://doi.org/10.3389/fneur.2017.00580) (2017)
+1.  Imaging plus X: multimodal models of neurodegenerative disease progression,
+Neil Oxtoby, Danny Alexander, for the EuroPOND Consortium
+[Current Opinion in Neurology **30**, 371–379](http://doi.org/10.1097/WCO.0000000000000460) (2017)
+1.  Probabilistic disease progression modeling to characterize diagnostic uncertainty: Application to staging and prediction in Alzheimer's disease,
+Marco Lorenzi, M Filippone, G Frisoni, Danny Alexander, S Ourselin
+[NeuroImage](http://doi.org/10.1016/j.neuroimage.2017.08.059) (2017); Preprint: [arXiv:1701.01668](https://arxiv.org/abs/1701.01668
+1.  A simulation system for biomarker evolution in neurodegenerative disease,
+Alex Young, Neil Oxtoby, S Ourselin, Jon Schott, Danny Alexander
+[MedIA vol 26, p 47](http://dx.doi.org/10.1016/j.media.2015.07.004) (2015)
+1.  Modelling Non-Stationary and Non-Separable Spatio-Temporal Changes in Neurodegeneration via Gaussian Process Convolution,
+Marco Lorenzi, G Ziegler, Danny Alexander, S Ourselin
+[MLMMI 2015, LNCS vol 9487](http://dx.doi.org/10.1007/978-3-319-27929-9) (2015)
+1.  Multiple Orderings of Events in Disease Progression,
+Alex Young, Neil Oxtoby, J Huang, Raz Marinescu, P Daga, D Cash, N Fox, S Ourselin, Jon Schott, Danny Alexander
+[IPMI 2015, LNCS vol 9123, p 711](http://dx.doi.org/10.1007/978-3-319-19992-4_56) (2015)
+1.  Efficient Gaussian Process-Based Modelling and Prediction of Image Time Series,
+Marco Lorenzi, G Ziegler, Danny Alexander, S Ourselin
+[IPMI 2015, LNCS vol 9123, p 626](http://dx.doi.org/10.1007/978-3-319-19992-4_49) (2015)
+1.  A data-driven model of biomarker changes in sporadic Alzheimer's disease,
+Alex Young, Neil Oxtoby, P Daga, D Cash, N Fox, S Ourselin, Jon Schott, Danny Alexander
+[Brain **137**, 2564](http://dx.doi.org/10.1093/brain/awu176) (2014)
+1.  Learning Imaging Biomarker Trajectories from Noisy Alzheimer’s Disease Data Using a Bayesian Multilevel Model,
+Neil Oxtoby, Alex Young, N Fox, ADNI, P Daga, D Cash, S Ourselin, Jon Schott, Danny Alexander
+[LNCS vol 8677, p 85](http://dx.doi.org/10.1007/978-3-319-12289-2_8) (2014)
+1.  Data-driven models of neurodegenerative disease,
+Alex Young, Neil Oxtoby, Jon Schott, Danny Alexander
+[ACNR vol 14, issue 5](http://www.acnr.co.uk/2014/12/data-driven-models-of-neurodegenerative-disease/) (2014)
+1.  Predicting outcomes in clinically isolated syndrome using machine learning,
+Viktor Wottschel, Danny Alexander, P Kwok, D Chard, M Stromillo, N. De Stefano, A Thompson, D Miller, O Ciccarelli
+[NeuroImage: Clinical, vol 7 p 281](http://dx.doi.org/10.1016/j.nicl.2014.11.021) (2014)
+1.  Prediction of Second Neurological Attack in Patients with Clinically Isolated Syndrome Using Support Vector Machines,
+Viktor Wottschel, O Ciccarelli, D Chard, D Miller, Danny Alexander
+[Proceedings of PRNI 2013, p 82](http://dx.doi.org/10.1109/PRNI.2013.30) (2013)
+1.  An event-based model for disease progression and its application in familial Alzheimer's disease and Huntington's disease,
+H Fonteijn, M Modat, M Clarkson, J Barnes, M Lehmann, N Hobbs, R Scahill, S Tabrizi, S Ourselin, N Fox, Danny Alexander
+[NeuroImage vol 60, p 1880](http://dx.doi.org/10.1016/j.neuroimage.2012.01.062) (2012)
+1.  An Event-Based Disease Progression Model and Its Application to Familial Alzheimer's Disease,
+H Fonteijn, M Clarkson, M Modat, J Barnes, M Lehmann, S Ourselin, N Fox, Danny Alexander
+[LNCS vol 6801, p 748](http://dx.doi.org/10.1007/978-3-642-22092-0_61) (2011)
+1.  Probabilistic Event Cascades for Alzheimer's Disease
+J Huang, Danny Alexander,
+[NIPS2012, Lake Tahoe](http://papers.nips.cc/paper/4856-probabilistic-event-cascades-for-alzheimers-disease), (2012)
