@@ -20,13 +20,6 @@ Featured publications:
 ======
 (see our [publications page](http://pond.cs.ucl.ac.uk/publications/) for all of our publications)
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
 1.  Data-driven models of dominantly-inherited Alzheimer's disease progression,
 Neil Oxtoby, Alex Young, Dave Cash, TLS Benzinger, AM Fagan, JC Morris, RJ Bateman, Nick Fox, Jon Schott, Danny Alexander;
 [Brain **141**, 1529](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awy050/4951528?guestAccessKey=73f004ae-2bcc-47aa-b1b5-c94e563084ea) (2018)
