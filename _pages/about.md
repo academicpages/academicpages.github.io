@@ -29,7 +29,7 @@ Featured publications:
 
 1.  Data-driven models of dominantly-inherited Alzheimer's disease progression,
 Neil Oxtoby, Alex Young, Dave Cash, TLS Benzinger, AM Fagan, JC Morris, RJ Bateman, Nick Fox, Jon Schott, Danny Alexander;
-[Brain **141**:5, 1529](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awy050/4951528?guestAccessKey=73f004ae-2bcc-47aa-b1b5-c94e563084ea) (2018)
+[Brain **141**, 1529](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awy050/4951528?guestAccessKey=73f004ae-2bcc-47aa-b1b5-c94e563084ea) (2018)
 1. Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference, 
 Alexandra Young, et al. [bioRxiv 236604](https://doi.org/10.1101/236604) (2017)
 1.  Data Driven Sequence of Changes to Anatomical Brain Connectivity in Sporadic Alzheimer's Disease,
