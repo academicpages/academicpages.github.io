@@ -20,24 +20,19 @@ Featured publications:
 ======
 (see our [publications page](http://pond.cs.ucl.ac.uk/publications/) for all of our publications)
 
-1.  Data-driven models of dominantly-inherited Alzheimer's disease progression,
-
- Neil Oxtoby, Alex Young, Dave Cash, TLS Benzinger, AM Fagan, JC Morris, RJ Bateman, Nick Fox, Jon Schott, Danny Alexander;
+1.  Data-driven models of dominantly-inherited Alzheimer's disease progression, &nbsp;
+Neil Oxtoby, Alex Young, Dave Cash, TLS Benzinger, AM Fagan, JC Morris, RJ Bateman, Nick Fox, Jon Schott, Danny Alexander;
 [Brain **141**, 1529](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awy050/4951528?guestAccessKey=73f004ae-2bcc-47aa-b1b5-c94e563084ea) (2018)
-1. Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference, 
-
+1. Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference, &nbsp;
  Alexandra Young, et al. [bioRxiv 236604](https://doi.org/10.1101/236604) (2017)
-1.  Data Driven Sequence of Changes to Anatomical Brain Connectivity in Sporadic Alzheimer's Disease,
-
+1.  Data Driven Sequence of Changes to Anatomical Brain Connectivity in Sporadic Alzheimer's Disease, &nbsp;
  Neil Oxtoby, Sara Garbarino, Nick Firth, J Warren, Jon Schott, Danny Alexander
 [Frontiers in Neurology, **8**, 580](http://doi.org/10.3389/fneur.2017.00580) (2017)
-1.  Imaging plus X: multimodal models of neurodegenerative disease progression,
-
- Neil Oxtoby, Danny Alexander, for the EuroPOND Consortium
+1.  Imaging plus X: multimodal models of neurodegenerative disease progression, &nbsp;
+Neil Oxtoby, Danny Alexander, for the EuroPOND Consortium
 [Current Opinion in Neurology **30**, 371–379](http://doi.org/10.1097/WCO.0000000000000460) (2017)
-1.  Probabilistic disease progression modeling to characterize diagnostic uncertainty: Application to staging and prediction in Alzheimer's disease,
-
- Marco Lorenzi, M Filippone, G Frisoni, Danny Alexander, S Ourselin
+1.  Probabilistic disease progression modeling to characterize diagnostic uncertainty: Application to staging and prediction in Alzheimer's disease, &nbsp;
+Marco Lorenzi, M Filippone, G Frisoni, Danny Alexander, S Ourselin
 [NeuroImage](http://doi.org/10.1016/j.neuroimage.2017.08.059) (2017); Preprint: [arXiv:1701.01668](https://arxiv.org/abs/1701.01668)
 1.  A simulation system for biomarker evolution in neurodegenerative disease,
 Alex Young, Neil Oxtoby, S Ourselin, Jon Schott, Danny Alexander
