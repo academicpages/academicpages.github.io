@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yongjun Zhang"
 title_separator          : "-"
 name                     : &name "Yongjun Zhang"
-description              : &description "Husband. Sociologist. ABD at UofA."
+description              : &description "Sociologist. ABD at UofA."
 url                      : https://joshzyj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshzyj/joshzyj.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : #"Yongjun Zhang"
   avatar           : "profile.png"
-  bio              : "Husband. ABD at University of Arizona."
+  bio              : "Sociology ABD at University of Arizona."
   location         : "Tucson, Arizona"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3t2vqB0AAAAJ"
