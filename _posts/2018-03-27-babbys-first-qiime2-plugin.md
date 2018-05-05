@@ -9,8 +9,8 @@ tags:
     - qiime2
 ---
 
-As a side project from the meta-analysis, we developed a method to correct for batch effects in microbiome case-control studies.
-When we posted the preprint on [biorxiv](TODO), Greg Caporaso emailed Sean and asked him if he'd like to put our method into qiime2.
+As a side project from the meta-analysis, we developed a method to [correct for batch effects in microbiome case-control studies](https://doi.org/10.1371/journal.pcbi.1006102).
+When we posted the preprint on biorxiv, Greg Caporaso emailed Sean and asked him if he'd like to put our method into qiime2.
 I happily volunteered - I'd heard a presentation about qiime2 and was super pumped about their plugin setup, where anyone can incorporate their method into qiime's suite of tools, and I was excited to see how doable it was.
 The learning curve was a little steep at first, but not as bad as I expected!
 Here, I've cleaned up my notes into a guide through my development process.
@@ -52,7 +52,10 @@ Note for debugging: if you want to run a script (e.g. `plugin_setup.py`) directl
 export PYTHONPATH=~/github/q2-perc-norm/
 ```
 
-For example, it looks like the common practice is to have a file for each method in the same directory as `plugin_setup.py`. These files are typically named `._method_name.py`, and are imported at the top of `plugin_setup.py` (e.g. `from._method_name import method_name`). This import statement only works if the folder is in your `PYTHONPATH`.
+For example, it looks like the common practice is to have a file for each method in the same directory as `plugin_setup.py`. In the plugins I used as examples, these files are typically named `._method_name.py`, and are imported at the top of `plugin_setup.py` (e.g. `from._method_name import method_name`). This import statement only works if the folder is in your `PYTHONPATH`.
+
+As an alternative to messing with your `PYTHONPATH`, which is easy to forget to do each time, you can use `pip install -e .` from the main directory which contains `setup.py`.
+From what I understand, this installs an editable version in development mode in your current directory (you'll see an `egg-info` directory after you run this).
 
 ### Install the plugin
 

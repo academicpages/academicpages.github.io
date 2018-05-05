@@ -36,3 +36,5 @@ AND THAT'S IT!
 (JK getting the metadata all in order is a bit of pain, but you can also upload a tab-delimited file so it's not that bad tbh...)
 
 OMG THAT WAS SO EASY!
+
+P.S. I double-checked with the SRA help desk, and they confirmed that once you've gotten the confirmation email from the SRA that your data has been successfully uploaded and processed, you can delete the bucket that you used for the upload.
