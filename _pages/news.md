@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+- Our paper on "Deep Hyperspectral Kernelized Correlation Filter (DeepHKCF) Tracking in Aerial Images" has been accepted by the IEEE Transactions on Geoscience and Remote Sensing. [arxiv](https://arxiv.org/abs/1711.07235)
+
 - I have presented my recent works on object detection and tracking in aerial images in the Vision and Autonomous System Center Seminar at Carnegie Mellon University. 
 
 - Currently, I am working on designing an end-to-end deep learning driven vehicle tracker (WAMI) trained on a non-WAMI dataset. More to come soon!
