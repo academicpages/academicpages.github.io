@@ -48,6 +48,8 @@ See [publications](/publications/) page.
 
 ## Oral presentations
 
+May 2018 - "Distribution-based methods to increase power and reduce redundancy in microbiome data." Teaching and Developing QIIME 2 Workshop. ([abstract](https://docs.google.com/document/d/1AJS6E6zKC3vB87L6lE3jkbEnqKKbmAUklx2LNP5xn0k/edit?disco=AAAAB30XTS8&ts=5ae86df5#heading=h.nu9k79xrnqy2))
+
 Mar. 2018 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/).
 
 Feb. 2018 - "Aspiration changes relationships in the aerodigestive microbiome." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
