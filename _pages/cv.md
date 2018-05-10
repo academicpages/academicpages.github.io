@@ -11,49 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD in Communication, [ISCTE-IUL](https://iscte-iul.pt/), *2020 (expected)*
+* MA in Radio (Production and Management), [University of Sunderland](https://www.sunderland.ac.uk/), *2016*
+* BA in Communication, [FCSH - Universidade Nova de Lisboa](http://fcsh.unl.pt/), *2009*
+    * _Erasmus at [Universität Leipzig](https://www.uni-leipzig.de/en/) under the BA Kommunikations- und Medienwissenschaft curriculum_
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Leadership & Community
+------
+* Proud [Mozilla Open Leader](https://mozilla.github.io/leadership-training/) part of [#RebelFoxes](https://twitter.com/rachaelevelyn/lists/rebelfoxes) group (Round 4) and  Project Lead for Mozilla's 2018 [Global Sprint](https://mozilla.github.io/global-sprint/)
+* Member of [D3 - Defesa dos Direitos Digitais](https://direitosdigitais.pt/)
+* Member of the [Ubuntu Potugal](https://ubuntu-pt.org/) community
+* [Spark Sunderland](https://www.sparksunderland.com) alumni
+* Rádio Zero honorary collaborator
