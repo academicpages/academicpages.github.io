@@ -1,7 +1,6 @@
 ---
-permalink: /
-title: "Dissertation"
-excerpt: "Dissertation"
+permalink: /dissertation/
+title: ""
 author_profile: true
 redirect_from:
   - /dissertation/
