@@ -77,14 +77,14 @@ analytics:
 # Site Author
 author:
   name             : "About"
-  avatar           : "profile.png"
+  avatar           : "profile_face.png"
   bio              : "QA Project Lead, expert in scrum methodology and QA practices"
   location         : "Bedford NH"
-  employer         : "Transparent Language"
+  employer         : https://www.transparent.com/
   email            : "jennywanginfo@gmail.com"
   uri              :
-  bitbucket        :
-  codepen          : jennywang.jw
+  bitbucket        : 
+  codepen          : "wangjenny"
   dribbble         : 
   facebook         :
   foursquare       :
@@ -93,7 +93,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "jenny-wang-jw"
   orcid            :
   pinterest        :
   soundcloud       :
