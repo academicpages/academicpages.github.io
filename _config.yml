@@ -80,11 +80,11 @@ author:
   avatar           : "profile_face.jpg"
   bio              : "QA Project Lead, expert in scrum methodology and QA practices"
   location         : "Bedford NH"
-  employer         : "Transparent Language" 
+  employer         : https://transparent.com 
   email            : "jennywanginfo@gmail.com"
   uri              :
   bitbucket        : 
-  codepen          : # "wangjenny"
+  codepen          : # wangjenny
   dribbble         : 
   facebook         :
   foursquare       :
