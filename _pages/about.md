@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+{% include base_path %}
+
 Intro
 ------
 Hi everyone, my name is Jenny Wang and this is a website I am messing around in. 
