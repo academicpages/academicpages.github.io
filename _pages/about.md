@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Intro
 ------
-Hi everyone, my name is Jenny Wang and this is a website I am messing around in.
+Hi everyone, my name is Jenny Wang and this is a website I am messing around in. 
+
+
 Things to do before this website is up and ready
-------
+---
 - [ ] Go through all the pages and get rid of tabs that are not relevant
 - [ ] Update the about me page with personal type and picture
 - [ ] Remove Dribble from contact me page
