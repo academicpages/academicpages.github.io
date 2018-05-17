@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico" >
-
-{% include base_path %}
 
 Intro
 ------
