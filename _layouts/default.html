@@ -7,6 +7,9 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <title>
+      {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}
+    </title>
     <link rel="shortcut icon" href="images/favicon.ico">
   </head>
 
