@@ -297,6 +297,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+<<<<<<< HEAD
     
 theme: jekyll-theme-architect
 
+=======
+>>>>>>> parent of 727a636... Update _config.yml
