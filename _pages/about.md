@@ -63,12 +63,10 @@ Things to do before this website is up and ready
 - [ ] Upload resume online: see /resume/
 - [ ] Put personal projects online in portfolio
 - [ ] Create first blog post -- in progress
-- [ ] Upload background texture
-- [ ] Upload favicon 
+- [ ] Upload background texture or theme
+- [X] Upload favicon 
 - [ ] Add Goodbooks widget 
 
 <!--- Try to finish this check list by Friday! --->
 
 ---
-##### Site template credit
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose.
