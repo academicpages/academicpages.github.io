@@ -1,7 +1,7 @@
 ---
 title: 'Blog Appreciation'
 date: 2018-05-30
-permalink: /posts/2014/08/blog-appreciation/
+permalink: /posts/2018/08/blog-appreciation/
 tags:
   - website
   - design
