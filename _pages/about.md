@@ -57,15 +57,17 @@ A lot of people have commented that I remind them of a dog: strong, loyal, happy
 
 Things to do before this website is up and ready
 ---
-- [X] Go through all the pages and get rid of tabs that are not relevant
-- [X] Update the about me page with personal type and picture
-- [X] Remove Dribble from contact me page
-- [ ] Upload resume online: see /resume/
-- [ ] Put personal projects online in portfolio
-- [ ] Create first blog post -- in progress
-- [ ] Upload background texture or theme
-- [X] Upload favicon 
-- [ ] Add Goodbooks widget 
+ [X] Go through all the pages and get rid of tabs that are not relevant
+ [X] Update the about me page with personal type and picture
+ [X] Remove Dribble from contact me page
+ [ ] Upload resume online: see /resume/
+ [ ] Put personal projects online in portfolio
+ [X] Create first blog post -- in progress
+ [ ] Upload background texture or theme
+ [X] Upload favicon 
+ [ ] Add Goodbooks widget
+ [ ] Add a comments section to every page
+ [ ] Find out how to integrate with a TO DO list maker
 
 <!--- Try to finish this check list by Friday! --->
 
