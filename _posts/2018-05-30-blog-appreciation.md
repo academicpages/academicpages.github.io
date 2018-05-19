@@ -1,7 +1,7 @@
 ---
-title: 'Blog Envy'
+title: 'Blog Appreciation'
 date: 2018-05-30
-permalink: /posts/2014/08/blog-envy/
+permalink: /posts/2014/08/blog-appreciation/
 tags:
   - website
   - design
@@ -11,16 +11,16 @@ hidden:
 
 Sites that inspire me.
 
-Blog Envy
+Blog Appreciation
 ======
 
 Now that my site is complete, I have a new appreciation for good webpage. It takes a lot to pull everything together. It’s okay to start off with a template. Just wanted to give a quick shout out to pages I used as references on how to layout my content and where I draw my inspiration from.
 
-- natalieinspired.com ( childhood friend )
-- Un-fancy.com
-- theannaedit.com
-- Tumblr ( what a throwback )
-- Google (the real mvp)
+- [Natalie Inspired](https://natalieinspired.com) ( childhood friend )
+- [Un-Fancy](https://un-fancy.com)
+- [The Anna Edit](https://theannaedit)
+- [Tumblr](https://tumblr.com) ( what a throwback )
+- [Google](https://google.com) (the real mvp)
 
 More Thoughts
 ------
