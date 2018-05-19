@@ -67,8 +67,8 @@ Things to do before this website is up and ready
 - [x] Upload favicon 
 - [ ] Add Goodbooks widget
 - [ ] Add a comments section to every page
-- [ ] Find out how to integrate with a TO DO list maker
-* [ ] Transform talkmap into a travel map
+- [ ] Find out how to integrate with a TODO list maker
+- [ ] Transform talkmap into a travel map
 
 <!--- Try to finish this check list by Friday! --->
 
