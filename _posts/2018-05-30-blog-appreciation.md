@@ -5,8 +5,7 @@ permalink: /posts/2014/08/blog-appreciation/
 tags:
   - website
   - design
-hidden:
-  - true 
+hidden: true
 ---
 
 Sites that inspire me.
