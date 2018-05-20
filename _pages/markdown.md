@@ -11,34 +11,38 @@ redirect_from:
 
 * Java 
   * 1.8 ou superior
-    * Download: [http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html](http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
+    * Download: 
+      * [http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html](http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
 * Maven
   * 3.5.3 ou supeior
-    * Download: [https://maven.apache.org/download.cgi](https://maven.apache.org/download.cgi)
+    * Download: 
+      * [https://maven.apache.org/download.cgi](https://maven.apache.org/download.cgi)
     * Como Instalar:
       * [Windows](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
       * [Linux](https://www.mkyong.com/maven/how-to-install-maven-in-ubuntu/)
 * Git
-  * Download: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+  * Download: 
+    * [https://git-scm.com/downloads](https://git-scm.com/downloads)
 * Eclipse
-  * Download: [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
+  * Download: 
+    * [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
 
 
 ## Repositório do GIT
 
-A OPLA-Tool possui da organização: [https://github.com/OPLA-Tool-UEM](https://github.com/OPLA-Tool-UEM)
+Organização - [https://github.com/OPLA-Tool-UEM](https://github.com/OPLA-Tool-UEM)
 
-* Time de desenvolvimento
+* Time de Desenvolvimento
   * **Fernando S. Godóy**
   * **João Choma**
   * **Pedro Barbiero**
 
 * Versão 2.0
-  * [https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0](https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0)
+  * Repositório: [https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0](https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0)
   * Responsável: **João Choma**
 
 * Versão em Desenvolvimento: 
-  * [https://github.com/OPLA-Tool-UEM/OPLA-Tool](https://github.com/OPLA-Tool-UEM/OPLA-Tool)
+  * Repositório: [https://github.com/OPLA-Tool-UEM/OPLA-Tool](https://github.com/OPLA-Tool-UEM/OPLA-Tool)
   * Responsável: **Fernando Godóy**
   * Branchs:
     * Master: Versão 1.0 
@@ -60,66 +64,80 @@ A OPLA-Tool possui da organização: [https://github.com/OPLA-Tool-UEM](https://
       * Aluno(s)
         * **Pedro Barbiero**
 
-## Contribuir como desenvolvedor
+## Modo Desenvolvedor
 
-* Efetue o clone do repositório: 
+Clonar repositório: 
   ``` 
    git clone https://github.com/OPLA-Tool-UEM/OPLA-Tool
   ```
-* Crie um branch local
+
+Criar branch local
   ```
    git checkout -b nome_do_seu_branch
   ```
-* Preparar para importar em sua IDE
+
+Preparar importação para eclipse
   ``` 
    mvn eclipse:clean
   ```
-* Importar no eclipse como projeto maven
+
+Importar como projeto maven
   >  Arquivo > Importar > Maven Project> Existing Maven Project
-* Efetuar comit localmente
+
+Efetuar commit local
  ```
   git commit -m "Descrição da alteração efetuada"
  ```
-* Submeter ao repositório remoto
+
+Submeter para repositório remoto
   ```
    git push origin nome_do_seu_branch
   ```
-* Criar Pull Request para branch develop
 
-## Utilizando a ferramenta
-* Efetue o clone do repositório: 
+Criar Pull Request para branch develop
+
+## Modo Usuário
+
+Clonar do repositório: 
   ``` 
    git clone https://github.com/OPLA-Tool-UEM/OPLA-Tool
   ```
-* Instalar dependências:
+
+Instalar dependências:
+
 Executar arquivo buildDeps.sh localizado no diretório opla-architecture
+*  Linux
+ ```
+  sh buildDeps.sh
+ ```
+* Windows
+  * Abrir aquivo e copiar linha a linha para prompt de comando 
 
-  *  Linux
+Build do Projeto
+  
+   Dentro do diretório opla-archicture
   ```
-   sh buildDeps.sh
+   mvn clean install
   ```
-  * Windows
-  Abrir aquivo e copiar linha a linha para prompt de comando 
+  
+  Dentro do diretório opla-patterns
+  ```
+   mvn clean install
+  ```
+  
+  Dentro do diretório opla-core
+  ```
+   mvn clean install
+  ```
+  
+  Dentro do diretório opla-tool
+  ```
+   mvn clean install
+  ```
 
-* Build do Projeto
-  * Dentro do diretório opla-archicture
-  ```
-   mvn clean install
-  ```
-  * Dentro do diretório opla-patterns
-  ```
-   mvn clean install
-  ```
-  * Dentro do diretório opla-core
-  ```
-   mvn clean install
-  ```
-  * Dentro do diretório opla-tool
-  ```
-   mvn clean install
-  ```
-* Executar
-  * Dentro do diretório opla-tool
+Executar
+  
+  Dentro do diretório opla-tool
   ```
     java -jar target/opla-tool-0.0.1-jar-with-dependencies.jar
   ```
