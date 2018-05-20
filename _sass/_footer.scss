@@ -3,11 +3,15 @@
    ========================================================================== */
 
 .page__footer {
-  @include full();
   @include clearfix;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
   /* sticky footer fix start */
   position: absolute;
-  bottom: 0;
+  bottom: 0em;
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
@@ -20,9 +24,11 @@
   border-top: 1px solid $light-gray;
 
   footer {
-    @include container;
     @include clearfix;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 2em;
+    max-width: 100%;
     padding: 0 1em 2em;
 
     @include breakpoint($x-large) {
@@ -39,7 +45,10 @@
     }
   }
 
-  .fa {
+  .fas,
+  .fab,
+  .far,
+  .fal {
     color: mix(#fff, $gray, 25%);
   }
 }
@@ -50,7 +59,6 @@
 }
 
 .page__footer-follow {
-
   ul {
     margin: 0;
     padding: 0;
@@ -74,5 +82,11 @@
   a {
     padding-right: 10px;
     font-weight: bold;
+  }
+
+  .social-icons {
+    a {
+      white-space: nowrap;
+    }
   }
 }
