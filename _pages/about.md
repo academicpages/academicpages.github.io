@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<p style='text-align: justify;'>
 A indústria de software tem adotado a abordagem de Linha de Produto de Software (LPS) com o objetivo de aumentar o reúso de software e diminuir o tempo de produção e os custos de desenvolvimento dos produtos. Nessa abordagem, o principal artefato é a arquitetura de LPS (PLA - Product Line Architecture). 
 No entanto, obter uma PLA modular, extensível e reusável é uma tarefa não trivial. O arquiteto pode se apoiar em métricas arquiteturais para denir e melhorar o projeto da PLA. Contudo, essa tarefa pode envolver vários fatores, muitas vezes conflitantes entre si, e encontrar o melhor trade-off entre as métricas utilizadas para avaliar o projeto transforma o projeto de PLA em uma tarefa que demanda grande esforço humano. 
 Nesse contexto, o projeto de PLA pode ser formulado como um problema de otimização com vários fatores. Porém, elaborar um
@@ -22,4 +23,6 @@ Entretanto, as abordagens existentes utilizadas para otimizar arquiteturas de so
 (c) novos operadores de busca para evoluir projetos de PLA em termos de modularização de características; e 
 
 (d) um tratamento multiobjetivo para o problema de projeto de PLA. Esse tratamento multiobjetivo engloba métricas que indicam a modularização de características.
+
+</p>
 
