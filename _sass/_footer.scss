@@ -5,6 +5,11 @@
 .page__footer {
   @include full();
   @include clearfix;
+  /* sticky footer fix start */
+  position: absolute;
+  bottom: 0;
+  height: auto;
+  /* sticky footer fix end */
   margin-top: 3em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
