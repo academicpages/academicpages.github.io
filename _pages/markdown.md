@@ -26,41 +26,39 @@ redirect_from:
 
 ## Repositório do GIT
 
-A OPLA-Tool possui um repositório utilizando o recurso de organização
-* [https://github.com/OPLA-Tool-UEM](https://github.com/OPLA-Tool-UEM)
+A OPLA-Tool possui da organização: [https://github.com/OPLA-Tool-UEM](https://github.com/OPLA-Tool-UEM)
 
 * Time de desenvolvimento
-  * Fernando S. Godóy
-  * João Choma
-  * Pedro Barbiero
+  * **Fernando S. Godóy**
+  * **João Choma**
+  * **Pedro Barbiero**
 
-* Versão em desenvolvimento: 
+* Versão 2.0
+  * [https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0](https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0)
+  * Responsável: **João Choma**
+
+* Versão em Desenvolvimento: 
   * [https://github.com/OPLA-Tool-UEM/OPLA-Tool](https://github.com/OPLA-Tool-UEM/OPLA-Tool)
-  * Responsável: Fernando Godóy
+  * Responsável: **Fernando Godóy**
   * Branchs:
-    * Master: Branch estável 
+    * Master: Versão 1.0 
       * Aluno(s)
-        * Marcelo
+        * **Marcelo**
     * Develop: Branch de desenvolvimento
       * Aluno(s) 
-        * Fernando Godóy
+        * **Fernando Godóy**
     * Documentation: Branch para desenvolvimento do documento de requisitos
       * Aluno(s)
-        * Diego Fernandes
-        * Fernando Godóy
-        * Mamoru Massago
-        * Thiago Madrigar
+        * **Diego Fernandes**
+        * **Fernando Godóy**
+        * **Mamoru Massago**
+        * **Thiago Madrigar**
     * Nova Interface: Branch criado para desenvolvimento da versão contendo nova interface
       * Aluno(s)
-        * Fernando Godóy
-    * NSGA-III-Jmetal-5: Branch criado para implementação da nova versão do algoritmo NSGA
+        * **Fernando Godóy**
+    * NSGAIII-Jmetal5: Branch criado para implementação da nova versão do algoritmo NSGA
       * Aluno(s)
-        * Pedro Barbiero
-
-* Versão Estável
-  * [https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0](https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0)
-  * Responsável: João Choma
-
+        * **Pedro Barbiero**
 
 ## Contribuir como desenvolvedor
 
@@ -77,8 +75,8 @@ A OPLA-Tool possui um repositório utilizando o recurso de organização
    mvn eclipse:clean
   ```
 * Importar no eclipse como projeto maven
-  >  Arquivo > Importar > Maven Project> Existent Maven 
-* Efetuar comite localmente
+  >  Arquivo > Importar > Maven Project> Existing Maven Project
+* Efetuar comit localmente
  ```
   git commit -m "Descrição da alteração efetuada"
  ```
@@ -87,3 +85,41 @@ A OPLA-Tool possui um repositório utilizando o recurso de organização
    git push origin nome_do_seu_branch
   ```
 * Criar Pull Request para branch develop
+
+## Utilizando a ferramenta
+* Efetue o clone do repositório: 
+  ``` 
+   git clone https://github.com/OPLA-Tool-UEM/OPLA-Tool
+  ```
+* Instalar dependências:
+Executar arquivo buildDeps.sh localizado no diretório opla-architecture
+
+  *  Linux
+  ```
+   sh buildDeps.sh
+  ```
+  * Windows
+  Abrir aquivo e copiar linha a linha para prompt de comando 
+
+* Build do Projeto
+  * Dentro do diretório opla-archicture
+  ```
+   mvn clean install
+  ```
+  * Dentro do diretório opla-patterns
+  ```
+   mvn clean install
+  ```
+  * Dentro do diretório opla-core
+  ```
+   mvn clean install
+  ```
+  * Dentro do diretório opla-tool
+  ```
+   mvn clean install
+  ```
+* Executar
+  * Dentro do diretório opla-tool
+  ```
+    java -jar target/opla-tool-0.0.1-jar-with-dependencies.jar
+  ```
