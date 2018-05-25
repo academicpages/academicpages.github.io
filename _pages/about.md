@@ -44,7 +44,15 @@ More About Me
 * Identifying weaknesses
 
 #### What are some of my proudest accomplishments?
-Can check out [my portfolio](https://jennywang.info/portfolio)!
+Professionally, I am proud of how I've grown my project just myself to a team of four full time testers. The biggest challenge had to be switching my mindset from a follower to a leader. Given the opportunity, I choose to go above and beyond what was required. My predecssor set some basic responsbilities for the position. When I took over, I was able to build and expand upon those responsibilities which lead to sustained progress and doubling the bug resolution rate of my team. 
+
+It was a wonderful experience getting to work closer with the Development, Dev Ops, and Product Management Teams. I learned a lot about what goes into the Software Life Cycle. It was great seeing the correlation between self taught material and actual real world practices. 
+
+Outside of work, I am most proud of having attained my Scrum Master certification. Since I had taken on a new role with little guidance of industry standards, I took it upon myself to do research off hours and arm myself with strategies to tackle problems at work. Having been out of school for a few years some self study was a good break to my day to day life and refreshing to be able to go at my own pace outside of the 9-5 grind. 
+
+
+<!---Can check out [my portfolio](https://jennywang.info/portfolio)! --->
+
 
 <!--- Another good blog post idea #### What is a time you've exercized leadership? --->
 #### What do I like to do outside of work?
