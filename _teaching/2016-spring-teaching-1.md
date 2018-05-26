@@ -13,7 +13,7 @@ Taught Introduction to Microeconomics
 Prepared engaging lessons for diverse learners introducing students to microeconomics
 ======
 Guided students in learning process and connecting topics to real world applications
-======
+=====
 
 
-======
+
