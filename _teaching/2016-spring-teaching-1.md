@@ -8,7 +8,8 @@ date: 2016-08-31 to 2016-12-15
 location: "Jackson, Michigan,"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught Introduction to Microeconomics
+======
 Prepared engaging lessons for diverse learners introducing students to microeconomics
 ======
 Guided students in learning process and connecting topics to real world applications
