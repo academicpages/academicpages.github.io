@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "TAdjunct Professor"
 collection: teaching
 type: "Introduction to Microeconomics - 2 Sections"
 permalink: /teaching/2016-spring-teaching-1
