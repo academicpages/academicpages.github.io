@@ -1,5 +1,5 @@
 ---
-title: "TAdjunct Professor"
+title: "Adjunct Professor"
 collection: teaching
 type: "Introduction to Microeconomics - 2 Sections"
 permalink: /teaching/2016-spring-teaching-1
@@ -9,12 +9,10 @@ location: "Jackson, Michigan,"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Prepared engaging lessons for diverse learners introducing students to microeconomics
+======
+Guided students in learning process and connecting topics to real world applications
 ======
 
-Heading 2
-======
 
-Heading 3
 ======
