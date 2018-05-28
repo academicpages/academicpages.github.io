@@ -26,7 +26,7 @@ Peer-Reviewed Journal Papers
 
 Peer-Reviewed Conference Papers
 ===
-1. B. Uzkent, Y. Seo, ''*E*nKCF : Ensemble of Kernelized Correlation Filters for Object Tracking in High Speed'', In *Proceedings of the Winter Applications of Computer Vision*, 2018 (Accepted) [arxiv](https://arxiv.org/abs/1801.06729) [code](https://github.com/buzkent86/EnKCF_Tracking_WACV18)
+1. B. Uzkent, Y. Seo, "EnKCF: Ensemble of Kernelized Correlation Filters for High-Speed Object Tracking," 2018 IEEE Winter Conference on Applications of Computer Vision (WACV), pp. 1133-1141, Lake Tahoe, NV, USA, 2018. [arxiv](https://arxiv.org/pdf/1801.06729.pdf)[code](https://github.com/buzkent86/EnKCF_Tracking_WACV18)
 
 2. B. Uzkent, A. Rangnekar, M. J. Hoffman, A. Vodacek, ''Aerial Vehicle Tracking by Adaptive Fusion of Likelihood Maps'', In *Proceedings of the 13th IEEE Workshop on Perception Beyond the Visible Spectrum*, In conjunction with Computer Vision and Pattern Recognition 2017. [code](https://github.com/buzkent86/CVPRW17_Paper_code)
 
