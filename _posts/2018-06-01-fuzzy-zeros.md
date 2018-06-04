@@ -1,7 +1,7 @@
 ---
 title: Fuzzy zeros in percentile normalization
 permalink: /posts/2018/06/fuzzy-zeros
-date: 2018-06-01
+date: 2018-06-04
 tags:
     - microbiome
 ---
