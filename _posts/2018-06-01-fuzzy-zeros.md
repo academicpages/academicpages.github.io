@@ -12,6 +12,8 @@ I've gotten a few questions about this, and wanted to write this short blog post
 As a reminder, for each feature in a study, percentile normalization converts its abundances in control samples into a uniform distribution, and then converts the abundances in case samples to the percentile of the uniform that they fall on.
 In others words, the controls are a null distribution and cases are converted to values describing where they fall on the control distribution.
 
+![schematic overview of percentile normalization](/images/2018/06/Fig1_v5.png)
+
 To convert control abundances into a uniform, we use [SciPy's percentileofscore](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.percentileofscore.html) function:
 
 ```
