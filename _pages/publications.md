@@ -11,6 +11,7 @@ redirect_from:
 
 Conferences
 ======
+* E. Alashwali and K. Rasmussen "What's in a Downgrade? A Taxonomy of Downgrade Attacks in the TLS Protocol and Application Protocols Using TLS," <i>in proc. of the 6th International Workshop on Applications and Techniques in Cyber Security (ATCS 2018) co−located with SecureComm 2018. August‚ 2018 (to appear)</i>, singapore, 2018. <a href="daowngrade-taxonomy-ATCS-2018.pdf">PDF (pre-print)</a>
 * E. Alashwali and K. Rasmussen "On the Feasibility of Fine−Grained TLS Security Configurations in Web Browsers Based on the Requested Domain Name," <i>in proc. of the 14th EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2018). August‚ 2018 (to appear)</i>, singapore, 2018. <a href="fine-grained-tls-securecomm18.pdf">PDF (pre-print)</a>
 * E. Alashwali, "Cryptographic Vulnerabilities in Real-Life Web Servers," <i>in proc. of the 3rd International Conf. on Communications and Information Technology (ICCIT 2013)</i>, Beirut, Lebanon, 2013, pp. 6-11. <a href="ccit_paper_2012.pdf">PDF (pre-print)</a>
 * E. Alashwali and Hanene Ben-Abdallah, "Design and Evaluation of Competition-based Hacking Exercises," <i> in proc. of the IEEE Global Engineering Education Conference (EDUCON 2015)</i>, Tallin, Estonia, 2015. <a href="competition_based_hacking_exercises.pdf">PDF (pre-print) </a>
