@@ -19,6 +19,8 @@
       var sliderOrientation = options.orientation;
       var beforeDirection = (sliderOrientation === 'vertical') ? 'down' : 'left';
       var afterDirection = (sliderOrientation === 'vertical') ? 'up' : 'right';
+      
+      
 
 
       container.wrap("<div class='twentytwenty-wrapper twentytwenty-" + sliderOrientation + "'></div>");
@@ -27,6 +29,10 @@
       }
       var beforeImg = container.find("img:first");
       var afterImg = container.find("img:last");
+      
+      var nameBefore = beforeImg.css('labelname');
+      var nameAfter = afterImg.css('labelname');
+      
       container.append("<div class='twentytwenty-handle'></div>");
       var slider = container.find(".twentytwenty-handle");
       slider.append("<span class='twentytwenty-" + beforeDirection + "-arrow'></span>");
@@ -36,9 +42,11 @@
       afterImg.addClass("twentytwenty-after");
 
       var overlay = container.find(".twentytwenty-overlay");
-      overlay.append("<div class='twentytwenty-before-label' data-content='"+options.before_label+"'></div>");
-      overlay.append("<div class='twentytwenty-after-label' data-content='"+options.after_label+"'></div>");
-
+      //overlay.append("<div class='twentytwenty-before-label' data-content='"+options.before_label+"'></div>");
+      overlay.append("<div class='twentytwenty-before-label' data-content='"+nameBefore+"'></div>");
+      //overlay.append("<div class='twentytwenty-after-label' data-content='"+options.after_label+"'></div>");
+      overlay.append("<div class='twentytwenty-after-label' data-content='"+nameAfter+"'></div>");
+      
       var calcOffset = function(dimensionPct) {
         var w = beforeImg.width();
         var h = beforeImg.height();
