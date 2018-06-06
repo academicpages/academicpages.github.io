@@ -42,11 +42,11 @@
       afterImg.addClass("twentytwenty-after");
 
       var overlay = container.find(".twentytwenty-overlay");
-      if(typeof nameBefore === "undefined"){ //if(nameBefore == null){
-        overlay.append("<div class='twentytwenty-before-label' data-content='"+options.before_label+"'></div>");
-      }else{
+      //if(typeof nameBefore === "undefined"){ //if(nameBefore == null){
+      //  overlay.append("<div class='twentytwenty-before-label' data-content='"+options.before_label+"'></div>");
+      //}else{
         overlay.append("<div class='twentytwenty-before-label' data-content='"+nameBefore+"'></div>");
-      }
+      //}
       if(typeof nameAfter === "undefined"){ //if(nameAfter == null){
         overlay.append("<div class='twentytwenty-after-label' data-content='"+options.after_label+"'></div>");
       }else{
