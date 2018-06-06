@@ -62,7 +62,7 @@ $twenty20-label-radius: 2px !default;
 
 %overlay-transition-duration { @include transition-duration(0.5s); }
 
-%label-transition-property { @include transition-property(opacity); }
+%label-transition-property { @include transition-duration(0.5s); }
 
 %label-text {
   color: $twenty20-overlay-label-color;
