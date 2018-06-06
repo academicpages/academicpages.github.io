@@ -135,10 +135,14 @@
       opacity: 1; }
 
 .twentytwenty-before {
-  z-index: 20; }
+  z-index: 20;
+  transition: none !important;
+}
 
 .twentytwenty-after {
-  z-index: 10; }
+  z-index: 10; 
+  transition: none !important;
+}
 
 .twentytwenty-handle {
   height: 38px;
