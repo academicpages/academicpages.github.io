@@ -30,8 +30,8 @@
       var beforeImg = container.find("img:first");
       var afterImg = container.find("img:last");
       
-      var nameBefore = beforeImg.css('labelName');
-      var nameAfter = afterImg.css('labelName');
+      var nameBefore = beforeImg.attr('labelName');
+      var nameAfter = afterImg.attr('labelName');
       
       container.append("<div class='twentytwenty-handle'></div>");
       var slider = container.find(".twentytwenty-handle");
