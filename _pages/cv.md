@@ -95,21 +95,11 @@ My senior year at Columbia, I TAed the intro to engineering course for freshmen.
 I assisted the students in designing and building a vital-signs monitoring device, guiding them through the engineering design process and teaching concepts in MATLAB and circuitry required for projects.
 I also mentored and advised students on general biomedical engineering and college-related questions.
 
-## Outreach   
-
-I've also taught some short courses about my work as part of various outreach activities:
-
-[**Mr. John Bartucz**](http://www.bartucz.com/mrbartucz/2017-speakers/)'s computer science class (2017). Introduction to my career path and research.
-
-[**Science Club for Girls**](http://www.scienceclubforgirls.org/) [Young leaders in STEM program](http://www.scienceclubforgirls.org/teen-programs-overview) (Summer 2016 and 2017). Three-day course on microbiology and the human microbiome.
-
-[**MIT SPLASH**](https://esp.mit.edu/learn/Splash/index.html) (2015). "Microbiome 101: What's in your poop?"
-
 ***
 
 # Leadership and service
 
-## Research-related
+## Academic and Professional
 
 [**MIT Microbiome Club**](http://microbiome.mit.edu/get-involved/#club), *co-Founder*, *President* (2015-2016), *Executive board member* (2016-present)
 
@@ -119,7 +109,7 @@ I've also taught some short courses about my work as part of various outreach ac
 
 ## Departmental and MIT
 
-**Graduate Student Council Diversity and Inclusion Subcommittee**, *Department and Classroom Inclusion co-coordinator* (2017-present)    
+**Graduate Student Council Diversity and Inclusion Subcommittee**, *Vice Chair and Department and Classroom Inclusion co-coordinator* (2017-present)    
 
 In this role, I coordinate and oversee semesterly conduit assemblies, which bring together diversity representatives from all MIT departments.
 
@@ -128,6 +118,22 @@ In this role, I coordinate and oversee semesterly conduit assemblies, which brin
 As Diversity Chair, I co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap), co-wrote the [BE Departmental Values Statement](http://be.mit.edu/about/department-values-statement), and spearheaded the 2016 Diversity Climate Survey, which has informed diversity-related efforts since.
 
 [**BE Resources for Easing Friction and Stress**](http://berefs.com/), *BE Ref* (2016-present)    
+
+**Biological Engineering Department Visiting Committee**, *Graduate student representative* (2018)
+
+**Graduate Student Advisory Group for Engineering (GradSAGE)**, Advisory group to the Dean of the School of Engineering, *Advisor/advisee relations subcommittee* (2017-2018)
+
+## Outreach and mentorship
+
+[**MIT SuperUROP Program**](https://superurop.mit.edu/), Microbiome superUROP mentor (2017-2018). Supervised one undergraduate researcher.
+
+[**Science Club for Girls**](http://www.scienceclubforgirls.org/) [Young leaders in STEM program](http://www.scienceclubforgirls.org/teen-programs-overview) (Summer 2016 and 2017). Developed and taught three-day course on microbiology and the human microbiome.
+
+[**Mr. John Bartucz**](http://www.bartucz.com/mrbartucz/2017-speakers/)'s computer science class (2017). Introduction to my career path and research.
+
+[**MIT SPLASH**](https://esp.mit.edu/learn/Splash/index.html) (2015). "Microbiome 101: What's in your poop?"
+
+[**E3: Empowering, Encouraging, and Eliminating Barriers for Women in STEM**](http://e3mentoringprogram.wixsite.com/home) (2015). Mentor and guest presenter.
 
 ## Reviewer
 
@@ -139,7 +145,7 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 
 ## Extracurriculars
 
-[**HR ESL Program for MIT Service Employees**](http://hrweb.mit.edu/esl), *GED Math tutor* (2015-2018)
+[**ESL Program for MIT Service Employees**](http://hrweb.mit.edu/esl), *GED Math tutor* (2015-2018)
 
 [**MIT Women's Ultimate Frisbee Team**](http://scripts.mit.edu/~womens-ult/), *B-team captain* (2015-2016), *member* (2014-present)
 

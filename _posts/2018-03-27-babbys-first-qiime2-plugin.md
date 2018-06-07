@@ -175,7 +175,7 @@ Now that babby's first plugin is set up, you'll want some toy data to play with.
 
 Note that OTUs need to be in rows and samples are in columns for these biom tables (even though I can't find this clearly stated in the biom format documentation, grr). Also, you need to make sure you've converted to relative abundance already.
 
-I wrote a script on the repo to make a fake OTU table. Run it or download the tables from my [repo](http://TODO/).
+I wrote a script on the repo to make a fake OTU table. Run it or download the tables from my [repo](https://github.com/cduvallet/q2-perc-norm/tree/master/test_data).
 
 ```
 python make_fake_data.py
