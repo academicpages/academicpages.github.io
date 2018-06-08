@@ -17,35 +17,19 @@ Education
 
 Work experience
 ======
-* 2018 -- Present: Data Scientist, Citrine Informatics
-  * Redwood City, CA
+* 2018 -- Present: Data Scientist
+  * Citrine Informatics, Redwood City, CA
 
-* 2014 -- 2017: Senior Scientist, Reel Solar Power
-  * San Jose, CA
+* 2014 -- 2017: Senior Scientist
+  * Reel Solar Power, San Jose, CA
+
+* 2014: Research Associate
+  * National Renewable Energy Laboratory, Golden, CO
+
+* 2009 -- 2014: Graduate Researcher
+  * UC Santa Cruz, Santa Cruz, CA
   
 Skills
 ======
 * I can pull a decent shot of espresso.
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-for a printable copy
-======
-[click here](https://carenac.github.io/files/cv.pdf)
