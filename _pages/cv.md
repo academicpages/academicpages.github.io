@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Physics, University of Hawaii, 2007
+* M.S. in Physics, University of California, Santa Cruz, 2011
+* Ph.D in Physics, University of California, Santa Cruz, 2014 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 -- Present: Data Scientist, Citrine Informatics
+  * Redwood City, CA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 -- 2017: Senior Scientist, Reel Solar Power
+  * San Jose, CA
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* I can pull a decent shot of espresso.
+
 
 Publications
 ======
@@ -54,6 +46,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+for a printable copy
 ======
-* Currently signed in to 43 different slack teams
+[click here](https://carenac.github.io/files/cv.pdf)
