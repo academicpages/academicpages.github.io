@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Data Scientist at [Citrine Informatics](http://www.citrine.io) -- building the world's largest materials informatics data platform backed by AI for materials discovery and optimization. My primary interests include machine learning, data viz, and the intersection of data-driven techniques with physical sciences.
+I'm currently a Data Scientist at [Citrine Informatics](http://www.citrine.io), helping to build the world's largest materials informatics data platform backed by AI for materials discovery and optimization. My primary interests include machine learning, data viz, and 
+tools and methods at the intersection of data science and physical sciences.
 
-I have a PhD in Physics from UC Santa Cruz, where my research involved semiconductor nanomaterials for next-generation energy conversion.
+I have a PhD in Physics from UC Santa Cruz, where my research involved the design, fabrication, and analysis of colloidal semiconductor nanocrystal devices for next-generation energy conversion.
