@@ -14,7 +14,7 @@ Education
 * Kamehameha Schools Kapalama, 2003
 * B.S. in Physics, University of Hawaii, 2007
 * M.S. in Physics, University of California, Santa Cruz, 2011
-* Ph.D in Physics, University of California, Santa Cruz, 2014 
+* Ph.D. in Physics, University of California, Santa Cruz, 2014 
 
 Work experience
 ======
