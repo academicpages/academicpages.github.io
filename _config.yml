@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "carena church"
+title                    : "home"
 title_separator          : "-"
 name                     : &name "carenac"
 description              : &description "all opinions are my own"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "carenac"
+  name             : "carena church"
   avatar           : "400p_profile.jpg"
   bio              : "reformed solar scientist"
   location         : "SF Bay Area"
