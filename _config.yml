@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Eman Alashwali"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Eman Alashwali"
+description              : &description ""
+url                      : https://ealashwali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ealashwali.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -71,19 +71,19 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Eman Alashwali"
+  avatar           : "eman_web_page_v2.png"
+  bio              : "DPhil. Student"
+  location         : "United Kingdom (UK)"
+  employer         : "University of Oxford"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=wTdorUUAAAAJ&hl=en&oi=ao"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : #"https://www.linkedin.com/in/eman-alashwali-b763b14/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -209,8 +209,8 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
       comments: true
   # _publications
   - scope:
@@ -227,8 +227,8 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
       comment: true
   # _talks
   - scope:
@@ -236,8 +236,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
