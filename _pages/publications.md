@@ -9,6 +9,9 @@ author_profile: true
 <b>[CoT: Cooperative Training for Generative Modeling](http://lantaoyu.com/publications/CoT)</b> <br>
 Sidi Lu, <b>Lantao Yu</b>, Weinan Zhang, Yong Yu. ArXiv 2018. <i>In submission to NIPS 2018.</i>.
 
+<b>[Understanding the Effectiveness of Lipschitz Constraint in Training GANs via Gradient Analysis](http://lantaoyu.com/publications/GanGradient)</b> <br>
+Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Yong Yu. <i>In submission to NIPS 2018.</i>
+
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
 
