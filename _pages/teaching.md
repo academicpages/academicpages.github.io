@@ -15,6 +15,8 @@ Undergraduate
 =============
 
 
+- Social Sciences and Epistemology (O'Higgins University, T2:2018). <a href="https://github.com/hbahamonde/Social_Sciences_Epistemology_UGRAD/raw/master/Bahamonde_Social_Sciences_Epistemology_UGRAD_Syllabus.pdf"><i class='fa fa-book fa'></i></a>
+
 - Comparative Politics (Tulane University, S:2018). <a href="https://github.com/hbahamonde/Comparative_Politics_UGRAD/raw/master/Bahamonde_Comparative_Politics_Syllabus_UGRAD.pdf"><i class='fa fa-book fa'></i></a>
 
 
