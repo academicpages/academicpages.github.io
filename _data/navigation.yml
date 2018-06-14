@@ -4,14 +4,16 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: /publications/    
+    url: /publications/
 
   - title: "People"
     url: /people/    
     
-  - title: "Talks"
+  - title: "Resources"
     url: /talks/
         
   - title: "Contact Us"
     url: /contact/
-
+    
+  - title: "Software"
+    url: /software/
