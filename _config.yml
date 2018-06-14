@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Onno Kampman"
 title_separator          : "-"
 name                     : &name "Onno Kampman"
-description              : &description "personal description"
+description              : &description "Machine Learning Researcher"
 url                      : https://onnokampman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "OnnoKampman/OnnoKampman.github.io"
+repository               : "OnnoKampman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Onno Kampman"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Machine Learning Researcher"
   location         : "Hong Kong"
   employer         : "Goldman Sachs"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gSVe8CkAAAAJ&hl=en"
