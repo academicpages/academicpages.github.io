@@ -20,4 +20,4 @@ For more information on pursuing a postgraduate degree at the University of Cant
 
 ### Diversity and Equity
 
-My lab is inclusive, welcoming, and committed to advancing diversity; I welcome everyone regardless of their ethnicity, color, socioeconomic background, gender identity, sexual orientation, religion, and age. I especially encourage members of historically underrepresented groups including (but not limited to) people of color, women, veterans, and people from socioeconomically disadvantaged communities to inquire about opportunities and apply to join our group.
+My lab is inclusive, welcoming, and committed to advancing diversity; I welcome everyone regardless of their ethnicity, color, socioeconomic background, gender identity, sexual orientation, religion, and age. I especially encourage members of historically underrepresented groups including (but not limited to) people of color, women, veterans, and people from socioeconomically disadvantaged communities to inquire about opportunities and apply to join my group.
