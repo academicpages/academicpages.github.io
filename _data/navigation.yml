@@ -15,8 +15,5 @@ main:
   - title: "People"
     url: /people/   
     
-  - title: "Join Us!"
-    url: /join/
-    
   - title: "Contact"
     url: /contact/
