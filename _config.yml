@@ -189,7 +189,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: pages
+      type: research
     values:
       layout: pages
       author_profile: true
@@ -198,7 +198,7 @@ defaults:
   # _software
   - scope:
       path: ""
-      type: pages
+      type: software
     values:
       layout: pages
       author_profile: true
@@ -207,7 +207,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: archive
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -216,7 +216,7 @@ defaults:
   # _contact
   - scope:
       path: ""
-      type: archive
+      type: contact
     values:
       layout: single
       author_profile: true
@@ -225,7 +225,7 @@ defaults:
   # _people
   - scope:
       path: ""
-      type: pages
+      type: people
     values:
       layout: pages
       author_profile: true
