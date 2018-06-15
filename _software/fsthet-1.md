@@ -2,6 +2,7 @@
 title: "fsthet"
 excerpt: "Fst-heterozygosity smoothed quantiles"
 collection: software
+permalink: /software/fsthet
 ---
 
 fshtet can be downloaded from [R CRAN](https://cran.r-project.org/web/packages/fsthet/fsthet.pdf) or [its GitHub repository](https://github.com/spflanagan/fsthet). 
