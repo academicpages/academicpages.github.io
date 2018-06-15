@@ -1,7 +1,7 @@
 ---
 title: "Lab Alumni"
 excerpt: "The NIMBioS 2017 Summer Research Experience Students supervised by Dr. Flanagan"
-
+permalink: /people/lab-alumni
 collection: people
 ---
 
