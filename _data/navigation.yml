@@ -5,15 +5,18 @@ main:
 
   - title: "Publications"
     url: /publications/
-
-  - title: "People"
-    url: /people/    
+    
+  - title: "Software"
+    url: /software/ 
     
   - title: "Resources"
     url: /talks/
         
+  - title: "People"
+    url: /people/   
+    
+  - title: "Join Us!"
+    url: /join/
+    
   - title: "Contact"
     url: /contact/
-    
-  - title: "Software"
-    url: /software/
