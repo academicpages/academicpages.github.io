@@ -175,6 +175,9 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
     
 
 # Defaults
@@ -203,7 +206,6 @@ defaults:
       layout: pages
       author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -212,7 +214,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _contact
   - scope:
       path: ""
@@ -221,7 +222,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
   # _people
   - scope:
       path: ""
