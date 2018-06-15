@@ -11,7 +11,7 @@ title                    : "The Flanagan Lab"
 title_separator          : "-"
 name                     : &name "Sarah Flanagan"
 description              : &description "The Flanagan Lab website"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://flanagan-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "flanagan-lab/flanagan-lab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -203,10 +203,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
@@ -221,21 +221,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _contact-us
   - scope:
       path: ""
-      type: portfolio
+      type: contact-us
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _research
   - scope:
       path: ""
-      type: talks
+      type: research
     values:
-      layout: talk
+      layout: pages
       author_profile: true
       share: true
 
