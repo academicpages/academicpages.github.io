@@ -169,19 +169,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
-  publications:
+  people:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
+    
 
 # Defaults
 defaults:
@@ -221,19 +215,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _contact-us
+  # _contact
   - scope:
       path: ""
-      type: contact-us
+      type: contact
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _research
+  # _people
   - scope:
       path: ""
-      type: research
+      type: people
     values:
       layout: pages
       author_profile: true
