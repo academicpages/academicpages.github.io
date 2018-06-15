@@ -1,7 +1,7 @@
 ---
 title: "gwscaR"
 excerpt: "genome-wide selection components analysis in R"
-collection: portfolio
+collection: software
 ---
 
 gwscaR can be downloaded from [its GitHub repository](https://github.com/spflanagan/gwscaR). 
