@@ -2,6 +2,7 @@
 title: "Current Lab Members"
 excerpt: "Sarah Flanagan is looking for people to join the lab"
 collection: people
+permalink: /people/current-lab
 ---
 
 ### Sarah P. Flanagan
