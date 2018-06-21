@@ -8,7 +8,7 @@ author_profile: true
 
 
 <H3>Working Papers and Works in Progress</H3>
-<b>Stephen D. Schwab</b>  “<a href="https://stschwab.github.io/images/Dissertation_Revised_23April2018.pdf">You Had Me at Hello: The Effects of Disruptions to the Patient-Physician Relationship</a>,” Dissertation, April 2018. 
+<b>Stephen D. Schwab</b>  “<a href="https://stschwab.github.io/images/COC_24MAY18.pdf">You Had Me at Hello: The Effects of Disruptions to the Patient-Physician Relationship</a>,” Working Paper, May 2018. 
 <br><br>
 
 
