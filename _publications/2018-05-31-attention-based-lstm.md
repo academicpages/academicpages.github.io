@@ -14,7 +14,7 @@ performance by 1.6% accuracy and 2.1% f-score. The attention mechanism helps the
 to select informative words.'
 date: 2018-05-31
 venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/pdf/1805.12307.pdf'
+paperurl: 'https://arxiv.org/abs/1805.12307'
 citation: 'Genta Indra Winata, Onno Kampman, Pascale Fung. (2018). &quot;Attention-Based LSTM for Psychological Stress Detection from Spoken Language Using Distant Supervision.&quot; <i>arXiv preprint</i>. 1(3).'
 ---
 We propose a Long Short-Term Memory (LSTM) with attention mechanism to classify 
