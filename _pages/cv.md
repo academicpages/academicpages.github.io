@@ -20,14 +20,31 @@ Education
 * Ph.D. Massachusetts Institute of Technology, 1992 (Political Science). 
 * B.A. Reed College, 1984 (Philosophy).
   
-<!-- Skills
+
+Courses Taught (G=graduate; U=undergraduate)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Introduction to Political Science —U
+* Causes of War and Peace—U
+* Politics of Strategy and War—U
+* U.S. Security Policy—U
+* International Relations—U
+* U.S. War on Terror—U
+* Controlling the Bomb—U
+* U.S. Foreign Policy—G & U
+* Comparative Foreign Policy—G & U
+* International Security—G
+* International Relations Theory—G
+* Conduct of Research—G
+
+Research Interests
+======
+* International Security 
+* International Relations Theory
+* Political Psychology
+* Public Opinion
+* Nuclear Proliferation
+* Military Occupation
+* Critical Thinking Pedagogy
 
 <!-- Publications
 ======

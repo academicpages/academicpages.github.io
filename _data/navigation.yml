@@ -5,9 +5,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Portfolio"
-    url: /portfolio/
-    
+
+
   - title: "Publications"
     url: /publications/
 
@@ -16,7 +15,9 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
+   
+  # - title: "Portfolio"
+  #   url: /portfolio/
   
         
   # - title: "Blog Posts"
