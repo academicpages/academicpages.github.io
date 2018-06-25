@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "peter-profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -175,10 +175,23 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  non_refereed_publications:
+    output: true
+    permalink: /:collection/:path/ 
+  peer_reviewed_books:
+    output: true
+    permalink: /:collection/:path/ 
+  peer_reviewed_articles:
+    output: true
+    permalink: /:collection/:path/ 
   portfolio:
     output: true
     permalink: /:collection/:path/
+    
   talks:
+    output: true
+    permalink: /:collection/:path/
+  in_progress:
     output: true
     permalink: /:collection/:path/
 
