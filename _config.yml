@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "peter-profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Peter Liberman"
+  avatar           : "profile.png"
+  bio              : "Professor at Queens College and Graduate Center of The City University of New York"
+  location         : "New York, United States"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
