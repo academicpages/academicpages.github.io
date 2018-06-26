@@ -184,6 +184,9 @@ collections:
   peer_reviewed_articles:
     output: true
     permalink: /:collection/:path/ 
+  book_reviews:
+    output: true
+    permalink: /:collection/:path/ 
   portfolio:
     output: true
     permalink: /:collection/:path/
