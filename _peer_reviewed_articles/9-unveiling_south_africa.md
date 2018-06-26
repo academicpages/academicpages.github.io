@@ -1,14 +1,13 @@
 ---
-title: "Unveiling South Africa’s Nuclear Past"
+title: "Unveiling South Africa’s Nuclear Past (Autumn 2004)"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/9-unveiling_south_africa
-citation: ''
-excerpt: 'Journal of Southern African Studies, Vol. 30, No. 3 (Autumn 2004), 457–75.'
-date: 2004-09-01
+excerpt: 'Journal of Southern African Studies, Vol. 30, No. 3 (Autumn 2004), 457–75. Third author, coauthored with Sello Hatang and Verne Harris.'
+# date: 2004-09-01
 venue: 'Journal 1'
 # link
-paperurl: '' 
-citation: 'Third author, coauthored with Sello Hatang and Verne Harris.'
+# paperurl: '' 
+# citation: 'Third author, coauthored with Sello Hatang and Verne Harris.'
 ---
 “Unveiling South Africa’s Nuclear Past,” Journal of Southern African Studies, Vol. 30, No. 3 (Autumn 2004), 457–75. Third author, coauthored with Sello Hatang and Verne Harris.
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->

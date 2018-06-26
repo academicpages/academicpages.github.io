@@ -1,12 +1,12 @@
 ---
-title: "Political Science Quarterly, Vol. 121, No. 3 (Fall 2009)"
+title: "Political Science Quarterly (Fall 2009)"
 collection: book_reviews
 permalink: /book_review/6-political-sciences_121
-excerpt: 'Review of Hendrik Spruyt, Ending Empire: Contested Sovereignty and Territorial Partition.'
+excerpt: 'Vol. 121, No. 3 (Fall 2006). Review of Hendrik Spruyt, Ending Empire: Contested Sovereignty and Territorial Partition.'
 date: 2009-12-01
 venue: 'Journal 1'
 # link
-paperurl: '' 
+# paperurl: '' 
 # citation: ''
 ---
 Political Science Quarterly, Vol. 121, No. 3 (Fall 2006). Review of Hendrik Spruyt, Ending Empire: Contested Sovereignty and Territorial Partition.

@@ -1,15 +1,15 @@
 ---
-title: "War and Torture as ‘Just Deserts"
+title: "War and Torture as ‘Just Deserts (Spring 2014)"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/4-war_ and_torture_as_just_deserts
 excerpt: 'Public Opinion Quarterly Vol. 78, No. 1 (Spring 2014), 47–70.'
-date: 2014-05-01
+# date: 2014-05-01
 venue: 'Journal 1'
 # link
-paperurl: '' 
-citation: ''
+# paperurl: '' 
+# citation: ''
 ---
-Public Opinion Quarterly Vol. 78, No. 1 (Spring 2014), 47–70. 
+“War and Torture as ‘Just Deserts’,” Public Opinion Quarterly Vol. 78, No. 1 (Spring 2014), 47–70. . 
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 

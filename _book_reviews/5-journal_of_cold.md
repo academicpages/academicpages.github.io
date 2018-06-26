@@ -1,12 +1,12 @@
 ---
-title: "Journal of Cold War Studies, Vol. 11, No. 1 (Winter 2009)"
+title: "Journal of Cold War Studies (Winter 2009)"
 collection: book_reviews
 permalink: /book_review/5-journal_of_cold
-excerpt: 'Review of Kevin Narizny, The Political Economy of Grand Strategy'
-date: 2009-12-01
+excerpt: 'Vol. 11, No. 1 (Winter 2009). Review of Kevin Narizny, The Political Economy of Grand Strategy.'
+# date: 2009-12-01
 venue: 'Journal 1'
 # link
-paperurl: '' 
+# paperurl: ''
 # citation: ''
 ---
 Journal of Cold War Studies, Vol. 11, No. 1 (Winter 2009). Review of Kevin Narizny, The Political Economy of Grand Strategy.
