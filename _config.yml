@@ -84,7 +84,7 @@ author:
   bio              : "Political scientist; professor at Queens College and the Graduate Center of CUNY."
   location         : "New York, United States"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=OHU9yzAAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -93,19 +93,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : " https://orcid.org/0000-0002-9083-7933"
+  queens_u         : "http://qcpages.qc.cuny.edu/Political_Science/liberman.html"
+  graduate_center  : "https://politicalscience.commons.gc.cuny.edu/faculty/peter-liberman/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
