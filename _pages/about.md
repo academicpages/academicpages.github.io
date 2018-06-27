@@ -66,9 +66,13 @@ Fellowships, Grants, and Honors
 Fellowships, Grants, and Honors
 ======
 * Mellon Residential Fellowship in the Humanities, Center for the Humanities, CUNY Graduate Center, 2010–11.
+
 * Time-Sharing Experiments in the Social Sciences award TESS2-DHS-07, to field a survey experiment on “Public Reactions to Terrorism: Fight or Flight?,” awarded May 2011. TESS is supported by NSF Grant #0818839, and received additional support from the U.S. Department of Homeland Security for this project (Jeremy Freese and Penny Visser, PIs). Co-PI.
+
 * National Science Foundation Grant #1139869 (Decision and Risk Management Sciences and Social Psychology Programs), “The Revenge Motive: Understanding Public Bellicosity and Closure in a Post-9/11 World,” $70,000 awarded May 2011. One of two co-PIs; PI Linda Skitka.
+
 * Time-Sharing Experiments in the Social Sciences award to Peter Liberman and Linda Skitka, to field a survey experiment on “Displaced International Punishment,” awarded September 2010. TESS is supported by NSF #Grant 0818839 (Jeremy Freese and Penny Visser, PIs). Co-PI.
+
 * Fellow, Center for Place, Culture, and Politics, CUNY Graduate Center, 2007–8.
 * PSC-CUNY Research Awards, 1998–99, 2000–1, 2003–4, 2004–5, 2006–7, 2011–12, 2013–14, 2018–19.
 * Carnegie Corporation of New York and the Plowshares Fund, grants for South African nuclear history and declassification project, 2002.

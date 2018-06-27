@@ -3,12 +3,14 @@ main:
 
 
   - title: "Curriculum Vitae"
-    url: /cv/
-
-
+    # url: /
+    # url: '/http://localhost:4000/'
+    url: https://pjliberman.github.io
+    
 
   - title: "Publications"
-    url: /publications/
+    #  url: /publications/
+    url: https://pjliberman.github.io/publications
 
   # - title: "Talks"
   #   url: /talks/    
