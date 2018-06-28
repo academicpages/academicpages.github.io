@@ -2,9 +2,9 @@
 title: "A Study of AI Population Dynamics with Million-agent Reinforcement Learning"
 collection: publications
 permalink: /publications/MA
-venue: "The 17th International Conference on Autonomous Agents and Multiagent Systems (Extended Abstract) & NIPS-17 Aligned Artificial Intelligence Workshop"
+venue: "AAMAS 2018"
 date: 2017-09-14
-citation: '<b>Lantao Yu</b>*, Yaodong Yang*, Yiwei Bai*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>AAMAS 2018</i>.'
+citation: '<b>Lantao Yu</b>*, Yaodong Yang*, Yiwei Bai*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <b>AAMAS 2018</b>.'
 ---  
 [[ArXiv]](https://arxiv.org/pdf/1709.04511.pdf) [[Code]](https://github.com/geek-ai/1m-agents)
 
