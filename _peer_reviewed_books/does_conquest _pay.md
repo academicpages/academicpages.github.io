@@ -2,12 +2,12 @@
 title: "Does Conquest Pay? The Exploitation of Occupied Industrial Societies"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_books/does_conquest_pay
-excerpt: 'Princeton Studies in International History and Politics'
+# excerpt: ''
 # date: 1996-01-01
 venue: 'Journal 1'
 # link
-# paperurl: '' 
-# citation: 'Princeton: Princeton University Press, 1996'
+paperurl: 'https://press.princeton.edu/titles/5714.html' 
+citation: 'Princeton Studies in International History and Politics. Princeton: Princeton University Press, 1996'
 ---
 Does Conquest Pay? The Exploitation of Occupied Industrial Societies, Princeton Studies in International History and Politics (Princeton: Princeton University Press, 1996).
 
