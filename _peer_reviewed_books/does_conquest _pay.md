@@ -7,7 +7,7 @@ permalink: /peer_reviewed_books/does_conquest_pay
 venue: 'Journal 1'
 link 'https://press.princeton.edu/titles/5714.html' 
 # paperurl: 'https://press.princeton.edu/titles/5714.html' 
-# citation: ''
+citation: 'Peter Liberman. 1996. <i>Does Conquest Pay? The Exploitation of Occupied Industrial Societies<i>. Princeton Studies in International History and Politics. Princeton: Princeton University Press.'
 ---
 Does Conquest Pay? The Exploitation of Occupied Industrial Societies, Princeton Studies in International History and Politics (Princeton: Princeton University Press, 1996).
 
