@@ -3,23 +3,25 @@ main:
 
 
   - title: "Curriculum Vitae"
-    url: /
-
-
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
 
+  # - title: "Teaching"
+  #   url: /teaching/ 
+
+  # - title: "Contact"
+  #   url: /contact/ 
+
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-   
+    
   # - title: "Portfolio"
   #   url: /portfolio/
   
-        
+     
   # - title: "Blog Posts"
   #   url: /year-archive/
     
