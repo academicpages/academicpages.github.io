@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<p class="lead"> I am a post-doctoral fellow at <span style="color:#336666"><b>Tulane University</b></span>'s <a href="http://cipr.tulane.edu">Center for Inter-American Policy & Research (CIPR)</a>. I received my Ph.D in political science from <span style="color:#d21034"><b>Rutgers University</b></span> (New Brunswick, NJ) in the spring of 2017.</p>
+<p class="lead"> I am an Assistant Professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>'s, <a href="http://www.uoh.cl">Instituto de Ciencias Sociales</a>, in Chile, where I also serve as Head of the Public Administration and Political Science program</p>
 
-<p class="lead"> Since July 2018 I will be an assistant professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>'s, <a href="http://www.uoh.cl">Instituto de Ciencias Sociales</a>, in Chile.</p>
+<p class="lead"> Before joining <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>, I served one year as a post-doctoral fellow at <span style="color:#336666"><b>Tulane University</b></span> for the 2017-2018 AY. I received my Ph.D in Political Science from <span style="color:#d21034"><b>Rutgers University</b></span> (New Brunswick, NJ) in the spring of 2017.</p>
+
+<p class="lead"> My research is either forthcoming, or has been published on **Journal of Politics in Latin America** and **Revista de Ciencia Politica**.</p>
 
 
 Profile
@@ -45,11 +47,9 @@ Contact
 =======
 
 
-Center for Inter-American Policy & Research.
+O'Higgins University
 
-Tulane University.
-
-HBahamonde@tulane.edu
+Hector.Bahamonde@uoh.cl
 
 www.HectorBahamonde.com
 
