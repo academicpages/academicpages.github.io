@@ -18,7 +18,7 @@ redirect_from:
 
 - Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt). **Under review**
 
-- Vote-Buying in the United States (anonymized title). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Submitted**.
+- Vote-Buying in the United States (anonymized title). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Under Review**.
 
 - *Testing the Online Model of Candidate Evaluation in a More Realistic Environment*. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
