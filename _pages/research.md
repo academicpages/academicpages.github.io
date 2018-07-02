@@ -12,7 +12,7 @@ redirect_from:
 
 - Structural Transformations and State Institutions in Latin America, 1900-2010.  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta). **In preparation**.
 
-- Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil. **Revise and resubmit**. [[Paper]](https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Clientelism_paper/raw/master/datasets/dat.RData).
+- Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil. **forthcoming, Journal of Politics in Latin America**. [[Paper]](https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Clientelism_paper/raw/master/datasets/dat.RData).
 
 - Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data.  [[Data]](http://www.hectorbahamonde.com/datasets/). **Under review**.
 
