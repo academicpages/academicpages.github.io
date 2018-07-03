@@ -178,6 +178,9 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
     
 
 # Defaults
@@ -199,6 +202,14 @@ defaults:
       share: true
       comments: true
   # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _resources
   - scope:
       path: ""
       type: software
