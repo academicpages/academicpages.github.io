@@ -1,5 +1,7 @@
 ---
 title: "Advice for graduate students"
+permalink: /resources/advice
+excerpt: 'A collection of links with advice for prospective & current (and in some cases former) grad students'
 collection: resources
 ---
 
