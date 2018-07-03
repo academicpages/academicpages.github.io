@@ -1,6 +1,6 @@
 ---
 title: "Current Lab Members"
-excerpt: "The Flanagan lab is hiring!"
+excerpt: "The Flanagan lab is hiring! <img /images/flanagan_200x266.jpg>"
 collection: people
 permalink: /people/current-lab
 ---
