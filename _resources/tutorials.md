@@ -1,5 +1,7 @@
 ---
-title: "An aggregation of tutorials and cheat sheets for computational work"
+title: "Computational resources"
+permalink: /resources/tutorials
+excerpt: 'An aggregation of tutorials and cheat sheets for computational work'
 collection: resources
 ---
 
