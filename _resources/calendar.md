@@ -1,5 +1,7 @@
 ---
 title: "Lab calendar"
+permalink: /resources/calendar
+excerpt: 'A link to the shared Flanagan lab google calendar'
 collection: resources
 ---
 
