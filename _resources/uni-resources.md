@@ -1,7 +1,7 @@
 ---
 title: "University resources"
 permalink: /resources/uni
-exceprt: 'Relevant links for current & prospective University of Canterbury students'
+exceprt: ''
 collection: resources
 ---
 
