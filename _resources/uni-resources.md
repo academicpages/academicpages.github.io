@@ -5,6 +5,8 @@ exceprt: 'Relevant links for current & prospective University of Canterbury stud
 collection: resources
 ---
 
+This page  contains relevant links for students at the University of Canterbury
+
 [UC SBS Postgraduate Handbook](http://www.canterbury.ac.nz/media/documents/postgraduate-/information-sheets/UC-biological-Sciences-pgrad-handbook.pdf)
 
 [UC Scholarships search page](http://www.canterbury.ac.nz/scholarshipsearch/ScholarshipResults.aspx?Level=PG&College=SCIE&Subject=BIOL&Application=APPLREQ&IncludeGeneral=1)
