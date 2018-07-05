@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Calculus II: matrices and probabilities"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Pennsylvania, Department of Mathematics"
+date: Spring, 2017
+location: "Philadelphia, PA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is the second course in the Calculus sequence for undergraduate students in the Wharton school.
+The course is a accelerated course made up of multivariate calculus, linear algebra and elementary probability theory.
