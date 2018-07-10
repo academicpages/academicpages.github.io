@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "Scribbling"
+permalink: /scribbling/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+
+<h2>CARGO Archive</h2>
+
+<p> Here is a list of topics considered to be discussed in Autumn 2017 in Category Reading Group seminars as well as informal archive for suggested topics since Summer 2015 : 
+  <ul>
+   <li>
+    <a href= "/files/CT/Potential-topics.pdf" target= "_blank"><font color="#336666">Potential topics</font></a>  
+   </li> 
+   <li> 
+    <a href= "https://cargo.bram.xyz/" target= "_blank"><font color="#336666">Informal archive</font></a> 
+   </li>  
+  </ul>
+</p>
+
+
+<h2>Notes</h2>
+{% for post in site.notes reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+

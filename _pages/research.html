@@ -1,0 +1,100 @@
+---
+layout: archive
+permalink: /research/
+author_profile: true
+---
+
+
+
+{% include base_path %}
+
+
+
+<h2><font color="#336666">Research Summary</font></h2>
+
+
+<p> I am presently a PhD student in theory of computation group at the school of computer science in the University of Birmingham.
+ My research interests lie in areas of category theory and topos theory, higher category theory, derived algebraic geometry, categorical logic and homotopy type theory. I am also interested in application of topology, topos theory, and algberaic topology to problems of computation; either concerning theoretical underpinning of the notion of computation such as foundational problems "what is computation?", "what is a proof?",etc, or application of algebro topological invariants such as homology and homotopy to study patterns in big data.      
+</p>
+
+<p> My current research work is pretty much focused on the study of 2-categorical (really bicategorical!) aspects of toposes; bi-limits, bi-colimits, fibrations and opfibrations, factorization systems, etc. Toposes can be approached from at least three distinct angles; a topos as a generalized topological space (or even better a generalized locale), as a presentation-independent geometric theory, and as a set theory ("when a topos looks into itself!"). My research aim is to make these connections more clear in the bicategory of toposes (a commune where all toposes over different bases live together.), particularly the connection of the first and second viewpoints.       
+</p>
+
+
+
+
+<hr>
+<hr>
+<h2><font color="#336666">Talks And Presentations</font></h2> 
+<!--
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+-->
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
+
+    
+<hr>
+<hr>
+<h2><font color="#336666">Publications</font></h2> 
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
+
+
+
+<hr>
+<hr>
+<h2><font color="#336666">CARGO</font></h2> 
+<p>  
+I am one of the organizers of category theory reading group (CARGO). The meetings takes place at the school of computer science on a weekly basis. The particiants are mostly PhD students and research fellows in theoretical computer science. 
+
+  <details> 
+   <summary>Read more about it here .</summary>
+    <p>
+<ul> 
+  <li> From 2015-2017, CARGO meetings used to takes place at the school of computer science on every Tuesday at 2:00 p.m. in room 245. For the academic year of 2017-2018 we have our meetings on Thursdays at 11:00 a.m. in the same room. 
+  </li>
+<li> Here is the archive of talks: <a href="http://talks.bham.ac.uk/show/archive/1233" target="_blank"><font color="#336666">CARGO archive</font></a>. Feel free to subscribe to our <a href= "https://mailman.cs.bham.ac.uk/mailman/listinfo/cargo/" target="_blank"><font color="#336666">mailing list</font></a>. Let me also mention the archive of our <a href="http://talks.bham.ac.uk/show/index/86" target="_blank"><font color="#336666">Theory Seminars</font></a> talks on Fridays. I have given four talks in theory seminars and numerous talks in CARGO. Sometimes I find enough time and I write the notes of the talks which can be found in below. 
+  </li>    
+ <li> Here is a list of topics considered to be discussed in Autumn 2017 in Category Reading Group seminars as well as informal archive for suggested topics since Summer 2015: <a href= "/files/CT/Potential-topics.pdf" target= "_blank"><font color="#336666">Potential topics</font></a> and <a href= "https://cargo.bram.xyz/" target= "_blank"><font color="#336666">Informal archive</font></a>.
+  </li> 
+</ul>  
+   </p> 
+    </details>  
+</p>
+
+
+
+
+
+<hr>
+<hr>
+<h2><font color="#336666">Expository Papers And Notes</font></h2>
+
+Writing notes helps me to grasp a mathematical concept or construction and they become less elusive in my mind. Here are the notes 
+from some of my talks for which I had time to type them up. Any reports of mistakes and errors from the reader are always welcome. Also, suggestions and recommendations on how to improve a presentation of a concept or how to communicate the essential ideas of a construction are greatly appreciated.   
+
+
+{% for post in site.notes reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in site.portfolio reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
+
+<hr>
+<hr>
+<h2><font color="#336666">Academic Records</font></h2> 
+Here is my <a href="/files/CV-Sina.pdf" target="_blank"><font color="#336666">Curriculum Vitae</font></a>

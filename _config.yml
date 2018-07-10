@@ -7,21 +7,21 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sina Hazratpour"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sina Hazratpour"
+description              : &description "Into logic, mathematics, and philosophy"
+url                      : https://sinhp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sinhp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+comments:                
+  provider               : "disqus"
+  disqus:                 
+    shortname            :  sinhp-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
-  username               :
+  username               :  sinahazratpour
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -70,41 +70,41 @@ social:
 
 
 # Analytics
-analytics:
+analytics: 
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-99717716-1
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Sina Hazratpour"
+  avatar           : "deathridelaugh.jpg"
+  bio              : 
+  location         : "Birmingham, UK"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sinahazratpour@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "sinahazratpour"
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "sinhp"
+  google_plus      : "SinaHazratpour"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "sina-hazratpour"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -181,7 +181,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  notes:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -238,6 +240,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+   # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -249,7 +259,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -303,3 +313,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+

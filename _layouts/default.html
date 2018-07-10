@@ -9,6 +9,9 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %} 
   </head>
 
   <body>
@@ -20,6 +23,9 @@ layout: compress
 
     </script>
 
+  
+  
+  
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
@@ -28,6 +34,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+  
 
   </body>
 </html>
