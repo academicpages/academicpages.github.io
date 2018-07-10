@@ -5,6 +5,8 @@ excerpt: 'An aggregation of tutorials and cheat sheets for computational work'
 collection: resources
 ---
 
+## Here are some tutorials and cheat sheets that might come in handy
+
 [Guide to using EndNote](http://canterbury.libguides.com/endnote)
 
 [Git cheat sheet](http://neuroplausible.com/github)
