@@ -1,6 +1,6 @@
 ---
 title: "Current Lab Members"
-excerpt: "The Flanagan lab is hiring! <img /images/flanagan_200x266.jpg>"
+excerpt: "Dr. Sarah Flanagan <img /images/flanagan_200x266.jpg>"
 collection: people
 permalink: /people/current-lab
 ---
@@ -11,13 +11,3 @@ Dr. Sarah Flanagan is a Lecturer in Evolutionary Biology in the [School of Biolo
 
 My research focuses on the evolution of complex traits and how selection interacts with the genome. My research activities fall into two major categories: (1) understanding how sexual selection acts on traits and shapes mating systems and (2) investigating the genomic basis of traits, including the signature selection leaves on the genome. Read more about Sarah on her [personal website]( https://sarahpflanagan.wordpress.com/), where she maintains a blog.
 
-## Join the lab!
-I am hiring a graduate student! 
-
-If you are interested, please get in contact with me! I encourage interested applicants to contact me with the following information: (1) CV; (2) Summary of research experience; and (3) Statement of research interests and potential project topics. 
-
-For more information on pursuing a postgraduate degree at the University of Canterbury, please take a look at the [handbook](http://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/postgraduate-study/). 
-
-### Diversity and Equity
-
-My lab is inclusive, welcoming, and committed to advancing diversity; I welcome everyone regardless of their ethnicity, color, socioeconomic background, gender identity, sexual orientation, religion, and age. I especially encourage members of historically underrepresented groups including (but not limited to) people of color, women, veterans, and people from socioeconomically disadvantaged communities to inquire about opportunities and apply to join my group.
