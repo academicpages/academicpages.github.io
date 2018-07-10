@@ -35,7 +35,8 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+           <p> <i>{{ page.startmonth }}</i> {{ page.startdate | default: "1900-January-01" | date: "%Y" }} to <i>{{ page.endmonth }}</i>  {{ page.enddate | default: "1900-01-01" | date: "%Y" }}   </p>
+           <p>Download <a href=" {{ page.paperurl }} "><u>here</u></a></p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -88,3 +89,4 @@ layout: default
     </div>
   {% endif %}
 </div>
+{% include mathjax.html %}
