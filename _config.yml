@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Peter Liberman"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pjliberman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Peter Liberman"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Professor at Queens College and Graduate Center of The City University of New York"
+  location         : "New York, United States"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -175,10 +175,26 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  non_refereed_publications:
+    output: true
+    permalink: /:collection/:path/ 
+  peer_reviewed_books:
+    output: true
+    permalink: /:collection/:path/ 
+  peer_reviewed_articles:
+    output: true
+    permalink: /:collection/:path/ 
+  book_reviews:
+    output: true
+    permalink: /:collection/:path/ 
   portfolio:
     output: true
     permalink: /:collection/:path/
+    
   talks:
+    output: true
+    permalink: /:collection/:path/
+  in_progress:
     output: true
     permalink: /:collection/:path/
 
