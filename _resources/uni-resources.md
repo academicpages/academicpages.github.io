@@ -5,7 +5,7 @@ exceprt: ''
 collection: resources
 ---
 
-This page  contains relevant links for students at the University of Canterbury
+## This page  contains relevant links for students at the University of Canterbury
 
 [UC SBS Postgraduate Handbook](http://www.canterbury.ac.nz/media/documents/postgraduate-/information-sheets/UC-biological-Sciences-pgrad-handbook.pdf)
 
