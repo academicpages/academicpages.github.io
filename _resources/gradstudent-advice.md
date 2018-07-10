@@ -5,7 +5,7 @@ excerpt: 'A collection of links with advice for prospective & current (and in so
 collection: resources
 ---
 
-This page contains a collection of advice for people considering graduate school and for graduate students
+## This page contains a collection of advice for people considering graduate school and for graduate students
 
 [Should you go to grad school to become a professor? - Brian O'Meara](http://brianomeara.info/lab/shouldyougotogradschool/)
 
