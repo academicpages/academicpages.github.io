@@ -8,7 +8,7 @@ redirect_from:
 
 - **Earthquake Dataset**
 
-Soon I will be posting my original dataset on historical earthquakes, which I use to measure state capacities overtime. [Paper under review](https://github.com/hbahamonde/Earthquake_Paper/raw/master/status.txt). [Abstract](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt).
+Soon I will be posting my original dataset on historical earthquakes, which I use to measure state capacities overtime. [Paper](https://github.com/hbahamonde/Earthquake_Paper/raw/master/status.txt). [Abstract](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt).
 
 - **Vote-Selling: List and Conjoint Experimental Dataset**
 
