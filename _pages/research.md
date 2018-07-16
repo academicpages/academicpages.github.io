@@ -11,7 +11,7 @@ redirect_from:
 
 - Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil. **forthcoming, Journal of Politics in Latin America**. [[Paper]](https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Clientelism_paper/raw/master/datasets/dat.RData).
 
-- [El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). *Revista de Ciencia Política*. 31(2), 285-310, 2010. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart.
+- El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009. *Revista de Ciencia Política*. 31(2), 285-310, 2010. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart. [paper](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). 
 
 
 ## Work in Progress
