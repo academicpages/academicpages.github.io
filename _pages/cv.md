@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Applied Physics, TU Delft, 2014
-* M.Ph. in TLE, Deparment of Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2017
+* M.Ph. in TLE, Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2017
 <!--* Ph.D in Version Control Theory, Github University, 2018 (expected)-->
 
 Work experience
@@ -27,7 +27,7 @@ Work experience
   
 Skills
 ======
-* Machine learning, Bayesian and variational inference, deep learning
+* Machine learning, Bayesian and variational inference, deep learning, non-numerical data types
 * Programming
   * Python
   * Matlab
