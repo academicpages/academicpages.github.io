@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<p class="lead"> I am an Assistant Professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>'s, <a href="http://www.uoh.cl">Instituto de Ciencias Sociales</a>, in Chile, where I also serve as Head of the Public Administration and Political Science program.</p>
+<p class="lead"> I am an Assistant Professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>'s, <a href="http://www.uoh.cl">Instituto de Ciencias Sociales</a>, in Chile.</p>
 
 <p class="lead"> Before joining <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>, I served one year as a post-doctoral fellow at <span style="color:#336666"><b>Tulane University</b></span> for the 2017-2018 AY. I received my Ph.D in Political Science from <span style="color:#d21034"><b>Rutgers University</b></span> (New Brunswick, NJ) in the spring of 2017.</p>
 
 <p class="lead"> My research is either forthcoming, or has been published in <b>Journal of Politics in Latin America</b> and <b>Revista de Ciencia Politica</b>.</p>
 
 
-Profile
-=======
-
-My <b>primary subfield is the political economy of development of Latin America</b>. My <b>research</b> extends across several substantive areas, including state capacities, vote-buying and political development. I also have a strong interest in <b>political methodology</b>. In my work, I leverage observational, experimental and statistical methods (linear, non-linear, hierarchical, time-series and Bayesian econometrics), but also historical institutionalist approaches. My <b>teaching interests</b> include political economy, Latin American politics, comparative politics, epistemology, and political methodology, all at the undergraduate and graduate levels.
+My <b>primary subfield is the political economy of development of Latin America</b>. My <b>research</b> extends across several substantive areas, including state capacities, vote-buying and political development. I also have a strong interest in <b>political methodology</b>.
 
 <a href="http://www.hectorbahamonde.com/research/">
 <img src="/resources/wordcloud.png" alt="wordcloud of my research"  style="width:386px;height:330;;border:0;">
