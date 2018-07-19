@@ -9,9 +9,9 @@ redirect_from:
 
 ## Peer-Reviewed Articles
 
-- Aiming Right at You: Group v. Individual Clientelistic Targeting in Brazil. **Journal of Politics in Latin America**. *Forthcoming*. [[Paper]](https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Clientelism_paper/raw/master/datasets/dat.RData).
+- Aiming Right at You: Group versus Individual Clientelistic Targeting in Brazil. **Journal of Politics in Latin America**. 10(2): 41-75, 2018. [[Pre-Print Paper]](https://github.com/hbahamonde/Clientelism_paper/raw/master/Bahamonde_Clientelism_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Clientelism_paper/raw/master/datasets/dat.RData).
 
-- El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009. **Revista de Ciencia Política**. 31(2), 285-310, 2010. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart. [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). [[Abstract]](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2011000200007&lng=es&nrm=iso&tlng=en).
+- El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009. **Revista de Ciencia Política**. 31(2): 285-310, 2010. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart. [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). [[Abstract]](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2011000200007&lng=es&nrm=iso&tlng=en).
 
 
 ## Work in Progress
