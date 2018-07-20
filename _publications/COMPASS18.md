@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/COMPASS18
 venue: "ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2018)"
 date: 2018-4-14
-citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2018).</i>'
+citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.'
 ---
 [[PDF]](http://lantaoyu.github.io/files/compass18.pdf)
 
