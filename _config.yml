@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Cristian Gómez Portes"
   avatar           : "avatar.jpg"
-  bio              : "Computer scientist and MSc student in Computer Science at <a style='color: black;' href='https://www.uclm.es/'>University of Castilla~La Mancha"
+  bio              : "Computer scientist and MSc student in Computer Science at <a style='color: black;' href='https://www.uclm.es/'>University of Castilla~La Mancha</a>"
   location         : "Ciudad Real, Spain"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -101,7 +101,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/8778861/crisgmz"
+  stackoverflow    : "8778861/crisgmz"
   steam            :
   tumblr           :
   twitter          : *twitter
