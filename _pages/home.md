@@ -19,6 +19,9 @@ he has participated as a coordinator of the Tracking team in the Telefónica Tal
 **Robotic in school**
 March 25th, 2018
 
-A team of 11 students and 3 professors from the School of Computer Science of University of Castilla~La Mancha has developed RoboTic, a Mixed Reality game to teach children and youths programming with the objective of reducing the current demand for programmers. [READ MORE (http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-colegio){: .btn}
+A team of 11 students and 3 professors from the School of Computer Science of University of Castilla~La Mancha has developed RoboTic, a
+Mixed Reality game to teach children and youths programming with the objective of reducing the current demand for programmers. 
+
+[READ MORE (http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-colegio){: .btn}
 
 ---
