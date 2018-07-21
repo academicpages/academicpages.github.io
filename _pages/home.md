@@ -14,7 +14,7 @@ he has participated as a coordinator of the Tracking team in the Telefónica Tal
 
 # News
 
-<p align="left">
+<p align="center">
   <img width="300" height="200" src="https://Cris21395.github.io/images/robotic.JPG";/> 
 </p>
 
