@@ -14,7 +14,7 @@ in PDF my up-to-date Curriculum Vitae.
 
 ## Education
 * **B.S. in Computer Science, University of Castilla~La Mancha**
-  * **Date**: July 2018
+  * **Date**: July 2018.
   * **Final Degree Project**: AsgAR: Graphical representation generator system for the visualization of programs and algorithms
   using Mixed Reality.
   * **Advisors**: Dr. Carlos González Morcillo and PhD. Santiago Sánchez Sobrino.
