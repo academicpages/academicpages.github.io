@@ -15,7 +15,6 @@ he has participated as a coordinator of the Tracking team in the Telefónica Tal
 # News
 
 <img align="left" width="300" height="200" src="https://Cris21395.github.io/images/robotic.JPG">
-
 ## Robotic in school
 March 25th, 2018
 
@@ -23,6 +22,6 @@ A team of 11 students and 3 professors from the School of Computer Science of Un
 a Mixed Reality game to teach children and youths programming with the objective of reducing the current demand for programmers.
 
 <button name="button" onclick="http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-
-colegio">Click me</button>
+colegio">READ MORE</button>
 
 -----------------------------------------------------------------------------------------------------------------------------------------
