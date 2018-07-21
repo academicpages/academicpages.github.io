@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "Home"
+title: "Short Bio"
+excerpt: "Short Bio"
 author_profile: true
 redirect_from: 
   - /home/
