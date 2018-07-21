@@ -1,1 +1,1 @@
-GitHub page from [academicoages](https://github.com/academicpages/academicpages.github.io).
+GitHub page from [academicpages](https://github.com/academicpages/academicpages.github.io).
