@@ -22,8 +22,6 @@ redirect_from:
     <b>RoboTic</b>, a Mixed Reality game to teach children and youths programming concepts.
   </p>
 </p> 
-<p align="right">
-[READ MORE](http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-colegio){: .btn}
-</p>
+<[READ MORE](http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-colegio){: .btn}>
 
 ---
