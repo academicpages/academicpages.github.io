@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 In this page, you can find information related to my experience,  skills, studies, among other things. 
-<a href='https://github.com/Cris21395/Cris21395.github.io/blob/master/files/cv.pdf'><b>Click here if you want to view in PDF my up-to
+<a href='https://github.com/Cris21395/Cris21395.github.io/raw/master/files/cv.pdf'><b>Click here if you want to view in PDF my up-to
   date Curriculum Vitae</b>.
 </a>
 
