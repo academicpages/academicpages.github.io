@@ -16,7 +16,7 @@ he has participated as a coordinator of the Tracking team in the Telefónica Tal
 
 <img align="left" width="300" height="200" src="https://Cris21395.github.io/images/robotic.JPG">
 
-### Robotic in school
+**Robotic in school**
 
 March 25th, 2018
 
