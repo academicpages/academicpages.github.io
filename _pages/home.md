@@ -22,6 +22,7 @@ March 25th, 2018
 A team of 11 students and 3 professors from the School of Computer Science of University of Castilla~La Mancha has developed RoboTic,
 a Mixed Reality game to teach children and youths programming with the objective of reducing the current demand for programmers.
 
-{% include button.html url="http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-colegio" %}
+<button name="button" onclick="http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-
+colegio">Click me</button>
 
 -----------------------------------------------------------------------------------------------------------------------------------------
