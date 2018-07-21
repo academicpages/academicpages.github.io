@@ -9,51 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+In this page, you can find information related to my experience,  skills, studies, among other things. click here if you want to view
+in PDF my up-to-date Curriculum Vitae.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
+* **B.S. in Computer Science, University of Castilla~La Mancha**
+  * **Date**: July 2018
+  * **Final Degree Project**: AsgAR: Graphical representation generator system for the visualization of programs and algorithms
+  using Mixed Reality.
+  * **Advisors**: Dr. Carlos González Morcillo and PhD. Santiago Sánchez Sobrino.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work experience
+* **Microsoft HoloLens developer**
+  * **Date**: July, 2017 - March, 2018.
+  * **Place**: Furious Koalas Interactive, Ciudad Real, Spain.
+  * **Job**: Creation of a Mixed Reality video game to teach children and youths programming concepts using the Augmented Reality device
+  Microsoft HoloLens. My participation in this project was thanks to the scholarship, Telefónica Talentum.
 
-Publications
-======
+## Research interests
+Visualization of Programs and Algorithms, Augmented Reality techniques, 3D Graphics, apart from topics related to Machine Learning such 
+as Natural Language Understanding and Speech Recognition, among other aspects.
+
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
