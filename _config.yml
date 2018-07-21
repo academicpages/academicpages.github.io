@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cristian Gómez Portes"
 title_separator          : "-"
 name                     : &name "Cristian Gómez Portes"
-description              : &description "Computer scientist<br/>MSc student in Computer Science"
+description              : &description "Computer Scientist<br/>MSc student in Computer Science"
 url                      : https://Cris21395.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cris21395/Cris21395.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Cristian Gómez Portes"
   avatar           : "avatar.jpg"
-  bio              : "Computer scientist and MSc student in Computer Science at <a style='color: black;' href='https://www.uclm.es/'>University of Castilla~La Mancha</a>"
+  bio              : "Computer Scientist and MSc student in Computer Science at <a style='color: black;' href='https://www.uclm.es/'>University of Castilla~La Mancha</a>"
   location         : "Ciudad Real, Spain"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
