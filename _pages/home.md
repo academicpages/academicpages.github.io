@@ -17,11 +17,13 @@ redirect_from:
 <p><img src="https://Cris21395.github.io/images/robotic.JPG" width="300" height="200" align="left" hspace="20">
   <p align="justify">
     <b>Robotic in school</b><br/>
-    March 25th, 2018<br/><br/>
+    March 25, 2018<br/><br/>
     A team of 11 students and 3 professors from the School of Computer Science of University of Castilla~La Mancha has developed
-    <b>RoboTic</b>, a Mixed Reality game to teach children and youths programming concepts.
+    <b>RoboTic</b>, a Mixed Reality game to teach children and youths programming concepts. 
+    <a href='http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-colegio'>
+      <b>READ MORE</b>
+    </a>
   </p>
-</p> 
-<[READ MORE](http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-colegio){: .btn}>
+</p>
 
 ---
