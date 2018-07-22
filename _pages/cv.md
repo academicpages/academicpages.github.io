@@ -1,5 +1,5 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 In this page, you can find information related to my experience,  skills, studies, among other things. 
-[Click to view my up-to-date Curriculum Vitae [PDF]](http://cris21395.github.io/files/cv.pdf)
+[Click to view my up-to-date Curriculum Vitae [PDF]](http://cris21395.github.io/files/cv.pdf).
 
 <!-- <embed src="http://cris21395.com/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
 
