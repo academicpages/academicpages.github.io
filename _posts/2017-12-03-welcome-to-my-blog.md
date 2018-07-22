@@ -2,7 +2,18 @@
 title: 'Welcome to my blog'
 date: 2017-12-03
 permalink: /posts/2017/12/welcome-to-my-page/
+author: stuart
+excerpt: Introduction of the blog in which I detail both the purpose and the content of this site.
 
 ---
 
-Introduction of the blog in which I detail both the purpose and the content of this site.
+First of all, thank you for reaching to my page and reading these lines. I am sure you will find this site interesting.
+
+It's been such a long time since I wanted to create a blog where writing my thoughts and things related to technology, but the little time
+hasn't allowed me to create one and maintain it. The moment has come and I hope to dedicate the time that it requires. I begin with
+enthusiasm and I expect that it doesn't disappear.
+
+If you want to know more from me, you can go to [home](https://cris21395.github.io/) and read the sections that I have written. On the 
+contrary, if you want to [contact](https://cris21395.github.io/contact) me, go to contact and send me a message. I will reply as soon as 
+possible.
+
