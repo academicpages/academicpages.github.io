@@ -14,7 +14,7 @@ In this page, you can find information related to my experience,  skills, studie
   <b>Click here if you want to view in PDF my up-to-date</b>
 </a>.
 
-<!-- <embed src="http://cris21395.com/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://cris21395.github.io/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
 
 ## Education
 * **B.S. in Computer Science, University of Castilla~La Mancha**
