@@ -11,7 +11,7 @@ redirect_from:
 
 In this page, you can find information related to my experience,  skills, studies, among other things. 
 <a href='http://cris21395.github.io/files/cv.pdf'>
-  <b>Click here if you want to view in PDF my up-to-date</b>
+  <b>Click here if you want to view in PDF my up-to-date Curriculum Vitae</b>
 </a>.
 
 <!-- <embed src="http://cris21395.github.io/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
