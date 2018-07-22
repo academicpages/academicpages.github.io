@@ -3,6 +3,7 @@ permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
 author_profile: true
+
 ---
 In order to get in touch with me, the required contact information is below.
 
