@@ -2,7 +2,7 @@
 title: 'Welcome to my blog'
 date: 2018-07-20
 permalink: /posts/2018/07/welcome-to-my-page/
-author: stuart
+author: cristian
 excerpt: Introduction of the blog in which I detail both the purpose and the content of this site.
 
 ---
