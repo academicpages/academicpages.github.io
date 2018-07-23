@@ -1,5 +1,5 @@
 ---
-title: 'AsgAR: Graphical representation generator system for the visualization of programs and algorithms using Mixed Reality.'
+title: 'AsgAR: Graphical representation generator system for the visualization of programs and algorithms using Mixed Reality'
 date: 2018-07-23
 permalink: /posts/2018/07/final-degree-project/
 author: cristian
