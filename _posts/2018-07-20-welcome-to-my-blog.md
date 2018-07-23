@@ -1,7 +1,7 @@
 ---
 title: 'Welcome to my blog'
-date: 2017-12-03
-permalink: /posts/2017/12/welcome-to-my-page/
+date: 2018-07-20
+permalink: /posts/2018/07/welcome-to-my-page/
 author: stuart
 excerpt: Introduction of the blog in which I detail both the purpose and the content of this site.
 
@@ -16,4 +16,3 @@ enthusiasm and I expect that it doesn't disappear.
 If you want to know more from me, you can go to [about](https://cris21395.github.io/about) and read the sections that I have written. On 
 the contrary, if you want to get in touch with me, go to [contact](https://cris21395.github.io/contact) and send me a message. I will reply 
 as soon as possible.
-
