@@ -16,7 +16,7 @@ tags:
   
 ---
 
-AsgAR is a system developed as a Final Degree Project at University of Castilla-La Mancha (UCLM), which is born as a part of a research project, [IAPRO](http://blog.uclm.es/grupochico/proyecto-iapro/), which arises from a bigger research project, iProg, to improve the programming learning for university level students apart from allowing professors to explain programming concepts in an easy way.
+AsgAR is a system developed as a Final Degree Project at University of Castilla~La Mancha (UCLM), which is born as a part of a research project, [IAPRO](http://blog.uclm.es/grupochico/proyecto-iapro/), which arises from a bigger research project, iProg, to improve the programming learning for university level students apart from allowing professors to explain programming concepts in an easy way.
 
 This project has been developed using the Eclipse platform and the Augmented Reality device, Microsoft HoloLens, to generate graphical representations based on a metaphor or roads and traffic signs for visualizing programs and algorithms to fulfill the objective with advanced interaction and visualization techniques for providing a natural interaction and visualization experience.
 
