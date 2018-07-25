@@ -27,7 +27,7 @@ Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng
 <b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
 
 <b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies. <b>COMPASS 2018</b>.</i>
+Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
 
 <b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
 <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
