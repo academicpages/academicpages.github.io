@@ -10,12 +10,12 @@ redirect_from:
 
 Cristian Gómez Portes is a Computer Scientist (2018) and MSc student of Computer Science in the University of Castilla~La Mancha. His 
 research topics are related to Visualization of Programs and Algorithms, the use of Augmented Reality techniques and 3D graphics. 
-Furthermore, he has participated as a coordinator of the Tracking team in the Telefónica Talentum ARMov project at FK Interactive.
+Furthermore, he has participated as a coordinator of the Tracking team in the Telefónica Talentum RoboTic project at FK Interactive.
 
 ---
 # News
 <p><img src="https://Cris21395.github.io/images/robotic.JPG" width="300" height="200" align="left" hspace="20">
-  <b>Robotic in school</b><br/>
+  <b>RoboTic in school</b><br/>
   March 24, 2018<br/><br/>
   A team of 11 students and 3 professors from the School of Computer Science of University of Castilla~La Mancha has developed
   <b>RoboTic</b>, a Mixed Reality game to teach children and youths programming concepts. 
