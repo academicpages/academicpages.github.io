@@ -15,7 +15,7 @@ Furthermore, he has participated as a coordinator of the Tracking team in the Te
 ---
 # News
 <p><img src="https://Cris21395.github.io/images/robotic.JPG" width="300" height="200" align="left" hspace="20">
-  <b>RoboTic in school</b><br/>
+  <b>Robotic in school</b><br/>
   March 24, 2018<br/><br/>
   A team of 11 students and 3 professors from the School of Computer Science of University of Castilla~La Mancha has developed
   <b>RoboTic</b>, a Mixed Reality game to teach children and youths programming concepts. 
