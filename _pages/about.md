@@ -24,7 +24,7 @@ Isabelle et Dauphine, fondatrices de la Mission Isidore
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/cover.png)
 
 For more info
 ------
