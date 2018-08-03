@@ -34,17 +34,18 @@ In this page, you can find information related to my experience,  skills, studie
 Visualization of Programs and Algorithms, Augmented Reality techniques, 3D Graphics, apart from topics related to Machine Learning such 
 as Natural Language Understanding and Speech Recognition, among other aspects.
 
-## Publications
+<!---## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-## Talks
+-->
+<!---## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-## Teaching
+-->  
+<!---## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
