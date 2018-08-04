@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I will be a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) in [Stanford University](https://www.stanford.edu/) starting from Fall 2018. Click [here](http://lantaoyu.com/files/lantaoyu_cv.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](http://lantaoyu.com/contact/).
+* I will be a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/) starting from Autumn 2018. Click [here](http://lantaoyu.com/files/lantaoyu_cv.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](http://lantaoyu.com/contact/).
 * I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) ([University College London](https://www.ucl.ac.uk/)).
 * My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
 
