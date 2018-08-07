@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,4 +12,12 @@ I am an Economist in the Research Department of the [Federal Reserve Bank of Phi
 
 
 ### Recent News
-* August 2017. I started at the Philly Fed!
+* July 2018: Coastal Commission paper accepted at JUE. This studies the direct and spillover effects of strict land use regulation, differentiating rent and price effects.
+* June 2018: First publication out in JEEM!
+* May 2018: I'll be at AREUEA in Washington DC.
+* August 2017: I started at the Philly Fed!
+
+### About this website
+Powered by [Jekyll](http://jekyllrb.com). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). Hosted on [GitHub Pages](https://pages.github.com/).
+
+<!-- Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>. Hosted on GitHub Pages. -->
