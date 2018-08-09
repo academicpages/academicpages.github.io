@@ -21,7 +21,7 @@ Apart from this, he has participated as a coordinator of the Tracking team in th
   A team of 11 students and 3 professors from the School of Computer Science of UCLM has developed
   <a href='http://www.latribunadeciudadreal.es/noticia/Z7F417443-020F-A5F4-93E38C651AEF7914/Robotica-en-el-colegio'>
       RoboTic
-  </a>, a Mixed Reality game to teach children and youths programming concepts through the Augmented Reality device, Microsoft HoloLens.
+  </a>, a Mixed Reality game to teach children and youths programming concepts through the AR device, Microsoft HoloLens.
   <a href='https://blogthinkbig.com/robotic-es-el-videojuego-que-utiliza-la-realidad-mixta-para-ensenar-programacion'>
     READ MORE
   </a>.
