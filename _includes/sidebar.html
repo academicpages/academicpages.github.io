@@ -14,7 +14,7 @@
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      <!-- {% if s.title %}<h3>{{ s.title }}</h3>{% endif %} -->
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
     {% if page.sidebar.nav %}
