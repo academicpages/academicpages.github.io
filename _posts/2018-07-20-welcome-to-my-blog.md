@@ -3,7 +3,7 @@ title: 'Welcome to my blog'
 date: 2018-07-20
 permalink: /posts/2018/07/welcome-to-my-page/
 author: cristian
-excerpt: Introduction of this blog in which I detail both the purpose and the content that will be published.
+excerpt: Introduction of my blog in which I detail both the purpose and the content that will be published.
 
 ---
 
