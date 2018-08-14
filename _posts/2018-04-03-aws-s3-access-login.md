@@ -76,7 +76,7 @@ Try uploading a test file to your bucket, and see if you have write access:
 
 ```
 touch hello.txt
-aws s3 hello.txt s3://my.bucket/
+aws s3 cp hello.txt s3://my.bucket/
 ```
 
 Finally, try downloading a file in your bucket to see if you have access to that:
