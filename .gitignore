@@ -1,2 +1,4 @@
 _site/
-
+images/.DS_Store
+Gemfile.lock
+.DS_Store
