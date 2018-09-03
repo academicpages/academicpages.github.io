@@ -101,11 +101,11 @@ I also mentored and advised students on general biomedical engineering and colle
 
 ## Academic and Professional
 
-[**MIT Microbiome Club**](http://microbiome.mit.edu/get-involved/#club), *co-Founder*, *President* (2015-2016), *Executive board member* (2016-present)
+[**MIT Microbiome Club**](http://microbiome.mit.edu/get-involved/#club), *co-Founder*, *President* (2015-2016), *Executive board member* (2016-2018)
 
 **MIT-Harvard Microbiome Symposium**, *co-founder and Organizing committee* ([2016](https://microbiome2016.wordpress.com/) and [2017](https://microbiome2017.wordpress.com/))
 
-[**MIT Biotech Group**](http://biotech.mit.edu/), *Beyond the Bench Initiative board member* (2017-present)
+[**MIT Biotech Group**](http://biotech.mit.edu/), *Beyond the Bench Initiative board member* (2017-2018)
 
 ## Departmental and MIT
 
@@ -113,9 +113,9 @@ I also mentored and advised students on general biomedical engineering and colle
 
 In this role, I coordinate and oversee semesterly conduit assemblies, which bring together diversity representatives from all MIT departments.
 
-[**BE Graduate Student Board**](http://begradboard.mit.edu/), *Diversity Chair* (2015-present)    
+[**BE Graduate Student Board**](http://begradboard.mit.edu/), *Diversity Chair* (2015-2018)    
 
-As Diversity Chair, I co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap), co-wrote the [BE Departmental Values Statement](http://be.mit.edu/about/department-values-statement), and spearheaded the 2016 Diversity Climate Survey, which has informed diversity-related efforts since.
+As Diversity Chair, I co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap), co-wrote the [BE Departmental Values Statement](http://be.mit.edu/about/department-values-statement), and spearheaded the 2016 BE Diversity Climate Survey, which has informed diversity-related efforts since.
 
 [**BE Resources for Easing Friction and Stress**](http://berefs.com/), *BE Ref* (2016-present)    
 
@@ -149,13 +149,15 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 
 [**MIT Women's Ultimate Frisbee Team**](http://scripts.mit.edu/~womens-ult/), *B-team captain* (2015-2016), *member* (2014-present)
 
-[**MIT Interfaith Dialogue Program**](http://addir.mit.edu/), *Addir fellow* (2017-present)
+[**MIT Interfaith Dialogue Program**](http://addir.mit.edu/), *Addir fellow* (2017-2018)
 
 ***
 
 # Fellowships and Awards
 
 ## Fellowships
+
+**Siebel Foundation Scholarship**, *Class of 2019 Scholar*
 
 **National Defense Science and Engineering Graduate (NDSEG) Fellowship**, *Awardee* (2015-2018)
 
