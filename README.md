@@ -39,6 +39,11 @@ Most of the blog post behavior is defined in `{% include archive-single.html %}`
 1. Move the images to the `images` folder    
 1. Add `/images/` to all image paths in the markdown file   
 
+You can also run the `convert_and_move.sh` function in the `_jupyter` folder.
+Note that you still have to go in and manually add the `/images/` path,
+and if there are any non-extension dots in the file name these should be changed
+to hyphens. You also need to go and add the header to the post.
+
 Still to figure out: how to change font size/format of cells, how to have **[In 1]** show up, how to add image captions.
 
 ## TODO
