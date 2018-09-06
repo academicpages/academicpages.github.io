@@ -9,7 +9,7 @@ author_profile: true
 ### Publications
 
 **Severen** and [Plantinga][aplantinga]. (2018). [Land-Use Regulations, Property Values, and Rents:
-Decomposing the Effects of the California Coastal Act.](https://www.sciencedirect.com/science/article/pii/S0094119018300421) *Journal of Urban Economics* 107, 67-78.
+Decomposing the Effects of the California Coastal Act.](https://www.sciencedirect.com/science/article/pii/S0094119018300421) *Journal of Urban Economics* 107, 65-78.
 
 **Severen**, [Costello][ccostello], and [Deschênes][odeschenes]. (2018). [A forward-looking Ricardian approach: Do land markets capitalize climate change forecasts?](https://www.sciencedirect.com/science/article/pii/S0095069618301177) *Journal of Environmental Economics and Management* 89, 235-254.
 
