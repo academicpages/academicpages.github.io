@@ -605,7 +605,7 @@ ax.set_ylabel('Minutes spent on bus')
 ![png](/images/2018-07-25.commute_analysis_files/2018-07-25.commute_analysis_18_1.png)
 
 
-*Coding note: `plt.scatter(tmp['bus_time'].astype(np.int64), tmp['time_on_bus'])` also works, but has less-nicely formatted x-ticks.*
+*Coding note: `plt.scatter(df['bus_time'].astype(np.int64), df['time_on_bus'])` also works, but has less-nicely formatted x-ticks.*
 
 Eh, maybe - it looks like leaving after 7 pm consistently leads to a short bus ride, but the floor is pretty much the same between morning and night. Interestingly, leaving later in the morning leads to a much shorter bus ride! It's actually not that interesting - anyone who lives in Boston/Cambridge/a city knows that traffic is way worse during rush hour, and I already knew this from experience. But at least now I have data to support my habit of working from home in the mornings! XD
 
@@ -755,7 +755,7 @@ Oh nooo! It looks like (1) the 70 _might_ be more reliable than the 64 and that 
 
 Okay wait actually - it's okay if the 64 is more often late than early, given that I usually scramble out of my house 2 minutes before the app says it is due (this is, in fact, literal and not an exaggeration - I have gotten very good at jaywalking across Cambridge St). So a couple of minutes delay is great, since it means I can continue to not have my shit together and I won't miss my favorite bus! In fact, the more worrying thing is how often the 70 is _early_ - given that I have to walk there. The walk is definitely more than 5 minutes (I've tried), but in my mind feels like it _should_ be less than 10 (it probably isn't).
 
-Either way, all of these differences are matters of mere minutes - it doesn't matter that much in the grand scheme of things, and definitely won't motivate me to tweak my habits by mere minutes.
+Either way, all of these differences are matters of minutes - it doesn't matter that much in the grand scheme of things, and definitely won't motivate me to tweak my habits by mere minutes.
 
 Alright, now that I've interpreted the data, let's do some stats! (This is sort of a tongue-in-cheek comment, but also not: if you can't interpret your data without the stats, then the patterns are probably not significant enough to be meangingful, even if they are statistically significant).
 
@@ -933,6 +933,7 @@ Hm, it looks like there isn't a clear pattern here either - the 8:30 bus is just
 
 Much like my [previous post](/posts/2018/06/hinge-experiment) about online dating, I didn't learn too much from this analysis that I didn't already know. In this case, I already knew it because I paid attention when I logged my commute every day.
 
-That said, looking at all the data together and seeing how much shorter biking is than taking the bus is pretty motivating - I should really get around to figuring out my basket/panier situtation, so that I can bike as often as frisbee injuries and the weather allows!
+That said, looking at all the data together and seeing how much shorter biking is than taking the bus is pretty motivating - I should really get around to figuring out my basket/panier situation, so that I can bike as often as frisbee injuries and the weather allows!
+I'll also make sure to schedule any important 9 am meetings to 9:15 am, which will allow me to take the 8:30 am bus without worrying too much about it making me late.
 
-In conclusion, living in Allston is awesome because I am in a house full of my friends, a neighborhood full of actual real people (TM), and a backyard that lets us have three chickens. If that means that my commute to work is 30 minutes instead of 15, then so be it!
+In conclusion, living in Allston is awesome because I am in a house full of my friends, a neighborhood full of actual real people, and a backyard that lets us have three chickens. If that means that my commute to work is 30 minutes instead of 15, then so be it!
