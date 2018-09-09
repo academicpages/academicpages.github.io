@@ -779,7 +779,7 @@ p = sp.ttest_1samp(
     df.query('bus_number == 70').dropna(subset=['bus_delay'])['bus_delay'],
     popmean=0)
 m = df.query('bus_number == 70').dropna(subset=['bus_delay'])['bus_delay'].mean()
-print('The two-sided t-test for the hypothesis that the 64 \n'
+print('The two-sided t-test for the hypothesis that the 70 \n'
       'bus has no delay has a pvalue of {:.2g} (mean delay = {:.2f} min).'.format(p[1], m))
 ```
 
