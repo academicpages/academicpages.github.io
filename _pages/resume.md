@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "resume"
+title: ""
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, University of Hawaii, 2007
-* M.S. in Physics, University of California, Santa Cruz, 2011
-* Ph.D in Physics, University of California, Santa Cruz, 2014 
+* Kamehameha Schools Kapalama
+* B.S. in Physics, University of Hawaii
+* M.S. in Physics, University of California, Santa Cruz
+* Ph.D. in Physics, University of California, Santa Cruz 
 
 Work experience
 ======

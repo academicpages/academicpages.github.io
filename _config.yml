@@ -7,10 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Carena's personal webpage"
 title_separator          : "-"
 name                     : &name "carenac"
 description              : &description "personal description"
+=======
+title                    : "home"
+title_separator          : "-"
+name                     : &name "carenac"
+description              : &description "all opinions are my own"
+>>>>>>> 7670ce833791d5fb78e3da636f7bb91d932a8aec
 url                      : https://carenac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carenac/carenac.github.io"
@@ -78,6 +85,7 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Carena C"
   avatar           : "profile.png"
   bio              : "Former solar researcher, current Data Scientist"
@@ -85,11 +93,20 @@ author:
   employer         :
   googlescholar    : "http://scholar.google.com/carena.church"
   email            :
+=======
+  name             : "carena church"
+  avatar           : "400p_profile.jpg"
+  bio              : "reformed solar scientist"
+  location         : "SF Bay Area"
+  employer         : "@CitrineInformatics"
+  googlescholar    : "http://scholar.google.com/citations?user=eEvPcd8AAAAJ&hl=en&oi=ao"
+  email            : "carena@hawaii.edu"
+>>>>>>> 7670ce833791d5fb78e3da636f7bb91d932a8aec
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  # flickr           : "thecarena"
   facebook         :
   foursquare       :
   github           : "carenac"
@@ -97,14 +114,18 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "carenachurch"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+<<<<<<< HEAD
   twitter          : "quantumdotted"
+=======
+  # twitter          : "quantumdotted"
+>>>>>>> 7670ce833791d5fb78e3da636f7bb91d932a8aec
   vine             :
   weibo            :
   xing             :
@@ -204,14 +225,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -222,22 +243,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
