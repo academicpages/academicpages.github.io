@@ -11,7 +11,6 @@ title                    : "Carena's personal webpage"
 title_separator          : "-"
 name                     : &name "carenac"
 description              : &description "personal description"
-=======
 title                    : "home"
 title_separator          : "-"
 name                     : &name "carenac"
@@ -83,15 +82,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
-  name             : "Carena C"
-  avatar           : "profile.png"
-  bio              : "Former solar researcher, current Data Scientist"
-  location         : "SF Bay Area"
-  employer         :
-  googlescholar    : "http://scholar.google.com/carena.church"
-  email            :
-=======
   name             : "carena church"
   avatar           : "400p_profile.jpg"
   bio              : "reformed solar scientist"
@@ -99,7 +89,6 @@ author:
   employer         : "@CitrineInformatics"
   googlescholar    : "http://scholar.google.com/citations?user=eEvPcd8AAAAJ&hl=en&oi=ao"
   email            : "carena@hawaii.edu"
->>>>>>> 7670ce833791d5fb78e3da636f7bb91d932a8aec
   uri              :
   bitbucket        :
   codepen          :
@@ -119,11 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-<<<<<<< HEAD
-  twitter          : "quantumdotted"
-=======
   # twitter          : "quantumdotted"
->>>>>>> 7670ce833791d5fb78e3da636f7bb91d932a8aec
   vine             :
   weibo            :
   xing             :
