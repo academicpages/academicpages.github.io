@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "Carena's personal webpage"
 title_separator          : "-"
 name                     : &name "carenac"
@@ -17,7 +16,6 @@ title                    : "home"
 title_separator          : "-"
 name                     : &name "carenac"
 description              : &description "all opinions are my own"
->>>>>>> 7670ce833791d5fb78e3da636f7bb91d932a8aec
 url                      : https://carenac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carenac/carenac.github.io"
