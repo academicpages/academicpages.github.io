@@ -8,16 +8,13 @@ author_profile: true
 
 ### Publications
 
-**Severen** and [Plantinga][aplantinga]. (2018). [Land-Use Regulations, Property Values, and Rents:
-Decomposing the Effects of the California Coastal Act.](https://www.sciencedirect.com/science/article/pii/S0094119018300421) *Journal of Urban Economics* 107, 65-78.
+**Severen** and [Plantinga][aplantinga]. (2018). [Land-Use Regulations, Property Values, and Rents: Decomposing the Effects of the California Coastal Act.](https://www.sciencedirect.com/science/article/pii/S0094119018300421) *Journal of Urban Economics* 107, 65-78. [[UCSB press coverage]](http://www.news.ucsb.edu/2018/019175/value-proposition).
 
-**Severen**, [Costello][ccostello], and [Deschênes][odeschenes]. (2018). [A forward-looking Ricardian approach: Do land markets capitalize climate change forecasts?](https://www.sciencedirect.com/science/article/pii/S0095069618301177) *Journal of Environmental Economics and Management* 89, 235-254.
+1. **Severen**, [Costello][ccostello], and [Deschênes][odeschenes]. (2018). [A forward-looking Ricardian approach: Do land markets capitalize climate change forecasts?](https://www.sciencedirect.com/science/article/pii/S0095069618301177) *Journal of Environmental Economics and Management* 89, 235-254.
 
 ### Working Papers
 
-[Oliva][poliva], [Jack][kjack], Bell, **Severen**, and Mettetal. (2015). [Technology
-Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia.](http://www.nber.org/papers/w21414.pdf) NBER Working Paper
-21414.
+[Oliva][poliva], [Jack][kjack], Bell, **Severen**, and Mettetal. (2015). [Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia.](http://www.nber.org/papers/w21414.pdf) NBER Working Paper 21414.
     * Revise and resubmit at *Review of Economics and Statistics*.
 
 **Severen**. (2018). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/20180618_Severen_LAMetro.pdf)
