@@ -12,7 +12,11 @@ I'm a fourth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh
 
 Publications
 ======
-![expression transform](images/neutral2happy.png)
+#![expression transform](images/neutral2happy.png) 
+Real-Time Facial Expression Transformation for Monocular RGB Video
+**Luming Ma**, Zhigang Deng
+Accepted to Computer Graphics Forum 2018
+
 Teaching
 ======
 COSC4370-Interactive Computer Graphics (lectures on OpenGL Programming and CUDA Programming), Fall 2018  
