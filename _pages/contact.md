@@ -7,7 +7,9 @@ author_profile: true
 
 ## Sarah Flanagan, PhD
 
-Sarah will be setting up her office in the [School of Biological Sciences](http://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/) in August 2018. For now, the best way to reach her is via email at sarah.flanagan@canterbury.ac.nz
+Office: Julius von Haast 520
+Phone: +64 3 36 90433 (extension 90433)
+Email: sarah.flanagan@canterbury.ac.nz
 
 ## Join the lab!
 
@@ -23,7 +25,7 @@ The successful candidate will be fully funded, including research costs, with a 
 The University of Canterbury is located in Christchurch, the largest city in New Zealand's South Island. The University has approximately 13,000 students and 2,000 postgraduate students enrolled. The University's modern and well-equipped facilities are spread across a spacious suburban campus, with easy access to the city and the cultural and recreational facilities it provides. There is also good access to the scenic and recreational resources of the Southern Alps and Banks Peninsula. 
 
 **Eligibility:**
-I seek a PhD candidate with a demonstrated high level of academic achievement at the undergraduate and/or postgraduate level. The candidate is required to have a BSc (Honours) or a Masters degree to enroll as a PhD candidate at the University of Canterbury. The ideal candidate will have research experience in behavioral ecology, evolutionary biology, and/or population genetics and genomics. Previous experience with programming (e.g., R, C/C++, python) and/or molecular techniques and analysis of genomic data is preferred. 
+I seek a PhD candidate with a demonstrated high level of academic achievement at the undergraduate and/or postgraduate level. The candidate is required to have a BSc (Honours) or a Masters degree to enroll as a PhD candidate at the University of Canterbury. The ideal candidate will have research experience in behavioral ecology, evolutionary biology, and/or population genetics and genomics. Previous experience with programming (e.g., R, C/C++, python) and/or molecular techniques and analysis of genomic data is preferred. International students are encouraged to apply!
 
 **Application and contact:**
 Applications should include a letter of application (cover letter), CV, summary of research experience (no more than 2 pages), and the email addresses of two scientific referees. In the cover letter please include your research interests with potential project topics. The position remains open until filled. 
