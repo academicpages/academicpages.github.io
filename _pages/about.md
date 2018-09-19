@@ -10,7 +10,7 @@ redirect_from:
 
 <b>Lab news</b>
 
-Sarah was quoted in the New York Times! https://www.nytimes.com/2018/08/24/science/pipefish-abort-pregnancies.html
+Sarah was [quoted in the New York Times](https://www.nytimes.com/2018/08/24/science/pipefish-abort-pregnancies.html)!
 
 <b>About the lab</b>
 
