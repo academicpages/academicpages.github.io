@@ -12,7 +12,7 @@ I'm a fourth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh
 
 Publications
 ======
-
+![expression transform](images/neutral2happy.png)
 Teaching
 ======
 COSC4370-Interactive Computer Graphics (lectures on OpenGL Programming and CUDA Programming), Fall 2018  
