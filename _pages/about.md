@@ -12,7 +12,7 @@ I'm a fourth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh
 
 ## Publications
 
-<img src="https://lumingma.github.io/images/neutral2happy.png" width="300px" align="left" style="padding:50px"/>
+<img src="https://lumingma.github.io/images/neutral2happy.png" width="200px" align="left" style="margin-right: 50px"/>
 
 Real-Time Facial Expression Transformation for Monocular RGB Video  
 **Luming Ma**, Zhigang Deng  
