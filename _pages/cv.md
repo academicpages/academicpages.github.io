@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biotechnology, Manipal University, India (2009)
+* M.S. in Molecular Biology & Human Genetics, Manipal University, India (2011)
+* M.S in Biology, University of Nevada-Reno, USA (2017)
+* Ph.D in Cellular & Molecular Biology, University of Nevada-Reno, USA (2023) (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2010: Research Assistant
+  * University of Edinburgh, Scotland
+  * Duties included: Drosophila mutagenesis, Confocal microscopy
+  * Supervisor: Professor Andrew 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2012: Exchange Student
+  * University of Amsterdam, The Netherlands
+  * Attended 
+  * Supervisor: Professor 
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Molecular Biology: 
+* Bioinformatics
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
