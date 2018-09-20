@@ -11,7 +11,6 @@ redirect_from:
 I'm a fourth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh.edu/zdeng/) in the [Computer Graphics and Interactive Media Lab](http://graphics.cs.uh.edu/) at University of Houston. My research focus on computer graphics especially on facial reconstruction, expression transformation and transferring on monocular RGB camera.
 
 ## Publications
-
 <img src="https://lumingma.github.io/images/neutral2happy.png" width="200px" align="left" style="margin-right: 50px"/>
 
 Real-Time Facial Expression Transformation for Monocular RGB Video  
@@ -19,8 +18,8 @@ Real-Time Facial Expression Transformation for Monocular RGB Video
 Accepted to Computer Graphics Forum 2018  
 
 
+<br><br>
 
 ## Teaching
-
 COSC4370-Interactive Computer Graphics (lectures on OpenGL Programming, CUDA Programming, Images and Perspective), Fall 2018  
 COSC6372-Computer Graphics (lectures on OpenGL Programming), Spring 2017
