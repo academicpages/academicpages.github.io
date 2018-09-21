@@ -18,15 +18,15 @@ Education
 
 Work experience
 ======
-* Summer 2010: Research Assistant
-  * University of Edinburgh, Scotland
-  * Duties included: Drosophila mutagenesis, Confocal microscopy
-  * Supervisor: Professor Andrew 
+* Summer 2009: Research Assistant
+  * University of Edinburgh, Scotland, UK
+  * Duties included: Drosophila neurogenesis, Confocal microscopy
+  * Supervisor: Professor Andrew Jarman
 
-* Summer 2012: Exchange Student
+* Summer 2010: Exchange Student
   * University of Amsterdam, The Netherlands
-  * Attended 
-  * Supervisor: Professor 
+  * Attended summer school on "Diabetes and Metabolic Syndrome; from bench to bed side"
+ 
   
 Skills
 ======
