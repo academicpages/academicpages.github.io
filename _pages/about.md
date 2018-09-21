@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I am a second year Cellular and Molecular PhD student at University of Nevada, Reno. I study the role of non-coding RNAs in fertility. I am also a certified Data Carpentry instructor. blah blah blah
+Welcome to my website. I am a second year cellular and molecular biology PhD student at University of Nevada, Reno. I study the role of non-coding RNAs in reproductive health. I am also a certified Data Carpentry instructor.
