@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Phylogenetic Distribution of CMP-Neu5Ac Hydroxylase (CMAH), the Enzyme Synthetizing the Proinflammatory Human Xenoantigen Neu5Gc"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2017-12-30-cmah-gbe-number-1
+date: 2017-12-30
+venue: 'Genome Biology and Evolution'
+paperurl: 'https://academic.oup.com/gbe/article-pdf/10/1/207/23648890/evx251.pdf'
+citation: 'Peri, S., Kulkarni, A., Feyertag, F., Berninsone, P. M. & Alvarez-Ponce, D. Phylogenetic Distribution of CMP-Neu5Ac Hydroxylase (CMAH), the Enzyme Synthetizing the Proinflammatory Human Xenoantigen Neu5Gc. Genome Biol. Evol. 10, 207-219 (2018)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
