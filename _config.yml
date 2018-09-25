@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Dian Wang"
   avatar           : "profile.JPG"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "MS Student at Northeastern University"
+  location         : "Boston, Massachusetts"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "wangdian1007@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,13 +93,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "pointw"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/dianwang1007"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
