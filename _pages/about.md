@@ -21,9 +21,13 @@ Preprint
 
 <div>
 <img src="images/scooter.JPG"  style="float:left;height: 200px;"/>
+  <div style="float:left; max-width:500px">
+	<p>A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life
+  	   Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt
+  	   Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2019
+    </p >
+</div>
 <p style="float:right">
-  A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life
-  Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt
-  Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2019
+  
 </p >
 </div>
