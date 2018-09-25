@@ -15,8 +15,9 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 Publications
 ======
+
 Preprint
-------
+-------
 
 A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life
 
