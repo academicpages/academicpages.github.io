@@ -15,7 +15,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 &nbsp
 
-# Publications
+# Publication
 ## Preprint
 ![](images/scooter.png){: .align-right width="200px"}
 **A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life**  
@@ -23,12 +23,8 @@ Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt
 Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2019  
 [(page)](https://pointw.github.io/scooter-page/)[(video)](https://www.youtube.com/watch?v=-FqXRtMlc4U&t=2s)
 
-<!-- <div>
-<img src="images/scooter.JPG"  style="float:left;height: 200px;"/>
-  <div style="float:left; max-width:500px">
-	<p>A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life
-  	   Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt
-  	   Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2019
-    </p >
-</div>
-</div> -->
+# Education
++ (2017-Present) M.S. candidate, Computer Science, Northeastern University, Boston, MA, USA
++ (2013-2017) B.Eng, Computer Science $ Technology, Sichuan University, Chengdu, China
+
+
