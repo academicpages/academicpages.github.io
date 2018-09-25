@@ -24,7 +24,7 @@ Submitted to IEEE International Conference on Robotics and Automation (ICRA) 201
 [(page)](https://pointw.github.io/scooter-page/)[(video)](https://www.youtube.com/watch?v=-FqXRtMlc4U&t=2s)
 
 # Education
-+ (2017-Present) M.S. candidate, Computer Science, Northeastern University, Boston, MA, USA
++ (2017-Present) M.S. student, Computer Science, Northeastern University, Boston, MA, USA
 + (2013-2017) B.Eng, Computer Science $ Technology, Sichuan University, Chengdu, China
 
 
