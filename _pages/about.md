@@ -18,7 +18,7 @@ Publications
 Preprint
 -------
 <div>
-<img scr="images/scooter"  style="float:left;height: 200px;"/>
+<img scr="images/scooter.JPG"  style="float:left;height: 200px;"/>
 <p style="float:left">
   A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life
   Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt
