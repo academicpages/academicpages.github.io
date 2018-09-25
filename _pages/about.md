@@ -15,9 +15,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 
 # Publications
-
 ## Preprint
--------
 ![](images/scooter.png){: .align-right width="200px"}
 **A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life**  
 Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt  
