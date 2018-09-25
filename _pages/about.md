@@ -14,10 +14,9 @@ I am a Master student in Computer Science in the [College of Computer and Inform
 I received my Bachelor's degree in Computer Science in [Sichuan University](http://www.scu.edu.cn), Chengdu, China.
 
 
-Publications
-======
+# Publications
 
-Preprint
+## Preprint
 -------
 
 ![](images/scooter.png){: .align-right width="200px"}
