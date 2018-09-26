@@ -25,7 +25,9 @@ Submitted to IEEE International Conference on Robotics and Automation (ICRA) 201
 
 ## Thesis
 **Playing Gomoku with Deep Reinforcement Learning**  
-B.Eng. Thesis. May 2017. Department of Computer Science, Sichuan University, Chengdu, China  
+B.Eng. Thesis. May 2017.  
+Department of Computer Science, Sichuan University, Chengdu, China  
+1st class outstanding bachelor's thesis of Sichuan University  
 [(PDF)(in Simplified Chinese)]({{ site.url }}/files/Bachelor Thesis.pdf)
 
 # Education
