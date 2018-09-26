@@ -23,8 +23,13 @@ Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt
 Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2019  
 [(page)](https://pointw.github.io/scooter-page/)[(video)](https://www.youtube.com/watch?v=-FqXRtMlc4U&t=2s)
 
+## Thesis
+**Playing Gomoku with Deep Reinforcement Learning**
+B.Eng. Thesis. May 2017. Department of Computer Science, Sichuan University, Chengdu, China  
+[(PDF)(in Simplified Chinese)]({{ site.url }}/files/Bachelor Thesis.pdf)
+
 # Education
 + (2017-Present) M.S. student, Computer Science, Northeastern University, Boston, MA, USA
-+ (2013-2017) B.Eng, Computer Science $ Technology, Sichuan University, Chengdu, China
++ (2013-2017) B.Eng, Computer Science & Technology, Sichuan University, Chengdu, China
 
 
