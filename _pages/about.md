@@ -21,7 +21,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 **A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life**  
 Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt  
 Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2019  
-[(pdf)](https://arxiv.org/pdf/1809.09541.pdf)[(page)](https://pointw.github.io/scooter-page/)[(video)](https://www.youtube.com/watch?v=-FqXRtMlc4U&t=2s)
+[(PDF)](https://arxiv.org/pdf/1809.09541.pdf)[(Page)](https://pointw.github.io/scooter-page/)[(Video)](https://www.youtube.com/watch?v=-FqXRtMlc4U&t=2s)
 
 ## Thesis
 **Playing Gomoku with Deep Reinforcement Learning**  
