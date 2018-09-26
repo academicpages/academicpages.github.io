@@ -24,7 +24,7 @@ Submitted to IEEE International Conference on Robotics and Automation (ICRA) 201
 [(page)](https://pointw.github.io/scooter-page/)[(video)](https://www.youtube.com/watch?v=-FqXRtMlc4U&t=2s)
 
 ## Thesis
-**Playing Gomoku with Deep Reinforcement Learning**
+**Playing Gomoku with Deep Reinforcement Learning**  
 B.Eng. Thesis. May 2017. Department of Computer Science, Sichuan University, Chengdu, China  
 [(PDF)(in Simplified Chinese)]({{ site.url }}/files/Bachelor Thesis.pdf)
 
