@@ -28,5 +28,4 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-  gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :branch => "gh-pages-3.1.6"
 end
