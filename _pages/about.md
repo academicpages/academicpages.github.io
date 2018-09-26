@@ -31,7 +31,7 @@ Department of Computer Science, Sichuan University, Chengdu, China
 [(PDF)(in Simplified Chinese)]({{ site.url }}/files/Bachelor Thesis.pdf)
 
 # Education
-+ (2017-Present) M.S. student, Computer Science, Northeastern University, Boston, MA, USA
++ (2017-Present) M.S. student, Computer Science, Northeastern University, Boston, USA
 + (2013-2017) B.Eng, Computer Science & Technology, Sichuan University, Chengdu, China
 
 
