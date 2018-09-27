@@ -1,5 +1,5 @@
 ---
-title: "CoT: Cooperative Training for Generative Modeling"
+title: "CoT: Cooperative Training for Generative Modeling of Discrete Data"
 collection: publications
 permalink: /publications/CoT
 venue: "ArXiv 2018"

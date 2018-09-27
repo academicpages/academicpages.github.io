@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Effectiveness of Lipschitz Constraint in Training GANs via Gradient Analysis"
+title: "Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets"
 collection: publications
 permalink: /publications/GanGradient
 venue: "ArXiv 2018"
