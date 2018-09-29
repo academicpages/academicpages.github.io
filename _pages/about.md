@@ -14,11 +14,11 @@ I am an Economist in the Research Department of the [Federal Reserve Bank of Phi
 
 
 ### Recent News
+* October 2018: I'll be at the UEA meetings in NYC, presenting a new project.
+* September 2018: Just had a great seminar at PSU Smeal!
 * September 2018: California Coastal Commission paper [proofs up at JUE](https://www.sciencedirect.com/science/article/pii/S0094119018300421). We study direct and spillover effects of strict land use regulation on multifamily buildings. A [little coverage](http://www.news.ucsb.edu/2018/019175/value-proposition) by UCSB press.
 * *NEW* draft of JMP paper on the LA Metro posted [here](https://cseveren.github.io/files/20180618_Severen_LAMetro.pdf). One new thing, a workaround for welfare estimation in Frechet models with shape parameter in (0,1]. The key: it's just multinomial logit, the shape parameter is the marginal utility of income.
 * June 2018: First publication out in [JEEM](https://www.sciencedirect.com/science/article/pii/S0095069618301177)! We develop a simple land (asset) pricing model and point out that agricultural land prices should be more correlated with future, rather than historical, climate.
-* May 2018: I'll be at AREUEA in Washington DC.
-* August 2017: I started at the Philly Fed!
 
 ### About this website
 Powered by [Jekyll](http://jekyllrb.com). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). Hosted on [GitHub Pages](https://pages.github.com/).

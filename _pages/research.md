@@ -24,7 +24,7 @@ author_profile: true
 
 ### Works in Progress
 
-* "Preference Formation and the Price of Gasoline" (with [Arthur van Benthem][avb]).
+* "Formative Experiences and the Price of Gasoline" (with [Arthur van Benthem][avb]).
 
 
 
