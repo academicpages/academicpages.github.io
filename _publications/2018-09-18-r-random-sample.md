@@ -2,7 +2,7 @@
 title: "Random Problems with R"
 collection: publications
 permalink: /publication/2018-09-18-r-random-sample
-excerpt: 'Faulty algorithms in R's random sampling functions.'
+excerpt: "Faulty algorithms in R's random sampling functions."
 date: 2018-09-18
 paperurl: 'https://arxiv.org/abs/1809.06520'
 ---
