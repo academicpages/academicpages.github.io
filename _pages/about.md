@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a machine learning researcher at Goldman Sachs in Hong Kong. Feel free to contact me, we are always looking for new researchers and engineers.
+I'm a machine learning researcher and engineer at Goldman Sachs in Hong Kong. Feel free to contact me, we are always looking for new researchers and engineers.
 
 My research interests mainly lie in probabilistic approaches to machine learning. I'm currently working on, among others, variational implementations of an infinite stochastic block model, neural network matrix factorization, and autoencoders. I'm also working on NLP applications in word and sentence embeddings and text classification.
 
-During my MPhil I was working with Genta Indra Winata on a virtual therapist self-help platform. We were using machine learning to detect, among others, stress and personality of users. This project was supervised by Prof. Pascale Fung.
+During my MPhil, supervised by Prof. Pascale Fung, I was doing research on machine learning on non-numerical data, especially social signals. I was also working with Genta Indra Winata on a virtual therapist self-help platform. We were using machine learning to construct dialogue and detect, among others, stress and personality of users.
 
 Before that, I completed my Bachelors in Applied Physics, with particular interest in computational and statistical physics, and everything quantum.
 
