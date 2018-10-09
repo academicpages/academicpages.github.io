@@ -1,11 +1,10 @@
 ---
-permalink: /people
+layout: archive
 title: "People"
-excerpt: "People"
+permalink: /people/
 author_profile: true
-redirect_from: 
-  - /people/
-  - /people.html
+redirect_from:
+  - /people
 ---
 
 Faculty
