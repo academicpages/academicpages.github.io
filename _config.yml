@@ -5,12 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 locale                   : "en-US"
 title                    : "MAIL-ECNU"
 title_separator          : "-"
 name                     : &name "MAIL-ECNU"
-description              : &description "personal description"
+description              : &description "Multi-Agent Artificial Intelligence Laboratory"
 url                      : https://mail-ecnu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mail-ecnu/mail-ecnu.github.io"
