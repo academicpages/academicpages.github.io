@@ -1,7 +1,8 @@
 ---
 #layout: archive
-title: ""
+title: "Research"
 permalink: /research/
+author_profile: true
 ---
 I am a computational sociologist studying organizational behavior, social movements, and demography.
 
