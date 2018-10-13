@@ -1,7 +1,7 @@
 ---
 #layout: archive
 title: "Research"
-permalink: /research/
+permalink: /researchagenda/
 author_profile: true
 ---
 I am a computational sociologist studying organizational behavior, social movements, and demography.
