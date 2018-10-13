@@ -2,9 +2,6 @@
 #layout: archive
 title: ""
 permalink: /research/
-author_profile: true
-redirect_from:
-  - /research/
 ---
 I am a computational sociologist studying organizational behavior, social movements, and demography.
 
