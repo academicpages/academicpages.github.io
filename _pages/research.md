@@ -1,9 +1,9 @@
 ---
-#layout: archive
 title: "Research"
-permalink: /researchagenda/
+permalink: /research/
 author_profile: true
 ---
+
 I am a computational sociologist studying organizational behavior, social movements, and demography.
 
 ## Current Projects
