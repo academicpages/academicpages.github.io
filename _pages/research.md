@@ -1,29 +1,17 @@
 ---
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
 I am a computational sociologist studying organizational behavior, social movements, and demography.
 
-## Current Projects
+## Organizational Behavior and Social Movements
 My current research agenda uses computational, statistical and network methods to study shareholder and stakeholder activism against corporate political activities and its influence in the U.S. and China.
 
-My dissertation project focuses mainly on the movement of corporate political accountaility in the US. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are targeted by shareholder and stakeholder activism and some are not? 2) How do firms respond to shareholder activism targeting corporate political spending activities and governance practices (i.e., the results of shareholder resolutions, disclosure and restriction of political spending, board oversight, etc.)? 3) What are the consequences of those shareholder and stakeholder activism regarding corporate status and performance (i.e., stock price, investor perceptions, federal contracts, and corporate hearing presence)?
+Is U.S. business community united, divided, or neither? Is corporate political spending an agency problem that reflects managers' political ideology or a political investment? My dissertation will contribute to these debates. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are targeted by shareholder and stakeholder activism and some are not? 2) How do firms respond to shareholder activism targeting corporate political spending activities and governance practices (i.e., the results of shareholder resolutions, disclosure and restriction of political spending, board oversight, etc.)? 3) What are the consequences of those shareholder and stakeholder activism regarding corporate status and performance (i.e., stock price, investor perceptions, federal contracts, and corporate hearing presence)?
 
 Another extended project examines the antecedents and consequences of shareholder activism in China.
-
-## Organizational Behavior
-Is U.S. business community united, divided, or neither? Is corporate political spending an agency problem that reflects managers' political ideology or a political investment? How can corporate political spending behavior contribute to addressing this puzzle?
-
-Yongjun Zhang. 2018. Political Ideology Conflict as Corporate Opportunity. In Progress.
-
-Yongjun Zhang. 2018. Firms' Strategic Responses to Shareholder Activim. In Progress.
-
-Yongjun Zhang. 2018. Does Shareholder Activism Influence Corporate Political Spending? In Progress.
-
-Yongjun Zhang. 2018. The Consequences of Corporate Political accountablity Movement? In Progress.
-
 
 ## Demography
 ### Cohabitation and Divorce in China
