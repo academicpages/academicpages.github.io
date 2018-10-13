@@ -30,10 +30,10 @@ Jeremy Fiel and Yongjun Zhang. 2018. "With All Deliberate Speed: the Reversal of
 How can social scientists use computational methods to study social phenomena? How can topic modeling and machine learning contribute to our field?
 
 ### Topic Modeling
-Alexander Kinney, Andrew Davis, and Yongjun Zhang. 2018. "Theming for Terror: Organizational Adornment in Terrorist Propaganda." [Poetics](https://doi.org/10.1016/j.poetic.2018.05.001).[Paper Available Upon Request]
+Alexander Kinney, Andrew Davis, and Yongjun Zhang. 2018. "Theming for Terror: Organizational Adornment in Terrorist Propaganda." Poetics. [Link](https://doi.org/10.1016/j.poetic.2018.05.001)
 
 ### Machine Learning
-Charles Seguin and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016."[Paper Available Upon Request]
+Charles Seguin and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016." Under Review [Paper Available Upon Request]
 
 ### Big Data and Web Scraping
 Yongjun Zhang. 2018. Media Attention to Protests in the Global Society (Based on millions of news reports). In Progress.
