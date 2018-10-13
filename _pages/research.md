@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am a computational sociologist studying organizational behavior, social movements, and demography.
+### I am a computational sociologist studying organizational behavior, social movements, and demography.
 
 ## Organizational Behavior and Social Movements
 My current research agenda uses computational, statistical and network methods to study shareholder and stakeholder activism against corporate political activities and its influence in the U.S. and China.
