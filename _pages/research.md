@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Organizational Behavior and Social Movements
-My current research agenda uses computational, statistical and network methods to study shareholder and stakeholder activism against corporate political activities and its influence in the U.S. and China.
+My current research uses computational, statistical and network methods to study shareholder and stakeholder activism against corporate political activities and its influence in the U.S. and China.
 
 Is U.S. business community united, divided, or neither? Is corporate political spending an agency problem that reflects managers' political ideology or a political investment? My dissertation will contribute to these debates. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are targeted by shareholder and stakeholder activism and some are not? 2) How do firms respond to shareholder activism targeting corporate political spending activities and governance practices (i.e., the results of shareholder resolutions, disclosure and restriction of political spending, board oversight, etc.)? 3) What are the consequences of those shareholder and stakeholder activism regarding corporate status and performance (i.e., stock price, investor perceptions, federal contracts, and corporate hearing presence)?
 
@@ -34,5 +34,10 @@ Alexander Kinney, Andrew Davis, and Yongjun Zhang. 2018. "Theming for Terror: Or
 
 ### Machine Learning
 Charles Seguin and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016."[Paper Available Upon Request]
+
+### Big Data and Web Scraping
+Yongjun Zhang. 2018. Media Attention to Protests in the Global Society (Based on millions of news reports). In Progress.
+
+Charles Seguin, Thomas Maher, Andrew Davis, and Yongjun Zhang. “Institutional Allies, Public Attention, & Protest Tactics: Civil Rights Organization’s Representation at Congressional Hearings 1900-2000.” This Social Movement Impact on Policy Outcomes project is funded by [NSF(Award number: 1824092)](https://nsf.gov/awardsearch/showAward?AWD_ID=1824092&HistoricalAwards=false)
 
 [Download Zhang-Vita.PDF Here](https://yongjunzhang.com/files/zhang-vita.pdf).
