@@ -15,7 +15,7 @@ My advisor is Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), leading the
 My research interests are a mix of Machine Learning, Natural Language Processing  and Information Retrieval.
 I am excited about opportunities to work in areas such as *Reinforcement Learning*, *Game Theory* and *Meta-learning*.
 
-My work is on all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations.I mainly focus in on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span> and lately on <span style="color:MediumSeaGreen">Domain Adaptation</span>. Another big part of my work is <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text. I have also worked on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/projects).
+My work is on all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations.I mainly focus in on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span> and lately on <span style="color:MediumSeaGreen">Domain Adaptation</span>. Another big part of my work is <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text. I have also worked on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portofolio).
 
 
 
