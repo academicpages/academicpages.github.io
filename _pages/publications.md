@@ -50,5 +50,7 @@ Spyridon Stathopoulos, Ismini Lourentzou, Antonia Kyriakopoulou, Theodore Kalamb
 
 # Techincal Notes and Presentations
 
-- **Markov Games and Reinforcement Learning** [[review](/files/games.pdf)]   for CS598RM Algorithmic Game Theory
-- **Belief Propagation, Robust Reconstruction and Optimal Recovery of Block Models, E. Mossel et al., COLT 2014** [[presentation](/files/MLTheorycourse_Dec2014_BeliefProp_presentation.pdf)]   for CS598RM Algorithmic Game Theory
+- **Markov Games and Reinforcement Learning** [[review](/files/games.pdf)]   
+for CS598RM Algorithmic Game Theory
+- **Belief Propagation, Robust Reconstruction and Optimal Recovery of Block Models, E. Mossel et al., COLT 2014** [[presentation](/files/MLTheorycourse_Dec2014_BeliefProp_presentation.pdf)]   
+for CS598RM Algorithmic Game Theory
