@@ -9,10 +9,10 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+   font-size: 18px;
 
   @include clearfix();
   margin-bottom: 1em;
-  font-size: 18px;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -43,6 +43,7 @@
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
+    font-size: 18px;
   }
 
   img {
