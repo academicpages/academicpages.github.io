@@ -16,7 +16,7 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 # Papers
 
-- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 [[paper](/files/difficult.pdf)]  
+- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 [[paper](/files/difficult.pdf), [poster](/files/ISWCposter.pdf)]  
 Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande
 
 - **CLaDS: a cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018 [[paper](/files/clads.pdf)]  
@@ -25,7 +25,7 @@ Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai
 - **Mining relations from unstructured content**, PAKDD 2018 [[paper](/files/pakdd.pdf)]  
 Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, Steve Welch
 
-- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HuML@WWW 2018 [[paper](/files/batchAL.pdf)]  
+- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HumL@WWW 2018 [[paper](/files/batchAL.pdf), [poster](/files/HumL2018poster.pdf)]  
 Ismini Lourentzou, Daniel Gruhl, Steve Welch
 
 - **Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior**, Acta de Investigación Psicológica 2018  
