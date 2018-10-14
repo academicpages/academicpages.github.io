@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Teaching Experience
-- **CS410 Text Information Systems**, Head TA for Fall 2018, 2017
+- **CS410 Text Information Systems**, Head TA for Fall 2018, 2017, 2016 + Spring 2017
 - **CS125 Intro to Computer Science**, TA, Fall 2013
 
 # Work Experience
