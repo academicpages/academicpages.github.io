@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">my Google Scholar profile</a>.</u>
 
 # Under preparation or review
 
@@ -16,16 +16,16 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 # Papers
 
-- *Difficult Relations: Extracting Novel Facts from Text*, ISWC 2018 (*[paper]*)[/files/difficult.pdf]
+- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 (*[paper]*)[/files/difficult.pdf]
 Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande
 
-- *CLaDS: a cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education*, ITiCSE 2018, (*[paper]*)[/files/clads.pdf]
+- **CLaDS: a cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018, (*[paper]*)[/files/clads.pdf]
 Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai
 
-- *Mining relations from unstructured content*, PAKDD 2018, (*[paper]*)[/files/pakdd.pdf]
+- **Mining relations from unstructured content**, PAKDD 2018, (*[paper]*)[/files/pakdd.pdf]
 Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, Steve Welch
 
-- *Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction*, HuML@WWW 2018, (*[paper]*)[/files/batchAL.pdf]
+- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HuML@WWW 2018, (*[paper]*)[/files/batchAL.pdf]
 Ismini Lourentzou, Daniel Gruhl, Steve Welch
 
 - *Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior*, Acta de Investigación Psicológica 2018
