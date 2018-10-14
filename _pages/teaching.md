@@ -7,8 +7,8 @@ author_profile: true
 
 
 # Teaching
--[CS410] Fall 2018, 2017
--[CS125]
+- CS410DSO: Fall 2018, 2017
+- CS125: Fall 2013
 
 # Work Experience
 
