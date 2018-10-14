@@ -13,11 +13,11 @@ redirect_from:
 I am PhD candidate at the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu)
 My advisor is Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), leading the [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir).
 My research interests are a mix of Machine Learning, Natural Language Processing  and Information Retrieval.
-I am excited about Reinforcement Learning, Game Theory and Meta-learning.
+My most favorite areas are *Reinforcement Learning*, *Game Theory* and *Meta-learning*.
 
 My work is on all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations.
-I mainly focus in on Active and Semi-supervised learning and lately on Domain Adaptation.
-Deep Learning for Social Media Analysis is also another big part of my work. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text.
+I mainly focus in on <span style="color:magenta">**Active and Semi-supervised learning**</span> and lately on <span style="color:magenta">**Domain Adaptation**</span>.
+**Deep Learning for Social Media Analysis** is also another big part of my work. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text.
 I have also worked on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/projects).
 
 
