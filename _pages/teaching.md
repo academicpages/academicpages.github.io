@@ -15,8 +15,8 @@ author_profile: true
 - Internship @ **IBM Almaden Research Center**, San Jose, CA, Summer 2017
 - Internship @ **Microsoft Research**, Redmond, WA, Summer 2015
 - Technical reviewer for video courses: D3 for Dynamic Data Visualizations, **Packt Publishing**, April - June 2014 
-- Technical reviewer of the book: Data Visualization with D3.js Cookbook, **Packt Publishing**, Aug.-Sept. 2013
-- Former career in the banking sector @ **National Bank of Greece S.A.**, Feb. 2004 - Aug. 2013	 
+- Technical reviewer of the book: Data Visualization with D3.js Cookbook, **Packt Publishing**, August - September 2013
+- Former career in the banking sector @ **National Bank of Greece S.A.**, February 2004 - August 2013	 
 
 # Awards
 - **Outstanding Teaching Assistant Award** - CS Department @ UIUC, Fall 2017
