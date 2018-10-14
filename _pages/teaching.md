@@ -19,13 +19,13 @@ author_profile: true
 - former career in banking @ **National Bank of Greece S.A.**, Feb. 2004 - Aug. 2013	 
 
 # Awards
-- Microsoft Azure Research Award (November 2014)  
-14 awards given by Microsoft  
+- Microsoft Azure Research Award
+November 2014 - 14 awards given by Microsoft  
 Provides generous access to Microsoft Azure for research purposes  
 Proposal: *Multivariate Time Series Analysis for Trend Forecasting*  [[Microsoft blog post](https://blogs.technet.microsoft.com/machinelearning/2015/01/21/announcing-winners-of-the-azure-for-research-awards-for-ml/)]
 Estimated total market value: $20,000  
 
-- Certificate of Achievement for the most useful and cool project  
+- Yahoo! Certificate of Achievement for the most useful and cool project  
 CS 511 - Advanced Data Management course, Spring 2014  
 Instructor: Kevin Chang, UIUC  
 Project: *Multi-resolution drill-down with clustering and sampling* [[video](https://www.youtube.com/watch?v=Be64SzC2I0k), [slides](/files/slides/dora.pdf)]
