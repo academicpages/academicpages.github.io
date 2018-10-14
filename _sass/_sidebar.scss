@@ -124,6 +124,7 @@
 
 .author__bio {
   margin: 0;
+  font-size: 18px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -173,6 +174,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
+  font-size: 18px;
 
   @include breakpoint($large) {
     display: block;
