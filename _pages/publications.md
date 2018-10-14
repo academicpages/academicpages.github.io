@@ -16,38 +16,38 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 # Papers
 
-- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 (*[paper]*)[/files/difficult.pdf]
+- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 [(paper)[/files/difficult.pdf]]
 Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande
 
-- **CLaDS: a cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018, (*[paper]*)[/files/clads.pdf]
+- **CLaDS: a cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018, [(paper)[/files/clads.pdf]
 Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai
 
-- **Mining relations from unstructured content**, PAKDD 2018, (*[paper]*)[/files/pakdd.pdf]
+- **Mining relations from unstructured content**, PAKDD 2018, [(paper)[/files/pakdd.pdf]
 Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, Steve Welch
 
-- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HuML@WWW 2018, (*[paper]*)[/files/batchAL.pdf]
+- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HuML@WWW 2018, [(paper)[/files/batchAL.pdf]]
 Ismini Lourentzou, Daniel Gruhl, Steve Welch
 
-- *Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior*, Acta de Investigación Psicológica 2018
+- **Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior**, Acta de Investigación Psicológica 2018
 Sophie Lohmann, Ismini Lourentzou, Chengxiang Zhai, Dolores Albarracín
 
-- *Text-based Geolocation Prediction of Social Media Users with Neural Networks*, IEEE Big Data 2018, (*[paper]*)[/files/geoNN.pdf]
+- **Text-based Geolocation Prediction of Social Media Users with Neural Networks**, IEEE Big Data 2018, [(paper)[/files/geoNN.pdf]]
 Ismini Lourentzou, Alex Morales, ChengXiang Zhai
 
-- *Rescuing Lost History: Using Big Data to Recover Black Women's Lived Experiences*, XSDEDE 2016
+- **Rescuing Lost History: Using Big Data to Recover Black Women's Lived Experiences**, XSDEDE 2016
 Ruby Mendenhall, Nicole Brown, Michael L Black, Mark Van Moer, Ismini Lourentzou, Karen Flynn, Malaika Mckee, Assata Zerai
 
-- *Hotspots of news articles: Joint mining of news text & social media to discover controversial points in news*, IEEE Big Data 2017, (*[paper]*)[/files/hotspots.pdf]
+- **Hotspots of news articles: Joint mining of news text & social media to discover controversial points in news**, IEEE Big Data 2017, (*[paper]*)[/files/hotspots.pdf]
 Ismini Lourentzou, Graham Dyer, Abhishek Sharma, ChengXiang Zhai
 
-- *Automated snippet generation for online advertising*, ACM CIKM 2013, (*[paper]*)[/files/snippet.pdf]
+- **Automated snippet generation for online advertising**, ACM CIKM 2013, (*[paper]*)[/files/snippet.pdf]
 Stamatina Thomaidou, Ismini Lourentzou, Panagiotis Katsivelis-Perakis, Michalis Vazirgiannis
 
-- *IPL at CLEF 2013 Medical Retrieval Task*, CLEF 2013, (*[paper]*)[/files/clef.pdf]
+- **IPL at CLEF 2013 Medical Retrieval Task**, CLEF 2013, (*[paper]*)[/files/clef.pdf]
 Spyridon Stathopoulos, Ismini Lourentzou, Antonia Kyriakopoulou, Theodore Kalamboukis
 
 
 
 # Techincal Notes
 
-- *Markov Games and Reinforcement Learning* (*[review]*)[/files/games.pdf] for CS598RM Algorithmic Game Theory
+- **Markov Games and Reinforcement Learning** (*[review]*)[/files/games.pdf] for CS598RM Algorithmic Game Theory
