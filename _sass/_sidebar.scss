@@ -99,6 +99,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  font-size:18px;
 
   @include breakpoint($large) {
     display: block;
@@ -138,6 +139,7 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
+  font-size:18px;
 
   li:last-child {
     a {
