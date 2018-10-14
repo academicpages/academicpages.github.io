@@ -33,11 +33,11 @@ Estimated total market value: $20,000
 
 - **Yahoo! Certificate of Achievement** for the most useful and cool project  
 CS 511 - Advanced Data Management course, Spring 2014  
-Instructor: Kevin Chang, UIUC  
+Instructor: Prof. Kevin Chang, UIUC  
 Project: *Multi-resolution drill-down with clustering and sampling* [[video](https://www.youtube.com/watch?v=Be64SzC2I0k), [slides](/files/dora.pdf)]
 
 - Selected from the CS Department as one of the three nominees for the Microsoft Graduate Women's Scholarship for 2014
 
-- Team IPL at ImageClef 2013 - AMIA Medical Task
-2nd place in Textual Ad-hoc image-based retrieval 
-5th place in Visual Ad-hoc image-based retrieval
+- [IPL](http://ipl.cs.aueb.gr) at ImageClef 2013 - AMIA Medical Task
+**2nd place** in Textual Ad-hoc image-based retrieval 
+**5th place** in Visual Ad-hoc image-based retrieval
