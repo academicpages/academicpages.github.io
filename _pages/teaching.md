@@ -19,7 +19,7 @@ author_profile: true
 - former career in banking @ **National Bank of Greece S.A.**, Feb. 2004 - Aug. 2013	 
 
 # Awards
-- Microsoft Azure Research Award
+- Microsoft Azure Research Award  
 November 2014 - 14 awards given by Microsoft  
 Provides generous access to Microsoft Azure for research purposes  
 Proposal: *Multivariate Time Series Analysis for Trend Forecasting*  [[Microsoft blog post](https://blogs.technet.microsoft.com/machinelearning/2015/01/21/announcing-winners-of-the-azure-for-research-awards-for-ml/)]
