@@ -28,7 +28,7 @@ My work is on all sorts of bottlenecks related to data noise, sparsity, domain s
 - **December, 2017:** Presented poster on *Reward Augmentation in Text-based Deep Reinforcement Learning* @ WiML 2017
 - **December, 2017:** Attended NIPS 2017 (WiML Travel Award) 
 - **December, 2017:** Attended IEEE BigData at Boston, MA (IEEE BigData Travel Award)
-- **September, 2017:** Presented poster on *Deep Learning for Social Text Mining* at the Alibaba Technology Forum, Seattle, WA
+- **September, 2017:** Presented [poster](/files/slides/poster_Alibaba___Deep_Learning_for_Social_Media_Text_Mining.pdf) on *Deep Learning for Social Text Mining* at the Alibaba Technology Forum, Seattle, WA
 - **May, 2017:** Internship @ IBM Almaden Research Center, San Jose.
 - **December, 2017:** Paper accepted to IEEE Big Data 2017
 
