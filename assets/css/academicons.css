@@ -184,6 +184,12 @@
 .ai-pubmed-square:before {
   content: "\e853";
 }
+.ai-cv:before {
+  content: "\e9a5";
+}
+.ai-cv-square:before {
+  content: "\e90a";
+}
 .ai-researchgate:before {
   content: "\e854";
 }
