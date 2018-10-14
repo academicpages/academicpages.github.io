@@ -16,8 +16,8 @@ My research interests are a mix of Machine Learning, Natural Language Processing
 I am excited about opportunities to work in areas such as *Reinforcement Learning*, *Game Theory* and *Meta-learning*.
 
 My work is on all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations.
-I mainly focus in on <span style="color:magenta">**Active and Semi-supervised learning**</span> and lately on <span style="color:magenta">**Domain Adaptation**</span>.
-**Deep Learning for Social Media Analysis** is also another big part of my work. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text.
+I mainly focus in on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span> and lately on <span style="color:MediumSeaGreen">Domain Adaptation</span>.
+<span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span> is also another big part of my work. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text.
 I have also worked on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/projects).
 
 
