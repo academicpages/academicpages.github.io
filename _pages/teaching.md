@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Work Experience"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
 
-# Teaching
+# Teaching Experience
 - **CS410 Text Information Systems**, Head TA for Fall 2018, 2017
 - **CS125 Intro to Computer Science**, TA, Fall 2013
 
@@ -19,6 +19,7 @@ author_profile: true
 - former career in banking @ **National Bank of Greece S.A.**, Feb. 2004 - Aug. 2013	 
 
 # Awards
+- **Outstanding Teaching Assistant Award** - CS Department @ UIUC, Fall 2017
 - **Travel Award** for [ISWC 2018](http://iswc2018.semanticweb.org), Pacific Grove, CA *(declined)*
 - **Travel Award** for [ISWC 2017](http://iswc2017.semanticweb.org), Vienna, Austria
 - **Travel Award** for [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/), Boston, MA
