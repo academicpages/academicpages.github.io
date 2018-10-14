@@ -18,3 +18,18 @@ author_profile: true
 - Technical reviewer of the book: Data Visualization with D3.js Cookbook, Aug.-Sept. 2013
 - National Bank of Greece S.A., Feb. 2004 - Aug. 2013	 
 
+# Awards
+- Microsoft Azure Research Award (November 2014)  
+14 awards given by Microsoft  
+Provides generous access to Microsoft Azure for research purposes  
+Proposal: *Multivariate Time Series Analysis for Trend Forecasting*  
+Estimated total market value: $20,000  
+
+- Certificate of Achievement for the most useful and cool project  
+CS 511 - Advanced Data Management course, Spring 2014  
+Instructor: Kevin Chang, UIUC  
+Project: *Multi-resolution drill-down with clustering and sampling* [[video](https://www.youtube.com/watch?v=Be64SzC2I0k), [slides](/files/slides/dora.pdf)]
+
+- Selected from the CS Department as one of the three nominees for the Microsoft Graduate Women's Scholarship for 2014
+
+- Team IPL at ImageClef 2013 - AMIA Medical Task: 2nd place in Textual Ad-hoc image-based retrieval and 5th place in Visual Ad-hoc image-based retrieval
