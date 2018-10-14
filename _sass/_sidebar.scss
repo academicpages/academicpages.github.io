@@ -9,7 +9,7 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-   font-size: 18px;
+   font-size: 16px;
 
   @include clearfix();
   margin-bottom: 1em;
@@ -141,7 +141,7 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
-  font-size:18px;
+  font-size:16px;
 
   li:last-child {
     a {
@@ -175,7 +175,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
-  font-size: 18px;
+  font-size: 16px;
 
   @include breakpoint($large) {
     display: block;
