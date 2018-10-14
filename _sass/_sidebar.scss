@@ -43,7 +43,7 @@
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
-    font-size: 18px;
+    font-size: 16px;
   }
 
   img {
@@ -100,7 +100,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
-  font-size:18px;
+  font-size:16px;
 
   @include breakpoint($large) {
     display: block;
@@ -125,7 +125,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: 18px;
+  font-size: 16px;
 
   @include breakpoint($large) {
     margin-top: 10px;
