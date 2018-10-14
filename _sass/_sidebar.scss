@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  font-size: 18px;
 
   @include breakpoint($large) {
     @include span(2 of 12);
