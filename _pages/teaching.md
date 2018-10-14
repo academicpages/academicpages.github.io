@@ -19,10 +19,10 @@ author_profile: true
 - former career in banking @ **National Bank of Greece S.A.**, Feb. 2004 - Aug. 2013	 
 
 # Awards
-- Travel Award for [ISWC 2018](http://iswc2018.semanticweb.org), Pacific Grove, CA *(declined)*
-- Travel Award for [ISWC 2017](http://iswc2017.semanticweb.org), Vienna, Austria
-- Travel Award for IEEE Big Data 2017, Boston, MA
-- Travel Award for WiML 2017 (co-located with NIPS'17), Long Beach, CA
+- **Travel Award** for [ISWC 2018](http://iswc2018.semanticweb.org), Pacific Grove, CA *(declined)*
+- **Travel Award** for [ISWC 2017](http://iswc2017.semanticweb.org), Vienna, Austria
+- **Travel Award** for [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/), Boston, MA
+- **Travel Award** for [WiML 2017](https://wimlworkshop.org/2017/) (co-located with NIPS'17), Long Beach, CA
 
 - **Microsoft Azure Research Award**
 November 2014 - 14 awards given by Microsoft  
