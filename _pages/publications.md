@@ -28,13 +28,13 @@ Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, St
 - **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HuML@WWW 2018, [[paper](/files/batchAL.pdf)]  
 Ismini Lourentzou, Daniel Gruhl, Steve Welch
 
-- **Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior**, Acta de Investigación Psicológica 2018
+- **Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior**, Acta de Investigación Psicológica 2018  
 Sophie Lohmann, Ismini Lourentzou, Chengxiang Zhai, Dolores Albarracín
 
 - **Text-based Geolocation Prediction of Social Media Users with Neural Networks**, IEEE Big Data 2018, [[paper](/files/geoNN.pdf)]  
 Ismini Lourentzou, Alex Morales, ChengXiang Zhai
 
-- **Rescuing Lost History: Using Big Data to Recover Black Women's Lived Experiences**, XSDEDE 2016
+- **Rescuing Lost History: Using Big Data to Recover Black Women's Lived Experiences**, XSDEDE 2016  
 Ruby Mendenhall, Nicole Brown, Michael L Black, Mark Van Moer, Ismini Lourentzou, Karen Flynn, Malaika Mckee, Assata Zerai
 
 - **Hotspots of news articles: Joint mining of news text & social media to discover controversial points in news**, IEEE Big Data 2017, [[paper](/files/hotspots.pdf)]  
