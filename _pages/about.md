@@ -13,7 +13,7 @@ redirect_from:
 I am PhD candidate at the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu)
 My advisor is Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), leading the [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir).
 My research interests are a mix of Machine Learning, Natural Language Processing  and Information Retrieval.
-My most favorite areas are *Reinforcement Learning*, *Game Theory* and *Meta-learning*.
+I am excited about opportunities to work in areas such as *Reinforcement Learning*, *Game Theory* and *Meta-learning*.
 
 My work is on all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations.
 I mainly focus in on <span style="color:magenta">**Active and Semi-supervised learning**</span> and lately on <span style="color:magenta">**Domain Adaptation**</span>.
