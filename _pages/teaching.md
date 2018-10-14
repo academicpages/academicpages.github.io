@@ -32,4 +32,6 @@ Project: *Multi-resolution drill-down with clustering and sampling* [[video](htt
 
 - Selected from the CS Department as one of the three nominees for the Microsoft Graduate Women's Scholarship for 2014
 
-- Team IPL at ImageClef 2013 - AMIA Medical Task: 2nd place in Textual Ad-hoc image-based retrieval and 5th place in Visual Ad-hoc image-based retrieval
+- Team IPL at ImageClef 2013 - AMIA Medical Task
+2nd place in Textual Ad-hoc image-based retrieval 
+5th place in Visual Ad-hoc image-based retrieval
