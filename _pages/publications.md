@@ -31,7 +31,7 @@ Ismini Lourentzou, Daniel Gruhl, Steve Welch
 - **Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior**, Acta de Investigación Psicológica 2018  
 Sophie Lohmann, Ismini Lourentzou, Chengxiang Zhai, Dolores Albarracín
 
-- **Text-based Geolocation Prediction of Social Media Users with Neural Networks**, IEEE Big Data 2018 [[paper](/files/papers/geoNN.pdf), (slides)[/files/slides/text-based-geolocation.pdf]]  
+- **Text-based Geolocation Prediction of Social Media Users with Neural Networks**, IEEE Big Data 2018 [[paper](/files/papers/geoNN.pdf), [slides](/files/slides/text-based-geolocation.pdf)]  
 Ismini Lourentzou, Alex Morales, ChengXiang Zhai
 
 - **Rescuing Lost History: Using Big Data to Recover Black Women's Lived Experiences**, XSDEDE 2016  
