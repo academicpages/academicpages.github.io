@@ -24,7 +24,7 @@ My work is tackling all sorts of bottlenecks related to data noise, sparsity, do
 - **May, 2018:** Internship @ IBM Almaden Research Center, San Jose, CA.
 - **March, 2018:** Paper accepted to ITiCSE 2018.
 - **February, 2018:** Paper accepted to PAKDD 2018.
-- **February, 2018:** Workshop paper accepted to HuML@WWW 2018.
+- **February, 2018:** Workshop paper accepted to HumL@WWW 2018.
 - **December, 2017:** Presented poster on *Reward Augmentation in Text-based Deep Reinforcement Learning* @ WiML 2017
 - **December, 2017:** Attended NIPS 2017 (WiML Travel Award) 
 - **December, 2017:** Attended IEEE BigData at Boston, MA (IEEE BigData Travel Award)
