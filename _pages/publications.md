@@ -25,7 +25,7 @@ Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai
 - **Mining relations from unstructured content**, PAKDD 2018 [[paper](/files/pakdd.pdf)]  
 Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, Steve Welch
 
-- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HumL@WWW 2018 [[paper](/files/batchAL.pdf), [poster](/files/HumL2018poster.pdf)]  
+- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HumL@WWW 2018 [[paper](/files/batchAL.pdf), [slides](/files/HumL2018poster.pdf)]  
 Ismini Lourentzou, Daniel Gruhl, Steve Welch
 
 - **Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior**, Acta de Investigación Psicológica 2018  
