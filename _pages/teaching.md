@@ -7,8 +7,8 @@ author_profile: true
 
 
 # Teaching
-- **CS410 Text Information Systems**, Fall 2018, 2017
-- **CS125 Intro to Computer Science**, Fall 2013
+- **CS410 Text Information Systems**, Head TA for Fall 2018, 2017
+- **CS125 Intro to Computer Science**, TA, Fall 2013
 
 # Work Experience
 - Internship @ **IBM Almaden Research Center**, San Jose, CA, Summer 2018
