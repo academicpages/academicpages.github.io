@@ -16,7 +16,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 # Papers
 
-- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 (paper)[/files/difficult.pdf]
+- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 [[paper](/files/difficult.pdf)]
 Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande
 
 - **CLaDS: a cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018, (paper)[/files/clads.pdf]
