@@ -1,7 +1,7 @@
 ---
 title: 'Transfer Learning in Bayesian Neural Networks'
 date: 2018-10-15
-permalink: /posts/2015/10/transfer-learning-bayes-nnet/
+permalink: /posts/2018/10/transfer-learning-bayes-nnet/
 tags:
   - neural networks
   - Bayesian inference
