@@ -8,9 +8,6 @@ tags:
   - transfer learning
 ---
 
-Transfer Learning in Bayesian Neural Networks
-======
-
 Let's imagine we want to auto-encode images and detect unusual ones. We will use a Variational Autoencoder for this. However, our images come from different sources. They could have been captured by different photographers with different styles. If we treat all images as one dataset, all new photos from an extravagant photographer using bright colours and sharp contrast will have a low likelihood under our model, even though for this particular photographer it might fit in with the rest of her oeuvre.
 
 A way to deal with this could be to give each photographer its own neural network parameters. This would probably work well for photographers with lots of photos. But it won't work well for photographers with few photos. Also, intuitively we feel that we shouldn't start of scrath with every new photographer, and instead learn and take into account global behaviour.
