@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Outreach"
+permalink: /outreach/
 author_profile: true
 ---
 
