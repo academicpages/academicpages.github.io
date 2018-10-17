@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-
 [Download CV here](http://samscibelli.github.io/files/scibelli_CV.pdf)
   
