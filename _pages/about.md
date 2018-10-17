@@ -4,6 +4,7 @@ title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
+  - http://lourent2.web.engr.illinois.edu
   - /about/
   - /about.html
 ---
