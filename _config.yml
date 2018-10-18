@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Haggai Eran"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD student @ Technion EE & software architect @ Mellanox, working on FPGA-based SmartNIC application acceleration"
   location         : "Israel"
   employer         : "Mellanox Technologies"
