@@ -18,7 +18,7 @@ author_profile: true
 * [Oliva][poliva], [Jack][kjack], Bell, **Severen**, and Mettetal. (2015). [Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia.](http://www.nber.org/papers/w21414.pdf) NBER Working Paper 21414.
     * Revise and resubmit at *Review of Economics and Statistics*.
 
-* **Severen**. (2018). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/20180618_Severen_LAMetro.pdf)
+* **Severen**. (2018). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/Severen_JMP_2018.pdf)
     * **_NEW_** June 2018 draft (with Appendix), older draft available as FRB Philadelphia Working Paper 18-14.
 
 
