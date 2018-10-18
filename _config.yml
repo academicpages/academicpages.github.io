@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nikhil Sarin / PhD Candidate"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Nikhil Sarin"
+description              : &description "I am a PhD student at Monash University working on detecting gravitational waves from neutron star post-merger remnants as well as neutron stars and gamma-ray bursts.
+    I am supervised by Paul Lasky and Greg Ashton. Away from research, I am interested in soundtracks, climbing, and football."
+url                      : https://nikhil-sarin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "nikhil-sarin/nikhil-sarin.github.io.git"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
