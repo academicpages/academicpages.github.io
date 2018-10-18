@@ -3,7 +3,7 @@ title: "X-ray guided gravitational-wave search for binary neutron star merger re
 collection: publications
 permalink: /publication/X-ray guided
 excerpt: 'Improving gravitational-wave searches with coincident X-ray observations of short gamma-ray bursts'
-date: 2018-08
+date: 2018-08-01
 venue: 'Physical Review D'
 paperurl: 'http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1805.01481'
 citation: 'Sarin et al. (2018)'

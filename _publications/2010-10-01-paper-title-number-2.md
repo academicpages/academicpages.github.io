@@ -3,7 +3,7 @@ title: "Search for Post-merger Gravitational Waves from the Remnant of the Binar
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Searching for gravitational waves from a postmerger remnant of GW170817'
-date: 2017 December 7
+date: 2017-12-7
 venue: 'Astrophysics Journal Letters'
 paperurl: 'http://adsabs.harvard.edu/abs/2017ApJ...851L..16A'
 citation: 'Abbott et al. (2017)'
