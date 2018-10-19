@@ -82,9 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Nikhil Sarin"
-  avatar           : "profile.png"
+  avatar           : "Profile.png"
   bio              : "PhD student working on gamma-ray bursts and gravitational waves"
-  location         : "Monash University, Melbourne, Australia"
+  location         : "Monash University, Melbourne"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=iSXCI9YAAAAJ&hl=en"
   email            : "nikhil.sarin@monash.edu"
