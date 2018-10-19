@@ -30,14 +30,14 @@ Jeremy Fiel and Yongjun Zhang. 2018. "With All Deliberate Speed: the Reversal of
 How can social scientists use computational methods to study social phenomena? How can topic modeling and machine learning contribute to our field?
 
 ### Topic Modeling
-Alexander Kinney, Andrew Davis, and Yongjun Zhang. 2018. "Theming for Terror: Organizational Adornment in Terrorist Propaganda." Poetics. [Link](https://doi.org/10.1016/j.poetic.2018.05.001)
+Alexander Kinney, Andrew Davis, and Yongjun Zhang. 2018. "Theming for Terror: Organizational Adornment in Terrorist Propaganda." [Poetics] (https://doi.org/10.1016/j.poetic.2018.05.001) 69, 27-40.
 
 ### Machine Learning
-Charles Seguin and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016." Under Review [Paper Available Upon Request]
+Charles Seguin and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016." Under Review.
 
 ### Big Data and Web Scraping
 Yongjun Zhang. 2018. Media Attention to Protests in the Global Society (Based on millions of news reports). In Progress.
 
-Charles Seguin, Thomas Maher, Andrew Davis, and Yongjun Zhang. “Institutional Allies, Public Attention, & Protest Tactics: Civil Rights Organization’s Representation at Congressional Hearings 1900-2000.” This Social Movement Impact on Policy Outcomes project is funded by [NSF(Award number: 1824092)](https://nsf.gov/awardsearch/showAward?AWD_ID=1824092&HistoricalAwards=false)
+Charles Seguin, Thomas Maher, Andrew Davis, and Yongjun Zhang. “Institutional Allies, Public Attention, & Protest Tactics: Civil Rights Organization’s Representation at Congressional Hearings 1900-2000.” This Social Movement Impact on Policy Outcomes project is funded by [NSF(Award No.: 1824092)](https://nsf.gov/awardsearch/showAward?AWD_ID=1824092&HistoricalAwards=false)
 
 [Download Zhang-Vita.PDF Here](https://yongjunzhang.com/files/zhang-vita.pdf).
