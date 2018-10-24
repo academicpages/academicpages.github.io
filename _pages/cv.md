@@ -31,7 +31,7 @@ In this page, you can find information related to my experience,  skills, studie
   Microsoft HoloLens. My participation in this project was thanks to the scholarship, Telefónica Talentum.
 
 ## Research interests
-Visualization of Programs and Algorithms, Augmented Reality techniques, 3D Graphics, apart from topics related to Machine Learning such 
+Visualization of Programs and Algorithms, Augmented Reality techniques, 3D Graphics, and topics related to Machine Learning such 
 as Natural Language Understanding and Speech Recognition, among other aspects.
 
 <!---## Publications
