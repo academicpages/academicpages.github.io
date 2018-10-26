@@ -89,20 +89,12 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links 
-$link-color                 : $info-color; 
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-*/
-
 /* links */ 
 $link-color                 : $ideapink; 
-$link-color-hover           : mix(#000, $ideapink, 25%);
-$link-color-visited         : mix(#fff, $ideapink, 25%);
-$masthead-link-color        : $ideapink;
-$masthead-link-color-hover  : mix(#000, $ideapink, 25%);
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $link-color;
+$masthead-link-color-hover  : mix(#000, $link-color, 25%);
 
 /*
    Breakpoints
