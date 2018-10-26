@@ -12,4 +12,4 @@ citation: 'Macháček and Srholec (2017). "Místní časopisy ve Scopusu." <i>St
 Measuring the penetration of the so called _predatory journals_ in the national research outputs across the world.
 [Download paper here](https://idea.cerge-ei.cz/files/IDEA_Studie_17_2017_Mistni_casopisy_ve_Scopusu/mobile/index.html)
 
-Recommended citation: Macháček and Srholec (2017). "Predátorské časopisy ve Scopusu." <i>Studie IDEA</i>. 17/2017.
+Recommended citation: Macháček and Srholec (2017). "Místní časopisy ve Scopusu." <i>Studie IDEA</i>. 17/2017.
