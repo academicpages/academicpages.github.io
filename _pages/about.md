@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+```
+"Everything you can imagine is real" Pablo Picasso
+
+```
+
 An economist exploiting programming skills to deliver original, accurate and interactive outputs.
 
 I am a member of _Research of research group_ in the think-tank <a href="https://idea.cerge-ei.cz/" target="_blank">IDEA</a>
