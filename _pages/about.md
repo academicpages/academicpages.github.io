@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Vít Macháček / Data-driven Economist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-An economist exploiting his programming skills to deliver accurate, original and well structured analysis.
+An economist exploiting programming skills to deliver original, accurate and interactive outputs.
 
-I am a member of Research of research group in the think-tank <a href="https://idea.cerge-ei.cz/" target="_blank">IDEA</a>
+I am a member of _Research of research group_ in the think-tank <a href="https://idea.cerge-ei.cz/" target="_blank">IDEA</a>
  at <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a> on Acadamy of Sciences in the Czech Republic. I am also a Ph.D student on <a href="http://ies.fsv.cuni.cz/" target="_blank">Institute of Economic Studies</a>
- on Faculty of Social Sciences of Charles University. My dissertation focuses on academic misconduct and globalization in science. My supervisor and close co-author is <a href="https://home.cerge-ei.cz/srholec/" target="_blank">Martin Srholec</a>. 
+ on Faculty of Social Sciences of Charles University. My dissertation focuses on academic misconduct and globalization in science, with special emphasize on evaluation of science. My supervisor and close co-author is <a href="https://home.cerge-ei.cz/srholec/" target="_blank">Martin Srholec</a>. 
 
 Research
 ======
-The starting point of our research is the scientific environment in the Czech Republic. We aim to identify problems, find the data accurately describing it and analyze it. Last, but not least, we try to deliver the analysis to the readers in such way that is easily readable for every user, even the non-experts in the field.
-
-My largest contribution is the passion about data processing. I do everything from scraping the data from the internet to interactive visualizations in Javascript and [D3](https://d3js.org/).
+I am passionate about data processing. I can scrape the data from the internet, process the data and in the end create an interactive web-based visualization. I work with Python, Javascript, D3, PostgreSQL and other technologies.
 
 Topics
 -----
