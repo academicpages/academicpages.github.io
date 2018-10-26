@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-```
-"Everything you can imagine is real" Pablo Picasso
 
-```
+> "Everything you can imagine is real" Pablo Picasso
+
 
 An economist exploiting programming skills to deliver original, accurate and interactive outputs.
 
