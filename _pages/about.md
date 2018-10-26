@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-An economist exploitng his programming skills to deliver accurate, original and well structured analysis.
+An economist exploiting his programming skills to deliver accurate, original and well structured analysis.
 
 I am part of Research of research group in the [think-tank IDEA](https://idea.cerge-ei.cz/) at [CERGE-EI](https://cerge-ei.cz/). I am also a Ph.D student on [Institute of Economic Studies](http://ies.fsv.cuni.cz/) on Faculty of Social Sciences of Charles University. My dissertation focuses on academic misconduct and globalization in science. My supervisor and close co-author is Martin Srholec. 
 
@@ -22,6 +22,7 @@ Topics
 -----
 
 Predatory Journals
+see https://idea.cerge-ei.cz/files/PredatoriMistni/
 
 Globalization in Science
 
@@ -30,4 +31,4 @@ Technology Transfer
 
 Other projects
 -----
-x
+
