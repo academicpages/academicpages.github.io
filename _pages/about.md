@@ -16,9 +16,9 @@ I am a member of Research of research group in the think-tank <a href="https://i
 
 Research
 ======
-The starting point of our research is the research environment in the Czech Republic. We aim to identify problems, find the data accurately describing it and analyze it.
+The starting point of our research is the scientific environment in the Czech Republic. We aim to identify problems, find the data accurately describing it and analyze it. Last, but not least, we try to deliver the analysis to the readers in such way that is easily readable for every user, even the non-experts in the field.
 
-My largest contribution in the process is the passion about data processing. I do everything from scraping the data from the internet to interactive visualizations in Javascript and [D3](https://d3js.org/).
+My largest contribution is the passion about data processing. I do everything from scraping the data from the internet to interactive visualizations in Javascript and [D3](https://d3js.org/).
 
 Topics
 -----
