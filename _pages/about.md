@@ -20,7 +20,7 @@ My largest contribution in the process is the passion about data processing. I d
 
 Topics
 -----
-<a href="https://idea.cerge-ei.cz/files/PredatoriMistni/">Predatory Journals</a>
+<a href="https://idea.cerge-ei.cz/files/PredatoriMistni/" target="_blank">Predatory Journals</a>
 
 Globalization in Science
 
