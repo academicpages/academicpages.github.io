@@ -14,9 +14,10 @@ redirect_from:
 
 An economist exploiting programming skills to deliver original, accurate and interactive outputs.
 
-I am a member of _research of research group_ in the think-tank <a href="https://idea.cerge-ei.cz/" target="_blank">IDEA</a>
- at <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a> on Acadamy of Sciences in the Czech Republic. I am also a Ph.D student on <a href="http://ies.fsv.cuni.cz/" target="_blank">Institute of Economic Studies</a>
- on Faculty of Social Sciences of Charles University. My dissertation focuses on academic misconduct and globalization in science, with special emphasize on evaluation of science. My supervisor and close co-author is <a href="https://home.cerge-ei.cz/srholec/" target="_blank">Martin Srholec</a>. 
+As a member of _research of research group_ in the think-tank <a href="https://idea.cerge-ei.cz/" target="_blank">IDEA</a> at <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a> on Acadamy of Sciences in the Czech Republic I create policy studies focused on the czech scientific landscape. 
+I also study Ph.D on <a href="http://ies.fsv.cuni.cz/" target="_blank">Institute of Economic Studies</a>
+ on Faculty of Social Sciences of Charles University. My dissertation focuses on academic misconduct and globalization in science, with special emphasize on evaluation of science. 
+ My supervisor and close co-author is <a href="https://home.cerge-ei.cz/srholec/" target="_blank">Martin Srholec</a>. 
 
 Research
 ======
