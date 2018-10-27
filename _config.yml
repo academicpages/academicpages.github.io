@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Vít Macháček"
   avatar           : "vitek_final.JPG"
-  bio              : "Economist with expertise in scientometrics"
+  bio              : "Programming economist with expertise in scientometrics"
   location         : "Prague"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "CERGE-EI"
+  googlescholar    : 
   email            : vit.machacek@cerge-ei.cz
   uri              :
   bitbucket        :
