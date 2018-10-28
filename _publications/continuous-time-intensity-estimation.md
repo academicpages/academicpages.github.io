@@ -11,5 +11,5 @@ citation:
 
 <a href="https://github.com/cedric-scheerlinck/dvs_image_reconstruction" target="_blank"><b>Code</b></a> &emsp;
 <a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc?usp=sharing" target="_blank"><b>Datasets</b></a> &emsp;
-<a href="https://youtu.be/o4QTDy-SeSs" target="_blank"><b>Video</u></a>
+<a href="https://youtu.be/o4QTDy-SeSs" target="_blank"><b>Video</b></a>
 
