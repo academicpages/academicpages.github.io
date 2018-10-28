@@ -5,10 +5,11 @@ permalink: /2016_afmc_scheerlinck_artery
 excerpt: 
 date: 2016-12-05
 venue: '20th Australasian Fluid Mechanics Conference'
-paperurl: 'http://cedric-scheerlinck.github.io/files/2016_afmc_scheerlinck_artery.pdf'
+paperurl: 
 citation:
 ---
 
-[PDF](http://cedric-scheerlinck.github.io/files/2016_afmc_scheerlinck_artery.pdf)
+<a href="http://cedric-scheerlinck.github.io/files/2016_afmc_scheerlinck_artery.pdf" target="_blank"><b>PDF</b></a>
 
-Recommended citation:
+
+
