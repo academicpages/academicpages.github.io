@@ -11,3 +11,5 @@ redirect_from:
 
 A link to my CV can be found <a href="https://cedric-scheerlinck.github.io/files/Cedric_CV.pdf" target="_blank">here</a>.
 
+A link to my CV can be found [here](https://cedric-scheerlinck.github.io/files/Cedric_CV.pdf){:target="_blank"}.
+
