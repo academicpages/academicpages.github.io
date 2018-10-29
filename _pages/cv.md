@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A link to my CV can be found <a href="https://cedric-scheerlinck.github.io/files/" target="_blank"><u>here</u></a>.
+A link to my CV can be found <a href="https://cedric-scheerlinck.github.io/files/Cedric_CV.pdf" target="_blank"><u>here</u></a>.
