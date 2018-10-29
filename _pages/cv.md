@@ -45,13 +45,14 @@ Skills
   * jQuery
   * D3 Interactive Visualizations
 * R
+* Server deployment (Node.js, PostgreSQL)
 * C#
 * Advanced Microsoft Excel (including VBA)
 
 Projects
 ======
 * [Rethinking Economics](https://www.facebook.com/RethinkingEconomicsCZ/) (2015 - now)
-* Czech Nudgin Platform
+* Czech Nudging Platform
 
 Coursera
 ======
