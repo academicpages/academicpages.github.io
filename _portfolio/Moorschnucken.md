@@ -1,6 +1,6 @@
 ---
 title: "Moorschnucken - Das Schweigen Dilämma"
-excerpt: "developed in 48h for BeansJam Mobile 2018<br/><img src='/images/Moorschnucken.png'>"
+excerpt: "Soon on Google Play. Initally developed in 48h for BeansJam Mobile 2018<br/><img src='/images/Moorschnucken.png'>"
 collection: GameDev
 ---
 
