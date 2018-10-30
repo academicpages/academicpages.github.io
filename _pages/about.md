@@ -10,7 +10,5 @@ redirect_from:
 
 
 
-Avout me
-======
 Let's get started
 
