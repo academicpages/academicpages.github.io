@@ -9,5 +9,4 @@ location: "Prague, Czech Republic"
 ---
 
 Presentation of study *Místní časopisy ve Scopusu*
-
 [https://www.youtube.com/watch?v=SKTOkwiqhgY](https://www.youtube.com/watch?v=SKTOkwiqhgY)
