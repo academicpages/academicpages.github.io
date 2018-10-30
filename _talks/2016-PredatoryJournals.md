@@ -9,4 +9,5 @@ location: "Prague, Czech Republic"
 ---
 
 Presentation of study *Predátorské časopisy ve Scopusu*
-https://youtu.be/rvo3QHuvRCg
+
+[https://youtu.be/rvo3QHuvRCg](https://youtu.be/rvo3QHuvRCg)
