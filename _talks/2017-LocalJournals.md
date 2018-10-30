@@ -8,5 +8,5 @@ date: 2017-12-18
 location: "Prague, Czech Republic"
 ---
 
-Presentation of study *Místní časopisy ve Scopusu*
+Presentation of study *Místní časopisy ve Scopusu* (in Czech)
 [https://www.youtube.com/watch?v=SKTOkwiqhgY](https://www.youtube.com/watch?v=SKTOkwiqhgY)
