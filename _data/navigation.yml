@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "Game Development"
-    url: /portfolio/
+    url: /gamedev/
         
   - title: "CV"
     url: /cv/
