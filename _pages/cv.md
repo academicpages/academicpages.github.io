@@ -43,13 +43,14 @@ Skills
   * NGS library prepartion
   * capture enrichment
 
-
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-   
+--->
+
 Awards
 ======  
 * Best Poster Award at DNA Polymorphisms in Human Populations, Paris
