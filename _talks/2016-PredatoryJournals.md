@@ -8,6 +8,5 @@ date: 2016-11-20
 location: "Prague, Czech Republic"
 ---
 
-Presentation of study *Predátorské časopisy ve Scopusu*
-
+Presentation of study *Predátorské časopisy ve Scopusu* (in Czech)
 [https://youtu.be/rvo3QHuvRCg](https://youtu.be/rvo3QHuvRCg)
