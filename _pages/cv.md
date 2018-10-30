@@ -11,49 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, Leipzig University, 2011
+* M.S. in Biology, Leipzig University, 2013
+* M.S. in Bioinformatics, Leipzig University, 2016
+* Ph.D in Human Population History, Leipzig University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2010-2016: Research Assistant
+  * Max-Planck Institute for Evolutionary Anthropology Leipzig
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Mark Stoneking
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming/Scripting
+  * R
+  * Python
+  * Bash
+  * awk
+  * latex
+* Genetics/Genomics
+  * Sequence and Read Processing
+  * Data Analysis
+  * Statistics
+  * Bayesian Methods
+  * Molecular Biology
+  * Human Population Genetics
+* Wet lab
+  * NGS library prepartion
+  * capture enrichment
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+   
+Awards
+======  
+* Best Poster Award at DNA Polymorphisms in Human Populations, Paris
+  * http://ecoanthropologie.mnhn.fr/DPHP2016/DPHP2016.htm
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Volunteer Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2016-2017 PhD representative of the Max-Planck Institute for Evolutionary Anthropology
+* 2016-2017 Vice Spokesperson, ProRat (PhD representatives) of Leipzig University
+* Bio11erRat Leipzig e.V.
+  * Director 2010-2012
+  * Senior Member since 2016
+  * Member 2008-2016
