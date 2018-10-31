@@ -3,7 +3,7 @@ title: "Deep Reinforcement Learning for Green Security Games with Real-Time Info
 collection: publications
 permalink: /publications/RLSGAAAI19
 venue: "The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19)"
-date: 2018-10-30
+date: 2019-2-1
 citation: 'Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang. <i>The Thirty-Third AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2019</b>.'
 ---  
 
