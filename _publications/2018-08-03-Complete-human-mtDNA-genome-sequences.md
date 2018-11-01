@@ -2,10 +2,10 @@
 title: "Complete human mtDNA genome sequences from Vietnam and the phylogeography of Mainland Southeast Asia"
 collection: publications
 permalink: /publication/2018-08-03-Complete-human-mtDNA-genome-sequences
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2018-08-03
 venue: 'Scientific Reports'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://emacholdt.github.io/files/Duong_Complete_SciRep_2018.pdf'
 citation: 'Duong, N. T., Macholdt, E., Ton, N. D., Arias Alvis, L., Schröder, R., Phong, N. V., et al. (2018). Complete human mtDNA genome sequences from Vietnam and the phylogeography of Mainland Southeast Asia. Scientific Reports, 8: 11651. doi:10.1038/s41598-018-29989-0.'
 ---
 
