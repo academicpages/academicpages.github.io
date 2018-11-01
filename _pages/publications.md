@@ -12,6 +12,8 @@ author_profile: true
 
 ## Academic publications
 
+Keegan Korthauer*, Patrick K Kimes*, **Claire Duvallet**^, Alejandro Reyes^, Ayshwarya Subramanian^, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks. "A practical guide to methods controlling false discoveries in computational biology." _bioRxiv_ (2018) doi: [10.1101/458786](https://www.biorxiv.org/content/early/2018/10/31/458786)
+
 Thomas Gurry, HST Microbiome Consortium, Sean M Gibbons, Sean M Kearney, Ashwin Ananthakrishnan, Xiaofang Jiang, **Claire Duvallet**, Zain Kassam, and Eric J Alm. "Predictability and persistence of prebiotic dietary supplementation in a healthy human cohort." _Scientific Reports_ (2018) 8(1): 12699. doi: [10.1038/s41598-018-30783-1](https://doi.org/10.1038/s41598-018-30783-1)
 
 Sean M. Gibbons, **Claire Duvallet**, and Eric J. Alm. "Correcting for batch effects in case-control microbiome studies." _PLoS Computational Biology_ (2018) 14(4): e1006102. doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pcbi.1006102)
