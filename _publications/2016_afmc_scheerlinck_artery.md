@@ -9,7 +9,9 @@ paperurl:
 citation:
 ---
 
-<a href="http://cedric-scheerlinck.github.io/files/2016_afmc_scheerlinck_artery.pdf" target="_blank"><b>PDF</b></a>
+<a href="http://cedric-scheerlinck.github.io/files/2016_afmc_scheerlinck_artery.pdf" target="_blank"><b>PDF</b></a>&emsp;
+<a href="http://cedric-scheerlinck.github.io/files/2016_afmc_artery_bibtex.txt" target="_blank"><b>BibTex</b></a>
+
 
 ### Abstract
 
