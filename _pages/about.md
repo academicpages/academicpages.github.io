@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+
+<a href="http://www.hectorbahamonde.com/">
+<img src="/resources/profile2.jpg" alt="me"  style="width:386px;height:330;;border:0;">
+</a>
+
 <p class="lead"> I am an Assistant Professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>'s, <a href="http://www.uoh.cl">Instituto de Ciencias Sociales</a>, in Chile.</p>
 
 <p class="lead"> Before joining <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>, I served one year as a post-doctoral fellow at <span style="color:#336666"><b>Tulane University</b></span> for the 2017-2018 AY. I received my Ph.D in Political Science from <span style="color:#d21034"><b>Rutgers University</b></span> (New Brunswick, NJ) in the spring of 2017.</p>
