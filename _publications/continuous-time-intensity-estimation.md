@@ -13,5 +13,5 @@ citation:
 <a href="https://github.com/cedric-scheerlinck/dvs_image_reconstruction" target="_blank"><b>Code</b></a>&emsp;
 <a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc?usp=sharing" target="_blank"><b>Datasets</b></a>&emsp;
 <a href="https://youtu.be/o4QTDy-SeSs" target="_blank"><b>Video</b></a>&emsp;
-<a href="https://cedric-scheerlinck.github.io/files/2018_arxiv_continuous_bibtex.txt" target="_blank"><b>BibTex</b></a>
+<a href="https://cedric-scheerlinck.github.io/files/2018_accv_continuous_bibtex.txt" target="_blank"><b>BibTex</b></a>
 
