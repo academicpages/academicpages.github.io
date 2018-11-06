@@ -1,9 +1,6 @@
-@Article{Scheerlinck18arxiv,
+@Article{Scheerlinck18accv,
   author        = {Cedric Scheerlinck and Nick Barnes and Robert Mahony},
   title         = {Continuous-time Intensity Estimation Using Event Cameras},
-  journal       = "ar{X}iv e-prints",
+  journal       = "Asian Conference on Computer Vision (ACCV)",
   year          = 2018,
-  month         = nov,
-  url           = {https://arxiv.org/abs/1811.00386},
-  arxivid       = {1811.00386}
 }
