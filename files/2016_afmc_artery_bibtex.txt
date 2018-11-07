@@ -1,7 +1,7 @@
 @InProceedings{Scheerlinck16afmc,
   author        = {Cedric Scheerlinck and Chris Mamon and Tony Zahtila and Wilson Nguyen and Eric Poon and Vikas Thondapu and Cheng Chin and Steve Moore and Peter Barlis and Andrew Ooi},
   title         = {Effect of Medical Imaging Modalities on the simulated blood flow through a {3D} reconstructed stented coronary artery segment},
-  booktitle     = "Australasian Fluid Mechanics Conference",
-  year          = 2016,
-  month         = dec
+  booktitle     = {Australasian Fluid Mechanics Conference},
+  year          = {2016},
+  month         = {December}
 }
