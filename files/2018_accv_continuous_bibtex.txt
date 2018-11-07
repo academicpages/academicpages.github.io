@@ -1,6 +1,7 @@
 @InProceedings{Scheerlinck18accv,
   author        = {Cedric Scheerlinck and Nick Barnes and Robert Mahony},
   title         = {Continuous-time Intensity Estimation Using Event Cameras},
-  booktitle     = "Asian Conf. Comput. Vis. (ACCV)",
-  year          = 2018
+  booktitle     = {Asian Conf. Comput. Vis. (ACCV)},
+  year          = {2018},
+  month         = {dec}
 }
