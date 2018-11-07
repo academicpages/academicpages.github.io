@@ -3,5 +3,5 @@
   title         = {Continuous-time Intensity Estimation Using Event Cameras},
   booktitle     = {Asian Conf. Comput. Vis. (ACCV)},
   year          = {2018},
-  month         = {dec}
+  month         = {December}
 }
