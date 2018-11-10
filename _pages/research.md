@@ -3,10 +3,10 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## Organizational Behavior and Social Movements
+## Organizational Behavior
 My current research uses computational, statistical and network methods to study shareholder and stakeholder activism against corporate political activities and its influence in the U.S. and China.
 
-Is U.S. business community united, divided, or neither? Is corporate political spending an agency problem that reflects managers' political ideology or a political investment? My dissertation will contribute to these debates. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are targeted by shareholder and stakeholder activism and some are not? 2) How do firms respond to shareholder activism targeting corporate political spending activities and governance practices (i.e., the results of shareholder resolutions, disclosure and restriction of political spending, board oversight, etc.)? 3) What are the consequences of those shareholder and stakeholder activism regarding corporate status and performance (i.e., stock price, investor perceptions, federal contracts, and corporate hearing presence)?
+Is U.S. business community united, divided, or neither? Is corporate political spending an agency problem that reflects managers' political ideology or a political investment? My dissertation will contribute to these debates. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are more likely than others to be targeted by shareholder and stakeholder activism? 2) How do firms respond to shareholder activism targeting corporate political spending activities and governance practices (i.e., the results of shareholder resolutions, disclosure and restriction of political spending, board oversight, etc.)? 3) What are the consequences of those shareholder and stakeholder activism regarding corporate status and performance (i.e., stock price, investor perceptions, federal contracts, and corporate hearing presence)?
 
 Another extended project examines the antecedents and consequences of shareholder activism in China.
 
