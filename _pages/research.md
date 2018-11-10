@@ -33,7 +33,7 @@ How can social scientists use computational methods to study social phenomena? H
 Alexander Kinney, Andrew Davis, and Yongjun Zhang. 2018. "Theming for Terror: Organizational Adornment in Terrorist Propaganda." [Poetics](https://doi.org/10.1016/j.poetic.2018.05.001) 69, 27-40.
 
 ### Machine Learning
-Charles Seguin and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016." Under Review.
+[Charles Seguin](www.charlieseguin.com) and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016." Under Review.
 
 ### Big Data and Web Scraping
 Yongjun Zhang. 2018. Media Attention to Protests in the Global Society (Based on millions of news reports). In Progress.
