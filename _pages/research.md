@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Organizational Behavior
-My current research uses computational, statistical and network methods to study shareholder and stakeholder activism against corporate political activities and its influence in the U.S. and China.
+My current research uses computational, statistical and network methods to study shareholder and stakeholder activism against corporate political activities and its influence.
 
 Is U.S. business community united, divided, or neither? Is corporate political spending an agency problem that reflects managers' political ideology or a political investment? My dissertation will contribute to these debates. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are more likely than others to be targeted by shareholder and stakeholder activism? 2) How do firms respond to shareholder activism targeting corporate political spending activities and governance practices (i.e., the results of shareholder resolutions, disclosure and restriction of political spending, board oversight, etc.)? 3) What are the consequences of those shareholder and stakeholder activism regarding corporate status and performance (i.e., stock price, investor perceptions, federal contracts, and corporate hearing presence)?
 
@@ -27,13 +27,13 @@ School segregation can be understood in light of movement-countermovement dynami
 Jeremy Fiel and Yongjun Zhang. 2018. "With All Deliberate Speed: the Reversal of Court-Ordered School Desegregation, 1970-2013." American Journal of Sociology (Invitation to Revise and Resubmit).
 
 ## Big Data and Computational Methods
-How can social scientists use computational methods to study social phenomena? How can topic modeling and machine learning contribute to our field?
+How can social scientists use computational methods to study social phenomena? How can computational methods such as topic modeling and machine learning contribute to our field?
 
 ### Topic Modeling
 Alexander Kinney, Andrew Davis, and Yongjun Zhang. 2018. "Theming for Terror: Organizational Adornment in Terrorist Propaganda." [Poetics](https://doi.org/10.1016/j.poetic.2018.05.001) 69, 27-40.
 
 ### Machine Learning
-[Charles Seguin](www.charlieseguin.com) and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016." Under Review.
+[Charles Seguin](http://www.charlieseguin.com/) and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016." Under Review.
 
 ### Big Data and Web Scraping
 Yongjun Zhang. 2018. Media Attention to Protests in the Global Society (Based on millions of news reports). In Progress.
