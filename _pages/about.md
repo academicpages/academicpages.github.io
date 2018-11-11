@@ -12,4 +12,6 @@ I am currently a third year PhD student at [School of GeoSciences](https://www.e
 
 I am interested in using satellite observations, reanalysis data and earth system modles to imprrove our understanding of extreme climate events (e.g. Tropical Cyclones, heatwaves, extreme precipitaion et.) and therefore help better prediction of natural hazards.
 
-![Alt text](/images/front_page.png)
+<p align="center">
+  <img src="https://github.com/Alcide-Zhao/web/blob/master/images/front_page.png?raw=true" alt="Alt text"/>
+</p>
