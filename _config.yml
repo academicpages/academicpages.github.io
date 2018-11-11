@@ -311,6 +311,3 @@ compress_html:
 # Base configs
 image_fulls_loc: "/photos/fulls"
 image_thumbs_loc: "/photos/thumbs"
-
-# UI configs
-title: "Photography by Alcide ZHao"
