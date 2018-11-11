@@ -2,10 +2,6 @@
 layout: archive
 title: <Ccenter>Publications</Center>
 permalink: /publications/
-title: <Ccenter>Submitted</Center>
-permalink: /submitted/
-title: <Ccenter>under preparation</Center>
-permalink: /publication-underp/
 author_profile: true
 ---
 
