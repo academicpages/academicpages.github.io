@@ -1,5 +1,5 @@
 ---
-title: "002。 Polar Sea Ice Monitoring Using HY-2A Scatterometer Measurements"
+title: "002. Polar Sea Ice Monitoring Using HY-2A Scatterometer Measurements"
 collection: publications
 excerpt: ''
 date: 2016-04-25
