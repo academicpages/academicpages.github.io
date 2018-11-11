@@ -86,13 +86,13 @@ author:
   location         : "Edinburgh, Scotland,UK"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en"
-  email            :
-  uri              :
+  email            : "Alcide.Zhao@ed.ac.uk"
+  uri              : "https://www.ed.ac.uk/geosciences/people/person.html?indv=5072"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/alcide.zhao"
   foursquare       :
   github           : "Alcide-Zhao"
   google_plus      :
@@ -112,8 +112,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  UnivPage         : "https://www.ed.ac.uk/geosciences/people/person.html?indv=5072"
-  SAGES            :
+  UnivPage         :
+  SAGES            : "http://www.sages.ac.uk/people/alcide-zhao/"
 
 
 # Reading Files
