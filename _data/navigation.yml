@@ -6,9 +6,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Coding/Modelling"
-    url: /coding/    
-
+  - title: "Coding"
+    url: /coding/  
+    
+  - title: "Modelling"
+    url: /Modelling/  
+    
   - title: "Resources"
     url: /resources/    
     
