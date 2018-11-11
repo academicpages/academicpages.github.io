@@ -1,5 +1,5 @@
 ---
-title: "001. A Multiple Linear Regression Model for Tropical Cyclone Intensity Estimation from Satellite Infrared Images"
+title: "001: A Multiple Linear Regression Model for Tropical Cyclone Intensity Estimation from Satellite Infrared Images"
 collection: publications
 excerpt: ''
 date: 2016-03-11
