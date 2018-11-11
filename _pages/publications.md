@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <Ccenter>Publications</Center>
+title: <center>Publications</center>
 permalink: /publications/
 author_profile: true
 ---
