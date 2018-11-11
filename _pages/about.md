@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-(/images/front_page.png)
+![Alt text](/images/front_page.png)
 
 About me
 ======
