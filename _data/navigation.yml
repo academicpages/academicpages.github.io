@@ -6,14 +6,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Research output"
-    children:
-     - title: "Publications"
-       url: /publications/
-     - title: "Talks"
-       url: /talks/
-     - title: "Posters"
-       url: /posters/       
+  - title: "Publications"
+    url: /publications/   
       
   - title: "Coding"
     url: /coding/  
