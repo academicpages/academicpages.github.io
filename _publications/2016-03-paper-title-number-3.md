@@ -1,5 +1,5 @@
 ---
-title: "003。 Application of HY-2A/SCAT sea surface winds in understanding structure of typhoons over Northwestern Pacific Ocean"
+title: "003: Application of HY-2A/SCAT sea surface winds in understanding structure of typhoons over Northwestern Pacific Ocean"
 collection: publications
 excerpt: ''
 date: 2016-07-04
