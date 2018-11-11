@@ -16,15 +16,11 @@ author_profile: true
 {% endfor %}
 
 ---
-layout: archive
 title: <Ccenter>Submitted</Center>
 permalink: /submitted/
-author_profile: true
 ---
 
 ---
-layout: archive
 title: <Ccenter>under preparation</Center>
 permalink: /publication-underp/
-author_profile: true
 ---
