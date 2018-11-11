@@ -100,7 +100,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : " https://orcid.org/0000-0002-8300-5872"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -112,6 +112,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  UnivPage         :"https://www.ed.ac.uk/geosciences/people/person.html?indv=5072"
+  SAGES            :
 
 
 # Reading Files
