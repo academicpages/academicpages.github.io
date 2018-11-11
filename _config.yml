@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "ALCIDE ZHAO"
 title_separator          : "-"
 name                     : &name "Alcide Zhao"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alcide Zhao"
   avatar           : "profile.jpg"
-  bio              : "PhD student,     Air pollution and climate modelling,   University of Edinburgh"
+  bio              : "PhD student,Air pollution and climate modelling,University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en"
