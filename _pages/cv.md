@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
----
+***
 * B.S. in Oceanography, Ocean University of China, 2014 (Shandong Province Excellent graduat)
 * M.S. in Satellite Ocean Remote Sensing, Ocean University of China, 2016
 * PhD in Atmospheric and Envorimental Sciences, UNiversity of Edinburgh, 2019(expected)
@@ -27,7 +27,7 @@ Work experience
   
 Service and leadership
 ======
----
+___
 * 2010.10-2012.06 Member and director, College Social Practice Branch of Student Union
 * 2010.09-2012.06 Member and the chair, The Light of Information Volunteer Association.
 * 2014.09- 2016.08 Class Chiar of 2014 Postgraduate Student Class, Department of Marine Technology, OUC
