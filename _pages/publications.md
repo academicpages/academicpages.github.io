@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <Ccenter>Publications</Center>
+title: <Ccenter>Publications [Google Scholar](https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en)</Center>
 permalink: /publications/
 author_profile: true
 ---
