@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <Ccenter>Publications [Google Scholar](https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en)</Center>
+title: <Ccenter>Publications</Center>
 permalink: /publications/
 author_profile: true
 ---
@@ -14,3 +14,17 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+---
+layout: archive
+title: <Ccenter>Submitted</Center>
+permalink: /submitted/
+author_profile: true
+---
+
+---
+layout: archive
+title: <Ccenter>under preparation</Center>
+permalink: /publication-underp/
+author_profile: true
+---
