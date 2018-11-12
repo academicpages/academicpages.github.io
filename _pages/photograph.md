@@ -5,11 +5,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: ../images/mm-home-page-feature.jpg
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.13.0">Latest release v4.13.0</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Time is long but life is too short. Live like there is no tomorrow, dance like no one is watching, and look forward like nothing happened behind'
 feature_row:
   - image_path:  ../images/mm-home-page-feature.jpg
     alt: "customizable"
-    title: "Super Customizable"
+    title: "Highlights"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/archive-layout-with-content/"
     btn_class: "btn--primary"
