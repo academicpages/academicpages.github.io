@@ -120,7 +120,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -177,9 +176,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  photograph:
     output: true
     permalink: /:collection/:path/
   research:
