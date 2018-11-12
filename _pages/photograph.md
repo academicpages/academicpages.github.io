@@ -3,7 +3,7 @@ layout: splash
 permalink: /photograph/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /master/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/mm-home-page-feature.jpg
   caption:
 excerpt: 'Time is too long but life is too short. Live like there is no tomorow, dance like no one is watching, and look forward like nothing happened behind'
 feature_row:
