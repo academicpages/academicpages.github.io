@@ -11,7 +11,7 @@ feature_row:
     alt: "customizable"
     title: <center>Highlights</center>
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/photograph-sub1/"
+    url: "/pages/photograph-sub1/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: ../images/mm-home-page-feature.jpg
