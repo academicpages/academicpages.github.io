@@ -14,41 +14,6 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "fully responsive"
-    title: "Nature"
-    excerpt: "Caption for theme 2"
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /images/unsplash-gallery-image-3-th.jpg
-    alt: "100% free"
-    title: "People "
-    excerpt: "Theme 3"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /images/unsplash-gallery-image-4-th.jpg
-    alt: "100% free"
-    title: "Architecture "
-    excerpt: "Theme 4"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /images/unsplash-gallery-image-4-th.jpg
-    alt: "100% free"
-    title: "Culture "
-    excerpt: "Theme 5"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /images/unsplash-gallery-image-4-th.jpg
-    alt: "100% free"
-    title: "Animal "
-    excerpt: "Theme 6"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"    
 ---
 
 {% include feature_row id="intro" type="center" %}
