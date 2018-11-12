@@ -7,11 +7,11 @@ header:
   caption:
 excerpt: 'Time is too long but life is too short. Live like there is no tomorow, dance like no one is watching, and look forward like nothing happened behind'
 feature_row:
-  - image_path: /images/unsplash-gallery-image-1-th.jpg
+  - image_path: ../images/unsplash-gallery-image-1-th.jpg
     alt: "customizable"
     title: "Highlight"
     excerpt: "Caption for Theme 1"
-    url: "https://github.com/Alcide-Zhao/web/blob/master/docs/configuration/"
+    url: "https://github.com/Alcide-Zhao/web/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 ---
