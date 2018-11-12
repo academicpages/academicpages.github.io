@@ -5,29 +5,33 @@ header:
   overlay_color: "#5e616c"
   overlay_image: ../images/mm-home-page-feature.jpg
   caption:
-excerpt: 'Time is too long but life is too short. Live like there is no tomorow, dance like no one is watching, and look forward like nothing happened behind'
+excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.13.0">Latest release v4.13.0</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
-  - image_path: ../images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/mm-home-page-feature.jpg
     alt: "customizable"
-    title: "Highlight"
-    excerpt: "This is the first block of this page putting nature photos"
+    title: "Super Customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: ../images/unsplash-gallery-image-2-th.jpg
-    alt: "customizable"
-    title: "People"
-    excerpt: "This is the second block of this page putting people photos"
-    url: "/docs/configuration/"
+  - image_path: /assets/images/mm-home-page-feature.jpg
+    alt: "fully responsive"
+    title: "Responsive Layouts"
+    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-   - image_path: ../images/unsplash-gallery-image-3-th.jpg
-    alt: "customizable"
-    title: "Animal"
-    excerpt: "This is the third block of this page putting annimal photos"
-    url: "/docs/configuration/"
+  - image_path: /assets/images/mm-home-page-feature.jpg
+    alt: "100% free"
+    title: "100% Free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
+github:
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+intro:
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
 ---
 
 {% include feature_row id="intro" type="center" %}
