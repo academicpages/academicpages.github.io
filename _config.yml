@@ -196,13 +196,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _photograph
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
   # _pages
   - scope:
       path: ""
