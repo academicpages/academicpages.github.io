@@ -10,7 +10,21 @@ feature_row:
   - image_path: ../images/unsplash-gallery-image-1-th.jpg
     alt: "customizable"
     title: "Highlight"
-    excerpt: "Caption for Theme 1"
+    excerpt: "This is the first block of this page putting nature photos"
+    url: "../docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path: ../images/unsplash-gallery-image-2-th.jpg
+    alt: "customizable"
+    title: "People"
+    excerpt: "This is the second block of this page putting people photos"
+    url: "../docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+   - image_path: ../images/unsplash-gallery-image-3-th.jpg
+    alt: "customizable"
+    title: "Animal"
+    excerpt: "This is the third block of this page putting annimal photos"
     url: "../docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
