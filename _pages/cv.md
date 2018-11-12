@@ -29,12 +29,6 @@ Skills
 * Intermediate user of Earth System Models, including CESM and UM-UKCA
 * Skating; swaimming and gym
 
-
-* 2011.09-2012.07 Teaching Assistant at Department of Electronic Engineering, OUC
-* 2012.09-2014.06 Laboratory Assistant at Department of Electronic Engineering, OUC
-* 2014.08-2015.07 Undergraduate Student Assisting Administrator at Academic Affairs Office, OUC
-* 2017.02-2020.08 Tutor and Demonstrator at UNiversity of Edinburgh, UK
-
 Work experience
 ======
 ------
