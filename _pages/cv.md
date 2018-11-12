@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <center>CV</center>
+title: <center>Curriculum Vitae</center>
 header:
   overlay_color: "#5e616c"
   overlay_image: ../images/mm-home-page-feature-2.gif
