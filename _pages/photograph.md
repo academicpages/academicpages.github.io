@@ -38,6 +38,20 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
+  - image_path: /images/unsplash-gallery-image-4-th.jpg
+    alt: "100% free"
+    title: "Theme 5 "
+    excerpt: "Theme 5"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path: /images/unsplash-gallery-image-4-th.jpg
+    alt: "100% free"
+    title: "Theme 6 "
+    excerpt: "Theme 6"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"    
 ---
 
 {% include feature_row id="intro" type="center" %}
