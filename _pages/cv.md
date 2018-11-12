@@ -1,6 +1,9 @@
 ---
 layout: archive
 title: <center>CV</center>
+header:
+  overlay_color: "#5e616c"
+  overlay_image: ../images/mm-home-page-feature-2.gif
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,22 +15,44 @@ redirect_from:
 Education
 ======
 ------
-* B.S. in Oceanography, Ocean University of China, 2014 (Shandong Province Excellent graduat)
-* M.S. in Satellite Ocean Remote Sensing, Ocean University of China, 2016
-* PhD in Atmospheric and Envorimental Sciences, UNiversity of Edinburgh, 2019(expected)
+* B.S. in Oceanography, Ocean University of China, 2014 (Excellent Graduate of Shandong Province)
+* M.S. in Satellite Ocean Remote Sensing, Ocean University of China, 2016 (Excellent PostGraduate of Shandong Province)
+* PhD in Atmospheric and Envorimental Sciences, UNiversity of Edinburgh, 2019 (expected)
 
-Work experience
+Skills
 ======
 ------
-* 2011.09-2012.07 Teaching Assistant atDepartment of Electronic Engineering, OUC
+* Native in Mandarin Chinese and fluent in English 
+* Proficient in python, MATLAB and C++ coding, data processing and interpretation; Good user of FORTRAN programming
+* Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer; 
+* Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems; 
+* Intermediate user of Earth System Models, including CESM and UM-UKCA
+* Skating; swaimming and gym
+
+
+* 2011.09-2012.07 Teaching Assistant at Department of Electronic Engineering, OUC
 * 2012.09-2014.06 Laboratory Assistant at Department of Electronic Engineering, OUC
 * 2014.08-2015.07 Undergraduate Student Assisting Administrator at Academic Affairs Office, OUC
 * 2017.02-2020.08 Tutor and Demonstrator at UNiversity of Edinburgh, UK
 
+Work experience
+======
+------
+* 2011.09-2012.07 Teaching Assistant at Department of Electronic Engineering, OUC
+* 2012.09-2014.06 Laboratory Assistant at Department of Electronic Engineering, OUC
+* 2014.08-2015.07 Undergraduate Student Assisting Administrator at Academic Affairs Office, OUC
+* 2017.02-2020.08 Tutor and Demonstrator at UNiversity of Edinburgh, UK
+
+Trainings
+======
+------
+* NCAS-CMS Unified Model training course, December 2016, University of Reading, UK
+* The United Kingdom Chemistry and Aerosols (UKCA) Model Training, January 2017, University of Cambridge, UK, fully-funded
+* The Second ACAM Training School: Observations and Modelling of Atmospheric Chemistry and Aerosols in the Asian Monsoon Region, June 2017, Guangzhou, China, fully-funded
+* NCAS 2017 Climate Modelling Summer School, September 2017, University of Cambridge, UK, fully-funded
   
 Service and leadership
 ======
 ______
-* 2010.10-2012.06 Member and director, College Social Practice Branch of Student Union
 * 2010.09-2012.06 Member and the chair, The Light of Information Volunteer Association.
-* 2014.09- 2016.08 Class Chiar of 2014 Postgraduate Student Class, Department of Marine Technology, OUC
+* 2014.09-2016.08 Chiar of 2014 Postgraduate Student Class, Department of Marine Technology, OUC
