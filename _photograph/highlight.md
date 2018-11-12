@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /photograph/highlights/
+permalink: /photograph/highlight/
 header:
   overlay_color: "#5e616c"
   overlay_image: ../images/mm-home-page-feature.jpg
