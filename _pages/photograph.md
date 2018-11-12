@@ -11,7 +11,7 @@ feature_row:
     alt: "customizable"
     title: "Highlight"
     excerpt: "Caption for Theme 1"
-    url: "https://github.com/Alcide-Zhao/web/docs/configuration/"
+    url: "../docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 ---
