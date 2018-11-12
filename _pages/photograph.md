@@ -11,7 +11,7 @@ feature_row:
     alt: "customizable"
     title: "Super Customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    url: "../docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-home-page-feature.jpg
