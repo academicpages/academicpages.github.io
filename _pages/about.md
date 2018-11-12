@@ -4,8 +4,7 @@ title: <center>Welcome, Genius</center>
 header:
   overlay_color: "#5e616c"
   overlay_image: ../images/mm-home-page-feature.jpg
-  caption: "Greetings from ALCIDE ZHAO"
-excerpt: 'Time is long but life is too short. Live like there is no tomorrow, dance like no one is watching, and look forward like nothing happened behind'
+excerpt: <center>Time is long but life is too short. Live like there is no tomorrow, dance like no one is watching, and look forward like nothing happened behind</center>
 author_profile: true
 redirect_from: 
   - /about/
