@@ -120,7 +120,8 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
+  - _photograph
+  - _Research
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -173,16 +174,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  people:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  photograph:
     output: true
     permalink: /:collection/:path/
-  talks:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -200,6 +201,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _photograph
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _pages
   - scope:
       path: ""
