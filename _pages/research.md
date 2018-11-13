@@ -1,7 +1,7 @@
 ---
 layout: archive
 tittle: <center>Today might be worse, but tomorrow can be better</center>
-permalink: /research/highlight/
+permalink: /research/
 author_profile: false
 sidebar:
   nav: "sidenav"
