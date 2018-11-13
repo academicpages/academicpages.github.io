@@ -23,7 +23,7 @@ In this page, you can find information related to my experience,  skills, studie
   using Mixed Reality.
   * **Advisors**: Dr. Carlos González Morcillo and PhD. Santiago Sánchez Sobrino.
 
-## Work experience
+## Professional experience
 * **Microsoft HoloLens developer**
   * **Date**: July, 2017 - March, 2018.
   * **Place**: Furious Koalas Interactive, Ciudad Real, Spain.
