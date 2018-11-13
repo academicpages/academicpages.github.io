@@ -1,5 +1,6 @@
 ---
 layout: arcive
+tittle: ""
 permalink: /docs/research-tropical-cyclones/
 feature_row:
   - image_path:  ../images/mm-home-page-feature.jpg
