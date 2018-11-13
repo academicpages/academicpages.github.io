@@ -7,7 +7,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> About me"
       url: "/cv/"
-excerpt: " Time is long but life is short. Live like there is no tomorrow, dance like no one is watching, and look forward like nothing happened behind."                                                                                                                                                  
+excerpt: <enter>Time is long but life is short. Live like there is no tomorrow, dance like no one is watching, and look forward like nothing happened behind.</enter>                                                                                                                                                  
 author_profile: true
 redirect_from: 
   - /about/
