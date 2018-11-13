@@ -6,7 +6,7 @@ header:
   overlay_image: ../images/mm-home-page-feature..gif
   actions:
     - label: "<i class='fas fa-download'></i> Install Now"
-      url: https://alcide-zhao.github.io/web/cv/
+      url: "https://alcide-zhao.github.io/web/cv/"
 excerpt: <enter>Time is long but life is short. Live like there is no tomorrow, dance like no one is watching, and look forward like nothing happened behind.</enter>                                                                                                                                                  
 author_profile: true
 redirect_from: 
