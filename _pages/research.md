@@ -5,9 +5,6 @@ permalink: /research/research-highlight/
 author_profile: false
 sidebar:
   nav: "sidenav"
-header:
-  overlay_color: "#5e616c"
-  overlay_image: ../images/mm-research-feature.jpg
 feature_row:
   - image_path:  ../images/mm-home-page-feature.jpg
     alt: "customizable"
