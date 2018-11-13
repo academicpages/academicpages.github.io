@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /research/highlight/
+permalink: /research/research-highlight/
 author_profile: false
 sidebar:
   nav: "sidenav"
