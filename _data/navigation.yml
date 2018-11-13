@@ -42,7 +42,7 @@ sidenav:
       - title: "Submitted"
         url: /publication/submitted/
       - title: "In Preparation"
-        url: /publication/under-prep/   
+        url: /publication/under-prep/
       - title: "Talks"
         url: /publication/ptalks/
       - title: "Posters"
@@ -53,20 +53,20 @@ sidenav:
       - title: "Unix & Shell"
         url: /coding/unix-shell/
       - title: "Version Control"
-         url: /coding/versio-control/ 
+         url: /coding/versio-control/
       - title: "Python"
         url: /coding/python/
       - title: "Fortran"
         url: /coding/fortran/
       - title: "MPI"
-        url: /coding/mpi/   
+        url: /coding/mpi/
   - title: "Modelling"
-    url: /modelling/  
+    url: /modelling/
   - title: "Resources"
-    url: /resources/    
+    url: /resources/
       - title: "Data"
         url: /rsc/data/
       - title: "Tools"
-         url: /rsc/tools/ 
+         url: /rsc/tools/
       - title: "Others"
         url: /rsc/others/
