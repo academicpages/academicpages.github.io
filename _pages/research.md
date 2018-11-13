@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 permalink: /research/research-highlight/
 author_profile: false
 sidebar:
