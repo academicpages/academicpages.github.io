@@ -35,8 +35,7 @@ sidenav:
       - title: "Climate Extremes"
         url: /research/climate-extremes/
       - title: "Air pollution"
-        url: /research/air-pollution/    
-        
+        url: /research/air-pollution/          
   - title: "Publications"
     url: /publications/
     children:
@@ -48,18 +47,26 @@ sidenav:
         url: /publication/ptalks/
       - title: "Posters"
         url: /publication/Posters/
-  
   - title: "Coding"
     url: /coding/
-    
+    children:
+      - title: "Unix & Shell"
+        url: /coding/unix-shell/
+      - title: "Version Control"
+         url: /coding/versio-control/ 
+      - title: "Python"
+        url: /coding/python/
+      - title: "Fortran"
+        url: /coding/fortran/
+      - title: "MPI"
+        url: /coding/mpi/   
   - title: "Modelling"
     url: /modelling/  
-    
   - title: "Resources"
     url: /resources/    
-    
-  - title: "Photograph"
-    url: /photograph/
-        
-  - title: "Blog"
-    url: /year-archive/
+      - title: "Data"
+        url: /rsc/data/
+      - title: "Tools"
+         url: /rsc/tools/ 
+      - title: "Others"
+        url: /rsc/others/
