@@ -2,7 +2,9 @@
 layout: archive
 title: <center>Publications</center>
 permalink: /publications/
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "sidenav"
 ---
 
 {% if author.googlescholar %}
