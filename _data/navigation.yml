@@ -31,26 +31,26 @@ sidenav:
     url: /research/
     children:
       - title: "Highlight"
-        url: /research/research-highlight/
+        url: /research/
       - title: "Tropical Cyclones"
-        url: /docs/research-tropical-cyclones/
+        url: /research/tropical-cyclones/
       - title: "Climate Extremes"
-        url: /docs/research-climate-extremes/
+        url: /research/climate-extremes/
       - title: "Air pollution"
-        url: /docs/research-air-pollution/    
+        url: /research/air-pollution/    
         
   - title: "Publications"
     children:
       - title: "Published"
         url: /publications/
       - title: "Submitted"
-        url: /docs/publication-submitted/
+        url: /publication/submitted/
       - title: "In Preparation"
-        url: /docs/publication-under-prep/   
+        url: /publication/under-prep/   
       - title: "Talks"
-        url: /docs/publication-talks/
+        url: /publication/ptalks/
       - title: "Posters"
-        url: /docs/publication-Posters/
+        url: /publication/Posters/
   
   - title: "Coding"
     url: /coding/
