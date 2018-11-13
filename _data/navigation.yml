@@ -44,9 +44,11 @@ sidenav:
         
   - title: "Publications"
     children:
+      - title: "Published"
+        url: /publications/
       - title: "Submitted"
         url: /docs/publication-submitted/
-      - title: "Under Preparation"
+      - title: "In Preparation"
         url: /docs/publication-under-prep/   
       - title: "Talks"
         url: /docs/publication-talks/
