@@ -1,5 +1,5 @@
 ---
-layout: arcive
+layout: single
 tittle: ""
 permalink: /research/tropical-cyclones/
 feature_row:
