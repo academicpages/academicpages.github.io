@@ -4,7 +4,7 @@ main:
     url: /cv/
     
   - title: "Research"
-    url: /research/research-highlight/
+    url: /research/
     
   - title: "Publications"
     url: /publications/   
@@ -30,8 +30,6 @@ sidenav:
   - title: "Research"
     url: /research/
     children:
-      - title: "Highlight"
-        url: /research/
       - title: "Tropical Cyclones"
         url: /research/tropical-cyclones/
       - title: "Climate Extremes"
@@ -40,9 +38,8 @@ sidenav:
         url: /research/air-pollution/    
         
   - title: "Publications"
+    url: /publications/
     children:
-      - title: "Published"
-        url: /publications/
       - title: "Submitted"
         url: /publication/submitted/
       - title: "In Preparation"
