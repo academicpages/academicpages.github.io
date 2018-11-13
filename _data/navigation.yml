@@ -53,7 +53,7 @@ sidenav:
       - title: "Unix & Shell"
         url: /coding/unix-shell/
       - title: "Version Control"
-         url: /coding/versio-control/
+        url: /coding/versio-control/
       - title: "Python"
         url: /coding/python/
       - title: "Fortran"
@@ -64,9 +64,10 @@ sidenav:
     url: /modelling/
   - title: "Resources"
     url: /resources/
+    children:
       - title: "Data"
         url: /rsc/data/
       - title: "Tools"
-         url: /rsc/tools/
+        url: /rsc/tools/
       - title: "Others"
         url: /rsc/others/
