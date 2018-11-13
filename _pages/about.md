@@ -18,6 +18,7 @@ redirect_from:
 
 
 # Recent News
+* November 3, 2019. One [paper](http://lantaoyu.com/publications/RLSGAAAI19) accepted to AAAI 2019.
 * July 17, 2018. I will serve as a PC member for the 33rd AAAI Conference on Artificial Intelligence (AAAI-19).
 * April 12, 2018. New preprint: "CoT: Cooperative Training for Generative Modeling", a new paradigm for training tractable density generative model that is parallel to adversarial training. Available on [arXiv](https://arxiv.org/abs/1804.03782).
 * November 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*.
