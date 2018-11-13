@@ -13,7 +13,7 @@ name                     : &name "Alcide Zhao"
 description              : &description "Research PhD at University of Edinburgh"
 url                      : https://alcidedz.github.io/web/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alcidedz/web/"
+repository               : "AlcideDZ/web/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         : "alcide.zhao"
   foursquare       :
-  github           : "Alcide-Zhao"
+  github           : "AlcideDZ"
   google_plus      :
   keybase          :
   instagram        :
