@@ -4,7 +4,11 @@ title: <center>Hey, You Genius</center>
 header:
   overlay_color: "#5e616c"
   overlay_image: ../images/mm-home-page-feature..gif
-excerpt: <span style=“color:green;”>Time is long but life is too short. Live like there is no tomorrow, dance like no one is watching, and look forward like nothing happened behind</span>
+excerpt: "                                                                                                                                                                                                        
+
+
+
+"
 author_profile: true
 redirect_from: 
   - /about/
