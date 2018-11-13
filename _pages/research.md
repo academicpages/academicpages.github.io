@@ -1,5 +1,6 @@
 ---
 layout: archive
+tittle: <center>Today might be worse, but tomorrow can be better</center>
 permalink: /research/research-highlight/
 author_profile: false
 sidebar:
