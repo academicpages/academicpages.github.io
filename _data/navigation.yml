@@ -23,3 +23,47 @@ main:
         
   - title: "Blog"
     url: /year-archive/
+
+
+# sidenav links links
+sidenav:
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Highlight"
+        url: /docs/research-highligh/
+      - title: "Tropical Cyclones"
+        url: /docs/research-tropical-cyclones/
+      - title: "Climate Extremes"
+        url: /docs/research-climate-extremes/
+      - title: "Air pollution"
+        url: /docs/research-air-pollution/    
+        
+  - title: "Publications"
+    children:
+      - title: "Submitted"
+        url: /docs/publication-submitted/
+      - title: "Under Preparation"
+        url: /docs/publication-under-prep/   
+      - title: "Talks"
+        url: /docs/publication-talks/
+      - title: "Posters"
+        url: /docs/publication-Posters/
+  
+  - title: "Coding"
+    url: /coding/
+    
+  - title: "Modelling"
+    url: /modelling/  
+    
+  - title: "Resources"
+    url: /resources/    
+    
+  - title: "Photograph"
+    url: /photograph/
+        
+  - title: "Blog"
+    url: /year-archive/
