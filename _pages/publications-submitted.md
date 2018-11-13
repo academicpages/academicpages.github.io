@@ -1,7 +1,7 @@
 ---
 layout: single
 title: <center>Submitted & In Review</center>
-permalink: /publications/submitted/
+permalink: /publication/submitted/
 author_profile: false
 sidebar:
   nav: "sidenav"
