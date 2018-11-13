@@ -18,14 +18,13 @@ redirect_from:
 
 
 # Recent News
-* November 3, 2019. One [paper](http://lantaoyu.com/publications/RLSGAAAI19) accepted to AAAI 2019.
+* November 3, 2018. One [paper](http://lantaoyu.com/publications/RLSGAAAI19) accepted to AAAI 2019.
 * July 17, 2018. I will serve as a PC member for the 33rd AAAI Conference on Artificial Intelligence (AAAI-19).
 * April 12, 2018. New preprint: "CoT: Cooperative Training for Generative Modeling", a new paradigm for training tractable density generative model that is parallel to adversarial training. Available on [arXiv](https://arxiv.org/abs/1804.03782).
 * November 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*.
 * November 12, 2017. A paper was accepted in the *AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop*.
 * September 17, 2017. New preprint: An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning. Available on [arXiv](https://arxiv.org/abs/1709.04511)
 * August 25, 2017. We started the [Multi-Agent Reinforcement Learning reading group](https://feifang.info/marl-reading-group/).
-* August 15, 2017. I started to work as a research intern at Carnegie Mellon University for the next six months.
 * August 9, 2017. I won the [Best Paper Award Honorable Mention](https://lantaoyu.github.io/files/sigir17-award.jpg) at [SIGIR 2017](http://sigir.org/sigir2017/program/awards/).
 * August 6 - August 12, 2017. I attended the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval held in Tokyo, Japan.
 * July 26, 2017. I gave an [online talk](https://zhuanlan.zhihu.com/p/28151434) on ["Generative Adversarial Networks for Discrete Data"](http://lantaoyu.com/files/2017-07-26-gan-for-discrete-data.pdf) at [PaperWeekly](https://zhuanlan.zhihu.com/paperweekly).
