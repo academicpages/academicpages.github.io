@@ -9,13 +9,15 @@
 <table border="0">
   <tr>
     <td>
-      <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
+      <div class="paper_thumbnail">
+        <img src=
+            {% if teaser contains "://" %}
+              "{{ teaser }}"
+            {% else %}
+              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+            {% endif %}
+            alt="">
+      </div>
     </td>
     <td>
 {% if post.id %}
