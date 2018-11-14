@@ -8,7 +8,8 @@ venue: 14th Asian Conference on Computer Vision
 paperurl: 
 citation: 
 youtubeId: bZ0ZKido0Ag
-imagePath: /images/youtube_thumbnail.png
+header:
+   teaser:/images/youtube_thumbnail.png
 ---
 
 <a href="https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf" target="_blank"><b>PDF</b></a>&emsp;
