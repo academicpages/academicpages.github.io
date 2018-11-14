@@ -37,6 +37,14 @@ h2 {
   font-size: $type-size-4;
 }
 
+h2.publications_h2 {
+  margin: 0 0 0;
+}
+
+h2.publications_h2:hover {
+  text-decoration: underline;
+}
+
 h3 {
   font-size: $type-size-5;
 }
@@ -59,6 +67,10 @@ small, .small {
 
 p {
   margin-bottom: 1.3em;
+}
+
+p.publications_p {
+  margin: 0.1em 0.1em 0.1em
 }
 
 u,
@@ -177,12 +189,6 @@ li ol {
    ========================================================================== */
 
 /* Figures and images */
-
-img.paper_thumbnail {
-display: block;
-width: 100%;
-height: auto;
-}
 
 figure {
   display: -webkit-box;

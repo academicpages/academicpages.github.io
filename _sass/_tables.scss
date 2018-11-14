@@ -42,10 +42,10 @@ tr, td, th {
    ========================================================================== */
 
 table.publications_table {
-  margin-bottom: 0.1em;
+  margin-bottom: 0em;
   width: 100%;
   font-family: $global-font-family;
-  font-size: $type-size-8;
+  font-size: 100%;
   border-collapse: collapse;
   border: none;
 
@@ -65,11 +65,11 @@ table.publications_table th {
 }
 
 table.publications_table td {
-  padding: 0.1em;
+  padding: 0.5em;
   text-align: left;
   border-bottom: none;
+  border-top: 1px solid $light-gray;
   border-right: none;
-
 }
 
 .thumbnail_col {
