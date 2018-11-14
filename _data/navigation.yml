@@ -7,7 +7,16 @@ main:
     url: /research/
     
   - title: "Publications"
-    url: /publications/   
+    url: /publications/
+    children:
+      - title: "Submitted"
+        url: /publication/submitted/
+      - title: "In Preparation"
+        url: /publication/under-prep/
+      - title: "Talks"
+        url: /publication/ptalks/
+      - title: "Posters"
+        url: /publication/Posters/
       
   - title: "Coding"
     url: /coding/  
