@@ -6,20 +6,6 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-<table border="0">
-  <tr>
-    <td>
-      <div class="paper_thumbnail">
-        <img src=
-            {% if teaser contains "://" %}
-              "{{ teaser }}"
-            {% else %}
-              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-            {% endif %}
-            alt="">
-      </div>
-    </td>
-    <td>
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -76,6 +62,3 @@
 
   </article>
 </div>
-    </td>
-  </tr>
-</table>
