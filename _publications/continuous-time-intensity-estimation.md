@@ -10,6 +10,7 @@ citation:
 youtubeId: bZ0ZKido0Ag
 header:
    teaser:/images/youtube_thumbnail.png
+type: "grid"
 ---
 
 <a href="https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf" target="_blank"><b>PDF</b></a>&emsp;
