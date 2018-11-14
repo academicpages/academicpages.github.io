@@ -12,6 +12,7 @@
   </colgroup>
   <tr>
     <td>
+      <a href="{{ base_path }}{{ post.url }}">
       <img class="paper_thumbnail"
            src=
           {% if teaser contains "://" %}
@@ -20,6 +21,7 @@
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
           alt="">
+      </a>
     </td>
     <td>
 {% if post.id %}
