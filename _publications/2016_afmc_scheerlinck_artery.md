@@ -7,6 +7,8 @@ date: 2016-12-05
 venue: '20th Australasian Fluid Mechanics Conference'
 paperurl: 
 citation:
+header:
+   teaser: thumbnail_artery.png
 ---
 
 <a href="http://cedric-scheerlinck.github.io/files/2016_afmc_scheerlinck_artery.pdf" target="_blank"><b>PDF</b></a>&emsp;
