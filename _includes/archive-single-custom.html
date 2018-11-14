@@ -7,17 +7,19 @@
 {% endif %}
 
 <table class="publications_table">
+  <colgroup>
+    <col span="1" class="thumbnail_col">
+  </colgroup>
   <tr>
     <td>
-      <div class="paper_thumbnail">
-        <img src=
-            {% if teaser contains "://" %}
-              "{{ teaser }}"
-            {% else %}
-              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-            {% endif %}
-            alt="">
-      </div>
+      <img class="paper_thumbnail"
+           src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
     </td>
     <td>
 {% if post.id %}
