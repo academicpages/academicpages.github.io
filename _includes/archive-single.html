@@ -7,6 +7,7 @@
 {% endif %}
 
 {% if post.id %}
+<img src="{{ post.imagePath | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
