@@ -178,6 +178,12 @@ li ol {
 
 /* Figures and images */
 
+img.paper_thumbnail {
+display: block;
+width: 100%;
+height: auto;
+}
+
 figure {
   display: -webkit-box;
   display: flex;
