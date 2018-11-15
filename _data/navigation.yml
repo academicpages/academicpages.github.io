@@ -8,7 +8,7 @@ main:
     
   - title: "Publications"
     url: /publications/
-    children:
+    sublinks:
       - title: "Submitted"
         url: /publication/submitted/
       - title: "In Preparation"
