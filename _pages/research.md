@@ -20,6 +20,13 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
+  - image_path: ../images/mm-home-page-feature.jpg
+    alt: "fully responsive"
+    title: <center>Responsive Layouts</center>
+    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
 ---
 
 {% include feature_row id="intro" type="center" %}
