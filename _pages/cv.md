@@ -23,7 +23,7 @@ Skills
 ======
 ------
 * Native in Mandarin Chinese and fluent in English 
-* Proficient in python, MATLAB and C++ coding, data processing and interpretation; Good user of FORTRAN programming
+* fluent in python, MATLAB and C++ coding, data processing and interpretation; Good user of FORTRAN programming
 * Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer; 
 * Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems; 
 * Intermediate user of Earth System Models, including CESM and UM-UKCA
@@ -40,11 +40,14 @@ Work experience
 Trainings
 ======
 ------
-* NCAS-CMS Unified Model training course, December 2016, University of Reading, UK
+* NCAS-CMS Unified Model training course, December 2016, University of Reading, UK, fully-funded
 * The United Kingdom Chemistry and Aerosols (UKCA) Model Training, January 2017, University of Cambridge, UK, fully-funded
 * The Second ACAM Training School: Observations and Modelling of Atmospheric Chemistry and Aerosols in the Asian Monsoon Region, June 2017, Guangzhou, China, fully-funded
 * NCAS 2017 Climate Modelling Summer School, September 2017, University of Cambridge, UK, fully-funded
-  
+* EPCC Message-Passing Programming with MPI course, November 20018, Edinburgh, UK
+* NERC Numerical Earth Sciences Modelling (NNESMO) course, January 2019, University of Durham, UK, fully-funded
+
+
 Service and leadership
 ======
 ______
