@@ -8,15 +8,6 @@ main:
     
   - title: "Publications"
     url: /publications/
-    sublinks:
-      - title: "Submitted"
-        url: /publication/submitted/
-      - title: "In Preparation"
-        url: /publication/under-prep/
-      - title: "Talks"
-        url: /publication/ptalks/
-      - title: "Posters"
-        url: /publication/Posters/
       
   - title: "Coding"
     url: /coding/  
@@ -52,10 +43,8 @@ sidenav:
         url: /publication/submitted/
       - title: "In Preparation"
         url: /publication/under-prep/
-      - title: "Talks"
-        url: /publication/ptalks/
-      - title: "Posters"
-        url: /publication/Posters/
+      - title: "Presentations"
+        url: /publication/presentations/
   - title: "Coding"
     url: /coding/
     children:
