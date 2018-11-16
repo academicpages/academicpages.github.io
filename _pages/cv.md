@@ -13,7 +13,7 @@ redirect_from:
 
 {% include base_path %}
 
-""The best moments of reading are, when you come across with something, a thought, a feeling, a way of looking at your life, that you would thought special, particular to you, while here it is, set down by someone else. A person you never met, a person who may long dead. And, it is as if a hand has come out and taken yours. By the end of the story, it is like seeing a bunch of friends away, and when you ask if they will come back again, they would say yes and no.""
+## The best moments of reading are, when you come across with something, a thought, a feeling, a way of looking at your life, that you would thought special, particular to you, while here it is, set down by someone else. A person you never met, a person who may long dead. And, it is as if a hand has come out and taken yours. By the end of the story, it is like seeing a bunch of friends away, and when you ask if they will come back again, they would say yes and no.
 {: .notice--danger}
 
 Education
