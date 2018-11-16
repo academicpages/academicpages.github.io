@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /
 title: <center>Hey, You Genius</center>
 header:
