@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> About Me"
       url: "/cv/"
   caption:
-excerpt: What is the use of having developed a science well enough to make predictions if, in the end, all we are willing to do is stand around and wait for them to come tru? Not even mention that science is to be suspected but not to be believed。                                   
+excerpt: What is the use of having developed a science well enough to make predictions if, in the end, all we are willing to do is stand around and wait for them to come tru? Not even mention that science is to be suspected but not to be believed                                 
 author_profile: true
 redirect_from: 
   - /about/
