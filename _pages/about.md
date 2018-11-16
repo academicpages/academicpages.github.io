@@ -3,7 +3,7 @@ permalink: /
 title: <center>Hey, You Genius</center>
 header:
   overlay_color: "#5e616c"
-  overlay_image: ../images/mm-home-page-feature..gif
+  overlay_image: ../images/ezgif.com-video-to-gif
   actions:
     - label: "<i class='fas fa-download'></i> Install Now"
       url: "https://alcidedz.github.io/web/cv/"
