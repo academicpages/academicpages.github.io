@@ -11,4 +11,4 @@ sidebar:
 
 002: Alcide Zhao et, How have technology advancmeents and energy consumption influenced anthropogenic aerosol emissions and climate during 1970-2010
 
-003: Alcide Zhao et. On air pollution, premature mortality and crop yield related to anthropogenic emissions due to technology advancmeents and energy consumption
+003: Alcide Zhao et. On air pollution, premature mortality and crop yield related to anthropogenic emissions due to climate change,technology advancmeents and energy consumption over 1970-2010
