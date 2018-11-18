@@ -1,6 +1,6 @@
 ---
-layout: splash
-permalink: /photograph/
+layout: archive
+permalink: /research/
 title: 'Time is long but life is  short'
 header:
   overlay_color: "#5e616c"
