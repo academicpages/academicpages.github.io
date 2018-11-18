@@ -14,14 +14,14 @@ feature_row:
     btn_label: "Read More"
   - image_path: ../images/research-highlight-2.jpg
     alt: "precipitation"
-    title: <center>Precipitation extremes</center>
+    title: <center>Precipitation Extremes</center>
     excerpt: 'The Asian monsoon region would become progressively warmer and wetter in the future under RCP8.5, while precipitation extremes will be significantly aggravated due to anthropogenic aerosol mitigation, particularly over East Asia. Sensitivities of changes in precipitation mean and extremes to local warming from aerosol reductions are much larger than that from greenhouse gas increases.'
     url: "//publications/2018-01-paper-title-number-4/"
     btn_class: "btn--primary"
     btn_label: "Read More"
   - image_path: ../images/research-highlight-3.jpg
     alt: "Cyclone"
-    title: <center>TC surface winds</center>
+    title: <center>TC Surface Winds</center>
     excerpt: 'The surface wind structure of tropical cyclones are estimated from satellute infrared images and compared with satellite scatterometer (QuickSCAT, HY-2A/SCAT)'
     url: "//publications/2016-03-paper-title-number-3/"
     btn_class: "btn--primary"
@@ -29,6 +29,6 @@ feature_row:
 
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row %}
