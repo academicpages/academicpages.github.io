@@ -1,34 +1,27 @@
 ---
 layout: archive
-tittle: <center>Today might be worse, but tomorrow can be better</center>
+tittle: 
 permalink: /research/
 author_profile: false
 sidebar:
   nav: "sidenav"
 feature_row:
   - image_path:  ../images/mm-home-page-feature.jpg
-    alt: "customizable"
-    title: <center>Highlights</center>
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/photograph/highlights/"
+    alt: "heatwave"
+    title: <center>Future heatwaaves</center>
+    excerpt: "There will be more severe, frequent and longer heatwaves in the future across the globe with warming from greenhouse gas increases and aerosol reductions"
+    url: "/research/highlight/heatwaves/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Read More"
   - image_path: ../images/mm-home-page-feature.jpg
-    alt: "fully responsive"
-    title: <center>Responsive Layouts</center>
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: ../images/mm-home-page-feature.jpg
-    alt: "fully responsive"
-    title: <center>Responsive Layouts</center>
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "Precipitation extremes"
+    title: <center>Precipitation extremes</center>
+    excerpt: "Mean and extreme precipitation in the Asian Monsoon Region in the future will increase from both greenhouse gase increases and aerosol reductions, with different mechanisms"
+    url: "/research/highlight/precipitation/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row typr="left"%}
