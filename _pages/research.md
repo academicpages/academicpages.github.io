@@ -21,6 +21,6 @@ feature_row:
     btn_label: "Read More"
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row type="left" %}
+{% include feature_row type="center" %}
