@@ -1,12 +1,9 @@
 ---
 layout: archive
 permalink: /research/
-title: 'Time is long but life is  short'
-header:
-  overlay_color: "#5e616c"
-  overlay_image: ../images/mm-home-page-feature.jpg
-  caption:
-excerpt: 'Live like there is no tomorrow, dance like no one is watching, and look forward like nothing happened behind'
+author_profile: false
+sidebar:
+  nav: "sidenav"
 feature_row:
   - image_path:  ../images/mm-home-page-feature.jpg
     alt: "customizable"
@@ -31,6 +28,6 @@ feature_row:
     btn_label: "Learn More"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row type="left" %}
