@@ -9,7 +9,7 @@ feature_row:
   - image_path:  ../images/mm-home-page-feature.jpg
     alt: "heatwave"
     title: <center>Future heatwaaves</center>
-    excerpt: "There will be more severe, frequent and longer heatwaves in the future across the globe with warming from greenhouse gas increases and aerosol reductions"
+    excerpt: "There will be more severe, frequent and longer heatwaves in the future across the globe with warming from greenhouse gas increases and aerosol reductions `type="left"`"
     url: "/research/highlight/heatwaves/"
     btn_class: "btn--primary"
     btn_label: "Read More"
@@ -17,7 +17,7 @@ feature_row2:
   - image_path: ../images/mm-home-page-feature.jpg
     alt: "Precipitation extremes"
     title: <center>Precipitation extremes</center>
-    excerpt: "Mean and extreme precipitation in the Asian Monsoon Region in the future will increase from both greenhouse gase increases and aerosol reductions, with different mechanisms"
+    excerpt: "Mean and extreme precipitation in the Asian Monsoon Region in the future will increase from both greenhouse gase increases and aerosol reductions, with different mechanisms `type="left"`"
     url: "/research/highlight/precipitation/"
     btn_class: "btn--primary"
     btn_label: "Read More"
