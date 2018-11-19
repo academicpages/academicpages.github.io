@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /coding/shell/
+permalink: /coding/unix-shell/
 author_profile: false
 sidebar:
   nav: "sidenav"
