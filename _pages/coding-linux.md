@@ -9,7 +9,7 @@ toc: true
 
 # Introduction to Linux Shell and Shell Scripting
 Before understanding shell scripting we have to get familiar with following terminologies –
-- `Kernel
+- Kernel
 - Shell
 - Terminal
 
