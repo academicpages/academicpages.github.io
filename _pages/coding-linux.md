@@ -14,17 +14,30 @@ UNIX is an operating system which was first developed in the 1960s, and has been
 ## The UNIX operating system 
 The UNIX operating system is made up of three parts; the kernel, the shell and the programs. 
 
-### The kernel
+- [The kernel](https://en.wikipedia.org/wiki/Linux_kernel)
+- [The shell](https://en.wikipedia.org/wiki/Unix_shell): E.g. the most common [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) shell.
+- Files. Everything in UNIX are files. All the files are grouped together in the directory structure. The file-system is arranged in a hierarchical structure, like an inverted tree. The top of the hierarchy is traditionally called root (written as a slash / )
 
-The kernel of UNIX is the hub of the operating system: it allocates time and memory to programs and handles the filestore and communications in response to system calls.
+## Basic Operations
 
-As an illustration of the way that the shell and the kernel work together, suppose a user types rm myfile (which has the effect of removing the file myfile). The shell searches the filestore for the file containing the program rm, and then requests the kernel, through system calls, to execute the program rm on myfile. When the process rm myfile has finished running, the shell then returns the UNIX prompt % to the user, indicating that it is waiting for further commands.
+### Listing files and directories 
+To find out what is in your home directory, type 
+```ruby
+ls
+```
+To list all files in your home directory including those whose names begin with a dot, type 
+```ruby
+ls -a
+```
+### make directory
+To make a subdirectory called unixstuff in your current working directory type
+```ruby
+mkdir unixstuff 
+```
+### Change to directory
+To change to the directory, note ./ is the current directory and ../ goes to the parent directory
+```ruby
+cd ./../../directory_name 
+```
 
-### The shell
-
-The shell acts as an interface between the user and the kernel. When a user logs in, the login program checks the username and password, and then starts another program called the shell. The shell is a command line interpreter (CLI). It interprets the commands the user types in and arranges for them to be carried out. The commands are themselves programs: when they terminate, the shell gives the user another prompt (% on our systems).
-
-## Files and processes 
-
-Everything in UNIX is file. A file is a collection of data. They are created by users using text editors, running compilers etc.All the files are grouped together in the directory structure. The file-system is arranged in a hierarchical structure, like an inverted tree. The top of the hierarchy is traditionally called root (written as a slash / ) 
 
