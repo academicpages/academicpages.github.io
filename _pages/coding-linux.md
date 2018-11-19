@@ -20,29 +20,7 @@ The UNIX operating system is made up of three parts; the kernel, the shell and t
 
 ## Basic Operations
 
-### Listing files and directories 
-To find out what is in your home directory, type 
-```ruby
-ls
-```
-To list all files in your home directory including those whose names begin with a dot, type 
-```ruby
-ls -a
-```
-### make directory
-To make a subdirectory called unixstuff in your current working directory type
-```ruby
-mkdir unixstuff 
-```
-### Change to directory
-To change to the directory, note ./ is the current directory and ../ goes to the parent directory, and ~ goes to the home directory
-```ruby
-cd ./../../directory_name 
-```
-### show current pathway
-```ruby
-pwd 
-```
+The Basi UNix Command can be found [here](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
 
 
 
