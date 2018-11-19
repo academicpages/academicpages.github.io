@@ -17,6 +17,7 @@ redirect_from:
 ---
 
 I am currently a PhD student at [School of GeoSciences](https://www.ed.ac.uk/geosciences), [The University of Edinburgh](https://www.ed.ac.uk/). I am working with [David Stevenson](https://www.geos.ed.ac.uk/homes/dstevens) and [Massimo Bollasina](https://www.geos.ed.ac.uk/people/person.html?indv=3627&ri=1) on modelling the links between air pollutants and climate extremes. The project is co-funded by [The University of Edinburgh](https://www.ed.ac.uk/) and [China Scholarship Council](https://www.ed.ac.uk/student-funding/postgraduate/international/region/asia/china-council). I am particularly interested in using satellite observations, reanalysis datasets and Earth System Modles to imprrove our understanding of extreme climate events (Tropical Cyclones, heatwaves, extreme precipitaion et.) and therefore help better prediction of natural hazards. You can also find me from the [university page](https://www.ed.ac.uk/geosciences/people/person.html?indv=5072), the [SAGES](http://www.sages.ac.uk/people/alcide-zhao/) website, [Research Gate](https://www.researchgate.net/profile/Alcide_Zhao) and [Google Scholar](https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en).
+{: .text-justify}
 
 {% include video id="yCm9Ng0bbEQ" provider="youtube" %}
 <!---
