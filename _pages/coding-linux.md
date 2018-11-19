@@ -2,6 +2,7 @@
 layout: single
 permalink: /coding/unix-shell/
 author_profile: false
+title: 
 sidebar:
   nav: "sidenav"
 toc: true
