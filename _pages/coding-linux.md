@@ -35,9 +35,14 @@ To make a subdirectory called unixstuff in your current working directory type
 mkdir unixstuff 
 ```
 ### Change to directory
-To change to the directory, note ./ is the current directory and ../ goes to the parent directory
+To change to the directory, note ./ is the current directory and ../ goes to the parent directory, and ~ goes to the home directory
 ```ruby
 cd ./../../directory_name 
 ```
+### show current pathway
+```ruby
+pwd 
+```
+
 
 
