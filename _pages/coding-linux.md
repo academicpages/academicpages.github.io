@@ -18,9 +18,9 @@ The UNIX operating system is made up of three parts; the kernel, the shell and t
 - [The shell](https://en.wikipedia.org/wiki/Unix_shell): E.g. the most common [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) shell.
 - Files. Everything in UNIX are files. All the files are grouped together in the directory structure. The file-system is arranged in a hierarchical structure, like an inverted tree. The top of the hierarchy is traditionally called root (written as a slash / )
 
-## Basic Operations
+## Basic use
 
-The Basi UNix Command can be found [here](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
+The Basi UNix Command can be found [here](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html) and a tutorial for beginners [here](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 
 
 
