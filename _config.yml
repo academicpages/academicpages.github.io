@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Eurotek"
-  avatar           : "/images/euroteklogo.png"
+  avatar           : "/images/site-logo.png"
   bio              : "Performance, Design, Aesthetics"
   location         : "14255 Elsworth, Moreno Valley"
   employer         : "http://eurotekwindows.com/"
-  googlescholar    : 
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
