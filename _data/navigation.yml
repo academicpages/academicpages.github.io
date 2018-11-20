@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "About"
-    url: /publications/
+    url: /about/
 
   - title: "Projects"
-    url: /talks/    
+    url: /projects/    
 
   - title: "Employees"
-    url: /teaching/    
+    url: /employees/    
     
   - title: "Improvement"
-    url: /portfolio/
+    url: /improvement/
         
   - title: "Photos"
-    url: /year-archive/
+    url: /photos/
     
   - title: "CV"
     url: /cv/
