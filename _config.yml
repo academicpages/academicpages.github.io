@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bensen Xie"
-  avatar           : "profile.png"
-  bio              : "The plant manager of Eurotek"
-  location         : "Moreno Valley"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Eurotek"
+  avatar           : "Euroteklogo.png"
+  bio              : "Performance, Design, Aesthetics"
+  location         : "14255 Elsworth, Moreno Valley"
+  employer         : "http://eurotekwindows.com/"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
