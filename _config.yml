@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jyotesh Chowdary Yerraguntla"
 title_separator          : "-"
-name                     : &name "Jyotesh Chowdary Yerraguntla"
+name                     : &name "Jyotesh Chowdary"
 description              : &description "Student @ IIT Madras"
 url                      : https://jyoteshchowdary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jyotesh Chowdary Yerraguntla"
   avatar           : "Jyo.jpg"
-  bio              : "Fourth Year Undergrad at IIT Madras in Mechanical Engineering"
+  bio              : "Fourth Year Undergrad Mechanical Engineering. IIT Madras"
   location         : "Chennai, India"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -100,13 +100,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : jyoteshchwodary
+  twitter          : jyoteshchowdary
   vine             :
   weibo            :
   xing             :
