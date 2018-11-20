@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Eurotek"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
