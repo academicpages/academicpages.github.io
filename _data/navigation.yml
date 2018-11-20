@@ -1,25 +1,25 @@
 # main links links
 main:
- - title: "About"
+ - title: "About Eurotek"
     url: /publications/
-    
+
    - title: "Projects"
-    url: /talks/    
-        
+    url: /talks/
+
    - title: "Employees"
-    url: /teaching/    
-        
-    
+    url: /teaching/
+
+
   - title: "Improvement"
     url: /portfolio/
-    
-        
+
+
   - title: "Photos"
     url: /year-archive/
-   
-    
+
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "Guide"
     url: /markdown/
