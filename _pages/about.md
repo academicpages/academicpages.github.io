@@ -14,6 +14,7 @@ I am an Economist in the Research Department of the [Federal Reserve Bank of Phi
 
 
 ### Recent News
+* November 2018: Paper on technology adoption and uncertainty finally found a home a ReSTAT. It's been a long journey, with the best coauthors. 
 * October 2018: Great UEA meetings in NYC; so many people doing great work! I'm excited that the Philly Fed is hosting next year.
 * September 2018: Just had a seminar at PSU Smeal and got to meet their great faculty!
 * September 2018: California Coastal Commission paper [proofs up at JUE](https://www.sciencedirect.com/science/article/pii/S0094119018300421). We study direct and spillover effects of strict land use regulation on multifamily buildings. A [little coverage](http://www.news.ucsb.edu/2018/019175/value-proposition) by UCSB press.
