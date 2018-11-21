@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eurotek"
 title_separator          : "-"
 name                     : &name "Bensen Xie"
-description              : &description "The website for Eurotek"
+description              : &description "The website for Eurotek, a company aimes at performance, deisng and aesthetics"
 url                      : https://bensenx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bensenx/bensenx.github.io"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bensen Xie"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Moreno Valley"
-  employer         :
-  googlescholar    : "http://eurotekwindows.com/"
+  name             : "Eurotek"
+  avatar           : /images/site-logo.png
+  bio              : "Performance, Design, Aesthetics"
+  location         : "14255 Elsworth, Moreno Valley"
+  employer         : "http://eurotekwindows.com/"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
