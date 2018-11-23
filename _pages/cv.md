@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Economics, Universidad del Pacifico, 2015
+* M.S. in Economics, Universidad del Pacifico, 2016
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2016 - Present: Research Fellow
+  * Research Department, Inter-American Development Bank
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Veronica Frisancho
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2013 - 2016: Research Assistant
+  * Department of Economics, Universidad del Pacifico
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Gustavo Yamada (2014-2016), Pablo Lavado (2014), Enrique Vasquez (2013).
   
 Skills
 ======
