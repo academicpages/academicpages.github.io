@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nelson Oviedo / Site Title"
+title                    : "Nelson Oviedo"
 title_separator          : "-"
 name                     : &name "Nelson Oviedo"
 description              : &description "RA @ IADB"
