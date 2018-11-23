@@ -18,22 +18,27 @@ Research experience
 ======
 * 2016 - Present: Research Fellow
   * Research Department, Inter-American Development Bank
-  * Duties included: Tagging issues
   * Supervisor: Veronica Frisancho
 
 * 2013 - 2016: Research Assistant
   * Department of Economics, Universidad del Pacifico
-  * Duties included: Merging pull requests
-  * Supervisor: Gustavo Yamada (2014-2016), Pablo Lavado (2014), Enrique Vasquez (2013).
+  * Supervisor: Gustavo Yamada (2014-2016), Pablo Lavado (2014), Enrique Vasquez (2013)
   
-Skills
+Computer skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languagues & Software:
+  * Stata
+  * Matlab
+  * Python
+  * R
+  * Latex
+  * EViews
+  * VBA
+  * Microsoft Office  
+* Operating Systems:
+  * Windows
+  * Linux
+  * OS X
 
 Publications
 ======
@@ -55,4 +60,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Enseña Perú, Recruitment Team
+* Techo, Volunteer
