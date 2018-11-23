@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @oviedonelson
 facebook:
   username               :
   app_id                 :
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Nelson Oviedo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Assistant at Inter-American Development Bank, interested in Development Economics, Inequality, Economics of Education, and Labor Economics"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
