@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @oviedonelson
+  username               : "@oviedonelson"
 facebook:
   username               :
   app_id                 :
@@ -71,7 +71,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,10 +81,10 @@ author:
   name             : "Nelson Oviedo"
   avatar           : "profile.png"
   bio              : "Research Assistant at Inter-American Development Bank, interested in Development Economics, Inequality, Economics of Education, and Labor Economics"
-  location         : "Location"
+  location         : "Washington, D.C."
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "oviedonelson@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
