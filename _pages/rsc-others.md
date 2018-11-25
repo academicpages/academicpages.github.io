@@ -2,7 +2,7 @@
 layout: single
 permalink: /rsc/others/
 author_profile: false
-title: <center>Coding & Data Analysis
+title: <center>Other Stuffs
 sidebar:
   nav: "sidenav"
 toc: true
