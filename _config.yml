@@ -55,7 +55,7 @@ search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia
 
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
