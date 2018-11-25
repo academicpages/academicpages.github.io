@@ -49,6 +49,11 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+# internal search
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
