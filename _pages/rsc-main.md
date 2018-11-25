@@ -2,7 +2,7 @@
 layout: single
 permalink: /resources/
 author_profile: false
-title: <center>Coding & Data Analysis
+title: <center>Data, Materislas, Tools, Softwares and Applications
 sidebar:
   nav: "sidenav"
 toc: true
