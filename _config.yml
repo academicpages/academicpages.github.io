@@ -53,6 +53,8 @@ atom_feed:
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia
+google:
+  search_engine_id: "007856081547475225037:mlatkyuofis"
 
 # SEO Related
 google_site_verification : 
