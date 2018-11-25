@@ -16,11 +16,12 @@ This site is built using [Jekyll](https://jekyllrb.com/) and histed on [GitHub](
 {: .text-justify}
 
 # [Version Control with Git](https://aldzhao.github.io/genius///coding/versio-control/)
-#
+
+ &nbsp
 # Scientific computing and data analysis
 ## [Python & Data Visulazation](https://aldzhao.github.io/genius///coding/versio-control/)
 ## [MatLABD data analysis](https://aldzhao.github.io/genius///coding/python/)
 ## [Fortran for Modelling](https://aldzhao.github.io/genius///coding/fortran/)
 ## [Parallel computing with MPI](https://aldzhao.github.io/genius///coding/mpi/)
-#
-#
+
+ &nbsp
