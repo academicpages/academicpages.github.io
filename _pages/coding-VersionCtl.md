@@ -2,14 +2,13 @@
 layout: single
 permalink: /coding/versio-control/
 author_profile: false
-title: <center>Version Control with Git
+title: <center>VERSION CONTROL WITH GIT
 sidebar:
   nav: "sidenav"
 toc: true
 ---
 
-
-Sorry, but most of this website is still under construction --- coming soon in an English rate
+Sorry, but most of this website are still under construction --- coming soon in an English speed
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
