@@ -2,7 +2,7 @@
 layout: single
 permalink: /coding/
 author_profile: false
-title: <center>Coding & Data Analysis
+title: <center>CODING & DATA ANALYSIS
 sidebar:
   nav: "sidenav"
 toc: true
