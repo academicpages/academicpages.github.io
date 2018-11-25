@@ -23,7 +23,7 @@ The UNIX operating system is made up of three parts; the kernel, the shell and t
 
 ## Basic use
 
-The Basi UNix Command can be found [here](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html) and a tutorial for beginners [here](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
+The Basi Unix Command can be found [here](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html) and a tutorial for beginners [here](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 {: .text-justify}
 
 
