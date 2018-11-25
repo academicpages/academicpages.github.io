@@ -8,7 +8,7 @@ author_profile: true
 
 ### Publications
 
-* [Oliva][poliva], [Jack][kjack], Bell, **Severen**, and Mettetal. Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia. Accepted at the at *Review of Economics and Statistics*.
+* [Oliva][poliva], [Jack][kjack], Bell, **Severen**, and Mettetal. Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia. Accepted at the *Review of Economics and Statistics*.
     * Older version - [NBER Working Paper 21414](http://www.nber.org/papers/w21414.pdf).
 
 * **Severen** and [Plantinga][aplantinga]. (2018). [Land-Use Regulations, Property Values, and Rents: Decomposing the Effects of the California Coastal Act.](https://www.sciencedirect.com/science/article/pii/S0094119018300421) *Journal of Urban Economics* 107, 65-78.
