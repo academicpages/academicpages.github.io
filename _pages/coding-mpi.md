@@ -2,7 +2,7 @@
 layout: single
 permalink: /coding/mpi/
 author_profile: false
-title: <center>Coding & Data Analysis
+title: <center>Message Passing Interface (MPI)
 sidebar:
   nav: "sidenav"
 toc: true
