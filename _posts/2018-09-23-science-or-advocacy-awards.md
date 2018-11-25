@@ -1,6 +1,6 @@
 ---
 title: Talk about my science
-permalink: /posts/2019/09/science-or-advocacy-awards
+permalink: /posts/2018/09/science-or-advocacy-awards
 date: 2018-09-23
 tags:
     - diversity
