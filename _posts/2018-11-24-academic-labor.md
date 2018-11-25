@@ -6,10 +6,6 @@ tags:
     - diversity
 ---
 
-For a brief period earlier this year, I was totally ready to go down the academic career path and become a professor. I'd figured out the science that I could pitch for my lab, and I was going to use that to become the faculty ally voice I wish I had had during my PhD, advocating for a radical re-imagining of what higher education _could_ be. But I'm not going to become a professor, and not because I don't think I could succeed or because it's a particularly unappealing career path to me. It's more complicated than that.
-
-I'm not doing academia because, frankly speaking, academia does not deserve me. I realize how arrogant that sounds, but that's important too. And I also write this fully cognizant of the fact that academia doesn't deserve _a lot_ of people, not just me (especially queer, disabled, and/or women of color).
-
 A Medium post by [Eugenia Zuroski](https://english.humanities.mcmaster.ca/people/eugenia-zuroski/) linked from [Twitter](https://twitter.com/NeedhiBhalla/status/1066470388572467201
 ), titled "[Holding Patterns: On Academic Knowledge and Labor](https://medium.com/@zugenia/holding-patterns-on-academic-knowledge-and-labor-3e5a6000ecbf)", in combination with a brunch conversation in which my friend encouraged me to write down what I've learned from my advocacy work, motivated me to write this post. I honestly don't know what I'm hoping to accomplish here. Maybe some part of me hopes that the faculty I've worked with read this and are spurred out of their complacency. Maybe being yet another voice calling out academia's hypocrisies will magically tip the scale and lead to massive introspection campaigns from elite institutions. Or maybe I just want to be heard, and I want other student leaders reading this to know they're seen and heard.
 
