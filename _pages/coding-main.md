@@ -16,6 +16,7 @@ This site is built using [Jekyll](https://jekyllrb.com/) and is hosted by [GitHu
  <p align="center">
   <img src="https://github.com/aldzhao/genius/blob/master/images/Coding-mainpage.png?raw=true" alt="Coding"/>
 </p>
+&nbsp;
 
 # Scientific Computing & Data Analysis
 ## [Unix & Shell Programming](https://aldzhao.github.io/genius//coding/unix-shell/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Version Control with Git](https://aldzhao.github.io/genius///coding/versio-control/)
