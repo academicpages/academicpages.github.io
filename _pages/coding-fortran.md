@@ -2,7 +2,7 @@
 layout: single
 permalink: /coding/fortran/
 author_profile: false
-title: <center>Coding & Data Analysis
+title: <center>FORTRAN Programming
 sidebar:
   nav: "sidenav"
 toc: true
