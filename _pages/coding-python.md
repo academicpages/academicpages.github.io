@@ -2,7 +2,7 @@
 layout: single
 permalink: /coding/python/
 author_profile: false
-title: <center>Coding & Data Analysis
+title: <center>Python
 sidebar:
   nav: "sidenav"
 toc: true
