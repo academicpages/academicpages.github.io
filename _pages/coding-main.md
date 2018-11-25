@@ -21,6 +21,6 @@ This site is built using [Jekyll](https://jekyllrb.com/) and histed on [GitHub](
 ## [Python & Data Visulazation](https://aldzhao.github.io/genius///coding/versio-control/)
 ## [MATLAB data analysis](https://aldzhao.github.io/genius///coding/python/)
 ## [Fortran for Modelling](https://aldzhao.github.io/genius///coding/fortran/)
-## [Parallel computing with MPI](https://aldzhao.github.io/genius///coding/mpi/)
+## [Parallel Computing with MPI](https://aldzhao.github.io/genius///coding/mpi/)
 
 
