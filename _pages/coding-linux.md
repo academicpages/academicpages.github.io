@@ -2,7 +2,7 @@
 layout: single
 permalink: /coding/unix-shell/
 author_profile: false
-title: <center>Unix and Shell Programming
+title: <center>UNIX & SHELL PROGRAMMING
 sidebar:
   nav: "sidenav"
 toc: true
