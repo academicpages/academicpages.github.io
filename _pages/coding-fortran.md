@@ -2,14 +2,14 @@
 layout: single
 permalink: /coding/fortran/
 author_profile: false
-title: <center>FORTRAN Programming
+title: <center>FORTRAN PROGRAMMING
 sidebar:
   nav: "sidenav"
 toc: true
 ---
 
 
-Sorry, but most of this website is still under construction --- coming soon in an English rate
+Sorry, but most of this website are still under construction --- coming soon in an English speed
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
