@@ -2,7 +2,7 @@
 layout: single
 permalink: /coding/versio-control/
 author_profile: false
-title: <center>Version COntrol with Git
+title: <center>Version Control with Git
 sidebar:
   nav: "sidenav"
 toc: true
