@@ -2,7 +2,7 @@
 layout: single
 permalink: /rsc/tools/
 author_profile: false
-title: <center>Coding & Data Analysis
+title: <center>Tools, Software & Applications
 sidebar:
   nav: "sidenav"
 toc: true
