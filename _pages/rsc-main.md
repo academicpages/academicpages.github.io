@@ -2,14 +2,14 @@
 layout: single
 permalink: /resources/
 author_profile: false
-title: <center>Data, Materislas, Tools, Softwares and Applications
+title: <center>DATA, MATERIALS, TOOLS, SOFTWARES & APPLICATIONS
 sidebar:
   nav: "sidenav"
 toc: true
 ---
 
 
-Sorry, but most of this website is still under construction --- coming soon in an English rate
+Sorry, but most of this website are still under construction --- coming soon in an English speed
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
