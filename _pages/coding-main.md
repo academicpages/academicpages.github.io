@@ -19,11 +19,11 @@ This site is built using [Jekyll](https://jekyllrb.com/) and histed on [GitHub](
 
 
 # Scientific computing and data analysis
-## [Unix & Shell Programming](https://aldzhao.github.io/genius//coding/unix-shell/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Version Control with Git](https://aldzhao.github.io/genius///coding/versio-control/)
-{: .text-justify}
-## [Python & Data Visulazation](https://aldzhao.github.io/genius///coding/versio-control/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; [MATLAB Data Analysis](https://aldzhao.github.io/genius///coding/python/)
-{: .text-justify}
-## [Fortran for Modelling](https://aldzhao.github.io/genius///coding/fortran/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&nbsp;[Parallel Computing with MPI](https://aldzhao.github.io/genius///coding/mpi/)
-{: .text-justify}
+## [Unix & Shell Programming](https://aldzhao.github.io/genius//coding/unix-shell/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Version Control with Git](https://aldzhao.github.io/genius///coding/versio-control/){: .text-justify}
+
+## [Python & Data Visulazation](https://aldzhao.github.io/genius///coding/versio-control/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; [MATLAB Data Analysis](https://aldzhao.github.io/genius///coding/python/){: .text-justify}
+
+## [Fortran for Modelling](https://aldzhao.github.io/genius///coding/fortran/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&nbsp;[Parallel Computing with MPI](https://aldzhao.github.io/genius///coding/mpi/){: .text-justify}
+
 
 
