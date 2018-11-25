@@ -2,7 +2,7 @@
 layout: single
 permalink: /rsc/data/
 author_profile: false
-title: <center>Coding & Data Analysis
+title: <center>DATA & MATERIALS
 sidebar:
   nav: "sidenav"
 toc: true
