@@ -16,6 +16,8 @@ This site is built using [Jekyll](https://jekyllrb.com/) and histed on [GitHub](
 {: .text-justify}
 &nbsp;
 
+&nbsp;
+
 # Scientific computing and data analysis
 ## [Unix & Shell Programming](https://aldzhao.github.io/genius//coding/unix-shell/)&nbsp<             >;[Version Control with Git](https://aldzhao.github.io/genius///coding/versio-control/)
 ## [Python & Data Visulazation](https://aldzhao.github.io/genius///coding/versio-control/)
