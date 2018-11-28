@@ -34,11 +34,11 @@ Teaching and Supervision
 Skills
 ======
 * Programming/Scripting
-  * R
-  * Python
-  * Bash
-  * awk
-  * latex
+  * R :red_circle: :red_circle: :red_circle:
+  * Python :red_circle: :red_circle: :o:
+  * Bash :red_circle: :red_circle: :o:
+  * awk :red_circle: :red_circle: :o:
+  * latex :red_circle: :red_circle: :o:
 * Genetics/Genomics
   * Sequence and Read Processing
   * Data Analysis
@@ -47,15 +47,15 @@ Skills
   * Molecular Biology
   * Human Population Genetics
 * Design and Typesetting for Print and Web
-  * Adobe Illustrator
-  * Adobe Indesign
-  * Adobe Photoshop
+  * Adobe Illustrator :red_circle: :red_circle: :o:
+  * Adobe Indesign :red_circle: :red_circle: :o:
+  * Adobe Photoshop :red_circle: :o: :o:
 * Games and Android App Development  
-  * Unity
-  * Android Studio, Android SDK
+  * Unity :red_circle: :red_circle: :o:
+  * Android Studio, Android SDK :red_circle: :o: :o:
 * Video editing
-  * Adobe Premiere Pro
-  * Adobe AfterEffects
+  * Adobe Premiere Pro :red_circle: :red_circle: :o:
+  * Adobe AfterEffects :red_circle: :o:
 * Wet lab
   * NGS library prepartion
   * capture enrichment
