@@ -34,7 +34,7 @@ Teaching and Supervision
 Skills
 ======
 * Programming/Scripting
-  * R ![](emacholdt.github.io/images/star/baseline-star-24px.svg) ![](emacholdt.github.io/images/star/baseline-star-24px.svg) ![](emacholdt.github.io/images/star/baseline-star-24px.svg)
+  * R ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg)
   * Python :red_circle: :red_circle: :o:
   * Bash :red_circle: :red_circle: :o:
   * awk :red_circle: :red_circle: :o:
