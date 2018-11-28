@@ -41,13 +41,13 @@ Skills
   * Python ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * Bash ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * awk ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * latex ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * latex ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_half-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Design and Typesetting for Print and Web
   * Adobe Illustrator ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * Adobe Indesign ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * Adobe Photoshop ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Games and Android App Development  
-  * Unity ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Unity ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_half-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * Android Studio, Android SDK ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Video editing
   * Adobe Premiere Pro ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
