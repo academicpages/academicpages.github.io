@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,27 +7,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* B.S. in Biology, Leipzig University, 2011
-* M.S. in Biology, Leipzig University, 2013
-* M.S. in Bioinformatics, Leipzig University, 2016
-* Ph.D in Human Population History, Leipzig University, 2019 (expected)
-
-Work experience
-======
-* 2010-2016: Research Assistant
-  * Max-Planck Institute for Evolutionary Anthropology Leipzig
-  * Duties included: Tagging issues
-  * Supervisor: Professor Mark Stoneking
-  
-Teaching and Supervision
-======
-* Sept.2015: Workshop - Applied Phylogenetics
-  * Bayesian Inferences using BEAST1.8
-* Sept.2016 - Jan.2017 Research Supervisor - Bachelor thesis
-  * Alexander Hooft van Huysduynen "NRY and mtDNA analysis for consideration of the human population history of Bougainville"
 
 
 Skills
@@ -67,6 +45,28 @@ Skills
   * NGS library prepartion
   * capture enrichment
   * DNA quantification
+
+Education
+======
+* Ph.D in Human Population History, Leipzig University, 2019 (expected)
+* M.S. in Bioinformatics, Leipzig University, 2016
+* M.S. in Biology, Leipzig University, 2013
+* B.S. in Biology, Leipzig University, 2011
+
+  
+Teaching and Supervision
+======
+* Sept.2015: Workshop - Applied Phylogenetics
+  * Bayesian Inferences using BEAST1.8
+* Sept.2016 - Jan.2017 Research Supervisor - Bachelor thesis
+  * Alexander Hooft van Huysduynen "NRY and mtDNA analysis for consideration of the human population history of Bougainville"
+
+Work experience
+======
+* 2010-2016: Research Assistant
+  * Max-Planck Institute for Evolutionary Anthropology Leipzig
+  * Supervisor: Professor Mark Stoneking
+
 
 <!---
 Publications
