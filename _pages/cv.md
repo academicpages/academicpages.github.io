@@ -33,19 +33,15 @@ Teaching and Supervision
 
 Skills
 ======
+
+###Computational Skills
+
 * Programming/Scripting
   * R ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg)
   * Python ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * Bash ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * awk ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * latex ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-* Genetics/Genomics
-  * Sequence and Read Processing
-  * Data Analysis
-  * Statistics
-  * Bayesian Methods
-  * Molecular Biology
-  * Human Population Genetics
 * Design and Typesetting for Print and Web
   * Adobe Illustrator ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * Adobe Indesign ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
@@ -56,6 +52,17 @@ Skills
 * Video editing
   * Adobe Premiere Pro ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * Adobe AfterEffects ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+
+
+###Scientific Skills
+
+* Genetics/Genomics
+  * Sequence and Read Processing
+  * Data Analysis
+  * Statistics
+  * Bayesian Methods
+  * Molecular Biology
+  * Human Population Genetics
 * Wet lab
   * NGS library prepartion
   * capture enrichment
