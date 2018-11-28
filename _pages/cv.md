@@ -35,10 +35,10 @@ Skills
 ======
 * Programming/Scripting
   * R ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg)
-  * Python :red_circle: :red_circle: :o:
-  * Bash :red_circle: :red_circle: :o:
-  * awk :red_circle: :red_circle: :o:
-  * latex :red_circle: :red_circle: :o:
+  * Python ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Bash ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * awk ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * latex ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Genetics/Genomics
   * Sequence and Read Processing
   * Data Analysis
@@ -47,15 +47,15 @@ Skills
   * Molecular Biology
   * Human Population Genetics
 * Design and Typesetting for Print and Web
-  * Adobe Illustrator :red_circle: :red_circle: :o:
-  * Adobe Indesign :red_circle: :red_circle: :o:
-  * Adobe Photoshop :red_circle: :o: :o:
+  * Adobe Illustrator ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Adobe Indesign ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Adobe Photoshop ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Games and Android App Development  
-  * Unity :red_circle: :red_circle: :o:
-  * Android Studio, Android SDK :red_circle: :o: :o:
+  * Unity ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Android Studio, Android SDK ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Video editing
-  * Adobe Premiere Pro :red_circle: :red_circle: :o:
-  * Adobe AfterEffects :red_circle: :o:
+  * Adobe Premiere Pro ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Adobe AfterEffects ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Wet lab
   * NGS library prepartion
   * capture enrichment
