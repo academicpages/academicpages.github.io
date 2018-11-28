@@ -34,7 +34,7 @@ Teaching and Supervision
 Skills
 ======
 
-###Computational Skills
+### Computational Skills
 
 * Programming/Scripting
   * R ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg)
@@ -54,7 +54,7 @@ Skills
   * Adobe AfterEffects ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 
 
-###Scientific Skills
+### Scientific Skills
 
 * Genetics/Genomics
   * Sequence and Read Processing
