@@ -16,12 +16,19 @@ Education
 * M.S. in Bioinformatics, Leipzig University, 2016
 * Ph.D in Human Population History, Leipzig University, 2019 (expected)
 
-Work experience
+Work experience and teaching
 ======
 * 2010-2016: Research Assistant
   * Max-Planck Institute for Evolutionary Anthropology Leipzig
   * Duties included: Tagging issues
   * Supervisor: Professor Mark Stoneking
+  
+Teaching and Supervision
+======
+* Sept.2015: Workshop - Applied Phylogenetics
+  * Bayesian Inferences using BEAST1.8
+* Sept.2016 - Jan.2017 Research Supervisor - Bachelor thesis
+  * Alexander Hooft van Huysduynen "NRY and mtDNA analysis for consideration of the human population history of Bougainville"
 
 
 Skills
@@ -39,9 +46,20 @@ Skills
   * Bayesian Methods
   * Molecular Biology
   * Human Population Genetics
+* Design and Typesetting for Print and Web
+  * Adobe Illustrator
+  * Adobe Indesign
+  * Adobe Photoshop
+* Games and Android App Development  
+  * Unity
+  * Android Studio, Android SDK
+* Video editing
+  * Adobe Premiere Pro
+  * Adobe AfterEffects
 * Wet lab
   * NGS library prepartion
   * capture enrichment
+  * DNA quantification
 
 <!---
 Publications
