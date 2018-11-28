@@ -16,7 +16,7 @@ Education
 * M.S. in Bioinformatics, Leipzig University, 2016
 * Ph.D in Human Population History, Leipzig University, 2019 (expected)
 
-Work experience and teaching
+Work experience
 ======
 * 2010-2016: Research Assistant
   * Max-Planck Institute for Evolutionary Anthropology Leipzig
@@ -34,7 +34,7 @@ Teaching and Supervision
 Skills
 ======
 * Programming/Scripting
-  * R :red_circle: :red_circle: :red_circle:
+  * R ![](emacholdt.github.io/images/star/baseline-star-24px.svg) ![](emacholdt.github.io/images/star/baseline-star-24px.svg) ![](emacholdt.github.io/images/star/baseline-star-24px.svg)
   * Python :red_circle: :red_circle: :o:
   * Bash :red_circle: :red_circle: :o:
   * awk :red_circle: :red_circle: :o:
