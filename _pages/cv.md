@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: curriculum vitae
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,7 +23,7 @@ Skills
   * latex ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_half-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Design and Typesetting for Print and Web
   * Adobe Illustrator ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * Adobe Indesign ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Adobe InDesign ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
   * Adobe Photoshop ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
 * Games and Android App Development  
   * Unity ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_half-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
