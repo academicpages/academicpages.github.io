@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "ALCIDE D. ZHAO"
+title                    : "ALCIDE ZHAO"
 title_separator          : "-"
 name                     : &name "Alcide Zhao"
 description              : &description "Research PhD at University of Edinburgh"
