@@ -1,16 +1,11 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+id: 20
+title: Publications
+date: 2016-04-04T12:53:10+00:00
+author: noxtoby
+layout: page
+guid: http://pond.cs.ucl.ac.uk/?page_id=20
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+This is an automatically-generated list of publications involving POND team members.
+  
+[http://www.cs.ucl.ac.uk/staff/N.Oxtoby/publications_POND.html]
