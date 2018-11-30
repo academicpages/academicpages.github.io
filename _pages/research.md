@@ -12,6 +12,7 @@ feature_row:
     url: "/research/highlight-1/"
     btn_class: "btn--primary"
     btn_label: "Read More"
+    
   - image_path: ../images/research-highlight-2.jpg
     alt: "precipitation"
     title: <center>Precipitation Extremes</center>
@@ -19,11 +20,12 @@ feature_row:
     url: "//publications/2018-01-paper-title-number-4/"
     btn_class: "btn--primary"
     btn_label: "Read More"
+    
   - image_path: ../images/research-highlight-3.jpg
     alt: "Cyclone"
     title: <center>TC Surface Winds</center>
     excerpt: 'We developed methods to detect the center location of tropical cyclones (TCs) as well as models for Tropical cyclone Cyclone intensity estimation and surface structure extraction using satelliete infrared imageries. We also investigate the applifcation of satellite scatterometer in estimating tropical cyclone winds.Several papers were published related to this study and formed my Master's thesis.'
-    url: "//docs/Tropical Cyclone Winds Estimation Using Multiple-Platform Satellite Data.pdf/"
+    url: "//docs/master_thesis.pdf"
     btn_class: "btn--primary"
     btn_label: "Read More"
 
