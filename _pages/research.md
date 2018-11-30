@@ -22,8 +22,8 @@ feature_row:
   - image_path: ../images/research-highlight-3.jpg
     alt: "Cyclone"
     title: <center>TC Surface Winds</center>
-    excerpt: 'The surface wind structure of tropical cyclones are estimated from satellute infrared images and compared with satellite scatterometer (QuickSCAT, HY-2A/SCAT)'
-    url: "//publications/2016-03-paper-title-number-3/"
+    excerpt: 'We developed methods to detect the center location of tropical cyclones (TCs) as well as models for Tropical cyclone Cyclone intensity estimation and surface structure extraction using satelliete infrared imageries. We also investigate the applifcation of satellite scatterometer in estimating tropical cyclone winds.Several papers were published related to this study and formed my Master's thesis.'
+    url: "//docs/Tropical Cyclone Winds Estimation Using Multiple-Platform Satellite Data.pdf"
     btn_class: "btn--primary"
     btn_label: "Read More"
 
