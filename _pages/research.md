@@ -9,7 +9,7 @@ feature_row:
     alt: "heatwaves"
     title: <center>Future Heatwaves</center>
     excerpt: 'There will be more frequent, longer and more severe heatwavs in the future around the world, in linw with GHG increases and air pollution clean up. The CESM model indicates that major changes in anthropogenic aerosols over the coming century are likely to have significant impacts on future heatwaves through their indirect effects. However, there still are large uncertainties in our understanding of aerosol-cloud-radiation interactions. This leads aerosol-cloud interaction parametrization to diverse largely across climate models, making the largest contribution to uncertainties in modeled radiative forcing. Given the consequences of projected changes in heatwaves for society, improving uncertainties in aerosol-cloud-radiation interactions will be critically important for future climate risk projections and management.'
-    url: "/research/highlight-1/"
+    url: "//publications/2018-01-paper-title-number-4/"
     btn_class: "btn--primary"
     btn_label: "Read More"
     
@@ -25,8 +25,7 @@ feature_row:
     alt: "Cyclone"
     title: <center>TC Surface Winds</center>
     excerpt: "We developed methods to detect the center location of tropical cyclones (TCs) as well as models for Tropical cyclone Cyclone intensity estimation and surface structure extraction using satelliete infrared imageries. We also investigate the applifcation of satellite scatterometer in estimating tropical cyclone winds.Several papers were published related to this study and formed my Master's thesis."
-    <embed src="https://github.com/Alcide-Zhao/web/blob/masterdocs/master_thesis.pdf" type="application/pdf" />
-    url: <embed src="https://github.com/Alcide-Zhao/web/blob/masterdocs/master_thesis.pdf" type="application/pdf" />
+    url: "//publications/2018-01-paper-title-number-4/"
     btn_class: "btn--primary"
     btn_label: "Read More"
 ---
