@@ -15,7 +15,7 @@ feature_row:
   - image_path: ../images/research-highlight-2.jpg
     alt: "precipitation"
     title: <center>Precipitation Extremes</center>
-    excerpt: 'The Asian monsoon region would become progressively warmer and wetter in the future under RCP8.5, while precipitation extremes will be significantly aggravated due to anthropogenic aerosol mitigation, particularly over East Asia. Sensitivities of changes in precipitation mean and extremes to local warming from aerosol reductions are much larger than that from greenhouse gas increases.'
+    excerpt: 'The Asian monsoon region would become progressively warmer and wetter in the future under RCP8.5, while precipitation extremes will be significantly aggravated due to anthropogenic aerosol mitigation, particularly over East Asia. Sensitivities of changes in precipitation mean and extremes to local warming from aerosol reductions are much larger than that from greenhouse gas increases.HOwever, these projections have large uncertainties, related to poorly constrained model representations of certain processes, with different mechanisms operating in different regions. Given the consequences of these projected changes for society, constraining these uncertainties will be crucially important. Therefore, careful studies on the interactions between future Asian aerosol emissions trajectories and regional to large-scale climate dynamics are critical for effective climate risk management in this highly populated and vulnerable region.'
     url: "//publications/2018-01-paper-title-number-4/"
     btn_class: "btn--primary"
     btn_label: "Read More"
