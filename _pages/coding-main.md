@@ -20,8 +20,6 @@ This site is built using [Jekyll](https://jekyllrb.com/) and is hosted by [GitHu
 
 # Scientific Computing & Data Analysis
 ## [Unix & Shell Programming](https://aldzhao.github.io/genius//coding/unix-shell/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Version Control with Git](https://aldzhao.github.io/genius///coding/versio-control/)
-## [Python & Data Visulazation](https://aldzhao.github.io/genius///coding/python/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; [MATLAB Data Analysis](https://aldzhao.github.io/genius///coding/matlab/)
+## [Python & Data Visulazation](https://aldzhao.github.io/genius///coding/python/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; [NetCDF Analysis](https://aldzhao.github.io/genius///coding/netcdf/)
 ## [Fortran for Modelling](https://aldzhao.github.io/genius///coding/fortran/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&nbsp;[Parallel Computing with MPI](https://aldzhao.github.io/genius///coding/mpi/)
-
-
 
