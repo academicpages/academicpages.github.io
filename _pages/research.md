@@ -25,7 +25,7 @@ feature_row:
     alt: "Cyclone"
     title: <center>TC Surface Winds</center>
     excerpt: "We developed methods to detect the center location of tropical cyclones (TCs) as well as models for Tropical cyclone Cyclone intensity estimation and surface structure extraction using satelliete infrared imageries. We also investigate the applifcation of satellite scatterometer in estimating tropical cyclone winds.Several papers were published related to this study and formed my Master's thesis."
-    url: <embed src="https://github.com/Alcide-Zhao/web/blob/master/docs/master_thesis.pdf" type="application/pdf" />
+    url: "https://github.com/Alcide-Zhao/web/blob/master/docs/master_thesis.pdf"
     btn_class: "btn--primary"
     btn_label: "Read More"
 ---
