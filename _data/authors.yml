@@ -1,18 +1,18 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Neil P. Oxtoby:
+  name        : "Neil Oxtoby"
+  uri         : "http://neiloxtoby.com"
+  email       : "n.oxtoby@ucl.ac.uk"
+  bio         : "Neil leads the POND group with Danny"
+  avatar      : "bio-photo-neil.jpg"
+  twitter     : "NeilOxtoby"
+  google_plus : ""
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Daniel C. Alexander:
+  name        : "Danny Alexander"
+  email       : "d.alexander@ucl.ac.uk"
+  bio         : "Danny is the PI of POND"
+  avatar      : "bio-photo-danny.jpg"
+  twitter     : ""
+  google_plus : ""

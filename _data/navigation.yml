@@ -1,22 +1,20 @@
 # main links links
 main:
+  - title: "Vision"
+    url: /vision/
+
+  - title: "Team"
+    url: /team/    
+
+  - title: "Collaborators"
+    url: /collaborators/    
+    
+  - title: "Projects"
+    url: /projects/
+        
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Resources"
+    url: /resources/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
