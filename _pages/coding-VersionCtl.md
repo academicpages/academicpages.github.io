@@ -7,7 +7,9 @@ sidebar:
   nav: "sidenav"
 toc: true
 ---
-  
+&nbsp;
+
+
 In this web I will take you through Version Control with [Git](https://git-scm.com/) by summarizing important concepts and operations. Most of the materials can be found in the [Git Book](https://git-scm.com/book/en/v2). I assume that you have a Git account registered, otherwise you can do that quickly on the [GItHub website](https://github.com/)
   
 ## What is version control
