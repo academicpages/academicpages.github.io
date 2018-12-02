@@ -41,6 +41,10 @@ A tutorail on how to use it can be found [here]()
  
 To use it, at the command prompt, just type "ncview" followed by the name of your netcdf file:
 <pre>
-% ncview sst_nmc_daSilva_anoms.66-03.DJF.nc
+% ncview foo.nc
 </pre>
 Two windows will appear, the control window and the display window. 
+
+ **<span style="color:blue">Focus now, the following sessions introduce several useful programs designed to facilitate manipulation and analysis of self-describing data stored in the netCDF format</span>**
+
+## ncview  for NetCDF visualizaiton on UNIX
