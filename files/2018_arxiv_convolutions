@@ -1,0 +1,7 @@
+@Article{Scheerlinck18arxiv,
+  author        = {Cedric Scheerlinck and Nick Barnes and Robert Mahony},
+  title         = {Computing Spatial Image Convolutions for Event Cameras},
+  journal       = {ar{X}iv e-prints},
+  year          = {2018},
+  month         = {December}
+}
