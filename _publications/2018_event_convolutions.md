@@ -9,7 +9,7 @@ paperurl:
 citation: 
 youtubeId: 
 header:
-   teaser: gradient_corners_thumbnail.png
+   teaser: gradient_corner_thumbnail.png
 ---
 
 <a href="https://cedric-scheerlinck.github.io/files/2018_event_convolutions.pdf" target="_blank"><b>PDF</b></a>&emsp;
