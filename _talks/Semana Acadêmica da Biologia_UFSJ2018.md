@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2018-11-30
 venue: ""
 date: 2018-11-30
-location: "São João del-Rei - Minas Gerais, Brazil"
+location: "Universidade Federal de São João del-Rei, São João del-Rei - Minas Gerais, Brazil"
 ---
 This talk was part of an academic week of biological sciences at Federal University of São João del-Rei.  
 Here we discussed how we need to use empathy on Science Communication, and how it can help us on our daily political issues.  
