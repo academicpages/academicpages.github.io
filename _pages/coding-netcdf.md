@@ -34,7 +34,7 @@ For example, say you have a NetCDF named foo.nc, to Show the header information 
 ncdump -h foo.nc
 </pre>
 
-## ncview  for NetCDF visualizaiton on UNIX
+## ncview for NetCDF visualizaiton on UNIX
 Ncview is a visual browser for netCDF format files. It is very simple to ue and can display the content of netCDF files graphicaly. Typically you would use ncview to get a quick and easy, push-button look at your netCDF files. You can view simple movies of the data, view along various dimensions, take a look at the actual data values, change color maps, invert the data, etc. It runs on UNIX platforms under X11, R4 or higher. For more information, check out the README file; you can also see a representative screen image (GIF, 66K) of ncview in action. 
 [Download the source](ftp://priede.bf.lu.lv/pub/TIS/apskatei/ncview/ncview-2.1.1.tar.gz) for version 2.1.1
 A tutorail on how to use it can be found [here]()
@@ -46,5 +46,7 @@ To use it, at the command prompt, just type "ncview" followed by the name of you
 Two windows will appear, the control window and the display window. 
 
  **<span style="color:red">Focus now, the following sessions introduce several useful programs designed to facilitate manipulation and analysis of self-describing data stored in the netCDF format</span>**
-
-## ncview  for NetCDF visualizaiton on UNIX
+LOL,I am stil working on th efollowing session
+## NetCDF Operators(NCO)
+## Climate Data Operators (CDO)
+## NCAR command language (NCL)
