@@ -27,11 +27,10 @@ Skills
 ======
 ------
 * Native in Mandarin Chinese and fluent in English 
-* fluent in python, MATLAB and C++ coding, data processing and interpretation; Good user of FORTRAN programming
+* Fluent in Python, MATLAB and C++ programming, data processing and statistical analysis; Good user of FORTRAN programming and Markdown web design
 * Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer; 
 * Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems; 
-* Intermediate user of Earth System Models, including CESM and UM-UKCA
-* Skating; swaimming and gym
+* Intermediate user of CESM Earth System Models, familiar with UK UM-UKCA model
 
 Work experience
 ======
