@@ -25,13 +25,12 @@ ncdump uses '_' to represent data values that are equal to the _FillValue attrib
 
 UNIX syntax for invoking ncdump:
 <pre>
-   ncdump  [ -c | -h]  [-v var1,...]  [-b lang]  [-f lang]
-   [-l len]  [ -p fdig[,ddig]]  [ -n name]  [input-file]
+% ncdump  [ -c | -h]  [-v var1,...]  [-b lang]  [-f lang] [-l len]  [ -p fdig[,ddig]]  [ -n name]  [input-file]
 </pre>
 Please refere [here](http://www.bic.mni.mcgill.ca/users/sean/Docs/netcdf/guide.txn_79.html) for the meaning of the command option.
 For example, say you have a NetCDF named foo.nc, to Show the header information in the output, you do 
 <pre>
-ncdump -h foo.nc
+% ncdump -h foo.nc
 </pre>
 
 ## ncview for NetCDF visualizaiton on UNIX
