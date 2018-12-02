@@ -39,9 +39,7 @@ The basic Git workflow goes something like this:
 3. You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
 
 ## [Installng git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
 ## Working with Git
-
 ### Set-up the environment
 
 We assume that you are working on LINUX command line,NOte that all materials summarized here can be found in the [Git book](https://git-scm.com/book/en/v2). The first thing you should do when you install Git is to set your user name and email address. This is important because every Git commit uses this information, and it’s immutably baked into the commits you start creating:
