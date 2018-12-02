@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2018-09-29
 venue: ""
 date: 2018-09-29
-location: "Goiânia - Goiás, Brazil"
+location: "Universidade Federal de Goiás, Goiânia - Goiás, Brazil"
 ---
 This talk was part of 29th Semana do ICB, an annual event promoted by students of Federal University of Goiás.  
 I invited the participants to critically think about what we have and haven't done about science communication in the last few years.  
