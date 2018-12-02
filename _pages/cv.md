@@ -19,8 +19,8 @@ redirect_from:
 Education
 ======
 ------
-* B.S. in Oceanography, Ocean University of China, 2014 ("""Outstanding Graduates in Shandong Province""")
-* M.S. in Satellite Ocean Remote Sensing, Ocean University of China, 2016 ("""Best Postgraduate Thesis""" & """OUtstanding Postgraduate""")
+* B.S. in Oceanography, Ocean University of China, 2014 (*Outstanding Graduates in Shandong Province*)
+* M.S. in Satellite Ocean Remote Sensing, Ocean University of China, 2016 (*Best Postgraduate Thesis* & *OUtstanding Postgraduate*)
 * PhD in Atmospheric and Envorimental Sciences, University of Edinburgh, 2019 (expected)
 
 Skills
