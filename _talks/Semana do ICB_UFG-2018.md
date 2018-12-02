@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2018-09-29
 venue: ""
-date: 2018-09-06
+date: 2018-09-29
 location: "Goiânia - Goiás, Brazil"
 ---
 This talk was part of 29th Semana do ICB, an annual event promoted by students of Federal University of Goiás.  
