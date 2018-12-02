@@ -45,6 +45,6 @@ To use it, at the command prompt, just type "ncview" followed by the name of you
 </pre>
 Two windows will appear, the control window and the display window. 
 
- **<span style="color:blue">Focus now, the following sessions introduce several useful programs designed to facilitate manipulation and analysis of self-describing data stored in the netCDF format</span>**
+ **<span style="color:red">Focus now, the following sessions introduce several useful programs designed to facilitate manipulation and analysis of self-describing data stored in the netCDF format</span>**
 
 ## ncview  for NetCDF visualizaiton on UNIX
