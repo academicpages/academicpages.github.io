@@ -7,7 +7,9 @@ sidebar:
   nav: "sidenav"
 toc: true
 ---
-
+  
+In this web I will take you through Version Control with [Git](https://git-scm.com/) by summarizing important concepts and operations. Most of the materials can be found in the [Git Book](https://git-scm.com/book/en/v2). I assume that you have a Git account registered, otherwise you can do that quickly on the [GItHub website](https://github.com/)
+  
 ## What is version control
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to. To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control.
 
@@ -35,5 +37,23 @@ The basic Git workflow goes something like this:
 1. You modify files in your working tree.
 2. You selectively stage just those changes you want to be part of your next commit, which adds only those changes to the staging area.
 3. You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
+
+## [Installng git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+## Working with Git
+
+### Set-up the environment
+
+We assume that you are working on LINUX command line,NOte that all materials summarized here can be found in the [Git book] (https://git-scm.com/book/en/v2). The first thing you should do when you install Git is to set your user name and email address. This is important because every Git commit uses this information, and it’s immutably baked into the commits you start creating:
+<pre>
+$ git config --global user.name "aldzhao"
+$ git config --global user.email zhao.alcide@gmail.com
+</pre>
+Once you have installed Git, you can call it by
+<pre>
+$ git
+</pre>
+
+
 
 
