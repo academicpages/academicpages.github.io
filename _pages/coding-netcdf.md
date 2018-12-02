@@ -19,7 +19,7 @@ If you are a scientist working on GeoSciences, which I am glad you are, you migh
 If you are working on Windows based system, [HDFVIEW](https://www.hdfgroup.org/) is a superb software to visualize metdata and data inside a netCDF file. You can even have a first bite of the data in image and so on. The Tree Viewer (or panel) shows the objects in each open file, and supports the navigation and editing of those objects. Multiple files can be viewed and edited, and both HDF4 and HDF5 files can be opened. The viewing and editing operations work for both HDF4 and HDF5, although some operations cannot be implemented for HDF4. For more detailed description of how to use it, see the [HDFVIEW overview](https://support.hdfgroup.org/products/java/hdfview/UsersGuide/ug04treeview.html).
 
 
-## ncview and ncdump for LINUX system users
+## ncdump command for UNIX users
 The ncdump tool generates the CDL text representation of a netCDF dataset on standard output, optionally excluding some or all of the variable data in the output. The output from ncdump is intended to be acceptable as input to ncgen. Thus ncdump and ncgen can be used as inverses to transform data representation between binary and text representations. 
 ncdump uses '_' to represent data values that are equal to the _FillValue attribute for a variable, intended to represent data that has not yet been written. If a variable has no _FillValue attribute, the default fill value for the variable type is used unless the variable is of byte type.
 
@@ -33,3 +33,14 @@ For example, say you have a NetCDF named foo.nc, to Show the header information 
 <pre>
 ncdump -h foo.nc
 </pre>
+
+## ncview  for NetCDF visualizaiton on UNIX
+Ncview is a visual browser for netCDF format files. It is very simple to ue and can display the content of netCDF files graphicaly. Typically you would use ncview to get a quick and easy, push-button look at your netCDF files. You can view simple movies of the data, view along various dimensions, take a look at the actual data values, change color maps, invert the data, etc. It runs on UNIX platforms under X11, R4 or higher. For more information, check out the README file; you can also see a representative screen image (GIF, 66K) of ncview in action. 
+[Download the source](ftp://priede.bf.lu.lv/pub/TIS/apskatei/ncview/ncview-2.1.1.tar.gz) for version 2.1.1
+A tutorail on how to use it can be found [here]()
+ 
+To use it, at the command prompt, just type "ncview" followed by the name of your netcdf file:
+<pre>
+% ncview sst_nmc_daSilva_anoms.66-03.DJF.nc
+</pre>
+Two windows will appear, the control window and the display window. 
