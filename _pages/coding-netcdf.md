@@ -47,7 +47,7 @@ Two windows will appear, the control window and the display window.
  **<span style="color:red">Focus now, the following sessions introduce several useful programs designed to facilitate manipulation and analysis of self-describing data stored in the netCDF format</span>**
  
  
-LOL,I am stil working on th following session
+LOL,I am stil working on the following session
 ## NetCDF Operators(NCO)
 ## Climate Data Operators (CDO)
 ## NCAR command language (NCL)
