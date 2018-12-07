@@ -4,8 +4,8 @@ collection: publications
 permalink: /2018_event_convolutions
 excerpt: 
 date: 2018-12-02
-venue: 
-paperurl: 
+venue: arXiv
+paperurl: https://arxiv.org/abs/1812.00438
 citation: 
 youtubeId: 
 header:
