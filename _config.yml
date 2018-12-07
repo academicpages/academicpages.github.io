@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikhil Sarin / PhD Candidate"
+title                    : "Nikhil Sarin"
 title_separator          : "-"
 name                     : &name "Nikhil Sarin"
 description              : &description "I am a PhD student at Monash University working on detecting gravitational waves from neutron star post-merger remnants as well as neutron stars and gamma-ray bursts.
@@ -17,7 +17,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikhil-sarin/nikhil-sarin.github.io.git"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 80
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikhil Sarin"
-  avatar           : "Profile.png"
+  avatar           : "Photo.png"
   bio              : "PhD student working on gamma-ray bursts and gravitational waves"
   location         : "Monash University, Melbourne"
   employer         :
@@ -113,7 +113,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
