@@ -8,10 +8,9 @@ redirect_from:
   - /home.html
 ---
 
-Cristian Gómez Portes is a Computer Scientist (2018) and MSc student of Computer Science in the University of Castilla~La Mancha. His 
+Cristian Gómez Portes is a Computer Engineer (2018) and MSc student of Computer Engineering at University of Castilla~La Mancha. His 
 research topics are related to Visualization of Programs and Algorithms, the use of Augmented Reality techniques and 3D graphics. 
-Furthermore, he is interested in subfields related to Machine Learning such as Natural Language Understanding, Speech Recognition, etc.
-Apart from this, he has participated as a coordinator of the Tracking team in the Telefónica Talentum RoboTic project at FK Interactive.
+Furthermore, he is interested in subfields related to Artificial Intelligence such as Natural Language Processing and Computer Vision, among others. Apart from this, he has participated as a coordinator of the Tracking team in the Telefónica Talentum RoboTic project at FK Interactive.
 
 ---
 # News
