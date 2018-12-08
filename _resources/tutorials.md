@@ -1,7 +1,6 @@
 ---
 title: "Computational resources"
 permalink: /resources/tutorials
-excerpt: ''
 collection: resources
 ---
 
