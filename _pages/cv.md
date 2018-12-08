@@ -125,7 +125,7 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 
 ## Outreach and mentorship
 
-[**MIT SuperUROP Program**](https://superurop.mit.edu/), Microbiome superUROP mentor (2017-2018). Supervised one undergraduate researcher.
+[**MIT SuperUROP Program**](https://superurop.mit.edu/), Microbiome superUROP mentor (2016-2017). Supervised one undergraduate researcher.
 
 [**Science Club for Girls**](http://www.scienceclubforgirls.org/) [Young leaders in STEM program](http://www.scienceclubforgirls.org/teen-programs-overview) (Summer 2016 and 2017). Developed and taught three-day course on microbiology and the human microbiome.
 
@@ -137,7 +137,7 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 
 ## Reviewer
 
-[**MIT IDEAS Global Challenge**](https://studentlife.mit.edu/ideas), *Reviewer* (2015-present)    
+[**MIT IDEAS Global Challenge**](https://studentlife.mit.edu/ideas), *Reviewer* (2015-2018)    
 
 [**MIT Summer Research Program (MSRP)**](https://odge.mit.edu/undergraduate/msrp/), *Reviewer* (2018)    
 
@@ -147,7 +147,7 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 
 [**ESL Program for MIT Service Employees**](http://hrweb.mit.edu/esl), *GED Math tutor* (2015-2018)
 
-[**MIT Women's Ultimate Frisbee Team**](http://scripts.mit.edu/~womens-ult/), *B-team captain* (2015-2016), *member* (2014-present)
+[**MIT Women's Ultimate Frisbee Team**](http://scripts.mit.edu/~womens-ult/), *B-team captain* (2015-2016), *member* (2014-2018)
 
 [**MIT Interfaith Dialogue Program**](http://addir.mit.edu/), *Addir fellow* (2017-2018)
 
