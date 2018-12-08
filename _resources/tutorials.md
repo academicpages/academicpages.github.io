@@ -1,7 +1,8 @@
 ---
 title: "Computational resources"
 permalink: /resources/tutorials
-excerpt: 'An aggregation of tutorials and cheat sheets for computational work'
+excerpt: ''
+font-family: Papyrus
 collection: resources
 ---
 
