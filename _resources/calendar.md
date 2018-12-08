@@ -6,4 +6,4 @@ excerpt: ''
 collection: resources
 ---
 
-[The Flanagan lab Google calendar](<iframe src="https://calendar.google.com/calendar/embed?src=h0kb1pr5vg4err5l037mqp9i94%40group.calendar.google.com&ctz=Pacific%2FAuckland" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>)
+[The Flanagan lab Google calendar]("https://calendar.google.com/calendar/embed?src=h0kb1pr5vg4err5l037mqp9i94%40group.calendar.google.com&ctz=Pacific%2FAuckland")
