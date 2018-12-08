@@ -2,7 +2,7 @@
 title: "Lab calendar"
 permalink: /resources/calendar
 font-family: Papyrus
-excerpt: 'A link to the shared Flanagan lab google calendar (only accessible to lab members)'
+excerpt: ''
 collection: resources
 ---
 
