@@ -10,7 +10,11 @@ redirect_from:
 
 <b>Lab news</b>
 
-Sarah was [quoted in the New York Times](https://www.nytimes.com/2018/08/24/science/pipefish-abort-pregnancies.html)!
+November 2018: Chavvah Freeman joined the lab as a Summer Research Scholar 
+
+November 2018: Sarah was awarded a Brian Mason Trust award to fund the lab's research on the wide-bodied pipefish
+
+August 2018: Sarah was [quoted in the New York Times](https://www.nytimes.com/2018/08/24/science/pipefish-abort-pregnancies.html)!
 
 <b>About the lab</b>
 
