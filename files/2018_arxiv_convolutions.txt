@@ -3,5 +3,7 @@
   title         = {Computing Spatial Image Convolutions for Event Cameras},
   journal       = {ar{X}iv e-prints},
   year          = {2018},
-  month         = {December}
+  month         = {December},
+  url           = {https://arxiv.org/abs/1812.00438},
+  arxivid       = {1812.00438}
 }
