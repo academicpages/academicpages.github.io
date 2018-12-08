@@ -2,6 +2,7 @@
 title: "Lab calendar"
 permalink: /resources/calendar
 excerpt: ''
+css: /sass/page.scss
 collection: resources
 ---
 
