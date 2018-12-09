@@ -20,6 +20,7 @@ author_profile: true
 
 * **Severen**. (2018). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/Severen_JMP_2018.pdf)
     * **_NEW_** June 2018 draft (with Appendix), older draft available as FRB Philadelphia Working Paper 18-14.
+    * More updates in the works :)
 
 ### Works in Progress
 
