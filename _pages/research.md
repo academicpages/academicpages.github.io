@@ -11,14 +11,14 @@ Is U.S. business community united, divided, or neither? Is corporate political s
 Another extended project examines the antecedents and consequences of shareholder activism in China.
 
 ## Demography
-### Sex, Cohabitation and Divorce in China
+### Sex, Cohabitation, and Divorce in China
 The sexual revolution movements since 1980 have shaped the life-course of individuals in China. The topic of this research specifically focused on the emerging trend of cohabitation in contemporary China, which carries important consequences for how family life is structured in the country. Following feminist movements in the Western world, the sexual revolution movement in China successfully lobbied for non-traditional ideals regarding family-life and effectively reshaped the subjective meaning of intimate relationships for younger individuals. Additional work in progress goes further to explore how these subjective meanings were transformed in recent years.
 
 Yongjun Zhang. 2017. "Premarital Cohabitation and Marital Dissolution in Postreform China." [Journal of Marriage and Family 79, 1435–1449](http://onlinelibrary.wiley.com/doi/10.1111/jomf.12419/full) [[Link]](https://yongjunzhang.com/publication/2017-06-01-Cohabitation%20and%20Divorce%20in%20China)
 
 Yongjun Zhang. 2018. "The Subjective Meaning of Cohabitation in China: An Alternative or Prelude to Marriage?" In Progress.
 
-Yongjun Zhang. "Sex and Twin City: Chinese Hookup Culture in LiJiang and Dali" Book Project in Progress.
+Yongjun Zhang. "Sex and Violence in Twin Cities: the Hookup Culture in Southwest China." Book Project in Progress.
 
 ### School Desegregation and Resegregation
 How do the U.S. school segregation and desegregation trends vary?
