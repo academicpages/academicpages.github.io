@@ -1,4 +1,3 @@
-
 @Article{Pan18arxiv,
   author        = {Liyuan Pan and Cedric Scheerlinck and Xin Yu and Richard Hartley and Miaomiao Liu and Yuchao Dai},
   title         = {Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera},
