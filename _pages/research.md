@@ -4,11 +4,13 @@ permalink: /research/
 author_profile: true
 ---
 ## Organizational Behavior
-My current research uses computational, statistical and network methods to study shareholder and stakeholder activism against corporate political activities and its influence.
+### The Corporate Political Transparency and Accountability in the U.S.
+Scholars from sociology, political science, management, and economics have long debated the causes and consequences of business in politics.This controversy of corporate money in politics was amplified by the Supreme Court’s landmark 2010 Citizens United v. Federal Election Commissions (FEC) decision that reverses the ban on corporate political spending. Policymakers, the publics, and activists are worried that this might open the corporate campaign spending floodgates and corporate America may abuse its political power over democracy. Many concerned shareholder and stakeholder activists have tried to pressure corporate political transparency and accountability. 
 
-Is U.S. business community united, divided, or neither? Is corporate political spending an agency problem that reflects managers' political ideology or a political investment? My dissertation will contribute to these debates. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are more likely than others to be targeted by shareholder and stakeholder activism? 2) How do firms respond to shareholder activism targeting corporate political spending activities and governance practices (i.e., the results of shareholder resolutions, disclosure and restriction of political spending, board oversight, etc.)? 3) What are the consequences of those shareholder and stakeholder activism regarding corporate status and performance (i.e., stock price, investor perceptions, federal contracts, and corporate hearing presence)?
+My current research uses computational, statistical and network methods to study shareholder activism against corporate political activities (i.e., shareholder political activism) and its influence in the U.S. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are more likely than others to be targeted by shareholder activists? 2) How do firms respond to shareholder political activism? 3) What are the financial and political consequences of shareholder political activism? This project will contribute to several scholarly debates such as the business unity debate and corporate political spending as an agency problem debate.
 
-Another extended project examines the antecedents and consequences of shareholder activism in China.
+### The Configuration of CPA and CSR
+Corporate social responsibility (CSR) is political and contentious. den Hond et al. (2014) argue that the configurations of a firm’s CSR and corporate political activities (CPA), such as alignment, misalignment, and non-alignment, affect the firm’s reputation. This ongoing project will examine the antecedents and consequenes of the CPA and CSR configuration.
 
 ## Demography
 ### Cohabitation, and Divorce in China
@@ -36,8 +38,6 @@ Alexander Kinney, Andrew Davis, and Yongjun Zhang. 2018. "Theming for Terror: Or
 [Charles Seguin](http://www.charlieseguin.com/) and Yongjun Zhang. 2018. "When is Culture Coherent: Evidence from Gendered Naming Practices in the U.S. 1880-2016." Under Review.
 
 ### Big Data and Web Scraping
-Yongjun Zhang. 2018. Media Attention to Protests in the Global Society (Based on millions of news reports). In Progress.
-
 Charles Seguin, Thomas Maher, Andrew Davis, and Yongjun Zhang. “Institutional Allies, Public Attention, & Protest Tactics: Civil Rights Organization’s Representation at Congressional Hearings 1900-2000.” This Social Movement Impact on Policy Outcomes project is funded by [NSF(Award No.: 1824092)](https://nsf.gov/awardsearch/showAward?AWD_ID=1824092&HistoricalAwards=false)
 
 [Download Zhang-Vita Here](https://yongjunzhang.com/files/zhang-vita.pdf).
