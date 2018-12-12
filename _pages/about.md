@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Steve Schwab is a Major in the United States Army and is part of the faculty of the joint [ Army - Baylor University Graduate Program in Health and Business Administration](https://www.baylor.edu/graduate/mha/). He joins Army-Baylor in 2018 from the Wharton School at The University of Pennsylvania where he received his PhD in Managerial Science and Applied Economics with a focus in health care. His research interests are in coordination and organizational structure, and the ways in which these affect productivity and innovation. His current research examines various determinants of successful teams and the effects of disruptions to teams. He was previously an Associate Fellow at the Leonard Davis Institute for Health Economics. 
+Steve Schwab is a Major in the United States Army and is an assistant professor in the joint [ Army - Baylor University Graduate Program in Health and Business Administration](https://www.baylor.edu/graduate/mha/). He joins Army-Baylor in 2018 from the Wharton School at The University of Pennsylvania where he received his PhD in Managerial Science and Applied Economics with a focus in health care. His research interests are in coordination and knowledge transfers, and the ways in which these affect productivity and innovation. His current research examines determinants of successful teams and the effects of disruptions to work relationships. He was previously an Associate Fellow at the Leonard Davis Institute for Health Economics. 
  
 
  
