@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /images/Schwab_CV_14July2018.pdf
+permalink: /images/Schwab_CV_12DEC2018.pdf
 author_profile: true
 redirect_from:
   - /resume
