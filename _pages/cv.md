@@ -17,4 +17,4 @@ Education
 
 CV
 ======
-To see an updated version of my CV please [click here](https://www.pabloguarda.com/cv.html) 
+To see an updated version of my CV please <a href="https://www.pabloguarda.com/cv.html" target="_blank"><span style="text-align:center">click here</span></a>
