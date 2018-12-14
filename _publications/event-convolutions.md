@@ -1,7 +1,7 @@
 ---
 title: "Computing Spatial Image Convolutions for Event Cameras"
 collection: publications
-permalink: /2018_event_convolutions
+permalink: /event-convolutions
 excerpt: 
 date: 2018-12-02
 venue: arXiv
