@@ -15,4 +15,6 @@ Education
 * M.S. in Transportation Engineering, Pontificia Universidad Católica de Chile, 2015
 * M.S. in Cognitive and Decision Sciences, University College London, 2017
 
-[CV](https://www.pabloguarda.com/cv.html) 
+CV
+======
+To see an updated version of my CV please [click here](https://www.pabloguarda.com/cv.html) 
