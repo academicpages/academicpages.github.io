@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pablo Guarda Rosas / Site Title"
+title                    : "Pablo Guarda / Site Title"
 title_separator          : "-"
 name                     : &name "Pablo Guarda Rosas"
 description              : &description "About Pablo"
