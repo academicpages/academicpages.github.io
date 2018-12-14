@@ -1,7 +1,7 @@
 ---
 title: "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera"
 collection: publications
-permalink: /2018_blurry
+permalink: /event-deblurring
 excerpt: 
 date: 2018-11-27
 venue: arXiv
