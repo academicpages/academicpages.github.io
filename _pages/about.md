@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,10 +10,10 @@ redirect_from:
 
 Pablo is currently a lecturer in the Department of Civil Engineering at the University of Concepción, Chile teaching courses on (1) Optimization, (2) Fundamentals of Transportation Engineering and (3) Transportation Planning. He is also collaborating with research projects at the office of the Centre for Sustainable Urban Development (CEDEUS) in Concepción. Until the first semester of 2018, Pablo was research associate for the Bus Rapid Transit Centre of Excellence (BRT-CoE) and external consultant for the Inter-American Development Bank (IDB). 
 
-<strong>Education<strong>
+**Education**
 Pablo completed a B.A in Civil Engineering, a minor in Social Psychology and a MSc in Transportation Engineering at Pontifical Catholic University of Chile (PUC) in 2015. In 2017, he graduated with a MSc in Cognitive and Decision Sciences from University College London (UCL). With his interdisciplinary background, Pablo aims to build bridges between researchers, academics and practitioners from  transportation engineering, behavioral and computer sciences. In his view, an interdisciplinary and data-driven approach is the key to understand human behavior in transportation systems.
 
-<strong>Research experience<strong>
+**Research experience**
 After finishing his MSc at PUC in 2014, Pablo was a research assistant at the office of CEDEUS in Santiago and the Bus Rapid Transit Centre of Excellence (BRT-CoE), Chile. At CEDEUS, he conducted research on fare evasion in public transport and presented this work in various international conferences. During this period, Pablo was the recipient of the Michael Beesley Award for his article Decreasing fare evasion without fines? A microeconomic analysis, which was later published in the journal Research in Transportation Economics. As a result of his master's thesis work, he previously published the article What is behind fare evasion in urban bus systems? An econometric approach in Transport Research Part A: Policy and Practice.​ Pablo has been always interested in the policy implications of his research on fare evasion and thus, he has been actively collaborating in public events and academic workshops held in Santiago, Chile.
 
 Work experience
@@ -22,10 +22,15 @@ During 2016 Pablo worked for 5 months as a Transport Research Intern at the Ross
 Testing my website
 
 Yahoo
+
 ---
 A data-driven personal website
 ======
+
+<!---
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+-->
+
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
