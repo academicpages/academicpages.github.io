@@ -13,11 +13,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-  # - title: "Blog"
-  #  url: /year-archive/
-  
-  #- title: "Research"
-  #  url: /research/
+  - title: "Blog"
+    url: /year-archive/
 
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Guide"
+    url: /markdown/
