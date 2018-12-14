@@ -8,16 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify">
 Pablo is currently a lecturer in the Department of Civil Engineering at the University of Concepción, Chile teaching courses on (1) Optimization, (2) Fundamentals of Transportation Engineering and (3) Transportation Planning. He is also collaborating with research projects at the office of the Centre for Sustainable Urban Development (CEDEUS) in Concepción. Until the first semester of 2018, Pablo was research associate for the Bus Rapid Transit Centre of Excellence (BRT-CoE) and external consultant for the Inter-American Development Bank (IDB). 
+</div>
 
 ### Education
+<div style="text-align: justify">
 Pablo completed a B.A in Civil Engineering, a minor in Social Psychology and a MSc in Transportation Engineering at Pontifical Catholic University of Chile (PUC) in 2015. In 2017, he graduated with a MSc in Cognitive and Decision Sciences from University College London (UCL). With his interdisciplinary background, Pablo aims to build bridges between researchers, academics and practitioners from  transportation engineering, behavioral and computer sciences. In his view, an interdisciplinary and data-driven approach is the key to understand human behavior in transportation systems.
+</div>
 
 ### Research experience
+<div style="text-align: justify">
 After finishing his MSc at PUC in 2014, Pablo was a research assistant at the office of CEDEUS in Santiago and the Bus Rapid Transit Centre of Excellence (BRT-CoE), Chile. At CEDEUS, he conducted research on fare evasion in public transport and presented this work in various international conferences. During this period, Pablo was the recipient of the Michael Beesley Award for his article Decreasing fare evasion without fines? A microeconomic analysis, which was later published in the journal Research in Transportation Economics. As a result of his master's thesis work, he previously published the article What is behind fare evasion in urban bus systems? An econometric approach in Transport Research Part A: Policy and Practice.​ Pablo has been always interested in the policy implications of his research on fare evasion and thus, he has been actively collaborating in public events and academic workshops held in Santiago, Chile.
+</div>
 
 ### Work experience
+<div style="text-align: justify">
 During 2016 Pablo worked for 5 months as a Transport Research Intern at the Ross Center for Sustainable Cities at the World Resources Institute (WRI) in Washington DC. At WRI, he conducted research and data analysis as part of a project with the IDB and the Global Environment Facility (GEF) to promote low carbon technology transfer in Latin America and the Caribbean. He also collaborated with the BRT-CoE in a project aimed at rethinking the next generation of BRT in China. As part of this project, Pablo and researchers from WRI and the China Urban Sustainable Transport Research Center (CUSTReC) coauthored the article Comparing Chinese and Non-Chinese Bus Rapid Transit: Evidence from Evaluation of Global BRT Based on BRT Design Indicators, which was published in the journal Transportation Research Record. This paper was an input for a policy paper led by researchers from WRI where Pablo is also co-author. After finishing his internship, he worked as a external consultant for WRI in a research article studying the relationships between design elements and operational performance in BRTs.
+</div>
 
 <!---
 ---
