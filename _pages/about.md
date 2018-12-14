@@ -1,5 +1,4 @@
 {% comment %}
-{%
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -9,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-%
+
 {% endcomment %}
 
 Pablo is currently a lecturer in the Department of Civil Engineering at the [University of Concepcion](http://www.ing.udec.cl/Departamento/ingenieria-civil), Chile teaching courses on (1) Optimization, (2) Fundamentals of Transportation Engineering and (3) Transportation Planning. He is also collaborating with research projects at the office of the Centre for Sustainable Urban Development (CEDEUS) in Concepción. Until the first semester of 2018, Pablo was research associate for the Bus Rapid Transit Centre of Excellence (BRT-CoE) and external consultant for the Inter-American Development Bank (IDB). 
@@ -24,6 +23,7 @@ After finishing his MSc at PUC in 2014, Pablo was a research assistant at the of
 During 2016 Pablo worked for 5 months as a Transport Research Intern at the Ross Center for Sustainable Cities at the World Resources Institute (WRI) in Washington DC. At WRI, he conducted research and data analysis as part of a project with the IDB and the Global Environment Facility (GEF) to promote low carbon technology transfer in Latin America and the Caribbean. He also collaborated with the BRT-CoE in a project aimed at rethinking the next generation of BRT in China. As part of this project, Pablo and researchers from WRI and the China Urban Sustainable Transport Research Center (CUSTReC) coauthored the article Comparing Chinese and Non-Chinese Bus Rapid Transit: Evidence from Evaluation of Global BRT Based on BRT Design Indicators, which was published in the journal Transportation Research Record. This paper was an input for a policy paper led by researchers from WRI where Pablo is also co-author. After finishing his internship, he worked as a external consultant for WRI in a research article studying the relationships between design elements and operational performance in BRTs.
 
 {% comment %}
+
 ---
 A data-driven personal website
 ======
