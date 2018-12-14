@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pablo Guarda / Site Title"
+title                    : "Pablo Guarda"
 title_separator          : "-"
-name                     : &name "Pablo Guarda Rosas"
-description              : &description "About Pablo"
+name                     : &name "Pablo Guarda"
+description              : &description "Pablo Guarda"
 url                      : https://pabloguarda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pabloguarda/pabloguarda.github.io"
@@ -80,33 +80,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  name             : "Pablo Guarda"
+  avatar           : "PabloGuarda.png"
+  bio              : "Transportation Scientist"
+  location         : "Concepción, Chile"
+  employer         : "University of Concepcion"
+  googlescholar    : "https://scholar.google.cl/citations?user=LsH9OncAAAAJ&hl=en"
+  email            : "pablo.guarda@udec.cl"
+  uri              : "www.pabloguarda.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/pabloguarda"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/paguarda/"
+  orcid            : "https://orcid.org/0000-0002-6887-5474"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/transportsci"
   vine             :
   weibo            :
   xing             :
