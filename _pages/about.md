@@ -1,4 +1,5 @@
 {% comment %}
+{%
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -8,6 +9,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+%
 {% endcomment %}
 
 Pablo is currently a lecturer in the Department of Civil Engineering at the [University of Concepcion](http://www.ing.udec.cl/Departamento/ingenieria-civil), Chile teaching courses on (1) Optimization, (2) Fundamentals of Transportation Engineering and (3) Transportation Planning. He is also collaborating with research projects at the office of the Centre for Sustainable Urban Development (CEDEUS) in Concepción. Until the first semester of 2018, Pablo was research associate for the Bus Rapid Transit Centre of Excellence (BRT-CoE) and external consultant for the Inter-American Development Bank (IDB). 
