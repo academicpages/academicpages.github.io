@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-Pablo is currently a lecturer in the Department of Civil Engineering [(DIC)](http://www.ing.udec.cl/Departamento/ingenieria-civil) at the University of Concepcion, Chile teaching courses on (1) Optimization, (2) Fundamentals of Transportation Engineering and (3) Transportation Planning. He is also collaborating with research projects at the office of the Centre for Sustainable Urban Development [(CEDEUS)](https://www.cedeus.cl/?s=pablo+guarda) in Concepción. Until the first semester of 2018, Pablo was research associate for the Bus Rapid Transit Centre of Excellence [(BRT-CoE)](http://www.brt.cl/) and external consultant for the Inter-American Development Bank [(IDB)](http://www.iadb.org/). 
+Pablo is currently a lecturer in the Department of Civil Engineering 
+<a href="http://www.ing.udec.cl/Departamento/ingenieria-civil"><span style="text-align:center">[(DIC)]</span></a> at the University of Concepcion, Chile teaching courses on (1) Optimization, (2) Fundamentals of Transportation Engineering and (3) Transportation Planning. He is also collaborating with research projects at the office of the Centre for Sustainable Urban Development [(CEDEUS)](https://www.cedeus.cl/?s=pablo+guarda) in Concepción. Until the first semester of 2018, Pablo was research associate for the Bus Rapid Transit Centre of Excellence [(BRT-CoE)](http://www.brt.cl/) and external consultant for the Inter-American Development Bank [(IDB)](http://www.iadb.org/). 
 </div>
 
 ### Education
