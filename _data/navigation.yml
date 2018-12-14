@@ -12,9 +12,9 @@ main:
   - title: "CV"
     url: /cv/
         
-  #- title: "Blog"
-  #  url: /year-archive/
+  - title: "Blog"
+    url: /year-archive/
     
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Guide"
+    url: /markdown/
