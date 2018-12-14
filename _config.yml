@@ -87,7 +87,7 @@ author:
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
