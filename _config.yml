@@ -87,7 +87,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=VDDPd00AAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
