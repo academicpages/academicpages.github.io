@@ -87,7 +87,7 @@ author:
   employer         : 
   googlescholar    : "https://scholar.google.cl/citations?user=LsH9OncAAAAJ&hl=en"
   email            : "pablo.guarda@udec.cl"
-  #uri              : "https://www.researchgate.net/profile/Pablo_Guarda2"
+  uri              : #"https://www.researchgate.net/profile/Pablo_Guarda2"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,6 @@ author:
   linkedin         : "pabloguarda/"
   orcid            : "https://orcid.org/0000-0002-6887-5474" #"<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6887-5474" href="https://orcid.org/0000-0002-6887-5474" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6887-5474</a></div>"
   pinterest        :
-  #researchgate     : "https://www.researchgate.net/profile/Pablo_Guarda2"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
