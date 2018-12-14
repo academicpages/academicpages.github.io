@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pablo Guarda"
 title_separator          : "-"
-name                     : &name "Pablo Guarda"
+name                     : &name "About"
 description              : &description "Pablo Guarda"
 url                      : https://pabloguarda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
