@@ -1,7 +1,7 @@
 ---
 title: "What is behind fare evasion in urban bus systems? An econometric approach"
 collection: publications
-permalink: /publication/2016-02-01-paper-title-number-1
+permalink: 
 excerpt: 'This paper is about the number 2'
 date: 2016-02-01
 venue: 'Transportation Research Part A: Policy and Practice'
