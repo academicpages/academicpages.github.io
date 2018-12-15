@@ -2,7 +2,7 @@
 title: "What is behind fare evasion in urban bus systems? An econometric approach"
 collection: publications
 permalink: 
-excerpt: 'This paper is about the number 2'
+excerpt: 
 date: 2016-02-01
 venue: 'Transportation Research Part A: Policy and Practice'
 paperurl: 'https://doi.org/10.1016/j.tra.2015.10.008'

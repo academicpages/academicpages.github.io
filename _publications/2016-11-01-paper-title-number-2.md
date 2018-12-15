@@ -1,8 +1,8 @@
 ---
 title: "Decreasing fare evasion without fines? A microeconomic analysis"
 collection: publications
-permalink: /publication/2016-11-01-paper-title-number-3
-excerpt: 'This paper is about the number 3'
+permalink: 
+excerpt: 
 date: 2016-11-01
 venue: 'Research in Transportation Economics'
 paperurl: 'https://doi.org/10.1016/j.retrec.2016.06.001'
