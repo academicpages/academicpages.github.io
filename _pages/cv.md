@@ -17,12 +17,13 @@ redirect_from:
 ## CV
 To see an updated version of my CV please [click here](https://v1.overleaf.com/docs/20232524vvtpbkjdsdnq/pdf.pdf)
 
-<section class="page__content" itemprop="text" markdown="1">
+
+<iframe src="https://drive.google.com/file/d/1Sqhl0yt6XRriAkr1usdyptCjBAZkK2fh/preview" width="100%" height="100%"></iframe>
+
+<!-- <section class="page__content" itemprop="text" markdown="1">
   <embed src="https://github.com/pabloguarda/pabloguarda.github.io/blob/master/files/cv-eng.pdf"#type="application/pdf" /> 
 </section>
-
-
-
+ -->
 
 <!-- 
 Work experience
