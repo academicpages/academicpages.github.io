@@ -15,7 +15,7 @@ redirect_from:
 * M.S. in Cognitive and Decision Sciences, University College London, 2017
 
 ## CV
-To see an updated version of my CV please [click here](https://v1.overleaf.com/docs/20232524vvtpbkjdsdnq/pdf.pdf)
+To see an updated version of my CV please [click her](https://v1.overleaf.com/docs/20232524vvtpbkjdsdnq/pdf.pdf)
 
 
 <!-- <iframe src="https://drive.google.com/file/d/1Sqhl0yt6XRriAkr1usdyptCjBAZkK2fh/preview" width="100%" height="100%"></iframe> -->
