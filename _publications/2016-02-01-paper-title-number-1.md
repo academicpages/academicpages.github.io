@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "What is behind fare evasion in urban bus systems? An econometric approach"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2016-02-01-paper-title-number-1
+excerpt: 'This paper is about the number 2'
+date: 2016-02-01
+venue: 'Transportation Research Part A: Policy and Practice'
+paperurl: 'https://doi.org/10.1016/j.tra.2015.10.008'
+citation: 'Guarda, P., Galilea, P., Paget-Seekins, L., & Ortúzar, J. de D. (2016). What is behind fare evasion in urban bus systems? An econometric approach. Transportation Research Part A: Policy and Practice, 84, 55–71. https://doi.org/10.1016/j.tra.2015.10.008'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
+
+<!-- This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
