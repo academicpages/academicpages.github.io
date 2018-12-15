@@ -1,6 +1,6 @@
 ---
 title: "Bus Rapid Transit in China"
-excerpt: "<br/><img src='/images/research/brtChina.png'>"
+excerpt: "<br/><img src='/images/research/brtChina.jpg'>"
 collection: research
 ---
 
