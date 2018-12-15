@@ -1,7 +1,7 @@
 ---
 title: "Bus Rapid Transit in China"
 # excerpt: "<br/><img src='/images/research/brtChina.png' height="30" width="30">"
-excerpt: "Short description of research item number 2 <br/><img src='/images/research/brtChina.png'>"
+excerpt: "Short description of research item number 2 <br/><img src='/images/research/brtChina.png' height='30' width='30'>"
 collection: research
 ---
 
