@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-
 * B.S. in Industrial Engineering, Pontificia Universidad Católica de Chile, 2013
 * M.S. in Transportation Engineering, Pontificia Universidad Católica de Chile, 2015
 * M.S. in Cognitive and Decision Sciences, University College London, 2017
@@ -18,9 +17,14 @@ redirect_from:
 ## CV
 To see an updated version of my CV please [click here](https://v1.overleaf.com/docs/20232524vvtpbkjdsdnq/pdf.pdf)
 
-<!-- <embed src="https://github.com/pabloguarda/pabloguarda.github.io/blob/master/files/cv-eng.pdf"#type="application/pdf" /> 
--->
+<section class="page__content" itemprop="text" markdown="1">
+  <embed src="https://github.com/pabloguarda/pabloguarda.github.io/blob/master/files/cv-eng.pdf"#type="application/pdf" /> 
+</section>
 
+
+
+
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -62,5 +66,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
 
