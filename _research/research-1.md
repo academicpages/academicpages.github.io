@@ -6,7 +6,7 @@ collection: research
 
 ## Project Description 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/4nMTV1hqAK5meh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BRTCoE/next-generation-of-brt-in-china" title="Next generation of BRT in china" target="_blank">Next generation of BRT in china</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/BRTCoE">BRTCoE</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4nMTV1hqAK5meh" class="center" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BRTCoE/next-generation-of-brt-in-china" title="Next generation of BRT in china" target="_blank">Next generation of BRT in china</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/BRTCoE">BRTCoE</a></strong> </div>
 
 ---
 
