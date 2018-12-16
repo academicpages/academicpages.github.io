@@ -26,7 +26,7 @@ Education
 RESEARCH EXPERIENCE
 ======
 
-**Leader of Aircraft Design Software Development Team** April 2015 – present
+**Leader of Aircraft Design Software Development Team**, April 2015 – present
 
 * Created a new method of designing composite aircraft.
 * Conducting multi-objective optimization aircraft design research under supervision of Professor Okabe (research topic of bachelor and master theses).
@@ -35,7 +35,7 @@ RESEARCH EXPERIENCE
 SKILLS
 ======
 
-## Research Skills
+**Research Skills**
 
 * Multi-objective optimization software integration
 
@@ -62,7 +62,7 @@ SKILLS
 
 * High performance computation experience in Linux environment.
 
-## Language
+**Language**
 
 * Native: Japanese.
 * Fluent: English, German.
@@ -100,11 +100,11 @@ VOLUNTEERING
 AWARDED FUNDING INFORMATION
 ======
 
-* Boeing Higher Education Program 2016: Development of an Aero-Structural Optimization Tool for Aircraft
+* Boeing Higher Education Program 2016: *Development of an Aero-Structural Optimization Tool for Aircraft*
 
 CONFERENCE PRESENTATIONS
 ======
 
-1. M. Sode, N. Ishiura, Y. Nagumo, T. Okabe, Aero-Structural Optimization of a Regional Jet Wing with Failure Criterion, 33rd New Materials Engineering Conference, Fukushima, Japan, 5 - 7 Sep. 2017
-2. M. Sode, N. Ishiura, Y. Nagumo, T. Okabe, Aero-Structural Optimization of an Aircraft Wing with Failure Criterion, 42nd Composite Material Symposium, Miyagi, Japan, 14 – 15. Sep. 2017
-3. M. Sode, N. Ishiura, Y. Nagumo, T. Okabe, Multidisciplinary Optimization of Regional Jet Wing, 55th Aircraft Symposium, Shimane, Japan, 20 - 22. Nov. 2017
+1. **M. Sode**, N. Ishiura, Y. Nagumo, T. Okabe, *Aero-Structural Optimization of a Regional Jet Wing with Failure Criterion*, 33rd New Materials Engineering Conference, Fukushima, Japan, 5 - 7 Sep. 2017
+2. **M. Sode**, N. Ishiura, Y. Nagumo, T. Okabe, *Aero-Structural Optimization of an Aircraft Wing with Failure Criterion*, 42nd Composite Material Symposium, Miyagi, Japan, 14 – 15. Sep. 2017
+3. **M. Sode**, N. Ishiura, Y. Nagumo, T. Okabe, *Multidisciplinary Optimization of Regional Jet Wing*, 55th Aircraft Symposium, Shimane, Japan, 20 - 22. Nov. 2017
