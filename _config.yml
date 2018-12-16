@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.png"
+  avatar           : "profile_.jpg"
   bio              : "A PhD student in Machine Learning, currently attempting research that can learning to learn everything"
   location         : "Edinburgh"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=LNO4XZQAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5776-1204"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -253,8 +253,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-scholar:
-  style: mla
 
 # Archives
 #  Type

@@ -16,7 +16,7 @@ initializations etc.) such that a model can perform very well on a target task.
 
 Meta-learning or *learning to learn* can be broadly defined as a machine learning paradigm, where models are trained to 
 become more proficient at learning with more experience, thus learning *how* to learn.
-To achieve this learning is usually broken down into multiple learning-abstractions. 
+Achieving meta-learning usually involves abstracting learning into multiple levels. 
 The inner-most levels usually involve acquiring *task-specific* knowledge (i.e. knowledge learned from a particular 
 task in order to solve that task) whereas the outermost level involves acquiring *across-task* knowledge (i.e. knowledge
 extracted across tasks that enables the system to become better at learning from individual tasks and generalzing better

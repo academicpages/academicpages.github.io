@@ -21,3 +21,4 @@ that implements any and all coursework boilerplate code/tutorial notes/guides.
 related topic and work on a research project, to be implemented in Pytorch/Tensorflow. The main output is a report in
 ICML paper format. This component requires supporting students in writing a concise, readable and compelling paper.
 - Marker for term 2 research projects.
+- Support for technical issues with GPU Clusters and Compute Cloud providers.

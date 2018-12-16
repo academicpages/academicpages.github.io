@@ -9,15 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+[Full CV](https://resume.creddle.io/resume/19zcxg3g9th)
+
+# Summarised CV
+
+## Education
 * B.Eng. in Computer Systems Engineering, Lancaster University, 2011-2014
 * M.Sc. in Data Science, Lancaster University, 2014-2015
 * M.ScR. in Data Science, Edinburgh University, 2016-2017
 * Ph.D in Machine Learning, Edinburgh University, 2017-2020 (expected)
 
-Work experience
-======
+## Work experience
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -28,8 +31,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
+## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -37,24 +39,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Publications
+  {% bibliography %}
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching
