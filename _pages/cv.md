@@ -13,12 +13,15 @@ Education
 ======
 
 **TOHOKU UNIVERSITY** Miyagi, Japan
+
 * **Master of Engineering in Aerospace Engineering**
+
   * expected March 2019
-  * GPA 4.0
+  * GPA 4.00 / 4.00
+
 * **Bachelor of Science in Engineering**
   * March 2017
-  * GPA 3.58
+  * GPA 3.58 / 4.00
 
 Research Experience
 ======
