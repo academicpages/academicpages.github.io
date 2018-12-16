@@ -7,7 +7,6 @@ redirect_from:
   - /blog
 ---
 
-## [1. How to train your MAML: A step by step approach](https://www.bayeswatch.com/2018/11/30/HTYM/)
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
