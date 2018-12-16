@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,12 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](https://resume.creddle.io/resume/19zcxg3g9th)
+[Click to see full CV](https://resume.creddle.io/resume/19zcxg3g9th "CV")
 
-# Summarised CV
+## Summarised CV
 
-## Education
+### Education
 * B.Eng. in Computer Systems Engineering, Lancaster University, 2011-2014
 * M.Sc. in Data Science, Lancaster University, 2014-2015
 * M.ScR. in Data Science, Edinburgh University, 2016-2017
 * Ph.D in Machine Learning, Edinburgh University, 2017-2020 (expected)
+
