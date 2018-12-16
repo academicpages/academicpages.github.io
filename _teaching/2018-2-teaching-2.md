@@ -8,4 +8,4 @@ date: 2018-08-01
 location: "Concepción, Chile"
 ---
 
-To see some of the course materials are available, please [click here](https://github.com/pabloguarda/Fundamentals-of-Transport-Engineering)
+To see some of the course materials, please [click here](https://github.com/pabloguarda/Fundamentals-of-Transport-Engineering)
