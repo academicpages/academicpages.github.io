@@ -13,10 +13,10 @@ redirect_from:
 ## Summarised CV
 
 ### Education
-* B.Eng. in Computer Systems Engineering, Lancaster University, 2011-2014
-* M.Sc. in Data Science, Lancaster University, 2014-2015
-* M.ScR. in Data Science, Edinburgh University, 2016-2017
 * Ph.D in Machine Learning, Edinburgh University, 2017-2020 (expected)
+* M.ScR. in Data Science, Edinburgh University, 2016-2017
+* M.Sc. in Data Science, Lancaster University, 2014-2015
+* B.Eng. in Computer Systems Engineering, Lancaster University, 2011-2014
 
 ### Employment
 * Edinburgh University
