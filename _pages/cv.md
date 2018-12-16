@@ -40,6 +40,7 @@ redirect_from:
 * Skill 3
 
 ## Publications
-  {% bibliography %}
+
+{% bibliography %}
   
 ## Teaching
