@@ -16,7 +16,7 @@ Pablo is currently a lecturer in the Department of Civil Engineering
 
 ### Education
 <div style="text-align: justify">
-Pablo completed a B.A in Civil Engineering, a minor in Social Psychology and a MSc in Transportation Engineering at Pontifical Catholic University of Chile <a href="https://www.ing.uc.cl/transporte-y-logistica/" target="_blank"><span style="text-align:center">(PUC)</span></a> in 2015. In 2017, he graduated with a MSc in Cognitive and Decision Sciences from University College London <a href="https://www.ucl.ac.uk/pals/research/experimental-psychology/" target="_blank"><span style="text-align:center">(UCL)</span></a>. Pablo aims to deepen the current understanding of human behavior in transportation systems through data-driven and experimental approaches. In his view, more research collaboration among transport, computer and behavioral scientists is key to achieve this goal. 
+Pablo completed a B.A in Civil Engineering, a minor in Social Psychology and a MSc in Transportation Engineering at Pontifical Catholic University of Chile <a href="https://www.ing.uc.cl/transporte-y-logistica/" target="_blank"><span style="text-align:center">(PUC)</span></a> in 2015. In 2017, he graduated with a MSc in Cognitive and Decision Sciences from University College London <a href="https://www.ucl.ac.uk/pals/research/experimental-psychology/" target="_blank"><span style="text-align:center">(UCL)</span></a>. Pablo aims to deepen the current understanding of human behavior in transportation systems through data-driven and experimental research approaches. In his view, more research collaboration among transport, computer and behavioral scientists is key to achieve this goal. 
 </div>
 
 ### Research experience
