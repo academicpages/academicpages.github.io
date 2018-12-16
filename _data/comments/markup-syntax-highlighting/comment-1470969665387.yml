@@ -1,0 +1,6 @@
+message: "Here's a test comment with a Markdown code block:\r\n\r\n```scss\r\nh1, h2, h3, h4, h5, h6 {\r\n  margin: 2em 0 0.5em;\r\n  line-height: 1.2;\r\n  font-family: $header-font-family;\r\n  font-weight: bold;\r\n}\r\n```"
+name: Michael Rose
+email: 1ce71bc10b86565464b612093d89707e
+url: 'https://mademistakes.com'
+hidden: ''
+date: '2016-08-12T02:41:04.706Z'
