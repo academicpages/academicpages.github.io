@@ -51,7 +51,7 @@ Research Skills
 
   * Object-oriented programming.
   * Python package development.
-  * Science package user experience:  
+  * Science package user experience:
     Numpy, Pandas, Scipy,
     Matplotlib, scikit-learn, pyNastran, PyGMO, sphinx.
 
