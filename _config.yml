@@ -82,11 +82,11 @@ analytics:
 author:
   name             : ""
   avatar           : "profile_.jpg"
-  bio              : "A PhD student in Machine Learning, currently attempting research that can learning to learn everything"
+  bio              : "A PhD student in Machine Learning, trying to build systems that can learn to learn anything"
   location         : "Edinburgh"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=LNO4XZQAAAAJ&hl=en"
-  email            :
+  email            : "a.antoniou@sms.ed.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "uk.linkedin.com/pub/antreas-antoniou/9a/257/69"
   orcid            : "https://orcid.org/0000-0001-5776-1204"
   pinterest        :
   soundcloud       :

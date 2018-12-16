@@ -18,3 +18,13 @@ redirect_from:
 * M.ScR. in Data Science, Edinburgh University, 2016-2017
 * Ph.D in Machine Learning, Edinburgh University, 2017-2020 (expected)
 
+### Employment
+* Edinburgh University
+Lead TA in the Machine Learning Practical course Sept. 2017 - Current
+* Amazon	Cambridge Speech Scientist Intern (Research)	Feb. 2016 to Sept. 2016
+* Lancaster University	Lancaster
+Research Associate	Sept. 2015 to Feb. 2016
+* Infolab21-Graduate Academy	Lancaster University
+Software Developer	Oct. 2014 to Dec. 2014
+* Infolab21-Computing and Communications Department	Lancaster
+Embedded Systems Research Intern	July 2014 to Sept. 2014
