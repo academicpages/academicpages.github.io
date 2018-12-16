@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Systems Engineering, Lancaster University, 2011-2014
+* M.Sc. in Data Science, Lancaster University, 2014-2015
+* M.ScR. in Data Science, Edinburgh University, 2016-2017
+* Ph.D in Machine Learning, Edinburgh University, 2017-2020 (expected)
 
 Work experience
 ======
