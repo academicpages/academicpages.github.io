@@ -18,15 +18,14 @@ redirect_from:
   * Thesis: A psychological approach to understanding decisions about time in public transport. Evidence from lab experiments in London, UK and Santiago, Chile
   * Supervisors: Prof. Nigel Harvey, Dr. Paula Parpart and Prof. Juan Carlos Muñoz
     
-
 ## Awards
 * Becas Chile - Conicyt Master Fellowship (2016) [[link]](http://www.conicyt.cl/becas-conicyt/files/2016/01/4869_2016.pdf)
 * Michael Beesley Award (2015) [[link]](http://www.thredbo-conference-series.org/michael-beesley/)
 * Scholarships for Engineering Students to Study Abroad (2012) [[link]](http://www.ing.uc.cl/transporte-y-logistica/pablo-guarda-regresa-de-su-pasantia-en-uc-davis/)
-* John Paul II Foundation Scholarship (2009 - 2013) [[link]](http://www.slideshare.net/paguarda/certificado-becado-egresado-fundacion-beca-juan-pablo-ii)
+* John Paul II Foundation Scholarship (2009) [[link]](http://www.slideshare.net/paguarda/certificado-becado-egresado-fundacion-beca-juan-pablo-ii)
 
 ## CV
-To see an updated version of my CV please [click here](https://drive.google.com/file/d/1WXCnwbT2k-bmZliSz8CcjIyF_4lPQnGG/view?usp=sharing)
+* To see an updated version of my CV please [click here](https://drive.google.com/file/d/1WXCnwbT2k-bmZliSz8CcjIyF_4lPQnGG/view?usp=sharing)
 
 
 <!-- <iframe src="https://drive.google.com/file/d/1Sqhl0yt6XRriAkr1usdyptCjBAZkK2fh/preview" width="100%" height="100%"></iframe>  -->
