@@ -9,23 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+# Education
+
 * B.S. in Industrial Engineering, Pontificia Universidad Católica de Chile, 2013 (with minor in Social Psychology)
 * M.S. in Transportation Engineering, Pontificia Universidad Católica de Chile, 2015 
   * Thesis: What is behind fare evasion in public transport? An econometric approach
-  * Supervisors: Prof. Juan de Dios Ortúzar and Prof. Patricia Galilea 
+  * Supervisors: [Juan de Dios Ortúzar](http://www.ing.uc.cl/cuerpo-docente/ortuzar-juan-de-dios/) and [Patricia Galilea](http://www.ing.uc.cl/cuerpo-docente/galilea-aranda/)
 * M.S. in Cognitive and Decision Sciences, University College London, 2017 
   * Thesis: A psychological approach to understanding decisions about time in public transport. Evidence from lab experiments in London, UK and Santiago, Chile
-  * Supervisors: Prof. Nigel Harvey, Dr. Paula Parpart and Prof. Juan Carlos Muñoz
+  * Supervisors: [Nigel Harvey](https://www.ucl.ac.uk/pals/people/profiles/academic-staff/nigel-harvey), [Paula Parpart](https://www.ucl.ac.uk/pals/research/experimental-psychology/person/paula-parpart/) and [Juan Carlos Muñoz](http://www.ing.uc.cl/cuerpo-docente/munoz-juan-carlos/)
     
-## Awards
+# Awards
+
 * Becas Chile - Conicyt Master Fellowship (2016) [[link]](http://www.conicyt.cl/becas-conicyt/files/2016/01/4869_2016.pdf)
 * Michael Beesley Award (2015) [[link]](http://www.thredbo-conference-series.org/michael-beesley/)
 * Scholarships for Engineering Students to Study Abroad (2012) [[link]](http://www.ing.uc.cl/transporte-y-logistica/pablo-guarda-regresa-de-su-pasantia-en-uc-davis/)
 * John Paul II Foundation Scholarship (2009) [[link]](http://www.slideshare.net/paguarda/certificado-becado-egresado-fundacion-beca-juan-pablo-ii)
 
-## CV
-* To see an updated version of my CV please [click here](https://drive.google.com/file/d/1WXCnwbT2k-bmZliSz8CcjIyF_4lPQnGG/view?usp=sharing)
+# CV
+
+To see an updated version of my CV please [click here](https://drive.google.com/file/d/1WXCnwbT2k-bmZliSz8CcjIyF_4lPQnGG/view?usp=sharing)
 
 
 <!-- <iframe src="https://drive.google.com/file/d/1Sqhl0yt6XRriAkr1usdyptCjBAZkK2fh/preview" width="100%" height="100%"></iframe>  -->
