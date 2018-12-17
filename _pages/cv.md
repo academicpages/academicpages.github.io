@@ -31,7 +31,7 @@ SKILLS
 ======
 
 * **Research Skills**
-  * Multi-objective optimization software integration
+  * Multi-objective optimization software integration  
       Integrated into a Python library to create aircraft design method.
     * Genetic Algorithm,
     * Bayesian Optimization,
