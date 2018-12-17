@@ -15,8 +15,11 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
 
-  - title: "Archives"
+  - title: "Posts"
     url: /year-archive/
 
 #   - title: "Guide"
 #     url: /markdown/
+
+  - title: "Contact"
+    url: /contact/
