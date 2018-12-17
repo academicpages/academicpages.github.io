@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.S. in Industrial Engineering, Pontificia Universidad Católica de Chile, 2013
+* B.S. in Industrial Engineering, Pontificia Universidad Católica de Chile, 2013 (with minor in Social Psychology)
 * M.S. in Transportation Engineering, Pontificia Universidad Católica de Chile, 2015 
   * Thesis: What is behind fare evasion in public transport? An econometric approach
   * Supervisors: Prof. Juan de Dios Ortúzar and Prof. Patricia Galilea 
@@ -20,10 +20,10 @@ redirect_from:
     
 
 ## Awards
-* Becas Chile - Conicyt Master Fellowship (Sep 2016 - Aug 2017)
-* Michael Beesley Award (2015)
-* Scholarships for Engineering Students to Study Abroad (2012)
-* John Paul II Foundation Scholarship (2009 - 2013)
+* Becas Chile - Conicyt Master Fellowship (Sep 2016 - Aug 2017) [[link]](http://www.conicyt.cl/becas-conicyt/files/2016/01/4869_2016.pdf)
+* Michael Beesley Award (2015) [[link]](http://www.thredbo-conference-series.org/michael-beesley/)
+* Scholarships for Engineering Students to Study Abroad (2012) [[link]](http://www.ing.uc.cl/transporte-y-logistica/pablo-guarda-regresa-de-su-pasantia-en-uc-davis/)
+* John Paul II Foundation Scholarship (2009 - 2013) [[link]](http://www.slideshare.net/paguarda/certificado-becado-egresado-fundacion-beca-juan-pablo-ii)
 .
 ## CV
 To see an updated version of my CV please [click here](https://drive.google.com/file/d/1WXCnwbT2k-bmZliSz8CcjIyF_4lPQnGG/view?usp=sharing)
