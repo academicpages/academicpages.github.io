@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 
 * **Master of Engineering in Aerospace Engineering, TOHOKU UNIVERSITY**, Miyagi, Japan
   * expected March 2019
   * GPA 4.00 / 4.00
-
 * **Bachelor of Science in Engineering, TOHOKU UNIVERSITY**, Miyagi, Japan
   * March 2017
   * GPA 3.58 / 4.00
@@ -24,7 +23,6 @@ RESEARCH EXPERIENCE
 ======
 
 * **Leader of Aircraft Design Software Development Team**, April 2015 – present
-
   * Created a new method of designing composite aircraft.
   * Conducting multi-objective optimization aircraft design research under supervision of Professor Okabe (research topic of bachelor and master theses).
   * Taking a lead in collaborative research with Kawasaki Heavy Industries, Toray Industries, and three aerospace engineering laboratories.
@@ -33,33 +31,24 @@ SKILLS
 ======
 
 * **Research Skills**
-
   * Multi-objective optimization software integration
-
       Integrated into a Python library to create aircraft design method.
-
     * Genetic Algorithm,
     * Bayesian Optimization,
     * Finite Element Method (FEM),
     * Computational Fluid Dynamics (CFD),
     * Fluid-Structure Interaction
-
   * Four years Python programming
-
     * Object-oriented programming.
     * Python package development.
     * Science package user experience:  
       Numpy, Pandas, Scipy,
       Matplotlib, scikit-learn, pyNastran, PyGMO, sphinx.
-
   * Two years C and four years Fortran programming
-
     * In-house software development of FEM (C) and CFD (Fortran).
-
   * High performance computation experience in Linux environment.
 
 * **Language**
-
   * Native: Japanese.
   * Fluent: English, German.
 
@@ -67,30 +56,20 @@ TEACHING EXPERIENCE
 ======
 
 * **Mathematics for Engineering Class Tutor**, April - August 2017
-
   * Tutored freshman students in math for engineering using math exercises.
-
 * **Aircraft Design Class Tutor**, April - August 2016
-
   * Tutored freshman students in general knowledge of aircraft design.
 
 VOLUNTEERING
 ======
 
 * **AFS Intercultural Program Volunteer**, April 2013 – present
-
   * American Field Service [AFS](https://www.afsusa.org/study-abroad/) is a non-profit organization that provides intercultural learning opportunities (through high school student exchange programs) to help people understand different cultures.
-
   * I studied abroad in Germany when I was in high school for a year (February 2011 – January 2012) through this organization.
-
   * Supporting the international exchange students and Japanese high school students by organizing the exchange program.
-
 * **Program Head of AFS International Camp**, January - August 2018
-
   * Organized the international camp of AFS for high school student and exchange student.
-
 * **IPLANET Tutor**, April 2014 - March 2017
-
   * Supported exchange student in Tohoku University.
 
 AWARDED FUNDING INFORMATION
