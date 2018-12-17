@@ -18,7 +18,8 @@ EDUCATION
 * **Bachelor of Science in Engineering, TOHOKU UNIVERSITY**, Miyagi, Japan
   * March 2017
   * GPA 3.58 / 4.00
-  
+
+<br />
 
 RESEARCH EXPERIENCE
 ======
@@ -28,7 +29,7 @@ RESEARCH EXPERIENCE
   * Conducting multi-objective optimization aircraft design research under supervision of Professor Okabe (research topic of bachelor and master theses).
   * Taking a lead in collaborative research with Kawasaki Heavy Industries, Toray Industries, and three aerospace engineering laboratories.
 
----
+<br />
 
 SKILLS
 ======
@@ -55,7 +56,7 @@ SKILLS
   * Native: Japanese.
   * Fluent: English, German.
 
----
+<br />
 
 TEACHING EXPERIENCE
 ======
@@ -65,7 +66,7 @@ TEACHING EXPERIENCE
 * **Aircraft Design Class Tutor**, April - August 2016
   * Tutored freshman students in general knowledge of aircraft design.
 
----
+<br />
 
 VOLUNTEERING
 ======
@@ -79,14 +80,14 @@ VOLUNTEERING
 * **IPLANET Tutor**, April 2014 - March 2017
   * Supported exchange student in Tohoku University.
 
----
+<br />
 
 AWARDED FUNDING INFORMATION
 ======
 
 * Boeing Higher Education Program 2016: *Development of an Aero-Structural Optimization Tool for Aircraft*
 
----
+<br />
 
 CONFERENCE PRESENTATIONS
 ======
