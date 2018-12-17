@@ -64,7 +64,7 @@ VOLUNTEERING
 ======
 
 * **AFS Intercultural Program Volunteer**, April 2013 – present
-  * American Field Service [AFS](https://www.afsusa.org/study-abroad/) is a non-profit organization that provides intercultural learning opportunities (through high school student exchange programs) to help people understand different cultures.
+  * American Field Service ([AFS](https://www.afsusa.org/study-abroad/)) is a non-profit organization that provides intercultural learning opportunities (through high school student exchange programs) to help people understand different cultures.
   * I studied abroad in Germany when I was in high school for a year (February 2011 – January 2012) through this organization.
   * Supporting the international exchange students and Japanese high school students by organizing the exchange program.
 * **Program Head of AFS International Camp**, January - August 2018
