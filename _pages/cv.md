@@ -18,8 +18,7 @@ EDUCATION
 * **Bachelor of Science in Engineering, TOHOKU UNIVERSITY**, Miyagi, Japan
   * March 2017
   * GPA 3.58 / 4.00
-
----
+  
 
 RESEARCH EXPERIENCE
 ======
