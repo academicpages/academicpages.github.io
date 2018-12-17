@@ -11,12 +11,18 @@ redirect_from:
 
 ## Education
 * B.S. in Industrial Engineering, Pontificia Universidad Católica de Chile, 2013
+  * Awards
+    * John Paul II Foundation Scholarship
+    * Scholarships for Engineering Students to Study Abroad
 * M.S. in Transportation Engineering, Pontificia Universidad Católica de Chile, 2015 
   * Thesis: What is behind fare evasion in public transport? An econometric approach
   * Supervisors: Prof. Juan de Dios Ortúzar and Prof. Patricia Galilea
+  * Awards: Michael Beesley Award
 * M.S. in Cognitive and Decision Sciences, University College London, 2017 
   * Thesis: A psychological approach to understanding decisions about time in public transport. Evidence from lab experiments in London, UK and Santiago, Chile
   * Supervisors: Prof. Nigel Harvey, Dr. Paula Parpart and Prof. Juan Carlos Muñoz
+  * Award
+    .* Becas Chile - Conicyt Master Fellowship
 
 ## CV
 To see an updated version of my CV please [click here](https://drive.google.com/file/d/1WXCnwbT2k-bmZliSz8CcjIyF_4lPQnGG/view?usp=sharing)
