@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# TEL
-
-888888888
-
 # E-mail
 
-test
+masashi.sode(at)gmail.com
+
+# LinkedIn
+
+[Masashi Sode](https://www.linkedin.com/in/masashisode/)
+
+# Github
+
+[MasashiSode](https://github.com/MasashiSode)
