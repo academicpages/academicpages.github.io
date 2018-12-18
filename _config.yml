@@ -213,7 +213,7 @@ defaults:
   # _resources
   - scope:
       path: ""
-      type: software
+      type: resources
     values:
       layout: single
       author_profile: true
