@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Traffic Engineering"
+title: "Fundamentals of Transportation Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-2-teaching-2
