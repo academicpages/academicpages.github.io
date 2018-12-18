@@ -9,6 +9,10 @@ collection: resources
 
 [Guide to using EndNote](http://canterbury.libguides.com/endnote)
 
+[Intro to Bioinformatics from Wilson-Sayres lab](https://github.com/WilsonSayresLab/BioinformaticsIntroduction/blob/master/README.md)
+
+[Aggregation of bioinformatics resources from Coppola Lab](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab)
+
 [Git cheat sheet](http://neuroplausible.com/github)
 
 [Rmarkdown cheat sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
