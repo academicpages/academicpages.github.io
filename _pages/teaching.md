@@ -7,7 +7,7 @@ redirect_from:
   - /teaching
 ---
 
-### Lead Teaching Assistant for the Machine Learning Practical course - Edinburgh University - 2017-2019
+### Lead Teaching Assistant for the [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html) course - Edinburgh University - 2017-2019
 - Heavily involved in creating all weekly teaching materials, usually in the form of Jupyter notebooks, in which
 the students were required to build their own deep neural networks from scratch in numpy in Term 1. Further, in Term 2, 
 I am the main contributor of tutorials on Pytorch/Tensorflow as well as cloud computing guides and GPU cluster debugging tutorials.
@@ -16,6 +16,7 @@ that implements any and all coursework boilerplate code/tutorial notes/guides.
 - Supervision of student groups on their deep learning projects in term 2, where students can choose any deep learning
 related topic and work on a research project, to be implemented in Pytorch/Tensorflow. The main output is a report in
 ICML paper format. This component requires supporting students in writing a concise, readable and compelling paper.
+- Maintenance and development of the [MLP github repo](https://github.com/CSTR-Edinburgh/mlpractical)
 - Marker for term 2 research projects.
 - Support for technical issues with GPU Clusters and Compute Cloud providers.
 

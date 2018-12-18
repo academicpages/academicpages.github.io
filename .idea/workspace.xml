@@ -15,12 +15,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/home.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -62,12 +62,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_pages/teaching.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <first_editor relative-caret-position="270">
+                <caret line="18" column="100" selection-start-line="18" selection-start-column="100" selection-end-line="18" selection-end-column="100" />
               </first_editor>
               <second_editor />
             </state>
@@ -143,12 +143,12 @@
         <option value="$PROJECT_DIR$/_pages/blog.md" />
         <option value="$PROJECT_DIR$/_pages/cv.bak" />
         <option value="$PROJECT_DIR$/_posts/2018-11-30-HTYM.md" />
-        <option value="$PROJECT_DIR$/_pages/teaching.md" />
         <option value="$PROJECT_DIR$/_pages/cv.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_pages/publications.bak" />
         <option value="$PROJECT_DIR$/_pages/publications.md" />
         <option value="$PROJECT_DIR$/_pages/home.md" />
+        <option value="$PROJECT_DIR$/_pages/teaching.md" />
       </list>
     </option>
   </component>
@@ -416,16 +416,6 @@
     <entry file="file://$PROJECT_DIR$/_pages/home.bak">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/teaching.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -480,8 +470,18 @@
     <entry file="file://$PROJECT_DIR$/_pages/home.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/teaching.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="100" selection-start-line="18" selection-start-column="100" selection-end-line="18" selection-end-column="100" />
           </first_editor>
           <second_editor />
         </state>
