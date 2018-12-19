@@ -9,3 +9,9 @@ permalink: /projects/
 python Aero-Structural Multi-Objective Optimization Package
 
 details coming soon
+
+## MOBO
+
+constrained/unconstrained Multi-Objective Bayesian Optimization Package ([Github Page](https://github.com/MasashiSode/MOBO))
+coded using Python.  
+one of my personal projects
