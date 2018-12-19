@@ -20,4 +20,4 @@ header:
 <b>Reference:</b>
 * Cedric Scheerlinck, Chris Mamon, Tony Zahtila, Wilson Nguyen, Eric Poon, Vikas Thondapu, Cheng Chin, Steve Moore, Peter
 Barlis and Andrew Ooi, "Effect of Medical Imaging Modalities on the simulated blood flow
-through a 3D reconstructed stented coronary artery segment", Australasian Fluid Mechanics Conference (AFMC), Perth, 2016.
+through a 3D reconstructed stented coronary artery segment," Australasian Fluid Mechanics Conference (AFMC), Perth, 2016.
