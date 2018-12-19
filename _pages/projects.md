@@ -1,6 +1,6 @@
 ---
 title: 'Research Projects'
-date: 2018-12-20
+# date: 2018-12-20
 permalink: /projects/
 ---
 
