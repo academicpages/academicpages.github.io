@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[download CV](cv.pdf)
-======
+## [download CV](cv.pdf)
+<!-- ====== -->
 
 <!-- <br /> -->
 
