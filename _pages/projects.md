@@ -4,7 +4,7 @@ title: 'Research Projects'
 permalink: /projects/
 ---
 
-# pyASOpt
+## pyASOpt
 
 python Aero-Structural Multi-Objective Optimization Package
 
