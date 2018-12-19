@@ -24,5 +24,4 @@ masashi.sode(at)gmail.com
 ```python
 import numpy as np
 a = np.zeros([2, 2])
-
 ```
