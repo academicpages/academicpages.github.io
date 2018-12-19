@@ -12,10 +12,10 @@ redirect_from:
 [download CV](cv.pdf)
 ======
 
-<br />
+<!-- <br /> -->
 
-EDUCATION
-======
+## EDUCATION
+<!-- ====== -->
 
 * **Master of Engineering in Aerospace Engineering, TOHOKU UNIVERSITY**, Miyagi, Japan
   * expected March 2019
@@ -24,20 +24,20 @@ EDUCATION
   * March 2017
   * GPA 3.58 / 4.00
 
-<br />
+<!-- <br /> -->
 
-RESEARCH EXPERIENCE
-======
+## RESEARCH EXPERIENCE
+<!-- ====== -->
 
 * **Leader of Aircraft Design Software Development Team**, April 2015 – present
   * Created a new method of designing composite aircraft.
   * Conducting multi-objective optimization aircraft design research under supervision of Professor Okabe (research topic of bachelor and master theses).
   * Taking a lead in collaborative research with Kawasaki Heavy Industries, Toray Industries, and three aerospace engineering laboratories.
 
-<br />
+<!-- <br /> -->
 
-SKILLS
-======
+## SKILLS
+<!-- ====== -->
 
 * **Research Skills**
   * Multi-objective optimization software integration  
@@ -61,20 +61,20 @@ SKILLS
   * Native: Japanese.
   * Fluent: English, German.
 
-<br />
+<!-- <br /> -->
 
-TEACHING EXPERIENCE
-======
+## TEACHING EXPERIENCE
+<!-- ====== -->
 
 * **Mathematics for Engineering Class Tutor**, April - August 2017
   * Tutored freshman students in math for engineering using math exercises.
 * **Aircraft Design Class Tutor**, April - August 2016
   * Tutored freshman students in general knowledge of aircraft design.
 
-<br />
+<!-- <br /> -->
 
-VOLUNTEERING
-======
+## VOLUNTEERING
+<!-- ====== -->
 
 * **AFS Intercultural Program Volunteer**, April 2013 – present
   * American Field Service ([AFS](https://www.afsusa.org/study-abroad/)) is a non-profit organization that provides intercultural learning opportunities (through high school student exchange programs) to help people understand different cultures.
@@ -85,17 +85,17 @@ VOLUNTEERING
 * **IPLANET Tutor**, April 2014 - March 2017
   * Supported exchange student in Tohoku University.
 
-<br />
+<!-- <br /> -->
 
-AWARDED FUNDING INFORMATION
-======
+## AWARDED FUNDING INFORMATION
+<!-- ====== -->
 
 * Boeing Higher Education Program 2016: *Development of an Aero-Structural Optimization Tool for Aircraft*
 
-<br />
+<!-- <br /> -->
 
-CONFERENCE PRESENTATIONS
-======
+## CONFERENCE PRESENTATIONS
+<!-- ====== -->
 
 1. **M. Sode**, N. Ishiura, Y. Nagumo, T. Okabe, *Aero-Structural Optimization of a Regional Jet Wing with Failure Criterion*, 33rd New Materials Engineering Conference, Fukushima, Japan, 5 - 7 Sep. 2017
 2. **M. Sode**, N. Ishiura, Y. Nagumo, T. Okabe, *Aero-Structural Optimization of an Aircraft Wing with Failure Criterion*, 42nd Composite Material Symposium, Miyagi, Japan, 14 – 15. Sep. 2017
