@@ -20,4 +20,5 @@ Here I will research image reconstruction, optical flow and deep learning with e
 When I'm not doing research I enjoy playing underwater rugby!
 
 ![Underwater_rugby_photo](/images/uwr3_labelled.png){:class="img-responsive"}
+<small><i>Photo: Phillipp Schmidli</i></small>
 
