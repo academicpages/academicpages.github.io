@@ -20,3 +20,9 @@ masashi.sode(at)gmail.com
 # Github
 
 [MasashiSode](https://github.com/MasashiSode)
+
+```python
+import numpy as np
+a = np.zeros([2, 2])
+
+```
