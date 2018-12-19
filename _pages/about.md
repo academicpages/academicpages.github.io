@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-about me
+about
 ======
 
-under construction
+Masashi Sode is a Research Master student in Aerospace Engineering at Tohoku University.
