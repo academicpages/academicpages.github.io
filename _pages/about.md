@@ -12,3 +12,35 @@ about
 ======
 
 Masashi Sode is a Research Master student in Aerospace Engineering at Tohoku University.
+Master's student at Tohoku Univversity
+
+- Place of Birth: Tokyo, Japan  
+
+Education
+======
+
+- 2017-present
+
+    **Tohoku University**  
+    **Master of Engineering in Aerospace Engineering** (expected March 2019)  
+    Department of Aerospace Engineering,  
+    Graduate School of Engineering,  
+    Sendai, Miyagi, Japan
+
+- 2013-2017
+
+    **Tohoku University**  
+    **Bachelor of Science in Engineering**  
+    Department of Mechanics and Aerospace Engineering,  
+    School of Engineering,  
+    Sendai, Miyagi, Japan
+
+- 2011-2012 (studying abroad)
+
+    **Helmholtz-Gymnasium Karlsruhe**  
+    Karlsruhe, Germany
+
+- 2009-2013
+
+    **Toin Gakuen High school**  
+    Kanagawa, Japan
