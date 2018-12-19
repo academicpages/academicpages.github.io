@@ -12,6 +12,7 @@ about
 ======
 
 Masashi Sode is a Research Master student in Aerospace Engineering at Tohoku University.
+Since he has been engaged in his bachelor’s thesis research from his junior year, he has taken a leading place on an aircraft design software development team for the last four years. he integrated Computational Fluid Dynamics (CFD), the Finite Element Method (FEM), Fluid-Structure Interaction (FSI) and Kriging-based Optimization using Python, Fortran and C into an aircraft design library operating on a high performance computer.
 
 Education
 ======
