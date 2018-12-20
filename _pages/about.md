@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/ifraz_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://lantaoyu.github.io/files/ifraz-img2.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a research student in the [Information Science Department](http://isw3.naist.jp/home-en.html) at [Nara Institute of Science and Technology](http://www.naist.jp/en/). [[Curriculum Vitae]](http://lantaoyu.com/files/ifraz_cv.pdf)
