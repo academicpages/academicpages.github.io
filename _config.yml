@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Pengyu Cheng"
 description              : &description "Research Assistant at Duke University"
