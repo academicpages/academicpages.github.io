@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pengyu Cheng / Site Title"
+title                    : "Pengyu Cheng"
 title_separator          : "-"
 name                     : &name "Pengyu Cheng"
-description              : &description "personal description"
+description              : &description "Research Assistant at Duke University"
 url                      : https://linear95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Linear95/linear95.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Pengyu Cheng"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student"
-  location         : "Duke University"
+  bio              : "Ph.D. Student at Duke University"
+  location         : "Durham, NC"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=eeQ_yCkAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "linear95"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
