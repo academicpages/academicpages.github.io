@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Agronomy, China Agricultural University, 2009-2014
+* M.S. in Horticulture, Texas A&M University, 2014-2016
+* Certificate in Applied Statistics, Texas A&M University, 2015
+* Ongoing Ph.D in Plant Biology, University of Georgia, 2018-2023 (expected)
 
 Work experience
 ======
