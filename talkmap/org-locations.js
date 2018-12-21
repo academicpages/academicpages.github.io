@@ -23,6 +23,21 @@ var addressPoints = [
     "Los Angeles, CA",
     34.0543942,
     -118.2439408
+  ],
+  [
+    "Saint Petersburg, Russia",
+    59.9343,
+    30.3351
+  ],
+  [
+    "Alanya, Turkey",
+    36.5444,
+    31.9954
+  ],
+  [
+    "Hurghada, Egypt",
+    27.2579,
+    33.8116
   ]
 ];
 
