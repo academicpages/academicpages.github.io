@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Personal Webpage"
+title                    : "Blog"
 title_separator          : "-"
 name                     : &name "Julian Eiler"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julian Eiler"
   avatar           : "JulianEiler.JPG"
-  bio              : "Computer Vision Engineer working in a small robotic startup"
+  bio              : "Computer Vision Engineer working in a robotics startup in Pasadena"
   location         : "Los Angeles"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=AoQGhDgAAAAJ&hl=en"
