@@ -224,10 +224,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Travel
+  # _porforlio
   - scope:
       path: ""
-      type: Travel
+      type: portfolio
     values:
       layout: single
       author_profile: true
