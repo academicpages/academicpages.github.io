@@ -14,17 +14,18 @@ Welcome! This is my research / learning note website.
 
 
 ## Current Major Role
-A PhD student who studies computational plant science at University of Georgia.
-{: .notice--success}
+
+A PhD student who studies computational plant science at University of Georgia. 
 
 ## In the Core
 
 I am  a life-long learner with unstoppable curiosity, a problem-solver from realistic and computational perspectives, and becoming a discinplined dreamer of balancing work, life and family.
-{: .notice--warning}
+
 
 ## About Ph.D.
 
-Meaning:  <span class="btn btn--success">Positive, Happy, and Dynamic</span><br>Pronunciation: <span class="btn btn--danger">Pessimistic, Hazardous, and Dreadful.</span>
+Meaning:  <span class="btn btn--success">Patiently hoping for a Degree 
+          <span class="btn btn--danger">Permanent Head Damage. </span>
 
 ## Interests  
 
