@@ -7,5 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Hello there! 
 
-This is Momo's home on the web! 
+Welcome! This is my research / learning note website.
+
+I am currently a PhD student who studies computational plant science at University of Georgia.
+
