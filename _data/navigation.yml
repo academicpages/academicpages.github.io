@@ -9,11 +9,11 @@ main:
 #   - title: "Teaching"
 #     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "C++"
+    url: /cpp/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Tensorflow"
+    url: /tensorflow/
     
   - title: "CV"
     url: /cv/
