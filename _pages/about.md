@@ -24,8 +24,9 @@ I am  a life-long learner with unstoppable curiosity, a problem-solver from real
 
 ## About Ph.D.
 
-Meaning:  <span class="btn btn--success">Patiently hoping for a Degree 
-          <span class="btn btn--danger">Permanent Head Damage. </span>
+Meaning1:  <span class="btn btn--success">Patiently hoping for a Degree </span> <br>
+Meaning2:  <span class="btn btn--danger"> Permanent Head Damage. </span>
+Meaning3:  <span class="btn btn--warning"> Parents have Doubts. </span>
 
 ## Interests  
 
