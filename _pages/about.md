@@ -18,5 +18,5 @@ redirect_from:
 
 
 # Recent News
-* Dec 4-7, 2018. Perform Student Volunteer activity at [APSEC- Asia Pacific-Software Engineering Conference 2018](https://ifrazrehman.github.io/files/apsec_img.JPG)
+* Dec 4-7, 2018. Perform Student Volunteer activity at [APSEC- Asia Pacific-Software Engineering Conference 2018](https://github.com/ifrazrehman/ifrazrehman.github.io/blob/child-branch/files/apsec_img.JPG)
 * 17 March, 2018. Achievement of [MEXT research-scholarship](https://www.pk.emb-japan.go.jp/itpr_ja/00_000250.html).
