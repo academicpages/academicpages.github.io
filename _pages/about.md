@@ -16,3 +16,5 @@ I don't really have a clue how this will develop but I plan to write some blogpo
 I also haven't written any posts yet, but when I do you can find them here:
 [C++](https://julianeiler.github.io/cpp) and [Tensorflow](https://julianeiler.github.io/tensorflow)
 
+Here you can find a map of all the places I traveled:
+[map](https://julianeiler.github.io/talkmap.html)
