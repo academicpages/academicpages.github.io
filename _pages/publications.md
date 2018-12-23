@@ -1,11 +1,10 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=LNO4XZQAAAAJ&hl=en)
 
 - “Dilated DenseNets for relational reasoning” 
 A. Antoniou, A. Słowik, E. J. Crowley, and A. Storkey,
