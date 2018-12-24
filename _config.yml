@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "TaLlahassee, FL"
 title_separator          : "-"
 name                     : &name "Filiberto Asare-Akuffo"
-description              : &description "PhD Candidate at Florida State University and I used data to understand people's health seeking behavior and also their ability to reach opportunities through transportation "
+description              : &description "PhD Candidate at Florida State University and I used data to understand people's healthcare seeking behavior and also their ability to reach opportunities through transportation "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Tallahassee, FL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=cxsoxXgAAAAJ&hl=en"
-  email            :
+  email            : "aafkgh@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/filiberto-asare-akuffo-0583b863/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
