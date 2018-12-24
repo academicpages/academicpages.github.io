@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tallahassee, FL"
+title                    : "TaLlahassee, FL"
 title_separator          : "-"
 name                     : &name "Filiberto Asare-Akuffo"
-description              : &description "PhD Candidate at Florida State University "
+description              : &description "PhD Candidate at Florida State University and I used data to understand people's health seeking behavior and also their ability to reach opportunities through transportation "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
