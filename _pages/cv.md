@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA Economics and Geography, University of Cape Coast, Ghana 2008
+* M.S. in Geography (Concentrattion in Urban Planning and Geographic Information Systems, University of Alabama, 2014
+* Ph.D in Geography (Specializing in Transportation, Healthcare, and Accessibility, Florida State University, 2019 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Instructor of Records, Florida State University, Department of Geography, 2016 ongoing Courses:
+  * Teaching Assistant, GIS Lab Spring, 2016
+  * Instructor of Record, Computer Cartography Summer, 2016
+  * Teaching Assistant, GIS Lab Fall, 2016
+  * Teaching Assistant, GIS Lab Spring, 2017
+  * Instructor of Record, Introduction to GIS Summer, 2017
+  * Teaching Assistant, GIS Lab Fall, 2017
+  * Instructor of Record, Map Analysis Spring, 2018
+  * Instructor of Record, Map AnalysisSummer, 2018
+  * Instructor of Record, Map Analysis Fall, 2018 
+
+
+* Teaching Assistant, University of Alabama, Tuscaloosa, Department of Geography, World Regional Geography,Fall 2013 and Spring 2014 Instructors:  Dr.  Seth Appiah-Opoku
   
-Service and leadership
+Research Interest
 ======
-* Currently signed in to 43 different slack teams
+* Transportation Planning and Accessibility
+* Healthcare Access and Equity
+* Urban Growth and Development
+* Spatial Modelling and Analysis
+
+  
+Selected Conference Presentations
+======
+* Filiberto Asare-Akuffo. Measuring Spatial Accessibility to Dental Care Using the Generalized Two-Step FloatingCatchment Area Method
+  Paper presented at the Annual Meeting of the American Association of Geographers,5-9 April 2017, Boston, MA
+* Filiberto Asare-Akuffo. Measuring Spatial Accessibility to Dental Care in Leon County Poster presented at 96thTransportation Research
+  Board Annual Meeting. 8-12 January 2017, Washington, DC
+* Filiberto Asare-Akuffo. Rapid Urbanization and its Implication on Spatial Accessibility to Healthcare in Ghana.Paper presented at the
+  Annual conference of the Southeastern Division of the Association of American Geogra-phers, 20-21 November 2016, Columbia, South 
+  Carolina
+* Filiberto Asare-Akuffo. Urban Sprawl in Ghanaian Cities and Its Impacts on Individual Travel Behavior:  TheWay Forward. Paper
+  presented at Applied Geography Conference, 26-29 October 2016, Louisville, Kentucky.
+
+  
+
