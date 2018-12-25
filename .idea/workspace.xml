@@ -37,11 +37,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="87" column="84" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="84" />
+            <state relative-caret-position="543">
+              <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -100,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/publications.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -149,11 +149,11 @@
         <option value="$PROJECT_DIR$/_pages/cv.bak" />
         <option value="$PROJECT_DIR$/_posts/2018-11-30-HTYM.md" />
         <option value="$PROJECT_DIR$/_pages/cv.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_pages/publications.bak" />
         <option value="$PROJECT_DIR$/_pages/teaching.md" />
         <option value="$PROJECT_DIR$/_pages/home.md" />
         <option value="$PROJECT_DIR$/_pages/publications.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -465,13 +465,6 @@
     <entry file="file://$PROJECT_DIR$/_config.dev.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="87" column="84" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/home.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -489,6 +482,13 @@
             <caret column="3" selection-start-column="3" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
         </state>
       </provider>
     </entry>
