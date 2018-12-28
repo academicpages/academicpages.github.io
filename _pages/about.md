@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Mehdi Momen, a post-doctoral research associcate at the Department of Animal and Poultry Sciences at the Virginia Polytechnic Institute and State University (VT).
+I’m Mehdi Momen, a Statistical and Quantitative Geneticist and a post-doctoral research associcate at the Department of Animal and Poultry Sciences at the Virginia Polytechnic Institute and State University (VT).
 
 
 Research Interet 
