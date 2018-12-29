@@ -40,7 +40,7 @@ Research Experience
   * Department of Plant Science, Rutgers University
   * Under the supervision of Dr. Richard Merritt, I assisted in the development of a bioreactor system for micropropagation of <i>Lilium spp.</i>. This system was intended to have applications in the horticulture and nutraceutical industries. Moreover, I worked with Dr. Gojko Jelenkovic in the evaluation and propagation of strawberry varieties.
   
-* June 2010 - July 2010: Summer Intern
+* June 2010 - July 2010: Summer Intern 
   * USDA-ARS Tropical Agriculture Research Station, Mayaguez, PR
   * During the six-week internship I assisted with daily tasks in the entomology, dry bean genetics, and tropical fruit production groups.
     
