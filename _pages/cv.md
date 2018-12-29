@@ -31,6 +31,7 @@ Skills
 * Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer; 
 * Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems; 
 * Intermediate user of CESM Earth System Models, familiar with UK UM-UKCA model
+* Phtographing and writting
 
 Work experience
 ======
