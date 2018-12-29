@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S., Plant Science, Specialization in Research, Rutgers University, May 2010
-  * Advisors: Drs. Richard Merritt, Gojko Jelenkovic
-  * Graduated summa cum laude
-* Ph.D., Agronomy, Specialization in Plant Breeding and Genetics, University of Nebraska - Lincoln, August 2017
-  * Dissertation: "Dissecting the genetic architecture of salinity responses in rice (<i>Oryza sativa</i>)".
-  * Advisor: Dr. Harkamal Walia
-  * Committee: Drs. Paul Staswick, Chi Zhang, and Gautam Sarath
-
+* Ph.D., Animal Breeding and Genetics, SBUK University,Kerman, Iran. April 2017
+  * Dissertation: "Predictive ability and sensitivity of Whole Genome Prediction (WGP) statistical Models for Genomic Selection in  complex Traits with Additive, Dominance and Epistatic Genetic Architecture".
+  * Advisor: Ahmad Ayatollahi Mehrgardi & Ali Esmailizadeh
+  
+* M.S., Animal Breeding and Genetics,University Tehran,Tehran, Iran. May 2010
+  * Dissertation: "Genetic analysis of reproductive and growth traits in purebred and crossbred lambs from three Iranian sheep breeds".
+  * Advisor: Nasser Emam-Jomea Kashan
 Research Experience
 ======
 * September 2017 - Current: Postdoctoral Researcher
