@@ -36,6 +36,7 @@ Research Experience
 
 Publications
 ======
+*Fazel, Y., A. Esmailizadeh, M. Momen, and M. Asadi Fozi. "Importance of genotype by environment interaction on genetic analysis of milk yield in Iranian Holstein cows using a random regression model." Animal Production Science (2018).
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
