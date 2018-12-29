@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2018-12-12
 venue: 'Animal Production Science'
 paperurl: 'http://www.publish.csiro.au/an/AN17714'
-citation: 'Momen, M., Mehrgardi, A. A., Sheikhy, A., Esmailizadeh, A., Fozi, M. A., Kranis, A., ... & Gianola, D. (2017). A predictive assessment of genetic correlations between traits in chickens using markers. Genetics Selection Evolution, 49(1), 16.' 
+citation: 'Momen, M., Ayatollahi Mehrgardi, A., Sheikhy, A., Esmailizadeh, A. K., & Assadi Foozi, M. (2016). Predictive Ability of Statistical Genomic Prediction Methods When Underlying Genetic Architecture of Trait Is Purely Additive. Iranian Journal of Applied Animal Science, 6(4), 815-822.' 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
