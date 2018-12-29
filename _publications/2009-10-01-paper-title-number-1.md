@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2018-12
 venue: 'Animal Production Science'
 paperurl: 'http://www.publish.csiro.au/an/AN17714'
-citation: 'Fazel, Y., Esmailizadeh, A., Momen, M., & Fozi, M. A. (2018). Importance of genotype by environment interaction on genetic analysis of milk yield in Iranian Holstein cows using a random regression model. Animal Production Science. <i>Journal 1</i>. 1(1).'
+citation: 'Fazel, Y., Esmailizadeh, A., Momen, M., & Fozi, M. A. (2018). Importance of genotype by environment interaction on genetic analysis of milk yield in Iranian Holstein cows using a random regression model. Animal Production Science.' 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
