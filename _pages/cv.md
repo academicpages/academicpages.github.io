@@ -45,4 +45,20 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+Skills
+======
+* Quantitative Skills
+  * Transcriptome Analysis
+    * Microarray: Affy, limma
+    * RNA-sequencing: BWA, limma, EdgeR, DEseq
+    * Co-expression network analysis: Weighted Gene Coexpression Network Analysis (WGCNA), Cytoscape
+  * Quantitative Genetics
+    * QTL Mapping: R/qtl
+    * Genome-wide Association Mapping: GEMMA, EMMA, TASSEL
+    * eQTL Mapping: Matrix eQTL, eQTL-BMA, TWAS/Fusion
+  * Statistics
+    * SAS
+    * R
+    * asREML
+
   
