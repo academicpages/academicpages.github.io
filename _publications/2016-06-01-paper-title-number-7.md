@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2018-12-12
 venue: 'Animal Production Science'
 paperurl: 'http://www.publish.csiro.au/an/AN17714'
-citation: 'Momen, M., Mehrgardi, A. A., Sheikhy, A., Esmailizadeh, A., Fozi, M. A., Kranis, A., ... & Gianola, D. (2017). A predictive assessment of genetic correlations between traits in chickens using markers. Genetics Selection Evolution, 49(1), 16.' 
+citation: 'Momen, M., Emam Jome Kashan, N., Sharifi, S. D., Amiri Roudbar, M., & Ayatolahi Mehrgardi, A. (2016). Fatty Acid Composition of Fat-Tail and Visceral Fat Depots from Chaal and Zandi Pure Bred Lambs and Their Crosses with Zel (Three Iranian Breeds). Iranian Journal of Applied Animal Science, 6(1), 107-112.' 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
