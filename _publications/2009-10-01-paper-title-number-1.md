@@ -3,7 +3,7 @@ title: "Importance of genotype by environment interaction on genetic analysis of
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-12
+date: 2018-12-12
 venue: 'Animal Production Science'
 paperurl: 'http://www.publish.csiro.au/an/AN17714'
 citation: 'Fazel, Y., Esmailizadeh, A., Momen, M., & Fozi, M. A. (2018). Importance of genotype by environment interaction on genetic analysis of milk yield in Iranian Holstein cows using a random regression model. Animal Production Science.' 
