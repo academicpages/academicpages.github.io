@@ -19,7 +19,7 @@ redirect_from:
 Education
 ======
 ------
-* B.S. in Oceanography, Ocean University of China, 2014 (*Outstanding Graduates in Shandong Province*)
+* B.S. in Oceanography, Ocean University of China, 2014 (*Outstanding Graduates of Shandong Province*)
 * M.S. in Satellite Ocean Remote Sensing, Ocean University of China, 2016 (*Best Postgraduate Thesis* & *Outstanding Postgraduate*)
 * PhD in Atmospheric and Envorimental Sciences, University of Edinburgh, 2019 (expected)
 
@@ -47,7 +47,7 @@ Trainings
 * The United Kingdom Chemistry and Aerosols (UKCA) Model Training, January 2017, University of Cambridge, UK, fully-funded
 * The Second ACAM Training School: Observations and Modelling of Atmospheric Chemistry and Aerosols in the Asian Monsoon Region, June 2017, Guangzhou, China, fully-funded
 * NCAS 2017 Climate Modelling Summer School, September 2017, University of Cambridge, UK, fully-funded
-* EPCC Message-Passing Programming with MPI course, November 20018, Edinburgh, UK
+* EPCC Message-Passing Programming with MPI course, November 2018, Edinburgh, UK
 * NERC Numerical Earth Sciences Modelling (NNESMO) course, January 2019, University of Durham, UK, fully-funded
 
 
