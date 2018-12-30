@@ -9,30 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/Saket Anand CV v1.2.pdf">Download PDF</a>
+
 Education
 ======
 * B.Tech in Computer Science, UPTU 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Software Engineer
+  * Biz2Credit Infoservices Pvt. Ltd. (MNC)
+  * Duties included: Microservice Development
+  * Software Used: NodeJS, Python, Bottle/Flask, Mongo DB, Docker
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: PHP Developer
+  * ITH Destination Pvt. Ltd.
+  * Duties included: Web Application Development
+  * Software used: PHP, CodeIgniter, JavaScript, HTML & CSS
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * OOP Concepts
+  * Design Patterns
+  * Data Structure
+  * Algorithms
+* Language & Frameworks
+  * Python
+    * Flask
+  * JavaScript
+    * NodeJS
+    * Express
+    * React
+  * PHP
+    * CodeIgniter
+    * Laravel
+  * Basic C++
+  * Basic Java
+* Database
+  * MySQL
+  * MongoDB
+  * Elasticsearch, Logstash, Kibana 
+  * Redis
+* Others
+  * Linux
+  * AWS Exposure
+  * Docker
 
 Publications
 ======
@@ -54,4 +76,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 14 different slack teams
