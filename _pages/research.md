@@ -18,14 +18,15 @@ author_profile: true
 
 ### Working Papers
 
-* **Severen**. (2018). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/Severen_JMP_2018.pdf)
-    * **_NEW_** June 2018 draft (with Appendix), older draft available as FRB Philadelphia Working Paper 18-14.
-    * More updates in the works :)
+* **Severen**. (2018). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/20181228_Severen_LAMetro_New.pdf)
+    * **_NEW_** January 2019 draft (with Appendix), older draft available as FRB Philadelphia Working Paper 18-14.
+    * Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.
 
 ### Works in Progress
 
 * "Formative Experiences and the Price of Gasoline" (with [Arthur van Benthem][avb]).
 
+* "Driving and Dropouts: The Effect of Graduated Driver's Licenses on High School Drop Out Rates" (with [Valerie Bostwick][vkb]).
 
 
 
@@ -35,3 +36,4 @@ author_profile: true
 [kjack]: https://sites.tufts.edu/kjack/
 [odeschenes]: https://econ.ucsb.edu/~olivier/
 [poliva]: https://dornsife.usc.edu/paulina-oliva/
+[vkb]: https://vkbostwick.weebly.com/
