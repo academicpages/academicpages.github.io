@@ -176,7 +176,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  notes:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -222,10 +222,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _notes
   - scope:
       path: ""
-      type: portfolio
+      type: notes
     values:
       layout: single
       author_profile: true
