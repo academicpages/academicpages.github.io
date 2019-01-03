@@ -15,7 +15,7 @@ Education
   * Dissertation: "Predictive ability and sensitivity of Whole Genome Prediction (WGP) statistical Models for Genomic Selection in  complex Traits with Additive, Dominance and Epistatic Genetic Architecture".
   * Advisor: Dr. Ahmad Ayatollahi Mehrgardi & Dr. Ali Esmailizadeh
   
-* Visiting Ph.D. Student. Animal Breeding and Genetics, Wisconsin-Madison university,Wisc, USA.2015-2016
+* Visiting Ph.D. Student. Animal Breeding and Genetics, University of Wisconsin–Madison, Wisc, USA.2015-2016
   * Dissertation: "Development and predictive assessment of whole-genome prediction machines in Genomic selection and Genome-wide association studies".
   * Advisor: Prof. Daniel Gianola
   
