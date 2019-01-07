@@ -3,6 +3,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131324268-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131324268-1');
+</script>
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=LNO4XZQAAAAJ&hl=en)
 

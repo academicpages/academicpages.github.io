@@ -5,6 +5,15 @@ author_profile: false
 redirect_from:
   - /teaching
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131324268-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131324268-1');
+</script>
 
 ### Lead Teaching Assistant for the [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html) course - Edinburgh University - 2017-2019
 - Heavily involved in creating all weekly teaching materials, usually in the form of Jupyter notebooks, in which

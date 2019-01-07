@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <meta name="google-site-verification" content="giQzN4aACkcRD3IY7dwaL7jyKfwAU3XSfmDbkKYn0pA" />
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131324268-1"></script>
 <script>
