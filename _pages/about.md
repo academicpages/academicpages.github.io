@@ -20,6 +20,12 @@ ICML 2018
 [paper](https://arxiv.org/pdf/1711.03213.pdf) \| [code](https://github.com/jhoffman/cycada_release)
 |
 
+
+
+
+Research2
+=======
+
 | <figure style="width: 180px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CycleGAN.jpg" alt=""> </figure> | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks  
 Jun-Yan Zhu*, **Taesung Park\***, Phillip Isola, and Alexei A. Efros
 ICCV 2017  
