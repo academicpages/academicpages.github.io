@@ -1,11 +1,11 @@
-  ---
-  layout: archive
-  title: "People"
-  permalink: /people/
-  author_profile: true
-  redirect_from:
-    - /people
-  ---
+---
+layout: archive
+- title: "People"
+permalink: /people/
+author_profile: true
+redirect_from:
+  - /people
+---
 
 # Faculty
 ## Xiangfeng WANG 王祥丰
