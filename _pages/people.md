@@ -7,25 +7,32 @@ redirect_from:
   - /people
 ---
 
-Faculty
-======
+# Faculty
+Xiangfeng WANG
+Bo JIN
 
 ## Phd Students
-1
-
-2
+Wenhao LI
+Yun HUA
+Junjie SHENG
 
 ## Master Students
-
-3
+Jinghui CAI
+Xin LI
+Junjie WANG
+Yiqiu HU
+Wangtao XIANG
+Qian WU
+Zhikai ZHANG
+Qisen XU
+Weiwen CHEN
+Hongjun CHEN
 
 ## Undergraduate Students
+Dute HUANG
+Shang GAO
+Xinyan LI
 
-
-Alumi
-======
-1
-
-2
-
-3
+## Alumi
+Wenjie ZHANG, 2018, Tecent
+Juan ZHANG, 2019, TBA
