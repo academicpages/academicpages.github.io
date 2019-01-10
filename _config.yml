@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "Xin Jin"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
-description              : &description "Research scientist at Test University"
-url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "getorg-testacct.github.io"
+name                     : &name "Xin Jin"
+description              : &description "Ph.D Student at The Ohio State University"
+url                      : https://xinjin95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "http://web.cse.ohio-state.edu/~jin.967/" # the subpath of your site, e.g. "/blog"
+repository               : "xinjin95/xinjin95.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,33 +77,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : "Xin Jin"
   avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  bio              : "Ph.D student at The Ohio State University, interested in NLP, Data Mining"
+  location         : "Columbus, OH, USA"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            : 
+  googlescholar    : 
+  email            : xin.jin0010@gmail.com
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "xin.jin.7186896"
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "xinjin95"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "simonking342"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  linkedin         : "xin-jin-889226174"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : "Simonki74013280"
   vine             :
   weibo            :
   xing             :
