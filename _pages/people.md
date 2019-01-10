@@ -8,34 +8,31 @@ redirect_from:
 ---
 
 # Faculty
-Xiangfeng WANG
+## Xiangfeng WANG
+## Bo JIN
 
-Bo JIN
+# Phd Students
+## Wenhao LI
+## Yun HUA
+## Junjie SHENG
 
-## Phd Students
-Wenhao LI
+# Master Students
+## Jinghui CAI
+## Xin LI
+## Junjie WANG
+## Yiqiu HU
+## Wangtao XIANG
+## Qian WU
+## Zhikai ZHANG
+## Qisen XU
+## Weiwen CHEN
+## Hongjun CHEN
 
-Yun HUA
+# Undergraduate Students
+## Dute HUANG
+## Shang GAO
+## Xinyan LI
 
-Junjie SHENG
-
-## Master Students
-Jinghui CAI
-Xin LI
-Junjie WANG
-Yiqiu HU
-Wangtao XIANG
-Qian WU
-Zhikai ZHANG
-Qisen XU
-Weiwen CHEN
-Hongjun CHEN
-
-## Undergraduate Students
-Dute HUANG
-Shang GAO
-Xinyan LI
-
-## Alumi
-Wenjie ZHANG, 2018, Tecent
-Juan ZHANG, 2019, TBA
+# Alumi
+## Wenjie ZHANG, 2018, Tecent
+## Juan ZHANG, 2019, TBA
