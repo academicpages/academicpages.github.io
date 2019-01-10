@@ -3,14 +3,14 @@
    ========================================================================== */
 
 table {
-  margin-bottom: 1em;
+  margin-bottom: 0.1em;
   width: 100%;
   font-family: $global-font-family;
   border-collapse: collapse;
   border: 0px solid $light-gray;
 
   & + table {
-    margin-top: 0.5em;
+    margin-top: 0.1em;
   }
 }
 
@@ -20,14 +20,14 @@ thead {
 }
 
 th {
-  padding: 0.1em;
+  padding: 0.01em;
   font-weight: bold;
   text-align: left;
   border-right: 0px solid $light-gray;
 }
 
 td {
-  padding: 0.1em;
+  padding: 0.01em;
   border-bottom: 0px solid $light-gray;
   border-right: 0px solid $light-gray;
 }
