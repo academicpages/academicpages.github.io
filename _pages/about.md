@@ -14,11 +14,11 @@ I study computer vision and learning-based computational photography. I received
 Research
 ======
 
-| <figure style="width: 300px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cycada.jpg" alt=""> </figure> | CyCADA: Cycle-Consistent Adversarial Domain Adaptation  
+| <figure style="width: 180px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cycada.jpg" alt=""> </figure> | CyCADA: Cycle-Consistent Adversarial Domain Adaptation  
 Judy Hoffman, Eric Tzeng, **Taesung Park**, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei Efros, Trevor Darrell  
 ICML 2018  
 [paper](https://arxiv.org/pdf/1711.03213.pdf) \| [code](https://github.com/jhoffman/cycada_release)
-| 
+|
 
 
 
