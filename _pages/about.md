@@ -26,7 +26,7 @@ ICCV 2017
 [project](https://junyanz.github.io/CycleGAN/)  [PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [Torch](https://github.com/junyanz/CycleGAN) [Paper](https://arxiv.org/pdf/1703.10593.pdf)
 |
 
-| <figure style="width: 180px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.jpg" alt=""> </figure> |  Inverse Optimal Control for Humanoid Locomotion  
+| <figure style="width: 180px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.jpng" alt=""> </figure> |  Inverse Optimal Control for Humanoid Locomotion  
 **Taesung Park**, Sergey Levine  
 RSS Workshop on Inverse Optimal Control & Robotic Learning from Demonstration, 2013  
 [Paper]({{ site.url }}{{ site.baseurl }}/files/humanioc.pdf)
