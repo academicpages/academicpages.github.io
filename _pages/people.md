@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: " "
 permalink: /people/
 author_profile: true
 redirect_from:
