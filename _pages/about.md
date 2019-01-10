@@ -38,6 +38,11 @@ Recorded Talks
 - ICCV 2017 Live Demo [link](https://www.youtube.com/watch?v=chi6aBvLMT0)  
 - Talk at Naver (June 2017) [link](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)  
 
+Photography
+=======
+
+I like to take short trips from campus and shoot photos of the beautiful Californian nature. You can view them [here](https://500px.com/taesungpark)
+
 CV
 ======
 
