@@ -17,13 +17,13 @@ Research
 | <figure style="width: 180px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cycada.jpg" alt=""> </figure> | CyCADA: Cycle-Consistent Adversarial Domain Adaptation  
 Judy Hoffman, Eric Tzeng, **Taesung Park**, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei Efros, Trevor Darrell  
 ICML 2018  
-[paper](https://arxiv.org/pdf/1711.03213.pdf)  [code](https://github.com/jhoffman/cycada_release)
+[paper](https://arxiv.org/pdf/1711.03213.pdf) \| [code](https://github.com/jhoffman/cycada_release)
 |
 
 | <figure style="width: 180px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CycleGAN.jpg" alt=""> </figure> | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks  
 Jun-Yan Zhu*, **Taesung Park\***, Phillip Isola, and Alexei A. Efros
 ICCV 2017  
-[project](https://junyanz.github.io/CycleGAN/)  [PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [Torch](https://github.com/junyanz/CycleGAN) [Paper](https://arxiv.org/pdf/1703.10593.pdf)
+[project](https://junyanz.github.io/CycleGAN/) \| [PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) \| [Torch](https://github.com/junyanz/CycleGAN) \| [Paper](https://arxiv.org/pdf/1703.10593.pdf)
 |
 
 | <figure style="width: 180px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.jpng" alt=""> </figure> |  Inverse Optimal Control for Humanoid Locomotion  
