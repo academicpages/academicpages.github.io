@@ -9,11 +9,14 @@ redirect_from:
 
 # Faculty
 Xiangfeng WANG
+
 Bo JIN
 
 ## Phd Students
 Wenhao LI
+
 Yun HUA
+
 Junjie SHENG
 
 ## Master Students
