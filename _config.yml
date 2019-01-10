@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xin Jin"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xin JIn"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://xinjin95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "http://web.cse.ohio-state.edu/~jin.967/" # the subpath of your site, e.g. "/blog"
+repository               : "xinjin95/xinjin95.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,34 +80,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xin Jin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : 
+  location         : "Columbus, OH, USA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : xin.jin0010@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Xin_Jin102"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "xin.jin.7186896"
   foursquare       :
-  github           : "academicpages"
+  github           : "xinjin95"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "simonking342"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "xin-jin-889226174"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Simonki74013280"
   vine             :
   weibo            :
   xing             :
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -306,5 +306,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-merlot
