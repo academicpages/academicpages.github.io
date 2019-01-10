@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="shortcut icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/images/favicon-32x32.png">
+<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
 
 I am a Ph.D. student in Computer Science at UC Berkeley, advised by [Prof. Alexei Efros](https://people.eecs.berkeley.edu/~efros/). 
 I study computer vision and learning-based computational photography. I interned at NVIDIA, working with [Ming-Yu Liu](http://www.mingyuliu.net/) in summer 2018. I received B.S. in Mathematics and M.S. in Computer Science, both at Stanford University. During my Master’s program, I was advised by [Vladlen Koltun](http://vladlen.info/) and [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/). I am funded by Samsung Scholarship for my Ph.D. study. 
