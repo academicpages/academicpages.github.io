@@ -35,13 +35,11 @@ Research Assistant, supervised by [*Prof. Zuqing Zhu*](http://www.zuqingzhu.info
 
 **Project: Design of Restoration Schemes for OTN Encryption Architecture**
 
-* Addressed the security vulnerabilities in three encryption network architectures deployed in optical
-transport network, and introduced multi-layer restoration as security protection solution.
-* Proposed a multi-layer restoration scheme and an auxiliary-graph algorithm to improve the cost effective-
-ness based on operational expense, and implemented numerical simulations in NSFNET topology.
+* Addressed the security vulnerabilities in three encryption network architectures deployed in optical transport network, and introduced multi-layer restoration as security protection solution.
+* Proposed a multi-layer restoration scheme and an auxiliary-graph algorithm to improve the cost effectiveness based on operational expense, and implemented numerical simulations in NSFNET topology.
 
 
-**Project: Research on Dynamic Failure Recovery Scheme in Multi-layer EONs**
+**Project: Research on Dynamic Failure Recovery Scheme in Multi-layer Elastic Optical Networks (EONs)**
 
 * Applied co-degradation of QoS, demand classification and dynamic routing to recover affected traffic flows affected by outages in heavily loaded multi-layer EONs.
 * Proposed a mixed-integer linear programming model to formulate broken virtual mapping topology.
