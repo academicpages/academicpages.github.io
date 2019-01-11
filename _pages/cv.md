@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,11 +26,14 @@ Experiences
 Research Assistant, supervised by [*Prof. Xipeng Qiu*](http://nlp.fudan.edu.cn/xpqiu)
 
 * Designed
-  
+
+
 Honors/Awards
 ======
 
-*
+* Excellent Graduate in NWPU (top 5.8%), 06/2017.
+* The Outstanding Prize Scholarship/ Distinguished Student in NWPU (top 0.1%), 10/2016.
+* National Scholarship by Chinese Ministry of Education (top 1.4%), 10/2016 & 10/2015 & 10/2014.
   
 Teaching
 ======
