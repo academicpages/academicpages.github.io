@@ -58,7 +58,7 @@ strategies.
 * Formulated a stackelberg game in which the service operator is the leader and incoming requests are the followers.
 * Analyzed the existence of Stackelberg Equilibriums in the single-logic-link and multiple-logic-links scenarios.
 
-### [Undergraduate Research Program], Northwestern Polytechnical University
+### Undergraduate Research Program, Northwestern Polytechnical University
 
 Research Assistant, supervised by [*Prof. Ruonan Zhang*](http://dianzi.nwpu.edu.cn/info/1270/5979.htm)
 
