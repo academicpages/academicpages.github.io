@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin Jin"
+title                    : "Xin Jin's Homepage"
 title_separator          : "-"
-name                     : &name "Xin Jin, 金鑫"
+name                     : &name "Xin Jin"
 description              : &description "Ph.D Student at The Ohio State University"
 url                      : "https://xinjin95.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"http://web.cse.ohio-state.edu/~jin.967/" # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xin Jin"
+  name             : "Xin Jin, 金鑫"
   avatar           : "XinJin.jpg"
   bio              : "Ph.D student at The Ohio State University, interested in NLP, Data Mining"
   location         : "Columbus, OH, USA"
