@@ -17,13 +17,11 @@ Education
 ### [Northwestern Polytechnical University](http://www.nwpu.edu.cn) (NWPU)
 * B.S. in Electrical & Computer Engineering, Sep. 2013 - Jun. 2017
 * Owner of Outstanding Prize Scholarship, Excellent Graduate of NWPU
-
-
-
-
+  
+  
 Experiences
 ======
-## [Fudan Natural Language Processing Group](http://nlp.fudan.edu.cn) (FudanNLP), Fudan University
+### [Fudan Natural Language Processing Group](http://nlp.fudan.edu.cn) (FudanNLP), Fudan University
 
 Research Assistant, supervised by [*Prof. Xipeng Qiu*](http://nlp.fudan.edu.cn/xpqiu)
 
@@ -31,11 +29,11 @@ Research Assistant, supervised by [*Prof. Xipeng Qiu*](http://nlp.fudan.edu.cn/x
 * Participated in developing three mechanisms of sharing information to model text with task-specific and
 shared layers based on recurrent neural network.
 
-## [Intelligent Networking systems & Future Internet Infrastructure Lab](http://www.zuqingzhu.info) (INFINITE), University of Science and Technology of China
+### [Intelligent Networking systems & Future Internet Infrastructure Lab](http://www.zuqingzhu.info) (INFINITE), University of Science and Technology of China
 
 Research Assistant, supervised by [*Prof. Zuqing Zhu*](http://www.zuqingzhu.info)
 
-### Project: Design of Restoration Schemes for OTN Encryption Architecture
+**Project: Design of Restoration Schemes for OTN Encryption Architecture**
 
 * Addressed the security vulnerabilities in three encryption network architectures deployed in optical
 transport network, and introduced multi-layer restoration as security protection solution.
@@ -43,7 +41,7 @@ transport network, and introduced multi-layer restoration as security protection
 ness based on operational expense, and implemented numerical simulations in NSFNET topology.
 
 
-### Project: Research on Dynamic Failure Recovery Scheme in Multi-layer EONs
+**Project: Research on Dynamic Failure Recovery Scheme in Multi-layer EONs**
 
 * Applied co-degradation of QoS, demand classification and dynamic routing to recover affected traffic flows affected by outages in heavily loaded multi-layer EONs.
 * Proposed a mixed-integer linear programming model to formulate broken virtual mapping topology.
@@ -52,13 +50,13 @@ classified co-degradation algorithm, to solve the NP-hard problem of MILP model.
 * Launched simulations in eight-node EON and achieved respectively 56% and 68% performance improve- ment in terms of degradation penalty and decline of blocking probability compared with existing recovery
 strategies.
 
-### Project: Design of Flexible Service Provisioning in IP over EONs
+**Project: Design of Flexible Service Provisioning in IP over EONs**
 
 * Addressed the problems of the existing studies assuming the network service provisioning managed in a entirely centralized manner.
 * Formulated a stackelberg game in which the service operator is the leader and incoming requests are the followers.
 * Analyzed the existence of Stackelberg Equilibriums in the single-logic-link and multiple-logic-links scenarios.
 
-## Undergraduate Research Program, Northwestern Polytechnical University
+### Undergraduate Research Program, Northwestern Polytechnical University
 
 Research Assistant, supervised by [*Prof. Ruonan Zhang*](http://dianzi.nwpu.edu.cn/info/1270/5979.htm)
 
@@ -66,7 +64,8 @@ Research Assistant, supervised by [*Prof. Ruonan Zhang*](http://dianzi.nwpu.edu.
 * Proposed a convolutional modeling approach to express a synthesized spatial channel response, and designed a two-step antenna de-embedding algorithm to de-embed the antenna effect and mitigate the system noise.
 * Proposed another de-embedding algorithm for mmWare channel measurement based on Tikhonove regularization.
 * Analyzed the measured channel response and obtained result of sparse impulse propagation model by computing data at frequencies of 73GHz and 73.4GHz, and achieved the correlation coefficient reaching more than 95%.
-
+  
+  
 Honors/Awards
 ======
 
@@ -82,12 +81,13 @@ International League of Underwater Robot, 07/2015.
 * Third Prize of National Undergraduate Electronic Design Competition by Chinese Ministry of Industry and
 Information Technology, 08/2015.
   
+  
 Teaching
 ======
 
 * Spring 2019: Computer Network (CSE 3461), OSU
 * Autumn 2018: Computer Network (CSE 3461), OSU
-
+  
   
 Service and leadership
 ======
