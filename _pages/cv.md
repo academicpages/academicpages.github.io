@@ -23,7 +23,7 @@ Education
 
 Experiences
 ======
-### [Fudan Natural Language Processing Group](http://nlp.fudan.edu.cn) (FudanNLP), Fudan University
+## [Fudan Natural Language Processing Group](http://nlp.fudan.edu.cn) (FudanNLP), Fudan University
 
 Research Assistant, supervised by [*Prof. Xipeng Qiu*](http://nlp.fudan.edu.cn/xpqiu)
 
@@ -31,11 +31,11 @@ Research Assistant, supervised by [*Prof. Xipeng Qiu*](http://nlp.fudan.edu.cn/x
 * Participated in developing three mechanisms of sharing information to model text with task-specific and
 shared layers based on recurrent neural network.
 
-### [Intelligent Networking systems & Future Internet Infrastructure Lab](http://www.zuqingzhu.info) (INFINITE), University of Science and Technology of China
+## [Intelligent Networking systems & Future Internet Infrastructure Lab](http://www.zuqingzhu.info) (INFINITE), University of Science and Technology of China
 
 Research Assistant, supervised by [*Prof. Zuqing Zhu*](http://www.zuqingzhu.info)
 
-#### Project: Design of Restoration Schemes for OTN Encryption Architecture
+### Project: Design of Restoration Schemes for OTN Encryption Architecture
 
 * Addressed the security vulnerabilities in three encryption network architectures deployed in optical
 transport network, and introduced multi-layer restoration as security protection solution.
@@ -43,7 +43,7 @@ transport network, and introduced multi-layer restoration as security protection
 ness based on operational expense, and implemented numerical simulations in NSFNET topology.
 
 
-#### Project: Research on Dynamic Failure Recovery Scheme in Multi-layer EONs
+### Project: Research on Dynamic Failure Recovery Scheme in Multi-layer EONs
 
 * Applied co-degradation of QoS, demand classification and dynamic routing to recover affected traffic flows affected by outages in heavily loaded multi-layer EONs.
 * Proposed a mixed-integer linear programming model to formulate broken virtual mapping topology.
@@ -52,13 +52,13 @@ classified co-degradation algorithm, to solve the NP-hard problem of MILP model.
 * Launched simulations in eight-node EON and achieved respectively 56% and 68% performance improve- ment in terms of degradation penalty and decline of blocking probability compared with existing recovery
 strategies.
 
-#### Project: Design of Flexible Service Provisioning in IP over EONs
+### Project: Design of Flexible Service Provisioning in IP over EONs
 
 * Addressed the problems of the existing studies assuming the network service provisioning managed in a entirely centralized manner.
 * Formulated a stackelberg game in which the service operator is the leader and incoming requests are the followers.
 * Analyzed the existence of Stackelberg Equilibriums in the single-logic-link and multiple-logic-links scenarios.
 
-### Undergraduate Research Program, Northwestern Polytechnical University
+## Undergraduate Research Program, Northwestern Polytechnical University
 
 Research Assistant, supervised by [*Prof. Ruonan Zhang*](http://dianzi.nwpu.edu.cn/info/1270/5979.htm)
 
