@@ -26,8 +26,9 @@ Research Experience
   * Assisted in screening tomatoes for whitefly resistance.
   * Crossed pepper, tomato, melon and squash to produce hybrid seed. 
   * Set up and maintained irrigation system in the field and greenhouses. 
-  * Supervised a crew of student workers and trained graduate student workers.
+  * Supervised a crew of undergraduate student workers and trained graduate student workers.
   * Maintained an orderly and efficient breeding laboratory, including carrying out bench work protocols, record-keeping and ordering supplies and equipment, etc.
+  * Prepared documents and manuscripts for conference presentation, publication and germplasm release. 
 * Graduate Research Assistant, TAMU, *2014-2016*
   * Developing SNP markers for shoot and root traits in an F2 population derived from Solanum lycopersicum and Solanum cheesmaniae using GBS (Genotype by Sequencing).
   * Measured the root morphological traits using WinRhizo software.
@@ -39,7 +40,7 @@ Research Experience
   * Received bioinformatics courses training on analyzing next-gen sequencing data by using R and Linux, including sequence alignment, genome annotation, assembly, and SNP calling, etc.
 * Undergraduate Reseach Assistant, Biomass Engeering Center, CAU, *2012-2014*
   * Conducted an anaerobic reactor biogas production project to study the effect of co-digesting sweet potato vines with dairy manure in different ratios on methane production.
-    * Measured the TVFA (total volatile fat acid) by using HPLC and S-COD (soluble chemical oxygen     demand), TS (total solids) and VS (volatile solids) of effluent every other three day
+    * Measured the TVFA (total volatile fat acid) by using HPLC and S-COD (soluble chemical oxygen demand), TS (total solids) and VS (volatile solids) of effluent every other three day
     * Monitored the methane content daily by using gas chromatography.
     * Received training on PCR, DGGE, AGE, and DNA extraction of soil samples.
   * Assisted in studying the effects of four different media (husk, rice straw, mixed husk and rice) on rice growth.
