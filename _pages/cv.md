@@ -23,7 +23,7 @@ Experiences
 ======
 ### [Fudan Natural Language Processing Group](http://nlp.fudan.edu.cn) (FudanNLP), Fudan University
 
-Research Assistant, supervised by [*Prof. Xipeng Qiu*](http://nlp.fudan.edu.cn/xpqiu)
+Research Assistant, supervised by [*Prof. Xipeng Qiu*](http://nlp.fudan.edu.cn/xpqiu/en.html)
 
 * Worked on the multi-task learning framework to jointly learn across multiple related tasks.
 * Participated in developing three mechanisms of sharing information to model text with task-specific and
