@@ -14,6 +14,8 @@ I am currently a first-year Ph.D student of [Department of Computer Science and 
 
 Before coming OSU, I obtained my B.E. degree from [School of Electronics and Information](http://dianzi.nwpu.edu.cn/en/index.htm) at [Northwestern Polytechnical University](http://en.nwpu.edu.cn/index.htm), supervised by [Prof. Ruonan Zhang](http://dianzi.nwpu.edu.cn/info/1270/5979.htm). I also fortunately worked with [Prof. Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html) on NLP at Fudan University and [Prof. Zuqing Zhu](http://www.zuqingzhu.info) on Cloud Computing at University of Science and Technology of China.
 
+Here is my [CV]() for more details.
+
 # What's new
 *08/2018*, I started to pursue my Ph.D. degree at OSU CSE department and left FudanNLP lab, thanks for all the help from Prof. Xipeng Qiu and Dr. Xinchi Chen.
 
