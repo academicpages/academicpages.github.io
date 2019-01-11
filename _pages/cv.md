@@ -33,13 +33,13 @@ shared layers based on recurrent neural network.
 
 Research Assistant, supervised by [*Prof. Zuqing Zhu*](http://www.zuqingzhu.info)
 
-**Project: Design of Restoration Schemes for OTN Encryption Architecture**
+_Project: Design of Restoration Schemes for OTN Encryption Architecture_
 
 * Addressed the security vulnerabilities in three encryption network architectures deployed in optical transport network, and introduced multi-layer restoration as security protection solution.
 * Proposed a multi-layer restoration scheme and an auxiliary-graph algorithm to improve the cost effectiveness based on operational expense, and implemented numerical simulations in NSFNET topology.
 
 
-**Project: Research on Dynamic Failure Recovery Scheme in Multi-layer Elastic Optical Networks (EONs)**
+*Project: Research on Dynamic Failure Recovery Scheme in Multi-layer Elastic Optical Networks (EONs)*
 
 * Applied co-degradation of QoS, demand classification and dynamic routing to recover affected traffic flows affected by outages in heavily loaded multi-layer EONs.
 * Proposed a mixed-integer linear programming model to formulate broken virtual mapping topology.
@@ -47,7 +47,7 @@ Research Assistant, supervised by [*Prof. Zuqing Zhu*](http://www.zuqingzhu.info
 classified co-degradation algorithm, to solve the NP-hard problem of MILP model.
 * Launched simulations in eight-node EON and achieved respectively 56% and 68% performance improve- ment in terms of degradation penalty and decline of blocking probability compared with existing recovery strategies.
 
-**Project: Design of Flexible Service Provisioning in IP over EONs**
+*Project: Design of Flexible Service Provisioning in IP over EONs*
 
 * Addressed the problems of the existing studies assuming the network service provisioning managed in a entirely centralized manner.
 * Formulated a stackelberg game in which the service operator is the leader and incoming requests are the followers.
