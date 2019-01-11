@@ -45,8 +45,7 @@ Research Assistant, supervised by [*Prof. Zuqing Zhu*](http://www.zuqingzhu.info
 * Proposed a mixed-integer linear programming model to formulate broken virtual mapping topology.
 * Designed a heuristic algorithm, based on MCMF algorithm, dynamic programming algorithm and
 classified co-degradation algorithm, to solve the NP-hard problem of MILP model.
-* Launched simulations in eight-node EON and achieved respectively 56% and 68% performance improve- ment in terms of degradation penalty and decline of blocking probability compared with existing recovery
-strategies.
+* Launched simulations in eight-node EON and achieved respectively 56% and 68% performance improve- ment in terms of degradation penalty and decline of blocking probability compared with existing recovery strategies.
 
 **Project: Design of Flexible Service Provisioning in IP over EONs**
 
