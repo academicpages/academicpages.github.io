@@ -4,7 +4,6 @@ collection: research
 type: "EE 596 Conversational Artificial Intelligence"
 permalink: /research/research-mec
 venue: "University of Washington"
-date: 2018-03-21
 location: "City, Country"
 ---
 
