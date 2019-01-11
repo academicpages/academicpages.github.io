@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin Jin - 金鑫"
+title                    : "Xin Jin"
 title_separator          : "-"
-name                     : &name "Xin Jin"
+name                     : &name "Xin Jin, 金鑫"
 description              : &description "Ph.D Student at The Ohio State University"
 url                      : "https://xinjin95.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"http://web.cse.ohio-state.edu/~jin.967/" # the subpath of your site, e.g. "/blog"
