@@ -19,14 +19,21 @@ Education
 * Owner of Outstanding Prize Scholarship, Excellent Graduate of NWPU
 
 
+
+
 Experiences
 ======
 ### [Fudan Natural Language Processing Group](http://nlp.fudan.edu.cn) (FudanNLP), Fudan University
 
 Research Assistant, supervised by [*Prof. Xipeng Qiu*](http://nlp.fudan.edu.cn/xpqiu)
 
-* Designed
+* Worked on the multi-task learning framework to jointly learn across multiple related tasks.
+* Participated in developing three mechanisms of sharing information to model text with task-specific and
+shared layers based on recurrent neural network.
 
+### [Intelligent Networking systems & Future Internet Infrastructure Lab](http://www.zuqingzhu.info) (INFINITE), University of Science and Technology of China
+
+Research Assistant, supervised by [*Prof. Zuqing Zhu*](http://www.zuqingzhu.info)
 
 Honors/Awards
 ======
