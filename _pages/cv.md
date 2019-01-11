@@ -58,6 +58,14 @@ strategies.
 * Formulated a stackelberg game in which the service operator is the leader and incoming requests are the followers.
 * Analyzed the existence of Stackelberg Equilibriums in the single-logic-link and multiple-logic-links scenarios.
 
+### [Undergraduate Research Program], Northwestern Polytechnical University
+
+Research Assistant, supervised by [*Prof. Ruonan Zhang*](http://dianzi.nwpu.edu.cn/info/1270/5979.htm)
+
+* Addressed the issue to de-embed the antenna effect from captured channel profiles for the wideband sounding.
+* Proposed a convolutional modeling approach to express a synthesized spatial channel response, and designed a two-step antenna de-embedding algorithm to de-embed the antenna effect and mitigate the system noise.
+* Proposed another de-embedding algorithm for mmWare channel measurement based on Tikhonove regularization.
+* Analyzed the measured channel response and obtained result of sparse impulse propagation model by computing data at frequencies of 73GHz and 73.4GHz, and achieved the correlation coefficient reaching more than 95%.
 
 Honors/Awards
 ======
@@ -83,4 +91,5 @@ Teaching
   
 Service and leadership
 ======
+* Group leader of 2D Underwater Robot Team in NWPU. 
 
