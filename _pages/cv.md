@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* BA Economics and Geography, University of Cape Coast, Ghana 2008
-* M.S. in Geography (Concentrattion in Urban Planning and Geographic Information Systems, University of Alabama, 2014
 * Ph.D in Geography (Specializing in Transportation, Healthcare, and Accessibility, Florida State University, 2019 (expected)
+* M.S. in Geography (Concentrattion in Urban Planning and Geographic Information Systems, University of Alabama, 2014
+* BA Economics and Geography, University of Cape Coast, Ghana 2008
 
 Teaching
 ======
@@ -26,10 +26,12 @@ Teaching
   * Teaching Assistant, GIS Lab Fall, 2017
   * Instructor of Record, Map Analysis Spring, 2018
   * Instructor of Record, Map AnalysisSummer, 2018
-  * Instructor of Record, Map Analysis Fall, 2018 
+  * Instructor of Record, Map Analysis Fall, 2018
+  * Online Mentor, Map Analysis, Spring 2019
 
 
-* Teaching Assistant, University of Alabama, Tuscaloosa, Department of Geography, World Regional Geography,Fall 2013 and Spring 2014 Instructors:  Dr.  Seth Appiah-Opoku
+* Teaching Assistant, University of Alabama, Tuscaloosa, Department of Geography, World Regional Geography,Fall 2013 and Spring 2014 
+  Instructors:  Dr.  Seth Appiah-Opoku
   
 Research Interest
 ======
@@ -48,7 +50,7 @@ Selected Conference Presentations
 * Filiberto Asare-Akuffo. Rapid Urbanization and its Implication on Spatial Accessibility to Healthcare in Ghana.Paper presented at the
   Annual conference of the Southeastern Division of the Association of American Geogra-phers, 20-21 November 2016, Columbia, South 
   Carolina
-* Filiberto Asare-Akuffo. Urban Sprawl in Ghanaian Cities and Its Impacts on Individual Travel Behavior:  TheWay Forward. Paper
+* Filiberto Asare-Akuffo. Urban Sprawl in Ghanaian Cities and Its Impacts on Individual Travel Behavior:  The Way Forward. Paper
   presented at Applied Geography Conference, 26-29 October 2016, Louisville, Kentucky.
 
   
