@@ -20,3 +20,9 @@ author_profile: true
 
 * Teaching Assistant, University of Alabama, Tuscaloosa, Department of Geography, World Regional Geography,Fall 2013 and Spring 2014 Instructors:  Dr.  Seth Appiah-Opoku
   
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
