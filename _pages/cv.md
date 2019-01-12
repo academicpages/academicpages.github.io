@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geography (Specializing in Transportation, Healthcare, and Accessibility, Florida State University, 2019 (expected)
-* M.S. in Geography (Concentrattion in Urban Planning and Geographic Information Systems, University of Alabama, 2014
+* Ph.D in Geography (Transportation, Healthcare, and Accessibility), Florida State University, 2019 (expected)
+* M.S. in Geography (Urban Planning and Geographic Information Systems), University of Alabama, 2014
 * BA Economics and Geography, University of Cape Coast, Ghana 2008
 
 Teaching
@@ -39,6 +39,8 @@ Research Interest
 * Healthcare Access and Equity
 * Urban Growth and Development
 * Spatial Modelling and Analysis
+* Big Data Analysis Using Python and R
+* Machine Learning
 
   
 Selected Conference Presentations
