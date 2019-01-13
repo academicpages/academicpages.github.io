@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kia Rahmani"
-  avatar           : "profile.png"
+  avatar           : "https://avatars1.githubusercontent.com/kiarahmani"
   bio              : "Your biography for the left-hand sidebar"
   location         : "IN, USA"
   employer         :
