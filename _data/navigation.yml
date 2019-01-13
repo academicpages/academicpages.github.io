@@ -10,5 +10,5 @@ main:
     url: /teaching/ 
     
   - title: "CV"
-    url: <a href='http://Mehdimomen.github.io/files/MehdiCV.pdf'>Check out my CV here!</a>
+    url: <li><a href="http://Mehdimomen.github.io/files/MehdiCV.pdf">CV</a></li>
     
