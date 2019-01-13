@@ -1,0 +1,105 @@
+---
+layout:     post
+title:      "Migration to NoSQL (1)"
+subtitle:   "Challenges in Data Model Design and Application Verification"
+date:       2017-06-24 12:00:00
+author:     "Kia Rahmani"
+header-img: "img/post-bg-2.jpg"
+---
+
+##### [This is the first post from a series targeting the problem of automatic and correct transformation of applications and data models backed up by relational databases to the ones working with weak guarantees of non-relational counterparts]
+---
+### ACID vs BASE
+For modern day web-scaled applications, NoSQL databases are becoming increasingly attractive alternatives to traditional RDBMSs. Although relational databases are backed up by almost half a century of engineering and optimization experience and offer very appealing interfaces (e.g. [ACID](https://msdn.microsoft.com/en-us/library/aa480356.aspx) properties) to be used by application developers, but due to their design, they are fundamentally difficult to [scale out](https://stackoverflow.com/questions/8729779/why-nosql-is-better-at-scaling-out-than-rdbms). On the other hand non-relational (or NoSQL or Not-only-SQL) databases, offer a highly available interface with extremely flexible and scalable design to store less structured data across geo-distributed nodes [(read more)](http://coreviewsystems.com/analysis-of-nosql-databases-part-1/). 
+
+Unfortunately, the high performance and availability of such systems, come with the price of consistency of the replicated data and the lack of some heavily-relied facilities offered by RDBMSs, such as transactions (in the traditional ACID sense) and [JOIN](https://en.wikipedia.org/wiki/Join_(SQL)) operations. Developers who are used to work with SQL databases, are now faced with a plethora of new database interfaces and new data models and are expected to design fast, responsive and correct applications.
+
+As a result of the famous CAP theorem, implementing strongly consistent behaviors (that are missing in NoSQL databases) at the application-level, is not a practical solution to achieve correctness in NoSQL-backed applications. Real world applications in the contrary, DO allow inconsistencies to occur at the database level (to some extent) and instead choose to tolerate them if possible (e.g. by hiding the results or showing slightly stale versions of the data to the users, when temporary inconsistencies occur in the database). Moreover, in cases where the anomaly is not tolerable, there are usually ad-hoc inconsistency prevention techniques designed by developers, that target those specific undesired behaviors (as opposed to blanket solutions for all inconsistencies, e.g. global locks). 
+
+
+
+
+---
+### An SQL-backed Application
+Consider a company management application that works with a SQL database and maintains the following three tables: 
+##### EMPLOYEE
+
+| E_id   | E_salary | M_id | E_details |
+| ------ | -------- | ---- | --------- |
+|   E1   |    56K   |  M1  |      ..   |
+|   E2   |    48K   |  M1  |      ..   |
+|   E3   |    67K   |  M2  |      ..   |
+|   ..   |    ..    |  ..  |      ..   |
+
+##### MANAGER
+
+| M_id   | M_salary | M_dept | M_details |
+| ------ | ------   | --     | --        | 
+| M1     | 62K      | D1     | ..        |
+| M2     | 75K      | D1     | ..        |
+| ..     | ..       | ..     | ..        | 
+
+##### DEPARTMENT
+
+| D_id   | D_budget | D_huge_details |
+| ------ | ------   | --             |
+| D1     | 400K     | ..             |
+| D2     | 150K     | ..             |
+| ..     | ..       | ..             |
+
+Each manager, manages multiple employees and each department has a number of managers. For example in the above tables, both M1 and M2 work at D1 department and M1 manages two employees E1 and E2.
+Now, consider **F_SQL** function that uses SQL transactions similar to the following and gives a manager and some of his or hers employees a raise: 
+```sql
+BEGIN TRANSACTION 
+    UPDATE EMPLOYEE   SET(E_salary='63K')  WHERE(E_id=E1)
+    UPDATE MANAGER    SET(M_salary='80K')  WHERE(M_id=M1) 
+COMMIT TRANSACTION
+```
+Considering atomicity and full isolation of transactions in SQL world, it is very easy to provide the following correctness guarantee (which we call it □S) for our application: 
+- _At any given moment, the salary of a manager must be higher than every employee he or she manages._
+
+We simply need to read the input values given to the function and make sure we wouldn't be violating □S by only __after performing all the updates__ (which is the case in the above example, since 80>63 AND 80>48)
+
+#### Migration to NoSQL
+----
+Now assume we decide to change our working database to a NoSQL key-value store such as Cassandra. As mentioned above, because of the lack of ACID transactions in such a system, in order to guarantee □S, developers must either implement their own (clearly not scalable) versions of strongly consistent and fully isolated transactions or come up with ad-hoc techniques. For example, [denormalization](http://www.vertabelo.com/blog/technical-articles/denormalization-when-why-and-how) is an effective routine to avoid read-time joins and increase query performance (in fact developers are advised to denormalize as much as possible and try to maintain one table for almost every query in their application), *which can also be used to maintain such guarantees as □S, using the atomic row writes that Cassandra provides.*
+
+Following is a denormalized data model of our application, which copies the information of managers in the rows of the employee table (note that we still keep a separate table for the departments (which is not shown here) because of the unfeasibility of copying the large amount of departmental information at each employee row):
+##### EMP-MAN
+
+| E_id   | E_salary | E_details | M_id | M_salary | M_dept | M_details | 
+| ------ | ------   | --        | --   | --       |  --    | --        |
+| E1     | 56K      | ..        | M1   | 62K      | D1     | ..        |
+| E2     | 48K      | ..        | M1   | 62K      | D1     | ..        |
+| E3     | 67K      | ..        | M2   | 75K      | D1     |..         |
+| ..     | ..       | ..        | ..   |..        |..      |..         |
+
+For the sake of simplicity, let's assume our application does not interact with the data other than the raise function described above. Consequently, the above design serves very well to maintain info about employees and managers and giving them raise atomically (any read function would read a row to get the info on **both** an employee and his or her manager **at the same time**). The only difficulty here is that now the application must maintain multiple copies of some data items in the database. For example, the atomic raise function for E1 and M1 can be rewritten as follows: 
+
+```sql
+UPDATE EMP-MAN 
+SET E_salary = '63K', M_salary = '80K' WHERE E_id = E1
+```
+However, note that the above query is not complete, because we are maintaining multiple copies of M1, and the salary for all of them must also be updated (for example, in the above table the row for E2 must also update the M_salary column). This requires very complicated maintenance of the list of all employees managed by M1 (maybe as another table partitioned by the managers). It is easy to see that adding more tables and more copies of the data items will result in a cluster of update dependencies and would easily break down previous guarantees offered by the application on other objects and queries. 
+For instance, in this case adding another table partitioned by the managers will result in duplicate copies of employees (as well as managers), which would then break down the □S guarantee that we *almost* managed to provide. 
+
+----
+### Further Challenges
+The above example points out the difficulties in designing a correct NoSQL version of an extremely simple application. One particular method of maintaining correctness of the application was discussed, which showed how the implementation can suddenly explode when trying to fix things in an ad-hoc manner. To make the matter worse, that was only one of many ad-hoc techniques that developers make use of in such scenarios. For example, assume that the application must preserve another invariant □D which says that the sum of the salaries of all managers in a department cannot exceed the budget of that department. Now because of unfeasibility of denormalizing the DEPARTMENT and MANAGERS tables together, developers must come up with other solutions (e.g. versioning the data or keeping the history of the updates) which I will discuss in the next blog post. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

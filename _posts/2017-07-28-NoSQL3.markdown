@@ -1,0 +1,137 @@
+---
+layout:     post
+title:      "Migration to NoSQL (3)"
+subtitle:   "A Case Study: Python TPC-C Benchmark"
+date:       2017-07-28 12:00:00
+author:     "Kia Rahmani"
+header-img: "img/post-bg-07.jpg"
+---
+##### [Following the previous posts, here I am going to provide a detailed real-world example of the problems associated with the design of applications for NoSQL database]
+
+
+-----
+### Intro
+[TPC-C](http://www.tpc.org/tpcc/) is a very well-known benchmark which covers various important
+properties of OLTP applications. The benchmark has been developed for many
+years before the introduction of NoSQL stores, and is clearly crafted to
+measure performance and correctness of traditional SQL stores.
+Consequently, it can be thought of as a *perfect* example of SQL-backed
+applications. 
+
+In order to support our ideas about the non-triviality of transferring
+SQL-backed applications to NoSQL versions, through a bit of googling, I
+was able to find a [project](https://github.com/apavlo/py-tpcc) by Andy Pavlo and others at CMU, implementing TPC-C using python for a variety of
+databases including Cassandra. As I expected, this was one of the very
+few examples implementing such applications for a NoSQL stores, because of
+all the difficulties associated with the task. 
+
+Running the project was fairly straight-forward (although I had to fix a
+few minor bugs to avoid failures during execution, I
+did not make any major change to either the code or the data-models). In the
+following section, I am going to present results of a series of tests (all codes available [here](https://github.com/Kiarahmani/py-tpcc/tree/master/tests))
+that I performed on this implementation **regarding the correct behavior of the application.** In these tests, I checked preservation of 7 (out of 12) consistency conditions, specified by the TPC-C benchmark to be preserved all the time in systems under test.
+The reason I omitted 5  of the conditions was only the complexity (as is
+mentioned in the TPC-C documentation) of
+running proper tests, although I expect similar results for them as well.
+
+-----
+### Results
+The following results are taken on my laptop running Cassandra and the pytpcc implementation as it is
+offered. I checked the preservation of each consistency requirement at
+three different stages: before starting clients (DB containing only the initially loaded
+rows), after running a single client for 60 seconds and finally after running 50
+concurrent clients for 60 seconds:
+
+![spec](https://raw.githubusercontent.com/Kiarahmani/kiarahmani.github.io/master/_posts/figures/allres.png
+"Consistency Conditions")
+
+As we can see, almost all the conditions are violated in the
+multi-client setting and a few are not satisfied even in the initial and the single-client settings.
+
+--- 
+### Example
+Here I will explain in more detail the reason behind the incorrect
+behavior of the application using the consistency condition #1.
+The condition states that the year-to-date sales column of each
+warehouse must be equal to the combined sales from all of its
+districts, i.e. **W\_YTD=sum(D\_YTD)**.
+
+The following descriptions are taken from the official TPC-C documentation as a part
+of the "Payment " transaction (here by transaction I simply mean the
+high-level sets of operations in the benchmark, e.g. delivery or
+new\_order), which help
+clarify how the above columns are updated in the application:
+
+>* The row in the WAREHOUSE table with matching W\_ID is selected. W\_NAME,
+>W\_STREET\_1, W\_STREET\_2, W\_CITY, W\_STATE, and W\_ZIP are retrieved and
+>W\_YTD, ***the warehouse's year-to-date balance, is increased by H\_ AMOUNT.***
+>* The row in the DISTRICT table with matching D\_W\_ID and D\_ID is
+>selected. D\_NAME, D\_STREET\_1, D\_STREET\_2, D\_CITY, D\_STATE, and D\_ZIP
+>are retrieved and **D\_YTD, the district's year-to-date balance, is
+>increased by H\_AMOUNT**.
+
+Clearly, both of above tasks are meant to be executed in low-level database
+(to some extent isolated) transactions. The developers however, do not
+address the problem of the lack of support for such transactions in
+Cassandra. As I have mentioned in the previous posts, such solutions are far
+from being trivial and no one addresses them. In this case (and most
+cases) developers simply accept the incorrect behavior by using batch
+insertions.
+
+The following graph contains the result of a series of tests checking
+the first consistency condition and shows the trivial preservation of the consistency
+condition in the single-client and its violation in the
+multi-client setting. The error represents the (growing with the number of clients) difference between W\_YDT and
+sum(D\_YDT) which are required to be equal by the benchmark.
+
+
+
+![spec](https://raw.githubusercontent.com/Kiarahmani/kiarahmani.github.io/master/_posts/figures/cc1.png
+"Condition#1")
+
+
+
+----
+### Conclusion
+The above study presents test results, supporting our claim about non-triviality
+of transferring SQL-backed applications to the NoSQL world in a correct 
+way: the lack of support for transactions in Cassandra is shown to result in incorrect behaviors in a real-world SQL-based application. 
+
+In this post, I only discussed the problems regarding application correctness, however, many more concerns
+about performance can be raised about the PyTPCC's data-model as well. 
+For example, the developers have performed no
+de-normalization and instead used secondary indices. Although they do
+not affect the correctness, secondary indices are generally
+considered performance and scalability killers in Cassandra
+applications which must be avoided at all costs [(read
+more)](https://pantheon.io/blog/cassandra-scale-problem-secondary-indexes).
+
+The combination of these problems forces the designers to settle for
+incorrect behaviors in exchange for performance. Now it is my goal to offer an
+automated tool that generates applications offering the best of both
+worlds - correctness of the SQL-backed applications and performance of NoSQL
+counterparts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
