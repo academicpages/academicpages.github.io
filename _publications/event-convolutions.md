@@ -28,4 +28,4 @@ We demonstrate the application of our method to corner detection, providing an i
 
 <br />
 <b>Reference:</b>
-* C. Scheerlinck, N. Barnes, R. Mahony, "Computing Spatial Image Convolutions for Event Cameras," arXiv:1812.00438 [cs.CV], 2018.
+* C. Scheerlinck, N. Barnes, R. Mahony, "Computing Spatial Image Convolutions for Event Cameras," IEEE Robotics and Automation Letters, 2019.
