@@ -4,11 +4,12 @@ collection: teaching
 type: "CSE5523: Machine Learning and Statistical Pattern Recognition "
 permalink: /teaching/suggesting-mining
 venue: "The Ohio State University"
+date: 2018-12
 location: "City, Country"
 ---
 
 [[Code]](), 
-[[Slides]](),
+[[Slides]]()
 
 ## Introduction
 
