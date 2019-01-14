@@ -3,8 +3,8 @@ title: "Computing Spatial Image Convolutions for Event Cameras"
 collection: publications
 permalink: /event-convolutions
 excerpt: 
-date: 2018-12-02
-venue: arXiv
+date: 2019-01-14
+venue: IEEE Robotics and Automation Letters
 paperurl: https://arxiv.org/abs/1812.00438
 citation: 
 youtubeId: 
