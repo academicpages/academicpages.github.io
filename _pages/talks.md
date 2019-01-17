@@ -37,6 +37,13 @@ I have presented / will be presenting at...
 
 - Chicago, IL: 2014. Panel: Clientelism and Corruption.
 
+#### Italian Association for the History of Economic Thought (AISPE)
+
+- Bologna, Italy: 2019: The rise of economic inequality. Contributions from the history of the social sciences.
+
+#### Red de Economía Polītica para América Latina (REPAL)
+
+- New Orleans, LA: 2019.
 
 #### Western Political Science Association (WPSA)
 
@@ -58,6 +65,12 @@ I have presented / will be presenting at...
 - Zurich, Switzerland: 2018. Parallel Session. [declined]
 
 
-#### IX Congreso Chileno de Ciencia Política (ACCP)
+#### Congreso Chileno de Ciencia Política (ACCP)
 
 - Santiago, Chile: 2010. Panel: Vínculos Partido-votante (coauthor).
+
+
+#### Congreso Red Inter-Americana de Educación en Administración Pública (INPAE)
+
+- Concepción, Chile: 2019.  
+
