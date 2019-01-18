@@ -1,7 +1,7 @@
 ---
 title: "New insights into the history of the C-14010 lactase persistence variant in Eastern and Southern Africa"
 collection: publications
-permalink: /publication/2015-04_New_insights_into_the_history_of_the_C-14010_lactase_persistence_variant_in_Eastern_and_Southern_Africa.md
+permalink: /publication/2015-04_New_insights_into_the_history_of_the_C-14010_lactase_persistence_variant_in_Eastern_and_Southern_Africa
 excerpt: ''
 date: 2015-04
 venue: 'American Journal of Physical Anthropology'

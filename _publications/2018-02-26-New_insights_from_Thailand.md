@@ -1,7 +1,7 @@
 ---
 title: "New insights from Thailand into the maternal genetic history of Mainland Southeast Asia"
 collection: publications
-permalink: /publication/2018-02-26-New_insights_from_Thailand.md
+permalink: /publication/2018-02-26-New_insights_from_Thailand
 excerpt: ''
 date: 2018-02-26
 venue: 'European Journal of Human Genetics'
