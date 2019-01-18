@@ -1,7 +1,7 @@
 ---
 title: "Tracing pastoralist migrations to Southern Africa with lactase persistence alleles"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2014-04-14-Tracing_pastoralist_migrations_to_Southern_Africa
 excerpt: ''
 date: 2014-04-14
 venue: 'Current Biology'
