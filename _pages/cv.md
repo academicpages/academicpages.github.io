@@ -16,21 +16,21 @@ Skills
 ### Computational Skills
 
 * Programming/Scripting
-  * R ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg)
-  * Python ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * Bash ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * awk ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * latex ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_half-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * R 
+  * Python 
+  * Bash 
+  * awk 
+  * latex 
 * Design and Typesetting for Print and Web
-  * Adobe Illustrator ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * Adobe InDesign ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * Adobe Photoshop ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Adobe Illustrator 
+  * Adobe InDesign 
+  * Adobe Photoshop 
 * Games and Android App Development  
-  * Unity ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_half-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * Android Studio, Android SDK ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Unity 
+  * Android Studio, Android SDK 
 * Video editing
-  * Adobe Premiere Pro ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
-  * Adobe AfterEffects ![](https://emacholdt.github.io/images/star/baseline-star-24px.svg) ![](https://emacholdt.github.io/images/star/baseline-star_border-24px.svg)
+  * Adobe Premiere Pro 
+  * Adobe AfterEffects 
 
 
 ### Scientific Skills
