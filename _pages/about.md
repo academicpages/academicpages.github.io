@@ -16,6 +16,7 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 
 ### Recent News
+* Upcoming: Excited that I'm on the interesting program at the [NBER Economics of Infrastructure](http://papers.nber.org/sched/EIs19) in early March! 
 * January 2019: *NEW* draft of *LA Metro* paper [here](files/20181228_Severen_LAMetro_New.pdf). Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography. Come see me and some great papers at the AEAs in the excellent session [The Impacts of Spatial Policy](https://www.aeaweb.org/conference/2019/preliminary/707) on January 4th!
 * December 2018: Excited to present at Singapore Management U's Conference on Urban and Regional Economics on Friday (Dec 14th), [program](https://economics.smu.edu.sg/urban2018).
 * November 2018: Paper on technology adoption and uncertainty finally found a home a ReSTAT. It's been a long journey! This project, and my excellent coauthors, have provided the best learning opportunity.
