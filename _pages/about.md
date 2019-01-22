@@ -22,11 +22,20 @@ redirect_from:
 
 My <b>primary subfield is the political economy of development of Latin America</b>. My <b>research</b> extends across several substantive areas, including state capacities, vote-buying and political development. I also have a strong interest in <b>political methodology</b>.
 
-<a href="http://www.hectorbahamonde.com/research/">
-<img src="/resources/wordcloud.png" alt="wordcloud of my research"  style="width:386px;height:330;;border:0;">
-</a>
 
+Next Talks/Conferences
+============
 
+1. **April 11-13, Bologna, Italy**: *XVI International Conference of AISPE* (Italian Association for the History of Economic Thought).
+
+2. **April 23-26, Concepción, Chile**. *INPAE Congress* (Red Interamericana de Educación en Administración Pública).
+
+3. **May 13-14, NOLA, USA**. *Red de Economía Política para America Latina*.
+
+4. **May 31, Santiago, Chile**. Research Seminar at **Ciencia Política-PUC**.
+<!---
+5. **August 29 - September 1,  Washington, DC, USA**. *APSA*.
+-->
 
 <!---
 Job Market
