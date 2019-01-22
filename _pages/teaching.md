@@ -14,6 +14,8 @@ redirect_from:
 Undergraduate
 =============
 
+- Intro to Social Sciences (O'Higgins University, T1:2019). <a href="https://github.com/hbahamonde/Intro_Ciencias_Sociales/raw/master/Bahamonde_Intro_Ciencias_Sociales.pdf"><i class='fa fa-book fa'></i></a>
+
 
 - Social Sciences and Epistemology (O'Higgins University, T2:2018). <a href="https://github.com/hbahamonde/Social_Sciences_Epistemology_UGRAD/raw/master/Bahamonde_Social_Sciences_Epistemology_UGRAD_Syllabus.pdf"><i class='fa fa-book fa'></i></a>
 
