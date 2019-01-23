@@ -90,4 +90,4 @@ Volunteer Engagement
 * Bio11erRat Leipzig e.V.
   * Director 2010-2012
   * Senior Member since 2016
-  * Member 2008-2016
+  * Active Member 2008-2016
