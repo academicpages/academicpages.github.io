@@ -34,3 +34,6 @@ redirect_from:
 
 - **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt).[[Draft]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[BibTex]](https://raw.github.com/hbahamonde/Inequality_State_Capacities/citation.bib).
 
+
+- **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. With Andrea Canales (O'Higgins University). <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt).
+
