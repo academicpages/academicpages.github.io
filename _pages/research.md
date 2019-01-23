@@ -32,5 +32,5 @@ redirect_from:
 
 - **Structural Transformations and State Institutions in Latin America, 1900-2010**. <br/> [[Paper]](https://github.com/hbahamonde/NegativeLink/raw/master/Bahamonde_NegativeLink.pdf).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta). 
 
-- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). [[BibTex]](https://raw.github.com/hbahamonde/Inequality_State_Capacities/citation.bib).
+- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt).[[Draft]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[BibTex]](https://raw.github.com/hbahamonde/Inequality_State_Capacities/citation.bib).
 
