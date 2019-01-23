@@ -83,7 +83,7 @@ Awards
   * http://ecoanthropologie.mnhn.fr/DPHP2016/DPHP2016.htm
   
   
-Volunteer Experience
+Volunteer Engagement
 ======
 * 2016-2017 PhD representative of the Max-Planck Institute for Evolutionary Anthropology
 * 2016-2017 Vice Spokesperson, ProRat (PhD representatives) of Leipzig University
