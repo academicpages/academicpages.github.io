@@ -34,6 +34,10 @@ In this page, you can find information related to my experience,  skills, studie
 Visualization of Programs and Algorithms, Augmented Reality techniques, 3D Graphics, and topics related to Artificial Intelligence such 
 as Natural Language Processing and Computer Vision, among others.
 
+## Awards
+* **III Call of prizes destinated to Final Degree Projects**.
+  Second prize granted by Caja Rural Catilla La Mancha in the branch of knowledege of Architecture and Engineering to the best Final Degree Projects.
+
 <!---## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
