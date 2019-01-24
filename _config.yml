@@ -183,6 +183,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  maker:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
