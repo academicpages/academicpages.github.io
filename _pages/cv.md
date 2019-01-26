@@ -13,11 +13,10 @@ Education
 ======
 * B.S. in Applied Physics, TU Delft, 2014
 * M.Ph. in TLE, Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2017
-<!--* Ph.D in Version Control Theory, Github University, 2018 (expected)-->
 
 Work experience
 ======
-* 2018: Machine Learning Researcher
+* 2018-now: Machine Learning Researcher and Engineer
   * Goldman Sachs, Hong Kong
 
 * 2015-2017: Machine Learning Researcher
