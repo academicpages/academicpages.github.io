@@ -10,8 +10,11 @@ redirect_from:
 
 # Education
 
-**Massachusetts Institute of Technology**, PhD in Biological Engineering (expected 2019)   
+**Massachusetts Institute of Technology**, PhD in Biological Engineering (Jan 2019)    
+_Mining the human microbiome for clinical insight_; [thesis](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf), [defense](https://github.com/cduvallet/phd-thesis/blob/master/presentation/2019-01-11.defense.pdf)
+
 **Columbia University**, B.S. in Biomedical Engineering (2013)   
+
 James Bowie High School, Austin, TX (2009)
 
 ***
@@ -21,7 +24,9 @@ James Bowie High School, Austin, TX (2009)
 **Alm lab**, Massachusetts Institute of Technology (2014-present)   
 *Under the direction of Eric Alm*
 
-I am currently a PhD student in [Eric Alm's lab](http://almlab.mit.edu/) at MIT. You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
+I did my PhD in [Eric Alm's lab](http://almlab.mit.edu/) at MIT.
+You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
+You can find my [thesis](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf) and [defense slides](https://github.com/cduvallet/phd-thesis/blob/master/presentation/2019-01-11.defense.pdf) on my [github](https://github.com/cduvallet/phd-thesis).
 
 **Molecular and Microscale Bioengineering Laboratory**, Columbia University (2011-2013)
 *Under the direction of Samuel K. Sia*
@@ -111,7 +116,7 @@ I also mentored and advised students on general biomedical engineering and colle
 
 ## Departmental and MIT
 
-**Graduate Student Council Diversity and Inclusion Subcommittee**, *Vice Chair and Department and Classroom Inclusion co-coordinator* (2017-present)    
+**Graduate Student Council Diversity and Inclusion Subcommittee**, *Vice Chair and Department and Classroom Inclusion co-coordinator* (2017-2019)    
 
 In this role, I coordinate and oversee semesterly conduit assemblies, which bring together diversity representatives from all MIT departments.
 
@@ -119,11 +124,11 @@ In this role, I coordinate and oversee semesterly conduit assemblies, which brin
 
 As Diversity Chair, I co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap), co-wrote the [BE Departmental Values Statement](http://be.mit.edu/about/department-values-statement), and spearheaded the 2016 BE Diversity Climate Survey, which has informed diversity-related efforts since.
 
-[**BE Resources for Easing Friction and Stress**](http://berefs.com/), *BE Ref* (2016-present)    
+[**BE Resources for Easing Friction and Stress**](http://berefs.com/), *BE Ref* (2016-2019)    
 
 **Biological Engineering Department Visiting Committee**, *Graduate student representative* (2018)
 
-**Graduate Student Advisory Group for Engineering (GradSAGE)**, Advisory group to the Dean of the School of Engineering, *Advisor/advisee relations subcommittee* (2017-2018)
+**Graduate Student Advisory Group for Engineering (GradSAGE)**, Advisory group to the Dean of the School of Engineering, *Advisor/advisee relations subcommittee* (2017-2019)
 
 ## Outreach and mentorship
 
@@ -168,6 +173,8 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 **National Science Foundation Graduate Research Fellowship**, *Honorable Mention* (2015)
 
 ## Awards
+
+[PSB](http://psb.stanford.edu/) [Award for Rigorous Secondary Data Analysis](http://researchparasite.com/), Junior Research Parasite (2019)
 
 [MIT Graduate Women of Excellence](https://odge.mit.edu/community/women/celebratewomen/) (2017), [pdf](/files/2017-04-24.GWOE_Duvallet_Claire.pdf)
 

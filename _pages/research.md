@@ -22,10 +22,6 @@ Over the past 3 years, I've worked on the [Underworlds](http://underworlds.mit.e
 Soon we'll be starting to look at antibiotics and antibiotic resistance genes in sewage to better understand how they spread in the environment and how humans affect that spread.
 I also want to mine untargeted metabolomics data from multiple cities' sewage to identify metabolites that could serve as biomarkers for known behavioral or health differences between locations.
 
-Finally, I'm starting to think about how to use **untargeted serum metabolomics to diagnose disease**.
-We're hoping to approach untargeted metabolomics with the same "quick, dirty, and good enough" spirit that next-generation sequencing bioinformaticians took to revolutionize genomics.
-(Shh... don't tell your analytical chemist friends!)
-
 Along the way, I've developed an interest in **tool development**. 
 I've contributed significantly to a method to [correct for batch effects](https://doi.org/10.1371/journal.pcbi.1006102) across case-control microbiome studies, the re-implementation of [distribution-based OTU clustering](https://doi.org/10.1371/journal.pone.0176335), and our in-house [16S processing pipeline](http://github.com/thomasgurry/amplicon_sequencing_pipeline).
 

@@ -9,8 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Department of Biological Engineering at MIT.
-I work in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
+I just finished my PhD in the Department of Biological Engineering at MIT.
+I worked in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
 More generally, I'm interested in applying **personalized medicine approaches for public health**.
 I'm passionate about making local impact to move our society toward a more just ideal.
 That means learning about and working for increased **diversity and equity in STEM** and **technical approaches for social good**.
