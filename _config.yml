@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TaLlahassee, FL"
+title                    : "Filiberto Asare-Akuffo"
 title_separator          : "-"
 name                     : &name "Filiberto Asare-Akuffo"
 description              : &description "PhD Candidate at Florida State University and I used data to understand people's healthcare seeking behavior and also their ability to reach opportunities through transportation "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fasareakuffo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Fasareakuffo/fasareakuffo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Filiberto Asare-Akuffo"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Candidate at Florida State University, Department of Geography"
   location         : "Tallahassee, FL"
   employer         :
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/fasareakuffo/fasare-akuffo.github.io"
+  github           : "https://github.com/fasareakuffo.github.io"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/filiberto-asare-akuffo-0583b863/"
+  linkedin         : "https://www.linkedin.com/in/filiberto-asare-akuffo-0583b863"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
