@@ -22,9 +22,6 @@ redirect_from:
 - **Still for Sale: The Micro-Dynamics of Vote-Selling in the United States, Evidence From a List and Conjoint Experiments**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
 
-- **Testing the Online Model of Candidate Evaluation in a More Realistic Environment**. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
-
-
 ## Work In Preparation
 
 - **Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)**. <br/> [[Paper]](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt?token=AEe6kepKK7gMgsKW3WqxsGzd6jajPSbOks5bYe9DwA%3D%3D). [[Data]](http://www.hectorbahamonde.com/datasets/).
@@ -36,4 +33,6 @@ redirect_from:
 
 
 - **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. With Andrea Canales (O'Higgins University). <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt).
+
+- **Testing the Online Model of Candidate Evaluation in a More Realistic Environment**. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
