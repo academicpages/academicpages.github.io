@@ -13,7 +13,7 @@ name                     : &name "Filiberto Asare-Akuffo"
 description              : &description "PhD Candidate at Florida State University and I used data to understand people's healthcare seeking behavior and also their ability to reach opportunities through transportation "
 url                      : https://fasareakuffo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Fasareakuffo/fasareakuffo.github.io"
+repository               : "fasareakuffo/fasareakuffo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/fasareakuffo.github.io"
+  github           : "https://github.com/fasareakuffo"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/filiberto-asare-akuffo-0583b863"
+  linkedin         : "https://www.linkedin.com/fasareakuffo"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
