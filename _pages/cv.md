@@ -29,7 +29,6 @@ Teaching
   * Instructor of Record, Map Analysis Fall, 2018
   * Online Mentor, Map Analysis, Spring 2019
 
-
 * Teaching Assistant, University of Alabama, Tuscaloosa, Department of Geography, World Regional Geography,Fall 2013 and Spring 2014 
   Instructors:  Dr.  Seth Appiah-Opoku
   
@@ -41,7 +40,7 @@ Research Interest
 * Spatial Modelling and Analysis
 * Big Data Analysis Using Python and R
 * Machine Learning
-
+* Data Science
   
 Selected Conference Presentations
 ======
