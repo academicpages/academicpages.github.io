@@ -19,7 +19,7 @@ author_profile: true
 - Former career in the banking sector @ **National Bank of Greece S.A.**, February 2004 - August 2013	 
 
 # Awards
-- **Outstanding Teaching Assistant Award** - CS Department @ UIUC, Fall 2017
+- **Outstanding Teaching Assistant Award** - CS Department @ UIUC, Spring 2018
 - **Travel Award** for [ISWC 2018](http://iswc2018.semanticweb.org), Pacific Grove, CA *(declined, unable to travel)*
 - **Travel Award** for [ISWC 2017](http://iswc2017.semanticweb.org), Vienna, Austria
 - **Travel Award** for [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/), Boston, MA
