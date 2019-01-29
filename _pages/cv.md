@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in EEE, Bogazici University, 2014
+* MSc in Finance, Sabaci University, 2015
+* PhD in Applied Mathematics, Imperial College London, 2020 (expected)
 
 Work experience
 ======
