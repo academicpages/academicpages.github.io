@@ -20,6 +20,8 @@ header:
 <a href="https://drive.google.com/open?id=1hpa-YtitsiNJt0_HGhbX9kIjxV_hvPWl" target="_blank"><b>Poster</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2018_accv_continuous_bibtex.txt" target="_blank"><b>BibTex</b></a>
 
+![Complementary_filter_pic](/images/filter.png){:class="img-responsive"}
+
 <b>Abstract.</b> Event cameras provide asynchronous, data-driven measurements of local temporal contrast over a large dynamic range with extremely high temporal resolution. Conventional cameras capture low-frequency reference intensity information. These two sensor modalities provide <i>complementary</i> information. We propose a computationally efficient, asynchronous filter that continuously fuses image frames and events into a single high-temporal-resolution, high-dynamic-range image state. In absence of conventional image frames, the filter can be run on events only. We present experimental results on high-speed, highdynamic-range sequences, as well as on new ground truth datasets we generate to demonstrate the proposed algorithm outperforms existing state-of-the-art methods.
 
 {% include youtubePlayer.html id=page.youtubeId %}
