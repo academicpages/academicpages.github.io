@@ -49,7 +49,7 @@ Skills
 
 Education
 ======
-* Ph.D in Human Population History, Leipzig University, 2019 (expected)
+* ongoing degree: Ph.D in Human Population History, Leipzig University, (2019 expected)
 * M.S. in Bioinformatics, Leipzig University, 2016
 * M.S. in Biology, Leipzig University, 2013
 * B.S. in Biology, Leipzig University, 2011
