@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CoT
 venue: "ArXiv 2018"
 date: 2018-4-12
-citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>'
+citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICML 2019.</i>'
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
 
