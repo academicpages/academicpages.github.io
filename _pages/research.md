@@ -18,8 +18,8 @@ author_profile: true
 
 ### Working Papers
 
-* **Severen**. (2018). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/20181228_Severen_LAMetro_New.pdf)
-    * **_NEW_** January 2019 draft (with Appendix), older draft available as FRB Philadelphia Working Paper 18-14.
+* **Severen**. (2019). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/20190130_Severen_LAMetro_New.pdf)
+    * **_NEW_** January 2019 [draft](files/20190130_Severen_LAMetro_New.pdf) and [slides](files/201901_Severen_LAMetro.pdf)
     * Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.
 
 ### Works in Progress
