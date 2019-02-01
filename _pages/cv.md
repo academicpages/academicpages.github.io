@@ -49,9 +49,9 @@ Skills
 
 Education
 ======
-* ongoing degree: Ph.D in Human Population History, Leipzig University, (2019 expected)
-* M.S. in Bioinformatics, Leipzig University, 2016
-* M.S. in Biology, Leipzig University, 2013
+* ongoing degree: Ph.D in Human Population History, Leipzig University and MPI-EVA Leipzig, (2019 expected)
+* M.S. in Bioinformatics, Leipzig University and MPI-EVA Leipzig, 2016
+* M.S. in Biology, Leipzig University and MPI-EVA Leipzig, 2013
 * B.S. in Biology, Leipzig University, 2011
 
   
@@ -85,9 +85,10 @@ Awards
   
 Volunteer Engagement
 ======
+* since March 2018 trained First-Aider at Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology
 * 2016-2017 PhD representative of the Max-Planck Institute for Evolutionary Anthropology
 * 2016-2017 Vice Spokesperson, ProRat (PhD representatives) of Leipzig University
-* Bio11erRat Leipzig e.V.
+* Bio11erRat Leipzig e.V. - non-profit organisation to preserve the tradition of Studentenfasching in Leipzig
   * Director 2010-2012
   * Senior Member since 2016
   * Active Member 2008-2016
