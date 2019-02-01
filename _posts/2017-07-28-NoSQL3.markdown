@@ -1,10 +1,14 @@
 ---
-layout:     post
+excerpt:    "[TPC-C](http://www.tpc.org/tpcc/) is a very well-known benchmark which covers various important
+properties of OLTP applications. The benchmark has been developed for many
+years before the introduction of NoSQL stores, and is clearly crafted to
+measure performance and correctness of traditional SQL stores.
+Consequently, it can be thought of as a *perfect* example of SQL-backed
+applications."
 title:      "Migration to NoSQL (3)"
 subtitle:   "A Case Study: Python TPC-C Benchmark"
 date:       2017-07-28 12:00:00
 author:     "Kia Rahmani"
-header-img: "img/post-bg-07.jpg"
 ---
 ##### [Following the previous posts, here I am going to provide a detailed real-world example of the problems associated with the design of applications for NoSQL database]
 

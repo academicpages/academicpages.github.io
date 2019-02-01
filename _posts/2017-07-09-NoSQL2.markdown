@@ -1,10 +1,14 @@
 ---
-layout:     post
 title:      "Migration to NoSQL (2)"
-subtitle:   "A blackbox to weaken your applications exactly the way you want it"
+excerpt: "It is a well-known fact that nowadays application developers are inclined to
+choose responsiveness and performance over data consistency in the CAP war.
+However, despite of many recent academic papers that all try to answer
+the question of how to safely execute distributed applications with
+minimal inter-node synchronization, there still seems to be a large
+gap between the process of application development over traditional
+strongly consistent environments and modern weaker counterparts"
 date:       2017-07-09 12:00:00
 author:     "Kia Rahmani"
-header-img: "img/post-bg-3.jpg"
 ---
 ##### [Following my first blog post, here I am going to further discuss some ideas on my project, propose a formal specification language and introduce a concrete example taken from TPC-C benchmark]  
 
@@ -48,8 +52,8 @@ that seems to be able to capture all interesting properties of
 distributed systems (in fact, it might be too strong for a real synthesis
 tool) and then I will use the TPC-C benchmark to
 elaborate what kinds of application transformation I am looking into. 
-
-
+ 
+ 
 -----
 ### Specification Language
 Here I will propose a language that can capture many interesting *very high-level*

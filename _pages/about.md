@@ -11,9 +11,9 @@ redirect_from:
 My name is Kia Rahmani and I am a 4<sup>th</sup> year PhD student of computer science at Purdue University. 
 I am a member of the [programming languages group](https://purduepl.github.io/), 
 working under the supervison of Professor [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/).
-My main topics of reseach interests include formal methods of modeling, analysis and verification of applications. 
+The main topics of my reseach interests include formal methods of modeling, analysis and verification of applications. 
 I specifically focuse on automated generation of
-verifiably correct and scalable distributed database-backed applications.
+verifiably correct and scalable distributed (database-backed) applications.
 
 
 

@@ -1,10 +1,15 @@
 ---
-layout:     post
+excerpt:    "Programmers have historically been interested in developing their programs assuming
+fully isolated executions and single copies of (non-shared) data.
+This (intuitive) tendency has been carried on through the decades, even after
+multiprocessing and distributed systems became prominent, the strong notions
+of consistency and isolation (e.g. linearizability and serializability) were
+used extensively despite their relatively high costs."
+
 title:      "Eventual Serializability (1)"
-subtitle:   "A critique of the application-level notions of correctness"
 date:       2018-04-15 12:00:00
 author:     "Kia Rahmani"
-header-img: "img/post-bg-10.jpg"
+permalink:  /posts/2018/04/isolation/1
 ---
 ##### [In this post I am going to challenge the current direction in the literature on the appropriate *notion of correctness* for distributed applications]
 

@@ -1,12 +1,15 @@
 ---
-layout:     post
+excerpt:    "In the previous blog post, I presented a few examples regarding how the
+notion of application correctness (which guides the program verification and synthesis approaches) is currently being pushed 
+to the application level. Here, I will challenge this trend by presenting what
+I believe is the right notion of correctness for such applications."
 title:      "Eventual Serializability (2)"
 subtitle:   "How distributed applications are meant to behave"
 date:       2018-04-24 12:00:00
 author:     "Kia Rahmani"
-header-img: "img/post-bg-9.jpg"
+permalink:  /posts/2018/04/isolation/2 
 ---
-##### [This blog post is built on top of the examples presented in the [last post](https://kiarahmani.github.io/2018/04/15/ISOLATION/). Here I will present my ideas on a suitable notion of generic and automatically extractable program correctness]
+##### [This blog post is built on top of the examples presented in the [last post](https://kiarahmani.github.io/posts/2018/04/isolation/2). Here I will present my ideas on a suitable notion of generic and automatically extractable program correctness]
 
 
 ---
