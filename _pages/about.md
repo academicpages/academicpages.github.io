@@ -14,7 +14,7 @@ My research interests mainly lie in probabilistic approaches to machine learning
 
 More generally, I'm passionate about the intersection between mathematics and philosophy (computer science, machine learning, physics, information theory, and cognitive sciences).
 
-During my MPhil, supervised by [Prof. Pascale Fung](http://www.ee.ust.hk/~pascale/), I was doing research on machine learning on non-numerical data, especially social signals. I was also working with Genta Indra Winata on a virtual therapist self-help platform. We were using machine learning to construct dialogue and model, among others, stress and personality of users.
+During my MPhil, supervised by [Prof. Pascale Fung](http://www.ee.ust.hk/~pascale/), I was doing research on machine learning on non-numerical data, especially social signals. I was also working with [Genta Indra Winata](https://gentaiscool.github.io/) on a virtual therapist self-help platform. We were using machine learning to construct dialogue and model, among others, stress and personality of users.
 
 Before that, I completed my Bachelors in Applied Physics, with particular interest in computational and statistical physics, and everything quantum.
 
