@@ -13,6 +13,6 @@ This paper is about the approximation method for posterior distribution by the p
 [Download paper here](https://arxiv.org/abs/1805.07912)
 
 ## Outline
-* We reformulated the Bayesian inference in terms of the optimization problem and proposed the outlier-robust VI.
-* In the paper, we compared the proposed method with recent Bayesian robust methods.
-* The contribution of this paper is proposing the new VI problem and theoretical analysis using influence function.
+* We propose new particle approximation based on convex optimization of maximum mean discrepancy (MMD).
+* We solve it with the Frank-Wolfe (FW) algorithm.
+* We establish a finite sample bound of the convergence  rate which is in the linear order.
