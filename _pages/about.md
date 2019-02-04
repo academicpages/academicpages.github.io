@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -18,13 +18,15 @@ The University of Tokyo, Japan.
 
 
 ## NEWS
+- Our paper was accepted in AAAI 2019
 - Our paper was accepted in AISTATS 2018
 - Our paper was accepted in NIPS 2017
 
 ## RESEARCH INTERESTS
-- Probablistic Inference
-- Approximate Bayesian infetence
+- Probabilistic Inference
+- Approximate Bayesian inference
 - Gaussian Process
+- Inverse problems
 
 ## CONTACT
 
