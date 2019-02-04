@@ -4,7 +4,7 @@ collection: publications
 permalink: /continuous-time-intensity-estimation
 excerpt: 
 date: 2018-12-02
-venue: 14th Asian Conference on Computer Vision
+venue: 14th Asian Conference on Computer Vision (28% accept. rate)
 paperurl: 
 citation: 
 youtubeId: bZ0ZKido0Ag
