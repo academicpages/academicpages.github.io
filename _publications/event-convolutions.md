@@ -4,7 +4,7 @@ collection: publications
 permalink: /event-convolutions
 excerpt: 
 date: 2019-01-14
-venue: IEEE Robotics and Automation Letters
+venue: IEEE Robotics and Automation Letters, and ICRA 2019 (44% accept. rate)
 paperurl: https://arxiv.org/abs/1812.00438
 citation: 
 youtubeId: 
