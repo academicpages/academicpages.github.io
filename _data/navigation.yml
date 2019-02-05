@@ -6,7 +6,9 @@ main:
   - title: "Game Development"
     url: /gamedev/
         
+  - title: "Maker Projects"
+    url: /maker/
+    
   - title: "CV"
     url: /cv/
-    
 
