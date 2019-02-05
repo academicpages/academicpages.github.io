@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* Sep.2018 -  Dec.2018 : Research Intern, Microsoft Research Asia
+
+
 * Apr.2017 - Present : Research Assistant, RIKEN Center for Advanced Intelligence Project
 
 
@@ -29,13 +32,13 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-<!-- 
+<!--
 %Teaching
 %======
 %  <ul>{% for post in site.teaching %}
