@@ -1,8 +1,7 @@
 ---
 title: "Teasy Bot"
 excerpt: "Arduino Tea Robot
-
- ![](https://github.com/emacholdt/teasy_bot/blob/master/img/teasy_v0.0.6.gif)
+<img src='https://github.com/emacholdt/teasy_bot/blob/master/img/teasy_v0.0.6.gif' width='500px'>
 "
 collection: maker
 ---
