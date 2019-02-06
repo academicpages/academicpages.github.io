@@ -15,7 +15,7 @@ header:
 <a href="https://cedric-scheerlinck.github.io/files/2018_event_convolutions.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc?usp=sharing" target="_blank"><b>Datasets</b></a>&emsp;
 <a href="https://drive.google.com/open?id=10L-t_YACZFb8Vk5cDQa-KWTlnhoItQJt" target="_blank"><b>Slides</b></a>&emsp;
-<a href="https://cedric-scheerlinck.github.io/files/2018_arxiv_convolutions.txt" target="_blank"><b>BibTex</b></a>
+<a href="https://cedric-scheerlinck.github.io/files/2019_ral_convolutions.txt" target="_blank"><b>BibTex</b></a>
 
 <b>Abstract.</b> Spatial convolution is arguably the most fundamental of 2D image processing operations.
 Conventional spatial image convolution can only be applied to a conventional image, that is, an array of pixel values (or similar image representation) that are associated with a single instant in time.

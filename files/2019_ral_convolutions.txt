@@ -1,0 +1,11 @@
+@Article{Scheerlinck18ral,
+  author        = {Cedric Scheerlinck and Nick Barnes and Robert Mahony},
+  title         = {Asynchronous Spatial Image Convolutions for Event Cameras},
+  journal       = {{IEEE} Robot. Autom. Lett.},
+  year          = {2019},
+  month         = {April},
+  volume        = 4,
+  number        = 2,
+  pages         = {816--822},
+  doi           = {10.1109/LRA.2019.2893427}
+}
