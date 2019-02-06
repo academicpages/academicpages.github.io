@@ -1,9 +1,9 @@
 ---
-title: "Computing Spatial Image Convolutions for Event Cameras"
+title: "Asynchronous Spatial Image Convolutions for Event Cameras"
 collection: publications
 permalink: /event-convolutions
 excerpt: 
-date: 2019-01-14
+date: 2019-04
 venue: IEEE Robotics and Automation Letters, and ICRA (44% accept. rate)
 paperurl: https://arxiv.org/abs/1812.00438
 citation: 
@@ -28,4 +28,4 @@ We demonstrate the application of our method to corner detection, providing an i
 
 <br />
 <b>Reference:</b>
-* C. Scheerlinck, N. Barnes, R. Mahony, "Computing Spatial Image Convolutions for Event Cameras," IEEE Robotics and Automation Letters, 2019.
+* C. Scheerlinck, N. Barnes, R. Mahony, "Asynchronous Spatial Image Convolutions for Event Cameras," IEEE Robotics and Automation Letters, 2019.
