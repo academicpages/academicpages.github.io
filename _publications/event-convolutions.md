@@ -2,6 +2,7 @@
 title: "Asynchronous Spatial Image Convolutions for Event Cameras"
 collection: publications
 permalink: /event-convolutions
+redirect-from: "/2018_event_convolutions"
 excerpt: 
 date: 2019-04-01
 venue: IEEE Robotics and Automation Letters, and ICRA (44% accept. rate)
