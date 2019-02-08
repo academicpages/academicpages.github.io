@@ -17,7 +17,7 @@ I am currently pursuing this research using event cameras, which are bio-inspire
 In 2018 I moved to Zurich for a 12 month research visit at the University of Zurich, <a href="http://rpg.ifi.uzh.ch/" target="_blank">Robotics and Perception Group</a> under the supervision of <a href="http://rpg.ifi.uzh.ch/people_scaramuzza.html" target="_blank">Davide Scaramuzza</a>.
 Here I will research image reconstruction, optical flow and deep learning with event cameras.
 
-When I'm not doing research I enjoy playing underwater rugby!
+When I'm not doing research I enjoy playing <a href="https://youtu.be/Sjxkk8VJBd0" target="_blank">underwater rugby</a>!
 
 ![Underwater_rugby_photo](/images/uwr3_labelled.png){:class="img-responsive"}
 <small><i>Photo: Philipp Schmidli (Lucerne, 3 November 2018).</i></small>
