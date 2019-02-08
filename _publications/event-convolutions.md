@@ -31,4 +31,4 @@ We demonstrate the application of our method to corner detection, providing an i
 **DOI:** <a href="https://doi.org/10.1109/LRA.2019.2893427" target="_blank">10.1109/LRA.2019.2893427</a>
 
 <b>Reference:</b>
-* C. Scheerlinck, N. Barnes, R. Mahony, "Asynchronous Spatial Image Convolutions for Event Cameras," IEEE Robotics and Automation Letters, 2019, pp.816-822.
+* C. Scheerlinck, N. Barnes, R. Mahony, "Asynchronous Spatial Image Convolutions for Event Cameras," IEEE Robotics and Automation Letters, Vol. 4, No. 2, April 2019, pp. 816-822.
