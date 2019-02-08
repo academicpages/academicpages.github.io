@@ -27,5 +27,8 @@ The state can be read-off as-often-as and whenever required for use in higher le
 We demonstrate the application of our method to corner detection, providing an implementation of a Harris corner-response 'state' that can be used in real-time for feature detection and tracking on robotic systems.
 
 <br />
+
+**DOI:** [10.1109/LRA.2019.2893427](https://doi.org/10.1109/LRA.2019.2893427)
+
 <b>Reference:</b>
 * C. Scheerlinck, N. Barnes, R. Mahony, "Asynchronous Spatial Image Convolutions for Event Cameras," IEEE Robotics and Automation Letters, 2019, pp.816-822.
