@@ -16,10 +16,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-: Student Assistant, in the data science team Advanced Analytics
+  * Novozymes, Copenhagen
+  * Duties included:
+    * Data cleaning and visualizations
+    * Scraping data from online sources
+    * Building small apps for user to visualize data and modelling results
 
 * 2013-2017: Student Assistant
   * Unilabs A/S, Copenhagen
@@ -27,6 +29,15 @@ Work experience
     * Customer Service: tasks include managing the front desk and telephone service. Collecting and sorting internal paper work, receiving incoming mail or packages, and posting outgoing mail.
     * Unilabs International: jobs are to enter patientdata into the database, sorting patient documents and helping with various tasks to support the rest of the team.
     * Drug Development Services (DDS): tasks include to receive and handle blood samples to clinical studies, entering the patient data into the database, control of entered data and doing statistical work on those data. Packing sampling kits for blood samples to be send to customers
+
+Projects
+======
+* <a href="https://github.com/mari756h/The_unemployed_cells">The Language of Life</a>: applying deep learning methods to predict amino acids in protein sequences
+  * Project originally started as part of the course 02456 Deep Learning at DTU
+  * Applied Word2Vec and CNNs to protein sequence data
+* <a href="https://github.com/hmmartiny/Microbesoft">Microbesoft</a>: a command-line tool to visualize alignment files
+  * Project built as part of participiating in Copenhacks 2018, a hackathon held in Copenhagen for students.
+  * Won 2nd place
   
 <!-- Skills
 ======
