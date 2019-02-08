@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Biotechnology, Technical University of Denmark, 2014-2017
+* M.Sc. in Bioinformatics and Systems Biology, Technical University of Denmark, 2017-2019 (expected)
 
 Work experience
 ======
@@ -22,12 +21,14 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2017: Student Assistant
+  * Unilabs A/S, Copenhagen
+  * Department and tasks included:
+    * Customer Service: tasks include managing the front desk and telephone service. Collecting and sorting internal paper work, receiving incoming mail or packages, and posting outgoing mail.
+    * Unilabs International: jobs are to enter patientdata into the database, sorting patient documents and helping with various tasks to support the rest of the team.
+    * Drug Development Services (DDS): tasks include to receive and handle blood samples to clinical studies, entering the patient data into the database, control of entered data and doing statistical work on those data. Packing sampling kits for blood samples to be send to customers
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
