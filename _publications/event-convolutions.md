@@ -24,11 +24,11 @@ In this paper, we propose a method to compute the convolution of a linear spatia
 The approach operates on the event stream output of the camera directly without synthesising pseudo-image frames as is common in the literature.
 The key idea is the introduction of an internal state that directly encodes the convolved image information, which is updated asynchronously as each event arrives from the camera.
 The state can be read-off as-often-as and whenever required for use in higher level vision algorithms for real-time robotic systems.
-We demonstrate the application of our method to corner detection, providing an implementation of a Harris corner-response 'state' that can be used in real-time for feature detection and tracking on robotic systems.
+We demonstrate the application of our method to corner detection, providing an implementation of a Harris corner-response "state" that can be used in real-time for feature detection and tracking on robotic systems.
 
 <br />
 
 **DOI:** <a href="https://doi.org/10.1109/LRA.2019.2893427" target="_blank">10.1109/LRA.2019.2893427</a>
 
 <b>Reference:</b>
-* C. Scheerlinck, N. Barnes, R. Mahony, "Asynchronous Spatial Image Convolutions for Event Cameras," IEEE Robotics and Automation Letters, Vol. 4, No. 2, April 2019, pp. 816-822.
+* C. Scheerlinck, N. Barnes, R. Mahony, "Asynchronous Spatial Image Convolutions for Event Cameras," IEEE Robotics and Automation Letters, 4(2), April 2019, pp. 816-822.
