@@ -15,6 +15,5 @@ redirect_from:
 * My research interests lies at the intersection of transportation, heathcare, and accessibility. I utilize various programming skills in 
   my data analysis to investigate research and hypothetical questions related to my research interest. 
 
-* I use python, R, TransCad, Maptitude, ArcGIS, Cube Voyager, postgreSQL and Tablaeu in most of my data science and machine learning  
-  projects.
+* I use python, R, TransCad, Maptitude, ArcGIS, Cube Voyager, postgreSQL and Tablaeu in most of my data science and machine learning projects.
 
