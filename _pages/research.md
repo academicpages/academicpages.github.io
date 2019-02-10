@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Organizational Behavior
 ### The Corporate Political Transparency and Accountability in the U.S.
-Scholars from sociology, political science, management, and economics have long debated the causes and consequences of business in politics.This controversy of corporate money in politics was amplified by the Supreme Court’s landmark 2010 Citizens United v. Federal Election Commissions (FEC) decision that reverses the ban on corporate political spending. Policymakers, the publics, and activists are worried that this might open the corporate campaign spending floodgates and corporate America may abuse its political power over democracy. Many concerned shareholder and stakeholder activists have tried to pressure corporate political transparency and accountability. 
+Scholars from sociology, political science, management, and economics have long debated the causes and consequences of business in politics.This controversy of corporate money in politics was amplified by the Supreme Court’s landmark 2010 Citizens United v. Federal Election Commissions (FEC) decision that reverses the ban on corporate political spending. Policymakers, the publics, and activists are worried that this might open the corporate campaign spending floodgates and corporate America may abuse its political power over democracy. Many concerned shareholder and stakeholder activists have tried to pressure corporate political transparency and accountability.
 
 My current research uses computational, statistical and network methods to study shareholder activism against corporate political activities (i.e., shareholder political activism) and its influence in the U.S. Specifically, I will address three sets of research questions: 1) Why some U.S. corporations are more likely than others to be targeted by shareholder activists? 2) How do firms respond to shareholder political activism? 3) What are the financial and political consequences of shareholder political activism? This project will contribute to several scholarly debates such as the business unity debate and corporate political spending as an agency problem debate.
 
@@ -26,7 +26,7 @@ School segregation can be understood in light of movement-countermovement dynami
 
 [Jeremy Fiel](https://jeremyefiel.com/school-segregation) and Yongjun Zhang. 2017. "Three Dimensions of Change in School Segregation: A Grade-Period-Cohort Analysis." [Demography](https://doi.org/10.1007/s13524-017-0632-9) 55(1), 33-58.
 
-Jeremy Fiel and Yongjun Zhang. 2018. "With All Deliberate Speed: the Reversal of Court-Ordered School Desegregation, 1970-2013." American Journal of Sociology (Invitation to Revise and Resubmit).
+Jeremy Fiel and Yongjun Zhang. 2018. "With All Deliberate Speed: the Reversal of Court-Ordered School Desegregation, 1970-2013." American Journal of Sociology (Forthcoming).
 
 ## Big Data and Computational Methods
 How can social scientists use computational methods to study social phenomena? How can computational methods such as topic modeling and machine learning contribute to our field?
