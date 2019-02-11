@@ -1,10 +1,10 @@
 ---
 title: "Moorschnucken - Das Schweigen Dilämma"
-excerpt: "**Join the Beta now on Google Play.** [contact us](mephisto17games@gmail.com) - Initally developed in 48h for BeansJam Mobile 2018<br/><img src='/images/moorschnucken.png' width='500px'> "
+excerpt: "**Join the Beta now on Google Play.** [contact us](mephisto17games@gmail.com) - Initally developed in 48h for BeansJam Mobile 2018<br/><img src='/images/moorschnucken.png' width='300px'><img src='/images/Moorschnucken.gif' width='300px'> "
 collection: gamedev
 ---
 
-This is the first game made by Mephisto17Games. It was developed by me and Oliver Scheer for the BeansJam Mobile, an 48h GameJam targetting Android games. 
+This is the first game made by Mephisto17Games. It was developed by me and Oliver Scheer for the BeansJam Mobile, an 48h GameJam targetting Android games.
 
 GameJam version: Available now at itch.io (Android, MacOS, Windows)
 
