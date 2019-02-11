@@ -1,6 +1,6 @@
 ---
 title: "Moorschnucken - Das Schweigen Dilämma"
-excerpt: "**Join the Beta now on Google Play.** [contact us](mephisto17games@gmail.com) - Initally developed in 48h for BeansJam Mobile 2018<br/><img src='/images/moorschnucken.png' width='300px'><img src='/images/Moorschnucken.gif' width='300px'> "
+excerpt: "**Join the Beta now on Google Play.** [contact us](mephisto17games@gmail.com) - Initally developed in 48h for BeansJam Mobile 2018<br/><img src='/images/moorschnucken.png' height='200px'><img src='/images/Moorschnucken.gif' height='200px'> "
 collection: gamedev
 ---
 
