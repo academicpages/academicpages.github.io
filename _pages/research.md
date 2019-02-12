@@ -26,7 +26,7 @@ School segregation can be understood in light of movement-countermovement dynami
 
 [Jeremy Fiel](https://jeremyefiel.com/school-segregation) and Yongjun Zhang. 2017. "Three Dimensions of Change in School Segregation: A Grade-Period-Cohort Analysis." [Demography](https://doi.org/10.1007/s13524-017-0632-9) 55(1), 33-58.
 
-Jeremy Fiel and Yongjun Zhang. 2018. "With All Deliberate Speed: the Reversal of Court-Ordered School Desegregation, 1970-2013." American Journal of Sociology (Forthcoming).
+Jeremy Fiel and Yongjun Zhang. 2019. "With All Deliberate Speed: the Reversal of Court-Ordered School Desegregation, 1970-2013." American Journal of Sociology (Forthcoming)[[Link]](https://yongjunzhang.com/publication/2019-05-01-school deseg).
 
 ## Big Data and Computational Methods
 How can social scientists use computational methods to study social phenomena? How can computational methods such as topic modeling and machine learning contribute to our field?
