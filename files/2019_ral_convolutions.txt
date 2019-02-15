@@ -1,4 +1,4 @@
-@Article{Scheerlinck18ral,
+@Article{Scheerlinck19ral,
   author        = {Cedric Scheerlinck and Nick Barnes and Robert Mahony},
   title         = {Asynchronous Spatial Image Convolutions for Event Cameras},
   journal       = {{IEEE} Robot. Autom. Lett.},
