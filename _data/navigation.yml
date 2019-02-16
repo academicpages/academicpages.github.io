@@ -3,7 +3,16 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Media"
+    url: /media/  
+    
+  - title: "Code"
+   url: /code/
+   
+  - title: "Behavior Trees"
+   url: /bt/
+   
+  - title: "Projects"
+   url: /projects/
     
      
