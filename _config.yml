@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Michele"
   avatar           : "Michele-Colledanchise_12783-624x624.jpg"
-  bio              : "I am a postdoctoral researcher at the iCub Facility with the IIT"
-  location         : "Genova, Italy"
-  employer         : "Istituto Italiano di Tecnologia"
+  bio              : "iCub Facility Istituto Italiano di Tecnologia (IIT) Genoa, Italy"
+  location         : #"Genova, Italy"
+  employer         : #"Istituto Italiano di Tecnologia"
   googlescholar    : "https://scholar.google.it/citations?user=Wo1eKDoAAAAJ"
   email            : "michele.colledanchise@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
