@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Media"
-permalink: /
+permalink: /media/
 author_profile: true
 ---
 
