@@ -1,6 +1,9 @@
 ---
 layout: page
 title: "Media"
-permalink: /media/
+permalink: /
 author_profile: true
 ---
+
+
+Ciao
