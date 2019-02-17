@@ -179,6 +179,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  media:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
