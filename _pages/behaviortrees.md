@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "BehaviorTrees"
+title: "Behavior Trees"
 permalink: /behaviortrees/
 author_profile: true
 ---
