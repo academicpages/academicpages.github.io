@@ -25,5 +25,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jekyll-scholar'
+  gem 'unicode_utils'
 
 end
