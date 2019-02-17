@@ -9,6 +9,6 @@ main:
   - title: "Projects"
     url: /projects/    
     
-  - title: "BehaviorTrees"
+  - title: "Behavior Trees"
     url: /behaviortrees/
         
