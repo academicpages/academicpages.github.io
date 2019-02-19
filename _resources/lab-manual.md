@@ -1,6 +1,6 @@
 ---
-title: "Lab Manual"
-permalink: /resources/tutorials
+title: "Flanagan Lab Manual"
+permalink: /resources/lab-manual
 excerpt: ''
 collection: resources
 ---
