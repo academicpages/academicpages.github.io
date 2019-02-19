@@ -1,1 +1,17 @@
+---
+title: "Leveraging breeding values obtained from random regression models for genetic inference of longitudinal traits"
+collection: publications
+permalink: /publications/RRM_1
+excerpt: 'This study builds on the random regression genomic prediction approach described in Campbell et al 2018, and used the derived breeding values for genomic inferenece across time points.'
+date: 2019-02-09
+venue: 'BioRxiv'
+paperurl: 'https://github.com/Mehdimomen/Mehdimomen.github.io/files/RRM_1.pdf'
+citation: 'Campbell M.T., Momen M., Walia H., Morota G. (2019) Leveraging breeding values obtained from random regression models for genetic inference of longitudinal traits. The Plant Genome.'
 
+---
+
+<a href='https://www.biorxiv.org/content/10.1101/435685v2/'> Full text is here:</a>
+
+**Abstract**
+
+This study builds on the random regression genomic prediction approach described in [Campbell et al 2018](http://malachycampbell.github.io/publications/2018-05-11-Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-high-throughput-phenotyping), and used the derived breeding values for genomic inferenece across time points.
