@@ -1,15 +1,15 @@
 ---
 title: "Harnessing phenotypic networks and structural equation models to improve genome-wide association analysis"
 collection: publications
-permalink: /publications/2011-01-01-Engineering-cold-stress-tolerance-in-crop-plants
-excerpt: 'In this paper we review the various mechanisms and genes involved in cold acclimatization and the possibilities where transgenic technology has been explored for breeding cold tolerance in crop plants.'
+permalink: /publications/2019-18-02
+excerpt: 'Plant breeders and breeders alike seek to develop cultivars with maximal agronomic value. The merit of breeding material is often assessed using many, often genetically correlated traits. As intervention on one trait will affect the value of another, breeding decisions should consider the relationships between traits. With the proliferation of multi-trait genome-wide association studies (MTM-GWAS), we can infer putative genetic signals at the multivariate scale. However, a standard MTM-GWAS does not accommodate the network structure of phenotypes, and therefore does not address how the traits are interrelated. We extended the scope of MTM-GWAS by incorporating phenotypic network structures into GWAS using structural equation models (SEM-GWAS). In this network GWAS model, one or more phenotypes appear in the equations for other phenotypes as explanatory variables. A salient feature of SEM-GWAS is that it can partition the total single nucleotide polymorphism (SNP) effects into direct and indirect effects. In this paper, we illustrate the utility of SEM-GWAS using biomass, root biomass, water use, and water use efficiency in rice. We found that water use efficiency is directly impacted by biomass and water use and indirectly by biomass and root biomass. In addition, SEM-GWAS partitioned significant SNP effects influencing water use efficiency into direct and indirect effects as a function of biomass, root biomass, and water use efficiency, providing further biological insights. These results suggest that the use of SEM may enhance our understanding of complex relationships between GWAS traits.'
 date: 2019-02-018
 venue: 'BioRxiv'
 citation: 'Momen, Mehdi and Campbell, Malachy T. and Walia, Harkamal and Morota, Gota. 2019. Harnessing phenotypic networks and structural equation models to improve genome-wide association analysis.bioRxiv.'
 
 ---
 
-<a href='https://www.biorxiv.org/content/10.1101/553008v1?rss=1/'>Full length manuscript available here:</a>
+<a href='https://www.biorxiv.org/content/10.1101/553008v1?rss=1/'> Full text is here:</a>
 
 **Abstract**
 
