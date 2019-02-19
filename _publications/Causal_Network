@@ -1,1 +1,16 @@
+---
+title: "Including Phenotypic Causal Networks in Genome-Wide Association Studies Using Mixed Effects Structural Equation Models"
+collection: publications
+permalink: /publications/Causal_Network
+excerpt: 'Network based statistical models accounting for putative causal relationships among multiple phenotypes can be used to infer single-nucleotide polymorphism (SNP) effect which transmitting through a given causal path in genome-wide association studies (GWAS). In GWAS with multiple phenotypes, reconstructing underlying causal structures among traits and SNPs using a single statistical framework is essential for understanding the entirety of genotype-phenotype maps.'
+date: 2019-10-09
+venue: 'Frontiers in Genetics'
+paperurl: 'https://github.com/Mehdimomen/Mehdimomen.github.io/files/BN_SEM_GWAS.pdf'
+citation: 'Momen Mehdi, Ayatollahi Mehrgardi Ahmad, Amiri Roudbar Mahmoud, Kranis Andreas, Mercuri Pinto Renan, Valente Bruno D., Morota Gota, Rosa Guilherme J. M., Gianola Daniel 2018.Including Phenotypic Causal Networks in Genome-Wide Association Studies Using Mixed Effects Structural Equation Models.'
 
+---
+
+<a href='https://www.frontiersin.org/articles/10.3389/fgene.2018.00455/full/'> Full text is here:</a>
+
+**Abstract**
+Network based statistical models accounting for putative causal relationships among multiple phenotypes can be used to infer single-nucleotide polymorphism (SNP) effect which transmitting through a given causal path in genome-wide association studies (GWAS). In GWAS with multiple phenotypes, reconstructing underlying causal structures among traits and SNPs using a single statistical framework is essential for understanding the entirety of genotype-phenotype maps. A structural equation model (SEM) can be used for such purposes. We applied SEM to GWAS (SEM-GWAS) in chickens, taking into account putative causal relationships among breast meat (BM), body weight (BW), hen-house production (HHP), and SNPs. We assessed the performance of SEM-GWAS by comparing the model results with those obtained from traditional multi-trait association analyses (MTM-GWAS).
