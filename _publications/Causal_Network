@@ -5,7 +5,7 @@ permalink: /publications/Causal_Network
 excerpt: 'Network based statistical models accounting for putative causal relationships among multiple phenotypes can be used to infer single-nucleotide polymorphism (SNP) effect which transmitting through a given causal path in genome-wide association studies (GWAS). In GWAS with multiple phenotypes, reconstructing underlying causal structures among traits and SNPs using a single statistical framework is essential for understanding the entirety of genotype-phenotype maps.'
 date: 2019-10-09
 venue: 'Frontiers in Genetics'
-paperurl: 'https://github.com/Mehdimomen/Mehdimomen.github.io/files/BN_SEM_GWAS.pdf'
+paperurl: 'https://github.com/Mehdimomen/Mehdimomen.github.io/files/Causal_Networks.pdf'
 citation: 'Momen Mehdi, Ayatollahi Mehrgardi Ahmad, Amiri Roudbar Mahmoud, Kranis Andreas, Mercuri Pinto Renan, Valente Bruno D., Morota Gota, Rosa Guilherme J. M., Gianola Daniel 2018.Including Phenotypic Causal Networks in Genome-Wide Association Studies Using Mixed Effects Structural Equation Models.'
 
 ---
