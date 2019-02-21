@@ -3,7 +3,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-My research uses statistical, network, and computational methods to study organizational behavior, social inequality, and demography.
+My research uses statistical, network, and computational methods to study organizational behavior, social movements, social inequality, and demography.
 
 ### Organizational Behavior
 I am particularly interested in two lines of organizational studies. The first seeks to understand the antecendents and consequences of the movement of corporate political transparency and accountability in the U.S., while the second assesses the relationship between corporate political activities and social responsibilities.
