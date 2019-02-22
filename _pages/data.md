@@ -14,10 +14,18 @@ author_profile: true
 
 [School Segregation after Brown](https://projects.propublica.org/segregation-now/)
 
-###ICJS article:
+### ICJS article:
 [Varieties of Democracy](https://www.v-dem.net/en/)
 
 [Global Terrorism Database](https://www.start.umd.edu/gtd/)
+
+### Poetics article:
+[Inspire Magazine](https://jihadology.net/category/inspire-magazine/)
+
+[Dabiq Magazine](https://jihadology.net/category/dabiq-magazine/)
+
+### Demography article:
+
 
 ## Codes
 Available upon request.
