@@ -14,6 +14,8 @@ Sarah P. Flanagan has just begun her appointment as a Lecturer in the School of 
 
 <b>Lab news</b>
 
+February 2019: Sarah's new review paper with Adam Jones on parentage analysis was published in Molecular Ecology. [Read her summary of the paper here](https://sarahpflanagan.wordpress.com/2019/01/21/a-review-of-parentage-analysis/) and [access the paper here](https://onlinelibrary-wiley-com.ezproxy.canterbury.ac.nz/doi/full/10.1111/mec.14988)
+
 January 2019: Sarah wrote a [new blog post about her transition from faculty to postdoc](https://wp.me/p2qC2W-uJ)
 
 November 2018: Chavvah Freeman joined the lab as a Summer Research Scholar 
