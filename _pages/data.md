@@ -14,7 +14,7 @@ author_profile: true
 
 [School Segregation after Brown](https://projects.propublica.org/segregation-now/)
 
-### ICJS article:
+### IJCS article:
 [Varieties of Democracy](https://www.v-dem.net/en/)
 
 [Global Terrorism Database](https://www.start.umd.edu/gtd/)
