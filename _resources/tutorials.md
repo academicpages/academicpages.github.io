@@ -17,6 +17,8 @@ These are all guides and tutorials that I've found useful, so I want to aggregat
 
 ### General computation skills
 
+[Ten tips for learning programming](https://www.nature.com/articles/d41586-019-00653-5)
+
 [Intro to Bioinformatics from Wilson-Sayres lab](https://github.com/WilsonSayresLab/BioinformaticsIntroduction/blob/master/README.md)
 
 [Aggregation of bioinformatics resources from Coppola Lab](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab)
@@ -26,6 +28,8 @@ These are all guides and tutorials that I've found useful, so I want to aggregat
 [The Analysis of Biological Data companion website](http://whitlockschluter.zoology.ubc.ca/)
 
 ### Github
+
+[Hello World](https://guides.github.com/activities/hello-world/)
 
 [Git cheat sheet](http://neuroplausible.com/github)
 
