@@ -84,7 +84,11 @@
     }
   }
    
-  a:link{
+  #{$a-tags} {
+    color: #52adc8;
+    text-decoration: none;
+  } 
+   a:link{
      color: #52adc8;
    }
 
