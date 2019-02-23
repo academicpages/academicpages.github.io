@@ -10,9 +10,12 @@ author_profile: true
 Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.<br>
 <i>In submission to ICML 2019.</i>
 
+<b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
+Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.<i>In submission to ICML 2019.</i>
+
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu.<br>
-<i>In submission to ICML 2019.</i>
+<i>ArXiv 2018.</i>
 
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.<br>
