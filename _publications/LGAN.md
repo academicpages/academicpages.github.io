@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/LGAN
 venue: "ArXiv 2018"
 date: 2019-2-23
-citation: 'Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.<i>In submission to ICML 2019.</i>'
+citation: 'Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>In submission to ICML 2019.</i>'
 ---
 
 [[ArXiv]](https://arxiv.org/abs/1902.05687)
