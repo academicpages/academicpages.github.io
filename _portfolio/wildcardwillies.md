@@ -1,6 +1,7 @@
 ---
 title: Wildcard Willies\*
 excerpt: "Fan Game developed in Kotlin within 48h for MiniBeansJam3 in 2019<br/><img src='/images/ww_600800_text.png' width='350px'><br/> "
+date: 2019-02-24 19:00:00
 collection: gamedev
 ---
 
