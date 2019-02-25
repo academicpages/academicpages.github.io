@@ -1,11 +1,11 @@
 ---
 title: Wildcard Willies\*
-excerpt: "Fan Game developed in Kotlin within 48h for MiniBeansJam3 in 2019<br/><img src='/images/ww_600800_text.png' width='350px'><br/> "
+excerpt: "A 'guess the price' fan game developed in Kotlin within 48h for MiniBeansJam3 in 2019. It's based on the concept of 'Verflixxte Klixx' and 'Pfiffige Ziffern', two super successfull show formats on RocketbeansTV<br/><img src='/images/ww_600800_text.png' width='350px'><br/> "
 date: 2019-02-24 19:00:00
 collection: gamedev
 ---
 
-This is the second game made by Mephisto17Games. Oliver Scheer and I develeoped WildcardWillies* for MiniBeansJam3, an 48h GameJam organized by the Rocketbeans TV community.
+This is the second game made by [Mephisto17Games](https://mephisto17games.itch.io/). [Oliver Scheer](https://l1nk86.itch.io/) and I develeoped WildcardWillies* for [MiniBeansJam3](https://itch.io/jam/minibeansjam3), an 48h GameJam organized by the RocketbeansTV community.
 
 GameJam version and post Jam versions: Available now at itch.io (Android)
 
