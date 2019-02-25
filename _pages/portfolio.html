@@ -2,13 +2,13 @@
 layout: archive
 title: "Game Development"
 permalink: /gamedev/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
