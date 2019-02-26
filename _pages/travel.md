@@ -4,6 +4,28 @@ permalink: /travel/
 author_profile: true
 ---
 
+## February 24 and 25, 2019
+
+**Austin, Texas**
+
+Friends.
+
+<img src="/images/2019/road-trip/2019-02-24_heb_with_jettie.jpg" width="80%">
+
+Food.
+
+<img src="/images/2019/road-trip/2019-02-24_chuys.jpg" width="80%">
+
+Tacos.
+
+<img src="/images/2019/road-trip/2019-02-25_torchys.jpg" width="80%">
+
+Sunshine.
+
+<img src="/images/2019/road-trip/2019-02-24_friends_on_town_lake.jpg" width="80%">
+
+Miss this place, grateful for my longtime friends, and so happy anytime I get to come by.
+
 ## Februrary 23, 2019
 
 **Big Bend National Park --> Austin, TX**
