@@ -87,6 +87,7 @@ author:
   employer         : "CERGE-EI"
   googlescholar    : 
   email            : vit.machacek@cerge-ei.cz
+
   uri              :
   bitbucket        :
   codepen          :
@@ -255,7 +256,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
