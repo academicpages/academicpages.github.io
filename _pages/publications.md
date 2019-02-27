@@ -36,15 +36,12 @@ Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa,
 <i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-<b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu.
-<i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
+<b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
 
-<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang.<br>
-<i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
+<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
+Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
 
-<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang.<br>
-<i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
+<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
+<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
 
 [\* denotes equal contribution]
