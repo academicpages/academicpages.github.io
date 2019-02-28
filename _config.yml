@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Christopher Krapu"
   avatar           : "profile.png"
-  bio              : "PhD candidate in environmental engineering and statistics at Duke University"
+  bio              : "5th year PhD candidate in environmental engineering and statistics"
   location         :
   employer         :
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
