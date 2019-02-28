@@ -1,7 +1,7 @@
 ---
 title: PhDChat - a computational PhD as an act of self-love
 permalink: /posts/2019/02/phdchat-philosophies
-date: 2019-02-26
+date: 2019-02-27
 tags:
     - computing
     - PhD
