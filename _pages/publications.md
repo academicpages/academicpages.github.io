@@ -7,12 +7,6 @@ author_profile: true
 
 Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">my Google Scholar profile</a>.</u>
 
-# Under preparation or review
-
-- Calibrating Semi-supervised Active Learning
-- Adapting Sequence to Sequence models for Text Normalization in Social Media
-
-
 
 # Papers
 
