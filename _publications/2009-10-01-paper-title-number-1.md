@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2019-02-24
 venue: 'bioRxiv preprint'
 paperurl: 'https://www.biorxiv.org/content/10.1101/552455v2'
-citation: 'Sheard, K.M., Thibault-Sennett, S.A., Sen, A., Shewmaker, F., and Cox, R.T. (2019). &quot;lueless forms dynamic, insulin-responsive bliss particles sensitive to stress.&quot; Submitted to bioRxiv February 24, 2019.'
+citation: 'Sheard, K.M., Thibault-Sennett, S.A., Sen, A., Shewmaker, F., and Cox, R.T. (2019). &quot;Clueless forms dynamic, insulin-responsive bliss particles sensitive to stress.&quot; Submitted to bioRxiv February 24, 2019.'
 ---
 
 
