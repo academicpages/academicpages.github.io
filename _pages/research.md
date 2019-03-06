@@ -10,7 +10,7 @@ More broadly, I'm interested in using **personalized medicine approaches for pub
 
 My main project so far has been a large **[meta-analysis of case-control gut microbiome studies](https://www.nature.com/articles/s41467-017-01973-8)**.
 We found generalizable insights about patterns of microbiome shifts and showed that most disease-associated bacteria found in individual studies are not specific to the disease under study.
-You can check out the [paper](https://www.nature.com/articles/s41467-017-01973-8) or a more colloquial summary on my Nature Microbiology [behind the paper blog](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease blog).
+You can check out the [paper](https://www.nature.com/articles/s41467-017-01973-8) or a more colloquial summary on my Nature Microbiology [behind the paper blog](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease).
 
 I'm proud to have used this project as an opportunity to practice **reproducible, open science**: every analysis in the paper can be re-made with the code on my [github](http://github.com/cduvallet/microbiomeHD), and we put the data on [Zenodo](https://zenodo.org/record/840333#.WbdUMtOGPBI).
 
