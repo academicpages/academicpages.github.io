@@ -4,6 +4,96 @@ permalink: /travel/
 author_profile: true
 ---
 
+## March 5, 2019
+
+After some much-needed (but still insufficient) rest, we got delicious vegan tacos in Philly and headed back out. Great music, conversations, and rest stops made it a very enjoyable experience, even though the temperature more than halved by the time we made it back to Boston.
+
+<img src="/images/2019/road-trip/2019-03-06_boston_arrival.jpg" width="80%">
+
+## March 4, 2019
+
+Ben's flight was supposed to leave today, but given Boston's big snowstorm we woke up and got tea while waiting for updates on his flight. Turns out it was delayed, so we got lunch and decided that we could just drive to Charlotte together where he could hop on a later flight to Boston there. Here he is telling the Jet Blue agent to re-book him on a flight in a city 6 hours away from his original flight:
+
+<img src="/images/2019/road-trip/2019-03-04_atlanta_art_mural_ben.jpg" width="80%">
+
+Got on the road, and in South Carolina found out his Charlotte flight was canceled. (OBVIOUSLY -- of course a 3 am delayed flight out of Charlotte isn't gonna happen! XD) "We could just drive back."
+
+Ben's sister lives in Philly and has a heart of gold, so we were able to crash with her when we got there at 4 am.
+
+<img src="/images/2019/road-trip/2019-03-05_philly_crashing.jpg" width="65%">
+
+## March 3, 2019
+
+Our final stop, Atlanta! Got _amazing_ crepes when we arrived, checked into our airbnb (which was in an art gallery!), fell in love with the neighborhood we're staying in (so much street art!), and headed to the Jimmy Carter Presidential Library (omg I know nothing about Jimmy Carter!). What an amazing man, so committed to peace. Reminded me that in an alternate life, maybe I would have liked to be a professional mediator. Can you imagine facilitating peace talks? What an amazing contribution to the world, so impactful and yet so invisible.
+
+<img src="/images/2019/road-trip/2019-03-03_carter_library_selfie.jpg" width="80%">
+
+We then proceeded to go from amazing bar to amazing bar -- Atlanta is so cool. First, great cocktails at the bar next door to our art gallery (did I mention we were staying in an art gallery?!) Next, a restaurant in an old warehouse converted into an upscale food court. Finally, sandwiches, amazing cocktails, and great people watching at Victory Sandwich bar (highly recommend!) Verdict: Atlanta is super nice, and definitely someplace that could be cool to live.
+
+<img src="/images/2019/road-trip/2019-03-03_atlanta_airbnb.jpg" width="80%">
+
+## March 2, 2019
+
+Explored what Talladega National Forest had to offer, which is mostly a lovely hike along a nice river to a weird swampy lake. We encountered two women, probably in their 60s, one of whom was training for her dream of doing part of the Appalachian Trail. One thing I've loved on this trip is getting to talk with older people who are out living their lives to its fullest. #goals
+
+<img src="/images/2019/road-trip/2019-03-02_talladega_forest_river.jpg" width="65%">
+
+Arrived back at camp to an army of FSU EAPS students, putting up their tents and immediately proceeding to make a ruckus. No idea what they were there for (they didn't seem to all know each other), but they were hilariously oblivious to our existence and very efficient at getting up and leaving early the next morning.
+
+## March 1, 2019
+
+Woke up pretty late, so today was mostly driving to Talladega National Forest in Alabama, which is about 2 hours away from Atlanta.
+
+Not much to report, except that we saw more accidents on this drive than I've seen in my entire trip so far, including _multiple_ cars that ran off the highway into the grassy median separating the two highway directions. wtf Alabama.
+
+Stayed at a nice campground, on the first open day of the season!
+
+<img src="/images/2019/road-trip/2019-03-02_talladega_forest_campsite.jpg" width="80%">
+
+## February 28, 2019
+
+NOLA!
+
+Started the day with beignets at Cafe du Monde, obviously.
+
+<img src="/images/2019/road-trip/2019-02-28_beignets_nola.jpg" width="65%">
+
+We spent most of the rest of the day wandering the French Quarter, intermittently hiding from the rain.
+
+<img src="/images/2019/road-trip/2019-02-28_nola_masks.jpg" width="65%">
+
+Turns out Mardi Gras is on Tuesday so the festivities are already starting. Walked a lot of the parade route, with our Peet's Coffee to-go daiquiri in hand (obvs), and saw the Knights of Babylon parade. Got lots of beads but somehow failed to take any photos of the parade!
+
+Then, headed to Frenchmen Street, where every single bar had no cover live music: my heaven! Started with a great brass band (with a very effective "I feel like tippin' the band" song), then a jazz band with an amazing drummer (with white lipstick and heart-shaped sunglasses), and finally a generic rock band in a cozy bar. Would recommend!
+
+<img src="/images/2019/road-trip/2019-02-28_nola_brass_band.jpg" width="70%">
+
+## February 27, 2019
+
+Another mostly driving day, which felt like a time warp: Google started out saying it would be about 6 hours, but 4 hours later I still had 4 hours left. Maybe my brain is bad at rounding or too optimistic, or maybe I've found an alternate dimension.
+
+Today was the first day I got bored driving, which is pretty notable. (AKA - send me more playlists, y'all!)
+
+Most exciting thing today was getting coffee at Honey's Coffee in New Waverly, Texas -- with the light pink Mary Kate car parked outside, and two professional-looking Southern women having a conversation I would have loved to eavesdrop on inside.
+
+<img src="/images/2019/road-trip/2019-02-27_honeys_coffee.jpg" width="80%">
+
+Picked up Ben at the airport (it's our third date (!)), had a beer at the nearby beer garden (sitting outside (!!)), and spent the night at an airbnb (a real bed (!!!)).
+
+<img src="/images/2019/road-trip/2019-03-01_new_orleans_airbnb.jpg" width="80%">
+
+## February 26, 2019
+
+And we're back on the road!
+
+Ran some more errands this morning, chopped off all my hair, squeezed a last trip to Amy's, and went back on the road to get a head start to New Orleans.
+
+<img src="/images/2019/road-trip/2019-02-26_haircut.jpg" width="80%">
+
+Not much more to report than that. Tonight I'm in Sam Houston National Forest, my first national forest stop!
+
+<img src="/images/2019/road-trip/2019-02-27_sam_houston_camp.jpg" width="80%">
+
 ## February 24 and 25, 2019
 
 **Austin, Texas**
