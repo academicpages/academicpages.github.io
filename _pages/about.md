@@ -11,4 +11,4 @@ I am a computational and quantitative sociologist studying political scoiology, 
 
 [Download Zhang-Vita Here](https://yongjunzhang.com/files/zhang-vita.pdf).
 
-[Click Here for Data Visualization of the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp//).
+[Click Here for Data Visualization of the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
