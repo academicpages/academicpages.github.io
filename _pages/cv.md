@@ -16,21 +16,13 @@ Skills
 ### Computational Skills
 
 * Programming/Scripting
-  * R 
-  * Python 
-  * Bash 
-  * awk 
-  * latex 
+  * R, Python, Bash, awk, latex
 * Design and Typesetting for Print and Web
-  * Adobe Illustrator 
-  * Adobe InDesign 
-  * Adobe Photoshop 
-* Games and Android App Development  
-  * Unity 
-  * Android Studio, Android SDK 
+  * Adobe Illustrator, Adobe InDesign, Adobe Photoshop
+* Games and Android App Development
+  * Unity, Android Studio, Android SDK
 * Video editing
-  * Adobe Premiere Pro 
-  * Adobe AfterEffects 
+  * Adobe Premiere Pro, Adobe AfterEffects
 
 
 ### Scientific Skills
@@ -54,7 +46,7 @@ Education
 * M.S. in Biology, Leipzig University and MPI-EVA Leipzig, 2013
 * B.S. in Biology, Leipzig University, 2011
 
-  
+
 Teaching and Supervision
 ======
 * Sept.2015: Workshop - Applied Phylogenetics
@@ -78,11 +70,11 @@ Publications
 --->
 
 Awards
-======  
+======
 * Best Poster Award at DNA Polymorphisms in Human Populations, Paris
   * http://ecoanthropologie.mnhn.fr/DPHP2016/DPHP2016.htm
-  
-  
+
+
 Volunteer Engagement
 ======
 * since March 2018 trained First-Aider at Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology
