@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Habiba Farrukh"
 title_separator          : "-"
 name                     : &name "Habiba Farrukh"
-description              : &description "personal description"
-url                      : https://habiba-farrukh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Assistant @ Purdue University"
+url                      : https://habibafarrukh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Habiba-Farrukh/habiba-farrukh.github.io"
+repository               : "habibafarrukh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Habiba Farrukh"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "West Lafayette, IN, United States"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
