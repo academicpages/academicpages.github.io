@@ -28,14 +28,16 @@ Next Talks/Conferences
 
 1. **April 11-13, Bologna, Italy**: *XVI International Conference of AISPE* (Italian Association for the History of Economic Thought).
 
-2. **April 23-26, Concepción, Chile**. *INPAE Congress* (Red Interamericana de Educación en Administración Pública).
+2. **April 23-26, Concepción, Chile**: *INPAE Congress* (Red Interamericana de Educación en Administración Pública).
 
-3. **May 13-14, NOLA, USA**. *Red de Economía Política para America Latina*.
+3. **May 13-14, NOLA, USA**: *Red de Economía Política para America Latina*.
 
-4. **May 31, Santiago, Chile**. Research Seminar at **Ciencia Política-PUC**.
+4. **May 31, Santiago, Chile**: Research Seminar at **Ciencia Política-PUC**.
+
+5. **August 29-September 1 2019, Washington D.C.**. APSA (full paper panel organizer).
 
 <!---
-5. **August 29 - September 1,  Washington, DC, USA**. *APSA*.
+1. **August 29 - September 1,  Washington, DC, USA**. *APSA*.
 -->
 
 <!---

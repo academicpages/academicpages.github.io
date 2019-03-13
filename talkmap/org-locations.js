@@ -17,7 +17,7 @@ var addressPoints = [
     2.219077
   ],
   [
-    "New York, USA", // LASA 2016 
+    "New York, USA", // LASA 2016
     40.7128,
     -74.0059
   ],
@@ -33,6 +33,11 @@ var addressPoints = [
     -115.174501
   ],
   // APSA
+  [
+    "Washington D.C.", // APSA 2019 (Omni Shoreham Hotel)
+    38.924087,
+    -77.053621
+  ],
   [
     "Philadelphia, USA", // APSA 2016 (Pennsylvania Convention Center)
     39.954973,
@@ -64,9 +69,8 @@ var addressPoints = [
   // AISPE)
   [
     "Bologna, It", // 2019
-    44.497150, 
+    44.497150,
     11.354028
   ],
 
 ];
-

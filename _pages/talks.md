@@ -24,6 +24,7 @@ I have presented / will be presenting at...
 
 #### American Political Science Association (APSA)
 
+- Washington D.C.: 2019. Panel:  The Political Economy of Latin America. Chair and (full paper panel organizer).
 - Philadelphia, PA: 2016. Panel: Evaluations and Inferences in Campaign Environments (coauthor, with Richard Lau and Mona Kleinberg).
 
 
