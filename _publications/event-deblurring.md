@@ -3,8 +3,8 @@ title: "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera"
 collection: publications
 permalink: /event-deblurring
 excerpt: 
-date: 2018-11-27
-venue: arXiv
+date: 2019-06-15
+venue: Conference on Computer Vision and Pattern Recognition (ORAL accept. rate 6%)
 paperurl: https://arxiv.org/abs/1811.10180
 citation: 
 youtubeId:
@@ -19,4 +19,4 @@ header:
 
 <br />
 <b>Reference:</b>
-* L. Pan, C. Scheerlinck, X. Yu, R. Hartley, M. Liu, Y. Dao "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera," 	arXiv:1811.10180 [cs.CV], 2018.
+* L. Pan, C. Scheerlinck, X. Yu, R. Hartley, M. Liu, Y. Dao "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera," Conference on Computer Vision and Pattern Recognition, 2019.
