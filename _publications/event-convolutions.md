@@ -6,7 +6,7 @@ redirect_from:
 permalink: /event-convolutions
 excerpt: 
 date: 2019-04-01
-venue: IEEE Robotics and Automation Letters, and ICRA (44% accept. rate)
+venue: IEEE Robotics and Automation Letters, and ICRA (RAL; accept. rate 44%)
 paperurl: https://doi.org/10.1109/LRA.2019.2893427
 citation: 
 youtubeId: 
