@@ -1,7 +1,4 @@
 # main links links
-main:   
-  - title: "Portfolio"
-    url: /portfolio/
-    
+main:      
   - title: "CV"
-    url: /cv/
+    url: https://hmmartiny.github.io/files/CV_en.pdf
