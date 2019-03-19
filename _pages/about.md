@@ -7,3 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello this is my website
