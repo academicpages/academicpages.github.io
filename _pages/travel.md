@@ -4,6 +4,82 @@ permalink: /travel/
 author_profile: true
 ---
 
+## March 10 - 19: Malaysia
+
+I'm writing this from a houseboat in the Belum-Temengor forest (in Royal Belum State Park, I think), near Tasik Banding, where we're sampling poop from local Jahai people.
+
+Back up: I'm here on a sampling trip with the [Global Microbiome Conservancy](http://microbiomeconservancy.org/), a really cool project started by two postdocs in Eric's lab (and some others) which aims to preserve global microbial diversity by sampling stool from people all around the world, including indigenous communities often left out of traditional microbiome research. Scientifically, it's also fascinating: industrialization and sanitation have radically changed our human-associated microbes, and many of the gut bacteria in people living traditional lifestyles have disappeared from the microbiomes of people living more industrialized lifestyles (like me!). I encourage you to take a look through [their website](http://microbiomeconservancy.org/), because their model is actually pretty cool and they're actively trying to de-colonize the way they're doing this science as much as possible.
+
+You should also check out the project's [Instagram](https://www.instagram.com/microbiomeconservancy/) and [Twitter](https://twitter.com/globalmicrobiom) pages for more info on the trip and some really beautiful photos.
+
+I'm on this trip with Mathilde and Mathieu, two postdocs in the lab; Chris, a former postdoc and the photographer for this trip; and Eric, my advisor (but just for a week).
+
+I'll continue with my theme of writing the most recent post on top (which I'm just now realizing is nice to keep up with the latest, but must be very annoying to read. Sry.)
+
+### Tasik Banding: March 18-19
+
+Our second field site was near Tasik Banding, another four hours' drive from Gua Musang and in the Royal Belum State Park. Here, we're visting the Jahai people. The village is about an hour or two's boat ride from the jetty. We're staying on a houseboat about 25 minutes from the village and taking speed boats to and from there.
+
+<photo of houseboat, maybe of speed boat trip>
+
+Here, our sampling was organized a bit differently. After a few short setbacks, we set out to the village in the middle of the day to do a short talk about the project, give out lunch to the whole village, and provide donation bowls for interested potential participants. Luckily, we got about 9 samples returned to us on this first day, which is really exciting!
+
+<photo from day one, maybe processing?>
+
+Today was another sampling day, starting out pretty quick but dwindling in the afternoon. Rather than lug the dry shipper and processing materials in and out of the speed boat, we're bringing back the samples and processing them on the houseboat. Truly a poop deck.
+
+<chris's instagram post>
+
+_Photo courtesy of [Chris](https://www.instagram.com/corzett/)_
+
+Since I've been mostly focusing on work, let me make sure to also talk about life: the food here is amazing and the weather is freaking perfect. Even in the days when we've done nothing, I've frequently caught myself thinking "man I'm so glad to just be existing." I was not made for the Boston cold, it's true.
+
+<photo of beautiful malaysia, with the heat!>
+
+### Gua Musang: March 14-17
+
+Our first sampling site was in Gua Musang, about a four hours' drive away, to visit the Batek people.
+
+We met with the local JAKOA officers when we arrived. JAKOA is the Malaysian organization charged with overseeing the affairs of the Orang Asli, the term used to refer to the indigenous peoples of Malaysia. Orang Asli itself means "original people."
+
+There were two main villages identified for sampling, and we set out to visit the first one the next day. We had to drive through a palm plantation to get to the villages, which was at first beautiful (palm trees look pretty good) but eventually quite depressing (monocultures are not good for the world).
+
+The first village we sampled is still nomadic, and so even though a local team member had visited two weeks prior, the village had moved since then and we had trouble finding it!
+
+<photo of us confused looking for the village>
+
+After meeting with the village chief, we spent the first day here giving out questionnaires and buckets for people to poop in. And by "we", I mean our team of local collaborators. Eric and I did pretty much nothing most of the day. (Not sure if it's a bonus or a downside, but I think I spent as many hours with Eric in the last few weeks as I did during my entire PhD... XD)
+
+<photo of village>
+
+The next day we came back to collect the samples, but found that very few people had donated. Some back-and-forth and a lot of waiting later, and we managed to get about 10 samples from this village.
+
+<photo of processing in the jungle>
+
+The next day was also a lot of waiting, first at this village and then at another one closer to the paved road from the palm plantation. Still not as many samples as we'd hoped, but not to worry we kept ourselves busy:
+
+<photo of coloring book>
+
+This village obviously has a lot more outsider influence, and while there we saw two different groups coming to play with the children, give basic first aid "medical clinic" services, and give out food and clothes. Both of these groups were Muslim. It seems that many of the Orang Asli villages in Malaysia are being converted to Islam, so it's pretty fascinating to have witnessed some of this firsthand and have some pretty nuanced conversations about it. Happy to discuss more offline, in a non-public non-internet forum.
+
+<photo of the NGO visitors>
+
+Finally, our third day of sampling was again a lot of waiting around for samples. As a last-ditch effort, we also headed to a third village, even more developed than the other two and led by a local JAKOA collaborator, sort of a representative for the Orang Asli in the area (I think). We got a few more samples and got to walk around this village, even getting to see blowguns being made! (Which we bought and you will be able to see if you visit the Alm lab).
+
+<photo of blow gun, shooting and making>
+
+### Kuala Lumpur: March 10-13
+
+We arrived on March 10 to Kuala Lumpur and immediately headed to a mall to take care of some errands. There was an official signing ceremony on March 11, and  we then spent the next few days finalizing logistics and getting things prepped for sampling. For this trip, there's a pretty large team of local collaborators (three PIs total, and a field team of four grad students, one postdoc, and one research associate).
+
+Kuala Lumpur seems like a super cool city, and I'm struck by how futuristic it feels: it builds vertically so that you never really know which is the ground floor, there are elevated highways weaving in and out of each other, and through it all there's lush greenery and palm trees. I really dig it.
+
+<photo of KL>
+
+I also got to meet up with a former colleague from Cambodia who's now working in KL for delicious dinner on a (touristy) street with lots of street restaurants. We got grilled sting ray, which was delicious!
+
+<photo of night market street>
+
 ## March 5, 2019
 
 After some much-needed (but still insufficient) rest, we got delicious vegan tacos in Philly and headed back out. Great music, conversations, and rest stops made it a very enjoyable experience, even though the temperature more than halved by the time we made it back to Boston.
