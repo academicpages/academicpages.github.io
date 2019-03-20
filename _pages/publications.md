@@ -25,7 +25,7 @@ Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, St
 - **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HumL@WWW 2018 [[paper](/files/batchAL.pdf), [slides](/files/HumL2018poster.pdf)]  
 Ismini Lourentzou, Daniel Gruhl, Steve Welch
 
-- **Who is Saying What on Twitter: An Analysis of Messages with References to HIV and HIV Risk Behavior**, Acta de Investigación Psicológica 2018  
+- **Who is Saying What on Twitter: Analysis of Messages with References to HIV & HIV Risk Behavior**, Acta Investigación Psicológica 2018  
 Sophie Lohmann, Ismini Lourentzou, Chengxiang Zhai, Dolores Albarracín
 
 - **Text-based Geolocation Prediction of Social Media Users with Neural Networks**, IEEE Big Data 2018 [[paper](/files/geoNN.pdf), [slides](/files/text-based-geolocation.pdf)]  
