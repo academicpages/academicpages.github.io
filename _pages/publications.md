@@ -10,10 +10,13 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 # Papers
 
+- **Adapting Sequence to Sequence models for Text Normalization in Social Media**, ICWSM 2019 
+Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai
+
 - **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 [[paper](/files/difficult.pdf), [poster](/files/ISWCposter.pdf)]  
 Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande
 
-- **CLaDS: a cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018 [[paper](/files/clads.pdf)]  
+- **CLaDS: cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018 [[paper](/files/clads.pdf)]  
 Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai
 
 - **Mining relations from unstructured content**, PAKDD 2018 [[paper](/files/pakdd.pdf)]  
