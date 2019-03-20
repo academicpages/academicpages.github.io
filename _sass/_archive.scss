@@ -3,19 +3,19 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: none;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(9 of 12 last);
     @include prefix(0.5 of 12);
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -80,7 +80,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
@@ -241,5 +241,23 @@
         width: span(7 of 12);
       }
     }
+  }
+}
+
+
+/*
+   Textbox
+   ---
+   This class was defined in order to represent each item of a collection inside a gray box
+   ====================================================================================== */
+
+.textbox {
+  background-color: #ececec;
+  color: black;
+  border-radius: 10px;
+  padding: 10px;
+
+  &:hover{
+    background-color: #e0e0e0;
   }
 }

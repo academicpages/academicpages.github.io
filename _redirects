@@ -1,0 +1,11 @@
+# Redirect domain aliases to primary domain
+https://www.lpmori.com/* https://www.leonardopaccianimori.com/:splat 301!
+https://lpmori.com/* https://www.leonardopaccianimori.com/:splat 301!
+
+# These extra rules are required because HTTPS is not forced
+https://www.lpmori.com/* https://www.leonardopaccianimori.com/:splat 301!
+https://lpmori.com/* https://www.leonardopaccianimori.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://leonardopaccianimori.netlify.com/* https://www.leonardopaccianimori.com/:splat 301!
+https://leonardopaccianimori.netlify.com/* https://www.leonardopaccianimori.com/:splat 301!

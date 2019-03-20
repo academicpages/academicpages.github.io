@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(2 of 11);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -79,6 +79,8 @@
     display: block;
     width: auto;
     height: auto;
+    margin-left: 4px;
+    margin-right: 6px;
   }
 
   img {
@@ -87,7 +89,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 3px solid $border-color;
     }
   }
 }

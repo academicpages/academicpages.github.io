@@ -12,7 +12,7 @@
 {% if site.category_archive.path %}
   {% comment %}
     <!-- Sort alphabetically regardless of case e.g. a B c d E -->
-    <!-- modified from http://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
+    <!-- modified from https://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
   {% endcomment %}
   {% capture page_categories %}{% for category in page.categories %}{{ category | downcase }}#{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign category_hashes = (page_categories | split: ',' | sort:0) %}

@@ -186,11 +186,11 @@ pt: &DEFAULT_PT
   page                       : "Página"
   pagination_previous        : "Anterior"
   pagination_next            : "Próxima"
-  breadcrumb_home_label      : "Início"
+  breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
-  less_than                  : "menor que"
+  less_than                  : "meno que"
   minute_read                : "minutos de leitura"
   share_on_label             : "Compartilhe em"
   meta_label                 :
