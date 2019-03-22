@@ -20,7 +20,7 @@ My current main research interest is the study of how competition influences and
 
 ## My work at a glance
 ### Collaboration network
-<p>Here you can see a network representing my publications and collaborators; the color of each node specifies if it represents <span style="color:#1722C1">co-authors</span>, <span style="color:#90d185">preprints</span>, <span style="color:#138400">publications</span> or <span style="color:#8e20c1">theses</span>. Hover and click on each node for more information, or drag them around to change the network's shape:</p>
+<p>Here you can see a network representing my publications and collaborators; the color of each node specifies if it represents <span style="color:#1722C1">co-authors</span>, <span style="color:#90d185">preprints</span>, <span style="color:#138400">publications</span> or <span style="color:#8e20c1">theses</span> (in this case co-authors are supervisors). Hover and click on each node for more information, or drag them around to change the network's shape:</p>
 <iframe src="/collab_net/network.html" height="500" width="100%" style="border:none;"></iframe>
 
 ### Talk map
