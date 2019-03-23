@@ -48,6 +48,8 @@ _Photo courtesy of [Chris](https://www.instagram.com/corzett/), our "official" p
 
 Today was our last full sampling day, with an unfortunately small number of samples. Got a break from the long waiting near the end of the day, when we colored with lots of the village kids in the coloring books we brought. Two fascinating observations: (1) the kids knew that the Frozen and Mickey Mouse books were for the girls and the Spiderman and Hulk books were for the boys. I don't think this was as engrained in the earlier village we visited, which was far more remote. These kids were super young, probably around 3 or 4. Amazing how infused these things are everywhere... (2) Almost all of the girls gave their princesses black hair. Refreshing! The crayons we had weren't great, so verdict is still out on what skin color they were attempting to give these princesses... We definitely did our best at showing them how to think outside the box with our versions of the superheroes! Or should I say that we showed them how to color outside the lines? ;)
 
+<img src="/images/2019/road-trip/2019-03-20_coloring_tasik_banding.jpg" width="60%">
+
 Since I've been mostly focusing on work, let me make sure to also talk about life: the food here is amazing and the weather is freaking perfect. Even in the days when we've done nothing, I've frequently caught myself thinking "man I'm so glad to just be existing." I was not made for the Boston cold, it's true.
 
 <img src="/images/2019/road-trip/2019-03-14_beautiful_gua_musang.jpg" width="45%"> <img src="/images/2019/road-trip/2019-03-18_jeli_breakfast.jpg" width="45%">
