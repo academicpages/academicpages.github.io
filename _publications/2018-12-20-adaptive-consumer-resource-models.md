@@ -7,7 +7,7 @@ date: 2018-12-20
 venue: 'bioRxiv'
 authors: 'Leonardo Pacciani-Mori, Samir Suweis, Amos Maritan'
 paperurl: 'https://doi.org/10.1101/385724'
-citation: 'Pacciani-Mori L., Suweis S. and Maritan A. (2018). &quot;Adaptive metabolic strategies explain diauxic shifts and promote species coexistence&quot;, <i>bioRxiv</i>. DOI: 10.1101/385724'
+citation: 'Pacciani-Mori L., Suweis S. and Maritan A. (2018). &quot;Adaptive consumer-resource models can explain diauxic shifts and the violation of the Competitive Exclusion Principle&quot;, <i>bioRxiv</i>. DOI: 10.1101/385724'
 ---
 
 ## Abstract
