@@ -7,6 +7,8 @@ permalink: /people/join
 
 ## Join the lab
 
+Check out the Open Positions page for currently funded opportunities to join the lab!
+
 ### Prospective postgraduate (masters or PhD) students
 
 If you are interested in the research we are doing in my lab and would like to join, please get in touch! Please send me your CV and a brief summary of your research interests. 
