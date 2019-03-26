@@ -1,8 +1,9 @@
 ---
+layout: archive
 title: "Open Positions"
 excerpt: "Currently funded positions in the Flanagan lab"
-collection: openpositions
-permalink: /open-positions
+permalink: /open-positions/
+author_profile: true
 ---
 
 ## PhD Project on how sexual selection contributes to trait evolution and population differentiation
