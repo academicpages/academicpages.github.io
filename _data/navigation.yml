@@ -13,7 +13,10 @@ main:
     url: /resources/
         
   - title: "People"
-    url: /people/   
+    url: /people/
+  
+  - title: "Open Positions"
+    url: /open-positions/
     
   - title: "Contact"
     url: /contact/
