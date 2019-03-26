@@ -19,3 +19,5 @@ collection: resources
 [Project management tips](https://www.nature.com/articles/d41586-018-07860-6)
 
 ["The Awesomest 7-Year Postdoc": One Assistant Professor's perspective on a tenure-track job](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
+
+[Advice on obtaining a tenure-track job](https://www.nature.com/articles/d41586-019-00560-9?WT.ec_id=NATURE-2019031)
