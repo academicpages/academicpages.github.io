@@ -27,7 +27,7 @@ redirect_from:
 ## Xin LI 李鑫
 ## Heng Li 李衡
 ## Junjie WANG 王俊杰
-## Yiqiu HU 胡弈秋
+## Yiqiu HU 胡亦秋
 ## Wangtao XIANG 向王涛
 ## Qian WU 吴倩
 ## Zhikai ZHANG 张致恺
