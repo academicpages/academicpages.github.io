@@ -7,7 +7,7 @@ permalink: /people/join
 
 ## Join the lab
 
-Check out the Open Positions page for currently funded opportunities to join the lab!
+Check out the [Open Positions](https://flanagan-lab.github.io/open-positions/) page for currently funded opportunities to join the lab!
 
 ### Prospective postgraduate (masters or PhD) students
 
