@@ -2,7 +2,7 @@
 title: "Open Positions"
 excerpt: "Currently funded positions in the Flanagan lab"
 collection: openpositions
-permalink: /people/open-positions
+permalink: /open-positions
 ---
 
 ## PhD Project on how sexual selection contributes to trait evolution and population differentiation
