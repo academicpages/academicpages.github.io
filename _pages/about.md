@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prof. Dubravko Culibrk's, PhD personal website"
+title: "Prof. Dubravko Culibrk's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
