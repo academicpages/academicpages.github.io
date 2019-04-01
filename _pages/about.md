@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Leonardo Pacciani-Mori /leo&#39;nardo pat&#39;tʃani &#39;mɔːri/, a PhD student in Physics at the University of Padua. I work in the [LIPh lab](https://liphlab.com/){:target="_blank"}<!--_--> under the supervision of Prof. Amos Maritan.
+I'm Leonardo Pacciani-Mori /leo&#39;nardo pat&#39;tʃani &#39;mɔːri/, a PhD student in Physics at the University of Padua. I work in the [LIPh lab](https://liphlab.com/){:target="_blank"}<!--_--> under the supervision of Prof. Amos Maritan. I am also currently appointed as *Fellow of the Department of Physics* at Harvard University, working in [Prof. Murray's group](https://murraylab.fas.harvard.edu/){:target="_blank"}<!--_--> under the supervision of [Dr. Andrea Giometto](https://scholar.harvard.edu/andreagiometto/home){:target="_blank"}<!--_-->.
 
 I work in the broad field of biological physics: I use methods and approaches characteristic of statistical physics to create models of biological and living systems.<br>
 My current main research interest is the study of how competition influences and drives biodiversity in microbial communities, with a particular focus on understanding the origin of the outstanding biodiversity observed in nature.
@@ -20,7 +20,7 @@ My current main research interest is the study of how competition influences and
 
 ## My work at a glance
 ### Collaboration network
-<p>Here you can see a network representing my publications and collaborators; the color of each node specifies if it represents <span style="color:#1722C1">co-authors</span>, <span style="color:#90d185">preprints</span>, <span style="color:#138400">publications</span> or <span style="color:#8e20c1">theses</span> (in this case co-authors are supervisors). Hover and click on each node for more information, or drag them around to change the network's shape:</p>
+<p>Below is a network representing my publications and collaborators; the color of each node specifies if it represents <span style="color:#1722C1">co-authors</span>, <span style="color:#90d185">preprints</span>, <span style="color:#138400">publications</span> or <span style="color:#8e20c1">theses</span> (in this case co-authors are supervisors). Hover and click on each node for more information, or drag them around to change the network's shape:</p>
 <iframe src="/collab_net/network.html" height="500" width="100%" style="border:none;"></iframe>
 
 ### Talk map

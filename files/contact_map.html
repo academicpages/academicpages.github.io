@@ -21,7 +21,11 @@
 <div id="mapid" style="width: 800px; height: 400px;"></div>
 <script>
 
-	var mymap = L.map('mapid').setView([45.409235,11.885922], 14);
+
+	<!--var mymap = L.map('mapid').setView([45.409235,11.885922], 14); -->
+
+	var mymap = L.map('mapid').setView([42.380008,-71.115349], 14);
+
 
 	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 		maxZoom: 18,
@@ -43,7 +47,10 @@
 
 	var greenIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_green.png'})
 
-	L.marker([45.409235,11.885922], {icon: greenIcon}).addTo(mymap).bindPopup('Via Francesco Marzolo 8, Padua 35131 Italy<br /><a href="http://www.dfa.unipd.it/"  target="_blank">Department of Physics and Astronomy "Galileo Galilei"</a><br /><a href="https://www.unipd.it/en/" target="_blank">University of Padua</a>');
+
+	<!--L.marker([45.409235,11.885922], {icon: greenIcon}).addTo(mymap).bindPopup('Via Francesco Marzolo 8, Padua 35131 Italy<br /><a href="http://www.dfa.unipd.it/"  target="_blank">Department of Physics and Astronomy "Galileo Galilei"</a><br /><a href="https://www.unipd.it/en/" target="_blank">University of Padua</a>');-->
+
+	L.marker([42.380008,-71.115349], {icon: greenIcon}).addTo(mymap).bindPopup('52 Oxford St, Cambridge, MA 02138<br />Northwest Science Building, <a href="https://www.harvard.edu/" target="_blank">Harvard University</a>');
 
 
 	var popup = L.popup();

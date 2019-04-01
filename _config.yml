@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Leonardo Pacciani-Mori"
   avatar           : "profile.png"
-  bio              : "PhD student in Physics at the University of Padua"
-  location         : "Padua"
+  bio              : "PhD student in Physics at the University of Padua<br/><br />Fellow of the Department of Physics at Harvard University"
+  location         : "Padua (IT) and Cambridge (MA)"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.it/citations?user=jRBIQbEAAAAJ"

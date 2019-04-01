@@ -11,13 +11,14 @@ redirect_from:
 This page contains my CV, which can also be downloaded as a [pdf file](/files/CV_PaccianiMori.pdf){:target="_blank"}<!--_-->.
 
 ## Research experience
-<!--* Fellow of the Department of Physics, Harvard University
+* Fellow of the Department of Physics, Harvard University
   <ul style="list-style-type:none;">
-    <li><b>Supervisors</b>: Dr. Andrea Giometto, Prof. Andrew Murray</li>
-  </ul>-->
+    <li><b>Supervisors</b>: Dr. Andrea Giometto, Prof. Andrew Murray, Prof. David Nelson</li>
+  </ul>
 * Ph.D. in *Physics*, University of Padua
   <ul style="list-style-type:none;">
     <li><b>Supervisor</b>: Prof. Amos Maritan</li>
+    <li><b>Co-supervisor</b>: Dr. Samir Suweis</li>
   </ul>
 
 ## Education
