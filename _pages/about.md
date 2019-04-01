@@ -12,7 +12,9 @@ I am currently a senior resarch scientist at [Tandemlaunch](http://www.tandemlau
 
 I am also a Full Professor (on leave) of Communication and Information Systems at the Department of [Industrial Engineering and Management](https://www.iim.ftn.uns.ac.rs/) of the [Faculty of Technical Sciences](http://ftn.uns.ac.rs), [University of Novi Sad](http://www.uns.ac.rs/), Serbia. 
 
-I spent two years (2013-2015) as a postdoc researcher at the University of Trento, Italy with the [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/). While pursuing my PhD degree at the [Florida Atlantic University](http://www.fau.edu), USA I was affiliated with the Center for Coastline Security and the Center for Cryptology and Information Security.
+I spent two years (2013-2015) as a postdoc researcher at the University of Trento, Italy with the [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/). 
+
+While pursuing my PhD degree (2003-2006) at the [Florida Atlantic University](http://www.fau.edu), USA I was affiliated with the Center for Coastline Security and the Center for Cryptology and Information Security.
 
 My current research interests include: Neural Networks and Deep Learning, Computer Vision, Machine Learning and Data Science, Multimedia, Visual Attention, Image/Video Processing.
 
