@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dubravko Culibrk"
   avatar           : "GoogleScholarProfile.png"
-  bio              : "I am a Full Professor at the University of Novi Sad, currently on leave and manning the post of Senior Research Scientist at Tandemlaunch startup foundy,."
+  bio              : "I am a Full Professor at the University of Novi Sad, currently on leave and manning the post of Senior Research Scientist at Tandemlaunch startup foundy."
   location         : "Montreal, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dubravko-culibrk-44b8105/"
   orcid            : "https://orcid.org/0000-0003-3417-1687"
   pinterest        :
   soundcloud       :
