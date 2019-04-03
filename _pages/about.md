@@ -20,11 +20,15 @@ Research interests:
 
 ### Signal estimation algorithms
 
+### Reinforcement Learning
+
 ### Coding theory
 
 ### Wireless communication theory
 
 ### Sensor and ad hoc networks
+
+
 
 
 
