@@ -34,7 +34,7 @@ At this conference, I noticed a few things that made talks easier or harder to t
 
 **Always bring it back to the "so what".** This is the key to helping even the people who have no idea what you're talking about write a good tweet about your talk. If you tell me the point of what you're doing in simple words multiple times throughout the talk, I can tweet that and point to your paper for how you get there.
 
-**A few very bold slides.** For bonus points, it's also fun to have a few slides with very bold and big statements. I don't take photos while I tweet, but this is especially good for people who do. We had one at this conference that said "Every metagenomics sequencing measurement is WRONG" (with "wrong" in red font). So fun to tweet that!!
+**A few very bold slides.** For bonus points, it's also fun to have a few slides with very bold and big statements. I don't take photos while I tweet, but this is especially good for people who do. We had one at this conference that said "Every metagenomic sequencing measurement we've ever made is WRONG" (with "wrong" in red font). So fun to tweet that!!
 
 ### Things that make your talk hard to tweet about
 
