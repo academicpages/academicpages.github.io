@@ -24,7 +24,7 @@ author_profile: true
 
 ### Selected Works in Progress (at least preliminary results)
 
-* "Formative Experiences and the Price of Gasoline" (with [Arthur van Benthem][avb]).
+* "Formative Experiences and the Price of Gasoline" (with [Arthur van Benthem][avb]). *Draft coming soon!*
 
 * "Driving and Dropouts: The Effect of Graduated Driver's Licenses on High School Drop Out Rates" (with [Valerie Bostwick][vkb]).
 

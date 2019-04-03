@@ -16,10 +16,10 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 
 ### Recent News
-* Upcoming: Excited that I'm on the interesting program at the [NBER Economics of Infrastructure](http://papers.nber.org/sched/EIs19) in early March!
-* January 2019: *NEW* draft of *LA Metro* paper [here](files/20190130_Severen_LAMetro_New.pdf) and [slides](files/201901_Severen_LAMetro.pdf) too. Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography. 
+* Presented at the [NBER Economics of Infrastructure](http://papers.nber.org/sched/EIs19) in early March!
+* January 2019: *NEW* draft of *LA Metro* paper [here](files/20190130_Severen_LAMetro_New.pdf) and [slides](files/201901_Severen_LAMetro.pdf) too. Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.
 * November 2018: Paper on technology adoption and uncertainty finally found a home a ReSTAT. It's been a long journey! This project, and my excellent coauthors, have provided the best learning opportunity.
-* October 2018: Great UEA meetings in NYC; so many people doing great work! I'm excited that the Philly Fed is hosting next year.
+* October 2018: Great UEA meetings in NYC; so many people doing great work! I'm excited that [the Philly Fed is hosting](http://www.urbaneconomics.org/meetings/uea2019/) next year.
 * September 2018: California Coastal Commission paper [proofs up at JUE](https://www.sciencedirect.com/science/article/pii/S0094119018300421). We study direct and spillover effects of strict land use regulation on multifamily buildings. A [little coverage](http://www.news.ucsb.edu/2018/019175/value-proposition) by UCSB press.
 * June 2018: First publication out in [JEEM](https://www.sciencedirect.com/science/article/pii/S0095069618301177)! We develop a simple land (asset) pricing model and point out that agricultural land prices should be more correlated with future, rather than historical, climate.
 
