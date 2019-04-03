@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xiaoli Ma, Georiga Institute of Technology, GA, USA"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,10 +16,15 @@ After receiving her Ph.D., she joined the Department of Electrical and Computer 
 
 Research interests: 
 ======
-Signal processing for communications and networks
-Signal estimation algorithms
-Coding theory
-Wireless communication theory
-Sensor and ad hoc networks
+### Signal processing for communications and networks
+
+### Signal estimation algorithms
+
+### Coding theory
+
+### Wireless communication theory
+
+### Sensor and ad hoc networks
+
 
 
