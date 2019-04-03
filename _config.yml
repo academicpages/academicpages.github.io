@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Professor"
+  avatar           : "https://www.ece.gatech.edu/sites/default/files/styles/personnel_photos/public/uploads/images/photos/xiaolima131023ar620_web_0.jpg?itok=7W66p7IM"
+  bio              : "IEEE Fellow"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-JthyRYAAAAJ&hl=en"
