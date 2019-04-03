@@ -1,5 +1,5 @@
 ---
-title: How to make a tweetable talk
+title: Live-tweeting conferences and making tweetable talks
 permalink: /posts/2019/04/tweet-talk
 date: 2019-04-05
 tags:
