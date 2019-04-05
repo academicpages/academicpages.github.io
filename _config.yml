@@ -176,10 +176,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
-  oldresearch:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -216,19 +216,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _oldresearch
+  # _research
   - scope:
       path: ""
-      type: oldresearch
+      type: research
     values:
       layout: single
       author_profile: true
