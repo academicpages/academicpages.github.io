@@ -179,7 +179,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  oldresearch:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -225,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _oldresearch
   - scope:
       path: ""
-      type: portfolio
+      type: oldresearch
     values:
       layout: single
       author_profile: true
