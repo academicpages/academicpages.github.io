@@ -12,6 +12,8 @@ I am currently a senior resarch scientist at [Tandemlaunch](http://www.tandemlau
 
 I am also a Full Professor (on leave) of Communication and Information Systems at the Department of [Industrial Engineering and Management](https://www.iim.ftn.uns.ac.rs/) of the [Faculty of Technical Sciences](http://ftn.uns.ac.rs), [University of Novi Sad](http://www.uns.ac.rs/), Serbia. 
 
+Since April 3rd, 2019 I am also an [NVIDIA Deep Learning Insitute](https://www.nvidia.com/en-us/deep-learning-ai/education/) University Ambassador. If you would like me to organize a free Deep Learning training workshop at your university or conference, let me know. 
+
 I spent two years (2013-2015) as a postdoc researcher at the University of Trento, Italy with the [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/). 
 
 While pursuing my PhD degree (2003-2006) at the [Florida Atlantic University](http://www.fau.edu), USA I was affiliated with the Center for Coastline Security and the Center for Cryptology and Information Security.
