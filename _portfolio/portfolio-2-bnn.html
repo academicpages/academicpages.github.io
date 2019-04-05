@@ -1,11 +1,34 @@
 ---
 title: "Background Modelling Neural Nets (BNNs)"
-excerpt: "Neural-network based foreground-background segmentation <br/> in videos containing complex background. <br/><img src='../files/bnn.jpeg'>"
+excerpt: "Neural-network based foreground-background segmentation <br/> in videos containing complex background. <br/><img src='/files/bnn.jpg'>"
 collection: portfolio
 ---
 <p>
 	Although this is ancient stuff in computer science terms, 
 	the main paper still gets cited, so I continue to provide my old code and publications on the topic. 
+</p>
+<p>
+	As it is ancient history, perhaps an explanation of how this research started would be useful. 
+	At least for my own sake as I am starting to forget stuff. 
+	It was 2004 and I was in the middle of my PhD, trying to ditch my TA work and replace it with more RA stuff. 
+	FAU had a NASA Imaging Technology Center, lead by an amazing guy called Dr William E. Glenn. 
+	The center actually designed and produced the highest-resolution camera in the world at the time and FAU was 
+	awarded a project to create a Center for Coastline Security, lead by my advisor Borko Furht. 
+</p>
+<p>
+	My friend Daniel Socek 
+	and I become part of the Center's research team and started working on ways in which the high-resolution camera could be used
+	to do automated surveillance of the Florida coastline. But the hardware was just not there to enable real time applications and 
+	it occurred to me that the only way we will be able to do this would be to implement a highly parallel algorithm on an FPGA. 
+	I was always interested in bio-inspired approaches, so I turned to neural nets. We never got to implement it on an FPGA and years later (2010)
+	I ported it to CUDA to run on a GPU. That is the code that you can find folling the link below. 
+	The full journey is described in these 4 publications:
+	<ul>
+		<li><a href="/files/bnn_culibrk_imvip_final.pdf">IMVIP 2010 paper.</a></li>
+		<li><a href="/files/bnn_jrnl_final_converted.pdf">IEEE Trans. on Neural Networks paper.</a></li>
+		<li><a href="/files/paper_visappCR.pdf">VISAPP 2006 paper.</a></li>
+		<li><a href="/files/paper_visappBNN2_0.pdf">VISAPP 2007 paper.</a></li>
+	</ul>
 </p>
 <p>
 	The <b><a href="../../files/NNRGBseg_forweb.zip">source code</a></b> is an implementation 
