@@ -2,17 +2,18 @@
 // -------------------------
 
 .#{$fa-css-prefix}-ul {
-  list-style-type: none;
-  margin-left: $fa-li-width * 5/4;
   padding-left: 0;
-
+  margin-left: $fa-li-width;
+  list-style-type: none;
   > li { position: relative; }
 }
-
 .#{$fa-css-prefix}-li {
-  left: -$fa-li-width;
   position: absolute;
-  text-align: center;
+  left: -$fa-li-width;
   width: $fa-li-width;
-  line-height: inherit;
+  top: (2em / 14);
+  text-align: center;
+  &.#{$fa-css-prefix}-lg {
+    left: -$fa-li-width + (4em / 14);
+  }
 }

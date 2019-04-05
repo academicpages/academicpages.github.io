@@ -15,15 +15,8 @@
   }
 
   a {
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
-    }
+    color: inherit;
+    text-decoration: none;
   }
 }
 

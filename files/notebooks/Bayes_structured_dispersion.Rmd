@@ -1,0 +1,211 @@
+---
+title: "Bayesian multi-level model for data with structured dispersion"
+output:
+  html_notebook: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+This post provides code to model variance components in a multi-level setting. This is useful when variances are heteroskedastic and, we suspect, heteroskedasticity is driven by some observed variable(s).
+
+#### Steps: 
+
+1. Load the data. For this demonstration I will simulate data in which 600 individual ($i$) are nested into 200 groups ($j$). $Y$ is the outcome variable and I allow for random intercepts at the group level plus structured dispersion at both group-level and individual-level. In this particular case the variance components are functions of the same variable $z$, but this predictor has opposite effects on each of them.
+
+More formally, the DGP can be described as: $Y = \mathbf{1}_{k} \otimes \mathbf{1}_{n}\mu + \mathbf{I}_{k} \otimes \mathbf{1}_{n} \mathbf{a} + \mathbf{I}_{k} \otimes \mathbf{I}_{n} \mathbf{e}$, where $\mathbf{a}$ and $\mathbf{e}$ are random effects, such that $\mathbf{a} \sim N(\mathbf{0}, \mathbf{\sigma_{a}})$ and $\mathbf{e} \sim N(\mathbf{0}, \mathbf{\sigma_{e}})$. Moreover, both variances are functions of $z$: $\mathbf{\sigma_{a}}=f(\mathbf{z})$ and $\mathbf{\sigma_{e}}=g(\mathbf{z})$.
+
+
+```{r}
+
+n=3   # Number of individuals by group
+k=200 # Number of  groups
+
+# Design matrices for multi-levels
+
+One.k=matrix(rep(1,k))
+One.n=matrix(rep(1,n))
+I.k=diag(k)
+I.n=diag(n)
+mu=0
+
+# variance predictor 
+
+z = runif(k,1,5)               # indep variable in variance function at group level
+Z = (I.k%x%One.n)%*%z          # indep variable in variance function at individual level 
+
+
+# An arbitrary function for variance at the group level
+
+THETA_a0 =  -5
+THETA_a1  = 1.9
+var.a = exp(THETA_a0 + THETA_a1*z + rnorm(k))
+sd.a  = sqrt(var.a)
+
+
+# An arbitrary function for variance at individual level (residual variance)
+
+THETA_e0 =  5
+THETA_e1  = -2.7
+var.e = exp(THETA_e0 + THETA_e1*Z + rnorm(k*n))
+sd.e  = sqrt(var.e)
+
+# Random intercepts
+a=rnorm(k,0,sd.a)
+
+# Random error 
+e=rnorm(k*n,0,sd.e) 
+
+
+# Creates Y = mu + random intercept + random error
+
+Y = (One.k%x%One.n)*mu + (I.k%x%One.n)%*%a + (I.k%x%I.n)%*%e   
+
+# Generate indicators. To be used later. 
+group=matrix(rep(1:k))  # vector with group indicator for each group
+Group=(I.k%x%One.n)%*%group # vector with Group indicator for each individual
+```
+
+
+A simple scatterplot of $Y$ and $z$ should reveal variance structure. 
+
+
+```{r,echo=FALSE,message=FALSE}
+library("tidyverse")
+
+data <- data.frame(y=Y,z=Z)
+
+plot <- data %>% ggplot(aes(x=Z,y=Y)) + geom_point(alpha=0.33, colour="blue") + 
+		ylim(-5.5,5.5) + 
+		labs(x="Z",y="Y")
+print(plot)
+```
+
+
+2. Load ```rstan``` to perform Bayesian estimation via Halmiltonian Monte Carlo. Put the data into a list.
+
+
+```{r,message=FALSE}
+
+library("rstan")
+
+Data_l1 <- data.frame(Y,Group,Z) # data individual-level
+Data_l2 <- data.frame(group,z)   # data group-level 
+data    <- list(N=n*k,J=k,y=Data_l1$Y,G=Data_l1$Group,Z=Data_l1$Z, g=Data_l2$group,z=Data_l2$z)
+
+```
+
+
+3. Write the model in ```stan```.
+
+```{r, message=FALSE}
+
+structured_dispersion <- '
+
+data {
+  int<lower=0> J;                   // number of groups 
+  int<lower=0> N;                   // number of individuals
+  int<lower=1, upper=J>  G[N];      // map individuals to groups
+  vector[N] y;                      // outcome variable
+  vector[J] z;                      // group level dispersion predictor
+  vector[N] Z;                      // individual level dispersion predictor
+}
+
+
+parameters {
+
+  vector[J] a;                           // Random Intercept           
+  
+  real theta_a0;                         // Intercept model for variance of random intercept
+  real theta_e0;                         // Intercept model for variance of residual error
+  
+  real theta_a1;                         // Slope model for variance of random intercept
+  real theta_e1;                         // Slope model for variance of residual error
+
+  vector<lower=0>[J] sigma2_a;           // heterogeneous var for random intercept 
+
+  vector<lower=0>[N] sigma2_e;           // heterogeneous var residual error
+
+}
+
+
+transformed parameters {
+  
+  vector[N] y_mu;                        // Random effects
+
+  vector[J] logsigma2_a_mu;              // mean of log-variance for random intercept 
+  vector[J] sigma2_a_mu;                 // mean of variance for random intercept 
+  vector[J] sigma_a;                     // var for random intercept 
+
+  vector[N] logsigma2_e_mu;              // mean of log-variance residual error
+  vector[N] sigma2_e_mu;                 // mean of var residual error
+  vector[N] sigma_e;                     // var residual error
+
+
+  for (i in 1:J) {                       
+                                         // Assigns a different sd to each random intercept
+    logsigma2_a_mu[i] = theta_a0 + theta_a1*z[i];
+    sigma2_a_mu[i]    = exp(logsigma2_a_mu[i]);
+    sigma_a[i]        = sqrt(sigma2_a_mu[i]);
+  }
+
+  for (i in 1:N) {                    
+                                          // Assigns a different sd to each residual error   
+    logsigma2_e_mu[i] = theta_e0 + theta_e1*Z[i];
+    sigma2_e_mu[i]    = exp(logsigma2_e_mu[i]);
+    sigma_e[i]        = sqrt(sigma2_e_mu[i]);
+
+                                          // Assigns a different predicted mean to ech individual depending of group of belonging
+    y_mu[i] = a[G[i]];                  
+  }
+
+
+}
+
+model {
+
+  // Priors 
+
+  theta_a0    ~ cauchy(0,2.5);
+  theta_e0    ~ cauchy(0,2.5);
+  theta_a1    ~ cauchy(0,2.5);
+  theta_e1    ~ cauchy(0,2.5);
+
+  // Variances
+  sigma2_a ~ lognormal(sigma2_a_mu,0.25);
+  sigma2_e ~ lognormal(sigma2_e_mu,0.25);
+
+  // Random intercept 
+  a ~ normal(0, sigma_a);
+
+  // Outcome variable
+  y ~ normal(y_mu, sigma_e);
+
+}
+'
+
+```
+
+
+4. Fit the model and compare the estimates to the parameters used in the DGP. 
+
+```{r, message=FALSE, results="hide"}
+mymodel <- stan(model_code=structured_dispersion, model_name="structured_dispersion", 
+iter=2000, pars=c("theta_e0", "theta_e1","theta_a0", "theta_a1"), data=data, chains=3)
+
+```
+
+```{r}
+print(mymodel)
+```
+
+
+5. Uset he function```launch_shinystan``` from package ```rstanarm``` to get visual and numerical summaries of model parameters and convergence diagnostics.
+
+
+
+
+
+

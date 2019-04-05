@@ -1,0 +1,83 @@
+---
+title: "Goodness of fit statistics for log-linear models"
+output:
+  html_notebook: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+This code provides (hopefully) useful code to extract goodness of fit statistics for log-linear models fitted via Poisson regression in R. 
+
+1. Start with an arbitrary 5x5 contingency table and put it into dataframe format.
+
+```{r}
+	table <- matrix(round(runif(25,0,100),0),5) # creates arbitrary table
+	colnames(table) <- paste0("Y_",seq(1:5)) # Column names
+	rownames(table) <- paste0("X_",seq(1:5)) # Row names
+	df <- data.frame(as.table(table)) # transform table into a dataframe
+
+	head(df)
+```
+
+<br>
+
+2. Now, we fit a saturated model and a models of independence on these data.
+
+```{r}
+	model.indep <- glm(Freq ~ factor(Var1) + factor(Var2), family=poisson, data=df) # independence model
+	model.sat   <- glm(Freq ~ factor(Var1)*factor(Var2), family=poisson, data=df)   # saturated model
+```
+
+<br>
+
+3. The next step in standard log-linear analyses is to compare these models using various goodness-of-fit statistics (e.g. G2,AIC,BIC). The following function computes some common statistics from the ```glm``` objects containing the log-linear models.   
+
+```{r}
+	gof <- function(freq,model) {
+		n    <- sum(freq) 
+		df   <- model$df.residual
+		q    <- model$df.null - model$df.residual
+		G2   <- model$deviance
+		D 	 <- (sum(abs(freq-exp(predict(model))))/ (2*n))
+		AIC  <- G2 - 2*df
+		BIC  <- G2 + log(n)*q
+		stats <- c(df,G2,D,AIC,BIC)
+		names(stats) <- c("df","G2","D","AIC","BIC")
+		return(round(stats,3))
+	}
+```
+
+The function returns each model's degrees of freedom ($df$), the log-likelihood ratio ($G^2$), dissimilarity index ($D$), Akaike information criterion ($AIC$) and Bayesian information criterion ($BIC$). For example:
+
+```{r}
+# Gofs for independence model
+gof(df$Freq,model.indep)
+
+# Gofs for saturated model
+gof(df$Freq,model.sat)
+
+```
+
+Now it's easy to put them together into a table:
+
+```{r}
+	models <- c("model.indep","model.sat")
+	table.gof   <- NULL # Empty table
+
+
+	for (i in models) {
+	  tgof <- gof(df$Freq, eval(parse(text = i))) # Computes Goodness of fit statistics for each model
+		table.gof <- rbind(table.gof,tgof)  # Piles stats for each model
+	}
+
+	rownames(table.gof) <- c("Independence","Saturated")
+	print(table.gof) 
+```
+
+
+
+
