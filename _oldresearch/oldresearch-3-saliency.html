@@ -1,0 +1,123 @@
+---
+title: "Motion Saliency"
+excerpt: "A lightweight approach to motion saliency.<br/><img height='300' src='/files/saliency-vqa.png'>"
+collection: oldresearch
+---
+<p>
+	Another ancient publicaton in computer science terms, but
+	the main paper still gets cited, so I continue to provide my old code and publications on the topic. And who know, with the advent of 
+  IoT smart cameras, who need to be light on hardware, maybe there is new life in the near future for the old computer vision approaches? 
+</p>
+<p>
+	The inital work was done by a research group at the Faculty of Technical Sciences and focused on Video Quality Assesment, 
+  as a part of the resarchers was involved on project for a local company with interests in that domain. I had an interest 
+  in visual saliency since my PhD days, fueled by the work of <a href="https://scholar.google.ca/citations?user=xhUvqK8AAAAJ">Laurent Itti</a> 
+  and <a href="https://en.wikipedia.org/wiki/Christof_Koch">Cristoph Koch</a>, to which my attention was drawn by my advisor, colleague and friend 
+  <a href="https://www.ogemarques.com/">Prof. Oge Marques</a> and I thought it that saliency has to play a significant part in how users experience
+  degradation in the quality of video introduced by coding. Plus saliency was a far more fun topic for me to study.
+</p>
+<p>
+  The work on visual saliency in images could not be transferred to video directly and I felt that motion is acutally key in this case, 
+  so I combined what I knew about moving object segmentation and saliency and created <a href="/files/CBSal.zip">this code</a>. \
+  As usual, it's C++ and OpenCV. I haven't built it in a while so hopefully it still works. 
+</p>
+<p>
+  The VQA stuff
+  was then just a bunch of previously-proposed metrics extracted separately for salient and non-salient regions. To get the estimate
+  of the quality as percieved by the users I used <a href="http://www.cs.waikato.ac.nz/ml/weka/">Wakaito Evironment for Knowledge Analysis (WEKA)</a>, 
+  another tech that I encountered in my PhD days, to train different ML models to do it for me. If you're interested in trying it out for yourself, 
+  you can <a href="/files/vqa.zip">download my old data set in WEKA format</a>.
+</p>
+<p>
+  More recently, but still a long time ago, the saliency model went on to be featured in more publications on which I collaborated with
+  my friend and colleague <a href="https://www.linkedin.com/in/matei-mancas-61253341/">Matei Mancas</a>, and his gruop at the University of Mons, Belgium.
+</p>
+<p>
+  If you want to read up about it a little more, these publications should help:
+	<ul>
+    <li><a href="https://www.researchgate.net/profile/Nicolas_Riche/publication/256765788_Dynamic_Saliency_Models_and_Human_Attention_A_Comparative_Study_on_Videos/links/0c960523bee7d1980f000000.pdf>ACCV 2012 paper.</a></li>
+		<li><a href="/files/culibrk_icann.pdf">International Conference on Neural Networks 2009 paper.</a></li>
+		<li><a href="/files/TIP2080279_web.pdf">IEEE Trans. on Image Processing paper.</a></li>
+	</ul>
+</p>
+<p>
+		If you would just like to see the code in action, take a look at the videos below.
+</p>
+
+<p>
+"Ant" sequence MPEG2 coded at 0.5 Mbps:
+<div>
+  <iframe
+      src="https://www.youtube.com/embed/B7clDmnLjU4"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>	
+</div>
+</p>
+
+<p>	
+Salient motion for the "Ant" sequence (salient parts in white):
+<div>
+  <iframe
+      src="https://www.youtube.com/embed/8QvXk9ekPGA"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>	
+</div>
+</p>
+
+<p>
+"Kayak" sequence MPEG2 coded at 0.5 Mbps:
+<div>
+  <iframe
+      src="https://www.youtube.com/embed/-fUr38NMiOA"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>	
+</div>
+</p>
+
+<p>
+Salient motion for "Kayak" sequence:
+<div>
+  <iframe
+      src="https://www.youtube.com/embed/NSL0CphZFCI"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>	
+</div>
+</p>
+
+<p>
+"Rugby" sequence MPEG2 coded at 0.1 Mbps:
+<div>
+  <iframe
+      src="https://www.youtube.com/embed/zycKqN-c8LE&amp"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>	
+</div>
+</p>
+
+<p>
+Salient motion for the "Rugby" sequence:
+<div>
+  <iframe
+      src="https://www.youtube.com/embed/faXl5jqIfNA"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>	
+</div>
+</p>
