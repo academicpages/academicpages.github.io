@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "xLiMe"
+collection: projects
+permalink: /projects/2019-04-05-xlime
+excerpt: 'The FP7 project I worked on while at Trento.'
+date: 2016-09-20
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+xLiMe (full name crossMedia crossLingual Knowledge extraction) was an FP7 project that I had the pleasure working on during my stary at the MHUG group of [Prof. Nicu Sebe](http://disi.unitn.it/~sebe/) at the University of Trento. I worked on object recognition and text extraction (OCR) from IPTV streams, as well helped with dissemination activities. I should also note that our work has been supported by the grant of two Tesla K40 GPUs from NVIDIA. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+The project was coordinated by our collegue and friend [Dr. Achim Rettinger](https://scholar.google.com/citations?user=a5WsBc0AAAAJ&hl=en), who is as of recently a professor at the University of Trier.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+For more information checkout the [xLiMe website](http://xlime.eu/). 
