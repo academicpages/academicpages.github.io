@@ -18,12 +18,12 @@ Education
 Work experience
 ======
 * May 2015 - Jan 2016: Member of Technical Staff
-  * Zoho University
-  * Job Summary: Server side developer for a cloud accounting software called Zoho Books.  My responsibilities include implementation followed by testing and deploying various features on a REST framework with MySQL as the back-end.
+  * c
+  * Job Summary: Server side developer for a cloud accounting software called [Zoho Books](https://www.zoho.com/books/).  My responsibilities include implementation followed by testing and deploying various features on a REST framework with MySQL as the back-end.
 
 
 * Nov 2014 - May 2015: Protject Trainee
-  * Zoho Corporation
+  * [Zoho Corporation](https://www.zoho.com/)
   
 Skills
 ======
