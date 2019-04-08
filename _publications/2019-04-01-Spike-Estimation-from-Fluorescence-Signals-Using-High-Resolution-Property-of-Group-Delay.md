@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019-04-01-Spike-Estimation-from-Fluorescence-Signals-Using-High-Resolution-Property-of-Group-Delay
 date: 2019-04-01
 venue: 'IEEE Transactions on Signal Processing'
-citation: ' J. {Sebastian},  M. {Kumar},  V. {Viraraghavan},  M. {Sur},  H. {Murthy}, &quot;Spike Estimation from Fluorescence Signals Using High-Resolution Property of Group Delay.&quot; IEEE Transactions on Signal Processing, 2019.'
+paperurl: 'http://dx.doi.org/10.1109/TSP.2019.2908913'
+citation: ' Jilt Sebastian,  Mari Ganesh Kumar,  Venkat S. Viraraghavan,  Mriganka Sur,  Hema A. Murthy, &quot;Spike Estimation from Fluorescence Signals Using High-Resolution Property of Group Delay.&quot; IEEE Transactions on Signal Processing, 2019.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Spike+Estimation+from+Fluorescence+Signals+Using+High+Resolution+Property+of+Group+Delay){:target="_blank"} for full citation
+[Access paper here](http://dx.doi.org/10.1109/TSP.2019.2908913){:target="_blank"}

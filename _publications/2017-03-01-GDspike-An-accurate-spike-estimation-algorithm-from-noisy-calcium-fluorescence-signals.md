@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2017-03-01-GDspike-An-accurate-spike-estimation-algorithm-from-noisy-calcium-fluorescence-signals
 date: 2017-03-01
 venue: 'In the proceedings of 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
-citation: ' J. {Sebastian},  M. {Kumar},  Y. {Sreekar},  R. {Rikhye},  M. {Sur},  H. {Murthy}, &quot;GDspike: An accurate spike estimation algorithm from noisy calcium fluorescence signals.&quot; In the proceedings of 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017.'
+paperurl: 'http://dx.doi.org/10.1109/ICASSP.2017.7952315'
+citation: ' Jilt Sebastian,  Mari Ganesh Kumar,  Y. S. Sreekar,  Rajeev V. Rikhye,  Mriganka Sur,  Hema A. Murthy, &quot;GDspike: An accurate spike estimation algorithm from noisy calcium fluorescence signals.&quot; In the proceedings of 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=GDspike:+An+accurate+spike+estimation+algorithm+from+noisy+calcium+fluorescence+signals){:target="_blank"} for full citation
+[Access paper here](http://dx.doi.org/10.1109/ICASSP.2017.7952315){:target="_blank"}
