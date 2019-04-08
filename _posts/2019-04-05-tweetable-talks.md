@@ -10,7 +10,7 @@ I've gotten into the habit of live-tweeting conferences that I attend, and I rea
 
 ## Why live-tweeting conferences is good for you
 
-**It forces you to digest the main takeaway(s) of a talk.** Let's be real, no talk should contain more than one or two main messages, and no one can remember more than 3-4 sentences' worth of information from any talk. Forcing yourself to digest the main tl'dr of a 10-20 minute talk into a couple of tweets forces you to crystallize the main message into a digestable format.
+**It forces you to digest the main takeaway(s) of a talk.** Let's be real, no talk should contain more than one or two main messages, and no one can remember more than 3-4 sentences' worth of information from any talk. Trying to summarize the main tl'dr of a 10-20 minute talk into a couple of tweets forces you to crystallize the main message into a digestable format, both for yourself and others.
 
 **It's a good way to take notes.** All you have to do is an [advanced Twitter search](https://twitter.com/search-advanced?lang=en) to look back and find tweets from your account with the relevant hashtag. And because of the public-facing nature of it, I find that I'm much more motivated to keep up with the note-taking as opposed to when I just take notes on my computer. When I take notes on paper or on my computer, I can so easily zone out and stop following along. But if I'm tweeting, I feel really bad if I don't tweet about someone's talk and so I do my best to pay attention to at least a part of everyone's talks. It's probably not the most efficient way to go back and re-visit notes, but it's the best way I've found to remain engaged throughout an entire conference. An added bonus is that you can also share papers and links to software or repos, which then become part of your notes as well.
 
@@ -24,11 +24,11 @@ That said, live-tweeting a conference is really hard work. You have to constantl
 
 At this conference, I noticed a few things that made talks easier or harder to tweet about:
 
-### Things that make your talk easy to tweet about
+## Things that make talks easy to tweet about
 
 **Give the punchline away first.** Tell me where we're gonna end up before you start leading me there. It's hard to live-tweet something when I'm constantly anticipating where it's gonna go and when I have no idea when the thought is going to end.
 
-**Post papers, twitter handles, and links up front.** Try to have at least some online presence that people can point to, even if you're presenting unpublished work. There's nothing I love more than signal-boosting an early grad student, but I can only do that if you're easy to find on the internet or you tell me exactly how to find you. Even if you don't use twitter frequently, you can make an account and log on just for conferences and when you publish papers. Twitter is a pretty powerful tool in academia, so it's really good to at least exist on it. I also really loved the talks that posted their preprints and software package links before they went through the details. It meant that I could focus on what they were saying, rather than dig around trying to find their method while also trying to pay attention and do all the other things.
+**Post papers, twitter handles, and links up front.** Try to have at least some online presence that people can point to, even if you're presenting unpublished work. There's nothing I love more than signal-boosting an early grad student, but I can only do that if you're easy to find on the internet or you tell me exactly how to find you. Even if you don't use twitter frequently, you can make an account and log on just for conferences and when you publish papers. Twitter is a pretty powerful tool in academia, so it's really good to at least exist on it. I also really loved the talks that posted their preprints and software package links before they went through the details. It meant that I could focus on what they were saying, rather than dig around trying to find their method while also trying to pay attention and summarize their work.
 
 **Put useful information on your last slide.** This can either be the main conclusions of your talk explicitly spelled out, or the links to your papers and preprints, or something else that's more than just a list of names or a blank slide with "questions?". I often wait until the end of a talk to send out most of the tweets, because that's how long it takes to fully digest the whole message. It's _super_ helpful when the slide that stays up during Q&A can help me finish up my thoughts.
 
@@ -36,7 +36,7 @@ At this conference, I noticed a few things that made talks easier or harder to t
 
 **A few very bold slides.** For bonus points, it's also fun to have a few slides with very bold and big statements. I don't take photos while I tweet, but this is especially good for people who do. We had one at this conference that said "Every metagenomic sequencing measurement we've ever made is WRONG" (with "wrong" in red font). So fun to tweet that!!
 
-### Things that make your talk hard to tweet about
+## Things that make talks hard to tweet about
 
 **Referring to previous or future parts of your talk.** If I didn't quite get what you've already covered but you keep referring back to it, it makes it so difficult to figure out what to tweet! (Plus it makes me feel really dumb that I can't follow). Similarly, if you keep foreshadowing to the rest of your talk, I'm like in suspended animation and not sure when your thought is finished and my tweet ready to be completed. In general, if a person zoning out for a slide or two to check their email means that they're lost for the rest of the talk,  that's not a very good sign for your talk. Since people are definitely going to do that, you should aim to make your talk robust to it.
 
