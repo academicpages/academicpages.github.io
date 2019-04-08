@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mari Ganesh Kumar"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Mari Ganesh Kumar"
 description              : &description "Docotoral Researcher at IIT Madras"
@@ -83,9 +83,9 @@ author:
   name             : "Mari Ganesh Kumar"
   avatar           : "profile.png"
   bio              : "Docotoral Researcher at IIT Madras"
-  location         : "Speech and Music Technology Lab, IIT Madras, Chennai"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=p0T5AC4AAAAJ&hl=en"
   email            : mari[at]cse.iitm.ac.in
   researchgate     : "https://www.researchgate.net/profile/Mari_Kumar5"
