@@ -11,14 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science Engineering, Thiagarajar College of Engineering, 2015
-* M.S. in Computer Science Engineering, Indian Institute of Technology Madras, 2020 (expected)
-* Ph.D in omputer Science Engineering, Indian Institute of Technology Madras, 2020 (expected)
+* B.E. in Computer Science Engineering, [Thiagarajar College of Engineering](https://www.tce.edu), 2015
+* M.S. in Computer Science Engineering, [Indian Institute of Technology Madras](https://www.iitm.ac.in), 2020 (expected)
+* Ph.D in omputer Science Engineering, [Indian Institute of Technology Madras](https://www.iitm.ac.in), 2020 (expected)
 
 Work experience
 ======
+* Jan 2016 - Present Half-Time Teaching Assistant 
+  * [Indian Institute of Technology Madras](https://www.iitm.ac.in)
+  * Courses Assisted
+    *   
 * May 2015 - Jan 2016: Member of Technical Staff
-  * c
+  * [Zoho Corporation](https://www.zoho.com/)
   * Job Summary: Server side developer for a cloud accounting software called [Zoho Books](https://www.zoho.com/books/).  My responsibilities include implementation followed by testing and deploying various features on a REST framework with MySQL as the back-end.
 
 
