@@ -20,7 +20,11 @@ Work experience
 * Jan 2016 - Present Half-Time Teaching Assistant 
   * [Indian Institute of Technology Madras](https://www.iitm.ac.in)
   * Courses Assisted
-    *   
+    * Introduction to Programing (CS1100) [Jan 2016, July 2016, Jan 2019]
+    * Software Engineering Lab (CS6690) [Jan 2017]
+    * Pattern Recognition (CS6690) [July 2017]
+    * Discrete Mathematics (CS1200) [Jan 2018]
+    * Pattern Recogntion and Machine Learning (CS5691) [July 2018]
 * May 2015 - Jan 2016: Member of Technical Staff
   * [Zoho Corporation](https://www.zoho.com/)
   * Job Summary: Server side developer for a cloud accounting software called [Zoho Books](https://www.zoho.com/books/).  My responsibilities include implementation followed by testing and deploying various features on a REST framework with MySQL as the back-end.
