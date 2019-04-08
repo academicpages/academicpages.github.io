@@ -4,7 +4,7 @@ collection: teaching
 type: "Theses"
 permalink: /teaching/theses
 venue: "University of Novi Sad, Faculty of Technical Sciences"
-date: 2019-04-08
+date: 2019-04-03
 location: "Europe"
 ---
 
