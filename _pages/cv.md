@@ -17,15 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2015 - Jan 2016: Member of Technical Staff
+  * Zoho University
+  * Job Summary: Server side developer for a cloud accounting software called Zoho Books.  My responsibilities include implementation followed by testing and deploying various features on a REST framework with MySQL as the back-end.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Nov 2014 - May 2015: Protject Trainee
+  * Zoho Corporation
   
 Skills
 ======
