@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/NVIDIA-teaching
 venue: "University X, Department Y"
-date: 2019-04-05
+date: 2019-04-07
 location: "Europe, North America, Africa"
 ---
 
