@@ -3,7 +3,7 @@ title: "Biostatistics, Quantitative Genetics"
 collection: 
 type: "Graduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
+venue: "Department ofAnimal Science, Shahid Bahonar University of University of Kerman, Kerman,Iran"
 date: 2018-01-01
 location: "Department ofAnimal Science, Shahid Bahonar University of University of Kerman, Kerman,Iran"
 ---
