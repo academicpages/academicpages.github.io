@@ -35,7 +35,7 @@ communications to Z3 (❷,❸) and construct all desired abstract anomalies.
  
 <img src="/images/pipeline.png"
      alt="Markdown Monster icon"
-     style="float: center; margin-left: 35px; margin-bottom: 20px" />
+     style="float: center; margin-left: 15px; margin-bottom: 20px" />
 
 In order to provide users with an easy to grasp notion of bugs and more importantly, to account for
 low-level specific behaviors of each database system (which can slightly differ from
