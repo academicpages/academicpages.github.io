@@ -10,18 +10,21 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 # Papers
 
-- **Adapting Sequence to Sequence models for Text Normalization in Social Media**, ICWSM 2019[[code](https://github.com/Isminoula/TextNormSeq2Seq)]  
+- **Adapting Sequence to Sequence models for Text Normalization in Social Media**, ICWSM 2019  
 Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai  
-resources coming soon!
+[code](https://github.com/Isminoula/TextNormSeq2Seq) resources coming soon!
 
-- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 [[paper](/files/difficult.pdf), [poster](/files/ISWCposter.pdf)]  
+- **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018   
 Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande
+[[paper](/files/difficult.pdf), [poster](/files/ISWCposter.pdf)]
 
-- **CLaDS: cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018 [[paper](/files/clads.pdf)]  
+- **CLaDS: cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018   
 Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai
+[[paper](/files/clads.pdf)]
 
-- **Mining relations from unstructured content**, PAKDD 2018 [[paper](/files/pakdd.pdf)]  
+- **Mining relations from unstructured content**, PAKDD 2018   
 Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, Steve Welch
+[[paper](/files/pakdd.pdf)]
 
 - **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HumL@WWW 2018 [[paper](/files/batchAL.pdf), [slides](/files/HumL2018poster.pdf)]  
 Ismini Lourentzou, Daniel Gruhl, Steve Welch
