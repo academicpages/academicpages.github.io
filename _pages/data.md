@@ -19,6 +19,11 @@ author_profile: true
 #### JMF: [Chinese Family Panel Studies](http://www.isss.pku.edu.cn/english/index.htm) (Zhang 2017)
 
 ## Data for S&P1500 Firms
-#### Wikipedia links: [A side product when I was checking SP1500 Firms' abbrs and other names](https://yongjunzhang.com/files/sp1500_wikipedia.csv)
+#### [Wikipedia links for SP1500 Firms](https://yongjunzhang.com/files/sp1500_wikipedia.csv)
+#### Congressional hearings for SP1500 Firms (Available upon request)
+#### Political Spending and Lobbying for SP1500 Firms (Available upon request)
+#### Federal contracts for SP1500 Firms (Available upon request)
+#### EEOC law suits for SP1500 Firms (Available upon request)
+#### National media CPA coverage for SP1500 Firms (Available upon request)
 
 ### Codes: Available upon request.
