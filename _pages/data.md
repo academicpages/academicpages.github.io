@@ -19,7 +19,6 @@ author_profile: true
 #### JMF: [Chinese Family Panel Studies](http://www.isss.pku.edu.cn/english/index.htm) (Zhang 2017)
 
 ## Data for S&P1500 Firms
-#### Wikipedia links for SP1500 Firms (2000-2018): [A side product when I was checking SP1500 Firms' abbrs and other names](https://yongjunzhang/files/sp1500_wikipedia.csv)
-
+#### Wikipedia links: [A side product when I was checking SP1500 Firms' abbrs and other names](https://yongjunzhang.com/files/sp1500_wikipedia.csv)
 
 ### Codes: Available upon request.
