@@ -20,10 +20,12 @@ author_profile: true
 
 ## Data for S&P1500 Firms
 #### [Wikipedia links for SP1500 Firms](https://yongjunzhang.com/files/sp1500_wikipedia.csv)
-#### Congressional hearings for SP1500 Firms (Available upon request)
-#### Political Spending and Lobbying for SP1500 Firms (Available upon request)
-#### Federal contracts for SP1500 Firms (Available upon request)
-#### EEOC law suits for SP1500 Firms (Available upon request)
-#### National media CPA coverage for SP1500 Firms (Available upon request)
+#### Congressional hearings for SP1500 Firms**
+#### Political Spending and Lobbying for SP1500 Firms**
+#### Political Spending and Lobbying for SP1500 Firms CEO/Chairman/President**
+#### Federal contracts for SP1500 Firms**
+#### EEOC law suits for SP1500 Firms**
+#### National media CPA coverage for SP1500 Firms**
+** Available upon request
 
 ### Codes: Available upon request.
