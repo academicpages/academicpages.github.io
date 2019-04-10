@@ -10,7 +10,7 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 # Papers
 
-- **Adapting Sequence to Sequence models for Text Normalization in Social Media**, ICWSM 2019   
+- **Adapting Sequence to Sequence models for Text Normalization in Social Media**, ICWSM 2019[[code](https://github.com/Isminoula/TextNormSeq2Seq) resources coming soon!] 
 Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai
 
 - **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018 [[paper](/files/difficult.pdf), [poster](/files/ISWCposter.pdf)]  
