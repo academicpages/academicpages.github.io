@@ -34,7 +34,7 @@ Ismini Lourentzou, Alex Morales, ChengXiang Zhai
 - **Rescuing Lost History: Using Big Data to Recover Black Women's Lived Experiences**, XSDEDE 2016  
 Ruby Mendenhall, Nicole Brown, Michael L Black, Mark Van Moer, Ismini Lourentzou, Karen Flynn, Malaika Mckee, Assata Zerai
 
-- **Hotspots of news articles: Joint mining of news text & social media to discover controversial points in news**, IEEE Big Data 2015 [[paper](/files/hotspots.pdf)]  
+- **Hotspots of news articles: Joint mining of news text & social media to discover controversial points in news**, IEEE Big Data 2015 [[paper](/files/hotspots.pdf),[demo](https://controversy.2pitau.org/login),[code](https://framagit.org/gdyer/CONTROVERSY)]
 Ismini Lourentzou, Graham Dyer, Abhishek Sharma, ChengXiang Zhai
 
 - **Automated snippet generation for online advertising**, ACM CIKM 2013 [[paper](/files/snippet.pdf)]  
