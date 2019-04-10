@@ -29,8 +29,8 @@ author_profile: true
 #### ** Available upon request
 
 ### Replication Codes
-### Webscraper for ProQuest Newsstand Database
-### Webscraper for ProQuest Congressional Database
-### Webscraper for Nexis Uni Database
-### Webscraper for SEC Edgar Database
-### Webscraper for OpenSecrets Database
+#### Webscraper for ProQuest Newsstand Database
+#### Webscraper for ProQuest Congressional Database
+#### Webscraper for Nexis Uni Database
+#### Webscraper for SEC Edgar Database
+#### Webscraper for OpenSecrets Database
