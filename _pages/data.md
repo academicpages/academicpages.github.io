@@ -28,4 +28,9 @@ author_profile: true
 #### National media CPA coverage for SP1500 Firms**
 #### ** Available upon request
 
-### Codes: Available upon request.
+### Replication Codes
+### Webscraper for ProQuest Newsstand Database
+### Webscraper for ProQuest Congressional Database
+### Webscraper for Nexis Uni Database
+### Webscraper for SEC Edgar Database
+### Webscraper for OpenSecrets Database
