@@ -15,15 +15,15 @@ Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai
 [code](https://github.com/Isminoula/TextNormSeq2Seq) resources coming soon!
 
 - **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018   
-Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande 
-[[paper](/files/difficult.pdf), [poster](/files/ISWCposter.pdf)]
+Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande  
+ [[paper](/files/difficult.pdf), [poster](/files/ISWCposter.pdf)]
 
 - **CLaDS: cloud-based virtual lab for the delivery of scalable hands-on assignments for practical data science education**, ITiCSE 2018   
-Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai 
-[[paper](/files/clads.pdf)]
+Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai  
+ [[paper](/files/clads.pdf)]
 
 - **Mining relations from unstructured content**, PAKDD 2018   
-Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, Steve Welch
+Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, Steve Welch  
 [[paper](/files/pakdd.pdf)]
 
 - **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HumL@WWW 2018 [[paper](/files/batchAL.pdf), [slides](/files/HumL2018poster.pdf)]  
