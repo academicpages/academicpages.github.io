@@ -26,6 +26,6 @@ author_profile: true
 #### Federal contracts for SP1500 Firms**
 #### EEOC law suits for SP1500 Firms**
 #### National media CPA coverage for SP1500 Firms**
-** Available upon request
+#### ** Available upon request
 
 ### Codes: Available upon request.
