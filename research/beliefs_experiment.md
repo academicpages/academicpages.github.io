@@ -2,7 +2,7 @@
 title: "It's not really about how the game is played; it's about whether you win or lose"
 collection: research
 permalink: /research/beliefs_experiment
-citation: 'Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. R&R at <i>Science Advances</i>.'
+citation: 'Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. Conditionally Accepted at <i>Science Advances</i>.'
 ---
 
 
