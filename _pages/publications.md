@@ -93,12 +93,3 @@ End-to-end pipeline to process 16S data.
 _[Blog post]_ **Claire Duvallet**. "[Learning to Engage in Deep Conversations](https://gradadmissions.mit.edu/blog/learning-engage-deep-conversations)." _MIT Graduate Admissions blog_ (2018).
 
 _[Resource]_ **Claire Duvallet** and Monika Avello. "[Graduate student support resources flowchart.](/files/2018-04-01-Grad-Support-Flowchart-MIT-Digital.pdf )" I and another student on [iREFS](http://refs.mit.edu/irefs/) created this flowchart to help graduate students find support at MIT.
-
-_[Blog posts]_ **Claire Duvallet**. During my Luce year (2014-2015), I wrote some posts for the Engineering World Health [blog](http://www.ewh.org/news/blog):
-
-* [Turning Knowledge into Practice: Cambodia BMET Training](http://www.ewh.org/news/blog/463-turning-knowledge-into-practice-cambodia-bmet-training)   
-* [Pass It On: Teaching in Cambodia](http://www.ewh.org/news/blog/472-pass-it-on-teaching-in-cambodia)   
-* [A Late Night In Phnom Penh](http://www.ewh.org/news/blog/477-a-late-night-in-phnom-penh)   
-* [Final Exams and Weddings in Cambodia](http://www.ewh.org/news/blog/489-final-exams-and-weddings-in-cambodia)   
-* [BMET Bonding in Phnom Penh](http://www.ewh.org/news/blog/508-bmet-bonding-in-phnom-penh)   
-* [BMET Cambodia Welcomes Dhritiman Das!](http://www.ewh.org/news/blog/522-bmet-cambodia-welcome-dhritiman-das)   
