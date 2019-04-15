@@ -129,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
