@@ -12,7 +12,7 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 - **Adapting Sequence to Sequence models for Text Normalization in Social Media**, ICWSM 2019  
 Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai  
-[code](https://github.com/Isminoula/TextNormSeq2Seq) resources coming soon!
+[paper](https://arxiv.org/abs/1904.06100), [code](https://github.com/Isminoula/TextNormSeq2Seq) *resources coming soon!*
 
 - **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018   
 Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande  
