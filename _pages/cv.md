@@ -53,6 +53,10 @@ See [publications](/publications/) page.
 
 ## Oral presentations
 
+Apr. 2019 - "Intro to microbiome data visualization." Cornell University 2019 Microbiome Hackathon: [Microbiome Hack](http://microbiomehack.org). Slides: [cduvallet.github.io/mbiome-data-viz/](https://cduvallet.github.io/mbiome-data-viz/)
+
+Feb. 2019 - "Tips, tricks, and philosophies on computational work." Alm lab summit. Slides: [cduvallet.github.io/phdchat-philosophies/](https://cduvallet.github.io/phdchat-philosophies/)
+
 Nov. 2018 - "Framework for rational donor selection in fecal microbiota transplant clinical trials." [International Conference on Microbiome Engineering](https://www.aiche.org/sbe/conferences/microbiome-engineering/2018).
 
 May 2018 - "Distribution-based methods to increase power and reduce redundancy in microbiome data." Teaching and Developing QIIME 2 Workshop. ([abstract](https://docs.google.com/document/d/1AJS6E6zKC3vB87L6lE3jkbEnqKKbmAUklx2LNP5xn0k/edit?disco=AAAAB30XTS8&ts=5ae86df5#heading=h.nu9k79xrnqy2))
