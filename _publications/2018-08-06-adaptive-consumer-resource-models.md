@@ -3,7 +3,7 @@ title: "Adaptive consumer-resource models can explain diauxic shifts and the vio
 collection: publications
 permalink: /publication/2018-12-20-adaptive-consumer-resource-models
 excerpt: "bioRxiv preprint"
-date: 2018-12-20
+date: 2018-08-06
 venue: 'bioRxiv'
 authors: 'Leonardo Pacciani-Mori, Samir Suweis, Amos Maritan'
 paperurl: 'https://doi.org/10.1101/385724'
