@@ -12,7 +12,7 @@ header:
    teaser: CED_thumbnail_text.png
 ---
 
-<a href="files/2019_cvprw_CED.pdf" target="_blank"><b>PDF</b></a>&emsp;
+<a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.txt" target="_blank"><b>BibTex</b></a>
 
 <b>Abstract.</b> Event cameras are novel, bio-inspired visual sensors, whose pixels output asynchronous and independent timestamped spikes at local intensity changes, called 'events'.
