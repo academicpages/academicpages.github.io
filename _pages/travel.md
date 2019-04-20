@@ -4,6 +4,22 @@ permalink: /travel/
 author_profile: true
 ---
 
+## April 19
+
+**Ouachita Forest --> Black Kettle National Grasslands**
+
+Woke up to the wind pulling my tent out of the ground, so packed up and headed on the road. No breakfast migas by the lake, so sad. But that's ok because the donut shop I stopped at for coffee was closing and gave me some free cinnamom twists woohoo! Interesting to realize, however, that coffee shops are actually not common at all for these small towns. The one I stopped at in New Waverly on my first part of the road trip was apparently a huge anomaly!
+
+Big driving day today: spent the morning getting out of Arkansas driving through the forest. Really loving not taking the major highways, these smaller roads have almost just as high of speed limits but way less traffic and way better views. Super nice!
+
+<img src="/images/2019/road-trip/driving through arkansas">
+
+I stopped to have lunch in a small town and then back on the road with Lizzo's new album. Her song "Soulmate" speaks to my soul and might just be the new anthem of this road trip. Before I knew it, forested Arkansas turned into flat grassy Oklahoma (I think it happened after I passed Oklahoma City), and I made it to my camp for tonight. I met a lovely young couple from Tennessee driving back home and an older woman named Patty doing basically what I'm doing, minus California, and with a _much_ nicer car set up. And! I got to make my migas!
+
+<img src="/images/2019/road-trip/migas">
+
+<img src="/images/2019/road-trip/black kettle camp">
+
 ## April 18
 
 **Ozarks --> Hot Springs, AR --> Ouachita Forest**
