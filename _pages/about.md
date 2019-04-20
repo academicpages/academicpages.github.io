@@ -6,7 +6,18 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+youtubeId: bZ0ZKido0Ag
+
 ---
+I am a PhD candidate at the Australian National University and the Australian Center for Robotic Vision.
+My research is on Robotic Vision: image processing to allow robots to see and make sense of the world.
+We use novel, biologically inspired sensors called 'event cameras' that do not capture images using a shutter like conventional cameras.
+Instead, event cameras respond to per-pixel changes in brightness, reporting these changes as they occur, but staying silent otherwise.
+As a result, event cameras are very fast and do not suffer from motion blur or under/overexposure, enabling robots to see in a range of challenging conditions such as high speed and low light.
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+## Bio
 I completed my Master of Engineering (Mechanical) at the University of Melbourne in 2016. In 2015 I worked as a research assistant in the Fluid Dynamics lab at Melbourne before completing an exchange semester at ETH Zurich.
 My final year Master's thesis was a combined project with the University of Melbourne and The Northern Hospital, performing computational fluid dynamics studies on patient-specific coronary arteries under the supervision of <a href="https://mechanical.eng.unimelb.edu.au/people/a-ooi" target="_blank">Andrew Ooi</a>.
 
