@@ -4,6 +4,73 @@ permalink: /travel/
 author_profile: true
 ---
 
+## April 18
+
+**Ozarks --> Hot Springs, AR --> Ouachita Forest**
+
+Today was an excellent solo road trip day. I got up and had a delicious and lazy breakfast (upgraded my peanut butter and banana by adding blueberries -- _game changer_). I had to cross a creek to get in, and as I'd feared the water level had risen quite a bit with the rain overnight and in the morning. Went ahead and drove (very slowly and very carefully) across it, SO SCARY but I made it! Super terrifying though, definitely not going back to that campground after a whole day of more rain...
+
+<img src="/images/2019/road-trip/creek crossing">
+
+The rain is shitty so I give up on trying to hike and instead turn around and go find some hot springs, inspiration courtesy of my awesome National Geographic road atlas that also has info on national parks. It's a bit of detour from my route, but that's the point of a road trip no?? I splurge on some hot baths - I love me some thermally heated pools. I meet a woman named Maisy who seems very cool and nice and who offers me a place to stay. I end up declining, partially because I want to get a head start on my long drive tomorrow, and partially because I'm not quite tapped out of solitude yet. It's actually something I'm struggling a bit with: on the one hand, I want this trip to be full of solitude and I don't feel like I'm going to get as much of it as I'd like; on the other hand, I want to say yes to adventure and go with the flow as opportunities arise. Still trying to figure out where to strike the balance...
+
+<img src="/images/2019/road-trip/welcome to hot springs">
+
+Anyway it's probably fine because the campground she recommended is yet another that tentacles out into a lake and it is beautiful here. I made quesadillas out of my leftover taco filling and tomorrow I think I'll make migas for breakfast. Life is good.
+
+<img src="/images/2019/road-trip/joplin campground">
+
+
+## April 17
+
+**St. Francis --> Little Rock, AR --> Ozarks National Forest**
+
+Man, Arkansas is not a state I've given a lot of thought to. Which I might be wrong about: it seems really pretty and fairly lovely here! I had a phone call scheduled so I headed to Little Rock and set up shop at a lovely cafe with coffee, internet, and bagels (the holdover Sonic coffee was so bad, noted). Stock up on groceries and camping gas, and I'm off to the Ozarks!
+
+Slept at Haw Creek Falls campground, a really beautiful site with a creek nearby and also lots of flash flood warnings. It's supposed to rain all night and all day tomorrow, we'll see how it goes...
+
+<img src="/images/2019/road-trip/haw creek">
+
+The camp itself is exactly what I want: only one other RV there (with no sign of life -- I don't understand what these RV campers do all day and night), feels like I have the whole forest to myself.
+
+<img src="/images/2019/road-trip/ozarks campgsite">
+
+## April 16
+
+**Ithaca --> Nashville** and **Nashville --> Memphis --> St. Francis National Forest**
+
+After a much needed rest day, I take a Lyft to the airport in Syracuse to catch my flight. The Lyft driver isn't fazed at all that I'm asking him to drive me an hour away, he says he does it all the time. I guess in these more rural areas, Lyft drivers are more regional than in a denser city like Boston?
+
+My second flight is delayed (obvs), but I finally make it back to Nashville around 4 or 5 pm. My car is still there!
+
+<img src="/images/2019/road-trip/me hugging the car">
+
+I drive to Memphis for dinner, and Memphis is exactly everything I wanted Nashville to be which it wasn't. I only walked around Beale St, but still: the street was closed to traffic, there was copious live music that all sounded good, and it wasn't just a basement frat party. Really wanna go back with some friends to get down and really appreciate the funky music that was playing everywhere.
+
+<img src="/images/2019/road-trip/memphis">
+
+It's about another hour to St. Francis National Forest, which is also called Mississipi River State Park. It's _also_ in the same National Forest system as the Ozarks, which makes no sense to me because the Ozarks forest is very far away. My camp is amazing though, at the very tip of some tentacling land that goes into the lake. Amazing!
+
+<img src="/images/2019/road-trip/st francis camp">
+
+## April 13 - April 15: Ithaca
+
+Ilana, a former postdoc in the Alm lab and current rockstar new professor at Cornell, invited me to give a talk at a microbiome hackathon she hosted. It was a really fun weekend catching up with her, her twin baaaabies, and my friends Scott and Georgia (Scott was also invited to give a talk). The talk was fine, though it would have been much better with more time to prep (oh well, so it goes). If you want to see it, it's available [on my website](https://cduvallet.github.io/mbiome-data-viz/). Beyond work, we also got a quick hike through Ithaca's gorges in -- GORGEous!!
+
+<img src="/images/2019/road-trip/gorges">
+
+Oh and did I mention baaaaabies?
+
+<img src="/images/2019/road-trip/babies">
+
+## April 8 - April 12: Boston to Great Smoky Mountains to Nashville
+
+Coming soon!
+
+## March 31 - April 7: New York
+
+Coming soon!
+
 ## March 10 - 27: Malaysia
 
 For this part of my "road trip," I'm in Malaysia on a sampling trip with the [Global Microbiome Conservancy](http://microbiomeconservancy.org/), a really cool project started by two postdocs in Eric's lab (and some others) which aims to preserve global microbial diversity by sampling stool from people all around the world, including indigenous communities often left out of traditional microbiome research. Scientifically, it's also fascinating: industrialization and sanitation have radically changed our human-associated microbes, and many of the gut bacteria in people living traditional lifestyles have disappeared from the microbiomes of people living more industrialized lifestyles (like me!). I encourage you to take a look through [their website](http://microbiomeconservancy.org/), because their model is actually pretty cool and they're actively trying to de-colonize the way they're doing this science as much as possible.
