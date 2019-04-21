@@ -4,6 +4,24 @@ permalink: /travel/
 author_profile: true
 ---
 
+## April 20
+
+**Black Kettle Grasslands, OK --> Pampa, TX --> Lake Clayton State Park, NM**
+
+Three states in one day (and not on the east coast) woohoo!! Had a very lazy morning, taking my time as one should on a road trip before heading out. My goal for today was to find a place to get my oil changed, since it's about due tomorrow is Easter so everywhere will be closed, and after that I'll be in fun lands without really wanting to stop for errands. After stopping in a few places in Pampa, TX, I finally found a Walmart to do it. Bonus: they were selling hamburgers for $1.50, there was picnic table nearby to hang out at, and there was free wifi! What luxury.
+
+<img src="/images/2019/road-trip/walmart lunch">
+
+Now I'm in Lake Clayton State Park which is super nice - I wish I'd gotten a photo of the landscape leading up to it because it is all _flat_ prairie grasses. But surprise! There's a lake! (Though apparently this lake is manmade, from damming up a creek. Ah well). And guess what! There's dinosaur tracks here!!
+
+<img src="/images/2019/road-trip/dino tracks">
+
+The real reason I came here though is because it's apparently an internationally rate dark sky area, so the star gazing is supposed to be great. Unfortunately the moon has been big and bright the past few days so I don't think I'll see much...
+
+<img src="/images/2019/road-trip/layke clayton camp">
+
+
+
 ## April 19
 
 **Ouachita Forest --> Black Kettle National Grasslands**
