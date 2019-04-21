@@ -21,7 +21,6 @@ The real reason I came here though is because it's apparently an internationally
 <img src="/images/2019/road-trip/layke clayton camp">
 
 
-
 ## April 19
 
 **Ouachita Forest --> Black Kettle National Grasslands**
@@ -97,13 +96,41 @@ Oh and did I mention baaaaabies?
 
 <img src="/images/2019/road-trip/babies">
 
+A side note that 3 out 4 of my flights to and from Ithaca didn't work out as planned: my flight from Nashville to Philly was delayed, which made me miss my connection to Ithaca. So I stayed the night in Philly and took the next morning's flight to Ithaca (which was on time). But then my flight back to Philly was canceled because of weather, so I ended up staying a whole extra day in Ithaca (mostly catching up on sleep and internet, lol) before leaving out of Syracuse to DC. That flight was delayed, and so was my DC to Nashville one. It's amazing to me how airlines are so uncommitted to delivering the services they've promised! Gr. But oh well, I was glad to have the option to take this silly detour and I think I actually really needed that extra day chilling in Ithaca.
+
 ## April 8 - April 12: Boston to Great Smoky Mountains to Nashville
 
-Coming soon!
+After a brisk ~19 hours back in Boston, I was off again to the prelude for part 2 of my cross-country road trip! Ben joined me for this part, and we stopped at his sister's place in Philly on the way down (much later than we would have liked, my bad...) Our goal was to get to the Great Smoky Mountains National Park, which ended up taking us more than a day of driving given errands and other random stops. We attempted to go to a campground that was closed, and so just camped at the trailhead "next door" instead.
+
+<img src="/images/2019/road-trip/lone pines camp">
+
+The next day was again a lot of driving, but since we were making good time we decided to stop at some whiskey distilleries on our way to the park. Turns out Tennessee whiskey is actually just moonshine, and that you can get super creative with creamer in your cocktails who knew. Not a super huge fan, but it does make me want to try the Kentucky bourbon trail a lot more! Hopefully it's more than gaudy distilleries in parking lots selling moonshine. XD
+
+<img src="/images/2019/road-trip/cocktail recipes">
+
+After driving through a regurgitated amusement park known as Sieverville, we made it to the park! It turns out Dollywood is _right_ there, and it was so amazing how quickly the gaudy restaurants and attractions immediately switched to the park. We found a lovely secluded campsite at the campground and proceeded to drink the Gentleman Jack we had picked up in Sieverville (which just tastes like regular Jack, but _slightly_ less bad...)
+
+<img src="/images/2019/road-trip/smoky mountains campsite">
+
+The next day was pretty perfect, and is the day I count as my birthday in my heart. We got up, had a vending machine feast (including terrible coffee, decent hot chocolate + instant coffee, and amazing Tim Tam slams), and went for a hike!
+
+<img src="/images/2019/road-trip/smoky mountains hike">
+
+Then we were off to Nashville, where Ben found an amazing airbnb that was a garage converted into a super lovely studio apartment. After a quick shower, we hit the town, which was ... so disappointing. The first area we went to had one bar with live music that was pretty decent (and which also introduced us to spiked Capri Suns -- brilliant!) But then we went downtown to Broadway and it was just bar after bar of The Hong Kong but worse. Multiple stories of bad music, bad drinks, and a bad atmosphere. It was like an entire strip of frat parties for adults. Really didn't love the place, but we managed to have a great time anyway. :)
+
+<img src="/images/2019/road-trip/nashville bars, spike capri sun maybe">
+
+<img src="/images/2019/road-trip/nashville airbnb">
 
 ## March 31 - April 7: New York
 
-Coming soon!
+My first stop after returning from Malaysia was to New York, "for a conference". I technically helped organize this conference, but my main contribution to it was definitely live-tweeting it while there. This conference was especially fun because it (1) is a group of people I've gotten to know through various parts of my PhD (including my favorite postdoc-now-professor Sean Gibbons!) talking about a topic that I think is fun to think about (statistics wooo) and (2) was my last "official" thing as part of Eric's lab and also technically no longer my field (I'm much more interested in talking about sewage than the microbiome, tbh) so there was absolutely no pressure to read any follow-up papers or make lasting contacts, I was just there to enjoy it and be present in the moment! A no-strings-attached conference, what a wonderful experience!
+
+After the conference, I stayed for the rest of the week and weekend to hang out with friends. I stayed with Megan during the week, in her lovely new apartment in Brooklyn and then with Jacob and Chantal in their lovely apartment in Brooklyn over the weekend. An aside: all of my New York friends are moving into mansions in Brooklyn, it's amazing.
+
+I took basically zero pictures while in New York so you'll have to trust me at my word that it was a lot of fun, filled with delicious food and tea and a craft beer festival and brunch and friends. :D
+
+<img src="/images/2019/road-trip/new york bagel">
 
 ## March 10 - 27: Malaysia
 
