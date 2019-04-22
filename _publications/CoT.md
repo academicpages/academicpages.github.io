@@ -2,9 +2,9 @@
 title: "CoT: Cooperative Training for Generative Modeling of Discrete Data"
 collection: publications
 permalink: /publications/CoT
-venue: "ArXiv 2018"
+venue: "The 36th International Conference on Machine Learning (ICML-19)"
 date: 2018-4-12
-citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICML 2019.</i>'
+citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.'
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
 

@@ -6,12 +6,19 @@ author_profile: true
 
 ## Deep Learning
 
+<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
+<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
+<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+
 <b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
 Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
-<i>In submission to ICML 2019.</i>
+<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
 
 <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
-Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>In submission to ICML 2019.</i>
+Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+
+<b>[Variational Bottleneck  Domain Adaptation](http://lantaoyu.com/publications/VBDA)</b> <br>
+Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <i>In submission to IJCAI 2019.</i>.
 
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu.
