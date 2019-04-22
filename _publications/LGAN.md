@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/LGAN
 venue: "The 36th International Conference on Machine Learning (ICML-19)"
 date: 2019-2-23
-citation: 'Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+citation: 'Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.'
 ---
 
 [[ArXiv]](https://arxiv.org/abs/1902.05687)

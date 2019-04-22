@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MAAIRL
 venue: "The 36th International Conference on Machine Learning (ICML-19)"
 date: 2019-2-23
-citation: '<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+citation: '<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.'
 ---
 
 ## Abstract
