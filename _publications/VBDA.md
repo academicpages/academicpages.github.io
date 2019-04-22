@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/VBDA
 venue: "In submission to IJCAI 2019."
 date: 2018-4-12
-citation: 'Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <i>In submission to IJCAI 2019.</i>.'
+citation: 'Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <i>In submission to IJCAI 2019.</i>'
 ---
 
 
