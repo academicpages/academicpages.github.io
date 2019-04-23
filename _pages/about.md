@@ -11,7 +11,7 @@ youtubeId: bZ0ZKido0Ag
 ---
 I am a PhD candidate at the Australian National University and the Australian Center for Robotic Vision.
 My research is on Robotic Vision: image processing to allow robots to see and make sense of the world.
-We use novel, biologically inspired sensors called '<a href="https://en.m.wikipedia.org/wiki/Draft:Event_Camera" target="_blank">event cameras</a>' that do not capture images using a shutter like conventional cameras.
+We use novel, biologically inspired sensors called '<a href="https://en.wikipedia.org/wiki/Draft:Event_Camera" target="_blank">event cameras</a>' that do not capture images using a shutter like conventional cameras.
 Instead, event cameras respond to per-pixel changes in brightness, reporting these changes as they occur, but staying silent otherwise.
 As a result, event cameras are very fast and do not suffer from motion blur or under/overexposure, enabling robots to see in a range of challenging conditions such as high speed and low light.
 
