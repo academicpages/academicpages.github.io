@@ -4,6 +4,27 @@ permalink: /travel/
 author_profile: true
 ---
 
+## April 21
+
+**Lake Clayton State Park --> Great Sand Dunes National Park, CO**
+
+This road trip is really cooking! Another great road trip day. Started with some super comfy car camping sleeping in and excellent avocado toast, what more could you ask for. (Instead of taking photos of where I slept each night, maybe I should have made this an album of "avocado toast in cool places" :P)
+
+<img src="/images/2019/road-trip/avocado toast">
+
+Last night while planning my next stop and looking at my (paper!) map, I realize that Great Sand Dunes, which had been heartily recommended to me by multiple people, was not that far away from me and not on any other path in my tentative itinerary. Turns out it was even closer than I expected, so I got here in the mid-afternoon. Found a campsite, met my neighbor, and went off to the dunes for a hike!
+
+Hiking in sand is hard and lots of fun. It's especially wild to me that you just wander freely over the entire dune area -- there are no trails (because it's sand), and there are also no off limits areas. Lots of fun! (Though I will say this is definitely a place which would be more fun with more people). After some grueling hiking and with huges thanks to my calves and glutes, I made it to the top! I took about a million selfies attempting to recreate my iconic New Zealand selfie and also just loving the landscape of the sand dunes in front of the beautiful Colorado mountains.
+
+<img src="/images/2019/road-trip/many dunes photos and selfies">
+
+Fajitas for dinner, and then off to sleep!
+
+<img src="/images/2019/road-trip/fajitas">
+
+<img src="/images/2019/road-trip/sand dunes camp">
+
+
 ## April 20
 
 **Black Kettle Grasslands, OK --> Pampa, TX --> Lake Clayton State Park, NM**
@@ -31,7 +52,11 @@ Big driving day today: spent the morning getting out of Arkansas driving through
 
 <img src="/images/2019/road-trip/driving through arkansas">
 
-I stopped to have lunch in a small town and then back on the road with Lizzo's new album. Her song "Soulmate" speaks to my soul and might just be the new anthem of this road trip. Before I knew it, forested Arkansas turned into flat grassy Oklahoma (I think it happened after I passed Oklahoma City), and I made it to my camp for tonight. I met a lovely young couple from Tennessee driving back home and an older woman named Patty doing basically what I'm doing, minus California, and with a _much_ nicer car set up. And! I got to make my migas!
+I stopped to have lunch in a small town and then back on the road with Lizzo's new album. Her song "Soulmate" speaks to my soul and might just be the new anthem of this road trip.
+
+> lyrics to soulmate, ... ain't something you can buy yourself, it's something you find when you by yourself so if you by yourself you buy yourself another round from the highest shelf
+
+Before I knew it, forested Arkansas turned into flat grassy Oklahoma (I think it happened after I passed Oklahoma City), and I made it to my camp for tonight. I met a lovely young couple from Tennessee driving back home and an older woman named Patty doing basically what I'm doing, minus California, and with a _much_ nicer car set up. And! I got to make my migas!
 
 <img src="/images/2019/road-trip/migas">
 
@@ -43,15 +68,15 @@ I stopped to have lunch in a small town and then back on the road with Lizzo's n
 
 Today was an excellent solo road trip day. I got up and had a delicious and lazy breakfast (upgraded my peanut butter and banana by adding blueberries -- _game changer_). I had to cross a creek to get in, and as I'd feared the water level had risen quite a bit with the rain overnight and in the morning. Went ahead and drove (very slowly and very carefully) across it, SO SCARY but I made it! Super terrifying though, definitely not going back to that campground after a whole day of more rain...
 
-<img src="/images/2019/road-trip/creek crossing">
+<img src="/images/2019/road-trip/2019-04-18_haw_creek_crossing.jpg" width="80%">
 
 The rain is shitty so I give up on trying to hike and instead turn around and go find some hot springs, inspiration courtesy of my awesome National Geographic road atlas that also has info on national parks. It's a bit of detour from my route, but that's the point of a road trip no?? I splurge on some hot baths - I love me some thermally heated pools. I meet a woman named Maisy who seems very cool and nice and who offers me a place to stay. I end up declining, partially because I want to get a head start on my long drive tomorrow, and partially because I'm not quite tapped out of solitude yet. It's actually something I'm struggling a bit with: on the one hand, I want this trip to be full of solitude and I don't feel like I'm going to get as much of it as I'd like; on the other hand, I want to say yes to adventure and go with the flow as opportunities arise. Still trying to figure out where to strike the balance...
 
-<img src="/images/2019/road-trip/welcome to hot springs">
+<img src="/images/2019/road-trip/2019-04-18_welcome_to_hot_springs.jpg" width="80%">
 
 Anyway it's probably fine because the campground she recommended is yet another that tentacles out into a lake and it is beautiful here. I made quesadillas out of my leftover taco filling and tomorrow I think I'll make migas for breakfast. Life is good.
 
-<img src="/images/2019/road-trip/joplin campground">
+<img src="/images/2019/road-trip/2019-04-19_joplin_camp.jpg" width="80%">
 
 
 ## April 17
@@ -62,11 +87,11 @@ Man, Arkansas is not a state I've given a lot of thought to. Which I might be wr
 
 Slept at Haw Creek Falls campground, a really beautiful site with a creek nearby and also lots of flash flood warnings. It's supposed to rain all night and all day tomorrow, we'll see how it goes...
 
-<img src="/images/2019/road-trip/haw creek">
+<img src="/images/2019/road-trip/2019-04-17_haw_creek.jpg" width="80%">
 
 The camp itself is exactly what I want: only one other RV there (with no sign of life -- I don't understand what these RV campers do all day and night), feels like I have the whole forest to myself.
 
-<img src="/images/2019/road-trip/ozarks campgsite">
+<img src="/images/2019/road-trip/2019-04-18_ozarks_camp.jpg" width="80%">
 
 ## April 16
 
@@ -76,25 +101,31 @@ After a much needed rest day, I take a Lyft to the airport in Syracuse to catch 
 
 My second flight is delayed (obvs), but I finally make it back to Nashville around 4 or 5 pm. My car is still there!
 
-<img src="/images/2019/road-trip/me hugging the car">
+<img src="/images/2019/road-trip/2019-04-16_nashville_car_hug.jpg" width="40%">
 
 I drive to Memphis for dinner, and Memphis is exactly everything I wanted Nashville to be which it wasn't. I only walked around Beale St, but still: the street was closed to traffic, there was copious live music that all sounded good, and it wasn't just a basement frat party. Really wanna go back with some friends to get down and really appreciate the funky music that was playing everywhere.
 
-<img src="/images/2019/road-trip/memphis">
+<img src="/images/2019/road-trip/2019-04-16_memphis_beale_st.jpg" width="80%">
 
 It's about another hour to St. Francis National Forest, which is also called Mississipi River State Park. It's _also_ in the same National Forest system as the Ozarks, which makes no sense to me because the Ozarks forest is very far away. My camp is amazing though, at the very tip of some tentacling land that goes into the lake. Amazing!
 
-<img src="/images/2019/road-trip/st francis camp">
+<img src="/images/2019/road-trip/2019-04-17_st_francis_forest_camp.jpg" width="80%">
+
+## Part 2 begins!!
+
+Part 2 of my road trip officially begins!! (Boston to Nashville was the prelude to part 2, this is the real deal now). Here's the "plan":
+
+<img src="/images/2019/road-trip/2019-04-15_part2_itinerary_1.jpg" width="45%"> <img src="/images/2019/road-trip/2019-04-15_part2_itinerary_2.jpg" width="45%">
 
 ## April 13 - April 15: Ithaca
 
 Ilana, a former postdoc in the Alm lab and current rockstar new professor at Cornell, invited me to give a talk at a microbiome hackathon she hosted. It was a really fun weekend catching up with her, her twin baaaabies, and my friends Scott and Georgia (Scott was also invited to give a talk). The talk was fine, though it would have been much better with more time to prep (oh well, so it goes). If you want to see it, it's available [on my website](https://cduvallet.github.io/mbiome-data-viz/). Beyond work, we also got a quick hike through Ithaca's gorges in -- GORGEous!!
 
-<img src="/images/2019/road-trip/gorges">
+<img src="/images/2019/road-trip/2019-04-14_gorges_selfie.jpg" width='80%'>
 
-Oh and did I mention baaaaabies?
+Oh and did I mention baaaaabies? (I don't want to put pictures of Ilana's babies on the internet so here's one of me with the baby cropped out).
 
-<img src="/images/2019/road-trip/babies">
+<img src="/images/2019/road-trip/2019-04-14_babies.jpg" width="30%">
 
 A side note that 3 out 4 of my flights to and from Ithaca didn't work out as planned: my flight from Nashville to Philly was delayed, which made me miss my connection to Ithaca. So I stayed the night in Philly and took the next morning's flight to Ithaca (which was on time). But then my flight back to Philly was canceled because of weather, so I ended up staying a whole extra day in Ithaca (mostly catching up on sleep and internet, lol) before leaving out of Syracuse to DC. That flight was delayed, and so was my DC to Nashville one. It's amazing to me how airlines are so uncommitted to delivering the services they've promised! Gr. But oh well, I was glad to have the option to take this silly detour and I think I actually really needed that extra day chilling in Ithaca.
 
@@ -102,17 +133,19 @@ A side note that 3 out 4 of my flights to and from Ithaca didn't work out as pla
 
 After a brisk ~19 hours back in Boston, I was off again to the prelude for part 2 of my cross-country road trip! Ben joined me for this part, and we stopped at his sister's place in Philly on the way down (much later than we would have liked, my bad...) Our goal was to get to the Great Smoky Mountains National Park, which ended up taking us more than a day of driving given errands and other random stops. We attempted to go to a campground that was closed, and so just camped at the trailhead "next door" instead.
 
-<img src="/images/2019/road-trip/lone pines camp">
+<img src="/images/2019/road-trip/2019-04-10_lone_pines_camp.jpg" width="80%">
 
 The next day was again a lot of driving, but since we were making good time we decided to stop at some whiskey distilleries on our way to the park. Turns out Tennessee whiskey is actually just moonshine, and that you can get super creative with creamer in your cocktails who knew. Not a super huge fan, but it does make me want to try the Kentucky bourbon trail a lot more! Hopefully it's more than gaudy distilleries in parking lots selling moonshine. XD
 
-<img src="/images/2019/road-trip/cocktail recipes">
+<img src="/images/2019/road-trip/2019-04-10_tennessee_cocktail_recipes.jpg" width="45%">
 
 After driving through a regurgitated amusement park known as Sieverville, we made it to the park! It turns out Dollywood is _right_ there, and it was so amazing how quickly the gaudy restaurants and attractions immediately switched to the park. We found a lovely secluded campsite at the campground and proceeded to drink the Gentleman Jack we had picked up in Sieverville (which just tastes like regular Jack, but _slightly_ less bad...)
 
-<img src="/images/2019/road-trip/smoky mountains campsite">
+<img src="/images/2019/road-trip/2019-04-11_smoky_mountains_camp.jpg" width="80%">
 
 The next day was pretty perfect, and is the day I count as my birthday in my heart. We got up, had a vending machine feast (including terrible coffee, decent hot chocolate + instant coffee, and amazing Tim Tam slams), and went for a hike!
+
+<img src="/images/2019/road-trip/2019-04-11_vending_machine_feast.jpg" width="40%">
 
 <img src="/images/2019/road-trip/smoky mountains hike">
 
@@ -120,7 +153,7 @@ Then we were off to Nashville, where Ben found an amazing airbnb that was a gara
 
 <img src="/images/2019/road-trip/nashville bars, spike capri sun maybe">
 
-<img src="/images/2019/road-trip/nashville airbnb">
+<img src="/images/2019/road-trip/2019-04-12_nashville_airbnb.jpg" width="80%">
 
 ## March 31 - April 7: New York
 
@@ -130,7 +163,7 @@ After the conference, I stayed for the rest of the week and weekend to hang out 
 
 I took basically zero pictures while in New York so you'll have to trust me at my word that it was a lot of fun, filled with delicious food and tea and a craft beer festival and brunch and friends. :D
 
-<img src="/images/2019/road-trip/new york bagel">
+<img src="/images/2019/road-trip/2019-04-03_ny_bagel.jpg" width="40%">
 
 ## March 10 - 27: Malaysia
 
