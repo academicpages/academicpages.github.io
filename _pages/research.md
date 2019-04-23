@@ -7,8 +7,6 @@ author_profile: true
 
 ## Working papers
 
-<b>[It's not really about how the game is played; it's about whether you win or lose](http://mebucca.github.io/research/beliefs_experiment)</b><br>
-Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. Conditionally Accepted at <i>Science Advances</i>.
 
 <b>[Black-White differences in intergenerational mobility in the US: evidence from heterogeneity in sibling correlation](http://mebucca.github.io/research/bw_sc)</b><br>
 <b>Mauricio Bucca</b>.
