@@ -13,13 +13,13 @@ You can get my formal, fairly up-to-date, [CV here](/files/cv2019.pdf). Some hig
 
 Education
 ======
-* B.S. in Electrical and Computer Engineering, University od Novi Sad, 2000
-* M.S. in Computer Engineering, University od Novi Sad, 2003
-* Ph.D in Computer Engineering, Florida Atlantic University, 2006 
+* B.S. in Electrical and Computer Engineering, University od Novi Sad, 2000.
+* M.S. in Computer Engineering, University od Novi Sad, 2003.
+* Ph.D in Computer Engineering, Florida Atlantic University, 2006. 
 
-Work experience
+Work experience highlights
 ======
-* Full Pofessor, Faculty of Technical Sciences, University of Novi Sad, January 2018 to date.
+* Full Professor, Faculty of Technical Sciences, University of Novi Sad, January 2018 to date. I've been working for the Faculty since January 2001, rising through the ranks of academia.
 
 * Senior Research Scientist, Tandemlaunch Inc., Montreal Canada, August 2018 to date.
 
@@ -30,7 +30,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Companies Founded
+======
+* Coretex Systems, LLC, Florida, USA.
+* Panonit d.o.o., Novi Sad, Serbia.
+
 Service and leadership
 ======
 * Vice-chairman of the Board of the Center for Economic and Technological Development of Vojvodina (2008-2011)
