@@ -19,4 +19,4 @@ header:
 
 <br />
 <b>Reference:</b>
-* L. Pan, C. Scheerlinck, X. Yu, R. Hartley, M. Liu, Y. Dao "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera," Conference on Computer Vision and Pattern Recognition, 2019.
+* L. Pan, C. Scheerlinck, X. Yu, R. Hartley, M. Liu, Y. Dao "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera", Conference on Computer Vision and Pattern Recognition, 2019.

@@ -28,4 +28,4 @@ header:
 
 <br />
 <b>Reference:</b>
-* C. Scheerlinck, N. Barnes, R. Mahony, "Continuous-time Intensity Estimation Using Event Cameras," Asian Conference on Computer Vision (ACCV), Perth, 2018.
+* C. Scheerlinck, N. Barnes, R. Mahony, "Continuous-time Intensity Estimation Using Event Cameras", Asian Conference on Computer Vision (ACCV), Perth, 2018.
