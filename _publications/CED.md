@@ -14,6 +14,7 @@ header:
 
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/R9BiRN7f7uY" target="_blank"><b>Video</b></a>&emsp;
+<a href="http://rpg.ifi.uzh.ch/CED.html" target="_blank"><b>Datasets</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.txt" target="_blank"><b>BibTex</b></a>
 
 ![CED_banner](/images/CED_banner.png){:class="img-responsive"}
