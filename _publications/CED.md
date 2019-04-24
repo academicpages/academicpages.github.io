@@ -15,6 +15,8 @@ header:
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.txt" target="_blank"><b>BibTex</b></a>
 
+![CED_banner](/images/CED_banner.png){:class="img-responsive"}
+
 <b>Abstract.</b> Event cameras are novel, bio-inspired visual sensors, whose pixels output asynchronous and independent timestamped spikes at local intensity changes, called 'events'.
 Event cameras offer advantages over conventional frame-based cameras in terms of latency, high dynamic range (HDR) and temporal resolution.
 Until recently, event cameras have been limited to outputting events in the intensity channel, however, recent advances have resulted in the development of color event cameras, such as the Color-DAVIS346.
