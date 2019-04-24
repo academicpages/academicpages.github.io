@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can get my formal, fairly up-to-date, [CV here](/files/cv2019.pdf). Some highlights are to be found below. 
+You can get my formal, fairly up-to-date, [CV here](https://github.com/dculibrk/dculibrk.github.io/blob/master/files/cv2019.pdf). Some highlights are to be found below. 
 
 Education
 ======
