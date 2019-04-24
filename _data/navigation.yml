@@ -3,8 +3,8 @@ main:
   - title: "Blog"
     url: /year-archive/
   
-  - title: "Talks"
-    url: /talks/    
+  - title: "Events"
+    url: /events/    
 
   - title: "Teaching"
     url: /teaching/    
