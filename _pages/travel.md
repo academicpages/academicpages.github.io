@@ -4,6 +4,35 @@ permalink: /travel/
 author_profile: true
 ---
 
+## April 23
+
+**El Malpais --> El Morro --> El Malpais, NM**
+
+Ah, today was another sort-of casualty of my lack of planning. I went to the Malpais visitor center first thing in the morning, only to head right back past my camp to hike the Narrows Rim trail. The trail was amazing, with beautiful views and perfect weather. Also service and data, which means I found out my [paper](https://www.biorxiv.org/content/10.1101/476580v2) got accepted during my lunch break! Woohoo!
+
+<img src="/images/2019/road-trip/narrows rim trail">
+
+I decided not to hike the whole trail, partially because I was a bit bored and partially because I thought I might want to try another hike today. But turns out things are all very far apart and it was starting to rain, so no other hike for me. I headed instead to El Morro campground, about an hour's drive away, where I was planning to sleep tonight. Alas, all the sites were full and I didn't feel like making friends, so I headed back to my original Malpais BLM campground. El Morro seemed beautiful, but I wanted to get some lava hiking in before leaving this area. Plus, I needed the covered picnic table to make quesadillas from my leftover fajitas! On my drive back there was snow on the ground WAT! I was kind of annoyed with myself and the weather that I did all that driving for nothing, but salvaged the evening by scrambling up the hill behind my camp site to catch the sunset.
+
+<img src="/images/2019/road-trip/sunset">
+
+Man, I am truly so thankful for public lands in America. National Forest and BLM campsites are so nice and so free!! What a treasure.
+
+<img src="/images/2019/road-trip/blm camp night 2">
+
+
+## April 22
+
+**Great Sand Dunes --> El Malpais, NM**
+
+I was originally planning to stay two nights in Great Sand Dunes, but since I got there early enough to hike to the top the day before (and I had no desire to do that hike again -- hiking in sand is so hard!!), I decided to head out today. My original plan was to go to the Manzano Mountains tonight and El Malpais on my way to Flagstaff, but the weather looked pretty bad at Manzano so I decided just to go to Malpais directly. Rain wasn't really something I thought about when I was "planning" this trip: hanging out in the car isn't super comfortable, so I don't have too many options when it's not nice outside... Ah, well.
+
+<img src="/images/2019/road-trip/welcome to new mexico">
+
+I felt kinda gloomy most of the drive, maybe it was the bad weather but also I think some amount of homesickness. But that's ok, that's part of traveling. I made it to the free BLM campground for the night!
+
+<img src="/images/2019/road-trip/blm camp night 1">
+
 ## April 21
 
 **Lake Clayton State Park --> Great Sand Dunes National Park, CO**
@@ -46,21 +75,21 @@ The real reason I came here though is because it's apparently an internationally
 
 **Ouachita Forest --> Black Kettle National Grasslands**
 
-Woke up to the wind pulling my tent out of the ground, so packed up and headed on the road. No breakfast migas by the lake, so sad. But that's ok because the donut shop I stopped at for coffee was closing and gave me some free cinnamom twists woohoo! Interesting to realize, however, that coffee shops are actually not common at all for these small towns. The one I stopped at in New Waverly on my first part of the road trip was apparently a huge anomaly!
+Woke up to the wind pulling my tent out of the ground, so packed up and headed on the road. No breakfast migas by the lake, so sad. But that's ok because the donut shop I stopped at for coffee was closing and gave me some free cinnamon twists woohoo! Interesting to realize, however, that coffee shops are actually not common at all for these small towns. The one I stopped at in New Waverly on my first part of the road trip was apparently a huge anomaly!
 
 Big driving day today: spent the morning getting out of Arkansas driving through the forest. Really loving not taking the major highways, these smaller roads have almost just as high of speed limits but way less traffic and way better views. Super nice!
 
-<img src="/images/2019/road-trip/driving through arkansas">
+<img src="/images/2019/road-trip/2019-04-19_arkansas_landscape.jpg" width="80%">
 
-I stopped to have lunch in a small town and then back on the road with Lizzo's new album. Her song "Soulmate" speaks to my soul and might just be the new anthem of this road trip.
+I stopped to have lunch in a small town and then back on the road with Lizzo's new album. Her song "Soulmate" speaks to my core being and might just be the new anthem of this road trip.
 
 > lyrics to soulmate, ... ain't something you can buy yourself, it's something you find when you by yourself so if you by yourself you buy yourself another round from the highest shelf
 
 Before I knew it, forested Arkansas turned into flat grassy Oklahoma (I think it happened after I passed Oklahoma City), and I made it to my camp for tonight. I met a lovely young couple from Tennessee driving back home and an older woman named Patty doing basically what I'm doing, minus California, and with a _much_ nicer car set up. And! I got to make my migas!
 
-<img src="/images/2019/road-trip/migas">
+<img src="/images/2019/road-trip/2019-04-19_migas.jpg" width="35%">
 
-<img src="/images/2019/road-trip/black kettle camp">
+<img src="/images/2019/road-trip/2019-04-20_black_kettle_camp.jpg" width="80%">
 
 ## April 18
 
