@@ -15,7 +15,7 @@ header:
 <a href="https://arxiv.org/pdf/1811.10180.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvpr_blurry.txt" target="_blank"><b>BibTex</b></a>
 
-![blurry_banner](images/blurry_banner.png)
+![blurry_banner](images/blurry_banner.png){:class="img-responsive"}
 
 <b>Abstract.</b> Event-based cameras can measure intensity changes (called '<i>events</i>') with microsecond accuracy under high-speed motion and challenging lighting conditions. With the active pixel sensor (APS), the event camera allows simultaneous output of the intensity frames. However, the output images are captured at a relatively low frame-rate and often suffer from motion blur. A blurry image can be regarded as the integral of a sequence of latent images, while the events indicate the changes between the latent images. Therefore, we are able to model the blur-generation process by associating event data to a latent image. In this paper, we propose a simple and effective approach, the <b>Event-based Double Integral (EDI)</b> model, to reconstruct a high frame-rate, sharp video from a single blurry frame and its event data. The video generation is based on solving a simple non-convex optimization problem in a single scalar variable. Experimental results on both synthetic and real images demonstrate the superiority of our EDI model and optimization method in comparison to the state-of-the-art.
 
