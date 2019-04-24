@@ -182,7 +182,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  events:
     output: true
     permalink: /:collection/:path/
 
@@ -234,10 +234,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _events
   - scope:
       path: ""
-      type: talks
+      type: events
     values:
       layout: talk
       author_profile: true
