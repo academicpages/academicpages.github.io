@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "CTF"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Dev COps"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Research"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "About"
     url: /portfolio/
         
   - title: "Blog Posts"
