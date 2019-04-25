@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arpbadger | The ARPchives "
+title                    : Arpbadger | The ARPchives 
 title_separator          : "-"
 name                     : &name "arpbadger"
 description              : &description "CTF player, security researcher, cybersec consultant, developer"
