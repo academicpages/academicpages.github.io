@@ -4,22 +4,40 @@ permalink: /travel/
 author_profile: true
 ---
 
+## April 24
+
+**El Malpais, NM --> Flagstaff, AZ**
+
+Started out today with a lovely hike through the old lava flows that make up the "badlands" (which is why the area was called El Malpais by the Spaniards who came). Super fun to scramble through lava, following the cairns the whole way.
+
+<img src="/images/2019/road-trip/2019-04-24_malpais_lava_hike.jpg" width="80%">
+
+Then I was off to Flagstaff. I stopped for some chicken mcnuggets in Gallup (wasn't gonna out myself but then a story happened so now I gotta...), and as I was getting myself back to I-40 I was stopped at a light and noticed the car behind me holding up a white piece of paper with the words "FU CALI" scratched into it. Interestingly, they were holding it in front of their face so I couldn't see them -- obviously aware that this isn't a nice thing to do but not so aware that they chose not to do it. Didn't have much time to react because the light turned green, but what a big ol' bummer! Really bums me out that there are people out there who will judge based on one assumption, and not need to know anything else about a person to let the hate leave their bodies. I'm not even from California!
+
+Two other thoughts from the drive: (1) wow, a huge downside of driving west is that you end up going STRAIGHT into the sunset. Not a fan. (2) wow, I am so thankful for cruise control. My sore leg muscles are even more so!
+
+<img src="/images/2019/road-trip/2019-04-24_welcome_to_arizona.jpg" width="80%">
+
+In Flagstaff, I'm staying with a colleague from the [QIIME 2](https://qiime2.org) microbiome software suite I've contributed to. Looking forward to catching up in person with these guys, and maybe even doing some of the work on my plugin that I've been putting off for _months_!
+
+<img src="/images/2019/road-trip/2019-04-25_flagstaff_bed.jpg" width="40%">
+
+
 ## April 23
 
 **El Malpais --> El Morro --> El Malpais, NM**
 
 Ah, today was another sort-of casualty of my lack of planning. I went to the Malpais visitor center first thing in the morning, only to head right back past my camp to hike the Narrows Rim trail. The trail was amazing, with beautiful views and perfect weather. Also service and data, which means I found out my [paper](https://www.biorxiv.org/content/10.1101/476580v2) got accepted during my lunch break! Woohoo!
 
-<img src="/images/2019/road-trip/narrows rim trail">
+<img src="/images/2019/road-trip/2019-04-23_narrow_rims_trail.jpg" width="80%">
 
 I decided not to hike the whole trail, partially because I was a bit bored and partially because I thought I might want to try another hike today. But turns out things are all very far apart and it was starting to rain, so no other hike for me. I headed instead to El Morro campground, about an hour's drive away, where I was planning to sleep tonight. Alas, all the sites were full and I didn't feel like making friends, so I headed back to my original Malpais BLM campground. El Morro seemed beautiful, but I wanted to get some lava hiking in before leaving this area. Plus, I needed the covered picnic table to make quesadillas from my leftover fajitas! On my drive back there was snow on the ground WAT! I was kind of annoyed with myself and the weather that I did all that driving for nothing, but salvaged the evening by scrambling up the hill behind my camp site to catch the sunset.
 
-<img src="/images/2019/road-trip/sunset">
+<img src="/images/2019/road-trip/2019-04-23_joe_skeen_sunset.jpg" width="80%">
 
-Man, I am truly so thankful for public lands in America. National Forest and BLM campsites are so nice and so free!! What a treasure.
+Man, I am truly so thankful for public lands in America. National Forest and BLM campsites are so nice and so free!! What treasures. (Can you spot my car in this photo?)
 
-<img src="/images/2019/road-trip/blm camp night 2">
-
+<img src="/images/2019/road-trip/2019-04-23_joe_skeen_camp_2.jpg" width="80%">
 
 ## April 22
 
@@ -27,11 +45,11 @@ Man, I am truly so thankful for public lands in America. National Forest and BLM
 
 I was originally planning to stay two nights in Great Sand Dunes, but since I got there early enough to hike to the top the day before (and I had no desire to do that hike again -- hiking in sand is so hard!!), I decided to head out today. My original plan was to go to the Manzano Mountains tonight and El Malpais on my way to Flagstaff, but the weather looked pretty bad at Manzano so I decided just to go to Malpais directly. Rain wasn't really something I thought about when I was "planning" this trip: hanging out in the car isn't super comfortable, so I don't have too many options when it's not nice outside... Ah, well.
 
-<img src="/images/2019/road-trip/welcome to new mexico">
+<img src="/images/2019/road-trip/2019-04-22_welcome_to_new_mexico.jpg" width="80%">
 
 I felt kinda gloomy most of the drive, maybe it was the bad weather but also I think some amount of homesickness. But that's ok, that's part of traveling. I made it to the free BLM campground for the night!
 
-<img src="/images/2019/road-trip/blm camp night 1">
+<img src="/images/2019/road-trip/2019-04-23_joe_skeen_camp.jpg" width="80%">
 
 ## April 21
 
@@ -39,41 +57,46 @@ I felt kinda gloomy most of the drive, maybe it was the bad weather but also I t
 
 This road trip is really cooking! Another great road trip day. Started with some super comfy car camping sleeping in and excellent avocado toast, what more could you ask for. (Instead of taking photos of where I slept each night, maybe I should have made this an album of "avocado toast in cool places" :P)
 
-<img src="/images/2019/road-trip/avocado toast">
+<img src="/images/2019/road-trip/2019-04-21_avocado_toast.jpg" width="40%">
 
 Last night while planning my next stop and looking at my (paper!) map, I realize that Great Sand Dunes, which had been heartily recommended to me by multiple people, was not that far away from me and not on any other path in my tentative itinerary. Turns out it was even closer than I expected, so I got here in the mid-afternoon. Found a campsite, met my neighbor, and went off to the dunes for a hike!
 
+<img src="/images/2019/road-trip/2019-04-21_great_sand_dunes.jpg" width="80%">
+
 Hiking in sand is hard and lots of fun. It's especially wild to me that you just wander freely over the entire dune area -- there are no trails (because it's sand), and there are also no off limits areas. Lots of fun! (Though I will say this is definitely a place which would be more fun with more people). After some grueling hiking and with huges thanks to my calves and glutes, I made it to the top! I took about a million selfies attempting to recreate my iconic New Zealand selfie and also just loving the landscape of the sand dunes in front of the beautiful Colorado mountains.
 
-<img src="/images/2019/road-trip/many dunes photos and selfies">
+<img src="/images/2019/road-trip/2019-04-21_great_sand_dunes_selfie.jpg" width="80%">
 
 Fajitas for dinner, and then off to sleep!
 
-<img src="/images/2019/road-trip/fajitas">
+<img src="/images/2019/road-trip/2019-04-21_sand_dunes_fajitas.jpg" width="80%">
 
-<img src="/images/2019/road-trip/sand dunes camp">
-
+<img src="/images/2019/road-trip/2019-04-22_great_sand_dunes_camp.jpg" width="80%">
 
 ## April 20
 
 **Black Kettle Grasslands, OK --> Pampa, TX --> Lake Clayton State Park, NM**
 
-Three states in one day (and not on the east coast) woohoo!! Had a very lazy morning, taking my time as one should on a road trip before heading out. My goal for today was to find a place to get my oil changed, since it's about due tomorrow is Easter so everywhere will be closed, and after that I'll be in fun lands without really wanting to stop for errands. After stopping in a few places in Pampa, TX, I finally found a Walmart to do it. Bonus: they were selling hamburgers for $1.50, there was picnic table nearby to hang out at, and there was free wifi! What luxury.
+Three states in one day (and not on the east coast) woohoo!! Had a very lazy morning, taking my time as one should on a road trip before heading out. My goal for today was to find a place to get my oil changed, since it's about due and tomorrow is Easter so everywhere will be closed, and after that I'll be in fun lands without really wanting to stop for errands.
 
-<img src="/images/2019/road-trip/walmart lunch">
+<img src="/images/2019/road-trip/2019-04-20_welcome_to_texas.jpg" width="80%">
+
+After stopping in a few places in Pampa, TX, I finally found a Walmart to do it. Bonus: they were selling hamburger meals for $3.50, there was picnic table nearby to hang out at, and there was free wifi! What luxury.
+
+<img src="/images/2019/road-trip/2019-04-20_walmart_lunch.jpg" width="80%">
 
 Now I'm in Lake Clayton State Park which is super nice - I wish I'd gotten a photo of the landscape leading up to it because it is all _flat_ prairie grasses. But surprise! There's a lake! (Though apparently this lake is manmade, from damming up a creek. Ah well). And guess what! There's dinosaur tracks here!!
 
-<img src="/images/2019/road-trip/dino tracks">
+<img src="/images/2019/road-trip/2019-04-20_dino_tracks.jpg" width="80%">
 
-The real reason I came here though is because it's apparently an internationally rate dark sky area, so the star gazing is supposed to be great. Unfortunately the moon has been big and bright the past few days so I don't think I'll see much...
+The real reason I came here though is because it's apparently an internationally rated dark sky area, so the star gazing is supposed to be great. Unfortunately the moon has been big and bright the past few days so I don't think I'll see much...
 
-<img src="/images/2019/road-trip/layke clayton camp">
+<img src="/images/2019/road-trip/2019-04-21_lake_clayton_camp.jpg" width="80%">
 
 
 ## April 19
 
-**Ouachita Forest --> Black Kettle National Grasslands**
+**Ouachita Forest --> Black Kettle National Grasslands, OK**
 
 Woke up to the wind pulling my tent out of the ground, so packed up and headed on the road. No breakfast migas by the lake, so sad. But that's ok because the donut shop I stopped at for coffee was closing and gave me some free cinnamon twists woohoo! Interesting to realize, however, that coffee shops are actually not common at all for these small towns. The one I stopped at in New Waverly on my first part of the road trip was apparently a huge anomaly!
 
@@ -81,9 +104,9 @@ Big driving day today: spent the morning getting out of Arkansas driving through
 
 <img src="/images/2019/road-trip/2019-04-19_arkansas_landscape.jpg" width="80%">
 
-I stopped to have lunch in a small town and then back on the road with Lizzo's new album. Her song "Soulmate" speaks to my core being and might just be the new anthem of this road trip.
+I stopped to have lunch in a small town and then back on the road with Lizzo's new album. Her song "[Soulmate](https://www.youtube.com/watch?v=iQJ7b_xfF2s)" speaks to my core being and might just be the new anthem of this road trip.
 
-> lyrics to soulmate, ... ain't something you can buy yourself, it's something you find when you by yourself so if you by yourself you buy yourself another round from the highest shelf
+> True love ain't something you can buy yourself / True love finally happens when you by yourself / So if you by yourself, then go and buy yourself / Another round from the bottle on the higher shelf
 
 Before I knew it, forested Arkansas turned into flat grassy Oklahoma (I think it happened after I passed Oklahoma City), and I made it to my camp for tonight. I met a lovely young couple from Tennessee driving back home and an older woman named Patty doing basically what I'm doing, minus California, and with a _much_ nicer car set up. And! I got to make my migas!
 
@@ -148,7 +171,7 @@ Part 2 of my road trip officially begins!! (Boston to Nashville was the prelude 
 
 ## April 13 - April 15: Ithaca
 
-Ilana, a former postdoc in the Alm lab and current rockstar new professor at Cornell, invited me to give a talk at a microbiome hackathon she hosted. It was a really fun weekend catching up with her, her twin baaaabies, and my friends Scott and Georgia (Scott was also invited to give a talk). The talk was fine, though it would have been much better with more time to prep (oh well, so it goes). If you want to see it, it's available [on my website](https://cduvallet.github.io/mbiome-data-viz/). Beyond work, we also got a quick hike through Ithaca's gorges in -- GORGEous!!
+[Ilana](https://www.britolab.org/), a former postdoc in the Alm lab and current rockstar new professor at Cornell, invited me to give a talk at a microbiome hackathon she hosted. It was a really fun weekend catching up with her, her twin baaaabies, and my friends Scott and Georgia (Scott was also invited to give a talk). The talk was fine, though it would have been much better with more time to prep (oh well, so it goes). If you want to see it, it's available [on my website](https://cduvallet.github.io/mbiome-data-viz/). Beyond work, we also got a quick hike through Ithaca's gorges in -- GORGEous!!
 
 <img src="/images/2019/road-trip/2019-04-14_gorges_selfie.jpg" width='80%'>
 
@@ -176,23 +199,25 @@ The next day was pretty perfect, and is the day I count as my birthday in my hea
 
 <img src="/images/2019/road-trip/2019-04-11_vending_machine_feast.jpg" width="40%">
 
-<img src="/images/2019/road-trip/smoky mountains hike">
+<img src="/images/2019/road-trip/2019-04-11_smoky_mountains_hike.jpg" width="80%">
 
 Then we were off to Nashville, where Ben found an amazing airbnb that was a garage converted into a super lovely studio apartment. After a quick shower, we hit the town, which was ... so disappointing. The first area we went to had one bar with live music that was pretty decent (and which also introduced us to spiked Capri Suns -- brilliant!) But then we went downtown to Broadway and it was just bar after bar of The Hong Kong but worse. Multiple stories of bad music, bad drinks, and a bad atmosphere. It was like an entire strip of frat parties for adults. Really didn't love the place, but we managed to have a great time anyway. :)
 
-<img src="/images/2019/road-trip/nashville bars, spike capri sun maybe">
+<img src="/images/2019/road-trip/2019-04-12_spiked_capri_sun.jpg" width="40%">
 
 <img src="/images/2019/road-trip/2019-04-12_nashville_airbnb.jpg" width="80%">
 
 ## March 31 - April 7: New York
 
-My first stop after returning from Malaysia was to New York, "for a conference". I technically helped organize this conference, but my main contribution to it was definitely live-tweeting it while there. This conference was especially fun because it (1) is a group of people I've gotten to know through various parts of my PhD (including my favorite postdoc-now-professor Sean Gibbons!) talking about a topic that I think is fun to think about (statistics wooo) and (2) was my last "official" thing as part of Eric's lab and also technically no longer my field (I'm much more interested in talking about sewage than the microbiome, tbh) so there was absolutely no pressure to read any follow-up papers or make lasting contacts, I was just there to enjoy it and be present in the moment! A no-strings-attached conference, what a wonderful experience!
+My first stop after returning from Malaysia was to New York, "for a conference". I technically helped organize this conference, but my main [contribution](https://twitter.com/search?q=%23SACMDA3) to it was definitely [live-tweeting](https://cduvallet.github.io/posts/2019/04/tweet-talk) it while there. This conference was especially fun because it (1) is a group of people I've gotten to know through various parts of my PhD (including my favorite postdoc-now-professor [Sean Gibbons](https://gibbons.systemsbiology.org/)!) talking about a topic that I think is fun to think about (statistics wooo) and (2) was my last "official" thing as part of Eric's lab and also technically no longer my field (I'm much more interested in talking about sewage than the microbiome, tbh) so there was absolutely no pressure to read any follow-up papers or make lasting contacts, I was just there to enjoy it and be present in the moment! A no-strings-attached conference, what a wonderful experience!
+
+<img src="/images/2019/road-trip/2019-04-03_ny_bagel.jpg" width="40%">
 
 After the conference, I stayed for the rest of the week and weekend to hang out with friends. I stayed with Megan during the week, in her lovely new apartment in Brooklyn and then with Jacob and Chantal in their lovely apartment in Brooklyn over the weekend. An aside: all of my New York friends are moving into mansions in Brooklyn, it's amazing.
 
 I took basically zero pictures while in New York so you'll have to trust me at my word that it was a lot of fun, filled with delicious food and tea and a craft beer festival and brunch and friends. :D
 
-<img src="/images/2019/road-trip/2019-04-03_ny_bagel.jpg" width="40%">
+<img src="/images/2019/road-trip/2019-04-06_beer_festival.jpg" width="80%">
 
 ## March 10 - 27: Malaysia
 
