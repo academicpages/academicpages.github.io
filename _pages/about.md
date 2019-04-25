@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior resarch scientist at [Tandemlaunch](http://www.tandemlaunch.com), a unique startup foundry based in Montreal, Canada. 
+I am currently a senior research scientist at [Tandemlaunch](http://www.tandemlaunch.com), a unique startup foundry based in Montreal, Canada. 
 
 I am also a Full Professor (on leave) of Communication and Information Systems at the Department of [Industrial Engineering and Management](https://www.iim.ftn.uns.ac.rs/) of the [Faculty of Technical Sciences](http://ftn.uns.ac.rs), [University of Novi Sad](http://www.uns.ac.rs/), Serbia. 
 
