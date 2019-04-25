@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # arpbadger
+  username               : # 
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "arpbadger"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "CTF player, security researcher, cybersec consultant, developer"
   location         : "Ask"
   employer         :
