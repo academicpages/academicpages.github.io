@@ -3,4 +3,4 @@
   title         = {{CED:} Color Event Camera Dataset},
   booktitle     = {{IEEE} Conf. Comput. Vis. Pattern Recog. Workshops {(CVPRW)}},
   year          = {2019}
-  }
+}
