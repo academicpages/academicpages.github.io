@@ -81,8 +81,8 @@ author:
   avatar           : "peri_profile.jpg"
   bio              : "Graduate Student"
   location         : "Reno, Nevada"
-  employer         : "Dr. Wei Yan, UNR"
-  googlescholar    : 
+  employer         : 
+  googlescholar    :
   email            : "perisateesh@nevada.unr.edu"
   uri              :
   bitbucket        :
@@ -97,10 +97,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "perisateesh"
