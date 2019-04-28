@@ -5,7 +5,7 @@ permalink: /publications/GeneAction
 excerpt: 'Recent work has suggested that the performance of prediction models for complex traits may depend on the architecture of the target traits. Here we compared several prediction models with respect to their ability of predicting phenotypes under various statistical architectures of gene action.'
 date: 2018-08-17
 venue: 'Scientific Reports'
-paperurl: 'https://github.com/Mehdimomen/Mehdimomen.github.io/files/GeneAction.pdf'
+paperurl: 'https://www.nature.com/articles/s41598-018-30089-2'
 citation: 'Momen M , Ayatollahi  Mehrgardi  A, Kranis  A, Tusell L, Morota G, Rosa G J M, Gianola D. (2018). Predictive ability of genome-assisted predic-tion machines under various statistical genetic architectures.Scientific Reports.8:12309.'
 ---
 <a href='https://www.nature.com/articles/s41598-018-30089-2/'> Full text is here:</a>
