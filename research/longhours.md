@@ -10,7 +10,7 @@ citation: 'Youngjoo Cha, Kim, Weeden, <b>Mauricio Bucca</b> (2016). &quot;Long W
 [[PDF]](https://mebucca.github.io/files/papers/longhours.pdf)
 
 <p> 
-	Media Coverage: [[New York Times]](https://www.nytimes.com/2019/04/26/upshot/women-long-hours-greedy-professions.html#click=https://t.co/Khop4RaQ1C)
+	Media Coverage: [[New York Times]](https://t.co/Khop4RaQ1C)
 </p>	
 
 ## Abstract
