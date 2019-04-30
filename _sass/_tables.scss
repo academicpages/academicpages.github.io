@@ -8,7 +8,7 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  border: 1px solid $light-gray;
+  border: 0px solid $light-gray;
 
   & + table {
     margin-top: 1em;
@@ -17,20 +17,20 @@ table {
 
 thead {
   background-color: $lighter-gray;
-  border-bottom: 1px solid $light-gray;
+  border-bottom: 0px solid $light-gray;
 }
 
 th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $light-gray;
+  border-right: 0px solid $light-gray;
 }
 
 td {
   padding: 0.5em;
-  border-bottom: 1px solid $light-gray;
-  border-right: 1px solid $light-gray;
+  border-bottom: 0px solid $light-gray;
+  border-right: 0px solid $light-gray;
 }
 
 tr, td, th {

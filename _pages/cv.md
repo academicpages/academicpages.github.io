@@ -8,33 +8,53 @@ redirect_from:
 
 {% include base_path %}
 
-This page contains my CV, which can also be downloaded as a [pdf file](/files/CV_PaccianiMori.pdf){:target="_blank"}<!--_-->.
+Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_PaccianiMori.pdf){:target="_blank"}<!--_-->.
 
 ## Research experience
-* Fellow of the Department of Physics, Harvard University
-  <ul style="list-style-type:none;">
-    <li><b>Supervisors</b>: Dr. Andrea Giometto, Prof. Andrew Murray, Prof. David Nelson</li>
-  </ul>
-* Ph.D. in *Physics*, University of Padua
-  <ul style="list-style-type:none;">
-    <li><b>Supervisor</b>: Prof. Amos Maritan</li>
-    <li><b>Co-supervisor</b>: Dr. Samir Suweis</li>
-  </ul>
+<font size="5">
+<table>
+  <tr>
+    <td width="35%"><div align="right">Apr 1st - Sep 30th 2019<br>
+		<img src="/images/Harvard_logo.png" width="150"></div></td>
+    <td width="65%">Fellow of the Department of Physics, Harvard University<br>
+    <b>Supervisors: </b> Dr. Andrea Giometto, Prof. Andrew Murray, Prof. David Nelson<br><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="35%"><div align="right">Oct 1st 2017 - Present day<br>
+		<img src='/images/uniPD_logo.png' width="150"></div></td>
+    <td width="65%">Ph.D in <i>Physics</i>, University of Padua<br>
+      <b>Supervisor:</b> Prof. Amos Maritan<br>
+	 		<b>Co-supervisor:</b> Dr. Samir Suweis<br>
+      <b>Expected completion date:</b> September 30th, 2020<br><br>
+    </td>
+  </tr>
+</table>
+</font>
 
 ## Education
-* M.Sc. in *Physics*, University of Padua
-  <ul style="list-style-type:none;">
-    <li><b>Thesis title</b>: "A physics approach to ecosystem dynamics"</li>
-    <li><b>Advisor</b>: Prof. Amos Maritan</li>
-    <li><b>Final grade</b>: 110/110 cum laude</li>
-  </ul>
-
-* B.Sc. in *Physics*, University of Padua
-  <ul style="list-style-type:none;">
-    <li><b>Thesis title</b>: "Curvature effect on patterning dynamics on spherical membranes"</li>
-    <li><b>Advisor</b>: Prof. Enzo Orlandini</li>
-    <li><b>Final grade</b>: 108/110</li>
-  </ul>
+<font size="5">
+<table>
+  <tr>
+    <td width="35%"><div align="right">Oct 1st 2015 - Sep 26th 2017<br>
+		<img src="/images/uniPD_logo.png" width="150"></div></td>
+		<td width="65%">M.Sc. in <i>Physics</i>, University of Padua<br>
+      <b>Thesis title:</b> <i>A physics approach to ecosystem dynamics</i><br>
+	 		<b>Advisor:</b> Prof. Amos Maritan<br>
+      <b>Final grade:</b> 110/110 cum laude<br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="35%"><div align="right">Oct 1st 2012 - Jul 22nd 2015<br>
+			<img src="/images/uniPD_logo.png" width="150"></div></td>
+		<td width="65%">B.Sc. in <i>Physics</i>, University of Padua<br>
+      <b>Thesis title:</b> <i>Curvature effect on patterning dynamics on spherical membranes</i><br>
+	 		<b>Advisor:</b> Prof. Enzo Orlandini<br>
+      <b>Final grade:</b> 108/110<br><br>
+    </td>
+  </tr>
+</table>
+</font>
 
 ## Attended conferences, workshops and schools
 * [5th Italian Conference of Physics Students](http://ai-sf.it/cisf19/){:target="_blank"}<!--_-->, *University of Milan, Department of Physics*, 6th-10th March 2019
