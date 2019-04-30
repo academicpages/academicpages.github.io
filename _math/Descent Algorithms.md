@@ -1,13 +1,55 @@
 ---
 title: "Descent Algorithms"
-collection: talks
-type: "Talk"
-permalink: /math/descent_algorthims
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+collection: teaching
+type: "Undergraduate course"
+permalink: /math/descent_algorithm
 ---
 
-[More information here](http://example2.com)
+This is a description of a teaching experience. You can use markdown like any other post.
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Heading 1
+======
+
+
+<style type="text/css">
+#wrap {
+   width:600px;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:300px;
+}
+#right_col {
+   float:right;
+   width:300px;
+}
+</style>
+
+<div id="wrap">
+<div id="left_col">
+LEFT COLUMN
+</div>
+<div id="right_col">
+RIGHT COLUMN
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-md-6">
+This is the FIRST Column
+</div>
+<div class="col-md-6">
+This is the SECOND Column
+</div>
+</div>
+
+
+
+Heading 2
+======
+
+Heading 3
+======
+
