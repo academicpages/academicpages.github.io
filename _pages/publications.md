@@ -14,7 +14,7 @@ Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>,  For
 <b>Mauricio Bucca</b>, Daniela Urbina. <i>Sociological Methods and Research</i>, Forthcoming.
 
 <b>[Long Work Hours, Part-time Work, and trends in the Gender Gap in Pay, the Motherhood Wage Penalty, and the Fatherhood Wage Premium](http://mebucca.github.io/research/longhours)</b><br>
-Youngjoo Cha, Kim, Weeden <b>Mauricio Bucca</b>. <i>RSF: The Russell Sage Foundation Journal of the Social Sciences</i>. Media Coverage: [[New York Times]](https://nyti.ms/2GySffQ)
+Youngjoo Cha, Kim, Weeden <b>Mauricio Bucca</b>. <i>RSF: The Russell Sage Foundation Journal of the Social Sciences</i>. Media Coverage: [[New York Times]](https://mebucca.github.io/files/papers/longhours_nyt.pdf)
 
 
 

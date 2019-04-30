@@ -9,7 +9,7 @@ citation: 'Youngjoo Cha, Kim, Weeden, <b>Mauricio Bucca</b> (2016). &quot;Long W
 ---
 [[PDF]](https://mebucca.github.io/files/papers/longhours.pdf)
 
-Media Coverage: [[New York Times]](https://nyti.ms/2GySffQ)
+Media Coverage: [[New York Times]](https://mebucca.github.io/files/papers/longhours_nyt.pdf)
 
 ## Abstract
 
