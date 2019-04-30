@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Math Exposition"
+    url: /math/
 
   - title: "Talks"
     url: /talks/    
