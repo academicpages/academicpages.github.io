@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Markov Decision Processes"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2014-03-01-talk-3
