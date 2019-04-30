@@ -2,7 +2,7 @@
 title: "Graph Theory"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /math/graph_theory
 venue: "London School of Testing"
 date: 2014-02-01
 location: "London, UK"
