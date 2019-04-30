@@ -2,7 +2,7 @@
 title: "Duality"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /math/duality
 venue: "London School of Testing"
 date: 2014-02-01
 location: "London, UK"
