@@ -1,13 +1,13 @@
 ---
 title: "Graph Theory"
-collection: talks
-type: "Talk"
+collection: teaching
+type: "Undergraduate course"
 permalink: /math/graph_theory
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
 ---
 
-[More information here](http://example2.com)
+This is a description of a teaching experience. You can use markdown like any other post.
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Heading 1
+======
+
+which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
