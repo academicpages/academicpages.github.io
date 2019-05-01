@@ -214,14 +214,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
   # _math
   - scope:
       path: ""
       type: math
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       comments: true
   # _teaching
