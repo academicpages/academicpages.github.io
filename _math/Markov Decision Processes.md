@@ -1,11 +1,8 @@
 ---
 title: "Markov Decision Processes"
-collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+collection: teaching
+type: "Undergraduate course"
+permalink: /math/markov_decision_processes
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.i
