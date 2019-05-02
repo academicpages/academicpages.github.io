@@ -4,6 +4,126 @@ permalink: /travel/
 author_profile: true
 ---
 
+## May 1
+
+**Badger Canyon, AZ --> St George, UT**
+
+I had originally planned to get up super early to get to the Kanab BLM office to apply for a permit to hike [The Wave](https://utah.com/the-wave), but I was up pretty late talking with Ben last night so decided to sleep in instead and see if there would be another hike I could do today. Turns out that was a great decision, because I forgot that Utah is an hour ahead of Arizona (bc Arizona, quite sensibly, doesn't do daylight savings) and so I would have definitely arrived too late.
+
+<img of the drive>
+
+After a lovely conversation with a man at the BLM visitor center, I headed to the local library to get a bit of work and trip planning done. I realized at this point that I probably didn't have time today to do a hike, so I just headed straight to St. George. Ben is meeting me in Denver on May 9, so I'm actually _also_ realizing that I don't have too much time left to wander through this part of Utah! That's a bummer, because I _really_ enjoyed yesterday's meandering through my decisions.
+
+I was actually pretty grumpy most of the day, in large part because I've been listening to the podcast Slow Burn, covering the Bill Clinton impeachment process. Note to self: only listen to depressing podcasts while on hikes through the grandeur of nature. Listening on the drive to St. George did _not_  have enough interesting views to cheer me up. That, plus being a bit tired of the constant planning, difficulty of finding information on public lands, and uncertainty about where I'll actually be able to stay... I think that this trip is actually just the wrong length for this: it's too short for me to have time to meander through my decision-making without consequences, but it's too long to have been plannable far into the future. I also wouldn't have wanted to plan it more than I have, I just wish it were easier to figure out useful information. Rangers saying, "it's all BLM land, there are no trails just go wherever your heart tells you, camp anywhere" isn't actually helpful when you don't have unlimited time to explore and make mistakes. Anyway the point is that someone should make an app with BLM and forest service land, roads, and semi-established campgrounds that can be crowd-sourced for people to add where they've stayed and hiked. Like Waze, but for public lands.
+
+Ok enough ranting. Tonight I splurged and am staying at an RV park (jk it's not actually that much more expensive than some campgrounds) where I got to _shower_.
+
+<img of RV park>
+
+## April 30
+
+**Lees Ferry, AZ**
+
+As usual, I got the day started pretty slowly today. But great news -- my calf wasn't hurting anymore! (For a second there I thought I'd strained it or something, no good!) After my lazy breakfast, I headed over to Lees Ferry nearby for what seemed like an awesome trail: Cathedral Wash.
+
+And it was! Lots of scrambling down a dry river bed all the way to the Colorad.
+
+<img of the hike>
+
+<img of the colorado>
+
+On the way back, I linked up with a group of four women in their late 60s on a trip together. I helped them figure out the best way to get back, and at the end of the hike they thanked me for my help: "your generation inspires us," to which I replied: "no, it's y'all who inspire me!" And it's true: one of my favorite parts of this trip has been meeting and seeing so many older people out there living life to the fullest. Sure, they're not sleeping in the back of their parents' car but rather in much more comfortable RV's or _gasp_ hotels, but still! They're out there enjoying nature and being active. It's really inspiring, and something to look forward to doing myself.
+
+Rather than try to find some random BLM land, I decided to head back to Badger Canyon and get some work done to a stunning sunset.
+
+<img of sunset/laptop>
+
+<img of camp in the morning>
+
+## April 29
+
+**Grand Canyon --> Badger Canyon campground, near Marble Canyon, AZ**
+
+Fairly uneventful day today. Woke up to rain, bought myself coffee (!!) at one of the Grand Canyon lodges and sneakily ate my breakfast in the dining room, and then headed to the Grand Canyon community library to get some work done on the accepted paper. Yes that's right, Grand Canyon has a library! In fact, it seems like quite a few people live here, since I also saw signs for a school and there must be an incredible number of people involved in keeping the entire park running. Can you imagine being a kid and growing up literally in the Grand Canyon? So cool.
+
+After some annoying work and frustrating attempts to figure out the BLM land in this area, I headed out for one last goodbye to the Canyon and then off to my campground for the night, near Marble Canyon. I was already in a pretty funky mood most of the day -- lots of FOMO and feeling bad that I'm missing _so many_ thesis defenses -- and then add to that not being totally sure I could access the camp or that there'd be space (and not having a great Plan B), plus the lightning storm lighting up the sky the last hour of my drive... very intense feelings.
+
+All is well, however -- made it to the campground no problem and there is space! It started pouring about five minutes after I arrived, great timing, shew! Also means I was trapped in my housecar for a while and had Babybel, chips, and nutella for dinner oops. Oh also I was worried for a bit about flash flooding, because since I arrived after dark I have no idea how close the water is. But after a quick Google image search of the camp, [we good]().
+
+<marble canyon camp>
+
+## April 28
+
+**Grand Canyon National Park**
+
+Despite being exhausted from my hike, I surprisingly didn't sleep that well and woke up pretty early. I had a leisurely breakfast and headed back to the Backcountry Office for more info on trails. Pro-tip: the Backcountry Office is _the place_ to go at Grand Canyon. Flush toilets, water, really friendly rangers, _and_ basically no one else around! Such a nice change from the overwhelming visitor center area... I ended up talking to the ranger and another visitor for a while, asking about trails and camps for my upcoming areas.
+
+Finally got moving around lunchtime for a very short, flat hike through the forest to an awesome overlook (where my ranger friend apparently got married!).
+
+<lunch picture>
+
+Then I headed to the other side of the park to refill on water and attempt to hike the Tanner trail. My calves and ankles were not having it, so I decided to call it rather than risk injury so early in my trip. I ended up talking to Ben for a while, it's been pretty wild how much service I get in the Grand Canyon! (And, actually, I get the best service when I'm camping in the forest...)
+
+<Tanner trail>
+
+Then I went back over to the other side of the park to try to catch sunset. Rather than wait for the bus, I booked it along the Rim Trail to the first great sunset viewpoint. Literally chasing sunset. It was amazing!! Beautiful sky, and awe-inspiring canyon. Water did that!!
+
+<sunset pic>
+
+On my way back to, you guessed it, the other side of the park, I stopped at a picnic area to make dinner. Chili migas, AKA scrambled eggs with whatever leftovers I have from the day before -- my go-to, and actually a pretty delicious way to reheat leftovers. Also, I think the post-sunset picnic table dinner is the play: much nicer to make dinner on a table than on the uneven ground at my "campsite" in the forest.
+
+<forest camp>
+
+## April 27
+
+**Grand Canyon National Park**
+
+Today, I set out to hike into the Grand Canyon! After breakfast, I headed to the Visitor Center to refill my water and get some info. Wow. So many people, so overwhelming. This was actually one of the lonelier moments I've experienced on this trip - something about the combination of lots of people with other poeple (families, couples, friends) and how so many of those people are not at all on the same type of trip that I am. Felt pretty alone in that crowd. Also, it's really annoying to wait in line for the bathroom. Gr.
+
+I decided to do the Bright Angel hike, Grand Canyon's most popular one down, and so drove to the other side of the park closer to the trailhead. Almost didn't find parking -- that's another thing that doesn't jive, how can a park be full?! Dumb cars. (Jk I love you car please love me back all the way to San Diego <3 <3 <3). I did a terrible job of being speedy getting ready for the hike, so ended up hitting the trail after noon.
+
+Hiked to the third stop, which was definitely worth it -- not that much additional effort after the second stop, and it came with amazing views from deeper in the canyon and a water refill. Overall, hiked about 10 miles and ~300 flights of stairs in about 4 hours (5-6 counting stops). It's amazing what the human body can do, I could barely believe where I'd come from when I looked up. If I were to do it again, though, I'd leave a bit earlier and hike all the way to the Plateau point for what I imagine is an amazing view.
+
+After the hike, I went to the tavern for a well-deserved beer where I made friends with a tour bus driver also sitting at the bar. That's something I can't really wrap my head around with this park: there are so many different ways to experience it. I think some people just come, drive to all the viewpoints, and leave. Others are on a party bus and probably too hungover to do any serious hiking. And yet others hike rim-to-rim in one day. Just wild.
+
+<picture of car camp>
+
+## April 26
+
+**Flagstaff, AZ --> Grand Canyon National Park**
+
+I did some more internetting in the morning, then stopped by NAU to say goodbye. It was so great catching up with everyone and seeing them in person!
+
+My plan was to head to the North Rim of the Grand Canyon (as recommended by Matt), but I found it was closed from the highway signs. Change of plans, headed to the South Rim instead. Got there in the early evening, in time for my first view of the canyon!!
+
+<first view from desert view>
+
+As expected, all campgrounds are full so I head to the Kaibab National Forest right outside the park to find a spot. Turns out it's a super popular place to camp and I am definitely not alone. Usually, when I arrive at a campground I'll do a first pass through the whole thing to scope it out, and then I go back around and choose my campsite. Except I can't do this here, since my campground is the _entire forest_. Paradox of choice ahhh!
+
+But I find a spot and am pretty excited to have some time to kill, unlike most nights when I get to my camp pretty late. Except...
+
+I proceed to lock myself out of my car. OH NO!
+
+<sad face photo>
+
+Actually, I knew this would happen at some point on this trip and I'm _really_ glad it happened here, because the national forest has really good cell reception. I call Geico, they can't really help me and tell me to call the local police instead. So I do that, am so grateful none of them laugh at or make fun of me for my silly predicament. (Also, interestingly, the two people I talked to were both women!) They find a service, Randall from Grand Canyon towing calls me and comes to save me after about an hour of waiting. His toolkit is basically a bunch of differently-bent coat hangers and some wedges to crack open doors. He also barely takes any interest in me or my story, you can tell he's seen way crazier shit. My gratitude, in descending order: great cell phone service, Randall, and my dad's fancy insurance which means this will get reimbursed. I still feel pretty dumb though, and put this incident in my "it's good to have things to keep you humble" drawer.
+
+Usually, I post a photo of my camp in the morning so you can see the surroundings. But not tonight! So happy to be back in my car:
+
+<car photo at night>
+
+## April 25
+
+**Flagstaff, AZ**
+
+Today was pretty boring, as far as travel blogs go. Spent the morning catching up on internet, updating Facebook photos and this blog. Then headed to Northern Arizona University to meet the guys and see the office where all the [magic](https://qiime2.org) happens. We got delicious lunch in town and then I spent most of the afternoon fighting with conda to update my packages and plugins. In the evening, Matt, Evan, and I got beers and mused about the paradox of open source and improving microbiome science.
+
+I'm terrible and took zero photos of my time in Flagstaff except this one of NAU and the building their lab is in:
+
+<NAU photo>
+
+Not even a selfie, Claire?! Come on.
+
 ## April 24
 
 **El Malpais, NM --> Flagstaff, AZ**
