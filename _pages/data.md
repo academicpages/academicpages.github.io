@@ -24,7 +24,7 @@ author_profile: true
 #### Political Spending and Lobbying for SP1500 Firms**
 #### Political Spending and Lobbying for SP1500 Firms CEO/Chairman/President**
 #### Federal contracts for SP1500 Firms**
-#### EEOC law suits for SP1500 Firms**
+#### EEOC lawsuits for SP1500 Firms**
 #### National media CPA coverage for SP1500 Firms**
 #### ** Available upon request
 
