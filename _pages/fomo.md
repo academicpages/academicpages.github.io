@@ -1,4 +1,12 @@
-Pro-tips and bucket lists
+---
+title: "Pro-tips and bucket lists"
+permalink: /fomo/
+author_profile: true
+---
+
+# Pro-tips and bucket lists
+
+I was getting some FOMO the other day and realized that it was in part because I was sad to be missing out on things in Boston, but also that I was sad to not have enough time to do all the cool things I want to on my [road trip](/travel/). So I'm writing them down!
 
 ## Arkansas
 
