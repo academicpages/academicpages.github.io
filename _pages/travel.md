@@ -4,6 +4,42 @@ permalink: /travel/
 author_profile: true
 ---
 
+## May 3
+
+**Bryce Canyon National Park**
+
+Small but lovely day! Headed into Bryce Canyon after a lazy breakfast in the forest, and hiked down to the Peek-a-boo loop trail via Queens Gardens. Stunning scenery here, such amazing sights.
+
+<img bryce hike>
+
+After my hike, headed back to the forest to finish up some figure re-formatting, drink so beer, and make delicious pasta dinner.
+
+<img dinner, maybe beer and work and sunset>
+
+<img campsite>
+
+## May 2
+
+**St George, UT --> Zion National Park --> Dixie National Forest (by Bryce Canyon)**
+
+What a great, full day! I set an alarm to make sure I didn't dawdle too much, though the noise of the RV park and the town woke me up pretty early regardless. (Confirmed: way less awesome than camping in nature). Did a bit more internetting before heading out, including talking to Carolyn and submitting my last PhD paper WOOP! If you're interested, the preprint is [here]().
+
+Then I headed off to Zion National Park, about an hour's drive away. Even the parking lot was full, drove around a bit until someone was pulling out. Two thoughts here: (1) it's so wild to me that the limiting factor for experiencing nature is _parking_. (2) This is another moment I'm super glad to be alone. No one to add to the stress or impatience of looking for a parking spot, just me and my playlists.
+
+<img of zion canyon>
+
+I hiked Angel's Landing, which would actually be a fairly short hike except for the scramble to get to the tippy top, where there are lots of people so you have to wait and let others pass. So worth it though, both for the experience of having straight cliff drops on both sides of you and for the view at the top.
+
+<img of top of angels landing>
+
+I hopped on the shuttle bus to speed-walk the riverside trail that leads to the Narrows, which is apparently a hike _through the river_ into narrow slot canyons. The water's super high right now, so the trail is closed and it seems unfathomable to me how people hike it. Then it was off to Bryce Canyon! Wow the drive out of Zion was amazing: makes me really want to go back and hike through the rest of the park beyond just the main canyon. Before this drive, my impression of Zion was that it was a pretty cool canyon, but way too busy to be worth a second look. After this drive, my impression of Zion is that I haven't even scratched the surface of the coolest parts. (Well, I hope -- I imagine there are trails through the wilderness, but I"m not sure.)
+
+<img of the drive>
+
+I had planned to stay at a campground near Bryce Canyon and was totally prepared to pay and everything, but it turns out it's closed so I headed to the forest instead. Unlike the Grand Canyon, this forest has far fewer people in it -- but I'm still not alone, which is always comforting!
+
+<img of camp, night 1 at bryce>
+
 ## May 1
 
 **Badger Canyon, AZ --> St George, UT**
@@ -36,7 +72,7 @@ On the way back, I linked up with a group of four women in their late 60s on a t
 
 Rather than try to find some random BLM land, I decided to head back to Badger Canyon and get some work done to a stunning sunset.
 
-<img of sunset/laptop>
+<img of sunset or laptop>
 
 <img of camp in the morning>
 
@@ -46,11 +82,15 @@ Rather than try to find some random BLM land, I decided to head back to Badger C
 
 Fairly uneventful day today. Woke up to rain, bought myself coffee (!!) at one of the Grand Canyon lodges and sneakily ate my breakfast in the dining room, and then headed to the Grand Canyon community library to get some work done on the accepted paper. Yes that's right, Grand Canyon has a library! In fact, it seems like quite a few people live here, since I also saw signs for a school and there must be an incredible number of people involved in keeping the entire park running. Can you imagine being a kid and growing up literally in the Grand Canyon? So cool.
 
-After some annoying work and frustrating attempts to figure out the BLM land in this area, I headed out for one last goodbye to the Canyon and then off to my campground for the night, near Marble Canyon. I was already in a pretty funky mood most of the day -- lots of FOMO and feeling bad that I'm missing _so many_ thesis defenses -- and then add to that not being totally sure I could access the camp or that there'd be space (and not having a great Plan B), plus the lightning storm lighting up the sky the last hour of my drive... very intense feelings.
+After some annoying work and frustrating attempts to figure out the BLM land in this area, I headed out for one last goodbye to the Canyon and then off to my campground for the night, near Marble Canyon.
 
-All is well, however -- made it to the campground no problem and there is space! It started pouring about five minutes after I arrived, great timing, shew! Also means I was trapped in my housecar for a while and had Babybel, chips, and nutella for dinner oops. Oh also I was worried for a bit about flash flooding, because since I arrived after dark I have no idea how close the water is. But after a quick Google image search of the camp, [we good]().
+<img src="/images/2019/road-trip/2019-04-29_grand_canyon_goodbye.jpg" width="80%">
 
-<marble canyon camp>
+I was already in a pretty funky mood most of the day -- lots of FOMO and feeling bad that I'm missing _so many_ thesis defenses -- and then add to that not being totally sure I could access the camp or that there'd be space (and not having a great Plan B), plus the lightning storm lighting up the sky the last hour of my drive... very intense feelings.
+
+All is well, however -- made it to the campground no problem and there is space! It started pouring about five minutes after I arrived, great timing, shew! Also means I was trapped in my housecar for a while and had Babybel, chips, and nutella for dinner oops. Oh also I was worried for a bit about flash flooding, because since I arrived after dark I have no idea how close the water is. But after a quick Google image search of the camp, [we good](https://www.google.com/search?biw=1388&bih=690&tbm=isch&sa=1&ei=lhnLXPS8G8PC-gTNqYzwAQ&q=badger+canyon+campground&oq=badger+canyon+campground&gs_l=img.3...1978.2775..2899...0.0..0.103.863.8j2......1....1..gws-wiz-img.......0i24.MHuWl51eL5w).
+
+<img src="/images/2019/road-trip/2019-04-30_badger_canyon_camp.jpg" width="80%">
 
 ## April 28
 
@@ -60,19 +100,21 @@ Despite being exhausted from my hike, I surprisingly didn't sleep that well and 
 
 Finally got moving around lunchtime for a very short, flat hike through the forest to an awesome overlook (where my ranger friend apparently got married!).
 
-<lunch picture>
+<img src="/images/2019/road-trip/2019-04-28_grand_canyon_picnic.jpg" width="40%">
+
+<img src="/images/2019/road-trip/2019-04-28_grand_canyon_overlook_selfie.jpg" width="80%">
 
 Then I headed to the other side of the park to refill on water and attempt to hike the Tanner trail. My calves and ankles were not having it, so I decided to call it rather than risk injury so early in my trip. I ended up talking to Ben for a while, it's been pretty wild how much service I get in the Grand Canyon! (And, actually, I get the best service when I'm camping in the forest...)
 
-<Tanner trail>
+<img src="/images/2019/road-trip/2019-04-28_tanner_trail_sad.jpg" width="80%">
 
 Then I went back over to the other side of the park to try to catch sunset. Rather than wait for the bus, I booked it along the Rim Trail to the first great sunset viewpoint. Literally chasing sunset. It was amazing!! Beautiful sky, and awe-inspiring canyon. Water did that!!
 
-<sunset pic>
+<img src="/images/2019/road-trip/2019-04-28_grand_canyon_sunset.jpg" width="80%">
 
 On my way back to, you guessed it, the other side of the park, I stopped at a picnic area to make dinner. Chili migas, AKA scrambled eggs with whatever leftovers I have from the day before -- my go-to, and actually a pretty delicious way to reheat leftovers. Also, I think the post-sunset picnic table dinner is the play: much nicer to make dinner on a table than on the uneven ground at my "campsite" in the forest.
 
-<forest camp>
+<img src="/images/2019/road-trip/2019-04-29_grand_canyon_camp.jpg" width="80%">
 
 ## April 27
 
@@ -82,11 +124,19 @@ Today, I set out to hike into the Grand Canyon! After breakfast, I headed to the
 
 I decided to do the Bright Angel hike, Grand Canyon's most popular one down, and so drove to the other side of the park closer to the trailhead. Almost didn't find parking -- that's another thing that doesn't jive, how can a park be full?! Dumb cars. (Jk I love you car please love me back all the way to San Diego <3 <3 <3). I did a terrible job of being speedy getting ready for the hike, so ended up hitting the trail after noon.
 
+<img src="/images/2019/road-trip/2019-04-27_bright_angel_trail_beginning.jpg" width="80%">
+
 Hiked to the third stop, which was definitely worth it -- not that much additional effort after the second stop, and it came with amazing views from deeper in the canyon and a water refill. Overall, hiked about 10 miles and ~300 flights of stairs in about 4 hours (5-6 counting stops). It's amazing what the human body can do, I could barely believe where I'd come from when I looked up. If I were to do it again, though, I'd leave a bit earlier and hike all the way to the Plateau point for what I imagine is an amazing view.
 
-After the hike, I went to the tavern for a well-deserved beer where I made friends with a tour bus driver also sitting at the bar. That's something I can't really wrap my head around with this park: there are so many different ways to experience it. I think some people just come, drive to all the viewpoints, and leave. Others are on a party bus and probably too hungover to do any serious hiking. And yet others hike rim-to-rim in one day. Just wild.
+<img src="/images/2019/road-trip/2019-04-27_bright_angel_hike_near_bottom.jpg" width="80%">
 
-<picture of car camp>
+<img src="/images/2019/road-trip/2019-04-27_temp_happy.jpg" width="40%">
+
+<img src="/images/2019/road-trip/2019-04-27_top_of_angel_trail.jpg" width="80%">
+
+After the hike, I went to the tavern for a well-deserved beer where I made friends with a tour bus driver also sitting at the bar. (Side note: the dude had an opportunity to make a move and he didn't good job woohoo! [Side side note: the bar is so low for men's human decency. Wromp.]) Anyway, something I can't really wrap my head around with this park is that there are so many different ways to experience it. I think some people just come, drive to all the viewpoints, and leave. Others are on a party bus and probably too hungover to do any serious hiking. And yet others hike rim-to-rim in one day. Just wild.
+
+<img src="/images/2019/road-trip/2019-04-28_grand_canyon_camp.jpg" width="80%">
 
 ## April 26
 
@@ -96,7 +146,7 @@ I did some more internetting in the morning, then stopped by NAU to say goodbye.
 
 My plan was to head to the North Rim of the Grand Canyon (as recommended by Matt), but I found it was closed from the highway signs. Change of plans, headed to the South Rim instead. Got there in the early evening, in time for my first view of the canyon!!
 
-<first view from desert view>
+<img src="/images/2019/road-trip/2019-04-26_grand_canyon_desert_view.jpg" width="80%">
 
 As expected, all campgrounds are full so I head to the Kaibab National Forest right outside the park to find a spot. Turns out it's a super popular place to camp and I am definitely not alone. Usually, when I arrive at a campground I'll do a first pass through the whole thing to scope it out, and then I go back around and choose my campsite. Except I can't do this here, since my campground is the _entire forest_. Paradox of choice ahhh!
 
@@ -104,13 +154,13 @@ But I find a spot and am pretty excited to have some time to kill, unlike most n
 
 I proceed to lock myself out of my car. OH NO!
 
-<sad face photo>
+<img src="/images/2019/road-trip/2019-04-26_sad_face_lockout.jpg" width="35%">
 
-Actually, I knew this would happen at some point on this trip and I'm _really_ glad it happened here, because the national forest has really good cell reception. I call Geico, they can't really help me and tell me to call the local police instead. So I do that, am so grateful none of them laugh at or make fun of me for my silly predicament. (Also, interestingly, the two people I talked to were both women!) They find a service, Randall from Grand Canyon towing calls me and comes to save me after about an hour of waiting. His toolkit is basically a bunch of differently-bent coat hangers and some wedges to crack open doors. He also barely takes any interest in me or my story, you can tell he's seen way crazier shit. My gratitude, in descending order: great cell phone service, Randall, and my dad's fancy insurance which means this will get reimbursed. I still feel pretty dumb though, and put this incident in my "it's good to have things to keep you humble" drawer.
+Actually, I knew this would happen at some point on this trip and I'm _really_ glad it happened here, because the national forest has really good cell reception. I call Geico, they can't really help me and tell me to call the local police instead. So I do that, am so grateful none of them laugh at or make fun of me for my silly predicament. (Also, interestingly, the two people I talked to were both women!) They find a service, Randle from Grand Canyon towing calls me and comes to save me after about an hour of waiting. His toolkit is basically a bunch of differently-bent coat hangers and some wedges to crack open doors. He also barely takes any interest in me or my story, you can tell he's seen way crazier shit. My gratitude, in descending order: great cell phone service, Randle, and my dad's fancy insurance which means this will get reimbursed. I still feel pretty dumb though, and put this incident in my "it's good to have things to keep you humble" drawer.
 
 Usually, I post a photo of my camp in the morning so you can see the surroundings. But not tonight! So happy to be back in my car:
 
-<car photo at night>
+<img src="/images/2019/road-trip/2019-04-26_post_lockout_camp.jpg" width="40%">
 
 ## April 25
 
@@ -120,7 +170,7 @@ Today was pretty boring, as far as travel blogs go. Spent the morning catching u
 
 I'm terrible and took zero photos of my time in Flagstaff except this one of NAU and the building their lab is in:
 
-<NAU photo>
+<img src="/images/2019/road-trip/2019-04-25_nau.jpg" width="80%">
 
 Not even a selfie, Claire?! Come on.
 
