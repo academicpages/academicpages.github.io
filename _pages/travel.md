@@ -10,35 +10,38 @@ author_profile: true
 
 Small but lovely day! Headed into Bryce Canyon after a lazy breakfast in the forest, and hiked down to the Peek-a-boo loop trail via Queens Gardens. Stunning scenery here, such amazing sights.
 
-<img bryce hike>
+<img src="/images/2019/road-trip/2019-05-03_bryce_hike_panorama.jpg" width="100%">
 
 After my hike, headed back to the forest to finish up some figure re-formatting, drink so beer, and make delicious pasta dinner.
 
-<img dinner, maybe beer and work and sunset>
-
-<img campsite>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
 
 ## May 2
 
 **St George, UT --> Zion National Park --> Dixie National Forest (by Bryce Canyon)**
 
-What a great, full day! I set an alarm to make sure I didn't dawdle too much, though the noise of the RV park and the town woke me up pretty early regardless. (Confirmed: way less awesome than camping in nature). Did a bit more internetting before heading out, including talking to Carolyn and submitting my last PhD paper WOOP! If you're interested, the preprint is [here]().
+What a great, full day! I set an alarm to make sure I didn't dawdle too much, though the noise of the RV park and the town woke me up pretty early regardless. (Confirmed: way less awesome than camping in nature). Did a bit more internetting before heading out, including talking to Carolyn and submitting my last PhD paper WOOP! If you're interested, the preprint will be up soon...
 
 Then I headed off to Zion National Park, about an hour's drive away. Even the parking lot was full, drove around a bit until someone was pulling out. Two thoughts here: (1) it's so wild to me that the limiting factor for experiencing nature is _parking_. (2) This is another moment I'm super glad to be alone. No one to add to the stress or impatience of looking for a parking spot, just me and my playlists.
 
-<img of zion canyon>
+<img src="/images/2019/road-trip/2019-05-02_zion.jpg" width="80%">
 
 I hiked Angel's Landing, which would actually be a fairly short hike except for the scramble to get to the tippy top, where there are lots of people so you have to wait and let others pass. So worth it though, both for the experience of having straight cliff drops on both sides of you and for the view at the top.
 
-<img of top of angels landing>
+<img src="/images/2019/road-trip/2019-05-02_angels_landing_hike.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-02_angels_landing_top.jpg" width="45%">
 
-I hopped on the shuttle bus to speed-walk the riverside trail that leads to the Narrows, which is apparently a hike _through the river_ into narrow slot canyons. The water's super high right now, so the trail is closed and it seems unfathomable to me how people hike it. Then it was off to Bryce Canyon! Wow the drive out of Zion was amazing: makes me really want to go back and hike through the rest of the park beyond just the main canyon. Before this drive, my impression of Zion was that it was a pretty cool canyon, but way too busy to be worth a second look. After this drive, my impression of Zion is that I haven't even scratched the surface of the coolest parts. (Well, I hope -- I imagine there are trails through the wilderness, but I"m not sure.)
+I hopped on the shuttle bus to speed-walk the riverside trail that leads to the Narrows, which is apparently a hike _through the river_ into narrow slot canyons. The water's super high right now, so the trail is closed and it seems unfathomable to me how people hike it.
 
-<img of the drive>
+<img src="/images/2019/road-trip/2019-05-02_zion_riverside.jpg" width="40%">
+
+Then it was off to Bryce Canyon! Wow the drive out of Zion was amazing: makes me really want to go back and hike through the rest of the park beyond just the main canyon. Before this drive, my impression of Zion was that it was a pretty cool canyon, but way too busy to be worth a second look. After this drive, my impression of Zion is that I haven't even scratched the surface of the coolest parts. (Well, I hope -- I imagine there are trails through the wilderness, but I"m not sure.)
+
+<img src="/images/2019/road-trip/2019-05-02_zion_drive.jpg" width="40%">
 
 I had planned to stay at a campground near Bryce Canyon and was totally prepared to pay and everything, but it turns out it's closed so I headed to the forest instead. Unlike the Grand Canyon, this forest has far fewer people in it -- but I'm still not alone, which is always comforting!
 
-<img of camp, night 1 at bryce>
+
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_1.jpg" width="80%">
 
 ## May 1
 
@@ -46,15 +49,17 @@ I had planned to stay at a campground near Bryce Canyon and was totally prepared
 
 I had originally planned to get up super early to get to the Kanab BLM office to apply for a permit to hike [The Wave](https://utah.com/the-wave), but I was up pretty late talking with Ben last night so decided to sleep in instead and see if there would be another hike I could do today. Turns out that was a great decision, because I forgot that Utah is an hour ahead of Arizona (bc Arizona, quite sensibly, doesn't do daylight savings) and so I would have definitely arrived too late.
 
-<img of the drive>
+<img src="/images/2019/road-trip/2019-05-01_vermillion_cliffs.jpg" width="80%">
 
 After a lovely conversation with a man at the BLM visitor center, I headed to the local library to get a bit of work and trip planning done. I realized at this point that I probably didn't have time today to do a hike, so I just headed straight to St. George. Ben is meeting me in Denver on May 9, so I'm actually _also_ realizing that I don't have too much time left to wander through this part of Utah! That's a bummer, because I _really_ enjoyed yesterday's meandering through my decisions.
 
-I was actually pretty grumpy most of the day, in large part because I've been listening to the podcast Slow Burn, covering the Bill Clinton impeachment process. Note to self: only listen to depressing podcasts while on hikes through the grandeur of nature. Listening on the drive to St. George did _not_  have enough interesting views to cheer me up. That, plus being a bit tired of the constant planning, difficulty of finding information on public lands, and uncertainty about where I'll actually be able to stay... I think that this trip is actually just the wrong length for this: it's too short for me to have time to meander through my decision-making without consequences, but it's too long to have been plannable far into the future. I also wouldn't have wanted to plan it more than I have, I just wish it were easier to figure out useful information. Rangers saying, "it's all BLM land, there are no trails just go wherever your heart tells you, camp anywhere" isn't actually helpful when you don't have unlimited time to explore and make mistakes. Anyway the point is that someone should make an app with BLM and forest service land, roads, and semi-established campgrounds that can be crowd-sourced for people to add where they've stayed and hiked. Like Waze, but for public lands.
+<img src="/images/2019/road-trip/2019-05-01_welcome_to_utah.jpg" width="80%">
+
+I was actually pretty grumpy most of the day, in large part because I've been listening to the podcast Slow Burn, covering the Bill Clinton impeachment process. Note to self: only listen to depressing podcasts while on hikes through the grandeur of nature. Listening on the drive to St. George was _not_  distracting enough to cheer me up. That, plus being a bit tired of the constant planning, difficulty of finding information on public lands, and uncertainty about where I'll actually be able to stay... I think that this trip is actually just the wrong length for this: it's too short for me to have time to meander through my decision-making without consequences, but it's too long to have been plannable far into the future. I also wouldn't have wanted to plan it more than I have, I just wish it were easier to figure out useful information. Rangers saying, "it's all BLM land, there are no trails just go wherever your heart tells you, camp anywhere" isn't actually helpful when you don't have unlimited time to explore and make mistakes. Anyway the point is that someone should make an app with BLM and forest service land, roads, and semi-established campgrounds that can be crowd-sourced for people to add where they've stayed and hiked. Like Waze, but for public lands.
 
 Ok enough ranting. Tonight I splurged and am staying at an RV park (jk it's not actually that much more expensive than some campgrounds) where I got to _shower_.
 
-<img of RV park>
+<img src="/images/2019/road-trip/2019-05-02_leeds_rv_park_camp.jpg" width="80%">
 
 ## April 30
 
@@ -62,19 +67,19 @@ Ok enough ranting. Tonight I splurged and am staying at an RV park (jk it's not 
 
 As usual, I got the day started pretty slowly today. But great news -- my calf wasn't hurting anymore! (For a second there I thought I'd strained it or something, no good!) After my lazy breakfast, I headed over to Lees Ferry nearby for what seemed like an awesome trail: Cathedral Wash.
 
-And it was! Lots of scrambling down a dry river bed all the way to the Colorad.
+And it was! Lots of scrambling down a dry river bed all the way to the Colorado.
 
-<img of the hike>
+<img src="/images/2019/road-trip/2019-04-30_cathedral_wash_confused.jpg" width="80%">
 
-<img of the colorado>
+<img src="/images/2019/road-trip/2019-04-30_cathedral_wash_colorado.jpg" width="80%">
 
 On the way back, I linked up with a group of four women in their late 60s on a trip together. I helped them figure out the best way to get back, and at the end of the hike they thanked me for my help: "your generation inspires us," to which I replied: "no, it's y'all who inspire me!" And it's true: one of my favorite parts of this trip has been meeting and seeing so many older people out there living life to the fullest. Sure, they're not sleeping in the back of their parents' car but rather in much more comfortable RV's or _gasp_ hotels, but still! They're out there enjoying nature and being active. It's really inspiring, and something to look forward to doing myself.
 
 Rather than try to find some random BLM land, I decided to head back to Badger Canyon and get some work done to a stunning sunset.
 
-<img of sunset or laptop>
+<img src="/images/2019/road-trip/2019-04-30_badger_canyon_sunset.jpg" width="80%">
 
-<img of camp in the morning>
+<img src="/images/2019/road-trip/2019-05-01_badger_canyon_camp.jpg" width="80%">
 
 ## April 29
 
