@@ -12,5 +12,5 @@ redirect_from:
 <iframe
     src="/web/viewer.html?file=/files/cv/cv.pdf"
     width="100%"
-    height="80vh"
+    height="700vh"
     style="border: none;" />
