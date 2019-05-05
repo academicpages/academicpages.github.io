@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nicholas J Sale"
+title: "Nicholas Sale"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
