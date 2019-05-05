@@ -4,8 +4,10 @@ collection: publications
 permalink: 
 excerpt: 'Masters Dissertation'
 date: "April 2019"
-venue: 'University of Oxford'
+venue:
 paperurl:
 citation:
 ---
-Masters Dissertation
+Masters Dissertation - University of Oxford
+
+Submitted in April 2019
