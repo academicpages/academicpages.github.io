@@ -3,7 +3,7 @@ title: "Sheaves for Data Fusion"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-02-15-sheaves-data-fusion
-venue: University of Oxford, TDA Seminar
+venue: TDA Seminar
 date: 2019-02-15
 location: "University of Oxford"
 ---
