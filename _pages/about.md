@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final year undergraduate in Mathematics & Computer Science at New College, Oxford. In October 2019 I will be starting my PhD at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home).
+I am currently a final year undergraduate in Mathematics & Computer Science at New College, Oxford. In October 2019 I will be starting my PhD at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home), working in the area of Topological Data Analysis.
