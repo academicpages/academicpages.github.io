@@ -12,5 +12,5 @@ redirect_from:
 <iframe
     src="/web/viewer.html?file={{ site.baseurl }}/files/cv/cv.pdf"
     width="100%"
-    height="100%"
+    height="auto"
     style="border: none;" />
