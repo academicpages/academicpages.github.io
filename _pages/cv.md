@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="{{ site.baseurl }}/files/cv/cv.pdf" width="100%" type='application/pdf'>
-  [CV.pdf]({{ site.baseurl }}/files/cv/cv.pdf)
-</object>
+<iframe
+    src="/web/viewer.html?file={{ site.baseurl }}/files/cv/cv.pdf"
+    width="800px"
+    height="600px"
+    style="border: none;" />
