@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <iframe
-    src="/web/viewer.html?file=/files/cv/cv.pdf"
+    src="{{ site.baseurl }}/assets/pdfviewer/web/viewer.html?file={{ site.baseurl }}/files/cv/cv.pdf"
     width="100%"
     height="700vh"
     style="border: none;" />
