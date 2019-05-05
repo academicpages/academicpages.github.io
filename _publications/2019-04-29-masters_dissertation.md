@@ -15,4 +15,4 @@ My masters dissertation, written over the course of Hilary Term 2019. It introdu
     throwOnError: false
 })) </script> of maps from a base space into the classifying space of a discrete group.
 
-Submitted in April 2019
+Submitted in April 2019 - Copy to be uploaded after assessment
