@@ -4,6 +4,26 @@ permalink: /travel/
 author_profile: true
 ---
 
+## May 4
+
+**Bryce Canyon --> Grand Staircase Escalante National Monument**
+
+Another great road trip day! Started off the day by waking up early and heading into the park for breakfast, "treating" myself to some general store coffee (which, it turns out, may actually be worse than my starbucks instant womp womp). Then, used the fact that I have a car and freedom to drive to a handful of scenic viewpoints all along the park. Bryce's scenery really is stunning. Those pillar-like things are actually called hoodoos, which, yes, is a real word!
+
+<img bryce from a view point>
+
+I went all the way to the end of the park, Rainbow Point, and it was totally worth it. You can see the whole canyon at once, so cool! All the trails were closed and still semi-snowy, but it makes me really want to come back and hike around this area.
+
+<img rainbow point>
+
+After a couple of hour pit stop at the Bryce Canyon Coffee Co to update my figures for PLOS and my blog for you all, I headed off to Grand Staircase Escalante National Monument, via the Hole in the Wall road. The plan is to hike some slot canyons here tomorrow, but I had a bit of time to kill so I stopped at the Devil's Gardens to scramble around, over, and through some really sweet rock formations.
+
+<img devils gardens>
+
+Got pretty close to tomorrow's trail head, took a right turn onto a dirt road, followed it _one campsite_ past one that I thought looked great, and found an _even better_ one! (This is that whole "want to check out the whole campground before choosing a spot" thing at play again, but this time it worked out for me!) Got to the camp early and it's much warmer here than up in Dixie forest, so I set up my tent!
+
+<img of camp>
+
 ## May 3
 
 **Bryce Canyon National Park**
