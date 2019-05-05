@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicholas J Sale"
+title                    : "Nicholas Sale"
 title_separator          : "-"
 name                     : &name "Nick Sale"
 description              : &description "MMathCompSci @ University of Oxford - Starting PhD @ Swansea University in October 2019"
