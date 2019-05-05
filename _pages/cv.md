@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="{{ site.baseurl }}/files/cv/cv.pdf" width="100%" height="auto" type='application/pdf'>
+<object data="{{ site.baseurl }}/files/cv/cv.pdf" width="100%" type='application/pdf'>
   [CV.pdf]({{ site.baseurl }}/files/cv/cv.pdf)
 </object>
