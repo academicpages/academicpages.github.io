@@ -43,7 +43,7 @@
     		}
     		map.addLayer(markers);
             
-            $mapContainer.on('map-container-resize', function () {
+            $window.on('resize', function () {
                 setTimeout(function(){ map.invalidateSize()}, 400);
             });
     	</script>
