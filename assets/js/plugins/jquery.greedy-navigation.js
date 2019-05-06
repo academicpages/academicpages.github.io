@@ -23,10 +23,8 @@ function updateNav() {
     breaks.push($vlinks.width());
 
     // Move item to the hidden list
-    // $vlinks.children().last().prependTo($hlinks);
-    for(i=0;i<$vlinks.children().length;i++) {
-      $vlinks.children()[i].appendTo($hlinks);
-    }
+    //$vlinks.children().last().prependTo($hlinks);
+    $vlinks.children().slice(1).appendTo($hlinks);
 
     // Show the dropdown btn
     if($btn.hasClass('hidden')) {
@@ -37,13 +35,12 @@ function updateNav() {
   } else {
 
     // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
+    //if(availableSpace > breaks[breaks.length-1]) {
+    if($nav.width() - $btn.width() - 30 > breaks[breaks.length-1]) {
 
       // Move the item to the visible list
       //$hlinks.children().first().appendTo($vlinks);
-      for(i=0;i<$hlinks.children().length;i++) {
-        $hlinks.children()[i].appendTo($vlinks);
-      }
+      $hlinks.children().appendTo($vlinks);
       
       breaks.pop();
     }
@@ -56,7 +53,8 @@ function updateNav() {
   }
 
   // Keep counter updated
-  $btn.attr("count", breaks.length);
+  //$btn.attr("count", breaks.length);
+  $btn.attr("count", $hlinks.children().length);
 
   // Recur if the visible list is still overflowing the nav
   if($vlinks.width() > availableSpace) {
