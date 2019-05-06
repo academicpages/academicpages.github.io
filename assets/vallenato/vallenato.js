@@ -6,8 +6,8 @@ function vallenato() {
 	$('.vallenato-content').toggleClass('vallenato-closed');
 
 	// Open the first content section when the page loads.
-	$('.vallenato-header').first().toggleClass('vallenato-active vallenato-inactive');
-	$('.vallenato-content').first().toggleClass('vallenato-open vallenato-closed').slideDown();
+	//$('.vallenato-header').first().toggleClass('vallenato-active vallenato-inactive');
+	//$('.vallenato-content').first().toggleClass('vallenato-open vallenato-closed').slideDown();
 
 	// The Accordion Effect
 	$('.vallenato-header').click(function () {
