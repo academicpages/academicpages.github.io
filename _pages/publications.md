@@ -21,6 +21,7 @@ author_profile: true
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
 <div class="vallenato">
+	<h2 style="text-align: center;">Dissertations</h2>
 	<div class="vallenato-header">
 		Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory
 	</div><!--/.vallenato-header-->
