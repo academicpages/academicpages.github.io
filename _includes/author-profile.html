@@ -32,7 +32,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}">&nbsp;&nbsp;<i class="fas fa-envelope" aria-hidden="true">{{ author.email }}</i></a></li>
+        <li><a href="mailto:{{ author.email }}">&nbsp;&nbsp;<i class="fab fa-envelope" aria-hidden="true">{{ author.email }}</i></a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
