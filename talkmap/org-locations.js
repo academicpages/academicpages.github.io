@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "University of Strathclyde, Glasgow, UK",
+    "University of Strathclyde, Glasgow, UK\n<a href='http://events.cs.bham.ac.uk/syco/2/'>SYCO2</a>",
     55.8612503,
     -4.2458069
   ],
