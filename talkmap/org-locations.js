@@ -13,5 +13,10 @@ var addressPoints = [
     "Swansea University, UK",
     51.6186629,
     -3.8915309
+  ],
+  [
+    "ICTP, Trieste, Italy",
+    45.7033941,
+    13.7178389
   ]
 ];
