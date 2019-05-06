@@ -9,12 +9,3 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe
-    src="{{ site.baseurl }}/assets/pdfviewer/web/viewer.html?file={{ site.url | cgi_escape }}/files/cv/cv.pdf#pagemode=none"
-    width="100%"
-    height="700vh"
-    style="border: none;" />
-
-<script type="text/javascript">
-  updateNav();
-</script>
