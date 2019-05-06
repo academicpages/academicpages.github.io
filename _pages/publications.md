@@ -15,13 +15,6 @@ author_profile: true
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
-<div id="accordion-container"> 
-     <h2 class="accordion-header"></h2> 
-     <div class="accordion-content"> 
-        
-     </div> 
-</div>
-
 <div class="vallenato">
 	<div class="vallenato-header">
 		Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory
