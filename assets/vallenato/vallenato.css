@@ -1,0 +1,31 @@
+/*Headers*/
+
+.vallenato-header {
+	overflow: hidden;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	padding: 10px;
+	font-weight: bold;
+	margin-top: 5px;
+	background: #eeeeee;
+}
+
+.vallenato-header:hover {
+	cursor: pointer;
+	background: #e7e7e7;
+}
+
+.vallenato-active {
+	border-radius: 4px 4px 0 0;
+}
+
+/*Content*/
+
+.vallenato-content {
+	overflow: hidden;
+	padding: 10px;
+	border: solid #cccccc;
+	border-width: 0 1px 1px 1px;
+	border-radius: 0 0 4px 4px;
+	display: none;
+}
