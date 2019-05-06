@@ -3,6 +3,11 @@
     <html>
     <head>
     	<title>Leaflet debug page</title>
+        
+        <script
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
 
     	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-beta.2/leaflet.css" />
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-beta.2/leaflet.js"></script>
@@ -38,6 +43,10 @@
     		}
     		map.addLayer(markers);
     		map.zoomIn();
+            
+            $mapContainer.on('map-container-resize', function () {
+                setTimeout(function(){ map.invalidateSize()}, 400);
+            });
     	</script>
     </body>
     </html>
