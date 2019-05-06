@@ -11,6 +11,31 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/vallenato/vallenato.css">
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
+
+<div class="vallenato">
+<h2 style="text-align: center;">2019</h2>
+  
+<div class="vallenato-header">
+Sheaves for Data Fusion
+</div><!--/.vallenato-header-->
+
+<div class="vallenato-content">
+<p>February 15, 2019 - TDA Seminar, University of Oxford</p>
+<p>A talk based on Michael Robinson's paper [_Sheaves are the canonical datastructure for sensor integration_](https://www.sciencedirect.com/science/article/pii/S156625351630207X).</p>
+<p>([Notes]({{ site.baseurl }}/files/talk_notes/sheaves_data_fusion.pdf))</p>
+</div><!--/.vallenato-content-->
+  
+</div><!--/.vallenato-->
+
+<script>
+$(document).ready(function() {
+	vallenato();
+});
