@@ -11,6 +11,6 @@ redirect_from:
 
 <iframe
     src="{{ site.baseurl }}/assets/pdfviewer/web/viewer.html?file={{ site.url | cgi_escape }}/files/cv/cv.pdf#pagemode=none"
-    width="90%"
+    width="100%"
     height="700vh"
     style="border: none;" />
