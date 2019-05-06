@@ -11,8 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/vallenato/vallenato.css">
-<script src="{{ site.baseurl }}/assets/js/vendor/jquery/jquery-1.12.4.min.js"></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
