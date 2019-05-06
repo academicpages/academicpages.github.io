@@ -11,7 +11,7 @@ redirect_from:
 I am a final year undergraduate in Mathematics & Computer Science at New College, Oxford. In October 2019 I will be starting my PhD at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home), working in the area of Topological Data Analysis.
 
 ### News
-(See where I've travelled on the [Travel](/travelmap.html) page)
+([Travel Map](/travelmap.html))
 * In July 2019 I will be travelling to Trieste, Italy to take part in [TAGGS III](http://www.adaboralevi.com/TAGSS/2019.html)
 * April 2019 - Submitted my masters dissertation on [_Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory_]({{ site.baseurl }}/publications)
 * March 2019 - Attended [SYCO3](http://events.cs.bham.ac.uk/syco/3/) at the University of Oxford
