@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
     
-<object type="text/html" data="{{ site.baseurl }}/assets/pdfviewer/web/viewer.html?file={{ site.url | cgi_escape }}/files/cv/cv.pdf#pagemode=none" width="100%" height="700vh">
+<object type="text/html" data="{{ site.baseurl }}/assets/pdfviewer/web/viewer.html?file={{ site.url | cgi_escape }}/files/cv/cv.pdf#pagemode=none" width="100%" height="100%">
 </object>
