@@ -12,7 +12,7 @@ I am a final year undergraduate in Mathematics & Computer Science at New College
 
 ### News
 ([Travel Map](/travelmap.html))
-* In July 2019 I will be travelling to Trieste, Italy to take part in [TAGGS III](http://www.adaboralevi.com/TAGSS/2019.html)
+* In July 2019 I will be travelling to the ICTP in Trieste to take part in [TAGGS III](http://www.adaboralevi.com/TAGSS/2019.html)
 * April 2019 - Submitted my masters dissertation on [_Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory_]({{ site.baseurl }}/publications)
 * March 2019 - Attended [SYCO3](http://events.cs.bham.ac.uk/syco/3/) at the University of Oxford
 * December 2018 - Attended [SYCO2](http://events.cs.bham.ac.uk/syco/2/) at the University of Strathclyde
