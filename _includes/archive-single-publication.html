@@ -40,12 +40,20 @@
 
     {% if post.date %}<p class="page__meta"><i class="fa fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">Published in <i>{{ post.venue }}</i></p>{% endif %}
-    {% if post.citation and post.paperurl %}
-      <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }} <br> <a href="{{ post.paperurl }}" target="_blank">Website</a></p>
+    {% if post.citation and post.paperurl and post.preprinturl %}
+        <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }} <br> <a href="{{ post.paperurl }}" target="_blank">Publisher website</a>, <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
+    {% elsif post.citation and post.paperurl %}
+      <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }} <br> <a href="{{ post.paperurl }}" target="_blank">Publisher website</a></p>
+    {% elsif post.citation and post.preprinturl %}
+        <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }} <br> <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
     {% elsif post.citation %}
       <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.paperurl }}" target="_blank">Website</a></p>
+      <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.paperurl }}" target="_blank">Publisher website</a></p>
+    {% elsif post.preprinturl %}
+      <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
+    {% elsif post.paperurl and post.preprinturl %}
+      <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.paperurl }}" target="_blank">Publisher website</a>, <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
     {% endif %}
   </article>
   <span style="display:block; margin-top:-2em; visibility: hidden">text</span>

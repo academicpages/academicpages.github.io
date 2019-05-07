@@ -56,11 +56,19 @@
     {% endif %}
 
     {% if post.citation and post.paperurl %}
-      <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.paperurl }}" target="_blank">Website</a></p>
+      <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.paperurl }}" target="_blank">Publisher website</a></p>
+    {% elsif post.citation and post.preprinturl %}
+      <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
+    {% elsif post.citation and post.paperurl and post.preprinturl %}
+      <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.paperurl }}" target="_blank">Publisher website</a>, <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
     {% elsif post.citation %}
       <p><b><i>Recommended citation</i></b>: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href="{{ post.paperurl }}">here</a></p>
+      <p><a href="{{ post.paperurl }}" target="_blank">Publisher website</a></p>
+    {% elsif post.preprinturl %}
+      <p><a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
+    {% elsif post.paperurl and post.preprinturl %}
+      <p><a href="{{ post.paperurl }}" target="_blank">Publisher website</a>, <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
     {% endif %}
 
   </article>

@@ -50,7 +50,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 		<td width="65%">B.Sc. in <i>Physics</i>, University of Padua<br>
       <b>Thesis title:</b> <i>Curvature effect on patterning dynamics on spherical membranes</i><br>
 	 		<b>Advisor:</b> Prof. Enzo Orlandini<br>
-      <b>Final grade:</b> 108/110<br><br>
+      <b>Final grade:</b> 108/110<br>
     </td>
   </tr>
 </table>

@@ -11,7 +11,7 @@ redirect_from:
 I'm Leonardo Pacciani-Mori /leo&#39;nardo pat&#39;tʃani &#39;mɔːri/, a PhD student in Physics at the University of Padua. I work in the [LIPh lab](https://liphlab.com/){:target="_blank"}<!--_--> under the supervision of Prof. Amos Maritan. I am also currently appointed as *Fellow of the Department of Physics* at Harvard University, working in [Prof. Murray's group](https://murraylab.fas.harvard.edu/){:target="_blank"}<!--_--> under the supervision of [Dr. Andrea Giometto](https://scholar.harvard.edu/andreagiometto/home){:target="_blank"}<!--_-->.
 
 I work in the broad field of biological physics: I use methods and approaches characteristic of statistical physics to create models of biological and living systems.<br>
-My current main research interest is the study of how competition influences and drives biodiversity in microbial communities, with a particular focus on understanding the origin of the outstanding biodiversity observed in nature.
+My current main research interest is the study of how adaptation in consumer-resource models can help us understand better how microbial systems works, ranging from the dynamics of a single microbe to the coexistence of several species in one community.
 
 <!--### Random fun facts
 * My current [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3

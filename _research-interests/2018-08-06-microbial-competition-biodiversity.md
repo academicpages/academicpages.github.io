@@ -1,10 +1,12 @@
 ---
 title: "Competition and biodiversity in microbial ecosystems"
-excerpt: "Understanding the origin of biodiversity<br/><img src='/images/bacteria.png'>"
+excerpt: "Understanding the origin of biodiversity.<br/><br/><img src='/images/bacteria.png'>"
+permalink: /research-interests/microbial-competition-biodiversity
 collection: research-interests
+date: 2018-08-06
 ---
 
-![Microbial colony observed with SEM microscopy (false colors)](/images/bacteria.png)
+![Spores of Bacillus anthracis observed with SEM microscopy (false colors)](/images/bacteria.png)
 
 Biodiversity is one of the most fascinating aspects of nature, and has always been the subject of intense study by the scientific community. In particular, one of the mysteries that still puzzles scientists is how it is possible that the large number of species that we observe can coexist, especially in competitive ecosystems: according to the [competitive exclusion principle](https://science.sciencemag.org/content/131/3409/1292){:target="_blank"}<!--_-->, in fact, we would expect a limited number of species to be able to coexist while competing for a common pool of resources, but the number that we observe in nature (for example in microbial communities) is *orders of magnitudes* larger.
 

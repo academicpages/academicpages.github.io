@@ -7,7 +7,7 @@ date: 2017-09-26
 venue: 'Padua Digital University Archive'
 authors: 'Leonardo Pacciani, Amos Maritan'
 paperurl: 'https://tesi.cab.unipd.it/57004/'
-citation: 'Pacciani, L. (2017). &quot;A physics approach to ecosystem dynamics&quot; <i>Padua Digital University Archive</i>.'
+citation: 'Pacciani, L. (2017). &quot;A physics approach to ecosystem dynamics&quot;, <i>Padua Digital University Archive</i>.'
 ---
 
 

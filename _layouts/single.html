@@ -43,11 +43,20 @@ layout: default
           <!--<p class="page__date"><strong><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>-->
         {% endif %}
 
-
         {% if page.citation and page.paperurl %}
-          <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.paperurl }}" target="_blank">Website</a></p>
+          <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.paperurl }}" target="_blank">Publisher website</a></p>
+        {% elsif page.citation and page.preprinturl %}
+          <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.preprinturl }}" target="_blank">Preprint website</a></p>
+        {% elsif page.citation and page.paperurl and page.preprinturl %}
+          <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.paperurl }}" target="_blank">Publisher website</a>, <a href="{{ page.preprinturl }}" target="_blank">Preprint website</a></p>
         {% elsif page.citation %}
           <p><b><i>Recommended citation</i></b>: {{ page.citation }} </p>
+        {% elsif page.paperurl %}
+          <p><a href="{{ page.paperurl }}" target="_blank">Publisher website</a></p>
+        {% elsif page.preprinturl %}
+          <p><a href="{{ page.preprinturl }}" target="_blank">Preprint website</a></p>
+        {% elsif page.paperurl and page.preprinturl %}
+          <p><a href="{{ page.paperurl }}" target="_blank">Publisher website</a>, <a href="{{ page.preprinturl }}" target="_blank">Preprint website</a></p>
         {% endif %}
 
         </header>

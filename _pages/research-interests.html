@@ -8,6 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.research-interests %}
+{% for post in site.research-interests reversed %}
   {% include archive-single.html %}
 {% endfor %}
