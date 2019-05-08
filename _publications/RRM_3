@@ -1,1 +1,17 @@
+---
+title: "Predicting longitudinal traits derived from high-throughput phenomics in contrasting environments using genomic Legendre polynomials and B-splines"
+collection: publications
+permalink: /publications/Correlation
+excerpt: 'Here, we sought to apply RRM to forecast the rice PSA in control and water-limited conditions under various longitudinal cross-validation scenarios. To this end, genomic Legendre polynomials and B-spline basis functions were used to capture PSA trajectories.'
+date: 2019-08-05
+venue: 'bioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/632117v1'
+citation: 'Momen M., Campbell T.M., Walia H., Morota G. (2019) Predicting longitudinal traits derived from high-throughput phenomics in contrasting environments using genomic Legendre polynomials and B-splines'
 
+---
+
+<a href='https://www.biorxiv.org/content/10.1101/435685v2/'> Full text is here:</a>
+
+**Abstract**
+
+Here we present our results from the performance of RRM applied to HTP temporal shoot biomass data in response to control and water-limited conditions using Legendre polynomials and spline functions. We selected drought stress because water limitation significantly impacts shoot growth (PSA) and is the major limitation for agricultural productivity and global food security.
