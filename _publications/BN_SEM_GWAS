@@ -5,7 +5,7 @@ permalink: /publications/BN_SEM_GWAS
 excerpt: 'We extended the scope of MTM-GWAS by incorporating phenotypic network structures into GWAS using structural equation models (SEM-GWAS). In this network GWAS model, one or more phenotypes appear in the equations for other phenotypes as explanatory variables. A salient feature of SEM-GWAS is that it can partition the total single nucleotide polymorphism (SNP) effects into direct and indirect effects.
 '
 date: 2019-02-18
-venue: 'BioRxiv'
+venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/553008v1?rss=1/'
 citation: 'Momen, Mehdi and Campbell, Malachy T. and Walia, Harkamal and Morota, Gota. 2019. Harnessing phenotypic networks and structural equation models to improve genome-wide association analysis.bioRxiv.'
 
