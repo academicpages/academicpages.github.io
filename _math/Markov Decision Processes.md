@@ -48,11 +48,12 @@ In other words $M$ is just a circulant matrix who eigenvalue decomposition repre
 
 The second Markov chain has multiple cycles but the cycles have a common period of 3 only allowing certain harmonic modes of oscillation.  The eigenvalue decomposition is then
 
-$$ M = RDL  =
-\begin{bmatrix} | & | & | \\ \bar\rho & Z  & A \\ | & | & | \end{bmatrix}
-\begin{bmatrix} I &  &  0 \\  & z  &  \\ 0 &  & a \end{bmatrix}
-\begin{bmatrix} - & \mathbf{1}^T & - \\ - & Z'  & - \\ -& A' & - \end{bmatrix}
-$$
+\\[
+M = RDL  =
+\begin{bmatrix} | & | & | \\\\ \bar\rho & Z  & A \\\\ | & | & | \end{bmatrix}
+\begin{bmatrix} I &  &  0 \\\\  & z  &  \\\\ 0 &  & a \end{bmatrix}
+\begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \\\\ -& A' & - \end{bmatrix}
+\\]
 with $Z = $.  
 
 
