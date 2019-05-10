@@ -39,9 +39,9 @@ If the Markov chain is periodic, it may not converge to a steady state distribut
 
 \\[
 M = RDL  =
-\underbrace{\begin{bmatrix} | & |  \\\\ \mathbf{1} & Z  \\\\ | & |  \end{bmatrix}}_{F}
-\underbrace{\begin{bmatrix} 1 &  0 \\\\  & z  \end{bmatrix}}_{\text{diag}(f)}
-\underbrace{\begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \end{bmatrix}}_{F^*}
+\begin{bmatrix} | & |  \\\\ \mathbf{1} & Z  \\\\ | & |  \end{bmatrix}
+\begin{bmatrix} 1 &  0 \\\\  & z  \end{bmatrix}
+\begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \end{bmatrix}
 \\]
 
 In other words $M$ is just a circulant matrix who eigenvalue decomposition represents a Fourier basis decomposition.  
