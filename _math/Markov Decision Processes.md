@@ -37,11 +37,13 @@ If the Markov chain has more than one steady state distribution, we will abuse n
 
 If the Markov chain is periodic, it may not converge to a steady state distribution but rather "converge" to a set of oscillating distributions.  We will represent the discrete Fourier basis vectors that span this set of oscillating distributions by the columns of a matrix $Z$.  Two examples of this situation are illustrated in Figures 7,8 and 9,10.  Note that the first Markov chain is a pure cycle and thus any initial distribution will just oscillate and not converge.  In this case, the Jordan decomposition will have the form
 
-$$ M = RDL  =
-\underbrace{\begin{bmatrix} | & |  \\ \mathbf{1} & Z  \\ | & |  \end{bmatrix}}_{F}
-\underbrace{\begin{bmatrix} 1 &  0 \\  & z  \end{bmatrix}}_{\text{diag}(f)}
-\underbrace{\begin{bmatrix} - & \mathbf{1}^T & - \\ - & Z'  & - \end{bmatrix}}_{F^*}
-$$
+\\[
+M = RDL  =
+\underbrace{\begin{bmatrix} | & |  \\\\ \mathbf{1} & Z  \\\\ | & |  \end{bmatrix}}_{F}
+\underbrace{\begin{bmatrix} 1 &  0 \\\\  & z  \end{bmatrix}}_{\text{diag}(f)}
+\underbrace{\begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \end{bmatrix}}_{F^*}
+\\]
+
 In other words $M$ is just a circulant matrix who eigenvalue decomposition represents a Fourier basis decomposition.  
 
 The second Markov chain has multiple cycles but the cycles have a common period of 3 only allowing certain harmonic modes of oscillation.  The eigenvalue decomposition is then
