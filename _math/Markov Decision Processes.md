@@ -12,11 +12,13 @@ Suppose we have an initial probability distribution over the states $\rho_0 \in 
 $$ \rho_{t+1} = M \rho_t $$
 Column stochastic means that each column of $M$ sum to $1$, $\mathbf{1}^TM = \mathbf{1}^T$ and represents probability mass conservation.  Clearly, $\mathbf{1}^T$ is a left eigenvector of $M$.   The Jordan decomposition of $M$ has the form
 
-\\[ M = RDL  =
+\\[
+\begin{align} M = RDL  =
 \begin{bmatrix} | & | & | \\\\ \bar\rho & Z  & A \\\\ | & | & | \end{bmatrix}
-\begin{bmatrix} I &  &  0 \\  & z  &  \\\\ 0 &  & a \end{bmatrix}
+\begin{bmatrix} I &  &  0 \\\\  & z  &  \\\\ 0 &  & a \end{bmatrix}
 \begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \\\\ -& A' & - \end{bmatrix}
-\\\\]
+\begin{align}
+\\]
 
 where the columns of $R$ and rows of $L$ are right and left eigenvectors respectively.  We will explain $\bar\rho, Z,A, Z',A'$ further on.  For now note that the first left eigenvector(s) $\mathbf{1}^T$ is a row (or rows) of ones.  
 
