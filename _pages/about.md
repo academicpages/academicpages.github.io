@@ -14,3 +14,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 My current research interests focus on geometric deep learning on graphs and manifolds.
 
 [//]: # (Bayesian deep learning and its applications in natural language processing.)
+
+I received my B.S. degree from Tsinghua University in 2017. My Ph.D. advisor is [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
+
+
