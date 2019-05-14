@@ -15,6 +15,6 @@ My current research interests focus on geometric deep learning on graphs and man
 
 [//]: # (Bayesian deep learning and its applications in natural language processing.)
 
-I received my B.S. degree from Tsinghua University in 2017. My Ph.D. advisor is [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
+I received my B.S. degree from Tsinghua University in 2017. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 
