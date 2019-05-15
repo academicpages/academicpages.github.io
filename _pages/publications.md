@@ -12,5 +12,3 @@ author_profile: true
 2. **P. Cheng**, C. Liu, C. Li, D. Shen, H. Ricardo, and L. Carin. [Straight-Through Estimator as Projected
 Wasserstein Gradient Flow](http://bayesiandeeplearning.org/2018/papers/53.pdf), Neural Information Processing Systems (NeurIPS) Workshop, 2018 **Spotlight** 
 
-[//]: #(1. C. Liu, J. Zhuo, **P. Cheng**, R. Zhang, J. Zhu, and L. Carin. "Accelerated First-order Methods on the
-Wasserstein Space for Bayesian Inference", arXiv preprint arXiv:1807.01750, 2018 [pdf](https://arxiv.org/pdf/1807.01750))
