@@ -10,19 +10,19 @@ author_profile: true
 
 Woke up pretty late today, partially because I went to bed quite late, partially because I was feeling sick, and partially because this is what was awaiting me when I opened my eyes:
 
-<img rainy windows>
+<img src="/images/2019/road-trip/2019-05-17_rainy_windows.jpg" width="80%">
 
 Blerg. Kept being a blerg day as I drove the ~4 hours to Badlands National Park. Nebraska _really_ is not a state I ever think about, and unlike Arkansas, I'm not convinced that's incorrect. Anyway, even in this rain and fog Badlands looks SO COOL and  I hope I can explore tomorrow.
 
-<img badlands>
+<img src="/images/2019/road-trip/2019-05-17_welcome_badlands.jpg" width="80%">
 
 Luckily, campsites here are quite cheap and there were spots so I grabbed one, and headed to do a bit of the scenice drive. I still wasn't feeling great and the views weren't awesome, so I didn't drive that long and instead went back to the lodge to get dinner, warmth, and internet.
 
-<img scenic drive>
+<img src="/images/2019/road-trip/2019-05-17_badlands_scenic_drive.jpg" width="80%">
 
 Now I'm in my car-mansion catching up on this blog and sniffling away, hoping that it's clear enough to hike a bit tomorrow and that I don't die in Yellowstone in a few days. (Srsly. Check out the weather. But do me a favor and record your reaction when you look at it!! XD)
 
-<img badlands camp>
+<img src="/images/2019/road-trip/2019-05-18_badlands_camp.jpg" width="80%">
 
 ## May 16
 
@@ -32,29 +32,57 @@ TODAY WAS NATHANIEL'S DEFENSE AHHH!!!!
 
 I got up and headed to Fort Collins where I figured I could find a coffee shop with reliable internet. Headed to my first coffee shop, Mugs, where the internet was actually not really working. That's ok, because I had time and headed to a second coffee shop for lunch, Alleycat. Called in to his defense, worked a bit, called in to the party, worked a bit more, and then finally headed off around 6:30 pm (!!). The plan is to drive part of the way to Badlands tonight and the rest of the way tomorrow, hopefully with some time to do a hike in the afternoon after I get there.
 
-<img welcome Wyoming>
+<img src="/images/2019/road-trip/2019-05-16_welcome_wyoming.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-16_welcome_nebraska.jpg" width="45%">
 
 There's a couple of national forests near-ish to Badlands, so I downloaded the MVUM maps and figured I'd just figure it out when I got there. I found my national forest campground on google maps, but it turned out to have the same name but not be the same camp: this one was in a state park, which required an entry and camping fee. It was already around midnight, though, so I decided to just find a spot and figure it out in the morning. In general, I'm happy to pay camping fees, but not super down to pay a vehicular entry fee if all I'm doing is staying the night. I didn't see any obvious pay stations on my way out in the morning, so decided to just not pay eeeek. This is the first time I've done this on my trip though!!
 
-<img fort robinson state park>
+<img src="/images/2019/road-trip/2019-05-17_ft_robinson_camp.jpg" width="80%">
 
 ## May 15
 
 **Denver, CO --> Pawnee Grasslands**
 
-Slept in a little (with a lot of starfishing) in the glorious bed, and then headed to Rosenberg's for bagels. (They ship in NYC water, lulz). I'm consistently so relieved and happy about how easy it is to find parking in Denver! Normally the thought of parking my car in a city gets me super anxious... Anyway, after bagels I headed to a coffee shop recommended by Ben which is both a bike shop, bar, and coffee shop - so hip, so Denver. It was really nice!
+Slept in a little (with a lot of starfishing) in the glorious bed, and then headed to Rosenberg's for bagels. (They ship in NYC water to make their bagels, lulz). I'm consistently so relieved and happy about how easy it is to find parking in Denver! Normally the thought of parking my car in a city gets me super anxious... Anyway, after bagels I headed to a coffee shop recommended by Ben which is both a bike shop, bar, and coffee shop - so hip, so Denver. It was really nice!
 
-I got to catch up on some work, re-submitting my donor selection paper (which was rejected from both PLOS Medicine _and_ bioRxiv, lol wut damnit) and finalizing a few more things for the aspiration paper. Also had a call and got some bad news about the job situation, which put a damper on the rest of the day. Not to worry, though, Denver has Torchy's Tacos! Here's my consolation meal:
+I got to catch up on some work, re-submitting my donor selection paper (which was rejected from both PLOS Medicine _and_ bioRxiv, lol wut damnit) and finalizing a few more things for the aspiration paper. Also had a call and got some bad news on the job front, which put a damper on the rest of the day. Not to worry, though, Denver has Torchy's Tacos! Here's my consolation meal:
 
-<img torchy's>
+<img src="/images/2019/road-trip/2019-05-15_consolation_torchys.jpg" width="40%">
 
 After tacos and a few errands (where I told the cashier I was living out of my car and he 100% thought I was homeless), I headed to the nearest public lands to Denver I could find that aren't in the cold mountain forest: Pawnee National Grasslands. First dirt road I planned to camp at was closed (uh oh!), but the second one was open. Drove past some cows until I got to a spot I decided was good enough to pull over and "camp." Again, the whole "try to see the whole campground before picking a spot" is truly not feasible when "the campground" is just "the prairie" and "the campsites" is just "anywhere."
 
-<img grasslands camp>
+<img src="/images/2019/road-trip/2019-05-16_pawnee_grasslands_camp.jpg" width="80%">
 
 ## May 9 - 15
 
-Coming soon!
+**Denver, CO and Grand Lake, CO**
+
+Ben met me in Denver, where we had fun exploring hip brunch spots, breweries, and bars. In true Claire fashion, I took zero pictures of our first day in Denver.
+
+After dinner with his uncle, we drove to Grand Lake, Colorado, which is a town right at the entrance of Rocky Mountain National Park. His uncle has a cabin in Grand Lake, and he graciously let us spend the weekend there!
+
+<img src="/images/2019/road-trip/2019-05-15_grand_lake_cabin.jpg" width="45%">
+
+We had a lot of fun staying in, watching movies, and making delicious food, including an amazing pizzaaaa and an egg-in-a-hole brunch -- stay tuned for our pizza and open-faced sandwich shop, which we will be opening in case neither of our careers pan out! :P
+
+<img src="/images/2019/road-trip/2019-05-13_grand_lake_avocado_toast.jpg" width="80%">
+
+We also managed to get out of the cabin for a lovely hike -- I had to get at least one in so that I can say I've been to Rocky Mountain National Park! ;)
+
+<img src="/images/2019/road-trip/2019-05-12_rocky_mt_np_hike.jpg" width="45%">
+
+Some other highlights: we saw SO MANY moose and also crashed the ultra-exclusive community center to go play in the pool and sauna, despite the extreme skepticism of our belongingness from the man at the desk.
+
+<img src="/images/2019/road-trip/2019-05-13_moose.jpg" width="80%">
+
+Then back to Denver for a pub crawl through Ben's old haunts -- why on earth can't Boston have nice, low-key dive bars?! Ugh. Got much drunker than I anticipated based on what we drank, I guess the elevation really got me this time. Needless to say, the next morning was a bit rough so we slept in for a while in the beautiful AirBnB that Ben found.
+
+<img src="/images/2019/road-trip/2019-05-15_denver_airbnb.jpg" width="80%">
+
+After delicious burgers for "breakfast", we headed to the park to hang out and ... RIDE LYFT SCOOTERS! Turns out they're amazingly fun and a great hangover cure. Great times.
+
+<img src="/images/2019/road-trip/2019-05-14_lyft_scooter_denver.jpg" width="80%">
+
+Then I drove Ben to the airport, got myself Thai food for dinner (including mango sticky rice!), and reviewed a paper in the comfort of a real home with a real roof, a real couch, and real internet. Life is good.
 
 ## May 8
 
