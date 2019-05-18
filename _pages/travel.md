@@ -4,6 +4,58 @@ permalink: /travel/
 author_profile: true
 ---
 
+## May 17
+
+**Fort Robinson State Park, NE --> Badlands National Park, SD**
+
+Woke up pretty late today, partially because I went to bed quite late, partially because I was feeling sick, and partially because this is what was awaiting me when I opened my eyes:
+
+<img rainy windows>
+
+Blerg. Kept being a blerg day as I drove the ~4 hours to Badlands National Park. Nebraska _really_ is not a state I ever think about, and unlike Arkansas, I'm not convinced that's incorrect. Anyway, even in this rain and fog Badlands looks SO COOL and  I hope I can explore tomorrow.
+
+<img badlands>
+
+Luckily, campsites here are quite cheap and there were spots so I grabbed one, and headed to do a bit of the scenice drive. I still wasn't feeling great and the views weren't awesome, so I didn't drive that long and instead went back to the lodge to get dinner, warmth, and internet.
+
+<img scenic drive>
+
+Now I'm in my car-mansion catching up on this blog and sniffling away, hoping that it's clear enough to hike a bit tomorrow and that I don't die in Yellowstone in a few days. (Srsly. Check out the weather. But do me a favor and record your reaction when you look at it!! XD)
+
+<img badlands camp>
+
+## May 16
+
+**Pawnee Grasslands, CO --> Fort Robinson State Park, NE**
+
+TODAY WAS NATHANIEL'S DEFENSE AHHH!!!!
+
+I got up and headed to Fort Collins where I figured I could find a coffee shop with reliable internet. Headed to my first coffee shop, Mugs, where the internet was actually not really working. That's ok, because I had time and headed to a second coffee shop for lunch, Alleycat. Called in to his defense, worked a bit, called in to the party, worked a bit more, and then finally headed off around 6:30 pm (!!). The plan is to drive part of the way to Badlands tonight and the rest of the way tomorrow, hopefully with some time to do a hike in the afternoon after I get there.
+
+<img welcome Wyoming>
+
+There's a couple of national forests near-ish to Badlands, so I downloaded the MVUM maps and figured I'd just figure it out when I got there. I found my national forest campground on google maps, but it turned out to have the same name but not be the same camp: this one was in a state park, which required an entry and camping fee. It was already around midnight, though, so I decided to just find a spot and figure it out in the morning. In general, I'm happy to pay camping fees, but not super down to pay a vehicular entry fee if all I'm doing is staying the night. I didn't see any obvious pay stations on my way out in the morning, so decided to just not pay eeeek. This is the first time I've done this on my trip though!!
+
+<img fort robinson state park>
+
+## May 15
+
+**Denver, CO --> Pawnee Grasslands**
+
+Slept in a little (with a lot of starfishing) in the glorious bed, and then headed to Rosenberg's for bagels. (They ship in NYC water, lulz). I'm consistently so relieved and happy about how easy it is to find parking in Denver! Normally the thought of parking my car in a city gets me super anxious... Anyway, after bagels I headed to a coffee shop recommended by Ben which is both a bike shop, bar, and coffee shop - so hip, so Denver. It was really nice!
+
+I got to catch up on some work, re-submitting my donor selection paper (which was rejected from both PLOS Medicine _and_ bioRxiv, lol wut damnit) and finalizing a few more things for the aspiration paper. Also had a call and got some bad news about the job situation, which put a damper on the rest of the day. Not to worry, though, Denver has Torchy's Tacos! Here's my consolation meal:
+
+<img torchy's>
+
+After tacos and a few errands (where I told the cashier I was living out of my car and he 100% thought I was homeless), I headed to the nearest public lands to Denver I could find that aren't in the cold mountain forest: Pawnee National Grasslands. First dirt road I planned to camp at was closed (uh oh!), but the second one was open. Drove past some cows until I got to a spot I decided was good enough to pull over and "camp." Again, the whole "try to see the whole campground before picking a spot" is truly not feasible when "the campground" is just "the prairie" and "the campsites" is just "anywhere."
+
+<img grasslands camp>
+
+## May 9 - 15
+
+Coming soon!
+
 ## May 8
 
 **Moab, UT --> Arches National Park --> Rabbit Valley, CO**
