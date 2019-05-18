@@ -5,6 +5,7 @@ date: 2018-06-16
 tags:
     - data-science
     - coding
+    - portfolio
 ---
 
 A couple of months ago, I was having dinner with a friend who was trying to convince me to start online dating - he's a hopeless romantic, and perhaps the only person on this earth who genuinely enjoys it. I really dislike online dating for many reasons and we'd had this conversation many times before, so I wasn't interested in his arguments. But as he was telling me about the new [app](https://hinge.co/) he was using, an idea started to form... Because of the way the app is set up, I realized I could test one of my longtime hypotheses, and in the process get some much-needed validation for why online dating sucks and definitively win our debate about whether or not I should sign up.

@@ -6,6 +6,7 @@ tags:
     - python
     - data
     - phd
+    - portfolio
 ---
 
 I started tracking the time I spend on various "work-related" activities near the beginning of my third year of grad school. When I started, I hadn't yet discovered the magic of tidy data so I kept putting off analyzing the data. Now that it's been over a year since I converted to tidy data, it's time to dig in and see how I really use my time!

@@ -5,6 +5,7 @@ date: 2018-09-03
 tags:
     - data-science
     - coding
+    - portfolio
 ---
 
 About a year ago, I moved from my lovely Beacon Hill apartment (300 yards from the subway) to a house full of my friends (a 20-25 minute walk from the nearest subway stop). I'm super happy in my new house (we have chickens!) and it was totally the right decision, but at the time my new commute felt daunting - and many of my friends told me I'd regret giving up the convenience of my amazing Beacon Hill location. So, I did what any aspiring data scientist would do and started gathering data to prove them wrong. (See a theme in my [data collection](/posts/2018/06/hinge-experiment) posts yet? XD)

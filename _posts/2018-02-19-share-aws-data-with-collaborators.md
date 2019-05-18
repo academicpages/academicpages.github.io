@@ -5,6 +5,7 @@ date: 2018-02-19
 tags:
     - coding
     - aws
+    - portfolio
 ---
 
 I've recently become our lab's AWS sysadmin, and my first task is to give our collaborators access to some of our data. In this post, I'll briefly go over how I set that up and explain the different options that our collaborator has to access the data.

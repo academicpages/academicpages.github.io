@@ -7,6 +7,7 @@ tags:
     - coding
     - python
     - conda
+    - portfolio
 ---
 
 Once you've [made your first qiime2 plugin](/posts/2018/03/qiime2-plugin), you'll need to build it into a conda package and upload it to anaconda.org so others can easily install it.

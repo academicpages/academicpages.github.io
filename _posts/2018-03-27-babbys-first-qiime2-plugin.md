@@ -7,6 +7,7 @@ tags:
     - coding
     - microbiome
     - qiime2
+    - portfolio
 ---
 
 As a side project from the meta-analysis, we developed a method to [correct for batch effects in microbiome case-control studies](https://doi.org/10.1371/journal.pcbi.1006102).

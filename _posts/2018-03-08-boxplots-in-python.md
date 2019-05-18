@@ -6,6 +6,7 @@ tags:
     - python
     - plotting
     - coding
+    - portfolio
 ---
 
 To celebrate figuring out [how to blog with jupyter notebooks](/posts/2018/03/ipython-notebooks-jekyll), I'm going to go through some tricks I've learned to plot pretty boxplots in Python.

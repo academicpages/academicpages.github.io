@@ -4,9 +4,7 @@ permalink: /career/
 author_profile: true
 ---
 
-## **My goal is to apply personalized medicine methods to public health.**
-
-My ideal job is one in which I help **shape the scientific vision** of a company which uses **computational biology to impact society**.
+## My goal is to **shape the scientific vision** of a company which uses **computational biology or data science to impact society**.
 
 More specifically, I envision my ideal **role** as a CSO, or CSO-like person. I want to:
 

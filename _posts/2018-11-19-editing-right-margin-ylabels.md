@@ -6,6 +6,7 @@ tags:
     - python
     - plotting
     - coding
+    - portfolio
 ---
 
 Today, I figured out an answer to a question that I didn't find asked anywhere on the internet. In case someone else (or me) asks this question later, I wanted to write up my solution for reference. This post goes over how to access and manipulate the right y-axis labels on a [seaborn FacetGrid](https://seaborn.pydata.org/generated/seaborn.FacetGrid.html) plot which was made with `margin_titles = True`.

@@ -5,6 +5,7 @@ date: 2018-04-03
 tags:
     - coding
     - aws
+    - portfolio
 ---
 
 Like I've written about [before](/posts/2018/02/aws-data-sharing), we use our lab's AWS account to share data with collaborators.
