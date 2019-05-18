@@ -4,6 +4,114 @@ permalink: /travel/
 author_profile: true
 ---
 
+## May 8
+
+Ah, today was such a great success it totally makes up for yesterday! Woke up early and packed up camp quickly to head to Arches ASAP in order to avoid any potential for parking woes (again, blown away that _parking_ is the limiting factor in experiencing nature). In exchange for the early wake up, I treated myself to _real_ coffee from a drive-thru coffee place in Moab on the way to the park.
+
+2019-05-08_drive_thru_wicked_coffee.png
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+Entered the park _before 9 am_ and got to the trailhead around 9:20 am. Whoa!! I was recommended the primitive trail by my couple friends from the slot canyons, who said then "oh yeah if you like this you should just do that trail." And they were right: it was a super fun trail! It goes by seven different arches and includes some scrambling over rocks and walking high on top of fins and just generally hanging out away from the crowds and well in nature. Very fun, but also very tiring because I have hiked a lot in the past week and also decided not to bring lunch on this hike so ended up quite hungry.
+
+<img seven arches, backcountry, etc>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+After glorious avocado toast in the picnic area, I headed into town to work for a bit and find my next camp. I finalized the data upload for the aspiration paper - my [first ever SRA submission](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA450850) d'awwww! As someone who has downloaded _many_ datasets from the SRA, this feels like a big deal to me -- finally _contributing_ data that others can use!! :D Then, I took the scenic route along the Colorado to my campsite in the Rabbit Valley recreation area right by the Colorado border (rather than risking very cold weather by going any farther...). And! The _first_ campground I went to had an open site! Even better: I was able to park in a way that I can sleep in my car (it's so windy. I hate camping in my tent in the wind so. much.). Oh and I made the same dinner as last night (leftover beans with scrambled eggs), but this time I didn't mess the eggs up and it was _delicous_. All in all a great day.
+
+<img camp>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+## May 7
+
+Oof, what a rollercoaster of a day!! I started with a slow breakfast in my "camp," where I was trying to eavesdrop on my neighbor ranting about someone (a man) treating a woman (I'm assuming his daughter?) poorly and unprofessionally. I was struck by a realization that, as far as I know, I've mostly met liberals while traveling -- even the old, white couples with thick Southern accents who you might expect would be more conservative. Granted, most of the people I've chatted with have tended to be from Seattle or Colorado, or other liberal-leaning places like that, but still: I wonder how many of the senior RV-ers that live off of public lands and enjoy National Parks like it's their job are conservative. I guess I'll have to send my parents on a data-gathering mission once they buy their RV and join that life!
+
+I'd been recommended the Little Wild Horse slot canyon by the man at the visitor center and two women I chatted with at the top of Cassidy Arch, so that was my plan for the morning. (Some background for the story that follows: flash floods are deadly in slot canyons. They come fast, and you have nowhere to go. Yesterday in Capitol Reef a woman told me a story of getting caught in one and clinging onto the canyon wall overnight to avoid drowning. Very very scary, and nothing to mess around with. Also the BLM has signs _everywhere_ saying "your safety is YOUR responsibility!" "Do not enter if storm threatening!" etc etc)
+
+In the parking lot, I realized that it was actually a loop that went through two canyons -- sold! However, I knew there was rain in the forecast and on my way in some hikers told me there was a flash flood warning for that afternoon, so I was really booking it. About a third of the way through the loop, I crossed an older man who had started about an hour before me that morning and had come from the other way. When I asked him about the weather, he responded skeptically with a worried look up at the sky and two comments along the lines of "those clouds are gathering up" and "I'm booking it." I decided I'd continue for a bit, but after about five minutes of walking along a wash and looking up at the sky where the clouds were indeed gathering, I decided that yet another hike through a cool canyon was _not_ worth any risk to my life. So I turned around and, with a worried eye to the sky, also started booking it back. I ended up crossing that man too, and we chatted most of our way out of the canyon. By the time we got out, the sky behind us had darkened significantly, and we were genuinely worried for the two families that had seemed reluctant to gtfo of there. Moral of the story: always trust the man with the incredible calves booking it out of the slot canyon. Other moral of the story: see, loved ones?! - I _do_ make safe choices when I'm traveling alone!! :P
+
+<img of the canyon, of the scary face with clouds, of how dark it was at the end>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+Since that hike ended up being a few hours shorter than I'd planned, I decided to head to Canyonlands and see what there was to see. On the way, I stopped to fill up the tire that had started to look a little flat after all the dirt roads in Grand Escalante. But the gast station didn't have a pressure metere I didn't think to check if I had one, so I just filled it by eye. Bad idea. A few minutes onto the highway, and my tire indicator light started blinking and then stayed lit. I pulled into a rest stop a few miles later and remembered that my dad had a pressure gauge in the glove compartment. As I expected, I had _way_ overinflated the tire. So I sat in the rest area slowly letting air out until it got back to the right pressure -- but alas, the indicator light was still blinking! Thankfully I had service, so I called a random garage in Moab and told them my problem. The nice man on the line reminded me what the manual had said, which is that Subarus reset the indicator after getting up to a certain speed. So I did a lap around the rest area and -- HALLELUJAH -- the light turned off! _SHEW_ Moral of the story: thanks, dad, for your preparedness and thanks, nice man at Crump Reese Chevy for your help.
+
+<did i take a photo of the tire debacle?>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+After that short and terrifying detour, I continued on to Canyonlands. By the time I got there, I realized I was pretty pooped and decided just to do a short ~1 mile hike out to a viewpoint of the Colorado and Green River. Such great memories from last summer's canoe trips, and I can confirm that canoeing along the Green River for 10 days is almost certainly a way better experience than hiking around the park. Seems like it'd be super hot and pretty monotonous on land, which was sort of the case in canoes but also with beer and immediate heat relief by jumping into the river. :D
+
+<turk's head>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+After my lazy "hike," I headed into Moab to try to find a campsite. I knew it'd be tough to find one, but I hadn't actually gone all the way to identify specific sites and Plans B, C, D, and E. I headed to a bunch of BLM campgrounds along the Colorado river, but they were all full. Then I looked at the BLM map some more and went to Sand Flats above Moab, thinking that large campground might have space. No go. I thought "maybe I'll just stay in an RV," called a couple of places, looked up the prices and realized it'd probably be over forty bucks just for a campsite -- LAME. I'm too stubborn for that shit. So I kept doing a mix of googling and looking at my BLM map and as a sort of Hail Mary headed south of Moab to Ken's Lake campground -- where I found a campsite!! $20 for a site where I had to set up my tent (the parking spot was too crooked), which wasn't great because it ended up raining and being windy. But better than continuing to go in circles around Moab for hours looking for a place to stay! Still went to bed pretty grumpy though, partially because I'd been super hangry for a few hours, the dinner I made wasn't that good, and I knew I was gonna have to wake up super early the next day...
+
+<img ken's lake camp>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+## May 6
+
+As much as I wanted to stay longer, I had to keep moving. Today, I headed up to Capitol Reef National Park via the Scenic Byway 12, which is an amazing road that cuts through incredibly rugged terrain and has a couple of really vertigo-inducing spots. There was a short stretch where it seems like they just piled a bunch of sand and rocks up to the elevation needed to bridge two peaks, and the road is just at the tip of that pile, with steep dropoffs on both sides. It's true that I can imagine this landscape being incredibly difficult to get through back in the pioneer days -- unexpected canyons, no shade, blistering heat, no water. But as a traveller it just makes me dream of un-trailed scrambling and adventure. Again, I want to come back here some day and stay on some of the BLM roads off of the 12, and see what there is to see.
+
+<img of the road>
+
+Right before the turn toward Capitol Reef, I stopped at the visitor center for what might be the most informative conversation I've had yet: I told the guy how many days I had and what kind of camping I was looking for, and he basically made my itinerary for the next few days. Also gave me more recommendations than I have time for, so hopefully I make in time to Denver to pick Ben up! :P I made it to Capitol Reef around midday, and after some lunch where I chatted up a group of people traveling with a Sierra Club organized outing, I headed to do the Grand Wash trail. This trail was okay, just flat along a river bed. If I hadn't just come from my favorite spot, maybe it would have been better but today it was mostly meh.
+
+<grand wash trail>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+I then headed up to Cassidy Arch, which was actually pretty cool. Took me a bit to realize that you don't actually get under the arch, you're looking from above into it. But once you're up there on those rocks, you can just wander all over without a trail and getting quite close to some very tall dropoffs!
+
+<eek img from top of cassidy arch>
+<img src="/images/2019/road-trip/2019-05-03_bryce_camp_2.jpg" width="80%">
+
+
+Even though I only spent a few hours here, this is actually not a place I'm super keen to come back to. I think it's a strange mix of all the different landscapes I've seen in this region, including canyons and dry washes and arches, but so none of them individually are that striking. The cliffs are really amazing, and I was blown away by some of the desert landscape on the road out of the park. So there is definitely still some exploring to do! I had actually been recommended Cedar Falls trail and rec area, which was on the way to Capitol Reef, multiple times, but decided to skip it in favor of Capitol Reef because I only had time for one of them. I do regret not doing that hike, but I also think that if I had done the hike and skipped here I would have regretted that also. So all in all, glad with my decision!
+
+<another capitol reef image>
+
+A bit of a drive more and now I'm camping at a "developed BLM campground" near Goblin Valley State Park. I put the "developed BLM campground" in quotes because it's basically just a large parking lot with two bathrooms. But hey, I wanted a bathroom nearby and it's too windy to set up a tent anyway so I'm good!
+
+Also, the Capitol Reef area was apparently a Mormon pioneer settlement where thye grew fruit trees, and there's still a couple of orchards there. Which means there was also a store that sold apple pie, which I obviously bought and got to enjoy with dinner!
+
+<img pie!>
+
+<camp near goblin valley>
+
+## May 5
+
+**Grand Staircase Escalante National Monument**
+
+Oh my gosh today was so fun I want to come back and spend so much longer here!!
+
+<img of the landscape>
+
+The main plan for the day was to go to the Dry Forks trailhead to hike three slot canyons right next to each other. I started with Spooky Gulch, which gets suuuuper tight and went all the way to a small opening where you can imagine a spiral waterfall going during rain or floods. Apparently there's a loop you can take that goes down this spiral which starts from the other canyon, Peek-a-boo. That was my next stop so I decided I would try the loop. Oh, I also had fun chatting with a group of French people at this canyon - slot canyons are a good way to make friends, it turns out!
+
+<img spooky>
+
+But - Peek-a-boo requires a 12 foot climb to get up into it. When I'd walked past it in the morning to get to Spooky, there was a large group but now I was alone. I couldn't quite figure out the right way, and I was a bit scared to fall and twist my ankle, so I decided to camp out and have lunch while I waited to see if anyone else came by and showed me how they did it. An old man ended up coming by, and he'd heard there was a trail that went around the canyon such that you could drop in from the top/end of it. "I've only got one life" was his response when I asked if he wanted to at least try the climb, and so around we went. We found a way down into the canyon and walked back to the entrance. Such a cool canyon, with twists and turns and amazing formations. I can only imagine how awesome of a water park this would be if we were like 6 inches tall. When we got back to the entrance, there was a whole gaggle of people coming up, including kids and dogs. Ouch.
+
+<img peek a boo>
+
+Then I went off to the third canyon, which is the first one that most people do. I was at first unimpressed - Spooky was awesome and then Peek-a-boo really blew (or should I say ... bloo?) it out of the water, and this one was pretty wide and easy to hike through so I was like meh. But it got interesting, with a couple of water hops required and some narrower parts. So I decided: still really awesome, though in a different way than the other two. Here on this hike, I started chatting with a couple that were also hiking through. They were fun so I stuck with them the whole canyon (also, remember - there isn't really anywhere to go in a slot canyon...). I ended up re-doing Peek-a-boo with them as well, partially because I wanted to prove to myself that I could actually get up and partially because it was a lot of fun. As a side note: it's interesting how differently I behave when I'm hiking with others than when I'm alone. I definitely take more risks and am less scared of, for example, climbing things. Anyway, the canyon was just as fun the second time around, and the couple gave me a ride back to the first parking lot where I'd left the car (rather than risk a high-clearance road, see dad I'm being responsible!)
+
+<img peek a boo 2>
+
+There was still daylight left and I was planning to stay in the monument again, so I continued down the dirt road to see if I could find any other short hikes. I had a few brief minutes of data at the trailhead and was able to get a hint that Willow Gulch might have some nice stuff in a short distance, so I headed there. I hiked down for about half an hour and then back up, and it was so amazing. It mostly follows a riverbed, but there was a bit of canyon, a bit of slick rocks, a bit of river bed with trees, basically a bit of everything. There's apparently an arch two miles into the trail, and also I think a lot of people do a longer loop overnight or for a few nights. It was super beautiful and I can only imagine staying longer and doing the whole trail. Gotta come back!!
+
+<img willow gulch>
+
+In general, actually, this area has been my favorite so far I think. It's just so easy to imagine spending a couple of weeks here, doing a handful of overnight trips or spending a day playing around the Devil's Gardens, or even just hanging out at your campsite and exploring the surroundings. I'd want to come back with someone, and also preferably a dog. I also think this area would be _really_ fun to come with younger kids -- lots of opportunity for them to scramble and run around, without too too much danger of death and very few other people for them to bother. Noted!
+
+<img escalante campsite night 2>
+
 ## May 4
 
 **Bryce Canyon --> Grand Staircase Escalante National Monument**
