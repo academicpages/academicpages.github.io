@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computer Science and Engineering. The University of California, San Diego, 2021 (expected)
+* BS in Agricultural Economics. The University of California, Berkeley, 2013
 
 Work experience
 ======
