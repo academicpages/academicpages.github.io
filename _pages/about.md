@@ -21,7 +21,7 @@ I also study Ph.D on <a href="http://ies.fsv.cuni.cz/" target="_blank">Institute
 
 Research
 ======
-I am passionate about data processing. I scrape the data from the internet, process it and in the end create an interactive web-based visualization. I work with Python, Javascript, D3, PostgreSQL and other technologies.
+I am passionate about data processing. I scrape the data from the internet, process it and in the end create an interactive web-based visualization. I work with Python, Javascript, D3, PostgreSQL and cloud technologies in AWS (EC2, Lambda, RDS).
 
 Topics
 -----
