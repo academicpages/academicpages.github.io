@@ -32,6 +32,10 @@ Topics
 Technology Transfer
 
 
-Other projects
+Teaching
 -----
+Data Processing in Python
+
+European Economic Integration
+
 
