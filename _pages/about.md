@@ -27,7 +27,7 @@ Topics
 -----
 <a href="https://idea.cerge-ei.cz/files/PredatoriMistni/" target="_blank">Predatory Journals</a>
 
-Globalization in Science
+(Globalization in Science)[http://www.globalizationofscience.com/]
 
 Technology Transfer
 
