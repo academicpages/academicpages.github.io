@@ -4,6 +4,175 @@ permalink: /travel/
 author_profile: true
 ---
 
+## May 24
+
+**Boise, ID --> Catnip Reservoir, NV**
+
+Woke up to wonderful 60 degree weather, had breakfast outside without even being cold, and then headed into Boise to run some errands.
+
+<img breakfast>
+
+Ended up leaving Boise/Nampa around 3:30 pm, after which it was just a long drie to Catnip Reservoir where I'm meeting Janyne and her crew. Got here just in time for an amazing sunset, and now I'm killing time waiting for them to get here so I can make them tacos for dinner. Friendship!
+
+<img sunset>
+
+<img camp catnip reservoir>
+
+## May 23
+
+**Grand Teton National Park, WY --> Boise, ID**
+
+I let myself sleep in a bit, made breakfast (which I hadn't done in a while because it's been cold or bison-y!), and then headed out. The plan is to meet Janyne and her friends in Nevada on Friday night, so I was hoping to get at least half of the way there today. I drove through Grand Tetons National Park and was pretty bummed that it was foggy. Still, though, the mountains look amazing. I wanna get all up in those Tetons -- I wasn't 100% convinced that this area is somewhere I need to come back to, but now that I've added hiking through this park to the list it definitely makes the bucket list.
+
+<grand tetons>
+
+After going through Jackson Hole and going over a couple of mountain passes, I arrived at a town just inside the Idaho border and saw a sign for a brewery. _screech_ I turned into the place, and got some six packs of Grand Teton brewing beer. I also grabbed lunch, because I was starting to get quite hungry but really couldn't bring myself to have yet another avocado or dried sausage sandwich. After that, made it to the BLM office in Idaho Falls just before closing only to get the same not-super-useful maps I'd found online. I decided to skip Twin Falls and just go straight to Boise, since I'd get to Shoshone Falls too late to visit but I still had a good three to fours hours of driving in me.
+
+Idaho is another state I don't think about often (though I do think about it more often than Nebraska or Arkansas, thanks to potatoes). It's also not a state I'm particularly struck by, even though some of my friends told me I'd be surprised by it. Idaho Falls was a super weird town, with mostly farm equipment and truck dealerships in a sprawly suburban area. In general, it's the most farming state I've driven through so far -- even in the "suburbs", the residential areas are punctuated by farm fields.
+
+Found a campsite on the side of the road near the Swan Falls dam, where there were other primitive campsites but down a canyon and without cell service. Talked to Ben for a bit, had another in-car dinner to hide from the rain, drank some of my Grand Teton beer, and went to sleep to gear up for another long day of driving.
+
+<snake river canyon camp>
+
+## May 22
+
+**Yellowstone National Park --> Grand Teton National Park, WY**
+
+Woke up to OMG BISON IN THE CAMPGROUND TWO CAMPSITES OVER!!!
+
+<img of bison>
+
+Decided to procure coffee and hot water for my oatmeal at the nearby hotel, given the wandering wildlife. I decided not to attempt any hikes today because of time and bears, so then I was off for my drive through Yellowstone to see some geysers! But first: bears.
+
+<img black bear>
+
+I saw three on the first part of my drive! An interesting side note: we watch animals, but I bet animals would also have fun watching us. There's a strange carmaraderie in wildlife spotting. And there's also a strange sense of checkboxing -- I talked to one foreign man when I was pulled over looking at a very far away bear, who when he learned it was a black bear kind of shrugged it off as uninteresting because he had just seen one ten minutes ago. lulz.
+
+I was hoping to make it back to service-land in time for Ashvin's defense, but that plan failed miserably -- I had barely gotten _to_ the cell service dead spot around the time it started. So I gave up on "making time" and instead just enjoyed the hot springs and geysers. There are so many. Have I mentioned yet how amazing it is that the earth is so visibly active here?!
+
+<img geysers, norris basin probs>
+
+Made my way down to the spot I was most excited about: Grand Prismatic Spring. Even though I haven't taken any actual microbiology classes (jk I've taken one), I know that this spring is super famous because it's the cover of basically every microbiology textbook. It was amazing to see in real life. So many colors, just. So amazing.
+
+<img grand prismatic>
+
+And then for more amazing, I headed to Old Faithful. After an _amazing_ huckleberry ice cream float, I headed to the viewing area. I lucked out on my timing, because the next eruption was only in twenty minutes or so (Old Faithful erupts every ~90 minutes). I waited around, make some jokes with the people around me about whether or not it was gonna go off, persevered through the weird snow-hail storm (little balls of snow, like hail but still definitely just smnow), a few false alarms, and then... it erupted. Wow. I actually found myself tearing up, in a way that I haven't ever experienced before. I think it was the combination of relief that I hadn't been waiting in the cold for nothing and that Old Faithful really delivered, and just awe at the majestic power of the Earth right in front of me. I've rarely felt so connected to and aware of all the commotion that's happening beneath our feet, and so witnessing a hole that goes directly to it communicate back and forth is just awe-some.
+
+<imgs of old faithful erupting>
+
+Then I went for a short jaunt across the nearby geyser basin, which is one of the largest concentrations of geysers in the world. SO MANY. So cool. And then I came back, killed a bit of time trying to figure out my camping plan (it was past 7 pm at this time, I had expected to be out of the park by early evening oops), and then headed to watch Old Faithful erupt again. It was actually way less whelming, which is good to know -- next time I come, I'll make sure to plan time to see at least two or three eruptions just to make sure we get a good one.
+
+<img geysers>
+
+Luckily, there aren't too many stops or overlooks between Old Faithful and the southern end of the park, so I was able to make good time to get to the national forest just outside of Grand Teton National Park for the night.
+
+<img turpin meadow>
+
+## May 21
+
+**Thermopolis, WY --> Yellowstone National Park, WY**
+
+Woke up to some earnest rain, grabbed some coffee in Thermopolis and ate a banana in the car, and headed straight to Cody, WY -- about an hour and a half from Thermopolis and about an hour from the East entrance to Yellowstone. Went to a coffee shop for coffee, catch up phone call with Nathaniel, and internet to figure out my camping plans for tonight. The coffee shop was super lovely, everyone seemed to know each other, and it seems to employ a large proportion of the college-aged women who wear hip hats in the town.
+
+Got hit by a bit of the blues, I think partially due to the gray skies and partially to homesickness. So I decided to get a move on and started driving to Yellowstone. (Side note: there's a state park _right before_ Yellowstone. Poor park, I bet no one ever goes to it lulz)
+
+I drove through a ~10000 foot elevation pass going into the park, and it was rain turning to rain-and-snow turning to pretty hard snow. And through it I thought: wow this weather is absolute trash. And I'm _still_ happy I'm here -- it's that beautiful, wow.
+
+Some other Yellowstone thoughts for you:
+
+- AHH THIS WATER IS BUBBLING UP FROM THE CENTER OF THE EARTH WHAT IS HAPPENING
+- Holy shit we are all going to die when this whole place erupts.
+- Did you know Yellowstone has an ocean in the middle of it?! (It's actually a lake, but it's _so big_ I had no idea!)
+- OMG BISON
+- Meh bison.
+- OMG BISON IN THE TOWN!
+- zomg BACTERIA! They're so amazing they can do anything.
+- Here microbes are centered in all the informational signs -- I'm so happy for them!
+
+On my drive in I stopped to see the Mud Volcano area, which had crazy bubbling muddy springs coming up and steaming and spewing. SO COOL. There was also the most acidic spring in the park nearby, which was cool to see from a distance.
+
+<img muddy spring>
+
+All the signs tell you not to walk on the ground because you never know when it's going to boil and swallow you up, and the hikes are mostly on elevated boardwalks. So funny to me to think that the ground is unsafe to walk on, when it looks just like normal dirt... Anyway, I made it to the visitor center right around 5 pm, and headed to Mammoth in the very north of the park to hopefully find a campsite. I rocked up and snagged _the last site_ SHEW! By this point the weather had cleared significantly, and since I still had some daylight left I went to see the terrace springs. SO COOL.
+
+<img of springs>
+
+Tomorrow I'll be hitting all the lookouts, eyeing some geysers, and hopefully seeing some animals before heading south to meet up with Janyne and co in Nevada for the weekend.
+
+<img camp>
+
+## May 20
+
+**Black Hills Forest (Sundance, WY) --> Devil's Tower --> Thermopolis, WY**
+
+After making breakfast on my snow-covered picnic table, I headed off to check out Devil's Tower, which a couple had recommended to me but is apparently quite famous (and was the first national monument, even before Yellowstone! I'd seen pictures but wow -- seeing it in person was something else. It really does look like it's coming from the depths of hell. Did the short and easy hike around the bottom, and decided to move along since the fog was moving in.
+
+After a lot of back-and-forthing, I decided to stick with my original plan from yesterday of heading to Thermopolis, WY for some hot springs before braving the disgustingly cold and wet weather awaiting me at Yellowstone. Listened to a heart-wrenching episode of Ear Hustle talking about one Cambodian prisoner's story (which is basically every Cambodian prisoner's story in the US...) Got some pretty intense fog for a while (at least an hour), which then unexpectedly cleared up to a jaw-dropping view of the snow-covered forested mountains:
+
+<img fog then of the view>
+
+Kept driving a bit and the scenery changed to stunning forested cliffs -- what?! This was in the Southwestern part of Little Big Horn forest, gotta come back and explore! Pretty sure this is my favorite drive so far, though maybe it was also partially because I was so glad to be out of the fog and definitely only expecting rain and snow from here until I got to Nevada.
+
+<img canyon>
+
+Kept going even more, and then the scenery changed to rolling green jaggedy hills. I think if I had to give Wyoming an advertising slogan, it'd be something like: "Just like Utah, now comes in green!" :P
+
+Got to Thermopolis and checked out the Hot Springs State Park, which was super weird and underwhelming. A boardwalk that goes around some steaming hot pools, a free state-run bathhouse (that was closed by the time I got there), a handful of not-free bathhouses and pools, and a pedestrian suspension bridge. The formations leading from the pools to the river were pretty cool, though -- I'll give it that.
+
+<img hot springs state park>
+
+Headed off to my RV park, which I'd selected because when I asked the lady if they had some sort of common space or other indoor place to stay warm, she said "no, but we have a mineral pool!" Spent quite a while soaking in the hot springs-fueled mineral pooled and chatting up a couple, then made a late dinner and am now catching up on the blog sitting _outside of my car_ because the weather is 50 degrees!! Yeah, definitely glad my back-and-forth led me to keep to this plan...
+
+<thermopolis RV Park>
+
+## May 19
+
+**Badlands National Park, SD --> Black Hills Forest (Sundance, WY)**
+
+Woke up safe and sound from the rain and snow of the night before, had breakfast in the comfort of my car, and turned on the air conditioner a bit to get a head start on de-fogging the windshield (ominous music starts playing). Packed up the car, excited to get an early start to get to a coffee shop the next town over to call Kunal from a warm spot. But. The car wouldn't start. (ominous music crescendos). Luckily, I'd parked very close to the main road so I grabbed the jumper cables (thanks again, dad) and flagged down the first car that came by -- another Subaru! Made sure they had all-wheel drive, watched them struggle through the dirt part to get off of the road, and chatted them up as we got the juices flowing between our batteries. They were a dad and a daughter road tripping and testing out her new car -- glad I gave them an excuse to try the all wheel drive! ;) Tried to jump start the car, it worked! But then. (Ominous music peaks). Check engine light is on. Oh no.
+
+I'd planned to get to the Black Hills pretty early so that I could wander through the scenic drives and maybe get a hike in. Instead, I headed straight to the nearest "big city" to find some help for my car. I didn't realize how compartmentalized car care is -- I went to the Walmart first but they said they don't do that. Turns out auto parts stores can diagnose the cause of your check engine light, which seems weird to me. But anyway, I went to the AutoZone and got a weird non-informative error message. The very nice man helping me ended up just resetting the computer and telling me "if it lights up again, you're definitely screwed." (In different words, obviously). Wild to me that that's our state of the art technology. I wonder if self-driving cars will be able to do better than have _one light_ that indicates _any and all potential problems_. I was pretty stressed out not knowing what was going on for my hour and a half drive to Rapid City...
+
+Anyway, called Kunal and got some clarity and perspective on my job situation, and then headed off to the forest. The sense of relief in my body was tangible, it was amazing. The Black Hills are also amazing -- so beautiful! I would love to come back here and play for much longer, preferably when the temperature is above freezing. I stopped by Crazy Horse Memorial, which seemed like a total scam at first but after the movie made me conclude that it's almost certainly not a scam, but it does center the white sculptor way more than makes me comfortable.
+
+<img crazy horse>
+
+At this point it was pretty late, so I just headed to my campsite in the part of the Black Hills near Devil's tomorrow, where I'm going tomorrow. Obviously, though, I took the scenic routes!
+
+<img black hills drive>
+
+Got to my campsite near Sundance, WY, which was super lovely and was just below the cloud line so I could see a beautiful landscape of rolling hills and cows. Made a delicious cheesy scrambled eggs for dinner, and even had time and temperature fortitude to make tea!!
+
+<img tea>
+
+Unfortunately, by the morning the fog had rolled in and you couldn't see any of the beautiful view anymore. So this is the camp photo you get for this one:
+
+<img sundance camp>
+
+## May 18
+
+**Badlands National Park**
+
+Started the day with avocado at my cold, wet campsite and coffee in the warm, comfy lodge. Luckily the rain from last night had stopped and the day was pretty clear, though still quite gray. I headed to the Saddle Pass trail, which I had driven by yesterday and which made me really want to scramble all over the badlands formations. Which I did! Lots of slippery clay on the way up, but then amazing views of the Badlands, a fun hike through the prairie and back through some more fun rock/dirt formations, and then back down the now-dried-up trail. These formations are really interesting because they're mostly made of sediment and silt, so they're mostly clay but also the size of large stone mountains. Pretty wonky.
+
+<img saddle pass trail and prairie hike>
+
+I headed to another trail that AllTrails recommended, Notch Trail. At this point it was getting colder and windier, and I was pretty pooped. But! This is likely the nicest weather I'm going to have for the next week, and probably my last change to actually hike, so I got off my lazy butt and went off. Notch trail was cool, after climbing up into the "valley" it was cool to just wander through the formation until I found a cool spot.
+
+<selfie from notch trail>
+
+Came back to the trailhead, kept wandering a bit, and found another trail which seemed super lame from the description (a short boardwalk) but was actually really cool, going into the desert area where the Badlands really are bad. This park is funny, though -- all of the hikes are super short and are estimated to take at least _twice_ as long as they actually take. Like this last hike had lots of warnings about being extremely strenuous, but as far as I'm concerned it was basically flat! I guess things are dramatically different in the summer when it's boiling hot...?
+
+<img of door trail desert -- the one the other people took of me>
+
+After this hike, it really was starting to rain so I called it a day. The plan was to drive through the park, stop at the farthest picnic area to make dinner and prepare hot water for tea, and then camp at the primitive campsite the ranger had recommended. I got to the picnic area but it was way too windy and  miserable to attempt to cook so I kept going. I found the road which the ranger had recommended, and which he had told me was a gravel road. Narrator: it was not a gravel road. (Second narrator, with the benefit of additional information: it may in fact have been a gravel road if she had just continued to the other outlet just a small distance away.) In fact, it was a _very muddy_ road which I slipped and slided through all the way to the top, where a few other cars were camping. It was pretty scary though, I had very little control over the car because the tires are coated in the clay mud, and at the top the road turns and goes parallel to a canyon dropoff like 15 feet away. Since it's going to keep raining all night, I decided to give up on this site and head back down now before things got worse. Drove as much as I could on grass, slipped and slided my way back out, and got back to the main road _incredibly_ grateful for my dad's car's fancy all-wheel drive (X-mode woo!)
+
+<img dirt road/dirt tires>
+
+I drove another half mile to the next forest service road which was nice and flat, and pulled over less than 100 feet from the highway. I hope it doesn't rain so much that the car gets stuck in the ground, though we'll see tomorrow morning...
+
+<img camp>
+
 ## May 17
 
 **Fort Robinson State Park, NE --> Badlands National Park, SD**
