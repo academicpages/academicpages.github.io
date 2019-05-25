@@ -8,7 +8,7 @@ author_profile: true
 
 ### Publications
 
-* "Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal.  Accepted at the *Review of Economics and Statistics*.
+* "Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia" ([pre-print](https://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00823)) with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal.  Accepted at the *Review of Economics and Statistics*.
     * ([older NBER Working Paper](https://www.nber.org/papers/w21414))
 
 * "[Land-Use Regulations, Property Values, and Rents: Decomposing the Effects of the California Coastal Act](https://www.sciencedirect.com/science/article/pii/S0094119018300421)" with [Andrew Plantinga][aplantinga]. *Journal of Urban Economics* 107 (2018): 65-78.
