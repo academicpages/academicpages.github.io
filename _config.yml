@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Personal Info"
   avatar           : "wxjiao.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Jiao Wenxiang is currently a 2nd year PhD student of the Chinese University of Hong Kong, majoring Computer Science and Engnieering."
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "rhttps://twitter.com/JiaoWenxiang"
+  twitter          : "https://twitter.com/JiaoWenxiang"
   vine             :
   weibo            :
   xing             :
