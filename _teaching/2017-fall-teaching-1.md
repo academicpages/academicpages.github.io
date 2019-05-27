@@ -1,5 +1,5 @@
 ---
-title: "CSCI3100"
+title: "CSCI3100 Software Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-1
