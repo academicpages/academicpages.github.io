@@ -1,5 +1,5 @@
 ---
-title: "CSCI2720"
+title: "CSCI2720 Building Web Applications"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2018-spring-teaching-2
