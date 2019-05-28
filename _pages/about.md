@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 Hello! I recently graduated from the University of Pennsylvania where I received my B.A. in Physics. This Fall, I will be starting my Ph.D. in Astronomy & Astrophysics at the University of Chicago. Welcome to my website!
+
