@@ -22,3 +22,9 @@ Teaching
 * PHYS 102 (50 people), Spring 2018
 * PHYS 101 Lab (15 people), Fall 2017
 
+Awards
+======
+* Elaine K. Bernstein Women in Science Award, University of Chicago (2019)
+* University Scholar Research Grant, University of Pennsylvania (2016-2018)
+* NASA Pennsylvania Space Grant Undergraduate Scholarship (2018)
+
