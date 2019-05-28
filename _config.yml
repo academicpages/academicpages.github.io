@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abigail Lee"
 title_separator          : "-"
 name                     : &name "Abigail (Abby) Lee"
-description              : &description "I am a current senior at the University of Pennsylvania studying Physics. You can contact me at: abiglee_at_sas.upenn.edu."
+description              : &description "Student at the University of Pennsylvania."
 url                      : "https://abiglee7.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abiglee7/abiglee7.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Abigail Lee"
+  avatar           : "Abby_Team-20.jpg"
+  bio              : "I am a current senior at the University of Pennsylvania studying Physics. You can contact me at: abiglee_at_sas.upenn.edu."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "abiglee7"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
