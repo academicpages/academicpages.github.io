@@ -1,7 +1,7 @@
 ---
 title: 'Fitting a line to data with X and Y errors'
 date: 2018-08-14
-permalink: /posts/2012/08/2d-errors/
+permalink: /posts/2018/08/2d-errors/
 tags:
   - notebooks
   - bayesian inference
