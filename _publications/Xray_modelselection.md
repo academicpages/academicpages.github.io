@@ -3,7 +3,7 @@ title: "X-ray afterglows of short gamma-ray bursts: Magnetar or fireball?"
 collection: publications
 permalink: /publication/X-ray model selection
 excerpt: 'Using Bayesian model selection to select between the magnetar and fireball models for two short gamma-ray bursts'
-date: 2018-09-25
+date: 2019-02-15
 venue: 'ApJ'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2019ApJ...872..114S/abstract'
 citation: 'Sarin et al. (2019)'
