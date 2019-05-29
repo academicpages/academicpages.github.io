@@ -4,9 +4,6 @@ title: ""
 excerpt: ""
 author_profile: true
 permalink: /research/
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 ## Research
