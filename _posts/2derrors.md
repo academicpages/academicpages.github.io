@@ -1,0 +1,18 @@
+---
+title: 'Fitting a line to data with X and Y errors'
+date: 2018-08-14
+permalink: /posts/2012/08/2d-errors/
+tags:
+  - notebooks
+  - bayesian inference
+---
+
+I wrote this post as a reference for myself and anyone else looking to determine how to fit a model to data with both x and y uncertainties.
+Commonly, in Astrophysics even when fitting data with Bayesian inference, X errors are commonly ignored and only y errors are included. This can lead to a significant underestimation of model uncertainty.
+
+Jupyter notebook to run through the problem [here](https://github.com/nikhil-sarin/2Derrors/blob/master/fitting_with_x_and_y_errors.ipynb)
+======
+
+======
+
+------

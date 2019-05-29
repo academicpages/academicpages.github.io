@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to CV in up-to-date CV in [PDF](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
+[Click here for my up-to-date CV in [PDF]](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
 
 Education
 ======
-* Bachelor of Science(Honours). Major in Astrophysics and Geology, Honours (1st class) in Astrophysics, Monash University, 2013-2017
+* Bachelor of Science. Major in Astrophysics and Geology, Honours (1st class) in Astrophysics, Monash University, 2013-2017
 * PhD in Astrophysics, Monash University, 2018-2021(expected)
 
 Work experience
 ======
-* Feb 2017 - Current: Teaching Assistant/Tutor
-  * Monash University
+* Monash University: Feb 2017 - Current
+  * Teaching Assistant/Tutor
 
 Skills
 ======
