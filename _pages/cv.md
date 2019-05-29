@@ -40,7 +40,6 @@ Awards
 * J.L Williams Honours scholarship, 2017
 
 Publications
-Listed below are only publications for which I have made significant contributions.  I am an author on numerous other publications as a member of the LIGO Scientific Collaboration
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -51,9 +50,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
