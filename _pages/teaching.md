@@ -10,6 +10,8 @@ author_profile: true
 ## Teaching
 &nbsp;
 
+<br/><br/>
+
 Class  |Semester |Department |Role 
 ---------|:---------|---------|----
  Probabilistic Machine Learning |Spring 2019 |Statistical Science | *Teaching Assistant*
