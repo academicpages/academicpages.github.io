@@ -36,7 +36,7 @@ Awards
 ======
 * ASA Conference - Runner-up in best student talk competition at the Annual Astronomical Society of Australia (ASA) meeting 2018.
 * Australian Research Council Research Training Scheme - PhD Scholarship 2018-2021
-* MoCa Prize - Best astrophysics honours student at Monash, 2017
+* MoCA Prize - Best astrophysics honours student at Monash, 2017
 * J.L Williams Honours scholarship, 2017
 
 Publications
