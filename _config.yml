@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikhil Sarin"
-  avatar           : "Photo.png"
+  avatar           : "photo.jpg"
   bio              : "PhD student working on gamma-ray bursts and gravitational waves"
   location         : "Monash University, Melbourne"
   employer         :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nikhil-sarin"
+  github           : "https://github.com/nikhil-sarin/nikhil-sarin.github.io"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : "https://orcid.org/0000-0003-2700-1030"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
