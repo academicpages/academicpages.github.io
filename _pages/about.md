@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<p align="left">
-  <img src="https://github.com/peterbhase/peterbhase.github.io/blob/master/images/s2.jpg" alt="Photo" style="width: 450px;"/> 
+<p align="center">
+  <img src="https://github.com/peterbhase/peterbhase.github.io/blob/master/images/s2.jpg" alt="Photo" style="width: 300px;"/> 
 </p>
 
 I am an incoming PhD student in the [UNC NLP](https://nlp.unc.cs.edu) group at the University of North Carolina Chapel Hill, where I will be advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I recently graduated with a bachelor's degree from Duke University, where my research advisors were [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Sayan Mukherjee](https://sayanmuk.github.io/), and [Jeff Beck](https://www.neuro.duke.edu/research/faculty-labs/beck-lab).   
