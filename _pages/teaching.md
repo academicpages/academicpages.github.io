@@ -13,7 +13,7 @@ author_profile: true
 
 Class  |Semester |Department |Role 
 ---------|:---------|---------|----
- Probabilistic Machine Learning |Spring 2019 |Statistical Science | *Teaching Assistant*
+ Probabilistic Machine Learning (*Graduate*) |Spring 2019 |Statistical Science | *Teaching Assistant*
  Intro to AI |Spring 2019   |Computer Science | *Teaching Assistant*
  Elements of Machine Learning |Fall 2018 |Computer Science |*Teaching Assistant*
  Intro to Data Science |Spring 2018 |Statistical Science |*Teaching Assistant*
