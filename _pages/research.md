@@ -12,5 +12,5 @@ redirect_from:
 
 * John Benhardt, Tianlin Duan, *Peter Hase*, Liuyi Zhu, Cynthia Rudin. “Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation.” https://arxiv.org/abs/1811.05067
 
-* Peter Hase, Irina Cristali, Matheus Dias. “An Empirical Study of Topological Entropy for Two Dynamical Systems.” 
+*Peter Hase*, Chaofan Chen, Oscar Li, Cynthia Rudin. “Interpretable Image Recognition with Hierarchical Prototypes.”
 
