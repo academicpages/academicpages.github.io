@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for my up-to-date CV in [PDF]](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
+[Click here for full CV in PDF](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
 
 Education
 ======
@@ -34,11 +34,13 @@ Skills
 
 Awards
 ======
+* ASA Conference - Runner-up in best student talk competition at the Annual Astronomical Society of Australia (ASA) meeting 2018.
 * Australian Research Council Research Training Scheme - PhD Scholarship 2018-2021
 * MoCa Prize - Best astrophysics honours student at Monash, 2017
-* J.L Williams Honours scholarship
+* J.L Williams Honours scholarship, 2017
 
 Publications
+Listed below are only publications for which I have made significant contributions.  I am an author on numerous other publications as a member of the LIGO Scientific Collaboration
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
