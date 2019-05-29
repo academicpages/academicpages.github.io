@@ -7,4 +7,4 @@ redirect_from:
   - /personal.html
 ---
 
-things relating to my person
+
