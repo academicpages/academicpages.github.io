@@ -18,4 +18,4 @@ Class  |Semester |Department |Role
  Elements of Machine Learning |Fall 2018 |Computer Science |*Teaching Assistant*
  Intro to Data Science |Spring 2018 |Statistical Science |*Teaching Assistant*
  Regression Analysis |Fall 2017 |Statistical Science | *Teaching Assistant*
- Justice and Legitimacy (Half-credit Course) |Spring 2017 | Political Science | *Student Co-Instructor*
+ Justice and Legitimacy (Half-credit) |Spring 2017 | Political Science | *Student Co-Instructor*
