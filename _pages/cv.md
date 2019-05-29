@@ -9,28 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+[Click to CV in up-to-date CV in [PDF](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
+
 Education
 ======
-* Bachelor of Science(Honours). Major in Astrophysics and Geology, Honours in Astrophysics, Monash University, 2013-2017
+* Bachelor of Science(Honours). Major in Astrophysics and Geology, Honours (1st class) in Astrophysics, Monash University, 2013-2017
 * PhD in Astrophysics, Monash University, 2018-2021(expected)
 
 Work experience
 ======
-* Feb 2017 - Current: Teaching Assistant
+* Feb 2017 - Current: Teaching Assistant/Tutor
   * Monash University
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Latex
+* Fortran
+* Git
+* Bash
+* HTML
+* Mathematica
+* Stan
 
 Awards
 ======
-* Australian Postgraduate Award
+* Australian Research Council Research Training Scheme - PhD Scholarship 2018-2021
 * MoCa Prize - Best astrophysics honours student at Monash, 2017
 * J.L Williams Honours scholarship
 
