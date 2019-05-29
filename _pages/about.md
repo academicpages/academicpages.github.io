@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Monash University working on gamma-ray bursts and gravitational waves, supervised by Paul Lasky and Greg Ashton.
-I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, Ozgrav.
-This website is under construction.
+I am a PhD student at Monash University working on gamma-ray bursts, neutron stars and gravitational waves under the supervision of Paul Lasky and Greg Ashton.
+I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
-* December 4th: At the Annual Ozgrav retreat and ECR Workshop.
-* November 7: Bilby paper (Ashton et al. 2018) submitted. A Bayesian inference library. Code public.
-* September 25th: Submitted paper to ApJ, X-ray afterglows of short gamma-ray bursts: Magnetar or fireball? 
+* May 3: Conference proceedings of the Xiamen-Custipen workshop submitted (Lasky et al. 2019) "Neutron Star Merger Remnants: Braking Indices, Gravitational Waves, and the Equation Of State"
+* April: LIGO-Virgo Collaboration paper, "Search for Gravitational Waves from a Long-lived Remnant of the Binary Neutron Star Merger GW170817" published in ApJ.
+* April: Bilby paper published in ApJS
+* February 18-22: Attended the LIGO Parameter Estimation group face-to-face meeting at Monash. Getting infrastructure ready for O3.
+* February 4-8: Attended the annual ANITA workshop and school at Swinburne. Presented work on X-ray afterglows.
+* December 18: X-ray afterglows of short gamma-ray bursts: Magnetar or fireball? accepted in ApJ.
+* December 4: At the Annual OzGrav retreat and ECR Workshop.
+* November 7: Bilby paper (Ashton et al. 2018) submitted to ApJS.
+* September 25: Submitted paper to ApJ, X-ray afterglows of short gamma-ray bursts: Magnetar or fireball?
