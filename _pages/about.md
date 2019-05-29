@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "title?"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/peterbhase/peterbhase.github.io/blob/master/images/s2.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
