@@ -9,3 +9,6 @@ main:
   - 
     title: Contact
     url: /contact/
+  -
+    title: Research
+    url: /research/
