@@ -15,11 +15,15 @@ author_profile: false
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=LNO4XZQAAAAJ&hl=en)
 
+- "Learning to Learn via Self-Critique", A. Antoniou and A. Storkey, arXiv preprint arXiv: 1905.10295, 2019
+
+- "Assume, Augment and Learn: Unsupervised Few-Shot Meta-Learning via Random Labels and Data Augmentation", A. Antoniou and A. Storkey, arXiv preprint arXiv:1902.09884, 2019 
+
 - “Dilated DenseNets for relational reasoning” 
 A. Antoniou, A. Słowik, E. J. Crowley, and A. Storkey,
 arXiv preprint arXiv:1811.00410, 2018.
 
-- “How to train your MAML,” A. Antoniou, H. Edwards, and A. Storkey,  arXiv preprint arXiv:1810.09502, 2018.
+- “How to train your MAML,” A. Antoniou, H. Edwards, and A. Storkey,  In International Conference in Learning Representations, 2019.
 
 - “CINIC-10 is not ImageNet or CIFAR-10,” L.N. Darlow, E. J. Crowley, A. Antoniou, and A. J. Storkey, arXiv preprint arXiv:1810.03505, 2018.
 
