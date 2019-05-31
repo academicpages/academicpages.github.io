@@ -21,7 +21,7 @@ I am an incoming PhD student in the [UNC NLP](https://nlp.cs.unc.edu/) group at 
 My research interests lie in developing interpretable machine learning methods, with a focus on the domain of natural language processing. I'm also particularly interested in connections between natural language processing, reinforcement learning, and knowledge representation. 
 
 ## News
-* 2019 - Joined the [UNC NLP](https://nlp.unc.cs.edu) lab
+* 2019 - Joined the [UNC NLP](https://nlp.cs.unc.edu/) lab
 * 2019 - Graduated with a B.S. from the Department of Statistical Science at Duke University
 * 2019 - Received Highest Distinction for my thesis, Interpretable Image Recognition with Hierarchical Prototypes 
 * 2019 - Awarded the [William R. Kenan Jr. Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html) from UNC Chapel Hill
