@@ -4,11 +4,15 @@ permalink: /posts/2019/06/road-trip-stats
 date: 2019-06-03
 ---
 
-* Number of loyalty grocery cards acquired: 2
-* Number of national parks visited: TBD
-* Number of playlists listened to: 22
-* Number of albums listened to: 23
-* Number of mix CDs listened to: 10
+* Loyalty grocery cards acquired: 2
+* National parks visited: ??
+* Spotify playlists made by friends: 22
+* CD albums listened to: 23
+* Mix CDs listened to: 10
+* Phone screens cracked: 2
+* Phone screens repaired: 1
+* Bags of salt and pepper chips eaten: ??
+
 
 * ___ miles
 * ___ days on the road
