@@ -14,7 +14,7 @@ I felt pretty bummed most of the day -- after a delicious breakfast burrito I co
 
 Anyway. First stop in SF: Oakland, to see Jeremy and some other former Luce Scholars!
 
-<img oakland house>
+<img src="/images/2019/road-trip/oakland" width="80%">
 
 ## May 27-28
 
@@ -24,17 +24,17 @@ One more delicious dinner (enchilada casserole with fried egg on top omg), some 
 
 Got the grand tour of Janyne and Andrew's new house, took a much-needed shower, and then headed to Inspiration Point for the sunset.
 
-<img inspiration point>
+<img src="/images/2019/road-trip/2019-05-27_inspiration_point.jpg" width="80%">
 
 Got to sleep in a bed (!!), and woke up the next day to go join Janyne on some field work. The mosquitoes were swarming and counting plants gets boring after about forty minutes, so it wasn't the _most fun_ I've had all trip but it was really good to get a better sense of what field work in that domain is like.
 
-<img field work>
+<img src="/images/2019/road-trip/2019-05-28_field_work.jpg" width="80%">
 
-That night, there were a bunch of people randomly coming through Susanville who Janyne and Andrew had invited over: one of their friends who's a musician, another former Susanville friend also on a road trip just driving through, and a group of four seasonal workers sort of working with Andrew on BLM land. It was fun eating delicious dinner and hanging out meeting new people and exchanging stories. We had a bonfire in the backyard and her friend, Bart Budwig, played us some of his songs. Made me pretty wistful about the end of my trip, and the end of these sorts of experiences (and also how few of them there actually were on this trip...) I think also there's some wistfulness about how short this trip was -- if it had been longer, I think I would have sought out these sorts of social interactions with strangers much more. It's a different kind of trip though.
+That night, there were a bunch of people randomly coming through Susanville who Janyne and Andrew had invited over: one of their friends who's a musician, another former Susanville friend also on a road trip just driving through, and a group of four seasonal workers sort of working with Andrew at the BLM. It was fun eating delicious dinner and hanging out meeting new people and exchanging stories. We had a bonfire in the backyard and her friend, Bart Budwig, played us some of his songs. Made me pretty wistful about the end of my trip, and the end of these sorts of experiences (and also how few of them there actually were on this trip...) I think also there's some wistfulness about how short this trip was -- if it had been longer, I think I would have sought out these sorts of social interactions with strangers much more. It's a different kind of trip though.
 
-<img bonfire>
+<img src="/images/2019/road-trip/2019-05-28_susanville_bonfire.jpg" width="80%">
 
-<img susanville house>
+<img src="/images/2019/road-trip/2019-05-29_susanville_house.jpg" width="80%">
 
 ## May 25-27
 
@@ -42,17 +42,19 @@ That night, there were a bunch of people randomly coming through Susanville who 
 
 Had a lovely Memorial Day weekend in the wilderness with Janyne and her friends. On Saturday we hiked around pretty randomly, walking to places we thought looked cool -- the right way to use public lands! It's a lot more fun to do this when you're with a group of people rather than alone. I'll have to let the BLM officer from Kanab know that "there are no trails go anywhere you want" is a better suggestion for groups of travelers :P
 
-<hike selfie>
+<img src="/images/2019/road-trip/2019-05-25_sheldon_hike_1.jpg" width="80%">
 
 One of Janyne's friends had brought a wall tent, which is basically the sort of heavy-duty canvas tent that hunters use -- _with walls_. This one is extra awesome because it also has a wood stove in it that heats the whole thing. The weather wasn't great this weekend, so it was awesome to have the wall tent to retreat to when it rained and at night. That said, we did a really good job overall of missing the rain. Like we got back from our hike on the first day _right_ as it started pouring. Score!
 
-A few other Susanville friends arrived Saturday night, just in time for delicious curry dinner. After a lazy (and delicious) breakfast -- as only they know how to do -- we headed to the eastern part of the park to do a hike and find some hot springs. The hike ended up being through a pretty cool canyon, sometimes with a marked trail but also with a lot of scrambling. Very fun, plus it ended with lunch in the mountain lion's cave ooooo.
+<img src="/images/2019/road-trip/2019-05-26_wall_tent.jpg" width="80%">
 
-<img hike>
+A few other Susanville friends arrived Saturday night, just in time for delicious curry dinner. After a lazy (and delicious) breakfast -- as they only know how to do -- we headed to the eastern part of the park to do a hike and find some hot springs. The hike ended up being through a pretty cool canyon, sometimes with a marked trail but also with a lot of scrambling. Very fun, plus it ended with lunch in the mountain lion's cave ooooo.
+
+<img src="/images/2019/road-trip/canyon-hike" width="80%">
 
 Then we went to check out some nearby hot springs, which was basically a really hot river that's got small dams throughout which create pools. Very relaxing, very fun. This is the sort of hidden spots I'm glad I was with people in the know to find, but I wonder how I'd get to know about them if I were traveling alone (and for longer).
 
-<img hot springs>
+<img src="/images/2019/road-trip/hot-springs-sheldone" width="80%">
 
 ## May 24
 
@@ -60,13 +62,15 @@ Then we went to check out some nearby hot springs, which was basically a really 
 
 Woke up to wonderful 60 degree weather, had breakfast outside without even being cold, and then headed into Boise to run some errands.
 
-<img breakfast>
+<img src="/images/2019/road-trip/2019-05-24_swan_falls_breakfast.jpg" width="40%">
 
-Ended up leaving Boise/Nampa around 3:30 pm, after which it was just a long drive to Catnip Reservoir where I'm meeting Janyne and her crew. Got here just in time for an amazing sunset, and now I'm killing time waiting for them to get here so I can make them tacos for dinner. Friendship!
+Ended up leaving Boise/Nampa around 3:30 pm, after which it was just a long drive to Catnip Reservoir where I'm meeting Janyne and her crew (which, to my surprise, went through Oregon!).
 
-<img sunset>
+<img src="/images/2019/road-trip/2019-05-24_surprise_oregon.jpg" width="80%">
 
-<img camp catnip reservoir>
+Got here just in time for an amazing sunset, and now I'm killing time waiting for them to get here so I can make them tacos for dinner. Friendship!
+
+<img src="/images/2019/road-trip/2019-05-24_catnip_reservoir_sunset_and_camp.jpg" width="80%">
 
 ## May 23
 
@@ -74,15 +78,17 @@ Ended up leaving Boise/Nampa around 3:30 pm, after which it was just a long driv
 
 I let myself sleep in a bit, made breakfast (which I hadn't done in a while because it's been cold or bison-y!), and then headed out. The plan is to meet Janyne and her friends in Nevada on Friday night, so I was hoping to get at least half of the way there today. I drove through Grand Tetons National Park and was pretty bummed that it was foggy. Still, though, the mountains look amazing. I wanna get all up in those Tetons -- I wasn't 100% convinced that this area is somewhere I need to come back to, but now that I've added hiking through this park to the list it definitely makes the bucket list.
 
-<grand tetons>
+<img src="/images/2019/road-trip/2019-05-23_grand_tetons.jpg" width="80%">
 
 After going through Jackson Hole and going over a couple of mountain passes, I arrived at a town just inside the Idaho border and saw a sign for a brewery. _screech_ I turned into the place, and got some six packs of Grand Teton brewing beer. I also grabbed lunch, because I was starting to get quite hungry but really couldn't bring myself to have yet another avocado or dried sausage sandwich. After that, made it to the BLM office in Idaho Falls just before closing only to get the same not-super-useful maps I'd found online. I decided to skip Twin Falls and just go straight to Boise, since I'd get to Shoshone Falls too late to visit but I still had a good three to fours hours of driving in me.
 
-Idaho is another state I don't think about often (though I do think about it more often than Nebraska or Arkansas, thanks to potatoes). It's also not a state I'm particularly struck by, even though some of my friends told me I'd be surprised by it. Idaho Falls was a super weird town, with mostly farm equipment and truck dealerships in a sprawly suburban area. In general, it's the most farming state I've driven through so far -- even in the "suburbs", the residential areas are punctuated by farm fields.
+Idaho is another state I don't think about often (though I do think about it more often than Nebraska or Arkansas, thanks to potatoes). It's also not a state I'm particularly struck by, even though some of my friends told me I'd be surprised by it. Idaho Falls was a super weird town, with mostly farm equipment and truck dealerships in a sprawly suburban area. In general, it's the most farming state I've driven through so far -- even in the "suburbs", the residential areas are punctuated by farm fields. _Addendum: everyone I subsequently met and shared my "meh" feeling about Idaho with told me I'm wrong and that Idaho is actually one of the most amazing states for wilderness. Guess I went to the wrong part, and I'll have to come again. That said I believe them, because there were some pretty stupendous views for part of the drive:_
+
+<img src="/images/2019/road-trip/2019-05-23_idaho.jpg" width="80%">
 
 Found a campsite on the side of the road near the Swan Falls dam, where there were other primitive campsites but down a canyon and without cell service. Talked to Ben for a bit, had another in-car dinner to hide from the rain, drank some of my Grand Teton beer, and went to sleep to gear up for another long day of driving.
 
-<snake river canyon camp>
+<img src="/images/2019/road-trip/2019-05-24_swan_falls_camp.jpg" width="80%">
 
 ## May 22
 
@@ -90,33 +96,33 @@ Found a campsite on the side of the road near the Swan Falls dam, where there we
 
 Woke up to OMG BISON IN THE CAMPGROUND TWO CAMPSITES OVER!!!
 
-<img of bison>
+<img src="/images/2019/road-trip/2019-05-22_bison_campsite.jpg" width="80%">
 
 Decided to procure coffee and hot water for my oatmeal at the nearby hotel, given the wandering wildlife. I decided not to attempt any hikes today because of time and bears, so then I was off for my drive through Yellowstone to see some geysers! But first: bears.
 
-<img black bear>
+<img src="/images/2019/road-trip/2019-05-22_black_bear.jpg" width="80%">
 
 I saw three on the first part of my drive! An interesting side note: we watch animals, but I bet animals would also have fun watching us. There's a strange carmaraderie in wildlife spotting. And there's also a strange sense of checkboxing -- I talked to one foreign man when I was pulled over looking at a very far away bear, who when he learned it was a black bear kind of shrugged it off as uninteresting because he had just seen one ten minutes ago. lulz.
 
 I was hoping to make it back to service-land in time for Ashvin's defense, but that plan failed miserably -- I had barely gotten _to_ the cell service dead spot around the time it started. So I gave up on "making time" and instead just enjoyed the hot springs and geysers. There are so many. Have I mentioned yet how amazing it is that the earth is so visibly active here?!
 
-<img geysers, norris basin probs>
+<img src="/images/2019/road-trip/2019-05-22_norris_basin.jpg" width="80%">
 
 Made my way down to the spot I was most excited about: Grand Prismatic Spring. Even though I haven't taken any actual microbiology classes (jk I've taken one), I know that this spring is super famous because it's the cover of basically every microbiology textbook. It was amazing to see in real life. So many colors, just. So amazing.
 
-<img grand prismatic>
+<img src="/images/2019/road-trip/2019-05-22_grand_prismatic.jpg" width="80%">
 
-And then for more amazing, I headed to Old Faithful. After an _amazing_ huckleberry ice cream float, I headed to the viewing area. I lucked out on my timing, because the next eruption was only in twenty minutes or so (Old Faithful erupts every ~90 minutes). I waited around, make some jokes with the people around me about whether or not it was gonna go off, persevered through the weird snow-hail storm (little balls of snow, like hail but still definitely just smnow), a few false alarms, and then... it erupted. Wow. I actually found myself tearing up, in a way that I haven't ever experienced before. I think it was the combination of relief that I hadn't been waiting in the cold for nothing and that Old Faithful really delivered, and just awe at the majestic power of the Earth right in front of me. I've rarely felt so connected to and aware of all the commotion that's happening beneath our feet, and so witnessing a hole that goes directly to it communicate back and forth is just awe-some.
+And then for more amazing, I headed to Old Faithful. After a _delicious_ huckleberry ice cream float, I headed to the viewing area. I lucked out on my timing, because the next eruption was only in twenty minutes or so (Old Faithful erupts every ~90 minutes). I waited around, make some jokes with the people around me about whether or not it was gonna go off, persevered through the weird snow-hail storm (little balls of snow, like hail but still definitely just snow), a few false alarms, and then... it erupted. Wow. I actually found myself tearing up, in a way that I haven't ever experienced before. I think it was the combination of relief that I hadn't been waiting in the cold for nothing and that Old Faithful really delivered, and just awe at the majestic power of the Earth right in front of me. I've rarely felt so connected to and aware of all the commotion that's happening beneath our feet, and so witnessing a hole that goes directly to it communicate back and forth is just awe-some.
 
-<imgs of old faithful erupting>
+<img src="/images/2019/road-trip/2019-05-22_old_faithful_1.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-22_old_faithful_2.jpg" width="45%">
 
 Then I went for a short jaunt across the nearby geyser basin, which is one of the largest concentrations of geysers in the world. SO MANY. So cool. And then I came back, killed a bit of time trying to figure out my camping plan (it was past 7 pm at this time, I had expected to be out of the park by early evening oops), and then headed to watch Old Faithful erupt again. It was actually way less whelming, which is good to know -- next time I come, I'll make sure to plan time to see at least two or three eruptions just to make sure we get a good one.
 
-<img geysers>
+<img src="/images/2019/road-trip/2019-05-22_geyser1.jpg" width="30%"> <img src="/images/2019/road-trip/2019-05-22_geyser2.jpg" width="30%"> <img src="/images/2019/road-trip/2019-05-22_geyser3.jpg" width="30%">
 
 Luckily, there aren't too many stops or overlooks between Old Faithful and the southern end of the park, so I was able to make good time to get to the national forest just outside of Grand Teton National Park for the night.
 
-<img turpin meadow>
+<img src="/images/2019/road-trip/2019-05-23_turpin_meadow_camp.jpg" width="80%">
 
 ## May 21
 
@@ -124,7 +130,9 @@ Luckily, there aren't too many stops or overlooks between Old Faithful and the s
 
 Woke up to some earnest rain, grabbed some coffee in Thermopolis and ate a banana in the car, and headed straight to Cody, WY -- about an hour and a half from Thermopolis and about an hour from the East entrance to Yellowstone. Went to a coffee shop for coffee, catch up phone call with Nathaniel, and internet to figure out my camping plans for tonight. The coffee shop was super lovely, everyone seemed to know each other, and it seems to employ a large proportion of the college-aged women who wear hip hats in the town.
 
-Got hit by a bit of the blues, I think partially due to the gray skies and partially to homesickness. So I decided to get a move on and started driving to Yellowstone. (Side note: there's a state park _right before_ Yellowstone. Poor park, I bet no one ever goes to it lulz)
+Got hit by a bit of the blues, I think partially due to the gray skies and partially to homesickness. So I decided to give up on everything I was doing, buy some candy, and get a move on and start driving to Yellowstone. (Side note: there's a state park _right before_ Yellowstone. Poor park, I bet no one ever goes to it lulz)
+
+<img src="/images/2019/road-trip/2019-05-21_candy_blues.jpg" width="65%">
 
 I drove through a ~10000 foot elevation pass going into the park, and it was rain turning to rain-and-snow turning to pretty hard snow. And through it I thought: wow this weather is absolute trash. And I'm _still_ happy I'm here -- it's that beautiful, wow.
 
@@ -139,17 +147,21 @@ Some other Yellowstone thoughts for you:
 - zomg BACTERIA! They're so amazing they can do anything.
 - Here microbes are centered in all the informational signs -- I'm so happy for them!
 
+<img src="/images/2019/road-trip/2019-05-21_terrace_spring_freakout.jpg" width="80%">
+
+<img src="/images/2019/road-trip/2019-05-21_roadside_bison.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-21_bacteria_spotlight.jpg" width="45%">
+
 On my drive in I stopped to see the Mud Volcano area, which had crazy bubbling muddy springs coming up and steaming and spewing. SO COOL. There was also the most acidic spring in the park nearby, which was cool to see from a distance.
 
-<img muddy spring>
+<img src="/images/2019/road-trip/2019-05-21_mud_volcano.jpg" width="80%">
 
 All the signs tell you not to walk on the ground because you never know when it's going to boil and swallow you up, and the hikes are mostly on elevated boardwalks. So funny to me to think that the ground is unsafe to walk on, when it looks just like normal dirt... Anyway, I made it to the visitor center right around 5 pm, and headed to Mammoth in the very north of the park to hopefully find a campsite. I rocked up and snagged _the last site_ SHEW! By this point the weather had cleared significantly, and since I still had some daylight left I went to see the terrace springs. SO COOL.
 
-<img of springs>
+<img src="/images/2019/road-trip/2019-05-21_mammoth_terrace_springs.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-21_mammoth_terrace_springs_2.jpg" width="45%">
 
 Tomorrow I'll be hitting all the lookouts, eyeing some geysers, and hopefully seeing some animals before heading south to meet up with Janyne and co in Nevada for the weekend.
 
-<img camp>
+<img src="/images/2019/road-trip/2019-05-22_yellowstone_mammoth_campsite.jpg" width="80%">
 
 ## May 20
 
@@ -157,23 +169,27 @@ Tomorrow I'll be hitting all the lookouts, eyeing some geysers, and hopefully se
 
 After making breakfast on my snow-covered picnic table, I headed off to check out Devil's Tower, which a couple had recommended to me but is apparently quite famous (and was the first national monument, even before Yellowstone! I'd seen pictures but wow -- seeing it in person was something else. It really does look like it's coming from the depths of hell. Did the short and easy hike around the bottom, and decided to move along since the fog was moving in.
 
+<img src="/images/2019/road-trip/2019-05-20_devils_tower_wow.jpg" width="40%">
+
 After a lot of back-and-forthing, I decided to stick with my original plan from yesterday of heading to Thermopolis, WY for some hot springs before braving the disgustingly cold and wet weather awaiting me at Yellowstone. Listened to a heart-wrenching episode of Ear Hustle talking about one Cambodian prisoner's story (which is basically every Cambodian prisoner's story in the US...) Got some pretty intense fog for a while (at least an hour), which then unexpectedly cleared up to a jaw-dropping view of the snow-covered forested mountains:
 
-<img fog then of the view>
+<img src="/images/2019/road-trip/2019-05-20_fog.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-21_view.jpg" width="45%">
 
 Kept driving a bit and the scenery changed to stunning forested cliffs -- what?! This was in the Southwestern part of Little Big Horn forest, gotta come back and explore! Pretty sure this is my favorite drive so far, though maybe it was also partially because I was so glad to be out of the fog and definitely only expecting rain and snow from here until I got to Nevada.
 
-<img canyon>
+<img src="/images/2019/road-trip/2019-05-20_canyon_view.jpg" width="80%">
 
 Kept going even more, and then the scenery changed to rolling green jaggedy hills. I think if I had to give Wyoming an advertising slogan, it'd be something like: "Just like Utah, now comes in green!" :P
 
 Got to Thermopolis and checked out the Hot Springs State Park, which was super weird and underwhelming. A boardwalk that goes around some steaming hot pools, a free state-run bathhouse (that was closed by the time I got there), a handful of not-free bathhouses and pools, and a pedestrian suspension bridge. The formations leading from the pools to the river were pretty cool, though -- I'll give it that.
 
-<img hot springs state park>
+<img src="/images/2019/road-trip/2019-05-20_thermopolis_hot_springs_park.jpg" width="80%">
 
 Headed off to my RV park, which I'd selected because when I asked the lady if they had some sort of common space or other indoor place to stay warm, she said "no, but we have a mineral pool!" Spent quite a while soaking in the hot springs-fueled mineral pooled and chatting up a couple, then made a late dinner and am now catching up on the blog sitting _outside of my car_ because the weather is 50 degrees!! Yeah, definitely glad my back-and-forth led me to keep to this plan...
 
-<thermopolis RV Park>
+<img src="/images/2019/road-trip/2019-05-21_thermopolis_rv_hot_spring.jpg" width="80%">
+
+<img src="/images/2019/road-trip/2019-05-21_thermopolis_camp_rv_park.jpg" width="80%">
 
 ## May 19
 
@@ -185,19 +201,19 @@ I'd planned to get to the Black Hills pretty early so that I could wander throug
 
 Anyway, called Kunal and got some clarity and perspective on my job situation, and then headed off to the forest. The sense of relief in my body was tangible, it was amazing. The Black Hills are also amazing -- so beautiful! I would love to come back here and play for much longer, preferably when the temperature is above freezing. I stopped by Crazy Horse Memorial, which seemed like a total scam at first but after the movie made me conclude that it's almost certainly not a scam, but it does center the white sculptor way more than makes me comfortable.
 
-<img crazy horse>
+<img src="/images/2019/road-trip/2019-05-19_crazy_horse.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-19_crazy_horse_2.jpg" width="45%">
 
 At this point it was pretty late, so I just headed to my campsite in the part of the Black Hills near Devil's tomorrow, where I'm going tomorrow. Obviously, though, I took the scenic routes!
 
-<img black hills drive>
+<img src="/images/2019/road-trip/2019-05-19_black_hills_scenic_drive.jpg" width="80%">
 
 Got to my campsite near Sundance, WY, which was super lovely and was just below the cloud line so I could see a beautiful landscape of rolling hills and cows. Made a delicious cheesy scrambled eggs for dinner, and even had time and temperature fortitude to make tea!!
 
-<img tea>
+<img src="/images/2019/road-trip/2019-05-19_campsite_tea.jpg" width="80%">
 
 Unfortunately, by the morning the fog had rolled in and you couldn't see any of the beautiful view anymore. So this is the camp photo you get for this one:
 
-<img sundance camp>
+<img src="/images/2019/road-trip/2019-05-19_sundance_camp.jpg" width="80%">
 
 ## May 18
 
@@ -205,23 +221,23 @@ Unfortunately, by the morning the fog had rolled in and you couldn't see any of 
 
 Started the day with avocado at my cold, wet campsite and coffee in the warm, comfy lodge. Luckily the rain from last night had stopped and the day was pretty clear, though still quite gray. I headed to the Saddle Pass trail, which I had driven by yesterday and which made me really want to scramble all over the badlands formations. Which I did! Lots of slippery clay on the way up, but then amazing views of the Badlands, a fun hike through the prairie and back through some more fun rock/dirt formations, and then back down the now-dried-up trail. These formations are really interesting because they're mostly made of sediment and silt, so they're mostly clay but also the size of large stone mountains. Pretty wonky.
 
-<img saddle pass trail and prairie hike>
+<img src="/images/2019/road-trip/2019-05-18_saddle_trail.jpg" width="35%"> <img src="/images/2019/road-trip/2019-05-18_prairie_badlands.jpg" width="55%">
 
-I headed to another trail that AllTrails recommended, Notch Trail. At this point it was getting colder and windier, and I was pretty pooped. But! This is likely the nicest weather I'm going to have for the next week, and probably my last change to actually hike, so I got off my lazy butt and went off. Notch trail was cool, after climbing up into the "valley" it was cool to just wander through the formation until I found a cool spot.
+I headed to another trail that AllTrails recommended, Notch Trail. At this point it was getting colder and windier, and I was still feeling sick and pretty pooped. But! This is likely the nicest weather I'm going to have for the next week, and probably my last chance to actually hike, so I got off my lazy butt and went off. Notch trail was cool, after climbing up into the "valley" it was cool to just wander through the formation until I found a cool spot.
 
-<selfie from notch trail>
+<img src="/images/2019/road-trip/2019-05-18_notch_trail_selfie_1.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-18_notch_trail.jpg" width="45%">
 
 Came back to the trailhead, kept wandering a bit, and found another trail which seemed super lame from the description (a short boardwalk) but was actually really cool, going into the desert area where the Badlands really are bad. This park is funny, though -- all of the hikes are super short and are estimated to take at least _twice_ as long as they actually take. Like this last hike had lots of warnings about being extremely strenuous, but as far as I'm concerned it was basically flat! I guess things are dramatically different in the summer when it's boiling hot...?
 
-<img of door trail desert -- the one the other people took of me>
+<img src="/images/2019/road-trip/2019-05-18_badlands_desert.jpg" width="80%">
 
-After this hike, it really was starting to rain so I called it a day. The plan was to drive through the park, stop at the farthest picnic area to make dinner and prepare hot water for tea, and then camp at the primitive campsite the ranger had recommended. I got to the picnic area but it was way too windy and  miserable to attempt to cook so I kept going. I found the road which the ranger had recommended, and which he had told me was a gravel road. Narrator: it was not a gravel road. (Second narrator, with the benefit of additional information: it may in fact have been a gravel road if she had just continued to the other outlet just a small distance away.) In fact, it was a _very muddy_ road which I slipped and slided through all the way to the top, where a few other cars were camping. It was pretty scary though, I had very little control over the car because the tires are coated in the clay mud, and at the top the road turns and goes parallel to a canyon dropoff like 15 feet away. Since it's going to keep raining all night, I decided to give up on this site and head back down now before things got worse. Drove as much as I could on grass, slipped and slided my way back out, and got back to the main road _incredibly_ grateful for my dad's car's fancy all-wheel drive (X-mode woo!)
+After this hike, it really was starting to rain so I called it a day. The plan was to drive through the park, stop at the farthest picnic area to make dinner and prepare hot water for tea, and then camp at the primitive campsite the ranger had recommended. I got to the picnic area but it was way too windy and  miserable to attempt to cook so I kept going. I found the road which the ranger had recommended, and which he had told me was a gravel road. Narrator: it was not a gravel road. (Second narrator, with the benefit of additional information: it may in fact have been a gravel road if she had just continued to the other road outlet just a small distance away.) In fact, it was a _very muddy_ road which I slipped and slided through all the way to the top, where a few other cars were camping. It was pretty scary though, I had very little control over the car because the tires are coated in the clay mud, and at the top the road turns and goes parallel to a canyon dropoff like 15 feet away. Since it's going to keep raining all night, I decided to give up on this site and head back down now before things got worse. Drove as much as I could on grass, slipped and slided my way back out, and got back to the main road _incredibly_ grateful for my dad's car's fancy all-wheel drive (X-mode woo!)
 
-<img dirt road/dirt tires>
+<img src="/images/2019/road-trip/2019-05-18_clay_covered_tires.jpg" width="40%"> <img src="/images/2019/road-trip/2019-05-18_badlands_dirt_road.jpg" width="40%">
 
 I drove another half mile to the next forest service road which was nice and flat, and pulled over less than 100 feet from the highway. I hope it doesn't rain so much that the car gets stuck in the ground, though we'll see tomorrow morning...
 
-<img camp>
+<img src="/images/2019/road-trip/2019-05-19_badlands_camp_2.jpg" width="80%">
 
 ## May 17
 
