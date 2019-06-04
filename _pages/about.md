@@ -18,10 +18,9 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 # Publication
 ## Preprint
 ![](images/scooter.png){: .align-right width="200px"}
-**A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life**  
-Dian Wang, Colin Kohler, Andreas ten Pas, Maozhi Liu, Holly Yanco, Robert Platt  
-Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2019  
-[(PDF)](https://arxiv.org/pdf/1809.09541.pdf)[(Page)](https://pointw.github.io/scooter-page/)[(Video)](https://www.youtube.com/watch?v=-FqXRtMlc4U&t=2s)
+**Towards Assistive Robotic Pick and Place in Open World Environments**  
+Dian Wang, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
+[(PDF)](https://arxiv.org/pdf/1809.09541.pdf)[(Page)](https://pointw.github.io/scooter-page/)[(Video)](https://www.youtube.com/watch?v=ZimZlsJTaTU)
 
 ## Thesis
 **Playing Gomoku with Deep Reinforcement Learning**  
