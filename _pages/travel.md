@@ -12,9 +12,9 @@ Woke up early to say goodbye to Janyne, Andrew, and the gaggle of other visitors
 
 I felt pretty bummed most of the day -- after a delicious breakfast burrito I confirmed it wasn't just a sleepy hangover bummed-ness but the realization that it's the start of the end. It's a similar sort of feeling as the end of the Luce year: wistful about the end of an era of adventuring, seeing all the other potential types of adventures that it could have been but wasn't, and recognizing that while I could continue doing this for a while, I'm actively _choosing_ a different sort of life. It's not quite regret, it's just the acute realization that there are so many potential [life paths](https://zenpencils.com/comic/60-robert-frost-the-road-not-taken/) and we only get to walk one.
 
-Anyway. First stop in SF: Oakland, to see Jeremy and some other former Luce Scholars!
+Anyway. First stop in SF: Oakland, to see Jeremy and some other former Luce Scholars! This is the _one_ sleeping spot I forgot to take a photo of, so for penance here's a Google street view photo of the house (complete with porta-potty, womp womp):
 
-<img src="/images/2019/road-trip/oakland" width="80%">
+<img src="/images/2019/road-trip/2019-05-29_oakland_street_view.jpg " width="80%">
 
 ## May 27-28
 
@@ -30,7 +30,7 @@ Got to sleep in a bed (!!), and woke up the next day to go join Janyne on some f
 
 <img src="/images/2019/road-trip/2019-05-28_field_work.jpg" width="80%">
 
-That night, there were a bunch of people randomly coming through Susanville who Janyne and Andrew had invited over: one of their friends who's a musician, another former Susanville friend also on a road trip just driving through, and a group of four seasonal workers sort of working with Andrew at the BLM. It was fun eating delicious dinner and hanging out meeting new people and exchanging stories. We had a bonfire in the backyard and her friend, Bart Budwig, played us some of his songs. Made me pretty wistful about the end of my trip, and the end of these sorts of experiences (and also how few of them there actually were on this trip...) I think also there's some wistfulness about how short this trip was -- if it had been longer, I think I would have sought out these sorts of social interactions with strangers much more. It's a different kind of trip though.
+That night, there were a bunch of people randomly coming through Susanville who Janyne and Andrew had invited over: one of their friends who's a musician, another former Susanville friend also on a road trip just driving through, and a group of four seasonal workers sort of working with Andrew at the BLM. It was fun eating delicious dinner and hanging out meeting new people and exchanging stories. We had a bonfire in the backyard and her friend, [Bart Budwig](https://www.bartbudwig.com/), played us some of his songs. Made me pretty wistful about the end of my trip, and the end of these sorts of experiences (and also how few of them there actually were on this trip...) I think also there's some wistfulness about how short this trip was -- if it had been longer, I think I would have sought out these sorts of social interactions with strangers much more. It's a different kind of trip though.
 
 <img src="/images/2019/road-trip/2019-05-28_susanville_bonfire.jpg" width="80%">
 
@@ -50,11 +50,11 @@ One of Janyne's friends had brought a wall tent, which is basically the sort of 
 
 A few other Susanville friends arrived Saturday night, just in time for delicious curry dinner. After a lazy (and delicious) breakfast -- as they only know how to do -- we headed to the eastern part of the park to do a hike and find some hot springs. The hike ended up being through a pretty cool canyon, sometimes with a marked trail but also with a lot of scrambling. Very fun, plus it ended with lunch in the mountain lion's cave ooooo.
 
-<img src="/images/2019/road-trip/canyon-hike" width="80%">
+<img src="/images/2019/road-trip/2019-05-26_canyon_hike.jpg" width="50%"> <img src="/images/2019/road-trip/2019-05-26_canyon_hike_selfie.jpg" width="45%">
 
 Then we went to check out some nearby hot springs, which was basically a really hot river that's got small dams throughout which create pools. Very relaxing, very fun. This is the sort of hidden spots I'm glad I was with people in the know to find, but I wonder how I'd get to know about them if I were traveling alone (and for longer).
 
-<img src="/images/2019/road-trip/hot-springs-sheldone" width="80%">
+<img src="/images/2019/road-trip/2019-05-26_sheldon_hot_springs.jpg" width="80%">
 
 ## May 24
 
