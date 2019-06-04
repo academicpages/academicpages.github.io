@@ -41,7 +41,7 @@ I was getting some FOMO the other day and realized that it was in part because I
 ### Bucket list
 
 - All of it! Spencer Lake trail for next time, but I'd definitely do Cathedral Wash again.
-- Buckskin gulch trail (but starting from Wire tap)
+- Buckskin gulch trail (starting from Wire tap)
 - Actually get your shit together to go do The Wave lottery (but remember: Arizona and Utah might be an hour different if it's daylight savings!)
 - Maybe the Peek-a-boo slot canyon that's to the west of Kanab?
 
@@ -64,12 +64,88 @@ I was getting some FOMO the other day and realized that it was in part because I
 - If I'm feeling like backpacking: the under-the-rim trail seems awesome.
 - If not, figure out what the trail is that leaves from Rainbow Point and goes out to the point in front of it.
 - Maybe try to find some hikes in the forest between Bryce and Tropic (or go back and do Red Canyon hike?)
+
 ## Grand Staircase Escalante National Monument area
 
 ### Pro-tips
 
 - Unlike most other areas I've camped in, this one has no service!
+- Lots of washboard on the main road, and trails to find campsites are fairly rough -- high clearance recommended
 
 ### Bucket list
 
 - Petrified forest state park
+- Willow Gulch trail, all the way to the arch at the "end"
+- Come prepared for some overnight backpacking hikes
+- BRING A DOG TO PLAY
+- Come with enough time to hang around the campsite and explore the surroundings
+
+## Road between Grand Staircase and Moab
+
+### Pro-tips
+
+- Omg pies at Capitol Reef what a lovely surprise! Come prepared to nom.
+
+### Bucket lists
+
+- Figure out backcountry camping and permits for the area around scenic byway 24 and go exploring
+- Actually drive on 95 like Janyne told me to (AKA between Hanksville, Fry Canyon, and Blanding)
+- Spend more time at Capitol Reef, but preferably only there so it doesn't get diluted by all the other cool things nearby
+- Re-do the Little Wild Horse slot canyon near Goblin Valley State Park, but do the whole loop and don't die in a flash flood. Also, explore that area more and camp closer to the slot canyon hike (rather than the weird parking-lot-like BLM campsite)
+
+## Moab
+
+### Pro-tips
+
+- Make sure you have your shit together and book a campsite in advance, otherwise it's very hard to find somewhere. BLM campsites are fairly small but reservable, Canyonlands is also an option.
+- Take the road that goes along the Colorado instead of highway 191 if you're heading out and going northeast.
+
+## Badlands
+
+### Pro-tips
+
+- The campground is really cheap: $12 if you have the America the Beautiful pass, and it's right next to a lovely diner with internet, warmth, and beer
+
+## Black Hills
+
+### Bucket list
+
+- Just come camping here for a trip, and hike around
+- Mt. Rushmore, I guess...
+
+## Yellowstone and Grand Tetons
+
+### Pro-tips
+
+- Learn how to prepare for bears. If you want to hike, it's better to find a friend for this part of the trip.
+- Old Faithful erupts every ~90 minutes. There's a couple of short hikes to do around there. Plan to be there for at least 2 or 3 eruptions if you can, since some of them are less whelming.
+
+### Bucket list
+
+- Hike all up in those Tetons.
+- Also hike in Yellowstone, but with a friend who's ready to fight bears.
+- Little Big Horn forest (??) to the east of Yellowstone is spectacular. Their slogan is "Like Yellowstone but without the crowds" and it isn't totally inaccurate. Would be fun to go back and explore that area.
+
+## Idaho
+
+### Pro-tips
+
+- Idaho BLM doesn't really have maps available, either on Avenza or in the (Idaho Falls) office. But they do have a nice booklet with recreation opportunities, which includes _some_ campsites
+- There are campsites near Swan Falls dam. I also found one at the top of the canyon which was right by the road but quite nice.
+
+### Bucket list
+
+- Craters of the Moon national monument
+- Apparently going North-South is pretty stupendous, and Idaho has the best wilderness areas of any state. So go find those and do that.
+
+## California highway 1
+
+### Pro-tips
+
+- all of the pull-outs seem to have a day use fee. Park on the side of the highway and walk in (alleviate your guilt by avoiding eye contact with the ranger)
+- Los Padres National Forest starts near the south of Big Sur. There are signs to campgrounds up the hill, Prewitt Ridge was where I headed.
+- Bring a friend to drive so you don't almost kill yourself looking at the views on the windy road. (Not speaking from experience, of course...)
+
+### Bucket lists
+
+- All of it again but slower. But I'd need to figure out the camping situation...
