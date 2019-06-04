@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vitor V. Vasconcelos"
+title                    : "Vítor V. Vasconcelos"
 title_separator          : "-"
-name                     : &name "Vitor"
+name                     : &name "Vítor"
 description              : &description "postdoctoral research associate at Princeton University"
 url                      : https://vvvasconcelos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : vvlvasconcelos #&twitter
 facebook:
   username               :
   app_id                 :
@@ -75,20 +75,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  UA-32161482-1
 
 
 # Site Author
 author:
-  name             : "Vitor V. Vasconcelos"
+  name             : "Vítor V. Vasconcelos"
   avatar           : "profile.png"
-  bio              : "I am a Postdoctoral Research Associate at the Andlinger Center for Energy and the Environment and the Princeton Institute for International and Regional Studies, at Princeton University. I finished my Ph.D. in Sciences at the University of Minho, in Portugal, in 2017. My research agenda is on the role of institutions for managing social-ecological systems. It covers the topics of the management of public goods, the resilience of ecological systems, and evolutionary biology by using and developing tools and resources in the areas of mathematical ecology, complex systems, stochastic processes, game theory, scientific computing, network science, and numerical methods. Besides extending the theoretical work that is showcased in my previous research, I am now working on three central practical systems of global environmental importance: the global and local food systems, the sustainability of the Coral Triangle, and the ecological, social, and technical bottlenecks of rapid decarbonization of the energy system in India."
+  bio              : "I am a Postdoctoral Research Associate at the Andlinger Center for Energy and the Environment and the Princeton Institute for International and Regional Studies, at Princeton University. My research agenda is on the role of institutions for managing social-ecological systems. It covers the topics of the management of public goods, the resilience of ecological systems, and evolutionary biology by using and developing tools and resources in diverse areas of applied math and computing. Besides extending the theoretical work, I am working on three central practical systems of global environmental importance: the global and local food systems, the sustainability of the Coral Triangle, and the ecological, social, and technical bottlenecks of rapid decarbonization of the energy system in India."
   location         : "Princeton, N.J., U.S.A."
   employer         : "Princeton University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Vitor+V+Vasconcelos"
   googlescholar    : "https://scholar.google.com/citations?user=apDsBZoAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/V_Vasconcelos/"# example: "https://www.researchgate.net/profile/V_Vasconcelos/"
+  researchgate     :  "https://www.researchgate.net/profile/V_Vasconcelos/" # example: "https://www.researchgate.net/profile/V_Vasconcelos/"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vvvasconcelos/"
+  linkedin         : "vvvasconcelos"
   orcid            : "https://orcid.org/0000-0002-4621-5272"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/vvlvasconcelos"
+  twitter          : "vvlvasconcelos"
   vine             :
   weibo            :
   xing             :
