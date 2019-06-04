@@ -4,15 +4,65 @@ permalink: /travel/
 author_profile: true
 ---
 
+## May 29
+
+**Susanville, CA --> Oakland, CA**
+
+Woke up early to say goodbye to Janyne, Andrew, and the gaggle of other visitors before they headed off to work (or their respective next destinations) and went to a coffee shop in nearby Janesville to get some internet and work done. Then, it was off to San Francisco.
+
+I felt pretty bummed most of the day -- after a delicious breakfast burrito I confirmed it wasn't just a sleepy hangover bummed-ness but the realization that it's the start of the end. It's a similar sort of feeling as the end of the Luce year: wistful about the end of an era of adventuring, seeing all the other potential types of adventures that it could have been but wasn't, and recognizing that while I could continue doing this for a while, I'm actively _choosing_ a different sort of life. It's not quite regret, it's just the acute realization that there are so many potential [life paths](https://zenpencils.com/comic/60-robert-frost-the-road-not-taken/) and we only get to walk one.
+
+Anyway. First stop in SF: Oakland, to see Jeremy and some other former Luce Scholars!
+
+<img oakland house>
+
+## May 27-28
+
+**Sheldon Wildlife Refuge, NV --> Susanville, CA**
+
+One more delicious dinner (enchilada casserole with fried egg on top omg), some fun with paper bags, and a handful of $1 Keystone Lights later, we headed out the next morning to get back to Susanville. A large part of the drive was on dirt roads, including some pretty gnarly switchbacks down a wet mountainside dirt road -- thank god for X mode!
+
+Got the grand tour of Janyne and Andrew's new house, took a much-needed shower, and then headed to Inspiration Point for the sunset.
+
+<img inspiration point>
+
+Got to sleep in a bed (!!), and woke up the next day to go join Janyne on some field work. The mosquitoes were swarming and counting plants gets boring after about forty minutes, so it wasn't the _most fun_ I've had all trip but it was really good to get a better sense of what field work in that domain is like.
+
+<img field work>
+
+That night, there were a bunch of people randomly coming through Susanville who Janyne and Andrew had invited over: one of their friends who's a musician, another former Susanville friend also on a road trip just driving through, and a group of four seasonal workers sort of working with Andrew on BLM land. It was fun eating delicious dinner and hanging out meeting new people and exchanging stories. We had a bonfire in the backyard and her friend, Bart Budwig, played us some of his songs. Made me pretty wistful about the end of my trip, and the end of these sorts of experiences (and also how few of them there actually were on this trip...) I think also there's some wistfulness about how short this trip was -- if it had been longer, I think I would have sought out these sorts of social interactions with strangers much more. It's a different kind of trip though.
+
+<img bonfire>
+
+<img susanville house>
+
+## May 25-27
+
+**Sheldon Wildlife Refuge**
+
+Had a lovely Memorial Day weekend in the wilderness with Janyne and her friends. On Saturday we hiked around pretty randomly, walking to places we thought looked cool -- the right way to use public lands! It's a lot more fun to do this when you're with a group of people rather than alone. I'll have to let the BLM officer from Kanab know that "there are no trails go anywhere you want" is a better suggestion for groups of travelers :P
+
+<hike selfie>
+
+One of Janyne's friends had brought a wall tent, which is basically the sort of heavy-duty canvas tent that hunters use -- _with walls_. This one is extra awesome because it also has a wood stove in it that heats the whole thing. The weather wasn't great this weekend, so it was awesome to have the wall tent to retreat to when it rained and at night. That said, we did a really good job overall of missing the rain. Like we got back from our hike on the first day _right_ as it started pouring. Score!
+
+A few other Susanville friends arrived Saturday night, just in time for delicious curry dinner. After a lazy (and delicious) breakfast -- as only they know how to do -- we headed to the eastern part of the park to do a hike and find some hot springs. The hike ended up being through a pretty cool canyon, sometimes with a marked trail but also with a lot of scrambling. Very fun, plus it ended with lunch in the mountain lion's cave ooooo.
+
+<img hike>
+
+Then we went to check out some nearby hot springs, which was basically a really hot river that's got small dams throughout which create pools. Very relaxing, very fun. This is the sort of hidden spots I'm glad I was with people in the know to find, but I wonder how I'd get to know about them if I were traveling alone (and for longer).
+
+<img hot springs>
+
 ## May 24
 
-**Boise, ID --> Catnip Reservoir, NV**
+**Boise, ID --> Sheldon Wildlife Refuge, NV**
 
 Woke up to wonderful 60 degree weather, had breakfast outside without even being cold, and then headed into Boise to run some errands.
 
 <img breakfast>
 
-Ended up leaving Boise/Nampa around 3:30 pm, after which it was just a long drie to Catnip Reservoir where I'm meeting Janyne and her crew. Got here just in time for an amazing sunset, and now I'm killing time waiting for them to get here so I can make them tacos for dinner. Friendship!
+Ended up leaving Boise/Nampa around 3:30 pm, after which it was just a long drive to Catnip Reservoir where I'm meeting Janyne and her crew. Got here just in time for an amazing sunset, and now I'm killing time waiting for them to get here so I can make them tacos for dinner. Friendship!
 
 <img sunset>
 
