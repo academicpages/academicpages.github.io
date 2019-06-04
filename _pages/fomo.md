@@ -137,6 +137,7 @@ I was getting some FOMO the other day and realized that it was in part because I
 
 - Craters of the Moon national monument
 - Apparently going North-South is pretty stupendous, and Idaho has the best wilderness areas of any state. So go find those and do that.
+- Shoshone falls
 
 ## California highway 1
 
@@ -148,4 +149,32 @@ I was getting some FOMO the other day and realized that it was in part because I
 
 ### Bucket lists
 
-- All of it again but slower. But I'd need to figure out the camping situation...
+- All of it again but slower. But I'd need to figure out the (free) camping situation...
+
+# General pro-tips
+
+## Tools, apps, and maps
+
+- Avenza is key: you can download geo-located PDFs, so that you can be located on the maps. I used this to find campsites on public lands.
+- If you have an Apple phone, there's apparently a USFS and BLM app that shows the boundaries of all public lands. I wasn't able to find an equivalent on Android.
+- I did find Freeroam on Android, which was pretty good for the parts of the US that don't have a huge amount of public lands. The "just park anywhere along this road" campsites aren't super well-marked (and the forest service roads aren't all correct), but it was a pretty good thing to cross-reference. It also has all the public land boundaries, and some layers that show where you can get service. So it's pretty handy overall.
+- freecampsites.net was also good to find places to camp, but less user-friendly
+- Some of my essential gear (apart from the obvious tent, sleeping bag, headlamp, knife, etc) was: camping chair, extra blankets for extra comfort, camping stove, water jug, cooler
+- Some of my nice-to-have gear was: portable speakers, Cambodian picnic mat, thermos, flat plywood "mattress" plus some two by fours to adjust the height, my bubble level app to figure out how angled I was parking, solar lantern
+
+## Camping on public lands
+
+- In case you didn't realize, camping is free on almost all public lands (AKA forest service or BLM land). This sort of camping is called "dispersed camping" or sometimes "primitive camping"
+- The BLM and Forest Service also have lots of campsites, some of which are free. Be careful though, and make sure they're open when you'll be there. I found that many forest service campgrounds didn't open until April or May (and many were delayed because of the shutdown). The USFS website tends to have this information fairly easily accessible, you just have to remember to check for it.
+- In well-frequented areas like forests outside of national parks or Utah, you don't need to stress too much to find the areas you'll camp because once you get there you'll see other people.
+- Speaking of which, lots of national parks have free camping in the national forests just adjacent to them. I loved camping _right next_ to the Grand Canyon -- for free!! Highly recommend.
+
+## Other things
+
+- If I were traveling for longer and needed internet more frequently, I'd make much more use of public libraries. I'd also make sure that my phone's hotspot works, because before I broke my phone that was super handy.
+- Food
+    - The single-serve Indian food packets and pre-cooked rice or quinoa were awesome: delicious and easy dinners.
+    - Relatedly, scrambling eggs with yesterday's leftovers is delicious regardless of what the leftovers are.
+    - If you're camping in your car, make sure you have some meals available that don't need cooking just in case it's raining and you can't really cook. I liked dried salami and tuna as easy options. These are also good for food on hikes.
+- Everywhere you go, ask the people you meet if they've been where you're going next and if they have recommendations.
+- The National Geographic Road Atlas is super handy, highly recommend!
