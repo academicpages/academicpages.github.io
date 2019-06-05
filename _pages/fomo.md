@@ -159,8 +159,49 @@ I was getting some FOMO the other day and realized that it was in part because I
 - If you have an Apple phone, there's apparently a USFS and BLM app that shows the boundaries of all public lands. I wasn't able to find an equivalent on Android.
 - I did find Freeroam on Android, which was pretty good for the parts of the US that don't have a huge amount of public lands. The "just park anywhere along this road" campsites aren't super well-marked (and the forest service roads aren't all correct), but it was a pretty good thing to cross-reference. It also has all the public land boundaries, and some layers that show where you can get service. So it's pretty handy overall.
 - freecampsites.net was also good to find places to camp, but less user-friendly
-- Some of my essential gear (apart from the obvious tent, sleeping bag, headlamp, knife, etc) was: camping chair, extra blankets for extra comfort, camping stove, water jug, cooler
-- Some of my nice-to-have gear was: portable speakers, Cambodian picnic mat, thermos, flat plywood "mattress" plus some two by fours to adjust the height, my bubble level app to figure out how angled I was parking, solar lantern
+
+## Gear
+
+### Essential
+
+- Car
+- Tent, sleeping bag, sleeping pad
+- Extra blankets for extra comfort (and, at times, warmth)
+- Camping chair
+- A sharp knife
+- Headlamp
+- Camping stove - mine had two burners but that's not strictly necessary. It was good to have it be fairly wind-proof, though.
+- One pot and one pan
+- Camping plate, bowl, cup, and silverware
+- Can opener
+- Cooler
+- Tupperware for leftovers, preferably water-tight for swimming in the cooler
+- 5 gallon water jug
+- Heavy-duty battery to recharge laptop
+- Paper towels
+
+### Nice to have
+
+- Fancy car with all-wheel drive, which kept me safe multiple times
+- Multiple large water bottles, for long drives and long hikes
+- Portable speaker, for those nights when you're just chilling in your car
+- Cambodian picnic mat, made of woven plastic so you can sit anywhere
+- Thermos, for those cold nights when you make tea and extra hot water and retreat to the car
+- Flat plywood "mattress", for evening out the bump where the seats fold down
+- Extra two-by-fours, for adjusting the angle of the plywood when parked at an angle
+- A bubble level app, for figuring out just how angled you've parked (I found 2-3 degrees palatable, but more than that was fairly noticeable)
+- Solar-charged lantern, for those nights when you're chilling in your car
+- AC converter that plugs into the cigarette lighter
+- Organic dish soap, which was fine to not fully rinse off of dishes
+
+### Would have been nice to have
+
+- Fancy car with all-wheel drive _and_ high clearance
+- Room to sit up in the back of said car
+- Different-sized pots and pans or at least smaller ones, for making individually-sized meals
+- An actual nice cooler, so the ice wouldn't immediately melt and submerge all the food
+- A non-broken phone with a working hotspot, since most places had service
+- An actual system to wash dishes
 
 ## Camping on public lands
 
@@ -171,7 +212,7 @@ I was getting some FOMO the other day and realized that it was in part because I
 
 ## Other things
 
-- If I were traveling for longer and needed internet more frequently, I'd make much more use of public libraries. I'd also make sure that my phone's hotspot works, because before I broke my phone that was super handy.
+- If I were traveling for longer and needed internet more frequently, I'd make much more use of public libraries. 
 - Food
     - The single-serve Indian food packets and pre-cooked rice or quinoa were awesome: delicious and easy dinners.
     - Relatedly, scrambling eggs with yesterday's leftovers is delicious regardless of what the leftovers are.
