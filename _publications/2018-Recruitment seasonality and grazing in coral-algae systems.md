@@ -1,0 +1,16 @@
+---
+title: "Stability and recovery of coral-algae systems: the importance of recruitment seasonality and grazing influence"
+collection: publications
+permalink: /publication/07/23/2018-Recruitment seasonality and grazing in coral-algae systems
+excerpt: 'we use a model of coral-macroalgae dynamics to explore the effects of different assumptions regarding grazing and coral recruitment seasonality in coral-algae systems. We find that the grazing functional form constrains the potential for alternative stable states and coexistence, highlighting the need to further elucidate herbivore dynamics on reef systems. We also show that coral recruitment from external sources facilitates coral persistence and recovery, both when recruitment is assumed to be constant over time, and when recruitment occurs seasonally. In systems with alternative stable states, the total number of larvae that reaches a patch is the primary driver that dictates whether a system with low coral cover can flip into the coral-dominated basin of attraction. However, in a limited parameter space, the duration and timing of this larval pulse can also determine whether coral can recover in a bistable system. These results highlight the multiple factors that influence whether a coral reef is likely to remain in its present state or not, especially as ocean conditions change.'
+date: 07/23/2018
+venue: 'Theoretical Ecology'
+paperurl: 'https://link.springer.com/article/10.1007/s12080-018-0388-x'
+citation: 'Lisa C. McManus, James R. Watson, Vítor V. Vasconcelos, and Simon A. Levin. &quot;Stability and recovery of coral-algae systems: the importance of recruitment seasonality and grazing influence&quot; <i>Theoretical Ecology</i> (2018) <b>12</b> 1 p61-72'
+---
+
+<a href='https://link.springer.com/article/10.1007/s12080-018-0388-x'>Download paper here</a>
+
+we use a model of coral-macroalgae dynamics to explore the effects of different assumptions regarding grazing and coral recruitment seasonality in coral-algae systems. We find that the grazing functional form constrains the potential for alternative stable states and coexistence, highlighting the need to further elucidate herbivore dynamics on reef systems. We also show that coral recruitment from external sources facilitates coral persistence and recovery, both when recruitment is assumed to be constant over time, and when recruitment occurs seasonally. In systems with alternative stable states, the total number of larvae that reaches a patch is the primary driver that dictates whether a system with low coral cover can flip into the coral-dominated basin of attraction. However, in a limited parameter space, the duration and timing of this larval pulse can also determine whether coral can recover in a bistable system. These results highlight the multiple factors that influence whether a coral reef is likely to remain in its present state or not, especially as ocean conditions change.
+
+Recommended citation: Lisa C. McManus, James R. Watson, Vítor V. Vasconcelos, and Simon A. Levin. "Stability and recovery of coral-algae systems: the importance of recruitment seasonality and grazing influence" <i>Theoretical Ecology</i> (2018) <b>12</b> 1 p61-72
