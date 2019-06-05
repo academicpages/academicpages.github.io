@@ -1,9 +1,9 @@
 ---
 title: "Consensus and polarization in competing complex contagion processes"
 collection: publications
-permalink: /publication/5/6/2019-Complex Contagion
+permalink: /publication/6/6/2019-Complex Contagion
 excerpt: 'The rate of adoption of new information depends on reinforcement from multiple sources in a way that often cannot be described by simple contagion processes. In such cases, contagion is said to be complex. Complex contagion happens in the diffusion of human behaviours, innovations and knowledge. Based on that evidence, we propose a model that considers multiple, potentially asymmetric and competing contagion processes and analyse its respective population-wide dynamics, bringing together ideas from complex contagion, opinion dynamics, evolutionary game theory and language competition by shifting the focus from individuals to the properties of the diffusing processes. We show that our model spans a dynamical space in which the population exhibits patterns of consensus, dominance, and, importantly, different types of polarization, a more diverse dynamical environment that contrasts with single simple contagion processes. We show how these patterns emerge and how different population structures modify them through a natural development of spatial correlations: structured interactions increase the range of the dominance regime by reducing that of dynamic polarization, tight modular structures can generate structural polarization, depending on the interplay between fundamental properties of the processes and the modularity of the interaction network.'
-date: 5/6/2019
+date: 6/6/2019
 venue: 'J. Roy. Soc. Interface'
 citation: 'Vítor V. Vasconcelos, Simon A. Levin, and Flávio L. Pinheiro &quot;Consensus and Polarization in Competing Complex Contagion Processes&quot; <i>J. Roy. Soc. Interface</i> <b>accepted</b>'
 ---

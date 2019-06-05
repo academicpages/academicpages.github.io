@@ -1,8 +1,8 @@
 ---
 title: "Evolution of All-or-None strategies in repeated public goods dilemmas"
 collection: publications
-permalink: /publication/11/13/2014-All or none strategies
-date: 11/13/2014
+permalink: /publication/13/11/2014-All or none strategies
+date: 13/11/2014
 venue: 'PLoS computational biology'
 paperurl: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003945'
 citation: 'Flávio L Pinheiro, Vítor V Vasconcelos, Francisco C Santos, and Jorge M Pacheco. &quot;Evolution of All-or-None strategies in repeated public goods dilemmas&quot; <i>PLoS computational biology</i> (2014) <b>3</b> 11 e1003945'
