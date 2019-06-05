@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Research Associate at the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) and the [Princeton Institute for International and Regional Studies](http://piirs.princeton.edu/), at Princeton University. I finished my Ph.D. in Sciences at the University of Minho, in Portugal, in 2017. My research agenda is on the role of institutions for managing social-ecological systems. It covers the topics of the management of public goods, the resilience of ecological systems, and evolutionary biology by using and developing tools and resources in the areas of mathematical ecology, complex systems, stochastic processes, game theory, scientific computing, network science, and numerical methods. Besides extending the theoretical work that is showcased in my previous research, I am now working on three central practical systems of global environmental importance: the global and local food systems, the sustainability of the Coral Triangle, and the ecological, social, and technical bottlenecks of rapid decarbonization of the energy system in India. 
+I am a Postdoctoral Research Associate at the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) and the [Princeton Institute for International and Regional Studies](http://piirs.princeton.edu/), at Princeton University. I finished my Ph.D. in Sciences at the University of Minho, in Portugal, in 2017. My research agenda is on the role of institutions for managing social-ecological systems. It covers the topics of the management of public goods, the resilience of ecological systems, and evolutionary biology by using and developing tools and resources in the areas of mathematical ecology, complex systems, stochastic processes, game theory, scientific computing, network science, and numerical methods. 
 
 Details
 ======
@@ -28,14 +28,14 @@ Text
 
 **Food systems**
 
-Text
+...the global and local food systems
 
 **Coral Triangle**
 
-Text
+...the sustainability of the Coral Triangle
 
 **Rapid Switch**
 
-Text
+...the ecological, social, and technical bottlenecks of rapid decarbonization of the energy system in India.
 
 
