@@ -83,7 +83,7 @@ author:
   bio              : "Computer Scientist and MSc student in Computer Science at <a style='color: black;' href='https://www.uclm.es/'>University of Castilla~La Mancha</a>"
   location         : "Ciudad Real, Spain"
   employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.es/citations?user=yMbXyc0AAAAJ&hl=es
   email            : Cristian.Gomez2@alu.uclm.es
   uri              :
   bitbucket        :
