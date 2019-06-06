@@ -20,15 +20,14 @@ Work experience
 ======
 * 2019-2021: Postdoctoral Research Associate
   * Princeton University, Andlinger Center for Energy and the Environment & PIIRS
-[//]: # (* Duties included: Tagging issues)
   * Supervisor: Simon A. Levin, Elke U. Weber
 
 * 2017-2019: Postdoctoral Research Associate
   * Princeton University, Dep. Ecology and Evolutionary Biology
-[//]: # (* Duties included: Tagging issues)
   * Supervisor: Simon A. Levin
 
-  
+* ...
+
 Skills
 ======
 * Skill 1
