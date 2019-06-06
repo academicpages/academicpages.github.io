@@ -16,7 +16,7 @@ redirect_from:
 
 ## About Me
 
-I am an incoming [Royster Fellow](https://gradschool.unc.edu/funding/gradschool/royster/membership.html) and PhD student in the [UNC NLP](https://nlp.cs.unc.edu/) group at the University of North Carolina at Chapel Hill, where I will be advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I recently graduated with a bachelor's degree from Duke University, where my research advisors were [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Sayan Mukherjee](https://sayanmuk.github.io/), and [Jeff Beck](https://www.neuro.duke.edu/research/faculty-labs/beck-lab). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin).  
+I am an incoming PhD student in the [UNC NLP](https://nlp.cs.unc.edu/) group at the University of North Carolina at Chapel Hill, where I will be advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work there will be supported by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). I recently graduated with a bachelor's degree from Duke University, where my research advisors were [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Sayan Mukherjee](https://sayanmuk.github.io/), and [Jeff Beck](https://www.neuro.duke.edu/research/faculty-labs/beck-lab). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin).  
 
 My research interests lie in developing interpretable machine learning methods, with a focus on the domain of natural language processing. I'm also particularly interested in connections between natural language processing, reinforcement learning, and knowledge representation. 
 
