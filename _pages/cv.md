@@ -8,19 +8,25 @@ redirect_from:
 ---
 
 {% include base_path %}
+this page is not complete...
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, University of Lisbon, 2010
+* M.Sc. in Statistical Physics, University of Lisbon, 2012
+* Ph.D in Sciences, University of Minho, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2021: Postdoctoral Research Associate
+  * Princeton University, Andlinger Center for Energy and the Environment & PIIRS
+#  * Duties included: Tagging issues
+  * Supervisor: Simon A. Levin, Elke U. Weber
+
+* 2017-2019: Postdoctoral Research Associate
+  * Princeton University, Dep. Ecology and Evolutionary Biology
+#  * Duties included: Tagging issues
+  * Supervisor: Professor Simon A. Levin
 
 * Fall 2015: Research Assistant
   * Github University
