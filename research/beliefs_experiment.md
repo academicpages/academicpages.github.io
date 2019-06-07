@@ -5,6 +5,8 @@ permalink: /research/beliefs_experiment
 citation: 'Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>, Forthcoming.'
 ---
 
+[[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCOZ6N)
+
 
 ## Abstract
 
