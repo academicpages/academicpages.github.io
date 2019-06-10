@@ -32,7 +32,7 @@ Associated github: [cduvallet/aspiration-analysis-public](https://github.com/cdu
 
 Keegan Korthauer\*, Patrick K Kimes\*, **Claire Duvallet**^, Alejandro Reyes^, Ayshwarya Subramanian^, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks.     
 "A practical guide to methods controlling false discoveries in computational biology."     
-_bioRxiv_ (2018). doi: [10.1101/458786](https://www.biorxiv.org/content/early/2018/10/31/458786).    
+_Genome Biology_ (2019). doi: [10.1186/s13059-019-1716-1](https://doi.org/10.1186/s13059-019-1716-1).    
 Associated github: [pkimes/benchmark-fdr](https://github.com/pkimes/benchmark-fdr)
 
 Thomas Gurry, HST Microbiome Consortium, Sean M Gibbons, Sean M Kearney, Ashwin Ananthakrishnan, Xiaofang Jiang, **Claire Duvallet**, Zain Kassam, and Eric J Alm.      
