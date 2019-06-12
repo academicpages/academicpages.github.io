@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kia Rahmani and I am a 4<sup>th</sup> year PhD student of computer science at Purdue University. 
+My name is Kia Rahmani and I am a PhD student of computer science at Purdue University. 
 I am a member of the [programming languages group](https://purduepl.github.io/), 
 working under the supervision of 
-Professor [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/)
-and 
 Professor [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) 
+and 
+Professor [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/)
 .
 The main topics of my research interests include formal methods of modeling, analysis and verification of applications. 
-I specifically focus on automated generation of
-verifiably correct and scalable distributed (database-backed) applications.
+I specifically focus on automated debugging/generation of
+verifiably correct and scalable distributed database applications.
 
 
 
