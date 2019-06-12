@@ -16,7 +16,7 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 
 ### Recent News
-* Excited to present new work on how price shocks at a particular age can have a long run effect on driving behavior. Come see us at [AERE in Lake Tahoe](https://www.aere.org/summer-conference) on 5/31.
+* [AERE in Lake Tahoe](https://www.aere.org/summer-conference) was a great conference! Saw a lot of great research and great people.
 * Presented at the [NBER Economics of Infrastructure](http://papers.nber.org/sched/EIs19) in early March!
 * January 2019: *NEW* draft of *LA Metro* paper [here](files/20190130_Severen_LAMetro_New.pdf) and [slides](files/201901_Severen_LAMetro.pdf) too. Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.
 * November 2018: Paper on technology adoption and uncertainty finally found a [home at ReSTAT](https://www.mitpressjournals.org/toc/rest/0/ja). It's been a long journey! This project, and my excellent coauthors, have provided the best learning opportunity.
