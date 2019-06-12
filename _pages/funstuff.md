@@ -2,7 +2,7 @@
 title: "Fun Stuff"
 layout: archive
 author_profile: true
-permalink: /fun stuff/
+permalink: /funstuff/
 ---
 
 In my free time I like to play soccer. 
