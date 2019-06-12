@@ -1,8 +1,8 @@
 ---
-title: "About Me"
+title: "Fun Stuff"
 layout: archive
 author_profile: true
-permalink: /aboutme/
+permalink: /fun stuff/
 ---
 
 In my free time I like to play soccer. 

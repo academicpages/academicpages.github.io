@@ -1,8 +1,8 @@
 --- 
 main: 
   - 
-    title: "About Me"
-    url: /aboutme/
+    title: "Fun Stuff"
+    url: /funstuff/
   - 
     title: CV
     url: /cv/
