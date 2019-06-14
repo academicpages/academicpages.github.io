@@ -82,15 +82,12 @@ analytics:
 author:
   name             : "Jie Wang"
   avatar           : "profile.png"
-  bio              : "I am a postdoctoral associate working on deep learning-based perception, path planning and controls for micro aerial vehicle (MAV) systems and used to work on modeling, controls, and simulations of a quadrupedal track-legged robot. I am excited about any technology that improves the autonomy of robotic systems, especially a combination of learning-based and model-based techniques. "
+  bio              : "I am a postdoctoral associate working on deep learning-based perception, path planning and controls for micro aerial vehicle (MAV) systems and used to work on modeling, controls, and simulations of a quadrupedal track-legged robot."
   location         : "Calgary, Canada"
-  employer         :
-  googlescholar    : "https://scholar.google.ca/citations?user=BI7jiWQAAAAJ&hl=en"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Jie_Wang152"
   github           : "https://github.com/jwangjie"
   linkedin         : "https://www.linkedin.com/in/jwangjie/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.ca/citations?user=BI7jiWQAAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Jie_Wang152"
 
 # Reading Files
 include:
