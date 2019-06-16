@@ -6,7 +6,7 @@ venue: "The 36th International Conference on Machine Learning (ICML-19)"
 date: 2018-4-12
 citation: '<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.'
 ---
-
+[[PDF]](http://proceedings.mlr.press/v97/yu19e.html)
 
 
 ## Abstract
