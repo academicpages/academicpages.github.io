@@ -4,6 +4,88 @@ permalink: /travel/
 author_profile: true
 ---
 
+## June 4
+
+**San Diego, CA --> Boston, MA**
+
+My original flight was cancelled so I got to rebook on an earlier flight with my favorite route: layover in Austin, TX! So, of course, I did what one _must_ do there and got Tacodeli and Amy's ice cream. What joy.
+
+<img src="/images/2019/road-trip/2019-06-04_austin_airport_feast.jpg" width="45%">
+
+Ben picked me up at the airport and... that's it! The end of a truly wonderful trip. So many people have been saying "wow, what a once-in-a-lifetime trip" -- to which my response is "hopefully not." Because if there's one thing I've learned on this trip, apart from the definitive fact that I do indeed get hangry, it's that there's still so much more to see.
+
+<img src="/images/2019/road-trip/part1_overview.png" width="45%"> <img src="/images/2019/road-trip/part2_overview.png" width="45%">
+
+## June 3
+
+**San Diego, CA**
+
+Spent the morning catching up on internet things, made my annual pilgrimage to the burrito place next to my parents' house for lunch, got the car washed, and bought some anti-scratch stuff for it.
+
+<img src="/images/2019/road-trip/2019-06-03_car_wash.jpg" width="80%">
+
+Got back home and marveled at the magic of Scratch X 2.0: I'd run into a lot of tree branches in my dirt road excursions, so the car looked like the entire passenger side had been thoroughly keyed. But the stuff magically took it off! SHEW!
+
+<img src="/images/2019/road-trip/2019-06-03_car_scratches.jpg" width="80%">
+
+More Mexican food for dinner (where the server asked if I was 18... -\_\_-), finished up packing, and a last sleep on this adventure.
+
+<img src="/images/2019/road-trip/2019-06-02_packing_initial.jpg" width="40%"> <img src="/images/2019/road-trip/2019-06-03_packing_final.jpg" width="40%">
+
+## June 2
+
+**Big Sur, CA --> San Diego, CA**
+
+It's the end of an era! Today's plan was just the long drive back to San Diego. Turns out it was quite cloudy at the top of the mountain, so I'm glad I hadn't gone all the way to the ridge because I doubt there would have been a view. After getting down the mountain, which had spectacular views of the cloud line, I pulled into the nearest picnic area to have my last breakfast feast:
+
+<img src="/images/2019/road-trip/2019-06-02_cloud_line_big_sur.jpg" width="45%"> <img src="/images/2019/road-trip/2019-06-02_highway_one_breakfast.jpg" width="45%">
+
+So the crappy thing about Highway 1 is that every single developed area has a day-use fee of like $10. A ranger guy came into the picnic area right as I was packing up, and I saw him ask the other couple hanging out there to pay the fee. I avoided eye contact as best as I could, but he came up and asked me if I was just about to leave. I said yes, and he said that was fine so I quickly wrapped up my packing up and headed out fast fast. I really needed to use the restroom, though, so I stopped at the next pull-out, parked on the side of the road, walked into the day-use fee to use their restroom, and got back on the road.
+
+<img src="/images/2019/road-trip/2019-06-02_highway_one_seals.jpg" width="80%">
+
+Highway 1 is really spectacular. The road goes right along the coast, with lots of windy turns and amazing views of the ocean. I'd say between Monterey and San Simeon was the most beautiful part, but the whole thing was pretty fun. I started hitting LA traffic a little after that, and then it was just coasting all the way back to San Diego. Definitely the shittiest day of driving on this entire trip, if only because I had to focus for so long -- my other very long days of driving tended to be on long, flat highways without too much traffic. Anyway, a bittersweet ending -- even if it's sad that this is over, at least I was super glad to make it home. :)
+
+<img src="/images/2019/road-trip/2019-06-02_san_diego_arrival.jpg" width="80%">
+
+## June 1
+
+**Mountain View, CA --> Big Sur, CA**
+
+I met up with Shawn and Santi (and Carolyn in tow) for brunch. Apparently brunch options in the South Bay are depressingly few: we had what I would consider a solidly mediocre brunch, but which was on a list of the top N brunches in the South Bay. Womp. After that, I hung out with Carolyn for a bit in her hometown, including a jaunt down to her high school to throw for a bit. Then it was off to start the final leg of my trip: Highway 1 all the way down to San Diego. I was hoping to get to a camp after stopping to see McWay falls, hopefully around sunsent, but I kept stopping at almost every pull out because the road and view were so spectacular.
+
+<img src="/images/2019/road-trip/2019-06-01_highway_1_bridge.jpg" width="45%"> <img src="/images/2019/road-trip/2019-06-01_highway_1_coast.jpg" width="45%">
+
+But I did make it to McWay falls right around dusk, which was actually not the most spectacular view on the whole thing imo. My plan for dinner (Big Sur Bakery, recommended by Jeremy) was closed for a private event, so I made quick ramen (delicious) and fancy add-water one-bowl Indian food (not delicious) for dinner at the falls picnic area.
+
+<img src="/images/2019/road-trip/2019-06-02_mcway_falls.jpg" width="80%">
+
+Then, it was another hour or so drive to the campsite Felix had recommended, up in the Los Padres National Forest near Big Sur. The drive up the mountain was pretty treacherous, windy roads with pretty intense fog at times. But when I got above the clouds and saw the stars -- wow. I made it about halfway down the dirt road that goes to the ridge where I'd planned to camp, but was tired of the slow going and didn't want to go too far for tomorrow morning, so just pulled into the next spot I found. Caught up on some writing, at first sitting outside but then I kept hearing noises (bears?? mountain lions?!) so I retreated to my house mansion.
+
+<img src="/images/2019/road-trip/2019-06-02_prewitt_ridge_camp.jpg" width="80%">
+
+## May 31
+
+**Oakland, CA --> Mountain View, CA**
+
+Jeremy and I made delicious waffles before I headed out to meet Dr. Nathaniel for lunch and catch up. So glad our trips to SF intersected by a day, otherwise I would have been so sad.
+
+<img src="/images/2019/road-trip/2019-05-31_jeremy_waffles.jpg" width="80%">
+
+Next, I drove to Mountain View to the Duvallet outpost where both my brothers and my sister-in-law live. Caught up a bit, and then went to get dinner with them, where Carolyn joined us. Yet another wonderful, unexpected meetup in the Bay. Ended the day with beers in Palo Alto, and a glorious sleep on a BED.
+
+<img src="/images/2019/road-trip/2019-06-01_team_delta_kilo_house.jpg" width="80%">
+
+## May 30
+
+**Oakland, CA**
+
+Today was a pretty chill hanging out day. Jeremy and I drove all over the bay, first with an overlook of East Bay, then brunch at a delicious Jewish deli (zomg corned beef hash), seeing some bison in the SF park (unimpressed, lol), stopping by to see to ocean (officially made it to the other coast!!), and joined him for an appointment.
+
+<img src="/images/2019/road-trip/2019-05-30_east_bay_overlook.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-30_pacific_ocean.jpg" width="45%">
+
+Got back home for a Luce Scholar dinner - Jeremy lives with Eryn, another former Lucer, and Gennie lives in SF. Always so fun to catch up with these cool cats. Except that almost every time we do we fail at getting a photo. D'oh!
+
 ## May 29
 
 **Susanville, CA --> Oakland, CA**
@@ -14,7 +96,7 @@ I felt pretty bummed most of the day -- after a delicious breakfast burrito I co
 
 Anyway. First stop in SF: Oakland, to see Jeremy and some other former Luce Scholars! This is the _one_ sleeping spot I forgot to take a photo of, so for penance here's a Google street view photo of the house (complete with porta-potty, womp womp):
 
-<img src="/images/2019/road-trip/2019-05-29_oakland_street_view.jpg " width="80%">
+<img src="/images/2019/road-trip/2019-05-29_oakland_street_view.jpg" width="80%">
 
 ## May 27-28
 
@@ -175,7 +257,7 @@ After a lot of back-and-forthing, I decided to stick with my original plan from 
 
 <img src="/images/2019/road-trip/2019-05-20_fog.jpg" width="45%"> <img src="/images/2019/road-trip/2019-05-21_view.jpg" width="45%">
 
-Kept driving a bit and the scenery changed to stunning forested cliffs -- what?! This was in the Southwestern part of Little Big Horn forest, gotta come back and explore! Pretty sure this is my favorite drive so far, though maybe it was also partially because I was so glad to be out of the fog and definitely only expecting rain and snow from here until I got to Nevada.
+Kept driving a bit and the scenery changed to stunning forested cliffs -- what?! This was in the Southwestern part of Big Horn forest, gotta come back and explore! Pretty sure this is my favorite drive so far, though maybe it was also partially because I was so glad to be out of the fog and definitely only expecting rain and snow from here until I got to Nevada.
 
 <img src="/images/2019/road-trip/2019-05-20_canyon_view.jpg" width="80%">
 
@@ -1180,7 +1262,7 @@ Because I left Mesa so late, just made it to Indian Bread Rocks BLM campsite ton
 
 It begins!
 
-![](/images/2019/road-trip/2019-02-17_san_diego_departure.jpg)
+<img src="/images/2019/road-trip/2019-02-17_san_diego_departure.jpg" width="80%">
 
 I flew to San Diego on Wednesday. I finished up some reviewer comments, got everything I need for my trip (except all the things I forgot), and now I'm off.
 
@@ -1200,4 +1282,4 @@ For today, one lulz for you: I accidentally "blew right through" a stop sign at 
 
 Here's where I slept tonight:
 
-![](/images/2019/road-trip/2019-02-17_sonoran_desert_camp.jpg)
+<img src="/images/2019/road-trip/2019-02-17_sonoran_desert_camp.jpg" width="80%">
