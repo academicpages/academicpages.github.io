@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sateesh Peri"
 title_separator          : "-"
 name                     : &name "Sateesh Peri"
-description              : &description "Graduate Student at University of Nevada, Reno"
+description              : &description "Graduate Student at University of Arizona"
 url                      : https://sateeshperi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sateeshperi.github.io"
@@ -80,10 +80,10 @@ author:
   name             : "Sateesh Peri"
   avatar           : "peri_profile.jpg"
   bio              : "Graduate Student | Data Carpentry Instructor"
-  location         : "Reno, Nevada"
+  location         : "Tucson, Arizona"
   employer         :
   googlescholar    :
-  email            : "perisateesh@nevada.unr.edu"
+  email            : "sateeshp@email.arizona.edu"
   uri              :
   bitbucket        :
   codepen          :
