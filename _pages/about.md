@@ -3,9 +3,9 @@ permalink: /
 title: "Sateesh Peri"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome to my website. I am a second year cellular and molecular biology PhD student at University of Nevada, Reno. I study the role of non-coding RNAs in reproductive health. I am also a certified Data Carpentry instructor.
+I am a PhD candidate in Eric Lyon’s lab (http://www.lyonslab.net/) at University of Arizona. My primary research focus is on identification and characterization of long non-coding RNAs while I spend my spare time learning and teaching computational skills to biologists. I am also an active Data Carpentry instructor rooting for open-science.
