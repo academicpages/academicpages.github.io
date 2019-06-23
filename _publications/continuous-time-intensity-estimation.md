@@ -26,6 +26,9 @@ header:
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+<b>DOI:</b> [10.1007/978-3-030-20873-8_20](https://doi.org/10.1007/978-3-030-20873-8_20)
+
+
 <br />
 <b>Reference:</b>
-* C. Scheerlinck, N. Barnes, R. Mahony, "Continuous-time Intensity Estimation Using Event Cameras", Asian Conference on Computer Vision (ACCV), Perth, 2018.
+* C. Scheerlinck, N. Barnes, R. Mahony, "Continuous-time Intensity Estimation Using Event Cameras", Asian Conference on Computer Vision (ACCV), Perth, 2018, pp. 308-324.
