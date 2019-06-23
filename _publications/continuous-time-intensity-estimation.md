@@ -26,8 +26,8 @@ header:
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+<br />
 <b>DOI:</b> [10.1007/978-3-030-20873-8_20](https://doi.org/10.1007/978-3-030-20873-8_20)
-
 
 <br />
 <b>Reference:</b>
