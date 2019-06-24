@@ -12,4 +12,4 @@ I am a fourth year Ph.D. student in Computer Science at the University of Illino
 
 I previously earned my B.A. summa cum laude from Knox College in Galesburg, IL with a major in Computer Science and a self-designed minor in Renaissance and Medieval Studies. I have always been interested in both fields, and in addition to my current research, I am particularly excited about projects that combine the two areas.
 
-When not studying or working at school, I also run a small craft business, [Realms of Legend](realmsoflegend.etsy.com), for which I create handmade items inspired by fantasy and sci-fi series that I love, as well as past eras of our own world.
+When not studying or working at school, I also run a small craft business, [Realms of Legend](https://realmsoflegend.etsy.com), for which I create handmade items inspired by fantasy and sci-fi series that I love, as well as past eras of our own world.
