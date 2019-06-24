@@ -85,9 +85,9 @@ author:
   bio              : "4th year Ph.D. student in Computer Science at UIUC"
   location         : "Illinois"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9nZlUHkAAAAJ&hl=en"
-  email            : "mailto:ehstngs2@illinois.edu"
+  email            : "ehstngs2@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
