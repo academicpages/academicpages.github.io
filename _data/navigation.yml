@@ -12,5 +12,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Press"
+    url: /press/
+    
   - title: "Creative"
     url: /creative/
