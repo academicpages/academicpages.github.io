@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am currently a first-year Ph.D student of [Department of Computer Science and Engineering](https://cse.osu.edu) at [The Ohio State University](https://www.osu.edu). My principal interests lie in Natural Language Processing, Data Mining and deep learning. 
+I am currently a first-year Ph.D student of [Department of Computer Science and Engineering](https://cse.osu.edu) at [The Ohio State University](https://www.osu.edu). My principal interests lie in system security and deep learning. 
 
 Before coming OSU, I obtained my B.E. degree from [School of Electronics and Information](http://dianzi.nwpu.edu.cn/en/index.htm) at [Northwestern Polytechnical University](http://en.nwpu.edu.cn/index.htm), supervised by [Prof. Ruonan Zhang](http://dianzi.nwpu.edu.cn/info/1270/5979.htm). I also fortunately worked with [Prof. Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html) on NLP at Fudan University and [Prof. Zuqing Zhu](http://www.zuqingzhu.info) on Cloud Computing at University of Science and Technology of China.
 
