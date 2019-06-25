@@ -4,7 +4,7 @@ collection: teaching
 type: "FudanNLP Group "
 permalink: /teaching/multitask-learning
 venue: "Fudan University"
-date: 2018-04
+date: 2018-04-01
 location: "Shanghai, China"
 ---
 
