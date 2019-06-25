@@ -1,9 +1,9 @@
 ---
 title: "Adaptive metabolic strategies in consumer-resource models"
 collection: publications
-permalink: /publication/2019-05-06-adaptive-metabolic-strategies
+permalink: /publication/2018-08-06-adaptive-metabolic-strategies
 excerpt: "bioRxiv preprint"
-date: 2019-05-06
+date: 2018-08-06
 venue: 'bioRxiv'
 authors: 'Leonardo Pacciani-Mori, Andrea Giometto, Samir Suweis, Amos Maritan'
 #paperurl: 'https://doi.org/10.1101/385724'
