@@ -17,7 +17,7 @@ Before coming OSU, I obtained my B.E. degree from [School of Electronics and Inf
 For more details, please refer to my latest [resume](http://xinjin95.github.io/files/CV_XinJin.pdf) (01/2019) or my [LinkedIn](https://www.linkedin.com/in/xin-jin-889226174/) profile.
 
 # What's new
-*08/2018*, I started to pursue my Ph.D. degree at OSU CSE department and left FudanNLP lab, thanks for helps from Prof. Xipeng Qiu, Dr. Xinchi Chen and colleagues in FudanNLP Group.
+*08/2018*, I started to pursue my Ph.D. degree at OSU CSE department and left FudanNLP lab, thanks for help from Prof. Xipeng Qiu, Dr. Xinchi Chen and colleagues in FudanNLP Group.
 
 *04/2018*, I started my intership at FudanNLP lab in Fudan University, using Multi-task learning on NLP. I left INFINITE lab at University of Science and Technology of China, thanks for helps from Prof. Zuqing Zhu, Dr. Wei Lu and colleagues in INFINITE lab.
 
