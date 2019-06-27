@@ -1,7 +1,6 @@
 ---
-permalink: /creative/
 title: "Creative"
-excerpt: "Creative"
+permalink: /creative/
 author_profile: true
 redirect_from: 
   - /creative/

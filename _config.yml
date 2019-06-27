@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Emily M. Hastings"
 description              : &description "Ph.D. Student at UIUC"
 url                      : https://emhastings.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emhastings.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :  "UCY60o35eikWhif6wiV5H8Og"
+  youtube          :
   wikipedia        :
 
 

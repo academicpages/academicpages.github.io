@@ -1,7 +1,6 @@
 ---
-permalink: /press/
 title: "Press"
-excerpt: "Press"
+permalink: /press/
 author_profile: true
 redirect_from: 
   - /press/
