@@ -1,5 +1,5 @@
 ---
-permalink: /creative/
+permalink: /
 title: "Creative"
 excerpt: "Creative"
 author_profile: true
