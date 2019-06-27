@@ -1,6 +1,7 @@
 ---
-title: "Creative"
 permalink: /creative/
+title: "Creative"
+excerpt: "Creative"
 author_profile: true
 redirect_from: 
   - /creative/

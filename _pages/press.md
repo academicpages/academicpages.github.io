@@ -1,6 +1,7 @@
 ---
-title: "Press"
 permalink: /press/
+title: "Press"
+excerpt: "Press"
 author_profile: true
 redirect_from: 
   - /press/
