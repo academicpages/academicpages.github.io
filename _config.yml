@@ -14,7 +14,7 @@ description              : &description "Ph.D. Student at UIUC"
 url                      : https://emhastings.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "emhastings.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "emhastings"
+  linkedin         : "https://www.linkedin.com/in/emhastings/"
   orcid            : "https://orcid.org/0000-0003-1155-4650"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :  "UCY60o35eikWhif6wiV5H8Og"
+  youtube          :  "https://www.youtube.com/channel/UCY60o35eikWhif6wiV5H8Og/featured?view_as=subscriber"
   wikipedia        :
 
 
