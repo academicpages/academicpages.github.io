@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Academic
-  * [Fall 2018 Celebration of Excellence Student Awards | University of Illinois Computer Science Facebook](https://www.facebook.com/pg/CSatIllinois/photos/?tab=album&album_id=10157032088753028&__tn__=-UC-R)
+  * [Fall 2018 Celebration of Excellence Student Awards \| University of Illinois Computer Science Facebook](https://www.facebook.com/pg/CSatIllinois/photos/?tab=album&album_id=10157032088753028&__tn__=-UC-R)
   * [Emily Hastings '16 | Knox College](https://www.knox.edu/profiles/hastings-emily-16)
   * [Knox College Commencement 2016 | Knox College](https://www.knox.edu/news/commencement-2016)
   * [Phi Beta Kappa Inducts 35 New Members | Knox College](https://www.knox.edu/news/phi-beta-kappa-induction-knox-college-2016)
