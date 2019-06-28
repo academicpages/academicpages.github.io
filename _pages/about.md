@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My name is Kia Rahmani and I am a PhD student of computer science at Purdue University. 
-I am a member of the [programming languages group](https://purduepl.github.io/), 
+I am a member of the [programming languages group](https://purpl.cs.purdue.edu/), 
 working under the supervision of 
 Professor [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) 
 and 
