@@ -48,7 +48,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
+logo                     : "logo.png"
+  
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -81,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily M.  Hastings"
-  avatar           : "headshot.jpg"
+  avatar           : "profile_square.jpg"
   bio              : "4th year Ph.D. student in Computer Science at UIUC."
   location         : "Illinois"
   employer         :
@@ -309,6 +310,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-logo: "logo.png"
     
