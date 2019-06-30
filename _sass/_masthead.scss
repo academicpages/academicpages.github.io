@@ -5,28 +5,20 @@
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
+          animation-delay: 0.15s;
   z-index: 20;
 
   &__inner-wrap {
+    @include container;
     @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 1em;
-    max-width: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
+    padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $max-width;
+      max-width: $x-large;
     }
 
     nav {
@@ -43,30 +35,7 @@
   max-height: 2rem;
 }
 
-.site-title {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-item-align: center;
-  align-self: center;
-  font-weight: bold;
-  z-index: 20;
-}
-
 .masthead__menu {
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
-  clear: both;
-
-  .site-nav {
-    margin-left: 0;
-
-    @include breakpoint($small) {
-      float: right;
-    }
-  }
 
   ul {
     margin: 0;
