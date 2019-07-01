@@ -10,13 +10,13 @@ More broadly, I'm interested in using **personalized medicine approaches for pub
 
 My main project so far has been a large **[meta-analysis of case-control gut microbiome studies](https://www.nature.com/articles/s41467-017-01973-8)**.
 We found generalizable insights about patterns of microbiome shifts and showed that most disease-associated bacteria found in individual studies are not specific to the disease under study.
-You can check out the [paper](https://www.nature.com/articles/s41467-017-01973-8) or a more colloquial summary on my Nature Microbiology [behind the paper blog](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease).
+You can check out the [paper](https://www.nature.com/articles/s41467-017-01973-8) or a more colloquial summary on my Nature Microbiology [behind the paper blog](http://go.nature.com/2As9meL).
 
 I'm proud to have used this project as an opportunity to practice **reproducible, open science**: every analysis in the paper can be re-made with the code on my [github](http://github.com/cduvallet/microbiomeHD), and we put the data on [Zenodo](https://zenodo.org/record/840333#.WbdUMtOGPBI).
 
-I've also been working with a clinical collaborator at Boston Children's Hospital to analyze a large dataset of **lung, stomach, and throat microbiomes** of over 200 pediatric patients.
+I also worked with a clinical collaborator at Boston Children's Hospital to analyze a large dataset of **lung, stomach, and throat microbiomes** of over 200 pediatric patients.
 We found that lung and stomach microbiomes are driven more by the individual person than the body site and that patients with swallowing dysfunction have more similar lung and throat microbiomes than those who swallow normally.
-This has exciting clinical implications for how we treat kids with these disorders, and you can read more about it on [our preprint](https://www.biorxiv.org/content/10.1101/476580v2).
+This has exciting clinical implications for how we treat kids with these disorders, and you can read more about it in [our paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216453) or my [behind the paper blog post](https://go.nature.com/30rx4VZ).
 
 Throughout my PhD, I also worked on the [Underworlds](http://underworlds.mit.edu/) project, **mining sewage for useful public health information**.
 I worked with a Master's student to look at antibiotics and antibiotic resistance genes in sewage across multiple countries, you can read more about what we found in [his preprint](https://www.biorxiv.org/content/10.1101/562496v1).
