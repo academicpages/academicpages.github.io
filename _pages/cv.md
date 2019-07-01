@@ -93,7 +93,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Associations
+## Service and memberships
 * Vicepresident of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 20th October 2018 - present day
 * Member of the [Complex Systems Society](https://www.cssociety.org){:target="_blank"}<!--_-->, 23rd September 2018 - present day
 * Secretary of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 1st October 2017 - present day
