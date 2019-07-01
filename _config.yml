@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 Linkedin:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,9 +83,9 @@ author:
   name             : "Mansu Kim"
   avatar           : "profile.png"
   bio              : "Ph.D. in Electrical and Electronic Engineerining, Sungkyunkwan University"
-  location         : "Suwon1, Korea"
+  location         : "Suwon2, Korea"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.co.kr/citations?user=Mfp3So0AAAAJ&hl=en"
   email            : "mansooru.kim@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
