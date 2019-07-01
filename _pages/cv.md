@@ -26,7 +26,7 @@ James Bowie High School, Austin, TX (2009)
 
 I did my PhD in [Eric Alm's lab](http://almlab.mit.edu/) at MIT.
 You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
-You can find my [thesis](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf) and [defense slides](https://github.com/cduvallet/phd-thesis/blob/master/presentation/2019-01-11.defense.pdf) on my [github](https://github.com/cduvallet/phd-thesis).
+You can download my [thesis](https://www.dropbox.com/s/elvp8qzrz3zsjyx/duvallet_thesis_final.pdf?dl=0) and [defense slides](https://www.dropbox.com/s/j4b11wa8a4r42j8/2019-01-11.defense.pdf?dl=0), and also view them on my [github](https://github.com/cduvallet/phd-thesis).
 
 **Molecular and Microscale Bioengineering Laboratory**, Columbia University (2011-2013)
 *Under the direction of Samuel K. Sia*
