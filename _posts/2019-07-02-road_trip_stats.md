@@ -1,8 +1,9 @@
 ---
 title: Quick road trip stats
-permalink: /posts/2019/06/road-trip-stats
-date: 2019-06-03
+permalink: /posts/2019/07/road-trip-stats
+date: 2019-07-02
 ---
+
 * Miles driven: 13174
 * States driven through:
 * States stayed in:
