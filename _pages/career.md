@@ -6,7 +6,7 @@ author_profile: true
 
 ## My goal is to **shape the scientific vision** of a company which uses **computational biology or data science to impact society**.
 
-More specifically, I envision my ideal **role** as a CSO, or CSO-like person. I want to:
+More specifically, I envision my eventual ideal **role** as a CSO, or CSO-like person. I want to:
 
 - interact with data analysis in a non-trivial way, either through doing analyses myself or advising on computational/data analysis work
 - engage non-scientists and get them excited about our work and potential impact
@@ -16,11 +16,14 @@ My ideal **company**:
 
 - impacts society through public health interventions or other population-level effects
 - harnesses computational biology and 'omics data to achieve impact
+- preferentially works in areas with large disparities, and endeavours to reduce them
 - centers its values in every aspect of the scientific work it does
 
-My long-term career goal is to be a **key player in shaping the integration of precision medicine into public health**, specifically focusing on conditions _other_ than cancer (e.g. infectious disease, lifestyle-associated diseases, nutrition, health disparities, etc).
+One possible long-term career goal might be to be a **key player in shaping the integration of precision medicine into public health**, specifically focusing on conditions _other_ than cancer (e.g. infectious disease, lifestyle-associated diseases, nutrition, health disparities, etc).
 
 In my mind, "**precision medicine**" means any combination of multi-omics or otherwise "big" data and some sort of fine resolution (e.g. at the individual or neighborhood level, and/or longitudinal).
+
+That said, I'm open to any career path that makes use of my technical training to reduce disparities and increase equity and justice in society.
 
 ## **Jobs that would really excite me:**
 
