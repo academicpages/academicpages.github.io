@@ -11,7 +11,7 @@ redirect_from:
 # Education
 
 **Massachusetts Institute of Technology**, PhD in Biological Engineering (Jan 2019)    
-_Mining the human microbiome for clinical insight_; [thesis](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf), [defense](https://github.com/cduvallet/phd-thesis/blob/master/presentation/2019-01-11.defense.pdf)
+_Mining the human microbiome for clinical insight_; [thesis]((https://www.dropbox.com/s/elvp8qzrz3zsjyx/duvallet_thesis_final.pdf?dl=0), [defense](https://www.dropbox.com/s/j4b11wa8a4r42j8/2019-01-11.defense.pdf?dl=0)
 
 **Columbia University**, B.S. in Biomedical Engineering (2013)   
 
@@ -31,7 +31,7 @@ You can download my [thesis](https://www.dropbox.com/s/elvp8qzrz3zsjyx/duvallet_
 **Molecular and Microscale Bioengineering Laboratory**, Columbia University (2011-2013)
 *Under the direction of Samuel K. Sia*
 
-I was an undergraduate research assistant in [Sam   Sia](http://bme.columbia.edu/samuel-k-sia)'s lab for two years at Columbia.
+I was an undergraduate research assistant in [Sam Sia](http://bme.columbia.edu/samuel-k-sia)'s lab for two years at Columbia.
 There, I worked on developing a point-of-care microfluidic device to diagnose multi-drug resistant tuberculosis.
 I primarily focused on the DNA amplification and detection modules, optimizing primers and reaction conditions off-chip.
 
