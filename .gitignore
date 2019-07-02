@@ -3,5 +3,6 @@ _site/
 *~
 .ipynb_checkpoints/*
 .ipynb_checkpoints
+~$*.xlsx
 
 Disease datasets list - data blog post.tsv
