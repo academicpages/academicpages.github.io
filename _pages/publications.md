@@ -14,11 +14,11 @@ author_profile: true
 
 Chengzhen Dai, **Claire Duvallet**, An Ni Zhang, Mariana Matus, Newsha Ghaeli, Shinkyu Park, Noriko Endo, Siavash Isazadeh, Kazi Jamil, Carlo Ratti, and Eric Alm.    
 "Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in sewage environments."      
-_in preparation_.
+_bioRxiv_ (2019). doi: [10.1101/562496](https://doi.org/10.1101/562496).
 
 **Claire Duvallet**, Caroline Zellmer, Pratik Panchal, Shrish Budree, Madji Osman, and Eric Alm.    
 "Framework for rational donor selection in fecal microbiota transplant clinical trials."    
-_in preparation_.     
+_in preparation, preprint submitted to medRxiv_.     
 Associated github: [cduvallet/donor-selection](https://github.com/cduvallet/donor-selection/)
 
 Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm.   
@@ -27,7 +27,7 @@ _in preparation_.
 
 **Claire Duvallet**, Kara Larson, Scott Snapper, Sonia Iosim, Ann Lee, Katherine Freer, Kara May, Eric Alm, and Rachel Rosen.    
 "Aerodigestive sampling reveals altered microbial exchange between lung, oropharyngeal, and gastric microbiomes in children with impaired swallow function."     
-_bioRxiv_ (2018). doi: [10.1101/476580](https://www.biorxiv.org/content/early/2018/11/23/476580).    
+_PLOS ONE_ (2019). doi: [10.1371/journal.pone.0216453](https://doi.org/10.1371/journal.pone.0216453).    
 Associated github: [cduvallet/aspiration-analysis-public](https://github.com/cduvallet/aspiration-analysis-public)
 
 Keegan Korthauer\*, Patrick K Kimes\*, **Claire Duvallet**^, Alejandro Reyes^, Ayshwarya Subramanian^, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks.     
