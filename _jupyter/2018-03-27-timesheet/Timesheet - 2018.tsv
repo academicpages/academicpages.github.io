@@ -1,0 +1,810 @@
+weeknumber	weekday	date	start	end	duration	category	project	location
+1	3	1/2	11:40 AM	12:00 p	0:20	science		plane
+1	3	1/2	2:30 p	4:10 p	1:40	science		plane
+1	3	1/2	4:30 p	7:10 p	2:40	science		plane
+1	3	1/2	5:40 p	6:20 p	0:40	science		hawaii
+1	3	1/2	8:05 p	9:35 p	1:30	science		hawaii
+1	3	1/2	10:20 PM	10:45 PM	0:25	science		hawaii
+1	4	1/3	9:30 AM	10:00 AM	0:30	science		hawaii
+1	4	1/3	11:15 AM	12:15 PM	1:0	science		hawaii
+1	4	1/3	13:30	4:30 PM	3:0	science	conference	hawaii
+1	4	1/3	6:40 PM	7:30 PM	0:50	science		hawaii
+1	4	1/3	7:30 PM	9:00 PM	1:30	professional	conference	hawaii
+1	4	1/3	9:10 PM	9:40 PM	0:30	science		hawaii
+1	5	1/4	8:30 AM	5:30 PM	9:0	science	conference	hawaii
+1	5	1/4	6:00 PM	6:20 PM	0:20	science		hawaii
+1	6	1/5	8:30 AM	5:10 PM	8:40	science	conference	hawaii
+1	7	1/6	8:30 AM	4:40 PM	8:10	science	conference	hawaii
+1	7	1/6	10:45 PM	11:00 PM	0:15	professional	website	hawaii
+2	1	1/7	8:30 AM	10:30 AM	2:0	science	conference	hawaii
+2	1	1/7	11:30 AM	12:45 PM	1:15	science	conference	hawaii
+2	2	1/8	2:10 PM	4:30 PM	2:20	science		plane
+2	3	1/9	9:30 AM	10:25 AM	0:55	extracurricular	diversity	campus
+2	3	1/9	10:35 AM	11:45 AM	1:10	science		lab
+2	3	1/9	12:00 PM	2:30 PM	2:30	extracurricular	refs	campus
+2	3	1/9	2:45 PM	5:45 PM	3:0	science		lab
+2	3	1/9	7:10 PM	8:20 PM	1:10	science		lab
+2	4	1/10	11:00 AM	11:15 AM	0:15	science		home
+2	4	1/10	11:50 AM	2:40 PM	2:50	science		lab
+2	4	1/10	3:50 PM	5:15 PM	1:25	science		lab
+2	4	1/10	10:30 PM	11:10 PM	0:40	science		home
+2	5	1/11	10:30 AM	10:40 AM	0:10	extracurricular	diversity	home
+2	5	1/11	10:50 AM	11:10 AM	0:20	science		home
+2	5	1/11	3:50 PM	5:30 PM	1:40	science		lab
+2	5	1/11	5:30 PM	7:00 PM	1:30	extracurricular	diversity	campus
+2	5	1/11	7:15 PM	7:50 PM	0:35	science		lab
+2	5	1/11	10:00 PM	10:30 PM	0:30	science		home
+2	6	1/12	10:50 AM	1:00 PM	2:10	science		home
+2	6	1/12	2:00 PM	4:40 PM	2:40	science		home
+2	6	1/12	5:10 PM	6:10 PM	1:0	science		home
+2	6	1/12	8:10 PM	10:30 PM	2:20	science		home
+2	7	1/13	2:00 PM	6:20 PM	4:20	science		home
+3	1	1/14	8:15 PM	8:55 PM	0:40	extracurricular	addir	home
+3	2	1/15	9:30 AM	9:45 AM	0:15	science		lab
+3	2	1/15	9:45 AM	11:40 AM	1:55	extracurricular	refs	campus
+3	2	1/15	11:40 AM	12:50 PM	1:10	science		lab
+3	2	1/15	1:05 PM	6:55 PM	5:50	science		lab
+3	3	1/16	10:25 AM	12:40 PM	2:15	science		lab
+3	3	1/16	1:20 PM	6:00 PM	4:40	science		lab
+3	4	1/17	10:00 AM	11:00 AM	1:0	extracurricular	refs	campus
+3	4	1/17	11:00 AM	1:15 PM	2:15	extracurricular	diversity	campus
+3	4	1/17	2:25 PM	6:40 PM	4:15	science		lab
+3	4	1/17	10:20 PM	11:40 PM	1:20	science		home
+3	5	1/18	8:40 AM	10:05 AM	1:25	extracurricular	diversity	home
+3	5	1/18	11:20 AM	4:00 PM	4:40	science		lab
+3	5	1/18	4:00 PM	5:20 PM	1:20	professional	info_interview	off_campus
+3	5	1/18	6:00 PM	7:30 PM	1:30	science		lab
+3	6	1/19	10:30 AM	12:50 PM	2:20	science		lab
+3	6	1/19	1:45 PM	6:10 PM	4:25	science		longwood
+3	7	1/20	5:45 PM	6:25 PM	0:40	professional	website	home
+4	1	1/21	9:15 AM	10:00 AM	0:45	professional	website	home
+4	1	1/21	11:10 AM	12:45 PM	1:35	professional	website	home
+4	1	1/21	3:00 PM	3:40 PM	0:40	professional	website	lab
+4	1	1/21	4:50 PM	5:50 PM	1:0	professional	website	lab
+4	1	1/21	3:50 PM	4:30 PM	0:40	frisbee	throwing	outside
+4	1	1/21	9:00 PM	10:15 PM	1:15	frisbee	workout	indoors
+3	5	1/18	9:00 PM	11:00 PM	2:0	frisbee	practice	indoors
+3	3	1/16	9:00 PM	11:00 PM	2:0	frisbee	practice	indoors
+3	2	1/15	7:00 PM	9:15 PM	2:15	frisbee	practice	indoors
+4	1	1/21	11:45 PM	11:59 PM	0:14	professional	website	home
+4	1	1/21	12:00 AM	1:16 AM	1:16	professional	website	home
+4	2	1/22	10:20 AM	12:00 PM	1:40	science		lab
+4	2	1/22	12:00 PM	1:00 PM	1:0	extracurricular	be_board	campus
+4	2	1/22	1:00 PM	2:20 PM	1:20	extracurricular	refs	campus
+4	2	1/22	2:35 PM	3:30 PM	0:55	science		lab
+4	2	1/22	4:30 PM	6:30 PM	2:0	science		lab
+4	2	1/22	7:15 PM	9:20 PM	2:5	extracurricular	diversity	campus
+4	3	1/23	9:30 AM	9:45 AM	0:15	extracurricular	diversity	lab
+4	3	1/23	9:45 AM	10:00 AM	0:15	extracurricular	refs	lab
+4	3	1/23	10:00 AM	12:00 PM	2:0	extracurricular	diversity	campus
+4	3	1/23	12:45 PM	3:15 PM	2:30	science		lab
+4	3	1/23	3:50 PM	7:00 PM	3:10	science		lab
+4	3	1/23	7:20 PM	8:30 PM	1:10	science		lab
+4	4	1/24	9:00 AM	9:15 AM	0:15	science		home
+4	4	1/24	10:30 AM	3:00 PM	4:30	science		lab
+4	4	1/24	3:00 PM	3:20 PM	0:20	extracurricular	diversity	lab
+4	4	1/24	3:30 PM	5:15 PM	1:45	extracurricular	diversity	campus
+4	4	1/24	5:30 PM	6:00 PM	0:30	extracurricular	diversity	lab
+4	4	1/24	6:30 PM	7:30 PM	1:0	science		lab
+4	5	1/25	10:45 AM	1:15 PM	2:30	science		lab
+4	5	1/25	1:30 PM	2:00 PM	0:30	extracurricular	mbg	lab
+4	5	1/25	5:15 PM	6:00 PM	0:45	science		lab
+4	6	1/26	10:40 AM	1:15 PM	2:35	science		lab
+4	6	1/26	1:50 PM	5:45 PM	3:55	science		lab
+4	6	1/26	7:45 PM	8:30 PM	0:45	science		lab
+4	7	1/27	3:30 PM	4:50 PM	1:20	science		home
+5	1	1/28	7:00 PM	10:05 PM	3:5	science		home
+5	2	1/29	10:00 AM	12:45 PM	2:45	science		lab
+5	2	1/29	12:55 PM	2:00 PM	1:5	extracurricular	gradsage	campus
+5	2	1/29	2:00 PM	6:40 PM	4:40	science		lab
+5	3	1/30	10:20 AM	2:00 PM	3:40	science		lab
+5	3	1/30	3:50 PM	7:15 PM	3:25	science		lab
+5	3	1/30	7:15 PM	7:30 PM	0:15	extracurricular	diversity	lab
+5	4	1/31	10:25 AM	11:35 AM	1:10	science		lab
+5	4	1/31	1:10 PM	6:30 PM	5:20	science		lab
+5	5	2/1	10:45 AM	2:40 PM	3:55	science		lab
+5	5	2/1	3:00 PM	4:30 PM	1:30	professional	vedanta	off_campus
+5	5	2/1	5:25 PM	7:00 PM	1:35	science		lab
+5	6	2/2	10:30 AM	12:00 PM	1:30	science		lab
+5	6	2/2	12:00 PM	1:15 PM	1:15	science		off_campus
+5	6	2/2	1:15 PM	1:35 PM	0:20	science		bus
+5	6	2/2	1:45 PM	4:30 PM	2:45	science		longwood
+5	6	2/2	5:10 PM	5:25 PM	0:15	science		bus
+5	7	2/3	2:45 PM	4:30 PM	1:45	science		coffee_shop
+6	1	2/4	10:30 PM	10:55 PM	0:25	science		home
+6	2	2/5	8:40 AM	11:00 AM	2:20	science		home
+6	2	2/5	12:00 PM	4:00 PM	4:0	science		lab
+6	2	2/5	4:00 PM	5:00 PM	1:0	science		campus
+6	2	2/5	5:00 PM	5:30 PM	0:30	extracurricular	diversity	campus
+6	2	2/5	8:00 PM	9:00 PM	1:0	extracurricular	addir	campus
+6	2	2/5	6:00 PM	7:00 PM	1:0	extracurricular	microbiome_club	campus
+6	3	2/6	10:00 AM	2:45 PM	4:45	science		lab
+6	3	2/6	3:00 PM	4:15 PM	1:15	science	seminar	campus
+6	3	2/6	4:30 PM	5:00 PM	0:30	science		campus
+6	3	2/6	5:00 PM	7:00 PM	2:0	extracurricular	diversity	campus
+6	3	2/6	9:50 PM	11:45 PM	1:55	science		home
+6	4	2/7	10:00 AM	11:00 AM	1:0	science	seminar	campus
+6	4	2/7	11:00 AM	12:00 PM	1:0	science		campus
+6	4	2/7	12:00 PM	1:20 PM	1:20	science		lab
+6	4	2/7	1:30 PM	3:00 PM	1:30	extracurricular	diversity	campus
+6	4	2/7	3:15 PM	3:55 PM	0:40	extracurricular	diversity	campus
+6	4	2/7	3:55 PM	4:50 PM	0:55	science		campus
+6	4	2/7	5:00 PM	7:25 PM	2:25	extracurricular	diversity	campus
+6	4	2/7	11:24 PM	11:59 PM	0:35	science		home
+6	4	2/7	12:01 AM	12:16 AM	0:15	science		home
+6	5	2/8	10:00 AM	4:00 PM	6:0	science		lab
+6	5	2/8	4:00 PM	5:15 PM	1:15	science		campus
+6	5	2/8	6:00 PM	7:45 PM	1:45	extracurricular	diversity	campus
+6	6	2/9	10:15 AM	2:40 PM	4:25	science		lab
+6	6	2/9	4:15 PM	4:35 PM	0:20	science		airport
+6	7	2/10	10:30 PM	11:25 PM	0:55	extracurricular	diversity	atlanta
+7	2	2/12	9:30 AM	10:30 AM	1:0	extracurricular	refs	coffee_shop
+7	2	2/12	10:30 AM	11:40 AM	1:10	science		lab
+7	2	2/12	1:00 PM	5:00 PM	4:0	science		lab
+7	2	2/12	5:15 PM	6:15 PM	1:0	extracurricular	addir	campus
+7	2	2/12	6:30 PM	7:00 PM	0:30	science		campus
+7	2	2/12	8:40 PM	9:50 PM	1:10	extracurricular	diversity	home
+7	2	2/12	10:05 PM	10:20 PM	0:15	extracurricular	diversity	home
+7	2	2/12	10:40 PM	11:00 PM	0:20	extracurricular	refs	home
+7	3	2/13	8:40 AM	9:20 AM	0:40	extracurricular	diversity	home
+7	3	2/13	10:40 AM	5:30 PM	6:50	science		lab
+7	3	2/13	5:30 PM	7:30 PM	2:0	extracurricular	diversity	campus
+7	3	2/13	11:39 PM	11:59 PM	0:20	science		home
+7	4	2/14	10:00 AM	11:00 AM	1:0	science	seminar	campus
+7	4	2/14	11:00 AM	1:40 PM	2:40	science		lab
+7	4	2/14	1:45 PM	2:45 PM	1:0	extracurricular	refs	lab
+7	4	2/14	3:00 PM	6:40 PM	3:40	science		lab
+7	5	2/15	9:00 AM	5:30 PM	8:30	science	summit	lab
+7	6	2/16	10:05 AM	12:00 PM	1:55	science		lab
+7	6	2/16	12:00 PM	1:00 PM	1:0	science	seminar	campus
+7	6	2/16	2:00 PM	4:30 PM	2:30	science		longwood
+7	6	2/16	6:00 PM	7:15 PM	1:15	extracurricular	diversity	campus
+7	7	2/17	1:00 PM	1:15 PM	0:15	extracurricular	diversity	lab
+7	7	2/17	1:15 PM	2:50 PM	1:35	science		lab
+8	1	2/18	6:40 PM	7:30 PM	0:50	science		home
+8	1	2/18	10:00 PM	10:45 PM	0:45	science		home
+8	1	2/18	10:45 PM	11:30 PM	0:45	professional	website	home
+8	1	2/18	11:30 PM	11:40 PM	0:10	science		home
+8	2	2/19	8:50 AM	9:25 AM	0:35	science		home
+8	2	2/19	11:00 AM	2:20 PM	3:20	science		lab
+8	2	2/19	3:00 PM	5:00 PM	2:0	science		lab
+8	2	2/19	5:15 PM	6:30 PM	1:15	extracurricular	addir	campus
+8	2	2/19	6:30 PM	7:00 PM	0:30	science		campus
+8	3	2/20	8:45 AM	9:05 AM	0:20	science		home
+8	3	2/20	9:45 AM	10:05 AM	0:20	science		home
+8	3	2/20	10:40 AM	11:15 AM	0:35	science		lab
+8	3	2/20	11:30 AM	2:10 PM	2:40	extracurricular	be_board	campus
+8	3	2/20	5:10 PM	6:00 PM	0:50	science		plane
+8	3	2/20	6:20 PM	8:30 PM	2:10	science		plane
+8	3	2/20	8:30 PM	10:00 PM	1:30	extracurricular	diversity	plane
+8	3	2/20	8:40 PM	9:20 PM	0:40	science		seattle
+8	3	2/20	10:35 PM	11:05 PM	0:30	science		seattle
+8	3	2/20	8:10 AM	9:00 AM	0:50	science		seattle
+8	4	2/21	9:30 AM	7:00 PM	9:30	science	conference	seattle
+8	4	2/21	8:00 PM	10:00 PM	2:0	science		seattle
+8	5	2/22	6:30 AM	7:00 PM	12:30	science	conference	seattle
+8	6	2/23	11:30 AM	11:50 AM	0:20	science		airport
+8	6	2/23	7:10 AM	8:45 AM	1:35	extracurricular	diversity	plane
+8	6	2/23	8:55 AM	9:15 AM	0:20	extracurricular	be_board	plane
+8	6	2/23	9:35 AM	10:00 AM	0:25	science		plane
+8	6	2/23	10:40 PM	11:20 PM	0:40	science		virginia
+8	6	2/23	1:25 PM	2:00 PM	0:35	science		airport
+9	2	2/26	12:30 PM	12:55 PM	0:25	extracurricular	diversity	lab
+9	2	2/26	1:00 PM	2:00 PM	1:0	extracurricular	be_board	campus
+9	2	2/26	2:30 PM	4:30 PM	2:0	extracurricular	diversity	campus
+9	2	2/26	4:45 PM	6:45 PM	2:0	science		lab
+9	3	2/27	8:40 AM	10:00 AM	1:20	extracurricular	be_board	coffee_shop
+9	3	2/27	10:00 AM	11:20 AM	1:20	extracurricular	diversity	campus
+9	3	2/27	11:40 AM	3:00 PM	3:20	science		lab
+9	3	2/27	3:00 PM	4:15 PM	1:15	extracurricular	refs	campus
+9	3	2/27	4:30 PM	6:30 PM	2:0	extracurricular	diversity	campus
+9	4	2/28	8:00 AM	9:00 AM	1:0	extracurricular	diversity	home
+9	4	2/28	10:50 AM	12:00 PM	1:10	science		lab
+9	4	2/28	12:00 PM	2:15 PM	2:15	extracurricular	diversity	campus
+9	4	2/28	2:20 PM	5:35 PM	3:15	science		lab
+9	4	2/28	5:40 PM	7:50 PM	2:10	extracurricular	diversity	campus
+9	4	2/28	11:10 PM	11:35 PM	0:25	extracurricular	diversity	home
+9	5	3/1	8:35 AM	9:40 AM	1:5	extracurricular	diversity	coffee_shop
+9	5	3/1	9:45 AM	11:30 AM	1:45	science		lab
+9	5	3/1	11:30 AM	11:45 AM	0:15	extracurricular	diversity	lab
+9	5	3/1	12:00 PM	1:00 PM	1:0	extracurricular	be_board	campus
+9	5	3/1	1:00 PM	2:00 PM	1:0	extracurricular	refs	campus
+9	5	3/1	2:00 PM	4:00 PM	2:0	science		lab
+9	5	3/1	4:00 PM	5:00 PM	1:0	science	seminar	campus
+9	5	3/1	9:40 PM	11:00 PM	1:20	extracurricular	diversity	home
+9	6	3/2	10:30 AM	12:00 PM	1:30	science		lab
+9	6	3/2	12:00 PM	1:00 PM	1:0	science	seminar	campus
+9	6	3/2	1:00 PM	6:40 PM	5:40	science		lab
+9	7	3/3	3:00 PM	6:00 PM	3:0	science		lab
+10	1	3/4	1:40 PM	3:40 PM	2:0	science		lab
+10	2	3/5	9:30 AM	4:20 PM	6:50	professional	conference	off_campus
+10	2	3/5	4:30 PM	5:00 PM	0:30	science		lab
+10	2	3/5	5:15 PM	6:20 PM	1:5	extracurricular	addir	campus
+10	2	3/5	10:15 PM	11:00 PM	0:45	science		home
+10	3	3/6	11:20 AM	5:40 PM	6:20	science		lab
+10	3	3/6	6:30 PM	9:15 PM	2:45	extracurricular	diversity	campus
+10	3	3/6	10:30 PM	11:45 PM	1:15	extracurricular	ideas	home
+10	4	3/7	8:20 AM	8:45 AM	0:25	extracurricular	ideas	home
+10	4	3/7	10:30 AM	6:50 PM	8:20	science		lab
+10	4	3/7	7:00 PM	7:45 PM	0:45	extracurricular	mbg	campus
+10	4	3/7	10:30 PM	11:00 PM	0:30	extracurricular	diversity	home
+10	5	3/8	10:05 AM	6:50 PM	8:45	science		lab
+10	5	3/8	7:00 PM	7:30 PM	0:30	professional	website	lab
+10	5	3/8	7:30 PM	7:50 PM	0:20	science		lab
+10	5	3/8	7:50 PM	10:50 PM	3:0	professional	website	lab
+10	6	3/9	8:30 AM	9:30 AM	1:0	professional	website	home
+10	6	3/9	10:40 AM	11:00 AM	0:20	science		lab
+10	6	3/9	11:00 AM	11:50 AM	0:50	extracurricular	be_board	campus
+10	6	3/9	12:00 PM	1:00 PM	1:0	science	seminar	campus
+10	6	3/9	1:25 PM	1:45 PM	0:20	science		bus
+10	6	3/9	1:45 PM	5:00 PM	3:15	science		longwood
+10	6	3/9	5:00 PM	5:20 PM	0:20	extracurricular	diversity	longwood
+10	6	3/9	5:30 PM	5:45 PM	0:15	science		bus
+10	6	3/9	6:00 PM	6:20 PM	0:20	science		lab
+11	1	3/11	6:20 PM	6:50 PM	0:30	science		home
+11	2	3/12	8:20 AM	9:40 AM	1:20	science	outreach	off_campus
+11	2	3/12	11:00 AM	1:00 PM	2:0	science		lab
+11	2	3/12	1:20 PM	5:05 PM	3:45	science		lab
+11	2	3/12	5:15 PM	6:25 PM	1:10	extracurricular	addir	campus
+11	2	3/12	11:09 PM	11:59 PM	0:50	science		home
+11	3	3/13	9:40 AM	10:10 AM	0:30	science		home
+11	3	3/13	10:30 AM	11:50 AM	1:20	science		home
+11	3	3/13	11:50 AM	1:10 PM	1:20	extracurricular	gradsage	home
+11	3	3/13	3:15 PM	7:30 PM	4:15	science		home
+11	3	3/13	7:30 PM	7:50 PM	0:20	extracurricular	be_board	home
+11	4	3/14	9:40 AM	10:00 AM	0:20	science		lab
+11	4	3/14	10:15 AM	1:50 PM	3:35	extracurricular	be_board	campus
+11	4	3/14	2:00 PM	6:45 PM	4:45	science		lab
+11	5	3/15	11:30 AM	4:00 PM	4:30	science		lab
+11	5	3/15	4:00 PM	5:00 PM	1:0	science	seminar	campus
+11	5	3/15	6:00 PM	6:30 PM	0:30	extracurricular	diversity	off_campus
+11	6	3/16	10:20 AM	11:00 AM	0:40	science		lab
+11	6	3/16	11:00 AM	11:30 AM	0:30	extracurricular	diversity	coffee_shop
+11	6	3/16	11:30 AM	2:15 PM	2:45	science		lab
+11	6	3/16	2:15 PM	4:20 PM	2:5	science		campus
+11	6	3/16	5:30 PM	6:45 PM	1:15	science		home
+11	7	3/17	9:00 AM	11:30 AM	2:30	science		campus
+11	7	3/17	4:00 PM	6:00 PM	2:0	extracurricular	be_board	off_campus
+12	1	3/18	6:00 PM	6:30 PM	0:30	science		home
+12	2	3/19	10:45 AM	1:00 PM	2:15	science		lab
+12	2	3/19	1:00 PM	2:00 PM	1:0	extracurricular	be_board	campus
+12	2	3/19	2:00 PM	4:00 PM	2:0	extracurricular	diversity	campus
+12	2	3/19	4:00 PM	5:00 PM	1:0	science		lab
+12	2	3/19	5:15 PM	6:20 PM	1:5	extracurricular	addir	campus
+12	2	3/19	6:20 PM	6:40 PM	0:20	science		campus
+12	3	3/20	10:20 AM	12:30 PM	2:10	science		lab
+12	3	3/20	12:30 PM	3:15 PM	2:45	extracurricular	diversity	campus
+12	3	3/20	3:30 PM	8:30 PM	5:0	science		lab
+12	4	3/21	11:20 AM	12:00 PM	0:40	science		lab
+12	4	3/21	12:00 PM	6:15 PM	6:15	science	symposium	campus
+12	5	3/22	9:00 AM	11:10 AM	2:10	extracurricular	refs	campus
+12	5	3/22	11:15 AM	1:00 PM	1:45	science		lab
+12	5	3/22	1:10 PM	1:40 PM	0:30	extracurricular	diversity	lab
+12	5	3/22	1:45 PM	7:00 PM	5:15	science		lab
+12	5	3/22	7:00 PM	7:30 PM	0:30	extracurricular	diversity	lab
+12	5	3/22	9:40 PM	11:10 PM	1:30	science		home
+12	6	3/23	9:45 AM	10:00 AM	0:15	science		lab
+12	6	3/23	10:00 AM	11:00 AM	1:0	extracurricular	diversity	coffee_shop
+12	6	3/23	11:00 AM	12:00 PM	1:0	science		lab
+12	6	3/23	12:00 PM	1:00 PM	1:0	extracurricular	refs	campus
+12	6	3/23	1:35 PM	4:10 PM	2:35	science		longwood
+12	6	3/23	4:20 PM	5:00 PM	0:40	science		bus
+12	6	3/23	6:20 PM	7:00 PM	0:40	science		airport
+12	6	3/23	7:50 PM	10:20 PM	2:30	science		plane
+13	3	3/27	9:30 AM	10:30 AM	1:0	science		home
+13	3	3/27	12:00 PM	3:00 PM	3:0	science		coffee_shop
+13	3	3/27	6:00 PM	7:10 PM	1:10	science		plane
+13	3	3/27	7:10 PM	7:30 PM	0:20	professional	website	plane
+13	4	3/28	10:00 AM	12:30 PM	2:30	science		lab
+13	4	3/28	2:00 PM	6:40 PM	4:40	science		lab
+13	4	3/28	10:45 PM	11:05 PM	0:20	science		home
+13	5	3/29	10:45 AM	12:40 PM	1:55	science		lab
+13	5	3/29	1:25 PM	6:55 PM	5:30	science		lab
+13	6	3/30	9:00 AM	10:00 AM	1:0	extracurricular	refs	coffee_shop
+13	6	3/30	10:00 AM	10:40 AM	0:40	science		lab
+13	6	3/30	10:40 AM	11:00 AM	0:20	extracurricular	refs	lab
+13	6	3/30	11:00 AM	2:00 PM	3:0	extracurricular	diversity	campus
+13	6	3/30	2:10 PM	6:35 PM	4:25	science		lab
+14	1	4/1	7:10 PM	8:00 PM	0:50	extracurricular	diversity	home
+14	2	4/2	9:00 AM	10:15 AM	1:15	extracurricular	diversity	campus
+14	2	4/2	10:20 AM	5:00 PM	6:40	science		lab
+14	2	4/2	5:15 PM	6:20 PM	1:5	extracurricular	addir	campus
+14	2	4/2	6:30 PM	7:10 PM	0:40	extracurricular	microbiome_club	campus
+14	2	4/2	7:30 PM	8:40 PM	1:10	science		lab
+14	3	4/3	8:30 AM	9:00 AM	0:30	science		home
+14	3	4/3	10:45 AM	12:45 PM	2:0	science		lab
+14	3	4/3	1:45 PM	2:20 PM	0:35	science		airport
+14	4	4/4	7:50 AM	5:15 PM	9:25	science	conference	vancouver
+14	4	4/4	9:00 PM	9:40 PM	0:40	science		vancouver
+14	5	4/5	7:50 AM	4:25 PM	8:35	science	conference	vancouver
+14	5	4/5	4:35 PM	5:00 PM	0:25	science		vancouver
+14	3	4/3	4:15 PM	4:35 PM	0:20	science		plane
+14	3	4/3	4:35 PM	5:25 PM	0:50	extracurricular	diversity	plane
+14	3	4/3	17:30	18:15	0:45	science		plane
+14	3	4/3	7:40 PM	9:30 PM	1:50	science		plane
+14	3	4/3	9:30 PM	11:30 PM	2:0	professional	blog	plane
+14	6	4/6	4:50 PM	6:10 PM	1:20	science		plane
+14	6	4/6	6:30 PM	8:00 PM	1:30	professional	blog	plane
+15	2	4/9	10:40 AM	12:20 PM	1:40	science		lab
+15	2	4/9	12:30 PM	1:05 PM	0:35	extracurricular	gradsage	campus
+15	2	4/9	1:15 PM	5:05 PM	3:50	science		lab
+15	2	4/9	5:15 PM	6:15 PM	1:0	extracurricular	addir	campus
+15	2	4/9	6:20 PM	8:20 PM	2:0	extracurricular	diversity	campus
+15	3	4/10	10:45 AM	12:15 PM	1:30	science		lab
+15	3	4/10	12:15 PM	12:30 PM	0:15	extracurricular	gradsage	lab
+15	3	4/10	2:20 PM	7:00 PM	4:40	science		lab
+15	3	4/10	7:00 PM	8:30 PM	1:30	professional	blog	lab
+15	4	4/11	10:00 AM	4:30 PM	6:30	science		lab
+15	4	4/11	4:30 PM	5:30 PM	1:0	extracurricular	refs	campus
+15	4	4/11	5:30 PM	7:00 PM	1:30	extracurricular	c2c	campus
+15	4	4/11	7:30 PM	8:30 PM	1:0	science		lab
+15	5	4/12	10:50 AM	12:30 PM	1:40	science	seminar	campus
+15	5	4/12	12:30 PM	1:00 PM	0:30	extracurricular	diversity	lab
+15	5	4/12	1:00 PM	2:45 PM	1:45	science		lab
+15	5	4/12	3:00 PM	3:30 PM	0:30	extracurricular	addir	campus
+15	5	4/12	3:45 PM	4:00 PM	0:15	extracurricular	mbg	campus
+15	5	4/12	4:00 PM	5:15 PM	1:15	professional	seminar	campus
+15	5	4/12	6:10 PM	7:20 PM	1:10	science		home
+15	6	4/13	9:00 AM	10:00 AM	1:0	extracurricular	diversity	coffee_shop
+15	6	4/13	10:30 AM	12:00 PM	1:30	science		lab
+15	6	4/13	12:00 PM	1:15 PM	1:15	science	seminar	campus
+15	6	4/13	2:25 PM	5:30 PM	3:5	science		lab
+16	3	4/17	10:15 AM	11:45 AM	1:30	science		lab
+16	3	4/17	12:00 PM	1:30 PM	1:30	extracurricular	gradsage	campus
+16	3	4/17	2:00 PM	7:30 PM	5:30	science		lab
+16	3	4/17	8:15 PM	10:40 PM	2:25	professional	blog	lab
+16	4	4/18	9:00 AM	10:20 AM	1:20	extracurricular	diversity	coffee_shop
+16	4	4/18	10:30 AM	12:20 PM	1:50	science		lab
+16	4	4/18	1:10 PM	4:25 PM	3:15	science		lab
+16	4	4/18	4:30 PM	8:20 PM	3:50	extracurricular	mbg	campus
+16	5	4/19	10:00 AM	11:00 AM	1:0	extracurricular	diversity	campus
+16	5	4/19	11:00 AM	12:30 PM	1:30	science		lab
+16	5	4/19	1:00 PM	2:20 PM	1:20	science		lab
+16	5	4/19	4:00 PM	6:30 PM	2:30	science		lab
+16	6	4/20	9:35 AM	12:50 PM	3:15	science		lab
+16	6	4/20	2:00 PM	5:00 PM	3:0	science		lab
+16	6	4/20	9:20 AM	9:35 AM	0:15	extracurricular	be_board	lab
+16	6	4/20	5:00 PM	5:30 PM	0:30	extracurricular	be_board	campus
+17	2	4/23	9:00 AM	10:00 AM	1:0	extracurricular	mbg	coffee_shop
+17	2	4/23	10:00 AM	12:55 PM	2:55	science		lab
+17	2	4/23	1:00 PM	2:00 PM	1:0	extracurricular	be_board	campus
+17	2	4/23	2:20 PM	5:05 PM	2:45	science		lab
+17	2	4/23	5:15 PM	6:15 PM	1:0	extracurricular	addir	campus
+17	2	4/23	6:30 PM	8:35 PM	2:5	science		lab
+17	3	4/24	9:00 AM	11:00 AM	2:0	extracurricular	diversity	campus
+17	3	4/24	11:25 AM	2:00 PM	2:35	science		lab
+17	3	4/24	2:15 PM	6:10 PM	3:55	science		lab
+17	3	4/24	9:05 PM	9:30 PM	0:25	science		bus
+17	3	4/24	10:20 PM	11:10 PM	0:50	science		home
+17	4	4/25	9:00 AM	11:00 AM	2:0	science	seminar	campus
+17	4	4/25	11:00 AM	3:45 PM	4:45	science		lab
+17	4	4/25	4:00 PM	6:00 PM	2:0	extracurricular	diversity	campus
+17	4	4/25	6:15 PM	7:00 PM	0:45	science		lab
+17	5	4/26	10:15 AM	11:45 AM	1:30	science		lab
+17	5	4/26	12:15 PM	6:10 PM	5:55	science		lab
+17	5	4/26	8:00 PM	8:50 PM	0:50	science		lab
+17	6	4/27	10:15 AM	12:30 PM	2:15	science		lab
+17	6	4/27	12:50 PM	1:30 PM	0:40	science		lab
+17	6	4/27	1:30 PM	2:00 PM	0:30	extracurricular	refs	lab
+17	6	4/27	2:00 PM	6:30 PM	4:30	science		lab
+18	2	4/30	10:10 AM	12:00 PM	1:50	science		lab
+18	2	4/30	12:00 PM	1:00 PM	1:0	science	seminar	campus
+18	2	4/30	1:00 PM	3:30 PM	2:30	science		lab
+18	2	4/30	5:15 PM	6:00 PM	0:45	extracurricular	addir	campus
+18	2	4/30	6:00 PM	8:15 PM	2:15	extracurricular	diversity	campus
+18	3	5/1	10:00 AM	11:40 AM	1:40	science		lab
+18	3	5/1	1:40 PM	6:50 PM	5:10	science		lab
+18	3	5/1	7:50 PM	9:50 PM	2:0	science		lab
+18	4	5/2	9:00 AM	9:35 AM	0:35	science		home
+18	4	5/2	11:00 AM	12:25 PM	1:25	science		lab
+18	4	5/2	1:15 PM	4:45 PM	3:30	science		lab
+18	5	5/3	9:30 AM	11:25 AM	1:55	science		lab
+18	5	5/3	11:30	1:00 PM	1:30	extracurricular	diversity	campus
+18	5	5/3	1:15 PM	3:00 PM	1:45	science		lab
+18	5	5/3	3:00 PM	4:15 PM	1:15	science	seminar	campus
+18	5	5/3	4:30 PM	6:00 PM	1:30	science		lab
+18	5	5/3	6:00 PM	7:50 PM	1:50	extracurricular	refs	lab
+18	5	5/3	8:05 PM	8:50 PM	0:45	science		lab
+18	6	5/4	8:00 AM	8:15 AM	0:15	science		home
+18	6	5/4	9:15 AM	10:00 AM	0:45	science		coffee_shop
+18	6	5/4	10:00 AM	11:00 AM	1:0	extracurricular	refs	coffee_shop
+18	6	5/4	11:00 AM	1:00 PM	2:0	science		campus
+18	6	5/4	2:00 PM	5:25 PM	3:25	science		longwood
+18	6	5/4	5:25 PM	5:40 PM	0:15	extracurricular	refs	longwood
+18	6	5/4	7:20 PM	10:05 PM	2:45	science		train
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+#VALUE!	#VALUE!				0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
+					0:0			
