@@ -46,7 +46,7 @@ $type-size-8                : 0.625em;  // ~10px
 /*
    Colors
    ========================================================================== */
-
+$ideapink                   : #bb133e;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -58,7 +58,7 @@ $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : mix(#fff,$ideapink,90%);
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -89,13 +89,12 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links */
-$link-color                 : $info-color;
+/* links */ 
+$link-color                 : $ideapink; 
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-
+$masthead-link-color        : $link-color;
+$masthead-link-color-hover  : mix(#000, $link-color, 25%);
 
 /*
    Breakpoints
