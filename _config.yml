@@ -84,10 +84,10 @@ author:
   avatar           : "Eric-Bond.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Portland, OR"
-  employer         :
+  employer         : "Galois, Inc"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "bond15@purdue.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ericbond1/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+#  teaching:
+#    output: false
+#    permalink: /:collection/:path/
+#  publications:
+#    output: false
+#    permalink: /:collection/:path/
+#  portfolio:
+#    output: false
+#    permalink: /:collection/:path/
+#  talks:
+#    output: false
+#    permalink: /:collection/:path/
 
 
 # Defaults
