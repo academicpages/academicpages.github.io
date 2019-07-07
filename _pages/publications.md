@@ -29,7 +29,7 @@ Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type The
 <div class="vallenato-content">
 <p>My masters dissertation, written over the course of Hilary Term 2019. It introduces homotopy type theory and looks at doing <i>synthetic</i> homotopy theory, focussing particularly on defining fibre bundles. The main result is a proof in homotopy type theory of a theorem originally due to Gottlieb. It gives the homotopy groups of the path components of the space $Map(X, K(G,1))$, where $X$ is any space and $K(G,1)$ is the classifying space of a discrete group $G$.</p>
 
-<p>Submitted in April 2019. [Download](/files/disssertation.pdf).</p>
+<p>Submitted in April 2019. <a href="{{ site.baseurl }}/files/dissertation.pdf">Download</a>.</p>
 </div><!--/.vallenato-content-->
   
 </div><!--/.vallenato-->
