@@ -99,6 +99,20 @@ the original paper [(source code)](https://github.com/Kiarahmani/Quelea_Coq_Imp)
     </li>
 </ul>
 
+<ul>
+    <li>CLOTHO: Directed Test Generation for Weakly Consistent Database Systems
+    <br />
+    <font size="3">
+      (Kia Rahmani, Kartik Nagar, Benjamin Delaware, Suresh Jagannathan)
+    </font> <br /> <font size="2">
+    <a href="https://2019.splashcon.org/track/splash-2019-oopsla#event-overview"> 
+      [Conditionally Accepted to OOPSLA'19]
+    </a>
+    </font>
+    </li>
+</ul>
+
+
 
 
 
