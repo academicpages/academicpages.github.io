@@ -10,7 +10,9 @@ excerpt: "Winner of the Best Student Seminar Award for 2014.
 [Download](https://emhastings.github.io/files/parallel-ssss.zip)"
 ---
 
-Talk, Knox College Summer Science Seminar Series, Galesburg, IL
+Talk
+Knox College Summer Science Seminar Series
+Galesburg, IL
 
 Winner of the Best Student Seminar Award for 2014.
 

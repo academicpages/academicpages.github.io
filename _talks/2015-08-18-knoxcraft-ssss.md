@@ -10,7 +10,9 @@ excerpt: "Check out the [Knoxcraft website](https://knoxcraft.github.io/#).
 [Download](https://emhastings.github.io/files/knoxcraft-ssss.pptx)"
 ---
 
-Talk, Knox College Summer Science Seminar Series, Galesburg, IL
+Talk
+Knox College Summer Science Seminar Series
+Galesburg, IL
 
 Check out the [Knoxcraft website](https://knoxcraft.github.io/#).
 
