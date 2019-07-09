@@ -6,7 +6,7 @@ permalink: /talks/2015-08-18-knoxcraft-ssss
 venue: "Knox College Summer Science Seminar Series"
 date: 2015-08-18
 location: "Galesburg, IL"
-excerpt: "Check out the [Knoxcraft website](https://knoxcraft.github.io/#).
+excerpt: "Check out the [Knoxcraft website](https://knoxcraft.github.io/#).  
 [Download](https://emhastings.github.io/files/knoxcraft-ssss.pptx)"
 ---
 
