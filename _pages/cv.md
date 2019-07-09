@@ -21,12 +21,12 @@ Skills
 * **markdown, latex** ![][c2] (reporting and documentation)
 * **git, GitHub** ![][c2] 
 * **Linux, macOS, Windows, MS Office** ![][c3] 
-* Design and Typesetting for Print and Web
+* **Design and Typesetting for Print and Web**
   * Adobe Illustrator, Adobe InDesign ![][c3] 
   * Adobe Photoshop ![][c2] 
-* Video editing
+* **Video editing**
   * Adobe Premiere Pro, Adobe AfterEffects ![][c2] 
-* Games and Android App Development
+* **Games and Android App Development**
   * Unity ![][c2] 
   * Android Studio, Android SDK ![][c1] 
 
