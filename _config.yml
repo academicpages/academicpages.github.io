@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Enrico Macholdt"
   avatar           : "profil.png"
-  bio              : "PhD candicate at MPI EVA, Leipzig, Germany"
+  bio              : "Data Analyst and PhD candicate at MPI EVA, Leipzig, Germany"
   location         : "Leipzig"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=kHuMAawAAAAJ&hl=en"
@@ -99,11 +99,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/enrico-macholdt-473499110/"
+  linkedin         : "enrico-macholdt-473499110"
   orcid            : "https://orcid.org/0000-0002-7129-7361"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "emacholdt"
