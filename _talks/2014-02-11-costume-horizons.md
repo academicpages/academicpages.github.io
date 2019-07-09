@@ -10,9 +10,9 @@ excerpt: "For more information, see [Facebook photo album](https://www.facebook.
 [Download](https://emhastings.github.io/files/costume-horizons.pdf)"
 ---
 
-Poster
-Knox College Horizons Celebration of Student Research
-Galesburg, IL
+Poster  
+Knox College Horizons Celebration of Student Research  
+Galesburg, IL  
 
 For more information, see [Facebook photo album](https://www.facebook.com/media/set/?set=a.432146646877542.1073741825.100002466328041&amp;type=1&amp;l=1c4cc4c189).
 
