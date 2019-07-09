@@ -8,8 +8,6 @@ date: 2018-11-05
 location: "Jersey City, NJ"
 ---
 
-Conference presentation, ACM Conference on Computer-Supported Cooperative Work, Jersey City, NJ
-
 [Download here](https://emhastings.github.io/files/psych-safety-cscw.pptx)
 
 Presentation of [conference paper](https://emhastings.github.io/publication/2018-11-05-psych_safety).

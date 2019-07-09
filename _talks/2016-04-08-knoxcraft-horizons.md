@@ -8,8 +8,6 @@ date: 2016-04-08
 location: "Galesburg, IL"
 ---
 
-Poster, Knox College Horizons Celebration of Student Research, Galesburg, IL
-
 [Download here](https://emhastings.github.io/files/knoxcraft-horizons.pdf)
 
 See [article on Knox website](https://www.knox.edu/news/horizons-event-showcases-student-research-and-creative-projects) for more information.  Also check out the [Knoxcraft website](https://knoxcraft.github.io/#).
