@@ -31,14 +31,14 @@ Skills
 
 ### Scientific Skills
 
-* Genetics/Genomics
+* **Genetic/Genomic Data**
   * Sequence and Read Processing
   * Data Analysis
   * Statistics
   * Bayesian Methods
   * Molecular Biology
   * Population Genetics
-* Wet lab
+* **Wet lab**
   * NGS library prepartion
   * capture enrichment
   * DNA quantification
@@ -71,10 +71,13 @@ Education
 
 Teaching and Supervision
 ======
-* Apr.2017Lecturer in the Core Seminar Week on Genetics IMPRS- Leipzig School of Human  Origins, lecture on: “Human Population History Projects”  MPI-EVA
-* Sept.2015 - Workshop - Workshop: Applied Phylogenetics
-  * Bayesian Inferences using BEAST1.8
-* Sept.2016 - Jan.2017 Research Supervisor - Bachelor thesis: Alexander Hooft van Huysduynen
+* April 2017 - **Lecturer** - Core Seminar Week on Genetics IMPRS 
+  * Leipzig School of Human  Origins
+  * lecture on: “Human Population History Projects” 
+* September 2015 - **Lecturer** - 
+  * IMPRS - Leipzig School of Human  Origins
+  * Workshop: Applied Phylogenetics (Bayesian Inferences using BEAST1.8)
+* September 2016 - January 2017 - **Research Supervisor** - Bachelor thesis: Alexander Hooft van Huysduynen
   - *Maastrich University and MPI-EVA Leipzig*
   * thesis: "NRY and mtDNA analysis for consideration of the human population history of Bougainville"
 
@@ -104,6 +107,6 @@ Volunteer Engagement
   * Director 2010-2012
   * Member since 2008
 
-[c3]: https://emacholdt.github.io/images/circle-02.png "c3"
-[c2]: https://emacholdt.github.io/images/circle-03.png "c2"
-[c1]: https://emacholdt.github.io/images/circle-04.png "c1"
+[c3]: https://emacholdt.github.io/images/circle72-02.png "c3"
+[c2]: https://emacholdt.github.io/images/circle72-03.png "c2"
+[c1]: https://emacholdt.github.io/images/circle72-04.png "c1"
