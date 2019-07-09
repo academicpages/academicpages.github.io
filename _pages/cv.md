@@ -33,27 +33,53 @@ Work experience
 * Nov 2014 - May 2015: Protject Trainee
   * [Zoho Corporation](https://www.zoho.com/)
   
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+<!---  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
+
+Workshops and Conference attended
+======
+* Winter School on Speech and Audio Processing (WiSSAP) 2019, Trivandrum, India, Jan 2019.
+* Interspeech 2018, Hyderabad, India, Sept 2018.
+* Neuromorphic Computing Workshop, IISc, Bangalore, India, Jun 2018.
+* Workshop on Computational Brain Research at IIT Madras, Chennai, India, Jan 2018.
+* Brain Modes Workshop, NBRC, Gurgaon, India,  Dec 2017.
+* EEGLAB Workshop, AIISH, Mysore, India, Jan 2017.
+* Workshop on Brain, Computation and Learning, IISc, Bangalore, India, Jan 2017.
+* Workshop on Computational Brain Research at IIT Madras, Chennai, Jan 2017.
+
+
+
+Awards and Certifications
+======
+* Academic Achievements
+   * Overall Best Outgoing Student 2011-2015, Thiagarajar College of Engineering, March 2015.
+   * Secured 148th national rank in Graduate Aptitude Test in Engineering (GATE) 2016. Secured national rank of 512 and 192 in GATE 2015 and 2017, respectively.
+* Certifications
+  * Red Hat Certified Engineer, License 140-123-449, July 2014.
+  * Red Hat Certified System Administrator, License 140-123-449, July 2014.
+  * Oracle Certified Professional, Java SE 6 Programmer, December 2013.
+  * Business Vantage (BEC Vantage) – CEFR Level B2, April 2012.
+* Others
+  * Visited “Massachusetts Institute of Technology” as a visiting researcher for a period of six weeks in May 2017 and five weeks in May 2019.
+  * Regional finalist of ACM-ICPC-2013, an international level programming contest.
+
+
+
+<!---  
 #Teaching
 #======
 #  <ul>{% for post in site.teaching %}
@@ -63,3 +89,4 @@ Talks
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
