@@ -15,8 +15,11 @@ Skills
 
 ### Computational Skills
 
-* Programming/Scripting
-  * R, Python, Bash, awk, latex
+
+* **R** (statistics, data analysis, and visualization)
+* **Python** (pipeline development and management with snakemake)
+* **Bash, awk** 
+* **markdown, latex**
 * Design and Typesetting for Print and Web
   * Adobe Illustrator, Adobe InDesign, Adobe Photoshop
 * Games and Android App Development
