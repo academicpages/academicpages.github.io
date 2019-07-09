@@ -107,6 +107,6 @@ Volunteer Engagement
   * Director 2010-2012
   * Member since 2008
 
-[c3]: https://emacholdt.github.io/images/circle72-02.png "c3"
-[c2]: https://emacholdt.github.io/images/circle72-03.png "c2"
-[c1]: https://emacholdt.github.io/images/circle72-04.png "c1"
+[c3]: https://emacholdt.github.io/images/circle-02.png "c3"
+[c2]: https://emacholdt.github.io/images/circle-03.png "c2"
+[c1]: https://emacholdt.github.io/images/circle-04.png "c1"
