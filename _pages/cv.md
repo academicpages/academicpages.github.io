@@ -32,14 +32,14 @@ Research experience
   * National Institute of Standards and Technology, Gaithersburg, MD
   * Advisors: Michael Brundage, Thurston Sexton
   * Working with Knowledge Extraction Application team in Engineering Laboratory toward quantifying human skill level from historical data.
-* **2018 – 2019 : Beyond the Black Box Research Team Member**	
-  * University of Illinois, Urbana-Champaign, IL
-  * Advisors: Karrie Karahalios (UIUC), Christian Sandvig (UMich)
-  * Worked with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
 * **Fall 2016 – Present: Research Assistant**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisor: Brian Bailey
   * Working individually and with a team to investigate issues concerning the use of algorithmic team formation tools
+* **2018 – 2019 : Beyond the Black Box Research Team Member**	
+  * University of Illinois, Urbana-Champaign, IL
+  * Advisors: Karrie Karahalios (UIUC), Christian Sandvig (UMich)
+  * Worked with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
 * **Summer 2015: Research Assistant**	
   * Knox College, Galesburg, IL
   * Advisor: Jaime Spacco
