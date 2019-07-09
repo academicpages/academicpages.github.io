@@ -8,5 +8,5 @@ date: 2014-09-01
 location: "Galesburg, IL"
 ---
 
-2014-2016
+2014-2016  
 Assisted professors during lab sessions, graded homework, lab assignments, and quizzes, and held office hours.

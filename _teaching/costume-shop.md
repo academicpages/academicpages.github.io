@@ -8,5 +8,5 @@ date: 2013-01-01
 location: "Galesburg, IL"
 ---
 
-2013-2014
+2013-2014  
 Built garments for college theatrical shows, mentored students on individual projects, and presented costume research to classes.

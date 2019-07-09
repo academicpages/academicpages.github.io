@@ -11,44 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science (in progress, expected graduation 2022)	
+* **Ph.D. in Computer Science (in progress, expected graduation 2022)**	
   * University of Illinois, Urbana-Champaign, IL, 2016-Present
   * Specialization: Human-Computer Interaction
   * Advisors: Brian Bailey, Karrie Karahalios
   * Research Interests: team formation, crowdsourcing, algorithm awareness, CS education
   * Courses included: user interface design, human-computer interaction, experimental methods, educational technology, social media and signals, models of cognitive processes, data mining, educational game design
-* M.S. in Computer Science
+* **M.S. in Computer Science**
   * University of Illinois, Urbana-Champaign, IL, 2016-2019
   * Specialization: Human-Computer Interaction
   * Advisors: Brian Bailey, Karrie Karahalios
-* B.A. in Computer Science, summa cum laude	
+* **B.A. in Computer Science, summa cum laude**	
   * Knox College, Galesburg, IL, 2012-2016
   * Independent Minor: Renaissance and Medieval Studies
   * Courses included: data structures, hardware organization, information management, algorithm design, graphics, parallel programming, software engineering, networking, operating systems, artificial intelligence
 
 Research experience
 ======  
-* Summer 2018 – Present: Guest Researcher/GMSE Fellow	
+* **Summer 2018 – Present: Guest Researcher/GMSE Fellow**	
   * National Institute of Standards and Technology, Gaithersburg, MD
   * Advisors: Thurston Sexton, Michael Brundage, KC Morris
   * Working with Knowledge Extraction Application team in Engineering Laboratory toward quantifying human skill level from historical data.
-* 2018 – 2019 : Beyond the Black Box Research Team Member	
+* **2018 – 2019 : Beyond the Black Box Research Team Member**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisors: Karrie Karahalios (UIUC), Christian Sandvig (UMich)
   * Working with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
-* Fall 2016 – Present: Research Assistant	
+* **Fall 2016 – Present: Research Assistant**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisor: Brian Bailey
   * Working individually and with a team to investigate issues concerning the use of algorithmic team formation tools
-* Summer 2015: Research Assistant	
+* **Summer 2015: Research Assistant**	
   * Knox College, Galesburg, IL
   * Advisor: Jaime Spacco
   * Worked with a team to develop [Knoxcraft](https://github.com/knoxcraft), a system that allows students to use Java/Python code to build structures in the game Minecraft.
-* Summer 2014: Research Assistant	
+* **Summer 2014: Research Assistant**	
   * Knox College, Galesburg, IL
   * Advisor: David Bunde
   * Worked with a team to develop materials to help teach parallel programming at Knox and other institutions.
-* Summer 2013: Research Assistant
+* **Summer 2013: Research Assistant**
   * Knox College, Galesburg, IL
   * Advisor: David Bunde
   * Worked with a team to investigate task mapping and cabling methods for the Dragonfly interconnect topology.
