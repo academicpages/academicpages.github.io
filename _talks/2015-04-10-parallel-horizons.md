@@ -6,7 +6,8 @@ permalink: /talks/2015-04-10-parallel-horizons
 venue: "Knox College Horizons Celebration of Student Research"
 date: 2015-04-10
 location: "Galesburg, IL"
-excerpt: "See [article on Knox website](https://www.knox.edu/news/horizons-event-spotlights-student-research) for more information."
+excerpt: "See [article on Knox website](https://www.knox.edu/news/horizons-event-spotlights-student-research) for more information.
+[Download](https://emhastings.github.io/files/parallel-horizons.zip)"
 ---
 
 Pecha Kucha, Knox College Horizons Celebration of Student Research, Galesburg, IL
