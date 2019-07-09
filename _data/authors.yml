@@ -1,18 +1,38 @@
 # Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  
+Emily Hastings:
+  name             : "Emily M. Hastings"
+  avatar           : "profile_square.jpg"
+  bio              : "4th year Ph.D. student in Computer Science at UIUC."
+  location         : "Illinois"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=9nZlUHkAAAAJ&hl=en"
+  email            : "ehstngs2@illinois.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "emhastings"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : 
+  lastfm           :
+  linkedin         : "emhastings"
+  orcid            : "https://orcid.org/0000-0003-1155-4650"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
