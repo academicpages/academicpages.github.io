@@ -72,10 +72,10 @@ Education
 Teaching and Supervision
 ======
 * April 2017 - **Lecturer** - Core Seminar Week on Genetics IMPRS 
-  * Leipzig School of Human  Origins
+  * *Leipzig School of Human Origins*
   * lecture on: “Human Population History Projects” 
-* September 2015 - **Lecturer** - 
-  * IMPRS - Leipzig School of Human  Origins
+* September 2015 - **Lecturer** - Applied Phylogenetics 
+  * IMPRS - Leipzig School of Human Origins
   * Workshop: Applied Phylogenetics (Bayesian Inferences using BEAST1.8)
 * September 2016 - January 2017 - **Research Supervisor** - Bachelor thesis: Alexander Hooft van Huysduynen
   - *Maastrich University and MPI-EVA Leipzig*
@@ -100,12 +100,12 @@ Awards
 
 Volunteer Engagement
 ======
-* since March 2018 trained First-Aider at Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology
-* 2016-2017 PhD representative of the Max-Planck Institute for Evolutionary Anthropology
-* 2016-2017 Vice Spokesperson, ProRat (PhD representatives) of Leipzig University
-* Bio11erRat Leipzig e.V. - non-profit organisation to preserve the tradition of Studentenfasching in Leipzig
-  * Director 2010-2012
-  * Member since 2008
+* since March 2018 trained **First-Aider** at Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology
+* 2016-2017 **PhD representative** of the Max-Planck Institute for Evolutionary Anthropology
+* 2016-2017 **Vice Spokesperson ProRat (PhD representatives)** of Leipzig University
+* **Bio11erRat Leipzig e.V.** - non-profit organisation to preserve the tradition of Studentenfasching in Leipzig
+  * 2010-2012 **Director**
+  * since 2008 **Member** 
 
 [c3]: https://emacholdt.github.io/images/circle-02.png "c3"
 [c2]: https://emacholdt.github.io/images/circle-03.png "c2"
