@@ -8,4 +8,6 @@ date: 2013-08-08
 location: "Galesburg, IL"
 ---
 
-[More information here](https://emhastings.github.io/files/dragonfly-ssss.pptx)
+Talk, Knox College Summer Science Seminar Series, Galesburg, IL
+
+[Download here](https://emhastings.github.io/files/dragonfly-ssss.pptx)
