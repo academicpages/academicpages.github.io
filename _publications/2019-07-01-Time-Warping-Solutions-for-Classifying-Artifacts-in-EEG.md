@@ -5,6 +5,6 @@ permalink: /publication/2019-07-01-Time-Warping-Solutions-for-Classifying-Artifa
 date: 2019-07-01
 venue: 'In the proceedings of IEEE International Conference of Engineering in Medicine and Biology Society (EMBS)'
 paperurl: 'https://www.researchgate.net/publication/332332628_Time_Warping_Solutions_for_Classifying_Artifacts_in_EEG'
-citation: ' Srihari Maruthachalam,  Mari Ganesh Kumar,  Hema Murthy, &quot;Time Warping Solutions for Classifying Artifacts in EEG.&quot; In the proceedings of IEEE International Conference of Engineering in Medicine and Biology Society (EMBS), 2019.'
+citation: ' Srihari Maruthachalam,  Mari Ganesh Kumar,  Hema A. Murthy, &quot;Time Warping Solutions for Classifying Artifacts in EEG.&quot; In the proceedings of IEEE International Conference of Engineering in Medicine and Biology Society (EMBS), 2019.'
 ---
 [Access paper here](https://www.researchgate.net/publication/332332628_Time_Warping_Solutions_for_Classifying_Artifacts_in_EEG){:target="_blank"}
