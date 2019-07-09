@@ -17,9 +17,11 @@ Skills
 
 
 * **R** (statistics, data analysis, and visualization)
-* **Python** (pipeline development and management with snakemake)
-* **Bash, awk** 
-* **markdown, latex**
+* **Python** (data analysis, pipeline development and management with snakemake)
+* **Bash, awk** (data manipulation)
+* **markdown, latex** (reporting and documentation)
+* **git, GitHub**
+* **Linux, macOS, Windows, MS Office**
 * Design and Typesetting for Print and Web
   * Adobe Illustrator, Adobe InDesign, Adobe Photoshop
 * Games and Android App Development
@@ -36,32 +38,49 @@ Skills
   * Statistics
   * Bayesian Methods
   * Molecular Biology
-  * Human Population Genetics
+  * Population Genetics
 * Wet lab
   * NGS library prepartion
   * capture enrichment
   * DNA quantification
 
-Education
-======
-* ongoing degree: Ph.D in Human Population History, Leipzig University and MPI-EVA Leipzig, (2019 expected)
-* M.S. in Bioinformatics, Leipzig University and MPI-EVA Leipzig, 2016
-* M.S. in Biology, Leipzig University and MPI-EVA Leipzig, 2013
-* B.S. in Biology, Leipzig University, 2011
+### Languages
 
-
-Teaching and Supervision
-======
-* Sept.2015: Workshop - Applied Phylogenetics
-  * Bayesian Inferences using BEAST1.8
-* Sept.2016 - Jan.2017 Research Supervisor - Bachelor thesis
-  * Alexander Hooft van Huysduynen "NRY and mtDNA analysis for consideration of the human population history of Bougainville"
+* **German** - native
+* **English** - fluent
 
 Work experience
 ======
-* 2010-2016: Research Assistant
-  * Max-Planck Institute for Evolutionary Anthropology Leipzig
+* **since 2015 - Data Analyst & Bioinformatician** 
+  - *Max-Planck-Institute for Evolutionary Anthropology (MPI-EVA) Leipzig*
+  - statistical modelling and analysis of human genomic data
+  - development and management of sequence processing pipelines
+* **since 2017 - Consortium Member - mitoBench** 
+  - toolkit and database 
+  - https://github.com/mitobench
+* **2010-2016 - Research Assistant**
+  * *Max-Planck Institute for Evolutionary Anthropology Leipzig*
   * Supervisor: Professor Mark Stoneking
+
+
+
+
+Education
+======
+* ongoing degree: **Ph.D in Human Population History**, *Leipzig University and MPI-EVA Leipzig*, (2019 expected)
+* **M.Sc. in Bioinformatics**, *Leipzig University and MPI-EVA Leipzig*, 2016
+* **M.Sc. in Biology**, *Leipzig University and MPI-EVA Leipzig*, 2013
+* **B.Sc. in Biology**, *Leipzig University*, 2011
+
+Teaching and Supervision
+======
+* Sept.2015 - Workshop - Applied Phylogenetics
+  * Bayesian Inferences using BEAST1.8
+* Sept.2016 - Jan.2017 Research Supervisor - Bachelor thesis: Alexander Hooft van Huysduynen
+  - *Maastrich University and MPI-EVA Leipzig*
+  * thesis: "NRY and mtDNA analysis for consideration of the human population history of Bougainville"
+
+
 
 
 <!---
@@ -85,5 +104,5 @@ Volunteer Engagement
 * 2016-2017 Vice Spokesperson, ProRat (PhD representatives) of Leipzig University
 * Bio11erRat Leipzig e.V. - non-profit organisation to preserve the tradition of Studentenfasching in Leipzig
   * Director 2010-2012
-  * Senior Member since 2016
-  * Active Member 2008-2016
+  * Member since 2008
+
