@@ -30,12 +30,12 @@ Research experience
 ======  
 * **Summer 2018 – Present: Guest Researcher/GMSE Fellow**	
   * National Institute of Standards and Technology, Gaithersburg, MD
-  * Advisors: Thurston Sexton, Michael Brundage, KC Morris
+  * Advisors: Michael Brundage, Thurston Sexton
   * Working with Knowledge Extraction Application team in Engineering Laboratory toward quantifying human skill level from historical data.
 * **2018 – 2019 : Beyond the Black Box Research Team Member**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisors: Karrie Karahalios (UIUC), Christian Sandvig (UMich)
-  * Working with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
+  * Worked with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
 * **Fall 2016 – Present: Research Assistant**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisor: Brian Bailey
@@ -73,7 +73,7 @@ Talks and Posters
   
 Awards
 ======
-* Graduate Measurement Science and Engineering Fellowship, NIST/NPSC, 2018
+* Graduate Measurement Science and Engineering Fellowship, NIST/NPSC, 2018-present
 * Phi Beta Kappa, Knox College, 2016
 * E. Inman Fox Prize, Knox College, 2016
 * Paul’s Prize in Computer Science, Knox College	, 2016
