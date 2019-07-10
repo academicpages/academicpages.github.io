@@ -11,3 +11,8 @@ GameJam version and post Jam versions: Available now at itch.io (Android)
 <iframe frameborder="0" src="https://itch.io/embed/374648" width="552" height="167"></iframe>
 
 **praise or criticism** [contact us](mephisto17games@gmail.com)
+
+## screenshots
+
+![](https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTEuanBn/794x1000/jjUjiS.jpg)![](https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTcuanBn/794x1000/D85jSx.jpg)
+![](https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTMuanBn/794x1000/D8ia35.jpg)![](https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTQuanBn/794x1000/xkweBz.jpg)
