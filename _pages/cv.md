@@ -15,7 +15,7 @@ Skills
 
 ### Computational Skills
 
-* **R** ![very good][c3] (statistics, data analysis, and visualization)
+* **R** ![very good][c3][]() (statistics, data analysis, and visualization)
 * **Python** ![good][c2] (data analysis, pipeline development and management with snakemake)
 * **Bash, awk** ![very good][c3] (data manipulation)
 * **markdown, latex** ![good][c2] (reporting and documentation)
