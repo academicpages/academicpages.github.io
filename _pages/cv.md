@@ -15,20 +15,20 @@ Skills
 
 ### Computational Skills
 
-* **R** [![very good][c3]](#) (statistics, data analysis, and visualization)
-* **Python** [![good][c2]](#) (data analysis, pipeline development and management with snakemake)
-* **Bash, awk** [![very good][c3]](#) (data manipulation)
-* **markdown, latex** [![good][c2]](#) (reporting and documentation)
-* **git, GitHub** [![good][c2]](#) 
-* **Linux, macOS, Windows, MS Office** [![very good][c3]](#) 
+* **R** ![very good][c3](statistics, data analysis, and visualization)
+* **Python** ![good][c2](data analysis, pipeline development and management with snakemake)
+* **Bash, awk** ![very good][c3] (data manipulation)
+* **markdown, \LaTeX** ![good][c2](reporting and documentation)
+* **git, GitHub** ![good][c2]
+* **Linux, macOS, Windows, MS Office** ![very good][c3]
 * **Design and Typesetting for Print and Web**
-  * Adobe Illustrator, Adobe InDesign [![very good][c3]](#)
-  * Adobe Photoshop [![good][c2]](#) 
+  * Adobe Illustrator, Adobe InDesign ![very good][c3]
+  * Adobe Photoshop ![good][c2]
 * **Video editing**
   * Adobe Premiere Pro, Adobe AfterEffects ![good][c2] 
 * **Games and Android App Development**
-  * Unity [![good][c2]]() 
-  * Android Studio, Android SDK [![basic][c1]]() 
+  * Unity ![good][c2] 
+  * Android Studio, Android SDK ![basic][c1]
     
 
 
