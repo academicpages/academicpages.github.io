@@ -8,15 +8,11 @@ TODO:
 * CV
   * Make separate "courses" pages for CV with syllabi/descriptions?
     * Also for minor
-  * Add links to advisors
-  * Add links to awards (maybe tooltips if no webpage?)
-  * More awards?
-  * Links for service and memberships
+  * More awards? Latin maybe, Mangeri research-- check LinkedIn
   * Download links for CV/resume
     * Update CV/resume	
   * Add conferences attended?  Maybe with map
 * Publications
-  * Fix Google Scholar link
   * Add pubs on Scholar from class?
 * Teaching
   * Add more details?
