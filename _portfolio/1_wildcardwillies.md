@@ -14,7 +14,7 @@ GameJam version and post Jam versions: Available now at itch.io (Android)
 
 
 ## Played on RocketBeansTV
-[![Video Copyright RocketBeansTV](https://img.youtube.com/vi/ /0.jpg)](https://www.youtube.com/watch?v= ?t=)
+[![Video Copyright RocketBeansTV](https://img.youtube.com/vi/RV7sfmWAwTM/0.jpg)](https://youtu.be/RV7sfmWAwTM?t=655)
 
 
 ## Screenshots
