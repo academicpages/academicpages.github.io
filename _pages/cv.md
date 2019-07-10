@@ -15,7 +15,7 @@ Skills
 
 ### Computational Skills
 
-* **R** ![very good][c3] (statistics, data analysis, and visualization)
+* **R** ![very good][c3] <img src="images/circle-02.png" alt="very good" class="inline"/> (statistics, data analysis, and visualization)
 * **Python** ![good][c2] (data analysis, pipeline development and management with snakemake)
 * **Bash, awk** ![very good][c3] (data manipulation)
 * **markdown, latex** ![good][c2] (reporting and documentation)
@@ -110,6 +110,6 @@ Volunteer Engagement
   * 2010-2012 **Director**
   * since 2008 **Member** 
 
-[c3]: https://emacholdt.github.io/images/circle-02.png "c3"
-[c2]: https://emacholdt.github.io/images/circle-03.png "c2"
-[c1]: https://emacholdt.github.io/images/circle-04.png "c1"
+[c3]: https://emacholdt.github.io/images/circle-02.png "very good"
+[c2]: https://emacholdt.github.io/images/circle-03.png "good"
+[c1]: https://emacholdt.github.io/images/circle-04.png "basic"
