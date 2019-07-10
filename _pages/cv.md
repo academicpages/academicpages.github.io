@@ -29,8 +29,7 @@ Skills
 * **Games and Android App Development**
   * Unity ![good][c2] 
   * Android Studio, Android SDK ![basic][c1] 
-    ![_Android O & Java - The Complete Android Development Bootcamp_](https://udemy-certificate.s3.amazonaws.com/image/UC-N3BQJJDK.jpg)
-
+    
 
 
 ### Scientific Skills
