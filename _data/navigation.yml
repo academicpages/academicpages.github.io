@@ -4,13 +4,10 @@ main:
     url: /#publications
 
   - title: "Research Projects"
-    url: /#projects    
+    url: /research     
 
   - title: "Blog"
     url: /year-archive/
     
-  - title: "Miscellaneous"
-    url: /misc/ 
-
   - title: "CV"
     url: /files/cv.pdf
