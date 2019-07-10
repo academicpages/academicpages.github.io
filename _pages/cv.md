@@ -18,7 +18,7 @@ Skills
 * **R** ![very good][c3](statistics, data analysis, and visualization)
 * **Python** ![good][c2](data analysis, pipeline development and management with snakemake)
 * **Bash, awk** ![very good][c3] (data manipulation)
-* **markdown, \LaTeX** ![good][c2](reporting and documentation)
+* **markdown, $\LaTeX$** ![good][c2](reporting and documentation)
 * **git, GitHub** ![good][c2]
 * **Linux, macOS, Windows, MS Office** ![very good][c3]
 * **Design and Typesetting for Print and Web**
