@@ -12,7 +12,7 @@ GameJam version: Available now at itch.io (Android, MacOS, Windows)
 
 **Join the Beta now on Google Play.** [contact us](mephisto17games@gmail.com)
 
-## Played on RocketBeansTV (
+## Played on RocketBeansTV
 [![Video Copyright RocketBeansTV](https://img.youtube.com/vi/xqBOOOofg74/0.jpg)](https://www.youtube.com/watch?v=xqBOOOofg74?t=642)
 
 
@@ -22,9 +22,8 @@ GameJam version: Available now at itch.io (Android, MacOS, Windows)
 
 ## Screenshots
 
+<img src='https://img.itch.zone/aW1hZ2UvMzE2MTM0LzE1NjE1OTQuanBn/794x1000/Q2EPg7.jpg' width='552px'> 
 
-![](https://img.itch.zone/aW1hZ2UvMzE2MTM0LzE1NjE1OTQuanBn/794x1000/Q2EPg7.jpg)
+<img src='https://img.itch.zone/aW1hZ2UvMzE2MTM0LzE1NjA2OTAuanBn/794x1000/OgT1E6.jpg' width='552px'> 
 
-![](https://img.itch.zone/aW1hZ2UvMzE2MTM0LzE1NjA2OTAuanBn/794x1000/OgT1E6.jpg)
-
-![](https://img.itch.zone/aW1hZ2UvMzE2MTM0LzE1NjE2MDQuanBn/794x1000/CfnK7Y.jpg)
+<img src='https://img.itch.zone/aW1hZ2UvMzE2MTM0LzE1NjE2MDQuanBn/794x1000/CfnK7Y.jpg' width='552px'> 
