@@ -14,13 +14,13 @@ Education
 * **Ph.D. in Computer Science (in progress, expected graduation 2022)**	
   * University of Illinois, Urbana-Champaign, IL, 2016-Present
   * Specialization: Human-Computer Interaction
-  * Advisors: Brian Bailey, Karrie Karahalios
+  * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)
   * Research Interests: algorithmic team formation, crowdsourcing, algorithm awareness, CS education
   * Courses included: user interface design, human-computer interaction, experimental methods, educational technology, social media and signals, models of cognitive processes, data mining, educational game design
 * **M.S. in Computer Science**
   * University of Illinois, Urbana-Champaign, IL, 2016-2019
   * Specialization: Human-Computer Interaction
-  * Advisors: Brian Bailey, Karrie Karahalios
+  * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)
 * **B.A. in Computer Science, summa cum laude**	
   * Knox College, Galesburg, IL, 2012-2016
   * Independent Minor: Renaissance and Medieval Studies
@@ -30,27 +30,27 @@ Research experience
 ======  
 * **Summer 2018 – Present: Guest Researcher/GMSE Fellow**	
   * National Institute of Standards and Technology, Gaithersburg, MD
-  * Advisors: Michael Brundage, Thurston Sexton
-  * Working with Knowledge Extraction Application team in Engineering Laboratory toward quantifying human skill level from historical data.
+  * Advisors: [Michael Brundage](https://www.nist.gov/people/michael-p-brundage), [Thurston Sexton](https://www.nist.gov/people/thurston-sexton)
+  * Working with the [Knowledge Extraction and Application team](https://www.researchgate.net/project/Knowledge-Extraction-and-Application-for-Smart-Manufacturing) in Engineering Laboratory toward quantifying human skill level from historical data.
 * **Fall 2016 – Present: Research Assistant**	
   * University of Illinois, Urbana-Champaign, IL
-  * Advisor: Brian Bailey
+  * Advisor: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html)
   * Working individually and with a team to investigate issues concerning the use of algorithmic team formation tools
 * **January 2018 – May 2019 : Beyond the Black Box Research Team Member**	
   * University of Illinois, Urbana-Champaign, IL
-  * Advisors: Karrie Karahalios (UIUC), Christian Sandvig (UMich)
+  * Advisors: [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html) (UIUC), [Christian Sandvig](http://www-personal.umich.edu/~csandvig/) (UMich)
   * Worked with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
 * **Summer 2015: Research Assistant**	
   * Knox College, Galesburg, IL
-  * Advisor: Jaime Spacco
+  * Advisor: [Jaime Spacco](https://www.knox.edu/academics/majors-and-minors/computer-science/faculty/spacco-jaime)
   * Worked with a team to develop [Knoxcraft](https://github.com/knoxcraft), a system that allows students to use Java/Python code to build structures in the game Minecraft.
 * **Summer 2014: Research Assistant**	
   * Knox College, Galesburg, IL
-  * Advisor: David Bunde
+  * Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)
   * Worked with a team to develop materials to help teach parallel programming at Knox and other institutions.
 * **Summer 2013: Research Assistant**
   * Knox College, Galesburg, IL
-  * Advisor: David Bunde
+  * Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)
   * Worked with a team to investigate task mapping and cabling methods for the Dragonfly interconnect topology.
 
 Teaching
@@ -73,14 +73,14 @@ Talks and Posters
   
 Awards
 ======
-* Graduate Measurement Science and Engineering Fellowship, NIST/NPSC, 2018-present
-* Phi Beta Kappa, Knox College, 2016
-* E. Inman Fox Prize, Knox College, 2016
-* Paul’s Prize in Computer Science, Knox College	, 2016
-* Howard A. Wilson Prize in Literary Criticism (2nd Place), Knox College, 2016
-* ASSET Scholar, Knox College, 2015-2016
+* [Graduate Measurement Science and Engineering Fellowship](https://www.nist.gov/iaao/academic-affairs-office/nist-graduate-student-measurement-science-and-engineering-gmse), NIST/NPSC, 2018-present
+* [Phi Beta Kappa](https://www.pbk.org/Requirements), Knox College, 2016
+* [E. Inman Fox Prize](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2016
+* [Paul’s Prize in Computer Science](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College	, 2016
+* [Howard A. Wilson Prize in Literary Criticism](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes) (2nd Place), Knox College, 2016
+* [ASSET Scholar](https://www.knox.edu/academics/research-and-creative-work/student-research-grants/asset-program), Knox College, 2015-2016
 * Ron Asplund Memorial Research Award, Knox College, 2014
-* National Merit Scholar, Knox College, 2012-2016
+* [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424), Knox College, 2012-2016
 
 Skills
 ======
@@ -96,18 +96,18 @@ Skills
 Service and Leadership
 ======
 * Reviewer for ACM CSCW
-* Girls Who Code Facilitator	
+* [Girls Who Code](https://girlswhocode.com/) Facilitator	
   * University of Illinois, 2017
   * Assisted students during weekly club meetings.
-* Engineers Volunteering in STEM Education (ENVISION)	
+* [Engineers Volunteering in STEM Education (ENVISION)](https://publish.illinois.edu/envisionuiuc/about-2/)	
   * University of Illinois, 2016-2017
   * Led school age children in STEM-related activities.
-* Teaching Assistant for Knox College 4 Kids	
+* Teaching Assistant for [Knox College 4 Kids](https://www.knox.edu/offices/summer-camps/knox-college-for-kids)	
   * Knox College, 2011-2013
   * Assisted teachers for three summers teaching knitting, crochet, weaving, French, and Harry Potter classes to school-age children.
   
 Memberships
 ======
-* Student member of the Association for Computing Machinery (ACM)
-* Student member of ACM Special Interest Group on Human-Computer Interaction
-* Member of Phi Beta Kappa Honor Society
+* Student member of the [Association for Computing Machinery (ACM)](https://www.acm.org/)
+* Student member of [ACM Special Interest Group on Human-Computer Interaction](https://sigchi.org/)
+* Member of [Phi Beta Kappa Honor Society](https://www.pbk.org/)
