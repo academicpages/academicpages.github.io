@@ -17,7 +17,6 @@ TODO:
   * Add conferences attended?  Maybe with map
 * Publications
   * Fix Google Scholar link
-  * Fix italics
   * Add pubs on Scholar from class?
 * Teaching
   * Add more details?
