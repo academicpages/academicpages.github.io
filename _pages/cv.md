@@ -15,7 +15,7 @@ Education
   * University of Illinois, Urbana-Champaign, IL, 2016-Present
   * Specialization: Human-Computer Interaction
   * Advisors: Brian Bailey, Karrie Karahalios
-  * Research Interests: team formation, crowdsourcing, algorithm awareness, CS education
+  * Research Interests: algorithmic team formation, crowdsourcing, algorithm awareness, CS education
   * Courses included: user interface design, human-computer interaction, experimental methods, educational technology, social media and signals, models of cognitive processes, data mining, educational game design
 * **M.S. in Computer Science**
   * University of Illinois, Urbana-Champaign, IL, 2016-2019
@@ -36,7 +36,7 @@ Research experience
   * University of Illinois, Urbana-Champaign, IL
   * Advisor: Brian Bailey
   * Working individually and with a team to investigate issues concerning the use of algorithmic team formation tools
-* **2018 – 2019 : Beyond the Black Box Research Team Member**	
+* **January 2018 – May 2019 : Beyond the Black Box Research Team Member**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisors: Karrie Karahalios (UIUC), Christian Sandvig (UMich)
   * Worked with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
