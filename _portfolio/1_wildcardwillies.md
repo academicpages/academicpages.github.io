@@ -12,7 +12,14 @@ GameJam version and post Jam versions: Available now at itch.io (Android)
 
 **praise or criticism** [contact us](mephisto17games@gmail.com)
 
-## screenshots
 
-![](https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTEuanBn/794x1000/jjUjiS.jpg)![](https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTcuanBn/794x1000/D85jSx.jpg)
-![](https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTMuanBn/794x1000/D8ia35.jpg)![](https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTQuanBn/794x1000/xkweBz.jpg)
+## Played on RocketBeansTV
+[![Video Copyright RocketBeansTV](https://img.youtube.com/vi/ /0.jpg)](https://www.youtube.com/watch?v= ?t=)
+
+
+## Screenshots
+
+
+<img src='https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTEuanBn/794x1000/jjUjiS.jpg' width='276px'> <img src='https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTcuanBn/794x1000/D85jSx.jpg' width='276px'> 
+
+<img src='https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTMuanBn/794x1000/D8ia35.jpg' width='276px'> <img src='https://img.itch.zone/aW1hZ2UvMzc0NjQ4LzE4ODUxMTQuanBn/794x1000/xkweBz.jpg' width='276px'> 
