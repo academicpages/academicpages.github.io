@@ -18,7 +18,7 @@ _bioRxiv_ (2019). doi: [10.1101/562496](https://doi.org/10.1101/562496).
 
 **Claire Duvallet**, Caroline Zellmer, Pratik Panchal, Shrish Budree, Madji Osman, and Eric Alm.    
 "Framework for rational donor selection in fecal microbiota transplant clinical trials."    
-_in preparation, preprint submitted to medRxiv_.     
+_medRxiv_ (2019) doi: [10.1101/19000307](https://doi.org/10.1101/19000307).     
 Associated github: [cduvallet/donor-selection](https://github.com/cduvallet/donor-selection/)
 
 Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm.   
