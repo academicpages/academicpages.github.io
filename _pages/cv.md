@@ -25,10 +25,10 @@ Skills
   * Adobe Illustrator, Adobe InDesign [![very good][c3]](#)
   * Adobe Photoshop [![good][c2]](#) 
 * **Video editing**
-  * Adobe Premiere Pro, Adobe AfterEffects [![good][c2]](#) 
+  * Adobe Premiere Pro, Adobe AfterEffects ![good][c2] 
 * **Games and Android App Development**
-  * Unity [![good][c2]](#) 
-  * Android Studio, Android SDK [![basic][c1]](#) 
+  * Unity [![good][c2]]() 
+  * Android Studio, Android SDK [![basic][c1]]() 
     
 
 
