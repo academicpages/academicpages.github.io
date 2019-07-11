@@ -14,6 +14,9 @@ TODO:
   * Add conferences attended?  Maybe with map
 * Publications
   * Add pubs on Scholar from class?
+* Talks
+  * Add first costume talk, change picture link in Horizons
+  * Edit download wording-- change code in generator to do it by type
 * Teaching
   * Add more details?
 * Creative
