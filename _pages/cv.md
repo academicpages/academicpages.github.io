@@ -102,11 +102,9 @@ Skills
   * Knowledge of research methodologies
   * Knowledge of statistical analysis techniques, R
 * Creative
+  * Sewing, knitting, crochet, embroidery
   * Costume design
-  * Sewing
   * Patterning and draping
-  * Knitting
-  * Crochet
 * General
   * Writing and presenting reports
   * English (native language)
