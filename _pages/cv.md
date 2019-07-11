@@ -24,6 +24,7 @@ Teaching
 
 Awards
 ======
+* McCormick Graduate Fellowship, University of Chicago (2019-2021)
 * Elaine K. Bernstein Women in Science Award, University of Chicago (2019)
 * University Scholar Research Grant, University of Pennsylvania (2016-2018)
 * NASA Pennsylvania Space Grant Undergraduate Scholarship (2018)
