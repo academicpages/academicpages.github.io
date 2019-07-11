@@ -95,14 +95,22 @@ Awards
 
 Skills
 ======
-* Microsoft Office, Google App Suite, Windows, Github
-* Programming languages (high proficiency): Java 
-* Programming languages (some experience): Python, C, SQL, HTML/CSS, Javascript/JQuery, PHP
-* Knowledge of research methodologies
-* Knowledge of statistical analysis techniques, R
-* Writing and presenting reports
-* English (native language)
-* Elementary proficiency in French and Latin
+*Technical/Academic
+  * Microsoft Office, Google App Suite, Windows, Github
+  * Programming languages (high proficiency): Java 
+  * Programming languages (some experience): Python, C, SQL, HTML/CSS, Javascript/JQuery, PHP
+  * Knowledge of research methodologies
+  * Knowledge of statistical analysis techniques, R
+*Creative
+  * Costume design
+  * Sewing
+  * Patterning and draping
+  * Knitting
+  * Crochet
+*General
+  * Writing and presenting reports
+  * English (native language)
+  * Elementary proficiency in French and Latin
 
 Service and Leadership
 ======
