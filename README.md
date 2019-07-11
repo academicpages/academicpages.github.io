@@ -3,12 +3,9 @@ My personal website, forked from academicpages/academicpages.github.io.
 Still under construction.
 
 TODO:
-* About
-  * Add link to Ravelry designer page
 * CV
   * Make separate "courses" pages for CV with syllabi/descriptions?
     * Also for minor
-  * More awards? Latin maybe, Mangeri research-- check LinkedIn
   * Download links for CV/resume
     * Update CV/resume	
   * Add conferences attended?  Maybe with map
