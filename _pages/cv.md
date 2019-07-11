@@ -89,7 +89,7 @@ Awards
 * [ASSET Scholar](https://www.knox.edu/academics/research-and-creative-work/student-research-grants/asset-program), Knox College, 2015-2016
 * [Thalia Manganari Papavas '50 Research Award](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2015
 * [Lawrence Prize in Elementary Latin](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2015
-* Summer Science Seminar Series Best Student Seminar Award, Knox College Sigma Xi, 2015
+* Summer Science Seminar Series 2014 Best Student Seminar Award, Knox College Sigma Xi, 2015
 * Ron Asplund Memorial Research Award, Knox College, 2014
 * [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424), Knox College, 2012-2016
 

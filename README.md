@@ -9,11 +9,14 @@ TODO:
   * Download links for CV/resume
     * Update CV/resume	
   * Add conferences attended?  Maybe with map
+  * Add Cooke volunteering
+* Research tab?
 * Publications
   * Add pubs on Scholar from class?
 * Talks
   * Add first costume talk, change picture link in Horizons
   * Edit download wording-- change code in generator to do it by type
+  * Add photos
 * Teaching
   * Add more details?
 * Creative
