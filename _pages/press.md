@@ -16,8 +16,6 @@ author_profile: true
   * [Computer Science Experiences & Opportunities \| Knox College](https://www.knox.edu/academics/majors-and-minors/computer-science/experiences-and-opportunities)
   * [Class of 2016 Legacies \| Knox College](https://www.knox.edu/news/class-of-2016-legacies)
   
-
-
 ## Creative
   * [DIY: 25 Wearable Geek Projects You Can Knit or Crochet \| Geek & Sundry](https://geekandsundry.com/diy-25-wearable-geek-projects-you-can-knit-or-crochet/)
   * [Embrace Your Geekness with 12 Fun Patterns \| Lion Brand Notebook](http://www.lionbrand.com/blog/embrace-your-geekness/)
