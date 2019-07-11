@@ -5,7 +5,7 @@ author_profile: true
 ---
 My research uses statistical, network, and computational methods to study political sociology, organizational behavior, social movements, social inequality, and demography.
 
-### Organizational Behavior
+### Organizational Behavior and Social Movements
 I am particularly interested in two lines of organizational studies. The first seeks to understand the antecedents and consequences of the movement of corporate political transparency and accountability in the U.S., while the second assesses the relationship between corporate political activities and social responsibilities.
 
 Along the first line, I focus upon shareholder activism targeting corporate political activities (i.e., shareholder political activism) and its influence. I investigate how activist shareholders select corporate targets, how firms manage shareholder threats, and how shareholder activism influences corporate political and financial outcomes. This project contributes to several scholarly debates on corporate power. Relying on web-scraping and big data techniques, it also builds a unique shareholder activism and political spending database for U.S. SP1500 companies in 2000-2018.
