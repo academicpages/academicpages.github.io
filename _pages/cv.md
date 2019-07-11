@@ -40,6 +40,10 @@ Research experience
   * University of Illinois, Urbana-Champaign, IL
   * Advisors: [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html) (UIUC), [Christian Sandvig](http://www-personal.umich.edu/~csandvig/) (UMich)
   * Worked with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
+* **Spring 2016: Independent Study**
+  * Knox College, Galesburg, IL
+  * Advisor: [Margo Shively](http://knoxtheatre.org/people/Margo_Shively)
+  * Researched the everyday dress of Elizabethan English working-class women of the 1560s-70s and built outfit from the skin out using historically accurate techniques and materials.
 * **Summer 2015: Research Assistant**	
   * Knox College, Galesburg, IL
   * Advisor: [Jaime Spacco](https://www.knox.edu/academics/majors-and-minors/computer-science/faculty/spacco-jaime)
@@ -52,6 +56,10 @@ Research experience
   * Knox College, Galesburg, IL
   * Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)
   * Worked with a team to investigate task mapping and cabling methods for the Dragonfly interconnect topology.
+* **Spring 2013: Independent Study**
+  * Knox College, Galesburg, IL
+  * Advisor: [Margo Shively](http://knoxtheatre.org/people/Margo_Shively)
+  * Researched the court dress of Elizabethan English noblewomen of the 1560s-70s and built outfit from the skin out using historically accurate techniques and materials.
 
 Teaching
 ======
@@ -74,11 +82,14 @@ Talks and Posters
 Awards
 ======
 * [Graduate Measurement Science and Engineering Fellowship](https://www.nist.gov/iaao/academic-affairs-office/nist-graduate-student-measurement-science-and-engineering-gmse), NIST/NPSC, 2018-present
-* [Phi Beta Kappa](https://www.pbk.org/Requirements), Knox College, 2016
+* Inducted into [Phi Beta Kappa](https://www.pbk.org/Requirements), Knox College, 2016
 * [E. Inman Fox Prize](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2016
 * [Paul’s Prize in Computer Science](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College	, 2016
 * [Howard A. Wilson Prize in Literary Criticism](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes) (2nd Place), Knox College, 2016
 * [ASSET Scholar](https://www.knox.edu/academics/research-and-creative-work/student-research-grants/asset-program), Knox College, 2015-2016
+* [Thalia Manganari Papavas '50 Research Award](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2015
+* [Lawrence Prize in Elementary Latin](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2015
+* Summer Science Seminar Series Best Student Seminar Award, Knox College Sigma Xi, 2015
 * Ron Asplund Memorial Research Award, Knox College, 2014
 * [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424), Knox College, 2012-2016
 
@@ -95,7 +106,7 @@ Skills
 
 Service and Leadership
 ======
-* Reviewer for ACM CSCW
+* Reviewer for [ACM CSCW](cscw.acm.org/)
 * [Girls Who Code](https://girlswhocode.com/) Facilitator	
   * University of Illinois, 2017
   * Assisted students during weekly club meetings.
