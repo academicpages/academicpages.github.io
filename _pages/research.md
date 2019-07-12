@@ -9,6 +9,7 @@ My overarching research interest lies in using technology to create educational 
 
 I have also previously conducted research outside of CS for my undergraduate minor in Renaissance and Medieval Studies, and I remain interested in similar work and in projects combining CS with other academic fields or creative endeavors (e.g., digital humanities, e-textiles, etc.).
 
+---
 
 # Current Projects
 
@@ -62,7 +63,7 @@ During my time on this project, I worked with a team across multiple universitie
 _Summer 2015 - March 2016_  
 _Advisor: [Jaime Spacco](https://www.knox.edu/academics/majors-and-minors/computer-science/faculty/spacco-jaime)_  
 
-During my ASSET scholarship, I worked with a team to develop an educational plugin for the game Minecraft that helps teach introductory computer science students to program in Java and similar languages. One of the main objectives of Minecraft is to build various structures out of blocks. Our project, which we named [Knoxcraft](https://github.com/knoxcraft), forces students to do this by writing code in Java (or another language of their instructor’s choice—we support both Java, Python, and Blockly, and have a framework for users to extend Knoxcraft to work with potentially any programming language). This environment allows students to become comfortable with the process of programming in a fun and visual context they may already be familiar with, and may help make computer science as a field more accessible to those groups who are currently underrepresented.  
+During my ASSET scholarship, I worked with a team to develop an educational plugin for the game Minecraft that helps teach introductory computer science students to program in Java and similar languages. One of the main objectives of Minecraft is to build various structures out of blocks. Our project, which we named [Knoxcraft](https://github.com/knoxcraft), forces students to do this by writing code in Java (or another language of their instructor’s choice—we support Java, Python, and Blockly, and have a framework for users to extend Knoxcraft to work with potentially any programming language). This environment allows students to become comfortable with the process of programming in a fun and visual context they may already be familiar with, and may help make computer science as a field more accessible to those groups who are currently underrepresented.  
 
 We piloted Knoxcraft in CS 141 during the Fall 2015 term and received very positive feedback from students. Since my time on the project has ended, Knoxcraft has grown to include a [simple web interface](knoxcraft.github.io) for students who do not have or wish to buy the full Minecraft game.
 
@@ -73,7 +74,7 @@ _Associated Presentations:_
 	{% endif %}
   {% endfor %}</ul>
 
-## Responding to Manycore: Teaching parallel computing with higher-level languages and activity-based laboratories
+## Responding to Manycore: Teaching Parallel Computing with Higher-Level Languages and Activity-Based Laboratories
 _Summer 2014_  
 _Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)_  
 
