@@ -22,15 +22,16 @@ author_profile: true
     * **_NEW_** January 2019 [draft](https://cseveren.github.io/files/20190130_Severen_LAMetro_New.pdf) and [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf)
     * Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.
 
-* "Formative Experiences and the Price of Gasoline" (with [Arthur van Benthem][avb]). *Draft coming soon!*
+* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf)" (with [Arthur van Benthem][avb]).
 
 ### Selected Works in Progress (at least preliminary results)
 
 * "Mobility Restrictions, Human Capital Attainment, and Youth Employment" (with [Valerie Bostwick][vkb]).
 
-* "Transit Adoption and Rising Incomes in Mexico City" (with [Paulina Oliva][poliva] and Danae Hernandez Cortes). 
+* "Transit Adoption and Rising Incomes in Mexico City" (with [Paulina Oliva][poliva] and Danae Hernandez Cortes).
 
-* "Commuting by the Beach: On Different Measures of Commuting Elasticities".
+
+
 
 
 [aplantinga]: https://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm
