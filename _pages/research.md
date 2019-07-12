@@ -30,22 +30,12 @@ _Associated Publications:_
       {% include archive-single-cv.html %}
 	{% endif %}
   {% endfor %}</ul>
-  
-_Related Work by Collaborators:_  
-//todo
 
 ## Quantifying Maintenance Technician Capability
-_Summer 2018 – Present_	 
+_Summer 2018 – Present_  
 _Advisors: [Michael Brundage](https://www.nist.gov/people/michael-p-brundage), [Thurston Sexton](https://www.nist.gov/people/thurston-sexton)_
 
 Working with the [Knowledge Extraction and Application team](https://www.researchgate.net/project/Knowledge-Extraction-and-Application-for-Smart-Manufacturing) in Engineering Laboratory toward quantifying human skill level from historical data.
-
-_Associated Presentations:_
-  <ul>{% for post in site.talks reversed %}
-    {% if post.tags contains 'nist' %}
-	  {% include archive-single-talk-cv.html %}
-	{% endif %}
-  {% endfor %}</ul>
 
 _Associated Publications:_
   <ul>{% for post in site.publications reversed %}
@@ -57,8 +47,8 @@ _Associated Publications:_
 # Past Projects
 
 ## Beyond the Black Box: Understanding & Designing for Users’ Expectations of Algorithms
-_January 2018 – May 2019_  	
-_Advisors: [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html) (UIUC), [Christian Sandvig](http://www-personal.umich.edu/~csandvig/) (UMich)_
+_January 2018 – May 2019_  
+_Advisors: [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html), [Christian Sandvig](http://www-personal.umich.edu/~csandvig/)_
 
 Worked with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
 (Penny's text: I helped design a nationally-representative survey to understand people’s understandings and expectations of algorithms, particularly on social media platforms.)
@@ -77,7 +67,7 @@ _Associated Presentations:_
   {% endfor %}</ul>
 
 ##  Collaborative Research: Responding to Manycore: Teaching parallel computing with higher-level languages and activity-based laboratories
-_Summer 2014_	
+_Summer 2014_  
 _Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)_
 
 Worked with a team to develop materials to help teach parallel programming at Knox and other institutions.
@@ -91,7 +81,7 @@ _Associated Presentations:_
   {% endfor %}</ul>
 
 ## Task Mapping for Emerging Network Topologies
-_Summer 2013: Research Assistant_  
+_Summer 2013_  
 _Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)_
 
 Worked with a team to investigate task mapping and cabling methods for the Dragonfly interconnect topology.

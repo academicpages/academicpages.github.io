@@ -10,7 +10,6 @@ TODO:
     * Update CV/resume	
   * Add conferences attended?  Maybe with map
 * Research tab
-  * Related work
 * Publications
   * Add pubs on Scholar from class?
 * Talks
@@ -26,6 +25,7 @@ TODO:
   * Remove default posts
   * Add post about website
 * Update footer links-- Google Scholar, others?
+* Hackerrank
 * SEO optimizing-- descriptions/excerpts?
 * Edit notebooks to include saving instructions, remove extra stuff
 * Remove unecessary files in all folders
