@@ -10,6 +10,7 @@ TODO:
     * Update CV/resume	
   * Add conferences attended?  Maybe with map
 * Research tab
+  * Add links to gown pages once made
 * Publications
   * Add pubs on Scholar from class?
 * Talks
