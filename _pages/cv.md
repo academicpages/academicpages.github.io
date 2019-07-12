@@ -119,6 +119,9 @@ Service and Leadership
 * [Engineers Volunteering in STEM Education (ENVISION)](https://publish.illinois.edu/envisionuiuc/about-2/)	
   * University of Illinois, 2016-2017
   * Led school age children in STEM-related activities.
+* Teaching Assistant
+  * Cooke Elementary School (Galesburg, IL), Spring 2014
+  * Assisted in a first grade classroom.
 * Teaching Assistant for [Knox College 4 Kids](https://www.knox.edu/offices/summer-camps/knox-college-for-kids)	
   * Knox College, 2011-2013
   * Assisted teachers for three summers teaching knitting, crochet, weaving, French, and Harry Potter classes to school-age children.

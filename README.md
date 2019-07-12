@@ -17,8 +17,6 @@ TODO:
   * Add first costume talk, change picture link in Horizons
   * Edit download wording-- change code in generator to do it by type
   * Add photos
-* Teaching
-  * Add more details?
 * Creative
   * Summary
   * Change sidebar menu to have creative links-- ravelry, etsy, youtube, ko-fi, old blog. business email
