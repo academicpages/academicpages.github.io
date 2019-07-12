@@ -59,9 +59,9 @@ For more details, see the pages for each project:
 [todo: add links]
 
 _Associated Presentations:_
-  <ul>
-    {% include archive-single-talk-cv.html post= "_talks/2014-02-11-costume-horizons.md"%}
-  </ul>
+  <ul>{% for post in site.talks.costume reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
