@@ -5,9 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-## Current Projects
+My overarching research interest lies in using technology to create educational tools, particularly for CS or broader STEM education. Currently, my dissertation research focuses on the use of algorithmic team formation tools in courses implementing team-based approaches to learning. I am also working on a project for my fellowship with NIST on quantifying human skill level from historical data, which is useful both in the context of team formation and in other disciplines such as manufacturing maintenance.
 
-### Learner-Centered Algorithmic Team Formation
+I have also previously conducted research outside of CS for my undergraduate minor in Renaissance and Medieval Studies, and I remain interested in similar work and in projects combining CS with other academic fields or creative endeavors (e.g., digital humanities, e-textiles, etc.).
+
+# Current Projects
+
+## Learner-Centered Algorithmic Team Formation
 _Fall 2016 – Present: Research Assistant_  
 _Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html), [Darko Marinov](http://mir.cs.illinois.edu/marinov/)_  
 
@@ -26,8 +30,11 @@ _Associated Publications:_
       {% include archive-single-cv.html %}
 	{% endif %}
   {% endfor %}</ul>
+  
+_Related Work by Collaborators:_  
+//todo
 
-### Quantifying Maintenance Technician Capability
+## Quantifying Maintenance Technician Capability
 _Summer 2018 – Present_	 
 _Advisors: [Michael Brundage](https://www.nist.gov/people/michael-p-brundage), [Thurston Sexton](https://www.nist.gov/people/thurston-sexton)_
 
@@ -47,16 +54,16 @@ _Associated Publications:_
 	{% endif %}
   {% endfor %}</ul>
 
-## Past Projects
+# Past Projects
 
-### Beyond the Black Box: Understanding & Designing for Users’ Expectations of Algorithms
+## Beyond the Black Box: Understanding & Designing for Users’ Expectations of Algorithms
 _January 2018 – May 2019_  	
 _Advisors: [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html) (UIUC), [Christian Sandvig](http://www-personal.umich.edu/~csandvig/) (UMich)_
 
 Worked with a team across multiple universities to conduct a large-scale study on algorithmic literacy and awareness.
 (Penny's text: I helped design a nationally-representative survey to understand people’s understandings and expectations of algorithms, particularly on social media platforms.)
 
-### Knoxcraft: Teaching Introductory Programming with Minecraft
+## Knoxcraft: Teaching Introductory Programming with Minecraft
 _Summer 2015 - March 2016_  
 _Advisor: [Jaime Spacco](https://www.knox.edu/academics/majors-and-minors/computer-science/faculty/spacco-jaime)_  
 
@@ -69,7 +76,7 @@ _Associated Presentations:_
 	{% endif %}
   {% endfor %}</ul>
 
-###  Collaborative Research: Responding to Manycore: Teaching parallel computing with higher-level languages and activity-based laboratories
+##  Collaborative Research: Responding to Manycore: Teaching parallel computing with higher-level languages and activity-based laboratories
 _Summer 2014_	
 _Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)_
 
@@ -83,7 +90,7 @@ _Associated Presentations:_
 	{% endif %}
   {% endfor %}</ul>
 
-### Task Mapping for Emerging Network Topologies
+## Task Mapping for Emerging Network Topologies
 _Summer 2013: Research Assistant_  
 _Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)_
 
@@ -106,7 +113,7 @@ _Associated Publications:_
 	{% endif %}
   {% endfor %}</ul>
   
-### The History and Construction of Elizabethan English Costume
+## The History and Construction of Elizabethan English Costume
 _Spring 2013, Spring 2016_  
 _Advisor: [Margo Shively](http://knoxtheatre.org/people/Margo_Shively)_
   
@@ -119,13 +126,6 @@ _Associated Presentations:_
   <ul>{% for post in site.talks reversed %}
     {% if post.tags contains 'costume' %}
 	  {% include archive-single-talk-cv.html %}
-	{% endif %}
-  {% endfor %}</ul>
-
-_Associated Publications:_
-  <ul>{% for post in site.publications reversed %}
-    {% if post.tags contains 'costume' %}
-      {% include archive-single-cv.html %}
 	{% endif %}
   {% endfor %}</ul>
   

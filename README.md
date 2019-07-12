@@ -9,8 +9,8 @@ TODO:
   * Download links for CV/resume
     * Update CV/resume	
   * Add conferences attended?  Maybe with map
-  * Add Cooke volunteering
-* Research tab?
+* Research tab
+  * Related work
 * Publications
   * Add pubs on Scholar from class?
 * Talks
