@@ -16,6 +16,7 @@ TODO:
 * Talks
   * Add first costume talk, change picture link in Horizons
   * Edit download wording-- change code in generator to do it by type
+    * Also add tags
   * Add photos
 * Creative
   * Summary
