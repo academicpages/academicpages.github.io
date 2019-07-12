@@ -50,7 +50,7 @@ author_profile: true
   * Worked with a team to investigate task mapping and cabling methods for the Dragonfly interconnect topology.
   
 ### The History and Construction of Elizabethan English Costume
-_Spring 2013, Spring 2016: Independent Study_
+_Spring 2013, Spring 2016: Independent Study_  
 _Advisor: [Margo Shively](http://knoxtheatre.org/people/Margo_Shively)_
   
 In an independent research project bookending my time at Knox, I researched the dress of English women of the 1560s-70s, from both the working- and upper-classes. This research took the form of examining both primary sources (mostly art) and the work of costume scholars such as Janet Arnold, Margo Anderson, and Drea Leed. I then used the knowledge I had gained to design and construct an outfit representative of each class, consisting of garments from the skin out. The techniques and materials used were as historically accurate as I could afford. This project offered an extraordinary opportunity to step into the shoes (in a nearly literal sense) of the subjects of Elizabethan portraits, and taught me skills I still use in my creative.
@@ -59,8 +59,10 @@ For more details, see the pages for each project:
 [todo: add links]
 
 _Associated Presentations:_
-  <ul>{% for post in site.talks/costume reversed %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% if post.tags contains 'costume' %}
+	  {% include archive-single-talk-cv.html %}
+	{% endif %}
   {% endfor %}</ul>
 
 Publications

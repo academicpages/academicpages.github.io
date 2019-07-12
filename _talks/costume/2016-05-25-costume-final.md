@@ -8,6 +8,7 @@ date: 2016-05-25
 location: "Galesburg, IL"
 excerpt: "Presentation of independent study research. For more information, see [Facebook photo album](https://www.facebook.com/media/set/?set=a.1026541277438073.1073741828.100002466328041&type=1&l=8758bc5f76).  
 "
+tags: [costume]
 ---
 
 Talk  
