@@ -59,7 +59,7 @@ For more details, see the pages for each project:
 [todo: add links]
 
 _Associated Presentations:_
-  <ul>{% for post in site.talks.costume reversed %}
+  <ul>{% for post in site.talks/costume reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
