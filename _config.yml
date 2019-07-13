@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Maciek Wiatrak"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Maciek Wiatrak"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Maciek Wiatrak"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "UCL Student and Machine Learning Intern @ Plural AI"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
