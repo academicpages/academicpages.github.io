@@ -16,7 +16,7 @@ Education
   * Specialization: Human-Computer Interaction
   * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)
   * Research Interests: algorithmic team formation, crowdsourcing, algorithm awareness, CS education
-  * Courses included: user interface design, human-computer interaction, experimental methods, educational technology, social media and signals, models of cognitive processes, data mining, educational game design
+  * [Courses taken](https://emhastings.github.io/courses-taken/)
 * **M.S. in Computer Science**
   * University of Illinois, Urbana-Champaign, IL, 2016-2019
   * Specialization: Human-Computer Interaction
@@ -24,7 +24,7 @@ Education
 * **B.A. in Computer Science, summa cum laude**	
   * Knox College, Galesburg, IL, 2012-2016
   * Independent Minor: Renaissance and Medieval Studies
-  * Courses included: data structures, hardware organization, information management, algorithm design, graphics, parallel programming, software engineering, networking, operating systems, artificial intelligence
+  * [Courses taken](https://emhastings.github.io/courses-taken/)
 
 Research experience
 ======  
