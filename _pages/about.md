@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://macwiatrak.github.io/files/profile.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://macwiatrak.github.io/files/profile.png" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Machine Learning Intern @ [Plural AI](https://plural.ai) where  I am working under [Dr Jaron Collis](https://scholar.google.co.uk/citations?user=Mupl5E0AAAAJ&hl=en) and together with other smart folks, I am trying to revolutionize the world of financial analysis. Mainly working on NLP models.
