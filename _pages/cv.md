@@ -133,3 +133,7 @@ Memberships
 * Student member of the [Association for Computing Machinery (ACM)](https://www.acm.org/)
 * Student member of [ACM Special Interest Group on Human-Computer Interaction](https://sigchi.org/)
 * Member of [Phi Beta Kappa Honor Society](https://www.pbk.org/)
+
+Conferences Attended
+======
+[Click here for a list and map of conferences attended.](https://emhastings.github.io/conferencemap)
