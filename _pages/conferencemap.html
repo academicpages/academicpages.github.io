@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Conferences Attended"
+permalink: /conferencemap.html
+author_profile: true
+---
+
+<p> Click on a cluster to zoom in.</p>
+<iframe src="/conferencemap/map.html" height="700" width="850" style="border:none;"></iframe>
+
+{% for post in site.conferences reversed %}
+  {% include archive-single-conf.html %}
+{% endfor %}
