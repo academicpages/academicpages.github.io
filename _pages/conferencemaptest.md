@@ -12,5 +12,5 @@ author_profile: true
 
 
   <ul>{% for post in site.conferences reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
