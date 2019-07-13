@@ -14,7 +14,7 @@ Education
 * B.S. in Biotechnology, Manipal University, India (2009)
 * M.S. in Molecular Biology & Human Genetics, Manipal University, India (2011)
 * M.S. in Biology, University of Nevada-Reno, USA (2017)
-* Ph.D in Cellular & Molecular Biology, University of Nevada-Reno, USA (2023) (expected)
+* Ph.D in Genetics, University of Arizona-Tucon, USA (2021) (expected)
 
 Work experience
 ======
