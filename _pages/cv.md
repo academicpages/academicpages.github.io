@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+_Download: [Abridged CV](https://emhastings.github.io/files/Hastings_CV_July19.pdf) \| [1-page resume](https://emhastings.github.io/files/Hastings_Emily_July19.pdf)_  
+
 Education
 ======
 * **Ph.D. in Computer Science (in progress, expected graduation 2022)**	

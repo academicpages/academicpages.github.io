@@ -3,9 +3,6 @@ My personal website, forked from academicpages/academicpages.github.io.
 Still under construction.
 
 TODO:
-* CV
-  * Download links for CV/resume
-    * Update CV/resume	
 * Research tab
   * Add links to gown pages once made
 * Publications
