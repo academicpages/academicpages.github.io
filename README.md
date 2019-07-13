@@ -4,8 +4,6 @@ Still under construction.
 
 TODO:
 * CV
-  * Make separate "courses" pages for CV with syllabi/descriptions?
-    * Also for minor
   * Download links for CV/resume
     * Update CV/resume	
   * Add conferences attended?  Maybe with map
