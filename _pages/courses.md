@@ -65,6 +65,7 @@ author_profile: true
 * THTR 325 Design Workshop: Patterning and Draping
 * THTR 350C Independent Research/Creative Work: Elizabethan Costume II
 
+
 ---
 
 ## Graduate

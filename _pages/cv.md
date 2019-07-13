@@ -86,6 +86,7 @@ Awards
 * [E. Inman Fox Prize](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2016
 * [Paul’s Prize in Computer Science](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College	, 2016
 * [Howard A. Wilson Prize in Literary Criticism](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes) (2nd Place), Knox College, 2016
+  * ["Lawful as Eating" and as Necessary: Art and Magic in _The Winter's Tale_](https://emhastings.github.io/files/HastingsWilsonPrizeSubmission)
 * [ASSET Scholar](https://www.knox.edu/academics/research-and-creative-work/student-research-grants/asset-program), Knox College, 2015-2016
 * [Thalia Manganari Papavas '50 Research Award](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2015
 * [Lawrence Prize in Elementary Latin](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2015
