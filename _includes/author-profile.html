@@ -85,9 +85,6 @@
       {% if author.steam %}
         <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fab fa-fw fa-steam-square" aria-hidden="true"></i> Steam</a></li>
       {% endif %}
-      {% if author.youtube %}
-        <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
-      {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
       {% endif %}
@@ -124,11 +121,14 @@
 	  {% if author.ravelry %}
         <li><a href="{{ author.ravelry }}"><i class="fab fa-ravelry"></i></i> Ravelry</a></li>
       {% endif %}
+	  {% if author.kofi %}
+        <li><a href="{{ author.kofi }}"><i class="fas fa-coffee"></i></i></i> Ko-fi</a></li>
+      {% endif %}
 	  {% if author.blogger %}
         <li><a href="{{ author.blogger }}"><i class="fab fa-blogger"></i></i> Blogger</a></li>
       {% endif %}
-	  {% if author.kofi %}
-        <li><a href="{{ author.kofi }}"><i class="fas fa-mug"></i></i> Ko-fi</a></li>
+	  {% if author.youtube %}
+        <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
