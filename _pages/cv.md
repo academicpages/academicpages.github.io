@@ -93,7 +93,7 @@ Awards
 * [Thalia Manganari Papavas '50 Research Award](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2015
 * [Lawrence Prize in Elementary Latin](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2015
 * Summer Science Seminar Series 2014 Best Student Seminar Award, Knox College Sigma Xi, 2015
-  * [Adventures in Parallel Programming](https://emhastings.github.io/files/parallel-ssss.zip)
+  * [Adventures in Parallel Programming](https://emhastings.github.io/talks/2014-08-18-parallel-ssss)
 * Ron Asplund Memorial Research Award, Knox College, 2014
 * [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424), Knox College, 2012-2016
 
@@ -102,13 +102,14 @@ Skills
 * Technical/Academic
   * Microsoft Office, Google App Suite, Windows, Github
   * Programming languages (high proficiency): Java 
-  * Programming languages (some experience): Python, C, SQL, HTML/CSS, Javascript/JQuery, PHP
+  * Programming languages (some experience): Python, C, SQL, HTML/CSS, Javascript/JQuery, PHP, Android development
   * Knowledge of research methodologies
   * Knowledge of statistical analysis techniques, R
 * Creative
   * Sewing, knitting, crochet, embroidery
   * Costume design
   * Patterning and draping
+  * Some experience with digital art software (Krita, Paint.NET, Adobe Photoshop)
 * General
   * Writing and presenting reports
   * English (native language)
