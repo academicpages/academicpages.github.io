@@ -8,7 +8,7 @@ date: 2016-05-25
 location: "Galesburg, IL"
 excerpt: "Presentation of independent study research.  
 
-![Margo introduces Emily's work at the beginning of the presentation.](https://emhastings.github.io/images/final-gown.jpg "Final costume presentation")  
+![Margo introduces Emily's work at the beginning of the presentation.](https://emhastings.github.io/images/final-gown.jpg)  
 
 For more information, see [Facebook photo album](https://www.facebook.com/media/set/?set=a.1026541277438073.1073741828.100002466328041&type=1&l=8758bc5f76).  
 "
@@ -21,6 +21,6 @@ Galesburg, IL
 
 Presentation of independent study research.  
 
-![Margo introduces Emily&apos;s work at the beginning of the presentation.](https://emhastings.github.io/images/final-gown.jpg &quot;Final costume presentation&quot;)  
+![Margo introduces Emily&apos;s work at the beginning of the presentation.](https://emhastings.github.io/images/final-gown.jpg)  
 
 For more information, see [Facebook photo album](https://www.facebook.com/media/set/?set=a.1026541277438073.1073741828.100002466328041&amp;type=1&amp;l=8758bc5f76).
