@@ -40,14 +40,14 @@ Emily Hastings:
   
 Creative:
   name             : "Emily M. Hastings"
-  avatar           : "Icon.jpg"
+  avatar           : "portrait.jpg"
   bio              : "Grad student. Fantasy nerd. Avid crafter."
   location         : "Urbana, Illinois"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "emily.realmsoflegend@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -63,7 +63,7 @@ Creative:
   lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        : 
+  pinterest        : "https://www.pinterest.com/RealmsOfLegend/"
   soundcloud       :
   stackoverflow    : 
   steam            :
