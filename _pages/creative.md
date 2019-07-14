@@ -5,7 +5,7 @@ permalink: /creative/
 author: Creative
 author_profile: true
 header:
-  overlay_image: /images/banner.png
+  overlay_image:  https://emhastings.github.io/images/banner.png
     actions:
     - label: "<i class="fas fa-coffee"></i> Support me on Ko-fi"
       url: "https://ko-fi.com/realmsoflegend"
