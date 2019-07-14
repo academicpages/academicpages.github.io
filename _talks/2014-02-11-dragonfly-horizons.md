@@ -8,6 +8,7 @@ date: 2014-02-11
 location: "Galesburg, IL"
 excerpt: "See [article on Knox website](https://www.knox.edu/news/students-research-creative-works-in-the-spotlight) for more information.  
 [Download](https://emhastings.github.io/files/dragonfly-horizons.pdf)"
+tags: [dragonfly]
 ---
 
 Poster  
@@ -16,4 +17,4 @@ Galesburg, IL
 
 See [article on Knox website](https://www.knox.edu/news/students-research-creative-works-in-the-spotlight) for more information.
 
-[Download here](https://emhastings.github.io/files/dragonfly-horizons.pdf)
+[Download poster here](https://emhastings.github.io/files/dragonfly-horizons.pdf)

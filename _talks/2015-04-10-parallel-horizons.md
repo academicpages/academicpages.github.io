@@ -8,6 +8,7 @@ date: 2015-04-10
 location: "Galesburg, IL"
 excerpt: "See [article on Knox website](https://www.knox.edu/news/horizons-event-spotlights-student-research) for more information.  
 [Download](https://emhastings.github.io/files/parallel-horizons.zip)"
+tags: [parallel]
 ---
 
 Pecha Kucha  
@@ -16,4 +17,4 @@ Galesburg, IL
 
 See [article on Knox website](https://www.knox.edu/news/horizons-event-spotlights-student-research) for more information.
 
-[Download here](https://emhastings.github.io/files/parallel-horizons.zip)
+[Download slides here](https://emhastings.github.io/files/parallel-horizons.zip)

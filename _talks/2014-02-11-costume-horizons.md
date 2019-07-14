@@ -17,4 +17,4 @@ Galesburg, IL
 
 For more information, see [Facebook photo album](https://www.facebook.com/media/set/?set=a.432146646877542.1073741825.100002466328041&amp;type=1&amp;l=1c4cc4c189).
 
-[Download here](https://emhastings.github.io/files/costume-horizons.pdf)
+[Download poster here](https://emhastings.github.io/files/costume-horizons.pdf)

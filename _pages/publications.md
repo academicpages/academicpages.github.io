@@ -9,6 +9,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 {% include base_path %}
 
+## Conferences and Journals
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+    {% unless post.tags contains 'other' %}
+      {% include archive-single.html %}
+	{% endunless %}
+{% endfor %}
+
+## Other Publications
+{% for post in site.publications reversed %}
+    {% if post.tags contains 'other' %}
+      {% include archive-single.html %}
+	{% endif %}
 {% endfor %}

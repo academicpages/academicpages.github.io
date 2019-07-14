@@ -8,6 +8,7 @@ date: 2016-04-08
 location: "Galesburg, IL"
 excerpt: "See [article on Knox website](https://www.knox.edu/news/horizons-event-showcases-student-research-and-creative-projects) for more information.  Also check out the [Knoxcraft website](https://knoxcraft.github.io/#).  
 [Download](https://emhastings.github.io/files/knoxcraft-horizons.pdf)"
+tags: [knoxcraft]
 ---
 
 Poster  
@@ -16,4 +17,4 @@ Galesburg, IL
 
 See [article on Knox website](https://www.knox.edu/news/horizons-event-showcases-student-research-and-creative-projects) for more information.  Also check out the [Knoxcraft website](https://knoxcraft.github.io/#).
 
-[Download here](https://emhastings.github.io/files/knoxcraft-horizons.pdf)
+[Download poster here](https://emhastings.github.io/files/knoxcraft-horizons.pdf)

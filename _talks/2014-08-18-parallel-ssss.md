@@ -8,6 +8,7 @@ date: 2014-08-18
 location: "Galesburg, IL"
 excerpt: "Winner of the Best Student Seminar Award for 2014.  
 [Download](https://emhastings.github.io/files/parallel-ssss.zip)"
+tags: [parallel]
 ---
 
 Talk  
@@ -16,4 +17,4 @@ Galesburg, IL
 
 Winner of the Best Student Seminar Award for 2014.
 
-[Download here](https://emhastings.github.io/files/parallel-ssss.zip)
+[Download slides here](https://emhastings.github.io/files/parallel-ssss.zip)
