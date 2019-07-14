@@ -40,7 +40,7 @@ Emily Hastings:
   
 Creative:
   name             : "Emily M. Hastings"
-  avatar           : "portrait.jpg"
+  avatar           : "portrait-adjusted.jpg"
   bio              : "Grad student. Fantasy nerd. Avid crafter."
   location         : "Urbana, Illinois"
   employer         :
@@ -63,7 +63,7 @@ Creative:
   lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        : "https://www.pinterest.com/RealmsOfLegend/"
+  pinterest        : "RealmsOfLegend"
   soundcloud       :
   stackoverflow    : 
   steam            :
