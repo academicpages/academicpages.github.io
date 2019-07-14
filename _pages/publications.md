@@ -11,7 +11,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences and Journals
 {% for post in site.publications reversed %}
-
+    {% unless post.tags contains 'other' %}
+      {% include archive-single.html %}
+	{% endunless %}
 {% endfor %}
 
 ## Other Publications
