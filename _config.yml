@@ -116,10 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links: 
-    - label: Hackerrank
-      icon: "fab fa-hackerrank"
-      url: "https://www.hackerrank.com/ehstngs2"
+  hackerrank       : "https://www.hackerrank.com/ehstngs2"
 
 # Reading Files
 include:
