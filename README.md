@@ -5,13 +5,8 @@ Still under construction.
 TODO:
 * Research tab
   * Add links to gown pages once made
-* Publications
-  * Add pubs on Scholar from class?
 * Talks
-  * Add first costume talk, change picture link in Horizons
-  * Edit download wording-- change code in generator to do it by type
-    * Also add tags
-  * Add photos
+  * Add links to gown pages
 * Creative
   * Summary
   * Change sidebar menu to have creative links-- ravelry, etsy, youtube, ko-fi, old blog. business email
@@ -22,7 +17,6 @@ TODO:
 * Update footer links-- Google Scholar, others?
 * Hackerrank
 * SEO optimizing-- descriptions/excerpts?
-* Edit notebooks to include saving instructions, remove extra stuff
 * Remove unecessary files in all folders
 * Update LinkedIn, Handshake, ACM Career Center
 * Add link on FB, Pinterest, Ravelry, Etsy, Twitter?
