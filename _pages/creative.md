@@ -5,29 +5,31 @@ permalink: /creative/
 author: Creative
 author_profile: true
 header:
-  overlay_color: "#5e616c"
   overlay_image: /images/banner.png
+    actions:
+    - label: <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#46b798', 'C0C1P0Z6');kofiwidget2.draw();</script> 
+      url: "https://ko-fi.com/realmsoflegend"
 excerpt: >
   Check out my creative work here.<br />
 feature_row:
-  - image_path: /images/Icon.jpg
+  - image_path: https://emhastings.github.io/images/Icon.jpg
     alt: "costume"
     title: "Costuming"
     excerpt: "Costume pieces I have designed and/or built."
     url: "/costuming"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/Icon.jpg
+  - image_path: https://emhastings.github.io/images/Icon.jpg
     alt: "yarn"
     title: "Knitting and Crochet"
     excerpt: "My yarn designs."
     url: "/yarn"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/Icon.jpg
+  - image_path: https://emhastings.github.io/images/Icon.jpg
     alt: "other"
     title: "Other projects."
-    excerpt: "Other creative work including sewing projects and art."
+    excerpt: "Other creative work including, sewing projects and art"
     url: "/other"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
