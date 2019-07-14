@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_image: /images/banner.png
     actions:
-    - label: <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#46b798', 'C0C1P0Z6');kofiwidget2.draw();</script> 
+    - label: "<i class="fas fa-coffee"></i> Support me on Ko-fi"
       url: "https://ko-fi.com/realmsoflegend"
 excerpt: >
   Check out my creative work here.<br />
@@ -36,3 +36,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C1P0Z6)
