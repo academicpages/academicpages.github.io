@@ -84,7 +84,7 @@ author:
   name             : "Emily M. Hastings"
   avatar           : "profile_square.jpg"
   bio              : "4th year Ph.D. student in Computer Science at UIUC."
-  location         : "Illinois"
+  location         : "Urbana, Illinois"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9nZlUHkAAAAJ&hl=en"
@@ -116,7 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  links: 
+    - label: Hackerrank
+      icon: "fab fa-hackerrank"
+      url: "https://www.hackerrank.com/ehstngs2"
 
 # Reading Files
 include:
