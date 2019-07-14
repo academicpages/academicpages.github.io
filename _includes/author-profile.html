@@ -118,6 +118,18 @@
 	  {% if author.hackerrank %}
         <li><a href="{{ author.hackerrank }}"><i class="fab fa-hackerrank"></i> HackerRank</a></li>
       {% endif %}
+	  {% if author.etsy %}
+        <li><a href="{{ author.etsy }}"><i class="fab fa-etsy"></i> Etsy</a></li>
+      {% endif %}
+	  {% if author.ravelry %}
+        <li><a href="{{ author.ravelry }}"><i class="fab fa-ravelry"></i></i> Ravelry</a></li>
+      {% endif %}
+	  {% if author.blogger %}
+        <li><a href="{{ author.blogger }}"><i class="fab fa-blogger"></i></i> Blogger</a></li>
+      {% endif %}
+	  {% if author.kofi %}
+        <li><a href="{{ author.kofi }}"><i class="fas fa-mug"></i></i> Ko-fi</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
