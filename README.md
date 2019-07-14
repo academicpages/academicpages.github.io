@@ -9,7 +9,6 @@ TODO:
   * Add links to gown pages
 * Creative
   * Summary
-  * Maybe look at portfolio layouts?
 * Blog
   * Remove default posts
   * Add post about website
