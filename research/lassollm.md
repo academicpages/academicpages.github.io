@@ -8,7 +8,7 @@ citation: '<b>Mauricio Bucca</b>, Daniela Urbina. &quot;Lasso regularization for
 ---
 [[Paper]](https://doi.org/10.1177/0049124119826154) [[Vignette]](https://mebucca.github.io/files/notebooks/Lasso_llm.nb.html)
 
-2019 Clifford Clogg Best Paper award from the ASA's section on Methodology
+<i>2019 Clifford Clogg Best Paper award from the ASA's section on Methodology<i>
 
 ## Abstract
 
