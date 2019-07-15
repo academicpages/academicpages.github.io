@@ -12,7 +12,8 @@ Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>,  For
 
 <b>[Lasso regularization for selection of log-linear models: an application to educational assortative mating](http://mebucca.github.io/research/lassollm)</b><br>
 <b>Mauricio Bucca</b>, Daniela Urbina. <i>Sociological Methods and Research</i>, Forthcoming.
-
+	2019 Clifford Clogg Best Paper award from the ASA's section on Methodology
+	
 <b>[Long Work Hours, Part-time Work, and trends in the Gender Gap in Pay, the Motherhood Wage Penalty, and the Fatherhood Wage Premium](http://mebucca.github.io/research/longhours)</b><br>
 Youngjoo Cha, Kim, Weeden <b>Mauricio Bucca</b>. <i>RSF: The Russell Sage Foundation Journal of the Social Sciences</i>. Media Coverage: [[New York Times]](https://mebucca.github.io/files/papers/longhours_nyt.pdf)
 
