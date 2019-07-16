@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical and Electronic Engineering, Kwangwoon University, 2014
-* M.S. in HumanICT converence, Sungkyunkwan University, 2016
-* Ph.D in Electrical and Electronic Engineering, Sungkyunkwan University, 2019.08 (expected)
+* M.S. in HumanICT convergence, Sungkyunkwan University, 2016
+* Ph.D. in Electrical and Electronic Engineering, Sungkyunkwan University, 2019.08 (expected)
 
 Work experience
 ======
