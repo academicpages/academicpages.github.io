@@ -85,8 +85,8 @@ author:
   bio              : "A computer system enthusiast!"
   location         : "Hyderabad"
   employer         :
-  pubmed           : "" #URL
-  googlescholar    : "" #URL
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
