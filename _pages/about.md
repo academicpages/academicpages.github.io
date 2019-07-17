@@ -12,9 +12,9 @@ Hi! Thanks for visiting! My name is D K Bhargav Achary!
 
 After being habituated to ask WHY and HOW 'n' number of times from my early education in Odisha, I have always fascinated for research!
 
-And, for finding answers to some of my WHYs on my own, I have joined IIT Hyderabad by being a Ph.D. student.
+And, for finding answers to some of my WHYs on my own, I have joined IIT Hyderabad as a Ph.D. student.
 
-I am in the 2nd year of my Ph.D. in the Computer Science and Engineering department of IITH, researching in the area of micro-architectural hardware security in the context of DNNs. I am a member of <a href="https://sites.google.com/view/comparch-machinelearning-lab/" target="_blank">CANDLE Lab</a> and <a href="https://www.cse.iitk.ac.in/users/biswap/CARS.html" target="_blank">CARS Lab</a>. I am working under the supervision of <a href="https://www.iith.ac.in/~sparsh/" target="_blank">Dr. Sparsh Mittal</a> @ IITH and <a href="https://www.cse.iitk.ac.in/users/biswap/" target="_blank">Biswa</a> @ IITK.
+I am in the 2nd year of my Ph.D. in the Computer Science and Engineering department of IITH, researching in the area of micro-architectural hardware security in the context of DNNs. I am a member of <a href="https://sites.google.com/view/comparch-machinelearning-lab/" target="_blank">CANDLE Lab</a> and <a href="https://www.cse.iitk.ac.in/users/biswap/CARS.html" target="_blank">CARS Lab</a>. I am working under the supervision of <a href="https://www.iith.ac.in/~sparsh/" target="_blank">Dr. Sparsh Mittal @ IITH</a> and <a href="https://www.cse.iitk.ac.in/users/biswap/" target="_blank">Biswa @ IITK</a>.
 
 Prior to joining IIT Hyderabad, I have worked as a Senior Technical Assistant in Advanced Numerical Research and Analysis Group, DRDO and as a Systems Engineer in Infosys Limited.
 
