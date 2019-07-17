@@ -12,8 +12,8 @@ main:
   - title: "Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Profile"
+    url: /profile/
 
   - title: "Personal Blog"
     url: http://bhargavachary.in    
