@@ -9,9 +9,12 @@ main:
   - title: "About Me"
     url: /about/    
           
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Personal Blog"
+    url: http://bhargavachary.in    
     
