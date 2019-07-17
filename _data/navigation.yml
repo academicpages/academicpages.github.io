@@ -10,8 +10,8 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
 
-  - title: "Code"
-    url: /code/    
+  #- title: "Code"
+  #  url: /code/    
 
   - title: "CV"
     url: /cv/
