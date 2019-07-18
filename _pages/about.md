@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me!"
-excerpt: "About Me"
+title: "Welcome!"
+excerpt: "Welcome to BhargavArch.github.io, as  the name suggests this website is all about the Computer Architect and Scientist within me!"
 author_profile: true
 redirect_from: 
   - /about/
