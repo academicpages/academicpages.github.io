@@ -18,6 +18,19 @@ Also, I was sad to not have enough time to do all the cool things I wanted to on
 
 - Just all of it again but slower
 
+## New Mexico
+
+### Pro-tips
+
+- El Malpais was really fun. The rim trail was beautiful (but bring a friend bc it gets boring).
+- Joe Skeen campground was probably the best free BLM camp I stayed at.
+
+### Bucket list
+
+- Come back with caving gear and visit the lava tubes.
+- Also do the long 7-hour hike through the middle of the badlands.
+- Visit El Morro, but make sure to get to the campsite early because it fills up really fast.
+
 ## Grand Canyon
 
 ### Pro-tips
