@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Thanks for visiting! My name is D K Bhargav Achary!
+Hi! My name is D K Bhargav Achary, most people simply call me "Bhargav"!
 
 After being habituated to ask WHY and HOW 'n' number of times from my early education in Odisha, I have always fascinated for research!
 
@@ -21,3 +21,5 @@ Prior to joining IIT Hyderabad, I have worked as a Senior Technical Assistant in
 I have earned a B.Tech in Electronics and Communication Engineering, and Diploma in Computer Science and Engineering, and my interests in consumer electronics and computing devices keeps me hooked up in exploring new technologies and science. So here in this page you would get to explore not just about my research, but also random tech and science stuff as and when I blog.
 
 Stay Tuned! The website is about to get updated with more content, very soon.
+
+Thanks for visiting!
