@@ -1,5 +1,5 @@
 ---
-title: "It's not really about how the game is played; it's about whether you win or lose"
+title: "It’s not just how the game is played, it’s whether you win or lose"
 collection: research
 permalink: /research/beliefs_experiment
 citation: 'Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>.'
@@ -9,7 +9,8 @@ citation: 'Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advance
 [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCOZ6N)
 
 Media Coverage: [[New York]](https://mebucca.github.io/files/papers/beliefs_experiment_nyt.pdf) [[Washington Post]](https://mebucca.github.io/files/papers/beliefs_experiment_wp.pdf)
-[[New Scientists]](https://www.newscientist.com/article/2210263-lifes-winners-think-success-was-earned-even-if-it-was-down-to-luck/) [[Science Daily]](https://www.sciencedaily.com/releases/2019/07/190717230341.htm) [[Cornell Chronicle]](http://news.cornell.edu/stories/2019/07/rigged-card-game-sheds-light-perceptions-inequality)  
+[[New Scientists]](https://mebucca.github.io/files/papers/beliefs_experiment_ns.pdf) [[Science Daily]](https://mebucca.github.io/files/papers/beliefs_experiment_sd.pdf) [[Cornell Chronicle]](https://mebucca.github.io/files/papers/beliefs_experiment_cc.pdf)  
+
 
 ## Abstract
 
