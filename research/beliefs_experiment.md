@@ -8,7 +8,8 @@ citation: 'Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advance
 [[Paper]](https://advances.sciencemag.org/content/5/7/eaau1156)
 [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCOZ6N)
 
-Media Coverage: [[New Scientists]](https://www.newscientist.com/article/2210263-lifes-winners-think-success-was-earned-even-if-it-was-down-to-luck/) [[Science Daily]](https://www.sciencedaily.com/releases/2019/07/190717230341.htm) [[Cornell Chronicle]](http://news.cornell.edu/stories/2019/07/rigged-card-game-sheds-light-perceptions-inequality)  
+Media Coverage: [[New York]](https://mebucca.github.io/files/papers/beliefs_experiment_nyt.pdf) [[Washington Post]](https://mebucca.github.io/files/papers/beliefs_experiment_wp.pdf)
+[[New Scientists]](https://www.newscientist.com/article/2210263-lifes-winners-think-success-was-earned-even-if-it-was-down-to-luck/) [[Science Daily]](https://www.sciencedaily.com/releases/2019/07/190717230341.htm) [[Cornell Chronicle]](http://news.cornell.edu/stories/2019/07/rigged-card-game-sheds-light-perceptions-inequality)  
 
 ## Abstract
 
