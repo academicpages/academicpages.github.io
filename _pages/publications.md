@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=nD0LNU4AAAAJ&hl=en).
 
 <b>[It’s not just how the game is played, it’s whether you win or lose](http://mebucca.github.io/research/beliefs_experiment)</b><br>
-Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>. Media Coverage: [[New York]](https://mebucca.github.io/files/papers/beliefs_experiment_nyt.pdf) [[Washington Post]](https://mebucca.github.io/files/papers/beliefs_experiment_wp.pdf)
+Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>. Media Coverage: [[New York Times]](https://mebucca.github.io/files/papers/beliefs_experiment_nyt.pdf) [[Washington Post]](https://mebucca.github.io/files/papers/beliefs_experiment_wp.pdf)
 [[New Scientists]](https://mebucca.github.io/files/papers/beliefs_experiment_ns.pdf) [[Science Daily]](https://mebucca.github.io/files/papers/beliefs_experiment_sd.pdf) [[Cornell Chronicle]](https://mebucca.github.io/files/papers/beliefs_experiment_cc.pdf)  
 
 <b>[Lasso regularization for selection of log-linear models: an application to educational assortative mating](http://mebucca.github.io/research/lassollm)</b><br>
