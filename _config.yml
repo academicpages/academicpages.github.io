@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jinjie Li"
-  avatar           : "profile.png"
+  avatar           : "https://raw.githubusercontent.com/Li-Jinjie/Li-Jinjie.github.io/master/images/mstile-144x144.png"
   bio              : "Bachelor student in Automation. ShenYuan Honors College, Beihang University"
   location         : "Bejing, China"
   employer         :
