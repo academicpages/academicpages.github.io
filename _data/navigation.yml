@@ -9,6 +9,9 @@ main:
   - title: "Maker Projects"
     url: /maker/
     
+  - title: "Gallery"
+    url: /gallery/
+    
   - title: "CV"
     url: /cv/
 
