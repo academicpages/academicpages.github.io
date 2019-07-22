@@ -1,8 +1,8 @@
 ---
 permalink: /gallery/
-title: "About me"
-excerpt: "About me"
-author_profile: true
+title: "Gallery"
+excerpt: "Gallery"
+author_profile: false
 redirect_from: 
   - /gallery/
   - /gallery.html
