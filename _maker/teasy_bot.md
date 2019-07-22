@@ -8,4 +8,4 @@ collection: maker
 
 This is the first maker project. You can find it at my [github](https://github.com/emacholdt/teasy_bot)
 
-[![latest version](https://img.youtube.com/vi/lFy_RQyiyvs/maxresdefault.jpg)](https://youtu.be/lFy_RQyiyvs)
+{% include video id="lFy_RQyiyvs" provider="youtube" %}
