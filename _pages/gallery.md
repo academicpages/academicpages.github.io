@@ -1,7 +1,6 @@
 ---
 permalink: /gallery/
 title: "Gallery"
-excerpt: "Gallery"
 author_profile: false
 redirect_from: 
   - /gallery.html
@@ -34,7 +33,7 @@ aerial_gallery:
 
 
 ## Aerial Photography
-{% include gallery id="aerial_gallery" layout="half" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
+{% include gallery id="aerial_gallery" layout="" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
 
 
 
