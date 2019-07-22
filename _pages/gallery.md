@@ -4,7 +4,6 @@ title: "Gallery"
 excerpt: "Gallery"
 author_profile: false
 redirect_from: 
-  - /gallery/
   - /gallery.html
   - /photos/
   - /photos.html
