@@ -13,10 +13,10 @@ redirect_from:
 aerial_gallery:
   - url: https://flic.kr/p/2gEwwSM
     image_path: https://live.staticflickr.com/65535/48350028137_21f21f5508_b.jpg
-    alt: "Black and grays with a hint of green"
-  - url: https://flic.kr/p/2gEwwSM
-    image_path: https://live.staticflickr.com/65535/48350028137_21f21f5508_b.jpg
-    alt: "Made for open text placement"
+    alt: "Leipzig Erholungspark Lößnig-Dölitz"
+  - url: https://www.flickr.com/gp/167165642@N02/f67aYq
+    image_path: https://live.staticflickr.com/65535/48349847631_1ba47efe06_b.jpg
+    alt: "Seebrücke Heiligendamm"
   - url: https://flic.kr/p/2gEwwSM
     image_path: https://live.staticflickr.com/65535/48350028137_21f21f5508_b.jpg
     alt: "Fog in the trees"  
@@ -28,7 +28,4 @@ aerial_gallery:
 {% include gallery id="aerial_gallery" layout="half" caption="Copyright © Enrico Macholdt. All Rights Reserved" %}
 
 
-## Street Photography
 
-
-## Wedding Photography
