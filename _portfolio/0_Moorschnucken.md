@@ -13,7 +13,7 @@ GameJam version: Available now at itch.io (Android, MacOS, Windows)
 **Join the Beta now on Google Play.** [contact us](mephisto17games@gmail.com)
 
 ## Played on RocketBeansTV
-{% include video id="xqBOOOofg74?t=642" provider="youtube" %}
+{% include video id="xqBOOOofg74?start=642" provider="youtube" %}
 
 
 ## Teaser
