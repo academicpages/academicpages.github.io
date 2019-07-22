@@ -25,7 +25,7 @@ aerial_gallery:
 
 
 ## Aerial Photography
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="aerial_gallery" caption="This is a second gallery example with images hosted externally." %}
 
 
 ## Street Photography
