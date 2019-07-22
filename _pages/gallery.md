@@ -1,6 +1,5 @@
 ---
 permalink: /gallery/
-title: "Gallery"
 author_profile: false
 redirect_from: 
   - /gallery.html
