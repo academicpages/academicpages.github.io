@@ -253,6 +253,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _maker
+  - scope:
+      path: ""
+      type: photos
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comment: false
+
 
 # Sass/SCSS
 sass:
