@@ -34,7 +34,7 @@ aerial_gallery:
 
 
 ## Aerial Photography
-{% include gallery id="aerial_gallery" class="full" layout="half" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
+{% include gallery id="aerial_gallery" class="full" layout="" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
 
 
 
