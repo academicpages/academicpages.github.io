@@ -38,7 +38,6 @@ aerial_gallery:
     image_path: images/gallery/boardwal_heiligendamm_k.jpg
     alt: "boardwalk Heiligendamm, Germany"
     title: "Boardwalk Heiligendamm, Germany"
-
 ---
 
 
