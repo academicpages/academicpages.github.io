@@ -1,6 +1,8 @@
 ---
 layout: archive
+
 title: "CV&Contact"
+
 permalink: /cv/
 author_profile: true
 redirect_from:
