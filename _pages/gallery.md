@@ -18,6 +18,10 @@ aerial_gallery:
     image_path: /images/gallery/schloss_puechau_c.jpg
     alt: "Castle 'Schloss Püchau', Germany"
     title: "Castle 'Schloss Püchau', Germany"
+  - url: images/gallery/field_hainer_lake_c.jpg
+    image_path: images/gallery/field_hainer_lake_k.jpg
+    alt: "Field near Hainer Lake, Germany"
+    title: "Field near Hainer Lake, Germany"
   - url: /images/gallery/gut_kahnsdorf_k.jpg
     image_path: /images/gallery/gut_kahnsdorf_k.jpg
     alt: "Gut Kahnsdorf in Neukieritzsch, Germany"
