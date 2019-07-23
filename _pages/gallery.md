@@ -24,19 +24,19 @@ aerial_gallery:
     title: "Gut Kahnsdorf in Neukieritzsch, Germany"
   - url: /images/gallery/seedruecke_heiligendamm_k.jpg
     image_path: /images/gallery/seedruecke_heiligendamm_c.jpg
-    alt: ""Seebrücke Heiligendamm",Germany"
+    alt: "Seebrücke Heiligendamm,Germany"
     title: "Seebrücke Heiligendamm, Germany"
   - url: /images/gallery/seedruecke_heiligendamm-02_k.jpg
     image_path: /images/gallery/seedruecke_heiligendamm-02_c.jpg
-    alt: ""Seebrücke Heiligendamm",Germany"
+    alt: "Seebrücke Heiligendamm,Germany"
     title: "Seebrücke Heiligendamm, Germany"
   - url: /images/gallery/seedruecke_heiligendamm-03_k.jpg
     image_path: /images/gallery/seedruecke_heiligendamm-03_c.jpg
-    alt: ""Seebrücke Heiligendamm",Germany"
+    alt: "Seebrücke Heiligendamm,Germany"
     title: "Seebrücke Heiligendamm, Germany"
   - url: images/gallery/boardwal_heiligendamm_c.jpg
     image_path: images/gallery/boardwal_heiligendamm_k.jpg
-    alt: "boardwalk Heiligendamm, Germany"
+    alt: "Boardwalk Heiligendamm, Germany"
     title: "Boardwalk Heiligendamm, Germany"
 ---
 
