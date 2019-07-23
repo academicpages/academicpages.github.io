@@ -28,12 +28,31 @@ aerial_gallery:
   - url: https://flic.kr/p/2gEBisp
     image_path: https://live.staticflickr.com/65535/48350958551_9e0830900b_b.jpg
     alt: "Schloss Püchau - castle"
-  
+gallery:
+  - url: /images/gallery/48349895271_bc62208b41_h.jpg
+    image_path: /images/gallery/48349895271_bc62208b41_c.jpg
+    alt: "boardwalk Heiligendamm, Germany"
+    title: "Boardwalk Heiligendamm, Germany"
+  - url: /images/gallery/48349895271_bc62208b41_h.jpg
+    image_path: /images/gallery/48349895271_bc62208b41_c.jpg
+    alt: "boardwalk Heiligendamm, Germany"
+    title: "Boardwalk Heiligendamm, Germany"
+  - url: /images/gallery/48349895271_bc62208b41_h.jpg
+    image_path: /images/gallery/48349895271_bc62208b41_c.jpg
+    alt: "boardwalk Heiligendamm, Germany"
+    title: "Boardwalk Heiligendamm, Germany"
+  - url: /images/gallery/48349895271_bc62208b41_h.jpg
+    image_path: /images/gallery/48349895271_bc62208b41_c.jpg
+    alt: "boardwalk Heiligendamm, Germany"
+    title: "Boardwalk Heiligendamm, Germany"
 ---
 
 
 ## Aerial Photography
 {% include gallery id="aerial_gallery" layout="" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
+
+## Aerial Photography
+{% include gallery id="gallery" layout="half" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
 
 
 
