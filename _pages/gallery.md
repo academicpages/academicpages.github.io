@@ -18,8 +18,8 @@ aerial_gallery:
     image_path: /images/gallery/schloss_puechau_c.jpg
     alt: "Castle 'Schloss Püchau', Germany"
     title: "Castle 'Schloss Püchau', Germany"
-  - url: images/gallery/field_hainer_lake_c.jpg
-    image_path: images/gallery/field_hainer_lake_k.jpg
+  - url: images/gallery/field_hainer_lake_k.jpg
+    image_path: images/gallery/field_hainer_lake_c.jpg
     alt: "Field near Hainer Lake, Germany"
     title: "Field near Hainer Lake, Germany"
   - url: /images/gallery/gut_kahnsdorf_k.jpg
@@ -30,8 +30,8 @@ aerial_gallery:
     image_path: /images/gallery/seedruecke_heiligendamm_c.jpg
     alt: "Seebrücke Heiligendamm,Germany"
     title: "Seebrücke Heiligendamm, Germany"
-  - url: images/gallery/boardwal_heiligendamm_c.jpg
-    image_path: images/gallery/boardwal_heiligendamm_k.jpg
+  - url: images/gallery/boardwal_heiligendamm_k.jpg
+    image_path: images/gallery/boardwal_heiligendamm_c.jpg
     alt: "Boardwalk Heiligendamm, Germany"
     title: "Boardwalk Heiligendamm, Germany"  
   - url: /images/gallery/seedruecke_heiligendamm-02_k.jpg
