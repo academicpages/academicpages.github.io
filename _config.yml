@@ -10,12 +10,12 @@ locale                   : "en-US"
 title                    : "Jinjie Li"
 title_separator          : "-"
 name                     : &name "Jinjie Li"
-description              : &description "personal description"
+description              : &description "Undergraduate student at Beihang University"
 url                      : https://Li-Jinjie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Li-Jinjie/Li-Jinjie.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   :  # 悬挂式广告？搞不清干嘛的 filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default) 加了会有个路径栏，丑
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jinjie Li"
-  avatar           : "https://raw.githubusercontent.com/Li-Jinjie/Li-Jinjie.github.io/master/images/Lijinjie.png"
-  bio              : "Bachelor student in Automation. ShenYuan Honors College, Beihang University"
-  location         : "Bejing, China"
+  avatar           : "Lijinjie.png"
+  bio              : "Undergraduate student in Control Science and Engineering. Shenyuan Honors College, Beihang University"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "www.lijinjie362@gmail.com"
+  email            : "lijinjie362@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  weixin           : lijinjie1997
 
 
 # Reading Files
