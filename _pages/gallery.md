@@ -16,8 +16,8 @@ aerial_gallery:
     title: "Recreation Park Lößnig-Dölitz, Germany"
   - url: /images/gallery/schloss_puechau_k.jpg
     image_path: /images/gallery/schloss_puechau_c.jpg
-    alt: "Castle 'Schloss Püchau', Germany"
-    title: "Castle 'Schloss Püchau', Germany"
+    alt: "Castle \"Schloss Püchau\", Germany"
+    title: "Castle \"Schloss Püchau\", Germany"
   - url: /images/gallery/gut_kahnsdorf_k.jpg
     image_path: /images/gallery/gut_kahnsdorf_k.jpg
     alt: "Gut Kahnsdorf in Neukieritzsch, Germany"
