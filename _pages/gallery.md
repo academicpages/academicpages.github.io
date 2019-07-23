@@ -10,49 +10,41 @@ redirect_from:
   - /photo.html
 
 aerial_gallery:
-  - url: https://flic.kr/p/2gEwwSM
-    image_path: https://live.staticflickr.com/65535/48350028137_21f21f5508_b.jpg
-    alt: "Leipzig Erholungspark Lößnig-Dölitz"
-  - url: https://www.flickr.com/gp/167165642@N02/f67aYq
-    image_path: https://live.staticflickr.com/65535/48349847631_1ba47efe06_b.jpg
-    alt: "Seebrücke Heiligendamm"
-  - url: https://www.flickr.com/gp/167165642@N02/7644F3
-    image_path: https://live.staticflickr.com/65535/48349980477_9aeb80983e_b.jpg
-    alt: "Fog in the trees"  
-  - url: https://flic.kr/p/2gEA85U
-    image_path: https://live.staticflickr.com/65535/48350728552_2ef1c58f16_b.jpg
-    alt: "Gut Kahnsdorf"
-  - url: https://flic.kr/p/2gEwirU
-    image_path: https://live.staticflickr.com/65535/48349982962_657816c144_b.jpg
-    alt: "Seebrücke Heiligendamm"
-  - url: https://flic.kr/p/2gEBisp
-    image_path: https://live.staticflickr.com/65535/48350958551_9e0830900b_b.jpg
-    alt: "Schloss Püchau - castle"
-gallery:
-  - url: /images/gallery/48349895271_bc62208b41_h.jpg
-    image_path: /images/gallery/48349895271_bc62208b41_c.jpg
+  - url: images/gallery/EP_Loessnig_k.jpg
+    image_path: images/gallery/EP_Loessnig_c.jpg
+    alt: "Recreation Park Lößnig-Dölitz, Germany"
+    title: "Recreation Park Lößnig-Dölitz, Germany"
+  - url: /images/gallery/schloss_puechau_k.jpg
+    image_path: /images/gallery/schloss_puechau_c.jpg
+    alt: "Castle 'Schloss Püchau', Germany"
+    title: "Castle 'Schloss Püchau', Germany"
+  - url: /images/gallery/gut_kahnsdorf_k.jpg
+    image_path: /images/gallery/gut_kahnsdorf_k.jpg
+    alt: "Gut Kahnsdorf in Neukieritzsch, Germany"
+    title: "Gut Kahnsdorf in Neukieritzsch, Germany"
+  - url: /images/gallery/seedruecke_heiligendamm_k.jpg
+    image_path: /images/gallery/seedruecke_heiligendamm_c.jpg
+    alt: ""Seebrücke Heiligendamm",Germany"
+    title: "Seebrücke Heiligendamm, Germany"
+  - url: /images/gallery/seedruecke_heiligendamm-02_k.jpg
+    image_path: /images/gallery/seedruecke_heiligendamm-02_c.jpg
+    alt: ""Seebrücke Heiligendamm",Germany"
+    title: "Seebrücke Heiligendamm, Germany"
+  - url: /images/gallery/seedruecke_heiligendamm-03_k.jpg
+    image_path: /images/gallery/seedruecke_heiligendamm-03_c.jpg
+    alt: ""Seebrücke Heiligendamm",Germany"
+    title: "Seebrücke Heiligendamm, Germany"
+  - url: images/gallery/boardwal_heiligendamm_c.jpg
+    image_path: images/gallery/boardwal_heiligendamm_k.jpg
     alt: "boardwalk Heiligendamm, Germany"
     title: "Boardwalk Heiligendamm, Germany"
-  - url: /images/gallery/48349895271_bc62208b41_h.jpg
-    image_path: /images/gallery/48349895271_bc62208b41_c.jpg
-    alt: "boardwalk Heiligendamm, Germany"
-    title: "Boardwalk Heiligendamm, Germany"
-  - url: /images/gallery/48349895271_bc62208b41_h.jpg
-    image_path: /images/gallery/48349895271_bc62208b41_c.jpg
-    alt: "boardwalk Heiligendamm, Germany"
-    title: "Boardwalk Heiligendamm, Germany"
-  - url: /images/gallery/48349895271_bc62208b41_h.jpg
-    image_path: /images/gallery/48349895271_bc62208b41_c.jpg
-    alt: "boardwalk Heiligendamm, Germany"
-    title: "Boardwalk Heiligendamm, Germany"
+
 ---
 
 
 ## Aerial Photography
-{% include gallery id="aerial_gallery" layout="" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
+{% include gallery id="aerial_gallery" layout="third" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
 
-## Aerial Photography
-{% include gallery id="gallery" layout="half" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
 
 
 
