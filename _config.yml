@@ -86,14 +86,14 @@ author:
   location         : "Leipzig"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=kHuMAawAAAAJ&hl=en"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=enrico+macholdt"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Enrico_Macholdt"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/167165642@N02/"
   facebook         :
   foursquare       :
   github           : "emacholdt"
