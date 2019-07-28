@@ -14,10 +14,13 @@ In my free time I like to play soccer.
 I am a huge Game of Thrones fan as well. One of my life goals is to visit all the major Game of Thrones filming sites. 
 
 
-Here is a picture of me visiting the 'arrowhead mountain' from beyond the Wall in Iceland and the children of the forest in front of it. 
 
-![Arrowhead Mountain](../images/IMG_0436.jpg)
-![Children of Forest](../images/Kirkjufellsfoss.png)
+<figure class="half">
+    <a href="../images/IMG_0436.jpg"><img src="../images/IMG_0436.jpg"></a>
+    <a href="../images/Kirkjufellsfoss.png"><img src="../images/Kirkjufellsfoss.png"></a>
+    <figcaption>Here is a picture of me visiting the 'arrowhead mountain' from beyond the Wall in Iceland and the children of the forest in front of it. </figcaption>
+</figure>
+
 
 Here is a picture of me at the Wilding Camp. It was filmed on a glacier!
 ![Wilding Camp](../images/IMG_1332.jpg)
