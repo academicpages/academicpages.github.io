@@ -43,5 +43,38 @@ I am a huge Game of Thrones fan as well. One of my life goals is to visit all th
 </figure>
 
 
+<figure class="half">
+    <a href="../images/IMG_4056.jpeg"><img src="../images/IMG_4056.jpeg"></a>
+    <a href="../images/IMG_5007.png"><img src="../images/IMG_5007.png"></a>
+    <figcaption>Old Town where Sam and Gilly go so that Sam can become a Maester</figcaption>
+</figure>
+
+
+<figure class="half">
+    <a href="../images/IMG_4070.jpeg"><img src="../images/IMG_4070.jpeg"></a>
+    <a href="../images/IMG_5010.png"><img src="../images/IMG_5010.png"></a>
+    <figcaption>The location for the play in Braavos where Arya is hired to assassinate Lady Crane.</figcaption>
+</figure>
+
+
+
+<figure class="half">
+    <a href="../images/IMG_4106.jpeg"><img src="../images/IMG_4106.jpeg"></a>
+    <a href="../images/IMG_5011.png"><img src="../images/IMG_5011.png"></a>
+    <figcaption>The Sept of Baelor</figcaption>
+</figure>
+
+
+<figure class="half">
+    <a href="../images/IMG_4139.jpeg"><img src="../images/IMG_4139.jpeg"></a>
+    <a href="../images/IMG_5013.png"><img src="../images/IMG_5013.png"></a>
+    <figcaption>Streets of Braavos where Arya begs after becoming blind.</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="../images/IMG_4168.jpeg"><img src="../images/IMG_4168.jpeg"></a>
+    <a href="../images/IMG_5014.png"><img src="../images/IMG_5014.png"></a>
+    <figcaption>Steps of Braavos where the Waif chases Arya.</figcaption>
+</figure>
 
 
