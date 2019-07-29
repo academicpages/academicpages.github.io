@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Hanqing Zhu(朱汉卿)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,10 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/hanqingzhu_cv.pdf)
 
+<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Microelectronics, Shanghai Jiao Tong University, 2020(expected)
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
