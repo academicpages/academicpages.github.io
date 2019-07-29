@@ -1,3 +1,6 @@
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
 ---
 layout: archive
 title: "Hanqing Zhu(朱汉卿)"
@@ -14,20 +17,20 @@ redirect_from:
 Education
 ======
 * B.S. in Microelectronics, Shanghai Jiao Tong University, 2020(expected)
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Summer Program for Modern SAP Technology, Peter the Great St. Petersburg Polytechnic University, Russia, Aug 2018- Sept 2018
+* Summer Research Program, University of Texas at Austin, USA, 2019 
 
-Work experience
+<Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Guanghui He
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor David. Z. Pan
   
 Skills
 ======
@@ -58,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams>
