@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://zhuhanqing.github.io/files/CV_ZHQ.pdf)
 
-<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://zhuhanqing.github.io/files/CV_ZHQ.pdf" width="650" height="1800" type='application/pdf'> -->
 Education
 ======
 * B.S. in Microelectronics, Shanghai Jiao Tong University, 2020(expected)
@@ -21,12 +21,12 @@ Work experience
 ======
 * Summer 2015: Research Assistant
   * Shanghai Jiao Tong University
-  * Duties included: MIMO Detection Algorithms
+  * Duties included: MIMO Detection Algorithms optimizaion based on
   * Supervisor: Professor Guanghui He
 
-* Fall 2015: Research Assistant
+* Summer 2019: Research Assistant
   * UT-Austin
-  * Duties included: Merging pull requests
+  * Duties included: A new heurostic paradigm for graph partition problem
   * Supervisor: Professor David. Z. Pan
   
 Skills
