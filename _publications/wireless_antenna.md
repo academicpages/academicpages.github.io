@@ -1,10 +1,9 @@
 ---
 title: "《用于无线遥感的MEMS薄膜型集成近场天线的研发》"
 collection: publications
-permalink: /publications/CoT
-venue: "The 36th International Conference on Machine Learning (ICML-19)"
-date: 2018-4-12
-citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.'
+permalink: /publications/wireless_antenna
+venue: "Journal of Shanghai Jiao Tong University"
+date: 2019-6-1
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
 
