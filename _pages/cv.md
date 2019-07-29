@@ -1,6 +1,3 @@
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
 ---
 layout: archive
 title: "Hanqing Zhu(朱汉卿)"
@@ -20,45 +17,33 @@ Education
 * Summer Program for Modern SAP Technology, Peter the Great St. Petersburg Polytechnic University, Russia, Aug 2018- Sept 2018
 * Summer Research Program, University of Texas at Austin, USA, 2019 
 
-<Work experience
+Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+  * Shanghai Jiao Tong University
+  * Duties included: MIMO Detection Algorithms
   * Supervisor: Professor Guanghui He
 
 * Fall 2015: Research Assistant
-  * Github University
+  * UT-Austin
   * Duties included: Merging pull requests
   * Supervisor: Professor David. Z. Pan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: C++/Python/Verilog/MATLAB/CUDA
+* Tools for Microelectronics
+  * Cadence tools
+  * Hspice tools
+  * Xlinux FPGA developing tools
+* Others
+  * Origin
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams>
+* Siyuan Commonweal Organization: Project Director
+  * Make efforts to improve education quality of life in China’s poorest places
+  * Be responsible for Summer Rural Teaching Support Volunteer Program in 2018 and select over 110 volunteers who go to 5 schools in Yunan, Gansu, Henan Province
+  * Offer free summer class for more than 700 students in all.
+* Eryuan 2nd high school teaching volunteer team : Team member
+  * Be awarded with "Color for love" bronze prize of Chinese college students' rural supporting education for extraordinary volunteer performance
