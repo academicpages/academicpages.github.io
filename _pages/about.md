@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://zhuhanqing.github.io/images/zhuhanqing_img.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://zhuhanqing.github.io/images/zhuhanqing_img.jpg?raw=true" alt="Photo" style="width: 520px;"/> 
 </p>
 
 * I am a undergraduate student in the Microelectronics Sicence and Technology Department at Shanghai Jiao Tong University and rank top 2 of 57 students.
