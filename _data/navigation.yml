@@ -2,12 +2,13 @@
 main:
   - title: "CV/Bio"
     url: /cv/
-    
+  
+  - title: "Awards & Honors"
+    url: /awards/
+  
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards & Honors"
-    url: /awards/
   # - title: "Talks"
   #  url: /talks/    
 
