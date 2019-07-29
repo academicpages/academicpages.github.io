@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome To my Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,6 +15,5 @@ redirect_from:
 * I am a undergraduate student in the Microelectronics Sicence and Technology Department at Shanghai Jiao Tong University and rank top 2 of 57 students.
 * My intersts lie in the area of Electric Design Automation & Computer Architecture.
 
-Aphorism
-======
-Life is a marathon
+# Aphorism
+* Life is a marathon
