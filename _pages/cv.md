@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Hanqing Zhu(朱汉卿)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,52 +8,42 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://zhuhanqing.github.io/files/CV_ZHQ.pdf)
 
+<!-- <embed src="http://zhuhanqing.github.io/files/CV_ZHQ.pdf" width="650" height="1800" type='application/pdf'> -->
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Microelectronics, Shanghai Jiao Tong University, 2020(expected)
+* Summer Program for Modern SAP Technology, Peter the Great St. Petersburg Polytechnic University, Russia, Aug 2018- Sept 2018
+* Summer Research Program, University of Texas at Austin, USA, 2019 
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Shanghai Jiao Tong University
+  * Duties included: MIMO Detection Algorithms optimizaion based on
+  * Supervisor: Professor Guanghui He
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Assistant
+  * UT-Austin
+  * Duties included: A new heurostic paradigm for graph partition problem
+  * Supervisor: Professor David. Z. Pan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: C++/Python/Verilog/MATLAB/CUDA
+* VLSI Tools
+  * Cadence tools
+  * Hspice tools
+  * Xlinux FPGA developing tools
+* Others
+  * Origin
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Siyuan Commonweal Organization: Project Director
+  * Make efforts to improve education quality of life in China’s poorest places
+  * Be responsible for Summer Rural Teaching Support Volunteer Program in 2018 and select over 110 volunteers who go to 5 schools in Yunan, Gansu, Henan Province
+  * Offer free summer class for more than 700 students in all.
+* Eryuan 2nd high school teaching volunteer team : Team member
+  * Be awarded with "Color for love" bronze prize of Chinese college students' rural supporting education for extraordinary volunteer performance
