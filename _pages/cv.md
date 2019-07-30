@@ -32,7 +32,7 @@ Work experience
 Skills
 ======
 * Programming Language: C++/Python/Verilog/MATLAB/CUDA
-* Tools for Microelectronics
+* VLSI Tools
   * Cadence tools
   * Hspice tools
   * Xlinux FPGA developing tools
