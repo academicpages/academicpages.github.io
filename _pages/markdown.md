@@ -54,11 +54,11 @@ Single line blockquote:
 
 ### Table 1
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Entry            | Item   |                                                              |Edited 1|
+| --------         | ------ | ------------------------------------------------------------ |Edited 1|
+| [John Doe](#)    | 2016   | Description of the item in the list                          |Edited 1|
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |Edited 1|
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |Edited 1|
 
 ### Table 2
 
