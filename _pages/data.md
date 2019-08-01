@@ -8,7 +8,7 @@ author_profile: true
 #### [Mapping U.S. School Resegregation](https://yongjunzhang.shinyapps.io/schsegapp/) (Fiel and Zhang 2019).
 
 ## Data for Social Scientists before Congress
-#### [A sub-project of NSF funded project-social movement impact on policy outcomes:] (https://osf.io/e3h98/)
+#### [A sub-project of NSF funded project-social movement impact on policy outcomes:](https://osf.io/e3h98/)
 
 ## Replication Data for Journal Articles
 #### AJS: [Diversity and Disparities](https://s4.ad.brown.edu/projects/diversity/Data/data.htm);[School Segregation after Brown](https://projects.propublica.org/segregation-now/) (Fiel and Zhang 2019)
