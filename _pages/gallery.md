@@ -26,6 +26,14 @@ aerial_gallery:
     image_path: /images/gallery/gut_kahnsdorf_k.jpg
     alt: "Gut Kahnsdorf in Neukieritzsch, Germany"
     title: "Gut Kahnsdorf in Neukieritzsch, Germany"
+  - url: /images/gallery/silver_lake_summer_k.jpg
+    image_path: /images/gallery/silver_lake_summer_c.jpg
+    alt: "Silbersee during summer, Leipzig, Germany"
+    title: "Silbersee during summer, Leipzig, Germany"
+  - url: /images/gallery/silver_lake_sunset_k.jpg
+    image_path: /images/gallery/silver_lake_sunset_c.jpg
+    alt: "Sunset at Silbersee, Leipzig, Germany"
+    title: "Sunset at Silbersee, Leipzig,  Germany"
   - url: /images/gallery/seedruecke_heiligendamm_k.jpg
     image_path: /images/gallery/seedruecke_heiligendamm_c.jpg
     alt: "Seebrücke Heiligendamm,Germany"
