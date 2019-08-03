@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erica Ryan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Howdy"
   location         : "Washington, DC"
   employer         : "Fannie Mae"
   pubmed           : 
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
