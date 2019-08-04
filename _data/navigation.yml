@@ -6,14 +6,11 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  #- title: "Teaching"
-   # url: /teaching/    
+  - title: "Teaching & Mentoring"
+    url: /teachingandmentoring/    
     
   - title: "Projects"
     url: /projects/
-    
-  - title: "Teaching & Mentoring"
-     url: /teachingmentoring/ 
         
   - title: "Blog Posts"
     url: /year-archive/
