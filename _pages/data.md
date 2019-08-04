@@ -10,6 +10,9 @@ author_profile: true
 ## Data for NSF Funded Project--Social Movement Impact on Policy Outcomes
 #### [Social Scientists before Congress](https://osf.io/e3h98/)
 
+## The Longitudinal Corporate Elite and Employee Contributor Database (LCEECD)**
+### This big dataset contains all itemized donations made by SP1500 corporate CEOs, boards of directors and senior managers as well as employees in federal elections from 2000-2018.
+
 ## Replication Data for Journal Articles
 #### AJS: [Diversity and Disparities](https://s4.ad.brown.edu/projects/diversity/Data/data.htm);[School Segregation after Brown](https://projects.propublica.org/segregation-now/) (Fiel and Zhang 2019)
 
