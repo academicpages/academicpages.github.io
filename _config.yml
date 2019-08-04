@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Erica Ryan"
   avatar           : "profile.png"
-  bio              : "Howdy"
-  location         : "Washington, DC"
-  employer         : "Fannie Mae"
+  bio              : 
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "ERICA.M.RYAN@OUTLOOK.COM
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Erica-Ryan"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
