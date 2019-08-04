@@ -10,6 +10,22 @@ redirect_from:
   - /photo.html
 
 aerial_gallery:
+  - url: images/gallery/voelki01_k.jpg
+    image_path: images/gallery/voelki01_c.jpg
+    alt: "Monument to the Battle of the Nation's, Leipzig, Germany"
+    title: "Monument to the Battle of the Nation's, Leipzig, Germany"
+  - url: images/gallery/voelki02_k.jpg
+    image_path: images/gallery/voelki02_c.jpg
+    alt: "Monument to the Battle of the Nation's, Leipzig, Germany"
+    title: "Monument to the Battle of the Nation's, Leipzig, Germany"
+   - url: images/gallery/mariannenpark_k.jpg
+    image_path: images/gallery/mariannenpark_c.jpg
+    alt: "Mariannen Park, Leipzig Schönefeld, Germany"
+    title: "Mariannen Park, Leipzig Schönefeld, Germany"
+   - url: images/gallery/mariannenpark_round_k.jpg
+    image_path: images/gallery/mariannenpark_round_c.jpg
+    alt: "Mariannen Park, Leipzig Schönefeld, Germany"
+    title: "Mariannen Park, Leipzig Schönefeld, Germany"
   - url: images/gallery/EP_Loessnig_k.jpg
     image_path: images/gallery/EP_Loessnig_c.jpg
     alt: "Recreation Park Lößnig-Dölitz, Germany"
