@@ -9,7 +9,7 @@ redirect_from:
   - /photo/
   - /photo.html
 header:
-  image: headers/voelki_header.jpg
+  image: headers/voelki_header02.jpg
 
 aerial_gallery:
   - url: images/gallery/voelki01_k.jpg
