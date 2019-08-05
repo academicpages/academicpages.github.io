@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : ""
+title                    : "Erica Ryan"
+title_separator          : " - "
 name                     : &name "Erica Ryan"
 description              : &description "Hello World"
 url                      : https://Erica-Ryan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
