@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Erica Ryan"
-excerpt: "About"
+excerpt: "Erica Ryan"
 author_profile: true
 redirect_from: 
   - /about/
