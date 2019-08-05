@@ -11,7 +11,7 @@ redirect_from:
 # Education
 
 **Massachusetts Institute of Technology**, PhD in Biological Engineering (Jan 2019)    
-_Mining the human microbiome for clinical insight_; [thesis]((https://www.dropbox.com/s/elvp8qzrz3zsjyx/duvallet_thesis_final.pdf?dl=0), [defense](https://www.dropbox.com/s/j4b11wa8a4r42j8/2019-01-11.defense.pdf?dl=0)
+_Mining the human microbiome for clinical insight_; [thesis](https://www.dropbox.com/s/elvp8qzrz3zsjyx/duvallet_thesis_final.pdf?dl=0), [defense](https://www.dropbox.com/s/j4b11wa8a4r42j8/2019-01-11.defense.pdf?dl=0)
 
 **Columbia University**, B.S. in Biomedical Engineering (2013)   
 
