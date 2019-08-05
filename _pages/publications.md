@@ -12,6 +12,10 @@ author_profile: true
 
 ## Academic publications
 
+Evan Bolyen, Jai Ram Rideout, Matthew R. Dillon, Nicholas A. Bokulich ... **Claire Duvallet** ... Rob Knight, Greg Caporaso.     
+"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2."      
+_Nature Biotechnology_ (2019). doi: [10.1038/s41587-019-0209-9](https://doi.org/10.1038/s41587-019-0209-9).
+
 Chengzhen Dai, **Claire Duvallet**, An Ni Zhang, Mariana Matus, Newsha Ghaeli, Shinkyu Park, Noriko Endo, Siavash Isazadeh, Kazi Jamil, Carlo Ratti, and Eric Alm.    
 "Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in sewage environments."      
 _bioRxiv_ (2019). doi: [10.1101/562496](https://doi.org/10.1101/562496).
@@ -69,6 +73,8 @@ _[Tutorial]_ **Claire Duvallet**. "[Developing a plug-in for dummies](https://de
 
 _[Tutorial]_ **Claire Duvallet**. "[Publishing your plugin on conda](https://dev.qiime2.org/latest/tutorials/conda-tutorial/)." _QIIME 2 developer docs._ (2018).
 
+_[Blog post]_ **Claire Duvallet**. "[Fuzzy zeros in percentile normalization method to correct for batch effects](https://microbe.net/2018/06/04/fuzzy-zeros-in-percentile-normalization-method-to-correct-for-batch-effects/)." _microBEnet: the microbiology of the Built Environment network._ June 2018.
+
 _[Blog post]_ **Claire Duvallet**. "[Beyond dysbiosis: disease-specific and shared microbiome responses to disease.](http://go.nature.com/2As9meL)" _Nature Microbiology Community Forum._ December 2017.
 
 _[Dataset]_ **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. (2017). MicrobiomeHD: the human gut microbiome in health and disease. _Zenodo_. doi: [10.5281/zenodo.797943](https://doi.org/10.5281/zenodo.797943)
@@ -91,6 +97,11 @@ New implementation of Preheim _et al._'s distribution-based OTU clustering algor
 End-to-end pipeline to process 16S data.     
 
 * Python: [thomasgurry/amplicon_sequencing_pipeline](https://github.com/thomasgurry/amplicon_sequencing_pipeline) _(co-developer)_
+
+**Match HMDB**     
+Script to match mz's to the HMDB database.
+
+* Python: [cduvallet/match_hmdb](https://github.com/cduvallet/match_hmdb) _(developer)_
 
 ## Other
 
