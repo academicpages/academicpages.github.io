@@ -59,13 +59,17 @@ _PloS ONE_ 12, no. 5 (2017): e0176335. doi: [10.1371/journal.pone.0176335](htt
 
 ## Non-peer reviewed academic content
 
+_[Tutorial]_ **Claire Duvallet**. "[Updating your qiime2 plugin](https://dev.qiime2.org/latest/tutorials/updating-plugin/)." _QIIME 2 developer docs._ (2019).
+
+_[Blog post]_ **Claire Duvallet**. "[Scientific discovery from a clinical study: surprises from the lung and stomach microbiomes.](https://go.nature.com/30rx4VZ)" _Nature Microbiology Community Forum._ May 2019.
+
 _[Tutorial]_ **Claire Duvallet** and Mehrbod Estaki. "[QIIME 2 for Experienced Microbiome Researchers](https://docs.qiime2.org/2018.11/tutorials/qiime2-for-experienced-microbiome-researchers/)." _QIIME 2 docs._ (2018).
 
 _[Tutorial]_ **Claire Duvallet**. "[Developing a plug-in for dummies](https://dev.qiime2.org/latest/tutorials/first-plugin-tutorial/)." _QIIME 2 developer docs._ (2018).
 
 _[Tutorial]_ **Claire Duvallet**. "[Publishing your plugin on conda](https://dev.qiime2.org/latest/tutorials/conda-tutorial/)." _QIIME 2 developer docs._ (2018).
 
-_[Blog post]_ **Claire Duvallet**. "[Beyond dysbiosis: disease-specific and shared microbiome responses to disease.](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease)" _Nature Microbiology Community Forum._ December 2017.
+_[Blog post]_ **Claire Duvallet**. "[Beyond dysbiosis: disease-specific and shared microbiome responses to disease.](http://go.nature.com/2As9meL)" _Nature Microbiology Community Forum._ December 2017.
 
 _[Dataset]_ **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. (2017). MicrobiomeHD: the human gut microbiome in health and disease. _Zenodo_. doi: [10.5281/zenodo.797943](https://doi.org/10.5281/zenodo.797943)
 
