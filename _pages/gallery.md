@@ -9,7 +9,7 @@ redirect_from:
   - /photo/
   - /photo.html
 header:
-  image: /images/gallery/field_hainer_lake_k.jpg
+  image: images/gallery/field_hainer_lake_k.jpg
 
 aerial_gallery:
   - url: images/gallery/voelki01_k.jpg
