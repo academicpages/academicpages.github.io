@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "About"
 permalink: /about/
+title: "Erica Ryan"
+excerpt: ""
 author_profile: true
-redirect_from:
-  - /bio/
-  -/about/
+redirect_from: 
+
 ---
-Test Test
+test
+
