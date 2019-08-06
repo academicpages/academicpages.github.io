@@ -17,4 +17,4 @@ author_profile: true
 Amelia M. Bond, <b>Stephen D. Schwab </b>“<a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2019.00298">Utilization Variaton in Military versus Civilian Care: Evidence from Tricare</a>,” Health Affairs, 38(8): August 2019.
 <br><br>
 
-Kevin D. Broom, Jason S. Turner, <b>Stephen D. Schwab</b>, and Michael P. Pesely. “<a href="http://healthfinancejournal.com/~junland/index.php/johcf/article/view/40">Does Quality Matter? A Study of Stock Price Reactions and the Implications for Healthcare Organizations</a>,” Journal of Health Care Finance, Vol 42, Issue 2: 2015.
+Kevin D. Broom, Jason S. Turner, <b>Stephen D. Schwab</b>, and Michael P. Pesely “<a href="http://healthfinancejournal.com/~junland/index.php/johcf/article/view/40">Does Quality Matter? A Study of Stock Price Reactions and the Implications for Healthcare Organizations</a>,” Journal of Health Care Finance, Vol 42, Issue 2: 2015.
