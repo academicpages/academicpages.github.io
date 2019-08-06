@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Steve Schwab is a Liutenant Colonel in the United States Army and is an assistant professor in the joint [ Army - Baylor University Graduate Program in Health and Business Administration](https://www.baylor.edu/graduate/mha/). He joined Army-Baylor in 2018 from the Wharton School at The University of Pennsylvania where he earned his PhD in Managerial Science and Applied Economics with a focus in health care. His research interests are in coordination and knowledge transfers, and the ways in which these affect productivity and innovation. His current research examines determinants of successful teams and the effects of disruptions to work relationships. He was previously an Associate Fellow at the Leonard Davis Institute for Health Economics. 
+Steve Schwab is a Lieutenant Colonel in the United States Army and is an assistant professor in the joint [ Army - Baylor University Graduate Program in Health and Business Administration](https://www.baylor.edu/graduate/mha/). He joined Army-Baylor in 2018 from the Wharton School at The University of Pennsylvania where he earned his PhD in Managerial Science and Applied Economics with a focus in health care. His research interests are in coordination and knowledge transfers, and the ways in which these affect productivity and innovation. His current research examines determinants of successful teams and the effects of disruptions to work relationships. He was previously an Associate Fellow at the Leonard Davis Institute for Health Economics. 
  
 
  
