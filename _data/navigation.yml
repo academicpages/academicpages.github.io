@@ -10,7 +10,7 @@ main:
   #  url: /teaching/
   
   - title: "WHAT"
-    url: /about-me/
+    url: /bio/
     
   - title: "CV"
     url: /cv/  
