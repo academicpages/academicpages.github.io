@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Erica Ryan"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
