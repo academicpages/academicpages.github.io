@@ -14,6 +14,8 @@ redirect_from:
 Undergraduate
 =============
 
+- Research Methods (O'Higgins University, T2:2019).  <a href="https://github.com/hbahamonde/Metodos_de_Investigacion/raw/master/Bahamonde_Metodos_de_Investigacion.pdf"><i class='fa fa-book fa'></i></a>
+
 - Intro to Social Sciences (O'Higgins University, T1:2019). <a href="https://github.com/hbahamonde/Intro_Ciencias_Sociales/raw/master/Bahamonde_Intro_Ciencias_Sociales.pdf"><i class='fa fa-book fa'></i></a>
 
 
