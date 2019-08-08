@@ -22,9 +22,10 @@ author_profile: true
     * **_NEW_** January 2019 [draft](https://cseveren.github.io/files/20190130_Severen_LAMetro_New.pdf) and [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf)
     * Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.
 
-* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf)" (with [Arthur van Benthem][avb]).
+* "[Formative Experiences and the Price of Gasoline](https://www.nber.org/papers/w26091)" (with [Arthur van Benthem][avb]). NBER Working Paper 26091.
+    * [Ungated version](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf)
 
-### Selected Works in Progress (at least preliminary results)
+### Selected Works in Progress
 
 * "Mobility Restrictions, Human Capital Attainment, and Youth Employment" (with [Valerie Bostwick][vkb]).
 
