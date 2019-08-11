@@ -21,6 +21,7 @@ I am a PhD student in the [UNC NLP](https://nlp.cs.unc.edu/) group at the Univer
 My research interests lie in developing interpretable machine learning methods, with a focus on the domain of natural language processing. This line of research will be important for ensuring ML systems are aligned with human interests. I'm also particularly interested in connections between natural language processing and reinforcement learning. 
 
 ## News
+* 2019 - Paper accepted into HCOMP 2019, "Interpretable Image Recognition with Hierarchical Prototypes"
 * 2019 - Joined the [UNC NLP](https://nlp.cs.unc.edu/) lab
 * 2019 - Graduated with a B.S. from the Department of Statistical Science at Duke University
 * 2019 - Received Highest Distinction for my thesis, Interpretable Image Recognition with Hierarchical Prototypes 
