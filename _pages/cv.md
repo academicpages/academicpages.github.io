@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: ../files/"Peter Hase CV.pdf"
+permalink: ../files/peter_hase_cv.pdf
 author_profile: true
 redirect_from:
   - /cv/
