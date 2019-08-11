@@ -67,11 +67,13 @@ __Coding and Data Analysis Skills__
 * OpenBCI
 * OpenVibe
 * RedCap
+
 __Key Technical and Business Skills__
 * Microsoft Office Suite
 * Google Productivity Suite
 * Mendeley
 * EndNote
+
 __Statistical Methods__
 * Social Network Analysis
 * Latent Space Modeling
