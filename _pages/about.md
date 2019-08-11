@@ -14,7 +14,7 @@ I study computer vision and learning-based computational photography. I interned
 Research
 ======
 
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/spade_thumbnail.jpg" alt=""> </figure> | **Semantic Image Synthesis with Spatially-Adaptive Normalization**<br/>**Taesung Park**, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu<br/>CVPR 2019 (Oral) Best Paper Finalist, [SIGGRAPH RTL Best of Show and Audience Choice Award](https://news.developer.nvidia.com/gaugan-wins-major-awards-at-siggraph-2019s-real-time-live-competition/) <br/> [paper](https://arxiv.org/abs/1903.07291) \| [code](https://github.com/NVlabs/SPADE) \| [project](https://nvlabs.github.io/SPADE/) |
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/spade_thumbnail.jpg" alt=""> </figure> | **Semantic Image Synthesis with Spatially-Adaptive Normalization**<br/>**Taesung Park**, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu<br/>CVPR 2019 (Oral) Best Paper Finalist <br/> [SIGGRAPH RTL Best of Show and Audience Choice Award](https://news.developer.nvidia.com/gaugan-wins-major-awards-at-siggraph-2019s-real-time-live-competition/) <br/> [paper](https://arxiv.org/abs/1903.07291) \| [code](https://github.com/NVlabs/SPADE) \| [project](https://nvlabs.github.io/SPADE/) |
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cycada.jpg" alt=""> </figure> | **CyCADA: Cycle-Consistent Adversarial Domain Adaptation**<br/>Judy Hoffman, Eric Tzeng, **Taesung Park**, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei Efros, Trevor Darrell<br/>ICML 2018<br/>[paper](https://arxiv.org/pdf/1711.03213.pdf) \| [code](https://github.com/jhoffman/cycada_release) |
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CycleGAN.jpg" alt=""> </figure> | **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**<br/>Jun-Yan Zhu*, **Taesung Park\***, Phillip Isola, and Alexei A. Efros<br/>ICCV 2017 (Spotlight, * indicates equal contribution) <br/>[project](https://junyanz.github.io/CycleGAN/) \| [PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) \| [Torch](https://github.com/junyanz/CycleGAN) \| [Paper](https://arxiv.org/pdf/1703.10593.pdf)|
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.png" alt=""> </figure> |  **Inverse Optimal Control for Humanoid Locomotion**<br/>**Taesung Park**, Sergey Levine<br/>RSS Workshop on Inverse Optimal Control & Robotic Learning from Demonstration, 2013<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/humanioc.pdf)|
@@ -22,13 +22,13 @@ Research
 Teaching
 ======
 
-CS194-26 at UC Berkeley. **Image Manipulation and Computational Photography**. [link](https://inst.eecs.berkeley.edu/~cs194-26/fa18/)  
+CS194-26 at UC Berkeley. Image Manipulation and Computational Photography. [link](https://inst.eecs.berkeley.edu/~cs194-26/fa18/)  
 Fall 2018. Head TA 
 
-CS188 at UC Berkeley. **Introduction to Artificial Intelligence**. [link](https://inst.eecs.berkeley.edu/~cs188/)  
+CS188 at UC Berkeley. Introduction to Artificial Intelligence. [link](https://inst.eecs.berkeley.edu/~cs188/)  
 Spring 2017. TA
 
-CS148 at Stanford. **Intro to Computer Graphics and Imaging**.   
+CS148 at Stanford. Intro to Computer Graphics and Imaging.   
 Summer 2012. Course Assistant. 
 
 Recorded Talks
