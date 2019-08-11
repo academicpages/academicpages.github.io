@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chris Friedman"
 title_separator          : "-"
 name                     : &name "Chris Friedman"
-description              : &description "personal description"
+description              : &description "Chris Friedman's CV Site"
 url                      : https://cv.chris-s-friedman.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chris-s-friedman/cv-site"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris Friedman"
-  avatar           : "profile.png"
+  avatar           : "https://res.cloudinary.com/chrissfriedman/image/upload/v1565540407/profile%20picture/work_me.jpg"
   bio              : "Data Analysis of the social networks of autism. "
   location         : "Philadelphia"
   employer         : "A.J. Drexel Autism Institute"
