@@ -26,7 +26,6 @@ My research interests lie in developing interpretable machine learning methods, 
 * 2019 - Paper accepted into [HCOMP 2019](https://www.humancomputation.com/), "Interpretable Image Recognition with Hierarchical Prototypes" [[pdf]](https://arxiv.org/abs/1906.10651)
 * 2019 - Joined the [UNC NLP](https://nlp.cs.unc.edu/) lab
 * 2019 - Graduated with a B.S. from the Department of Statistical Science at Duke University
-* 2019 - Received Highest Distinction for my thesis, Interpretable Image Recognition with Hierarchical Prototypes 
 * 2019 - Awarded the [William R. Kenan Jr. (Royster) Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html) from UNC Chapel Hill
 * 2018 - Received First Prize in Darmouth's [PoetiX Literary Turing Test](http://bregman.dartmouth.edu/turingtests/competition2018)
 * 2018 - Nominated for Statistical Science Undergraduate TA of the Year
