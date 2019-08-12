@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching
-
-<br/>
+## Teaching  
 
 Class  |Semester |Department |Role 
 :---------|:----------|:--------------|:----
