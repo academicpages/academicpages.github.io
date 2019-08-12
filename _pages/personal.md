@@ -6,11 +6,11 @@ permalink: /personal/
 ---
 
 <p align="center">
-  <img src="https://github.com/peterbhase/images/books/lagoon.jpg?raw=True" alt="Photo" style="width: 150px;"/> 
+  <img src="https://github.com/peterbhase/images/books/lagoon.jpg" alt="Photo" style="width: 150px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://github.com/peterbhase/images/books/everybody_lies.jpg?raw=True" alt="Photo" style="width: 150px;"/> 
+  <img src="https://github.com/peterbhase/images/books/everybody_lies.png" alt="Photo" style="width: 150px;"/> 
 </p>
 
 <!--
