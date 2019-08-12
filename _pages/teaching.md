@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-## Teaching  
+{% include base_path %}  
 
 Class  |Semester |Department |Role 
 :---------|:----------|:--------------|:----
