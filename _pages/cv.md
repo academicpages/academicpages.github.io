@@ -38,7 +38,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Director, Georgia Tech Center of Excellence in UWB Technology, Jun. 2012 -- May 2015
+
+-- Worked on Ultra Wideband, video and signal communications and localization
+
+* Co-PI for IUCRC on Fiber-Wireless Technology
+
+-- 5G, 60GHz, mmWave communications, integrated fiber wireless systems 
 
 Work experience
 ======
