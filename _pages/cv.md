@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+IEEE Fellow, 2016
+
 Education
 ======
 * Ph.D. in EE, University of Minnesota, MN, 2003
+
+Advisor: (Georgios B. Giannakis)[https://scholar.google.com/citations?user=Nu_6R8sAAAAJ&hl=en]
 
 Dissertation: Doubly-Selective Channels: Estimation, Capacity, and Space-Time Coding
 
