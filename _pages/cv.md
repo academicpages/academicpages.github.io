@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D. in EE, University of Minnesota, MN, 2003
-Dissertation: Doubly-Selective Channels: Estimation, Capacity, and Space-Time Coding
+- Dissertation: Doubly-Selective Channels: Estimation, Capacity, and Space-Time Coding
 
 * M.S. in EE, University of Virginia, VA, 2000
-Thesis: Adaptive Actuator Nonlinearity Compensation Control with Feedback Linearization
+- Thesis: Adaptive Actuator Nonlinearity Compensation Control with Feedback Linearization
 
 * B.S. in Automatic Control, Tsinghua University, Beijing, China, 1998
-Thesis: Distributed Artificial Intelligent and Its Application in New Product Development
+- Thesis: Distributed Artificial Intelligent and Its Application in New Product Development
 
 
 Talks
