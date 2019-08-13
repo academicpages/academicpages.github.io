@@ -16,17 +16,21 @@ After receiving her Ph.D., she joined the Department of Electrical and Computer 
 
 Research interests: 
 ======
-### Signal processing for communications and networks
-
-### Signal estimation algorithms
-
-### Reinforcement Learning
-
-### Coding theory
-
-### Wireless communication theory
-
-### Sensor and ad hoc networks
+* Digital Signal Processing
+  * Signal estimation algorithms
+  * Sensor and ad hoc networks
+* Video Communication and Coding
+  * Video Transmission
+  * Vehicle-to-Vehicle Communication
+* Reinforcement Learning
+  * Adversarial Robustness
+  * Multi-Agent Learning
+  * Congestion Control
+* Decentralized System
+  * Raft Consensus
+* Multiple Input, Multiple Output System (MIMO)  
+  * Coding theory
+  * Wireless communication theory
 
 
 
