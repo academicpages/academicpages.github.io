@@ -225,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _group
   - scope:
       path: ""
-      type: portfolio
+      type: group
     values:
       layout: single
       author_profile: true
