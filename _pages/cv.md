@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D. in EE, University of Minnesota, MN, 2003
 
-Advisor: (Georgios B. Giannakis)[https://scholar.google.com/citations?user=Nu_6R8sAAAAJ&hl=en]
+Advisor: [Georgios B. Giannakis](https://scholar.google.com/citations?user=Nu_6R8sAAAAJ&hl=en)
 
 Dissertation: Doubly-Selective Channels: Estimation, Capacity, and Space-Time Coding
 
@@ -27,6 +27,22 @@ Thesis: Adaptive Actuator Nonlinearity Compensation Control with Feedback Linear
 
 Thesis: Distributed Artificial Intelligent and Its Application in New Product Development
 
+
+Research Interest
+======
+* Video Communication and Coding
+  * Video Transmission
+  * Vehicle-to-Vehicle Communication
+* Reinforcement Learning
+  * Adversarial Robustness
+  * Multi-Agent Learning
+  * Congestion Control
+* Decentralized System
+  * Raft Consensus
+* Multiple Input, Multiple Output System (MIMO)
+
+Work experience
+======  
 
 Talks
 ======
@@ -42,34 +58,13 @@ Teaching
   
 Service and leadership
 ======
-* Co-PI for IUCRC on Fiber-Wireless Technology
+* Co-PI for NSF on Fiber-Wireless Center
 
--- 5G, 60GHz, mmWave communications, integrated fiber wireless systems 
+-- 5G, 60GHz, Video Communication, mmWave communications, integrated fiber wireless systems 
 
 * Director, Georgia Tech Center of Excellence in UWB Technology, Jun. 2012 -- May 2015
 
 -- Worked on Ultra Wideband, video and signal communications and localization
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
