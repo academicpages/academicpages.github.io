@@ -179,7 +179,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  group:
     output: false
     permalink: /:collection/:path/
   talks:
