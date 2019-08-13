@@ -20,12 +20,12 @@ Current Research Interests:
 * Video Communication and Coding
   * Video Transmission
   * Vehicle-to-Vehicle Communication
-  * Indoor Navigation and Visual Reasoning
+  * Localization and Navigation
 * Reinforcement Learning
   * Adversarial Robustness
   * Multi-Agent Learning
   * Congestion Control
-* Decentralized System
+* Decentralized Network and System
   * Raft Consensus
 * Multiple Input, Multiple Output System (MIMO)  
   * Coding theory
