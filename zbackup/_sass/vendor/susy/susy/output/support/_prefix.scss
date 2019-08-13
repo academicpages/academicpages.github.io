@@ -1,0 +1,19 @@
+// Susy Prefix
+// ===========
+
+// Prefix
+// ------
+// Output simple prefixed properties.
+// - $prop      : <css property>
+// - $val       : <css value>
+// - [$prefix]  : <browser prefix list>
+@mixin susy-prefix(
+  $prop,
+  $val,
+  $prefix: official
+) {
+  @each $fix in $prefix {
+    $fix: if($fix == official or not($fix), $prop, '-#{$fix}-#{$prop}');
+    @include susy-rem($fix, $val);
+  }
+}

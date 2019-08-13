@@ -1,0 +1,200 @@
+// Bleed Syntax
+// ============
+
+// Bleed
+// -----
+// Add negative margins, and equal positive padding to create bleed.
+// - $bleed  : <span>
+@mixin bleed(
+  $bleed: 0 gutter()
+) {
+  $inspect  : $bleed;
+  $output   : get-bleed($bleed);
+
+  @if susy-get(global-box-sizing) != content-box {
+    $output: map-merge((box-sizing: content-box), $output);
+  }
+
+  @include susy-inspect(bleed, $inspect);
+  @include output($output);
+}
+
+
+// Bleed-x
+// -------
+// Shortcut for horizontal bleed.
+// - $bleed  : <span>
+@mixin bleed-x(
+  $bleed: gutter()
+) {
+  $bleed  : parse-span($bleed);
+  $trbl   : susy-get(span, $bleed);
+
+  @if length($trbl) == 1 {
+    $bleed: map-merge($bleed, (span: 0 nth($trbl, 1)));
+  } @else if length($trbl) == 2 {
+    $bleed: map-merge($bleed, (span: 0 nth($trbl, 2) 0 nth($trbl, 1)));
+  } @else {
+    @warn 'bleed-x only takes 2 lengths, but #{length($trbl)} were passed.';
+  }
+
+  @include bleed($bleed);
+}
+
+
+// Bleed-y
+// -------
+// Shortcut for vertical bleed.
+// - $bleed  : <span>
+@mixin bleed-y(
+  $bleed: if(function-exists(rhythm), rhythm(1), 1em)
+) {
+  $bleed  : parse-span($bleed);
+  $trbl   : susy-get(span, $bleed);
+
+  @if length($trbl) == 1 {
+    $bleed: map-merge($bleed, (span: nth($trbl, 1) 0));
+  } @else if length($trbl) == 2 {
+    $bleed: map-merge($bleed, (span: nth($trbl, 1) 0 nth($trbl, 2) 0));
+  } @else {
+    @warn 'bleed-y only takes 2 lengths, but #{length($trbl)} were passed.';
+  }
+
+  @include bleed($bleed);
+}
+
+
+// Get Bleed
+// ---------
+// Return bleed output values
+// - $bleed: <span>
+@function get-bleed(
+  $bleed
+) {
+  $bleed    : map-merge((spread: wide), parse-span($bleed));
+  $trbl     : susy-get(span, $bleed);
+  $short    : null;
+  $output   : ();
+
+  @for $i from 1 through length($trbl) {
+    $this: nth($trbl, $i);
+    $new: ();
+    $margin: null;
+    $padding: null;
+    $padding-x: null;
+
+    @if $this > 0 {
+      $this: map-merge($bleed, (span: $this));
+      $margin: span($this);
+      $padding: $margin;
+      $padding-x: $padding;
+    }
+
+    @if $margin and $margin > 0 {
+      $margin: - $margin;
+
+      @if is-inside($this) {
+        $gutter: gutter($this);
+        $join: if($gutter and comparable($padding, $gutter), true, false);
+        $padding-x: if($join and $padding > 0, $padding + $gutter, $padding);
+      }
+    }
+
+    @if $i == 1 {
+      $new: (
+        margin-top: $margin,
+        padding-top: $padding,
+        margin-right: $margin,
+        padding-right: $padding-x,
+        margin-bottom: $margin,
+        padding-bottom: $padding,
+        margin-left: $margin,
+        padding-left: $padding-x,
+      );
+    } @else if $i == 2 {
+      $new: (
+        margin-right: $margin,
+        padding-right: $padding-x,
+        margin-left: $margin,
+        padding-left: $padding-x,
+      );
+    } @else if $i == 3 {
+      $new: (
+        margin-bottom: $margin,
+        padding-bottom: $padding,
+      );
+    } @else if $i == 4 {
+      $new: (
+        margin-left: $margin,
+        padding-left: $padding-x,
+      );
+    }
+
+    $output: map-merge($output, $new);
+  }
+
+  @each $prop, $value in $output {
+    $output: if($value == 0, map-merge($output, ($prop: null)), $output);
+  }
+
+  @return bleed-shorthand($output);
+}
+
+// Bleed Shorthand
+// ---------------
+// Convert bleed output into shorthand when possible.
+// - $bleed: <output map>
+@function bleed-shorthand(
+  $bleed
+) {
+  $margin: ();
+  $padding: ();
+  $return: ();
+
+  @each $key, $value in $bleed {
+    @if str-index($key, margin) {
+      $margin: map-merge($margin, ($key: $value));
+    } @else if str-index($key, padding) > 0 {
+      $padding: map-merge($padding, ($key: $value));
+    }
+  }
+
+  $props: (
+    margin: $margin,
+    padding: $padding,
+  );
+
+  @each $name, $map in $props {
+    $four: if(length(map-keys($map)) == 4, true, false);
+    $null: if(index(map-values($map), null), true, false);
+
+    @if $four and not($null) {
+      $top: map-get($map, '#{$name}-top');
+      $right: map-get($map, '#{$name}-right');
+      $bottom: map-get($map, '#{$name}-bottom');
+      $left: map-get($map, '#{$name}-left');
+
+      $tb: if($top == $bottom, $top, null);
+      $rl: if($right == $left, $right, null);
+      $all: if($tb == $rl, $tb, null);
+
+      $new: if($all, $all, null);
+
+      @if not($new) {
+        @if $tb and $rl {
+          $new: $tb $rl;
+        } @else if $rl {
+          $new: $top $rl $bottom;
+        } @else {
+          $new: $top $right $bottom $left;
+        }
+      }
+
+      $return: map-merge($return, ($name: $new));
+    } @else {
+      $return: map-merge($return, $map);
+    }
+  }
+
+  @return $return;
+}
