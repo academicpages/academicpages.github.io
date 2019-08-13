@@ -77,6 +77,7 @@ p {
 	list-style-type: none;
 	font-size: 0.9em;
 	margin-top: 2px;
+	text-align: right;
 }
 
 #contactDetails ul li {
@@ -119,7 +120,7 @@ section:last-child {
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 95%;
 }
 
 .sectionTitle h1 {
@@ -131,7 +132,7 @@ section:last-child {
 
 .sectionContent h2 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	margin-bottom: -2px;
 }
 
@@ -298,7 +299,7 @@ section:last-child {
 
 .instaFade {
     -webkit-animation-name: reset, fade-in;
-    -webkit-animation-duration: 1.5s;
+    -webkit-animation-duration: 1s;
     -webkit-animation-timing-function: ease-in;
 	
 	-moz-animation-name: reset, fade-in;
@@ -312,15 +313,15 @@ section:last-child {
 
 .quickFade {
     -webkit-animation-name: reset, fade-in;
-    -webkit-animation-duration: 2.5s;
+    -webkit-animation-duration: .5s;
     -webkit-animation-timing-function: ease-in;
 	
 	-moz-animation-name: reset, fade-in;
-    -moz-animation-duration: 2.5s;
+    -moz-animation-duration: .5s;
     -moz-animation-timing-function: ease-in;
 	
 	animation-name: reset, fade-in;
-    animation-duration: 2.5s;
+    animation-duration: .5s;
     animation-timing-function: ease-in;
 }
  
