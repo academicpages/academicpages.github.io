@@ -30,16 +30,22 @@ Thesis: Distributed Artificial Intelligent and Its Application in New Product De
 
 Research Interest
 ======
+* Digital Signal Processing
+  * Signal estimation algorithms
+  * Sensor and ad hoc networks
 * Video Communication and Coding
   * Video Transmission
   * Vehicle-to-Vehicle Communication
+  * Localization and Navigation
 * Reinforcement Learning
   * Adversarial Robustness
   * Multi-Agent Learning
   * Congestion Control
-* Decentralized System
+* Decentralized Network and System
   * Raft Consensus
-* Multiple Input, Multiple Output System (MIMO)
+* Multiple Input, Multiple Output System (MIMO)  
+  * Coding theory
+  * Wireless communication theory
 
 Work experience
 ======  
