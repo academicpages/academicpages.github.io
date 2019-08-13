@@ -1,17 +1,7 @@
 ---
-title: "Current Student"
-excerpt: "Short description of Student 1<br/><img src='/images/500x300.png'>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-- 
-
-- Chao-Han (Huck) Yang
-
-* Ph.D. Student, Now
-
-* M.Sc. Georgia Institute of Technology
-
-* B.S. National Taiwan University, 2016
-  * Advanced Signal Processing Research Intern, TSMC, 2017
-  	- Reinforcement Learning
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
