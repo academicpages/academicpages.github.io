@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2019-09-30
 venue: 'ICIP 2019'
 paperurl: 'https://arxiv.org/pdf/1902.03380.pdf'
-citation: 'Yang, C. H. H., Liu, Y. C., Chen, P. Y., Ma, X.. (2019). When Causal Intervention Meets Image Masking and Adversarial Perturbation for Deep Neural Networks. arXiv preprint arXiv:1902.03380.; <i>International Conference of Image Processing </i>. .'
+citation: 'Yang, C. H. H., Liu, Y. C., Chen, P. Y., Ma, X.. (2019). When Causal Intervention Meets Image Masking and Adversarial Perturbation for Deep Neural Networks. arXiv preprint arXiv:1902.03380.; <i>IEEE International Conference of Image Processing, 2019</i>. .'
 ---
 
 Our Pytorch implementation has released [here](https://github.com/jjaacckkyy63/Causal-Intervention-AE-wAdvImg). 
