@@ -22,7 +22,7 @@ Current Research Interests:
   * Vehicle-to-Vehicle Communication
   * Localization and Navigation
 * Reinforcement Learning
-  * Adversarial Robustness
+  * Deep Adversarial Robustness
   * Multi-Agent Learning
   * Congestion Control
 * Decentralized Network and System
