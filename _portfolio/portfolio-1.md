@@ -15,5 +15,5 @@ Chao-Han (Huck) Yang
 * Experience
   * Deep Video Processing, Research Intern, EPFL, 2018 Summer
   * Evolutionary Motifs Learning, Research Intern, KAUST, 2017 Winter & 2018 Spring
-  * Advanced Singal & Reinforcement Learning, Research Intern, TSMC, 2017 Spring
+  * Advanced Singal & Reinforcement Learning, R & D Intern, TSMC, 2017 Spring
 
