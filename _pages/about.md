@@ -25,7 +25,7 @@ Current Research Interests:
   * Deep Adversarial Robustness
   * Multi-Agent Learning
   * Congestion Control
-* Decentralized Network and System
+* Decentralized Network and Systems
   * Raft Consensus
 * Multiple Input, Multiple Output System (MIMO)  
   * Coding theory
