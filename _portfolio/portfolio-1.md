@@ -1,6 +1,6 @@
 ---
 title: "Current Students"
-excerpt: "Welcome!<br/><img src='/images/gt.jpg'>"
+excerpt: "<br/><img src='/images/gt.jpg'>"
 collection: portfolio
 ---
 
