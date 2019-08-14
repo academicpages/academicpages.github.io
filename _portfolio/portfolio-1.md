@@ -6,7 +6,7 @@ collection: portfolio
 
 *Ph.D. Students:*
 
-**Yiming Kong** [website](https://sites.google.com/site/ykonggatech/home)
+**Yiming Kong** ([website](https://sites.google.com/site/ykonggatech/home))
 
 * Ph.D. Candidate, Georgia Insititute of Technology, Summer 2013 -- present
   * Passed proposal Oct. 2018, expect to graduate summer 2019
@@ -15,7 +15,7 @@ collection: portfolio
   * Colonel Oscar P. Cleaver Awards from ECE, Spring 2013
 * B.Sc. Zhejiang University
 
-**Muhammad Shahmeer Omar** [website](https://www.linkedin.com/in/shahmeeromar) 
+**Muhammad Shahmeer Omar** ([website](https://www.linkedin.com/in/shahmeeromar)) 
 
 * Ph.D. Candidate, Georgia Institute of Technology, Spring 2018 -- present
   * M.Sc., Georgia Institute of Technology, 2016 - 2018
