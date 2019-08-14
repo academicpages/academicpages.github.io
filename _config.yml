@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mobile Network and Adaptive Signal Group"
+title                    : "Mobile Network and Adaptive Signals Group"
 title_separator          : "-"
 name                     : &name "Xiaoli Ma"
 description              : &description "IEEE Fellow"
