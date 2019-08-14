@@ -1,72 +1,68 @@
 ---
-title: "Digital Communications (ECE 6602)"
+title: "Previous Courses"
 collection: teaching
 type: "Graduate"
-permalink: /teaching/2015-spring-teaching-1
-venue: ", Fall 2017 & Spring 2015,"
-date: 2017-08-15
+permalink: /teaching/2011-spring-teaching-3
+venue: ""
+date: 2015-08-15
 ---
 
+Fall, 2018
+ECE4011
+Senior Design
 
+Spring, 2018
+ECE4271
+Applications of DSP
 
+Fall, 2017
 ECE6602
-    Digital Communications (3-0-3)
-Prerequisites
-    ECE 6601 
-Corequisites
-    None 
-Catalog Description
-    Basic M-ary digital communications systems, with emphasis on system design and performance analysis in the presence of additive noise 
-Textbook(s)
-    Proakis, Digital Communications (5th edition), McGraw Hill, 2005. ISBN 9780072957167 (required)
+Digital Communications
 
-Topical Outline
+Fall, 2017
+ECE6500
+Fourier Analysis and Its Applications
 
-    Communications Signals and Systems
-    - Introduction to Digital Communications
-    - Representations of Bandpass Signals and Systems
-    - Inner Product Spaces and Subspaces
-    - Orthonormal Bases, Gram-Schmidt Procedure
-    - Signal Space Representation of M-ary Signal Sets
+Spring, 2017
+ECE4271
+Applications of DSP
 
-    Deterministic Receiver Design
-    - Minimum Distance Receiver Design
-    - Matched Filters and Correlation
-    - The Correlation Receiver
-    - The Sufficiency of Signal Space Projection
-    - The Projection Receiver
+Spring, 2017
+ECE2026
+Intro. of Signal and Sys.
 
-    Probability and Random Processes
-    - Some Useful Probability Distributions
-    - Upper Bounds on the Tail Probability
-    - Random Sequences and Random Processes
-    - Power Spectral Density
-    - Random Processes Through Linear Systems
+Spring, 2017
+ECE2026
+Intro. of Signal and Sys.
 
-    Probabilistic Receiver Design
-    - Maximum A Posteriori Detection
-    - Maximum Likelihood Detection
-    - The Equivalence of MAP and Minimum Probability of Error
+Spring, 2015
+ECE7251
+Detection&Estimation
 
-    Performance Analysis in White Gaussian Noise
-    - The Sufficiency of Signal Space Projection
-    - Equivalence of Maximum Likelihood and Minimum Distance in AWGN
-    - Error Probability Bounds for Basic M-ary Modulation Schemes
-    - Power versus Bandwidth Tradeoffs
-    - Detection of Signals with Random Phase
+Spring, 2015
+ECE6602
+Digital Communications
 
-    Shannon Capacity and Channel Codes
-    -Heuristic Sphere-Packing Proof of Channel Coding Theorem
-    -Multidimensional Constellations
-    -Convolutional Codes
-    -The Viterbi Algorithm
-    -Trellis-Coded Modulation
+Fall, 2014
+ECE9000
+Doctoral
 
-    Advanced Communication Techniques
-    -Multichannel Digital Communication in AWGN Channels
-    -Multicarrier Communications
-    -Direct-Sequence Spread Spectrum
-    -Frequency-Hopped Spread Spectrum
+Spring, 2014
+ECE9000
+Doctoral Thesis
 
+Fall, 2013
+ECE2026
+Intro. of Signal and Sys.
 
+Fall, 2013
+ECE2026
+Intro. of Signal and Sys.
 
+Fall, 2012
+ECE6602
+Digital Communications
+
+Fall, 2012
+ECE7251
+Detection& Estimation
