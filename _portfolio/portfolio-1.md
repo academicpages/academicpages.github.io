@@ -15,14 +15,12 @@ collection: portfolio
   * Colonel Oscar P. Cleaver Awards from ECE, Spring 2013
 * B.Sc. Zhejiang University
 
-
 **Muhammad Shahmeer Omar** [website](https://www.linkedin.com/in/shahmeeromar) 
 
 * Ph.D. Candidate, Georgia Institute of Technology, Spring 2018 -- present
   * M.Sc., Georgia Institute of Technology, 2016 - 2018
   * Topic: Enhancing next generation of communication systems by machine intellegence
-* B.Sc. National University of Sciences and Technolgy
-
+* B.Sc. National University of Sciences and Technology
 
 **Chao-Han (Huck) Yang**
 
@@ -32,8 +30,7 @@ collection: portfolio
   * Wallace Coulter Fellowship, 2017 Fall - 2018 Spring 
 * B.Sc., National Taiwan University
 
-
-*Visiting Students:*
+Visiting Students:
 
 **Hongzhuang Wu**
 * Ph.D. Student, China University of Mining and Technogy
