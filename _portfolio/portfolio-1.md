@@ -40,4 +40,4 @@ Visiting Students:
 * Ph.D. Student, Southeastern University
   * Topic: Large Intelligent Surface-Assisted Wireless Communication Exploiting Statistical CSI
 
-*Previous Students and Visitors* [link](https://xma-ultra-signals.github.io//portfolio/portfolio-2/)
+*Previous Students and Visitors* ([link](https://xma-ultra-signals.github.io//portfolio/portfolio-2/))
