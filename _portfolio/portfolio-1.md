@@ -6,7 +6,7 @@ collection: portfolio
 
 Ph.D. Students:
 
-1. Yiming Kong
+**Yiming Kong**
 
 * Ph.D. Candidate, Summer 2013 -- present
   * Passed proposal Oct. 2018, expect to graduate summer 2019
@@ -17,7 +17,7 @@ Ph.D. Students:
 * B.Sc. Zhejiang University
 
 
-2. Muhammad Shahmeer Omar
+**Muhammad Shahmeer Omar**
 
 * Ph.D. Candidate, Georgia Institute of Technology, Spring 2018 - present
   * Topic: Enhancing next generation of communication systems by machine intellegence
@@ -26,7 +26,7 @@ Ph.D. Students:
 * B.Sc. National University of Sciences and Technolgy
 
 
-3. Chao-Han (Huck) Yang
+**Chao-Han (Huck) Yang**
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present
   * Topic: Robust learning against noisy and adversarial perturbation on networks
@@ -36,3 +36,4 @@ Ph.D. Students:
 * B.Sc., National Taiwan University
 
 Visiting Students:
+
