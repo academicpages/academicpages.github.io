@@ -22,7 +22,7 @@ collection: portfolio
   * Topic: Enhancing next generation of communication systems by machine intellegence
 * B.Sc. National University of Sciences and Technology
 
-**Chao-Han (Huck) Yang**
+**Chao-Han (Huck) Yang** ([website](https://huckiyang.github.io/web/))
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present
   * M.Sc., Georgia Institute of Technology, 2017 - 2019
