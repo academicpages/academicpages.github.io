@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc. Neural Information Processing, Eberhard Karls Universität, Tübingen, Germany, 2017
+* BSc. Electrical Engineering, Electronics, Tabriz Azad University, Tabriz, Iran, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - Present
+    * Research Engineer, Human Body Modeling
+    * Perceiving Systems Department, Michael Black, Max-Planck Institute for Intelligent Systems, Tübingen, Germany
+    
+* Winter 2017: Research Assistant
+  * Student Assistant, Data Analysis of Recordings from Human Retinal Implants
+  * Zrenner Lab, Eye Clinic, University Hospital Tübingen, Tübingen, Germany
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2017:
+    * Student Assistant, Human Motion Recording and Modeling
+    * AG. Prof. Martin Giese, Center for Integrative Neuroscience, Tübingen, Germany
+    
+* 2016:
+    * Student Assistant, Data Analysis of Neuronal Recordings in Hippocampal Region of Fully Behaving Animals [Matlab]
+    * AG Dr. Burgalossi, Center for Integrative Neuroscience, Tübingen, Germany
+
+* 2013 - 2015
+    * R&D Engineer, Enterprise Resource Planning Software Development and Implementation, OpenERP
+    * SuperPipe International Co., Tehran, Iran
+       
+<!--Skills-->
+<!--======-->
+<!--* Skill 1-->
+<!--* Skill 2-->
+<!--  * Sub-skill 2.1-->
+<!--  * Sub-skill 2.2-->
+<!--  * Sub-skill 2.3-->
+<!--* Skill 3-->
 
 Publications
 ======
@@ -42,18 +51,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<!--Talks-->
+<!--======-->
+<!--  <ul>{% for post in site.talks %}-->
+<!--    {% include archive-single-talk-cv.html %}-->
+<!--  {% endfor %}</ul>-->
+<!--  -->
+<!--Teaching-->
+<!--======-->
+<!--  <ul>{% for post in site.teaching %}-->
+<!--    {% include archive-single-cv.html %}-->
+<!--  {% endfor %}</ul>-->
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!--Service and leadership-->
+<!--======-->
+<!--* Currently signed in to 43 different slack teams-->
