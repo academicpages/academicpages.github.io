@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nima ghorbani"
+#title                    : "Nima ghorbani"
 title_separator          : "-"
 name                     : &name "Nima Ghorbani"
 description              : &description "Research Engineer @ Max-Planck Institute for Intelligent Systems"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/n__ghorbani"
+  twitter          : "n__ghorbani"
   vine             :
   weibo            :
   xing             :
