@@ -1,13 +1,18 @@
 ---
 title: "Expressive Body Capture: 3D Hands, Face, and Body from a Single Image"
-collection: publications
-date: 2019-06-01
+authors: 'Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black'
 venue: 'IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) 2019'
-paperurl: 'https://smpl-x.is.tue.mpg.de/'
+date: 2019-06-01
+category: 'accepted'
 bibtex: '2019-Expressive-Capture.bib'
 teaser: '2019-Expressive-Capture.png'
-#category: 'accepted'
+paperurl: 'https://smpl-x.is.tue.mpg.de/'
+permalink: /publication/2019-Expressive-Capture
+collection: publications
 ---
+
+Abstract
+-------
 To facilitate the analysis of human actions, interactions and emotions, 
 we compute a 3D model of human body pose, hand pose, and facial expression
 from a single monocular image. To achieve this, we use thousands of 3D 

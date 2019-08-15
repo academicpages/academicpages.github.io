@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Nima ghorbani"
 title_separator          : "-"
 name                     : &name "Nima Ghorbani"
-description              : &description "Research Engineer @ Max-Planck Institute for Intelligent Systems"
-url                      : https://nghorbani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal description"
+url                      : "https://nghorbani.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nghorbani/nghorbani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.es/citations?user=8syFJ-0AAAAJ&hl=en"
-  email            :
-  researchgate     :   "https://www.researchgate.net/profile/Nima_Ghorbani4"
+  email            : "nghorbani@tuebingen.mpg.de"
+  researchgate     :   #"https://www.researchgate.net/profile/Nima_Ghorbani4"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-3867-0459"
+  orcid            : #"https://orcid.org/0000-0003-3867-0459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
