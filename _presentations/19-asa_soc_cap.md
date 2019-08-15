@@ -4,7 +4,7 @@ collection: presentations
 type: "Conference Poster"
 permalink: /presentations/8/13/19-asa_soc_cap
 venue: "American Sociological Association 2018 Annual Conference"
-date: 8/13/19
+date: 2019-08-13
 location: "Philadelphia, PA"
 ---
 

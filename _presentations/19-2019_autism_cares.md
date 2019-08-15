@@ -4,7 +4,7 @@ collection: presentations
 type: "Conference Poster"
 permalink: /presentations/7/18/19-2019_autism_cares
 venue: "2019 Autism CARES Grantee Meeting"
-date: 7/18/19
+date: 2019-07-18
 location: "Washington, DC"
 ---
 

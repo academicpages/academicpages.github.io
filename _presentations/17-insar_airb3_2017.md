@@ -4,7 +4,7 @@ collection: presentations
 type: "Conference Poster"
 permalink: /presentations/5/13/17-insar_airb3_2017
 venue: "International Society For Autism Research 2017 Annual Meeting"
-date: 5/13/17
+date: 2017-05-13
 location: "San Francisco, CA"
 ---
 

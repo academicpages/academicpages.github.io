@@ -4,7 +4,7 @@ collection: presentations
 type: "Conference Poster"
 permalink: /presentations/5/11/18-insar_airb3_focus
 venue: "International Society For Autism Research 2018 Annual Meeting"
-date: 5/11/18
+date: 2018-05-11
 location: "Rotterdam, Netherlands"
 ---
 
