@@ -9,5 +9,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Download my CV"
+    url: files/Friedman, Chris - CV.pdf
+
   - title: "Back to my blog"
     url: https://chris-s-friedman.com
