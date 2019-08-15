@@ -1,7 +1,7 @@
 ---
 title: "Expressive Body Capture: 3D Hands, Face, and Body from a Single Image"
 collection: publications
-date: 2019-06
+date: 2019-06-01
 venue: 'IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) 2019'
 paperurl: 'https://smpl-x.is.tue.mpg.de/'
 #category: 'accepted'
