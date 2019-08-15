@@ -4,9 +4,9 @@ collection: publications
 date: 2019-06-01
 venue: 'IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) 2019'
 paperurl: 'https://smpl-x.is.tue.mpg.de/'
+bibtex: '2019-Expressive-Capture.bib'
+teaser: '2019-Expressive-Capture.png'
 #category: 'accepted'
-bibtex: '2019-expressive-capture.bib'
-teaser: '2019-expressive-capture.png'
 ---
 To facilitate the analysis of human actions, interactions and emotions, 
 we compute a 3D model of human body pose, hand pose, and facial expression

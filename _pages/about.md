@@ -8,4 +8,3 @@ The main source of data that I am interested in is monocular videos, images, and
 I attended Tabriz Azad University, Tabriz, Iran for my undergraduate education, where I received a BSc. in Electrical Engineering.
 Afterwards, I attended [Neural Information Processing](https://www.neuroschool-tuebingen.de/master/neural-inf-process/) 
 program at [Graduate Training Centre of Neuroscience](https://www.neuroschool-tuebingen.de/) in Tübingen.
-
