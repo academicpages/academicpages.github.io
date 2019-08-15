@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoli Ma, Georiga Institute of Technology, GA, USA"
+title: "Georiga Institute of Technology, GA, USA"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
