@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 My name is Nima Ghorbani, and I'm a Research Engineer at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/), Tübingen, Germany. 
 I work in the [Perceiving Systems Department](https://www.youtube.com/user/BlackAtBrown) directed by [Michael Black](https://ps.is.tuebingen.mpg.de/person/black).
 My research primarily focuses on human body in motion. 
