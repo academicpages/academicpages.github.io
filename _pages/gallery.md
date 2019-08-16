@@ -1,6 +1,6 @@
 ---
 permalink: /gallery/
-title: "Gallery"
+title: "Photography"
 author_profile: false
 redirect_from: 
   - /gallery.html
@@ -8,8 +8,16 @@ redirect_from:
   - /photos.html
   - /photo/
   - /photo.html
+  - /photography/
+  - /photography.html
 header:
   image: headers/voelki_header02.jpg
+
+street_gallery:
+  - url: images/gallery/two_nights_LE_k.jpg
+    image_path: images/gallery/two_nights_LE_c.jpg
+    alt: "Two Nights, Leipzig, Germany"
+    title: "Two Nights, Leipzig, Germany"
 
 aerial_gallery:
   - url: images/gallery/voelki01_k.jpg
@@ -73,6 +81,10 @@ aerial_gallery:
 
 ## Aerial Photography
 {% include gallery id="aerial_gallery" layout="third" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
+
+## Street Photography
+{% include gallery id="street_gallery" layout="half" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
+
 
 
 
