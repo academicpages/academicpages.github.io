@@ -107,6 +107,46 @@
   }
 }
 
+/*
+   MyList view
+   ========================================================================== */
+
+.mylist__item {
+  display: inline-block;
+  padding-bottom: 20px;
+  padding-top: 20px;
+
+  @include breakpoint($medium) {
+    padding-right: $right-sidebar-width-narrow;
+  }
+
+  @include breakpoint($large) {
+    padding-right: $right-sidebar-width;
+  }
+
+  @include breakpoint($x-large) {
+    padding-right: $right-sidebar-width-wide;
+  }
+
+  .page__meta {
+    margin: 0 0 4px;
+  }
+
+  .mylist__item-teaser {
+    width: 30%;
+    float: left;
+  }
+
+  .mylist__item-text {
+    width: 65%;
+    float: left;
+    margin-left: 5%;
+  }
+
+  .archive__item-title {
+    margin-top: 0.0em;
+  }
+}
 
 /*
    Grid view
