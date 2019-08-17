@@ -6,7 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<h3>Please select the portfolio to view:<h3>
+  <select onchange="myfunction()>
+    <option value="econ">Research and Coding Portfolio</option>
+    <option value="art">Art and Design Portfolio</option>
+  </select>
+  
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
