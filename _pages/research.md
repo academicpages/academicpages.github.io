@@ -9,7 +9,7 @@ permalink: /research/
 ## Research
 
 **Interpretable Image Recognition with Hierarchical Prototypes**  
-*In HCOMP 2019.* [[pdf]](https://arxiv.org/abs/1906.10651)  
+*In AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/abs/1906.10651)  
 Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin  
 
 
