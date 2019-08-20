@@ -11,7 +11,7 @@ redirect_from:
   - /photography/
   - /photography.html
 header:
-  image: headers/voelki_header02.jpg
+  image: headers/voelki_header03.jpg
 
 street_gallery:
   - url: images/gallery/two_nights_LE_k.jpg
