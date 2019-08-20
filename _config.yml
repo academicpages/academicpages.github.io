@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enrico Macholdt's webpage"
+title                    : "Enrico Macholdt"
 title_separator          : "-"
 name                     : &name "Enrico Macholdt"
 description              : &description "Computational Genomics and Human Population Histroy | Game Dev | Maker"
