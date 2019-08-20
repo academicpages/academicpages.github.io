@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Enrico Macholdt's webpage"
 title_separator          : "-"
-name                     : &name "Enrico Macholdt's webpage"
+name                     : &name "Enrico Macholdt"
 description              : &description "Computational Genomics and Human Population Histroy | Game Dev | Maker"
 url                      : https://enricomacholdt.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
