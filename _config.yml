@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kazi Aminul Islam"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "I am a PhD student of Old Dominion University, Norfolk VA USA. My research is focused on machine learning and deep learning"
+  location         : "Norfolk VA USA"
+  employer         :"Old Dominion University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=ZToNwWcAAAAJ&hl=en"
+  email            :kisla001@odu.edu
+  researchgate     :  "https://www.researchgate.net/profile/Kazi_Aminul_Islam"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
