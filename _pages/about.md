@@ -33,7 +33,9 @@ verifiably correct and scalable distributed database applications.
       [Conditionally Accepted to OOPSLA'19]
     </a>
       <br/>
-      [pre-print comming out soon!]
+      <a href="https://arxiv.org/pdf/1908.05655.pdf">
+      [pre-print]
+      </a>
     </font>
     </li>
 </ul>
