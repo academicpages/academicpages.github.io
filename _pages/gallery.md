@@ -80,7 +80,7 @@ aerial_gallery:
 
 
 ## Aerial Photography
-{% include gallery id="aerial_gallery" layout="half" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
+{% include gallery id="aerial_gallery" layout="half" %}
 
 ## Street Photography
 {% include gallery id="street_gallery" layout="half" caption="Image and Video Copyright © Enrico Macholdt. All Rights Reserved" %}
