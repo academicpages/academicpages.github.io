@@ -5,12 +5,22 @@ permalink: /portfolio/
 author_profile: true
 ---
 {% include base_path %}
-<h5>Please select the portfolio to view:<h5>
-  <select>
+<h5>Please select the portfolio to view:
+  <select id="selection" onChange="newpage()">
     <option value="econ">Research and Coding Portfolio</option>
     <option value="art">Art and Design Portfolio</option>
   </select>
+</h5>
+
+<script>
+function newpage() {
+  var x = document.getElementById("selection");
   
+  if(x == "econ"){window.location.href = "https://erica-ryan.github.io/portfolio/econ/";}
+  else if(x == "art"){window.location.href = "https://erica-ryan.github.io/portfolio/art/";}
+  else{window.location.href = "https://erica-ryan.github.io/portfolio/art/";}
+}
+</script>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
