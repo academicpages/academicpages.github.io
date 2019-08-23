@@ -16,10 +16,13 @@ author_profile: true
 <script>
 function newpage() {
   var x = document.getElementById("selection");
-  
-  if(x == "econ"){window.location.href = "https://erica-ryan.github.io/portfolio/econ/";}
-  else if(x == "art"){window.location.href = "https://erica-ryan.github.io/portfolio/art/";}
-  else{window.location.href = "https://erica-ryan.github.io/portfolio/art/";}
+  alert("You entered: " + x.value)
+  if(x.value == "econ")
+    window.location.href = "https://erica-ryan.github.io/portfolio/econ/"
+  else if(x.value == "art")
+    window.location.href = "https://erica-ryan.github.io/portfolio/art/";
+  else
+    window.location.href = "https://erica-ryan.github.io/portfolio/";
 }
 </script>
 
