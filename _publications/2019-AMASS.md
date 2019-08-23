@@ -4,7 +4,7 @@ authors: 'Naureen Mahmood (Meshcapade GmbH), Nima Ghorbani (MPI for Intelligent 
 venue: 'IEEE International Conference on Computer Vision (ICCV) 2019'
 date: 2019-10-01
 category: 'accepted'
-pdf: 'https://arxiv.org/abs/1904.03278'
+pdf: 'http://files.is.tue.mpg.de/black/papers/amass.pdf'
 teaser: '2019-AMASS.png'
 bibtex: '2019-AMASS.bib'
 permalink: /publication/2019-AMASS
