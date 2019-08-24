@@ -6,31 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 <h5>Please select the portfolio to view:</h5>
-  <select id="selection" onChange="newpage()">
-    <option disabled selected value> -- select an option -- </option>
-    <option value="econ">Research and Coding Portfolio</option>
-    <option value="art">Art and Design Portfolio</option>
-  </select>
-
-
 <select onchange="location = this.options[this.selectedIndex].value;">
     <option disabled selected value> -- select an option -- </option>
     <option value="https://erica-ryan.github.io/portfolio/econ/">Research and Coding Portfolio</option>
     <option value="https://erica-ryan.github.io/portfolio/art/">Art and Design Portfolio</option>
 </select>
-
-
-<script>
-function newpage() {
-  var x = document.getElementById("selection");
-  if(x.value == "econ")
-    window.location.href = "https://erica-ryan.github.io/portfolio/econ/"
-  else if(x.value == "art")
-    window.location.href = "https://erica-ryan.github.io/portfolio/art/";
-  else
-    window.location.href = "https://erica-ryan.github.io/portfolio/";
-}
-</script>
 
 <p>test2</p>
 
