@@ -13,6 +13,13 @@ author_profile: true
   </select>
 
 
+<select onchange="location = this.options[this.selectedIndex].value;">
+    <option disabled selected value> -- select an option -- </option>
+    <option value="https://erica-ryan.github.io/portfolio/econ/">Research and Coding Portfolio</option>
+    <option value="https://erica-ryan.github.io/portfolio/art/">Art and Design Portfolio</option>
+</select>
+
+
 <script>
 function newpage() {
   var x = document.getElementById("selection");
