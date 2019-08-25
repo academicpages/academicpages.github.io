@@ -184,6 +184,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  portfolioart:
+    output: true
+    permalink: /:collection/:path/
+  portfolioecon:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +237,24 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolioecon
+  - scope:
+      path: ""
+      type: portfolioecon
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolioart
+  - scope:
+      path: ""
+      type: portfolioart
     values:
       layout: single
       author_profile: true
