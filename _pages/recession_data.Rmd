@@ -2,9 +2,6 @@
 title: "Recession Data"
 output: html_document
 runtime: shiny
-layout: archive
-permalink: /recession_data_2019/
-author_profile: true
 ---
 
 ```{r setup, include=FALSE}
