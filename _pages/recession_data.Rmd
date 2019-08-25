@@ -2,6 +2,9 @@
 title: "Recession Data"
 output: html_document
 runtime: shiny
+layout: archive
+permalink: /portfolio/econ/
+author_profile: true
 ---
 
 ```{r setup, include=FALSE}
