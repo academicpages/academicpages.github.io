@@ -1,6 +1,6 @@
 ---
-title: "Recession Data"
-output: html_notebook
+title: "recession"
+output: html_document
 runtime: shiny
 ---
 
@@ -28,14 +28,6 @@ renderPlot({
   test<-data%>%filter(!is.na(data[[input$var]]))
   ggplot(test, aes(x=Date, y=test[[input$var]]))+geom_line()
   })
-
-
-
-
-
-
-
-
 
 ```
 
