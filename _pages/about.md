@@ -17,10 +17,10 @@ Research Interests
 * **Natural Language Processing and Text Mining**  
 Stance Analysis and Opinion Mining
 * **Social Media Analytics**  
-Rumor Veracity Prediction
+Rumor Veracity Prediction  
+  
+  
 <br/>
-  
-  
 Publications
 ======
 * Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity.  
