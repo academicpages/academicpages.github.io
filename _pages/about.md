@@ -19,8 +19,8 @@ Stance Analysis and Opinion Mining
 * **Social Media Analytics**  
 Rumor Veracity Prediction  
   
-  
 <br/>
+
 Publications
 ======
 * Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity.  
