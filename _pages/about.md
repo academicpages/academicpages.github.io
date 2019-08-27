@@ -31,11 +31,11 @@ Publications
 * Modeling Transferable Topics for Cross-Target Stance Detection.     
 **Penghui Wei** and Wenji Mao.  
 *In Proc. of SIGIR 2019*, pages 1173--1176.  
-<span style="background-color: #E0FFFF">Hierarchical Multitask Learning</span> <span style="background-color: #E0FFFF">Neural Variational Inference</span>
+<span style="background-color: #E0FFFF">Transfer Learning</span> <span style="background-color: #E0FFFF">Neural Variational Inference</span>
 * A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection.    
 **Penghui Wei**, Wenji Mao, Guandan Chen.  
 *In Proc. of AAAI 2019*, pages 7249--7256.  
-<span style="background-color: #E0FFFF">Weakly Supervised Learning</span> <span style="background-color: #E0FFFF">Reinforcement Learning</span > <span style="background-color: #E0FFFF">Multi-Head Attention</span>
+<span style="background-color: #E0FFFF">Reinforcement Learning</span > <span style="background-color: #E0FFFF">Multi-Head Attention</span>
 * Muitl-Target Stance Detection via a Dynamic Memory-Augmented Network.       
 **Penghui Wei**, Junjie Lin, Wenji Mao.  
 *In Proc. of SIGIR 2018*, pages 1229--1232.  
