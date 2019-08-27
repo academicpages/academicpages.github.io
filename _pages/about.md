@@ -17,7 +17,7 @@ Research Interests
 My research targets at developing computational methods to analyze and mine socially-generated contents. Currently, I focus on the following areas:
 * **Natural Language Processing and Text Mining**  
 Stance Analysis and Opinion Mining
-* **Social Media Analytics**  
+* **Social Media Analytics and Social Computing**  
 Rumor Veracity Prediction  
   
 <br/>
@@ -27,18 +27,23 @@ Publications
 * Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity.  
 **Penghui Wei**, Nan Xu, Wenji Mao.  
 *To appear in EMNLP-IJCNLP 2019*.
+<span style="background-color: #E0FFFF">Hierarchical Multitask Learning</span> <span style="background-color: #E0FFFF">Graph Convolution</span>
 * Modeling Transferable Topics for Cross-Target Stance Detection.     
 **Penghui Wei** and Wenji Mao.  
 *In Proc. of SIGIR 2019*, pages 1173--1176.
+<span style="background-color: #E0FFFF">Hierarchical Multitask Learning</span> <span style="background-color: #E0FFFF">Neural Variational Inference</span>
 * A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection.    
 **Penghui Wei**, Wenji Mao, Guandan Chen.  
 *In Proc. of AAAI 2019*, pages 7249--7256.
+<span style="background-color: #E0FFFF">Weakly Supervised Learning</span> <span style="background-color: #E0FFFF">Reinforcement Learning</span > <span style="background-color: #E0FFFF">Multi-Head Attention</span>
 * Muitl-Target Stance Detection via a Dynamic Memory-Augmented Network.       
 **Penghui Wei**, Junjie Lin, Wenji Mao.  
 *In Proc. of SIGIR 2018*, pages 1229--1232.
+<span style="background-color: #E0FFFF">Multitask Learning</span> <span style="background-color: #E0FFFF">Memory-Augmented Neural Network</span>
 * A Target-Guided Neural Memory Model for Stance Detection in Twitter.     
 **Penghui Wei**, Wenji Mao, Daniel Zeng.  
 *In Proc. of IJCNN 2018*, pages 2068--2075.  
+<span style="background-color: #E0FFFF">Memory Network</span>
 <br/>
   
   
