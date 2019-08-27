@@ -35,7 +35,7 @@ Publications
 * Muitl-Target Stance Detection via a Dynamic Memory-Augmented Network.    
 **Penghui Wei**, Junjie Lin, Wenji Mao.  
 *In Proc. of SIGIR 2018*, pages 1229--1232.
-* A Target-Guided Neural Memory Model for Stance Detection in Twitter.    
+* A Target-Guided Neural Memory Model for Stance Detection in Twitter. [[pdf]](https://Determined22.github.io/files/A%20Target-Guided%20Neural%20Memory%20Model%20for%20Stance%20Detection%20in%20Twitter.pdf)   
 **Penghui Wei**, Wenji Mao, Daniel Zeng.  
 *In Proc. of IJCNN 2018*, pages 2068--2075.  
 <br/>
