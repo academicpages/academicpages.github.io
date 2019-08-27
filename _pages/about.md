@@ -44,7 +44,7 @@ Publications
   
 Education
 ======
-* **Sep. 2016 - now.** Ph.D. Student, Majored in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
+* **Sep. 2016 - now.** Ph.D. Student, Major in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
 * **Sep. 2012 - Jul. 2016.** B.Eng., Department of Automation, [Wuhan University](https://en.whu.edu.cn/), Wuhan, China. GPA: 3.9/4.0 (Rank: 1st).
 * **Sep. 2009 - Jul. 2012.** [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School), Tianjin, China.  
 <br/>
