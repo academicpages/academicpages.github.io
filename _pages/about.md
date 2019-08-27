@@ -14,8 +14,8 @@ I am a Postdoctoral Research Associate at the [Andlinger Center for Energy and t
 Details
 ======
 
-More info
-------
+[//] # More info
+[//] # ------
 I work on a set of diverse problems with a set of amazing people.
 
 **Climate agreements**
@@ -24,9 +24,13 @@ One of the most prominent examples revolving around opposing self- and collectiv
 These studies contribute strong base models and tools to tackle the complexity of the management of public goods. With their construction, I have employed not only analytical and numerical tools but I have also used large-scale simulations to validate and expand those models. Notwithstanding, novel questions emerge from the work developed so far, which require interplay between the decision-making dynamics and the dynamics of goods and resources, a key feature in any social-ecological system.
 
 [1] Vítor V. Vasconcelos, Francisco C. Santos and Jorge M. Pacheco, A bottom-up institutional approach to cooperative governance of risky commons, (2013) Nature Climate Change, 3 (9) pp. 797-801
+
 [2] Vítor V. Vasconcelos, Francisco C. Santos, Jorge M. Pacheco and Simon A. Levin, Climate Policies under Wealth Inequality, (2014) Proceedings of the National Academy of Sciences (PNAS), 111 (6) p2212-2216 
+
 [3] Phillip M. Hannam, Vítor V. Vasconcelos, Simon. A. Levin, Jorge M. Pacheco, Incomplete cooperation and co-benefits, (2015) Climatic Change, 1-15, Springer
+
 [4] Vítor V. Vasconcelos, Phillip M. Hannam, Simon. A. Levin, Jorge M. Pacheco, Coalition-structured governance improves cooperation to provide public goods, (2019) In review.
+
 [5] Vítor V. Vasconcelos, Astrid Dannenberg, and Simon A. Levin. The endogenous origin of institutions to promote cooperation: the effects of scale, information, and remembering the past. (2019) In preparation
 
 
@@ -48,7 +52,9 @@ Complementarily, with Prof. of agroecology Theresa Ong, we are addressing this i
 
 The Coral Triangle reef system (CT) is the epicenter of marine biodiversity and one of the most threatened ecosystems in the world. To assess the reef- and network-scale response of corals to thermal perturbation in this region, in a work lead by theoretical ecologist Dr. Lisa C. McManus, we have developed a spatially explicit metacommunity model based on coral-algal competition coupled with seasonal larval dispersal. With this model, we have explored the sensitivity of the CT system to a range of future temperature regimes, from 0.5 to 2.0 degree C increase in the system by 2054. Time to reef collapse and total change in percent coral cover varied widely across the region, in response to this warming, with some reefs experiencing local extinction while others remaining virtually unchanged. The magnitude of thermal stress as well as recruitment-based metrics are significant drivers of these patterns, signifying the importance of linking ecological processes across multiple spatial scales to fully characterize the resilience of a reef network perturbed by climate change. Additionally, we have explored heat tolerance as a heritable trait throughout the CT to facilitate coral adaptation. We have found that warm-adapted reefs can provide a regional protective effect against bleaching-related mortality through larval connectivity. Last, the interaction between intra- and inter-patch processes under different magnitudes of thermal stress can be complex and nuanced, resulting in counterintuitive coral cover trajectories. This framework can be extended to accommodate a wide array of life history characteristics that can further elucidate the adaptive capacity of corals.
 
+
 [] Lisa McManus, James R. Watson, Vítor V. Vasconcelos, Simon A. Levin, Stability and Recovery of Coral-algae Systems: the Importance of Recruitment Seasonality and Grazing Influence (2018) Theoretical Ecology, p1-12
+
 [] Lisa C. McManus, Vítor V. Vasconcelos, Simon A. Levin, DM Thompson, JÁ Kleypas, FS Castruccio, EN Curchitser, James R Watson. Ecological implications of thermal stress and larval connectivity in the Coral Triangle (2019) Submitted
 
 
@@ -60,6 +66,3 @@ To different degrees, RE and FF energy industries deeply influence natural syste
 In response to these challenges, we propose to integrate a cross-disciplinary exploration involving political science, other applied social and behavioral science, and environmental science.  Our purpose is to expand and deepen our understanding of pathways to decarbonization supported by users, while understanding the impact in human populations and in their use of natural resources.
 
 This work is just happening, and I count with the collaboration of an increadibly diverse team. 
-
-
-
