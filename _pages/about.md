@@ -24,7 +24,7 @@ Rumor Veracity Prediction
 
 Publications
 ======
-* Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity.    
+* Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity. <span style="background-color: #E0FFFF">New</span>  <span style="background-color: #E0FFFF">GCN</span>    
 **Penghui Wei**, Nan Xu, Wenji Mao.  
 *To appear in EMNLP-IJCNLP 2019*.
 * Modeling Transferable Topics for Cross-Target Stance Detection.     
