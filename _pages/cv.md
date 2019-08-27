@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-this page is not complete...
+
 
 Education
 ======
