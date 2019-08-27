@@ -23,16 +23,16 @@ Rumor Veracity Prediction
 
 Publications
 ======
-* Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity.  
+* Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity. [[pdf]] 
 **Penghui Wei**, Nan Xu, Wenji Mao.  
 *To appear in EMNLP-IJCNLP 2019*.
-* Modeling Transferable Topics for Cross-Target Stance Detection.  
+* Modeling Transferable Topics for Cross-Target Stance Detection. [[pdf]](https://Determined22.github.io/files/Modeling%20Transferable%20Topics%20for%20Cross-Target%20Stance%20Detection.pdf)  
 **Penghui Wei** and Wenji Mao.  
 *In Proc. of SIGIR 2019*, pages 1173--1176.
-* A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection.  
+* A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection. [[pdf]](https://Determined22.github.io/files/A%20Topic-Aware%20Reinforced%20Model%20for%20Weakly%20Supervised%20Stance%20Detection.pdf)  
 **Penghui Wei**, Wenji Mao, Guandan Chen.  
 *In Proc. of AAAI 2019*, pages 7249--7256.
-* Muitl-Target Stance Detection via a Dynamic Memory-Augmented Network.    
+* Muitl-Target Stance Detection via a Dynamic Memory-Augmented Network. [[pdf]](https://Determined22.github.io/files/Multi-Target%20Stance%20Detection%20via%20a%20Dynamic%20Memory-Augmented%20Network.pdf)    
 **Penghui Wei**, Junjie Lin, Wenji Mao.  
 *In Proc. of SIGIR 2018*, pages 1229--1232.
 * A Target-Guided Neural Memory Model for Stance Detection in Twitter. [[pdf]](https://Determined22.github.io/files/A%20Target-Guided%20Neural%20Memory%20Model%20for%20Stance%20Detection%20in%20Twitter.pdf)   
