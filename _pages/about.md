@@ -14,6 +14,7 @@ Hi! I am now a third-year Ph.D. student at the [Institute of Automation, Chinese
   
 Research Interests
 ======
+My research targets at developing computational methods to analyze and mine socially-generated contents. Currently, I focus on the following areas:
 * **Natural Language Processing and Text Mining**  
 Stance Analysis and Opinion Mining
 * **Social Media Analytics**  
