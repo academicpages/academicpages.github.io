@@ -14,8 +14,8 @@ I am a Postdoctoral Research Associate at the [Andlinger Center for Energy and t
 Details
 ======
 
-[//] # More info
-[//] # ------
+[//]: # More info
+[//]: # ------
 I work on a set of diverse problems with a set of amazing people.
 
 **Climate agreements**
