@@ -29,7 +29,7 @@ These studies contribute strong base models and tools to tackle the complexity o
 
 [3] Phillip M. Hannam, Vítor V. Vasconcelos, Simon. A. Levin, Jorge M. Pacheco, Incomplete cooperation and co-benefits, (2015) Climatic Change, 1-15, Springer
 
-[4] Vítor V. Vasconcelos, Phillip M. Hannam, Simon. A. Levin, Jorge M. Pacheco, Coalition-structured governance improves cooperation to provide public goods, (2019) In review.
+[4] Vítor V. Vasconcelos, Phillip M. Hannam, Simon. A. Levin, Jorge M. Pacheco, Coalition-structured governance improves cooperation to provide public goods, (2019) In review
 
 [5] Vítor V. Vasconcelos, Astrid Dannenberg, and Simon A. Levin. The endogenous origin of institutions to promote cooperation: the effects of scale, information, and remembering the past. (2019) In preparation
 
