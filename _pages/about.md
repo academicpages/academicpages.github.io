@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h1> Erica Ryan </h1>
 <hr>
-<p>Bridging economics, finance, computer science, and design is at the core of all of my projects.  In 2018 I graduated from the University of Maryland with a Bachelor of Science in Economics and a Bachelor of Arts in Studio Art. The breadth of my studies have provided me with the analytical and creative skills needed to succeed in my current role as a Quantitative Analyst for Fannie Mae in the Model Risk Management group. </p>
+<p>Bridging economics, finance, coding, and design is at the core of all of my projects.  In 2018 I graduated from the University of Maryland with a Bachelor of Science in Economics and a Bachelor of Arts in Studio Art. The breadth of my studies have provided me with the analytical and creative skills needed to succeed in my current role as a Quantitative Analyst for Fannie Mae in the Model Risk Management group. </p>
 
 <p>In my current role, I review models across the single family mortgage business including cash flow models and behavioral models for mortgage outcomes. I am also studying trends in macroeconomic indicators leading up to and during recessions in order to better understand how stress scenarios impact borrower behavior. In the future, I'd like to study financial literacy, household decision making, poverty, and housing policy in hopes of providing insights that can help guide policy decisions.</p>
 
