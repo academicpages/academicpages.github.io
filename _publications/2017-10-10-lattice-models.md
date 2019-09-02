@@ -6,6 +6,7 @@ excerpt: 'Book contribution about lattice based models for biological processes 
 date: 2017-10-10
 venue: 'Numerical Methods and Advanced Simulation in Biomechanics and Biological Processes'
 paperurl: 'https://doi.org/10.1016/B978-0-12-811718-7.00012-5'
+citation: 'Drasdo, D., Buttenschön, A. and Van Liedekerke, P., 2018. Agent-based lattice models of multicellular systems: numerical methods, implementation, and applications. In <i>Numerical Methods and Advanced Simulation in Biomechanics and Biological Processes</i> (pp. 223-238). Academic Press.'
 ---
 
 **Abstract:**

@@ -6,6 +6,7 @@ excerpt: 'Book contribution about off-lattice based models for biological proces
 date: 2017-10-11
 venue: 'Numerical Methods and Advanced Simulation in Biomechanics and Biological Processes'
 paperurl: 'http://doi.org/10.1016/B978-0-12-811718-7.00014-9'
+citation: 'Van Liedekerke, P., Buttenschön, A. and Drasdo, D., 2018. Off-lattice agent-based models for cell and tumor growth: numerical methods, implementation, and applications. In Numerical Methods and Advanced Simulation in Biomechanics and Biological Processes (pp. 245-267). Academic Press.'
 ---
 
 **Abstract:** Lattice-free agent-based models (ABMs) of multicellular systems are mathematical
