@@ -30,8 +30,8 @@ verifiably correct and scalable distributed database applications.
       (Kia Rahmani, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
     </font> <br /> <font size="2">
     <a href="https://2019.splashcon.org/track/splash-2019-oopsla"> 
-      [OOPSLA'19: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]
-    </a>
+      [OOPSLA'19: ACM Conference on Object-Oriented Programming, Languages,
+      Systems, and Applications]</a>
       <br/>
       <a href="https://arxiv.org/pdf/1908.05655.pdf">
       [Preprint]
@@ -51,8 +51,8 @@ verifiably correct and scalable distributed database applications.
     <br />
     <font size="2">
     <a href= "https://dl.acm.org/citation.cfm?id=3194267"> 
-      [PaPoC'18: Workshop on the Principles and Practice of Consistency for Distributed Data]
-    </a >
+      [PaPoC'18: Workshop on the Principles and Practice of Consistency for
+      Distributed Data]</a >
     <font size="1"> <br /> </font>
    <a href="http://docs.lib.purdue.edu/cstech/1780/">
      [Tech Report]
