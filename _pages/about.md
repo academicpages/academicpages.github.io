@@ -24,7 +24,7 @@ appropriate for specific levels of detail. For example, differential equations
 cell populations, when individual details are less important. I refer to such
 descriptions as <i>continuum models (CMs)</i>. On the other hand, to track
 the motion, behaviour, or forces produced by individual cells, a more detailed
-computational framework is needed: here, each cell is describedescribed at a finer
+computational framework is needed: here, each cell is described at a finer
 level of detail. I refer to such models as <i>cell-based models (CBMs)</i>.
 
 Traditional continuum models (partial differential equations, PDEs) are based on
