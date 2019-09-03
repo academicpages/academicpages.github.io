@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2018 - present: Post-doctoral Fellow
+* 2018 - present: NSERC Post-doctoral Fellow
   * University of British Columbia
   * Supervisor: Drs. [Leah Edelstein-Keshet](https://www.math.ubc.ca/~keshet/keshet.html) and [Michael Ward](https://www.math.ubc.ca/~ward/)
 
@@ -40,15 +40,28 @@ Service and leadership
 * Organizer of the BIRS workshop "Bridging Cellular and Tissue Dynamics from
 Normal Development to Cancer: Mathematical, Computational, and Experimental
 Approaches" (19w5080). 
+  * Co-organizers: Dr. Elisabeth Rens, Dr. Leah Edelstein-Keshet.
   * Details can be found on the [BIRS webpage](https://www.birs.ca/events/2019/5-day-workshops/19w5080).
   * Videos from the event can be found [here](https://www.birs.ca/events/2019/5-day-workshops/19w5080/videos).
 
 * Chairman of the "Developmental Biology" [SMB-subgroup](https://www.smb.org/subgroups/). We organize an annual
 minisymposium at the annual meeting of the Society of Mathematical Biology.
+  * Co-organizer: Dr. Leah Edelstein-Keshet.
+
+* Organizer of the session "Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour
+in Cells" at the Canadian Mathematical Society Winter Meeting (2018), Vancouver, Canada.
 
 * 2014 - 2017 Member of the [Society in Graduate Mathematics and Statistics](http://sigmas.math.ualberta.ca/):
   * 2017 president.
   * 2014-15, 2016-17 Applied Mathematics student department council representative.
   * 2014-2017 webmaster.
 
-[Download full CV here](http://)
+
+Awards
+========
+
+* Faculty of Science (University of Alberta) [Dissertation Award](https://www.ualberta.ca/science/about-us/awards-and-accolades/graduate-award-winners), 2018.
+
+
+
+
