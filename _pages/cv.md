@@ -37,6 +37,12 @@ Publications
   
 Service and leadership
 ======
+* Organizer of the BIRS workshop "Bridging Cellular and Tissue Dynamics from
+Normal Development to Cancer: Mathematical, Computational, and Experimental
+Approaches" (19w5080). 
+  * Details can be found on the [BIRS webpage](https://www.birs.ca/events/2019/5-day-workshops/19w5080)
+  * Videos from the event can be found [here](https://www.birs.ca/events/2019/5-day-workshops/19w5080/videos)
+
 * 2014 - 2017 Member of the Society in Graduate Mathematics and Statistics
   * 2017 president
   * 2014-15, 2016-17 Applied Mathematics student department council representative
