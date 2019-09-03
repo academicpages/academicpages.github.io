@@ -15,6 +15,12 @@ Education
 * B.S.H in Appled Mathematics, University of Alberta, 2013
 * Ph.D in Applied Mathematics (Mathematical Biology), University of Alberta, 2017
 
+Other-Education
+======
+* Project Management Principles and Practice Level 1 & 2, University of Alberta,
+  Faculty of Extension, 2011. 
+*  Graduate Teaching and Learning Program Level 3, University of Alberta, 2017.
+
 Work experience
 ======
 * 2018 - present: NSERC Post-doctoral Fellow
@@ -25,9 +31,17 @@ Work experience
   * University of Alberta
   * Supervisor: [Dr. Thomas Hillen](https://www.math.ualberta.ca/~thillen/)
 
-* December 2015 - June 2016: Internship at the Multicellular Systems Biology group of Dirk Drasdo
+* December 2015 - June 2016: MITACS-Internship at the Multicellular Systems Biology group of Dirk Drasdo
   * INRIA-Paris: Team [MAMBA](https://team.inria.fr/mamba/)
   * Supervisor: [Dr. Dirk Drasdo](http://ms.izbi.uni-leipzig.de/)
+
+* May 2013 - August 2013: NSERC Undergraduate Summer Research Student
+  * University of Alberta
+  * Supervisor: Dr. Thomas Hillen
+
+* 2011: UA-HAB (University of Alberta High Altitude Balloon)
+  * University of Alberta
+  * Supervisors: Dr. Ian Mann and Dr. Laura Mazzino
   
 Publications
 ======
@@ -61,6 +75,34 @@ Awards
 ========
 
 * Faculty of Science (University of Alberta) [Dissertation Award](https://www.ualberta.ca/science/about-us/awards-and-accolades/graduate-award-winners), 2018.
+* Poster Award at the annual meeting of the Society of Mathematical Biology, 2017.
+
+Scholarships
+=======
+
+* NSERC post-doctoral fellowship, 2018.
+* Dr. Josephine M. Mitchell Scholarship, 2017.
+* Dean's Excellence Award, 2017.
+* Queen Elizabeth II Award, 2017.
+* Alberta Innovates Technology Futures Graduate Student Scholarship, 2015.
+* MITACS Globalink Research Award Abroad - INRIA, 2015.
+* PIMS Graduate Scholarship, 2015.
+* Walter H. Johns Graduate Fellowship, 2014.
+* Alberta Innovates Technology Futures Top-Up Award, 2014.
+* NSERC Graduate Scholarship Master's, 2014.
+* FGSR Travel Award to present to YRC 2014.
+* Queen Elizabeth II (Masters) scholarship, 2013.
+* Phi Gamma Delta Education Foundations’ Graduate Fellowship, 2013.
+* NSERC Undergraduate Research Award, 2013.
+* Dean’s Honor Roll, University of Alberta, 2010-13.
+* T4K Undergraduate Scholarships, 2012.
+* Phi Gamma Delta Educational Foundation, $1000 annual scholarship for leadership, community involvement and academic achievement, 2012.
+* Jason Lang Scholarship (Government of Alberta), 2010, 2011, 2012.
+* A University of Alberta Undergraduate Scholarship, 2010, 2011.
+* Phi Gamma Delta Ed. Foundation, Academic Achievement Award (AAA), 2011.
+* A University of Alberta Academic Excellence Scholarship, 2009.
+* A Faculty of Science Academic Excellence Scholarship, 2009.
+
 
 
 
