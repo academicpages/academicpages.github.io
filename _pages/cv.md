@@ -19,15 +19,15 @@ Work experience
 ======
 * 2018 - present: Post-doctoral Fellow
   * University of British Columbia
-  * Supervisor: Drs. Leah Edelstein-Keshet and Michael Ward
+  * Supervisor: Drs. [Leah Edelstein-Keshet](https://www.math.ubc.ca/~keshet/keshet.html) and [Michael Ward](https://www.math.ubc.ca/~ward/)
 
 * 2014 - 2017: Doctoral Researcher
   * University of Alberta
-  * Supervisor: Dr. Thomas Hillen
+  * Supervisor: [Dr. Thomas Hillen](https://www.math.ualberta.ca/~thillen/)
 
 * December 2015 - June 2016: Internship at the Multicellular Systems Biology group of Dirk Drasdo
-  * INRIA-Paris
-  * Supervisor: Dr. Dirk Drasdo
+  * INRIA-Paris: Team [MAMBA](https://team.inria.fr/mamba/)
+  * Supervisor: Dr. [Dirk Drasdo](http://ms.izbi.uni-leipzig.de/)
   
 Publications
 ======
