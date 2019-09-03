@@ -18,8 +18,8 @@ Education
 Other-Education
 ======
 * Project Management Principles and Practice Level 1 & 2, University of Alberta, Faculty of Extension, 2011. 
-* Graduate Teaching and Learning Program Level 3, University of Alberta, 2017.
-* Math Instructional Skills Workshop (ISW), UBC, 2018.
+* [Graduate Teaching and Learning Program Level 3](https://www.ualberta.ca/graduate-studies/professional-development/graduate-teaching-and-learning-program/gtl-level3), University of Alberta, 2017.
+* [Math Instructional Skills Workshop (ISW)](https://www.math.ubc.ca/~fsl/ISW.html), UBC, 2018.
 * Industry Canada Basic(+) Certificate of proficiency in Amateur Radio.
 
 Work experience
