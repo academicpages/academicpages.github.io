@@ -46,7 +46,7 @@ Approaches" (19w5080).
 * Chairman of the "Developmental Biology" [SMB-subgroup](https://www.smb.org/subgroups/). We organize an annual
 minisymposium at the annual meeting of the Society of Mathematical Biology.
 
-* 2014 - 2017 Member of the Society in Graduate Mathematics and Statistics:
+* 2014 - 2017 Member of the [Society in Graduate Mathematics and Statistics](http://sigmas.math.ualberta.ca/):
   * 2017 president.
   * 2014-15, 2016-17 Applied Mathematics student department council representative.
   * 2014-2017 webmaster.
