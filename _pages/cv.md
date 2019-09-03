@@ -27,7 +27,7 @@ Work experience
 
 * December 2015 - June 2016: Internship at the Multicellular Systems Biology group of Dirk Drasdo
   * INRIA-Paris: Team [MAMBA](https://team.inria.fr/mamba/)
-  * Supervisor: Dr. [Dirk Drasdo](http://ms.izbi.uni-leipzig.de/)
+  * Supervisor: [Dr. Dirk Drasdo](http://ms.izbi.uni-leipzig.de/)
   
 Publications
 ======
