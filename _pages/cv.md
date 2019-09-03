@@ -43,7 +43,7 @@ Approaches" (19w5080).
   * Details can be found on the [BIRS webpage](https://www.birs.ca/events/2019/5-day-workshops/19w5080).
   * Videos from the event can be found [here](https://www.birs.ca/events/2019/5-day-workshops/19w5080/videos).
 
-* Chair-men of the "Developmental Biology" [SMB-subgroup](https://www.smb.org/subgroups/). We organize an annual
+* Chairman of the "Developmental Biology" [SMB-subgroup](https://www.smb.org/subgroups/). We organize an annual
 minisymposium at the annual meeting of the Society of Mathematical Biology.
 
 * 2014 - 2017 Member of the Society in Graduate Mathematics and Statistics:
