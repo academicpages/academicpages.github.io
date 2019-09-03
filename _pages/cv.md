@@ -17,9 +17,10 @@ Education
 
 Other-Education
 ======
-* Project Management Principles and Practice Level 1 & 2, University of Alberta,
-  Faculty of Extension, 2011. 
-*  Graduate Teaching and Learning Program Level 3, University of Alberta, 2017.
+* Project Management Principles and Practice Level 1 & 2, University of Alberta, Faculty of Extension, 2011. 
+* Graduate Teaching and Learning Program Level 3, University of Alberta, 2017.
+* Math Instructional Skills Workshop (ISW), UBC, 2018.
+* Industry Canada Basic(+) Certificate of proficiency in Amateur Radio.
 
 Work experience
 ======
@@ -76,6 +77,25 @@ Awards
 
 * Faculty of Science (University of Alberta) [Dissertation Award](https://www.ualberta.ca/science/about-us/awards-and-accolades/graduate-award-winners), 2018.
 * Poster Award at the annual meeting of the Society of Mathematical Biology, 2017.
+
+Languages
+=======
+
+* English, German, French (B1), Italian (B1).
+
+Computer skills
+=======
+
+* **Computer languages**
+  * C/C++11, Python, Swig, Xml, SQL, Shell scripting.
+
+* **Software packages**
+  * Databases using MySQL, and SQLAlchemy.
+  * Administration of Gitolite, apache, samba, bind, dhcp, oscarcanada.
+
+* **Operating Systems**
+  * Administration of Linux (Gentoo, Fedora, Ubuntu, IpFire).
+
 
 Scholarships
 =======
