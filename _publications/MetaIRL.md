@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MetaIRL
 venue: "The 33rd Conference on Neural Information Processing Systems (NeurIPS-2019)"
 date: 2018-4-12
-citation: '<b>Lantao Yu</b>*, Tianhe Yu*, Chelsea Finn, Stefano Ermon. <i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.'
+citation: '<b>Lantao Yu</b>\*, Tianhe Yu\* (equal contribution), Chelsea Finn, Stefano Ermon. <i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.'
 ---
 
 

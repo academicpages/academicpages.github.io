@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MA
 venue: "AAMAS 2018"
 date: 2017-09-14
-citation: '<b>Lantao Yu</b>*, Yaodong Yang*, Yiwei Bai*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.'
+citation: '<b>Lantao Yu</b>\*, Yaodong Yang\*, Yiwei Bai\* (equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.'
 ---  
 [[ArXiv]](https://arxiv.org/pdf/1709.04511.pdf) [[Code]](https://github.com/geek-ai/1m-agents)
 
