@@ -8,7 +8,7 @@ author_profile: true
  
 
 
-<img align="left" width="110" height="110" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="115" height="115" src="http://www.fillmurray.com/100/100">  
 
 &nbsp; **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
 &nbsp; Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
@@ -17,7 +17,7 @@ author_profile: true
 
 ___
 
-<img align="left" width="110" height="110" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="115" height="115" src="http://www.fillmurray.com/100/100">  
 
 **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
 Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
@@ -26,7 +26,7 @@ Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Bes
 
 ___
 
-<img align="left" width="110" height="110" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="115" height="115" src="http://www.fillmurray.com/100/100">  
 
 **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
 Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
@@ -35,7 +35,7 @@ Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Bes
 
 ___
 
-<img align="left" width="110" height="110" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="115" height="115" src="http://www.fillmurray.com/100/100">  
 
 **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
 Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
@@ -44,7 +44,7 @@ Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Bes
 
 ___
 
-<img align="left" width="110" height="110" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="115" height="115" src="http://www.fillmurray.com/100/100">  
 
 **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
 Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
