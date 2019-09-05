@@ -5,8 +5,13 @@ permalink: /fun/
 author_profile: true
 ---
 
-<img src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/images/Fun1.jpg\" width="400" />
 
-<img src="Fun2.jpg\" width="400" />
+<p align="center">
+  <img src="https://yaojieliu.github.io/images/Fun1.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://yaojieliu.github.io/images/Fun2.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
 
