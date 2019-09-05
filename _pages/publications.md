@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
  
- ![#f03c15](Test) `#f03c15`
+ ![Test](https://placehold.it/15/f03c15/000000?text=+)
 
 
 <img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
