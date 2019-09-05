@@ -9,7 +9,7 @@ In my free time I like to play soccer.
 
 ![Picture of my soccer team](../images/IMG_0015.jpeg)
 
-I also wrote a short article about my time backpacking in Europe for one month after graduating from undergrad. Read if you want any recommendations about budgeting, traveling, and food! Or if you're just curious: https://medium.com/@abbylee/back-from-a-month-long-europe-backpacking-trip-44f33ddcaf3e
+I also wrote a [short article](https://medium.com/@abbylee/back-from-a-month-long-europe-backpacking-trip-44f33ddcaf3e) about my time backpacking in Europe for one month after graduating from undergrad. Read if you want any recommendations about budgeting, traveling, and food! Or if you're just curious.
 
 
 I am a huge Game of Thrones fan as well. One of my life goals is to visit all the major Game of Thrones filming sites. 
