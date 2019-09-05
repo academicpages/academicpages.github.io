@@ -8,7 +8,7 @@ author_profile: true
  
 
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="120" height="120" src="http://www.fillmurray.com/100/100">  
 
 **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
 Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
