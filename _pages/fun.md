@@ -5,7 +5,7 @@ permalink: /fun/
 author_profile: true
 ---
 
-![](images/Fun1.jpg)
+<img src="images/Fun1.jpg", width="800">
 
-![](images/Fun2.jpg)
+<img src="images/Fun2.jpg", width="800">
 
