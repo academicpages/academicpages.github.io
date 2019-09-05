@@ -11,6 +11,9 @@ main:
     
   - title: "Personal"
     url: /portfolio/
-    
+   
+  - title: "Fun"
+    url: /fun/
+   
   - title: "Contact"
     url: /contact/
