@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. majoring in Physics and Mathematics, University of Alberta, 2012
-* B.S.H in Applied Mathematics, University of Alberta, 2013
 * Ph.D in Applied Mathematics (Mathematical Biology), University of Alberta, 2017
+* B.S.H in Applied Mathematics with First Class Honors, University of Alberta, 2013
+* B.S. in Physics and Mathematics with Distinction, University of Alberta, 2012
 
 Other-Education
 ======
-* Project Management Principles and Practice Level 1 & 2, University of Alberta, Faculty of Extension, 2011. 
-* [Graduate Teaching and Learning Program Level 3](https://www.ualberta.ca/graduate-studies/professional-development/graduate-teaching-and-learning-program/gtl-level3), University of Alberta, 2017.
 * [Math Instructional Skills Workshop (ISW)](https://www.math.ubc.ca/~fsl/ISW.html), UBC, 2018.
-* Industry Canada Basic(+) Certificate of proficiency in Amateur Radio.
+* [Graduate Teaching and Learning Program Level 3](https://www.ualberta.ca/graduate-studies/professional-development/graduate-teaching-and-learning-program/gtl-level3), University of Alberta, 2017.
+* Industry Canada Basic(+) Certificate of proficiency in Amateur Radio, 2011.
+* Project Management Principles and Practice Level 1 & 2, University of Alberta, Faculty of Extension, 2011. 
 
 Work experience
 ======
@@ -76,6 +76,9 @@ Awards
 
 * Faculty of Science (University of Alberta) [Dissertation Award](https://www.ualberta.ca/science/about-us/awards-and-accolades/graduate-award-winners), 2018.
 * Poster Award at the annual meeting of the Society of Mathematical Biology, 2017.
+* Dean's Excellence Award, 2017.
+* Queen Elizabeth II Award, 2017.
+* FGSR Travel Award to present to YRC 2014.
 
 Languages
 =======
@@ -101,15 +104,12 @@ Scholarships
 
 * NSERC post-doctoral fellowship, 2018.
 * Dr. Josephine M. Mitchell Scholarship, 2017.
-* Dean's Excellence Award, 2017.
-* Queen Elizabeth II Award, 2017.
 * Alberta Innovates Technology Futures Graduate Student Scholarship, 2015.
-* MITACS Globalink Research Award Abroad - INRIA, 2015.
 * PIMS Graduate Scholarship, 2015.
-* Walter H. Johns Graduate Fellowship, 2014.
+* MITACS Globalink Research Award Abroad - INRIA, 2015.
 * Alberta Innovates Technology Futures Top-Up Award, 2014.
+* Walter H. Johns Graduate Fellowship, 2014.
 * NSERC Graduate Scholarship Master's, 2014.
-* FGSR Travel Award to present to YRC 2014.
 * Queen Elizabeth II (Masters) scholarship, 2013.
 * Phi Gamma Delta Education Foundations’ Graduate Fellowship, 2013.
 * NSERC Undergraduate Research Award, 2013.
