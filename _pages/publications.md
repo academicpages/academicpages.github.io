@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="118" height="118" src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/files/caption_cvpr19.png">  
 
 &nbsp; <span style="font-size:large;">**Deep Tree Learning for Zero-shot Face Anti-Spoofing**</span><br/>
 &nbsp; <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
@@ -15,7 +15,7 @@ author_profile: true
 
 ___
 
-<img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="118" height="118" src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/files/caption_eccv18.png">  
 
 &nbsp; **Face De-Spoofing: Anti-Spoofing via Noise Modeling**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu <br/>
@@ -24,7 +24,7 @@ ___
 
 ___
 
-<img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="118" height="118" src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/files/caption_cvpr18.png">  
 
 &nbsp; **Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu<br/>
@@ -33,7 +33,7 @@ ___
 
 ___
 
-<img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="118" height="118" src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/files/caption_iccvw17.png">  
 
 &nbsp; **Dense Face Alignment**<br/>
 &nbsp; <u>Yaojie Liu</u>, Amin Jourabloo, William Ren, Xiaoming Liu<br/>
@@ -42,7 +42,7 @@ ___
 
 ___
 
-<img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="118" height="118" src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/files/caption_ijcb17.png">  
 
 &nbsp; **Face Anti-Spoofing Using Patch and Depth-Based CNNs**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Yousef Atoum*, Amin Jourabloo*, Xiaoming Liu<br/>
@@ -51,7 +51,7 @@ ___
 
 ___
 
-<img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="118" height="118" src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/files/caption_eccvw16.png">  
 
 &nbsp; **Fast and Precise Face Alignment and 3D Shape Reconstruction from a Single 2D Image**<br/>
 &nbsp; Ruiqi Zhao, Yan Wang, C. Fabian Benitez-Quiroz, <u>Yaojie Liu</u>, Aleix M. Martinez<br/>
@@ -60,7 +60,7 @@ ___
 
 ___
 
-<img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="118" height="118" src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/files/caption_inpaint.png">  
 
 &nbsp; **A Comparison of Image Inpainting Techniques**<br/>
 &nbsp; <u>Yaojie Liu</u>, Chang Shu<br/>
@@ -69,7 +69,7 @@ ___
 
 ___
 
-<img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
+<img align="left" width="118" height="118" src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/files/caption_hand.png">  
 
 &nbsp; **Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization**<br/>
 &nbsp; <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
