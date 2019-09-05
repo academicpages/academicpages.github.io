@@ -13,3 +13,8 @@ author_profile: true
  aa|bb|cc
  --|--|--
  ee|ff|gg 
+ 
+ 
+ Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
