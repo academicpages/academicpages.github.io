@@ -85,25 +85,25 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "East Lansing, MI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4YsfLPIAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "liuyaoj1@msu.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Yaojie_Liu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "100004290946546"
   foursquare       :
   github           : "yaojieliu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "yaojiecatch22"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "yaojie-liu-505008a6"
+  orcid            : "https://orcid.org/0000-0003-3756-7820"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
