@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-```diff
-- red
-```
+<span style=“color:red;”> ORal </span>
 
 <img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
 
