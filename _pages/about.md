@@ -12,5 +12,5 @@ I recently graduated from the University of Pennsylvania where I received my B.A
 
 At Penn, I worked with Gary Bernstein, where my research primarily focused on developing statistical techniques for reconstructing information (such as the power spectrum or the dark matter density field) from large-scale galaxy and lensing survey data. 
 
-In my free time, I love to play soccer, run, and watch Game of Thrones (excluding season 8). 
+In my free time, I love to play soccer, run, and watch Game of Thrones (excluding season 8)! 
 
