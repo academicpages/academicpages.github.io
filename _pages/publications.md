@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-                  |        |                                                              
- --------         | ------ | ------------------------------------------------------------ 
- [John Doe](#)    | 2016   | Description of the item in the list                          
+ |                 |        |                                                              |
+ |--------         | ------ | ------------------------------------------------------------ |
+ |[John Doe](#)    | 2016   | Description of the item in the list                          |
+ 
+ 
+ aa|bb|cc
+ --|--|--
+ ee|ff|gg 
