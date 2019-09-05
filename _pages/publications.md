@@ -62,17 +62,17 @@ ___
 
 <img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
 
-&nbsp; **Face Anti-Spoofing Using Patch and Depth-Based CNNs**<br/>
-&nbsp; Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
-&nbsp; Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)<br/> 
-&nbsp; [PDF] [Dataset] [Code+Model (Coming Soon)]
+&nbsp; **A Comparison of Image Inpainting Techniques**<br/>
+&nbsp; <u>Yaojie Liu</u>, Chang Shu<br/>
+&nbsp; Sixth International Conference on Graphic and Image Processing (ICGIP 2014), 2014<br/> 
+&nbsp; [Link] 
 
 ___
 
 <img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
 
-&nbsp; **Face Anti-Spoofing Using Patch and Depth-Based CNNs**<br/>
-&nbsp; Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
-&nbsp; Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)<br/> 
-&nbsp; [PDF] [Dataset] [Code+Model (Coming Soon)]
+&nbsp; **Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization**<br/>
+&nbsp; <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
+&nbsp; Electronic Science and Technology, 2014<br/> 
+&nbsp; [Link]
 
