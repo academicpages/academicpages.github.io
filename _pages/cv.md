@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](http://www.cse.msu.edu/~liuyaoj1/images/YaojieCV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
