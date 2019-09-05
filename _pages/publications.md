@@ -11,7 +11,7 @@ author_profile: true
 &nbsp; <span style="font-size:large;">**Deep Tree Learning for Zero-shot Face Anti-Spoofing**</span><br/>
 &nbsp; <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
 &nbsp; Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)<br/> 
-&nbsp; [PDF] [Dataset] [Code+Model (Coming Soon)]
+&nbsp; [PDF](https://arxiv.org/abs/1904.02860) [Dataset](http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html) [[Code+Model](http://www.cse.msu.edu/) (Coming Soon)]
 
 ___
 
@@ -20,7 +20,7 @@ ___
 &nbsp; **Face De-Spoofing: Anti-Spoofing via Noise Modeling**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu <br/>
 &nbsp; European Conference on Computer Vision (ECCV'18), 2018 <br/> 
-&nbsp; [PDF] [Code+Model]
+&nbsp; [PDF](https://arxiv.org/abs/1807.09968) [Code+Model](https://github.com/yaojieliu/ECCV2018-FaceDeSpoofing)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 &nbsp; **Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu<br/>
 &nbsp; Computer Vision and Pattern Recognition (CVPR'18), 2018.(exhibit @CVPR Demo) <br/> 
-&nbsp; [PDF] [Dataset] [Demo] [News]
+&nbsp; [PDF](https://arxiv.org/abs/1803.11097) [Dataset](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html) [Demo](http://cvlab.cse.msu.edu/project-face-anti.html) [News](https://msutoday.msu.edu/feature/2018/unlocking-new-possibilities-for-biometrics/)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 &nbsp; **Dense Face Alignment**<br/>
 &nbsp; <u>Yaojie Liu</u>, Amin Jourabloo, William Ren, Xiaoming Liu<br/>
 &nbsp; International Conference on Computer Vision (ICCVW'17) Workshops (AMFG), 2017<br/> 
-&nbsp; [PDF] [Code] [Demo]
+&nbsp; [PDF](https://arxiv.org/abs/1709.01442) [Code](https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment) [Demo](https://youtu.be/GjwpvHKHf9U)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 &nbsp; **Face Anti-Spoofing Using Patch and Depth-Based CNNs**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Yousef Atoum*, Amin Jourabloo*, Xiaoming Liu<br/>
 &nbsp; International Joint Conference on Biometrics (IJCB'17), 2017<br/> 
-&nbsp; [PDF]
+&nbsp; [PDF](http://cvlab.cse.msu.edu/pdfs/FaceAntiSpoofingUsingPatchandDepthBasedCNNs.pdf)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 &nbsp; **Fast and Precise Face Alignment and 3D Shape Reconstruction from a Single 2D Image**<br/>
 &nbsp; Ruiqi Zhao, Yan Wang, C. Fabian Benitez-Quiroz, <u>Yaojie Liu</u>, Aleix M. Martinez<br/>
 &nbsp; European Conference on Computer Vision Workshop (ECCVW'16), 2016<br/> 
-&nbsp; [PDF]
+&nbsp; [PDF](https://www.researchgate.net/publication/307513080_Fast_and_Precise_Face_Alignment_and_3D_Shape_Reconstruction_from_a_Single_2D_Image)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 &nbsp; **A Comparison of Image Inpainting Techniques**<br/>
 &nbsp; <u>Yaojie Liu</u>, Chang Shu<br/>
 &nbsp; Sixth International Conference on Graphic and Image Processing (ICGIP 2014), 2014<br/> 
-&nbsp; [Link] 
+&nbsp; [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9443/1/A-comparison-of-image-inpainting-techniques/10.1117/12.2178820.full?SSO=1)
 
 ___
 
@@ -74,5 +74,5 @@ ___
 &nbsp; **Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization**<br/>
 &nbsp; <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
 &nbsp; Electronic Science and Technology, 2014<br/> 
-&nbsp; [Link]
+&nbsp; [Link](http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201403005.htm)
 
