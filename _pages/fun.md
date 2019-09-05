@@ -12,4 +12,16 @@ author_profile: true
   <img src="https://yaojieliu.github.io/images/Fun2.jpg?raw=true" alt="Photo" style="width: 490px;"/> 
 </p>
 
+<p align="left">
+  <img src="https://yaojieliu.github.io/images/Fun1.jpg?raw=true" alt="Photo" style="width: 300px;"/>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://yaojieliu.github.io/images/Fun2.jpg?raw=true" alt="Photo" style="width: 490px;"/> 
+</p>
+
+<p align="left">
+  <img src="https://yaojieliu.github.io/images/Fun5.jpg?raw=true" alt="Photo" style="width: 300px;"/>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://yaojieliu.github.io/images/Fun6.jpg?raw=true" alt="Photo" style="width: 490px;"/> 
+</p>
+
 
