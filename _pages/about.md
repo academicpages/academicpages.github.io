@@ -14,11 +14,11 @@ My research is on computer vision and machine learning, with particular interest
 
 News
 ======
-*[2019/09/01] &nbsp; SiW-M Dataset has been released [here](http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html)!
-*[2019/06/22] &nbsp; I write a [tutorial](https://github.com/yaojieliu/dataset-watchdog) on how to use Google Forms and Google Spreadsheet to manage a dataset with access control.
-*[2019/06/18] &nbsp; Our paper "Deep Tree Learning for Zero-shot Face Anti-Spoofing" is the best paper finalist in CVPR 2019.
-*[2019/05/24] &nbsp; [SiW Database](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html) now is open to industrial institutes for research purposes.
-*[2019/04/15] &nbsp; One paper accepted to CVPR 2019 as Oral Presentation.
-*[2019/04/05] &nbsp; One CVPR'19 paper about zero-shot face anti-spoofing is on arXiv.
-*[2019/03/22] &nbsp; Submit one paper to ICCV 2019.
-*[2019/03/05] &nbsp; SiW Database has been distributed to >300 research groups.
+* [2019/09/01] &nbsp; SiW-M Dataset has been released [here](http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html)!
+* [2019/06/22] &nbsp; I write a [tutorial](https://github.com/yaojieliu/dataset-watchdog) on how to use Google Forms and Google Spreadsheet to manage a dataset with access control.
+* [2019/06/18] &nbsp; Our paper "Deep Tree Learning for Zero-shot Face Anti-Spoofing" is the best paper finalist in CVPR 2019.
+* [2019/05/24] &nbsp; [SiW Database](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html) now is open to industrial institutes for research purposes.
+* [2019/04/15] &nbsp; One paper accepted to CVPR 2019 as Oral Presentation.
+* [2019/04/05] &nbsp; One CVPR'19 paper about zero-shot face anti-spoofing is on arXiv.
+* [2019/03/22] &nbsp; Submit one paper to ICCV 2019.
+* [2019/03/05] &nbsp; SiW Database has been distributed to >300 research groups.
