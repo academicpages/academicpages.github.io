@@ -63,8 +63,7 @@ Approaches" (19w5080).
 minisymposium at the annual meeting of the Society of Mathematical Biology.
   * Co-organizer: Dr. Leah Edelstein-Keshet.
 
-* Organizer of the session "Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour
-in Cells" at the Canadian Mathematical Society Winter Meeting (2018), Vancouver, Canada.
+* Organizer of the session ["Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour in Cells"](https://winter18.cms.math.ca/index.php/sessions/) at the Canadian Mathematical Society Winter Meeting (2018), Vancouver, Canada.
 
 * 2014 - 2017 Member of the [Society in Graduate Mathematics and Statistics](http://sigmas.math.ualberta.ca/):
   * 2017 president.
