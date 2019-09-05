@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaojie Liu"
+title                    : "Yaojie Liu / Site Title"
 title_separator          : "-"
 name                     : &name "Yaojie Liu"
 description              : &description "personal description"
-url                      : http://www.cse.msu.edu/~liuyaoj1/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yaojieliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaojieliu/yaojieliu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,30 +80,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yaojie Liu"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "East Lansing, MI"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=4YsfLPIAAAAJ&hl=en"
-  email            : "liuyaoj1@msu.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Yaojie_Liu"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "100004290946546"
+  facebook         :
   foursquare       :
-  github           : "yaojieliu"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "yaojiecatch22"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yaojie-liu-505008a6"
-  orcid            : "http://orcid.org/0000-0003-3756-7820"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
