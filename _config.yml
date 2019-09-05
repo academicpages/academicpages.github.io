@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abigail Lee"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Abigail (Abby) Lee"
 description              : &description "Student at the University of Pennsylvania."
