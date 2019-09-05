@@ -156,6 +156,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+mathjax: true
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -177,13 +178,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -291,17 +292,18 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
