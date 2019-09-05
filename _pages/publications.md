@@ -14,7 +14,7 @@ Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
 Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)<br/> 
 [PDF] [Dataset] [Code+Model (Coming Soon)]
 
-&nbsp;
+___
 
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">  
 
@@ -23,7 +23,7 @@ Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
 Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)<br/> 
 [PDF] [Dataset] [Code+Model (Coming Soon)]
 
-&nbsp;
+___
 
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">  
 
@@ -32,7 +32,7 @@ Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
 Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)<br/> 
 [PDF] [Dataset] [Code+Model (Coming Soon)]
 
-&nbsp;
+___
 
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">  
 
@@ -41,7 +41,7 @@ Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
 Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)<br/> 
 [PDF] [Dataset] [Code+Model (Coming Soon)]
 
-&nbsp;
+___
 
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">  
 
