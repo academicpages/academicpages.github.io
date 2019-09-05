@@ -15,9 +15,9 @@ author_profile: true
 &nbsp;
 
 <p align="left">
-  <img src="https://yaojieliu.github.io/images/Fun3.jpg?raw=true" alt="Photo" style="width: 300px;"/>
+  <img src="https://yaojieliu.github.io/images/Fun3.jpg?raw=true" alt="Photo" style="width: 400px;"/>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://yaojieliu.github.io/images/Fun5.jpg?raw=true" alt="Photo" style="width: 300px;"/>
+  <img src="https://yaojieliu.github.io/images/Fun5.jpg?raw=true" alt="Photo" style="width: 400px;"/>
 </p>
 
 &nbsp;
