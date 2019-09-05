@@ -8,7 +8,7 @@ author_profile: true
 
 <p align="left">
   <img src="https://yaojieliu.github.io/images/Fun1.jpg?raw=true" alt="Photo" style="width: 300px;"/> &nbsp;
-  <img src="https://yaojieliu.github.io/images/Fun2.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="https://yaojieliu.github.io/images/Fun2.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 
