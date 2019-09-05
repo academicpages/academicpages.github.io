@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yaojie Liu's websites"
+title: "Yaojie Liu's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
