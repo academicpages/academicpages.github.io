@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics and Mathematics, University of Alberta, 2012
-* B.S.H in Appled Mathematics, University of Alberta, 2013
+* B.S. majoring in Physics and Mathematics, University of Alberta, 2012
+* B.S.H in Applied Mathematics, University of Alberta, 2013
 * Ph.D in Applied Mathematics (Mathematical Biology), University of Alberta, 2017
 
 Other-Education
