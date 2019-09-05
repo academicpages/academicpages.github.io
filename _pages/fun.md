@@ -9,7 +9,7 @@ author_profile: true
 
 <img src="https://github.com/yaojieliu/yaojieliu.github.io/blob/master/images/Fun2.jpg\" width="400" />
 
-![Screenshot](images/fun1.jpg)
+![Screenshot](./images/fun1.jpg)
 
-![Screenshot](images/fun2.jpg)
+![Screenshot](./images/fun2.jpg)
 
