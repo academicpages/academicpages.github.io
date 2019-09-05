@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Oral
+```diff
+- red
+```
 
 <img align="left" width="118" height="118" src="http://www.fillmurray.com/100/100">  
 
