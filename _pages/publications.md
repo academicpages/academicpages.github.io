@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
 
-{% include base_path %}
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
