@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
-  <img src="https://yaojieliu.github.io/images/teaser.png?raw=true" alt="Photo" style="width: 800px;"/>
-</p>
+
 Hi! I'm a fourth-year Ph.D. student at the [Department of Computer Science and Engineering, Michigan State University](www.cse.msu.edu). I'm a current member of [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/), advised by [Dr. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). I was a member of [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/).
 
 My research is on CV/ML, with particular interests in face representation & analysis, including face anti-spoofing, 2D/3D large pose face alignment, 3D face reconstruction, audio-visual modeling.
