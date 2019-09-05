@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant at University of Alberta"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/teaching-assitant-uofa
