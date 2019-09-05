@@ -11,7 +11,7 @@ author_profile: true
 
 &nbsp; **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
 &nbsp; <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
-&nbsp; Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)<br/> 
+&nbsp; <sub>Computer Vision and Pattern Recognition (CVPR'19), 2019. (Oral Presentation, Best Paper Finalist)</sub><br/> 
 &nbsp; [PDF] [Dataset] [Code+Model (Coming Soon)]
 
 ___
