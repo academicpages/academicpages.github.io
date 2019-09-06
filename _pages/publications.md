@@ -8,7 +8,7 @@ author_profile: true
 
 <img align="left" width="118" height="118" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
 
-&nbsp; <span style="font-size:large;">**Deep Tree Learning for Zero-shot Face Anti-Spoofing**</span><br/>
+&nbsp; **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
 &nbsp; <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
 &nbsp; Computer Vision and Pattern Recognition (CVPR'19), 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/> 
 &nbsp; [[PDF](https://arxiv.org/abs/1904.02860)] [[Dataset](http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html)] [[Code+Model](http://www.cse.msu.edu/) (Coming Soon)]
