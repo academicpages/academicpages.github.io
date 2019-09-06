@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yasmine Kotturi / Website"
+title                    : "Yasmine Kotturi, PhD Student"
 title_separator          : "-"
 name                     : &name "Yasmine Kottur"
 description              : &description "PhD student, Human-Computer Interaction, Carnegie Mellon Univesity"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Yasmine Kotturi"
-  avatar           : "profile-tiny.jpg"
-  bio              : "Yasmine is currently pursuing her doctorate in Human-Computer Interaction. Her research focuses on improving design processes in the wild"
+  avatar           : "profile-old.png"
+  bio              : "PhD Student, Human-Computer Interaction, Carnegie-Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
