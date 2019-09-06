@@ -11,9 +11,9 @@ title                    : "Yasmine Kotturi, PhD Student"
 title_separator          : "-"
 name                     : &name "Yasmine Kottur"
 description              : &description "PhD student, Human-Computer Interaction, Carnegie Mellon Univesity"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ykotturi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ykotturi/ykotturi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
