@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://yaojieliu.github.io/images/banner2.jpg?raw=true" alt="Photo" style="width: 400px;"/>
+  <img src="https://yaojieliu.github.io/images/banner2.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 Hi! I'm a fourth-year Ph.D. student at the [Department of Computer Science and Engineering, Michigan State University](www.cse.msu.edu). I'm a current member of [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/), advised by [Dr. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). I was a member of [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/).
