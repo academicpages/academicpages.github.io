@@ -29,11 +29,11 @@ author_profile: true
 
 * "Mobility Restrictions, Human Capital Attainment, and Youth Employment" (with [Valerie Bostwick][vkb]).
 
-* "Transit Adoption and Rising Incomes in Mexico City" (with [Paulina Oliva][poliva] and Danae Hernandez Cortes).
+* "Transit Adoption and Rising Incomes" (with [Paulina Oliva][poliva] and Danae Hernandez Cortes).
 
+* "Climate, Innovation, and Adaptation" (with [Olivier Deschênes][odeschenes] and [Jeff Lin][jlin]).
 
-
-
+* "Defying Gravity"
 
 [aplantinga]: https://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm
 [avb]: http://www.arthurvanbenthem.com/
@@ -42,3 +42,4 @@ author_profile: true
 [odeschenes]: https://econ.ucsb.edu/~olivier/
 [poliva]: https://dornsife.usc.edu/paulina-oliva/
 [vkb]: https://vkbostwick.weebly.com/
+[jlin]: http://www.jlin.org
