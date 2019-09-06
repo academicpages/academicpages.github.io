@@ -1,7 +1,6 @@
 ---
 title: "Current Lab Members"
-excerpt: "Dr. Sarah Flanagan <br><img src='/images/flanagan_200x266.jpg'>
-Micaela Pullen <br><img src='/images/MicaelaPullen.jpg'>"
+excerpt: "Dr. Sarah Flanagan <br><img src='/images/flanagan_200x266.jpg'> <br>Micaela Pullen <br><img src='/images/MicaelaPullen.jpg' height="266" width="200">"
 collection: people
 permalink: /people/current-lab
 ---
