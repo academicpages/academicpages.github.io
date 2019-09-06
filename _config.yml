@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yasmine Kotturi, PhD Student"
 title_separator          : "-"
-name                     : &name "Yasmine Kottur"
+name                     : &name "Yasmine Kotturi"
 description              : &description "PhD student, Human-Computer Interaction, Carnegie Mellon Univesity"
 url                      : https://ykotturi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

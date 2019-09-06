@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About"
+excerpt: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 I am a fourth year PhD Student of Human-Computer Interaction. 
