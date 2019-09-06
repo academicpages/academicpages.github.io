@@ -120,19 +120,30 @@ Do not hesitate to ask me for a letter! I want to know as soon as possible what 
 **Reviewing Papers** is an important part of being a contributing member of academic society. We publish papers, which are peer reviewed, so we must review papers for others. We will aim to review 2-3 papers for every paper we submit. Since you as lab members will likely be lead authors on the papers we write, reviewing other researchers’ work is an essential part of your training. I will expect you to assist with reviewing papers. To help with your training, you and I will review the paper independently, and I will subsequently give you feedback on the review. You will ALWAYS be acknowledged to the editor for your contribution. If you receive an invitation to review, I encourage you to accept it if it is within your field of expertise – but I expect you to consult with me for advice, especially if we have not yet done one or two collaborative review yet.
 
 
+
+*Adapted from Michael Harrison Hsieh, “Undergraduate Researcher Contract”, Savio Chan, “Chan Lab Manual”, Lisa Gilbert, “Undergraduate Researcher Expectations”, Barbara Tewksbury “Research Student Guidelines and Expectations”, and Sarah Carmichael, “Undergraduate Research Contract”, and April Wright’s Code of Conduct.*
+
+
+
+\pagebreak{}
+
 # Lab Contract Checklist
 
 ## All lab members
 - [ ] Get access to buildings and office keys – Nicole Manuera
-- [ ] Get access to the lab calendar
+- [ ] Get access to the lab calendar and Google Drive
 - [ ] Complete mentorship document
+- [ ] Send Sarah a description and photo for the lab website and 5th floor wall
+
 ## Lab members working in the labs
 - [ ] Complete online H&S training 
 - [ ] Complete MPI quiz
 - [ ] Complete floor inductions
+
 ## Computational lab members
 - [ ] Obtain access to the HPC cluster
 - [ ] Join the lab’s github
+
 
 # Questions 
 If you have any questions about these or other topics, please don’t hesitate to ask. There are no dumb questions, and if you need something explained for the millionth time, it’s my job to explain it to you, so just ask! 
@@ -150,6 +161,3 @@ Student Signature: ____________________________________ Date: ________
 
 
 
-
-
-*Adapted from Michael Harrison Hsieh, “Undergraduate Researcher Contract”, Savio Chan, “Chan Lab Manual”, Lisa Gilbert, “Undergraduate Researcher Expectations”, Barbara Tewksbury “Research Student Guidelines and Expectations”, and Sarah Carmichael, “Undergraduate Research Contract”, and April Wright’s Code of Conduct.*
