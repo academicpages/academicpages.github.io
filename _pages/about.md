@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lanlan Li"
+title: "Lanlan Li  李兰兰"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,10 +14,10 @@ Contact
 ======
 lanlanli@smail.nju.edu.cn
 
-National Key Laboratory for Novel Software Technology
-Nanjing University, Xianlin Campus Mailbox 603
-163 Xianlin Avenue, Qixia District
-Nanjing 210023, China
+National Key Laboratory for Novel Software Technology.
+Nanjing University, Xianlin Campus.
+163 Xianlin Avenue, Qixia District.
+Nanjing 210023, China.
 
 
 Research Interests
