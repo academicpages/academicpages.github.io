@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Journals"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink:
+excerpt: '[TOSN] **Lanlan Li**, Haipeng Dai, Guihai Chen, Jiaqi Zheng, Wanchun Dou and Xiaobing Wu. "Radiation Constrained Fair Charging for Wireless Power Transfer", ACM Transactions on Sensor Networks (TOSN), Volume 15 Issue 2, April 2019.  '
+date:
+venue: ''
+paperurl: 'http://delivery.acm.org/10.1145/3290000/3289182/a15-li.pdf?ip=202.119.40.254&id=3289182&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E180A41DAF8736F97%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1567849212_95791f7cefd5890ef7a6d84275f138f2'
+citation: ''
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
