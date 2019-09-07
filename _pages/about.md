@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lanlan Li  李兰兰"
+title: "Lanlan Li   李 兰 兰"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
