@@ -33,7 +33,7 @@ Publications
 * A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection.    
 **Penghui Wei**, Wenji Mao, Guandan Chen.  
 *In Proc. of AAAI 2019*, pages 7249--7256.
-* Muitl-Target Stance Detection via a Dynamic Memory-Augmented Network.       
+* Muiti-Target Stance Detection via a Dynamic Memory-Augmented Network.       
 **Penghui Wei**, Junjie Lin, Wenji Mao.  
 *In Proc. of SIGIR 2018*, pages 1229--1232.
 * A Target-Guided Neural Memory Model for Stance Detection in Twitter.     
