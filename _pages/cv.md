@@ -54,6 +54,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Paper Review
+======  
+  1. Conference on Networking, Architecture, and Storage (NAS 2019)
+  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
