@@ -38,14 +38,8 @@ Work
 
 Skills
 ======
-* Languages
-  * C/C++
-  * Python
-  * Matlab
-* Libraries
-  * Pytorch
-  * Eigen
-  * ITK/VTK
+* Languages: C/C++, Python, Matlab, etc.
+* Libraries: Pytorch, Eigen, ITK/VTK, OpenGL, OpenCV etc.
 
 
 Teaching
