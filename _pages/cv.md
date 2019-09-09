@@ -11,42 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Engineering, Arizona State University, 2020 (expected)
+* M.S. in Electrical Engineering, Worcester Polytech Institute, 2014
+* B.E. in Electrical Engineering, Harbin Institute University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2019: Research Intern
+  * Bosch
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2017: Research Assistant
+  * Intuitive Surgical
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2014: Research Assistant
+  * Aware
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * C/C++
+  * Python
+  * Matlab
+* Libraries
+  * Pytorch
+  * Eigen
+  * ITK/VTK
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -54,6 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * Currently signed in to 43 different slack teams
