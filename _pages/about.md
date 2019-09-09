@@ -13,17 +13,6 @@ I am a fourth year PhD Student of Human-Computer Interaction.
 ======
 I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/) at Carnegie Mellon University.
 
-Questions I ask in my work:
-
-How might we support a future of complex, creative work for a diverse workforce?
-Ad more individuals find themselves navigating processes of design, how might we support their endeavors?
-
-
-Current projects
-======
-1. Community Forge
-1. Peerdea
-1. Careers in Online Labor Markets
 <!-- 
 
 Site-wide configuration
