@@ -11,6 +11,7 @@ redirect_from:
 
 Get the [PDF version](http://icemiliang.github.io/files/resume.pdf)
 
+
 Education
 ======
 * Ph.D in Computer Engineering, Arizona State University, 2020 (expected)
@@ -84,17 +85,4 @@ Service
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service
-======
-* Currently signed in to 43 different slack teams
- -->
-
  
