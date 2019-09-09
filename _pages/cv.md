@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Get the [PDF version](http://icemiliang.github.io/files/resume.pdf)
+
 Education
 ======
 * Ph.D in Computer Engineering, Arizona State University, 2020 (expected)
@@ -19,7 +21,7 @@ Work experience
 ======
 * Summer 2019: Research Intern
   * Bosch
-  * Duties included: Tagging issues
+  * Project: Tagging issues
   * Supervisor: Professor Git
 
 * Summer 2017: Research Assistant
