@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, Tribhuvan University, 2012-2017
-* Ph.D in Computer Engineering, GitHub University, 2019- 2023(expected)
+* Ph.D in Computer Engineering, Stevens Institute of Technology, 2019- 2023(expected)
 
 
 Work experience
