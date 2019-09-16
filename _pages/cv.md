@@ -40,9 +40,7 @@ redirect_from:
 ## Publications
 
 {% for pub in site.data.publications %}
-  {{ pub.citation }}
-  {% if pub.doi %}doi: <a href="http://doi.org/{{ post.doi }}">{{ post.doi }}</a>{% endif %}
-  {% if pub.pmid %}pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ post.pmid }}">{{ post.pmid }}</a>{% endif %}
+  - {{ pub.citation }}{% if pub.doi %} doi: <a href="http://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>{% endif %}{% if pub.pmid %} pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ pub.pmid }}">{{ pub.pmid }}</a>{% endif %}
 {% endfor %}
 
 ## Talks & posters
@@ -53,14 +51,9 @@ redirect_from:
 
 ## Teaching
 
-- "Adventures in the Microbiome." Keynote for Cornell Microbiome Hackathon. Invited by Ilana Brito. (Apr 2019)
-- "OpenBiome." Lecture for MIT class 7.343 (Microbiome and Drug Delivery). Invited by Miguel Jimenez. (Apr 2019)
-- "Distribution-based clustering". Lecture for MIT class 1.871 (Computational Ecology). Invited by Otto Cordero. (Oct 2016)
-- "Who's there?: Practical bacterial phylogenetics." Lecture for Williams College class BIOL 319 (Integrative Bioinformatics, Genomics and Proteomics). Invited by Lois Banta. (Oct 2016)
-- "Bayesian statistics." Lecture for MIT class 20.560 (Statistics for Biological Engineering Graduate Students). (Jan 2016)
-- "Cooperative binding." Lecture for MIT class 20.111 (Thermodynamics of biomolecular systems). Invited by Eric Alm. (Apr 2014)
-- **Supervisor**, Emmanuel College & Department of PHysics, University of Cambridge (2012--2013)
-- **Teaching assistant**, Department of Physics, Williams College (2007--2010)
+{% for x in site.data.teaching %}
+  - "{{ x.title }}". {{ x.venue }}. {% if x.inviter %}Invited by {{ x.inviter }}.{% endif %} ({{ x.date }})
+{% endfor %}
 
 ## Service, leadership, and community
 

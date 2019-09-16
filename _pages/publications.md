@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.data.publications %}
-  {{ post.citation }}
-  {% if post.doi %}doi: <a href="http://doi.org/{{ post.doi }}">{{ post.doi }}</a>{% endif %}
-  {% if post.pmid %}pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ post.pmid }}">{{ post.pmid }}</a>{% endif %}
+{% for pub in site.data.publications %}
+  {{ pub.citation }}
+  {% if pub.doi %}doi: <a href="http://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>{% endif %}
+  {% if pub.pmid %}pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ pub.pmid }}">{{ pub.pmid }}</a>{% endif %}
 {% endfor %}
 
-# Other work
+## Other work
 
 **SW Olesen**. Quantitative modeling for microbial ecology and clinical trials. PhD thesis, MIT (2016). [DSpace](https://dspace.mit.edu/handle/1721.1/107277); [source code](https://github.com/swo/mit-thesis)
 
