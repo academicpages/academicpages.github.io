@@ -20,17 +20,22 @@ redirect_from:
 
 ## Awards
 
+- Kocaeli International Travel Award, Harvard Chan School (2017)
+    - Funds one-week exchange program with Kocaeli University, Turkey
+- NSF Graduate Research Fellowship (2013--2016)
+- Presidential Fellow, MIT (2012--2013)
+    - Fully funds first year of graduate student for 120 students
+- Herchel Smith Fellowship, Williams College (2010--2012)
+    - Fully funds 2 years of graduate study at the University of Cambridge
+- Howard P. Stabler Prize in Physics, Williams College (2010)
+- Barry M. Goldwater Scholarship (2009)
+
 ## Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Scientific Director**, OpenBiome (2019--)
+- **Postdoctoral Associate**, Harvard Chan School of Public Health (2016--2018)
+    - Research focus: Antibiotic use and resistance
+    - Advisor: Yonatan Grad
 
 ## Publications
 
@@ -40,33 +45,40 @@ redirect_from:
   {% if post.pmid %}pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ post.pmid }}">{{ post.pmid }}</a>{% endif %}
 {% endfor %}
 
+## Talks
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+- Oral abstact: "Azithromycin susceptibility in *Neisseria gonorrhoeae* and seasonal macrolide use." STD Prevention Conference, DC (Sep 2018)
+- Invited talk: "What's causing azithromycin nonsusceptibility in *Neisseria gonorrhoeae*?" Massachusetts Department of Public Health (Apr 2018)
+- Talk: "Ecological association between unequal antibiotic consumption and antibiotic resistance." Epidemics (Dec 2017)
+- Oral abstract: "Antibiotic consumption and antibiotic resistance across organisms, drugs, and consumer groups." ID Week (Oct 2017)
+- Invited talk: "Discovering hidden ecological relationships between bacteria using modeling and statistics." Williams College, Department of Statistics (Oct 2016)
+- Poster: "Dynamics of high-salt-induced gut microbiome alterations in mice." N Wilck, DN Muller, **SW Olesen**, MG Matus, S Kearney, EJ Alm.  Keystone C1 (Gut Microbiota Modulation of Host Physiology). (Mar 2015)
+- Poster: "A high-salt diet in mice increases the prevalence of a commensal gut microbe linked to other unhealthy diets." **SW Olesen**, MG Matus, A Perrotta, M Smith, EJ Alm. Keystone D1 (Exploiting and Understanding Chemical Biotransformations in the Human Microbiome). (Apr 2014)
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Teaching
+
+- "Adventures in the Microbiome." Keynote for Cornell Microbiome Hackathon. Invited by Ilana Brito. (Apr 2019)
+- "OpenBiome." Lecture for MIT class 7.343 (Microbiome and Drug Delivery). Invited by Miguel Jimenez. (Apr 2019)
+- "Distribution-based clustering". Lecture for MIT class 1.871 (Computational Ecology). Invited by Otto Cordero. (Oct 2016)
+- "Who's there?: Practical bacterial phylogenetics." Lecture for Williams College class BIOL 319 (Integrative Bioinformatics, Genomics and Proteomics). Invited by Lois Banta. (Oct 2016)
+- "Bayesian statistics." Lecture for MIT class 20.560 (Statistics for Biological Engineering Graduate Students). (Jan 2016)
+- "Cooperative binding." Lecture for MIT class 20.111 (Thermodynamics of biomolecular systems). Invited by Eric Alm. (Apr 2014)
+- **Supervisor**, Emmanuel College & Department of PHysics, University of Cambridge (2012--2013)
+- **Teaching assistant**, Department of Physics, Williams College (2007--2010)
 
 ## Service, leadership, and community
 
-### Scientific community & diversity
-
 - **President**, Postdoctoral Association (PDA), Harvard Chan School (2018)
+    - Led a consolidation of PDA council for >15 officers to 4
+    - Initiated a Training Evaluation Initiative to create a common administrator-trainee language for negotiations
 - **Member**, Dean's Advisory Committee on Diversity and Inclusion, Harvard Chan School (2016--2018)
+- **Communication Fellow**, MIT Biological Engineering Communication Lab (2013--2016)
+    - Co-founding Fellow and mentor to junior Fellows
+    - Coached >100 undergraduate, graduate, and postdoc clients
+    - Co-led creation of the [CommKit](https://mitcommlab.mit.edu/be/use-the-commkit/): online, content-specific communication guide
 - **Diversity Co-Chair**, Graduate Student Board, MIT Biological Engineering (2013--2016)
     - Developed new programming for events exploring student diversity
     - Co-designed and conducted first departmental diversity climate survey
-
-### Scientific communication
-
 - **Discussion leader & participant**, Science Policy Initiative, MIT (2012--2016)
     - Team member for visits to executive agencies and Congressional offices
     - Engaged in 30-hour Science Policy Bootcamp
-
-### Conflict management
