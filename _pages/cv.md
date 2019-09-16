@@ -16,7 +16,14 @@ redirect_from:
     - Advisor: Eric Alm
 - **MPhil**, Chemistry, University of Cambridge (2012)
 - **MASt**, Applied Mathematics & Theoretical Physics, University of Cambridge (2011)
-- **BA**, Physics, Williams College (2010)
+- **BA** *magna cum laude* with Highest Honors, Physics, Williams College (2010)
+
+## Experience
+
+- **Scientific Director**, OpenBiome (2019--)
+- **Postdoctoral Associate**, Harvard Chan School of Public Health (2016--2018)
+    - Research focus: Epidemiology of antibiotic use and resistance
+    - Advisor: Yonatan Grad
 
 ## Awards
 
@@ -30,30 +37,19 @@ redirect_from:
 - Howard P. Stabler Prize in Physics, Williams College (2010)
 - Barry M. Goldwater Scholarship (2009)
 
-## Experience
-
-- **Scientific Director**, OpenBiome (2019--)
-- **Postdoctoral Associate**, Harvard Chan School of Public Health (2016--2018)
-    - Research focus: Antibiotic use and resistance
-    - Advisor: Yonatan Grad
-
 ## Publications
 
-{% for post in site.data.publications %}
-  {{ post.citation }}
-  {% if post.doi %}doi: <a href="http://doi.org/{{ post.doi }}">{{ post.doi }}</a>{% endif %}
-  {% if post.pmid %}pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ post.pmid }}">{{ post.pmid }}</a>{% endif %}
+{% for pub in site.data.publications %}
+  {{ pub.citation }}
+  {% if pub.doi %}doi: <a href="http://doi.org/{{ post.doi }}">{{ post.doi }}</a>{% endif %}
+  {% if pub.pmid %}pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ post.pmid }}">{{ post.pmid }}</a>{% endif %}
 {% endfor %}
 
-## Talks
+## Talks & posters
 
-- Oral abstact: "Azithromycin susceptibility in *Neisseria gonorrhoeae* and seasonal macrolide use." STD Prevention Conference, DC (Sep 2018)
-- Invited talk: "What's causing azithromycin nonsusceptibility in *Neisseria gonorrhoeae*?" Massachusetts Department of Public Health (Apr 2018)
-- Talk: "Ecological association between unequal antibiotic consumption and antibiotic resistance." Epidemics (Dec 2017)
-- Oral abstract: "Antibiotic consumption and antibiotic resistance across organisms, drugs, and consumer groups." ID Week (Oct 2017)
-- Invited talk: "Discovering hidden ecological relationships between bacteria using modeling and statistics." Williams College, Department of Statistics (Oct 2016)
-- Poster: "Dynamics of high-salt-induced gut microbiome alterations in mice." N Wilck, DN Muller, **SW Olesen**, MG Matus, S Kearney, EJ Alm.  Keystone C1 (Gut Microbiota Modulation of Host Physiology). (Mar 2015)
-- Poster: "A high-salt diet in mice increases the prevalence of a commensal gut microbe linked to other unhealthy diets." **SW Olesen**, MG Matus, A Perrotta, M Smith, EJ Alm. Keystone D1 (Exploiting and Understanding Chemical Biotransformations in the Human Microbiome). (Apr 2014)
+{% for talk in site.data.talks %}
+  - {{ talk.type }}: "{{ talk.title }}". {% if talk.authors %}{{ talk.authors }}.{% endif %} {{ talk.place }} ({{ talk.date }})
+{% endfor %}
 
 ## Teaching
 
