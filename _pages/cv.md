@@ -11,12 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of California, Santa Barbara (UCSB), 2018 -- now
-* B.S. in Software Engineering, University of Electronic Science and Technology of China (UESTC), 2018
-
-Work experience
-======
-* Winter, Spring, and Summer 2019: Teaching Assistant
+* **Ph.D.** in Computer Science, University of California, Santa Barbara (UCSB), **2018 -- now**
+* **B.S.** in Software Engineering, University of Electronic Science and Technology of China (UESTC), **2014 -- 2018**
 
 Skills
 ======
@@ -38,11 +34,11 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======

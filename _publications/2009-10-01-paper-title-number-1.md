@@ -10,7 +10,7 @@ date: 2019-06-13
 ---
 + Propose a novel FPGA design for K-means called KPynq.
 + Implement the design on Xilinx Pynq-Z1 FPGA board.
-+ KPynq achieves speedup (up to 4.2x) and energy-eciency (up to 218x) compared
++ KPynq achieves speedup (up to 4.2x) and energy-effciency (up to 218x) compared
 with the CPU-based standard K-means.
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
