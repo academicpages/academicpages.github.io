@@ -7,7 +7,6 @@ Name Name:
   bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
-  google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
@@ -15,4 +14,3 @@ Name2 Name2:
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
-  google_plus : "Name"
