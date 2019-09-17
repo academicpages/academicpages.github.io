@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Honours in BSC. Saint Mary's University, 2006 
+* MSc. Western University 2012 
+* Ph.D in Computational Science. Computer Science, University of Guelph, 2020 (expected)
 
 Work experience
 ======
