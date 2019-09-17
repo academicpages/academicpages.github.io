@@ -18,5 +18,6 @@ redirect_from:
 
 Recent News
 ======
-* I made some spaghetti and I dont regretti
+* My application for a talk on **"Learning to cooperate - the emergence of sustainable resource management among artificial intelligence agents"** to Science Polish Perspective (SPP) conference at the University of Cambridge has been accepted and will take place between 8th and 9th November 2019. [17.09.2019]
+* I will be going to Edinburgh to work as a Research Intern at the [Autonomous Agents Group, School of Inormatics, University of Edinburgh](http://agents.inf.ed.ac.uk/?page=home) under the supervision of [Dr Stefano Albrecht](http://svalbrecht.de/) on stabilizing Generative Adversarial Networks (GANs) training. [12.09.2019]
 
