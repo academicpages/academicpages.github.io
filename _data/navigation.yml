@@ -5,12 +5,12 @@ main:
 
   - title: "Publications"
     url: /publications/
+  
+  # - title: "Teaching"
+  # url: /teaching/   
     
   # - title: "Talks"
   #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/

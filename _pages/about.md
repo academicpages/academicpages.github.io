@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yuke Wang, a Second-year Ph.D. student majoring in computer science at UCSB. I have been working on projects related to software-hardware co-design for distance-related algorithms, such as KNN, KMeans. I am also interested in deep learning and algorithm optimization on heterogeneous platforms, such as GPU and FPGA.
+My name is Yuke Wang, a second-year Ph.D. in [computer science](https://www.cs.ucsb.edu) at [UCSB](https://ucsb.edu). I am working with Prof [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/). 
+
+I have been working on projects in software-hardware co-design for distance-related algorithms, such as KNN, KMeans. I am also interested in deep learning, especially graph neural network (GNN) optimization and acceleration on heterogeneous platforms, such as GPUs.
