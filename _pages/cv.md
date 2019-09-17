@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Computer Science, University of California, Santa Barbara (UCSB), **2018 -- now**
-* **B.S.** in Software Engineering, University of Electronic Science and Technology of China (UESTC), **2014 -- 2018**
+> *University of California, Santa Barbara (UCSB)*, **2018 -- now**
+>> **Ph.D.** in Computer Science, 
+
+> *University of Electronic Science and Technology of China (UESTC)*, **2014 -- 2018**
+>> **B.S.** in Software Engineering, 
 
 Skills
 ======
-* Python
-* C++
-* OpenCL
-* High-Level Synthesis
+* Python, C++
 * Latex
 
 Publications
