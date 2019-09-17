@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-+ *University of California, Santa Barbara (UCSB)*, **2018 -- now**
++ *University of California, Santa Barbara (UCSB)*, **2018 -- now** <br />
   **Ph.D.** in Computer Science, 
 
-+ *University of Electronic Science and Technology of China (UESTC)*, **2014 -- 2018**
++ *University of Electronic Science and Technology of China (UESTC)*, **2014 -- 2018** <br />
   **B.S.** in Software Engineering, 
 
 Skills
