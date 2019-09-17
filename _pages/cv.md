@@ -27,12 +27,12 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 <font size="5">
 <table>
   <tr>
-    <td width="35%"><div align="right">Oct 1st 2017 - Present day<br>
+    <td width="35%"><div align="right">Oct 1st 2017 - Sep 30th, 2020 day<br>
 	   <img src='/images/uniPD_logo.png' width="150"></div></td>
        <td width="65%">Ph.D in <i>Physics</i>, University of Padua<br>
 	 <b>Supervisor:</b> Prof. Amos Maritan<br>
 		   <b>Co-supervisor:</b> Dr. Samir Suweis<br>
-	 <b>Expected completion date:</b> September 30th, 2020<br><br>
+	 <b>Expected thesis defense period:</b> December 2020<br><br>
    </td>
   </tr>
   <tr>
