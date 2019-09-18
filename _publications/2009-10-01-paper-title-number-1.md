@@ -19,7 +19,7 @@ Please cite this paper in your publications if it helps your research:
 
 ```
 @article{Wang2019group,
-    title={rientation- and Scale-Invariant Multi-Vehicle Detection and Tracking from Unmanned Aerial Videos},
+    title={Orientation- and Scale-Invariant Multi-Vehicle Detection and Tracking from Unmanned Aerial Videos},
     author={Wang, Jie and Simeonova, Sandra and Shahbazi, Mozhdeh},
     journal={Remote Sensing},
     year={2019},
