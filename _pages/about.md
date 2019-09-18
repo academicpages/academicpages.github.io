@@ -7,6 +7,3 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-New Content coming soon
-======
