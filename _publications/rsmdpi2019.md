@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/rsmdpi2019
 date: 2009-09-16
 venue: 'Remote Sensing'
-paperurl: 'https://www.mdpi.com/2072-4292/11/18/2155/pdf'
+
 ---
 
 [[Paper]](https://www.mdpi.com/2072-4292/11/18/2155)
