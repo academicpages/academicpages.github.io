@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Damian Romero, Computational Linguist"
+title                    : "Damian Romero, Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Damian Yukio Romero Diaz"
 description              : &description "Ph.D. Candidate, University of Arizona"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Damian Romero"
-  avatar           : "500x300.png"
+  avatar           : "IMG_5919.JPG"
   bio              : "Computational Hispanic Linguist"
   location         : "USA"
   employer         : "University of Arizona"
