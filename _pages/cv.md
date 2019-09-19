@@ -17,7 +17,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to see full CV](documents/AntreasAntoniouResume.pdf "CV")
+[Click to see full CV](/documents/AntreasAntoniouResume.pdf "CV")
 
 ## Summarised CV
 
