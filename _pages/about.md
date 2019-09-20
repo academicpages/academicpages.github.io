@@ -28,7 +28,7 @@ My work considers all sorts of bottlenecks related to data noise, sparsity, doma
 - **March, 2018:** Paper accepted to ITiCSE 2018.
 - **February, 2018:** Paper accepted to PAKDD 2018.
 - **February, 2018:** Workshop paper accepted to HumL@WWW 2018.
-- **December, 2017:** Presented poster on *Reward Augmentation in Text-based Deep Reinforcement Learning* @ WiML 2017
+- **December, 2017:** Presented poster on *Reward Augmentation in Text-based Deep Reinforcement Learning* @ WiML 
 
 
 
