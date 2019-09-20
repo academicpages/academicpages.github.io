@@ -20,6 +20,8 @@ My work considers all sorts of bottlenecks related to data noise, sparsity, doma
 
 
 # News
+- **July, 2019:** [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) acceptance!
+- **July, 2019:** CS@UIUC Travel Grant to attend Grace Hopper Conference in Orlando, FL.
 - **March, 2019:** Paper accepted to ICWSM 2019.
 - **June, 2018:** Short paper accepted to ISWC 2018.
 - **May, 2018:** Internship @ IBM Almaden Research Center, San Jose, CA.
@@ -31,7 +33,6 @@ My work considers all sorts of bottlenecks related to data noise, sparsity, doma
 - **December, 2017:** Attended IEEE BigData at Boston, MA (IEEE BigData Travel Award)
 - **September, 2017:** Presented [poster](/files/poster_Alibaba___Deep_Learning_for_Social_Media_Text_Mining.pdf) on *Deep Learning for Social Text Mining* at the Alibaba Technology Forum, Seattle, WA
 - **May, 2017:** Internship @ IBM Almaden Research Center, San Jose.
-- **December, 2017:** Paper accepted to IEEE Big Data 2017
 
 
 
