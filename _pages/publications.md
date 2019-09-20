@@ -55,6 +55,8 @@ Spyridon Stathopoulos, Ismini Lourentzou, Antonia Kyriakopoulou, Theodore Kalamb
 
 # Techincal Notes and Presentations
 
+- **Deep Learning for Social Text Mining** [poster](/files/poster_Alibaba___Deep_Learning_for_Social_Media_Text_Mining.pdf) at the Alibaba Technology Forum, September 2017, Seattle, WA
 - **Markov Games and Reinforcement Learning** [review](/files/games.pdf) 
 for CS598RM Algorithmic Game Theory
 - **Belief Propagation, Robust Reconstruction and Optimal Recovery of Block Models, E. Mossel et al., COLT 2014** [presentation](/files/MLTheorycourse_Dec2014_BeliefProp_presentation.pdf) for CS598RM Algorithmic Game Theory
+
