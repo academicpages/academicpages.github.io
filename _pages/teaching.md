@@ -38,7 +38,8 @@ CS 511 - Advanced Data Management course, Spring 2014
 Instructor: Prof. Kevin Chang, UIUC  
 Project: *Multi-resolution drill-down with clustering and sampling* [[video](https://www.youtube.com/watch?v=Be64SzC2I0k), [slides](/files/dora.pdf)]
 
-- CS Departmental nominee for the 2019 IBM PhD Fellowship and the 2014 Microsoft Graduate Women's Scholarship (three students are nominated each year)
+- CS Departmental nominee for the 2019 IBM PhD Fellowship and the 2014 Microsoft Graduate Women's Scholarship 
+*Three students are nominated each year*
 
 - [IPL](http://ipl.cs.aueb.gr) at ImageClef 2013 - AMIA Medical Task
 **2nd place** in Textual Ad-hoc image-based retrieval 
