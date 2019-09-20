@@ -19,7 +19,9 @@ author_profile: true
 - Former career in the banking sector @ **National Bank of Greece S.A.**, February 2004 - August 2013	 
 
 # Awards
+- **Travel Award** for [ISWC 2019](https://iswc2019.semanticweb.org), Auckland, New Zealand
 - **Outstanding Teaching Assistant Award** - CS Department @ UIUC, Spring 2018
+- **Travel Award** for [ICWSM 2019](https://www.icwsm.org/2019), Munich, Germany
 - **Travel Award** for [ISWC 2018](http://iswc2018.semanticweb.org), Pacific Grove, CA *(declined, unable to travel)*
 - **Travel Award** for [ISWC 2017](http://iswc2017.semanticweb.org), Vienna, Austria
 - **Travel Award** for [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/), Boston, MA
@@ -36,7 +38,7 @@ CS 511 - Advanced Data Management course, Spring 2014
 Instructor: Prof. Kevin Chang, UIUC  
 Project: *Multi-resolution drill-down with clustering and sampling* [[video](https://www.youtube.com/watch?v=Be64SzC2I0k), [slides](/files/dora.pdf)]
 
-- Selected from the CS Department as one of the three nominees for the Microsoft Graduate Women's Scholarship for 2014
+- Selected from the CS Department as one of the three nominees for the 2019 IBM PhD Fellowship and the 2014 Microsoft Graduate Women's Scholarship
 
 - [IPL](http://ipl.cs.aueb.gr) at ImageClef 2013 - AMIA Medical Task
 **2nd place** in Textual Ad-hoc image-based retrieval 
