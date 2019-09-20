@@ -14,7 +14,7 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai  
 [paper](https://arxiv.org/abs/1904.06100), [code](https://github.com/Isminoula/TextNormSeq2Seq), [slides](/files/TextNormSeq2Seq.pdf)  
 
-- **In Search of Zora/When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling**, Journal of Library Metadata, 2019  
+- **In Search of Zora/When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling**, Journal Library Metadata 2019  
 Nicole M Brown, Ruby Mendenhall, Michael Black, Mark Van Moer, Karen Flynn, Malaika McKee, Assata Zerai, Ismini Lourentzou, ChengXiang Zhai
 [paper](https://www.tandfonline.com/doi/abs/10.1080/19386389.2019.1652967)
 
@@ -30,21 +30,21 @@ Chase Geigle, Ismini Lourentzou, Hari Sundaram, ChengXiang Zhai
 Ismini Lourentzou, Alfredo Alba, Anni Coden, Anna Lisa Gentile, Daniel Gruhl, Steve Welch   
 [paper](/files/pakdd.pdf)
 
-- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HumL@WWW 2018 
-Ismini Lourentzou, Daniel Gruhl, Steve Welch   
+- **Exploring the Efficiency of Batch Active Learning for Human-in-the-Loop Relation Extraction**, HumL@WWW 2018  
+IsminiLourentzou, Daniel Gruhl, Steve Welch   
 [paper](/files/batchAL.pdf), [slides](/files/HumL2018poster.pdf)  
  
 - **Who is Saying What on Twitter: Analysis of Messages with References to HIV & HIV Risk Behavior**, Acta Investigación Psicológica 2018  
 Sophie Lohmann, Ismini Lourentzou, Chengxiang Zhai, Dolores Albarracín
 
-- **Text-based Geolocation Prediction of Social Media Users with Neural Networks**, IEEE Big Data 2018   
+- **Text-based Geolocation Prediction of Social Media Users with Neural Networks**, IEEE Big Data 2018  
 Ismini Lourentzou, Alex Morales, ChengXiang Zhai   
 [paper](/files/geoNN.pdf), [slides](/files/text-based-geolocation.pdf), [code](https://github.com/TIMAN-group/geoNN)
 
 - **Rescuing Lost History: Using Big Data to Recover Black Women's Lived Experiences**, XSDEDE 2016  
 Ruby Mendenhall, Nicole Brown, Michael L Black, Mark Van Moer, Ismini Lourentzou, Karen Flynn, Malaika Mckee, Assata Zerai
 
-- **Hotspots of news articles: Joint mining of news text & social media to discover controversial points in news**, IEEE Big Data 2015 
+- **Hotspots of news articles: Joint mining of news text & social media to discover controversial points in news**, IEEE Big Data 2015  
 Ismini Lourentzou, Graham Dyer, Abhishek Sharma, ChengXiang Zhai   
 [paper](/files/hotspots.pdf), [demo](https://controversy.2pitau.org/login), [code](https://framagit.org/gdyer/CONTROVERSY)
 
