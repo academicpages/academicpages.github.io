@@ -12,7 +12,11 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 - **Adapting Sequence to Sequence models for Text Normalization in Social Media**, ICWSM 2019  
 Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai  
-[paper](https://arxiv.org/abs/1904.06100), [code](https://github.com/Isminoula/TextNormSeq2Seq) *resources coming soon!*
+[paper](https://arxiv.org/abs/1904.06100), [code](https://github.com/Isminoula/TextNormSeq2Seq), [slides](/files/TextNormSeq2Seq.pdf)  
+
+- **In Search of Zora/When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling**, Journal of Library Metadata, 2019  
+Nicole M Brown, Ruby Mendenhall, Michael Black, Mark Van Moer, Karen Flynn, Malaika McKee, Assata Zerai, Ismini Lourentzou, ChengXiang Zhai
+[paper](https://www.tandfonline.com/doi/abs/10.1080/19386389.2019.1652967)
 
 - **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018   
 Ismini Lourentzou, Anna Lisa Gentile, Daniel Gruhl, Jane Fortner, Michele Freemon, Kendra Grande  
