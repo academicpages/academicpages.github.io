@@ -8,7 +8,7 @@ author_profile: true
 #### [Mapping U.S. School Resegregation](https://yongjunzhang.shinyapps.io/schsegapp/) (Fiel and Zhang 2019).
 
 ## Data for NSF Funded Project--Social Movement Impact on Policy Outcomes
-#### [Social Scientists before Congress](https://osf.io/e3h98/)
+#### Social Scientists before Congress
 
 ## The Longitudinal Corporate Elite and Employee Contributor Database (LCEECD)**
 ### This big dataset contains all itemized donations made by SP1500 corporate CEOs, boards of directors and senior managers as well as employees in federal elections from 2000-2018.
