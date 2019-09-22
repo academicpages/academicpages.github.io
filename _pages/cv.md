@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Math & Physics, Classe préparatoire aux grandes écoles, 2014 [ [The workload is one of the highest in Europe](https://www.telegraph.co.uk/expat/4190728/Frances-educational-elite.html) ]
+* M.S. in Industrial Engineering, Ecole Mohammadia d'ingenieurs, 2017
+* M.S. in Electrical Engineering & Computer science, University of North Dakota, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Fall 2017 - Summer 2018: Data Scientist - Risk Management
+  * [BMCE Bank Of Africa](https://www.bmcebank.ma/en/bank-of-africa#)
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2017: Data scientist
+  * OCP Group SA *[World Largest Phosphate Producer](https://www.ocpgroup.ma/en/home)*
+    * __Predictive Maintenance__ : I developed a machine learning model to predict failures events of routing machines in the plant. The data-set was based on the working conditions and failure events history of the routing machines.
+    * __Data visualization__ : I developed a web application to be  available online (with R-shiny) and integrated with the original website of the predictive maintenance in the plant.
   
 Skills
 ======
