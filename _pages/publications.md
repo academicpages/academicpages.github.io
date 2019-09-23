@@ -16,7 +16,7 @@ Accepted on 30 July 2019.
 
 **T. Liao**, J. Chen and Y. Xu     
 Quality evaluation-based seam estimation for image stitching     
-Signal, Image and Video Processing (SIViP), 13(6), 1199-1206, 2019.
+Signal, Image and Video Processing (SIViP), 13(6), 1199-1206, 2019.     
 [Code](https://github.com/tlliao/Iterative-seam-estimation)
 
 
