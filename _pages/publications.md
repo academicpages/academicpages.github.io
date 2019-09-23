@@ -9,7 +9,7 @@ author_profile: true
 ## Preprint
 
 J. Chen, N. Li and **T. Liao**
-Improved Hypothesis Generation for Parallax-tolerant Image Stitching
+Improved Hypothesis Generation for Parallax-tolerant Image Stitching      
 [Arxiv Preprint](https://arxiv.org/abs/1804.07492)
 
 ## 2019
