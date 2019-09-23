@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-** Biography
+Biography
+========
 
-Tianli Liao joined the College of Information Science and Engineering <a href="https://computer.haut.edu.cn"> at Henan University of Techonology <a href="https://www.haut.edu.cn"> in September 2019 as a Lecturer. He received his Ph.D. degree in Applied Mathematics from Nankai University. He becomes a lecturer immediately after graduation. 
+Tianli Liao joined the <a href="https://computer.haut.edu.cn">College of Information Science and Engineering</a> at <a href="https://www.haut.edu.cn">Henan University of Techonology</a> in September 2019 as a Lecturer. He received his Ph.D. degree in Applied Mathematics from Nankai University. He becomes a lecturer immediately after graduation. 
 
 His research interests include computer vision, machine learning and computational graphics, focusing specifically on image/video stitching, image manipulation, texture synthesis and image-to-image translation.
 
