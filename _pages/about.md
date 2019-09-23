@@ -13,7 +13,7 @@ I am a lecturer in the <a href="https://computer.haut.edu.cn">College of Informa
 
 My research interests include computer vision, machine learning and computational graphics, focusing specifically on image/video stitching, image manipulation, texture synthesis and image-to-image translation.
 
-Here is my <a href="tlliao.github.io/files/cv_ltl.pdf">CV</a> and <a href="#Contact information">contact information</a>.
+Here is my <a href="tlliao.github.io/files/cv_ltl.pdf">CV</a> and <a href="###Contact information">contact information</a>.
 
 ### Research
 
