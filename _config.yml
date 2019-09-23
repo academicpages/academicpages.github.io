@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "tianli.liao@haut.edu.cn"
+  name             : 
   avatar           : "profile.jpg"
-  bio              : 
+  bio              : "tianli.liao@haut.edu.cn"
   location         : "P.R. China"
   employer         :
   pubmed           : 
