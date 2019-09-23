@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "tianli.liao@haut.edu.cn"
   avatar           : "profile.jpg"
   bio              : 
   location         : "P.R. China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=iKBKilEAAAAJ&hl=en"
-  email            : "tianli.liao@haut.edu.cn"
+  email            : #"tianli.liao@haut.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Tianli_Liao2?ev=hdr_xprf"
   uri              :
   bitbucket        :
