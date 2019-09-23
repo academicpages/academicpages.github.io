@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en_US"
-title                    : "Tianli Liao / 廖天力"
+title                    : "廖天力 / HOME"
 title_separator          : "-"
 name                     : &name "Tianli Liao"
 description              : &description "Lecture from Henan Univerisity of Techonology"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : Tianli Liao
   avatar           : "profile.jpg"
-  bio              : "tianli.liao@haut.edu.cn"
+  bio              : 
   location         : "P.R. China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=iKBKilEAAAAJ&hl=en"
-  email            : #"tianli.liao@haut.edu.cn"
+  email            : "tianli.liao@haut.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Tianli_Liao2?ev=hdr_xprf"
   uri              :
   bitbucket        :
