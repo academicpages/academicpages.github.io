@@ -11,7 +11,7 @@ author_profile: true
 Single-Perspective Warps in Natural Image Stitching     
 IEEE Transactions on Image Processing (TIP), 2019.     
 Accepted on 30 July 2019.     
-[Arxiv Preprint](https://arxiv.org/abs/1802.04645)--[Code](https://github.com/tlliao/Single-perspective-warps)
+[Arxiv Preprint](https://arxiv.org/abs/1802.04645) - [Code](https://github.com/tlliao/Single-perspective-warps)
 
 
 **T. Liao**, J. Chen and Y. Xu     
