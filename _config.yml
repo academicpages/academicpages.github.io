@@ -10,7 +10,7 @@ locale                   : "en_US"
 title                    : "Tianli Liao / 廖天力"
 title_separator          : "-"
 name                     : &name "Tianli Liao"
-description              : &description "personal description"
+description              : &description "Lecture from Henan Univerisity of Techonology"
 url                      : https://tlliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tlliao/tlliao.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=iKBKilEAAAAJ&hl=en"
   email            : "tianli.liao@haut.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Tianli_Liao"
+  researchgate     : "https://www.researchgate.net/profile/Tianli_Liao2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
