@@ -13,20 +13,20 @@ I am a lecturer in the [College of Information Science and Engineering](https://
 
 My research interests include computer vision, machine learning and computational graphics, focusing specifically on image/video stitching, image manipulation, texture synthesis and image-to-image translation.
 
-Here is my [CV](tlliao.github.io/files/cv_ltl.pdf) and <a href="#contact information">contact information</a>.
+Here is my [CV](tlliao.github.io/files/cv_ltl.pdf) and [contact information](#contact information).
 
 
 ## News
 
-* **Paper** Our work on image stitching has been accepted to IEEE Transactions on Image Processing.
-* **Code** Matlab implementation for Single-perspective warps.
+* [**Paper**] Our work on image stitching has been accepted to IEEE Transactions on Image Processing.
+* [**Code**] Matlab implementation for Single-perspective warps.
 
 ## Research
 
 I actively conduct research in computer vision. Visit my [research](https://tlliao.github.io/research/) page for more information.
 
 
-## <a name="contact information">Contact information</a>
+## <span id="contact information">Contact information</span>
 
 Room 6.420 No. 6 teaching building    
 College of Information Science and Engineering, Henan University of Techonology      
