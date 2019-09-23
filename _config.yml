@@ -180,12 +180,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   research:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/   
   talks:
     output: true
     permalink: /:collection/:path/
@@ -236,10 +233,10 @@ defaults:
     values:
       layout: research
       author_profile: true      
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
