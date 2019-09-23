@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-========
 
-Tianli Liao joined the <a href="https://computer.haut.edu.cn">College of Information Science and Engineering</a> at <a href="https://www.haut.edu.cn">Henan University of Techonology</a> in September 2019 as a Lecturer. He received his Ph.D. degree in Applied Mathematics from Nankai University. He becomes a lecturer immediately after graduation. 
+I am a lecturer in the <a href="https://computer.haut.edu.cn">College of Information Science and Engineering</a>, <a href="https://www.haut.edu.cn">Henan University of Techonology</a>. I received my Ph.D. in Applied Mathematics in 2019 from <a href="http://www.combinatorics.net.cn">Center for Combinatorics</a>, <a href="http://www.nankai.edu.cn">Nankai University</a>.
 
-His research interests include computer vision, machine learning and computational graphics, focusing specifically on image/video stitching, image manipulation, texture synthesis and image-to-image translation.
+My research interests include computer vision, machine learning and computational graphics, focusing specifically on image/video stitching, image manipulation, texture synthesis and image-to-image translation.
+
+Here is my CV and contact information.
+
+### Research
+
+I actively conduct research in computer vision. Visit my research page for more information.
+
+### Contact information
+
+Room 6.420 No. 6 teaching building
+College of Information Science and Engineering, Henan University of Techonology
+No. 100 Lianhua Street, Zhengzhou High-Tech Development Zone, Zhengzhou, China
+Email: tianli.liao@haut.edu.cn
 
 
 <!-- <p style="text-align:justify">Tianli Liao joined  the currently I'm a Lecturer at <a href="https://www.haut.edu.cn" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">Henan University of Techonology</a> in Zhengzhou, China. Most of the time I enjoyed the day'n'night beamtime in my lovely synchrotron hutch and took the Scooter circling around the <a href="https://www.psi.ch/sls/" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">Swiss Light Source (SLS)</a>. Well, stop...that is actually not true...</p> 
