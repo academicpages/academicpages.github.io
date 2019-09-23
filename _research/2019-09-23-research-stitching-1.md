@@ -1,12 +1,13 @@
 ---
 title: "Image stitching"
 collection: research
+type: "research"
 permalink: /research/2019-09-23-research-stitching-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 
 venue: 
-citation: 
+date: 
+location: 
 ---
+
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here]

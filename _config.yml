@@ -232,9 +232,7 @@ defaults:
       type: research
     values:
       layout: single
-      author_profile: true
-      share: false
-      comments: false    
+      author_profile: true   
   # _portfolio
   - scope:
       path: ""
