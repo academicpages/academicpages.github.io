@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Image stitching"
+excerpt: "Research on the second step of image stitching: seam-cutting or seam estimation<br/><img src='/images/500x300.png'>"
 collection: research
 ---
 

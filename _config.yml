@@ -232,7 +232,9 @@ defaults:
       type: research
     values:
       layout: research
-      author_profile: true      
+      author_profile: true    
+      share: false
+      comment: false
   # # _research
   # - scope:
       # path: ""
