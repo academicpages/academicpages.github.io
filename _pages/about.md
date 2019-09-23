@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome :-)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+** Biography
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Tianli Liao joined the College of Information Science and Engineering <a href="https://computer.haut.edu.cn"> at Henan University of Techonology <a href="https://www.haut.edu.cn"> in September 2019 as a Lecturer. He received his Ph.D. degree in Applied Mathematics from Nankai University. He becomes a lecturer immediately after graduation. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+His research interests include computer vision, machine learning and computational graphics, focusing specifically on image/video stitching, image manipulation, texture synthesis and image-to-image translation.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<!-- <p style="text-align:justify">Tianli Liao joined  the currently I'm a Lecturer at <a href="https://www.haut.edu.cn" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">Henan University of Techonology</a> in Zhengzhou, China. Most of the time I enjoyed the day'n'night beamtime in my lovely synchrotron hutch and took the Scooter circling around the <a href="https://www.psi.ch/sls/" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">Swiss Light Source (SLS)</a>. Well, stop...that is actually not true...</p> 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<p style="text-align:justify">Grown up in the middle east of China in a small acqua town called <a href="https://www.google.com/maps/place/%E4%B8%AD%E5%9B%BD%E5%AE%89%E5%BE%BD%E7%9C%81%E5%AE%89%E5%BA%86%E5%B8%82%E6%9E%9E%E9%98%B3%E5%8E%BF/@30.8577548,117.1307693,10z/data=!3m1!4b1!4m5!3m4!1s0x34348f82e68d264d:0x42fdf5bcd3d7d384!8m2!3d30.700733!4d117.2202" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">Zōngyáng</a> by the Yangtze River, I was a little boy who was luckily gifted with abundant of curiosities towards the grand world. After 4 years of bachelor studies at <a href="http://en.njtu.edu.cn/" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">Jiaotong University (BJTU)</a> in Beijing, the capital, I started my "Journey to the West" at 20 years old in 2014. Arrived in Paris CDG and the SNCF brought me to a small City called Rennes, phonetically joked as "Rain", where I spent first year of my master studies. Thanks to the great EU mobility, I continued the second year of master at <a href="https://www.en.uni-muenchen.de/index.html" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">University of Munich (LMU)</a> & <a href="https://www.tum.de/" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">Technical University of Munich (TUM)</a> and committed my master dissertation at TUM Physics department. Life was never lack of suprises, I got the chance interviewed by Professor from ETH and fortunately won the PhD position at <a href="https://www.psi.ch/" style="color:rgb(65, 105, 225); text-decoration:none;" onClick="ga('send', 'event', { eventCategory: '', eventAction: 'click', eventLabel: '', eventValue: 1});" target="_blank">Paul Scherrer Institut (PSI)</a> for renewable energy research, where my three-year of future begins. </p> 
+ -->
