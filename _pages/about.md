@@ -15,15 +15,21 @@ My research interests include computer vision, machine learning and computationa
 
 Here is my [CV](tlliao.github.io/files/cv_ltl.pdf) and <a href="#contact information">contact information</a>.
 
-### Research
+
+## News
+
+* **Paper** Our work on image stitching has been accepted to IEEE Transactions on Image Processing.
+* **Code** Matlab implementation for Single-perspective warps.
+
+## Research
 
 I actively conduct research in computer vision. Visit my [research](https://tlliao.github.io/research/) page for more information.
 
 
-### <a name="contact information">Contact information</a>
+## <a name="contact information">Contact information</a>
 
 Room 6.420 No. 6 teaching building    
 College of Information Science and Engineering, Henan University of Techonology      
 No. 100 Lianhua Street, Zhengzhou High-Tech Development Zone, Zhengzhou, China      
-Email: tianli.liao@haut.edu.cn
+Email: tianli dot liao at haut dot edu dot cn
 
