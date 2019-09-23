@@ -234,8 +234,8 @@ defaults:
       path: ""
       type: research
     values:
-      layout: single
-      author_profile: true   
+      layout: research
+      author_profile: true      
   # _portfolio
   - scope:
       path: ""
