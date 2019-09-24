@@ -11,7 +11,12 @@ redirect_from:
 
 I am a lecturer in the [College of Information Science and Engineering](https://computer.haut.edu.cn), [Henan University of Techonology](https://www.haut.edu.cn). I received my Ph.D. in Applied Mathematics in 2019 from [Center for Combinatorics](http://www.combinatorics.net.cn), [Nankai University](http://www.nankai.edu.cn).
 
-My research interests include computer vision, machine learning and computational graphics, focusing specifically on image/video stitching, image manipulation, texture synthesis and image-to-image translation.
+My research interests include computer vision, machine learning and computational graphics, mainly focusing on
+* image/video stitching
+* image manipulation
+* texture synthesis 
+* image-to-image translation.
+
 
 Here is my [CV](tlliao.github.io/files/cv_ltl.pdf) and [contact information](#contact information).
 

@@ -36,7 +36,7 @@ Electronics Letters, 54(23), 1328-1330, 2018.
 N. Li, **T. Liao** and C. Wang     
 Perception-based seam cutting for image stitching     
 Signal, Image and Video Processing (SIViP), 12(5), 967-974, 2018.    
-[Code](https://github.com/tlliao/Perception-based-seam-cutting)
+[Project website](https://tlliao.github.io/research/research-1/) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
 
 
 
