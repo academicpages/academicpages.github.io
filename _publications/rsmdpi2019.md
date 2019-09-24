@@ -13,7 +13,7 @@ venue: 'Remote Sensing'
 
 **This paper proposes a deep-learning pipeline for multiple vehicle detection and tracking from UAV videos. This approach works reliable for vehicle tracking with significant orientation and scale variations.**
 <div style="text-align: center">
-<img src="https://github.com/jwangjie/jwangjie.github.io/blob/master/_publications/rsmdpi2019/roundabout.png"/>
+<img src="https://jwangjie.github.io/publications/rsmdpi2019/roundabout.png"/>
 </div>
 
 ## Abstract
