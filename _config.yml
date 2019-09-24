@@ -81,10 +81,10 @@ author:
   name             : "Onno Kampman"
   avatar           : "onno_kampman.jpeg"
   bio              : "Machine Learning Researcher"
-  location         : "Hong Kong"
-  employer         : "Goldman Sachs"
+  location         : "Cambridge, United Kingdom"
+  employer         : "University of Cambridge"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gSVe8CkAAAAJ&hl=en"
-  email            : "onno.kampman@gmail.com"
+  email            : "opk20@cam.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,10 +98,8 @@ author:
 #  orcid            : "http://orcid.org/yourorcidurl"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
   tumblr           :
 #  twitter          : "replacethistwitterhandle"
-  weibo            :
   xing             :
   youtube          :
   wikipedia        :
