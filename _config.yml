@@ -235,15 +235,6 @@ defaults:
       author_profile: true    
       share: false
       comment: false
-  # # _research
-  # - scope:
-      # path: ""
-      # type: research
-    # values:
-      # layout: single
-      # author_profile: true
-      # share: true
-      # comment: true
   # _talks
   - scope:
       path: ""
