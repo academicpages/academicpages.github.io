@@ -28,8 +28,10 @@ I actively conduct research in computer vision. Visit my [research](https://tlli
 
 ## <span id="contact information">Contact information</span>
 
-Building 6, Room 6420   
-College of Information Science and Engineering, Henan University of Techonology      
-No. 100 Lianhua Street, Zhengzhou High-Tech Development Zone, Zhengzhou, China      
-Email: tianli dot liao at haut dot edu dot cn
+* Mailing address:   
+Room 6420, College of Information Science and Engineering   
+Henan University of Techonology,   
+No. 100 Lianhua Street, Zhengzhou High-Tech Development Zone,    
+Zhengzhou, Henan, P.R.China (450001)      
+* Email: tianli.liao(at)haut.edu.cn
 
