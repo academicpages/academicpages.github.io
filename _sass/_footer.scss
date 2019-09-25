@@ -14,7 +14,7 @@
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 1em;
+  margin-top: 3em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -68,7 +68,7 @@
   li {
     display: inline-block;
     padding-top: 5px;
-    padding-bottom: 5px;
+    padding-bottom: 0px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
