@@ -7,9 +7,10 @@ venue: 'Remote Sensing'
 ---
 
 [[Paper]](https://www.mdpi.com/2072-4292/11/18/2155)
+[[Poster]](https://jwangjie.github.io/publications/rsmdpi2019/DLRL2019.pdf)
 [[Videos]](https://github.com/jwangjie/UAV-vehicle-tracking)
-[[Dataset]](https://github.com/jwangjie/UAV-Vehicle-Detection-Dataset)
 [[software]](https://github.com/jwangjie/Fine-tune-YOLOv3)
+[[Dataset]](https://github.com/jwangjie/UAV-Vehicle-Detection-Dataset)
 
 **This paper proposes a deep-learning pipeline for multiple vehicle detection and tracking from UAV videos. This approach works reliable for vehicle tracking with significant orientation and scale variations.**
 <div style="text-align: center">
