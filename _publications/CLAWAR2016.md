@@ -5,7 +5,7 @@ date: 2016-09-12
 venue: ' International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR)'
 ---
 
-[[Paper]](https://github.com/jwangjie/jwangjie.github.io/blob/master/_publications/publications/CLAWAR2016.pdf)
+[[Paper]](https://jwangjie.github.io/publications/publications/CLAWAR2016.pdf)
 
 ## Abstract
 This paper proposes a criterion based method to make possible the autonomous locomotion
