@@ -2,7 +2,7 @@
 title: "Orientation- and Scale-Invariant Multi-Vehicle Detection and Tracking from Unmanned Aerial Videos"
 collection: publications
 permalink: /publication/rsmdpi2019
-date: 2009-09-16
+date: 2019-09-16
 venue: 'Remote Sensing'
 ---
 
