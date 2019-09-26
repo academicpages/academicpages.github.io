@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/slides/example/">
+
+  <title>Slides | Javier Fabre</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/black.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous">
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+
+  
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/pdf.css' : 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h1 id="welcome-to-slides">Welcome to Slides</h1>
+
+<p><a href="https://sourcethemes.com/academic/" target="_blank">Academic</a></p>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h2 id="features">Features</h2>
+
+<ul>
+<li>Efficiently write slides in Markdown</li>
+<li>3-in-1: Create, Present, and Publish your slides</li>
+<li>Supports speaker notes</li>
+<li>Mobile friendly slides</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h2 id="controls">Controls</h2>
+
+<ul>
+<li>Next: <code>Right Arrow</code> or <code>Space</code></li>
+<li>Previous: <code>Left Arrow</code></li>
+<li>Start: <code>Home</code></li>
+<li>Finish: <code>End</code></li>
+<li>Overview: <code>Esc</code></li>
+<li>Speaker notes: <code>S</code></li>
+<li>Fullscreen: <code>F</code></li>
+<li>Zoom: <code>Alt + Click</code></li>
+<li><a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank">PDF Export</a>: <code>E</code></li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h2 id="code-highlighting">Code Highlighting</h2>
+
+<p>Inline code: <code>variable</code></p>
+
+<p>Code block:</p>
+
+<pre><code class="language-python">porridge = &quot;blueberry&quot;
+if porridge == &quot;blueberry&quot;:
+    print(&quot;Eating...&quot;)
+</code></pre>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h2 id="math">Math</h2>
+
+<p>In-line math: $x + y = z$</p>
+
+<p>Block math:</p>
+
+<p>$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$</p>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h2 id="fragments">Fragments</h2>
+
+<p>Make content appear incrementally</p>
+
+<pre><code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+</code></pre>
+
+<p>Press <code>Space</code> to play!</p>
+
+<p><span class="fragment " >
+   One
+</span>
+<span class="fragment " >
+   <strong>Two</strong>
+</span>
+<span class="fragment " >
+   Three
+</span></p>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<p>A fragment can accept two optional parameters:</p>
+
+<ul>
+<li><code>class</code>: use a custom style (requires definition in custom CSS)</li>
+<li><code>weight</code>: sets the order in which a fragment appears</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h2 id="speaker-notes">Speaker Notes</h2>
+
+<p>Add speaker notes to your presentation</p>
+
+<pre><code class="language-markdown">{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+</code></pre>
+
+<p>Press the <code>S</code> key to view the speaker notes!</p>
+
+<aside class="notes">
+  <ul>
+<li>Only the speaker can read these notes</li>
+<li>Press <code>S</code> key to view</li>
+</ul>
+</aside>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h2 id="themes">Themes</h2>
+
+<ul>
+<li>black: Black background, white text, blue links (default)</li>
+<li>white: White background, black text, blue links</li>
+<li>league: Gray background, white text, blue links</li>
+<li>beige: Beige background, dark text, brown links</li>
+<li>sky: Blue background, thin dark text, blue links</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<ul>
+<li>night: Black background, thick white text, orange links</li>
+<li>serif: Cappuccino background, gray text, brown links</li>
+<li>simple: White background, black text, blue links</li>
+<li>solarized: Cream-colored background, dark green text, blue links</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+    
+      
+
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image="/img/boards.jpg"
+  >
+
+
+<h2 id="custom-slide">Custom Slide</h2>
+
+<p>Customize the slide style and background</p>
+
+<pre><code class="language-markdown">{{&lt; slide background-image=&quot;/img/boards.jpg&quot; &gt;}}
+{{&lt; slide background-color=&quot;#0000FF&quot; &gt;}}
+{{&lt; slide class=&quot;my-style&quot; &gt;}}
+</code></pre>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h2 id="custom-css-example">Custom CSS Example</h2>
+
+<p>Let&rsquo;s make headers navy colored.</p>
+
+<p>Create <code>assets/css/reveal_custom.css</code> with:</p>
+
+<pre><code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+</code></pre>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+<h1 id="questions">Questions?</h1>
+
+<p><a href="https://discourse.gohugo.io" target="_blank">Ask</a></p>
+
+<p><a href="https://sourcethemes.com/academic/docs/" target="_blank">Documentation</a></p>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/lib/js/head.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script>
+
+  <script>
+    window.revealPlugins = { dependencies: [
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/zoom-js/zoom.js', async: true },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/math/math.js', async: true },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/print-pdf/print-pdf.js', async: true },
+      
+      { src: '\/js\/vendor\/reveal.js\/plugin\/notes\/notes.js', async: true }
+    ]};
+
+    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'slide', mouseWheel: true };
+    let revealOptions = Object.assign({}, revealDefaults, revealPlugins);
+    Reveal.initialize(revealOptions);
+  </script>
+
+</body>
+</html>

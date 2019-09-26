@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Fabre</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Javier Fabre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Javier Fabre</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Optical Illusions with ShaderToy</title>
+      <link>/post/optical-illusions/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/post/optical-illusions/</guid>
+      <description>&lt;p&gt;Yesterday I was waiting for one of my PT frames to finish, viewing the latest contributions in &lt;a href=&#34;https://www.shadertoy.com/&#34; target=&#34;_blank&#34;&gt;Shadertoy&lt;/a&gt;, when I hitted one shader about &lt;a href=&#34;https://www.shadertoy.com/view/4dcfzr&#34; target=&#34;_blank&#34;&gt;optical illusions&lt;/a&gt; so I decided to made one on my own.&lt;/p&gt;
+
+&lt;p&gt;This was the result&lt;/p&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; src=&#34;https://www.shadertoy.com/embed/XddfRr?gui=true&amp;t=10&amp;paused=true&amp;muted=false&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;which I managed to made in 97 chars, although &lt;a href=&#34;https://www.shadertoy.com/user/FabriceNeyret2&#34; target=&#34;_blank&#34;&gt;FabriceNeyret2&lt;/a&gt; came to made it in 60 chars (thanks for the comments and help in all the shaders).&lt;/p&gt;
+
+&lt;p&gt;After making the Hermann Grid I made 4 more illusions, being the &lt;em&gt;Induced Contrast Asynchrony&lt;/em&gt; my favourite. I have included highlights to all of them in this page.&lt;/p&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; src=&#34;https://www.shadertoy.com/embed/XsdfRH?gui=true&amp;t=10&amp;paused=false&amp;muted=false&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; src=&#34;https://www.shadertoy.com/embed/Xdtfzr?gui=true&amp;t=10&amp;paused=true&amp;muted=false&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; src=&#34;https://www.shadertoy.com/embed/4ddBRH?gui=true&amp;t=10&amp;paused=false&amp;muted=false&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; src=&#34;https://www.shadertoy.com/embed/lddfzr?gui=true&amp;t=10&amp;paused=false&amp;muted=false&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/hello-world/</guid>
+      <description>&lt;p&gt;Here we go!&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() { std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;endl; }
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

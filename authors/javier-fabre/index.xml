@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Fabre</title>
+    <link>/authors/javier-fabre/</link>
+      <atom:link href="/authors/javier-fabre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Javier Fabre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Javier Fabre</title>
+      <link>/authors/javier-fabre/</link>
+    </image>
+    
+    <item>
+      <title>Simulación Adaptativa de Iluminación Global</title>
+      <link>/publication/tfg/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tfg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
