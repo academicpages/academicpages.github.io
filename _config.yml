@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shreya Tandon / Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Shreya Tandon"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   email            : "shreya.tandon95@gmail.com"
   github           : "standon95"
-  linkedin         : "https://www.linkedin.com/in/shreya-tandon-741288132"
+  linkedin         : "shreya-tandon-741288132"
   twitter          : "shreyatandon02"
 
 
