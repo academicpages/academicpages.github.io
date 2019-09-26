@@ -6,7 +6,7 @@ venue: 'arXiv:1905.04235'
 ---
 
 [[Paper]](https://arxiv.org/pdf/1905.04235.pdf)
-[[Video]](https://github.com/jwangjie/jwangjie.github.io/blob/master/_publications/publications/arXiv2019.gif)
+[[Video]](https://jwangjie.github.io/publications/publications/arXiv2019.gif)
 
 ## Abstract
 Multi-modal locomotion (e.g. terrestrial, aerial, and aquatic) is gaining increasing interest
