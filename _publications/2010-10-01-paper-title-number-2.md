@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Stair-climbing and energy consumption evaluation of a leg-tracked quadruped robot"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2016-07-12
+venue: 'IEEE'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[[Paper]](https://github.com/jwangjie/jwangjie.github.io/blob/master/_publications/publications/aim2016.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+## Abstract
+This paper proposes an energy consumption criterion to realize the locomotion mode transition of hybrid ground robots, which particularly focuses on gait and energy analysis of a leg-tracked quadruped robot. The proposed criterion uses both the internal states of the robot and the external environmental information to determine the most energy efficient locomotion mode. The criterion is proposed based on the knowledge of the energy consumption of the studied robot to negotiate stairs of varying heights in the walking locomotion mode.
