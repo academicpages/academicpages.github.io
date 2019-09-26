@@ -8,9 +8,9 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+        <img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+        <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
@@ -117,7 +117,13 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.patreon %}
+        <li><a href="https://patreon.com/{{ author.patreon }}"><i class="fab fa-patreon" aria-hidden="true"></i> Patreon</a></li>
+      {% endif %}
+      {% if author.telegram %}
+        <li><a href="https://t.me/{{ author.telegram }}"><i class="fab fa-telegram" aria-hidden="true"></i> Telegram</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
