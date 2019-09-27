@@ -1,27 +1,20 @@
 ---
-title: "Autonomous Locomotion Mode Transition Simulation of a Track-legged Quadruped Robot Step Negotiation"
-collection: publications
-date: 2019-05-10
-venue: 'arXiv:1905.04235'
+title: 'Blog Post number 4'
+date: 2015-08-14
+permalink: /posts/2012/08/blog-post-4/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
-[[Paper]](https://arxiv.org/pdf/1905.04235.pdf)
-[[Video]](https://jwangjie.github.io/publications/publications/arXiv2019.gif)
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-## Abstract
-Multi-modal locomotion (e.g. terrestrial, aerial, and aquatic) is gaining increasing interest
-in robotics research as it improves the robots’ environmental adaptability, locomotion versatility,
-and operational flexibility. Within the terrestrial multiple locomotion robots, the advantage
-of hybrid robots stems from their multiple (two or more) locomotion modes, among which robots
-can select from depending on the encountering terrain conditions. However, there are many challenges
-in improving the autonomy of the locomotion mode transition between their multiple locomotion
-modes.
+Headings are cool
+======
 
-This work proposed a method to realize an autonomous locomotion mode transition of a tracklegged quadruped 
-robot’s steps negotiation. The autonomy of the decision-making process was
-realized by the proposed criterion to comparing energy performances of the rolling and walking
-locomotion modes. Two climbing gaits were proposed to achieve smooth steps negotiation behaviours
-for the energy evaluation purposes. Simulations showed autonomous locomotion mode transitions
-were realized for negotiations of steps with different height. The proposed method is generic enough
-to be utilized to other hybrid robots after some pre-studies of their locomotion’s energy performances. 
+You can have many headings
+======
 
+Aren't headings cool?
+------
