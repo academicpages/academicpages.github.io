@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+### [Mobile Friendly CV](https://jwangjie.github.io/files/cv_JW.pdf)
+
 {% include base_path %}
 
 <object data="../files/cv_JW.pdf" type="application/pdf" width="700px" height="700px">
