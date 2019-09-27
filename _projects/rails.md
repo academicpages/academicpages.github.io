@@ -2,19 +2,11 @@
 title: 'rails'
 date: 2019-09-16
 permalink: /projects/rails/
-tags:
-  - cool posts
-  - category1
-  - category2
+
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
+Heading 1
 ======
 
-You can have many headings
+Heading 2
 ======
-
-Aren't headings cool?
-------
