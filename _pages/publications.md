@@ -18,7 +18,7 @@ Improved Hypothesis Generation for Parallax-tolerant Image Stitching
 Single-Perspective Warps in Natural Image Stitching     
 IEEE Transactions on Image Processing (TIP), 2019.     
 Accepted on 30 July 2019.     
-[Arxiv Preprint](https://arxiv.org/abs/1802.04645) - [Project page](https://tlliao.github.io/research/research-2/) - [Code](https://github.com/tlliao/Single-perspective-warps)
+[Arxiv Preprint](https://arxiv.org/abs/1802.04645) - [Project page](https://tlliao.github.io/research/2019-spwinis/) - [Code](https://github.com/tlliao/Single-perspective-warps)
 
 
 **T. Liao**, J. Chen and Y. Xu     
@@ -36,7 +36,7 @@ Electronics Letters, 54(23), 1328-1330, 2018.
 N. Li, **T. Liao** and C. Wang     
 Perception-based seam cutting for image stitching     
 Signal, Image and Video Processing (SIViP), 12(5), 967-974, 2018.    
-[Project page](https://tlliao.github.io/research/research-1/) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
+[Project page](https://tlliao.github.io/research/2018-pbscfis/) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
 
 
 
