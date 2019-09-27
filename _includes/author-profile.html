@@ -124,6 +124,9 @@
       {% if author.telegram %}
         <li><a href="https://t.me/{{ author.telegram }}"><i class="fab fa-telegram" aria-hidden="true"></i> Telegram</a></li>
       {% endif %}
+      {% if author.reddit %}
+        <li><a href="https://www.reddit.com/user/{{ author.reddit }}"><i class="fab fa-reddit" aria-hidden="true"></i> Reddit</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
