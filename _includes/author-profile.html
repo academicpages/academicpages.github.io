@@ -116,8 +116,17 @@
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
       {% if author.wikipedia %}
-        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.patreon %}
+        <li><a href="https://patreon.com/{{ author.patreon }}"><i class="fab fa-patreon" aria-hidden="true"></i> Patreon</a></li>
+      {% endif %}
+      {% if author.telegram %}
+        <li><a href="https://t.me/{{ author.telegram }}"><i class="fab fa-telegram" aria-hidden="true"></i> Telegram</a></li>
+      {% endif %}
+      {% if author.reddit %}
+        <li><a href="https://www.reddit.com/user/{{ author.reddit }}"><i class="fab fa-reddit" aria-hidden="true"></i> Reddit</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
