@@ -5,7 +5,4 @@ author_profile: true
 
 ---
 
-```diff
-+++ COMING SOON +++
-
-```
+#### COMING SOON 
