@@ -14,17 +14,17 @@ I'm on OSX. First, I got [Pandoc](https://pandoc.org/), a tool that turns Word f
 
 Second, I needed to add some lines to the `.gitconfig` file in my home directory:
 
-```
+```toml
 [diff "pandoc"]
   textconv=pandoc --to=markdown
-  prompt = false
+  prompt=false
 [alias]
-  wdiff = diff --word-diff=color --unified=1
+  wdiff=diff --word-diff=color --unified=1
 ```
 
-Third, in the git repo, I needed to create a new file `.gitattributes` with contents
+Third, in the git repo, I needed to create a new file `.gitattributes` with contents:
 
-```
+```toml
 *.docx diff=pandoc
 ```
 
