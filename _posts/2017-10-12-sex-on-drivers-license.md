@@ -1,0 +1,19 @@
+---
+title: Why is sex on a driver’s license?
+date: 2017-10-12
+permalink: /posts/2017/10/sex-on-drivers-license
+---
+
+I mostly missed the kerfluffle about [Oregon allowing a non-binary sex](http://www.foxnews.com/auto/2017/06/16/oregon-to-begin-offering-non-gender-option-on-drivers-license.html) ("X", rather than "M" or "F") on its driver's licenses. (Fox News, the link in the last sentence, somehow always unsettles me.) I think [it's worth](https://xkcd.com/386/) a few paragraphs.
+
+First, what are the pros and cons? Transgender rights groups say it's important that government documents reflect people's identities. [The other side](http://www.frc.org/updatearticle/20170510/common-sense) seems to have two arguments. The first one is safety. "How can the people working to keep us safe do so when a possible suspect could be described as either a man or a woman --or neither-- depending on how they feel at that particular time? Let's face it: This kind of political correctness can kill you!"
+
+This doesn't make much sense to me. Describing a suspect as a man or a woman presupposes that we can tell, at a glance, whether a person is man or a woman. Of how much use is it to say that a person' biological sex is one thing, when they may or may not look like the corresponding cis-gender?
+
+I the security argument is [kettle logic](https://en.wikipedia.org/wiki/Kettle_logic) covering for the true reason, which is that allowing "X" on a driver's license is a clear statement that human identity cannot be divided into male and female. The Family Research Council ---which, I should note, falls under [the SPLC's definition](https://www.splcenter.org/fighting-hate/extremist-files/group/family-research-council) of a hate group because it tells lies in order to advance an anti-homosexual platform--- says that "it's impossible to protect Americans when we let people hide their true identities". The animus is apparent: there are two true identities, male and female, and "X" is a violation of that truth.
+
+Which is the telling issue, security or identity? Consider this: some countries have religion on their identity cards (e.g., Greece), and some have had race (e.g., Rwanda before the genocide). To American eyes, it might seem preposterous to have either category. Religion is a highly mutable characteristic that wouldn't be useful to identify a suspect ("The person who mugged me was five-foot-six, wearing a hoodie, and was definitely a Methodist"), and we have a strong inhibition against government involvement around religious identity. In contrast, skin color is a mostly immutable characteristic (at least, it's about as difficult to alter as eye color, which *is* on my driver's license), and it's used *all the time* to identify suspects. So why isn't skin color on a driver's license? You might say, "Yes, but there's no need to put that on an identity card, because you can tell by looking," but that exact same logic applies if you replace "skin color" with "sex".
+
+Clearly this is an argument about identity. I think the interesting thing is that this issue isn't just about identity, it's about government recognition of identity. I think this is quite similar to the gay marriage controversy. We could avoid the whole question of gay marriage by changing the word "marriage" to "civil union" in all government documents, let anyone get a civil union with anyone else, and leave marriage to churches. Neither side wanted this; somehow we all accepted that government has something to do with marriage.
+
+I think we're in a similar place now. Neither side is talking about removing sex from identity cards. If a government doesn't discriminate between men and women, then there's no need for sex to be on an identity card any more than there's need to have religion on an identity card.
