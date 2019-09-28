@@ -1,0 +1,21 @@
+---
+date: '2016-09-05'
+slug: a-great-example-of-good-evolutionary-thinking
+title: A great example of good evolutionary thinking
+---
+
+In undergrad I became very interested in the science of early humans. We have such grand questions in that field: When did apes become humans? What did that transition mean? How did we come to be something that we think is qualitatively different from other animals?
+
+The challenge is that the data to answer this question are sparse. Around 20,000 years ago, there is an explosion of cool material stuff, like very complex stone tools, things that we can recognize as artwork, and good evidence of postmortem burials. Before that, we don't have very much, mostly stone tools and skeletons.
+
+Paleoanthropology, the name for this discipline, usually makes a big assumption when looking at skeletons: form follows function. In layman's terms, this means that you can tell what a human predecessor did based on how their body looked.
+
+In a biologist's terms, this is an assumption that all interesting features of the skeleton are adaptive. This assumption is subtly but critically incorrect and has lead to all sorts of crazy ideas. A good review of those ideas is [here](https://www.jstor.org/stable/77447), but I'll restrict myself to one: why did _T. rex_ have tiny arms? If you make this assumption, then you assert that tiny arms had to be good for something in the sense that a _T. rex_ with tiny arms would, on average, produce more offspring than a _T. rex_ with other arms. People have made up all sorts of explanations about what tiny arms _could be_ good for, but it may be that _T. rex_ had tiny arms for other, more mundane reasons. For example, they could be vestigial: maybe arms were useless and, over a long period of time, they would have disappeared, but short arms were not much worse than no arms at all, and so they were not "bred out" before _T. rex_ went extinct for other reasons.
+
+A great example of the fallacies of this kind of thinking are pointed to in [this Perspective](http://dx.doi.org/10.1126/science.aaf8398) from _Science_ magazine this summer. A human ancestor, _Paranthropus boisei_, had thickly-enameled, flat teeth and a really strong jaw. This made people initially think that _P. boisei_ was a natural nutcracker. By this logic, he was almost certainly not a leaf-eater, because other leaf-eaters, like gorillas, have teeth with long shearing crests rather than _P. boisei_'s blunt cusps.
+
+The form-follows-function assumption fails to account for the evolutionary history of tooth shape. The Perspective references research that uses genetic analysis to suggest a different picture. It is known that _P. boisei_'s evolutionary predecessor also had flat teeth but thinner enamel. If this predecessor started eating a leafy diet, crested teeth would have been the best solution (as evidenced by the gorilla teeth), but it is "hard" for them to arise through evolution: tooth shape is controlled by many genes, meaning that you need a strong selective pressure over millions of years for it to evolve. _P. boisei_ and his quasi-contemporaries evolved on a faster timescale than that on account of other pressures.
+
+There is another quick fix, however: it is "easy" for thicker enamel to evolve. (Flat teeth with thicker enamel aren't as good for eating leaves as crested teeth, but they are better than flat teeth with thinner enamel.) Enamel thickness is highly variable and highly heritable, meaning that _P. boisei_'s predecessor probably included some individuals with thick enamel, and that trait was reliably passed down to their children. If _P. boisei_ and his quasi-contemporaries had been around for millions of years, crested teeth might have emerged. Because they were around for a short time, evolution took the path of "least resistance", thickening enamel in the short term.
+
+I think the important take-away is that, when thinking about evolution, you don't want to ask "What is this trait good for?" but rather "How could this trait have emerged?" If the only answer to the second question you could possibly formulate is to say "It emerged because it was good for something", then it means that you don't know enough about the biology of evolution to be able to make a well-reasoned evolutionary argument.

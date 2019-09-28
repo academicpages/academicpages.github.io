@@ -1,0 +1,17 @@
+---
+date: '2017-05-01'
+slug: sex-andor-violence-in-movies
+title: Sex and/or violence in movies
+---
+
+Many people have written about how depictions of violence are considered more acceptable (or, at least, less offensive) than depictions of sex. Here's an erotic author [writing about it](http://www.huffingtonpost.com/ar-torre/sex-violence-book_b_5571674.html), a _Salon_ [article](http://www.salon.com/2011/06/30/violence_sex/) about a Supreme Court decision, [etc](http://time.com/4135760/why-parents-worry-more-about-sex-than-violence-in-the-movies/).
+
+An [interesting argument](http://www.washingtontimes.com/news/2015/dec/10/sex-in-movies-concerns-us-parents-more-than-violen/) is that parents believe that depictions of sex could lead their children to make bad decisions about sex, but they don't believe that depictions of violence are likely to cause their children to commit acts of violence. In other words, violence is a fantasy that will never be experienced or lived out, but sex will almost certainly occur, so we want to be more controlling of how we interact with depictions of real life things. This position is not without merit: apparently we have [found a stronger link](http://time.com/4135760/why-parents-worry-more-about-sex-than-violence-in-the-movies/) between watching depictions of sex and seeking sex than between watching violence and committing violence.
+
+I'm wondering if we are using the wrong multipliers in this research. Let's assume that seeing sex is more likely to cause _an individual_ to seek sex, compared to an individual seeing violence making that individual more likely seek violence. This misses two important points.
+
+First, how bad is it for that individual to have sought sex or violence? Sex can be risky, but if you do it right, then we consider it a positive thing. If sexy movies, targeted at the right audience, combined with sex education, leads to more positive sex, that's a good thing. Violence, on the other hand, is not risky; it's just bad. So how do we weight the badness of an individual having sex versus that individual committing a violent act (accounting for the fact that having sex might be good!).
+
+Second, how bad is it _for other people_ for that individual to have sought sex or violence? By seeking sex in the absence of violence, an individual could conceivably harm others, by spreading a disease or, depending on your moral code, see it as a general polluting of moral culture. Seeking violence, on the other hand, whether in the presence or absence of sex, _by definition_ is bad for other people.
+
+If depictions of sex are causing some people to seek sex, then that's something we should think about. Maybe we should tweak ratings or have better sex education. If, however, there's even the possibility that depictions of violence are leading to mass murders, then how is there even a comparison? If there were an industry selling a food additive that people thought was delicious but which might also be poisoning a lot of people, we would have no tolerance for it. But we do seem to have lots of tolerance for an industry that sells depictions of violence that people find pleasure to watch and which may be causing acts of violence.

@@ -1,0 +1,21 @@
+---
+date: '2017-03-07'
+slug: was-agriculture-a-good-thing
+title: Was agriculture a good thing?
+---
+
+Before I went to college, I learned a simple narrative about early human sociological and technological development: our earliest proto-human ancestors were like apes. Then we started making tools, like spears. Then we had fire, which allowed us to get more calories from the same amount of meat. Then we developed agriculture, which allowed us to get more calories from the same number of hours and amount of exertion. These increased efficiencies led to art, culture, writing, civilization, etc.
+
+Two big problems with this narrative are that, (_i_) it is born of a linear progressivism, the idea that history has been a straight line of "upwardness" from the past until this day and (_ii_) it might not be right.
+
+It may seem like _i _and _ii_ are unrelated, but anthropology is chock full of examples where ideology clouded (and still clouds) judgement of the facts. I wrote about [scientific racism](http://scottolesen.com/biology-as-ideology/) in a previous post. Another is the idea that men have always been hunters, and that hunting (rather than gathering) provided a more essential food source than gathering. I think this idea remained (and remains) so widespread is that, today, hunting is associated with men. It ignores the really interesting question: _why_ is hunting associated with men? The easy answer, that men are stronger than women and therefore better hunters, seems silly to me: humans hunt using [group coordination](https://en.wikipedia.org/wiki/The_Forest_People), [clever tools](https://en.wikipedia.org/wiki/Spear-thrower), and [endurance](http://www.der.org/films/hunters.html), not by arm-wrestling or flat-out sprinting. And if hunting were so critical, why wouldn't you take the strongest people, whether they were men or women?
+
+Jared Diamond, a geographer, wrote a popular piece, "[The Worst Mistake in the History of the Human Race](http://discovermagazine.com/1987/may/02-the-worst-mistake-in-the-history-of-the-human-race)", that argued an anti-progressivist point. In the article, Diamond says that agriculture isn't what we think it was. It didn't provide a bounty of food. Instead, people who took on agriculture were capable of supporting a denser population at the cost of a poorer diet. Without agriculture, humans move widely, eating a wide variety of foods. They keep their population low, meaning that there is plenty of food to go around. With agriculture, humans ate diets focused around staple crops. They got fewer nutrients and possible fewer calories. They became smaller in height than their forebears. Diamond summarizes it this way:
+
+
+
+<blockquote>As population densities of hunter-gatherers slowly rose at the end of the ice ages, bands had to choose between feeding more mouths by taking the first steps toward agriculture, or else finding ways to limit growth. Some bands chose the former solution, unable to anticipate the evils of farming, and seduced by the transient abundance they enjoyed until population growth caught up with increased food production. Such bands outbred and then drove off or killed the bands that chose to remain hunter-gatherers, because a hundred malnourished farmers can still outfight one healthy hunter. It's not that hunter-gatherers abandoned their life style, but that those sensible enough not to abandon it were forced out of all areas except the ones farmers didn't want.</blockquote>
+
+
+
+Diamond's approach to anthropology is [controversial](http://www.npr.org/sections/13.7/2013/01/14/169374400/why-does-jared-diamond-make-anthropologists-so-mad), and his "Worst Mistake" piece was [not a purely original](http://www.livinganthropologically.com/anthropology/agriculture-as-worst-mistake-in-the-history-of-the-human-race/) thought. It was, however, highly influential. I'm not up on the latest academic opinion on how and why agriculture began, but Diamond's piece is interesting, both for its content and for its place in the history of recent academic thought about agriculture.
