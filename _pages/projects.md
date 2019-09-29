@@ -115,3 +115,4 @@ A vehicle MPC control vehicle around tracks in a simulator is developed. The cos
 <img src="https://jwangjie.github.io/files/MPC.gif" 
      width="717px" height="403px"/>
 </div>
+
