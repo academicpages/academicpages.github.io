@@ -18,4 +18,18 @@ This project developed a deep-learning pipeline for multiple vehicle detection a
      width="717px" height="403px"/>
 </div>
 
-### 
+---
+
+### [2019c] AlphaPilot AI Drone Challenge machine vision test. [link](https://github.com/jwangjie/winnet-perception-AlphaPilot)
+
+The project contains two parts: a CNN for window corner position detection of AlphaPilot machine vision test and a ROS perception node "winnet" for the future closed-loop controls. 
+
+<div style="text-align: center">
+<img src="https://github.com/jwangjie/winnet-perception-AlphaPilot/blob/master/winnet.gif" 
+     width="717px" height="403px"/>
+</div>
+
+---
+
+
+
