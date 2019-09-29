@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Penghui Wei"
 title_separator          : "-"
 name                     : &name "Penghui Wei"
-description              : &description "PhD student at Institute of Automation, Chinese Academy of Sciences (CASIA)"
+description              : &description "PhD student at the Institute of Automation, Chinese Academy of Sciences (CASIA)"
 url                      : https://determined22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "determined22.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Penghui Wei"
   avatar           : "profile.png"
-  bio              : "PhD student at Institute of Automation, Chinese Academy of Sciences (CASIA)"
+  bio              : "PhD student at the Institute of Automation, Chinese Academy of Sciences (CASIA)"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Penghui_Wei2" 
   uri              :
   bitbucket        :
   codepen          :
