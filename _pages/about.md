@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home), working in the area of Topological Data Analysis. My interests include statistical approaches to persistent homology, multiparameter persistence, algorithms, and applications to machine leaning tasks.
+I am a first year PhD student at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home) and [Pawel Dlotko](https://www.swansea.ac.uk/staff/science/maths/dlotkopt/), working in the area of Topological Data Analysis. My interests include statistical approaches to persistent homology, multiparameter persistence, algorithms, and applications to machine leaning tasks.
 
 ### News
 ([Travel Map](/travelmap.html))
