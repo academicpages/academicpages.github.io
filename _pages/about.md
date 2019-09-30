@@ -14,7 +14,7 @@ I am a first year PhD student at Swansea University under the supervision of [Je
 ### News
 ([Travel Map](/travelmap.html))
 * On 1st October 2019 I will officially start my PhD studies at Swansea University
-* July 2019 - Received the results of my masters year at Oxford, obtaining a first.
+* September 2019 - Graduated from Oxford with a first class integrated masters in Mathematics and Computer Science.
 * July 2019 - Took part in [TAGSS III](http://www.adaboralevi.com/TAGSS/2019.html) at the ICTP in Trieste.
 * April 2019 - Submitted my masters dissertation on [_Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory_]({{ site.baseurl }}/publications)
 * March 2019 - Attended [SYCO3](http://events.cs.bham.ac.uk/syco/3/) at the University of Oxford
