@@ -141,3 +141,18 @@ In this project, lane detector takes a video as input and display the lane bound
 
 ---
 
+### [2011 - 2017] PhD Project: Autonomous Locomotion Mode Transition of a Track-legged Quadruped Robot Step Negotiation. [link](https://jwangjie.github.io/publications/arXiv2019/)
+
+This work proposed a method to realize an autonomous locomotion mode transition of a tracklegged quadruped robot’s steps negotiation. The autonomy of the decision-making process was realized by the proposed criterion to comparing energy performances of the rolling and walking locomotion modes. Two climbing gaits were proposed to achieve smooth steps negotiation behaviours for the energy evaluation purposes. Simulations showed autonomous locomotion mode transitions were realized for negotiations of steps with different height. The proposed method is generic enough to be utilized to other hybrid robots after some pre-studies of their locomotion’s energy performances.
+
+**Full Body Step Negotiation Gait:**
+<div style="text-align: center">
+<img src="https://jwangjie.github.io/files/phd_transition.gif" 
+     width="717px" height="403px"/>
+</div>
+
+**Locomotion Mode Transition:**
+<div style="text-align: center">
+<img src="https://jwangjie.github.io/publications/publications/arXiv2019.gif" 
+     width="717px" height="403px"/>
+</div>
