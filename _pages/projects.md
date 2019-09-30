@@ -118,3 +118,26 @@ A vehicle MPC control vehicle around tracks in a simulator is developed. The cos
      width="717px" height="403px"/>
 </div>
 
+---
+---
+
+### [2017a] A CNN Traffic Sign Classifer. [link](https://github.com/jwangjie/SDC-Traffic-Sign-Classifier)
+
+In this project, a convolutional neural networks, [improved LeNet](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) is trained to classify traffic signs. 
+
+<div style="text-align: center">
+<img src="https://jwangjie.github.io/files/ImprovedLeNet.png" 
+     width="717px" height="403px"/>
+</div>
+
+### [2017b] Lane Lines Detection. [link](https://github.com/jwangjie/SDC-Advanced-Lane-Lines)
+
+In this project, lane detector takes a video as input and display the lane boundaries in the image space. The project comprises two parts: image pre‐processing and lane detection and display. The image pre-processing includes camera calibration, distortion correction, color and gradient binary, and perspective transform; the second part contains lane lines detection and visual display.
+
+<div style="text-align: center">
+<img src="https://jwangjie.github.io/files/laneDetection.gif" 
+     width="717px" height="403px"/>
+</div>
+
+---
+
