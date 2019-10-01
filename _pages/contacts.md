@@ -23,5 +23,5 @@ author_profile: true
 
 
 I am currently based at:
-<p align="center"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <!--Via Marzolo 8, Padua 35131, Italy-->52 Oxford St, Cambridge, MA 02138</p>
+<p align="center"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Via Marzolo 8, Padua 35131, Italy</p>
 <iframe src="/files/contact_map.html" height="500" width="100%" style="border:none;"></iframe>
