@@ -15,9 +15,9 @@ I am passionate about robotics and a big believer that intelligent robots will p
 
 **Recent News:**
 
-[Sep. 30, 2019](https://jwangjie.github.io/publication/slam2019): A paper accepted by ISPRS Archives.
+[Sep. 30, 2019](https://jwangjie.github.io/publications/slam2019): A paper accepted by ISPRS Archives.
 
-[Sep. 11, 2019](https://jwangjie.github.io/publication/rsmdpi2019): A paper accepted by Remote Sensing.
+[Sep. 11, 2019](https://jwangjie.github.io/publications/rsmdpi2019): A paper accepted by Remote Sensing.
 
 [Jul. 24 – Aug. 2, 2019](https://jwangjie.github.io/files/dlrlss19.pdf): DLRLSS 2019. 
 
