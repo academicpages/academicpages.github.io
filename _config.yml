@@ -85,7 +85,6 @@ author:
   bio              : "Senior Research Specialist, Department of Economics, Princeton University"
   location         : "Princeton, New Jersey"
   employer         :
-  email            : "shreya.tandon95@gmail.com"
   github           : "standon95"
   linkedin         : "shreya-tandon-741288132"
   twitter          : "shreyatandon02"
@@ -149,16 +148,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  aboutme:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  cv:
     output: true
     permalink: /:collection/:path/
-  talks:
+  coding:
     output: true
     permalink: /:collection/:path/
 
