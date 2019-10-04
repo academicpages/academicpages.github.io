@@ -29,7 +29,7 @@ ___
 &nbsp; **Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu<br/>
 &nbsp; Computer Vision and Pattern Recognition (CVPR'18), 2018.(exhibit @CVPR Demo) <br/> 
-&nbsp; [[PDF](https://arxiv.org/abs/1803.11097)] [[Dataset](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html)] [[Demo](http://cvlab.cse.msu.edu/project-face-anti.html)] [[News](https://msutoday.msu.edu/feature/2018/unlocking-new-possibilities-for-biometrics/)]
+&nbsp; [[PDF](https://arxiv.org/abs/1803.11097)] [[Poster](http://www.cse.msu.edu/~liuyaoj1/files/cvpr18.pdf)] [[Dataset](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html)] [[Demo](http://cvlab.cse.msu.edu/project-face-anti.html)] [[News](https://msutoday.msu.edu/feature/2018/unlocking-new-possibilities-for-biometrics/)]
 
 ___
 
@@ -38,7 +38,7 @@ ___
 &nbsp; **Dense Face Alignment**<br/>
 &nbsp; <u>Yaojie Liu</u>, Amin Jourabloo, William Ren, Xiaoming Liu<br/>
 &nbsp; International Conference on Computer Vision (ICCVW'17) Workshops (AMFG), 2017<br/> 
-&nbsp; [[PDF](https://arxiv.org/abs/1709.01442)] [[Code](https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment)] [[Demo](https://youtu.be/GjwpvHKHf9U)]
+&nbsp; [[PDF](https://arxiv.org/abs/1709.01442)] [[Poster](http://www.cse.msu.edu/~liuyaoj1/files/iccvw17.pdf)] [[Code](https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment)] [[Demo](https://youtu.be/GjwpvHKHf9U)] 
 
 ___
 
@@ -47,7 +47,7 @@ ___
 &nbsp; **Face Anti-Spoofing Using Patch and Depth-Based CNNs**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Yousef Atoum*, Amin Jourabloo*, Xiaoming Liu<br/>
 &nbsp; International Joint Conference on Biometrics (IJCB'17), 2017<br/> 
-&nbsp; [[PDF](http://cvlab.cse.msu.edu/pdfs/FaceAntiSpoofingUsingPatchandDepthBasedCNNs.pdf)]
+&nbsp; [[PDF](http://cvlab.cse.msu.edu/pdfs/FaceAntiSpoofingUsingPatchandDepthBasedCNNs.pdf)] [[Poster](http://www.cse.msu.edu/~liuyaoj1/files/ijcb17.pdf)]
 
 ___
 
