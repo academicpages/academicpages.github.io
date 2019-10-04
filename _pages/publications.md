@@ -20,7 +20,7 @@ ___
 &nbsp; **Face De-Spoofing: Anti-Spoofing via Noise Modeling**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu <br/>
 &nbsp; European Conference on Computer Vision (ECCV'18), 2018 <br/> 
-&nbsp; [[PDF](https://arxiv.org/abs/1807.09968)] [[Code+Model](https://github.com/yaojieliu/ECCV2018-FaceDeSpoofing)]
+&nbsp; [[PDF](https://arxiv.org/abs/1807.09968)] [[Poster](http://www.cse.msu.edu/~liuyaoj1/files/eccv18.pdf)] [[Code+Model](https://github.com/yaojieliu/ECCV2018-FaceDeSpoofing)]
 
 ___
 
