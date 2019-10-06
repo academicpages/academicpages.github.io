@@ -13,7 +13,7 @@ My CV can be downloaded [Here](../files/CV_2018 (21).pdf)
 Education
 ======
 * B.A. in Physics, University of Pennsylvania, Summa Cum Laude, 2019
-* Ph.D. Candidate in Astronomy & Astrophysics, University of Chicago 
+* Ph.D. Student in Astronomy & Astrophysics, University of Chicago 
   
   
 Teaching
