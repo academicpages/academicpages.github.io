@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am now a third-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My supervisor is Prof. [Wenji Mao](http://people.ucas.ac.cn/~maowenji?language=en). My major research interests are Natural Language Processing and Social Media Analytics. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University](https://en.whu.edu.cn/) in 2016.  
+Hi! I am now a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My supervisor is Prof. [Wenji Mao](http://people.ucas.ac.cn/~maowenji?language=en). My major research interests are Natural Language Processing and Social Media Analytics. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University](https://en.whu.edu.cn/) in 2016.  
 <br/>
 
   
@@ -16,7 +16,7 @@ Research Interests
 ======
 My research targets at developing computational methods to analyze and mine socially-generated contents. Currently, I focus on the following areas:
 * **Natural Language Processing and Text Mining**  
-Stance Analysis and Opinion Mining
+Opinion Mining and Stance Analysis
 * **Social Media Analytics and Social Computing**  
 Rumor Verification  
 <br/>
