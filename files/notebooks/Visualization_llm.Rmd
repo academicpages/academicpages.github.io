@@ -1,0 +1,130 @@
+---
+title: "Heatmaps for log odd-ratios from log-linear"
+output:
+  html_notebook: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+This post provides code to implement inductive selection/specification of log-linear models for contingency tables via the Lasso. I will exemplify the step-by-step implementation using data on intergenerational occupational mobility for 16 countries.
+
+#### Steps:
+
+1.  Install and load package ```glmnet```, which aperforms Lasso or elastic-net regularization path for generalized linear models. Other packages for data manipulation will be also used.
+
+```{r, message=FALSE}
+    library("glmnet")
+    library("tidyverse")
+    library("modelr")
+    library("reshape2")
+```
+
+<br>
+
+2. Input the contingency table an turn it into a data frame. I will use the dataset ```hg16``` from the package ```logmult```. This is a cross-classification of subject's occupational status (destination) and his father's occupational status (origin) across 16 countries. 
+
+```{r, message=FALSE}
+    # Inpute data and create contingency table as data.frame()
+    library("logmult")
+    data(hg16)
+    table <- ftable(hg16)
+    mydata <- as.data.frame(table)
+    names(mydata) <- c("origin","destination","country","Freq")
+```
+
+This is what the data looks like:
+
+```{r, echo=FALSE}
+    print(mydata %>% as_tibble())
+```
+
+<br>
+
+3. Fit model candicates
+
+```{r, message=FALSE}
+
+model_qpm <- glm(Freq ~ (origin + destination)*country + I(origin==destination)*country, family="poisson", data=mydata)
+
+```
+
+
+
+
+
+8. You can plot the results to easly visualize the margin-free association between origin and destination. 
+
+
+```{r, echo=FALSE}
+
+# Create predictions for margins and LORative mating. Used in plot 
+
+dummy.model <- lm(Freq ~ origin + destination + country, data=mydata)
+new_x <- mydata %>% data_grid(origin,destination,country,.model=dummy.model) %>% model.matrix(formula, .)
+
+
+# full prediction
+predictions <- cbind(mydata%>% data_grid(origin,destination,country,.model=dummy.model), predict(lasso.cv, new_x, s=opt.lam)) %>%
+  as_tibble() %>% rename(pred = `1`) 
+
+
+# Intercept
+intercept <- predictions %>% filter(origin=="Farm", destination=="Farm", country=="Spain") %>% summarise(pred) %>% as.numeric()
+
+
+# margins
+predictions <- predictions %>% mutate(pred = pred - intercept) # remove intercept
+
+predictions_country     <- predictions %>% filter(origin=="Farm", destination=="Farm")  %>% rename(margin_country=pred) %>% select(country,margin_country)
+predictions_origin      <- predictions %>% filter(country=="Spain", destination=="Farm") %>% rename(margin_origin=pred) %>% select(origin,margin_origin)
+predictions_destination <- predictions %>% filter(country=="Spain", origin=="Farm") %>% rename(margin_destination=pred) %>% select(destination,margin_destination)
+
+
+# match
+predictions <- predictions %>% left_join(predictions_country, by="country")
+predictions <- predictions %>% left_join(predictions_origin, by="origin")
+predictions <- predictions %>% left_join(predictions_destination, by="destination")
+
+
+# margins by country
+predictions_country_origin <- predictions %>% filter(origin!="Farm",country!="Spain",destination=="Farm") %>%
+  rename(margin_country_origin=pred) %>% mutate(margin_country_origin = margin_country_origin - (margin_country + margin_origin )) %>%
+  select(country,origin,margin_country_origin)
+
+predictions_country_destination <- predictions %>% filter(origin=="Farm",country!="Spain",destination!="Farm") %>%
+  rename(margin_country_destination=pred) %>% mutate(margin_country_destination = margin_country_destination - (margin_country + margin_destination )) %>% 
+  select(country,destination,margin_country_destination)
+
+predictions <- predictions %>% left_join(predictions_country_origin, by=c("country","origin")) %>%  replace_na(list(margin_country_origin = 0))
+predictions <- predictions %>% left_join(predictions_country_destination, by=c("country","destination")) %>%  replace_na(list(margin_country_destination = 0))
+
+
+# computes margin-free log-odd rations (LORs)
+predictions <- predictions %>% 
+  mutate(LOR = pred - (margin_country + margin_origin + margin_destination + margin_country_origin + margin_country_destination) ) 
+levels.origin      <- c("Farm","Blue Collar","White Collar")
+levels.destination <- c("Farm","Blue Collar","White Collar")
+levels.country     <- levels(mydata$country)
+
+
+plot <- predictions %>% 
+  ggplot(aes(y=factor(origin, levels = rev(levels.origin)),
+             x=factor(destination, levels = levels.destination))) + facet_wrap( ~ country) + geom_raster(aes(fill= LOR)) +
+  scale_fill_gradientn(limits=c(-3.5,3.5), colours=c("red","white","blue")) +
+  labs(y="Father's occupation", x= "Children's occupation", colour="") +
+  theme_bw() + theme(axis.text.x = element_text(size=9, angle=45, vjust=-1, hjust=0),
+                     axis.text.y = element_text(size=9, angle=0),
+                     plot.title= element_text(size=11)) +
+  scale_x_discrete(position="top")
+
+
+print(plot)
+
+
+```
+
+

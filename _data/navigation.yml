@@ -14,12 +14,12 @@ main:
   #  url: /code/    
 
   - title: "Teaching"
-    url: /teaching/    
-
+    url: /teaching/   
+      
   - title: "CV"
     url: /cv/
-       
-  # - title: "Portfolio"
+    
+   # - title: "Portfolio"
   #   url: /portfolio/
         
   #- title: "Blogs"
