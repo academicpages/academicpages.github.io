@@ -14,22 +14,64 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
-Evaluating the Impact of Cash Value Vouchers on Food Insecurity
- Key Words: Consumption Smoothing, Evaluation, Food insecurity 
-Low income households own homes at a rate 30 percentage points lower than their wealthier counterparts. 
-One in eight people in the United States was food insecure in 2017; they lacked access not only to sufficient but also to nutritious food for a healthy life.  Food insecurity is in part a consequence of financial insecurity and has life-long effects on health and human capital accumulation. While many government programs exist to help households in need, their effectiveness remains unclear and there is much to be learned about household behavior to inform the optimal design of such programs. I propose evaluating Healthy Options (HO), an expanding cash value voucher (CVV) program in Adams County, Pennsylvania, to learn about the impact of cash vouchers and how to design such programs to account for the behavioral and financial constraints faced by recipients. 
-Proposal Summary: Healthy Options 
-HO provides monthly CVVs redeemable at the local grocery store to 180 households. The vouchers allow recipients to purchase $45 of produce and are distributed monthly from January through April. While HO shares common features with the federal SNAP benefit, it differs in providing the benefit seasonally, restricting vouchers to the purchase of produce only, and in targeting participants within the “food gap,” meaning they have incomes between 160% and 250% of the federal poverty level and thus are ineligible for food stamps and other federal food benefits. HO has provided these vouchers since 2015. While HO currently has a waitlist of qualified participants and the grocery store is willing to share their data, the program has not been evaluated. I propose evaluating the effect of the existing HO program on food security using quasi-experimental methods, and then using a randomized control trial to test a budget neutral variation of the program to learn about the financial and cognitive constraints that affect the food consumption choices of near-poor households, and to improve their food security through behaviorally-informed design of subsidy programs. In order to have 80% power at a 95% confidence level, as is standard, I require a sample size of 500 to detect a 1⁄4 cup increase in fruit and vegetable consumption. 
-Program Evaluation 
-Household fixed effects analysis: Participants’ purchases are tracked through their loyalty rewards card. The purchasing history is observable prior to the introduction of HO, 2010 – 2014, and after the program began, 2015 – 2019. With the rewards card unique ID, I am able to merge demo- graphic data from HO intake with purchase data from the store. Since I have previously worked with grocery store barcode scanner data, I understand the considerations necessary to aggregate daily shopping transactions to unit-equivalent prices and quantities categorically. Food security can be proxied by two key outcomes, fruit and vegetable servings and total food purchased. The effect of HO on purchases is estimated by the following fixed effects regression: 
-𝑌 = 𝛼 + 𝜌𝑇 + 𝑋 𝛽 + Γ + 𝜀 "# # "# " "# 
-where Y is the outcome variable, X is a vector of time-varying household level covariates, and T is an indicator equal to one in years after the program was introduced and zero before. This specification identifies the causal effect of the program under the assumption that the timing of its introduction was not correlated with time-varying characteristics that are related to food purchases. For example, if HO was introduced because funders observed an increase in food insecurity among the near-poor, then 𝜌 would underestimate the effect of the program on households’ purchases. 
-Quasi-experimental analysis: To address potential omitted variable bias due to time-varying fac- tors, I propose a quasi-control experiment analysis taking advantage of the existing HO waitlist. Individuals on the waitlist provide a counterfactual for current participants, and I can run the same fixed effects regression for the identical time span. By comparing the average change over time between the recipients of HO vouchers and those on the wait list, I can more precisely pin down the causal effect of the program as the difference in 𝜌 between the two regressions. 
-Program Extension – A Budget Neutral Variation 
-Randomized controlled trial to evaluate a program redesign: The previous analyses are strategies for evaluating the effect of the existing HO program, which is policy relevant to its implementors and provides information about the expansion of CVV programs to near-poor populations. Previous literature, however, indicates that beneficiaries of SNAP and other programs still have irregular food consumption and run out of benefits before the end of the month. Such programs could have greater effects on consumer utility if they were designed to help recipients overcome challenges to smoothing consumption. For example, if recipients face self-control problems such as time-inconsistent preferences, or “other-control” problems such as pressure to share food with ex- tended family, then smaller, more frequent voucher distributions could emulate mandatory savings to help spread consumption over the month. 
-To test the hypothesis that households face barriers to consumption smoothing, I propose a randomized controlled trial that takes advantage of HO’s expansion. As HO adds participants, new households can be randomly assigned into one of two group: a control group who receive the status-quo benefit as a monthly lump sum of $45, and a treatment group who receive the benefit as an equivalent weekly sum. The result from this experiment would allow HO to potentially improve food security without increasing cost, and this proposal does not violate ethical considerations given the benefit is equivalent, the only difference is in the dispersion of the vouchers. 
-Intellectual Merit: This evaluation offers credible estimates of the effectiveness of vouchers as a means to alleviate food insecurity. Previous approaches relied on national surveys, personal inter- views, and descriptive statistics. While these approaches are valuable, they are subject to issues of endogeneity, which random assignment can eliminate, particularly when considering the reverse causality of food insecurity and participation in a food safety-net program. Additionally, the use of barcode scanner data avoids inaccuracy due to self-reporting and recall error. The proposed program variation tests the life cycle hypothesis’ assumption that consumption is optimally smoothed. Higher frequency voucher distribution will nudge participants to smooth their consumption. Previously, violations of consumption smoothing by the near-poor have been attributed to liquidity constraints even though such behavior could be rationalized by bulk purchasing. This program redesign informs us on whether encouraging consumption smoothing benefits food security, or whether optimal behavior is already realized through unsmooth consumption. 
-Broader Impacts: This program evaluation speaks to the food insecurity of a group that is not often considered - those in the “food gap” and in a rural community. Food insecurity studies have typically been conducted in cities with a focus on SNAP recipients. However, one-third of food insecure households have an income twice that of the poverty line, and are thus ineligible for SNAP, falling in the food gap
-ii. Furthermore, the budget neutral variation could provide support for a larger policy adjustment to food stamps and other monthly benefit programs, switching to higher frequency distribution in order to improve financial security over time. 
-i USDA. “Food Security in the U.S. Key Statistics and Graphics” 2018. ii Whitmore Schanzenbach, D., et al. “Twelve Facts about Food Insecurity and SNAP”, Brookings Report, 2016. 
+import pandas as pd
 
+prefs = pd.read_csv('/home/e7uemr/preferences_sanple.csv')
+#mentormax = pd.read_csv('') for reading in the mentor max
+#prevcounts = pd.read_csv('') for reading in the previous counts
+#We should have a pdf that has a list of all the previous mentee's and whether or not they are participating in the rematching/staying with their current mentor
+#We should use this to update counts, to update pairings, and to update preferences.
+prefs = prefs.set_index(list(prefs)[0])
+
+prefs.describe()
+
+print(prefs)
+
+pairings=[]
+counts={}
+maxvalues={}
+mentormax={}
+#pairings in the final list of pairings and their compatability scores. counts is the number of mentees per mentor
+#maxvalues is the maximum compatability score per mentee, mentormax is the max number of mentees a mentor will take on
+for i in range(len(prefs.index)):
+    #this makes a counter for the number of mentee's per mentor.
+    counts[prefs.index[i]] = 0
+    
+    #this makes a list of the max number of mentee's a mentor is willing to take on. It currently sets everyone to 2. When we have a survey, we can change this 
+    #to an adaptive list
+    mentormax[prefs.index[i]] = 2
+
+
+#this is the number of mentee's in the list
+count=len(list(prefs))
+
+for i in range(count):
+    alldata={}
+    whatever={}
+    for column in prefs:
+        #we are going through each of the mentee's and sorting by each mentee's preferences. For the first round, we set the max value each mentee can have to 
+        #compare to for the rest of the program. Then we take the difference between the max and the second highest.
+        sorte = prefs.sort_values(by=column, ascending=False)
+        if i == 0:
+            maxvalues[column]=sorte[column][0]
+            difference=sorte[column][0]-sorte[column][1]
+            
+        #for other iterations, we take the difference between the max value and the current highest value.
+        else:
+            difference=maxvalues[column]- sorte[column][0] 
+        alldata[column] = [sorte[column], difference]
+        whatever[column] = [alldata[column][0].keys()[0], alldata[column][0][0], difference]
+    first=pd.DataFrame.transpose(pd.DataFrame(data=whatever)).sort_values(by=[2,1], ascending=False)
+    pairings.append([first.index[0], first[0][0], first[1][0]])
+
+    #in this section we up the counts, and we drop the mentee. We compare to the mentor max and drop the mentor when the counts are greater than or equal
+    #to the current count. 
+    counts[first[0][0]] += 1
+    prefs=prefs.drop([first.index[0]], axis=1)
+    if counts[first[0][0]] >= mentormax[first[0][0]]:
+        prefs=prefs.drop([first[0][0]], axis=0)
+
+
+print(pairings)
+
+This method relies on the compatability calculation removing any bias from responses. For example: If someone were to say they care about everything and they have a preference for everything, we'd want their compatability scores scaled such that they don't have a compatability of 100 with everyone, whereas other mentee's only have a compatability of 50 I think a reasonable way to do this is to take the levels of importance and divide them by the sum of the levels of importance in the compatability score. We may need to work on the non-number line questions to ensure they are weighted well.
