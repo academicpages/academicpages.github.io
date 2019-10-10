@@ -28,7 +28,7 @@ redirect_from:
 
 # CV
 
-To see an updated version of my CV please [click here](https://drive.google.com/file/d/1WXCnwbT2k-bmZliSz8CcjIyF_4lPQnGG/view?usp=sharing)
+To see an updated version of my CV please [click here](https://drive.google.com/file/d/1cBz-s3sYdUakcpDFx3jTQbm_XcyfD7Rz/view?usp=sharing)
 
 
 <!-- <iframe src="https://drive.google.com/file/d/1Sqhl0yt6XRriAkr1usdyptCjBAZkK2fh/preview" width="100%" height="100%"></iframe>  -->
