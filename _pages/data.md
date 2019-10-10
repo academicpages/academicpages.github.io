@@ -11,16 +11,16 @@ author_profile: true
 #### Social Scientists before Congress [Codebook](https://yongjunzhang.com/files/codebook.pdf)
 
 ## Longitudinal Corporate Elite and Employee Contributor Database (LCEECD)**
-### This big dataset contains all itemized donations made by SP1500 corporate CEOs, top management teams, boards of directors, and senior managers as well as employees in federal elections from 2000-2018.
-### LCEECD allows scholars to contruct a two-mode network between donors and recipients. Scholars can also transform this two-mode network to donor- or recipient-centric networks.
+#### This big dataset contains all itemized donations made by SP1500 corporate CEOs, top management teams, boards of directors, and senior managers as well as employees in federal elections from 2000-2018.
+#### LCEECD allows scholars to contruct a two-mode network between donors and recipients. Scholars can also transform this two-mode network to donor- or recipient-centric networks.
 
 ## Longitudinal Corporate Media Coverage Database (LCMCD)**
-### This dataset is contructed by using keywords to query ProQuest and Nexis Uni databases for news articles mentioning political behavior and protest from 2000-2018. 
-### LCMCD includes variables like number of total media mention in ProQuest, number of total media mention in Nexis Uni, number of protest media mention in ProQuest/Nexis Uni, number of political-related media mention in ProQuest/Nexis Uni, etc.
+#### This dataset is contructed by using keywords to query ProQuest and Nexis Uni databases for news articles mentioning political behavior and protest from 2000-2018. 
+#### LCMCD includes variables like number of total media mention in ProQuest, number of total media mention in Nexis Uni, number of protest media mention in ProQuest/Nexis Uni, number of political-related media mention in ProQuest/Nexis Uni, etc.
 
 ## Longitudinal Corporate Political Contributions and Lobbying Database (LCPCLD)**
-### This big dataset is contructed from FEC and the U.S. Senate Lobbying Disclosure Act Database for all SP1500 firms from 2000-2018. 
-### LCPCLD includes variables like total observed political expenditure, pac donation, lobbying expenditure, number of lobbyists, etc. 
+#### This big dataset is contructed from FEC and the U.S. Senate Lobbying Disclosure Act Database for all SP1500 firms from 2000-2018. 
+#### LCPCLD includes variables like total observed political expenditure, pac donation, lobbying expenditure, number of lobbyists, etc. 
 
 ## Replication Data for Journal Articles
 #### AJS: [Diversity and Disparities](https://s4.ad.brown.edu/projects/diversity/Data/data.htm);[School Segregation after Brown](https://projects.propublica.org/segregation-now/) (Fiel and Zhang 2019)
