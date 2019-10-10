@@ -11,7 +11,7 @@ redirect_from:
 Welcome to Pengyu Cheng's homepage!
 
 I am a Ph.D. student in the Department of Electrical and Computer Engineering at Duke University.
-My current research interests focus on geometric deep learning on graphs and manifolds.
+My research interests focus on Bayesian deep learning,  geometric deep learning, and their applications in natural language processing.
 
 [//]: # (Bayesian deep learning and its applications in natural language processing.)
 
