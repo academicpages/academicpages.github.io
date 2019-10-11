@@ -25,10 +25,7 @@ redirect_from:
 `Linux`, `macOS`, `Windows`, `MS Office`   
 
   
-### Data Science Toolset
-    
-
-### Extended toolset
+### Extended IT toolset
 
 `Ubuntu Server`, `MySQL`, `Nextcloud`  
 
@@ -42,6 +39,18 @@ redirect_from:
 
 `Adobe Premiere Pro`, `Adobe AfterEffects`: Video Editing 
 
+### Data Science Toolset
+
+- Linear Regression
+- Multivariable Regression
+- Logistic Regessions
+- Optimisation Algorithms and Gradient Descent
+- Naive Bayes Classification
+- Descriptive Statistics and Probability Theory
+- Neural Networks and Deep Learning
+- Model Evaluation and Analysis
+- A/B Tests
+- `Tensorflow`, `Pandas`, `Numpy`, `Scikit Learn`, `Keras`, `Matplotlib`, `Seaborn`, `SciPy`, `SymPy`, `Tensorboard`
 
 
 
