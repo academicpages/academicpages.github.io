@@ -10,36 +10,32 @@ redirect_from:
 {% include base_path %}
 
 
-Toolset
-======
+## Toolset
 
 `R`: Statistics, Data Analysis, and Aisualization  
 `Python`: Data Analysis, Data Science, Pipeline Development and Management with `snakemake`  
 `Bash`, `awk`: Data Wrangling  
 `markdown`,`rmarkdown` $$ \LaTeX $$: Reporting, Presentation and Documentation  
-`git`, GitHub: Version control and Colaboration  
-Linux, macOS, Windows, MS Office   
+`git`, `GitHub`: Version control and Colaboration  
+`Linux`, `macOS`, `Windows`, `MS Office`   
   
+### Data Science Toolset
     
+
 ### Extended toolset
 
-Ubuntu Server, `MySQL`, Nextcloud    
-Games and Android App Development  
-  * Unity, C#
-  * Java + Kotlin, Android Studio, Android SDK    
-Arduino, IoT 
-  - C++  
-Design and Typesetting for Print and Web
-  * Adobe Illustrator, Adobe InDesign 
-  * Adobe Photoshop   
-Video Editing  
-  * Adobe Premiere Pro, Adobe AfterEffects 
-
-### Data Science
+`Ubuntu Server`, `MySQL`, `Nextcloud`    
+`Unity`, `C#`: Games Development
+`Java`, `Kotlin`, `Android Studio`,`Android SDK`: Games and Android App Development
+`C++`: Arduino, IoT  
+`Adobe Illustrator`, `Adobe InDesign`, `Adobe Photoshop`: Design and Typesetting for Print and Web
+`Adobe Premiere Pro`, `Adobe AfterEffects`: Video Editing 
 
 
-Skills
-======
+
+
+## Scientific Skills
+
 * **Genetic/Genomic Data**
   * Sequence and Read Processing
   * Data Analysis
@@ -52,14 +48,14 @@ Skills
   * capture enrichment
   * DNA quantification
 
-### Languages
+## Languages
 
 * **German** - native
 * **English** - fluent
 
 
-Work experience
-======
+## Work experience
+
 * **since 2015 - Data Analyst & Bioinformatician** 
   - *Max-Planck-Institute for Evolutionary Anthropology (MPI-EVA) Leipzig*
   - statistical modelling and analysis of human genomic data
@@ -72,15 +68,15 @@ Work experience
   * Supervisor: Professor Mark Stoneking
 
 
-Education
-======
+## Education
+
 * ongoing degree: **Ph.D in Human Population History**, *Leipzig University and MPI-EVA Leipzig*, (2019 expected)
 * **M.Sc. in Bioinformatics**, *Leipzig University and MPI-EVA Leipzig*, 2016
 * **M.Sc. in Biology**, *Leipzig University and MPI-EVA Leipzig*, 2013
 * **B.Sc. in Biology**, *Leipzig University*, 2011
 
-Teaching and Supervision
-======
+## Teaching and Supervision
+
 * April 2017 - **Lecturer** - Core Seminar Week on Genetics IMPRS 
   * *Leipzig School of Human Origins*
   * lecture on: “Human Population History Projects” 
@@ -102,21 +98,16 @@ Publications
   {% endfor %}</ul>
 --->
 
-Awards
-======
+## Awards
 * **Best Poster Award** at DNA Polymorphisms in Human Populations, Paris
   * http://ecoanthropologie.mnhn.fr/DPHP2016/DPHP2016.htm
 
 
-Volunteer Engagement
-======
+## Volunteer Engagement
+
 * since March 2018 trained **First-Aider** at Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology
 * 2016-2017 **PhD representative** of the Max-Planck Institute for Evolutionary Anthropology
 * 2016-2017 **Vice Spokesperson ProRat (PhD representatives)** of Leipzig University
 * **Bio11erRat Leipzig e.V.** - non-profit organisation to preserve the tradition of Studentenfasching in Leipzig
   * 2010-2012 **Director**
   * since 2008 **Member** 
-
-[c3]: https://emacholdt.github.io/images/circle-02.png "very good"
-[c2]: https://emacholdt.github.io/images/circle-03.png "good"
-[c1]: https://emacholdt.github.io/images/circle-04.png "basic"
