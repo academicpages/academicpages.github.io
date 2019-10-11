@@ -16,7 +16,7 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 
 ### Recent News
-* Excited to share a draft of a *new* paper, "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf)." 
+* Excited to share a draft of a *new* paper, "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf)." We got some [press coverage](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/).
 * [AERE in Lake Tahoe](https://www.aere.org/summer-conference) was a great conference! Saw a lot of great research and great people.
 * Presented at the [NBER Economics of Infrastructure](http://papers.nber.org/sched/EIs19) in early March!
 * January 2019: *NEW* draft of *LA Metro* paper [here](files/20190130_Severen_LAMetro_New.pdf) and [slides](files/201901_Severen_LAMetro.pdf) too. Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.

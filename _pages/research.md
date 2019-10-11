@@ -23,13 +23,14 @@ author_profile: true
     * Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.
 
 * "[Formative Experiences and the Price of Gasoline](https://www.nber.org/papers/w26091)" (with [Arthur van Benthem][avb]). NBER Working Paper 26091.
+    * Media coveraege: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
     * [Ungated version](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf)
 
 ### Selected Works in Progress
 
 * "Mobility Restrictions, Human Capital Attainment, and Youth Employment" (with [Valerie Bostwick][vkb]).
 
-* "Transit Adoption and Rising Incomes" (with [Paulina Oliva][poliva] and Danae Hernandez Cortes).
+* "Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés](https://hernandezcortes.github.io/)).
 
 * "Climate, Innovation, and Adaptation" (with [Olivier Deschênes][odeschenes] and [Jeff Lin][jlin]).
 
