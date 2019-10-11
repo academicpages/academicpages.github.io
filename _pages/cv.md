@@ -10,33 +10,33 @@ redirect_from:
 {% include base_path %}
 
 
-Skills
+Toolset
 ======
 
-### Computational Toolset
-
-* `R` (statistics, data analysis, and visualization)
-* `Python` (data analysis, data science, pipeline development and management with snakemake)
-* **Bash, awk** (data manipulation)
-* markdown, $$ \LaTeX $$** (reporting and documentation)
-* **git, GitHub** 
-* **Linux, macOS, Windows, MS Office** 
-
+`R` (statistics, data analysis, and visualization)
+`Python` (data analysis, data science, pipeline development and management with snakemake)
+`Bash`, `awk` (data manipulation)
+`markdown`, $$ \LaTeX $$** (reporting and documentation)
+`git`, GitHub 
+Linux, macOS, Windows, MS Office 
+'MySQL'
     
 ### Extended toolset
-* **Design and Typesetting for Print and Web**
+
+**Design and Typesetting for Print and Web**
   * Adobe Illustrator, Adobe InDesign 
   * Adobe Photoshop 
-* **Video editing**
+**Video editing**
   * Adobe Premiere Pro, Adobe AfterEffects 
-* **Games and Android App Development**
+**Games and Android App Development**
   * Unity, C#
-  * Java + Kotlin | Android Studio, Android SDK 
-* Arduino, IoT 
+  * Java + Kotlin, Android Studio, Android SDK 
+Arduino, IoT 
   - C++
 
-#### Scientific Skills
 
+Skills
+======
 * **Genetic/Genomic Data**
   * Sequence and Read Processing
   * Data Analysis
