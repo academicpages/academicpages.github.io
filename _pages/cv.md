@@ -13,26 +13,29 @@ redirect_from:
 Skills
 ======
 
-### Computational Skills
+### Computational Toolset
 
-* **R** ![very good][c3](statistics, data analysis, and visualization)
-* **Python** ![good][c2](data analysis, pipeline development and management with snakemake)
-* **Bash, awk** ![very good][c3] (data manipulation)
-* **markdown, $$ \LaTeX $$** ![good][c2](reporting and documentation)
-* **git, GitHub** ![good][c2]
-* **Linux, macOS, Windows, MS Office** ![very good][c3]
-* **Design and Typesetting for Print and Web**
-  * Adobe Illustrator, Adobe InDesign ![very good][c3]
-  * Adobe Photoshop ![good][c2]
-* **Video editing**
-  * Adobe Premiere Pro, Adobe AfterEffects ![good][c2] 
-* **Games and Android App Development**
-  * Unity ![good][c2] 
-  * Android Studio, Android SDK ![basic][c1]
+* `R` (statistics, data analysis, and visualization)
+* `Python` (data analysis, data science, pipeline development and management with snakemake)
+* **Bash, awk** (data manipulation)
+* markdown, $$ \LaTeX $$** (reporting and documentation)
+* **git, GitHub** 
+* **Linux, macOS, Windows, MS Office** 
+
     
+### Extended toolset
+* **Design and Typesetting for Print and Web**
+  * Adobe Illustrator, Adobe InDesign 
+  * Adobe Photoshop 
+* **Video editing**
+  * Adobe Premiere Pro, Adobe AfterEffects 
+* **Games and Android App Development**
+  * Unity, C#
+  * Java + Kotlin | Android Studio, Android SDK 
+* Arduino, IoT 
+  - C++
 
-
-### Scientific Skills
+#### Scientific Skills
 
 * **Genetic/Genomic Data**
   * Sequence and Read Processing
@@ -50,6 +53,7 @@ Skills
 
 * **German** - native
 * **English** - fluent
+
 
 Work experience
 ======
