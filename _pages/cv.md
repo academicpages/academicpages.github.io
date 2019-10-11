@@ -13,17 +13,17 @@ redirect_from:
 Toolset
 ======
 
-`R`  for statistics, data analysis, and visualization  
-`Python` for data analysis, data science, pipeline development and management with snakemake  
-`Bash`, `awk` data wrangling  
-`markdown`, $$ \LaTeX $$** (reporting and documentation)  
-`git`, GitHub   
+`R`: Statistics, Data Analysis, and Aisualization  
+`Python`: Data Analysis, Data Science, Pipeline Development and Management with `snakemake`  
+`Bash`, `awk`: Data Wrangling  
+`markdown`,`rmarkdown` $$ \LaTeX $$: Reporting, Presentation and Documentation  
+`git`, GitHub: Version control and Colaboration  
 Linux, macOS, Windows, MS Office   
   
     
 ### Extended toolset
 
-Ubuntu Server, `MySQL`  
+Ubuntu Server, `MySQL`, Nextcloud    
 Games and Android App Development  
   * Unity, C#
   * Java + Kotlin, Android Studio, Android SDK    
@@ -32,7 +32,7 @@ Arduino, IoT
 Design and Typesetting for Print and Web
   * Adobe Illustrator, Adobe InDesign 
   * Adobe Photoshop   
-Video editing  
+Video Editing  
   * Adobe Premiere Pro, Adobe AfterEffects 
 
 ### Data Science
