@@ -13,22 +13,33 @@ redirect_from:
 ## Toolset
 
 `R`: Statistics, Data Analysis, and Aisualization  
+
 `Python`: Data Analysis, Data Science, Pipeline Development and Management with `snakemake`  
+
 `Bash`, `awk`: Data Wrangling  
-`markdown`,`rmarkdown` $$ \LaTeX $$: Reporting, Presentation and Documentation  
+
+`markdown`,`rmarkdown` $$ \LaTeX $$: Reporting, Presentation and Documentation 
+
 `git`, `GitHub`: Version control and Colaboration  
+
 `Linux`, `macOS`, `Windows`, `MS Office`   
+
   
 ### Data Science Toolset
     
 
 ### Extended toolset
 
-`Ubuntu Server`, `MySQL`, `Nextcloud`    
-`Unity`, `C#`: Games Development
+`Ubuntu Server`, `MySQL`, `Nextcloud`  
+
+`Unity`, `C#`: Games Development  
+
 `Java`, `Kotlin`, `Android Studio`,`Android SDK`: Games and Android App Development
+
 `C++`: Arduino, IoT  
-`Adobe Illustrator`, `Adobe InDesign`, `Adobe Photoshop`: Design and Typesetting for Print and Web
+
+`Adobe Illustrator`, `Adobe InDesign`, `Adobe Photoshop`: Design and Typesetting for Print and Web  
+
 `Adobe Premiere Pro`, `Adobe AfterEffects`: Video Editing 
 
 
@@ -36,22 +47,23 @@ redirect_from:
 
 ## Scientific Skills
 
-* **Genetic/Genomic Data**
+### Genetic/Genomic Data
   * Sequence and Read Processing
   * Data Analysis
   * Statistics
   * Bayesian Methods
   * Molecular Biology
   * Population Genetics
-* **Wet lab**
+
+### Wet lab
   * NGS library prepartion
   * capture enrichment
   * DNA quantification
 
 ## Languages
 
-* **German** - native
-* **English** - fluent
+- **German**: native  
+- **English**: fluent
 
 
 ## Work experience
