@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "historia, archivos, humanidades digitales"
+excerpt: "Acerca de mi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Doctora en Historia en la Universidad de Texas en Austin. Estudia el siglo XVIII y la transición entre colonia y república en el norte de Surámerica a través del lente de las prácticas espaciales, la imaginación geográfica y la economía política. Investiga además la construcción de comunidades colaborativas en proyectos de humanidades digitales, la creación de narrativas cartográficas digitales y la construcción de conjuntos de datos espaciales para investigación en historia. Actualmente es profesora asistente de la Facultad de Artes y Humanidades de la Universidad de los Andes, Colombia y editora de [The Programming Historian en español] (www.programminghistorian.org/es).
 
 A data-driven personal website
 ======
