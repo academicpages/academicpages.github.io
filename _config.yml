@@ -69,7 +69,6 @@ author:
   avatar           : "onno_kampman.jpeg"
   bio              : "Computational Neuroscientist"
   location         : "Cambridge, United Kingdom"
-  employer         : "University of Cambridge"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gSVe8CkAAAAJ&hl=en"
   email            : "opk20@cam.ac.uk"
   uri              :
@@ -84,6 +83,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : "KampmanOnno"
+  researchgate     :
   xing             :
   youtube          :
   wikipedia        :
