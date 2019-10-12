@@ -1,16 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Onno Kampman"
 title_separator          : "-"
 name                     : &name "Onno Kampman"
-description              : &description "Machine Learning Researcher"
+description              : &description "Computational Neuroscientist"
 url                      : https://onnokampman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OnnoKampman.github.io"
@@ -56,10 +49,6 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -68,19 +57,17 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  "UA-121098490-1"
 
-
 # Site Author
 author:
   name             : "Onno Kampman"
   avatar           : "onno_kampman.jpeg"
-  bio              : "Machine Learning Researcher"
+  bio              : "Computational Neuroscientist"
   location         : "Cambridge, United Kingdom"
   employer         : "University of Cambridge"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gSVe8CkAAAAJ&hl=en"
@@ -89,8 +76,6 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
   github           : "OnnoKampman"
   goodreads        : "https://www.goodreads.com/user/show/43642138-onno"
   keybase          :
@@ -98,12 +83,10 @@ author:
 #  orcid            : "http://orcid.org/yourorcidurl"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  tumblr           :
-#  twitter          : "replacethistwitterhandle"
+  twitter          : "KampmanOnno"
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -139,14 +122,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -159,22 +140,14 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -196,15 +169,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -214,15 +178,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -237,14 +192,12 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # timezone: America/Los_Angeles
 timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 gems:
@@ -260,7 +213,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
@@ -289,7 +241,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
