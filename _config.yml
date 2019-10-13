@@ -64,7 +64,7 @@ author:
   name             : "Onno Kampman"
   avatar           : "onno_kampman.jpeg"
   bio              : "Computational Neuroscientist"
-  location         : "Cambridge, United Kingdom"
+#  location         : "Cambridge, United Kingdom"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gSVe8CkAAAAJ&hl=en"
   email            : "opk20@cam.ac.uk"
   uri              :
