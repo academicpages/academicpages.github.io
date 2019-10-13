@@ -1,8 +1,8 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Onno Kampman"
+title                    : "Onno Pepijn Kampman"
 title_separator          : "-"
-name                     : &name "Onno Kampman"
+name                     : &name "Onno Pepijn Kampman"
 description              : &description "Computational Neuroscientist"
 url                      : https://onnokampman.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -76,10 +76,10 @@ author:
   keybase          :
   linkedin         : "https://www.linkedin.com/in/onnokampman/"
 #  orcid            : "http://orcid.org/yourorcidurl"
+  researchgate     :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : "KampmanOnno"
-  researchgate     :
   xing             :
   youtube          :
   wikipedia        :
