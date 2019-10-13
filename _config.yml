@@ -4,7 +4,7 @@ title                    : "Onno Kampman"
 title_separator          : "-"
 name                     : &name "Onno Kampman"
 description              : &description "Computational Neuroscientist"
-url                      : https://onnokampman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://onnokampman.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OnnoKampman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -12,7 +12,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -51,7 +51,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -61,9 +61,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Onno Kampman"
+#  name             : "Onno Kampman"
   avatar           : "onno_kampman.jpeg"
-  bio              : "Computational Neuroscientist"
+#  bio              : "Computational Neuroscientist"
 #  location         : "Cambridge, United Kingdom"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gSVe8CkAAAAJ&hl=en"
   email            : "opk20@cam.ac.uk"
