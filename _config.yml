@@ -108,10 +108,10 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: path
+    permalink: /:collection/:path
   talks:
     output: true
     permalink: /:collection/:path/
