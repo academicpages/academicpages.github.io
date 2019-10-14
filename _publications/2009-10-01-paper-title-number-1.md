@@ -2,7 +2,7 @@
 title: "Eigenvector-based identification of bipartite subgraphs"
 year: 2019
 volume: 269
-pages: '146-158'
+pages: 146-158
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0166218X19302021'
 --- 
 Recommended citation:
