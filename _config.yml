@@ -83,38 +83,12 @@ author:
   name             : "Debdas Paul"
   avatar           : "profile.png"
   bio              : "Computer science engineer & Computational biologist"
-  location         : "Max-Planck Institute of Biophysical Chemistry, Am Fassberg 11, 37077 Göttingen, Germany"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  location         : "Am Fassberg 11, 37077 Göttingen, Germany"
+  employer         : "Max-Planck Institute of Biophysical Chemistry "
+  googlescholar    : "https://scholar.google.com/citations?user=iTagYRkAAAAJ&hl=en"
+  email            : "debdas.paul@mpibpc.mpg.de"
+  github           : "https://github.com/DebdasPaul"
+  linkedin         : "https://de.linkedin.com/in/debdas"
 
 
 # Reading Files
