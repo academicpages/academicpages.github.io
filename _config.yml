@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Welcome to my home page"
+# title                    : "Debdas Paul"
 title_separator          : "-"
 name                     : &name "Debdas Paul"
 description              : &description "personal description"
 url                      : https://debdaspaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DebdasPaul/debdaspaul.github.io"
+repository               : "debdaspaul.github.io"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
