@@ -42,12 +42,12 @@ author:
   name             : "Debdas Paul"
   avatar           : "profile.png"
   bio              : "Computer science engineer & Computational biologist"
-  location         : "Am Fassberg 11, 37077 Göttingen, Germany"
-  employer         : "Max-Planck Institute of Biophysical Chemistry "
+  location         : "Am Fassberg 11, 37077 Göttingen, DE"
+  employer         : "MPI-BPC"
   googlescholar    : "https://scholar.google.com/citations?user=iTagYRkAAAAJ&hl=en"
   email            : "debdas.paul@mpibpc.mpg.de"
-  github           : "https://github.com/DebdasPaul"
-  linkedin         : "https://de.linkedin.com/in/debdas"
+  github           : "DebdasPaul"
+  linkedin         : "debdas"
 
 
 # Reading Files
