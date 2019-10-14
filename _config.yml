@@ -41,9 +41,8 @@ staticman:
 author:
   name             : "Debdas Paul"
   avatar           : "profile.png"
-  bio              : "Computer science engineer & Computational biologist"
+  bio              : "Postdoctoral researcher at the MPI-BPC | Computer science engineer | Computational biologist"
   location         : "Am Fassberg 11, 37077 Göttingen, DE"
-  employer         : "MPI-BPC"
   googlescholar    : "https://scholar.google.com/citations?user=iTagYRkAAAAJ&hl=en"
   email            : "debdas.paul@mpibpc.mpg.de"
   github           : "DebdasPaul"
