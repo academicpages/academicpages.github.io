@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Dr.-Ing. in Systems theory and Systems Biology, Institute for Systems Theory and Automatic Control, University of Stuttgart, DE, 2019 (magna cum laude, certificate awaited)
+* Dr.-Ing. in Systems theory and Systems Biology, University of Stuttgart, DE, 2019 (magna cum laude, certificate awaited)
 * M.S. in Systems Biology, The Royal Institite of Technology, KTH, SE, 2015
 * M.Sc.(Tech.) in Computational systems biology, The Aalto University, FI, 2015
 * M.Eng. in Computer Science & Engineering, Jadavpur University, IN, 2011
