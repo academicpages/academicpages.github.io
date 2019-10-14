@@ -1,7 +1,7 @@
 # main links links
 main:
  - title: "About"
-    url: https://github.com/DebdasPaul/debdaspaul.github.io/blob/master/_pages/about.md
+    url: https://github.com/DebdasPaul/debdaspaul.github.io
 
   - title: "Publications"
     url: /publications/
