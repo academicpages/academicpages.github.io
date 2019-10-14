@@ -1,11 +1,12 @@
 ---
 title: "Eigenvector-based identification of bipartite subgraphs"
+permalink: https://www.sciencedirect.com/science/article/abs/pii/S0166218X19302021
 year: 2019
 volume: 269
 pages: 146-158
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0166218X19302021'
 --- 
-Recommended citation:
+BibTex citation:
 ``` 
 @article{paul2019eigenvector,
   title={Eigenvector-based identification of bipartite subgraphs},
