@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dr.-Ing. in Systems theory and Systems Biology, Institute for Systems Theory and Automatic Control, University of Stuttgart, DE, 2019 (magna cum laude, certificate awaited)
+* M.S. in Systems Biology, The Royal Institite of Technology, KTH, SE, 2015
+* M.Sc.(Tech.) in Computational systems biology, The Aalto University, FI, 2015
+* M.Eng. in Computer Science & Engineering, Jadavpur University, IN, 2011
+* B.Tech. in Computer Science & Engineering, West Bengal University of Technology, IN, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Visiting doctoral student
+  * Harvard Medical School, MA, Boston, USA
+  * Duties included: Building rule-based model of gene regulation
+  * Supervisor: Professor Jeremy Gunawardena
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Modeling & simulation
+* Machine learning for large-scale data analysis 
+  * Scikit-learn
+  * Classifier design
+  * Neural networks
+* Parameter estimation
+* Bayesian inference
+* Programming
+  * Python
+  * MATLAB
+  * R
+* Version control
+  * Github
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organized MATLAB course for almost 500 bachelor students at the University of Stuttgart.
