@@ -11,7 +11,7 @@ locale                   : "en-US"
 title_separator          : "-"
 name                     : &name "Debdas Paul"
 description              : &description "personal description"
-url                      : https://debdaspaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://debdaspaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "debdaspaul.github.io"
 breadcrumbs              : false # true, false (default)
