@@ -1,5 +1,5 @@
 ---
-title: "Eigenvector-based identification of bipartite subgraphs"
+"Eigenvector-based identification of bipartite subgraphs"
 year: 2019
 volume: 269
 pages: 146-158
