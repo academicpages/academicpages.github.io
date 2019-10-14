@@ -47,8 +47,7 @@ author:
   email            : "debdas.paul@mpibpc.mpg.de"
   github           : "DebdasPaul"
   linkedin         : "debdas"
-  Erdös number     : [3](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2)
-
+  
 # Reading Files
 include:
   - .htaccess
