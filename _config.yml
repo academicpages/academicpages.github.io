@@ -111,7 +111,7 @@ collections:
     permalink: /:path/
   publications:
     output: true
-    permalink: /:categories/:path/
+    permalink: path
   talks:
     output: true
     permalink: /:collection/:path/
