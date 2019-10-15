@@ -21,7 +21,7 @@ Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Lap
 
 <br>
 <b>[The role of stochastic sequestration dynamics for intrinsic noise filtering in signaling network motifs](https://debdaspaul.github.io/publications/paulD-IFAC-2016)</b> <br> 
-<b>Paul, D.</b>, and Radde, N., 2016. TRobustness and filtering properties of ubiquitous signaling network motifs. <i>IFAC-PapersOnLine</i> 49(26), pp.120-127.
+<b>Paul, D.</b>, and Radde, N., 2016. Robustness and filtering properties of ubiquitous signaling network motifs. <i>IFAC-PapersOnLine</i> 49(26), pp.120-127.
 
 <br>
 <b>[Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness](https://debdaspaul.github.io/publications/paulD-book-2016)</b> <br> 
