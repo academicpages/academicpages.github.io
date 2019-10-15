@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Spectral graph theory
+### Spectral graph theory
 
 <br>
 <b>[Eigenvector-based identification of bipartite subgraphs](https://debdaspaul.github.io/publications/paulD-DAM-2019)</b> <br> 
