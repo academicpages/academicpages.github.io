@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/paulD-DAM-2019
 Journal: "Discrete Applied Mathematics"
 date:  30-09-2019
-citation: '<br>Paul, D</br>. and Stevanović, D., 2019. Eigenvector-based identification of bipartite subgraphs. <i>Discrete Applied Mathematics</i>.'
+citation: '<b>Paul, D</b>. and Stevanović, D., 2019. Eigenvector-based identification of bipartite subgraphs. <i>Discrete Applied Mathematics</i>.'
 --- 
 
 ## Abstract
