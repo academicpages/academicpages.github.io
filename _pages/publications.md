@@ -5,4 +5,4 @@ author_profile: true
 ---
 <br>
 <b>[Eigenvector-based identification of bipartite subgraphs](https://debdaspaul.github.io/publications/paulD-DAM-2019)</b> <br> 
-Paul, D. and Stevanović, D., 2019. Eigenvector-based identification of bipartite subgraphs. Discrete Applied Mathematics.
+<b>Paul, D.</b> and Stevanović, D., 2019. Eigenvector-based identification of bipartite subgraphs. <i>Discrete Applied Mathematics</i> 269, pp.146-158.
