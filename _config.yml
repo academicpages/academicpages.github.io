@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-# title                    : "Debdas Paul"
+title                    : "DP"
 title_separator          : "-"
 name                     : &name "Debdas Paul"
-description              : &description "personal description"
+description              : &description "computer science, computational biology, machine learning, modeling & simulation"
 url                      : https://debdaspaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "debdaspaul.github.io"
@@ -41,7 +41,7 @@ staticman:
 author:
   name             : "Debdas Paul"
   avatar           : "dp.jpeg"
-  bio              : "Postdoctoral researcher at the MPI-BPC | Computer science engineer | Computational biologist"
+  bio              : "Postdoctoral researcher<br>Computer science engineer<br>Computational biologist"
   location         : "Am Fassberg 11, 37077 Göttingen"
   googlescholar    : "https://scholar.google.com/citations?user=iTagYRkAAAAJ&hl=en"
   email            : "debdas.paul@mpibpc.mpg.de"
