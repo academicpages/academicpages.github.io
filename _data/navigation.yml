@@ -7,8 +7,13 @@ main:
     url: /research/
 
   - title: "CV"
-    url: /cv/    
+    url: /cv/  
 
   - title: "Coding Resources"
     url: /coding/    
+
+  - title: "Media Articles"
+    url: /writing/
+
+  
     
