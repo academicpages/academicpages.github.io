@@ -25,5 +25,10 @@ Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Lap
 
 <br>
 <b>[Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness](https://debdaspaul.github.io/publications/paulD-book-2016)</b> <br> 
-<b>Paul, D.</b>., Dehkordi, L.K.F., von Scheven, M., Bischoff, M. and Radde, N., 2016. Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness. <i>In Biomimetic Research for Architecture and Building Construction</i> pp. 341-360. Springer, Cham.
+<b>Paul, D.</b>, Dehkordi, L.K.F., von Scheven, M., Bischoff, M. and Radde, N., 2016. Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness. <i>In Biomimetic Research for Architecture and Building Construction</i> pp. 341-360. Springer, Cham.
+
+### Structural bioinformatics
+
+
+### Immunopeptidomics
 
