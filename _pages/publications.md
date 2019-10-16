@@ -38,11 +38,19 @@ Chen, B.Y. and <b>Paul, D.</b>, 2012. A volumetric method for representing and c
 
 <br>
 <b>[An in silico -in vitro pipeline identifying an HLA-A*02:01+ KRAS G12V+ spliced epitope candidate for a broad tumor-immune response in cancer patients](https://debdaspaul.github.io/publications/paulD-FrontImmun-2019)</b> <br> 
-Michele Mishto, Artem Mansurkhodzhaev, Ge Ying, Aruna Bitra, A Robert Cordfunke, Henze Sarah, <b>Paul, D.</b>, John Sidney, Henning Urlaub, Jacques Neefjes, Alessandro Sette, Zajonc Dirk, Juliane Liepe, 2019. An in silico-in vitro pipeline identifying an HLA-A*02:01+ KRAS G12V+spliced epitope candidate for a broad tumor-immune response in cancer patients. <i>Frontiers Immunology</i> Accepted for publication.
+Mishto, M.,Mansurkhodzhaev, A.,Ying, G.,Bitra, A.,Cordfunke, A R.,Henze, S., <b>Paul, D.</b>,Sidney, J.,Urlaub, H.,Neefjes, J., Sette, A.,Dirk, Z.,Liepe, J., 2019. An in silico-in vitro pipeline identifying an HLA-A*02:01+ KRAS G12V+spliced epitope candidate for a broad tumor-immune response in cancer patients. <i>Frontiers Immunology</i> Accepted for publication.
 
 <br>
 <b>[Quantification of in vitro peptide hydrolysis and protease-catalyzed peptide splicing using Bayesian inference](https://debdaspaul.github.io/publications/paulD-JBC-2019)</b> <br> 
 Henze,S.,<b>Paul, D.</b>, Mansurkhodzhaev, A.,Henklein, P.,Textoris-Taube, K.,Urlaub, H.,Mishto, M., Liepe, J.
 2019. Quantification of in vitro peptide hydrolysis and protease-catalyzed peptide splicing using Bayesian inference. <i> Under revision</i>.
+
+<br>
+<b>[QPuB: Quantification of Peptides using Bayesian inference](https://debdaspaul.github.io/publications/paulD-QPuB-2019)</b> <br> 
+Henze,S.*,<b>Paul, D.</b>*,Mishto, M., Liepe, J.
+2019. QPuB: Quantification of Peptides using Bayesian inference.<i> Under revision</i>.
+
+<br>
+* - **Equal contributions**
 
 
