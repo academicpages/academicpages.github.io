@@ -34,5 +34,5 @@ Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Lap
 Chen, B.Y. and <b>Paul, D.</b>, 2012. A volumetric method for representing and comparing regions of electrostatic focusing in molecular structure. <i> In Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine</i> pp.242-249.
 
 
-### immunopeptidomics
+### immunopeptidomics, Bayesian inference, MCMC
 
