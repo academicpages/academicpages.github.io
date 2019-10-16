@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Spectral graph theory
+### spectral graph theory, complex networks
 
 <br>
 <b>[Eigenvector-based identification of bipartite subgraphs](https://debdaspaul.github.io/publications/paulD-DAM-2019)</b> <br> 
@@ -13,7 +13,7 @@ author_profile: true
 <b>[Bipartite subgraphs and the signless Laplacian matrix](https://debdaspaul.github.io/publications/paulD-AADM-2011)</b> <br> 
 Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Laplacian matrix. <i>Applicable Analysis and Discrete Mathematics</i> 5(1), pp.1-13.
 
-### Systems biology, systems theory, biomimetics
+### systems biology, systems theory, biomimetics
 
 <br>
 <b>[The role of stochastic sequestration dynamics for intrinsic noise filtering in signaling network motifs](https://debdaspaul.github.io/publications/paulD-JTB-2018)</b> <br> 
@@ -27,8 +27,8 @@ Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Lap
 <b>[Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness](https://debdaspaul.github.io/publications/paulD-book-2016)</b> <br> 
 <b>Paul, D.</b>, Dehkordi, L.K.F., von Scheven, M., Bischoff, M. and Radde, N., 2016. Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness. <i>In Biomimetic Research for Architecture and Building Construction</i> pp. 341-360. Springer, Cham.
 
-### Structural bioinformatics
+### structural bioinformatics
 
 
-### Immunopeptidomics
+### immunopeptidomics
 
