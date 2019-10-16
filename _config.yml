@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Maciej Wiatrak"
 title_separator          : "-"
-name                     : &name "Maciek Wiatrak"
+name                     : &name "Maciej Wiatrak"
 description              : &description "personal description"
 url                      : https://macwiatrak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maciek Wiatrak"
   avatar           : "profile.png"
-  bio              : "UCL Student and Machine Learning Intern @ Plural AI"
+  bio              : "Research Intern at Autonomous Agents Research Group, University of Edinburgh"
   location         : "London, United Kingdom"
   employer         : "Plural AI"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
