@@ -51,6 +51,6 @@ Henze,S.*,<b>Paul, D.</b>*,Mishto, M., Liepe, J.
 2019. QPuB: Quantification of Peptides using Bayesian inference.<i> Under revision</i>.
 
 <br>
-* - **Equal contributions**
+* - <b>Equal contributions</b>
 
 
