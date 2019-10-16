@@ -13,7 +13,7 @@ author_profile: true
 <b>[Bipartite subgraphs and the signless Laplacian matrix](https://debdaspaul.github.io/publications/paulD-AADM-2011)</b> <br> 
 Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Laplacian matrix. <i>Applicable Analysis and Discrete Mathematics</i> 5(1), pp.1-13.
 
-### systems biology, systems theory, biomimetics
+### systems biology, systems theory, stochastic simulation, biomimetics
 
 <br>
 <b>[The role of stochastic sequestration dynamics for intrinsic noise filtering in signaling network motifs](https://debdaspaul.github.io/publications/paulD-JTB-2018)</b> <br> 
@@ -27,7 +27,11 @@ Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Lap
 <b>[Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness](https://debdaspaul.github.io/publications/paulD-book-2016)</b> <br> 
 <b>Paul, D.</b>, Dehkordi, L.K.F., von Scheven, M., Bischoff, M. and Radde, N., 2016. Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness. <i>In Biomimetic Research for Architecture and Building Construction</i> pp. 341-360. Springer, Cham.
 
-### structural bioinformatics
+### structural bioinformatics, computational geometry
+
+<br>
+<b>[A volumetric method for representing and comparing regions of electrostatic focusing in molecular structure](https://debdaspaul.github.io/publications/paulD-ACMBCB-2012)</b> <br> 
+Chen, B.Y. and <b>Paul, D.</b>, 2012. A volumetric method for representing and comparing regions of electrostatic focusing in molecular structure. <i> In Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine</i> pp.242-249.
 
 
 ### immunopeptidomics
