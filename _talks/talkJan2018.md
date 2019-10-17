@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talkJan2018
 venue: "WGSCO2018, University of Aveiro, Portugal"
-date: 2012-01-25
+date: 2018-01-25
 location: "Aveiro, Portugal"
 ---
 ## Abstract 
