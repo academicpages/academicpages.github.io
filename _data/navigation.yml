@@ -9,7 +9,7 @@ main:
   - title: "TEACHING"
     url: /teaching/   
 
-  - title: "PEOPLE"
-    url: /people/
+  # - title: "PEOPLE"
+    # url: /people/
 
 
