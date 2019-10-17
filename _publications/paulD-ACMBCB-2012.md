@@ -4,7 +4,7 @@ collection: publications"
 permalink: /publications/paulD-ACMBCB-2012
 Journal: "Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine"
 date: 07-10-2012
-citation: 'Chen, B.Y. and <b>Paul, D.</b>, 2012. A volumetric method for representing and comparing regions of electrostatic focusing in molecular structure. <i> In Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine</i> pp.242-249.(Acceptance rate: 20.7%)'
+citation: 'Chen, B.Y. and <b>Paul, D.</b>, 2012. A volumetric method for representing and comparing regions of electrostatic focusing in molecular structure. <i> In Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine</i> pp.242-249.'
 --- 
 
 ---
