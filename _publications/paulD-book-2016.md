@@ -1,10 +1,10 @@
 ---
-title: "In Biomimetic Research for Architecture and Building Construction"
+title: "Structural Design with Biological Methods: Optimality, Multi-functionality and Robustness"
 collection: publications
 permalink: /publications/paulD-book-2016
 Journal: "In Biomimetic Research for Architecture and Building Construction"
 date:  20-12-2016
-citation: <b>Paul, D.</b>, Dehkordi, L.K.F., '
+citation: <b>Paul, D.</b>, Dehkordi, L.K.F.,von Scheven, M.,Bischoff, M. and Radde, N., 2016. Structral Design With Biological Methods:Optimality, Multi-functionality and Robustness. <i>In Biomimetic Research for Architecture and Building Construction</i> (pp. 341-360). Springer, Cham.'
 --- 
 
 ## Abstract
