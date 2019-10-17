@@ -1,11 +1,10 @@
-
 ---
 title: "Bipartite subgraphs and the signless Laplacian matrix"
 collection: publications
 permalink: /publications/paulD-AADM-2011
-Journal: "Discrete Applied Mathematics"
-date:  01-04-2011
-citation: 'Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Laplacian matrix. <i>Applicable Analysis and Discrete Mathematics</i> 5(1), pp.1-13.'
+Journal: "Applicable Analysis and Discrete Mathematics"
+date: 01-04-2011
+citation: 'Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Laplacian matrix.<i>Applicable Analysis and Discrete Mathematics</i> 5(1), pp.1-13.'
 --- 
 
 ## Abstract
