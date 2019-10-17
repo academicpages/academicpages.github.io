@@ -47,6 +47,11 @@ Skills
 * Version control
   * Github
   
+Awards
+======
+* &euro;48,000 as Erasmus Mundus Scholarship by the European Commission (2012-2014)
+* [Slovenian Bilateral Mobility Grant](https://eng.cmepius.si/students/bilateral-scholarships/), 2011 by the The Ministry of   Education, Science and Sport of the Republic of Slovenia.
+  
 Service and leadership
 ======
 * Organized MATLAB course for almost 500 bachelor students at the University of Stuttgart.
