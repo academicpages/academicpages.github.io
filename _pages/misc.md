@@ -1,3 +1,13 @@
+---
+layout: archive
+permalink: /misc/
+author_profile: true
+redirect_from:
+  - /misc
+---
+
+{% include base_path %}
+
 # Unpublished work
 
 <br>
