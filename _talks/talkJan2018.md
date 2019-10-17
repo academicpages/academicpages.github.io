@@ -3,7 +3,7 @@ title: "Comparison between combinatorial and spectral approaches in identifying 
 collection: talks
 type: "Talk"
 permalink: /talks/talkJan2018
-venue: "[WGSCO2018](http://wgsco2018.web.ua.pt/) at University of Aveiro, Portugal"
+venue: [WGSCO2018](http://wgsco2018.web.ua.pt/) "University of Aveiro, Portugal"
 date: 2012-01-25
 location: "Aveiro, Portugal"
 ---
