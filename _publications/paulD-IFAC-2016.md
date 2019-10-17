@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Robustness and filtering properties of ubiquitous signaling network motifs"
 collection: publications
 permalink: /publications/paulD-IFAC-2016
 Journal: "IFAC-PapersOnLine"
