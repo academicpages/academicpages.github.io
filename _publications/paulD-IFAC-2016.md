@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/paulD-IFAC-2016
 Journal: "IFAC-PapersOnLine"
 date:  30-09-2019
-citation: '<b>Paul, D</b>. and Radde, N., 2016. Robustness and filtering properties of ubiquitous signaling network motifs <i>IFAC-PapersOnLine</i> 49(26), pp.120-127.'
+citation: '<b>Paul, D</b>. and Radde, N., 2016. Robustness and filtering properties of ubiquitous signaling network motifs. <i>IFAC-PapersOnLine</i> 49(26), pp.120-127.'
 --- 
 
 ## Abstract
