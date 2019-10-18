@@ -54,4 +54,4 @@ Awards
   
 Service and leadership
 ======
-* Organized MATLAB course for almost 500 bachelor students at the University of Stuttgart.
+* Organized [MATLAB course](https://www.ist.uni-stuttgart.de/de/lehre/lehrveranstaltungen/2018ws/matlab/) for almost 500 bachelor students at the University of Stuttgart.
