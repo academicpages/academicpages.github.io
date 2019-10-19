@@ -29,9 +29,9 @@ redirect_from:
 
 `Ubuntu Server`, `MySQL`, `Nextcloud`  
 
-`Unity`, `C#`: Games Development  
+`Unity`, `C#`: Game Development  
 
-`Java`, `Kotlin`, `Android Studio`,`Android SDK`: Games and Android App Development
+`Java`, `Kotlin`, `Android Studio`,`Android SDK`: Game and Android Development
 
 `C++`: Arduino, IoT  
 
