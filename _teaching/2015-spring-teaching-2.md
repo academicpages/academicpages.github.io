@@ -1,20 +1,11 @@
 ---
 title: "systems theory in systems biology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "course"
+venue: "University of Stuttgart, Institute for Systems Theory and Automatic Control"
+location: "Stuttgart, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Course link](https://www.ist.uni-stuttgart.de/de/lehre/lehrveranstaltungen/2017ss/stsb/)
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
