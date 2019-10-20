@@ -1,5 +1,5 @@
 ---
-title: "systems theory in systems biology"
+title: "Systems theory in Systems biology"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2016STSBSS
