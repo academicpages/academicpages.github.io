@@ -13,13 +13,14 @@ redirect_from:
 I am a PhD candidate at the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu)
 My advisor is Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), leading the [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir).
 My research interests are Machine Learning, Natural Language Processing  and Information Retrieval.
-I am excited about opportunities to work in areas such as *Reinforcement Learning*, *Game Theory* and *Meta-learning*.
+I am excited about opportunities to work in areas such as *Reinforcement Learning*, *Multi-agent RL* and *Meta-learning*.
 
-My work considers all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span> and lately on <span style="color:MediumSeaGreen">Domain Adaptation</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text. I have also particpated on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio).
+My work considers all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text. I have also particpated on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio).
 
 
 
 # News
+- **October, 2019:** Attending [ISWC 2019](https://iswc2019.semanticweb.org/) in Auckland, NZ (travel award)
 - **July, 2019:** [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) acceptance!
 - **July, 2019:** CS@UIUC Travel Grant to attend Grace Hopper Conference in Orlando, FL.
 - **March, 2019:** Paper accepted to ICWSM 2019.
