@@ -8,5 +8,7 @@ date: 2016-04-01
 location: "Stuttgart, Germany"
 ---
 
+## Role: course assistant
+
 [Course link](https://www.ist.uni-stuttgart.de/de/lehre/lehrveranstaltungen/2017ss/stsb/)
 
