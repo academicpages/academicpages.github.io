@@ -15,7 +15,7 @@ My advisor is Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), leading the
 My research interests are Machine Learning, Natural Language Processing  and Information Retrieval.
 I am excited about opportunities to work in areas such as *Reinforcement Learning*, *Multi-agent RL* and *Meta-learning*.
 
-My work considers all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations, a perfect example of noisy text. I have also particpated on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio).
+My work considers all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations. Our [open source tool](https://github.com/Isminoula/TextNormSeq2Seq) is a hybrid Seq2Seq model that can serve as a pre-processingstep for any NLP application to adapt to noisy text in social media.  I have also particpated on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio).
 
 
 
