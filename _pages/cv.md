@@ -9,16 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * B.S. in Agronomy, China Agricultural University(CAU), Beijing, China, *2009-2014*
 * Exchange Student in Saga University, Sage-ken, Japan, *2011-2012* 
 * M.S. in Horticulture, Texas A&M University(TAMU), College Station, USA, *2014-2016*
 * Certificate in Applied Statistics, Texas A&M University(TAMU), 2015
 * Ongoing Ph.D in Plant Biology, University of Georgia(UGA), Athens, USA, *2018-2023* (expected)
 
-Research Experience
-======
+## Research Experience
+
+* Graduate Researcher, UGA, *2018 - present*
+	Research Projects:
+		The phenotypic spectrum: Quantifying new patterns of architecture variation in crop roots
+		Investigate whole root architecture types in genotypes of Common Bean 
+		Develop algorithm to automatically quantify similarity of 2D and 3D root architectures 
+
+	Small research projects:
+	
+	* Wrote Pyhon program to extract root traits from reconstructed 3D models of maize root system. 
+	
+	* Identified potential genetic region with insulators in Bladderwort by analyzing public available RNA-seq database (Jason Wallace Lab)
+	*  Explored genetic variation in the regulation of ester volatile content among 150 tomato accessions(wild, semi-domesticated, domesticated) by multiple alignment of gene sequences and constructing poly-genetic tree (Ester van der Knaap Lab)  
+
 * Lab Technician, TAMU, *2017*
   * Responsible for conducting all daily operations including list preparation, seed prep, seed sowing, marker sampling, planting, fertilizing, IPM, trellising, pruning, pollination, evaluation, seed harvest, seed classification and seed shipping, to achieve short term and lovegetable breeding goals in seven greenhouses and acre sized field. 
   * Conducted greenhouse and field trial of grafted tomato project to study the yield performance of different rootstock and scion combination in RCBD design. 
@@ -45,33 +58,82 @@ Research Experience
     * Received training on PCR, DGGE, AGE, and DNA extraction of soil samples.
   * Assisted in studying the effects of four different media (husk, rice straw, mixed husk and rice) on rice growth.
     * Measured the content of nitrogen in the media and the morphological and physiological index of rice.
+    
     * Managed the greenhouse for rice growth.
+    
+      
 
+## Agricultural Extension Experience
 
-Awards
-======
+* Volunteer, Koba Strawberry Farm,Kagoshima, Japan,  2011 
+  * Cultivated, processed and sold strawberries.
+  * Pruned and harvested tomatoes. 
+
+* Intern, Center for Chinese Agricultural Policy, (CCAP), Beijing, China, Aug 2011
+  * Participated Farmer Field School Promotion Project leading by CCAP, Ministry of Agriculture and Rand Corporation (US).
+  * Investigated the pesticides and fertilizers usage in the tomato production in six counties of Hebei province.
+  * Surveyed with farmers and analyzed and organized the questionnaire data.
+
+* Student investigator, CAU, June 2011
+  * Inverstigated the industry of daylily production in Qidong County, Hunan.
+  *  Organized a workshop for farmers for new techonologys to process daylily bud.
+  * Showed up on the local media and talked to the policy maker.
+  *   Won the award of the excellent team of investigators. 
+
+## Awards
+
 * Graduate Student Award, Texas Plant Protection Association, *2016*
 * Third Prize Scholarship in Academic Excellence, CAU, *2013*
 * Japan Student Service Scholarship, Japan Student Service Organization, *2012*
 * Third Prize Scholarship in Academic Excellence, CAU, *2011*
 * Second Prize Scholarship in academic performance, CAU, *2010* 
 * Merit Student Award, CAU, *2010* 
-                      
-Presentation 
-======
-* American Society of Horticultural Science Annual Meeting, Waikoloa, HI, September *2017*
-Oral Presentation: “Mapping Novel QTLs Associated with Root Morphological Traits in an Interspecific Tomato Population”
+                   
 
-* American Society of Horticultural Science Annual Meeting, New Orleans, LA, August *2015*
-Poster Presentation: “Estimates of Genetic Variance for Drought Tolerance Traits in Tomato”
+## Community Service and Outreach 
 
-  
-Skills
-======
-* Language Skill: Chinese (Native), English (Fluent) and Japanese (Basic)
-* Computer Skill: JMP, SAS, R, Linux, Python and Microsoft Office
-  
-Membership 
-======
+*Judge for high school students posters, 71st Georgia Science & Engineering Fair , 2019*
+
+*Technical Support of Chinese Genomics Meet-up Organization, 2019*
+
+*Volunteer for March for Science at Washington, DC, 2018*
+
+*Secretary, Horticulture Graduate Student Council, 2015*
+
+*Volunteer, Texas A&M Plant Breeding Symposium, 2015*
+
+## Skills
+
+* Bioinformatics: NGS(GBS, RNA-Seq), Referenced Reads Assembly, SNP Variation SNP Calling(Tophat, VCFTools, SamTools), Gene Expression Analysis(Cufflinks, GSNAP)
+
+* Quantitative Genetics: Polygenetic Tree, QTL mapping, Marker Assistant Selection, K-Means Clustering, Principle Component Analysis
+
+* Computer and Data Sciences: Linux/Unix, Python(Pandas, Numpy, OpenCV, Jupyter Notebooks), R(R/qtl, ggplot2, Rmarkdown, Tidyverse), SQL(MariaDB, Dbeaver), Github
+
+* Statistical Skill: JMP, SAS, R, Clustering, PCA
+
+## Membership 
+
 * American Association For Advancement of Science 
 * American Society of Horticultural Science
+
+## REFERENCES
+
+**Alexander Bucksch**
+Assistant Professor, University of Georgia 
+Plant Biology 
+Warnell School of Forestry & Natural Resources
+Institute of Bioinformatics 
+E-mail: bucksch@uga.edu
+
+**Kevin Crosby**
+Professor, Texas A&M University 
+Department of Horticulture
+E-mail:k-crosby@tamu.edu
+
+**Patricia Klein**
+Professor , Texas A&M University 
+Institute for Plant Genomics and Biotechnology 
+Department of Horticultural Sciences 
+E-mail:pklein@tamu.edu
+
