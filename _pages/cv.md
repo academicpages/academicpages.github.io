@@ -119,20 +119,20 @@ redirect_from:
 
 ## References
 
-**Alexander Bucksch\**\
-Assistant Professor, University of Georgia 
-Plant Biology \
-Warnell School of Forestry & Natural Resources 
-Institute of Bioinformatics \
-E-mail: bucksch@uga.edu \
+**Alexander Bucksch\* *<br>
+Assistant Professor, University of Georgia<br>
+Plant Biology <br>
+Warnell School of Forestry & Natural Resources <br>
+Institute of Bioinformatics<br>
+E-mail: bucksch@uga.edu<br>
 
-**Kevin Crosby**
-Professor, Texas A&M University\ 
-Department of Horticulture\ 
-E-mail:k-crosby@tamu.edu\
+**Kevin Crosby**<br>
+Professor, Texas A&M University<br>
+Department of Horticulture<br>
+E-mail:k-crosby@tamu.edu<br>
 
-**Patricia Klein**
-Professor , Texas A&M University\ 
-Institute for Plant Genomics and Biotechnology\ 
-Department of Horticultural Sciences\ 
+**Patricia Klein**<br>
+Professor , Texas A&M University<br>
+Institute for Plant Genomics and Biotechnology<br>
+Department of Horticultural Sciences<br>
 E-mail:pklein@tamu.edu
