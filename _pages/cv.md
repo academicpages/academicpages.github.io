@@ -117,7 +117,7 @@ redirect_from:
 * American Association For Advancement of Science 
 * American Society of Horticultural Science
 
-## REFERENCES
+## References
 
 **Alexander Bucksch**
 Assistant Professor, University of Georgia 
@@ -134,6 +134,5 @@ E-mail:k-crosby@tamu.edu
 **Patricia Klein**
 Professor , Texas A&M University 
 Institute for Plant Genomics and Biotechnology 
-Department of Horticultural Sciences 
+Department of Horticultural Sciences s
 E-mail:pklein@tamu.edu
-
