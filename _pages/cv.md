@@ -61,7 +61,6 @@ redirect_from:
     
     * Managed the greenhouse for rice growth.
     
-      
 
 ## Agricultural Extension Experience
 
@@ -119,7 +118,7 @@ redirect_from:
 
 ## References
 
-**Alexander Bucksch\* *<br>
+**Alexander Bucksch**<br>
 Assistant Professor, University of Georgia<br>
 Plant Biology <br>
 Warnell School of Forestry & Natural Resources <br>
