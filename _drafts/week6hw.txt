@@ -136,6 +136,9 @@ We assume that $\sum$ a$_n$ is a convergent series.
 \item Ross 23.4\\
 For n = 0, 1, 2, 3, ... , let $a_{n}$ = $[$ $\dfrac{4+2(-1)^{n}}{5}$ $]^{n}$.\\
 (a) Find lim sup($a_{n}$ $)^{1/n}$, lim inf($a_{n}$ $)^{1/n}$, lim sup $\mid$ $\dfrac{a_{n+1}}{a_{n}}$ $\mid$ and \\ lim inf $\mid$ $\dfrac{a_{n+1}}{a_{n}}$ $\mid$. \\
+
+
+
 (b) Do the series $\sum$ $a_{n}$ and $\sum$(-1$)^{n}$ $a_{n}$ converge? Explain briefly. \\
 (c) Now consider the power series $\sum$ $a_{n}$ $x^{n}$ with the coefficients an as above. Find the radius of convergence and determine the exact interval of convergence for the series. \\
 \newpage
