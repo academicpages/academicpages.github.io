@@ -1,0 +1,151 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{latexsym}
+\usepackage{amssymb,amsmath}
+\usepackage{mathrsfs}
+\usepackage[pdftex]{graphicx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Week 6 Homework Erica Ryan}
+\lhead{Math E-23A | Fall 2019}
+\rfoot{\thepage}
+\setlength{\headheight}{15pt}
+
+\begin{document}
+\begin{enumerate}
+\item Ross 10.2 Prove Theorem 10.2 for bounded decreasing sequences\\
+
+Since ($s_{n}$) is bounded and decreasing, it is bounded below. So by the greatest lower bound property, inf $s_{n}$ exists. We set $u$ = inf $s_{n}$. \\
+Let $\epsilon$ $>$ 0. And since $u$ + $\epsilon$ $>$ $u$, by def., $u$ + $\epsilon$ isn't a lower bound of ($s_{n}$). \\
+So we say that $\exists$ N s.t. $s_{n}$ $<$ $u$ + $\epsilon$. $\forall$ n $>$ N, $s_{n}$ $\leq$ $s_{N}$ $<$ $u$ + $\epsilon$ (since it is a decreasing sequence).\\ 
+Therefore, $s_{n}$ $<$ $u$ + $\epsilon$, and by definition of the inf, we also know $u$ $\leq$ $s_{n}$. \\
+So, $u$ $\leq$ $s_{n}$ $<$ $u$ + $\epsilon$. and 0 $\leq$ $s_{n}$ - $u$ $<$ $\epsilon$.\\
+We know that $\epsilon$ $>$ 0, thus - $\epsilon$ $<$ 0. This implies that -$\epsilon$ $<$ 0 $\leq$ $s_{n}$ - $u$. \\
+Thus - $\epsilon$ $<$ $s_{n}$ - $u$ $<$ $\epsilon$, or $\mid$ $s_{n}$ - $u$ $\mid$ $<$ $\epsilon$. \\
+Thus, $\forall$ $\epsilon$ $>$ 0, $\exists$N s.t. $\forall$ n $>$ N, $\mid$ $s_{n}$ - $u$ $\mid$ $<$ $\epsilon$, and thus ($s_{n}$) $\rightarrow$ $u$.
+\newpage
+
+\item Ross 10.6 \\
+(a) Let ($s_{n}$) be a sequence such that $\mid$ $s_{n+1}$ $-$ $s_{n}$ $\mid$ $<$ $2^{-n}$ for all $n$ $\in$ $\mathbb{N}$.  Prove ($s_{n}$) is a Cauchy sequence and hence a convergent sequence. \\
+
+We want to end up showing that $\forall$ $\epsilon$ $>$ 0, $\exists$ N s.t. $\forall$ m, n $>$ N, $\mid$ $s_{m}$ - $s_{n}$ $\mid$ $<$ $\epsilon$. \\
+So we start with m $>$ n. We can write m = n + k for some integer k. \\
+Then we can say $\mid$ $s_{m}$ - $s_{n}$ $\mid$ = $\mid$ $s_{n+k}$ - $s_{n}$ $\mid$ =\\
+$\mid$ ($s_{n+k}$ - $s_{n+k-1}$) + ($s_{n+k-1}$ - $s_{n+k-2}$) + ... + ($s_{n+1}$ - $s_{n}$) $\mid$\\
+By the triangle inequality we then know : \\
+$\mid$ $s_{m}$ - $s_{n}$ $\mid$ $\leq$ $\mid$ ($s_{n+k}$ - $s_{n+k-1}$) $\mid$ + $\mid$($s_{n+k-1}$ - $s_{n+k-2}$) $\mid$ + ... + $\mid$ ($s_{n+1}$ - $s_{n}$) $\mid$\\
+From our sequence definition we can say:\\
+$\mid$ $s_{m}$ - $s_{n}$ $\mid$ $<$ 2$^{-(n+k-1)}$ + 2$^{-(n+k-2)}$ + ... + 2$^{-n}$\\
+We know that 2$^{-n}$ $>$ ... 2$^{-(n+k-2)}$ $>$ 2$^{-(n+k-1)}$, so we can also say:\\
+$\mid$ $s_{m}$ - $s_{n}$ $\mid$ $<$ 2$^{-n)}$ + 2$^{-n}$ + ... + 2$^{-n}$ or, $\mid$ $s_{m}$ - $s_{n}$ $\mid$ $<$ k $*$ 2$^{-n}$\\
+We want to make this less than $\epsilon$, so k $*$ 2$^{-n}$ $<$ $\epsilon$\\
+or $\dfrac{2^n}{k}$ $>$ $\dfrac{1}{\epsilon}$, or 2$^{n}$ $>$ $\dfrac{k}{\epsilon}$. \\
+or ln(2$^n$) $>$ ln($\dfrac{k}{\epsilon}$), or nln(2) $>$ ln($\dfrac{k}{\epsilon}$).\\
+or n $>$ $\dfrac{ln(\dfrac{k}{\epsilon})}{ln(2)}$. So we set N = $\dfrac{ln(\dfrac{k}{\epsilon})}{ln(2)}$.\\
+We let $\epsilon$ $>$ 0. then $\forall$ m,n $>$ N and m $>$ n, (if m = n then the proof is trivial), from my earlier work we can show that $\mid$ $s_{m}$ - $s_{n}$ $\mid$ $<$ k $*$ 2$^{-n}$.
+And from the work on the previous page, we know that this is $<$ $\epsilon$. Thus it is a cauchy sequence, and hence convergent. 
+\newpage
+(b) Is the result in (a) true if we only assume $\mid$ $s_{n+1}$ $-$ $s_{n}$ $\mid$ $<$ $\dfrac{1}{n}$ for all \\ $n$ $\in$ $\mathbb{N}$? \\
+
+So we want to have a sequence that fulfills $\mid$ $s_{n+1}$ $-$ $s_{n}$ $\mid$ $<$ $\dfrac{1}{n}$ for all $n$ $\in$ $\mathbb{N}$, but that isn't cauchy or convergent. \\
+Suppose we have a sequence such that $s_n$ = $\dfrac{1}{1}$ + $\dfrac{1}{2}$ + $\dfrac{1}{3}$ + ... + $\dfrac{1}{n}$. This is a sequence of partial sums of the harmonic series, which by definition diverges.\\
+From here, we know that the sequence diverges because it is the sequence of partial sums, and the series diverges. So the Cauchy criterion states it diverges. \\
+Now we want to show that $\mid$ $s_{n+1}$ $-$ $s_{n}$ $\mid$ $<$ $\dfrac{1}{n}$.\\
+$\mid$ $s_{n+1}$ - $s_{n}$ $\mid$ = $\mid$ $\sum^{n+1}_{i=1}$ $\dfrac{1}{i}$ - $\sum^{n}_{j=1}$ $\dfrac{1}{j}$ $\mid$ = $\dfrac{1}{n+1}$ which is less than $\dfrac{1}{n}$. Thus the answer is no, the result in (a) is not necessarily true if we only assume $\mid$ $s_{n+1}$ $-$ $s_{n}$ $\mid$ $<$ $\dfrac{1}{n}$ for all \\ $n$ $\in$ $\mathbb{N}$\\
+
+Citation: Michael's Office Hours for pointing me in the right direction for a counterexample.
+\newpage
+
+
+\item Ross 11.8 \\
+Use Definition 10.6 and Exercise 5.4 to prove lim inf $s_{n}$ = - lim sup($-s_{n}$) for every sequence ($s_{n}$).\\
+
+\newpage
+ 
+\item Suppose that ($s_n$) is a Cauchy sequence and that the subsequence ($s_1$, $s_2$, $s_4$, $s_8$, $s_{16}$ . . .) converges to $s$. Prove that lim $s_n$ = s. 
+\newpage
+
+\item If a series $\sum_{i}$ $a_{i}$ has both positive and negative terms but $\sum_{i}$ $\mid$ $a_{i}$ $\mid$ converges then the series is said to be absolutely convergent. If $S_{+}$ denotes the least upper bound for the subsets of positive terms and $S_{-}$ denotes the greatest lower bound for subsets of negative terms, then the sum S = $\sum_{i}$ $a_{i}$ can be written as S = $S_{+}$ + $S_{-}$. This formula makes it clear that the order in which the terms are summed is irrelevant. As defined, $S_{-}$ is a negative number.\\
+(a) Start with equation 0.5.7, which is proved at the bottom of page 20 in Hubbard. Re-express this formula by writing the sums on the right in terms of $S_{+}$ and $S_{-}$, and thereby show that S = $S_{+}$ + $S_{-}$.\\
+(b) Hubbard's proof of Theorem 0.5.8 treats positive and negative terms in an unsymmetrical way. Create a new, more symmetrical version of the proof by using Hubbard's $B_{m}$ and also defining \\
+$c_{m}$ = $\sum_{n=1}^{m}$ ($\mid$ $a_{n}$ $\mid$ - $a_{n}$).\\
+In your proof, be careful to change the order only in finite sums and make it clear how you are using theorem 0.5.7. You can use the result of theorem 1.5.16 which you proved in the previous problem in the case $n$ = 1. 
+\newpage
+
+\item Ross 14.3\\
+Repeat Exercise 14.1 for the following.\\
+(a) $\sum$ $\dfrac{1}{\sqrt{n!}}$\\ 
+Time for the Ratio test!  set $s_n$ = $\dfrac{1}{\sqrt{n!}}$
+so lim sup $\mid$ $\dfrac{s_{n+1}}{s_n}$ $\mid$ which is equal to \\lim sup $\mid$ $\dfrac{\dfrac{1}{\sqrt{(n+1)!}}}{\dfrac{1}{\sqrt{n!}}}$ $\mid$ = 
+$\mid$ $\dfrac{\sqrt{n!}}{\sqrt{(n+1)!}}$ $\mid$ =lim sup $\sqrt{\dfrac{n!}{(n+1)!}}$ since we are looking for a sup, we only care about the positive. 
+cancel the n! : =lim sup $\sqrt{\dfrac{1}{n+1}}$ which we know = 0 by INSERT REFERENCE HERE\\
+since 0 $<$ 1, we know lim $\mid$ $\dfrac{s_{n+1}}{s_n}$ $\mid$ $<$ 1 and thus $\sum$ $\dfrac{1}{\sqrt{n!}}$ converges. \\ 
+\bigskip
+
+(b) $\sum$ $\dfrac{2+cosn}{3^{n}}$\\
+We know that cos is bounded by -1 and 1 (inclusive), which means that  1 $\leq$ 2 + cosn $\leq$ 3 \\
+then we know that $\dfrac{2 + cosn}{3^n}$ $\leq$ $\dfrac{3}{3^n}$  or  $\sum$ $\dfrac{2 + cosn}{3^n}$ $\leq$ $\sum$ $\dfrac{3}{3^n}$ \\
+$\sum$ $\dfrac{3}{3^n}$ = $\sum$ 3 $*$ ($\dfrac{1}{3}$)$^{n}$. By properties of sums, we can say 3 $\sum$  ($\dfrac{1}{3}$)$^{n}$.\\
+We know that this is a geometric series with $\mid$ r $\mid$ = $\dfrac{1}{3}$, which is less than 1. Thus that geometric series converges, and by the comparison test, $\sum$ $\dfrac{2+cosn}{3^{n}}$ converges.\\
+\bigskip
+
+(c) $\sum$ $\dfrac{1}{2^{n}+n}$ \\
+$2^n$ + n $\geq$ $2^n$, and thus $\sum$ $\dfrac{1}{2^{n}+n}$ $\leq$ $\sum$ $\dfrac{1}{2^n}$.\\
+$\sum$ $\dfrac{1}{2^n}$ = $\sum$ ($\dfrac{1}{2}$)$^n$, which is a geometric series with $\mid$ r $\mid$ = $\dfrac{1}{2}$, since $\dfrac{1}{2}$ $<$ 1, we know this series converges. \\
+By the comparison test,  $\sum$ $\dfrac{1}{2^{n}+n}$ converges.\\
+\bigskip
+
+(d) $\sum$ $(\dfrac{1}{2})^{n}$(50 + $\dfrac{2}{n}$)\\ 
+We want to prove this with the comparison test. 50 + $\dfrac{2}{n}$ must always be less than or equal to 52. So we can say with certainty that $\sum$ $(\dfrac{1}{2})^{n}$(50 + $\dfrac{2}{n}$) $\leq$ $\sum$ $(\dfrac{1}{2})^{n}$ $*$60.\\
+$\sum$ $(\dfrac{1}{2})^{n}$ $*$60 = 60 $\sum$ $(\dfrac{1}{2})^{n}$ which is a geometric series with $\mid$ r $\mid$ = $\dfrac{1}{2}$. Since $\dfrac{1}{2}$ $<$ 1, we know the series converges. \\
+Thus, by the comparison test,  $\sum$ $(\dfrac{1}{2})^{n}$(50 + $\dfrac{2}{n}$) converges.\\
+\bigskip
+
+(e) $\sum$ sin($\dfrac{\pi n}{9}$) \\
+sin($\dfrac{\pi n}{9}$) is bounded by -1 and 1 (inclusive). As n $\rightarrow$ $\infty$, $\dfrac{\pi n}{9}$ approaches $\infty$. So we can say that sin($\dfrac{\pi n}{9}$) does not have a limit. \\
+By the divergence test, we can then say that  $\sum$ sin($\dfrac{\pi n}{9}$) diverges.\\
+\bigskip
+
+(f) $\sum$ $\dfrac{(100)^{n}}{n!}$ \\
+set $s_n$ = $\dfrac{(100)^{n}}{n!}$, and apply the ratio test. lim sup $\mid$ $\dfrac{s_{n+1}}{s_n}$ $\mid$ = lim sup $\mid$ $\dfrac{\dfrac{(100)^{n+1}}{(n+1)!}}{\dfrac{(100)^n}{n!}}$ $\mid$\\
+=lim sup $\mid$ $\dfrac{(100^{n+1}}{(100)^n}$ $*$ $\dfrac{n!}{(n+1)!}$ = lim sup $\mid$ 100 $*$ $\dfrac{1}{n+1}$ $\mid$\\
+= 100$*$ lim sup ($\dfrac{1}{n+1}$) = 100 * 0 = 0 by proof 1.1\\
+\newpage
+
+\item Ross 14.8 \\
+Show that if $\sum$ $a_{n}$ and $\sum$ $b_{n}$ are convergent series of nonnegative numbers, then $\sum$ $\sqrt{a_{n}b_{n}}$ converges.\\
+first we want to show that $\sqrt{a_n b_n}$ $\leq$ a$_n$ + b$_n$. if we square both sides, ($\sqrt{a_n b_n}$)$^2$ $\leq$ (a$_n$ + b$_n$)$^2$. \\
+a$_n$ b$_n$ $\leq$ a$_n^2$ + 2a$_n$b$_n$ + b$_n^2$. Since a and b are non-negative numbers, we know that  a$_n^2$ $\geq$ 0, 2a$_n$b$_n$ $\geq$ 0, b$_n^2$ $\geq$ 0. So  a$_n^2$ + 2a$_n$b$_n$ + b$_n^2$ $\geq$ 0. \\
+so 0 $\leq$ a$_n^2$ + a$_n$b$_n$ + b$_n^2$ holds, which we have just shown to be true. \\
+$\sqrt{a_n b_n}$ $\leq$ a$_n$ + b$_n$., thus $\sum$ $\sqrt{a_n b_n}$ $\leq$ $\sum$ a$_n$ + b$_n$. and $\sum$ a$_n$ + b$_n$ = $\sum$ a$_n$ + $\sum$ b$_n$\\
+Since a$_n$ and b$_n$ are convergent series, we thus know that $\sum$ a$_n$ + $\sum$ b$_n$ converges. INSERT REFERENCE.\\
+By the comparison test, we can thus say $\sqrt{a_n b_n}$ converges.
+\newpage
+
+\item Ross 15.6 \\
+(a) Give an example of a divergent series $\sum$ $a_{n}$ for which $\sum$ $a^{2}_{n}$ converges. \\
+a$_n$ = $\dfrac{1}{n}$. $\sum$ $\dfrac{1}{n}$ does not converge. but $\sum$ $\dfrac{1}{n^2}$ does converge.\\
+
+(b) Observe that if $\sum$ $a_{n}$ is a convergent series of nonnegative terms, then $\sum$ $a^{2}_{n}$ also converges. See Exercise 14.7. \\
+We assume that $\sum$ a$_n$ is a convergent series. 
+
+(c) Give an example of a convergent series $\sum$ $a_{n}$ for which $\sum$ $a^{2}_{n}$ diverges. 
+\newpage
+
+\item Ross 23.4\\
+For n = 0, 1, 2, 3, ... , let $a_{n}$ = $[$ $\dfrac{4+2(-1)^{n}}{5}$ $]^{n}$.\\
+(a) Find lim sup($a_{n}$ $)^{1/n}$, lim inf($a_{n}$ $)^{1/n}$, lim sup $\mid$ $\dfrac{a_{n+1}}{a_{n}}$ $\mid$ and \\ lim inf $\mid$ $\dfrac{a_{n+1}}{a_{n}}$ $\mid$. \\
+(b) Do the series $\sum$ $a_{n}$ and $\sum$(-1$)^{n}$ $a_{n}$ converge? Explain briefly. \\
+(c) Now consider the power series $\sum$ $a_{n}$ $x^{n}$ with the coefficients an as above. Find the radius of convergence and determine the exact interval of convergence for the series. \\
+\newpage
+
+\item Ross 23.5 \\
+ Consider a power series $\sum$ $a_{n}$ $x^{n}$ with radius of convergence R. \\
+(a) Prove that if all the coefficients an are integers and if infinitely many of them are nonzero, then R $\leq$ 1. \\
+ b) Prove that if lim sup $\mid$ $a_{n}$ $\mid$ $>$ 0, then R $\leq$ 1.
+
+\end{enumerate}
+
+\end{document}
+
