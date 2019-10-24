@@ -15,7 +15,7 @@ author_profile: false
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=LNO4XZQAAAAJ&hl=en)
 
-- "Learning to Learn via Self-Critique", A. Antoniou and A. Storkey, arXiv preprint arXiv: 1905.10295, 2019
+- "Learning to Learn via Self-Critique", A. Antoniou and A. Storkey, In 33rd Conference on Neural Information Processing Systems (NeurIPS 2019), Vancouver, Canada
   * Supplementary Material: [Poster](/documents/Learning_to_learn_via_Self_Critique_poster.pdf) 
 
 
