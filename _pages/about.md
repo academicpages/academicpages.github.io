@@ -15,6 +15,6 @@ Before, I have completed my [doctorate](https://elib.uni-stuttgart.de/handle/116
 
 Besides, being a computational and systems biologist, I am also a computer science engineer by my previous background.
 
-My research interest includes  **machine learning**, **computational and systems biology**, **modeling and simulation of physical systems**, **Bayesian inference**, and **spectral graph theory**. 
+My research interest includes  **machine learning**,**AI**, **computational and systems biology**, **modeling and simulation of physical systems**, **Bayesian inference**, and **spectral graph theory**. 
 
 My [Erdös number](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) is <b>3</b>
