@@ -29,7 +29,7 @@ verifiably correct and scalable distributed database applications.
     <font size="3">
       (Kia Rahmani, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
     </font> <br /> <font size="2">
-    <a href="https://2019.splashcon.org/track/splash-2019-oopsla"> 
+    <a href="https://dl.acm.org/citation.cfm?doid=3366395.3360543"> 
       [OOPSLA'19: ACM Conference on Object-Oriented Programming, Languages,
       Systems, and Applications]</a>
       <br/>
