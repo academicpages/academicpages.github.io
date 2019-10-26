@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* **Dr.-Ing.** in Systems theory & Systems Biology,[University of Stuttgart](https://www.uni-stuttgart.de/), DE, 2019 (*magna cum laude*, certificate awaited)
+* **Dr.-Ing.** in Systems Biology,[University of Stuttgart](https://www.uni-stuttgart.de/), DE, 2019 (*magna cum laude*, certificate awaited)
 * **M.S.** in Systems Biology, [The Royal Institite of Technology](https://www.kth.se/en), KTH, SE, 2015
 * **M.Sc.(Tech.)** in Computational systems biology, [The Aalto University](https://www.aalto.fi/en), FI, 2015 (Distinction)
 * **M.Eng.** in Computer Science & Engineering, [Jadavpur University](http://www.jaduniv.edu.in/), IN, 2011
