@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-In this page, you can find information related to my experience,  skills, studies, among other things. 
+In this page, you can find information related to my studies, publications and talks, among other things. 
 <a href='http://cris21395.github.io/files/cv.pdf'>
   <b>Click here if you want to view in PDF my up-to-date Curriculum Vitae</b>
 </a>.
@@ -26,13 +26,13 @@ My research interests include Human-Computer Interaction (HCI), 3D graphics and 
   using Mixed Reality.
   * **Advisors**: Dr. Carlos González Morcillo and PhD. Santiago Sánchez Sobrino.
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
