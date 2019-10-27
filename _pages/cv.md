@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +10,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Dr.-Ing.** in Systems Biology,[University of Stuttgart](https://www.uni-stuttgart.de/), DE, 2019 (*magna cum laude*, certificate awaited)
+* **M.S.** in Systems Biology, [The Royal Institite of Technology](https://www.kth.se/en), KTH, SE, 2015
+* **M.Sc.(Tech.)** in Computational systems biology, [The Aalto University](https://www.aalto.fi/en), FI, 2015 (Distinction)
+* **M.Eng.** in Computer Science & Engineering, [Jadavpur University](http://www.jaduniv.edu.in/), IN, 2011
+* **B.Tech.** in Computer Science & Engineering, [West Bengal University of Technology](http://www.wbut.ac.in/), IN, 2009
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Visiting doctoral student
+  * **Harvard Medical School**, MA, Boston, USA
+  * Duties included: Building rule-based model of gene regulation
+  * Supervisor: [Professor Jeremy Gunawardena](https://sysbio.med.harvard.edu/jeremy-gunawardena)
+  
+* Summer 2013: Summer research intern
+  * **Aalto University**, Finland
+  * Duties included: Building kernelized decision tree based classifier for prediction of protein-protein interactions
+  * Supervisors: Dr. Jana Kludas and [Prof. Juho Rousu](https://people.aalto.fi/juho.rousu)
+  
+* Feb 2011 - May 2011: Visiting researcher
+  * **University of Primorska**, Slovenia
+  * Duties included: Developing eigenvector-based measures to identify maximal bipartitions in a simple, connected graph
+  * Supervisor: [Prof. Dragan Stevanovic](https://scholar.google.com/citations?user=anUsKOoAAAAJ&hl=en)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Modeling & simulation
+* Machine learning for large-scale data analysis 
+  * Scikit-learn
+* Parameter estimation
+* Bayesian inference
+* Programming
+  * Python
+  * MATLAB
+  * R
+* Version control
+  * Github
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* &euro;48,000 as Erasmus Mundus Scholarship by the European Commission (2012-2014)
+* [Slovenian Bilateral Mobility Grant](https://eng.cmepius.si/students/bilateral-scholarships/), 2011 by the The Ministry of   Education, Science and Sport of the Republic of Slovenia.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organized [MATLAB course](https://www.ist.uni-stuttgart.de/de/lehre/lehrveranstaltungen/2018ws/matlab/) for almost 500 bachelor students at the University of Stuttgart.
