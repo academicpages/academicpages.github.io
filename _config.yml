@@ -87,9 +87,9 @@ author:
   location         : "Ciudad Real, Spain"
   employer         :
   googlescholar    : https://scholar.google.es/citations?user=yMbXyc0AAAAJ&hl=es
-  email            : Cristian.Gomez@uclm.es
+  email            : # Cristian.Gomez@uclm.es
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
