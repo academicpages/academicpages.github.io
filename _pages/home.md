@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-Cristian Gómez Portes is a MSc student in Computer Science at University of Castilla-La Mancha (UCLM) where he received his BSc in 2018. Currently, he works as a research staff at CHICO group. His research interest include human computer interaction, 3D graphics and artificial intelligence.
+Cristian Gómez Portes is a PhD student in Computer Science at University of Castilla-La Mancha (UCLM) where he received his BSc and MSc in 2018 and 2019, respectively. Currently, he works as a predoctoral research assistant at CHICO group. His research interests include human computer interaction, 3D graphics and artificial intelligence.
 
 ---
 # News
