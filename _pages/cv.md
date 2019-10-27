@@ -27,13 +27,11 @@ My research interests include Human-Computer Interaction (HCI), 3D graphics and 
   * **Advisors**: Dr. Carlos González Morcillo and PhD. Santiago Sánchez Sobrino.
 
 ## Publications
-======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Talks
-======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
