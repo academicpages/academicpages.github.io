@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2019: Research Assistant
+* Summer 2019: Research Internship
   * Lawerence Berkeley National Labrotrary 
   * Duties included: Worked with Large Scale Solvers group of CRD Division. 
   * Supervisor: Dr. Xiaoye Sherry Li
