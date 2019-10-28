@@ -11,7 +11,7 @@ I am a computational and quantitative sociologist studying political sociology, 
 
 [Download Zhang's Vita Here](https://yongjunzhang.com/files/zhang-vita.pdf).
 
-[Click Here to Access My Job Market Paper](https://yongjunzhang.com/files/zhang_jmp.pdf).
+[Click Here to Access My Job Market Paper](https://yongjunzhang.com/files/zhang-jmp.pdf).
 
 [Click Here to Access All My Publications](https://drive.google.com/open?id=15JTW3X-jlLIcULDtGv5i79kA8l5yeejf).
 
