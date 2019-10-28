@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Scott Burgholzer"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Scott Burgholzer"
 description              : &description "personal description"
 url                      : https://sburgholzer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Scott Burgholzer"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I have interests in computer science, data science and meteorology. I went to College of DuPage for Computer Science and Meteorology. I earned my B.S. in Computer Science at Lewis University in 2017. I will have my M.S. in Data Science with a concentration in Computer Science from Lewis University in 2019."
   location         : "Elburn, IL"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "scott@weatherbyscott.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
