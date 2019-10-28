@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Scott Burgholzer"
+title                    : "Scott Burgholzer / About"
 title_separator          : "-"
 name                     : &name "Scott Burgholzer"
 description              : &description "personal description"
