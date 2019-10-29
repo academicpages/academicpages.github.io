@@ -33,8 +33,8 @@ programming sense, let $D(r, b)$ be the number of ways to place $r$ red and $b$
 blue balls into $(r + b)/2$ slot-pairs with different colors in each slot-pair:
 
 <p>
-\begin{equation*}
 $$
+\begin{equation*}
 D(r, b) = \begin{cases}
 2rb \times D(r-1, b-1) &\text{ if $r>0$ and $r>0$} \\
 1 &\text{ if $r=b=0$}
