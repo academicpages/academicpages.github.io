@@ -1,7 +1,7 @@
 ---
 title: 'Previous Blog Post'
 date: 2019-09-25
-permalink: /posts/2012/08/Previous-Blog-Post/
+permalink: /posts/2015/08/Previous-Blog-Post/
 
 ---
 **These are several previous posts.**
