@@ -63,6 +63,7 @@ $$
 
 And we can generalize that:
 
+{% raw %}
 \\[
 S(r, b) = \begin{cases}
 r(r-1) S(r-2, b) + b(b-1) S(r, b-2) &\text{ if $r>0$ and $b>0$} \\
@@ -71,6 +72,7 @@ b(b-1) S(0, b-2) &\text{ if $r=0$ and $b>0$} \\
 1 &\text{ if $r=0$ and $b=0$} \\
 \end{cases}
 \\]
+{% endraw %}
 
 It wasn't obvious to me what this comes out to!
 
