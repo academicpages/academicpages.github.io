@@ -6,7 +6,8 @@ mathjax: false
 ---
 
 I saw this puzzle in MIT's [Puzzle
-Corner](https://alum.mit.edu/slice/reflections-puzzle-guy) and thought it fun.
+Corner](https://alum.mit.edu/slice/reflections-puzzle-guy) and thought it was
+fun.
 
 For background, bridge is a card game played by 4 players. Players who sit
 opposite one another are in a partnership, so there a 2 players in 2
