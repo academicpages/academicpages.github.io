@@ -32,12 +32,14 @@ looking at the next slot, you have $7 \times 7 \times 2$ choices. In a dynamic
 programming sense, let $D(r, b)$ be the number of ways to place $r$ red and $b$
 blue balls into $(r + b)/2$ slot-pairs with different colors in each slot-pair:
 
+<p>
 $$
 D(r, b) = \begin{cases}
 2rb \times D(r-1, b-1) &\text{ if $r>0$ and $r>0$} \\
 1 &\text{ if $r=b=0$}
 \end{cases}
 $$
+</p>
 
 It's pretty clear that $D(8,8) = (8!)^2 \times 2^8$.
 
@@ -52,27 +54,18 @@ for filling the other slot. If $S(r, b)$ is the number of ways to put $r$ red
 balls and $b$ blue balls into $(r + b)/2$ slot-pairs with all slot-pairs having
 the same colors, then we just said that:
 
-{% raw %}
-$$
-\begin{align*}
-S(8, 8) &= \#\{\text{ways if the first slot-pair is all red}\} + \#\{\text{ways if all blue}\} \\
-  &= 8 \times 7 \times S(6, 8) + 8 \times 7 \times S(8, 6) \\
-\end{align*}
-$$
-{% endraw %}
+$$ \begin{align*} S(8, 8) &= \#\{\text{ways if the first slot-pair is all red}\} + \#\{\text{ways if all blue}\} \\ &= 8 \times 7 \times S(6, 8) + 8 \times 7 \times S(8, 6) \\ \end{align*} $$
 
 And we can generalize that:
 
-{% raw %}
-\\[
+$$
 S(r, b) = \begin{cases}
 r(r-1) S(r-2, b) + b(b-1) S(r, b-2) &\text{ if $r>0$ and $b>0$} \\
 r(r-1) S(r-2, 0) &\text{ if $r>0$ and $b=0$} \\
 b(b-1) S(0, b-2) &\text{ if $r=0$ and $b>0$} \\
 1 &\text{ if $r=0$ and $b=0$} \\
 \end{cases}
-\\]
-{% endraw %}
+$$
 
 It wasn't obvious to me what this comes out to!
 
