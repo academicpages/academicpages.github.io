@@ -33,11 +33,13 @@ programming sense, let $D(r, b)$ be the number of ways to place $r$ red and $b$
 blue balls into $(r + b)/2$ slot-pairs with different colors in each slot-pair:
 
 <p>
+\begin{equation*}
 $$
 D(r, b) = \begin{cases}
 2rb \times D(r-1, b-1) &\text{ if $r>0$ and $r>0$} \\
 1 &\text{ if $r=b=0$}
 \end{cases}
+\end{equation*}
 $$
 </p>
 
@@ -54,18 +56,28 @@ for filling the other slot. If $S(r, b)$ is the number of ways to put $r$ red
 balls and $b$ blue balls into $(r + b)/2$ slot-pairs with all slot-pairs having
 the same colors, then we just said that:
 
-$$ \begin{align*} S(8, 8) &= \#\{\text{ways if the first slot-pair is all red}\} + \#\{\text{ways if all blue}\} \\ &= 8 \times 7 \times S(6, 8) + 8 \times 7 \times S(8, 6) \\ \end{align*} $$
+<p>
+$$
+\begin{align*} S(8, 8) &= \#\{\text{ways if the first slot-pair is all red}\} + \#\{\text{ways if all blue}\} \\
+  &= 8 \times 7 \times S(6, 8) + 8 \times 7 \times S(8, 6)
+\end{align*}
+$$
+</p>
 
 And we can generalize that:
 
+<p>
 $$
+\begin{equation*}
 S(r, b) = \begin{cases}
 r(r-1) S(r-2, b) + b(b-1) S(r, b-2) &\text{ if $r>0$ and $b>0$} \\
 r(r-1) S(r-2, 0) &\text{ if $r>0$ and $b=0$} \\
 b(b-1) S(0, b-2) &\text{ if $r=0$ and $b>0$} \\
 1 &\text{ if $r=0$ and $b=0$} \\
 \end{cases}
+\end{equation*}
 $$
+</p>
 
 It wasn't obvious to me what this comes out to!
 
