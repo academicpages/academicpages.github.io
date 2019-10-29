@@ -9,15 +9,18 @@ redirect_from:
   - /about.html
 ---
 
-I just finished my PhD in the Department of Biological Engineering at MIT.
+I'm a data scientist at [Biobot Analytics](www.biobot.io), a startup measuring opioid concentrations in sewers to map consumption in cities.
+As their first full-time data scientist, I lead our analytics and visualization efforts, and ensure customer success by communicating the value of our data to our customers.
+Before joining Biobot, I received my PhD from the Department of Biological Engineering at MIT.
 I worked in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
-More generally, I'm interested in applying **personalized medicine approaches for public health**.
-I'm passionate about making local impact to move our society toward a more just ideal.
+
+More broadly, I'm interested in applying **personalized medicine approaches for public health**.
+I'm also passionate about making local impact to move our society toward a more just ideal.
 That means learning about and working for increased **diversity and equity in STEM** and **technical approaches for social good**.
 
-When I'm not in lab doing [research](research/), I spend my time working to improve the BE Department student experience as one of the [BE Graduate Student Board](http://begradboard.mit.edu/) Diversity co-Chairs and as a member of the [BE REFS](http://berefs.com).
-As Diversity co-Chair, I'm especially proud of having co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap) and co-written the BE Department's [Community Values Statement](http://be.mit.edu/about/department-values-statement).
-Through REFS, I've learned **conflict management** skills that have positively impacted almost every aspect of my life.
+During my PhD, I was an active leader in my department and at MIT, advocating for graduate students through diversity, equity and inclusion efforts and as a trained conflict coach for my peers.
+I'm especially proud of having co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap) and co-written the BE Department's [Community Values Statement](http://be.mit.edu/about/department-values-statement).
+Through my training to become a [BE REF](http://berefs.com), I learned **conflict management** skills that have positively impacted almost every aspect of my life.
 
 When I'm not doing those things, I'm probably outside chasing after a **frisbee**.
 Through my involvement in the sport first in [Cambodia](http://www.phnompenhpost.com/post-weekend/unconventional-sport-finds-unlikely-home-cambodia) and now on [MIT's women's team](http://scripts.mit.edu/~womens-ult/), I've become passionate about sport's ability to drive [social change](https://www.facebook.com/youthultimateproject) and push [gender equity](https://thenib.com/the-sports-wage-gap-needs-to-close) forward.

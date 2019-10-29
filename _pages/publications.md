@@ -12,6 +12,15 @@ author_profile: true
 
 ## Academic publications
 
+Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm.   
+"Untargeted detection of human health and activity markers in residential wastewater through microbiome sequencing and metabolomics."    
+_bioRxiv_ (2019) doi:[10.1101/728022](https://doi.org/10.1101/728022).
+
+**Claire Duvallet**, Caroline Zellmer, Pratik Panchal, Shrish Budree, Madji Osman, and Eric Alm.    
+"Framework for rational donor selection in fecal microbiota transplant clinical trials."    
+_PLoS ONE_ (2019) doi: [10.1371/journal.pone.0222881](https://doi.org/10.1371/journal.pone.0222881).     
+Associated github: [cduvallet/donor-selection](https://github.com/cduvallet/donor-selection/)
+
 Evan Bolyen, Jai Ram Rideout, Matthew R. Dillon, Nicholas A. Bokulich ... **Claire Duvallet** ... Rob Knight, Greg Caporaso.     
 "Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2."      
 _Nature Biotechnology_ (2019). doi: [10.1038/s41587-019-0209-9](https://doi.org/10.1038/s41587-019-0209-9).
@@ -19,15 +28,6 @@ _Nature Biotechnology_ (2019). doi: [10.1038/s41587-019-0209-9](https://doi.org/
 Chengzhen Dai, **Claire Duvallet**, An Ni Zhang, Mariana Matus, Newsha Ghaeli, Shinkyu Park, Noriko Endo, Siavash Isazadeh, Kazi Jamil, Carlo Ratti, and Eric Alm.    
 "Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in sewage environments."      
 _bioRxiv_ (2019). doi: [10.1101/562496](https://doi.org/10.1101/562496).
-
-**Claire Duvallet**, Caroline Zellmer, Pratik Panchal, Shrish Budree, Madji Osman, and Eric Alm.    
-"Framework for rational donor selection in fecal microbiota transplant clinical trials."    
-_medRxiv_ (2019) doi: [10.1101/19000307](https://doi.org/10.1101/19000307).     
-Associated github: [cduvallet/donor-selection](https://github.com/cduvallet/donor-selection/)
-
-Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm.   
-"Untargeted detection of human health and activity markers in residential wastewater through microbiome sequencing and metabolomics."    
-_in preparation_.
 
 **Claire Duvallet**, Kara Larson, Scott Snapper, Sonia Iosim, Ann Lee, Katherine Freer, Kara May, Eric Alm, and Rachel Rosen.    
 "Aerodigestive sampling reveals altered microbial exchange between lung, oropharyngeal, and gastric microbiomes in children with impaired swallow function."     

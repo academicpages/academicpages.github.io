@@ -14,7 +14,7 @@ You can check out the [paper](https://www.nature.com/articles/s41467-017-01973-8
 
 I'm proud to have used this project as an opportunity to practice **reproducible, open science**: every analysis in the paper can be re-made with the code on my [github](http://github.com/cduvallet/microbiomeHD), and we put the data on [Zenodo](https://zenodo.org/record/840333#.WbdUMtOGPBI).
 
-I also worked with a clinical collaborator at Boston Children's Hospital to analyze a large dataset of **lung, stomach, and throat microbiomes** of over 200 pediatric patients.
+In another project, I worked with a clinical collaborator at Boston Children's Hospital to analyze a large dataset of **lung, stomach, and throat microbiomes** of over 200 pediatric patients.
 We found that lung and stomach microbiomes are driven more by the individual person than the body site and that patients with swallowing dysfunction have more similar lung and throat microbiomes than those who swallow normally.
 This has exciting clinical implications for how we treat kids with these disorders, and you can read more about it in [our paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216453) or my [behind the paper blog post](https://go.nature.com/30rx4VZ).
 

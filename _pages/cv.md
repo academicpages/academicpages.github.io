@@ -21,7 +21,7 @@ James Bowie High School, Austin, TX (2009)
 
 # Research experience
 
-**Alm lab**, Massachusetts Institute of Technology (2014-present)   
+**Alm lab**, Massachusetts Institute of Technology (2014-2019)   
 *Under the direction of Eric Alm*
 
 I did my PhD in [Eric Alm's lab](http://almlab.mit.edu/) at MIT.
@@ -52,6 +52,8 @@ See [publications](/publications/) page.
 # Presentations
 
 ## Oral presentations
+
+Aug. 2019 - "24-hour multi-omics analysis of residential sewage reflects human activity and informs public health." American Chemical Society National Meeting. Wastewater-Based Epidemiology: Opportunities, Challenges & Applications to Public Health & Safety.
 
 Apr. 2019 - "Intro to microbiome data visualization." Cornell University 2019 Microbiome Hackathon: [Microbiome Hack](http://microbiomehack.org). Slides: [cduvallet.github.io/mbiome-data-viz/](https://cduvallet.github.io/mbiome-data-viz/)
 
@@ -134,9 +136,13 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 
 **Graduate Student Advisory Group for Engineering (GradSAGE)**, Advisory group to the Dean of the School of Engineering, *Advisor/advisee relations subcommittee* (2017-2019)
 
-## Outreach and mentorship
+## Mentorship
+
+[**Insight Health Data Science Fellows**](https://www.insighthealthdata.com/), Supervised two data science fellows (Sep-Oct 2019).
 
 [**MIT SuperUROP Program**](https://superurop.mit.edu/), Microbiome superUROP mentor (2016-2017). Supervised one undergraduate researcher.
+
+## Outreach
 
 [**Science Club for Girls**](http://www.scienceclubforgirls.org/) [Young leaders in STEM program](http://www.scienceclubforgirls.org/teen-programs-overview) (Summer 2016 and 2017). Developed and taught three-day course on microbiology and the human microbiome.
 
@@ -147,6 +153,8 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 [**E3: Empowering, Encouraging, and Eliminating Barriers for Women in STEM**](http://e3mentoringprogram.wixsite.com/home) (2015). Mentor and guest presenter.
 
 ## Reviewer
+
+I serve as a peer-reviewer in my field. A subset of my peer reviews can be found on my [Publons profile](https://publons.com/researcher/3183036/claire-duvallet/).
 
 [**MIT IDEAS Global Challenge**](https://studentlife.mit.edu/ideas), *Reviewer* (2015-2018)    
 
