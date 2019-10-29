@@ -52,12 +52,14 @@ for filling the other slot. If $S(r, b)$ is the number of ways to put $r$ red
 balls and $b$ blue balls into $(r + b)/2$ slot-pairs with all slot-pairs having
 the same colors, then we just said that:
 
+{% raw %}
 $$
 \begin{align*}
 S(8, 8) &= \#\{\text{ways if the first slot-pair is all red}\} + \#\{\text{ways if all blue}\} \\
   &= 8 \times 7 \times S(6, 8) + 8 \times 7 \times S(8, 6) \\
 \end{align*}
 $$
+{% endraw %}
 
 And we can generalize that:
 
