@@ -61,14 +61,14 @@ $$
 
 And we can generalize that:
 
-$$
+\[
 S(r, b) = \begin{cases}
 r(r-1) S(r-2, b) + b(b-1) S(r, b-2) &\text{ if $r>0$ and $b>0$} \\
 r(r-1) S(r-2, 0) &\text{ if $r>0$ and $b=0$} \\
 b(b-1) S(0, b-2) &\text{ if $r=0$ and $b>0$} \\
 1 &\text{ if $r=0$ and $b=0$} \\
 \end{cases}
-$$
+\]
 
 It wasn't obvious to me what this comes out to!
 
@@ -82,7 +82,7 @@ Thus, the opposite-color pairings outnumber the same-color pairings by a factor 
 $2^8 \times (4!)^2 / 8! \approx 3.7$.
 
 **Discussion**: Opposite-color arrangements only slightly outnumber same-color
-arrangements. This is pretty subtle!
+arrangements. This is a pretty subtle difference!
 
 My friend [Ralph Morrison](https://sites.williams.edu/10rem/) suggested
 extending this problem for different numbers of tables. (There are $n=4$ tables
