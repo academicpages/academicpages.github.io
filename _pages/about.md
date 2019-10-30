@@ -11,7 +11,7 @@ redirect_from:
 
 I am a lecturer in the [College of Information Science and Engineering](https://computer.haut.edu.cn), [Henan University of Techonology](https://www.haut.edu.cn). I received my Ph.D. in Applied Mathematics in 2019 from [Center for Combinatorics](http://www.combinatorics.net.cn), [Nankai University](http://www.nankai.edu.cn).
 
-My research interests include computer vision, machine learning and computational graphics, mainly focusing on
+My research interests include computer vision, machine learning and image processing, mainly focusing on
 * image/video stitching
 * image alignment
 * image manipulation
@@ -24,7 +24,7 @@ Here is my [CV](tlliao.github.io/files/cv_ltl.pdf) and [contact information](#co
 ## News
 
 * [**Paper**] Our work on image stitching has been accepted to IEEE Transactions on Image Processing.
-* [**Code**] Matlab implementation for Single-perspective warps.
+* [**Code**] Matlab implementation for Single-perspective warps has been uploaded on github.
 
 ## Research
 
