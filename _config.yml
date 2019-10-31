@@ -40,7 +40,6 @@ atom_feed:
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
-yandex_site_verification :
 
 # Social Sharing
 twitter:
@@ -70,7 +69,6 @@ author:
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
   github           : "OnnoKampman"
   goodreads        : "https://www.goodreads.com/user/show/43642138-onno"
   keybase          :
@@ -80,7 +78,6 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : "KampmanOnno"
-  xing             :
   youtube          :
   wikipedia        :
 
