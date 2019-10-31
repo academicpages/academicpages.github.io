@@ -18,13 +18,13 @@ author_profile: true
 
 ### Working Papers
 
-* "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/20190130_Severen_LAMetro_New.pdf)"
-    * **_NEW_** January 2019 [draft](https://cseveren.github.io/files/20190130_Severen_LAMetro_New.pdf) and [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf)
-    * Lots of new stuff, including assessments of some common methods and assumptions in quantitative urban economic geography.
+* "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/20191025_Severen_LAMetro_New.pdf)"
+    * **_NEW_** October 2019: [draft](https://cseveren.github.io/files/20191025_Severen_LAMetro_New.pdf) and [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf).
+    * Lean, mean, trimmed down; ready to make even a referee's heart swoon.
 
 * "[Formative Experiences and the Price of Gasoline](https://www.nber.org/papers/w26091)" (with [Arthur van Benthem][avb]). NBER Working Paper 26091.
     * Media coveraege: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
-    * [Ungated version](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf)
+    * [Ungated version](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf).
 
 ### Selected Works in Progress
 
