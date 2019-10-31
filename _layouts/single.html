@@ -52,7 +52,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" style="text-align: right" itemprop="text">
+      <section class="page__content" style="text-align: justify" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
