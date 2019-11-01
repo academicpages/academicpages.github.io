@@ -11,7 +11,7 @@ title                    : "Daniel Cohen Hillel"
 title_separator          : "-"
 name                     : &name "Daniel Cohen Hillel"
 description              : &description "personal description"
-url                      : https://academicpages.github.io/
+url                      : https://DanielCohenHillel.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanielCohenHillel/DanielCohenHillel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
