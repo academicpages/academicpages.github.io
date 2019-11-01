@@ -18,7 +18,7 @@ I am excited about opportunities to work in areas such as *Reinforcement Learnin
 My work considers all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations. [TextNormSeq2Seq](https://github.com/Isminoula/TextNormSeq2Seq) is a hybrid Seq2Seq model that can serve as a pre-processing step for any NLP application to adapt to noisy social media text. I have also particpated on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio).
 
 
-<span style="color:Red">Looking for tenure-track positions in machine learning, data science, information retrieval and related fields</span>
+<span style="color:Red">Looking for tenure-track positions in machine learning, data science, information retrieval & related fields</span>
 
 
 # News
