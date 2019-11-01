@@ -99,14 +99,14 @@ author:
   github           : "DanielCohenHillel"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : https://stackoverflow.com/users/7548175/daniel-cohen-hillel
+  instagram        : "danielcohenhillel"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5616-5977"
+  orcid            : # "https://orcid.org/0000-0002-5616-5977"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "http://stackoverflow.com/users/123456/username"
+  stackoverflow    : "https://stackoverflow.com/users/7548175/daniel-cohen-hillel"
   steam            :
   tumblr           :
   twitter          : 
@@ -209,24 +209,24 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   - scope:
       path: ""
@@ -236,14 +236,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
