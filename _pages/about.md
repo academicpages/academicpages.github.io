@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daniel Cohen Hillel"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,5 +15,5 @@ Website
 Bro
 
 Damn
-======
+------
 Bruh
