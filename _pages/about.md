@@ -21,7 +21,7 @@ My work considers all sorts of bottlenecks related to data noise, sparsity, doma
 
 # News
 - **October, 2019:** Attending [ISWC 2019](https://iswc2019.semanticweb.org/) in Auckland, NZ (travel award)
-- **July, 2019:** [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) acceptance!
+- **August, 2019:** Selected to participate in the [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) workshop
 - **July, 2019:** CS@UIUC Travel Grant to attend Grace Hopper Conference in Orlando, FL.
 - **March, 2019:** Paper accepted to ICWSM 2019.
 - **June, 2018:** Short paper accepted to ISWC 2018.
