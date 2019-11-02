@@ -9,34 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+Basic Info
+======
+* Name: Daniel Cohen Hillel
+* Birth Date: 01/01/02
+* Address: Kohav Ya'ir Tzur Yigal, Snonit 7 St.
+* Phone Number: +972 54 443 7361
+* ID: 212553804
+* Email: daniel.cohenhille@mail.huji.ac.il
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, The Open University of Israel, 2016 - 2019
+* M.S. in Applied Physics, The Hebrew University, 2019 - current
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* The Weizmann Institute: Student by hours, July 2019 - current
+  * Worked in the lab of Sege Rosenblum on quantum computing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* GameCan: Programmer on the game Overstep, 2013 - 2014
+* Rush Island: Worked on the game Rush Island as a programmer and UI desinger, 2016 - 2017
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C#
+* 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
