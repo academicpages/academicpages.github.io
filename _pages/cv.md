@@ -17,6 +17,7 @@ Basic Info
 * Phone Number: +972 54 443 7361
 * ID: 212553804
 * Email: daniel.cohenhille@mail.huji.ac.il
+
 Education
 ======
 * B.Sc. in Physics, The Open University of Israel, 2016 - 2019
