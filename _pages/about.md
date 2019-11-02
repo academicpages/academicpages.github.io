@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Gcc's home on the web
-Lorem ipsum.
+This is Gcc's homepage on the web
+
