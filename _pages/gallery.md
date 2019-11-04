@@ -43,17 +43,16 @@ aerial_gallery:
   - url: /images/gallery/schloss_puechau_k.jpg
     image_path: /images/gallery/schloss_puechau_c.jpg
     alt: "Castle 'Schloss Püchau', Germany"
-    title: "Castle 'Schloss Püchau', Germany"
-<!--   - url: images/gallery/field_hainer_lake_k.jpg
+    title: "Castle 'Schloss Püchau', Germany"<!--
+  - url: images/gallery/field_hainer_lake_k.jpg
     image_path: images/gallery/field_hainer_lake_c.jpg
     alt: "Field near Hainer Lake, Germany"
     title: "Field near Hainer Lake, Germany"
   - url: /images/gallery/gut_kahnsdorf_k.jpg
     image_path: /images/gallery/gut_kahnsdorf_k.jpg
     alt: "Gut Kahnsdorf in Neukieritzsch, Germany"
-    title: "Gut Kahnsdorf in Neukieritzsch, Germany"
- -->  
- - url: /images/gallery/silver_lake_summer_k.jpg
+    title: "Gut Kahnsdorf in Neukieritzsch, Germany"  -->  
+  - url: /images/gallery/silver_lake_summer_k.jpg
     image_path: /images/gallery/silver_lake_summer_c.jpg
     alt: "Silbersee during summer, Leipzig, Germany"
     title: "Silbersee during summer, Leipzig, Germany"
