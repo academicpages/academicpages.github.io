@@ -3,10 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Game Development"
+  - title "Software"
+  menu:
+    - title: "Game Development"
     url: /gamedev/
 
-  - title: "Maker Projects"
+    - title: "Maker Projects"
     url: /maker/
 
   - title: "Photography"
