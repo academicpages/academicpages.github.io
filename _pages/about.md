@@ -14,7 +14,7 @@ Sarah P. Flanagan began her appointment as a Lecturer in the School of Biologica
 
 <b>Lab news</b>
 
-November 2019: Sarah received an Early Career Researcher Seed Grant from the [New Zealand Antarctic Research Institute!](https://nzari.aq/)The project is focused on developing environmental DNA sequencing protocols that can be used in Antarctica. 
+November 2019: Sarah received an Early Career Researcher Seed Grant from the [New Zealand Antarctic Research Institute](https://nzari.aq/)! The project is focused on developing environmental DNA sequencing protocols that can be used in Antarctica. 
 
 August 2019: Micaela Pullen has joined the lab as a Masters student! [Find out more on the Current Lab Members Page](https://flanagan-lab.github.io/people/current-lab)
 
