@@ -7,6 +7,8 @@ author_profile: true
 
 <ol reversed>
   
+  <li> <strong>Flanagan, SP</strong> 2019. Quantitative Genetics of Behavior. In: Choe, J.C. (Ed.), Encyclopedia of Animal Behavior, (2nd ed.). vol. 2, pp. 80–93. Elsevier, Academic Press. <a href="https://www.elsevier.com/books/encyclopedia-of-animal-behavior/choe/978-0-12-813251-7" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.files.wordpress.com/2019/11/flanagan-2019-bookchapter.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
+  
   <li> <strong>Flanagan SP</strong>, and Jones AG. 2019. The future of parentage analysis: Moving from microsatellites to SNPs and beyond. Molecular Ecology. 28(3): 544-567 doi: 10.1111/mec.14988 
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14988" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.wordpress.com/2019/01/21/a-review-of-parentage-analysis/" target="_blank" rel="noreferrer noopener" aria-label="my summary (opens in a new tab)" style="color: rgb(82, 173, 200)">my summary</a></li>
   
