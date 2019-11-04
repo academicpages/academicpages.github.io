@@ -26,7 +26,7 @@ A. Antoniou, A. Słowik, E. J. Crowley, and A. Storkey,
 arXiv preprint arXiv:1811.00410, 2018.
 
 - “How to train your MAML,” A. Antoniou, H. Edwards, and A. Storkey,  In International Conference in Learning Representations, 2019.
-
+  * Supplementary Material: [Poster](/documents/How_to_train_your_MAML_poster.pdf) 
 - “CINIC-10 is not ImageNet or CIFAR-10,” L.N. Darlow, E. J. Crowley, A. Antoniou, and A. J. Storkey, arXiv preprint arXiv:1810.03505, 2018.
 
 - “Augmenting Image Classifiers Using Data Augmentation Generative Adversarial Networks,” A. Antoniou, A. Storkey, and H. Edwards, in Artificial Neural Networks and Machine Learning – ICANN 2018, Cham, 2018, pp. 594–603.
