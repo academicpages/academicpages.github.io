@@ -4,12 +4,11 @@ main:
     url: /publications/
 
   - title "Software"
-  menu:
+    sublinks:
     - title: "Game Development"
-    url: /gamedev/
-
+      url: /gamedev/
     - title: "Maker Projects"
-    url: /maker/
+      url: /maker/
 
   - title: "Photography"
     url: /gallery/
