@@ -11,6 +11,7 @@ author_profile: true
   {{ pub.citation }}
   {% if pub.doi %}doi: <a href="http://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>{% endif %}
   {% if pub.pmid %}pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ pub.pmid }}">{{ pub.pmid }}</a>{% endif %}
+  {% if pub.pmc %}pmc: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmc }}">{{ pub.pmc }}</a>{% endif %}
 {% endfor %}
 
 ## Other work
