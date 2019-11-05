@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <ol reversed>
+  <li> Wright AM, Schwartz RS, Oaks JR, Newman CE, <strong>Flanagan SP</strong>. The why, when, and how of computing in biology classrooms [version 1; peer review: awaiting peer review]. F1000Research 2019, 8:1854. <a href="https://doi.org/10.12688/f1000research.20873.1" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to preprint</a> </li>
   
   <li> <strong>Flanagan, SP</strong> 2019. Quantitative Genetics of Behavior. In: Choe, J.C. (Ed.), Encyclopedia of Animal Behavior, (2nd ed.). vol. 2, pp. 80–93. Elsevier, Academic Press. <a href="https://www.elsevier.com/books/encyclopedia-of-animal-behavior/choe/978-0-12-813251-7" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.files.wordpress.com/2019/11/flanagan-2019-bookchapter.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
   
