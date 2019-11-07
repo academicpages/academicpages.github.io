@@ -8,8 +8,6 @@ tags:
   - Hypothesis testing 
 ---
 
-# 1. A primer on Bayes
-
 ## 1.1 Frequentist analysis
 
 Suppose we want to estimate the probability of head of a (possibly biased) given coin. We flip the coin *N* times, generating a sequence of observations *(x_1, ..., x_N)* of iid random variable *(X_1, ..., X_N)*, each of which has the Bernoulli distribution with unknown head probability 𝜃. Likelihood and pmf at [appendix 1.1]
@@ -68,7 +66,7 @@ Nice use-case:
 
 These two components allow us to define the posterior:
 
-$$p(\theta|\bold{x})=\frac{p(\bold{x}|\theta)p(\theta)}{\int p(\bold{x}|\theta)p(\theta)d\theta}=\frac{p(\bold{x}|\theta)p(\theta)}{p(\bold{x})}$$
+$$p(\theta|{x})=\frac{p({x}|\theta)p(\theta)}{\int p({x}|\theta)p(\theta)d\theta}=\frac{p({x}|\theta)p(\theta)}{p({x})}$$
 
 Bayes’ theorem tells us how we should update our prior beliefs about parameters after observing data distributed according to the likelihood.
 
@@ -84,7 +82,7 @@ If the posterior contains everything we want to know about parameters, then we m
 
 We find the minimum of the *integrated mean squared error (IMSE)* and even MSE by using the posterior expectation (called the Bayes estimator) as our point estimate. 
 
-$$\hat{\theta}_B=\mathbb{E}[p(\theta|\bold{x})]=\int\theta p(\theta|\bold{x})d\theta$$
+$$\hat{\theta}_B=\mathbb{E}[p(\theta|{x})]=\int\theta p(\theta|{x})d\theta$$
 
 ## 1.2.3 Interval estimation
 
@@ -92,7 +90,7 @@ One obvious way to construct an interval is to use **quantiles of the posterior*
 
 Our interval satisfies 
 
-$$\bold{P}[\theta\in[a,b]]=1-\alpha$$
+$${P}[\theta\in[a,b]]=1-\alpha$$
 
 where the probability here is the *posterior probability* not the *probability with respect to hypothetical repeated sampling*.
 
@@ -104,7 +102,7 @@ We again need to be able to compute everything using p(𝜃 | **x**). Hypotheses
 
 If the posterior distribution is continuous, then the posterior probability of the null hypothesis is
 
-$$\bold{P}[\theta=1/2]=0$$
+$${P}[\theta=1/2]=0$$
 
 So we need to give nonzero positive probability to the null hypothesis by choosing a mixture prior.
 
@@ -232,33 +230,33 @@ solving for *c < 1/2* to make the quantity as large as possible while still bein
 
 We have: 
 
-$$p(\bold{x}|\theta)=\theta^{S_N}(1-\theta)^{N-S_N}$$
+$$p({x}|\theta)=\theta^{S_N}(1-\theta)^{N-S_N}$$
 
 so the posterior can be expressed as:
 
-$$p(\theta|\bold{x})=C(\bold{x})p(\bold{x}|\theta)p(\theta)$$
+$$p(\theta|{x})=C({x})p({x}|\theta)p(\theta)$$
 
 We suppose our prior has the same form that our likelihood, with parameters a and b. The posterior become:
 
-$$p(\theta|\bold{x})=C(\bold{x})\theta^{S_N+a}(1-\theta)^{N-S_N+b}$$
+$$p(\theta|{x})=C({x})\theta^{S_N+a}(1-\theta)^{N-S_N+b}$$
 
 for *a > -1, b > -1* this function is integrable on the unit interval, and the result is the beta function:
 
-$$C(\bold{x})\int^1_0\theta^{S_N+a}(1-\theta)^{N-S_N+b}d\theta=C(\bold{x})B(S_N+a+1,N-S_N+b+1)=1$$
+$$C({x})\int^1_0\theta^{S_N+a}(1-\theta)^{N-S_N+b}d\theta=C({x})B(S_N+a+1,N-S_N+b+1)=1$$
 
 so 
 
-$$C(\bold{x})=B(S_N+a,N-S_N+b)^{-1}$$
+$$C({x})=B(S_N+a,N-S_N+b)^{-1}$$
 
 and then
 
-$$p(\theta|\bold{x})=\frac{\theta^{S_N+a}(1-\theta)^{N-S_N+b}}{B(S_N+a+1,N-S_N+b+1)}$$
+$$p(\theta|{x})=\frac{\theta^{S_N+a}(1-\theta)^{N-S_N+b}}{B(S_N+a+1,N-S_N+b+1)}$$
 
 **1.2.3 Interval estimation**
 
 If we want a (1 - 𝛼) equal tailed interval, it would be the interval [a, b]:
 
-$$a=sup_{a'}\{a':\int^{a'}_{-\inf}p(\theta|\bold{x})d\theta<\ \alpha/2 \}\\b=inf_{b'}\{b':\int^{\inf}_{b'}p(\theta|\bold{x})d\theta<\ \alpha/2 \}$$
+$$a=sup_{a'}\{a':\int^{a'}_{-\inf}p(\theta|{x})d\theta<\ \alpha/2 \}\\b=inf_{b'}\{b':\int^{\inf}_{b'}p(\theta|{x})d\theta<\ \alpha/2 \}$$
 
 The posterior is 
 
@@ -276,7 +274,7 @@ $$p(\theta)=q\delta(\theta-1/2)+(1-q)f(\theta)$$
 
 The posterior is now
 
-$$p(\theta|\bold{x})=C(\bold{x})\binom{N}{S_N}\theta^{S_N}(1-\theta)^{N-S_N}\{q\delta(\theta-1/2)+(1-q)f(\theta)\}$$
+$$p(\theta|{x})=C({x})\binom{N}{S_N}\theta^{S_N}(1-\theta)^{N-S_N}\{q\delta(\theta-1/2)+(1-q)f(\theta)\}$$
 
 with 
 
@@ -286,7 +284,7 @@ Integrating only the part involving 𝜃 we find *C(**x**)* and thus the posteri
 
 So we can compute the posterior probability of the null hypothesis
 
-$$\bold{P}[\theta=1/2]=\int_{1/2}^{1/2}p(\theta|\bold{x})d\theta=\frac{1}{1+\frac{1-q}{q}\frac{B(a+S_N, N-S_N+b)}{B(a,b)}2^N}$$
+$${P}[\theta=1/2]=\int_{1/2}^{1/2}p(\theta|{x})d\theta=\frac{1}{1+\frac{1-q}{q}\frac{B(a+S_N, N-S_N+b)}{B(a,b)}2^N}$$
 
  
 
@@ -296,27 +294,27 @@ $$p(\theta)=q\delta(\theta-c)+(1-q)f(\theta)$$
 
 so our posterior density is
 
-$$p(\theta|\bold{x})=C(\bold{x})p(\bold{x}|\theta)\{q\delta(\theta-c)+(1-q)f(\theta)\}$$
+$$p(\theta|{x})=C({x})p({x}|\theta)\{q\delta(\theta-c)+(1-q)f(\theta)\}$$
 
 integrating the part involving 𝜃 we find *C(**x**)*
 
-$$C(\bold{x})^{-1}=qp(\bold{x}|\theta=c)+(1-q)\int p(\bold{x}|\theta)f(\theta)d\theta=qp(\bold{x}|\gamma=0)+(1-q)p(\bold{x}|\gamma=1)$$
+$$C({x})^{-1}=qp({x}|\theta=c)+(1-q)\int p({x}|\theta)f(\theta)d\theta=qp({x}|\gamma=0)+(1-q)p({x}|\gamma=1)$$
 
 *p(**x|𝛾**=0)* and *p(**x|𝛾**=1)* are called *marginal likelihoods*, because they are obtained by integrating the likelihood function over the components of the prior associated with *H0* and *H1.*
 
 So
 
-$$\bold{P}[\theta=c]=\int ^c_cp(\theta|\bold{x})d\theta=\int^c_c\frac{p(\bold{x}|\theta)\{q\delta(\theta-c)+(1-q)f(\theta)\}}{qp(\bold{x}|\gamma=0)+(1-q)p(\bold{x}|\gamma=1)}=\frac{qp(\bold{x}|\gamma=0)}{qp(\bold{x}|\gamma=0)+(1-q)p(\bold{x}|\gamma=1)}=\frac{1}{1+\frac{1-q}{q}\frac{p(\bold{x}|\gamma=1)}{p(\bold{x}|\gamma=0)}}$$
+$${P}[\theta=c]=\int ^c_cp(\theta|{x})d\theta=\int^c_c\frac{p({x}|\theta)\{q\delta(\theta-c)+(1-q)f(\theta)\}}{qp({x}|\gamma=0)+(1-q)p({x}|\gamma=1)}=\frac{qp({x}|\gamma=0)}{qp({x}|\gamma=0)+(1-q)p({x}|\gamma=1)}=\frac{1}{1+\frac{1-q}{q}\frac{p({x}|\gamma=1)}{p({x}|\gamma=0)}}$$
 
 The Bayes Factor is
 
-$$BF(x)=\frac{p(\bold{x}|\gamma=1)}{p(\bold{x}|\gamma=0)}$$
+$$BF(x)=\frac{p({x}|\gamma=1)}{p({x}|\gamma=0)}$$
 
 **1.2.5 Objective prior**
 
 Fisher information is defined as
 
-$$I(\theta)=E[(\frac{\partial}{\partial\theta}logf(\bold{x};\theta))^2|\theta]$$
+$$I(\theta)=E[(\frac{\partial}{\partial\theta}logf({x};\theta))^2|\theta]$$
 
 so for Bernoulli sampling we have
 
@@ -324,7 +322,7 @@ $$-\frac{\partial^2}{\partial\theta}\{x\,log(\theta)+(1-x)log(1-\theta)\}=\frac{
 
 and so 
 
-$$I(\theta)=\bold{E}_{x|\theta}[\frac{x}{\theta^2}+\frac{1-x}{(1-\theta)^2}]= \frac{1}{\theta}+\frac{1}{1-\theta}=\frac{1}{\theta(1-\theta)}$$
+$$I(\theta)={E}_{x|\theta}[\frac{x}{\theta^2}+\frac{1-x}{(1-\theta)^2}]= \frac{1}{\theta}+\frac{1}{1-\theta}=\frac{1}{\theta(1-\theta)}$$
 
 So Jeffrey prior is 
 
@@ -348,7 +346,7 @@ So this prior is invariant under one-to-one reparametrizations.
 
 We have
 
-$$p(\bold{x}|\theta)=\prod^N_{i=1}e^{-\theta}\frac{\theta^{x_i}}{x_i!}=e^{-N\theta}\frac{\theta^{S_N}}{\prod_ix_i!}$$
+$$p({x}|\theta)=\prod^N_{i=1}e^{-\theta}\frac{\theta^{x_i}}{x_i!}=e^{-N\theta}\frac{\theta^{S_N}}{\prod_ix_i!}$$
 
 This have the form of the kernel of a *Gamma distribution*
 
@@ -360,7 +358,7 @@ $$p(\theta)=\frac{b^a}{\Gamma(a)}\theta^{a-1}e^{-b\theta}$$
 
 Thus
 
-$$p(\theta|\bold{x})=C(\bold{x})e^{-(N+b)\theta}\theta^{S_N+a-1}$$
+$$p(\theta|{x})=C({x})e^{-(N+b)\theta}\theta^{S_N+a-1}$$
 
 so the posterior is
 
@@ -368,13 +366,13 @@ $$Gamma(S_N+a,N+b)$$
 
 The Bayes Estimator is therefore
 
-$$\bold{E}_{\theta|\bold{x}}[\theta]=\frac{S_N+a}{N+b}$$
+$${E}_{\theta|{x}}[\theta]=\frac{S_N+a}{N+b}$$
 
 **1.3.2 The Normal Distribution**
 
 The Likelihood is 
 
-$$p(\bold{x}|\mu,\sigma^2)=(2\pi\sigma^2)^{-N/2}exp(-\frac{1}{2}\frac{\sum^N_{i=1}(x_i-\mu)^2}{2\sigma^2})$$
+$$p({x}|\mu,\sigma^2)=(2\pi\sigma^2)^{-N/2}exp(-\frac{1}{2}\frac{\sum^N_{i=1}(x_i-\mu)^2}{2\sigma^2})$$
 
 if 𝜇 is fixed, it has the form of a Gamma distribution for the parameter 𝜎^{-2}
 
@@ -388,15 +386,15 @@ $$p(\mu,\sigma^2)=p(\mu|\sigma^2).p(\sigma^2)\\=\frac{1}{\sqrt{2\pi\sigma^2\tau^
 
 This is the *normal-inverse gamma distribution.* Finally, our posterior is
 
-$$p(\mu,\sigma^2|\bold{x})=p(\bold{x}|\mu,\sigma^2)p(\mu, \sigma^2)\\\;\propto(\sigma^2)^{-N/2-a-1-1/2}exp(-\frac{1}{\sigma^2}(b+\frac{1}{2}\tau^{-2}(\mu-m)^2+\frac{1}{2}\sum^N_{i=1}(x_i-\mu)^2))$$
+$$p(\mu,\sigma^2|{x})=p({x}|\mu,\sigma^2)p(\mu, \sigma^2)\\\;\propto(\sigma^2)^{-N/2-a-1-1/2}exp(-\frac{1}{\sigma^2}(b+\frac{1}{2}\tau^{-2}(\mu-m)^2+\frac{1}{2}\sum^N_{i=1}(x_i-\mu)^2))$$
 
 Which is also a *normal-inverse gamma distribution*. See the original paper for the solution of the parameters.
 
-$$p(\mu,\sigma^2|\bold{x})\propto N\Gamma^{-1}(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},(N+\tau^{-2})^{-1},a+\frac{N}{2},b+\frac{1}{2}SSE(\bold{x})+\frac{1}{2}\frac{N\tau^{-2}}{N+\tau^{-2}}(\bar{x}-m)^2)$$
+$$p(\mu,\sigma^2|{x})\propto N\Gamma^{-1}(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},(N+\tau^{-2})^{-1},a+\frac{N}{2},b+\frac{1}{2}SSE({x})+\frac{1}{2}\frac{N\tau^{-2}}{N+\tau^{-2}}(\bar{x}-m)^2)$$
 
 For any *N*𝜞 distribution, 
 
-$$\mu|\sigma^2,\bold{x} \;\widetilde{~~~}\; N(m,\tau^2 \sigma^2)\;\widetilde{~~~}\;N(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},\sigma^2(N+\tau^{-2})^{-1})$$
+$$\mu|\sigma^2,{x} \;\widetilde{~~~}\; N(m,\tau^2 \sigma^2)\;\widetilde{~~~}\;N(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},\sigma^2(N+\tau^{-2})^{-1})$$
 
 So the Bayesian posterior and the frequentist sampling distribution approach one another as the sample size grows.
 
@@ -408,12 +406,10 @@ $$p(x_1,...,x_d|\theta_1,...,\theta_d)=\binom{N}{x_1!...x_d!}\prod^d_{j=1}\theta
 
 The conjugate prior should be a distribution on d-1 dimensional simplex that takes the form
 
-$$p(\bold{\theta})\propto\prod^d_{j=1}\theta^{a_j-1}_j$$
+$$p({\theta})\propto\prod^d_{j=1}\theta^{a_j-1}_j$$
 
 The resulting probability distribution is called the *Dirichlet* distribution, and has pdf
 
-$$p(\theta_1,...,\theta_d|x_1,...,x_d)=\frac{1}{B(\bold{a})}\prod^d_{j=1}\theta_j^{a_j-1}\bold{1}\{a\in \mathbb{S}^{d-1}\}$$
+$$p(\theta_1,...,\theta_d|x_1,...,x_d)=\frac{1}{B({a})}\prod^d_{j=1}\theta_j^{a_j-1}{1}\{a\in \mathbb{S}^{d-1}\}$$
 
 where S^{d-1} is the (d-1)-dimensional simplex
-
-**1.4 Exercices**
