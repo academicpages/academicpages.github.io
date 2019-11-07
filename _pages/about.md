@@ -15,10 +15,9 @@ I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/) at Carnegie
 
 
 
-Current research projects
-------
+Current research projects:
 
-## Why do Designers in the "Wild" Wait to Seek Feedback until Later in their Design Process?
+### Why do Designers in the "Wild" Wait to Seek Feedback until Later in their Design Process?
 #### Receiving feedback on open-ended creative work is quintessential for success. Receiving early-stage feedback often leads to higher quality results by increasing iteration. However, when designers in the "wild" seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail.
 
 #### In this project, we explore why designers wait to ask for feedback until later in their design process. We've found designers viewed both stages being similarly valuable, but opt for late-stage feedback because the design space is larger and less defined, which makes the "script" for early-stage feedback less clear in practice, leading participants to avoid it. Furthermore, participants had misunderstandings regarding idea selection and the prototype fidelity necessary to elicit effective feedback. [Read more](https://dl.acm.org/citation.cfm?id=3326580).
@@ -26,15 +25,20 @@ Current research projects
 #### This project is a collaboration with McKayla Kingston, Director UX Research at [Etsy](https://etsy.com).
 
 
-## Tech Help Desk at Local Community Center
+### Tech Help Desk at Local Community Center
 
 
-##
+### Reimagining online hiring, at large scale
 
 
 
 Past and current supporters of my work
-<img src='/images/profilepic.png'>
+<img src='/images/insta-logo.png' width="200" >
+<img src='/images/etsy-logo.png' width="200">
+<img src='/images/onr-logo.png' width="200">
+
+###### Picture by [@gerardoforsure](https://twitter.com/gerardoforsure)
+
 ------
 
 <!--  Create content & metadata
