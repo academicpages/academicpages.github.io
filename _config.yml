@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vincent Maladière"
 title_separator          : "-"
 name                     : &name "Vincent Maladière"
-description              : &description "R&D Data Scientist at Dolead. Machine Learning Engineer & Co-Founder at chasseurparticulier.com"
+description              : &description "R&D Data Scientist at Dolead. Machine Learning Engineer & Co-Founder at Chasseur Particulier"
 url                      : https://vincent-maladiere.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Vincent-Maladiere/Vincent-Maladiere.github.io"
@@ -82,9 +82,11 @@ analytics:
 author:
   name             : "Vincent Maladière"
   avatar           : "profile.png"
-  bio              : "R&D Data Scientist at Dolead. Machine Learning Engineer & Co-Founder at chasseurparticulier.com"
+  bio              : "R&D Data Scientist at Dolead. Machine Learning Engineer & Co-Founder at Chasseur Particulier."
   location         : "Paris, France"
-  employer         : 
+  Dolead           : "https://www.dolead.com/"
+  Chasseur Particulier : "https://www.chasseurparticulier.com"
+  employer         : "Dolead, Chasseur Particulier" 
   pubmed           : 
   googlescholar    :
   email            : "maladiere.vincent@gmail.com"
@@ -102,8 +104,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vincent-maladi%C3%A8re-13aa3014b/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "vincent-maladi%C3%A8re-13aa3014b/"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
