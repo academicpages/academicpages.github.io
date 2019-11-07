@@ -14,11 +14,7 @@ I am a fourth year PhD Student of Human-Computer Interaction.
 I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/) at Carnegie Mellon University. My current research projects include:
 
 Supporting Early-Stage Feedback Exchanges in the "Wild"
-#### Receiving feedback on open-ended creative work is quintessential for success. Receiving early-stage feedback often leads to higher quality results by increasing iteration. However, when designers in the "wild" seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail.
-
-#### In this project, we explore why designers wait to ask for feedback until later in their design process. We've found designers viewed both stages being similarly valuable, but opt for late-stage feedback because the design space is larger and less defined, which makes the "script" for early-stage feedback less clear in practice, leading participants to avoid it. Furthermore, participants had misunderstandings regarding idea selection and the prototype fidelity necessary to elicit effective feedback. [Read more](https://dl.acm.org/citation.cfm?id=3326580).
-
-#### This project is a collaboration with McKayla Kingston, Director UX Research at [Etsy](https://etsy.com).
+#### Receiving feedback on open-ended creative work is quintessential for success. Receiving early-stage feedback often leads to higher quality results by increasing iteration. However, when designers in the "wild" seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail. In this project, we explore why designers wait to ask for feedback until later in their design process. We've found designers viewed both stages being similarly valuable, but opt for late-stage feedback because the design space is larger and less defined, which makes the "script" for early-stage feedback less clear in practice, leading participants to avoid it. Furthermore, participants had misunderstandings regarding idea selection and the prototype fidelity necessary to elicit effective feedback. This project is a collaboration with McKayla Kingston, Director UX Research at [Etsy](https://etsy.com). [Read more](https://dl.acm.org/citation.cfm?id=3326580).
 
 
 Understanding Tech Help Desk at Local Community Center
@@ -30,9 +26,7 @@ Understanding Tech Help Desk at Local Community Center
 
 Reimagining Online Hiring, at Large Scale
 
-#### Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality. This project explores a novel alternative approach to hiring at scale that leverages peer assessment to elicit honest assessments of fellow workers' job application materials, which it then aggregates using an impartial ranking algorithm. [Read more](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17019).
-
-#### This project is a collaboration with Prof [Ariel Proccacia](http://procaccia.info/)
+#### Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality. This project explores a novel alternative approach to hiring at scale that leverages peer assessment to elicit honest assessments of fellow workers' job application materials, which it then aggregates using an impartial ranking algorithm. This project is a collaboration with Prof [Ariel Proccacia](http://procaccia.info/). [Read more](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17019). 
 
 Past and current supporters of my work:
 
