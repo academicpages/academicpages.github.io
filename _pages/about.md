@@ -11,11 +11,7 @@ redirect_from:
 
 I am a fourth year PhD Student of Human-Computer Interaction.
 ======
-I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/) at Carnegie Mellon University.
-
-
-
-Current research projects:
+I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/) at Carnegie Mellon University. My current research projects include:
 
 ### Why do Designers in the "Wild" Wait to Seek Feedback until Later in their Design Process?
 #### Receiving feedback on open-ended creative work is quintessential for success. Receiving early-stage feedback often leads to higher quality results by increasing iteration. However, when designers in the "wild" seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail.
@@ -28,16 +24,21 @@ Current research projects:
 ### Tech Help Desk at Local Community Center
 
 
+
+#### This project is overseen by Prof [Jeff Bigham](http://www.cs.cmu.edu/~jbigham/)
+
+
 ### Reimagining online hiring, at large scale
 
 
+#### This project is a collaboration with Prof [Ariel Proccacia](http://procaccia.info/)
 
 Past and current supporters of my work
-<img src='/images/insta-logo.png' width="200" >
-<img src='/images/etsy-logo.png' width="200">
-<img src='/images/onr-logo.png' width="200">
+<img src='/images/insta-logo.png' width="100" >
+<img src='/images/etsy-logo.png' width="100">
+<img src='/images/onr-logo.png' width="100">
 
-###### Picture by [@gerardoforsure](https://twitter.com/gerardoforsure)
+###### Picture of me by [@gerardoforsure](https://twitter.com/gerardoforsure)
 
 ------
 
