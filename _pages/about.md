@@ -28,12 +28,14 @@ I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/) at Carnegie
 #### This project is overseen by Prof [Jeff Bigham](http://www.cs.cmu.edu/~jbigham/)
 
 
-### Reimagining online hiring, at large scale
+### Reimagining Online Hiring, at Large Scale
 
+#### Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality. This project explores a novel alternative approach to hiring at scale that leverages peer assessment to elicit honest assessments of fellow workers' job application materials, which it then aggregates using an impartial ranking algorithm. [Read more](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17019).
 
 #### This project is a collaboration with Prof [Ariel Proccacia](http://procaccia.info/)
 
-Past and current supporters of my work
+Past and current supporters of my work:
+
 <img src='/images/insta-logo.png' width="100" >
 <img src='/images/etsy-logo.png' width="100">
 <img src='/images/onr-logo.png' width="100">
