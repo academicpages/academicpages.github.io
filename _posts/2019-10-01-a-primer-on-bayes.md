@@ -8,6 +8,8 @@ tags:
   - Hypothesis testing 
 ---
 
+[Work In Progress]
+
 ## 1.1 Frequentist analysis
 
 Suppose we want to estimate the probability of head of a (possibly biased) given coin. We flip the coin *N* times, generating a sequence of observations *(x_1, ..., x_N)* of iid random variable *(X_1, ..., X_N)*, each of which has the Bernoulli distribution with unknown head probability 𝜃. Likelihood and pmf at [appendix 1.1]
