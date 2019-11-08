@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my blog, a never-ending work in progress. Make yourself confortable. 
 I'm a R&D Data Scientist, eager to keep my learning curve as vertical as possible.
-To do so, I like to make long courses short and compete to Kaggle challenges.
+To do so, I like to shorten long courses and compete to Kaggle challenges.
 
 Data science is a blurry buzz word, so let's clarify what I'm really passionnate about.
 I'm thriving between two worlds: the analysis of a product, of a market, of users and the experimental development of this very product.
