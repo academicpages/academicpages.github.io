@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a fourth year PhD Student of Human-Computer Interaction.
+I am a fourth year PhD Student of Human-Computer Interaction at Carnegie-Mellon University.
 ======
-I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/) at Carnegie Mellon University. My current research projects include:
+I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/). My current research projects include:
 
 Supporting Early-Stage Feedback Exchanges in the "Wild"
 #### Receiving feedback on open-ended creative work is quintessential for success. Receiving early-stage feedback often leads to higher quality results by increasing iteration. However, when designers in the "wild" seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail. In this project, we explore why designers wait to ask for feedback until later in their design process. We've found designers viewed both stages being similarly valuable, but opt for late-stage feedback because the design space is larger and less defined, which makes the "script" for early-stage feedback less clear in practice, leading participants to avoid it. Furthermore, participants had misunderstandings regarding idea selection and the prototype fidelity necessary to elicit effective feedback. This project is a collaboration with McKayla Kingston, Director UX Research at [Etsy](https://etsy.com). [Read more](https://dl.acm.org/citation.cfm?id=3326580).
@@ -19,18 +19,21 @@ Supporting Early-Stage Feedback Exchanges in the "Wild"
 ---
 
 Building a More Inclusive Future of Expert Crowd Work
-#### To stay competitive in today's tech job market requires constant re-skilling and "up-skilling", to out run not only human competitors, but also machine competition--yes the robots are coming! The burden of re-skilling often falls onto the shoulders workers, which is often heightened in online labor markets (freelancing, crowdsourcing) where workers often lack support systems more readily found in traditional jobs. At the same time, workers continue to flock these platforms, with some estimates projecting  . In this project, we are taking a participatory design approach to shaping tools and curriculum to facilitate technical job mobility within urban, low-resource environment. This project is a collaboration with Prof [Jeff Bigham](http://www.cs.cmu.edu/~jbigham/) and a local co-working space [Community Forge](https://www.forge.community/), located in Wilkinsburg, PA.
+#### To stay competitive in today's tech job market requires constant re-skilling and "up-skilling", to out run not only human competitors, but also machine competition--yes the robots are coming! The burden of re-skilling often falls onto the shoulders workers, which is often heightened in online labor markets (freelancing, crowdsourcing) where workers often lack support systems more readily found in traditional jobs. At the same time, workers continue to flock these platforms, with some estimates projecting freelance, or contigent, workers will comprise 40% of U.S. laborforce in 2025. In this project, we are taking a participatory design approach to shaping tools and curriculum to facilitate technical job mobility within urban, low-resource environment. This project is a collaboration with Prof [Jeff Bigham](http://www.cs.cmu.edu/~jbigham/) and a local co-working space [Community Forge](https://www.forge.community/), located in Wilkinsburg, PA. [Read more](http://upskill.us).
 
 ---
 
 Reimagining Online Hiring, at Large Scale
 #### Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality. This project explores a novel alternative approach to hiring at scale that leverages peer assessment to elicit honest assessments of fellow workers' job application materials, which it then aggregates using an impartial ranking algorithm. This project is a collaboration with Prof [Ariel Proccacia](http://procaccia.info/). [Read more](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17019).
 
+---
+
 Past and current supporters of my work:
 
 <img src='/images/insta-logo.png' width="75" >
 <img src='/images/etsy-logo.png' width="100">
 <img src='/images/onr-logo.png' width="150">
+
 
 ###### Picture of me by [@gerardoforsure](https://twitter.com/gerardoforsure)
 
