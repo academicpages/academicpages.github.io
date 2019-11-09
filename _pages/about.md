@@ -22,8 +22,8 @@ My work considers all sorts of bottlenecks related to data noise, sparsity, doma
 
 
 # News
-- **November, 2019:** Successfully defended my PhD thesis: Data Quality in the Deep Learning era. Will be joining IBM Research at the end of November.
-
+- **November, 2019:** Successfully defended my PhD thesis: Data Quality in the Deep Learning era. 
+                      Will be joining IBM Research at the end of November.
 - **October, 2019:** Attending [ISWC 2019](https://iswc2019.semanticweb.org/) in Auckland, NZ (travel award)
 - **August, 2019:** Selected to participate in the [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) workshop
 - **July, 2019:** CS@UIUC Travel Grant to attend Grace Hopper Conference in Orlando, FL.
