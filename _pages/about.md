@@ -28,7 +28,7 @@ Reimagining Online Hiring, at Large Scale
 
 ---
 
-Past and current supporters of my work:
+Current and past supporters of my work:
 
 <img src='/images/insta-logo.png' width="75" >
 <img src='/images/etsy-logo.png' width="100">
