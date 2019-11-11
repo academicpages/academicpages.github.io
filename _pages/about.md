@@ -12,7 +12,7 @@ I am currently a 1st year Ph.D. student at the CSE Department, the HKUST, advise
 
 Prior to joining the HKUST, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn), China, obtaining both a B.S in Computer Science and a B.Economics at the National School of Development. I was fortunate to have [Prof. Guojie Song](https://eecs.pku.edu.cn/info/1342/6115.htm) as my advisor during my days at PKU, with whom I collaborate very well. 
 
-You can contact me via yilun.jin \[at\] connect.ust.hk.
+You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.edu.cn).
 
 Miscellaneous
 ======
