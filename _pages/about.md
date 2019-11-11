@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yilun Jin's homeaage!"
+title: "Welcome to Yilun Jin's homepage!"
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 1st year Ph.D. student at the CSE Department, the HKUST. My research interests lie in machine learning and data mining, and I am currently devoted into the newly proposed Federated Learning, both in algorithms and in privacy & security. I also find interest in network analysis and mining, such as graph embedding and graph neural networks. 
+I am currently a 1st year Ph.D. student at the CSE Department, the HKUST, advised by [Professor Qiang Yang](http://www.cs.ust.hk/~qyang/). My research interests lie in machine learning and data mining, and I am currently devoted into the newly proposed Federated Learning, both in algorithms and in privacy & security. I also find interest in network analysis and mining, such as graph embedding and graph neural networks. 
+
+Prior to joining the HKUST, I spent 4 wonderful years at Peking University, China, obtaining both a B.S in Computer Science and a B.Economics at the National School of Development. I was fortunate to have [Prof. Guojie Song](https://eecs.pku.edu.cn/info/1342/6115.htm) as my advisor during my days at PKU, with whom I collaborate very well. 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
