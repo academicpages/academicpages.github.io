@@ -20,7 +20,7 @@ I hold a broad range of interests so as to keep enjoying life.
 
 I enjoy sports including jogging and basketball. My favourite team in NBA is San Antonio Spurs and my favourite football club is Liverpool FC. 
 
-I am a civil aviation enthusiast. I am a member of the ACICFG, a team devoted to making subtitles and captions for documentaries related to civil aviation (such as the **Air Craft Investigation**). Some of our works are published on [bilibili](https://space.bilibili.com/358422). I also write some articles on [zhihu](https://www.zhihu.com/people/mai-kang-ming/activities) related to civil aviation and my research. 
+I am a civil aviation enthusiast. I am a member of the ACICFG, a team devoted to making subtitles and captions for documentaries related to civil aviation (such as the **Air Crash Investigation**). Some of our works are published on [bilibili](https://space.bilibili.com/358422). I also write some articles on [zhihu](https://www.zhihu.com/people/mai-kang-ming/activities) related to civil aviation and my research. 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
