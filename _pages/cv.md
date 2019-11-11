@@ -52,7 +52,7 @@ redirect_from:
 ## Teaching
 
 {% for x in site.data.teaching %}
-  - "{{ x.title }}". {{ x.venue }}. {% if x.inviter %}Invited by {{ x.inviter }}.{% endif %} ({{ x.date }})
+  - {{ x.title }}. {{ x.venue }}. {% if x.inviter %}Invited by {{ x.inviter }}.{% endif %} ({{ x.date }})
 {% endfor %}
 
 ## Service, leadership, and community
