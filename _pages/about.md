@@ -14,6 +14,12 @@ Prior to joining the HKUST, I spent 4 wonderful years at [Peking University](htt
 
 You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.edu.cn).
 
+News
+======
+\[November 2019\] Our paper **GraLSP: Graph Neural Networks with Local Structural Patterns** is accepted at AAAI 2020! 
+\[November 2019\] Our paper **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** was awarded Best Research Paper Runner-up at CIKM 2019! 
+\[November 2019\] My personal webpage is online!
+
 Miscellaneous
 ======
 I hold a broad range of interests so as to keep enjoying life. 
