@@ -12,10 +12,11 @@ redirect_from:
 Education
 ======
 * MSc in Engineering, INP Phelma, France, 2019
-    * Machine Learning / Statistical Learning
-    * Advanced Probabilities, Bayesians
-    * Signal Processing
-* Preparatory Classes, Maths, Physics, Chemistry (PC/PC\*), 2013-2015
+  * Machine Learning / Statistical Learning
+  * Advanced Probabilities, Bayesians
+  * Signal Processing
+* Preparatory Classes, Pierre de Fermat, France, 2013-2015
+  * Maths, Physics, Chemistry (PC/PC\*)
 
 Work experience
 ======
@@ -34,7 +35,7 @@ Work experience
   * [Germinal](https://germinal.io)
   * Duties included:
     * Quantitative analysis (sentiment analysis, hypothesis testing)
-    * Qualitative analysis ([customer segmentation, churn and upselling](https://medium.com/la-fonderie/comment-utiliser-mixpanel-f58cae1dcbb)
+    * Qualitative analysis ([customer segmentation, churn and upselling](https://medium.com/la-fonderie/comment-utiliser-mixpanel-f58cae1dcbb))
     * Design of automation tools and web scraping (Selenium, BigQuery)
     * Conducting training sessions to our customers' marketing team and C-level executives in France, the UK and the US.
   * Supervisor: [Benjamin Gabay](https://linkedin.com/in/benjamin-gabay-066a7122)
@@ -65,5 +66,5 @@ Project
     * Building web scrapers (scrapy) to update our Mongo Atlas databases.
     * Designing anti-duplicate algorithms to clean our data
 
-
-You can download the pdf version [here](https://vincent-maladiere.github.io/files/CV.pdf).
+<br>
+You can download the pdf version of my CV [here](https://vincent-maladiere.github.io/files/CV.pdf).
