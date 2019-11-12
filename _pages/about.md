@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome Yilun Jin's homepage!"
+title: "Welcome to Yilun Jin's homepage!"
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
