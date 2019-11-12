@@ -1,0 +1,15 @@
+---
+title: "DANE: Domain Adaptive Network Embedding"
+collection: publications
+permalink: /publication/dane
+excerpt: 'By Yizhou Zhang, Shuwen Yang, Guojie Song, and **Yilun Jin**
+date: 2019-08-12
+venue: 'Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI)'
+---
+Transfer learning on graphs using shared-weight GCN and adversarial regularization to achieve domain adaptation. 
+
+[PDF](https://www.ijcai.org/proceedings/2019/0606.pdf)
+
+[BibTex](https://www.ijcai.org/proceedings/2019/bibtex/606)
+
+
