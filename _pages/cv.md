@@ -30,6 +30,9 @@ Work experience
     * Quantitative analysis by querying MongoEngine to help marketing team.
     * TDD production ready Python code. Heavy usage of git, docker and ansible to deploy branches on our servers
   * Supervisor: [Arnaud Fourchet](https://linkedin.com/in/arnaud-fouchet-0b4b9b36)
+  * Teammates:
+    * [Ourdia Ressad](https://www.linkedin.com/in/ourdia-ressad-a7778a125/)
+    * [Line Rahal](https://www.linkedin.com/in/line-rahal-0608a177/)
 
 * Feb 2018 - July 2018: Data Scientist & Growth Hacker Intern 
   * [Germinal](https://germinal.io)
@@ -52,7 +55,7 @@ Skills
 * Docker, Ansible
 * SQL / Mongo
 * Latex
-* C / C++
+* C/C++
 
 Desired:
 * Tensorflow / Keras (classrooms on fast.ai in Janv 2020)
@@ -65,6 +68,9 @@ Project
   * Duties include: 
     * Building web scrapers (scrapy) to update our Mongo Atlas databases.
     * Designing anti-duplicate algorithms to clean our data
+  * Associates:
+    * [Julien Abou Zahab, CEO](https://www.linkedin.com/in/julienabouzahab/)
+    * [Quentin Durantay, CTO & CPO](https://www.linkedin.com/in/qdurantay/)
 
 <br>
 You can download the pdf version of my CV [here](https://vincent-maladiere.github.io/files/CV.pdf).
