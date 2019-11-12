@@ -457,6 +457,9 @@ $$p(\theta_1,...,\theta_d|x_1,...,x_d)=\frac{1}{B({a})}\prod^d_{j=1}\theta_j^{a_
 where $$S^{d-1}$$ is the $$(d-1)$$-dimensional simplex
 
 
+{% include disqus.html %}
+
+
 <div id="disqus_thread"></div>
 <script>
 
