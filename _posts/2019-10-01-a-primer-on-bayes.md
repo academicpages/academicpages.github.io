@@ -1,14 +1,14 @@
 ---
-title: '1. A primer on Bayes'
-date: 2019-10-01
-permalink: /posts/2019/10/a-primer-on-bayes/
+title: 'Bayesian [1/2] - A primer on Bayes'
+date: 2019-11-01
+permalink: /posts/2019/11/a-primer-on-bayes/
 tags:
   - Bayesian
   - Inference
   - Hypothesis testing 
 ---
 
-This article is the first of the Bayesian serie. It is the short version of a advanced course on Bayesian techniques, and aims at grasping its core concepts.
+This article is the first of the Bayesian serie. Next episode [here](https://vincent-maladiere.github.io/posts/2019/11/empirical-bayes-and-shrinkage/). It is the short version of a advanced course on Bayesian techniques, and aims at grasping its core concepts.
 
 There are not ready to use and out of the box models here.
 
