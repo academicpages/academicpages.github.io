@@ -8,8 +8,6 @@ tags:
   - Hypothesis testing 
 ---
 
-[Work In Progress]
-
 This article is the first of the Bayesian serie. It is the short version of a advanced course on Bayesian techniques, and aims at grasping its core concepts.
 
 There are not ready to use and out of the box models here.
@@ -131,7 +129,7 @@ This is the first thing that might seem odd: in order to carry out the standard 
 
 In [\[7\]](#bayesian-hypothesis-testing) we compute our new posterior, and we compare it with frequentist p-values in the figure below.
 
-![frequentist vs bayesian](../images/freq_vs_bayes.png)
+![frequentist vs bayesian](https://vincent-maladiere.github.io/images/freq_vs_bayes.png)
 
 Thus, unlike point estimation, where Bayesians and frequentists mostly agree, and interval estimation, where typically the Bayesian credible intervals are fairly similar to frequentist confidence intervals unless a strong prior is chosen, Bayesian hypothesis tests can reach very different conclusions from frequentist ones. In this case, the Bayesian finds less evidence against the null than the frequentist does.
 
