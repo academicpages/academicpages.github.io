@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Towards a new mathematics of <br> the brain and the mind"
+title                    : "Towards a new mathematics <br> of the brain and the mind"
 title_separator          : "-"
 name                     : &name "Hongbbin Wang"
 description              : &description "Professor"
