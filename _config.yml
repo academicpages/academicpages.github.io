@@ -85,7 +85,6 @@ author:
   bio              : "1st year PhD student at CSE, HKUST. Machine Learning/Artificial Intelligence"
   location         : "Hong Kong SAR, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y3yJm98AAAAJ&hl=en-EN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,14 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        : https://www.instagram.com/aalanyj/
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/yilun-jin-54580a151/
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +112,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : https://www.zhihu.com/people/mai-kang-ming/activities
 
 
 # Reading Files
