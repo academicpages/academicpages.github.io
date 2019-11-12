@@ -11,49 +11,59 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc in Engineering, INP Phelma, France, 2019
+    * Machine Learning / Statistical Learning
+    * Advanced Probabilities, Bayesians
+    * Signal Processing
+* Preparatory Classes, Maths, Physics, Chemistry (PC/PC\*), 2013-2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2018: R&D Data Scientist
+  * [Dolead](https://dolead.com)
+  * Duties included: 
+    * A/B Testing with bayesian and frequentist hypothesis testing
+    * Gaussian Processes to model clicks and costs
+    * XGBoost and RandomForest to build bidders on Google Ads
+    * NLP and clustering algorithms on nltk
+    * Quantitative analysis by querying MongoEngine to help marketing team.
+    * TDD production ready Python code. Heavy usage of git, docker and ansible to deploy branches on our servers
+  * Supervisor: [Arnaud Fourchet](https://linkedin.com/in/arnaud-fouchet-0b4b9b36)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2018 - July 2018: Data Scientist & Growth Hacker Intern 
+  * [Germinal](https://germinal.io)
+  * Duties included:
+    * Quantitative analysis (sentiment analysis, hypothesis testing)
+    * Qualitative analysis ([customer segmentation, churn and upselling](https://medium.com/la-fonderie/comment-utiliser-mixpanel-f58cae1dcbb)
+    * Design of automation tools and web scraping (Selenium, BigQuery)
+    * Conducting training sessions to our customers' marketing team and C-level executives in France, the UK and the US.
+  * Supervisor: [Benjamin Gabay](https://linkedin.com/in/benjamin-gabay-066a7122)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * lightGBM, XGBoost, scikit-learn
+  * scipy, pandas, numpy
+  * pyplot, seaborn
+  * nltk
+* Vim / Jupyter
+* Git, TDD
+* Docker, Ansible
+* SQL / Mongo
+* Latex
+* C / C++
 
-Publications
+Desired:
+* Tensorflow / Keras (classrooms on fast.ai in Janv 2020)
+* Hadoop / Spark (training session in Dec. 2019)
+
+Project
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Sept 2019: Co-Founder & Head of Data 
+  * [Chasseur Particulier](https://chasseurparticulier.com)
+  * Duties include: 
+    * Building web scrapers (scrapy) to update our Mongo Atlas databases.
+    * Designing anti-duplicate algorithms to clean our data
+
+
+You can download the pdf version [here](https://vincent-maladiere.github.io/files/CV.pdf).
