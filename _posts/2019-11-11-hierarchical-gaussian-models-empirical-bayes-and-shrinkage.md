@@ -26,11 +26,11 @@ As a matter of readability, most of the maths are gathered in the [Appendix](#ap
 
 Suppose that we have $$N$$ observations each from independent Gaussians all with same variance 1 but with *different* means 
 
-$$y_i \;\widetilde{~~~}^{ind}N(\mu_i,1)$$
+$$y_i \;\sim^{ind}N(\mu_i,1)$$
 
 This is a high-dimensional model: there are as many parameters as there are data. Another way to write it with $$N$$-vectors:
 
-$$y\;\widetilde{~~~}\;N(I\mu,I)$$
+$$y\;\sim\;N(I\mu,I)$$
 
 - Suppose we want to estimate the vector $$\mu$$. The natural "frequentist" thing to do is just to use the MLE, which in this case is simply
 
@@ -38,7 +38,7 @@ $$y\;\widetilde{~~~}\;N(I\mu,I)$$
 
 - On the other hand, if we performed a Bayesian analysis, it would be natural to choose the prior
 
-$$\mu_i\;\widetilde{~~~}^{iid}\;N(m,\tau^2)$$
+$$\mu_i\;\sim^{iid}\;N(m,\tau^2)$$
 
 In [appendix 1.5] we compute the difference of risk between the frequentist MLE and the Bayes estimator:
 
@@ -85,7 +85,7 @@ We could conclude at this point that one should always use empirical Bayes to ch
 
 Thus if our problem is 
 
-$$y\;\widetilde{~~~}\;N(\mu,I)\\\mu\;\widetilde{~~~}\;N(0,\tau^2I)\\\tau^2\;\widetilde{~~~}\;p(\tau^2)$$
+$$y\;\sim\;N(\mu,I)\\\mu\;\sim\;N(0,\tau^2I)\\\tau^2\;\sim\;p(\tau^2)$$
 
 So now our problem is to estimate $$p(\tau^2)$$. Since we want to estimate $$\tau$$ from our data, we have to place an objective prior on $$\tau$$:
 
@@ -258,15 +258,15 @@ $$N-N\frac{\tau^2}{\tau^2+1}=\frac{N}{\tau^2+1}$$
 
 So we have
 
-$$y|\mu\;\widetilde{~~~}\;N(\mu,I),\;\mu|\tau^2\;\widetilde{~~~} \; N(0,\tau^2I)$$
+$$y|\mu\;\sim\;N(\mu,I),\;\mu|\tau^2\;\sim \; N(0,\tau^2I)$$
 
 and
 
-$$y\;\widetilde{~~~}\;N(0,(1+\tau^2)I).$$
+$$y\;\sim\;N(0,(1+\tau^2)I).$$
 
 Thus
 
-$$S=||y||^2 \implies S\;\widetilde{~~~}\;N(\tau^2+1)\chi^2_N $$
+$$S=||y||^2 \implies S\;\sim\;N(\tau^2+1)\chi^2_N $$
 
 where *chi^2_N* has N degrees of freedom and
 
@@ -298,7 +298,7 @@ So the JS estimator dominates the MLE if *N≥2*.
 
 However, high dimension, suppose we generate values from 
 
-$$y_i\;\widetilde{~~~}\;N(\mu_i,1)\;for\;i=1,...,11$$
+$$y_i\;\sim\;N(\mu_i,1)\;for\;i=1,...,11$$
 
 We put
 
@@ -312,7 +312,7 @@ For each simulation replicate, we estimate 𝜇 by the MLE and by JS. We find
 
 We now have
 
-$$y\;\widetilde{~~~}\;N(\mu,I)\\\mu\;\widetilde{~~~}\;N(0,\tau^2I)\\\tau^2\;\widetilde{~~~}\;p(\tau^2)=1$$
+$$y\;\sim\;N(\mu,I)\\\mu\;\sim\;N(0,\tau^2I)\\\tau^2\;\sim\;p(\tau^2)=1$$
 
 Let's compute the posterior
 
@@ -324,7 +324,7 @@ See original paper for computation of each term.
 
 *i)* The half Cauchy prior is not a conjugate prior, so now we consider
 
-$$y\;\widetilde{~~~}\;N(\mu,\sigma^2I)\\\mu\;\widetilde{~~~}\;N(m,\sigma^2\tau^2I)\\p(\tau)\propto\frac{1}{1+\tau^2}$$
+$$y\;\sim\;N(\mu,\sigma^2I)\\\mu\;\sim\;N(m,\sigma^2\tau^2I)\\p(\tau)\propto\frac{1}{1+\tau^2}$$
 
 The posterior can be written
 
@@ -344,7 +344,7 @@ $$\mathbb{E}[log(Y)]$$
 
 One idea in to take samples from g(𝜃), say
 
-$$\theta_1,..., \theta_N\;\widetilde{~~~}^{iid}\;G$$
+$$\theta_1,..., \theta_N\;\sim^{iid}\;G$$
 
 and then use
 
@@ -364,7 +364,7 @@ See the original paper for full exemple on transition matrix for Markov Chain.
 
 In high dimension, *K* is no longer a matrix but an operator mapping function. This way, the density
 
-$$X_1|X_0\;\widetilde{~~~}\;P$$
+$$X_1|X_0\;\sim\;P$$
 
 can be written
 
@@ -388,7 +388,7 @@ if we start at the state *ν*, the distribution will look more and more like the
 
 Thus if we could make the posterior our invariant distribution, we could sample from it using Markov chains:
 
-$$if\;X_0\;\widetilde{~~~}\;\nu\;and\;X_n|X_{n-1}\;\widetilde{~~~}\;K(X_{n-1},.),\;then\\\frac{1}{n}\sum^{n-1}_{k=0}\phi(X_k)\rightarrow^{n\rightarrow\infty\;i.p.}\int\phi(x)p(x)dx$$
+$$if\;X_0\;\sim\;\nu\;and\;X_n|X_{n-1}\;\sim\;K(X_{n-1},.),\;then\\\frac{1}{n}\sum^{n-1}_{k=0}\phi(X_k)\rightarrow^{n\rightarrow\infty\;i.p.}\int\phi(x)p(x)dx$$
 
 if *K* has invariant density p. That means the empirical averages converge to expected value we are looking for.
 
@@ -404,25 +404,25 @@ The General MCMC algorithm is:
 
 Here steps 1 to 3 look like this:
 
-$$\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;Initialize\;\bold{\theta}^{(0)}\in R^{D}\;and\;number\;of\;sample\;N\\for\;i=0\;to\;N-1\\\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;•\;\theta^{(i+1)}_0\widetilde{~~~}\;p(\theta_1|\theta_2^{(i)},...,\theta^{(i)}_D)\\...\\\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;•\;\theta^{(i+1)}_j\widetilde{~~~}\;p(\theta_j|\theta_1^{(i+1)},...,\theta^{(i+1)}_{j-1},\theta^{(i)}_{j+1},...,\theta^{(i)}_D)\\...\\\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;•\;\theta^{(i+1)}_D\widetilde{~~~}\;p(\theta_D|\theta_1^{(i+1)},...,\theta^{(i+1)}_{D-1})\\return \;(\{\theta^{(i)}\}^{N-1}_{i=0})$$
+$$\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;Initialize\;\bold{\theta}^{(0)}\in R^{D}\;and\;number\;of\;sample\;N\\for\;i=0\;to\;N-1\\\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;•\;\theta^{(i+1)}_0\sim\;p(\theta_1|\theta_2^{(i)},...,\theta^{(i)}_D)\\...\\\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;•\;\theta^{(i+1)}_j\sim\;p(\theta_j|\theta_1^{(i+1)},...,\theta^{(i+1)}_{j-1},\theta^{(i)}_{j+1},...,\theta^{(i)}_D)\\...\\\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;•\;\theta^{(i+1)}_D\sim\;p(\theta_D|\theta_1^{(i+1)},...,\theta^{(i+1)}_{D-1})\\return \;(\{\theta^{(i)}\}^{N-1}_{i=0})$$
 
 as this has the invariant distribution *p(𝜃)*
 
 Here is an application of Gibbs sampling to a Probit model:
 
-$$y_i\;\widetilde{~~~}^{iid}\;Bern(\Phi(\theta))=Bern(p(Z\leq\theta))$$
+$$y_i\;\sim^{iid}\;Bern(\Phi(\theta))=Bern(p(Z\leq\theta))$$
 
 so
 
-$$y_i=\mathbb{I}_{[z_i>0]}\\z_i\;\widetilde{~~~}\;N(\theta,1)$$
+$$y_i=\mathbb{I}_{[z_i>0]}\\z_i\;\sim\;N(\theta,1)$$
 
 thus
 
-$$z_i|y_i\;\widetilde{~~~}\;\bigg\{\begin{array}{cc}N_{(0,\infty)}(\theta,1)\;if\;y_i=1\\N_{(-\infty,0]}(\theta,1)\;if\;y_i=0 \end{array}$$
+$$z_i|y_i\;\sim\;\bigg\{\begin{array}{cc}N_{(0,\infty)}(\theta,1)\;if\;y_i=1\\N_{(-\infty,0]}(\theta,1)\;if\;y_i=0 \end{array}$$
 
 now if 
 
-$$\theta\;\widetilde{~~~}\;N(0,\tau^2)\\then\;\theta|z\;\widetilde{~~~}\;N(\frac{n\bar{z}}{\tau^{-2}+n},\frac{1}{\tau^{-2}+n})$$
+$$\theta\;\sim\;N(0,\tau^2)\\then\;\theta|z\;\sim\;N(\frac{n\bar{z}}{\tau^{-2}+n},\frac{1}{\tau^{-2}+n})$$
 
 Thus, we can use Gibbs to do computations with this model. See Tanner and Wong (87), or Albert and Chib (1993) data-augmentation for more details.
 
@@ -433,7 +433,7 @@ Suppose we want to sample from a density *f(x, a)M(a)*, with *M(a)* normalising 
 1. Choose a proposal *Q(x, .)* with density *q(x, y).* For exemple *y ~ N(x, s)*
 2. At state n, propose new state:
 
-$$X_n^*\;\widetilde{~~~}\;Q(X_{n-1},.)$$
+$$X_n^*\;\sim\;Q(X_{n-1},.)$$
 
 3.    Compute the acceptance ratio:
 
@@ -445,7 +445,7 @@ $$With\;probability\;\alpha,\;X_n=X_n^*,\;otherwise\;X_n=X_{n-1} \;with\;proba\;
 
 If we take the model 
 
-$$y_i\;\widetilde{~~~}\;N(0,\tau^2),\;p(\tau)=\frac{1}{1+\tau^2}$$
+$$y_i\;\sim\;N(0,\tau^2),\;p(\tau)=\frac{1}{1+\tau^2}$$
 
 the only parameter is 𝜏, so
 
@@ -453,7 +453,7 @@ $$p(\tau|y)\propto p(y|\tau)p(\tau) \propto \bigg(\prod^n_{i=1}\frac{1}{\sqrt{}2
 
 Let's use MH. For *q(𝜏, 𝜏*)* take
 
-$$\tau^*\;\widetilde{~~~}\;LogNormal(log\;\tau,s)$$
+$$\tau^*\;\sim\;LogNormal(log\;\tau,s)$$
 
 with s extra parameter to make convergence slower or faster (ideal is a ratio of 0.23). The acceptance ratio is
 
@@ -505,11 +505,11 @@ In the special case of Monte Carlo, note *ESS = n*, but because of correlation i
 
 Suppose we are interested in sampling 
 
-$$Y\;\widetilde{~~~}\;N(\mu,\Sigma)$$
+$$Y\;\sim\;N(\mu,\Sigma)$$
 
 Let's use Gibbs, since sampling from the conditionals is straightforward:
 
-$$\binom{y_A}{y_B}\;\widetilde{~~~}\;N\bigg(\binom{\mu_A}{\mu_B}, \Big[\begin{array}{cc}\Sigma_{AA}&\Sigma_{AB}\\\Sigma_{BA}&\Sigma_{BB}\end{array} \Big]\bigg)$$
+$$\binom{y_A}{y_B}\;\sim\;N\bigg(\binom{\mu_A}{\mu_B}, \Big[\begin{array}{cc}\Sigma_{AA}&\Sigma_{AB}\\\Sigma_{BA}&\Sigma_{BB}\end{array} \Big]\bigg)$$
 
 then the conditionals mean and variance are given by
 

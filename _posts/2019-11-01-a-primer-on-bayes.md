@@ -246,7 +246,7 @@ $$|\hat{\theta}-1/2|>c$$
 
 Under the null, the sampling distribution of $$\theta_{hat}$$ is given by
 
-$$N\hat{\theta}\; \widetilde{~~~}\;Binomial(N, 1/2)$$
+$$N\hat{\theta}\; \sim\;Binomial(N, 1/2)$$
 
 So to figure out $$c$$ we compute the probability of rejection (which is no bigger than $$\alpha$$)
 
@@ -434,7 +434,7 @@ $$p(\mu,\sigma^2|{x})\propto N\Gamma^{-1}(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}
 
 For any $$N\Gamma$$ distribution, 
 
-$$\mu|\sigma^2,{x} \;\widetilde{~~~}\; N(m,\tau^2 \sigma^2)\;\widetilde{~~~}\;N(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},\sigma^2(N+\tau^{-2})^{-1})$$
+$$\mu|\sigma^2,{x} \;\sim\; N(m,\tau^2 \sigma^2)\;\sim\;N(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},\sigma^2(N+\tau^{-2})^{-1})$$
 
 So the Bayesian posterior and the frequentist sampling distribution approach one another as the sample size grows.
 
