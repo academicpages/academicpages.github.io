@@ -1,15 +1,15 @@
 ---
 title: "SecureBoost: A Lossless Federated Learning Framework"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/secureboost
 excerpt: 'A federated learning algorithm extended from tree boosing. '
 date: 2019-08-12
 venue: 'The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML’19), in conjunction with IJCAI 2019'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://arxiv.org/pdf/1901.08755.pdf'
+citation: Please use this [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:Sx_R9PZH9ZUJ:scholar.google.com/&output=citation&scisdr=CgUu4RciELKLgyBfdLA:AAGBfm0AAAAAXcpabLCX7Q3DKlsaSREB-KbJncpTU7xz&scisig=AAGBfm0AAAAAXcpabBiwMvUR9eAudbuXpE6aGsWRaDhC&scisf=4&ct=citation&cd=-1&hl=en-EN) 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+A federated learning algorithm extended from tree boosing.
 
-[Download paper here](https://arxiv.org/pdf/1901.08755.pdf)
+[PDF](https://arxiv.org/pdf/1901.08755.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
