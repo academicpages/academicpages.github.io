@@ -8,11 +8,11 @@ tags:
   - Hypothesis testing 
 ---
 
-This article is the first of the Bayesian serie. Next episode [here](https://vincent-maladiere.github.io/posts/2019/11/empirical-bayes-and-shrinkage/). It is the short version of a advanced course on Bayesian techniques, and aims at grasping its core concepts.
+This article is the first of the Bayesian series. Next episode [here](https://vincent-maladiere.github.io/posts/2019/11/empirical-bayes-and-shrinkage/). It is the short version of an advanced course on Bayesian techniques and aims at grasping its core concepts.
 
 There are not ready to use and out of the box models here.
 
-We start with comparing frequentist and bayesian methods, before a quick diving with different distributions and conjugate families.
+We start with comparing frequentist and bayesian methods, before quick diving with different distributions and conjugate families.
 As a matter of readability, most of the maths are gathered in the [Appendix](#appendix) section.
 
 <br>
@@ -20,7 +20,7 @@ As a matter of readability, most of the maths are gathered in the [Appendix](#ap
 # 1-1 Frequentist analysis
 ------
 
-Suppose we want to estimate the probability of head of a (possibly biased) given coin. We flip the coin $$N$$ times, generating a sequence of observations $$(x_1, ..., x_N)$$ of iid random variable $$(X_1, ..., X_N)$$, each of which has the Bernoulli distribution with unknown head probability $$\theta$$. We compute the likelihood and pmf at [\[1\]](#frequentist-analysis).
+Suppose we want to estimate the probability of head of a (possibly biased) given coin. We flip the coin $$N$$ times, generating a sequence of observations $$(x_1, ..., x_N)$$ of an iid random variable $$(X_1, ..., X_N)$$, each of which has the Bernoulli distribution with unknown head probability $$\theta$$. We compute the likelihood and pmf at [\[1\]](#frequentist-analysis).
 
 The fundamental notion here is that randomness comes from sampling/replicates of the experiment, and all probability statements made in frequentist inference are statements with respect to the probability distribution induced by hypothetical repetitions of the experiment.
 
@@ -48,7 +48,7 @@ Where $$\Phi$$ is the standard Gaussian CDF and $$\hat{SE}$$ the standard error 
 
 ## 1-1-3 Testing
 
-We want to test wether the coin is fair through hypothesis $$H_0 : \theta = 1/2$$ and $$H_1 : \theta ≠ 1/2$$. The classical way is to use ***Neyman's fixed type I error rate testing***. We reject $$H_0$$ when our estimate $$\hat{\theta}$$ is far from $$1/2$$. We use the Binomial distribution of $$\hat{\theta}$$ to find $$c$$ (according to our chosen type I error rate) such as:
+We want to test whether the coin is fair through hypothesis $$H_0 : \theta = 1/2$$ and $$H_1 : \theta ≠ 1/2$$. The classical way is to use ***Neyman's fixed type I error rate testing***. We reject $$H_0$$ when our estimate $$\hat{\theta}$$ is far from $$1/2$$. We use the Binomial distribution of $$\hat{\theta}$$ to find $$c$$ (according to our chosen type I error rate) such as:
 
 $$|\hat{\theta}-1/2|>c$$
 
@@ -68,7 +68,7 @@ $$p(x_1,..., x_N|\theta)=\prod^N_{i=1}f_{\theta}(x_i)=\theta^{S_N}(1-\theta)^{N-
 - Prior distribution. It encapsulates our prior beliefs about $$\theta$$ before observing data $$(x_1, ..., x_N)$$. There are a number of possibilities of how we can proceed.
 
 *i) Informative* prior choice.  
-An informative prior choice would likely put a lot of prior mass near $$1/2$$. However, exactly how much mass to place there is tricky. We could try to elicit a prior from “experts” (I guess gamblers?).
+An informative prior choice would likely put a lot of prior mass near $$1/2$$. However, exactly how much mass to place is tricky. We could try to elicit a prior from “experts” (I guess gamblers?).
 
 *ii) Objective* prior choice.
 Prior that will have the smallest possible impact on the outcome of our analysis. Properties close to frequentist, but a poor choice in high-dimensional and non-parametric models.
@@ -89,7 +89,7 @@ Bayes’ theorem tells us how we should update our prior beliefs about parameter
 
 A very common choice is to pick a ***conjugate prior***: posterior and prior belong to the same family of probability distributions, so that the marginal likelihood $$p(x)$$ is often available analytically. 
 
-For our coin tossing example, with the $$N$$ Bernoulli likelihood, our prior is in the Beta family [\[5\]](#prior-choice).
+For our coin-tossing example, with the $$N$$ Bernoulli likelihood, our prior is in the Beta family [\[5\]](#prior-choice).
 
 ## 1-2-2 Point estimation
 
@@ -109,11 +109,11 @@ $${P}[\theta\in[a,b]]=1-\alpha$$
 
 where the probability here is the *posterior probability* not the *probability with respect to hypothetical repeated sampling*.
 
-For our exemple, we use the CDF of the Beta distribution to compute the equal-tailed interval —see [\[6\]](#bayesian-interval-estimation).
+For our example, we use the CDF of the Beta distribution to compute the equal-tailed interval —see [\[6\]](#bayesian-interval-estimation).
 
 ## 1-2-4 Hypothesis testing
 
-We again need to be able to compute everything using $$p(\theta\|{x})$$. Hypotheses are subsets of the parameter space – in this case the subset is just $$\{\theta = 1/2\}$$. 
+We again need to be able to compute everything using $$p(\theta\|{x})$$. Hypotheses are subsets of the parameter space – in this case, the subset is just $$\{\theta = 1/2\}$$. 
 
 If the posterior distribution is continuous, then the posterior probability of the null hypothesis is
 
@@ -154,7 +154,7 @@ $$|I(\mu)|^{1/2}$$
 
 ## 1-3-1 The Poisson likelihood
 
-Suppose we observe $$N$$ iid data points $$x_1, ..., x_N$$ from a $$Poisson(\theta)$$ distribution. It has a the form of a Gamma distribution, so we choose a prior with the same distribution family.
+Suppose we observe $$N$$ iid data points $$x_1, ..., x_N$$ from a $$Poisson(\theta)$$ distribution. It has the form of a Gamma distribution, so we choose a prior with the same distribution family.
 
 In [\[9\]](#the-poisson-likelihood), we show that the posterior has also the Gamma form, which is
 
@@ -162,11 +162,11 @@ $$Gamma(a,b)=\frac{b^a}{\Gamma(a)}\theta^{a-1}e^{-b\theta}$$
 
 ## 1-3-2 The Normal Distribution
 
-The likelihood of the normal distribution looks like the kernel of a Gamma distribution, so we define the prior this way. It is in fact the *normal-inverse gamma* distribution. We claim this is conjugate, and we find the parameters of the posterior in [\[10\]](#the-normal-distribution).
+The likelihood of the normal distribution looks like the kernel of a Gamma distribution, so we define the prior this way. It is, in fact, the *normal-inverse gamma* distribution. We claim this is conjugate, and we find the parameters of the posterior in [\[10\]](#the-normal-distribution).
 
 ## 1-3-3 Multinomial Distribution
 
-The conjugate prior of the multinomial likelihood is a multivariate of the Beta distribution, and is called *Dirichlet* distribution. Details in [\[11\]](#multinomial-distribution).
+The conjugate prior of the multinomial likelihood is a multivariate of the Beta distribution and is called *Dirichlet* distribution. Details in [\[11\]](#multinomial-distribution).
 
 
 
@@ -194,7 +194,7 @@ $$S_N=\sum^N_{i=1}x_i$$
 ### Frequentist Point Estimation
 [go back](#1-1-1-point-estimation)
 
-See a futur article for theorem of large number, convergence in probability (i.p.) and almost sure convergence (a. s.).
+See a future article for the theorem of large numbers, convergence in probability (i.p.) and almost sure convergence (a. s.).
 
 Mean Square Error (MSE) is var + bias:
 
@@ -210,7 +210,7 @@ Thus, $$X_N$$ is unbiased.
 ### Frequentist Interval Estimation
 [go back](#1-1-2-interval-estimation)
 
-See a futur article for central limit theorem and weak convergence.
+See a future article for the central limit theorem and weak convergence.
 
 Well, we know that $$S_N$$ has the binomial distribution with parameters $$N$$, $$\theta$$. Its CDF can be expressed as:
 
@@ -220,7 +220,7 @@ We construct a *Clopper-Pearson* interval $$[a(S), b(S)]$$ with at least $$(1 - 
 
 $$\sum_{j=S}^N\binom{N}{j}a^j(1-a)^{N-j}=\alpha/2\\\sum_{j=0}^S\binom{N}{j}b^j(1-b)^{N-j}=\alpha/2$$
 
-It leads to heavy computations. Instead we prefer an asymptotical approach using *central limit theorem*. The interval takes the general form:
+It leads to heavy computations. Instead, we prefer an asymptotical approach using the *central limit theorem*. The interval takes the general form:
 
 $$\hat{\theta} \pm \Phi^{-1}(1-\alpha/2)\hat{SE}(\hat{\theta})$$
 
@@ -266,7 +266,7 @@ so the posterior can be expressed as:
 
 $$p(\theta|{x})=C({x})p({x}|\theta)p(\theta)$$
 
-We suppose our prior has the same form that our likelihood, with parameters a and b. The posterior become:
+We suppose our prior has the same form that our likelihood, with parameters a and b. The posterior becomes:
 
 $$p(\theta|{x})=C({x})\theta^{S_N+a}(1-\theta)^{N-S_N+b}$$
 
@@ -352,7 +352,7 @@ Fisher information is defined as
 
 $$I(\theta)=E[(\frac{\partial}{\partial\theta}logf({x};\theta))^2|\theta]$$
 
-so for Bernoulli sampling we have
+so for Bernoulli sampling, we have
 
 $$-\frac{\partial^2}{\partial\theta}\{x\,log(\theta)+(1-x)log(1-\theta)\}=\frac{x}{\theta^2}+\frac{1-x}{(1-\theta)^2}$$
 
@@ -386,7 +386,7 @@ We have
 
 $$p({x}|\theta)=\prod^N_{i=1}e^{-\theta}\frac{\theta^{x_i}}{x_i!}=e^{-N\theta}\frac{\theta^{S_N}}{\prod_ix_i!}$$
 
-This have the form of the kernel of a *Gamma distribution*
+This has the form of the kernel of a *Gamma distribution*
 
 $$\theta^ae^{-b\theta }$$
 
@@ -420,7 +420,7 @@ So the prior on $$\sigma^{-2}$$ is an *inverse Gamma distribution*
 
 $$p(\sigma^2)\propto(\sigma^2)^{-a-1}e^{-\frac{b}{\sigma^2}}$$
 
-Also, if $$\sigma^{-2}$$ were a constant, this would look like the kernel of a normal random variable with variance $$\sigma^{-2}$$. The conjugate prior is:
+Also, if $$\sigma^{-2}$$ was a constant, this would look like the kernel of a normal random variable with variance $$\sigma^{-2}$$. The conjugate prior is:
 
 $$p(\mu,\sigma^2)=p(\mu|\sigma^2).p(\sigma^2)\\=\frac{1}{\sqrt{2\pi\sigma^2\tau^2}}exp(-\frac{(\mu-m)^2}{2\sigma^2\tau^2}).\frac{b^a}{\Gamma(a)}(\sigma^2)^{-a-1}exp(-\frac{b}{\sigma^2})\\\propto(\sigma^2)^{-a-1-1/2}exp(-\frac{1}{\sigma^2}(b+\frac{1}{2}\tau^{-2}(\mu-m)^2))\\\propto N\Gamma^{-1}(m, \tau^2, a,b)$$
 
@@ -428,7 +428,7 @@ This is the *normal-inverse gamma distribution.* Finally, our posterior is
 
 $$p(\mu,\sigma^2|{x})=p({x}|\mu,\sigma^2)p(\mu, \sigma^2)\\\;\propto(\sigma^2)^{-N/2-a-1-1/2}exp(-\frac{1}{\sigma^2}(b+\frac{1}{2}\tau^{-2}(\mu-m)^2+\frac{1}{2}\sum^N_{i=1}(x_i-\mu)^2))$$
 
-Which is also a *normal-inverse gamma distribution*. After few computations on parameters, we find:
+Which is also a *normal-inverse gamma distribution*. After a few computations on parameters, we find:
 
 $$p(\mu,\sigma^2|{x})\propto N\Gamma^{-1}(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},(N+\tau^{-2})^{-1},a+\frac{N}{2},b+\frac{1}{2}SSE({x})+\frac{1}{2}\frac{N\tau^{-2}}{N+\tau^{-2}}(\bar{x}-m)^2)$$
 
@@ -450,7 +450,7 @@ The conjugate prior should be a distribution on d-1 dimensional simplex that tak
 
 $$p({\theta})\propto\prod^d_{j=1}\theta^{a_j-1}_j$$
 
-The resulting probability distribution is called the *Dirichlet* distribution, and has pdf
+The resulting probability distribution is called the *Dirichlet* distribution and has pdf
 
 $$p(\theta_1,...,\theta_d|x_1,...,x_d)=\frac{1}{B({a})}\prod^d_{j=1}\theta_j^{a_j-1}{1}\{a\in \mathbb{S}^{d-1}\}$$
 
