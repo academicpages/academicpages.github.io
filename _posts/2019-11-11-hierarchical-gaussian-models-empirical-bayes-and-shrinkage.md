@@ -12,11 +12,18 @@ tags:
 
 [Work In Progress]
 
+# Quick Intro
+------
+
 This article is the second of the Bayesian serie. Previous episode [here](https://vincent-maladiere.github.io/posts/2019/11/a-primer-on-bayes/). 
+
+You probably already know the Bayes theorem or stumble upon Naive Bayes when comparing machine learning models. Maybe, like me, you feel that you barely saw the shores of the continent that is the Bayesian land and want to set foot in it.  
+
+I wrote this article from a Stanford course with the intent for you to understand the relationships between all Bayesian concepts without having to go through an entire classroom (like I did).
+As a matter of readability, most of the maths are hidden in dropdowns. This way, you can follow the logic easily and come back to deep dive into formulas later.
 
 So far we have dealt with Bayesian analysis of very simple models, mainly using conjugate priors, with few parameters to estimate. In the coin tossing example, we had just one parameter, the probability of heads. In the Gaussian model, we had two parameters, the mean $$\mu$$ and variance $$\sigma^2$$. However, in modern applications one typically must estimate many parameters, using more complicated hierarchical models.
 
-As a matter of readability, most of the maths are gathered in the [Appendix](#appendix) section.
 
 <br>
 # 2-1 Empirical Bayes
@@ -40,7 +47,37 @@ $$y\;\sim\;N(I\mu,I)$$
 
 $$\mu_i\;\sim^{iid}\;N(m,\tau^2)$$
 
-In [\[1\]](#estimation-of-the-normal-mean) we compute the difference of risk between the frequentist MLE and the Bayes estimator:
+<details>
+<summary>We compute the difference of risk between the frequentist MLE and the Bayes estimator</summary>
+<br>
+- Frequentist
+
+The risk of the MLE ($$y_i$$) is the expectation of its squared error loss
+
+$$E[||\mu-\hat{\mu}||^2_2]=\sum^N_{i=1}E[(\mu_i-\hat{\mu}_i)^2]=\sum^N_{i=1}E[(\mu_i-y_i)^2]=N$$
+
+since the $$y_i$$ are all independent normals with mean $$\mu_i$$ and variance 1
+ 
+
+- Bayesian
+
+The Bayes estimator of each $$\mu_i$$ is
+
+$$E[\mu_i|y,m,\tau^2]=\frac{y_i}{1+\tau^{-2}}$$
+
+Proof in the original paper. So the posterior means shrinks the MLE. Let's compute the *frequentist* risk of this estimator, which is needed to computing the Bayes risk.
+
+$$E(\frac{y_i}{1+\tau^2}-\mu_i)^2=var(\frac{y_i\tau^2}{1+\tau^2})+bias^2(\frac{y_i\tau^2}{1+\tau^2})=\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}$$
+
+So the Bayes risk of this estimator is 
+
+$$\sum_i E_{m,\tau^2}[\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}]=NE_{m,\tau^2}[\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}]=N\frac{\tau^2}{\tau^2+1}$$
+
+So the difference between the risk of the MLE and the Bayes estimator is 
+
+$$N-N\frac{\tau^2}{\tau^2+1}=\frac{N}{\tau^2+1}$$
+</details>
+
 
 $$R_{frequentist}-R_{Bayesian}=\frac{N}{\tau^2+1}$$
 
@@ -72,192 +109,11 @@ If we don't know how to choose the parameter $$\tau$$ of $$\mu$$, we try to esti
 
 $$\hat{\mu}^{(JS)}=(1-\frac{N-2}{||y||^2})\;y$$
 
-In [\[2\]](#the-james-stein-estimator) we prove that the JS estimator has a larger risk than the Bayes estimator (indeed it must be), but it dominates the MLE everywhere if the dimension is large enough $$(N≥2)$$. 
 
-So why one would use the MLE is high-dimension? Because:
 
-1. The JS estimator is biased, since the MLE is the minimum variance **unbiased** estimator (Rao-Blackwell theorem). So the JS reduces its variance but adds bias: good for point estimation but challenging for frequentist interval estimation. 
-2. The MLE is admissible in 1 and 2-dimensions, but even in higher dimensions, if we focus on a single "outlier" entry, the MLE has a better MSE (see [\[2\]](#the-james-stein-estimator) as well)
-
-## 2-1-4 Full Bayes inference
-
-We could conclude at this point that one should always use empirical Bayes to choose a prior. However, when it comes to estimating a parameter, the Bayesian approach is to put a prior on it.
-
-Thus if our problem is 
-
-$$y\;\sim\;N(\mu,I)\\\mu\;\sim\;N(0,\tau^2I)\\\tau^2\;\sim\;p(\tau^2)$$
-
-So now our problem is to estimate $$p(\tau^2)$$. Since we want to estimate $$\tau$$ from our data, we have to place an objective prior on $$\tau$$:
-
-$$p(\tau^2)=1$$
-
-So in [\[3\]](#full-bayes-inference) we compute the posterior of $$\mu$$ to find out that its posterior expectation is challenging to evaluate, although our initial model is simple.
-
-We need some alternative way to do integration that doesn't involve actually computing all of the integrals analytically.
-
+<details>
+<summary>We prove that the JS estimator has a larger risk than the Bayes estimator (indeed it must be), but it dominates the MLE everywhere if the dimension is large enough $$(N≥2)$$.</summary>
 <br>
-# 2-2 Markov Chain & Monte Carlo
------
-
-We still have the same problem. Now we know that getting the posterior is hard if we can't find the normalising constant through some known distribution. 
-
-Another choice is the half Cauchy prior on $$\tau$$
-
-$$p(\tau)\propto\frac{1}{1+\tau^2}$$
-
-We choose to have an *Inverse Gamma* prior on $$\tau*^2$$ and a Normal prior on $$m$$. We show in [\[4\]](#markov-chain-monte-carlo) that computing the posterior become very ugly. 
-
-However, in high-dimensions we don't really care about the whole posterior, but more about some functional of it, like the **posterior expectations** of a function $$f$$:
-
-$$\int\frac{f(\theta)p(y|\theta)p(\theta)}{p(y)}d\theta$$
-
-It turns out this integral can be approximated using Markov chain Monte Carlo (MCMC). It consists in sampling the desired distribution by recording states from the Markov chain, which has the desired distribution as its equilibrium distribution.
-
-We see in [\[5\]](#difference-with-ordinary-monte-carlo) the difference with ordinary Monte Carlo.
-
-A Markov chain is a sequence of random variable ignoring the whole history (independent) except for the last event:
-
-$$p(X_N|X_0,...,X_{N-1})=p(X_N|X_{N-1})$$
-
-We hop from one state $$n$$ to $$n+1$$ via a transition kernel $$K$$. Some $$K$$ have invariant distribution, and we see in [\[6\]](#transition-kernel) how it suggests the Gibs sampling model to construct $$K$$.
-
-## 2-2-1 Gibbs sampling
-
-We want to construct $$K$$ for arbitrary distributions. We need to compute the posterior without knowing the normalising constant $$p(y)$$.
-
-In Gibbs sampling the idea is to break the problem of sampling from the high-dimensional joint distribution into a series of samples from low-dimensional conditional distributions. 
-
-We illustrate the algorithm is [\[7\]](#gibbs-sampling).
-
-A nice implementation can be found here:
-
-[mikhailiuk/medium](https://github.com/mikhailiuk/medium/blob/master/Gibbs-sampling.ipynb)
-
-## 2-2-2 Metropolis-Hastings algorithm
-
-If one of the Gibbs conditionals is not conjugate, a Metropolis-Hasting step is used in the Gibbs iteration. 
-
-Here is an implementation: 
-
-[MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/)
-
-This new step ensure the transition kernel is reversible, which guarantee that the Markov chain converges to the correct invariant measure.
-
-The core idea is to compute an acceptance ratio, which is the probability to jump to the next step. We illustrates the algorithm in [\[8\]](#metropolis-hasting-algorithm) with an example and a measure of MSE to assess the quality of convergence.
-
-We can diagnosis convergence via:
-
-- Asymptotic variance (or effective sample size)
-- Trace plotting
-- Comparison across multiple chains
-- Coupling
-
-### 2-2-2-a Asymptotic variance
-
-The Effective sample size (ESS) allows us to estimate $$\sigma$$, thanks to the Central Limit Theorem. See [\[9\]](#asymptotic-variance).
-
-### 2-2-2-b Plotting Autocorrelation
-
-We plot the autocorrelation of the chain, ideally quickly decreasing to zero (the chain itself looks like white noise). We see in [\[10\]](#plotting-autocorrelation) how to use Gibb sampling to compute conditional mean and variance.
-
-### 2-2-2-c Comparison
-
-We run multiple choices and compare them using the *Gelman-Rubin* diagnostic, in [\[11\]](#comparison). However the shortcomings of this idea is to only consider the effect of auto-correlations for the identity function. 
-
-We need to bound autocorrelations for a huge class of functions if we want to converge in total variation
-
-
-### 2-2-2-d Coupling
-
-We run $$m$$ pairs of chains to simulate two dependent Markov chains, and run the chains until they meet. See details in [\[12\]](#coupling)
-
-<br>
-# 2-3 Nontrivial models
------
-
-## 2-3-1 Linear regression
-
-We see in [\[13\]](#linear-regression) how Bayesian linear regression 
-
-$$z_{N×1}=W_{N×d}\beta_{d×1}+\epsilon_{N×1}\\with\;\epsilon\sim N(0,\sigma^2I)$$
-
-easily leads to ridge estimate
-
-$$\hat{\beta}_{ridge}=\mathbb{E}[\beta|W,\sigma^2,z,\tau^2]=\Big(W^TW+\frac{1}{\tau^2}I\Big)^{-1}W^Tz$$
-
-where $$z$$ is the response, $$W$$ is the matrix, $$\beta$$ is the vector of regression coefficients, and $$\epsilon$$ is the vector of random error.
-
-## 2-3-2 Tikhonov regularisation
-
-More generally we have *Tikhonov regularization*
-
-$$\hat{\beta}_{ridge}=(W^TW+A^{-1})^{-1}W^Tz$$
-
-where $$A$$ symmetric, positive definite.
-
-We regularise because:
-
-- Adding a bias may improve our estimation of a vector with more than 2 dimensions (see JS estimator)
-- When $$p > N$$, least square can't be done, but regularised solution can
-
-We see in [\[14\]](#tikhonov-regularisation) that its much harder to get $$A$$ with Empirical Bayes than Full Bayes (in particular when $$\beta$$ doesn't follow a Normal distribution).
-
-## 2-3-3 Conjugate prior
-
-Another option to solve Bayesian linear regression is using a conjugate prior. We see in [\[15\]](#conjugate-prior) how Zellner's $$g$$ prior gives us a posterior with a mean that is a shrunken factor of the MLE.
-
-## 2-3-4 Bayesian variable selection
-
-We saw that for *Ridge* or *l1 penalisation* the problem was
-
-$$max_{\beta}||W\beta-z||^2+\lambda||\beta||_1$$
-
-In high-dimension, *Lasso* or *l0 penalisation* allows us to select features automatically. The ideal problem in this case is:
-
-$$max_{\beta}||W\beta-z||^2-\lambda||\beta||_0$$
-
-We still need to select $$\lambda$$ with AIC ($$\lambda = 1$$) or BIC ($$\lambda = 2 log(n)$$). 
-
-If we think of variable selection as hypothesis testing, we can compute the Bayes factor for each variable [\[16\]](#bayesian-variable-selection).
-
-
-<br>
-# Appendix
-----
-
-### Estimation of the normal mean
-[go back](#2-1-1-estimation-of-the-normal-mean)
-
-- Frequentist
-
-The risk of the MLE (*y_i)* is the expectation of its squared error loss
-
-$$E[||\mu-\hat{\mu}||^2_2]=\sum^N_{i=1}E[(\mu_i-\hat{\mu}_i)^2]=\sum^N_{i=1}E[(\mu_i-y_i)^2]=N$$
-
-since the $$y_i$$ are all independent normals with mean $$\mu_i$$ and variance 1
- 
-
-- Bayesian
-
-The Bayes estimator of each $$\mu_i$$ is
-
-$$E[\mu_i|y,m,\tau^2]=\frac{y_i}{1+\tau^{-2}}$$
-
-Proof in the original paper. So the posterior means shrinks the MLE. Let's compute the *frequentist* risk of this estimator, which is needed to computing the Bayes risk.
-
-$$E(\frac{y_i}{1+\tau^2}-\mu_i)^2=var(\frac{y_i\tau^2}{1+\tau^2})+bias^2(\frac{y_i\tau^2}{1+\tau^2})=\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}$$
-
-So the Bayes risk of this estimator is 
-
-$$\sum_i E_{m,\tau^2}[\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}]=NE_{m,\tau^2}[\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}]=N\frac{\tau^2}{\tau^2+1}$$
-
-So the difference between the risk of the MLE and the Bayes estimator is 
-
-$$N-N\frac{\tau^2}{\tau^2+1}=\frac{N}{\tau^2+1}$$
-
-------
-### James-Stein estimator
-[go back](#2-1-3-the-james-stein-estimator)
 
 So we have
 
@@ -308,11 +164,28 @@ $$\mu_i=(5,-1,-0.75,...,0.75,1)$$
 For each simulation replicate, we estimate $$\mu$$ by the MLE and by JS. We find
 
 ![](https://vincent-maladiere.github.io/images/bayes_loss.png)
+</details>
 
-------
-### Full Bayes inference
-[go back](#2-1-4-full-bayes-inference)
+So why one would use the MLE is high-dimension? Because:
 
+1. The JS estimator is biased, since the MLE is the minimum variance **unbiased** estimator (Rao-Blackwell theorem). So the JS reduces its variance but adds bias: good for point estimation but challenging for frequentist interval estimation. 
+2. The MLE is admissible in 1 and 2-dimensions, but even in higher dimensions, if we focus on a single "outlier" entry, the MLE has a better MSE (see [\[2\]](#the-james-stein-estimator) as well)
+
+## 2-1-4 Full Bayes inference
+
+We could conclude at this point that one should always use empirical Bayes to choose a prior. However, when it comes to estimating a parameter, the Bayesian approach is to put a prior on it.
+
+Thus if our problem is 
+
+$$y\;\sim\;N(\mu,I)\\\mu\;\sim\;N(0,\tau^2I)\\\tau^2\;\sim\;p(\tau^2)$$
+
+So now our problem is to estimate $$p(\tau^2)$$. Since we want to estimate $$\tau$$ from our data, we have to place an objective prior on $$\tau$$:
+
+$$p(\tau^2)=1$$
+
+<details>
+<summary>So we compute the posterior of $$\mu$$ to find out that its posterior expectation is challenging to evaluate, although our initial model is simple.</summary>
+<br>
 We now have
 
 $$y\;\sim\;N(\mu,I)\\\mu\;\sim\;N(0,\tau^2I)\\\tau^2\;\sim\;p(\tau^2)=1$$
@@ -322,12 +195,26 @@ Let's compute the posterior
 $$p(\mu,\tau^2|y)\propto p(y|\mu)p(\mu|\tau^2)p(\tau^2) = (2\pi)^{-N}e^{-\frac{1}{2}(y-\mu)'I(y-\mu)}(\tau^2)^{-N/2}e^{-\frac{1}{2}\mu'(\tau^2I)^{-1}\mu}\\=(2\pi)^{-N}(\tau^2)^{-N/2}e^{-\frac{1}{2}(\mu-(1+\tau^{-2})^{-1}y)'(1+\tau^{-2})I(\mu-(1+\tau^{-2})^{-1}y)}e^{-\frac{1}{2}y'(1-(1+\tau^2)^{-1}Iy)}$$
 
 See original paper for computation of each term.
+</details>
 
-------
-### MCMC
-[go back](#2-2-markov-chain-monte-carlo)
+We need some alternative way to do integration that doesn't involve actually computing all of the integrals analytically.
 
-*i)* The half Cauchy prior is not a conjugate prior, so now we consider
+<br>
+# 2-2 Markov Chain & Monte Carlo
+-----
+
+We still have the same problem. Now we know that getting the posterior is hard if we can't find the normalising constant through some known distribution. 
+
+Another choice is the half Cauchy prior on $$\tau$$
+
+$$p(\tau)\propto\frac{1}{1+\tau^2}$$
+
+We choose to have an *Inverse Gamma* prior on $$\tau*^2$$ and a Normal prior on $$m$$. 
+
+<details>
+<summary>We show that computing the posterior become very ugly</summary>
+<br>
+The half Cauchy prior is not a conjugate prior, so now we consider
 
 $$y\;\sim\;N(\mu,\sigma^2I)\\\mu\;\sim\;N(m,\sigma^2\tau^2I)\\p(\tau)\propto\frac{1}{1+\tau^2}$$
 
@@ -340,12 +227,18 @@ We try to find the normalizing constant $$p(y)$$
 $$\int|2\pi\sigma^2I|^{-1/2}e^{-\frac{1}{2}(y-\mu)^T(\sigma^2I)^{-1}(y-\mu)}|2\pi\sigma^2\tau^2I^{-1/2}|e^{-\frac{1}{2}(\mu-m)^T(\sigma^2\tau^2I)^{-1}(y-m)}d\mu\\=(2\pi\sigma^2)^{-N/2}(\tau^2)^{-N/2}e^{(y-m^*)(\Sigma^*)^{-1}(y-m^*)}$$
 
 So now we have to integrate over $$\sigma^2$$ and then $$\tau^2$$, which may not even be doable at all.
+</details>
 
------
-### Difference with ordinay Monte Carlo
-[go back](#2-2-markov-chain-monte-carlo)
+However, in high-dimensions we don't really care about the whole posterior, but more about some functional of it, like the **posterior expectations** of a function $$f$$:
 
-*ii)* Suppose we have $$Y \sim G$$ and we want to compute the quantity 
+$$\int\frac{f(\theta)p(y|\theta)p(\theta)}{p(y)}d\theta$$
+
+It turns out this integral can be approximated using Markov chain Monte Carlo (MCMC). It consists in sampling the desired distribution by recording states from the Markov chain, which has the desired distribution as its equilibrium distribution.
+
+<details>
+<summary>Let's see the difference with ordinary Monte Carlo.</summary>
+<br>
+Suppose we have $$Y \sim G$$ and we want to compute the quantity 
 
 $$\mathbb{E}[log(Y)]$$
 
@@ -359,10 +252,16 @@ $$\widehat{\mathbb{E}[log\,Y]}=\frac{1}{n}\sum^{n-1}_{j=0}log(\theta_j)$$
 
 If we could sample $$Y \theta G$$, it would be just ordinary Monte Carlo.
 
-----
-### Transition Kernel
-[go back](#2-2-markov-chain-monte-carlo)
+</details>
 
+A Markov chain is a sequence of random variable ignoring the whole history (independent) except for the last event:
+
+$$p(X_N|X_0,...,X_{N-1})=p(X_N|X_{N-1})$$
+
+We hop from one state $$n$$ to $$n+1$$ via a transition kernel $$K$$. Some $$K$$ have invariant distribution. 
+<details>
+<summary>Let's see how it suggests the Gibs sampling model to construct $$K$$.</summary>
+<br>
 $$X_n\in\{0,1\}\;and\;\alpha,\beta\in[0,1]\\X_n|(X_{n-1}=0)= \Bigg\{ \begin{array}{ll}0\;with\;proba\;1-\alpha \\ 1\;with\;proba\;\alpha \end{array}\\X_n|(X_{n-1}=1)= \Bigg\{ \begin{array}{ll}0\;with\;proba\;\beta \\ 1\;with\;proba\;1-\beta \end{array}$$
 
 so our transition matrix $$K$$ is
@@ -400,10 +299,17 @@ Thus if we could make the posterior our invariant distribution, we could sample 
 $$if\;X_0\;\sim\;\nu\;and\;X_n|X_{n-1}\;\sim\;K(X_{n-1},.),\;then\\\frac{1}{n}\sum^{n-1}_{k=0}\phi(X_k)\rightarrow^{n\rightarrow\infty\;i.p.}\int\phi(x)p(x)dx$$
 
 if $$K$$ has invariant density $$p$$. That means the empirical averages converge to expected value we are looking for.
+</details>
 
-### Gibbs Sampling
-[go back](#2-2-1-gibbs-sampling)
+## 2-2-1 Gibbs sampling
 
+We want to construct $$K$$ for arbitrary distributions. We need to compute the posterior without knowing the normalising constant $$p(y)$$.
+
+In Gibbs sampling the idea is to break the problem of sampling from the high-dimensional joint distribution into a series of samples from low-dimensional conditional distributions. 
+
+<details>
+<summary>We illustrate the algorithm here</summary>
+<br>
 The General MCMC algorithm is:
 
 1. find a $$K$$ with invariant distribution $$p(\theta|y)$$
@@ -435,11 +341,27 @@ now if
 $$\theta\;\sim\;N(0,\tau^2)\\then\;\theta|z\;\sim\;N(\frac{n\bar{z}}{\tau^{-2}+n},\frac{1}{\tau^{-2}+n})$$
 
 Thus, we can use Gibbs to do computations with this model. See Tanner and Wong (87), or Albert and Chib (1993) data-augmentation for more details.
+</details>
 
-------
-### Metropolis-Hastings algorithm
-[go back](#2-2-2-metropolis-hastings-algorithm)
+A nice implementation can be found here:
 
+[mikhailiuk/medium](https://github.com/mikhailiuk/medium/blob/master/Gibbs-sampling.ipynb)
+
+## 2-2-2 Metropolis-Hastings algorithm
+
+If one of the Gibbs conditionals is not conjugate, a Metropolis-Hasting step is used in the Gibbs iteration. 
+
+Here is an implementation: 
+
+[MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/)
+
+This new step ensure the transition kernel is reversible, which guarantee that the Markov chain converges to the correct invariant measure.
+
+The core idea is to compute an acceptance ratio, which is the probability to jump to the next step. 
+
+<details>
+<summary>We illustrates the algorithm here with an example and a measure of MSE to assess the quality of convergence.</summary>
+<br>
 Suppose we want to sample from a density $$f(x, a)M(a)$$, with $$M(a)$$ normalising constant.
 
 1. Choose a proposal $$Q(x, .)$$ with density $$q(x, y)$$. For exemple $$y \sim N(x, s)$$
@@ -488,11 +410,20 @@ $$\frac{1}{n^2}\sum^{n-1}_{i=0}\mathbb{V}[\phi(X_j)]=\frac{1}{n} \mathbb{V}[\phi
 To have convergence of the MSE, we would like an exponential decay of the covariance
 
 $$Cov(\phi(X_j),\phi(X_l))=\bar{\alpha}^{(j-l)}\;with\;\bar{\alpha}\in(0, 1)$$
+</details>
 
-------
-### Asymptotic variance
-[go back](#2-2-2-a-asymptotic-variance)
+We can diagnosis convergence via:
 
+- Asymptotic variance (or effective sample size)
+- Trace plotting
+- Comparison across multiple chains
+- Coupling
+
+### 2-2-2-a Asymptotic variance
+
+<details>
+<summary>The Effective sample size (ESS) allows us to estimate $$\sigma$$, thanks to the Central Limit Theorem.</summary> 
+<br>
 We have
 
 $$\sqrt{n}\bigg[\frac{1}{n}\sum^{n-1}_{j=0}\phi(X_j)-\mu\phi\bigg]\Rightarrow N(0,\sigma^2)$$
@@ -514,11 +445,15 @@ So the ESS is
 $$ESS=n\frac{\bar{\mathbb{V}}[X_0]}{\hat{\sigma}^2}$$
 
 In the special case of Monte Carlo, note *ESS = n*, but because of correlation in the Markov chain this might be much worse.
+</details>
 
------
-### Plotting Autocorrelation
-[go back](#2-2-2-b-plotting-autocorrelation)
+### 2-2-2-b Plotting Autocorrelation
 
+We plot the autocorrelation of the chain, ideally quickly decreasing to zero (the chain itself looks like white noise). 
+
+<details>
+<summary>Let's see how to use Gibb sampling to compute conditional mean and variance.</summary>
+<br>
 Suppose we are interested in sampling 
 
 $$Y\;\sim\;N(\mu,\Sigma)$$
@@ -530,11 +465,14 @@ $$\binom{y_A}{y_B}\;\sim\;N\bigg(\binom{\mu_A}{\mu_B}, \Big[\begin{array}{cc}\Si
 then the conditionals mean and variance are given by
 
 $$\mu^*=\mu_A+\Sigma_{AB}\Sigma_{BB}^{-1}(y_B-\mu_B)\\\Sigma^*=\Sigma_{AA}-\Sigma_{AB}\Sigma_{BB}^{-1}\Sigma_{BA}$$
+</details>
 
-----
-### Comparison
-[go back](#2-2-2-c-comparison)
 
+### 2-2-2-c Comparison
+
+<details>
+<summary>We run multiple choices and compare them using the *Gelman-Rubin* diagnostic. 
+<br>
 The Gelman-Rubin diagnostic is 
 
 1. run $$m$$ chains of length $$2n$$, starting over dispersed points, discard first $$n$$.
@@ -549,11 +487,18 @@ $$W=\frac{1}{m}\sum_{i=1}^m \bigg(\frac{1}{n-1}\sum^n_{j=1}x_{ij}-\bar{x}_i\bigg
 and take the estimated variance to be 
 
 $$\hat{\sigma}^2_+=\frac{n-1}{n}W+\frac{B}{n}$$
+</details>
 
------
-### Coupling
-[go back](#2-2-2-d-coupling)
+However the shortcomings of this idea is to only consider the effect of auto-correlations for the identity function. 
 
+We need to bound autocorrelations for a huge class of functions if we want to converge in total variation
+
+
+### 2-2-2-d Coupling
+
+<details>
+<summary>We run $$m$$ pairs of chains to simulate two dependent Markov chains, and run the chains until they meet</summary>
+<br>
 We have
 
 $$(X,Y)\sim\Gamma(\nu_0,\nu_1)$$
@@ -582,11 +527,17 @@ $$X\sim f \\W|X\sim U(0,f(X))$$
 
 - If *W < g(X)* output *(X, X)*
 - else sample *Y* ~ g* and take *W*|Y* ~ U(0, g(Y*))* until *W* > f(Y*)* and output *(X, Y*)*
+</details>
 
-------
-### Linear regression
-[go back](#2-3-1-linear-regression)
+<br>
+# 2-3 Nontrivial models
+-----
 
+## 2-3-1 Linear regression
+
+<details>
+<summary>We see in how Bayesian linear regression</summary>
+<br>
 The usual least square estimate is 
 
 $$\hat{\beta}_{OLS}=(W^TW)^{-1}W^Tz$$
@@ -620,11 +571,32 @@ This is the usual ridge regression estimate, which solves
 $$\hat{\beta}_{ridge}=max_{\beta}-||W\beta-z||^2-\tau^{-2}||\beta||^2$$
 
 See original paper for computation optimisation using diagonalisation and Woodbury identity.
+</details>
 
-------
-### Tikhonov regularisation
-[go back](#2-3-2-tikhonov-regularisation)
+$$z_{N×1}=W_{N×d}\beta_{d×1}+\epsilon_{N×1}\\with\;\epsilon\sim N(0,\sigma^2I)$$
 
+easily leads to ridge estimate
+
+$$\hat{\beta}_{ridge}=\mathbb{E}[\beta|W,\sigma^2,z,\tau^2]=\Big(W^TW+\frac{1}{\tau^2}I\Big)^{-1}W^Tz$$
+
+where $$z$$ is the response, $$W$$ is the matrix, $$\beta$$ is the vector of regression coefficients, and $$\epsilon$$ is the vector of random error.
+
+## 2-3-2 Tikhonov regularisation
+
+More generally we have *Tikhonov regularization*
+
+$$\hat{\beta}_{ridge}=(W^TW+A^{-1})^{-1}W^Tz$$
+
+where $$A$$ symmetric, positive definite.
+
+We regularise because:
+
+- Adding a bias may improve our estimation of a vector with more than 2 dimensions (see JS estimator)
+- When $$p > N$$, least square can't be done, but regularised solution can
+
+<details>
+<summary>We see in that its much harder to get $$A$$ with Empirical Bayes than Full Bayes (in particular when $$\beta$$ doesn't follow a Normal distribution).</summary>
+<br>
 - Empirical Bayes
 
     We maximise the marginal likelihood (in term of $$\tau^2$$)
@@ -673,11 +645,14 @@ This can be done using Gibbs sampling
 $$\beta|\tau^2,\sigma^2,W,z\\\sigma^2|\tau^2,\beta,W,z\\\tau^2|\sigma^2,\beta^2$$
 
 The first two distribution are easy to sample from. The third distribution is well known and we can directly sample it with Metropolis-Hastings.
+</details>
 
-----
-### Conjugate prior
-[go back](#2-3-3-conjugate-prior)
+## 2-3-3 Conjugate prior
 
+Another option to solve Bayesian linear regression is using a conjugate prior. 
+<details>
+<summary>We see how Zellner's $$g$$ prior gives us a posterior with a mean that is a shrunken factor of the MLE.</summary>
+<br>
 We have 
 
 $$\beta,\sigma^2\sim N\Gamma^{-1}(\mu,V,a,b)$$
@@ -711,11 +686,23 @@ and we find that the posterior is still Normal InvGamma, but his mean has become
 $$\mu^*=\frac{g}{g+1}(W^TW)^{-1}W^Tz=\frac{g}{g+1}\hat{\beta}$$
 
 hence the shrinkage.
+</details>
 
-----
-### Bayesian variable selection
-[go back](#2-3-4-bayesian-variable-selection)
+## 2-3-4 Bayesian variable selection
 
+We saw that for *Ridge* or *l1 penalisation* the problem was
+
+$$max_{\beta}||W\beta-z||^2+\lambda||\beta||_1$$
+
+In high-dimension, *Lasso* or *l0 penalisation* allows us to select features automatically. The ideal problem in this case is:
+
+$$max_{\beta}||W\beta-z||^2-\lambda||\beta||_0$$
+
+We still need to select $$\lambda$$ with AIC ($$\lambda = 1$$) or BIC ($$\lambda = 2 log(n)$$). 
+
+<details>
+<summary>If we think of variable selection as hypothesis testing, we can compute the Bayes factor for each variable.</summary>
+<br>
 We can think of variable selection as
 
 $$\gamma_j=\bigg\{\begin{array}{cc} 1\;if\;\beta_j=\not0:H_{1j}\\0\;if\;\beta_j=0:H_{0j}\end{array}$$
@@ -727,3 +714,14 @@ $$p[H_0|z]=\frac{1}{1+\frac{1-q}{q}\frac{p(z|H_1)}{p(z|H_0)}}$$
 We compute $$p(z|H1)$$ and $$p(z|H0)$$ to find the Bayes factor (see original paper)
 
 $$BF_{1:0}=\frac{p(z|H_1)}{p(z|H0)}=\frac{1}{\sqrt{\tau^2+1}}e^{\frac{1}{2}z^2_j(\frac{\tau^2}{\tau^2+1})}$$
+</details>
+
+
+<br>
+
+# The end
+------
+
+Thank you for reading, it has been quite a journey and I hope that I successfully put those complex concepts in a short and easy form.
+There are some nice state of the art [here]() and [here]() that I leave you to exploring.
+
