@@ -4,8 +4,10 @@ title: ""
 excerpt: "Data and Codes"
 author_profile: true
 ---
-## Interactive Map
-#### [Mapping U.S. School Resegregation](https://yongjunzhang.shinyapps.io/schsegapp/) (Fiel and Zhang 2019).
+## School Segregation and Desegregation Databases
+#### Interactive Map: [Mapping U.S. School Resegregation](https://yongjunzhang.shinyapps.io/schsegapp/) (Fiel and Zhang 2019).
+#### School Segregation or desegregation legal cases data.
+#### School segregation or desegregation news articles data.
 
 ## Data for NSF Funded Project--Social Movement Impact on Policy Outcomes
 #### Social Scientists before Congress [Codebook](https://yongjunzhang.com/files/codebook.pdf)
@@ -15,12 +17,12 @@ author_profile: true
 #### LCEECD allows scholars to contruct a two-mode network between donors and recipients. Scholars can also transform this two-mode network to donor- or recipient-centric networks.
 
 ## Longitudinal Corporate Media Coverage Database (LCMCD)**
-#### This dataset is contructed by using keywords to query ProQuest and Nexis Uni databases for news articles mentioning political behavior and protest from 2000-2018. 
+#### This dataset is contructed by using keywords to query ProQuest and Nexis Uni databases for news articles mentioning political behavior and protest from 2000-2018.
 #### LCMCD includes variables like number of total media mention in ProQuest, number of total media mention in Nexis Uni, number of protest media mention in ProQuest/Nexis Uni, number of political-related media mention in ProQuest/Nexis Uni, etc.
 
 ## Longitudinal Corporate Political Contributions and Lobbying Database (LCPCLD)**
-#### This big dataset is contructed from FEC and the U.S. Senate Lobbying Disclosure Act Database for all SP1500 firms from 2000-2018. 
-#### LCPCLD includes variables like total observed political expenditure, pac donation, lobbying expenditure, number of lobbyists, etc. 
+#### This big dataset is contructed from FEC and the U.S. Senate Lobbying Disclosure Act Database for all SP1500 firms from 2000-2018.
+#### LCPCLD includes variables like total observed political expenditure, pac donation, lobbying expenditure, number of lobbyists, etc.
 
 ## Replication Data for Journal Articles
 #### AJS: [Diversity and Disparities](https://s4.ad.brown.edu/projects/diversity/Data/data.htm);[School Segregation after Brown](https://projects.propublica.org/segregation-now/) (Fiel and Zhang 2019)
