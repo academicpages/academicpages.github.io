@@ -31,7 +31,7 @@ So far we have dealt with Bayesian analysis of very simple models, mainly using 
 
 ## 2-1-1 Estimation of the normal mean
 
-Suppose that we have $$N$$ observations each from independent Gaussians all with same variance 1 but with *different* means 
+Suppose that we have $$N$$ observations each from independent Gaussians all with same variance $$1$$ but with *different* means 
 
 $$y_i \;\sim^{ind}N(\mu_i,1)$$
 
@@ -52,20 +52,20 @@ $$\mu_i\;\sim^{iid}\;N(m,\tau^2)$$
 <br>
 - Frequentist
 
-The risk of the MLE ($$y_i$$) is the expectation of its squared error loss
+The risk of the MLE ($y_i$) is the expectation of its squared error loss
 
 $$E[||\mu-\hat{\mu}||^2_2]=\sum^N_{i=1}E[(\mu_i-\hat{\mu}_i)^2]=\sum^N_{i=1}E[(\mu_i-y_i)^2]=N$$
 
-since the $$y_i$$ are all independent normals with mean $$\mu_i$$ and variance 1
+since the $y_i$ are all independent normals with mean $\mu_i$ and variance $1$
  
 
 - Bayesian
 
-The Bayes estimator of each $$\mu_i$$ is
+The Bayes estimator of each $\mu_i$ is
 
 $$E[\mu_i|y,m,\tau^2]=\frac{y_i}{1+\tau^{-2}}$$
 
-Proof in the original paper. So the posterior means shrinks the MLE. Let's compute the *frequentist* risk of this estimator, which is needed to computing the Bayes risk.
+Proof in the original paper. So the posterior means shrinks the MLE. Let's compute the frequentist risk of this estimator, which is needed to computing the Bayes risk.
 
 $$E(\frac{y_i}{1+\tau^2}-\mu_i)^2=var(\frac{y_i\tau^2}{1+\tau^2})+bias^2(\frac{y_i\tau^2}{1+\tau^2})=\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}$$
 
@@ -76,7 +76,9 @@ $$\sum_i E_{m,\tau^2}[\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}]=
 So the difference between the risk of the MLE and the Bayes estimator is 
 
 $$N-N\frac{\tau^2}{\tau^2+1}=\frac{N}{\tau^2+1}$$
+________________________________________________________________________________
 </details>
+<br>
 
 
 $$R_{frequentist}-R_{Bayesian}=\frac{N}{\tau^2+1}$$
