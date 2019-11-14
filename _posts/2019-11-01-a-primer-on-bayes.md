@@ -40,7 +40,9 @@ $$\prod_{i=1}^{N}f_{\theta}(x_i)=\theta^{S_N}(1-\theta)^{N-S_N}$$
 where 
 
 $$S_N=\sum^N_{i=1}x_i$$
+__________________________________________________________________________________
 </details>
+<br>
 
 The fundamental notion here is that randomness comes from sampling/replicates of the experiment, and all probability statements made in frequentist inference are statements with respect to the probability distribution induced by hypothetical repetitions of the experiment.
 
@@ -65,7 +67,10 @@ Always keep in mind that for frequentists, it is the statistic or estimator – 
 $$if\;\bar{X}_N=\frac{1}{N}S_N=\frac{1}{N}\sum_{i=1}^N{x_i},\;then\\var(S_N)=N\theta(1-\theta),\;\mathbb{E}(S_N)=N\theta,\;so\\var(\bar{X}_N)=N^{-1}\theta(1-\theta),\;\mathbb{E}(\bar{X}_N)=\theta \;$$
 
 Thus, $$X_N$$ is unbiased.
+__________________________________________________________________________________
 </details>
+<br>
+
 The sample mean is the optimal *unbiased* estimator in the sense that among all unbiased estimators, it has minimum variance —thus minimum MSE, see Rao-Blackwell theorem. The point is that the sample mean is a “good” estimator of $$\theta$$ because in a hypothetical infinite sequence of experiments just like the one we performed, it will typically give us a number that is close to $$\theta$$.
 
 ## 1-1-2 Interval estimation
@@ -100,10 +105,12 @@ $$a=\bar{X}_N-\Phi^{-1}(\alpha/2)N^{-1/2}\sqrt{\bar{X}_N(1-\bar{X}_N)}\\b=\bar{X
 so that
 
 $$p(\hat{\theta}\in[a, b])=1-\alpha$$
-<br>
+__________________________________________________________________________________
 </details>
+<br>
+
 However this approach is too heavy in computation.
-Instead, we consider intervals that have *asymptotic* $$1 - 𝛼$$ coverage, using the ***central limit theorem*** of the general form:
+Instead, we consider intervals that have *asymptotic* $$1 - \alpha$$ coverage, using the ***central limit theorem*** of the general form:
 
 $$\hat{\theta} \pm \Phi^{-1}(1-\alpha/2)\hat{SE}(\hat{\theta})$$
 
@@ -130,7 +137,9 @@ So to figure out $$c$$ we compute the probability of rejection (which is no bigg
 $$\sum_{j=0}^{N(1/2-c)}\binom{N}{j}2^{-N}+\sum^{N}_{j=N(1/2+c)}\binom{N}{j}2^{-N}$$
 
 solving for $$c < 1/2$$ to make the quantity as large as possible while still being less than $$\alpha$$ will give a test with at most $$\alpha$$ type I error rate.
+__________________________________________________________________________________
 </details>
+<br>
 
 # 1-2 Bayesian analysis of coin tossing
 ------
@@ -164,9 +173,9 @@ Bayes’ theorem tells us how we should update our prior beliefs about parameter
 ## 1-2-1 Prior choice
 
 A very common choice is to pick a ***conjugate prior***: posterior and prior belong to the same family of probability distributions, so that the marginal likelihood $$p(x)$$ is often available analytically. 
+For our coin-tossing example, with the $$N$$ Bernoulli likelihood, our prior is in the Beta family.
 
 <details>
-<summary>For our coin-tossing example, with the $$N$$ Bernoulli likelihood, our prior is in the Beta family.</summary>
 <br>
 
 We have: 
@@ -229,6 +238,7 @@ $$Beta(S_N+a,N-S_N+b)$$
 so an equal tailed credible interval can be computed from the quantiles of the Beta distribution. If $$I(x; a, b)$$ is the CDF of the Beta distribution, then we have:
 
 $$[I^{-1}(\alpha/2;S_N+a,N-S_N+b),I^{-1}(1-\alpha/2;S_N+a,N-S_N+b)]$$
+__________________________________________________________________________________
 </details>
 <br>
 
@@ -290,6 +300,7 @@ $${P}[\theta=c]=\int ^c_cp(\theta|{x})d\theta=\int^c_c\frac{p({x}|\theta)\{q\del
 The Bayes Factor is
 
 $$BF(x)=\frac{p({x}|\gamma=1)}{p({x}|\gamma=0)}$$
+__________________________________________________________________________________
 </details>
 <br>
 
@@ -304,9 +315,9 @@ One of the most commonly used in applications is ***Jeffreys prior***. It is def
 $$p(\theta) \propto |I(\theta)|^{-1/2}$$
 
 where $$I(\theta)$$ is the Fisher information matrix. 
+We show that this prior is actually the $$Beta(1/2, 1/2)$$ prior.
 
 <details>
-<summary>We show that this prior is actually the $$Beta(1/2, 1/2)$$ prior.</summary>
 <br>
 Fisher information is defined as
 
@@ -346,6 +357,7 @@ $$\mu=g(\theta)$$
 then the prior will still take the form
 
 $$|I(\mu)|^{1/2}$$
+__________________________________________________________________________________
 </details>
 <br>
 
@@ -382,6 +394,7 @@ $$Gamma(S_N+a,N+b)$$
 The Bayes Estimator is therefore
 
 $${E}_{\theta|{x}}[\theta]=\frac{S_N+a}{N+b}$$
+__________________________________________________________________________________
 </details>
 <br>
 
@@ -422,6 +435,7 @@ For any $$N\Gamma$$ distribution,
 $$\mu|\sigma^2,{x} \;\sim\; N(m,\tau^2 \sigma^2)\;\sim\;N(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},\sigma^2(N+\tau^{-2})^{-1})$$
 
 So the Bayesian posterior and the frequentist sampling distribution approach one another as the sample size grows.
+__________________________________________________________________________________
 </details>
 <br>
 
@@ -430,6 +444,7 @@ So the Bayesian posterior and the frequentist sampling distribution approach one
 The conjugate prior of the multinomial likelihood is a multivariate of the Beta distribution and is called *Dirichlet* distribution. 
 
 <details>
+<br>
 **The multinomial likelihood** for a $$d$$ category is given by
 
 $$p(x_1,...,x_d|\theta_1,...,\theta_d)=\binom{N}{x_1!...x_d!}\prod^d_{j=1}\theta^{x_j}_j$$
@@ -443,7 +458,8 @@ The resulting probability distribution is called the *Dirichlet* distribution an
 $$p(\theta_1,...,\theta_d|x_1,...,x_d)=\frac{1}{B({a})}\prod^d_{j=1}\theta_j^{a_j-1}{1}\{a\in \mathbb{S}^{d-1}\}$$
 
 where $$S^{d-1}$$ is the $$(d-1)$$-dimensional simplex
-<details>
+__________________________________________________________________________________
+</details>
 <br>
 
 
