@@ -128,11 +128,11 @@ Our test is
 
 $$|\hat{\theta}-1/2|>c$$
 
-Under the null, the sampling distribution of $$\theta_{hat}$$ is given by
+Under the null, the sampling distribution of $\theta_{hat}$ is given by
 
 $$N\hat{\theta}\; \sim\;Binomial(N, 1/2)$$
 
-So to figure out $$c$$ we compute the probability of rejection (which is no bigger than $$\alpha$$)
+So to figure out $c$ we compute the probability of rejection (which is no bigger than $$\alpha$$)
 
 $$\sum_{j=0}^{N(1/2-c)}\binom{N}{j}2^{-N}+\sum^{N}_{j=N(1/2+c)}\binom{N}{j}2^{-N}$$
 
@@ -348,7 +348,9 @@ where J is the Jacobian. Therefore
 $$|I(\theta)|^{1/2}=|J||I(\mu)|^{1/2}$$
 
 So this prior is invariant under one-to-one reparametrizations.
+__________________________________________________________________________________
 </details>
+<br>
 
 Jeffrey prior is invariant under *one-to-one reparametrizations* which means that is we choose to parametrize the model in terms of 
 
@@ -357,9 +359,6 @@ $$\mu=g(\theta)$$
 then the prior will still take the form
 
 $$|I(\mu)|^{1/2}$$
-__________________________________________________________________________________
-</details>
-<br>
 
 # 1-3 Conjugate families
 -------
