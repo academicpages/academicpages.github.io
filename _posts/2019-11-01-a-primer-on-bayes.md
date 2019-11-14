@@ -168,6 +168,7 @@ A very common choice is to pick a ***conjugate prior***: posterior and prior bel
 <details>
 <summary>For our coin-tossing example, with the $$N$$ Bernoulli likelihood, our prior is in the Beta family.</summary>
 <br>
+
 We have: 
 
 $$p({x}|\theta)=\theta^{S_N}(1-\theta)^{N-S_N}$$
@@ -191,7 +192,10 @@ $$C({x})=B(S_N+a,N-S_N+b)^{-1}$$
 and then
 
 $$p(\theta|{x})=\frac{\theta^{S_N+a}(1-\theta)^{N-S_N+b}}{B(S_N+a+1,N-S_N+b+1)}$$
+
+-----
 </details>
+<br>
 
 ## 1-2-2 Point estimation
 
@@ -226,6 +230,7 @@ so an equal tailed credible interval can be computed from the quantiles of the B
 
 $$[I^{-1}(\alpha/2;S_N+a,N-S_N+b),I^{-1}(1-\alpha/2;S_N+a,N-S_N+b)]$$
 </details>
+<br>
 
 ## 1-2-4 Hypothesis testing
 
@@ -286,6 +291,7 @@ The Bayes Factor is
 
 $$BF(x)=\frac{p({x}|\gamma=1)}{p({x}|\gamma=0)}$$
 </details>
+<br>
 
 ![frequentist vs bayesian](https://vincent-maladiere.github.io/images/freq_vs_bayes.png)
 
@@ -340,6 +346,8 @@ $$\mu=g(\theta)$$
 then the prior will still take the form
 
 $$|I(\mu)|^{1/2}$$
+</details>
+<br>
 
 # 1-3 Conjugate families
 -------
@@ -375,6 +383,8 @@ The Bayes Estimator is therefore
 
 $${E}_{\theta|{x}}[\theta]=\frac{S_N+a}{N+b}$$
 </details>
+<br>
+
 Which is:
 
 $$Gamma(a,b)=\frac{b^a}{\Gamma(a)}\theta^{a-1}e^{-b\theta}$$
@@ -413,6 +423,7 @@ $$\mu|\sigma^2,{x} \;\sim\; N(m,\tau^2 \sigma^2)\;\sim\;N(\frac{\tau^{-2}m+N\bar
 
 So the Bayesian posterior and the frequentist sampling distribution approach one another as the sample size grows.
 </details>
+<br>
 
 ## 1-3-3 Multinomial Distribution
 
@@ -433,6 +444,7 @@ $$p(\theta_1,...,\theta_d|x_1,...,x_d)=\frac{1}{B({a})}\prod^d_{j=1}\theta_j^{a_
 
 where $$S^{d-1}$$ is the $$(d-1)$$-dimensional simplex
 <details>
+<br>
 
 
 # Next
