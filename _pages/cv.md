@@ -46,30 +46,9 @@ Experience
 
 Professional Activities
 ==========
-+ Reviewed Papers:
-  ASPLOS-2020, ASPLOS-2019 (Top computer system & architecture conference)
-  PPOPP-2020 (Top parallel programming & computer system conference)
-  OOPSLA-2019 (Top programming language conference)
++ Reviewed Papers: <br>
+  ASPLOS-2020, ASPLOS-2019 (Top computer system & architecture conference) <br>
+  PPOPP-2020 (Top parallel programming & computer system conference)   <br>
+  OOPSLA-2019 (Top programming language conference) <br>
 + Presentations
-  Invited talk at Computer Systems WIPS: KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA. Feb. 2019
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+  Invited talk at Computer Systems WIPS: KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA. Feb. 2019 <br>
