@@ -408,23 +408,23 @@ $$p({x}|\mu,\sigma^2)=(2\pi\sigma^2)^{-N/2}exp(-\frac{1}{2}\frac{\sum^N_{i=1}(x_
 
 if $$\mu$$ is fixed, it has the form of a Gamma distribution for the parameter $$\sigma^{-2}$$
 
-So the prior on $$\sigma^{-2}$$ is an *inverse Gamma distribution*
+So the prior on $$\sigma^{-2}$$ is an inverse Gamma distribution
 
 $$p(\sigma^2)\propto(\sigma^2)^{-a-1}e^{-\frac{b}{\sigma^2}}$$
 
-Also, if $$\sigma^{-2}$$ was a constant, this would look like the kernel of a normal random variable with variance $$\sigma^{-2}$$. The conjugate prior is:
+Also, if $\sigma^{-2}$ was a constant, this would look like the kernel of a normal random variable with variance $\sigma^{-2}$. The conjugate prior is:
 
 $$p(\mu,\sigma^2)=p(\mu|\sigma^2).p(\sigma^2)\\=\frac{1}{\sqrt{2\pi\sigma^2\tau^2}}exp(-\frac{(\mu-m)^2}{2\sigma^2\tau^2}).\frac{b^a}{\Gamma(a)}(\sigma^2)^{-a-1}exp(-\frac{b}{\sigma^2})\\\propto(\sigma^2)^{-a-1-1/2}exp(-\frac{1}{\sigma^2}(b+\frac{1}{2}\tau^{-2}(\mu-m)^2))\\\propto N\Gamma^{-1}(m, \tau^2, a,b)$$
 
-This is the *normal-inverse gamma distribution.* Finally, our posterior is
+This is the normal-inverse gamma distribution. Finally, our posterior is
 
 $$p(\mu,\sigma^2|{x})=p({x}|\mu,\sigma^2)p(\mu, \sigma^2)\\\;\propto(\sigma^2)^{-N/2-a-1-1/2}exp(-\frac{1}{\sigma^2}(b+\frac{1}{2}\tau^{-2}(\mu-m)^2+\frac{1}{2}\sum^N_{i=1}(x_i-\mu)^2))$$
 
-Which is also a *normal-inverse gamma distribution*. After a few computations on parameters, we find:
+Which is also a normal-inverse gamma distribution. After a few computations on parameters, we find:
 
 $$p(\mu,\sigma^2|{x})\propto N\Gamma^{-1}(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},(N+\tau^{-2})^{-1},a+\frac{N}{2},b+\frac{1}{2}SSE({x})+\frac{1}{2}\frac{N\tau^{-2}}{N+\tau^{-2}}(\bar{x}-m)^2)$$
 
-For any $$N\Gamma$$ distribution, 
+For any $N\Gamma$ distribution, 
 
 $$\mu|\sigma^2,{x} \;\sim\; N(m,\tau^2 \sigma^2)\;\sim\;N(\frac{\tau^{-2}m+N\bar{x}}{N+\tau^{-2}},\sigma^2(N+\tau^{-2})^{-1})$$
 
@@ -439,7 +439,7 @@ The conjugate prior of the multinomial likelihood is a multivariate of the Beta 
 
 <details>
 <br>
-**The multinomial likelihood** for a $$d$$ category is given by
+The multinomial likelihood for a $d$ category is given by
 
 $$p(x_1,...,x_d|\theta_1,...,\theta_d)=\binom{N}{x_1!...x_d!}\prod^d_{j=1}\theta^{x_j}_j$$
 
@@ -447,11 +447,11 @@ The conjugate prior should be a distribution on d-1 dimensional simplex that tak
 
 $$p({\theta})\propto\prod^d_{j=1}\theta^{a_j-1}_j$$
 
-The resulting probability distribution is called the *Dirichlet* distribution and has pdf
+The resulting probability distribution is called the Dirichlet distribution and has pdf
 
 $$p(\theta_1,...,\theta_d|x_1,...,x_d)=\frac{1}{B({a})}\prod^d_{j=1}\theta_j^{a_j-1}{1}\{a\in \mathbb{S}^{d-1}\}$$
 
-where $$S^{d-1}$$ is the $$(d-1)$$-dimensional simplex
+where $S^{d-1}$ is the $(d-1)$-dimensional simplex
 __________________________________________________________________________________
 </details>
 <br>
