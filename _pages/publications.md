@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications)</b> <br> 
+Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
+<i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
+
 <b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
 <b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
 <i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
