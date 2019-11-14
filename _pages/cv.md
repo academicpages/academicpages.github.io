@@ -5,7 +5,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
@@ -18,8 +17,8 @@ Education
 
 Skills
 ======
-* Python, C/C++, OpenCL, Java, Linux Shell
-* Tools: Tensorflow, Pytorch, Sikit-Learn, Vivado HLS, Intel FPGA SDK
+* **Language:** Python, C/C++, OpenCL, Java, Linux Shell
+* **Tools:** Tensorflow, Pytorch, Sikit-Learn, Vivado HLS, Intel FPGA SDK
 
 Experience Highlight
 ======
@@ -46,9 +45,9 @@ Experience
 
 Professional Activities
 ==========
-+ Reviewed Papers: <br>
++ Reviewed Papers <br>
   ASPLOS-2020, ASPLOS-2019 (Top computer system & architecture conference) <br>
   PPOPP-2020 (Top parallel programming & computer system conference)   <br>
   OOPSLA-2019 (Top programming language conference) <br>
-+ Presentations
-  Invited talk at Computer Systems WIPS: KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA. Feb. 2019 <br>
++ Presentations <br>
+  Invited talk at Computer Systems WIPS: **KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA.** Feb. 2019 <br>
