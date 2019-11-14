@@ -62,11 +62,11 @@ Mean Square Error (MSE) is var + bias:
 
 $$\mathbb{E}[(\bar{X}_N-\theta)^2]=\mathbb{E}[(\bar{X}_N-\mathbb{E}\bar{X}_N)^2]+(\mathbb{E}X_N-\theta)^2\\=var(\bar{X}_N)+bias^2({\bar{X}_N})$$
 
-Always keep in mind that for frequentists, it is the statistic or estimator – in this case, $$X_N$$ – that is random, and the parameter $$\theta$$ is some fixed, unknown number.
+Always keep in mind that for frequentists, it is the statistic or estimator – in this case, $X_N$ – that is random, and the parameter $\theta$ is some fixed, unknown number.
 
 $$if\;\bar{X}_N=\frac{1}{N}S_N=\frac{1}{N}\sum_{i=1}^N{x_i},\;then\\var(S_N)=N\theta(1-\theta),\;\mathbb{E}(S_N)=N\theta,\;so\\var(\bar{X}_N)=N^{-1}\theta(1-\theta),\;\mathbb{E}(\bar{X}_N)=\theta \;$$
 
-Thus, $$X_N$$ is unbiased.
+Thus, $X_N$ is unbiased.
 __________________________________________________________________________________
 </details>
 <br>
@@ -77,20 +77,21 @@ The sample mean is the optimal *unbiased* estimator in the sense that among all 
 
 Point estimation is an exercise in producing a single number that is in some sense a “best guess” at the value of a parameter $$\theta$$. Interval estimation aims to produce a range of values that are “plausible”.
 
-What would an exact $$1 - 𝛼$$ confidence interval look like for $$\theta$$ for $$N$$ coin tosses? 
+What would an exact $$1 - \alpha$$ confidence interval look like for $$\theta$$ for $$N$$ coin tosses? 
 <details>
-<summary>We use the CDF of the binomial distribution to build a *Clopper-Pearson* interval</summary>. 
+<summary>We use the CDF of the binomial distribution to build a Clopper-Pearson interval</summary>. 
+<br>
 See a future article for the central limit theorem and weak convergence.
 
-Well, we know that $$S_N$$ has the binomial distribution with parameters $$N$$, $$\theta$$. Its CDF can be expressed as:
+Well, we know that $S_N$ has the binomial distribution with parameters $N$, $\theta$. Its CDF can be expressed as:
 
 $$F_{\theta}(k)=P(S\leq k)=\sum_{j=1}^k\binom{N}{j}\theta^j(1-\theta)^{N-j}$$
 
-We construct a *Clopper-Pearson* interval $$[a(S), b(S)]$$ with at least $$(1 - \alpha)$$ coverage by solving:
+We construct a Clopper-Pearson interval $[a(S), b(S)]$ with at least $(1 - \alpha)$ coverage by solving:
 
 $$\sum_{j=S}^N\binom{N}{j}a^j(1-a)^{N-j}=\alpha/2\\\sum_{j=0}^S\binom{N}{j}b^j(1-b)^{N-j}=\alpha/2$$
 
-It leads to heavy computations. Instead, we prefer an asymptotical approach using the *central limit theorem*. The interval takes the general form:
+It leads to heavy computations. Instead, we prefer an asymptotical approach using the central limit theorem. The interval takes the general form:
 
 $$\hat{\theta} \pm \Phi^{-1}(1-\alpha/2)\hat{SE}(\hat{\theta})$$
 
@@ -132,11 +133,11 @@ Under the null, the sampling distribution of $\theta_{hat}$ is given by
 
 $$N\hat{\theta}\; \sim\;Binomial(N, 1/2)$$
 
-So to figure out $c$ we compute the probability of rejection (which is no bigger than $$\alpha$$)
+So to figure out $c$ we compute the probability of rejection (which is no bigger than $\alpha$)
 
 $$\sum_{j=0}^{N(1/2-c)}\binom{N}{j}2^{-N}+\sum^{N}_{j=N(1/2+c)}\binom{N}{j}2^{-N}$$
 
-solving for $$c < 1/2$$ to make the quantity as large as possible while still being less than $$\alpha$$ will give a test with at most $$\alpha$$ type I error rate.
+solving for $c < 1/2$ to make the quantity as large as possible while still being less than $\alpha$ will give a test with at most $\alpha$ type I error rate.
 __________________________________________________________________________________
 </details>
 <br>
@@ -227,15 +228,13 @@ where the probability here is the *posterior probability* not the *probability w
 <details>
 <summary>For our example, we use the CDF of the Beta distribution to compute the equal-tailed interval</summary>
 <br>
-If we want a $$(1 - \alpha)$$ equal tailed interval, it would be the interval $$[a, b]$$:
+If we want a $(1 - \alpha)$ equal tailed interval, it would be the interval $[a, b]$:
 
 $$a=sup_{a'}\{a':\int^{a'}_{-\inf}p(\theta|{x})d\theta<\ \alpha/2 \}\\b=inf_{b'}\{b':\int^{\inf}_{b'}p(\theta|{x})d\theta<\ \alpha/2 \}$$
 
 The posterior is 
 
-$$Beta(S_N+a,N-S_N+b)$$
-
-so an equal tailed credible interval can be computed from the quantiles of the Beta distribution. If $$I(x; a, b)$$ is the CDF of the Beta distribution, then we have:
+$Beta(S_N+a,N-S_N+b)$, so an equal tailed credible interval can be computed from the quantiles of the Beta distribution. If $I(x; a, b)$ is the CDF of the Beta distribution, then we have:
 
 $$[I^{-1}(\alpha/2;S_N+a,N-S_N+b),I^{-1}(1-\alpha/2;S_N+a,N-S_N+b)]$$
 __________________________________________________________________________________
@@ -273,13 +272,13 @@ with
 
 $$f(\theta)=\frac{1}{B(a,b)}\theta^{a-1}(1-\theta)^{b-1}$$
 
-Integrating only the part involving $$\theta$$ we find $$C(x)$$ and thus the posterior. See original paper for details.
+Integrating only the part involving $\theta$ we find $C(x)$ and thus the posterior. See original paper for details.
 
 So we can compute the posterior probability of the null hypothesis
 
 $${P}[\theta=1/2]=\int_{1/2}^{1/2}p(\theta|{x})d\theta=\frac{1}{1+\frac{1-q}{q}\frac{B(a+S_N, N-S_N+b)}{B(a,b)}2^N}$$
 
-**More generally**, if our null hypothesis is $$H_0 : \theta = c$$, our prior become
+More generally, if our null hypothesis is $H_0 : \theta = c$, our prior become
 
 $$p(\theta)=q\delta(\theta-c)+(1-q)f(\theta)$$
 
@@ -287,11 +286,11 @@ so our posterior density is
 
 $$p(\theta|{x})=C({x})p({x}|\theta)\{q\delta(\theta-c)+(1-q)f(\theta)\}$$
 
-integrating the part involving $$\theta$$ we find $$C(x)$$
+integrating the part involving $\theta$ we find $C(x)$
 
 $$C({x})^{-1}=qp({x}|\theta=c)+(1-q)\int p({x}|\theta)f(\theta)d\theta=qp({x}|\gamma=0)+(1-q)p({x}|\gamma=1)$$
 
-$$p(x\|\gamma=0)$$ and $$p(x\|\gamma=1)$$ are called *marginal likelihoods*, because they are obtained by integrating the likelihood function over the components of the prior associated with *H0* and *H1.*
+$p(x\|\gamma=0)$ and $p(x\|\gamma=1)$ are called marginal likelihoods, because they are obtained by integrating the likelihood function over the components of the prior associated with $H_0$ and $H_1$.
 
 So
 
@@ -315,9 +314,9 @@ One of the most commonly used in applications is ***Jeffreys prior***. It is def
 $$p(\theta) \propto |I(\theta)|^{-1/2}$$
 
 where $$I(\theta)$$ is the Fisher information matrix. 
-We show that this prior is actually the $$Beta(1/2, 1/2)$$ prior.
 
 <details>
+<summary>We show that this prior is actually the $Beta(1/2, 1/2)$ prior.</summary>
 <br>
 Fisher information is defined as
 
@@ -374,9 +373,7 @@ We have
 
 $$p({x}|\theta)=\prod^N_{i=1}e^{-\theta}\frac{\theta^{x_i}}{x_i!}=e^{-N\theta}\frac{\theta^{S_N}}{\prod_ix_i!}$$
 
-This has the form of the kernel of a *Gamma distribution*
-
-$$\theta^ae^{-b\theta }$$
+This has the form of the kernel of a Gamma distribution: $\theta^ae^{-b\theta }$
 
 So we choose our prior as a Gamma distribution
 
@@ -386,9 +383,7 @@ Thus
 
 $$p(\theta|{x})=C({x})e^{-(N+b)\theta}\theta^{S_N+a-1}$$
 
-so the posterior is
-
-$$Gamma(S_N+a,N+b)$$
+so the posterior is $Gamma(S_N+a,N+b)$.
 
 The Bayes Estimator is therefore
 
