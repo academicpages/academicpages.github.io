@@ -16,7 +16,7 @@ This article is the first of the Bayesian series. Next episode [here](https://vi
 You probably already know the Bayes theorem or stumble upon Naive Bayes when comparing machine learning models. Maybe, like me, you feel that you barely saw the shores of the continent that is the Bayesian land and want to set foot in it.  
 
 I wrote this article from a Stanford course with the intent for you to understand the relationships between all Bayesian concepts without having to go through an entire classroom (like I did).
-As a matter of readability, most of the maths are hidden in dropdowns. This way, you can follow the logic easily and come back to deep dive into formulas later.
+As a matter of readability, I hide most of the maths in dropdowns. This way, you can follow the logic easily and come back to deep dive into formulas later.
 
 We start with comparing frequentist and bayesian methods, before focusing on different distributions and conjugate families.
 
@@ -460,4 +460,4 @@ ________________________________________________________________________________
 # Next
 -----
 
-Thank you for reading, I hope this guide has been helpful for you so far. Now that you took a bit of crunchy Bayesians, we will spice things up in the [next article](https://vincent-maladiere.github.io/posts/2019/11/empirical-bayes-and-shrinkage/) with high-dimension. 
+Thank you for reading, I hope this guide has been helpful for you so far. Now that you took a bite of crunchy Bayesians, we will spice things up in the [next article](https://vincent-maladiere.github.io/posts/2019/11/empirical-bayes-and-shrinkage/) with high-dimension. 

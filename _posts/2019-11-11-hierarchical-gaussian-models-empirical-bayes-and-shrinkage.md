@@ -15,12 +15,12 @@ tags:
 # Quick Intro
 ------
 
-This article is the second of the Bayesian serie. Previous episode [here](https://vincent-maladiere.github.io/posts/2019/11/a-primer-on-bayes/). 
+This article is the second of the Bayesian series. Previous episode [here](https://vincent-maladiere.github.io/posts/2019/11/a-primer-on-bayes/). 
 
 You probably already know the Bayes theorem or stumble upon Naive Bayes when comparing machine learning models. Maybe, like me, you feel that you barely saw the shores of the continent that is the Bayesian land and want to set foot in it.  
 
 I wrote this article from a Stanford course with the intent for you to understand the relationships between all Bayesian concepts without having to go through an entire classroom (like I did).
-As a matter of readability, most of the maths are hidden in dropdowns. This way, you can follow the logic easily and come back to deep dive into formulas later.
+As a matter of readability, I hide most of the maths in dropdowns. This way, you can follow the logic easily and come back to deep dive into formulas later.
 
 So far we have dealt with Bayesian analysis of very simple models, mainly using conjugate priors, with few parameters to estimate. In the coin tossing example, we had just one parameter, the probability of heads. In the Gaussian model, we had two parameters, the mean $$\mu$$ and variance $$\sigma^2$$. However, in modern applications one typically must estimate many parameters, using more complicated hierarchical models.
 
@@ -114,7 +114,7 @@ $$\hat{\mu}^{(JS)}=(1-\frac{N-2}{||y||^2})\;y$$
 
 
 <details>
-<summary>We prove that the JS estimator has a larger risk than the Bayes estimator (indeed it must be), but it dominates the MLE everywhere if the dimension is large enough $$(N≥2)$$.</summary>
+<summary>We prove that the JS estimator has a larger risk than the Bayes estimator (indeed it must be), but it dominates the MLE everywhere if the dimension is large enough $(N≥2)$.</summary>
 <br>
 
 So we have
@@ -155,6 +155,17 @@ $$R(\mu,\hat{\mu}^{(JS)})=N-E_\mu[\frac{(N-2)^2}{S}]$$
 
 So the JS estimator dominates the MLE if $N≥2$. 
 
+________________________________________________________________________________
+</details>
+<br>
+
+So why one would use the MLE is high-dimension? Because:
+
+1. The JS estimator is biased, since the MLE is the minimum variance **unbiased** estimator (Rao-Blackwell theorem). So the JS reduces its variance but adds bias: good for point estimation but challenging for frequentist interval estimation. 
+2. The MLE is admissible in 1 and 2-dimensions, but even in higher dimensions, if we focus on a single "outlier" entry, the MLE has a better MSE (see why below) 
+
+<details>
+<br>
 However, high dimension, suppose we generate values from 
 
 $$y_i\;\sim\;N(\mu_i,1)\;for\;i=1,...,11$$
@@ -166,14 +177,6 @@ $$\mu_i=(5,-1,-0.75,...,0.75,1)$$
 For each simulation replicate, we estimate $\mu$ by the MLE and by JS. We find
 
 ![](https://vincent-maladiere.github.io/images/bayes_loss.png)
-</details>
-
-So why one would use the MLE is high-dimension? Because:
-
-1. The JS estimator is biased, since the MLE is the minimum variance **unbiased** estimator (Rao-Blackwell theorem). So the JS reduces its variance but adds bias: good for point estimation but challenging for frequentist interval estimation. 
-2. The MLE is admissible in 1 and 2-dimensions, but even in higher dimensions, if we focus on a single "outlier" entry, the MLE has a better MSE (see why below) 
-
-<details>
 <br>
 ________________________________________________________________________________
 </details>
@@ -188,7 +191,7 @@ Thus if our problem is
 
 $$y\;\sim\;N(\mu,I)\\\mu\;\sim\;N(0,\tau^2I)\\\tau^2\;\sim\;p(\tau^2)$$
 
-So now our problem is to estimate $$p(\tau^2)$$. Since we want to estimate $$\tau$$ from our data, we have to place an objective prior on $$\tau$$: $p(\tau^2)=1$
+So now our problem is to estimate $$p(\tau^2)$$. Since we want to estimate $$\tau^2$$ from our data, we have to place an objective prior on $$\tau^2$$: $p(\tau^2)=1$
 
 <details>
 <summary>So we compute the posterior of $\mu$ to find out that its posterior expectation is challenging to evaluate, although our initial model is simple.</summary>
@@ -201,7 +204,7 @@ Let's compute the posterior
 
 $$p(\mu,\tau^2|y)\propto p(y|\mu)p(\mu|\tau^2)p(\tau^2) = (2\pi)^{-N}e^{-\frac{1}{2}(y-\mu)'I(y-\mu)}(\tau^2)^{-N/2}e^{-\frac{1}{2}\mu'(\tau^2I)^{-1}\mu}\\=(2\pi)^{-N}(\tau^2)^{-N/2}e^{-\frac{1}{2}(\mu-(1+\tau^{-2})^{-1}y)'(1+\tau^{-2})I(\mu-(1+\tau^{-2})^{-1}y)}e^{-\frac{1}{2}y'(1-(1+\tau^2)^{-1}Iy)}$$
 
-See original paper for computation of each term.
+I spare you the ugly proof of this result, which would need an article in itself.
 ________________________________________________________________________________
 </details>
 <br>
@@ -218,7 +221,7 @@ Another choice is the half Cauchy prior on $$\tau$$
 
 $$p(\tau)\propto\frac{1}{1+\tau^2}$$
 
-We choose to have an *Inverse Gamma* prior on $$\tau*^2$$ and a Normal prior on $$m$$. 
+We choose to have an *Inverse Gamma* prior on $$\tau^2$$ and a Normal prior on $$m$$. 
 
 <details>
 <summary>We show that computing the posterior become very ugly</summary>
@@ -261,9 +264,11 @@ and then use
 
 $$\widehat{\mathbb{E}[log\,Y]}=\frac{1}{n}\sum^{n-1}_{j=0}log(\theta_j)$$
 
-If we could sample $Y \theta G$, it would be just ordinary Monte Carlo.
+If we could sample $Y \sim G$, it would be just ordinary Monte Carlo.
 
+________________________________________________________________________________
 </details>
+<br>
 
 A Markov chain is a sequence of random variable ignoring the whole history (independent) except for the last event:
 
@@ -278,8 +283,6 @@ $$X_n\in\{0,1\}\;and\;\alpha,\beta\in[0,1]\\X_n|(X_{n-1}=0)= \Bigg\{ \begin{arra
 so our transition matrix $K$ is
 
 $$K=\Bigg[ \begin{array}{cc}1-\alpha & \alpha\\ \beta & 1-\beta \end{array} \Bigg]$$
-
-/*See the original paper for full exemple on transition matrix for Markov Chain.*/
 
 In high dimension, $K$ is no longer a matrix but an operator mapping function. This way, the density
 
@@ -310,7 +313,9 @@ Thus if we could make the posterior our invariant distribution, we could sample 
 $$if\;X_0\;\sim\;\nu\;and\;X_n|X_{n-1}\;\sim\;K(X_{n-1},.),\;then\\\frac{1}{n}\sum^{n-1}_{k=0}\phi(X_k)\rightarrow^{n\rightarrow\infty\;i.p.}\int\phi(x)p(x)dx$$
 
 if $K$ has invariant density $p$. That means the empirical averages converge to expected value we are looking for.
+________________________________________________________________________________
 </details>
+<br>
 
 ## 2-2-1 Gibbs sampling
 
@@ -323,7 +328,8 @@ In Gibbs sampling the idea is to break the problem of sampling from the high-dim
 <br>
 The General MCMC algorithm is:
 
-1. find a $K$ with invariant distribution $$p(\theta|y)$$
+
+1. find a $K$ with invariant distribution $p(\theta|y)$
 2. start somewhere $X_0 \sim \nu$
 3. simulate forward a lot of steps
 4. throw out $B$ steps (burn-in, intermediary steps, far from the convergence)
@@ -333,7 +339,7 @@ Here steps 1 to 3 look like this:
 
 $$Initialize\;\theta^{(0)}\in R^{D}\;and\;number\;of\;sample\;N\\for\;i=0\;to\;N-1\\\;\;\;\;•\;\theta^{(i+1)}_0\sim\;p(\theta_1|\theta_2^{(i)},...,\theta^{(i)}_D)\\...\\\;\;\;\;•\;\theta^{(i+1)}_j\sim\;p(\theta_j|\theta_1^{(i+1)},...,\theta^{(i+1)}_{j-1},\theta^{(i)}_{j+1},...,\theta^{(i)}_D)\\...\\\;\;\;\;•\;\theta^{(i+1)}_D\sim\;p(\theta_D|\theta_1^{(i+1)},...,\theta^{(i+1)}_{D-1})\\return \;(\{\theta^{(i)}\}^{N-1}_{i=0})$$
 
-as this has the invariant distribution $p(\theta)$
+as this has the invariant distribution $p(\theta)$.
 
 Here is an application of Gibbs sampling to a Probit model:
 
@@ -347,12 +353,12 @@ thus
 
 $$z_i|y_i\;\sim\;\bigg\{\begin{array}{cc}N_{(0,\infty)}(\theta,1)\;if\;y_i=1\\N_{(-\infty,0]}(\theta,1)\;if\;y_i=0 \end{array}$$
 
-now if 
+now if $\theta\;\sim\;N(0,\tau^2)$ then $\theta|z\;\sim\;N(\frac{n\bar{z}}{\tau^{-2}+n},\frac{1}{\tau^{-2}+n})$
 
-$$\theta\;\sim\;N(0,\tau^2)\\then\;\theta|z\;\sim\;N(\frac{n\bar{z}}{\tau^{-2}+n},\frac{1}{\tau^{-2}+n})$$
-
-Thus, we can use Gibbs to do computations with this model. See Tanner and Wong (87), or Albert and Chib (1993) data-augmentation for more details.
+Thus, we can use Gibbs to do computations with this model. See [Tanner and Wong (87)](https://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf), or [Albert and Chib (1993) data-augmentation](http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf) for more details.
+________________________________________________________________________________
 </details>
+<br>
 
 A nice implementation can be found here:
 
@@ -362,9 +368,7 @@ A nice implementation can be found here:
 
 If one of the Gibbs conditionals is not conjugate, a Metropolis-Hasting step is used in the Gibbs iteration. 
 
-Here is an implementation: 
-
-[MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/)
+Here is an implementation: [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/)
 
 This new step ensure the transition kernel is reversible, which guarantee that the Markov chain converges to the correct invariant measure.
 
@@ -375,8 +379,9 @@ The core idea is to compute an acceptance ratio, which is the probability to jum
 <br>
 Suppose we want to sample from a density $f(x, a)M(a)$, with $M(a)$ normalising constant.
 
+
 1. Choose a proposal $Q(x, .)$ with density $q(x, y)$. For exemple $y \sim N(x, s)$
-2. At state $$n$$, propose new state:
+2. At state $n$, propose new state:
 
 $$X_n^*\;\sim\;Q(X_{n-1},.)$$
 
@@ -384,9 +389,7 @@ $$X_n^*\;\sim\;Q(X_{n-1},.)$$
 
 $$\alpha(X_{n-1},X_n^*)=min\bigg(1, \frac{f(X_n^*,a)q(X^*_n|X_{n-1})}{f(X_{n-1},a)q(X_{n-1}|X_n^*)}\bigg)$$
 
-4.    
-
-$$With\;probability\;\alpha,\;X_n=X_n^*,\;otherwise\;X_n=X_{n-1} \;with\;proba\;1-\alpha$$
+4.    With probability $\alpha$, $X_n=X_n^*$, otherwise $X_n=X_{n-1}$ with proba $1-\alpha$
 
 If we take the model 
 
@@ -421,7 +424,10 @@ $$\frac{1}{n^2}\sum^{n-1}_{i=0}\mathbb{V}[\phi(X_j)]=\frac{1}{n} \mathbb{V}[\phi
 To have convergence of the MSE, we would like an exponential decay of the covariance
 
 $$Cov(\phi(X_j),\phi(X_l))=\bar{\alpha}^{(j-l)}\;with\;\bar{\alpha}\in(0, 1)$$
+
+________________________________________________________________________________
 </details>
+<br>
 
 We can diagnosis convergence via:
 
@@ -443,9 +449,9 @@ where
 
 $$\sigma^2=\mathbb{V}[X_0]\sum^{\infty}_{j=0}Corr(X_0,X_j)$$
 
-We want to estimate 𝜎^2. 
+We want to estimate $\sigma^2$. 
 
-$$for\;batches\;b_n=n^{1/3}\;there\;are\;n-b_n\;such\;batches,\;and\\\hat{\sigma^2}=\frac{(n-1)b_n}{(n-b_n)(n-b_n-1)}\sum^{n-b_n-1}_{j=0}(\bar{X}_j(b_n)-\bar{X}_n)$$
+For batches $b_n=n^{1/3}$ there are $n-b_n$ such batches and $$\hat{\sigma^2}=\frac{(n-1)b_n}{(n-b_n)(n-b_n-1)}\sum^{n-b_n-1}_{j=0}(\bar{X}_j(b_n)-\bar{X}_n)$$
 
 where 
 
@@ -456,7 +462,10 @@ So the ESS is
 $$ESS=n\frac{\bar{\mathbb{V}}[X_0]}{\hat{\sigma}^2}$$
 
 In the special case of Monte Carlo, note $ESS = n$, but because of correlation in the Markov chain this might be much worse.
+
+________________________________________________________________________________
 </details>
+<br>
 
 ### 2-2-2-b Plotting Autocorrelation
 
@@ -476,13 +485,16 @@ $$\binom{y_A}{y_B}\;\sim\;N\bigg(\binom{\mu_A}{\mu_B}, \Big[\begin{array}{cc}\Si
 then the conditionals mean and variance are given by
 
 $$\mu^*=\mu_A+\Sigma_{AB}\Sigma_{BB}^{-1}(y_B-\mu_B)\\\Sigma^*=\Sigma_{AA}-\Sigma_{AB}\Sigma_{BB}^{-1}\Sigma_{BA}$$
+
+________________________________________________________________________________
 </details>
+<br>
 
 
 ### 2-2-2-c Comparison
 
 <details>
-<summary>We run multiple choices and compare them using the *Gelman-Rubin* diagnostic. 
+<summary>We run multiple choices and compare them using the *Gelman-Rubin* diagnostic.</summary> 
 <br>
 The Gelman-Rubin diagnostic is 
 
@@ -498,7 +510,9 @@ $$W=\frac{1}{m}\sum_{i=1}^m \bigg(\frac{1}{n-1}\sum^n_{j=1}x_{ij}-\bar{x}_i\bigg
 and take the estimated variance to be 
 
 $$\hat{\sigma}^2_+=\frac{n-1}{n}W+\frac{B}{n}$$
+________________________________________________________________________________
 </details>
+<br>
 
 However the shortcomings of this idea is to only consider the effect of auto-correlations for the identity function. 
 
@@ -536,9 +550,12 @@ $$X\sim f \\W|X\sim U(0,f(X))$$
 
 - If $W < g(X)$ output $(X, X)$
 - else sample $Y \sim g$ and take $W|Y \sim U(0, g(Y))$ until $W > f(Y)$ and output $(X, Y)$
-</details>
 
+________________________________________________________________________________
+</details>
 <br>
+<br>
+
 # 2-3 Nontrivial models
 -----
 
