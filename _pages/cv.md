@@ -35,7 +35,3 @@ My research interests include Human-Computer Interaction (HCI), 3D graphics and 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-## Awards
-* **III Call of prizes destinated to Final Degree Projects**.
-  Second prize granted by Caja Rural Catilla La Mancha in the branch of knowledege of Architecture and Engineering to the best Final Degree Projects.
