@@ -406,9 +406,9 @@ The Likelihood is
 
 $$p({x}|\mu,\sigma^2)=(2\pi\sigma^2)^{-N/2}exp(-\frac{1}{2}\frac{\sum^N_{i=1}(x_i-\mu)^2}{2\sigma^2})$$
 
-if $$\mu$$ is fixed, it has the form of a Gamma distribution for the parameter $$\sigma^{-2}$$
+if $\mu$ is fixed, it has the form of a Gamma distribution for the parameter $\sigma^{-2}$
 
-So the prior on $$\sigma^{-2}$$ is an inverse Gamma distribution
+So the prior on $\sigma^{-2}$ is an inverse Gamma distribution
 
 $$p(\sigma^2)\propto(\sigma^2)^{-a-1}e^{-\frac{b}{\sigma^2}}$$
 
