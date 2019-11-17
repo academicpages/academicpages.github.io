@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- 
 
 
 This is the home page of Max Chen, hope you enjoy exploring here.          
