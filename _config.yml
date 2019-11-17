@@ -6,15 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Toronto, CA"
-title                    : "Max Chen"
+locale                   : "Toronto-CA"
+title                    : "Page of Max Chen"
 title_separator          : "-"
 name                     : &name "Max Chen"
-description              : &description "Undergrad at University of Toronto"
-url                      : https://maxgniluynehc.github.io/ 
-# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # "" # the subpath of your site, e.g. "/blog"
-repository               : "maxgniluynehc.github.io/"
+description              : &description "personal description"
+url                      : https://maxgniluynehc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "maxgniluynehc/maxgniluynehc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -26,11 +25,11 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               :  # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -58,8 +57,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
- username                 : #&twitter
- facebook:
+  username               : &twitter
+facebook:
   username               :
   app_id                 :
   publisher              :
@@ -83,13 +82,13 @@ analytics:
 author:
   name             : "Max Chen"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : #"Location"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "maxgniluynehc"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -193,25 +192,23 @@ collections:
 # Defaults
 defaults:
   # _posts
-  #- scope:
-  #    path: ""
-  #    type: posts
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    read_time: true
-  #    comments: true
-  #    share: true
-  #    related: true
-  
-  # _notes
   - scope:
       path: ""
-      type: notes
+      type: posts
     values:
       layout: single
       author_profile: true
-      
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -221,35 +218,32 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  
   # _publications
-  #- scope:
-  #    path: ""
-  #    type: publications
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
-  
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
-  
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
-  #- scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
