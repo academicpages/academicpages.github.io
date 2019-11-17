@@ -206,7 +206,15 @@ defaults:
       comments: true
       share: true
       related: true
-      
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+                
  # _notes
   - scope:
       path: ""
@@ -217,14 +225,7 @@ defaults:
       read_time: true
       share: true
       related: true
-      
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+   
  
   # _teaching
   - scope:
@@ -235,6 +236,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      
   # _publications
   - scope:
       path: ""
@@ -244,6 +246,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      
   # _portfolio
   - scope:
       path: ""
