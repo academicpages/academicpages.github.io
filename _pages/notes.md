@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "notes"
+title: "Notes"
 permalink: /notes/
 author_profile: true
 ---
