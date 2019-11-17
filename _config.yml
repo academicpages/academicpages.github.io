@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -178,15 +178,19 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+    
+  notes:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #publications:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  # permalink: /:collection/:path/
 
 
 # Defaults
@@ -202,6 +206,18 @@ defaults:
       comments: true
       share: true
       related: true
+      
+ # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      
   # _pages
   - scope:
       path: ""
@@ -209,6 +225,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+ 
   # _teaching
   - scope:
       path: ""
