@@ -8,12 +8,13 @@
 # Site Settings
 locale                   : "Toronto, CA"
 title                    : "Max Chen"
+title_separator          : "-"
 name                     : &name "Max Chen"
 description              : &description "Undergrad at University of Toronto"
-url                      : "https://maxgniluynehc.github.io/" 
+url                      : https://maxgniluynehc.github.io/ 
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
-repository               : "https://maxgniluynehc.github.io/"
+repository               : "maxgniluynehc.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +32,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : "light" # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
