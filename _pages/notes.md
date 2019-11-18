@@ -13,12 +13,11 @@ The followings are the notes of Max Chen, all of which are taken either during l
 Ultimately, please do NOT attempt to make a profit from any of these works, and please respect the intellectual properties of those professors, authors, and the writer. Thank you and enjoy reading!      
 
 
-
-{% include base_path %}
-
-{% for post in site.notes reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## STA261 
+Course: Intro to Statistics       
+Taught by: Alex Stringer        
+Semeter: Winter 2017          
+Notes: [STA261](https://maxgniluynehc.github.io/_pages/STA261.md)
 
 
 
