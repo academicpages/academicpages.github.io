@@ -10,13 +10,15 @@ redirect_from:
 
 
 ## EDUCATION HISTORY
-**University of Toronto**                                   2016/09-2020/06                             
+**University of Toronto**                                   
+2016/09-2020/06                              
 Major in Specialist of Statistics, Specialist of Math Application in Finance and Economics               
-Cumulative GPA 3.93/4.0 ;           
+Cumulative GPA 3.93/4.0 ;            
 Program Length: 4 Years	            
 
-**Yantai No.2 Middle School**                               2013/09-2016/06
-Senior High school studies.            
+**Yantai No.2 Middle School**                                
+2013/09-2016/06         
+Senior High school studies.             
 
 ## ACADEMICS
 **From Reinforcement Learning to Stock Trading** (2019)           
