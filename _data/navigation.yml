@@ -1,108 +1,19 @@
 # main links links
-#main:
-#  - title: "Notes"
-#    icon: fa-book
-#    url: /notes/
+main:
+  - title: "Notes"
+    icon: fa-book
+    url: /notes/
 
-#  - title: "Teaching"
-#    icon: fa-pen
-#    url: /teaching/    
+  - title: "Teaching"
+    icon: fa-pen
+    url: /teaching/    
    
-#  - title: "CV"
-#    icon: fa-car
-#    url: /cv/
+  - title: "CV"
+    icon: fa-car
+    url: /cv/
     
-#  - title: "Attribution"
-#    icon: fa-heart
-#    url: /markdown/
+  - title: "Attribution"
+    icon: fa-heart
+    url: /markdown/
     
     
- navbar:
-  title: Max Chen
-  left:
-    - text: Home
-      icon: fa-home
-      href: index.html
-      
-    - text: Teaching
-      icon: fa-university
-      menu:
-      - text: STA130 - Intro to Data Science Fall 2019
-        icon: fa-book
-        href: STA130F19.html
-        
-      - text: STA314 - Machine Learning I Fall 2019
-        icon: fa-book
-        href: STA314F19.html
-        
-      - text: STA220 - The Practice of Statistics I Summer 2019
-        icon: fa-book
-        href: STA220.html
-        
-      - text: STA314 - Machine Learning I Fall 2018
-        icon: fa-book
-        href: STA314.html
-        
-
-        
-    - text: Course Work
-      icon: fa-book
-      menu:
-      - text: Coursework Summary
-        icon: fa-book
-        href: Coursework_Summary.html
-      
-      - text: STA410 - Computational Statistics - Assignment 1
-        icon: fa-code
-        href: STA410_A1.html
-        
-      - text: STA410 - Computational Statistics - Assignment 2
-        icon: fa-code
-        href: STA410_A2.html
-        
-      - text: STA410 - Computational Statistics - Assignment 3
-        icon: fa-code
-        href: STA410_A3.html
-        
-      - text: STA410 - Computational Statistics - Assignment 4
-        icon: fa-code
-        href: STA410_A4.html
-        
-      - text: STA447 - Stochastic Processes - Assignment 2
-        icon: fa-code
-        href: STA447_A2.html        
-      
-      - text: STA490 - Stats Consulting and Collaboration
-        icon: fa-code
-        href: STA_490_ReactionTimes_Project.html
-    
-    - text: Personal Projects
-      icon: fa-pencil
-      menu:
-      - text: ASNA2019 Case Competition
-        icon: fa-code
-        href: ASNA2019CC_datacreation.html
-        
-      - text: Kaggle Competitions
-        icon: fa-code
-        href: Kaggle.html
-    
-    - text: Resources
-      icon: fa-code
-      menu:
-      - text: RStudio / R resources
-        icon: fa-book
-        href: RResources.html
-        
-      - text: General Statistics resources
-        icon: fa-book
-        href: StatsResources.html
-        
-  right:
-    - text: About me
-      icon: fa-info
-      href: about.html
-      
-    - text: Resume
-      icon: fa-file-pdf-o
-      href: resume.pdf
