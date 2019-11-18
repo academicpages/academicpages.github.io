@@ -1,13 +1,17 @@
 # main links links
 main:
   - title: "Notes"
+    icon: fa-book
     url: /notes/
 
   - title: "Teaching"
+    icon: fa-pen
     url: /teaching/    
     
   - title: "CV"
+    icon: fa-car
     url: /cv/
     
-  - title: "Guide"
+  - title: "Attribution"
+    icon: fa-heart
     url: /markdown/
