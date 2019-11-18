@@ -85,7 +85,8 @@ Skills: Python, R, Rmarkdown, Microsoft Office. Presentation and public speaking
 Hobbies: Traditional Chinese Martial Art, Work out, Skiing, Ping Pong, Horse-riding and Hiking.
 
 
-$\star$ Electrontic Version of my CV: [CV of Max Chen](https://maxgniluynehc.github.io/pages/CV of Max Chen.pdf)
+
+Electrontic Version of my CV: [CV of Max Chen](https://maxgniluynehc.github.io/pages/CV_of_MaxChen.pdf)
 
 
   
