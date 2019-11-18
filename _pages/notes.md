@@ -17,7 +17,7 @@ Ultimately, please do NOT attempt to make a profit from any of these works, and 
 Course: Intro to Statistics       
 Taught by: Alex Stringer        
 Semeter: Winter 2017          
-Notes: [STA261](https://maxgniluynehc.github.io/_pages/STA261.md)
+Notes: [STA261](https://maxgniluynehc.github.io/notes/STA261_Review.pdf)
 
 
 
