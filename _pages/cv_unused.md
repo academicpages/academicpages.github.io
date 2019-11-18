@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 ## EDUCATION HISTORY
 **University of Toronto**                                   2016/09-2020/06                             
@@ -85,10 +85,7 @@ Skills: Python, R, Rmarkdown, Microsoft Office. Presentation and public speaking
 Hobbies: Traditional Chinese Martial Art, Work out, Skiing, Ping Pong, Horse-riding and Hiking.
 
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+$\star$ Electrontic Version of my CV: [CV of Max Chen](https://maxgniluynehc.github.io/pages/CV of Max Chen.pdf)
 
 
   
