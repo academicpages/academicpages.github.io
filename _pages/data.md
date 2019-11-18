@@ -47,7 +47,7 @@ author_profile: true
 
 ## Other Databases I am Working On Now
 #### Social Media Data on SP1500 Firms.
-#### Shareolder and Social Activism Database for Chinese Publicly Traded Firms based on Social Media Texts, Images, and Videos.
+#### Shareholder and Social Activism Database for Chinese Publicly Traded Firms based on Social Media Texts, Images, and Videos.
 #### Social Movement Organizations in Politics: Matching Over 10,000 SMOs with FEC Donation Database.
 #### Social Movement Organizations on Social Media: Matching Over 10,000 SMOs with Facebook and Twitter Data.
 
