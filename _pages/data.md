@@ -17,13 +17,14 @@ author_profile: true
 #### School Segregation or desegregation state and federal court cases data.
 #### School segregation or desegregation NYT news articles data.
 
-## Dynamic of Collective Action Project NYT Coverage Data
-#### Textual news article data for social movement analysis constructed from matching DoCA news title with NYT artile titles. 
+## The Dynamics of Collective Action Project NYT Coverage Data
+#### News article data for social movement analyses constructed from matching [DoCA](http://web.stanford.edu/group/collectiveaction/) news titles with NYT article titles. 
+#### Note that the original DoCA project does not provide any texual data on protest events.
 
 ## Data for NSF Funded Project--Social Movement Impact on Policy Outcomes
-#### Social Scientists before Congress [Codebook](https://yongjunzhang.com/files/codebook.pdf)
+#### A Side Product: Social Scientists before Congress [Codebook](https://yongjunzhang.com/files/codebook.pdf)
 
-## Longitudinal Corporate Elite and Employee Contributor Database (LCEECD)**
+## Longitudinal Corporate Elites and Employees Contributor Database (LCEECD)**
 #### This big dataset contains all itemized donations made by SP1500 corporate CEOs, top management teams, boards of directors, and senior managers as well as employees in federal elections from 2000-2018.
 #### LCEECD allows scholars to contruct a two-mode network between donors and recipients. Scholars can also transform this two-mode network to donor- or recipient-centric networks.
 
@@ -43,6 +44,12 @@ author_profile: true
 
 ## SP1500 Firms EEOC Lawsuits Database
 #### This database includes all Equal Employment Opportunity Commission's lawsuits against SP1500 firms.
+
+## Other Databases I am Working On Now
+#### Social Media Data on SP1500 Firms.
+#### Shareolder and Social Activism Database for Chinese Publicly Traded Firms based on Social Media Texts, Images, and Videos.
+#### Social Movement Organizations in Politics: Matching Over 10,000 SMOs with FEC Donation Database.
+#### Social Movement Organizations on Social Media: Matching Over 10,000 SMOs with Facebook and Twitter Data.
 
 ## Replication Codes
 #### Webscraper for ProQuest Newsstand Database (Just for the frequency)
