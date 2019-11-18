@@ -16,4 +16,8 @@ main:
     icon: fa-heart
     url: /markdown/
     
+  - title: "Resources"
+    icon: fa-book
+    url: /resources/
+    
     
