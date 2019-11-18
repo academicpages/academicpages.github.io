@@ -12,9 +12,9 @@ main:
     icon: fa-car
     url: /cv/
     
-  - title: "Attribution"
+  - title: "Acknowledgement"
     icon: fa-heart
-    url: /attribution/
+    url: /acknowledgement/
     
   - title: "Resources"
     icon: fa-book
