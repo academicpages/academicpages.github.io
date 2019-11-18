@@ -225,7 +225,17 @@ defaults:
       read_time: true
       share: true
       related: true
-   
+      
+ # _ackowledgement
+  - scope:
+      path: ""
+      type: ackowledgement
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
  
   # _teaching
   - scope:
