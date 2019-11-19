@@ -60,19 +60,22 @@ $$E[||\mu-\hat{\mu}||^2_2]=\sum^N_{i=1}E[(\mu_i-\hat{\mu}_i)^2]=\sum^N_{i=1}E[(\
 since the $y_i$ are all independent normals with mean $\mu_i$ and variance $1$.
  
 
+<br>
 • Bayesian:
 
 The Bayes estimator of each $\mu_i$ is
 
 $$E[\mu_i|y,m,\tau^2]=\frac{y_i}{1+\tau^{-2}}$$
 
-This is given by the following theorem, when we consider $m=0$
+This is given by the following theorem, when we consider $m=0$.
 
+<br>
 $y \sim N(\mu, \Sigma)$ and $\mu \sim N(m, \Psi)$ then 
 
 $$y|\mu \sim N(V\xi, V)$$
 
 where $V = (\Psi^{-1}+\Sigma^{-1})^{-1}$, $\xi = (\Psi^{-1}m + \Sigma^{-1}y)$
+<br>
 
 So the posterior means shrinks the MLE. Let's compute the frequentist risk of this estimator, which is needed to obtain the Bayes risk.
 
@@ -108,11 +111,11 @@ $$\bar{R}=\int \int L(\theta,\delta(y))p(y|\theta)p(\theta|\xi)dyd\theta=E_{\xi}
 
 Where $$\xi$$ are prior hyperparameters. However frequentists don't use prior, so instead we can use admissibility and minimax.
 
-An estimator $$\delta$$ is inadmissible if there exists another estimator $$\delta$$ for which:
+An estimator $$\delta^*$$ is inadmissible if there exists another estimator $$\delta$$ for which:
 
 $$R(\theta,\delta)\leq R(\theta,\delta^*)$$
 
-So an estimator is admissible if it is not inadmissible. $$\delta$$ dominate $$\delta$$ if $$R(\theta,\delta)≤R(\theta,\delta)$$ for every $$\theta$$.
+So an estimator is admissible if it is not inadmissible. $$\delta$$ dominate $$\delta^*$$ if $$R(\theta,\delta)≤R(\theta,\delta^*)$$ for every $$\theta$$.
 
 ## 2-1-3 The James-Stein estimator
 
@@ -136,7 +139,7 @@ $$y\;\sim\;N(0,(1+\tau^2)I).$$
 
 Thus
 
-$$S=||y||^2 \implies S\;\sim\;N(\tau^2+1)\chi^2_N $$
+$$S=||y||^2 \implies S\;\sim\;(\tau^2+1)\chi^2_N $$
 
 where $\chi^2_N$ has N degrees of freedom and
 
@@ -150,9 +153,10 @@ the integrated risk of our JS estimator is
 
 $$R(\mu,\hat{\mu}^{(JS)})=E_{\mu}[||\mu-\hat{\mu}^{(JS)}||^2]=E_{\mu}[||\mu-y-\frac{N-2}{S}y||^2]\\=...\\=N\frac{\tau^2}{\tau^2+1}+\frac{2}{\tau^2+1}$$
 
-See full proof [here](https://www.dpmms.cam.ac.uk/~qb204/teaching/princip_stat_17.pdf)
+See full proof [here](https://www.dpmms.cam.ac.uk/~qb204/teaching/princip_stat_17.pdf).
 
-This is larger than the Bayesian risk, found in [1.5], and we have
+
+This is larger than the Bayesian risk, found in 2-1-1, and we have
 
 $$\frac{\bar{R}^{(JS)}}{\bar{R}}=1+\frac{2}{N\tau^2}.$$
 
@@ -175,7 +179,7 @@ So why one would use the MLE is high-dimension? Because:
 
 <details>
 <br>
-However, high dimension, suppose we generate values from 
+In high dimension, suppose we generate values from 
 
 $$y_i\;\sim\;N(\mu_i,1)\;for\;i=1,...,11$$
 
@@ -183,7 +187,8 @@ We put
 
 $$\mu_i=(5,-1,-0.75,...,0.75,1)$$
 
-For each simulation replicate, we estimate $\mu$ by the MLE and by JS. We find
+For each simulation replicate, we estimate $\mu$ by the MLE and by JS. We find:
+
 
 ![](https://vincent-maladiere.github.io/images/bayes_loss.png)
 <br>
@@ -354,12 +359,12 @@ The General MCMC algorithm is:
 Here steps 1 to 3 look like this:
 
 $$Initialize\;\theta^{(0)}\in R^{D}\;and\;number\;of\;sample\;N$$
-$$for\;i=0\;to\;N-1$$
-$$\indent •\;\theta^{(i+1)}_0\sim\;p(\theta_1|\theta_2^{(i)},...,\theta^{(i)}_D)$$
-$$\indent ...$$
-$$\indent •\;\theta^{(i+1)}_j\sim\;p(\theta_j|\theta_1^{(i+1)},...,\theta^{(i+1)}_{j-1},\theta^{(i)}_{j+1},...,\theta^{(i)}_D)$$
-$$\indent ...$$
-$$\indent •\;\theta^{(i+1)}_D\sim\;p(\theta_D|\theta_1^{(i+1)},...,\theta^{(i+1)}_{D-1})$$
+$$for\;i=0\;to\;N-1:$$
+$$•\;\theta^{(i+1)}_0\sim\;p(\theta_1|\theta_2^{(i)},...,\theta^{(i)}_D)$$
+$$...$$
+$$•\;\theta^{(i+1)}_j\sim\;p(\theta_j|\theta_1^{(i+1)},...,\theta^{(i+1)}_{j-1},\theta^{(i)}_{j+1},...,\theta^{(i)}_D)$$
+$$...$$
+$$•\;\theta^{(i+1)}_D\sim\;p(\theta_D|\theta_1^{(i+1)},...,\theta^{(i+1)}_{D-1})$$
 $$return \;(\{\theta^{(i)}\}^{N-1}_{i=0})$$
 
 as this has the invariant distribution $p(\theta)$.
