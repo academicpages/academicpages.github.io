@@ -2,7 +2,7 @@
 title: "Suggestion Mining"
 collection: teaching
 type: "CSE5523: Machine Learning and Statistical Pattern Recognition "
-permalink: /teaching/suggesting-mining
+permalink: /research/suggesting-mining
 venue: "The Ohio State University"
 date: 2018-12-05
 location: "City, Country"

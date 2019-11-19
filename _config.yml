@@ -84,7 +84,7 @@ author:
   location         : "Columbus, OH, USA"
   employer         : 
   googlescholar    : 
-  email            : xin.jin0010@gmail.com
+  email            : jin.967@osu.edu
   uri              : 
   bitbucket        :
   codepen          :
@@ -206,7 +206,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true

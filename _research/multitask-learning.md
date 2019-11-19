@@ -2,7 +2,7 @@
 title: "Muti-task Learning"
 collection: teaching
 type: "FudanNLP Group "
-permalink: /teaching/multitask-learning
+permalink: /research/multitask-learning
 venue: "Fudan University"
 date: 2018-04-01
 location: "Shanghai, China"

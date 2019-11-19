@@ -10,13 +10,15 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am currently a first-year Ph.D student of [Department of Computer Science and Engineering](https://cse.osu.edu) at [The Ohio State University](https://www.osu.edu). My principal interests lie in system security and deep learning. 
+I am currently a second-year Ph.D student of [Department of Computer Science and Engineering](https://cse.osu.edu) at [The Ohio State University](https://www.osu.edu) (OSU). My principal interests lie in system security, deep learning, and natural language processing. I am working with [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/) and [Prof. Yinqian Zhang](http://web.cse.ohio-state.edu/~zhang.834/).
 
-Before coming OSU, I obtained my B.E. degree from [School of Electronics and Information](http://dianzi.nwpu.edu.cn/en/index.htm) at [Northwestern Polytechnical University](http://en.nwpu.edu.cn/index.htm), supervised by [Prof. Ruonan Zhang](http://dianzi.nwpu.edu.cn/info/1270/5979.htm). I also fortunately worked with [Prof. Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html) on NLP at Fudan University and [Prof. Zuqing Zhu](http://www.zuqingzhu.info) on Cloud Computing at University of Science and Technology of China.
+Before coming to OSU, I obtained my B.E. degree from [School of Electronics and Information](http://dianzi.nwpu.edu.cn/en/index.htm) at [Northwestern Polytechnical University](http://en.nwpu.edu.cn/index.htm) in 2017, supervised by [Prof. Ruonan Zhang](http://dianzi.nwpu.edu.cn/info/1270/5979.htm). I also fortunately worked with [Prof. Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html) on natural language processing at Fudan University and [Prof. Zuqing Zhu](http://www.zuqingzhu.info) on Cloud Computing at University of Science and Technology of China.
 
 For more details, please refer to my latest [resume](http://xinjin95.github.io/files/CV_XinJin.pdf) (01/2019) or my [LinkedIn](https://www.linkedin.com/in/xin-jin-889226174/) profile.
 
 # What's new
+*08/2019*, I joined in [Computer Security Lab (SecLab)](https://seclab.engineering.osu.edu/) at OSU. 
+
 *08/2018*, I started to pursue my Ph.D. degree at OSU CSE department and left FudanNLP lab, thanks for help from Prof. Xipeng Qiu, Dr. Xinchi Chen and colleagues in FudanNLP Group.
 
 *04/2018*, I started my intership at FudanNLP lab in Fudan University, using Multi-task learning on NLP. I left INFINITE lab at University of Science and Technology of China, thanks for helps from Prof. Zuqing Zhu, Dr. Wei Lu and colleagues in INFINITE lab.
