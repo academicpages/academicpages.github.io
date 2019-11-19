@@ -369,6 +369,7 @@ $$z_i|y_i\;\sim\;\bigg\{\begin{array}{cc}N_{(0,\infty)}(\theta,1)\;if\;y_i=1\\N_
 
 now if $\theta\;\sim\;N(0,\tau^2)$ then $\theta|z\;\sim\;N(\frac{n\bar{z}}{\tau^{-2}+n},\frac{1}{\tau^{-2}+n})$
 
+<br>
 Thus, we can use Gibbs to do computations with this model. 
 ________________________________________________________________________________
 </details>
@@ -415,6 +416,7 @@ the only parameter is $\tau$, so
 
 $$p(\tau|y)\propto p(y|\tau)p(\tau) \propto \bigg(\prod^n_{i=1}\frac{1}{\sqrt{}2\pi\sigma^2}e^{-y_i^2/2\tau^2} \bigg)\frac{1}{1+\tau^2}$$
 
+<br>
 Let's use MH. For $q(\tau, \tau*)$ take
 
 $$\tau^*\;\sim\;LogNormal(log\;\tau,s)$$
@@ -512,7 +514,7 @@ ________________________________________________________________________________
 ### 2-2-2-c Comparison
 
 <details>
-<summary>We run multiple choices and compare them using the *Gelman-Rubin* diagnostic.</summary> 
+<summary>We run multiple choices and compare them using the Gelman-Rubin diagnostic.</summary> 
 <br>
 The Gelman-Rubin diagnostic is 
 <br>
@@ -584,8 +586,17 @@ ________________________________________________________________________________
 
 ## 2-3-1 Linear regression
 
+We see in how Bayesian linear regression
+
+$$z_{N×1}=W_{N×d}\beta_{d×1}+\epsilon_{N×1}\\with\;\epsilon\sim N(0,\sigma^2I)$$
+
+easily leads to ridge estimate
+
+$$\hat{\beta}_{ridge}=\mathbb{E}[\beta|W,\sigma^2,z,\tau^2]=\Big(W^TW+\frac{1}{\tau^2}I\Big)^{-1}W^Tz$$
+
+where $z$ is the response, $W$ is the matrix, $\beta$ is the vector of regression coefficients, and $\epsilon$ is the vector of random error.
+
 <details>
-<summary>We see in how Bayesian linear regression</summary>
 <br>
 The usual least square estimate is 
 
@@ -624,14 +635,6 @@ ________________________________________________________________________________
 </details>
 <br>
 
-$$z_{N×1}=W_{N×d}\beta_{d×1}+\epsilon_{N×1}\\with\;\epsilon\sim N(0,\sigma^2I)$$
-
-easily leads to ridge estimate
-
-$$\hat{\beta}_{ridge}=\mathbb{E}[\beta|W,\sigma^2,z,\tau^2]=\Big(W^TW+\frac{1}{\tau^2}I\Big)^{-1}W^Tz$$
-
-where $z$ is the response, $W$ is the matrix, $\beta$ is the vector of regression coefficients, and $\epsilon$ is the vector of random error.
-
 ## 2-3-2 Tikhonov regularisation
 
 More generally we have *Tikhonov regularization*
@@ -647,9 +650,9 @@ We regularise because:
 
 <details>
 <summary>We see in that its much harder to get $A$ with Empirical Bayes than Full Bayes (in particular when $\beta$ doesn't follow a Normal distribution).</summary>
-<br>
-- Empirical Bayes
-
+<br><br>
+• Empirical Bayes
+    <br><br>
     We maximise the marginal likelihood (in term of $\tau^2$)
 
     $$p(z|W,\tau^2)$$
@@ -678,8 +681,9 @@ We regularise because:
 
     If $\beta$ were not coming from a Normal distribution, this problem could quickly become intractable (above all because $\beta$ is high-dimensional).
 
-- Full Bayes
-
+<br><br>
+Full Bayes
+    <br><br>
     To estimate $A$, we put a prior on $\tau$ . What possibilities?
 
     <br><br>
@@ -701,7 +705,9 @@ This can be done using Gibbs sampling
 $$\beta|\tau^2,\sigma^2,W,z\\\sigma^2|\tau^2,\beta,W,z\\\tau^2|\sigma^2,\beta^2$$
 
 The first two distribution are easy to sample from. The third distribution is well known and we can directly sample it with Metropolis-Hastings.
+________________________________________________________________________________
 </details>
+<br>
 
 ## 2-3-3 Conjugate prior
 
@@ -742,7 +748,9 @@ and we find that the posterior is still Normal InvGamma, but his mean has become
 $$\mu^*=\frac{g}{g+1}(W^TW)^{-1}W^Tz=\frac{g}{g+1}\hat{\beta}$$
 
 hence the shrinkage.
+________________________________________________________________________________
 </details>
+<br>
 
 ## 2-3-4 Bayesian variable selection
 
@@ -770,6 +778,7 @@ $$p[H_0|z]=\frac{1}{1+\frac{1-q}{q}\frac{p(z|H_1)}{p(z|H_0)}}$$
 We compute $p(z|H1)$ and $p(z|H0)$ to find the Bayes factor (see original paper)
 
 $$BF_{1:0}=\frac{p(z|H_1)}{p(z|H0)}=\frac{1}{\sqrt{\tau^2+1}}e^{\frac{1}{2}z^2_j(\frac{\tau^2}{\tau^2+1})}$$
+________________________________________________________________________________
 </details>
 
 
