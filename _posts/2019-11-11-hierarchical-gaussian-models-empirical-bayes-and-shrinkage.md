@@ -12,7 +12,7 @@ tags:
 
 [Work In Progress]
 
-# Quick Intro
+# A Quick Intro
 ------
 
 This article is the second of the Bayesian series. Previous episode [here](https://vincent-maladiere.github.io/posts/2019/11/a-primer-on-bayes/). 
@@ -61,6 +61,7 @@ since the $y_i$ are all independent normals with mean $\mu_i$ and variance $1$.
  
 
 <br>
+<br>
 • Bayesian:
 
 The Bayes estimator of each $\mu_i$ is
@@ -70,11 +71,9 @@ $$E[\mu_i|y,m,\tau^2]=\frac{y_i}{1+\tau^{-2}}$$
 This is given by the following theorem, when we consider $m=0$.
 
 <br>
-$y \sim N(\mu, \Sigma)$ and $\mu \sim N(m, \Psi)$ then 
+$$If y \sim N(\mu, \Sigma)\;and\;\mu \sim N(m, \Psi)\;then\;y|\mu \sim N(V\xi, V)$$
 
-$$y|\mu \sim N(V\xi, V)$$
-
-where $V = (\Psi^{-1}+\Sigma^{-1})^{-1}$, $\xi = (\Psi^{-1}m + \Sigma^{-1}y)$
+where $$V = (\Psi^{-1}+\Sigma^{-1})^{-1},\;\xi = (\Psi^{-1}m + \Sigma^{-1}y)$$
 <br>
 
 So the posterior means shrinks the MLE. Let's compute the frequentist risk of this estimator, which is needed to obtain the Bayes risk.
@@ -153,7 +152,6 @@ the integrated risk of our JS estimator is
 
 $$R(\mu,\hat{\mu}^{(JS)})=E_{\mu}[||\mu-\hat{\mu}^{(JS)}||^2]=E_{\mu}[||\mu-y-\frac{N-2}{S}y||^2]\\=...\\=N\frac{\tau^2}{\tau^2+1}+\frac{2}{\tau^2+1}$$
 
-See full proof [here](https://www.dpmms.cam.ac.uk/~qb204/teaching/princip_stat_17.pdf).
 
 
 This is larger than the Bayesian risk, found in 2-1-1, and we have
@@ -171,14 +169,14 @@ So the JS estimator dominates the MLE if $N≥2$.
 ________________________________________________________________________________
 </details>
 <br>
+See full proof [here](https://www.dpmms.cam.ac.uk/~qb204/teaching/princip_stat_17.pdf).
 
+<br>
 So why one would use the MLE is high-dimension? Because:
 
 1. The JS estimator is biased, since the MLE is the minimum variance **unbiased** estimator (Rao-Blackwell theorem). So the JS reduces its variance but adds bias: good for point estimation but challenging for frequentist interval estimation. 
-2. The MLE is admissible in 1 and 2-dimensions, but even in higher dimensions, if we focus on a single "outlier" entry, the MLE has a better MSE (see why below) 
+2. The MLE is admissible in 1 and 2-dimensions, but even in higher dimensions, if we focus on a single "outlier" entry, the MLE has a better MSE (see why below).
 
-<details>
-<br>
 In high dimension, suppose we generate values from 
 
 $$y_i\;\sim\;N(\mu_i,1)\;for\;i=1,...,11$$
@@ -189,12 +187,7 @@ $$\mu_i=(5,-1,-0.75,...,0.75,1)$$
 
 For each simulation replicate, we estimate $\mu$ by the MLE and by JS. We find:
 
-
 ![](https://vincent-maladiere.github.io/images/bayes_loss.png)
-<br>
-________________________________________________________________________________
-</details>
-<br>
 
 
 ## 2-1-4 Full Bayes inference
@@ -340,20 +333,13 @@ In Gibbs sampling the idea is to break the problem of sampling from the high-dim
 <br>
 The General MCMC algorithm is:
 
-
-1. Find a $K$ with invariant distribution $p(\theta|y)$.
-
-
-2. Start somewhere $X_0 \sim \nu$.
-
-
-3. Simulate forward a lot of steps.
-
-
-4. Throw out $B$ steps (burn-in, intermediary steps, far from the convergence).
-
-
-5. Average the rest.
+<ul>
+  <li>1. Find a $K$ with invariant distribution $p(\theta|y)$.</li>
+  <li>2. Start somewhere $X_0 \sim \nu$.</li>
+  <li>3. Simulate forward a lot of steps.</li>
+  <li>4. Throw out $B$ steps (burn-in, intermediary steps, far from the convergence).</li>
+  <li>5. Average the rest.</li>
+</ul>
 
 
 Here steps 1 to 3 look like this:
@@ -383,10 +369,11 @@ $$z_i|y_i\;\sim\;\bigg\{\begin{array}{cc}N_{(0,\infty)}(\theta,1)\;if\;y_i=1\\N_
 
 now if $\theta\;\sim\;N(0,\tau^2)$ then $\theta|z\;\sim\;N(\frac{n\bar{z}}{\tau^{-2}+n},\frac{1}{\tau^{-2}+n})$
 
-Thus, we can use Gibbs to do computations with this model. See [Tanner and Wong (87)](https://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf), or [Albert and Chib (1993) data-augmentation](http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf) for more details.
+Thus, we can use Gibbs to do computations with this model. 
 ________________________________________________________________________________
 </details>
 <br>
+See [Tanner and Wong (87)](https://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf), or [Albert and Chib (1993) data-augmentation](http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf) for more details.
 
 A nice implementation can be found here:
 
@@ -406,7 +393,8 @@ The core idea is to compute an acceptance ratio, which is the probability to jum
 <summary>We illustrates the algorithm here with an example and a measure of MSE to assess the quality of convergence.</summary>
 <br>
 Suppose we want to sample from a density $f(x, a)M(a)$, with $M(a)$ normalising constant.
-
+<br>
+<br>
 
 1. Choose a proposal $Q(x, .)$ with density $q(x, y)$. For exemple $y \sim N(x, s)$
 2. At state $n$, propose new state:
@@ -447,8 +435,10 @@ $$\mathbb{E}\Big[\Big(\frac{1}{n}\sum(\phi(X_k))-\mu\phi\Big)^2\Big]=\frac{1}{n}
 
 $$\frac{1}{n^2}\sum^{n-1}_{i=0}\mathbb{V}[\phi(X_j)]=\frac{1}{n} \mathbb{V}[\phi(X)]$$
 
-- If we start at $\nu=\mu$, then the bias would be $0$ but not the covariance
+- If we start at $\nu=\mu$, then the bias would be $0$ but not the covariance.
 
+<br>
+<br>
 To have convergence of the MSE, we would like an exponential decay of the covariance
 
 $$Cov(\phi(X_j),\phi(X_l))=\bar{\alpha}^{(j-l)}\;with\;\bar{\alpha}\in(0, 1)$$
@@ -525,8 +515,11 @@ ________________________________________________________________________________
 <summary>We run multiple choices and compare them using the *Gelman-Rubin* diagnostic.</summary> 
 <br>
 The Gelman-Rubin diagnostic is 
-
+<br>
+<br>
 1. run $m$ chains of length $2n$, starting over dispersed points, discard first $n$.
+<br>
+<br>
 2. compute the between variance
 
 $$\frac{B}{n}=\sum^m_{i=1}\frac{(\bar{x}_i-\bar{x})^2}{n-1}$$
@@ -576,8 +569,10 @@ For exemple take
 
 $$X\sim f \\W|X\sim U(0,f(X))$$
 
-- If $W < g(X)$ output $(X, X)$
-- else sample $Y \sim g$ and take $W|Y \sim U(0, g(Y))$ until $W > f(Y)$ and output $(X, Y)$
+<ul>
+  <li>If $W < g(X)$ output $(X, X)$</li>
+  <li>else sample $Y \sim g$ and take $W|Y \sim U(0, g(Y))$ until $W > f(Y)$ and output $(X, Y)$</li>
+</ul>
 
 ________________________________________________________________________________
 </details>
@@ -625,7 +620,9 @@ This is the usual ridge regression estimate, which solves
 $$\hat{\beta}_{ridge}=max_{\beta}-||W\beta-z||^2-\tau^{-2}||\beta||^2$$
 
 See original paper for computation optimisation using diagonalisation and Woodbury identity.
+________________________________________________________________________________
 </details>
+<br>
 
 $$z_{N×1}=W_{N×d}\beta_{d×1}+\epsilon_{N×1}\\with\;\epsilon\sim N(0,\sigma^2I)$$
 
@@ -646,10 +643,10 @@ where $A$ symmetric, positive definite.
 We regularise because:
 
 - Adding a bias may improve our estimation of a vector with more than 2 dimensions (see JS estimator)
-- When $$p > N$$, least square can't be done, but regularised solution can
+- When $p > N$, least square can't be done, but regularised solution can
 
 <details>
-<summary>We see in that its much harder to get $$A$$ with Empirical Bayes than Full Bayes (in particular when $$\beta$$ doesn't follow a Normal distribution).</summary>
+<summary>We see in that its much harder to get $A$ with Empirical Bayes than Full Bayes (in particular when $\beta$ doesn't follow a Normal distribution).</summary>
 <br>
 - Empirical Bayes
 
@@ -683,12 +680,17 @@ We regularise because:
 
 - Full Bayes
 
-    To estimate $A$, we put a prior on $\tau$ . What kind?
+    To estimate $A$, we put a prior on $\tau$ . What possibilities?
 
+    <br><br>
     1. Discrete Uniform on a set of grid points
+    <br><br>
     2. Uniform on an interval
+    <br><br>
     3. Half-Cauchy
+    <br><br>
     4. Inverse Gamma
+    <br><br>
 
     We use Half-Cauchy: it requires no hyperparameters and it is reasonably uninformative (it let the data speak for itself). The full model is:
 
