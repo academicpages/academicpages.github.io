@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Assistance of MAT135, University of Toronto     
+## Teaching Assistant of MAT135, University of Toronto     
 
 
 
