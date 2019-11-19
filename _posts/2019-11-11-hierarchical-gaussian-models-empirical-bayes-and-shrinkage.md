@@ -50,22 +50,31 @@ $$\mu_i\;\sim^{iid}\;N(m,\tau^2)$$
 <details>
 <summary>We compute the difference of risk between the frequentist MLE and the Bayes estimator</summary>
 <br>
-- Frequentist
+• Frequentist:
+
 
 The risk of the MLE ($y_i$) is the expectation of its squared error loss
 
 $$E[||\mu-\hat{\mu}||^2_2]=\sum^N_{i=1}E[(\mu_i-\hat{\mu}_i)^2]=\sum^N_{i=1}E[(\mu_i-y_i)^2]=N$$
 
-since the $y_i$ are all independent normals with mean $\mu_i$ and variance $1$
+since the $y_i$ are all independent normals with mean $\mu_i$ and variance $1$.
  
 
-- Bayesian
+• Bayesian:
 
 The Bayes estimator of each $\mu_i$ is
 
 $$E[\mu_i|y,m,\tau^2]=\frac{y_i}{1+\tau^{-2}}$$
 
-Proof in the original paper. So the posterior means shrinks the MLE. Let's compute the frequentist risk of this estimator, which is needed to computing the Bayes risk.
+This is given by the following theorem, when we consider $m=0$
+
+$y \sim N(\mu, \Sigma)$ and $\mu \sim N(m, \Psi)$ then 
+
+$$y|\mu \sim N(V\xi, V)$$
+
+where $V = (\Psi^{-1}+\Sigma^{-1})^{-1}$, $\xi = (\Psi^{-1}m + \Sigma^{-1}y)$
+
+So the posterior means shrinks the MLE. Let's compute the frequentist risk of this estimator, which is needed to obtain the Bayes risk.
 
 $$E(\frac{y_i}{1+\tau^2}-\mu_i)^2=var(\frac{y_i\tau^2}{1+\tau^2})+bias^2(\frac{y_i\tau^2}{1+\tau^2})=\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}$$
 
@@ -294,9 +303,7 @@ $$\int p(x)k(x,y)dx=\bar{p}(y)$$
 
 How can we use Markov Chain to compute expectations with respect to the posterior?
 
-Some $K$ have an invariant distribution:
-
-$\mu K=\mu$
+Some $K$ have an invariant distribution: $\mu K=\mu$.
 
 If $\mu$ has density $p$, this means
 
@@ -306,7 +313,7 @@ If the invariant measure $\mu$ exists and is unique then
 
 $$\lim_{n \rightarrow \infty}\nu K^n=\mu$$
 
-if we start at the state $\nu$, the distribution will look more and more like the invariant distribution. 
+If we start at the state $\nu$, the distribution will look more and more like the invariant distribution. 
 
 Thus if we could make the posterior our invariant distribution, we could sample from it using Markov chains:
 
@@ -329,15 +336,31 @@ In Gibbs sampling the idea is to break the problem of sampling from the high-dim
 The General MCMC algorithm is:
 
 
-1. find a $K$ with invariant distribution $p(\theta|y)$
-2. start somewhere $X_0 \sim \nu$
-3. simulate forward a lot of steps
-4. throw out $B$ steps (burn-in, intermediary steps, far from the convergence)
-5. average the rest
+1. Find a $K$ with invariant distribution $p(\theta|y)$.
+
+
+2. Start somewhere $X_0 \sim \nu$.
+
+
+3. Simulate forward a lot of steps.
+
+
+4. Throw out $B$ steps (burn-in, intermediary steps, far from the convergence).
+
+
+5. Average the rest.
+
 
 Here steps 1 to 3 look like this:
 
-$$Initialize\;\theta^{(0)}\in R^{D}\;and\;number\;of\;sample\;N\\for\;i=0\;to\;N-1\\\;\;\;\;•\;\theta^{(i+1)}_0\sim\;p(\theta_1|\theta_2^{(i)},...,\theta^{(i)}_D)\\...\\\;\;\;\;•\;\theta^{(i+1)}_j\sim\;p(\theta_j|\theta_1^{(i+1)},...,\theta^{(i+1)}_{j-1},\theta^{(i)}_{j+1},...,\theta^{(i)}_D)\\...\\\;\;\;\;•\;\theta^{(i+1)}_D\sim\;p(\theta_D|\theta_1^{(i+1)},...,\theta^{(i+1)}_{D-1})\\return \;(\{\theta^{(i)}\}^{N-1}_{i=0})$$
+$$Initialize\;\theta^{(0)}\in R^{D}\;and\;number\;of\;sample\;N$$
+$$for\;i=0\;to\;N-1$$
+$$\indent •\;\theta^{(i+1)}_0\sim\;p(\theta_1|\theta_2^{(i)},...,\theta^{(i)}_D)$$
+$$\indent ...$$
+$$\indent •\;\theta^{(i+1)}_j\sim\;p(\theta_j|\theta_1^{(i+1)},...,\theta^{(i+1)}_{j-1},\theta^{(i)}_{j+1},...,\theta^{(i)}_D)$$
+$$\indent ...$$
+$$\indent •\;\theta^{(i+1)}_D\sim\;p(\theta_D|\theta_1^{(i+1)},...,\theta^{(i+1)}_{D-1})$$
+$$return \;(\{\theta^{(i)}\}^{N-1}_{i=0})$$
 
 as this has the invariant distribution $p(\theta)$.
 
