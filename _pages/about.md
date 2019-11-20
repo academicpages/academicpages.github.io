@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abigail lee"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from the University of Pennsylvania where I received my B.A. in Physics, with a concentration in Astrophysics. This Fall, I will be starting my Ph.D. in Astronomy & Astrophysics at the University of Chicago. 
+I'm a first-year Ph.D. student in the UChicago Department of [Astronomy & Astrophysics](https://astrophysics.uchicago.edu/). My current advisor is [Wendy Freedman](https://astrophysics.uchicago.edu/people/profile/wendy-l.-freedman/). 
 
-At Penn, I worked with Gary Bernstein, where my research primarily focused on developing statistical techniques for reconstructing information (such as the power spectrum or the dark matter density field) from large-scale galaxy and lensing survey data. 
+I was an undergrad at [Penn](https://www.physics.upenn.edu/), where I worked with [Gary Bernstein](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/gary-bernstein) on developing statistical techniques for reconstructing information from galaxy and lensing surveys. I graduated with a B.A. in Physics in 2019. 
 
-In my free time, I love to play soccer, run, and watch Game of Thrones (excluding season 8)! 
 
+
+Contact Me
+======
+Email: abbyl@uchicago.edu \\
+Office: 5640 S Ellis Ave, Chicago, IL 60637
