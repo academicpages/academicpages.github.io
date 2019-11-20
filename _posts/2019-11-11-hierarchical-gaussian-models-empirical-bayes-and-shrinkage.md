@@ -10,8 +10,6 @@ tags:
   - Metropolis-Hastings 
 ---
 
-[Work In Progress]
-
 # A Quick Intro
 ------
 
@@ -70,15 +68,15 @@ $$E[\mu_i|y,m,\tau^2]=\frac{y_i}{1+\tau^{-2}}$$
 
 This is given by the following theorem, when we consider $m=0$.
 
-<br>
-$$If y \sim N(\mu, \Sigma)\;and\;\mu \sim N(m, \Psi)\;then\;y|\mu \sim N(V\xi, V)$$
+<br><br>
+If $y \sim N(\mu, \Sigma)$ and $mu \sim N(m, \Psi)$ then $y|\mu \sim N(V\xi, V)$.
 
-where $$V = (\Psi^{-1}+\Sigma^{-1})^{-1},\;\xi = (\Psi^{-1}m + \Sigma^{-1}y)$$
+Where $$V = (\Psi^{-1}+\Sigma^{-1})^{-1},\;\xi = (\Psi^{-1}m + \Sigma^{-1}y)$$
 <br>
 
 So the posterior means shrinks the MLE. Let's compute the frequentist risk of this estimator, which is needed to obtain the Bayes risk.
 
-$$E(\frac{y_i}{1+\tau^2}-\mu_i)^2=var(\frac{y_i\tau^2}{1+\tau^2})+bias^2(\frac{y_i\tau^2}{1+\tau^2})=\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}$$
+$$E(\frac{y_i\tau^2}{1+\tau^2}-\mu_i)^2=var(\frac{y_i\tau^2}{1+\tau^2})+bias^2(\frac{y_i\tau^2}{1+\tau^2})=\frac{\tau^4}{(1+\tau^2)^2}+\frac{\mu_i^2}{(1+\tau^2)^2}$$
 
 So the Bayes risk of this estimator is 
 
@@ -166,10 +164,10 @@ $$R(\mu,\hat{\mu}^{(JS)})=N-E_\mu[\frac{(N-2)^2}{S}]$$
 
 So the JS estimator dominates the MLE if $N≥2$. 
 
+See full proof <a href="https://www.dpmms.cam.ac.uk/~qb204/teaching/princip_stat_17.pdf">here.</a>
 ________________________________________________________________________________
 </details>
 <br>
-See full proof [here](https://www.dpmms.cam.ac.uk/~qb204/teaching/princip_stat_17.pdf).
 
 <br>
 So why one would use the MLE is high-dimension? Because:
@@ -371,10 +369,11 @@ now if $\theta\;\sim\;N(0,\tau^2)$ then $\theta|z\;\sim\;N(\frac{n\bar{z}}{\tau^
 
 <br>
 Thus, we can use Gibbs to do computations with this model. 
+
+See <a href="https://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf">Tanner and Wong (87)</a> or <a href="http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf">Albert and Chib (1993) data-augmentation</a> for more details.
 ________________________________________________________________________________
 </details>
 <br>
-See [Tanner and Wong (87)](https://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf), or [Albert and Chib (1993) data-augmentation](http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf) for more details.
 
 A nice implementation can be found here:
 
@@ -682,7 +681,7 @@ We regularise because:
     If $\beta$ were not coming from a Normal distribution, this problem could quickly become intractable (above all because $\beta$ is high-dimensional).
 
 <br><br>
-Full Bayes
+• Full Bayes
     <br><br>
     To estimate $A$, we put a prior on $\tau$ . What possibilities?
 
