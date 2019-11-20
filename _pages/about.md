@@ -16,5 +16,5 @@ I was an undergrad at [Penn](https://www.physics.upenn.edu/), where I worked wit
 
 Contact Me
 ======
-Email: abbyl@uchicago.edu \\
+Email: abbyl_at_uchicago.edu \\
 Office: 5640 S Ellis Ave, Chicago, IL 60637
