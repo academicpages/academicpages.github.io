@@ -54,7 +54,7 @@ Awards
 ======
 * 2019, CASIA "Climbing" Second-Class Scholarship, CASIA
 * 2019, AAAI Student Scholarship, AAAI
-* 2018 & 2019, SIGIR Student Travel Grant, ACM SIGIR
+* 2018 & 2019, SIGIR Student Travel Grants, ACM SIGIR
 * 2016, Outstanding Graduate Award, Wuhan University
 * 2015, Chinese Academy of Sciences Scholarship for College Students (reward top 10% students with postgraduate recommendation), University of Chinese Academy of Sciences
 * 2015, First Prize in the 10th Freescale Cup Smart Car Competition (Magnetic Navigation Double-Car Group), Teaching Steering Committee on Automation, Department of Higher Education under the Ministry of Education
