@@ -37,7 +37,9 @@ df.describe()
 >>>
 ``
     this is supposed to be code
-    code again
+    code again`
+
+<script src="https://gist.github.com/Vincent-Maladiere/47afb09923df7581a34d5ae9a397339d.js"></script>
 
 ## Modeling relationships
 We focus on modelizing relationships between observations. 
