@@ -7,11 +7,12 @@ tags:
 ---
 
 [Work In Progress]
-Hello reader, this article is the short version of a [Stanford course](http://web.stanford.edu/~rjohari/teaching/notes/). 
-I wrote its after an extensive 
 
 # 1-Small Intro
 ---
+
+Hello reader, this article is the short version of a [Stanford course](http://web.stanford.edu/~rjohari/teaching/notes/). 
+I wrote it after an extensive reading of this course so that you don't have to.
 
 The amount of data we collect is gargantuous (Facebook posts, tweets, medical tests...) and it often arriving faster than we can store and analyze it. 
 > "Big" data can't be analyzed on a single machine.
@@ -28,13 +29,15 @@ How can we summerize a sample? We first use simple statistics:
 + Sample median (more robust to outliers)
 + Sample standard deviation
 All of them can be computed in one shot using pandas:
-```python
+``python
 import pandas as pd
 
 df = pd.read_csv("some_data.csv")
 df.describe()
 >>>
-```
+``
+    this is supposed to be code
+    code again
 
 ## Modeling relationships
 We focus on modelizing relationships between observations. 
