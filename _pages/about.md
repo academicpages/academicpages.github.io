@@ -13,7 +13,7 @@ I am a member of the LIGO Scientific Collaboration (LSC) and the Australian rese
 
 # Recent News
 * November 17th-22nd November: This week I am in Lorne, Victoria for the Annual OzGrav retreat and ECR workshop.  
-* November 8th: After a long, productive trip in Japan: My Japan visit tour comes a conclusion. Met heaps of amazing people, started several collaborations, lots of exciting science to come.
+* November 8th: After a long, productive trip in Japan my visit comes a conclusion. Met heaps of amazing people, started several collaborations, lots of exciting science to come.
 * October 27th-3rd November: This week, I am the Yamada meeting on gamma-ray-bursts in the beautiful city of Yokohama. I am presenting a couple of posters on my work on the population properties of long-lived neutron star merger remnants and extension of millisecond-magnetar models to include radiative losses.
 * September 24 - October 25th: This month, I am in Kyoto attending the Yukawa institute long-term workshop on Multi-messenger astrophysics in the
 gravitational-wave era
