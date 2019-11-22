@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-
 <b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br> 
 Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
 <i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
