@@ -29,10 +29,10 @@ Work experience
     * NLP and clustering algorithms on nltk
     * Quantitative analysis by querying MongoEngine to help marketing team.
     * TDD production ready Python code. Heavy usage of git, docker and ansible to deploy branches on our servers
-  * Supervisor: [Arnaud Fourchet](https://linkedin.com/in/arnaud-fouchet-0b4b9b36)
+  * Supervisor: [Arnaud Fourchet, Ph.D.](https://linkedin.com/in/arnaud-fouchet-0b4b9b36)
   * Teammates:
-    * [Ourdia Ressad](https://www.linkedin.com/in/ourdia-ressad-a7778a125/)
-    * [Line Rahal](https://www.linkedin.com/in/line-rahal-0608a177/)
+    * [Ourdia Ressad, Ph.D.](https://www.linkedin.com/in/ourdia-ressad-a7778a125/)
+    * [Line Rahal, Ph.D.](https://www.linkedin.com/in/line-rahal-0608a177/)
 
 * Feb 2018 - July 2018: Data Scientist & Growth Hacker Intern 
   * [Germinal](https://germinal.io)

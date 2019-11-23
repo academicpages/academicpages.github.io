@@ -325,3 +325,11 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.gist {
+   max-width:700px;
+   overflow:auto;
+}
+.gist .blob-wrapper.data {
+   max-height:300px;
+   overflow:auto;
+}
