@@ -167,7 +167,7 @@ Note that both nominator and denominator are sample variance of $Y$ and $\hat{Y}
 
 Let's plot the residuals for our model against fitted values $\hat{Y}_i$ (not the original outcomes $Y_i$)
 
-![residuals against fitted values](https://vincent-maladiere.github.io/images/residuals_vs_fitted.png)
+![residuals against fitted values](./images/residuals_vs_fitted.png =200x80)
 
 <details>
 <br>
