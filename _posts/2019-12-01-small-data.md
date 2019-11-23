@@ -171,7 +171,7 @@ Let's plot the residuals for our model against fitted values $\hat{Y}_i$ (not th
 
 <details>
 <br>
-<summary>Hat tip to [Emre Can](https://emredjan.github.io/blog/2017/07/11/emulating-r-plots-in-python/) for his very neat implementation and overview of plotting techniques..</summary>
+<summary>Hat tip to <a href="https://emredjan.github.io/blog/2017/07/11/emulating-r-plots-in-python/">Emre Can</a> for his very neat implementation and overview of plotting techniques..</summary>
 <script src="https://gist.github.com/Vincent-Maladiere/6fb9b7c2ae87822ddc68ca12125aa421.js"></script>
 _______________________________________________________________________________________
 </details>
