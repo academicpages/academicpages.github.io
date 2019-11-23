@@ -176,3 +176,4 @@ Let's plot the residuals for our model against fitted values $\hat{Y}_i$ (not th
 _______________________________________________________________________________________
 </details>
 <br>
+
