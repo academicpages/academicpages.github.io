@@ -5,7 +5,7 @@ permalink: /publication/2019-aipo-visual-metaphor
 excerpt: 'This paper presents introduces a proposal and an evolution of a new set of graphic representations towards a 3D environment of augmented reality, based on the metaphor of roads and traffic signs, and which aims to facilitate the learning of programming to beginner students. The visualizations generated from these graphical representations can be constructed automatically thanks to their modular design and used by teachers in order to explain programming concepts during master classes.'
 date: 21-06-2019
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Santiago Schez-Sobrino, María Á. García, Cristian Gómez, Carlos González, David Vallejo, Javier A. Albusac, Miguel Á. Redondo. &quot;Propuesta y evolución multidimensional de una metáfora visual para facilitar el aprendizaje de la programación&quot;. XX Congreso Internacional de Interacción Persona-Ordenador (Interacción 2019), San Sebastián, País Vasco (España).'
+citation: 'Santiago Schez-Sobrino, María Á. García, Cristian Gómez, Carlos González, David Vallejo, Javier A. Albusac, Miguel Á. Redondo. &quot;Propuesta y evolución multidimensional de una metáfora visual para facilitar el aprendizaje de la programación&quot;. <i>XX Congreso Internacional de Interacción Persona-Ordenador (Interacción 2019)</i>, San Sebastián, País Vasco (España).'
 ---
 
 **Abstract**
