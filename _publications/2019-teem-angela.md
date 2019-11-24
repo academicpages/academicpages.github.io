@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2019-teem-angela
 excerpt: 'This paper introduces a proposal and an evolution of a new set of graphic representations towards a 3D environment of augmented reality, based on the metaphor of roads and traffic signs, and which aims to facilitate the learning of programming to beginner students. The visualizations generated from these graphical representations can be constructed automatically thanks to their modular design and used by teachers in order to explain programming concepts during master classes.'
 date: 16-10-2019
-venue: 'Proceedings of the Seventh International Conference on Technological Ecosystems for Enhancing Multiculturality (TEEM)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Santiago Schez-Sobrino, María Á. García, Cristian Gómez, David Vallejo, Ana I. Molina, Carmen Lacave, Carlos Glez-Morcillo, Javier A. Albusac, and Miguel Á. Redondo. 2019. &quot;ANGELA: a novel approach of graphic notation based on the metaphor of road signs to facilitate the learning of programming.&quot; In Proceedings of the Seventh International Conference on Technological Ecosystems for Enhancing Multiculturality (TEEM'19), León, Spain, pp. 822-829. DOI: doi.org/10.1145/3362789.3362871.'
 ---
