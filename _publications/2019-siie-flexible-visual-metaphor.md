@@ -5,7 +5,7 @@ permalink: /publication/2019-siie-flexible-visual-metaphor
 excerpt: 'This paper shows the ANGELA notation, a metaphor of roads and traffic signs used to visualize dynamically the execution of a program with a vehicle traveling through its structure executing statements. Such visualizations may be executed in a variety of environments, which support different interaction mechanisms depending on the graphic representations dimensionality.'
 date: 21-11-2019
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Santiago Schez-Sobrino, María Á. García, Cristian Gómez, Carlos González, David Vallejo, Javier A. Albusac, Miguel Á. Redondo. &quot;Aplicación de una metáfora flexible y extensible para la visualización de programas en el contexto del aprendizaje de la programación&quot;. <i>The 21st International Symposium on Computers in Education (SIIE)</i>, Tomar, Portugal, 2019.'
+citation: 'Cristian Gmez-Portes, Santiago Schez-Sobrino, María Á. García, Miguel Á. Redondo, Javier A. Albusac, Manuel Ortega. &quot;Aplicación de una metáfora flexible y extensible para la visualización de programas en el contexto del aprendizaje de la programación&quot;. <i>The 21st International Symposium on Computers in Education (SIIE)</i>, Tomar, Portugal, 2019.'
 ---
 
 **Abstract**
