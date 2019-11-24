@@ -8,7 +8,6 @@ students. The visualizations generated from these graphical representations can 
 design and used by teachers in order to explain programming concepts during master classes.'
 date: 16-10-2019
 venue: 'Proceedings of the Seventh International Conference on Technological Ecosystems for Enhancing Multiculturality (TEEM)'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Santiago Schez-Sobrino, María Á. García, Cristian Gómez, David Vallejo, Ana I. Molina, Carmen Lacave, Carlos Glez-Morcillo, 
 Javier A. Albusac, and Miguel Á. Redondo. 2019. &quot;ANGELA: a novel approach of graphic notation based on the metaphor of road signs to 
 facilitate the learning of programming.&quot; <i>In Proceedings of the Seventh International Conference on Technological Ecosystems for 
@@ -29,5 +28,3 @@ facilitate the learning of programming to beginner students. The visualizations 
 constructed automatically thanks to their modular design and used by teachers in order to explain programming concepts during master 
 classes. The proposal has been evaluated with students in order to validate whether the proposed notation is appropriate to represent the 
 concepts it tries to abstract and easy for students to understand.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
