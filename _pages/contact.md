@@ -11,4 +11,4 @@ In order to get in touch with me you can use the information that is provided be
 
 ## Work place
 * Address: CHICO (Computer Human Interaction and Collaboration) research group. Paseo de la Universidad, 4 Ciudad Real (Spain).
-* Phone number: 926 295300 Ext: 3735
+* Phone number: 926295300 Ext: 96676
