@@ -7,7 +7,6 @@ augmented reality, based on the metaphor of roads and traffic signs, and which a
 students. The visualizations generated from these graphical representations can be constructed automatically thanks to their modular 
 design and used by teachers in order to explain programming concepts during master classes.'
 date: 16-10-2019
-venue: 'Proceedings of the Seventh International Conference on Technological Ecosystems for Enhancing Multiculturality (TEEM)'
 citation: 'Santiago Schez-Sobrino, María Á. García, Cristian Gómez, David Vallejo, Ana I. Molina, Carmen Lacave, Carlos Glez-Morcillo, 
 Javier A. Albusac, and Miguel Á. Redondo. 2019. &quot;ANGELA: a novel approach of graphic notation based on the metaphor of road signs to 
 facilitate the learning of programming.&quot; <i>In Proceedings of the Seventh International Conference on Technological Ecosystems for 
