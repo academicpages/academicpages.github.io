@@ -21,12 +21,12 @@ Research experience
   * Responsible for image analysis and data management for the Biomedical Sciences division of Warwick Medical School
   * Implemented and maintained a number of IT systems for data management.
   * Developed software in multiple different languages to support image analysis needs from other researchers  
-
+  
 * 2017: Research Assistant on protein structure visualisation, University of Warwick
   * Developed software pipeline to simulate and visualise protein rigidity analysis.
   * Built a virtual reality toolkit to deploy three-dimensional protein structure animations.
   * Took part in supporting antimicrobial resistance research, trying to understand how drugs affect protein rigidity.  
-
+  
 * 2013-2017: Ph.D candidate in computational biophysics, University of Warwick
   * Developed simulation software to better understand force generation during bacterial division.
   * Researched and adapted advanced applied mathematics algorithms for calculations.
