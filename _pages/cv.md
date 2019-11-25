@@ -13,24 +13,24 @@ Education
 ======
 * B.Eng. in Telecommunications Engineering, Universidade Federal Fluminense, 2009
 * Double M.Sc. in Complex Systems Science, École Polytechnique and Chalmers University of Technology, 2013
-* Ph.D in Analytical Science, University of Warwick, 2017 
+* Ph.D in Analytical Science, University of Warwick, 2017  
 
 Research experience
 ======
 * 2017-2019: Independent Research Fellow on Bioimage analysis and data management, University of Warwick
   * Responsible for image analysis and data management for the Biomedical Sciences division of Warwick Medical School
-  * Implemented and currently maintain a number of IT systems for data management.
-  * Developed software in multiple different languages to support image analysis needs from other researchers
+  * Implemented and maintained a number of IT systems for data management.
+  * Developed software in multiple different languages to support image analysis needs from other researchers  
 
 * 2017: Research Assistant on protein structure visualisation, University of Warwick
   * Developed software pipeline to simulate and visualise protein rigidity analysis.
   * Built a virtual reality toolkit to deploy three-dimensional protein structure animations.
-  * Took part in supporting antimicrobial resistance research, trying to understand how drugs affect protein rigidity.
+  * Took part in supporting antimicrobial resistance research, trying to understand how drugs affect protein rigidity.  
 
 * 2013-2017: Ph.D candidate in computational biophysics, University of Warwick
   * Developed simulation software to better understand force generation during bacterial division.
   * Researched and adapted advanced applied mathematics algorithms for calculations.
-  * Used high-performance computing infrastructure to achieve simulation results.
+  * Used high-performance computing infrastructure to achieve simulation results.  
 
 Work experience
 ======
