@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Telecommunications Engineering, Universidade Federal Fluminense, 2009
-* Double M.Sc. in Complex Systems Science, École Polytechnique and Chalmers University of Technology, 2013
-* Ph.D in Analytical Science, University of Warwick, 2017  
+* **B.Eng. in Telecommunications Engineering**, Universidade Federal Fluminense, 2009
+* **Double M.Sc. in Complex Systems Science**, École Polytechnique and Chalmers University of Technology, 2013
+* **Ph.D in Analytical Science**, University of Warwick, 2017  
 
 Research experience
 ======
@@ -23,7 +23,7 @@ Research experience
   * Developed software in multiple different languages to support image analysis needs from other researchers  
   
 * **2017:** Research Assistant on protein structure visualisation, University of Warwick
-  * Developed software pipeline to simulate and visualise protein rigidity analysis.
+  * Developed a software pipeline to simulate and visualise protein rigidity analysis.
   * Built a virtual reality toolkit to deploy three-dimensional protein structure animations.
   * Took part in supporting antimicrobial resistance research, trying to understand how drugs affect protein rigidity.  
   
@@ -82,8 +82,8 @@ Teaching
   
 Honors and Awards
 ======
-* 2013: Marie Sklodowska-Curie PhD Fellowship - Full tuition and stipend for 36 months and research-related expenses
-* 2011: Erasmus Mundus M.Sc. Scholarship - Full tuition and stipend for 24 months
-* 2010: Laurea Academica from Universidade Federal Fluminense - Awarded to best graduating student for each major
-* 2009: Premio Walder Moreira - ”Student of the year” award in Telecommunications Engineering
-* 2007: Premio Walder Moreira - ”Student of the year” award in Telecommunications Engineering
+* **2013:** Marie Sklodowska-Curie PhD Fellowship - Full tuition and stipend for 36 months and research-related expenses
+* **2011:** Erasmus Mundus M.Sc. Scholarship - Full tuition and stipend for 24 months
+* **2010:** Laurea Academica from Universidade Federal Fluminense - Awarded to best graduating student for each major
+* **2009:** Premio Walder Moreira - ”Student of the year” award in Telecommunications Engineering
+* **2007:** Premio Walder Moreira - ”Student of the year” award in Telecommunications Engineering
