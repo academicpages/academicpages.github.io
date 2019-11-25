@@ -17,44 +17,44 @@ Education
 
 Research experience
 ======
-* 2017-2019: Independent Research Fellow on Bioimage analysis and data management, University of Warwick
+* **2017-2019:** Independent Research Fellow on Bioimage analysis and data management, University of Warwick
   * Responsible for image analysis and data management for the Biomedical Sciences division of Warwick Medical School
   * Implemented and maintained a number of IT systems for data management.
   * Developed software in multiple different languages to support image analysis needs from other researchers  
   
-* 2017: Research Assistant on protein structure visualisation, University of Warwick
+* **2017:** Research Assistant on protein structure visualisation, University of Warwick
   * Developed software pipeline to simulate and visualise protein rigidity analysis.
   * Built a virtual reality toolkit to deploy three-dimensional protein structure animations.
   * Took part in supporting antimicrobial resistance research, trying to understand how drugs affect protein rigidity.  
   
-* 2013-2017: Ph.D candidate in computational biophysics, University of Warwick
+* **2013-2017:** Ph.D candidate in computational biophysics, University of Warwick
   * Developed simulation software to better understand force generation during bacterial division.
   * Researched and adapted advanced applied mathematics algorithms for calculations.
   * Used high-performance computing infrastructure to achieve simulation results.  
 
 Work experience
 ======
-* 2019-present: Systems Analyst, The Jackson Laboratory
+* **2019-present:** Systems Analyst, The Jackson Laboratory
   * Research IT department
 
-* 2017-2019: Research Fellow, University of Warwick
+* **2017-2019:** Research Fellow, University of Warwick
   * Division of Biomedical Sciences, Warwick Medical School
  
-* 2017-2017: Research Assistant, University of Warwick
+* **2017-2017:** Research Assistant, University of Warwick
   * Supervised by Prof. Rudolf Roemer, Department of Physics
 
-* 2013-2017: Ph.D candidate, University of Warwick
+* **2013-2017:** Ph.D candidate, University of Warwick
   * Supervised by Prof. Matthew Turner, Department of Physics
 
-* 2008-2011: Junior Engineer, Chemtech Ltda.
+* **2008-2011:** Junior Engineer, Chemtech Ltda.
   * Telecommunications project design
 
-* 2008-2008: Research Intern, Harman/Becker GmbH.
+* **2008-2008:** Research Intern, Harman/Becker GmbH.
   * Automotive applications
   
 Skills
 ======
-* Programming languages
+* **Programming languages**
   * C
   * Python
   * R
@@ -62,7 +62,7 @@ Skills
   * Bash
   * Java
   * ImageJ/Fiji macro
-* Libraries and tools
+* **Libraries and tools**
   * Git
   * LaTeX
   * OMERO
