@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Solenne Gaucher"
+title                    : "Home"
 title_separator          : 
 name                     : &name "Solenne Gaucher"
 description              : 
@@ -221,7 +221,7 @@ defaults:
 # _publications
   - scope:
       path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
