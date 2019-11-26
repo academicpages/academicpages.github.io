@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Statistique 1"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: 
+venue: "École Nationale de la Statistique et de l'Administration Économique"
+date: 2018-2020
+location: "Palaiseau, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Statistic course for second year student.
