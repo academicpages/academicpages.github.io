@@ -1,20 +1,9 @@
 ---
-title: "Rappels de Statistiques Mathématiques"
+title: "Statistique Mathématique"
 collection: teaching
 type: "Cours de Master Spécialisé"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://sites.google.com/site/vincentcottet/2-teaching
+venue: "École Nationale de Statistique et de l'Administration Économique"
+date: 2018-2019
+location: "Palaiseau, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
