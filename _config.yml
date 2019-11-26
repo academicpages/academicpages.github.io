@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Solenne Gaucher"
-title_separator          : "-"
+title_separator          : 
 name                     : &name "Solenne Gaucher"
-description              : &description "personal description"
+description              : 
 url                      : https://solennegaucher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SolenneGaucher/solennegaucher.github.io"
@@ -209,7 +209,7 @@ defaults:
 #    values:
 #      layout: single
 #      author_profile: true
- _teaching
+# _teaching
   - scope:
       path: ""
       type: teaching
@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
- _publications
+# _publications
   - scope:
       path: ""
       type: publications
