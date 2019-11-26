@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Rappels de Statistiques Mathématiques"
 collection: teaching
-type: "Undergraduate course"
+type: "Cours de Master Spécialisé"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
