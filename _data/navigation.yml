@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Software"
+    url: /software/
 
-  - title: "Game Development"
-    url: /gamedev/
+  # - title: "Game Development"
+  #   url: /gamedev/
 
-  - title: "Maker Projects"
-    url: /maker/
+  # - title: "Maker Projects"
+  #   url: /maker/
 
   - title: "Photography"
     url: /gallery/
@@ -18,3 +18,5 @@ main:
   - title: "Design Tips"
     url: /design-basics/
 
+  - title: "Publications"
+    url: /publications/
