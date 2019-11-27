@@ -59,7 +59,7 @@ Awards
 * 2016, Outstanding Graduate Award, Wuhan University
 * 2015, Chinese Academy of Sciences Scholarship for College Students (rewarding top 10% students with postgraduate recommendation), University of Chinese Academy of Sciences (UCAS)
 * 2015, First Prize in the 10th Freescale Cup Smart Car Competition (Magnetic Navigation Double-Car Group), Teaching Steering Committee on Automation, Department of Higher Education under the Ministry of Education
-* 2014 & 2015, National Scholarship, Ministry of Education   
+* 2014 & 2015, National Scholarships, Ministry of Education   
 <br/>
   
   
