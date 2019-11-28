@@ -87,7 +87,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=eeQ_yCkAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,16 +95,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Linear95"
+  github           : "Linear95"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : "linkedin.com/in/pengyu-cheng-84406714a"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
