@@ -8,8 +8,7 @@ author_profile: true
 
 - How Gun Violence Affects Public Life and Public Health Exhibit. Chicago, IL, August 2018 
 
-- How Gun Violence Affects Public Life and Public Health Exhibit. Pygmalion Festival. Urbana-Champaign, IL. September 2018
-*This study seeks to examine the physiological effects of exposure to nearby gun crimes such as shootings as a way to document the lived experiences of African American mothers. We gathered one month of physiological data from African American mothers using wrist-worn wearable biosensors as well their physical movements as collected by their smartphone’s GPS. We visualized the data using heat maps, crime reports, art, etc.*
+- How Gun Violence Affects Public Life and Public Health Exhibit. Pygmalion Festival. Urbana-Champaign, IL. September 2018  *This study seeks to examine the physiological effects of exposure to nearby gun crimes such as shootings as a way to document the lived experiences of African American mothers. We gathered one month of physiological data from African American mothers using wrist-worn wearable biosensors as well their physical movements as collected by their smartphone’s GPS. We visualized the data using heat maps, crime reports, art, etc.*
 
 
 # Presentations
