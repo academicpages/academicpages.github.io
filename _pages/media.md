@@ -8,7 +8,7 @@ author_profile: true
 
 - How Gun Violence Affects Public Life and Public Health Exhibit. Chicago, IL, August 2018 
 
--How Gun Violence Affects Public Life and Public Health Exhibit. Pygmalion Festival. Urbana-Champaign, IL. September 2018 \\ \textit{This study seeks to examine the physiological effects of exposure to nearby gun crimes such as shootings as a way to document the lived experiences of African American mothers. We gathered one month of physiological data from African American mothers using wrist-worn wearable biosensors as well their physical movements as collected by their smartphone’s GPS. We visualized the data using heat maps, crime reports, art, etc.}}
+- How Gun Violence Affects Public Life and Public Health Exhibit. Pygmalion Festival. Urbana-Champaign, IL. September 2018 \\ \textit{This study seeks to examine the physiological effects of exposure to nearby gun crimes such as shootings as a way to document the lived experiences of African American mothers. We gathered one month of physiological data from African American mothers using wrist-worn wearable biosensors as well their physical movements as collected by their smartphone’s GPS. We visualized the data using heat maps, crime reports, art, etc.}}
 
 
 # Presentations
@@ -41,13 +41,13 @@ M., Zerai, A. 2016. Rescuing Lost History: Using Big Data to Recover Black Women
 
 - Can You Imagine: Using Wearable Technology to Study Gun Violence in Chicago? WILL Illinois Public Media. March 2019. [Link](http://www.ncsa.illinois.edu/news/story/can_you_imagine_using_wearable_technology_to_study_gun_violence_in_chicago)
 
-\item Argone National Laboratory. Women-in-HPC workshop an outstanding success. December 2018. [Link](https://www.anl.gov/mcs/article/womeninhpc-workshop-an-outstanding-success)
+- Argone National Laboratory. Women-in-HPC workshop an outstanding success. December 2018. [Link](https://www.anl.gov/mcs/article/womeninhpc-workshop-an-outstanding-success)
 
 - Ruby Mendenhall Charts Progress Using HPC, Big Data to Flag Unidentified Historical Sources on African American Women’s Lives. XSEDE Science Stories. July 2018. [Link](https://www.xsede.org/news/science-stories/-/asset_publisher/9JovW1UTN10Q/content/ruby-mendenhall-charts-progress-using-hpc-big-data-to-flag-unidentified-historical-sources\\-on-african-american-women%E2%80%99s-lives/10165)
 
 - Hearing and Healing the Mothers of Englewood, Part One. October 2017. [Link](http://storied.illinois.edu/ruby/)
 
--Scientific Computing. December 2016. Social Sciences & Humanities Researchers Use Supercomputers to Amplify Voices of Black Women Silenced by History by Jane Glasser at Intel. [Link](http://www.scientificcomputing.com/article/2016/12/social-sciences-humanities-researchers-use-supercomputers-amplify-voices-black-women-silenced)
+- Scientific Computing. December 2016. Social Sciences & Humanities Researchers Use Supercomputers to Amplify Voices of Black Women Silenced by History by Jane Glasser at Intel. [Link](http://www.scientificcomputing.com/article/2016/12/social-sciences-humanities-researchers-use-supercomputers-amplify-voices-black-women-silenced)
 
 - Neil Green, the President of Intel Federal, mentioned the Recovering Black Women’s Lost History Project in an article that he wrote about President Obama's National Strategic Computing Initiative that he stated seeks to "answer our biggest questions." November 2016. The title of the article is "HPC: Fuelinig the Government's Next-Generation Technology Programs."  [Link](https://fcw.com/articles/2016/11/08/comment-hpc-intel.aspx)
 
