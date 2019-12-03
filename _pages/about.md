@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Cool
+?
+======
+I am 
 
 Website
 ------
