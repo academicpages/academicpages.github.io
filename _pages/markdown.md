@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+> This page is a guide page for modification.
+
+> modify this page file: /_pages/markdown.md
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
