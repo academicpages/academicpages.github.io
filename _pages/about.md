@@ -32,7 +32,7 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 ---
 # Publications
 
-## Refreed Journals and Proceedins
+## Refreed Journals and Proceedings
 1. A. Tanaka, A. Sannai, K. Kobayashi and N. Hamada: Asymptotic Risk of B'ezier Simplex Fitting, Proceedings of the 34th AAAI Conference on Artificial Intelligence (in press).<br>
 <span style="color: red; ">Acceptance rate: 1591/7737 = 20.6%</span>
 1. K. Kobayashi and Y. Takano: A Branch-and-Cut Algorithm for Solving Mixed-integer Semidefinite Optimization Problems, Computational Optimization and Applications (in press). 
