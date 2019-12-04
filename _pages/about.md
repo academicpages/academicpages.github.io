@@ -29,7 +29,7 @@ News
 * [2019/03/05] &nbsp; SiW Database has been distributed to >300 research groups.
 
 
-
+<br/>
 Research
 ======
 <img align="left" width="110" height="110" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
