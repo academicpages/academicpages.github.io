@@ -58,9 +58,14 @@
   p, li, dl {
     font-size: 0.875em;
   }
+   
+  ul {
+    margin: 0; /* To remove default bottom margin */ 
+    padding: 0; /* To remove default left padding */
+  }
 
   /* paragraph indents */
-  p, li {
+  p {
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
