@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Ken Kobayashi"
+title: "小林 健 (Ken Kobayashi)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# 小林 健 (Ken KOBAYASHI)
 
 I am always attracted to mathematical optimization, which helps us to make a good decision. This technology is quite essential for complex decision making in our real worlds. Now I have spent about 5 years as an industrial researcher and consistently studied mathematical optimization and operations research.
 
