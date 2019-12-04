@@ -100,8 +100,7 @@ ___
   <div class="column left">
     <img align="left" width="120" height="120" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_hand.png">  
   </div>
-  <div class="column middle">
-  </div>
+  <div class="column middle"></div>
   <div class="column right">
     <p>
       <strong>Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization</strong><br/>
