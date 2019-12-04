@@ -19,6 +19,11 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 - Apr 2013--Mar 2015: Master of Engineering, Department of Industrial Engineering and Management, Graduate School of Decision Science and Technology, Tokyo Institute of Technology
 - Apr 2009--Mar 2013: Bachelor of Engineering, Department of Industrial and Systems Engineering, Faculty of Engineering, Tokyo Institute of Technology
 
+---
+# Professional experience
+- Jun 2017--present: Visiting scientist, RIKEN Center for Advanced Intelligence Project.
+- Apr 2015--present: Researcher, Artificial  Intelligence Laboratory, Fujitsu Laboratories LTD.
+
 # Publications
 
 ## Refreed Journals and Proceedins
