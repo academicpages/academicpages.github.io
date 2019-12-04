@@ -98,7 +98,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="150" height="150" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_hand.png">  
+    <img align="left" width="140" height="140" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_hand.png">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
