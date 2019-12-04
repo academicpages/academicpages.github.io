@@ -30,6 +30,7 @@ News
 
 
 <br/>
+
 Research
 ======
 <img align="left" width="110" height="110" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
