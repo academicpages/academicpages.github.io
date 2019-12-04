@@ -55,7 +55,7 @@ ___
 
 &nbsp; **Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision**<br/>
 &nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu<br/>
-&nbsp; Computer Vision and Pattern Recognition (CVPR'18), 2018.(exhibit @CVPR Demo) <br/> 
+&nbsp; Computer Vision and Pattern Recognition (CVPR'18), 2018.(<font color="red">exhibit @CVPR Demo</font>) <br/> 
 &nbsp; [[PDF](https://arxiv.org/abs/1803.11097)] [[Poster](https://yaojieliu.github.io/files/cvpr18.pdf)] [[Dataset](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html)] [[Demo](http://cvlab.cse.msu.edu/project-face-anti.html)] [[News](https://msutoday.msu.edu/feature/2018/unlocking-new-possibilities-for-biometrics/)]
 
 ___
