@@ -18,13 +18,13 @@ Improved Hypothesis Generation for Parallax-tolerant Image Stitching
 Single-Perspective Warps in Natural Image Stitching     
 IEEE Transactions on Image Processing (TIP), 2019.     
 Accepted on 30 July 2019.     
-[Arxiv Preprint](https://arxiv.org/abs/1802.04645) - [Project page](https://tlliao.github.io/research/single-perspective-warps/) - [Code](https://github.com/tlliao/Single-perspective-warps)
+[PDF](https://ieeexplore.ieee.org/abstract/document/8802274) - [Project page](https://tlliao.github.io/research/single-perspective-warps/) - [Code](https://github.com/tlliao/Single-perspective-warps)
 
 
 **Tianli Liao**, Jing Chen and Yifang Xu     
 Quality evaluation-based seam estimation for image stitching     
 Signal, Image and Video Processing (SIViP), 13(6), 1199-1206, 2019.     
-[Code](https://github.com/tlliao/Iterative-seam-estimation)
+[PDF](https://link.springer.com/article/10.1007/s11760-019-01466-9) - [Code](https://github.com/tlliao/Iterative-seam-estimation)
 
 
 ## 2018 
@@ -32,11 +32,12 @@ Signal, Image and Video Processing (SIViP), 13(6), 1199-1206, 2019.
 Yifang Xu, **Tianli Liao** and Jing Chen     
 Learning-based Natural Geometric Matching with Homography Prior     
 Electronics Letters, 54(23), 1328-1330, 2018.
+[PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2018.6478)
 
 Nan Li, **Tianli Liao** and Chao Wang     
 Perception-based seam cutting for image stitching     
 Signal, Image and Video Processing (SIViP), 12(5), 967-974, 2018.    
-[Project page](https://tlliao.github.io/research/perception-based-seam-cutting/) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
+[PDF](https://link.springer.com/article/10.1007/s11760-018-1241-9) - [Project page](https://tlliao.github.io/research/perception-based-seam-cutting/) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
 
 
 
