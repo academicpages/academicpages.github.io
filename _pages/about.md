@@ -102,3 +102,13 @@ ___
 &nbsp; <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
 &nbsp; Electronic Science and Technology, 2014<br/> 
 &nbsp; [[Link](http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201403005.htm)]
+
+
+Personal
+======
+I love snowboarding, climbing, hiking and many other outdoor activities. I've been training Brazilian Jiu-jitsu (柔術) for 3 years, and I'm a blue belt. I also love to travel, cook, and do tech stuff (PC buildling, HiFi, photography).I have a beagle dog. Her name is Bagel.<br/>
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://yaojieliu.github.io/images/bagel.jpg?raw=true" alt="Photo" style="width: 400px;"/>
+</p>
