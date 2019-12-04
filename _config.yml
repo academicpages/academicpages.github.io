@@ -84,7 +84,7 @@ author:
   avatar           : "kenkobayashi.png"
   bio              : "I currently work at Fujitsu Laboratories Ltd. My research interests include mathematical optimization and operations research."
   location         : "Nakahara-ku, Kawasaki"
-  employer         : "Fujitsu Laboratories LTD. Artificial Intelligence Laboratory"
+  employer         : "Fujitsu Laboratories LTD."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?user=fyMWmOMAAAAJ&hl=ja#"
   email            :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/ken.kobayashi.9"
+  facebook         : #"https://www.facebook.com/ken.kobayashi.9"
   foursquare       :
   github           : #"academicpages"
   google_plus      :
