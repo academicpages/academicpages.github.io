@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://yaojieliu.github.io/images/banner2.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yaojieliu.github.io/images/banner2.jpg?raw=true" alt="Photo" style="width: 300px;"/>
 </p>
 
 Hi! I'm a fourth-year Ph.D. student at [Michigan State University](www.cse.msu.edu) in the [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/), advised by [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). My research is on CV/ML, with particular interests in face representation & analysis, face anti-spoofing, 3D face alignment and reconstruction, audio-visual modeling, and forensics.
