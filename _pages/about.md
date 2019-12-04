@@ -8,8 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Publications
-======
+I am always attracted to mathematical optimization, which helps us to make a good decision. This technology is quite essential for complex decision making in our real worlds. Now I have spent about 5 years as an industrial researcher and consistently studied mathematical optimization and operations research.
+
+My research interests include modeling techniques and algorithms on mixed-integer optimization and related problems. Especially, solving mixed-integer conic optimization problems is one of my ongoing research projects. I am also interested in applications of mathematical optimization to other engineering fields such as machine learning, production planning, and so on.
+
+---
+# Education
+- Apr 2019--present: a PhD candidate, School of Engineering
+Department of Industrial Engineering and Economics, Tokyo Institute of Technology
+- Apr 2013--Mar 2015: Master of Engineering, Department of Industrial Engineering and Management, Graduate School of Decision Science and Technology, Tokyo Institute of Technology
+- Apr 2009--Mar 2013: Bachelor of Engineering, Department of Industrial and Systems Engineering, Faculty of Engineering, Tokyo Institute of Technology
+
+# Publications
 
 ## Refreed Journals and Proceedins
 1. aaa
