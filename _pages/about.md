@@ -104,9 +104,11 @@ ___
 &nbsp; [[Link](http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201403005.htm)]
 
 
+<br/>
+
 Personal
 ======
-I love snowboarding, climbing, hiking and many other outdoor activities. I've been training Brazilian Jiu-jitsu (柔術) for 3 years, and I'm a blue belt. I also love to travel, cook, and do tech stuff (PC buildling, HiFi, photography).I have a beagle dog. Her name is Bagel.<br/>
+I've been snowboarding for 6 years and training Brazilian Jiu-jitsu (柔術) for 7 years. I also love traveling, climbing, hiking and many other outdoor activities. I cook when I'm homesick. I have a beagle and her name is Bagel.<br/>
 
 <p align="left">
   &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
