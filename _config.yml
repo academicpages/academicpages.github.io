@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Ken Kobayashi"
   avatar           : "kenkobayashi.png"
-  bio              : "I currently work at the Fujitsu Laboratories, Fujitsu Ltd. My research interest includes mathematical optimization and operations research."
+  bio              : "I currently work at Fujitsu Laboratories Ltd. My research interest includes mathematical optimization and operations research."
   location         : "Nakahara-ku, Kawasaki"
-  employer         :
+  employer         : "Fujitsu Laboratories LTD. Artificial Intelligence Laboratory"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?user=fyMWmOMAAAAJ&hl=ja#"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ken_Kobayashi9"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/ken.kobayashi.9"
   foursquare       :
   github           : #"academicpages"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ken-kobayashi-38a77694/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
