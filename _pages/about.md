@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am always attracted to mathematical optimization, which helps us to make a good decision. This technology is quite essential for complex decision making in our real worlds. Now I have spent about 5 years as an industrial researcher and consistently studied mathematical optimization and operations research.
+I am always attracted to mathematical optimization, which is a quite essential technology for complex decision making in our real worlds. Now I have spent about 5 years as an industrial researcher and consistently studied mathematical optimization and operations research.
 
 My research interests include modeling techniques and algorithms on mixed-integer optimization and related problems. Especially, solving mixed-integer conic optimization problems is one of my ongoing research projects. I am also interested in applications of mathematical optimization to other engineering fields such as machine learning, production planning, and so on.
 
