@@ -60,7 +60,7 @@
   }
 
   /* paragraph indents */
-  p {
+  p, li {
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
