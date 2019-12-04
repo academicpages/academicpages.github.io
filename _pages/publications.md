@@ -15,29 +15,29 @@ Improved Hypothesis Generation for Parallax-tolerant Image Stitching
 ## 2019
 
 **Tianli Liao** and Nan Li     
-Single-Perspective Warps in Natural Image Stitching     
+[Single-Perspective Warps in Natural Image Stitching](https://ieeexplore.ieee.org/abstract/document/8802274)      
 IEEE Transactions on Image Processing (TIP), 2019.     
-Accepted on 30 July 2019.     
-[PDF](https://ieeexplore.ieee.org/abstract/document/8802274) - [Project page](https://tlliao.github.io/research/single-perspective-warps/) - [Code](https://github.com/tlliao/Single-perspective-warps)
+Accepted on 30 July 2019.       
+[Project page](https://tlliao.github.io/research/single-perspective-warps/) - [Code](https://github.com/tlliao/Single-perspective-warps)
 
 
 **Tianli Liao**, Jing Chen and Yifang Xu     
-Quality evaluation-based seam estimation for image stitching     
-Signal, Image and Video Processing (SIViP), 13(6), 1199-1206, 2019.     
-[PDF](https://link.springer.com/article/10.1007/s11760-019-01466-9) - [Code](https://github.com/tlliao/Iterative-seam-estimation)
+[Quality evaluation-based seam estimation for image stitching](https://link.springer.com/article/10.1007/s11760-019-01466-9)       
+Signal, Image and Video Processing (SIViP), 13(6), 1199-1206, 2019.       
+[Code](https://github.com/tlliao/Iterative-seam-estimation)
 
 
 ## 2018 
 
 Yifang Xu, **Tianli Liao** and Jing Chen     
-Learning-based Natural Geometric Matching with Homography Prior     
-Electronics Letters, 54(23), 1328-1330, 2018.
-[PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2018.6478)
+[Learning-based Natural Geometric Matching with Homography Prior](https://digital-library.theiet.org/content/journals/10.1049/el.2018.6478)       
+Electronics Letters, 54(23), 1328-1330, 2018.  
+
 
 Nan Li, **Tianli Liao** and Chao Wang     
-Perception-based seam cutting for image stitching     
-Signal, Image and Video Processing (SIViP), 12(5), 967-974, 2018.    
-[PDF](https://link.springer.com/article/10.1007/s11760-018-1241-9) - [Project page](https://tlliao.github.io/research/perception-based-seam-cutting/) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
+[Perception-based seam cutting for image stitching](https://link.springer.com/article/10.1007/s11760-018-1241-9)      
+Signal, Image and Video Processing (SIViP), 12(5), 967-974, 2018.      
+[Project page](https://tlliao.github.io/research/perception-based-seam-cutting/) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
 
 
 
