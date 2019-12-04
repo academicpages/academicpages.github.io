@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://yaojieliu.github.io/images/banner2.jpg?raw=true" alt="Photo" style="width: 300px;"/>
-</p>
-
 Hi! I'm a fourth-year Ph.D. student at [Michigan State University](www.cse.msu.edu) in the [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/), advised by [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). My research is on CV/ML, with particular interests in face representation & analysis, face anti-spoofing, 3D face alignment and reconstruction, audio-visual modeling, and forensics.
 
 Before joining MSU, I obtained B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) and M.Sc. from the [Ohio State Univeristy](https://www.osu.edu/). I was a member of [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/), advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/). I also worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) during my wonderful summer intern at [Apple AI Research](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher) in 2019.
