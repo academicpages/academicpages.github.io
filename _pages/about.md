@@ -27,30 +27,16 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 # Publications
 
 ## Refreed Journals and Proceedins
-1. A. Tanaka, A. Sannai, K. Kobayashi and N. Hamada:
-         Asymptotic Risk of B\'ezier Simplex Fitting,
-    Proceedings of the 34th AAAI Conference on Artificial Intelligence (in press).\\
-    \textbf{Acceptance rate: 1591/7737 = 20.6\%
-1. K. Kobayashi and Y. Takano:\\
-    A Branch-and-Cut Algorithm for Solving Mixed-integer Semidefinite Optimization Problems,\\ Computational Optimization and Applications (in press). 
-1. 西村直樹, 小林健, 吉住宗朔:\\ 制約つき比例ハザードモデルを用いたヘアサロンの再来店状況分析,\\
-    オペレーションズ・リサーチ, 64 (2018), 65--72.
-1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:\\
-    B\'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization, \\
-    Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 33 (2019), 2304--2313.\\
-    \textbf{Acceptance rate: 1150/7095 = 16.2\%}
-    \item R. Tamura, K. Kobayashi, Y. Takano, R. Miyashiro, K. Nakata, and T. Matsui:\\
-    Mixed integer quadratic optimization formulations for eliminating multicollinearity based on variance inflation factor,\\
-    Journal of Global Optimization (in press). 
-    \item R. Tamura, K. Kobayashi, Y. Takano, R. Miyashiro, K. Nakata, and T. Matsui: \\
-    Best subset selection for eliminating multicollinearity, \\
-    Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
-    \item T. Konno and K. Kobayashi: \\
-    Short-term production planning for component plants using stochastic programming, \\
-    Proceedings of the International Symposium on Scheduling 2017 (2017) 147--151.
-    \item 高野祐一, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健, 田中研太郎, 中田和秀:\\
-    ファジィクラスタワイズ回帰を用いた共同購入型クーポンサイトの閲覧傾向分析,\\
-    オペレーションズ・リサーチ 59 (2014) 81--87. 
+1. A. Tanaka, A. Sannai, K. Kobayashi and N. Hamada: Asymptotic Risk of B\'ezier Simplex Fitting, Proceedings of the 34th AAAI Conference on Artificial Intelligence (in press)
+\textbf{Acceptance rate: 1591/7737 = 20.6\%
+1. K. Kobayashi and Y. Takano: A Branch-and-Cut Algorithm for Solving Mixed-integer Semidefinite Optimization Problems, Computational Optimization and Applications (in press). 
+1. 西村直樹, 小林健, 吉住宗朔:\\ 制約つき比例ハザードモデルを用いたヘアサロンの再来店状況分析, オペレーションズ・リサーチ, 64 (2018), 65--72.
+1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama: B\'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization, Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 33 (2019), 2304--2313.\\
+    Acceptance rate: 1150/7095 = 16.2\%}
+1. R. Tamura, K. Kobayashi, Y. Takano, R. Miyashiro, K. Nakata, and T. Matsui: Mixed integer quadratic optimization formulations for eliminating multicollinearity based on variance inflation factor, Journal of Global Optimization, 73 (2019), 431-–446 . 
+1. R. Tamura, K. Kobayashi, Y. Takano, R. Miyashiro, K. Nakata, and T. Matsui: Best subset selection for eliminating multicollinearity, Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
+1. T. Konno and K. Kobayashi: Short-term production planning for component plants using stochastic programming, Proceedings of the International Symposium on Scheduling 2017 (2017) 147--151.
+1. 高野祐一, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健, 田中研太郎, 中田和秀: ファジィクラスタワイズ回帰を用いた共同購入型クーポンサイトの閲覧傾向分析, オペレーションズ・リサーチ 59 (2014) 81--87. 
 
 ## Non-refreed 
 1. aaa
