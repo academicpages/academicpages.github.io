@@ -102,10 +102,10 @@ ___
   </div>
   <div class="column right">
     <p>
-      &nbsp; <strong>Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization</strong><br/>
-      &nbsp; <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
-      &nbsp; Electronic Science and Technology, 2014<br/> 
-      &nbsp; [<a href="http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201403005.htm">Link</a>]
+      <strong>Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization</strong><br/>
+      <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
+      Electronic Science and Technology, 2014<br/> 
+     [<a href="http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201403005.htm">Link</a>]
     </p>
   </div>
 </div>
