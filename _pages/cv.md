@@ -9,14 +9,10 @@ redirect_from:
 [[Download PDF](https://yaojieliu.github.io/files/YaojieCV.pdf)]
 
 <p>
-<img align="left" src="https://yaojieliu.github.io/files/YaojieCV-1.jpg?raw=true" style="width: 300px;"> 
-</p>
+<img align="left" src="https://yaojieliu.github.io/files/YaojieCV-1.jpg?raw=true" style="width: 600px;"> 
 
-<p>
-<img align="left" src="https://yaojieliu.github.io/files/YaojieCV-2.jpg?raw=true" style="width: 300px;"> 
-</p>
+<img align="left" src="https://yaojieliu.github.io/files/YaojieCV-2.jpg?raw=true" style="width: 600px;"> 
 
-<p>
-<img align="left" src="https://yaojieliu.github.io/files/YaojieCV-3.jpg?raw=true" style="width: 300px;"> 
+<img align="left" src="https://yaojieliu.github.io/files/YaojieCV-3.jpg?raw=true" style="width: 600px;"> 
 </p>
 {% include base_path %}
