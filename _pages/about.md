@@ -20,10 +20,11 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 - Apr 2009--Mar 2013: Bachelor of Engineering, Department of Industrial and Systems Engineering, Faculty of Engineering, Tokyo Institute of Technology
 
 ---
-# Work experience
+# Work experiences
 - Jun 2017--present: Visiting scientist, RIKEN Center for Advanced Intelligence Project.
 - Apr 2015--present: Researcher, Artificial  Intelligence Laboratory, Fujitsu Laboratories LTD.
 
+---
 # Publications
 
 ## Refreed Journals and Proceedins
@@ -47,7 +48,30 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 1. 小林健:  2018年春季企業事例交流会ルポ (第41回), オペレーションズ・リサーチ, 63 (2018) 507--508. 
 1. 小林健:  多重共線性を考慮した回帰式の変数選択問題に対する混合整数計画法を用いた厳密解法 (学生論文賞受賞論文要約),  オペレーションズ・リサーチ, 60 (2015) 752--734. 
 
-## Presentations
+---
+# Presentations
+
+## International Conferences
 1. K. Kobayashi and Y. Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  The 2019 INFORMS Annual Meeting, Washington Convention Center, October, 2019.
 1. K. Kobayashi and Y. Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  International Conference on Nonlinear Analysis and Convex Analysis--International Conference on Optimization: Techniques and Applications (NACA-ICOTA2019), Future University Hakodate, August, 2019.
-1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:     B\'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.     
+1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:     B\'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
+
+## Domestic Conferences
+1. 白鳥友風; 小林健; 高野祐一 構造的正則化手法を用いた階層的時系列の予測 第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
+1. 金森憲太朗，高木拓也，小林健 Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
+1. 小林健, 高野祐一:  混合整数半正定値最適化問題に対する分枝切除法と機械学習への応用,  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
+1.  田中章詞, 三内顕義, 小林健, 濱田直希:  ベジエ単体近似法の漸近リスク,  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
+1. 小林健, 高野祐一:      混合整数半正定値最適化問題に対する分枝切除法,\\ 日本オペレーションズ･リサーチ学会研究部会 最適化とその応用 未来を担う若手研究者の集い 2019, 筑波大学, 2019 年 6 月.
+1. 小林健, 濱田直希, 三内顕義, 田中章詞, 坂内健一, 杉山将:  ベジエ単体を用いたパレートフロントの小標本近似法,  第21回情報論的学習理論ワークショップ, 北海道大学, 2018 年 11 月.
+1. 小林健, 高野祐一:      混合整数半正定値最適化問題に対する分枝切除法,\\ 日本オペレーションズ・リサーチ学会 2018 年春季研究発表会, 東海大学, 2018 年 3 月.
+1. 小林健, 濱田直希, 酒井彬, 吉田裕之, 三内顕義, 田中章詞, 坂内健一, 杉山将:          ベジエ単体を用いたパレートフロント超曲面近似,          第 14 回進化計算学会研究会, 法政大学, 2018 年 3 月.
+1. 小林健, 紺野剛史: \\  
+        確率計画法を用いた不確実性を考慮した生産計画,\\ 日本機械学会生産システム部門 研究発表講演会, 埼玉大学, 2017 年 3 月.
+1. 小林健, 濱田直希:\\ 
+    $k$-近傍交叉カーネルを用いたサポートベクターマシンの実験的評価,      第 13 回進化計算学会研究会, 九州大学, 2017 年 2 月.
+1. 小林健, 高野祐一, 宮代隆平, 中田和秀: 多重共線性を考慮した回帰式の変数選択問題に対する混合整数計画法を用いた汎用解法,      日本オペレーションズ・リサーチ学会 2015 年 春季研究発表会, 東京理科大学, 2015 年 3 月.
+1. 小林健, 高野祐一, 宮代隆平, 中田和秀: 多重共線性を考慮した回帰式の変数選択--混合整数半正定値計画法を用いた解法--,  京都大学数理解析研究所研究集会 最適化アルゴリズムの進展:理論・応用・実装, 京都大学, 2014 年 9 月.
+1. 小林健, 高野祐一, 宮代隆平, 中田和秀: 多重共線性を考慮した回帰式の変数選択--混合整数半正定値計画法を用いた解法--, 日本オペレーションズ・リサーチ学会 2014 年秋季研究発表会, 北海道科学大学, 2014 年 8 月.
+
+---
+# Award
