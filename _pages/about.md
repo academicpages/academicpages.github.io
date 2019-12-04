@@ -11,6 +11,13 @@ redirect_from:
 My research interests include modeling techniques and algorithms on mixed-integer optimization and related problems. Especially, solving mixed-integer conic optimization problems is one of my ongoing research projects. I am also interested in applications of mathematical optimization to other engineering fields such as machine learning, production planning, and so on.
 
 ---
+# Research Interests
+- Mixed-integer Conic Optimization
+- Mathematical Optimization
+- Operations Research
+
+
+---
 # Education
 - Apr 2019--present: a PhD candidate, School of Engineering
 Department of Industrial Engineering and Economics, Tokyo Institute of Technology
