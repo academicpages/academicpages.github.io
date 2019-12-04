@@ -27,7 +27,8 @@ img {
 
 .left {
   width: 15%;
-  vertical-align:middle;
+  display: flex;
+  align-items: center;
 }
 
 .middle {
