@@ -109,8 +109,4 @@ ___
 Personal
 ======
 I've been snowboarding for 6 years and training Brazilian Jiu-jitsu (柔術) for 7 years. I also love traveling, climbing, hiking and many other outdoor activities. I cook when I'm homesick. I have a beagle and her name is Bagel.<br/>
-
-<p align="left">
-  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://yaojieliu.github.io/images/bagel.jpg?raw=true" alt="Photo" style="width: 200px;"/>
-</p>
+<img src="https://yaojieliu.github.io/images/bagel.jpg?raw=true" alt="Photo" style="width: 200px;" align="left"/>
