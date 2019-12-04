@@ -55,6 +55,7 @@ ___
 &nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu<br/>
 &nbsp; Computer Vision and Pattern Recognition (CVPR'18), 2018.(exhibit @CVPR Demo) <br/> 
 &nbsp; [[PDF](https://arxiv.org/abs/1803.11097)] [[Poster](https://yaojieliu.github.io/files/cvpr18.pdf)] [[Dataset](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html)] [[Demo](http://cvlab.cse.msu.edu/project-face-anti.html)] [[News](https://msutoday.msu.edu/feature/2018/unlocking-new-possibilities-for-biometrics/)]
+
 ___
 
 <img align="left" width="100" height="100" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_iccvw17.png">  
@@ -63,6 +64,7 @@ ___
 &nbsp; <u>Yaojie Liu</u>, Amin Jourabloo, William Ren, Xiaoming Liu<br/>
 &nbsp; International Conference on Computer Vision (ICCVW'17) Workshops (AMFG), 2017<br/> 
 &nbsp; [[PDF](https://arxiv.org/abs/1709.01442)] [[Poster](https://yaojieliu.github.io//files/iccvw17.pdf)] [[Code](https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment)] [[Demo](https://youtu.be/GjwpvHKHf9U)] 
+
 ___
 
 <img align="left" width="100" height="100" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_ijcb17.png">  
@@ -71,6 +73,7 @@ ___
 &nbsp; <u>Yaojie Liu*</u>, Yousef Atoum*, Amin Jourabloo*, Xiaoming Liu<br/>
 &nbsp; International Joint Conference on Biometrics (IJCB'17), 2017<br/> 
 &nbsp; [[PDF](http://cvlab.cse.msu.edu/pdfs/FaceAntiSpoofingUsingPatchandDepthBasedCNNs.pdf)] [[Poster](https://yaojieliu.github.io/files/ijcb17.pdf)]
+
 ___
 
 <img align="left" width="100" height="100" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_eccvw16.png">  
@@ -79,6 +82,7 @@ ___
 &nbsp; Ruiqi Zhao, Yan Wang, C. Fabian Benitez-Quiroz, <u>Yaojie Liu</u>, Aleix M. Martinez<br/>
 &nbsp; European Conference on Computer Vision Workshop (ECCVW'16), 2016<br/> 
 &nbsp; [[PDF](https://www.researchgate.net/publication/307513080_Fast_and_Precise_Face_Alignment_and_3D_Shape_Reconstruction_from_a_Single_2D_Image)]
+
 ___
 
 <img align="left" width="100" height="100" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_inpaint.png">  
@@ -87,6 +91,7 @@ ___
 &nbsp; <u>Yaojie Liu</u>, Chang Shu<br/>
 &nbsp; Sixth International Conference on Graphic and Image Processing (ICGIP 2014), 2014<br/> 
 &nbsp; [[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9443/1/A-comparison-of-image-inpainting-techniques/10.1117/12.2178820.full?SSO=1)]
+
 ___
 
 <img align="left" width="100" height="100" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_hand.png">  
