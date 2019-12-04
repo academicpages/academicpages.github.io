@@ -98,10 +98,12 @@ ___
 
 <img align="left" width="110" height="110" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_hand.png">  
 
+<p class="page__block">
 &nbsp; **Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization**<br/>
 &nbsp; <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
 &nbsp; Electronic Science and Technology, 2014<br/> 
 &nbsp; [[Link](http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201403005.htm)]
+</p>
 
 
 <br/>
