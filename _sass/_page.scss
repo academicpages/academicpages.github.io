@@ -23,24 +23,20 @@ img {
 
 .column {
   float: left;
-  vertical-align:middle;
 }
 
 .left {
   width: 15%;
   display: flex;
   align-items: center;
-  vertical-align:middle;
 }
 
 .middle {
   width: 2%;
-  vertical-align:middle;
 }
 
 .right {
   width: 83%;
-  vertical-align:middle;
 }
 
 /* Clear floats after the columns */
