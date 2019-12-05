@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+#title: "About me"
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 This is Vineel's home on the web!
-
-\<placeholder\>
