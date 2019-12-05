@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Vineel Yettella"
   avatar           : "profile.png"
-  bio              : "Software engineer with a background in climate science
-  and mechanical engineering"
-  location         : "Location"
+  bio              : "Software engineer"
+  location         : "Cupertino, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    :
+  "https://scholar.google.com/citations?user=UhkLpi8AAAAJ&hl=en"
+  email            : "vineelyettella at gmail dot com"
+  researchgate     :  "https://www.researchgate.net/profile/Vineel_Yettella"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "vineel-yettella"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/vineely/"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
