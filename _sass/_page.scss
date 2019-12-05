@@ -51,6 +51,12 @@ img {
   vertical-align:middle;
 }
 
+#row { vertical-align:top; }
+#left { vertical-align:middle;}
+#middle { vertical-align:middle;}
+#right { vertical-align:middle;}
+
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
