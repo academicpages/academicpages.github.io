@@ -1,19 +1,2 @@
 # main links links
 main:
-  - title: "Home"
-    url: /about/
-
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Research"
-    url: /publications/  
-    
-  - title: "Personal"
-    url: /portfolio/
-   
-  - title: "Fun"
-    url: /fun/
-   
-  - title: "Contact"
-    url: /contact/
