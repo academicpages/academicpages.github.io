@@ -16,7 +16,7 @@ Before joining MSU, I obtained B.E. from [University of Electronic Science and T
 
 I'm looking for the internship opportunities at 2020 Summer.
 
-[[RESUME](https://yaojieliu.github.io/files/YaojieCV.pdf)]
+
 
 News
 ======
