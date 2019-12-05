@@ -87,12 +87,20 @@ ___
 
 ___
 
-<img align="left" width="110" height="110" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_inpaint.png">  
-
-&nbsp; **A Comparison of Image Inpainting Techniques**<br/>
-&nbsp; <u>Yaojie Liu</u>, Chang Shu<br/>
-&nbsp; Sixth International Conference on Graphic and Image Processing (ICGIP 2014), 2014<br/> 
-&nbsp; [[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9443/1/A-comparison-of-image-inpainting-techniques/10.1117/12.2178820.full?SSO=1)]
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_inpaint.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>A Comparison of Image Inpainting Techniques</strong><br/>
+      <u>Yaojie Liu</u>, Chang Shu<br/>
+      Sixth International Conference on Graphic and Image Processing (ICGIP 2014), 2014<br/> 
+     [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9443/1/A-comparison-of-image-inpainting-techniques/10.1117/12.2178820.full?SSO=1">Link</a>]
+    </p>
+  </div>
+</div>
 
 ___
 
