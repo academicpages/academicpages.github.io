@@ -33,50 +33,34 @@ News
 
 Research
 ======
-<img align="left" width="110" height="110" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
-
-&nbsp; **Deep Tree Learning for Zero-shot Face Anti-Spoofing**<br/>
-&nbsp; <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
-&nbsp; Computer Vision and Pattern Recognition (CVPR'19), 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/> 
-&nbsp; [[PDF](https://arxiv.org/abs/1904.02860)] [[Dataset](http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html)] [[Poster](https://yaojieliu.github.io/files/cvpr19.pdf)] [[Code](https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing)]
-
-
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_iccvw17.png">  
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Dense Face Alignment</strong><br/>
-      <u>Yaojie Liu</u>, Amin Jourabloo, William Ren, Xiaoming Liu<br/>
-      International Conference on Computer Vision (ICCVW'17) Workshops (AMFG), 2017<br/> 
-     [<a href="https://arxiv.org/abs/1709.01442">PDF</a>][<a href="https://yaojieliu.github.io//files/iccvw17.pdf">Poster</a>][<a href="https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment">Code</a>][<a href="https://youtu.be/GjwpvHKHf9U">Demo</a>]
+      <strong>Deep Tree Learning for Zero-shot Face Anti-Spoofing</strong><br/>
+      <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
+      Computer Vision and Pattern Recognition (CVPR'19), 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
+     [<a href="https://arxiv.org/abs/1904.02860">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr19.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html">Dataset</a>][<a href="https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing">Code</a>]
     </p>
   </div>
 </div>
 
 ___
 
-<img align="left" width="110" height="110" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_eccv18.png">  
-
-&nbsp; **Face De-Spoofing: Anti-Spoofing via Noise Modeling**<br/>
-&nbsp; <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu <br/>
-&nbsp; European Conference on Computer Vision (ECCV'18), 2018 <br/> 
-&nbsp; [[PDF](https://arxiv.org/abs/1807.09968)] [[Poster](https://yaojieliu.github.io/files/eccv18.pdf)] [[Code+Model](https://github.com/yaojieliu/ECCV2018-FaceDeSpoofing)]
-
-
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_iccvw17.png">  
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_eccv18.png">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Dense Face Alignment</strong><br/>
-      <u>Yaojie Liu</u>, Amin Jourabloo, William Ren, Xiaoming Liu<br/>
-      International Conference on Computer Vision (ICCVW'17) Workshops (AMFG), 2017<br/> 
-     [<a href="https://arxiv.org/abs/1709.01442">PDF</a>][<a href="https://yaojieliu.github.io//files/iccvw17.pdf">Poster</a>][<a href="https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment">Code</a>][<a href="https://youtu.be/GjwpvHKHf9U">Demo</a>]
+      <strong>Face De-Spoofing: Anti-Spoofing via Noise Modeling</strong><br/>
+      <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu <br/>
+      European Conference on Computer Vision (ECCV'18), 2018 <br/> 
+     [<a href="https://arxiv.org/abs/1807.09968">PDF</a>][<a href="https://yaojieliu.github.io/files/eccv18.pdf">Poster</a>][<a href="https://github.com/yaojieliu/ECCV2018-FaceDeSpoofing">Code+Model</a>]
     </p>
   </div>
 </div>
