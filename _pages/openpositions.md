@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Open Positions"
 excerpt: "Currently funded positions in the Flanagan lab"
 permalink: /open-positions/
