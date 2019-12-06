@@ -1,6 +1,6 @@
 ---
 title: "Join the lab"
-excerpt: "Information for prospective students"
+excerpt: "[We are hiring a PhD student!](https://flanagan-lab.github.io/open-positions/)"
 collection: people
 permalink: /people/join
 ---
@@ -8,6 +8,8 @@ permalink: /people/join
 ## Join the lab
 
 ### Prospective postgraduate (masters or PhD) students
+
+[We are hiring a PhD student!](https://flanagan-lab.github.io/open-positions/)
 
 If you are interested in the research we are doing in my lab and would like to join, please get in touch! First check your eligibility by perusing the [UC eligibility requirements](https://www.canterbury.ac.nz/enrol/doctoral/apply/). If you are eligible and interested, please [email me](sarah.flanagan@canterbury.ac.nz) with your CV and a brief summary of your research interests. 
 
