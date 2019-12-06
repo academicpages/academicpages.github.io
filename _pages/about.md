@@ -12,9 +12,11 @@ redirect_from:
 
 Sarah P. Flanagan began her appointment as a Lecturer in the School of Biological Sciences at the University of Canterbury in Christchurch, New Zealand in 2018. The lab is focused on understanding the evolution of complex, multivariate traits (such as mating display traits), primarily relying on population and quantitative genetics, genomic datasets, simulation modeling. Our empirical work has mostly focused on pipefish and seahorses.
 
+**The lab is hiring a PhD student!** [See the advertisement for more information](https://flanagan-lab.github.io/open-positions/)
+
 <b>Lab news</b>
 
-November 2019: Sarah was awarded a [Marsden Award](https://www.royalsociety.org.nz/news/world-class-research-supported-by-marsden-fund-including-two-large-marsden-interdisciplinary-awards/) to conduct research on the evolution of sex-biased gene expression in pipefish, in collaboration with [Bob Wong](http://www.bobwonglab.org/) (Monash University) and [Judith Mank](https://www.zoology.ubc.ca/mank-lab/) (University of British Columbia)! Stay tuned for PhD scholarship opportunities.
+November 2019: Sarah was awarded a [Marsden Award](https://www.royalsociety.org.nz/news/world-class-research-supported-by-marsden-fund-including-two-large-marsden-interdisciplinary-awards/) to conduct research on the evolution of sex-biased gene expression in pipefish, in collaboration with [Bob Wong](http://www.bobwonglab.org/) (Monash University) and [Judith Mank](https://www.zoology.ubc.ca/mank-lab/) (University of British Columbia)! 
 
 November 2019: Sarah received an Early Career Researcher Seed Grant from the [New Zealand Antarctic Research Institute](https://nzari.aq/)! The project is focused on developing environmental DNA sequencing protocols that can be used in Antarctica. 
 
