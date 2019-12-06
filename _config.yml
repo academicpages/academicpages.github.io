@@ -242,7 +242,14 @@ defaults:
       layout: single
       author_profile: true
       share: true
-
+  # _openpositions
+  - scope:
+      path: ""
+      type: openpositions
+    values:
+      layout: single
+      author_profile: true
+      share: true
       
 
 # Sass/SCSS
