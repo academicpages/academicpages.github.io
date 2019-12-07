@@ -98,4 +98,4 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 # Links
 - [Nakata Laboratory](http://www.me.titech.ac.jp/~nakatalab/index.html)
 - [Department of Industrial Engineering and Economics](https://educ.titech.ac.jp/iee/eng/)
-- [Tokyo Institute of Technology](https://www.titech.ac.jp/)
+- [Tokyo Institute of Technology](https://www.titech.ac.jp/english/)
