@@ -36,7 +36,7 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 1. A. Tanaka, A. Sannai, K. Kobayashi and N. Hamada: Asymptotic Risk of B'ezier Simplex Fitting, Proceedings of the 34th AAAI Conference on Artificial Intelligence (in press).<br>
 <span style="color: red; ">Acceptance rate: 1591/7737 = 20.6%</span>
 1. K. Kobayashi and Y. Takano: A Branch-and-Cut Algorithm for Solving Mixed-integer Semidefinite Optimization Problems, Computational Optimization and Applications (in press).
-1. Li Sun, Xiaoyi Yu, Liuan Wang, Jun Sun, Hiroya Inakoshi, Ken Kobayashi, Hiromichi Kobashi: Automatic Neural Network Search Method for Open Set Recognition, The 26th IEEE International Conference on Image Processing, 26, (2019),  4090-4094.
+1. L. Sun, X. Yu, L. Wang, J. Sun, H. Inakoshi, K. Kobayashi, H. Kobashi: Automatic Neural Network Search Method for Open Set Recognition, The 26th IEEE International Conference on Image Processing, 26, (2019),  4090-4094.
 1. 西村直樹, 小林健, 吉住宗朔: 制約つき比例ハザードモデルを用いたヘアサロンの再来店状況分析, オペレーションズ・リサーチ, 64 (2018), 65--72.
 1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama: B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization, Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 33 (2019), 2304--2313.<br>
 <span style="color: red; ">Acceptance rate: 1150/7095 = 16.2%</span>
