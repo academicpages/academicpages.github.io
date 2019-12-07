@@ -88,7 +88,7 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 1.  小林健:  2014 年度社会理工学研究科長賞ポスター部門,  東京工業大学 大学院社会理工学研究科, 2014 年 11 月.
 1.  中田和秀, 高野祐一, 小林健, 西村直樹, 吉田佑輔, 菅原光太郎, 山根智之: 平成 26 年度データ解析コンペティション成果報告会データ 1 部門 最優秀賞, 経営科学系研究部会連合協議会, 2015 年 3 月.
 1.  中田和秀, 高野祐一, 小林健, 西村直樹, 吉田佑輔, 菅原光太郎, 山根智之:  ビッグデータチャレンジ賞,  慶應義塾大学 文科省委託事業 スキルと実践を重視したビッグデータ・イノベーション人材育成プログラム, 2015 年 3 月.
-1.  西村直樹, 小林健:  データサイエンスフェスティバル 研究奨励賞,  株式会社スタートトゥデイ, 2014 年 11 月.
+1.  西村直樹, 小林健:  データサイエンスフェスティバル 研究奨励賞,  株式会社スタートトゥデイ, 2014 年 11 月.  
 1.  土谷拓人, 小林健, 西村直樹，馬場隆, 中田和秀, 田中研太郎:  平成 25 年度 データ解析コンペティション 課題設定部門 敢闘賞, 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 2014 年 3 月.
 1.  小林健, 田中未来, 鮏川矩義:  2013 年度社会理工学研究科長賞ポスター部門,  東京工業大学 大学院社会理工学研究科, 2013 年 11 月.
 1.  高野祐一, 中田和秀, 田中研太郎, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健:  平成 24 年度 データ解析コンペティション フリー一般部門 殊勲賞, 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 2013 年 2 月.
@@ -96,5 +96,5 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 ---
 # Links
 - [Nakata Laboratory](http://www.me.titech.ac.jp/~nakatalab/index.html)
-- [Department of Industrial Engineering and Economics](https://educ.titech.ac.jp/iee)
+- [Department of Industrial Engineering and Economics](https://educ.titech.ac.jp/iee/eng/)
 - [Tokyo Institute of Technology](https://www.titech.ac.jp/)
