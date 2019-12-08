@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:                   # An array of links to social media profiles
 
 
 # Analytics
@@ -86,7 +86,7 @@ author:
   location         : "Edinburgh"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=LNO4XZQAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "a.antoniou@sms.ed.ac.uk"
+  email            : "a.antoniou.main@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -112,7 +112,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  schedule_meeting : "https://calendly.com/antreasantoniou"
 
 # Reading Files
 include:

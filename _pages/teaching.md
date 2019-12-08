@@ -31,3 +31,8 @@ ICML paper format. This component requires supporting students in writing a conc
 ### Teaching Assistant in - Lancaster University - 2014-2015:
 - Supporting the learning of students in the lab sessions via instruction and guidance
 - Evaluating students coursework via marking and discussions with other teaching staff 
+
+### Teaching Award Nominations
+- 2019 5 Teaching Award Nominations on Best Practice in Inclusive Learning Award, Best Support
+Staff Award, 2 x Best Student Who Tutors Award and Best UK PhD Tutor Award - [Read Nomination Letters](/awards)
+- 2018 Nominated for the Best Student Who Tutors Award
