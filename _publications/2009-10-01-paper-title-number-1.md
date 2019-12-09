@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Accelerating Information Retrieval using Natural Language
+Processing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: http://www.ijcstjournal.org/volume-6/issue-3/IJCST-V6I3P19.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2018-05-19
+venue: 'International Journal of Computer Science Trends and Technology – Volume 6 Issue 3, May - June 2018'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Vignesh Venkatesh. (2018). &quot;Accelerating Information Retrieval using Natural Language
+Processing.&quot; <i>International Journal of Computer Science Trends and Technology</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Vignesh Venkatesh. (2018). &quot;Accelerating Information Retrieval using Natural Language
+Processing.&quot; <i>International Journal of Computer Science Trends and Technology</i>. 1(1).'
