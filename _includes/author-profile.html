@@ -35,7 +35,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.schedule_meeting %}
-        <li><a href="{{ author.schedule_meeting }}"> <i class="fa fa-calendar" aria-hidden="true"></i> {{ default: "Schedule a Meeting" }}</a></li>
+        <li><a href="{{ author.schedule_meeting }}"> <i class="fa fa-calendar" aria-hidden="true"></i> {{ "Schedule a Meeting" }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
