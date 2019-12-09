@@ -10,7 +10,7 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
@@ -45,7 +45,6 @@
       <a href="{{ author.goodreads }}"><i class="fab fa-fw fa-goodreads"></i></a>
     {% endif %}
       
-    <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
         
       {% if author.location %}

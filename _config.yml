@@ -4,8 +4,8 @@ title                    : "Onno Pepijn Kampman"
 title_separator          : "-"
 name                     : &name "Onno Pepijn Kampman"
 description              : &description "Computational Neuroscientist"
-url                      : https://onnokampman.github.io # the base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://onnokampman.github.io  # the base hostname & protocol for your site
+baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : "OnnoKampman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -19,7 +19,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages"  # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -67,12 +67,15 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?user=gSVe8CkAAAAJ&hl=en"
   email            : "opk20@cam.ac.uk"
   uri              :
+  angellist        :
   bitbucket        :
   codepen          :
   github           : "OnnoKampman"
+  gitlab           :
   goodreads        : "https://www.goodreads.com/user/show/43642138-onno"
   keybase          :
-  linkedin         : "https://www.linkedin.com/in/onnokampman/"
+  linkedin         : "onnokampman"
+  mendeley         :
 #  orcid            : "http://orcid.org/yourorcidurl"
   researchgate     :
   soundcloud       :
