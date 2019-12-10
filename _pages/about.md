@@ -16,7 +16,7 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
-\[November 2019\] Our paper **GraLSP: Graph Neural Networks with Local Structural Patterns** is accepted at AAAI 2020! 
+\[November 2019\] Our paper **GraLSP: Graph Neural Networks with Local Structural Patterns** is accepted at AAAI 2020! A preprint version can be found [here](https://arxiv.org/pdf/1911.07675.pdf). 
 
 \[November 2019\] Our paper **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** was awarded *Best Research Paper Runner-up* at CIKM 2019! [PDF](https://kl4805.github.io/files/CIKM19.pdf)
 
