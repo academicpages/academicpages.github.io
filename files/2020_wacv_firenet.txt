@@ -1,0 +1,6 @@
+@InProceedings{Scheerlinck20wacv,
+  author        = {Cedric Scheerlinck and Henri Rebecq and Daniel Gehrig and Nick Barnes and Robert Mahony and Davide Scaramuzza},
+  title         = {Fast Image Reconstruction with an Event Camera},
+  booktitle     = {{IEEE} Winter Conf. Appl. Comput. Vis. {(WACV)}},
+  year          = {2020}
+}
