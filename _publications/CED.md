@@ -4,7 +4,7 @@ collection: publications
 permalink: /CED
 excerpt: 
 date: 2019-06-16
-venue: Conference on Computer Vision and Pattern Recognition Workshops
+venue: Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 paperurl:
 citation: 
 youtubeId: R9BiRN7f7uY

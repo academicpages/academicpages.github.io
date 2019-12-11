@@ -27,4 +27,4 @@ We propose a novel neural network architecture for video reconstruction from eve
 
 <br />
 <b>Reference:</b>
-* C. Scheerlinck, H. Rebecq, D. Gehrig, N. Barnes, R. Mahony, D. Scaramuzza, "Fast Image Reconstruction with an Event Camera", Winter Conference on Applications of Computer Vision, 2020.
+* C. Scheerlinck, H. Rebecq, D. Gehrig, N. Barnes, R. Mahony, D. Scaramuzza, "Fast Image Reconstruction with an Event Camera", Winter Conference on Applications of Computer Vision (WACV), 2020.
