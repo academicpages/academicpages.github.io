@@ -1,6 +1,6 @@
 ---
 title: "Fast Image Reconstruction with an Event Camera"
-author: "C. Scheerlinck, H. Rebecq, D. Gehrig, N. Barnes, R. Mahony, D. Scaramuzza"
+author: "<u>C. Scheerlinck</u>, H. Rebecq, D. Gehrig, N. Barnes, R. Mahony, D. Scaramuzza"
 collection: publications
 permalink: /firenet
 excerpt: 

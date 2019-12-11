@@ -1,6 +1,6 @@
 ---
 title: "High Frame Rate Video Reconstruction based on an Event Camera"
-author: "L. Pan, R. Hartley, C. Scheerlinck, M. Liu, X. Yu, Y. Dai"
+author: "L. Pan, R. Hartley, <u>C. Scheerlinck</u>, M. Liu, X. Yu, Y. Dai"
 collection: publications
 permalink: /medi
 excerpt: 
