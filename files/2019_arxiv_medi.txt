@@ -1,0 +1,8 @@
+@Article{Pan19arxiv,
+  author        = {Liyuan Pan and Richard I. Hartley and Cedric Scheerlinck and Miaomiao Liu and Xin Yu and Yuchao Dai},
+  title         = {High Frame Rate Video Reconstruction based on an Event Camera},
+  year          = {2019},
+  booktitle     = {ar{X}iv e-prints},
+  url           = {http://arxiv.org/abs/1903.06531},
+  arxivid       = {1903.06531}
+}
