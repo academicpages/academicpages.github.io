@@ -1,5 +1,6 @@
 ---
 title: "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera"
+author: "L. Pan, C. Scheerlinck, X. Yu, R. Hartley, M. Liu, Y. Dao"
 collection: publications
 permalink: /event-deblurring
 excerpt: 

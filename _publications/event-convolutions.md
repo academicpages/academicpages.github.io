@@ -1,5 +1,6 @@
 ---
 title: "Asynchronous Spatial Image Convolutions for Event Cameras"
+author: "C. Scheerlinck, N. Barnes, R. Mahony"
 collection: publications
 redirect_from:
   - /2018_event_convolutions

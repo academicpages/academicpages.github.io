@@ -1,5 +1,6 @@
 ---
 title: "Continuous-time Intensity Estimation Using Event Cameras"
+author: "C. Scheerlinck, N. Barnes, R. Mahony"
 collection: publications
 permalink: /continuous-time-intensity-estimation
 excerpt: 

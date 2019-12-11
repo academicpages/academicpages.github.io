@@ -1,5 +1,6 @@
 ---
 title: "CED: Color Event Camera Dataset"
+author: "C. Scheerlinck\\*, H. Rebecq\\*, T. Stoffregen, N. Barnes, R. Mahony, D. Scaramuzza"
 collection: publications
 permalink: /CED
 excerpt: 
@@ -32,3 +33,6 @@ Finally, we present an evaluation of three state-of-the-art image reconstruction
 <br />
 <b>Reference:</b>
 * C. Scheerlinck\*, H. Rebecq\*, T. Stoffregen, N. Barnes, R. Mahony, D. Scaramuzza, "CED: Color Event Camera Dataset", Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.
+
+<br />
+\* Equal contribution.
