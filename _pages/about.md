@@ -12,4 +12,4 @@ I’m Mehdi Momen, a Statistical and Quantitative Geneticist and a research asso
 
 Research Interet 
 ======
-My research interests span a broad range of topics including quantitative genetics and animal breeding. My recent research includes 1)  Genomic dissection of spontaneous disease in compansion animals, 2) Developing statistical for GWAS and genome prediction in companion animal using Whole-Genome sequence data , and 3) De novo assembly. 
+My research interests span a broad range of topics including quantitative genetics and animal breeding. My recent research includes 1)  Genomic dissection of spontaneous disease in compansion animals, 2) Developing statistical models for GWAS and genome prediction in companion animal using Whole-Genome sequence data , and 3) De novo assembly. 
