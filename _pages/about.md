@@ -63,8 +63,6 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:     B'ezier simplex fitting: describing Pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
 
 ## Domestic Conferences
-1. 白鳥友風, 小林健, 高野祐一: 構造的正則化手法を用いた階層的時系列の予測 第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
-1. 金森憲太朗，高木拓也，小林健: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
 1. 小林健, 高野祐一:  混合整数半正定値最適化問題に対する分枝切除法と機械学習への応用,  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
 1.  田中章詞, 三内顕義, 小林健, 濱田直希:  ベジエ単体近似法の漸近リスク,  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
 1. 小林健, 高野祐一:      混合整数半正定値最適化問題に対する分枝切除法, 日本オペレーションズ･リサーチ学会研究部会 最適化とその応用 未来を担う若手研究者の集い 2019, 筑波大学, 2019 年 6 月.
