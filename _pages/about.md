@@ -32,7 +32,7 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 ---
 # Publications
 
-## Refreed Journals and Proceedings
+## Refereed Journals and Proceedings
 1. A. Tanaka, A. Sannai, K. Kobayashi and N. Hamada: Asymptotic Risk of B'ezier Simplex Fitting, Proceedings of the 34th AAAI Conference on Artificial Intelligence (in press).<br>
  **Acceptance rate: 1591/7737 = 20.6%**
 1. K. Kobayashi and Y. Takano: A Branch-and-Cut Algorithm for Solving Mixed-integer Semidefinite Optimization Problems, Computational Optimization and Applications (in press).
@@ -60,7 +60,7 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 ## International Conferences
 1. K. Kobayashi and Y. Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  The 2019 INFORMS Annual Meeting, Washington Convention Center, October, 2019.
 1. K. Kobayashi and Y. Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  International Conference on Nonlinear Analysis and Convex Analysis--International Conference on Optimization: Techniques and Applications (NACA-ICOTA2019), Future University Hakodate, August, 2019.
-1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:     B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
+1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:     B'ezier simplex fitting: describing Pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
 
 ## Domestic Conferences
 1. 白鳥友風, 小林健, 高野祐一: 構造的正則化手法を用いた階層的時系列の予測 第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
