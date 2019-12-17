@@ -17,24 +17,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Student Research Assistant
+  * University of Bonn
+  * Research topic: Fiber tracking
+  * Supervisor: Professor Thomas Schultz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Research Assistant
+  * Design Innovation Center, Cluster Innovation Center, University of Delhi
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming 
+  * Java 
+  * Python
 
 
 Service and leadership
