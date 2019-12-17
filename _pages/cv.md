@@ -30,6 +30,7 @@ Skills
 * Programming 
   * Java 
   * Python
+  * C++ (elementary)
 
 
 Service and leadership
