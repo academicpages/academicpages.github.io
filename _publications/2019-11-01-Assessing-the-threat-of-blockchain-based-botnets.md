@@ -8,6 +8,4 @@ venue: 'In the proceedings of eCrime 2019: Symposium on Electronic Crime Researc
 paperurl: 'http://tubiblio.ulb.tu-darmstadt.de/117622/'
 citation: ' Leon B{\&quot;o}ck,  Nikolaos Alexopoulos,  Emine Saracoglu,  Max M{\&quot;u}hlh{\&quot;a}user,  Emmanouil Vasilomanolakis, &quot;Assessing the threat of blockchain-based botnets.&quot; In the proceedings of eCrime 2019: Symposium on Electronic Crime Research, 2019.'
 ---
-(to appear)
-
 [Access paper here](http://tubiblio.ulb.tu-darmstadt.de/117622/){:target="_blank"}
