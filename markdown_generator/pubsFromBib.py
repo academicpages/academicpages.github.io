@@ -106,7 +106,7 @@ for pubsource in publist:
                 authors = authors+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #clean authors
-            clean_authors = html_escape(authors.replace("{\\\"a}","&auml;").replace("{\\\"e}","&euml;").replace("{\\\"o}","&ouml;")) + "."
+            clean_authors = html_escape(authors.replace("{\\\"a}","ä").replace("{\\\"u}","ü").replace("{\\\"o}","o")) + "."
             
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
