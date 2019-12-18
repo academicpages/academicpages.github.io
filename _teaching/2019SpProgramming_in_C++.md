@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019SpPKU
 venue: "School of EECS, Peking University"
-date: 2019-03
+date: 2019-03-01
 location: "Beijing, China"
 ---
 
