@@ -144,17 +144,11 @@ for pubsource in publist:
             if "dataset" in b.keys():
                 if len(str(b["dataset"])) > 5:
                     md += "\ndataset: '" + b["dataset"] + "'"
-                    url = True
+                    dataset = True
             
             ## Markdown description for individual page
 #            if note:
 #                md += "\n" + html_escape(b["note"]) + "\n"
-
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
-            
-            if dataset:
-                md += "\n[Access dataset here](" + b["dataset"] + "){:target=\"_blank\"}\n" 
 
             md_filename = os.path.basename(md_filename)
 
