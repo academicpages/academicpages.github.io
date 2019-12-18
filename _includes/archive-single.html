@@ -28,7 +28,7 @@
 
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.paperurl %}
-        <a href="{{ post.link }}"></a> <a href="{{ base_path }}{{ post.url }}">{{ title }}</a><a href=" {{ post.paperurl }} ">[pdf]</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a><a href=" {{ post.paperurl }} ">[pdf]</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
