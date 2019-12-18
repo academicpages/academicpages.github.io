@@ -2,7 +2,6 @@
 title: "Assessing the threat of blockchain-based botnets"
 collection: publications
 permalink: /publication/2019-11-01-Assessing-the-threat-of-blockchain-based-botnets
-excerpt: '(to appear)'
 date: 2019-11-01
 venue: 'In the proceedings of eCrime 2019: Symposium on Electronic Crime Research'
 paperurl: 'http://tubiblio.ulb.tu-darmstadt.de/117622/'
