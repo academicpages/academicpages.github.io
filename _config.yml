@@ -85,7 +85,7 @@ author:
   bio              : "PhD candidate at National University of Singapore - School of Computing"
   location         : "Singapore"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=9-rgPvgAAAAJ&hl=en
   email            : taksu@u.nus.edu.sg
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : ibrahim-taha-aksu-b86647114/
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
