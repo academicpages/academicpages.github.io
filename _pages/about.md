@@ -18,14 +18,14 @@ My research interests include modeling techniques and algorithms on mixed-intege
 
 
 ---
-# Educations
+# Education
 - Apr 2019--present: a PhD candidate, School of Engineering
 Department of Industrial Engineering and Economics, Tokyo Institute of Technology
 - Apr 2013--Mar 2015: Master of Engineering, Department of Industrial Engineering and Management, Graduate School of Decision Science and Technology, Tokyo Institute of Technology
 - Apr 2009--Mar 2013: Bachelor of Engineering, Department of Industrial and Systems Engineering, Faculty of Engineering, Tokyo Institute of Technology
 
 ---
-# Work experiences
+# Work Experience
 - Jun 2017--present: Visiting scientist, RIKEN Center for Advanced Intelligence Project
 - Apr 2015--present: Researcher, Artificial  Intelligence Laboratory, Fujitsu Laboratories LTD.
 
@@ -91,6 +91,10 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 1.  土谷拓人, 小林健, 西村直樹，馬場隆, 中田和秀, 田中研太郎:  平成 25 年度 データ解析コンペティション 課題設定部門 敢闘賞, 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 2014 年 3 月.
 1.  小林健, 田中未来, 鮏川矩義:  2013 年度社会理工学研究科長賞ポスター部門,  東京工業大学 大学院社会理工学研究科, 2013 年 11 月.
 1.  高野祐一, 中田和秀, 田中研太郎, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健:  平成 24 年度 データ解析コンペティション フリー一般部門 殊勲賞, 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 2013 年 2 月.
+
+---
+# Society Membership
+- The Operations Research Society of Japan
 
 ---
 # Links
