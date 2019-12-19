@@ -2,7 +2,6 @@
 title: "Heatmap for patterns of association in log-linear models"
 output:
   html_notebook: default
-  word_document: default
 ---
 
 
@@ -208,8 +207,6 @@ plot <- plot %>% add_sub(.,"I+II: Service class, III: Routine non-manual employe
 
 print(plot)
 
-filename <- "/Users/Mauricio/Library/Mobile Documents/com~apple~CloudDocs/Research/Visualization LLM/myfigure.png"
-save_plot(filename, plot, base_height = 10, base_width = 11)
 
 ```
 
