@@ -3,14 +3,14 @@ title: "Reranking of responses using transfer learning
 for a retrieval-based chatbot"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Transfer Learning attempt to train an open domain dialogue system.'
+date: 2019-04-24
+venue: 'IWSDS'
+paperurl: 'https://github.com/cuthalionn/cuthalionn.github.io/blob/master/files/DialoguePaper.pdf'
+citation: 'IT Aksu, NF Chen, LF D'Haro, R Banchs. (2019). &quot; Reranking of responses using transfer learning for a retrieval-based chatbot.&quot; <i>IWSDS</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Transfer Learning attempt to train an open domain dialogue system.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://github.com/cuthalionn/cuthalionn.github.io/blob/master/files/DialoguePaper.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: IT Aksu, NF Chen, LF D'Haro, R Banchs. (2019)."Reranking of responses using transfer learning for a retrieval-based chatbot", IWSDS.
