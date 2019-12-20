@@ -14,12 +14,18 @@ redirect_from:
 - Bahamonde, H. (2011). El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009. **Revista de Ciencia Política**. 31(2), pp. 285-310. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). [[Abstract]](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2011000200007&lng=es&nrm=iso&tlng=en).
 
 
+## Invited Book Reviews
+
+- Inés Durán Matute (2019).[Indigenous Peoples and the Geographies of Power: Mezcala's Narratives of Neoliberal Governance](https://doi.org/10.1080/13260219.2019.1671679). **Journal of Iberian and Latin American Research**, Routledge.
+
+
+
 ## Work In Preparation
 
 - **Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt?token=AEe6kdAYNOD1uISCyrznDwOnmun1MBFfks5bYfK6wA%3D%3D). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
 
-- **Still for Sale: The Micro-Dynamics of Vote-Selling in the United States, Evidence From a List and Conjoint Experiments**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
+- **Still for Sale: The Micro-Dynamics of Vote-Selling in the United States, Evidence From a List and Conjoint Experiments**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Revise and Resubmit**.
 
 
 - **Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)**. <br/> [[Paper]](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt?token=AEe6kepKK7gMgsKW3WqxsGzd6jajPSbOks5bYe9DwA%3D%3D). [[Data]](http://www.hectorbahamonde.com/datasets/).
