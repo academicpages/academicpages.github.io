@@ -5,15 +5,15 @@ author_profile: true
 permalink: /funstuff/
 ---
 
-In my free time I like to play soccer. 
+
+**Soccer:** In my free time I like to play soccer. Here is a picture of me with club soccer team in college. I currently like to play rec soccer through the Chicago Fire Rec Soccer league on weekends. 
 
 ![Picture of my soccer team](../images/IMG_0015.jpeg)
 
-I also wrote a [short article](https://medium.com/@abbylee/back-from-a-month-long-europe-backpacking-trip-44f33ddcaf3e) about my time backpacking in Europe for one month after graduating from undergrad. Read if you want any recommendations about budgeting, traveling, and food! Or if you're just curious.
+**Running:** In the past year, I have started running pretty regularly. I am currently training for the 2020 Chicago Marathon!
 
-
+**Game of Thrones**
 I am a huge Game of Thrones fan as well. One of my life goals is to visit all the major Game of Thrones filming sites. 
-
 
 
 <figure class="half">
@@ -78,4 +78,6 @@ I am a huge Game of Thrones fan as well. One of my life goals is to visit all th
     <figcaption>Steps of Braavos where the Waif chases Arya.</figcaption>
 </figure>
 
+**Blog**
+I wrote a [short article](https://medium.com/@abbylee/back-from-a-month-long-europe-backpacking-trip-44f33ddcaf3e) about my time backpacking in Europe for one month after graduating from undergrad. Read if you want any recommendations about budgeting, traveling, and food! Or if you're just curious.
 
