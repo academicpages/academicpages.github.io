@@ -18,6 +18,7 @@ I have presented / will be presenting at...
 
 #### Midwest Political Science Association (MPSA)
 
+- Chicago, IL: 2020. Panel Session: Experiments for Improving Democratic Institutions. With *Andrea Canales* (UOH, Chile).
 - Chicago, IL: 2018. JSS Session: Comparative Political Economy. [declined]
 - Chicago, IL: 2017. JSS Session: Political Economy of Development and Regime Change.
 

@@ -72,5 +72,10 @@ var addressPoints = [
     44.497150,
     11.354028
   ],
-
+// MPSA
+  [
+    "Chicago, USA", // MPSA: 2020 (Palmer House)
+    41.880646,
+    -87.627422
+  ]
 ];

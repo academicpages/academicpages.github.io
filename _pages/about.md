@@ -26,19 +26,8 @@ My <b>primary subfield is the political economy of development of Latin America<
 Next Talks/Conferences
 ============
 
-1. **April 11-13, Bologna, Italy**: *XVI International Conference of AISPE* (Italian Association for the History of Economic Thought).
+1. **April 16-19, 2020, Chicago, United States**: *MPSA* 
 
-2. **April 23-26, Concepción, Chile**: *INPAE Congress* (Red Interamericana de Educación en Administración Pública).
-
-3. **May 13-14, NOLA, USA**: *Red de Economía Política para America Latina*.
-
-4. **May 31, Santiago, Chile**: Research Seminar at **Ciencia Política-PUC**.
-
-5. **August 29-September 1 2019, Washington D.C.**. APSA (full paper panel organizer).
-
-<!---
-1. **August 29 - September 1,  Washington, DC, USA**. *APSA*.
--->
 
 <!---
 Job Market
