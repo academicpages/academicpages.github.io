@@ -19,7 +19,7 @@ redirect_from:
 
 Recent News
 ======
-* Joined **BenevolentAI**, a research company focused on applying AI to the drug discovery problem as Machine Learning Engineer, where I will be working on NLP alongside an amazing team of researchers, engineers and bioinformaticians.[02.12.2019]
+* Joined **BenevolentAI**, a research company focused on applying AI to the drug discovery problem as Machine Learning Engineer, where I will be working on NLP alongside an amazing team of researchers, engineers and bioinformaticians.  [02.12.2019]
 * Gave a talk on **Learning to cooperate with Multi-Agent Reinforcement Learning** on ML in PL conference. University of Warsaw. [23.11.2019]
 * Received **Best Talk - People's choice award** for my talk on **"Learning to cooperate - the emergence of sustainable resource management among artificial intelligence agents"** at Science: Polish Perspectives (SPP) conference. Cambridge 2019. [09.11.2019]
 * I have submitted an early draft of my survey on stabilizing GAN training to arXiv. You can see it [here](https://arxiv.org/abs/1910.00927). Please get in touch if you have any feedback. [02.10.2019]
