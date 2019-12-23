@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Phd student in...**
+Phd student in...
