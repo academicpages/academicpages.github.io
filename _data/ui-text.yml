@@ -21,8 +21,8 @@ en: &DEFAULT_EN
   comments_title             : "Comments"
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
-  follow_label               : "Follow:"
-  feed_label                 : "Feed"
+  follow_label               : 
+  feed_label                 : 
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
@@ -69,8 +69,8 @@ es: &DEFAULT_ES
   comments_title             :
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
-  follow_label               : "Seguir:"
-  feed_label                 : "Feed"
+  follow_label               : 
+  feed_label                 : 
   powered_by                 : "Powered by"
   website_label              : "Sitio web"
   email_label                : "Email"
@@ -114,7 +114,7 @@ fr: &DEFAULT_FR
   more_label                 : "Lire plus"
   related_label              : "Vous pourriez aimer"
   follow_label               : "Suivez moi"
-  feed_label                 : "Flux"
+  feed_label                 : 
   powered_by                 : "Propulsé par"
   website_label              : "Site"
   email_label                : "Email"
