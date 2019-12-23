@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://macwiatrak.github.io/files/profile.png" alt="Photo" style="width: 450px;"/> 
+  <img src="https://macwiatrak.github.io/files/profile_in_mountains.png" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Machine Learning Engineer @ BenevolentAI, an AI research company working on applying machine learning to the drug discovery and development process. 
