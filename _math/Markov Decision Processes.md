@@ -34,13 +34,13 @@ An irreducible subset of the state space is a set of states that are all fully p
 [FIGURE 5] [FIGURE 6]
 
 If the Markov chain has more than one steady state distribution, we will abuse notation and use $\bar{\rho}$ to represent a matrix whose columns span the space of steady state distributions.  The columns of $\bar{\rho}$ are the right eigenvectors corresponding to the left eigenvectors of $\mathbf{1}^T$.  
-
+    
 If the Markov chain is periodic, it may not converge to a steady state distribution but rather "converge" to a set of oscillating distributions.  We will represent the discrete Fourier basis vectors that span this set of oscillating distributions by the columns of a matrix $Z$.  Two examples of this situation are illustrated in Figures 7,8 and 9,10.  Note that the first Markov chain is a pure cycle and thus any initial distribution will just oscillate and not converge.  In this case, the Jordan decomposition will have the form
 
 \\[
 M = RDL  =
 \begin{bmatrix} | & |  \\\\ \mathbf{1} & Z  \\\\ | & |  \end{bmatrix}
-\begin{bmatrix} 1 &  0 \\\\  & z  \end{bmatrix}
+\begin{bmatrix} 1 &  \\\\  &   \end{bmatrix}
 \begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \end{bmatrix}
 \\]
 
@@ -58,5 +58,7 @@ with $Z = $.
 
 
 
+Markov Decision Processes
 
+Solving a Markov decision process can be thought of as d
 
