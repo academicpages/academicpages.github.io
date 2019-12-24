@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bo Miao"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "Machine Learning, Computer Vision"
   location         : "Beijing"
   employer         :
