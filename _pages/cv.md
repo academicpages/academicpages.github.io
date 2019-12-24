@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, University of Jinan, 2015
+* B.S.  in Engineering, University of Jinan, 2015
 * M.S. in Engineering, University of Jinan, 2018
 
 Work experience
