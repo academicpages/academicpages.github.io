@@ -2,7 +2,7 @@
 title: "Classification of ADHD Individuals and Neurotypicals Using Reliable RELIEF: A Resting-State Study"
 collection: publications
 permalink: /publication/2019-05-09-IEEE-Access
-[//]: excerpt: 'This paper is about the detection of ADHD using fMRI and machine learning.'
+[//]: # (excerpt: 'This paper is about the detection of ADHD using fMRI and machine learning.')
 date: 2019-05-09
 venue: 'IEEE Access'
 paperurl: 'doi.org/10.1109/ACCESS.2019.2915988'
