@@ -6,7 +6,7 @@ permalink: /math/markov_decision_processes
 ---
 
 
-Markov chains are used to represent a discrete time stochastic transition process between states.  The probability of transition from one state to another only depends on the current state, not on previous states.  This is actually a less restrictive assumption than one might assume since one can incorporate previous history by augmenting the state space (although there would be however a pretty substantial increase in the size of the problem.)
+Markov chains represent a discrete time stochastic transition process between states.  The probability of transition from one state to another only depends on the current state, not on previous states.  This is actually a less restrictive assumption than one might assume since one can incorporate previous history by augmenting the state space (although there would be however a pretty substantial increase in the size of the problem.)
 
 
 Suppose we have an initial probability distribution over the states $\rho_0 \in \mathbb{R}^{|\mathcal{S}|}$.  A Markov chain can be represented by a column stochastic matrix $M \in [0,1]^{|\mathcal{S}|\times|\mathcal{S}|}$.  The state distribution at time $t$, $\rho_t$ can be computed by the recursive equation
