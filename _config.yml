@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chris Friedman"
   avatar           : "https://res.cloudinary.com/chrissfriedman/image/upload/v1565540407/profile%20picture/work_me.jpg"
-  bio              : "Data Analysis of the social networks of autism. "
+  bio              : "Data Analysis and Beer"
   location         : "Philadelphia"
-  employer         : "A.J. Drexel Autism Institute"
+  employer         : "Children's Hospital of Philadelphia"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=seCHqg8AAAAJ&hl=en"
-  email            : 
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
