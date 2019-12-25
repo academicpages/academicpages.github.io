@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Chris, a data analyst in the [AJ Drexel Autism Institute](https://drexel.edu/autisminstitute/). I work under [Elizabeth McGhee Hassrick](https://drexel.edu/autisminstitute/about/our-team/all-staff/Elizabeth-McGhee-Hassrick/), where we study the social networks of Autism.
+Hi! I'm Chris, a data support analyst in the [d3B center](https://d3b.center/) at the Children's Hospital of Philadelphia. There, I'm responsible for helping users when they encounter problems with or have questions about using the [Kids First Data Resource Portal](https://kidsfirstdrc.org/) and helping to streamline the work that goes on behind the scenes to help shepherd data from scientists collecting the data onto the portal.
 
-My contribution to our lab is based around handling our data in a way that is secure, accurate, concise, and reproducible. To achieve that goal, we employ Qualtrics for collecting most of our data and then I write R programs that analyze those data as they come in to monitor them for quality. Once data is collected, I write R programs to take the data from raw to publication.    
+Outside of the office, I make beer and I woodwork. 
