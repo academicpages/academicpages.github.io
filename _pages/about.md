@@ -26,7 +26,9 @@ My <b>primary subfield is the political economy of development of Latin America<
 Next Talks/Conferences
 ============
 
-1. **April 16-19, 2020, Chicago, United States**: *MPSA* 
+1.  **January 8-11, 2020, San Juan, Puerto Rico**: *SPSA*.
+
+2. **April 16-19, 2020, Chicago, United States**: *MPSA*.
 
 
 <!---

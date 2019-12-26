@@ -58,6 +58,7 @@ I have presented / will be presenting at...
 
 #### Southern Political Science Association (SPSA)
 
+- San Juan, Puerto Rico: 2020. Panel: Trust, Clientelism, and Behavior. [declined]
 - New Orleans, LA: 2018. Panel: The Political Economy of Development.
 - New Orleans, LA: 2015. Panel: Issues in Electoral Politics.
 
