@@ -10,9 +10,6 @@ redirect_from:
 
 This is the front page of a website that is powered by the [academicpages template]
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & 
 
 Getting started
 ======
@@ -29,8 +26,6 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that 
-
-
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
