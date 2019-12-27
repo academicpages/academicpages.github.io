@@ -27,12 +27,13 @@ Contact
 
 
 
-**News**
+Contact
+------
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that 
+) that {: .notice}
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+#Example: editing a markdown file for a talk
+#![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
