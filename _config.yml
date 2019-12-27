@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Canqi Yao"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Canqi Yao"
 description              : &description "Welcome to contact with me through email."
