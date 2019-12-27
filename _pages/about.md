@@ -14,25 +14,21 @@ I am a PhD student with Department of Mehcanical and Energy Engineering at South
 
 Research Interest
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Fast algorithm in joint routing and charging problem of electrical vehicles.
+1. Electrical routing problem under dynamic traffic condition. 
 
 
 Contact
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+* Register a GitHub account if you don't have one and confirm your e-mail (required!)
+* Email: vulcanyao@gmail.com, 11849606@mail.sustech.edu.cn
+* Homepage: (https://vulcanyao.github.io) 
 
 
 
 
 
-News
-------
 
-**Watch out!** 
-* You can also add notices by appending `{: .notice}` to a paragraph.
-* new
 
 
 
