@@ -33,7 +33,7 @@ News
 **Watch out!** 
 * You can also add notices by appending `{: .notice}` to a paragraph.
 * new
-{: .notice}
+#{: .notice}
 
 
 
