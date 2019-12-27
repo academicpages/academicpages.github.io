@@ -30,8 +30,8 @@ Contact
 News
 ------
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that {: .notice}
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
 
 
 
