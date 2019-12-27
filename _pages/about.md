@@ -20,9 +20,8 @@ Research Interest
 
 Contact
 ------
-* Register a GitHub account if you don't have one and confirm your e-mail (required!)
 * Email: vulcanyao@gmail.com, 11849606@mail.sustech.edu.cn
-* Homepage: (https://vulcanyao.github.io) 
+* Homepage: [here](https://vulcanyao.github.io) 
 
 
 
