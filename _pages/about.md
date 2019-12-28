@@ -15,6 +15,6 @@ Specifically, I am interested in learning about how humans move from the data ca
 The main source of data that I work with comes in form of monocular videos, images, and time-sequence marker trajectories captured by marker based optical motion capture systems.
 
 
-I have attended Tabriz Azad University, Tabriz, Iran for my undergraduate education, where I received a BSc. in Electrical Engineering.
+I have attended Tabriz Azad University, [Tabriz](https://www.youtube.com/watch?v=OWb1yP-KpMc), [Iran](https://www.youtube.com/watch?v=CuITzmlIvbc) for my undergraduate education, where I received a BSc. in Electrical Engineering.
 Afterwards, I attended [Neural Information Processing](https://www.neuroschool-tuebingen.de/master/neural-inf-process/) 
 program at [Graduate Training Centre of Neuroscience](https://www.neuroschool-tuebingen.de/) in Tübingen, Germany.
