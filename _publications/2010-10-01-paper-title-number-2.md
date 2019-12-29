@@ -9,6 +9,5 @@ paperurl: ''
 citation: 'Canqi Yao. (2019).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Canqi Yao. (2019). "Joint Routing and Charging Problem of MultipleElectric Vehicles: A Fast Optimization Algorithm" .
+
