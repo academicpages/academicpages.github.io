@@ -3,17 +3,14 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
 
   <div class="sidebar sticky" style="margin-left: -2.6em; width: 1.9%; padding-top: 4em; position: absolute;">
-    <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
-    <p>hello.</p>
-    {% if author.email %}<a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>{% endif %}
     <ul class="author__urls">
       <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
-      {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>{% endif %}
-      {% if author.linkedin %}<a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>{% endif %}
-      {% if author.github %}<a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>{% endif %}
-      {% if author.googlescholar %}<a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>{% endif %}
-      {% if author.goodreads %}<a href="https://www.goodreads.com/user/show/{{ author.goodreads }}"><i class="fab fa-fw fa-goodreads"></i></a>{% endif %}  
-      {% if author.angellist %}<a href="https://angel.co/{{ author.angellist }}"><i class="fab fa-fw fa-angellist"></i></a>{% endif %}  
+      <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
+      <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
+      <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
+      <a href="https://www.goodreads.com/user/show/{{ author.goodreads }}"><i class="fab fa-fw fa-goodreads"></i></a>
+      <a href="https://angel.co/{{ author.angellist }}"><i class="fab fa-fw fa-angellist"></i></a>
     </ul>
   </div>
 
