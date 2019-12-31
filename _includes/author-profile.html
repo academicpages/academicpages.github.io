@@ -20,14 +20,6 @@
   </div>
 
   <div class="author__urls-wrapper" >
-      
-      {% if author.email %}<a href="mailto:{{ author.email }}" style="color:#494e52"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>{% endif %}
-      {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" style="color:#494e52"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>{% endif %}
-      {% if author.linkedin %}<a href="https://www.linkedin.com/in/{{ author.linkedin }}" style="color:#494e52"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>{% endif %}
-      {% if author.github %}<a href="https://github.com/{{ author.github }}" style="color:#494e52"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>{% endif %}
-      {% if author.googlescholar %}<a href="{{ author.googlescholar }}" style="color:#494e52"><i class="fas fa-fw fa-graduation-cap"></i></a>{% endif %}
-      {% if author.goodreads %}<a href="{{ author.goodreads }}" style="color:#494e52"><i class="fab fa-fw fa-goodreads"></i></a>{% endif %}  
-      
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
@@ -67,4 +59,5 @@
       {% endif %}
     </ul>
   </div>
+
 </div>
