@@ -12,7 +12,7 @@ redirect_from:
 
 I am a second year PhD student at the Laboratoire de Mathématique d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback.
 
-## Academic Background
+# Academic Background
 
 PHD, Laboratoire de Mathématique d'Orsay, Orsay, France, 2018-
 
@@ -40,3 +40,10 @@ Baccalauréat scientifique Franco-Allemand, Lycée Franco-Allemand de Buc, Buc, 
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, October 25., Network Days II, Orsay.
 
+# Teaching 
+
+**Rappels de Statistiques Mathématiques**, Master Spécialisé, ENSAE, 2018-2019. [Link](https://sites.google.com/site/vincentcottet/2-teaching) to the page of the course.
+
+**Introduction to Machine Learning**, 2nd year students, ENSAE, 2018-2020. [Link](https://www.ensae.fr/courses/statistique-1/) to the page of the course.
+
+**Statistiques 1**, 2nd year students, ENSAE, 2018-2020. [Link](https://www.ensae.fr/courses/introduction-au-machine-learning/) to the page of the course.
