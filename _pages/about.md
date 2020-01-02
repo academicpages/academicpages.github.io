@@ -12,7 +12,7 @@ I am a second year PhD student at the Laboratoire de Mathématique d'Orsay. I wo
 
 # Education
 
-PHD, Laboratoire de Mathématique d'Orsay, Orsay, France, 2018-
+PhD, Laboratoire de Mathématique d'Orsay, Orsay, France, 2018-
 
 Master 2 "Mathématiques de l'Aléatoire", Université Paris-Sud, Orsay, France, 2017-2018.
 
