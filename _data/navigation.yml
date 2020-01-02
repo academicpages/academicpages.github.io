@@ -3,14 +3,14 @@ main:
   - title: "Education"
     url : https://solennegaucher.github.io/#education
 
-- title: "Papers"
-    url: https://solennegaucher.github.io/#papers
+#- title: "Papers"
+ #   url: https://solennegaucher.github.io/#papers
 
-  - title: "Talks"
-    url: https://solennegaucher.github.io/#talks
+  #- title: "Talks"
+   # url: https://solennegaucher.github.io/#talks
 
-  - title: "Teaching"
-    url: https://solennegaucher.github.io/#teaching
+  #- title: "Teaching"
+   # url: https://solennegaucher.github.io/#teaching
     
  # - title: "Portfolio"
  #   url: /portfolio/
