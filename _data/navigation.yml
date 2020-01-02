@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Education"
-    url : (#education)
+    url : /data/about#education
 
  # - title: "Talks"
  #   url: /talks/    
