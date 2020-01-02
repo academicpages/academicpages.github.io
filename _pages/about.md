@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Solenne Gaucher"
-excerpt: "About me - "
+title: ""
+excerpt: "Web page - "
 author_profile: true
 redirect_from: 
   - /about/
