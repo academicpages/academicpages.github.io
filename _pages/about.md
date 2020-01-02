@@ -32,11 +32,11 @@ Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc,
 
 # Talks
 
-**Link Prediction in the Stochastic Block Model with Outliers**, October 23. 2019, Network Days III, Orsay.
+**Robust Link Prediction in the Stochastic Block Model**, October 23. 2019, Network Days III, Orsay.
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, April 5. 2019, Huitièmes Rencontres des Jeunes Statisticiens, Hyères.
 
-**Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, October 25. 2018, Network Days II, Orsay.
+**Estimation of Sparse Networks**, October 25. 2018, Network Days II, Orsay.
 
 # Teaching 
 
