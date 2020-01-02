@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mathilde Rousseau"
-  avatar           : "mathilde-lisbonne.jpg"
-  bio              : "Administrateur Système et Réseau au CNRS - Responsable du pôle système et réseau du LMO"
+  name             : "Solenne Gaucher"
+  avatar           : "solenne.jpg"
+  bio              : "PhD Student at the Laboratoire de Mathématiques d'Orsay"
   location         : "Orsay - France"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mathilderousseau"
+  github           : "solennegaucher"
   google_plus      :
   keybase          :
   instagram        :
