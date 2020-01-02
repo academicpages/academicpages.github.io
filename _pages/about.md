@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Solenne Gaucher"
 excerpt: "About me - "
 author_profile: true
 redirect_from: 
@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 # About me
-Test
+
 I am a second year PhD student at the Laboratoire de Mathématique d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback.
 
-# Academic Background
+# Education
 
 PHD, Laboratoire de Mathématique d'Orsay, Orsay, France, 2018-
 
