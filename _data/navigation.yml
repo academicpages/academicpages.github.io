@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Education"
-    url : https://solennegaucher.github.io/#teaching
+    url : https://solennegaucher.github.io/#education
 
-#- title: "Papers"
- #   url: https://solennegaucher.github.io/#papers
+  - title: "Papers"
+    url: https://solennegaucher.github.io/#papers
 
   #- title: "Talks"
-   # url: https://solennegaucher.github.io/#talks
+  #  url: https://solennegaucher.github.io/#talks
 
   #- title: "Teaching"
    # url: https://solennegaucher.github.io/#teaching
