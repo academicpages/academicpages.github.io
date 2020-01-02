@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at the Laboratoire de Mathématique d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback. Before that, I have worked under the supervision of [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on network estimation.
+I am a second year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback. Before that, I have worked under the supervision of [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on network estimation.
 
 # Education
 
-PhD, Laboratoire de Mathématique d'Orsay, Orsay, France, 2018-
+PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-
 
-Master 2 "Mathématiques de l'Aléatoire", Université Paris-Sud, Orsay, France, 2017-2018.
+Master 2 "Mathématiques de l'Aléatoire", Université Paris-Saclay, Orsay, France, 2017-2018.
 
 Diplôme d'Ingénieur, École Polytechnique, Palaiseau, France, 2014-2018.
 
