@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Education"
-    url : /_pages/about.md
+    url : /pages/about.md
 
  # - title: "Talks"
  #   url: /talks/    
