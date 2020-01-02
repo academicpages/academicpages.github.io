@@ -22,7 +22,7 @@ Diplôme d'Ingénieur, École Polytechnique, Palaiseau, France, 2014-2018.
 
 Classe Préparatoire aux Grandes Écoles, Lycée Hoche, Versailles, France, 2012-2014.
 
-Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand de Buc, Buc, France, 2012.
+Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc, France, 2012.
 
 [Curriculum Vitae](../CV.pdf)
 
