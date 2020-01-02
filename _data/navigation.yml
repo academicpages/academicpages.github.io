@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Education"
-    link: /pages/about.md#teaching
+    url : https://github.com/SolenneGaucher/solennegaucher.github.io#education
 
- # - title: "Talks"
- #   url: /talks/    
+  - title: "Talks"
+    url: https://github.com/SolenneGaucher/solennegaucher.github.io#talks
 
   #- title: "Teaching"
    # url: /teaching/    
