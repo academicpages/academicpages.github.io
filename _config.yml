@@ -179,16 +179,16 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
-    photos:
-    output: true
+  photos:
+    output: false
     permalink: /:collection/:path/
 
 
