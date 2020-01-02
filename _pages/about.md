@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-This links to [Talks](#talks) I am a second year PhD student at the Laboratoire de Mathématique d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback.
+I am a second year PhD student at the Laboratoire de Mathématique d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback. Before that, I have worked under the supervision of [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on link prediction and network estimation withr missing observations.
 
 # Education
 
