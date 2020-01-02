@@ -38,7 +38,7 @@ Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc,
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, April 5. 2019, Huitièmes Rencontres des Jeunes Statisticiens, Hyères.
 
-**Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, October 25., Network Days II, Orsay.
+**Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, October 25. 2018, Network Days II, Orsay.
 
 # Teaching 
 
