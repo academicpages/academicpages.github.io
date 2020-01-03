@@ -10,20 +10,6 @@ redirect_from:
 
 I am a second year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback. Before that, I have worked under the supervision of [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on network estimation.
 
-# Education
-
-PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-
-
-Master 2 "Mathématiques de l'Aléatoire", Université Paris-Saclay, Orsay, France, 2017-2018.
-
-Diplôme d'Ingénieur, École Polytechnique, Palaiseau, France, 2014-2018.
-
-Classe Préparatoire aux Grandes Écoles, Lycée Hoche, Versailles, France, 2012-2014.
-
-Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc, France, 2012.
-
-[Curriculum Vitae](../CV.pdf)
-
 # Papers
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp. [Arxiv](https://arxiv.org/abs/1902.10605)
@@ -45,3 +31,17 @@ Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc,
 **Introduction to Machine Learning**, 2nd year students, ENSAE, 2018-2020. [Link](https://www.ensae.fr/courses/statistique-1/) to the page of the course.
 
 **Statistiques 1**, 2nd year students, ENSAE, 2018-2020. [Link](https://www.ensae.fr/courses/introduction-au-machine-learning/) to the page of the course.
+
+# Education
+
+* PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-
+
+* Master 2 "Mathématiques de l'Aléatoire", Université Paris-Saclay, Orsay, France, 2017-2018.
+
+* Diplôme d'Ingénieur, École Polytechnique, Palaiseau, France, 2014-2018.
+
+* Classe Préparatoire aux Grandes Écoles, Lycée Hoche, Versailles, France, 2012-2014.
+
+* Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc, France, 2012.
+
+[Curriculum Vitae](../CV.pdf)
