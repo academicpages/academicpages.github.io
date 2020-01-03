@@ -28,7 +28,7 @@ I am a second year PhD student at the Laboratoire de Mathématiques d'Orsay. I w
 
 **Rappels de Statistiques Mathématiques**, Master Spécialisé, ENSAE, 2018-2019. [Link](https://sites.google.com/site/vincentcottet/2-teaching) to the page of the course.
 
-**Introduction to Machine Learning**, 2nd year students, ENSAE, 2018-2020. [Link](https://www.ensae.fr/courses/statistique-1/) to the page of the course.
+**Introduction to Machine Learning**, 2nd year students, ENSAE, 2019-2020. [Link](https://www.ensae.fr/courses/statistique-1/) to the page of the course.
 
 **Statistiques 1**, 2nd year students, ENSAE, 2018-2020. [Link](https://www.ensae.fr/courses/introduction-au-machine-learning/) to the page of the course.
 
