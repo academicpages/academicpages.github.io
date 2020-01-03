@@ -1,8 +1,8 @@
 ---
 title: "Cell size, mechanical tension, and GTPase signaling in the Single Cell"
 collection: publications
-permalink: /publication/2019-08-16-acting-ctrw
-date: 2019-08-16
+permalink: /publication/2019-08-28-single-gtpase
+date: 2019-08-28
 paperurl: 'https://arxiv.org/abs/1908.10840'
 venue: 'arXiv'
 ---
