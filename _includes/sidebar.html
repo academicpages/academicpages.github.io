@@ -1,10 +1,14 @@
 {% include base_path %}
 
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 {% if page.author_profile or layout.author_profile or page.sidebar %}
 
   <div class="sidebar sticky" style="margin-left: -2.6em; width: 1.9%; padding-top: 4em; position: absolute;">
     <ul class="author__urls">
-      <a href="mailto:opk20@cam.ac.uk"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       <a href="https://github.com/OnnoKampman"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
       <a href="https://scholar.google.com/citations?user=gSVe8CkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i></a>
       <a href="https://twitter.com/KampmanOnno"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i></a>
