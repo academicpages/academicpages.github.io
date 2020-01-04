@@ -55,6 +55,7 @@ Awards
 * 2019, CASIA "Climbing" Second-Class Scholarship, CASIA
 * 2019, AAAI Student Scholarship, AAAI
 * 2018 & 2019, SIGIR Student Travel Grants, ACM SIGIR
+* 2017, Second Place in the 12th CASIA Five-a-side Football League, CASIA
 * 2017, Second Place in 2017 UCAS Football League, University of Chinese Academy of Sciences (UCAS)
 * 2016, Outstanding Graduate Award, Wuhan University
 * 2015, Chinese Academy of Sciences Scholarship for College Students (rewarding top 10% students with postgraduate recommendation), University of Chinese Academy of Sciences (UCAS)
@@ -67,6 +68,6 @@ Misc
 ======
 * [Here](https://www.cnblogs.com/Determined22/) is my technology blog (in Chinese). I wrote some notes about machine learning and natural language processing techniques.
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
-* I am a yo-yoer, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performer is Hiroyuki Suzuki. 
+* I am a yo-yoer, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers: Hiroyuki Suzuki and Takuma Inoue. 
   
   
