@@ -6,7 +6,7 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <div class="author__avatar" style="margin-left: 2em;">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
@@ -18,10 +18,17 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
-
-  <div class="author__urls-wrapper" >
-    <button class="btn btn--inverse">Follow</button>	
-    <ul class="author__urls social-icons">
+    
+  <div class="author__urls-wrapper" style="margin-top: -9em;">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls">
+      <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
+      <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://goodreads.com/user/show/{{ author.goodreads }}"><i class="fab fa-fw fa-goodreads-g"></i></a>
+      <a href="https://linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i></a>
+      <a href="https://angel.co/{{ author.angellist }}"><i class="fab fa-fw fa-angellist"></i></a>
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
