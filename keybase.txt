@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fjavifabre
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fjavifabre.github.io
+  * I am fjavifabre (https://keybase.io/fjavifabre) on keybase.
+  * I have a public key ASBYjZc2XCscraBKLFepbTxQwZEKsEwufdU9rQO6VwIPWAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120588d97365c2b1cada04a2c57a96d3c50c1910ab04c2e7dd53dad03ba57020f580a",
+      "host": "keybase.io",
+      "kid": "0120588d97365c2b1cada04a2c57a96d3c50c1910ab04c2e7dd53dad03ba57020f580a",
+      "uid": "f126afde72c4a43c46d378ebbcc76819",
+      "username": "fjavifabre"
+    },
+    "merkle_root": {
+      "ctime": 1578146241,
+      "hash": "d1f9372da8f3e76539b976fbbc8e99f0448272407fe6a1fa1fb789d64499a898d012383840d2977142a01de095af72c86a1613b747e68f6e379c78e7030a88a9",
+      "hash_meta": "d888b2a9c2d017f5d2540d16773f73cadbcfb4630507e73899a8b4bd82659229",
+      "seqno": 14081085
+    },
+    "service": {
+      "entropy": "PBzXSYKPGOMPGuRchK45YxmE",
+      "hostname": "fjavifabre.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578146258,
+  "expire_in": 504576000,
+  "prev": "0a919b7c4a1fca0527217775da3754ebc6fe4df77808946ab8cbf70536b21284",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWI2XNlwrHK2gSixXqW08UMGRCrBMLn3VPa0DulcCD1gKp3BheWxvYWTESpcCBMQgCpGbfEofygUnIXd12jdU68b+Tfd4CJRquMv3BTayEoTEIPMbtI4zGXsESy51/qjBYL2+4Aqkdk4y8Sk1y1PcQ9ORAgHCo3NpZ8RAaq9TkInp7vdZe3oB1bk5RvhO4zntlqMWMoxGyghFDoCYDFoHW8KIPkaGR4M4jjLkEXCjBbf1G4BBTICH1eU2BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEabASq7moSLAYIls12AdNEr75JoJsjLtnxZfePOugnlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fjavifabre
+
+==================================================================
