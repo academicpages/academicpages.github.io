@@ -64,23 +64,23 @@ author:
   avatar           : "onno_kampman.jpeg"
 #  bio              : "Computational Neuroscientist"
 #  location         : "Cambridge, United Kingdom"
-  googlescholar    : "gSVe8CkAAAAJ"
-  email            : "opk20@cam.ac.uk"
+#  googlescholar    : ""
+#  email            : ""
   uri              :
-  angellist        : "onno-kampman"
+#  angellist        : ""
   bitbucket        :
   codepen          :
-  github           : "OnnoKampman"
+#  github           : ""
   gitlab           :
-  goodreads        : "43642138-onno"
+#  goodreads        : ""
   keybase          :
-  linkedin         : "onnokampman"
+#  linkedin         : ""
   mendeley         :
 #  orcid            : "http://orcid.org/yourorcidurl"
   researchgate     :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  twitter          : "KampmanOnno"
+#  twitter          : ""
   youtube          :
   wikipedia        :
 
