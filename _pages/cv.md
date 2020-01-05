@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * University College London, BASc Science & Engineering; Major: Computer Science, Minor: Economics, 2019
-  - HEJ
+  * 1st class honors with distinction (Dean’s List, top 5% of the students).
+  * Undergraduate topic thesis: “Governing the Commons with Multi-Agent Reinforcement Learning”. Advisors: Prof. Jun Wang (University College London), Dr Jakob Foerster (University of Oxford), Dr Manuela Dal Borgo (University of Cambridge).
 
 Work experience
 ======
