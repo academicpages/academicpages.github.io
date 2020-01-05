@@ -81,7 +81,7 @@ Seung-Hak Lee, **Mansu Kim**, and Hyunjin Park*.
 <i>Neural regeneration research, 2015.</i>
 
 <b>[C2] Imaging genetics of Parkinson's disease at Putamen</b> <br>
-**Mansu Kim**, and Hyunjin Park*.
+**Mansu Kim**, and Hyunjin Park*.<br>
 <span style="color:red">[**Best Presentation Award**]</span> <br>
 <i>International BioMedical Engineering Conference, 2015.</i>
 
