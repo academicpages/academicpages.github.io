@@ -17,5 +17,6 @@ University College London, Winter Semester 2019
 ## Mentor (STEM degrees)
 Project Access (NGO), 2017 - Present
 * Providing support to high schools students willing to apply to top universities in the United Kingdom.
+* Successfully supported 5 students throughout the admission process to computer science and mathematics degrees.
 
 
