@@ -17,15 +17,17 @@ Education
 Work experience
 ======
 
-* Spring, 2019: Teaching Assistant - Course Code: CS5333 - Computer and Network Security
+* Jan, 2018 - Till date : Teaching Assistant
   * IIT Hyderabad
-  * Duties included: Assignments Evaluation, Exam Coodination
-  * Faculty: Dr. Sparsh Mittal
+  * Duties included: Hands on sessions, Assignment evaluation, Exam coodination, Other departmental assignemnts
 
 * July, 2016 - January, 2018 : Senior Technical Assistant - B
   * Advanced Numerical Research and Analysis Group, DRDO, Hyderabad
   * Duties included: Testing and Evaluation of Embedded Platforms, System Administration, Resource Management
-  
+
+* Feb, 2014 - June, 2014 : Systems Engineer
+  * Infosys Limited, Mysore 
+ 
 Skills
 ======
 
@@ -44,4 +46,3 @@ Talks
     
 Service and leadership
 ======
-* Menotored an intern at IIT Hyderabad in Summer, 2019.
