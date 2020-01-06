@@ -16,6 +16,7 @@ Please find my CV here.
 
 News
 ======
+* (Jan 6th, 2020) A manuscript was accepted to IEEE ISBI 2020. 
 * (Oct 1st, 2019) I joined University of Pennsylvania, Philadelphia as an Postdoctoral Researcher in [Shen Lab](https://www.med.upenn.edu/shenlab/).
 * (Aug 26th, 2019) I completed my Ph.D. in [Electronic and Electrical Engineering](http://icc.skku.edu/) at [Sungkyunkwan University](https://www.skku.edu/skku/index.do).
 * (May 24th, 2019) A manuscript, titled "Joint-Connectivity-Based Sparse Canonical Correlation Analysis of Imaging Genetics for Detecting Biomarkers of Parkinson’s Disease", was accepted to [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/8721716).
