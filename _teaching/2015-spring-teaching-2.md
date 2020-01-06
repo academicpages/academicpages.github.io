@@ -1,7 +1,7 @@
 ---
 title: "Undegraduate Teaching Support (Game Theory)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 venue: "University College London, Department of Arts and Sciences"
 date: 2019-01-01
 location: "London, UK"
