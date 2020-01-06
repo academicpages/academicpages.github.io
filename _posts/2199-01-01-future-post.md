@@ -1,10 +1,10 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Future Blog Post: Stabilizing Generative Adversarial Network (GAN) training'
+date: 2020-03-01
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Generative Adversarial Networks
+  - Stabilization techniques
+  - GANs
 ---
 
-CHECK. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+An incoming blog post summarizing my work on GAN training, including issues, stabilization and regulariation techniques.
