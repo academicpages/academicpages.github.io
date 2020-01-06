@@ -3,6 +3,11 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.co.kr/cit
 permalink: /publications/
 author_profile: true
 ---
+## 2020
+
+<b>[C10] Deep network-based feature selection for imaging genetics: Application to identifying biomarkers for Parkinson's disease</b> <br>
+**Mansu Kim**, Ji Hye Won, Jisu Hong, Junmo Kwon, Hyunjin Park, and Li Shen*. <br>
+<i>The IEEE International Symposium on Biomedical Imaging, 2020.</i>
 
 ## 2019
 
@@ -36,8 +41,8 @@ Bo-yong Park, Mi Ji Lee, **Mansu Kim**, Se-Hong Kim, and Hyunjin Park*.
 <i>Scientific Reports, 2017.</i>
 
 <b>[C7] Imaging Genetics Approach to Predict Progression of Parkinson’s Diseases</b> <br>
-**Mansu Kim**, Seong-jin Son, and Hyunjin Park*.
-[**Oral Presentation**]
+**Mansu Kim**, Seong-jin Son, and Hyunjin Park*. <br>
+<span style="color:red">[**Oral Presentation**]</span> <br>
 <i>The IEEE Engineering in Medicine and Biology Society, 2017.</i>
 
 <b>[C6] Connectional fingerprint of mild cognitive impairment based on FDG-PET and PiB-PET</b> <br>
