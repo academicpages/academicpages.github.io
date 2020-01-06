@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Undegraduate Teaching Support (Game Theory)"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University College London, Department of Arts and Sciences"
+date: 2017 - Present
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Providing support to undergraduate students in game theory class. Supervised by [Dr Manuela Dal Borgo]()
