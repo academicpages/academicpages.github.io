@@ -21,6 +21,5 @@ My passion for consumer electronics and computing devices keeps me hooked up in 
 Thanks for visiting!
 
 Feel free to follow/connect with me on the various social platforms.
-To contact me directly use any of the following mail IDs:
-cs18resch01002 @ iith.ac.in (academic purposes)
-bhargav.achary13 @ gmail.com (general purposes)
+To contact me directly, please use the following mail ID:
+cs18resch01002 @ iith.ac.in (remove the spaces)
