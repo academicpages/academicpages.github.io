@@ -7,4 +7,4 @@ date: 2017 - Present
 location: "London, UK"
 ---
 
-Providing support to undergraduate students in game theory class. Supervised by [Dr Manuela Dal Borgo]()
+Providing support to undergraduate students in game theory class. Supervised by [Dr Manuela Dal Borgo](https://www.classics.cam.ac.uk/directory/dr-manuela-dal-borgo).
