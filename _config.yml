@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mansu Kim"
 title_separator          : "-"
 name                     : &name "Mansu Kim"
-description              : &description "Ph.D. from Sungkyunkwan University"
+description              : &description "Postdoctoral researcher in University of Pennsylvania"
 url                      : https://mansooru.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mansooru/mansooru.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mansu-kim-714850130/"
+  linkedin         : "mansu-kim-714850130/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
