@@ -18,11 +18,11 @@ Education
 Work experience
 ======
 
-* Jan, 2018 - Till date : Teaching Assistant
+* Jan, 2018 - Till date : Research Felllow with HTTA (Half Time Teaching Assistantship)
   * Dept. of Computer Science and Engineering, IIT Hyderabad
   * Duties included: Hands on sessions, Assignment evaluation, Exam coodination, Other departmental duties
 
-* July, 2016 - January, 2018 : Senior Technical Assistant - B
+* July, 2016 - January, 2018 : Member of Technical Staff as STA-B
   * Advanced Numerical Research and Analysis Group, DRDO, Hyderabad
   * Duties included: Testing and Evaluation of Embedded Platforms, System Administration, Resource Management  
 
