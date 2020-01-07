@@ -46,10 +46,11 @@ author_profile: true
 #### This database includes all Equal Employment Opportunity Commission's lawsuits against SP1500 firms.
 
 ## Other Databases I am Working On Now
+#### Match SP1500 Firms with Facebook Ads about Social Issues, Elections or Politics (Ad Library).
 #### Social Media Data on SP1500 Firms.
 #### Shareholder and Social Activism Database for Chinese Publicly Traded Firms based on Social Media Texts, Images, and Videos.
-#### Social Movement Organizations in Politics: Matching Over 10,000 SMOs with FEC Donation Database.
-#### Social Movement Organizations on Social Media: Matching Over 10,000 SMOs with Facebook and Twitter Data.
+#### Social Movement Organizations in Politics: Matching Over 7,000 SMOs with FEC Donation Database.
+#### Social Movement Organizations on Social Media: Matching Over 7,000 SMOs with Facebook and Twitter Data.
 
 ## Replication Codes
 #### Webscraper for ProQuest Newsstand Database (Just for the frequency)
