@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
 
 ## Learning to cooperate with Multi-Agent Reinforcement Learning
