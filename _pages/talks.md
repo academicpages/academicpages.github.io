@@ -15,7 +15,7 @@ author_profile: true
 
 <!-- <embed src="https://macwiatrak.github.io/files/talk_ml_in_pl_2019_maciej_wiatrak.pdf" width="650" height="1800" type='presentation/pdf'> -->
 
-\n\n
+
 ## Learning to cooperate – the emergence of sustainable resource management among artificial intelligence agents
 [Science Polish Perspectives conference](https://poloniumfoundation.org/sppcam2019), Cambridge, November 2019
 
