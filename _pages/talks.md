@@ -10,6 +10,7 @@ author_profile: true
 
 ## Learning to cooperate with Multi-Agent Reinforcement Learning
 [ML in PL conference](https://conference.mlinpl.org/) , University of Warsaw, November 2019
+
 [Click to view the slides](https://macwiatrak.github.io/files/talk_ml_in_pl_2019_maciej_wiatrak.pdf)
 
 <!-- <embed src="https://macwiatrak.github.io/files/talk_ml_in_pl_2019_maciej_wiatrak.pdf" width="650" height="1800" type='presentation/pdf'> -->
