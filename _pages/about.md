@@ -9,7 +9,7 @@ redirect_from:
 published: true
 ---
 
-I am a Master student in Computer Science in the [College of Computer and Information Science](https://www.ccis.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). I am working in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Professor [Robert Platt](http://www.ccs.neu.edu/home/rplatt/).
+I am a PhD student in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). I am working in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Professor [Robert Platt](http://www.ccs.neu.edu/home/rplatt/).
 
 I received my Bachelor's degree in Computer Science in [Sichuan University](http://www.scu.edu.cn), Chengdu, China.
 
@@ -31,5 +31,6 @@ Department of Computer Science, Sichuan University, Chengdu, China
 [(PDF)(in Simplified Chinese)]({{ site.url }}/files/Bachelor Thesis.pdf)
 
 # Education
-+ (2017-Present) M.S. student, Computer Science, Northeastern University, Boston, USA
++ (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
++ (2017-2019) M.S, Computer Science, Northeastern University, Boston, USA
 + (2013-2017) B.Eng, Computer Science & Technology, Sichuan University, Chengdu, China
