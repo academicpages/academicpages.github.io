@@ -17,8 +17,12 @@ author_profile: true
 
 
 
+
+
 ## Learning to cooperate – the emergence of sustainable resource management among artificial intelligence agents
 [Science Polish Perspectives conference](https://poloniumfoundation.org/sppcam2019), Cambridge, November 2019
+
+
 
 
 
