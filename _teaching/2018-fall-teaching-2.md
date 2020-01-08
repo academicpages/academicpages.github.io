@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant, CS251 Data Structures and Algorithms"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2018-fall-teaching-1
 venue: "Purdue University, Computer Science"
 date: 2018-01-08
-location: "City, Country"
+location: "West Lafayette, USA"
 ---
 
