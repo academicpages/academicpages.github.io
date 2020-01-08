@@ -13,7 +13,7 @@ Generative Adversarial Networks (GANs) are a type of Generative Models, which re
 * [Stabilising Generative Adversarial Network Training: A Survey](https://arxiv.org/pdf/1910.00927.pdf)
 
 <p align="center">
-  <img src="https://macwiatrak.github.io/files/gan_issues.png" alt="Photo" style="width: 300px;"/> 
+  <img src="https://macwiatrak.github.io/files/gan_issues.png" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
