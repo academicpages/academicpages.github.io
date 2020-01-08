@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Habiba Farrukh"
 title_separator          : "-"
 name                     : &name "Habiba Farrukh"
-description              : &description "Research Assistant @ Purdue University"
+description              : &description "Phd Student @ Purdue University"
 url                      : https://habiba-farrukh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "habiba-farrukh.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : ""
-  email            :
+  email            : "hfarrukh@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
