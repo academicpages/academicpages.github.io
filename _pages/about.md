@@ -12,15 +12,27 @@ I am a third year Ph.D. student in the Computer Science department at Purdue Uni
 My research interests broadly lie in the area of mobile computing and mobile sensing.
 
 
-Publications
-======
+
+
+
+##Publications
 <ul>
-	<li>Towards Context Addressing for Camera-to-Human Communication"
+	<li>Towards Context Address for Camera-to-Human Communication
 		<br/>
 		Siyuan Cao, Habiba Farrukh, He Wang
 		<br/>
 		IEEE InfoCom 2020
 		<br/>
+	</li>
+</ul>
+
+<ul>
+	<li>
+		Demo: Enabling Public Cameras to Talk to the Public
+		<br/>
+		Siyuan Cao, Habiba Farrukh, He Wang
+		<br/>
+		ACM MobiSys 2018, [Abstract](https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf), [Poster](https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf), [Video](https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM)
 	</li>
 </ul>
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
