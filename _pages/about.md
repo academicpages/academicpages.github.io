@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hyun Kim"
+title: "Hyunchul Kim"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor </br>
-Department of Economics </br>
+<br/>
+Assistant Professor <br/>
+Department of Economics <br/>
 Sungkyunkwan University
  
-32409 Dasan Hall of Economics </br>
-25-2, Sungkyunkwan-ro, Jongno-gu </br>
+32409 Dasan Hall of Economics <br/>
+25-2, Sungkyunkwan-ro, Jongno-gu <br/>
 Seoul 03063, Korea
  
-E-mail. hchkim@skku.edu </br>
+E-mail. hchkim@skku.edu <br/>
 Tel. +82-2-760-0147
