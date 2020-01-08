@@ -13,17 +13,17 @@ redirect_from:
 
 - **PhD**, Biological Engineering, MIT (2016)
     - Thesis: *Quantitative modeling for microbial ecology and clinical trials*
-    - Advisor: Eric Alm
+    - Advisor: [Eric Alm](https://be.mit.edu/directory/eric-alm)
 - **MPhil**, Chemistry, University of Cambridge (2012)
 - **MASt**, Applied Mathematics & Theoretical Physics, University of Cambridge (2011)
 - **BA** *magna cum laude* with Highest Honors, Physics, Williams College (2010)
 
 ## Experience
 
-- **Scientific Director**, OpenBiome (2019--)
+- **Scientific Director**, [OpenBiome](https://www.openbiome.org/) (2019--)
 - **Postdoctoral Associate**, Harvard Chan School of Public Health (2016--2018)
     - Research focus: Epidemiology of antibiotic use and resistance
-    - Advisor: Yonatan Grad
+    - Advisor: [Yonatan Grad](https://www.hsph.harvard.edu/yonatan-grad/)
 
 ## Awards
 
@@ -57,17 +57,17 @@ redirect_from:
 
 ## Service, leadership, and community
 
-- **President**, Postdoctoral Association (PDA), Harvard Chan School (2018)
+- **President**, [Postdoctoral Association](https://www.hsph.harvard.edu/pda/) (PDA), Harvard Chan School (2018)
     - Led a consolidation of PDA council for >15 officers to 4
     - Initiated a Training Evaluation Initiative to create a common administrator-trainee language for negotiations
 - **Member**, Dean's Advisory Committee on Diversity and Inclusion, Harvard Chan School (2016--2018)
-- **Communication Fellow**, MIT Biological Engineering Communication Lab (2013--2016)
+- **Communication Fellow**, MIT [Biological Engineering Communication Lab](https://mitcommlab.mit.edu/be/) (2013--2016)
     - Co-founding Fellow and mentor to junior Fellows
     - Coached >100 undergraduate, graduate, and postdoc clients
     - Co-led creation of the [CommKit](https://mitcommlab.mit.edu/be/use-the-commkit/): online, content-specific communication guide
 - **Diversity Co-Chair**, Graduate Student Board, MIT Biological Engineering (2013--2016)
     - Developed new programming for events exploring student diversity
     - Co-designed and conducted first departmental diversity climate survey
-- **Discussion leader & participant**, Science Policy Initiative, MIT (2012--2016)
+- **Discussion leader & participant**, MIT [Science Policy Initiative](https://mitspi.squarespace.com/) (2012--2016)
     - Team member for visits to executive agencies and Congressional offices
     - Engaged in 30-hour Science Policy Bootcamp
