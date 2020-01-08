@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the Computer Science department at Purdue University. I am working as a Research Assistant in [Simba Lab](https://simbalab.cs.purdue.edu/) with [Dr. He Wang](https://www.cs.purdue.edu/homes/hw/). Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science).
+I am a third year Ph.D. student in the Computer Science department at Purdue University working in [Simba Lab](https://simbalab.cs.purdue.edu/) under the supervision of [Professor He Wang](https://www.cs.purdue.edu/homes/hw/). Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science).
 My research interests broadly lie in the area of mobile computing and mobile sensing.
 
 
@@ -37,6 +37,23 @@ Publications
 		ACM MobiSys 2018, <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
 	</li>
 </ul>
+
+
+Teaching
+========
+
+<ul>
+	<li>
+		Teaching Assistant, CS422 Computer Networks (Spring 2018 & Fall 2019)
+	</li>
+</ul>
+<ul>
+	<li>
+		Teaching Assistant, CS251 Data Structures and Algorithms (Spring 2017 & Fall 2017)		
+	</li>
+</ul>
+
+
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 <!-- date: 2019-11-01 -->
 <!-- venue: 'IEEE InfoCom 2020' -->
