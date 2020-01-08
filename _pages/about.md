@@ -32,7 +32,7 @@ My research interests broadly lie in the area of mobile computing and mobile sen
 		<br/>
 		Siyuan Cao, Habiba Farrukh, He Wang
 		<br/>
-		ACM MobiSys 2018, [Abstract](https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf), [Poster](https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf), [Video](https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM)
+		ACM MobiSys 2018, <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>)
 	</li>
 </ul>
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
