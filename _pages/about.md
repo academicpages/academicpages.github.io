@@ -15,9 +15,11 @@ My research interests broadly lie in the area of mobile computing and mobile sen
 
 
 
-##Publications
+Publications
+============
+
 <ul>
-	<li>Towards Context Address for Camera-to-Human Communication
+	<li><b>Towards Context Address for Camera-to-Human Communication</b>
 		<br/>
 		Siyuan Cao, Habiba Farrukh, He Wang
 		<br/>
@@ -28,7 +30,7 @@ My research interests broadly lie in the area of mobile computing and mobile sen
 
 <ul>
 	<li>
-		Demo: Enabling Public Cameras to Talk to the Public
+		<b>Demo: Enabling Public Cameras to Talk to the Public</b>
 		<br/>
 		Siyuan Cao, Habiba Farrukh, He Wang
 		<br/>
