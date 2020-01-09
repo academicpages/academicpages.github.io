@@ -16,12 +16,34 @@ redirect_from:
 ## The best moments of reading are, when you come across with something, a thought, a feeling, a way of looking at your life, that you would thought special, particular to you, while here it is, set down by someone else. A person you never met, a person who may long dead. And, it is as if a hand has come out and taken yours. By the end of the story, it is like seeing a bunch of friends away, and when you ask if they will come back again, they would say yes and no.
 {: .notice--danger}
 
-Education
+EDUCATION
 ======
 ------
 * B.S. in Oceanography, Ocean University of China, 2014 (*Outstanding Graduates of Shandong Province*)
 * M.S. in Satellite Ocean Remote Sensing, Ocean University of China, 2016 (*Best Postgraduate Thesis* & *Outstanding Postgraduate*)
-* PhD in Atmospheric and Envorimental Sciences, University of Edinburgh, 2019 (expected)
+* PhD in Atmospheric and Envorimental Sciences, University of Edinburgh, 2019
+
+ACADEMIC EXPERIENCE
+======
+------
+2019.09-present	Postdoctoral researcher at The University of Edinburgh
+                Project: ENSO and Asian monsoon and climate teleconnections
+2019.06-present	Lead analyst/author
+                The AerChemMIP joint analysis on atmospheric oxidising capability for IPCC AR6
+2018.04-present	Research projects co-mentor at school of GeoSciences, The University of Edinburgh
+                Marina Sanchez-Oro Ruiz (MSc thesis); Minjia Zhu (MSc thesis); Matthew Karmer (Honours degree);
+2017.01-2019.08	Tutor at The University of Edinburgh
+                Courses: Atmospheric Dynamics (PG); Atmospheric physics (UG); Earth Modelling and Predication (UG); 
+                Earth's Atmospheric Composition (UG); Meteorology (UG);
+2016.05-present	Reviewer
+                Journals: Atmosphere; Climate Dynamics; Journal of Geophysical Research; Journal of Climate; Earth’s Future; etc.
+
+CURRENT RESEARCH FOCUSES
+======
+------
+•	Climate forcing and response to short-lived climate forcers vs. greenhouse gases
+•	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes
+•	Atmospheric methane and oxidising capability
 
 Skills
 ======
@@ -32,14 +54,6 @@ Skills
 * Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems; 
 * Intermediate user of CESM Earth System Models, familiar with UK UM-UKCA model
 * Phtographing and writting
-
-Work experience
-======
-------
-* 2011.09-2012.07 Teaching Assistant at Department of Electronic Engineering, OUC
-* 2012.09-2014.06 Laboratory Assistant at Department of Electronic Engineering, OUC
-* 2014.08-2015.07 Undergraduate Student Assisting Administrator at Academic Affairs Office, OUC
-* 2017.02-2020.08 Tutor and Demonstrator at UNiversity of Edinburgh, UK
 
 Trainings
 ======
