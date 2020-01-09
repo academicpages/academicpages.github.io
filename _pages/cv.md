@@ -27,16 +27,16 @@ ACADEMIC EXPERIENCE
 ======
 ------
 2019.09-present	Postdoctoral researcher at The University of Edinburgh\
-&emsp;&emsp;&emsp;&emsp;Project: ENSO and Asian monsoon and climate teleconnections\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Project: ENSO and Asian monsoon and climate teleconnections\
 2019.06-present	Lead analyst/author\
-&emsp;&emsp;&emsp;&emsp;The AerChemMIP joint analysis on atmospheric oxidising capability for IPCC AR6\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;The AerChemMIP joint analysis on atmospheric oxidising capability for IPCC AR6\
 2018.04-present	Research projects co-mentor at school of GeoSciences, The University of Edinburgh\
-&emsp;&emsp;&emsp;&emsp; Marina Sanchez-Oro Ruiz (MSc thesis); Minjia Zhu (MSc thesis); Matthew Karmer (Honours degree);+-\
+&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;Marina Sanchez-Oro Ruiz (MSc thesis); Minjia Zhu (MSc thesis); Matthew Karmer (Honours degree);+-\
 2017.01-2019.08	Tutor at The University of Edinburgh\
-&emsp;&emsp;&emsp;&emsp;Courses: Atmospheric Dynamics (PG); Atmospheric physics (UG); Earth Modelling and Predication (UG); \
-&emsp;&emsp;&emsp;&emsp;Earth's Atmospheric Composition (UG); Meteorology (UG);\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Courses: Atmospheric Dynamics (PG); Atmospheric physics (UG); Earth Modelling and Predication (UG); \
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Earth's Atmospheric Composition (UG); Meteorology (UG);\
 2016.05-present	Reviewer\
-&emsp;&emsp;&emsp;&emsp;Journals: Atmosphere; Climate Dynamics; Journal of Geophysical Research; Journal of Climate; Earth’s Future; etc.\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Journals: Atmosphere; Climate Dynamics; Journal of Geophysical Research; Journal of Climate; Earth’s Future; etc.
 
 CURRENT RESEARCH FOCUSES
 ======
