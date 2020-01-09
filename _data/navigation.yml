@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
     
   - title: "Publications"
     url: /publications/
@@ -18,24 +18,24 @@ main:
   - title: "Resources"
     url: /resources/    
     
-  - title: "Photograph"
-    url: /photograph/
+#  - title: "Photograph"
+#    url: /photograph/
         
-  - title: "Blog"
-    url: /year-archive/
+# - title: "Blog"
+#    url: /year-archive/
 
 
 # sidenav links links
 sidenav:   
-  - title: "Research"
-    url: /research/
-    children:
-      - title: "Tropical Cyclones"
-        url: /research/tropical-cyclones/
-      - title: "Climate Extremes"
-        url: /research/climate-extremes/
-      - title: "Air pollution"
-        url: /research/air-pollution/          
+#  - title: "Research"
+#    url: /research/
+#    children:
+#     - title: "Tropical Cyclones"
+#       url: /research/tropical-cyclones/
+#     - title: "Climate Extremes"
+#      url: /research/climate-extremes/
+#    - title: "Air pollution"
+#       url: /research/air-pollution/          
   - title: "Publications"
     url: /publications/
     children:
