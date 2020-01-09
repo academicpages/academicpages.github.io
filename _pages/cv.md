@@ -26,7 +26,7 @@ EDUCATION
 ACADEMIC EXPERIENCE
 ======
 ------
-2019.09-present	Postdoctoral researcher at The University of Edinburgh
+2019.09-present	Postdoctoral researcher at The University of Edinburgh&nbsp;
                 Project: ENSO and Asian monsoon and climate teleconnections
 2019.06-present	Lead analyst/author
                 The AerChemMIP joint analysis on atmospheric oxidising capability for IPCC AR6
