@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "ALCIDE ZHAO"
 title_separator          : "-"
 name                     : &name "Alcide Zhao"
-description              : &description "Research PhD at University of Edinburgh"
+description              : &description "Postdocotoral associate at University of Edinburgh"
 url                      : https://aldzhao.github.io/genius/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aldzhao/genius/"
@@ -89,7 +89,7 @@ analytics:
 author:
   name             : "Alcide Zhao"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Atmospheric and Envorimental Sciecnes at University of Edinburgh"
+  bio              : "Postdocotoral associate in climate modelling and analysis at The University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en"
