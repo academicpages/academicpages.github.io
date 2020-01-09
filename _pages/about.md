@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-I am a Postdoctoral Researcher in the department of biostatistics, epidemiology, and informatics at University of Pennsylvania.
-Before joining UPENN, I completed my Ph.D in Electronic and Electrical Engineering at Sungkyunkwan University in Aug. 2019 (Advisor [Prof. Hyunjin Park](https://mipskku.wixsite.com/mipl)). 
-Please find my CV here.
+I am a Postdoctoral Researcher in the Department of biostatistics, epidemiology, and informatics (DBEI) at University of Pennsylvania. I am working on imaging genetics, in terms of methological approaches (e.g., joint modeling, machine learning modeling), with [Prof. Li Shen](https://www.med.upenn.edu/shenlab/).  
+
+Before joining UPENN, I completed my Ph.D in Electronic and Electrical Engineering at Sungkyunkwan University under the the supervision of [Prof. Hyunjin Park](https://mipskku.wixsite.com/mipl)). 
 
 News
 ======
