@@ -27,23 +27,23 @@ ACADEMIC EXPERIENCE
 ======
 ------
 2019.09-present	Postdoctoral researcher at The University of Edinburgh\
-                Project: ENSO and Asian monsoon and climate teleconnections
-2019.06-present	Lead analyst/author
-                The AerChemMIP joint analysis on atmospheric oxidising capability for IPCC AR6
-2018.04-present	Research projects co-mentor at school of GeoSciences, The University of Edinburgh
-                Marina Sanchez-Oro Ruiz (MSc thesis); Minjia Zhu (MSc thesis); Matthew Karmer (Honours degree);
-2017.01-2019.08	Tutor at The University of Edinburgh
-                Courses: Atmospheric Dynamics (PG); Atmospheric physics (UG); Earth Modelling and Predication (UG); 
-                Earth's Atmospheric Composition (UG); Meteorology (UG);
-2016.05-present	Reviewer
-                Journals: Atmosphere; Climate Dynamics; Journal of Geophysical Research; Journal of Climate; Earth’s Future; etc.
+                Project: ENSO and Asian monsoon and climate teleconnections\
+2019.06-present	Lead analyst/author\
+                The AerChemMIP joint analysis on atmospheric oxidising capability for IPCC AR6\
+2018.04-present	Research projects co-mentor at school of GeoSciences, The University of Edinburgh\
+                Marina Sanchez-Oro Ruiz (MSc thesis); Minjia Zhu (MSc thesis); Matthew Karmer (Honours degree);+-\
+2017.01-2019.08	Tutor at The University of Edinburgh\
+                Courses: Atmospheric Dynamics (PG); Atmospheric physics (UG); Earth Modelling and Predication (UG); \
+                Earth's Atmospheric Composition (UG); Meteorology (UG);\
+2016.05-present	Reviewer\
+                Journals: Atmosphere; Climate Dynamics; Journal of Geophysical Research; Journal of Climate; Earth’s Future; etc.\
 
 CURRENT RESEARCH FOCUSES
 ======
 ------
-•	Climate forcing and response to short-lived climate forcers vs. greenhouse gases
-•	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes
-•	Atmospheric methane and oxidising capability
+•	Climate forcing and response to short-lived climate forcers vs. greenhouse gases\
+•	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes\
+•	Atmospheric methane and oxidising capability\
 
 Skills
 ======
