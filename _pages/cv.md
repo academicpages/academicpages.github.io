@@ -41,9 +41,9 @@ ACADEMIC EXPERIENCE
 CURRENT RESEARCH FOCUSES
 ======
 ------
-•	Climate forcing and response to short-lived climate forcers vs. greenhouse gases\
-•	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes\
-•	Atmospheric methane and oxidising capability\
+•	Climate forcing and response to short-lived climate forcers vs. greenhouse gases<br/>
+•	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes<br/>
+•	Atmospheric methane and oxidising capability<br/>
 
 Skills
 ======
