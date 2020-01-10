@@ -32,13 +32,13 @@ EDUCATION
 ACADEMIC EXPERIENCE
 ======
 ------
-2019.09-present	Postdoctoral researcher at The University of Edinburgh<br/>
+2019.09-present&emsp;Postdoctoral researcher at The University of Edinburgh<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;Project: ENSO and Asian monsoon and climate teleconnections<br/>
-2019.06-present	Lead analyst/author<br/>
+2019.06-present&emsp;Lead analyst/author<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;The AerChemMIP joint analysis on atmospheric oxidising capability for IPCC AR6<br/>
-2018.04-present	Research projects co-mentor at school of GeoSciences, The University of Edinburgh<br/>
+2018.04-present&emsp;Research projects co-mentor at school of GeoSciences, The University of Edinburgh<br/>
 &emsp;&emsp;&emsp;&emsp; &emsp;Marina Sanchez-Oro Ruiz (MSc thesis); Minjia Zhu (MSc thesis); Matthew Karmer (Honours degree);+-<br/>
-2017.01-2019.08	Tutor at The University of Edinburgh<br/>
+2017.01-2019.08&emsp;Tutor at The University of Edinburgh<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;Courses: Atmospheric Dynamics (PG); Atmospheric physics (UG); Earth Modelling and Predication (UG); <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;Earth's Atmospheric Composition (UG); Meteorology (UG);<br/>
 
