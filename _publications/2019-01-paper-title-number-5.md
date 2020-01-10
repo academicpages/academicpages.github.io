@@ -10,4 +10,4 @@ Using the Community Earth System Model Large Ensemble experiments, we investigat
 South Asia.[Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019GL082269)
 
 
-Recommended citation:  Zhao, A., Bollasina, M. A., & Stevenson, D. S. ( 2019). Strong influence of aerosol reductions on future heatwaves. Geophysical Research Letters, 46, 4913– 4923. https://doi.org/10.1029/2019GL082269.
+How to cite:  Zhao, A., Bollasina, M. A., & Stevenson, D. S. ( 2019). Strong influence of aerosol reductions on future heatwaves. Geophysical Research Letters, 46, 4913– 4923. https://doi.org/10.1029/2019GL082269.
