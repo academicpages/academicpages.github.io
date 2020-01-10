@@ -54,6 +54,18 @@ PEER-REVIEW
 ------
 Atmosphere; Climate Dynamics; Journal of Climate; Journal of Geophysical Research; Earth's Future; 
 
+INVITED-TALKS
+======
+------
+•	“Committed climate change and their attribution: GHGs, aerosols and O3”, Nanjing University, Nanjing, China, 2019.12
+•	“Climate impacts of greenhouse gases vs. aerosols”, 2019 SAGES annual conference, Edinburgh, UK, 2019.11
+•	“Impacts of air pollution”, public seminar at The Chinese University of Hongkong, Shenzhen, China, 2019.09
+•	“Aerosol forcing and climate change”, seminar at School of Environmental Sciences, SUST, Shenzhen, China, 2019.09
+•	“Unveil the translation chains from short-lived climate forcer emissions to climate forcing and response”, 7th Annual Composition-Climate Interactions meeting, Met Office, UK, 2019.03
+•	“Policy-driven aerosol emissions and climate impacts” at the 2018 IGAC Science Conference, Takamatsu, Japan, 2018.09
+•	“Climate response in equilibrium in CESM1” at the 23rd Annual CESM Workshop, Boulder, CO, USA, 2018.06
+•	“Future aerosol mitigations and Asian precipitation extremes” at the 3rd ACAM conference, Guangzhou, China, 2017.06
+
 SKILLS
 ======
 ------
@@ -66,17 +78,6 @@ SKILLS
 * Excellent time-management skills: goal setting, planning, prioritising and diary setting
 * Socially competent team-player (e.g. CSSP-China, AerChemMIP and RFMIP)
 * Well organised in research, teaching, part-time work and extra-curricular activities
-
-
-TRAININGS
-======
-------
-* NCAS-CMS Unified Model training course, December 2016, University of Reading, UK, fully-funded
-* The United Kingdom Chemistry and Aerosols (UKCA) Model Training, January 2017, University of Cambridge, UK, fully-funded
-* The Second ACAM Training School: Observations and Modelling of Atmospheric Chemistry and Aerosols in the Asian Monsoon Region, June 2017, Guangzhou, China, fully-funded
-* NCAS 2017 Climate Modelling Summer School, September 2017, University of Cambridge, UK, fully-funded
-* EPCC Message-Passing Programming with MPI course, November 2018, Edinburgh, UK
-* NERC Numerical Earth Sciences Modelling (NNESMO) course, January 2019, University of Durham, UK, fully-funded
 
 
 SERVICE AND LEADERSHIPS
