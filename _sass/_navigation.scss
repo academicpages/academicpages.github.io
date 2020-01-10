@@ -314,7 +314,7 @@
    ========================================================================== */
 
 .nav__list {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 
   ul {
     margin-bottom: 1em;
@@ -326,7 +326,7 @@
     color: inherit;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
       background-color: lightgrey;
     }
   }
