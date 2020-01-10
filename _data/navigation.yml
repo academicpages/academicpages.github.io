@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "   CV   "
     url: /cv/
     
 #  - title: "Research"
 #    url: /research/
     
-  - title: "Publications"
+  - title: "   Publications   "
     url: /publications/
       
-  - title: "Coding"
+  - title: "   Coding   "
     url: /coding/  
     
-  - title: "Modelling"
+  - title: "   Modelling   "
     url: /modelling/  
     
-  - title: "Resources"
+  - title: "   Resources   "
     url: /resources/    
     
 #  - title: "Photograph"
