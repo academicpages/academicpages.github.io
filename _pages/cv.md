@@ -57,14 +57,14 @@ Atmosphere; Climate Dynamics; Journal of Climate; Journal of Geophysical Researc
 INVITED-TALKS
 ======
 ------
-•	“Committed climate change and their attribution: GHGs, aerosols and O3”, Nanjing University, Nanjing, China, 2019.12
-•	“Climate impacts of greenhouse gases vs. aerosols”, 2019 SAGES annual conference, Edinburgh, UK, 2019.11
-•	“Impacts of air pollution”, public seminar at The Chinese University of Hongkong, Shenzhen, China, 2019.09
-•	“Aerosol forcing and climate change”, seminar at School of Environmental Sciences, SUST, Shenzhen, China, 2019.09
-•	“Unveil the translation chains from short-lived climate forcer emissions to climate forcing and response”, 7th Annual Composition-Climate Interactions meeting, Met Office, UK, 2019.03
-•	“Policy-driven aerosol emissions and climate impacts” at the 2018 IGAC Science Conference, Takamatsu, Japan, 2018.09
-•	“Climate response in equilibrium in CESM1” at the 23rd Annual CESM Workshop, Boulder, CO, USA, 2018.06
-•	“Future aerosol mitigations and Asian precipitation extremes” at the 3rd ACAM conference, Guangzhou, China, 2017.06
+•	“Committed climate change and their attribution: GHGs, aerosols and O3”, Nanjing University, Nanjing, China, 2019.12<br/>
+•	“Climate impacts of greenhouse gases vs. aerosols”, 2019 SAGES annual conference, Edinburgh, UK, 2019.11<br/>
+•	“Impacts of air pollution”, public seminar at The Chinese University of Hongkong, Shenzhen, China, 2019.09<br/>
+•	“Aerosol forcing and climate change”, seminar at School of Environmental Sciences, SUST, Shenzhen, China, 2019.09<br/>
+•	“Unveil the translation chains from short-lived climate forcer emissions to climate forcing and response”, 7th Annual Composition-Climate Interactions meeting, Met Office, UK, 2019.03<br/>
+•	“Policy-driven aerosol emissions and climate impacts” at the 2018 IGAC Science Conference, Takamatsu, Japan, 2018.09<br/>
+•	“Climate response in equilibrium in CESM1” at the 23rd Annual CESM Workshop, Boulder, CO, USA, 2018.06<br/>
+•	“Future aerosol mitigations and Asian precipitation extremes” at the 3rd ACAM conference, Guangzhou, China, 2017.06<br/>
 
 SKILLS
 ======
