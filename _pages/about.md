@@ -11,7 +11,7 @@ I am a pre-final year undergraduate student at [Birla Institue of Technology and
 
 My research interests include Brain-Computer Interface, Human-Robot Interaction, Motion Planning and Computer Vision. Moreover anything that eases our day to day life fascinates me.
 
-Apart from my technical interest, my passion lies in [Photography](https://www.instagram.com/k_._._c/) and solving riddles
+Apart from my technical interest, my passion lies in [Photography](https://www.instagram.com/k_._._c/) and aviation
 
 I am currently looking for undergraduate thesis opportunities in the fields of Human-Robot Interaction/Brain-Computer Interface from the Summer 2020
 
