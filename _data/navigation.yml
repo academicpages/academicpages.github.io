@@ -38,13 +38,6 @@ sidenav:
 #       url: /research/air-pollution/          
   - title: "Publications"
     url: /publications/
-    children:
-      - title: "Submitted"
-        url: /publication/submitted/
-      - title: "In Preparation"
-        url: /publication/under-prep/
-      - title: "Presentations"
-        url: /publication/presentations/
   - title: "Coding"
     url: /coding/
     children:
