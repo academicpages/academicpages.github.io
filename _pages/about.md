@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "KSHITIJ CHHABRA"
+title: "KSHITIJ CHHABRA
+Pre-Final Year Undergraduate Student"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
