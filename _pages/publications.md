@@ -16,7 +16,6 @@ sidebar:
 In preparation
 ======
 ------
-
 **Zhao A.** et, Impacts of global air pollution are policy-controlled tug-of-wars, aiming at **Nature Climate Change** <br/>
 
 Pandey, A.K., Stevenson, D.S., **Zhao, A**., et al., Evaluating Nitrogen dioxide in UKCA using OMI satellite retrievals over South and East Asia, aiming at **Atmospheric Chemistry and Physics**. <br/>
@@ -24,7 +23,6 @@ Pandey, A.K., Stevenson, D.S., **Zhao, A**., et al., Evaluating Nitrogen dioxide
 In review
 ======
 ------
-
 Hu Z., Dietz A., **Zhao A.**, et al.,, Snow Moving to Higher Elevations: Analyzing Three Decades of Snowline Dynamics in the Alps, submitted to **Geophysical Research Letters** (2nd round review). <br/>
 
 Stevenson, D.S., **Zhao, A.**., et al., Trends in global tropospheric hydroxyl radical and methane lifetime since 1850 from AerChemMIP, submitted to **Atmospheric Chemistry and Physics**. <br/>
@@ -32,7 +30,6 @@ Stevenson, D.S., **Zhao, A.**., et al., Trends in global tropospheric hydroxyl r
 Published
 ======
 ------
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
