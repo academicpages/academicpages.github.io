@@ -19,9 +19,15 @@ redirect_from:
 EDUCATION
 ======
 ------
-* B.S. in Oceanography, Ocean University of China, 2014 (*Outstanding Graduates of Shandong Province*)
-* M.S. in Satellite Ocean Remote Sensing, Ocean University of China, 2016 (*Best Postgraduate Thesis* & *Outstanding Postgraduate*)
-* PhD in Atmospheric and Envorimental Sciences, University of Edinburgh, 2019
+2016.09–2019.08	The University of Edinburgh <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;PhD in Atmospheric and Environmental Sciences (fully funded)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;Thesis: Impacts of anthropogenic aerosols on air quality, climate and extremes<br/>
+2014.09–2016.06	Ocean University of China <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;MSc in Oceanography (Satellite Ocean Remote Sensing)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;Thesis: Application of multi-satellite data in studying tropical cyclones over Pacific Northwest<br/>
+2010.09–2014.06	Ocean University of China <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;BSc in Oceanography (GPA: 89.6)<br/>
+
 
 ACADEMIC EXPERIENCE
 ======
@@ -35,8 +41,6 @@ ACADEMIC EXPERIENCE
 2017.01-2019.08	Tutor at The University of Edinburgh<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;Courses: Atmospheric Dynamics (PG); Atmospheric physics (UG); Earth Modelling and Predication (UG); <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;Earth's Atmospheric Composition (UG); Meteorology (UG);<br/>
-2016.05-present	Reviewer<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;Journals: Atmosphere; Climate Dynamics; Journal of Geophysical Research; Journal of Climate; Earth’s Future;
 
 CURRENT RESEARCH FOCUSES
 ======
@@ -45,17 +49,26 @@ CURRENT RESEARCH FOCUSES
 •	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes<br/>
 •	Atmospheric methane and oxidising capability<br/>
 
-Skills
+PEER-REVIEW
+======
+------
+Atmosphere; Climate Dynamics; Journal of Climate; Journal of Geophysical Research; Earth's Future; 
+
+SKILLS
 ======
 ------
 * Native in Mandarin Chinese and fluent in English 
-* Fluent in Python, MATLAB and C++ programming, data processing and statistical analysis; Good user of FORTRAN programming and Markdown web design
+* Fluent in Python, MATLAB and C++ programming, data processing and statistical analysis; 
+* Good user of FORTRAN programming and Markdown web design
 * Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer; 
 * Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems; 
 * Intermediate user of CESM Earth System Models, familiar with UK UM-UKCA model
-* Phtographing and writting
+* Excellent time-management skills: goal setting, planning, prioritising and diary setting
+* Socially competent team-player (e.g. CSSP-China, AerChemMIP and RFMIP)
+* Well organised in research, teaching, part-time work and extra-curricular activities
 
-Trainings
+
+TRAININGS
 ======
 ------
 * NCAS-CMS Unified Model training course, December 2016, University of Reading, UK, fully-funded
@@ -66,7 +79,7 @@ Trainings
 * NERC Numerical Earth Sciences Modelling (NNESMO) course, January 2019, University of Durham, UK, fully-funded
 
 
-Service and leadership
+SERVICE AND LEADERSHIPS
 ======
 ______
 * 2010.09-2012.06 Member and the chair, The Light of Information Volunteer Association.
