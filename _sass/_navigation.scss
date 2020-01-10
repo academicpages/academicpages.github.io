@@ -1,8 +1,58 @@
 /* ==========================================================================
    NAVIGATION
    ========================================================================== */
+.main {
+  font-size: 2.5rem;
 
+  ul {
+    margin-bottom: 1em;
+  }
 
+  a {
+    display: block;
+    padding: 0.05em 0;
+    color: inherit;
+
+    &:hover {
+      text-decoration: none;
+      background-color: lightgrey;
+    }
+  }
+
+  .active {
+    margin-left: -0.5em;
+    padding-left: 0.5em;
+    padding-right: 1.0em;
+    color: #fff;
+    font-weight: bold;
+    background: $primary-color;
+    border-radius: $border-radius;
+
+    &:hover {
+      text-decoration: none;
+      color: #fff;
+    }
+  }
+}
+
+.nav__title {
+  margin: 0;
+  padding: 0.5rem 1rem;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-5;
+  font-weight: bold;
+}
+
+.nav__sub-title {
+  display: block;
+  margin: 0.5rem 0;
+  padding: 0.5rem 0;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid $border-color;
+}
 
 
 /*
@@ -345,6 +395,7 @@
 
     &:hover {
       color: #fff;
+      text-decoration: none;
     }
   }
 }
@@ -385,7 +436,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-10;
+    font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
