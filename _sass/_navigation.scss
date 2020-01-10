@@ -387,7 +387,7 @@
   .active {
     margin-left: -0.5em;
     padding-left: 0.5em;
-    padding-right: 0.3em;
+    padding-right: 0.25em;
     color: #fff;
     font-weight: bold;
     background: $primary-color;
@@ -416,7 +416,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: none;
 }
 
 
