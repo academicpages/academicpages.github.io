@@ -10,8 +10,7 @@ redirect_from:
 
 My name is Hadi Mohaghegh Dolatabadi (just call me Hadi! :D). Currently, I am a Ph.D. student at the University of Melbourne, working under under the supervision of Dr. Sarah Erfani and Prof. Christopher Leckie.
 
-Research Interests
-======
+__Research Interests__
 
 * Normalizing Flows
 * Generative Modeling
