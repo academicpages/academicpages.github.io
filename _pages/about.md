@@ -8,4 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Hadi Mohaghegh Dolatabadi (just call me Hadi! :D), a Ph.D. student at the University of Melbourne. Currently, I am working on generative modeling, and normalizing flows in particualr, under the supervision of Dr. Sarah Erfani and Prof. Christopher Leckie.
+My name is Hadi Mohaghegh Dolatabadi (just call me Hadi! :D). Currently, I am a Ph.D. student at the University of Melbourne, working under under the supervision of Dr. Sarah Erfani and Prof. Christopher Leckie.
+
+Research Interests
+======
+
+* Normalizing Flows
+* Generative Modeling
+* Machine Learning
+* Signal Processing
