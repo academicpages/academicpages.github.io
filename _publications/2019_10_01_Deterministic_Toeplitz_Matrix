@@ -1,11 +1,12 @@
 ---
-title: "Invertible Generative Modeling using Linear Rational Splines"
+title: "Deterministic Design of Toeplitz Matrices With Small Coherence Based on Weyl Sums"
 collection: publications
 permalink: /publication/2020_01_07_INN_using_LRS
 excerpt: 'This paper is about designing Toeplitz measurement matrices based on Weyl sums.'
 date: 2019-10-01
 venue: 'IEEE Signal Processing Letters'
 ---
+
 ![Alt](https://hmdolatabadi.github.io/files/publications/2019_Toeplitz_Matrix_Weyl/img.png)
 
 In this paper, we design complex-valued Toeplitz matrices with unit modulus elements that have small coherence. 
