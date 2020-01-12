@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017_07_01_AC_Convex_Sampling
 excerpt: 'This paper is about designing Toeplitz measurement matrices based on Weyl sums.'
 date: 2017-10-01
-venue: '2017 International Conference on Sampling Theory and Applications (SampTA)'
+venue: 'International Conference on Sampling Theory and Applications (SampTA)'
 ---
 
 ![Alt](https://hmdolatabadi.github.io/files/publications/2017_AC_Convex_Sampling/img.png)
