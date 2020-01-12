@@ -5,7 +5,6 @@ permalink: /publication/2019_10_01_Deterministic_Toeplitz_Matrix
 excerpt: 'This paper is about designing Toeplitz measurement matrices based on Weyl sums.'
 date: 2019-10-01
 venue: 'IEEE Signal Processing Letters'
-paperurl: 'https://ieeexplore.ieee.org/document/8740934'
 ---
 In this paper, we design complex-valued Toeplitz matrices with unit modulus elements that have small coherence. The complex phase of the matrix elements are determined by certain polynomials. We provide upper bounds for the coherence of the resulting matrix using tools fromanalytic number theory, namely, the Weyl sum theorem.
 
