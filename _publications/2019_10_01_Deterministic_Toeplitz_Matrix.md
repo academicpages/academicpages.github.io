@@ -11,6 +11,6 @@ venue: 'IEEE Signal Processing Letters'
 
 In this paper, we design complex-valued Toeplitz matrices with unit modulus elements that have small coherence. 
 The complex phase of the matrix elements are determined by certain polynomials. 
-We provide upper bounds for the coherence of the resulting matrix using tools fromanalytic number theory, namely, the Weyl sum theorem.
+We provide upper bounds for the coherence of the resulting matrix using tools from analytic number theory, namely, the Weyl sum theorem.
 
 [Download paper here](https://ieeexplore.ieee.org/document/8740934)
