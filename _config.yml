@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hadi M. Dolatabadi"
-  avatar           : "profile.png"
+  avatar           : "/files/profile.jpg"
   bio              : "Ph.D. Student @ UniMelb"
   location         : "Melbourne, Australia"
   employer         :
