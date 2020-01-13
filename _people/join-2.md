@@ -1,6 +1,6 @@
 ---
 title: "Join the lab"
-excerpt: "[We are hiring a PhD student!](https://flanagan-lab.github.io/open-positions/)"
+excerpt: "<br><img src='/images/Sarah F lab logo_pipes_Final.png'><br>[We are hiring a PhD student!](https://flanagan-lab.github.io/open-positions/)"
 collection: people
 permalink: /people/join
 ---
