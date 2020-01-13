@@ -13,4 +13,4 @@ In this paper, we design complex-valued Toeplitz matrices with unit modulus elem
 The complex phase of the matrix elements are determined by certain polynomials. 
 We provide upper bounds for the coherence of the resulting matrix using tools from analytic number theory, namely, the Weyl sum theorem.
 
-[Download paper here](https://ieeexplore.ieee.org/document/8740934)
+[[Download paper here]](https://ieeexplore.ieee.org/document/8740934) [[bibtex]](https://github.com/hmdolatabadi/hmdolatabadi.github.io/blob/master/files/bibtex/HMDolatabadi2019Weyl.bib)
