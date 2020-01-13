@@ -11,4 +11,4 @@ venue: 'The 23rd International Conference on Artifcial Intelligence and Statisti
 
 In this paper, we explore using linear rational splines as an invertible transformations for normalizing flows.
 
-[Polishing in progress]()
+[[Will become online soon]]() [[bibtex]](https://github.com/hmdolatabadi/hmdolatabadi.github.io/blob/master/files/bibtex/HMDolatabadi2020LRS.bib)
