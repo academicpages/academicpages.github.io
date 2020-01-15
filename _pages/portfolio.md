@@ -29,6 +29,11 @@ In the natural environment, groups of individuals are often faced with the probl
 ## Sequential Social Dilemma (SSDs) environments for Multi-Agent Reinforcement Learning
 Social dilemmas are widely used for the purpose of research on cooperation in game theory, behavioural economics, and recently, artificial intelligence. Proposed as an alternative to matrix games like Prisoner's Dilemma which tend to treat actions as atomic, social dilemmas capture the crucial temporal and spatial aspects of the behaviour of the agents when faced with a decision exposing tension between collective and individual rationality. Therefore, making it possible to analyse the dynamics of the learning agents powered by deep reinforcement learning algorithms. This project aims at recreating, improving and finally open-sourcing the sequential social dilemma game environments proposed in recent publications for research purposes.
 * [SSDs-multiagent-RL](https://github.com/macwiatrak/SSDs-multiagent-RL)
+<img src="https://macwiatrak.github.io/files/gathering.gif" width="400" height="80"/>
+<img src="https://macwiatrak.github.io/files/fetch.gif" width="400" height="80"/>
+<img src="https://macwiatrak.github.io/files/checkers.gif" width="400" height="80"/>
+
+
 
 ## MyBikeSafetyNet [OxfordHACK 2018]
 App visualizing bike theft data acquired from data.police.uk/data/ to help in identifying localizations, where bikes are more likely to be stolen. Build as a project for OxfordHACK 2018.
