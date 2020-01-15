@@ -2,9 +2,9 @@
 title: "Variational Bottleneck Domain Adaptation"
 collection: publications
 permalink: /publications/VBDA
-venue: "Arxiv 2019."
+venue: "The 24th European Conference on Artificial Intelligence (ECAI 2020)"
 date: 2019-11-20
-citation: 'Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <i>Arxiv 2019.</i>'
+citation: 'Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <b>ECAI 2020.</b>'
 ---
 
 [[PDF]](https://arxiv.org/pdf/1911.09310.pdf)
