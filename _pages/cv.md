@@ -20,7 +20,7 @@ Other-Education
 * [Math Instructional Skills Workshop (ISW)](https://www.math.ubc.ca/~fsl/ISW.html), UBC, 2018.
 * [Graduate Teaching and Learning Program Level 3](https://www.ualberta.ca/graduate-studies/professional-development/graduate-teaching-and-learning-program/gtl-level3), University of Alberta, 2017.
 * Industry Canada Basic(+) Certificate of proficiency in Amateur Radio, 2011.
-* Project Management Principles and Practice Level 1 & 2, University of Alberta, Faculty of Extension, 2011. 
+* Project Management Principles and Practice Level 1 & 2, University of Alberta, Faculty of Extension, 2011.
 
 Work experience
 ======
@@ -43,27 +43,27 @@ Work experience
 * 2011: UA-HAB (University of Alberta High Altitude Balloon)
   * University of Alberta
   * Supervisors: Dr. Ian Mann and Dr. Laura Mazzino
-  
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Organizer of the BIRS workshop "Bridging Cellular and Tissue Dynamics from
 Normal Development to Cancer: Mathematical, Computational, and Experimental
-Approaches" (19w5080). 
+Approaches" (19w5080).
   * Co-organizers: Dr. Elisabeth Rens, Dr. Leah Edelstein-Keshet.
   * Details can be found on the [BIRS webpage](https://www.birs.ca/events/2019/5-day-workshops/19w5080).
   * Videos from the event can be found [here](https://www.birs.ca/events/2019/5-day-workshops/19w5080/videos).
 
 * Chairman of the "Developmental Biology" [SMB-subgroup](https://www.smb.org/subgroups/). We organize an annual
 minisymposium at the annual meeting of the Society of Mathematical Biology.
-  * Co-organizer: Dr. Leah Edelstein-Keshet.
 
 * Organizer of the session ["Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour in Cells"](https://winter18.cms.math.ca/index.php/sessions/) at the Canadian Mathematical Society Winter Meeting (2018), Vancouver, Canada.
+  * Co-organizer: Dr. Leah Edelstein-Keshet.
 
 * 2014 - 2017 Member of the [Society in Graduate Mathematics and Statistics](http://sigmas.math.ualberta.ca/):
   * 2017 president.
@@ -121,8 +121,3 @@ Scholarships
 * Phi Gamma Delta Ed. Foundation, Academic Achievement Award (AAA), 2011.
 * A University of Alberta Academic Excellence Scholarship, 2009.
 * A Faculty of Science Academic Excellence Scholarship, 2009.
-
-
-
-
-
