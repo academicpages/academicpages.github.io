@@ -36,7 +36,7 @@ Social dilemmas are widely used for the purpose of research on cooperation in ga
   <img src="https://macwiatrak.github.io/files/fetch.gif" width="500" height="100"/>
 </p>
 <p align="center">
-  <img src="https://macwiatrak.github.io/files/checkers.gif" width="400" height="80"/>
+  <img src="https://macwiatrak.github.io/files/checkers.gif" width="500" height="100"/>
 </p>
 
 
