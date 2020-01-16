@@ -23,7 +23,7 @@ In review
 ======
 ------
 Hu Z., Dietz A., **Zhao A.**, et al.,, Snow Moving to Higher Elevations: Analyzing Three Decades of Snowline Dynamics in the Alps, submitted to **Geophysical Research Letters** (2<sup>nd</sup> round review). <br/>
-Stevenson, D.S., **Zhao, A.**., et al., Trends in global tropospheric hydroxyl radical and methane lifetime since 1850 from AerChemMIP, submitted to **[Atmospheric Chemistry and Physics](https://www.atmos-chem-phys-discuss.net/acp-2019-1219/)**. <br/>
+Stevenson, D.S., **Zhao, A.**., et al., Trends in global tropospheric hydroxyl radical and methane lifetime since 1850 from AerChemMIP, submitted to [**Atmospheric Chemistry and Physics**](https://www.atmos-chem-phys-discuss.net/acp-2019-1219/). <br/>
 
 Published
 ======
