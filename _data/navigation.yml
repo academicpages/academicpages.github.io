@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "   About   "
+  - title: "   About me  "
     url: /cv/
     
   - title: "Highlight"
@@ -12,10 +12,10 @@ main:
   - title: "   Coding   "
     url: /coding/  
     
-  - title: "   Modelling   "
+  - title: "    Modelling   "
     url: /modelling/  
     
-  - title: "   Resources   "
+  - title: "   Data & Resources   "
     url: /resources/    
     
 #  - title: "Photograph"
