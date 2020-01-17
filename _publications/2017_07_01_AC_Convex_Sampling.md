@@ -11,4 +11,5 @@ venue: 'International Conference on Sampling Theory and Applications (SampTA)'
 
 In this paper we present a sampling result about continuous-domain black and white images that form a convex shape.
 
-[[Download paper here]](https://ieeexplore.ieee.org/document/8024468) [[bibtex]](https://github.com/hmdolatabadi/hmdolatabadi.github.io/tree/master/files/bibtex/HMDolatabadi2017Algebraic.bib)
+[[Download paper here]](https://ieeexplore.ieee.org/document/8024468) 
+<a id="raw-url" href="https://raw.githubusercontent.com/hmdolatabadi/hmdolatabadi.github.io/master/files/bibtex/HMDolatabadi2017Algebraic.bib">[bibtex]</a>
