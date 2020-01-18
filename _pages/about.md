@@ -33,3 +33,8 @@ I enjoy sports including jogging and basketball. My favourite team in NBA is San
 I am a civil aviation enthusiast. I am a member of the ACICFG, a team devoted to making subtitles and captions for documentaries related to civil aviation (such as the **Air Crash Investigation**). Some of our works are published on [bilibili](https://space.bilibili.com/358422). I also write some articles on [zhihu](https://www.zhihu.com/people/mai-kang-ming/activities) related to civil aviation and my research. 
 
 I am an alcoholist and I enjoy drinking, ranging from beers (American IPA, Trappist and Hefeweizen), Vodka (Smirnoff Black, Grey Goose) and Single Malt Scotch (among which I prefer Talisker, Lagavulin and Cragganmore). An image demonstrating genres of single malt scotch is [here](http://kl4805.github.io/files/Whiskey.jpeg).
+
+Friends
+======
+I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below. 
+[Haodong Duan](https://kennymckormick.github.io/)
