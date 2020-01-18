@@ -36,5 +36,6 @@ I am an alcoholist and I enjoy drinking, ranging from beers (American IPA, Trapp
 
 Friends
 ======
-I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below. 
-[Haodong Duan](https://kennymckormick.github.io/)
+I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
+
+[Haodong Duan](https://kennymckormick.github.io/)(MPhil. Student at the Chinese University of Hong Kong, Computer Vision). 
