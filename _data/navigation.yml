@@ -5,6 +5,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Services"
+    url: /services/  
         
   - title: "Blog Posts"
     url: /year-archive/
