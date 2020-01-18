@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Samuel Sledzieski - Computational Biology PhD Student"
+title: "Samuel Sledzieski"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
