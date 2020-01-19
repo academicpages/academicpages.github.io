@@ -10,11 +10,6 @@ redirect_from:
 {% include base_path %}
 
 In this page, you can find information related to my studies, publications and talks, among other things. 
-<a href='http://cris21395.github.io/files/cv.pdf'>
-  <b>Click here if you want to view in PDF my up-to-date Curriculum Vitae</b>
-</a>.
-
-<!-- <embed src="http://cris21395.github.io/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
 
 ## Research interests
 My research interests include Human-Computer Interaction (HCI), 3D graphics and artificial intelligence. 
