@@ -18,16 +18,18 @@ Education
 Academic Experience
 ======
 
-* Research Assistant - *January 2017 - May 2019*
+### Research Assistant
+*January 2017 - May 2019*
   * **Computational Biology Lab**, University of Connecticut, Storrs, CT
   * **Advisor:** Dr. Mukul Bansal
   * Developed algorithms and software for finding optimal viral transmission history
   * Developed a testing pipeline for the software using simulated viral genomic data.
   * Presented at IEEE ICCABS 2018 and RECOMB 2019: “TreeFix-VP: Phylogenetic Error Correction for Accurate Reconstruction of Viral Transmission Networks”
 
-  * **Spring 2017:** Independent study working to reconstruct full ancestral genomes using modern computational biology software and to develop a procedure for differentiating between addition and replacement lateral gene transfer events in bacteria.
+  * Spring 2017: Independent study working to reconstruct full ancestral genomes using modern computational biology software and to develop a procedure for differentiating between addition and replacement lateral gene transfer events in bacteria.
 
-* Research Assistant - *October 2015 - December 2016*
+### Research Assistant
+*October 2015 - December 2016*
   * **Nelson Lab**, University of Connecticut, Storrs, CT
   * **Advisor:** Dr. Craig Nelson
   * Developed proficiency in basic laboratory techniques and modern single cell and stem cell biology techniques, including cell culture of mouse embryonic fibroblasts and fluorescent microscopy.
@@ -55,18 +57,21 @@ Teaching
 Industry Experience
 ======
 
-* Summer Research Program - *May 2019 - August 2019*
+### Summer Research Program
+*May 2019 - August 2019*
   * **Advanced Systems and Lasercom Group**, MIT Lincoln Laboratory, Lexington, MA
   * Developed of a test bed for automatic calibration of high speed infrared cameras under multiple focal plane array settings
   * Implemented a large hardware and software system to automatically collect calibration data and perform optical power calculations
   * Calibration enables the use of cameras to measure optical power emitted by a lasercom terminal
 
-* Senior Design Project - *August 2019 - May 2019*
+### Senior Design Project
+*August 2019 - May 2019*
   * **Jackson Laboratory**, Farmington, CT
   * Designed and developed a web interface for a CNV-calling tool developed by the Jackson Laboratory
   * Designed for use by research scientists and in-hospital physicians
 
-* Technology Development Program - *June 2017 - August 2017*
+### Technology Development Program
+*June 2017 - August 2017*
   * **Optum Technology**, Boston, MA
   * Worked on exploratory project into the viability of machine learning as a tool to assist automatic claim adjudication and error resolution.
   * Developed a machine learning facilitation pipeline which was distributed throughout Optum as a resource for other teams seeking to take advantage of machine learning.
@@ -75,6 +80,7 @@ Industry Experience
 
 Relevant Coursework
 ======
+
 * Computer Science
   * Algorithms
   * Bioinformatics
@@ -99,6 +105,7 @@ Relevant Coursework
 
 Professional Memberships
 ======
+
 * Association for Computing Machinery (ACM)
 * Institute of Electronics Engineers (IEEE)
 * Eta Kappa Nu (HKN)

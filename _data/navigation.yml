@@ -8,13 +8,14 @@ main:
 
   - title: "Talks"
     url: /talks/       
-    
+  
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
   
 # unused
-  #- title: "Teaching"
-  #url: /teaching/ 
 
   #- title: "Blog Posts"
   #  url: /year-archive/
