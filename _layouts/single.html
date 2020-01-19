@@ -50,9 +50,10 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       
         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p><b>Recommended citation:</b> {{ page.citation }}</p>
+          <p><a href="{{ page.paperurl }}">Download paper here</a></p>
         {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p><b>Recommended citation:</b> {{ page.citation }}</p>
         {% endif %}
       
       </section>

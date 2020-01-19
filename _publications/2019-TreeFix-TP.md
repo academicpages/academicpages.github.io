@@ -16,7 +16,3 @@ Many existing methods for estimation of infectious disease transmission networks
 
 **Conclusions**
 Our results show that using TreeFix-TP can lead to significant improvement in transmission phylogeny inference and that its performance is robust to variations in transmission and evolutionary parameters. Our experiments also demonstrate the importance of sampling multiple strain sequences from each infected host for accurate transmission network inference. TreeFix-TP is freely available open-source from https://compbio.engr.uconn.edu/software/treefix-tp/.
-
-[Download paper here](https://www.biorxiv.org/content/10.1101/813931v1)
-
-**Recommended citation:** "S. Sledzieski, C. Zhang, I. Mandoiu, and M.S. Bansal. TreeFix-TP: Phylogenetic Error-Correction for Infectious Disease Transmission Network Inference. bioRxiv 813931; doi: https://doi.org/10.1101/813931"
