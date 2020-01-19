@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-TreeFix-TP
 date: 2019-10-22
 venue: 'Under Review'
-paperurl: 'https://www.biorxiv.org/content/10.1101/813931v1'
+paperurl: 'https://www.biorxiv.org/content/10.1101/813931v1.full.pdf'
 citation: "S. Sledzieski, C. Zhang, I. Mandoiu, and M.S. Bansal. TreeFix-TP: Phylogenetic Error-Correction for Infectious Disease Transmission Network Inference. bioRxiv 813931; doi: https://doi.org/10.1101/813931"
 ---
 
