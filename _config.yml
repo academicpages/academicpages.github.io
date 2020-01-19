@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samuel Sledzieski"
 title_separator          : "-"
 name                     : &name "Samuel Sledzieski"
-description              : &description "personal description"
+description              : &description "Personal website for Sam Sledzieski"
 url                      : https://samsledje.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samsledje/samsledje.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samuel Sledzieski"
   avatar           : "profile.jpg"
-  bio              : "Computational Biology PhD Student"
+  bio              : "Computational Biology PhD Student @ MIT"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
