@@ -39,7 +39,7 @@ Teams will be formed and case-study topics assigned early in the semester. Each 
 
  Wilkinson,A. and Kupers,R., Living in the Futures
 
-#Learning Outcomes
+# Learning Outcomes
 Students will learn to:
 
 •	Describe the purpose and methodologies associated with energy transition outlooks and communicate their merits and weaknesses.
