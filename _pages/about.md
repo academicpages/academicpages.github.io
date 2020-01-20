@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Research Associate at the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) and the [Princeton Institute for International and Regional Studies](http://piirs.princeton.edu/), at Princeton University. I finished my Ph.D. in Sciences at the University of Minho, in Portugal, in 2017. My research agenda is on the role of institutions for managing social-ecological systems. It covers the topics of the management of public goods, the resilience of ecological systems, and evolutionary biology by using and developing tools and resources in the areas of mathematical ecology, complex systems, stochastic processes, game theory, scientific computing, network science, and numerical methods. 
+I am a Postdoctoral Research Associate and Lecturer at the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) and the [Princeton Institute for International and Regional Studies](http://piirs.princeton.edu/), at Princeton University. I finished my Ph.D. in Sciences at the University of Minho, in Portugal, in 2017. My research agenda is on the role of institutions for managing social-ecological systems. It covers the topics of the management of public goods, the resilience of ecological systems, and evolutionary biology by using and developing tools and resources in the areas of complex systems, mathematical ecology, stochastic processes, game theory, scientific computing, network science, and numerical methods. 
 
 Details
 ======
