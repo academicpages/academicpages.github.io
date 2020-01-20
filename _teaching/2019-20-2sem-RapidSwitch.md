@@ -12,7 +12,8 @@ location: "Princeton, USA"
 
 ENE 372/EGR 372/ENV 372
 
-Course details: https://registrar.princeton.edu/course-offerings/course-details?term=1204&courseid=015001
+Course details can be found at [Princeton Course Catalog](https://registrar.princeton.edu/course-offerings/course-details?term=1204&courseid=015001).
+
 ![Course Flier](../images/RAPID_SWITH_FLYER.png)
 
 
