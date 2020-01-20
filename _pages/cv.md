@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* 2020-: Lecturer
+  * Princeton University, Andlinger Center for Energy and the Environment.
+
 * 2019-2021: Postdoctoral Research Associate
   * Princeton University, Andlinger Center for Energy and the Environment & PIIRS
   * Supervisor: Simon A. Levin, Elke U. Weber
