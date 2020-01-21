@@ -47,7 +47,7 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Download" }}</a></div>{% endif %}
       
         {% if page.citation and page.paperurl %}
           <p><b>Recommended citation:</b> {{ page.citation }}</p>
