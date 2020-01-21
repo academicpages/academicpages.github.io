@@ -158,7 +158,7 @@ markdown: kramdown
 theme: jekyll-theme-dinky
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "<!-- more -->"
 incremental: false
 
 # Markdown Processing
