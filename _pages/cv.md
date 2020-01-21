@@ -54,6 +54,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Software
+======
+
+  <ul>{% for post in site.software %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Industry Experience
 ======
 
