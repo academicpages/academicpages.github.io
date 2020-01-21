@@ -39,6 +39,10 @@ layout: default
 
         </header>
       {% endunless %}
+        
+      {% if page.link %}
+        <p><a href="{{ site.url }}{{ page.link }}" class="btn">Download slides</a></p>
+      {% endif %}
 
       <section class="page__content" itemprop="text">
         {{ content }}

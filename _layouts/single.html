@@ -53,7 +53,7 @@ layout: default
       
         {% if page.citation and page.paperurl %}
           <p><b>Recommended citation:</b> {{ page.citation }}</p>
-          <p><a href="{{ page.link }}" class="btn">Download PDF</a></p>
+          <p><a href="{{ page.paperurl }}" class="btn">Download PDF</a></p>
         {% elsif page.citation %}
           <p><b>Recommended citation:</b> {{ page.citation }}</p>
         {% endif %}
