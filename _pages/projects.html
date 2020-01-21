@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sorted_projects = site.projects | sort:"order" %}
+{% assign sorted_projects = site.projects | sort:"order" | reverse %}
 {% for post in sorted_projects %}
   {% include archive-single.html %}
 {% endfor %}

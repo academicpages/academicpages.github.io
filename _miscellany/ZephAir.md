@@ -2,7 +2,6 @@
 title: "Zephair"
 excerpt: "Smart Home Air Purifier - HackUConn 2017<br/><img src='/images/zephair.png'>"
 collection: hackathons
-order: 4
 ---
 
 **Built for HackUConn 2017**

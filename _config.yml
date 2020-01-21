@@ -185,9 +185,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  hackathons:
-    output: true
-    permalink: /:collection/:path/
   miscellany:
     output: true
     permalink: /:collection/:path/
