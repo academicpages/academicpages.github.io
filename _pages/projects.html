@@ -7,20 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<br>
-<h2>Hackathon Projects</h2>
-
-{% for post in site.hackathons %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<br>
-<h2>Miscellany</h2>
-
-{% for post in site.miscellany %}
+{% assign sorted_projects = site.projects | sort:"order" %}
+{% for post in sorted_projects %}
   {% include archive-single.html %}
 {% endfor %}
