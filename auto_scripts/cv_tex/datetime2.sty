@@ -1,0 +1,1853 @@
+%%
+%% This is file `datetime2.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% datetime2.dtx  (with options: `datetime2.sty,package')
+%% 
+%%  datetime2.dtx
+%%  Copyright 2016 Nicola Talbot
+%% 
+%%  This work may be distributed and/or modified under the
+%%  conditions of the LaTeX Project Public License, either version 1.3
+%%  of this license of (at your option) any later version.
+%%  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%%  and version 1.3 or later is part of all distributions of LaTeX
+%%  version 2005/12/01 or later.
+%% 
+%%  This work has the LPPL maintenance status `maintained'.
+%% 
+%%  The Current Maintainer of this work is Nicola Talbot.
+%% 
+%%  This work consists of the files datetime2.dtx and datetime2.ins and the derived files datetime2.sty, datetime2-calc.sty.
+%% 
+%% \CharacterTable
+%%  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
+%%   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+%%   Digits        \0\1\2\3\4\5\6\7\8\9
+%%   Exclamation   \!     Double quote  \"     Hash (number) \#
+%%   Dollar        \$     Percent       \%     Ampersand     \&
+%%   Acute accent  \'     Left paren    \(     Right paren   \)
+%%   Asterisk      \*     Plus          \+     Comma         \,
+%%   Minus         \-     Point         \.     Solidus       \/
+%%   Colon         \:     Semicolon     \;     Less than     \<
+%%   Equals        \=     Greater than  \>     Question mark \?
+%%   Commercial at \@     Left bracket  \[     Backslash     \\
+%%   Right bracket \]     Circumflex    \^     Underscore    \_
+%%   Grave accent  \`     Left brace    \{     Vertical bar  \|
+%%   Right brace   \}     Tilde         \~}
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{datetime2}[2016/07/12 v1.5.2 (NLCT) date and time formats]
+\RequirePackage{tracklang}
+\RequirePackage{etoolbox}
+\RequirePackage{xkeyval}[2006/11/18]
+\ifdef\pdfcreationdate
+{%
+  \edef\dtm@pdfcreationdate{\pdfcreationdate}%
+}%
+{%
+  \ifdef\pdffeedback
+  {%
+     \edef\dtm@pdfcreationdate{\pdffeedback creationdate}%
+  }%
+  {%
+    \ifdef\TeXOSQueryNow
+    {%
+      \TeXOSQueryNow{\dtm@pdfcreationdate}%
+      \ifdefempty\dtm@pdfcreationdate
+      {%
+        \undef\dtm@pdfcreationdate
+      }%
+      {}%
+    }%
+    {}%
+  }%
+}
+\newcommand*{\dtm@yearmonthsep}{-}
+\newcommand*{\dtm@monthdaysep}{-}
+\newcommand*{\dtm@dayyearsep}{-}
+\newcommand*{\dtm@hourminsep}{:}
+\newcommand*{\dtm@minsecsep}{:}
+\newcommand*{\dtm@datetimesep}{\space}%
+\newcommand*{\dtm@timezonesep}{}
+\define@key{datetime2.sty}{datesep}{%
+  \renewcommand*{\dtm@yearmonthsep}{#1}%
+  \renewcommand*{\dtm@monthdaysep}{#1}%
+  \renewcommand*{\dtm@dayyearsep}{#1}%
+}
+\define@key{datetime2.sty}{yearmonthsep}{%
+  \renewcommand*{\dtm@yearmonthsep}{#1}%
+}
+\define@key{datetime2.sty}{monthdaysep}{%
+  \renewcommand*{\dtm@monthdaysep}{#1}%
+}
+\define@key{datetime2.sty}{dayyearsep}{%
+  \renewcommand*{\dtm@dayyearsep}{#1}%
+}
+\define@key{datetime2.sty}{timesep}{%
+  \renewcommand*{\dtm@hourminsep}{#1}%
+  \renewcommand*{\dtm@minsecsep}{#1}%
+}
+\define@key{datetime2.sty}{hourminsep}{%
+  \renewcommand*{\dtm@hourminsep}{#1}%
+}
+\define@key{datetime2.sty}{minsecsep}{%
+  \renewcommand*{\dtm@minsecsep}{#1}%
+}
+\define@key{datetime2.sty}{timezonesep}{%
+  \renewcommand*{\dtm@timezonesep}{#1}%
+}
+\define@key{datetime2.sty}{datetimesep}{%
+  \renewcommand*{\dtm@datetimesep}{#1}%
+}
+\define@boolkey{datetime2.sty}[DTM]{showseconds}[true]{}
+\define@boolkey{datetime2.sty}[DTM]{showdate}[true]{}
+\DTMshowdatetrue
+\define@boolkey{datetime2.sty}[DTM]{showzone}[true]{}
+\define@boolkey{datetime2.sty}[DTM]{showisoZ}[true]{}
+\DTMshowisoZtrue
+\ifdef\dtm@pdfcreationdate
+{%
+  \DTMshowsecondstrue
+  \DTMshowzonetrue
+}%
+{%
+  \DTMshowsecondsfalse
+  \DTMshowzonefalse
+}%
+\define@boolkey{datetime2.sty}[DTM]{showzoneminutes}[true]{}
+\DTMshowzoneminutestrue
+\newcommand*{\DTMifcaseregional}[3]{#1}
+\define@choicekey{datetime2.sty}{useregional}[\val\nr]%
+ {false,text,numeric,num}[text]%
+ {%
+   \ifcase\nr\relax
+     \renewcommand*{\DTMifcaseregional}[3]{##1}%
+   \or
+     \renewcommand*{\DTMifcaseregional}[3]{##2}%
+   \or
+     \renewcommand*{\DTMifcaseregional}[3]{##3}%
+   \or
+     \renewcommand*{\DTMifcaseregional}[3]{##3}%
+   \fi
+ }
+\newcommand*{\@dtm@setusecalc}{%
+  \renewcommand*{\@dtm@usecalc}{\RequirePackage{datetime2-calc}}%
+}
+\newcommand*{\@dtm@usecalc}{}
+\AtBeginDocument{%
+  \@ifpackageloaded{datetime2-calc}%
+  {%
+    \renewcommand*{\@dtm@setusecalc}{}%
+  }%
+  {%
+    \renewcommand*{\@dtm@setusecalc}{%
+      \PackageError{datetime2}{You must load `datetime2-calc'
+      package to use option `showdow'}{Try one of the following:^^J
+      pass `calc' option to `datetime2' package when you load it^^J
+      or move `showdow' option to `datetime2' package option list^^J
+      or move \string\DTLsetup\space to the preamble.}%
+    }%
+  }%
+}
+\DeclareOptionX{calc}{\@dtm@setusecalc}
+\define@boolkey{datetime2.sty}[DTM]{showdow}[true]{%
+  \ifDTMshowdow \@dtm@setusecalc \fi
+}
+\DTMshowdowfalse
+\newcommand*{\@dtm@warning}[1]{%
+  \if@dtm@warn
+    \PackageWarning{datetime2}{#1}%
+  \fi
+}
+\define@boolkey{datetime2.sty}[@dtm@]{warn}[true]{}
+\@dtm@warntrue
+\newcommand*{\@dtm@initialstyle}{}
+\define@key{datetime2.sty}{style}{%
+  \renewcommand*{\@dtm@initialstyle}{#1}%
+  \ifstrempty{#1}%
+  {}%
+  {%
+    \renewcommand*{\DTMifcaseregional}[3]{##1}%
+  }%
+}
+\DeclareOptionX*{%
+  \ifcsundef{@tracklang@add@\CurrentOption}%
+  {%
+    \PackageError{datetime2}{`\CurrentOption' is not a recognised dialect.
+    \MessageBreak Perhaps you have misspelt it or the
+    \MessageBreak named dialect may be unsupported or
+    \MessageBreak perhaps you forgot to use the `style' key}%
+    {Any options that aren't described in the manual are assumed
+    \MessageBreak to be language or dialect names.}%
+  }%
+  {%
+    \TrackPredefinedDialect{\CurrentOption}%
+    \renewcommand*{\DTMifcaseregional}[3]{#2}%
+  }%
+}
+\ProcessOptionsX
+\disable@keys{datetime2.sty}{calc}
+\disable@keys{datetime2.sty}{style}
+\newcommand*{\DTMsetup}[1]{%
+ \def\@dtm@usecalc{}%
+ \setkeys{datetime2.sty}{#1}%
+ \@dtm@usecalc
+}
+\def\@dtm@parsedate#1-#2-#3\@dtm@endparsedate{%
+  \edef\@dtm@year{\number#1}%
+  \edef\@dtm@month{\number#2}%
+  \edef\@dtm@day{\number#3}%
+  \def\@dtm@dow{-1}%
+}
+\def\@dtm@parsetime#1:#2:#3\@dtm@endparsetime{%
+  \edef\@dtm@hour{\number#1}%
+  \edef\@dtm@minute{\number#2}%
+  \edef\@dtm@second{\number#3}%
+}
+\def\@dtm@parsetimezn#1:#2:#3 #4\@dtm@endparsetimezn{%
+  \@dtm@parsetime#1:#2:#3\@dtm@endparsetime
+  \@dtm@parsezone{#4}%
+}
+\newcommand*{\@dtm@parsezone}[1]{%
+  \ifstrequal{#1}{Z}%
+  {%
+    \def\@dtm@timezonehour{+00}%
+    \def\@dtm@timezoneminute{00}%
+  }%
+  {%
+    \@dtm@parse@zone#1\@dtm@endparse@zone
+  }%
+}
+\def\@dtm@parse@zone#1:#2\@dtm@endparse@zone{%
+  \edef\@dtm@timezonehour{\number#1}%
+  \edef\@dtm@timezoneminute{\number#2}%
+}
+\def\@dtm@parsetimestamp#1-#2-#3T#4:#5:#6#7#8\@dtm@endparsetimestamp{%
+  \@dtm@parsedate#1-#2-#3\@dtm@endparsedate
+  \@dtm@parsetime#4:#5:#6#7\@dtm@endparsetime
+  \@dtm@parsezone{#8}%
+}
+\newcommand*{\DTMsavefilemoddate}[2]{%
+  \@dtm@warning{Your TeX engine doesn't support accessing
+  file modification dates}%
+  \cslet{@dtm@#1@year}{0}%
+  \cslet{@dtm@#1@month}{0}%
+  \cslet{@dtm@#1@day}{0}%
+  \cslet{@dtm@#1@dow}{-1}%
+  \cslet{@dtm@#1@hour}{0}%
+  \cslet{@dtm@#1@minute}{0}%
+  \cslet{@dtm@#1@second}{0}%
+  \cslet{@dtm@#1@TZhour}{0}%
+  \cslet{@dtm@#1@TZminute}{0}%
+}
+\newcommand*{\DTMsavefrompdfdata}[2]{%
+  \edef\@dtm@tmp{#2}%
+  \expandafter\@dtm@parsepdfdatetime\@dtm@tmp\@dtm@endparsepdfdatetime
+  \cslet{@dtm@#1@year}{\@dtm@year}%
+  \cslet{@dtm@#1@month}{\@dtm@month}%
+  \cslet{@dtm@#1@day}{\@dtm@day}%
+  \cslet{@dtm@#1@dow}{\@dtm@dow}%
+  \cslet{@dtm@#1@hour}{\@dtm@hour}%
+  \cslet{@dtm@#1@minute}{\@dtm@minute}%
+  \cslet{@dtm@#1@second}{\@dtm@second}%
+  \cslet{@dtm@#1@TZhour}{\@dtm@timezonehour}%
+  \cslet{@dtm@#1@TZminute}{\@dtm@timezoneminute}%
+}
+\ifdef\dtm@pdfcreationdate
+{%
+  \def\@dtm@parsepdfdatetime#1:#2#3#4#5#6#7#8#9{%
+    \def\@dtm@year{#2#3#4#5}%
+    \def\@dtm@month{#6#7}%
+    \def\@dtm@day{#8#9}%
+    \@dtm@parsepdftime
+  }
+  \def\@dtm@parsepdftime#1#2#3#4#5#6#7\@dtm@endparsepdfdatetime{%
+    \def\@dtm@hour{#1#2}%
+    \def\@dtm@minute{#3#4}%
+    \def\@dtm@second{#5#6}%
+    \ifstrequal{#7}{Z}%
+    {%
+      \def\@dtm@timezonehour{00}%
+      \def\@dtm@timezoneminute{00}%
+    }%
+    {%
+      \@dtm@parsepdftimezone#7%
+    }%
+  }
+  \def\@dtm@parsepdftimezone#1'#2'{%
+    \def\@dtm@timezonehour{#1}%
+    \def\@dtm@timezoneminute{#2}%
+  }%
+  \expandafter\@dtm@parsepdfdatetime\dtm@pdfcreationdate\@dtm@endparsepdfdatetime
+  \let\@dtm@currentyear\@dtm@year
+  \let\@dtm@currentmonth\@dtm@month
+  \let\@dtm@currentday\@dtm@day
+  \let\@dtm@currenthour\@dtm@hour
+  \let\@dtm@currentminute\@dtm@minute
+  \let\@dtm@currentsecond\@dtm@second
+  \let\@dtm@currenttimezonehour\@dtm@timezonehour
+  \let\@dtm@currenttimezoneminute\@dtm@timezoneminute
+  \ifdef\pdffilemoddate
+  {%
+    \renewcommand*{\DTMsavefilemoddate}[2]{%
+      \expandafter\@dtm@parsepdfdatetime\pdffilemoddate{#2}\@dtm@endparsepdfdatetime
+      \cslet{@dtm@#1@year}{\@dtm@year}%
+      \cslet{@dtm@#1@month}{\@dtm@month}%
+      \cslet{@dtm@#1@day}{\@dtm@day}%
+      \cslet{@dtm@#1@dow}{\@dtm@dow}%
+      \cslet{@dtm@#1@hour}{\@dtm@hour}%
+      \cslet{@dtm@#1@minute}{\@dtm@minute}%
+      \cslet{@dtm@#1@second}{\@dtm@second}%
+      \cslet{@dtm@#1@TZhour}{\@dtm@timezonehour}%
+      \cslet{@dtm@#1@TZminute}{\@dtm@timezoneminute}%
+    }
+  }%
+  {%
+    \ifdef\directlua
+    {
+      \renewcommand*{\DTMsavefilemoddate}[2]{%
+        \expandafter\@dtm@parseluadatetime
+          \directlua{tex.print(os.date(
+             "\expandafter\@gobble\string\%Y-%
+              \expandafter\@gobble\string\%m-%
+              \expandafter\@gobble\string\%d-%
+              \expandafter\@gobble\string\%w
+              \expandafter\@gobble\string\%H:%
+              \expandafter\@gobble\string\%M:%
+              \expandafter\@gobble\string\%S
+              \expandafter\@gobble\string\%z",
+            lfs.attributes("#2").modification))}%
+         \@dtm@endparseluadatetime
+         \cslet{@dtm@#1@year}{\@dtm@year}%
+         \cslet{@dtm@#1@month}{\@dtm@month}%
+         \cslet{@dtm@#1@day}{\@dtm@day}%
+         \cslet{@dtm@#1@dow}{\@dtm@dow}%
+         \cslet{@dtm@#1@hour}{\@dtm@hour}%
+         \cslet{@dtm@#1@minute}{\@dtm@minute}%
+         \cslet{@dtm@#1@second}{\@dtm@second}%
+         \cslet{@dtm@#1@TZhour}{\@dtm@TZhour}%
+         \cslet{@dtm@#1@TZminute}{\@dtm@TZminute}%
+      }
+      \def\@dtm@parseluadatetime#1-#2-#3-#4 #5:#6:#7 #8\@dtm@endparseluadatetime{%
+         \edef\@dtm@year{\number#1}%
+         \edef\@dtm@month{\number#2}%
+         \edef\@dtm@day{\number#3}%
+         \edef\@dtm@dow{\number#4}%
+         \edef\@dtm@hour{\number#5}%
+         \edef\@dtm@minute{\number#6}%
+         \edef\@dtm@second{\number#7}%
+         \@dtm@parseluatimezone#8000000\@dtm@endparseluatimezone
+      }
+      \def\@dtm@parseluatimezone#1#2#3#4#5#6{%
+         \ifstrequal{#1}{+}%
+         {%
+           \def\@dtm@TZhour{#1#2#3}%
+           \ifstrequal{#4}{:}%
+           {%
+              \def\@dtm@TZminute{#5#6}%
+           }%
+           {%
+              \def\@dtm@TZminute{#4#5}%
+           }%
+         }%
+         {%
+           \ifstrequal{#1}{-}%
+           {%
+              \def\@dtm@TZhour{#1#2#3}%
+              \ifstrequal{#4}{:}%
+              {%
+                 \def\@dtm@TZminute{#5#6}%
+              }%
+              {%
+                 \def\@dtm@TZminute{#4#5}%
+              }%
+           }%
+           {%
+             \ifstrequal{#1}{Z}%
+             {%
+               \def\@dtm@TZhour{0}%
+               \def\@dtm@TZminute{0}%
+             }%
+             {%
+               \def\@dtm@TZhour{#1#2}%
+               \ifstrequal{#3}{:}%
+               {%
+                  \def\@dtm@TZminute{#4#5}%
+               }%
+               {%
+                  \def\@dtm@TZminute{#3#4}%
+               }%
+             }%
+           }%
+         }%
+         \@@dtm@parseluatimezone
+      }
+      \def\@@dtm@parseluatimezone#1\@dtm@endparseluatimezone{%
+      }
+    }
+    {%
+      \ifdef\TeXOSQueryFileDate
+      {
+        \renewcommand*{\DTMsavefilemoddate}[2]{%
+          \TeXOSQueryFileDate{\@dtm@tmp}{#2}%
+          \ifdefempty\@dtm@tmp
+          {%
+           \@dtm@warning{Your TeX engine doesn't support accessing
+           file modification dates and the attempt to use texosquery
+           failed}%
+           \cslet{@dtm@#1@year}{0}%
+           \cslet{@dtm@#1@month}{0}%
+           \cslet{@dtm@#1@day}{0}%
+           \cslet{@dtm@#1@dow}{-1}%
+           \cslet{@dtm@#1@hour}{0}%
+           \cslet{@dtm@#1@minute}{0}%
+           \cslet{@dtm@#1@second}{0}%
+           \cslet{@dtm@#1@TZhour}{0}%
+           \cslet{@dtm@#1@TZminute}{0}%
+          }%
+          {%
+            \expandafter\@dtm@parsepdfdatetime\@dtm@tmp\@dtm@endparsepdfdatetime
+            \cslet{@dtm@#1@year}{\@dtm@year}%
+            \cslet{@dtm@#1@month}{\@dtm@month}%
+            \cslet{@dtm@#1@day}{\@dtm@day}%
+            \cslet{@dtm@#1@dow}{\@dtm@dow}%
+            \cslet{@dtm@#1@hour}{\@dtm@hour}%
+            \cslet{@dtm@#1@minute}{\@dtm@minute}%
+            \cslet{@dtm@#1@second}{\@dtm@second}%
+            \cslet{@dtm@#1@TZhour}{\@dtm@timezonehour}%
+            \cslet{@dtm@#1@TZminute}{\@dtm@timezoneminute}%
+          }%
+        }%
+      }
+      {}
+    }
+  }%
+}%
+{%
+   \count@=\time\relax
+   \divide\count@ by 60\relax
+   \edef\@dtm@currenthour{\number\count@}%
+   \multiply\count@ by -60\relax
+   \advance\count@ by \time\relax
+   \edef\@dtm@currentminute{\number\count@}%
+   \newcommand*{\@dtm@currentsecond}{00}%
+   \newcommand\@dtm@currenttimezonehour{00}%
+   \newcommand\@dtm@currenttimezoneminute{00}%
+   \edef\@dtm@currentyear{\number\year}%
+   \edef\@dtm@currentmonth{\number\month}%
+   \edef\@dtm@currentday{\number\day}%
+}
+\robustify\DTMsavefilemoddate
+\newcommand*{\@dtm@currentdow}{-1}
+\newcommand*{\DTMsetcurrentzone}[2]{%
+  \renewcommand\@dtm@currenttimezonehour{#1}%
+  \renewcommand\@dtm@currenttimezoneminute{#2}%
+}
+\newcommand*{\DTMtoday}{%
+ \DTMdisplaydate
+  {\@dtm@currentyear}%
+  {\@dtm@currentmonth}%
+  {\@dtm@currentday}%
+  {\@dtm@currentdow}%
+}
+\let\today\DTMtoday
+\@ifclassloaded{scrlttr2}{\AtBeginDocument{\let\today\DTMtoday}}{}
+\newcommand*{\DTMToday}{%
+ \DTMDisplaydate
+  {\@dtm@currentyear}%
+  {\@dtm@currentmonth}%
+  {\@dtm@currentday}%
+  {\@dtm@currentdow}%
+}
+\let\Today\DTMToday
+\newcommand*\DTMdisplaydate[4]{%
+  \number#1\dtm@yearmonthsep\DTMtwodigits{#2}\dtm@monthdaysep\DTMtwodigits{#3}%
+}%
+\newcommand*{\DTMDisplaydate}{\DTMdisplaydate}
+\newrobustcmd*{\DTMdate}[1]{%
+  \expandafter\@dtm@parsedate#1\@dtm@endparsedate
+  \DTMdisplaydate{\@dtm@year}{\@dtm@month}{\@dtm@day}{\@dtm@dow}%
+}
+\newrobustcmd*{\DTMDate}[1]{%
+  \expandafter\@dtm@parsedate#1\@dtm@endparsedate
+  \DTMDisplaydate{\@dtm@year}{\@dtm@month}{\@dtm@day}{\@dtm@dow}%
+}
+\newcommand*{\DTMcurrenttime}{%
+ \DTMdisplaytime
+  {\@dtm@currenthour}%
+  {\@dtm@currentminute}%
+  {\@dtm@currentsecond}%
+}
+\newcommand*\DTMdisplaytime[3]{%
+  \DTMtwodigits{#1}\dtm@hourminsep\DTMtwodigits{#2}%
+  \ifDTMshowseconds\dtm@minsecsep\DTMtwodigits{#3}\fi
+}%
+\newrobustcmd*{\DTMtime}[1]{%
+  \@dtm@parsetime#1\@dtm@endparsetime
+  \DTMdisplaytime{\@dtm@hour}{\@dtm@minute}{\@dtm@second}%
+}
+\newcommand*{\DTMcurrentzone}{%
+ \DTMdisplayzone
+  {\@dtm@currenttimezonehour}%
+  {\@dtm@currenttimezoneminute}%
+}
+\newcommand*{\DTMdisplayzone}[2]{%
+ \ifboolexpe
+ { bool{DTMshowisoZ}
+   and test{\ifnumequal{#1}{0}}
+   and test{\ifnumequal{#2}{0}}
+ }%
+ {%
+   Z%
+ }%
+ {%
+  \ifnum#1<0\else+\fi\DTMtwodigits{#1}%
+  \ifDTMshowzoneminutes\dtm@hourminsep\DTMtwodigits{#2}\fi
+ }%
+}
+\newcommand*{\DTMnow}{%
+ \DTMdisplay
+ {\@dtm@currentyear}
+ {\@dtm@currentmonth}
+ {\@dtm@currentday}
+ {\@dtm@currentdow}
+ {\@dtm@currenthour}%
+ {\@dtm@currentminute}%
+ {\@dtm@currentsecond}%
+ {\@dtm@currenttimezonehour}%
+ {\@dtm@currenttimezoneminute}%
+}
+\newcommand*{\DTMNow}{%
+ \DTMDisplay
+ {\@dtm@currentyear}
+ {\@dtm@currentmonth}
+ {\@dtm@currentday}
+ {\@dtm@currentdow}
+ {\@dtm@currenthour}%
+ {\@dtm@currentminute}%
+ {\@dtm@currentsecond}%
+ {\@dtm@currenttimezonehour}%
+ {\@dtm@currenttimezoneminute}%
+}
+\newcommand*{\DTMdisplay}[9]{%
+ \ifDTMshowdate
+   \DTMdisplaydate{#1}{#2}{#3}{#4}%
+   \dtm@datetimesep
+ \fi
+ \DTMdisplaytime
+  {#5}%
+  {#6}%
+  {#7}%
+ \ifDTMshowzone
+  \dtm@timezonesep
+  \DTMdisplayzone
+   {#8}%
+   {#9}%
+ \fi
+}
+\newcommand*{\DTMDisplay}{\DTMdisplay}
+\newcommand*{\DTMtwodigits}[1]{%
+ \ifnum#1<0
+  -\DTMtwodigits{-#1}%
+ \else
+   \ifnum#1<100
+     \ifnum#1<10
+       0\number#1
+     \else
+       \number#1
+     \fi
+   \else
+     \ifnum\numexpr#1-(#1/100)*100<0
+       \number\numexpr#1-((#1/100)-1)*100\relax
+     \else
+       \number\numexpr#1-(#1/100)*100\relax
+     \fi
+   \fi
+ \fi
+}
+\newcommand*{\DTMcentury}[1]{%
+  \ifnum#1<0
+    -\DTMcentury{-#1}%
+  \else
+    \ifnum\numexpr#1-(#1/100)*100<1
+       \number\numexpr#1/100\relax
+    \else
+       \number\numexpr(#1/100)+1\relax
+    \fi
+  \fi
+}
+\newcommand*{\DTMdivhundred}[1]{%
+  \ifnum#1<0
+    -\DTMdivhundred{-#1}%
+  \else
+    \ifnum\numexpr#1-(#1/100)*100<0
+       \number\numexpr(#1)/100-1\relax
+    \else
+       \number\numexpr((#1)/100)\relax
+    \fi
+  \fi
+}
+\newcommand*{\DTMtexorpdfstring}[2]{#1}
+\AtBeginDocument{%
+  \@ifpackageloaded{hyperref}%
+  {%
+    \renewcommand*{\DTMtexorpdfstring}{\texorpdfstring}%
+  }%
+  {}%
+}
+\newcommand*{\DTMsep}[1]{\csname dtm@#1sep\endcsname}
+\newcommand*{\DTMnewdatestyle}[2]{%
+  \ifcsdef{@dtm@datestyle@#1}%
+  {%
+    \PackageError{datetime2}{Date style `#1' already exists}{}%
+  }%
+  {%
+     \csdef{@dtm@datestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMrenewdatestyle}[2]{%
+  \ifcsundef{@dtm@datestyle@#1}%
+  {%
+    \PackageError{datetime2}{Date style `#1' doesn't exist}{}%
+  }%
+  {%
+     \csdef{@dtm@datestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMprovidedatestyle}[2]{%
+  \ifcsdef{@dtm@datestyle@#1}%
+  {%
+  }%
+  {%
+     \csdef{@dtm@datestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMnewtimestyle}[2]{%
+  \ifcsdef{@dtm@timestyle@#1}%
+  {%
+    \PackageError{datetime2}{Time style `#1' already exists}{}%
+  }%
+  {%
+     \csdef{@dtm@timestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMrenewtimestyle}[2]{%
+  \ifcsundef{@dtm@timestyle@#1}%
+  {%
+    \PackageError{datetime2}{Time style `#1' doesn't exist}{}%
+  }%
+  {%
+     \csdef{@dtm@timestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMprovidetimestyle}[2]{%
+  \ifcsdef{@dtm@timestyle@#1}%
+  {%
+  }%
+  {%
+     \csdef{@dtm@timestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMnewzonestyle}[2]{%
+  \ifcsdef{@dtm@zonestyle@#1}%
+  {%
+    \PackageError{datetime2}{Zone style `#1' already exists}{}%
+  }%
+  {%
+     \csdef{@dtm@zonestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMrenewzonestyle}[2]{%
+  \ifcsundef{@dtm@zonestyle@#1}%
+  {%
+    \PackageError{datetime2}{Zone style `#1' doesn't exist}{}%
+  }%
+  {%
+     \csdef{@dtm@zonestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMprovidezonestyle}[2]{%
+  \ifcsdef{@dtm@zonestyle@#1}%
+  {%
+  }%
+  {%
+     \csdef{@dtm@zonestyle@#1}{#2}%
+  }%
+}
+\newcommand*{\DTMdefzonemap}[3]{%
+  \csdef{@dtm@zonemap@\DTMtwodigits{#1}:\DTMtwodigits{#2}}{#3}%
+}
+\newcommand*{\DTMusezonemapordefault}[2]{%
+  \ifcsundef{@dtm@zonemap@\DTMtwodigits{#1}:\DTMtwodigits{#2}}%
+  {%
+    \ifnum#1<0\else+\fi
+    \DTMtwodigits{#1}%
+    \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{#2}\fi
+  }%
+  {\csname @dtm@zonemap@\DTMtwodigits{#1}:\DTMtwodigits{#2}\endcsname}%
+}
+\newcommand*{\DTMusezonemap}[2]{%
+  \csname @dtm@zonemap@\DTMtwodigits{#1}:\DTMtwodigits{#2}\endcsname
+}
+\newcommand*{\DTMhaszonemap}[4]{%
+  \ifcsundef{@dtm@zonemap@\DTMtwodigits{#1}:\DTMtwodigits{#2}}{#4}{#3}%
+}
+\newcommand*{\DTMclearmap}[2]{%
+ \csundef{@dtm@zonemap@\DTMtwodigits{#1}:\DTMtwodigits{#2}}%
+}
+\newcommand*{\DTMshowmap}[2]{%
+ \csshow{@dtm@zonemap@\DTMtwodigits{#1}:\DTMtwodigits{#2}}%
+}
+\newcommand*{\DTMresetzones}{}
+\newcommand*{\DTMNatoZoneMaps}{%
+  \defzonemap{01}{00}{A}% Alpha time zone
+  \defzonemap{02}{00}{B}% Bravo time zone
+  \defzonemap{03}{00}{C}% Charlie time zone
+  \defzonemap{04}{00}{D}% Delta time zone
+  \defzonemap{05}{00}{E}% Echo time zone
+  \defzonemap{06}{00}{F}% Foxtrot time zone
+  \defzonemap{07}{00}{G}% Golf time zone
+  \defzonemap{08}{00}{H}% Hotel time zone
+  \defzonemap{09}{00}{I}% India time zone
+  \defzonemap{10}{00}{K}% Kilo time zone
+  \defzonemap{11}{00}{L}% Lima time zone
+  \defzonemap{12}{00}{M}% Mike time zone
+  \defzonemap{-01}{00}{N}% November time zone
+  \defzonemap{-02}{00}{O}% Oscar time zone
+  \defzonemap{-03}{00}{P}% Papa time zone
+  \defzonemap{-04}{00}{Q}% Quebec time zone
+  \defzonemap{-05}{00}{R}% Romeo time zone
+  \defzonemap{-06}{00}{S}% Sierra time zone
+  \defzonemap{-07}{00}{T}% Tango time zone
+  \defzonemap{-08}{00}{U}% Uniform time zone
+  \defzonemap{-09}{00}{V}% Victor time zone
+  \defzonemap{-10}{00}{W}% Whiskey time zone
+  \defzonemap{-11}{00}{X}% X-ray time zone
+  \defzonemap{-12}{00}{Y}% Yankee time zone
+  \defzonemap{00}{00}{Z}% Zulu time zone
+}
+\newcommand*{\DTMifhasstyle}[3]{%
+  \ifcsdef{@dtm@style@#1}{#2}{#3}%
+}
+\newcommand*{\DTMifhasdatestyle}[3]{%
+  \ifcsdef{@dtm@datestyle@#1}{#2}{#3}%
+}
+\newcommand*{\DTMifhastimestyle}[3]{%
+  \ifcsdef{@dtm@timestyle@#1}{#2}{#3}%
+}
+\newcommand*{\DTMifhaszonestyle}[3]{%
+  \ifcsdef{@dtm@zonestyle@#1}{#2}{#3}%
+}
+\newcommand*{\DTMnewstyle}[5]{%
+  \DTMifhasstyle{#1}%
+  {%
+    \PackageError{datetime2}{Style `#1' already exists}{}%
+  }%
+  {%
+    \DTMnewdatestyle{#1}{#2}%
+    \DTMnewtimestyle{#1}{#3}%
+    \DTMnewzonestyle{#1}{#4}%
+     \csdef{@dtm@style@#1}{%
+        \csuse{@dtm@datestyle@#1}%
+        \csuse{@dtm@timestyle@#1}%
+        \csuse{@dtm@zonestyle@#1}%
+        #5%
+     }%
+  }%
+}
+\newcommand*{\DTMrenewstyle}[5]{%
+  \DTMifhasstyle{#1}%
+  {%
+    \DTMrenewdatestyle{#1}{#2}%
+    \DTMrenewtimestyle{#1}{#3}%
+    \DTMrenewzonestyle{#1}{#4}%
+     \csdef{@dtm@style@#1}{%
+        \csuse{@dtm@datestyle@#1}%
+        \csuse{@dtm@timestyle@#1}%
+        \csuse{@dtm@zonestyle@#1}%
+        #5%
+     }%
+  }%
+  {%
+    \PackageError{datetime2}{Style `#1' doesn't exist}{}%
+  }%
+}
+\newcommand*{\DTMprovidestyle}[5]{%
+  \DTMifhasstyle{#1}%
+  {%
+  }%
+  {%
+    \DTMprovidedatestyle{#1}{#2}%
+    \DTMprovidetimestyle{#1}{#3}%
+    \DTMprovidezonestyle{#1}{#4}%
+     \csdef{@dtm@style@#1}{%
+        \csuse{@dtm@datestyle@#1}%
+        \csuse{@dtm@timestyle@#1}%
+        \csuse{@dtm@zonestyle@#1}%
+        #5%
+     }%
+  }%
+}
+\newrobustcmd*{\DTMsetdatestyle}[1]{%
+  \ifcsdef{@dtm@datestyle@#1}%
+  {\csuse{@dtm@datestyle@#1}}%
+  {%
+    \PackageError{datetime2}{Date style `#1' not defined}{}%
+  }%
+}
+\newrobustcmd*{\DTMsettimestyle}[1]{%
+  \ifcsdef{@dtm@timestyle@#1}%
+  {\csuse{@dtm@timestyle@#1}}%
+  {%
+    \PackageError{datetime2}{Time style `#1' not defined}{}%
+  }%
+}
+\newrobustcmd*{\DTMsetzonestyle}[1]{%
+  \ifcsdef{@dtm@zonestyle@#1}%
+  {\csuse{@dtm@zonestyle@#1}}%
+  {%
+    \PackageError{datetime2}{Zone style `#1' not defined}{}%
+  }%
+}
+\newcommand*{\DTMtryregional}{%
+  \@ifstar\s@dtm@tryregional\@dtm@tryregional
+}
+\newcommand*{\@dtm@tryregional}[3][]{%
+  \edef\@dtm@langcode{#2}%
+  \edef\@dtm@countrycode{#3}%
+  \s@dtm@tryregional[#1]{\@dtm@langcode}{\@dtm@countrycode}%
+}
+\newcommand*{\s@dtm@tryregional}[3][]{%
+ \def\@dtm@thisstyle{}%
+ \edef\@dtm@root{#1}%
+ \ifdefempty{#2}{}%
+ {%
+   \let\@dtm@thisstyle#2%
+   \ifdefempty\@dtm@root
+   {%
+     \edef\@dtm@root{\TrackedLanguageFromIsoCode{639-1}{#2}}%
+     \ifdefempty\@dtm@root
+     {%
+       \edef\@dtm@root{\TrackedLanguageFromIsoCode{639-2}{#2}}%
+     }%
+     {}%
+   }%
+   {}%
+ }%
+ \ifdefempty{#3}{}%
+ {%
+   \ifdefempty\@dtm@thisstyle
+   {\let\@dtm@thisstyle#3}%
+   {\eappto\@dtm@thisstyle{-#3}}%
+ }%
+ \ifdefempty\@dtm@thisstyle
+ {}%
+ {%
+   \DTMifcaseregional
+   {}%
+   {%
+     \DTMifhasstyle{\@dtm@thisstyle}%
+     {%
+       \csuse{@dtm@style@\@dtm@thisstyle}%
+     }%
+     {%
+       \ifdefempty\@dtm@root
+       {}%
+       {%
+         \DTMifhasstyle{\@dtm@root}%
+         {%
+           \csuse{@dtm@style@\@dtm@root}%
+         }%
+         {}%
+       }%
+     }%
+   }%
+   {%
+     \DTMifhasstyle{\@dtm@thisstyle-numeric}%
+     {%
+       \csuse{@dtm@style@\@dtm@thisstyle-numeric}%
+     }%
+     {%
+       \ifdefempty\@dtm@root
+       {}%
+       {%
+         \DTMifhasstyle{\@dtm@root-numeric}%
+         {%
+           \csuse{@dtm@style@\@dtm@root-numeric}%
+         }%
+         {}%
+       }%
+     }%
+   }%
+ }%
+}
+\newcommand*{\DTMsetregional}[1][text]{%
+  \DTMsetup{useregional=#1}%
+  \ifstrequal{#1}{false}%
+  {%
+    \DTMsetstyle{default}%
+  }%
+  {%
+    \ifcsdef{date\languagename}
+    {%
+      \csuse{date\languagename}
+    }%
+    {%
+      \ForEachTrackedDialect{\@dtm@thisdialect}%
+      {%
+        \edef\@dtm@lang{\TrackedLanguageFromDialect\@dtm@thisdialect}%
+        \edef\@dtm@langcode{\TrackedIsoCodeFromLanguage{639-1}{\@dtm@lang}}%
+        \ifdefempty\@dtm@langcode
+        {%
+          \edef\@dtm@langcode{\TrackedIsoCodeFromLanguage{639-2}{\@dtm@lang}}%
+        }%
+        {}%
+        \edef\@dtm@countrycode{%
+          \TrackedIsoCodeFromLanguage{3166-1}{\@dtm@thisdialect}}%
+        \s@dtm@tryregional[\@dtm@lang]{\@dtm@langcode}{\@dtm@countrycode}%
+      }%
+    }%
+  }%
+}
+\newrobustcmd*{\DTMsetstyle}[1]{%
+  \DTMifhasstyle{#1}%
+  {\csuse{@dtm@style@#1}}%
+  {%
+     \let\dtm@unknownstyle\@dtm@unknownstyle
+     \ifcsdef{@dtm@datestyle#1}%
+       {\csuse{@dtm@datestyle@#1}\let\dtm@unknownstyle\@dtm@unknown@style}%
+       {\@dtm@warning{No date style `#1' defined}}%
+     \ifcsdef{@dtm@timestyle#1}%
+       {\csuse{@dtm@timestyle@#1}\let\dtm@unknownstyle\@dtm@unknown@style}%
+       {\@dtm@warning{No time style `#1' defined}}%
+     \ifcsdef{@dtm@zonestyle#1}%
+       {\csuse{@dtm@zonestyle@#1}\let\dtm@unknownstyle\@dtm@unknown@style}%
+       {\@dtm@warning{No zone style `#1' defined}}%
+     \dtm@unknownstyle{#1}%
+  }%
+}
+\newcommand*{\@dtm@unknownstyle}[1]{%
+  \PackageError{datetime2}{Unknown style `#1'}{}%
+}
+\newcommand*{\@dtm@unknown@style}[1]{%
+  \@dtm@warning{No full style `#1' defined}{}%
+}
+\DTMnewstyle
+ {default}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \number##1\DTMsep{yearmonth}\DTMtwodigits{##2}%
+      \DTMsep{monthday}\DTMtwodigits{##3}%
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {iso}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \number##1-\DTMtwodigits{##2}-\DTMtwodigits{##3}%
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}:\DTMtwodigits{##2}%
+      \ifDTMshowseconds:\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes:\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     T%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {pdf}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      D:\number##1 % space intended
+      \DTMtwodigits{##2}\DTMtwodigits{##3}%
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMtwodigits{##2}\DTMtwodigits{##3}%
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}'\DTMtwodigits{##2}'%
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \DTMdisplaydate{##1}{##2}{##3}{##4}%
+    \DTMdisplaytime{##5}{##6}{##7}%
+    \DTMdisplayzone{##8}{##9}%
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {yyyymd}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \number##1
+      \DTMsep{yearmonth}%
+      \number##2
+      \DTMsep{monthday}%
+      \number##3
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {ddmmyyyy}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \DTMtwodigits{##3}\DTMsep{monthday}%
+      \DTMtwodigits{##2}\DTMsep{yearmonth}%
+      \number##1
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {dmyyyy}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \number##3
+      \DTMsep{monthday}%
+      \number##2
+      \DTMsep{yearmonth}%
+      \number##1
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {dmyy}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \number##3 % space intended
+      \DTMsep{monthday}%
+      \number##2 % space intended
+      \DTMsep{yearmonth}%
+      \DTMtwodigits{##1}%
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {ddmmyy}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \DTMtwodigits{##3}\DTMsep{monthday}%
+      \DTMtwodigits{##2}\DTMsep{yearmonth}%
+      \DTMtwodigits{##1}%
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {mmddyyyy}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \DTMtwodigits{##2}\DTMsep{monthday}%
+      \DTMtwodigits{##3}\DTMsep{dayyear}%
+      \number##1
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {mdyyyy}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \number##2 % space intended
+      \DTMsep{monthday}%
+      \number##3 % space intended
+      \DTMsep{dayyear}%
+      \number##1 % space intended
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {mdyy}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \number##2 % space intended
+      \DTMsep{monthday}%
+      \number##3 % space intended
+      \DTMsep{dayyear}%
+      \DTMtwodigits{##1}%
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewstyle
+ {mmddyy}%label
+ {% date style
+    \renewcommand*\DTMdisplaydate[4]{%
+      \DTMtwodigits{##2}\DTMsep{monthday}%
+      \DTMtwodigits{##3}\DTMsep{dayyear}%
+      \DTMtwodigits{##1}%
+    }%
+    \renewcommand*{\DTMDisplaydate}{\DTMdisplaydate}%
+ }%
+ {% time style
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMtwodigits{##1}\DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+ {% zone style
+   \renewcommand*{\DTMdisplayzone}[2]{%
+     \ifboolexpe
+     { bool{DTMshowisoZ}
+       and test{\ifnumequal{##1}{0}}
+       and test{\ifnumequal{##2}{0}}
+     }%
+     {%
+       Z%
+     }%
+     {%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+     }%
+   }%
+ }%
+ {% full style
+   \renewcommand*{\DTMdisplay}[9]{%
+    \ifDTMshowdate
+     \DTMdisplaydate{##1}{##2}{##3}{##4}%
+     \DTMsep{datetime}%
+    \fi
+    \DTMdisplaytime
+     {##5}%
+     {##6}%
+     {##7}%
+    \ifDTMshowzone
+     \DTMsep{timezone}%
+     \DTMdisplayzone
+      {##8}%
+      {##9}%
+    \fi
+   }%
+   \renewcommand*{\DTMDisplay}{\DTMdisplay}%
+ }
+\DTMnewtimestyle
+ {hmmss}% label
+ {%
+    \renewcommand*\DTMdisplaytime[3]{%
+      \number##1
+      \DTMsep{hourmin}\DTMtwodigits{##2}%
+      \ifDTMshowseconds\DTMsep{minsec}\DTMtwodigits{##3}\fi
+    }%
+ }%
+\DTMnewzonestyle
+ {map}% label
+ {%
+    \renewcommand*\DTMdisplaytime[3]{%
+      \DTMusezonemapordefault{##1}{##2}%
+    }%
+ }%
+\DTMnewzonestyle
+ {hhmm}% label
+ {%
+    \renewcommand*\DTMdisplaytime[3]{%
+      \ifnum##1<0\else+\fi\DTMtwodigits{##1}%
+      \ifDTMshowzoneminutes\DTMsep{hourmin}\DTMtwodigits{##2}\fi
+    }%
+ }
+\newrobustcmd*{\DTMsavedate}[2]{%
+  \expandafter\@dtm@parsedate#2\@dtm@endparsedate
+  \cslet{@dtm@#1@year}{\@dtm@year}%
+  \cslet{@dtm@#1@month}{\@dtm@month}%
+  \cslet{@dtm@#1@day}{\@dtm@day}%
+  \cslet{@dtm@#1@dow}{\@dtm@dow}%
+  \ifcsundef{@dtm@#1@hour}{\csdef{@dtm@#1@hour}{0}}{}%
+  \ifcsundef{@dtm@#1@minute}{\csdef{@dtm@#1@minute}{0}}{}%
+  \ifcsundef{@dtm@#1@second}{\csdef{@dtm@#1@second}{0}}{}%
+  \ifcsundef{@dtm@#1@TZhour}{\csdef{@dtm@#1@TZhour}{0}}{}%
+  \ifcsundef{@dtm@#1@TZminute}{\csdef{@dtm@#1@TZminute}{0}}{}%
+}
+\newrobustcmd*{\DTMsavenoparsedate}[5]{%
+  \csedef{@dtm@#1@year}{\number#2}%
+  \csedef{@dtm@#1@month}{\number#3}%
+  \csedef{@dtm@#1@day}{\number#4}%
+  \csedef{@dtm@#1@dow}{\number#5}%
+  \ifcsundef{@dtm@#1@hour}{\csdef{@dtm@#1@hour}{0}}{}%
+  \ifcsundef{@dtm@#1@minute}{\csdef{@dtm@#1@minute}{0}}{}%
+  \ifcsundef{@dtm@#1@second}{\csdef{@dtm@#1@second}{0}}{}%
+  \ifcsundef{@dtm@#1@TZhour}{\csdef{@dtm@#1@TZhour}{0}}{}%
+  \ifcsundef{@dtm@#1@TZminute}{\csdef{@dtm@#1@TZminute}{0}}{}%
+}
+\newrobustcmd*{\DTMsavetime}[2]{%
+  \expandafter\@dtm@parsetime#2\@dtm@endparsetime
+  \cslet{@dtm@#1@hour}{\@dtm@hour}%
+  \cslet{@dtm@#1@minute}{\@dtm@minute}%
+  \cslet{@dtm@#1@second}{\@dtm@second}%
+  \ifcsundef{@dtm@#1@year}{\csdef{@dtm@#1@year}{0}}{}%
+  \ifcsundef{@dtm@#1@month}{\csdef{@dtm@#1@month}{0}}{}%
+  \ifcsundef{@dtm@#1@day}{\csdef{@dtm@#1@day}{0}}{}%
+  \ifcsundef{@dtm@#1@dow}{\csdef{@dtm@#1@dow}{-1}}{}%
+  \ifcsundef{@dtm@#1@TZhour}{\csdef{@dtm@#1@TZhour}{0}}{}%
+  \ifcsundef{@dtm@#1@TZminute}{\csdef{@dtm@#1@TZminute}{0}}{}%
+}
+\newrobustcmd*{\DTMsavetimezn}[2]{%
+  \expandafter\@dtm@parsetimezn#2\@dtm@endparsetimezn
+  \cslet{@dtm@#1@hour}{\@dtm@hour}%
+  \cslet{@dtm@#1@minute}{\@dtm@minute}%
+  \cslet{@dtm@#1@second}{\@dtm@second}%
+  \cslet{@dtm@#1@TZhour}{\@dtm@timezonehour}%
+  \cslet{@dtm@#1@TZminute}{\@dtm@timezoneminute}%
+  \ifcsundef{@dtm@#1@year}{\csdef{@dtm@#1@year}{0}}{}%
+  \ifcsundef{@dtm@#1@month}{\csdef{@dtm@#1@month}{0}}{}%
+  \ifcsundef{@dtm@#1@day}{\csdef{@dtm@#1@day}{0}}{}%
+  \ifcsundef{@dtm@#1@dow}{\csdef{@dtm@#1@dow}{-1}}{}%
+}
+\newrobustcmd*{\DTMsavetimestamp}[2]{%
+  \expandafter\@dtm@parsetimestamp#2\@dtm@endparsetimestamp
+  \cslet{@dtm@#1@year}{\@dtm@year}%
+  \cslet{@dtm@#1@month}{\@dtm@month}%
+  \cslet{@dtm@#1@day}{\@dtm@day}%
+  \cslet{@dtm@#1@dow}{\@dtm@dow}%
+  \cslet{@dtm@#1@hour}{\@dtm@hour}%
+  \cslet{@dtm@#1@minute}{\@dtm@minute}%
+  \cslet{@dtm@#1@second}{\@dtm@second}%
+  \cslet{@dtm@#1@TZhour}{\@dtm@timezonehour}%
+  \cslet{@dtm@#1@TZminute}{\@dtm@timezoneminute}%
+}
+\newrobustcmd{\DTMsavenow}[1]{%
+  \cslet{@dtm@#1@year}{\@dtm@currentyear}%
+  \cslet{@dtm@#1@month}{\@dtm@currentmonth}%
+  \cslet{@dtm@#1@day}{\@dtm@currentday}%
+  \cslet{@dtm@#1@dow}{\@dtm@currentdow}%
+  \cslet{@dtm@#1@hour}{\@dtm@currenthour}%
+  \cslet{@dtm@#1@minute}{\@dtm@currentminute}%
+  \cslet{@dtm@#1@second}{\@dtm@currentsecond}%
+  \cslet{@dtm@#1@TZhour}{\@dtm@currenttimezonehour}%
+  \cslet{@dtm@#1@TZminute}{\@dtm@currenttimezoneminute}%
+}
+\newrobustcmd{\DTMmakeglobal}[1]{%
+  \global\csletcs{@dtm@#1@year}{@dtm@#1@year}%
+  \global\csletcs{@dtm@#1@month}{@dtm@#1@month}%
+  \global\csletcs{@dtm@#1@day}{@dtm@#1@day}%
+  \global\csletcs{@dtm@#1@dow}{@dtm@#1@dow}%
+  \global\csletcs{@dtm@#1@hour}{@dtm@#1@hour}%
+  \global\csletcs{@dtm@#1@minute}{@dtm@#1@minute}%
+  \global\csletcs{@dtm@#1@second}{@dtm@#1@second}%
+  \global\csletcs{@dtm@#1@TZhour}{@dtm@#1@TZhour}%
+  \global\csletcs{@dtm@#1@TZminute}{@dtm@#1@TZminute}%
+}
+\newcommand*{\DTMfetchyear}[1]{\csname @dtm@#1@year\endcsname}
+\newcommand*{\DTMfetchmonth}[1]{\csname @dtm@#1@month\endcsname}
+\newcommand*{\DTMfetchday}[1]{\csname @dtm@#1@day\endcsname}
+\newcommand*{\DTMfetchdow}[1]{\csname @dtm@#1@dow\endcsname}
+\newcommand*{\DTMfetchhour}[1]{\csname @dtm@#1@hour\endcsname}
+\newcommand*{\DTMfetchminute}[1]{\csname @dtm@#1@minute\endcsname}
+\newcommand*{\DTMfetchsecond}[1]{\csname @dtm@#1@second\endcsname}
+\newcommand*{\DTMfetchTZhour}[1]{\csname @dtm@#1@TZhour\endcsname}
+\newcommand*{\DTMfetchTZminute}[1]{\csname @dtm@#1@TZminute\endcsname}
+\newcommand*\DTMusedate[1]{%
+  \ifcsundef{@dtm@#1@year}%
+  {%
+     \PackageError{datetime2}{Undefined date `#1'}{}%
+  }%
+  {%
+     \DTMdisplaydate
+      {\csname @dtm@#1@year\endcsname}%
+      {\csname @dtm@#1@month\endcsname}%
+      {\csname @dtm@#1@day\endcsname}%
+      {\csname @dtm@#1@dow\endcsname}%
+  }%
+}%
+\newcommand*\DTMUsedate[1]{%
+  \ifcsundef{@dtm@#1@year}%
+  {%
+     \PackageError{datetime2}{Undefined date `#1'}{}%
+  }%
+  {%
+     \DTMDisplaydate
+      {\csname @dtm@#1@year\endcsname}%
+      {\csname @dtm@#1@month\endcsname}%
+      {\csname @dtm@#1@day\endcsname}%
+      {\csname @dtm@#1@dow\endcsname}%
+  }%
+}%
+\newcommand*\DTMusetime[1]{%
+  \ifcsundef{@dtm@#1@hour}%
+  {%
+     \PackageError{datetime2}{Undefined time `#1'}{}%
+  }%
+  {%
+     \DTMdisplaytime
+      {\csname @dtm@#1@hour\endcsname}%
+      {\csname @dtm@#1@minute\endcsname}%
+      {\csname @dtm@#1@second\endcsname}%
+  }%
+}%
+\newcommand*\DTMusezone[1]{%
+  \ifcsundef{@dtm@#1@TZhour}%
+  {%
+     \PackageError{datetime2}{Undefined time `#1'}{}%
+  }%
+  {%
+     \DTMdisplayzone
+      {\csname @dtm@#1@TZhour\endcsname}%
+      {\csname @dtm@#1@TZminute\endcsname}%
+  }%
+}%
+\newcommand*\DTMuse[1]{%
+  \ifcsundef{@dtm@#1@year}%
+  {%
+     \PackageError{datetime2}{Undefined date-time `#1'}{}%
+  }%
+  {%
+     \DTMdisplay
+      {\csname @dtm@#1@year\endcsname}%
+      {\csname @dtm@#1@month\endcsname}%
+      {\csname @dtm@#1@day\endcsname}%
+      {\csname @dtm@#1@dow\endcsname}%
+      {\csname @dtm@#1@hour\endcsname}%
+      {\csname @dtm@#1@minute\endcsname}%
+      {\csname @dtm@#1@second\endcsname}%
+      {\csname @dtm@#1@TZhour\endcsname}%
+      {\csname @dtm@#1@TZminute\endcsname}%
+  }%
+}%
+\newcommand*\DTMUse[1]{%
+  \ifcsundef{@dtm@#1@year}%
+  {%
+     \PackageError{datetime2}{Undefined date-time `#1'}{}%
+  }%
+  {%
+     \DTMDisplay
+      {\csname @dtm@#1@year\endcsname}%
+      {\csname @dtm@#1@month\endcsname}%
+      {\csname @dtm@#1@day\endcsname}%
+      {\csname @dtm@#1@dow\endcsname}%
+      {\csname @dtm@#1@hour\endcsname}%
+      {\csname @dtm@#1@minute\endcsname}%
+      {\csname @dtm@#1@second\endcsname}%
+      {\csname @dtm@#1@TZhour\endcsname}%
+      {\csname @dtm@#1@TZminute\endcsname}%
+  }%
+}%
+\newcommand{\DTMifsaveddate}[3]{%
+  \ifcsundef{@dtm@#1@year}{#3}{#2}%
+}
+\newcommand*{\@dtm@requiremodule}[1]{%
+  \IfTrackedLanguageFileExists{#1}%
+  {datetime2-}% prefix
+  {.ldf}% suffix
+  {%
+    \RequireDateTimeModule{\CurrentTrackedTag}%
+  }%
+  {%
+    \@dtm@warning{Date-Time Language Module `#1' not installed}%
+  }%
+}
+\newcommand*{\@dtm@loadedregions}{}
+\newcommand*{\RequireDateTimeModule}[1]{%
+ \ifundef\CurrentTrackedDialect
+ {%
+   \PackageError{datetime2}%
+   {\string\RequireDateTimeModule\space not permitted here}%
+   {This command is only permitted inside datetime2 language
+    modules.}%
+ }%
+ {%
+   \ifcsundef{ver@datetime2-#1.ldf}%
+   {%
+     \input{datetime2-#1.ldf}%
+     \ifdefempty\@dtm@loadedregions
+     {%
+       \edef\@dtm@loadedregions{#1}%
+     }%
+     {%
+       \edef\@dtm@loadedregions{\@dtm@loadedregions,#1}%
+     }%
+     \csedef{@dtm@moddialectmap@#1}{\CurrentTrackedDialect}%
+   }%
+   {%
+     \ifcsdef{date\CurrentTrackedDialect}
+     {%
+       \letcs{\@dtm@otherdialect}{@dtm@moddialectmap@#1}%
+       \edef\@dtm@thisdialect{\CurrentTrackedDialect}%
+       \ifdefequal\@dtm@thisdialect\@dtm@otherdialect
+       {}%
+       {%
+         \ifcsdef{date\@dtm@otherdialect}%
+         {%
+           \csletcs{date\@dtm@thisdialect}{date\@dtm@otherdialect}%
+         }%
+         {}%
+       }%
+     }%
+     {}%
+   }%
+   \csedef{@dtm@dialectmodmap@\CurrentTrackedDialect}{#1}%
+ }%
+}
+\newcommand*{\DTMdialecttomodulemap}[1]{%
+ \ifcsdef{ver@datetime2-#1.ldf}%
+ {#1}%
+ {\csname @dtm@dialectmodmap@#1\endcsname}%
+}
+\newcommand*{\ProvidesDateTimeModule}[1]{%
+  \ProvidesFile{datetime2-#1.ldf}%
+}
+\newcommand*{\DTMusemodule}[2]{%
+ \ifcsdef{@tracklang@add@#1}%
+ {%
+   \TrackPredefinedDialect{#1}%
+ }%
+ {}%
+ \let\@dtm@org@dialect\CurrentTrackedDialect
+ \def\CurrentTrackedDialect{#1}%
+ \RequireDateTimeModule{#2}%
+ \let\CurrentTrackedDialect\@dtm@org@dialect
+}
+\newcommand*{\DTMdefkey}[1]{\define@key[dtm]{#1}}
+\newcommand*{\DTMdefchoicekey}[1]{\define@choicekey[dtm]{#1}}
+\newcommand*{\DTMdefboolkey}[1]{\define@boolkey[dtm]{#1}}
+\newcommand*{\DTMifbool}[4]{\ifbool{dtm@#1@#2}{#3}{#4}}
+\newcommand*{\DTMsetbool}[3]{\setbool{dtm@#1@#2}{#3}}
+\newcommand*{\DTMlangsetup}{%
+  \@ifstar\s@DTMlangsetup\@DTMlangsetup}
+\newcommand*{\@DTMlangsetup}[2][\@dtm@loadedregions]{%
+ \@for\@dtm@region:=#1\do{%
+   \setkeys*+[dtm]{\@dtm@region}{#2}%
+   \ifdefempty\XKV@rm{}%
+   {%
+     \@dtm@warning{Region `\@dtm@region' has ignored
+      \MessageBreak the following settings:\MessageBreak
+      \XKV@rm
+      ^^J}%
+   }%
+ }%
+}
+\newcommand*{\s@DTMlangsetup}[2][\@dtm@loadedregions]{%
+ \@for\@dtm@region:=#1\do{%
+   \setkeys*+[dtm]{\@dtm@region}{#2}%
+ }%
+}
+\AnyTrackedLanguages
+{%
+  \ForEachTrackedDialect{\this@dialect}%
+  {%
+    \@dtm@requiremodule\this@dialect
+  }%
+}
+{%
+}
+\@dtm@usecalc
+\ifdefempty\@dtm@initialstyle{}{\DTMsetstyle{\@dtm@initialstyle}}
+\endinput
+%%
+%% End of file `datetime2.sty'.
