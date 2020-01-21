@@ -185,6 +185,12 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  hackathons:
+    output: true
+    permalink: /:collection/:path/
+  miscellany:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -235,6 +241,22 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
+  - scope:
+      path: ""
+      type: hackathons
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
+  - scope:
+      path: ""
+      type: miscellany
     values:
       layout: single
       author_profile: true

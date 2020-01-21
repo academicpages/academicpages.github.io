@@ -7,9 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-Under construction
-
-<!-- {% for post in site.projects %}
+{% for post in site.projects %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
+
+{% for post in site.hackathons %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in site.miscellany %}
+  {% include archive-single.html %}
+{% endfor %}
 
