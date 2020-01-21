@@ -1,6 +1,6 @@
 ---
 title: "Jeb!: An American Disappointment"
-excerpt: "<br/><img src='/images/jeb.png'>"
+excerpt: "Full length parody musical of Hamilton based on the 2016 Presidential Election.<br/><img src='/images/jeb.png'>"
 collection: miscellany
 order: 5
 ---
