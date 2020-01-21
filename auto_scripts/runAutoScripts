@@ -1,9 +1,0 @@
-#!/bin/bash
-python 01a-publicationsToMarkdown.py
-python 01b-publicationsToBibtex.py
-python 02-softwareToMarkdown.py
-python 03-talksToMarkdown.py
-python 04-teachingToMarkdown.py
-python 05a-cvToMarkdown.py
-python 05b-cvToLatex.py
-bash 05c-cvToPDF.sh
