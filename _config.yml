@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  software:
     output: true
     permalink: /:collection/:path/
   miscellany:
@@ -234,23 +234,16 @@ defaults:
       author_profile: true
       share: false
       comments: false
-  # _projects
+  # _software
   - scope:
       path: ""
-      type: projects
+      type: software
     values:
       layout: single
       author_profile: true
       share: false
       comment: false
-  - scope:
-      path: ""
-      type: hackathons
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: false
+  # _misc
   - scope:
       path: ""
       type: miscellany

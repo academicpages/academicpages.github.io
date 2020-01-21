@@ -14,10 +14,10 @@ redirect_from:
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
-  * _projects/
-  * _posts/
+  * _software/
   * _teaching/
   * _talks/
+  * _miscellany/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png

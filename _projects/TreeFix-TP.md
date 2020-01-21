@@ -1,7 +1,7 @@
 ---
 title: "TreeFix-TP"
 excerpt: "Phylogenetic Error Correction for Transmission Network Inference"
-collection: projects
+collection: software
 order: 1
 ---
 

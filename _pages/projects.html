@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Software"
+permalink: /software/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% assign sorted_projects = site.projects | sort:"order" | reverse %}
-{% for post in sorted_projects %}
+{% assign sorted_software = site.software | sort:"order" | reverse %}
+{% for post in sorted_software %}
   {% include archive-single.html %}
 {% endfor %}
