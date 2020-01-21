@@ -39,14 +39,10 @@ layout: default
 
         </header>
       {% endunless %}
-        
-      {% if page.link %}
-        <p><a href="{{ site.url }}{{ page.link }}" class="btn">Download slides</a></p>
-      {% endif %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn">Download Slides</a></div>{% endif %}
       </section>
 
       <footer class="page__meta">
