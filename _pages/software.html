@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sorted_software = site.software | sort:"order" | reverse %}
-{% for post in sorted_software %}
+{% for post in site.software reversed %}
   {% include archive-single.html %}
 {% endfor %}
