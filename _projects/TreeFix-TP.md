@@ -1,6 +1,6 @@
 ---
-title: "projects item number 1"
-excerpt: "Short description of projects item number 1<br/><img src='/images/500x300.png'>"
+title: "TreeFix-TP"
+excerpt: "Phylogenetic Error Correction for Transmission Network Inference"
 collection: projects
 ---
 
