@@ -12,6 +12,7 @@ I am a PhD student at Monash University working on gamma-ray bursts, neutron sta
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
+* January 16th 2020: Submitted _Gravitational waves or deconfined quarks: what causes the premature collapse of neutron stars born in short gamma-ray bursts?_ to PRD. See it out on [arXiv](https://arxiv.org/abs/2001.06102). This paper took a long time but it was well worth it.
 * November 17th-22nd November: This week I am in Lorne, Victoria for the Annual OzGrav retreat and ECR workshop.  
 * November 8th: After a long, productive trip in Japan my visit comes a conclusion. Met heaps of amazing people, started several collaborations, lots of exciting science to come.
 * October 27th-3rd November: This week, I am the Yamada meeting on gamma-ray-bursts in the beautiful city of Yokohama. I am presenting a couple of posters on my work on the population properties of long-lived neutron star merger remnants and extension of millisecond-magnetar models to include radiative losses.
