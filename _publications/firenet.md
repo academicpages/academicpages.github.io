@@ -8,13 +8,13 @@ date: 2020-03-02
 venue: Winter Conference on Applications of Computer Vision (WACV)
 paperurl:
 citation: 
-youtubeId: 0zmnCQhzX44
+youtubeId: QaGYFtR2-X8
 header:
    teaser: firenet_thumbnail.png
 ---
 
 <a href="https://cedric-scheerlinck.github.io/files/2019_firenet.pdf" target="_blank"><b>PDF</b></a>&emsp;
-<a href="https://youtu.be/0zmnCQhzX44" target="_blank"><b>Video</b></a>&emsp;
+<a href="https://youtu.be/QaGYFtR2-X8" target="_blank"><b>Video</b></a>&emsp;
 <a href="http://rpg.ifi.uzh.ch/davis_data.html" target="_blank"><b>Dataset1</b></a>&emsp;
 <a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc" target="_blank"><b>Dataset2</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2020_wacv_firenet.txt" target="_blank"><b>BibTex</b></a>
