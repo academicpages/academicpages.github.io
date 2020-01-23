@@ -49,10 +49,10 @@ CURRENT RESEARCH FOCUSES
 •	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes<br/>
 •	Atmospheric methane and oxidising capability<br/>
 
-PEER-REVIEW
+PEER-REVIEWER
 ======
 ------
-Atmosphere; Climate Dynamics; Journal of Climate; Journal of Geophysical Research; Earth's Future; 
+Atmosphere, Climatic Change, Climate Dynamics, Journal of Climate, Journal of Geophysical Research, Earth's Future 
 
 INVITED-TALKS
 ======
