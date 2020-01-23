@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Duong Nguyen"
-  avatar           : "profile.png"
+  avatar           : "https://duongnn.github.io/images/profile.png" #"profile.png"
   bio              : "Ph.D. Candidate, Department of Computer Science and Engineering, Michigan State University"
   location         : "East Lansing, Michigan, USA"
   employer         :
