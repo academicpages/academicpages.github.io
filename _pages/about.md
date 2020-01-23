@@ -22,7 +22,7 @@ Rumor Verification and Fact Checking
 <br/>
 
 
-Publications
+Selected Publications
 ======
 * Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity.  
 **Penghui Wei**, Nan Xu, Wenji Mao.  
@@ -36,9 +36,6 @@ In Proc. of AAAI 2019, pages 7249--7256.
 * Multi-Target Stance Detection via a Dynamic Memory-Augmented Network.       
 **Penghui Wei**, Junjie Lin, Wenji Mao.  
 In Proc. of SIGIR 2018, pages 1229--1232.
-* A Target-Guided Neural Memory Model for Stance Detection in Twitter.     
-**Penghui Wei**, Wenji Mao, Daniel Zeng.  
-In Proc. of IJCNN 2018, pages 2068--2075.  
 <br/>
   
   
