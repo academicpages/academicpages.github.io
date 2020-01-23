@@ -15,8 +15,9 @@ header:
 
 <a href="https://cedric-scheerlinck.github.io/files/2019_firenet.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/QaGYFtR2-X8" target="_blank"><b>Video</b></a>&emsp;
-<a href="http://rpg.ifi.uzh.ch/davis_data.html" target="_blank"><b>Dataset1</b></a>&emsp;
-<a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc" target="_blank"><b>Dataset2</b></a>&emsp;
+<a href="http://rpg.ifi.uzh.ch/davis_data.html" target="_blank"><b>ECD data</b></a>&emsp;
+<a href="http://rpg.ifi.uzh.ch/E2VID.html" target="_blank"><b>HSHDR data</b></a>&emsp;
+<a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc" target="_blank"><b>DVSIR data</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2020_wacv_firenet.txt" target="_blank"><b>BibTex</b></a>
 
 ![firenet_banner](/images/firenet_banner.png){:class="img-responsive"}
