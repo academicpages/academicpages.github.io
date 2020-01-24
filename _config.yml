@@ -58,8 +58,6 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : nicolas.ghio
-linkedin:
-  username               :nicolas-ghio-060654a8
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
@@ -78,12 +76,12 @@ analytics:
 author:
   name             : "Nicolas GHIO"
   avatar           : "profile.jpg"
-  bio              : "Research Data Analyst at IRLE"
+  bio              : "Research Data Analyst at UC Berkeley"
   location         : "Berkeley, CA"
-  employer         :
+  employer         : "Institute for the Research on Labor and Employment, UC Berkeley" 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "nicolas.ghio@berkeley.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +96,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "nicolas-ghio-060654a8"
   orcid            : 
   pinterest        :
   soundcloud       :
