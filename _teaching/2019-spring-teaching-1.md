@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "Sciences Po, Graduate Division"
-date: Spring 2019
+date: 2019-01-01
 location: "Paris, FRANCE"
 ---
 
