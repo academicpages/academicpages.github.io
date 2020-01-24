@@ -1,5 +1,5 @@
 ---
-permalink: nicolasghio.github.io/ _pages/about.md
+permalink: 
 title: "About me"
 excerpt: "About me"
 author_profile: true
