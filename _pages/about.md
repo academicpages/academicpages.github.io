@@ -14,8 +14,11 @@ Welcome on my website ! My name is Nicolas Ghio and I am currently a research da
 
 Contact
 ======
-Nicolas GHIO\
-Institute for Research On Labor and Employment\
-2521 Channing Way\
+Nicolas GHIO
+
+Institute for Research On Labor and Employment
+
+2521 Channing Way
+
 Berkeley, CA 94720\
 
