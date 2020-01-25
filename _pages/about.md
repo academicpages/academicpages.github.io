@@ -37,8 +37,8 @@ In Proc. of AAAI 2019, pages 7249--7256.
 **Penghui Wei**, Junjie Lin, Wenji Mao.  
 In Proc. of SIGIR 2018, pages 1229--1232.
 <br/>
-  
-  
+
+
 Education
 ======
 * **Sep. 2016 - now.** Ph.D. Student, Major in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
