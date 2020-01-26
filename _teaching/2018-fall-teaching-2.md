@@ -9,12 +9,3 @@ location: "Paris, FRANCE"
 ---
 
 Instructor for Pr. Emeric Henry. In charge of two classes of first year graduates, correction of problem sets, essays and exams
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
