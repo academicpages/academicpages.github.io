@@ -9,12 +9,3 @@ location: "Paris, FRANCE"
 ---
 
 Teaching Assistant for Pr. Mirko Wiederholt's core curriculum course. In charge of materials and grading 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
