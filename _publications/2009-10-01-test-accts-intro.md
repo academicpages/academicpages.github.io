@@ -1,12 +1,12 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Benefit of selfstabilizing protocols in eventually consistent key-value stores: a case study"
 collection: publications
 permalink: /publications/2009-10-01-test-accts-intro
-venue: "Testing Studies"
-excerpt: 'This paper is about testing.'
-date: 2009-10-01
+venue: "Proceedings of the 20th International Conference on Distributed Computing and Networking, ICDCN 2019"
+excerpt: 'In this paper, we investigated the benefit of self-stabilization in recovering faults caused by consistency violation faults. When a key-value store employs a weak consistency model (e.g. eventual consistency), the data at different replicas could be inconsistent. Application reading inconsistent data could execute incorrect computation transitions. Such incorrect transitions are denoted as consistency violation faults.'
+date: 2019-01-04
 paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+citation: 'Duong N. Nguyen, Sandeep S. Kulkarni, and Ajoy K. Datta. Benefit of selfstabilizing protocols in eventually consistent key-value stores: a case study. In Proceedings of the 20th International Conference on Distributed Computing and Networking, ICDCN 2019, Bangalore, India, January 04-07, 2019, pages 148--157, 2019.'
 ---
 
 ## Abstract
