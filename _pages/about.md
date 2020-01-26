@@ -36,6 +36,7 @@ In Proc. of AAAI 2019, pages 7249--7256.
 * Multi-Target Stance Detection via a Dynamic Memory-Augmented Network       
 **Penghui Wei**, Junjie Lin, Wenji Mao  
 In Proc. of SIGIR 2018, pages 1229--1232.
+
 <br/>
   
   
