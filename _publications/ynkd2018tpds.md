@@ -3,7 +3,7 @@ title: "Analysis of bounds on hybrid vector clocks"
 collection: publications
 permalink: /publications/ynkd2018tpds
 venue: "IEEE Transaction on Parallel and Distributed Systems, volume 29, 2018"
-excerpt: 'This paper investigate the effectiveness of of hybrid vector clock (HVC) in keeping track of causality in distributed systems. The analytical analysis and experimental results show that hybrid vector clocks can effectively determine causality with a couple of entries and substantially less than n (the number of processes).'
+excerpt: 'This paper investigate the effectiveness of using hybrid vector clocks (HVC) to keep track of causality in distributed systems. The analytical analysis and experimental results show that hybrid vector clocks can effectively determine causality with the overhead of a couple of entries and substantially less than n (the number of processes).'
 date: September 2018
 paperurl: https://www.computer.org/csdl/journal/td/2018/09/08323242/13rRUwh80GS
 citation: 'Sorrachai Yingchareonthawornchai, Duong N. Nguyen, Sandeep S. Kulkarni, and Murat Demirbas. Analysis of bounds on hybrid vector clocks. IEEE Transaction on Parallel and Distributed Systems, 29(9):1947-1960, 2018'
