@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicolas Ghio"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Nicolas GHIO"
-description              : &description "Research Data Analyst at IRLE, Berkeley CA"
-url                      : https://nicolasghio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nicolasghio.github.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,12 +57,18 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : nicolas.ghio
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
+# For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: https://twitter.com/nicolas_ghio
+  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -74,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas GHIO"
-  avatar           : "profile.jpg"
-  bio              : "Research Data Analyst at UC Berkeley"
-  location         : "IRLE"
-  employer         : 
-  pubmed           : 
-  googlescholar    : 
-  email            : "nicolas.ghio@berkeley.edu"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -90,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nicolasghio"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nicolas-ghio-060654a8"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@nicolas.ghio"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -169,9 +175,6 @@ kramdown:
 
 # Collections
 collections:
-  about:
-    output: true
-    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -189,23 +192,23 @@ collections:
 # Defaults
 defaults:
   # _posts
- # - scope:
- #     path: ""
-  #    type: posts
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    read_time: true
-   #   comments: true
-   #   share: true
-   #   related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
- # - scope:
-#      path: ""
- #     type: pages
-#    values:
-#      layout: single
-#      author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -215,41 +218,32 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _cv
+  # _publications
   - scope:
       path: ""
-      type: cv
+      type: publications
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-        # _about
-   # - scope:
-     #   path: ""
-     #   type: about
-     # values:
-     #   layout: single
-    #    author_profile: true
-    #    share: true
-    #    comments: true
   # _portfolio
-  # scope:
-   #   path: ""
-#      type: portfolio
- #   values:
- #     layout: single
- #     author_profile: true
- #     share: true
- #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
-#  - scope:
- #     path: ""
- #     type: talks
- #   values:
- #     layout: talk
- #     author_profile: true
- #     share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -315,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
