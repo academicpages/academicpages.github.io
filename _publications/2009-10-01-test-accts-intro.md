@@ -5,25 +5,17 @@ permalink: /publications/2009-10-01-test-accts-intro
 venue: "Proceedings of the 20th International Conference on Distributed Computing and Networking, ICDCN 2019"
 excerpt: 'In this paper, we investigated the benefit of self-stabilization in recovering faults caused by consistency violation faults. When a key-value store employs a weak consistency model (e.g. eventual consistency), the data at different replicas could be inconsistent. Application reading inconsistent data could execute incorrect computation transitions. Such incorrect transitions are denoted as consistency violation faults.'
 date: 2019-01-04
-paperurl: http://academicpages.github.io/files/paper1.pdf
+paperurl: https://dl.acm.org/doi/10.1145/3288599.3288609
 citation: 'Duong N. Nguyen, Sandeep S. Kulkarni, and Ajoy K. Datta. Benefit of selfstabilizing protocols in eventually consistent key-value stores: a case study. In Proceedings of the 20th International Conference on Distributed Computing and Networking, ICDCN 2019, Bangalore, India, January 04-07, 2019, pages 148--157, 2019.'
 ---
 
 ## Abstract
-You can put the full text of the paper in this markdown file. The journal, date, citation, and paperurl will populate automatically based on the YAML variables, and then the text below (this text) will be displayed.
+In this paper, we focus on the implementation of distributed programs in using a key-value store where the state of the nodes is stored in a replicated and partitioned data store to improve performance and reliability. 
+Applications of such algorithms occur in weather monitoring, social media, etc. 
+We argue that these applications should be designed to be stabilizing so that they recover from an arbitrary state to a legitimate state. 
+Specifically, if we use a stabilizing algorithm then we can work with more efficient implementations that provide eventual consistency rather than sequential consistency where the data store behaves as if there is just one copy of the data. 
+We find that, although the use of eventual consistency results in consistency violation faults (\cvf) where some node executes its action incorrectly because it relies on an older version of the data, the overall performance of the resulting protocol is better. We use experimental analysis to evaluate the expected improvement. We also identify other variations of stabilization that can provide additional guarantees in the presence of eventual consistency. 
+Finally, we note that if the underlying algorithm is not stabilizing, even a single \cvf may cause the algorithm to fail completely, thereby making it impossible to benefit from this approach.
 
-## Introduction
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
-## Methods
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Results
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Conclusion 
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## References
+## Keywords
+Self-stabilization Distributed key-value store Consistency models
