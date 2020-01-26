@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Paris, FRANCE"
 ---
 
-Teaching Assistant for Pr. Emeric Henry. In charge of two classes of first year graduates, correction of problem sets, essays and exams
+Instructor for Pr. Emeric Henry. In charge of two classes of first year graduates, correction of problem sets, essays and exams
 
 Heading 1
 ======
