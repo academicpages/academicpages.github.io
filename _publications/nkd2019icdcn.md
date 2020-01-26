@@ -18,4 +18,4 @@ We find that, although the use of eventual consistency results in consistency vi
 Finally, we note that if the underlying algorithm is not stabilizing, even a single \cvf may cause the algorithm to fail completely, thereby making it impossible to benefit from this approach.
 
 ## Keywords
-Self-stabilization Distributed key-value store Consistency models
+Self-stabilization, Distributed key-value store, Consistency models
