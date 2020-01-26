@@ -3,7 +3,7 @@ title: "Expectations, Rationality and Macroeconomics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2019-spring-teaching-1
-venue: "Sciences Po, Graduate Division"
+venue: "Sciences Po Paris, Graduate Division"
 date: 2019-01-01
 location: "Paris, FRANCE"
 ---
