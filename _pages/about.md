@@ -20,5 +20,5 @@ Institute for Research On Labor and Employment
 
 2521 Channing Way
 
-Berkeley, CA 94720\
+Berkeley, CA 94720
 
