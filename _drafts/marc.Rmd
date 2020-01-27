@@ -1,0 +1,206 @@
+---
+title: "Cleaning MARC train schedules"
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I've ridden the [MARC train](https://en.wikipedia.org/wiki/MARC_Train) between DC and Baltimore a few times, and I got frustrated with clicking through the ["Schedule"](https://www.mta.maryland.gov/schedule/marc-penn) and ["Timetable"](https://www.mta.maryland.gov/schedule/timetable/marc-penn) interfaces. There's a [pdf](https://s3.amazonaws.com/mta-website-staging/mta-website-staging/files/Routes+Schedules/marc_penn-washington_weekday.pdf), but it's a pain to read: I only want to know which trains go between DC and Baltimore, and what times they leave/arrive.
+
+After fiddling with the pdf for a while, or thinking about manually copying the data, I decided to look for the actual data. I mean, Google and whoever can tell you when trains will leave/arrive, so why can't I?
+
+In fact the data are on the MTA's [developer resources page](https://www.mta.maryland.gov/developer-resources), in General Transit Feed Specification (GTFS) format (specification (here)[https://gtfs.org/reference/static/]).
+
+The GTFS data consist of a number of files, a few of which are important to us:
+
+- `calendar.txt`: Specifies what services run on which days. I'll be looking just for weekday services.
+- `stops.txt`: Gives the names of stops. I'm just interested in Washington Union Station and Baltimore Penn Station.
+- `routes.txt`: I'll be looking just at the MARC trains.
+- `trips.txt`: In our case, a "trip" corresponds to a train (in the sense of, Train 123 to Baltimore).
+- `stop_times.txt`: This says which trips, on which services, stop at which stops, at what times.
+
+# Downloading the files
+
+Let's start by grabbing the data. Always load up the [tidyverse](https://tidyverse.tidyverse.org/) first! I also use the [lubridate](https://lubridate.tidyverse.org/) package to order trains by their times.
+
+```{r, message=FALSE}
+library(tidyverse)
+library(lubridate)
+```
+
+Then, download and extract the zip file.
+
+```{r download_data}
+url <- "https://s3.amazonaws.com/mdotmta-gtfs/google_transit.zip"
+target_file <- "google_transit.zip"
+
+if (!file.exists(target_file)) {
+  download.file(url, target_file)
+  unzip(target_file, junkpaths = FALSE)
+}
+```
+
+# Reading in the files
+
+To make it easier to play around with and manipulate the data files, I'll load all the `.txt` files into the global environment, naming them after their filename. For example, I want a tibble `calendar` that comes from reading `calendar.txt`, and so on.
+
+```{r load_data, message=FALSE}
+# unzip with list=TRUE just lists the files in the zip archive
+for (filename in unzip(target_file, list = TRUE)$Name) {
+  # str_match will get "calendar" out of "calendar.txt"
+  name <- str_match(filename, "(.+)\\.txt")[, 2]
+  contents <- read_csv(filename)
+  # this is equivalent to running `calendar <- contents` in the global environment
+  assign(name, contents, envir = .GlobalEnv)
+}
+```
+
+In loading, we got some errors from the stop times table:
+```{r show_problems}
+head(problems(stop_times))
+```
+
+`read_csv` has trouble with the two time fields in `stop_times.txt` because of values like `24:00:24`. In accordance with the [specification](https://gtfs.org/reference/static#stop_timestxt), these fields are formatted as hours:minutes:seconds, in 24-hour format. Although starting with "24" isn't typical 24-hour time format (you would write "00:00:42", for example), the specification is clear that "24:00:24" is intentional, and it refers to a post-midnight stop on a trip that started before midnight.
+
+None of the MARC train times I'm interested in have stops after midnight, so hopefully we won't have to deal with this problem, which would manifest as `NA` values under the arrival or departure time. So let's set this aside.
+
+# Watching the calendar
+
+First, I'll look at the calendar file:
+```{r}
+calendar
+```
+
+I only want the schedule for the weekday service that will be running after Feb 1:
+```{r services}
+my_service <- calendar %>%
+  # parse YYYYMMDD columns
+  mutate_at(vars(ends_with("_date")), ymd) %>%
+  filter(
+    monday & tuesday & wednesday & thursday & friday,
+    end_date > ymd("2020-02-01")
+  ) %>%
+  pull(service_id)
+
+# there's just one service_id
+stopifnot(length(my_service) == 1)
+my_service
+```
+
+I'll use this `service_id` to filter the trips later on.
+
+# Finding the stops of interest
+
+The stops file has a lot of information and a lot of stops:
+```{r}
+stops
+```
+
+I only want to know about the times that train stops at Washington Union Station and Baltimore Penn Station. It took a little rooting around, but I was able to identify those stops by looking for "MARC" and either "UNION" or "PENN":
+```{r stops}
+my_stops <- stops %>%
+  filter(
+    str_detect(stop_name, "MARC"),
+    str_detect(stop_name, "(UNION|PENN)")
+  ) %>%
+  select(stop_id, stop_name)
+
+my_stops
+```
+
+# Putting together the data
+
+I now have everything I need to extract the relevant data from the stop times table:
+```{r}
+stop_times
+```
+and the trips table:
+```{r}
+trips
+```
+
+I run a few steps here to get the data I want:
+
+1. I start with all the stop times.
+1. I inner join the stop times with the list of my stops, thus keeping only the stop time information at the 3 stops of interest (i.e., Penn and Union).
+1. Join in the trip information (for the `trip_short_name`, which is actually the train number, and the `trip_headsign`, which is things like "WASHINGTON EXPRESS").
+1. Filter for my service ID, so we only get the correct weekday schedule.
+1. Select only the "trips" (i.e., trains) that have at least 2 of my stops of interest. This removes trips that run through Penn but not Union, say.
+1. Check that arrival and departure times are the same, and then just use one of those.
+
+```{r data}
+my_data <- stop_times %>%
+  inner_join(my_stops, by = "stop_id") %>%
+  inner_join(trips, by = "trip_id") %>%
+  filter(service_id == my_service) %>%
+  group_by(trip_id) %>%
+  filter(n() > 1) %>%
+  ungroup() %T>%
+  { stopifnot(all(.$arrival_time == .$departure_time)) } %>%
+  select(
+    direction_id,
+    headsign = trip_headsign, train = trip_short_name,
+    stop = stop_name, time = arrival_time
+  )
+
+my_data
+```
+
+I kept the "direction ID", which "[i]ndicates the direction of travel for a trip", because I saw that it corresponds to northbound or southbound.
+
+# Beautify-ing
+
+Now it's just a matter of making things pretty:
+
+- Recast the times as lubridate date-time objects. This requires adding a random date (I picked 1 Jan 2000) but has the advantage that I can now sort trains by times.
+- Shorten the stop names to "Penn" and "Union".
+- Rather than say "Train 123", "Train 456", etc., just say 123, 456, etc.
+
+```{r}
+my_pretty_data <- my_data %>%
+  mutate(
+    time = as_datetime(str_c("2000-01-01 ", time)),
+    stop = recode(
+      stop,
+      `PENN STATION MARC sb` = "Penn",
+      `PENN STATION MARC nb` = "Penn",
+      `UNION STATION MARC Washington` = "Union"
+    ),
+    train = str_extract(train, "\\d+")
+  )
+```
+
+And now I'm ready to show the southbound (direction ID `0`) from Penn to Union:
+
+```{r}
+my_pretty_data %>%
+  filter(direction_id == 0) %>%
+  spread(stop, time) %>%
+  arrange(Penn) %>%
+  select(headsign, train, Penn, Union) %>%
+  mutate_at(c("Penn", "Union"), ~ format(., "%H:%M %p"))
+```
+
+As an exercise, I'll show how to write that code without specifying which of Penn or Union will come first:
+
+```{r}
+pretty_table <- function(direction, from_stop, to_stop) {
+  my_pretty_data %>%
+    filter(direction_id == direction) %>%
+    spread(stop, time) %>%
+    arrange_at(from_stop) %>%
+    select_at(c("headsign", "train", from_stop, to_stop)) %>%
+    mutate_at(c(from_stop, to_stop), ~ format(., "%H:%M %p"))
+}
+```
+
+And now I can call the two tables:
+
+```{r}
+pretty_table(0, "Penn", "Union")
+pretty_table(1, "Union", "Penn")
+```
+
+The last thing would be to put these values into a spreadsheet to get the fonts and sizing right, and make it an easy-to-read document!
