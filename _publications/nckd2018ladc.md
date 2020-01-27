@@ -3,7 +3,7 @@ title: "Using weaker consistency models with monitoring and recovery for improvi
 collection: publications
 permalink: /publications/nckd2018ladc
 venue: "Proceedings of The 8th Latin-American Symposium on Dependable Computing, LADC 2018"
-excerpt: 'When a key-value store employs a weak consistency model (e.g. eventual consistency), the data at different replicas could be inconsistent. Application reading inconsistent data could execute incorrect computation transitions. Such incorrect transitions are denoted as consistency violation faults. Such consistency violation faults can be corrected either by: (1) detect the faults and rollback the computation to the point before the fault occurred, or (2) use self-stabilization. In this paper, we investigated the benefit of the former approach.'
+excerpt: 'This paper investigates the benefits of weak consistency settings in key-value stores. We quantify the performance improvement as well as the cost for monitoring the correctness of the computation when using weaker consistencies. Our experiments show that the performance is improved significantly while overhead of monitoring is small.'
 date: 2018-10-08
 paperurl: https://ieeexplore.ieee.org/document/8671598
 citation: 'Duong N. Nguyen, Aleksey Charapko, Sandeep S. Kulkarni, and Murat Demirbas. Using weaker consistency models with monitoring and recovery for improving performance of key-value stores. In The 8th Latin-American Symposium on Dependable Computing, LADC 2018, Foz do Iguacu, Brazil, October 08-10, 2018.'
