@@ -5,4 +5,7 @@ permalink: /posts/2020/01/27/Tagless Final/
 tags:
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
