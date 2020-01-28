@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am now a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Natural Language Processing and Social Media Analytics. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University](https://en.whu.edu.cn/) in 2016.  
+Hi! I am now a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Natural Language Processing and Social Media Analytics. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2016.  
 <br/>
 
   
