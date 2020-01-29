@@ -22,7 +22,7 @@ Rumor Verification and Fact Checking
 <br/>
 
 
-Selected Publications
+Publications
 ======
 * Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity  
 **Penghui Wei**, Nan Xu, Wenji Mao  
