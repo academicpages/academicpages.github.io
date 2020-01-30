@@ -182,6 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+google_analytics: UA-157378296-1
 
 # Defaults
 defaults:
