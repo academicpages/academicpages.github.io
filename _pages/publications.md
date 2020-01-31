@@ -20,7 +20,7 @@ author_profile: true
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
-I'm interested in how topological data analysis can be applied to obtain value from data by considering its shape. On the one hand, this consists of identifying new domains where TDA can improve data analysis, especially when it solves problems that other data analysis techniques can not. On the other hand, this involves investigating where tools like persistent homology and (ball) mapper fit into the data scientists toolbox, especially alongside the wide variety of manifold learning techniques out there.
+I'm interested in how topological data analysis can be applied to obtain value from data by considering its shape. On the one hand, this consists of identifying new domains where TDA can improve data analysis, especially when it solves problems that other data analysis techniques can not. On the other hand, this involves investigating where tools like persistent homology and (ball) mapper fit into the data scientist's toolbox, especially alongside the wide variety of manifold learning techniques out there.
 
 <p>
 In my current projects I am looking at:
