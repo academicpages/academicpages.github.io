@@ -6,8 +6,8 @@ var addressPoints = [
   ],
   [
     "Department of Computer Science, Oxford, UK<br><a target='_blank' rel='noopener noreferrer' href='http://events.cs.bham.ac.uk/syco/3/'>SYCO3</a>",
-    51.7549119,
-    -1.2538205
+    51.759954,
+    -1.258713
   ],
   [
     "Swansea University, UK<br><a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/view/dragon-applied-topology'>Dragon Applied Topology</a>",
@@ -22,7 +22,7 @@ var addressPoints = [
   ,
   [
     "Keble College, Oxford<br><a target='_blank' rel='noopener noreferrer' href='https://www.maths.ox.ac.uk/groups/topological-data-analysis'>TDA Centre Meeting</a>",
-    51.7549119,
-    -1.2538205
+    51.758646,
+    -1.257062
   ]
 ];
