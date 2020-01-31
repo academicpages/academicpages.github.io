@@ -5,7 +5,7 @@ var addressPoints = [
     -4.2458069
   ],
   [
-    "New College, Oxford, UK<br><a target='_blank' rel='noopener noreferrer' href='http://events.cs.bham.ac.uk/syco/3/'>SYCO3</a>",
+    "Department of Computer Science, Oxford, UK<br><a target='_blank' rel='noopener noreferrer' href='http://events.cs.bham.ac.uk/syco/3/'>SYCO3</a>",
     51.7549119,
     -1.2538205
   ],
@@ -18,5 +18,11 @@ var addressPoints = [
     "ICTP, Trieste, Italy<br><a target='_blank' rel='noopener noreferrer' href='http://www.adaboralevi.com/TAGSS/2019.html'>TAGGS III</a>",
     45.7033941,
     13.7178389
+  ]
+  ,
+  [
+    "Keble College, Oxford<br><a target='_blank' rel='noopener noreferrer' href='https://www.maths.ox.ac.uk/groups/topological-data-analysis'>TDA Centre Meeting</a>",
+    51.7549119,
+    -1.2538205
   ]
 ];
