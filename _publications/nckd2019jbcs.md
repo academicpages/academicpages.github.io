@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/nckd2019jbcs
 venue: "Journal of the Brazilian Computer Society, volume 25"
 excerpt: 'This paper is the journal version of the paper published at LADC 2018.'
-date: 2018-10-08
+date: 2019-10-30
 paperurl: https://doi.org/10.1186/s13173-019-0091-9
 citation: 'Duong N. Nguyen, Aleksey Charapko, Sandeep S. Kulkarni, and Murat Demirbas. Using weaker consistency models with monitoring and recovery for improving performance of key-value stores. J Braz Comput Soc 25, 10 (2019).'
 ---
