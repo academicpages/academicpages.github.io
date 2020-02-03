@@ -56,6 +56,12 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 </table>
 </font>
 
+## Publications
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 ## Attended conferences, workshops and schools
 * [English for Academic Writing](https://www.unibo.it/en/teaching/summer-and-winter-schools/2019/english-for-academic-writing-winter-school){:target="_blank"}<!--_-->, *University of Bologna, Forlì campus*, 7th-10th January 2020
 * [5th Italian Conference of Physics Students](http://ai-sf.it/cisf19/){:target="_blank"}<!--_-->, *University of Milan, Department of Physics*, 6th-10th March 2019
@@ -75,14 +81,9 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 * Sei Spritz Facili, *University of Padua, Department of Physics*, October 2016 - May 2017
   <ul> <li style="list-style-type: none;">Series of six lectures covering the areas over which research is carried out in the Department. Activity of the Padua Local Committee of the Italian Association of Physics Students</li> </ul>
 
-## Awards
+<!--## Awards
 * **Best contributed talk**, during the *4th Italian Conference of Physics Students*
-* **Best poster**, during the *5th Italian Conference of Physics Students*
-
-## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Best poster**, during the *5th Italian Conference of Physics Students*-->
 
 ## Talks
   <ul>{% for post in site.talks reversed %}
