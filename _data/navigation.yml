@@ -22,7 +22,7 @@ main:
 #    url: /photograph/
         
  - title: "Blogs"
-    url: /year-archive/
+    url: /posts/
 
 
 # sidenav links links
