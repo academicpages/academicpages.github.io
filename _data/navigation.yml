@@ -12,8 +12,8 @@ main:
   - title: "   Coding   "
     url: /coding/  
     
-  - title: "    Modelling   "
-    url: /modelling/  
+#  - title: "    Modelling   "
+#    url: /modelling/  
     
   - title: "   Data & Resources   "
     url: /resources/    
@@ -21,8 +21,8 @@ main:
 #  - title: "Photograph"
 #    url: /photograph/
         
-# - title: "Blog"
-#    url: /year-archive/
+ - title: "Blogs"
+    url: /year-archive/
 
 
 # sidenav links links
