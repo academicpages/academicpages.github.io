@@ -9,34 +9,25 @@ main:
   - title: "   Publications   "
     url: /publications/
       
-  - title: "   Coding & Modelling   "
+  - title: "   Coding   "
     url: /coding/  
-    
-#  - title: "    Modelling   "
-#    url: /modelling/  
-    
-  - title: "   Data & Resources   "
-    url: /resources/
     
   - title: "Posts"
     url: /posts/ 
+    
+  - title: "   Resources   "
+    url: /resources/
+    
+
 #  - title: "Photograph"
 #    url: /photograph/
         
-
+#  - title: "    Modelling   "
+#    url: /modelling/ 
 
 
 # sidenav links links
-sidenav:   
-#  - title: "Research"
-#    url: /research/
-#    children:
-#     - title: "Tropical Cyclones"
-#       url: /research/tropical-cyclones/
-#     - title: "Climate Extremes"
-#      url: /research/climate-extremes/
-#    - title: "Air pollution"
-#       url: /research/air-pollution/          
+sidenav:     
   - title: "Publications"
     url: /publications/
   - title: "Coding"
@@ -52,8 +43,8 @@ sidenav:
         url: /coding/fortran/
       - title: "MPI"
         url: /coding/mpi/
-  - title: "Modelling"
-    url: /modelling/
+  - title: "Blog posts"
+    url: /Posts/     
   - title: "Resources"
     url: /resources/
     children:
@@ -63,3 +54,4 @@ sidenav:
         url: /rsc/tools/
       - title: "Others"
         url: /rsc/others/
+       
