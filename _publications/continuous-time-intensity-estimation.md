@@ -16,7 +16,7 @@ header:
 <a href="https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/bZ0ZKido0Ag" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://github.com/cedric-scheerlinck/dvs_image_reconstruction" target="_blank"><b>Code</b></a>&emsp;
-<a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc" target="_blank"><b>Datasets</b></a>&emsp;
+<a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc" target="_blank"><b>Dataset</b></a>&emsp;
 <a href="https://drive.google.com/open?id=1qdwh4tSLcpFZWMzjpIC_ZdlmyicJeghs" target="_blank"><b>Slides</b></a>&emsp;
 <a href="https://drive.google.com/open?id=1Qo7kj3GIEKEmAaShwEKifD91zWzaAz3Z" target="_blank"><b>Poster</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2018_accv_continuous_bibtex.txt" target="_blank"><b>BibTex</b></a>
