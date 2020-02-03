@@ -16,13 +16,14 @@ main:
 #    url: /modelling/  
     
   - title: "   Data & Resources   "
-    url: /resources/    
+    url: /resources/
     
+  - title: "Posts"
+    url: /posts/ 
 #  - title: "Photograph"
 #    url: /photograph/
         
- - title: "Posts"
-    url: /posts/
+
 
 
 # sidenav links links
