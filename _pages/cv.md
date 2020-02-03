@@ -96,8 +96,8 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
   {% endfor %}</ul>
 
 ## Service and memberships
-* Vicepresident of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 20th October 2018 - present day
+* Vicepresident of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 20th October 2018 - 30th September 2019
 * Member of the [Complex Systems Society](https://www.cssociety.org){:target="_blank"}<!--_-->, 23rd September 2018 - present day
-* Secretary of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 1st October 2017 - present day
+* Secretary of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 1st October 2017 - 30th September 2019
 * President of the Padua Local Committee of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 2nd May 2016 - 30th September 2017
 * Member of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 26th February 2016 - present day
