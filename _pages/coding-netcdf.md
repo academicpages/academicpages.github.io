@@ -69,12 +69,23 @@ LOL,I am stil working on the following session
 quick references for using CDO to process netcdf files:
 ### Delete slices in a file
 <pre>
-% cdo delete,month=2,day=29 $infile $ofile
+cdo delete,month=2,day=29 $infile $ofile
+or,
+cdo delete,timestep=100,120,121 $infile $ofile
 </pre>
 
 ### [Shift longitude box](https://code.mpimet.mpg.de/boards/1/topics/22)
 <pre>
-% cdo sellonlatbox,-180,180,-90,90 $infile $ofile
+cdo sellonlatbox,-180,180,-90,90 $infile $ofile
+</pre>
+
+### [Non-standard time-step mean](https://code.mpimet.mpg.de/boards/1/topics/3225)
+<pre>
+cdo timselmean,5,10,7 $infile $ofile   ## pentad averages
+cdo timselmean,5,10,7 $infile $ofile
+    5 - mean over 5 months (November to March)
+    10 - skip the first 10 months (January to October)
+    7 - skip 7 months between every 5 months interval (April to October)
 </pre>
 
 
