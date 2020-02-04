@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/paper-5
 excerpt: 
 date: 2018-01-01
-venue: Statistics and Computing, 2018
+venue: Statistics and Computing
 paperurl: https://arxiv.org/abs/1807.08213
-citation: 'Y. Yue, L. Vandenberghe,  W.K. Wong (2020). &quot;T-optimal designs for multi-factor polynomial regression models via a semidefinite relaxation method&quot; <i>Statistics and Computing, 2018</i>.'
+citation: 'Y. Yue, L. Vandenberghe,  W.K. Wong (2020). &quot;T-optimal designs for multi-factor polynomial regression models via a semidefinite relaxation method&quot; <i>Statistics and Computing</i>.'
 ---
