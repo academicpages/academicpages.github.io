@@ -67,7 +67,7 @@ LOL,I am stil working on the following session
 ## NetCDF Operators(NCO)
 ## Climate Data Operators (CDO)
 quick references for using CDO to process netcdf files:
-### ]Delete slices in a file](https://code.mpimet.mpg.de/boards/2/topics/2169)
+### [Delete slices in a file](https://code.mpimet.mpg.de/boards/2/topics/2169)
 <pre>
 cdo delete,month=2,day=29 $infile $ofile
 or,
