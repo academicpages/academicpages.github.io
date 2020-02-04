@@ -1,3 +1,5 @@
+## About me
+
 Hi there! I am Fazilet, currently looking for exciting opportunities on research and develepment. I have a special interest in machine learning implementations for signal processing problems. I also enjoy following the trends in communications technologies. 
 
 I have been involved in two different research projects so far. One is about molecular communications, where we designed a novel molecular communications system. In the end, we published the results in IEEE-TMBMC. The other is my master's dissertation which is on the super-resolution (SR) problem. I implemented different SR techniques and analyzed the results with a signal processing perspective. (For details, visit [Projects](https://faziletgokbudak.github.io/projects/))
