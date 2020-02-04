@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Electrical & Electronics Engineering, Bogazici University, 2018
+* M.Sc. in Signal Processing and Communications, The University of Edinburgh, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2018: Research Intern
+  * Koc University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016: Teaching Assistant
+  * Bogazici University
+  * Duties included: Merging pull requests
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Languages
+  * Turkish (Native)
+  * English (Fluent)
+  * German (B2)
+* Programming Skills
+  * MATLAB, LaTeX (Advanced)
+  * Python, PyTorch (Intermediate)
+  * C, C++, Keras, VHDL, Arduino (Beginner)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ Achievements
+ ======
+ * M.Sc. with Distinction, The University of Edinburgh, UK, 2019
+    * top-ranked in half of the taught courses
+    * overall ranking: 3/39
+ * Dean's High Honor Certificate, Bogazici University, Turkey, 2018
+    * For attaining a GPA of at least 3.5, and not failing in any course
+ * Private Scholarship, TEKFEN Holding, Turkey, 2013--2018
+    * For high achievement in National University Placement Exam, ranked 185 over 2 million test takers
+ * B2 German Language Certificate (UNIcert II Zertifikat), TU Darmstadt, Germany, 2017
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
