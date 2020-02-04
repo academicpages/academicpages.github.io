@@ -4,8 +4,8 @@ title: "ARSM: Augment-REINFORCE-swap-merge estimator for gradient backpropagatio
 collection: publications
 permalink: /publication/paper-4
 excerpt: 
-date: 2020-02-04
-venue: (International Conference on Machine Learning) ICML 2019
+date: 2019-02-04
+venue: International Conference on Machine Learning (ICML) 2019
 paperurl: https://mingyuanzhou.github.io/Papers/ARSM_ICML2019.pdf
 citation: 'Y. Yue*, M. Yin*,  M. Zhou (2020). &quot;ARSM: Augment-REINFORCE-swap-merge estimator for gradient backpropagation through categorical variables&quot; <i>ICML 2019</i>.'
 ---
