@@ -48,16 +48,16 @@ Two windows will appear, the control window and the display window.
   references: [Set var](http://cola.gmu.edu/grads/gadoc/gradcomdsetsdfwrite.html), [Set var att](http://cola.gmu.edu/grads/gadoc/gradcomdsetsdfwrite.html), [Write](http://cola.gmu.edu/grads/gadoc/gradcomdsdfwrite.html)
 <pre>
 reinit
-%open ERA5_1979_2018_sst.mon.0.360.renamed_1x1_1x1x1mo_NormByNone_ENSO_1979to2018_1to12_EEOF_19lagx1mo_eof.ctl   ## Open ctl files
-% ## set att
-% set lon 120 280
-% set lat -30 30
-% set lev 1 5
-% set t 1 last
+open ERA5_1979_2018_sst.mon.0.360.renamed_1x1_1x1x1mo_NormByNone_ENSO_1979to2018_1to12_EEOF_19lagx1mo_eof.ctl   ## Open ctl files
+## set att
+set lon 120 280
+set lat -30 30
+set lev 1 5
+set t 1 last
 ## define var to write in
-% define EOF=eof
-% set sdfwrite -4d -dbl -nc4 -zip ERA5_1979_2018_sst.mon.0.360.renamed_1x1_1x1x1mo_NormByNone_ENSO_1979to2018_1to12_EEOF_19lagx1mo_eof.nc
-% sdfwrite EOF
+define EOF=eof
+set sdfwrite -4d -dbl -nc4 -zip ERA5_1979_2018_sst.mon.0.360.renamed_1x1_1x1x1mo_NormByNone_ENSO_1979to2018_1to12_EEOF_19lagx1mo_eof.nc
+sdfwrite EOF
 </pre>
 
  **<span style="color:red">The following sessions introduce several useful programs designed to facilitate manipulation and analysis of self-describing data stored in the netCDF format</span>**
