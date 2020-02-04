@@ -51,14 +51,14 @@ LOL,I am stil working on the following session
 ## NetCDF Operators(NCO)
 ## Climate Data Operators (CDO)
 quick references for using CDO to process netcdf files:
-### delete slices in a file
+### Delete slices in a file
 <pre>
 % cdo delete,month=2,day=29 $infile $ofile
 </pre>
 
-### shift longitude box
+### Shift longitude box
 <pre>
-% cdo sellonlatbox,-180,180,-90,90 $infile $ofile     ## From <https://code.mpimet.mpg.de/boards/1/topics/22> 
+% cdo sellonlatbox,-180,180,-90,90 $infile $ofile     ## See [here](https://code.mpimet.mpg.de/boards/1/topics/22)
 </pre>
 
 
