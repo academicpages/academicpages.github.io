@@ -56,7 +56,7 @@ quick references for using CDO to process netcdf files:
 % cdo delete,month=2,day=29 $infile $ofile
 </pre>
 
-### [Shift longitude box]((https://code.mpimet.mpg.de/boards/1/topics/22))
+### [Shift longitude box](https://code.mpimet.mpg.de/boards/1/topics/22)
 <pre>
 % cdo sellonlatbox,-180,180,-90,90 $infile $ofile
 </pre>
