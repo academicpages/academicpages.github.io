@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Yuguang Yue"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "yuguang.png"
+  bio              : "PhD Student in Statistics and Data Science"
   location         : "Austin, TX, USA"
-  employer         :
+  employer         : University of Texas at Austin
   pubmed           : 
   googlescholar    : 
   email            : yuguang@utexas.edu
