@@ -50,4 +50,15 @@ Two windows will appear, the control window and the display window.
 LOL,I am stil working on the following session
 ## NetCDF Operators(NCO)
 ## Climate Data Operators (CDO)
-## NCAR command language (NCL)
+quick references for using CDO to process netcdf files:
+### delete slices in a file
+<pre>
+% cdo delete,month=2,day=29 $infile $ofile
+</pre>
+
+### shift longitude box
+<pre>
+% cdo sellonlatbox,-180,180,-90,90 $infile $ofile     ## From <https://code.mpimet.mpg.de/boards/1/topics/22> 
+</pre>
+
+
