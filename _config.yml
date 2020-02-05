@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Penghui Wei"
   avatar           : "profile.png"
-  bio              : "A PhD student at the Institute of Automation, Chinese Academy of Sciences (CASIA). E-mail: weipenghui2016 [AT] ia.ac.cn"
+  bio              : "A PhD student at the Institute of Automation, Chinese Academy of Sciences (CASIA)."
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sgXAutMAAAAJ&hl=en-US"
-  email            :
+  email            : "weipenghui2016 [AT] ia.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Penghui_Wei2" 
   uri              :
   bitbucket        :
