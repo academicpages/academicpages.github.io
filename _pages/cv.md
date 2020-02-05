@@ -26,6 +26,9 @@ Work experience
   
 * Twitter: Data Scientist Intern (Summer 2018)
   * CUPED extension
+  
+* VMWare: R&D Intern (Summer 2017)
+  * Develop bug auto-triage tool
 
 Publications
 ======
