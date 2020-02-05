@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Low thermal dependence of the contractile properties of a wing muscle in the bat <i>Carollia perspicillata</i>"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://jeb.biologists.org/content/221/14/jeb180166
+excerpt: 
+date: 2018-07-18
+venue: 'Journal of Experimental Biology'
+paperurl: 'https://jeb.biologists.org/content/221/14/jeb180166'
+citation: 'Rummel, A.D., Swartz, S.M., Marsh, R.L., 2018. Low thermal dependence of the contractile properties of a wing muscle in the bat Carollia perspicillata. The Journal of Experimental Biology jeb.180166. https://doi.org/10.1242/jeb.180166
+'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rummel, A.D., Swartz, S.M., Marsh, R.L., 2018. Low thermal dependence of the contractile properties of a wing muscle in the bat Carollia perspicillata. The Journal of Experimental Biology jeb.180166. https://doi.org/10.1242/jeb.180166
