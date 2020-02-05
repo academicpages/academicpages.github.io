@@ -32,8 +32,8 @@ Skills
   * Python, PyTorch (Intermediate)
   * C, C++, Keras, VHDL, Arduino (Beginner)
   
- Achievements
- ======
+Achievements
+======
  * M.Sc. with Distinction, The University of Edinburgh, UK, 2019
     * top-ranked in half of the taught courses
     * overall ranking: 3/39
