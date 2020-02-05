@@ -81,11 +81,15 @@ cdo sellonlatbox,-180,180,-90,90 $infile $ofile
 
 ### [Non-standard time-step mean](https://code.mpimet.mpg.de/boards/1/topics/3225)
 <pre>
-cdo timselmean,5,10,7 $infile $ofile   ## pentad averages
+cdo timselmean,5 $infile $ofile   ## pentad averages
 cdo timselmean,5,10,7 $infile $ofile
     5 - mean over 5 months (November to March)
     10 - skip the first 10 months (January to October)
     7 - skip 7 months between every 5 months interval (April to October)
 </pre>
 
-
+### [Reset time axis](https://code.mpimet.mpg.de/boards/1/topics/5774)
+<pre>
+cdo settaxis,1982-01-01,11:30:00,24hours $infile $ofile
+    the time icnresement can be month(s), day(s), and hour(s), default is 1hour
+</pre>
