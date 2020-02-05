@@ -12,7 +12,7 @@ redirect_from:
 Basic Info
 ======
 * Name: Daniel Cohen Hillel
-* Birth Date: 01/01/2002 (age 17)
+* Birth Date: 01/01/2002 (age 18)
 * Address: Kohav Ya'ir Tzur Yigal, Snonit 7 St.
 * Phone Number: +972 54 443 7361
 * ID: 212553804
@@ -27,8 +27,7 @@ Education
 Work experience
 ======
 * The Weizmann Institute: Student by hours, July 2019 - current
-  * Worked in the lab of Sege Rosenblum on quantum computing
-  * Mostly python coding and use of related apis
+  * Worked in the lab of Dr. Seרge Rosenblum on quantum computing for a project on quantum optimal control
 
 * GameCan: Programmer on the game Overstep, 2013 - 2014
 * Rush Island: Worked on the game Rush Island as a programmer and UI desinger, 2016 - 2017
@@ -47,8 +46,7 @@ Skills
   * TensorFlow
   * Qutip
   * qCodes
-* Fluent in physics and mathematics
-* Algorithm Development
+
 
 <!-- Publications
 ======
