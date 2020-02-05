@@ -10,4 +10,4 @@ citation: 'Rummel, A.D., Swartz, S.M., Marsh, R.L., 2018. Low thermal dependence
 '
 ---
 
-[Download paper here](http://academicpages.github.io/files/Rummel_etal_2018_JEB.pdf
+[Download paper here](http://academicpages.github.io/files/Rummel_etal_2018_JEB.pdf)
