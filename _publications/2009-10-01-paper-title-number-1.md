@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the design of a novel molecular communications system.'
 date: 2019-11-10
 venue: 'IEEE TMBMC'
-paperurl: 'http://faziletgokbudak.github.io/files/paper1.pdf'
+paperurl: 'http://faziletgokbudak.github.io/files/Spatial_Receptor_Allocation_for_a_Multiple_Access_Hub_in_Nanonetworks.pdf'
 citation: 'Gokbudak, F., Akdeniz, B.C., Tugcu, T., Pusane A.E. (2019). &quot;Spatial Receptor Allocation for a Multiple Access Hub in Nanonetworks.&quot; <i>IEEE TMBMC</i>. 1(1).'
 ---
 
