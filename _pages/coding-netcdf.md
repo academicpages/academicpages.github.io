@@ -94,7 +94,7 @@ cdo settaxis,1982-01-01,11:30:00,24hours $infile $ofile
     the time icnresement can be month(s), day(s), and hour(s), default is 1hour
 </pre>
 
-### [Multi-yea calendar anomolies](https://code.mpimet.mpg.de/boards/2/topics/6798)
+### [Multi-year calendar anomoly](https://code.mpimet.mpg.de/boards/2/topics/6798)
 <pre>
 cdo ydaysub infile -ydayavg $infile outfil $infile $ofile
     -ydayavg averages the specific calendar day throygh all years, and can be replaced by -ymonavg
