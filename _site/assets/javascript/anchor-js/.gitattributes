@@ -1,0 +1,2 @@
+# Enforce Unix newlines
+*.js    text eol=lf
