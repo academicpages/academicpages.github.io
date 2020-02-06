@@ -140,7 +140,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - config
+  - Capfile
   - gulpfile.js
   - log
   - node_modules
