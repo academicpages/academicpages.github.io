@@ -7,6 +7,7 @@ venue: 'Socius'
 citation: '<b>Mauricio Bucca</b>. &quot;Heatmaps for patterns of association in log-linear models.&quot; <i>Socius</i>. Forthcoming.'
 ---
 
+[[Paper]](https://journals.sagepub.com/doi/full/10.1177/2378023119899219)
 [[Vignette]](https://mebucca.github.io/files/notebooks/Visualization_llm.nb.html)
 
 ## Abstract
