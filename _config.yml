@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicholas Sale"
 title_separator          : "-"
 name                     : &name "Nick Sale"
-description              : &description "Mathematics PhD Student @ Swansea University"
+description              : &description "Mathematics PhD Student @ <a href="https://www.swansea.ac.uk/maths/">Swansea University</a>"
 url                      : https://NickSale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NickSale.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nick Sale"
   avatar           : "profile.png"
-  bio              : "Mathematics PhD Student @ Swansea University"
+  bio              : "Mathematics PhD Student @ <a href="https://www.swansea.ac.uk/maths/">Swansea University</a>"
   location         : "Computational Foundry,</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bay Campus,</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swansea University"
   employer         :
   pubmed           : 
