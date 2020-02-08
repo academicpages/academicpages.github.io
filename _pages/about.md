@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Applied statistical modeling for the earth and environmental sciences"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This website summarizes my work across research, teaching and other academic activities. My area of interest is applied environmental statistics with an emphasis in Bayesian spatiotemporal modeling and hybrid statistical/physical representations of earth systems. I've been pursuing my PhD at Duke since 2014 with stints in the [Nicholas School of the Environment](https://nicholas.duke.edu/) and the [Pratt School of Engineering](https://pratt.duke.edu/). I am co-advised by [Mark Borsuk](http://borsuk.pratt.duke.edu/) and [Mukesh Kumar](https://eng.ua.edu/people/mkumar4/). I plan to graduate in the spring of 2020. I am also pursuing a concurrent degree in [statistics](https://stat.duke.edu/) and I have a bachelor's degree in physics from [Macalester College](https://www.macalester.edu/physics/). I am open to collaborating with researchers in a wide variety of areas including epidemiology, hydrology and economics.  I can be reached at clk at duke dot edu or at ckrapu at gmail dot com.
+This website summarizes my work across research, teaching and other academic activities. My area of interest is environmental statistics with an emphasis in Bayesian spatiotemporal modeling and hybrid statistical/physical representations of earth systems. I've been pursuing my PhD at Duke since 2014 with stints in the [Nicholas School of the Environment](https://nicholas.duke.edu/) and the [Pratt School of Engineering](https://pratt.duke.edu/). I am co-advised by [Mark Borsuk](http://borsuk.pratt.duke.edu/) and [Mukesh Kumar](https://eng.ua.edu/people/mkumar4/). I plan to graduate in the spring of 2020. I am also pursuing a concurrent degree in [statistics](https://stat.duke.edu/). 
+
+I am open to collaborating with researchers in a wide variety of areas including epidemiology, hydrology and economics - check out some of my blog posts to see what I'm working on right now!
 
 
 <!---
