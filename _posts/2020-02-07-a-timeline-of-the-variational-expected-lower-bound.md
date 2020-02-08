@@ -25,13 +25,11 @@ We can also frame variational inference in the context of the evidence $p(\bolds
 
 
 $$
-\begin{aligned}
-\underbrace{\log p_{\boldsymbol{\theta}}(\boldsymbol{x})}_{\text{Log evidence}}&= \log \int_z p_{\boldsymbol{\theta}}(\boldsymbol{z,x}) dz\\
-&= \log \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z,x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
-&= \log \int_z q_{\boldsymbol{\phi}}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
-&= \log \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
-&\ge  \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\log \left[\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\right] dz  = ELBO(q_{\boldsymbol{\phi}})\\
-\end{aligned}
+\underbrace{\log p_{\boldsymbol{\theta}}(\boldsymbol{x})}_{\text{Log evidence}}= \log \int_z p_{\boldsymbol{\theta}}(\boldsymbol{z,x}) dz\\
+= \log \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z,x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
+= \log \int_z q_{\boldsymbol{\phi}}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
+= \log \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
+\ge  \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\log \left[\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\right] dz  = ELBO(q_{\boldsymbol{\phi}})\\
 $$
 
 
