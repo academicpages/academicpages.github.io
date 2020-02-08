@@ -104,6 +104,8 @@ $$
 
 
 The latent variables $z_n$ are specific to each data point so $z_i$ is independent of $z_j$ given $x_i$. This allows us to rewrite the above integral as a sum.
+
+
 $$
 \begin{align}
 ELBO(q_\phi)&=\sum_n \int_{z_n} q_\phi(z_n\vert  x_n)\left(\log p_\theta( x_n\vert z_n)- \log \frac{q_\phi({ z_n \vert x_n)}}{p_\theta( z_n)}d z_n\right)\\
@@ -116,7 +118,9 @@ $$
 
 This expression can be seen in several other works as well and usually includes a prefactor of $1/N$, implying that the above equation is the term-by-term average reconstruction error minus a per-data point KL divergence. I am not sure why this is done and it doesn't appear to be consistent with a physical point of view - the ELBO can be viewed as an upper bound on a total system-wide energy and a system's total energy is a sum of energy functions across particles rather than an across-particle average. In practice, this factor of $1/N$ is unimportant because $N$ is known ahead of time and the optimization strategies resulting from the ELBO reparameterization are unaffected by it. However, to make these derivations consistent with the literature, I will include it here too. 
 
-Integrating results across different work in a common notation can be challenging and here we must be very specific in noting that $z_n$ refers to the latent code for a single data point, $\boldsymbol{z}$ refers to the latent codes for all data points and $z$ refers to a latent code which is not indexed by $n$ but which is conceptually linked to a single data point.  This is an important distinction moving forward. We continue by defining priors over $n$ which are the probabilities that a given data point is sampled and fed into the ELBO expression. A natural choice is to simply choose them at random so that $p_{sample} = 1/N$ where $N$ is the number of observations in our dataset. We'll make the same assumption for the accompanying prior under $q$ so that $p(n)=q(n)=1/N$. We also want to express $q_\phi (z_n|x_n)$ in terms of the random variable $n$ and not $x_n$ so we have $q_\phi (z\vert n)\triangleq q_\phi(z\vert x_n)$. This is purely notational - the random variable $n$ should be thought of as synonymous with $x_n$.
+Integrating results across different work in a common notation can be challenging and here we must be very specific in noting that $z_n$ refers to the latent code for a single data point, $\boldsymbol{z}$ refers to the latent codes for all data points and $z$ refers to a latent code which is not indexed by $n$ but which is conceptually linked to a single data point.  This is an important distinction moving forward. We continue by defining priors over $n$ which are the probabilities that a given data point is sampled and fed into the ELBO expression. A natural choice is to simply choose them at random so that $p_{sample} = 1/N$ where $N$ is the number of observations in our dataset. We'll make the same assumption for the accompanying prior under $q$ so that $p(n)=q(n)=1/N$. We also want to express $q_\phi (z_n\vert x_n)$ in terms of the random variable $n$ and not $x_n$ so we have $q_\phi (z\vert n)\triangleq q_\phi(z\vert x_n)$. This is purely notational - the random variable $n$ should be thought of as synonymous with $x_n$.
+
+
 $$
 ELBO(q_\phi)=\frac{1}{N}\left(\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\theta( x_n\vert z_n)\right]- KL(q_\phi(z_n\vert x_n)\vert\vert p_\theta(z_n))\right)\\
 \begin{align}
