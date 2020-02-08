@@ -30,8 +30,8 @@ $$
 $$
 
 
-We used Bayes' Rule in (3) and Jensen's inequality after (5), leading us to the form of the expected lower bound of the model evidence shown in equation 6. With a few more manipulations we get:
 
+We used Bayes' Rule in (3) and Jensen's inequality after (5), leading us to the form of the expected lower bound of the model evidence shown in equation 6. With a few more manipulations we get:
 
 $$
 \begin{align}
@@ -42,6 +42,7 @@ ELBO(q_\boldsymbol{\phi}) &=  \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \bo
 &= -KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\vert \vert p_{\boldsymbol{\theta}}(\boldsymbol{z}\vert \boldsymbol{x}))+  \log p_{\boldsymbol{\theta}}(\boldsymbol{x})
 \end{align}
 $$
+
 
 
 The form shown in (11) is informative - remember that the marginal likelihood $p(\boldsymbol{x})$ is not a function of $\boldsymbol{z}$. If we think of the log marginal likelihood as fixed, then $$\log p(\boldsymbol{x})= KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\vert \vert p_{\boldsymbol{\theta}}(\boldsymbol{z}\vert \boldsymbol{x})) +  ELBO(q_\boldsymbol{\phi})$$ so that increasing the KL-divergence must decrease the ELBO and vice versa. 
@@ -63,6 +64,7 @@ $$
 $$
 
 
+
 (16) presents a common interpretation of the ELBO in terms of the variational parameters $\boldsymbol{\phi}$ as a tradeoff between maximizing the model likelihood $E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log p_{\boldsymbol{\theta}}(\boldsymbol{x\vert z})\right]$ and keeping the learned posterior over $\boldsymbol{z}$ close to a prior distribution $p_{\boldsymbol{\theta}}$. An arbitrary choice of prior which seems to have caught on is to assume that $\boldsymbol{z} \sim N(\boldsymbol{0},\sigma^2 I)$ where $I$ denotes the identity matrix. From a non-Bayesian machine learning perspective, the first term is analogous to reconstruction or denoising error from a normal auto-encoder while the second term is a Bayesian innovation intended to help keep the learned latent space (governed by $\boldsymbol{\phi}$) relatively close to a spherical Gaussian.
 
 ## ELBO surgery: [Hoffman and Johnson (2016)](http://approximateinference.org/accepted/HoffmanJohnson2016.pdf)
@@ -77,6 +79,8 @@ ELBO(q_\boldsymbol{\phi})
 &=  \underbrace{E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log p_{\boldsymbol{\theta}}(\boldsymbol{x,z})\right]}_{\text{Negative expected energy}} -\underbrace{E_{q_\boldsymbol{\phi}}\left[\log q_\boldsymbol{\phi}(\boldsymbol{z\vert x})\right]}_{\text{Entropy}}\\
 \end{align}
 $$
+
+
 
 The term *energy* here refers to the convention that in statistical mechanics, the Boltzmann distribution is defined by an exponential dependence between energy and probability, i.e. $p(x)\propto e^{-U/kT}$ where $U$ is an energy function and $kT$ is a normalized temperature. This  rewriting of the ELBO highlights how it balances likelihood maximization (equivalent to energy minimization) with keeping most of its probability mass from spreading out and thereby boosting the entropy term.
 
@@ -97,8 +101,9 @@ ELBO(q_\boldsymbol{\phi}) &=  \underbrace{E_{q_\boldsymbol{\phi}(\boldsymbol{z}\
 \end{align}
 $$
 
-The latent variables $z_n$ are specific to each data point so $z_i$ is independent of $z_j$ given $x_i$. This allows us to rewrite the above integral as a sum.
 
+
+The latent variables $z_n$ are specific to each data point so $z_i$ is independent of $z_j$ given $x_i$. This allows us to rewrite the above integral as a sum.
 $$
 \begin{align}
 ELBO(q_\phi)&=\sum_n \int_{z_n} q_\phi(z_n\vert  x_n)\left(\log p_\theta( x_n\vert z_n)- \log \frac{q_\phi({ z_n \vert x_n)}}{p_\theta( z_n)}d z_n\right)\\
@@ -106,6 +111,8 @@ ELBO(q_\phi)&=\sum_n \int_{z_n} q_\phi(z_n\vert  x_n)\left(\log p_\theta( x_n\ve
 &=\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\theta( x_n\vert z_n)\right]- KL(q_\phi(z_n\vert x_n)\vert\vert p_\theta(z_n))\\
 \end{align}
 $$
+
+
 
 This expression can be seen in several other works as well and usually includes a prefactor of $1/N$, implying that the above equation is the term-by-term average reconstruction error minus a per-data point KL divergence. I am not sure why this is done and it doesn't appear to be consistent with a physical point of view - the ELBO can be viewed as an upper bound on a total system-wide energy and a system's total energy is a sum of energy functions across particles rather than an across-particle average. In practice, this factor of $1/N$ is unimportant because $N$ is known ahead of time and the optimization strategies resulting from the ELBO reparameterization are unaffected by it. However, to make these derivations consistent with the literature, I will include it here too. 
 
@@ -126,6 +133,8 @@ ELBO(q_\phi)=\frac{1}{N}\left(\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\t
 \end{align}
 $$
 
+
+
 This result rearranges the sum of per-data point KL divergences into an averaged KL divergence and the mutual information $\mathbb{I}$ between the random variables $n$ and $z$. Conceptually, this is a very nice result - it represents the original regularizing term as a divergence between averaged (i.e. non data point specific) prior distributions and information shared acros $q_\phi$ between $n$ and $z$. We can start to think about $q_\phi$ as a communication channel which may perfectly communicate the information in the index $n$ to the latent code $z$, i.e. perfect reconstruction, or it may fail to communicate substantial information and thereby the generative model learns to ignore the latent code $z$! We can use these expressions to rewrite the ELBO in a form identical to an equation from the Hoffman and Johnson paper:
 
 
@@ -145,6 +154,8 @@ A conceptually straightforward way to do this is to simply up- or down-weight th
 $$
 \log\frac {\vert\Sigma_{q_\phi}\vert}{\vert\Sigma_{p_\theta}\vert}\propto \log \sigma^2_{q_\phi}-\log \sigma^2_{p_\theta}
 $$
+
+
 
 where $\Sigma_{q_{\phi}}$ and $\Sigma_{p_\theta}$ are the diagonal covariance matrices of $q_\phi$ and $p_\theta$ respectively. As a consequence, we can also view an adjustment to $\beta$ as equivalent to tweaking our latent space prior variance. In statistical physics, $\beta$ is a function of the system temperature so it is unclear to me why the notion of $\beta$ was introduced despite several other identical conceptual frameworks existing which were appropriate for describing this improvement. Perhaps this was indeed the motivation but this fact was omitted from the text.
 
