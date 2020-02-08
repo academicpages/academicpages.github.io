@@ -1,3 +1,8 @@
+---
+title: An ELBO timeline
+mathjax: true
+---
+
 In Bayesian machine learning, deep generative models are providing exciting ways to extend our understanding of optimization and flexible parametric forms to more conventional statistical problems while simultaneously lending insight from probabilistic modeling to AI / ML. This is an exciting time to be studying the topic as it is blending results from probability theory, statistical physics, deep learning and information theory in sometimes surprising ways. This post is a short summary of some of the major work on the subject and serves as an annotated bibliography on the most important developments in the subject. It also uses common notation to help smooth over some of the differences in detail between papers.
 
 An initial good resource for a high-level overview of the problem is given in [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670) by David Blei et al. (2017). This paper gives a Bayesian statistical perspective on variational methods which are designed around manipulating the *expected lower bound on the evidence* (ELBO). From a statistical physics point of view, this can also be viewed as an upper bound on a system's energy function. 
