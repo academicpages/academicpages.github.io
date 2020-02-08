@@ -127,9 +127,13 @@ ELBO(q_\phi)=\frac{1}{N}\left(\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\t
 $$
 
 This result rearranges the sum of per-data point KL divergences into an averaged KL divergence and the mutual information $\mathbb{I}$ between the random variables $n$ and $z$. Conceptually, this is a very nice result - it represents the original regularizing term as a divergence between averaged (i.e. non data point specific) prior distributions and information shared acros $q_\phi$ between $n$ and $z$. We can start to think about $q_\phi$ as a communication channel which may perfectly communicate the information in the index $n$ to the latent code $z$, i.e. perfect reconstruction, or it may fail to communicate substantial information and thereby the generative model learns to ignore the latent code $z$! We can use these expressions to rewrite the ELBO in a form identical to an equation from the Hoffman and Johnson paper:
+
+
 $$
 ELBO(q) =\underbrace{\left[\frac{1}{N}\sum_n E_{q_\phi(z_n\vert x_n})\left[\log p_\theta(x_n\vert z_n)\right] \right]}_{\text{Expected reconstruction error}} - \underbrace{\mathbb{I}_{q_\phi(n,z)}(n,z)}_\text{Decoded information} - \underbrace{KL(q_\phi(z)\vert\vert p_\theta(z))}_{\text{Marginal regularizer}}
 $$
+
+
 In the above expression, the first term on the right hand side represents how well the generative model can reconstruct the data points $x_n$ using the latent codes. If the values of $\theta$ are chosen poorly and the generative model is insufficient, this term will be relatively low. The next term is the mutual information from before and tells us how well the encoder network $q_\phi$ is transmitting information from the identity of the data point $x_n$ into the latent variable $z_n$. Finally, the last term pushes the *average* distribution of latent codes $z_n$ to be close to the prior $p_\theta(z)$. For many applications, $p_\theta$ is chosen somewhat arbitrarily to be a diagonal or isotropic Gaussian and this form suggests that we may want to choose more carefully in order to obtain more desired behavior from variational methods.
 
 ## $\beta$-VAE: [Higgins et al. (2017)](https://openreview.net/pdf?id=Sy2fzU9gl)
