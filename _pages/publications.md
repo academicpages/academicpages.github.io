@@ -12,9 +12,21 @@ author_profile: true
 
 ## Academic publications
 
+**Claire Duvallet**.
+"Data detectives, self-love, and humility: a research parasite's perspective."    
+_GigaScience_ (2020). doi: [10.1093/gigascience/giz148](https://doi.org/10.1093/gigascience/giz148).   
+
+Noriko Endo, Newsha Ghaeli, **Claire Duvallet**, Katelyn Foppe, Timothy B Erickson, Mariana Matus, Peter R Chai.   
+"Rapid Assessment of Opioid Exposure and Treatment in Cities Through Robotic Collection and Chemical Analysis of Wastewater."     
+_Journal of Medical Toxicology_ (2020) doi: [10.1007/s13181-019-00756-5](https://doi.org/10.1007/s13181-019-00756-5).   
+
+Ethan D Evans, **Claire Duvallet**, Nathaniel D Chu, Michael K Oberst, Michael A Murphy, Isaac Rockafellow, David Sontag, Eric J Alm.   
+"Predicting human health from biofluid-based metabolomics using machine learning."   
+_medRxiv_ (2020) doi: [10.1101/2020.01.29.20019471](https://doi.org/10.1101/2020.01.29.20019471).
+
 Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm.   
 "Untargeted detection of human health and activity markers in residential wastewater through microbiome sequencing and metabolomics."    
-_bioRxiv_ (2019) doi:[10.1101/728022](https://doi.org/10.1101/728022).
+_bioRxiv_ (2019) doi: [10.1101/728022](https://doi.org/10.1101/728022).
 
 **Claire Duvallet**, Caroline Zellmer, Pratik Panchal, Shrish Budree, Madji Osman, and Eric Alm.    
 "Framework for rational donor selection in fecal microbiota transplant clinical trials."    
@@ -47,8 +59,7 @@ Sean M. Gibbons, **Claire Duvallet**, and Eric J. Alm.
 "Correcting for batch effects in case-control microbiome studies."       
 _PLoS Computational Biology_ (2018) 14(4): e1006102. doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pcbi.1006102)
 
-**Claire Duvallet**.       
-"Meta-analysis generates and prioritizes hypotheses for translational microbiome research."        
+**Claire Duvallet**. "Meta-analysis generates and prioritizes hypotheses for translational microbiome research."        
 _Microbial Biotechnology_ (2018). doi: [10.1111/1751-7915.13047](https://doi.org/10.1111/1751-7915.13047)
 
 **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm.       
@@ -104,6 +115,9 @@ Script to match mz's to the HMDB database.
 * Python: [cduvallet/match_hmdb](https://github.com/cduvallet/match_hmdb) _(developer)_
 
 ## Other
+
+_[Blog post]_ **Claire Duvallet**. "[A Well-Kept Secret for Finding a Job post-PhD](https://gradadmissions.mit.edu/blog/well-kept-secret-finding-job-post-phd)." _MIT Graduate Admissions blog_ (2020).
+
 
 _[Blog post]_ **Claire Duvallet**. "[Learning to Engage in Deep Conversations](https://gradadmissions.mit.edu/blog/learning-engage-deep-conversations)." _MIT Graduate Admissions blog_ (2018).
 
