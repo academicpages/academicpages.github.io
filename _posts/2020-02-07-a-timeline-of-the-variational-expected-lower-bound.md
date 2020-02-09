@@ -25,11 +25,13 @@ We can also frame variational inference in the context of the evidence $p(\bolds
 
 
 $$
-\underbrace{\log p_{\boldsymbol{\theta}}(\boldsymbol{x})}_{\text{Log evidence}}= \log \int_z p_{\boldsymbol{\theta}}(\boldsymbol{z,x}) dz\\
-= \log \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z,x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
-= \log \int_z q_{\boldsymbol{\phi}}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
-= \log \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
-\ge  \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\log \left[\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\right] dz  = ELBO(q_{\boldsymbol{\phi}})\\
+\begin{align}
+\underbrace{\log p_{\boldsymbol{\theta}}(\boldsymbol{x})}_{\text{Log evidence}}&= \log \int_z p_{\boldsymbol{\theta}}(\boldsymbol{z,x}) dz\\
+&= \log \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z,x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
+&= \log \int_z q_{\boldsymbol{\phi}}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
+&= \log \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})} dz\\
+&\ge  \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\log \left[\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})p_{\boldsymbol{\theta}}(\boldsymbol{x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\right] dz  = ELBO(q_{\boldsymbol{\phi}})\\
+\end{align}
 $$
 
 
@@ -37,13 +39,13 @@ $$
 We used Bayes' Rule in (3) and Jensen's inequality after (5), leading us to the form of the expected lower bound of the model evidence shown in equation 6. With a few more manipulations we get:
 
 $$
-\begin{aligned}
+\begin{align}
 ELBO(q_\boldsymbol{\phi}) &=  \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\log \left[\frac{p_{\boldsymbol{\theta}}(\boldsymbol{z,x})}{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\right] dz\\
 &=  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log {p_{\boldsymbol{\theta}}(\boldsymbol{z,x})}-\log q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\right] \\
 &=  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log {p_{\boldsymbol{\theta}}(\boldsymbol{z\vert x})}-\log q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})-\log p_{\boldsymbol{\theta}}(\boldsymbol{x})\right] \\
 &= -KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\vert \vert p_{\boldsymbol{\theta}}(\boldsymbol{z}\vert \boldsymbol{x}))+  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log p_{\boldsymbol{\theta}}(\boldsymbol{x})\right] \\
 &= -KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\vert \vert p_{\boldsymbol{\theta}}(\boldsymbol{z}\vert \boldsymbol{x}))+  \log p_{\boldsymbol{\theta}}(\boldsymbol{x})
-\end{aligned}
+\end{align}
 $$
 
 
@@ -58,12 +60,12 @@ Starting with equation (8) from the previous section, the authors made the follo
 
 
 $$
-\begin{aligned}ELBO(q_\boldsymbol{\phi}) 
+\begin{align}ELBO(q_\boldsymbol{\phi}) 
 &=  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}[\log p_{\boldsymbol{\theta}}(\boldsymbol{x,z})-\log q_\boldsymbol{\phi}(\boldsymbol{z\vert x})]\\
 &=  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}[\log p_{\boldsymbol{\theta}}(\boldsymbol{x\vert z}) + \log p_{\boldsymbol{\theta}}(\boldsymbol{z})-\log q_\boldsymbol{\phi}(\boldsymbol{z\vert x})]\\
 &=  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}[\log p_{\boldsymbol{\theta}}(\boldsymbol{x\vert z})] + E_{q(\boldsymbol{z}\vert \boldsymbol{x})}\left[ \log p_{\boldsymbol{\theta}}(\boldsymbol{{z}})-\log q_\boldsymbol{\phi}(\boldsymbol{z\vert x})\right]\\
 &=  \underbrace{E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}[\log p_{\boldsymbol{\theta}}(\boldsymbol{x\vert z})]}_{\text{Reconstruction}} -\underbrace{KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x}),p_{\boldsymbol{\theta}}(\boldsymbol{z}))}_{\text{Shrinkage}}\\
-\end{aligned}
+\end{align}
 $$
 
 
@@ -76,11 +78,11 @@ This is one of my favorite papers because it's a lucid and compact explanation o
 
 
 $$
-\begin{aligned}
+\begin{align}
 ELBO(q_\boldsymbol{\phi}) 
 &=  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log p_{\boldsymbol{\theta}}(\boldsymbol{x,z})-\log q_\boldsymbol{\phi}(\boldsymbol{z\vert x})\right]\\
 &=  \underbrace{E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log p_{\boldsymbol{\theta}}(\boldsymbol{x,z})\right]}_{\text{Negative expected energy}} -\underbrace{E_{q_\boldsymbol{\phi}}\left[\log q_\boldsymbol{\phi}(\boldsymbol{z\vert x})\right]}_{\text{Entropy}}\\
-\end{aligned}
+\end{align}
 $$
 
 
@@ -90,7 +92,7 @@ The term *energy* here refers to the convention that in statistical mechanics, t
 The second form of the ELBO is the key result of this paper and provides a more detailed breakdown than the previous forms. The setup is a little more involved and requires recasting the ELBO as a function dependent upon not just the variational parameters $\phi$ or the generative model parameters $\theta$ but also the identity of the $n$-th data point being analyzed. The main point of this section is that we should think about information being shared between the identity of the data point (as captured by its index $n$) and the latent code $z_n$. 
 
 $$
-\begin{aligned}
+\begin{align}
 ELBO(q_\boldsymbol{\phi}) &=  \underbrace{E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}[\log p_{\boldsymbol{\theta}}(\boldsymbol{x\vert z})]}_{\text{Reconstruction}} -\underbrace{KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x}),p_{\boldsymbol{\theta}}(\boldsymbol{z}))}_{\text{Shrinkage}}\\
 
 &=E_{q_\phi(z\vert x)}\left[\log p_\theta(\boldsymbol{x}\vert\boldsymbol{z})-\log \frac{q_\phi({\boldsymbol{z} \vert\boldsymbol{x})}}{p_\theta(\boldsymbol{z})}\right]\\
@@ -101,7 +103,7 @@ ELBO(q_\boldsymbol{\phi}) &=  \underbrace{E_{q_\boldsymbol{\phi}(\boldsymbol{z}\
 &=E_{q_\phi(z\vert x)}\left[\sum_n \left(\log   p_\theta(x_n\vert z_n)- \log \frac{q_\phi({z_n \vert x_n)}}{p_\theta(z_n)}\right)\right]\\
 
 &=\int_{z_1}\ldots \int_{z_N}\prod_n q_\phi(z_n\vert x_n) \left[\sum_n \left(\log p_\theta(x_n\vert z_n)- \log \frac{q_\phi({z_n \vert x_n)}}{p_\theta(z_n)}\right)\right]dz_1 \ldots dz_n
-\end{aligned}
+\end{align}
 $$
 
 
@@ -110,11 +112,11 @@ The latent variables $z_n$ are specific to each data point so $z_i$ is independe
 
 
 $$
-\begin{aligned}
+\begin{align}
 ELBO(q_\phi)&=\sum_n \int_{z_n} q_\phi(z_n\vert  x_n)\left(\log p_\theta( x_n\vert z_n)- \log \frac{q_\phi({ z_n \vert x_n)}}{p_\theta( z_n)}d z_n\right)\\
 
 &=\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\theta( x_n\vert z_n)\right]- KL(q_\phi(z_n\vert x_n)\vert\vert p_\theta(z_n))\\
-\end{aligned}
+\end{align}
 $$
 
 
@@ -126,7 +128,7 @@ Integrating results across different work in a common notation can be challengin
 
 $$
 ELBO(q_\phi)=\frac{1}{N}\left(\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\theta( x_n\vert z_n)\right]- KL(q_\phi(z_n\vert x_n)\vert\vert p_\theta(z_n))\right)\\
-\begin{aligned}
+\begin{align}
 \frac{1}{N}\sum_n KL(q_\phi(z_n\vert x_n)\vert\vert p_\theta(z_n))&=\frac{1}{N}\sum_n KL(q_\phi(z\vert n)\vert\vert p_\theta(z))\\
 &=\frac{1}{N}\sum_n E_{q_\phi(z\vert n)} \log \frac{q_\phi(z\vert n)}{p_\theta(z)}\\
 &=\frac{1}{N}\sum_n E_{q_\phi(z\vert n)} \log \frac{q_\phi(n\vert z)q_\phi(z)}{p_\theta(z)q_\phi(n)}\\
@@ -137,7 +139,7 @@ ELBO(q_\phi)=\frac{1}{N}\left(\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\t
 &=KL(q_\phi(z)\vert\vert p_\theta(z)) + \frac{1}{N}\sum_n E_{q_\phi(z\vert n)}\left[ \log \frac{q_\phi(n, z)}{q_\phi(n)q_\phi(z)}\right]\\
 &=KL(q_\phi(z)\vert\vert p_\theta(z)) +\sum_n E_{q_\phi(n,z)}\left[ \log \frac{q_\phi(n, z)}{q_\phi(n)q_\phi(z)}\right]\\
 &=KL(q_\phi(z)\vert\vert p_\theta(z)) + \mathbb{I}_{q_\phi}(n,z)\\
-\end{aligned}
+\end{align}
 $$
 
 
