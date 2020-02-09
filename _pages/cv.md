@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Electrical & Electronics Engineering, Bogazici University, 2018
 * M.Sc. in Signal Processing and Communications, The University of Edinburgh, 2019
+* B.Sc. in Electrical & Electronics Engineering, Bogazici University, 2018
 
 Work experience
 ======
