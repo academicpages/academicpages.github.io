@@ -17,8 +17,6 @@ q_\phi^*(\boldsymbol{z})=\underset{q_{\phi}}{\mathrm{argmin}} \ f
 (q_\boldsymbol{\phi}(\boldsymbol{z}),p(\boldsymbol{z}\vert \boldsymbol{x}))
 $$
 
-
-
 We are free to choose any $f$ that we want, keeping in mind that our choice of $f$ should intuitively encapsulate notions of closeness or fidelity between two distributions $p,q$. Many different methods can be categorized by their choice of $f$ within this framework. For example, using the asymmetric Kullback-Leibler divergence defined as $KL(p\vert \vert q)=E_p [\log p(z)/q(z)]$ yields either variational Bayes or [expectation propagation](https://arxiv.org/abs/1412.4869) depending upon whether $KL(p\vert\vert q)$ or $KL(q\vert\vert p)$ is used
 
 We can also frame variational inference in the context of the evidence $p(\boldsymbol{x})$ also referred to as the *marginal likelihood*. Without loss of generality, we can also assume that the true generative model $p_{\theta}$ of the data has some parameters $\theta$. In this post, I'll be extremely detailed with the derivations so that they are easy to follow.
@@ -34,8 +32,6 @@ $$
 \end{align}
 $$
 
-
-
 We used Bayes' Rule in (3) and Jensen's inequality after (5), leading us to the form of the expected lower bound of the model evidence shown in equation 6. With a few more manipulations we get:
 
 $$
@@ -48,9 +44,7 @@ ELBO(q_\boldsymbol{\phi}) &=  \int_z q_\boldsymbol{\phi}(\boldsymbol{z}\vert \bo
 \end{align}
 $$
 
-
-
-The form shown in (11) is informative - remember that the marginal likelihood $p(\boldsymbol{x})$ is not a function of $\boldsymbol{z}$. If we think of the log marginal likelihood as fixed, then $$\log p(\boldsymbol{x})= KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\vert \vert p_{\boldsymbol{\theta}}(\boldsymbol{z}\vert \boldsymbol{x})) +  ELBO(q_\boldsymbol{\phi})$$ so that increasing the KL-divergence must decrease the ELBO and vice versa. 
+The form shown in (11) is informative - remember that the marginal likelihood $p(\boldsymbol{x})$ is not a function of $\boldsymbol{z}$. If we think of the log marginal likelihood as fixed, then $$\log p(\boldsymbol{x})= KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})\vert \vert p_{\boldsymbol{\theta}}(\boldsymbol{z}\vert \boldsymbol{x})) +  ELBO(q_\boldsymbol{\phi})$$ so that increasing the KL-divergence must decrease the ELBO and vice versa. For the rest of this post, I'll be reviewing papers that either dissect the ELBO into different representational forms or tweak prior assumptions to squeeze more performance out of models trained with variational Bayes.
 
 ## Auto-Encoding Variational Bayes: [Kingma and Welling (2013)](https://arxiv.org/abs/1312.6114) 
 
@@ -68,8 +62,6 @@ $$
 \end{align}
 $$
 
-
-
 (16) presents a common interpretation of the ELBO in terms of the variational parameters $\boldsymbol{\phi}$ as a tradeoff between maximizing the model likelihood $E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log p_{\boldsymbol{\theta}}(\boldsymbol{x\vert z})\right]$ and keeping the learned posterior over $\boldsymbol{z}$ close to a prior distribution $p_{\boldsymbol{\theta}}$. An arbitrary choice of prior which seems to have caught on is to assume that $\boldsymbol{z} \sim N(\boldsymbol{0},\sigma^2 I)$ where $I$ denotes the identity matrix. From a non-Bayesian machine learning perspective, the first term is analogous to reconstruction or denoising error from a normal auto-encoder while the second term is a Bayesian innovation intended to help keep the learned latent space (governed by $\boldsymbol{\phi}$) relatively close to a spherical Gaussian.
 
 ## ELBO surgery: [Hoffman and Johnson (2016)](http://approximateinference.org/accepted/HoffmanJohnson2016.pdf)
@@ -84,8 +76,6 @@ ELBO(q_\boldsymbol{\phi})
 &=  \underbrace{E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}\left[\log p_{\boldsymbol{\theta}}(\boldsymbol{x,z})\right]}_{\text{Negative expected energy}} -\underbrace{E_{q_\boldsymbol{\phi}}\left[\log q_\boldsymbol{\phi}(\boldsymbol{z\vert x})\right]}_{\text{Entropy}}\\
 \end{align}
 $$
-
-
 
 The term *energy* here refers to the convention that in statistical mechanics, the Boltzmann distribution is defined by an exponential dependence between energy and probability, i.e. $p(x)\propto e^{-U/kT}$ where $U$ is an energy function and $kT$ is a normalized temperature. This  rewriting of the ELBO highlights how it balances likelihood maximization (equivalent to energy minimization) with keeping most of its probability mass from spreading out and thereby boosting the entropy term.
 
@@ -106,8 +96,6 @@ ELBO(q_\boldsymbol{\phi}) &=  \underbrace{E_{q_\boldsymbol{\phi}(\boldsymbol{z}\
 \end{align}
 $$
 
-
-
 The latent variables $z_n$ are specific to each data point so $z_i$ is independent of $z_j$ given $x_i$. This allows us to rewrite the above integral as a sum.
 
 
@@ -118,8 +106,6 @@ ELBO(q_\phi)&=\sum_n \int_{z_n} q_\phi(z_n\vert  x_n)\left(\log p_\theta( x_n\ve
 &=\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\theta( x_n\vert z_n)\right]- KL(q_\phi(z_n\vert x_n)\vert\vert p_\theta(z_n))\\
 \end{align}
 $$
-
-
 
 This expression can be seen in several other works as well and usually includes a prefactor of $1/N$, implying that the above equation is the term-by-term average reconstruction error minus a per-data point KL divergence. I am not sure why this is done and it doesn't appear to be consistent with a physical point of view - the ELBO can be viewed as an upper bound on a total system-wide energy and a system's total energy is a sum of energy functions across particles rather than an across-particle average. In practice, this factor of $1/N$ is unimportant because $N$ is known ahead of time and the optimization strategies resulting from the ELBO reparameterization are unaffected by it. However, to make these derivations consistent with the literature, I will include it here too. 
 
@@ -142,8 +128,6 @@ ELBO(q_\phi)=\frac{1}{N}\left(\sum_n E_{q_\phi(z_n\vert  x_n)}\left[\log   p_\t
 \end{align}
 $$
 
-
-
 This result rearranges the sum of per-data point KL divergences into an averaged KL divergence and the mutual information $\mathbb{I}$ between the random variables $n$ and $z$. Conceptually, this is a very nice result - it represents the original regularizing term as a divergence between averaged (i.e. non data point specific) prior distributions and information shared acros $q_\phi$ between $n$ and $z$. We can start to think about $q_\phi$ as a communication channel which may perfectly communicate the information in the index $n$ to the latent code $z$, i.e. perfect reconstruction, or it may fail to communicate substantial information and thereby the generative model learns to ignore the latent code $z$! We can use these expressions to rewrite the ELBO in a form identical to an equation from the Hoffman and Johnson paper:
 
 
@@ -164,11 +148,30 @@ $$
 \log\frac {\vert\Sigma_{q_\phi}\vert}{\vert\Sigma_{p_\theta}\vert}\propto \log \sigma^2_{q_\phi}-\log \sigma^2_{p_\theta}
 $$
 
-
-
 where $\Sigma_{q_{\phi}}$ and $\Sigma_{p_\theta}$ are the diagonal covariance matrices of $q_\phi$ and $p_\theta$ respectively. As a consequence, we can also view an adjustment to $\beta$ as equivalent to tweaking our latent space prior variance. In statistical physics, $\beta$ is a function of the system temperature so it is unclear to me why the notion of $\beta$ was introduced despite several other identical conceptual frameworks existing which were appropriate for describing this improvement. Perhaps this was indeed the motivation but this fact was omitted from the text.
 
 Regardless, this led to marked improvements on learning disentangled representations and is such an easy computational tweak that it can be implemented into the vast majority of VI workflows.
+
+## Empirical Bayes for latent variable priors (VampPrior): [Tomczak and Welling (2018)](https://arxiv.org/pdf/1705.07120.pdf)
+
+The $\beta$-VAE paper suggested that tweaking the variational objective's split across reconstruction error and shrinkage could produce better models and also more disentangled representations. Unfortunately, the discussion of choosing $\beta$ wasn't linked to a specific choice of prior. In my opinion, the most interesting observation from the unbearably-cheesily-named VampPrior paper was that all latent variable priors can conceptually be ordered by the degree to which they depend on observed data. I'll reproduce some of their arguments here after introducing some extra notation: $p_\lambda(z)$ is a prior over the latent state $z$ and in past paragraphs I lazily referred to this as $p_\theta(z)$ with the understanding that the vector $\boldsymbol{\theta}$ included not just the weights of the decoder network but also the hyperparameters of the latent space prior. I will be more explicit moving forward.
+
+The paper picks right off at a familiar point:
+$$
+\begin{align}
+ELBO(q_\boldsymbol{\phi}) &=  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}[\log p_{\boldsymbol{\theta}}(\boldsymbol{x\vert z})] -KL(q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x}),p_{\boldsymbol{\lambda}}(\boldsymbol{z}))\\
+&=  E_{q_\boldsymbol{\phi}(\boldsymbol{z}\vert \boldsymbol{x})}[\log p_{\boldsymbol{\theta}}(\boldsymbol{x\vert z})] -E_{q_\phi}\left[\log q_\phi(\boldsymbol{z}\vert \boldsymbol{x})-p_\lambda(\boldsymbol{z})) \right]\\
+\end{align}
+$$
+ If the goal is to maximize the ELBO, then we could simply drive the second term on the RHS of (39) to zero by setting our prior equal to the learned posterior $q_\phi(\boldsymbol{z}\vert \boldsymbol{x})$ and thereby commit a cardinal sin by snooping on the data. However, this would remove any shrinkage effects and not let the prior do its job by restricting the capacity of the model in an effective way. The other extreme is to choose $p_\lambda$ to be very restrictive and not make use of any of the observed data points $x_n$. 
+
+The key insight from the Tomczak and Welling paper is that there is an empirical Bayes (EB) middle ground between these two extremes. We can implement this EB prior by expressing $p_\lambda$ as a weakened version of the variational posterior $q_\phi$ via the usage of $K$ *pseudo-inputs* $ $u_1,...,u_K$ in a variational mixture of posteriors (VAMP): 
+
+$$p^{VAMP}(z)=\frac{1}{K}\sum_k q_\phi(\boldsymbol{z}\vert u_k)$$
+
+In the limit where $K\approx N$, the prior and posterior are identical so there is little regularization, but when a good value of $K$ is selected, $p^{VAMP}$ is clearly going to be highly multimodal as a mixture distribution, but it is also going to have less capacity than the full posterior. However, this opens another question regarding how the $u_k$ are selected and generated. In true empirical Bayes fashion, these are treated as additional model parameters amenable to optimization via backprop. The implementation that Tomczak and Welling actually go with for their experiments uses a two layer hierarchical VAMP prior; I would like to comment on this but there was virtually no motivation or discussion of why this multilayer prior would help.
+
+
 
 
 
