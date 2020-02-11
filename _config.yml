@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "samsl@mit.edu" 
-  researchgate     :  "https://www.researchgate.net/profile/Samuel_Sledzieski"
+  researchgate     : #"https://www.researchgate.net/profile/Samuel_Sledzieski"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/samuelsledzieski/"
-  orcid            : "https://orcid.org/0000-0002-0170-3029"
+  orcid            : #"https://orcid.org/0000-0002-0170-3029"
   pinterest        :
   soundcloud       :
   stackoverflow    :
