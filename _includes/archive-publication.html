@@ -4,12 +4,8 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <h2 class="archive__item-title" itemprop="headline">
-        {{ post.citation }}
+        <a href=" {{ post.paperurl }} ">{{ post.citation }}</a>
     </h2>
-
-    {% if post.paperurl %}
-      <p><a href=" {{ post.paperurl }} " class="btn">PDF</a></p>
-    {% endif %}
 
   </article>
 </div>
