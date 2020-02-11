@@ -28,9 +28,9 @@ initializations etc.) such that a model can perform very well on a target task.
 
 Wait.. What is <em>meta-learning</em>?
 
-Meta-learning or *learning to learn* can be broadly defined as a machine learning paradigm, where instead of learning a model
-for infering some predictions, we learn a model for <em>learning</em> some underlying set of tasks. In essence, 
-learning-models are trained to become more proficient at learning with more experience, thus learning *how* to learn.
+Meta-learning or *learning to learn* can be broadly defined as a machine learning paradigm, where we learn a learner for a target model,
+such that when the learner is trains the target model, the resulting model can then perform well on a set of previously defined tasks.
+In essence, building systems that become more proficient at learning with more experience, thus learning *how* to learn.
 
                                                                                 
 
