@@ -15,9 +15,21 @@ where $\textbf{I}^{\textit{LR}}$ is the LR image, $\textbf{I}^{\textit{HR}}$ is 
 
 In this project, I first implemented Irani-Peleg's IBP algorithm, an MISR technique, and compared it with a convolutional neural network (CNN) implementation. Later, I implemented a sub-pixel CNN and analyzed it with different parameters and loss functions. I used AWS for training process. During my reseach journey, I found some interesting results on the limitation of SR and on the checkerboard artifacts.
 <p align="center">
+  <img src='/images/SR-power.png'/><br/>
   <br/>First Row: Sub-pixel CNN, Second Row: Bicubic Interpolation<br/>
   Fig. 1: FFT-Error Results of ’comic’ Image<br/>
-  <img src='/images/SR-power.png'/><br/>
 </p>
 Figure 1 shows the absolute difference between the reconstructed ’comic’ image and the original image in frequency domain for different scale factors and algorithms. The width of the dark blue region shows the super-resolution power of the algorithms. Although the sub-pixel CNN is only of three layers, its super-resolution power is almost double the bicubic interpolation, which cannot recover any lost frequency component.
+<p align="center">
+  <br/><img src='/images/ca.png'/><br/>
+  <br/>First Row: Sub-pixel CNN with Perceptual Loss, Second Row: Sub-pixel CNN with Pixel-wise L2-Norm Loss<br/>
+  Fig. 1: FFT-Error Results<br/>
+</p>
+The checkerboard artifacts occur in an image due to pixel replication during the upscaling process. That is, lower resolution images are duplicated in order to fill the area in the SR space. In Figure 2, the high frequency components that are associated with the checkerboard artifacts can be seen inside the red rectangles. These frequency components are related to the frequency of the squares and their harmonics. They are high frequency components since the squares repeat themselves in a short period. 
 
+Checkerboard artifacts can be eliminated with an ideal low-pass filter. The radius of the filter should be carefully chosen. 
+<p align="center">
+  <br/><img src='/images/cali.png'/><img src='/images/casiz.png'/><br/>
+  <br/>Left: Image before low-pass filtering, Right: Image after low-pass filtering<br/>
+  Fig. 1: Reconstructed 'butterfly' Images<br/>
+</p>
