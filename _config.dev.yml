@@ -7,7 +7,7 @@ analytics:
 
 comments:
   disqus:
-    shortname            : "mmistakes-dev"
+    shortname            : "academic pages"
 
 sass:
   style: expanded
