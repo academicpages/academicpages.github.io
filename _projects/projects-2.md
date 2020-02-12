@@ -23,7 +23,7 @@ Figure 1 shows the absolute difference between the reconstructed ’comic’ ima
 <p align="center">
   <br/><img src='/images/ca.png'/><br/>
   <br/>First Row: Sub-pixel CNN with Perceptual Loss, Second Row: Sub-pixel CNN with Pixel-wise L2-Norm Loss<br/>
-  Fig. 1: FFT-Error Results<br/>
+  Fig. 2: FFT-Error Results<br/>
 </p>
 The checkerboard artifacts occur in an image due to pixel replication during the upscaling process. That is, lower resolution images are duplicated in order to fill the area in the SR space. In Figure 2, the high frequency components that are associated with the checkerboard artifacts can be seen inside the red rectangles. These frequency components are related to the frequency of the squares and their harmonics. They are high frequency components since the squares repeat themselves in a short period. 
 
@@ -31,5 +31,5 @@ Checkerboard artifacts can be eliminated with an ideal low-pass filter. The radi
 <p align="center">
   <br/><img src='/images/cali.png'/><img src='/images/casiz.png'/><br/>
   <br/>Left: Image before low-pass filtering, Right: Image after low-pass filtering<br/>
-  Fig. 1: Reconstructed 'butterfly' Images<br/>
+  Fig. 3: Reconstructed 'butterfly' Images<br/>
 </p>
