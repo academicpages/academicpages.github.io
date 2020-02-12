@@ -45,6 +45,17 @@ There's an application paper by [Dupont et al. 2018](Generating Realistic Geolog
 
 Clearly, the limitations of this approach are noted - getting high sample diversity could be challenging!
 
+## Pixel Constrained CNNs
+### [Dupont and Suresha 2019](https://arxiv.org/pdf/1810.03728.pdf)
+In an apparent follow-up to the challenge noted in the previous section, Dupont and Suresha 
+attempted to address the major shortcomings of the Dupont et al. (2018) approach by embracing a latent variable-free approach that allowed for straightforward sampling from conditional distributions over images. The basic idea in this paper is to augment a PixelCNN's predictive distribution over pixels to include information which is outside of the usual raster scan ordering imposed on the sequence of pixels.
+
+We can think of the basic PixelCNN with weights $\theta$ as an autoregressive generative model $f_\theta(x_i\vert x_1,...x_{i-1})$. The general problem that Dupont and Suresha tackle is how to augment the conditioning set of variables with pixels that might be out of raster scan order, yet still observed. Let's denote the set of observed pixels as $X_c$. Then, the generative model becomes $f_\theta(x_i\vert \{x_1,...,x_{i-1}\}\cup X_c)$ This has an advantage over latent variable-based approaches in that the samples of the completed image $\hat{x}$ will not need Poisson blending to match the observed pixels - there is no generation of the already-observed pixels in this procedure.
+
+To implement the PixelCNN constrained to match observations, the authors represent the conditional likelihood of the discretized categories of $x_i$ to be log-linear in two different networks: (1) a standard PixelCNN with little modification, and (2) a fairly standard ConvNet which takes in masked pixels and outputs a logit. The second network also needs to have an extra channel for its inputs to indicate which pixels are masked since, for example, a value of zero in the masked data could correspond to either missing data or an observed value of zero.
+
+I have to say that I am really impressed with the quality and diversity of the samples drawn from the conditional distribution over completions - I think this is a front-runner and current SOTA for posterior image completion.
+
 ## Pluralistic image completion
 
 ### [Zheng et al. 2019](https://zpascal.net/cvpr2019/Zheng_Pluralistic_Image_Completion_CVPR_2019_paper.pdf)
@@ -133,4 +144,10 @@ Finally, the log-likelihood $p(\mathcal{D}\vert\theta)$ is straightforward to un
 For all of the terms in $\partial f/\partial \theta$, the gradients come down to gradients of quadratic forms of some type and under the right prior assumptions can even be done analytically. 
 
 Back in equation (12), the next term $$\partial \theta/\partial\mu$$ is just $1$ since $\theta \propto \mu$ in our function $$\theta=t(\phi,\epsilon)=t(\mu,\rho,\epsilon)$$. Then, the final term $$\frac{\partial f}{\partial \mu}$$ is much like the first term, except the parts that don't depend on $\mu$ will drop out. Again, I want to stress that none of these calculations need to be done by hand - autodif software like Torch or Tensorflow will do these automatically. Once $\partial{\mathcal{F}}/\partial \mu$ is calculated with the above steps, it's easy to apply stochastic gradient descent with a Monte Carlo estimator of $\partial \mathcal{F}/\partial \mu$ in order to do training. A similar recipe can be followed for the scale parameter $\rho$.
+
+Treating the network weights $\theta$ as the random variable is orthogonal in some sense to the methods which treat the latent variable $z$ as the random quantity to be optimized over. Including both sources of uncertainty could be a promising line of future research.
+
+
+
+
 
