@@ -1,6 +1,7 @@
 ---
-title: An ELBO timeline
+title: An ELBO Timeline
 mathjax: true
+comments: true
 ---
 
 In Bayesian machine learning, deep generative models are providing exciting ways to extend our understanding of optimization and flexible parametric forms to more conventional statistical problems while simultaneously lending insight from probabilistic modeling to AI / ML. This is an exciting time to be studying the topic as it is blending results from probability theory, statistical physics, deep learning and information theory in sometimes surprising ways. This post is a short summary of some of the major work on the subject and serves as an annotated bibliography on the most important developments in the subject. It also uses common notation to help smooth over some of the differences in detail between papers.
