@@ -24,9 +24,7 @@ When latent variables are used, we often represent the function linking the late
 
 ## Review
 
-## Semantic image inpainting with deep generative models
-
-### [Yeh et al. 2017](https://arxiv.org/pdf/1607.07539.pdf)
+## Semantic image inpainting with deep generative models:  [Yeh et al. 2017](https://arxiv.org/pdf/1607.07539.pdf)
 
 As soon as deep generative models such as VAEs and GANs started producing visually appealing samples when trained on more sophisticated data, researchers started investigating ways to use them to help solve a range of computer vision tasks including image inpainting. Yeh et al. 2017 presented a very straightforward and common-sense way to tackle image inpainting with a DGM. The basic recipe that they suggested for completing an image $\tilde{x}$ is:
 
@@ -45,8 +43,7 @@ There's an application paper by [Dupont et al. 2018](Generating Realistic Geolog
 
 Clearly, the limitations of this approach are noted - getting high sample diversity could be challenging!
 
-## Pixel Constrained CNNs
-### [Dupont and Suresha 2019](https://arxiv.org/pdf/1810.03728.pdf)
+## Pixel Constrained CNNs:  [Dupont and Suresha 2019](https://arxiv.org/pdf/1810.03728.pdf)
 In an apparent follow-up to the challenge noted in the previous section, Dupont and Suresha 
 attempted to address the major shortcomings of the Dupont et al. (2018) approach by embracing a latent variable-free approach that allowed for straightforward sampling from conditional distributions over images. The basic idea in this paper is to augment a PixelCNN's predictive distribution over pixels to include information which is outside of the usual raster scan ordering imposed on the sequence of pixels.
 
@@ -54,15 +51,11 @@ We can think of the basic PixelCNN with weights $\theta$ as an autoregressive ge
 
 I have to say that I am really impressed with the quality and diversity of the samples drawn from the conditional distribution over completions - I think this is a front-runner and current SOTA for posterior image completion.
 
-## Pluralistic image completion
-
-### [Zheng et al. 2019](https://zpascal.net/cvpr2019/Zheng_Pluralistic_Image_Completion_CVPR_2019_paper.pdf)
+## Pluralistic image completion: [Zheng et al. 2019](https://zpascal.net/cvpr2019/Zheng_Pluralistic_Image_Completion_CVPR_2019_paper.pdf)
 
 This paper was published in CVPR either because of the journal's format or because the study is heavy on technical details I found it to be very difficult to read. Unfortunately, I am unable to tell what the essence of this work is besides the fact that they pair two generative networks together which are trained on differing tasks. There were many details that would have ideally been given a longer treatment in this which likely contributed to it being relatively difficult to follow. This may have been an unavoidable consequence of the journal length format, however, and I do not intend this to be criticism of the authors' writing.
 
-## A Bayesian perspective on the deep image prior
-
-### [Cheng et al. 2019](https://people.cs.umass.edu/~zezhoucheng/gp-dip/gp-dip.pdf)
+## A Bayesian perspective on the deep image prior: [Cheng et al. 2019](https://people.cs.umass.edu/~zezhoucheng/gp-dip/gp-dip.pdf)
 
 The main contribution of this work is showing that sampled images from a deep generative model prior to training (AKA the [deep image prior](https://arxiv.org/abs/1711.10925)) are actually draws from a Gaussian process. While this is a neat coincidence, it's not especially surprising given an abundance of work on relating neural networks and Gaussian processes as two leading forms of universal function approximators. However, the part that interested me the most was in their experiemntal section in which they discuss using the deep image prior for reconstruction as well as other image processing tasks and use Langevin dynamics to draw samples of $\theta$  leading to a posterior distribution of $p(x \vert \tilde{x})=\int_\theta p(x\vert \theta,\tilde{x})p(\theta \vert \tilde{x})d\theta$. Note that in this framework, there's no mention of distributions over $z$ or $\tilde{z}$ - these are treated as fixed inputs!
 
@@ -80,9 +73,7 @@ The "Langevin" part comes about because the behavior of $\theta$ can be thought 
 
 Since only a single image is used to optimize / sample $\theta$, the model is really only able to capture information from two sources: (1) the inductive bias baked into the deep image prior (i.e. strong spatial covariance in the GP interpretation) and (2) image structures present in $\tilde{x}$ which thus influence $p(x\vert \tilde{x})$). This could have serious downsides - suppose we'd like to compute a posterior distribution of completions for an image of a man with blond hair yet his mouth (and mustache) are cropped out. Since the single image does not have any brown hair in it, it is unlikely that the deep image prior can be used to generate image completions consistent with a brown mustache. Yet, it is possible that in the collection of all training images $x_1,...,x_N$ there exist some pictures of men with blond hair and a brown mustache. This sort of outcome is also unlikely to have a nonnegligible probability under the deep image prior. All in all, this paper raises a number of possible directions for UQ with structured data via Langevin MCMC and also obviates the need to do any training at all!
 
-## Bayes by Backprop
-
-### [Blundell et al. (2015)](https://arxiv.org/pdf/1505.05424.pdf)
+## Bayes by Backprop: [Blundell et al. (2015)](https://arxiv.org/pdf/1505.05424.pdf)
 
 Strictly speaking, this paper has nothing to do with image completion and it is focused entirely about treating neural network weights as random variables rather than fixed parameters. However, it's not hard to see how this might give a possible receipe for posterior inpainting. Suppose we have a procedure $\nu (\theta,\tilde{x})$ that takes in a set of neural network weight parameters $\theta$ as well as a partially completed image $\tilde{x}$ and deterministically returns an estimated completion $\hat{x}$. For example, see [Yeh et al. (2017)]([arxiv.org ' cs
 Semantic Image Inpainting with Deep Generative Models](https://arxiv.org/abs/1607.07539)) for such a recipe.  Then, if we could sample from a posterior distribution $p(\theta\vert \mathcal{D})$ then we could perform ancestral sampling to approximate $p(\hat{x}\vert\mathcal{D})=\int_\theta p(\hat{x}\vert\theta)p(\theta\vert\mathcal{D})d\theta$. Since this paper is about providing $p(\theta\vert\mathcal{D})$, I judge it as highly relevant to the task at hand. The paper works with a similar conceptual framework as the [Autoencoding Variational Bayes paper](https://arxiv.org/abs/1312.6114) but targets the neural network weights $\theta$ instead of the latent variables $z$ for a variational approximation. I'm going to spend much more time analyzing this paper because I think it provides a really nice template for thinking about Bayesian deep learning.
