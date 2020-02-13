@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xian Kong / Molecular thermodynamics"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xian Kong"
 description              : &description "Molecular thermodynamics in the age of big data"
 url                      : https://xianshine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
