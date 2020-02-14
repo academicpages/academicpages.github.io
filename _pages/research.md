@@ -17,7 +17,7 @@ Advancements in material science and nanotechnology allow the fabrication of com
 
 <center>
 
-![Summary of systems studied](../images/systems.png "Summary of systems"){:height="60%" width="60%"}
+!["Summary of systems studied"](../images/systems.png "Summary of systems"){:height="60%" width="60%"}
 
 </center>
 
