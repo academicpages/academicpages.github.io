@@ -15,12 +15,27 @@ Advancements in material science and nanotechnology allow the fabrication of com
 
 Soft matter assembly
 ======
+Assembly on a surfaces are imperative and relevant in many applications. It usually occurs via substance transfer from bulk solution to the surface accompanied with conformation evolution and/or chemical reactions.
+The supported lipid bilayer (SLB) is usually prepared through such an assembly process. SLB has practical importance in many biomimetic technologies including drug delivery, biosensing, high-performance membranes, and biomedical apparatus. Previous SLB preparation usually entails self-assembly that allows little artificial intervention. I studied how to control the assembled SLB structure and the dynamics of the assembly process by controlling the substrate
+charge density.
 
+![alt text](../images/slb.png "supported lipid bilayer")
 
 Transport in nano-confined space
 ======
+Mass transport in confined space underlies many processes such as desalination, DNA
+sequencing, and supercapacitor. Mass transport in nanochannels or nanoporous membranes is
+fundamentally different from transport in bulk phase. In these systems with molecular scale
+confinement, molecular interactions are dominant for mass transport and fluctuations becomes so
+immense that undermines the conventional continuum based transport theories.
+
+![alt text](../images/slb.png "supported lipid bilayer")
 
 
-Thermodynamics of electrolytes
+
+Thermodynamics of advanced electrolytes
 ======
+![alt text](../images/slb.png "supported lipid bilayer")
+
+
 
