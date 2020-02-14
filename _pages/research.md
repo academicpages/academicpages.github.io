@@ -16,6 +16,8 @@ Advancements in material science and nanotechnology allow the fabrication of com
 Soft matter assembly
 ======
 Assembly on a surfaces are imperative and relevant in many applications. It usually occurs via substance transfer from bulk solution to the surface accompanied with conformation evolution and/or chemical reactions.
+
+* Supported lipid bilayer
 The supported lipid bilayer (SLB) is usually prepared through such an assembly process. SLB has practical importance in many biomimetic technologies including drug delivery, biosensing, high-performance membranes, and biomedical apparatus. Previous SLB preparation usually entails self-assembly that allows little artificial intervention. I studied how to control the assembled SLB structure and the dynamics of the assembly process by controlling the substrate
 charge density.
 
@@ -28,14 +30,22 @@ sequencing, and supercapacitor. Mass transport in nanochannels or nanoporous mem
 fundamentally different from transport in bulk phase. In these systems with molecular scale
 confinement, molecular interactions are dominant for mass transport and fluctuations becomes so
 immense that undermines the conventional continuum based transport theories.
+* Ion nanochannels
 
+* Porous organic cages
 ![alt text](../images/poc.png "porous organic cage")
 
 
-
-Thermodynamics of advanced electrolytes
+Advanced electrolytes
 ======
-![alt text](../images/slb.png "supported lipid bilayer")
+Advanced electrolytes are essential for next-generation energy storage devices, such as batteries, supercapacitors, solar cells, and fuel cells. Different electrolytes are needed for different application conditions. To make effective choice of electrolytes, or to achieve rationale design of electrolytes, call for a good understanding of the thermodynamics, transports, and kinetics of the electrolytes. Using molecular simulation and advanced molecular theories, I try to unviel the fundamental rules for different electrolytes, such as solid polymer electrolytes, polyelectrolytes, ionic liquid, and lithium salt electrolytes.
 
+* Soft polymer coating for lithium dendrite supression
+
+![alt text](../images/dendrite.png "lithium dendrite supression")
+
+* Solvation effects in liquid lithium electrolytes
+
+* Phase diagrams of solid block copolymer electrolytes
 
 
