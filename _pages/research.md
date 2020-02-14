@@ -56,4 +56,7 @@ Advanced electrolytes are essential for next-generation energy storage devices, 
 
 * Phase diagrams of solid block copolymer electrolytes
 
+Percolation in biological systems
+======
 
+![alt text](../images/jam.png "chromatic jamming"){:width="500px"}
