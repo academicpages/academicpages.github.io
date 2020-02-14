@@ -40,7 +40,7 @@ immense that undermines the conventional continuum based transport theories.
 
 * Porous organic cages
 
-![alt text](../images/poc.png "porous organic cage")
+![alt text](../images/poc.png "porous organic cage"){:width="600px"}
 
 
 Advanced electrolytes
@@ -49,11 +49,11 @@ Advanced electrolytes are essential for next-generation energy storage devices, 
 
 * Soft polymer coating for lithium dendrite supression
 
-![alt text](../images/dendrite.png "lithium dendrite supression")
+![alt text](../images/dendrite.png "lithium dendrite supression"){:width="600px"}
 
 * Solvation effects in liquid lithium electrolytes
 
-![alt text](../images/lisolvation.png "lithium solvation")
+![alt text](../images/lisolvation.png "lithium solvation"){:width="600px"}
 
 * Phase diagrams of solid block copolymer electrolytes
 
