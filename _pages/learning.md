@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+To be added slowly
 ======
-* B.S. in Beijing, China, Tsinghua University, 2010
-* Ph.D in Beijing, China, Tsinghua University, 2016
