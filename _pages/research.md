@@ -15,20 +15,6 @@ Education
 ======
 * B.S. in Beijing, China, Tsinghua University, 2010
 * Ph.D in Beijing, China, Tsinghua University, 2016
-
-Work experience
-======
-* 2017-: Postdoctoral Research Fellow
-  * Stanford University
-  * Supervisor: Jian Qin
-
-* 2016-2017: Postdoctoral Research Fellow
-  * National University of Singapore
-  * Supervisor: Jianwen Jiang
-
-* 2013-2014: Visiting PhD student
-  * University of California, Riverside
-  * Supervisor: Jianzhong Wu
   
 Research interests
 ======
