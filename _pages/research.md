@@ -28,7 +28,6 @@ Advancements in material science and nanotechnology allow the fabrication of com
       <img width="600px" src="../images/slb.png">
     </p>
 
-    ![alt text](../images/slb.png "supported lipid bilayer"){:width="600px"}
 
 2. Transport in nano-confined space
     
@@ -40,11 +39,15 @@ Advancements in material science and nanotechnology allow the fabrication of com
 
     * Ion nanochannels
 
-    ![alt text](../images/go.png "graphene oxide channel"){:width="500px"}
+    <p align="center">
+      <img width="500px" src="../images/go.png">
+    </p>
 
     * Porous organic cages
 
-    ![alt text](../images/poc.png "porous organic cage"){:width="600px"}
+    <p align="center">
+      <img width="600px" src="../images/poc.png">
+    </p>
 
 
 3. Advanced electrolytes
@@ -53,14 +56,20 @@ Advancements in material science and nanotechnology allow the fabrication of com
 
     * Soft polymer coating for lithium dendrite supression
 
-    ![alt text](../images/dendrite.png "lithium dendrite supression"){:width="600px"}
+    <p align="center">
+      <img width="600px" src="../images/dendrite.png">
+    </p>
 
     * Solvation effects in liquid lithium electrolytes
 
-    ![alt text](../images/lisolvation.png "lithium solvation"){:width="500px"}
+    <p align="center">
+      <img width="500px" src="../images/lisolvation.png">
+    </p>
 
     * Phase diagrams of solid block copolymer electrolytes
 
 4. Percolation in biological systems
 
-![alt text](../images/jam.png "chromatic jamming"){:width="500px"}
+    <p align="center">
+      <img width="500px" src="../images/jam.png">
+    </p>
