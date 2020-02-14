@@ -6,4 +6,3 @@ date: 2018-01-01
 venue: 'Presented at Presented at the American Physical Society March Meeting, Los Angeles, CA'
 citation: ' Margarita Khariton,  Xian Kong,  Jian Qin,  Bo Wang, &quot;A Neuronal Jam in a Primitive Brain.&quot; Presented at Presented at the American Physical Society March Meeting, Los Angeles, CA, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+Neuronal+Jam+in+a+Primitive+Brain){:target="_blank"} for full citation
