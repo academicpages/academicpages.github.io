@@ -9,6 +9,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Gallery"
+    url: /gallery/
+
+  - title: "Learning"
+    url: /learning/
+
 #  - title: "Talks"
 #    url: /talks/    
 
