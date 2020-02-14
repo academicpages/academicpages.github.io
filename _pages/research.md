@@ -13,6 +13,10 @@ Advancements in material science and nanotechnology allow the fabrication of com
 
 !["Summary of systems studied"](../images/systems.png "Summary of systems"){:height="60%" width="60%"}
 
+<p align="center">
+  <img width="60%" height="60%" src="../images/systems.png">
+</p>
+
 1. Soft matter assembly
     
     Assembly on a surfaces are imperative and relevant in many applications. It usually occurs via substance transfer from bulk solution to the surface accompanied with conformation evolution and/or chemical reactions.
