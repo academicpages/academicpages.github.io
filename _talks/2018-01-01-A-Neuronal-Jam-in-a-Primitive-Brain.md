@@ -1,5 +1,6 @@
 ---
 title: "A Neuronal Jam in a Primitive Brain"
+type: "Conference proceedings talk"
 collection: talks
 permalink: /talks/2018-01-01-A-Neuronal-Jam-in-a-Primitive-Brain
 date: 2018-01-01

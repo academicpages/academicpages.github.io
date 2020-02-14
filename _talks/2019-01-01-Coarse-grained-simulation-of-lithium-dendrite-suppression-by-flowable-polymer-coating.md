@@ -1,5 +1,6 @@
 ---
 title: "Coarse-grained simulation of lithium dendrite suppression by flowable polymer coating"
+type: "Conference proceedings talk"
 collection: talks
 permalink: /talks/2019-01-01-Coarse-grained-simulation-of-lithium-dendrite-suppression-by-flowable-polymer-coating
 date: 2019-01-01

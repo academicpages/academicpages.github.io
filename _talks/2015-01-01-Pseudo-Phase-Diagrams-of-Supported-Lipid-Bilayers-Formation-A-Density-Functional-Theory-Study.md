@@ -1,5 +1,6 @@
 ---
 title: "Pseudo Phase Diagrams of Supported Lipid Bilayers Formation: A Density Functional Theory Study"
+type: "Conference proceedings talk"
 collection: talks
 permalink: /talks/2015-01-01-Pseudo-Phase-Diagrams-of-Supported-Lipid-Bilayers-Formation-A-Density-Functional-Theory-Study
 date: 2015-01-01

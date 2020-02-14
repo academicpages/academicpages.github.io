@@ -1,5 +1,6 @@
 ---
 title: "Water Desalination using Porous Organic Cage Membranes: A Simulation Exploration"
+type: "Conference proceedings talk"
 collection: talks
 permalink: /talks/2017-01-01-Water-Desalination-using-Porous-Organic-Cage-Membranes-A-Simulation-Exploration
 date: 2017-01-01

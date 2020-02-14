@@ -1,5 +1,6 @@
 ---
 title: "Effects of Pore Size in Polybenzimidazole Membranes on the Performance of Organic Solvent Nanofiltration"
+type: "Conference proceedings talk"
 collection: talks
 permalink: /talks/2017-01-01-Effects-of-Pore-Size-in-Polybenzimidazole-Membranes-on-the-Performance-of-Organic-Solvent-Nanofiltration
 date: 2017-01-01
