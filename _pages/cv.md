@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Beijing, China, Tsinghua University, 2010
+* Ph.D in Beijing, China, Tsinghua University, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-: Postdoctoral Research Fellow
+  * Stanford University
+  * Supervisor: Jian Qin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2017: Postdoctoral Research Fellow
+  * National University of Singapore
+  * Supervisor: Jianwen Jiang
+
+* 2013-2014: Visiting PhD student
+  * University of California, Riverside
+  * Supervisor: Jianzhong Wu
   
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+I  am  interested  in  studying  thermodynamics  in  modern  systems  by  combining  advanced  moleculartheories  and  simulation  techniques,  and  collaborating  with  experimentalists.   Some  of  my  interestsinclude:
+* a)Self-assembly and phase transitions in soft materials such as lipids, proteins, and polymers
+* b)Thermodynamics and transport in advanced membranes or in nanochannels
+* c)Electrolytes or polyelectrolytes for advanced energy applications
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
