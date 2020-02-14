@@ -31,12 +31,6 @@ Work experience
 Research interests
 ======
 I  am  interested  in  studying  thermodynamics  in  modern  systems  by  combining  advanced  moleculartheories  and  simulation  techniques,  and  collaborating  with  experimentalists.   Some  of  my  interestsinclude:
-* a)Self-assembly and phase transitions in soft materials such as lipids, proteins, and polymers
-* b)Thermodynamics and transport in advanced membranes or in nanochannels
-* c)Electrolytes or polyelectrolytes for advanced energy applications
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Self-assembly and phase transitions in soft materials such as lipids, proteins, and polymers
+* Thermodynamics and transport in advanced membranes or in nanochannels
+* Electrolytes or polyelectrolytes for advanced energy applications
