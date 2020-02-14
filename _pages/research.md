@@ -46,6 +46,8 @@ Advanced electrolytes are essential for next-generation energy storage devices, 
 
 * Solvation effects in liquid lithium electrolytes
 
+![alt text](../images/lisolvation.png "lithium solvation")
+
 * Phase diagrams of solid block copolymer electrolytes
 
 
