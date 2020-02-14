@@ -1,9 +1,9 @@
 ---
-title: "A theoretical study on the morphological phase diagram of supported lipid bilayers"
+title: "A Theoretical Study on the Morphological Phase Diagram of Supported Lipid Bilayers"
 collection: publications
-permalink: /publication/2017-01-01-A-theoretical-study-on-the-morphological-phase-diagram-of-supported-lipid-bilayers
+permalink: /publication/2017-01-01-A-Theoretical-Study-on-the-Morphological-Phase-Diagram-of-Supported-Lipid-Bilayers
 date: 2017-01-01
-venue: 'Physical Chemistry Chemical Physics'
-citation: ' Xian Kong,  Diannan Lu,  Jianzhong Wu,  Zheng Liu, &quot;A theoretical study on the morphological phase diagram of supported lipid bilayers.&quot; Physical Chemistry Chemical Physics, 2017.'
+venue: 'Presented at Presented at the American Physical Society March Meeting, New Orleans, LA'
+citation: ' Xian Kong,  Diannan Lu,  Zheng Liu,  Jianzhong Wu, &quot;A Theoretical Study on the Morphological Phase Diagram of Supported Lipid Bilayers.&quot; Presented at Presented at the American Physical Society March Meeting, New Orleans, LA, 2017.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+theoretical+study+on+the+morphological+phase+diagram+of+supported+lipid+bilayers){:target="_blank"} for full citation
+Use [Google Scholar](https://scholar.google.com/scholar?q=A+Theoretical+Study+on+the+Morphological+Phase+Diagram+of+Supported+Lipid+Bilayers){:target="_blank"} for full citation
