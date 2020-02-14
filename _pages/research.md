@@ -13,8 +13,8 @@ Advancements in material science and nanotechnology allow the fabrication of com
 
 ![alt text](../images/systems.png "Summary of systems"){:height="60%" width="60%"}
 
-Soft matter assembly
-======
+1. Soft matter assembly
+
 Assembly on a surfaces are imperative and relevant in many applications. It usually occurs via substance transfer from bulk solution to the surface accompanied with conformation evolution and/or chemical reactions.
 
 * Supported lipid bilayer
@@ -24,8 +24,7 @@ charge density.
 
 ![alt text](../images/slb.png "supported lipid bilayer"){:width="600px"}
 
-Transport in nano-confined space
-======
+2. Transport in nano-confined space
 
 Mass transport in confined space underlies many processes such as desalination, DNA
 sequencing, and supercapacitor. Mass transport in nanochannels or nanoporous membranes is
@@ -42,8 +41,8 @@ immense that undermines the conventional continuum based transport theories.
 ![alt text](../images/poc.png "porous organic cage"){:width="600px"}
 
 
-Advanced electrolytes
-======
+3. Advanced electrolytes
+
 Advanced electrolytes are essential for next-generation energy storage devices, such as batteries, supercapacitors, solar cells, and fuel cells. Different electrolytes are needed for different application conditions. To make effective choice of electrolytes, or to achieve rationale design of electrolytes, call for a good understanding of the thermodynamics, transports, and kinetics of the electrolytes. Using molecular simulation and advanced molecular theories, I try to unviel the fundamental rules for different electrolytes, such as solid polymer electrolytes, polyelectrolytes, ionic liquid, and lithium salt electrolytes.
 
 * Soft polymer coating for lithium dendrite supression
@@ -56,7 +55,6 @@ Advanced electrolytes are essential for next-generation energy storage devices, 
 
 * Phase diagrams of solid block copolymer electrolytes
 
-Percolation in biological systems
-======
+4. Percolation in biological systems
 
 ![alt text](../images/jam.png "chromatic jamming"){:width="500px"}
