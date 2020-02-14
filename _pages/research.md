@@ -71,5 +71,5 @@ Advancements in material science and nanotechnology allow the fabrication of com
 4. Percolation in biological systems
 
     <p align="center">
-      <img width="500px" src="../images/jam.png">
+      <img width="400px" src="../images/jam.png">
     </p>
