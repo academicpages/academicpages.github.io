@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xian Kong / Molecular thermodynamics"
+title                    : "Xian Kong (孔宪)"
 title_separator          : "-"
 name                     : &name "Xian Kong"
 description              : &description "Molecular thermodynamics in the age of big data"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xian Kong"
-  avatar           : "profile.png"
+  avatar           : "profile.bmp"
   bio              : "PhD"
   location         : "Stanford University"
   employer         :
