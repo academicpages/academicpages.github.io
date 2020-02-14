@@ -35,6 +35,8 @@ immense that undermines the conventional continuum based transport theories.
 
 * Ion nanochannels
 
+![alt text](../images/go.png "graphene oxide channel"){:width="500px"}
+
 * Porous organic cages
 
 ![alt text](../images/poc.png "porous organic cage"){:width="600px"}
@@ -50,7 +52,7 @@ Advanced electrolytes are essential for next-generation energy storage devices, 
 
 * Solvation effects in liquid lithium electrolytes
 
-![alt text](../images/lisolvation.png "lithium solvation"){:width="600px"}
+![alt text](../images/lisolvation.png "lithium solvation"){:width="500px"}
 
 * Phase diagrams of solid block copolymer electrolytes
 
