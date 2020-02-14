@@ -28,10 +28,10 @@ title = ""
 for file in g:
     with open(file, 'r') as f:
         lines = f.read()
-        if lines.find('location: "') > 1:
-            loc_start = lines.find('location: "') + 11
+        if lines.find("location: ") > 1:
+            loc_start = lines.find('location: ') + 11
             lines_trim = lines[loc_start:]
-            loc_end = lines_trim.find('"')
+            loc_end = lines_trim.find('\'')
             location = lines_trim[:loc_end]
                             
            

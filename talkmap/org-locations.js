@@ -1,23 +1,18 @@
 var addressPoints = [
   [
-    "San Francisco, California",
-    37.7790262,
-    -122.4199061
+    "Chengdu, China",
+    30.6624205,
+    104.0633219
   ],
   [
-    "Salt Lake City, Utah",
+    "Beijing, China",
+    39.906217,
+    116.3912757
+  ],
+  [
+    "Salt Lake City, UT",
     40.7596198,
     -111.8867975
-  ],
-  [
-    "New Orleans, Louisiana",
-    29.9499323,
-    -90.0701156
-  ],
-  [
-    "Minneapolis, Minnesota",
-    44.9772995,
-    -93.2654692
   ],
   [
     "Singapore, Singapore",
@@ -25,13 +20,38 @@ var addressPoints = [
     103.8194992
   ],
   [
-    "Los Angeles, California",
+    "Shanghai, China",
+    31.2322758,
+    121.4692071
+  ],
+  [
+    "Los Angeles, CA",
     34.0536909,
     -118.2427666
   ],
   [
-    "Boston, Massachusetts",
+    "Boston, MA",
     42.3602534,
     -71.0582912
+  ],
+  [
+    "New Orleans, LA",
+    29.9499323,
+    -90.0701156
+  ],
+  [
+    "Minneapolis, MN",
+    44.9772995,
+    -93.2654692
+  ],
+  [
+    "San Francisco, CA",
+    45.3842702,
+    -73.995482
+  ],
+  [
+    "Xian, China",
+    34.3468421,
+    108.9365887
   ]
 ];
