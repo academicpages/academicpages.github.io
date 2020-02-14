@@ -83,11 +83,11 @@ author:
   name             : "Xian Kong"
   avatar           : "profile.bmp"
   bio              : "PhD"
-  location         : "Stanford University"
-  employer         :
+  location         : "California, USA"
+  employer         : "Stanford University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N6Q-HjwAAAAJ&hl=en"
-  email            :
+  email            : "xiankong@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xianshine"
+  github           : #"xianshine"
   google_plus      :
   keybase          :
   instagram        :
