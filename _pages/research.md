@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![alt text](images/systems.png "Summary of systems")
+
 Education
 ======
 * B.S. in Beijing, China, Tsinghua University, 2010
