@@ -22,7 +22,7 @@ Assembly on a surfaces are imperative and relevant in many applications. It usua
 The supported lipid bilayer (SLB) is usually prepared through such an assembly process. SLB has practical importance in many biomimetic technologies including drug delivery, biosensing, high-performance membranes, and biomedical apparatus. Previous SLB preparation usually entails self-assembly that allows little artificial intervention. I studied how to control the assembled SLB structure and the dynamics of the assembly process by controlling the substrate
 charge density.
 
-![alt text](../images/slb.png "supported lipid bilayer") {:width="60%"}
+![alt text](../images/slb.png "supported lipid bilayer") {:width="400px"}
 
 Transport in nano-confined space
 ======
