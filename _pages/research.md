@@ -11,8 +11,6 @@ redirect_from:
 
 Advancements in material science and nanotechnology allow the fabrication of complex microscopic devices with molecular design rule. As a chemical engineer, I am interested in understanding the rules and laws that underlie the behaviors and functions of various materials. My overall research goal is to achieve rationale functional material design based on fundamental knowledges of the structure-property-function relationship. Specifically, I use advanced molecular theory and simulation techniques to probe thermodynamic relationships relevant in diverse systems that include soft materials, electrolytes, and nano-materials. These thermodynamic relationships not only help us to understand the materials, but also allow us to control and to engineer materials as we need and even enable rational design of novel materials. Beyond simulation and theory, working closely with experimental collaborators is indispensable for me because it leads to validation, improvement, and application of theoretical results.
 
-!["Summary of systems studied"](../images/systems.png "Summary of systems"){:height="60%" width="60%"}
-
 <p align="center">
   <img width="60%" height="60%" src="../images/systems.png">
 </p>
@@ -25,6 +23,10 @@ Advancements in material science and nanotechnology allow the fabrication of com
 
     The supported lipid bilayer (SLB) is usually prepared through such an assembly process. SLB has practical importance in many biomimetic technologies including drug delivery, biosensing, high-performance membranes, and biomedical apparatus. Previous SLB preparation usually entails self-assembly that allows little artificial intervention. I studied how to control the assembled SLB structure and the dynamics of the assembly process by controlling the substrate
     charge density.
+
+    <p align="center">
+      <img width="600px" src="../images/slb.png">
+    </p>
 
     ![alt text](../images/slb.png "supported lipid bilayer"){:width="600px"}
 
