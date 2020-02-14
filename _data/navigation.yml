@@ -19,7 +19,7 @@ main:
     url: /talks/    
 
   - title: "^_^Hi"
-    url: ../_pages/talkmap.html
+    url: /talkmap.html
 
 #  - title: "Teaching"
 #    url: /teaching/    
