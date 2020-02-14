@@ -5,5 +5,6 @@ permalink: /talks/2011-01-01-Preparation-and-characterization-of-penicillin-acyl
 date: 2011-01-01
 venue: 'Presented at the Asian Congress on Biotechnology 2011, Shanghai, China'
 location: 'Shanghai, China'
+type: 'Conference talk'
 citation: ' Xian Kong,  Diannan Lu,  Zheng Liu, &quot;Preparation and characterization of penicillin acylase nanogel.&quot; Presented at the Asian Congress on Biotechnology 2011, Shanghai, China, 2011.'
 ---
