@@ -3,6 +3,7 @@ title: "A Theoretical Study on the Morphological Phase Diagram of Supported Lipi
 collection: talks
 permalink: /talks/2017-01-01-A-Theoretical-Study-on-the-Morphological-Phase-Diagram-of-Supported-Lipid-Bilayers
 date: 2017-01-01
-venue: 'Presented at Presented at the American Physical Society March Meeting, New Orleans, LA'
+venue: 'Presented at Presented at the American Physical Society March Meeting'
+location: "New Orleans, Louisiana"
 citation: ' Xian Kong,  Diannan Lu,  Zheng Liu,  Jianzhong Wu, &quot;A Theoretical Study on the Morphological Phase Diagram of Supported Lipid Bilayers.&quot; Presented at Presented at the American Physical Society March Meeting, New Orleans, LA, 2017.'
 ---
