@@ -29,7 +29,7 @@ fundamentally different from transport in bulk phase. In these systems with mole
 confinement, molecular interactions are dominant for mass transport and fluctuations becomes so
 immense that undermines the conventional continuum based transport theories.
 
-![alt text](../images/slb.png "supported lipid bilayer")
+![alt text](../images/poc.png "porous organic cage")
 
 
 
