@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuhong(Vickie) Chen"
 title_separator          : "-"
-name                     : &name "Yuhong(Vickie) Chen"
+name                     : &name "Yuhong(Vickie) Chen111"
 description              : &description "A passionate junior Computer Science-Mathematics (BS) Student at the University of California, San Diego with a can-do attitude, phenomenal time management skills, and a strong user focus. Founder of a student startup Smart Fridge. Recipient of the 2019-20 Physical Sciences Dean's Undergraduate Award for Excellence. Spotlight of UCSD 2019 Summer Research Conference. Five terms of provost honor. Seeking to leverage my technical and professional expertise in computer science and mathematics to learn and grow."
 url                      : https://yuc434.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
