@@ -8,8 +8,8 @@ author_profile: true
 
 ## Courses
  
- Name | Semester
- - | -
+Name | Semester
+ - | - 
 Digital Image Processing | S2 2019-2020
 
 
