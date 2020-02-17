@@ -5,7 +5,11 @@ author_profile: true
 ---
 ## 2020
 
-<b>[C10] Deep network-based feature selection for imaging genetics: Application to identifying biomarkers for Parkinson's disease</b> <br>
+<b>[C11] Identifying Hard-Tissue Conditions from Dental Images using Convolutional Neural Network (1-Page Abstract)</b> <br>
+Qing Sun, Zhi Huang, **Mansu Kim**, Anderson Hara, Gerardo Maupome, Li Shen*. <br>
+<i>The IEEE International Symposium on Biomedical Imaging, 2020.</i>
+
+<b>[C10] Deep network-based feature selection for imaging genetics: Application to identifying biomarkers for Parkinson's disease (4-Page Paper) </b> <br>
 **Mansu Kim**, Ji Hye Won, Jisu Hong, Junmo Kwon, Hyunjin Park, and Li Shen*. <br>
 <i>The IEEE International Symposium on Biomedical Imaging, 2020.</i>
 
