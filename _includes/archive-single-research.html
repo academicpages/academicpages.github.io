@@ -45,22 +45,6 @@
         <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
         {% endif %}
 
-        <p>
-        {% if post.pdf %}
-          [<a href="{{ post.pdf | prepend: "/files/" | prepend: base_path }}">PDF</a>]
-        {% endif %}
-        {% if post.supplement %}
-          [<a href="{{ post.supplement | prepend: "/files/" | prepend: base_path }}">Supplement</a>]
-        {% endif %}
-        {% if post.extended %}
-          [<a href="{{ post.extended | prepend: "/files/" | prepend: base_path }}">Extended Version</a>]
-        {% endif %}
-        {% if post.bibtex %}
-          [<a href="{{ post.bibtex | prepend: "/files/" | prepend: base_path }}">Bibtex</a>]
-        {% endif %}
-        </p>
-
-
     </div>
 
 </div>
