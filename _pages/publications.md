@@ -18,7 +18,7 @@ Improved Hypothesis Generation for Parallax-tolerant Image Stitching
 [Single-Perspective Warps in Natural Image Stitching](https://ieeexplore.ieee.org/abstract/document/8802274)      
 IEEE Transactions on Image Processing (TIP), 2019.     
 Accepted on 30 July 2019.       
-[Project page](https://tlliao.github.io/projects/2019-spw.html) - [Code](https://github.com/tlliao/Single-perspective-warps)
+[Project page](https://tlliao.github.io/projects/2019-spw) - [Code](https://github.com/tlliao/Single-perspective-warps)
 
 
 **Tianli Liao**, Jing Chen and Yifang Xu     
