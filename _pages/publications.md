@@ -37,7 +37,7 @@ Electronics Letters, 54(23), 1328-1330, 2018.
 Nan Li, **Tianli Liao** and Chao Wang     
 [Perception-based seam cutting for image stitching](https://link.springer.com/article/10.1007/s11760-018-1241-9)      
 Signal, Image and Video Processing (SIViP), 12(5), 967-974, 2018.      
-[Project page](https://tlliao.github.io/projects/2018-pbsc.html) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
+[Project page](https://tlliao.github.io/projects/2018-pbsc) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
 
 
 
