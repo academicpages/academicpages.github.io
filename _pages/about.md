@@ -28,7 +28,7 @@ Here is my [CV](tlliao.github.io/files/cv_ltl.pdf) and [contact information](#co
 
 ## Research
 
-I actively conduct research in computer vision. Visit my [research](https://tlliao.github.io/research/) page for more information.
+I actively conduct research in computer vision and image processing. Visit my [publications](https://tlliao.github.io/publications/) page for more information.
 
 
 ## <span id="contact information">Contact information</span>
