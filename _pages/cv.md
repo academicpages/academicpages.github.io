@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-
+* Item 1
+    * Item 1a
+        * Item 1aa
 Work experience
 ======
 
