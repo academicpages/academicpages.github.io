@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: <center>Hey, You Genius</center>
+title: <center>HI, THE WORLD OF DATA AND SCIENCE</center>
 header:
   overlay_color: "#5e616c"
   overlay_image: ../images/mm-home-page-feature.gif
