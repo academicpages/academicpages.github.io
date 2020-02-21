@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,6 +14,7 @@ Education
 * Item 1
     * Item 1a
         * Item 1aa
+
 Work experience
 ======
 
