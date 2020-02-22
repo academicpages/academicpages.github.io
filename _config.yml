@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Profile"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Chanda Grover"
 description              : &description "personal description"
