@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science, Maharishi Dayanand University, 2012
-* M.Tech. in Computer Science, Banasthali Vidyapith, 2014
 * Ph.D in Machine Learning, Ashoka University, 2022 (expected)
+* M.Tech. in Computer Science, Banasthali Vidyapith, 2014
+* B.Tech. in Computer Science, Maharishi Dayanand University, 2012
+
 
 Work experience
 ======
@@ -31,24 +32,10 @@ Skills
 ======
 * Python
 * SAS
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Shell scripting
+ * Shell scripting
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Teaching Assistantship
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
