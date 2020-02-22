@@ -13,7 +13,7 @@ name                     : &name "Chanda Grover"
 description              : &description "personal description"
 url                      : https://chandagrover.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chanagrover/chandagrover.github.io"
+repository               : "chandagrover/chandagrover.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chanda Grover"
   avatar           : "profile.png"
-  bio              : "I am 2nd Year Ph.D. student in the Department of Computer Science at Ashoka University, Sonepat. I am working under the supervision of Professor Ravi Kothari in the area of Artificial Intelligence and Machine Learning. I am broadly interested in exploring the methods for transferring knowledge from one domain to other through deep learning methods using knowledge graph. "
-  location         : "Location"
+  bio              : "CS Ph.D. student @ Ashoka University"
+  location         : "India"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "chandagrover6@gmail.com"
+  email            : "chanda.grover_phd19@ashoka.edu.in"
   researchgate     : "https://www.researchgate.net/profile/Chanda_Grover"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/chandagrover6"
+  twitter          : "chandagrover6"
   vine             :
   weibo            :
   xing             :
