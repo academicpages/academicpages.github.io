@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science, Maharishi Dayanand University, 2012
+* M.Tech. in Computer Science, Banasthali Vidyapith, 2014
+* Ph.D in Machine Learning, Ashoka University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2017- Jan 2019: Research Fellow
+  * IIT Gandhinagar
+  * Duties included: Teaching Assistantship
+  * Supervisor: Associate Professor Dinesh Garg
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2014 - Jul 2017: Data Analyst
+  * Tata Consultancy Services, New Delhi
+  * Duties included: Data Mining and Reporting
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Python
+* SAS
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Shell scripting
 
 Publications
 ======
@@ -54,6 +54,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
