@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/2014-spring-teaching-1
+permalink: /Teaching-Assistantship
 ---
 
 
