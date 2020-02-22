@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## ["CV"](https://drive.google.com/open?id=1d05goHumGZ-IbDmj-Zil8TC-irB8hVBR)
+## ["CV"](https://drive.google.com/file/d/1I0RBWmEU1rZxGxI7Ln_0OZfpadBU7en7/view?usp=sharing)
 
 Education
 ======
