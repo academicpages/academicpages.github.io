@@ -5,9 +5,8 @@ permalink: /teaching/2015-spring-teaching-1
 
 
 <OL>
-      <LH>IIT Gandhinagar</LH>
+      <LH>**IIT Gandhinagar**</LH>
       <LI>Python
       <LI>[Operating System](https://nipunbatra.github.io/teaching/os-fall-18/index.html)
-      
-    </OL>
+</OL>
 
