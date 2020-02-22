@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Teaching Assistantship"
+permalink: /teaching/
+---
+
 ### Ashoka University
   1. [Advance Machine Learning](https://sites.google.com/a/ashoka.edu.in/advance-machine-learning/system/app/pages/sitemap/hierarchy) (Spring 2020)
   2. Introduction to Machine Learning (Monsoon 2019)
