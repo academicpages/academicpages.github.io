@@ -1,22 +1,14 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Teaching Assistantship"
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Ashka University, Computer Science "
-date: Feb 20, 2020
-location: "City, Country"
+venue: "Ashoka University, Computer Science "
+location: "Sonepat, India"
 ---
 
 
 Intro to Machine Learning at Ashoka University
-======
 
-Advance Machine Learning at Ashoka University
-======
 
-Operating System at IIT Gandhinagar
-======
+[Advance Machine Learning at Ashoka University](https://sites.google.com/a/ashoka.edu.in/advance-machine-learning/system/app/pages/sitemap/hierarchy)
 
-Python at IIT Gandhinagar
-======
