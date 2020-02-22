@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
+title: "Teaching Assistantship"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "IIT Gandhinagar, Computer Science"
+location: "Gandhinagar, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+Python
 
-Heading 2
-======
-
-Heading 3
-======
+Operating System
