@@ -35,7 +35,7 @@ Skills
  * Shell scripting
 
   
-Projects
+Teaching Assistantship
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
