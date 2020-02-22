@@ -12,11 +12,14 @@ I am a 2nd year Ph.D. student in the [Computer Science Department](https://www.a
 
 ## Interests: Representation Learning, Generative Models and Transfer Learning.
 
-# Experience:
+# Work Experience:
+
    . Research Fellow at IIT Gandhinagar.
    
    . Data Analyst at Tata Consultancy Services, Delhi.
-   
+
+# Education:
+
    . M.Tech in Computer Science from Banasthali Vidyapith (Research Intern at C-DAC, Noida).
    
    . B.Tech in Computer Science from Maharishi Dayanand University.
