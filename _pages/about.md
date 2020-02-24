@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi... I am a 2nd year Ph.D. student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/). I am working under the supervision of [Professor Ravi Kothari](https://www.ashoka.edu.in/faculty#!/ravi-kothari-720) in the area of Artificial Intelligence and Machine Learning. I am broadly interested in exploring the methods for transferring knowledge from one domain to other through deep learning methods using knowledge graph. 
-### Interests: Representation Learning, Generative Models and Transfer Learning.
+Hi... I am a 2nd year Ph.D. student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/). I am working under the supervision of [Professor Ravi Kothari](https://www.ashoka.edu.in/faculty#!/ravi-kothari-720) in the area of Artificial Intelligence and Machine Learning. 
+
+### Research Interests: Representation Learning, Generative Models and Transfer Learning.
 
 ### Work Experience:
    . Research Fellow at IIT Gandhinagar.
