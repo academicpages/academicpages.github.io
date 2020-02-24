@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Life Science Informatics student at the University of Bonn, Germany. My research interests are Machine Learning and Computational Neuroscience. I am interested in interpretable predictions using Machine Learning in Neuroscience. 
+I am currently a Life Science Informatics student at the University of Bonn, Germany. My research interests lie at the intersection of Machine Learning and Computational Neuroscience.  In the future, I want to contribute towards enhancing the mechanistic interpretability of neural responses to disease states and communicate findings with a wide audience even outside academia. 
+
+Apart from my academic interests, I enjoy getting to know new people and perspectives. In my free time I like to read popular Science books and dance. 
+
