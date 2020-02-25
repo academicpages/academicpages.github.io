@@ -177,7 +177,7 @@ ___
 
 Personal
 ======
-I've been snowboarding for 6 years and training Brazilian Jiu-jitsu (柔術) for 7 years.<br/>
+I've been snowboarding since 2014 and training Brazilian Jiu-jitsu (柔術) since 2013.<br/>
 I also love traveling, climbing, hiking and many other outdoor activities.<br/>
 I cook when I'm homesick.<br/>
 I have a beagle and her name is Bagel.<br/>
