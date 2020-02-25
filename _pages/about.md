@@ -20,6 +20,7 @@ I'm looking for the internship opportunities at 2020 Summer.
 
 News
 ======
+* [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
 * [2020/01/15] &nbsp; I give a talk at Sichuan University.
 * [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
 * [2019/09/24] &nbsp; The slides of BTAS 2019 Face Anti-Spoofing Tutorial can be download here [[Session 1](https://drive.google.com/open?id=1A_4pMeOJbnWE4leAfK8v7w9Bb1RnUxRq), [Session 2](https://drive.google.com/open?id=12-R-xE4gksWWUnq1nRIus6VKQnScRBiR), [Session 3](https://drive.google.com/open?id=1B_mFgTH5wRw9eY0L6kGFR0h8Hgib5gwi)].
