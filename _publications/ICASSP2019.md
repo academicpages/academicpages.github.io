@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ICASSP2019
 venue: "ICASSP 2019 IEEE International Conference on Acoustics, Speech and Signal Processing"
 date: 2019-05-04
-citation: '<b>Lantao Yu</b>, Michael Orchard. <b>ICIP 2018.</b>'
+citation: '<b>Lantao Yu</b>, Michael Orchard. <b>ICASSP 2019.</b>'
 ---
 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8682362)
