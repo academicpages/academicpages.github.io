@@ -30,5 +30,5 @@ author_profile: true
 
 <br>
 <b>[Blind Multi-spectral Image Pan-sharpening](http://complexfilter.github.io/publications/ICASSP2020)</b> <br> 
-<b>Lantao Yu</b>, Dehong Liu, Hassan Mansour, Petros T. Boufounos and Yanting Ma
+<b>Lantao Yu</b>, Dehong Liu, Hassan Mansour, Petros T. Boufounos and Yanting Ma.
 <i>The 46th International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2020</b>.
