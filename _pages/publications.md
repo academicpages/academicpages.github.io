@@ -16,7 +16,7 @@ author_profile: true
 <br>
 <b>[Single Image Interpolation Exploiting Semi-local Similarity](http://complexfilter.github.io/publications/ICASSP2019)</b> <br> 
 <b>Lantao Yu</b>, Michael Orchard.
-<i>The 45th International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2019</b>.
+<i>The 45th International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2019</b>.  <span style="color:red">(Oral)</span>
 
 <br>
 <b>[Accurate Edge Location Identification Based on Location-Directed Image Modeling](http://complexfilter.github.io/publications/ICIP2019A)</b> <br> 
@@ -26,9 +26,9 @@ author_profile: true
 <br>
 <b>[When Spatially-Variant Filtering Meets Low-Rank Regularization: Exploiting Non-Local Similarity for Single Image Interpolation](http://complexfilter.github.io/publications/ICIP2019B)</b> <br> 
 <b>Lantao Yu</b>, Michael Orchard.
-<i>The 26th International Conference on Image Processing</i>. <b>ICIP 2019</b>.
+<i>The 26th International Conference on Image Processing</i>. <b>ICIP 2019</b>.  <span style="color:red">(Oral)</span>
 
 <br>
 <b>[Blind Multi-spectral Image Pan-sharpening](http://complexfilter.github.io/publications/ICASSP2020)</b> <br> 
 <b>Lantao Yu</b>, Dehong Liu, Hassan Mansour, Petros T. Boufounos and Yanting Ma.
-<i>The 46th International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2020</b>.
+<i>The 46th International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2020</b>.  <span style="color:red">(Oral)</span>
