@@ -7,7 +7,7 @@ author_profile: true
 
 <b>[C15] Imaging genetic strategies for predicting the quality of sleep using depression-specific biomarkers </b> <br>
 **Mansu Kim**, Xiaohui Yao, Bo-yong Park, Jingwen Yan, Li Shen*. <br>
-<i>, 2020.</i>
+<i>Annual meeting of the organization for human brain mapping, 2020.</i>
 
 <b>[C14] Identifying Hard-Tissue Conditions from Dental Images using Convolutional Neural Network </b> <br>
 Qing Sun, Zhi Huang, **Mansu Kim**, Anderson Hara, Gerardo Maupome, Li Shen*. <br>
