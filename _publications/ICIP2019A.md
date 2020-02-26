@@ -1,7 +1,7 @@
 ---
 title: "Accurate Edge Location Identification Based on Location-Directed Image Modeling"
 collection: publications
-permalink: /publications/IABF
+permalink: /publications/ICIP2019A
 venue: "2019 IEEE International Conference on Image Processing (ICIP)"
 date: 2019-09-25
 citation: '<b>Lantao Yu</b>, Michael Orchard. <i>ICIP 2019.</i>'
