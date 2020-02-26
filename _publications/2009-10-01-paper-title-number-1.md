@@ -2,7 +2,6 @@
 title: "Location-directed image modeling and its application to image interpolation"
 collection: publications
 permalink: /publication/location-interp
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-10-25
 venue: '2018 25th IEEE International Conference on Image Processing (ICIP)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
