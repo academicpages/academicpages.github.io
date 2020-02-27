@@ -1,6 +1,6 @@
 ---
 title: 'A few minds of evolution and popgen'
-date: 2020-02-27
+date: 2020-02-01
 permalink: /posts/
 
 
