@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'A few minds of evolution and popgen'
+date: 2020-02-27
+permalink: /posts/reading _notes.md
 tags:
   - cool posts
   - category1
