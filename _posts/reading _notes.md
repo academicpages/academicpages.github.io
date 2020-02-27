@@ -3,18 +3,8 @@ title: 'A few minds of evolution and popgen'
 date: 2020-02-27
 permalink: /posts/reading _notes.md
 tags:
-  - cool posts
-  - category1
-  - category2
+  - notes
+  - popgen
+  - evolution
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+The optimzation theory focus on the expected avereage phenotype,and thus give little attention either to the expected phenotypic variance or the non-adpative evolutionary change caused by forces such as random drift or notation. 
