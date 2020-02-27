@@ -1,8 +1,7 @@
 ---
 title: 'A few minds of evolution and popgen'
 date: 2020-02-27
-permalink: /posts/2020/02/
-
+permalink: /posts/2020/02/blog-post-1/
 
 
 
