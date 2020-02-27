@@ -8,9 +8,3 @@ tags:
   - Tech
 ---
 1. double quote: `` "
-
-
----
-title: 'Multi-Agent Reinforcement Learning Paper Lists'
-date: 2017-06-05
-permalink: /posts/2017/06/marl-papers/
