@@ -1,5 +1,5 @@
 ---
-title: 'LaTeX Cheet Sheet.md'
+title: 'LaTeX Cheet Sheet'
 date: 2020-02-26
 permalink: /posts/2020/02/latex-cheet-sheet/
 tags:
