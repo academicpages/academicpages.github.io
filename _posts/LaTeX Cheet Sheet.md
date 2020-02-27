@@ -1,6 +1,6 @@
 ---
 title: 'LaTeX Cheet Sheet.md'
-date: 2199-01-01
+date: 2020-02-26
 permalink: /posts/latex_cheet_sheet.md
 tags:
   - LaTeX
