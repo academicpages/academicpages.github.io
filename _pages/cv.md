@@ -29,7 +29,7 @@ Skills
   * German (B2)
 * Programming Skills
   * MATLAB, LaTeX (Advanced)
-  * Python, PyTorch (Intermediate)
+  * Python, PyTorch, AWS, Git (Intermediate)
   * C, C++, Keras, VHDL, Arduino (Beginner)
   
 Achievements
