@@ -12,14 +12,15 @@ Jing Chen, Nan Li and **Tianli Liao**
 Improved Hypothesis Generation for Parallax-tolerant Image Stitching      
 [Arxiv Preprint](https://arxiv.org/abs/1804.07492)
 
-## 2019
+## 2020
 
 **Tianli Liao** and Nan Li     
 [Single-Perspective Warps in Natural Image Stitching](https://ieeexplore.ieee.org/abstract/document/8802274)      
-IEEE Transactions on Image Processing (TIP), 2019.     
-Accepted on 30 July 2019.       
-[Project page](https://tlliao.github.io/projects/2019-spw) - [Code](https://github.com/tlliao/Single-perspective-warps)
+IEEE Transactions on Image Processing (TIP), 29, 724-735, 2020.           
+[Project page](https://tlliao.github.io/projects/2020-spw) - [Code](https://github.com/tlliao/Single-perspective-warps)
 
+
+## 2019
 
 **Tianli Liao**, Jing Chen and Yifang Xu     
 [Quality evaluation-based seam estimation for image stitching](https://link.springer.com/article/10.1007/s11760-019-01466-9)       
