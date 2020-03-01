@@ -3,7 +3,7 @@ title: "Deep Learning (263-3210-00L)"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2019-fall-teaching-2
-venue: "ETH Zurich, D-INFK"
+venue: "Computer Science Department, ETH Zurich"
 date: 2019-09-09
 location: "Zurich, Switerland"
 ---

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yeyao Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm currently a PhD student at [Computer Graphics Lab (CGL)](https://cgl.ethz.ch/), ETH Zurich, under the supervision of Prof. Dr. Markus Gross. In 2018 I received my M.Sc degree in Computer Science at [ETH Zurich](https://inf.ethz.ch/). My B.Sc degree of Computer Science was received in 2015 at [Dalian University of Technology](https://en.dlut.edu.cn/).
+Hi there! I'm currently a PhD student at [Computer Graphics Lab (CGL), ETH Zurich](https://cgl.ethz.ch/), under the supervision of [Prof. Dr. Markus Gross](https://graphics.ethz.ch/people/grossm/). In 2018 I received my M.Sc degree in Computer Science at [ETH Zurich](https://inf.ethz.ch/). My B.Sc degree of Computer Science was received in 2015 at [Dalian University of Technology](https://en.dlut.edu.cn/).
+
+My research interest focus on the Optimization of keywords & interests bidding process in online Ads platforms (e.g, Google Ads/ FB Ads), and online Ads slogan & Visual Layout Generation. The topics range from Natural Language Understanding, Recommender Systems, and Generative Models.
+
+In my spare time, I love cooking, hiking, and reading :)
 
 [Resume/ CV (as of Nov 2019)](http://polybahn.github.io/files/CV-yeyao.pdf)
 
