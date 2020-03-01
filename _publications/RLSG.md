@@ -6,6 +6,7 @@ venue: "AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop
 date: 2017-11-12
 citation: '<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop</i>.'
 ---  
+
 [[PDF]](https://lantaoyu.github.io/files/rlforsg.pdf)
 
 ## Abstract
