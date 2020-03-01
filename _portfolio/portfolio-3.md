@@ -1,6 +1,6 @@
 ---
 title: "Hdmap-localization"
-excerpt: "The autonomous driving localization system based on hdmap <br/><img src='/images/hdmap_localization.png'> <br/><img src='/images/hdmap_localization_2.png'>"
+excerpt: "The autonomous driving localization system based on hdmap <br/><img src='/images/hdmap_localization.png'>"
 collection: portfolio
 ---
 
