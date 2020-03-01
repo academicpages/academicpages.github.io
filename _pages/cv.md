@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Dalian University of Technology, 2015
+* M.S. in Computer Science, ETH Zurich, 2018
+* Ph.D in Recommender Systems/ Natural Language Understanding, ETH Zurich, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar.2018 - Sept.2018: ML/NLP Engineer
+  * Disney Research Zurich (DRZ)
+  * Duties included: worked for the NLP component in project CARDINAL, an internal platform dedicated to automatically transforming screenplays into pre-visualizations. CARDINAL has been nominated for the Best of Disney Award in the year of 2018.
+  * Supervisor: Ashutosh Modi, Sasha A. Schriber, and Markus Gross
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul.2017 - Jan.2018: Machine Learning Engineer
+  * 1plusX
+  * Optimization of User Profiling in online Ads context with NLP and Machine Learning. Prototyping and experimentation of different neural models using Tensorflow and Spark ML. Contribute production-quality Scala and Python code. Routinely processing large amounts of data using Amazon Web Services (AWS).
+  * Supervisor: Young-Jun Ko, and Hastagiri Vanchinathan
+
+* May.2016 - Jul.2017: NLP Research Assistant
+  * D-MTEC, ETH Zurich
+  * Crawl, Clean, Analyze Open stack data based on Blueprints using deep learning.
+  * Supervisor: Yash Raj Shrestha
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Natural Language Understanding
+  * Text Simplification
+  * Coreference Resolution
+  * Descrete Generative Models
+* Recommender Systems + Knowledge Graph
 
 Publications
 ======
@@ -42,11 +48,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -54,6 +60,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
