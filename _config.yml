@@ -68,7 +68,6 @@ author:
   email            : "opk20@cam.ac.uk"
   uri              :
   angellist        : "onno-kampman"
-  bitbucket        :
   codepen          :
   github           : "OnnoKampman"
   gitlab           :
@@ -195,7 +194,7 @@ permalink: /:categories/:title/
 timezone: Europe/London
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
