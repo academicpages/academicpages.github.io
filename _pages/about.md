@@ -10,11 +10,13 @@ redirect_from:
 
 I am a second year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback. Before that, I have worked under the supervision of [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on network estimation.
 
-# Papers
+# Papers and softwares
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp. [Arxiv](https://arxiv.org/abs/1902.10605)
 
 **Link Prediction in the Stochastic Block Model with Outliers**, S. Gaucher, O. Klopp, G. Robin. [Arxiv](https://arxiv.org/abs/1911.13122)
+
+R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020). Estimation of pobabilities of connections in the Stochastic Block Model with Outliers. The method also detects outlier nodes.
 
 # Talks
 
