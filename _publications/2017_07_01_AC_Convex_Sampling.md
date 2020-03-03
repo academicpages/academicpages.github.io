@@ -2,7 +2,7 @@
 title: "A Sampling Theorem for Convex Shapes with Algebraic Boundaries"
 collection: publications
 permalink: /publication/2017_07_01_AC_Convex_Sampling
-excerpt: 'This paper is about designing Toeplitz measurement matrices based on Weyl sums.'
+excerpt: 'In this paper we present a sampling result about continuous-domain black and white images that form a convex shape.'
 date: 2017-10-01
 venue: 'International Conference on Sampling Theory and Applications (SampTA)'
 ---
