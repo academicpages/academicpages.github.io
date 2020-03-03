@@ -1,5 +1,5 @@
 ---
-title: Posterior Image Inpainting, Part I: Review of Recent Work
+title: Posterior Image Inpainting, Part I -  Review of Recent Work
 comments: true
 mathjax: true
 ---
@@ -35,7 +35,7 @@ As soon as deep generative models such as VAEs and GANs started producing visual
 
 While this procedure is guaranteed to converge to a local minimum, this paper doesn't provide a recipe to either escape these minima or try to draw a range of samples. That's beside the point, though, since the main contribution of this paper was simply to show how to get a single inpainted completion at all.
 
-It's a shame that the author's didn't report on any results with injected noise in step #3 above (e.g. using an update rule $$\hat{z}_{t+1}=\hat{z}_t + \alpha\nabla_\hat{z}L +\epsilon$$ with $\epsilon$ drawn from an isotropic Gaussian) since this very nearly turns it into a [Langevin sampler](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm) which I suspect would be a highly effect sampling scheme for this problem.
+It's a shame that the author's didn't report on any results with injected noise in step #3 above (e.g. using an update rule $$\hat{z}_{t+1}=\hat{z}_t + \alpha\nabla_\hat{z}L +\epsilon$$ with $\epsilon$ drawn from an isotropic Gaussian) since this very nearly turns it into a [Langevin sampler](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm) which I suspect would be a highly effective sampling scheme for this problem.
 
 There's an application paper by [Dupont et al. 2018](Generating Realistic Geology Conditioned on Physical Measurements with Generative Adversarial Networks) which is nearly the exact same method used by Yeh et al. save with a minor modification to a mask applied to the loss function. As the authors of this paper noted:
 
