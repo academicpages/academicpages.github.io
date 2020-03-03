@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV/Bio"
-    url: /cv/
+    url: /files/lantaoyu_cv.pdf
 
   - title: "Publications"
     url: /publications/
@@ -9,8 +9,8 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -18,8 +18,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  # - title: "Blogs"
+  #   url: /year-archive/
     
   - title: "Contact"
     url: /contact/  
