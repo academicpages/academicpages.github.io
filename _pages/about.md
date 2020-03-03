@@ -16,7 +16,7 @@ I am a second year PhD student at the Laboratoire de Mathématiques d'Orsay. I w
 
 **Link Prediction in the Stochastic Block Model with Outliers**, S. Gaucher, O. Klopp, G. Robin. [Arxiv](https://arxiv.org/abs/1911.13122)
 
-R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020). Estimation of pobabilities of connections in the Stochastic Block Model with Outliers. The method also detects outlier nodes.
+R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020). Estimation of probabilities of connections in the Generalized Stochastic Block Model. The method also detects outlier nodes.
 
 # Talks
 
