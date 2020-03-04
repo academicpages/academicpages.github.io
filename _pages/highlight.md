@@ -10,7 +10,7 @@ date: 2020-03-04
 
 
 feature_row1:
-  - image_path: ../images/images/highlight-image-01.png
+  - image_path: ../images/highlight-image-01.png
     alt: "OH trend"
     title: "Atmospheric oxidising capability"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
