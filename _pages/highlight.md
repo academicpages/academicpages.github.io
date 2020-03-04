@@ -13,7 +13,7 @@ feature_row1:
   - image_path: ../images/highlight-image-01.png
     alt: "OH trend"
     title: "Atmospheric oxidising capability"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'The hydroxyl radical ([OH](https://en.wikipedia.org/wiki/Hydroxyl_radical)) is a highly reactive constituent of the atmosphere. It is thought to be the "detergent" of the troposphere because it reacts with many pollutants and greenhouse gases like methane and ozone. As such, it has a big impact on global climate. Our latest study from the AerChemMIP joint analysis shows that the global OH changed little from 1850 up to around 1980, then increased by around 10 %, with an associated reduction in methane lifetime. However, this seems to be contradicating those derived from inversions of methyl chloroform measurement. '
     url: "https://www.atmos-chem-phys-discuss.net/acp-2019-1219/"
     btn_label: "Read More"
     btn_class: "btn--primary"
