@@ -1,6 +1,5 @@
 ---
 layout: archive
-# title: <center>Publications</center>
 permalink: /publications/
 author_profile: false
 sidebar:
