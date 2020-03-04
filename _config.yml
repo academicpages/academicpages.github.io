@@ -124,8 +124,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -133,9 +133,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alcide-Zhao"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/alcide.zhao/?hl=en"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+     # url: "https://www.instagram.com/alcide.zhao/?hl=en"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en"
