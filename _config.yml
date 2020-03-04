@@ -119,8 +119,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  UnivPage         :
-  SAGES            : "http://www.sages.ac.uk/people/alcide-zhao/"
+  RG               : "https://fortawesome.github.io/Font-Awesome/icons/"
 
 # Site Footer
 footer:
@@ -137,7 +136,16 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/alcide.zhao/?hl=en"
-
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-8300-5872"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Alcide_Zhao"     
+      
 # Reading Files
 include:
   - .htaccess
