@@ -16,7 +16,7 @@ Some quick reference on Markdown syntax can be found [here](https://www.markdown
 {: .text-justify}
 
  <p align="center">
-  <img src="https://alcide-zhao.github.io/blob/master/images/Coding-mainpage.png?raw=true" alt="Coding"/>
+  <img src="https://alcide-zhao.github.io/master/images/Coding-mainpage.png?raw=true" alt="Coding"/>
 </p>
 &nbsp;
 
