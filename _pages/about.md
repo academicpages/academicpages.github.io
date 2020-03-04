@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-I’m a Max Weber Postdoctoral Fellow at the European University Institute. Previously, I earned a Ph.D. in Sociology at Cornell University, where I worked with Kim Weeden (chair), Kendra Bischoff, Martin Wells, Vida Maralani, and Michael Macy. I study labor market inequalities, intergenerational mobility and beliefs about inequality using a combination of statistical modeling, empirical strategies for causal inference, experimental and computational methods.
+I’m an Assistant Professor in Sociology at the Universidad Católica de Chile. Previously, I was a Max Weber Postdoctoral Fellow at the European University Institute and earned a Ph.D. in Sociology at Cornell University. I study labor market inequalities, intergenerational mobility and beliefs about inequality using a combination of statistical modeling, empirical strategies for causal inference, experimental and computational methods.
 
 Research
 ======
