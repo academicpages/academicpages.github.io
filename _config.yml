@@ -92,14 +92,16 @@ author:
   bio              : "Postdocotoral associate in climate modelling and analysis at The University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en"
   email            : "Alcide.Zhao@ed.ac.uk"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=-H85oHsAAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Alcide_Zhao"
+  orcid            : "https://orcid.org/0000-0002-8300-5872"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "alcide.zhao"
+  facebook         : 
   foursquare       :
   github           : "alcide-zhao"
   google_plus      :
@@ -107,7 +109,6 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "alcide-zhao-a6a91288"
-  orcid            : "https://orcid.org/0000-0002-8300-5872"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -119,7 +120,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchgate     : https://www.researchgate.net/profile/Alcide_Zhao
 
 # Site Footer
 footer:
@@ -127,9 +127,9 @@ footer:
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/alcide.zhao"
+    #- label: "Facebook"
+     # icon: "fab fa-fw fa-facebook-square"
+     # url: "https://www.facebook.com/alcide.zhao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alcide-Zhao"
@@ -142,7 +142,7 @@ footer:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-8300-5872"
-    - label: "ResearchGate"
+    - label: "Research Gate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Alcide_Zhao"     
       
