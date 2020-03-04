@@ -103,7 +103,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+<<<<<<< HEAD
   twitter          : "@mebucca"
+=======
+  twitter          : 
+>>>>>>> c97903f3d84381899919a0a70d291c175f86d797
   vine             :
   weibo            :
   xing             :

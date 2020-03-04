@@ -13,15 +13,13 @@ main:
   #- title: "Code"
   #  url: /code/    
 
-   - title: "Teaching"
-     url: /teaching/   
-     
-     
+  - title: "Teaching"
+    url: /teaching/   
+      
   - title: "CV"
     url: /cv/
     
-    
-  # - title: "Portfolio"
+   # - title: "Portfolio"
   #   url: /portfolio/
         
   #- title: "Blogs"
