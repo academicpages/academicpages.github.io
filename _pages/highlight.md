@@ -1,13 +1,9 @@
 ---
-title: "Splash Page"
 layout: splash
 permalink: /highlight/
 author_profile: false
-sidebar:
-  nav: "sidenav"
 toc: true
 date: 2020-03-04
-
 
 feature_row1:
   - image_path: ../images/highlight-image-01.png
@@ -16,7 +12,7 @@ feature_row1:
     excerpt: 'The hydroxyl radical ([OH](https://en.wikipedia.org/wiki/Hydroxyl_radical)) is a highly reactive constituent of the atmosphere. It is thought to be the "detergent" of the troposphere because it reacts with many pollutants and greenhouse gases. As such, it has a big impact on global climate. We found, from the AerChemMIP joint analysis, that the global OH changed little from 1850 to around 1980, then increased by around 10 %, with an associated reduction in methane lifetime. However, this seems to be contradicating those (uncertain) measurement-based trends. Major drivers of OH trends are emissions of CH4, NOx and CO; these will be important for future CH4 trends.'
     url: "https://www.atmos-chem-phys-discuss.net/acp-2019-1219/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
