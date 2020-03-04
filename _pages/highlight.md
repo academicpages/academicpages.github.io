@@ -14,13 +14,13 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+  - image_path: ../images/highlight-image-02.png
+    alt: "Equilibrium climate change"
+    title: "Majority of climate change is yet to be seen"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+    url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JD030769"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
