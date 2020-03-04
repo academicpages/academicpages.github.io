@@ -24,7 +24,7 @@ feature_row2:
 feature_row3:
   - image_path: ../images/highlight-image-03.png
     alt: "Heatwaves and aerosol particles"
-    title: "Boiled ot choked?"
+    title: "Boiled or choked?"
     excerpt: 'There will be more severe heatwaves (in terms of intensity, duration, and frequency) in the coming decades  These changes are mainly associated with greenhouse gas increases. However, anthropogenic aerosol changes have important influences, through their effects on clouds and radiation, and produce larger impacts comparing to greenhouse gases per unit of warming. Effects of aerosols on clouds such as changes in cloudiness and other rapid adjustments (e.g., changes in vertical temperature profiles), however, are still poorly represented in present generation climate models, leading to large uncertainties in future heatwave projections. Therefore, we call the attention of the community to prioritize efforts into reducing uncertainties involved in aerosol‐cloud interactions, in order to get reliable projections of future climate extremes, as well as effective strategies for climate risk management.'
     url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL082269"
     btn_label: "Read More"
