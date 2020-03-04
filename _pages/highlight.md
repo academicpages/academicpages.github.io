@@ -17,7 +17,7 @@ feature_row2:
   - image_path: ../images/highlight-image-02.png
     alt: "Equilibrium climate change"
     title: "Majority of climate change is yet to be seen"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'Would it shock you to know the global mean warming will be inevitably doubled even if we take actions immediately? I am I exaggerating? and why? Well, the thing is that the climate system, especially the vast ocean, takes long time (~ hundreds of years) to responde to external pertubation. That is, the climate change signals we have seen to date are only addicatives of the transient response to past emission changes. If we allow the whole climate system to asjust after hundreds of years, we will eventually see more warming emerging over time. We used a climate model and found that the global mean warming and precipitation change in response to 1970-2010 emission changes will double the current values, once in equilibrium. '
     url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JD030769"
     btn_label: "Read More"
     btn_class: "btn--info"
