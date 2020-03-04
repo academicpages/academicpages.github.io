@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: <center>HEYYY, DATA & SCIENCE</center>
+title: <center>HEY, DATA & SCIENCE</center>
 header:
   overlay_color: "#5e616c"
   overlay_image: ../images/mm-home-page-feature.gif
