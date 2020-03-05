@@ -2,7 +2,6 @@
 layout: single
 permalink: /resources/
 author_profile: false
-title: <center>DATA, MATERIALS, TOOLS, SOFTWARES & APPLICATIONS
 sidebar:
   nav: "sidenav"
 toc: true
