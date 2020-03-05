@@ -3,8 +3,8 @@ main:
   - title: "   About me  "
     url: /cv/
     
-  - title: "Highlight"
-    url: /highlight/
+  - title: "Spotlight"
+    url: /spotlight/
     
   - title: "   Publications   "
     url: /publications/
@@ -12,7 +12,7 @@ main:
   - title: "   Coding   "
     url: /coding/  
     
-  - title: "Posts"
+  - title: "Blog posts"
     url: /posts/ 
     
   - title: "   Resources   "
