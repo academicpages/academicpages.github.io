@@ -41,11 +41,12 @@ Signal, Image and Video Processing (SIViP), 12(5), 967-974, 2018.
 [Project page](https://tlliao.github.io/projects/2018-pbsc) - [Code](https://github.com/tlliao/Perception-based-seam-cutting)
 
 
+------
 
 <br>
 
-<a Visitors: ><img src="https://www.easycounter.com/counter.php?lincoln_homepage"
-border="0" alt="Free Web Counter"></a>
+<p>Visitors: <img src="https://www.easycounter.com/counter.php?lincoln_homepage"
+border="0" alt="Free Web Counter"></p>
 
 
 
