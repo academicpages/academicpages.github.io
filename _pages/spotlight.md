@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /highlight/
+permalink: /spotlight/
 author_profile: false
 toc: true
 date: 2020-03-04
