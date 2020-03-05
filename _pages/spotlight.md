@@ -1,9 +1,12 @@
 ---
-layout: splash
+layout: single
 permalink: /spotlight/
 author_profile: false
 toc: true
 date: 2020-03-04
+sidebar:
+  nav: "sidenav"
+toc: true
 
 feature_row1:
   - image_path: ../images/highlight-image-01.png
