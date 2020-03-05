@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /publications/
 author_profile: false
 sidebar:
