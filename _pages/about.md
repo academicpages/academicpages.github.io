@@ -18,7 +18,7 @@ My research interests include computer vision, machine learning and image proces
 * texture synthesis
 
 
-Here is my [CV](tlliao.github.io/files/cv_ltl.pdf) and [contact information](#contact information).
+Here is my [CV](tlliao.github.io/files/cv_ltl.pdf)(updated in Mar. 2020) and [contact information](#contact information).
 
 
 ## News
@@ -41,9 +41,7 @@ Zhengzhou, Henan, P.R.China (450001)
 * Email: tianli.liao(at)haut.edu.cn
 
 
-
-<a href="https://www.easycounter.com/">
-<img src="https://www.easycounter.com/counter.php?lincoln_homepage"
-border="0" alt="Free Web Counter"></a>
-<br><a href="https://www.easycounter.com/">Web Counter</a>
-
+------
+<footer>
+  <p>Last update: March, 2020</p>
+</footer>
