@@ -40,3 +40,10 @@ No. 100 Lianhua Street, Zhengzhou High-Tech Development Zone,
 Zhengzhou, Henan, P.R.China (450001)      
 * Email: tianli.liao(at)haut.edu.cn
 
+
+
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?lincoln_homepage"
+border="0" alt="Free Web Counter"></a>
+<br><a href="https://www.easycounter.com/">Web Counter</a>
+
