@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 permalink: /spotlight/
 author_profile: false
 toc: true
