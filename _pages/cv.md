@@ -70,10 +70,10 @@ SKILLS
 ======
 ------
 * Native in Mandarin Chinese and fluent in English 
-* Fluent in Python, MATLAB and C++ programming, data processing and statistical analysis; 
+* Fluent in Python, MATLAB and C++ programming, data processing and statistical analysis 
 * Good user of FORTRAN programming and Markdown web design
-* Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer; 
-* Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems; 
+* Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer 
+* Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems
 * Intermediate user of CESM Earth System Models, familiar with UK UM-UKCA model
 * Excellent time-management skills: goal setting, planning, prioritising and diary setting
 * Socially competent team-player (e.g. CSSP-China, AerChemMIP and RFMIP)
@@ -83,5 +83,5 @@ SKILLS
 SERVICE AND LEADERSHIPS
 ======
 ______
-* 2010.09-2012.06 Member and the chair, The Light of Information Volunteer Association.
+* 2010.09-2012.06 Member and the chair, The Light of Information Volunteer Association
 * 2014.09-2016.08 Chiar of 2014 Postgraduate Student Class, Department of Marine Technology, OUC
