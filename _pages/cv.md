@@ -57,7 +57,7 @@ Atmosphere, Climatic Change, Climate Dynamics, Journal of Climate, Journal of Ge
 INVITED-TALKS
 ======
 ------
-•	“Committed climate change and their attribution: GHGs, aerosols and O3”, Nanjing University, Nanjing, China, 2019.12<br/>
+•	“Committed climate change and their attribution: GHGs, aerosols and O3”, Nanjing University, Nanjing, China, 2019.12
 •	“Climate impacts of greenhouse gases vs. aerosols”, 2019 SAGES annual conference, Edinburgh, UK, 2019.11<br/>
 •	“Impacts of air pollution”, public seminar at The Chinese University of Hongkong, Shenzhen, China, 2019.09<br/>
 •	“Aerosol forcing and climate change”, seminar at School of Environmental Sciences, SUST, Shenzhen, China, 2019.09<br/>
