@@ -32,7 +32,7 @@
       {% elsif post.collection == 'posts'  %}
        <p style="text-align:left;color:black;"> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <span style="float:right;color:grey;font-size:12pt;font-weight:normal;vertical-align: middle;"> <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label }} <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time> </span> </p> 
       {% else %}
-        <p style="text-justify:left;color:black;"> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> </p>
+        <p style="text-align:justify;color:black;"> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> </p>
       {% endif %}
     </h2>
 
