@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : #"Ismini Lourentzou"
-  avatar           : "profile.png"
+  avatar           : "me.jpg" #"profile.png"
   bio              : "PhD candidate      CS @ UIUC - TIMAN group"
   location         : #"Location"
   employer         :
