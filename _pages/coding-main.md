@@ -20,7 +20,10 @@ Some quick reference on Markdown syntax can be found [here](https://www.markdown
 </p>
 &nbsp;
 
+
+
 # Scientific Computing & Data Analysis
+Most comonly used data formats for atmospheric and oceanic data is provided by NCAR's [Instructional Aid](https://github.com/alcide-zhao/alcide-zhao.github.io/blob/master/docs/NCAR An introduction to atmospheric and oceanographic data.pdf). 
 ## [UNIX & Shell scripting](https://alcide-zhao.github.io/coding/unix-shell/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Version Control with Git](https://alcide-zhao.github.io/coding/versio-control/)
 ## [Python & Data analysis](https://alcide-zhao.github.io/coding/python/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; [NetCDF Analysis](https://alcide-zhao.github.io/coding/netcdf/)
 ## [Fortran for Modelling](https://alcide-zhao.github.io/coding/fortran/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;[Parallel Computing with MPI](https://alcide-zhao.github.io/coding/mpi/)
