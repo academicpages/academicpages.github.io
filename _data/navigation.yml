@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "   About me  "
+  - title: "   ABOUT ME  "
     url: /cv/
     
-  - title: "Spotlight"
+  - title: "SPOTLIGHT"
     url: /spotlight/
     
-  - title: "   Publications   "
+  - title: "   PUBLICATIONS   "
     url: /publications/
       
-  - title: "   Programming   "
+  - title: "   PROGRAMMING   "
     url: /coding/  
     
-  - title: "Blog posts"
+  - title: "BLOG POSTS"
     url: /posts/ 
     
-  - title: "   Resources   "
+  - title: "   RESOURCES   "
     url: /resources/
     
 
