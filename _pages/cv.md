@@ -45,9 +45,9 @@ ACADEMIC EXPERIENCE
 CURRENT RESEARCH FOCUSES
 ======
 ------
-•	Climate forcing and response to short-lived climate forcers vs. greenhouse gases<br/>
-•	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes<br/>
-•	Atmospheric methane and oxidising capability<br/>
+-	Climate forcing and response to short-lived climate forcers vs. greenhouse gases<br/>
+-	Aerosol-cloud-radiation interactions, their uncertainties and associated implications for climate extremes<br/>
+-	Atmospheric methane and oxidising capability<br/>
 
 PEER-REVIEWER
 ======
@@ -57,31 +57,31 @@ Atmosphere, Climatic Change, Climate Dynamics, Journal of Climate, Journal of Ge
 INVITED-TALKS
 ======
 ------
-•	“Committed climate change and their attribution: GHGs, aerosols and O3”, Nanjing University, Nanjing, China, 2019.12
-•	“Climate impacts of greenhouse gases vs. aerosols”, 2019 SAGES annual conference, Edinburgh, UK, 2019.11<br/>
-•	“Impacts of air pollution”, public seminar at The Chinese University of Hongkong, Shenzhen, China, 2019.09<br/>
-•	“Aerosol forcing and climate change”, seminar at School of Environmental Sciences, SUST, Shenzhen, China, 2019.09<br/>
-•	“Unveil the translation chains from short-lived climate forcer emissions to climate forcing and response”, 7th Annual Composition-Climate Interactions meeting, Met Office, UK, 2019.03<br/>
-•	“Policy-driven aerosol emissions and climate impacts” at the 2018 IGAC Science Conference, Takamatsu, Japan, 2018.09<br/>
-•	“Climate response in equilibrium in CESM1” at the 23rd Annual CESM Workshop, Boulder, CO, USA, 2018.06<br/>
-•	“Future aerosol mitigations and Asian precipitation extremes” at the 3rd ACAM conference, Guangzhou, China, 2017.06<br/>
+-	“Committed climate change and their attribution: GHGs, aerosols and O3”, Nanjing University, Nanjing, China, 2019.12
+-	“Climate impacts of greenhouse gases vs. aerosols”, 2019 SAGES annual conference, Edinburgh, UK, 2019.11<br/>
+-	“Impacts of air pollution”, public seminar at The Chinese University of Hongkong, Shenzhen, China, 2019.09<br/>
+-	“Aerosol forcing and climate change”, seminar at School of Environmental Sciences, SUST, Shenzhen, China, 2019.09<br/>
+-	“Unveil the translation chains from short-lived climate forcer emissions to climate forcing and response”, 7th Annual Composition-Climate Interactions meeting, Met Office, UK, 2019.03<br/>
+-	“Policy-driven aerosol emissions and climate impacts” at the 2018 IGAC Science Conference, Takamatsu, Japan, 2018.09<br/>
+-	“Climate response in equilibrium in CESM1” at the 23rd Annual CESM Workshop, Boulder, CO, USA, 2018.06<br/>
+-	“Future aerosol mitigations and Asian precipitation extremes” at the 3rd ACAM conference, Guangzhou, China, 2017.06<br/>
 
 SKILLS
 ======
 ------
-* Native in Mandarin Chinese and fluent in English 
-* Fluent in Python, MATLAB and C++ programming, data processing and statistical analysis 
-* Good user of FORTRAN programming and Markdown web design
-* Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer 
-* Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems
-* Intermediate user of CESM Earth System Models, familiar with UK UM-UKCA model
-* Excellent time-management skills: goal setting, planning, prioritising and diary setting
-* Socially competent team-player (e.g. CSSP-China, AerChemMIP and RFMIP)
-* Well organised in research, teaching, part-time work and extra-curricular activities
+- Native in Mandarin Chinese and fluent in English 
+- Fluent in Python, MATLAB and C++ programming, data processing and statistical analysis 
+- Good user of FORTRAN programming and Markdown web design
+- Database Engineer (NEEA certificated, SQL);  One year of work experience served as Networking Engineer 
+- Familiar with computer networking, computer hardware and system configuration, as well as Windows/Linux operation systems
+- Intermediate user of CESM Earth System Models, familiar with UK UM-UKCA model
+- Excellent time-management skills: goal setting, planning, prioritising and diary setting
+- Socially competent team-player (e.g. CSSP-China, AerChemMIP and RFMIP)
+- Well organised in research, teaching, part-time work and extra-curricular activities
 
 
 SERVICE AND LEADERSHIPS
 ======
 ______
-* 2010.09-2012.06 Member and the chair, The Light of Information Volunteer Association
-* 2014.09-2016.08 Chiar of 2014 Postgraduate Student Class, Department of Marine Technology, OUC
+- 2010.09-2012.06 Member and the chair, The Light of Information Volunteer Association
+- 2014.09-2016.08 Chiar of 2014 Postgraduate Student Class, Department of Marine Technology, OUC
