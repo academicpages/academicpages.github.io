@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
+<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
+<i>ArXiv 2020</i>.
+
 <b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
 Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
 <i>The 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
