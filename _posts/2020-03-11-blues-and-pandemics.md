@@ -2,7 +2,6 @@
 title: Blues and pandemics
 date: 2020-03-11
 permalink: /posts/2020/3/blues-and-pandemics
-tags:
 ---
 
 [Blind Willie Johnson](https://en.wikipedia.org/wiki/Blind_Willie_Johnson) was
