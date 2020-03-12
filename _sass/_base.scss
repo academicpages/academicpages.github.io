@@ -146,7 +146,7 @@ td > code {
   box-shadow: $box-shadow;
 
   &:before, &:after {
-    letter-spacing: -0.2em;
+    letter-spacing: -0.5em;
     content: "\00a0"; /* non-breaking space*/
   }
 }
