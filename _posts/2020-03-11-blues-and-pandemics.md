@@ -1,19 +1,17 @@
 ---
 title: Blues and pandemics
 date: 2020-03-11
-permalink: /posts/2020/3/blues-and-pandemics
+permalink: /posts/2020/3/blues-and-pandemics/
 ---
 
 [Blind Willie Johnson](https://en.wikipedia.org/wiki/Blind_Willie_Johnson) was
 an early 20th century musician, a famous gospel blues singer, and perhaps the
 most brilliant slide guitarist after Robert Johnson. He is most famous for his
-song [Dark was the night, cold was the
-ground](https://www.youtube.com/watch?v=BNj2BXW852g),
-which was one of 27 pieces of music launched into outer space on the [Voyager
-Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record).
+song [Dark was the night, cold was the ground](https://www.youtube.com/watch?v=BNj2BXW852g),
+which was one of 27 pieces of music launched into outer space on the
+[Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record).
 
-Johnson also sang [Jesus is coming
-soon](https://www.youtube.com/watch?v=mabTNjhdXeU), which interpreted
+Johnson also sang [Jesus is coming soon](https://www.youtube.com/watch?v=mabTNjhdXeU),which interpreted
 the [1918 flu pandemic](https://en.wikipedia.org/wiki/Spanish_flu) as a sign of
 the imminent return of the messiah. It also talks about quarantine and the
 closing of schools. A selection of lyrics:
@@ -38,6 +36,6 @@ closing of schools. A selection of lyrics:
 > You better close your churches too<br>
 
 (The characterization of public health authorities as "nobles" is not atypical
-of Johnson's style. For example, in his song [When the war was
-on](https://www.youtube.com/watch?v=vrH7DvZBA6E), he refers to US President
+of Johnson's style. For example, in his song
+[When the war was on](https://www.youtube.com/watch?v=vrH7DvZBA6E), he refers to US President
 Woodrow Wilson as "sitting on his throne".)
