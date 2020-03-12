@@ -7,7 +7,7 @@ class Template:
 ---
 title: {{long_title}}
 date: {{date}}
-permalink: /posts/{{year}}/{{month}}/{{short_title}}
+permalink: /posts/{{year}}/{{month}}/{{short_title}}/
 tags:
 ---
     """.strip()
