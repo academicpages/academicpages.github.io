@@ -86,6 +86,7 @@ author:
   location         : "St. Louis, MO"
   employer         :
   pubmed           :
+  orcid            : "http://orcid.org/0000-0001-9259-3883"
   googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
   email            : "rob.williams@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
