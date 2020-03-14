@@ -12,4 +12,4 @@ I am currently working on building two historical datasets (data will be made pu
 * Historical state-level minimum driver license age data (1968-1995)
 
 ### Code
-Under development. Current project share is a Mata encoding of exposure function Malmendier & Nagel (2011).
+Under development. Current project to share is a Mata implementation of the cumulative exposure function Malmendier & Nagel (2011).

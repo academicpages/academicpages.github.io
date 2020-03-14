@@ -20,27 +20,29 @@ author_profile: true
 
 * "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification.](https://cseveren.github.io/files/20191025_Severen_LAMetro_New.pdf)"
     * **_NEW_** October 2019: [draft](https://cseveren.github.io/files/20191025_Severen_LAMetro_New.pdf) and [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf).
-    * Lean, mean, trimmed down; ready to make even a referee's heart swoon.
+    * Revisions requested at the *Review of Economics and Statistics*.
 
 * "[Formative Experiences and the Price of Gasoline](https://www.nber.org/papers/w26091)" (with [Arthur van Benthem][avb]). NBER Working Paper 26091.
-    * Media coveraege: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
+    * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
     * [Ungated version](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf).
 
 ### Selected Works in Progress
 
-* "Mobility Restrictions, Human Capital Attainment, and Youth Employment" (with [Valerie Bostwick][vkb]).
+* "Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Outcomes" (with [Valerie Bostwick][vkb]).
 
-* "Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés](https://hernandezcortes.github.io/)).
+* "Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
 
-* "Climate, Innovation, and Adaptation" (with [Olivier Deschênes][odeschenes] and [Jeff Lin][jlin]).
+* "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
 
 * "Defying Gravity"
 
 [aplantinga]: https://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm
 [avb]: http://www.arthurvanbenthem.com/
 [ccostello]: https://christopherjcostello.com/
+[dhc]: https://hernandezcortes.github.io/
+[eberkes]: https://sites.google.com/view/enricoberkes/home
+[jlin]: http://www.jlin.org
 [kjack]: https://sites.tufts.edu/kjack/
 [odeschenes]: https://econ.ucsb.edu/~olivier/
 [poliva]: https://dornsife.usc.edu/paulina-oliva/
 [vkb]: https://vkbostwick.weebly.com/
-[jlin]: http://www.jlin.org
