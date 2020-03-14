@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Craig Toth"
-  avatar           : "Craig_Pic_Suit01.jpg"
+  avatar           : "/images/Craig_Pic_Suit01.jpg"
   bio              : "Information Professional"
   location         : "Winston Salem, NC"
   employer         :
