@@ -50,135 +50,25 @@
       </details>
     {% endif %}
     
-    {% if post.citation and post.paperurl and post.link and post.code and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.paperurl and post.link and post.code %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.paperurl and post.code and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.paperurl and post.code %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.paperurl and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.link and post.code and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.link and post.code %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.paperurl and post.link and post.code and post.github %}
-      <p>
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.paperurl and post.link and post.code %}
-      <p>
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.paperurl and post.link and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.paperurl and post.link %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.link and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.link %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.paperurl and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.paperurl and post.link and post.github %}
-      <p>
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.paperurl and post.link %}
-      <p>
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a></p>
-    {% elsif post.citation and post.code and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.code %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.paperurl and post.code and post.github %}
-      <p>
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.paperurl and post.code %}
-      <p>
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation and post.github %}
-      <p>Recommended citation: {{ post.citation }}
-      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl post.github %}
-      <p>
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      </p>
-    {% elsif post.paperurl %}
-      <p>
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-      </p>
+    <!-- citation and icon code -->
+    <p>
+    {% if post.citation %}
+      {{ post.citation }}
     {% endif %}
+    <br>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.link %}
+      <a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.code %}
+      <a href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.github %}
+      <a href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+    {% endif %}
+    </p>
 
   </article>
 </div>
