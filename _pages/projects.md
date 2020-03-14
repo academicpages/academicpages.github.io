@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
-  - /resume
+  - /portfolio
 ---
 
 {% include base_path %}
 # Daniel Cohen Hillel - curriculum vitae
 Prsonal Info
 ===
-* Name: Daniel Cohen Hillel
+* Name: Daniel Cohen Hillel Pro
 * Birth Date: 01/01/2002
 * Phone Number: +972 54 443 7361
 * Email: daniel.cohenhille@mail.huji.ac.il
