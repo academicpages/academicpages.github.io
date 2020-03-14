@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Portfolio"
+title                    : "Personal Portfolio Home"
 title_separator          : "-"
 name                     : &name "Craig Toth"
 description              : &description "personal description"
