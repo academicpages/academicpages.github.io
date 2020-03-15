@@ -17,7 +17,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
     <td width="35%"><div align="right">Apr 1st - Sep 30th 2019<br>
 		<img src="/images/Harvard_logo.png" width="150"></div></td>
     <td width="65%">Fellow of the Department of Physics, Harvard University<br>
-    <b>Supervisors: </b> Dr. Andrea Giometto, Prof. Andrew Murray, Prof. David Nelson<br><br><br>
+    <b>Supervisors: </b> Andrea Giometto, Andrew Murray, David Nelson<br><br><br>
     </td>
   </tr>
 </table>
@@ -30,8 +30,8 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
     <td width="35%"><div align="right">Oct 1st 2017 - Sep 30th 2020<br>
 	   <img src='/images/uniPD_logo.png' width="150"></div></td>
        <td width="65%">Ph.D in <i>Physics</i>, University of Padua<br>
-	 <b>Supervisor:</b> Prof. Amos Maritan<br>
-		   <b>Co-supervisor:</b> Dr. Samir Suweis<br>
+	 <b>Supervisor:</b> Amos Maritan<br>
+		   <b>Co-supervisor:</b> Samir Suweis<br>
 	 <b>Expected thesis defense period:</b> December 2020<br><br>
    </td>
   </tr>
@@ -40,7 +40,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 		<img src="/images/uniPD_logo.png" width="150"></div></td>
 		<td width="65%">M.Sc. in <i>Physics</i>, University of Padua<br>
       <b>Thesis title:</b> <i>A physics approach to ecosystem dynamics</i><br>
-	 		<b>Advisor:</b> Prof. Amos Maritan<br>
+	 		<b>Advisor:</b> Amos Maritan<br>
       <b>Final grade:</b> 110/110 cum laude<br><br>
     </td>
   </tr>
@@ -49,7 +49,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 			<img src="/images/uniPD_logo.png" width="150"></div></td>
 		<td width="65%">B.Sc. in <i>Physics</i>, University of Padua<br>
       <b>Thesis title:</b> <i>Curvature effect on patterning dynamics on spherical membranes</i><br>
-	 		<b>Advisor:</b> Prof. Enzo Orlandini<br>
+	 		<b>Advisor:</b> Enzo Orlandini<br>
       <b>Final grade:</b> 108/110<br>
     </td>
   </tr>
