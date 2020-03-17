@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD student in the Industrial Engineering department, Arizona State University, from Fall 2018. I have joined the research lab of Dr. Jorge Sefair, working on network models and optimization. I have done my Bachelors in Production Engineering from Jadavpur University, and graduated in June 2018. During the course of 4 years, I have worked under the guidance of Dr. Shankar Chakraborty, in the field of optimization and decision making. During the Summer of 2017, I worked under Dr. Dipayan Sanyal, Chief Scientist, CSIR-CGCRI, studying and analysing the machinability of Alumina ceramics. My research interests are in Operations Research, with focus on algorithms and optimization.
 
 A data-driven personal website
 ======
