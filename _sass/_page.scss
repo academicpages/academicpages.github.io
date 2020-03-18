@@ -38,7 +38,7 @@
 .page__title {  
   margin-top: 0;
   line-height: 1;
-  /*color: $twitter-color;*/
+  
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -60,7 +60,7 @@
   p, li, dl {
     font-size: $type-size-5; /* body content of homepage*/
     font-family: $garamond;
-    color: $body-color;
+    color: $light-gray;
   }
 
   /* paragraph indents */
@@ -156,6 +156,7 @@
 
     .page__title {
       font-size: $type-size-2;
+      color: $twitter-color;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
