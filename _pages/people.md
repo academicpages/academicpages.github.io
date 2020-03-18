@@ -10,6 +10,8 @@ redirect_from:
 
 List yourself
 
+![Ben](/images/IMG_67571.jpg)
+
 **Email:** tully.bj@gmail.com
 
 **Twitter:** @phatombugs
