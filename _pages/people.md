@@ -9,7 +9,7 @@ redirect_from:
 # Project Lead/Coordinating Committee
 
 List yourself
-![Ben](/images/bjt.jpg)
+
 
 **Email:** tully.bj@gmail.com
 
