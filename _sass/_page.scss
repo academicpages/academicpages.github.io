@@ -38,6 +38,7 @@
 .page__title {  
   margin-top: 0;
   line-height: 1;
+  color: $twitter-color;
   
 
   & + .page__meta {
@@ -156,7 +157,6 @@
 
     .page__title {
       font-size: $type-size-2;
-      color: $twitter-color;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
