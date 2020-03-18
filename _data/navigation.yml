@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About"
-    url: /_pages/about.html
+    url: about.html
 
   - title: "People"
     url: /_pages/people.html  
