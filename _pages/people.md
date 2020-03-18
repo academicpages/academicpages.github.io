@@ -13,14 +13,14 @@ redirect_from:
 # Instructors
 
 
-### Jake L. Weissman
+## Jake L. Weissman
 
 ![Me](/images/jlw2.jpg)
 **Email:** jakeweis@usc.edu
 
 **Twitter:** @jlw_ecoevo
 
-**[website](https://jlw-ecoevo.github.io)** 
+**[Website](https://jlw-ecoevo.github.io)** 
 
 **[Google Scholar](https://scholar.google.com/citations?user=IaAUSiQAAAAJ&hl=en)**
 
