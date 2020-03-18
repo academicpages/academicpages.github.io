@@ -37,6 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  color: $twitter-color;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -58,7 +59,7 @@
   p, li, dl {
     font-size: $type-size-5; /* body content of homepage*/
     font-family: $garamond;
-    color: $soundcloud-color;
+    color: #fff;
   }
 
   /* paragraph indents */
