@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "People"
-permalink: /get-involved/
 redirect_from: 
   - /get-involved/
   - /get-involved.html

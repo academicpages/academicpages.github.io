@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "People"
-permalink: /people/
 redirect_from: 
   - /people/
   - /people.html
