@@ -2,7 +2,9 @@
 layout: archive
 title: "People"
 permalink: /people/
-author_profile: false
+redirect_from: 
+  - /people/
+  - /people.html
 ---
 
 Project Leads/Coordinating Committee
