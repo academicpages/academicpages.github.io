@@ -16,7 +16,7 @@ Instructors
 
 ####Jake Weissman
 
-![Me](/img/jlw2.jpg)
+![Me](jlw2.jpg)
 
 **Email:** jakeweis@usc.edu
 
