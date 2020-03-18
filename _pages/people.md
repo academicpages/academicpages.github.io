@@ -6,11 +6,13 @@ redirect_from:
   - /people.html
 ---
 
-# Project Leads/Coordinating Committee
+# Project Lead/Coordinating Committee
 
-
+List yourself
 
 # Instructors
+
+Please add yourself. See example(s) below.
 
 
 ## Jake L. Weissman
