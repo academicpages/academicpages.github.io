@@ -1,14 +1,14 @@
 # main links links
 main:
   - title: "About"
-    url: /about/
+    url: /pages/about.md
 
   - title: "People"
-    url: /people/    
+    url: /pages/people.md  
 
   - title: "Wiki"
     url: /wiki/    
     
   - title: "Get Involved"
-    url: /get-involved/
+    url: /pages/get-involved.md  
 
