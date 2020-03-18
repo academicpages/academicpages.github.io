@@ -56,7 +56,9 @@
   }
 
   p, li, dl {
-    font-size: $type-size-6;    /* body content */
+    font-size: $type-size-4; /* body content */
+    font-family: $garamond;
+    color: $pinterest-color;
   }
 
   /* paragraph indents */
