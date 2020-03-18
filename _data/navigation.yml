@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About"
-    url: about.html
+    url: /about.html
 
   - title: "People"
-    url: /_pages/people.html  
+    url: /people.html  
 
   - title: "Wiki"
     url: https://github.com/biovcn/biovcn.github.io/wiki   
