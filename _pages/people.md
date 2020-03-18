@@ -3,11 +3,8 @@ layout: archive
 title: "People"
 permalink: /people/
 author_profile: false
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 Project Leads/Coordinating Committee
 ======
 
