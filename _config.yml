@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "BVCN"
-  avatar           : "/img/LOGO.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "LOGO.png"
+  bio              : "A summary of our goals"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
