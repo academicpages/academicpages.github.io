@@ -6,17 +6,16 @@ redirect_from:
   - /people.html
 ---
 
-Project Leads/Coordinating Committee
-======
+# Project Leads/Coordinating Committee
 
 
-Instructors
-======
 
-####Jake Weissman
+# Instructors
 
-![Me](jlw2.jpg)
 
+### Jake L. Weissman
+
+![Me](/images/jlw2.jpg)
 **Email:** jakeweis@usc.edu
 
 **Twitter:** @jlw_ecoevo

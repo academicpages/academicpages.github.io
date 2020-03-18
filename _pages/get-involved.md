@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: "Get Involved"
 redirect_from: 
   - /get-involved/
   - /get-involved.html
