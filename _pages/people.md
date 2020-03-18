@@ -44,10 +44,6 @@ Please add yourself. See example(s) below.
 ## Elizabeth McDaniel
 <img src="https://avatars1.githubusercontent.com/u/18299362?s=460&u=2759d5e6ec166f8f71fb0b1521324fe813d049a2&v=4" align="left" width="200">
 
-**Email:** elizabethmcd93@gmail.com
-
-**Twitter:** @lizilla93
-
-**[Website](elizabethmcd93.github.io)**
+**Email:** elizabethmcd93@gmail.com     **Twitter:** @lizilla93     **[Website](elizabethmcd93.github.io)**
 
 **Bio:** I am a PhD student in the Microbiology Doctoral Training Program in Dr. Katherine McMahon's lab at the University of Wisconsin - Madison. I use a combination of enrichment culture techniques and integrated genome-resolved metagenomics to investigate bacterial population dynamics of engineered wastewater systems. I am passionate about helping people solve their analytical challenges as it relates to their research. I am a certified Carpentries instructor and a co-chair of the Computational Biology, Ecology, and Evolution [(ComBEE)](https://combee-uw-madison.github.io/studyGroup/) study group on the UW-Madison campus.
