@@ -10,6 +10,16 @@ redirect_from:
 
 List yourself
 
+**Email:** tully.bj@gmail.com
+
+**Twitter:** @phatombugs
+
+**[Website](https://bjtully.github.io/)**
+
+**[Google Scholar](https://scholar.google.com/citations?user=UIACF0wAAAAJ&hl=en)**
+
+**Bio:** I am a microbiologist/bioinformatian working in the marine environment. My interests involve studying microbial communities and functions through the tool of metagenomics. As part of this research, I work to develop new bioinformatic tools that capitalizes on the growing number of environmental microbial genomes.
+
 # Instructors
 
 Please add yourself. See example(s) below.
