@@ -7,4 +7,4 @@ redirect_from:
   - /get-involved.html
 ---
 
-If you would like to volunteer as an instructor please contact <>. We are also happy to hear recommendations for courses you'd like to take/project you'd like to see added. 
+If you would like to get involved as either an instructor or a participant please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd69NFEVWpw-HVi9XFrghYK45uUA4tru9Oau9fOR8pVHXL3bQ/viewform)
