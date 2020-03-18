@@ -46,6 +46,7 @@
 .page__lead {
   font-family: $georgia;
   font-size: $type-size-4;
+  color: $twitter-color;
 }
 
 .page__content {
@@ -53,12 +54,13 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    color: $soundcloud-color;
   }
 
   p, li, dl {
-    font-size: $type-size-4; /* body content */
-    font-family: $garamond;
-    color: $pinterest-color;
+    font-size: $type-size-5; /* body content of homepage*/
+    font-family: $times;
+    color: $soundcloud-color;
   }
 
   /* paragraph indents */
