@@ -44,8 +44,8 @@
 }
 
 .page__lead {
-  font-family: $bodoni;
-  font-size: $type-size-1;
+  font-family: $georgia;
+  font-size: $type-size-4;
 }
 
 .page__content {
@@ -56,7 +56,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: $type-size-4;
   }
 
   /* paragraph indents */
