@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "BVCN"
-  avatar           : "LOGO.png"
+  avatar           : "/img/LOGO.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
