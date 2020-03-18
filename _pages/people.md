@@ -18,6 +18,7 @@ Please add yourself. See example(s) below.
 ## Jake L. Weissman
 
 ![Me](/images/jlw2.jpg)
+
 **Email:** jakeweis@usc.edu
 
 **Twitter:** @jlw_ecoevo
