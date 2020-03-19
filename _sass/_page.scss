@@ -38,7 +38,7 @@
 .page__title {  
   margin-top: 0;
   line-height: 1;
-  color: $darker-gray;
+  color: #ee82ee;    /* change 1*/
   font-size: $type-size-3;
   
 
@@ -54,9 +54,9 @@
 
 .page__content {
 
-  h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $darker-gray;
+  h2 {  /* change 2 */
+    padding-bottom: 1em;
+    border-bottom: 3px solid #a52a2a;
   }
 
   p, li, dl {
@@ -94,12 +94,14 @@
     margin-top: 1em;
     font-family: $garamond;
     font-weight: bold;
+    color: #ffff00; /* change 3*/
   }
 
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
     font-size: $type-size-6;
+    color: #ff8c00; /* change 4*/
   }
 
   .small {
