@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jack Landry"
+title                    : #"Jack Landry"
 title_separator          : "-"
 name                     : &name "Jack Landry"
 description              : &description "personal description"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jack Landry"
+  name            # : "Jack Landry"
   avatar           : "headshot.jpeg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Chicago"
