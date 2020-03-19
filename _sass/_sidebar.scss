@@ -7,7 +7,7 @@
    ========================================================================== */
 
 .sidebar {
-  background-color: #98FB98; /* change 1 */
+  background-color: $ghost-white; /* works !! */
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
