@@ -34,12 +34,12 @@
   }
 }
 
-/* edits page title*/
+/* edits page title successfully*/
 .page__title {  
   margin-top: 0;
   line-height: 1;
   color: $darker-gray;
-  font-size: 3.5em;
+  font-size: $type-size-3;
   
 
   & + .page__meta {
@@ -56,7 +56,7 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $darker-gray;
   }
 
   p, li, dl {
