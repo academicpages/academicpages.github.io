@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #DA70D6; /* c2*/
 
   a {
     display: block;
@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: #FFA07A; /* c3 */
     color: #fff;
     cursor: pointer;
   }
@@ -336,7 +336,7 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: $primary-color;
+    background: #DC143C; /* c4 */
     border-radius: $border-radius;
 
     &:hover {
