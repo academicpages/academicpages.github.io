@@ -95,14 +95,12 @@
     margin-top: 1em;
     font-family: $garamond;
     font-weight: bold;
-    color: #ffff00; /* change 3*/
   }
 
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
     font-size: $type-size-6;
-    color: #ff8c00; /* change 4*/
   }
 
   .small {
@@ -117,7 +115,6 @@
 }
 
 .page__hero {
-  background-color: #FFE4E1; /* change 6 */
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
