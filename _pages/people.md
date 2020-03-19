@@ -29,7 +29,7 @@ Please add yourself. See example(s) below.
 
 ## Jake L. Weissman
 
-![Me](/images/jlw2.jpg)
+<img align="left" src="/images/jlw2.jpg">
 
 **Email:** jakeweis@usc.edu
 
@@ -66,7 +66,8 @@ Please add yourself. See example(s) below.
 **Bio:** I am postdoctoral researcher at The Ohio State University in the Colleges of Public Health & Veterinary Preventative Medicine. My current research uses -omic tools to investigate strain level overlap between humans, animals, and the environment, as well as to reconstruct chemical/xenobiotic microbial pathways in the human and animal gut as it relates to health & disease. My PhD work focused on microbial xenobiotic metabolisms in hydraulically fractured oil and gas systems. I am eager to help people who don't have coding or bioinformatics backgrounds learn their way around the command line for their work, particularly for metagenomics and 16S rRNA sequencing analysis.
 
 ## Joy Buongiorno
-![Joy Buongiorno](/images/joyb.jpeg)
+
+<img align="left" src="/images/joyb.jpeg">
 
 **Email:** jbuongior21@gmail.com
 
