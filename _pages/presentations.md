@@ -18,6 +18,8 @@ author_profile: true
 
 ## 2018
 
+* Unsupervised learning with contrastive latent variable models. Poster. Machine Learning for Healthcare, NeurIPS, Montreal.
+
 * Machine learning applications in chemical and biological engineering. MIT, Cambridge.
 
 * Data-driven modeling of complex systems. Northeastern University, Boston. 
