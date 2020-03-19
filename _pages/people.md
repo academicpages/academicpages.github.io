@@ -93,7 +93,7 @@ Please add yourself. See example(s) below.
 
 ## Ashley B. Cohen, M.S.
 
-<img align="left" src="/images/CohenPhoto.jpeg">
+<img align="left" src="/images/CohenPhoto.jpg" width="200px" style="padding-right: 15px">
 
 **Email:** ashleybrookcohen@gmail.com
 
