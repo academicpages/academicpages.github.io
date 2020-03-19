@@ -175,17 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #000000; /* c2*/
+  background: $masthead;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #ffffff; /*$masthead-link-color;*/
+    color: $masthead-link-color;
     text-decoration: none;
 
     &:hover {
-      color: #F0FFFF; /*$masthead-link-color-hover;*/
+      color: $masthead-link-color-hover;
     }
   }
 
