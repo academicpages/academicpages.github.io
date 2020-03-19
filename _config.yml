@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Jack Landry"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "headshot.png"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Chicago"
   employer         : University of Chicago
   email            : jacklandry@uchicago.edu
@@ -99,13 +99,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "jack_landry1"
   vine             :
   weibo            :
   xing             :
