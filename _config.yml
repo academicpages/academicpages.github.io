@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Jack Landry"
-  avatar           : "headshot.png"
+  avatar           : "headshot.jpeg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Chicago"
   employer         : University of Chicago
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jack_landry1"
+  twitter          : "j_landry1"
   vine             :
   weibo            :
   xing             :
