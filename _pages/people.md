@@ -64,3 +64,14 @@ Please add yourself. See example(s) below.
 **[Google Scholar](https://scholar.google.com/citations?user=vVUCZw0AAAAJ&hl=en&authuser=1)**
 
 **Bio:** I am postdoctoral researcher at The Ohio State University in the Colleges of Public Health & Veterinary Preventative Medicine. My current research uses -omic tools to investigate strain level overlap between humans, animals, and the environment, as well as to reconstruct chemical/xenobiotic microbial pathways in the human and animal gut as it relates to health & disease. My PhD work focused on microbial xenobiotic metabolisms in hydraulically fractured oil and gas systems. I am eager to help people who don't have coding or bioinformatics backgrounds learn their way around the command line for their work, particularly for metagenomics and 16S rRNA sequencing analysis.
+
+## Joy Buongiorno
+<img src=“https://user-images.githubusercontent.com/13104519/77021283-a424bc00-695c-11ea-8a28-6966582eacf2.jpg” align=“left” width=“200”>
+
+**Email:** jbuongior21@gmail.com
+
+**Twitter:** @DrJoyBuongiorno
+
+**[Google Scholar](https://scholar.google.com/citations?user=3pa76GEAAAAJ&hl=en&oi=ao)**
+
+**Bio:**  I am a geomicrobiologist combining a background in geoscience with a diverse toolkit of novel molecular methods, sequencing analysis, and bioinformatic tools to delve into the interactions between the biosphere and geosphere. I am currently a postdoctoral fellow at the Earth and Planets Laboratory at the Carnegie Institution of Washington working on the NASA Astrobiology Institute ENIGMA Project. I apply methods at the frontier of integrative earth, life, and data science to answer big questions related to the co-evolution of the biosphere and geosphere through deep time.
