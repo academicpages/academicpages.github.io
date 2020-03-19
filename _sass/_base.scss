@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background-color: #000000;
+  background-color: $ghost-white; /* works - changes almost whole page color*/
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
