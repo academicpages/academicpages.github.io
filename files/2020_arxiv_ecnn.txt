@@ -1,0 +1,6 @@
+@Article{Stoffregen20arxiv,
+  author        = {Timo Stoffregen and Cedric Scheerlinck and Davide Scaramuzza and Tom Drummond and Nick Barnes and Lindsay Kleeman and Robert Mahony},
+  title         = {How to Train Your Event Camera Neural Network},
+  journal       = {ar{X}iv e-prints},
+  year          = {2020}
+}
