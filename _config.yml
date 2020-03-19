@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jack Landry"
 title_separator          : "-"
-name                     : #&name "Jack Landry"
+name                     : &name "Jack Landry"
 description              : &description "personal description"
 url                      : https://jacklandry.github.io # the base hostname & protocol for your site e.g. "https://jacklandry.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name            # : "Jack Landry"
+  name             : "Jack Landry"
   avatar           : "headshot.jpeg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Chicago"
