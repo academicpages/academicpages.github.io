@@ -38,7 +38,7 @@
 .page__title {  
   margin-top: 0;
   line-height: 1;
-  color: #ee82ee;    /* change 1*/
+  color: #ee82ee;    /* change 1 worked*/
   font-size: $type-size-3;
   
 
@@ -53,6 +53,7 @@
 }
 
 .page__content {
+   background: #fff;
 
   h2 {  /* change 2 */
     padding-bottom: 1em;
@@ -82,7 +83,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: none;
+      text-decoration: underline;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.5);
