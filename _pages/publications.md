@@ -9,7 +9,7 @@ author_profile: true
 
 * Closed-loop optimization of fast-charging protocols for batteries with machine learning. P.M. Attia, A. Grover, N. Jin, K.A. Severson, T.M. Markov, Y.H. Liao, M.H. Chen, B. Cheong, N. Perkins, Z. Yang, P.K. Herring, M. Aykol, S.J. Harris, R.D. Braatz, S. Ermon, W.C. Chueh, Nature, 2020. [paper](https://www.nature.com/articles/s41586-020-1994-5.epdf) [press](https://news.stanford.edu/2020/02/19/machine-learning-speed-arrival-ultra-fast-charging-electric-car/)
 
-*Identifying unreliable predictions in clinical risk models. P.D. Myers, K. Ng, K.A. Severson, U. Kartoun, W. Dai, W. Huang, F.A. Anderson, C.M. Stultz. npj Digital Medicine, 2020. [paper](https://doi.org/10.1038/s41746-019-0209-7)
+* Identifying unreliable predictions in clinical risk models. P.D. Myers, K. Ng, K.A. Severson, U. Kartoun, W. Dai, W. Huang, F.A. Anderson, C.M. Stultz. npj Digital Medicine, 2020. [paper](https://doi.org/10.1038/s41746-019-0209-7)
 
 ## 2019
 
@@ -17,7 +17,7 @@ author_profile: true
 
 * Data-driven prediction of battery cycle life before capacity degradation. K.A. Severson, P.M. Attia, N. Jin, N. Perkins, B. Jiang, Z. Yang, M.H. Chen, M. Aykol, P.K. Herring, D. Fraggedakis, M.Z. Bazant, S.J. Harris, W.C. Chueh, R.D. Braatz. Nature Energy, 2019. [paper](https://web.mit.edu/braatzgroup/Severson_NatureEnergy_2019.pdf) [press](https://news.stanford.edu/2019/03/25/ai-accurately-predicts-useful-life-batteries/)
 
-* Unsupervised learning with contrastive latent variable models. K.A. Severson, S. Ghosh, K. Ng. AAAI, 2019. [paper](https://arxiv.org/abs/1811.06094)
+* Unsupervised learning with contrastive latent variable models. K.A. Severson, S. Ghosh, K. Ng. AAAI, 2019. [paper](https://arxiv.org/abs/1811.06094) [slides]({filename}/../files/Severson_AAAI2019_Presentation.pdf)
 
 ## 2018
 
