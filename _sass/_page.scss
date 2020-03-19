@@ -10,6 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  background-color: #DDA0DD;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -17,6 +18,7 @@
 }
 
 .page {
+  background-color: #DDA0DD;
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
@@ -53,8 +55,6 @@
 }
 
 .page__content {
-   background-color: #DDA0DD;
-
   h2 {  /* change 2 */
     padding-bottom: 1em;
     border-bottom: 3px solid #a52a2a;
@@ -64,6 +64,7 @@
     font-size: $type-size-5; /* body content of homepage*/
     font-family: $garamond;
     color: $dark-gray;
+    background-color: #DDA0DD;
   }
 
   /* paragraph indents */
