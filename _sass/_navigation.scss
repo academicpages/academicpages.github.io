@@ -169,23 +169,23 @@
 
 
 /*
-   Priority plus navigation
+   Priority plus navigation (top bar containing cv etc menu)
    ========================================================================== */
 
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #DA70D6; /* c2*/
+  background: #000000; /* c2*/
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #ffffff; /*$masthead-link-color;*/
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #F0FFFF; /*$masthead-link-color-hover;*/
     }
   }
 
