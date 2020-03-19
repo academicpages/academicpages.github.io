@@ -90,3 +90,13 @@ Please add yourself. See example(s) below.
 [Google Scholar](https://scholar.google.com/citations?user=-ONw6lsAAAAJ){:target="_blank"}  
 <br>
 **Bio:** I’m a microbial ecologist/bioinformatician at NASA’s Ames Research Center in northern California, USA. I get to work in all kinds of different systems ranging from the bottoms of our oceans up to the International Space Station 👽. Having [gone through it myself](https://astrobiomike.github.io/about/){:target="_blank"}, I very much enjoy trying to help folks get through the initial steep learning curve that lots of us face when we start getting into bioinformatics. In addition to regularly helping to organize and teach at bioinformatics workshops such as [STAMPS](https://mblstamps.github.io/){:target="_blank"} and [ANGUS](https://angus.readthedocs.io/en/2019/){:target="_blank"}, I develop and maintain [Happy Belly Bioinformatics](https://astrobiomike.github.io/){:target="_blank"}, a site that aims to be a useful resource for biologists who are new to bioinformatics 🙂  
+
+## Ashley B. Cohen, M.S.
+
+<img align="left" src="/images/CohenPhoto.jpeg">
+
+**Email:** ashleybrookcohen@gmail.com
+
+**Twitter:** @ashbc1988
+
+**Bio:**  I am a PhD candidate in biogeochemistry at the School of Marine and Atmospheric Sciences, Stony Brook University, NY in Dr. Gordon Taylor’s Marine Microbial Ecology laboratory. I specialize in the geobiology, or the interaction of geochemical processes and microbes, of oxygen-free environments. My dissertation work at Fayetteville Green Lake, NY, is focused on how the succession of microbial carbon fixation pathways and sulfur metabolisms along redox gradients influences stable isotope signatures. I am especially interested in how they are compartmentalized into suspended and sinking particulate matter in the water column, and ultimately, what is incorporated into sediment. I hope this will provide insight into which early earth anoxic water column processes are reflected in the geologic record. I combine microbiology techniques including Illumina sequencing, stable isotope probing, radiotracer rate measurements, qPCR, and fluorescence in situ hybridization with geochemical techniques to answer these questions.
