@@ -1,5 +1,5 @@
 ---
-chapter: "Parametric optimisation of laser beam machining processes using shuffled frog leaping algorithm"
+title: "Parametric optimisation of laser beam machining processes using shuffled frog leaping algorithm"
 artag: "book"
 book: "Focus in Swarm Intelligence Research and Applications"
 collection: publications
