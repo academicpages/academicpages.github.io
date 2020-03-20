@@ -28,13 +28,13 @@
           alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
+    <ul class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}{{ venue }}</a><a href="{{ base_path }}{{ post.url }}" rel="permalink"> <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <p>{{ post.authors }} {{ post.title }}, <i>{{ post.venue }}</i>, Vol. {{post.volume }}, pp. {{post.pages}} ({{post.year}})<a href="{{ base_path }}{{ post.url }}" rel="permalink">[Click Here]</a></p>
+        <li><p>{{ post.authors }} {{ post.title }}, <i>{{ post.venue }}</i>, Vol. {{post.volume }}, pp. {{post.pages}} ({{post.year}})<a href="{{ base_path }}{{ post.url }}" rel="permalink">[Click Here]</a></p></li>
       {% endif %}
-    </h3>
+    </ul>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
