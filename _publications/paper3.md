@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/paper3
 excerpt: 'In this paper, a new evolutionary algorithm, i.e., grey wolf optimizer (GWO), a technique based on the hunting behavior of grey wolves, is applied for finding out the optimal parametric combinations of AWJM processes'
 date: 2018-03-20
-authors: "S. Chakraborty, **A. Mitra**,"
-venue: "_Materials and Manufacturing Processes_"
+authors: "S. Chakraborty, A. Mitra,"
+venue: "Materials and Manufacturing Processes"
 volume: "33(13)"
 pages: "1471-1482"
 year: "2018"
