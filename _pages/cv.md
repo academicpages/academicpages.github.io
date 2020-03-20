@@ -41,9 +41,9 @@ Experience
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ol type="1">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Awards & Honours
 ======
