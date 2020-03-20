@@ -1,5 +1,6 @@
 ---
 title: "A hybrid multi-criteria decision making model for optimal coal blending"
+artag: journal
 collection: publications
 permalink: /publication/paper1
 excerpt: 'The purpose of this paper is thus to develop a hybrid decision-making model for optimal coal blending strategy.'
