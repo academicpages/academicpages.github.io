@@ -58,7 +58,7 @@ $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $darker-gray;
+$border-color               : $dark-gray;
 
 $primary-color              : #392BE0;
 $success-color              : #62c462;
@@ -100,12 +100,12 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 /* background */
 $primary-background         : $lavender;
-$masthead                   : mix(#fff, $primary-background, 25%);
-$page-body                  : $masthead;
-$page-content               : $masthead;
-$page-sidebar               : $masthead;
-$page-base                  : $masthead;
-$page-footer                : $masthead;
+$masthead                   : mix(#000, $primary-background, 10%);
+$page-body                  : $primary-background;
+$page-content               : $primary-background;
+$page-sidebar               : $primary-background;
+$page-base                  : $primary-background;
+$page-footer                : mix(#000, $primary-background, 10%);
 
 
 /*
