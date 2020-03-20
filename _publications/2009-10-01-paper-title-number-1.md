@@ -2,7 +2,7 @@
 title: "A hybrid multi-criteria decision making model for optimal coal blending"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The purpose of this paper is thus to develop a hybrid decision-making model for optimal coal blending strategy.'
 date: 2019-10-01
 venue: 'Journal of Modelling in Management'
 paperurl: 'http://percyjackson9.github.io/files/chakraborty2019.pdf'
