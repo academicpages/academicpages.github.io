@@ -100,8 +100,8 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 /* background */
 $primary-background         : $lavender;
-$masthead                   : $primary-background;
 $masthead-header            : mix(#000, $primary-background, 10%);
+$masthead                   : $masthead-header;
 $page-body                  : $primary-background;
 $page-content               : $primary-background;
 $page-sidebar               : $primary-background;
