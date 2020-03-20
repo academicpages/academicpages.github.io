@@ -39,6 +39,7 @@ All participants are expected to show respect and courtesy to others. All intera
 * Gracefully accept constructive criticism
 * Focus on what is best for the community
 * Show courtesy and respect towards other community members
+
 Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
 
 ### Part 2.2 Unacceptable behaviour
