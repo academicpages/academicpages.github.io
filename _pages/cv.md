@@ -47,19 +47,17 @@ Publications
   
 Awards & Honours
 ======
-* **University Medal** (Dec 2018)
-  * _Awarded by Jadavpur University for standing first in order of merit in Production Engineering, at the Bachelor of Engineering Examination, 2018)_
+* Recipient of **CIDSE Doctoral Fellowship** (Summer 2020)
+* **University Medal** (Dec 2018) - _Awarded by Jadavpur University_
+  * for standing first in order of merit in Production Engineering, at the Bachelor of Engineering Examination, 2018)
 * Recipient of **CIDSE Doctoral Fellowship** (2018-2019)
-* **Meera Rani Mitra Memorial Award** (Jan 2018)
-  * _Awarded by Alumni Association NCE Bengal and Jadavpur University_
-    _(for securing highest marks in Production Engineering department, in the third year university examination held in 2017)._
-Indu Bhushan Putatunda and Shanti Sudha Putatunda Memorial Award (Dec 2016)
-Awarded by Alumni Association NCE Bengal and Jadavpur University
-(for securing highest marks in Production Engineering department, in the second year university examination held in 2016).
-Recipient of TATA Steel Millennium Scholarship (2014-2018)
-Certificate of Merit (May 2014)
-Awarded by Kendriya Vidyalaya Sangathan
-(for securing position in the top 1.5% of K.V.S. students in the All India Senior School Certificate Examination 2014, conducted by CBSE).
+* **Meera Rani Mitra Memorial Award** (Jan 2018) - _Awarded by Alumni Association NCE Bengal and Jadavpur University_
+  * for securing highest marks in Production Engineering department, in the third year university examination held in 2017).
+* **Indu Bhushan Putatunda and Shanti Sudha Putatunda Memorial Award** (Dec 2016) - _Awarded by Alumni Association NCE Bengal and Jadavpur University_
+  * for securing highest marks in Production Engineering department, in the second year university examination held in 2016
+* Recipient of **TATA Steel Millennium Scholarship** (2014-2018)
+* **Certificate of Merit** (May 2014) - _Awarded by Kendriya Vidyalaya Sangathan_
+  * for securing position in the top 1.5% of K.V.S. students in the All India Senior School Certificate Examination 2014, conducted by CBSE.
 
 Technical Skills
 ======
