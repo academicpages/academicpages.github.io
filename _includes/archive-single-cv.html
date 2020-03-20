@@ -41,7 +41,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}{{ venue }}</a><a href="{{ base_path }}{{ post.url }}" rel="permalink"> <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <p>{{ post.authors }} <b>{{ post.chapter }}</b>, in <i>{{ post.book }}</i>, eds. {{post.editors }}, {{ post.publisher }} pp. {{post.pages}} ({{post.year}}) <a href="{{ base_path }}{{ post.url }}" rel="permalink">[Click Here]</a></p>
+        <p>{{ post.authors }} <b>{{ post.title }}</b>, in <i>{{ post.book }}</i>, eds. {{post.editors }}, {{ post.publisher }} pp. {{post.pages}} ({{post.year}}) <a href="{{ base_path }}{{ post.url }}" rel="permalink">[Click Here]</a></p>
       {% endif %}
     {% endif %}
   </p>
