@@ -6,7 +6,7 @@ excerpt: 'The purpose of this paper is thus to develop a hybrid decision-making 
 date: 2019-10-01
 venue: 'Journal of Modelling in Management'
 paperurl: 'http://percyjackson9.github.io/files/chakraborty2019.pdf'
-citation: 'S. Chakraborty, **A. Mitra**. (2019). &quot;A hybrid multi-criteria decision making model for optimal coal blending.&quot; <i>Journal of Modelling in Management</i>. 14(2).'
+citation: 'S. Chakraborty, A. Mitra. (2019). &quot;A hybrid multi-criteria decision making model for optimal coal blending.&quot; <i>Journal of Modelling in Management</i>. 14(2), pp. 339-359'
 ---
 Purpose
 ----
