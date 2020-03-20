@@ -10,5 +10,8 @@ main:
     url: https://github.com/biovcnet/biovcnet.github.io/wiki   
     
   - title: "Get Involved"
-    url: /get-involved.html  
+    url: /get-involved.html
+    
+  - title: "Code of Conduct"
+    url: /code-of-conduct.html
 
