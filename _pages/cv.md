@@ -41,11 +41,11 @@ Experience
   
 Publications
 ======
-* Book Chapters
-  * <ol type="1">{% for post in site.publications reversed %}
+**Book Chapters**
+  <ol type="1">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
-* Journal Articles
+**Journal Articles**
   <ol type="1">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
