@@ -48,12 +48,11 @@ Publications
 Awards & Honours
 ======
 * **University Medal** (Dec 2018)
-  * _Awarded by Jadavpur University 
-    (for standing first in order of merit in Production Engineering, at the Bachelor of Engineering Examination, 2018)_
-Recipient of CIDSE Doctoral Fellowship (2018-2019)
-Meera Rani Mitra Memorial Award (Jan 2018)
-Awarded by Alumni Association NCE Bengal and Jadavpur University
-(for securing highest marks in Production Engineering department, in the third year university examination held in 2017).
+  * _Awarded by Jadavpur University for standing first in order of merit in Production Engineering, at the Bachelor of Engineering Examination, 2018)_
+* Recipient of **CIDSE Doctoral Fellowship** (2018-2019)
+* **Meera Rani Mitra Memorial Award** (Jan 2018)
+  * _Awarded by Alumni Association NCE Bengal and Jadavpur University_
+    _(for securing highest marks in Production Engineering department, in the third year university examination held in 2017)._
 Indu Bhushan Putatunda and Shanti Sudha Putatunda Memorial Award (Dec 2016)
 Awarded by Alumni Association NCE Bengal and Jadavpur University
 (for securing highest marks in Production Engineering department, in the second year university examination held in 2016).
