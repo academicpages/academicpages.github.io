@@ -1,7 +1,7 @@
 ---
 title: "A multivariate quality loss function approach for optimisation of spinning processes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper2
 excerpt: 'In this paper, the applicability of a new systematic approach in the form of multivariate quality loss function technique is explored for optimizing multiple quality characteristics of yarns while identifying the ideal settings of two spinning processes'
 date: 2018-12-01
 authors: "S. Chakraborty, **A. Mitra**,"
