@@ -39,20 +39,47 @@ Experience
   * _Brake Block Manufacturing Plant, Wabtec Texmaco Rail Private Ltd._
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Awards & Honours
+======
+* **University Medal** (Dec 2018)
+  * _Awarded by Jadavpur University 
+    (for standing first in order of merit in Production Engineering, at the Bachelor of Engineering Examination, 2018)_
+Recipient of CIDSE Doctoral Fellowship (2018-2019)
+Meera Rani Mitra Memorial Award (Jan 2018)
+Awarded by Alumni Association NCE Bengal and Jadavpur University
+(for securing highest marks in Production Engineering department, in the third year university examination held in 2017).
+Indu Bhushan Putatunda and Shanti Sudha Putatunda Memorial Award (Dec 2016)
+Awarded by Alumni Association NCE Bengal and Jadavpur University
+(for securing highest marks in Production Engineering department, in the second year university examination held in 2016).
+Recipient of TATA Steel Millennium Scholarship (2014-2018)
+Certificate of Merit (May 2014)
+Awarded by Kendriya Vidyalaya Sangathan
+(for securing position in the top 1.5% of K.V.S. students in the All India Senior School Certificate Examination 2014, conducted by CBSE).
+
+Technical Skills
+======
+* _Optimization_
+  * CPLEX
+  * Gurobii
+* _Programming_
+  * Python
+  * MATLAB
+  * C++
+  * Lindo
+  * AMPL
+* _Statistical Package_
+  * Minitab
+  * Excel
+* _Representation_
+  * Latex
+  * Origin Pro
+  * MS Office
   
 Talks
 ======
