@@ -10,7 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-  background-color: #E6E6FA;  /* changes whole page colour */
+  background-color: $page-body;  /* changes whole page colour */
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -18,7 +18,7 @@
 }
 
 .page {
-  /*background-color: #DDA0DD;   /*changes body colour */
+  background-color: $page-content;   /*changes body colour */
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
