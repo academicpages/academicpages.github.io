@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Full Professor of Communication and Information Systems at the Department of [Industrial Engineering and Management](https://www.iim.ftn.uns.ac.rs/) of the [Faculty of Technical Sciences](http://ftn.uns.ac.rs), [University of Novi Sad](http://www.uns.ac.rs/), Serbia.
+I am a Full Professor of Information Systems Engineering at the Department of [Industrial Engineering and Management](https://www.iim.ftn.uns.ac.rs/) of the [Faculty of Technical Sciences](http://ftn.uns.ac.rs), [University of Novi Sad](http://www.uns.ac.rs/), Serbia.
 
 Since July 2019, I have transitioned into the role of Ambassador for [Tandemlaunch](http://www.tandemlaunch.com), a unique startup foundry based in Montreal, Canada. If you would like to start a deep tech startup, let me know. 
 
