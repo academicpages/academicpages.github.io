@@ -85,11 +85,11 @@ Please add yourself. See example(s) below.
 
 **Email:** MikeLee@bmsis.org  
 
-**Twitter:** [@AstrobioMike](https://twitter.com/AstrobioMike){:target="_blank"}  
+**Twitter: [@AstrobioMike](https://twitter.com/AstrobioMike){:target="_blank"}**  
 
-[Website](https://astrobiomike.github.io/research/){:target="_blank"}  
+**[Website](https://astrobiomike.github.io/research/){:target="_blank"}**  
 
-[Google Scholar](https://scholar.google.com/citations?user=-ONw6lsAAAAJ){:target="_blank"}  
+**[Google Scholar](https://scholar.google.com/citations?user=-ONw6lsAAAAJ){:target="_blank"}**  
 <br>
 **Bio:** I’m a microbial ecologist/bioinformatician at NASA’s Ames Research Center in northern California, USA. I get to work in all kinds of different systems ranging from the bottoms of our oceans up to the International Space Station 👽. Having [gone through it myself](https://astrobiomike.github.io/about/){:target="_blank"}, I very much enjoy trying to help folks get through the initial steep learning curve that lots of us face when we start getting into bioinformatics. In addition to regularly helping to organize and teach at bioinformatics workshops such as [STAMPS](https://mblstamps.github.io/){:target="_blank"} and [ANGUS](https://angus.readthedocs.io/en/2019/){:target="_blank"}, I develop and maintain [Happy Belly Bioinformatics](https://astrobiomike.github.io/){:target="_blank"}, a site that aims to be a useful resource for biologists who are new to bioinformatics 🙂  
 
@@ -106,13 +106,13 @@ Please add yourself. See example(s) below.
 
 ## Harriet Alexander
 
-<img align="left" src="https://github.com/AlexanderLabWHOI/academic-kickstart/blob/master/static/img/headshot-01.jpg" width="200px" style="padding-right: 15px">
+<img align="left" src="/images/harriet-alexander.jpg" width="200px" style="padding-right: 15px">
 
 **Email:** halexander@whoi.edu
 
 **Twitter:** @nekton4plankton
 
-**[Website](https://alexanderlabwhoi.github.io/)*
+**[Website](https://alexanderlabwhoi.github.io/)**
 
 **[Google Scholar](https://scholar.google.com/citations?user=FdYCw1gAAAAJ&hl=en)**
 
