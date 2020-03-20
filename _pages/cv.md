@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Doctor of Philosophy**, in Industrial Engineering, Arizona State University, 2023 (expected)
+  * GPA: 3.86/4 (till Fall 2019)
+  * Topic: Large scale optimization of network models using combinatorial algorithms.
+* **Bachelor of Engineering**, in Production Engineering, Jadavpur University, 2018
+  * GPA : 8.96/10 (absolute scale) First Class with Honours.
+  * Thesis: A hybrid multi-criteria approach to optimal coal blending.
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Graduate Researcher**, (May 2019 - present)
+  * _Department of Industrial Engineering, Arizona State University, USA.
+    * Topics: Large scale optimization of network models using combinatorial algorithms.
+    * Advisor: Dr. Jorge Sefair.
+* **Summer Research Intern**, (May 2017 - July 2017)
+  * _Non-oxide Ceramics and Composites Division, CSIR - Central Glass and Ceramic Research Institute, INDIA.
+    * Project: Study of machinability of sintered alumina and analysis using Grey-Fuzzy logic.
+    * Advisor: Dr. Dipayan Sanyal (email: dsanyal@cgcri.res.in)
+* **Undergraduate Researcher** (Aug 2015 - Aug 2018)
+  * _Department of Production Engineering, Jadavpur University, INDIA.
+    * Topics: Modelling and optimisation of advanced machining processes, applications of decision making techniques.
+    * Advisor: Dr. Shankar Chakraborty (email: s_chakraborty00@yahoo.co.in)
+  * _Department of Mechanical Engineering, Netaji Subhas Engineering College, INDIA.
+    * Topics: Optimization of longitudinal fins considering all non-linearity effects.
+    * Advisor: Dr. Debasis Barman (debasis.barman@nsec.ac.in)
+* **Industrial Trainee**, (June 2016 - July 2016)
+  * _Brake Block Manufacturing Plant, Wabtec Texmaco Rail Private Ltd.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
