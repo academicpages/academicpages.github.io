@@ -90,6 +90,22 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Graduate Coursework
 ======
-* Currently signed in to 43 different slack teams
+* Spring 2020
+  * Modeling with Game Theory (AML 591)
+  * Bio-inspired AI and Optimization (IEE 598)
+  * Advanced Quality Control (IEE 570)
+* Fall 2019
+  * Foundation of Algorithms (CSE 551)
+  * Graph Theory 1 (MAT 516)
+  * Operations Research in Healthcare (IEE 526)
+* Spring 2019
+  * Optimization II (IEE 622)
+  * Network Flow and Algorithms (IEE 598)
+  * Foundation of Information Systems (IEE 605)
+* Fall 2018
+  * Optimization I (IEE 620)
+  * Probability and Stochastic Processes (IEE 640)
+  * Mathematical Statistics (IEE 670)
+
