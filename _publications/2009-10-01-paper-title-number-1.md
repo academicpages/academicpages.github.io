@@ -1,12 +1,16 @@
----
+
 title: "A hybrid multi-criteria decision making model for optimal coal blending"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The purpose of this paper is thus to develop a hybrid decision-making model for optimal coal blending strategy.'
 date: 2019-10-01
-venue: 'Journal of Modelling in Management'
+authors: "S. Chakraborty, **A. Mitra**,"
+venue: "_Journal of Modelling in Management_"
+volume: "14(2)"
+pages: "339-359"
+year: "2019"
 paperurl: 'http://percyjackson9.github.io/files/chakraborty2019.pdf'
----
+
 Purpose
 ----
 The purpose of this paper is thus to develop a hybrid decision-making model for optimal coal blending strategy. Coal is one of the major resources contributing to generation of electricity and anthropogenic carbon-dioxide emission. Being formed from dead plant matter, it undergoes a series of morphological changes from peat to lignite, and finally to anthracite. Because of non-uniform distribution of coal over the whole earth and continuous variation in its compositions, coals mined from different parts of the world have widely varying properties. Hence, it requires an ideal blending strategy such that the coking coal having the optimal combination of all of its properties can be used for maximum benefit to the steel making process.
