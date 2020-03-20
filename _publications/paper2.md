@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/paper2
 excerpt: 'In this paper, the applicability of a new systematic approach in the form of multivariate quality loss function technique is explored for optimizing multiple quality characteristics of yarns while identifying the ideal settings of two spinning processes'
 date: 2018-12-01
-authors: "S. Chakraborty, **A. Mitra**,"
-venue: "_Journal of The Institution of Engineers (India): Series E_"
+authors: "S. Chakraborty, A. Mitra,"
+venue: "Journal of The Institution of Engineers (India): Series E"
 volume: "99(1)"
 pages: "101-109"
 year: "2018"
