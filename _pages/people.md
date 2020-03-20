@@ -12,6 +12,8 @@ List yourself
 
 ## Ben Tully
 
+<img align="left" src="/images/benjtully.jpg" width="200px" style="padding-right: 15px">
+
 **Email:** tully.bj@gmail.com
 
 **Twitter:** @phatombugs
@@ -29,7 +31,7 @@ Please add yourself. See example(s) below.
 
 ## Jake L. Weissman
 
-<img align="left" src="/images/jlw2.jpg">
+<img align="left" src="/images/jlw2.jpg" style="padding-right: 15px">
 
 **Email:** jakeweis@usc.edu
 
@@ -42,7 +44,7 @@ Please add yourself. See example(s) below.
 **Bio:** The battle between microbes and their viruses is ancient and ongoing. Over billions of years of coevolution, microbes have evolved a great diversity of strategies to protect themselves against viral infections. What drives selection favoring a particular antiviral defense strategy? What new defense systems are still waiting to be discovered? How do defense systems coevolve with pathogens over time, and how does this coevolution feed back into the dynamics of host-virus interactions? The central theme of my previous and ongoing work is the application of tools from the fields of machine learning and complex systems science, alongside more traditional approaches from population genetics and theoretical ecology, to understand the ecology and evolution of antiviral defense strategies.
 
 ## Elizabeth McDaniel
-<img src="https://avatars1.githubusercontent.com/u/18299362?s=460&u=2759d5e6ec166f8f71fb0b1521324fe813d049a2&v=4" align="left" width="200">
+<img src="https://avatars1.githubusercontent.com/u/18299362?s=460&u=2759d5e6ec166f8f71fb0b1521324fe813d049a2&v=4" align="left" width="200" style="padding-right: 15px">
 
 **Email:** elizabethmcd93@gmail.com
 
@@ -53,7 +55,7 @@ Please add yourself. See example(s) below.
 **Bio:** I am a PhD student in the Microbiology Doctoral Training Program in Dr. Katherine McMahon's lab at the University of Wisconsin - Madison. I use a combination of enrichment culture techniques and integrated genome-resolved metagenomics to investigate bacterial population dynamics of engineered wastewater systems. I am passionate about helping people solve their analytical challenges as it relates to their research. I am a certified Carpentries instructor and a co-chair of the Computational Biology, Ecology, and Evolution [(ComBEE)](https://combee-uw-madison.github.io/studyGroup/) study group on the UW-Madison campus.
 
 ## Morgan V. Evans
-<img src="https://avatars2.githubusercontent.com/u/51716739?s=460&u=952436b987be5903627bc69d88a77fdd36ec1efa&v=4" align="left" width="200">
+<img src="https://avatars2.githubusercontent.com/u/51716739?s=460&u=952436b987be5903627bc69d88a77fdd36ec1efa&v=4" align="left" width="200" style="padding-right: 15px">
 
 **Email:** evans.2408@osu.edu
 
@@ -67,7 +69,7 @@ Please add yourself. See example(s) below.
 
 ## Joy Buongiorno
 
-<img align="left" src="/images/joyb.jpeg">
+<img align="left" src="/images/joyb.jpeg" style="padding-right: 15px">
 
 **Email:** jbuongior21@gmail.com
 
