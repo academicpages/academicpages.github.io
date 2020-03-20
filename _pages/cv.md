@@ -43,12 +43,16 @@ Publications
 ======
 **Book Chapters**
   <ol type="1">{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.artag == book %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ol>
   
 **Journal Articles**
   <ol type="1">{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.artag == book %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ol>
   
 Awards & Honours
