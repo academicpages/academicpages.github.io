@@ -95,12 +95,12 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
+$masthead-link-color        : #ffffff /*$primary-color;*/
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 /* background */
 $primary-background         : $lavender;
-$masthead                   : mix(#000, $primary-background, 25%);
+$masthead                   : mix(#fff, $primary-background, 25%);
 $page-body                  : $masthead;
 $page-content               : $masthead;
 $page-sidebar               : $masthead;
