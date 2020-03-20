@@ -1,6 +1,6 @@
 ---
 title: "A multi-criteria decision support model for optimal cotton fibre blending"
-artag: journal
+artag: "journal"
 collection: publications
 permalink: /publication/paper4
 excerpt: 'In this paper, a multi-criteria optimization model in the form of a decision support framework is developed while integrating preference ranking organization method for enrichment of evaluations (PROMETHEE II and V) and geometrical analysis for interactive aid (GAIA) approach.'
