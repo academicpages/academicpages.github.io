@@ -1,5 +1,6 @@
 ---
 title: "Parametric optimization of abrasive water-jet machining processes using grey wolf optimizer"
+artag: journal
 collection: publications
 permalink: /publication/paper3
 excerpt: 'In this paper, a new evolutionary algorithm, i.e., grey wolf optimizer (GWO), a technique based on the hunting behavior of grey wolves, is applied for finding out the optimal parametric combinations of AWJM processes'
