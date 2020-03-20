@@ -102,3 +102,18 @@ Please add yourself. See example(s) below.
 **Twitter:** @ashbc1988
 
 **Bio:**  I am a PhD candidate in biogeochemistry at the School of Marine and Atmospheric Sciences, Stony Brook University, NY in Dr. Gordon Taylor’s Marine Microbial Ecology laboratory. I specialize in the geobiology, or the interaction of geochemical processes and microbes, of oxygen-free environments. My dissertation work at Fayetteville Green Lake, NY, is focused on how the succession of microbial carbon fixation pathways and sulfur metabolisms along redox gradients influences stable isotope signatures. I am especially interested in how they are compartmentalized into suspended and sinking particulate matter in the water column, and ultimately, what is incorporated into sediment. I hope this will provide insight into which early earth anoxic water column processes are reflected in the geologic record. I combine microbiology techniques including Illumina sequencing, stable isotope probing, radiotracer rate measurements, qPCR, and fluorescence in situ hybridization with geochemical techniques to answer these questions.
+
+
+## Harriet Alexander
+
+<img align="left" src="https://github.com/AlexanderLabWHOI/academic-kickstart/blob/master/static/img/headshot-01.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** halexander@whoi.edu
+
+**Twitter:** @nekton4plankton
+
+**[Website](https://alexanderlabwhoi.github.io/)*
+
+**[Google Scholar](https://scholar.google.com/citations?user=FdYCw1gAAAAJ&hl=en)**
+
+**Bio:** I am an Assistant Scientist in the Biology Department at the Woods Hole Oceanographic Institution interested in bioinformatics and microbes in the ocean. My work focuses on characterizing the the interplay of physiological ecology and diversity in the ocean with a focus on eukaryotic plankton. Much of my research has leveraged meta-omic data to derive insights into the diversity and function of these ecosystems.
