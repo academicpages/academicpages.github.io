@@ -1,7 +1,7 @@
 
 title: "A hybrid multi-criteria decision making model for optimal coal blending"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper1
 excerpt: 'The purpose of this paper is thus to develop a hybrid decision-making model for optimal coal blending strategy.'
 date: 2019-10-01
 authors: "S. Chakraborty, **A. Mitra**,"
