@@ -17,7 +17,7 @@ author_profile: true
 
 * Data-driven prediction of battery cycle life before capacity degradation. K.A. Severson, P.M. Attia, N. Jin, N. Perkins, B. Jiang, Z. Yang, M.H. Chen, M. Aykol, P.K. Herring, D. Fraggedakis, M.Z. Bazant, S.J. Harris, W.C. Chueh, R.D. Braatz. Nature Energy, 2019. [paper](https://web.mit.edu/braatzgroup/Severson_NatureEnergy_2019.pdf) [press](https://news.stanford.edu/2019/03/25/ai-accurately-predicts-useful-life-batteries/)
 
-* Unsupervised learning with contrastive latent variable models. K.A. Severson, S. Ghosh, K. Ng. AAAI, 2019. [paper](https://arxiv.org/abs/1811.06094) [slides]({filename}/files/Severson_AAAI2019_Presentation.pdf)
+* Unsupervised learning with contrastive latent variable models. K.A. Severson, S. Ghosh, K. Ng. AAAI, 2019. [paper](https://arxiv.org/abs/1811.06094) [slides](https://kseverso.github.io/files/Severson_AAAI2019_Presentation.pdf)
 
 ## 2018
 
@@ -27,7 +27,7 @@ author_profile: true
 
 ## 2017
 
-* Opportunities and challenges of real-time release testing in biopharmaceutical manufacturing. M. Jiang, K.A. Severson, J.C. Love, H. Madden, P. Swann, L. Zang, R.D. Braatz. Biotechnology and Bioegineering, 2017. [paper](https://web.mit.edu/braatzgroup/Jiang_BiotechBioeng_2017.pdf)
+* Opportunities and challenges of real-time release testing in biopharmaceutical manufacturing. M. Jiang, K.A. Severson, J.C. Love, H. Madden, P. Swann, L. Zang, R.D. Braatz. Biotechnology and Bioengineering, 2017. [paper](https://web.mit.edu/braatzgroup/Jiang_BiotechBioeng_2017.pdf)
 
 * Principal component analysis of process datasets with missing values. K.A. Severson, M.C. Molaro, R.D. Braatz. Processes, 2017. [paper](https://www.mdpi.com/2227-9717/5/3/38)
 
