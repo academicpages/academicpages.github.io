@@ -99,7 +99,7 @@ $masthead-link-color        : #ffffff; /*$primary-color;*/
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 /* background */
-$primary-background         : #FFA500;
+$primary-background         : $lavender;
 $masthead                   : mix(#fff, $primary-background, 25%);
 $page-body                  : $masthead;
 $page-content               : $masthead;
