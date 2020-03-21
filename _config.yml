@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bioinformatics Virtual Coordnation Network"
+title                    : "Bioinformatics Virtual Coordination Network"
 title_separator          : "-"
 name                     : &name "BVCN"
 description              : &description "Description"
