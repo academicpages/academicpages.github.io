@@ -87,19 +87,30 @@ Technical Skills
   * Latex
   * Origin Pro
   * MS Office
-  
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
 Teaching
 ======
+* **Graduate Teaching Assistant** (Aug 2018 - present)
+  * _School of Computing, Informatics and Decision Systems Engineering, ASU, USA._
+    * Spring 2020 - IEE 380 - Probability and Statistics for engineering Problem Solving (Instructor - Dr. Michael Clough).
+    * Fall 2019 - IEE 380 - Probability and Statistics for engineering Problem Solving (Instructor - Dr. Michael Clough).
+    * Spring 2019 - IEE 380 - Probability and Statistics for engineering Problem Solving (Instructor - Dr. Linda Chattin).
+    * Fall 2018 - IEE 380 - Probability and Statistics for engineering Problem Solving (Instructor - Dr. Linda Chattin).
+* **Graduate Teaching Intern** (Aug 2019 - Dec 2019)
+  * _School of Computing, Informatics and Decision Systems Engineering, ASU, USA._
+    * IEE 620 - Optimization I - (Advisor - Dr. Jorge Sefair)
+<!--
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
 Graduate Coursework
 ======
 * Spring 2020
