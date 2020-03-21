@@ -22,6 +22,9 @@ main:
    
   - title: "Contact"
     url: /contact/
+    
+  - title: "Extra Curriculars"
+    url: /extrac/
   
   #- title: "Guide"
   #  url: /markdown/
