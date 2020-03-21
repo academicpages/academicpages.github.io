@@ -88,13 +88,7 @@ Technical Skills
   * Origin Pro
   * MS Office
 
-<!--
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
--->
+
 Teaching
 ======
 * **Graduate Teaching Assistant** (Aug 2018 - present)
@@ -106,11 +100,7 @@ Teaching
 * **Graduate Teaching Intern** (Aug 2019 - Dec 2019)
   * _School of Computing, Informatics and Decision Systems Engineering, ASU, USA._
     * IEE 620 - Optimization I - (Advisor - Dr. Jorge Sefair)
-<!--
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
+
 Graduate Coursework
 ======
 * Spring 2020
