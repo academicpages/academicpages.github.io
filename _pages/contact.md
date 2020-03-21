@@ -9,7 +9,7 @@ redirect_from:
 ---
 Contact
 ----
-Industrial Engineering Department, Arizona State University, Tempe Campus
+Industrial Engineering Department, Arizona State University, Tempe Campus,
 Brickyard Engineering, 699 S Mill Ave, Tempe, AZ 85281
 3rd Floor
 
