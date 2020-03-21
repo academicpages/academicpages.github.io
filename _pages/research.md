@@ -5,6 +5,11 @@ author_profile: true
 permalink: /research/
 ---
 
+Measuring the Hubble Constant based on the Tip of the Red Giant
+===
+
+My current research at UChicago, advised by Wendy Freedman, focuses on measuring the Hubble Constant by improving calibrations of type Ia supernovae by the Tip of the Red Giant Branch. The TRGB method is a relatively new 'rung' on the cosmic distance ladder that is both precise and accurate, and is independent of the more conventional Cepheid distance scale. There are several advantages of the halo TRGB distance measurements relative to cepheid variables including low halo reddening, minimal effects of crowding or blending of the photometry, a shallow sensitivity to metallicity in the I-band, and no need for multiple observations for measuring the Period-Luminosity relationship. 
+
 Reconstructing Log-normal Density Fields using Hamiltonian Monte Carlo Techniques
 ====
 

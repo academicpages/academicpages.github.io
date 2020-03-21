@@ -6,14 +6,12 @@ permalink: /funstuff/
 ---
 
 
-**Soccer:** In my free time I like to play soccer. Here is a picture of me with club soccer team in college. I currently like to play rec soccer through the Chicago Fire Rec Soccer league on weekends. 
+**Soccer:** In my free time I like to play soccer. Here's a picture of me with club soccer team in college! Now, I play rec soccer through the Chicago Fire Rec Soccer league on weekends. 
 
 ![Picture of my soccer team](../images/IMG_0015.jpeg)
 
-**Running:** In the past year, I have started running pretty regularly. I am currently training for the 2020 Chicago Marathon!
-
 **Game of Thrones**
-I am a huge Game of Thrones fan as well. One of my life goals is to visit all the major Game of Thrones filming sites. 
+I am a big Game of Thrones fan. One of my life goals is to visit all the major Game of Thrones filming sites. 
 
 
 <figure class="half">
