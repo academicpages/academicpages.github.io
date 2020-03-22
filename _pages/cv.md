@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For a PDF version of my CV, <u><a href="https://percyjackson.github.io/files/CV_Try_1 (2).pdf">click here</a></u>  
+
 Education
 ======
 * **Doctor of Philosophy**, in Industrial Engineering, Arizona State University, 2023 (expected)
