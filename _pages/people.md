@@ -133,3 +133,18 @@ Please add yourself. See example(s) below.
 **Bio:** I'm microbial ecologist/bioinformatician/geobiologist interested in the way the uncultured microbial majority makes a living, and influences life and the planet around it. I apply a mix of bioinformatics, field science, and labwork to try and improve our understanding of microbial communities. I'm currently a postdoc in the lab of Prof. Victoria Orphan at Caltech, where I work on the microbes living at a hydrothermal vent system in the Gulf of California, and those in Mono Lake. In addition, I try to think of ways to leverage the ever-increasing data provided by environmental sequencing to further increase our knowledge of the microbial world.
 
 
+## Alexis Marshall
+
+<img align="left" src="/images/AMarshallPhoto.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** alexis.marshall@waikato.ac.nz
+
+**Twitter:** @lexyjayne
+
+**Bio:** My research investigates the functional role of microbial communities in the environment. I am currently based at the University of Waikato, New Zealand as a research fellow with Prof. Craig Cary where we study the response of microbial communities within coastal sediments to ocean acidification.  I am also involved in the characterisation of microbial functional roles within the Dry Valley, Ross Ice Shelf and Ross Sea ecosystems of Antarctica. 
+
+
+
+
+
+
