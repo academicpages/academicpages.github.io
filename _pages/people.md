@@ -147,7 +147,7 @@ Please add yourself. See example(s) below.
 
 ## Sarah K. Hu
 
-<img align="left" src="/images/AMprofile-slack-shupg" width="200px" style="padding-right: 15px">
+<img align="left" src="/images/profile-slack-shu.jpg" width="200px" style="padding-right: 15px">
 
 **Twitter:** @shu251
 
