@@ -145,6 +145,16 @@ Please add yourself. See example(s) below.
 
 
 
+## Sarah K. Hu
 
+<img align="left" src="/images/AMprofile-slack-shupg" width="200px" style="padding-right: 15px">
+
+**Twitter:** @shu251
+
+**[Website](https://shu251.github.io)**
+
+**[Google scholar](https://scholar.google.com/citations?user=9CI91CMAAAAJ&hl=en)**
+
+I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemistry & Geochemistry) working to reveal the ecological roles single-celled microbial eukaryotes play in marine ecosystems. My current work is set at deep-sea hydrothermal vents, where I am characterizing in situ protistan community composition and food web interactions. The majority of my work is reliant on using genetic methods to address which microbial eukaryotes are present and what are they doing in the environment.
 
 
