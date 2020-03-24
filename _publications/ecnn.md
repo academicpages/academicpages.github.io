@@ -2,20 +2,24 @@
 title: "How To Train Your Event Camera Neural Network"
 author: "T. Stoffregen\\*, <u>C. Scheerlinck</u>\\*, D. Scaramuzza, T. Drummond, N. Barnes, L. Kleeman, R. Mahony"
 collection: publications
-permalink: /ecnn
+permalink: /20ecnn
 excerpt: 
-date: 2020-03-18
+date: 2020-03-20
 venue: arXiv
 paperurl:
 citation: 
+youtubeId: m0brrMtrKoc
 header:
-   teaser: ecnn_thumbnail.png
+   teaser: 20arXiv_teaser.png
 ---
 
-<a href="https://cedric-scheerlinck.github.io/files/coming_soon.txt" target="_blank"><b>PDF</b></a>&emsp;
+<a href="https://arxiv.org/pdf/2003.09078.pdf" target="_blank"><b>PDF</b></a>&emsp;
+<a href="https://youtu.be/m0brrMtrKoc" target="_blank"><b>Video</b></a>&emsp;
+<a href="https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_?usp=sharing"><b>Dataset</b></a>&emsp;
+<a href="https://github.com/TimoStoff/event-cnn" target="_blank"><b>Code</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2020_arxiv_ecnn.txt" target="_blank"><b>BibTex</b></a>
 
-![ecnn_banner](/images/ecnn_banner.png){:class="img-responsive"}
+![ecnn20_banner](/images/20arXiv_banner.png){:class="img-responsive"}
 
 <b>Abstract.</b> 
 Event cameras are paradigm-shifting novel sensors that report asynchronous, per-pixel brightness changes called 'events' with unparalleled low latency.
@@ -26,6 +30,12 @@ A challenge in evaluating event based video reconstruction is lack of quality gr
 To address this, we present a new <b>High Quality Frames (HQF)</b> dataset, containing events and groundtruth frames from a DAVIS240C that are well-exposed and minimally motion-blurred.
 We evaluate our method on HQF + several existing major event camera datasets.
 
+{% include youtubePlayer.html id=page.youtubeId %}
+
 <br />
 <b>Reference:</b>
 * T. Stoffregen\*, C. Scheerlinck\*, D. Scaramuzza, T. Drummond, N. Barnes, L. Kleeman, R. Mahony, "How To Train Your Event Camera Neural Network", arXiv, 2020.
+
+<br />
+\* Equal contribution.
+<br />
