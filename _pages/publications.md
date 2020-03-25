@@ -6,7 +6,12 @@ author_profile: true
 ---
 
 <ol reversed>
-  <li> Wright AM, Schwartz RS, Oaks JR, Newman CE, <strong>Flanagan SP</strong>. The why, when, and how of computing in biology classrooms [version 1; peer review: awaiting peer review]. F1000Research 2019, 8:1854. <a href="https://doi.org/10.12688/f1000research.20873.1" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to preprint</a> </li>
+  
+  <li> Anderson AP, <strong>Flanagan SP</strong>, Rose E, Jones AG. 2020. The estrogen-responsive transcriptome of female secondary sexual traits in the Gulf pipefish, Journal of Heredity, esaa008, <a href="https://academic.oup.com/jhered/advance-article-abstract/doi/10.1093/jhered/esaa008/5775491" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a> </li>
+
+  <li> <span style="color:#1E8449">Lerch B</span>, Dautel KA, Brewer S, Liang A, Siewe N, <strong>Flanagan SP</strong>. 2020. Space, density, and extra-pair matings have opposing impacts on male and female reproductive success. Population Ecology. <a href="https://esj-journals.onlinelibrary.wiley.com/doi/abs/10.1002/1438-390X.12047" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a> </li>
+
+  <li> Wright AM, Schwartz RS, Oaks JR, Newman CE, <strong>Flanagan SP</strong>. The why, when, and how of computing in biology classrooms [version 2; peer review: 2 approved]. F1000Research 2019, 8:1854. <a href="https://doi.org/10.12688/f1000research.20873.1" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a> </li>
   
   <li> <strong>Flanagan, SP</strong> 2019. Quantitative Genetics of Behavior. In: Choe, J.C. (Ed.), Encyclopedia of Animal Behavior, (2nd ed.). vol. 2, pp. 80–93. Elsevier, Academic Press. <a href="https://www.elsevier.com/books/encyclopedia-of-animal-behavior/choe/978-0-12-813251-7" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.files.wordpress.com/2019/11/flanagan-2019-bookchapter.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
   
