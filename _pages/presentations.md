@@ -12,8 +12,8 @@ Evolution 2019 in Providence, Rhode Island #Evol2019
 <br>
 
 Evolution 2017 in Portland, Oregon 
-<div float:left><iframe src="//www.slideshare.net/slideshow/embed_code/key/swzAXSVtZoROI3" width="200" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen align="left"> </iframe></div>
- <div float:right><iframe width="200" src="https://www.youtube.com/embed/gOdv99wF_TY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div float:left><iframe width="200" src="https://www.youtube.com/embed/gOdv99wF_TY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div float:right><iframe src="//www.slideshare.net/slideshow/embed_code/key/swzAXSVtZoROI3" width="200" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen align="right"></iframe></div>
 <br>
  
 SyngBio2017 in Tampa, FL
