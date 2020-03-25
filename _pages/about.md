@@ -12,9 +12,12 @@ redirect_from:
 
 Sarah P. Flanagan began her appointment as a Lecturer in the School of Biological Sciences at the University of Canterbury in Christchurch, New Zealand in 2018. The lab is focused on understanding the evolution of complex, multivariate traits (such as mating display traits), primarily relying on population and quantitative genetics, genomic datasets, simulation modeling. Our empirical work has mostly focused on pipefish and seahorses.
 
-**The lab is hiring a PhD student!** [See the advertisement for more information](https://flanagan-lab.github.io/open-positions/)
 
 <b>Lab news</b>
+
+March 2020: Sarah had three papers come out this month -- a paper on [changes in gene expression in response to estrogen in pipefish](https://doi-org.ezproxy.canterbury.ac.nz/10.1093/jhered/esaa008), a paper on [a mathematical model of how spatial arrangements of individuals impacts reproductive success](https://esj-journals.onlinelibrary.wiley.com/doi/abs/10.1002/1438-390X.12047) and a whitepaper describing [the why, when, and how of computing in biology classrooms](https://doi.org/10.12688/f1000research.20873.2).
+
+February 2020: Lucy Howell joined the lab as a Masters in Antarctic Studies student! 
 
 Check out how Sarah spent her time in 2019 [in her latest blog post!](https://sarahpflanagan.wordpress.com/?p=1932)
 
