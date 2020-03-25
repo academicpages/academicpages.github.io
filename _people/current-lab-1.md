@@ -25,8 +25,9 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 
 <br>
 
+<br>
 
 ### Lucy Howell
 
-Lucy is a masters in Antarctic studies student working on developing an environmental DNA pipeline that can be used 'on the ice' in Antarctica. At the moment she is focused on extracting Weddell seal DNA from snow samples. She is co-supervised by Sarah and Michelle LaRue
+Lucy is working towards a Masters in Antarctic Studies and is developing an environmental DNA pipeline that can be used 'on the ice' in Antarctica. At the moment she is focused on extracting Weddell seal DNA from snow samples. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/).
 
