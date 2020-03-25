@@ -159,3 +159,14 @@ Please add yourself. See example(s) below.
 I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemistry & Geochemistry) working to reveal the ecological roles single-celled microbial eukaryotes play in marine ecosystems. My current work is set at deep-sea hydrothermal vents, where I am characterizing in situ protistan community composition and food web interactions. The majority of my work is reliant on using genetic methods to address which microbial eukaryotes are present and what are they doing in the environment.
 
 
+## Ella Sieradzki
+
+<img align="left" src="/images/Ella_Joline_out_small.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** ellasiera@berkeley.edu  
+
+**Twitter: [@SieraVirus](https://twitter.com/SieraVirus){:target="_blank"}**  
+
+**[Google Scholar](https://scholar.google.com/citations?user=lt32teUAAAAJ&hl=en){:target="_blank"}**  
+<br>
+**Bio:** I love viruses! Except for Coronaviruses. I don't love those. I'm a jack of all trades working on bacteria and viruses in the ocean and in soil. I live and breathe metagenomics, metatranscriptomics and stable isotope probing, but dabbled in amplicon work in the past. Most of all I like to know everything about interactions between viruses and their hosts, and some day it will be my main field. For now I'm a postdoc in Mary Firestone's lab. Show me your cats and dogs and we will be the best of friends.
