@@ -17,7 +17,7 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 
 ### Micaela Pullen
 
-<img align="left" src='/images/MicaelaPullen.jpg' height='200'> Micaela is a masters of science student working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
+<img align="left" src='/images/MicaelaPullen.jpg' height='200' width='266'> Micaela is a masters of science student working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
 
 <br>
 
