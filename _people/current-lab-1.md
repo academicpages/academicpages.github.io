@@ -1,6 +1,6 @@
 ---
 title: "Current Lab Members"
-excerpt: "<br><img src='/images/028.JPG'>"
+excerpt: "<br><img src='/images/028.JPG' height='266' width='200'>"
 collection: people
 permalink: /people/current-lab
 ---
@@ -20,13 +20,10 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <img align="left" src='/images/MicaelaPullen.jpg' height='200'> Micaela is a masters of science student working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
 
 <br>
-</br>
 
 <br>
-</br>
 
 <br>
-</br>
 
 
 ### Lucy Howell
