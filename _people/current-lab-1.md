@@ -1,6 +1,6 @@
 ---
 title: "Current Lab Members"
-excerpt: "<br><img src='/images/028.JPG' height='266' width='200'>"
+excerpt: "<br><img src='/images/028.JPG' width='500'>"
 collection: people
 permalink: /people/current-lab
 ---
