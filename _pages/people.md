@@ -170,3 +170,20 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 **[Google Scholar](https://scholar.google.com/citations?user=lt32teUAAAAJ&hl=en){:target="_blank"}**  
 <br>
 **Bio:** I love viruses! Except for Coronaviruses. I don't love those. I'm a jack of all trades working on bacteria and viruses in the ocean and in soil. I live and breathe metagenomics, metatranscriptomics and stable isotope probing, but dabbled in amplicon work in the past. Most of all I like to know everything about interactions between viruses and their hosts, and some day it will be my main field. For now I'm a postdoc in Mary Firestone's lab. Show me your cats and dogs and we will be the best of friends.
+
+
+## Liz Suter
+
+<img align="left" src="/images/Liz_photo.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** esuter@molloy.edu  
+
+**Twitter: [@LizzSuter](https://twitter.com/LizzSuter){:target="_blank"}**  
+
+**[Google Scholar](https://scholar.google.com/citations?user=OhhGHjsAAAAJ&hl=en){:target="_blank"}**  
+
+**[Website](https://works.bepress.com/elizabeth-suter/)**
+
+
+<br>
+**Bio:** I am an Assistant Professor at Molloy College where I teach in the Environmental Sciences. For my PhD, I worked to decipher the biogeochemical roles of microbes in the Cariaco Basin, a permanently anoxic ocean basin in the Caribbean Sea. Since becoming a professor, I have developed a passion for teaching bioinformatics to undergraduate students. I like to mix computational, bench work, and microscopy and to involve students in all aspects of my research!
