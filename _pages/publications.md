@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p style="text-align: center;"><em>
+<p style="text-align: center;">
 Authors whose names are in <span style="color:#239B56">green</span> are trainees supervised by Sarah. 
-Co-first authorship is denoted by \*.
-</em></p>
+Co-first authorship is denoted by *.
+</p>
 
 <ol reversed>
   
