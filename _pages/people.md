@@ -24,6 +24,20 @@ List yourself
 
 **Bio:** I am a microbiologist/bioinformatian working in the marine environment. My interests involve studying microbial communities and functions through the tool of metagenomics. As part of this research, I work to develop new bioinformatic tools that capitalizes on the growing number of environmental microbial genomes.
 
+## Mike Lee
+
+<img align="left" src="/images/Mike-Lee-Atlantis.jpg" width="200px" style="padding-right: 15px">
+
+**Email:** MikeLee@bmsis.org  
+
+**Twitter: [@AstrobioMike](https://twitter.com/AstrobioMike){:target="_blank"}**  
+
+**[Website](https://astrobiomike.github.io/research/){:target="_blank"}**  
+
+**[Google Scholar](https://scholar.google.com/citations?user=-ONw6lsAAAAJ){:target="_blank"}**  
+<br>
+**Bio:** I’m a microbial ecologist/bioinformatician at NASA’s Ames Research Center in northern California, USA. I get to work in all kinds of different systems ranging from the bottoms of our oceans up to the International Space Station 👽. Having [gone through it myself](https://astrobiomike.github.io/about/){:target="_blank"}, I very much enjoy trying to help folks get through the initial steep learning curve that lots of us face when we start getting into bioinformatics. In addition to regularly helping to organize and teach at bioinformatics workshops such as [STAMPS](https://mblstamps.github.io/){:target="_blank"} and [ANGUS](https://angus.readthedocs.io/en/2019/){:target="_blank"}, I develop and maintain [Happy Belly Bioinformatics](https://astrobiomike.github.io/){:target="_blank"}, a site that aims to be a useful resource for biologists who are new to bioinformatics 🙂  
+
 # Instructors
 
 Please add yourself. See example(s) below.
@@ -79,19 +93,6 @@ Please add yourself. See example(s) below.
 
 **Bio:**  I am a geomicrobiologist combining a background in geoscience with a diverse toolkit of novel molecular methods, sequencing analysis, and bioinformatic tools to delve into the interactions between the biosphere and geosphere. I am currently a postdoctoral fellow at the Earth and Planets Laboratory at the Carnegie Institution of Washington working on the NASA Astrobiology Institute ENIGMA Project. I apply methods at the frontier of integrative earth, life, and data science to answer big questions related to the co-evolution of the biosphere and geosphere through deep time.
 
-## Mike Lee
-
-<img align="left" src="/images/Mike-Lee-Atlantis.jpg" width="200px" style="padding-right: 15px">
-
-**Email:** MikeLee@bmsis.org  
-
-**Twitter: [@AstrobioMike](https://twitter.com/AstrobioMike){:target="_blank"}**  
-
-**[Website](https://astrobiomike.github.io/research/){:target="_blank"}**  
-
-**[Google Scholar](https://scholar.google.com/citations?user=-ONw6lsAAAAJ){:target="_blank"}**  
-<br>
-**Bio:** I’m a microbial ecologist/bioinformatician at NASA’s Ames Research Center in northern California, USA. I get to work in all kinds of different systems ranging from the bottoms of our oceans up to the International Space Station 👽. Having [gone through it myself](https://astrobiomike.github.io/about/){:target="_blank"}, I very much enjoy trying to help folks get through the initial steep learning curve that lots of us face when we start getting into bioinformatics. In addition to regularly helping to organize and teach at bioinformatics workshops such as [STAMPS](https://mblstamps.github.io/){:target="_blank"} and [ANGUS](https://angus.readthedocs.io/en/2019/){:target="_blank"}, I develop and maintain [Happy Belly Bioinformatics](https://astrobiomike.github.io/){:target="_blank"}, a site that aims to be a useful resource for biologists who are new to bioinformatics 🙂  
 
 ## Ashley B. Cohen, M.S.
 
