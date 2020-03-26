@@ -4,6 +4,7 @@
   booktitle     = {Asian Conf. Comput. Vis. (ACCV)},
   year          = {2018},
   month         = {December},
+  pages         = {308--324},
   doi           = {10.1007/978-3-030-20873-8_20},
   url           = {https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf} 
 }

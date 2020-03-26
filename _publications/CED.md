@@ -21,6 +21,9 @@ header:
 
 ![CED_banner](/images/CED_banner.png){:class="img-responsive"}
 
+{% include youtubePlayer.html id=page.youtubeId %}
+<br />
+
 <b>Abstract.</b> Event cameras are novel, bio-inspired visual sensors, whose pixels output asynchronous and independent timestamped spikes at local intensity changes, called 'events'.
 Event cameras offer advantages over conventional frame-based cameras in terms of latency, high dynamic range (HDR) and temporal resolution.
 Until recently, event cameras have been limited to outputting events in the intensity channel, however, recent advances have resulted in the development of color event cameras, such as the Color-DAVIS346.
@@ -29,11 +32,7 @@ CED features a wide variety of indoor and outdoor scenes, which we hope will hel
 We also present an extension of the event camera simulator ESIM that enables simulation of color events.
 Finally, we present an evaluation of three state-of-the-art image reconstruction methods that can be used to convert the Color-DAVIS346 into a continuous-time, HDR, color video camera to visualise the event stream, and for use in downstream vision applications.
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
-<br />
 <b>Reference:</b>
 * C. Scheerlinck\*, H. Rebecq\*, T. Stoffregen, N. Barnes, R. Mahony, D. Scaramuzza, "CED: Color Event Camera Dataset", Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.
 
-<br />
 \* Equal contribution.

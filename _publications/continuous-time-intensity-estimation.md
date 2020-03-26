@@ -23,13 +23,12 @@ header:
 
 ![Complementary_filter_pic](/images/filter.png){:class="img-responsive"}
 
+{% include youtubePlayer.html id=page.youtubeId %}
+<br />
+
 <b>Abstract.</b> Event cameras provide asynchronous, data-driven measurements of local temporal contrast over a large dynamic range with extremely high temporal resolution. Conventional cameras capture low-frequency reference intensity information. These two sensor modalities provide <i>complementary</i> information. We propose a computationally efficient, asynchronous filter that continuously fuses image frames and events into a single high-temporal-resolution, high-dynamic-range image state. In absence of conventional image frames, the filter can be run on events only. We present experimental results on high-speed, highdynamic-range sequences, as well as on new ground truth datasets we generate to demonstrate the proposed algorithm outperforms existing state-of-the-art methods.
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
-<br />
 <b>DOI:</b> [10.1007/978-3-030-20873-8_20](https://doi.org/10.1007/978-3-030-20873-8_20)
 
-<br />
 <b>Reference:</b>
 * C. Scheerlinck, N. Barnes, R. Mahony, "Continuous-time Intensity Estimation Using Event Cameras", Asian Conference on Computer Vision (ACCV), Perth, 2018, pp. 308-324.

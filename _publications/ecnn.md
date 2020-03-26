@@ -21,6 +21,9 @@ header:
 
 ![ecnn20_banner](/images/20arXiv_banner.png){:class="img-responsive"}
 
+{% include youtubePlayer.html id=page.youtubeId %}
+<br />
+
 <b>Abstract.</b> 
 Event cameras are paradigm-shifting novel sensors that report asynchronous, per-pixel brightness changes called 'events' with unparalleled low latency.
 This makes them ideal for high speed, high dynamic range scenes where conventional cameras would fail.
@@ -30,12 +33,8 @@ A challenge in evaluating event based video reconstruction is lack of quality gr
 To address this, we present a new <b>High Quality Frames (HQF)</b> dataset, containing events and groundtruth frames from a DAVIS240C that are well-exposed and minimally motion-blurred.
 We evaluate our method on HQF + several existing major event camera datasets.
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
-<br />
 <b>Reference:</b>
 * T. Stoffregen\*, C. Scheerlinck\*, D. Scaramuzza, T. Drummond, N. Barnes, L. Kleeman, R. Mahony, "How To Train Your Event Camera Neural Network", arXiv, 2020.
 
-<br />
 \* Equal contribution.
 <br />

@@ -31,8 +31,6 @@ The key idea is the introduction of an internal state that directly encodes the 
 The state can be read-off as-often-as and whenever required for use in higher level vision algorithms for real-time robotic systems.
 We demonstrate the application of our method to corner detection, providing an implementation of a Harris corner-response "state" that can be used in real-time for feature detection and tracking on robotic systems.
 
-<br />
-
 **DOI:** <a href="https://doi.org/10.1109/LRA.2019.2893427" target="_blank">10.1109/LRA.2019.2893427</a>
 
 <b>Reference:</b>
