@@ -7,7 +7,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-**Check out latest CV in pdf at [here](files/CV_Yuke_Wang.pdf)**
+<a href="http://wang-yuke.com/files/CV_Yuke_Wang.pdf">**CV**</a>
 
 Education
 ======
