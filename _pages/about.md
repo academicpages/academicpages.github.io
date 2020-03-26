@@ -21,4 +21,12 @@ At UCSB, I am working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">
     &q=Space+Needle,Seattle+WA" allowfullscreen>
 </iframe> -->
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5s89lwv1t67&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=33" async="async"></script>
+<div class='parent inline-flex-parent'>
+<div class='site-visitor' style="float:left; width:300px;">
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5s89lwv1t67&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=33" async="async">
+</script>
+</div>
+<div style="float:right">
+<a class="twitter-timeline" data-width="400" data-height="300" data-theme="light" href="https://twitter.com/sigarch?ref_src=twsrc%5Etfw">Tweets by sigarch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
