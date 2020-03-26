@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - google98a7fa635d780925.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
