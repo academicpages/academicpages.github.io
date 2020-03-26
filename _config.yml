@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google-universal", "google-universal", "custom"
   google:
     tracking_id          : "UA-161925394-1"
 
@@ -122,7 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - google98a7fa635d780925.html
+  - google98a7fa635d780925
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
