@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "网站地图 Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
 
 {% include base_path %}
+
+本网站所有页面都列于本页. 亦有 [XML 版本]({{ base_path }}/sitemap.xml) 供爬虫使用.
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
