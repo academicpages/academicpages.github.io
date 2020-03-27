@@ -26,10 +26,11 @@ author_profile: true
     * **_NEW_** October 2019: [draft](https://cseveren.github.io/files/20191025_Severen_LAMetro_New.pdf) and [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf).
     * Revisions requested at the *Review of Economics and Statistics*.
 
-* "[Formative Experiences and the Price of Gasoline](https://www.nber.org/papers/w26091)" (with [Arthur van Benthem][avb]). NBER Working Paper 26091.
+* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/SVB_GasPrice_Draft_20200323.pdf)" (with [Arthur van Benthem][avb]); [(slides)](https://cseveren.github.io/files/202002_SvB_FormativeExperiences.pdf).
     * Formative experiences can shape people’s behavior for decades. We document a striking feature about those who came of driving age during the oil crises of the 1970s: they drive to work less in the year 2000. We then study many cohorts to show that gasoline price changes experienced between ages 15 and 18 shift several margins of later-life travel behavior. Effects are not explained by recessions, income, or costly skill acquisition. Instead, they likely reflect early formation of preferences for driving or persistent changes in its perceived cost. These findings are inconsistent with recency bias, habit formation, and mental plasticity.
     * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
-    * [Ungated version](https://cseveren.github.io/files/FormativeExperiences_SeverenvanBenthem_201907.pdf).
+    * [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
+    *
 
 ### Selected Works in Progress
 
