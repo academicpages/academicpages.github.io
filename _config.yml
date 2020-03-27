@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "坏人"
+locale                   : "zh-CN"
+title                    : "Ricky Lee's BLOG"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ricky Lee"
 description              : &description "personal description"
 url                      : https://rickylee.monster # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/0" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ricky Lee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "法科民工，铁道爱好者，城市天际线玩家"
+  location         : "北京"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
