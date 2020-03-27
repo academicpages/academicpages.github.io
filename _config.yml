@@ -85,8 +85,10 @@ author:
   bio              : "PhD Candidate at the Australian National University"
   location         : "Zurich, Switzerland"
   employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UU0Ql2wAAAAJ"
   email            : 
+  researchgate     : "https://www.researchgate.net/profile/Cedric_Scheerlinck"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,6 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            :
@@ -111,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          : "UCYA86ZEK9mK_sOwWpOcfSNw"
-  wikipedia        :
+  wikipedia        : "cedric-scheerlinck"
 
 
 # Reading Files
@@ -126,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -255,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
