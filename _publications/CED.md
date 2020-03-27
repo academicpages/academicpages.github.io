@@ -32,6 +32,8 @@ CED features a wide variety of indoor and outdoor scenes, which we hope will hel
 We also present an extension of the event camera simulator ESIM that enables simulation of color events.
 Finally, we present an evaluation of three state-of-the-art image reconstruction methods that can be used to convert the Color-DAVIS346 into a continuous-time, HDR, color video camera to visualise the event stream, and for use in downstream vision applications.
 
+CVF <a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.html" target="_blank">Open Access</a>
+
 <b>Reference:</b>
 * C. Scheerlinck\*, H. Rebecq\*, T. Stoffregen, N. Barnes, R. Mahony, D. Scaramuzza, "CED: Color Event Camera Dataset", Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.
 
