@@ -31,7 +31,7 @@ CVPR talk <a href="https://drive.google.com/file/d/1NscnUF2QxK0of4ZW7T8kneJTH1X7
 
 **DOI:** <a href="https://doi.org/10.1109/CVPR.2019.00698" target="_blank">10.1109/CVPR.2019.00698</a>
 
-CVPR <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html" target="_blank">Open Access</a>
+CVF <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html" target="_blank">Open Access</a>
 
 <b>Reference:</b>
 * L. Pan, C. Scheerlinck, X. Yu, R. Hartley, M. Liu, Y. Dao "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera", Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 6820-6829.
