@@ -58,6 +58,7 @@ body {
     animation-delay: 0.15s;
     z-index: 20;
     background: cadetblue;
+    height: 60px;
 }
 
 .greedy-nav {
@@ -124,4 +125,24 @@ body {
     background: cadetblue;
     color: white;
     height: 130px;
+}
+
+.masthead__inner-wrap {
+    max-width: 925px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-bottom: 10px;
+    top: -15px;
+    clear: both;
+    padding: 1em 1em 1em;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    border: aqua;
+}
+
+
+.archive a {
+    text-decoration: none;
+    color: #3992ad;
+    font-size: 1em;
 }
