@@ -40,6 +40,15 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+body {
+    margin-top: 150px;
+    padding: 0;
+    padding-bottom: 9em;
+    color: #494e52;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    line-height: 1.5;
+}
+
 .masthead {
     position: relative;
     border-bottom: 1px solid #f2f3f3;
