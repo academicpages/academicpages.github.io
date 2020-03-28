@@ -39,3 +39,80 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.masthead {
+    position: relative;
+    border-bottom: 1px solid #f2f3f3;
+    -webkit-animation: intro 0.3s both;
+    animation: intro 0.3s both;
+    -webkit-animation-delay: 0.15s;
+    animation-delay: 0.15s;
+    z-index: 20;
+    background: cadetblue;
+}
+
+.greedy-nav {
+    position: relative;
+    min-width: 250px;
+    background: cadetblue;
+}
+
+.greedy-nav a {
+    display: block;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.greedy-nav a {
+    display: block;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+body {
+    margin-top: 120px;
+    padding: 0;
+    padding-bottom: 9em;
+    color: #494e52;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    line-height: 1.5;
+}
+
+.sidebar {
+    padding-right: 0;
+    position: fixed;
+    margin-top: 120px;
+}
+
+.author__avatar img {
+    max-width: 200px;
+    border-radius: 10%;
+}
+
+.page__footer {
+    clear: both;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+    position: absolute;
+    bottom: 0em;
+    height: auto;
+    margin-top: 3em;
+    color: #9ba1a6;
+    -webkit-animation: intro 0.3s both;
+    animation: intro 0.3s both;
+    -webkit-animation-delay: 0.45s;
+    animation-delay: 0.45s;
+    background-color: #f2f3f3;
+    border-top: 1px solid #bdc1c4;
+    background: cadetblue;
+    color: white;
+    height: 130px;
+}
