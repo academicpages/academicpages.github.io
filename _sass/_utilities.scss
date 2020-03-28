@@ -79,7 +79,6 @@ body:hover .visually-hidden button {
   list-style: none;
 }
 
-
 /*
    Type
    ========================================================================== */
@@ -104,7 +103,6 @@ body:hover .visually-hidden button {
   white-space: nowrap;
 }
 
-
 /*
    Alignment
    ========================================================================== */
@@ -116,7 +114,6 @@ body:hover .visually-hidden button {
 .wrapper {
   @include container();
 }
-
 
 /*
    Images
@@ -199,10 +196,6 @@ body:hover .visually-hidden button {
     color: $flickr-color;
   }
 
-  .fa-foursquare {
-    color: $foursquare-color;
-  }
-
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
@@ -254,7 +247,6 @@ body:hover .visually-hidden button {
     color: $youtube-color;
   }
 }
-
 
 /*
    Navicons
@@ -314,7 +306,6 @@ body:hover .visually-hidden button {
   }
 }
 
-
 /*
    Sticky, fixed to top content
    ========================================================================== */
@@ -332,7 +323,6 @@ body:hover .visually-hidden button {
   }
 }
 
-
 /*
    Wells
    ========================================================================== */
@@ -346,7 +336,6 @@ body:hover .visually-hidden button {
   border-radius: $border-radius;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
 }
-
 
 /*
    Modals
@@ -402,7 +391,6 @@ body:hover .visually-hidden button {
   }
 }
 
-
 /*
    Footnotes
    ========================================================================== */
@@ -429,7 +417,6 @@ a.reversefootnote {
     text-decoration: underline;
   }
 }
-
 
 /*
    Required

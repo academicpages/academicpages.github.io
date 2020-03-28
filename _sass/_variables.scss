@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : Times, Georgia, serif;
+$sans-serif                 : -apple-system, "Helvetica Neue", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -41,7 +41,6 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
-
 
 /*
    Colors
@@ -70,9 +69,7 @@ $info-color                 : #52adc8;
 $behance-color              : #1769FF;
 $dribbble-color             : #ea4c89;
 $flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
 $github-color               : #171516;
-$google-plus-color          : #dd4b39;
 $lastfm-color               : #d51007;
 $linkedin-color             : #007bb6;
 $rss-color                  : #fa9b39;
@@ -89,7 +86,6 @@ $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-
 
 /*
    Breakpoints
@@ -134,7 +130,6 @@ $susy: (
   //   toggle: top right,
   // ),
 );
-
 
 /*
    Other
