@@ -41,9 +41,7 @@
 @import "print";
 
 body {
-    margin-top: 150px;
     padding: 0;
-    padding-bottom: 9em;
     color: #494e52;
     font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     line-height: 1.5;
@@ -65,7 +63,7 @@ body {
     position: relative;
     min-width: 250px;
     background: cadetblue;
-    left: -150px;
+    left: -20%;
 }
 
 .greedy-nav a {
@@ -97,7 +95,7 @@ body {
 .sidebar {
     padding-right: 0;
     position: fixed;
-    margin-top: 120px;
+    margin-top: 4%;
 }
 
 .author__avatar img {
@@ -151,4 +149,21 @@ body {
 p {
     margin-bottom: 1.3em;
     font-family: arial;
+}
+
+.page__footer-copyright {
+    font-family: arial;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.page__footer a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+.greedy-nav .visible-links a {
+    position: relative;
+    font-weight: bold;
 }
