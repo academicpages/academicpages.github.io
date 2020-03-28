@@ -6,14 +6,14 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 19;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Times, Georgia, serif;
+$serif                      : 'Cormorant Garamond', Times, Georgia, serif;
 $sans-serif                 : -apple-system, "Helvetica Neue", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -28,8 +28,8 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$global-font-family         : $serif;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -56,10 +56,10 @@ $body-color                 : #fff;
 $background-color           : #fffefc;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : $darker-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #101010;
+$primary-color              : $darker-gray;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -81,7 +81,7 @@ $vimeo-color                : #1ab7ea;
 $youtube-color              : #bb0000;
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $darker-gray;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
