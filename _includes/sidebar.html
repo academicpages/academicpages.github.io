@@ -6,6 +6,7 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
 
+<!--  <div class="sidebar sticky" style="width:20%">-->
   <div class="sidebar sticky">
     {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
     {% if page.sidebar %}
