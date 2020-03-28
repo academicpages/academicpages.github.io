@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-**We are a computational science research group
-
 We perform research on the develop and application of theories and methodologies in electronic structure theory, molecular simulation, and physics-informed machine learning in order to study problems in computational materials design.
