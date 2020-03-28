@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "首页推荐"
+title: "博客首页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
