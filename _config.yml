@@ -26,7 +26,7 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook: facebook.com/yukewang966
+  facebook: 'facebook.com/yukewang966'
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : facebook.com/yukewang966
+  facebook         : 'facebook.com/yukewang966'
   foursquare       :
   # github           : "academicpages"
   google_plus      :
