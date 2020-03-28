@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "The Gomes Lab"
 title_separator          : "-"
 name                     : &name "The Gomes Lab"
-description              : &description "A Computational Research Group at University of Iowa"
+description              : &description "A Computational Science Research Group at University of Iowa"
 url                      : https://thegomeslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thegomeslab/thegomeslab.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SE0_PNEAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Joseph_Gomes6"
+  researchgate     :  #"https://www.researchgate.net/profile/Joseph_Gomes6"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jsphgms"
+  twitter          : #"jsphgms"
   vine             :
   weibo            :
   xing             :
