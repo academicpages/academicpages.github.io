@@ -110,7 +110,7 @@ body {
     margin-right: 0;
     width: 100%;
     clear: both;
-    position: absolute;
+    position: fixed;
     bottom: 0em;
     height: auto;
     margin-top: 3em;
@@ -123,7 +123,7 @@ body {
     border-top: 1px solid #bdc1c4;
     background: cadetblue;
     color: white;
-    height: 130px;
+    height: 6%;
 }
 
 .masthead__inner-wrap {
@@ -166,4 +166,17 @@ p {
 .greedy-nav .visible-links a {
     position: relative;
     font-weight: bold;
+}
+
+footer {
+    position: relative;
+    top: -50%;
+}
+
+.page__footer-copyright {
+    font-family: arial;
+    font-size: 1em;
+    font-weight: bold;
+    position: relative;
+    right: -50%;
 }
