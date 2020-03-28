@@ -1,5 +1,15 @@
 # main links links
 main:
+
+  - title: "Joe Gomes"
+    url: /cv/
+    
+  - title: "People"
+    url: /people/
+
+  - title: "Projects"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
 
@@ -8,15 +18,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
