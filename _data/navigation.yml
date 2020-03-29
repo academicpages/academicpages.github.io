@@ -19,8 +19,10 @@ main:
   - title: "全部文章"
     url: /year-archive/
     
-#  - title: "CV"
-#    url: /cv/
-    
+  - title: "关于"
+    url: /about/
+       
   - title: "返回主站"
     url: https://rickylee.monster/
+
+
