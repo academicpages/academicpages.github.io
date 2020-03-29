@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Iowa, Department of Chemical and Biochemical Engineering"
-date: 20202-01-01
+date: 2020-01-01
 location: "Iowa City, IA"
 ---
 
