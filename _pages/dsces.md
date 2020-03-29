@@ -1,11 +1,12 @@
 ---
 layout: single-no-nav
 permalink: /dsces
+title: "CBE:5120 Data Science in Chemical and Engineering Systems (Fall 2020)"
 author_profile: false
 classes: wide
 ---
 
-# CBE:5120 Data Science in Chemical and Engineering Systems (Fall 2020)
+## [[ICON](https://icon.uiowa.edu)] [[LECTURES](https://www.github.com/thegomeslab/dsces/lectures)] [[ASSIGNMENTS](https://www.github.com/thegomeslab/dsces/assignments)]
 
 ## Course Description:
 Theory and application of numerical methods and data-driven algorithms towards understanding chemical processes; Scientific computing in the Python programming language; Numerical solutions to differential equations; Nonlinear and constrained optimization; data preprocessing and visualization; dimensionality reduction and clustering; supervised machine learning.
