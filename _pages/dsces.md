@@ -5,8 +5,6 @@ author_profile: false
 classes: wide
 ---
 
-## [[ICON](https://icon.uiowa.edu)] [[LECTURES](https://www.github.com/thegomeslab/dsces/lectures)] [[ASSIGNMENTS](https://www.github.com/thegomeslab/dsces/assignments)] {style=text-align:center}
-
 <p align="center">
   [<a href="https://icon.uiowa.edu">ICON</a>] [<a href="https://www.github.com/thegomeslab/dsces/startup">GETTING STARTED</a>] [<a href="https://www.github.com/thegomeslab/dsces/lectures">LECTURES</a>] [<a href="https://www.github.com/thegomeslab/dsces/assignments">ASSIGNMENTS</a>] [<a href="https://www.github.com/thegomeslab/dsces/resources">RESOURCES</a>]
 </p>
