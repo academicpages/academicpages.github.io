@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Komei Fujita / Komei Fujita's website"
+title                    : "Komei Fujita (WIP)"
 title_separator          : "-"
 name                     : &name "Komei Fujita"
 description              : &description "Data Scientist at CyberAgent, Inc."
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ko-fujita"
+  github           : "ko-fujita"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/komei-fujita/"
+  linkedin         : "komei-fujita"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/6km6km"
+  twitter          : "6km6km"
   vine             :
   weibo            :
   xing             :

@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Yasui, Shota, Gota Morishita, Komei Fujita, Masashi Shibata. "A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback." The Web Conference (WWW), Taipei, Apr. 2020
+[arxiv](https://arxiv.org/abs/2002.02068)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Daisuke Moriwaki, Komei Fujita, Shota Yasui, Takahiro Hoshino. "Fatigue-Aware Ad Creative Selection." WSDM Workshop on State-based User Modelling (SUM), Houston, USA, Feb. 2020
+[arxiv](https://arxiv.org/abs/1908.08936)
