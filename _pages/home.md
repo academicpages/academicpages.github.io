@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "博客首页"
-excerpt: "About me"
+title: "rickylee's BLOG"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
+  - /index
+  - /index.html
 ---
 欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!
 
