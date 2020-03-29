@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "首页"
+    url: /
+
 #  - title: "Publications"
 #    url: /publications/
 
