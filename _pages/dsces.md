@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /dsces
 title: "CBE:5120 Data Science in Chemical and Engineering Systems"
 excerpt: "A graduate course on numerical and data-driven computational methods for chemical engineers"
 author_profile: false
