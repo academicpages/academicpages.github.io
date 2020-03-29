@@ -1,6 +1,48 @@
 # User interface text and labels
-
 # English (default)
+# -----------------
+zh-CN: &DEFAULT_CN
+  page                       : "页面"
+  pagination_previous        : "上一篇"
+  pagination_next            : "下一篇"
+  breadcrumb_home_label      : "主页"
+  breadcrumb_separator       : "/"
+  toc_label                  : "On This Page"
+  ext_link_label             : "Direct Link"
+  less_than                  : "less than"
+  minute_read                : "minute read"
+  share_on_label             : "Share on"
+  meta_label                 :
+  tags_label                 : "标签："
+  categories_label           : "分类："
+  date_label                 : "发表时间:"
+  comments_label             : "Leave a Comment"
+  comments_title             : "Comments"
+  more_label                 : "更多"
+  related_label              : "你可能还想看"
+  follow_label               : "Follow:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "最近发表的文章"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "Comment"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "Email address"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "Submit Comment"
+  comment_btn_submitted      : "Submitted"
+  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  loading_label              : "Loading..."
+zh-TW:
+  <<: *DEFAULT_CN
+zh-HK:
+  <<: *DEFAULT_CN
+# English
 # -----------------
 en: &DEFAULT_EN
   page                       : "Page"
