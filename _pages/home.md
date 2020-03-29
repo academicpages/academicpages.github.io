@@ -3,11 +3,6 @@ permalink: /
 title: "rickylee's BLOG"
 excerpt: "Home"
 author_profile: true
-redirect_from: 
-  - /home/
-  - /home.html
-  - /index
-  - /index.html
 ---
 欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!
 
