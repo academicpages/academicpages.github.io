@@ -6,10 +6,10 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-<link rel="shortcut icon" type="image/x-icon" href="http://wang-yuke.com/images/logo.png" />
+<link rel="shortcut icon" type="image/x-icon" href="https://wang-yuke.com/images/logo.png" />
 
 
-Download <a href="http://wang-yuke.com/files/CV_Yuke_Wang.pdf">**CV**</a>
+Download <a href="https://wang-yuke.com/files/CV_Yuke_Wang.pdf">**CV**</a>
 
 Education
 ======
