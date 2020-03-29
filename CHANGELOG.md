@@ -28,7 +28,7 @@
 
 ### Enhancements
 
-- Fallback to `site.github.url` for use in `{{ base_path }}` when `site.url` is `nil`.
+- Fallback to `site.github.url` for use in `https://wang-yuke.com` when `site.url` is `nil`.
 - Replace Sass and Autoprefixer `npm` build scripts with [Jekyll's built-in asset support](https://jekyllrb.com/docs/assets/). [#333](https://github.com/mmistakes/minimal-mistakes/issues/333)
 
 ### Maintenance
