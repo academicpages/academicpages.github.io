@@ -1,9 +1,9 @@
 ---
-title: "Data Science in Chemical and Engineering Systems"
+title: "CBE:5120 Data Science in Chemical and Engineering Systems"
 collection: teaching
-type: "Graduate course"
+type: 
 permalink: /teaching/2020-fall-teaching-1
-venue: "University of Iowa, Department of Chemical and Biochemical Engineering"
+venue:
 date: 2020-08-15
 location: "Iowa City, IA"
 ---
