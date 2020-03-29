@@ -6,6 +6,12 @@ classes: wide
 ---
 
 <p align="center">
+  <header>
+    <h1>CBE:5120<br>Data Science in Chemical and Engineering Systems</h1>
+  </header>
+</p>
+
+<p align="center">
   [<a href="https://icon.uiowa.edu">ICON</a>] [<a href="https://www.github.com/thegomeslab/dsces/startup">GETTING STARTED</a>] [<a href="https://www.github.com/thegomeslab/dsces/lectures">LECTURES</a>] [<a href="https://www.github.com/thegomeslab/dsces/assignments">ASSIGNMENTS</a>] [<a href="https://www.github.com/thegomeslab/dsces/resources">RESOURCES</a>]
 </p>
 
@@ -51,6 +57,7 @@ Email: TBD
 8. By the end of the course, the student will have had opportunities to further his or her professional development through practicing written, oral, and graphical communication skills.
 
 ## Text:
+John Kitchin, _Python3 Computations in Science and Engineering_, 2018.  
 Christopher M. Bishop, _Pattern Recognition and Machine Learning_, Springer, 2006.
 
 ## Website:
