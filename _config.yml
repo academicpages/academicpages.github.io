@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Gomes Lab"
-title_separator          : "-"
-name                     : &name "The Gomes Lab"
+title                    : ""
+title_separator          : ""
+name                     : &name ""
 description              : &description "A Computational Science Research Group at University of Iowa"
 url                      : https://thegomeslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
