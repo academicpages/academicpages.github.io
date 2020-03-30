@@ -1,14 +1,15 @@
 ---
 layout: single-no-nav
-title: "CBE:5120"
 permalink: /dsces
 author_profile: false
 classes: wide
 ---
-
+<head>
+  <title>CBE:5120 - Data Science in Chemical and Engineering Systems</title>
+</head>
 <p align="center">
   <header>
-    <h1>Data Science in Chemical and Engineering Systems</h1>
+    <h1>CBE:5120<br>Data Science in Chemical and Engineering Systems</h1>
   </header>
 </p>
 
