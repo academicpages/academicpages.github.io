@@ -37,7 +37,7 @@ Research
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr20.png">  
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/cvpr20.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
