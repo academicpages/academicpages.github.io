@@ -37,6 +37,23 @@ Research
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr20.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Generic Object Sensor and Spoof Noise Classification, Modeling, and Synthesis</strong><br/>
+      Joel Stehouwer, Amin Jourabloo, <u>Yaojie Liu</u>, Xiaoming Liu<br/>
+      Computer Vision and Pattern Recognition (CVPR'20), 2020.<br/>
+     [<a href="http://cvlab.cse.msu.edu/pdfs/stehouwer_jourabloo_liu_liu_cvpr2020.pdfhttp://cvlab.cse.msu.edu/goset-generic-object-dataset.html">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
   </div>
   <div class="column middle">&nbsp;</div>
