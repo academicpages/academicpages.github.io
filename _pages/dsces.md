@@ -93,7 +93,7 @@ Christopher M. Bishop, [_Pattern Recognition and Machine Learning_](https://www.
 | Nov | 9 | 10 | 11 | 12 | 13 |
 | 12 | _TBD_<br>Classification | | _TBD_<br>Feature selection| | _TBD_<br>Model comparison |
 | Nov | 16 | 17 | 18 | 19 | 20 |
-| 13 | Review | **Midterm 3** | _TBD_<br>Sequential data | | _TBD_<br>Deep learning<br>**Quiz 4** |
+| 13 | Review | **Midterm 3** | _TBD_<br>Sequential data | | _TBD_<br>Deep learning |
 | Nov | 23 | 24 | 25 | 26 | 27 |
 | | ----- || Thanksgiving Break || ----- |
 | Nov/Dec | 30 | 1 | 2 | 3 | 4 |
