@@ -69,35 +69,35 @@ Christopher M. Bishop, [_Pattern Recognition and Machine Learning_](https://www.
 | Week | Mon | Tue | Wed | Thu | Fri |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Aug | 24 | 25 | 26 | 27 | 28 |
-| 1 | First day of class | | Getting Started with<br>Anaconda Python | | Kitchin<br>Ch.2 |
+| 1 | First day of class | | Getting Started with<br>Anaconda Python | | Kitchin<br>Ch.2<br>Basic Python usage |
 | Aug/Sep | 31 | 1 | 2 | 3 | 4 |
-| 2 | Kitchin<br>Ch.3 | | Kitchin<br>Ch.3 | | Kitchin<br>Ch.4 |
+| 2 | Kitchin<br>Ch.3<br>Math | | Kitchin<br>Ch.3<br>Math | | Kitchin<br>Ch.4<br>Linear algebra<br>**Quiz 1** |
 | Sep | 7 | 8 | 9 | 10 | 11 |
-| 3 | Labor Day<br>No class | | | | |
+| 3 | Labor Day<br>No class | | Kitchin<br>Ch.4<br>Linear algebra | | Review |
 | Sep | 14 | 15 | 16 | 17 | 18 |
-| 4 | | | | | |
+| 4 | Kitchin<br>Ch.5<br>Solving nonlinear equations | | Kitchin<br>Ch.5<br>Solving nonlinear equations | | Kitchin<br>Ch.6<br>Statistics<br>**Quiz 2** |
 | Sep | 21 | 22 | 23 | 24 | 25 |
-| 5 | | | | Midterm 1 | |
+| 5 | Kitchin<br>Ch.6<br>Statistics | | Kitchin<br>Ch.7<br>Data analysis | | Kitchin<br>Ch.7<br>Data analysis |
 | Sep/Oct | 28 | 29 | 30 | 1 | 2 |
-| 6 | | | | | |
+| 6 | Review | **Midterm 1** | Kitchin<br>Ch.8<br>Interpolation | | Kitchin<br>Ch.9<br>Optimization |
 | Oct | 5 | 6 | 7 | 8 | 9 |
-| 7 | | | | | |
+| 7 | Kitchin<br>Ch.9<br>Optimization | | Review | | Kitchin<br>Ch.10<br>Differential Equations<br>**Quiz 3** |
 | Oct | 12 | 13 | 14 | 15 | 16 |
-| 8 | | | | | |
+| 8 | Kitchin<br>Ch.10<br>Differential Equations | | Kitchin<br>Ch.10<br>Differential Equations | | Review |
 | Oct | 19 | 20 | 21 | 22 | 23 |
-| 9 | | | | | |
+| 9 | Review | **Midterm 2** | Kitchin<br>Ch.11<br>Data Visualization | | Kitchin<br>Ch.11<br>Data Visualization |
 | Oct | 26 | 27 | 28 | 29 | 30 |
-| 10 | | | | | |
+| 10 | _TBD_<br>Probabilities and distributions | | _TBD_<br>Probabilities and distributions  | | _TBD_<br>Data preprocessing  |
 | Nov | 2 | 3 | 4 | 5 | 6 |
-| 11 | | | | | |
+| 11 | _TBD_<br>Dimensionality reduction | | _TBD_<br>Regression | | Review |
 | Nov | 9 | 10 | 11 | 12 | 13 |
-| 12 | | | | | |
+| 12 | _TBD_<br>Classification | | _TBD_<br>Feature selection| | _TBD_<br>Model comparison |
 | Nov | 16 | 17 | 18 | 19 | 20 |
-| 13 | | | | | |
+| 13 | Review | **Midterm 3** | _TBD_<br>Sequential data | | _TBD_<br>Deep learning**Quiz 4** |
 | Nov | 23 | 24 | 25 | 26 | 27 |
 | | ----- || Thanksgiving Break || ----- |
 | Nov/Dec | 30 | 1 | 2 | 3 | 4 |
-| 14 | | | | | |
+| 14 | _TBD_<br>Deep learning | | _TBD_<br>Deep learning | | Review |
 | Dec | 7 | 8 | 9 | 10 | 11 |
 | 15 | ----- || Final Project Presentations || ----- |
 | Dec | 14 | 15 | 16 | 17 | 18 |
