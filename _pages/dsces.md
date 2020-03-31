@@ -32,7 +32,7 @@ Place: TBD
 ## Instructor:
 Name: Dr. Joe Gomes  
 Office: 4110 SC  
-Email: [mailto:joe-gomes@uiowa.edu](joe-gomes@uiowa.edu)  
+Email: [joe-gomes@uiowa.edu](mailto:joe-gomes@uiowa.edu)  
 Office Hours: TBD @ 4110 SC
 
 ## Teaching Assistant:
