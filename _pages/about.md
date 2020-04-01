@@ -45,7 +45,8 @@ Research
       <strong>Generic Object Sensor and Spoof Noise Classification, Modeling, and Synthesis</strong><br/>
       Joel Stehouwer, Amin Jourabloo, <u>Yaojie Liu</u>, Xiaoming Liu<br/>
       Computer Vision and Pattern Recognition (CVPR'20), 2020.<br/>
-     [<a href="http://cvlab.cse.msu.edu/pdfs/stehouwer_jourabloo_liu_liu_cvpr2020.pdfhttp://cvlab.cse.msu.edu/goset-generic-object-dataset.html">PDF</a>]
+     [<a href="http://cvlab.cse.msu.edu/pdfs/stehouwer_jourabloo_liu_liu_cvpr2020.pdf">PDF</a>]
+     [<a href="http://cvlab.cse.msu.edu/goset-generic-object-dataset.html">Dataset</a>]
     </p>
   </div>
 </div>
