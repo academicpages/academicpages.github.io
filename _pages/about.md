@@ -15,9 +15,8 @@ I am a Senior Economist in the Research Department of the [Federal Reserve Bank 
 Before graduate school, I worked for an energy efficiency consulting firm in Austin, TX. My undergraduate degree is from the University of Texas at Austin, where I majored in Latin American Studies ([LLILAS](https://liberalarts.utexas.edu/llilas/)) and Economics. Once upon a time, I spent two years at UNT in Denton, TX, thinking I wanted to study music. Before that, I delivered pizza and gassed up boats.
 
 ### Recent News
-Online seminar webpages:
-* Environmental: https://sites.google.com/view/envi-econ-online
-* Urban: https://sites.google.com/view/urban-econ-online
+Online seminar websites:
+* Urban: [https://sites.google.com/view/urban-econ-online](https://sites.google.com/view/urban-econ-online)
 
 
 ### Recent News
