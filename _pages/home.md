@@ -24,6 +24,8 @@ author_profile: true
 
 <br>
 
+***
+
 欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!
 
 ## 铁道漫谈系列
