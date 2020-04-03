@@ -11,18 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Bioengineering, Stanford university (expected)
-* B.S.in Biological Sciences, Tsinghua University, 2014
+* Ph.D in Bioengineering, Stanford university, started Fall 2018
+* B.S.in Biological Sciences, Tsinghua University, 2018
 
 Research experience
 ======
 * Research Assistant
   * Stanford University
   * Supervisor: Professor Mark Schnitzer
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
