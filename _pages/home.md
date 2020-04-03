@@ -4,7 +4,9 @@ title: "rickylee's BLOG"
 excerpt: "Home"
 author_profile: true
 ---
-![Gdeqsg.png](https://s1.ax1x.com/2020/04/03/Gdeqsg.png)
+[![Gdeqsg.png](https://s1.ax1x.com/2020/04/03/Gdeqsg.png)](posts/2020/04/blog-post-7/)
+
+### <center>愿吾等之后辈不再遭今代人类身历惨不堪言之“疫祸”。</center>
 
 欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!
 
