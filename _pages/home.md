@@ -8,6 +8,12 @@ author_profile: true
 
 ### <center>愿吾等之后辈不再遭今代人类身历惨不堪言之“疫祸”。</center>
 
+<br>
+
+<br>
+
+<br>
+
 欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!
 
 ## 铁道漫谈系列
