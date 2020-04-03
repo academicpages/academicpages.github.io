@@ -4,6 +4,8 @@ title: "rickylee's BLOG"
 excerpt: "Home"
 author_profile: true
 ---
+![Gdeqsg.png](https://s1.ax1x.com/2020/04/03/Gdeqsg.png)
+
 欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!
 
 ## 铁道漫谈系列
