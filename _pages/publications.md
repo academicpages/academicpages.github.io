@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-8. **P. Cheng**, M. Min, D. Shen, C. Malon, Y. Zhang, Y. Li and L. Carin, Improving Disentangled Text Representation Learning with Information Theoretical Guidance, to appear at Annual Meeting of the Association for Computational Linguistics (ACL), 2019
+8. **P. Cheng**, M. Min, D. Shen, C. Malon, Y. Zhang, Y. Li and L. Carin, Improving Disentangled Text Representation Learning with Information Theoretical Guidance, to appear at Annual Meeting of the Association for Computational Linguistics (ACL), 2020
 
 7. **P. Cheng**, Y. Li, X. Zhang, L. Chen, D. Carlson, L. Carin, [Dynamic Embedding on Textual Networks via a Gaussian Process](http://people.ee.duke.edu/~lcarin/DetGP_AAAI_final.pdf), American Association of Artificial Intelligence (AAAI), 2020 **Oral**
 
