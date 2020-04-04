@@ -16,11 +16,14 @@ My research interests focus on Bayesian deep learning,  geometric deep learning,
 I received my B.S. degree from Tsinghua University in 2017. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 
-## Research Highlights:
+### Research Highlights:
 
-*[04/2020] One paper accepted at ACL 2020.
+- [03/04/2020] One paper accepted at ACL 2020.
 
-*[03/2020] serve as reviewer for NeurIPS 2020.
+- [24/03/2020] Serve as reviewer for NeurIPS 2020.
 
-*[11/2019] One paper accepted for oral presentation at AAAI 2020.
+- [09/02/2020] Provide an oral presentation at AAAI 2020.
 
+- [09/11/2019] One paper accepted for oral presentation at AAAI 2020.
+
+- [14/11/2019] Serve as reviewer for ICML 2020.
