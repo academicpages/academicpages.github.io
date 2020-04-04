@@ -15,6 +15,8 @@ header:
 
 <a href="https://cedric-scheerlinck.github.io/files/2019_firenet.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/QaGYFtR2-X8" target="_blank"><b>Video</b></a>&emsp;
+<a href="https://github.com/cedric-scheerlinck/rpg_e2vid/tree/cedric/firenet" target="_blank"><b>Code</b></a>&emsp;
+<a href="https://drive.google.com/file/d/1nBCeIF_Us-rGhCjdU5q1Ch-yrFckjZPa/view?usp=sharing" target="_blank"><b>Pretrained model</b></a>&emsp;
 <a href="http://rpg.ifi.uzh.ch/davis_data.html" target="_blank"><b>ECD data</b></a>&emsp;
 <a href="http://rpg.ifi.uzh.ch/E2VID.html" target="_blank"><b>HSHDR data</b></a>&emsp;
 <a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc" target="_blank"><b>DVSIR data</b></a>&emsp;
