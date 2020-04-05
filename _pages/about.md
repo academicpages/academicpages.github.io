@@ -12,7 +12,8 @@ Welcome to Pengyu Cheng's homepage!
 
 I am a third-year Ph.D. student in the Department of Electric and Computer Engineering at Duke University.  My research interests focus on Bayesian deep learning,  geometric deep learning, interpretable machine learning and their applications in natural language processing, speech processing, and multi-modality.
 
-I received my B.S. degree from Tsinghua University in 2017. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
+I received my B.S. degree from Tsinghua University in 2017. 
+My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 
 ### Research Highlights:
@@ -21,11 +22,11 @@ I received my B.S. degree from Tsinghua University in 2017. My Ph.D. advisor is 
 
 - [2020/03/24] Began serving as a reviewer for NeurIPS 2020.
 
-- [2020/02/09] Provided an oral presentation at AAAI 2020.
+- [2020/02/09] Provided an oral [presentation](/files/slides/AAAI_oral_presentation.pdf) at AAAI 2020.
 
 - [2019/11/14] Began serving as a reviewer for ICML 2020.
 
-- [2019/11/09] One paper got accepted for an oral presentation at AAAI 2020.
+- [2019/11/09] One [paper](http://people.ee.duke.edu/~lcarin/DetGP_AAAI_final.pdf) got accepted for an oral presentation at AAAI 2020.
 
 - [2019/08/07] Began serving as a reviewer for AAAI 2020.
 
