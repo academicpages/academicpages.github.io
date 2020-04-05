@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Pengyu Cheng"
   avatar           : "avatar.jpeg"
-  bio              : "Ph.D. Student at Duke University"
+  bio              : "Ph.D. Student in Deep Learning"
   location         : "Durham, NC"
-  employer         :
+  employer         : "Duke University"
   googlescholar    : "https://scholar.google.com/citations?user=eeQ_yCkAAAAJ&hl=en"
-  email            :
+  email            : "pengyu.cheng@duke.edu"
   uri              :
   bitbucket        :
   codepen          :
