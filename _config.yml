@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Guilherme Fabris"
 title_separator          : "-"
-name                     : &name "MSc. Guilherme da Silva Lopes Fabris"
-description              : &description "Student Research at São Paulo State University - Bauru - SP - Brazil"
+name                     : &name "Ph.D. Guilherme da Silva Lopes Fabris"
+description              : &description "Postdoc at Federal University of Rio Grande do Norte - Natal - RN - Brazil"
 url                      : https://guilhermeslfabris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guilhermeslfabris/guilhermeslfabris.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "MSc. Guilherme Fabris"
+  name             : "Ph.D. Guilherme Fabris"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Bauru, São Paulo - Brazil"
+  location         : "Natal, Rio Grande do Norte - Brazil"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=O-aTqjMAAAAJ&hl"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0830-5787"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
