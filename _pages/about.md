@@ -16,9 +16,9 @@ Research Interests
 ======
 My research targets at developing computational methods to analyze and mine socially-generated contents. Currently, I focus on the following areas:
 * **Natural Language Processing and Text Mining**  
-Opinion Mining and Stance Analysis
+Opinion mining and stance analysis, especially in low-resource settings (cross-domain, weak supervision and multi-task)
 * **Social Media Analytics and Social Computing**  
-Rumor Verification and Fact Checking  
+Rumor verification and fact checking    
 <br/>
 
 
@@ -27,7 +27,7 @@ Publications
 Selected First-authored Publications:
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao and Wenji Mao  
-To appear in *ACL 2020: The 58th Annual Meeting of the Association for Computational Linguistics*.
+To appear in *ACL 2020: The 58th Annual Conference of the Association for Computational Linguistics*.
 * **Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity**  
 **Penghui Wei**, Nan Xu, Wenji Mao  
 In *EMNLP 2019: The 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing*, pages 4789--4800.
@@ -69,6 +69,6 @@ Misc
 ======
 * [Here](https://www.cnblogs.com/Determined22/) is my technology blog (in Chinese). I wrote some notes about machine learning and natural language processing techniques.
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
-* I am a yo-yoer, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers: Hiroyuki Suzuki and Takuma Inoue. 
+* I am a yo-yo player, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers: Hiroyuki Suzuki and Takuma Inoue. 
   
   
