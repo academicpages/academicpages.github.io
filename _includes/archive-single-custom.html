@@ -6,6 +6,12 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
 <table class="publications_table">
   <colgroup>
     <col span="1" class="thumbnail_col">
@@ -24,11 +30,6 @@
       </a>
     </td>
     <td>
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
 
 <h2 class="publications_h2">
   {% if post.link %}
@@ -44,6 +45,11 @@
 {% elsif post.collection == 'publications' %}
 {% unless post.blank %}
   <p class="publications_p"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+{% endunless %}
+{% elsif post.collection == 'talks' %}
+{% unless post.blank %}
+  <p class="publications_p">{{ post.date | default: "1900-01-01" | date: "%d %B, %Y" }}</p>
+  <p class="publications_p"><i>{{post.type}}, {{ post.venue }},  {{post.location}}</i></p>
 {% endunless %}
 {% elsif post.date %}
   {% unless post.blank %}
