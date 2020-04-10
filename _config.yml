@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aubrey J. Rembert"
+title                    : "Aubrey J. Rembert, Ph.D."
 title_separator          : "-"
-name                     : &name "Aubrey J. Rembert"
-description              : &description "Computer Scientist @ Next Big Sound/Pandora."
+name                     : &name "Aubrey J. Rembert, Ph.D."
+description              : &description "Research Scientist @ Pandora."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Aubrey J. Rembert"
   avatar           : "profile.png"
-  bio              : "Computer Scientist @ Pandora/Next Big Sound"
+  bio              : "Research Scientist @ Pandora Media"
   location         : "Greater Orlando Area"
   googlescholar    : 
   email            : "info [at] aubreyjrembert.com"
