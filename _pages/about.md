@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Recent News
+* April 8, 2020. One patent filed.
 * January 24, 2020. One paper accepted to ICASSP 2020.
 * September, 2019. I gave talks at Shenzhen University, UESTC and Xidian Univeristy.
 * May 20, 2019. Internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com/) started.
