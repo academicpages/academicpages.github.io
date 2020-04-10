@@ -7,7 +7,7 @@ date: 2020-05-04
 citation: '<b>Lantao Yu</b>, Dehong Liu, Hassan Mansour, Petros T. Boufounos, and Yanting Ma. <b>ICASSP 2020.</b>'
 ---
 
-[[PDF]]
+[[PDF]](https://ieeexplore.ieee.org/document/9053554)
 
 ## Abstract
 
