@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hip Hop Lyrics Top Models"
+excerpt: "LDA top models over hip hop lyrics from 1980s to 2016"
 collection: portfolio
 ---
 
