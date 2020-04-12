@@ -6,7 +6,6 @@ urlcolor: blue
 author_profile: true
 ---
 
-<br/>
 **Learning mobile app embeddings using multi-task neural network**  
 Shubham Krishna\*, Ahsaas Bajaj\*, Hemant Tiwari, Vanraj Vala  (\*joint first authors)   
 Proceedings of 24th International Conference on Applications of Natural Language to Information Systems (NLDB), 2019 \[[<span style="color:blue">Paper</span>](https://link.springer.com/chapter/10.1007/978-3-030-23281-8_3)\]  
