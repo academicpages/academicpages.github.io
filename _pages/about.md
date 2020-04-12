@@ -32,7 +32,7 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
- <tr><td> April 2020: </td> <td> Joined <a href="http://bethgelab.org/">"Bethge Lab" as a Research Assistant </a> </td> </tr>
+ <tr><td> April 2020: </td> <td> Joined <a href="http://bethgelab.org/">"Bethge Lab" </a> as a Research Assistant  </td> </tr>
 <tr><td> March 2020: </td> <td> Received the Prestigious Deutschlandstipendium Scholarship </a> </td> </tr>
 <tr><td> Oct. 2019: </td> <td> Moved to Tübingen for Masters in Machine Learning. </td></tr> 
 <tr><td> April 2019:</td> <td> Paper <a href="https://link.springer.com/chapter/10.1007/978-3-030-23281-8_3" >"Learning Mobile App Embeddings Using Multi-task Neural Network"</a> published at 24th International Conference on Applications of Natural Language to Information Systems 2019.</td></tr> 
