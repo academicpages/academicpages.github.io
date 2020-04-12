@@ -83,7 +83,7 @@ author:
   name             : "Shubham Krishna"
   avatar           : "profile.png"
   bio              : "Masters Student in Machine Learning, University of Tubingen"
-  location         : "Tubingen, Germany"
+  location         : "Tübingen, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=3ooyMUcAAAAJ&hl=en"
   email            : "shubhamkrishna.ism@gmail.com"
@@ -93,12 +93,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/shubham.iitdhn"
+  facebook         : #"https://www.facebook.com/shubham.iitdhn"
   foursquare       :
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/shubham._.krishna/"
+  instagram        : #"https://www.instagram.com/shubham._.krishna/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/shubham-krishna-998922108/"
