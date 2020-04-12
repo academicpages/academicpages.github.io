@@ -20,7 +20,7 @@ Proceedings of 20th International Conference on Computational Linguistics and In
 **A clustering approach to infer Wikipedia contributors' profile**  
 Shubham Krishna, Romain Billot, Nicolas Jullien
 *Awarded Student Travel Grant*  
-Proceedings of the 14th International Symposium on Open Collaboration (2018) \[[<span style="color:blue">Paper</span>](https://dl.acm.org/doi/pdf/10.1145/3233391.3233968)\]
+Proceedings of the 14th International Symposium on Open Collaboration (OpenSym), 2018 \[[<span style="color:blue">Paper</span>](https://dl.acm.org/doi/pdf/10.1145/3233391.3233968)\]
 
 
 You can also find my publications on <u><a href="https://scholar.google.com/citations?user=3ooyMUcAAAAJ&hl=en">my Google Scholar profile</a>.</u>
