@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! My name is Shubham Krishna and I am a first year Masters student in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/) where I am exploring my interest in the field of Deep Neural Networks and Mathematics behind it. I am also working as a Research Assitant at Bethge Lab. 
+Hello! My name is Shubham Krishna and I am a first year Masters student in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/) where I am exploring my interest in the field of Deep Neural Networks and Mathematics behind it. I am also working as a Research Assistant at [Bethge Lab](http://bethgelab.org/). 
 
 I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. My Research Interests broadly lie in the field of Understanding the behaviour of Deep Neural Networks and their applications in Computer Vision, Natural Language Processing and Autonomous Driving.
 
