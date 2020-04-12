@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Hello! My name is Shubham Krishna and I am a first year Masters student in Machine Learning Department at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/) where I am exploring my interest in the field of Deep Neural Networks and Mathematics behind it. I am currently working as a Research Assitant at Bethge Lab. 
+Hello! My name is Shubham Krishna and I am a first year Masters student in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/) where I am exploring my interest in the field of Deep Neural Networks and Mathematics behind it. I am also working as a Research Assitant at Bethge Lab. 
 
-I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. My Research Interests broadly lie in the field of Understanding the behaviour of Deep Neural Networks and their applications in in Computer Vision, Natural Language Processing and Autonomous Driving.
+I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. My Research Interests broadly lie in the field of Understanding the behaviour of Deep Neural Networks and their applications in Computer Vision, Natural Language Processing and Autonomous Driving.
 
-I spent a one and half amazing year at Samsung Research Bangalore, India where I was working as a Senior Software Engineer in the On-Device Intelligence Search Team. During my tenure, I published two research papers at International Conferences in the field of Natural Language Processing and Deep Neural Networks.
+I spent an amazing one and half year at Samsung Research Bangalore, India where I was working as a Senior Software Engineer in the On-Device Intelligence Search Team. During my tenure, I published two research papers at International Conferences in the field of Natural Language Processing and Deep Neural Networks.
 
 
 During Winter 2017, I was fortunate enough to work with [Prof. Romain Billot](https://www.linkedin.com/in/romain-billot-37107099/) and [Prof. Nicolas Jullien](https://nicolasjullien.wp.imt.fr/en/) as a Research Assistant in the LUSSI Department at IMT Atlantique, Brest Campus, France. During my stay, I studied the behaviour of online Wikipedia's contributors using Machine Learning and Statistics. The work led to a Poster Presentation at OpenSym 2018, the 14th International Symposium on Open Collaboration. 
