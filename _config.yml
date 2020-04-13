@@ -11,7 +11,7 @@ title                    : "> lonsbio | bioinformatics"
 title_separator          : "|"
 name                     : &name "Andrew Lonsdale"
 description              : &description "personal description"
-url                      : https://lonsbio.github.io/lonsbio.com.au/
+url                      : https://lonsbio.github.io/lonsbio.com.au
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lonsbio/lonsbio.com.au"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/andrew-lonsdale-20a771114/
   orcid            : "https://orcid.org/0000-0002-0292-2880"
   pinterest        :
   soundcloud       :
