@@ -1,0 +1,12 @@
+---
+layout: post
+title: Biting the Bullet(s) - Bpipe, Git and Vagrant (and Chef/Puppet)
+date: '2013-08-18T20:07:00.001+10:00'
+author: Andrew Lonsdale
+tags: 
+modified_time: '2013-08-18T20:09:09.225+10:00'
+blogger_id: tag:blogger.com,1999:blog-5027483082954385139.post-7270531598625654843
+blogger_orig_url: http://blog.lonsbio.com.au/2013/08/biting-bullets-bpipe-git-and-vagrant.html
+---
+
+I'm a big fan of <a href="https://code.google.com/p/bpipe/">Bpipe</a>. Why I like it can wait for another post, and the homepage makes a good case. I'd relied on it in a Torque/PBS environment that recently moved to SLURM, which Bpipe does not currently support. Self-interest and open source code meant that if it was going to get added, I could at least get the ball rolling by contributing (or attempting to).<br /><br />I had dabbled in some source code changes to Bpipe previously on a VM that I've not fired up in a few months. I don't quite recall how I installed it, the various path changes, and issues. The code changes I made are not under source control - they were just sitting there, and I never submitted them.<br /><br />I know enough to know that's not the way to do it. But there are lots of things I know I should have set up and be using, including source control on everything and having reproducible development environment for contributing to a project such as Bpipe.<br /><br /><div>I've started on them, there are rough notes for all but a well documented coherent process for them ... &lt;insert excuse here&gt;.<br /><br /></div><div>But my reliance on Bpipe for being able to quickly reuse components, call parallel tasks and overall use supercomputing resources with minimal effort has forced my hand. It is clear that:</div><div><br /><ol><li>I need to have Bpipe support SLURM.</li><li>I need to setup a new development environment to work on Bpipe. &nbsp;</li><li>I need a way to have track the code changes I make, and share them with the community.&nbsp;</li><li>I need to get to work!</li></ol></div><div>I've been wanting to try Vagrant (http://www.vagrantup.com/) for a while, as well as try out some provisioning software like Chef and Puppet. My GitHb account has been setup but dormant for a while. All that has been lacking is my will to set aside some time to do it.<br /><br />With any luck, the following list will turn into links to the posts I make as I progress through each of these steps.</div><div><ol><li>Vagrant (and Chef/Puppet)</li><li>Git</li><li>Bpipe &amp; SLURM</li></ol></div>
