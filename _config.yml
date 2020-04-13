@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Charles Truong"
   avatar           : "profile.jpeg"
-  bio              : "Researcher in machine learning and signal processing. Application to bio-medical and industrial data."
+  bio              : "Researcher in machine learning and signal processing. Bio-medical and industrial applications."
   location         : "Paris, France"
-  employer         : "[Centre Borelli](http://centreborelli.cnrs.fr/)"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?user=3byuqG4AAAAJ&hl=fr&oi=ao"
   email            :
