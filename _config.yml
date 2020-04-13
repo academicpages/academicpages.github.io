@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Lonsdale"
-  avatar           : "profile.png"
+  avatar           : "headshot.jpeg"
   bio              : "Bioinformatician"
   location         : "Melbourne, Australia"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/andrew-lonsdale-20a771114/
+  linkedin         : andrew-lonsdale-20a771114
   orcid            : "https://orcid.org/0000-0002-0292-2880"
   pinterest        :
   soundcloud       :
