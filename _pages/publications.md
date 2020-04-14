@@ -8,7 +8,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # Peer-reviewed journals
 
-**Truong, C.**, Oudre, L., & Vayatis, N. (2020). Selective review of offline change point detection methods. *Signal Processing*, 167. [[doi]](https://doi.org/10.1016/j.sigpro.2019.107299) [[pdf]](http://deepcharles.github.io/files/sp-review-2020.pdf) [[abstract]](/_publications/sp-review-2020.md)
+**Truong, C.**, Oudre, L., & Vayatis, N. (2020). Selective review of offline change point detection methods. *Signal Processing*, 167. [[doi]](https://doi.org/10.1016/j.sigpro.2019.107299) [[pdf]](http://deepcharles.github.io/files/sp-review-2020.pdf)
+
+{% for post in site.publications reversed %}
+  {% if post.citekey == 'sp-review-2020' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 
 **Truong, C.**, Oudre, L., & Vayatis, N. (2019). Greedy Kernel Change-Point Detection. IEEE Transactions on Signal Processing, 67(24). [[doi]](https://doi.org/10.1109/TSP.2019.2953670) [[pdf]](http://deepcharles.github.io/files/ieee-kernel-2019.pdf)
