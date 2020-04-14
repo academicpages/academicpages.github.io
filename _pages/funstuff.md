@@ -5,12 +5,13 @@ author_profile: true
 permalink: /funstuff/
 ---
 
+Outside of astronomy, I enjoy playing soccer, running, Hamilton, and eating yummy vegan food! I'm also a huge Game of Thrones fan. 
 
-In my free time I like to play soccer. Here's a picture of me with club soccer team in college! Now, I play rec soccer through the Chicago Fire Rec Soccer league on weekends. 
+Here's a picture of me with club soccer team in college! Now, I play rec soccer through the Chicago Fire Rec Soccer league on weekends. 
 
 ![Picture of my soccer team](../images/IMG_0015.jpeg)
 
-I am a big Game of Thrones fan as well. One of my life goals is to visit all the major Game of Thrones filming sites. 
+One of my life goals is to visit all the major Game of Thrones filming sites. 
 
 
 <figure class="half">
