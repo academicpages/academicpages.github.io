@@ -4,27 +4,6 @@ title: "rickylee's BLOG"
 excerpt: "Home"
 author_profile: true
 ---
-[![Gdeqsg.png](https://s1.ax1x.com/2020/04/03/Gdeqsg.png)](posts/2020/04/blog-post-7/)
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-### <center>愿吾等之后辈不再遭今代人类身历惨不堪言之“疫祸”。</center>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-***
 
 欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!
 
@@ -44,7 +23,9 @@ author_profile: true
 
 ## 时事参考系列
 
-* [**NEW！【2020-02-29】网络信息内容生态治理规定（全文）（2020）🔗**](posts/2020/02/blog-post-6/) 
+* [**NEW！【2020-04-04】I Remember. 🔗**](posts/2020/04/blog-post-7/) 
+
+* [【2020-02-29】网络信息内容生态治理规定（全文）（2020）🔗](posts/2020/02/blog-post-6/) 
 
 ## 历史经典文件系列
 
