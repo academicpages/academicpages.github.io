@@ -24,7 +24,6 @@ layout: compress
     
     <div class="page__footer">
       <footer>
-        &copy; {{ site.name | default: site.title }}, {{ site.time | date: '%Y' }}.
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
         <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
         <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i></a>
@@ -41,6 +40,7 @@ layout: compress
 <!--        <a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i></a>-->
 <!--        <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>-->
 <!--        <a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>-->
+        &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
       </footer>
     </div>
 
