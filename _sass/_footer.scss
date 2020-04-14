@@ -20,16 +20,15 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-//  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
 
   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
     margin-top: 2em;
-    max-width: 100%;
-    padding: 0 1em 2em;
+    max-width: $large;  // taken from 'container' - same as masthead
+    padding: 2em 1em 2em;
+    border-top: 1px solid $light-gray;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -54,7 +53,7 @@
     
   // change footer font here
   font-family: $garamond;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 
 .page__footer-follow {
