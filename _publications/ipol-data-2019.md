@@ -6,7 +6,7 @@ excerpt: 'This article thoroughly describes a data set of 1020 multivariate gait
 date: 2019-10-01
 venue: 'Image Processing On Line (IPOL)'
 paperurl: # 'http://academicpages.github.io/files/ipol-walk-data-2019.pdf'
-citation: 'test'
+citation: 'Truong, C., Barrois-Müller, R., Moreau, T., Provost, C., Vienne-Jumeau, A., Moreau, A., Vidal, P.-P., Vayatis, N., Buffat, S., Yelnik, A., Ricard, D., & Oudre, L. (2019). A data set for the study of human locomotion with inertial measurements units. Image Processing On Line (IPOL), 9.'
 ---
 [[doi]](https://doi.org/10.5201/ipol.2019.265) [[pdf]](http://deepcharles.github.io/files/ipol-walk-data-2019.pdf)
 
