@@ -1,7 +1,7 @@
 ---
 title: 'A data set for the study of human locomotion with inertial measurements units'
 collection: publications
-permalink: /publication/ipol-walk-data-2019
+permalink: /publication/ipol-data-2019
 excerpt: 'This article thoroughly describes a data set of 1020 multivariate gait signals collected with two inertial measurement units, from 230 subjects undergoing a fixed protocol.'
 date: 2019-10-01
 venue: 'Image Processing On Line (IPOL)'
