@@ -3,7 +3,7 @@ title: "Greedy kernel change-point detection"
 collection: publications
 permalink: /publication/ieee-kernel-2019
 excerpt: 'A novel non-parametric and model-free off-line change-point detection method based on a kernel mapping is presented.'
-date: 2010-10-01
+date: 2019-12-01
 venue: 'IEEE Transactions on Signal Processing'
 paperurl: # 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Truong, C., Oudre, L., & Vayatis, N. (2019). Greedy kernel change-point detection. IEEE Transactions on Signal Processing, 67(24).'
