@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
-Hi, I'm Andrew Lonsdale (@Lni
-
 I am Andrew Lonsdale ([@LonsBio](https://twitter.com/LonsBio)), a bioinformatician based in Melbourne, Australia. 
+
+![tempcvvis10y](images/tempcvvis10y.png)
+
