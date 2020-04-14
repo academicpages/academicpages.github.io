@@ -20,7 +20,7 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
+//  background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
 
   footer {
@@ -51,10 +51,8 @@
   .fal {
     color: mix(#fff, $gray, 25%);
   }
-}
-
-// change footer font here
-.page__footer-copyright {
+    
+  // change footer font here
   font-family: $garamond;
   font-size: 0.8em;
 }
