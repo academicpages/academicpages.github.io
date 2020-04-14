@@ -7,7 +7,6 @@ date: 2020-02-01
 venue: 'Signal Processing'
 paperurl: # 'http://deepcharles.github.io/files/sp-review-2020.pdf'
 citation: 'Truong, C., Oudre, L., & Vayatis, N. (2020). Selective review of offline change point detection methods. Signal Processing, 167.'
-citekey : 'sp-review-2020'
 ---
 [[doi]](https://doi.org/10.1016/j.sigpro.2019.107299) [[pdf]](http://deepcharles.github.io/files/sp-review-2020.pdf)
 
