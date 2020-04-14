@@ -12,6 +12,8 @@ I am currently pursuing a PhD in the [Adaptive Brain Lab](https://www.abg.psycho
 
 I am an advisor to mental health startup [Neurum Health](https://www.neurumhealth.com).
 
+Feel free to contact me at <a href="mailto:opk20@cam.ac.uk">opk20@cam.ac.uk</a>.
+
 Previously, I helped establish a machine learning team at Goldman Sachs in Hong Kong.
 
-During my MPhil, supervised by [Pascale Fung](http://www.ee.ust.hk/~pascale/), I was doing research on machine learning on non-numerical data, especially social signals. I was also working with [Genta Indra Winata](https://gentaiscool.github.io/) on a virtual therapist self-help platform. We were using machine learning to model affect state in order to construct emotionally intelligent dialogue.
+During my MPhil, supervised by [Pascale Fung](http://www.ee.ust.hk/~pascale/), I was doing research on machine learning on non-numerical data, especially social signals. I was also working with [Genta Indra Winata](https://gentaiscool.github.io/) on a virtual therapist self-help platform. We used deep learning methods to model affect state in order to construct emotionally intelligent dialogue.
