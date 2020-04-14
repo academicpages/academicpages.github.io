@@ -14,6 +14,7 @@ redirect_from:
 Undergraduate
 =============
 
+- Quantitative Methods I (O'Higgins University, T1:2020).  <a href="https://github.com/hbahamonde/Metodos_Cuanti_I/raw/master/Bahamonde_Metodos_Cuanti_I.pdf"><i class='fa fa-book fa'></i></a>
 
 - Political Science I (O'Higgins University, T1:2020).  <a href="https://github.com/hbahamonde/Ciencia_Politica_I/raw/master/Bahamonde_Ciencia_Politica_I.pdf"><i class='fa fa-book fa'></i></a>
 
