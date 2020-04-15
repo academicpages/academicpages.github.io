@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="06245c35-999d-4c68-9917-e49e265e8f37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WANets" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -73,9 +72,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1097" y="477" key="FileChooserDialogImpl" timestamp="1579468486031">
-      <screen x="59" y="24" width="2501" height="1416" />
+    <state x="1097" y="484" key="FileChooserDialogImpl" timestamp="1585214345414">
+      <screen x="59" y="24" width="2501" height="1439" />
     </state>
     <state x="1097" y="477" key="FileChooserDialogImpl/59.24.2501.1416/2560.0.2560.1440@59.24.2501.1416" timestamp="1579468486031" />
+    <state x="1097" y="484" key="FileChooserDialogImpl/59.24.2501.1439/2560.0.2560.1440@59.24.2501.1439" timestamp="1585214345414" />
   </component>
 </project>

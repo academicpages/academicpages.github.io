@@ -15,7 +15,13 @@ author_profile: false
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=LNO4XZQAAAAJ&hl=en)
 
-- "Learning to Learn via Self-Critique", A. Antoniou and A. Storkey, In 33rd Conference on Neural Information Processing Systems (NeurIPS 2019), Vancouver, Canada
+- "Defining Benchmarks for Continual Few-Shot Learning", A. Antoniou, M. Patacchiola, M. Ochal, A. Storkey, arXiv e-prints
+  * Supplementary Material: [Spec](/documents/specification_for_continual_few_shot_learning.pdf) 
+
+- "Meta-Learning in Neural Networks: A Survey", T. Hospedales, A. Antoniou, P. Micaelli and A. Storkey, arXiv e-prints (arXiv:2004.05439)
+  
+
+- "Learning to Learn via Self-Critique", A. Antoniou and A. Storkey, Neural Information Processing Systems, 2019, Vancouver, Canada
   * Supplementary Material: [Poster](/documents/Learning_to_learn_via_Self_Critique_poster.pdf) 
 
 
