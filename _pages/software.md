@@ -61,4 +61,3 @@ I also have a number of other software resources focused on making computation a
 - [Scripts](https://github.com/jayrobwilliams/Teaching) that I use to save time on various teaching-related tasks like grading
 - [Functions](https://github.com/jayrobwilliams/ComputerVision) for extracting still frames from videos and information from images in Python using OpenCV
 - [Compiling OpenCV](/files/html/OpenCV_Install.html) from source for Anaconda virtual environments instead of Homebrew ones or system Python installations
-- [Configuring Emacs](/files/html/Emacs_X11.html) to use X11 forwarding on Mac OS if you frequently work with remote connections such as high performance computing clusters
