@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Craig Toth Personal Profile Welcome Page"
-excerpt: "About me"
+title: "Craig Toth Personal Profile"
+excerpt: "About Craig Toth"
 author_profile: true
 redirect_from:
   - /about/
