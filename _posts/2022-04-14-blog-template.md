@@ -19,7 +19,7 @@ You can have many headings
 Aren't headings cool?
 ------
 
-```python
+```
 def test(arg):
   return 1
 ```
