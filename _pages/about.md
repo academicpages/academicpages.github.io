@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Craig Toth Personal Portfolio home page"
+title: "Craig Toth Personal Portfolio"
 excerpt: "About Craig Toth"
 author_profile: true
 redirect_from:
