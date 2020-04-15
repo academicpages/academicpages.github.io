@@ -28,3 +28,9 @@ redirect_from:
 #### 微信公众号：
 
 ![Gkh3SU.png](https://s1.ax1x.com/2020/03/28/Gkh3SU.png){:width="70%"}
+
+### 网站日志
+
+2020-3-20 网站上线
+2020-4-15 评论系统初次测试
+{: .notice}
