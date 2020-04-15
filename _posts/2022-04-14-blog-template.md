@@ -23,3 +23,10 @@ Aren't headings cool?
 def test(arg):
   return 1
 ```
+
+
+{% highlight python %}
+def test(arg):
+  return 1
+{% endhighlight %}
+
