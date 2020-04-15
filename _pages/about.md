@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Craig Toth's Personal Profile. Browse to see available content.
+Welcome to Craig Toth's Personal Portfolio. Browse to see available content.
 
 Check back often for new material, as I add content on regular basis.
