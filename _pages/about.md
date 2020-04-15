@@ -10,5 +10,4 @@ redirect_from:
 
 I am Andrew Lonsdale ([@LonsBio](https://twitter.com/LonsBio)), a bioinformatician based in Melbourne, Australia. 
 
-![tempcvvis10y](images/tempcvvis10y.png)
 
