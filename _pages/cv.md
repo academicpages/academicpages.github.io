@@ -17,7 +17,7 @@ How did I get here?
 
 I always wanted to do one of those visual resumes. Here is a work in progress, using for a snapshot of the last decade ("The Bioinformatics Years"): 
 
-![tempcvvis10y](images/tempcvvis10y.png)
+![tempcvvis10y](../images/tempcvvis10y.png)
 
 For more detail, check out [LinkedIn](https://www.linkedin.com/in/andrew-lonsdale-20a771114).
 
