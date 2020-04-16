@@ -15,9 +15,9 @@ How did I get here?
 * MSc (Bioinformatics), University of Melbourne, 2012
 * PhD (degree requirements completed, graduation pending), University of Melbourne, 2020
 
-I always wanted to do one of those visual resumes. Here is a work in progress, using for a snapshot of the last decade ("The Bioinformatics Years"): 
+I always wanted to do one of those visual resumes. Here is a work in progress using a [Visual Resume Shiny App](https://ndphillips.shinyapps.io/Visual_Resume/), and a snapshot of the last decade ("The Bioinformatics Years"): 
 
 ![tempcvvis10y](https://lonsbio.github.io/lonsbio.com.au/images/tempcvvis10y.png)
 
-For more detail, check out [LinkedIn](https://www.linkedin.com/in/andrew-lonsdale-20a771114).
+For more details on previous employment and experiences, please check out [LinkedIn](https://www.linkedin.com/in/andrew-lonsdale-20a771114).
 
