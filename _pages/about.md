@@ -10,4 +10,5 @@ redirect_from:
 
 I am Andrew Lonsdale ([@LonsBio](https://twitter.com/LonsBio)), a bioinformatician based in Melbourne, Australia. 
 
+Work/Life: :man-girl::computer::computer::computer::computer::man-woman-girl::man-woman-girl:
 
