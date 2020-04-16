@@ -11,7 +11,7 @@ title                    : "> lonsbio | bioinformatics"
 title_separator          : "|"
 name                     : &name "Andrew Lonsdale"
 description              : &description "personal description"
-url                      : https://lonsbio.github.io/lonsbio.com.au
+url                      : http://lonsbio.com.au
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lonsbio/lonsbio.com.au"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
