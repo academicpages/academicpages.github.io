@@ -8,6 +8,8 @@ author_profile: true
 
 ## 2019
 
+* Subtype insights for Parkinson's disease using a medication-aware disease progression model. Computational Neuroscience Outcomes Center Symposium, Boston.
+
 * Data-driven prediction of battery cycle life before capacity degradation. AI in Process Automation Symposium, Boston.
 
 * Medication-aware disease progression modeling for Parkinson's disease. IBM, Cambridge.
