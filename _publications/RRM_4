@@ -1,1 +1,18 @@
+---
+title: "Multi-trait random regression models increase genomic prediction accuracy for a temporal physiological trait derived from high-throughput phenotyping"
+collection: publications
+permalink: /publications/RRM_4
+excerpt: 'However, given the capability of HTP to collect multiple temporal phenotypes, one unresolved question in plant breeding is how to jointly model multiple temporal phenotypes. To
+address this, we aimed to integrate the RRM framework for temporal traits into a MT model.'
+date: 2020-02-03
+venue: 'PLOS ONE '
+paperurl: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0228118&type=printable'
+citation: 'Momen M., Campbell T.M., Walia H., Morota G. (2019) Predicting longitudinal traits derived from high-throughput phenomics in contrasting environments using genomic Legendre polynomials and B-splines'
 
+---
+
+<a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228118'> Full text is here:</a>
+
+**Abstract**
+
+We confirmed that MT-RRM frameworks provide an effective approach to predict temporal physiological traits that are difficult or expensive to quantify in large populations.
