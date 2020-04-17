@@ -14,12 +14,6 @@ redirect_from:
 - Bahamonde, H. (2011). El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009. **Revista de Ciencia Política**. 31(2), pp. 285-310. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). [[Abstract]](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2011000200007&lng=es&nrm=iso&tlng=en).
 
 
-## Invited Book Reviews
-
-- Inés Durán Matute (2019).[Indigenous Peoples and the Geographies of Power: Mezcala's Narratives of Neoliberal Governance](https://doi.org/10.1080/13260219.2019.1671679). **Journal of Iberian and Latin American Research**, Routledge.
-
-
-
 ## Under Review, Revise and Resubmit, Sent
 
 - **Still for Sale: The Micro-Dynamics of Vote-Selling in the United States, Evidence From a List Experiment**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Revise and Resubmit, Acta Politica**.
@@ -40,3 +34,7 @@ redirect_from:
 
 - **Testing the Online Model of Candidate Evaluation in a More Realistic Environment**. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
+
+## Invited Book Reviews
+
+- Inés Durán Matute (2019).[Indigenous Peoples and the Geographies of Power: Mezcala's Narratives of Neoliberal Governance](https://doi.org/10.1080/13260219.2019.1671679). **Journal of Iberian and Latin American Research**, Routledge.
