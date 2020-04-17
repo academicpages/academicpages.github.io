@@ -18,10 +18,10 @@ redirect_from:
 
 - **Still for Sale: The Micro-Dynamics of Vote-Selling in the United States, Evidence From a List Experiment**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Revise and Resubmit, Acta Politica**.
 
-- **Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt?token=AEe6kdAYNOD1uISCyrznDwOnmun1MBFfks5bYfK6wA%3D%3D). [[Data]](http://www.hectorbahamonde.com/datasets/). **Under Review, Governance**
+- **Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Under Review, Governance**
 
 
-- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt).[[Draft]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[BibTex]](https://raw.github.com/hbahamonde/Inequality_State_Capacities/citation.bib). **Under Review, SCID**
+- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **Under Review, SCID**
 
 
 ## In Preparation
