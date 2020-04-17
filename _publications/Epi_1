@@ -1,7 +1,7 @@
 ---
 title: "Integration of single nucleotide variants and whole-genome DNA methylation profiles for classification of rheumatoid arthritis cases from controls"
 collection: publications
-permalink: /publications/Correlation
+permalink: /publications/Epi
 excerpt: 'This study evaluated the use of multiomics data for classification accuracy of rheumatoid arthritis (RA). Three approaches were used and compared in terms of prediction accuracy:(1) whole-genome prediction (WGP) using SNP marker information only,(2) whole-methylome prediction (WMP) using methylation profiles only, and (3) whole-genome/methylome prediction (WGMP) with combining both omics layers.'
 date: 2020-03-03
 venue: 'Heredity'
