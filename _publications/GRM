@@ -1,1 +1,17 @@
+---
+title: "Performance of pedigree and various forms of marker‐derived relationship coefficients in genomic prediction and their correlations"
+collection: publications
+permalink: /publications/GRM
+excerpt: 'The objective of this work was to compare estimates of genetic and genomic parameters between several types of similarity matrices as well as their predictive performance under a Bayesian multiple‐trait genomic prediction context.'
+date: 2020-30-01
+venue: 'Journal of Animal Breeding and Genetics'
+paperurl: 'https://www.g3journal.org/content/9/10/3369'
+citation: 'Solaymani, Samaneh, Ahmad Ayatollahi Mehrgardi, Ali Esmailizadeh, Llibertat Tusell, and Mehdi Momen. "Performance of pedigree and various forms of marker‐derived relationship coefficients in genomic prediction and their correlations." Journal of Animal Breeding and Genetics (2020).'
 
+---
+
+<a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/jbg.12467'> Full text is here:</a>
+
+**Abstract**
+
+We showed that the superiority of GK‐based model depends on the smoothing parameters (θ) so that with an optimum θ value, the GK‐based model statistically yielded better performance (higher predictive correlation, lowest MSE and unbiased estimates) and more stable correlations and heritability than the model with IBD, IBS or urn:x-wiley:09312668:media:jbg12467:jbg12467-math-0008 kinship matrices or any of the linear combinations.
