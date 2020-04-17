@@ -48,7 +48,7 @@
 	var greenIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_green.png'})
 
 
-	L.marker([45.409235,11.885922], {icon: greenIcon}).addTo(mymap).bindPopup('Via Francesco Marzolo 8, Padua 35131 Italy<br /><a href="http://www.dfa.unipd.it/"  target="_blank">Department of Physics and Astronomy "Galileo Galilei"</a><br /><a href="https://www.unipd.it/en/" target="_blank">University of Padua</a>');
+	L.marker([45.409235,11.885922], {icon: greenIcon}).addTo(mymap).bindPopup('<a href="https://www.unipd.it/en/" target="_blank">University of Padua</a><br /><a href="http://www.dfa.unipd.it/"  target="_blank">Department of Physics and Astronomy "Galileo Galilei"</a><br />Via Francesco Marzolo 8, Padua 35131 Italy').openPopup();
 
 	<!--L.marker([42.380008,-71.115349], {icon: greenIcon}).addTo(mymap).bindPopup('52 Oxford St, Cambridge, MA 02138<br />Northwest Science Building, <a href="https://www.harvard.edu/" target="_blank">Harvard University</a>');-->
 

@@ -18,10 +18,9 @@ author_profile: true
 
 
 <p style="text-align: center;">
-<a href="https://orcid.org/0000-0001-9765-0728" target="_blank"><!--_--><img src="/images/ORCID.png" title="My ORCID ID" height="10" with="10"></a><br>
+<a href="https://orcid.org/0000-0001-9765-0728" target="_blank"><!--_--><img src="/images/ORCID.png" title="My ORCID QR code" style="width:200px;height:200px;"></a><br>
 <a href="https://orcid.org/0000-0001-9765-0728" target="_blank"><!--_-->My ORCID</a> <i class="ai ai-orcid-square ai-fw"></i> QR code</p>
 
 
 I am currently based at:
-<p align="center"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Via Marzolo 8, Padua 35131, Italy</p>
 <iframe src="/files/contact_map.html" height="500" width="100%" style="border:none;"></iframe>

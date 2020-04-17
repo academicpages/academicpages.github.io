@@ -27,7 +27,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 <font size="5">
 <table>
   <tr>
-    <td width="35%"><div align="right">Oct 1st 2017 - Sep 30th 2020<br>
+    <td width="35%"><div align="right">Oct 1st 2017 - Present day<br>
 	   <img src='/images/uniPD_logo.png' width="150"></div></td>
        <td width="65%">Ph.D in <i>Physics</i>, University of Padua<br>
 	 <b>Supervisor:</b> Amos Maritan<br>
@@ -96,6 +96,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
   {% endfor %}</ul>
 
 ## Service and memberships
+* Member of the [Association of PhD students and graduates in Italy](https://dottorato.it/){:target="_blank"}<!--_-->, 22th October 2019 - Present day
 * Vicepresident of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 20th October 2018 - 30th September 2019
 * Member of the [Complex Systems Society](https://www.cssociety.org){:target="_blank"}<!--_-->, 23rd September 2018 - present day
 * Secretary of the [Italian Association of Physics Students](https://www.ai-sf.it){:target="_blank"}<!--_-->, 1st October 2017 - 30th September 2019
