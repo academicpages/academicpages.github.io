@@ -16,7 +16,7 @@ Research Interests
 ======
 My research targets at developing computational methods to analyze and mine socially-generated contents. Currently, I focus on the following areas:
 * **Natural Language Processing and Text Mining**  
-Opinion mining and stance analysis, especially in low-resource settings (cross-domain, weak supervision and multi-task)
+Opinion mining and stance analysis, especially in low-resource (cross-domain, weak supervision) and multi-task settings.
 * **Social Media Analytics and Social Computing**  
 Rumor verification and fact checking    
 <br/>
