@@ -3,6 +3,6 @@
   title         = {High Frame Rate Video Reconstruction based on an Event Camera},
   year          = {2019},
   booktitle     = {ar{X}iv e-prints},
-  url           = {http://arxiv.org/abs/1903.06531},
+  url           = {https://arxiv.org/abs/1903.06531},
   arxivid       = {1903.06531}
 }

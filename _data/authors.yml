@@ -2,7 +2,7 @@
 
 Name Name:
   name        : "Name Name"
-  uri         : "http://name.com"
+  uri         : "https://name.com"
   email       : "name@name.com"
   bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"

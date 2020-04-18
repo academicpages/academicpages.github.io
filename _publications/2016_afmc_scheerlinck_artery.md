@@ -12,8 +12,8 @@ header:
    teaser: thumbnail_artery.png
 ---
 
-<a href="http://cedric-scheerlinck.github.io/files/2016_afmc_scheerlinck_artery.pdf" target="_blank"><b>PDF</b></a>&emsp;
-<a href="http://cedric-scheerlinck.github.io/files/2016_afmc_artery_bibtex.txt" target="_blank"><b>BibTex</b></a>
+<a href="https://cedric-scheerlinck.github.io/files/2016_afmc_scheerlinck_artery.pdf" target="_blank"><b>PDF</b></a>&emsp;
+<a href="https://cedric-scheerlinck.github.io/files/2016_afmc_artery_bibtex.txt" target="_blank"><b>BibTex</b></a>
 
 ![banner](/images/thumbnail_artery.png){:class="img-responsive"}
 

@@ -15,7 +15,7 @@ header:
 
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/R9BiRN7f7uY" target="_blank"><b>Video</b></a>&emsp;
-<a href="http://rpg.ifi.uzh.ch/CED.html" target="_blank"><b>Dataset (ros)</b></a>&emsp;
+<a href="https://rpg.ifi.uzh.ch/CED.html" target="_blank"><b>Dataset (ros)</b></a>&emsp;
 <a href="https://anu365-my.sharepoint.com/:f:/g/personal/u6287914_anu_edu_au/Eu_MENukuFdOgOoNG17ZfNMBAmKxajUJ3p703gYh3Pmq2g?e=atyP1I" target="_blank"><b>Dataset (txt/png)</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.txt" target="_blank"><b>BibTex</b></a>
 
@@ -32,7 +32,7 @@ CED features a wide variety of indoor and outdoor scenes, which we hope will hel
 We also present an extension of the event camera simulator ESIM that enables simulation of color events.
 Finally, we present an evaluation of three state-of-the-art image reconstruction methods that can be used to convert the Color-DAVIS346 into a continuous-time, HDR, color video camera to visualise the event stream, and for use in downstream vision applications.
 
-CVF <a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.html" target="_blank">Open Access</a>
+CVF <a href="https://openaccess.thecvf.com/content_CVPRW_2019/html/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.html" target="_blank">Open Access</a>
 
 <b>Reference:</b>
 * C. Scheerlinck\*, H. Rebecq\*, T. Stoffregen, N. Barnes, R. Mahony, D. Scaramuzza, "CED: Color Event Camera Dataset", Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.

@@ -215,7 +215,7 @@
 						// - Total increases, so chunkProgress ratio jumps backward.
 						// - Groups are not included in this group, only their non-group child layers (hasLayer).
 						// Changing array length while looping does not affect performance in current browsers:
-						// http://jsperf.com/for-loop-changing-length/6
+						// https://jsperf.com/for-loop-changing-length/6
 						if (m instanceof L.LayerGroup) {
 							if (originalArray) {
 								layersArray = layersArray.slice();
@@ -1878,7 +1878,7 @@
 
 	/* Copyright (c) 2012 the authors listed at the following URL, and/or
 	the authors of referenced articles or incorporated external code:
-	http://en.literateprograms.org/Quickhull_(Javascript)?action=history&offset=20120410175256
+	https://en.literateprograms.org/Quickhull_(Javascript)?action=history&offset=20120410175256
 
 	Permission is hereby granted, free of charge, to any person obtaining
 	a copy of this software and associated documentation files (the
@@ -1899,7 +1899,7 @@
 	TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 	SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-	Retrieved from: http://en.literateprograms.org/Quickhull_(Javascript)?oldid=18434
+	Retrieved from: https://en.literateprograms.org/Quickhull_(Javascript)?oldid=18434
 	*/
 
 	(function () {
@@ -2438,7 +2438,7 @@
 			if (!L.Browser.touch) {
 				this._map.getRenderer(this);
 				//Needs to happen in the pageload, not after, or animations don't work in webkit
-				//  http://stackoverflow.com/questions/8455200/svg-animate-with-dynamically-added-elements
+				//  https://stackoverflow.com/questions/8455200/svg-animate-with-dynamically-added-elements
 				//Disable on touch browsers as the animation messes up on a touch zoom and isn't very noticable
 			}
 		},
@@ -2565,7 +2565,7 @@
 				// Dumb process that flags multiple times upper parents, but still
 				// much more efficient than trying to be smart and make short lists,
 				// at least in the case of a hierarchy following a power law:
-				// http://jsperf.com/flag-nodes-in-power-hierarchy/2
+				// https://jsperf.com/flag-nodes-in-power-hierarchy/2
 				parent = layers[id].__parent;
 				while (parent) {
 					parent._iconNeedsUpdate = true;
