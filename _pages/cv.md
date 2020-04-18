@@ -15,6 +15,11 @@ Education
 * M.Div. Duke Divinity School, 2004
 * MLIS University of North Carolina, Greensboro, 2022 (expected)
 
+Professional Development
+======
+* Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
+* Five-Day Classroom Training, TEACCH Autism Program, University of North Carolina, Chapel Hill, NC, 2016
+
 Work experience
 ======
 * 2019-2020: Pastor
@@ -29,12 +34,13 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MS Office
+* Web Development
+  * CSS
+  * HTML 5
+  * Jekyll
+  * WordPress
+* Public Speaking
 
 Publications
 ======
@@ -56,4 +62,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently member of information technology society
+* President, Good Samaritan Ministries, Inc.
