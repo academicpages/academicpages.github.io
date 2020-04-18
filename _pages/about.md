@@ -15,7 +15,7 @@ I received the Ph.D. degree in mechanical engineering, specializing in robotics 
 
 **Recent News:**
 
-[Apr. 04, 2020](http://jiewang.name/posts/2020/04/gpr/): An introductory tutorial of [Gaussian Process Regression](https://colab.research.google.com/github/jwangjie/Gaussian-Process-be-comfortable-using-it/blob/master/gpr_tutorial.ipynb) posted. 
+[Apr. 04, 2020](http://jiewang.name/posts/2020/04/gpr/): An introductory tutorial of [Gaussian Process Regression](https://github.com/jwangjie/Gaussian-Process-be-comfortable-using-it) posted. 
 
 [Feb. 03, 2020](https://offroad.engineering.queensu.ca/people/jie-wang/): I joined Offroad Robotics.  
 
