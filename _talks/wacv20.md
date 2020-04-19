@@ -8,7 +8,7 @@ date: 2020-03-02
 youtubeId: WyZxsNTVouA
 location: "Snowmass Village, Colorado"
 header:
-   teaser: how_to_see_teaser.png
+   teaser: firenet_thumbnail.png
 ---
 
 <a href="https://youtu.be/WyZxsNTVouA" target="_blank"><b>Video</b></a>&emsp;
