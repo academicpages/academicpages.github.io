@@ -49,7 +49,7 @@
 {% elsif post.collection == 'talks' %}
 {% unless post.blank %}
   <p class="publications_p">{{ post.date | default: "1900-01-01" | date: "%d %B, %Y" }}</p>
-  <p class="publications_p"><i>{{post.type}}, {{ post.venue }},  {{post.location}}</i></p>
+  <p class="publications_p"><i>{{ post.venue }},  {{post.location}}</i></p>
 {% endunless %}
 {% elsif post.date %}
   {% unless post.blank %}
