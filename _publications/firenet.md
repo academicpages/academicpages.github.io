@@ -34,16 +34,16 @@ State-of-the-art video reconstruction has recently been achieved using neural ne
 We propose a novel neural network architecture for video reconstruction from events that is smaller (<b>38k</b> vs. 10M parameters) and faster (<b>10ms</b> vs. 30ms) than state-of-the-art with minimal impact to performance.
 
 FireNet can be run using this
-<a href="https://github.com/cedric-scheerlinck/rpg_e2vid/tree/cedric/firenet" target="_blank"><b>code</b></a>
+<a href="https://github.com/cedric-scheerlinck/rpg_e2vid/tree/cedric/firenet" target="_blank">code</a>
 and
-<a href="https://drive.google.com/file/d/1nBCeIF_Us-rGhCjdU5q1Ch-yrFckjZPa/view?usp=sharing" target="_blank"><b>model</b></a>.
+<a href="https://drive.google.com/file/d/1nBCeIF_Us-rGhCjdU5q1Ch-yrFckjZPa/view?usp=sharing" target="_blank">model</a>.
 
 Datasets:
-* <a href="http://rpg.ifi.uzh.ch/davis_data.html" target="_blank"><b>Event Camera Dataset</b></a>
-* <a href="http://rpg.ifi.uzh.ch/E2VID.html" target="_blank"><b>High Speed and HDR</b></a>
-* <a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc" target="_blank"><b>DVS Image Reconstruction Dataset</b></a>
+* <a href="http://rpg.ifi.uzh.ch/davis_data.html" target="_blank">Event Camera Dataset</a>
+* <a href="http://rpg.ifi.uzh.ch/E2VID.html" target="_blank">High Speed and HDR</a>
+* <a href="https://drive.google.com/drive/folders/1Jv73p1-Hi56HXyal4SHQbzs2zywISOvc" target="_blank">DVS Image Reconstruction Dataset</a>
 
-CVF <a href="http://openaccess.thecvf.com/content_WACV_2020/html/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.html" target="_blank">Open Access</a> page with PDF.
+Computer Vision Foundation <a href="http://openaccess.thecvf.com/content_WACV_2020/html/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.html" target="_blank">Open Access page</a> (incl. PDF).
 
 <b>Reference:</b>
 * C. Scheerlinck, H. Rebecq, D. Gehrig, N. Barnes, R. Mahony, D. Scaramuzza, "Fast Image Reconstruction with an Event Camera", Winter Conference on Applications of Computer Vision (WACV), 2020, pp. 156-163.

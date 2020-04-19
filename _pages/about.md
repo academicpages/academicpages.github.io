@@ -32,5 +32,3 @@ When I'm not doing research I enjoy playing <a href="https://youtu.be/Sjxkk8VJBd
 
 ![Underwater_rugby_photo](/images/uwr3_labelled.png){:class="img-responsive"}
 <small><i>Photo: Philipp Schmidli (Lucerne, 3 November 2018).</i></small>
-
-"How To See With An Event Camera" talk <a href="https://docs.google.com/presentation/d/18ZKiLXSx8F8pb_8PjALfAECDDfbQ3ux3w_q5mevAwx0/edit?usp=sharing" target="_blank">slides</a>.
