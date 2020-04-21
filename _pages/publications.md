@@ -9,7 +9,7 @@ author_profile: true
 
 7. **P. Cheng**, Y. Li, X. Zhang, L. Chen, D. Carlson, L. Carin, [Dynamic Embedding on Textual Networks via a Gaussian Process](http://people.ee.duke.edu/~lcarin/DetGP_AAAI_final.pdf), American Association of Artificial Intelligence (AAAI), 2020 <span style="color: red;">Oral</span>
 
-6. **P. Cheng**, D. Shen,  D. Sundararaman, X. Zhang, Q. Yang, M. Tang, A. Celikyilmaz, and L. Carin, [Learning Compressed Sentence Representations for On-Device Text Processing](http://www.ece.duke.edu/~lcarin/Compressed_ACL2019.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2019 <span style="color: red;">Oral</span>
+6. **P. Cheng** *, D. Shen *,  D. Sundararaman, X. Zhang, Q. Yang, M. Tang, A. Celikyilmaz, and L. Carin, [Learning Compressed Sentence Representations for On-Device Text Processing](http://www.ece.duke.edu/~lcarin/Compressed_ACL2019.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2019 <span style="color: red;">Oral</span>
 
 5. **P. Cheng**, Y. Li, X. Zhang, L. Chen, D. Carlson, L. Carin, [Gaussian-Process-Based Dynamic Embedding for Textual Networks](https://grlearning.github.io/papers/98.pdf), Neural Information Processing Systems (NeurIPS) Workshop, 2019
 
