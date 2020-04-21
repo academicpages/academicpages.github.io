@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to Pengyu Cheng's homepage!
+Welcome to Pengyu Cheng's homepage!
 
 I am a third-year Ph.D. student in the Department of Electric and Computer Engineering at Duke University.  My research interests focus on Bayesian deep learning,  geometric deep learning, interpretable machine learning and their applications in natural language processing, speech processing, and multi-modality.
 
