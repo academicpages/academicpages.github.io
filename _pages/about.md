@@ -33,16 +33,18 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 # Publications
 
 ## Refreed Journals and Proceedings
-1. A. Tanaka, A. Sannai, K. Kobayashi and N. Hamada: Asymptotic Risk of B'ezier Simplex Fitting, Proceedings of the 34th AAAI Conference on Artificial Intelligence (in press).<br>
+1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi and Hiroki Arimura: DACE: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization, Proceedings of the 29th International Joint Conference on Artificial Intelligence (in press).<br>
+ **Acceptance rate: 592/4717 = 12.6%**.
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of B'ezier Simplex Fitting, Proceedings of the 34th AAAI Conference on Artificial Intelligence (in press).<br>
  **Acceptance rate: 1591/7737 = 20.6%**
-1. K. Kobayashi and Y. Takano: A Branch-and-Cut Algorithm for Solving Mixed-integer Semidefinite Optimization Problems, Computational Optimization and Applications (in press).
-1. L. Sun, X. Yu, L. Wang, J. Sun, H. Inakoshi, K. Kobayashi and H. Kobashi: Automatic Neural Network Search Method for Open Set Recognition, The 26th IEEE International Conference on Image Processing, 26, (2019),  4090-4094.
+1. Ken Kobayashi and Yuichi Takano: A Branch-and-Cut Algorithm for Solving Mixed-integer Semidefinite Optimization Problems, Computational Optimization and Applications, 5 (2020), 493–513.
+1. Li Sun, Xiaoyi Yu, Liuan Wang, Jun Sun, Hiroya Inakoshi, Ken Kobayashi and Hiromichi Kobashi: Automatic Neural Network Search Method for Open Set Recognition, The 26th IEEE International Conference on Image Processing, 26, (2019),  4090-4094.
 1. 西村直樹, 小林健, 吉住宗朔: 制約つき比例ハザードモデルを用いたヘアサロンの再来店状況分析, オペレーションズ・リサーチ, 64 (2018), 65--72.
-1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama: B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization, Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 33 (2019), 2304--2313.<br>
+1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai, and Masashi Sugiyama: B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization, Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 33 (2019), 2304--2313.<br>
  **Acceptance rate: 1150/7095 = 16.2%**
-1. R. Tamura, K. Kobayashi, Y. Takano, R. Miyashiro, K. Nakata, and T. Matsui: Mixed integer quadratic optimization formulations for eliminating multicollinearity based on variance inflation factor, Journal of Global Optimization, 73 (2019), 431-–446.
-1. R. Tamura, K. Kobayashi, Y. Takano, R. Miyashiro, K. Nakata, and T. Matsui: Best subset selection for eliminating multicollinearity, Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
-1. T. Konno and K. Kobayashi: Short-term production planning for component plants using stochastic programming, Proceedings of the International Symposium on Scheduling 2017 (2017) 147--151.
+1. Ryuta Tamura, Ken Kobayashi, Yuichi Takano, Ryuhei Miyashiro, Kazuhide Nakata, and Tomomi Matsui: Mixed integer quadratic optimization formulations for eliminating multicollinearity based on variance inflation factor, Journal of Global Optimization, 73 (2019), 431-–446.
+1. Ryuta Tamura, Ken Kobayashi, Yuichi Takano, Ryuhei Miyashiro, Kazuhide Nakata, and Tomomi Matsui: Best subset selection for eliminating multicollinearity, Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
+1. Takeshi Konno and Ken Kobayashi: Short-term production planning for component plants using stochastic programming, Proceedings of the International Symposium on Scheduling 2017 (2017) 147--151.
 1. 高野祐一, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健, 田中研太郎, 中田和秀: ファジィクラスタワイズ回帰を用いた共同購入型クーポンサイトの閲覧傾向分析, オペレーションズ・リサーチ 59 (2014) 81--87.
 
 ## Non-Refreed  Journals and Articles
@@ -58,9 +60,10 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 # Presentations
 
 ## International Conferences
-1. K. Kobayashi and Y. Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  The 2019 INFORMS Annual Meeting, Washington Convention Center, October, 2019.
-1. K. Kobayashi and Y. Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  International Conference on Nonlinear Analysis and Convex Analysis--International Conference on Optimization: Techniques and Applications (NACA-ICOTA2019), Future University Hakodate, August, 2019.
-1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:     B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of B'ezier Simplex Fitting, The 34th AAAI Conference on Artificial Intelligence, New York Hilton Midtown, Feburuary, 2020.
+1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  The 2019 INFORMS Annual Meeting, Washington Convention Center, October, 2019.
+1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  International Conference on Nonlinear Analysis and Convex Analysis--International Conference on Optimization: Techniques and Applications (NACA-ICOTA2019), Future University Hakodate, August, 2019.
+1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai, and Masashi Sugiyama:     B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
 
 ## Domestic Conferences
 1. 白鳥友風, 小林健, 高野祐一: 構造的正則化手法を用いた階層的時系列の予測 第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
