@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Efficient Intent Detection with Dual Sentence Encoders
+Iñigo Casanueva, Tadas Temčinas, Daniela Gerz, Matthew Henderson, Ivan Vulić
+[arXiv](https://arxiv.org/abs/2003.04807)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Local Homology of Word Embeddings
+Tadas Temčinas
+[arXiv](https://arxiv.org/abs/1810.10136)
