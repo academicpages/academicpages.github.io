@@ -60,10 +60,10 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 # Presentations
 
 ## International Conferences
-1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of B'ezier Simplex Fitting, The 34th AAAI Conference on Artificial Intelligence, New York Hilton Midtown, Feburuary, 2020.
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of B'ezier Simplex Fitting, The 34th AAAI Conference on Artificial Intelligence (AAAI-20), New York Hilton Midtown, Feburuary, 2020.
 1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  The 2019 INFORMS Annual Meeting, Washington Convention Center, October, 2019.
 1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  International Conference on Nonlinear Analysis and Convex Analysis--International Conference on Optimization: Techniques and Applications (NACA-ICOTA2019), Future University Hakodate, August, 2019.
-1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai, and Masashi Sugiyama:     B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
+1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai, and Masashi Sugiyama:     B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI-19), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
 
 ## Domestic Conferences
 1. 小林健, 高野祐一:  混合整数半正定値最適化問題に対する分枝切除法と機械学習への応用,  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
