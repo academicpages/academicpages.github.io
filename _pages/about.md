@@ -27,7 +27,7 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 ---
 # Work Experience
 - Jun 2017--present: Visiting scientist, RIKEN Center for Advanced Intelligence Project
-- Apr 2015--present: Researcher, Artificial  Intelligence Laboratory, Fujitsu Laboratories LTD.
+- Apr 2015--present: Researcher, Artificial  Intelligence Laboratory, Fujitsu Laboratories Ltd.
 
 ---
 # Publications
@@ -104,4 +104,4 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 - [Nakata Laboratory](http://www.me.titech.ac.jp/~nakatalab/index.html)
 - [Department of Industrial Engineering and Economics](https://educ.titech.ac.jp/iee/eng/)
 - [Tokyo Institute of Technology](https://www.titech.ac.jp/english/)
-- [Fujitsu Laboratories LTD.](https://www.fujitsu.com/jp/group/labs/en/)
+- [Fujitsu Laboratories Ltd.](https://www.fujitsu.com/jp/group/labs/en/)
