@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Tadas Temčinas"
 title_separator          : "-"
 name                     : &name "Tadas Temčinas"
-description              : &description "PhD Student at The University of Oxford"
+description              : &description "PhD Student at the University of Oxford"
 url                      : https://temcinas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "temcinas/temcinas.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tadas Temčinas"
   avatar           : "profile.png"
-  bio              : "PhD Student at The University of Oxford"
+  bio              : "PhD Student at the University of Oxford"
   location         : "Oxford, UK"
   employer         :
   pubmed           : 
