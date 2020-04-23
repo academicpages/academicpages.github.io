@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the Computer Science department at Purdue University working in [SIMBA](https://simbalab.cs.purdue.edu/) lab under the supervision of Professor [He Wang](https://www.cs.purdue.edu/homes/hw/). Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science).
+I am a Ph.D. candidate of the Computer Science department at Purdue University working in [SIMBA](https://simbalab.cs.purdue.edu/) lab under the supervision of Professor [He Wang](https://www.cs.purdue.edu/homes/hw/). Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science).
 My research interests broadly lie in the area of mobile computing and mobile sensing.
 
 
