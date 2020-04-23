@@ -1,3 +1,14 @@
+---
+title: 'Tutorial-Simple-Linear-Regression-Model'
+date: 2020-04-23
+permalink: /posts/2020/04/blog-post-1/
+
+tags:
+  - notes
+  - linear-regression
+  - statistics
+---
+
 Simple liner regression model Yi - a + bXi + ei X: the independent
 variable. We assume X is fixed Y: the dependenat variable, random e:
 error term. We assume that ei are the independent and have the same
