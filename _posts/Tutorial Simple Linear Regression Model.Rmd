@@ -2,7 +2,9 @@
 title: "Simple Linear Regression Model"
 author: "Limeng(Momo) Xie"
 date: "4/23/2020"
-output: html_document
+output:
+ md_document:
+    variant: markdown_github
 ---
 
 Simple liner regression model 
@@ -13,7 +15,7 @@ e: error term. We assume that ei are the independent and have the same probabili
 
 The probablity distribution of Yi is Normal(a+bXi, sigma^2)
 
-```{r}
+```{r, echo=TRUE}
 # require ggplot
 require(ggplot2)
 # read the file 
