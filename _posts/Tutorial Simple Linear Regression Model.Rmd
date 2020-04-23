@@ -1,0 +1,41 @@
+---
+title: "Simple Linear Regression Model"
+author: "Limeng(Momo) Xie"
+date: "4/23/2020"
+output: html_document
+---
+
+Simple liner regression model 
+Yi - a + bXi + ei 
+X: the independent variable. We assume X is fixed 
+Y: the dependenat variable, random 
+e: error term. We assume that ei are the independent and have the same probability distribution normal (0, sigma^2)
+
+The probablity distribution of Yi is Normal(a+bXi, sigma^2)
+
+```{r}
+# require ggplot
+require(ggplot2)
+# read the file 
+data <- read.delim("~/Desktop/BINF8441_Course/poverty.txt")
+head(data)
+summary(data)
+# y = year 2002 birth rate per 1000 females 15 to 17 years old and x = poverty rate, which is the percent of the state’s population living in households with incomes below the federally defined poverty level
+
+# (1) scatter plot 
+ggplot(data=data,aes(x=PovPct, y=Brth15to17))+
+    geom_point()+
+    theme_classic()+
+    labs(title="Birth rate per 1000 females (15 to 17 years old) by poverty rate", x="Poverty Rate", y="Birth rate per 1000 females")
+```
+
+**we can see there is a positive relationship between poverty rate and Birth rate per 1000 females (15 to 17 years old)** 
+
+b) we can test there is a liner relationship of Y and X  using lm function 
+```{r}
+x = data$PovPct
+y = data$Brth15to17
+result = lm(y~x)
+summary(result)
+```
+**the result shows that the coeffient b(slope) is 1.3733 >0 with a significant level less than 0.05, which indicates that Y and X is positively correlated**
