@@ -18,6 +18,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - "Defining Benchmarks for Continual Few-Shot Learning", A. Antoniou, M. Patacchiola, M. Ochal, A. Storkey, arXiv e-prints, 2020
   * [Paper](/documents/Benchmarks_for_Continual_Few_Shot_Learning.pdf) 
   * [Spec](/documents/specification_for_continual_few_shot_learning.pdf) 
+  * [Task Provider Repo](https://github.com/AntreasAntoniou/FewShotContinualLearningDataProvider) 
+  * [Experiments Repo](https://github.com/AntreasAntoniou/FewShotContinualLearning) 
 
 - "Meta-Learning in Neural Networks: A Survey", T. Hospedales, A. Antoniou, P. Micaelli and A. Storkey, arXiv e-prints (arXiv:2004.05439), 2020
   * [Paper](https://arxiv.org/abs/2004.05439)
