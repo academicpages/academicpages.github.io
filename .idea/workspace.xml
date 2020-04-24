@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06245c35-999d-4c68-9917-e49e265e8f37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +16,6 @@
   <component name="ProjectId" id="1R2eSzvwCdRrnCupi70Q1mNuvR1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -32,18 +32,6 @@
       <recent name="$PROJECT_DIR$/documents" />
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,13 +51,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1097" y="484" key="FileChooserDialogImpl" timestamp="1585214345414">
