@@ -3,8 +3,8 @@ title: "Simple Linear Regression Model"
 author: "Limeng(Momo) Xie"
 date: "4/23/2020"
 output:
- md_document:
-    variant: markdown_github
+  html_document:
+    keep_md: true
 ---
 
 Simple liner regression model 
@@ -14,8 +14,10 @@ Y: the dependenat variable, random
 e: error term. We assume that ei are the independent and have the same probability distribution normal (0, sigma^2)
 
 The probablity distribution of Yi is Normal(a+bXi, sigma^2)
-
-```{r, echo=TRUE}
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  fig.path = "README_figs/README-"
+)
 # require ggplot
 require(ggplot2)
 # read the file 
