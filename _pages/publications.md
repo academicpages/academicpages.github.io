@@ -16,15 +16,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 1. Oudre, L., Barrois-Müller, R., Moreau, T., **Truong, C.**, Vienne-Jumeau, A., Ricard, D., Vayatis, N., & Vidal, P.-P. (2018). Template-based step detection with inertial measurement units. Sensors, 18(11). [[abstract]](https://deepcharles.github.io/publication/sensors-gait-2018) [[doi]](https://doi.org/10.3390/s18114033) [[pdf]](https://deepcharles.github.io/files/Oudre-et-al.-2018-Template-based-step-detection-with-inertial-measurement-units.pdf)
 
-1. Barrois-Müller, R., Gregory, T., Oudre, L., Moreau, T., **Truong, C.**, Aram Pulini, A., Vienne, A., Labourdette, C., Vayatis, N., Buffat, S., Yelnik, A., de Waele, C., Laporte, S., Vidal, P.-P., & Ricard, D. (2016). An automated recording method in clinical consultation to rate the limp in lower limb osteoarthritis. PLoS One, 11(10), e0164975.
+1. Barrois-Müller, R., Gregory, T., Oudre, L., Moreau, T., **Truong, C.**, Aram Pulini, A., Vienne, A., Labourdette, C., Vayatis, N., Buffat, S., Yelnik, A., de Waele, C., Laporte, S., Vidal, P.-P., & Ricard, D. (2016). An automated recording method in clinical consultation to rate the limp in lower limb osteoarthritis. PLoS One, 11(10), e0164975. [[doi]](https://doi.org/10.1371/journal.pone.0164975) [[pdf]](https://deepcharles.github.io/files/PlosOne2016.PDF)
 
 # International conference papers
 
-1. **Truong, C.**, Oudre, L., & Vayatis, N. (2019). Supervised kernel change point detection with partial annotations. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 1–5. [[pdf]](https://deepcharles.github.io/files/TOV-ICASSP-19.pdf)
+1. **Truong, C.**, Oudre, L., & Vayatis, N. (2019). Supervised kernel change point detection with partial annotations. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 1–5. [[doi]](https://doi.org/10.1109/ICASSP.2019.8683471) [[pdf]](https://deepcharles.github.io/files/TOV-ICASSP-19.pdf) 
 
-1. **Truong, C.**, Oudre, L., & Vayatis, N. (2017). Penalty learning for changepoint detection. Proceedings of the European Signal Processing Conference (EUSIPCO), 1569–1573. [[pdf]](https://deepcharles.github.io/files/TOV-EUSIPCO-17.pdf)
+1. **Truong, C.**, Oudre, L., & Vayatis, N. (2017). Penalty learning for changepoint detection. Proceedings of the European Signal Processing Conference (EUSIPCO), 1569–1573. [[doi]](https://doi.org/10.23919/EUSIPCO.2017.8081473) [[pdf]](https://deepcharles.github.io/files/TOV-EUSIPCO-17.pdf)
 
-1. Barrois-Müller, R., Oudre, L., Moreau, T., **Truong, C.**, Vayatis, N., Buffat, S., Yelnik, A., de Waele, C., Gregory, T., Laporte, S., Vidal, P. P., & Ricard, D. (2015). Quantify osteoarthritis gait at the doctor's office: a simple pelvis accelerometer based method independent from footwear and aging. Computer Methods in Biomechanics and Biomedical Engineering, 18 Suppl 1, 1880–1881. [[pdf]](https://deepcharles.github.io/files/Compu2015.pdf)
+1. Barrois-Müller, R., Oudre, L., Moreau, T., **Truong, C.**, Vayatis, N., Buffat, S., Yelnik, A., de Waele, C., Gregory, T., Laporte, S., Vidal, P. P., & Ricard, D. (2015). Quantify osteoarthritis gait at the doctor's office: a simple pelvis accelerometer based method independent from footwear and aging. Computer Methods in Biomechanics and Biomedical Engineering, 18 Suppl 1, 1880–1881. [[doi]](https://doi.org/10.1080/10255842.2015.1072414) [[pdf]](https://deepcharles.github.io/files/Compu2015.pdf)
 
 # National conference papers
 
