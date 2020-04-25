@@ -23,6 +23,7 @@ This data set contains 1020 multivariate gait signals collected with two inertia
 In particular, **the start and end timestamps of more than 40,000 footsteps are provided**, as well as a number of contextual information about each trial.
 This exact data set was used in [Oudre et al., Template-based step detection with inertial measurement units, Sensors 18, 2018](https://deepcharles.github.io/publication/sensors-gait-2018) to design and evaluate a step detection procedure.
 
-- This data set is thoroughly described in the following article:
-    - Truong, C., Barrois-Müller, R., Moreau, T., Provost, C., Vienne-Jumeau, A., Moreau, A., Vidal, P.-P., Vayatis, N., Buffat, S., Yelnik, A., Ricard, D., & Oudre, L. (2019). A data set for the study of human locomotion with inertial measurements units. Image Processing On Line (IPOL), 9. [[abstract]](https://deepcharles.github.io/publication/ipol-data-2019) [[doi]](https://doi.org/10.5201/ipol.2019.265) [[pdf]](http://deepcharles.github.io/files/ipol-walk-data-2019.pdf) [[online demo]](http://ipolcore.ipol.im/demo/clientApp/demo.html?id=265)
-- To download the data set, you can either go to the [journal website](https://doi.org/10.5201/ipol.2019.265) or to the [associated Github repository](https://github.com/deepcharles/gait-data).
+This data set is thoroughly described in the following article:
+- Truong, C., Barrois-Müller, R., Moreau, T., Provost, C., Vienne-Jumeau, A., Moreau, A., Vidal, P.-P., Vayatis, N., Buffat, S., Yelnik, A., Ricard, D., & Oudre, L. (2019). A data set for the study of human locomotion with inertial measurements units. Image Processing On Line (IPOL), 9. [[abstract]](https://deepcharles.github.io/publication/ipol-data-2019) [[doi]](https://doi.org/10.5201/ipol.2019.265) [[pdf]](http://deepcharles.github.io/files/ipol-walk-data-2019.pdf) [[online demo]](http://ipolcore.ipol.im/demo/clientApp/demo.html?id=265)
+
+To download the data set, you can either go to the [journal website](https://doi.org/10.5201/ipol.2019.265) or to the [associated Github repository](https://github.com/deepcharles/gait-data).
