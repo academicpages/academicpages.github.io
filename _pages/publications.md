@@ -16,7 +16,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 1. Oudre, L., Barrois-Müller, R., Moreau, T., **Truong, C.**, Vienne-Jumeau, A., Ricard, D., Vayatis, N., & Vidal, P.-P. (2018). Template-based step detection with inertial measurement units. Sensors, 18(11). [[abstract]](https://deepcharles.github.io/publication/sensors-gait-2018) [[doi]](https://doi.org/10.3390/s18114033) [[pdf]](https://deepcharles.github.io/files/Oudre-et-al.-2018-Template-based-step-detection-with-inertial-measurement-units.pdf)
 
-1. Barrois-Müller, R., Gregory, T., Oudre, L., Moreau, T., **Truong, C.**, Aram Pulini, A., Vienne, A., Labourdette, C., Vayatis, N., Buffat, S., Yelnik, A., de Waele, C., Laporte, S., Vidal, P.-P., & Ricard, D. (2016). An automated recording method in clinical consultation to rate the limp in lower limb osteoarthritis. PLoS One, 11(10), e0164975. [[doi]](https://doi.org/10.1371/journal.pone.0164975) [[pdf]](https://deepcharles.github.io/files/PlosOne2016.PDF)
+1. Barrois-Müller, R., Gregory, T., Oudre, L., Moreau, T., **Truong, C.**, Aram Pulini, A., Vienne, A., Labourdette, C., Vayatis, N., Buffat, S., Yelnik, A., de Waele, C., Laporte, S., Vidal, P.-P., & Ricard, D. (2016). An automated recording method in clinical consultation to rate the limp in lower limb osteoarthritis. PLoS One, 11(10), e0164975. [[abstract]](https://deepcharles.github.io/publication/plos-gait-2016) [[doi]](https://doi.org/10.1371/journal.pone.0164975) [[pdf]](https://deepcharles.github.io/files/PlosOne2016.PDF)
 
 # International conference papers
 
