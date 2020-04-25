@@ -4,8 +4,6 @@ title: "Software and data"
 permalink: /software/
 author_profile: true
 ---
-
-
 ## Software
 
 I maintain a change point detection library in Python called `ruptures` [[homepage]](https://github.com/deepcharles/ruptures) [[documentation]](http://ctruong.perso.math.cnrs.fr/ruptures-docs/build/html/index.html). This package provides methods for the analysis and segmentation of non-stationary signals. Implemented algorithms include exact and approximate detection for various parametric and non-parametric models. `ruptures` focuses on ease of use by providing a well-documented and consistent interface. In addition, thanks to its modular structure, different algorithms and models can be connected and extended within this package.
@@ -18,7 +16,7 @@ If you use this software, please cite the following article:
 
 ## Data
 
-#### Study of human locomotion
+### Study of human locomotion
 This data set contains 1020 multivariate gait signals collected with two inertial measurement units (accelerometers and gyroscopes), from 230 subjects undergoing a fixed protocol: standing still, walking 10 m, turning around, walking back and stopping.
 In particular, **the start and end timestamps of more than 40,000 footsteps are provided**, as well as a number of contextual information about each trial.
 This exact data set was used in [Oudre et al., Template-based step detection with inertial measurement units, Sensors 18, 2018](https://deepcharles.github.io/publication/sensors-gait-2018) to design and evaluate a step detection procedure.
