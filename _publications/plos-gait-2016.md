@@ -2,7 +2,7 @@
 title: "An automated recording method in clinical consultation to rate the limp in lower limb osteoarthritis"
 collection: publications
 permalink: /publication/plos-gait-2016
-excerpt: 'This article presents a method for step detection from accelerometer and gyrometer signals recorded with Inertial Measurement Units (IMUs). The principle of our step detection algorithm is to recognize the start and end times of the steps in the signal thanks to a predefined library of templates.'
+excerpt: 'For diagnosis and follow up, it is important to be able to quantify limp in an objective, and precise way adapted to daily clinical consultation. The purpose of this exploratory study was to determine if an inertial sensor-based method could provide simple features that correlate with the severity of lower limb osteoarthritis evaluated by the WOMAC index without the use of step detection in the signal processing.'
 date: 2016-01-01
 venue: 'PLoS One'
 paperurl: # 'http://academicpages.github.io/files/paper2.pdf'
