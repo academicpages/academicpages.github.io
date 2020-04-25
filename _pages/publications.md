@@ -24,7 +24,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 1. **Truong, C.**, Oudre, L., & Vayatis, N. (2017). Penalty learning for changepoint detection. Proceedings of the European Signal Processing Conference (EUSIPCO), 1569–1573. [[doi]](https://doi.org/10.23919/EUSIPCO.2017.8081473) [[pdf]](https://deepcharles.github.io/files/TOV-EUSIPCO-17.pdf)
 
-1. Barrois-Müller, R., Oudre, L., Moreau, T., **Truong, C.**, Vayatis, N., Buffat, S., Yelnik, A., de Waele, C., Gregory, T., Laporte, S., Vidal, P. P., & Ricard, D. (2015). Quantify osteoarthritis gait at the doctor's office: a simple pelvis accelerometer based method independent from footwear and aging. Computer Methods in Biomechanics and Biomedical Engineering, 18 Suppl 1, 1880–1881. [[doi]](https://doi.org/10.1080/10255842.2015.1072414) [[doi]](https://doi.org/10.1080/10255842.2015.1072414) [[pdf]](https://deepcharles.github.io/files/Compu2015.pdf)
+1. Barrois-Müller, R., Oudre, L., Moreau, T., **Truong, C.**, Vayatis, N., Buffat, S., Yelnik, A., de Waele, C., Gregory, T., Laporte, S., Vidal, P. P., & Ricard, D. (2015). Quantify osteoarthritis gait at the doctor's office: a simple pelvis accelerometer based method independent from footwear and aging. Computer Methods in Biomechanics and Biomedical Engineering, 18 Suppl 1, 1880–1881. [[doi]](https://doi.org/10.1080/10255842.2015.1072414) [[pdf]](https://deepcharles.github.io/files/Compu2015.pdf)
 
 # National conference papers
 
