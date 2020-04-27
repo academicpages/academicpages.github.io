@@ -49,25 +49,24 @@ redirect_from:
   }
   .faculties .member_item .member_pic{
     width: 100%;
-    max-height: 300px;
-    <!-- height: 150px; -->
+    height: 280px;
   }
   #zhahongyuan{
     background: url(../images/people/zhahongyuan.png);
-    background-size: auto 100%;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
 
   #wangxiangfeng{
     background: url(../images/people/wangxiangfeng.png);
-    background-size: auto 100%;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
   #jinbo{
     background: url(../images/people/jinbo.png);
-    background-size: auto 100%;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -227,7 +226,7 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name"><a href="https://cww97.cn/">Weiwen CHEN 陈伟文</a></div>
-      <div class="member_intro" >介绍</div>
+      <div class="member_intro" >ACM-ICPC 2017 Silver, cv beginner</div>
     </div>
   </div>
   <div class="member_item" >
