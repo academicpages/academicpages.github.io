@@ -68,8 +68,9 @@ redirect_from:
     background-position: center;
   }
   .col {
-    width: 33%;
-    display: inline-block;
+    width: 33.3%;
+    font-size: 0;
+    <!-- display: inline-block; -->
   }
 
 
