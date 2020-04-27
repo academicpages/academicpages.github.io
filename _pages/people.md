@@ -24,7 +24,7 @@ redirect_from:
   }
   .faculties .member_item{
     display: inline-block;
-    min-width: 200px;
+    min-width: 300px;
     border-top: 0;
   }
   .faculties .member_item .member_pic_wrapper{
@@ -34,34 +34,42 @@ redirect_from:
   }
 
   .faculties .member_item .member_name{
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: bold;
     padding: 10px 0;
     text-align: center;
   }
   .faculties .member_item .member_pos{
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
   }
   .faculties .member_item .member_intro{
     text-align: center;
-    font-size: 12px;
+    font-size: 15px;
   }
   .faculties .member_item .member_pic{
     width: 100%;
-    height: 150px;
+    max-height: 300px;
+    <!-- height: 150px; -->
+  }
+  #zhahongyuan{
+    background: url(../images/people/zhahongyuan.png);
     background-size: auto 100%;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #zhahongyuan{
-    background: url(../images/people/zhahongyuan.png);
-  }
 
   #wangxiangfeng{
     background: url(../images/people/wangxiangfeng.png);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
   }
   #jinbo{
     background: url(../images/people/jinbo.png);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 
 
