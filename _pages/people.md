@@ -73,9 +73,9 @@ redirect_from:
 <h1>Faculties</h1>
 
 <div class="faculties contrainer">
+  <div class="caption">Faculties</div>
+  <div class="caption_line"></div>
   <div class="row">
-    <div class="caption">Faculties</div>
-    <div class="caption_line"></div>
     <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="zhahongyuan"></div>
