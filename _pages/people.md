@@ -7,19 +7,98 @@ redirect_from:
   - /people
 ---
 
-# Faculty
+<style type="text/css">
+  .faculties{
+    width: 100%;
+  }
+  .faculties .caption{
+    padding-top: 40px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .faculties .caption_line{
+    width: 300px;
+    height: 1px;
+    margin: 10px auto 40px auto;
+    background: #000;
+  }
+  .faculties .member_item{
+    display: inline-block;
+    min-width: 200px;
+    border-top: 0;
+  }
+  .faculties .member_item .member_pic_wrapper{
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+  }
 
-## 查宏远 ZHA Hongyuan
-### 教授 Professor
-### Research area: machine learning theory and applications
+  .faculties .member_item .member_name{
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: center;
+  }
+  .faculties .member_item .member_pos{
+    text-align: center;
+    font-size: 14px;
+  }
+  .faculties .member_item .member_intro{
+    text-align: center;
+    font-size: 12px;
+  }
+  .faculties .member_item .member_pic{
+    width: 100%;
+    height: 150px;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #zhahongyuan{
+    background: url(../images/people/zhahongyuan.png);
+  }
 
-## 王祥丰 WANG Xiangfeng
-### 副教授 Associate Professor
-### Research area: Distributed optimization, MARL
+  #wangxiangfeng{
+    background: url(../images/people/wangxiangfeng.png);
+  }
+  #jinbo{
+    background: url(../images/people/jinbo.png);
+  }
 
-## 金博 JIN Bo
-### 助理教授 Assistant Professor
-### Research area: MARL
+
+</style>
+
+<h1>Faculties</h1>
+
+<div class="faculties">
+  <div class="caption">Faculties</div>
+  <div class="caption_line"></div>
+  <div class="members">
+    <div class="member_item">
+      <div class="member_pic_wrapper">
+        <div class="member_pic" id="zhahongyuan"></div>
+        <div class="member_name">查宏远 ZHA Hongyuan</div>
+        <div class="member_pos">教授 Professor</div>
+        <div class="member_intro">machine learning theory and applications</div>
+      </div>
+    </div>
+    <div class="member_item">
+      <div class="member_pic_wrapper">
+        <div class="member_pic" id="wangxiangfeng"></div>
+        <div class="member_name">王祥丰 WANG Xiangfeng</div>
+        <div class="member_pos">副教授 Associate Professor</div>
+        <div class="member_intro">Distributed optimization, MARL</div>
+      </div>
+    </div>
+    <div class="member_item">
+      <div class="member_pic_wrapper">
+        <div class="member_pic" id="jinbo"></div>
+        <div class="member_name">金博 JIN Bo</div>
+        <div class="member_pos">助理教授 Assistant Professor</div>
+        <div class="member_intro">MARL</div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 ---
@@ -27,27 +106,27 @@ redirect_from:
 # Phd Students
 
 <style type="text/css">
-  .member_item{
+  .students .member_item{
     display: inline-block;
   }
-  .member_item .member_pic_wrapper{
+  .students .member_item .member_pic_wrapper{
     width: 100%;
     margin: 0 auto;
     padding: 10px;
   }
-  .member_item .member_pic_wrapper .member_name{
+  .students .member_item .member_pic_wrapper .member_name{
     font-size: 18px;
     padding: 10px 0;
     text-align: center;
     font-weight:bold;
   }
-  .member_item .member_pic_wrapper .member_intro{
+  .students .member_item .member_pic_wrapper .member_intro{
     text-align: center;
     font-size: 14px;
   }
 </style>
 
-<div>
+<div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">李文浩 LI Wenhao</a></div>
@@ -82,7 +161,7 @@ redirect_from:
 
 
 
-<div >
+<div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >Jinghui CAI 蔡璟辉</div>
@@ -210,7 +289,7 @@ redirect_from:
 
 # Undergraduate Students
 
-<div>
+<div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >Tianyang Liu 刘天扬</div>
@@ -253,7 +332,7 @@ redirect_from:
 ---
 
 # Alumi
-<div>
+<div class="students">
   <div class="member_item"  >
     <div class="member_pic_wrapper" >
       <div class="member_name">Wenjie ZHANG 张文杰</div>
