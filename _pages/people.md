@@ -37,6 +37,7 @@ redirect_from:
   }
   .faculties .member_item .member_pos{
     text-align: center;
+    padding: 10px 0;
     font-size: 18px;
   }
   .faculties .member_item .member_intro{
