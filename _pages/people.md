@@ -107,7 +107,7 @@ redirect_from:
       <div class="member_intro" >介绍</div>
     </div>
   </div>
-  <div class="member_item"
+  <div class="member_item">
     <div class="member_pic_wrapper" >
       <div class="member_name" >Yiqiu HU 胡亦秋</div>
       <div class="member_intro">介绍</div>
