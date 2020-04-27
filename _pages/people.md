@@ -67,6 +67,10 @@ redirect_from:
     background-repeat: no-repeat;
     background-position: center;
   }
+  .col {
+    width: 33%;
+    display: inline-block;
+  }
 
 
 </style>
