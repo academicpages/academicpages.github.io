@@ -29,7 +29,7 @@ redirect_from:
 <div>
   <div class="member_item" style="display: inline-block; ">
     <div class="member_pic_wrapper" style="width: 100%; margin: 0 auto; padding: 10px;">
-      <div class="member_name" style="font-size: 18px; padding: 10px 0; text-align: center; font-weight:bold">李文浩 LI Wenhao</div>
+      <div class="member_name" style="font-size: 18px; padding: 10px 0; text-align: center; font-weight:bold"><a href="https://www.zhihu.com/people/lee-40-50-50/posts">李文浩 LI Wenhao</a></div>
       <div class="member_intro" style="text-align: center; font-size: 14px;">介绍</div>
     </div>
   </div>
@@ -118,7 +118,7 @@ redirect_from:
   </div>
   <div class="member_item" style="display: inline-block; ">
     <div class="member_pic_wrapper" style="width: 100%; margin: 0 auto; padding: 10px;">
-      <div class="member_name" style="font-size: 18px; padding: 10px 0; text-align: center; font-weight:bold">Weiwen CHEN 陈伟文</div>
+      <div class="member_name" style="font-size: 18px; padding: 10px 0; text-align: center; font-weight:bold"><a href="https://cww97.cn/">Weiwen CHEN 陈伟文</a></div>
       <div class="member_intro" style="text-align: center; font-size: 14px;">介绍</div>
     </div>
   </div>
