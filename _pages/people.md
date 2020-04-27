@@ -149,6 +149,60 @@ redirect_from:
       <div class="member_intro" >介绍</div>
     </div>
   </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Junyi CHEN 程君翊</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Wei Wang 王伟</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Zhiqian LI 李志谦</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Shuo Wang 王硕</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Youtao JIA 郏友涛</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Yang Deng 邓样</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Jia Lin 林佳</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Tingyu WU 吴婷钰</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Yunhao LIU 刘云浩</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -184,6 +238,12 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >Keyu Chen 陈柯宇</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Wei Wang 蔡盛梁</div>
       <div class="member_intro" >介绍</div>
     </div>
   </div>
