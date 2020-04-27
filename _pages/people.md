@@ -48,7 +48,7 @@ redirect_from:
 </style>
 
 <div>
-  <div class="member_item" ">
+  <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">李文浩 LI Wenhao</a></div>
       <div class="member_intro" >介绍</div>
@@ -194,14 +194,14 @@ redirect_from:
 
 # Alumi
 <div>
-  <div class="member_item"  ">
+  <div class="member_item"  >
     <div class="member_pic_wrapper" >
       <div class="member_name">Wenjie ZHANG 张文杰</div>
       <div class="member_intro" >2018, Tecent 腾讯</div>
     </div>
   </div>
-  <div class="member_item" ">
-    <div class="member_pic_wrapper" ">
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
       <div class="member_name" >Juan ZHANG 张娟</div>
       <div class="member_intro">2019, TBA</div>
     </div>
