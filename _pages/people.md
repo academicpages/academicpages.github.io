@@ -45,7 +45,7 @@ redirect_from:
   }
   .faculties .member_item .member_pic{
     width: 100%;
-    height: 280px;
+    height: 200px;
   }
   #zhahongyuan{
     background: url(../images/people/zhahongyuan.png);
