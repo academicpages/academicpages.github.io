@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 <style type="text/css">
-  .faculties{
-    width: 100%;
-  }
   .faculties .caption{
     padding-top: 40px;
     font-size: 30px;
@@ -24,7 +21,6 @@ redirect_from:
   }
   .faculties .member_item{
     display: inline-block;
-    min-width: 300px;
     border-top: 0;
   }
   .faculties .member_item .member_pic_wrapper{
@@ -76,11 +72,11 @@ redirect_from:
 
 <h1>Faculties</h1>
 
-<div class="faculties">
-  <div class="caption">Faculties</div>
-  <div class="caption_line"></div>
-  <div class="members">
-    <div class="member_item">
+<div class="faculties contrainer">
+  <div class="row">
+    <div class="caption">Faculties</div>
+    <div class="caption_line"></div>
+    <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="zhahongyuan"></div>
         <div class="member_name">查宏远 ZHA Hongyuan</div>
@@ -88,7 +84,7 @@ redirect_from:
         <div class="member_intro">machine learning theory and applications</div>
       </div>
     </div>
-    <div class="member_item">
+    <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="wangxiangfeng"></div>
         <div class="member_name">王祥丰 WANG Xiangfeng</div>
@@ -96,7 +92,7 @@ redirect_from:
         <div class="member_intro">Distributed optimization, MARL</div>
       </div>
     </div>
-    <div class="member_item">
+    <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="jinbo"></div>
         <div class="member_name">金博 JIN Bo</div>
