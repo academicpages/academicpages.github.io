@@ -9,12 +9,12 @@ author_profile: true
 
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, J. Yan and **Hongyuan Zha**, F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2004.11145)
 - **Junjie Sheng**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, T.-H. Chang, J. Wang and **Hongyuan Zha**, Learning Structured Communication for Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2002.04235)
-- **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward.[arxiv](https://arxiv.org/abs/2002.04238)
-- **Junjie Wang**, **Xiangfeng Wang**, **Bo Jin**, J. Yan, W. Zhang and **Hongyuan Zha**, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. 2020.[arxiv](http://arxiv.org/abs/1911.09046)
+- **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. 2020. [arxiv](https://arxiv.org/abs/2002.04238)
+- **Junjie Wang**, **Xiangfeng Wang**, **Bo Jin**, J. Yan, W. Zhang and **Hongyuan Zha**, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. 2020. [arxiv](http://arxiv.org/abs/1911.09046)
 
 ## 2020
 
-- **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. IEEE Transactions on Cybernetics, accepted, 2020. （SCI一区）
+- **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. IEEE Transactions on Cybernetics, accepted, 2020.
 
 - M. Hong, T.-H. Chang, **Xiangfeng Wang**, M. Razaviyayn, S. Ma
   and Z.-Q. Luo, A Block Successive Upper Bound Minimization Method of
@@ -24,7 +24,7 @@ author_profile: true
   Jin**, X. Zhang, Y. Zhang and Y. Wang, Iteratively-Refined
   Interactive 3D Medical Image Segmentation with Multi-Agent
   Reinforcement Learning. CVPR, 2020.
-  （中国计算机学会A类会议）
+
 
 ##  2019
 
@@ -32,15 +32,13 @@ author_profile: true
   **Hongyuan Zha**, Active Sample Learning and Feature Selection:
   A Unified Approach. IEEE Transactions on Pattern Analysis and
   Machine Intelligence, 41(6), 2019, pp.1382-1396.
-  （中国计算机学会A类期刊）
 - C. Li, F. Wei, W. Dong, Q. Liu, **Xiangfeng Wang** and X. Zhang,
   Dynamic Structure Embedded Online Multiple-output Regression for
   Streaming Data. IEEE Transactions on Pattern Analysis and Machine
   Intelligence, 41(2), 2019, pp.323-336.
-  （中国计算机学会A类期刊）
 - Y. Xie, **Xiangfeng Wang**, R. Wang and **Hongyuan Zha**,
   A Fast Proximal Point Method for Computing Exact Wasserstein
-  Distance. UAI, 2019. （中国计算机学会B类会议）
+  Distance. UAI, 2019.
 - M. Zhang, C. Li, **Xiangfeng Wang**, Multi-View Metric Learning for Multi-Label Image Classification. ICIP, 2019.
 - **Wenhao Li**, **Bo Jin** and **Xiangfeng Wang**, SparseMAAC: Sparse Attention for Multi-agent Reinforcement Learning. DASFAA, 2019.
 
@@ -65,7 +63,7 @@ author_profile: true
   Mathematical Programming Series A, 163, 2017, pp.85-114.
 - X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, **Hongyuan Zha** and S. Chu,
   On Predictive Patent Valuation: Forecasting Patent Citations and
-  Their Types, AAAI, 2017. （中国计算机学会A类会议）
+  Their Types, AAAI, 2017.
 - **Bo Jin**, Z.L. Jing, H.T. Zhao. Incremental and Decremental Extreme Learning Machine Based on Generalized Inverse[J]. IEEE Access, 2017, 5: 20852-20865.
 
 
@@ -75,14 +73,14 @@ author_profile: true
 - S. Xiao, J. Yan, C. Li, **Bo Jin**, **Xiangfeng Wang**,
   **Hongyuan Zha**, X. Yang and S. Chu, On Modelling and
   Predicting Individual Paper Citation Count Over Time,
-  IJCAI, 2016. （中国计算机学会A类会议）
+  IJCAI, 2016.
 - J. Yan, S. Xiao, C. Li, **Bo Jin**, **Xiangfeng Wang**,
   **Hongyuan Zha** and X. Yang, Modelling Contagious M$\&$A via
   Point Processes with a Profile Regression Prior,
-  IJCAI, 2016. （中国计算机学会A类会议）
+  IJCAI, 2016.
 - C. Li, F. Wei, W. Dong, **Xiangfeng Wang**, J. Yan, X. Zhu, Q.
   Liu and X. Zhang, Spatially Regularized Streaming Sensor Selection,
-  AAAI, 2016. （中国计算机学会A类会议）
+  AAAI, 2016.
 
 - T.-H. Chang, M. Hong, W.-C. Liao and **Xiangfeng Wang**,
   Asynchronous Distributed ADMM for Large-Scale Optimization-Part I:
@@ -112,7 +110,7 @@ author_profile: true
   Distributed Large-Scale Optimization by Inexact Consensus ADMM,
   IEEE Transactions on Signal Processing, 63(2), 2015,
   pp.482-497.
-- X. Luo, **Xiangfeng Wang**, Z. Suo and Z. Li, Efficient InSAR Phase Noise Reduction via Total Variation Regularization. Science China Information Sciences, 2015, 58 (8), 1-13.
+- X. Luo, **Xiangfeng Wang**, Z. Suo and Z. Li, Efficient InSAR Phase Noise Reduction via Total Variation Regularization. Science China (Information Sciences), 2015, 58 (8), 1-13.
 
 
 
@@ -121,7 +119,6 @@ author_profile: true
 - **Xiangfeng Wang**, M. Hong, T.-H. Chang, M. Razaviyayn and
   Z.-Q. Luo, Joint Day-Ahead Power Procurement and Load Scheduling
   using Stochastic ADMM, ICASSP, 2014.
-  （中国计算机学会B类会议）
 - **Bo Jin**, Z.L. Jing and H.T. Zhao. EVD dualdating based online subspace learning. Mathematical Problems in Engineering, 2014.
 - **Bo Jin**, Z.L. Jing, M. Wang and H. Pan. Robust visual multi-task tracking via composite sparse model. Journal of Electronic Imaging, 2014, 23(6)
 
@@ -130,7 +127,7 @@ author_profile: true
 ## 2013
 
 - H.-W. Tseng, S. Vishnubhotla, M. Hong, **Xiangfeng Wang**, J. Xiao, Z.-Q. Luo and T. Zhang, A Single Channel Speech Enhancement Approach by Combining Statistical Criterion and Multi-Frame Sparse Dictionary Learning. INTERSPEECH, 2013.
-- H. Pan, Z.L. Jing, **Lei Ming**, R.L. Liu, **Bo Jin** and C.L. Zhang. A sparse proximal Newton splitting method for constrained image deblurring. Neurocomputing, 122:245-257, 2013.
+- H. Pan, Z.L. Jing, Lei Ming, R.L. Liu, **Bo Jin** and C.L. Zhang. A sparse proximal Newton splitting method for constrained image deblurring. Neurocomputing, 122:245-257, 2013.
 - C.L. Zhang, Z.L. Jing, **Bo Jin**, H. Pan. Robust visual tracking using discriminative stable regions and K-means clustering. Neurocomputing, 111:131-143, 2013.
 
 ## 2012
