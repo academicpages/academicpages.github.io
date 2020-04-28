@@ -17,7 +17,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - "Defining Benchmarks for Continual Few-Shot Learning", A. Antoniou, M. Patacchiola, M. Ochal, A. Storkey, arXiv e-prints, 2020
   * [Paper](/documents/Benchmarks_for_Continual_Few_Shot_Learning.pdf) 
-  * [Spec](/documents/specification_for_continual_few_shot_learning.pdf) 
+  * [Spec](/documents/continual_few_shot_learning_specifiation.pdf) 
   * [Task Provider Repo](https://github.com/AntreasAntoniou/FewShotContinualLearningDataProvider) 
   * [Experiments Repo](https://github.com/AntreasAntoniou/FewShotContinualLearning) 
 
