@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can also find my articles in [my Google Scholar](https://scholar.google.com/citations?user=y3yJm98AAAAJ&hl=en). <br>
-($^\*$ indicates equal contribution. )
+(<sup>*</sup> indicates equal contribution. )
 
 ## 2020
 * **GraLSP: Graph Neural Networks with Local Structural Patterns** \[[pdf](https://arxiv.org/pdf/1911.07675.pdf)\] <br>
