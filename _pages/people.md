@@ -56,7 +56,7 @@ redirect_from:
   }
 
   #wangxiangfeng{
-    background: url(../images/people/wangxiangfeng.png);
+    background: url(../images/people/wangxiangfeng.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -87,7 +87,7 @@ redirect_from:
         <div class="member_pic" id="zhahongyuan"></div>
         <div class="member_name">查宏远 ZHA Hongyuan</div>
         <div class="member_pos">教授 Professor</div>
-        <div class="member_intro">machine learning theory and applications</div>
+        <div class="member_intro">Machine Learning</div>
       </div>
     </div>
     <div class="member_item col">
@@ -177,18 +177,7 @@ redirect_from:
       <div class="member_intro" >介绍</div>
     </div>
   </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >Xin LI 李鑫</div>
-      <div class="member_intro" >介绍</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >Heng Li 李衡</div>
-      <div class="member_intro" >介绍</div>
-    </div>
-  </div>
+  
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >Junjie WANG 王俊杰</div>
@@ -291,6 +280,18 @@ redirect_from:
       <div class="member_intro" >介绍</div>
     </div>
   </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Shengliang CAI 蔡盛梁</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">Moyi YANG 杨默艺</div>
+      <div class="member_intro" >介绍</div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -329,12 +330,6 @@ redirect_from:
       <div class="member_intro" >介绍</div>
     </div>
   </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name">Wei Wang 蔡盛梁</div>
-      <div class="member_intro" >介绍</div>
-    </div>
-  </div>
 </div>
 
 ---
@@ -342,6 +337,18 @@ redirect_from:
 
 # Alumi
 <div class="students">
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >Xin LI 李鑫</div>
+      <div class="member_intro" >2020，小红书</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >Heng Li 李衡</div>
+      <div class="member_intro" >2020, Face++</div>
+    </div>
+  </div>
   <div class="member_item"  >
     <div class="member_pic_wrapper" >
       <div class="member_name">Wenjie ZHANG 张文杰</div>
@@ -351,7 +358,8 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >Juan ZHANG 张娟</div>
-      <div class="member_intro">2019, TBA</div>
+      <div class="member_intro">2019, 卡斯柯</div>
     </div>
   </div>
+
 </div>
