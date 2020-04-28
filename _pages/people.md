@@ -335,7 +335,7 @@ redirect_from:
 ---
 ---
 
-# Alumi
+# Alumni
 <div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
