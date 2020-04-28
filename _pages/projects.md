@@ -42,7 +42,7 @@ author_profile: true
   <img src="/images/projects/National_Natural_Science_Foundation_of_China-logo.jpg" style="padding: 0px">
   <img src="/images/projects/shanghaishiwei-logo.png" style="padding: 0px">
   <img src="/images/projects/kasike-logo.png">
-  <img src="/images/projects/cosic-logo.jpg">
+  <img src="/images/projects/cosic-logo.jpg" style="padding: 0px">
   <img src="/images/projects/mininglamp-logo.png" style="background: #0e56a0; margin: 10px; height: 80px">
   <img src="/images/projects/yinjiang-logo.jpg" style="padding: 20px">
   <img src="/images/projects/yuantong-logo.png">
