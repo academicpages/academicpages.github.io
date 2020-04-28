@@ -10,6 +10,5 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 ($^\*$ indicates equal contribution. )
 
 ## 2020
-- GraLSP: Graph Neural Networks with Local Structural Patterns
-
-  **Yilun Jin**, Guojie Song, Chuan Shi. In *The 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020
+* **GraLSP: Graph Neural Networks with Local Structural Patterns** <br>
+**Yilun Jin**, Guojie Song, Chuan Shi. In *The 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020
