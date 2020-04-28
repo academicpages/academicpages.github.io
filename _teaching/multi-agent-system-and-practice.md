@@ -4,3 +4,4 @@ collection: teaching
 permalink: /teaching/multi-agent-system-and-practice
 location: "Shanghai, China"
 ---
+  
