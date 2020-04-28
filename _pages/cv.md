@@ -49,7 +49,7 @@ redirect_from:
 
 |                                        |                        |                |
 | :--------------------------------------| :------------------- | :------------: |
-| Controlling a Superconducting Quantum Computer <br> Supervisor: Dr. Serge Rosenblum  | [PDF](https://github.com/DanielCohenHillel/Controlling-a-Superconducting-Quantum-Computer/raw/master/Writing/Controlling_a_Superconducting_Quantum_Computer.pdf)    |
+| **Controlling a Superconducting Quantum Computer** <br> **Supervisor:** Dr. Serge Rosenblum  | [PDF](https://github.com/DanielCohenHillel/Controlling-a-Superconducting-Quantum-Computer/raw/master/Writing/Controlling_a_Superconducting_Quantum_Computer.pdf)    |
 
 
 ## Skills
