@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), working with Prof. [Michael Orchard](https://eceweb.rice.edu/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/cv_lantao_yu_April.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
+* I am a Ph.D. student in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), working with Prof. [Michael Orchard](https://eceweb.rice.edu/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/cv_lantao_yu_most_recent.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
 * My research interests lie in the area of image processing, particularly in image interpolation, super-resolution and compression, as well as their applications in fusion and demosaicking.
 * I had a great summer as a research intern at MERL in Cambridge, MA. 
 * I received my Bachelor’s Degree in [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
