@@ -20,4 +20,7 @@ Lichen Jin, Yizhou Zhang, Guojie Song, **Yilun Jin**, In *The Web Conference (Th
 
 ## 2019
 * **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3357384.3357947)\] <br>
-Qingqing Long, Yiming Wang, Lun Du, Guojie Song, **Yilun Jin**, Wei Lin, In *The 28th ACM International Conference on Information and Knowledge Management (CIKM)*, 2019. **Best Research Paper Runner-up Award**. 
+Qingqing Long, Yiming Wang, Lun Du, Guojie Song, **Yilun Jin**, Wei Lin. In *The 28th ACM International Conference on Information and Knowledge Management (CIKM)*, 2019. **Best Research Paper Runner-up Award**. 
+
+* **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
+Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. In *The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML’19), in conjunction with IJCAI 2019*. 
