@@ -13,4 +13,4 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 **Yilun Jin**, Guojie Song, Chuan Shi. In *The 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020
 
 * **EPNE: Evolutionary Pattern Preserving Network Embedding** <br>
-Junshan Wang <sup>*</sup>, **Yilun Jin**<sup>*</sup>, Guojie Song, Xiaojun Ma. To appear in *The 24th European Conference on Artificial Intelligence (ECAI)*, 2020
+Junshan Wang<sup>*</sup>, **Yilun Jin**<sup>*</sup>, Guojie Song, Xiaojun Ma. To appear in *The 24th European Conference on Artificial Intelligence (ECAI)*, 2020
