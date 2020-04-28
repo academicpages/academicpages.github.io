@@ -41,6 +41,8 @@ author_profile: true
 - Y. Xie, **Xiangfeng Wang**, R. Wang and **Hongyuan Zha**,
   A Fast Proximal Point Method for Computing Exact Wasserstein
   Distance. UAI, 2019. （中国计算机学会B类会议）
+- M. Zhang, C. Li, **Xiangfeng Wang**, Multi-View Metric Learning for Multi-Label Image Classification. ICIP, 2019.
+- **Wenhao Li**, **Bo Jin** and **Xiangfeng Wang**, SparseMAAC: Sparse Attention for Multi-agent Reinforcement Learning. DASFAA, 2019.
 
 
 
@@ -54,18 +56,7 @@ author_profile: true
   Optimization. Neurocomputing, 272, 2018, pp.471-480.
 - **Wenjie Zhang**, J. Yan, **Xiangfeng Wang** and **Hongyuan Zha**,
   Deep eXtreme Multi-label Learning. ICMR, 2018.
-- S. Xiao, J. Yan, C. Li, **Bo Jin**, **Xiangfeng Wang**,
-  **Hongyuan Zha**, X. Yang and S. Chu, On Modelling and
-  Predicting Individual Paper Citation Count Over Time,
-  IJCAI, 2016. （中国计算机学会A类会议）
-
-- J. Yan, S. Xiao, C. Li, **Bo Jin**, **Xiangfeng Wang**,
-  **Hongyuan Zha** and X. Yang, Modelling Contagious M$\&$A via
-  Point Processes with a Profile Regression Prior,
-  IJCAI, 2016. （中国计算机学会A类会议）
-- C. Li, F. Wei, W. Dong, **Xiangfeng Wang**, J. Yan, X. Zhu, Q.
-  Liu and X. Zhang, Spatially Regularized Streaming Sensor Selection,
-  AAAI, 2016. （中国计算机学会A类会议）
+- H.T. Zhao, S.Y. Sun, **Bo Jin**. Sequential Fault Diagnosis based on LSTM Neural Network. IEEE Access, 2018, 10.1109/ACCESS.2018.2794765.
 
 ## 2017
 
@@ -75,10 +66,23 @@ author_profile: true
 - X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, **Hongyuan Zha** and S. Chu,
   On Predictive Patent Valuation: Forecasting Patent Citations and
   Their Types, AAAI, 2017. （中国计算机学会A类会议）
+- **Bo Jin**, Z.L. Jing, H.T. Zhao. Incremental and Decremental Extreme Learning Machine Based on Generalized Inverse[J]. IEEE Access, 2017, 5: 20852-20865.
 
 
 
 ## 2016
+
+- S. Xiao, J. Yan, C. Li, **Bo Jin**, **Xiangfeng Wang**,
+  **Hongyuan Zha**, X. Yang and S. Chu, On Modelling and
+  Predicting Individual Paper Citation Count Over Time,
+  IJCAI, 2016. （中国计算机学会A类会议）
+- J. Yan, S. Xiao, C. Li, **Bo Jin**, **Xiangfeng Wang**,
+  **Hongyuan Zha** and X. Yang, Modelling Contagious M$\&$A via
+  Point Processes with a Profile Regression Prior,
+  IJCAI, 2016. （中国计算机学会A类会议）
+- C. Li, F. Wei, W. Dong, **Xiangfeng Wang**, J. Yan, X. Zhu, Q.
+  Liu and X. Zhang, Spatially Regularized Streaming Sensor Selection,
+  AAAI, 2016. （中国计算机学会A类会议）
 
 - T.-H. Chang, M. Hong, W.-C. Liao and **Xiangfeng Wang**,
   Asynchronous Distributed ADMM for Large-Scale Optimization-Part I:
@@ -89,6 +93,8 @@ author_profile: true
   Linear Convergence Analysis and Numerical Performances, IEEE
   Transactions on Signal Processing, 64(12), 2016,
   pp.3131-3144.
+- T.-H. Chang, M. Hong, W.-C. Liao and **Xiangfeng Wang**, Asynchronous Distributed Alternating Direction Method of Multipliers: Algorithm and Convergence Analysis. ICASSP, 2016.
+- D. Hajinezhad, T.-H. Chang, **Xiangfeng Wang**, Q. Shi and M. Hong, Nonnegative Matrix Factorization using ADMM: Algorithm and Convergence Analysis. ICASSP, 2016.
 
 
 
@@ -102,11 +108,11 @@ author_profile: true
   Multiple-Block Separable Convex Minimization Problems using
   Two-Block ADMM, Pacific Journal of Optimization, 11(4),
   2015, pp.645-667.
-
 - T.-H. Chang, M. Hong and **Xiangfeng Wang**, Multi-Agent
   Distributed Large-Scale Optimization by Inexact Consensus ADMM,
   IEEE Transactions on Signal Processing, 63(2), 2015,
   pp.482-497.
+- X. Luo, **Xiangfeng Wang**, Z. Suo and Z. Li, Efficient InSAR Phase Noise Reduction via Total Variation Regularization. Science China Information Sciences, 2015, 58 (8), 1-13.
 
 
 
@@ -116,9 +122,20 @@ author_profile: true
   Z.-Q. Luo, Joint Day-Ahead Power Procurement and Load Scheduling
   using Stochastic ADMM, ICASSP, 2014.
   （中国计算机学会B类会议）
+- **Bo Jin**, Z.L. Jing and H.T. Zhao. EVD dualdating based online subspace learning. Mathematical Problems in Engineering, 2014.
+- **Bo Jin**, Z.L. Jing, M. Wang and H. Pan. Robust visual multi-task tracking via composite sparse model. Journal of Electronic Imaging, 2014, 23(6)
+
+
+
+## 2013
+
+- H.-W. Tseng, S. Vishnubhotla, M. Hong, **Xiangfeng Wang**, J. Xiao, Z.-Q. Luo and T. Zhang, A Single Channel Speech Enhancement Approach by Combining Statistical Criterion and Multi-Frame Sparse Dictionary Learning. INTERSPEECH, 2013.
+- H. Pan, Z.L. Jing, **Lei Ming**, R.L. Liu, **Bo Jin** and C.L. Zhang. A sparse proximal Newton splitting method for constrained image deblurring. Neurocomputing, 122:245-257, 2013.
+- C.L. Zhang, Z.L. Jing, **Bo Jin**, H. Pan. Robust visual tracking using discriminative stable regions and K-means clustering. Neurocomputing, 111:131-143, 2013.
 
 ## 2012
 
 - **Xiangfeng Wang** and X. Yuan, The Linearized Alternating
   Direction Method of Multipliers for Dantzig Selector, SIAM
   Journal of Scientific Computing, 34(5), 2012, pp.A2792-A2811.
+- C.L. Zhang, Z.L. Jing, **Bo Jin**, Z.X. Li. A dual-kernel-based tracking approach for visual target. Science China (Information Sciences), 55(3):566-576, 2012.
