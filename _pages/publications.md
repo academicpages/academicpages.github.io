@@ -9,7 +9,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 ($^\*$ indicates equal contribution. )
 
 ## 2020
-* **GraLSP: Graph Neural Networks with Local Structural Patterns** [pdf](https://arxiv.org/pdf/1911.07675.pdf) <br>
+* **GraLSP: Graph Neural Networks with Local Structural Patterns** \[[pdf](https://arxiv.org/pdf/1911.07675.pdf)\] <br>
 **Yilun Jin**, Guojie Song, Chuan Shi. In *The 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020
 
 * **EPNE: Evolutionary Pattern Preserving Network Embedding** <br>
