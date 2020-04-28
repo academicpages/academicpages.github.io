@@ -5,8 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Manuscript
+
+- **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, J. Yan and **Hongyuan Zha**, F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2004.11145)
+- **Junjie Sheng**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, T.-H. Chang, J. Wang and **Hongyuan Zha**, Learning Structured Communication for Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2002.04235)
+- **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward.[arxiv](https://arxiv.org/abs/2002.04238)
+- **Junjie Wang**, **Xiangfeng Wang**, **Bo Jin**, J. Yan, W. Zhang and **Hongyuan Zha**, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. 2020.[arxiv](http://arxiv.org/abs/1911.09046)
 
 ## 2020
+
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. IEEE Transactions on Cybernetics, accepted, 2020. （SCI一区）
 
 - M. Hong, T.-H. Chang, **Xiangfeng Wang**, M. Razaviyayn, S. Ma
@@ -39,13 +46,13 @@ author_profile: true
 
 ## 2018
 
-- H. Yue, Q. Yang, **Xiangfeng Wang** and X. Yuan\*, Implementing
+- H. Yue, Q. Yang, **Xiangfeng Wang** and X. Yuan, Implementing
   the ADMM to Big Datasets: A Case Study of LASSO. SIAM Journal on
   Scientific Computing, 40(5), 2018, pp.A3121-A3156.
 - **Xiangfeng Wang**, W. Zhang, J. Yan, X. Yuan and H. Zha, On the
   Flexibility of Block Coordinate Descent for Large-Scale
   Optimization. Neurocomputing, 272, 2018, pp.471-480.
-- W. Zhang, J. Yan, **Xiangfeng Wang** and **Hongyuan Zha**,
+- **Wenjie Zhang**, J. Yan, **Xiangfeng Wang** and **Hongyuan Zha**,
   Deep eXtreme Multi-label Learning. ICMR, 2018.
 - S. Xiao, J. Yan, C. Li, **Bo Jin**, **Xiangfeng Wang**,
   **Hongyuan Zha**, X. Yang and S. Chu, On Modelling and
@@ -53,7 +60,7 @@ author_profile: true
   IJCAI, 2016. （中国计算机学会A类会议）
 
 - J. Yan, S. Xiao, C. Li, **Bo Jin**, **Xiangfeng Wang**,
-  **Hongyuan Zha**and X. Yang, Modelling Contagious M$\&$A via
+  **Hongyuan Zha** and X. Yang, Modelling Contagious M$\&$A via
   Point Processes with a Profile Regression Prior,
   IJCAI, 2016. （中国计算机学会A类会议）
 - C. Li, F. Wei, W. Dong, **Xiangfeng Wang**, J. Yan, X. Zhu, Q.
@@ -65,7 +72,7 @@ author_profile: true
 - M. Hong, **Xiangfeng Wang**, M. Razaviyayn and Z.-Q. Luo,
   Iteration Complexity Analysis of Block Coordinate Descent Methods.
   Mathematical Programming Series A, 163, 2017, pp.85-114.
-- X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, H. Zha and S. Chu,
+- X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, **Hongyuan Zha** and S. Chu,
   On Predictive Patent Valuation: Forecasting Patent Citations and
   Their Types, AAAI, 2017. （中国计算机学会A类会议）
 
@@ -112,6 +119,6 @@ author_profile: true
 
 ## 2012
 
-- **Xiangfeng Wang** and X. Yuan\*, The Linearized Alternating
+- **Xiangfeng Wang** and X. Yuan, The Linearized Alternating
   Direction Method of Multipliers for Dantzig Selector, SIAM
   Journal of Scientific Computing, 34(5), 2012, pp.A2792-A2811.

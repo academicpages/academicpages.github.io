@@ -1,5 +1,5 @@
 ---
-title: "强化学习"
+title: "强化学习Reinforcement Learning"
 collection: teaching
 
 permalink: /teaching/reinforcement-learning
