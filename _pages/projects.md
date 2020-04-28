@@ -8,7 +8,7 @@ author_profile: true
 <style type="text/css">
 .img_container{
   width: 100%;
-  padding: 40px 30px;
+  padding: 0px 30px;
   text-align:justify
 }
 .img_container>img{
