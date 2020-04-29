@@ -77,7 +77,6 @@ redirect_from:
 # Faculties
 
 <div class="faculties contrainer">
-  <div class="caption_line"></div>
   <div class="row">
     <div class="member_item col">
       <div class="member_pic_wrapper">
