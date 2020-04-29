@@ -224,7 +224,7 @@ redirect_from:
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    transform:rotate(90deg);
+    /* transform:rotate(90deg); */
   }
   #wuqian{
     background: url(../images/people/students/wuqian.png);
@@ -500,7 +500,7 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gaoshang"></div>
-      <div class="member_name" ><a href="https://github.com/Felix2048">Shang GAO 高尚<a></div>
+      <div class="member_name" ><a href="https://github.com/Felix2048">Shang GAO 高尚</a></div>
       <div class="member_intro" >多模态</div>
     </div>
   </div>
