@@ -132,15 +132,18 @@ redirect_from:
   .students .member_item .member_pic_wrapper .member_intro{
     text-align: center;
     font-size: 14px;
+    
+  }
+  .students .member_item .member_pic{
+    width: 100%;
+    height: 200px;
+  }
+  .member_intro{
     style="overflow:hidden;
     text-overflow:ellipsis;
     display:-webkit-box;
     -webkit-line-clamp:1;
     -webkit-box-orient:vertical;
-  }
-  .students .member_item .member_pic{
-    width: 100%;
-    height: 200px;
   }
   #liwenhao{
     background: url(../images/people/students/liwenhao.png);
