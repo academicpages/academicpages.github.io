@@ -132,11 +132,11 @@ redirect_from:
   .students .member_item .member_pic_wrapper .member_intro{
     text-align: center;
     font-size: 14px;
-    /* style="overflow:hidden;
+    style="overflow:hidden;
     text-overflow:ellipsis;
     display:-webkit-box;
     -webkit-line-clamp:1;
-    -webkit-box-orient:vertical; */
+    -webkit-box-orient:vertical;
   }
   .students .member_item .member_pic{
     width: 100%;
