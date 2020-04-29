@@ -142,7 +142,7 @@ redirect_from:
     overflow:hidden;
     text-overflow:ellipsis;
     display:-webkit-box;
-    -webkit-line-clamp:1;
+    -webkit-line:2;
     -webkit-box-orient:vertical;
   }
   #liwenhao{
