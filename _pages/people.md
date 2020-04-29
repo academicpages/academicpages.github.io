@@ -132,11 +132,11 @@ redirect_from:
   .students .member_item .member_pic_wrapper .member_intro{
     text-align: center;
     font-size: 14px;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow : hidden;
-    text-overflow: ellipsis;
+    style="overflow:hidden;
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-line-clamp:1;//想要的行数
+    -webkit-box-orient:vertical;
   }
   .students .member_item .member_pic{
     width: 100%;
