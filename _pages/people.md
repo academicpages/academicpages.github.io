@@ -70,7 +70,6 @@ redirect_from:
   .col {
     width: 33.3%;
     font-size: 0;
-    <!-- display: inline-block; -->
   }
 
 </style>
@@ -84,24 +83,24 @@ redirect_from:
     <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="zhahongyuan"></div>
-        <div class="member_name">查宏远 ZHA Hongyuan</div>
-        <div class="member_pos">教授 Professor</div>
+        <div class="member_name">ZHA Hongyuan 查宏远 </div>
+        <div class="member_pos">Professor 教授 </div>
         <div class="member_intro">Machine Learning</div>
       </div>
     </div>
     <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="wangxiangfeng"></div>
-        <div class="member_name">王祥丰 WANG Xiangfeng</div>
-        <div class="member_pos">副教授 Associate Professor</div>
+        <div class="member_name">WANG Xiangfeng 王祥丰 </div>
+        <div class="member_pos">Associate Professor 副教授 </div>
         <div class="member_intro">Distributed optimization, MARL</div>
       </div>
     </div>
     <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="jinbo"></div>
-        <div class="member_name">金博 JIN Bo</div>
-        <div class="member_pos">助理教授 Assistant Professor</div>
+        <div class="member_name">JIN Bo 金博 </div>
+        <div class="member_pos">Assistant Professor 助理教授 </div>
         <div class="member_intro">MARL</div>
       </div>
     </div>
@@ -117,7 +116,6 @@ redirect_from:
   .students .member_item{
     display: inline-block;
     width: 25%;
-    /* font-size: 0; */
   }
   .students .member_item .member_pic_wrapper{
     width: 100%;
@@ -133,7 +131,7 @@ redirect_from:
   .students .member_item .member_pic_wrapper .member_intro{
     text-align: center;
     font-size: 14px;
-    
+
   }
   .students .member_item .member_pic{
     width: 100%;
@@ -176,28 +174,28 @@ redirect_from:
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liwenhao"></div>
-      <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">李文浩 LI Wenhao</a></div>
+      <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">LI Wenhao 李文浩 </a></div>
       <div class="member_intro" >多智能体强化学习，去中心化，路径规划，医疗图像处理</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shengjunjie"></div>
-      <div class="member_name" ><a href="https://www.yuque.com/jarvis-awajg">盛俊杰 SHENG Junjie</a></div>
+      <div class="member_name" ><a href="https://www.yuque.com/jarvis-awajg">SHENG Junjie 盛俊杰 </a></div>
       <div class="member_intro" >多智能体强化学习，通信学习，攻击和鲁棒学习</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="huayun"></div>
-      <div class="member_name" ><a href="https://www.zhihu.com/people/yun-hua-38">华贇 HUA Yun</a></div>
+      <div class="member_name" ><a href="https://www.zhihu.com/people/yun-hua-38">HUA Yun 华贇 </a></div>
       <div class="member_intro" >多智能体强化学习，元强化学习，智能交通</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shenchuyun"></div>
-      <div class="member_name" ><a href="https://chuyun-shen.github.io/">沈楚云 SHEN Chuyun</a></div>
+      <div class="member_name" ><a href="https://chuyun-shen.github.io/">SHEN Chuyun 沈楚云 </a></div>
       <div class="member_intro">公平、因果推断、多智能体强化学习</div>
     </div>
   </div>
@@ -233,7 +231,6 @@ redirect_from:
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    /* transform:rotate(90deg); */
   }
   #wuqian{
     background: url(../images/people/students/wuqian.png);
@@ -337,7 +334,7 @@ redirect_from:
     background-repeat: no-repeat;
     background-position: center;
   }
-  
+
 </style>
 
 
@@ -349,7 +346,7 @@ redirect_from:
       <div class="member_intro" >对抗样本，黑盒攻击</div>
     </div>
   </div>
-  
+
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangjunjie"></div>
@@ -409,14 +406,14 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chengjunyi"></div>
-      <div class="member_name">CHEN Junyi 程君翊</div>
+      <div class="member_name">CHENG Junyi 程君翊</div>
       <div class="member_intro" >meta learning，神经架构搜索</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangwei"></div>
-      <div class="member_name"><a href="https://wdevin.github.io">Wang Wei 王伟</a></div>
+      <div class="member_name"><a href="https://wdevin.github.io">WANG Wei 王伟</a></div>
       <div class="member_intro" >多智能体强化学习、自然语言处理、知识图谱</div>
     </div>
   </div>
@@ -430,13 +427,13 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangsuo"></div>
-      <div class="member_name">Wang Shuo 王硕</div>
+      <div class="member_name">WANG Shuo 王硕</div>
       <div class="member_intro" >机器学习</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="jiayoutao"></div> 
+      <div class="member_pic" id="jiayoutao"></div>
       <div class="member_name">JIA Youtao 郏友涛</div>
       <div class="member_intro" >机器学习，计算机视觉</div>
     </div>
@@ -444,14 +441,14 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="dengyang"></div>
-      <div class="member_name"><a href="https://github.com/consolexinhun">Deng Yang 邓样</a></div>
-      <div class="member_intro" >cv beginner</div>
+      <div class="member_name"><a href="https://github.com/consolexinhun">DENG Yang 邓样</a></div>
+      <div class="member_intro" >机器学习， 计算机视觉</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="linjia"></div>
-      <div class="member_name">Lin Jia 林佳</div>
+      <div class="member_name">LIN Jia 林佳</div>
       <div class="member_intro" >多智能体强化学习，联邦学习</div>
     </div>
   </div>
@@ -504,7 +501,7 @@ redirect_from:
 <div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Liu Tianyang 刘天杨</div>
+      <div class="member_name" >LIU Tianyang 刘天杨</div>
       <div class="member_intro">渣打科营中心</div>
     </div>
   </div>
@@ -522,7 +519,7 @@ redirect_from:
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Chen Keyu 陈柯宇</div>
+      <div class="member_name" >CHEN Keyu 陈柯宇</div>
       <div class="member_intro" >介绍</div>
     </div>
   </div>
@@ -541,7 +538,7 @@ redirect_from:
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Li Heng 李衡</div>
+      <div class="member_name" >LI Heng 李衡</div>
       <div class="member_intro" >2020, Face++</div>
     </div>
   </div>
