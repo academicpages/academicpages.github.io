@@ -73,7 +73,6 @@ redirect_from:
     <!-- display: inline-block; -->
   }
 
-
 </style>
 
 <h1>Faculties</h1>
@@ -117,6 +116,8 @@ redirect_from:
 <style type="text/css">
   .students .member_item{
     display: inline-block;
+    width: 25%;
+    /* font-size: 0; */
   }
   .students .member_item .member_pic_wrapper{
     width: 100%;
@@ -172,28 +173,28 @@ redirect_from:
 </style>
 
 <div class="students">
-  <div class="member_item col" >
+  <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liwenhao"></div>
       <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">李文浩 LI Wenhao</a></div>
       <div class="member_intro" >多智能体强化学习，去中心化，路径规划，医疗图像处理</div>
     </div>
   </div>
-  <div class="member_item col" >
+  <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shengjunjie"></div>
       <div class="member_name" ><a href="https://www.yuque.com/jarvis-awajg">盛俊杰 SHENG Junjie</a></div>
       <div class="member_intro" >多智能体强化学习，通信学习，攻击和鲁棒学习</div>
     </div>
   </div>
-  <div class="member_item col" >
+  <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="huayun"></div>
       <div class="member_name" ><a href="https://www.zhihu.com/people/yun-hua-38">华贇 HUA Yun</a></div>
       <div class="member_intro" >多智能体强化学习，元强化学习，智能交通</div>
     </div>
   </div>
-  <div class="member_item col" >
+  <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shenchuyun"></div>
       <div class="member_name" ><a href="https://chuyun-shen.github.io/">沈楚云 SHEN Chuyun</a></div>
@@ -330,6 +331,12 @@ redirect_from:
     background-repeat: no-repeat;
     background-position: center;
   }
+  #gaoshang{
+    background: url(../images/people/students/gaoshang.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
   
 </style>
 
@@ -462,6 +469,13 @@ redirect_from:
       <div class="member_intro" >机器学习</div>
     </div>
   </div>
+    <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="gaoshang"></div>
+      <div class="member_name" ><a href="https://github.com/Felix2048">Shang GAO 高尚</a></div>
+      <div class="member_intro" >多模态</div>
+    </div>
+  </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="caishengliang"></div>
@@ -484,12 +498,7 @@ redirect_from:
 # Undergraduate Students
 
 <style>
-#gaoshang{
-    background: url(../images/people/students/gaoshang.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
+
 </style>
 
 <div class="students">
@@ -503,13 +512,6 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_name" >Dute HUANG 黄杜特</div>
       <div class="member_intro">2020</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="gaoshang"></div>
-      <div class="member_name" ><a href="https://github.com/Felix2048">Shang GAO 高尚</a></div>
-      <div class="member_intro" >多模态</div>
     </div>
   </div>
   <div class="member_item" >
