@@ -345,7 +345,7 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="caijinhui"></div>
-      <div class="member_name" >Jinghui CAI 蔡璟辉</div>
+      <div class="member_name" >CAI Jinghui 蔡璟辉</div>
       <div class="member_intro" >对抗样本，黑盒攻击</div>
     </div>
   </div>
@@ -353,140 +353,140 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangjunjie"></div>
-      <div class="member_name" >Junjie WANG 王俊杰</div>
+      <div class="member_name" >WANG Junjie 王俊杰</div>
       <div class="member_intro" >零样本学习 小样本学习 图神经网络</div>
     </div>
   </div>
   <div class="member_item">
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="huyiqiu"></div>
-      <div class="member_name" ><a href="https://www.zhihu.com/people/46b1617a700a162f890500da919f31eb">Yiqiu HU 胡亦秋</a></div>
+      <div class="member_name" ><a href="https://www.zhihu.com/people/46b1617a700a162f890500da919f31eb">HU Yiqiu 胡亦秋</a></div>
       <div class="member_intro">强化学习（解组合优化）、联邦学习</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xiangwangtao"></div>
-      <div class="member_name" >Wangtao XIANG 向王涛</div>
+      <div class="member_name" >XIANG Wangtao 向王涛</div>
       <div class="member_intro" >深度学习图像、图像生成embedding</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wuqian"></div>
-      <div class="member_name"><a href="https://www.jianshu.com/u/4296af232d02">Qian WU 吴倩</a></div>
+      <div class="member_name"><a href="https://www.jianshu.com/u/4296af232d02">WU Qian 吴倩</a></div>
       <div class="member_intro" >计算机视觉，生成模型，图神经网络，元学习</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="zhangzhikai"></div>
-      <div class="member_name">Zhikai ZHANG 张致恺</div>
+      <div class="member_name">ZHANG Zhikai 张致恺</div>
       <div class="member_intro" >目标检测，姿态估计</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xuqisen"></div>
-      <div class="member_name" >Qisen XU 徐琪森</div>
+      <div class="member_name" >XU Qisen 徐琪森</div>
       <div class="member_intro">强化学习以及强化学习与计算机视觉交叉领域研究</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chengweiwen"></div>
-      <div class="member_name"><a href="https://cww97.cn/">Weiwen CHEN 陈伟文</a></div>
+      <div class="member_name"><a href="https://cww97.cn/">CHEN Weiwen 陈伟文</a></div>
       <div class="member_intro" >ICPC Silver, interest: Multi-Modal, cv, robotic</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chenhongjun"></div>
-      <div class="member_name">Hongjun CHEN 陈宏俊</div>
+      <div class="member_name">CHEN Hongjun 陈宏俊</div>
       <div class="member_intro" >多智体强化学习、路径规划</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chengjunyi"></div>
-      <div class="member_name">Junyi CHEN 程君翊</div>
+      <div class="member_name">CHEN Junyi 程君翊</div>
       <div class="member_intro" >meta learning，神经架构搜索</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangwei"></div>
-      <div class="member_name"><a href="https://wdevin.github.io">Wei Wang 王伟</a></div>
+      <div class="member_name"><a href="https://wdevin.github.io">Wang Wei 王伟</a></div>
       <div class="member_intro" >多智能体强化学习、自然语言处理、知识图谱</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liziqian"></div>
-      <div class="member_name">Zhiqian LI 李志谦</div>
+      <div class="member_name">LI Zhiqian 李志谦</div>
       <div class="member_intro" >计算机视觉，医疗图像处理</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangsuo"></div>
-      <div class="member_name">Shuo Wang 王硕</div>
+      <div class="member_name">Wang Shuo 王硕</div>
       <div class="member_intro" >机器学习</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="jiayoutao"></div> 
-      <div class="member_name">Youtao JIA 郏友涛</div>
+      <div class="member_name">JIA Youtao 郏友涛</div>
       <div class="member_intro" >机器学习，计算机视觉</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="dengyang"></div>
-      <div class="member_name"><a href="https://github.com/consolexinhun">Yang Deng 邓样</a></div>
+      <div class="member_name"><a href="https://github.com/consolexinhun">Deng Yang 邓样</a></div>
       <div class="member_intro" >cv beginner</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="linjia"></div>
-      <div class="member_name">Jia Lin 林佳</div>
+      <div class="member_name">Lin Jia 林佳</div>
       <div class="member_intro" >多智能体强化学习，联邦学习</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wutingyu"></div>
-      <div class="member_name">Tingyu WU 吴婷钰</div>
+      <div class="member_name">WU Tingyu 吴婷钰</div>
       <div class="member_intro" >多智能体强化学习，启发式算法</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liuyunhao"></div>
-      <div class="member_name">Yunhao LIU 刘云浩</div>
+      <div class="member_name">LIU Yunhao 刘云浩</div>
       <div class="member_intro" >机器学习</div>
     </div>
   </div>
     <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gaoshang"></div>
-      <div class="member_name" ><a href="https://github.com/Felix2048">Shang GAO 高尚</a></div>
+      <div class="member_name" ><a href="https://github.com/Felix2048">GAO Shang 高尚</a></div>
       <div class="member_intro" >多模态</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="caishengliang"></div>
-      <div class="member_name"><a href="https://cubercsl.cn/">Shengliang CAI 蔡盛梁</a></div>
+      <div class="member_name"><a href="https://cubercsl.cn/">CAI Shengliang 蔡盛梁</a></div>
       <div class="member_intro" >ICPC 2020 World Finalist</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="yangmoyi"></div>
-      <div class="member_name">Moyi YANG 杨默艺</div>
+      <div class="member_name">YANG Moyi 杨默艺</div>
       <div class="member_intro" >计算机专业中法联合培养项目</div>
     </div>
   </div>
@@ -504,25 +504,25 @@ redirect_from:
 <div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Tianyang Liu 刘天杨</div>
+      <div class="member_name" >Liu Tianyang 刘天杨</div>
       <div class="member_intro">渣打科营中心</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Dute HUANG 黄杜特</div>
+      <div class="member_name" >HUANG Dute 黄杜特</div>
       <div class="member_intro">2020</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Xinyan LI 李欣妍</div>
+      <div class="member_name" >LI Xinyan 李欣妍</div>
       <div class="member_intro" >本校直研</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Keyu Chen 陈柯宇</div>
+      <div class="member_name" >Chen Keyu 陈柯宇</div>
       <div class="member_intro" >介绍</div>
     </div>
   </div>
@@ -535,25 +535,25 @@ redirect_from:
 <div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Xin LI 李鑫</div>
+      <div class="member_name" >LI Xin 李鑫</div>
       <div class="member_intro" >2020，小红书</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Heng Li 李衡</div>
+      <div class="member_name" >Li Heng 李衡</div>
       <div class="member_intro" >2020, Face++</div>
     </div>
   </div>
   <div class="member_item"  >
     <div class="member_pic_wrapper" >
-      <div class="member_name">Wenjie ZHANG 张文杰</div>
+      <div class="member_name">ZHANG Wenjie 张文杰</div>
       <div class="member_intro" >2018, Tecent 腾讯</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >Juan ZHANG 张娟</div>
+      <div class="member_name" >ZHANG Juan 张娟</div>
       <div class="member_intro">2019, 卡斯柯</div>
     </div>
   </div>
