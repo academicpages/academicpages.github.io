@@ -1,14 +1,4 @@
----
-title: 'A Pandas suprise: NaNs and with groupby'
-date: 2020-04-28
-permalink: /posts/2012/08/blog-post-4/
-tags:
-  - python
-  - hacks_and_tricks
-  - fun
----
-
-# A Pandas surprise: NaNs and GroupBy
+# A Pandas suprise: NaNs and with groupby
 
 
 ```python
@@ -17,10 +7,10 @@ import numpy as np
 from pandas.errors import UnsupportedFunctionCall
 ```
 
-I figure out something about pandas today, which I was quite surprised by.
-When you use pandas groupby - NaNs are automatically ignored.
+I figured out something about pandas today, which I was very surprised by.
+Applying `.groupby` on a `pd.DataFrame` automatically ignores `NaN` values. This is intendet behavior, but sometimes you actually want to have some `NaN` in the data, to check whether your data-frame is correct and to find possible corruptions.
 
-Well this is intended, but sometimes you might be in the situation that you want to have NaNs in the summary. For example, for a quick check, whether all the data are correct. 
+Here is a little example:
 
 
 ```python
@@ -30,7 +20,7 @@ DF = pd.DataFrame.from_dict({'g1': ['a', 'a', 'a', 'a', 'b', 'b', 'b', 'b'],
                              'd1': [0, 1, np.nan, 3, 4, 5, 6, 7]})
 ```
 
-For example in this little example DF we would expect a `NaN` in group `a`, `b`, but we get a `0.5`.
+Averaging the entries in `DF`, we would expect a `NaN` in group `a`, `d`, but we get `3.0`!
 
 
 ```python
@@ -92,7 +82,7 @@ DF.groupby(['g1', 'g2']).mean()
 
 
 
-The thing is, you cannot use `skipna = False` in the mean, and neither in the summing function.
+If you apply pandas `.mean()` method on a `DataFrame` you could speciy a `skipna = False` in the function. This, unfortunately doesn't work after using `.groupby`.
 
 
 ```python
@@ -106,7 +96,7 @@ except UnsupportedFunctionCall:
     UnsupportedFunctionCall
 
 
-One example that has often been given is to use `.apply(np.mean)` instead of directly calling `.mean()`
+I think, I have seen one solution to solve this issue statingt that using `.apply(np.mean)` instead of using `.mean()` might solve the problem.
 
 However:
 
@@ -170,8 +160,8 @@ DF.groupby(['g1', 'g2']).apply(np.mean)
 
 
 
-Calling `np.mean` causes pands to bypass the function and calls `DF.mean()`, pandas function with `skipna=True`! 
-Afaik, you need to create a new function (or a partial, don't know much about that), but still:
+Calling `np.mean` causes pandas to bypass the function and calls `DF.mean()`, pandas function with `skipna=True`! 
+As far as I know, you have to create a new function to solve the issue.
 
 
 ```python
@@ -194,7 +184,7 @@ DF.groupby(['g1', 'g2']).apply(mean_w_nan)
 
 
 
-# Information:
+# References:
 * https://stackoverflow.com/questions/26145585/pandas-aggregation-ignoring-nans
 * https://github.com/pandas-dev/pandas/issues/15674
 * https://stackoverflow.com/questions/54106112/pandas-groupby-mean-not-ignoring-nans

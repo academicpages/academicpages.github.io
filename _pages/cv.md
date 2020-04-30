@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, University of Groningen, 2013
+* M.S. in Neurocognitive Psychology, University of Oldenburg, 2016
+* Ph.D in Psychology, University of Cologne / Research Centre Jülich, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013 - 2016: Student Research Assistant
+  * University of Groningen
+  * Duties included: Operating MR-scanner, programming experiments, data analysis
+  * Supervisor: Prof. Christiane M. Thiel, Dr. Sebastian Puschmann
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Since 2016: Doctoral Researcher
+  * Research Centre Jülich
+  * Duties included: Conducting fMRI experiments, establishing a new method for concurrent modeling of brain and behavioral responses
+  * Supervisor: Dr. Ralph Weidner, Jun-Prof. Dr. Simone Vossel
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* fMRI and EEG analysis
+* Programming
+  * Matlab
+  * Python
+  * R
+* Analysis
+  * Multi- and univariate statistics (frequentist and Bayesian)
+  * Machine- and Deep-Learning
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
