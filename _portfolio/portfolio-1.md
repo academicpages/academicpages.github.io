@@ -1,6 +1,6 @@
 ---
 title: "Boolean Search Techniques"
-excerpt: "I developed this LibGuide to show how to execute Boolean searches.<br/><img src='/images/500x300.png'>"
+excerpt: "This LibGuide shows how to conduct effective Boolean searches.<br/><img src='/images/500x300a.png'>"
 collection: portfolio
 ---
 

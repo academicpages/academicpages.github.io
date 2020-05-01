@@ -1,6 +1,6 @@
 ---
 title: "New Deal Webquest"
-excerpt: "I developed this webquest to teach the New Deal period of U.S. history.<br/><img src='/images/500x300.png'>"
+excerpt: "This webquest is about the New Deal period of U.S. history.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
