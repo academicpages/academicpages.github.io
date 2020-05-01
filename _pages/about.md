@@ -29,4 +29,11 @@ My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 - [2019/08/07] Began serving as a reviewer for AAAI 2020.
 
+- [2019/05/28] Started internship at NEC Labs America, advised by Dr. [Martin Renqiang Min](https://www.cs.toronto.edu/~cuty/).
+
 - [2019/05/13] Two papers got accepted at ACL 2019. My co-first-author [paper](http://www.ece.duke.edu/~lcarin/Compressed_ACL2019.pdf) was selected for an oral presentation.
+
+- [2019/04/24] One [paper](https://arxiv.org/pdf/1807.01750.pdf) got accepted at ICML 2019.
+
+- [2018/11/16] One [paper](http://bayesiandeeplearning.org/2018/papers/53.pdf) got accepted at NeurIPS 2018 Bayesian Deep Learning workshop.
+
