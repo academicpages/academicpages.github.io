@@ -1,3 +1,12 @@
+---
+title: "A Pandas Surprise: Groupy and NaNs"
+author: Simon R. Steinkamp
+data: 2020-04-30
+tags: 
+  - Python
+  - Snippets
+---
+
 # A Pandas suprise: NaNs and with groupby
 
 
@@ -160,7 +169,7 @@ DF.groupby(['g1', 'g2']).apply(np.mean)
 
 
 
-Calling `np.mean` causes pandas to bypass the function and calls `DF.mean()`, pandas function with `skipna=True`! 
+Calling `np.mean` causes pandas to bypass the function and calls `DF.mean()` from pandas with `skipna=True`! 
 As far as I know, you have to create a new function to solve the issue.
 
 
@@ -185,6 +194,6 @@ DF.groupby(['g1', 'g2']).apply(mean_w_nan)
 
 
 # References:
-* https://stackoverflow.com/questions/26145585/pandas-aggregation-ignoring-nans
-* https://github.com/pandas-dev/pandas/issues/15674
-* https://stackoverflow.com/questions/54106112/pandas-groupby-mean-not-ignoring-nans
+* [https://stackoverflow.com/questions/26145585/pandas-aggregation-ignoring-nans](https://stackoverflow.com/questions/26145585/pandas-aggregation-ignoring-nans)
+* [https://github.com/pandas-dev/pandas/issues/15674](https://github.com/pandas-dev/pandas/issues/15674)
+* [https://stackoverflow.com/questions/54106112/pandas-groupby-mean-not-ignoring-nans](https://stackoverflow.com/questions/54106112/pandas-groupby-mean-not-ignoring-nans)
