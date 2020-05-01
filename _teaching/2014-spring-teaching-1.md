@@ -5,10 +5,13 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Haines City, Florida"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* All teachers with access to the school network and Internet.
+* State-of-the-art electronic gradebook system used by teachers.
+* Technology User Groups (TUGs), made up of representatives from each academic department, to help train and support teachers.
+* Student Technology Assistants providing technology support to students, faculty, and staff for academic credit.
 
 Heading 1
 ======
