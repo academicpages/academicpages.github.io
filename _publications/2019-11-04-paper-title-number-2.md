@@ -6,10 +6,10 @@ excerpt: 'I believe the purpose of schooling is to provide children with knowled
 date: 2019-11-04
 venue: 'craigtoth.com'
 paperurl: 'https://craigtoth.github.io/files/CraigToth-Educational-Belief-Statements.pdf'
-citation: 'Toth, Craig. (2010). &quot;Educational Belief Statements&quot; <i>craigtoth.com</i>. 1(2).'
+citation: 'Toth, Craig. (2019). &quot;Educational Belief Statements&quot;'
 ---
 This is a statement of my educational beliefs.
 
 [Download paper here](https://craigtoth.github.io/files/CraigToth-Educational-Belief-Statements.pdf)
 
-Recommended citation: Toth, Craig. (2019). "Educational Belief Statements" <i>craigtoth.com</i>. 1(2).
+Recommended citation: Toth, Craig. (2019). "Educational Belief Statements." Retrieved from: [craigtoth.com](http://craigtoth.com)
