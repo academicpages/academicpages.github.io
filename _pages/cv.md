@@ -90,9 +90,7 @@ Technical Skills
   * Origin Pro
   * MS Office
 
-{% for post in site.skills %}
-    {{ post.content }}
-{% endfor %}
+{% include skills.html %}
 
 
 Teaching
