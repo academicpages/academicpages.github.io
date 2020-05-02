@@ -12,4 +12,4 @@ This is a statement of my professional ethics.
 
 [Download paper here](https://craigtoth.github.io/files/CraigToth-Statement-of-Professional-Ethics-Final.pdf)
 
-Recommended citation: Toth, Craig. (2018). "Statement of Professional Ethics." Retrieved from: [craigtoth.com](http://craigtoth.com).
+Recommended citation: Toth, Craig. (2018). "Statement of Professional Ethics." Retrieved from: https://craigtoth.github.io/files/CraigToth-Statement-of-Professional-Ethics-Final.pdf

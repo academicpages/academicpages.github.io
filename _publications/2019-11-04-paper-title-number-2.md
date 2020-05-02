@@ -12,4 +12,4 @@ This is a statement of my educational beliefs.
 
 [Download paper here](https://craigtoth.github.io/files/CraigToth-Educational-Belief-Statements.pdf)
 
-Recommended citation: Toth, Craig. (2019). "Educational Belief Statements." Retrieved from: [craigtoth.com](http://craigtoth.com)
+Recommended citation: Toth, Craig. (2019). "Educational Belief Statements." Retrieved from: https://craigtoth.github.io/files/CraigToth-Educational-Belief-Statements.pdf
