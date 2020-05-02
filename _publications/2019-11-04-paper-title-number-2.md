@@ -1,8 +1,8 @@
 ---
 title: "Educational Belief Statements"
 collection: publications
-permalink: /publication/2019-11-04-paper-title-number-2
-excerpt: 'I believe the purpose of schooling is to provide children with knowledge they can use to help them become responsible adults in contemporary society.'
+permalink: /publications/2019-11-04-paper-title-number-2
+excerpt: 'The purpose of schooling is to provide children with knowledge they can use to help them become responsible adults in contemporary society.'
 date: 2019-11-04
 venue: 'Craig Toth Personal Profile'
 paperurl: 'https://craigtoth.github.io/files/CraigToth-Educational-Belief-Statements.pdf'

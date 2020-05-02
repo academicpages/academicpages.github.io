@@ -1,7 +1,7 @@
 ---
 title: "Statement of Professional Ethics"
 collection: publications
-permalink: /publication/2018-04-16-paper-title-number-3
+permalink: /publications/2018-04-16-paper-title-number-3
 excerpt: 'Statement of Craig Toth's professional ethics.'
 date: 2018-04-16
 venue: 'Craig Toth Personal Profile'

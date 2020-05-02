@@ -1,7 +1,7 @@
 ---
 title: "Library System Evaluation"
 collection: publications
-permalink: /publication/2019-04-30-paper-title-number-1
+permalink: /publications/2019-04-30-paper-title-number-1
 excerpt: 'System evaluation of the Elon University Library.'
 date: 2019-04-30
 venue: 'Craig Toth Personal Profile'
