@@ -4,7 +4,7 @@ collection: teaching
 type: "Professional Educator"
 permalink: /teaching/2004-teaching-1
 venue: "Haines City High School"
-date: 2004
+date: 2004-01-01
 location: "Haines City, Florida"
 ---
 

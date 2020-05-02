@@ -4,7 +4,7 @@ collection: teaching
 type: "Professional Educator"
 permalink: /teaching/2017-fall-teaching-2
 venue: "Southeast Guilford High School"
-date: 2017
+date: 2017-10-01
 location: "Greensboro, NC"
 ---
 
