@@ -6,7 +6,7 @@ excerpt: 'Statement of Craig Toth's professional ethics.'
 date: 2018-04-16
 venue: 'Craig Toth Personal Profile'
 paperurl: 'https://craigtoth.github.io/files/CraigToth-Statement-of-Professional-Ethics-Final.pdf'
-citation: 'Toth, Craig. (2018). &quot;Statement of Professional Ethics.&quot; Retrieved from: [craigtoth.com](http://craigtoth.com).'
+citation: 'Toth, Craig. (2018). &quot;Statement of Professional Ethics.&quot;'
 ---
 This is a statement of my professional ethics.
 
