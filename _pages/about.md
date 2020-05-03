@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[April 2020\] One paper accepted at **IJCAI 2020**. 
+
 \[January 2020\] Two papers accepted at **TheWebConf 2020** (Short Paper) and **ECAI 2020**. 
 
 \[November 2019\] Our paper **GraLSP: Graph Neural Networks with Local Structural Patterns** is accepted at AAAI 2020! A preprint version can be found [here](https://arxiv.org/pdf/1911.07675.pdf). 
