@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Aubrey J. Rembert"
 title_separator          : "-"
 name                     : &name "Aubrey J. Rembert"
-description              : &description "Computer Scientist @ Next Big Sound/Pandora."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Computer Scientist"
+url                      : https://bigbadace.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bigbadace/bigbadace.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Aubrey J. Rembert"
   avatar           : "profile.png"
-  bio              : "Computer Scientist @ Pandora/Next Big Sound"
+  bio              : "Computer Scientist"
   location         : "Greater Orlando Area"
   googlescholar    : 
   email            : "info [at] aubreyjrembert.com"
