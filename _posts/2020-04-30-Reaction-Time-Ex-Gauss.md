@@ -11,7 +11,6 @@ tags:
 
 # The (not so) easy task of analysing reaction times.
 
-
 **This is the non-interactive Version of the analysis!**  
 You can find the interactive notebook
 [here](/files/Reaction-Time-Ex-Gauss-I.html), **caution** it’s about 7MB
@@ -28,10 +27,10 @@ task](https://en.wikipedia.org/wiki/Stroop_effect). You might have
 encountered the stimuli, with the typical task to spell out loud as fast
 as possible written color names:
 
--   $\\color{red}{\\text{RED}}$
--   $\\color{yellow}{\\text{BLUE}}$
--   $\\color{blue}{\\text{YELLOW}}$
--   $\\color{green}{\\text{GREEN}}$
+- $\\color{red}{\\text{RED}}$
+- $\\color{yellow}{\\text{BLUE}}$
+- $\\color{blue}{\\text{YELLOW}}$
+- $\\color{green}{\\text{GREEN}}$
 
 After running such a task, with many more word-color pairs and different
 participants, a typical question in undergrad might be: Are participants
@@ -48,14 +47,14 @@ Results are in and everything is fine? If you start wondering, whether
 this is the *correct* way of analysis, you might find more and more and
 **is more**. Different discussions about:
 
--   Should conditions across participants be averaged using the mean or
+- Should conditions across participants be averaged using the mean or
     the median?
--   Should data be averaged at all?
--   How to define outliers?
--   …
--   Could a drift-diffusion model provide the key insights?
--   …
--   Is null hypothesis significance testing meaningful?
+- Should data be averaged at all?
+- How to define outliers?
+- …
+- Could a drift-diffusion model provide the key insights?
+- …
+- Is null hypothesis significance testing meaningful?
 
 All of these questions are not really in my main field of expertise (no
 worries I won’t deal with the last one ;) , but I found reading about
@@ -70,8 +69,7 @@ or have comments, suggestions, etc. please get in touch!
 
 Here is the first part:
 
-Part 1 - How many trials do I need to fit an Ex-Gauss?
-======================================================
+## Part 1 - How many trials do I need to fit an Ex-Gauss?
 
 Data below is generated sampling 100000 observations from two
 Ex-Gaussian distributions with *μ* = 300, *σ* = 20, *τ* = 300 (red) and
@@ -108,8 +106,7 @@ This is just a quick introduction into why fitting a distribution might
 provide a better picture of reaction times, but how many trials are
 necessary per condition?
 
-Methods
--------
+## Methods
 
 To simulate data I used the 12 Ex-Gauss distributions used by Miller
 (1988), and many others. My assumption is, that a researcher wants to
@@ -150,8 +147,7 @@ of moments and MLE. This processes was repeated 10000 times.
 |            11|  550|     20|   50|
 |            12|  550|     50|   50|
 
-Results
-=======
+## Results
 
 The histograms below describe our simulation results. Feel free to click
 around (in the interactive version) and select different distributions
@@ -168,8 +164,7 @@ as there are raw-events with very unlikely parameter estimates. In the
 non-interactive version, there estimates for distribution 6 only,
 however you can see `Moments` and `MLE` side by side.
 
-Interactive Version Legend
---------------------------
+### Interactive Version Legend
 
 I couldn’t figure out how to put meaningful legends on the interactive
 version: \* red estimates for *μ*, solid bars distribution *μ* \* blue
@@ -187,14 +182,13 @@ values (in the interactive version only). Data can be created using the
 `.Rmd` files in the
 [Repro](https://github.com/SRSteinkamp/ReactionTimeWrangling/exgauss/)
 
-Analysis
---------
+## Analysis
 
 Plotting the summaries for the estimations and pooling over
 distributions, we can draw first (maybe obvious) conclusions:
 
--   larger sample sizes, lead to less error
--   maximum likelihood estimation performs generally better, than the
+- larger sample sizes, lead to less error
+- maximum likelihood estimation performs generally better, than the
     method of moments.
 
 Interestingly, regardless of estimation procedure, the *σ* and *μ*
@@ -204,10 +198,10 @@ parameters seem to be overestimated, whereas *τ* is underestimated.
 
 ### Statistical Summary
 
-#### How strong are the observed biaes?
+#### How strong are the observed biases? 
 
-![](/images/tm0.png) As we
-have already seen in the figure, we confirm that *μ* is generally
+![](/images/tm0.png) 
+As we have already seen in the figure, we confirm that *μ* is generally
 overestimated while, *τ* is underestimated. This makes sense given the
 distribution of the data: The majority of data will be sampled from the
 Gaussian part of the distribution, so extreme-values are relatively
@@ -231,8 +225,7 @@ moments is used. This is expressed by the regressor diff\_mt = *μ* − 
 (based on the original distributions). And again: larger sample sizes
 are the key factor to reduce the error!
 
-Conclusion
-==========
+## Conclusion
 
 If you want to get a good estimate of the reaction time distribution:
 **collect enough data!**
@@ -251,8 +244,7 @@ distribution, it is very likely that the condition with less trials will
 have a higher estimate of these parameters. We can do a small simulation
 of this using our simulated data.
 
-Type 1 error due to imbalanced sample sizes
--------------------------------------------
+### Type 1 error due to imbalanced sample sizes
 
 For simplicity I decided to only use samples from distribution 6 (with
 *μ* = 400, *τ* = 200, and *σ* = 50), estimated by MLE. I am drawing 30
@@ -291,8 +283,7 @@ estimates of Ex-Gauss parameters from the same distribution (but
 estimated using different sample-sizes). The larger the imbalance, the
 larger the false positive rate!
 
-Conclusions not related to analysis
------------------------------------
+### Conclusions not related to analysis
 
 This is the first larger project I conducted in R(markdown). I really
 don’t like the basic R syntax in many regards, but using `dplyr` and the
@@ -301,8 +292,7 @@ interactive figures with `ggplot2` + `plotly` + `crosstalk` is also
 quite amazing. But as I did not want to create a shiny app, figuring out
 how to deal with exploding sizes of .html files took me quite some time.
 
-References
-==========
+## References
 
 Miller, Jeff. 1988. “A Warning About Median Reaction Time.” *Journal of
 Experimental Psychology: Human Perception and Performance* 14 (3):

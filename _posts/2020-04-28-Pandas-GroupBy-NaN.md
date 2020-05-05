@@ -9,7 +9,6 @@ tags:
 
 # A Pandas suprise: NaNs and with groupby
 
-
 ```python
 import pandas as pd
 import numpy as np
