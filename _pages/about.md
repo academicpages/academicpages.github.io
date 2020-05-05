@@ -8,8 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Well, hello there. 
-
-It seems you somehow landed on my blog. 
-
-It's still under construction. But maybe there's something useful. 
+Hi, it seems you arrived on my website/blog. Here are some informations about projects I've recently participated in, publications, some blog posts on the intricacies of reaction time data analysis and some general python snippets. 
+I hope something is useful.

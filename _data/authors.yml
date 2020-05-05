@@ -3,7 +3,7 @@
 Name Name:
   name        : "Simon Steinkamp"
   uri         : "http://srssteinkamp.github.io"
-  email       : "name@name.com"
+  email       : ""
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
+  avatar      : "profile.png"
+  twitter     : "simon_steinkamp"
