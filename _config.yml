@@ -155,6 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -260,6 +261,8 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 
 # Plugins
 plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

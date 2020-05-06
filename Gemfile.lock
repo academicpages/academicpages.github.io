@@ -248,8 +248,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
-  jekyll
   jekyll-feed
+  jekyll-remote-theme
   jekyll-sitemap
   wdm (~> 0.1.0)
 
