@@ -9,6 +9,10 @@ permalink: /research/
 ## Research
 
 **Interpretable Image Recognition with Hierarchical Prototypes**  
+*In ACL 2020.* [[pdf]](https://arxiv.org/abs/2005.01831)  
+Peter Hase, Mohit Bansal
+
+**Interpretable Image Recognition with Hierarchical Prototypes**  
 *In AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/abs/1906.10651)  
 Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin  
 
