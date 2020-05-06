@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Research
 
-**Interpretable Image Recognition with Hierarchical Prototypes**  
+**Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?**  
 *In ACL 2020.* [[pdf]](https://arxiv.org/abs/2005.01831)  
 Peter Hase, Mohit Bansal
 
