@@ -124,7 +124,7 @@ a {
 
 /* code */
 
-tt, code, kbd, samp, pre {
+tt, code, samp, pre {
   font-family: $monospace;
 }
 
@@ -149,6 +149,17 @@ td > code {
     letter-spacing: -0.5em;
     content: "\00a0"; /* non-breaking space*/
   }
+}
+
+/* keyboard tag */
+
+kbd {
+  font-family: $monospace;
+  font-size: $type-size-6;
+  border-radius: 3px;
+  padding: 1px 2px 0;
+  border: 1px solid black;
+  background-color: $code-background-color;
 }
 
 /* horizontal rule */
