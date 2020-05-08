@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Eric Lyon’s lab (http://www.lyonslab.net/) at University of Arizona. My primary research focus is on identification and characterization of long non-coding RNAs while I spend my spare time learning and teaching computational skills to biologists. I am also an active Data Carpentry instructor rooting for open-science.
+I am a PhD candidate in Genetics GIDP program at University of Arizona. My primary research focus is on identification and characterization of long non-coding RNAs while I spend my spare time learning and teaching computational skills to biologists. I am also an active Data Carpentry instructor rooting for open-science.
