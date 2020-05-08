@@ -81,9 +81,9 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 * Sei Spritz Facili, *University of Padua, Department of Physics*, October 2016 - May 2017
   <ul> <li style="list-style-type: none;">Series of six lectures covering the areas over which research is carried out in the Department. Activity of the Padua Local Committee of the Italian Association of Physics Students</li> </ul>
 
-<!--## Awards
+## Honors and awards
 * **Best contributed talk**, during the *4th Italian Conference of Physics Students*
-* **Best poster**, during the *5th Italian Conference of Physics Students*-->
+* **Best poster**, during the *5th Italian Conference of Physics Students*
 
 ## Talks
   <ul>{% for post in site.talks reversed %}
