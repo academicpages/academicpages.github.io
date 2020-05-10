@@ -1,0 +1,125 @@
+/* ==========================================================================
+   SEARCH
+   ========================================================================== */
+
+.layout--search {
+  .archive__item-teaser {
+    margin-bottom: 0.25em;
+  }
+}
+
+.search__toggle {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  border: 0;
+  outline: none;
+  color: $muted-text-color;
+  background-color: transparent;
+  cursor: pointer;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+
+  &:hover {
+    color: $text-color;
+  }
+}
+
+.search-icon {
+  width: 100%;
+  height: 100%;
+}
+
+.search-content {
+  display: none;
+  visibility: hidden;
+  padding-top: 1em;
+  padding-bottom: 1em;
+
+  &__inner-wrap {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    -webkit-animation: $intro-transition;
+    animation: $intro-transition;
+    -webkit-animation-delay: 0.15s;
+    animation-delay: 0.15s;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+  }
+
+  .search-input {
+    display: block;
+    margin-bottom: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background-color: transparent;
+    font-size: $type-size-3;
+
+    @include breakpoint($large) {
+      font-size: $type-size-2;
+    }
+
+    @include breakpoint($x-large) {
+      font-size: $type-size-1;
+    }
+  }
+
+  &.is--visible {
+    display: block;
+    visibility: visible;
+
+    &::after {
+      content: "";
+      display: block;
+    }
+  }
+
+  .results__found {
+    margin-top: 0.5em;
+    font-size: $type-size-6;
+  }
+
+  .archive__item {
+    margin-bottom: 2em;
+
+    @include breakpoint($large) {
+      width: 75%;
+    }
+
+    @include breakpoint($x-large) {
+      width: 50%;
+    }
+  }
+
+  .archive__item-title {
+    margin-top: 0;
+  }
+
+  .archive__item-excerpt {
+    margin-bottom: 0;
+  }
+}
+
+/* Algolia search */
+
+.ais-search-box {
+  max-width: 100% !important;
+  margin-bottom: 2em;
+}
+
+.archive__item-title .ais-Highlight {
+  color: $link-color;
+  font-style: normal;
+  text-decoration: underline;
+}
+.archive__item-excerpt .ais-Highlight {
+  color: $link-color;
+  font-style: normal;
+  font-weight: bold;
+}

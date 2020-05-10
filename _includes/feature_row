@@ -1,7 +1,5 @@
-{% include base_path %}
-
 {% if include.id %}
-  {% assign feature_row = page.[include.id] %}
+  {% assign feature_row = page[include.id] %}
 {% else %}
   {% assign feature_row = page.feature_row %}
 {% endif %}
@@ -13,7 +11,7 @@
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
     {% else %}
-      {% capture f_url %}{{ f.url | prepend: base_path }}{% endcapture %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
@@ -24,9 +22,12 @@
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
               {% else %}
-                "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
+                "{{ f.image_path | relative_url }}"
               {% endif %}
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
           </div>
         {% endif %}
 
