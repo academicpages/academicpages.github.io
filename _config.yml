@@ -11,9 +11,9 @@ title                    : "Vinicius / About me"
 title_separator          : "-"
 name                     : &name "Vinicius Rodrigues de Oliveira"
 description              : &description "Student of Computer Science passionate about technology"
-url                      : https://pihrodrigues.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pirodriguees.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "/pirodriguees/pirodriguees.github.io"
+repository               : "pirodriguees.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
