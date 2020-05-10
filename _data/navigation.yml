@@ -1,11 +1,8 @@
-# main links links
+# main links
 main:
+  - title: "Home"
+    url: https://jacklandry.github.io/
   - title: "Research"
-    url: /research/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Resume"
-    url: /files/jack_resume.pdf
-    
+    url: /pages/Research/
+  - title: "CV"
+    url: /papers/CV_Hollenbach.pdf
