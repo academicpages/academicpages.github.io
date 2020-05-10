@@ -1,6 +1,6 @@
 ---
-title: Research
-description: Jack Landry's Working Papers
+title:
+description: 
 type: pages
 layout: single
 author_profile: false
