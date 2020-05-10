@@ -1,2 +1,4 @@
 To do: Add an abtract button https://github.com/gcushen/hugo-academic/issues/1633
 Want to save anyone with a good website with features I want to copy
+
+To make a blog section: go to /Users/jacklandry/Documents/GitHub/jacklandry.github.io/_data/navigation.yml and add a new header for blog, then add a pages thing in markdown for hyperlinks to the posts /Users/jacklandry/Documents/GitHub/jacklandry.github.io/pages then I think I can have html from the posts in R... not sure about that part..
