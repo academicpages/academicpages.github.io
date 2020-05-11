@@ -5,4 +5,7 @@ Want to keep the right hand side thing when I go to research page. For http://fh
 
 The footer is still weird
 
+Need to add this to the config: 
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+
 To make a blog section: go to /Users/jacklandry/Documents/GitHub/jacklandry.github.io/_data/navigation.yml and add a new header for blog, then add a pages thing in markdown for hyperlinks to the posts /Users/jacklandry/Documents/GitHub/jacklandry.github.io/pages then I think I can have html from the posts in R... not sure about that part..

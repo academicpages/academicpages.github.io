@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Jack Landry"
 title_separator          : "-"
 name                     : "Jack Landry"
 description              : "Jack Landry's Website."
 url                      :  "https://jacklandry.github.io"
 baseurl                  : #"/index.html" # the subpath of your site, e.g. "/index"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : JackLandry/jacklandry.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 
@@ -60,9 +60,9 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://jacklandry.github.io"
 
-# - label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/fhollenbach"
+ - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JackLandry"
 
 
 
