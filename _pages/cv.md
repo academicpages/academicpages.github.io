@@ -73,24 +73,12 @@ Awards & Honours
 
 Technical Skills
 ======
-* _Optimization_
-  * CPLEX
-  * Gurobii
-* _Programming_
-  * Python
-  * MATLAB
-  * C++
-  * Lindo
-  * AMPL
-* _Statistical Package_
-  * Minitab
-  * Excel
-* _Representation_
-  * Latex
-  * Origin Pro
-  * MS Office
+* _Optimization_ : CPLEX, Gurobi
+* _Programming_ : Python, AMPL, MATLAB, C++, Lindo
+* _Statistical Package_ : Minitab, Excel
+* _Representation_ : Latex, Origin Pro, Ms Office
 
-{% include skills.html %}
+/* {% include skills.html %} */
 
 
 Teaching
