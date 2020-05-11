@@ -3,7 +3,7 @@ title:
 description: 
 type: pages
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 [The Effect of Voter ID Laws on Beliefs in Electoral Integrity](../papers/attitudes_voter_id.pdf) 
