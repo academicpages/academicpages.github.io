@@ -73,12 +73,16 @@ Awards & Honours
 
 Technical Skills
 ======
+Mixed-integer programming, network structures and algorithms, graphs, modeling techniques.
+
+Software Skills
+======
 * _Optimization_ : CPLEX, Gurobi
 * _Programming_ : Python, AMPL, MATLAB, C++, Lindo
 * _Statistical Package_ : Minitab, Excel
 * _Representation_ : Latex, Origin Pro, Ms Office
 
-/* {% include skills.html %} */
+<!-- {% include skills.html %} -->
 
 
 Teaching
