@@ -97,18 +97,16 @@ Teaching
   * _School of Computing, Informatics and Decision Systems Engineering, ASU, USA._
     * IEE 620 - Optimization I - (Advisor - Dr. Jorge Sefair)
 
-Graduate Coursework
+Graduate Coursework (some selected)
 ======
 * Spring 2020
   * Modeling with Game Theory (AML 591)
   * Bio-inspired AI and Optimization (IEE 598)
-  * Advanced Quality Control (IEE 570)
 * Fall 2019
   * Foundation of Algorithms (CSE 551)
   * Graph Theory 1 (MAT 516)
-  * Operations Research in Healthcare (IEE 526)
 * Spring 2019
-  * Optimization II (IEE 622) * ABC
+  * Optimization II (IEE 622)
   * Network Flow and Algorithms (IEE 598)
   * Foundation of Information Systems (IEE 605)
 * Fall 2018
