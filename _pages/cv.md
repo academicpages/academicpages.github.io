@@ -108,7 +108,7 @@ Graduate Coursework
   * Graph Theory 1 (MAT 516)
   * Operations Research in Healthcare (IEE 526)
 * Spring 2019
-  * Optimization II (IEE 622)
+  * Optimization II (IEE 622) * ABC
   * Network Flow and Algorithms (IEE 598)
   * Foundation of Information Systems (IEE 605)
 * Fall 2018
