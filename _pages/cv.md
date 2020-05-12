@@ -14,7 +14,7 @@ For a PDF version of my CV, <u><a href="https://percyjackson9.github.io/files/CV
 Education
 ======
 * **Doctor of Philosophy**, in Industrial Engineering, Arizona State University, 2023 (expected)
-  * GPA: 3.86/4 (till Fall 2019)
+  * GPA: 3.92/4 (till Spring 2020)
   * Topic: Large scale optimization of network models using combinatorial algorithms.
 * **Bachelor of Engineering**, in Production Engineering, Jadavpur University, 2018
   * GPA : 8.96/10 (absolute scale) First Class with Honours.
