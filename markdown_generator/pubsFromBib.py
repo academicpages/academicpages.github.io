@@ -19,6 +19,8 @@
 from pybtex.database.input import bibtex
 import pybtex.database.input.bibtex 
 from time import strptime
+import latexcodec 
+import codecs
 import string
 import html
 import os
@@ -26,14 +28,7 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
-    },
+
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
@@ -56,7 +51,8 @@ def html_escape(text):
 
 for pubsource in publist:
     parser = bibtex.Parser()
-    bibdata = parser.parse_file(publist[pubsource]["file"])
+    with codecs.open(publist[pubsource]["file"], encoding="latex") as stream:
+        bibdata = parser.parse_file(stream)
 
     #loop through the individual references in a given bibtex file
     for bib_id in bibdata.entries:
