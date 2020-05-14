@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Helping Sarah with Latex"
 collection: teaching
-type: "Undergraduate course"
+type: "Lockdown Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
