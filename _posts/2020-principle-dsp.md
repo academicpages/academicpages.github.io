@@ -1,7 +1,7 @@
 ---
-title: 'LaTeX Cheet Sheet'
+title: 'Fundamental Principles of Digital Signal Processing'
 date: 2020-05-14
-permalink: /posts/2020/02/latex-cheet-sheet/
+permalink: /posts/2020/05/dsp/
 tags:
   - Digital Signal Processing
   - Writing
