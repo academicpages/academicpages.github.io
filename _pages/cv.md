@@ -12,9 +12,11 @@ redirect_from:
 ## Education
 
 - **PhD**, Biological Engineering, MIT (2016)
-    - Thesis: *Quantitative modeling for microbial ecology and clinical trials*
+    - Thesis: *Quantitative modeling for microbial ecology and clinical trials* ([MIT Dspace](https://dspace.mit.edu/handle/1721.1/107277))
     - Advisor: [Eric Alm](https://be.mit.edu/directory/eric-alm)
 - **MPhil**, Chemistry, University of Cambridge (2012)
+    - Thesis: *Coarse-grained models of chiral assemblies* ([pdf](/files/olesen-2012-thesis.pdf))
+    - Advisor: [David Wales](https://en.wikipedia.org/wiki/David_J._Wales)
 - **MASt**, Applied Mathematics & Theoretical Physics, University of Cambridge (2011)
 - **BA** *magna cum laude* with Highest Honors, Physics, Williams College (2010)
 
