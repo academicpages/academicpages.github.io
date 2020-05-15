@@ -52,23 +52,23 @@
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong><!--</p></p>-->
     {% endif %}
 
     {% if post.citation and post.paperurl %}
       <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.paperurl }}" target="_blank">Article webpage</a></p>
     {% elsif post.citation and post.preprinturl %}
-      <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
+      <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.preprinturl }}" target="_blank">Preprint webpage</a></p>
     {% elsif post.citation and post.paperurl and post.preprinturl %}
-      <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.paperurl }}" target="_blank">Article webpage</a>, <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
+      <p><b><i>Recommended citation</i></b>: {{ post.citation }} <br><br> <a href="{{ post.paperurl }}" target="_blank">Article webpage</a><!--, <a href="{{ post.preprinturl }}" target="_blank">Preprint webpage</a>--></p>
     {% elsif post.citation %}
       <p><b><i>Recommended citation</i></b>: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p><a href="{{ post.paperurl }}" target="_blank">Article webpage</a></p>
     {% elsif post.preprinturl %}
-      <p><a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
+      <p><a href="{{ post.preprinturl }}" target="_blank">Preprint webpage</a></p>
     {% elsif post.paperurl and post.preprinturl %}
-      <p><a href="{{ post.paperurl }}" target="_blank">Article webpage</a>, <a href="{{ post.preprinturl }}" target="_blank">Preprint website</a></p>
+      <p><a href="{{ post.paperurl }}" target="_blank">Article webpage</a><!--, <a href="{{ post.preprinturl }}" target="_blank">Preprint webpage</a>--></p>
     {% endif %}
 
   </article>

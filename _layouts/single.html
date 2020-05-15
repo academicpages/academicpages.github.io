@@ -46,17 +46,17 @@ layout: default
         {% if page.citation and page.paperurl %}
           <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.paperurl }}" target="_blank">Article webpage</a></p>
         {% elsif page.citation and page.preprinturl %}
-          <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.preprinturl }}" target="_blank">Preprint website</a></p>
+          <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.preprinturl }}" target="_blank">Preprint webpage</a></p>
         {% elsif page.citation and page.paperurl and page.preprinturl %}
-          <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.paperurl }}" target="_blank">Article webpage</a>, <a href="{{ page.preprinturl }}" target="_blank">Preprint website</a></p>
+          <p><b><i>Recommended citation</i></b>: {{ page.citation }} <br><br> <a href="{{ page.paperurl }}" target="_blank">Article webpage</a><!--, <a href="{{ page.preprinturl }}" target="_blank">Preprint webpage</a>--></p>
         {% elsif page.citation %}
           <p><b><i>Recommended citation</i></b>: {{ page.citation }} </p>
         {% elsif page.paperurl %}
           <p><a href="{{ page.paperurl }}" target="_blank">Article webpage</a></p>
         {% elsif page.preprinturl %}
-          <p><a href="{{ page.preprinturl }}" target="_blank">Preprint website</a></p>
+          <p><a href="{{ page.preprinturl }}" target="_blank">Preprint webpage</a></p>
         {% elsif page.paperurl and page.preprinturl %}
-          <p><a href="{{ page.paperurl }}" target="_blank">Article webpage</a>, <a href="{{ page.preprinturl }}" target="_blank">Preprint website</a></p>
+          <p><a href="{{ page.paperurl }}" target="_blank">Article webpage</a><!--, <a href="{{ page.preprinturl }}" target="_blank">Preprint webpage</a>--></p>
         {% endif %}
 
         </header>
