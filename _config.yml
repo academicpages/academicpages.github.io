@@ -193,10 +193,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _notes
   - scope:
       path: ""
-      type: posts
+      type: notes
     values:
       layout: single
       author_profile: true
