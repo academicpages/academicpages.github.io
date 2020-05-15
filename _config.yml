@@ -185,18 +185,15 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
-  notes:
-    output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/  
 
 
 # Defaults
 defaults:
-  # _notes
+  # _posts
   - scope:
       path: ""
-      type: notes
+      type: posts
     values:
       layout: single
       author_profile: true
