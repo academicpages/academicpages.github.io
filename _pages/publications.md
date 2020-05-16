@@ -12,6 +12,9 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 * **GraLSP: Graph Neural Networks with Local Structural Patterns** \[[pdf](https://arxiv.org/pdf/1911.07675.pdf)\] <br>
 **Yilun Jin**, Guojie Song, Chuan Shi. In *The 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020
 
+* **Graph Structural-topic Neural Network** <br>
+Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Yi Li, Wei Lin. To appear in *The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2020
+
 * **EPNE: Evolutionary Pattern Preserving Network Embedding** <br>
 Junshan Wang<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Xiaojun Ma. To appear in *The 24th European Conference on Artificial Intelligence (ECAI)*, 2020
 
