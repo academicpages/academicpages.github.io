@@ -1,0 +1,22 @@
+.publications {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 50px auto;
+}
+
+.publication-thumbnail {
+  width: 400px;
+  height: auto;
+  margin-right: 5px;
+  @include breakpoint($x-large) {
+    width: 300px;
+  }
+}
+
+.publication-description {
+  width: 400px;
+  @include breakpoint($x-large) {
+    width: 600px;
+  }
+}
