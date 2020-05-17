@@ -2,15 +2,15 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin: 50px auto;
+  margin: 25px auto;
 }
 
 .publication-thumbnail {
   width: 400px;
   height: auto;
-  margin-right: 5px;
+  margin-right: 10px;
   @include breakpoint($x-large) {
-    width: 300px;
+    width: 330px;
   }
 }
 
