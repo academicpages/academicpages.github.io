@@ -6,17 +6,18 @@
 }
 
 .publication-thumbnail {
-  width: 400px;
+  width: 490px;
   height: auto;
   margin-right: 10px;
+  margin-bottom: 10px;
   @include breakpoint($x-large) {
-    width: 330px;
+    width: 310px;
   }
 }
 
 .publication-description {
-  width: 400px;
+  width: 500px;
   @include breakpoint($x-large) {
-    width: 600px;
+    width: 630px;
   }
 }
