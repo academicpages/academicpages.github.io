@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - grep.sh
 keep_files:
   - .git
   - .svn

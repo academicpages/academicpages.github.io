@@ -34,6 +34,20 @@
   }
 }
 
+.page-home {
+  @extend .page;
+  text-align: center;
+  .page__title {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 3em;
+    color: #000994;
+  }
+  .page__content {
+    font-size: 1.15em;
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
