@@ -33,6 +33,7 @@ title: "Teaching Materials"
 
 ### PS 3090: The Scientific Study of Civil Wars
 - [Regression in 10 Minutes](/files/pdf/teaching-materials/3090 1-27.pdf)
+- [What's in a War?](/files/pdf/teaching-materials/3090 1-29.pdf)
 
 ### ICPSR: Introduction to Applied Bayesian Modeling
 - [Using Stan to Estimate Bayesian Models](/files/html/teaching-materials/Bayes_Lab)
