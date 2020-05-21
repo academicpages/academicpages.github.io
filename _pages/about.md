@@ -16,8 +16,9 @@ and
 Professor [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/)
 .
 The main topics of my research interests include formal methods of modeling, analysis and verification of applications. 
-I specifically focus on automated debugging/generation of
-verifiably correct and scalable distributed database applications.
+I specifically focus on compilation, synthesis and testing of modern database-backed programs.
+
+I am currently interning at [Microsoft Research](https://www.microsoft.com/en-us/research/), working under the supervision of Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
 
 
