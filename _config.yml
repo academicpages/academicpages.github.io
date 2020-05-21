@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Ilya Kolb"
 title_separator          : "-"
 name                     : &name "Ilya Kolb"
 description              : &description "Ilya Kolb personal website"
