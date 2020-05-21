@@ -5,9 +5,17 @@ author_profile: true
 ---
 ## 2020
 
+<b>[C12] Imaging genetics strategies for predicting the quality of sleep using depression-specific biomarkers</b> <br>
+**Mansu Kim**, Xiaohui Yao, Bo-yong Park, and Li Shen*. <br>
+<i>Organization for Human Brain Mapping Ann Meeting, 2020.</i>
+
+<b>[C11] Genome-wide brain-wide analysis of betweenness centrality: A structural connectome study</b> <br>
+Shan Cong, Xiaohui Yao, **Mansu Kim**, Linhui Xie, Jingwen Yan, and Li Shen* <br>
+<i>Organization for Human Brain Mapping Ann Meeting, 2020</i>
+
 <b>[C10] Deep network-based feature selection for imaging genetics: Application to identifying biomarkers for Parkinson's disease</b> <br>
-**Mansu Kim**, Ji Hye Won, Jisu Hong, Junmo Kwon, Hyunjin Park, and Li Shen*. <br>
-<i>The IEEE International Symposium on Biomedical Imaging, 2020.</i>
+**Mansu Kim**, Ji Hye Won, Jisu Hong, Junmo Kwon, Hyunjin Park, and Li Shen* <br>
+<i>The IEEE International Symposium on Biomedical Imaging, 2020</i>
 
 ## 2019
 
