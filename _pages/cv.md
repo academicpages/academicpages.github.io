@@ -17,9 +17,9 @@ Education
 Work experience
 ======
 * Summer 2018: Research Intern, Koc University, Turkey
-  * Worked in background subtraction using deep learning techniques.
+  * Worked on background subtraction using deep learning techniques.
 * Fall 2016: Teaching Assistant, Bogazici University, Turkey
-  * Prepared and gave bimonthly problem sessions for the course ’Electric Circuit Theory’.
+  * Prepared and gave biweekly problem sessions for the course ’Electric Circuit Theory’.
   
 Skills
 ======
