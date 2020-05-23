@@ -1,5 +1,5 @@
 ---
-title: "Multiple change point detection - application to physiological signals"
+title: "Multiple change point detection - application to physiological signals (PhD thesis)"
 collection: publications
 permalink: /publication/phd-thesis
 excerpt: 'This work addresses the problem of detecting multiple change points in (univariate or multivariate) physiological signals.'
