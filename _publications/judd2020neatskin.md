@@ -14,4 +14,6 @@ In this paper we present NeatSkin, a novel artificial skin sensor based on elect
 
 [Download paper here](https://research-information.bris.ac.uk/files/221911032/Robosoft_2020_v3.pdf)
 
+[Watch the talk on YouTube](youtu.be/mRZc26OiJSY)
+
 Recommended citation: Judd E, Digumarti KM, Rossiter J, Hauser H., 2020, April. NeatSkin: A Discrete Impedance Tomography Skin Sensor. In <i>2020 IEEE International Conference on Soft Robotics (RoboSoft)</i>. IEEE.
