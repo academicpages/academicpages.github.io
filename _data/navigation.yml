@@ -4,5 +4,7 @@ main:
     url: https://jacklandry.github.io/
   - title: "Research"
     url: /pages/Research/
+    - title: "Research"
+      url: /pages/Blog/
   - title: "Resume"
     url: /papers/CV_Jack_Landry.pdf
