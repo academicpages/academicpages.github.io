@@ -71,7 +71,7 @@ include:
   - .htaccess
   - pages
   - papers
-  - blog 
+#  - blog
 #include: ["_pages"]
 exclude:
   - "*.sublime-project"
