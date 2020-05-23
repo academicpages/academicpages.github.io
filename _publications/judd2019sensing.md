@@ -2,7 +2,7 @@
 title: "Sensing Through the Body-Non-Contact Object Localisation Using Morphological Computation."
 collection: publications
 permalink: /publications/judd2019sensing
-excerpt: 'The body of a soft tentacle can be used to “feel” the location of an object by observing its own body dynamics.'
+excerpt: 'The body of a soft tentacle can be used to “feel” the location of an object by observing its own body dynamics and using its soft body dynamics as a computational resource.'
 venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
 paperurl: 'https://research-information.bris.ac.uk/files/221911128/RoboSoft_2019_Published.pdf'
 date: 2019-04-14
