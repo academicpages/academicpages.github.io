@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechanical Engineering, University of Aberdeen, 2014
+* Ph.D in Robotics, University of Bristol, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2013: Research Assistant
+  * University of Aberdeen
+  * Duties included: Worked on the Fast Field-Cycling MRI project at Aberdeen Biomedical Imaging Centre.
+  * Supervisor: Professor David Lurie
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2016 - Spring 2017: Management Consultant
+  * Burgess Management Consultants
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C++, MATLAB
+* Workshop skills: casting, fitting, 3D printing, laser cutting.
+* Modelling and simulation: SolidWorks, COMSOL, ANSYS, Inkscape.
+* Tools and technologies: machine learning, optimisation, computer-based simulation, image processing, modelling, microcontroller programming.
+
+Awards and Achievements
+======
+* 1st Place for undergraduate thesis, Scottish Hydraulics Study Group Undergraduate Prize, 2014.
 
 Publications
 ======
@@ -54,6 +53,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Voluntary Work and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer, Raleigh International, Summer 2012.
