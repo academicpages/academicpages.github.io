@@ -42,4 +42,4 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # PhD thesis
 
-Truong, C. (2018). Multiple change point detection - application to physiological signals. Université Paris-Saclay. [[abstract]](https://deepcharles.github.io/publication/phd-thesis) [[hal]](https://tel.archives-ouvertes.fr/tel-01984997) [[pdf]](https://tel.archives-ouvertes.fr/tel-01984997/file/74381_TRUONG_2018_archivage.pdf) 
+**Truong, C.** (2018). Multiple change point detection - application to physiological signals. Université Paris-Saclay. [[abstract]](https://deepcharles.github.io/publication/phd-thesis) [[hal]](https://tel.archives-ouvertes.fr/tel-01984997) [[pdf]](https://tel.archives-ouvertes.fr/tel-01984997/file/74381_TRUONG_2018_archivage.pdf) 
