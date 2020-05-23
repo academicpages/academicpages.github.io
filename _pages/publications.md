@@ -39,3 +39,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 1. Oudre, L., Barrois-Müller, R., Moreau, T., **Truong, C.**, Dadashi, R., Grégory, T., Ricard, D., Vayatis, N., De Waele, C., Yelnik, A., & Vidal, P.-P. (2015). Détection automatique des pas à partir de capteurs inertiels pour la quantification de la marche en consultation. Neurophysiologie Clinique/Clinical Neurophysiology, 45(4–5), 394. [[doi]](https://doi.org/10.1016/j.neucli.2015.10.015) [[pdf]](https://deepcharles.github.io/files/SOFPELDetec2015.pdf)
 
 1. Audiffren, J., Barrois-Müller, R., Provost, C., Chiarovano, É., Oudre, L., Moreau, T., **Truong, C.**, Yelnik, A., Vayatis, N., Vidal, P.-P., De Waele, C., Buffat, S., & Ricard, D. (2015). Évaluation de l'équilibre et prédiction des risques de chutes en utilisant une Wii board balance. Neurophysiologie Clinique/Clinical Neurophysiology, 45(4–5), 403. [[doi]](https://doi.org/10.1016/j.neucli.2015.10.038) [[pdf]](https://deepcharles.github.io/files/SOFPELWii2015.pdf)
+
+# PhD thesis
+
+Truong, C. (2018). Multiple change point detection - application to physiological signals. Université Paris-Saclay. [[abstract]](https://deepcharles.github.io/publication/phd-thesis) [[hal]](https://tel.archives-ouvertes.fr/tel-01984997) [[pdf]](https://tel.archives-ouvertes.fr/tel-01984997/file/74381_TRUONG_2018_archivage.pdf) 
