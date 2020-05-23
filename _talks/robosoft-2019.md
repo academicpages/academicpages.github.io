@@ -1,5 +1,5 @@
 ---
-title: "Lecture at the IEEE International Conference on Soft Robotics (Robosoft) 2019"
+title: "Talk at the IEEE International Conference on Soft Robotics (Robosoft) 2019"
 collection: talks
 type: "Talk"
 permalink: /talks/robosoft-2019
