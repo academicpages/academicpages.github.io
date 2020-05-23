@@ -3,7 +3,7 @@ title: "Conference Proceeding talk at the IEEE International Conference on Soft 
 collection: talks
 type: "Talk"
 permalink: /talks/robosoft-2019
-venue: "COEX, Seoul, Korea"
+venue: "COEX"
 date: 2019-04-15
 location: "Seoul, Korea"
 ---
