@@ -16,13 +16,11 @@ Education
 
 Work experience
 ======
-* Summer 2013: Research Assistant
-  * University of Aberdeen
-  * Duties included: Worked on the Fast Field-Cycling MRI project at Aberdeen Biomedical Imaging Centre.
+* Summer 2013: Research Assistant, University of Aberdeen
+  * Worked on the Fast Field-Cycling MRI project at Aberdeen Biomedical Imaging Centre.
   * Supervisor: Professor David Lurie
 
-* Spring 2016 - Spring 2017: Management Consultant
-  * Burgess Management Consultants
+* Spring 2016 - Spring 2017: Management Consultant, Burgess Management Consultants
   
 Skills
 ======
