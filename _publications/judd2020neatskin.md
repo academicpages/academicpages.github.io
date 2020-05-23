@@ -2,7 +2,7 @@
 title: "NeatSkin: A Discrete Impedance Tomography Skin Sensor"
 collection: publications
 permalink: /publications/judd2020neatskin
-excerpt: ''
+excerpt: 'NeatSkin is an artificial skin sensor used to infer the location of touch employing discrete impedance tomography and machine learning.'
 venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
 paperurl: 'https://research-information.bris.ac.uk/files/221911032/Robosoft_2020_v3.pdf'
 date: 2020-04-06
