@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/judd2020neatskin
 excerpt: ''
 venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
-paperurl: 'https://research-information.bris.ac.uk/en/publications/neatskin(f2e249c9-dba6-4b9a-9d6c-142356e8b6e3).html'
+paperurl: 'https://research-information.bris.ac.uk/files/221911032/Robosoft_2020_v3.pdf'
 date: 2020-05-15
-citation: 'Judd E, Digumarti KM, Rossiter J, Hauser H. NeatSkin: A Discrete Impedance Tomography Skin Sensor. In 2020 IEEE International Conference on Soft Robotics (RoboSoft) 2020 Apr 6. IEEE.'
+citation: 'Judd E, Digumarti KM, Rossiter J, Hauser H., 2020, April. NeatSkin: A Discrete Impedance Tomography Skin Sensor. In <i>2020 IEEE International Conference on Soft Robotics (RoboSoft)</i>. IEEE.'
 ---
 
 ## Abstract
