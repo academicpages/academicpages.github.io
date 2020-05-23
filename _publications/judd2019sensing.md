@@ -1,7 +1,7 @@
 ---
 title: "Sensing Through the Body-Non-Contact Object Localisation Using Morphological Computation."
 collection: publications
-permalink: /publications/judd2020neatskin
+permalink: /publications/judd2019sensing
 excerpt: ''
 venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
 paperurl: 'https://research-information.bris.ac.uk/files/221911128/RoboSoft_2019_Published.pdf'
