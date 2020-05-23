@@ -12,6 +12,15 @@ author_profile: true
 
 ## Academic publications
 
+**Claire Duvallet**, Bryan D Hayes, Timothy B Erickson, Peter R Chai, Mariana Matus.   
+"Mapping community opioid exposure through wastewater-based epidemiology as a
+means to engage pharmacies in harm reduction efforts."   
+_Preventing Chronic Disease_ (in press).   
+
+Fuqing Wu, Amy Xiao, Jianbo Zhang, Xiaoqiong Gu, Wei Lin Lee, Kathryn Kauffman, William Hanage, Mariana Matus, Newsha Ghaeli, Noriko Endo, **Claire Duvallet**, Katya Moniz, Timothy Erickson, Peter Chai, Janelle Thompson, Eric Alm.
+"SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases."   
+_medRxiv_ (2020). doi: [10.1101/2020.04.05.20051540](https://doi.org/10.1101/2020.04.05.20051540)
+
 **Claire Duvallet**.
 "Data detectives, self-love, and humility: a research parasite's perspective."    
 _GigaScience_ (2020). doi: [10.1093/gigascience/giz148](https://doi.org/10.1093/gigascience/giz148).   
