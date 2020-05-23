@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a PhD student in robotics in the [Soft Robotics Group](http://www.bristol.ac.uk/engineering/research/softlab/) at the University of Bristol and Bristol Robotics Laboratory under the supervision of Dr Helmut Hauser and Professor Jonathan Rossiter.
+I am a PhD student in the [Soft Robotics Group](http://www.bristol.ac.uk/engineering/research/softlab/) at the University of Bristol and Bristol Robotics Laboratory. I work with Dr Helmut Hauser and Professor Jonathan Rossiter on soft robotic sensors, machine learning and optimisation.
 
 Curriculum Vitae
 ------
