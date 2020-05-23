@@ -1,7 +1,7 @@
 ---
 title: "Multiple change point detection - application to physiological signals"
 collection: publications
-permalink: /publication/pdh-thesis
+permalink: /publication/phd-thesis
 excerpt: 'This work addresses the problem of detecting multiple change points in (univariate or multivariate) physiological signals.'
 date: 2018-01-01
 venue: 'Ecole Normale Supérieure Paris-Saclay'
