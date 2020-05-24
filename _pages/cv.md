@@ -13,11 +13,11 @@ A pdf version can be viewed [here](https://euanjudd.github.io/files/EuanJuddCVMa
 
 Education
 ======
-* B.Eng. in Mechanical Engineering (First-Class Honours), University of Aberdeen, 2014
+* BEng in Mechanical Engineering (First-Class Honours), University of Aberdeen, 2014
   * Thesis: Flow-seaweed interactions at a blade scale: implications for bio-fuel aquaculture.
   * Advisor: Professor Vladimir Nikora
   
-* Ph.D in Robotics, University of Bristol, 2021 (expected)
+* PhD in Robotics, University of Bristol, 2021 (expected)
   * Thesis: Sensing Through the Body.
   * Advisors: Dr Helmut Hauser and Professor Jonathan Rossiter
   
