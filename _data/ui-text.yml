@@ -8,25 +8,26 @@ en: &DEFAULT_EN
   pagination_next            : "Next"
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
-  toc_label                  : "On This Page"
-  ext_link_label             : "Direct Link"
+  menu_label                 : "Toggle menu"
+  toc_label                  : "On this page"
+  ext_link_label             : "Direct link"
   less_than                  : "less than"
   minute_read                : "minute read"
   share_on_label             : "Share on"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
-  date_label                 : "Published:"
-  comments_label             : "Leave a Comment"
+  date_label                 : "Updated:"
+  comments_label             : "Leave a comment"
   comments_title             : "Comments"
-  more_label                 : "Learn More"
-  related_label              : "You May Also Enjoy"
+  more_label                 : "Learn more"
+  related_label              : "You may also enjoy"
   follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
-  recent_posts               : "Recent Posts"
+  recent_posts               : "Recent posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
   comment_form_comment_label : "Comment"
@@ -34,11 +35,14 @@ en: &DEFAULT_EN
   comment_form_name_label    : "Name"
   comment_form_email_label   : "Email address"
   comment_form_website_label : "Website (optional)"
-  comment_btn_submit         : "Submit Comment"
+  comment_btn_submit         : "Submit comment"
   comment_btn_submitted      : "Submitted"
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
+  search_placeholder_text    : "Enter your search term..."
+  results_found              : "Result(s) found"
+  back_to_top                : "Back to top"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -49,13 +53,14 @@ en-AU:
   <<: *DEFAULT_EN
 
 # Spanish
-# --------------
+# -------
 es: &DEFAULT_ES
   page                       : "Página"
   pagination_previous        : "Anterior"
   pagination_next            : "Siguiente"
   breadcrumb_home_label      : "Inicio"
   breadcrumb_separator       : "/"
+  menu_label                 :
   toc_label                  : "Contenidos"
   ext_link_label             : "Enlace"
   less_than                  : "menos de"
@@ -76,61 +81,65 @@ es: &DEFAULT_ES
   email_label                : "Email"
   recent_posts               : "Entradas recientes"
   undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
+  comment_form_info          : "Su dirección de correo no será publicada. Se han resaltado los campos requeridos"
+  comment_form_comment_label : "Comentario"
+  comment_form_md_info       : "Markdown está soportado."
+  comment_form_name_label    : "Nombre"
+  comment_form_email_label   : "Dirección de E-mail"
+  comment_form_website_label : "Sitio web (opcional)"
+  comment_btn_submit         : "Enviar Commentario"
+  comment_btn_submitted      : "Enviado"
+  comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
+  comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
+  loading_label              : "Cargando..."
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
 
 # French
-# -----------------
+# ------
 fr: &DEFAULT_FR
   page                       : "Page"
   pagination_previous        : "Précédent"
   pagination_next            : "Suivant"
   breadcrumb_home_label      : "Accueil"
   breadcrumb_separator       : "/"
+  menu_label                 : "Menu"
   toc_label                  : "Sur cette page"
   ext_link_label             : "Lien direct"
-  less_than                  : "plus petit que"
-  minute_read                : "minute de lecture"
+  less_than                  : "moins de"
+  minute_read                : "minute(s) de lecture"
   share_on_label             : "Partager sur"
   meta_label                 :
   tags_label                 : "Tags :"
   categories_label           : "Catégories :"
   date_label                 : "Mis à jour :"
   comments_label             : "Laisser un commentaire"
-  comments_title             :
+  comments_title             : "Commentaires"
   more_label                 : "Lire plus"
-  related_label              : "Vous pourriez aimer"
-  follow_label               : "Suivez moi"
+  related_label              : "Vous pourriez aimer aussi"
+  follow_label               : "Contact"
   feed_label                 : "Flux"
   powered_by                 : "Propulsé par"
   website_label              : "Site"
   email_label                : "Email"
   recent_posts               : "Posts récents"
   undefined_wpm              : "Le paramètre words_per_minute n'est pas défini dans _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
+  comment_form_info          : "Votre adresse email ne sera pas visible. Les champs obligatoires sont marqués"
+  comment_form_comment_label : "Commentaire"
+  comment_form_md_info       : "Markdown est supporté."
+  comment_form_name_label    : "Nom"
+  comment_form_email_label   : "Adresse mail"
+  comment_form_website_label : "Site web (optionnel)"
+  comment_btn_submit         : "Envoyer"
+  comment_btn_submitted      : "Envoyé"
+  comment_success_msg        : "Merci pour votre commentaire, il sera visible sur le site une fois approuvé."
+  comment_error_msg          : "Désolé, une erreur est survenue lors de la soumission. Vérifiez que les champs obligatoires ont été remplis et réessayez."
+  loading_label              : "Chargement..."
+  search_placeholder_text    : "Entrez votre recherche..."
+  results_found              : "Aucun résultat trouvé"
+  back_to_top                : "Retour en haut"
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:
@@ -139,13 +148,14 @@ fr-CH:
   <<: *DEFAULT_FR
 
 # Turkish
-# -----------------
+# -------
 tr: &DEFAULT_TR
   page                       : "Sayfa"
   pagination_previous        : "Önceki"
   pagination_next            : "Sonraki"
   breadcrumb_home_label      : "Ana Sayfa"
   breadcrumb_separator       : "/"
+  menu_label                 :
   toc_label                  : "İçindekiler"
   ext_link_label             : "Doğrudan Bağlantı"
   less_than                  : "Şu süreden az: "
@@ -156,7 +166,7 @@ tr: &DEFAULT_TR
   categories_label           : "Kategoriler:"
   date_label                 : "Güncelleme tarihi:"
   comments_label             : "Yorum yapın"
-  comments_title             :
+  comments_title             : "Yorumlar"
   more_label                 : "Daha fazlasını öğrenin"
   related_label              : "Bunlar ilginizi çekebilir:"
   follow_label               : "Takip et:"
@@ -166,32 +176,74 @@ tr: &DEFAULT_TR
   email_label                : "E-posta"
   recent_posts               : "Son yazılar"
   undefined_wpm              : "_config.yml dosyasında tanımlanmamış words_per_minute parametresi"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
+  comment_form_info          : "Email adresiniz gösterilmeyecektir. Zorunlu alanlar işaretlenmiştir"
+  comment_form_comment_label : "Yorumunuz"
+  comment_form_md_info       : "Markdown desteklenmektedir."
+  comment_form_name_label    : "Adınız"
+  comment_form_email_label   : "Email adresiniz"
+  comment_form_website_label : "Websiteniz (opsiyonel)"
+  comment_btn_submit         : "Yorum Yap"
+  comment_btn_submitted      : "Gönderildi"
+  comment_success_msg        : "Yorumunuz için teşekkürler! Yorumunuz onaylandıktan sonra sitede gösterilecektir."
+  comment_error_msg          : "Maalesef bir hata oluştu. Lütfen zorunlu olan tüm alanları doldurduğunuzdan emin olun ve sonrasında tekrar deneyin."
+  loading_label              : "Yükleniyor..."
 tr-TR:
   <<: *DEFAULT_TR
 
-# Brazilian Portguese
-# -----------------
+# Portuguese
+# ----------
 pt: &DEFAULT_PT
   page                       : "Página"
   pagination_previous        : "Anterior"
-  pagination_next            : "Próxima"
+  pagination_next            : "Seguinte"
   breadcrumb_home_label      : "Início"
   breadcrumb_separator       : "/"
+  menu_label                 :
+  toc_label                  : "Nesta Página"
+  ext_link_label             : "Link Direto"
+  less_than                  : "menos de"
+  minute_read                : "minutos de leitura"
+  share_on_label             : "Partilhar no"
+  meta_label                 :
+  tags_label                 : "Etiquetas:"
+  categories_label           : "Categorias:"
+  date_label                 : "Atualizado:"
+  comments_label             : "Deixe um Comentário"
+  comments_title             : "Comentários"
+  more_label                 : "Saber mais"
+  related_label              : "Também pode gostar de"
+  follow_label               : "Siga:"
+  feed_label                 : "Feed"
+  powered_by                 : "Feito com"
+  website_label              : "Site"
+  email_label                : "Email"
+  recent_posts               : "Artigos Recentes"
+  undefined_wpm              : "Parâmetro words_per_minute não definido em _config.yml"
+  comment_form_info          : "O seu endereço email não será publicado. Os campos obrigatórios estão assinalados"
+  comment_form_comment_label : "Comentário"
+  comment_form_md_info       : "Markdown é suportado."
+  comment_form_name_label    : "Nome"
+  comment_form_email_label   : "Endereço Email"
+  comment_form_website_label : "Site (opcional)"
+  comment_btn_submit         : "Sumbeter Comentário"
+  comment_btn_submitted      : "Submetido"
+  comment_success_msg        : "Obrigado pelo seu comentário! Será visível no site logo que aprovado."
+  comment_error_msg          : "Lamento, ocorreu um erro na sua submissão. Por favor verifique se todos os campos obrigatórios estão corretamente preenchidos e tente novamente."
+  loading_label              : "A carregar..."
+pt-PT:
+  <<: *DEFAULT_PT
+# Brazilian Portuguese
+pt-BR:
+  page                       : "Página"
+  pagination_previous        : "Anterior"
+  pagination_next            : "Próxima"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 :
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
-  less_than                  : "menor que"
-  minute_read                : "minutos de leitura"
+  less_than                  : "menos que"
+  minute_read                : "minuto(s) de leitura"
   share_on_label             : "Compartilhe em"
   meta_label                 :
   tags_label                 : "Tags:"
@@ -199,39 +251,36 @@ pt: &DEFAULT_PT
   date_label                 : "Atualizado em:"
   comments_label             : "Deixe um comentário"
   comments_title             :
-  more_label                 : "Aprenda Mais"
-  related_label              : "Talvez Você Goste Também"
+  more_label                 : "Aprenda mais"
+  related_label              : "Talvez você goste também"
   follow_label               : "Acompanhe em"
   feed_label                 : "Feed"
-  powered_by                 : "Feito por"
+  powered_by                 : "Feito com"
   website_label              : "Site"
-  email_label                : "E-mail"
+  email_label                : "Email"
   recent_posts               : "Postagens recentes"
-  undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
-  comment_form_info          : "Seu endereço de e-mail não será publicado. Campos obrigatórios são marcados"
+  undefined_wpm              : "Parâmetro indefinido em words_per_minute no _config.yml"
+  comment_form_info          : "Seu email não será publicado. Os campos obrigatórios estão marcados"
   comment_form_comment_label : "Comentário"
-  comment_form_md_info       : "Markdown é suportado"
+  comment_form_md_info       : "Markdown é suportado."
   comment_form_name_label    : "Nome"
-  comment_form_email_label   : "Endereço de e-mail'"
-  comment_form_website_label : "Website (opcional)"
+  comment_form_email_label   : "Email"
+  comment_form_website_label : "Site (opcional)"
   comment_btn_submit         : "Enviar Comentário"
   comment_btn_submitted      : "Enviado"
-  comment_success_msg        : "Obrigado por seu comentário! Ele será exibido no site depois de aprovado."
-  comment_error_msg          : "Desculpe, houve um erro com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
+  comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
+  comment_error_msg          : "Desculpe, ocorreu um erro no envio. Por favor verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
-pt-BR:
-  <<: *DEFAULT_PT
-pt-PT:
-  <<: *DEFAULT_PT
 
 # Italian
-# -----------------
+# -------
 it: &DEFAULT_IT
   page                       : "Pagina"
   pagination_previous        : "Precedente"
   pagination_next            : "Prossima"
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
+  menu_label                 :
   toc_label                  : "Indice della pagina"
   ext_link_label             : "Link"
   less_than                  : "meno di"
@@ -252,19 +301,831 @@ it: &DEFAULT_IT
   email_label                : "Email"
   recent_posts               : "Articoli Recenti"
   undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
+  comment_form_info          : "Il tuo indirizzo email non sarà pubblicato. Sono segnati i campi obbligatori"
+  comment_form_comment_label : "Commenta"
+  comment_form_md_info       : "Il linguaggio Markdown è supportato"
+  comment_form_name_label    : "Nome"
+  comment_form_email_label   : "Indirizzo email"
+  comment_form_website_label : "Sito Web (opzionale)"
+  comment_btn_submit         : "Invia commento"
+  comment_btn_submitted      : "Inviato"
+  comment_success_msg        : "Grazie per il tuo commento! Verrà visualizzato nel sito una volta che sarà approvato."
+  comment_error_msg          : "C'è stato un errore con il tuo invio. Assicurati che tutti i campi richiesti siano stati completati e riprova."
+  loading_label              : "Caricamento..."
+  search_placeholder_text    : "Inserisci termini di ricerca..."
+  results_found              : "Risultati"
+  back_to_top                : "Vai su"
 it-IT:
   <<: *DEFAULT_IT
 
+# Chinese  (zh-CN Chinese - China)
+# --------------------------------
+zh: &DEFAULT_ZH_HANS
+  page                       : "页面"
+  pagination_previous        : "向前"
+  pagination_next            : "向后"
+  breadcrumb_home_label      : "首页"
+  breadcrumb_separator       : "/"
+  menu_label                 : "切换菜单"
+  toc_label                  : "在本页上"
+  ext_link_label             : "直接链接"
+  less_than                  : "少于"
+  minute_read                : "分钟读完"
+  share_on_label             : "分享"
+  meta_label                 :
+  tags_label                 : "标签:"
+  categories_label           : "分类:"
+  date_label                 : "更新时间:"
+  comments_label             : "留下评论"
+  comments_title             : "评论"
+  more_label                 : "了解更多"
+  related_label              : "猜您还喜欢"
+  follow_label               : "关注:"
+  feed_label                 : "Feed"
+  powered_by                 : "技术来自于"
+  website_label              : "网站"
+  email_label                : "电子邮箱"
+  recent_posts               : "最新文章"
+  undefined_wpm              : "_config.yml配置中words_per_minute字段未定义"
+  comment_form_info          : "您的电子邮箱地址并不会被展示。请填写标记为必须的字段。"
+  comment_form_comment_label : "评论"
+  comment_form_md_info       : "Markdown语法已支持。"
+  comment_form_name_label    : "姓名"
+  comment_form_email_label   : "电子邮箱"
+  comment_form_website_label : "网站（可选）"
+  comment_btn_submit         : "提交评论"
+  comment_btn_submitted      : "已提交"
+  comment_success_msg        : "感谢您的评论！被批准后它会立即在此站点展示。"
+  comment_error_msg          : "很抱歉，您的提交存在错误。请确保所有必填字段都已填写正确，然后再试一次。"
+  loading_label              : "正在加载..."
+zh-CN:
+  <<: *DEFAULT_ZH_HANS
+zh-SG:
+  <<: *DEFAULT_ZH_HANS
+# Taiwan (Traditional Chinese)
+zh-TW: &DEFAULT_ZH_HANT
+  page                       : "頁面"
+  pagination_previous        : "較舊"
+  pagination_next            : "較新"
+  breadcrumb_home_label      : "首頁"
+  breadcrumb_separator       : "/"
+  menu_label                 : "切換選單"
+  toc_label                  : "本頁"
+  ext_link_label             : "外部連結"
+  less_than                  : "少於"
+  minute_read                : "分鐘閱讀"
+  share_on_label             : "分享到"
+  meta_label                 :
+  tags_label                 : "標籤:"
+  categories_label           : "分類:"
+  date_label                 : "更新時間:"
+  comments_label             : "留言"
+  comments_title             : "留言內容"
+  more_label                 : "了解更多"
+  related_label              : "猜您有與趣"
+  follow_label               : "追蹤:"
+  feed_label                 : "RSS Feed"
+  powered_by                 : "Powered by"
+  website_label              : "網站"
+  email_label                : "電子信箱"
+  recent_posts               : "最新文章"
+  undefined_wpm              : "_config.yml 中未定義 words_per_minute"
+  comment_form_info          : "您的電子信箱不會被公開. 必填部份已標記"
+  comment_form_comment_label : "留言內容"
+  comment_form_md_info       : "支援Markdown語法。"
+  comment_form_name_label    : "名字"
+  comment_form_email_label   : "電子信箱帳號"
+  comment_form_website_label : "網頁 (可選填)"
+  comment_btn_submit         : "送出留言"
+  comment_btn_submitted      : "已送出"
+  comment_success_msg        : "感謝您的留言！ 審核後將會顯示在站上。"
+  comment_error_msg          : "抱歉，部份資料輸入有問題。請確認資料填寫正確後再試一次。"
+  loading_label              : "載入中..."
+zh-HK:
+  <<: *DEFAULT_ZH_HANT
+
+# German / Deutsch
+# ----------------
+de: &DEFAULT_DE
+  page                       : "Seite"
+  pagination_previous        : "Vorherige"
+  pagination_next            : "Nächste"
+  breadcrumb_home_label      : "Start"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Menü ein-/ausschalten"
+  toc_label                  : "Auf dieser Seite"
+  ext_link_label             : "Direkter Link"
+  less_than                  : "weniger als"
+  minute_read                : "Minuten zum lesen"
+  share_on_label             : "Teilen auf"
+  meta_label                 :
+  tags_label                 : "Tags:"
+  categories_label           : "Kategorien:"
+  date_label                 : "Aktualisiert:"
+  comments_label             : "Hinterlassen Sie einen Kommentar"
+  comments_title             : "Kommentare"
+  more_label                 : "Mehr anzeigen"
+  related_label              : "Ihnen gefällt vielleicht auch"
+  follow_label               : "Folgen:"
+  feed_label                 : "Feed"
+  powered_by                 : "Möglich durch"
+  website_label              : "Webseite"
+  email_label                : "E-Mail"
+  recent_posts               : "Aktuelle Beiträge"
+  undefined_wpm              : "Undefinierter Parameter words_per_minute in _config.yml"
+  comment_form_info          : "Ihre E-Mail Adresse wird nicht veröffentlicht. Benötigte Felder sind markiert"
+  comment_form_comment_label : "Kommentar"
+  comment_form_md_info       : "Markdown wird unterstützt."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "E-Mail-Addresse"
+  comment_form_website_label : "Webseite (optional)"
+  comment_btn_submit         : "Kommentar absenden"
+  comment_btn_submitted      : "Versendet"
+  comment_success_msg        : "Danke für Ihren Kommentar! Er wird auf der Seite angezeigt, nachdem er geprüft wurde."
+  comment_error_msg          : "Entschuldigung, es gab einen Fehler. Bitte füllen Sie alle benötigten Felder aus und versuchen Sie es erneut."
+  loading_label              : "Lade..."
+  search_placeholder_text    : "Suchbegriff eingeben..."
+  results_found              : "Ergebnis(se) gefunden"
+de-DE:
+  <<: *DEFAULT_DE
+de-AT:
+  <<: *DEFAULT_DE
+de-CH:
+  <<: *DEFAULT_DE
+de-BE:
+  <<: *DEFAULT_DE
+de-LI:
+  <<: *DEFAULT_DE
+de-LU:
+  <<: *DEFAULT_DE
+
+# Nepali (Nepal)
+# --------------
+ne: &DEFAULT_NE
+  page                       : "पृष्‍ठ"
+  pagination_previous        : "अघिल्लो"
+  pagination_next            : "अर्को"
+  breadcrumb_home_label      : "गृह"
+  breadcrumb_separator       : "/"
+  menu_label                 : "टगल मेनु"
+  toc_label                  : "यो पृष्‍ठमा"
+  ext_link_label             : "सिधा सम्पर्क"
+  less_than                  : "कम्तिमा"
+  minute_read                : "मिनेट पढ्नुहोस्"
+  share_on_label             : "शेयर गर्नुहोस्"
+  meta_label                 :
+  tags_label                 : "ट्यागहरू:"
+  categories_label           : "वर्गहरु:"
+  date_label                 : "अद्यावधिक:"
+  comments_label             : "टिप्पणी दिनुहोस्"
+  comments_title             : "टिप्पणीहरू"
+  more_label                 : "अझै सिक्नुहोस्"
+  related_label              : "तपाईं रुचाउन सक्नुहुन्छ "
+  follow_label               : "पछ्याउनुहोस्:"
+  feed_label                 : "फिड"
+  powered_by                 : "Powered by"
+  website_label              : "वेबसाइट"
+  email_label                : "इमेल"
+  recent_posts               : "ताजा लेखहरु"
+  undefined_wpm              : "अपरिभाषित प्यारामिटर शब्दहरू_प्रति_मिनेट at _config.yml"
+  comment_form_info          : "तपाइँको इमेल ठेगाना प्रकाशित गरिने छैन।आवश्यक जानकारीहरुमा चिन्ह लगाइको छ"
+  comment_form_comment_label : "टिप्पणी"
+  comment_form_md_info       : "मार्कडाउन  समर्थित छ।"
+  comment_form_name_label    : "नाम"
+  comment_form_email_label   : "इमेल ठेगाना"
+  comment_form_website_label : "वेबसाइट (वैकल्पिक)"
+  comment_btn_submit         : "टिप्पणी दिनुहोस् "
+  comment_btn_submitted      : "टिप्पणी भयो"
+  comment_success_msg        : "तपाईंको टिप्पणीको लागि धन्यवाद! एक पटक यो अनुमोदन गरेपछी यो साइटमा देखाउनेछ।"
+  comment_error_msg          : "माफ गर्नुहोस्, तपाईंको टिप्पणी त्रुटि थियो।सबै आवश्यक जानकारीहरु पूरा गरिएको छ भने निश्चित गर्नुहोस् र फेरि प्रयास गर्नुहोस्।"
+  loading_label              : "लोड हुँदैछ ..."
+ne-NP:
+  <<: *DEFAULT_NE
+
+# Korean
+# ------
+ko: &DEFAULT_KO
+  page                       : "페이지"
+  pagination_previous        : "이전"
+  pagination_next            : "다음"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "토글 메뉴"
+  toc_label                  : "On This Page"
+  ext_link_label             : "직접 링크"
+  less_than                  : "최대"
+  minute_read                : "분 소요"
+  share_on_label             : "공유하기"
+  meta_label                 :
+  tags_label                 : "태그:"
+  categories_label           : "카테고리:"
+  date_label                 : "업데이트:"
+  comments_label             : "댓글남기기"
+  comments_title             : "댓글"
+  more_label                 : "더 보기"
+  related_label              : "참고"
+  follow_label               : "팔로우:"
+  feed_label                 : "피드"
+  powered_by                 : "Powered by"
+  website_label              : "웹사이트"
+  email_label                : "이메일"
+  recent_posts               : "최근 포스트"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "이메일은 공개되지 않습니다. 작성 필요 필드:"
+  comment_form_comment_label : "댓글"
+  comment_form_md_info       : "마크다운을 지원합니다."
+  comment_form_name_label    : "이름"
+  comment_form_email_label   : "이메일"
+  comment_form_website_label : "웹사이트(선택사항)"
+  comment_btn_submit         : "댓글 등록"
+  comment_btn_submitted      : "등록됨"
+  comment_success_msg        : "감사합니다! 댓글이 머지된 후 확인하실 수 있습니다."
+  comment_error_msg          : "댓글 등록에 문제가 있습니다. 필요 필드를 작성했는지 확인하고 다시 시도하세요."
+  loading_label              : "로딩중..."
+ko-KR:
+  <<: *DEFAULT_KO
+
+# Russian / Русский
+# -----------------
+ru: &DEFAULT_RU
+  page                       : "Страница"
+  pagination_previous        : "Предыдущая"
+  pagination_next            : "Следующая"
+  breadcrumb_home_label      : "Главная"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Выпадающее меню"
+  toc_label                  : "Содержание"
+  ext_link_label             : "Прямая ссылка"
+  less_than                  : "менее"
+  minute_read                : "мин на чтение"
+  share_on_label             : "Поделиться"
+  meta_label                 :
+  tags_label                 : "Метки:"
+  categories_label           : "Разделы:"
+  date_label                 : "Дата изменения:"
+  comments_label             : "Оставить комментарий"
+  comments_title             : "Комментарии"
+  more_label                 : "Читать далее"
+  related_label              : "Вам также может понравиться"
+  follow_label               : "Связаться со мной:"
+  feed_label                 : "RSS-лента"
+  powered_by                 : "Сайт работает на"
+  website_label              : "Сайт"
+  email_label                : "Электронная почта"
+  recent_posts               : "Свежие записи"
+  undefined_wpm              : "Не определён параметр words_per_minute в _config.yml"
+  comment_form_info          : "Ваш адрес электронной почты не будет опубликован. Обязательные поля помечены"
+  comment_form_comment_label : "Комментарий"
+  comment_form_md_info       : "Поддерживается синтаксис Markdown."
+  comment_form_name_label    : "Имя"
+  comment_form_email_label   : "Электронная почта"
+  comment_form_website_label : "Ссылка на сайт (необязательно)"
+  comment_btn_submit         : "Оставить комментарий"
+  comment_btn_submitted      : "Отправлено"
+  comment_success_msg        : "Спасибо за Ваш комментарий! Он будет опубликован на сайте после проверки."
+  comment_error_msg          : "К сожалению, произошла ошибка с отправкой комментария. Пожалуйста, убедитесь, что все обязательные поля заполнены и попытайтесь снова."
+  loading_label              : "Отправка..."
+  search_placeholder_text    : "Введите поисковый запрос..."
+  results_found              : "Найдено"
+ru-RU:
+  <<: *DEFAULT_RU
+
+# Lithuanian / Lietuviškai
+# ------------------------
+lt: &DEFAULT_LT
+  page                       : "Puslapis"
+  pagination_previous        : "Ankstesnis"
+  pagination_next            : "Sekantis"
+  breadcrumb_home_label      : "Pagrindinis"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Meniu rodymas"
+  toc_label                  : "Turinys"
+  ext_link_label             : "Tiesioginė nuoroda"
+  less_than                  : "mažiau nei"
+  minute_read                : "min. skaitymo"
+  share_on_label             : "Pasidalinti"
+  meta_label                 :
+  tags_label                 : "Žymės:"
+  categories_label           : "Kategorijos:"
+  date_label                 : "Atnaujinta:"
+  comments_label             : "Palikti komentarą"
+  comments_title             : "Komentaras"
+  more_label                 : "Skaityti daugiau"
+  related_label              : "Taip pat turėtų patikti"
+  follow_label               : "Sekti:"
+  feed_label                 : "Šaltinis"
+  powered_by                 : "Sukurta su"
+  website_label              : "Tinklapis"
+  email_label                : "El. paštas"
+  recent_posts               : "Naujausi įrašai"
+  undefined_wpm              : "Nedeklaruotas parametras words_per_minute faile _config.yml"
+  comment_form_info          : "El. pašto adresas nebus viešinamas. Būtini laukai pažymėti."
+  comment_form_comment_label : "Komentaras"
+  comment_form_md_info       : "Markdown palaikomas."
+  comment_form_name_label    : "Vardas"
+  comment_form_email_label   : "El. paštas"
+  comment_form_website_label : "Tinklapis (nebūtina)"
+  comment_btn_submit         : "Komentuoti"
+  comment_btn_submitted      : "Įrašytas"
+  comment_success_msg        : "Ačiū už komentarą! Jis bus parodytas kai bus patvirtintas."
+  comment_error_msg          : "Atleiskite, įvyko netikėta klaida įrašant komentarą. Pasitikrinkite ar užpildėte visus būtinus laukus ir pamėginkite dar kartą."
+  loading_label              : "Kraunama..."
+lt-LT:
+  <<: *DEFAULT_LT
+
+# Greek
+# -----
+gr: &DEFAULT_GR
+  page                       : "Σελίδα"
+  pagination_previous        : "Προηγούμενo"
+  pagination_next            : "Επόμενo"
+  breadcrumb_home_label      : "Αρχική"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Μενού"
+  toc_label                  : "Περιεχόμενα"
+  ext_link_label             : "Εξωτερικός Σύνδεσμος"
+  less_than                  : "Λιγότερο από"
+  minute_read                : "λεπτά ανάγνωσης"
+  share_on_label             : "Μοιραστείτε το"
+  meta_label                 :
+  tags_label                 : "Ετικέτες:"
+  categories_label           : "Κατηγορίες:"
+  date_label                 : "Ενημερώθηκε:"
+  comments_label             : "Αφήστε ένα σχόλιο"
+  comments_title             : "Σχόλια"
+  more_label                 : "Διάβαστε περισσότερα"
+  related_label              : "Σχετικές αναρτήσεις"
+  follow_label               : "Ακολουθήστε:"
+  feed_label                 : "RSS Feed"
+  powered_by                 : "Δημιουργήθηκε με"
+  website_label              : "Ιστοσελίδα"
+  email_label                : "Email"
+  recent_posts               : "Τελευταίες αναρτήσεις"
+  undefined_wpm              : "Δεν έχει οριστεί η παράμετρος words_per_minute στο αρχείο _config.yml"
+  comment_form_info          : "Η διεύθυνση email σας δεν θα δημοσιευθεί. Τα απαιτούμενα πεδία εμφανίζονται με αστερίσκο"
+  comment_form_comment_label : "Σχόλιο"
+  comment_form_md_info       : "Το πεδίο υποστηρίζει Markdown."
+  comment_form_name_label    : "Όνομα"
+  comment_form_email_label   : "Διεύθυνση email"
+  comment_form_website_label : "Ιστοσελίδα (προαιρετικό)"
+  comment_btn_submit         : "Υπόβαλε ένα σχόλιο"
+  comment_btn_submitted      : "Έχει υποβληθεί"
+  comment_success_msg        : "Ευχαριστούμε για το σχόλιό σας! Θα εμφανιστεί στην ιστοσελίδα αφού εγκριθεί."
+  comment_error_msg          : "Λυπούμαστε, παρουσιάστηκε σφάλμα με την υποβολή σας. Παρακαλούμε βεβαιωθείτε ότι έχετε όλα τα απαιτούμενα πεδία συμπληρωμένα και δοκιμάστε ξανά."
+  loading_label              : "Φόρτωση..."
+  search_placeholder_text    : "Εισάγετε όρο αναζήτησης..."
+  results_found              : "Αποτελέσματα"
+gr-GR:
+  <<: *DEFAULT_GR
+
+# Swedish
+# -------
+sv: &DEFAULT_SV
+  page                       : "Sidan"
+  pagination_previous        : "Föregående"
+  pagination_next            : "Nästa"
+  breadcrumb_home_label      : "Hem"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Meny ridå"
+  toc_label                  : "På denna sida"
+  ext_link_label             : "Direkt länk"
+  less_than                  : "mindre än"
+  minute_read                : "minut läsning"
+  share_on_label             : "Dela på"
+  meta_label                 :
+  tags_label                 : "Taggar:"
+  categories_label           : "Kategorier:"
+  date_label                 : "Uppdaterades:"
+  comments_label             : "Lämna en kommentar"
+  comments_title             : "Kommentarer"
+  more_label                 : "Lär dig mer"
+  related_label              : "Du kanske vill även läsa:"
+  follow_label               : "Följ:"
+  feed_label                 : "Flöde"
+  powered_by                 : "Framställd med"
+  website_label              : "Webbsida"
+  email_label                : "E-post"
+  recent_posts               : "Senaste inlägg"
+  undefined_wpm              : "Odefinerade parametrar words_per_minute i _config.yml"
+  comment_form_info          : "Din e-post adress kommer inte att publiceras. Obligatoriska fält är markerade."
+  comment_form_comment_label : "Kommentar"
+  comment_form_md_info       : "Använd Markdown för text-formateringen."
+  comment_form_name_label    : "Namn"
+  comment_form_email_label   : "E-post adress"
+  comment_form_website_label : "Webdsida (valfritt)"
+  comment_btn_submit         : "Skicka en kommentar"
+  comment_btn_submitted      : "Kommentaren har tagits emot"
+  comment_success_msg        : "Tack för din kommentar! Den kommer att visas på sidan så fort den har godkännts."
+  comment_error_msg          : "Tyvärr det har blivit något fel i en av fälten, se till att du fyller i alla rutor och försök igen."
+  loading_label              : "Laddar..."
+sv-SE:
+  <<: *DEFAULT_SV
+sv-FI:
+  <<: *DEFAULT_SV
+
+# Dutch
+# -----
+nl: &DEFAULT_NL
+  page                       : "Pagina"
+  pagination_previous        : "Vorige"
+  pagination_next            : "Volgende"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Wissel Menu"
+  toc_label                  : "Op deze pagina"
+  ext_link_label             : "Directe Link"
+  less_than                  : "minder dan"
+  minute_read                : "minuut gelezen"
+  share_on_label             : "Deel op"
+  meta_label                 :
+  tags_label                 : "Labels:"
+  categories_label           : "Categorieën:"
+  date_label                 : "Bijgewerkt:"
+  comments_label             : "Laat een reactie achter"
+  comments_title             : "Commentaren"
+  more_label                 : "Meer informatie"
+  related_label              : "Bekijk ook eens"
+  follow_label               : "Volg:"
+  feed_label                 : "Feed"
+  powered_by                 : "Aangedreven door"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "Recente berichten"
+  undefined_wpm              : "Niet gedefinieerde parameter words_per_minute bij _config.yml"
+  comment_form_info          : "Uw e-mailadres wordt niet gepubliceerd. Verplichte velden zijn gemarkeerd"
+  comment_form_comment_label : "Commentaar"
+  comment_form_md_info       : "Markdown wordt ondersteund."
+  comment_form_name_label    : "Naam"
+  comment_form_email_label   : "E-mailadres"
+  comment_form_website_label : "Website (optioneel)"
+  comment_btn_submit         : "Commentaar toevoegen"
+  comment_btn_submitted      : "Toegevoegd"
+  comment_success_msg        : "Bedankt voor uw reactie! Het zal op de site worden weergegeven zodra het is goedgekeurd."
+  comment_error_msg          : "Sorry, er is een fout opgetreden bij uw inzending. Zorg ervoor dat alle vereiste velden zijn voltooid en probeer het opnieuw."
+  loading_label              : "Laden..."
+nl-BE:
+  <<: *DEFAULT_NL
+nl-NL:
+  <<: *DEFAULT_NL
+
+# Indonesian
+# ----------
+id: &DEFAULT_ID
+  page                       : "Halaman"
+  pagination_previous        : "Kembali"
+  pagination_next            : "Maju"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Menu Toggle"
+  toc_label                  : "Pada Halaman Ini"
+  ext_link_label             : "Link langsung"
+  less_than                  : "Kurang dari"
+  minute_read                : "Waktu baca"
+  share_on_label             : "Berbagi di"
+  meta_label                 :
+  tags_label                 : "Golongan:"
+  categories_label           : "Kategori:"
+  date_label                 : "Diupdate:"
+  comments_label             : "Tinggalkan komentar"
+  comments_title             : "Komentar"
+  more_label                 : "Pelajari lagi"
+  related_label              : "Anda juga akan suka"
+  follow_label               : "Ikuti:"
+  feed_label                 : "Feed"
+  powered_by                 : "Didukung oleh"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "Posting terbaru"
+  undefined_wpm              : "Parameter terdeskripsi words_per_minute di _config.yml"
+  comment_form_info          : "Email Anda tidak akan dipublish. Kolom yang diperlukan ditandai"
+  comment_form_comment_label : "Komentar"
+  comment_form_md_info       : "Markdown disupport."
+  comment_form_name_label    : "Nama"
+  comment_form_email_label   : "Alamat email"
+  comment_form_website_label : "Website (opsional)"
+  comment_btn_submit         : "Submit Komentar"
+  comment_btn_submitted      : "Telah disubmit"
+  comment_success_msg        : "Terimakasih atas komentar Anda! Komentar ini akan tampil setelah disetujui."
+  comment_error_msg          : "Maaf, ada kesalahan pada submisi Anda. Pastikan seluruh kolom sudah dilengkapi dan coba kembali."
+  loading_label              : "Sedang meload..."
+id-ID:
+  <<: *DEFAULT_ID
+
+# Vietnamese
+# ----------
+vi: &DEFAULT_VI
+  page                       : "Trang"
+  pagination_previous        : "Trước"
+  pagination_next            : "Sau"
+  breadcrumb_home_label      : "Trang chủ"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Menu"
+  toc_label                  : "Tại trang này"
+  ext_link_label             : "Đường dẫn trực tiếp"
+  less_than                  : "nhỏ hơn"
+  minute_read                : "phút đọc"
+  share_on_label             : "Chia sẻ tại"
+  meta_label                 :
+  tags_label                 : "Nhãn:"
+  categories_label           : "Chủ đề:"
+  date_label                 : "Cập nhật:"
+  comments_label             : "Để lại bình luận"
+  comments_title             : "Bình luận"
+  more_label                 : "Mở rộng"
+  related_label              : "Có thể bạn cũng thích"
+  follow_label               : "Theo dõi:"
+  feed_label                 : "Feed"
+  powered_by                 : "Được hỗ trợ bởi"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "Bài viết mới"
+  undefined_wpm              : "Chưa định nghĩa thông số words_per_minute tại _config.yml"
+  comment_form_info          : "Email của bạn sẽ được giữ bí mật. Các phần bắt buộc được đánh dấu."
+  comment_form_comment_label : "Bình luận"
+  comment_form_md_info       : "Hỗ trợ Markdown."
+  comment_form_name_label    : "Tên"
+  comment_form_email_label   : "Địa chỉ email"
+  comment_form_website_label : "Website (không bắt buộc)"
+  comment_btn_submit         : "Gửi bình luận"
+  comment_btn_submitted      : "Đã được gửi"
+  comment_success_msg        : "Cảm ơn bạn đã bình luận! Bình luận sẽ xuất hiện sau khi được duyệt."
+  comment_error_msg          : "Rất tiếc, có lỗi trong việc gửi bình luận. Hãy đảm bảo toàn bộ các phần bắt buộc đã được điền đầy đủ và thử lại."
+  loading_label              : "Đang tải..."
+vi-VN:
+  <<: *DEFAULT_VI
+
+# Danish
+# ------
+da: &DEFAULT_DA
+  page                       : "Side"
+  pagination_previous        : "Forrige"
+  pagination_next            : "Næste"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Vis/skjul menu"
+  toc_label                  : "På denne side"
+  ext_link_label             : "Direkte link"
+  less_than                  : "mindre end"
+  minute_read                : "minutters læsning"
+  share_on_label             : "Del på"
+  meta_label                 :
+  tags_label                 : "Nøgleord:"
+  categories_label           : "Kategorier:"
+  date_label                 : "Opdateret:"
+  comments_label             : "Skriv en kommentar"
+  comments_title             : "Kommentarer"
+  more_label                 : "Lær mere"
+  related_label              : "Måske kan du også lide"
+  follow_label               : "Følg:"
+  feed_label                 : "Feed"
+  powered_by                 : "Drives af"
+  website_label              : "Website"
+  email_label                : "E-mail"
+  recent_posts               : "Seneste indlæg"
+  undefined_wpm              : "Parameteren words_per_minute er ikke defineret i _config.yml"
+  comment_form_info          : "Din e-mail bliver ikke offentliggjort. Obligatoriske felter er markeret"
+  comment_form_comment_label : "Kommentar"
+  comment_form_md_info       : "Markdown er understøttet."
+  comment_form_name_label    : "Navn"
+  comment_form_email_label   : "E-mail"
+  comment_form_website_label : "Website (frivillig)"
+  comment_btn_submit         : "Send kommentar"
+  comment_btn_submitted      : "Sendt"
+  comment_success_msg        : "Tak for din kommentar! Den bliver vist på siden, så snart den er godkendt."
+  comment_error_msg          : "Desværre skete der en fejl. Prøv igen, mens du sørger for at alle obligatoriske felter er udfyldt."
+  loading_label              : "Indlæser..."
+  search_placeholder_text    : "Hvad leder du efter..."
+  results_found              : "Resultat(er) fundet"
+  back_to_top                : "Tilbage til toppen"
+da-DK:
+  <<: *DEFAULT_DA
+
+# Polish
+# ------
+pl: &DEFAULT_PL
+  page                       : "Strona"
+  pagination_previous        : "Poprzednia"
+  pagination_next            : "Następna"
+  breadcrumb_home_label      : "Strona główna"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Przełącz menu"
+  toc_label                  : "Spis treści"
+  ext_link_label             : "Link bezpośredni"
+  less_than                  : "mniej niż"
+  minute_read                : "minut(y)"
+  share_on_label             : "Udostępnij"
+  meta_label                 :
+  tags_label                 : "Tagi:"
+  categories_label           : "Kategorie:"
+  date_label                 : "Ostatnia aktualizacja:"
+  comments_label             : "Zostaw komentarz"
+  comments_title             : "Komentarze"
+  more_label                 : "Dowiedz się więcej"
+  related_label              : "Także może Ci się spodobać"
+  follow_label               : "Śledź:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powstało dzięki"
+  website_label              : "Strona"
+  email_label                : "Email"
+  recent_posts               : "Najnowsze wpisy"
+  undefined_wpm              : "Parametr words_per_minute nie został zdefiniowany w _config.yml."
+  comment_form_info          : "Twój adres email nie będzie udostępiony. Wymagane pola są oznaczone."
+  comment_form_comment_label : "Skomentuj"
+  comment_form_md_info       : "Markdown jest wspierany"
+  comment_form_name_label    : "Imię"
+  comment_form_email_label   : "Adres email"
+  comment_form_website_label : "Strona www (opcjonalna)"
+  comment_btn_submit         : "Skomentuj"
+  comment_btn_submitted      : "Komentarz dodany"
+  comment_success_msg        : "Dziękuję za Twój komentarz! Zostanie dodany po akceptacji."
+  comment_error_msg          : "Niestety wystąpił błąd. Proszę upewnij się, że wszystkie wymagane pola zostały wypełnione i spróbuj ponownie."
+  loading_label              : "Trwa ładowanie strony..."
+pl-PL:
+  <<: *DEFAULT_PL
+
+# Japanese
+# --------
+ja: &DEFAULT_JA
+  page                       : "ページ"
+  pagination_previous        : "前へ"
+  pagination_next            : "次へ"
+  breadcrumb_home_label      : "ホーム"
+  breadcrumb_separator       : "/"
+  menu_label                 : "メニュー"
+  toc_label                  : "目次"
+  ext_link_label             : "リンク"
+  less_than                  :
+  minute_read                :
+  share_on_label             : "共有"
+  meta_label                 :
+  tags_label                 : "タグ:"
+  categories_label           : "カテゴリー:"
+  date_label                 : "更新日時:"
+  comments_label             : "コメントする"
+  comments_title             : "コメント"
+  more_label                 : "さらに詳しく"
+  related_label              : "関連記事"
+  follow_label               : "フォロー"
+  feed_label                 :
+  powered_by                 :
+  website_label              :
+  email_label                :
+  recent_posts               : "最近の投稿"
+  undefined_wpm              : "パラメータ words_per_minute が _config.yml で定義されていません"
+  comment_form_info          : "メールアドレスが公開されることはありません。次の印のある項目は必ず入力してください:"
+  comment_form_comment_label : "コメント"
+  comment_form_md_info       : "Markdown を使用できます"
+  comment_form_name_label    : "名前"
+  comment_form_email_label   : "メールアドレス"
+  comment_form_website_label : "URL (任意)"
+  comment_btn_submit         : "コメントを送信する"
+  comment_btn_submitted      : "送信しました"
+  comment_success_msg        : "コメントありがとうございます！　コメントは承認されるとページに表示されます。"
+  comment_error_msg          : "送信エラーです。必須項目がすべて入力されていることを確認して再送信してください。"
+  loading_label              : "読み込み中..."
+  search_placeholder_text    : "検索キーワードを入力してください..."
+  results_found              : "件"
+ja-JP:
+  <<: *DEFAULT_JA
+
+# Slovak
+# -----------------
+sk: &DEFAULT_SK
+  page                       : "Stránka"
+  pagination_previous        : "Predošlá"
+  pagination_next            : "Ďalšia"
+  breadcrumb_home_label      : "Domov"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Menu"
+  toc_label                  : "Obsah"
+  ext_link_label             : "Priamy odkaz"
+  less_than                  : "menej ako"
+  minute_read                : "minút"
+  share_on_label             : "Zdieľaj na"
+  meta_label                 :
+  tags_label                 : "Tagy:"
+  categories_label           : "Kategórie:"
+  date_label                 : "Aktualizované:"
+  comments_label             : "Zanechaj odkaz"
+  comments_title             : "Komentáre"
+  more_label                 : "Dozvedieť sa viac"
+  related_label              : "Podobné články"
+  follow_label               : "Sleduj:"
+  feed_label                 : "Zoznam"
+  powered_by                 : "Stránka vytvorená pomocou"
+  website_label              : "Web stránka"
+  email_label                : "Email"
+  recent_posts               : "Najnovšie príspevky"
+  undefined_wpm              : "Nedefinovaný parameter words_per_minute v _config.yml"
+  comment_form_info          : "Tvoja emailová adresa nebude publikovaná. Požadované polia sú označené"
+  comment_form_comment_label : "Komentár"
+  comment_form_md_info       : "Markdown je podporovaný."
+  comment_form_name_label    : "Meno"
+  comment_form_email_label   : "Emailová adresa"
+  comment_form_website_label : "Webstránka (voliteľné)"
+  comment_btn_submit         : "Vlož komentár"
+  comment_btn_submitted      : "Vložený"
+  comment_success_msg        : "Ďakujem za tvoj komentár! Po schválení bude zobrazený na stránke."
+  comment_error_msg          : "Prepáč, pri ukladaní nastala chyba. Ubezpeč sa prosím, že si vyplnil všetky požadované polia a skús znova."
+  loading_label              : "Načítava sa..."
+  search_placeholder_text    : "Zadaj hľadaný výraz..."
+  results_found              : "Nájdených výsledkov"
+  back_to_top                : "Na začiatok stránky"
+sk-SK:
+  <<: *DEFAULT_SK
+
+# Hungarian
+# -----------------
+hu: &DEFAULT_HU
+  page                       : "Oldal"
+  pagination_previous        : "Előző"
+  pagination_next            : "Következő"
+  breadcrumb_home_label      : "Kezdőlap"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Menü nyit/zár"
+  toc_label                  : "Ezen az oldalon"
+  ext_link_label             : "Közvetlen Link"
+  less_than                  : "kevesebb mint"
+  minute_read                : "eltöltött percek"
+  share_on_label             : "Megosztás"
+  meta_label                 :
+  tags_label                 : "Tagek:"
+  categories_label           : "Kategóriák:"
+  date_label                 : "Frissítve:"
+  comments_label             : "Szólj hozzá!"
+  comments_title             : "Hozzászólások"
+  more_label                 : "Tovább"
+  related_label              : "Ajánlások"
+  follow_label               : "Követés:"
+  feed_label                 : "Folyam"
+  powered_by                 : "Powered by"
+  website_label              : "Honlap"
+  email_label                : "Email"
+  recent_posts               : "Friss cikkek"
+  undefined_wpm              : "Ismeretlen paraméter words_per_minute : _config.yml"
+  comment_form_info          : "Az e-mail címed nem lesz publikus. A csillagozott mezők kitöltése kötelező."
+  comment_form_comment_label : "Hozzászólás"
+  comment_form_md_info       : "Támogatott formázási mód: Markdown"
+  comment_form_name_label    : "Név"
+  comment_form_email_label   : "Email cím"
+  comment_form_website_label : "Honlap (nem kötelező):"
+  comment_btn_submit         : "Hozzászólás elküldése"
+  comment_btn_submitted      : "Hozzászólás elküldve"
+  comment_success_msg        : "Köszönjük a Hozzászólást! A Hozzászólások csak előzetes moderáció után lesznek publikusak."
+  comment_error_msg          : "Hoppá, hiba történt a beküldés közben. Kérlek ellenőrizd hogy minden kötelező mező ki van-e töltve."
+  loading_label              : "Betöltés..."
+  search_placeholder_text    : "Keresendő szöveg..."
+  results_found              : "Találatok:"
+  back_to_top                : "Oldal tetejére"
+hu-HU:
+  <<: *DEFAULT_HU
+
+# Romanian
+# -----------------
+ro: &DEFAULT_RO
+  page                       : "Pagina"
+  pagination_previous        : "Anterior"
+  pagination_next            : "Următor"
+  breadcrumb_home_label      : "Acasă"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Comută meniul"
+  toc_label                  : "Pe această pagină"
+  ext_link_label             : "Link direct"
+  less_than                  : "mai puțin de"
+  minute_read                : "minute de citit"
+  share_on_label             : "Distribuie pe"
+  meta_label                 :
+  tags_label                 : "Etichete:"
+  categories_label           : "Categorii:"
+  date_label                 : "Actualizat:"
+  comments_label             : "Lasă un comentariu"
+  comments_title             : "Comentarii"
+  more_label                 : "Citește mai departe"
+  related_label              : "S-ar putea să-ți placă"
+  follow_label               : "Urmărește:"
+  feed_label                 : "Feed RSS"
+  powered_by                 : "Cu sprijinul"
+  website_label              : "Site"
+  email_label                : "Email"
+  recent_posts               : "Articole recente"
+  undefined_wpm              : "Parametru words_per_minute nedefinit în _config.yml"
+  comment_form_info          : "Adresa ta de email nu va fi făcută publică. Câmpurile marcate sunt obligatorii"
+  comment_form_comment_label : "Comentariu"
+  comment_form_md_info       : "Markdown este suportat."
+  comment_form_name_label    : "Nume"
+  comment_form_email_label   : "Adresă de email"
+  comment_form_website_label : "Site (opțional)"
+  comment_btn_submit         : "Trimite comentariul"
+  comment_btn_submitted      : "Trimis"
+  comment_success_msg        : "Mulțumesc pentru comentariu! Va apărea pe site în momentul în care va fi aprobat."
+  comment_error_msg          : "Scuze, este o problemă cu comentariul tău. Asigură-te că toate câmpurile obligatorii au fost completate și încearcă din nou."
+  loading_label              : "Se încarcă..."
+  search_placeholder_text    : "Caută ceva..."
+  results_found              : "Rezultate găsite"
+  back_to_top                : "Înapoi în susul paginii"
+ro-RO:
+  <<: *DEFAULT_RO
+  
 # Another locale
 # --------------
+#

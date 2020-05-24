@@ -1,18 +1,18 @@
 {% if site.comments.provider and page.comments %}
-
 {% case site.comments.provider %}
-{% when "disqus" %}
-  {% include /comments-providers/disqus.html %}
-{% when "discourse" %}
-  {% include /comments-providers/discourse.html %}
-{% when "facebook" %}
-  {% include /comments-providers/facebook.html %}
-{% when "google-plus" %}
-  {% include /comments-providers/google-plus.html %}
-{% when "staticman" %}
-  {% include /comments-providers/staticman.html %}
-{% when "custom" %}
-  {% include /comments-providers/custom.html %}
+  {% when "disqus" %}
+    {% include /comments-providers/disqus.html %}
+  {% when "discourse" %}
+    {% include /comments-providers/discourse.html %}
+  {% when "facebook" %}
+    {% include /comments-providers/facebook.html %}
+  {% when "google-plus" %}
+    {% include /comments-providers/google-plus.html %}
+  {% when "staticman" %}
+    {% include /comments-providers/staticman.html %}
+  {% when "staticman_v2" %}
+    {% include /comments-providers/staticman_v2.html %}
+  {% when "custom" %}
+    {% include /comments-providers/custom.html %}
 {% endcase %}
-
 {% endif %}

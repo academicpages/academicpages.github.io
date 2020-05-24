@@ -1,0 +1,12 @@
+<figure class="{{ include.class }}">
+  <img src=
+    {% if include.image_path contains "://" %}
+      "{{ include.image_path }}"
+    {% else %}
+      "{{ include.image_path | relative_url }}"
+    {% endif %}
+    alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>

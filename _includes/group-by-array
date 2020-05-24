@@ -18,7 +18,7 @@
 
 <!-- Uniq -->
 {% assign __names =  __names | sort %}
-{% for name in __names | sort %}
+{% for name in __names %}
 
 <!-- If not equal to previous then it must be unique as sorted -->
 {% unless name == previous %}
