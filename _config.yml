@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Euan Judd"
+title                    : "Euan John Kenneth Judd"
 title_separator          : "-"
-name                     : &name "Euan Judd"
+name                     : &name "Euan John Kenneth Judd"
 description              : &description "PhD Student at the University of Bristol"
 url                      : https://euanjudd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Euan Judd"
+  name             : "Euan John Kenneth Judd"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Robotics"
+  bio              : "PhD Student at the University of Bristol and Bristol Robotics Laboratory"
   location         : "Bristol, UK"
   employer         :
   pubmed           : 
