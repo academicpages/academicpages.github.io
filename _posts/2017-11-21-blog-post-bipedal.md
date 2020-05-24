@@ -1,7 +1,7 @@
 ---
 title: 'Why did bipedal locomotion emerge amongst terrestrial vertebrates?'
 date: 2017-11-21
-permalink: /posts/2017/11/blog-post-1/
+permalink: /posts/2017/11/blog-post-bipedal/
 tags:
   - biomechanics
   - bipedal locomotion
@@ -11,9 +11,6 @@ tags:
 This essay was submitted as part of a masters level biomechanics course. Obligate bipedality has evolved independently many times and the adaptive advantages for each evolution vary greatly. I explore the different causes for first facultative and then obligate bipedalism in hominins, dinosaurs and saltatory bipedalism amongst rodents and marsupials.
 
 [Watch a video version of this essay on YouTube](https://www.youtube.com/channel/UCeVwt0rUEoRIUQ8oHQ0cUhg?)
-
-Why did bipedal locomotion emerge amongst terrestrial vertebrates?
-======
 
 Introduction
 ------
