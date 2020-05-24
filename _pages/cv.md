@@ -15,18 +15,23 @@ Education
 ======
 * B.Eng. in Mechanical Engineering (First-Class Honours), University of Aberdeen, 2014
   * Thesis: Flow-seaweed interactions at a blade scale: implications for bio-fuel aquaculture.
+  * Advisor: Professor Vladimir Nikora
+  
 * Ph.D in Robotics, University of Bristol, 2021 (expected)
-
+  * Thesis: Sensing Through the Body.
+  * Advisors: Dr Helmut Hauser and Professor Jonathan Rossiter
+  
 Work experience
 ======
-* Spring 2013: Semester Project, Environmental and Industrial Fluid Mechanics Group, University of Aberdeen
-  * Project: Analysis of fluid flow over different riverbedcompositions
+* Feb – Apr 2013: Semester Project, Environmental and Industrial Fluid Mechanics Group, University of Aberdeen
+  * Project: Analysis of fluid flow over different river bed compositions.
+  * Advisor: Professor Vladimir Nikora
+  
+* Jun – Aug 2013: Summer Project, Aberdeen Biomedical Imaging Centre, University of Aberdeen
+  * Project: Switching Coil Design for a Fast Field Cycling MRI (FFC-MRI)
+  * Advisor: Professor David Lurie
 
-* Summer 2013: Research Assistant, University of Aberdeen
-  * Worked on the Fast Field-Cycling MRI project at Aberdeen Biomedical Imaging Centre.
-  * Supervisor: Professor David Lurie
-
-* Spring 2016 - Spring 2017: Management Consultant, Burgess Management Consultants
+* Apr 2016 – Jan 2017: Management Consultant, Burgess Management Consultants
   
 Skills
 ======
