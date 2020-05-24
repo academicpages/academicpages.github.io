@@ -8,6 +8,6 @@ date: 2020-05-15
 location: "Online"
 ---
 
-Conference proceedings talk on NeatSkin: A Discrete Impedance Tomography Skin Sensor at the RoboSoft 2020 conference hosted by Yale University, USA, but changed to an online conference.
+Conference proceedings talk on NeatSkin: A Discrete Impedance Tomography Skin Sensor at the RoboSoft 2020 conference held in New Haven, Connecticut, USA, but changed to an online conference.
 
 [Watch the talk on YouTube](youtu.be/mRZc26OiJSY)
