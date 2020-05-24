@@ -15,6 +15,8 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
+# IK ADDED
+# gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/7948/head"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
