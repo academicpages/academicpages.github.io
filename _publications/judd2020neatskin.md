@@ -14,4 +14,4 @@ In this paper we present NeatSkin, a novel artificial skin sensor based on elect
 
 [Download paper here](https://research-information.bris.ac.uk/files/221911032/Robosoft_2020_v3.pdf)
 
-[Watch a presentation on YouTube](youtu.be/mRZc26OiJSY)
+[Watch presentation on YouTube](youtu.be/mRZc26OiJSY)
