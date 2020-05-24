@@ -14,7 +14,7 @@ I am a PhD student in the [Soft Robotics Group](http://www.bristol.ac.uk/enginee
 
 Curriculum Vitae
 ------
-My CV can be viewed [here](https://euanjudd.github.io/cv) or as a [pdf](https://euanjudd.github.io/files/paper1.pdf).
+My CV can be viewed [here](https://euanjudd.github.io/cv) or as a [pdf](https://euanjudd.github.io/files/EuanJuddCVMarch2020.pdf).
 
 Publications
 ------
