@@ -64,5 +64,5 @@ Teaching
   
 Voluntary Work
 ======
-* Volunteer in Borneo, Raleigh International, Summer 2012.
+* Volunteer, Raleigh International Borneo, Summer 2012.
 * Fundraised £3000 for Raleigh International and helped fundraised£1500 for Childreach International.
