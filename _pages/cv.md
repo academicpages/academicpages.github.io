@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Mechanical Engineering, University of Aberdeen, 2014
+* B.Eng. in Mechanical Engineering (First-Class Honours), University of Aberdeen, 2014
 * Ph.D in Robotics, University of Bristol, 2021 (expected)
 
 Work experience
