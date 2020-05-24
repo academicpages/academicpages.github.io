@@ -32,7 +32,6 @@ install_github("ShanaScogin/BayesPostEst")
 
 I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [RWmisc](https://github.com/jayrobwilliams/RWmisc). It includes:
 
-- Coefficient plots and marginal effects plots for Bayesian models
 - Managing multiple different projections for cross-national spatial data
 - Correcting for overlapping polygons when aggregating raster data to polygons
 - My custom minimal ggplot2 theme
