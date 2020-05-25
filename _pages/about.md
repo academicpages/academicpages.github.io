@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ilya Kolb, PhD"
-excerpt: "Biomedical engineer"
+title: ""
+excerpt: "Ilya Kolb, PhD"
 author_profile: true
 redirect_from: 
   - /about/

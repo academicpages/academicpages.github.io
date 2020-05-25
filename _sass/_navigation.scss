@@ -173,9 +173,10 @@
    ========================================================================== */
 
 .greedy-nav {
+  background: $header-color;
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: $header-color; //$background-color;
 
   a {
     display: block;

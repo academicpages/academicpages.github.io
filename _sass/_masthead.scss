@@ -3,8 +3,9 @@
    ========================================================================== */
 
 .masthead {
+  background: $header-color;
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 2px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -12,6 +13,7 @@
   z-index: 20;
 
   &__inner-wrap {
+    background: $header-color; // IK ADDED
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
