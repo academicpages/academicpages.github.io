@@ -11,7 +11,7 @@ title                    : "Peter Sadowski" # Title
 title_separator          : "-"
 name                     : &name "Peter Sadowski"
 description              : &description "Assistant Professor"
-url                      : www2.hawaii.edu/psadow #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://peterjsadowski.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peterjsadowski/peterjsadowski.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
