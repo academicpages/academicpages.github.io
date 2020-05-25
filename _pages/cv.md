@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Fine Chemicals, East China University of Science and Technology, 2016
+* M.S. in Chemistry, Stony Brook University, 2018
+* Ph.D in Physical Chemistry, Stony Brook University, 2022 (expected)
 
 Work experience
 ======
