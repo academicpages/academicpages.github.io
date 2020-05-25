@@ -30,8 +30,8 @@ December 2018: [SHERPA](https://parameter-sherpa.readthedocs.io/en/latest/) at N
 October 2018: [Learning in the Machine: Recirculation is Random Backpropagation in Neural Networks](https://www2.hawaii.edu/~psadow/wp-content/uploads/2018/10/AutoRec2018.pdf)
 
 ### Teaching
-2020 Fa — ICS 235: ML Methods, ICS 311: Algorithms
+2020 Fa — ICS 235: ML Methods, ICS 311: Algorithms  
 2020 Sp — ICS 435: Machine Learning Fundamentals  
 2019 Fa — ICS 235: Machine Learning Methods  
-2019 Sp — ICS 635: Machine Learning
+2019 Sp — ICS 635: Machine Learning  
 2018 Fa — ICS 691: Deep Learning
