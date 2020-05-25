@@ -19,7 +19,7 @@ header:
 <a href="https://anu365-my.sharepoint.com/:f:/g/personal/u6287914_anu_edu_au/Eu_MENukuFdOgOoNG17ZfNMBAmKxajUJ3p703gYh3Pmq2g?e=atyP1I" target="_blank"><b>Dataset (txt/png)</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvprw_CED.txt" target="_blank"><b>BibTex</b></a>
 
-![CED_banner](/images/CED_banner.png){:class="img-responsive"}
+![CED_banner](/images/banners/CED_banner.png){:class="img-responsive"}
 
 {% include youtubePlayer.html id=page.youtubeId %}
 <br />

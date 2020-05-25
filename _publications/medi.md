@@ -19,7 +19,7 @@ header:
 <a href="https://drive.google.com/file/d/1s-PR7GxpCAIB20hu7F3BlbXdUi4c9UAo/view" target="_blank"><b>Data</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2019_arxiv_medi.txt" target="_blank"><b>BibTex</b></a>
 
-![blurry_banner](/images/blurry_banner.png){:class="img-responsive"}
+![blurry_banner](/images/banners/blurry_banner.png){:class="img-responsive"}
 
 {% include youtubePlayer.html id=page.youtubeId %}
 <br />

@@ -19,7 +19,7 @@ header:
 <a href="https://github.com/TimoStoff/event-cnn" target="_blank"><b>Code</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2020_arxiv_ecnn.txt" target="_blank"><b>BibTex</b></a>
 
-![ecnn20_banner](/images/20arXiv_banner.png){:class="img-responsive"}
+![ecnn20_banner](/images/banners/20arXiv_banner.png){:class="img-responsive"}
 
 {% include youtubePlayer.html id=page.youtubeId %}
 <br />

@@ -21,7 +21,7 @@ header:
 <a href="https://docs.google.com/presentation/d/1uedxAvh0E9LA5ZkID_cRvfQFqFeRheWsPM6OksaQld0/edit?usp=sharing" target="_blank"><b>Poster</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2020_wacv_firenet.txt" target="_blank"><b>BibTex</b></a>
 
-![firenet_banner](/images/firenet_banner.png){:class="img-responsive"}
+![firenet_banner](/images/banners/firenet_banner.png){:class="img-responsive"}
 
 {% include youtubePlayer.html id=page.youtubeId %}
 <br />

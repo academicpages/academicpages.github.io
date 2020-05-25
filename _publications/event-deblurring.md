@@ -20,7 +20,7 @@ header:
 <a href="https://drive.google.com/open?id=11O-D7uwN9DM47JFeFSicMjdhW9fG09-1" target="_blank"><b>Slides</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2019_cvpr_blurry.txt" target="_blank"><b>BibTex</b></a>
 
-![blurry_banner](/images/blurry_banner.png){:class="img-responsive"}
+![blurry_banner](/images/banners/blurry_banner.png){:class="img-responsive"}
 
 {% include youtubePlayer.html id=page.youtubeId %}
 <br />

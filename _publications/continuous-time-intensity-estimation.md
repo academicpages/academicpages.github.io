@@ -21,7 +21,7 @@ header:
 <a href="https://drive.google.com/open?id=1qdwh4tSLcpFZWMzjpIC_ZdlmyicJeghs" target="_blank"><b>Slides</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2018_accv_continuous_bibtex.txt" target="_blank"><b>BibTex</b></a>
 
-![Complementary_filter_pic](/images/filter.png){:class="img-responsive"}
+![Complementary_filter_pic](/images/banners/filter.png){:class="img-responsive"}
 
 {% include youtubePlayer.html id=page.youtubeId %}
 <br />
