@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@peterjsadowski 
-academicpages
-/
-academicpages.github.io
-75
-2.8k
-8.5k
- Code
- Issues 80
- Pull requests 53 Actions
- Projects 0
- Wiki
- Security 0
- Insights
-academicpages.github.io/_config.yml
-@ning-y ning-y Add vendor as excluded dir
-5a8a8db on Apr 14, 2019
-@staeiou@tlcaputi@a-paxton@ning-y@luismmontilla@jacobtfisher@aki-nishimura
-311 lines (285 sloc)  7.92 KB
- 
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -35,13 +7,13 @@ academicpages.github.io/_config.yml
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Peter Sadowski" # Title
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Peter Sadowski"
+description              : &description "Assistant Professor"
+url                      : https://peterjsadowski.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "peterjsadowski/peterjsadowski.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -108,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Peter Sadowski"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Assistant Professor of Computer Science"
+  location         : "Honolulu, HI"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -124,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "peterjsadowski"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7354-5461"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "peterjsadowski"
   vine             :
   weibo            :
   xing             :
@@ -337,15 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
