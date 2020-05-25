@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<p>
 Peter Sadowski, PhD  
 Assistant Professor  
 Information and Computer Science  
@@ -17,7 +16,9 @@ Honolulu, HI 96822
 Office: POST 306C  
 Tel: 808-956-2023 (Office)  
 Email: peter.sadowski@hawaii.edu  
-</p>
 
-<iframe src="/images/POST_bldg.jpg" style="border:none;"></iframe>
+<!--- ![POST](/images/POST_bldg.jpg) --->
+<img src="/images/POST_bldg.jpg"
+     alt="POST Bldg"
+     style="float: left; margin-right: 10px;" />
 
