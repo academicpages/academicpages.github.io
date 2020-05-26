@@ -1,1 +1,1 @@
-Sitemap: https://peterjsadowski.github.io/sitemap.xml
+Sitemap: /sitemap.xml
