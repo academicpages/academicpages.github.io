@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+### Contact
+
 Peter Sadowski, PhD  
 Assistant Professor  
 Information and Computer Science  
