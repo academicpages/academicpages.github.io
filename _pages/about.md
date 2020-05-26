@@ -19,9 +19,9 @@ B.S. Computer Science, California Institute of Technology
 
 ### News
 
-March 2020: Two papers presented at [AAAI Symposium](https://sites.google.com/view/aaai-mlps/proceedings?authuser=0) for Combining  Artificial Intelligence and Machine Learning with Physics Sciences
+March 2020: Two papers at [AAAI Symposium](https://sites.google.com/view/aaai-mlps/proceedings?authuser=0) for Combining  Artificial Intelligence and Machine Learning with Physics Sciences
 
-October 2019: Two papers accepted to NeurIPS workshop on Machine Learning for the Physical Sciences
+October 2019: Two papers at NeurIPS workshop on [Machine Learning for the Physical Sciences](https://ml4physicalsciences.github.io/)
 
 September 2019: Research highlighted in “[Hawaiʻi is a Playground for Data Science](https://www.linkedin.com/pulse/hawai%CA%BBi-playground-data-science-margaretta-colangelo/)“ by Margaretta Colangelo of Deep Knowledge Ventures
 
