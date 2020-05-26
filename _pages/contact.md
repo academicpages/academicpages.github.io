@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Contact
+# Contact
 
 Peter Sadowski, PhD  
 Assistant Professor  
