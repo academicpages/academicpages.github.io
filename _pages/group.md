@@ -18,3 +18,7 @@ author_profile: true
 - Anthony Pineci (Caltech, Summer Undergrad Research Fellow)  
 - Michael Ito (Summer Undergrad Research Fellow)  
 - Yusuke Hatanaka (Summer Undergrad Research Fellow)  
+
+<img src="/images/honolulu_384.jpg"
+     alt="Honolulu"
+     style="float: left; margin-right: 10px;" />
