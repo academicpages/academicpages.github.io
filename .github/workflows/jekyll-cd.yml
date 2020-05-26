@@ -16,4 +16,4 @@ jobs:
         with:
           fetch-depth: 1
       - name: 🧪 Build and deploy
-        uses: victoriadrake/jekyll-cd@master
+        uses: peterjsadowski/jekyll-cd@master
