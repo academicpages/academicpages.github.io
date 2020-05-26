@@ -10,7 +10,7 @@ redirect_from:
 
 ### About
 
-I am an Assistant Professor at University of Hawai`i at Mānoa in the Department of Information and Computer Sciences. My research focuses on machine learning and artificial intelligence, particularly deep learning with artificial neural networks.
+I am an Assistant Professor at [University of Hawai`i at Mānoa]( https://manoa.hawaii.edu) in the Department of [Information and Computer Sciences](https://www.ics.hawaii.edu). My research focuses on machine learning and artificial intelligence, particularly deep learning with artificial neural networks.
 
 ### Background
 
