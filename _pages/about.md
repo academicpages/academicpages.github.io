@@ -35,7 +35,16 @@ I am currently interning at [Microsoft Research](https://www.microsoft.com/en-us
       Systems, and Applications]</a>
       <br/>
       <a href="https://arxiv.org/pdf/1908.05655.pdf">
-      [Preprint]
+      [Tech Report]
+      </a>
+      <a href="https://www.youtube.com/watch?v=d9akLpsgeyg">
+      [OOPSLA]
+      </a>
+      <a href="https://www.youtube.com/watch?v=XtL1oaITAuY">
+      [Midwest PL Summit]
+      </a>
+      <a href="/files/oopsla-19.pdf">
+      [Slides]
       </a>
     </font>
     </li>
