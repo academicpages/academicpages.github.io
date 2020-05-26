@@ -12,34 +12,33 @@ redirect_from:
 Education
 ======
 * Master of Engineering, Osaka University, 2020
+  * **Thesis** "Large Spatio-temporal Fluctuation of von Karman Turbulence and its Energy Cascade Dynamics"
+  * **Supervisor** [Prof. Susumu Goto](http://fm.me.es.osaka-u.ac.jp/goto/)
+  * **Awarded "Graduate School of Engineering Science Outstanding Student Award"**
 * Batchelor of Engineering, Osaka University, 2018
+  * **Supervisor** Prof. Susumu Goto
 * Associate Degree of Engineering, National Institute of Technology, Maizuru College, 2016
 
 Other experiences
 ======
 * Summer 2019: Research Internship
-  * The Japan Aerospace Exploration Agency (JAXA), Japan
-  * Project: Research on acceleration of computational fluid simulation program for large-scale computation.
-  * Supervisor: Dr. Seiji Tsutsumi
+  * **Place** The Japan Aerospace Exploration Agency (JAXA), Japan
+  * **Project** Research on acceleration of computational fluid simulation program for large-scale computation.
+  * **Supervisor** Dr. Seiji Tsutsumi
 
 * Spring 2019: Visiting Student
-  * The University of Exeter, UK
-  * Project: Improve my spectral element-Fourier method code, especially focus on implementation of "adaptive-hybrid parallelisation algorithm".
-  * Supervisor: Dr. David Moxey
+  * **Place** The University of Exeter, UK
+  * **Project** Improve my spectral element-Fourier method code, especially focus on implementation of "adaptive-hybrid parallelisation algorithm".
+  * **Supervisor** [Dr. David Moxey](https://davidmoxey.uk/)
 
 * Summer 2014: Research Internship
-  * The University College London, UK
-  * Project: Contribute to research projects at Pedestrian Accessibility Movement Environment Laboratory (PAMELA).
+  * **Place** The University College London, UK
+  * **Project** Contribute to research projects at Pedestrian Accessibility Movement Environment Laboratory (PAMELA).
 
 Skills
 ======
-* Language
-  * Japanese (native)
-  * English (fluent, IELTS overall 7.5)
-* Programming
-  * Fortran
-  * Python
-  * Julia
+* **Language** Japanese (native), English (fluent, IELTS overall 7.5)
+* **Programming** Fortran, Python, Julia
 
 <!-- Publications
 ======
@@ -47,11 +46,16 @@ Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Competitive Scholarships
+======
+* [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html), 04/2018/03/2020
+* [The Fujii International Scholarship Foundation](http://www.fujii-zaidan.or.jp/index.html), 04/2017-03/2018
 
 <!-- Teaching
 ======
