@@ -19,6 +19,6 @@ author_profile: true
 - Michael Ito (Summer Undergrad Research Fellow)  
 - Yusuke Hatanaka (Summer Undergrad Research Fellow)  
 
-<img src="/images/honolulu_384.jpg"
+<img src="/images/honolulu_384.png"
      alt="Honolulu"
      style="float: left; margin-right: 10px;" />
