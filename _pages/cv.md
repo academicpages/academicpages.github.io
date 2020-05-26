@@ -52,6 +52,11 @@ Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Competitive Scholarships
+======
+* [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html), 04/2018/03/2020
+* [The Fujii International Scholarship Foundation](http://www.fujii-zaidan.or.jp/index.html), 04/2017-03/2018
+
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
