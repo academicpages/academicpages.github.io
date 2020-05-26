@@ -19,7 +19,7 @@ My research interests include modeling techniques and algorithms on mixed-intege
 
 ---
 # Education
-- Apr 2019--present: a PhD candidate, School of Engineering
+- Apr 2019--present: a Ph.D. candidate, School of Engineering
 Department of Industrial Engineering and Economics, Tokyo Institute of Technology
 - Apr 2013--Mar 2015: Master of Engineering, Department of Industrial Engineering and Management, Graduate School of Decision Science and Technology, Tokyo Institute of Technology
 - Apr 2009--Mar 2013: Bachelor of Engineering, Department of Industrial and Systems Engineering, Faculty of Engineering, Tokyo Institute of Technology
