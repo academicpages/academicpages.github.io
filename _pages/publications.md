@@ -19,7 +19,7 @@ author_profile: true
 
 P. Baldi, P. Sadowski, and Z. Lu, [Learning in the Machine: Random Backpropagation and the Deep Learning Channel](https://www.sciencedirect.com/science/article/pii/S0004370218300985). _Artificial Intelligence_, 2018. [[arxiv](https://arxiv.org/abs/1612.02734)]  
 
-P. Baldi and P. Sadowski, [Learning in the Machine: Recirculation is Random Backpropagation](https://www.sciencedirect.com/science/article/pii/S0893608018302685?via%3Dihub). _Neural Networks_, 2018. [[preprint](http://localhost/wordpress/wp-content/uploads/2018/10/AutoRec2018.pdf)]  
+P. Baldi and P. Sadowski, [Learning in the Machine: Recirculation is Random Backpropagation](https://www.sciencedirect.com/science/article/pii/S0893608018302685?via%3Dihub). _Neural Networks_, 2018. [[preprint](/files/Recirculation.pdf)]  
 
 P. Baldi, P. Sadowski, and Z. Lu, [Learning in the Machine: the Symmetries of the Deep Learning Channel](http://www.sciencedirect.com/science/article/pii/S0893608017301983). _Neural Networks_, 2017. [[arxiv](https://arxiv.org/abs/1712.08608)]  
 
