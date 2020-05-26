@@ -31,7 +31,7 @@ August 2019: [Learning in the Machine](https://www.ijcai.org/proceedings/2019/08
 
 December 2018: [SHERPA](https://parameter-sherpa.readthedocs.io/en/latest/) at NeurIPS workshop on Machine Learning Open Source Software
 
-October 2018: [Learning in the Machine: Recirculation is Random Backpropagation in Neural Networks](https://www2.hawaii.edu/~psadow/wp-content/uploads/2018/10/AutoRec2018.pdf)
+October 2018: [Learning in the Machine: Recirculation is Random Backpropagation in Neural Networks](/files/Recirculation.pdf)
 
 ### Teaching
 2020 Fa — ICS 235: ML Methods, ICS 311: Algorithms  
