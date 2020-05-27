@@ -53,7 +53,8 @@ Education
   
 Awards
 ======
-* 2019, CASIA "Climbing" Second-Class Scholarship, CASIA
+* 2020, Pacemaker to Merit Student, CASIA
+* 2019, "Climbing" Second-Class Scholarship, CASIA
 * 2019, AAAI Student Scholarship, AAAI
 * 2018 & 2019, SIGIR Student Travel Grants, ACM SIGIR
 * 2017, Second Place in the 12th CASIA Five-a-side Football League, CASIA
