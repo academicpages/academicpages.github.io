@@ -4,14 +4,11 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Sociology, Pontificia Universidad Católica de Chile <br>
-Avenida Vicuña Mackenna 4860, Casilla 306, Correo 22, Macul, Santiago <br>
-Phone: +56 2 2354 4651 <br>
-Email: mebucca  [at] uc [dot] cl
+Department of Political and Social Sciences, European University Institute<br>
+Via dei Roccettini, 9, I-50014 San Domenico di Fiesole (FI)<br>
+Email: mauricio [dot] bucca [at] eui [dot] eu
 
 
 <p align="center">
-  <img src="https://mebucca.github.io/images/Santiago_PUC.jpg?raw=true" alt="Photo" style="width: 1050px;"/> 
+  <img src="https://mebucca.github.io/images/Firenze_EUI.jpg?raw=true" alt="Photo" style="width: 1050px;"/> 
 </p>
-
-
