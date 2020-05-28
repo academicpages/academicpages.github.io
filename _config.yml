@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shawn / Xiangchen Dong"
 title_separator          : "-"
 name                     : &name "Shawn"
-description              : &description "personal description"
+description              : &description "Software Engineer at the Bay Area, CA"
 url                      : https://shawnxd.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shawnxd/shawnxd.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
