@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "PhenCards Project"
+excerpt: "Description of PhenCards Project<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+For this Project, I applied PySpark to merge databases from several sources and used Docker to build images of the project. Here is an overview of the data sorces I used:
+  
+| INDEX | EXTERNAL-DATABASE-NAME  | SOURCE-LINK  | INSTRUCTIONS  |  COMMENTS |
+|---|---|---|---|---|
+| 1 | ICD-10  | ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2020/icd10cm_order_2020.txt  |    No permission required| Use the link to download  |
+| 2  |  ICD-9 |  ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD-9/ucod.txt |    No permission required| Use the link to download  |
+| 3  | ICD-O  | https://github.com/philipsales/icdoncology-3/blob/master/icd-oncology.v3.json  |    No permission required| Use the link to download  |
+| 4  |  SNOMEDCT_US |https://download.nlm.nih.gov/umls/kss/IHTSDO20200131/SnomedCT_InternationalRF2_PRODUCTION_20200131T120000Z.zip |  If `account`/`password` is needed, use the following: ``/`` |  Need account information for download permission, around 500M|
+| 5  | UMLS  | https://download.nlm.nih.gov/umls/kss/2019AB/umls-2019AB-full.zip  |  If `account`/`password` is needed, use the following: ``/`` |  Need account information for download permission, around 4GB; here is a useful tool to download using cluster: https://askubuntu.com/questions/29079/how-do-i-provide-a-username-and-password-to-wget|
+| 6  | MeSH  | ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/xmlmesh/desc2020.gz  |    No permission required| Use the link to download  |
+|  7 | DOID  |  http://purl.obolibrary.org/obo/doid.owl | No permission required  |  This is an HTML format file, need attention for parsing |
