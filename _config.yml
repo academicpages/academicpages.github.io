@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aaron S EIsman"
+  name             : "Aaron S Eisman"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Providence, RI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/aaron.eisman.1/bibliography/public/"
+  googlescholar    : "https://scholar.google.com/citations?user=UyNe0vMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7609-1488"
+  orcid            : "https://orcid.org/0000-0001-7609-1488"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
