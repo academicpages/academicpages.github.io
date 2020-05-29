@@ -20,7 +20,7 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 
 ### Other Recent-ish News
-* Excited to share a *new* draft of "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/SVB_GasPrice_Draft_20200323.pdf)." We received some [press coverage](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/).
+* Excited to share a *new* draft of "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/SVB_GasPrice_Draft_20200528.pdf)." We received some [press coverage](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/).
 * Paper on technology adoption and uncertainty finally found a [home at ReSTAT](https://www.mitpressjournals.org/doi/abs/10.1162/rest_a_00823). It's been a long journey! This project, and my excellent coauthors, has provided the best learning opportunity. To be published in 2020.
 
 
