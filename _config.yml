@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Aaron S Eisman"
-  avatar           : "profile.png"
+  avatar           : "profile_bw.png"
   bio              : "MD-PhD Student in Biomedical Informatics at Brown University"
   location         : "Providence, RI"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/aaron.eisman.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=UyNe0vMAAAAJ&hl=en"
-  email            :
+  email            : aaron_eisman@brown.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
