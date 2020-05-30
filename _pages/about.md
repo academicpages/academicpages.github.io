@@ -11,6 +11,9 @@ redirect_from:
 Hi! I am now a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Natural Language Processing and Social Media Analytics. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2016.  
 <br/>
 
+**I am expected to graduate in June 2021 and now looking for a machine learning engineer job in industry. **
+**我预计于2021年6月毕业，正在寻找机器学习算法工程师相关岗位。**
+<br/>
   
 Research Interests
 ======
