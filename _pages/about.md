@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Port"
+title: "Welcome to My Page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-English Introduction
+Introduction
 ======
 This is the personal website of Shawn. I provide consultant for students and entry-level engineers about education programs and career development. If you are interested in my previous projects and technical experience, please visit [my portfolio](https://shawnxd.github.io/portfolio/). If you are intested in my consulting and would like to get some advice from me, pelase have a look at [my Service](https://shawnxd.github.io/talks/)
 
