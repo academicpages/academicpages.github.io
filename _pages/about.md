@@ -12,6 +12,7 @@ Hi! I am now a fourth-year Ph.D. student at the [Institute of Automation, Chines
 <br/>
 
 **I am expected to graduate in June 2021 and now looking for a machine learning engineer job in industry. **
+
 **我预计于2021年6月毕业，正在寻找机器学习算法工程师相关岗位。**
 <br/>
   
