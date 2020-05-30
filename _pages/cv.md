@@ -25,7 +25,7 @@ Clinical Research Coordinator, Massachusetts General Hospital, 2013-2015
 Director of Technology, Paskewitz Asset Management, 2008-2013
 : *Responsible for managing research and development of global quantitative trading strategies as well as firm-wide technology innovation and implementation including the transition to entirely cloud-based scalable trading, research, and development architecture using Amazon Web Services.*
 
-*Research Assistant, Koleske Lab, Yale University, 2005-2007* 
+Research Assistant, Koleske Lab, Yale University, 2005-2007 
 : *Demonstrated first in vivo phenotypic dysregulation of neurogenesis in Arg -/- mice by observing that they do not undergo normal morphological maturation.*
 
 ### PUBLICATIONS
