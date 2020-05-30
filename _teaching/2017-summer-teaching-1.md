@@ -2,7 +2,7 @@
 title: "Instructor, Introduction to Exercise Physiology"
 collection: teaching
 type: "High School Course"
-permalink: /teaching/2019-spring-teaching-1
+permalink: /teaching/2017-summer-teaching-1
 venue: "Brown University, STEM II Summer Program"
 date: 2016-07-01
 location: "Providence, RI"
