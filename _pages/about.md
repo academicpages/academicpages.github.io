@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Physican-Scientist In-Training"
+title: "MD-PhD Student"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
