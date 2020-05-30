@@ -31,7 +31,7 @@ PUBLICATIONS
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-ABSTRACTS AND PRESENTATIONS
+TALKS AND PRESENTATIONS
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
