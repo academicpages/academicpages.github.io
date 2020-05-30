@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-### EDUCATION
+EDUCATION
 ======
 * MD-PhD Student, Biomedical Informatics and Computational Biology, Brown University
-* ScB, Applied Mathematics, Brown University, (2008)
+* ScB, Applied Mathematics, Brown University, 2008
 
-### PROFESSIONAL EXPERIENCE
+PROFESSIONAL EXPERIENCE
 ======
 Data Manager (~4hrs/wk), Massachusetts General Hospital, 2015-present
 : *Manages data quality metrics for the MGH Cardiovascular Biorepository and seeks to improve ongoing operation processes through streamlining and automation.*
@@ -28,25 +28,25 @@ Director of Technology, Paskewitz Asset Management, 2008-2013
 Research Assistant, Koleske Lab, Yale University, 2005-2007 
 : *Demonstrated first in vivo phenotypic dysregulation of neurogenesis in Arg -/- mice by observing that they do not undergo normal morphological maturation.*
 
-### PUBLICATIONS
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### ABSTRACTS AND PRESENTATIONS
+ABSTRACTS AND PRESENTATIONS
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-### TEACHING
+TEACHING
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### VOLUNTEER
+VOLUNTEER
 ======
 Brown Student Free Clinic @ Rhode Island Free Clinic, Board Member, 2015-2017
 
