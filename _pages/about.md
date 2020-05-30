@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MD-PhD Student in Biomedical Informatics"
+title: "Physican-Scientist-Informatician In-Training"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aaron S Eisman / MD-PhD Student"
+title                    : "Aaron S Eisman"
 title_separator          : "-"
 name                     : &name "Aaron S Eisman"
 description              : &description "personal description"
