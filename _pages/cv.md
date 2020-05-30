@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**EDUCATION**
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MD-PhD Student, Biomedical Informatics and Computational Biology, Brown University
+* ScB, Applied Mathematics, Brown University, (2008)
 
-Work experience
+**PROFESSIONAL EXPERIENCE**
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Data Manager (~4hrs/wk), Massachusetts General Hospital, 2015-present
+*Manages data quality metrics for the MGH Cardiovascular Biorepository and seeks to improve ongoing operation processes through streamlining and automation.*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Clinical Research Coordinator, Massachusetts General Hospital, 2013-2015
+*Coordinated NIH and industry-sponsored heart failure and exercise physiology clinical trials. Used clinically indicated cardiopulmonary exercise testing with right heart catheterization to elucidate potential pre-clinical manifestations of heart failure in patients with dyspnea on exertion.*
 
-Publications
+Director of Technology, Paskewitz Asset Management, 2008-2013
+*Responsible for managing research and development of global quantitative trading strategies as well as firm-wide technology innovation and implementation including the transition to entirely cloud-based scalable trading, research, and development architecture using Amazon Web Services.*
+
+*Research Assistant, Koleske Lab, Yale University, 2005-2007* 
+Demonstrated first in vivo phenotypic dysregulation of neurogenesis in Arg -/- mice by observing that they do not undergo normal morphological maturation.
+
+**PUBLICATIONS**
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+**ABSTRACTS AND PRESENTATIONS**
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+**TEACHING**
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+**VOLUNTEER**
 ======
-* Currently signed in to 43 different slack teams
+Brown Student Free Clinic @ Rhode Island Free Clinic, Board Member, 2015-2017
+
+Patient Aide, Yale New Haven Hospital CCU, 2012-2013
+
+Providence Science Outreach Co-Coordinator, Brown University, 2004-2006
