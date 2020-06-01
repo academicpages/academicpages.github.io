@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MOPO
 venue: "ArXiv 2020"
 date: 2020-6-1
-citation: 'Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
+citation: 'Tianhe Yu*, Garrett Thomas*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
 <i>ArXiv 2020</i>.'
 ---
 [[PDF]](https://arxiv.org/pdf/2005.13239.pdf)
