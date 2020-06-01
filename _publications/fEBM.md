@@ -2,9 +2,10 @@
 title: "Training Deep Energy-Based Models with f-Divergence Minimization"
 collection: publications
 permalink: /publications/fEBM
-venue: "ArXiv 2020"
+venue: "The 37th International Conference on Machine Learning (ICML 2020)"
 date: 2020-3-9
-citation: '<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon. <i>ArXiv 2020</i>.'
+citation: '<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
+<i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.'
 ---
 [[PDF]](https://arxiv.org/pdf/2003.03463.pdf)
 
