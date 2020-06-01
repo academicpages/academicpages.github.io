@@ -5,7 +5,7 @@ collection: publications
 permalink: 
 excerpt: 
 date: 2020-02-04
-venue: Under Review
+venue: ICML 2020
 paperurl: https://arxiv.org/abs/1910.08018
 citation: 'X. Fan, Y. Yue, P. Sarkar, R. Wang . &quot;A Unified Framework for Tuning Hyperparameters in Clustering Problems&quot; <i>Under Review</i>.'
 ---
