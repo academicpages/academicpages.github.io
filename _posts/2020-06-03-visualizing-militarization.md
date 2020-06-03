@@ -138,5 +138,5 @@ War](https://en.wikipedia.org/wiki/South_African_Border_War) and
 [Rhodesian Bush War](https://en.wikipedia.org/wiki/Rhodesian_Bush_War),
 two anticolonial wars, making the MRAP a potent symbol of how [tools
 used to police the empire abroad are eventually turned on a country’s
-own
-citizens](https://www.ucpress.edu/book/9780520295629/badges-without-borders).
+own citizens at
+home](https://www.ucpress.edu/book/9780520295629/badges-without-borders).
