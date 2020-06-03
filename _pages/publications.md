@@ -4,14 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+9. **P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin, CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information, To apper at International Conference on Machine Learning (ICML), 2020
 
-8. **P. Cheng**, M. Min, D. Shen, C. Malon, Y. Zhang, Y. Li and L. Carin, Improving Disentangled Text Representation Learning with Information Theoretical Guidance, to appear at Annual Meeting of the Association for Computational Linguistics (ACL), 2020
+8. **P. Cheng**, M. Min, D. Shen, C. Malon, Y. Zhang, Y. Li, and L. Carin, [Improving Disentangled Text Representation Learning with Information Theoretical Guidance](https://arxiv.org/pdf/2006.00693.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2020
 
-7. **P. Cheng**, Y. Li, X. Zhang, L. Chen, D. Carlson, L. Carin, [Dynamic Embedding on Textual Networks via a Gaussian Process](http://people.ee.duke.edu/~lcarin/DetGP_AAAI_final.pdf), American Association of Artificial Intelligence (AAAI), 2020 <span style="color: red;">Oral</span>
+7. **P. Cheng**, Y. Li, X. Zhang, L. Chen, D. Carlson, and L. Carin, [Dynamic Embedding on Textual Networks via a Gaussian Process](http://people.ee.duke.edu/~lcarin/DetGP_AAAI_final.pdf), American Association of Artificial Intelligence (AAAI), 2020 <span style="color: red;">Oral</span>
 
-6. **P. Cheng**\*, D. Shen\*,  D. Sundararaman, X. Zhang, Q. Yang, M. Tang, A. Celikyilmaz, and L. Carin, [Learning Compressed Sentence Representations for On-Device Text Processing](http://www.ece.duke.edu/~lcarin/Compressed_ACL2019.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2019 <span style="color: red;">Oral</span>
+6. **P. Cheng**\*, D. Shen\*,  D. Sundararaman, X. Zhang, A. Celikyilmaz, and L. Carin, [Learning Compressed Sentence Representations for On-Device Text Processing](http://www.ece.duke.edu/~lcarin/Compressed_ACL2019.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2019 <span style="color: red;">Oral</span>
 
-5. **P. Cheng**, Y. Li, X. Zhang, L. Chen, D. Carlson, L. Carin, [Gaussian-Process-Based Dynamic Embedding for Textual Networks](https://grlearning.github.io/papers/98.pdf), Neural Information Processing Systems (NeurIPS) Workshop, 2019
+5. **P. Cheng**, Y. Li, X. Zhang, L. Chen, D. Carlson, and L. Carin, [Gaussian-Process-Based Dynamic Embedding for Textual Networks](https://grlearning.github.io/papers/98.pdf), Neural Information Processing Systems (NeurIPS) Workshop, 2019
 
 4. L. Chen, G. Wang, C. Tao, D. Shen, **P. Cheng**, X. Zhang, W. Wang, Y. Zhang, and L. Carin, [Improving Textual Network Embedding with Global Attention via Optimal Transport]( http://www.ece.duke.edu/~lcarin/NetworkEmbedding_OT.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2019
 

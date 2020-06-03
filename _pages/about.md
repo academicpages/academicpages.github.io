@@ -16,8 +16,9 @@ My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 
 ### Research Highlights:
+- [2020/06/01] One paper got accepted at ICML 2020.
 
-- [2020/04/03] One paper got accepted at ACL 2020.
+- [2020/04/03] One [paper](https://arxiv.org/pdf/2006.00693.pdf) got accepted at ACL 2020.
 
 - [2020/03/24] Began serving as a reviewer for NeurIPS 2020.
 
@@ -35,5 +36,5 @@ My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 - [2019/04/24] One [paper](https://arxiv.org/pdf/1807.01750.pdf) got accepted at ICML 2019.
 
-- [2018/11/16] One [paper](http://bayesiandeeplearning.org/2018/papers/53.pdf) got accepted at NeurIPS 2018 Bayesian Deep Learning workshop.
+- [2018/11/16] One [paper](http://bayesiandeeplearning.org/2018/papers/53.pdf) got accepted at NeurIPS 2018 Bayesian Deep Learning workshop as spotlight presentation.
 
