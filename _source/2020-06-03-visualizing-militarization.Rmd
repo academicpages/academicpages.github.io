@@ -27,7 +27,7 @@ library(lubridate)
 library(RWmisc)
 ```
 
-```{r load}
+```{r load, cache.extra = file.mtime(commandArgs(trailingOnly = T)[1])}
 ## read in data
 equipment <- rio::import_list(commandArgs(trailingOnly = T)[1])
 
@@ -35,7 +35,7 @@ equipment <- rio::import_list(commandArgs(trailingOnly = T)[1])
 equipment <- lapply(equipment, function(x) filter(x, year(`Ship Date`) >= 1990))
 ```
 
-```{r prep}
+```{r prep, dependson = 'load'}
 ## get total number of MRAPs transferred for ymax of suspension rectangle
 bind_rows(equipment[1:49], .id = 'State Name') %>%
   group_by(year(`Ship Date`), State) %>% 
@@ -78,7 +78,7 @@ The [Marshall Project](https://www.themarshallproject.org/) has an [online datab
 
 Below I've plotted the total number of MRAPs transferred to law enforcement agencies in each state from `r min(year(transfers$date))` to `r max(year(transfers$date))`. It's important to note that this is *not* a reflection of the total number of MRAPs in each state as this just count the transfers from DLA to local agencies. It's possible for agencies to return the vehicles, as LAUSD did, and they may be rendered nonoperational over time as they are costly to maintain.
 
-```{r mrap, fig.width = 10, fig.height = 8, dpi = 200}
+```{r mrap, fig.width = 10, fig.height = 8, dpi = 200, dependson = 'prep'}
 ggplot(transfers, aes(x = date, y = mrap_ct)) +
   geom_line() +
   geom_rect(aes(xmin = rect_l, xmax = rect_r, ymin = rect_b, ymax = rect_t),
@@ -105,4 +105,4 @@ To that end, I've set up this post to automatically update whenever DLA releases
 
 ## Coda
 
-I like to think of myself as pretty in-the-know when it comes to police militarization in the US. I study state-based violence and repression around the world, and I've been aware of increasing militarization in US police forces for over a decade now. I still learned something new while writing this post. The US MRAP program was inspired by the [Casspir](https://en.wikipedia.org/wiki/Casspir) (see Guardia, Mike. 20 November, 2013. *US Army and Marine Corps MRAPs: Mine Resistant Ambush Protected Vehicles*. Osprey Publishing. ISBN 978-1-78096-255-9., p. 4), a vehicle developed by Apartheid South Africa based on their experiences in the [South African Border War](https://en.wikipedia.org/wiki/South_African_Border_War) and [Rhodesian Bush War](https://en.wikipedia.org/wiki/Rhodesian_Bush_War), two anticolonial wars, making the MRAP a potent symbol of how [tools used to police the empire abroad are eventually turned on a country's own citizens](https://www.ucpress.edu/book/9780520295629/badges-without-borders).
+I like to think of myself as pretty in-the-know when it comes to police militarization in the US. I study state-based violence and repression around the world, and I've been aware of increasing militarization in US police forces for over a decade now. I still learned something new while writing this post. The US MRAP program was inspired by the [Casspir](https://en.wikipedia.org/wiki/Casspir) (see Guardia, Mike. 20 November, 2013. *US Army and Marine Corps MRAPs: Mine Resistant Ambush Protected Vehicles*. Osprey Publishing. ISBN 978-1-78096-255-9., p. 4), a vehicle developed by Apartheid South Africa based on their experiences in the [South African Border War](https://en.wikipedia.org/wiki/South_African_Border_War) and [Rhodesian Bush War](https://en.wikipedia.org/wiki/Rhodesian_Bush_War), two anticolonial wars, making the MRAP a potent symbol of how [tools used to police the empire abroad are eventually turned on a country's own citizens at home](https://www.ucpress.edu/book/9780520295629/badges-without-borders).
