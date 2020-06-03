@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-9. **P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin, CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information, To apper at International Conference on Machine Learning (ICML), 2020
+9. **P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin, CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information, To appear at International Conference on Machine Learning (ICML), 2020
 
 8. **P. Cheng**, M. Min, D. Shen, C. Malon, Y. Zhang, Y. Li, and L. Carin, [Improving Disentangled Text Representation Learning with Information Theoretical Guidance](https://arxiv.org/pdf/2006.00693.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2020
 
