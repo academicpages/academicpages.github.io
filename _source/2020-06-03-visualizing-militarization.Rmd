@@ -6,7 +6,8 @@ output:
     preserve_yaml: TRUE
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: '2020-06-03'
+date: 2020-06-03
+permalink: /posts/2020/06/visualizing-militarization/
 excerpt_separator: <!--more-->
 tags:
   - data
