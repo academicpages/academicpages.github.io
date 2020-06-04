@@ -12,11 +12,12 @@ I am a PhD student at Monash University working on gamma-ray bursts, neutron sta
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
-* 8th March 2020: _Gravitational waves or deconfined quarks: what causes the premature collapse of neutron stars born in short gamma-ray bursts?_ accepted in PRD. 
+* 3rd June 2020: Submitted _Bayesian inference for compact binary coalescences with BILBY: Validation and application to the first LIGO--Virgo gravitational-wave transient catalogue_ to MNRAS. See it on [arXiv](https://arxiv.org/abs/2006.00714)
+* 8th March 2020: _Gravitational waves or deconfined quarks: what causes the premature collapse of neutron stars born in short gamma-ray bursts?_ accepted in PRD.
 * 4th March 2020: My recent paper is in the news! see article [here](https://www.monash.edu/science/news/current/new-study-reveals-possible-formation-of-massive-neutron-stars-from-stellar-collision/_nocache) on the Monash website and [here](https://www.ozgrav.org/news/new-study-reveals-possible-formation-of-massive-neutron-stars-from-stellar-collision) on OzGrav!
 * January 16th 2020: Submitted _Gravitational waves or deconfined quarks: what causes the premature collapse of neutron stars born in short gamma-ray bursts?_ to PRD. See it on [arXiv](https://arxiv.org/abs/2001.06102). This paper took a long time but it was well worth it.
 * November 17th-22nd November: This week I am in Lorne, Victoria for the Annual OzGrav retreat and ECR workshop.  
-* November 8th: After a long, productive trip in Japan my visit comes a conclusion. Met heaps of amazing people, started several collaborations, lots of exciting science to come.
+* November 8th: After a long productive trip in Japan my visit comes a conclusion. Met heaps of amazing people, started several collaborations, lots of exciting science to come.
 * October 27th-3rd November: This week, I am the Yamada meeting on gamma-ray-bursts in the beautiful city of Yokohama. I am presenting a couple of posters on my work on the population properties of long-lived neutron star merger remnants and extension of millisecond-magnetar models to include radiative losses.
 * September 24 - October 25th: This month, I am in Kyoto attending the Yukawa institute long-term workshop on Multi-messenger astrophysics in the
 gravitational-wave era
