@@ -13,9 +13,9 @@ redirect_from:
 <img src="/resources/profile2.jpg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
-<p class="lead"> I am an Assistant Professor at <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>'s, <a href="http://www.uoh.cl">Instituto de Ciencias Sociales</a>, in Chile.</p>
+<p class="lead"> I am an Assistant Professor at <b>Universidad de O'Higgins</b> in Chile.</p>
 
-<p class="lead"> Before joining <span style="color:#00A6FF"><b>Universidad de O'Higgins</b></span>, I served one year as a post-doctoral fellow at <span style="color:#336666"><b>Tulane University</b></span> for the 2017-2018 AY. I received my Ph.D in Political Science from <span style="color:#d21034"><b>Rutgers University</b></span> (New Brunswick, NJ) in the spring of 2017.</p>
+<p class="lead"> Before joining Universidad de O'Higgins, I served one year as a post-doctoral fellow at <b>Tulane University</b> for the 2017-2018 AY. I received my Ph.D in Political Science from <b>Rutgers University</b> (New Brunswick, NJ) in the spring of 2017.</p>
 
 <p class="lead"> My research is either forthcoming, or has been published in <b>Journal of Politics in Latin America</b> and <b>Revista de Ciencia Politica</b>. I am also an Associate Editor of Social Science (Springer).</p>
 

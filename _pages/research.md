@@ -18,15 +18,19 @@ redirect_from:
 
 - **Still for Sale: The Micro-Dynamics of Vote-Selling in the United States, Evidence From a List Experiment**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Revise and Resubmit, Acta Politica**.
 
-- **Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Under Review, Governance**
 
-
-- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **Under Review, SCID**
+- **A (quick) Estimation of the Employment Effects of Covid-19 across Chilean Regions**. **Revise and Resubmit, Regional Science, Policy and Practice**. With Felix Modrego (UOH) and Andrea Canales (PUC).
 
 
 ## In Preparation
 
 - **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. With Andrea Canales (Economics, PUC). <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **Data collection**
+
+- **Income Taxation and State Capacities in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Earthquake_Paper/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **In preparation**
+
+
+- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **In preparation**
+
 
 - **Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)**. <br/> [[Paper]](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt?token=AEe6kepKK7gMgsKW3WqxsGzd6jajPSbOks5bYe9DwA%3D%3D). [[Data]](http://www.hectorbahamonde.com/datasets/).
 
