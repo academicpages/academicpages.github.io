@@ -35,4 +35,4 @@ Contact
 ======
 School of Physics, Peking University<br>
 No. 209 Chengfu Road, Haidian District, Beijing, China<br>
-Email: sqy2017 \[at\] pku \[dot\] edu \[dot\] cn 
+Email: sqy2017 \[at\] pku \[dot\] edu \[dot\] cn
