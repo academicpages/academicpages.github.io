@@ -33,6 +33,6 @@ Gold Medal (1st prize) of Chinese Physics Olympiad (CPhO), 2016
 
 Contact
 ======
-School of Physics, Peking University
-No. 209 Chengfu Road, Haidian District, Beijing, China
+School of Physics, Peking University<br>
+No. 209 Chengfu Road, Haidian District, Beijing, China<br>
 Email: sqy2017 \[at\] pku \[dot\] edu \[dot\] cn 
