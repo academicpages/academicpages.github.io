@@ -29,5 +29,8 @@ Now, I hope to publish some interesting posts on my blog about computer vision a
 
 Recent work	
 ------
-- \[[arxiv](https://arxiv.org/abs/1907.11475)\] Single Level Feature-to-Feature Forecasting with Deformable Convolutions. J.Šarić, M.Oršić, T. Antunović, S.Vražić, S.Šegvić. GCPR, September 2019, Dortmund, Germany.
+- \[[cvf](http://openaccess.thecvf.com/content_CVPR_2020/html/Saric_Warp_to_the_Future_Joint_Forecasting_of_Features_and_Feature_CVPR_2020_paper.html)\] Warp to the Future: Joint Forecasting of Features and Feature Motion. <br/>Josip Šarić, Marin Oršić, Tonći Antunović, Sacha Vražić, Siniša Šegvić. <br/>CVPR 2020.
+- \[[arxiv](https://arxiv.org/abs/1907.11475)\] Single Level Feature-to-Feature Forecasting with Deformable Convolutions. 
+<br/>Josip Šarić, Marin Oršić, Tonći Antunović, Sacha Vražić, Siniša Šegvić. 
+<br/>GCPR 2019.
 - Estimating prediction uncertainty of discriminative convolutional models with adversarial learning. J. Šarić. Master's thesis. University of Zagreb, Faculty of Electrical Engineering and Computing. Zagreb, 2018.
