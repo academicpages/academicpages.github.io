@@ -13,15 +13,23 @@ I am an undergraduate student at Department of Atmospheric and Oceanic Sciences,
 Education
 ======
 2017.09 - 2021.07: B.S. in Atmospheric and Oceanic Sciences, School of Physics, Peking University, Beijing, China (Advisor: Jun Yang)
+
 2014.09 - 2017.07: Zhengzhou Foreign Languages School, Henan, China (High school)
 
 Awards
 ======
 Honorable Mention of Mathematical Contest for Modeling, 2020
+
 Merit Student of Peking University, 2019
+
 Lee Wai Wing Scholarship, 2019
+
 Merit Student of Peking University, 2018
+
 Woo Yuk Ting Scholarship, 2018
+
 Freshman Scholarship (2nd Class), 2017
+
 Gold Medal (1st prize) of Chinese Physics Olympiad (CPhO), 2016
+
 
