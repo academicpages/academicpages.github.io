@@ -16,3 +16,5 @@ Currently I'm mainly interested in 2 kinds of planets:
   What will happen in the atmospheres where condensable species is heavier than back ground molecules? Convection seems to be suppressed, but there is yet more about moist convection in these atmospheres to explore! <br>
   <div  align="center"><img src="/images/3Dsimulation.png" width = "50%" alt="title" align=center /></div>
 * **Earth-like Tidally-Locked Planets** (To determine the range of habitable zone)
+  Strong convection near the sub-stellar area can significantly reflect back the sun light, reducing the incoming short-wave radiation and then lower the pace of temperature increasing with closer planet-star distance. <br>
+  <iframe width="70%" src="/images/TLP_2D.gif">
