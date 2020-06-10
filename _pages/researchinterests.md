@@ -4,7 +4,7 @@ title: "Research Interests"
 permalink: /researchinterets/
 author_profile: true
 redirect_from:
-  - /research
+  - /researchinterests
 ---
 
 I'm interested in **Planetary Atmospheres**. People have been curious about the exotic worlds, including 7 other planets in and over 4,000 planets out of our solar system. Their atmospheric conditions vary in a wide range in planetary orbit, gravity, composition, temperature, pressure and so on. These differences makes many of the known laws for our Earth's atmosphere unvalid, and thus requires people to re-study the atmospheres of these planets from the basic physics laws that can be universally applied.
