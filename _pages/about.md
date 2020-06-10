@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Physician Information Scientist In-Training"
-excerpt: ""
+title: "Physician Scientist In-Training"
+excerpt: "Aaron S Eisman: Physician Scientist In-Training"
 author_profile: true
 redirect_from: 
   - /about/
