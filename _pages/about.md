@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[June 2020\] Beginning my internship at WeBank AI Department. 
+
 \[May 2020\] One paper accepted at **KDD 2020**. 
 
 \[April 2020\] One paper accepted at **IJCAI 2020**. 
