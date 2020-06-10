@@ -12,5 +12,7 @@ I'm interested in **Planetary Atmospheres**. People have been curious about the 
 <br>
 
 Currently I'm mainly interested in 2 kinds of planets:
-* **Gas Giants** (Jupiter, Saturn, etc.)
+* **Gas Giants** (Jupiter, Saturn, etc.) <br>
+  What will happen in the atmospheres where condensable species is heavier than back ground molecules? Convection seems to be suppressed, but there is yet more about moist convection in these atmospheres to explore! 
+  ![avatar](/images/3Dsimulation.png)
 * **Earth-like Tidally-Locked Planets** (To determine the range of habitable zone)
