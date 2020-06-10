@@ -12,5 +12,5 @@ I'm interested in **Planetary Atmospheres**. People have been curious about the 
 <br>
 
 Currently I'm mainly interested in 2 kinds of planets:
-* **Gas Giants** (Jupiter, Saturn, etc.)**
-* **Earth-like Tidally-Locked Planets** (To determine the range of habitable zone)**
+* **Gas Giants** (Jupiter, Saturn, etc.)
+* **Earth-like Tidally-Locked Planets** (To determine the range of habitable zone)
