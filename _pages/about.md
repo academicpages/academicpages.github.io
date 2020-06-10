@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Physician Scientist In-Training"
+title: "Physician Information Scientist In-Training"
 excerpt: ""
 author_profile: true
 redirect_from: 
