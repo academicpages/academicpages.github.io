@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Aaron S Eisman - Curriculum Vitae"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
