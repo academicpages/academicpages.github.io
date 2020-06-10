@@ -16,7 +16,7 @@ Education
   * **Core Courses:** 
     * **Maths and Physics:** Advanced Mathematics (B) (1) (94/100); Linear Algebra (B) (94/100); Methods of Mathematical Physics (1) (93/100); Methods of Mathematical Physics (2) (94/100); Computational Physics (A) (92/100); Theoretical Mechanics (89/100); Electrodynamics (87/100); Equilibrium Statistical Physics (93/100); Quantum Mechanics (A) (87/100);
     * **Atmospheric and Oceanic Sciences:** Fundamentals of Atmospheric Physics (93/100); Atmopheric Dynamics (?/100); Principles of Atmospheric Measurement and Instrumentation (93/100); Synoptic Meteorology (96/100); Fluid Mechanics (96/100); Introduction to Atmospheric Science (93/100); An Introduction to Cloud Physics (95/100); Introduction to time series analysis in atmospheric sciences (96/100)
-* 2014.09 - 2017.07: **Zhengzhou Foreign Languages School**, Henan, China (High school)
+* 2014.09 - 2017.07: **Zhengzhou Foreign Language School**, Henan, China (High school)
   * **National College Entrance Examination:** ranking **16th place** in Henan Province
 
 <br>
@@ -59,11 +59,11 @@ Selected Awards
 
 Skills
 ======
-* Languages
+* **Languages**
   * Mandarin (Native); English (Fluent)
-* Programming/Computering Skills
+* **Programming/Computering Skills**
   * C++, Matlab, Python
   * Cloud-resolving modelling experiences
-* Standard Tests
-  * GRE: 161 Verbal (88 Percentile); 170 Quantitative (96 Percentile); 3.5 Analytical Writing (39 Percentile)
-  * TOEFL: 97/120
+* **Standard Tests**
+  * **GRE:** 161 Verbal (88 Percentile); 170 Quantitative (96 Percentile); 3.5 Analytical Writing (39 Percentile)
+  * **TOEFL:** 97/120
