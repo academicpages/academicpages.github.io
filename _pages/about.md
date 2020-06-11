@@ -8,13 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am Scientific Director at [OpenBiome](http://www.openbiome.org), a non-profit
-stool bank based in Boston. OpenBiome provides material for fecal microbiota
-transplantation (FMT) for use in treating *C. difficile* infection and for
-research purposes. My key research interests are antimicrobial resistance and
-microbiome science.
+I am a multidisciplinary data scientist with experience in microbiome science,
+microbiology; antibiotic resistance, epidemiology, public health; statistics,
+computing, and mathematical modeling. I have developed skill sets in
+facilitation, technical communication, and project management.
+
+I currently work as an independent scientific consultant for
+[OpenBiome](http://www.openbiome.org) and, with Dr. [Yonatan
+Grad](https://www.hsph.harvard.edu/yonatan-grad/), as an independent
+epidemiological consultant for the National Basketball Association.
 
 ## Background
+
+My main research interests are antimicrobial resistance and microbiome science.
+
+I was previously Scientific Director at [OpenBiome](http://www.openbiome.org),
+a non-profit stool bank based in Boston. OpenBiome provides material for fecal
+microbiota transplantation (FMT) for use in treating *C. difficile* infection
+and for research.
 
 I did my postdoctoral training with [Yonatan
 Grad](https://www.hsph.harvard.edu/yonatan-grad/) at the Harvard Chan School of

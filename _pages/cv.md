@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+## Experience
+
+- **Consultant**
+    - Scientific consultant, [OpenBiome](https://www.openbiome.org/) (2020--)
+    - Epidemiology consultant, National Basketball Association (2020--)
+- **Scientific Director**, [OpenBiome](https://www.openbiome.org/) (2019--2020)
+- **Postdoctoral Associate**, Harvard Chan School of Public Health (2016--2018)
+    - Research focus: Epidemiology of antibiotic use and resistance
+    - Advisor: [Yonatan Grad](https://www.hsph.harvard.edu/yonatan-grad/)
+
 ## Education
 
 - **PhD**, Biological Engineering, MIT (2016)
@@ -19,13 +29,6 @@ redirect_from:
     - Advisor: [David Wales](https://en.wikipedia.org/wiki/David_J._Wales)
 - **MASt**, Applied Mathematics & Theoretical Physics, University of Cambridge (2011)
 - **BA** *magna cum laude* with Highest Honors, Physics, Williams College (2010)
-
-## Experience
-
-- **Scientific Director**, [OpenBiome](https://www.openbiome.org/) (2019--)
-- **Postdoctoral Associate**, Harvard Chan School of Public Health (2016--2018)
-    - Research focus: Epidemiology of antibiotic use and resistance
-    - Advisor: [Yonatan Grad](https://www.hsph.harvard.edu/yonatan-grad/)
 
 ## Awards
 
