@@ -8,8 +8,10 @@ title: "
 <div align="center" markdown="1">
 [Josip Šarić](https://scholar.google.com/citations?user=pPaDpsEAAAAJ&hl=hr&oi=ao "Google Scholar"), [Marin Oršić](https://scholar.google.com/citations?user=DWSB7oMAAAAJ&hl=hr "Google Scholar"), [Tonći Antunović](https://scholar.google.com/citations?hl=hr&user=yRIHOmEAAAAJ&view_op=list_works&sortby=pubdate "Google Scholar"), [Sacha Vražić](https://scholar.google.com/citations?user=cG6s5VMAAAAJ&hl=hr&oi=ao "Google Scholar"), [Siniša Šegvić](https://scholar.google.com/citations?user=_nGQT0wAAAAJ&hl=hr&oi=ao "Google Scholar")
 
-*IEEE Conference on Computer Vision and Pattern Recognition 2020*  
-\[[paper]()\] \[[video]()\] \[[presentation]()\]
+<!-- *IEEE Conference on Computer Vision and Pattern Recognition 2020*   -->	
+*CVPR 2020*  
+\[[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Saric_Warp_to_the_Future_Joint_Forecasting_of_Features_and_Feature_CVPR_2020_paper.html)\] 
+<!-- \[[video]()\] \[[presentation]()\] -->
 </div>
 ---
 <div align="center">
@@ -26,4 +28,3 @@ title: "
 		The proposed F2MF model operates in synergy with correlation features and outperforms all previous approaches both in short-term and mid-term forecast on the Cityscapes dataset.
 	</p>
 </div>
-
