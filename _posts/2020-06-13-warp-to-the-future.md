@@ -1,6 +1,6 @@
 ---
 title: 'New paper at CVPR 2020'
-date: 2020-03-10
+date: 2020-06-13
 permalink: /posts/2020/06/warp-to-the-future/
 tags:
   - cv
