@@ -16,9 +16,9 @@ redirect_from:
 
 ## About Me
 
-I am a first-year PhD student in the [UNC NLP](https://nlp.cs.unc.edu/) group at the University of North Carolina at Chapel Hill, where I am advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). I recently graduated with a bachelor's degree from Duke University, where my research advisors were [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Sayan Mukherjee](https://sayanmuk.github.io/), and [Jeff Beck](https://www.neuro.duke.edu/research/faculty-labs/beck-lab). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin).  
+I am a second-year PhD student in the [UNC-NLP](https://nlp.cs.unc.edu/) group at the University of North Carolina at Chapel Hill, where I am advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin).  
 
-My research interests lie in developing interpretable machine learning methods, with a focus on the domain of natural language processing. This line of research will be important for ensuring ML systems are aligned with human interests. I'm also particularly interested in connections between natural language processing and reinforcement learning. 
+My research interests center on interpretable machine learning and natural language processing. I see this kind of research as important for ensuring ML systems are aligned with human intentions. I'm also particularly interested in connections between NLP and reinforcement learning, as well as AI safety more broadly. 
 
 *Email:* peter@cs.unc.edu
 
@@ -28,7 +28,6 @@ My research interests lie in developing interpretable machine learning methods, 
 * 2019 - Joined the [UNC NLP](https://nlp.cs.unc.edu/) lab
 * 2019 - Graduated with a B.S. from the Department of Statistical Science at Duke University
 * 2019 - Awarded the [William R. Kenan Jr. (Royster) Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html) from UNC Chapel Hill
-* 2018 - Received First Prize in Darmouth's [PoetiX Literary Turing Test](http://bregman.dartmouth.edu/turingtests/competition2018)
+* 2018 - Received First Prize in Darmouth's PoetiX Literary Turing Test (see submission [[pdf]](https://arxiv.org/abs/1811.05067) and [[code]](https://github.com/peterbhase/poetry-generation))
 * 2018 - Nominated for Statistical Science Undergraduate TA of the Year
-* 2017 - Designated a Meritorious Winner for our submission to the [Interdisciplinary Contest in Modeling](https://www.comap.com/undergraduate/contests/)
 
