@@ -10,7 +10,7 @@ redirect_from:
 
 Introduction
 ======
-This is the personal website of Shawn. I provide consultant for students and entry-level engineers about education programs and career development. If you are interested in my previous projects and technical experience, please visit [my portfolio](https://shawnxd.github.io/portfolio/). If you are intested in my consulting and would like to get some advice from me, pelase have a look at [my Service](https://shawnxd.github.io/talks/)
+This is the personal website of Shawn. I provide consultant for students and entry-level engineers about education programs and career development. If you are interested in my previous projects and technical experience, please visit [my portfolio](https://shawnxd.github.io/portfolio/). If you are intested in my consulting and would like to get some advice from me, pelase have a look at [my service](https://shawnxd.github.io/talks/)
 
 
 A data-driven personal website
