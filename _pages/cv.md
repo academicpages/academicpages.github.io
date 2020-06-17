@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A pdf version can be viewed [here](https://euanjudd.github.io/files/EuanJuddCVMarch2020.pdf).
+A pdf version can be viewed [here](https://euanjudd.github.io/files/EuanJuddCV.pdf).
 
 {% include base_path %}
 
