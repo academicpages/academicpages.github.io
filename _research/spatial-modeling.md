@@ -4,6 +4,7 @@ layout: single-portfolio
 excerpt: "Models for spatially correlated data<br/><img src='/images/research/gp-bma.png' width='500' height='500'>"
 collection: research
 order_number: 50
+author_profile: true
 ---
 
 In this set of projects, I present methodological advances for the study of spatial data in political science. These type of data are common across all substantive areas of political science and include topics such as regulatory regimes in neighboring states, terrorist attacks within provinces, and public opinion across congressional districts. Within political science, these data are commonly analyzed using models from spatial econometrics. In this set of projects, I present an alternative model commonly used in other disciplines and address the problem of specifying spatial dependence structures.

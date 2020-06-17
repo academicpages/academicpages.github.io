@@ -4,6 +4,7 @@ layout: single-portfolio
 excerpt: "Measuring and explaining elusive concepts<br/><img src='/images/research/Agreement-Strength.png' width='500' height='500'>"
 collection: research
 order_number: 20
+author_profile: true
 ---
 
 In this set of projects, I use advanced quanitative methods to tackle the problem of more accurately measuring concepts of interest in international relations. One, forthcoming at *Political Science Research and Methods*, uses a Bayesian latent variable model to directly assess the strength of peace agreements in civil conflict rather than having to use agreement duration as a proxy for strength. The second harnesses advances in big data and develops a measure of trade substitutability from a product-level trade dataset with over a billion observations.

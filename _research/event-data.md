@@ -4,6 +4,7 @@ layout: single-portfolio
 excerpt: "Exploring the microlevel dynamics of conflict<br/><img src='/images/research/polyarchy_pp.png' width='500'>"
 collection: research
 order_number: 30
+author_profile: true
 ---
 
 In this set of projects, I leverage spatial event data to explore the microlevel dynamics of political violence. What explains patterns of action and reaction between actors engaged in different types of political violence? What role can violence at the local level serve in advancing broader political ends?
