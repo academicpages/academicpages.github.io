@@ -185,7 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: $link-color;
     }
   }
 
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: $masthead-link-color-hover;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
