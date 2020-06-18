@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "            About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,5 +19,5 @@ Sou Fã de jogos online desde criança também, esporte e música considero hobb
 
 Abraços :D
 
-# English
+## English ##
 Building
