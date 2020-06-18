@@ -1,0 +1,97 @@
+---
+title: "Sample live protocol"
+excerpt: "Running a live protocol."
+sitemap: false
+permalink: /live_protocol.html
+author_profile: false
+---
+<script type="text/javascript" src="{{ base_path }}/assets/js/main.min.js"></script>
+
+<p/>
+<p>
+	Click this button to start Micro-Manager 
+	<a href="javascript:void(0);"><img id="MM_launch" src="../images/MM_launch_button.png"></a>
+</p>
+<p>
+	Click this button to take a picture
+	<a href="javascript:void(0);"><img id="MM_snap" src="../images/MM_snap_button.png"></a>
+</p>
+<p>
+	Click this button to start live acquisition
+	<a href="javascript:void(0);"><img id="MM_live_on" src="../images/MM_live_on_button.png"></a>
+</p>
+<p>
+	Click this button to stop live acquisition 
+	<a href="javascript:void(0);"><img id="MM_live_off" src="../images/MM_live_off_button.png"></a>
+</p>
+
+<!--
+
+<a href="https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRkODFkMWI2YWYwNzAwMTk4OTk5NzkiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDg2MjkwfQ.vnVPxfQRuEZ2OCZt-7CTZtfIE0fd8YLT3wcGtsRgSRo">launch MM</a>
+<div id="log"></div>
+
+-->
+
+<script>
+$( "#MM_launch" ).click(function( event ) {
+  $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRkODFkMWI2YWYwNzAwMTk4OTk5NzkiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDg2MjkwfQ.vnVPxfQRuEZ2OCZt-7CTZtfIE0fd8YLT3wcGtsRgSRo",
+        {
+          params: "",
+        },
+        function(data,status){
+            alert("Data: " + data + "\nStatus: " + status);
+        });
+});
+
+$( "#MM_snap" ).click(function( event ) {
+  $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRlOWQ4MWI2YWYwNzAwMTk4OWJhNmUiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDkzMjEwfQ.jxscOkAnWvY9V3jcxQX14GVK8SE9kVM7Rk62a31DVvY",
+        {
+          params: "",
+        },
+        function(data,status){
+            alert("Data: " + data + "\nStatus: " + status);
+        });
+});
+
+$( "#MM_live_on" ).click(function( event ) {
+  $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWUxOWVhMDQwYmVmZDAwMTljNzJiYWYiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDkzMjQ3fQ.2Cq-D0rh0msMahSiddJXst3uYE8tj5H8tiNMDFdOWEU",
+        {
+          params: "on",
+        },
+        function(data,status){
+            alert("Data: " + data + "\nStatus: " + status);
+        });
+});
+
+$( "#MM_live_off" ).click(function( event ) {
+  $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWUxOWVhMDQwYmVmZDAwMTljNzJiYWYiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDkzMjQ3fQ.2Cq-D0rh0msMahSiddJXst3uYE8tj5H8tiNMDFdOWEU",
+        {
+          params: "off",
+        },
+        function(data,status){
+            alert("Data: " + data + "\nStatus: " + status);
+        });
+});
+</script>
+
+<!--
+<script>
+$( "a" ).click(function( event ) {
+  event.preventDefault();
+  $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRkODFkMWI2YWYwNzAwMTk4OTk5NzkiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDg2MjkwfQ.vnVPxfQRuEZ2OCZt-7CTZtfIE0fd8YLT3wcGtsRgSRo",
+        {
+          params: "",
+        },
+        function(data,status){
+            alert("Data: " + data + "\nStatus: " + status);
+        });
+  $( "<div>" )
+    .append( "default " + event.type + " prevented" )
+    .appendTo( "#log" );
+});
+</script>
+-->
+
+<!--https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRkODFkMWI2YWYwNzAwMTk4OTk5NzkiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDg2MjkwfQ.vnVPxfQRuEZ2OCZt-7CTZtfIE0fd8YLT3wcGtsRgSRo -->
+
+<!-- <img src="../images/launch_MM_button.png"> -->

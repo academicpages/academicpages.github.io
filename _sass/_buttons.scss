@@ -133,6 +133,18 @@
     }
   }
 
+  /* IK custom buttons */
+  &--trigger {
+    height: 40px;
+    width: 40px;
+    border: none;
+    background-color: $twitter-color;
+
+    &:hover {
+        background-color: mix(#000, $twitter-color, 20%);
+    }
+  }
+
   /* extra large button */
 
   &--x-large {
@@ -150,4 +162,28 @@
   &--small {
     font-size: $type-size-7;
   }
+}
+
+/* IK ADDITIONS */
+
+#trigger-button {
+  width: 100px;
+  height: 50px;
+}
+    
+#trigger-button svg {
+  width: 25px;
+  height: 25px;
+}
+
+#search-button {
+  width: 100px;
+  height: 50px;
+  background-color: $twitter-color;
+  color: $twitter-color;
+}
+    
+#search-button svg {
+  width: 50px;
+  height: 50px;
 }
