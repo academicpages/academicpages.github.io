@@ -15,7 +15,9 @@ In subsequent chapters I explore how states actually conduct this surveillance o
 
 ### Working Papers
 
-Rob Williams. "The Curse of Geography: How Governments Preempt Secession Attempts." Presented at the Annual Meeting of the Peace Science Society (International), Austin, TX, November 2018. [[Working Paper]](/files/pdf/research/Curse of Geography.pdf), [[Supplemental Information]](/files/pdf/Curse of Geography SI.pdf)
+Rob Williams. "The Curse of Geography: How Governments Preempt Secession Attempts." Presented at the Annual Meeting of the Peace Science Society (International), Austin, TX, November 2018.
+
+[Working Paper](/files/pdf/research/Curse of Geography.pdf){: .btn} [Supplemental Information](/files/pdf/Curse of Geography SI.pdf){: .btn}
 
 > Secessionist conflicts often begin in places abundant with resources and located far from the centers of state power. These factors affect the likelihood of secessionist conflict because dissidents will only rebel when they expect to be able to form a functional state within the borders of their territory following independence. There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts. I argue that this relative paucity of secessionist violence is the result of government preemption of potential secessionist movements. Using cross national geospatial data, I find that governments develop higher levels of state capacity in more governable, and thus more secession prone, regions. The same factors which make territory attractive for secession also make governments willing to work to retain control of that territory, suggesting that potential secessionists confront many of the same dilemmas as states.
 
