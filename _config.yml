@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vinicius Rodrigues de Oliveira"
+title                    : "Vinicius Oliveira"
 title_separator          : "-"
 name                     : &name "Vinicius Rodrigues de Oliveira"
 description              : &description "Student of Computer Science passionate about technology"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vinicius Rodrigues"
+  name             : "Vinicius Oliveira"
   avatar           : "profile.png"
   bio              : "Student of Computer Science passionate about technology"
   location         : "Brazil"
