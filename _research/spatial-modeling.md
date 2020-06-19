@@ -17,7 +17,7 @@ Rob Williams. "Gaussian Process Models for Spatial Data."
 
 Rob Williams. "Addressing Uncertainty in the Choice of Covariance Function in Gaussian Process Modeling with Bayesian Model Averaging." Presented at the Annual Meeting of the Society for Political Methodology, Provo, UT, July 2018.
 
-[Poster](/files/pdf/research/PolMeth 2018 Poster.pdf){: .btn}
+[Poster](/files/pdf/research/PolMeth 2018 Poster.pdf){: .btn--research}
 
 > While Gaussian process and spatial econometric models control for spatial dependence, they both require researchers to specify certain parameters *a priori*. The true covariance function or adjacency structure is unknown to the researcher, and so there is always some amount of uncertainty in their choice. Using model fit statistics to select the dependence structure with the best fit is insufficient as the actual data generating process may not match a specific dependence structure. I propose using Bayesian model averaging to combine estimates from multiple models, each using a likely dependence structure. Monte Carlo simulations show that Bayesian model averaging correctly identifies the covariance structure used to generate simulated data and corrects for the inclusion of misspecified models, but at the cost of a loss of efficiency.
 

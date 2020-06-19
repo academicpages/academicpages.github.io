@@ -10,20 +10,20 @@
   /* default button */
   display: inline-block;
   margin-bottom: 0.25em;
-  padding: 0.125em 0.25em;
-  color: $link-color;
+  padding: 0.5em 1em;
+  color: #fff !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
+  font-weight: bold;
   text-align: center;
-  text-decoration: none !important;
-  border: 1px solid;
-  border-color: $link-color;
+  text-decoration: none;
+  background-color: $primary-color;
+  border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
-    color: #fff;
-    background-color: $link-color;
+    background-color: mix(white, #000, 20%);
   }
 
   .icon {
@@ -125,10 +125,13 @@
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
-      background-color: $color;
+      color: #fff !important;
+      background-color: $color !important;
+      border: 0 !important;
 
       &:hover {
-        background-color: mix(#000, $color, 20%);
+        color: #fff !important;
+        background-color: mix(#000, $color, 20%) !important;
       }
     }
   }
@@ -150,4 +153,25 @@
   &--small {
     font-size: $type-size-7;
   }
+  
+  /* research page buttons */
+  
+  &--research {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: $link-color;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: $link-color;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: $link-color !important;
+    }
+  }
+  
 }
