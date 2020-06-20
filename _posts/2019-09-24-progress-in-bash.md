@@ -3,9 +3,10 @@ title: 'Checking Progress with Bash'
 date: 2019-09-24
 permalink: /posts/2019/09/progress-with-bash/
 excerpt_separator: <!--more-->
+toc: true
 tags:
-  - references
   - bash
+  - data
 ---
 
 I'm currently cleaning and wrangling a large (> 2 billion observations) dataset. Due to its size, I'm running code in batch mode on a remote cluster. Not running interactively makes it harder for me to check on my code's progress.

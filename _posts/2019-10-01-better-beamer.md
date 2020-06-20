@@ -3,18 +3,22 @@ title: 'Better Beamer Presentations the Easy Way'
 date: 2019-10-01
 permalink: /posts/2019/10/better-beamer
 excerpt_separator: <!--more-->
+toc: true
 tags:
-  - references
-  - bash
+  - latex
+  - beamer
+  - github
 ---
 
 Everyone knows that Beamer makes frankly terrible presentations without a good deal of help. A well crafted Beamer presentation can be a thing of beauty, especially since you can use knitr or R Markdown to automatically generate tables and figures, but it takes *a lot* of work.
 <!--more-->
 We all have our own little tricks to do things like get more space between items in a list (ending every `\item` line with `\\~\\`) and the simple but repetitive tasks we have to do every single slide (opening a `\Large` environment to make text more readable).
 
+# Three little tricks
+
 I finally got tired of all this and decided to waste a lot of time now to save even more time later. To do that, I headed to Stack Exchange and started digging into the Beamer documentation.
 
-## Give Me Some Space
+## Give me some space
 
 We'll start with the base Beamer class. There are a number of Beamer [themes](https://hartwork.org/beamer-theme-matrix/) that are much better than the default theme, but I'm going to focus on things we can do to improve even the default theme. Here's our humble starting point.
 
@@ -87,7 +91,7 @@ The first thing anyone who's ever taken a graphic design class will tell you is 
 
 Looking better already!
 
-## Super Size It
+## Super size it
 
 Next we need to enlarge our text to make it easier to read. Again, we can do this manually on every slide, but that's a giant pain. I found this [old thread](https://latex.org/forum/viewtopic.php?t=8515) on latex.org which explains how to redefine the font size of `\itemize` and `\enumerate` items.
 
@@ -108,7 +112,7 @@ While this has fixed the font size of our lists, now our still too small equatio
 
 Now we've got a much more readable slide that will be automatically replicated for every other slide in our presentation. If you have multi-line equations in your slides, you can similarly redefine the `align*` environment to enlarge these equations as well. 
 
-## Don't Forget Numbers
+## Don't forget numbers
 
 As we can see above, our redefinition of the `\itemize` environment also evenly spaces sub-bullets. However, it doesn't do anything for numbered lists defined with `/enumerate` as the slide below shows.
 
@@ -222,7 +226,7 @@ Once we've done that, now numbered lists are also evenly spaced!
 
 ![](/images/posts/Slide_Enumerate_Better.png)
 
-## All Together now
+# All together now
 
 Sticking all of the below in your preamble will greatly improve the visual appeal of your slides with zero effort required on each individual slide.
 
@@ -349,7 +353,7 @@ If you want to avoid having to copy the style file every time you make a new pre
 \usepackage{/Users/Rob/Dropbox/TeX/Templates/better-beamer}
 ```
 
-## R Markdown
+# R Markdown
 
 One caveat if you use R Markdown like I do. R Markdown relies on [pandoc](https://pandoc.org) to convert from `.Rmd` to `.md` to `.tex` to `.pdf` (phew). This only matters if you're a lazy typist like me and write your
 

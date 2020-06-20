@@ -12,7 +12,7 @@ How many times have you found that your institution has access to a digital vers
 <!--more-->
 I use [Zotero](https://www.zotero.org/) as my reference manager and it's difficult to attach more than one file to an entry, so I've certaintly spent time in the past painstakingly combining every section of a book together before adding it to Zotero. I finally got tired of doing this by hand and wrote a short Bash script to automate this process. Now I can combine as many PDFs as I want with a single command!
 
-# How it Works
+# How it works
 
 My solution relies on [Ghostscript](https://www.ghostscript.com/) to combine multiple PDF files from the command line. On a Mac you can easily install Ghostscript using [Homebrew](https://brew.sh/) by running
 
@@ -33,7 +33,7 @@ fi
 
 The script first checks if you've supplied an output filename as an argument, and if not uses the default name of `output.pdf`. Be aware of where you run this script as it will overwrite a file called `output.pdf` if it exists in the active directory! If you have supplied an output filename, it will use that instead of `output.pdf`.
 
-# Running It
+## Running it
 
 To actually run this script, there are two steps left:
 
@@ -49,7 +49,7 @@ export PATH=$PATH:/Users/Rob/Dropbox/Methods/Bash
 
 to add it to my PATH. As an added bonus Ghostscript will (usually) rotate any pages containing sideways tables or figures!
 
-# A Warning
+# A warning
 
 This script will combine PDF files in the order that `ls *.pdf` returns them. By default, this will be an *alphabetic sort*, so the files 1.pdf, 2.pdf, and 10.pdf would be combined in the following order: 1.pdf, 10.pdf, 2.pdf.
 
