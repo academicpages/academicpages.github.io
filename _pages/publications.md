@@ -1,6 +1,6 @@
 ---
 title: "Publications [(Google Scholar Profile)](https://scholar.google.co.kr/citations?user=Mfp3So0AAAAJ&hl=en)"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 ---
 ## 2020
