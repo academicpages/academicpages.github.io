@@ -16,7 +16,7 @@ Before joining UPENN, I completed my Ph.D. in Electronic and Electrical Engineer
 
 News
 ======
-* (May 20th, 2020) I received "Post-Doc Domestic and Overseas Training Fellowship" supported by [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index) (Total funding: 40K USD)
+* (May 20th, 2020) I received "Principal investigator of Postdoctoral Fellowship Program(Nurturing Next-generation Researchers)" supported by [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index) (Total funding: 40K USD)
 * (Jan 6th, 2020) A paper, titled "Deep network-based feature selection for imaging genetics: Application to identifying biomarkers for Parkinson's disease", was accepted to IEEE ISBI 2020. (Travel Awards)
 * (Oct 1st, 2019) I joined at the [Shen Lab](https://www.med.upenn.edu/shenlab/) at the University of Pennsylvania as a Postdoctoral Researcher.
 * (Aug 26th, 2019) I completed my Ph.D. in [Electronic and Electrical Engineering](http://icc.skku.edu/) at [Sungkyunkwan University](https://www.skku.edu/skku/index.do) (Advised by Prof. [Hyunjin Park](https://mipskku.wixsite.com/mipl)).
