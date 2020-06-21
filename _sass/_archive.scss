@@ -6,6 +6,7 @@
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
+    padding-right: $right-sidebar-width-narrow;
     @include span(12 of 12);
   }
 
@@ -79,17 +80,6 @@
    ========================================================================== */
 
 .list__item {
-  @include breakpoint($medium) {
-    padding-right: $right-page-margin-narrow;
-  }
-
-  @include breakpoint($large) {
-    padding-right: $right-page-margin;
-  }
-
-  @include breakpoint($x-large) {
-    padding-right: $right-page-margin-wide;
-  }
 
   .page__meta {
     margin: 0 0 4px;
