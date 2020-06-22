@@ -25,4 +25,6 @@ My name is Vinicius, I'm 20 years old. I decided in the last weeks, create a pag
 
 I am student of Computer Science, currently working as a Technical Consultant, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
 
-I have been a fan of online games since I was a kid too, sport and music as a hobby. The idea is compatible in this academic page with my studies and learnings in this tech journey.
+I have been a fan of online games, sport and music I consider hobbie. The idea is share in this academic page my studies and learnings in this tech journey.
+
+See you :D
