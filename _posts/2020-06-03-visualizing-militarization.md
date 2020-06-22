@@ -53,8 +53,8 @@ agencies.
 The 1033 program received increased [public
 scrutiny](https://www.newsweek.com/how-americas-police-became-army-1033-program-264537)
 after the highly militarized response to protests in Ferguson, MO after
-the killing of Michael Brown by Darren Wilson in 2014.Scholars have
-found a [positive
+the killing of Michael Brown by Darren Wilson in 2014.
+Scholars have found a [positive
 relationship](https://journals.sagepub.com/doi/full/10.1177/2053168017712885)
 between 1033 transfers and police killings.
 

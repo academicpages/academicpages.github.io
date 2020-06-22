@@ -7,7 +7,7 @@ As one of my two research agendas involves improving the tools we use to study p
 
 ## BayesPostEst
 
-I am a developer of the [BayesPostEst](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
+I am a developer of the [`BayesPostEst`](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
 
 <p align="center">
   <img src="/images/software/table.png" height="225px" width="225px" />
@@ -30,7 +30,7 @@ install_github("ShanaScogin/BayesPostEst")
 
 ## RWmisc
 
-I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [RWmisc](https://github.com/jayrobwilliams/RWmisc). It includes:
+I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [`RWmisc`](https://github.com/jayrobwilliams/RWmisc). It includes:
 
 - Managing multiple different projections for cross-national spatial data
 - Correcting for overlapping polygons when aggregating raster data to polygons
@@ -45,7 +45,7 @@ library(remotes)
 install_github("jayrobwilliams/RWmisc")
 ```
 
-## Other Resources
+## Other resources
 
 I also have a number of other software resources focused on making computation and academic life easier:
 

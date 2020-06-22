@@ -7,29 +7,29 @@ order_number: 20
 author_profile: true
 ---
 
-In this set of projects, I use advanced quanitative methods to tackle the problem of more accurately measuring concepts of interest in international relations. One, forthcoming at *Political Science Research and Methods*, uses a Bayesian latent variable model to directly assess the strength of peace agreements in civil conflict rather than having to use agreement duration as a proxy for strength. The second harnesses advances in big data and develops a measure of trade substitutability from a product-level trade dataset with over a billion observations.
+In this set of projects, I use advanced quanitative methods to tackle the problem of more accurately measuring concepts of interest in international relations. One uses Bayesian latent variable models to directly assess the strength of peace agreements in civil conflict rather than having to use agreement duration as a proxy for strength. Another harnesses advances in big data and develops new measures of economic interdependence and methods for detecting disruptions of regular economic exchange between states from a product-level trade dataset with over two billion observations.
 
-### Article
+## Article
 
-Rob Williams, Daniel Gustafson, Stephen Gent, and Mark Crescenzi. "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength." Forthcoming at *Political Science Research and Methods*.
-
-[Article](https://doi.org/10.1017/psrm.2019.23){: .btn--research} [Preprint](/files/pdf/research/Agreement Strength Accepted.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Agreement Strength SI.pdf){: .btn--research} [Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVUY8UI){: .btn--research} [GitHub Repo](https://github.com/jayrobwilliams/Peace-Agreement-Strength){: .btn--research}
+Rob Williams, Daniel Gustafson, Stephen Gent, and Mark Crescenzi. "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength." Forthcoming, *Political Science Research and Methods*.
 
 > Much of the peace agreement durability literature assumes that stronger peace agreements are more likely to survive the trials of the post-conflict environment. This work does an excellent job identifying which provisions indicate that agreements are more likely to endure. However, there is no widely accepted way to directly measure the strength of agreements, and existing measures suffer from a lack of nuance or reliance on subjective weighting. We use a Bayesian item response theory model to develop a principled measure of the latent strength of peace agreements in civil conflicts from 1975-2005. We illustrate the measure’s utility by exploring how various international factors such as sanctions and mediation contribute to the strength or weakness of agreements.
 
-### Working Papers
+[Article](https://doi.org/10.1017/psrm.2019.23){: .btn--research} [Preprint](/files/pdf/research/Agreement Strength Accepted.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Agreement Strength SI.pdf){: .btn--research} [Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVUY8UI){: .btn--research} [GitHub Repo](https://github.com/jayrobwilliams/Peace-Agreement-Strength){: .btn--research}
+
+## Working papers
 
 Rob Williams. "PASS: Peace Agreement Strength Scores."
 
-[Working Paper](/files/pdf/research/PASS.pdf){: .btn--research}
-
 > This paper presents the Peace Agreement Strength Scores (PASS) of peace agreements in civil conflicts. The scores capture the strength of peace agreements at the time of signing and can be used to avoid relying on the duration of agreement survival as a proxy for agreement strength. The scores are used to show descriptively that stronger peace agreements tend to be signed in more intractable conflicts, suggesting that a selection effect may be at play in the process of agreement signing and duration. The scores are available for all peace agreements signed in UCDP/PRIO civil conflicts from 1975-2018.
+
+[Working Paper](/files/pdf/research/PASS.pdf){: .btn--research}
 
 Bailee Donahue, Rob Williams, and Mark Crescenzi. "Unsettled Borders in a Market Context." Presented at the Annual Meeting of the Peace Science Society (International), Manhattan, KS, November 2019 and the International Studies Association Midwest Annual Conference, St. Louis, MO, November 2019. To be presented at the Annual Conference of the American Political Science Association, San Francisco, CA, September, 2020.
 
 > Border disputes between states can be very costly and disruptive, including major disruptions in trade. From an aggregate perspective, scholars traditionally expect these costs and disruptions to place pressure on states to avoid or resolve these disputes quickly. This view, however, risks oversimplification of the quality of trade and the economic actors driving that trade. We investigate the consequences of complex trade relations on border disputes. Variation in the composition of trade, whether characterized by comparative advantage trade, inter-industry trade, or intra-industry trade, generates variation in the presence and intensity of domestic pressure to avoid or resolve border disputes. We examine the effects of this variation on dispute behavior using an original dataset that combines product-level trade data (spanning from 1962-2001) with ICOW territorial claims data. The use of product-level trade data allows for the analysis of substitutability options which may reduce exit costs and make it easier to escalate border disputes. This analysis helps us better understand the choice to forego trade due to border disputes, and furthers our understanding of the economic impact of unsettled borders.
 
-David B. Carter, Bailee Donahue, and Rob Williams. "Border Walls, Cooperation, Illicit Trade."
+David B. Carter, Bailee Donahue, and Rob Williams. "Border Walls, Cooperation, and Illicit Trade."
 
 > In the last twenty years, the number of fortified borders around the world has sharply increased. A growing body of research suggests that negative externalities that arise from cross-border economic inequalities drive wealthier states to build border barriers. More specifically, authors such as Carter and Poast (2017, 2020) suggest that increases in illicit trade and smuggling are central to understanding why border barriers are on the rise globally. While recent research analyzes the effects of walls on legal trade, no studies of which we are aware explore how walls might affect illicit trade. This is a notable omission for two key reasons. First, the most common explanations for wall construction put combating illicit flows of goods and people front and center. Second, recent research that finds walls significantly reduce legal trade suggests that this finding derives from border fortifications diversion of illegal trade to ports of entry, which leads to more inspection, security, and transaction costs. However, outside of historical examples and short qualitative case discussions, there is no systematic evidence of walls effects on cross-border illicit flows. We begin to fill this gap using a massive data set that disaggregates commercial trade by good to develop a fine-grained measure of illicit flows. More specifically, disaggregated trade data allows us to develop new and more credible measures of "mis-invoicing", which has been used as a proxy for illicit trade flows among states since being introduced by Bhagwati (1964). We demonstrate that mis-invoicing is systematically associated with border barrier construction using data that spans 1960-2018.
 
