@@ -10,10 +10,11 @@ author_profile: true
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, J. Yan and **Hongyuan Zha**, F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2004.11145)
 - **Junjie Sheng**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, T.-H. Chang, J. Wang and **Hongyuan Zha**, Learning Structured Communication for Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2002.04235)
 - **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. 2020. [arxiv](https://arxiv.org/abs/2002.04238)
-- **Junjie Wang**, **Xiangfeng Wang**, **Bo Jin**, J. Yan, W. Zhang and **Hongyuan Zha**, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. 2020. [arxiv](http://arxiv.org/abs/1911.09046)
 
 ## 2020
 
+- **Xin Li**, **Xiangfeng Wang**, **Bo Jin**, **Wenjie Zhang**, Jun Wang and **Hongyuan Zha**, VSB$^2$-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing. *ICPR*, 2020.
+- **Junjie Wang**, **Xiangfeng Wang**, **Bo Jin**, J. Yan, W. Zhang and **Hongyuan Zha**, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. *ICPR*, 2020.
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, accepted, 2020.
 - M. Hong, T.-H. Chang, **Xiangfeng Wang**, M. Razaviyayn, S. Ma and Z.-Q. Luo, A Block Successive Upper Bound Minimization Method of
   Multipliers for Linearly Constrained Convex Optimization. *Mathematics of Operations Research*, accepted, 2020.
