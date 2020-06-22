@@ -31,7 +31,7 @@ Publications
 Selected First-authored Publications:
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao and Wenji Mao  
-To appear in *ACL 2020: The 58th Annual Conference of the Association for Computational Linguistics*.
+In *ACL 2020: The 58th Annual Conference of the Association for Computational Linguistics*, pages 3171--3181.
 * **Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity**  
 **Penghui Wei**, Nan Xu, Wenji Mao  
 In *EMNLP 2019: The 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing*, pages 4789--4800.
