@@ -1,7 +1,7 @@
 ---
 title: "Conflict preemption"
 layout: single-portfolio
-excerpt: "How states identify and thwart nascent separatist movements<br/><img src='/images/research/china_nl.png' width='500'>"
+excerpt: "<img src='/images/research/china_nl.png' alt=''>"
 collection: research
 order_number: 10
 author_profile: true

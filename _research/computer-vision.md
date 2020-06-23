@@ -1,7 +1,7 @@
 ---
 title: "Computer vision"
 layout: single-portfolio
-excerpt: "Using images to uncover hidden relationships<br/><img src='/images/research/ternary.png' width='500'>"
+excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research
 order_number: 40
 author_profile: true

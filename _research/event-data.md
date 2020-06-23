@@ -1,7 +1,7 @@
 ---
 title: "Event data"
 layout: single-portfolio
-excerpt: "Exploring the microlevel dynamics of conflict<br/><img src='/images/research/map.png' width='500'>"
+excerpt: "<img src='/images/research/map.png' alt=''>"
 collection: research
 order_number: 30
 author_profile: true

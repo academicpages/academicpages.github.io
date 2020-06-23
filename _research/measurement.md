@@ -1,7 +1,7 @@
 ---
 title: "Measurement"
 layout: single-portfolio
-excerpt: "Measuring and explaining elusive concepts<br/><img src='/images/research/Agreement-Strength.png' width='500' height='500'>"
+excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
 collection: research
 order_number: 20
 author_profile: true
