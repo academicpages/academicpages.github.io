@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: "Homepage - Pengyu Cheng"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 
 ### Research Highlights:
-- [2020/06/01] One paper got accepted at ICML 2020.
+- [2020/06/01] One [paper](https://arxiv.org/abs/2006.12013) got accepted at ICML 2020.
 
 - [2020/04/03] One [paper](https://arxiv.org/pdf/2006.00693.pdf) got accepted at ACL 2020.
 
