@@ -19,7 +19,7 @@ redirect_from:
 - **Still for Sale: The Micro-Dynamics of Vote-Selling in the United States, Evidence From a List Experiment**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Revise and Resubmit, Acta Politica**.
 
 
-- **A (quick) Estimation of the Employment Effects of Covid-19 across Chilean Regions**. **Revise and Resubmit, Regional Science, Policy and Practice**. With Felix Modrego (UOH) and Andrea Canales (Economics, PUC).
+- **A (quick) Estimation of the Employment Effects of Covid-19 across Chilean Regions**. With Felix Modrego (UOH) and Andrea Canales (Economics, PUC). <br/> **Revise and Resubmit, Regional Science, Policy and Practice**. 
 
 - **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **Sent**
 
