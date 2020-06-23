@@ -5,6 +5,15 @@ sitemap: false
 permalink: /live_protocol.html
 author_profile: false
 ---
+
+<style>
+.initially-hidden {
+	display: none;
+	background-color: #243e90;
+	color: #ffffff;
+}
+</style>
+
 <script type="text/javascript" src="{{ base_path }}/assets/js/main.min.js"></script>
 
 <p/>
@@ -12,28 +21,32 @@ author_profile: false
 	Click this button to start Micro-Manager 
 	<a href="javascript:void(0);"><img id="MM_launch" src="../images/MM_launch_button.png"></a>
 </p>
+<div id="start_MM_notifier" class="initially-hidden">Micro-Manager started</div>
+<br/><br/>
 <p>
 	Click this button to take a picture
 	<a href="javascript:void(0);"><img id="MM_snap" src="../images/MM_snap_button.png"></a>
 </p>
+<div id="MM_snap_notifier" class="initially-hidden">Image snapped</div>
+<br/><br/>
 <p>
 	Click this button to start live acquisition
 	<a href="javascript:void(0);"><img id="MM_live_on" src="../images/MM_live_on_button.png"></a>
 </p>
+<div id="MM_live_on_notifier" class="initially-hidden">Live mode ON</div>
+<br/><br/>
 <p>
 	Click this button to stop live acquisition 
 	<a href="javascript:void(0);"><img id="MM_live_off" src="../images/MM_live_off_button.png"></a>
 </p>
+<div id="MM_live_off_notifier" class="initially-hidden">Live mode OFF</div>
+<br/><br/>
 
-<!--
-
-<a href="https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRkODFkMWI2YWYwNzAwMTk4OTk5NzkiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDg2MjkwfQ.vnVPxfQRuEZ2OCZt-7CTZtfIE0fd8YLT3wcGtsRgSRo">launch MM</a>
-<div id="log"></div>
-
--->
 
 <script>
 $( "#MM_launch" ).click(function( event ) {
+  
+  $("#start_MM_notifier").slideDown("slow");
   $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRkODFkMWI2YWYwNzAwMTk4OTk5NzkiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDg2MjkwfQ.vnVPxfQRuEZ2OCZt-7CTZtfIE0fd8YLT3wcGtsRgSRo",
         {
           params: "",
@@ -41,9 +54,11 @@ $( "#MM_launch" ).click(function( event ) {
         function(data,status){
             alert("Data: " + data + "\nStatus: " + status);
         });
+  setTimeout(function () {$("#start_MM_notifier").slideUp("slow")}, 3000);
 });
 
 $( "#MM_snap" ).click(function( event ) {
+  $("#MM_snap_notifier").slideDown("slow");
   $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRlOWQ4MWI2YWYwNzAwMTk4OWJhNmUiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDkzMjEwfQ.jxscOkAnWvY9V3jcxQX14GVK8SE9kVM7Rk62a31DVvY",
         {
           params: "",
@@ -51,9 +66,11 @@ $( "#MM_snap" ).click(function( event ) {
         function(data,status){
             alert("Data: " + data + "\nStatus: " + status);
         });
+  setTimeout(function () {$("#MM_snap_notifier").slideUp("slow")}, 3000);
 });
 
 $( "#MM_live_on" ).click(function( event ) {
+  $("#MM_live_on_notifier").slideDown("slow");
   $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWUxOWVhMDQwYmVmZDAwMTljNzJiYWYiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDkzMjQ3fQ.2Cq-D0rh0msMahSiddJXst3uYE8tj5H8tiNMDFdOWEU",
         {
           params: "on",
@@ -61,9 +78,11 @@ $( "#MM_live_on" ).click(function( event ) {
         function(data,status){
             alert("Data: " + data + "\nStatus: " + status);
         });
+  setTimeout(function () {$("#MM_live_on_notifier").slideUp("slow")}, 3000);
 });
 
 $( "#MM_live_off" ).click(function( event ) {
+  $("#MM_live_off_notifier").slideDown("slow");
   $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWUxOWVhMDQwYmVmZDAwMTljNzJiYWYiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDkzMjQ3fQ.2Cq-D0rh0msMahSiddJXst3uYE8tj5H8tiNMDFdOWEU",
         {
           params: "off",
@@ -71,27 +90,8 @@ $( "#MM_live_off" ).click(function( event ) {
         function(data,status){
             alert("Data: " + data + "\nStatus: " + status);
         });
+  setTimeout(function () {$("#MM_live_off_notifier").slideUp("slow")}, 3000);
 });
+
+
 </script>
-
-<!--
-<script>
-$( "a" ).click(function( event ) {
-  event.preventDefault();
-  $.get("https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRkODFkMWI2YWYwNzAwMTk4OTk5NzkiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDg2MjkwfQ.vnVPxfQRuEZ2OCZt-7CTZtfIE0fd8YLT3wcGtsRgSRo",
-        {
-          params: "",
-        },
-        function(data,status){
-            alert("Data: " + data + "\nStatus: " + status);
-        });
-  $( "<div>" )
-    .append( "default " + event.type + " prevented" )
-    .appendTo( "#log" );
-});
-</script>
--->
-
-<!--https://www.triggercmd.com/trigger/bookmark?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib29rbWFya3VzZXJfaWQiOiI1ZWRkNmEyZTQwYmVmZDAwMTljNmE3ZDQiLCJjb21wdXRlcl9pZCI6IjVlZGQ2YTkxNDBiZWZkMDAxOWM2YTdlNCIsImNvbW1hbmRfaWQiOiI1ZWRkODFkMWI2YWYwNzAwMTk4OTk5NzkiLCJleHBpcmVzSW5TZWNvbmRzIjoiIiwiaWF0IjoxNTkyNDg2MjkwfQ.vnVPxfQRuEZ2OCZt-7CTZtfIE0fd8YLT3wcGtsRgSRo -->
-
-<!-- <img src="../images/launch_MM_button.png"> -->
