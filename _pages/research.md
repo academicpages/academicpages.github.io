@@ -9,7 +9,7 @@ My research falls into two main areas: understanding patterns of rebel behavior 
 
 My other main research agenda uses advanced methods to allow us to ask new questions in the study of peace and conflict. By using Bayesian item response theory to measure the strength of peace agreements as a latent variable, I free researchers from post-treatment bias caused by using the duration of agreements as a proxy for their strength. In another project, I use visual imagery contained in Salafi jihadist propaganda videos to detect similiarties in videos produced by different groups, allowing researchers to estimate collaboration networks with a broader clandestine movement. Other work uses over two billion observations of international trade data to develop new measures of economic interdependence and methods to detect disruptions of regular economic exchange between states.
 
-You can learn about all of my projects within these two research streams below.
+<nbsp>
 
 {% include base_path %}
 
