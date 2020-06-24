@@ -24,7 +24,7 @@ News
 
 \[January 2020\] Two papers accepted at **TheWebConf 2020** (Short Paper) and **ECAI 2020**. 
 
-\[November 2019\] Our paper **GraLSP: Graph Neural Networks with Local Structural Patterns** is accepted at AAAI 2020 [Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)!
+\[November 2019\] Our paper **GraLSP: Graph Neural Networks with Local Structural Patterns** is accepted at AAAI 2020 \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]!
 
 \[November 2019\] Our paper **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** was awarded *Best Research Paper Runner-up* at CIKM 2019! [PDF](https://kl4805.github.io/files/CIKM19.pdf)
 
