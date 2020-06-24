@@ -9,14 +9,16 @@ redirect_from:
 
 ## Peer-Reviewed Articles
 
+- Bahamonde, H. Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence From a List Experiment. **forthcoming, Acta Politica**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). [[BibTex]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.bib)
+
 - Bahamonde, H. (2018). Aiming Right at You: Group versus Individual Clientelistic Targeting in Brazil. **Journal of Politics in Latin America**, 10(2), pp. 41-76. <br/> [[Paper]](https://journals.sub.uni-hamburg.de/giga/jpla/article/view/1121/1128). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Clientelism_paper/raw/master/datasets/dat.RData). [[BibTex]](https://raw.github.com/hbahamonde/Clientelism_paper/Bahamonde_JPLA_2018.bib).
 
 - Bahamonde, H. (2011). El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009. **Revista de Ciencia Política**. 31(2), pp. 285-310. With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). [[Abstract]](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2011000200007&lng=es&nrm=iso&tlng=en).
 
 
-## Under Review, Revise and Resubmit, Sent
 
-- **Still for Sale: The Micro-Dynamics of Vote-Selling in the United States, Evidence From a List Experiment**. <br/> [[Paper]](https://github.com/hbahamonde/Vote_Selling/raw/master/Bahamonde_VoteSellingUS.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](http://www.hectorbahamonde.com/datasets/). **Revise and Resubmit, Acta Politica**.
+
+## Under Review, Revise and Resubmit, Sent
 
 
 - **A (quick) Estimation of the Employment Effects of Covid-19 across Chilean Regions**. With Felix Modrego (UOH) and Andrea Canales (Economics, PUC). <br/> **Revise and Resubmit, Regional Science, Policy and Practice**. 
