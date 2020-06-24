@@ -15,7 +15,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 * **Graph Structural-topic Neural Network** <br>
 Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Yi Li, Wei Lin. To appear in *The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2020
 
-* **EPNE: Evolutionary Pattern Preserving Network Embedding** <br>
+* **EPNE: Evolutionary Pattern Preserving Network Embedding** \[[pdf](http://ecai2020.eu/papers/528_paper.pdf)\] <br>
 Junshan Wang<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Xiaojun Ma. To appear in *The 24th European Conference on Artificial Intelligence (ECAI)*, 2020
 
 * **Domain Adaptive Classification on Heterogeneous Information Networks** <br>
