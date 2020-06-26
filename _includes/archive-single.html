@@ -77,15 +77,7 @@
     {% endif %}
     
     {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-        <div class="container">
-          {{ post.excerpt | markdownify }}
-          <div class="overlay">
-          </div>
-        </div>
-        </a>
-      </p>
+    <p class="archive__item-excerpt" itemprop="description"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.excerpt | markdownify }}</a></p>
     {% elsif post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
