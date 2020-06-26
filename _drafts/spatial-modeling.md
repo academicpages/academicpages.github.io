@@ -1,7 +1,7 @@
 ---
 title: "Spatial modeling"
 layout: single-portfolio
-excerpt: "Models for spatially correlated data<br/><img src='/images/research/gp-bma.png' width='500' height='500'>"
+excerpt: "<img src='/images/research/gp-bma.png' width='500' height='500'>"
 collection: research
 order_number: 50
 author_profile: true
