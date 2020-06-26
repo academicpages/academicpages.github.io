@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Özgür Doğan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "EFL Lecturer, PhD Candidate, Passionate for Research, Language, Indie, MALL, #mlearn, #AugmentedReality, CineFreak, Father, La Vida Loca"
+name                     : &name "Ozgur Dogan"
+description              : &description "La Vida"
 url                      : https://ozgrdgn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ozgrdgn.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ozgur Dogan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "EFL Lecturer, PhD Candidate, Passionate for Research, Language, Indie, MALL, #mlearn, #AugmentedReality, CineFreak, Father, La Vida Loca"
+  location         : "Erzincan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ozgrdgn"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ozgurdogan"
   vine             :
   weibo            :
   xing             :
