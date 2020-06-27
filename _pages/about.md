@@ -19,12 +19,12 @@ Sou Fã de jogos online desde criança também, esporte e música considero hobb
 Abraços :D
 
 ## English ##
-Hey there, how are you?
+Hey, what's up?
 
-My name is Vinicius, I'm 20 years old. I decided in the last weeks, create a page to share about some subjects, like my journey in IT or “Information Technology”, and also like SysAdmin. I have been interested in technology since I was a child, I can now consider   passionate about technology.
+My name is Vinicius, I'm 20 years old. I decided in the last weeks, create a page to share about some subjects, like my journey in IT or “Information Technology”, and also like SysAdmin. I have been interested in technology since I was a child, I can now consider passionate about technology.
 
-I am student of Computer Science, currently working as a Technical Consultant, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
+I am a Computer Science student, currently working as a Technical Consultant, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
 
-I have been a fan of online games, sport and music I consider hobbie. The idea is share in this academic page my studies and learnings in this tech journey.
+I have been a fan of online games, sports and music I consider hobbie. The idea is share in this academic page my studies and learnings in this tech journey.
 
 See you :D
