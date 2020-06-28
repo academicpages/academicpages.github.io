@@ -1,5 +1,5 @@
 ---
-title: "Probabilitys"
+title: "Probability"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/prelim-probability
