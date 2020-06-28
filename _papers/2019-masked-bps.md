@@ -1,5 +1,5 @@
 ---
-title: "Masked Bouncy Particle Sampler Particle Filtering"
+title: "Masked Bouncy Particle Sampler"
 collection: papers
 permalink: /papers/2020-masked-bps
 excerpt: 
