@@ -10,8 +10,8 @@ redirect_from:
 
 
     
-PhD student in the Computational Statistics and Machine Learning research group within the Department of Statistics at Oxford, supervised by George Deligiannidis and Arnaud Doucet.
+PhD student in the Computational Statistics and Machine Learning (CSML) research group within the Department of Statistics at the University of Oxford, supervised by George Deligiannidis (Oxford) and Arnaud Doucet (DeepMind/ Oxford).
 
-Prior to Oxford, I worked in a modelling and analystics role for investment management firm, BlackRock. I did my undergraduate and Master's studies in Statistics at Warwick University where I worked with [Anthony Lee](https://sites.google.com/view/anthonylee/supervision) on Monte Carlo methods for Bayesian non-parametric models.
+Prior to Oxford, I worked in a modelling and analytics role for investment management firm, BlackRock. I did my undergraduate and Master's studies in Statistics at Warwick University where I worked with [Anthony Lee](https://sites.google.com/view/anthonylee/supervision) on Monte Carlo methods for Bayesian non-parametric models.
 
 CV: [here](https://jtt94.github.io/files/James Thornton CV.pdf)
