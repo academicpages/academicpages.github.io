@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Thornton / Personal Site"
+title                    : "James Thornton"
 title_separator          : "-"
 name                     : &name "James Thornton"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "james [dot] thornton [at] spc [dot] ox [dot] ac [dot] uk"
+  email            : "james.thornton@spc.ox.ac.uk"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/james-thomas-thornton/"
+  linkedin         : "james-thomas-thornton"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _papers
   - scope:
       path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
