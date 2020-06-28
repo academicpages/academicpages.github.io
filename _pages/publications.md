@@ -25,7 +25,7 @@ Shuwen Yang, Guojie Song, **Yilun Jin**, Lun Du. To appear in *The 29th Internat
 Lichen Jin, Yizhou Zhang, Guojie Song, **Yilun Jin**, In *The Web Conference (TheWebConf, a.k.a WWW)*, 2020. 
 
 ## 2019
-* **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3357384.3357947)\] <br>
+* **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3357384.3357947)\]\[[code](https://github.com/YimiAChack/SpaceNE)\] <br>
 Qingqing Long, Yiming Wang, Lun Du, Guojie Song, **Yilun Jin**, Wei Lin. In *The 28th ACM International Conference on Information and Knowledge Management (CIKM)*, 2019. **Best Research Paper Runner-up Award**. 
 
 * **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
