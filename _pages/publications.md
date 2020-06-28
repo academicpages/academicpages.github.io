@@ -9,10 +9,10 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 (<sup>\*</sup> indicates equal contribution. )
 
 ## 2020
-* **GraLSP: Graph Neural Networks with Local Structural Patterns** \[[pdf](https://kl4805.github.io/files/aaai20.pdf)\] <br>
+* **GraLSP: Graph Neural Networks with Local Structural Patterns** \[[pdf](https://kl4805.github.io/files/aaai20.pdf)\]\[[code](https://github.com/KL4805/GraLSP)\] <br>
 **Yilun Jin**, Guojie Song, Chuan Shi. In *The 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020
 
-* **Graph Structural-topic Neural Network** <br>
+* **Graph Structural-topic Neural Network** \[[code](https://github.com/YimiAChack/GraphSTONE)\]<br>
 Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Yi Li, Wei Lin. To appear in *The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2020
 
 * **EPNE: Evolutionary Pattern Preserving Network Embedding** \[[pdf](http://ecai2020.eu/papers/528_paper.pdf)\] <br>
