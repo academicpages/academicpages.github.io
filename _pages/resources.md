@@ -1,9 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Resources"
-redirect_from: 
-  - /resources/
-  - /resources.html
+permalink: /resources/
+author_profile: true
 ---
 
 
