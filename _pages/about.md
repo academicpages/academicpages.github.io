@@ -10,7 +10,7 @@ redirect_from:
 
 
     
-Statistics PhD student based at Oxford, part of the Centre for Doctoral Training (CDT) in Statistical Science.
+PhD student in the Computational Statistics and Machine Learning research group within the Department of Statistics at Oxford, supervised by George Deligiannidis and Arnaud Doucet.
 
 Prior to Oxford, I worked in a modelling and analystics role for investment management firm, BlackRock. I did my undergraduate and Master's studies in Statistics at Warwick University where I worked with [Anthony Lee](https://sites.google.com/view/anthonylee/supervision) on Monte Carlo methods for Bayesian non-parametric models.
 
