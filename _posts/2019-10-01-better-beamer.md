@@ -43,7 +43,7 @@ We'll start with the base Beamer class. There are a number of Beamer [themes](ht
 \end{document}
 ```
 
-![](/images/posts/Slide_Default.png)
+![](/images/posts/beamer/Slide_Default.png)
 
 The first thing anyone who's ever taken a graphic design class will tell you is that we need to space out those lines. With them all crammed in the middle, they're harder to read and there's ton of empty space up top and down below. We can insert a `\vfill` at the top and bottom of the slide, and between each line, but this gets old quickly. After plenty of googling and a few less than perfect solutions, I came across this Stack Exchange [answer](https://tex.stackexchange.com/questions/369504#369597). By adding the following code to your preamble, any items in a `\itemize` environment will be evenly spaced vertically.
 
@@ -87,7 +87,7 @@ The first thing anyone who's ever taken a graphic design class will tell you is 
 ```
 {% endraw %}
 
-![](/images/posts/Slide_Better.png)
+![](/images/posts/beamer/Slide_Better.png)
 
 Looking better already!
 
@@ -108,7 +108,7 @@ While this has fixed the font size of our lists, now our still too small equatio
 \BeforeBeginEnvironment{equation*}{\begingroup\LARGE}
 \AfterEndEnvironment{equation*}{\endgroup}
 ```
-![](/images/posts/Slide_Better_Equation.png)
+![](/images/posts/beamer/Slide_Better_Equation.png)
 
 Now we've got a much more readable slide that will be automatically replicated for every other slide in our presentation. If you have multi-line equations in your slides, you can similarly redefine the `align*` environment to enlarge these equations as well. 
 
@@ -116,7 +116,7 @@ Now we've got a much more readable slide that will be automatically replicated f
 
 As we can see above, our redefinition of the `\itemize` environment also evenly spaces sub-bullets. However, it doesn't do anything for numbered lists defined with `/enumerate` as the slide below shows.
 
-![](/images/posts/Slide_Enumerate_Default.png)
+![](/images/posts/beamer/Slide_Enumerate_Default.png)
 
 To evenly space items in numbered lists, we just need to take the same changes to the `\itemize` environment we introduced above, and apply them to the `\enumerate` environment as well. Unfortunately, I'm not nearly fluent enough in TeX to understand what this code does. Luckily, I know how to run a [diff](https://en.wikipedia.org/wiki/Diff). Diffing two files will point out all differences between the two. By comparing the modified code from Stack Exchange with the original in [`beamerbaselocalstructure.sty`](http://mirrors.ctan.org/macros/latex/contrib/beamer/base/beamerbaselocalstructure.sty), we can figure out which lines have been added and copy them over to Beamer's definition of the `\enumerate` environment.
 
@@ -224,7 +224,7 @@ Essentially, the new code redefines the `\itemsep` length parameter as `\vfill` 
 
 Once we've done that, now numbered lists are also evenly spaced!
 
-![](/images/posts/Slide_Enumerate_Better.png)
+![](/images/posts/beamer/Slide_Enumerate_Better.png)
 
 # All together now
 
