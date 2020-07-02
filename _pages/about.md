@@ -17,6 +17,7 @@ I will join [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/s
 
 News
 ======
+* [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
 * [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
 * [2020/01/15] &nbsp; I give a talk at Sichuan University.
 * [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
@@ -35,6 +36,22 @@ News
 
 Research
 ======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>On Disentangling Spoof Traces for Generic Face Anti-Spoofing</strong><br/>
+      <u>Yaojie Liu</u>, Joel Stehouwer, Xiaoming Liu<br/>
+      European Conference on Computer Vision (ECCV'20), 2020.<br/>
+    </p>
+  </div>
+</div>
+
+___
+
 <div class="row">
   <div class="column left">
     <img align="left" width="100%" src="https://yaojieliu.github.io/images/cvpr20.png?raw=true">  
