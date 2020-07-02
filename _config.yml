@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peishan Yi"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -309,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
-theme: jekyll-theme-cayman
