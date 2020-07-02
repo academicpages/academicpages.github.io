@@ -22,7 +22,7 @@ Rob Williams. "PASS: Peace Agreement Strength Scores."
 
 > This paper presents the Peace Agreement Strength Scores (PASS) of peace agreements in civil conflicts. The scores capture the strength of peace agreements at the time of signing and can be used to avoid relying on the duration of agreement survival as a proxy for agreement strength. The scores are used to show descriptively that stronger peace agreements tend to be signed in more intractable conflicts, suggesting that a selection effect may be at play in the process of agreement signing and duration. The scores are available for all peace agreements signed in UCDP/PRIO civil conflicts from 1975-2018.
 
-[Working Paper](/files/pdf/research/PASS.pdf){: .btn--research}
+[Working Paper](/files/pdf/research/PASS.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/PASS SI.pdf){: .btn--research}
 
 Bailee Donahue, Rob Williams, and Mark Crescenzi. "Unsettled Borders in a Market Context." Presented at the Annual Meeting of the Peace Science Society (International), Manhattan, KS, November 2019 and the International Studies Association Midwest Annual Conference, St. Louis, MO, November 2019. To be presented at the Annual Conference of the American Political Science Association, San Francisco, CA, September, 2020.
 
