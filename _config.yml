@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About | Kristine Loh"
+title                    : "Kristine Loh"
 title_separator          : "-"
 name                     : &name "Kristine Loh"
 description              : &description "Chemical Engineering PhD Student at the University of Minnesota - Twin Cities"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kristine Loh"
   avatar           : "profile.png"
-  bio              : "Kristine Loh is a Chemical Engineering PhD student at the University of Minnesota - Twin Cities. She received her BS in Chemical Engineering and her MS in Materials Science and Engineering from Drexel University."
+  bio              : "Kristine Loh is a Chemical Engineering PhD student at the University of Minnesota - Twin Cities. \ She received her BS in Chemical Engineering and her MS in Materials Science and Engineering from Drexel University."
   location         : "Minneapolis, MN"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
