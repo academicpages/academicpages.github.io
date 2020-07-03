@@ -1,6 +1,6 @@
 ---
 title: 'Analying multiple datasets with a joint likelihood'
-date: 2020-07-3
+date: 2020-07-02
 permalink: /posts/2020/07/joint/
 tags:
   - notebooks
