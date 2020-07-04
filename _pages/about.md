@@ -16,3 +16,5 @@ I am currently also working on a project mapping and predicting social distancin
 [Download Zhang's Vita Here](https://yongjunzhang.com/files/zhang-vita.pdf).
 
 [Click Here to See Data Visualization for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
+
+[Click Here to Book a Zoom Meeting(https://calendar.google.com/event?action=TEMPLATE&tmeid=MGY4ZmhnNzQwODY0OWJxdGxpcXVqZThuOGRfMjAyMDA4MjVUMTgwMDAwWiB5b25nanVuLnpoYW5nQHN0b255YnJvb2suZWR1&tmsrc=yongjun.zhang%40stonybrook.edu)]
