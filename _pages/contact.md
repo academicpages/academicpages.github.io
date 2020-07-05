@@ -5,5 +5,5 @@ permalink: /contact/
 author_profile: true
 ---
 
-![](http://deepcharles.github.io/files/email.png "")
+![email](http://deepcharles.github.io/files/email.png "email")
 
