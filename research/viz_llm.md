@@ -4,7 +4,7 @@ collection: research
 permalink: /research/viz_llm
 date: 2019-01-01
 venue: 'Socius'
-citation: '<b>Mauricio Bucca</b>. &quot;Heatmaps for patterns of association in log-linear models.&quot; <i>Socius</i>. Forthcoming.'
+citation: '<b>Mauricio Bucca</b>. &quot;Heatmaps for patterns of association in log-linear models.&quot; <i>Socius</i>. 2020.'
 ---
 
 [[Paper]](https://journals.sagepub.com/doi/full/10.1177/2378023119899219)
