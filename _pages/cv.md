@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, University of the Philippines Diliman, 2019
-* M.S. in in Physics, University of the Philippines Diliman, 2021 (expected)
+* M.S. in Physics, University of the Philippines Diliman, 2021 (expected)
 
 Work experience
 ======
