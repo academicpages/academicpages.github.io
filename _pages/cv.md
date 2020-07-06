@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2019---: Instructor
+* 2019 &mdash; : Instructor
   * University of the Philippines Diliman
   * Duties included: Teaching Physics service courses (Recitation and Lab), Checker for undergrad core courses.
   
