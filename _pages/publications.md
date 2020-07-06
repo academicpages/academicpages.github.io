@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=nD0LNU4AAAAJ&hl=en).
 
 <b>[Heatmaps for Patterns of Association in log-Linear Models](http://mebucca.github.io/research/viz_llm)</b><br>
-<b>Mauricio Bucca</b>, Daniela Urbina. <i>Socius</i>, 2020. 
+<b>Mauricio Bucca</b>. <i>Socius</i>, 2020. 
     
 <b>[It’s not just how the game is played, it’s whether you win or lose](http://mebucca.github.io/research/beliefs_experiment)</b><br>
 Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>, 2019. Media Coverage: [New York Times](https://mebucca.github.io/files/papers/beliefs_experiment_nyt.pdf), [Washington Post](https://mebucca.github.io/files/papers/beliefs_experiment_wp.pdf),
