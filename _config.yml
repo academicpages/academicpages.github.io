@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Onno Pepijn Kampman"
+title                    : "Onno Kampman"
 title_separator          : "-"
 name                     : &name "Onno Pepijn Kampman"
 description              : &description "Computational Neuroscientist"
