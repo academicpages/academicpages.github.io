@@ -12,7 +12,7 @@ author_profile: true
 - **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. 2020. [arxiv](https://arxiv.org/abs/2002.04238)
 
 ## 2020
-
+- **Xiangfeng Wang**, Junping Zhang and Wenxing Zhang, The Distance Between Convex Sets with Minkowski Sum Structure: Application to Collision Detection. *Computational Optimization and Applications*, accepted, 2020.
 - **Xin Li**, **Xiangfeng Wang**, **Bo Jin**, **Wenjie Zhang**, Jun Wang and **Hongyuan Zha**, VSB$^2$-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing. *ICPR*, 2020.
 - **Junjie Wang**, **Xiangfeng Wang**, **Bo Jin**, J. Yan, W. Zhang and **Hongyuan Zha**, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. *ICPR*, 2020.
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, accepted, 2020.
