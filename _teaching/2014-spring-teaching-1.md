@@ -1,20 +1,24 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor of Physics"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of the Philippines Diliman, National Institute of Physics"
+date: 2019-08-01
+location: "Quezon City, Philippines"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Recitation
 ======
+* Physics 71 (Elementary Physics I) - Mechanics of particles, rigid bodies and fluids.
+* Physics 72 (Elementary Physics II) - Electricity and magnetism, wave phenomena, and optics.
 
-Heading 2
+Lab
 ======
+* Physics 71.1 - Elementary Physics I Laboratory
 
-Heading 3
+Checker
 ======
+* Physics 117 (Mathematical Methods in Physics II)
+* Physics 126 (Classical Mechanics)
+* Physics 152 (Statistical Physics)
