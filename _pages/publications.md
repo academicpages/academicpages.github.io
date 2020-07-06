@@ -7,13 +7,15 @@ author_profile: true
 
 ## 2020
 
-* BEEP: A Python library for battery evaluation and prediction. M. Aykol, P. Herring, C.B. Gopal, J. Montoya, A. Anapolsky, P. Attia, W. Gent, J. Hummelshoj, L. Hung, H.-K. Kwon, P. Moore, D. Schweigert, K.A. Severson, S. Suram, Z. Yang, R.D. Braatz, B. Storey. Software-X, 2020.
+* Personalized input-output hidden Markov models for disease progression modeling. K.A. Severson, L. Chahine, L. Smolensky, K. Ng, J. Hu, S. Ghosh. Machine Learning for Healthcare, 2020.
 
-* DPVis: Visual analytics with hidden Markov models for disease progression pathways. B.C. Kwon, V. Anand, K.A. Severson, S. Ghosh, Z. Sun, B.I. Frohnert, M. Lundgren, K. Ng. IEEE Transactions on Visualization and Computer Graphics, 2020. [paper](https://www.researchgate.net/profile/Bum_Chul_Kwon/publication/340498092_DPVis_Visual_Analytics_with_Hidden_Markov_Models_for_Disease_Progression_Pathways/links/5e906d34a6fdcca789064e0b/DPVis-Visual-Analytics-with-Hidden-Markov-Models-for-Disease-Progression-Pathways.pdf)
+* BEEP: A Python library for battery evaluation and prediction. M. Aykol, P. Herring, C.B. Gopal, J. Montoya, A. Anapolsky, P. Attia, W. Gent, J. Hummelshoj, L. Hung, H.-K. Kwon, P. Moore, D. Schweigert, K.A. Severson, S. Suram, Z. Yang, R.D. Braatz, B. Storey. Software-X, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S2352711020300492)
+
+* DPVis: Visual analytics with hidden Markov models for disease progression pathways. B.C. Kwon, V. Anand, K.A. Severson, S. Ghosh, Z. Sun, B.I. Frohnert, M. Lundgren, K. Ng. IEEE Transactions on Visualization and Computer Graphics, 2020. [paper](https://www.researchgate.net/profile/Bum_Chul_Kwon/publication/340498092_DPVis_Visual_Analytics_with_Hidden_Markov_Models_for_Disease_Progression_Pathways/links/5e906d34a6fdcca789064e0b/DPVis-Visual-Analytics-with-Hidden-Markov-Models-for-Disease-Progression-Pathways.pdf) [software](http://dpvis.mybluemix.net)
 
 * Closed-loop optimization of fast-charging protocols for batteries with machine learning. P.M. Attia, A. Grover, N. Jin, K.A. Severson, T.M. Markov, Y.H. Liao, M.H. Chen, B. Cheong, N. Perkins, Z. Yang, P.K. Herring, M. Aykol, S.J. Harris, R.D. Braatz, S. Ermon, W.C. Chueh, Nature, 2020. [paper](https://www.nature.com/articles/s41586-020-1994-5.epdf) [press](https://news.stanford.edu/2020/02/19/machine-learning-speed-arrival-ultra-fast-charging-electric-car/)
 
-* Identifying unreliable predictions in clinical risk models. P.D. Myers, K. Ng, K.A. Severson, U. Kartoun, W. Dai, W. Huang, F.A. Anderson, C.M. Stultz. npj Digital Medicine, 2020. [paper](https://doi.org/10.1038/s41746-019-0209-7)
+* Identifying unreliable predictions in clinical risk models. P.D. Myers, K. Ng, K.A. Severson, U. Kartoun, W. Dai, W. Huang, F.A. Anderson, C.M. Stultz. npj Digital Medicine, 2020. [paper](https://doi.org/10.1038/s41746-019-0209-7) [press](http://news.mit.edu/2020/clinical-risk-models-acccurate-0123)
 
 ## 2019
 
