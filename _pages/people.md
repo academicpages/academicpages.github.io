@@ -206,12 +206,6 @@ redirect_from:
 # Master Students
 
 <style>
-  #caijinhui{
-    background: url(../images/people/students/caijinhui.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
   #wangjunjie{
     background: url(../images/people/students/wangjunjie.png);
     background-size: contain;
@@ -337,14 +331,6 @@ redirect_from:
 
 
 <div class="students">
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="caijinhui"></div>
-      <div class="member_name" >CAI Jinghui 蔡璟辉</div>
-      <div class="member_intro" >对抗样本、黑盒攻击</div>
-    </div>
-  </div>
-
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangjunjie"></div>
@@ -492,6 +478,12 @@ redirect_from:
 
 # Alumni
 <div class="students">
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >CAI Jinghui 蔡璟辉</div>
+      <div class="member_intro" >2020，拼多多</div>
+    </div>
+  </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >LI Xin 李鑫</div>
