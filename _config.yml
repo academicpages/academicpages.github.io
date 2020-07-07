@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kiran Chotalia" # "Your Sidebar Name"
-  avatar           : "images/Author_Photo.jpeg" #"profile.png"
+  avatar           : "images/Author_Photo.png" #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         : 
