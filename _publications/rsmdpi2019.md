@@ -50,12 +50,14 @@ The dataset used for vehicle Re-identification training is [VeRi](https://github
 Please cite this paper in your publications if it helps your research:
 
 ```
-@article{Wang2019group,
-    title={orientation- and Scale-Invariant Multi-Vehicle Detection and Tracking from Unmanned Aerial Videos},
-    author={Wang, Jie and Simeonova, Sandra and Shahbazi, Mozhdeh},
-    journal={Remote Sensing},
-    year={2019},
-    doi={10.3390/rs11182155},
-    organization={MDPI}
-    }
+@article{wang2019orientation,
+  title={Orientation-and Scale-Invariant Multi-Vehicle Detection and Tracking from Unmanned Aerial Videos},
+  author={Wang, Jie and Simeonova, Sandra and Shahbazi, Mozhdeh},
+  journal={Remote Sensing},
+  volume={11},
+  number={18},
+  pages={2155},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
 ```
