@@ -16,7 +16,7 @@ Estudante de Ciência da Computação, trabalho atualmente como Consultor Técni
 
 A idéia é compatilhar nesta página acadêmica dicas e artigos sobre tecnologia em geral com enfâse em Redes de Computadores, além disso um pouquinho de Ferramentas, IaC (Infra as Code) e a cultura DevOps.
 
-Me interesso por tecnologia desde criança. Tenho hoje em dia como hobbie games, esportes e música.
+Me interesso por tecnologia desde criança. Tenho hoje em dia como hobbie os jogos online, esportes e música.
 
 Abraços :D
 
