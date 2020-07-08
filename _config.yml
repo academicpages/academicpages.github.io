@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vinicius Oliveira"
   avatar           : "profile.png"
-  bio              : "Student of Computer Science passionate about technology"
+  bio              : "Student of Computer Science, passionate about technology"
   location         : "Brazil"
   employer         :
   pubmed           : 
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "pirodriguees"
+  facebook         :
   foursquare       :
   github           : "pirodriguees"
   google_plus      :
   keybase          :
-  instagram        : "pihrodrigues"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "pirodriguees"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "pirodriguees"
+  steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :

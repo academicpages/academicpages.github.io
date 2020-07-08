@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 ## Portuguese ##
-Eaí, tudo bom? 
+E aí, beleza? 
 
-Me chamo Vinicius, tenho 20 anos. Decidi nas últimas semanas enfim criar uma página para compartilhar sobre alguns assuntos como a minha jornada nessa área maravilhosa chamada "Tecnologia da Informação", e também como SysAdmin. Eu me interesso por tecnologia desde criança, posso me considerar atualmente um apaixonado por tecnologia.
+Me chamo Vinicius, tenho 20 anos. Decidi enfim criar uma página para compartilhar aprendizados e dicas nesta jornada tech.
 
-Estudante de Ciência da Computação, trabalho atualmente como Consultor Técnico, sempre buscando conhecimentos teóricos e práticos a respeito de ferramentas, desenvolvimento, automação e infraestrutura de redes.
+Estudante de Ciência da Computação, trabalho atualmente como Consultor Técnico. Atuo hoje diretamente com Infraestrutura em ambientes mistos Linux/Windows em pequenas e grandes empresas. 
 
-Sou Fã de jogos online desde criança também, esporte e música considero hobbie. A idéia é compatilhar nesta página acadêmica meus estudos e aprendizados nesta jornada tech. 
+A idéia é compatilhar nesta página acadêmica dicas e artigos sobre tecnologia em geral com enfâse em Redes de Computadores, além disso um pouquinho de Ferramentas, IaC (Infra as Code) e a cultura DevOps.
+
+Me interesso por tecnologia desde criança. Tenho hoje em dia como hobbie games, esportes e música.
 
 Abraços :D
 
