@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educação
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ensino Médio - E.E Brasil (Colégio Estadual de Limeira), 2016.
+* Bacharelado em Ciência da Computação - Anhanguera Educacional, Dez/2020.
 
 Work experience
 ======
