@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download paper here](https://futoshi-futami.github.io/files/CV_FF.pdf)
+[Download detailed CV here](https://futoshi-futami.github.io/files/CV_FF.pdf)
 
 Education
 ======
@@ -40,12 +40,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-<!--
+
 %Teaching
 %======
 %  <ul>{% for post in site.teaching %}
