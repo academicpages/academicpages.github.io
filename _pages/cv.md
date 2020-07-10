@@ -11,20 +11,25 @@ redirect_from:
 
 Education
 ======
+* Ph.D. Graduate school of Frontier Science, the University of Tokyo, March 2020
+  * Supervisor: Masashi Sugiyama
 * M.S. in Physics, Graduate school of Science, the University of Tokyo, March 2015
-  * Adviser: Seiji Miyashita
+  * Supervisor: Seiji Miyashita
 * B.S. in Physics, the University of Tokyo, March 2013
 
 
 Work experience
 ======
-* Sep.2018 -  Dec.2018 : Research Intern, Microsoft Research Asia
+* June. 2019 - Sep. 2019 : Research Internship, Google Brain at Mountain View
 
 
-* Apr.2017 - Present : Research Assistant, RIKEN Center for Advanced Intelligence Project
+* Sep.2018 -  Dec.2018 : Research Internship, Microsoft Research Asia at Beijing
 
 
-* Apr.2015 - Dec.2016 : Staff in Planning division, Financial Services Agency, Japanese Government
+* Apr.2017 - Mar. 2020 : Research Assistant, RIKEN Center for Advanced Intelligence Project at Tokyo
+
+
+* Apr.2015 - Dec.2016 : Staff in Planning division, Financial Services Agency, Japanese Government at Tokyo
 
 
 Publications
