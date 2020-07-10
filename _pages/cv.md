@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download detailed CV here](https://futoshi-futami.github.io/files/CV_FF.pdf)
+[My CV can be found here](https://futoshi-futami.github.io/files/CV_FF.pdf)
 
 Education
 ======

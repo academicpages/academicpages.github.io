@@ -10,11 +10,11 @@ redirect_from:
 
 # Futoshi Futami
 
-#### Researcher at NTT, Kyoto, Japan.
+### Researcher at NTT, Kyoto, Japan.
 
-#### I work on machine learning research, including variational inference, Monte Carlo sampling methods.
+### I work on machine learning research, including variational inference, Monte Carlo sampling methods.
 
-
+[My CV can be found here](https://futoshi-futami.github.io/files/CV_FF.pdf)
 
 ## NEWS
 - Our paper was accepted in ICML 2020
