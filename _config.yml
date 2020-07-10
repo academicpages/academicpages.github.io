@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kiran Chotalia" # "Your Sidebar Name"
   avatar           : "Author_Photo.png" #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Post-Doctoral Associate at the Univeristy of Florida<br/> PhD in Computational Geodynamics (2020)" #"Your biography for the left-hand sidebar"
+  location         : #"Location"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=yh957GMAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
