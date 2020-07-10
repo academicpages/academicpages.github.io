@@ -10,26 +10,26 @@ redirect_from:
 
 # Futoshi Futami
 
-Ph.D. student at Sugiyama-Sato-Honda Lab,  
-Department of Complexity Science and Engineering,  
-Graduate School of Frontier Sciences,  
-The University of Tokyo, Japan.
+Researcher at NTT, Kyoto, Japan.
+
 
 
 
 ## NEWS
+- Our paper was accepted in ICML 2020
 - Our paper was accepted in AAAI 2019
 - Our paper was accepted in AISTATS 2018
 - Our paper was accepted in NIPS 2017
 
 ## RESEARCH INTERESTS
+- Stochastic process
+- Monte Caro methods
 - Probabilistic Inference
 - Approximate Bayesian inference
 - Gaussian Process
-- Inverse problems
 
 ## CONTACT
 
-- Email: futami [at] ms.k.u-tokyo.ac.jp
+- Email: futoshi.futami.uk [at] hco.ntt.co.jp
 
-- Address: the 5th floor of Transdisciplinary Science Bldg, 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8561, Japan
+- Address: NTT Keihanna Building 2‐4, Hikaridai, Seika-cho, "Keihanna Science City", Kyoto, Japan 619‐0237
