@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kiran Chotalia" # "Your Sidebar Name"
   avatar           : "Author_Photo.png" #"profile.png"
-  bio              : "Post-Doctoral Associate at the Univeristy of Florida<br/> PhD in Computational Geodynamics (2020)" #"Your biography for the left-hand sidebar"
+  bio              : "Post-Doctoral Associate at the Univeristy of Florida<br/> <br/> PhD in Computational Geodynamics (2020)" #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
