@@ -32,4 +32,4 @@ Researcher at NTT, Kyoto, Japan.
 
 - Email: futoshi.futami.uk [at] hco.ntt.co.jp
 
-- Address: NTT Keihanna Building 2‐4, Hikaridai, Seika-cho, "Keihanna Science City" Kyoto, Japan 619‐0237
+- Address: NTT Keihanna Building 2‐4, Hikaridai, Seika-cho, "Keihanna Science City", Kyoto, Japan 619‐0237
