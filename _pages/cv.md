@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download paper here](https://futoshi-futami.github.io/files/CV_FF.pdf)
+
 Education
 ======
 * Ph.D. Graduate school of Frontier Science, the University of Tokyo, March 2020
