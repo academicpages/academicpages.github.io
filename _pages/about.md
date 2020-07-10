@@ -10,8 +10,9 @@ redirect_from:
 
 # Futoshi Futami
 
-Researcher at NTT, Kyoto, Japan.
-I work on machine learning research, including variational inference, Monte Carlo sampling methods.
+#### Researcher at NTT, Kyoto, Japan.
+
+#### I work on machine learning research, including variational inference, Monte Carlo sampling methods.
 
 
 

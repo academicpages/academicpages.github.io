@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Futoshi Futami"
 title_separator          : "-"
 name                     : &name "Futoshi Futami"
-description              : &description "Ph.D. student at University of Tokyo"
+description              : &description "Researcher at NTT, Kyoto, Japan"
 url                      : https://futoshi-futami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "futoshi-futami.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Futoshi Futami"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Sugiyama-Sato-Honda Lab, University of Tokyo, Japan"
+  bio              : "Researcher at NTT, Kyoto, Japan"
   location         : #"Location"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=WTOG0mMAAAAJ&hl=ja"
   email            :
   uri              :
   bitbucket        :
