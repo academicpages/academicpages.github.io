@@ -1,7 +1,6 @@
 ---
 permalink: /
-excerpt: "About me"
-title: "About Me"
+title: "Kiran Chotalia"
 author_profile: true
 redirect_from: 
   - /about/
