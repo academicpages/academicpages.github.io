@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 Jiangtian Li
+============
 
 
 The Rotman Institute of Philosophy\\
@@ -97,6 +98,6 @@ University of Western Ontario\\
 **Marc Joanisse**\\
 Professor\\
 University of Western Ontario\\
-[marcj@uwo.ca](mailto:marcj@uwo.ca)\\
+[marcj@uwo.ca](mailto:marcj@uwo.ca)
 
 Last updated: Jul 11, 2020
