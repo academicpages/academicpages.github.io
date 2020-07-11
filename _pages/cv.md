@@ -7,53 +7,103 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+ Jiangtian Li
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+The Rotman Institute of Philosophy\
+Brain and Mind Institute\
+Philosophy Department\
+Western University\
+1151 Richmond Street North\
+London, Ontario, Canada, N6A 5B7 Email: <jli2487@uwo.ca>\
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Current position {#current-position .unnumbered}
+================
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*PhD Candidate*, Department of Philosophy, Western University
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Areas of specialization {#areas-of-specialization .unnumbered}
+=======================
+
+Philosophy of Language, Natural Language Semantics, Psycholinguistics,
+Computational Modeling of Cognition.
+
+Areas of competence {#areas-of-competence .unnumbered}
+===================
+
+Philosophy of Mind and Psychology, Natural Language Processing with Deep
+Learning
+
+Publications & Work in progress {#publications-work-in-progress .unnumbered}
+===============================
+
+3em1 Li, J., & Joanisse, M. F. (2020). Word Senses as Clusters of
+Meaning Modulations: A Computational Model of Polysemy. Manuscript
+submitted for publication.\
+Li, J. (n.d.). A Theory of Polysemy (dissertation). Manuscript in
+preparation.\
+Li, J., & Joanisse, M. F. (n.d.). Testing a Theory of Polysemy with
+Priming and Eye-tracking. Manuscript in preparation.
+
+Education {#education .unnumbered}
+=========
+
+[PhD Candidate]{.smallcaps} in Philosophy, Western University\
+Advisor: Robert Stainton.\
+Dissertation: A Theory of Polysemy\
+[MA]{.smallcaps} in Philosophy, Western University\
+Advisor: Robert Stainton.\
+Thesis: Names are Also Polysemous\
+[BA]{.smallcaps} in Philosophy, Minzu University of China\
+Advisor: Jixuan Zhang.\
+Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism\
+
+Grants, honours & awards {#grants-honours-awards .unnumbered}
+========================
+
+Hong Kong Xinshan Scholarship\
+Secondary Professional Scholarship\
+Fellowships from Philosophy Summer School in China and Ranked 1st\
+Chair's Entrance Scholarship\
+
+Teaching {#teaching .unnumbered}
+========
+
+Teaching Assistent of *Understanding Science*\
+Teaching Assistent of *Introduction to Philosophy of Language*\
+Teaching Assistent of *Critical Thinking*\
+Teaching Assistent of *Understanding Science*\
+Teaching Assistent of *Philosophy of Neuroscience*\
+Co-instructor of *Introduction to Philosophy of Mind*\
+
+Academic activities {#academic-activities .unnumbered}
+===================
+
+Assistant on the category of Philosophy of Language in PhilPapers\
+Attending the North American Summer School on Logic, Language, and
+Information (NASSLLI)\
+Commenter in UWO's Annual Graduate Conference in Philosophy of Mind,
+Language, and Cognitive Science (PhilMiLCog)\
+Commenter in UWO's Annual Graduate Conference in Philosophy of Mind,
+Language, and Cognitive Science (PhilMiLCog)\
+Graduate Research Assistant in Univeristy of Western Ontario
+
+Languages and professional skills {#languages-and-professional-skills .unnumbered}
+=================================
+
+Computational: Python, R, PyTorch, PyMC3, LaTex\
+Language: English (fluent), Chinese (native), Japanese (fluent), Latin
+(reading)
+
+References {#references .unnumbered}
+==========
+
+**Robert Stainton**\
+Distinguished Professor\
+University of Western Ontario\
+<rstainto@uwo.ca>\
+**Marc Joanisse**\
+Professor\
+University of Western Ontario\
+<marcj@uwo.ca>\
+
+Last updated:
