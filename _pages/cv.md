@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 Jiangtian Li
+============
 
-The Rotman Institute of Philosophy\
-Brain and Mind Institute\
-Philosophy Department\
-Western University\
-1151 Richmond Street North\
-London, Ontario, Canada, N6A 5B7 Email: <jli2487@uwo.ca>\
+The Rotman Institute of Philosophy
+Brain and Mind Institute
+Philosophy Department
+Western University
+1151 Richmond Street North
+London, Ontario, Canada, N6A 5B7 
+Email: [jli2487@uwo.ca](mailto:jli2487@uwo.ca)
 
 Current position 
 ================
@@ -38,72 +40,71 @@ Publications & Work in progress
 
 3em1 Li, J., & Joanisse, M. F. (2020). Word Senses as Clusters of
 Meaning Modulations: A Computational Model of Polysemy. Manuscript
-submitted for publication.\
+submitted for publication.
 Li, J. (n.d.). A Theory of Polysemy (dissertation). Manuscript in
-preparation.\
+preparation.
 Li, J., & Joanisse, M. F. (n.d.). Testing a Theory of Polysemy with
 Priming and Eye-tracking. Manuscript in preparation.
 
-Education {#education .unnumbered}
+Education 
 =========
 
-[PhD Candidate]{.smallcaps} in Philosophy, Western University\
-Advisor: Robert Stainton.\
-Dissertation: A Theory of Polysemy\
-[MA]{.smallcaps} in Philosophy, Western University\
-Advisor: Robert Stainton.\
-Thesis: Names are Also Polysemous\
-[BA]{.smallcaps} in Philosophy, Minzu University of China\
-Advisor: Jixuan Zhang.\
-Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism\
+*PhD Candidate* in Philosophy, Western University
+Advisor: Robert Stainton.
+Dissertation: A Theory of Polysemy
+*MA* in Philosophy, Western University
+Advisor: Robert Stainton.
+Thesis: Names are Also Polysemous
+*BA* in Philosophy, Minzu University of China
+Advisor: Jixuan Zhang.
+Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism
 
 Grants, honours & awards 
 ========================
 
-Hong Kong Xinshan Scholarship\
-Secondary Professional Scholarship\
-Fellowships from Philosophy Summer School in China and Ranked 1st\
-Chair's Entrance Scholarship\
+Hong Kong Xinshan Scholarship
+Secondary Professional Scholarship
+Fellowships from Philosophy Summer School in China and Ranked 1st
+Chair's Entrance Scholarship
 
 Teaching 
 ========
 
-Teaching Assistent of *Understanding Science*\
-Teaching Assistent of *Introduction to Philosophy of Language*\
-Teaching Assistent of *Critical Thinking*\
-Teaching Assistent of *Understanding Science*\
-Teaching Assistent of *Philosophy of Neuroscience*\
-Co-instructor of *Introduction to Philosophy of Mind*\
+Teaching Assistent of *Understanding Science*
+Teaching Assistent of *Introduction to Philosophy of Language*
+Teaching Assistent of *Critical Thinking*
+Teaching Assistent of *Philosophy of Neuroscience*
+Co-instructor of *Introduction to Philosophy of Mind*
 
 Academic activities 
 ===================
 
-Assistant on the category of Philosophy of Language in PhilPapers\
+Assistant on the category of Philosophy of Language in PhilPapers
 Attending the North American Summer School on Logic, Language, and
-Information (NASSLLI)\
+Information (NASSLLI)
 Commenter in UWO's Annual Graduate Conference in Philosophy of Mind,
-Language, and Cognitive Science (PhilMiLCog)\
+Language, and Cognitive Science (PhilMiLCog)
 Commenter in UWO's Annual Graduate Conference in Philosophy of Mind,
-Language, and Cognitive Science (PhilMiLCog)\
+Language, and Cognitive Science (PhilMiLCog)
 Graduate Research Assistant in Univeristy of Western Ontario
 
 Languages and professional skills 
 =================================
 
-Computational: Python, R, PyTorch, PyMC3, LaTex\
+Computational: Python, R, PyTorch, PyMC3, LaTex
 Language: English (fluent), Chinese (native), Japanese (fluent), Latin
 (reading)
 
 References 
 ==========
 
-**Robert Stainton**\
-Distinguished Professor\
-University of Western Ontario\
-<rstainto@uwo.ca>\
-**Marc Joanisse**\
-Professor\
-University of Western Ontario\
-<marcj@uwo.ca>\
+**Robert Stainton**
+Distinguished Professor
+University of Western Ontario
+[rstainto@uwo.ca](mailto:rstainto@uwo.ca)
+**Marc Joanisse**
+Professor
+University of Western Ontario
+[marcj@uwo.ca](mailto:marcj@uwo.ca)
 
-Last updated:
+Last updated: Jul 11, 2020
