@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
- Jiangtian Li
+Jiangtian Li
 
 The Rotman Institute of Philosophy\
 Brain and Mind Institute\
@@ -16,24 +16,24 @@ Western University\
 1151 Richmond Street North\
 London, Ontario, Canada, N6A 5B7 Email: <jli2487@uwo.ca>\
 
-Current position {#current-position .unnumbered}
+Current position 
 ================
 
 *PhD Candidate*, Department of Philosophy, Western University
 
-Areas of specialization {#areas-of-specialization .unnumbered}
+Areas of specialization 
 =======================
 
 Philosophy of Language, Natural Language Semantics, Psycholinguistics,
 Computational Modeling of Cognition.
 
-Areas of competence {#areas-of-competence .unnumbered}
+Areas of competence 
 ===================
 
 Philosophy of Mind and Psychology, Natural Language Processing with Deep
 Learning
 
-Publications & Work in progress {#publications-work-in-progress .unnumbered}
+Publications & Work in progress 
 ===============================
 
 3em1 Li, J., & Joanisse, M. F. (2020). Word Senses as Clusters of
@@ -57,7 +57,7 @@ Thesis: Names are Also Polysemous\
 Advisor: Jixuan Zhang.\
 Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism\
 
-Grants, honours & awards {#grants-honours-awards .unnumbered}
+Grants, honours & awards 
 ========================
 
 Hong Kong Xinshan Scholarship\
@@ -65,7 +65,7 @@ Secondary Professional Scholarship\
 Fellowships from Philosophy Summer School in China and Ranked 1st\
 Chair's Entrance Scholarship\
 
-Teaching {#teaching .unnumbered}
+Teaching 
 ========
 
 Teaching Assistent of *Understanding Science*\
@@ -75,7 +75,7 @@ Teaching Assistent of *Understanding Science*\
 Teaching Assistent of *Philosophy of Neuroscience*\
 Co-instructor of *Introduction to Philosophy of Mind*\
 
-Academic activities {#academic-activities .unnumbered}
+Academic activities 
 ===================
 
 Assistant on the category of Philosophy of Language in PhilPapers\
@@ -87,14 +87,14 @@ Commenter in UWO's Annual Graduate Conference in Philosophy of Mind,
 Language, and Cognitive Science (PhilMiLCog)\
 Graduate Research Assistant in Univeristy of Western Ontario
 
-Languages and professional skills {#languages-and-professional-skills .unnumbered}
+Languages and professional skills 
 =================================
 
 Computational: Python, R, PyTorch, PyMC3, LaTex\
 Language: English (fluent), Chinese (native), Japanese (fluent), Latin
 (reading)
 
-References {#references .unnumbered}
+References 
 ==========
 
 **Robert Stainton**\
