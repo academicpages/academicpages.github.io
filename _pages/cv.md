@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Jiangtian Li
+## Jiangtian Li
 
 The Rotman Institute of Philosophy\\
 Brain and Mind Institute\\
