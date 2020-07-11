@@ -38,7 +38,7 @@ Learning
 Publications & Work in progress 
 ===============================
 
-3em1 Li, J., & Joanisse, M. F. (2020). Word Senses as Clusters of Meaning Modulations: A Computational Model of Polysemy. Manuscript submitted for publication.\\
+Li, J., & Joanisse, M. F. (2020). Word Senses as Clusters of Meaning Modulations: A Computational Model of Polysemy. Manuscript submitted for publication.\\
 Li, J. (n.d.). A Theory of Polysemy (dissertation). Manuscript in preparation.\\
 Li, J., & Joanisse, M. F. (n.d.). Testing a Theory of Polysemy with Priming and Eye-tracking. Manuscript in preparation.
 
