@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Linfang Wang"
   avatar           : "linfang.png"
-  bio              : "Linfang Wang is a 3rd year Ph.D. student at ECE, UCLA"
+  bio              : "Linfang Wang is a 3rd year Ph.D. candidate in  <a style='color: black;' href='http://www.seas.ucla.edu/csl/#/'>Communication System Laboratory (CSL)</a>,  <a style='color: black;' href='https://www.ee.ucla.edu/'> Department of Electrical & Computer Engineering</a>, <a style='color: black;' href='https://www.ucla.edu/'> University of California, Los Angeles</a>"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
