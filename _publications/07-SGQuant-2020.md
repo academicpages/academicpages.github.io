@@ -3,7 +3,7 @@ title: "SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialize
 collection: publications
 permalink:  /publication/02-AccD-2019
 date: 2020-07-09
-venue: 'ArXiv-2020'
+venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2007.05100.pdf'
 ---
 + Propose and implement a multi-granularity quantization scheme for Graph Neural Networks (GNNs); 
