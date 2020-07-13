@@ -1,7 +1,7 @@
 ---
 title: "GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs"
 collection: publications
-permalink:  /publication/06-GNNAdvisor-2020
+permalink:  /publication/02-AccD-2019
 date: 2020-06-11
 venue: 'ArXiv-2020'
 paperurl: 'https://arxiv.org/pdf/2006.06608.pdf'
