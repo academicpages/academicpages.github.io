@@ -123,6 +123,8 @@ GEM
     jekyll-github-metadata (2.13.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
+    jekyll-latex (1.0.0)
+      polytexnic (~> 1.5)
     jekyll-mentions (1.5.1)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -194,6 +196,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
+    json (2.3.1)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.2.1)
@@ -206,6 +209,8 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.1)
+    msgpack (1.2.10)
+    multi_json (1.15.0)
     multipart-post (2.1.1)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
@@ -214,7 +219,15 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    polytexnic (1.5.16)
+      json (~> 2.3.0)
+      kramdown (~> 1.17)
+      msgpack (~> 1.2.0)
+      nokogiri (~> 1.10.8)
+      pygments.rb (~> 1.2.1)
     public_suffix (3.1.1)
+    pygments.rb (1.2.1)
+      multi_json (>= 1.0.0)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -248,6 +261,7 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
+  jekyll-latex
   jekyll-sitemap
 
 BUNDLED WITH
