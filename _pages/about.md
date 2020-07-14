@@ -17,8 +17,8 @@ My research interests are inforamtion theory and coding theory. More specificall
 
 
 $\begin{align}  
-\text{valid distribution} & \sum_j\tilde{\lambda}_j &=1 \\ 
-\text{invariant rate} & \sum_j\frac{\tilde{\lambda}_j}{j} &= \sum_j\frac{\lambda_j}{j}
+\text{valid distribution}  \sum_j\tilde{\lambda}_j &=1 \newline 
+\text{invariant rate} \sum_j\frac{\tilde{\lambda}_j}{j} &= \sum_j\frac{\lambda_j}{j}
 \end{align}$
 
 $aaa$
