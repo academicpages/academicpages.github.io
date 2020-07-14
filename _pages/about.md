@@ -15,7 +15,7 @@ Hi, My name is Linfang Wang, I am currectly a third year Ph.D. student in Depart
 
 My research interests are inforamtion theory and coding theory. More specifically, I am working on non-uniform quantization LDPC decoder construction and find fabulous protograph based LDPC code. Besides, I am also interested in the combination between information bottleneck and deep neural network. 
 
-$$\begin{align} \max_l, \end{align}$$
+$\begin{align} \max_l, \end{align}$
 
 
  \newline \tilde{p}_l<p_{l-1}, 1\leq l\leq m
