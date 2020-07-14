@@ -16,3 +16,7 @@ Hi, My name is Linfang Wang, I am currectly a third year Ph.D. student in Depart
 My research interests are inforamtion theory and coding theory. More specifically, I am working on non-uniform quantization LDPC decoder construction and find fabulous protograph based LDPC code. Besides, I am also interested in the combination between information bottleneck and deep neural network. 
 
 
+$$\begin{aligned}  
+\text{valid distribution}  \sum_j\tilde{\lambda}_j &=1\\
+\text{invariant rate}  \sum_j\frac{\tilde{\lambda}_j}{j} &= \sum_j\frac{\lambda_j}{j}
+\end{aligned}$$
