@@ -17,4 +17,5 @@ My research interests are inforamtion theory and coding theory. More specificall
 
 $$\begin{align} \max_l\frac{|p_l-\tilde{p}_l|}{p_{l-1}-p_l}&<\delta,\quad \delta \ll 1 ,
 \end{align}$$
+
  \tilde{p}_l&<p_{l-1}, 1\leq l\leq m. 
