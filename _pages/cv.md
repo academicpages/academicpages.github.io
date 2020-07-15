@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-In preparation
+My CV can be found [here](https://gerrfarr.github.io/files/cv_G_Farren.pdf)
