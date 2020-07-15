@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Mehdi Momen, a Statistical and Quantitative Geneticist and a research associcate in the Department of Surgical Sciences, School of Veterinary Medicine, at University of Wisconsin–Madison (UW-Madiosn). I am profoundly interested in the field of Statistical Genetics and Genomics. I am currently conducting research in the Comparative Orthopaedic and Genomics Research Laboratory of [Dr. Peter Muir](https://www.vetmed.wisc.edu/people/muirp/).
-
+I am a statistical and quantitative geneticist and a post-doctoral research associate in the Comparative Orthopaedic & Genetics Research Laboratory at University of Wisconsin-Madison, School of Veterinary Medicine, working under the direction of [Dr. Peter Muir](https://www.vetmed.wisc.edu/people/muirp/) and [Dr. Susannah Sample](https://www.vetmed.wisc.edu/lab/corl/susannah-sample-dvm-ms-phd-dacvs/) I am profoundly interested in the field of statistical genetics and genomics. My research interests span a broad range of topics including quantitative genetics and animal breeding. Broadly defined, my research aims to integrate cutting edge genomic and phenomic approaches to understand how animals respond to genomic improvement. My research goal is to provide means to improve these responses through development of statistical models for dissection of complex disease. I am currently applying these approaches to spontaneous diseases in companion animal models, specifically the dog and the horse. 
 
 Research Interet 
 ======
