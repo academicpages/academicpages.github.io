@@ -12,6 +12,6 @@ I am a statistical and quantitative geneticist and a post-doctoral research asso
 Research Interet 
 ======
 My current research topics are:
--  Genomic dissection of spontaneous disease in compansion animals,
--  Developing statistical models for GWAS and genome prediction in companion animal using Whole-Genome sequence data 
--  De novo assembly. 
+-  Genomic dissection of spontaneous disease in compansion animals using Whole-Genome sequence data
+-  Developing statistical models for GWAS and genome prediction in companion animal 
+-  De novo genome assembly
