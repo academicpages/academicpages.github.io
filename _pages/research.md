@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 My research interestes lie (mainly) in the field of theoretical cosmology. In particular I am working with the Cosmic Microwave Background and its secondary anisotropies to understand fundamental physics such as dark matter, neutrinos and the expansion of the Universe.
----
+
+
 # Current Projects
 ---
 
