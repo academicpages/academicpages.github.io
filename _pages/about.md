@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Who am I"
-excerpt: "About me"
+title: "Linfang Wang"
+excerpt: "Linfang Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,4 @@ Hi, My name is Linfang Wang, I am currectly a third year Ph.D. student in Depart
 
 
 My research interests are inforamtion theory and coding theory. More specifically, I am working on non-uniform quantization LDPC decoder construction and find fabulous protograph based LDPC code. Besides, I am also interested in the combination between information bottleneck and deep neural network. 
-
-
 
