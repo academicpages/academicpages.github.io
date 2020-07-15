@@ -85,7 +85,7 @@ author:
   bio              : "I am a theoretcial cosmologist about to start a PhD at the University of Cambridge in October 2020."
   location         : "Cambridge, United Kingdom"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JeUYYOUAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Gerrit_Farren"
@@ -227,23 +227,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+# _talks
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#     author_profile: true
+#     share: true
 
 # Sass/SCSS
 sass:
