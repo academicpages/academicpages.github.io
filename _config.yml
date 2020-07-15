@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gerrit S. Farren"
-  avatar           : "images/gerrit_profile.jpg"
+  avatar           : "gerrit_profile.jpg"
   bio              : "I am a theoretcial cosmologist about to start a PhD at the University of Cambridge in October 2020."
   location         : "Cambridge, United Kingdom"
   employer         :
