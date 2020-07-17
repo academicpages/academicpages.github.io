@@ -1,17 +1,15 @@
 ---
-title: "Fun Stuff"
+title: "Bio"
 layout: archive
 author_profile: true
-permalink: /funstuff/
+permalink: /bio/
 ---
 
-Outside of astronomy, I enjoy playing soccer, running, Hamilton, and eating yummy vegan food! I'm also a huge Game of Thrones fan. 
+I grew up in Saint Paul, MN, where I developed a thick skin for cold weather. Outside of astronomy, I have played soccer for most of my life. In college, I played for the Penn Women's Club Soccer Team, where we reached the NIRSA national club tournament twice. I currently play soccer with the Chicago Fire Rec soccer league on weekends in Chicago. 
 
-Here's a picture of me with club soccer team in college! Now, I play rec soccer through the Chicago Fire Rec Soccer league on weekends. 
+![Picture of my club soccer team in college](../images/IMG_0015.jpeg)
 
-![Picture of my soccer team](../images/IMG_0015.jpeg)
-
-One of my life goals is to visit all the major Game of Thrones filming sites. 
+I'm also a huge Game of Thrones fan-- one of my life goals is to visit all the major Game of Thrones filming sites. 
 
 
 <figure class="half">
