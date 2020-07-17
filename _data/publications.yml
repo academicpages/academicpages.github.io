@@ -113,16 +113,16 @@
   doi: 10.1038/nature24628
   pmc: PMC6070150
   pmid: 29143823
-- citation: '**SW Olesen**, C Duvallet, EJ Alm. dbOTU3: A new implementation of distribution-based
-    OTU calling. *PLoS ONE* 12(5): e0176335 (2017).'
-  doi: 10.1371/journal.pone.0176335
-  pmc: PMC5417438
-  pmid: 28472072
 - citation: '**SW Olesen**, ML Leier, EJ Alm, SA Kahn. Searching for superstool: maximizing
     the therapeutic potential of FMT. *Nature Reviews Gastroenterology & Hepatology*
     15, 387--388 (2018).'
   doi: 10.1038/s41575-018-0019-4
   pmid: 29703976
+- citation: '**SW Olesen**, C Duvallet, EJ Alm. dbOTU3: A new implementation of distribution-based
+    OTU calling. *PLoS ONE* 12(5): e0176335 (2017).'
+  doi: 10.1371/journal.pone.0176335
+  pmc: PMC5417438
+  pmid: 28472072
 - citation: '**SW Olesen**\*, T Gurry\* (co-first), EJ Alm. Designing fecal microbiota
     transplant trials that account for stool donor heterogeneity. *Statistical Methods
     in Medical Research* 27(10), 2906--2917 (2017).'
