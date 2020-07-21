@@ -46,6 +46,8 @@ Research
       <strong>On Disentangling Spoof Traces for Generic Face Anti-Spoofing</strong><br/>
       <u>Yaojie Liu</u>, Joel Stehouwer, Xiaoming Liu<br/>
       European Conference on Computer Vision (ECCV'20), 2020.<br/>
+      [<a href="https://arxiv.org/pdf/2007.09273.pdf">PDF</a>]
+      [<a href="https://github.com/yaojieliu/ECCV20-STDN">Code</a>]
     </p>
   </div>
 </div>
