@@ -12,11 +12,10 @@ E aí, beleza?
 
 Me chamo Vinicius, tenho 20 anos. Decidi enfim criar uma página para compartilhar aprendizados e dicas nesta jornada tech.
 
-Estudante de Ciência da Computação, trabalho atualmente como Consultor Técnico. Atuo hoje diretamente com Infraestrutura em ambientes mistos Linux/Windows em pequenas e grandes empresas. 
+Estudante de Ciência da Computação pela faculdade Anhanguera Educacional de Limeira, ainda no início de minha graduação trabalhei como Analista de Suporte, atualmente trabalho com ambientes mistos Linux/Windows desenvolvendo soluções para melhorar processos de infraestrutura em pequenas, médias, e grandes empresas.
+No percurso acadêmico realçei o interesse na área de Redes, Administração de Sistemas e  também na programação, recorrendo a linguagens como C, C++, Go e Python.
 
 A idéia é compatilhar nesta página acadêmica dicas e artigos sobre tecnologia em geral com enfâse em Redes de Computadores, além disso um pouquinho de Ferramentas, IaC (Infra as Code) e a cultura DevOps.
-
-Me interesso por tecnologia desde criança. Tenho hoje em dia como hobbie os jogos online, esportes e música.
 
 Abraços :D
 
