@@ -1,0 +1,6 @@
+@InProceedings{Stoffregen20eccv,
+  author        = {Timo Stoffregen and Cedric Scheerlinck and Davide Scaramuzza and Tom Drummond and Nick Barnes and Lindsay Kleeman and Robert Mahony},
+  title         = {Reducing the {Sim-to-Real} Gap for Event Cameras},
+  booktitle     = {European Conference on Computer Vision (ECCV)},
+  year          = {2020}
+}
