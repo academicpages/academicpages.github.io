@@ -1,0 +1,7 @@
+@PhDThesis{Scheerlinck20thesis,
+  author        = {Cedric Scheerlinck},
+  title         = {How to See with an Event Camera},
+  school        = {Australian National University},
+  year          = 2020
+}
+
