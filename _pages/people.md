@@ -332,6 +332,36 @@ redirect_from:
     background-repeat: no-repeat;
     background-position: center;
   }
+  #xiongfeng{
+    background: url(../images/people/students/xiongfeng.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #wangziyang{
+    background: url(../images/people/students/wangziyang.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #chenrui{
+    background: url(../images/people/students/chenrui.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #huangda{
+    background: url(../images/people/students/huangda.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #xiajunyang{
+    background: url(../images/people/students/xiajunyang.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
 
 </style>
 
@@ -482,9 +512,41 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="dingluxin"></div>
       <div class="member_name">DING Luxin 丁鹿新</div>
-      <!-- <div class="member_intro" >机器学习</div> -->
     </div>
   </div>
+
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="xiongfeng"></div>
+      <div class="member_name">XIONG Feng 熊枫</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="wangziyang"></div>
+      <div class="member_name">WANG Ziyang 王子阳</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="chenrui"></div>
+      <div class="member_name">CHEN Rui 陈瑞</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="huangda"></div>
+      <div class="member_name">HUANG Da 黄达</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="xiajunyang"></div>
+      <div class="member_name">XIA Junyang 夏浚洋</div>
+    </div>
+  </div>
+
+
 
 </div>
 
