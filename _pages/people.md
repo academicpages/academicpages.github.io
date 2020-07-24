@@ -326,6 +326,12 @@ redirect_from:
     background-repeat: no-repeat;
     background-position: center;
   }
+  #dingluxin{
+    background: url(../images/people/students/dingluxin.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
 
 </style>
 
@@ -471,6 +477,15 @@ redirect_from:
       <div class="member_intro" >机器学习</div>
     </div>
   </div>
+
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="dingluxin"></div>
+      <div class="member_name">DING Luxin 丁鹿新</div>
+      <!-- <div class="member_intro" >机器学习</div> -->
+    </div>
+  </div>
+
 </div>
 
 ---
