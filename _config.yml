@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &marcustorres_
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : " Marcus Torres"
   avatar           : "profile.png"
   bio              : "PhD in Political Science"
   location         : "Recife"
-  employer         : "Universidade Federal de Pernambuco
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Universidade Federal de Pernambuco"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=duJCsakAAAAJ&hl=pt-BR"
   email            : "mvdstorres@gmail.com"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
