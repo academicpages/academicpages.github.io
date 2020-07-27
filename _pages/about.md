@@ -12,5 +12,5 @@ Hello, my name is Marcus Torres and I am a PhD Student in Political Science at t
 
 My PhD project is about the impact of Political Dynasties in social policy outcomes in Brazil. However I have focused many research years about local health public policy in Brazil, and more recently, Non State Actors actions in local social policies.  
 
-If you feel interested about my research, here is my [CV](cv.pdf)
+If you feel interested about my research, here is my [CV](files/cv.pdf)
 
