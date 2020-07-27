@@ -15,17 +15,17 @@ Education
 * M.A. in Political Science, Universidade Federal de Pernambuco, 2019
 * Ph.D in Political Science, Universidade Federal de Pernambuco, 2023 (Expected)
 
-Work experience
+# Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# * Summer 2015: Research Assistant
+# * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#* Fall 2015: Research Assistant
+#  * Github University
+#  * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
   
 Skills
 ======
