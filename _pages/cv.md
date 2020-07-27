@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-![Model View Controller](images/files/cv.pdf)
-
+<object data="/files/cv.pdf" type="application/pdf" width="100%"> 
+</object>
 Education
 ======
 * B.A. in Political Science, Universidade Federal de Pernambuco, 2017
