@@ -7,17 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[]{% include base_path %}
 
-<object data="/files/cv.pdf" type="application/pdf" width="100%"> 
-</object>
 Education
 ======
 * B.A. in Political Science, Universidade Federal de Pernambuco, 2017
 * M.A. in Political Science, Universidade Federal de Pernambuco, 2019
 * Ph.D in Political Science, Universidade Federal de Pernambuco, 2023 (Expected)
 
-# Work experience
+[] Work experience
 ======
 # * Summer 2015: Research Assistant
 # * Github University
