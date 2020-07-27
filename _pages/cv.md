@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![Model View Controller](images/files/cv.pdf)
+
 Education
 ======
 * B.A. in Political Science, Universidade Federal de Pernambuco, 2017
