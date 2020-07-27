@@ -15,7 +15,7 @@ Education
 * M.A. in Political Science, Universidade Federal de Pernambuco, 2019
 * Ph.D in Political Science, Universidade Federal de Pernambuco, 2023 (Expected)
 
-[] Work experience
+[]Work experience
 ======
 # * Summer 2015: Research Assistant
 # * Github University
