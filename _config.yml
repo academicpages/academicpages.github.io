@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Marcus Vinícius Torres"
 title_separator          : "-"
-name                     : &name "Marcus Torres"
+name                     : &name "Marcus Vinícius Torres"
 description              : &description "personal description"
 url                      : https://marcustorresz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : "PhD in Political Science"
   location         : "Recife"
   employer         : "Universidade Federal de Pernambuco"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=duJCsakAAAAJ&hl=pt-BR"
   email            : "mvdstorres@gmail.com"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  osf              :"osf.com"
       
 
 
