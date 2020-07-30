@@ -12,7 +12,7 @@ author_profile: true
     * **_NEW_** October 2019: [draft](https://cseveren.github.io/files/20191025_Severen_LAMetro_New.pdf) and [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf).
     * Revisions requested at the *Review of Economics and Statistics*.
 
-* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/SSVB_GasPrice_Draft_20200528.pdf)" (with [Arthur van Benthem][avb]); [(slides)](https://cseveren.github.io/files/202002_SvB_FormativeExperiences.pdf).
+* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/SVB_GasPrice_Draft_20200528.pdf)" (with [Arthur van Benthem][avb]); [(slides)](https://cseveren.github.io/files/202002_SvB_FormativeExperiences.pdf).
     * *Submitted*. [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
     * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
 
@@ -41,6 +41,8 @@ author_profile: true
 
 * "Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
 
+* "Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben] and [Jeff Lin][jlin])
+
 * "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
 
 [aplantinga]: https://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm
@@ -52,4 +54,5 @@ author_profile: true
 [kjack]: https://sites.tufts.edu/kjack/
 [odeschenes]: https://econ.ucsb.edu/~olivier/
 [poliva]: https://dornsife.usc.edu/paulina-oliva/
+[ruben] : https://sites.google.com/view/rubengaetani
 [vkb]: https://vkbostwick.weebly.com/
