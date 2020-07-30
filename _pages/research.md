@@ -41,7 +41,7 @@ author_profile: true
 
 * "Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
 
-* "Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben] and [Jeff Lin][jlin])
+* "Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin])
 
 * "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
 
@@ -54,5 +54,5 @@ author_profile: true
 [kjack]: https://sites.tufts.edu/kjack/
 [odeschenes]: https://econ.ucsb.edu/~olivier/
 [poliva]: https://dornsife.usc.edu/paulina-oliva/
-[ruben] : https://sites.google.com/view/rubengaetani
+[ruben]: https://sites.google.com/view/rubengaetani
 [vkb]: https://vkbostwick.weebly.com/
