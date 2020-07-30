@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a multidisciplinary data scientist with experience in microbiome
-science, microbiology; antibiotic resistance, epidemiology, public health;
+I am an epidemiologist, modeler, and multidisciplinary data scientist with
+experience in microbiome science, microbiology, antibiotic resistance,
 statistics, computing, and mathematical modeling. I have developed skill sets
 in facilitation, technical communication, and project management.
 
-I am a part-time research analyst in the [Center for Public Health
-Preparedness and Resilience](https://www.cna.org/centers/ipr/phpr/) in the
-[Institute for Public Research](https://www.cna.org/centers/ipr/) at
-[CNA](https://www.cna.org/).
+I am a part-time research analyst in the [Center for Public Health Preparedness
+and Resilience](https://www.cna.org/centers/ipr/phpr/) in the [Institute for
+Public Research](https://www.cna.org/centers/ipr/) at
+[CNA](https://www.cna.org/). CNA is a nonprofit research institute that
+provides objective analysis to federal, state, and local government.
 
 I also work as an independent scientific consultant for
 [OpenBiome](http://www.openbiome.org) and as an independent epidemiological
