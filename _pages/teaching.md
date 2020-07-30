@@ -11,9 +11,9 @@ Here you can find material that I use for teaching:
 
 - [Data Analysis and Programming in `R`](https://github.com/mebucca/dapr_soc4001) (in Spanish), Department of Sociology, Catholic University of Chile, 2020
 
-- [Introduction to Stata](https://github.com/mebucca/Introduction-to-Stata), SPS Department, European University Institute, 2019
+- [Introduction to `Stata`](https://github.com/mebucca/Introduction-to-Stata), SPS Department, European University Institute, 2019
 
-- [Introduction to R](https://github.com/mebucca/Introduction-to-R), SPS Department, European University Institute, 2019
+- [Introduction to `R`](https://github.com/mebucca/Introduction-to-R), SPS Department, European University Institute, 2019
 
 
 
