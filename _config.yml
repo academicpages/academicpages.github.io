@@ -83,12 +83,12 @@ author:
   name             : "Yanan Liu"
   avatar           : "profile.png"
   bio              : "PhD student at the Bristol Robotics Laboratory, University of Bristol"
-  location         : "Bristol"
+  location         : "Bristol, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=7otPL_QAAAAJ&hl=en"
-  email            :  yanan.liu@bristol.ac.uk
-  researchgate     :  "https://www.researchgate.net/profile/Liu_Yanan19"
+  email            : yanan.liu@bristol.ac.uk
+  researchgate     : "https://www.researchgate.net/profile/Liu_Yanan19"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : https://www.youtube.com/channel/UCEawLcWSXtrxeg8jDamRApw?view_as=subscriber
+  youtube          : "https://www.youtube.com/channel/UCEawLcWSXtrxeg8jDamRApw?view_as=subscriber"
   wikipedia        :
 
 
