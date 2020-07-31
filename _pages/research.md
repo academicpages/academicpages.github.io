@@ -18,7 +18,7 @@ author_profile: true
 
 ### Peer-Reviewed Publications
 
-* "Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia" ([pre-print](https://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00823)) with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal.  Accepted at the *Review of Economics and Statistics*.
+* "Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia" ([pre-print](https://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00823)) with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020).
     * ([older NBER Working Paper](https://www.nber.org/papers/w21414))
 
 * "What is Marine Justice?" with J Martin, S Gray, E Aceves-Bueno, P Alagona, T Elwell, A Garcia, Z Horton, D Lopez-Carr, J Marter-Kenyon, K Miller, T Shewry, B Twohey. *Journal of Environmental Studies and Sciences* 9, no. 2 (2019): 234–243.
@@ -33,7 +33,7 @@ author_profile: true
 
 ### Other Writing
 
-* “[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/-/media/research-and-data/publications/economic-insights/2020/q2/eiq220-ticket-to-ride.pdf).” *Economic Insights* 5, no. 2 (2020).
+* "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/-/media/research-and-data/publications/economic-insights/2020/q2/eiq220-ticket-to-ride.pdf)."" *Economic Insights* 5, no. 2 (2020).
 
 ### Selected Works in Progress
 
