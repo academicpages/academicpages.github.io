@@ -12,7 +12,7 @@ Hello, my name is Marcus Torres and I am a PhD Student in Political Science at t
 
 My [PhD dissertation project](https://ufpebr0-my.sharepoint.com/:b:/g/personal/marcus_torres_ufpe_br/EY9OgMU0wopItBSYjvRe6bkBQFa3SGQUGg-QMsO0K7mFDQ?e=pbsu9m) is about Political Dynasties and social policy outcomes in Brazil. My objective is to analyze whether local political dynasties affect public good provision and resources management. To do so, I have come up with a way to data-mine politicians' official documents to get precise information about dynasty formation, expansion, and perpetuation.
 
-Prior, I focused my reasearch on health policy results determinants in Brazil. More especifically, in my thesis I worked with Voluntary federal transferences to Non State Actors in health local policies. To do that, I managed multiple large datasets to create a one of a kind database.   
+Prior, I focused my reasearch on health policy results determinants in Brazil. More especifically, in my thesis I worked with Voluntary federal transferences to Non State Actors in health local policies. To do that, I managed multiple large datasets to create a one of a kind database.  
 
-If you feel interested about my research, here is my [CV](files/cv.pdf) and my [Lattes](http://goo.gl/fFVKNZ) (in Portuguese).
+If you feel interested about my research, here is my [CV](files/cv.pdf), my [Lattes](http://goo.gl/fFVKNZ) (in Portuguese) and my [OSF](https://osf.io/9frzg/).
 
