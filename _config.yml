@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marcus Torres"
+title                    : ""
 title_separator          : "-"
 name                     : &name " "
 description              : &description "personal description"
