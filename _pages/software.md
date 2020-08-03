@@ -8,7 +8,7 @@ author_profile: true
 
 ### Change point detection in Python: `ruptures`
 
-I maintain a change point detection library in Python called `ruptures` [[homepage]](https://github.com/deepcharles/ruptures) [[documentation]](http://ctruong.perso.math.cnrs.fr/ruptures-docs/build/html/index.html). This package provides methods for the analysis and segmentation of non-stationary signals. Implemented algorithms include exact and approximate detection for various parametric and non-parametric models. `ruptures` focuses on ease of use by providing a well-documented and consistent interface. In addition, thanks to its modular structure, different algorithms and models can be connected and extended within this package.
+I maintain a change point detection library in Python called `ruptures` [[homepage]](https://github.com/deepcharles/ruptures) [[documentation]](https://centre-borelli.github.io/ruptures-docs/). This package provides methods for the analysis and segmentation of non-stationary signals. Implemented algorithms include exact and approximate detection for various parametric and non-parametric models. `ruptures` focuses on ease of use by providing a well-documented and consistent interface. In addition, thanks to its modular structure, different algorithms and models can be connected and extended within this package.
 
 If you have any question or if you feel like contributing, do not hesitate to reach me through the [Github repository](https://github.com/deepcharles/ruptures).
 
