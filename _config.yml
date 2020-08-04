@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mauricio Bucca"
 title_separator          : "-"
 name                     : &name "Mauricio Bucca"
-description              : &description "Assistant Professor in Sociology at the Universidad Católica de Chile"
+description              : &description "Max Weber Fellow at the European University Institute (Florence, Italy)"
 url                      : https://mebucca.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mebucca/mebucca.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Mauricio Bucca"
   avatar           : "foto.jpg"
-  bio              : "Quantitative sociologist. Assistant Professor in Sociology at the Universidad Católica de Chile. I study structural and cultural aspects of social inequalities and mobility."
+  bio              : "Sociologist. Assistant Professor at the Universidad Católica de Chile. I study structural and cultural aspects of social inequalities and mobility."
   location         : "Santiago, Chile"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=nD0LNU4AAAAJ&hl=en"
