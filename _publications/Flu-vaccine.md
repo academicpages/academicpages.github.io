@@ -1,11 +1,11 @@
 ---
-title: "Optimizing Influenza Vaccine Composition: A Machine Learning Approach"
+title: "Optimizing Influenza Vaccine Composition: From Predictions to Prescriptions"
 collection: publications
 permalink: /publication/Flu-vaccine
 excerpt: 'We propose a holistic framework using Tensor completion and Robust Optimization to prescribe influenza vaccine composition that are specific to a region, or a country based on historical data concerning the rates of circulation of predominant viruses. Through numerical experiments, we show that our proposed vaccine compositions could potentially lower morbidity by 11-14% and mortality by 8-11% over vaccine compositions proposed by World Health Organization (WHO) for Northern hemisphere.'
 date: 2020-04-01
 venue: ''
-paperurl:
+paperurl: 'https://rb.gy/r18a3x'
 citation: 'Your Name, You. (2018). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 coauthors: Dimitris Bertsimas.
 paperstatus: To appear in the Proceedings of Machine Learning Research
