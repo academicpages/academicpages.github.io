@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Gcc's homepage on the web
+This is homepage of chengcheng.guo on the web, you can find more content in other tabs
 

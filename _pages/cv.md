@@ -30,3 +30,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards & Honor
+======
+* 上海市优秀毕业生　(2018.03)
+* 13届华为杯数学建模全国二等奖　(2016.11)
+* 同济大学优秀学生　(2017.04)
