@@ -21,7 +21,7 @@ Editing the welcome page for your site (`_pages/about.md`) is relatively straigh
 
 ## First steps
 
-First things first, we need to create a file for the page itself. The main pages for your website are generated from [Markdown]([academicpages](https://academicpages.github.io/) template) files contained in the `_pages` directory. Create a new file called `software.md` in `_pages`. Now, open it up in RStudio or your text editor of choice. If you've looked at the `.md` files for other pages, you'll notice that they all start with a similar block of text. This is a [YAML](https://en.wikipedia.org/wiki/YAML) header that tells Jekyll the basic information needed to build the page. There are lots of different options you can include, but the only two you really need are the `permalink` for the page and its `title`. Add the following to the top of `software.md`:
+First things first, we need to create a file for the page itself. The main pages for your website are generated from [Markdown](https://en.wikipedia.org/wiki/Markdown) files contained in the `_pages` directory. Create a new file called `software.md` in `_pages`. Now, open it up in RStudio or your text editor of choice. If you've looked at the `.md` files for other pages, you'll notice that they all start with a similar block of text. This is a [YAML](https://en.wikipedia.org/wiki/YAML) header that tells Jekyll the basic information needed to build the page. There are lots of different options you can include, but the only two you really need are the `permalink` for the page and its `title`. Add the following to the top of `software.md`:
 
 ```yaml
 ---
