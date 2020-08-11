@@ -10,12 +10,14 @@ author_profile: true
 {% endif %}
 
 
-Journal Publications
+University of Maryland
 ------
 
-* <b>Alexander Davydov</b> and Yancy Diaz-Mercado. “Sparsity Structure and Optimality of Multi-Robot Coverage Control,” <i>IEEE Control Systems Letters</i>, vol. 4, no. 1, pp. 13-18, Jan. 2020. [[DOI](https://doi.org/10.1109/LCSYS.2019.2921513)]
+* <b>Strauss Teaching Assistant</b> - Department of Mathematics,
+Calculus I and II (MATH140/141)
 
-Conference Publications
-------
+* <b>Undergraduate Teaching Fellow</b> - A. James Clark School of Engineering,
+Engineering Dynamics (ENES221)
 
-* <b>Alexander Davydov</b>, Derrick W. Yeo, and Yancy Diaz-Mercado. “Low-Mobility Atmospheric Sensing via Multi-Vehicle Adaptive Coverage Control,” <i>AIAA AVIATION 2020 FORUM</i>, Jun. 2020. [[DOI](https://doi.org/10.2514/6.2020-2821)]
+* <b>Keystone Tutor</b> - A. James Clark School of Engineering,
+Differential Equations for Scientists and Engineers (MATH246)
