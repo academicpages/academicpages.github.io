@@ -1,5 +1,9 @@
 # main links links
 main:
+  
+  - title: "Projects"
+    url: /projects/
+  
   - title: "Publications"
     url: /publications/
 
@@ -8,9 +12,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /projects/
+   
     
   #- title: "Portfolio"
   #  url: /portfolio/
