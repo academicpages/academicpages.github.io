@@ -5,16 +5,32 @@ author_profile: true
 ---
 ## 2020
 
+<b>[J10] [Multivariate association between brain function and eating disorders using sparse canonical correlation analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237511)</b> <br>
+Hyebin Lee, Bo-yong Park, Kyoungseob Byeon, Ji Hye Won, **Mansu Kim**, Se-Hong Kim, and Hyunjin Park*.  
+<i>Plos One, 2020</i>
+
+<b>[C19] Deep Multiview Learning for Population Subtyping with Multimodal Imaging</b> <br>
+Yixue Wendy Feng, **Mansu Kim**, Xiaohui Yao, Kefei Liu, Qi Long, and Li Shen* <br>
+<i>IEEE International Conference on Bioinformatics and Bioengineering, 2020</i>
+
+<b>[C18] Estimating Hard-tissue Conditions from Dental Images via Machine Learning </b> <br>
+Jingxuan Bao, **Mansu Kim**, Qing Sun, Anderson Hara, Gerardo Maupomé, and Li Shen* <br>
+<i>IEEE International Conference on Bioinformatics and Bioengineering, 2020</i>
+
+<b>[C17] Structural connectivity enriched functional brain network using simplex regression with GraphNet </b> <br>
+**Mansu Kim**, Jingxuan Bao, Kefei Liu,  Bo-yong Park, Hyunjin Park, and Li Shen*  <br>
+<i>Machine Learning in Medical Imaging, 2020</i>
+
 <b>[C16] Imaging genetics strategies for predicting the quality of sleep using depression-specific biomarkers</b> <br>
-**Mansu Kim**, Xiaohui Yao, Bo-yong Park, and Li Shen* <br>
-<i>Organization for Human Brain Mapping Ann Meeting, 2020.</i>
+**Mansu Kim**, Xiaohui Yao,  Bo-yong Park, and Li Shen* <br>
+<i>Organization for Human Brain Mapping Ann Meeting, 2020</i>
 
 <b>[C15] Genome-wide brain-wide analysis of betweenness centrality: A structural connectome study</b> <br>
 Shan Cong, Xiaohui Yao, **Mansu Kim**, Linhui Xie, Jingwen Yan, and Li Shen* <br>
 <i>Organization for Human Brain Mapping Ann Meeting, 2020</i>
 
 <b>[C14] Identifying Hard-Tissue Conditions from Dental Images using Convolutional Neural Network</b> <br>
-Qing sun, Zhi Huang, **Mansu Kim, Anderson**, T. Hara, Gerardo Maupomé, and Li Shen* <br>
+Qing sun, Zhi Huang, **Mansu Kim**, Anderson Hara, Gerardo Maupomé, and Li Shen* <br>
 <i>The IEEE International Symposium on Biomedical Imaging, 2020</i>
 
 <b>[C13] Deep network-based feature selection for imaging genetics: Application to identifying biomarkers for Parkinson's disease</b> <br>
