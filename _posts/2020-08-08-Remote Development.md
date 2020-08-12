@@ -1,6 +1,6 @@
 ---
 title: 'Remote Development'
-date: 2199-01-01
+date: 2020-08-01
 permalink: /posts/2020/08/remote-dev/
 tags:
   - covid
