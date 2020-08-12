@@ -11,6 +11,7 @@ redirect_from:
 
 ## Experience
 
+- **Research Analyst**, [CNA](https://www.cna.org/) (2020--)
 - **Consultant**
     - Scientific consultant, [OpenBiome](https://www.openbiome.org/) (2020--)
     - Epidemiology consultant, National Basketball Association (2020--)
