@@ -15,14 +15,15 @@ I am a Senior Economist in the Research Department of the [Federal Reserve Bank 
 Before graduate school, I worked for an energy efficiency consulting firm in Austin, TX. My undergraduate degree is from the University of Texas at Austin, where I majored in Latin American Studies ([LLILAS](https://liberalarts.utexas.edu/llilas/)) and Economics. Once upon a time, I spent two years at UNT in Denton, TX, thinking I wanted to study music. Before that, I delivered pizza and gassed up boats.
 
 ### New Developments
+* Co-organizing the [2020 Virtual Meeting of the Urban Economics Association](http://www.urbaneconomics.org/meetings/virtual2020/)
 * Summer 2020: Co-organizing the Online Spatial and Urban Seminar, see [osus.info](https://osus.info)
 * Spring 2020: Organized the Online Urban Economics Seminar: [sites.google.com/view/urban-econ-online](https://sites.google.com/view/urban-econ-online)
-* [Electricity-Based Index of Economic Disruption for Philly Area](https://github.com/cseveren/PA-Electricity-Economic-Disruption)
 
 
 ### Other Recent-ish News
-* Excited to share a *new* draft of "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/SVB_GasPrice_Draft_20200528.pdf)." We received some [press coverage](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/).
-* Paper on technology adoption and uncertainty finally found a [home at ReSTAT](https://www.mitpressjournals.org/doi/abs/10.1162/rest_a_00823). It's been a long journey! This project, and my excellent coauthors, has provided the best learning opportunity. To be published in July 2020.
+* R&R at AEJ Applied for "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/SVB_GasPrice_Draft_20200528.pdf)"! We received some [press coverage](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/) last year.
+* Paper on technology adoption and uncertainty finally found a [home at ReSTAT](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823). It's been a long journey! This project, and my excellent coauthors, has provided the best learning opportunity. 
+* [Electricity-Based Index of Economic Disruption for Philly Area](https://github.com/cseveren/PA-Electricity-Economic-Disruption)
 
 
 ### About this website
