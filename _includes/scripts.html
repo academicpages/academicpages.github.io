@@ -1,4 +1,8 @@
-<script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script src="{{ assets_base_url }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+{% assign assets_base_url = base_path %}
+{% if site.cdn.jsdelivr.enabled %}
+    {% assign assets_base_url = "https://cdn.jsdelivr.net/gh/" | append: site.repository %}
+{% endif %}
