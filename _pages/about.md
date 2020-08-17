@@ -12,7 +12,7 @@ I am a PhD student at Monash University working on gamma-ray bursts, neutron sta
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
-* Augusst 2020: Submitted _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ to MNRAS. See it on [arXiv](https://arxiv.org/abs/2008.05745). 
+* August 2020: Submitted _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ to MNRAS. See it on [arXiv](https://arxiv.org/abs/2008.05745). 
 * July 2020: Over the last month I have given several talks remotely, this remote adventure concludes this week with talks at the University of Bath, Leicester, Gran Sasso and Swinburne. Pleased to be able to present my work at so many different places, unfortunate downside that it had to be remotely.
 * 3rd June 2020: Submitted _Bayesian inference for compact binary coalescences with BILBY: Validation and application to the first LIGO--Virgo gravitational-wave transient catalogue_ to MNRAS. See it on [arXiv](https://arxiv.org/abs/2006.00714)
 * 8th March 2020: _Gravitational waves or deconfined quarks: what causes the premature collapse of neutron stars born in short gamma-ray bursts?_ accepted in PRD.
