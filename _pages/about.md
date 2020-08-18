@@ -9,15 +9,9 @@ redirect_from:
 ---
 
 
+I am a research scientist (Research Staff Member) at IBM Almaden Research Center, working on problems in Machine Learning, Natural Language Processing  and Information Retrieval areas. I obtained my Ph.D. from the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu), under the supervision of Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir). 
 
-I am a PhD candidate at the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu)
-My advisor is Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), leading the [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir).
-My research interests are Machine Learning, Natural Language Processing  and Information Retrieval.
-I am excited about opportunities to work in areas such as *Reinforcement Learning*, *Multi-agent RL* and *Meta-learning*.
-
-My work is in the intersection of Data Science and Machine Learning, particularly improving Deep Learning models for real-world scenarios, considering all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations. [TextNormSeq2Seq](https://github.com/Isminoula/TextNormSeq2Seq) is a hybrid Seq2Seq model that can serve as a pre-processing step for any NLP application to adapt to noisy social media text. I have also participated on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio).
-
-
+My main work is in the intersection of Data Science and Machine Learning, particularly improving Deep Learning models for real-world scenarios, considering all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations. [TextNormSeq2Seq](https://github.com/Isminoula/TextNormSeq2Seq) is a hybrid Seq2Seq model that can serve as a pre-processing step for any NLP application to adapt to noisy social media text. I have also participated on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio). I am excited about opportunities to collaborate in areas such as *Reinforcement Learning*, *Multi-agent RL* and *Meta-learning*.
 
 # News
 - **November, 2019:** Successfully defended my PhD thesis: Data Quality in the Deep Learning era. Will be joining IBM Research at the end of November.
