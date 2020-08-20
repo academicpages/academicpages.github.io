@@ -173,14 +173,14 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liwenhao"></div>
       <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">LI Wenhao 李文浩 </a></div>
-      <div class="member_intro" >多智能体强化学习、去中心化、路径规划、医疗图像处理</div>
+      <div class="member_intro" >多智能体强化学习、分布式机器学习、路径规划</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shengjunjie"></div>
       <div class="member_name" ><a href="https://www.yuque.com/jarvis-awajg">SHENG Junjie 盛俊杰 </a></div>
-      <div class="member_intro" >多智能体强化学习、通信学习、攻击和鲁棒学习</div>
+      <div class="member_intro" >多智能体强化学习、通信学习</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
@@ -194,7 +194,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shenchuyun"></div>
       <div class="member_name" ><a href="https://chuyun-shen.github.io/">SHEN Chuyun 沈楚云 </a></div>
-      <div class="member_intro">公平、因果推断、多智能体强化学习</div>
+      <div class="member_intro">公平、多智能体强化学习</div>
     </div>
   </div>
 
@@ -378,14 +378,14 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="huyiqiu"></div>
       <div class="member_name" ><a href="https://www.zhihu.com/people/46b1617a700a162f890500da919f31eb">HU Yiqiu 胡亦秋</a></div>
-      <div class="member_intro">强化学习（解组合优化问题）、联邦学习</div>
+      <div class="member_intro">强化学习（解组合优化问题）</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xiangwangtao"></div>
       <div class="member_name" >XIANG Wangtao 向王涛</div>
-      <div class="member_intro" >遥感图像处理、深度学习图像、图像生成embedding</div>
+      <div class="member_intro" >遥感图像处理、图像生成表征</div>
     </div>
   </div>
   <div class="member_item" >
@@ -406,7 +406,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xuqisen"></div>
       <div class="member_name" >XU Qisen 徐琪森</div>
-      <div class="member_intro">强化学习、图像分割</div>
+      <div class="member_intro">多智能体强化学习、医疗图像分割、人机协同</div>
     </div>
   </div>
   <div class="member_item" >
@@ -420,56 +420,56 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chenhongjun"></div>
       <div class="member_name">CHEN Hongjun 陈宏俊</div>
-      <div class="member_intro" >多智体强化学习、路径规划</div>
+      <div class="member_intro" >多智能体强化学习、AGV路径规划</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chengjunyi"></div>
       <div class="member_name">CHENG Junyi 程君翊</div>
-      <div class="member_intro" >元学习、小样本DC信号分析</div>
+      <div class="member_intro" >交互式机器学习平台</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangwei"></div>
       <div class="member_name"><a href="https://wdevin.github.io">WANG Wei 王伟</a></div>
-      <div class="member_intro" >元学习、小样本DC信号分析</div>
+      <div class="member_intro" >自然语言处理</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liziqian"></div>
       <div class="member_name">LI Zhiqian 李志谦</div>
-      <div class="member_intro" >医疗图像分割</div>
+      <div class="member_intro" >医疗图像分割、医疗图像分析工具</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangsuo"></div>
       <div class="member_name">WANG Shuo 王硕</div>
-      <div class="member_intro" >元学习、小样本DC信号分析</div>
+      <div class="member_intro" >DC信号大数据分析</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="jiayoutao"></div>
       <div class="member_name">JIA Youtao 郏友涛</div>
-      <div class="member_intro" >医疗图像分割</div>
+      <div class="member_intro" >医疗图像分割、医疗图像分析工具</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="dengyang"></div>
       <div class="member_name"><a href="https://github.com/consolexinhun">DENG Yang 邓样</a></div>
-      <div class="member_intro" >DC信号分析</div>
+      <div class="member_intro" >自然语言处理</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="linjia"></div>
       <div class="member_name">LIN Jia 林佳</div>
-      <div class="member_intro" >多智能体强化学习、联邦学习</div>
+      <div class="member_intro" >虚拟人合成</div>
     </div>
   </div>
   <div class="member_item" >
@@ -483,14 +483,14 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liuyunhao"></div>
       <div class="member_name">LIU Yunhao 刘云浩</div>
-      <div class="member_intro" >DC信号分析</div>
+      <div class="member_intro" >交互式机器学习平台</div>
     </div>
   </div>
     <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gaoshang"></div>
       <div class="member_name" ><a href="https://github.com/Felix2048">GAO Shang 高尚</a></div>
-      <div class="member_intro" >机器学习</div>
+      <div class="member_intro" >跨模态</div>
     </div>
   </div>
   <div class="member_item" >
@@ -504,7 +504,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="yangmoyi"></div>
       <div class="member_name">YANG Moyi 杨默艺</div>
-      <div class="member_intro" >机器学习</div>
+      <div class="member_intro" >最优传输</div>
     </div>
   </div>
 
@@ -512,6 +512,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="dingluxin"></div>
       <div class="member_name">DING Luxin 丁鹿新</div>
+      <div class="member_intro" >交互式机器学习平台</div>
     </div>
   </div>
 
