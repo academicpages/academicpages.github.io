@@ -46,7 +46,7 @@ author_profile: true
   <img src="/images/projects/mininglamp-logo.png" style="background: #0e56a0; margin: 10px; height: 80px">
   <img src="/images/projects/yinjiang-logo.jpg" style="padding: 20px">
   <img src="/images/projects/yuantong-logo.png">
-  <img src="/images/projects/baoxing-logo.png" style="padding: 20px">
+  <img src="/images/projects/baowu-logo.png" style="padding: 20px">
   <img src="/images/projects/huawei-logo.png" style="padding: 20px">
   <img src="/images/projects/cerc-logo.jpg">
 </div>
