@@ -5,9 +5,13 @@ author_profile: true
 ---
 ## 2020
 
-<b>[J10] [Multivariate association between brain function and eating disorders using sparse canonical correlation analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237511)</b> <br>
+<b>[J11] [Multivariate association between brain function and eating disorders using sparse canonical correlation analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237511)</b> <br>
 Hyebin Lee, Bo-yong Park, Kyoungseob Byeon, Ji Hye Won, **Mansu Kim**, Se-Hong Kim, and Hyunjin Park*.  
 <i>Plos One, 2020</i>
+
+<b>[J10] [Prediction of age at onset in Parkinson’s disease using objective specific neuroimaging genetics based on a sparse canonical correlation analysis](https://www.nature.com/articles/s41598-020-68301-x)</b> <br>
+Ji Hye Won, **Mansu Kim**, Jinyoung Youn*, and Hyunjin Park*.  
+<i>Scientific Reports, 2020</i>
 
 <b>[C19] Deep Multiview Learning for Population Subtyping with Multimodal Imaging</b> <br>
 Yixue Wendy Feng, **Mansu Kim**, Xiaohui Yao, Kefei Liu, Qi Long, and Li Shen* <br>
