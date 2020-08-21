@@ -184,7 +184,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: documentation
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -211,7 +211,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: documentation
     values:
       layout: talk
       author_profile: true
