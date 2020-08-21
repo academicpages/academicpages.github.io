@@ -51,7 +51,7 @@ atom_feed:
 
 cdn:
     jsdelivr:
-        enabled: true
+        enabled: false
 
 # SEO Related
 google_site_verification :
