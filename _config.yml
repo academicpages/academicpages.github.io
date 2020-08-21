@@ -147,13 +147,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  algorithms:
     output: true
     permalink: /:collection/:path/
-  publications:
+  blog:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  examples:
     output: true
     permalink: /:collection/:path/
   documentation:
@@ -193,7 +193,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: blog
     values:
       layout: single
       author_profile: true
@@ -202,9 +202,9 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: examples
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
       comment: true
