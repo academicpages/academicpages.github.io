@@ -163,43 +163,21 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: algorithms
     values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comments: true
-  # _publications
   - scope:
       path: ""
       type: blog
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
   - scope:
       path: ""
       type: examples
@@ -207,8 +185,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      comment: true
-  # _talks
   - scope:
       path: ""
       type: documentation
