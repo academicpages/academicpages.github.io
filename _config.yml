@@ -184,7 +184,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: documentation
     values:
       layout: single
       author_profile: true
