@@ -18,7 +18,7 @@ Raphtory is an open source Distributed Real-Time Temporal Graph Analytics Platfo
 Raphtory is a distributed system that takes any source of data (either previously stored, or a real time stream), and creates a dynamic temporal graph that is partitioned over multiple machines. In addition to maintaining this model, graph analysis functions can be defined that will be executed across the cluster nodes, and will have access to the full history of a graph. Raphtory is designed with extensibility in mind; new types of data, as well as new analysis algorithms can be added to the base project, in order to support additional use cases. 
 
 <p align="center">
-  <img src="https://raphtory.github.io/images/overview.pdf" alt="Raphtory diagram"/>
+  <img src="https://raphtory.github.io/images/overview.png" alt="Raphtory diagram"/>
 </p>
 
 Raphtorys core components for modelling and ingestion consist of Spouts, Graph Routers and Graph Partition Managers. These can be seen on the left of the overview above. Spouts attach to a user specified data source external to Raphtory. Tuples are then pulled from this source and pushed into the system. These raw data tuples are received by the Graph Routers which convert each into graph updates via a user defined parsing function; adding, removing or updating vertices and edges. Updates are then forwarded to the Graph Partition Manager handling the affected entity. By decoupling these processes the same data may be modelled as many different graphs by connecting the same Spout to Routers with unique parsing functions or, alternatively, the same Router may be connected to various Spouts pulling from independent data sources to join them into one graph.
@@ -31,21 +31,21 @@ Once Raphtory is established and ingesting the selected input, analysis of the g
 algorithms are implemented via Raphtorys analysis API which gives the user access to the structural and property histories of all entities. Through this they may explore the local neighbourhood of a vertex, paths and sub-graphs and perform analytics across the entire graph. This can be seen in the image below. 
 
 <p align="center">
-  <img src="https://raphtory.github.io/images/analysis.pdf" alt="Raphtory diagram"/>
+  <img src="https://raphtory.github.io/images/analysis.png" alt="Raphtory diagram"/>
 </p>
 
 All algorithms in Raphtory are executed on graph flattenings, taking the temporal graph and viewing a normal graph at a chosen point in time. These can be created at the the most recent time (the live real-time graph), or for any point back through the graphs history. Tasks may be set to run over ranges of the history, creating flattenings at set increments, or may run continuously on the live graph, periodically creating flattenings as it updates. 
 In both instances the user may optionally specify a batch of windows which must all be applied at each point in time. The output from this being a set of windowed flattenings which once analysed will show the differing result of the algorithm when varying temporal depth. To simplify this process for the user, algorithms only require implementing once as they interact with the temporal graph through a Flattening Lens which only returns the entities present once the zenith and horizon have been applied. This may be seen at the bottom of the figure above and in more detail in the picture below.
 
 <p align="center">
-  <img src="https://raphtory.github.io/images/windowflattening.pdf" alt="Raphtory diagram"/>
+  <img src="https://raphtory.github.io/images/windowflattening.png" alt="Raphtory diagram"/>
 </p>
 
 
 # Raphtory Internals
 
 <p align="center">
-  <img src="https://raphtory.github.io/images/internals.pdf" alt="Raphtory diagram"/>
+  <img src="https://raphtory.github.io/images/internals.png" alt="Raphtory diagram"/>
 </p>
 
 Raphtorys architecture is based on the actor model, with all components implemented as actors utilising the Akka Framework; as can be seen at the top of figure above. Akka provides the foundation for implementing component behaviour and handles all messaging both local and remote. An additional Watchdog actor is then also present within Raphtory which assigns UUIDs as Graph Routers and Partition Managers connect and blocks ingestion/analysis until the deployment is fully online. 
