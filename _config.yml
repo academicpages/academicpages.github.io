@@ -173,6 +173,12 @@ defaults:
       share: true
   - scope:
       path: ""
+      type: pages	      
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
       type: blog
     values:
       layout: talk
