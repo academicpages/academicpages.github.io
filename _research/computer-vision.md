@@ -8,7 +8,7 @@ order_number: 40
 
 In this project I leverage computer vision tools and machine learning techniques to identify clusters of video authors based on the imagery contained within the videos themselves. This approach offers the possibility of being able to map relationships between clandestine actors that intentionally try to obscure these connections.
 
-## Working paper
+## Manuscript in preparation
 
 Rob Williams. "Mapping Extremist Networks with Visual Imagery." Presented at the Annual Meeting of the Society for Political Methodology, Cambridge, MA, July 2019 the 2nd Annual Politics and Computational Social Science Conference, Washington, DC, August 2019.
 

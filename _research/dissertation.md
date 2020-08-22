@@ -10,13 +10,15 @@ In this research I ask why some rebel groups fight for secession and independenc
 
 To test these arguments, I focus on rebel movements tied to ethnic groups with defined homelands. By doing so, I am able to exploit geospatial data on population and government activity to compare the governability of subnational territories cross-nationally. I also explore the temporal dynamics of these phenomena in smaller scale studies focusing on different government preemption tactics. I explore how states actually conduct this surveillance of their populations, using an agent-based model to predict when these monitoring efforts are likely to fail. Such simulation based approaches help us understand the role that information and communication technology can play in helping governments main control of restive regions.
 
-## Working Papers
+## Working paper
 
 Rob Williams. "The Curse of Geography: How Governments Preempt Secession Attempts." Presented at the Annual Meeting of the Peace Science Society (International), Austin, TX, November 2018.
 
 > Secessionist conflicts often begin in places abundant with resources and located far from the centers of state power. These factors affect the likelihood of secessionist conflict because dissidents will only rebel when they expect to be able to form a functional state within the borders of their territory following independence. There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts. I argue that this relative paucity of secessionist violence is the result of government preemption of potential secessionist movements. Using cross national geospatial data, I find that governments develop higher levels of state capacity in more governable, and thus more secession prone, regions. The same factors which make territory attractive for secession also make governments willing to work to retain control of that territory, suggesting that potential secessionists confront many of the same dilemmas as states.
 
 [Working Paper](/files/pdf/research/Curse of Geography.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Curse of Geography SI.pdf){: .btn--research}
+
+## Manuscript in preparation
 
 Rob Williams. "Keeping a Lid on it: How Government efforts to Prevent Secession Attempts can Fail." Presented at the International Studies Association Annual Convention, Toronto, ON, March 2019.
 

@@ -16,13 +16,15 @@ Rob Williams, Daniel Gustafson, Stephen Gent, and Mark Crescenzi. "A Latent Vari
 
 [Article](https://doi.org/10.1017/psrm.2019.23){: .btn--research} [Preprint](/files/pdf/research/Agreement Strength Accepted.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Agreement Strength SI.pdf){: .btn--research} [Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVUY8UI){: .btn--research} [GitHub Repo](https://github.com/jayrobwilliams/Peace-Agreement-Strength){: .btn--research}
 
-## Working papers
+## Working paper
 
 Rob Williams. "PASS: Peace Agreement Strength Scores."
 
 > This paper presents the Peace Agreement Strength Scores (PASS) of peace agreements in civil conflicts. The scores capture the strength of peace agreements at the time of signing and can be used to avoid relying on the duration of agreement survival as a proxy for agreement strength. The scores are used to show descriptively that stronger peace agreements tend to be signed in more intractable conflicts, suggesting that a selection effect may be at play in the process of agreement signing and duration. The scores are available for all peace agreements signed in UCDP/PRIO civil conflicts from 1975-2018.
 
 [Working Paper](/files/pdf/research/PASS.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/PASS SI.pdf){: .btn--research}
+
+## Manuscripts in preparation
 
 Bailee Donahue, Rob Williams, and Mark Crescenzi. "Unsettled Borders in a Market Context." Presented at the Annual Meeting of the Peace Science Society (International), Manhattan, KS, November 2019 and the International Studies Association Midwest Annual Conference, St. Louis, MO, November 2019. To be presented at the Annual Conference of the American Political Science Association, San Francisco, CA, September, 2020.
 
