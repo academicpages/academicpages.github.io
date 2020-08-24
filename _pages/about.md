@@ -21,32 +21,32 @@ Publications
 ============
 <ul>
 	<li><b>FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera</b>
-		<br/>
-		<b>Habiba Farrukh</b>, Reham Mohamed Aburas, Siyuan Cao, He Wang
-		<br/>
-		26th Annual International Conference on Mobile Computing and Networking (MobiCom '20) 
-		<br/>
+			<br/>
+			<b>Habiba Farrukh</b>, Reham Mohamed Aburas, Siyuan Cao, He Wang
+			<br/>
+			26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20) 
+			<br/>
 	</li>
 </ul>
 
 
 <ul>
 	<li><b>Towards Context Address for Camera-to-Human Communication</b>
-		<br/>
-		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
-		<br/>
-		IEEE International Conference on Computer Communications (InfoCom 2020)
-		<br/>
+			<br/>
+			Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
+			<br/>
+			IEEE International Conference on Computer Communications (InfoCom 2020)
+			<br/>
 	</li>
 </ul>
 
 <ul>
 	<li>
-		<b>Demo: Enabling Public Cameras to Talk to the Public</b>
-		<br/>
-		Siyuan Cao, Habiba Farrukh, He Wang
-		<br/>
-		ACM MobiSys 2018, <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
+			<b>Demo: Enabling Public Cameras to Talk to the Public</b>
+			<br/>
+			Siyuan Cao, Habiba Farrukh, He Wang
+			<br/>
+			18th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys '18), <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
 	</li>
 </ul>
 
