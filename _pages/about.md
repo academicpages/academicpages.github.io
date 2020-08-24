@@ -44,7 +44,7 @@ Publications
 	<li>
 			<b>Demo: Enabling Public Cameras to Talk to the Public</b>
 			<br/>
-			Siyuan Cao, Habiba Farrukh, He Wang
+		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
 			18th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys '18), <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
 	</li>
