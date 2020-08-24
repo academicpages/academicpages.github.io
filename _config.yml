@@ -89,32 +89,12 @@ author:
   googlescholar    : "https://scholar.google.co.kr/citations?user=Mfp3So0AAAAJ&hl=en"
   email            : "mansooru.kim@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
-  foursquare       :
   github           : "mansooru"
-  google_plus      :
-  keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "mansu-kim-714850130/"
   orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
