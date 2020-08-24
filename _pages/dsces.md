@@ -22,7 +22,7 @@ Theory and application of numerical methods and data-driven algorithms towards u
 At least Senior-level standing in the College of Engineering.
 
 ## Lectures:
-Time: 1:30P-2:30P  
+Time: 1:30P-2:30P MWF
 Place: 3231 SC and/or Zoom
 
 ## Instructor:
