@@ -11,6 +11,4 @@ You can check the [syllabus here](https://docs.google.com/document/d/1FFxXdIeIE9
 
 ### Week 1
 
-[Slides](https://yongjunzhang.com/files/tutorial/Lecture1-Welcome.pdf) 
-
-[Lab 1](https://yongjunzhang.com/files/tutorial/Lab1.html)
+[Slides](https://yongjunzhang.com/files/tutorial/Lecture1-Welcome.pdf); [Lab 1](https://yongjunzhang.com/files/tutorial/Lab1.html)
