@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate of computer science at Purdue University working in [SIMBA](https://simbalab.cs.purdue.edu/) lab under the supervision of Professor [He Wang](https://www.cs.purdue.edu/homes/hw/). Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science).
-My research interests broadly lie in the area of mobile computing and mobile sensing.
-I specifically focus on designing and building innovative and secure mobile sensing systems through applying security, machine learning and computer vision algorithms.
+I am a Ph.D. candidate of computer science at Purdue University working in [SIMBA](https://simbalab.cs.purdue.edu/) lab under the supervision of Professor [He Wang](https://www.cs.purdue.edu/homes/hw/). My research interests broadly lie in the area of mobile computing and mobile sensing.
+I specifically focus on designing and building innovative and secure mobile sensing systems through applying security, machine learning and computer vision algorithms. 
+<!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
+
 
 
 
@@ -18,11 +19,21 @@ I specifically focus on designing and building innovative and secure mobile sens
 
 Publications
 ============
+<ul>
+	<li><b>FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera</b>
+		<br/>
+		<b>Habiba Farrukh</b>, Reham Mohamed Aburas, Siyuan Cao, He Wang
+		<br/>
+		26th Annual International Conference on Mobile Computing and Networking (MobiCom '20) 
+		<br/>
+	</li>
+</ul>
+
 
 <ul>
 	<li><b>Towards Context Address for Camera-to-Human Communication</b>
 		<br/>
-		Siyuan Cao, Habiba Farrukh, He Wang
+		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 		<br/>
 		IEEE InfoCom 2020
 		<br/>
