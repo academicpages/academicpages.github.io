@@ -1,7 +1,7 @@
 ---
 title: "AMASS: Archive of Motion Capture as Surface Shapes"
-authors: 'Naureen Mahmood (Meshcapade GmbH), Nima Ghorbani (MPI for Intelligent Systems), Nikolaus F. Troje (York University), Gerard Pons-Moll (MPI for Informatics), Michael J. Black (MPI for Intelligent Systems)'
-venue: 'IEEE International Conference on Computer Vision (ICCV) 2019'
+authors: 'Naureen Mahmood, Nima Ghorbani, Nikolaus F. Troje, Gerard Pons-Moll, Michael J. Black'
+venue: 'Proceedings IEEE Conference on Computer Vision (ICCV)'
 date: 2019-10-01
 category: 'accepted'
 pdf: 'http://files.is.tue.mpg.de/black/papers/amass.pdf'
@@ -10,7 +10,7 @@ bibtex: '2019-AMASS.bib'
 permalink: /publication/2019-AMASS
 collection: publications
 projectpage: 'https://amass.is.tue.mpg.de/'
-#youtube: 'https://www.youtube.com/watch?time_continue=1&v=XyXIEmapWkw'
+youtube: 'https://www.youtube.com/watch?v=cceRrlnTCEs'
 codepage: 'https://github.com/nghorbani/amass'
 ---
 

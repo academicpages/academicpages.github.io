@@ -1,7 +1,7 @@
 ---
 title: "Expressive Body Capture: 3D Hands, Face, and Body from a Single Image"
 authors: 'Georgios Pavlakos*, Vasileios Choutas*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black'
-venue: 'IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) 2019'
+venue: 'Proceedings IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
 date: 2019-06-16
 category: 'accepted'
 pdf: 'https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf'
