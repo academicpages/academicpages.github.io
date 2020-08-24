@@ -12,7 +12,7 @@ classes: wide
 
 
 <p align="left">
-  [<a href="https://icon.uiowa.edu">ICON</a>] [<a href="https://www.github.com/thegomeslab/dsces/startup">GETTING STARTED</a>] [<a href="https://www.github.com/thegomeslab/dsces/lectures">LECTURES</a>] [<a href="https://www.github.com/thegomeslab/dsces/assignments">ASSIGNMENTS</a>] [<a href="https://www.github.com/thegomeslab/dsces/resources">RESOURCES</a>]
+  [<a href="https://uiowa.instructure.com/courses/151432/users">ICON</a>] [<a href="https://www.github.com/thegomeslab/dsces/startup">GETTING STARTED</a>] [<a href="https://www.github.com/thegomeslab/dsces/lectures">LECTURES</a>] [<a href="https://www.github.com/thegomeslab/dsces/assignments">ASSIGNMENTS</a>] [<a href="https://www.github.com/thegomeslab/dsces/resources">RESOURCES</a>]
 </p>
 
 ## Course Description:
@@ -22,46 +22,29 @@ Theory and application of numerical methods and data-driven algorithms towards u
 At least Senior-level standing in the College of Engineering.
 
 ## Lectures:
-Time: TBD  
-Place: TBD
-
-## Discussion & Problem Solving Session:
-Time: TBD  
-Place: TBD
+Time: 1:30P-2:30P  
+Place: 3231 SC and/or Zoom
 
 ## Instructor:
 Name: Dr. Joe Gomes  
 Office: 4110 SC  
 Email: [joe-gomes@uiowa.edu](mailto:joe-gomes@uiowa.edu)  
-Office Hours: TBD @ 4110 SC
-
-## Teaching Assistant:
-Name: TBD  
-Email: TBD
+Office Hours: 3:20P-5:20P F via Zoom
 
 ## Course Learning Goals:
 1. By the end of the course, the student will understand and be able to apply the Python programming language towards performing mathematical and numerical computation.
 
-2. Linear algebra.
+2. By the end of the course, the student will understand and be able to apply mathematical techniques from linear algebra, differential equations, and optimization towards engineering problems.
 
-3. Non-linear and constrained optimization.
+3. By the end of the course, the student will understand and be able to apply computational techniques such as data preprocessing and visualization, dimensionality reduction and clustering, and supervised machine learning towards the data-driven modeling of chemical and engineering systems.
 
-4. Differential equations.
-
-5. Data preprocessing and visualization.
-
-6. Dimensionality reduction and clustering.
-
-7. Building supervised machine learning model from data. 
-
-8. By the end of the course, the student will have had opportunities to further his or her professional development through practicing written, oral, and graphical communication skills.
+4. By the end of the course, the student will have had opportunities to further his or her professional development through practicing written, oral, and graphical communication skills.
 
 ## Text:
 John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchingroup.cheme.cmu.edu/pycse/), 2018.  
-Christopher M. Bishop, [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/), Springer, 2006.
 
 ## Website:
-- [ICON](https://icon.uiowa.edu): The course ICON site will contain the course calendar, announcements, and grade reports.
+- [ICON](https://uiowa.instructure.com/courses/151432/users): The course ICON site will contain the course calendar, announcements, and grade reports.
 - [GITHUB](https://www.github.com/thegomeslab/dsces): The course GITHUB site will contain class notes and assignments.
 
 ## Course Calendar:
