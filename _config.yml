@@ -181,6 +181,9 @@ collections:
   Research:
     output: true
     permalink: /:collection/:path/
+  Pages:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -191,6 +194,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
   # _Research
   - scope:
       path: ""
