@@ -35,7 +35,7 @@ Publications
 		<br/>
 		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 		<br/>
-		IEEE InfoCom 2020
+		IEEE International Conference on Computer Communications (InfoCom 2020)
 		<br/>
 	</li>
 </ul>
