@@ -8,3 +8,5 @@ venue:
 paperurl: 
 citation: 
 ---
+
+[Paper](https://jtt94.github.io/files/Masked_Bouncy_Particle_Sampler.pdf)
