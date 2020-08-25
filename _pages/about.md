@@ -16,9 +16,9 @@ I'm a Ph.D. student in [Leeds School of Business at University of Colorado Bould
 <!-- - My [<span style="color:orange">**Curriculum Vitae** </span>](/files/Chengyi_CV.pdf). -->
 
 ## Education
-- Ph.D. in Operations Management, University of Colorado Boulder, Boulder, CO, USA. (In progress).   Adviosr: Huanan Zhang.
+- Ph.D. in Operations Management, University of Colorado Boulder, Boulder, CO, USA. (In progress).   Adviosr: [Huanan Zhang](http://huananzhang.mystrikingly.com/).
 
-- M.S. in Industrial Engineering & Operations Research, The Pennsylvania State University, State College, PA, USA. 2020.   Adviosr: Huanan Zhang.
+- M.S. in Industrial Engineering & Operations Research, The Pennsylvania State University, State College, PA, USA. 2020.   Adviosr: [Huanan Zhang](http://huananzhang.mystrikingly.com/).
 
 - B.S. in Mathematics, University of Science and Technology of China, Hefei, Anhui, China. 2017.
 
