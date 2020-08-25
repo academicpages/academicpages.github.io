@@ -11,7 +11,7 @@ redirect_from:
 
 - Bahamonde, H. Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence From a List Experiment. **Forthcoming, Acta Politica**. <br/> [[Paper]](https://doi.org/10.1057/s41269-020-00174-4). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/AP_2020). [[Citation]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/Bahamonde_AP.bib).
 
-- Felix Modrego, Hector Bahamonde, Andrea Canales. **Employment Effects of Covid-19 Across Chilean Regions: An Application of The Translog Cost Function**. <br/> **Forthcoming, Regional Science, Policy and Practice**. 
+- Felix Modrego, Hector Bahamonde, Andrea Canales. Employment Effects of Covid-19 Across Chilean Regions: An Application of The Translog Cost Function. <br/> **Forthcoming, Regional Science, Policy and Practice**. 
 
 
 - Bahamonde, H. (2018). Aiming Right at You: Group versus Individual Clientelistic Targeting in Brazil. **Journal of Politics in Latin America**, 10(2), pp. 41-76. <br/> [[Paper]](https://journals.sub.uni-hamburg.de/giga/jpla/article/view/1121/1128). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/JPLA_2018). [[Citation]](https://raw.github.com/hbahamonde/Clientelism_paper/Bahamonde_JPLA_2018.bib).

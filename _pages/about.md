@@ -17,7 +17,7 @@ redirect_from:
 
 <p class="lead"> Before joining Universidad de O'Higgins, I served one year as a post-doctoral fellow at <b>Tulane University</b> for the 2017-2018 AY. I received my Ph.D in Political Science from <b>Rutgers University</b> (New Brunswick, NJ) in the spring of 2017.</p>
 
-<p class="lead"> My research is either forthcoming, or has been published in <b>Acta Politica</b>, <b>Journal of Politics in Latin America</b>, <b>Regional Science, Policy and Practice</p> and <b>Revista de Ciencia Politica</b>. I am also an Associate Editor of Social Science (Springer).</p>
+<p class="lead"> My research is either forthcoming, or has been published in <b>Acta Politica</b>, <b>Journal of Politics in Latin America</b>, <b>Regional Science, Policy and Practice</b> and <b>Revista de Ciencia Politica</b>. I am also an Associate Editor of Social Science (Springer).</p>
 
 
 My <b>primary subfield is the political economy of development of Latin America</b>. My <b>research</b> extends across several substantive areas, including state capacity, clientelism and political development. As an applied methodologist I also have a strong interest in <b>statistical and experimental methods</b>.
