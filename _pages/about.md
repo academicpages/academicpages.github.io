@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chengyi Lyu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,85 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About me
+======
+
+Hi, it's Chengyi. I am a first year PhD student University of Colorado, Boulder. I am fortunate to be advised by  [Prof. **Huanan Zhang**](http://huananzhang.mystrikingly.com/).  Before joining UCB, I received my bachelor's degree from USTC. 
+
+
+I'm interested in the general field of **Data Mining** and **Machine Learning**. Particularly, I aspire to solve real-world problems using Machine Learning techniques. Big Data itself cannot be utilized and well-understood. I want to be a data scientist who is able to turn data into knowledge which, in the long run, make impacts and improve the living standard of human society.
+
+
+- My [<span style="color:orange">**Curriculum Vitae** </span>](/files/Chengyi_CV.pdf).
+
+## Education
+- University of Science and Technology of China **(USTC)**, China
+	- B.E. in Mathematics, Sep.2015 -- Jun.2019 (Expected)
+	<!--- GPA: 3.68/4.0 (87.1/100) 
+	- Advisor:  Prof. [**Weinan Zhang**](http://wnzhang.net/) and Prof. [**Zhenhui (Jessie) Li**](https://faculty.ist.psu.edu/jessieli/Site/index.html)-->
+
+## Publication
+- Hua Wei, **Chacha Chen**, Chang Liu, Guanjie Zheng, Zhenhui Li. Learning to Simulate on Sparse Data. In Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**), Ghent, Belgium, Sep 2020. (To appear)
+- **Chacha Chen**, Hua Wei, Nan Xu, Guanjie Zheng, Ming Yang, Yuanhao Xiong, Kai Xu and Zhenhui Li. Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI'20**). (Acceptance rate: ~20.6\%) [[**Paper**](/files/chacha-AAAI2020.pdf)]
+- Hua Wei*, Nan Xu*, Huichu Zhang, Guanjie Zheng, Xinshi Zang, **Chacha Chen**, Weinan Zhang, Yanmin Zhu, Kai Xu, and Zhenhui Li, [CoLight: Learning Network-level Cooperation for Traffic Signal Control](https://arxiv.org/pdf/1905.05717.pdf). In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China, Nov 2019. (Acceptance rate: ~200/1030=19.4%)[[**Paper**](http://personal.psu.edu/hzw77/publications/colight-cikm19.pdf)]
+- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, [PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network](https://dl.acm.org/citation.cfm?id=3330949). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, AK, USA, Aug 2019. (Acceptance rate: ~170/1200=14.2%)[[**Paper**](http://personal.psu.edu/hzw77/publications/presslight-kdd19.pdf)]
+
+
+
+
+
+## Research Experience
+
+### Deep Reinforcement Learning for Traffic Signal Control 
+_Research Intern, Advisor: Prof. Zhenhui (Jessie) Li Jul.2018 - Present_  
+
+- Designed and implemented a reinforcement learning (RL) approach with justification on state and reward design for multi-intersection traffic signal control along arterials
+- Draw a connection between RL method and classical transportation theory for the first time
+- Justified our RL model in comparison to the closed form solution under the same simplified experiment settings
+- Achieved state-of-the-art performance in simulation on both synthetic and real-world traffic data
+- Started conducting field experiments in Hangzhou China
+
+<span style="color:purple">**Here's a demo video showing how our intelligent traffic light learn the greenwave!** </span> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zeHDpv361Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--<span style="color:purple">**Hangzhou Intelligent Signal Control System Demo** </span> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj2rRASpPGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+
+<span style="color:purple">**Toward a Thousand Lights--Manhattan Experiment Demo** </span> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-UulnApXbjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Mining Homeownership Patterns 
+_Research Assistant, Advisor: Prof. Tingting Lu (Social Science) and Prof. Weinan Zhang Mar.2018 - Present_
+
+- Formulated the task into a multi-class classification problem in machine learning based on the data collected from a national scale survey
+- Implemented logistic regression and tree model to predict the homeownership
+- Interpreted the machine learning models with feature ranking and visualization which further reveals the
+mechanism and pattern of homeownership
+
+### SVM Toolbox for Both Indefinite and Semi-definite Kernel Learning 
+_Research Assistant, Advisor: Prof. Xiaolin Huang Sep.2017 - Mar.2018_
+
+- Coauthored a software package which accommodates Support Vector Machine (SVM) classification algorithms with indefinite kernels and semi-definite kernels
+- Incorporated Sequential Minimal Optimization (SMO) in the traditional SVM algorithm
+- Provided various kernel functions, including TAHN, TL1, Gaussian, polynomial and linear kernels
+- Implemented various vector machine algorithms, including KVM, LSSVM, kPCA
+
+## Contact
+- Email: cjc6647@psu.edu
+<!--- Tel: (+1)8146992243-->
+<!--- Skype: chachachen1997-->
+<!--- Address: 800 Dongchuan Rd, Minhang Campus, Shanghai Jiaotong University, Shanghai-->
+
+
+<!--## Miscellaneous
+- Volunteer: Organized a bazaar selling study notes to help people with kidney disease
+- Programming: C/C++, Python, C#, Java, JavaScript, SQL
+- Interests: badminton, swimming, photography-->
+
+<!--Other places to find me: facebook, weibo (in Chinese)-->
+
 
 A data-driven personal website
 ======
