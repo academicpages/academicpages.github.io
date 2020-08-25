@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chengyi Lyu"
 title_separator          : "-"
 name                     : &name "Chengyi Lyu"
-description              : &description "Ph.D. student at UCB"
+description              : &description "Ph.D. student at University of Colorado Boulder"
 url                      : https://chengyilyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chengyilyu/chengyilyu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chengyi Lyu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at UCB"
+  bio              : "Ph.D. student at University of Colorado Boulder"
   location         : 
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  # "academicpages"
+  github           :  'chengyilyu' # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
