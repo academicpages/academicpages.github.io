@@ -1,12 +1,12 @@
 ---
-title: Extracting Data from PDFs
+title: Extracting UN Peacekeeping Data from PDF Files
 output:
   md_document:
     variant: gfm
     preserve_yaml: TRUE
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: 2020-08-26
+date: 2020-08-28
 permalink: /posts/2020/08/pdf-data/
 excerpt_separator: <!--more-->
 toc: true
