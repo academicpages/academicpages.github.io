@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master", "gh-pages"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Samir Rashid"
-  avatar           : "site-logo.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Untitled.png"
+  bio              : "I am inteste"
   location         : "UCSD"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

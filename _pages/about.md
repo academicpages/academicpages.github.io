@@ -19,4 +19,5 @@ I am interested in investigating Natural Language Processing with machine learni
 
 ## For more info
 
-Message me through any of the contacts in the sidebar. Email is preferable. You can find my GPG key linked there also.
+Message me through any of the contacts in the sidebar. Email is preferable. You can find my [GPG key](../files/Samir Rashid (8957AC94) – Public.asc) linked there also.
+https://keys.openpgp.org/vks/v1/by-fingerprint/DE65F61B7AD669C839721530A81CA0CA8957AC94
