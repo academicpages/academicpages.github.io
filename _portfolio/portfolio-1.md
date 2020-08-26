@@ -7,7 +7,7 @@ collection: portfolio
 # COVID-19
 > Use of Lung CT scans to create prediction models that indicate the presence of COVID-19 infections
 
-CT scans plays a supportive role in the diagnosis of COVID-19 and is a key procedure for determining the severity that the patient finds himself in.
+CT scans play a supportive role in the diagnosis of COVID-19 and is a key procedure for determining the severity that the patient finds himself in.
 Models that can find evidence of COVID-19 and/or characterize its findings can play a crucial role in optimizing diagnosis and treatment, especially in areas with a shortage of expert radiologists.
 This dataset contains 20 CT scans of patients diagnosed with COVID-19 as well as segmentations of lungs and infections made by experts.
 
