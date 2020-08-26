@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "COVID-19 CT scans"
+excerpt: "Using Lung CT scans for prediction modelling<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
