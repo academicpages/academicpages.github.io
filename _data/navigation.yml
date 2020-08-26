@@ -6,6 +6,9 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
+  
+  - title: "Jupyter notebooks"
+    url:/notebooks/
         
   - title: "Blog Posts"
     url: /year-archive/
