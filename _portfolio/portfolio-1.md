@@ -1,10 +1,10 @@
 ---
 title: "COVID-19 CT scans"
-excerpt: "Using Lung CT scans for prediction modelling<br/><img src='/images/500x300.png'>"
+excerpt: "Using Lung CT scans for prediction modelling<br/><img src='/images/pneumonia.png'>"
 collection: portfolio
 ---
 
-# COVID-19 CT scans
+# COVID-19
 > Use of Lung CT scans to create prediction models that indicate the presence of COVID-19 infections
 
 CT scans plays a supportive role in the diagnosis of COVID-19 and is a key procedure for determining the severity that the patient finds himself in.
