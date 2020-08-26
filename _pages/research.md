@@ -23,9 +23,11 @@ author_profile: true
 
 * "Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin])
 
+* "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
+
 ### Refereed Publications
 
-* "Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia" ([pre-print](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)) with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020).
+* "[Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020).
     * ([older NBER Working Paper](https://www.nber.org/papers/w21414))
 
 * "[Land-Use Regulations, Property Values, and Rents: Decomposing the Effects of the California Coastal Act](https://www.sciencedirect.com/science/article/pii/S0094119018300421)" with [Andrew Plantinga][aplantinga]. *Journal of Urban Economics* 107 (2018): 65-78.
@@ -36,7 +38,7 @@ author_profile: true
 
 ### Books, Chapters, and Essays
 
-* "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/-/media/research-and-data/publications/economic-insights/2020/q2/eiq220-ticket-to-ride.pdf)."" *Economic Insights* 5, no. 2 (2020).
+* "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/-/media/research-and-data/publications/economic-insights/2020/q2/eiq220-ticket-to-ride.pdf)." *Economic Insights* 5, no. 2 (2020).
 
 ### Other Peer-Reviewed Publications
 
