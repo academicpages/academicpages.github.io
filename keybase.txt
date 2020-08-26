@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/samirrashid
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://godsped.com
+  * I am samirrashid (https://keybase.io/samirrashid) on keybase.
+  * I have a public key with fingerprint DE65 F61B 7AD6 69C8 3972  1530 A81C A0CA 8957 AC94
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011143564ddabe24739b776362b680e30eff136fbcabb4b6f93462cca88a70c0490a",
+      "fingerprint": "de65f61b7ad669c839721530a81ca0ca8957ac94",
+      "host": "keybase.io",
+      "key_id": "a81ca0ca8957ac94",
+      "kid": "01011143564ddabe24739b776362b680e30eff136fbcabb4b6f93462cca88a70c0490a",
+      "uid": "4a17ea2c48968a0bb36db7c3b29aff19",
+      "username": "samirrashid"
+    },
+    "service": {
+      "hostname": "godsped.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1598464339,
+  "expire_in": 157680000,
+  "prev": "9cfa176254bcc579b21f5883924ddfd489fac7007d2790e435f6b3b73633e65f",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUY3t1QFhplG0JtkGxvaDGseO/eu/djg1AnBKf8GBlGB7LtnHvPhSvs
+h7sLsnw4k0mJo4TGOuXHCA0SQ5SNIE6TUiAOX2YxhBWKOsakSy4UMgQG0bmM/utn
+58+Z877P85z3ed+3ctFTGr22fnl1T/n2xiptbwBqbBtqcosJ6JR8hLWYyEXzF8qT
+kMdry1UkwkqQFElRFENbWEaSAERmhqMFyHEszZohy5OIJpEsUzQrQxFAyEBWFmiG
+NYsi4HnAkSLJCCQgTISsOLKR2+VWHF4sKyHWIrMU5IDEsoLI0wJnpiw0CXhKBCTm
+ChYOiAKDiTlOj8rAxUHgQQmKE8fwwzZf3n/g/+e68+flGEBxCJhFhhdYHpAQ0qwE
+OZGGZgFgGUEFepDbAewIoz3ArrjdwJODuaUmAicKFBGpvVXNPAZlOyWPC0kJotOO
+2S630+sUnXk4keP1ujxWlej1uVTkHgRtjzVsUHFIuJOYUYDcHsXpIKwURopeRRWl
+LALPsAxNCyYCFboUN7IpKsLCYcv4qP+gAiwpiDKgMjnWbGGgKFo4AZop2cLjOZhx
+v2QJ+5SByJEkJ5k5gUS4kTILacjRLE2rsyNUW7sdTsLK4DpBtupayXYAb74bEaXh
+5To6RKPVa2KWGENuocnooutKl+COIp9s3wKdunqa8DDDk8jqhRFzO/uOdaemZyHL
+H2H+K4bZ8OrTM/rJkkcGMPZgQeDk3cQL55X+sq69h8qmh08NnjM2gvf5aWvzqsBg
+7I9j3tyO9RmpvfXWa17XNl+yo22jIWr0aJRuePYEKxUae45L9aEj387s0HVUZZ5t
+nFt2mKlI+aW9vScyLv/ZsrdWSztvj2i3Rn0QiG1pq5iczryzaSj2TN/v4/qjy6Cv
+s2nk7PUSRddeut3kOzn1zO34ufu7Mn72FiXBty8PbDpV1HSpscNFyosPbO62t+m3
+jF6p0Gn1Y4uRf7D6WmVoHFnP5p1oWF/c2Rk/1zHYZ/z0+5UmXU3m3vD4wYY9SVn7
+t0QkDrzwdORB6z/f9H8W+eHEVxkRU3MmsbI3X3yuud94L1jLxx8pk/wXvxh9uaRh
+HK2amRzyh30+PdxXW0AcMETHff1JWltxWlfOx4bZBGJshXVpte7yLqa8JZgyW94X
+zQe/a0GR4921L+24oM8KT9r6yrpttQv/luuulp5Psb+euUHv8B2Wus5ZP6o58+ei
+sF87Q1rpjbEzrTlVr60bqQvabhYOrDgyZf6STkxdGRN89dZpzb2JvsCE/mDD3Ts3
+fEvsfq290X1xf+Kbz+9e25T819XWzaFp2ZU3Hg7H73snsHT5paHmFwsfHO89Zvht
+3xqjPyY9+MZ7qSlrxh963n00MfDD2ps/1d1fm5yaHjH9Lw==
+=mtjQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samirrashid
+
+==================================================================
