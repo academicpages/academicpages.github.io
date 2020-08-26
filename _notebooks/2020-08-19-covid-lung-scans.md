@@ -1,3 +1,14 @@
+---
+title: 'COVID-19 CT Lung scans'
+date: 2012-08-19
+permalink: /posts/2012/08/ct-scans/
+tags:
+  - cool posts
+  - covid19
+  - Jupyter notebooks
+---
+
+
 # COVID-19 CT scans
 > Use of Lung CT scans to create prediction models that indicate the presence of COVID-19 infections
 
