@@ -12,7 +12,7 @@ classes: wide
 
 
 <p align="left">
-  [<a href="https://uiowa.instructure.com/courses/151432/users">ICON</a>] [<a href="https://www.github.com/thegomeslab/dsces/startup">GETTING STARTED</a>] [<a href="https://www.github.com/thegomeslab/dsces/lectures">LECTURES</a>] [<a href="https://www.github.com/thegomeslab/dsces/assignments">ASSIGNMENTS</a>] [<a href="https://www.github.com/thegomeslab/dsces/resources">RESOURCES</a>]
+  [<a href="https://uiowa.instructure.com/courses/151432/users">ICON</a>] [<a href="https://github.com/thegomeslab/dsces/tree/master/startup">GETTING STARTED</a>] [<a href="https://github.com/thegomeslab/dsces/tree/master/lectures">LECTURES</a>] [<a href="https://github.com/thegomeslab/dsces/tree/master/assignment">ASSIGNMENTS</a>] [<a href="https://github.com/thegomeslab/dsces/tree/master/resources">RESOURCES</a>]
 </p>
 
 ## Course Description:
@@ -52,7 +52,7 @@ John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchi
 | Week | Mon | Tue | Wed | Thu | Fri |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Aug | 24 | 25 | 26 | 27 | 28 |
-| 1 | First day of class | | Getting Started with<br>Anaconda Python | | Kitchin<br>Ch.2<br>Basic Python usage |
+| 1 | First day of class | | Introduction to Python | | Kitchin<br>Ch.2<br>Basic Python usage |
 | Aug/Sep | 31 | 1 | 2 | 3 | 4 |
 | 2 | Kitchin<br>Ch.3<br>Math | | Kitchin<br>Ch.3<br>Math | | Kitchin<br>Ch.4<br>Linear algebra<br>**Quiz 1** |
 | Sep | 7 | 8 | 9 | 10 | 11 |
