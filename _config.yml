@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Marcy Shieh"
 description              : &description "PhD Candidate at the Department of Political Science at the University of Wisconsin--Madison"
 url                      : https://marcyshieh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://marcyshieh.github.io/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marcyshieh/marcyshieh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
