@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _ps811
   - scope:
       path: ""
-      type: teaching
+      type: ps811
     values:
       layout: single
       author_profile: true
