@@ -1,6 +1,8 @@
 ---
 title: "Setting Up"
 collection: ps811
+type: "Graduate course"
+venue: "Department of Political Science at the University of Wisconsin-Madison"
 permalink: /ps811/ps811-lecture-1-setup
 date: 2020-08-27
 ---
