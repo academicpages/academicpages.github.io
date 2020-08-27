@@ -6,16 +6,16 @@ permalink: /ps811/ps811-lecture-1-setup
 
 In this lecture, you will learn to:
 
-1. Install R.
-2. Install R Studio.
-3. Install LaTeX.
-4. Knit a document in R Markdown in PDF and HTML.
+1. [Install R.](ps811-lecture-1-setup#install-R)
+2. [Install R Studio.]
+3. [Install LaTeX.]
+4. [Knit a document in R Markdown in PDF and HTML.]
 5. Set up Git.
 6. Connect R Studio to your Github account.
 7. Set up a repository on Github.
 8. Commit and push your R Markdown file to the Github repository.
 
-# Installing R
+# Installing R {#install-R}
 
 R is a statistical programming language that is widely used in the discipline. Go to the [R official website](https://www.r-project.org/) to learn more about the software.
 
@@ -27,7 +27,7 @@ These instructions will help you download R on to your operating system.
 
 3. Select the download for your operating system.
 
-# Installing RStudio
+# Installing RStudio {#install-Rstudio}
 
 RStudio is an integrated environment for R. If R is the engine, RStudio is the car. You can use the engine without the car, but you cannot drive the the car without the engine. In other words, you will not be able to use RStudio if you have not yet downloaded R. Always download R first. Go to the [RStudio official website](https://rstudio.com/) to learn more about the software.
 
@@ -39,7 +39,7 @@ These instructions will help you download RStudio on to your operating system.
 
 3. Click on the "Download RStudio for [your OS]" button. The website should be detect which version of RStudio that you need to download.
 
-# Installing LaTeX
+# Installing LaTeX {#install-latex}
 
 LaTeX is a software system for document prepartion. While we will not focus on LaTeX functionalities in this class, you will need to download it to compile R Markdown documents. Go to the [LaTeX official website](https://www.latex-project.org/) to learn more about the software.
 
@@ -55,7 +55,7 @@ These instructions will help you download LaTeX on to your operating system.
 
 - For Windows users, the website suggests that you download MikTeX, proTeXt, or TeX Live. There is a [StackExchange post](https://tex.stackexchange.com/questions/239199/latex-distributions-what-are-their-main-differences) discussing these options and then some. It appears like most people recommend [TeX Live](http://tug.org/texlive/).
 
-# Knitting R Markdown Files
+# Knitting R Markdown Files {#knit-RMarkdown}
 
 1. Open RStudio.
 
@@ -79,7 +79,7 @@ These instructions will help you download LaTeX on to your operating system.
 
 As you can see, you have the option to "Knit to Word" but the political science community has recently turned on Word. As such, you are discouraged from knitting to Word, unless otherwise noted.
 
-# Setting Up Git
+# Setting Up Git {#setup-git}
 
 Git is a version-control system for tracking changes. Initially, software developers were the main users of Git. But lately, people of all stripes have adopted Git into their workflow. Git is especially useful for collaborative work because you will be able to identify information about edits to a file, including what changed, who made the change, and when the perrson made the change. Git is useful for solo work as well because it beats saving your document as a new document whenever you make a change. Visit [the official Git website](https://git-scm.com/) to learn more about Git.
 
