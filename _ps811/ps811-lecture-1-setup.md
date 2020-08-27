@@ -7,16 +7,16 @@ permalink: /ps811/ps811-lecture-1-setup
 date: 2020-08-27
 ---
 
-In this lecture, you will learn to:
+In this lecture, you will learn how to knit a document in R Markdown and use basic Git functions.
 
 1. [Install R.](ps811-lecture-1-setup#install-R)
-2. [Install R Studio.]
-3. [Install LaTeX.]
-4. [Knit a document in R Markdown in PDF and HTML.]
-5. Create a Github account.
-6. Set up Git.
-7. Connect RStudio to your Github account.
-8. Set up a repository on Github.
+2. [Install R Studio.](ps811-lecture-1-setup#install-Rstudio)
+3. [Install LaTeX.](ps811-lecture-1-setup#install-latex)
+4. [Knit a document in R Markdown in PDF and HTML.](ps811-lecture-1-setup#knit-RMarkdown)
+5. [Create a Github account.](ps811-lecture-1-setup#create-Github)
+6. [Set up Git.](ps811-lecture-1-setup#setup-Git)
+7. [Connect RStudio to your Github account.](ps811-lecture-1-setup#RStudio-Github)
+8. [Work with Git on RStudio.](ps811-lecture-1-setup#work-git)
 
 # Installing R {#install-R}
 
@@ -82,7 +82,7 @@ These instructions will help you download LaTeX on to your operating system.
 
 As you can see, you have the option to "Knit to Word" but the political science community has recently turned on Word. As such, you are discouraged from knitting to Word, unless otherwise noted.
 
-# Creating a Github Account
+# Creating a Github Account {#create-Github}
 
 Github is a website that hosts software development and version control via Git. While you are welcome to use Github alternatives to host your open-source projects in the future, this class will use Github.
 
@@ -90,13 +90,13 @@ Github is a website that hosts software development and version control via Git.
 
 2. With the  [GitHub Student Developer Pack](https://education.github.com/pack), students get [Github Pro](https://education.github.com/discount_requests/student_application) and many other computing tools for free. You will need to use your university email address to apply, but the application process only took me a few minutes. Review the full list of [Github Pro features here](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro).
 
-# Setting Up Git {#setup-git}
+# Setting Up Git {#setup-Git}
 
 Git is a version-control system for tracking changes. Initially, software developers were the main users of Git. But lately, people of all stripes have adopted Git into their workflow. Git is especially useful for collaborative work because you will be able to identify information about edits to a file, including what changed, who made the change, and when the perrson made the change. Git is useful for solo work as well because it beats saving your document as a new document whenever you make a change. Visit [the official Git website](https://git-scm.com/) to learn more about Git.
 
 The official Git website has a helpful guide on [installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for your operating system. I don't think I can improve on their existing guidance other than the fact that I do *not* recommend that you download from the source.
 
-# Connecting RStudio to Git and Github
+# Connecting RStudio to Git and Github {#RStudio-Github}
 
 Much of this section is indebted to [Happy Git and GitHub for the useR](https://happygitwithr.com/rstudio-git-github.html) page on integrating RStudio with Git and Github.
 
@@ -154,42 +154,47 @@ The process technically *clones* the Github repository to your computer, but so 
 
 13. Click "Create Project."
 
-14. You should see all the files from your Github repository in the RStudio file browser pane. This means that everything has been *cloned* from your Github repository to your computer or, in other words, downloaded.
+# Working with Git on RStudio {#work-git}
+
+1. You should see all the files from your Github repository in the RStudio file browser pane. This means that everything has been *cloned* from your Github repository to your computer or, in other words, downloaded.
 
 ## How does this all work?
 
-15. In the file browser pane, open `README.md`.
+2. In the file browser pane, open `README.md`.
 
-16. Type in whatever you want in the file. A joke, the name of your celebrity crush, your favorite *Riverdale* character. Whatever you want, as long as it's not rude and/or incendiary.
+3. Type in whatever you want in the file. A joke, the name of your celebrity crush, your favorite *Riverdale* character. Whatever you want, as long as it's not rude and/or incendiary.
 
-17. Save the file.
+4. Save the file.
 
-18. Click on the Git tab on the upper right pane. 
+5. Click on the Git tab on the upper right pane. 
 
 The Git tab only shows up once you create an RStudio Project.
 
-19. You will see that the `README.md` filepath you just edited show up under the Git tab. The Status will be a "M," which stands for "Modified."
+6. You will see that the `README.md` filepath you just edited show up under the Git tab. The Status will be a "M," which stands for "Modified."
 
-20. Check the "Staged" box.
+7. Check the "Staged" box.
 
-21. Click Commit.
+8. Click Commit.
 
-22. The "RStudio: Review Changes" window will appear as a pop-up. Essentially, this allows you to validate whether or not you want to *push* the changes you made on your computer to your Github repository.
+9. The "RStudio: Review Changes" window will appear as a pop-up. Essentially, this allows you to validate whether or not you want to *push* the changes you made on your computer to your Github repository.
 
 There are 3 panes, which I will introduce in clockwork order:
 
 **Pane 1** The files you changed.
+
 **Pane 2** Commit messsage textbox. Here, you write some notes on what you changed. I am personally *horrible* at writing commit messages because I get impatient and lazy---I honestly just want to write, "I changed some stuff"---but that really negates the whole purpose, doesn't it? So let's make it our goal to get better at writing commit messages.
+
 **Pane 3** The large pane on the bottom that show the changes you made. New additions are in gray, deletions are in red, and replacements are in green. You have the options of "stage chunk" or "discard chunk" for each gray, red, and green highlight.
+
 * Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
 * Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
 * You may also "Stage All" or "Discard All."
 
-23. Type a coherent commit message into the "Commit message" box.
+10. Type a coherent commit message into the "Commit message" box.
 
-24. Click "Push."
+11. Click "Push."
 
-25. A "Git Commit" pop-up will appear, with a message that kind of looks like this:
+12. A "Git Commit" pop-up will appear, with a message that kind of looks like this:
 
 ```
 >>> git commit -F blahblahblah.txt
@@ -199,11 +204,11 @@ There are 3 panes, which I will introduce in clockwork order:
  
  ## Check if things happened as expected
  
- 26. Return to your browser, go to [Github](https://github.com), and find your repository. If you never left your repository, click "Refresh" on your browser.
+13. Return to your browser, go to [Github](https://github.com), and find your repository. If you never left your repository, click "Refresh" on your browser.
  
- 27. Click on the README.md file---though, to be honest, your Github repository defaults to the README file when you land on the repository. But click on it anyway.
+14. Click on the README.md file---though, to be honest, your Github repository defaults to the README file when you land on the repository. But click on it anyway.
  
- 28. On this page, you can see who contributes to the file (it should be you for now) and when it was last udpated.
+15. On this page, you can see who contributes to the file (it should be you for now) and when it was last udpated.
  
 The "History" button allows you to see who last updated the file, when, and which client they used to update the file. For each "commit," there are three icons (from left to right): a clipboard, an ID number, angle brackets.
  
@@ -215,7 +220,7 @@ The "History" button allows you to see who last updated the file, when, and whic
  
  # Deleting the Repository
  
- Now you're done with this repository and want to get rid of it. What do you do?
+16. Now you're done with this repository and want to get rid of it. What do you do?
  
 **Local** Find the directory on your computer and delete it like you would delete any normal folder.
  
