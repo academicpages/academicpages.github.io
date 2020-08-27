@@ -115,7 +115,7 @@ git config --global user.email 'yourgithub@email.com'
 git config --global --list
 ```
 
-You have "introduced" yourself to Git.
+You have "introduced" yourself to Git. Hopefully this is the beginning of a beautiful friendship.
 
 ## Create a repository
 
@@ -133,3 +133,50 @@ You have "introduced" yourself to Git.
 Your repository has been created.
 
 ## Connect Github to RStudio (the fun part)
+
+The process technically *clones* the Github repository to your computer, but so much of the magic happens in RStudio that it *feels* that I am connecting Github to RStudio.
+
+6. Go to RStudio. Go to File > New Project.
+
+7. Select "Version Control."
+
+8. Select "Git."
+
+9. Go to Github. Find the Git repository that you created in Step 5.
+
+10. Click on the "Code" button (in green). Copy and paste the URL under "Clone with HTTPS." The URL will end in .git, e.g., `https://github.com/marcyshieh/ps811.git`.
+
+11. Go back to RStudio and fill out the following:
+* Repository URL: The .git URL you copied in Step 10.
+* Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won't be confused).
+* Create project as a subdirectory of: Find the directory on *your computer* that you want this copy of your Github repository to live in.
+
+12. Check the "Open in New Session" box so you can have your projects (and misc non-project files) in different RStudio windows, but this is not necessary.
+
+13. Click "Create Project."
+
+14. You should see all the files from your Github repository in the RStudio file browser pane. This means that everything has been *cloned* from your Github repository to your computer or, in other words, downloaded.
+
+## How does this all work?
+
+15. In the file browser pane, open `README.md`.
+
+16. Type in whatever you want in the file. A joke, the name of your celebrity crush, your favorite *Riverdale* character. Whatever you want, as long as it's not rude and/or incendiary.
+
+17. Save the file.
+
+18. Click on the Git tab on the upper right pane. 
+
+The Git tab only shows up once you create an RStudio Project.
+
+19. You will see that the `README.md` filepath you just edited show up under the Git tab. The Status will be a "M," which stands for "Modified."
+
+20. Check the "Staged" box.
+
+21. Click Commit.
+
+22. The "RStudio: Review Changes" window will appear as a pop-up. Essentially, this allows you to validate whether or not you want to push the changes you made on your computer to your Github repository. There are 3 panes, which I will discuss in clockwork order.
+
+**Pane 1** The files you changed.
+**Pane 2** Commit messsage textbox. Here, you write some notes on what you changed. I am personally *horrible* at writing commit messages because I get impatient and lazy---I honestly just want to write, "I changed some stuff"---but that really negates the whole purpose, doesn't it? So let's make it our goal to get better at writing commit messages.
+**Pane 3** The large pane on the bottom that show the changes you made. New additions are in gray, deletions are in red, and replacements are in green. You have the options of "stage chunk" or "discard chunk." If you select "stage chunk," you will be confirming the change
