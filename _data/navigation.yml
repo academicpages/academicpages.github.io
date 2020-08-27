@@ -1,8 +1,5 @@
 # main links links
-main:
-
-  - title: "Talks"
-    url: /talks/    
+main:  
 
   - title: "Portfolio"
     url: /portfolio/
@@ -13,5 +10,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+# - title: "Guide"
+#   url: /markdown/
+   
+  - title: "Talks"
+    url: /talks/  
