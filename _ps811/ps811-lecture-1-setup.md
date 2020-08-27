@@ -18,6 +18,9 @@ In this lecture, you will learn how to knit a document in R Markdown and use bas
 7. [Connect RStudio to your Github account.](ps811-lecture-1-setup#RStudio-Github)
 8. [Work with Git on RStudio.](ps811-lecture-1-setup#work-git)
 
+<img src="https://marcyshieh.github.io/811/lecture1-img/terminal.png">
+*Terminal tab in RStudio.*
+
 # Installing R {#install-R}
 
 R is a statistical programming language that is widely used in the discipline. Go to the [R official website](https://www.r-project.org/) to learn more about the software.
