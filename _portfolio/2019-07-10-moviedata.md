@@ -1,8 +1,7 @@
 ---
 title: "Analysing movie data"
-excerpt: "Analyzing data associated with information from 10,000 movies collected from the Movie Database (TMDb). The first data science project completed with python. 
-### Tech Stack: Numpy, pandas, seaborn
- <br/><img src='/images/2020-08-19-moviedata-images/movie.jpg' with="500" height="300"/>"
+excerpt: "Analyzing data associated with information from 10,000 movies collected from the Movie Database (TMDb). The first data science project completed with python. ## Tech Stack: Numpy, pandas, seaborn
+<br/><img src='/images/2020-08-19-moviedata-images/movie.jpg' with='500' height='300'/>"
 collection: portfolio
 ---
 
