@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2020
 
-* Personalized input-output hidden Markov models for disease progression modeling. K.A. Severson, L. Chahine, L. Smolensky, K. Ng, J. Hu, S. Ghosh. Machine Learning for Healthcare, 2020.
+* Personalized input-output hidden Markov models for disease progression modeling. K.A. Severson, L. Chahine, L. Smolensky, K. Ng, J. Hu, S. Ghosh. Machine Learning for Healthcare, 2020. [paper](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5f22cb86bc954f32697e42aa/1596115849139/65_CameraReadySubmission_MJFF_Methodological-5.pdf)
 
 * BEEP: A Python library for battery evaluation and prediction. M. Aykol, P. Herring, C.B. Gopal, J. Montoya, A. Anapolsky, P. Attia, W. Gent, J. Hummelshoj, L. Hung, H.-K. Kwon, P. Moore, D. Schweigert, K.A. Severson, S. Suram, Z. Yang, R.D. Braatz, B. Storey. Software-X, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S2352711020300492)
 
