@@ -16,7 +16,13 @@ Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roo
 
 [Article](https://doi.org/10.1093/isq/sqaa009){: .btn--research} [Preprint](/files/pdf/research/Under the Roof of Rebels.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Under the Roof of Rebels SI.pdf){: .btn--research}<!--, [[Replication Archive]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVUY8UI), [[GitHub Repo]](https://github.com/jayrobwilliams/Peace-Agreement-Strength)-->
 
-## Working paper
+## Working papers
+
+Patrick Hunnicutt, William G. Nomikos, and Rob Williams. "Non-Combatants or Counter-Insurgents? The Strategic Logic of Violence against UN Peacekeeping." To be presented at the Annual Conference of the American Political Science Association, San Francisco, CA, September, 2020.
+
+> Despite the wealth of academic research on United Nations (UN) peacekeeping operations, we know remarkably little about the causes of violence against peacekeepers. The dramatic increase in peacekeeper casualties over the past decade make this omission particularly problematic. This article demonstrates that violence against peacekeepers stems from strategic motivations. Peacekeepers in multidimensional PKOs serve as substitute providers of governance and security, working to bolster perceived state capacity and legitimacy in areas where the government cannot send its own forces. Insurgents target peacekeepers in expectation of a PKO unit’s capacity to win over the support of local civilians. We argue that insurgents rely on three primary heuristics to predict the downstream efficacy of peacekeeping forces: personnel composition, peacekeeper nationality, and local levels of insurgent control. We test our theory using an original dataset of geocoded UN multidimensional peacekeeping deployments peacekeeping deployments. Using primary documents sourced directly from the UN covering 10 multidimensional peacekeeping operations from 1999-2018, we present comprehensive time-series data on UN peacekeeper deployment location. We ﬁnd preliminary evidence that peacekeepers are targeted because of their cultural similarity with noncombatants and, in some cases, because they patrol areas where insurgents have political control.
+
+[Working Paper](/files/pdf/research/PKO Targeting.pdf){: .btn--research}
 
 Navin Bapat, Daniel Gustafson, and Rob Williams. "Terrorism, Stealth Aggression, and Political Opportunism." Presented at the Annual Meeting of the Peace Science Society (International), South Bend, IN, November, 2016.
 
@@ -24,13 +30,7 @@ Navin Bapat, Daniel Gustafson, and Rob Williams. "Terrorism, Stealth Aggression,
 
 [Working Paper](/files/pdf/research/Terrorism Territorial Aggression.pdf){: .btn--research}
 
-## Manuscripts in preparation
-
-Patrick Hunnicut, William G. Nomikos, and Rob Williams. "Non-Combatants or Counter-Insurgents? The Strategic Logic of Violence against UN Peacekeeping." To be presented at the Annual Conference of the American Political Science Association, San Francisco, CA, Sepember, 2020.
-
-> As UN multidimensional peacekeeping operations have proliferated over the past two decades, violence against  peacekeepers has increased as well. Yet there exists substantial sub-national geographic variation in patterns of violence. What explains this variation? We contend that much of the violence against peacekeepers stems from strategic motivations. Peacekeepers in multidimensional PKOs serve as substitute providers of governance and security, working to bolster perceived state capacity and legitimacy in areas where the government cannot send its own forces. Insurgents  target peacekeepers in expectation of a PKO unit's capacity to win over the support of local civilians. We argue that insurgents rely on three primary heuristics to predict the downstream efficacy of peacekeeping forces: personnel composition, peacekeeper gender, and peacekeeper nationality. We test our theory using an original dataset of geocoded United Nations multidimensional peacekeeping deployments peacekeeping deployments. Using primary documents sourced directly from the UN covering 10 multidimensional peacekeeping operations from 1999-2018, we present comprehensive time-series data on UN peacekeeper deployment location by type, gender, and nationality. We find that insurgents overwhelmingly target peacekeepers in areas with a large number of three types of forces: police, non-Western, and female peacekeepers. 
-
-[Abstract](/files/pdf/research/PKO Targeting.pdf){: .btn--research}
+## Manuscript in preparation
 
 William G. Nomikos and Rob Williams. "The Effects of UN Peacekeeping on Civilian Victimization: Evaluating Microlevel Evidence."
 
