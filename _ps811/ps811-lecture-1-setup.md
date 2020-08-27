@@ -2,6 +2,7 @@
 title: "Setting Up"
 collection: ps811
 permalink: /ps811/ps811-lecture-1-setup
+date: 2020-09-10
 ---
 
 In this lecture, you will learn to:
@@ -10,10 +11,11 @@ In this lecture, you will learn to:
 2. [Install R Studio.]
 3. [Install LaTeX.]
 4. [Knit a document in R Markdown in PDF and HTML.]
-5. Set up Git.
-6. Connect R Studio to your Github account.
-7. Set up a repository on Github.
-8. Commit and push your R Markdown file to the Github repository.
+5. Create a Github account.
+6. Set up Git.
+7. Connect RStudio to your Github account.
+8. Set up a repository on Github.
+9. Commit and push your R Markdown file to the Github repository.
 
 # Installing R {#install-R}
 
@@ -79,8 +81,53 @@ These instructions will help you download LaTeX on to your operating system.
 
 As you can see, you have the option to "Knit to Word" but the political science community has recently turned on Word. As such, you are discouraged from knitting to Word, unless otherwise noted.
 
+# Creating a Github Account
+
+Github is a website that hosts software development and version control via Git. While you are welcome to use Github alternatives to host your open-source projects in the future, this class will use Github.
+
+1. Create an account on [Github](https://github.com/).
+
+2. With the  [GitHub Student Developer Pack](https://education.github.com/pack), students get [Github Pro](https://education.github.com/discount_requests/student_application) and many other computing tools for free. You will need to use your university email address to apply, but the application process only took me a few minutes. Review the full list of [Github Pro features here](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro).
+
 # Setting Up Git {#setup-git}
 
 Git is a version-control system for tracking changes. Initially, software developers were the main users of Git. But lately, people of all stripes have adopted Git into their workflow. Git is especially useful for collaborative work because you will be able to identify information about edits to a file, including what changed, who made the change, and when the perrson made the change. Git is useful for solo work as well because it beats saving your document as a new document whenever you make a change. Visit [the official Git website](https://git-scm.com/) to learn more about Git.
 
-The goal is to make sure you have Git all set up and things work as expected.
+The official Git website has a helpful guide on [installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for your operating system. I don't think I can improve on their existing guidance other than the fact that I do *not* recommend that you download from the source.
+
+# Connecting RStudio to Git and Github
+
+Much of this section is indebted to [Happy Git and GitHub for the useR](https://happygitwithr.com/rstudio-git-github.html) page on integrating RStudio with Git and Github.
+
+Since I spend the better part of my life in RStudio, I want it to be able to connect to everything, including Git and Github. You are welcome to use [SourceTree](https://www.sourcetreeapp.com/) and other Git clients, but I prefer to consolidate all my work into my trusty RStudio environment due to convenience/laziness. As such, my lectures will simply assume that you use Github and RStudio and not their alternatives. Of course, you are welcome to expore the alternatives in your free time. In fact, I highly recommend that you do so  because I want you to end up with a workflow that works for you. The good news is, once you start familiarizing yourself with these basic building blocks, other tools will be easier to pick up.
+
+## Say hello to git on RStudio
+
+1. Click on the Terminal tab in RStudio.
+
+2. Enter the following commands into the Terminal (i.e., also known as "the shell") and click "Enter." You may copy and paste all three lines at once then click "Enter," or type each line one by one, clicking "Enter" each time you need to start a new line.
+
+```
+git config --global user.name 'Your Name'
+git config --global user.email 'yourgithub@email.com'
+git config --global --list
+```
+
+You have "introduced" yourself to Git.
+
+## Create a repository
+
+3. Go to the main [Github](https://github.com) site and make sure you are logged in. On the main page, click on the green "New" button on the right sidebar to create a new repository on Github.
+
+4. On the "Create a new repository" page, enter the following:
+
+* Repository name:` my_repository`, or whatever you want (this is basically like naming a folder)
+* Description (optional): You can enter some description here about your folder, such as "test repository," though it is optional.
+* Select "Public" for now, though you do have the option for "Private" for future repositories.
+* Check "Add a README file."
+
+5. Click on the "Create repository" button.
+
+Your repository has been created.
+
+## Connect Github to RStudio (the fun part)
