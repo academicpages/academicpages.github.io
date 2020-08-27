@@ -13,7 +13,7 @@ About me
 Hi! I'm a fifth-year Ph.D. candidate at [Michigan State University](http://www.cse.msu.edu/) in the [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/), advised by [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). My research is on CV/ML, with particular interests in face representation & analysis, face anti-spoofing, 3D face alignment and reconstruction, audio-visual modeling, and forensics.
 
 Before joining MSU, I obtained B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) and M.Sc. from the [Ohio State Univeristy](https://www.osu.edu/). I was a member of [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/), advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/). I also worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) during my wonderful summer intern at [Apple AI Research](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher) in 2019.
-I will join [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) in my 2020 summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en).
+I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) in my 2020 summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en).
 
 I'm currently actively looking for a full-time position in 2021 Spring in the area of computer vision and deep learning. If you are interested in my background, please don't hestitate to hit me.
 
