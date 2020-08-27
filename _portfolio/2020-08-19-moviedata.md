@@ -1,6 +1,6 @@
 ---
 title: "Analysing movie data"
-excerpt: "Analyzing data associated with information from 10,000 movies collected from the Movie Database (TMDb<br/><img src='/images/.png'>"
+excerpt: "Analyzing data associated with information from 10,000 movies collected from the Movie Database (TMDb<br/><img src='/images/2020-08-19-moviedata-images/movie.jpg'>"
 collection: portfolio
 ---
 
@@ -8454,7 +8454,7 @@ g.map_offdiag(plt.scatter)
 
 
 
-![png](output_70_1.png)
+![png](/images/2020-08-19-moviedata-images/output_70_1.png)
 
 
 Where histograms are presented, shows where the row and column variable match. From this plot matrice, the two variables where there is a positive correlation is revenue and profit earned. PairGrid only expects to depict numerica variables. 
@@ -8473,7 +8473,7 @@ plt.scatter(data = df, x = "revenue", y ="profit_earned")
 
 
 
-![png](output_72_1.png)
+![png](/images/2020-08-19-moviedata-images/output_72_1.png)
 
 
 Histograms are also used to plot the distribution of numeric variables. It is the quantitative version of a bar chart. 
@@ -8484,7 +8484,7 @@ df['profit_earned'].plot(kind='hist');
 ```
 
 
-![png](output_74_0.png)
+![png](/images/2020-08-19-moviedata-images/output_74_0.png)
 
 
 Based on the histogram above, profit earned is right skewed and so the mean is greater than the median value for profit earned. 
@@ -8503,7 +8503,7 @@ plt.scatter(data = df, x = "budget", y ="revenue")
 
 
 
-![png](output_76_1.png)
+![png](/images/2020-08-19-moviedata-images/output_76_1.png)
 
 
 We can see a slight positive correlation between the variables, budget and revenue, however it is not a strong correlation and most of the movies, with an exception of a few anaomalies lie around the lower end of the axis. Indicating that the lower the budget, the lower the revenue for the film. 
@@ -8856,7 +8856,7 @@ merged_df['genre'].value_counts().plot(kind='bar', figsize=(10, 4));
 ```
 
 
-![png](output_103_0.png)
+![png](/images/2020-08-19-moviedata-images/output_103_0.png)
 
 
 We can see from the bar chart above the different genres and frequncy of their occurance. It would be helpful to organise the genres by release year and calculate the mean profit earned by each group. This wil make it easier to veiw the relationship between annual average profit per genre across each of the years. 
