@@ -2,7 +2,7 @@
 title: "Setting Up"
 collection: ps811
 permalink: /ps811/ps811-lecture-1-setup
-date: 2020-09-10
+date: 2020-08-27
 ---
 
 In this lecture, you will learn to:
