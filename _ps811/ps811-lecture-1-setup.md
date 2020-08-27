@@ -17,7 +17,6 @@ In this lecture, you will learn to:
 6. Set up Git.
 7. Connect RStudio to your Github account.
 8. Set up a repository on Github.
-9. Commit and push your R Markdown file to the Github repository.
 
 # Installing R {#install-R}
 
@@ -198,4 +197,26 @@ There are 3 panes, which I will introduce in clockwork order:
  1 file changed, 49 insertions(+), 2 deletions(-)
  ```
  
+ ## Check if things happened as expected
  
+ 26. Return to your browser, go to [Github](https://github.com), and find your repository. If you never left your repository, click "Refresh" on your browser.
+ 
+ 27. Click on the README.md file---though, to be honest, your Github repository defaults to the README file when you land on the repository. But click on it anyway.
+ 
+ 28. On this page, you can see who contributes to the file (it should be you for now) and when it was last udpated.
+ 
+The "History" button allows you to see who last updated the file, when, and which client they used to update the file. For each "commit," there are three icons (from left to right): a clipboard, an ID number, angle brackets.
+ 
+ * Clipboard: This copies the [SHA-1](https://en.wikipedia.org/wiki/SHA-1) and puts it on your clipboard. I wouldn't worry too much about it.
+ 
+ * ID number: This takes you to the gray, red, and green highlights that indicated the changes at the time of the commit.
+ 
+ * Angle brackets: This takes you to the repository at the time of the commit. A time machine, basically.
+ 
+ # Deleting the Repository
+ 
+ Now you're done with this repository and want to get rid of it. What do you do?
+ 
+**Local** Find the directory on your computer and delete it like you would delete any normal folder.
+ 
+**Github** Go to the browser, go to Github, find your repository, and click "Settings" on the top repository-specific menu. Scroll all the way to the bottom and click on the "Delete this repository" button, then follow the instructions.
