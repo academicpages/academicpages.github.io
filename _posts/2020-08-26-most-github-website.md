@@ -21,9 +21,7 @@ I play around with the terminal a lot, so I already have [homebrew](https://brew
 
 After you install homebrew, you can install hugo through homebrew:
 
-```
-brew install hugo
-```
+`brew install hugo`
 
 You might want to verify that you have the latest version of hugo:
 
