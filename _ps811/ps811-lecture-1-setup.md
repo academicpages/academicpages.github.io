@@ -202,7 +202,7 @@ There are 3 panes, which I will introduce in clockwork order:
  1 file changed, 49 insertions(+), 2 deletions(-)
 ```
  
- ## Check if things happened as expected
+## Check if things happened as expected
  
 13. Return to your browser, go to [Github](https://github.com), and find your repository. If you never left your repository, click "Refresh" on your browser.
  
@@ -212,13 +212,13 @@ There are 3 panes, which I will introduce in clockwork order:
  
 The "History" button allows you to see who last updated the file, when, and which client they used to update the file. For each "commit," there are three icons (from left to right): a clipboard, an ID number, angle brackets.
  
- * Clipboard: This copies the [SHA-1](https://en.wikipedia.org/wiki/SHA-1) and puts it on your clipboard. I wouldn't worry too much about it.
+* Clipboard: This copies the [SHA-1](https://en.wikipedia.org/wiki/SHA-1) and puts it on your clipboard. I wouldn't worry too much about it.
  
- * ID number: This takes you to the gray, red, and green highlights that indicated the changes at the time of the commit.
+* ID number: This takes you to the gray, red, and green highlights that indicated the changes at the time of the commit.
  
- * Angle brackets: This takes you to the repository at the time of the commit. A time machine, basically.
+* Angle brackets: This takes you to the repository at the time of the commit. A time machine, basically.
  
- # Deleting the Repository
+# Deleting the Repository
  
 16. Now you're done with this repository and want to get rid of it. What do you do?
  
