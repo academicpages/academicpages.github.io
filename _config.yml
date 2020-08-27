@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Arcade"
   avatar           : "me.png"
-  bio              : "Discoverying tech one programming language at a time | looking for the intersection between technology and medicine"
+  bio              : "Discoverying tech one programming language at a time | looking for the intersection between technology and Medicine."
   location         : "London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "arcade.kwaku@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/arcade-k-63a62b101/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
