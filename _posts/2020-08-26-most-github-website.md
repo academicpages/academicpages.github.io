@@ -21,53 +21,56 @@ I play around with the terminal a lot, so I already have [homebrew](https://brew
 
 After you install homebrew, you can install hugo through homebrew:
 
-``brew install hugo``
+<pre>
+brew install hugo
+</pre>
 
 You might want to verify that you have the latest version of hugo:
 
-```
+<pre>
 hugo version
-```
+</pre>
 
 ## Step 2: Create a New Site
 
 You can then create your own site.
 
-```
+<pre>
 hugo new site hugo_site
 cd hugo_site
-```
+</pre>
 
 ## Step 3: Add your Theme
 
 So you want to create a new git repository:
 
-```
+<pre>
 git init
-```
+</pre>
 
 Since I'm exhausted from just installing Hugo and learning how to host it on Github, I'm just going to grab a pre-made [Hugo theme](https://themes.gohugo.io/). I decided to use the [hugo-book](https://themes.gohugo.io/hugo-book/) theme.
 
 To use the theme, I went to the theme's github [homepage](https://github.com/alex-shpak/hugo-book), clicked on the green "Clone or download" button, and copied the web URL.
 
 The basic template is, ```git submodule add <theme web URL from github> themes/<theme name>```. So once I fill in the blanks, it looks like this:
-```
+
+<pre>
 git submodule add https://github.com/alex-shpak/hugo-book.git themes/hugo-book
-```
+</pre>
 
 I then need to copy the ```config.toml``` file into the main hugo_site folder:
 
-```
+<pre>
 cp themes/hugo-book/exampleSite/config.toml .
-```
+</pre>
 
 ## Step 4: Preview Your Site
 
 To check if everything worked out okay, input this into the terminal:
 
-```
+<pre>
 hugo server -D
-```
+</pre>
 
 The terminal should give you a message telling you that your preview site is being hosted at [http://localhost:1313/](http://localhost:1313/).
 
@@ -88,7 +91,7 @@ Now you have created two repositories.
 
 This pushes everything from the ```hugo_site``` on your computer to the ```hugo_site``` on Github.
 
-```
+<pre>
 git remote add origin git@github.com:<your-username>/hugo_site.git
 git add .
 git commit -m "Initial commit for our Hugo site."
@@ -96,53 +99,54 @@ git submodule add git@github.com:<your-username>/<your-username>.github.io.git
 git add .
 git commit -m "Initial commit for our generated HTML."
 git push -u origin master
-```
+</pre>
 
 ## Step 7: Change Config File
 
 Then you need to open ```config.toml``` need to make sure you output to ```<your-username>.github.io```:
 
-```
+<pre>
 baseURL = 'https://<your-username>.github.io'
 title = 'Hugo Book'
 theme = 'hugo-book'
 publishDir = "<your-username>.github.io"
-```
+</pre>
 
 ## Step 8: Turn Files into HTML
 
 You want to push your site onto ```<your-username>.github.io``` so it shows up in an HTML format. So, you need to type the following into the terminal:
 
-```
+<pre>
 hugo
-```
+</pre>
+
 Hugo compiles everything for you, so that's kind of nice.
 
 ## Step 9: Pre-Deployment Check
 
 You want to make sure your remotes are set up correctly. You insert the following into the terminal:
 
-```
+<pre>
 cd marcyshieh.github.io
 git remote -v
-```
+</pre>
 
 In return, you should get the following, which means everything is okay:
 
-```
-> origin git@github.com:<your-username>/<your-username>.github.io.git (fetch)
-> origin git@github.com:<your-username>/<your-username>.github.io.git (push)
-```
+<pre>
+origin git@github.com:<your-username>/<your-username>.github.io.git (fetch)
+origin git@github.com:<your-username>/<your-username>.github.io.git (push)
+</pre>
 
 ## Step 10: Deploy Everything
 
 Here is the final push:
 
-```
+<pre>
 git add .
 git commit -m "the final COUNTDOWN"
 git push origin master
-```
+</pre>
 
 If you go to ```<your-username>.github.io```, you should be able to see your new site. It takes a while! All good things take time!!
 
