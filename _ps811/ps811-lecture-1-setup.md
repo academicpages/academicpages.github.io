@@ -113,7 +113,7 @@ Since I spend the better part of my life in RStudio, I want it to be able to con
 
 ## Say hello to git on RStudio
 
-![rstudio terminal tab](https://marcyshieh.github.io/811/lecture1-img/terminal.png)
+<img src="https://marcyshieh.github.io/811/lecture1-img/terminal.png">
 *Terminal tab in RStudio.*
 
 1. Click on the Terminal tab in RStudio.
