@@ -1,7 +1,7 @@
 
 ---
 title: "COVID-19 CT scans"
-excerpt: "Use of Lung CT scans to create prediction models that indicate the presence of COVID-19 infections<br/><img src='images/pneumonia.png'>"
+excerpt: "Using Lung CT scans to create prediction models for indicating the presence of COVID-19 infections<br/><img src='images/pneumonia.png'>"
 collection: portfolio
 ---
 
