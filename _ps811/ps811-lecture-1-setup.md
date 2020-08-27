@@ -175,8 +175,27 @@ The Git tab only shows up once you create an RStudio Project.
 
 21. Click Commit.
 
-22. The "RStudio: Review Changes" window will appear as a pop-up. Essentially, this allows you to validate whether or not you want to push the changes you made on your computer to your Github repository. There are 3 panes, which I will discuss in clockwork order.
+22. The "RStudio: Review Changes" window will appear as a pop-up. Essentially, this allows you to validate whether or not you want to *push* the changes you made on your computer to your Github repository.
+
+There are 3 panes, which I will introduce in clockwork order:
 
 **Pane 1** The files you changed.
 **Pane 2** Commit messsage textbox. Here, you write some notes on what you changed. I am personally *horrible* at writing commit messages because I get impatient and lazy---I honestly just want to write, "I changed some stuff"---but that really negates the whole purpose, doesn't it? So let's make it our goal to get better at writing commit messages.
-**Pane 3** The large pane on the bottom that show the changes you made. New additions are in gray, deletions are in red, and replacements are in green. You have the options of "stage chunk" or "discard chunk." If you select "stage chunk," you will be confirming the change
+**Pane 3** The large pane on the bottom that show the changes you made. New additions are in gray, deletions are in red, and replacements are in green. You have the options of "stage chunk" or "discard chunk" for each gray, red, and green highlight.
+* Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
+* Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
+* You may also "Stage All" or "Discard All."
+
+23. Type a coherent commit message into the "Commit message" box.
+
+24. Click "Push."
+
+25. A "Git Commit" pop-up will appear, with a message that kind of looks like this:
+
+```
+>>> git commit -F blahblahblah.txt
+[master beded87] edit edit
+ 1 file changed, 49 insertions(+), 2 deletions(-)
+ ```
+ 
+ 
