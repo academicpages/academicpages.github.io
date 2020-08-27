@@ -178,7 +178,7 @@ The Git tab only shows up once you create an RStudio Project.
 
 9. The "RStudio: Review Changes" window will appear as a pop-up. Essentially, this allows you to validate whether or not you want to *push* the changes you made on your computer to your Github repository.
 
-![the 3 pannes](lecture1-img/commit-message.png =300x)
+![the 3 panes](/lecture1-img/commit-message.png =300x)
 
 There are 3 panes, which I will introduce in clockwork order:
 
