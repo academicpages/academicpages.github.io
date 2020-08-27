@@ -66,6 +66,9 @@ These instructions will help you download LaTeX on to your operating system.
 
 3. Select R Markdown.
 
+![new rmarkdown](https://marcyshieh.github.io/811/lecture1-img/new_r_markdown.png)
+*When you set up a new R Markdown file.*
+
 4. Make sure the sidebar is set to "Document."
 
 5. Enter in the title of the document in the "Title" field and your name in the "Author" field.
@@ -74,7 +77,13 @@ These instructions will help you download LaTeX on to your operating system.
 
 7. An R Markdown document (with the extension .Rmd) will appear. It will be called Untitled1.Rmd. R Markdown has a default template in place every time you create a new R Markdown document.
 
+![the knit button](https://marcyshieh.github.io/811/lecture1-img/knit.png)
+*The Knit button.*
+
 8. As you have selected HTML as the *default* output format, when you click the **Knit** button (it is the icon with a little ball of yarn and needle), it will automatically output the document as a HTML. Prior to outputing the HTML file, however, it will ask you to rename the file to something other than Untitled1.Rmd, which you should certainly do.
+
+![viewer tab](https://marcyshieh.github.io/811/lecture1-img/viewer.png)
+*HTML file in the viewer tab.*
 
 9. The HTML file will appear on the "Viewer" tab. To open the actual document, click on the button with the arrow pointing to the top right corner.
 
@@ -103,6 +112,9 @@ Much of this section is indebted to [Happy Git and GitHub for the useR](https://
 Since I spend the better part of my life in RStudio, I want it to be able to connect to everything, including Git and Github. You are welcome to use [SourceTree](https://www.sourcetreeapp.com/) and other Git clients, but I prefer to consolidate all my work into my trusty RStudio environment due to convenience/laziness. As such, my lectures will simply assume that you use Github and RStudio and not their alternatives. Of course, you are welcome to expore the alternatives in your free time. In fact, I highly recommend that you do so  because I want you to end up with a workflow that works for you. The good news is, once you start familiarizing yourself with these basic building blocks, other tools will be easier to pick up.
 
 ## Say hello to git on RStudio
+
+![rstudio terminal tab](https://marcyshieh.github.io/811/lecture1-img/terminal.png)
+*Terminal tab in RStudio.*
 
 1. Click on the Terminal tab in RStudio.
 
@@ -145,6 +157,9 @@ The process technically *clones* the Github repository to your computer, but so 
 
 10. Click on the "Code" button (in green). Copy and paste the URL under "Clone with HTTPS." The URL will end in .git, e.g., `https://github.com/marcyshieh/ps811.git`.
 
+![the git pane](https://marcyshieh.github.io/811/lecture1-img/new_project.png)
+*New project pop-up form.*
+
 11. Go back to RStudio and fill out the following:
 * Repository URL: The .git URL you copied in Step 10.
 * Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won't be confused).
@@ -166,6 +181,9 @@ The process technically *clones* the Github repository to your computer, but so 
 
 4. Save the file.
 
+![the git pane](https://marcyshieh.github.io/811/lecture1-img/git_pane.png)
+*The Git pane.*
+
 5. Click on the Git tab on the upper right pane. 
 
 The Git tab only shows up once you create an RStudio Project.
@@ -177,6 +195,20 @@ The Git tab only shows up once you create an RStudio Project.
 8. Click Commit.
 
 9. The "RStudio: Review Changes" window will appear as a pop-up. Essentially, this allows you to validate whether or not you want to *push* the changes you made on your computer to your Github repository.
+
+10. Type a coherent commit message into the "Commit message" box.
+
+11. Click "Push."
+
+12. A "Git Commit" pop-up will appear, with a message that kind of looks like this:
+
+```
+>>> git commit -F blahblahblah.txt
+[master beded87] edit edit
+ 1 file changed, 49 insertions(+), 2 deletions(-)
+```
+
+### Review changes deep-dive
 
 ![the 3 panes](https://marcyshieh.github.io/811/lecture1-img/commit-message.png)
 *The 3 panes of RStudio: Review Changes.*
@@ -192,18 +224,6 @@ There are 3 panes, which I will introduce in clockwork order:
 * Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
 * Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
 * You may also "Stage All" or "Discard All."
-
-10. Type a coherent commit message into the "Commit message" box.
-
-11. Click "Push."
-
-12. A "Git Commit" pop-up will appear, with a message that kind of looks like this:
-
-```
->>> git commit -F blahblahblah.txt
-[master beded87] edit edit
- 1 file changed, 49 insertions(+), 2 deletions(-)
-```
  
 ## Check if things happened as expected
  
@@ -212,6 +232,9 @@ There are 3 panes, which I will introduce in clockwork order:
 14. Click on the README.md file---though, to be honest, your Github repository defaults to the README file when you land on the repository. But click on it anyway.
  
 15. On this page, you can see who contributes to the file (it should be you for now) and when it was last udpated.
+
+![history](https://marcyshieh.github.io/811/lecture1-img/history.png)
+*Github repository history*
  
 The "History" button allows you to see who last updated the file, when, and which client they used to update the file. For each "commit," there are three icons (from left to right): a clipboard, an ID number, angle brackets.
  
@@ -223,7 +246,7 @@ The "History" button allows you to see who last updated the file, when, and whic
  
 # Deleting the Repository
  
-16. Now you're done with this repository and want to get rid of it. What do you do?
+Now you're done with this repository and want to get rid of it. What do you do?
  
 **Local** Find the directory on your computer and delete it like you would delete any normal folder.
  
