@@ -15,7 +15,3 @@ I graduated from the University of California, Davis with a BA in political scie
 Research projects
 ======
 TBD
-
-Hobbies
-======
-TBD
