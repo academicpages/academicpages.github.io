@@ -18,7 +18,7 @@ In this lecture, you will learn how to knit a document in R Markdown and use bas
 7. [Connect RStudio to your Github account.](ps811-lecture-1-setup#RStudio-Github)
 8. [Work with Git on RStudio.](ps811-lecture-1-setup#work-git)
 
-<img src="https://marcyshieh.github.io/811/lecture1-img/terminal.png">
+<img src="https://marcyshieh.github.io/ps811/lecture1-img/terminal.png">
 *Terminal tab in RStudio.*
 
 # Installing R {#install-R}
@@ -69,7 +69,7 @@ These instructions will help you download LaTeX on to your operating system.
 
 3. Select R Markdown.
 
-![new rmarkdown](https://marcyshieh.github.io/811/lecture1-img/new_r_markdown.png)
+![new rmarkdown](https://marcyshieh.github.io/ps811/lecture1-img/new_r_markdown.png)
 *When you set up a new R Markdown file.*
 
 4. Make sure the sidebar is set to "Document."
