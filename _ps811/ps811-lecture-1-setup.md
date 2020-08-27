@@ -200,7 +200,7 @@ There are 3 panes, which I will introduce in clockwork order:
 >>> git commit -F blahblahblah.txt
 [master beded87] edit edit
  1 file changed, 49 insertions(+), 2 deletions(-)
- ```
+```
  
  ## Check if things happened as expected
  
