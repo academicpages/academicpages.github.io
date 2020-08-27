@@ -9,10 +9,9 @@ tags:
 The purpose of this page is to remind myself how to create a nerdy-ass academic site on Github so I don't have to spend 10 hours re-learning it. Which is what happened this afternoon (boo!). If this tutorial somehow proves to be helpful for other people, that's cool too. Here are all the steps that I have collected from a bunch of Github tutorials (I cited them!! I am not smart enough to come up with this on my own!!), but placed in chronological order.
 
 The best tutorials I've found thus far are the [official Hugo Quick Start tutorial](https://gohugo.io/getting-started/quick-start/) and the post by [Ivy Markwell from Inside the Embassy](https://inside.getambassador.com/creating-and-deploying-your-first-hugo-site-to-github-pages-1e1f496cf88d). So I'm going to combine these two and create a tutorial that's easy enough for me to follow along even if I get amnesia.
-======
 
-Prerequisites
-======
+## Prerequisites
+
 1. You should have Git 2.8 [installed on your machine](https://git-scm.com/downloads).
 2. You should have a [Github](https://github.com) account.
 
