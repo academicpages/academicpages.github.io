@@ -18,9 +18,6 @@ In this lecture, you will learn how to knit a document in R Markdown and use bas
 7. [Connect RStudio to your Github account.](ps811-lecture-1-setup#RStudio-Github)
 8. [Work with Git on RStudio.](ps811-lecture-1-setup#work-git)
 
-<img src="https://marcyshieh.github.io/ps811/lecture1-img/terminal.png">
-*Terminal tab in RStudio.*
-
 # Installing R {#install-R}
 
 R is a statistical programming language that is widely used in the discipline. Go to the [R official website](https://www.r-project.org/) to learn more about the software.
@@ -80,12 +77,12 @@ These instructions will help you download LaTeX on to your operating system.
 
 7. An R Markdown document (with the extension .Rmd) will appear. It will be called Untitled1.Rmd. R Markdown has a default template in place every time you create a new R Markdown document.
 
-![the knit button](https://marcyshieh.github.io/811/lecture1-img/knit.png)
+![the knit button](https://marcyshieh.github.io/ps811/lecture1-img/knit.png)
 *The Knit button.*
 
 8. As you have selected HTML as the *default* output format, when you click the **Knit** button (it is the icon with a little ball of yarn and needle), it will automatically output the document as a HTML. Prior to outputing the HTML file, however, it will ask you to rename the file to something other than Untitled1.Rmd, which you should certainly do.
 
-![viewer tab](https://marcyshieh.github.io/811/lecture1-img/viewer.png)
+![viewer tab](https://marcyshieh.github.io/ps811/lecture1-img/viewer.png)
 *HTML file in the viewer tab.*
 
 9. The HTML file will appear on the "Viewer" tab. To open the actual document, click on the button with the arrow pointing to the top right corner.
@@ -116,7 +113,7 @@ Since I spend the better part of my life in RStudio, I want it to be able to con
 
 ## Say hello to git on RStudio
 
-<img src="https://marcyshieh.github.io/811/lecture1-img/terminal.png">
+![terminal tab](https://marcyshieh.github.io/ps811/lecture1-img/terminal.png)
 *Terminal tab in RStudio.*
 
 1. Click on the Terminal tab in RStudio.
@@ -160,7 +157,7 @@ The process technically *clones* the Github repository to your computer, but so 
 
 10. Click on the "Code" button (in green). Copy and paste the URL under "Clone with HTTPS." The URL will end in .git, e.g., `https://github.com/marcyshieh/ps811.git`.
 
-![the git pane](https://marcyshieh.github.io/811/lecture1-img/new_project.png)
+![git pane](https://marcyshieh.github.io/ps811/lecture1-img/new_project.png)
 *New project pop-up form.*
 
 11. Go back to RStudio and fill out the following:
@@ -184,7 +181,7 @@ The process technically *clones* the Github repository to your computer, but so 
 
 4. Save the file.
 
-![the git pane](https://marcyshieh.github.io/811/lecture1-img/git_pane.png)
+![the git pane](https://marcyshieh.github.io/ps811/lecture1-img/git_pane.png)
 *The Git pane.*
 
 5. Click on the Git tab on the upper right pane. 
@@ -213,7 +210,7 @@ The Git tab only shows up once you create an RStudio Project.
 
 ### Review changes deep-dive
 
-![the 3 panes](https://marcyshieh.github.io/811/lecture1-img/commit-message.png)
+![the 3 panes](https://marcyshieh.github.io/ps811/lecture1-img/commit-message.png)
 *The 3 panes of RStudio: Review Changes.*
 
 There are 3 panes, which I will introduce in clockwork order:
@@ -236,7 +233,7 @@ There are 3 panes, which I will introduce in clockwork order:
  
 15. On this page, you can see who contributes to the file (it should be you for now) and when it was last udpated.
 
-![history](https://marcyshieh.github.io/811/lecture1-img/history.png)
+![history](https://marcyshieh.github.io/ps811/lecture1-img/history.png)
 *Github repository history*
  
 The "History" button allows you to see who last updated the file, when, and which client they used to update the file. For each "commit," there are three icons (from left to right): a clipboard, an ID number, angle brackets.
