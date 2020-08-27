@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "PS 811 - Introduction to Statistical Computing"
 collection: ps811
 type: "Graduate course"
