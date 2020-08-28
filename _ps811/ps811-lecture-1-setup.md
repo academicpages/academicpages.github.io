@@ -138,8 +138,8 @@ You have "introduced" yourself to Git. Hopefully this is the beginning of a beau
 
 4. On the "Create a new repository" page, enter the following:
 
-* Repository name:` my_repository`, or whatever you want (this is basically like naming a folder)
-* Description (optional): You can enter some description here about your folder, such as "test repository," though it is optional.
+* Repository name: `ps811_exercises`
+* Description (optional): You can enter some description here about your folder, such as "assignments for ps811"
 * Select "Public" for now, though you do have the option for "Private" for future repositories.
 * Check "Add a README file."
 
@@ -166,9 +166,9 @@ The process technically *clones* the Github repository to your computer, but so 
 *New project pop-up form.*
 
 11. Go back to RStudio and fill out the following:
-* Repository URL: The .git URL you copied in Step 10.
-* Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won't be confused).
-* Create project as a subdirectory of: Find the directory on *your computer* that you want this copy of your Github repository to live in.
+        * Repository URL: The .git URL you copied in Step 10.
+        * Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won't be confused).
+        * Create project as a subdirectory of: Find the directory on *your computer* that you want this copy of your Github repository to live in.
 
 12. Check the "Open in New Session" box so you can have your projects (and misc non-project files) in different RStudio windows, but this is not necessary.
 
@@ -176,7 +176,7 @@ The process technically *clones* the Github repository to your computer, but so 
 
 # Working with Git on RStudio {#work-git}
 
-1. You should see all the files from your Github repository in the RStudio file browser pane. This means that everything has been *cloned* from your Github repository to your computer or, in other words, downloaded.
+You should see all the files from your Github repository in the RStudio file browser pane. This means that everything has been *cloned* from your Github repository to your computer or, in other words, downloaded.
 
 ## How does this all work?
 
@@ -228,9 +228,9 @@ There are 3 panes, which I will introduce in clockwork order:
 
 **Pane 3** The large pane on the bottom that show the changes you made. New additions are in gray, deletions are in red, and replacements are in green. You have the options of "stage chunk" or "discard chunk" for each gray, red, and green highlight.
 
-* Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
-* Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
-* You may also "Stage All" or "Discard All."
+        * Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
+        * Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
+        * You may also "Stage All" or "Discard All."
  
 ## Check if things happened as expected
  
@@ -252,9 +252,9 @@ The "History" button allows you to see who last updated the file, when, and whic
  
 * Angle brackets: This takes you to the repository at the time of the commit. A time machine, basically.
  
-# Deleting the Repository
+### Deleting the Repository
  
-Now you're done with this repository and want to get rid of it. What do you do?
+If, for any reason, you would like to delete your repository, you should follow the steps below.
  
 **Local** Find the directory on your computer and delete it like you would delete any normal folder.
  
