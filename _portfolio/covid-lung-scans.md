@@ -5,7 +5,6 @@ excerpt: "Using Lung CT scans to create prediction models for indicating the pre
 collection: portfolio
 ---
 
-
 ## Project:  Machine Learning Algorithms for COVID19
 > Use of Lung CT scans to create prediction models that indicate the presence of COVID-19 infections
 
@@ -218,3 +217,5 @@ read_nii(first_scan)
 ```python
 
 ```
+
+
