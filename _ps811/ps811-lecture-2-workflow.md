@@ -9,10 +9,10 @@ date: 2020-08-27
 
 In this lecture, you will learn how to do everything you already do as a scholar but in a more organized and efficient manner. More specifically, you will learn how to do all these things in RStudio.
 
-1. Create a project in RStudio.
-2. Push a R Markdown document to your GitHub repository.
-3. Write a paper in R Markdown.
-4. Organize a bibliography.
+1. [Create a project in RStudio.](ps811-lecture-2-workflow#create-proj)
+2. [Push a R Markdown document to your GitHub repository.](ps811-lecture-2-workflow#push-git)
+3. [Write a paper in R Markdown.](ps811-lecture-2-workflow#write-paper)
+4. [Organize a bibliography.](ps811-lecture-2-workflow#org-bib)
 
 # Why create a project?
 
@@ -26,7 +26,7 @@ You also want to think ahead: many of the top journals in the discipline require
 
 So let's get started.
 
-## Creating a project in RStudio
+# Creating a project in RStudio {#create-proj}
 
 The goal of this section is for you to be able to create a project in RStudio that you can connect to Github. Some of these steps are a review of what we learned in the previous lesson.
 
@@ -60,7 +60,7 @@ The goal of this section is for you to be able to create a project in RStudio th
   
 10. Check the “Open in New Session” box so you can have your projects (and misc non-project files) in different RStudio windows, but this is not necessary.
 
-# Pushing a R Markdown document to your Github repository
+# Pushing a R Markdown document to your Github repository {#push-git}
 
 In the previous lesson, you took the README.md file from your Github repository, edited it, and pushed your changes back on to the repository. In this lesson, you will learn how to create a document on your computer in RStudio and push it to the repository.
 
@@ -118,7 +118,7 @@ In the previous lesson, you took the README.md file from your Github repository,
 
 15. There, you will see the record of your changes and can click on the icons (as discussed in the previous lesson) to review or retrieve anything you deleted.
 
-# Writing a paper in R Markdown
+# Writing a paper in R Markdown {#write-paper}
 
 Now you are hopefully more comfortable doing simple things with RStudio, R Markdown documents, Git, and GitHub. So now let's move on to how to do stuff that you already do and figure out how the Git workflow (in conjunction with RStudio) can make it better.
 
@@ -146,7 +146,7 @@ Just so you know what is required to run the papaja R package, I'm going to do a
     install.packages("devtools")
     ```
 
-    Once you install a package to your computer, you do not have to install it again, unless you update to a new version of R. You can check your installed packages with the `installed.packages` command.
+    Once you install a package to your computer, you do not have to install it again, unless you update to a new version of R. You can check your installed packages with the `installed.packages()` command.
     
 2. Access the package you just installed by entering the following into the console.
 
@@ -298,7 +298,7 @@ Now, you can create headings and subheadings and subsubheadings, etc.
 <div id="refs" custom-style="Bibliography"></div>
 ```
 
-# Organizing a bibliography
+# Organizing a bibliography {#org-bib}
 
 ## Downloading Zotero
 
