@@ -142,25 +142,25 @@ Just so you know what is required to run the papaja R package, I'm going to do a
 
 1. papaja is not yet available on CRAN (the Comprehensive R Archive Network), so you need to install it from the creator's GitHub. To do so, you need to install the `devtools` package by entering the following into your console.
 
-```
-install.packages("devtools")
-```
+    ```
+    install.packages("devtools")
+    ```
 
     Once you install a package to your computer, you do not have to install it again, unless you update to a new version of R. You can check your installed packages with the `installed.packages` command.
     
 2. Access the package you just installed by entering the following into the console.
 
-```
-library(devtools)
-```
+    ```
+    library(devtools)
+    ```
 
     Think of this as telling your computer to point and click on a program to "open" it. You need to do this every time you open a new R session and wish to use the package---in the same way that you need to click on the RStudio icon every time you want to use it.
     
 3. Enter the following command into the console. This installs the *stable* development version of the package from Github.
 
-```
-devtools::install_github("crsh/papaja")
-```
+    ```
+    devtools::install_github("crsh/papaja")
+    ```
 
     The `devtools::`` part of the command simply tells R where the `install_github` part of the command is coming from. There are cases where you may have loaded two packages and both packages have `install_github` as a command. Doing the double-colon simply ensures that you are specifying the package that the command is coming from. Since you have only loaded the devtools package so far, you don't need to specify that `install_github` is coming from the devtools package, but I just wanted to demonstrate this point in case you ever end up in such a conundrum.
     
@@ -242,6 +242,7 @@ Of course, you can customize what you do tell your code chunks to do. Here are s
         ```{r echo = FALSE, fig.cap = "This is a photo of all my favorite NYC brownstones."}
         [insert your R code here]
         ```
+        </pre>
         
     * You may even name your chunks. In this example, the code chunk is named "chart." Note that you do NOT separate the name and the options with a comma.
     
@@ -249,6 +250,7 @@ Of course, you can customize what you do tell your code chunks to do. Here are s
         ```{r chart echo = FALSE, fig.cap = "This is a photo of all my favorite NYC brownstones."}
         [insert your R code here]
         ```
+        </pre>
         
 Now that you have an understanding of code chunks, let's explore the code chunks on the R Markdown template we downloaded.
 
@@ -334,10 +336,10 @@ To make sure that you can translate the information from Zotero into information
 
 1. Install the `citr` package in the console.
 
-```
-install.packages("citr")
-library(citr)
-```
+    ```
+    install.packages("citr")
+    library(citr)
+    ```
 
 2. Restart RStudio. Reopen your project.
 
