@@ -11,13 +11,13 @@ collection: portfolio
 ## Table of Contents
 <ul>
 <li><a href="#intro">Introduction</a></li>
-<li><a href="#wranging">Data Wrangling</a></li>
+<li><a href="#data">Data Wrangling</a></li>
 <li><a href="#eda">Exploratory Data Analysis</a></li>
 <li><a href="#conclusions">Conclusions</a></li>
 </ul>
 
 <a id="intro"></a>
-##Introduction
+## Introduction
 
 In this project I'll be analyzing data associated with information from 10,000 movies collected from the Movie Database (TMDb).In particular this anaysis is focused on distinguishing movies that are popular from year to year, and the genre of movies that incure high revenues. To start first the  necessary packages need to be imported in order to analyze this data set. 
 
@@ -83,7 +83,7 @@ create_download_link(df)
 
 
 
-<a id="wrangling"></a>
+<a id="data"></a>
 # Data Wrangling
 
 In this section of the report we will load the data in order to better inspect and understand the information presented. The dataset will also be checked for cleanliness, and then trimmed and cleaned for analysis. Only relevant data will be kept, usefull for any calculations. 
@@ -901,7 +901,7 @@ The data type for budget and revenue has now been changed to intgers.
 <a id="eda"></a>
 # Exploratory Data Analysis
 
-&gt; Now that the data has been trimmed and cleaned, the next step is exploration. In this section I will compute statistics and create visualizations with the goal of addressing the research questions posed in the Introduction section. I will look at each variable independently and then follow up by looking at any correlations/relationships between variables. 
+Now that the data has been trimmed and cleaned, the next step is exploration. In this section I will compute statistics and create visualizations with the goal of addressing the research questions posed in the Introduction section. I will look at each variable independently and then follow up by looking at any correlations/relationships between variables. 
 
 
 
@@ -2183,11 +2183,4 @@ One alternative way of depicting the relationship between two categorical variab
 &gt; **Tip**: Once you are satisfied with your work, you should save a copy of the report in HTML or PDF form via the **File** &gt; **Download as** submenu. Before exporting your report, check over it to make sure that the flow of the report is complete. You should probably remove all of the "Tip" quotes like this one so that the presentation is as tidy as possible. Congratulations!
 -->
 
-```python
-
-```
-
-
-```python
-
-```
+<a href="#intro">Back to the top? </a>
