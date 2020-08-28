@@ -54,9 +54,9 @@ These instructions will help you download LaTeX on to your operating system.
 
 2. Select your operating system.
 
-- For MacOS users, you should download [MacTeX](http://www.tug.org/mactex/). You may access [step-by-step instructions here](http://www.tug.org/mactex/mactex-download.html).
+    - For MacOS users, you should download [MacTeX](http://www.tug.org/mactex/). You may access [step-by-step instructions here](http://www.tug.org/mactex/mactex-download.html).
 
-- For Windows users, the website suggests that you download MikTeX, proTeXt, or TeX Live. There is a [StackExchange post](https://tex.stackexchange.com/questions/239199/latex-distributions-what-are-their-main-differences) discussing these options and then some. It appears like most people recommend [TeX Live](http://tug.org/texlive/).
+    - For Windows users, the website suggests that you download MikTeX, proTeXt, or TeX Live. There is a [StackExchange post](https://tex.stackexchange.com/questions/239199/latex-distributions-what-are-their-main-differences) discussing these options and then some. It appears like most people recommend [TeX Live](http://tug.org/texlive/).
 
 # Knitting R Markdown Files {#knit-RMarkdown}
 
@@ -138,10 +138,10 @@ You have "introduced" yourself to Git. Hopefully this is the beginning of a beau
 
 4. On the "Create a new repository" page, enter the following:
 
-* Repository name: `ps811_exercises`
-* Description (optional): You can enter some description here about your folder, such as "assignments for ps811"
-* Select "Public" for now, though you do have the option for "Private" for future repositories.
-* Check "Add a README file."
+    - Repository name: `ps811_exercises`
+    - Description (optional): You can enter some description here about your folder, such as "assignments for ps811"
+    - Select "Public" for now, though you do have the option for "Private" for future repositories.
+    - Check "Add a README file."
 
 5. Click on the "Create repository" button.
 
@@ -166,9 +166,10 @@ The process technically *clones* the Github repository to your computer, but so 
 *New project pop-up form.*
 
 11. Go back to RStudio and fill out the following:
-        - Repository URL: The .git URL you copied in Step 10.
-        - Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won't be confused).
-        - Create project as a subdirectory of: Find the directory on *your computer* that you want this copy of your Github repository to live in.
+
+    - Repository URL: The .git URL you copied in Step 10.
+    - Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won't be confused).
+    - Create project as a subdirectory of: Find the directory on *your computer* that you want this copy of your Github repository to live in.
 
 12. Check the "Open in New Session" box so you can have your projects (and misc non-project files) in different RStudio windows, but this is not necessary.
 
@@ -246,11 +247,9 @@ There are 3 panes, which I will introduce in clockwork order:
  
 The "History" button allows you to see who last updated the file, when, and which client they used to update the file. For each "commit," there are three icons (from left to right): a clipboard, an ID number, angle brackets.
  
-* Clipboard: This copies the [SHA-1](https://en.wikipedia.org/wiki/SHA-1) and puts it on your clipboard. I wouldn't worry too much about it.
- 
-* ID number: This takes you to the gray, red, and green highlights that indicated the changes at the time of the commit.
- 
-* Angle brackets: This takes you to the repository at the time of the commit. A time machine, basically.
+    - Clipboard: This copies the [SHA-1](https://en.wikipedia.org/wiki/SHA-1) and puts it on your clipboard. I wouldn't worry too much about it.
+    - ID number: This takes you to the gray, red, and green highlights that indicated the changes at the time of the commit.
+    - Angle brackets: This takes you to the repository at the time of the commit. A time machine, basically.
  
 ### Deleting the Repository
  
