@@ -166,9 +166,9 @@ The process technically *clones* the Github repository to your computer, but so 
 *New project pop-up form.*
 
 11. Go back to RStudio and fill out the following:
-        * Repository URL: The .git URL you copied in Step 10.
-        * Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won't be confused).
-        * Create project as a subdirectory of: Find the directory on *your computer* that you want this copy of your Github repository to live in.
+        - Repository URL: The .git URL you copied in Step 10.
+        - Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won't be confused).
+        - Create project as a subdirectory of: Find the directory on *your computer* that you want this copy of your Github repository to live in.
 
 12. Check the "Open in New Session" box so you can have your projects (and misc non-project files) in different RStudio windows, but this is not necessary.
 
@@ -228,9 +228,9 @@ There are 3 panes, which I will introduce in clockwork order:
 
 **Pane 3** The large pane on the bottom that show the changes you made. New additions are in gray, deletions are in red, and replacements are in green. You have the options of "stage chunk" or "discard chunk" for each gray, red, and green highlight.
 
-        * Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
-        * Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
-        * You may also "Stage All" or "Discard All."
+        - Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
+        - Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
+        - You may also "Stage All" or "Discard All."
  
 ## Check if things happened as expected
  
