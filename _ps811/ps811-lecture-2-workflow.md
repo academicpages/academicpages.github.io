@@ -361,7 +361,7 @@ To make sure that you can translate the information from Zotero into information
 
 7. Return to "Insert Citations" (bottom of pop-up window).
 
-8. Enter (or start entering) the title of the article you dragged into Zotero. It should show up in the search so you can just select it. You have the option to add the citation with parentheses (e.g., (Author 1999)) or without parentheses (e.g., Author 1999).
+8. Enter (or start entering) the title of the article you dragged into Zotero. It should show up in the search so you can just select it. You have the option to add the citation with parentheses (e.g., (Author, 1999)) or without parentheses (e.g., Author (1999)).
 
 9. Click "Insert Citation."
 
