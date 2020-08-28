@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to Pengyu Cheng's homepage!
 
-I am a third-year Ph.D. student in the Department of Electric and Computer Engineering at Duke University.  My research interests focus on Bayesian deep learning,  geometric deep learning, interpretable machine learning and their applications in natural language processing, speech processing, and multi-modality.
+I am a fourth-year Ph.D. student in the Department of Electric and Computer Engineering at Duke University.  My research interests focus on Bayesian deep learning,  geometric deep learning, interpretable machine learning and their applications in natural language processing, and speech processing.
 
 I received my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017.
 My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
