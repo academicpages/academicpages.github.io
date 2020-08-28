@@ -1,5 +1,5 @@
 ---
-title: "PS 811 - Introduction to Statistical Computing"
+title: "Syllabus"
 collection: ps811
 type: "Graduate course"
 permalink: /ps811/2020-fall-syllabus
