@@ -210,9 +210,9 @@ The Git tab only shows up once you create an RStudio Project.
 12. A "Git Commit" pop-up will appear, with a message that kind of looks like this:
 
 ```
->>> git commit -F blahblahblah.txt
+git commit -F blahblahblah.txt
 [master beded87] edit edit
- 1 file changed, 49 insertions(+), 2 deletions(-)
+1 file changed, 49 insertions(+), 2 deletions(-)
 ```
 
 ### Review changes deep-dive
@@ -229,9 +229,9 @@ There are 3 panes, which I will introduce in clockwork order:
 
 **Pane 3** The large pane on the bottom that show the changes you made. New additions are in gray, deletions are in red, and replacements are in green. You have the options of "stage chunk" or "discard chunk" for each gray, red, and green highlight.
 
-        - Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
-        - Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
-        - You may also "Stage All" or "Discard All."
+    - Stage chunk: You will be confirming the change and pushing the change out to the Github repository.
+    - Discard chunk: You will NOT be confirming the change annd you will NOT be pushing the change out to the Github repository.
+    - You may also "Stage All" or "Discard All."
  
 ## Check if things happened as expected
  
