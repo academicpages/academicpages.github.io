@@ -7,7 +7,7 @@ author_profile: true
 
 ## University of Wisconsin-Madison
 
-**[POLISCI811: Introduction to Statistical Computing](/ps811)**
+**[POLISCI811: Introduction to Statistical Computing in Political Science](/ps811)**
 * Fall 2020
 * Instructor of record
 * Graduate course (virtual)[^1]
