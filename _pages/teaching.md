@@ -12,10 +12,10 @@ author_profile: true
 * Instructor of record
 * Graduate course (virtual)[^1]
 
-**Math Camp**
+**[Math Camp](https://github.com/shirikov/math-camp-2020)**
 * Summer 2020
 * Co-instructor with Anton Shirikov
-* Math refresher for incoming first-year PhD students (virtual)
+* Math refresher for incoming first year political science PhD students (virtual)
 
 **POLISCI414: The Supreme Court as a Political Institution**
 * Summer 2018, 2019, 2020
