@@ -318,6 +318,10 @@ library(citr)
 
 6. Place your cursor on line 80 (under the Methods section).
 
+    ![viewer tab](addins.png)
+
+    *HTML file in the viewer tab.*
+
 5. Now click on the Addins button on the top of your RStudio. You should be able to see a section for CITR and selection an option to "Insert Citations."
 
 6. Go to "Settings" (bottom of pop-up window).
@@ -339,3 +343,5 @@ library(citr)
     - If you add a new article to your Zotero library, it may not show up on citr unless you restart R.
     
     - citr Addins is admittedly a bit janky and if you would prefer to enter the commands on the console manually, you are welcome to read the [citr R documentation](https://cran.r-project.org/web/packages/citr/citr.pdf). 
+    
+13. Finally, push all your files out to your repository. Do the steps from memory. If you don't remember them, go back and look at the steps. Once you have successfully pushed all the files to the repository, they should show up in your `ps811-project` GitHub repository.
