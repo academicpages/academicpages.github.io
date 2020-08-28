@@ -1,5 +1,5 @@
 ---
-title: "Setting Up"
+title: "Lecture 1: Setting Up"
 collection: ps811
 type: "Graduate course"
 venue: "Department of Political Science at the University of Wisconsin-Madison"

@@ -1,5 +1,5 @@
 ---
-title: "Workflow"
+title: "Lecture 2: Workflow"
 collection: ps811
 type: "Graduate course"
 venue: "Department of Political Science at the University of Wisconsin-Madison"
