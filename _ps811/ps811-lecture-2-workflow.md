@@ -3,7 +3,7 @@ title: "Workflow"
 collection: ps811
 type: "Graduate course"
 venue: "Department of Political Science at the University of Wisconsin-Madison"
-permalink: /ps811/ps811-lecture-2-workflow
+permalink: /ps811/lecture2-img/ps811-lecture-2-workflow
 date: 2020-08-27
 ---
 
@@ -82,7 +82,7 @@ In the previous lesson, you took the README.md file from your Github repository,
 
 7. Click the green "Push" up arrow.
 
-    ![repository](https://marcyshieh.github.io/ps811/repository.png)
+    ![repository](https://marcyshieh.github.io/ps811/lecture2-img/repository.png)
 
     *This is how your repository for ps811-project should look like.*
 
@@ -90,13 +90,13 @@ In the previous lesson, you took the README.md file from your Github repository,
 
 9. You should be able to see your `.gitignore`, `ps811-project.Rproj`, `sample.Rmd`, and `sample.pdf` files in your GitHub repository.
 
-    ![files-pane](https://marcyshieh.github.io/ps811/files-pane.png)
+    ![files-pane](https://marcyshieh.github.io/ps811/lecture2-img/files-pane.png)
 
     *Delete files from your files pane.*
 
 10. But you don't really need `sample.Rmd` and `sample.pdf` in your repository. So you want to delete it from the directory on your computer and the repository on GitHub. Go ahead and check the boxes next to `sample.Rmd` and `sample.pdf` in the "File" pane. Then, click "Delete."
 
-    ![git-pane-delete](https://marcyshieh.github.io/ps811/git-pane-delete.png)
+    ![git-pane-delete](https://marcyshieh.github.io/ps811/lecture2-img/git-pane-delete.png)
 
     *Your Git pane should look like this once you delete your files from the directory in your computer.*
 
@@ -106,13 +106,13 @@ In the previous lesson, you took the README.md file from your Github repository,
 
 13. The two files you just deleted---`sample.Rmd` and `sample.pdf`---are now gone. Because you deleted them.
 
-    ![commits](https://marcyshieh.github.io/ps811/commits.png)
+    ![commits](https://marcyshieh.github.io/ps811/lecture2-img/commits.png)
 
     *Click on the [#] commits link to see the history of your repository.*
 
 14. Your files are gone but not forgotten. The great thing about Git is that you can go back and look at the files you deleted and retrieve them if necessary. Go to the counter-clockwise clock icon and click on the "[#] commits" link.
 
-    ![commits-page](https://marcyshieh.github.io/ps811/commits-page.png)
+    ![commits-page](https://marcyshieh.github.io/ps811/lecture2-img/commits-page.png)
 
     *This is the commits page.*
 
@@ -168,7 +168,7 @@ devtools::install_github("crsh/papaja")
 
 1. Go to File > New File > R Markdown.
 
-    ![apa-article](https://marcyshieh.github.io/ps811/addins.png)
+    ![apa-article](https://marcyshieh.github.io/ps811/lecture2-img/addins.png)
 
     *Select APA article (6th edition) from the menu.*
 
@@ -176,7 +176,7 @@ devtools::install_github("crsh/papaja")
 
 3. Click OK.
 
-    ![template](https://marcyshieh.github.io/ps811/template.png)
+    ![template](https://marcyshieh.github.io/ps811/lecture2-img/template.png)
 
     *This is how the template should look like.*
 
@@ -343,7 +343,7 @@ library(citr)
 
 3. Place your cursor on line 80 (under the Methods section).
 
-    ![addins](https://marcyshieh.github.io/ps811/addins.png)
+    ![addins](https://marcyshieh.github.io/ps811/lecture2-img/addins.png)
 
     *Addins button on the far right of the menu.*
 
@@ -351,7 +351,7 @@ library(citr)
 
 5. Go to "Settings" (bottom of pop-up window).
 
-    ![citr-settinngs](https://marcyshieh.github.io/ps811/citr-settings.png)
+    ![citr-settinngs](https://marcyshieh.github.io/ps811/lecture2-img/citr-settings.png)
 
     *Check the settings and make sure they match.*
 
