@@ -10,14 +10,14 @@ collection: portfolio
 
 ## Table of Contents
 <ul>
-<li><a>Introduction</a></li>
-<li><a>Data Wrangling</a></li>
-<li><a>Exploratory Data Analysis</a></li>
-<li><a>Conclusions</a></li>
+<li><a href="#intro">Introduction</a></li>
+<li><a href="#wranging">Data Wrangling</a></li>
+<li><a href="#eda">Exploratory Data Analysis</a></li>
+<li><a href="#conclusions">Conclusions</a></li>
 </ul>
 
-<a></a>
-## Introduction
+<a id="intro"></a>
+##Introduction
 
 In this project I'll be analyzing data associated with information from 10,000 movies collected from the Movie Database (TMDb).In particular this anaysis is focused on distinguishing movies that are popular from year to year, and the genre of movies that incure high revenues. To start first the  necessary packages need to be imported in order to analyze this data set. 
 
@@ -83,7 +83,7 @@ create_download_link(df)
 
 
 
-<a></a>
+<a id="wrangling"></a>
 # Data Wrangling
 
 In this section of the report we will load the data in order to better inspect and understand the information presented. The dataset will also be checked for cleanliness, and then trimmed and cleaned for analysis. Only relevant data will be kept, usefull for any calculations. 
@@ -898,7 +898,7 @@ df.dtypes
 
 The data type for budget and revenue has now been changed to intgers. 
 
-<a></a>
+<a id="eda"></a>
 # Exploratory Data Analysis
 
 &gt; Now that the data has been trimmed and cleaned, the next step is exploration. In this section I will compute statistics and create visualizations with the goal of addressing the research questions posed in the Introduction section. I will look at each variable independently and then follow up by looking at any correlations/relationships between variables. 
@@ -2175,13 +2175,13 @@ The graph starts with a higher frequency and slops down after 50 minutes run tim
 
 One alternative way of depicting the relationship between two categorical variables is through a heat map. Heat maps were introduced earlier as the 2-d version of a histogram; here, we're using them as the 2-d version of a bar chart. 
 
-<a></a>
+<a id="conclusions"></a>
 ## Conclusions
-
+<!--
 &gt; **Tip**: Finally, summarize your findings and the results that have been performed. Make sure that you are clear with regards to the limitations of your exploration. If you haven't done any statistical tests, do not imply any statistical conclusions. And make sure you avoid implying causation from correlation!
 
 &gt; **Tip**: Once you are satisfied with your work, you should save a copy of the report in HTML or PDF form via the **File** &gt; **Download as** submenu. Before exporting your report, check over it to make sure that the flow of the report is complete. You should probably remove all of the "Tip" quotes like this one so that the presentation is as tidy as possible. Congratulations!
-
+-->
 
 ```python
 
