@@ -82,11 +82,23 @@ In the previous lesson, you took the README.md file from your Github repository,
 
 7. Click the green "Push" up arrow.
 
+    ![repository](https://marcyshieh.github.io/ps811/repository.png)
+
+    *This is how your repository for ps811-project should look like.*
+
 8. Go back to GitHub on your browser and click on your ps811-project repository. (Refresh if you never left the repository page.)
 
 9. You should be able to see your `.gitignore`, `ps811-project.Rproj`, `sample.Rmd`, and `sample.pdf` files in your GitHub repository.
 
+    ![files-pane](https://marcyshieh.github.io/ps811/files-pane.png)
+
+    *Delete files from your files pane.*
+
 10. But you don't really need `sample.Rmd` and `sample.pdf` in your repository. So you want to delete it from the directory on your computer and the repository on GitHub. Go ahead and check the boxes next to `sample.Rmd` and `sample.pdf` in the "File" pane. Then, click "Delete."
+
+    ![git-pane-delete](https://marcyshieh.github.io/ps811/git-pane-delete.png)
+
+    *Your Git pane should look like this once you delete your files from the directory in your computer.*
 
 11. Your Git pane should show `sample.Rmd` and `sample.pdf` with little red "D" statuses next to them (D for Delete!). Go ahead and click commit, stage these changes, write a commit message, and push.
 
@@ -94,7 +106,17 @@ In the previous lesson, you took the README.md file from your Github repository,
 
 13. The two files you just deleted---`sample.Rmd` and `sample.pdf`---are now gone. Because you deleted them.
 
-14. Your files are gone but not forgotten. The great thing about Git is that you can go back and look at the files you deleted and retrieve them if necessary. Go to the counter-clockwise clock icon and click on the "[#] commits" link. There, you will see the record of your changes and can click on the icons (as discussed in the previous lesson) to review or retrieve anything you deleted.
+    ![commits](https://marcyshieh.github.io/ps811/commits.png)
+
+    *Click on the [#] commits link to see the history of your repository.*
+
+14. Your files are gone but not forgotten. The great thing about Git is that you can go back and look at the files you deleted and retrieve them if necessary. Go to the counter-clockwise clock icon and click on the "[#] commits" link.
+
+    ![commits-page](https://marcyshieh.github.io/ps811/commits-page.png)
+
+    *This is the commits page.*
+
+15. There, you will see the record of your changes and can click on the icons (as discussed in the previous lesson) to review or retrieve anything you deleted.
 
 # Writing a paper in R Markdown
 
@@ -146,9 +168,17 @@ devtools::install_github("crsh/papaja")
 
 1. Go to File > New File > R Markdown.
 
+    ![apa-article](https://marcyshieh.github.io/ps811/addins.png)
+
+    *Select APA article (6th edition) from the menu.*
+
 2. Select "From Template" from the sidebar and select "APA article (6th edition)" on the list. As you can see, it tells you that this template is from papaja package.
 
 3. Click OK.
+
+    ![template](https://marcyshieh.github.io/ps811/template.png)
+
+    *This is how the template should look like.*
 
 4. The template appears.
 
@@ -313,13 +343,17 @@ library(citr)
 
 3. Place your cursor on line 80 (under the Methods section).
 
-    ![viewer tab](addins.png)
+    ![addins](https://marcyshieh.github.io/ps811/addins.png)
 
-    *HTML file in the viewer tab.*
+    *Addins button on the far right of the menu.*
 
 4. Now click on the Addins button on the top of your RStudio. You should be able to see a section for CITR and selection an option to "Insert Citations."
 
 5. Go to "Settings" (bottom of pop-up window).
+
+    ![citr-settinngs](https://marcyshieh.github.io/ps811/citr-settings.png)
+
+    *Check the settings and make sure they match.*
 
 6. Your parent document should be `document.Rmd` and you should add references to `r-references.bib`. This might be set automatically but if not, make sure these are the fields.
 
