@@ -3,7 +3,7 @@ title: "Workflow"
 collection: ps811
 type: "Graduate course"
 venue: "Department of Political Science at the University of Wisconsin-Madison"
-permalink: /ps811/lecture2-img/ps811-lecture-2-workflow
+permalink: /ps811/ps811-lecture-2-workflow
 date: 2020-08-27
 ---
 
