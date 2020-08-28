@@ -306,37 +306,32 @@ To make sure that you can translate the information from Zotero into information
 
 ```
 install.packages("citr")
-```
-
-2. Load the `citr` package in the console.
-
-```
 library(citr)
 ```
 
-4. Restart RStudio. Reopen your project.
+2. Restart RStudio. Reopen your project.
 
-6. Place your cursor on line 80 (under the Methods section).
+3. Place your cursor on line 80 (under the Methods section).
 
     ![viewer tab](addins.png)
 
     *HTML file in the viewer tab.*
 
-5. Now click on the Addins button on the top of your RStudio. You should be able to see a section for CITR and selection an option to "Insert Citations."
+4. Now click on the Addins button on the top of your RStudio. You should be able to see a section for CITR and selection an option to "Insert Citations."
 
-6. Go to "Settings" (bottom of pop-up window).
+5. Go to "Settings" (bottom of pop-up window).
 
-7. Your parent document should be `document.Rmd` and you should add references to `r-references.bib`. This might be set automatically but if not, make sure these are the fields.
+6. Your parent document should be `document.Rmd` and you should add references to `r-references.bib`. This might be set automatically but if not, make sure these are the fields.
 
-8. Return to "Insert Citations" (bottom of pop-up window).
+7. Return to "Insert Citations" (bottom of pop-up window).
 
-9. Enter (or start entering) the title of the article you dragged into Zotero. It should show up in the search so you can just select it. You have the option to add the citation with parentheses (e.g., (Author 1999)) or without parentheses (e.g., Author 1999).
+8. Enter (or start entering) the title of the article you dragged into Zotero. It should show up in the search so you can just select it. You have the option to add the citation with parentheses (e.g., (Author 1999)) or without parentheses (e.g., Author 1999).
 
-10. Click "Insert Citation."
+9. Click "Insert Citation."
 
-11. Go to your "Files" pane on RStudio and click on the `r-references.bib` file. On line 16, you will see that they created the citation for you.
+10. Go to your "Files" pane on RStudio and click on the `r-references.bib` file. On line 16, you will see that they created the citation for you.
 
-12. Now when you knit the file to a PDF, the citation appears under the Methods section of your PDF!
+11. Now when you knit the file to a PDF, the citation appears under the Methods section of your PDF!
 
     - You may use the Zotero Chrome extension to add any article from your Chrome browser to your Zotero article. 
     
@@ -344,4 +339,4 @@ library(citr)
     
     - citr Addins is admittedly a bit janky and if you would prefer to enter the commands on the console manually, you are welcome to read the [citr R documentation](https://cran.r-project.org/web/packages/citr/citr.pdf). 
     
-13. Finally, push all your files out to your repository. Do the steps from memory. If you don't remember them, go back and look at the steps. Once you have successfully pushed all the files to the repository, they should show up in your `ps811-project` GitHub repository.
+12. Finally, push all your files out to your repository. Do the steps from memory. If you don't remember them, go back and look at the steps. Once you have successfully pushed all the files to the repository, they should show up in your `ps811-project` GitHub repository.
