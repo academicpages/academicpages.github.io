@@ -53,7 +53,9 @@ The goal of this section is for you to be able to create a project in RStudio th
 9. Go back to RStudio and fill out the following:
 
     - Repository URL: The .git URL you copied in Step 8.
+    
     - Project directory name: This will default to whatever you named your Github repository. You can change it, or you can keep it the same for consistency (or, so you won’t be confused).
+    
     - Create project as a subdirectory of: Find the directory on your computer that you want this copy of your Github repository to live in.
   
 10. Check the “Open in New Session” box so you can have your projects (and misc non-project files) in different RStudio windows, but this is not necessary.
