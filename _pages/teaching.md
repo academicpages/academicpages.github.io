@@ -10,7 +10,7 @@ author_profile: true
 **[POLISCI811: Introduction to Statistical Computing](/ps811)**
 * Fall 2020
 * Instructor of record
-* Graduate course (virtual)^[Classes noted as "virtual" were not traditionally online courses, but have been adapted to an online format due to COVID-19.]
+* Graduate course (virtual)[^1]
 
 **Math Camp**
 * Summer 2020
@@ -20,7 +20,7 @@ author_profile: true
 **POLISCI414: The Supreme Court as a Political Institution**
 * Summer 2018, 2019, 2020
 * Co-instructor with Prof. Ryan Owens and grader
-* Underrgraduate course (online)
+* Undergraduate course (online)
 
 **POLISCI373: Introduction to Survey Research**
 * Spring 2020
@@ -31,3 +31,5 @@ author_profile: true
 * Spring 2019 and Fall 2019
 * Teaching assistant for Prof. David Canon
 * Undergraduate course (in-person)
+
+[^1]: Classes noted as "virtual" were not traditionally online courses, but have been adapted to an online format due to COVID-19.
