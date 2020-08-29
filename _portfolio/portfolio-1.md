@@ -28,7 +28,7 @@ From my time in academic sciences I've learnt that before conducting any experie
 ## Why is AI & Machine Learning necessary?
 An article by Claire Jarvis in The Scientist titled [AI Learns from Lung CT Scans to Diagnose COVID-19](https://www.the-scientist.com/news-opinion/ai-learns-from-lung-ct-scans-to-diagnose-covid-19-67625) Highlighted the lack of resources avialable for nasal testing kits. COVID has a high transmision rate and testing within hospitals and local communities are key all over the world in order to slow the rate of transmission and identify hotspots of the disease. 
 
-### Hypothesis: The machine learning prediction model will be able to categorise and identify any lung ct scans that indicate the presence of COVID-19 in 98% of cases. 
+## Hypothesis: The machine learning prediction model will be able to categorise and identify any lung ct scans that indicate the presence of COVID-19 in 98% of cases. 
 
 ## Tasks 
 1. Segmenentation - segmentation of findings can shed light into how severe the situation of the patient is. 
@@ -208,7 +208,7 @@ read_nii(first_scan)
 
 
 
-![png](/images/2020-08-28/covid-lung-scans/output_25_1.png)
+![png](/images/2020-08-27/covid-lung-scans/output_25_1.png)
 
 
 
