@@ -208,7 +208,7 @@ read_nii(first_scan)
 
 
 
-![png](/images/2020-08-27/covid-lung-scans/output_25_1.png)
+![png](/images/2020-08-27-covid-lung-scans/output_25_1.png)
 
 
 
