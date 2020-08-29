@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Santosh Pandey"
-  avatar           : "profile.jpg"
+  avatar           : "profile_picture.jpg"
   bio              : "Computer Engineering PhD student"
-  location         : "Lowell, United States"
-  employer         : University of Massachusetts Lowell.
+  location         : "Jersey City, United States"
+  employer         : "Stevens Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4jtGttIAAAAJ&hl=en"
   email            : "santosh.pandey2222@gmail.com "
