@@ -17,24 +17,26 @@ Education
 
 Work experience
 ======
+* Summer 2020: Research Internship
+  * Brookhaven National Labrotrary 
+  * Duties included: Accelerating machine learning model for hardware simulation. Accelerated model inference upto 78x and made the simulator scalable. 
+  * Supervisor: Dr. Lingda Li
+
 * Summer 2019: Research Internship
   * Lawerence Berkeley National Labrotrary 
-  * Duties included: Worked with Large Scale Solvers group of CRD Division. 
+  * Duties included: Worked on scalable triangle counting on GPUs. Awarded graphchallenge championship in IEEE HPEC 2019. 
   * Supervisor: Dr. Xiaoye Sherry Li
 
-* Spring 2019: Research Assistant
-  * University of Massachusetts, Lowell
+* Spring 2019- Present: Research Assistant
+  * Stevens Institute of Technology
   * Duties included: Machine Learning, Graph Computing, Algorithms and HPC with GPUs
   * Supervisor: Professor Hang Liu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: C/C++, CUDA, Python
+* Designing machine learning model, optimized application for specific hardware
+* Algorithms, Hardware-Software co-design
 
 Publications
 ======
