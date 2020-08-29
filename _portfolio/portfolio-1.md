@@ -5,7 +5,7 @@ approach for triangle counting that avoids the preprocessing step of sorting the
 Slides: https://www.researchgate.net/publication/343971971_trianglecounting_slidespdf
 Source code: https://github.com/concept-inversion/H-INDEX_Triangle_Counting
 
- <img src='/images/500x300.png'>"
+ <img src='/images/tc_algo.jpg'>"
 collection: portfolio
 ---
 
