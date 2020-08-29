@@ -31,4 +31,5 @@ redirect_from:
 * November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted to [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php).
 
 # Academic Services
-* PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020.
+* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020, AAAI 2021, ICLR 2021.
+* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR)
