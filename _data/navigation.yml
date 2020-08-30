@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
+  - title: "About"
+    url: /about/
+
   - title: "Projects"
     url: /portfolio/
 

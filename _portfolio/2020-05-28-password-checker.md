@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 
-Online security is more important than ever. 
+Online security is more important than ever. With the advent of social media, block chain and many other applications used every day the use of passwords has soared over the last 10 years. 
