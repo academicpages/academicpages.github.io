@@ -1,6 +1,6 @@
 ---
 title: "Face mask detector"
-excerpt: "Creating a machine learning model for detecting face masks with Python <br/><img src='/images/2020-08-01-fask-mask/mask.jpg' style="max-width: 500px;">"
+excerpt: "Creating a machine learning model for detecting face masks with Python <br/><img src='/images/2020-08-01-fask-mask/mask.jpg' style='max-width: 500px;'>"
 collection: portfolio
 ---
 # Project: Creating a face mask detectory with tensor Flow, Keras & Python
