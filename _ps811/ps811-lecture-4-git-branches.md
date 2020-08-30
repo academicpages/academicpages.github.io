@@ -240,7 +240,7 @@ I will walk through a command line example with you that shows you how to commit
 
 14. Go back to the Shell. Type in `git branch`. It will show all the branches in your ps811-project repository and the branch you are currently in---the test branch---will be denoted by an asterisk (*). In my operating system, it's showing up as neon green text.
 
-    ![git-checkout-master](https://marcyshieh.github.io/ps811/lecture4-img/git-check-out-master.png)
+    ![git-checkout-master](https://marcyshieh.github.io/ps811/lecture4-img/git-checkout-master.png)
 
     *Go to the master branch.*
 
