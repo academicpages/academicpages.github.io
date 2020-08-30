@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Akshay Rajeev"
   avatar           : "Akshay_Rajeev1.jpeg"
-  bio              : Geologist; 
-                     
-                     Student at Indian Institute of Technology
+  bio              : Geologist; <br>                  
+                     Student at [Indian Institute of Technology](https://www.iitgn.ac.in/)
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
