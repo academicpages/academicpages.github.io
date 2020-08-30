@@ -8,15 +8,15 @@ date: 2020-08-23
 venue: European Conference on Computer Vision (ECCV)
 paperurl:
 citation: 
-youtubeId: m0brrMtrKoc
+youtubeId: 4-4dxSXwly8
 header:
    teaser: 20arXiv_teaser.png
 ---
 
 <a href="https://arxiv.org/pdf/2003.09078.pdf" target="_blank"><b>PDF</b></a>&emsp;
-<a href="https://youtu.be/m0brrMtrKoc" target="_blank"><b>Video</b></a>&emsp;
+<a href="https://youtu.be/4-4dxSXwly8" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_?usp=sharing" target="_blank"><b>Dataset</b></a>&emsp;
-<a href="https://github.com/TimoStoff/event-cnn" target="_blank"><b>Code</b></a>&emsp;
+<a href="https://github.com/TimoStoff/event_cnn_minimal" target="_blank"><b>Code</b></a>&emsp;
 <a href="{{ "/files/2020_eccv_ecnn.txt" | relative_url }}" target="_blank"><b>BibTex</b></a>
 
 ![ecnn20_banner](/images/banners/20arXiv_banner.png){:class="img-responsive"}
