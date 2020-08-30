@@ -37,9 +37,9 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 4. The Git Branch window will pop-up, creating your new branch.
 
-    ![git branches](https://marcyshieh.github.io/ps811/lecture4-img/git-branches.png)
+    ![2 branches](https://marcyshieh.github.io/ps811/lecture4-img/git-pane.png)
 
-    *Git branches on GitHub.*
+    *RStudio Git pane takes you to the "test" branch.*
 
 5. RStudio should have automatically transported you to the new branch on your Git pane.
 
@@ -48,10 +48,6 @@ In this lecture, I will go through how to work with branches in the RStudio envi
     *Git branches on GitHub.*
     
 6. Go to the GitHub of your ps811-project repository. You should be able to see a branch called `test` in the branch dropdown menu. Next to it, GitHub should tell you that there are 2 branches within your project.
-
-    ![2 branches](https://marcyshieh.github.io/ps811/lecture4-img/git-pane.png)
-
-    *RStudio Git pane takes you to the "test" branch.*
 
 # Working in the branch
 
@@ -136,9 +132,9 @@ There may come a time where you might want to delete your branch. How would you 
 
 The great thing about Git is that, even if you accidentally delete a branch, you can always restore it.
 
-    ![create merge](https://marcyshieh.github.io/ps811/lecture4-img/pull-requests.png)
+![create merge](https://marcyshieh.github.io/ps811/lecture4-img/pull-requests.png)
 
-    *CPull requests link.*
+*Pull requests link.*
 
 1. Click on "Pull Requests."
 
