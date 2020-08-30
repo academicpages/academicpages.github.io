@@ -25,14 +25,14 @@ Work experience
   
 Skills
 ======
-* #Linguistics
+* Linguistics
   * Malayalam
   * English
   * Hindi
-* #Programming
+* Programming
   * MATLAB
   * Python
-* #Geographic Information System
+* Geographic Information System
   * ArcGIS
   * QGIS
   * ENVI
