@@ -1,8 +1,11 @@
 ---
 title: "The Iris dataset"
-excerpt: "The iris dataset is quite famouse in the machine learning world. Introduced by the British statistician and biologist Ronald fisher, it quantifies the morphologic variation for three related species of Iris flowers. [Read more..](/portfolio/2020-05-28-iris-dataset/)<br><img src='/images/2020-05-28-iris-dataset/iris&me.png' style='max-width: 500px;' height='300'/><br>"
+excerpt: "The iris dataset is quite famous in the machine learning world. Introduced by the British statistician and biologist Ronald fisher, it quantifies the morphologic variation for three related species of Iris flowers. [Read more..](/portfolio/2020-05-28-iris-dataset/)<br><img src='/images/2020-05-28-iris-dataset/iris&me.png' style='max-width: 500px;' height='300'/><br>"
 collection: portfolio
 ---
+
+Originally published on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris) and available on [kaggle](https://www.kaggle.com/uciml/iris) this dataset was published in 1936. It is commonly used for testing machine learning algorithms and visualisation as well as, an introduction into the world of machine learning. 
+Each row of the table represents an iris flower and includes it's species and dimensions of the botanical identification points showing sepal and petal in centimeters. 
 
 # 1. Import the data
 
