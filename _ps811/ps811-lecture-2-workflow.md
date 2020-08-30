@@ -236,21 +236,21 @@ Of course, you can customize what you do tell your code chunks to do. Here are s
 ```
 </pre>
 
-    * You may combine these options by separating them with a comma.
+* You may combine these options by separating them with a comma.
 
-        <pre>
-        ```{r echo = FALSE, fig.cap = "This is a photo of all my favorite NYC brownstones."}
-        [insert your R code here]
-        ```
-        </pre>
+<pre>
+```{r echo = FALSE, fig.cap = "This is a photo of all my favorite NYC brownstones."}
+[insert your R code here]
+```
+</pre>
         
-    * You may even name your chunks. In this example, the code chunk is named "chart." Note that you do NOT separate the name and the options with a comma.
+* You may even name your chunks. In this example, the code chunk is named "chart." Note that you do NOT separate the name and the options with a comma.
     
-        <pre>
-        ```{r chart echo = FALSE, fig.cap = "This is a photo of all my favorite NYC brownstones."}
-        [insert your R code here]
-        ```
-        </pre>
+<pre>
+```{r nycbrnst echo = FALSE, fig.cap = "This is a photo of all my favorite brownstones."}
+[insert your R code here]
+```
+</pre>
         
 Now that you have an understanding of code chunks, let's explore the code chunks on the R Markdown template we downloaded.
 
