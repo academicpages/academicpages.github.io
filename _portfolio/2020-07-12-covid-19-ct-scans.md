@@ -1,9 +1,10 @@
 ---
-title: "COVID-19 CT scans"
-excerpt: "Using Lung CT scans for prediction modelling<br/><img src='/images/pneumonia.png'>"
+title: "COVID-19 Machine Learning prediction model"
+excerpt: "CT scans plays a supportive role in the diagnosis of COVID-19 and is a key procedure for determining the severity that the patient finds themselves in.
+Models that can find evidence of COVID-19 and/or characterize its findings can play a crucial role in optimizing diagnosis and treatment, especially in areas with a shortage of expert radiologists. This project aims to created a predcition model which correctly identifies the presence of COVID-19 based on a [datset from kaggle](https://www.kaggle.com/andrewmvd/covid19-ct-scans) and using Nibabel image recognition software. [Read more..](portfolio/2020-07-12-covid-19-ct-scanse)<br/><img src='/images/pneumonia.png' style='max-width: 500px;'>"
 collection: portfolio
 ---
-## Project:  Machine Learning Algorithms for COVID19
+## Project:  Machine Learning Algorithms for COVID-19
 > Use of Lung CT scans to create prediction models that indicate the presence of COVID-19 infections
 
 ## Table of Contents
@@ -19,7 +20,7 @@ collection: portfolio
 <a id="#intro"></a>
 ## Introduction
 
-CT scans plays a supportive role in the diagnosis of COVID-19 and is a key procedure for determining the severity that the patient finds himself in.
+CT scans plays a supportive role in the diagnosis of COVID-19 and is a key procedure for determining the severity that the patient finds themselves in.
 Models that can find evidence of COVID-19 and/or characterize its findings can play a crucial role in optimizing diagnosis and treatment, especially in areas with a shortage of expert radiologists.
 This dataset contains 20 CT scans of patients diagnosed with COVID-19 as well as segmentations of lungs and infections made by experts.
 
