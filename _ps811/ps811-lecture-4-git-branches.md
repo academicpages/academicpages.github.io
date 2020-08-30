@@ -7,6 +7,8 @@ permalink: /ps811/ps811-lecture-4-git-branch
 date: 2020-08-27
 ---
 
+In this lecture, you will learn how to create and utilize git branches.
+
 So far, you have been pushing all your files to the master branch. And that's fine when you are working on your own. But not so fine when you are working with other people!
 
 The master branch is the front-facing view of your project. You can think of it as the latest "complete" version of the project, or the most up-to-date version of the project. You may not want all your works in progress to show up in the master branch, especially when decisions are still being made about certain aspects of the project. This becomes more crucial when you are part of a team.
@@ -79,7 +81,7 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 9. Scroll back up to the form.
 
-    ![create merge](https://marcyshieh.github.io/ps811/lecture4-img/create-pull.png)
+    ![create pull](https://marcyshieh.github.io/ps811/lecture4-img/create-pull.png)
 
     *Create pull request.*
 
@@ -95,7 +97,6 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
     *Merge pull request > Create a merge commit*
     
-
 12. This should take you to the "Pull Requests" page. You will see one pull request open. You will see three options: "create a merge commit," "squash and merge," and "rebase and merge."
 
     - Create a merge commit: this is the default option. This merges your changes on the test branch to the master branch.
@@ -155,3 +156,112 @@ The great thing about Git is that, even if you accidentally delete a branch, you
 5. Scroll near the bottom of the page and click on the "Restore branch" button.
 
 6. Go back to the ps811-project main page. You should see "test" restored as a branch.
+
+# Using Git on the command line
+
+There are a wealth of other things Git can do, and you will find a wealth of resources about Git online. Many of the resources you encounter will pertain to using Git with the command line, which is how software developers have traditionally used it. You may want to be a little bit familiarize with that, as many of the help resources tend to be specific to Git command line functions, not RStudio functions.
+
+RStudio provides a good jumping off point, though. The Git pane in RStudio opens a shell that takes you to your exact project. In essence, the shell is a tool that allows you to type in commands that tell the computer what to do. In this case, you can type in all the Git commands you need to do without having to go back and forth in the RStudio and GitHub environments. The [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) provides pretty good guidance on Git commands.
+
+I will walk through a command line example with you that shows you how to commit and push a file into your repository using the command line. You should already be pretty familiar with the process at this point, so none of the inputs and outputs should not be a surprise to you.
+
+1. Go to RStudio.
+
+2. Open the `document.Rmd` file.
+
+3. Make some edits to the file. Whatever you want!!
+
+4. Knit the file to a PDF. See the edits you made in the .Rmd file show up in the PDF.
+
+    ![git-shell](https://marcyshieh.github.io/ps811/lecture4-img/shell.png)
+
+    *Open the Shell through the Git pane on RStudio.*
+
+    ![git-shell-open](https://marcyshieh.github.io/ps811/lecture4-img/shell-open.png)
+
+    *The shell opened. In MacOS, it's called a "Terminal" (featured here). In Windows, it's called a Command Prompt. They're equivalent.*
+
+5. Now open up the Shell.
+
+    ![git-status](https://marcyshieh.github.io/ps811/lecture4-img/git-status.png)
+
+    *Check out the Git status on the shell.*
+
+6. Type `git status` into the command line. You should see information in the shell that mirrors the information in the Git pane.
+
+    ![git-add](https://marcyshieh.github.io/ps811/lecture4-img/git-add.png)
+
+    *Add, i.e., stage all the files.*
+
+7. Type `git add .` into the command line. This tells the computer that you want to stage all the changes (`git add`) in the ps811-project directory (`.` represents the directory you are currently in). The Git pane reflects this change without you having to check all the boxes.
+
+    If you do not see the expected changes on your RStudio Git pane, just click on the RStudio window to make it active again and you will see the changes.
+    
+    ![git-reset](https://marcyshieh.github.io/ps811/lecture4-img/git-reset.png)
+
+    *Reset, i.e., unstage all the files.*
+
+8. Type `git reset .` into the command line. This tells the computer that you want to unstage all the changes in the ps811-project directory. The Git pane reflects this change without you having to uncheck all the boxes.
+
+    ![git-add-doc](https://marcyshieh.github.io/ps811/lecture4-img/git-add-doc.png)
+
+    *Stage the document.pdf file.*
+
+9. Type `git add document.pdf` into the command line. This only stages the `document.pdf` file.
+
+    ![git-commit](https://marcyshieh.github.io/ps811/lecture4-img/git-commit.png)
+
+    *Commit document.pdf and see what happens to the Git pane on RStudio. This means that the test branch (the branch you are working in) has one more commit than the master branch. Which makes sense, because you just made a commit on the test branch.*
+
+10. Type `git commit -m "<your message>"`. This allows you to commit the file and type a commit message. From my example, my commit message is, `pdf changes only`, but you are welcome to write what you want.
+
+    ![git-push](https://marcyshieh.github.io/ps811/lecture4-img/git-push.png)
+
+    *Push the document.pdf file.*
+
+11. Type `git push`. This is akin to pushing the green push arrow icon in RStudio.
+
+12. Go to the ps811-project repository on GitHub. Go to your test branch. You will see that your `document.pdf` has just been updated a few seconds ago.
+
+    ![git-commit-both](https://marcyshieh.github.io/ps811/lecture4-img/git-commit-both.png)
+
+    *Commit the document.Rmd and document.tex files.*
+
+13. Go back to the Shell. You still have `document.Rmd` and `document.tex` in limbo. Commit both files and push.
+
+    ```
+    git add .
+    git commit -m "i am committing both document.Rmd and document.tex right now"
+    git push
+    ```
+    ![git-branch-repo](https://marcyshieh.github.io/ps811/lecture4-img/git-branch-2.png)
+
+    *View all the branches in the repository.*
+
+14. Go back to the Shell. Type in `git branch`. It will show all the branches in your ps811-project repository and the branch you are currently in---the test branch---will be denoted by an asterisk (*). In my operating system, it's showing up as neon green text.
+
+    ![git-checkout-master](https://marcyshieh.github.io/ps811/lecture4-img/git-check-out-master.png)
+
+    *Go to the master branch.*
+
+15. Type in `git checkout master`.
+
+    `git checkout master` is the equivalent of switching from the test branch to the master branch on the GitHub repository.
+
+    ![git-merge-test](https://marcyshieh.github.io/ps811/lecture4-img/git-merge-test.png)
+
+    *Merge the test branch with the master branch.*    
+
+16. Type in `git merge test`. This merges everything from the test branch to the master branch.
+
+    `git merge test` is *kinda* equivalent to opening a pull request and creating a merge on the GitHub repository.
+  
+    ![git-push-final](https://marcyshieh.github.io/ps811/lecture4-img/git-push-final.png)
+
+    *The final push.*
+
+17. Type in `git push`. This pushes the merge out into the master branch of your GitHub repository.
+
+    `git push` at this point is *kinda* equivalent to confirming the merge on the GitHub repository. This is to make sure the two branches (test and master) are even, or the same.
+
+Most of you might not be comfortable with the command line yet and would prefer the point-and-click ease of RStudio, and that's okay! This is *your* workflow and you should choose to work in a way that makes you the most comfortable. You may want to expedite your workflow someday, and this option is here for you if you want it!

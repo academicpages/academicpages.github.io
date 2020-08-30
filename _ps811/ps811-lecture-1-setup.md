@@ -250,6 +250,18 @@ The "History" button allows you to see who last updated the file, when, and whic
 - Clipboard: This copies the [SHA-1](https://en.wikipedia.org/wiki/SHA-1) and puts it on your clipboard. I wouldn't worry too much about it.
 - ID number: This takes you to the gray, red, and green highlights that indicated the changes at the time of the commit.
 - Angle brackets: This takes you to the repository at the time of the commit. A time machine, basically.
+
+### Viewing history in RStudio
+
+You may also view the history in RStudio. 
+
+    ![history-rstudio](https://marcyshieh.github.io/ps811/lecture1-img/git-history-rstudio.png)
+
+    *How to access History in RStudio.*
+
+    ![history-window](https://marcyshieh.github.io/ps811/lecture1-img/git-history-rstudio-window.png)
+
+    *Window featuring Git History in RStudio.*
  
 ### Deleting the Repository
  
