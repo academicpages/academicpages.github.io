@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          :  "dark" #"light" (default), 
+    colorscheme          :  "dark" (default) #"light" (default), 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Akshay Rajeev"
   avatar           : "Akshay_Rajeev1.jpeg"
-  bio              : "Geologist; Student at [Indian Institute of Technology Gandhinagar](https://www.iitgn.ac.in)"
+  bio              : "Geologist; Student at [Indian Institute of Technology Gandhinagar](/https://www.iitgn.ac.in)"
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
