@@ -25,14 +25,14 @@ Work experience
   
 Skills
 ======
-* Linguistics
+* #Linguistics
   * Malayalam
   * English
   * Hindi
-* Programming
+* #Programming
   * MATLAB
   * Python
-* Geographic Information System
+* #Geographic Information System
   * ArcGIS
   * QGIS
   * ENVI
@@ -46,18 +46,14 @@ Laboratory Experience
 
 FELLOWSHIPS / AWARDS
 ======
-2019 Qualified Graduate Aptitude Test in Engineering (Geology & Geophysics)
-2018 Qualified CSIR-UGC National Eligibility Test (Lectureship) in Earth Sciences
-2013 University Scholarship for Integrated M.Sc, Pondicherry University
-2012 107Th Rank in the All-India Level Scholarship Examination conducted by the National Council for Development of Education
-2004 Silver Medal for National Level Science Olympiad  
-  
-Teaching
+* Qualified Graduate Aptitude Test in Engineering (Geology & Geophysics) (2019)
+* Qualified CSIR-UGC National Eligibility Test (Lectureship) in Earth Sciences (2018)
+* University Scholarship for Integrated M.Sc, Pondicherry University (2013)
+* 107Th Rank in the All-India Level Scholarship Examination conducted by the National Council for Development of Education (2012)
+* Silver Medal for National Level Science Olympiad (2004) 
+
+EXTRA-CURRICULAR ACTIVITIES
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*  Member of the editorial board of the wall magazine Horizons that is functional in the department of Earth Sciences, Pondicherry University.
+* Story writing
+* Origami
