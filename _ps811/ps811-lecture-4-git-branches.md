@@ -25,25 +25,25 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 2. Click on the "branch" icon in the Git pane.
 
-        ![git new branch](https://marcyshieh.github.io/ps811/lecture4-img/new-branch.png)
+    ![git new branch](https://marcyshieh.github.io/ps811/lecture4-img/new-branch.png)
 
     *New branch: test.*
 
 3. In the "New Branch" pop-up, name your new branch "test."
 
-        ![git branch pop-up](https://marcyshieh.github.io/ps811/lecture4-img/git-branch.png)
+    ![git branch pop-up](https://marcyshieh.github.io/ps811/lecture4-img/git-branch.png)
 
     *Git Branch pop-up.*
 
 4. The Git Branch window will pop-up, creating your new branch.
 
-        ![git branches](https://marcyshieh.github.io/ps811/lecture4-img/git-branches.png)
+    ![git branches](https://marcyshieh.github.io/ps811/lecture4-img/git-branches.png)
 
     *Git branches on GitHub.*
 
 5. RStudio should have automatically transported you to the new branch on your Git pane.
 
-        ![git branches](https://marcyshieh.github.io/ps811/lecture4-img/git-branches.png)
+    ![git branches](https://marcyshieh.github.io/ps811/lecture4-img/git-branches.png)
 
     *Git branches on GitHub.*
     
@@ -63,7 +63,7 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 4. Commit, write a commit message, and push. Do what you always do to push something to your repository.
 
-        ![recent push](https://marcyshieh.github.io/ps811/lecture4-img/recent-push.png)
+    ![recent push](https://marcyshieh.github.io/ps811/lecture4-img/recent-push.png)
 
     *Recent push to repositorry.*
 
@@ -71,7 +71,7 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 6. Click on the "Compare & pull request" button.
 
-        ![git open pull request](https://marcyshieh.github.io/ps811/lecture4-img/open-pull.png)
+    ![git open pull request](https://marcyshieh.github.io/ps811/lecture4-img/open-pull.png)
 
     *Open pull request.*
 
@@ -83,7 +83,7 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 9. Scroll back up to the form.
 
-        ![create merge](https://marcyshieh.github.io/ps811/lecture4-img/create-pull.png)
+    ![create merge](https://marcyshieh.github.io/ps811/lecture4-img/create-pull.png)
 
     *Create pull request.*
 
@@ -95,7 +95,7 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 11. Click on "Create pull request." (You can leave a comment if you want.)
 
-        ![create merge](https://marcyshieh.github.io/ps811/lecture4-img/create-merge.png)
+    ![create merge](https://marcyshieh.github.io/ps811/lecture4-img/create-merge.png)
 
     *Merge pull request > Create a merge commit*
     
@@ -112,7 +112,7 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 14. Click "Confirm merge."
 
-        ![create pull request success](https://marcyshieh.github.io/ps811/lecture4-img/pull-request-success.png)
+    ![create pull request success](https://marcyshieh.github.io/ps811/lecture4-img/pull-request-success.png)
 
     *Pull request success message.*
 
@@ -126,7 +126,7 @@ There may come a time where you might want to delete your branch. How would you 
 
 1. Click on the "# branches" link. 
 
-        ![your branches](https://marcyshieh.github.io/ps811/lecture4-img/your-branches.png)
+    ![your branches](https://marcyshieh.github.io/ps811/lecture4-img/your-branches.png)
 
     *Your branches.*
 
@@ -136,7 +136,7 @@ There may come a time where you might want to delete your branch. How would you 
 
 The great thing about Git is that, even if you accidentally delete a branch, you can always restore it.
 
-        ![create merge](https://marcyshieh.github.io/ps811/lecture4-img/pull-requests.png)
+    ![create merge](https://marcyshieh.github.io/ps811/lecture4-img/pull-requests.png)
 
     *CPull requests link.*
 
@@ -152,7 +152,7 @@ The great thing about Git is that, even if you accidentally delete a branch, you
 
 4. Click on the "Test" repository.
 
-        ![restore branch](https://marcyshieh.github.io/ps811/lecture4-img/restore-branch.png)
+    ![restore branch](https://marcyshieh.github.io/ps811/lecture4-img/restore-branch.png)
 
     *Restore branch.*
 
