@@ -46,11 +46,11 @@ Laboratory Experience
 
 FELLOWSHIPS / AWARDS
 ======
-**2019** Qualified Graduate Aptitude Test in Engineering (Geology & Geophysics) <br>
-**2018** Qualified CSIR-UGC National Eligibility Test (Lectureship) in Earth Sciences <br>
-**2013** University Scholarship for Integrated M.Sc, Pondicherry University <br>
-**2012** 107Th Rank in the All-India Level Scholarship Examination conducted by the National Council for Development of Education <br>
-**2004** Silver Medal for National Level Science Olympiad 
+* Qualified Graduate Aptitude Test in Engineering (Geology & Geophysics)-**2019** <br>
+* Qualified CSIR-UGC National Eligibility Test (Lectureship) in Earth Sciences-**2018** <br>
+* University Scholarship for Integrated M.Sc, Pondicherry University-**2013** <br>
+* 107Th Rank in the All-India Level Scholarship Examination conducted by the National Council for Development of Education-**2012** <br>
+* Silver Medal for National Level Science Olympiad-**2004** 
 
 EXTRA-CURRICULAR ACTIVITIES
 ======
