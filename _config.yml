@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "School of mathematics and statistics, Henan University, master supervisor, associate professor;"
   location         : "Kai Feng"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : ""
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "zhifengpang@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
