@@ -1,9 +1,7 @@
 ---
 title: "Usando Ansible para instalar pacotes do Samba e Python para validar tudo."
 collection: teaching
-type: "Undergraduate course"
 permalink: /projects/2020-samba-project
-venue: "University 1, Department"
 date: 2020-07-01
 location: "Brasil"
 ---
