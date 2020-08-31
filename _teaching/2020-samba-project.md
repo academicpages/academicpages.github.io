@@ -8,7 +8,7 @@ date: 2020-07-01
 location: "Brasil"
 ---
 
-O repositório/projeto foi criado para aprender e estudar mais sobre IaC, e processos de testes automatizado.
+O repositório/projeto foi criado para aprender e estudar mais sobre IaC, aleḿ dos processos de testes automatizado.
 
 ## Obejtivo: ##
 Utilizar Ansible para instalar pacotes do Samba e Python para validar/Testar tudo.
