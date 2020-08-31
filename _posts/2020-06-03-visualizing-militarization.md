@@ -12,6 +12,7 @@ excerpt_separator: <!--more-->
 tags:
   - data
   - policing
+  - visualization
   - github
 ---
 

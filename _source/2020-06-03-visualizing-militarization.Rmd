@@ -11,6 +11,9 @@ permalink: /posts/2020/06/visualizing-militarization/
 excerpt_separator: <!--more-->
 tags:
   - data
+  - policing
+  - visualization
+  - github
 ---
 
 ```{r setup, include=FALSE}
