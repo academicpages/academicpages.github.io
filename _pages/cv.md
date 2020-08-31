@@ -54,6 +54,6 @@ FELLOWSHIPS / AWARDS
 
 EXTRA-CURRICULAR ACTIVITIES
 ======
-* Member of the editorial board of the wall magazine Horizons that is functional in the department of Earth Sciences, Pondicherry University.
+* Member of the editorial board of the wall magazine *Horizons* that is functional in the Department of Earth Sciences, Pondicherry University.
 * Story writing
 * Origami
