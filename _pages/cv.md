@@ -18,21 +18,21 @@ Education
 
 Work experience
 ======
-* **Summer 2016: Intern
+* **Summer 2016: Intern**
   * Indian Institute of Technology Bombay
   * Project: Hydrothermal Alteration and Pseudomorphic Replacement Textures of Metabasalts from the Nellore Schist Belt, Southeastern India.
   * Supervisor: Dr. Prabhakar Naraga
   
 Skills
 ======
-* **Linguistics
+* **Linguistics**
   * Malayalam
   * English
   * Hindi
-* **Programming
+* **Programming**
   * MATLAB
   * Python
-* **Geographic Information System
+* **Geographic Information System**
   * ArcGIS
   * QGIS
   * ENVI
