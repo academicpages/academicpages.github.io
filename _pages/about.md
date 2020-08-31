@@ -17,6 +17,8 @@ My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 ### Research Highlights:
 
+- [2020/08/30] Began serving as a reviewer for ICLR 2021.
+
 - [2020/08/14] Began serving as a reviewer for AAAI 2021.
 
 - [2020/06/08] Started intership at Microsoft, supervised by [Jingjing Liu](https://www.linkedin.com/in/jingjing-liu-65703431/).
