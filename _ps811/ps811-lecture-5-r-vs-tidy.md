@@ -31,9 +31,9 @@ Some of these exercises were inspired by [Mike DeCrescenzo's R basics materials]
 
 2. Go to File > New File > R Script.
 
-3. A new Untitled1 R Script tab will open. Go to File > Save As. Name it `lecture5-practice.R`.
+3. A new Untitled1 R Script tab will open. Go to File > Save As. Name it `lecture5-exercise-basic.R`.
 
-*Use R as a calculator*
+## Use R as a calculator
 
 4. Use R to add/subtract/multiply/divide. You don't *need* the spaces between each command, but it is easier to read if you do.
 
@@ -76,14 +76,14 @@ Some of these exercises were inspired by [Mike DeCrescenzo's R basics materials]
 
 If you ever want to figure out how to calculate something in R, just Google it or check out this short [Quick-R Operators](https://www.statmethods.net/management/operators.html) list for commonly used arithmetic and logical operators.
 
-*Creating objects*
+## Creating objects
 
 9. You want to put `8 + 1` into an object called `nine`.
 
     ```
     nine <- 8 + 1
     ```
-10. See what happens when you type the name of the object, `six`. You get an output of `9`.
+10. See what happens when you type the name of the object, `nine`. You get an output of `9`.
 
 11. You can also do math with the object. Type in `sqrt(nine)`. You get an output of `3`.
 
@@ -101,13 +101,13 @@ If you ever want to figure out how to calculate something in R, just Google it o
     hello <- "hi, nice to meet you, what is your name"
     hello
     the_answer <- 8 + 1
-    then_answer
+    the_answer
     nine <- 50 + 4
-    four # the answer does not have to be four
+    nine # the numeric value does not have to be nine
     ```
-    Output should be "hi, nice to meet you, what is your name," 4, and 5, respectively.
+    Output should be "hi, nice to meet you, what is your name," 9, and 54, respectively.
     
-*Creating vectors*
+## Creating vectors
 
 14. Vectors can be a bunch of different values.
 
@@ -134,8 +134,9 @@ If you ever want to figure out how to calculate something in R, just Google it o
     ```
     vector_example %*% results
     ```
+    Output should be 20710.
     
-18. You can plug in the vectorrs into various functions.
+18. You can plug in the vectors into various functions.
 
     ```
     mean(vector_example)
@@ -154,7 +155,9 @@ If you ever want to figure out how to calculate something in R, just Google it o
 
 2. Consider the `here` package. The `here` package allows anyone to replicate your work without being in your exact workspace and directory.
 
-3. Paste the following code into your .R file. Highlight all the lines and click "Run" on RStudio OR command+return on MacOS or ctrl+enter on Windows.
+3. Open a new file. Name it `lecture5-exercise-data.R`.
+
+4. Paste the following code into line 1 of your .R file. Highlight all the lines and click "Run" on RStudio OR command+return on MacOS or ctrl+enter on Windows.
 
     ```
     # install the here package
@@ -170,11 +173,11 @@ If you ever want to figure out how to calculate something in R, just Google it o
     
     # as you have probably guessed by now, the "#"" denotes comments and R leaves them alone when you run chunks of code
     ```
-4. Download the `movie_metadata.csv` dataset. This [dataset is from Kaggle](https://www.kaggle.com/roshansharma/movies-meta-data) and contains metadata about movies from [IMDb](https://imdb.com). 
+5. Download the `movie_metadata.csv` dataset. This [dataset is from Kaggle](https://www.kaggle.com/roshansharma/movies-meta-data) and contains metadata about movies from [IMDb](https://imdb.com). 
 
-5. Move the `movie_metadata.csv` from the download location to your ps811-exercises directory.
+6. Move the `movie_metadata.csv` from the download location to your ps811-exercises directory.
 
-6. Go to your .R file. Load the CSV file into your R environment.
+7. Go to your .R file. Load the CSV file into your R environment.
 
     ```
     movie_metadata <- read.csv(here("movie_metadata.csv"))
@@ -187,7 +190,7 @@ Much of the lesson here is indebted to [Hugo Taraves](https://tavareshugo.github
 
 *Prerequisites* You need to install the `dplyr` and `tidyr` packagess, and load them. Use the `install.packages()` and `library()` functions to do this. You need these packages to use tidyverse functions.
 
-    Always load your packages on the top of the .R file.
+* Always load your packages on the top of the .R file.
 
 Take a look at the variables in the dataset using `names(movie_metadata)`.
 
@@ -224,6 +227,9 @@ This is how these commands work in base R.
     movie_metadata_100$actor_1_facebook_likes +
     movie_metadata_100$actor_2_facebook_likes +
     movie_metadata_100$actor_3_facebook_likes
+    
+    # view the dataset then scroll to the last column on the right to see the column you have just created!
+    View(movie_metadata_100)
     ```
 
 4. Filter rows in dataset.
@@ -237,9 +243,8 @@ This is how these commands work in base R.
 5. Arrange rows.
 
     ```
-    # descending order of movie title followed by
-    ascending order of budget
-    iris[order(rev(movie_metadata_100$movie_title),
+    # descending order of movie title followed by ascending order of budget
+    movie_metadata_100[order(rev(movie_metadata_100$movie_title),
     movie_metadata_100$budget) , ]
     ```
 
@@ -247,10 +252,14 @@ This is how these commands work in base R.
 
     ```
     # Create a dataframe with mean and standard deviation information
-    data.frame(budget.mean = mean(movie_metadata_100$budget),
-    budget.sd = sd(movie_metadata_100$budget),
-    gross.mean = mean(movie_metadata_100$gross),
-    gross.sd = sd(movie_metadata_100$gross))
+    # na.rm = TRUE removes all the NAs from the calculations
+    # in this case, if you include the NAs, it will yield a result of NA
+    # e.g., mean(movie_metadata_100$budget) # not what you want!
+    
+    data.frame(budget.mean = mean(movie_metadata_100$budget, na.rm = TRUE),
+    budget.sd = sd(movie_metadata_100$budget, na.rm = TRUE),
+    gross.mean = mean(movie_metadata_100$gross, na.rm = TRUE),
+    gross.sd = sd(movie_metadata_100$gross, na.rm = TRUE))
     ```
 
 7. Group observations.
@@ -260,33 +269,11 @@ This is how these commands work in base R.
      ```
      # Using aggregate
      aggregate(formula = cbind(budget, gross) ~ country + genres, 
-          data = movie_metadata_100$gross, 
+          data = movie_metadata_100, 
           FUN = function(x){
             c(mean = mean(x), sd = sd(x))
           })
      ```
-
-    * Create new columns based on calculations done within groups.
-    
-    ```
-    # centering the budget and subtracting the mean within the country
-    movie_metadata_100$budget_centered <- ave(movie_metadata_100$budget,
-    movie_metadata_100$country, FUN = function(x) x - mean(x))
-    ```
-    
-    * Filter based on conditions
-    
-    ```
-    # Navigate the data frame via groups.
-    max_budget <- by(movie_metadata_100, 
-                    INDICES = movie_metadata_100$country, 
-                    FUN = function(x){
-                      x[x$budget == max(x$budget), ] 
-                    })
-
-    # Turn the results into a data frame
-    do.call(rbind, max_budget)
-    ```
 
 ## Tidyverse
 
@@ -308,6 +295,7 @@ You know how to do it in base R, so now you can see how it works in Tidyverse!
     # or you can identify the variables by their column index/number
     select(movie_metadata_100tidy, 2, 12)
     ```
+    
     If you want to turn this selection into an object, just put `movie_metadata_100tidy_select<-` (or whatever would make sense for you) in front of the command.
 
 3. Create a new variable in the dataset.
@@ -331,13 +319,13 @@ You know how to do it in base R, so now you can see how it works in Tidyverse!
     # you want to extract the observations where there is a IMDB score of 5+ and 2 number of faces in the poster
     filter(movie_metadata_100tidy, imdb_score > 5 & facenumber_in_poster==2)
     ```
-    You may also turn this filtered dataset into an object if you would like!
+    
+    You may also turn this filtered dataset into an object if you want!
 
 5. Arrange rows.
 
     ```
-    # descending order of movie title followed by
-    ascending order of budget
+    # descending order of movie title followed by ascending order of budget
     arrange(movie_metadata_100tidy, desc(movie_title), budget) 
     ```
 
@@ -346,10 +334,10 @@ You know how to do it in base R, so now you can see how it works in Tidyverse!
     ```
     # Create a dataframe with mean and standard deviation information
     summarise(movie_metadata_100tidy,
-              budget.mean = mean(budget),
-              budget.sd = sd(budget),
-              gross.mean = mean(gross),
-              gross.sd = sd(gross)
+              budget.mean = mean(budget, na.rm = TRUE),
+              budget.sd = sd(budget, na.rm = TRUE),
+              gross.mean = mean(gross, na.rm = TRUE),
+              gross.sd = sd(gross, na.rm = TRUE))
     ```
 
 7. Group observations.
@@ -367,23 +355,3 @@ You know how to do it in base R, so now you can see how it works in Tidyverse!
             
       # ungroup() removes any grouping changes you make from analyses beyond this section
      ```
-
-    * Create new columns based on calculations done within groups.
-    
-    ```
-    # centering the budget and subtracting the mean within the country
-    
-    movie_metadata_100tidy %>% 
-    group_by(country) %>% 
-    mutate(budget.centered = budget - mean(budget)) %>% 
-    ungroup() # remove any groupings from downstream analysis
-    ```
-    
-    * Filter based on conditions
-    
-    ```
-    movie_metadata_100tidy %>% 
-    group_by(country) %>% 
-    filter(budget == max(budget))
-    ```
-    
