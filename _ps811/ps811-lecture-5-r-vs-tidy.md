@@ -185,7 +185,11 @@ If you ever want to figure out how to calculate something in R, just Google it o
 
 Much of the lesson here is indebted to [Hugo Taraves](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html), who wrote a nifty guide to syntax equivalents of base R vs. Tidyverse.
 
-*Prerequisites* You need to install the `dplyr` and `tidyr` packagess, and load them. Use the `install.packages()` and `library()` functions to do it. Then take a look at the variables in the dataset using `names(movie_metadata)`.
+*Prerequisites* You need to install the `dplyr` and `tidyr` packagess, and load them. Use the `install.packages()` and `library()` functions to do this. You need these packages to use tidyverse functions.
+
+    Always load your packages on the top of the .R file.
+
+Take a look at the variables in the dataset using `names(movie_metadata)`.
 
 We are going to first go through everything in base R, then repeat everything in Tidyverse. Hopefully this gives you a sense of how base R and Tidyverse work.
 
@@ -202,7 +206,7 @@ This is how these commands work in base R.
     - Rows are equivalent to observations.
     - Columns are equivalent to variables.
 
-2. Extract existing variables in dataset.
+2. Look at the existing variables in dataset.
 
     ```
     # you can identify the variables by name
@@ -222,7 +226,7 @@ This is how these commands work in base R.
     movie_metadata_100$actor_3_facebook_likes
     ```
 
-4. Extract rows in dataset.
+4. Filter rows in dataset.
 
     ```
     # you want to extract the observations where there is a IMDB score of 5+ and 2 number of faces in the poster
@@ -284,80 +288,68 @@ This is how these commands work in base R.
     do.call(rbind, max_budget)
     ```
 
-8. Change the shape of the data.
-
-    This might make more sense if you remind yourself how the data looks like.
-    
-    ```
-    View(movie_metadata_100)
-    ```
-
-    * Transpose
-
-    ```
-    movie_metadata_100_transpose <- t(movie_metadata_100)
-    ````
-    
 ## Tidyverse
 
 You know how to do it in base R, so now you can see how it works in Tidyverse!
 
-EVERYTHING IS STILL IN R RIGHT NOW. I NEED A BREAK.
-
 1. Extract the first 100 rows.
 
     ```
-    movie_metadata_100 <- movie_metadata[1:100, ]
+    movie_metadata_100tidy <- movie_metadata %>% top_n(100)
     ```
-    
-    - Rows are equivalent to observations.
-    - Columns are equivalent to variables.
+    As you have probably noticed, Tidyverse uses `%>%`, which are called "pipes." In essence, you are calling your dataset, and piping functions into it.
 
-2. Extract existing variables in dataset.
+2. Look at existing variables in dataset.
 
     ```
     # you can identify the variables by name
-    movie_metadata_100[, c("director_name", "movie_title")] 
+    select(movie_metadata_100tidy, director_name, movie_title)
     
     # or you can identify the variables by their column index/number
-    movie_metadata_100[, c(2, 12)]
+    select(movie_metadata_100tidy, 2, 12)
     ```
+    If you want to turn this selection into an object, just put `movie_metadata_100tidy_select<-` (or whatever would make sense for you) in front of the command.
 
 3. Create a new variable in the dataset.
 
     ```
     # you want to get the sum of facebook likes for the first 3 actors listed in the movie
-    movie_metadata_100$main_actors_fb_popularity <-
-    movie_metadata_100$actor_1_facebook_likes +
-    movie_metadata_100$actor_2_facebook_likes +
-    movie_metadata_100$actor_3_facebook_likes
+    
+    movie_metadata_100tidy <- mutate(movie_metadata_100tidy,
+    main_actors_fb_popularity = actor_1_facebook_likes +
+    actor_2_facebook_likes + actor_3_facebook_likes)
+    
+    # you should have created a brand new variable!
+    View(movie_metadata_100tidy)
     ```
+    
+    Notice that you don't have to refer to the data set every time you call a variable. That's one of the advantages of Tidyverse!
 
-4. Extract rows in dataset.
+4. Filter rows in dataset.
 
     ```
     # you want to extract the observations where there is a IMDB score of 5+ and 2 number of faces in the poster
-    subset(movie_metadata_100, imdb_score > 5 &
-    facenumber_in_poster==2)
+    filter(movie_metadata_100tidy, imdb_score > 5 & facenumber_in_poster==2)
     ```
+    You may also turn this filtered dataset into an object if you would like!
 
 5. Arrange rows.
 
     ```
     # descending order of movie title followed by
     ascending order of budget
-    iris[order(rev(movie_metadata_100$movie_title),
-    movie_metadata_100$budget) , ]
+    arrange(movie_metadata_100tidy, desc(movie_title), budget) 
     ```
 
 6. Summarize observations.
 
     ```
     # Create a dataframe with mean and standard deviation information
-    data.frame(budget.mean = mean(movie_metadata_100$budget),
-    budget.sd = sd(movie_metadata_100$budget),
-    gross.mean = mean(movie_metadata_100$gross),
-    gross.sd = sd(movie_metadata_100$gross))
+    summarise(movie_metadata_100tidy,
+              budget.mean = mean(budget),
+              budget.sd = sd(budget),
+              gross.mean = mean(gross),
+              gross.sd = sd(gross)
     ```
 
 7. Group observations.
@@ -365,47 +357,33 @@ EVERYTHING IS STILL IN R RIGHT NOW. I NEED A BREAK.
     * Summarize rows within groups
 
      ```
-     # Using aggregate
-     aggregate(formula = cbind(budget, gross) ~ country + genres, 
-          data = movie_metadata_100$gross, 
-          FUN = function(x){
-            c(mean = mean(x), sd = sd(x))
-          })
+     movie_metadata_100tidy %>% 
+          group_by(country, genres) %>% 
+          summarise(budget.mean = mean(budget),
+            budget.sd = sd(budget),
+            gross.mean = mean(gross),
+            gross.sd = sd(gross)) %>% 
+            ungroup()
+            
+      # ungroup() removes any grouping changes you make from analyses beyond this section
      ```
 
     * Create new columns based on calculations done within groups.
     
     ```
     # centering the budget and subtracting the mean within the country
-    movie_metadata_100$budget_centered <- ave(movie_metadata_100$budget,
-    movie_metadata_100$country, FUN = function(x) x - mean(x))
+    
+    movie_metadata_100tidy %>% 
+    group_by(country) %>% 
+    mutate(budget.centered = budget - mean(budget)) %>% 
+    ungroup() # remove any groupings from downstream analysis
     ```
     
     * Filter based on conditions
     
     ```
-    # Navigate the data frame via groups.
-    max_budget <- by(movie_metadata_100, 
-                    INDICES = movie_metadata_100$country, 
-                    FUN = function(x){
-                      x[x$budget == max(x$budget), ] 
-                    })
-
-    # Turn the results into a data frame
-    do.call(rbind, max_budget)
+    movie_metadata_100tidy %>% 
+    group_by(country) %>% 
+    filter(budget == max(budget))
     ```
-
-8. Change the shape of the data.
-
-    This might make more sense if you remind yourself how the data looks like.
-    
-    ```
-    View(movie_metadata_100)
-    ```
-
-    * Transpose
-
-    ```
-    movie_metadata_100_transpose <- t(movie_metadata_100)
-    ````
     
