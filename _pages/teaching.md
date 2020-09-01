@@ -34,7 +34,7 @@ You can download [Lab2b.rmd](https://yongjunzhang.com/files/tutorial/Lab2b.rmd) 
 
 > 1. You need to submit a script showing you are able to run the selenium and actually gather the data
 
-> 2. You need to scrape the original news articles using "blm-data.tsv" dataset (it has source urls) and make a structured textual data set.
+> 2. You need to scrape the original news articles using "blm-data.tsv" dataset (it has source urls) and make a structured textual data set. (OPTIONAL)
 
 > If you want to earn these extra credits, you need to turn in your scripts and dataset before Sept 8th, 6:00 PM
 

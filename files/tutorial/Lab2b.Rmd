@@ -1,0 +1,367 @@
+---
+title: "Lab2 Part2-Text Analysis 101 Using R"
+author: "Yongjun Zhang, Ph.D."
+institute: "Department of Sociology and IACS, Stony Brook Unversity"
+date: "8/17/2020"
+output: html_document
+---
+<style type="text/css">
+body,td{ /* Normal  */
+      font-size: 16px;
+  }
+code.r{ /* Code block */
+    font-size: 16px;
+}
+pre {
+  font-size: 16px
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Learning Objects
+
+This tutorial aims to introduce basic ways to preprocess data before we model data using R. We will cover:
+
+1. Basic intro to R 
+
+2. How to read, clean, and transform text data
+
+4. How to preprocess data such as tokenization, removing stop words, lemmatization, stemming, and representing words in R
+
+5. How to get basic statistics from texts using lexicon methods
+
+In the first part of python tutorial, we have covered some basic things about how to read and save files in Python, how to recognize regEx, and how to use selenium to do webscraping. 
+
+We were able to successfully scrape the BLM protest events dataset. You can access the dataset <https://yongjunzhang.com/files/tutorial/blm-data.tsv>
+
+**Here is our lab training problem set:**
+
+>1. You need to submit a script showing you are able to run the selenium and actually gather the data
+>2. You need to scrape the original news articles using "blm-data.tsv" dataset (it has source urls) and make a structured textual data set.
+>3. If you want to earn these extra credits, you need to turn in your scripts and dataset before Sept 8th, 6:00 PM via email.
+
+## Lab 2 Part 2. Basic Intro to R and Preprossing Textual Data with R
+
+#### We need to load some packages for use
+
+```{r}
+if (!requireNamespace("pacman"))
+  install.packages('pacman')
+library(pacman)
+packages<-c("tidyverse","tidytext","rvest", "RSelenium",
+            "tm","haven","readxl","here","knitr","stopwords")
+p_load(packages,character.only = TRUE)
+```
+
+#### Load blm-data tsv file
+
+R tidyverse package provides a series of useful data wrangling tools. You can 
+check it here <https://www.tidyverse.org/>. The tidyverse package installs a number of other packages for reading data:
+
+1. **DBI** for relational databases. You’ll need to pair DBI with a database specific backends like RSQLite, RMariaDB, RPostgres, or odbc. Learn more at https://db.rstudio.com.
+
+2. **haven** for SPSS, Stata, and SAS data.
+
+3. **httr** for web APIs.
+
+4. **readxl** for .xls and .xlsx sheets.
+
+5. **rvest** for web scraping.
+
+6. **jsonlite** for JSON. (Maintained by Jeroen Ooms.)
+
+7. **xml2** for XML.
+
+```{r}
+# read tsv file using read_csv
+data <- read_tsv(url("https://yongjunzhang.com/files/tutorial/blm-data.tsv"))
+```
+
+```{r}
+# Show a table for visual check
+knitr::kable(data[1:3,],cap="Black Lives Matter Protest (elephrame.com)")
+```
+
+#### Clean blm-data
+
+Let us say, we need to create variables like state and city; we also want to clean some variables like subjects, description, etc.
+
+```{r}
+data <- data %>% 
+  # split location
+  separate(protest_location,c("city","state"),sep = ",",remove = T) %>% 
+  # split protest start time
+  separate(protest_start,c("day","date","year"),sep = ",",remove = T) %>%
+  # clean subjects and participants
+  mutate(
+    protest_subject = str_replace(protest_subject,"Subject\\(s\\): ",""),
+    protest_participants = str_replace(protest_participants,"Participant\\(s\\): ",""),
+    protest_time = str_replace(protest_time,"Time: ",""),
+    protest_description = str_replace(protest_description,"Description: ",""),
+    protest_urls = str_replace(protest_urls,"Source\\(s\\):","")
+    )
+
+```
+
+```{r}
+# Show a table for visual check
+knitr::kable(data[1:3,],cap="Black Lives Matter Protest (elephrame.com)")
+```
+
+### Using Tidytest package to process some variables
+
+There are a variety of processing text packages. Today we briefly introduce tidytext package. You can check here<https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html>; This tidytext toturial heavily relies on Julia Silge and David Robinson's work. You can also check their book Text Mining with R here <https://www.tidytextmining.com/>
+
+```{r}
+library(tidytext)
+
+# Let us say we are interested in protest description. We need to restructure it as one-token-per-row format. The unnest_tokens function is a way to convert a dataframe with a text column to be one-token-per-row:
+
+tidy_data <- data %>%
+  # protest_urls is messay, let us get rid of it first
+  select(-protest_urls) %>% 
+  # one token per row. This function uses the tokenizers package to separate each line into words. The default tokenizing is for words, but other options include characters, ngrams, sentences, lines, paragraphs, or separation around a regex pattern.
+  unnest_tokens(word, protest_description) %>% 
+  # remove stop words
+  anti_join(tidytext::get_stopwords("en",source="snowball")) %>% 
+  # you can also add your own stop words if you want
+  # check here to see tibble data structure <https://tibble.tidyverse.org/>
+  anti_join(tibble(word=c("no","details")),by="word")
+
+
+knitr::kable(tidy_data[1:10,],cap="Black Lives Matter Protest (elephrame.com)")
+  
+```
+```{r}
+# let us see what stopwords we are excluding
+stopwords_d <- tidytext::get_stopwords()
+stopwords_d$word
+```
+
+
+## Part 3. Basic Analysis of Textual Data
+
+### Let us get a count vector for protest description, like what are the most frequent words or bi-grams
+
+```{r}
+tidy_data %>% 
+  count(word, sort = TRUE) 
+```
+
+We can further plot this! I don't like wordcloud, so I just do a simple bar plot.
+
+```{r}
+library(ggplot2)
+
+tidy_data %>%
+  count(word, sort = TRUE) %>%
+  filter(n > 100) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n)) +
+  geom_col() +
+  xlab(NULL) +
+  coord_flip()
+```
+
+**let us get bigram**
+
+```{r}
+ data %>%
+  select(-protest_urls) %>% 
+  unnest_tokens(bigram, protest_description,token = "ngrams", n = 2) %>%
+  count(bigram,sort = TRUE)
+```
+
+Note you can use joining functions to filter these words or ngrams... such as inner_join, anti_join, semi_join, etc.  
+
+**We can also use tidytext to build document-term matrix or tf-idf. We will cover this next time when we talk about topic modeling.**
+
+> In the lecture, we briefly mentioned how we represent text in NLP. In Text as Data, the authors mainly summarized the approach of "bag of words" (CoW). It is just one approach to quantify what a document is about. How important a word may be in your document or in the entire corpus (collection of documents)?
+
+> One measure of the importance of a word is its term frequency (tf). It captures the frequency of a word in a document. There are very frequent words in a document but may not be important; in English, some stopwords, like “the”, “is”, “of”, "and", etc. So we need to remove them before analysis based on your research. But for other scholar's that might be of their interest. 
+
+> Another way is to look at a term’s inverse document frequency (idf), which decreases the weight for commonly used words and increases the weight for words that are not used very much in a collection of documents. 
+
+> This can be combined with term frequency to calculate a term’s tf-idf (the two quantities multiplied together), the frequency of a term adjusted for how rarely it is used.
+
+You can check text mining with R book here <https://www.tidytextmining.com/tfidf.html#tfidf>
+
+```{r}
+tidy_words <- tidy_data %>%
+  count(protest_id, word, sort = TRUE)
+
+tidy_words
+```
+
+> The idea of tf-idf is to find the important words for the content of each document by decreasing the weight for commonly used words and increasing the weight for words that are not used very much in a collection or corpus of documents.
+
+> The bind_tf_idf function in the tidytext package takes a tidy text dataset as input with one row per token (term), per document. One column (word here) contains the terms/tokens, one column contains the documents (book in this case), and the last necessary column contains the counts, how many times each document contains each term.
+
+```{r}
+tidy_words <- tidy_words %>%
+  bind_tf_idf(word, protest_id, n)
+
+tidy_words
+```
+
+Let us take a look at those relatively important words
+
+```{r}
+tidy_words %>%
+  arrange(desc(tf_idf)) %>%
+  mutate(word = factor(word, levels = rev(unique(word)))) %>% 
+  group_by(protest_id) %>% 
+  filter(protest_id%in%sample(2000:5000, 4, replace=F)) %>% 
+  top_n(10) %>% 
+  ungroup() %>%
+  ggplot(aes(word, tf_idf, fill = protest_id)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = NULL, y = "tf-idf") +
+  facet_wrap(~protest_id, ncol = 2, scales = "free") +
+  coord_flip()
+```
+
+
+
+## Part 4. Use Stanford CoreNLP Package to do basic text processing
+
+Check here for CORENLP<https://stanfordnlp.github.io/CoreNLP/other-languages.html>
+
+> CoreNLP enables users to derive linguistic annotations for text, including token and sentence boundaries, parts of speech, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations. CoreNLP currently supports 6 languages, including Arabic, Chinese, English, French, German, and Spanish. <https://stanfordnlp.github.io/CoreNLP/index.html>
+
+Let us say we want to go deeper about BLM data. The BLM-DATA.TSV provides the original protest urls (news articles). We want to process those original articles to get more info.
+
+### Let us use httr or rvest to scrape a couple of news articles for example.
+
+```{r}
+# create a dataset having urls, year, and ids
+urls <- data %>% 
+  select(protest_id,state,date,protest_urls) %>% 
+  # let us extract all protest_urls
+  mutate(protest_urls=str_replace_all(protest_urls,"^##|^#","")) %>% 
+  separate_rows(protest_urls,sep="##") %>% 
+  filter(str_detect(protest_urls,"^http"))
+
+# only keep one url for each protest
+urls1 <- urls %>% 
+  distinct(protest_id,.keep_all = T)
+
+# let us take a look at the data
+knitr::kable(urls1[1:5,],cap="Black Lives Matter Protest (elephrame.com)")
+```
+
+Use httr and rvest packages to get access to articles. Note that a lot of news articles need speciall subsription to get access such as facebook, wp, etc.
+
+rvest and httr have a lot of functions. here is an overview (credit to GITHUB:yusuzech)
+
+```{r, out.width="100%",out.height="50%",fig.align='center', fig.cap=''}
+knitr::include_graphics('rvest_httr.png')
+```
+
+
+```{r}
+library(rvest)
+library(httr)
+url <- urls1$protest_urls[4]
+url
+
+# rvest provides two ways of making request: read_html() and html_session() 
+# read_html() can parse a HTML file or an url into xml document. 
+# html_session() is built on GET() from httr package.
+
+#making GET request andparse website into xml document
+pagesource <- read_html(url)
+
+#using html_session which creates a session and accept httr methods
+my_session <- html_session(url)
+
+#html_session is built upon httr, you can access response with a session
+response <- my_session$response
+
+#retrieve content as raw
+content_raw <- content(my_session$response,as = "raw")
+#retrieve content as text
+content_text <- content(my_session$response,as = "text")
+#retrieve content as parsed(parsed automatically)
+content_parsed <- content(my_session$response,as = "parsed")
+
+```
+> Obviously it returns a bunch of messy stuff; You need to use RSelenium to scrape these dynamic websites; we have learnt basic Selenium stuff in python.
+> You can read this turorial for more details <https://ropensci.org/tutorials/rselenium_tutorial/>
+
+### Here let me briefly show you we can also do this in R
+```{r}
+# connect to chrome driver
+driver <- RSelenium::rsDriver(browser = "chrome")
+
+remote_driver <- driver[["client"]] 
+remote_driver$navigate(url)
+```
+
+```{r}
+# retrieve the article
+
+main_article <- remote_driver$findElement(using = "class", value="p402_premium")
+
+text <- main_article$getElementText()
+
+```
+
+### Text is a messy list, you need to do some cleaning again.
+
+```{r}
+# let us clean those special characters like \n \t, etc.
+
+tidy_text <- text[[1]] %>% 
+  # remove all whitespaces, note it is regex \t
+  str_replace_all("\\s"," ") %>% 
+  # reove some weird punct
+  str_replace_all('\\"',"") %>% 
+  # remove some double spaces
+  str_squish %>% 
+  # reve spaces at the begining and end of the text
+  str_trim %>% 
+  # lower case
+  tolower()
+
+tidy_text
+```
+**VOILA, we have a nice tidy text!!!**
+
+### Let us then use coreNLP do some text processing in R (FINALLY :))
+
+here is a document for coreNLP in R <https://cran.r-project.org/web/packages/coreNLP/coreNLP.pdf>
+
+```{r,echo=FALSE}
+#install.packages("coreNLP")
+# or devtools::install_github("statsmaths/coreNLP")
+library(coreNLP)
+coreNLP::downloadCoreNLP()
+initCoreNLP()
+```
+```{r}
+# Let us annotate our text
+output = annotateString(tidy_text)
+output
+```
+
+Once you do annotation, you can have the following information via getToken, getDependency and getSentiment
+
+I am not a computational linguist, so we are not going to discuss details about how to read dependency trees, etc. You can check Google NLP tutorials and other complin for more details.
+
+```{r}
+getToken(output)
+```
+
+```{r}
+getDependency(output)
+```
+
+```{r}
+getSentiment(output)
+```
+
+## THE END...
