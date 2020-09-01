@@ -17,6 +17,8 @@ author_profile: true
 <b>[Educational assortative marriage and income inequality among Black and White families in the US, 1976-2017](http://mebucca.github.io/research/eam_us)</b><br>
 <b>Mauricio Bucca</b>. 
 
+<b>[Intergenerational Social Mobility Among the Children of Immigrants in Western Europe](http://mebucca.github.io/research/sm2geu)</b><br>
+<b>Mauricio Bucca</b>, Lucas Drouhot. 
 
 ## Work in progress
 
@@ -27,6 +29,5 @@ Kim Weeden, <b>Mauricio Bucca</b>. <i>In preparation</i>.
 <b>Rent extraction and increasing income inequality in the US</b><br>
 Kim Weeden, David Grusky, <b>Mauricio Bucca</b>. <i>In preparation</i>. 
 
-<b>Assimilation or racialization? social mobility among natives and immigrants in Europe</b><br>
-<b>Mauricio Bucca</b>, Lucas Drouhot. <i>In preparation</i>. 
+
 
