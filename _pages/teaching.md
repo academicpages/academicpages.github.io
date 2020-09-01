@@ -26,7 +26,7 @@ You can download [Lab2a.py](https://yongjunzhang.com/files/tutorial/Lab2a.py) an
 
 #### Lab Part 2. Basic Intro to R and Text Preprocessing
 
-You can download [Lab2b.rmd](https://yongjunzhang.com/files/tutorial/Lab2b.Rmd) and [lab2b.html](https://drive.google.com/file/d/1ZW0GkVB7Q0rSQcNfCYfBVo5nZpcFZQWD/view?usp=sharing)
+You can download [Lab2b.rmd](https://yongjunzhang.com/files/tutorial/Lab2b.Rmd) and [lab2b.html](https://yongjunzhang.com/files/tutorial/Lab2b.html)
 
 #### Announcement
 
