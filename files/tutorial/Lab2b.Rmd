@@ -2,7 +2,7 @@
 title: "Lab2 Part2-Text Analysis 101 Using R"
 author: "Yongjun Zhang, Ph.D."
 institute: "Department of Sociology and IACS, Stony Brook Unversity"
-date: "8/17/2020"
+date: "09/11/2020"
 output: html_document
 ---
 <style type="text/css">
