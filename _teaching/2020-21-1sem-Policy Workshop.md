@@ -1,17 +1,17 @@
 ---
-title: "Policy Workshop TBD"
+title: "Modelling System Dynamics"
 collection: teacher
 type: "Class"
-permalink: /teaching/2020-21-1sem-PW
-venue: "Princeton University"
-date: 2020-09-01
-location: "Princeton, USA"
+permalink: /teaching/2020-sem1-per2
+venue: "University of Amsterdam"
+date: 2020-10-27
+location: "Amsterdam, NL"
 ---
 
 **Lecturer**
 
-Graduate policy workshops are a unique part of the Woodrow Wilson School graduate curriculum.
-Policy workshops provide students with an opportunity to use the analytical skills they have acquired in the first year in the program to analyze complex and challenging policy issues, usually for real clients.
-The workshops emphasize policy implementation, and it is this emphasis that distinguishes them from regular courses. The goal of the workshops is to understand a policy issue in great depth and to make policy recommendations that are both creative and realistic, given the relevant institutional and political constraints. 
-Each workshop consists of eight to 10 students who work in teams to evaluate a policy challenge. Most students engage in field research during the fall break period.
-Each workshop produces a final report and gives a final presentation to the client, typically sometime between mid-December and late January.
+# Course Rationale and Overview
+In the System Dynamics course, students will learn how to model and analyse the dynamics of large-scale economic, social or technological systems and processes. System dynamics is grounded in the modern theory of nonlinear dynamics and control theory. Students will learn how to describe the structures of complex systems and build simulations of real-world problems. Students will discover the basic concepts of system dynamics: stocks and flows, feedback loops, control strategies, state oscillation and instability, S-shaped growth, overshoot and collapse, path dependency and other nonlinear dynamics. In the course, students will explore different problem domains, build up their skills by practising on small assignments, and finally demonstrate their knowledge and skills in a project, using a system dynamics modelling environment.
+
+# Course Catalog
+https://studiegids.uva.nl/xmlpages/page/2020-2021-en/search-course/course/80194
