@@ -12,7 +12,6 @@ In this lecture, you will learn how to do everything you already do as a scholar
 1. [Create a project in RStudio.](ps811-lecture-2-workflow#create-proj)
 2. [Push a R Markdown document to your GitHub repository.](ps811-lecture-2-workflow#push-git)
 3. [Write a paper in R Markdown.](ps811-lecture-2-workflow#write-paper)
-4. [Organize a bibliography.](ps811-lecture-2-workflow#org-bib)
 
 # Why create a project?
 
@@ -162,7 +161,7 @@ Just so you know what is required to run the papaja R package, I'm going to do a
     devtools::install_github("crsh/papaja")
     ```
 
-    The `devtools::`` part of the command simply tells R where the `install_github` part of the command is coming from. There are cases where you may have loaded two packages and both packages have `install_github` as a command. Doing the double-colon simply ensures that you are specifying the package that the command is coming from. Since you have only loaded the devtools package so far, you don't need to specify that `install_github` is coming from the devtools package, but I just wanted to demonstrate this point in case you ever end up in such a conundrum.
+The `devtools::` part of the command simply tells R where the `install_github` part of the command is coming from. There are cases where you may have loaded two packages and both packages have `install_github` as a command. Doing the double-colon simply ensures that you are specifying the package that the command is coming from. Since you have only loaded the devtools package so far, you don't need to specify that `install_github` is coming from the devtools package, but I just wanted to demonstrate this point in case you ever end up in such a conundrum.
     
 ## Opening the template
 

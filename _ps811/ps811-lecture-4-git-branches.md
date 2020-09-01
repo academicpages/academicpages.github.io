@@ -223,7 +223,7 @@ I will walk through a command line example with you that shows you how to commit
 
 12. Go to the ps811-project repository on GitHub. Go to your test branch. You will see that your `document.pdf` has just been updated a few seconds ago.
 
-    ![git-commit-both](https://marcyshieh.github.io/ps811/lecture4-img/git-commit-both.png)
+    ![git-commit-others](https://marcyshieh.github.io/ps811/lecture4-img/git-commit-others.png)
 
     *Commit the document.Rmd and document.tex files.*
 

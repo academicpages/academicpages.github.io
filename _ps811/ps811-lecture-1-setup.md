@@ -255,13 +255,13 @@ The "History" button allows you to see who last updated the file, when, and whic
 
 You may also view the history in RStudio. 
 
-    ![history-rstudio](https://marcyshieh.github.io/ps811/lecture1-img/git-history-rstudio.png)
+![history-rstudio](https://marcyshieh.github.io/ps811/lecture1-img/git-history-rstudio.png)
 
-    *How to access History in RStudio.*
+*How to access History in RStudio.*
 
-    ![history-window](https://marcyshieh.github.io/ps811/lecture1-img/git-history-rstudio-window.png)
+![history-window](https://marcyshieh.github.io/ps811/lecture1-img/git-history-rstudio-window.png)
 
-    *Window featuring Git History in RStudio.*
+*Window featuring Git History in RStudio.*
  
 ### Deleting the Repository
  

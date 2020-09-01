@@ -7,7 +7,7 @@ permalink: /ps811/ps811-lecture-6-functions
 date: 2020-08-27
 ---
 
-In this lesson, you will learn how to use R functions, such as loops, apply, lists, scoped verbs, nesting, and mapping.
+In this lecture, you will learn how to use R functions, such as loops, apply, lists, scoped verbs, nesting, and mapping.
 
 These R functions are often a neglected part of contemporary R education, but they can be useful and you will encounter them in PS 812 and the machine learning course. As more R users begin to rely on packages, the need to write their own functions may seem irrelevant. However, it's good to know what *kinda* happens within the black box of a package.
 

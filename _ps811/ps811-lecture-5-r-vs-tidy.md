@@ -7,7 +7,7 @@ permalink: /ps811/ps811-lecture-5-r-vs-tidy
 date: 2020-08-27
 ---
 
-In this lesson, you will learn the differences between base R and Tidyverse, how you can achieve the same results using either language, and the advantages and disadvantages of both.
+In this lecture, you will learn the differences between base R and Tidyverse, how you can achieve the same results using either language, and the advantages and disadvantages of both.
 
 While my predecessors are tidyverse zealots, I am not. When it comes to learning R, I don't feel the need to force anyone into learning it one way or the other. People may disagree with this philosophy! Ultimately, I feel comfortable whenever you encounter R. And, the fact is, many people use both base R and tidyverse so it is best to know both. In PS 812, for example, you will be using primarily base R functions. So forcing you to learn only Tidyverse at this point feels impractical and incompatible with your broader learning goals.
 
