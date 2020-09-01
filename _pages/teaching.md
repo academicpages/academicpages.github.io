@@ -10,6 +10,13 @@ author_profile: true
 {% endif %}
 
 
+UC Santa Barbara
+------
+
+* <b>Teaching Assistant</b> - Department of Mechanical Engineering,
+Design and Analysis of Structures (ME 154)
+
+
 University of Maryland
 ------
 
