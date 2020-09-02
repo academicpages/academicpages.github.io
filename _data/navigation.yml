@@ -3,8 +3,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -24,8 +24,8 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Career"
-    url: /career/
+  # - title: "Career"
+  #   url: /career/
 
   - title: "Road trip"
     url: /travel/

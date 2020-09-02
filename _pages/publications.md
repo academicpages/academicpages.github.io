@@ -15,13 +15,17 @@ author_profile: true
 **Claire Duvallet**, Bryan D Hayes, Timothy B Erickson, Peter R Chai, Mariana Matus.   
 "Mapping community opioid exposure through wastewater-based epidemiology as a
 means to engage pharmacies in harm reduction efforts."   
-_Preventing Chronic Disease_ (in press).   
+_Preventing Chronic Disease_ (2020). doi: [10.5888/pcd17.200053](http://dx.doi.org/10.5888/pcd17.200053)   
 
-Fuqing Wu, Amy Xiao, Jianbo Zhang, Xiaoqiong Gu, Wei Lin Lee, Kathryn Kauffman, William Hanage, Mariana Matus, Newsha Ghaeli, Noriko Endo, **Claire Duvallet**, Katya Moniz, Timothy Erickson, Peter Chai, Janelle Thompson, Eric Alm.
+Fuqing Wu, Amy Xiao, Jianbo Zhang, ... **Claire Duvallet** ... Eric J Alm.    
+"SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases."    
+_medRxiv_ (2020). doi: [10.1101/2020.06.15.20117747v2](https://www.medrxiv.org/content/10.1101/2020.06.15.20117747v2)
+
+Fuqing Wu, Amy Xiao, Jianbo Zhang, Xiaoqiong Gu, Wei Lin Lee, Kathryn Kauffman, William Hanage, Mariana Matus, Newsha Ghaeli, Noriko Endo, **Claire Duvallet**, Katya Moniz, Timothy Erickson, Peter Chai, Janelle Thompson, Eric Alm.    
 "SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases."   
-_medRxiv_ (2020). doi: [10.1101/2020.04.05.20051540](https://doi.org/10.1101/2020.04.05.20051540)
+_mSystems_ (2020). doi: [10.1128/mSystems.00614-20](https://msystems.asm.org/content/5/4/e00614-20)
 
-**Claire Duvallet**.
+**Claire Duvallet**.     
 "Data detectives, self-love, and humility: a research parasite's perspective."    
 _GigaScience_ (2020). doi: [10.1093/gigascience/giz148](https://doi.org/10.1093/gigascience/giz148).   
 

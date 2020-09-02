@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data scientist at [Biobot Analytics](www.biobot.io), a startup measuring opioid concentrations in sewers to map consumption in cities.
+I'm a data scientist at [Biobot Analytics](www.biobot.io), a startup transforming sewers into public health observatories.
 As their first full-time data scientist, I lead our analytics and visualization efforts, and ensure customer success by communicating the value of our data to our customers.
 Before joining Biobot, I received my PhD from the Department of Biological Engineering at MIT.
 I worked in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
