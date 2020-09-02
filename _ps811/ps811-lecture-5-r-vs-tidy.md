@@ -1,5 +1,5 @@
 ---
-title: "Lecture 5: base R vs. tidyverse"
+title: "Lecture 5: Base R vs. tidyverse"
 collection: ps811
 type: "Graduate course"
 venue: "Department of Political Science at the University of Wisconsin-Madison"
@@ -8,6 +8,11 @@ date: 2020-08-27
 ---
 
 In this lecture, you will learn the differences between base R and Tidyverse, how you can achieve the same results using either language, and the advantages and disadvantages of both.
+
+1. [R basics](ps811-lecture-5-r-vs-tidy#r-basics)
+2. [Load data into R](ps811-lecture-5-r-vs-tidy#load-data)
+3. [Base R examples](ps811-lecture-5-r-vs-tidy#base-r)
+4. [Tidyverse examples](ps811-lecture-5-r-vs-tidy#tidy)
 
 While my predecessors are tidyverse zealots, I am not. When it comes to learning R, I don't feel the need to force anyone into learning it one way or the other. People may disagree with this philosophy! Ultimately, I feel comfortable whenever you encounter R. And, the fact is, many people use both base R and tidyverse so it is best to know both. In PS 812, for example, you will be using primarily base R functions. So forcing you to learn only Tidyverse at this point feels impractical and incompatible with your broader learning goals.
 
@@ -21,7 +26,7 @@ However, there are commands that are faster to write and easier to remember in b
 
 In general, processing time is dependent on the amount of data you have, so if you only have a few thousand observations, it might not make much of a difference, but it will probably make a difference if you have tens or hundreds of thousands of observations.
 
-# R basics
+# R basics {#r-basics}
 
 Some of these exercises were inspired by [Mike DeCrescenzo's R basics materials](https://github.com/mikedecr/PS811-computing/blob/master/code/01_basics.R).
 
@@ -147,7 +152,7 @@ If you ever want to figure out how to calculate something in R, just Google it o
     ```
     Ouptut should be 20.71429, 8, "numeric" (there is no mode), 25.0034, 145, respectively.
     
-# Loading data into R
+# Loading data into R {#load-data}
 
 1. When you first start with R, most tutorials will suggest that you use `setwd()` to call in your directory. And sure, that's fine. But since this course emphasize sreplication, what if someone opens your .Rproj in hopes of replicating your work and get an error when they try to run `setwd("/Users/marcyshieh/marcyshieh.github.io/_ps811")`? They are not you, they do not work on your computer, so they need to go through the extra step of changing that line.
 
@@ -196,7 +201,7 @@ Take a look at the variables in the dataset using `names(movie_metadata)`.
 
 We are going to first go through everything in base R, then repeat everything in Tidyverse. Hopefully this gives you a sense of how base R and Tidyverse work.
 
-## base R
+## Base R {#base-r}
 
 This is how these commands work in base R.
 
@@ -275,7 +280,7 @@ This is how these commands work in base R.
           })
      ```
 
-## Tidyverse
+## Tidyverse {#tidy}
 
 You know how to do it in base R, so now you can see how it works in Tidyverse!
 

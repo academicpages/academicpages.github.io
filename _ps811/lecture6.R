@@ -81,5 +81,7 @@ nested_models <- nested_iris %>%
   print()
 
 nested_tidy <- nested_models %>%
-  mutate(coefs = map(model, tidy, conf.int = TRUE)) %>%
+  mutate(coefs = map(model, coefficients)) %>%
   print()
+
+nested_tidy$coefs

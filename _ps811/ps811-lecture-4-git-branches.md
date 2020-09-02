@@ -9,6 +9,12 @@ date: 2020-08-27
 
 In this lecture, you will learn how to create and utilize git branches.
 
+1. [Create a branch](ps811-lecture-4-git-branch#create-branch)
+2. [Delete a branch](ps811-lecture-4-git-branch#delete-branch)
+3. [Restore a branch](ps811-lecture-4-git-branch#restore-branch)
+4. [Use Git on the command line](ps811-lecture-4-git-branch#use-cmd)
+3. 
+
 So far, you have been pushing all your files to the master branch. And that's fine when you are working on your own. But not so fine when you are working with other people!
 
 The master branch is the front-facing view of your project. You can think of it as the latest "complete" version of the project, or the most up-to-date version of the project. You may not want all your works in progress to show up in the master branch, especially when decisions are still being made about certain aspects of the project. This becomes more crucial when you are part of a team.
@@ -21,7 +27,7 @@ With branches, each of your advisors could have worked in a branch, and you coul
 
 In this lecture, I will go through how to work with branches in the RStudio environment.
 
-# Creating a branch
+# Creating a branch {#create-branch}
 
 1. Open your ps811-project in RStudio.
 
@@ -117,7 +123,7 @@ In this lecture, I will go through how to work with branches in the RStudio envi
 
 15. You should be able to see your recent commits from the test branch transferred to the master branch.
 
-## Deleting the branch
+# Deleting the branch {#delete-branch}
 
 There may come a time where you might want to delete your branch. How would you go about it?
 
@@ -129,7 +135,7 @@ There may come a time where you might want to delete your branch. How would you 
 
 2. Click on the red trash on the far right to "test" under "your branches."
 
-## Restoring the branch
+# Restoring the branch {#restore-branch}
 
 The great thing about Git is that, even if you accidentally delete a branch, you can always restore it.
 
@@ -157,7 +163,7 @@ The great thing about Git is that, even if you accidentally delete a branch, you
 
 6. Go back to the ps811-project main page. You should see "test" restored as a branch.
 
-# Using Git on the command line
+# Using Git on the command line {#use-cmd}
 
 There are a wealth of other things Git can do, and you will find a wealth of resources about Git online. Many of the resources you encounter will pertain to using Git with the command line, which is how software developers have traditionally used it. You may want to be a little bit familiarize with that, as many of the help resources tend to be specific to Git command line functions, not RStudio functions.
 

@@ -9,11 +9,15 @@ date: 2020-08-27
 
 In this lecture, you will learn how to use R functions, such as loops, apply, lists, scoped verbs, nesting, and mapping.
 
+1. [Loops](ps811-lecture-6-functions#loops)
+2. [Scoped verbs](ps811-lecture-6-functions#scoped-verbs)
+3. [Nesting](ps811-lecture-6-functions#nesting)
+
 These R functions are often a neglected part of contemporary R education, but they can be useful and you will encounter them in PS 812 and the machine learning course. As more R users begin to rely on packages, the need to write their own functions may seem irrelevant. However, it's good to know what *kinda* happens within the black box of a package.
 
 Much of the material here is inspired by [Mike DeCrescenzo's Functional Programming in R](https://github.com/mikedecr/PS811-computing/blob/master/code/07_functional-programming.R) lesson.
 
-# Loops
+# Loops {#loops}
 
 Say you want to repeat the same thing multiple times for `n` observations. Most specialized R packages do this for you without you having to design the loop, but we are just going over loops so you can get an idea of how they work. Loops can be kind of slow, and usually a loop in R is way faster in Python and other programming languages.
 
@@ -128,7 +132,9 @@ iris %>%
   ) 
 ```
 
-# Functions with dplyr and purrr packages
+# Scoped verbs {#scoped-verbs}
+
+There are functions you can use with the dplyr and purrr packages, which you should install and load.
 
 You want to familiarize yourself with these "scoped verbs", or "apply functions."
 
@@ -234,7 +240,7 @@ Here, you are looking at the `iris` dataset and applying the following two funct
 * the number of distinct numbers per variable `n_distinct(.)` in the dataset and denoting the output as `uniques`
 * the data class (i.e., type) for each variable in the dataset and denoting that output as `obj_type`
 
-# Nesting data frames
+# Nesting data frames {#nesting}
 
 You need to install the `purrr` package and load it. `purrr` is party of the Tidyverse universe, so the following commands will be written in Tidyverse. This also means you can't use `purrr` without loading `tidyverse` first.
 
