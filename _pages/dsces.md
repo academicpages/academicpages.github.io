@@ -52,9 +52,9 @@ John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchi
 | Week | Mon | Tue | Wed | Thu | Fri |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Aug | 24 | 25 | 26 | 27 | 28 |
-| 1 | First day of class | | Introduction to Python | | Kitchin<br>Ch.2<br>Basic Python usage |
+| 1 | First day of class | | Introduction to Python | | Introduction to Python |
 | Aug/Sep | 31 | 1 | 2 | 3 | 4 |
-| 2 | Kitchin<br>Ch.3<br>Math | | Kitchin<br>Ch.3<br>Math | | Kitchin<br>Ch.4<br>Linear algebra<br>**Quiz 1** |
+| 2 | Introduction to NumPy | | Curve Fitting | | Kitchin<br>Ch.3<br>Numerical Integration<br>**Quiz 1** |
 | Sep | 7 | 8 | 9 | 10 | 11 |
 | 3 | Labor Day<br>No class | | Kitchin<br>Ch.4<br>Linear algebra | | Review |
 | Sep | 14 | 15 | 16 | 17 | 18 |
