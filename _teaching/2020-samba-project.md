@@ -52,8 +52,7 @@ $ ansible-playbook -i inventory samba.yml
 ```
 **Observação:** Caso necessário acrescentar o parâmetro **--ask-pass** para adequar a senha do SSH.
 
-[Click me](https://github.com/piholiveira/samba-with-ansible-and-python){: .btn}
-<a class="download-button" href="https://github.com/piholiveira/samba-with-ansible-and-python" target="blank">Github Repository</a>
+[Github Repositório](https://github.com/piholiveira/samba-with-ansible-and-python){: .btn}
 
 ## Referências
 
