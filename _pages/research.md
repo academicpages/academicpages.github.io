@@ -24,15 +24,16 @@ redirect_from:
 ## Under Review, Revise and Resubmit, Sent
 
 
-- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **Sent**
+- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **Under review, reviews completed**
 
 
 ## In Preparation
 
 - **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. With Andrea Canales (Economics, PUC). <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **Data collection**
 
-- **Vote Selling in the United States: Introducing Machine Learning Methods to Analyzing Conjoint Experimental Data**. With Cristobal Quininao (UOH). <br/> [[Paper]](https://www.hectorbahamonde.com). [[Abstract]](https://www.hectorbahamonde.com). **Data analyses**
+- **Vote Selling in the United States: Introducing Machine Learning Methods to Analyzing Conjoint Experimental Data**. With Cristobal Quininao (UOH). <br/> [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt). **Data analyses**
 
+- **Not Just Guns or Butter, but What Came First---Guns or Butter? Introducing GVAR to International Relations**. With Igor Kovac (U Cincinnati). <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt). **Data analyses**
 
 - **Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)**. <br/> [[Paper]](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt?token=AEe6kepKK7gMgsKW3WqxsGzd6jajPSbOks5bYe9DwA%3D%3D). [[Data]](https://github.com/hbahamonde/Replication_Materials).
 
