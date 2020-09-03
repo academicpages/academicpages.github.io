@@ -1,7 +1,7 @@
 ---
 title: "Flexible Wirelessly Powered Implantable Device"
 collection: publications
-permalink: files/GGaleote2019.pdf
+permalink: /files/GGaleote2019.pdf
 excerpt: 
 date: 2019-11-27
 venue: '2019 26th IEEE International Conference on Electronics, Circuits and Systems (ICECS)'
