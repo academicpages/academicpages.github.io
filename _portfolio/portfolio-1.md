@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Design and fabrication of a portable ElectroCardioGraph (ECG) controlled by Arduino and signal processing for heartbeat detection."
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/ecg.png'>"
 collection: portfolio
 ---
 
