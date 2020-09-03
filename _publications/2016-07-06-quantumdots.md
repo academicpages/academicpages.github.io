@@ -1,7 +1,7 @@
 ---
 title: "A review of Quantum Dots methods and their applications in the field of Biotechnology"
 collection: Conference Poster
-permalink: /publications/2016-07-06-quantumdots.md
+permalink: /publications/2016-07-06-quantumdots
 date: 2016-06-07
 venue: 'Educational Innovation Project of University of Malaga Conference Days '
 citation: 'Pimentel Naranjo, V., & Galeote Checa, G. (2016). Quantum Dots. PIE15-110.'
