@@ -85,7 +85,7 @@ author:
   bio              : "PhD student at National Centre of Microelectronics of Spain"
   location         : "Spain"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=Dlw64dUAAAAJ&hl=es"
   email            : "ggaleotecheca@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/photos/155539200@N02/"
+  flickr           : "Ganri"
   facebook         :
   foursquare       :
   github           : "GGChe"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/GGaleote"
+  twitter          : "GGaleote"
   vine             :
   weibo            :
   xing             :
