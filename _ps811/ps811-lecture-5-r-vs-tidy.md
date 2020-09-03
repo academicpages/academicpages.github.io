@@ -1,5 +1,5 @@
 ---
-title: "Lecture 5: Base R vs. tidyverse"
+title: "Lecture 5: Base R vs. Tidyverse"
 collection: ps811
 type: "Graduate course"
 venue: "Department of Political Science at the University of Wisconsin-Madison"
