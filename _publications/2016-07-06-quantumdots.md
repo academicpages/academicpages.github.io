@@ -1,7 +1,7 @@
 ---
 title: "A review of Quantum Dots methods and their applications in the field of Biotechnology"
 collection: Conference Poster
-permalink: https://riuma.uma.es/xmlui/handle/10630/11583
+permalink: /publications/2016-07-06-quantumdots.md
 date: 2016-06-07
 venue: 'Educational Innovation Project of University of Malaga Conference Days '
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
