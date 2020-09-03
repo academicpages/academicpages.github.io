@@ -1,7 +1,7 @@
 ---
 title: "Ciborg: Analisis actual y futuras consecuencias"
 collection: publications
-permalink: /files/ciborg1.pdf
+permalink: /publications/ciborg1.pdf
 excerpt: 'The progress in human enhancement technology is a key factor in the human history. Its main development is leaded by biohacker communities that drives this technological revolution with projects worthy of science fiction'
 date: 2015-10-01
 venue: 'Ariel'
