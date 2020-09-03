@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+title: "A review of Quantum Dots methods and their applications in the field of Biotechnology"
+collection: Conference Poster
+permalink: https://riuma.uma.es/xmlui/handle/10630/11583
+date: 2016-06-07
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Pimentel Naranjo, V., & Galeote Checa, G. (2016). Quantum Dots. PIE15-110.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The purpose of this communication is to make a bibliographic review of Quantum Dots methods and their applications in the field of Biotechnology. Quantum dots (QDs) are a novel class of inorganic fluorophores, which are gaining widespread recognition as a result of their exceptional photophysical properties.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/quantumdots.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Pimentel Naranjo, V., & Galeote Checa, G. (2016). Quantum Dots. PIE15-110.
