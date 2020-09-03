@@ -1,7 +1,7 @@
 ---
 title: "Biohackers & cyborgs: la revolución tecnológica de nuestro tiempo"
 collection: publications
-permalink: /files/ciborg2.pdf
+permalink: /files/ciborg2
 excerpt: 'Philosophical analysis about the situation of biohacker communities and the implications on the human enhancement technologies.'
 date: 2019-03-01
 venue: 'Telos'
