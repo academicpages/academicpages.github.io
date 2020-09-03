@@ -1,5 +1,5 @@
 ---
-title: "Biohackers & cyborgs: la revolución tecnológica de nuestro tiempo"
+title: "Ciborg: Analisis actual y futuras consecuencias"
 collection: publications
 permalink: /publication/ciborg2
 excerpt: 'The progress in human enhancement technology is a key factor in the human history. Its main development is leaded by biohacker communities that drives this technological revolution with projects worthy of science fiction'
