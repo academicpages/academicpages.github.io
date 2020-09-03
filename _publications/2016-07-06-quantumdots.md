@@ -3,7 +3,7 @@ title: "A review of Quantum Dots methods and their applications in the field of 
 collection: Conference Poster
 permalink: https://riuma.uma.es/xmlui/handle/10630/11583
 date: 2016-06-07
-venue: 'Journal 1'
+venue: 'Educational Innovation Project of University of Malaga Conference Days '
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Pimentel Naranjo, V., & Galeote Checa, G. (2016). Quantum Dots. PIE15-110.'
 ---
