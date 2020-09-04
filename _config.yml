@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ARAKI Ryo"
 title_separator          : "-"
 name                     : &name "ARAKI Ryo"
-description              : &description "PhD student at Osaka University"
+description              : &description "Ph.D student at École Centrale de Lyon and  Osaka University"
 url                      : https://ryo-araki.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryo-ARAKI/ryo-ARAKI.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "ARAKI Ryo"
   avatar           : "Profile_OIST.png"
-  bio              : "PhD student working on turbulence & its fundamental laws"
+  bio              : "PhD student working on fundamental laws of turbulence"
   location         : "Osaka, Japan"
   employer         :
   pubmed           :
