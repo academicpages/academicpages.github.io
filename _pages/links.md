@@ -16,3 +16,10 @@ Affiliations
     * [Department of Mechanical Science and Bioengineering](http://www.me.es.osaka-u.ac.jp/msb/index.html)
       * [Fluid Mechanics Group (Goto Laboratory)](http://fm.me.es.osaka-u.ac.jp/)
     * [Mechanical Science Course](http://www.me.es.osaka-u.ac.jp/msc/index.html)
+* [École Centrale de Lyon](https://www.ec-lyon.fr/)
+  * [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/)
+
+Supervisors
+=====
+* [Prof. GOTO Susumu](http://fm.me.es.osaka-u.ac.jp/goto/) of Osaka University
+* [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) of École Centrale de Lyon
