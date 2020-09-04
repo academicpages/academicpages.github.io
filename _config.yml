@@ -244,6 +244,22 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _memo
+  - scope:
+      path: ""
+      type: memo
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
+  # _links
+  - scope:
+      path: ""
+      type: links
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
