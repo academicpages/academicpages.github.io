@@ -1,16 +1,36 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Talks and presentations"
+permalink: /talks/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.talks reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Oral Presentation
+
+- <u>Ryo ARAKI</u> and Susumu GOTO, "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence",The 16th International Conference on Flow Dynamics, oral presentation, 2019/11/6-8
+
+## 日本語での発表
+
+### 学会発表
+
+- <u>荒木 亮</u>，後藤 晋，「von Kármán乱流中の大規模時空間変動とエネルギ・カスケードのダイナミクス」，日本機械学会 関西支部第95期定時総会講演会，同志社大学，口頭発表，2020年3月12日
+- <u>荒木 亮</u>，杉谷 優治，後藤 晋，「von Kármán乱流中の大変動とエネルギ・カスケード過程」，日本機械学会 関西支部第94期定時総会講演会，立命館大学，ポスター発表，2019年3月11日
+- <u>荒木 亮</u>，杉谷 優治，後藤 晋，「von Kármán乱流中の大規模時空間変動」，日本機械学会 第96期 流体工学部門 講演会，室蘭工業大学，ポスター発表，2018年11月29日〜30日
+- <u>荒木 亮</u>，後藤 晋，「閉じた系内の乱流に見られる大規模な時空間変動」，日本機械学会 関西学生会2017年度学生員卒業研究発表講演会，甲南大学，口頭発表，2018年3月10日， **ベストプレゼンテーション賞受賞**
+
+
+### 研究集会等発表
+
+- <u>荒木 亮</u>，「閉じた系の乱流の非平衡カスケード」，流体若手夏のオンライン交流会 2020，Zoom，2020年8月29日
+- <u>荒木 亮</u>，「閉じた系の乱流における非平衡なエネルギカスケード」，非平衡オンライン若手の会 2020 オンライン交流会，Zoom，2020年8月18日
+- <u>荒木 亮</u>，「乱流の秩序構造とそのダイナミクス」，吉田育英会 研究交流会，YKK 60ビル（東京都），2019年11月9日
+- <u>荒木 亮</u>，「閉じた系の乱流の大スケールの時空間変動と散逸則」，流体若手夏の学校 2019，旅荘 茶谷（京都府），口頭発表，2019年8月19〜21日
+- <u>荒木 亮</u>，「乱流のダイナミクス：エネルギ・カスケードの動力学」，吉田育英会 研究交流会，YKK 60ビル（東京都），2018年10月20日
+- <u>荒木 亮</u>，「von Kármán 乱流中の大規模時空間変動」，流体若手夏の学校 2018，ホテルあかね（神奈川県），口頭発表，2018年8月27〜29日
+- <u>荒木 亮</u>，「von Kármán flowの実験と数値計算」，流体若手夏の学校 2017，民宿 大原山荘（京都府），口頭発表，2017年8月8〜10日
