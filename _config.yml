@@ -187,6 +187,9 @@ collections:
   link:
     output: true
     permalink: /:collection/:path/
+  japanese:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

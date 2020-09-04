@@ -7,8 +7,11 @@ main:
   - title: "Presentations"
     url: /talks/
 
-  - title: "Memo"
+  - title: "Memo/メモ"
     url: /memo/
+
+  - title: "日本語情報"
+    url: /japanese/
 
   - title: "Links"
     url: /links/
