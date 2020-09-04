@@ -24,7 +24,7 @@ redirect_from:
 - **Research Internship**, 08/2019
   - **Place** The Japan Aerospace Exploration Agency (JAXA), Japan
   - **Project** Research on acceleration of computational fluid simulation program for large-scale computation.
-  - **Supervisor** Dr. TSUtsumi Seiji
+  - **Supervisor** Dr. TSUTSUMI Seiji
 
 - **Visiting Student**, 03/2019-04/2019
   - **Place** The University of Exeter, UK
