@@ -56,7 +56,7 @@ John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchi
 | Aug/Sep | 31 | 1 | 2 | 3 | 4 |
 | 2 | Introduction to NumPy | | Curve Fitting | | Kitchin<br>Ch.3<br>Numerical Integration<br>**Quiz 1** |
 | Sep | 7 | 8 | 9 | 10 | 11 |
-| 3 | Labor Day<br>No class | | Kitchin<br>Ch.4<br>Linear algebra | | Review |
+| 3 | Labor Day<br>No class | | Kitchin<br>Ch.4<br>Linear algebra | | Kitchin<br>Ch.4<br>Linear algebra |
 | Sep | 14 | 15 | 16 | 17 | 18 |
 | 4 | Kitchin<br>Ch.5<br>Solving nonlinear equations | | Kitchin<br>Ch.5<br>Solving nonlinear equations | | Kitchin<br>Ch.6<br>Statistics<br>**Quiz 2** |
 | Sep | 21 | 22 | 23 | 24 | 25 |
