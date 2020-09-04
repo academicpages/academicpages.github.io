@@ -42,5 +42,11 @@ redirect_from:
 
 ## Competitive Scholarships
 
-- [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html), 04/2018-/03/2020
-- [The Fujii International Scholarship Foundation](http://www.fujii-zaidan.or.jp/index.html), 04/2017-03/2018
+- Scholarship at Overseas Educational Institution, [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html), 10/2020- \
+  ¥2,000,000 per year for living expenses plus tuition fees
+- Master 21 Program, [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html), 04/2018-/03/2020 \
+  ¥2,420,000 (¥960,000 per year plus ¥500,000 for overseas activities)
+- Type I Scholarship (interest-free loan), Japan Student Services Organization, 04/2018-/03/2020 \
+  ¥2,112,000 (Exempted from repayment for students who have achieved an especially excellent record)
+- [The Fujii International Scholarship Foundation](http://www.fujii-zaidan.or.jp/index.html), 04/2017-03/2018 \
+  ¥360,000
