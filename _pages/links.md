@@ -23,3 +23,12 @@ Supervisors
 =====
 * [Prof. GOTO Susumu](http://fm.me.es.osaka-u.ac.jp/goto/) of Osaka University
 * [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) of École Centrale de Lyon
+
+## Friends
+
+- [YOSHII Kiwamu](https://qyoshii.github.io/)
+  - 後藤研究室の同期
+- [澤端 日華瑠](https://hikaruri.jp/)
+  - 吉田育英会の先輩
+- [桶谷龍成](http://labusers.net/~oketani/)
+  - 吉田育英会の先輩
