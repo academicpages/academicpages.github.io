@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Oral Presentation
 
 - <u>Ryo ARAKI</u> and Susumu GOTO, "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence",The 16th International Conference on Flow Dynamics, oral presentation, 2019/11/6-8

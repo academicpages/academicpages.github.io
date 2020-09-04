@@ -40,18 +40,6 @@ Skills
 * **Language** Japanese (native), English (fluent, IELTS overall 7.5)
 * **Programming** Fortran, Python, Julia
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-Presentations
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
 Competitive Scholarships
 ======
 * [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html), 04/2018-/03/2020
