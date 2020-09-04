@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Ryo ARAKI's website!
+This is ARAKI Ryo's website!
