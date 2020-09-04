@@ -207,13 +207,6 @@ defaults:
       author_profile: true
       share: true
       related: true
-  # _links
-  - scope:
-      path: ""
-      type: links
-    values:
-      layout: single
-      author_profile: true
 
 # Sass/SCSS
 sass:
