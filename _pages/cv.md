@@ -13,10 +13,10 @@ redirect_from:
 
 - **Master of Engineering**, Osaka University, 03/2020
   - **Thesis** "Large Spatio-temporal Fluctuation of von Karman Turbulence and its Energy Cascade Dynamics"
-  - **Supervisor** [Prof. Susumu Goto](http://fm.me.es.osaka-u.ac.jp/goto/)
+  - **Supervisor** [Prof. GOTO Susumu](http://fm.me.es.osaka-u.ac.jp/goto/)
   - **Awarded "Graduate School of Engineering Science Outstanding Student Award"**
 - **Batchelor of Engineering**, Osaka University, 03/2018
-  - **Supervisor** Prof. Susumu Goto
+  - **Supervisor** Prof. GOTO Susumu
 - **Associate Degree of Engineering**, National Institute of Technology, Maizuru College, 03/2016
 
 ## Other experiences
@@ -24,7 +24,7 @@ redirect_from:
 - **Research Internship**, 08/2019
   - **Place** The Japan Aerospace Exploration Agency (JAXA), Japan
   - **Project** Research on acceleration of computational fluid simulation program for large-scale computation.
-  - **Supervisor** Dr. Seiji Tsutsumi
+  - **Supervisor** Dr. TSUtsumi Seiji
 
 - **Visiting Student**, 03/2019-04/2019
   - **Place** The University of Exeter, UK
