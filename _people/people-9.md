@@ -12,4 +12,4 @@ degrees: blank
 
 project: blank
 
-papers: blank
+interests: blank
