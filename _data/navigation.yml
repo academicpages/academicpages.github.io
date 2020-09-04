@@ -4,20 +4,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  # - title: "Publications"
-  #   url: /publications/
-
   - title: "Presentations"
     url: /talks/
-
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  # - title: "Portfolio"
-  #   url: /portfolio/
-
-  - title: "Blog"
-    url: /year-archive/
 
   - title: "Memo"
     url: /memo/
