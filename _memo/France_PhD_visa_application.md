@@ -1,6 +1,6 @@
 ---
 title: 'フランス長期学生ビザ申請について（2020年9月）'
-date: 2020-09-014
+date: 2020-09-14
 permalink: /memo/france_phd_visa_application/
 tags:
   - 留学
