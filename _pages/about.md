@@ -31,6 +31,10 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 
 ---
 # Publications
+## Preprints
+1. Ken Kobayashi, Yuichi Takano, and Kazuhide Nakata: Bilevel cutting-plane algorithm for solving cardinality-constrained mean-CVaR portfolio optimization problems. arXiv preprint, arXiv:2005.12797 (2020).
+1. Tomokaze Shiratori, Ken Kobayashi, and Yuichi Takano: Prediction of hierarchical time series using structured regularization and its application to artificial neural networks. arXiv preprint, arXiv:2007.15159 (2020).
+
 
 ## Refreed Journals and Proceedings
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi and Hiroki Arimura: DACE: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization, Proceedings of the 29th International Joint Conference on Artificial Intelligence, 29 (2020) 2855--2862.<br>
