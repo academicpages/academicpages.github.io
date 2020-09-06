@@ -2,10 +2,6 @@
 main:
   - title: "Papers"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
         
   - title: "CV"
     url: /cv/
