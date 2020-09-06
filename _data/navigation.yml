@@ -2,6 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+   
+  - title: "Courses"
+    url: /courses/
+    
+  - title: "Projects"
+    url: /projects/
     
   - title: "CV"
     url: /files/CV.pdf
