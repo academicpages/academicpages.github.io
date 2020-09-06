@@ -178,12 +178,10 @@ collections:
   teaching:
     output: false
     permalink: /:collection/:path/
-  publications:
-    output: false
+  papers:
+    output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+
   talks:
     output: false
     permalink: /:collection/:path/
@@ -221,21 +219,13 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
   # _talks
   - scope:
       path: ""
