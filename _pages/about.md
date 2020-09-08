@@ -24,7 +24,7 @@ Publications
 			<br/>
 			<b>Habiba Farrukh</b>, Reham Mohamed Aburas, Siyuan Cao, He Wang
 			<br/>
-			26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20) 
+			26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20) <a href="/files/facerevelio-mobicom2020.pdf">[Paper]</a> 
 			<br/>
 	</li>
 </ul>
@@ -35,7 +35,7 @@ Publications
 			<br/>
 			Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
-			IEEE International Conference on Computer Communications (InfoCom 2020)
+			IEEE International Conference on Computer Communications (InfoCom 2020) <a href="https://www.cs.purdue.edu/homes/cao208/files/context_infocom2020.pdf">[Paper]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/context_address_siyuan_cao-uploaded.mp4">[Video]</a>
 			<br/>
 	</li>
 </ul>
