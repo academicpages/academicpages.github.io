@@ -21,7 +21,7 @@ My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 - [2020/08/14] Began serving as a reviewer for AAAI 2021.
 
-- [2020/06/08] Started intership at Microsoft, supervised by [Jingjing Liu](https://www.linkedin.com/in/jingjing-liu-65703431/).
+- [2020/06/08] Started intership at Microsoft, supervised by Dr. [Jingjing Liu](https://www.linkedin.com/in/jingjing-liu-65703431/).
 
 - [2020/06/01] One [paper](https://arxiv.org/abs/2006.12013) got accepted at ICML 2020.
 
@@ -37,7 +37,7 @@ My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 - [2019/08/07] Began serving as a reviewer for AAAI 2020.
 
-- [2019/05/28] Started internship at NEC Labs America, advised by [Martin Renqiang Min](https://www.cs.toronto.edu/~cuty/).
+- [2019/05/28] Started internship at NEC Labs America, advised by Dr. [Martin Renqiang Min](https://www.cs.toronto.edu/~cuty/).
 
 - [2019/05/13] Two papers got accepted at ACL 2019. My co-first-author [paper](http://www.ece.duke.edu/~lcarin/Compressed_ACL2019.pdf) was selected for an oral presentation.
 
