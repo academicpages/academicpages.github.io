@@ -38,3 +38,17 @@ Here is our lab training problem set:
 
 If you want to earn these extra credits, you need to turn in your scripts and dataset before Sept 8th, 6:00 PM EST
 
+
+### Week 3
+
+#### Mini-Lecture 3. Topic Modeling in Social Science 
+
+You can download our [slides here](https://yongjunzhang.com/files/tutorial/Lecture3.pdf)
+
+#### Implementing Topic Models in R
+
+You can download [Lab3.html](https://yongjunzhang.com/files/tutorial/Lab3.html) and [model visualization examplel](https://yongjunzhang.com/files/tutorial/lab3-viz.html). You can download the [rmarkdown file here](https://yongjunzhang.com/files/tutorial/Lab3.Rmd).
+
+#### Announcement
+
+We have a guest speaker today. You can check here for more info about [Dr. Charles Gomez from CUNY Sociology Department](https://charliegomez.com/).
