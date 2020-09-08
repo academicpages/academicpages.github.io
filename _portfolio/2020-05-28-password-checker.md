@@ -8,7 +8,7 @@ collection: portfolio
 
 Online security is more important than ever. With the advent of social media, block chain and many other new applications, we use authentication every day to carry our personal needs. 
 
-A  report from the Identity Theft Resource Center found that there were 1,473 data breaches last year, a 17% increase over 2018's 1,257. The total number of sensitive records exposed, though was down 65%. Contrary to public assumption, hackers generally do not target specific individuals but rather large corporations. Hackers look for a security weakness to steal or copy as much personal information as possible in order to compile a list of leaked usernames and passwords to log in to different services. 
+A [report from the Identity Theft Resource Center](https://fortune.com/2020/01/28/2019-data-breach-increases-hackers/) found that there were 1,473 data breaches last year, a 17% increase over 2018's 1,257. The total number of sensitive records exposed, though was down 65%. Contrary to public assumption, [hackers generally do not target specific individuals](https://blog.mozilla.org/firefox/how-hackers-work/) but rather large corporations. Hackers look for a security weakness to steal or copy as much personal information as possible in order to compile a list of leaked usernames and passwords to log in to different services. 
 
 This has highlighted the need for services and websites to check the security of personal passwords and usernames. Websites like [have I been pwned](https://haveibeenpwned.com) to check whether your password or username has been compromised in a data breach. 
 
