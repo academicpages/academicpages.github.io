@@ -18,3 +18,4 @@ Great news! Our team won the first place in the semantic segmentation on [Robust
 </div>
 
 Read more about it [here](https://www.fer.unizg.hr/en/news_insights?@=2sgic#news_94091).
+We also published a short tech report on [arxiv](https://arxiv.org/abs/2009.01636).
