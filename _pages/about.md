@@ -29,7 +29,7 @@ Now, I hope to publish some interesting posts on my blog about computer vision a
 
 Recent work	
 ------
-- \[[arxiv](https://arxiv.org/abs/2009.01636)\] Multi-domain semantic segmentation with pyramidal fusion. <br/>JMarin Oršić, Petra Bevandić, Ivan Grubišić, Josip Šarić, Siniša Šegvić. <br/>. Tech report for RVC20.
+- \[[arxiv](https://arxiv.org/abs/2009.01636)\] Multi-domain semantic segmentation with pyramidal fusion. <br/>Marin Oršić, Petra Bevandić, Ivan Grubišić, Josip Šarić, Siniša Šegvić. <br/>Tech report for RVC20.
 - \[[cvf](http://openaccess.thecvf.com/content_CVPR_2020/html/Saric_Warp_to_the_Future_Joint_Forecasting_of_Features_and_Feature_CVPR_2020_paper.html)\] Warp to the Future: Joint Forecasting of Features and Feature Motion. <br/>Josip Šarić, Marin Oršić, Tonći Antunović, Sacha Vražić, Siniša Šegvić. <br/>CVPR 2020.
 - \[[arxiv](https://arxiv.org/abs/1907.11475)\] Single Level Feature-to-Feature Forecasting with Deformable Convolutions. 
 <br/>Josip Šarić, Marin Oršić, Tonći Antunović, Sacha Vražić, Siniša Šegvić. 
