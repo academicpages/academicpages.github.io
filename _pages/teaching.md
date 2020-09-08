@@ -47,7 +47,7 @@ You can download our [slides here](https://yongjunzhang.com/files/tutorial/Lectu
 
 #### Implementing Topic Models in R
 
-You can download [Lab3.html](https://yongjunzhang.com/files/tutorial/Lab3.html) and [model visualization examplel](https://yongjunzhang.com/files/tutorial/lab3-viz.html). You can download the [rmarkdown file here](https://yongjunzhang.com/files/tutorial/Lab3.Rmd).
+You can download [Lab3.html](https://yongjunzhang.com/files/tutorial/Lab3.html) and [model visualization example](https://yongjunzhang.com/files/tutorial/lab3-viz.html). You can download the [rmarkdown file here](https://yongjunzhang.com/files/tutorial/Lab3.Rmd).
 
 #### Announcement
 
