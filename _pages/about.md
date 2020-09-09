@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Shubham Krishna and I am a second year Masters student in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/). 
 
-I am also a Research Assistant at [Bethge Lab](http://bethgelab.org/) where I am working with [Steffen Schneider](https://stes.io/) to better understand the behaviour of Deep Neural Networks. I am currently working on two really interesting problems: Domain Generalization and Lottery Tickets Hypothesis. 
+To quench my thirst for research, I am also working as a Research Assistant at [Bethge Lab](http://bethgelab.org/) with [Steffen Schneider](https://stes.io/) for better understanding of the behaviour of Deep Neural Networks. I am currently working on two really interesting problems: Domain Generalization and Lottery Tickets Hypothesis. 
 
 I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. 
 
