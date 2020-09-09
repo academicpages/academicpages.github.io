@@ -36,6 +36,16 @@ News
 
 <br/>
 
+Research Highlights
+======
+<iframe src="https://www.youtube.com/embed/b3gUwkJJuRs" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
+
 Research
 ======
 <div class="row">
