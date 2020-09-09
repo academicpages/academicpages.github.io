@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-Hello! My name is Shubham Krishna and I am a first year Masters student in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/) where I am exploring my interest in the field of Deep Neural Networks and Mathematics behind it. I am also working as a Research Assistant at [Bethge Lab](http://bethgelab.org/). 
+Hello! My name is Shubham Krishna and I am a second year Masters student in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/). 
 
-I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. My Research Interests broadly lie in the field of Understanding the behaviour of Deep Neural Networks and their applications in Computer Vision, Natural Language Processing and Autonomous Driving.
+I am also a Research Assistant at [Bethge Lab](http://bethgelab.org/) where I am working with [Steffen Schneider](https://stes.io/) to better understand the behaviour of Deep Neural Networks. I am currently working on two really interesting problems: Domain Generalization and Lottery Tickets Hypothesis. 
+
+I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. 
 
 I spent an amazing one and half year at Samsung Research Bangalore, India where I was working as a Senior Software Engineer in the On-Device Intelligence Search Team. During my tenure, I published two research papers at International Conferences in the field of Natural Language Processing and Deep Neural Networks.
 
@@ -19,6 +21,14 @@ During Winter 2017, I was fortunate enough to work with [Prof. Romain Billot](ht
 
  
 During Summer 2017, I did an internship at Samsung Research Bangalore, India where I was working on the Samsung's Intelligent Voice Assistant (Bixby).  
+
+## Research Interests:
+* Robust Machine Learning
+* Domain Generalization
+* Computer Vision
+* Natural Language Processing
+* Information Retrieval
+
 
 ### Timeline
 <style>
