@@ -29,7 +29,7 @@ During Summer 2017, I did an internship at Samsung Research Bangalore, India whe
 * Natural Language Processing
 * Information Retrieval
 
-[//
+<!--
 ### Timeline
 <style>
 table, tr, td {
@@ -56,4 +56,4 @@ table, tr, td {
 <tr><td> Feb 2016: </td> <td> Received Director's Award for Outstanding Performance in Academics during Year 2014-15.  </td></tr>
 <tr><td> July 2013:</td> <td> Joined IIT Dhanbad</td></tr> 
 </table>
-]
+-->
