@@ -10,14 +10,14 @@ redirect_from:
 
 ## Graduate Courses
 
-Deep Neural Networks
-Mathematics for Machine Leanring
-Statistical Machine Leanring
-Probabilistic Machine Learning
-Self Driving Cars 
-Machine Learning in Graphics and Vision
-Data Literacy 
-Data Mining and Probabilistic Reasoning
+* Deep Neural Networks
+* Mathematics for Machine Leanring
+* Statistical Machine Leanring
+* Probabilistic Machine Learning
+* Self Driving Cars 
+* Machine Learning in Graphics and Vision
+* Data Literacy 
+* Data Mining and Probabilistic Reasoning
 
 
 
