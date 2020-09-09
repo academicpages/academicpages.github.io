@@ -14,7 +14,7 @@ I am also a Research Assistant at [Bethge Lab](http://bethgelab.org/) where I am
 
 I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. 
 
-I spent an amazing one and half year at Samsung Research Bangalore, India where I was working as a Senior Software Engineer in the On-Device Intelligence Search Team. During my tenure, I published two research papers at International Conferences in the field of Natural Language Processing and Deep Neural Networks.
+I spent an amazing one and half year at [Samsung Research Bangalore](https://research.samsung.com/sri-b), India where I was working as a Senior Software Engineer in the On-Device Intelligence Search Team. During my tenure, I published two research papers at International Conferences in the field of Natural Language Processing and Deep Neural Networks.
 
 
 During Winter 2017, I was fortunate enough to work with [Prof. Romain Billot](https://www.linkedin.com/in/romain-billot-37107099/) and [Prof. Nicolas Jullien](https://nicolasjullien.wp.imt.fr/en/) as a Research Assistant in the LUSSI Department at IMT Atlantique, Brest Campus, France. During my stay, I studied the behaviour of online Wikipedia's contributors using Machine Learning and Statistics. The work led to a Poster Presentation at OpenSym 2018, the 14th International Symposium on Open Collaboration. 
