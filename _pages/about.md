@@ -39,14 +39,11 @@ News
 Research Highlights
 ======
 <iframe src="https://www.youtube.com/embed/b3gUwkJJuRs" 
-    width="500" 
-    height="281"
+    width="400" 
+    height="225"
     frameborder="0" 
     allowfullscreen>
-<br>
 </iframe>
-
-<br>
 
 <br/>
 
