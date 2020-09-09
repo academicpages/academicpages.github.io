@@ -1,9 +1,12 @@
 
 ## Graduate Courses
 
-* Deep Neural Networks                            * Statistical Machine Learning
-* Self Driving Cars                               * Probabilistic Machine Learning
-* Mathematics for Machine Learning                * Machine Learning in Graphics and Vision
+* Deep Neural Networks                            
+* Statistical Machine Learning                              
+* Probabilistic Machine Learning
+* Mathematics for Machine Learning
+* Self Driving Cars 
+* Machine Learning in Graphics and Vision
 * Data Literacy                                    
 * Data Mining and Probabilistic Reasoning
 
