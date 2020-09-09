@@ -8,18 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am now a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Natural Language Processing and Social Media Analytics. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2016.  
-
-**I am expected to graduate in June 2021 and now looking for a machine learning engineer job in industry.**   
-
-**我预计于2021年6月毕业，正在寻找机器学习算法工程师相关岗位的工作。**  
+Hi! I am now a final-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Natural Language Processing and Information Retrieval. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2016.  
 <br/>
 
 
 Research Interests
 ======
 My research targets at developing computational methods to analyze and mine socially-generated contents. Currently, I focus on the following areas:
-* **Natural Language Processing and Text Mining**  
+* **Natural Language Understanding and Generation**  
 Opinion mining and stance analysis, especially in low-resource (cross-domain, weak supervision) and multi-task settings.
 * **Social Media Analytics and Social Computing**  
 Rumor verification and fact checking    
@@ -30,7 +26,7 @@ Publications
 ======
 Selected First-authored Publications:
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
-**Penghui Wei**, Jiahao Zhao and Wenji Mao  
+**Penghui Wei**, Jiahao Zhao, Wenji Mao  
 In ACL 2020: The 58th Annual Meeting of the Association for Computational Linguistics, pages 3171--3181.
 * **Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity**  
 **Penghui Wei**, Nan Xu, Wenji Mao  
@@ -74,6 +70,6 @@ Misc
 ======
 * [Here](https://www.cnblogs.com/Determined22/) is my technology blog (in Chinese). I wrote some notes about machine learning and natural language processing techniques.
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
-* I am a yo-yo player, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers: Hiroyuki Suzuki and Takuma Inoue. 
+* I am a yo-yo player, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers: Hiroyuki Suzuki and Jake Elliott. 
   
   
