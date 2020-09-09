@@ -46,8 +46,8 @@ table, tr, td {
 <tr><td> March 2020: </td> <td> Received the Prestigious Deutschlandstipendium Scholarship. </td> </tr>
 <tr><td> Oct. 2019: </td> <td> Moved to Tübingen for Masters in Machine Learning. </td></tr> 
 <tr><td> June 2019:</td> <td> Paper <a href="https://link.springer.com/chapter/10.1007/978-3-030-23281-8_3" >"Learning Mobile App Embeddings Using Multi-task Neural Network"</a> published at 24th International Conference on Applications of Natural Language to Information Systems 2019.</td></tr> 
-<tr><td> April 2019:</td> <td> Presented my paper <a href="https://arxiv.org/abs/1904.06672" >"RelEmb: A relevance-based application embedding for Mobile App retrieval and categorization"</a> at 20th International Conference on Computational Linguistics and Intelligent Text Processing 2019, La Rochelle, France.</td></tr> 
-<tr><td> Aug. 2018:</td> <td> Presented my Poster titled <a href="https://dl.acm.org/doi/10.1145/3233391.3233968" > "A clustering approach to infer Wikipedia contributors' profile" </a> at OpenSym, 2018. </td></tr>
+<tr><td> April 2019:</td> <td> Presented our paper <a href="https://arxiv.org/abs/1904.06672" >"RelEmb: A relevance-based application embedding for Mobile App retrieval and categorization"</a> at 20th International Conference on Computational Linguistics and Intelligent Text Processing 2019, La Rochelle, France.</td></tr> 
+<tr><td> Aug. 2018:</td> <td> Presented our Poster titled <a href="https://dl.acm.org/doi/10.1145/3233391.3233968" > "A clustering approach to infer Wikipedia contributors' profile" </a> at OpenSym, 2018. </td></tr>
 <tr><td> May 2018:</td> <td> Joined Samsung Research, Bangalore as a Senior Software Engineer. </td> </tr>  
 <tr><td> May 2018:</td> <td> Graduated from IIT Dhanbad. </td> </tr>
 <tr><td> Feb 2018: </td> <td> Received Director's Award for Outstanding Performance in Academics during Year 2016-17.  </td></tr>
