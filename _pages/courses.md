@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-Apart from the regular univeristy courses, I also use online platforms to explore and learn about topics, I am interested in.
+Apart from the regular university courses, I also use online platforms to explore and learn about topics, I am interested in.
 
 ## Online Courses
 * [CS231n: Convolutional Neural Networks for Visual Recognition, Stanford University](http://cs231n.stanford.edu/2016/)
