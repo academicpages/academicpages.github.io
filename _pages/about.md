@@ -34,7 +34,7 @@ I actively conduct research in computer vision and image processing. Visit my [p
 ## <span id="contact information">Contact information</span>
 
 * Mailing address:   
-Room 6420, College of Information Science and Engineering   
+College of Information Science and Engineering   
 Henan University of Techonology,   
 No. 100 Lianhua Street, Zhengzhou High-Tech Development Zone,    
 Zhengzhou, Henan, P.R.China (450001)      
