@@ -4,12 +4,6 @@ excerpt: "Principle Investigator"
 collection: people
 ---
 
-Assistant Professor\
-Dept. of Chemical and Biochemical Engineering\
-University of Iowa
+Joe Gomes is an assistant professor in the Chemical and Biochemical Engineering Department at the University of Iowa. He received a B.S. in Chemical Engineering from the University of Illinois-Chicago and a Ph.D. in Chemical Engineering from the University of California-Berkeley. He was a postdoctoral researcher in the Chemistry and Bioengineering Departments at Stanford University. Dr. Gomes conducts research in the areas of theoretical chemistry, machine learning, energy materials, and catalysis.
 
-degrees: 
-- B.S., Chemical Engineering, University of Illinois-Chicago, 2008
-- Ph.D., Chemical Engineering, University of California-Berkeley, 2015
-
-interests: Music, Hiking, Family
+other interests: Music, Hiking, Family
