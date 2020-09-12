@@ -32,7 +32,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-#minimal_mistakes_skin    : "dark" #"light" (default), 
+minimal_mistakes_skin    : "dark" #"light" (default), 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
