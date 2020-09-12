@@ -1,6 +1,6 @@
 ---
 title: ""
-<!-- excerpt: "Short description of portfolio item number 1<br/><img src='/images/Rock1.jpg'>" -->
+#excerpt: "Short description of portfolio item number 1<br/><img src='/images/Rock1.jpg'>" -->
 
 collection: portfolio
 Solarized dark             |  Solarized Ocean
