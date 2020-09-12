@@ -3,8 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
     
   - title: "Accessibility Statement"
     url: /accessibility/
