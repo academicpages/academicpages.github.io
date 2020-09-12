@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,3 +12,8 @@ I am a first year PhD student at [CDT in NLP](https://edinburghnlp.inf.ed.ac.uk/
 
 Previously, I completed MS (by Research) from [Indian Institute of Technology Madras](https://www.iitm.ac.in/) 
 where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/). My thesis involved incorporating information from unstructured data to improve dialogue systems. I was also associated with [RBC-DSAI](https://rbc-dsai.iitm.ac.in/). 
+
+My [CV](). 
+
+We are organizing a workshop on [Graphs and more Complex structures for Learning and Reasoning](https://sites.google.com/view/gclr2021/)(GCLR) at AAAI-21](https://aaai.org/Conferences/AAAI-21/). Please consider submitting at our venue!
+
