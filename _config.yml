@@ -7,7 +7,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
 title                    : "Akshay Rajeev"
@@ -32,7 +32,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-minimal_mistakes_skin    : "dark" #"light" (default), 
+#minimal_mistakes_skin    : "dark" #"light" (default), 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -86,7 +86,7 @@ author:
   name             : "Akshay Rajeev"
   avatar           : "Akshay_Rajeev1.jpeg"
   bio              : Geologist <br>                  
-                     Student at Indian Institute of Technology Gandhinagar.
+                     Student at [Indian Institute of Technology Gandhinagar](https://www.iitgn.ac.in/).
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
