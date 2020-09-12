@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Stories in Rocks"
 excerpt: "Stories in Rocks<br><img src='/images/Rock1.jpg'>"
 collection: portfolio
 ---
