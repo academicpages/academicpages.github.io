@@ -15,5 +15,5 @@ where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.a
 
 My [CV](). 
 
-We are organizing a workshop on [Graphs and more Complex structures for Learning and Reasoning](https://sites.google.com/view/gclr2021/)(GCLR) at AAAI-21](https://aaai.org/Conferences/AAAI-21/). Please consider submitting at our venue!
+We are organizing a workshop on [Graphs and more Complex structures for Learning and Reasoning](https://sites.google.com/view/gclr2021/)(GCLR) at [AAAI-21](https://aaai.org/Conferences/AAAI-21/). Please consider submitting at our venue!
 
