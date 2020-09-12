@@ -2,7 +2,7 @@
 title: "On Incorporating Structural Information to improve Dialogue Response Generation"
 collection: publications
 venue: 2nd Workshop on Natural Language Processing for Conversational AI, ACL 2020. Extended abstract accepted at EurNLP 2019
-permalink: /publication/gcn-2020
+permalink: /publications/2020-04-gcn-paper-3
 ---
 Authors: Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra
 
