@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikita Moghe"
-  avatar           : "nikita_2019.jpg"
+  avatar           : "profile.png"
   bio              : "PhD student at the University of Edinburgh"
   location         : "Edinburgh, United Kingdom"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nikitacs16"
+  github           : "nikitacs16"
   google_plus      :
   keybase          :
   instagram        :
