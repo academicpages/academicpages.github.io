@@ -11,31 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in University of Málaga (UMA), 2018.
+* M.Sc. in University of Glasgow (UofG), 2019.
+* Ph.D in Microelectronics, currently.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2019 - Dec. 2019 : Research Scholar at Microelectronics Laboratory (MeLab) at UofG.
+  * University of Glasgow
+  * Duties included: Design and fabrication of a bioimplantable device using flexible and stretchable electronics and wireless power transmission system for brain estimulation.
+  * Supervisor: Hadi Heidari
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2020 - Jul. 2020 : Research Assistant at Life Supporting Technologies at Technical University of Madrid.
+  * Universidad Politécnica de Madrid.
+  * Duties included: European Project writing and management. Iot and WoT architectures development and deployment.
+  * Supervisor: María Teresa Arredondo Waldmeyer
+  
+* Sep. 2020 - Currently : Researcher at Neuromorphic Computing Laboratory at National Centre of Microelectronics, Institute of Microelectronics of Seville (IMSE-CNM).
+  * National Centre of Microelectronics
+  * Duties included: Hybrid Enhanced Regenerative Medicine (HERMES).
+  * Supervisor: Teresa Serrano Gotarredona and Bernabé Linares Barranco.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Coding
+  * C/C++
+  * Python
+  * Matlab
+  * VHDL
+  * Verilog
+  * PHP
+* CAD
+  * Eagle
+  * Altium
+  * Kicad
+  * SolidWorks
+  * AutoCAD.
+* Electronics
+  * SMT
+  * Wire-Bonding
+  * Flip chip
+  * STM32
+  * Raspberry Pi, Arduino
+  * ARM
+  * Flexible and stretchable electronics
+* Others
+  * Latex
+  * Adobe Premiere, Illustrator, Pro.
+* Language
+  * Spanish (Native)
+  * English
+  * German
+  * Korean
+  * French
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +83,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
