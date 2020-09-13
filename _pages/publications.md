@@ -12,6 +12,7 @@ author_profile: true
 - **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. 2020. [arxiv](https://arxiv.org/abs/2002.04238)
 
 ## 2020
+- **Xiangfeng Wang**, Jane Ye, Xiaoming Yuan, Shangzhi Zeng and Jin Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2020.
 - **Xiangfeng Wang**, Junping Zhang and Wenxing Zhang, The Distance Between Convex Sets with Minkowski Sum Structure: Application to Collision Detection. *Computational Optimization and Applications*, accepted, 2020.
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, accepted, 2020.
 - M. Hong, T.-H. Chang, **Xiangfeng Wang**, M. Razaviyayn, S. Ma and Z.-Q. Luo, A Block Successive Upper Bound Minimization Method of Multipliers for Linearly Constrained Convex Optimization. *Mathematics of Operations Research*, 45(3), 2020, pp.833-861.
