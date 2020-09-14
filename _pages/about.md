@@ -21,7 +21,7 @@ redirect_from:
 
 <p class="lead">My primary subfield is the political economy of development of Latin America. My research extends across several substantive areas, including state capacity, clientelism and political development. As an applied methodologist I also have a strong interest in statistical and experimental methods.</p>
 
-<p class="lead"> [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)</p>
+[Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
 
 
