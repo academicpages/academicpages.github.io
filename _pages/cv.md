@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in EECS, Indian Institute of Technology, Delhi, 2012
+* M.S. in EECS, University of Michigan, Ann Arbor, 2014
+* Ph.D in EECS (Signal Processing and Machine Learning), University of Michigan, Ann Arbor 2017
 
 Work experience
 ======
@@ -29,12 +29,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+### Programming Languages: 
+* **Python** (proficient): 
+  * **ML frameworks**:  Tensorflow (1.x and 2.x), PyTorch, scikit-learn
+  * **Scientific computing**: numpy, pandas, scipy, scikit-optimize, OpenCV, statsmodels
+  * **Visualization**: matplotlib, seaborn, plotly, dash
+  * **Cloud infrastructure**: AzureML SDK, AWS sagemaker, boto3
+* **R** (intermediate):
+  * **ML frameworks**: caret
+  * **Tidyverse**: dplyr, tidyr, purr
+  * **Visualization**: ggplot2, R shiny
+* **MATLAB**(intermediate), **GNU Octave** (intermediate), **C++** (learning)
+### Miscellaneous Technologies:
+*	Docker, conda, Git
+
 
 Publications
 ======
@@ -42,18 +51,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Honors and awards:
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+*	Rackham Graduate Fellowship ‘12
+*	Indian National Mathematics Olympiad ’08 (All India Rank 2)
+*	National Talent Search Examination Scholarship recipient (awarded to 1000 students)
+*	Kishore Vaigyanik Protsahan Yojana Scholarship recipient (awarded to 100 students)
