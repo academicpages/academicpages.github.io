@@ -38,7 +38,7 @@ Your mental and physical health are very important – to you and to ensure your
 ## Meetings 
 
 ### One-on-one meetings
-We will meet formally each week to discuss results, progress, ideas, and relevant literature. Please come to each meeting prepared for substantive discussion – at least 1 thing you’re ready to show me (a plot, data table, thoughts on a paper, etc.) and at least 1 question (which could also be a plot, data, etc.). Please also be ready to propose what you want to accomplish in the upcoming week in light of your week’s workload, and what adjustments need to be made to your schedule. In return, I will be ready for discussion and ideas for new directions. Early on and during ‘crunch’ periods, we may meet more frequently than once a week.
+We will meet formally each week to discuss results, progress, ideas, and relevant literature. Please come to each meeting prepared for substantive discussion – at least 1 thing you’re ready to show me (a plot, data table, thoughts on a paper, etc.) and at least 1 question (which could also be a plot, data, etc.). These discussion points should be documented in [your agenda](https://docs.google.com/document/d/1XCeJSv8ijn_hrwFPVYhswyJgRs69MkpsGHJIm-32pPY/edit?usp=sharing), which must be made available 24 hours prior to the meeting. Please also be ready to propose what you want to accomplish in the upcoming week in light of your week’s workload, and what adjustments need to be made to your schedule. In return, I will be ready for discussion and ideas for new directions. Early on and during ‘crunch’ periods, we may meet more frequently than once a week.
 
 ### Lab meetings
 
@@ -122,36 +122,6 @@ Do not hesitate to ask me for a letter! I want to know as soon as possible what 
 
 
 *Adapted from Michael Harrison Hsieh, “Undergraduate Researcher Contract”, Savio Chan, “Chan Lab Manual”, Lisa Gilbert, “Undergraduate Researcher Expectations”, Barbara Tewksbury “Research Student Guidelines and Expectations”, and Sarah Carmichael, “Undergraduate Research Contract”, and April Wright’s Code of Conduct.*
-
-
-
-\pagebreak{}
-
-# Lab Contract Checklist
-
-## All lab members
-- [ ] Get access to buildings and office keys – Nicole Manuera
-- [ ] Get access to the lab calendar and Google Drive
-- [ ] Complete mentorship document
-- [ ] Send Sarah a description and photo for the lab website and 5th floor wall
-
-## Lab members working in the labs
-- [ ] Complete online H&S training 
-- [ ] Complete MPI quiz
-- [ ] Complete floor inductions
-
-## Computational lab members
-- [ ] Obtain access to the HPC cluster
-- [ ] Join the lab’s github
-
-
-# Questions 
-If you have any questions about these or other topics, please don’t hesitate to ask. There are no dumb questions, and if you need something explained for the millionth time, it’s my job to explain it to you, so just ask! 
-
-Student Name: _______________________________________ (print)
-
-Student Signature: ____________________________________ Date: ________
-
 
 
 
