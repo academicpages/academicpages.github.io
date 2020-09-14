@@ -13,25 +13,26 @@ redirect_from:
 <img src="/resources/profile2.jpg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
-<p class="lead"> I am an Assistant Professor at <b>Universidad de O'Higgins</b> in Chile.</p>
+<p class="lead"> I am an Assistant Professor at Universidad de O'Higgins in Chile.</p>
 
-<p class="lead"> Before joining Universidad de O'Higgins, I served one year as a post-doctoral fellow at <b>Tulane University</b> for the 2017-2018 AY. I received my Ph.D in Political Science from <b>Rutgers University</b> (New Brunswick, NJ) in the spring of 2017.</p>
+<p class="lead"> Before joining Universidad de O'Higgins, I served one year as a post-doctoral fellow at Tulane University for the 2017-2018 AY. I received my Ph.D in Political Science from Rutgers University (New Brunswick, NJ) in the spring of 2017.</p>
 
-<p class="lead"> My research is either forthcoming, or has been published in <b>Acta Politica</b>, <b>Journal of Politics in Latin America</b>, <b>Regional Science, Policy and Practice</b> and <b>Revista de Ciencia Politica</b>. I am also an Associate Editor of Social Science (Springer).</p>
+<p class="lead"> My research is either forthcoming, or has been published in Acta Politica, Journal of Politics in Latin America, Regional Science, Policy and Practice and Revista de Ciencia Politica. I am also an Associate Editor of Social Science (Springer).</p>
+
+<p class="lead">My primary subfield is the political economy of development of Latin America. My research extends across several substantive areas, including state capacity, clientelism and political development. As an applied methodologist I also have a strong interest in statistical and experimental methods.</p>
 
 <p class="lead"> [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)</p>
 
-My <b>primary subfield is the political economy of development of Latin America</b>. My <b>research</b> extends across several substantive areas, including state capacity, clientelism and political development. As an applied methodologist I also have a strong interest in <b>statistical and experimental methods</b>.
 
 
 Next Talks/Conferences
 ============
 
-1.  **January 8-11, 2020, San Juan, Puerto Rico**: *SPSA* (canceled; COVID19).
+1.  January 8-11, 2020, San Juan, Puerto Rico: SPSA (canceled; COVID19).
 
-2. **April 16-19, 2020, Chicago, United States**: *MPSA* (canceled; COVID19).
+2. April 16-19, 2020, Chicago, United States: MPSA (canceled; COVID19).
 
-3. **September 10-13, 2020, San Francisco, United States**: *APSA*.
+3. September 10-13, 2020, San Francisco, United States: APSA.
 
 
 <!---
