@@ -53,12 +53,13 @@ Education
   
 Awards
 ======
+* 2020, Pollyanna Chu Yuet Wah Scholarship to Outstanding PhD Student, University of Chinese Academy of Sciences (UCAS)
 * 2020, Pacemaker to Merit Student, CASIA
 * 2019, "Climbing" Second-Class Scholarship, CASIA
 * 2019, AAAI Student Scholarship, AAAI
 * 2018 & 2019, SIGIR Student Travel Grants, ACM SIGIR
 * 2017, Second Place in the 12th CASIA Five-a-side Football League, CASIA
-* 2017, Second Place in 2017 UCAS Football League, University of Chinese Academy of Sciences (UCAS)
+* 2017, Second Place in 2017 UCAS Football League, UCAS
 * 2016, Outstanding Graduate Award, Wuhan University
 * 2015, Chinese Academy of Sciences Scholarship for College Students (rewarding top 10% students with postgraduate recommendation), University of Chinese Academy of Sciences (UCAS)
 * 2015, First Prize in the 10th Freescale Cup Smart Car Competition (Magnetic Navigation Double-Car Group), Teaching Steering Committee on Automation, Department of Higher Education under the Ministry of Education
