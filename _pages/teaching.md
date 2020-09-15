@@ -61,7 +61,7 @@ You can download our [slides here](https://yongjunzhang.com/files/tutorial/Lectu
 
 #### Train your own word2vec in Python Gensim
 
-You can download [Lab3.html](https://yongjunzhang.com/files/tutorial/Lab4.html). You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab4.ipynb) and [py script here](https://yongjunzhang.com/files/tutorial/Lab4.py).
+You can download [Lab4.html](https://yongjunzhang.com/files/tutorial/Lab4.html). You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab4.ipynb) and [py script here](https://yongjunzhang.com/files/tutorial/Lab4.py).
 
 #### Announcement
 
