@@ -52,3 +52,17 @@ You can download [Lab3.html](https://yongjunzhang.com/files/tutorial/Lab3.html) 
 #### Announcement
 
 We have a guest speaker today. You can check here for more info about [Dr. Charles Gomez from CUNY Sociology Department](https://charliegomez.com/).
+
+### Week 4
+
+#### Mini-Lecture 4. Word Embedding in Social Science 
+
+You can download our [slides here](https://yongjunzhang.com/files/tutorial/Lecture4.pdf)
+
+#### Train your own word2vec in Python Gensim
+
+You can download [Lab3.html](https://yongjunzhang.com/files/tutorial/Lab4.html). You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab4.ipynb) and [py script here](https://yongjunzhang.com/files/tutorial/Lab4.py).
+
+#### Announcement
+
+We have a guest speaker today. You can check here for more info about [Dr. Yongren Shi from IOWA Sociology and Criminology Department](https://clas.uiowa.edu/sociology/people/yongren-shi).
