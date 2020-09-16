@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my webpage! "
+title: "Welcome to my webpage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist by profession and am interested in applying state-of-the-art machine learning models in computer vision, 3D geometry, generative modelling to solve real world problems.
+I am a Data Scientist by profession and am interested in applying state-of-the-art machine learning models to solve real world business problems.
 
 Biography
 ======
