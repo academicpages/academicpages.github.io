@@ -120,10 +120,10 @@ layout: default
         {% endfor %}
         
         {% comment %}<!--fill w/ most recent if not maxed out on related-->{% endcomment %}
-          {% assign remainingRelated = maxRelated | minus: maxRelatedCounter %}
-          {% for post in site.related_posts limit:remainingRelated %}
-            {% include archive-single.html type="grid" %}
-          {% endfor %}
+        {% assign remainingRelated = maxRelated | minus: maxRelatedCounter %}
+        {% for post in site.related_posts limit:remainingRelated %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
           
       </div>
     </div>
