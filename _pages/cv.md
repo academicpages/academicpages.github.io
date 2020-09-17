@@ -17,29 +17,31 @@ Education
 
 Work experience
 ======
-* Data Scientist, AI lab 3M Corporate Research Systems Lab (Oct’17 – Oct‘20):
+* **Data Scientist, AI lab 3M Corporate Research Systems Lab** (Oct’17 – Oct‘20):
   *	Projects focused on multiple ML projects focusing on data analytics, computer vision, generative adversarial networks, reinforcement learning, time series analysis
   *	Developed web deployment pipeline using AWS Sagemaker for multiple projects 
   *	Research throughput: Applied for 18 patents
 
-* Data Scientist, General Data Science lab, Oral Care Solutions Division (Jan’20-Oct’20):
-  * Projects focused on 3D geometry, computational imaging, and Geometric Deep Learning within the domain of Digital Orthodontics
+* **Data Scientist, General Data Science lab, Oral Care Solutions Division** (Jan’20-Oct’20):
+  * Projects focussed on 3D geometry, computational imaging, and Geometric Deep Learning within the domain of Digital Orthodontics
   *	Developed ML pipelines for research and development using Azure cloud infrastructure
   *	Research throughput: Applied for 4 patents
 
-* Graduate Research Assistant, EECS Department University of Michigan Ann Arbor:
-  *	Applications of recent results from Random Matrix Theory on low rank subspace estimation problems in the multi modal setting.
+* **Graduate Research Assistant, EECS Department University of Michigan Ann Arbor**:
+  *	Applications of recent results from Random Matrix Theory on Low Rank Subspace Estimation problems in the Multi Modal setting.
   *	Collaborated with network scientists from Army Research Lab and MIT Lincoln lab.
   *	Taught EECS301:Probability and Statistics to Undergraduate students.
 
   
 Skills
 ======
+
 ### Machine Learning:
 * 2D/3D Computer Vision
 * Time Series Analysis/ Forecasting
-* Classical Reinforcement Learning
-* Dictionary Learning, Low Rank Subspace Estimation 
+* Dictionary Learning, Low Rank Subspace Estimation
+* Optimization
+
 ### Programming Languages: 
 * **Python** (proficient): 
   * **ML frameworks**:  Tensorflow (1.x and 2.x), PyTorch, scikit-learn
@@ -51,8 +53,9 @@ Skills
   * **Tidyverse**: dplyr, tidyr, purr
   * **Visualization**: ggplot2, R shiny
 * **MATLAB**(intermediate), **GNU Octave** (intermediate), **C++** (learning)
+
 ### Miscellaneous Technologies:
-*	Docker, conda, Git
+*	Docker, Conda, Git
 
 
 Publications
