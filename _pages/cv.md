@@ -35,7 +35,11 @@ Work experience
   
 Skills
 ======
-
+### Machine Learning:
+* 2D/3D Computer Vision
+* Time Series Analysis/ Forecasting
+* Classical Reinforcement Learning
+* Dictionary Learning, Low Rank Subspace Estimation 
 ### Programming Languages: 
 * **Python** (proficient): 
   * **ML frameworks**:  Tensorflow (1.x and 2.x), PyTorch, scikit-learn
