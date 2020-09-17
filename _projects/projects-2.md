@@ -11,7 +11,7 @@ Super-resolution (SR) techniques aim to increase the spatial resolution of a low
   <b>$\textbf{I}^{\textit{LR}} = A H C \textbf{ I}^{\textit{HR}} + N$</b><br>
 </p>
                          
-where $\textbf{I}^{\textit{LR}}$ is the LR image, $\textbf{I}^{\textit{HR}}$ is the HR image, C is the geometric transformation matrix, H is the blur matrix, A is the downsampling operator, and N is the noise. The ultimate goal of the SR techniques is to eliminate these degradation effects and estimate the HR image. SR is an ill-posed problem due to the downsampling operation and also an inverse problem since the input image \textbf{I}^{\textit{HR}} of the degradation system is the desired output of the SR system. To solve this problem, many techniques have been discussed in the literature, which can be mainly divided into two categories based on the LR input number: Single-Input SR (SISR) techniques and Multi-Input SR (MISR) techniques. Since SR is an ill-posed problem, the mapping from the LR space to the HR space requires multiple input images with different geometric alignments or nonlinearity to estimate the lost information of the HR image.
+where $\textbf{I}^{\textit{LR}}$ is the LR image, $\textbf{I}^{\textit{HR}}$ is the HR image, C is the geometric transformation matrix, H is the blur matrix, A is the downsampling operator, and N is the noise. The ultimate goal of the SR techniques is to eliminate these degradation effects and estimate the HR image. SR is an ill-posed problem due to the downsampling operation and also an inverse problem since the input image $\textbf{I}^{\textit{HR}}$ of the degradation system is the desired output of the SR system. To solve this problem, many techniques have been discussed in the literature, which can be mainly divided into two categories based on the LR input number: Single-Input SR (SISR) techniques and Multi-Input SR (MISR) techniques. Since SR is an ill-posed problem, the mapping from the LR space to the HR space requires multiple input images with different geometric alignments or nonlinearity to estimate the lost information of the HR image.
 
 In this project, I first implemented Irani-Peleg's IBP algorithm, an MISR technique, and compared it with a convolutional neural network (CNN) implementation. Later, I implemented a sub-pixel CNN and analyzed it with different parameters and loss functions. I used AWS for training process. During my reseach journey, I found some interesting results on the limitation of SR and on the checkerboard artifacts.
 * Limitation of SR:
@@ -34,5 +34,5 @@ Checkerboard artifacts can be eliminated with an ideal low-pass filter. The radi
 <p align="center">
   <br/><img src='/images/cali.png'/><img src='/images/casiz.png'/><br/>
   <br/>Left: Image before low-pass filtering, Right: Image after low-pass filtering<br/>
-  Fig. 3: Reconstructed 'butterfly' Images<br/>
+  Fig. 3: Reconstructed 'butterfly' images<br/>
 </p>
