@@ -33,6 +33,6 @@ The checkerboard artifacts occur in an image due to pixel replication during the
 Checkerboard artifacts can be eliminated with an ideal low-pass filter. The radius of the filter should be carefully chosen. 
 <p align="center">
   <br/><img src='/images/cali.png'/><img src='/images/casiz.png'/><br/>
-  <br/>Left: Image before low-pass filtering, Right: Image after low-pass filtering<br/>
-  Fig. 3: Reconstructed 'butterfly' images<br/>
+  <br/>Left: Image before Low-pass Filtering, Right: Image after Low-pass Filtering<br/>
+  Fig. 3: Reconstructed 'butterfly' Images<br/>
 </p>
