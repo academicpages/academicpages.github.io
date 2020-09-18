@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Information Professional"
 title_separator          : "-"
 name                     : &name "Craig Toth"
 description              : &description "personal description"
