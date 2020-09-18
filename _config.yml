@@ -80,12 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zachary Garfield"
+  name             : "Zachary H. Garfield"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow at The Institute for Advanced Study in Toulouse. Behavioral scientist. Evolutionary anthropologist."
+  bio              : "Postdoctoral Research Fellow at The Institute for Advanced Study in Toulouse. 
+Behavioral scientist. Evolutionary anthropologist."
   location         : "Toulouse, France"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=k5NnEvgAAAAJ"
   email            : "zachary.garfield@iast.fr"
   researchgate     : "https://www.researchgate.net/profile/Zachary_Garfield"
@@ -99,11 +100,11 @@ author:
   github           : "zhgarfield"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-1547-1492"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +114,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCVZIKjcvAabkrnTcYjuz3NA?view_as=subscriber"
   wikipedia        :
 
 
