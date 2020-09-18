@@ -16,7 +16,7 @@ Rob Williams, Daniel Gustafson, Stephen Gent, and Mark Crescenzi. "A Latent Vari
 
 [Article](https://doi.org/10.1017/psrm.2019.23){: .btn--research} [Preprint](/files/pdf/research/Agreement Strength Accepted.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Agreement Strength SI.pdf){: .btn--research} [Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVUY8UI){: .btn--research} [GitHub Repo](https://github.com/jayrobwilliams/Peace-Agreement-Strength){: .btn--research}
 
-## Working paper
+## Working papers
 
 Rob Williams. "PASS: Peace Agreement Strength Scores."
 
@@ -24,11 +24,13 @@ Rob Williams. "PASS: Peace Agreement Strength Scores."
 
 [Working Paper](/files/pdf/research/PASS.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/PASS SI.pdf){: .btn--research}
 
-## Manuscripts in preparation
-
-Bailee Donahue, Rob Williams, and Mark Crescenzi. "Unsettled Borders in a Market Context." Presented at the Annual Meeting of the Peace Science Society (International), Manhattan, KS, November 2019 and the International Studies Association Midwest Annual Conference, St. Louis, MO, November 2019. To be presented at the Annual Conference of the American Political Science Association, San Francisco, CA, September, 2020.
+Bailee Donahue, Rob Williams, and Mark Crescenzi. "Unsettled Borders in a Market Context." Presented at the Annual Meeting of the Peace Science Society (International), Manhattan, KS, November 2019, the International Studies Association Midwest Annual Conference, St. Louis, MO, November 2019, and the Annual Conference of the American Political Science Association, San Francisco, CA, September, 2020.
 
 > Border disputes between states can be very costly and disruptive, including major disruptions in trade. From an aggregate perspective, scholars traditionally expect these costs and disruptions to place pressure on states to avoid or resolve these disputes quickly. This view, however, risks oversimplification of the quality of trade and the economic actors driving that trade. We investigate the consequences of complex trade relations on border disputes. Variation in the composition of trade, whether characterized by comparative advantage trade, inter-industry trade, or intra-industry trade, generates variation in the presence and intensity of domestic pressure to avoid or resolve border disputes. We examine the effects of this variation on dispute behavior using an original dataset that combines product-level trade data (spanning from 1962-2001) with ICOW territorial claims data. The use of product-level trade data allows for the analysis of substitutability options which may reduce exit costs and make it easier to escalate border disputes. This analysis helps us better understand the choice to forego trade due to border disputes, and furthers our understanding of the economic impact of unsettled borders.
+
+[Working Paper](/files/pdf/research/Unsettled_Borders.pdf){: .btn--research}
+
+## Manuscripts in preparation
 
 David B. Carter, Bailee Donahue, and Rob Williams. "Border Walls, Cooperation, and Illicit Trade." To be presented at Annual Conference of the International Political Economy Society, Columbus, OH, November, 2020.
 
