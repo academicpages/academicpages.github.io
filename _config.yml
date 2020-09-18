@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Zachary H. Garfield / Research Fellow"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zachary H. Garfield"
+description              : &description "Research Fellow at The Institute for Advanced Studies in Toulouse. Adjunct Faculty in anthropology at Washington State University. Co-director of The Omo Valley Research Project."
+url                      : https://zhgarfield.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zhgarfield/zhgarfield.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zachary Garfield"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoctoral Research Fellow at The Institute for Advanced Study in Toulouse. Behavioral scientist. Evolutionary anthropologist."
+  location         : "Toulouse, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=k5NnEvgAAAAJ"
+  email            : "zachary.garfield@iast.fr"
+  researchgate     : "https://www.researchgate.net/profile/Zachary_Garfield"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhgarfield"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "zhgarfield"
   vine             :
   weibo            :
   xing             :
