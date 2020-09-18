@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zachary H. Garfield / Research Fellow"
 title_separator          : "-"
 name                     : &name "Zachary H. Garfield"
-description              : &description "Research Fellow at The Institute for Advanced Studies in Toulouse. Adjunct Faculty in anthropology at Washington State University. Co-director of The Omo Valley Research Project."
+description              : &description "behavioral scientist<br/>evolutionary anthropologist."
 url                      : https://zhgarfield.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhgarfield/zhgarfield.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "zhgarfield"
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Zachary H. Garfield"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow at The Institute for Advanced Study in Toulouse. 
-Behavioral scientist. Evolutionary anthropologist."
+  bio              : "Behavioral scientist and evolutionary anthropologist. Postdoctoral Research Fellow at <a style='color: black;' href='http://www.iast.fr/'>The Institute for Advanced Study in Toulouse</a>. Adjunct Faculty at Washington State University, Department of Anthropology. Co-director of The Omo Valley Research Project."
   location         : "Toulouse, France"
   employer         :
   pubmed           : 
