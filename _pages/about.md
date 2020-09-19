@@ -21,7 +21,7 @@ My research program focuses on uncovering interactions between individual behavi
 
 A broader focus my research program includes understanding how remote, minority ethnic populations with limited market integration navigate increasing pressures from state-level influences and maintain or adapt long-standing and more traditional components of their social, cultural, and economic livelihoods. The ultimate goal of my research program is to develop more robust, generalizable theories of human behavior, social organization, and cultural change which are supported and tested through solid empirical foundations.
 
-Field researh
+Field research
 ------
 I have conducted fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
 
