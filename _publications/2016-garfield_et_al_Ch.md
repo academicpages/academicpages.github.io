@@ -1,5 +1,5 @@
 ---
-title: "A cross-cultural analysis of hunter- gatherer social learning"
+title: "A cross-cultural analysis of hunter-gatherer social learning"
 collection: publications
 permalink: /publication/2016-garfield_et_al_Ch
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
