@@ -26,13 +26,15 @@ Field research
 I have conducted fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
 
 ![](/images/chabu_interview_small75.jpg)
+*image_caption*
 
 
-Currently, my field research is focused on developing the [Omo Valley Research Project](http://www.omovalleyresearchproject.org) (OVRP), which I co-direct with colleague Dr. Luke Glowacki. <img align="right" src="/images/OVRP-logo-Black-500px.png"> The Omo Valley is one of the most culturally diverse areas in the world. The OVRP was established in 2019 and is building a large-scale data set from multiple ethnolinguistic groups for comparative and longitudinal social, biological, and health research.
+Currently, my field research is focused on developing the [Omo Valley Research Project](http://www.omovalleyresearchproject.org) (OVRP), which I co-direct with colleague Dr. Luke Glowacki. <img align="right" src="/images/OVRP-logo-Black-500px.png"> Ethiopia's Omo Valley is one of the most culturally diverse areas in the world. The OVRP was established in 2019 and is building a large-scale data set from multiple ethnolinguistic groups for comparative and longitudinal social, biological, and health research.
 
-The OVRP is an interdisciplinary non-profit scientific organization focused on 1) understanding cultural change and diversity in human social organization and behavior and 2) facilitating education, conservation, and philanthropy across Southwest Ethiopia.
+As an interdisciplinary non-profit scientific organization, OVRP is focused on 1) understanding cultural change and diversity in human social organization and behavior and 2) facilitating education, conservation, and philanthropy across Southwest Ethiopia.
 
-![Attending a Hamar cow slaughter ceremony](/images/hamar_cow.jpg)
+![](/images/hamar_cow.jpg)
+*Attending a Hamar cow slaughter ceremony*
 
 Scientific phiolosophies
 ------
