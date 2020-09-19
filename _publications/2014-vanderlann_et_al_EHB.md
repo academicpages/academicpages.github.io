@@ -3,7 +3,7 @@ title: "The ‘female fertility–social stratification–hypergyny’ hypothesi
 collection: publications
 permalink: /publication/2014-vanderlann_et_al_EHB
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2014
+date: 2014-09-01
 venue: 'Evolution and Human Behavior'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Doug P. VanderLaan, *Zachary H. Garfield*, Melissa J. Garfield, Jean-Baptiste Leca, Paul L. Vasey, and Raymond B. Hames. (2014). &quot;The ‘female fertility–social stratification–hypergyny’ hypothesis of male homosexual preference: Factual, conceptual and methodological errors in Barthes et al. [Commentary].&quot; <i>Evolution and Human Behavior</i>. 35(5).'
