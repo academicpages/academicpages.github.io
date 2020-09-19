@@ -25,7 +25,7 @@ Field researh
 ------
 I have conducted fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
 
-![Conducting interviews at Chabu home](/images/chabu_interview.jpg)
+![Conducting interviews at Chabu home](/images/chabu_interview.jpg) 
 
 <img src="chabu_interview.jpg" alt="Conducting interviews at Chabu home" width="200"/>
 
