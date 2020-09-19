@@ -34,7 +34,7 @@ The OVRP is an interdisciplinary non-profit scientific organization focused on 
 
 ![Attending a Hamar cow slaughter ceremony](/images/hamar_cow.jpg)
 
-Scientific phiolosphies
+Scientific phiolosophies
 ------
 * I value quantitative multidisciplinary approaches in the evolutionary human sciences, built upon sound theoretical foundation. I support open science and the coupling of confirmatory and exploratory analytic approaches. 
 
