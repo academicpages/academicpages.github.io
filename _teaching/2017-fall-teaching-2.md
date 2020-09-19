@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Teaching Pastor"
 collection: teaching
 type: "Clergy"
 permalink: /teaching/2017-fall-teaching-2
@@ -8,4 +8,5 @@ date: 2020-01-01
 location: "Winston Salem, NC"
 ---
 
-* Provides Online Instruction for church members.
+* Provides online instruction for church members.
+* Develops web-based instructional resources.
