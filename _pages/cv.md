@@ -31,6 +31,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Contact Info
+======
+* Phone: 13162517010
+* Email: candyguo_fly@163.com  
+
 Awards & Honor
 ======
 * 上海市优秀毕业生　(2018.03)
