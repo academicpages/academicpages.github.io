@@ -10,7 +10,7 @@ redirect_from:
 
 Biographical sketch
 ======
-I am an interdisciplinary behavioral scientist and evolutionary anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Studies in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) and maintain an affiliation at Washington State University as Adjunct Faculty in the [Department of Anthropology](https://anthro.vancouver.wsu.edu/people/zgarfield/). I am also co-director of the [Omo Valley Research Project](http://www.omovalleyresearchproject.org). 
+I am an interdisciplinary behavioral scientist and evolutionary anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) and maintain an affiliation at Washington State University as Adjunct Faculty in the [Department of Anthropology](https://anthro.vancouver.wsu.edu/people/zgarfield/). I am also co-director of the [Omo Valley Research Project](http://www.omovalleyresearchproject.org). 
 
 
 I received a B.A. with highest distinction in anthropology and psychology from the University of Nebraska–Lincoln in 2012 and completed my Ph.D. in evolutionary anthropology at WSU in 2019.
@@ -19,7 +19,7 @@ Research statement
 ======
 My research program focuses on uncovering interactions between individual behavioral strategies and group dynamics in the context of cultural transitions. In particular, I investigate how behaviors such as leadership and followership, decision-making, and economic strategies are related to group-level pressures such as network dynamics, sociopolitical structures, social contexts, and cultural norms. I am especially interested in how relationships between these individual-level and group-level forces vary across populations and across time. I draw on adaptationist, behavioral-ecological, and cultural-evolutionary theoretical frameworks.
 
-A broader focus my research program includes understanding how remote, minority ethnic populations with limited market integration navigate increasing pressures from state-level influences and maintain or adapt long-standing and more traditional components of their social, cultural, and economic livelihoods. The ultimate goal of my research program is to develop more robust, generalizable theories of human behavior, social organization, and cultural change which are supported and tested through solid empirical foundations.
+A broader focus my research focuses on how subsistence-based populations with limited market integration navigate increasing pressures from state-level influences and maintain or adapt long-standing components of their social, cultural, and economic livelihoods. The ultimate goal of my research program is to develop more robust, generalizable theories of human behavior, social organization, and cultural change which are supported and tested through solid empirical foundations.
 
 Field research
 ------
