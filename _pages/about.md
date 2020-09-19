@@ -27,7 +27,7 @@ I have conducted fieldwork in Southwest Ethiopia since 2015. I have worked with 
 
 ![Conducting interviews at Chabu home](/images/chabu_interview.jpg) 
 
-<img src="chabu_interview.jpg" alt="Conducting interviews at Chabu home" width="200"/>
+<img src="/images/chabu_interview.jpg" alt="Conducting interviews at Chabu home" width="200"/>
 
 Currently, my field research is focused on developing the [Omo Valley Research Project](http://www.omovalleyresearchproject.org) (OVRP), which I co-direct with colleague Luke Glowacki. <img align="right" src="/images/OVRP-logo-Black-500px.png">. The Omo Valley is one of the most culturally diverse areas in the world. The OVRP is a new research enterprise aimed at building a large-scale, longitudinal data set from multiple distinct ethnolinguistic groups in Southwest Ethiopia.
 
