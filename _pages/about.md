@@ -26,10 +26,10 @@ Field research
 I have conducted fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
 
 ![](/images/chabu_interview_small75.jpg)
-*Conducting interviews at a Chabu house, 2016 *
+*Conducting interviews at a Chabu house, 2016*
 
 
-Currently, my field research is focused on developing the [Omo Valley Research Project](http://www.omovalleyresearchproject.org) (OVRP), which I co-direct with colleague Dr. Luke Glowacki. <img align="right" src="/images/OVRP-logo-Black-500px.png"> Ethiopia's Omo Valley is one of the most culturally diverse areas in the world. The OVRP was established in 2019 and is building a large-scale data set from multiple ethnolinguistic groups for comparative and longitudinal social, biological, and health research.
+Currently, my field research is focused on developing the [Omo Valley Research Project](http://www.omovalleyresearchproject.org) (OVRP), which I co-direct with Dr. Luke Glowacki. <img align="right" src="/images/OVRP-logo-Black-500px.png"> Ethiopia's Omo Valley is among the most culturally diverse regions in the world. Dr. Glowacki and I established the OVRP in 2019 and are working to build a large-scale data set from multiple ethnolinguistic groups for comparative and longitudinal social, biological, and health research.
 
 As an interdisciplinary non-profit scientific organization, OVRP is focused on 1) understanding cultural change and diversity in human social organization and behavior and 2) facilitating education, conservation, and philanthropy across Southwest Ethiopia.
 
@@ -40,10 +40,10 @@ Scientific philosophy
 ------
 * I value quantitative multidisciplinary approaches in the evolutionary human sciences, built upon sound theoretical foundation. I support open science and the coupling of confirmatory and exploratory analytic approaches. 
 
-* The opportunity to collect observational and empirical data from culturally diverse, subsistence-based populations is rapidly diminishing and should therefore be a top priority of the social sciences. 
+* The opportunity to collect observational, empirical, and ethnographic data from culturally diverse, subsistence-based populations is rapidly diminishing and should therefore be a top priority of the social sciences. 
 
 * Anthropologists are uniquely situated to be meaningful allies as rural and indigenous populations navigate their changing worlds. 
 
-* Contemporary field research can be informed by comparative results and evolutionary scientists should strive to draw on broad phylogenetic perspectives, across cultures and species. The ethnographic record is an indispensable tool for testing predictions and generating theory about the diversity and universality of our species.
+* Field methods can be informed by comparative results and evolutionary scientists should draw on broad phylogenetic perspectives, across cultures and species. The ethnographic record is an indispensable tool for testing predictions and generating theory about the diversity and universality of our species.
 
-* The evolutionary human sciences will be strengthened by increased integration, synthesizing adaptationist, behavioral-ecological, and cultural-evolutionary frameworks. 
+* The evolutionary human sciences will be strengthened by increased integration synthesizing adaptationist, behavioral-ecological, and cultural-evolutionary frameworks. 
