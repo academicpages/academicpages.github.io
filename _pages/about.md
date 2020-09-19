@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary behavioral scientist and evolutionary anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Studies in Toulouse] (http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) and maintain an affiliation at Washington State University as Adjunct Faculty in the [Department of Anthropology] (https://anthro.vancouver.wsu.edu/people/zgarfield/). I am also co-director of the [Omo Valley Research Project] (http://www.omovalleyresearchproject.org). 
+I am an interdisciplinary behavioral scientist and evolutionary anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Studies in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) and maintain an affiliation at Washington State University as Adjunct Faculty in the [Department of Anthropology](https://anthro.vancouver.wsu.edu/people/zgarfield/). I am also co-director of the [Omo Valley Research Project] (http://www.omovalleyresearchproject.org). 
 
 
 I received a B.A. with highest distinction in anthropology and psychology from the University of Nebraska–Lincoln in 2012 and completed my Ph.D. in evolutionary anthropology at WSU in 2019.
@@ -21,11 +21,11 @@ A broader focus my research program includes understanding how remote, minority 
 
 Field researh
 ------
-I conduct fieldwork in Southwest Ethiopia. Since 2015 I have worked with the [Chabu forager-horticulturalists] (https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
+I conduct fieldwork in Southwest Ethiopia. Since 2015 I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
 
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-Currently, my field research is focused on developing the [Omo Valley Research Project (OVRP)] (http://www.omovalleyresearchproject.org), which I co-direct with colleague Luke Glowacki. The Omo Valley is one of the most culturally diverse areas in the world. The OVRP is a new research enterprise aimed at building a large-scale, longitudinal data set from multiple distinct ethnolinguistic groups in Southwest Ethiopia. The OVRP is an interdisciplinary non-profit scientific organization focused on 1) understanding cultural change and diversity in human social organization and behavior and 2) facilitating education, conservation, and philanthropy across southwest Ethiopia.
+Currently, my field research is focused on developing the [Omo Valley Research Project (OVRP)](http://www.omovalleyresearchproject.org), which I co-direct with colleague Luke Glowacki. The Omo Valley is one of the most culturally diverse areas in the world. The OVRP is a new research enterprise aimed at building a large-scale, longitudinal data set from multiple distinct ethnolinguistic groups in Southwest Ethiopia. The OVRP is an interdisciplinary non-profit scientific organization focused on 1) understanding cultural change and diversity in human social organization and behavior and 2) facilitating education, conservation, and philanthropy across southwest Ethiopia.
 
 Scientific phiolosphies
 ------
