@@ -6,7 +6,7 @@ excerpt: 'Over the course of human evolution, there have been strong selection p
 date: 2017-06-23
 venue: 'Encyclopedia of Evolutionary Psychological Science'
 paperurl: 'https://doi.org/10.1007/978-3-319-16999-6_2614-1'
-citation: 'Zachary H. Garfield (2017). &quot;Mens Egoistic Dominant Acts..&quot; <i>Encyclopedia of Evolutionary Psychological Science</i>.'
+citation: 'Zachary H. Garfield (2017). &quot;Men’s Egoistic Dominant Acts..&quot; <i>Encyclopedia of Evolutionary Psychological Science</i>.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
