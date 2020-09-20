@@ -2,8 +2,8 @@
 title: "The ‘female fertility–social stratification–hypergyny’ hypothesis of male homosexual preference: Factual, conceptual and methodological errors in Barthes et al. [Commentary]"
 collection: publications
 permalink: /publication/2014-vanderlann_et_al_EHB
-excerpt: '"Critical problems in Barthes et al.’s article include: (1) tenuous empirical support for the tenets of their hypothesis, raising
-doubt about its plausibility and the real-world applicability of their mathematical model, and (2) conceptual and methodological flaws associated with the ethnological analysis that limit confidence in their claim that the presence of MHP is associated with greater social stratification."'
+excerpt: '<blockquote>Critical problems in Barthes et al.’s article include: (1) tenuous empirical support for the tenets of their hypothesis, raising
+doubt about its plausibility and the real-world applicability of their mathematical model, and (2) conceptual and methodological flaws associated with the ethnological analysis that limit confidence in their claim that the presence of MHP is associated with greater social stratification.</blockquote>'
 date: 2014-09-01
 venue: 'Evolution and Human Behavior'
 paperurl: 'https://doi.org/10.1016/j.evolhumbehav.2014.06.002'
