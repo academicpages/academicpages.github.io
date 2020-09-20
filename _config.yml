@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  datasets:
+    output: true
+    permalink: /:collection/:path	
 
 
 # Defaults
@@ -228,6 +231,15 @@ defaults:
       share: true
       comments: true
   # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _datasets
   - scope:
       path: ""
       type: portfolio
