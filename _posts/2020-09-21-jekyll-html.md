@@ -10,6 +10,7 @@ date: 2020-09-19
 permalink: /posts/2020/09/jekyll-html
 excerpt_separator: <!--more-->
 toc: true
+image: /images/posts/jekyll-html/map.png
 tags:
   - data
   - visualization
