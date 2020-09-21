@@ -17,7 +17,7 @@ I received a B.A. with highest distinction in anthropology and psychology from t
 
 Research statement
 ======
-My research program focuses relationships between individual behavioral strategies and group dynamics in the context of cultural transitions. In particular, I investigate how behaviors such as leadership and followership, decision-making, and economic strategies are related to group-level pressures such as network dynamics, political structures, social contexts, and cultural norms. I am especially interested in how relationships between these individual-level and group-level forces vary across populations and across time. I draw on adaptationist, behavioral-ecological, and cultural-evolutionary theoretical frameworks.
+My research program focuses relationships between individual behavioral strategies and group dynamics in the context of cultural transitions. In particular, I investigate how behaviors such as leadership and followership, decision-making, and economic strategies are related to group-level pressures such as those based on social contexts, network dynamics, political structures, and cultural norms. I am especially interested in how relationships between these individual-level and group-level forces vary across populations and across time. I draw on adaptationist, behavioral-ecological, and cultural-evolutionary theoretical frameworks.
 
 A broader focus my research focuses on how subsistence-based populations with limited market integration navigate increasing pressures from state-level influences and maintain or adapt long-standing components of their social, cultural, and economic livelihoods. The ultimate goal of my research program is to develop more robust, generalizable theories of human behavior, social organization, and cultural change which are supported and tested through solid empirical foundations.
 
@@ -38,7 +38,7 @@ As an interdisciplinary non-profit scientific organization, OVRP is focused on 
 
 Scientific philosophy
 ------
-* I value quantitative multidisciplinary approaches in the evolutionary human sciences, built upon sound theoretical foundation. I support open science and the coupling of confirmatory and exploratory analytic approaches. 
+* I value quantitative multidisciplinary approaches in the evolutionary human sciences, built upon sound theoretical foundation. I am a proponent of open science and the coupling of confirmatory and exploratory analytic approaches. 
 
 * The opportunity to collect observational, empirical, and ethnographic data from culturally diverse, subsistence-based populations is rapidly diminishing and should therefore be a top priority of the social sciences. 
 

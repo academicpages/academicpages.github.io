@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Anthropology – Evolutionary Stream with graduate minor in Statistics, Washington State University, 2019
+* M.A. in Anthropology – Evolutionary Stream, Washington State University, 2015
+* B.A. with Highest Distinction in Anthropology & Psychology, University of Nebraska–Lincoln, 2012
 
-Work experience
+
+Professional Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - Present: Research Fellow
+  * Institute for Advanced Study in Toulouse; Toulouse, France
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - Present: Adjunct Faculty
+  * Department of Anthropology, Washington State University; Pullman, WA, USA
+
+* 2017 - 2018: Research Assistant
+  * NSF BCS cross-funded grant, *Testing multi-disciplinary theories of leadership using a cross-cultural database* (NSF-BCS #1628509), P.I. Edward Hagen
   
 Skills
 ======
