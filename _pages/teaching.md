@@ -66,3 +66,17 @@ You can download [Lab4.html](https://yongjunzhang.com/files/tutorial/Lab4.html).
 #### Announcement
 
 We have a guest speaker today. You can check here for more info about [Dr. Yongren Shi from IOWA Sociology and Criminology Department](https://clas.uiowa.edu/sociology/people/yongren-shi).
+
+### Week 5
+
+#### Mini-Lecture 5. More on Word Vectors and Text Viz
+
+You can download our [slides here](https://yongjunzhang.com/files/tutorial/Lecture5.pdf)
+
+#### Basic Text Viz in R
+
+You can download [Lab5.html](https://yongjunzhang.com/files/tutorial/Lab5.html). You can download the [Rmarkdown file here](https://yongjunzhang.com/files/tutorial/Lab5.Rmd).
+
+#### Announcement
+
+We have a guest speaker today. You can check here for more info about [Dr. Dustin Stoltz from Lehigh University](https://www.dustinstoltz.com/).
