@@ -6,7 +6,7 @@ excerpt: '<blockquote>Across the life span, women are adjusting their individual
 date: 2017-06-06
 venue: 'Encyclopedia of Evolutionary Psychological Science'
 paperurl: 'https://doi.org/10.1007/978-3-319-16999-6_2613-1'
-citation: 'Zachary H. Garfield, Melissa J. Garfield (2017). &quot;Women’s prosocial dominant acts.&quot; <i>Encyclopedia of Evolutionary Psychological Science</i>.'
+citation: 'Zachary H. Garfield and Melissa J. Garfield (2017). &quot;Women’s prosocial dominant acts.&quot; <i>Encyclopedia of Evolutionary Psychological Science</i>.'
 ---
 This brief encyclopedia entry reviews female strategies for social hierarchy and status based on prosocial expressions of dominance.
 
