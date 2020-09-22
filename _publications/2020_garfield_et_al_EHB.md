@@ -10,4 +10,4 @@ citation: 'Zachary H. Garfield, Kristen L. Syme, and Edward H. Hagen. (2020). &q
 ---
 This exploratory study identified the qualities and functions of leaders, as well as the costs and benefits of leadership for leaders and follower, from a representative sample of nonindustrial societies.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://zhgarfield.github.io/files/garfield_et_al_2020_EHB.pdf)
