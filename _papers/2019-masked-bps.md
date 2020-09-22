@@ -9,4 +9,4 @@ paperurl:
 citation: 
 ---
 
-[Paper](https://jtt94.github.io/files/Masked_Bouncy_Particle_Sampler.pdf)
+Will post arxiv link once updated, available on request
