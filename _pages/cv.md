@@ -31,16 +31,3 @@ Professional Positions
 
 * 2014: Research Assistant
   * NSF BCS Cultural Anthropology grant, *Suicide in 245 Cultures* (#1355469), P.I. Edward Hagen.
-  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
