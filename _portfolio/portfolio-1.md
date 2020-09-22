@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The leadershipdata package"
+excerpt: "A cross-cultural database of ethnographic texts on leadership."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The leadershipdata package is hosted on [GitHub](https://github.com/zhgarfield/leadershipdata) and archived on [Zenodo](https://zenodo.org/record/4018788). It includes researcher-coded variables from 1,212 ethnographic paragraphs extracted from the [electronic Human Relations Area Files](https://ehrafworldcultures.yale.edu/). These data were used in the publications by [Garfield et al., (2019)](https://zhgarfield.github.io/publication/2019b_garfield_et_al-HN) and [Garfield et al., (2020)](https://zhgarfield.github.io/publication/2020_garfield_et_al_EHB). 
