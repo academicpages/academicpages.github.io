@@ -189,6 +189,9 @@ collections:
     permalink: /:collection/:path/
   projects:
     output: true
+    permalink: /:collection:/path/
+  contacts:
+    output: true
     permalink: /:collection:/path/	
 
 
