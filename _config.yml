@@ -86,7 +86,7 @@ author:
   location         : "Cambridge, MA"
   employer         :
   pubmed           :
-  googlescholar    : ""
+  googlescholar    :
   email            : "h[my-first-name]@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hari2394"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
