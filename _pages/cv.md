@@ -27,10 +27,10 @@ Professional Positions
   * Department of Anthropology, Washington State University; Pullman, WA, USA
 
 * 2017 - 2018: Research Assistant
-  * NSF BCS cross-funded grant, *Testing multi-disciplinary theories of leadership using a cross-cultural database* (NSF-BCS #1628509), P.I. Edward Hagen
+  * NSF BCS cross-funded grant, *Testing multi-disciplinary theories of leadership using a cross-cultural database* (#1628509), P.I. Edward Hagen.
 
 * 2014: Research Assistant
-  * Cultural Anthropology grantSuicide in 245 Cultures(NSF-BCS #1355469), P.I. Edward Hagen.
+  * NSF BCS Cultural Anthropology grant, *Suicide in 245 Cultures* (#1355469), P.I. Edward Hagen.
   
 
 Publications
