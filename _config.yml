@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zachary H. Garfield / Scientist"
 title_separator          : "-"
-name                     : &name "Zachary H. Garfield"
+name                     : &name ""
 description              : &description "behavioral scientist<br/>anthropologist."
 url                      : https://zhgarfield.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
