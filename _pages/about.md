@@ -38,7 +38,7 @@ As an interdisciplinary non-profit scientific organization, OVRP is focused on 
 
 Scientific philosophy
 ------
-* I value quantitative multidisciplinary approaches in the evolutionary human sciences, built upon sound theoretical foundation. I am a proponent of open science and the coupling of confirmatory and exploratory analytic approaches. 
+* I value quantitative multidisciplinary approaches in the human sciences, built upon sound theoretical foundation. I am a proponent of open science and the coupling of confirmatory and exploratory analytic approaches. 
 
 * The opportunity to collect observational, empirical, and ethnographic data from culturally diverse, subsistence-based populations is rapidly diminishing and should therefore be a top priority of the social sciences. 
 
