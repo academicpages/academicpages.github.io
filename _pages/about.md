@@ -44,6 +44,6 @@ Scientific philosophy
 
 * Anthropologists are uniquely situated to be meaningful allies as rural and indigenous populations navigate their changing worlds. 
 
-* Field methods can be informed by comparative results and evolutionary scientists should draw on broad phylogenetic perspectives, across cultures and species. The ethnographic record is an indispensable tool for testing predictions and generating theory about the diversity and universality of our species.
+* Field methods can be informed by comparative results and evolutionary scientists should draw on broad phylogenetic perspectives, across cultures and species. The ethnographic record is an indispensable tool for testing predictions and generating theory on the diversity and universality of humanity.
 
 * The evolutionary human sciences will be strengthened by increased integration synthesizing adaptationist, behavioral-ecological, and cultural-evolutionary frameworks. 
