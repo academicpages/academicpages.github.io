@@ -9,11 +9,13 @@ redirect_from:
 ---
 I am a research scientist at LINE Corporation working on machine learning. I am recently interested in security and privacy issues of machine learning.
 
-In my past life I was a physicist. I received my Ph.D. from the University of Tokyo in 2017, and my B.A. in physics (also from University of Tokyo) in 2012.
+In my past life I was a physicist. I received my Ph.D. from the University of Tokyo in 2017, and my B.A. in physics (also from University of Tokyo) in 2012. Upon graduating, I spent a year at the Technical University of Munich as a Marie Skłodowska-Curie Fellow, followed by a stint at NEC Corporation as a researcher.
 
-A complete list of my publications are online, along with some of my code, and some extra writings.
+<!-- A complete list of my publications are online, along with some of my code, and some extra writings. -->
+My publications are available [here](https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en), or [here](https://spliew.github.io/publications), and some extra writings can be found [here](https://spliew.github.io/writings).
 
-======
+
+<!-- ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
@@ -49,4 +51,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
