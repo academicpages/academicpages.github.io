@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seng Pei Liew"
 title_separator          : "-"
 name                     : &name "Seng Pei Liew"
-description              : &description "Research scientist at LINE Corporation"
+description              : &description "machine learning, physics"
 url                      : https://spliew.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "spliew.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seng Pei Liew, Ph.D."
+  name             : "Seng Pei Liew"
   avatar           : "profile.png"
-  bio              : "Research Scientist"
+  bio              : "Research Scientist<br>Machine Learning<br>sengpei.liew at gmail . com"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/seng-pei-liew-ph-d-3701b091/"
+  linkedin         : "seng-pei-liew-ph-d-3701b091/" # "https://www.linkedin.com/in/seng-pei-liew-ph-d-3701b091/"
   orcid            : "https://orcid.org/0000-0003-2419-2505"
   pinterest        :
   soundcloud       :

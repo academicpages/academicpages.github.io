@@ -9,7 +9,11 @@ redirect_from:
 ---
 I am a research scientist at LINE Corporation working on machine learning. I am recently interested in security and privacy issues of machine learning.
 
+---
+
 In my past life I was a physicist. I received my Ph.D. from the University of Tokyo in 2017, and my B.A. in physics (also from University of Tokyo) in 2012. Upon graduating, I spent a year at the Technical University of Munich as a Marie Skłodowska-Curie Fellow, followed by a stint at NEC Corporation as a researcher.
+
+---
 
 <!-- A complete list of my publications are online, along with some of my code, and some extra writings. -->
 My publications are available [here](https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en), or [here](https://spliew.github.io/publications), and some extra writings can be found [here](https://spliew.github.io/writings).
