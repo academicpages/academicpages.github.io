@@ -9,11 +9,12 @@ main:
   - title: "Current projects"
     url: /projects/    
 
+  - title: "Data sets"
+    url: /portfolio/
+
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Data sets"
-    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
