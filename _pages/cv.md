@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Anthropology – Evolutionary Stream with graduate minor in Statistics, Washington State University, 2019
-* M.A. in Anthropology – Evolutionary Stream, Washington State University, 2015
-* B.A. with Highest Distinction in Anthropology & Psychology, University of Nebraska–Lincoln, 2012
+* Ph.D. in Anthropology, Evolutionary Stream with graduate minor in Statistics -- Washington State University, 2019
+* M.A. in Anthropology, Evolutionary Stream -- Washington State University, 2015
+* B.A. with Highest Distinction in Anthropology & Psychology -- University of Nebraska–Lincoln, 2012
 
 
 Professional Positions
@@ -39,11 +39,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+  #<ul>{% for post in site.talks %}
+  #  {% include archive-single-talk-cv.html %}
+  #{% endfor %}</ul>
   
 Teaching
 ======
