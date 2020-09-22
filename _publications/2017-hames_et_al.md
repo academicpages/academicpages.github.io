@@ -1,5 +1,5 @@
 ---
-title: "Is male androphilia a context-dependent cross-cultural universal"
+title: "Is male androphilia a context-dependent cross-cultural universal?"
 collection: publications
 permalink: /publication/2017-hames_et_al
 excerpt: <blockquote>Our results show that male same sex behavior as well as male androphilia is much more common than previously estimated in the SCCS. With our findings, we make an argument that male androphilia is a context-dependent cross-cultural universal.</blockquote>
