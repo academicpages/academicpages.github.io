@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+(Download full CV here)[/files/CV.pdf]
+
 Education
 ======
 * Ph.D. in Anthropology – Evolutionary Stream with graduate minor in Statistics, Washington State University, 2019
@@ -26,15 +28,10 @@ Professional Positions
 
 * 2017 - 2018: Research Assistant
   * NSF BCS cross-funded grant, *Testing multi-disciplinary theories of leadership using a cross-cultural database* (NSF-BCS #1628509), P.I. Edward Hagen
+
+* 2014: Research Assistant
+  * Cultural Anthropology grantSuicide in 245 Cultures(NSF-BCS #1355469), P.I. Edward Hagen.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,7 +50,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
