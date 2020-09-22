@@ -5,7 +5,7 @@ title: "Contact"
 author_profile: true
 ---
 
-Connect with me on the following platforms:
+Connect with me via the following platforms:
 
 * **Institutional email**: zachary [dot] garfield [at] iast.fr
 * **Gmail**: zhgarfield [at] gmail.com
