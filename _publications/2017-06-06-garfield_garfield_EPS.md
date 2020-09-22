@@ -1,5 +1,5 @@
 ---
-title: "Women’s Prosocial Dominant Acts"
+title: "Women’s prosocial dominant acts"
 collection: publications
 permalink: /publication/2017-06-06-garfield_garfield_EPS
 excerpt: '<blockquote>Across the life span, women are adjusting their individual strategies for pursuing positions of social influence. Women tend to use prosocial investments and communally focused behavior to increase their social rank and attain positions of influence within the group.</blockquote>'

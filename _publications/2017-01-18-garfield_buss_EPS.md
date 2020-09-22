@@ -1,5 +1,5 @@
 ---
-title: "Dominant Acts Expressed (Buss 1981)"
+title: "Dominant acts expressed (Buss 1981)"
 collection: publications
 permalink: /publication/2017-01-18-garfield_buss_EPS
 excerpt: '<blockquote>The dominance model adopted from ethology and animal social hierarchies has been incredibly influential within the social sciences investigating leadership, status competition, and social influence.</blockquote>'
