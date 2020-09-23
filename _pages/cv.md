@@ -16,13 +16,17 @@ Education
 * M.S. in Cognitive Neuroscience, University of California Irvine, 2020
 * Ph.D in Cognitive Neuroscience, University of California Irvine (present)
 
+
+
 Work experience
 ======
 * [Data Science Instructor](https://www.coursera.org/instructor/you-lilian-cheng) for Guided Projects, Coursera Inc.                              Aug. 2020 – Present
   
 * Teaching Assistant, [Neuromatch Academy Inc.](https://www.neuromatchacademy.org/)                              June 2020 – July 2020
   
-  * Data Science Intern, [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/)                              June 2019 – Sept. 2019
+* Data Science Intern, [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/)                              June 2019 – Sept. 2019
+
+
 
 
 Publications
@@ -33,8 +37,10 @@ Sun, L., Tan, P. *, Cheng, Y. *, Chen, J., & Qu, C. (2015). The effect of altrui
   
 Qu, L., Dou, W., Cheng, Y., & Qu, C. (2014). The processing course of conflicts in third‐party punishment: An event‐related potential study. PsyCh journal, 3(3), 214-221.
 
+
+
   
-Talks
+Select Talks
 ======
 * Y. Cheng. Travel Direction as a Fundamental Component of Human Navigation, UCI Cognitive Sciences Department Graduate Student Presentation Bonanza, Irvine. Jan., 2020.
   
@@ -50,8 +56,10 @@ Talks
   
 * Y. Cheng, Y. Liang, Z. Tang, Mixed Time-Based and Event-Based Prospective Memory: A Behavioral Study, the 16th National Academic Congress of Psychology, Nanjing, China. Nov., 2013. 
 
+
+
   
-Poster Presentations
+Select Poster Presentations
 ======
 * Y. Cheng, E.R. Chrastil. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020.
   
@@ -66,4 +74,3 @@ Poster Presentations
 * E.R. Chrastil, G. Nicora, R. Davis, J. Smith, Y. Cheng. The Influence of Decision-Making on Spatial Learning and Memory: An Individual Differences Approach, Society for Neuroscience Annual Meeting, Washington DC, USA. Nov., 2017.
   
 * Y. Cheng, C. Qu. Cost Consideration Driven by Prosociality in Third-party Punishment: Using Feedback Related Negativity, Society for Neuroscience Annual Meeting, Chicago, USA. Oct., 2015.
-
