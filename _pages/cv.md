@@ -36,16 +36,16 @@ Funding
 ======
 Select research awards indexed here. 
 
-* The IAST Multidisciplinary Prize, 27,160 \euro, May 29th, 2020.
-  * **Testing Evolutionary Alternative Models of Third-Party Punishment:
-A Multidisciplinary Approach**, Co-applicants: Francesca De Petrillo, Zachary Garfield, Alberto Micheletti,
+* **The IAST Multidisciplinary Prize**, 27,160€, May 29th, 2020.
+  * *Testing Evolutionary Alternative Models of Third-Party Punishment:
+A Multidisciplinary Approach*, Co-applicants: Francesca De Petrillo, Zachary Garfield, Alberto Micheletti,
 Catherine Molho
 
-* NSF BCS Cultural Anthropology DDIG (#1823324), $23,220, May 7th, 2018
-  * **Testing evolutionary theories of leadership in
-a population of transitional foragers**, PI: Edward Hagen
+* **NSF BCS Cultural Anthropology DDIG** (#1823324), $23,220, May 7th, 2018
+  * *Testing evolutionary theories of leadership in
+a population of transitional foragers*, PI: Edward Hagen
 
-* NSF BCS Standard Grant (#1628509), $91,619, September 1st, 2016
+* **NSF BCS Standard Grant** (#1628509), $91,619, September 1st, 2016
   * **Testing multi-disciplinary theories of leadership using a cross-cultural database**, Co-authored grant submitted by PI: Edward Hagen.
 
 
