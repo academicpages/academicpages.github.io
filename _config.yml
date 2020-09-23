@@ -13,7 +13,7 @@ name                     : &name "You (Lilian) Cheng"
 description              : &description "Ph.D. Candidate at UC Irvine"
 url                      : https://lilianyou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Lilianyou/lilianyou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "You Cheng (Lilian)"
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "lily_uci.png"
   bio              : "Ph.D. candidate in cognitive neuroscience at UC Irvine"
   location         : "Irvine, California"
   employer         :
