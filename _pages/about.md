@@ -11,7 +11,7 @@ I am a research scientist at LINE Corporation working on machine learning. My re
 
 ---
 
-In my past life I was a physicist. I received my Ph.D. from the University of Tokyo in 2017, and my B.Sc. in physics (also from University of Tokyo) in 2012. Upon graduating, I spent a year at the Technical University of Munich as a Marie Skłodowska-Curie Fellow, followed by a stint at NEC Corporation as a researcher.
+In my past life, I was a physicist. I received my Ph.D. from the University of Tokyo in 2017, and my B.Sc. in physics (also from University of Tokyo) in 2012. Upon graduating, I spent a year at the Technical University of Munich as a Marie Skłodowska-Curie Fellow, followed by a stint at NEC Corporation as a researcher.
 
 ---
 
@@ -20,7 +20,7 @@ My publications are available [here](https://scholar.google.com/citations?user=K
 
 Latest News
 ------
-1. Our paper submitted to [Interspeech 2020](http://www.interspeech2020.org/) has been accepted! Stay tuned!
+- Our paper submitted to [Interspeech 2020](http://www.interspeech2020.org/) has been accepted! Stay tuned!
 
 <!-- ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
