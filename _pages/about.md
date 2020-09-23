@@ -13,8 +13,3 @@ I am a Ph.D. candidate in the [Department of Cognitive Sciences](https://www.cog
 I received a Bachelor's Degree on Psychology from [South China Normal University](http://psy.scnu.edu.cn/english/), a Master's Degree on Geography from [the University of California Santa Barbara](https://geog.ucsb.edu/), and a Master's Degree on Cognitive Neuroscience from the [University of California Irvine](https://www.cogsci.uci.edu/). 
 
 I go by Lily :)
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
