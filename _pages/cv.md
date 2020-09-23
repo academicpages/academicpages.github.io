@@ -51,7 +51,7 @@ a population of transitional foragers*, PI: Edward Hagen.
   * *Prestige, dominance, and leadership among the Chabu hunter-gatherers of Ethiopia*, [doi: 10.18258/3735](https://experiment.com/projects/prestige-dominance-and-leadership-among-the-chabu-hunter-gatherers-of-ethiopia).
 
 * **WSU Vancouver College of Arts and Sciences Research Grant**, $3,000. December 18th, 2014.
-  *Prestige, dominance, and leadership among the Chabu hunter-gatherers of Ethiopia.*
+  * *Prestige, dominance, and leadership among the Chabu hunter-gatherers of Ethiopia.*
 
 * **University of Nebraska--Lincoln -- UCARE Research Grant**, $3,400. 2009-2011.
   * *The Ecology of Prosocial Status Attainment in Egalitarian Societies*, with Dr. Raymond Hames.
