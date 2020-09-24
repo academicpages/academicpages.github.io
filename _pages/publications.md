@@ -18,7 +18,7 @@ $$ {X}_{0} $$ (works)
 $$ X_0 $$ (works)
 
 \\begin{equation}
-\begin{aligned}
+\\begin{aligned}
   {X}_{0} (does not always work)
   {X}\_{0} (works)
   X_0 (works)
