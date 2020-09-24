@@ -12,6 +12,21 @@ The full list of my publications can be found on [Google Scholar](https://schola
 {% endif %} -->
 
 Under construction.
+
+testing latex
+$$ {X}_{0} $$ (works)
+$$ X_0 $$ (works)
+
+\begin{equation}
+\begin{aligned}
+  {X}_{0} (does not always work)
+  {X}\_{0} (works)
+  X_0 (works)
+  \hat{a}_{b} (does not always work)
+  \hat{a}_b (works)
+  \hat{a}_{b+c} (works)
+\end{aligned}
+\end{equation}
 <!-- 
 {% include base_path %}
 
