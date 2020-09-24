@@ -16,9 +16,14 @@ In my past life, I was a physicist. I received my Ph.D. from the University of T
 ---
 
 <!-- A complete list of my publications are online, along with some of my code, and some extra writings. -->
-My publications are available [here](https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en), or [here](https://spliew.github.io/publications), and some extra writings can be found [here](https://spliew.github.io/writings).
+My CV can be found [here](https://spliew.github.io/cv/). My publications are available [here](https://spliew.github.io/publications), and some extra writings can be found [here](https://spliew.github.io/writings/).
 
-Latest News
+Please also find more information from my 
+  - [Google Scholar](https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en) profile
+  - [Inspire](https://inspirehep.net/authors/1217907) profile
+
+
+News
 ------
 - Our paper submitted to [Interspeech 2020](http://www.interspeech2020.org/) has been accepted! Stay tuned!
 
