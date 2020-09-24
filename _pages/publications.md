@@ -17,16 +17,13 @@ testing latex
 $$ {X}_{0} $$ (works)
 $$ X_0 $$ (works)
 
-\\begin{equation}
-\\begin{aligned}
-  {X}_{0} (does not always work)
-  {X}\_{0} (works)
-  X_0 (works)
-  \hat{a}_{b} (does not always work)
-  \hat{a}_b (works)
-  \hat{a}_{b+c} (works)
-\\end{aligned}
-\\end{equation}
+$\begin{aligned}
+D_i &= \mathbb E\mathbb E \left(\exp((\lambda - 1)\log {p_i(\xi_i | \xi_{< i}) \over q_i(\xi_i | \xi_{< i})}) \exp((\lambda - 1)\log {p^{i - 1}(\xi_{< i}) \over q^{i - 1}(\xi_{< i})}) \big| \xi_{< i}\right) \\
+&= \mathbb E \mathbb E \left(\exp((\lambda - 1)\log {p_i(\xi_i | \xi_{< i}) \over q_i(\xi_i | \xi_{< i})}) | \xi_{< i}\right) \exp\left((\lambda - 1)\log {p^{i - 1}(\xi_{< i}) \over q^{i - 1}(\xi_{< i})}\right)\\
+&\le \mathbb E \exp((\lambda - 1) \rho) \exp\left((\lambda - 1)\log {p^{i - 1}(\xi_{< i}) \over q^{i - 1}(\xi_{< i})}\right)\\
+&= \exp((\lambda - 1) \rho) D_{i - 1}.
+\end{aligned}$$
+
 <!-- 
 {% include base_path %}
 
