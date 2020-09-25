@@ -22,13 +22,14 @@
   microbiota transplantation "super-donors" in inflammatory bowel disease.
   *Journal of Crohn''s and Colitis* (2020).'
   doi: 10.1093/ecco-jcc/jjaa170
+  pdf: /files/papers/jjaa170.pdf
 - citation: 'AM Tsou, **SW Olesen** (co-first), EJ Alm, SB Snapper. 16S rRNA sequencing
   analysis: the devil is in the details. *Gut Microbes* (2020).'
   doi: 10.1080/19490976.2020.1747336
 - citation: '**SW Olesen**, P Panchal, J Chen, S Budree, M Osman. Global
   disparities and underserved populations in fecal microbiota transplantation
   research. *Lancet Gastro Hepatol* (2020).'
-  preprint: /files/2019-global-disparities-ms.pdf
+  pdf: /files/papers/lancet-gastro-2020.pdf
   doi: 10.1016/S2468-1253(19)30452-2
 - citation: '**SW Olesen**, M Lipsitch, YH Grad. The potential for "spillover"
   in outpatient antibiotic stewardship interventions among US states. *bioRxiv*
@@ -128,6 +129,7 @@
     15, 387--388 (2018).'
   doi: 10.1038/s41575-018-0019-4
   pmid: 29703976
+  pdf: /files/papers/superstool.pdf
 - citation: '**SW Olesen**, C Duvallet, EJ Alm. dbOTU3: A new implementation of distribution-based
     OTU calling. *PLoS ONE* 12(5): e0176335 (2017).'
   doi: 10.1371/journal.pone.0176335
@@ -142,6 +144,7 @@
     1: 16228 (2016).'
   doi: 10.1038/nmicrobiol.2016.228
   pmid: 27886190
+  pdf: /files/papers/nmicrobiol2016228.pdf
 - citation: 'SP Preheim\*, **SW Olesen**\* (co-first), A Materna, C Varadharajan,
     M Blackburn, J Friedman, J Rodriguez, H Hemond, EJ Alm. Surveys, simulations,
     and single-cell assays relate function and phylogeny in a lake ecosystem. *Nature
