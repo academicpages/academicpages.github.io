@@ -30,8 +30,19 @@ There is one logistical issue with a ready-to-fork template theme like academic 
 
 To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
 
+# IK notes for updating site
+
+To start local server:
+
+1. Start Ubuntu VM
+2. `cd /mnt/d/site/ilyakolb.github.io`
+3. `bundle exec jekyll liveserve`
+4. In Chrome go to http://localhost:4000/
+
+# Other documentation
 
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 https://www.ruby-lang.org/en/documentation/installation/
 
 quick guide: http://localhost:4000/markdown/
+

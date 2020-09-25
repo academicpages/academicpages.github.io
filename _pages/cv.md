@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 [<a href = "Ilya_Kolb_CV.pdf">PDF</a>]

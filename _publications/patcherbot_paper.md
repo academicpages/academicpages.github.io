@@ -7,4 +7,5 @@ date: May 2019
 venue: 'Journal of Neural Engineering'
 paperurl: 'https://ilyakolb.github.io/files/patcherbot_paper.pdf'
 citation: 'Kolb, Ilya, Corey R. Landry, Mighten C. Yip, Colby F. Lewallen, William A. Stoy, John Lee, Amanda Felouzis, et al. &quot;PatcherBot: A Single-Cell Electrophysiology Robot for Adherent Cells and Brain Slices.&quot; <i>Journal of Neural Engineering</i> 16, no. 4 (May 2019)'
+
 ---
