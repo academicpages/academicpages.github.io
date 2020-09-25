@@ -53,4 +53,4 @@ I like to take short trips from campus and shoot photos of the beautiful Califor
 CV
 ======
 
-Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/CV_TaesungPark_20200703.pdf)
+Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/CV_TaesungPark_20200925.pdf)
