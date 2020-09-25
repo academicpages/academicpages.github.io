@@ -36,6 +36,7 @@ Summer 2012. Course Assistant.
 Recorded Talks
 ======
 
+- Talk at [GAMES](http://games-cn.org/) Webinar [link](https://www.bilibili.com/video/BV1e7411c7kR?p=47)
 - CVPR 2020 Tutorial on Neural Rendering [link](https://www.neuralrender.com/)
 - SIGGRAPH 2019 Real-Time Live! [link](https://youtu.be/Gz9weuemhDA?t=2883)
 - CVPR 2019 Deep Learning for Content Creation Tutorial. [link](https://nvlabs.github.io/dl-for-content-creation/)
