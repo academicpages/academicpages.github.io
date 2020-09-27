@@ -1,1 +1,1 @@
-[link](_data/CV.pdf)
+[CV](CV.pdf)
