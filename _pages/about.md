@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Zeel B Patel"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
