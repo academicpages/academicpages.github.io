@@ -4,8 +4,8 @@ date: 2020-08-26
 permalink: /algorithms/triangleCount/
 tags:
   - algorithms
+  - triangles
   - clustering
-  - triangle
 
 ---
 
@@ -24,11 +24,9 @@ The algorithm is similar to that of GraphX and fairly straightforward:
 4. The clustering coefficient for each node is calculated as the triangle count for that node divided by the number of possible triangles for that node. The average clustering coefficient is the average of these over all the vertices.
 
 ## Returns
-
-* `totTriangles`: the number of triangles in the graph
-* `avgCluster`: the average clustering coefficient
+* `totTriangles`: the number of triangles in the graph, an integer.
+* `avgCluster`: the average clustering coefficient, a float.
 
 ## Notes
 * Edges here are treated as undirected, so if the underlying network is directed here, 'neighbours' refers to the union of in-neighbours and out-neighbours.
 * The restriction of the list of neighbours in step 1 to those with ID greater than the starting node is to prevent double-counting each triangle.
-------
