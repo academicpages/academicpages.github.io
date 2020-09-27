@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student at [IIT Gandhinagar](https://www.iitgn.ac.in/) advised by [Prof. Nipun Batra](https://nipunbatra.github.io). I mainly work on sustainability related problems (currently focused on air quality). I am interested in probabilistic modeling and Bayesian methods.   
 
 
-Previously, I worked in CTO's R&D team at [Inspirisys Solutions Ltd.](https://www.inspirisys.com) for six months. I did my M.Tech. from [<u>IIITDM Kancheepuram</u>](https://www.iiitdm.ac.in/) college.
+Previously, I worked in CTO's R&D team at [Inspirisys Solutions Ltd.](https://www.inspirisys.com) for six months. I did my M.Tech. from [IIITDM Kancheepuram](https://www.iiitdm.ac.in/) college.
 
 Updates
 ======
