@@ -32,5 +32,5 @@ The algorithm is similar to that of GraphX and fairly straightforward:
 * `clustersGT2`: the number of connected components of size strictly greater than two, an integer.
 
 ## Notes
+
 * Edges here are treated as undirected, a future feature may be to calculate weakly/strongly connected components for directed networks.
----
