@@ -94,13 +94,14 @@ include:
   - .htaccess
   - _pages
   - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
+  - assets/js/_main.js
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -108,7 +109,6 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
   - config

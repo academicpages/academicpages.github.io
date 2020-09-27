@@ -5,7 +5,8 @@
 div.highlighter-rouge, figure.highlight {
   position: relative;
   margin-bottom: 1em;
-  padding: 1em;
+  padding: 0.5em;
+  padding-right: 1em;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background-color: $code-background-color;
@@ -13,22 +14,28 @@ div.highlighter-rouge, figure.highlight {
 
   &:before {
     position: absolute;
-    top: 0;
-    right: 0;
-    padding: 0.5em;
-    background-color: $lighter-gray;
-    content: "\f121";
+    top: 0em;
+    right: 0.1em;
+    padding: 0.6em;
+    content: attr(data-attr);
+    color: transparent;
     font-family: "fontawesome" !important;
     font-size: $type-size-6;
     line-height: 1;
     text-transform: none;
     speak: none;
+    display: block;
+    background-image: url(https://www.iconninja.com/files/818/770/434/duplicate-copy-clipboard-paste-icon.svg);
+    background-color: transparent;
+    background-size: contain;
+    cursor: pointer;
+    pointer-events: all;
   }
 
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
+    font-size: 0.85em;
     line-height: 1.8;
   }
 }
