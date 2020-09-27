@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zeel B Patel"
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "PhD student, IIT Gandhinagar"
   location         : "Gujarat, India"
   employer         :
