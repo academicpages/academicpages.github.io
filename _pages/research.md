@@ -8,12 +8,16 @@ permalink: /research/
 
 ## Research
 
+**Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?**  
+*Findings of EMNLP.* \[pdf and code coming soon\]  
+Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal
+
 **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?**  
-*In ACL 2020.* [[pdf]](https://arxiv.org/abs/2005.01831) [[code]](https://github.com/peterbhase/InterpretableNLP-ACL2020)  
+*ACL 2020.* [[pdf]](https://arxiv.org/abs/2005.01831) [[code]](https://github.com/peterbhase/InterpretableNLP-ACL2020)  
 Peter Hase, Mohit Bansal
 
 **Interpretable Image Recognition with Hierarchical Prototypes**  
-*In AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/abs/1906.10651) [[code]](https://github.com/peterbhase/interpretable-image)  
+*AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/abs/1906.10651) [[code]](https://github.com/peterbhase/interpretable-image)  
 Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin  
 
 **Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation**  
