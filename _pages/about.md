@@ -10,7 +10,7 @@ redirect_from:
 
 Biographical sketch
 ======
-I am an interdisciplinary behavioral scientist and anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) and maintain an affiliation at Washington State University as Adjunct Faculty in the [Department of Anthropology](https://anthro.vancouver.wsu.edu/people/zgarfield/). I am also co-director of the [Omo Valley Research Project](http://www.omovalleyresearchproject.org). 
+I am an interdisciplinary behavioral scientist and anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) and maintain an affiliation at Washington State University as Adjunct Faculty in the [Department of Anthropology](https://anthro.vancouver.wsu.edu/people/zgarfield/). I am also co-director of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). 
 
 
 I received a B.A. with highest distinction in anthropology and psychology from the University of Nebraska–Lincoln in 2012 and completed my Ph.D. in evolutionary anthropology at WSU in 2019.
@@ -38,11 +38,11 @@ As an interdisciplinary non-profit scientific organization, OVRP is focused on 
 
 Scientific philosophy
 ------
-* I value quantitative multidisciplinary approaches in the human sciences, built upon sound theoretical foundation. I am a proponent of open science and the coupling of confirmatory and exploratory analytic approaches. 
+* I value quantitative multidisciplinary approaches in the human sciences, built upon sound theoretical foundation. I am a proponent of open science and the coupling of confirmatory and exploratory analyses. 
 
 * The opportunity to collect observational, empirical, and ethnographic data from culturally diverse, subsistence-based populations is rapidly diminishing and should therefore be a top priority of the social sciences. 
 
-* Anthropologists are uniquely situated to be meaningful allies as rural and indigenous populations navigate their changing worlds. 
+* Anthropologists are uniquely situated to be meaningful allies as rural and indigenous communities navigate their changing worlds. 
 
 * Field methods can be informed by comparative results and evolutionary scientists should draw on broad phylogenetic perspectives, across cultures and species. The ethnographic record is an indispensable tool for testing predictions and generating theory on the diversity and universality of humanity.
 
