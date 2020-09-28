@@ -24,7 +24,7 @@ Publications
 			<br/>
 			<b>Habiba Farrukh</b>, Reham Mohamed Aburas, Siyuan Cao, He Wang
 			<br/>
-			26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20) <a href="/files/FaceRevelio.pdf">[Paper]</a> 
+			26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20) <a href="/files/FaceRevelio.pdf">[Paper]</a>, <a href="https://youtu.be/pYlfpXRDT4Y">[Video]</a> 
 			<br/>
 	</li>
 </ul>
