@@ -28,6 +28,8 @@ Publications
 
 Work experience
 ======
+* Twitter: Machine Learning Research Engineer Intern
+  * Improve push notification recommendation system
 * Bytedance: Research Intern (Winter 2019)
   * Build Bayesian testing platform
   * Tune hyperparameter with Bayesian Optimization
