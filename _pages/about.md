@@ -28,7 +28,7 @@ Publications
 
 Work experience
 ======
-* Twitter: Machine Learning Research Engineer Intern
+* Twitter: Machine Learning Research Engineer Intern (Summer 2020)
   * Improve push notification recommendation system
 * Bytedance: Research Intern (Winter 2019)
   * Build Bayesian testing platform
