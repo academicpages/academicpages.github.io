@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* Twitter: Machine Learning Research Intern (Summer 2020)
+  * Apply learn to rank model on push notification recommendation
+
 * Bytedance: Research Intern (Winter 2020)
   * Build Bayesian testing platform
   * Tune hyperparameter with Bayesian Optimization
