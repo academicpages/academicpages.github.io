@@ -173,7 +173,7 @@ defaults:
       share: true
   - scope:
       path: ""
-      type: pages	      
+      type: pages
     values:
       layout: single
       author_profile: true
