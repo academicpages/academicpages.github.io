@@ -41,10 +41,10 @@ override def setup(): Unit = {
     }
 }
 ```
-`view` represents the graph that is currently in _view_; meaning the graph that incorporates all updates in the time period of the specified analysis window. Hence, if a character appears outside of this window, the function `view.getVertices()` will exculde it. Once a vertex state is initialized, it sends its state to its neighbours through `messageAllNeighbours`. 
+`view` represents the graph that is currently in _view_; meaning the graph that incorporates all updates in the time period of the specified analysis window. Hence, if a character appears outside of this window, the function `view.getVertices()` will exclude it. Once a vertex state is initialized, it sends its state to its neighbours through `messageAllNeighbours`. 
 
 ### The bulk
-As mentioned before, the `analyse` module implements the bulk of the algorithm. In here, the state of the source is viewed as a resource that is spread throughout the network and depletes every time it reaches a node until it vanishes (`state = 0`). The process starts by getting messages through `getMessagedVertices()`. Every vertex then processes its messages `vertex.messageQueue[Int]` to get the state of its neighbours. Comparing that with its own state, it updates it and sends out the update if necessary.
+As mentioned before, the `analyse` module implements the bulk of the algorithm. In here, the state of the source is viewed as a resource that is spread throughout the network and depletes every time it reaches a node until it vanishes (`state = 0`). The process starts by filtering the vertices that got messages through `getMessagedVertices()`. Every vertex then processes its messages `vertex.messageQueue[Int]` to get the state of its neighbours. Comparing that with its own state, it updates it and sends out the update if necessary.
 
 ```scala
 override def analyse(): Unit = {
@@ -60,7 +60,7 @@ override def analyse(): Unit = {
 The above code runs until no more messages are sent (or the number of steps reaches `defineMaxSteps`); this means that all nodes in the _six degrees of separation_ network have updated their states with how far they are from the source.
 
 ### The Return of The King
-Now that the algorithm has converged, we need to get the results back and process them if necessary. The following filters the result by only returning the vertices that had their states updated and hence are reachable in under a number of hops from the source `Gandalf`. It also groups the results by their separation degree and returns the size of each group.
+Now that the algorithm has converged, we need to get the results back and process them if necessary. The following filters the results by only returning the vertices that had their states updated and hence are reachable in under a number of hops from the source `Gandalf`. It also groups the results by their separation degree and returns the size of each group.
 
 ```scala
 override def returnResults(): Any =
@@ -93,5 +93,5 @@ Running this on the first 5000 sentences of the books, returns the following for
 ```json
 {"time":5000,"total":24,"direct":9,"viewTime":316}
 ```
-
+---
 You might be asking _HOW exactly do we run an analysis?_ That's what the topic of the next entry is! Head on to [How to deploy Raphtory locally](/documentation/deployLocal) to learn about the types of analysis that can be run and how to do so on your local machine.

@@ -10,9 +10,10 @@ tags:
 
 ---
 
-Returns the communities of the constructed graph as detected by synchronous label propagation. 
 
-The implementation of the algorithm is based on [1] and proceeds as follows; Every vertex is assigned an initial label at random. Looking at the labels of its neighbours, a probability is assigned to observed labels following an increasing function then the vertex's label is updated with the label with the highest probability. If the new label is the same as the current label, the vertex votes to halt. This process iterates until all vertice labels have converged. The algorithm is synchronous since every vertex updates its label at the same time.
+<p style="margin-left: 1.5em;"> Returns the communities of the constructed graph as detected by synchronous label propagation.</p>
+
+The implementation of the algorithm is based on <sup>[1]</sup> and proceeds as follows; Every vertex is assigned an initial label at random. Looking at the labels of its neighbours, a probability is assigned to observed labels following an increasing function then the vertex's label is updated with the label with the highest probability. If the new label is the same as the current label, the vertex votes to halt. This process iterates until all vertice labels have converged. The algorithm is synchronous since every vertex updates its label at the same time.
 
 
 ### Parameters
@@ -26,7 +27,7 @@ The implementation of the algorithm is based on [1] and proceeds as follows; Eve
 * This implementation of LPA incorporated probabilistic elements which makes it non-deterministic; The returned communities may differ on multiple executions.
 
 ## Examples
-In this example, the temporal network spans a time period $t \in [1,3]$ and is built into (3) snapshots of size 1.
+In this example, the temporal network spans a time period $t \in [1,3]$ and is built into (3) snapshots of window size 1.
  
 <p align="center">
 	<img src="../../images/lpa-ex.png" style="width: 30vw;" alt="lpa example"/>

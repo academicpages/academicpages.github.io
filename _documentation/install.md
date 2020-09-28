@@ -14,7 +14,7 @@ To make it as easy as possible, Raphtory can be built into a docker image. For t
 
 
 ### Using existing image
-You can then pull the latest version from DockerHub;
+You can pull the latest version from DockerHub;
 
 
 ```sh
@@ -56,7 +56,7 @@ To test that you have Raphtory working properly on your machine, run the followi
 bash ../startup/quick-test.sh
 ```
 #### Note 
-if you want to test the image of Raphtory you built locally, make sure to change the name of the image in `base.yml`.
+If you want to test the image of Raphtory you built locally, make sure to change the name of the image in `base.yml`.
 
 ---
 Now that you have Raphtory set up, the next step is to learn to build a spout and router to ingest data. Check the next entry: [Write your first Spout/Router](http://localhost:4000/documentation/sprouter)
