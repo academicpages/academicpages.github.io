@@ -22,10 +22,13 @@ docker pull miratepuffin/raphtory:latest
 ``` 
 
 ### Using local image
-If you want to build your own image, you need to have `sbt` installed;
+If you want to build your own image, you need to have `sbt` installed. The following are the install commands for a Ubuntu machine ([For other platforms](https://www.scala-sbt.org/1.x/docs/Setup.html));
 
 ```sh
-sudo apt install sbt 
+echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+curl -sL "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2EE0EA64E40A89B84B2DF73499E82A75642AC823" | sudo apt-key add
+sudo apt-get update
+sudo apt-get install sbt
 ```
 
 You also need to clone the project from the git repository;
@@ -59,4 +62,4 @@ bash ../startup/quick-test.sh
 If you want to test the image of Raphtory you built locally, make sure to change the name of the image in `base.yml`.
 
 ---
-Now that you have Raphtory set up, the next step is to learn to build a spout and router to ingest data. Check the next entry: [Write your first Spout/Router](http://localhost:4000/documentation/sprouter)
+Now that you have Raphtory set up, the next step is to learn to build a spout and router to ingest data. Check the next entry: [Write your first Spout/Router](/documentation/sprouter)
