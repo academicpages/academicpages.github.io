@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: 
 date: 2020-07-13
-venue: under review
+venue: Neurips 2020
 paperurl: http://arxiv.org/abs/2007.06159
 citation: 'Y. Yue*, Z. Wang*, and M. Zhou . &quot;Implicit Distributional Reinforcement Learning&quot; <i> Neurips(2020)</i>.'
 ---
