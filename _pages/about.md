@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate of computer science at Purdue University working in [SIMBA](https://simbalab.cs.purdue.edu/) lab under the supervision of Professor [He Wang](https://www.cs.purdue.edu/homes/hw/). My research interests broadly lie in the area of mobile computing and mobile sensing.
+I am a Ph.D. candidate of computer science at Purdue University working under the supervision of Dr. Z. Berkay Celik (https://beerkay.github.io/) and Dr. He Wang. My research interests broadly lie in the area of mobile computing and mobile sensing.
 I specifically focus on designing and building innovative and secure mobile sensing systems through applying security, machine learning and computer vision algorithms. 
 <!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
 
