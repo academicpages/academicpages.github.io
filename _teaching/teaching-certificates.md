@@ -1,10 +1,10 @@
 ---
-title: "Teaching certificates"
+title: "Teaching Certificates"
 collection: teaching
 type: "To k-12 students, college students, and professionals"
 permalink: /teaching/teaching-certificates
 venue: "China & United States"
-date: 2020-1-1
+date: 2020-4-1
 location: "China, United States"
 ---
 <br>
