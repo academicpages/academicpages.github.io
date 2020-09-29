@@ -10,7 +10,7 @@ tags:
 
 Now that you have a working version of Raphtory on your machine, the first step to getting your first temporal graph analysis up and running is to tell Raphtory how to read in your datafile and how to build it into a graph. This is done by the Spout and Router classes respectively.
 
-For this example, we will use a dataset of co-occurrences in the Lord of the Rings books which can be downloaded from LINK. This is a `csv` file where each line contains two characters who appeared in the same sentence, along with the number of the sentence in which they appeared. The first line of the file, for example, is `Gandalf,Elrond,33`.
+For this example, we will use a dataset of co-occurrences in the Lord of the Rings books which can be downloaded from [here](/images/lotr.csv). This is a `csv` file where each line contains two characters who appeared in the same sentence, along with the number of the sentence in which they appeared. The first line of the file, for example, is `Gandalf,Elrond,33`.
 
 ## Spout
 
