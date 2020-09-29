@@ -9,6 +9,8 @@ location: "United States"
 
 ---
 
+
+
 <b><big> Social Sciences Instructional Fellow</big></b><br> <b>School of Social Sciences, UCI, Summer 2020</b>
 
 * Trained in online teaching through UCI Division of Teaching Excellence and Innovation
