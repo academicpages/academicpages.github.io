@@ -19,7 +19,7 @@ I'm currently actively looking for a full-time position in 2021 Spring in the ar
 
 News
 ======
-* [2019/09/24] &nbsp; The slides of IJCB 2020 Face Anti-Spoofing and Manipulation Tutorial can be download here [[Session 1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [Session 2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [Session 3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
+* [2019/09/24] &nbsp; The slides of IJCB 2020 Face Anti-Spoofing and Face Manipulation Detection Tutorial can be download here [[Session 1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [Session 2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [Session 3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
 * [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
 * [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
 * [2020/01/15] &nbsp; I give a talk at Sichuan University.
