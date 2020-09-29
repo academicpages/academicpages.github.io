@@ -3,6 +3,7 @@ title: 'Write your own analysis'
 collection: documentation
 type: "Documentation"
 permalink: /documentation/analysis-qs
+order: 3
 tags:
   - quick-start
   - analysis
@@ -21,7 +22,7 @@ Briefly;
 Since Raphtory is vertex-centric, a good intuition to keep when building algorithms in Raphtory is to view the process from a vertex perspective.
 
 ## Six Degrees of Gandalf
-To continue with the previous example, we're going to go over how to write an analyser for the LOTR data that will get the size of the _six degrees of separation_ network for a character; in this case,`Gandalf`. 
+To continue with the previous example, we're going to go over how to write an analyser for the LOTR data that will get the size of the _six degrees of separation_ network for a character; in this case,`Gandalf`.
 
 ### Pre-step
 First, we need to create a property to store the state of _separation_ and initialize it in `setup`.
@@ -41,7 +42,7 @@ override def setup(): Unit = {
     }
 }
 ```
-`view` represents the graph that is currently in _view_; meaning the graph that incorporates all updates in the time period of the specified analysis window. Hence, if a character appears outside of this window, the function `view.getVertices()` will exclude it. Once a vertex state is initialized, it sends its state to its neighbours through `messageAllNeighbours`. 
+`view` represents the graph that is currently in _view_; meaning the graph that incorporates all updates in the time period of the specified analysis window. Hence, if a character appears outside of this window, the function `view.getVertices()` will exclude it. Once a vertex state is initialized, it sends its state to its neighbours through `messageAllNeighbours`.
 
 ### The bulk
 As mentioned before, the `analyse` module implements the bulk of the algorithm. In here, the state of the source is viewed as a resource that is spread throughout the network and depletes every time it reaches a node until it vanishes (`state = 0`). The process starts by filtering the vertices that got messages through `getMessagedVertices()`. Every vertex then processes its messages `vertex.messageQueue[Int]` to get the state of its neighbours. Comparing that with its own state, it updates it and sends out the update if necessary.
@@ -70,7 +71,7 @@ override def returnResults(): Any =
       .groupBy(f => f._2)
       .map(f => (f._1, f._2.size))
 ```
-It's a good place to remember here that Raphtory is a distributed platform and runs the algorithms in parallel with multiple workers (see [insert link to raphtory concept page here](blah to blah) for more details). This means that the module `returnResults` only returns the results for the vertices that are stored in every partition/worker. 
+It's a good place to remember here that Raphtory is a distributed platform and runs the algorithms in parallel with multiple workers (see [insert link to raphtory concept page here](blah to blah) for more details). This means that the module `returnResults` only returns the results for the vertices that are stored in every partition/worker.
 
 To put it all together, in the final module `processResults` the results of every partition are grouped together and some extra processing is performed if necessary. In this case, we group the results to get the size of the network as well as the number of characters that have directly interacted with `Gandalf`.
 
