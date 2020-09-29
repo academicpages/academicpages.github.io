@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Active Learning: A Visual Tour"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/ALVISX20
+excerpt: 'This article explains basic active learning techinqiues with interactive visualizations.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: '3rd Workshop on Visualization for AI Explainability, IEEE, VIS'
+paperurl: 'http://patel-zeel.github.io/active-learning-visualization'
+citation: 'Zeel B Patel, Nipun Batra (2020). &quot;Active Learning: A Visual Tour.&quot; <i>IEEE VIS</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This article explains basic active learning techinqiues with interactive visualizations.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Visualize it here](http://patel-zeel.github.io/active-learning-visualization)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[comment]: Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
