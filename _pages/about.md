@@ -18,7 +18,7 @@ My research targets at developing computational methods to analyze and mine soci
 * **Opinion mining and opinionated/argumentative text generation**  
 Stance analysis and argument mining, especially in low-resource (cross-domain & weak supervision), multi-task, and multi-modal settings.
 * **Rumor verification and fact checking**  
-Determine the correctness of social media messages, textual claims and structured triples in knowledge graphs      
+Determine the correctness of textual claims and structured triples in knowledge graphs      
 <br/>
 
 
