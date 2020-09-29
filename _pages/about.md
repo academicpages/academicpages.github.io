@@ -15,7 +15,7 @@ Hi! I am now a final-year Ph.D. student at the [Institute of Automation, Chinese
 Research Interests
 ======
 My research targets at developing computational methods to analyze and mine socially-generated contents. Currently, I focus on the following areas:
-* **Opinion mining and text generation**  
+* **Opinion mining and opinionated/argumentative text generation**  
 Stance analysis and argument mining, especially in low-resource (cross-domain & weak supervision), multi-task, and multi-modal settings.
 * **Rumor verification and fact checking**  
 Determine the correctness of social media messages, textual claims and structured triples in knowledge graphs      
