@@ -94,4 +94,4 @@ Running this on the first 5000 sentences of the books, returns the following for
 {"time":5000,"total":24,"direct":9,"viewTime":316}
 ```
 ---
-You might be asking _HOW exactly do we run an analysis?_ That's what the topic of the next entry is! Head on to [How to deploy Raphtory locally](/documentation/deployLocal) to learn about the types of analysis that can be run and how to do so on your local machine.
+You might be asking _HOW exactly do we run an analysis?_ That's what the topic of the next entry is! Head on to [How to deploy Raphtory locally](/documentation/deploylocal) to learn how to do that on your local machine.

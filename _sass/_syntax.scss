@@ -11,6 +11,7 @@ div.highlighter-rouge, figure.highlight {
   border-radius: $border-radius;
   background-color: $code-background-color;
   box-shadow: $box-shadow;
+    pointer-events: none;
 
   &:before {
     position: absolute;
@@ -29,7 +30,7 @@ div.highlighter-rouge, figure.highlight {
     background-color: transparent;
     background-size: contain;
     cursor: pointer;
-    pointer-events: all;
+    pointer-events: auto;
   }
 
   .highlight {

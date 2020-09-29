@@ -10,11 +10,11 @@ tags:
 
 Now that you have a working version of Raphtory on your machine, the first step to getting your first temporal graph analysis up and running is to tell Raphtory how to read in your datafile and how to build it into a graph. This is done by the Spout and Router classes respectively.
 
-For this example, we will use a dataset of co-occurrences in the Lord of the Rings books which can be downloaded from LINK. This is a csv file where each line contains two characters who appeared in the same sentence, along with the number of the sentence in which they appeared. The first line of the file, for example, is `Gandalf,Elrond,33`.
+For this example, we will use a dataset of co-occurrences in the Lord of the Rings books which can be downloaded from LINK. This is a `csv` file where each line contains two characters who appeared in the same sentence, along with the number of the sentence in which they appeared. The first line of the file, for example, is `Gandalf,Elrond,33`.
 
 ## Spout
 
-Firstly we will tell Raphtory where to find the datafile with the following few lines to be placed within the Spout class.
+Firstly, we will tell Raphtory where to find the datafile with the following few lines to be placed within the Spout class.
 
 ```scala
 val directory = System.getenv().getOrDefault("LOTR_DIRECTORY", "/absolute/path/to/LOTR/folder").trim
@@ -24,7 +24,7 @@ val fileLines = io.Source.fromFile(directory + "/" + file_name).getLines.toArray
 
 We could have just specified `directory` as a string pointing to `"/absolute/path/to/LOTR/folder"` and likewise with `file_name` but wanted to highlight that it is possible to specify these instead as environment variables `LOTR_DIRECTORY` and `LOTR_FILE_NAME`. In any case, these lines of code will take our datafile and extract from it all the lines, as an array of strings `fileLines`.
 
-The next few lines of code
+The next few lines of code;
 ```scala
 var position    = 0
 var linesNumber = fileLines.length
@@ -52,7 +52,7 @@ This goes through each line of the file and sends it to the Router via `sendTupl
 
 ## Router
 
-Now we will write the router class, which takes each ingested line of data and converts it to a graph update. The function which does this (and in this case is the only thing we need to include in this class) is `parseTuple`. Let's look at the code for it.
+Now we will write the router class, which takes each ingested line of data and converts it to a graph update. The function which does this (and in this case is the only thing we need to define in this class) is `parseTuple`. Let's look at the code for it.
 
 ```scala
 def parseTuple(record: Any): Unit = {
@@ -73,7 +73,7 @@ def parseTuple(record: Any): Unit = {
 }
 ```
 
-First we break up the line that has just been ingested by the spout into the relevant components, so for example the line `Gandalf,Elrond,33` becomes a tuple `(Gandalf, Elrond, 33)`. For each of the characters seen, we generate them an integer ID. Finally, we send an update adding both of the vertices to the graph as well as the edge joining them, each with a timestamp of when that update occurred.
+First, we break up the line that has just been ingested by the spout into the relevant components; so, for example, the line `Gandalf,Elrond,33` becomes a tuple `(Gandalf, Elrond, 33)`. For each of the characters seen, we generate them an ID of type `Long`. Finally, we send an update adding both of the vertices to the graph as well as the edge joining them, each with a timestamp of when that update occurred.
 
 There are a few things worth pointing out here.
 
