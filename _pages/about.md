@@ -16,6 +16,6 @@ Previously, I worked in CTO's R&D team at [Inspirisys Solutions Ltd.](https://ww
 Updates
 ======
 **2020**
-* **25 Sep** - Article accepted at [VisX AI Workshop](https://visxai.io/) - [Active Learning: A Visual Tour](https://patel-zeel.github.io/active-visualization)
+* **25 Sep** - Article accepted at [VisX AI Workshop](https://visxai.io/) - [Active Learning: A Visual Tour](https://patel-zeel.github.io/active-learning-visualization)
 * **14-17 Sep** - Attended [Gaussian Process Summer School](http://gpss.cc/gpss20/program) (virtual) - [Notes](https://docs.google.com/document/d/1BDckNU0UNE7apCl62p_QVjjNsHZpehXvAJS133g5pLw/edit?usp=sharing)
 * **23-27 Aug** - Attended [KDD-2020](https://www.kdd.org/kdd2020/) (virtual)
