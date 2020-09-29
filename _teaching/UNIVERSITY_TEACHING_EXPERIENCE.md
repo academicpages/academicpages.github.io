@@ -1,7 +1,11 @@
 ---
 title: "University Teaching Experience"
 collection: teaching
+type: "Undergraduate Courses"
 permalink: /teaching/UNIVERSITY_TEACHING_EXPERIENCE
+venue: "UCI, UCSB, and Dartmouth College"
+date: 2016 - 2020
+location: "United States"
 
 ---
 
@@ -13,13 +17,11 @@ Teaching experience at UCI, UCSB, and Dartmouth College
 * Trained in online teaching through UCI Division of Teaching Excellence and Innovation
 * Assist 1 instructor in School of Social Sciences in addressing some of the challenges in transitioning to emergency remote teaching
 
-<br>
 
 <b><big> Teaching Assistant, “Human, Place and Space”</big></b><br> <b> UCSB, Fall 2017 – Spring 2018 </b>
 * Prepared and delivered interactive lectures that blended scholarly research, critical thinking exercises, and global trend
 * Led structured group discussions of over 70 students, advised diverse student population on assignments, helped students grasp challenging course material
 
-<br>
 
 <b><big>Teaching Assistant, “Cognition”</big></b><br> <b> Dartmouth College, Spring 2016</b>
 
