@@ -2,7 +2,6 @@
 title: "Curriculum Development & Instructional Materials"
 collection: teaching
 type: "undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 
 ---
 
