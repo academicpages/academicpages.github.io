@@ -2,7 +2,7 @@
 title: "University Teaching Experience"
 collection: teaching
 type: "To undergraduates"
-permalink: /teaching/UNIVERSITY_TEACHING_EXPERIENCE
+permalink: /teaching/1UNIVERSITY_TEACHING_EXPERIENCE
 venue: "UCI, UCSB, and Dartmouth College"
 date: 2020-01-01
 location: "United States"
