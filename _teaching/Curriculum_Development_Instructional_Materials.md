@@ -3,7 +3,7 @@ title: "Curriculum Development & Instructional Materials"
 collection: teaching
 type: "To teaching assistants, teaching associates, and instructors of record who teach at universities and colleges"
 venue: "UCSB"
-date: 2015-01-01
+date: 2020-05-01
 location: "Santa Barbara, United States"
 ---
 <br>

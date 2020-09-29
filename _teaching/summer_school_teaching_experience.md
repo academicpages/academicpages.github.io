@@ -4,7 +4,7 @@ collection: teaching
 type: "To senior undergraduates, master students, and phd students"
 permalink: /teaching/summer_school_teaching_experience
 venue: "remote"
-date: 2020-01-01
+date: 2020-06-01
 location: "global"
 
 ---
