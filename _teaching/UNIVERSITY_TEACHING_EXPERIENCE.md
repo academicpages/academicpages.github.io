@@ -8,7 +8,7 @@ permalink: /teaching/UNIVERSITY_TEACHING_EXPERIENCE
 Teaching experience at UCI, UCSB, and Dartmouth College
 
 
-<b><big> Social Sciences Instructional Fellow, School of Social Sciences, UCI </big></b><br>Summer 2020
+<b><big> Social Sciences Instructional Fellow</big></b><br> <big>School of Social Sciences, UCI Summer 2020</big>
 
 * Trained in online teaching through UCI Division of Teaching Excellence and Innovation
 * Assist 1 instructor in School of Social Sciences in addressing some of the challenges in transitioning to emergency remote teaching
