@@ -48,8 +48,8 @@ COMPOSE_PROJECT_NAME=raphtory
 JAVA_OPTS=-Xms1G
 LOCAL=true
 DOCKER=true
-SPOUTCLASS=com.raphtory.spouts.lotrSpout
-ROUTERCLASS=com.raphtory.routers.lotrRouter
+SPOUTCLASS=com.raphtory.examples.lotr.LOTRSpout
+ROUTERCLASS=com.raphtory.examples.lotr.LOTRRouter
 PARTITION_MIN=1
 ROUTER_MIN=1
 LOTR_DIRECTORY=<path to your data>
@@ -75,7 +75,7 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 {
 	"jsonrpc":"2.0",
 	"jobID":"job-lotr-6deg-gandalf",
-	"analyserName":"com.raphtory.core.analysis.Algorithms.lotr6deg",
+	"analyserName":"com.raphtory.core.analysis.Algorithms.lotrExample",
 	"timestamp":10000
 }
 EOF
@@ -84,7 +84,7 @@ EOF
 This should return the following results:
 
 ```json
-View Analysis Task job-lotr-6deg-gandalf received, running com.raphtory.core.analysis.Algorithms.lotr6deg at time 10000
+View Analysis Task job-lotr-6deg-gandalf received, running com.raphtory.core.analysis.Algorithms.lotrExample at time 10000
 {"time":10000,"total":66,"direct":26,"viewTime":91}
 View Analysis manager for job-lotr-6deg-gandalf at 10000 finished
 ```
