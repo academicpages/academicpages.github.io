@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/UNIVERSITY_TEACHING_EXPERIENCE
 venue: "UCI, UCSB, and Dartmouth College"
-date: 2016 - 2020
+date: 2015-01-01
 location: "United States"
 
 ---
