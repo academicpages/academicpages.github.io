@@ -14,7 +14,7 @@ location: "United States"
 <b><big> Social Sciences Instructional Fellow</big></b><br> <b>School of Social Sciences, UCI, Summer 2020</b>
 
 * Trained in online teaching through UCI Division of Teaching Excellence and Innovation
-* Assist 1 instructor in School of Social Sciences in addressing some of the challenges in transitioning to emergency remote teaching
+* Assisted 1 instructor in School of Social Sciences in addressing some of the challenges in transitioning to emergency remote teaching
 
 <br>
 
