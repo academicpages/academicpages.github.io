@@ -1,16 +1,13 @@
 ---
 title: "University Teaching Experience"
 collection: teaching
-type: "Undergraduate Courses"
+type: "To undergraduates"
 permalink: /teaching/UNIVERSITY_TEACHING_EXPERIENCE
 venue: "UCI, UCSB, and Dartmouth College"
-date: 2015-01-01
+date: 2020-01-01
 location: "United States"
 
 ---
-
-Teaching experience at UCI, UCSB, and Dartmouth College
-
 
 <b><big> Social Sciences Instructional Fellow</big></b><br> <b>School of Social Sciences, UCI, Summer 2020</b>
 
