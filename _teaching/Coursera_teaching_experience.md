@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "global"
 
 ---
-
+<br>
 
 <b><big>Data Science Instructor for Guided Projects, Coursera Inc. </big></b><br> <b>Aug. 202o – Present</b>                                            
 * Created hands-on data science courses in R and Python with global learners

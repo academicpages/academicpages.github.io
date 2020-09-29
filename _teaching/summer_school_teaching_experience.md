@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "global"
 
 ---
-
+<br>
 
 <b><big> Teaching Assistant, Neuromatch Academy Inc. </big></b><br> <b>A worldwide online computational neuroscience summer school, June 2020 – July 2020 </b>                                                                                  
 * Provided feedback to evaluate and improve course material as a pre-pod member
