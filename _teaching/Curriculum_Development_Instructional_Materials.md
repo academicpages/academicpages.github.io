@@ -1,8 +1,10 @@
 ---
 title: "Curriculum Development & Instructional Materials"
 collection: teaching
-type: "undergraduate course"
-
+type: "teaching undergraduate course"
+venue: "UCSB"
+date: 2018 - 2019
+location: "Santa Barbara, United States"
 ---
 
 * Developed Website “[Building your teaching style](https://georgiatitcomb.wixsite.com/teachingstyles)” to help college TAs/Instructors build teaching style
