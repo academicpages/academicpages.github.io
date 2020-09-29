@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
+redirect_from: 
+  - /publications/
 ---
 
 The full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en).
