@@ -13,20 +13,18 @@ Education
 ======
 * B.S. in Physics, the University of Tokyo, 2012
 * M.S. in Physics, the University of Tokyo, 2014
-* Ph.D in Theoretical Physics (Particle Physics), the University of Tokyo, 2017
+* Ph.D in Physics, the University of Tokyo, 2017
 
 Work experience
 ======
 Under construction.
   
 
-Publications
+Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Under construction.
+
 Talks
 ======
-  Under construction.
+Under construction.
   
