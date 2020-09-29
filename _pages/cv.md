@@ -33,11 +33,11 @@ Work experience
 
 Publications
 ======
-* <b>Cheng, Y.</b>, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18.
+* <b>Cheng, Y.</b>, Hegarty, M., & Chrastil, E. R. (2020). [Telling right from right: the influence of handedness in the mental rotation of hands](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00230-9). Cognitive Research: Principles and Implications, 5, 1-18.
   
-* Sun, L., Tan, P. *, <b>Cheng, Y.</b> *, Chen, J., & Qu, C. (2015). The effect of altruistic tendency on fairness in third-party punishment. Frontiers in psychology, 6, 820. *denotes equal authorship
+* Sun, L., Tan, P. *, <b>Cheng, Y.</b> *, Chen, J., & Qu, C. (2015). [The effect of altruistic tendency on fairness in third-party punishment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4488604/). Frontiers in psychology, 6, 820. *denotes equal authorship
   
-* Qu, L., Dou, W., <b>Cheng, Y.</b>, & Qu, C. (2014). The processing course of conflicts in third‐party punishment: An event‐related potential study. PsyCh journal, 3(3), 214-221.
+* Qu, L., Dou, W., <b>Cheng, Y.</b>, & Qu, C. (2014). [The processing course of conflicts in third‐party punishment: An event‐related potential study](https://europepmc.org/article/med/26271939). PsyCh journal, 3(3), 214-221.
 
 
 
