@@ -80,3 +80,18 @@ You can download [Lab5.html](https://yongjunzhang.com/files/tutorial/Lab5.html).
 #### Announcement
 
 We have a guest speaker today. You can check here for more info about [Dr. Dustin Stoltz from Lehigh University](https://www.dustinstoltz.com/).
+
+
+### Week 6
+
+#### Mini-Lecture 6. Image as Data
+
+You can download our [slides here](https://yongjunzhang.com/files/tutorial/Lecture6.pdf)
+
+#### Basic Image Processing in Python
+
+You can download [Lab6.html](https://yongjunzhang.com/files/tutorial/Lab6.html). You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab6.ipynb).
+
+#### Announcement
+
+We have a guest speaker today. You can check here for more info about [Dr. Han Zhang from Hong Kong University of Science and Technology](https://hanzhang.xyz/).
