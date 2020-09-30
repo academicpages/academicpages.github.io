@@ -7,6 +7,8 @@ redirect_from:
   - /publications/
 ---
 
+> *If you know exactly what you are going to do, what is the point of doing it?* -***Pablo Picasso***
+
 The full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en).
 
 <!-- {% if author.googlescholar %}
