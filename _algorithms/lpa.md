@@ -36,7 +36,7 @@ In this example, the temporal network spans a time period $t \in [1,3]$ and is b
 
 Running LPA on all snapshots;
 ```scala
-curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
+curl -X POST 127.0.0.1:8081/RangeAnalysisRequest \
 -H "Content-Type: application/json" \
 --data-binary @- << EOF 
 {
@@ -46,7 +46,8 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 	"start":1,
 	"end":3,
 	"jump":1,
-	"windowType":"true"
+	"windowType":"true",
+	"windowSize": 1
 }
 EOF
 ```

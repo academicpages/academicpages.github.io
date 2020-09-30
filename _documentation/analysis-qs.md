@@ -79,7 +79,7 @@ override def processResults(results: ArrayBuffer[Any], timestamp: Long, viewComp
     val endResults = results.asInstanceOf[ArrayBuffer[immutable.ParHashMap[Int, Int]]]
     try {
       val grouped = endResults.flatten.groupBy(f => f._1).mapValues(x => x.map(_._2).sum)
-      val direct = grouped(SEP-1)
+      val direct = if (grouped.size>0) grouped(SEP-1) else 0
       val total = grouped.values.sum
       val text = s"""{"time":$timestamp,"total":${total},"direct":${direct},"viewTime":$viewCompleteTime}"""
       println(text)
