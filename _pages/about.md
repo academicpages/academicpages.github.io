@@ -3,9 +3,11 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+<meta name="google-site-verification" content="5K1h38QhEHwUXZQz5q9gNi1mB2SiBBOz0kXodraR8y0" />
 redirect_from: 
   - /about/
   - /about.html
+  
 ---
 
 I am a Ph.D. candidate in the [Department of Cognitive Sciences](https://www.cogsci.uci.edu/) at the University of California Irvine and a member of the [Spatial Neuroscience Lab](https://faculty.sites.uci.edu/spatialneuro/lab-members/). My advisor is [Prof. Elizabeth R. Chrastil](https://faculty.sites.uci.edu/spatialneuro/) and my research focuses on human navigation and spatial cognition.
