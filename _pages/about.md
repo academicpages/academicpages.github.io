@@ -3,7 +3,6 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-<meta name="google-site-verification" content="5K1h38QhEHwUXZQz5q9gNi1mB2SiBBOz0kXodraR8y0" />
 redirect_from: 
   - /about/
   - /about.html
