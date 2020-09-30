@@ -3,6 +3,7 @@ title: "Building a graph from your data"
 collection: documentation
 type: "Documentation"
 permalink: /documentation/sprouter
+order: 2
 tags:
   - reading-data
   - graph
@@ -36,7 +37,7 @@ Finally, we implement a function `ProcessSpoutTask` which ingests each line of t
 
 ```scala
 protected def ProcessSpoutTask(message: Any): Unit = message match {
-  case StartSpout => AllocateSpoutTask(Duration(1, MILLISECONDS), "newLine")
+  case StartSpout => AllocateSpoutTask(Duration(1, NANOSECONDS), "newLine")
   case "newLine" =>
     if (position < linesNumber) {
       var line = fileLines(position)

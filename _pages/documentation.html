@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
-{% for post in site.documentation reversed %}
-  {% include archive-single-talk.html %}
+{% assign sorted_pages = site.documentation | sort:"order" %}
+{% for node in sorted_pages %}
+  <li><a href="{{node.url}}">{{node.title}}</a></li>
 {% endfor %}
