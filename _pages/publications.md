@@ -4,9 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Autoregressive Score Matching](http://lantaoyu.com/publications/ARSM)</b> <br> 
+Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
+<i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
+
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
 Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
-<i>ArXiv 2020</i>.
+<i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
 
 <b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
 <b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
