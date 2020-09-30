@@ -10,23 +10,20 @@ redirect_from:
 
 ## Hello there! 
 
-Welcome! This is my research / learning note website.
+Welcome! This is my research and personal website.
 
 
 ## Current Major Role
 
-A PhD student who studies computational plant science at University of Georgia. 
+Currently I am on the journey to become a plant scientist (graduate from science elementary school, PHD)
 
 ## In the Core
 
-I am  a life-long learner with unstoppable curiosity, a problem-solver from realistic and computational perspectives, and becoming a discinplined dreamer of balancing work, life and family.
+I am  a life-long learner with unstoppable curiosity, a problem-solver from realistic and crazy perspectives, and becoming a discinplined dreamer of balancing work, life and family.
 
+I determine to make a better world and place for current and future generation and hope I can inspire others to do the same. 
 
-## About Ph.D.
-
-Meaning1:  <span class="btn btn--success">Patiently hoping for a Degree </span> <br>
-Meaning2:  <span class="btn btn--warning"> Parents have Doubts. </span>
 
 ## Interests  
 
-Cooking, Yoga, Reading, Dancing, Hiking, Travel ........ A lot of new things need me to explore 
+Cooking, Yoga, Reading, Dancing, Hiking, Travel, culvating new hobbies ........
