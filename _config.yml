@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Limeng(Momo) Xie"
   avatar           : "profile.png"
-  bio              : "Ph.D student at University of Georiga, doing research in computational plant science"
+  bio              : "Ph.D student from Plant Biology Department at University of Georiga, currently doing research in computational plant science"
   location         : "Athens, Georgia"
   employer         :
   googlescholar    : 
   email            : "momosan@uga.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/notifications/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "https://twitter.com/home"
   vine             :
   weibo            :
   xing             :
