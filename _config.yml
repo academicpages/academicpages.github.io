@@ -202,7 +202,6 @@ defaults:
       comments: true
       share: true
       related: true
-      modified: true
   # _pages
   - scope:
       path: ""
