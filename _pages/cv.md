@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020-Current: Bocconi University (Italy), PhD in Statistics and Computer Science
+* 2018-2020: Bocconi University (Italy), M.Sc. in Business Analytics and Data Science
+	* Grade: 110/110 “Cum Laude”
+	* Research Thesis on “Bayesian cross-validation and Importance Sampling”
+* 2015-2018: Università degli studi di Milano (Italy), B.Sc. in Mathematics
+	* Grade: 110/110 “Cum Laude”
+	* Thesis on “Multiple integration for non-injective Lipshitz functions”
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019-October 2019: Junior Data Analyst
+  * MDOTM
+  * Duties included: 
+  	* Implementing a Factor investing strategy in Java interface
+	* Helped to implement, analyse and optimise a Neural Network for stock prediction
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* February 2019-June 2019: Part time job as Junior Data analyst 
+  * Rationis 
+  * Duties included:
+  	* Implementing an optimisation algorithm for portfolio allocation with customisable contrains
+
   
 Skills
 ======
