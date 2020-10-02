@@ -6,26 +6,31 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
 
-  <body>
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<body>
+  <!-- Custom JavaScript files set in YAML front matter -->
+  {% for js in page.customjs %}
+  <script async type="text/javascript" src="{{ js }}"></script>
+  {% endfor %}
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
 
-    {{ content }}
+  {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include footer.html %}
+    </footer>
+  </div>
 
-    {% include scripts.html %}
+  {% include scripts.html %}
 
-  </body>
+</body>
+
 </html>
