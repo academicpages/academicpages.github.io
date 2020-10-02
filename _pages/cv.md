@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## BSc. Human Biosciences 2015, University of Plymouth
+  Dissertation: Modulation of porphyromonas gingivalis induced cytokine production by TLR7/8.
+## MSc. Immunology 2016, King's college London
+  Dissertation: Investigating the role of PKCe in LTE4 induced gene expression.
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### May 2019 - present: Technical Analyst
+  * Providing technical support and account management for the growth of digital advertising campaigns.
+  * Conducting detailed data analysis and statistical insights using Numpy and pandas in Jupyter Notebooks.
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### November 2018 - May 2019: Research Assistant
+  * Guy's & St Thomas' Hospital
+  * Responsible for administrative and laboratory assistance to a large portfolio of observational clinical trials in the Women’s health department.
+
+### May 2018 - November 2018: Chemotherapy Administrator
+  * Imperial college Health
+  * Actively involved in data analytics for use of the java automated library Cerner for data entry, auditing, cleaning, administration, and patient pathway management.
+
+### August 2016 - April 2018: Medical Technical Officer
+* Organized over 238 hours on-call abdominal
+transplantation surgeries across national NHS trusts.
+* Processed, analysed and presented results for large
+scale genotyping important for HLA typing in
+transplantation.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python
+  * Django
+  * Flask
+  * SQLAlchemy
+  * Numpy
+  * Pandas
+  * Matplotlib
+  * Tensorflow
+  * Keras
+* SQL
+* HTML/CSS
+* Javascript

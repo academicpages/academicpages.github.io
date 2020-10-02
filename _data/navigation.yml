@@ -1,22 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Home"
+  #  url: /Home/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "About"
+    url: /
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /documents/Arcade_Kwaku_CV.pdf
+# - title: "Guide"
+#   url: /markdown/
+
+# - title: "Talks"
+#  url: /talks/

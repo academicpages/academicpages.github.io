@@ -1,2 +1,6 @@
 _site/
 
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
