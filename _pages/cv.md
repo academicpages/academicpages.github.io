@@ -13,10 +13,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology, South China Normal University, 2014
-* M.A. in Geography, University of California Santa Barbara, 2019
-* M.S. in Cognitive Neuroscience, University of California Irvine, 2020
 * Ph.D in Cognitive Neuroscience, University of California Irvine (present)
+* M.S. in Cognitive Neuroscience, University of California Irvine, 2020
+* M.A. in Geography, University of California Santa Barbara, 2019
+* B.S. in Psychology, South China Normal University, 2014
 
 
 
