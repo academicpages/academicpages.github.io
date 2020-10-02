@@ -10,7 +10,7 @@ redirect_from:
 
 Biographical sketch
 ======
-I am an interdisciplinary behavioral scientist and anthropologist.<img align="right" src="/images/IAST_logo.png" width="20"> Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) and maintain an affiliation at Washington State University as Adjunct Faculty in the [Department of Anthropology](https://anthro.vancouver.wsu.edu/people/zgarfield/). I am also co-director of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). 
+I am an interdisciplinary behavioral scientist and anthropologist.<img align="right" src="/images/IAST_logo.png" width="60"> Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) and maintain an affiliation at Washington State University as Adjunct Faculty in the [Department of Anthropology](https://anthro.vancouver.wsu.edu/people/zgarfield/). I am also co-director of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). 
 
 
 I received a B.A. in anthropology and psychology from the University of Nebraska–Lincoln in 2012 and completed my Ph.D. in evolutionary anthropology at WSU in 2019.
