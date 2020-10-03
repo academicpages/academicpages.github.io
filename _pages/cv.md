@@ -25,8 +25,11 @@ Education
 Work experience
 ======
 * June 2019-October 2019: Junior Data Analyst ad MDOTM
+	* 1
+	* 2
+	* 3
 * February 2019-June 2019: Part time job as Junior Data analyst at Rationis
-	* Implemented pinco pallo.
+	* Implemented an optimisation algorithm for portfolio allocation with customisable micro and macro economic constraints, which required to combine convex optimisation with mixed integer programming
 
 
   
