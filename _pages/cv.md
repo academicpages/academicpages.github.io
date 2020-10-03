@@ -11,13 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSci: Imperial College London & University of California Berkeley, 2014
+* PhD: Imperial College London, 2018
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
+
+* Research Associate, University of Cambridge
+  * African Tomography
+  * Receiver Functions
+  * Other exciting plans
+
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -25,16 +30,16 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Python
+* Matlab
+  <!-- * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -56,4 +61,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019-Present: 10 Reviewed manuscripts for: JGR, Gcubed, GRL, GJI, NGeo, NComms
+* 2020: PI: advertised role, interviewed, employed, trained, mentored 3 summer research students
+  * Students processed arrival-time datasets for Canadian-Alaskan imaging project, undertook independent projects, led methodological and tectonic discussion groups, gave final presentations.
+* 2019-2020: Organiser: Cambridge Geophysics Seminar
+* 2019-2020: Deep Earth Explorers exhibit, Sedgwick Museum, Cambridge (Opened Mar. 2020)
+  * Exhibition content developer: interactive movies to explain seismic wave travel through Earth.
