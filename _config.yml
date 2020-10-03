@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Alistair Boyce"
+  avatar           : "AB_profile_photo.jpg"
   bio              : "About me:"
   location         : "Cambridge, UK"
   employer         : "https://www.esc.cam.ac.uk/directory/alistair-boyce"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=Ik1KLekAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Alistair_Boyce
+  researchgate     :  "https://www.researchgate.net/profile/Alistair_Boyce"
   uri              :
   bitbucket        :
   codepen          :
