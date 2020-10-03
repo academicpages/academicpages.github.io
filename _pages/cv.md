@@ -26,6 +26,7 @@ Work experience
 ======
 * June 2019-October 2019: Junior Data Analyst ad MDOTM
 * February 2019-June 2019: Part time job as Junior Data analyst at Rationis
+	* Implemented pinco pallo.
 
 
   
