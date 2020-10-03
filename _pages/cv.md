@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+%{% include base_path %}
 
 Education
 ======
@@ -28,7 +28,6 @@ Work experience
 
 
 * February 2019-June 2019: Part time job as Junior Data analyst at Rationis
-  * Duties included:
   	* Implemented an optimisation algorithm for portfolio allocation with customisable constrains, which required deep knowledge of both converx optimisation and mixed integer programming.
 
   
@@ -41,7 +40,6 @@ IT Skills
 * Softwares
   * Matlab (good level)
   * R (basic level)
-  * Sub-skill 2.3
 
 Languages
 ======
@@ -54,21 +52,22 @@ Languages
 Working Papers
 ======
 * Bayesian cross validation and importance sampling, joint with G. Zanella
+
   %<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  %  {% include archive-single-cv.html %}
+ % {% endfor %}</ul>
   
 %Talks
 %======
  % <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+%    {% include archive-single-talk-cv.html %}
+ % {% endfor %}</ul>
   
 %Teaching
 %======
  % <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ %   {% include archive-single-cv.html %}
+ % {% endfor %}</ul>
   
 %Service and leadership
 %======
