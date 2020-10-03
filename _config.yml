@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-  avatar           : 
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
   bio              : "About me:"
   location         : "Cambridge, UK"
   employer         : "https://www.esc.cam.ac.uk/directory/alistair-boyce"
