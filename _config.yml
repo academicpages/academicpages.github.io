@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Alistair Boyce"
 title_separator          : "-"
 name                     : &name "Alistair Boyce"
-description              : &description "Seismologist, personal website creator in training..."
+description              : &description ""
 url                      : https://alistairboyce11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alistairboyce11/alistairboyce11.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alistair Boyce"
+  name             : "Alistair"
   avatar           : "AB_profile_photo.jpg"
-  bio              : "About me:"
+  bio              : "Seismologist, personal website creator in training..."
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=Ik1KLekAAAAJ"
-  email            :
+  email            : "ab2568 [at] cam.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Alistair_Boyce"
   uri              :
   bitbucket        :
