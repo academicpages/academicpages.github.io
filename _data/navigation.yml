@@ -7,7 +7,7 @@ main:
     url: /cv/
     
   - title: "Blog"
-    url: /misc/
+    url: /blog/
     
   - title: "Contact"
     url: /contact/
