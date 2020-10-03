@@ -9,6 +9,9 @@ redirect_from:
 
 %{% include base_path %}
 
+ciaoooo
+
+
 Education
 ======
 * 2020-Current: Bocconi University (Italy), PhD in Statistics and Computer Science
