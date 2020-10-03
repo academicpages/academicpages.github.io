@@ -17,3 +17,11 @@ __Research Interests__
 * Adversarial Robustness
 * Machine Learning
 * Signal Processing
+
+News
+======
+ - Sep. 2020: AdvFlows got accepted at NeurIPS2020!
+ - Jul. 2020: Attended (virtually) Machine Learning Summer School (MLSS2020) at Max Planck Institute in Tuebingen.
+ - Jun. 2020: A short version of my recent work was accepted to INNF+.
+ - Jan. 2020: My paper was accepted at AISTATS2020!
+ - Jun. 2019: Started my Ph.D. at the University of Melbourne.
