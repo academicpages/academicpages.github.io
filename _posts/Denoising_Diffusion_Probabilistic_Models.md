@@ -3,9 +3,9 @@ title: 'DDP'
 date: 2020-09-01
 permalink: /posts/2020/09/ddp/
 tags:
-  -generative_modeling
-  -score_matching
-  -diffusion_models
+  - generative_modeling
+  - score_matching
+  - diffusion_models
 
 ---
 
