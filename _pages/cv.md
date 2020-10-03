@@ -22,11 +22,11 @@ Education
 Work experience
 ======
 * June 2019-October 2019: Junior Data Analyst ad MDOTM
- 	* Implemented a Factor investing strategy in Java interface
- 	* Helped to implement, analyse and optimise a Neural Network for stock prediction
-	* Devoloped a dynamical python interface to analyse experiments results
+ 	*  Implemented a Factor investing strategy in Java interface
+ 	*  Helped to implement, analyse and optimise a Neural Network for stock prediction
+	*  Devoloped a dynamical python interface to analyse experiments results
 * February 2019-June 2019: Part time job as Junior Data analyst at Rationis
-  	* Implemented an optimisation algorithm for portfolio allocation with customisable constrains, which required deep knowledge of both converx optimisation and mixed integer programming.
+  	*  Implemented an optimisation algorithm for portfolio allocation with customisable constrains, which required deep knowledge of both converx optimisation and mixed integer programming.
 
   
 IT Skills
@@ -37,7 +37,7 @@ IT Skills
 	* Java (basic level)
 * Softwares
   * Matlab (good level)
-  * R (basic level)
+  * R (basic level)s
 
 Languages
 ======
@@ -51,22 +51,4 @@ Working Papers
 ======
 * Bayesian cross validation and importance sampling, joint with G. Zanella
 
-  %<ul>{% for post in site.publications %}
-  %  {% include archive-single-cv.html %}
- % {% endfor %}</ul>
-  
-%Talks
-%======
- % <ul>{% for post in site.talks %}
-%    {% include archive-single-talk-cv.html %}
- % {% endfor %}</ul>
-  
-%Teaching
-%======
- % <ul>{% for post in site.teaching %}
- %   {% include archive-single-cv.html %}
- % {% endfor %}</ul>
-  
-%Service and leadership
-%======
-%* Currently signed in to 43 different slack teams
+
