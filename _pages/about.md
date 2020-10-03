@@ -13,4 +13,6 @@ I am a Ph.D. candidate in the [Department of Cognitive Sciences](https://www.cog
 
 I received a Bachelor's Degree in Psychology from [South China Normal University](http://psy.scnu.edu.cn/english/), a Master's Degree in Geography from [the University of California Santa Barbara](https://geog.ucsb.edu/), and a Master's Degree in Cognitive Neuroscience from the [University of California Irvine](https://www.cogsci.uci.edu/). 
 
+I am also a published data science instructor at Coursera teaching interactive and fun guided projects to global learners. Check out my recent projects [here](https://www.coursera.org/instructor/you-lilian-cheng).
+
 I go by Lily :)
