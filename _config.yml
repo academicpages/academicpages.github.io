@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
