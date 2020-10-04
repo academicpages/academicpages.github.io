@@ -17,4 +17,4 @@ My research focuses on *Discourse* phenomena.
 * October 2020: Paper accepted at COLING 2020.
 * September 2020: Paper accepted at EMNLP 2020.
 * September 2020: Presented poster at ISCOL 2020.
-* October 2019: Presented poster at EurNLP 2019-
+* October 2019: Presented poster at EurNLP 2019.
