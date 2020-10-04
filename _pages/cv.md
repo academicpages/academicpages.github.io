@@ -25,9 +25,9 @@ Education
 Work experience
 ======
 * June 2019-October 2019: Junior Data Analyst ad MDOTM
-	* 1
-	* 2
-	* 3
+	* Implemented a Factor Investing strategy on a Java interface based on a comprehensive literature review on the topic 
+	* Collaborated in the implementation and performance analysis of a Neural Network for stock return prediction. In particular I focused on the optimisation of computations and analysis of the out-of-sample perfomance.
+	* Implemented a dynamical plotting framework in Python to analyse results of different experiments. The framework was build on the libraries "ipywidgets" and "qgrid"
 * February 2019-June 2019: Part time job as Junior Data analyst at Rationis
 	* Implemented an optimisation algorithm for portfolio allocation with customisable micro and macro economic constraints, which required to combine convex optimisation with mixed integer programming
 
