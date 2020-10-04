@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* MSci: Imperial College London & University of California Berkeley, 2014
-* PhD: Imperial College London, 2018
+* 2010-2014: MSci, Imperial College London & University of California Berkeley
+* 2014-2018: PhD, Imperial College London
 
 Experience
 ======
 
-* Research Associate, University of Cambridge
-  * African Tomography
-  * Receiver Functions
-  * Other exciting plans
+* 2018-2021: Research Associate, University of Cambridge
+
 
 <!-- * Summer 2015: Research Assistant
   * Github University
@@ -34,12 +32,6 @@ Experience
   
 Skills
 ======
-* Python
-* Matlab
-  <!-- * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 ======
@@ -53,12 +45,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Service and leadership
 ======
 * 2019-Present: 10 Reviewed manuscripts for: JGR, Gcubed, GRL, GJI, NGeo, NComms
