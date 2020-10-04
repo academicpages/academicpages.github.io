@@ -29,3 +29,11 @@ This data set is thoroughly described in the following article:
 To download the data set, you can either go to the [journal website](https://doi.org/10.5201/ipol.2019.265) or to the [associated Github repository](https://github.com/deepcharles/gait-data).
 
 An [online demo](http://ipolcore.ipol.im/demo/clientApp/demo.html?id=265) is available to skim through the data set without coding or downloading anything.
+
+
+## Patents
+
+### Procédé de caractérisation de démarche (gait characterization method)
+
+- R. Dadashi, T. Moreau, C. Truong, C. de Waele, A. Yelnik, R. Barrois-Müller, N. Vayatis, L. Oudre, P.-P. Vidal, D. Ricard (2017). Procédé de caractérisation de démarche. [Réf. WO2017021545A1/FR3039763A1](https://worldwide.espacenet.com/publicationDetails/biblio?locale=en_EP&date=20170210&CC=FR&NR=3039763A1&ND=1&KC=A1&rnd=1601821028019&FT=D&DB=#)
+
