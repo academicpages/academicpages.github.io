@@ -15,8 +15,6 @@ My research focuses on *Discourse* phenomena.
 ### News
 
 * October 2020: Paper accepted at COLING 2020.
-* September 2020: Paper on "QADiscourse - Discourse Relations as QA Pairs:
-Representation, Crowdsourcing and Baselines" was accepted to EMNLP 2020. Camera-ready coming soon.
-* September 2020: I presented "QADiscourse - Discourse Relations as QA Pairs:
-Representation, Crowdsourcing and Baselines" at ISCOL 2020.
-* October 2019: Presented poster at EurNLP
+* September 2020: Paper accepted at EMNLP 2020.
+* September 2020: Presented poster at ISCOL 2020.
+* October 2019: Presented poster at EurNLP 2019-
