@@ -22,7 +22,7 @@ author_profile: true
 In EMNLP 2020.  
 
 ### *QA-Nom: Question-Answer driven SRL for Nominalizations*
-Ayal Klein, Jonathan Mamou, <ins>Valentina Pyatkin</ins>\, Daniela Stepanov, Hangfeng He, Dan Roth, Luke Zettlemoyer, Ido Dagan.  
+Ayal Klein, Jonathan Mamou, <ins>Valentina Pyatkin</ins>, Daniela Stepanov, Hangfeng He, Dan Roth, Luke Zettlemoyer, Ido Dagan.  
 COLING 2020.  
 
 ### *Discourse Relations and Conjoined VPs: Automated Sense Recognition*
