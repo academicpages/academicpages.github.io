@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-ciaoooone i love my amazing super sexy girlfriend 
-
 
 Education
 ======
@@ -17,6 +15,7 @@ Education
 * 2018-2020: Bocconi University (Italy), M.Sc. in Business Analytics and Data Science
 	* Grade: 110/110 “Cum Laude”
 	* Research Thesis on “Bayesian cross-validation and Importance Sampling”
+	* Supported research during BIDSA student's initiative, a honours program. The projected concerned studying the energy of the solution landscape of MLP and assessing the possibility of leveraging local algorithms to retrain individual perceptrons to obtain better out-of-sample performance. 
 * 2015-2018: Università degli studi di Milano (Italy), B.Sc. in Mathematics
 	* Grade: 110/110 “Cum Laude”
 	* Thesis on “Multiple integration for non-injective Lipshitz functions”
@@ -41,7 +40,7 @@ IT Skills
 	* Java (basic level)
 * Softwares
   * Matlab (good level)
-  * R (basic level)s
+  * R (basic level)
 
 Languages
 ======
