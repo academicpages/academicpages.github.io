@@ -105,7 +105,7 @@ You can download the [Jean et al.'s 2016 artcile slides here](https://yongjunzha
 
 #### Basics or More on Numpy and Tensors in Python
 
-You can download [Lab6.html](https://yongjunzhang.com/files/tutorial/Lab7.html). You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab7.ipynb).
+You can download [Lab7.html](https://yongjunzhang.com/files/tutorial/Lab7.html). You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab7.ipynb).
 
 #### Announcement
 
