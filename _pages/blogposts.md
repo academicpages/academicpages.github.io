@@ -2,9 +2,9 @@
 permalink: /posts/
 title: "Blog Posts"
 author_profile: true
-redirect_from: 
-  - /posts/
-  - /year-archive.html
+# redirect_from: 
+#   - /posts/
+#   - /year-archive.html
 ---
 
 2019 EGU Geodynamics Blog
