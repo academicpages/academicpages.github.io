@@ -95,3 +95,18 @@ You can download [Lab6.html](https://yongjunzhang.com/files/tutorial/Lab6.html).
 #### Announcement
 
 We have a guest speaker today. You can check here for more info about [Dr. Han Zhang from Hong Kong University of Science and Technology](https://hanzhang.xyz/).
+
+
+### Week 7
+
+#### No mini-lecture this week, but ...
+
+You can download the [Jean et al.'s 2016 artcile slides here](https://yongjunzhang.com/files/tutorial/Jean-2016.pdf). I did a presentation in 2019. 
+
+#### Basics or More on Numpy and Tensors in Python
+
+You can download [Lab6.html](https://yongjunzhang.com/files/tutorial/Lab7.html). You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab7.ipynb).
+
+#### Announcement
+
+We have a guest speaker today. You can check here for more info about [Dr. Alex Hanna from Google ](https://alex-hanna.com/).
