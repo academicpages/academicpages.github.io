@@ -9,4 +9,5 @@ paperurl: 'https://doi.org/10.1016/j.leaqua.2019.03.005'
 citation: 'Zachary H. Garfield and Edward H. Hagen (2010). &quot;Investigating evolutionary models of leadership among recently settled Ethiopian hunter-gatherers.&quot; <i>The Leadership Quarterly</i>. 30(2).'
 ---
 This empirical field study provides rare quantitative data on elected leadership among a relatively egalitarian society, including on female and male leaders. Results are interpreted in reference to influential evolutionary theoretical models.
+
 [Download paper here](http://zhgarfield.github.io/files/garfield_hagen_2020.pdf)
