@@ -20,10 +20,11 @@ author_profile: true
 ### *QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines*
 <ins>Valentina Pyatkin</ins>, Ayal Klein, Reut Tsarfaty, Ido Dagan.  
 In EMNLP 2020.  
+[PDF](https://valentinapy.github.io/files/QADiscourse_Camera_Ready.pdf)
 
 ### *QA-Nom: Question-Answer driven SRL for Nominalizations*
 Ayal Klein, Jonathan Mamou, <ins>Valentina Pyatkin</ins>, Daniela Stepanov, Hangfeng He, Dan Roth, Luke Zettlemoyer, Ido Dagan.  
-COLING 2020.  
+In COLING 2020.  
 
 ### *Discourse Relations and Conjoined VPs: Automated Sense Recognition*
 <ins>Valentina Pyatkin</ins>, Bonnie Webber.    
