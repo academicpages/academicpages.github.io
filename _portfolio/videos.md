@@ -1,6 +1,6 @@
 ---
 title: "Videos"
-excerpt: "SciComm, talks, interviews in video"
+excerpt: "SciComm, talks, interviews in video."
 collection: portfolio
 ---
 
