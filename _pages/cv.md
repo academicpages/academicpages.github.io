@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dual Degree(B.Tech and M.Tech), Mechanical Engineering, IIT Madras, 2015-2020
+* Sri Chaitanya College, Vijayawada, 2015
+* Ravindra Bharathi School, Kadapa, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Product Intern|Grofers India Pvt Ltd.
+* Summer 2018: Intern at Caterpillar India Pvt Ltd.
+* Summer 2017: Intern at Superbolter technologies Pvt Ltd.
   
 Skills
 ======
