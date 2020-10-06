@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jyotesh Chowdary Yerraguntla"
+title                    : "Jyotesh Chowdary"
 title_separator          : "-"
 name                     : &name "Jyotesh Chowdary"
 description              : &description "Student @ IIT Madras"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jyotesh Chowdary Yerraguntla"
   avatar           : "jyo.jpg"
-  bio              : "Fourth Year Undergrad Mechanical Engineering. IIT Madras"
+  bio              : "Mechanical Engineering. IIT Madras"
   location         : "Chennai, India"
   employer         :
   googlescholar    : 
