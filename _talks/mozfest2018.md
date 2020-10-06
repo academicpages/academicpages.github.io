@@ -14,3 +14,4 @@ Click [here](https://github.com/graciellehigino/IGNITE/issues/19) to check the n
 
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://medium.com/@graciellehigino/ignite-went-to-mozilla-festival-2018-751f8dd7a060">IGNITE went to Mozilla Festival 2018!</a></h4></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
