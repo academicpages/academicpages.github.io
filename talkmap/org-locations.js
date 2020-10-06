@@ -28,5 +28,10 @@ var addressPoints = [
     "Universidade Federal de Viçosa, Viçosa - Minas Gerais, Brazil",
     -20.761235,
     -42.866402
+  ],
+  [
+    "Belfast, UK",
+    54.5973,
+    5.9301
   ]
 ];
