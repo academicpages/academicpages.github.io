@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Institution**: Notre Dame College, Dhaka
+    * GPA: 5.00/5.00
+    * Major: Science
+* **Institution**: Rajshahi University of Engineering & Technology (RUET)
+    * CGPA: 3.15/4.00
+    * Bachelor of Science in Engineering
+    * Department: Computer Science & Engineering (CSE) 
+    * Thesis: "Superpixel Based Inter-Frame Prediction for Video Coding"
+    * Supervisors: [Dr. Ashek Ahmmed](https://scholar.google.com/citations?hl=en&user=inQobUgAAAAJ), [Dr. Shahid Uz Zaman](http://vu.edu.bd/cse/faculty-members/prof-drmd-shahid-uz-zaman) 
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant** (Feb 2018 - Oct 2019)
+  * Project 1: "Superpixel Based Inter-Frame Prediction for Video Coding"
+    * `Superpixel`, `Affine Motion Model`
+    * Publication: http://dx.doi.org/10.1109/ICAEE48663.2019.8975508
+  * Project 2: "Classification Based Inter-Frame Prediction in Video Compression"
+    * `Motion Discontinuity`, `Complex Motion Model`, `Neural Network`
+    * Publication: http://dx.doi.org/10.1109/ICAEE48663.2019.8975416
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java
+* Python
+* Docker
+* JavaScript
+* Computer Vision
+* Video Codecs (HEVC, AVC)
+* Android Application Development
+* Machine Learning [(Accomplishment Certificate)](https://www.coursera.org/account/accomplishments/certificate/8UC38U2GD7F4)
+
 
 Publications
 ======
@@ -48,12 +56,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Notre Dame Science Club.
+* Notre Dame Math Club.
