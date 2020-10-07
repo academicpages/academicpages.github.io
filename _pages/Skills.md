@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Practical Skills"
-permalink: /talks/
+permalink: /skills/
 author_profile: true
 ---
 
