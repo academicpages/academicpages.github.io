@@ -40,11 +40,6 @@ In Proc. of AAAI 2019: The 33rd AAAI Conference on Artificial Intelligence, page
 * **Multi-Target Stance Detection via a Dynamic Memory-Augmented Network**       
 **Penghui Wei**, Junjie Lin, Wenji Mao  
 In Proc. of SIGIR 2018: The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1229--1232.  
-
-Selected Co-authored Publications:
-* **MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks**  
-Nan Xu, Wenji Mao, **Penghui Wei**, Daniel Zeng  
-In IEEE Intelligent Systems.  
 <br/>
 
   
