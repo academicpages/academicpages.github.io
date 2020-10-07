@@ -16,6 +16,20 @@ Education
 * M.S. of Science in Computer science, University of Victoria, 2018
   * Master’s Thesis: Predicting the Programming Language of Questions and Snippets of Stack Overflow.
 
+Research experience
+======
+* Visiting Research Student: King Abdullah University of Science and Technology (Jan. 2019 - July 2019)
+  * Contributed and developed Delve- a web-based dataset retrieval and document analysis system.
+  * Visualized dataset and document citation relationship and enables users to analyze a scientific document by uploading its full PDF.
+  * Implemented machine learning and data mining techniques on the analysis of document text, citation and co-author graphs.
+
+* Research Student: University of Victoria (Jan. 2016 - Aug. 2018)
+  * Mined and generated relevant research data from social networks via the implementation of an efficient k-core algorithm
+  * Optimized knowledge of programming language to predict the exact languages of questions on Stack Overflow
+  * Enabled user identification using keystroke by training machine learning algorithms on keystroke dataset
+  
+
+
 Work experience
 ======
 * Software Developer: Advanced Electronics Company (Jan. 2020 - Present)
@@ -23,11 +37,9 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
+
+
 Skills
 ======
 * Skill 1
