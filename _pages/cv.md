@@ -49,25 +49,7 @@ Teaching experience
 
 
 
-Skills
-======
-* Machine Learning:
-  * Python
-  * Scikit-Learn
-  * Keras
-  * Gensim
-  * NumPy
-  * Scrapy
 
-* Software Develpoment:
-  * Java
-  * C#
-  * Java Script
-  * ASP.NET MVC and Core
-  * HTML
-  * SQL
-  * JQuery
-  * Git
 
 Publications
 ======
@@ -75,13 +57,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
   
-Teaching
+Conference Attended and Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The WCCE Conference, 2018. 
+* The AI/GI/CRV Conference, 2016. 
+* The PacRim Conference, 2017
+* Artificial Intelligence in Medicine, 2019.
