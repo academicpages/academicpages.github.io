@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Practical Skllis"
+title: "Practical Skills"
 permalink: /talks/
 author_profile: true
 ---
