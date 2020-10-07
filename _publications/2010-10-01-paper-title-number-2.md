@@ -6,7 +6,7 @@ excerpt: "This paper based on my master's thesis."
 date: 2018-09-23
 venue: '2018 IEEE 18th International Working Conference on Source Code Analysis and Manipulation (SCAM)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: '22'
+citation: ''
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
