@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. of Education in Computer Education, University of Hail, 2013
-  * eee
+  * Senior Project: Analysis of keystroke dynamics based on different languages for representing user’s typing behavior.
 * M.S. of Science in Computer science, University of Victoria, 2018
-
+  * Master’s Thesis: Predicting the Programming Language of Questions and Snippets of Stack Overflow.
 
 Work experience
 ======
