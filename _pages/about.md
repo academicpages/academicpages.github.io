@@ -20,6 +20,7 @@ __Research Interests__
 
 News
 ======
+ - Sep. 2020: AdvFlows are accepted to NeurIPS2020! Stay tuned for CR version.
  - Aug. 2020: Presented (virtually) my work at AISTATS2020.
  - Jul. 2020: Attended (virtually) Machine Learning Summer School (MLSS2020) at Max Planck Institute in Tuebingen.
  - Jun. 2020: A short version of my recent work was accepted to INNF+.
