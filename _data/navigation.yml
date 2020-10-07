@@ -3,12 +3,6 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-
   - title: "Skills"
     url: /skills/
         
