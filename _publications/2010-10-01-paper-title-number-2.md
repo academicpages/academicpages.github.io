@@ -1,5 +1,5 @@
 ---
-title: "SCC: Automatic classification of code snippets"
+title: "SCC Automatic classification of code snippets"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper based on my master's thesis.'
