@@ -2,14 +2,13 @@
 title: "SCC++ Predicting the programming language of questions and snippets of Stack Overflow"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is based on my master thesis.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper based on my master\'s thesis.'
+date: 2020-01-01
+venue: 'Journal of Systems and Software'
+paperurl: 'http://kamel773.github.io/files/paper1.pdf'
+citation: '11'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Download paper here](http://kamel773.github.io/files/paper1.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Stack Overflow is the most popular Q&A website among software developers. As a platform for knowledge sharing and acquisition, the questions posted on Stack Overflow usually contain a code snippet.
+Determining the programming language of a source code file has been considered in the research community. it has been shown that Machine Learning (ML) and Natural Language Processing (NLP) algorithms
