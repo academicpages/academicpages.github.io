@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Practical Skllis"
 permalink: /talks/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Skills
-======
+
 * Machine Learning:
   * Python
   * Scikit-Learn
@@ -16,3 +15,13 @@ Skills
   * Gensim
   * NumPy
   * Scrapy
+
+* Software Develpoment:
+  * Java
+  * C#
+  * Java Script
+  * ASP.NET MVC and Core
+  * HTML
+  * SQL
+  * JQuery
+  * Git
