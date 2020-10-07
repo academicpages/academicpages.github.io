@@ -59,7 +59,7 @@ Skills
   * NumPy
   * Scrapy
 
-* Sotfware Develpoment:
+* Software Develpoment:
   * Java
   * C#
   * Java Script
