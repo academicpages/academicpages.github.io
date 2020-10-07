@@ -6,7 +6,7 @@ excerpt: "This paper based on my master's thesis."
 date: 2020-01-01
 venue: 'Journal of Systems and Software'
 paperurl: 'http://kamel773.github.io/files/paper1.pdf'
-citation: '11'
+citation: ''
 ---
 [Download paper here](http://kamel773.github.io/files/paper1.pdf)
 
