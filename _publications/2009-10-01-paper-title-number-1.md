@@ -10,7 +10,7 @@ citation: ''
 ---
 [Download paper here](http://kamel773.github.io/files/paper1.pdf)
 
-Abstruct: Stack Overflow is the most popular Q&A website among software developers. As a platform for knowledge sharing and acquisition, the questions posted on Stack Overflow usually contain a code snippet.
+Stack Overflow is the most popular Q&A website among software developers. As a platform for knowledge sharing and acquisition, the questions posted on Stack Overflow usually contain a code snippet.
 Determining the programming language of a source code file has been considered in the research community; it has been shown that Machine Learning (ML) and Natural Language Processing (NLP) algorithms
 can be effective in identifying the programming language of source code files. However, determining the
 programming language of a code snippet or a few lines of source code is still a challenging task. Online
