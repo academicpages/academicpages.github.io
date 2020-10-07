@@ -48,14 +48,26 @@ Teaching experience
   * Employed different teaching methods while instructing students on lab component of CSC 110 and 115 (Fundamentals of Programming I and II – Java)
 
 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning:
+  * Python
+  * Scikit-Learn
+  * Keras
+  * Gensim
+  * NumPy
+  * Scrapy
+
+* Sotfware Develpoment:
+  * Java
+  * C#
+  * Java Script
+  * ASP.NET MVC and Core
+  * HTML
+  * SQL
+  * JQuery
+  * Git
 
 Publications
 ======
