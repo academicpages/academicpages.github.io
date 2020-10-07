@@ -28,12 +28,16 @@ Research experience
   * Optimized knowledge of programming language to predict the exact languages of questions on Stack Overflow
   * Enabled user identification using keystroke by training machine learning algorithms on keystroke dataset
 
+* Undergraduate Research Student: University of Hail (Nov. 2012 - May 2013)
+  * Implemeting Machine Learning algorithms on keystroke dynamics dataset for User identification.
+  * Collecting a new Arabic dataset and comaring it to Italian Language.
+  * 
 
 
 Work experience
 ======
 * Software Developer: Advanced Electronics Company (Jan. 2020 - Present)
-  * Github University
+  * Implemeting user interface using MVC, JQuery, CSS and HTML
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
