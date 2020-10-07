@@ -85,7 +85,7 @@ author:
   bio              : "I am Software Developer and Data Scientist at Advanced Electronics Company Ltd"
   location         : "Saudi Arabia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7j0jTzYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kamel773"
   google_plus      :
   keybase          :
   instagram        :
