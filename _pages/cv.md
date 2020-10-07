@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](CV.pdf)
+[CV](https://github.com/patel-zeel/website/blob/master/_pages/CV.pdf)
