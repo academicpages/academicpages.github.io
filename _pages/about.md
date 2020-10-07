@@ -43,8 +43,8 @@ In Proc. of SIGIR 2018: The 41st International ACM SIGIR Conference on Research 
 
 Selected Co-authored Publications:
 * **MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks**  
-Nan Xu, **Penghui Wei**, Wenji Mao, Daniel Zeng  
-To appear in IEEE Intelligent Systems.  
+Nan Xu, Wenji Mao, **Penghui Wei**, Daniel Zeng  
+In IEEE Intelligent Systems.  
 <br/>
 
   
