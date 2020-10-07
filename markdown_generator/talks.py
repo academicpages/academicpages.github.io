@@ -78,7 +78,7 @@ for row, item in talks.iterrows():
     else:
         md += 'type: "Talk"\n'
     
-    md += "permalink: /talks/" + html_filename + "\n"
+    md += "permalink: /skills/" + html_filename + "\n"
     
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
