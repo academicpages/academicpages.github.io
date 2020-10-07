@@ -10,4 +10,4 @@ citation: 'Zachary H. Garfield, Robert H. Hubbard, and Edward H. Hagen. (2019). 
 ---
 This cross-cultural study tested three theoretical models of leadership against the ethnographic record. 
 
-[Download paper here](http://academicpages.github.io/files/garfield_et_al_2019_HN.pdf)
+[Download paper here](http://zhgarfield.github.io/files/garfield_et_al_2019_HN.pdf)
