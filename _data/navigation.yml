@@ -8,6 +8,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Skills"
+    url: /skills/
         
   - title: "Blog Posts"
     url: /year-archive/
