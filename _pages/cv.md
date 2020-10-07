@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. of Education in Computer Education, University of Hail, 2013
+ * vhjk
+* M.S. of Science in Computer science, University of Victoria, 2018
+
 
 Work experience
 ======
