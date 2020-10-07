@@ -11,7 +11,7 @@ citation: ''
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Abstract: Determining the programming language of a source
+Determining the programming language of a source
 code file has been considered in the research community; it has
 been shown that Machine Learning (ML) and Natural Language
 Processing (NLP) algorithms can be effective in identifying the
