@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Software Developer: Advanced Electronics Company (Jan. 2020 - Present)
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
