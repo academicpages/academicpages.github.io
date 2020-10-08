@@ -45,6 +45,8 @@ Publications
 Select Conference Presentations 
 ======
 <b><big>Oral Presentations</big></b>
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), remote. Oct., 2020. [news](/posts/2020/10/blog-post-2/)
+
 * <b>Cheng, Y. </b>. Travel Direction as a Fundamental Component of Human Navigation, UCI Cognitive Sciences Department Graduate Student Presentation Bonanza, Irvine. Jan., 2020.
   
 * <b>Cheng, Y. </b>. What Are the Sex Differences in Navigation Training? Using Sea Hero Quest Dataset, UCSB Crossroads Symposium, Santa Barbara. Nov., 2019.
