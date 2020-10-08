@@ -3,9 +3,9 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <h2 class="list__item" itemprop="headline">
-      {{ post.citation }} [<a href=" {{ post.paperurl }} ">paper</a>]
-    </h2>
+    <p class="list__item" itemprop="headline">
+      {{ post.citation }} {{% if post.paperurl %}}[<a href=" {{ post.paperurl }} ">paper</a>]{{% end if %}}
+    </p>
 
   </article>
 </div>
