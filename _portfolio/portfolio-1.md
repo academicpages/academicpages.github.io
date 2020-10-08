@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Molecular Machine Learning"
+excerpt: "Applications of artificial intelligence for molecular property prediction<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
