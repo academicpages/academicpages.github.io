@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Finance, George Mason University, 2012
+* B.S. in Economics, George Mason University, 2014
+* M.Sc in Business Administration, Hamburg University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - Media Consulting: Working Student
+  * Ebiquity Germany GmbH
+  * Duties included: Data analysis of online and TV campaigns
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2019 - 12/2019: Internship in Risk Advisory
+  * RSM Risk Consulting GmbH
+  * Duties included: Assessment of financial internal controls.
   
-Skills
+* 06/2018 - 09/2019: Working Student Controlling
+  * Nexperia Germany GmbH
+  * Duties included: Product cost calculation, Databank management
+ 
+* 09/2015 - 05/2016: Economics Assistant
+  * Federal Deposit Insurance Corporation
+  * Duties included: Risk Assessment of Banks
+  
+* 05/2014 - 07/2014: Summer Research Assistant
+  * Mercatus Center
+  * Duties included: Debt Assessment of Municipalities
+  
+Software Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LaTex
+* R
+* Python
+* Markdown
+* Excel
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Germany-Scholarship, Germany Ministry of Education and Research
+* Howard Ruben Bloch Scholarship in Economics at George Mason University
