@@ -39,7 +39,7 @@ Work experience
   
 Software Skills
 ======
-* LaTex
+* LaTex 
 * R
 * Python
 * Markdown
