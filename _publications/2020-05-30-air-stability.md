@@ -2,7 +2,7 @@
 title: "Air-Stability and Carrier Type in Conductive M<sub>3</sub>(Hexaaminobenzene)<sub>2</sub>, (M = Co, Ni, Cu)'>"
 collection: publications
 permalink: /publication/2020-05-30-air-stability
-excerpt: 'We investigate electrical transport properties of the M-HAB metal organic framework system (M = Co, Ni, Cu).<br/><img src='/images/ja0c03500_0005.gif>'
+excerpt: "We investigate electrical transport properties of the M-HAB metal organic framework system (M = Co, Ni, Cu).<br/><img src='/images/ja0c03500_0005.gif'>"
 date: 2020-05-30
 venue: 'Journal of the American Chemical Society'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/jacs.0c03500'
