@@ -10,8 +10,8 @@ role: Graduate Research Assistant
 
 degrees: 
 
-* B.S.E., Chemical Engineering (Chemistry minor), University of Iowa (2020)
-* Ph.D., Chemical Engineering, University of Iowa (Expected 2025)
+* B.S.E., Chemical Engineering (Chemistry minor), University of Iowa, 2020
+* Ph.D., Chemical Engineering, University of Iowa, 2025 (Expected)
 
 project: Optimization of Organic Photovoltaics using Graph Neural Networks and Genetic Algorithms
 
