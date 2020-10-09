@@ -17,20 +17,15 @@ Education
 
 Work experience
 ======
-* 2020 - Media Consulting: Working Student
-  * Ebiquity Germany GmbH
+* 2020 - Media Consulting: Working Student at Ebiquity Germany GmbH
 
-* 09/2019 - 12/2019: Internship in Risk Advisory
-  * RSM Risk Consulting GmbH
+* 09/2019 - 12/2019: Internship in Risk Advisory at RSM Risk Consulting GmbH
   
-* 06/2018 - 09/2019: Working Student Controlling
-  * Nexperia Germany GmbH
+* 06/2018 - 09/2019: Working Student Controlling at Nexperia Germany GmbH
  
-* 09/2015 - 05/2016: Economics Assistant
-  * Federal Deposit Insurance Corporation
+* 09/2015 - 05/2016: Economics Assistant at the Federal Deposit Insurance Corporation
   
-* 05/2014 - 07/2014: Summer Research Assistant
-  * Mercatus Center
+* 05/2014 - 07/2014: Summer Research Assistant at the Mercatus Center
   
 Software Skills
 ======
