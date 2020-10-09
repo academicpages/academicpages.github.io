@@ -8,8 +8,10 @@ name: Jonah Marks
 
 role: Graduate Research Assistant
 
-degrees: -Chemical Engineering BSE, Chemistry minor (2020)
-         -Chemical Engineering PhD (Expected 2025)
+degrees: 
+
+* B.S.E., Chemical Engineering (Chemistry minor), University of Iowa (2020)
+* Ph.D., Chemical Engineering, University of Iowa (Expected 2025)
 
 project: Optimization of Organic Photovoltaics using Graph Neural Networks and Genetic Algorithms
 
