@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 Download my CV [here](hmdolatabadi.github.io/files/CV_Hadi_Mohaghegh_Dolatabadi.pdf).
 
 Education
