@@ -9,7 +9,7 @@ permalink: /research/
 ## Research
 
 **Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?**  
-*Findings of EMNLP.* \[pdf and code coming soon\]  
+*Findings of EMNLP.* [[pdf]](https://arxiv.org/abs/2010.04119) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)
 Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal
 
 **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?**  
