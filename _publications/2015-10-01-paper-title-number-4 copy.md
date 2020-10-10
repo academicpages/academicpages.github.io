@@ -3,10 +3,11 @@ title: 'Software Engineering Research Code on Github: Characteristics and Challe
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: ''
-date: 2017-08-27
+date: 2021-08-27
 venue: 'Not Yet'
 paperurl: ''
 ---
 
+I am currently working on this project and collabrating with Dr. Vincent Hellendoorn.
 
 [Download paper here]()
