@@ -44,10 +44,8 @@ Work experience
 Teaching experience
 ======
 * Teaching Assistant: University of Victoria (Sep. 2017 - April 2018)
-  * Improved students academic performance by providing appropriate feedback based on weekly assessment as well as inside and outside lecture room support
-  * Employed different teaching methods while instructing students on lab component of CSC 110 and 115 (Fundamentals of Programming I and II – Java)
-
-
+  * Teached students the Fundamentals of Programming Lanuages I and II on the laboratory.
+  * Improved students programming skills by providing feedback based on weekly assignments.
 
 
 
