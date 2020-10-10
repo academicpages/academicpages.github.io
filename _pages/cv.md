@@ -24,22 +24,22 @@ Research experience
   * Implemented machine learning and data mining techniques on the analysis of document text, citation and co-author graphs.
 
 * Research Student: University of Victoria (Jan. 2016 - Aug. 2018)
-  * Mined and generated relevant research data from social networks via the implementation of an efficient k-core algorithm
-  * Optimized knowledge of programming language to predict the exact languages of questions on Stack Overflow
-  * Enabled user identification using keystroke by training machine learning algorithms on keystroke dataset
+  * Implemeted Machine Learning algorithms on predicting the programming language of questions on Stack Overflow
+  * Mined Stack Overflow question posts to discover knowledge related to energy consumption.
+  * Cleaned and preprocessed raw dataset and transformated into understandable format.
 
 * Undergraduate Research Student: University of Hail (Nov. 2012 - May 2013)
-  * Implemeting Machine Learning algorithms on keystroke dynamics dataset for User identification.
-  * Collecting a new Arabic dataset and comaring it to Italian Language.
-  * 
+  * Implemeted Machine Learning algorithms on keystroke dynamics dataset for user identification.
+  * Collected a new Arabic dataset from 21 users and compared the results with Italian Language.
+
 
 
 Work experience
 ======
 * Software Developer: Advanced Electronics Company (Jan. 2020 - Present)
-  * Implemeting user interface using MVC, JQuery, CSS and HTML
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Implemeted user interface using MVC, JQuery, CSS, Bootstrap and HTML and designed the UI/UX.
+  * Maintained and developed server-side applications as well as created a new feature.
+  * Worked with other Responsibilities such as API integration, deployment and Web server technologies.
 
 Teaching experience
 ======
