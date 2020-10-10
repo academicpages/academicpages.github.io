@@ -39,7 +39,7 @@ Work experience
 * Software Developer: Advanced Electronics Company (Jan. 2020 - Present)
   * Implemeted user interface using MVC, JQuery, CSS, Bootstrap and HTML and designed the UI/UX.
   * Maintained and developed server-side applications as well as created a new feature.
-  * Worked with other responsibilities such as API integration, deployment and Web server technologies.
+  * Worked with other responsibilities such as API integration, deployment and web server technologies.
 
 Teaching experience
 ======
