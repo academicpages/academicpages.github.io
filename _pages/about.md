@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-My interests are in Software Development, Digital Transformation, Human Computer Interaction and Data Science. 
+My interests are in Software Development, Human Computer Interaction and Data Science. 
 
