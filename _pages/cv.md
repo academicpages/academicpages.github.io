@@ -44,7 +44,7 @@ Work experience
 Teaching experience
 ======
 * Teaching Assistant: University of Victoria (Sep. 2017 - April 2018)
-  * Teached students the Fundamentals of Programming Lanuages I and II on the laboratory.
+  * Teached students the Fundamentals of Programming Languages I and II on the laboratory.
   * Improved students programming skills by providing feedback based on weekly assignments.
 
 
