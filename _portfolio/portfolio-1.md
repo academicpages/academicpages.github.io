@@ -1,6 +1,5 @@
 ---
 title: "Masters Thesis"
-excerpt: "Short description of portfolio item number 1<br/><img src='/files/Masterarbeit.pdf'>"
 collection: portfolio
 ---
 Abstract
