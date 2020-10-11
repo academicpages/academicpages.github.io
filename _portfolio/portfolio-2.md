@@ -4,4 +4,6 @@ excerpt: "Short description of portfolio item number 2 <br/><img src='/images/50
 collection: portfolio
 ---
 
-Examples...
+#Solutions to How to Think Like a Computer Scientist with Python 3
+
+[Download paper here](https://gzhelev2020.github.io/files/ch.14.pdf)
