@@ -50,7 +50,7 @@ fn <- tempfile(fileext = "xlsx")
 download.file(url, fn)
 
 # Read in data
-raw_data <- read_excel(fn, skip = 1)
+raw_data <- read_excel(fn, range = "A2:N73")
 unlink(fn)
 
 # Clean data
@@ -102,6 +102,10 @@ approach leaves off all the covariates, which mostly doesn't matter, because
 they had very small coefficients anyway. In fact, you get almost exactly the
 same estimate of the slope as the authors did with the linear model.
 
+```r
+t.test(patient_slopes$patient_slope)
+```
+
 My approach would have been to use a mixed model. This approach accounts for
 the uncertainty in the patient-by-patient slopes. In the authors' approach, the
 patients' titer-versus-time slopes are treated as if they were known exactly;
@@ -112,5 +116,5 @@ points is ignored.
 lmer(log_titer ~ day + (day || patient), data = data)
 ```
 
-However, to my surprise, you get almost the same results! My guess is that, because most of the patients have approximately the same number of samples (either 2 or 3) and the coefficients are small (i.e., they don't explain very much of the variation in the observed values), it doesn't matter that much which statistical approach you use.
+However, to my surprise, you get almost the same results as reported in the original paper! My guess is that, because most of the patients have approximately the same number of samples (either 2 or 3) and the coefficients are small (i.e., they don't explain very much of the variation in the observed values), it doesn't matter that much which statistical approach you use.
 
