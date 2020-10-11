@@ -5,7 +5,7 @@ title: "Current projects"
 author_profile: true
 ---
 
-**Page under construction.**
+*Page under construction.*
 
 For information on my ongoing and developing field research see the [Projects page](https://www.omovalleyresearchproject.org/projects) at The OVRP website. 
 
