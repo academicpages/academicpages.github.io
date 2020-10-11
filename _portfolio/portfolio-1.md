@@ -1,5 +1,5 @@
 ---
 title: "Sandy shores of Pondy"
-excerpt: "<br><img src='/images/Rock1.jpg'>"
+excerpt: "<br><img src='/images/Pondi_beach.jpg'>"
 collection: portfolio
 ---
