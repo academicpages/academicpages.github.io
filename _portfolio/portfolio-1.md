@@ -2,6 +2,8 @@
 title: "Masters Thesis"
 collection: portfolio
 ---
+# Demand Estimation with Machine Learning
+
 Abstract
 
 This paper describes a comparison of classical and machine learning
