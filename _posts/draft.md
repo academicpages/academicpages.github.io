@@ -1,5 +1,5 @@
 ---
-(Almost) Equivalent notions of differential privacy
+Approximate DP and smoothed-DP
 ---
 
 
@@ -28,17 +28,23 @@ Other useful study materials include:
 TLDR
 -------------
 Clarify some (almost) equivalent notions of differential privacy.
-"Almost" means sufficient or necessary conditions for differential privcay.
 
 Approximate differential privacy 
 --------------------------------
+We begin with the definition of $(\epsilon,\delta)$-differential privacy,
+which has a lot of nice properties, including allowing us to apply the 
+Gaussian mechanism.
 
-Unfortunately, $\epsilon$-dp does not apply to the most commonly used
-noise, the Gaussian noise. To fix this, we need to relax the definition
-a bit.
-
-**Definition**. A mechanism $M$ is said to be
+**Definition**. A mechanism $M: X \to  Y$ is said to be
 $(\epsilon, \delta)$*-differentially private* if for all $x, x' \in X$
-with $d(x, x') = 1$ and for all measureable $S \subset \mathbb R^d$
+with $x \sim x' $ and for all measureable 
+$S \subset Y$,
 
-$$\mathbb P(M(x) \in S) \le e^\epsilon P(M(x') \in S) + \delta. \qquad (2)$$
+$$\mathbb P(M(x) \in S) \le e^\epsilon P(M(x') \in S) + \delta. $$
+
+Note that we make the implicit assumption $M(x) = M(x') $ in the above equation,
+as explained in the [previous post](/posts/2020/10/02/).
+We make this implicit assumption from now onwards.
+
+### Indistinguishability 
+
