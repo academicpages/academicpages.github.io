@@ -18,6 +18,10 @@ Education
 
 Research experience
 ======
+* Research Student, Volunteer: Carnegie Mellon University (Jan. 2019 - July 2019)
+  * Collected and extracuted information from research publications (PDF files).
+  * Visualized and analyzed a source code of scientific papers on Github.
+
 * Visiting Research Student: King Abdullah University of Science and Technology (Jan. 2019 - July 2019)
   * Contributed and developed Delve- a web-based dataset retrieval and document analysis system.
   * Visualized dataset and document citation relationship and enables users to analyze a scientific document by uploading its full PDF.
