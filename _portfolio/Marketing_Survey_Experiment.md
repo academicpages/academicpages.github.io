@@ -1,5 +1,5 @@
 ---
-title: "Masters Thesis"
+title: "Marketing Experiment"
 collection: portfolio
 ---
 Title: Product Shortage Risk in Car Sharing: An Experiment
