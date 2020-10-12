@@ -2,6 +2,7 @@
 title: "Marketing Experiment (german)"
 collection: portfolio
 ---
+
 Title: Product Shortage Risk in Car Sharing: An Experiment
 
 Abstract
