@@ -12,6 +12,8 @@ For information on my ongoing and developing field research see the [Projects pa
 ## Comparative research
 
 * Cultural diversity of punishment behaviors and systems
+* Leadership strategies among hunter-gatherers
+* Hawks and doves: Are there aggressive and non-aggressive types?
 
 ## Experimental research
 
@@ -20,7 +22,10 @@ For information on my ongoing and developing field research see the [Projects pa
 ## Theoretical and conceptual work
 
 * A theoretical and strategic model of shamanism
+* Leadership and prestige, mothering, sexual selection, and encephalization: The computational services model
+* There is no ethnography of ancestral societies: A critique of recent comparative methods
 
 ## Synergies 
 
 * Testing Evolutionary Alternative Models of Third-Party Punishment: A Multidisciplinary Approach
+* The face of a leader: A cross-national analysis
