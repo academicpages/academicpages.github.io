@@ -2,7 +2,7 @@
 title: "Masters Thesis"
 collection: portfolio
 ---
-# Demand Estimation with Machine Learning
+## Demand Estimation with Machine Learning
 
 Abstract
 
