@@ -9,7 +9,7 @@ redirect_from:
 header:
   image: headers/LEroofs_header.jpg
 ---
-## my data science
+## my professional life
 
 Since January 2020, I am working as a Data Scientist in an aspiring E-commerce company in Germany. I develop and deploy robust Python microservices with Flask, Docker, Tensorflow, Kubernetes, Mysql, etc.
 My current focus areas are backend development and predictive models, like Neural Networks. Additionally, our team optimizations of a variety of E-commerce processes from purchases and warehousing to shipments. 
