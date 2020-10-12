@@ -5,8 +5,8 @@ collection: portfolio
 
 Solutions to How to Think Like a Computer Scientist with Python 3
 
-Personally worked solutions to the chapter exercises of the book "How to Think Like a Computer Scientist: Learning with Python 3" from Wentworth, Elkner,
-Downey and Meyers.
+Personally worked solutions to the chapter exercises of the book *How to Think Like a Computer Scientist: Learning with Python 3* from Wentworth, Elkner,
+Downey and Meyers, August 12, 2012.
 
 [Ch. 11](https://gzhelev2020.github.io/files/ch.11.pdf)
 
