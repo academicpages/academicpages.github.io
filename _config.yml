@@ -85,7 +85,7 @@ author:
   bio              : "PhD candidate in Neuroscience Program at Washington University in St. Louis"
   location         : "St. Louis, Missouri"
   employer         :
-  pubmed           : ""
+  pubmed           : "https://pubmed"
   googlescholar    : "https://scholar.google.com/citations?user=z46FTv4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/Jen_Chun_Hsiang"
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #""
+  impactstory      : #"nothing here"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-5268-9239"
