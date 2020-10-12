@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Jen-Chun "Jim" Hsiang home on the web. 
+This is Jen-Chun 'Jim' Hsiang home on the web. 
 
 
 Publication - what will last for a thousand years
