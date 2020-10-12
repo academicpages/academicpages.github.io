@@ -1,7 +1,10 @@
 ---
-title: "Marketing Experiment (german)"
+title: "Masters Thesis"
 collection: portfolio
 ---
+Title: Demand Estimation with Machine Learning
+
+Abstract
 
 Title: Product Shortage Risk in Car Sharing: An Experiment
 
