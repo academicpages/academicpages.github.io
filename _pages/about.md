@@ -10,3 +10,5 @@ redirect_from:
 
 My interests are in Software Development, Human Computer Interaction and Data Science. 
 
+
+While I am working as a Software Developer at Advanced Electronics Company, I am also collabrating on research projects with Dr. Vincent Hellendoorn.
