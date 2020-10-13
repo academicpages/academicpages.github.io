@@ -13,7 +13,7 @@ Models are tools to understand the real world and...they can sharpen our intuiti
 
 Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
-## Publications
+## Published
 
 ### 2020 -
 __Pinto-Ledezma, J.N.__, F. Villalobos, P.R. Reich, J.A. Catford, D.L. Larkin & J. Cavender-Bares. 2020. [Testing Darwin's naturalization conundrum based on taxonomic, phylogenetic and functional dimensions of vascular plants](https://doi.org/10.1002/ecm.1420). _Ecological Monographs, ECM1420_.
@@ -94,13 +94,13 @@ Villarroel, D., __J.N. Pinto-Ledezma__, T. Ruiz de Centurión & A. Parada. 2009.
 __Pinto-Ledezma, J.N__. 2006. Evolución del paisaje y estado de conservación de la reserva forestal el Choré. _Kempffiana, 1(2): 45-56_.
 
 ## Under review - revision
-__Pinto-Ledezma, J.N.__ & J. Cavender-Bares. (Under review). Predicting species distributions and community composition using remote sensing products. preprint available here: https://doi.org/10.1101/2020.07.06.185322
+__Pinto-Ledezma, J.N.__ & J. Cavender-Bares. (Under review). Predicting species distributions and community composition using remote sensing products. [Preprint](https://doi.org/10.1101/2020.07.06.185322)
 
-Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. Journal of Applied Ecology. Preprint available here: www.biorxiv.org/content/10.1101/2020.01.15.908020v1
+Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. Journal of Applied Ecology. [Preprint](www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
 
-Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. (Under review). How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach. Genetica. Preprint available here: https://doi.org/10.1101/2020.02.20.958637
+Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. (Under review). How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach. Genetica. [Preprint](https://doi.org/10.1101/2020.02.20.958637)
 
-Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. (Second revision). Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). Proceedings of the Royal Society: Biological Sciences. Preprint available here: https://doi.org/10.1101/2020.06.17.157891
+Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. (Second revision). Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). Proceedings of the Royal Society: Biological Sciences. [Preprint](https://doi.org/10.1101/2020.06.17.157891)
 
 ## Book and chapthers non peer reviewed
 Mostacedo, B., M. Toledo, D. Villarroel, __J.N. Pinto-Ledezma__, G. Carreño-Rocabado, B. Flores & Y. Uslar. 2014. Memorias del IV Congreso Boliviano de Ecología. 4-6 de junio 2014. Universidad Autónoma Gabriel Rene Moreno, Santa Cruz, Bolivia.
