@@ -4,16 +4,10 @@ main:
     url: /research/
   
   - title: "Publications"
-    url: /publications/
-
- # - title: "Talks"
-  #  url: /talks/    
+    url: /publications/   
 
   - title: "Teaching"
     url: /teaching/    
-    
- # - title: "Portfolio"
-  #  url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -23,4 +17,3 @@ main:
     
   - title: "Contact"
     url: /contact/
-
