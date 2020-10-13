@@ -110,3 +110,14 @@ You can download [Lab7.html](https://yongjunzhang.com/files/tutorial/Lab7.html).
 #### Announcement
 
 We have a guest speaker today. You can check here for more info about [Dr. Alex Hanna from Google ](https://alex-hanna.com/).
+
+
+### Week 8
+
+#### No mini-lecture this week, but  we will briefly go through...
+
+You can download the [Jean et al.'s 2016 artcile slides here](https://yongjunzhang.com/files/tutorial/Jean-2016.pdf). I did a presentation in 2019. 
+
+#### Basics on Tensorflow and Keras in Python
+
+You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab8.ipynb).
