@@ -28,32 +28,17 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% if post.doi %}
+        <a href="https://doi.org/{{ post.doi }}" target="_blank">{{ title }}</a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.paperurl }}" rel="permalink" target="_blank">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
 
     {% if post.date %}<p class="page__meta"><i class="fa fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">Published in <i>{{ post.venue }}</i></p>{% endif %}
-    {% if post.citation and post.paperurl and post.preprinturl %}
-        <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }} <br> <a href="{{ post.paperurl }}" target="_blank">Link <i class="fas fa-external-link-alt"></i></a><!--, <a href="{{ post.preprinturl }}" target="_blank">Preprint <i class="fas fa-external-link-alt"></i></a>--></p>
-    {% elsif post.citation and post.paperurl %}
-      <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }} <br> <a href="{{ post.paperurl }}" target="_blank">Link <i class="fas fa-external-link-alt"></i></a></p>
-    {% elsif post.citation and post.preprinturl %}
-        <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }} <br> <a href="{{ post.preprinturl }}" target="_blank">Preprint <i class="fas fa-external-link-alt"></i></a></p>
-    {% elsif post.citation %}
-      <p class="archive__item-excerpt" itemprop="description"><b><i>Recommended citation</i></b>: {{ post.citation }}</p>
-    {% elsif post.paperurl %}
-      <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.paperurl }}" target="_blank">Link c</a></p>
-    {% elsif post.preprinturl %}
+    {% if post.authors and post.venue %}<p class="archive__item-excerpt" style="font-size:18px">{{ post.authors }}<br><br><i>{{ post.venue }}</i></p>{% endif %}
+    {% if post.preprinturl %}
       <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.preprinturl }}" target="_blank">Preprint <i class="fas fa-external-link-alt"></i></a></p>
-    {% elsif post.paperurl and post.preprinturl %}
-      <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.paperurl }}" target="_blank">Link <i class="fas fa-external-link-alt"></i></a><!--, <a href="{{ post.preprinturl }}" target="_blank">Preprint <i class="fas fa-external-link-alt"></i>--></a></p>
     {% endif %}
   </article>
   <span style="display:block; margin-top:-2em; visibility: hidden">text</span>

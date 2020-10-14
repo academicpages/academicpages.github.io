@@ -8,7 +8,6 @@ year: '2015'
 venue: 'Padua Digital University Archive'
 authors: 'Leonardo Pacciani, Enzo Orlandini'
 paperurl: 'http://tesi.cab.unipd.it/49409/'
-citation: 'Pacciani, L. (2017). &quot;Curvature effect on patterning dynamics on spherical membranes&quot;, <i>Padua Digital University Archive</i>.'
 ---
 
 ## Abstract
