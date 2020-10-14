@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2015-07-22-curvature-effect-thesis
 excerpt: "Bachelor's thesis"
 date: 2015-09-26
+year: '2015'
 venue: 'Padua Digital University Archive'
 authors: 'Leonardo Pacciani, Enzo Orlandini'
 paperurl: 'http://tesi.cab.unipd.it/49409/'

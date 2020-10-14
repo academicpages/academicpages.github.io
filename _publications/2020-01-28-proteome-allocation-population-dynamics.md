@@ -4,11 +4,13 @@ collection: publications
 permalink: /publication/2020-07-25-constrained-proteome-allocation
 excerpt: "bioRxiv preprint"
 date: 2020-07-25
+year: '2020'
 venue: 'bioRxiv'
 authors: 'Leonardo Pacciani-Mori, Samir Suweis, Amos Maritan, Andrea Giometto'
 #paperurl: 'https://doi.org/10.1101/2020.01.27.921478'
 preprinturl: 'https://doi.org/10.1101/2020.01.27.921478'
 citation: 'Pacciani-Mori L., Suweis S., Maritan A. and Giometto A. (2020). &quot;Constrained proteome allocation affects coexistence in models of competitive microbial communities&quot;, <i>bioRxiv</i>. DOI: 10.1101/2020.01.27.921478'
+doi: '10.1101/2020.01.27.921478'
 ---
 
 <font color="red"><b>This manuscript is currently under peer review.</b></font>

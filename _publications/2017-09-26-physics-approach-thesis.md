@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2017-09-26-physics-approach-thesis
 excerpt: "Master's thesis"
 date: 2017-09-26
+year: '2017'
 venue: 'Padua Digital University Archive'
 authors: 'Leonardo Pacciani, Amos Maritan'
 paperurl: 'http://tesi.cab.unipd.it/57004/'

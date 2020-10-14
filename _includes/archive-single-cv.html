@@ -6,11 +6,12 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
+
+{% assign title = post.title %}
+{% assign authors = post.authors %}
+{% assign venue = post.venue %}
+{% assign year = post.year %}
+{% assign doi = post.doi %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
@@ -26,17 +27,16 @@
           alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}" target="_blank">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+
+    <p>
+      {% if post.doi %}
+        {{ authors }}, <a href="https://doi.org/{{ post.doi }}" rel="permalink" target="_blank">{{ title }}</a>, <i>{{ venue }}</i> ({{ year }}). DOI: {{ doi }}.
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink" target="_blank">{{ title }}</a>
+        {{ authors }}, <a href="{{ post.paperurl }}" rel="permalink" target="_blank">{{ title }}</a>, <i>{{ venue }}</i> ({{ year }}).
       {% endif %}
-    </h3>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    </p>
+
+
     </li>
  </article>
 </div>
