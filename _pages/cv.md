@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
+
 [Download](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_pages/CV.pdf) CV in pdf format<br>
 Basic Info
 ======
