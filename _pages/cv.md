@@ -17,7 +17,8 @@ redirect_from:
 
 
 Basic Info
-====== ___
+======
+---
 Date of Birth: 04-08-1996<br>
 Address: Colony near SBI bank, Lavarpur, Gandhinagar, Gujarat-382355<br>
 Email: patel_zeel@iitgn.ac.in<br>
