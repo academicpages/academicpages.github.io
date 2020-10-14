@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [IIT Gandhinagar](https://www.iitgn.ac.in/) advised by [Prof. Nipun Batra](https://nipunbatra.github.io). I mainly work on sustainability related problems (currently focused on air quality). I am interested in probabilistic modeling and Bayesian methods.   
+I am a PhD student at <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by <a style="text-decoration:none" href="https://nipunbatra.github.io">Prof. Nipun Batra</a>. I mainly work on sustainability related problems (currently focused on air quality). I am interested in probabilistic modeling and Bayesian methods.   
 
 
-Previously, I worked in CTO's R&D team at [Inspirisys Solutions Ltd.](https://www.inspirisys.com) for six months. I did my M.Tech. from [IIITDM Kancheepuram](https://www.iiitdm.ac.in/) college.
+Previously, I worked in CTO's R&D team at <a style="text-decoration:none" href="https://www.inspirisys.com">Inspirisys Solutions Ltd.</a> for six months. I did my M.Tech. from <a style="text-decoration:none" href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a> college.
 
 Updates
 ======
 **2020**
-* **25 Sep** - Article accepted at [VisX AI Workshop](https://visxai.io/) - [Active Learning: A Visual Tour](https://patel-zeel.github.io/active-learning-visualization)
-* **14-17 Sep** - Attended [Gaussian Process Summer School](http://gpss.cc/gpss20/program) (virtual) - [Notes](https://docs.google.com/document/d/1BDckNU0UNE7apCl62p_QVjjNsHZpehXvAJS133g5pLw/edit?usp=sharing)
-* **23-27 Aug** - Attended [KDD-2020](https://www.kdd.org/kdd2020/) (virtual)
+* **25 Sep** - Article accepted at <a style="text-decoration:none" href="https://visxai.io/">VisX AI Workshop</a> - <a style="text-decoration:none" href="https://patel-zeel.github.io/active-learning-visualization">Active Learning: A Visual Tour</a>
+* **14-17 Sep** - Attended <a style="text-decoration:none" href="http://gpss.cc/gpss20/program">Gaussian Process Summer School</a> (virtual) - <a style="text-decoration:none" href="https://docs.google.com/document/d/1BDckNU0UNE7apCl62p_QVjjNsHZpehXvAJS133g5pLw/edit?usp=sharing">Notes</a>
+* **23-27 Aug** - Attended <a style="text-decoration:none" href="https://www.kdd.org/kdd2020/">KDD-2020</a> (virtual)
