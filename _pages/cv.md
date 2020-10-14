@@ -11,10 +11,12 @@ redirect_from:
 
 Basic Info
 ======
-Date of Birth: 04-08-1996
-Address: Colony near SBI bank, Lavarpur, Gandhinagar, Gujarat-382355
-Email: patel_zeel@iitgn.ac.in
+Date of Birth: 04-08-1996<br>
+Address: Colony near SBI bank, Lavarpur, Gandhinagar, Gujarat-382355<br>
+Email: patel_zeel@iitgn.ac.in<br>
 Nationality: Indian
+
+
 
 Current role
 ======
@@ -22,6 +24,8 @@ Current role
 Advisor: Nipun Batra
 Computer Science and Engineering				
 IIT Gandhinagar, Gujarat, India
+
+
 
 Education
 ======
@@ -41,16 +45,22 @@ Percentage: 79.69/100
 Ved International School, Gandhinagar, Gujarat, India
 Percentage: 79.69/100
 
+
+
 Industrial experience
 ======
 **Data Scientist** in CTO team, Jun 2019 - Dec 2019
 Inspirisys Solutions Ltd., Chennai, India
+
+
 
 Publications [Google Scholar Profile](https://scholar.google.com/citations?user=7LY1_u4AAAAJ&hl=en)
 ======
 Zeel Patel, Sreekumar Muthuswamy
 *A Machine Learning Scheme for Tool Wear Monitoring and Replacement in IoT-Enabled Smart Manufacturing*
 ICIPDIMS, 2019
+
+
 
 Attended Conferences and Summer Schools
 ======
@@ -62,6 +72,8 @@ virtual event
 
 **IRISS 2020**, 13-15 Feb 2020
 IIT Gandhinagar, Gujarat, India
+
+
 
 Positions of Responsibility
 ======
