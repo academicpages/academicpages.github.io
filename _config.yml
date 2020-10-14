@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=7LY1_u4AAAAJ&hl=en"
   email            : "patel_zeel@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : #no
   bitbucket        :
   codepen          :
   dribbble         :
