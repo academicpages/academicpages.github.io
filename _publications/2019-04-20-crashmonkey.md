@@ -1,7 +1,7 @@
 ---
 title: "CrashMonkey and ACE: Systematically Testing File-System Crash Consistency"
 collection: publications
-permalink: /publication/2019-4-20-crashmonkey
+permalink: /publication/2019-04-20-crashmonkey
 excerpt: ''
 date: 2018-10-08
 venue: 'ACM Transactions on Storage (TOS'18)'
