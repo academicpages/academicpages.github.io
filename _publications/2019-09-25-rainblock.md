@@ -17,7 +17,7 @@ regions spread across three continents.'
 date: 2019-09-25
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/1909.11590.pdf'
-citation:
+citation: 'Ponnapalli, Soujanya, Aashaka Shah, Amy Tai, Souvik Banerjee, Vijay Chidambaram, Dahlia Malkhi, and Michael Wei. "Rainblock: Faster Transaction Processing in Public Blockchains" arXiv preprint arXiv:1909.11590 (2019).'
 ---
 
 Public blockchains like Ethereum use Merkle trees to verify transactions received from untrusted servers before applying them to
@@ -34,3 +34,5 @@ Sharded Merkle Tree (DSM-Tree) to store system state. We evaluate RainBlock usin
 regions spread across three continents.
 
 [Download paper here](https://arxiv.org/pdf/1909.11590.pdf)
+
+Citation: 'Ponnapalli, Soujanya, Aashaka Shah, Amy Tai, Souvik Banerjee, Vijay Chidambaram, Dahlia Malkhi, and Michael Wei. "Rainblock: Faster Transaction Processing in Public Blockchains" arXiv preprint arXiv:1909.11590 (2019).'
