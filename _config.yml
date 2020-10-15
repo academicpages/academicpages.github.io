@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mack Qian's Cool Site"
+title                    : "Mack Qian"
 title_separator          : "-"
 name                     : &name "Mack Qian"
 description              : &description "RPI CS student graduating 2021"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mack Qian"
-  avatar           : "profile.png"
+  avatar           : "images/profilepic2.0.png"
   bio              : 
   location         : "US"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
