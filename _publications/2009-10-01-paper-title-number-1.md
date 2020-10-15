@@ -14,10 +14,10 @@ Sharded Merkle Tree (DSM-Tree) to store system state. We evaluate RainBlock usin
 (including smart contracts) and show that RainBlock processes
 20K transactions per second in a geo-distributed setting with four
 regions spread across three continents.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019-09-25
+venue: 'ArXiv 2019'
+paperurl: 'https://arxiv.org/pdf/1909.11590.pdf'
+citation: 'Ponnapalli, Soujanya, Aashaka Shah, Amy Tai, Souvik Banerjee, Vijay Chidambaram, Dahlia Malkhi, and Michael Wei. "Rainblock: Faster Transaction Processing in Public Blockchains" arXiv preprint arXiv:1909.11590 (2019).'
 ---
 
 Public blockchains like Ethereum use Merkle trees to verify transactions received from untrusted servers before applying them to
