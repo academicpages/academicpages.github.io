@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-***Short bio***
-
 I am a Ph.D. student at the [University of Texas at Austin](https://www.utexas.edu/), advised by [Prof. Vijay Chidambaram](https://www.cs.utexas.edu/~vijay/). I am a part of the [UT Systems and Storage Lab](http://utsaslab.cs.utexas.edu/) and the [Lab for Advanced Systems Research](https://www.cs.utexas.edu/lasr/).
 
 ***Research interests***
