@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mack Qian"
-  avatar           : "images/profilepic2.0.png"
+  avatar           : "images\profilepic2.0.png"
   bio              : 
   location         : "US"
   employer         :
