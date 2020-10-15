@@ -1,7 +1,7 @@
 ---
 title: "Rainblock: Faster Transaction Processing in Public Blockchains"
 collection: publications
-permalink: /publication/2009-10-01-paper-rainblock
+permalink: /publication/2019-09-25-rainblock
 excerpt: 'Public blockchains like Ethereum use Merkle trees to verify transactions received from untrusted servers before applying them to
 the blockchain. We empirically show that the low throughput of
 such blockchains is due to the I/O bottleneck associated with using
@@ -15,7 +15,7 @@ Sharded Merkle Tree (DSM-Tree) to store system state. We evaluate RainBlock usin
 20K transactions per second in a geo-distributed setting with four
 regions spread across three continents.'
 date: 2019-09-25
-venue: 'ArXiv 2019'
+venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/1909.11590.pdf'
 citation: 'Ponnapalli, Soujanya, Aashaka Shah, Amy Tai, Souvik Banerjee, Vijay Chidambaram, Dahlia Malkhi, and Michael Wei. "Rainblock: Faster Transaction Processing in Public Blockchains" arXiv preprint arXiv:1909.11590 (2019).'
 ---
@@ -35,4 +35,4 @@ regions spread across three continents.
 
 [Download paper here](https://arxiv.org/pdf/1909.11590.pdf)
 
-Recommended citation: Ponnapalli, Soujanya, Aashaka Shah, Amy Tai, Souvik Banerjee, Vijay Chidambaram, Dahlia Malkhi, and Michael Wei. "Rainblock: Faster Transaction Processing in Public Blockchains" arXiv preprint arXiv:1909.11590 (2019).
+Ponnapalli, Soujanya, Aashaka Shah, Amy Tai, Souvik Banerjee, Vijay Chidambaram, Dahlia Malkhi, and Michael Wei. "Rainblock: Faster Transaction Processing in Public Blockchains" arXiv preprint arXiv:1909.11590 (2019).
