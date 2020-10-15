@@ -28,4 +28,4 @@ Before grad school, I was an undergrad at the International Institute of Informa
 
 ****Life outside research****
 
-I am a trained Kuchipudi dancer, and I enjoy [dancing](https://www.youtube.com/channel/UC2-7wu9DUyT9yBDYJpBijXw) and painting. In my free time, I like to go out for a run, and recently, I started playing Tennis.
+I am trained in [Kuchipudi](https://en.wikipedia.org/wiki/Kuchipudi#:~:text=Kuchipudi%20is%20a%20dance%2Ddrama,major%20classical%20dances%20of%20India) (an Indian classical dance form), and I enjoy [dancing](https://www.youtube.com/channel/UC2-7wu9DUyT9yBDYJpBijXw) and painting. In my free time, I like to go out for a run, and recently, I started playing Tennis.
