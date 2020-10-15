@@ -83,9 +83,9 @@ author:
   name             : "Soujanya Ponnapalli"
   avatar           : "profile.png"
   bio              : "Ph.D. student at the University of Texas at Austin"
-  location         : "Location"
+  location         : "Austin, Texas"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=gNfo4L0AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
