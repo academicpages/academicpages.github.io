@@ -3,7 +3,7 @@ title: "CrashMonkey and ACE: Systematically Testing File-System Crash Consistenc
 collection: publications
 permalink: /publication/2019-04-20-crashmonkey
 excerpt: ''
-date: 2018-10-08
+date: 2019-04-20
 venue: 'ACM Transactions on Storage (TOS'18)'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3320275'
 citation: 'Mohan, Jayashree, Ashlie Martinez, Soujanya Ponnapalli, Pandian Raju, and Vijay Chidambaram. "CrashMonkey and ACE: Systematically Testing File-System Crash Consistency." ACM Transactions on Storage (TOS) 15, no. 2 (2019): 1-34.'
