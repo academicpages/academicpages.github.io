@@ -34,5 +34,3 @@ Sharded Merkle Tree (DSM-Tree) to store system state. We evaluate RainBlock usin
 regions spread across three continents.
 
 [Download paper here](https://arxiv.org/pdf/1909.11590.pdf)
-
-Ponnapalli, Soujanya, Aashaka Shah, Amy Tai, Souvik Banerjee, Vijay Chidambaram, Dahlia Malkhi, and Michael Wei. "Rainblock: Faster Transaction Processing in Public Blockchains" arXiv preprint arXiv:1909.11590 (2019).
