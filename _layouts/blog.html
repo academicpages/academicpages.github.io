@@ -1,0 +1,68 @@
+---
+layout: default-blog
+---
+
+{% include base_path %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+<!-- {% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %} -->
+
+<div id="main" role="main">
+  <!-- {% include sidebar.html %} -->
+
+  <!-- <article class="page" itemscope itemtype="http://schema.org/CreativeWork"> -->
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        by <span itemprop="name">{{ site.author.name }}</span>
+      </span>
+
+
+
+    </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+      </footer>
+
+  <!-- <div class="page-navigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url | relative_url}}">&larr; {{page.previous.title}}</a>
+    {% endif %}
+
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url | relative_url}}">{{page.next.title}} &rarr;</a>
+    {% endif %}
+  </div> -->
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+      {% include post_pagination.html %}
+</article>
+
+
+
+</div>

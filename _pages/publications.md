@@ -19,10 +19,3 @@ The full list of my publications can be found on [Google Scholar](https://schola
 
 Under construction.
 
-
-<!-- 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
