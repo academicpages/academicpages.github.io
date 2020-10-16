@@ -66,6 +66,8 @@ Select Conference Presentations
 
 * <b>Cheng, Y. </b>, Chrastil, E.R. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020.
 
+* Downs, M., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in and Beyond the U.S. LTER Network, Ecological Society of America Annual Meeting, Virtual. Aug., 2020.
+
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Interdepartmental Neuroscience Program (INP) recruitment session, Irvine. Jan., 2020.
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Psychonomic Society Annual Meeting, Montreal, Canada. Nov., 2019.
