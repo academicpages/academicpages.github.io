@@ -19,7 +19,7 @@ My research interests include modeling techniques and algorithms on mixed-intege
 
 ---
 # Education
-- Apr 2019--present: a Ph.D. candidate, School of Engineering
+- Apr 2019--present: a PhD candidate, School of Engineering
 Department of Industrial Engineering and Economics, Tokyo Institute of Technology
 - Apr 2013--Mar 2015: Master of Engineering, Department of Industrial Engineering and Management, Graduate School of Decision Science and Technology, Tokyo Institute of Technology
 - Apr 2009--Mar 2013: Bachelor of Engineering, Department of Industrial and Systems Engineering, Faculty of Engineering, Tokyo Institute of Technology
@@ -36,7 +36,7 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 1. Tomokaze Shiratori, Ken Kobayashi, and Yuichi Takano: Prediction of hierarchical time series using structured regularization and its application to artificial neural networks. arXiv preprint, arXiv:2007.15159 (2020).
 
 
-## Refreed Journals and Proceedings
+## Refereed Journal Papers and Conference Proceedings
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi and Hiroki Arimura: DACE: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization, Proceedings of the 29th International Joint Conference on Artificial Intelligence, 29 (2020) 2855--2862.<br>
  **Acceptance rate: 592/4717 = 12.6%**.
 1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of B'ezier Simplex Fitting, Proceedings of the 34th AAAI Conference on Artificial Intelligence, 34 (2020) 2416--2424.<br>
@@ -63,10 +63,10 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 # Presentations
 
 ## International Conferences
-1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of B'ezier Simplex Fitting, The 34th AAAI Conference on Artificial Intelligence (AAAI-20), New York Hilton Midtown, Feburuary, 2020.
-1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  The 2019 INFORMS Annual Meeting, Washington Convention Center, October, 2019.
-1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  International Conference on Nonlinear Analysis and Convex Analysis--International Conference on Optimization: Techniques and Applications (NACA-ICOTA2019), Future University Hakodate, August, 2019.
-1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai, and Masashi Sugiyama:     B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI-19), Hilton Hawaiian Village Waikiki Beach Resort, February, 2019.   
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of B'ezier Simplex Fitting, The 34th AAAI Conference on Artificial Intelligence (AAAI-20), New York Hilton Midtown, February 2020.
+1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems, 2019 INFORMS Annual Meeting, Washington Convention Center, October 2019.
+1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  International Conference on Nonlinear Analysis and Convex Analysis--International Conference on Optimization: Techniques and Applications (NACA-ICOTA2019), Future University Hakodate, August 2019.
+1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai, and Masashi Sugiyama:     B'ezier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI-19), Hilton Hawaiian Village Waikiki Beach Resort, February 2019.   
 
 ## Domestic Conferences
 1. 小林健, 高野祐一:  混合整数半正定値最適化問題に対する分枝切除法と機械学習への応用,  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
