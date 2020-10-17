@@ -48,3 +48,60 @@ We make this implicit assumption from now onwards.
 
 ### Indistinguishability 
 
+**Definition**. Two variables $y$ and $y'$ taking values in $\mathcal{Y}$ are called $(\epsilon, \delta)$*indistinguishable* if
+for all event $T \subset \mathcal{Y}$:
+
+$$\begin{aligned}
+\rm{Pr}[y \in T] \le e^\epsilon \rm{Pr}[x'\in T]  + \delta, \\
+\rm{Pr}[y'\in T] \le e^\epsilon \rm{Pr}[y \in T] + \delta.
+\end{aligned}$$
+
+A similar definition using the probability measures $p(x)$ and $q(x)$ is as [follows](https://ypei.me/posts/2019-03-13-a-tail-of-two-densities.html).
+
+**Definition**. Two probability measures $p$ and $q$ on
+the same space are called $(\epsilon, \delta)$*-ind(istinguishable)* if
+for all measureable sets $S$:
+
+$$\begin{aligned}
+p(S) \le e^\epsilon q(S) + \delta, \qquad  \\
+q(S) \le e^\epsilon p(S) + \delta. \qquad 
+\end{aligned}$$
+
+ 
+We have the following immediately.
+
+**Claim 0.** $M$ is $(\epsilon, \delta)$-dp (resp.
+$\epsilon$-dp) iff $M(x)$ and $M(x')$ are $(\epsilon, \delta)$-ind
+(resp. $\epsilon$-ind) for all $x \sim x'$. 
+
+The divergence variable is useful in many occasions and is defined as follows.
+
+**Definition (Divergence
+Variable)**. Let $p$ and $q$ be two probability measures. Let $\xi$ be a
+random variable distributed according to $p$, we define a random
+variable $L(p || q)$ by
+
+$$L(p || q) := \log {p(\xi) \over q(\xi)},$$
+
+and call it the *divergence variable* of $(p, q)$.
+
+**Claim 1**. If
+
+$$\begin{aligned}
+\mathbb P(L(p || q) \le \epsilon) &\ge 1 - \delta,\\
+\mathbb P(L(q || p) \le \epsilon) &\ge 1 - \delta
+\end{aligned}$$
+
+then $p$ and $q$ are $(\epsilon, \delta)$-ind.
+
+**Proof**. 
+Let $A := \{y \in Y: \log {p(y) \over q(y)} > \epsilon\}$, then by
+the above condition, we have
+
+$$p(A) < \delta.$$
+
+So
+
+$$p(S) = p(S \cap A) + p(S \setminus A) \le \delta + e^\epsilon q(S \setminus A) \le \delta + e^\epsilon q(S).$$
+
+$\square$
