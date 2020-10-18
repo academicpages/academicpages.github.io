@@ -43,7 +43,7 @@ staticman:
     email                : "md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : "date"ttps://twitter.ttps://twitter.com/com/
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/faziletgokbudak"
+  twitter          : #"faziletgokbudak"
   vine             :
   weibo            :
   xing             :
