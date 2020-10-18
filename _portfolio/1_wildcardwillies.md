@@ -1,6 +1,6 @@
 ---
 title: Wildcard Willies\*
-excerpt: "A 'guess the price' fan game developed in Kotlin within 48h for MiniBeansJam3 in 2019. It's based on the concept of 'Verflixxte Klixx' and 'Pfiffige Ziffern', two super successfull show formats on RocketbeansTV.<br/><br/><img src='/images/ww_600800_text.png' width='350px'><br/> "
+excerpt: "A 'guess the price' fan game developed in Kotlin within 48h for MiniBeansJam3 in 2019. It's based on the concept of 'Verflixxte Klixx' and 'Pfiffige Ziffern', two super successful show formats on RocketbeansTV.<br/><br/><img src='/images/ww_600800_text.png' width='350px'><br/> "
 collection: gamedev
 ---
 
