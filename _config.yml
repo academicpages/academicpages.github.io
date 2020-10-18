@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Fazilet Gokbudak"
   avatar           : "profile.png"
-  bio              : "Freelance Software Engineer"
-  location         : "Istanbul, Turkey"
+  bio              : "PhD Student at University of Cambridge"
+  location         : "Cambridge, United Kingdom"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tuSP_hoAAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Fazilet_Gokbudak"
+  researchgate     : #"https://www.researchgate.net/profile/Fazilet_Gokbudak"
   uri              :
   bitbucket        :
   codepen          :
