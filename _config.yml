@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Soham Dan"
-  avatar           : "img1.jpeg" #"20200826_112826.jpg"
+  avatar           : "20200826_112826.jpg" #"img1.jpeg" #"20200826_112826.jpg"
   bio              : "Ph.D. student, University of Pennsylvania"
   location         : "Philadelphia, U.S."
   employer         :
