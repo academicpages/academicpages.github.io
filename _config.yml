@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Valentyn Melnychuk"
 title_separator          : "-"
 name                     : &name "Valentyn Melnychuk"
-description              : &description "Research assistant · Data Science Master Student"
+description              : &description "Research assistant · Data Science Master Student at LMU Munich"
 url                      : https://valentyn1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Valentyn1997/valentyn1997.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Valentyn Melnychuk"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  location         : "Munich, Germany"
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=EMExrOMAAAAJ&hl=en"
+  email            : ".melnychuk@campus.lmu.de"
+  researchgate     : "https://www.researchgate.net/profile/Valentyn_Melnychuk"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "valentyn1997"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/valentyn-melnychuk/"
+  orcid            : "https://orcid.org/0000-0002-2401-6803"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
