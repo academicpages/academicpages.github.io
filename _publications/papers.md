@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Google Scholar](https://scholar.google.com/citations?user=nOsmu8UAAAAJ&hl=en&oi=ao)
+[[Google Scholar](https://scholar.google.com/citations?user=nOsmu8UAAAAJ&hl=en&oi=ao)]
 
 ### 2020
 
