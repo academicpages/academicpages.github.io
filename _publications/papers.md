@@ -1,3 +1,4 @@
 ---
 ---
 -   **Jingbo Shang**, Tianhang Sun, Jiaming Shen, Xingbang Liu, Anja Gruenheid, Flip Korn, Adam Lelkes, Cong Yu, Jiawei Han, "[Investigating Rumor News Using Agreement-Aware Search](https://arxiv.org/abs/1802.07398)", in Proc. of 2018 ACM Int. Conf. on Information and Knowledge Management (CIKM'18), Turin, Italy, Oct. 2018. [[code](https://github.com/shangjingbo1226/Maester)]
+-   **Jingbo Shang**, Tianhang Sun, Jiaming Shen, Xingbang Liu, Anja Gruenheid, Flip Korn, Adam Lelkes, Cong Yu, Jiawei Han, "[Investigating Rumor News Using Agreement-Aware Search](https://arxiv.org/abs/1802.07398)", in Proc. of 2018 ACM Int. Conf. on Information and Knowledge Management (CIKM'18), Turin, Italy, Oct. 2018. [[code](https://github.com/shangjingbo1226/Maester)]
