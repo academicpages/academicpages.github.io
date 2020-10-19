@@ -6,15 +6,8 @@ excerpt: 'Obtaining labels for medical (image) data requires scarce and expensiv
 date: 2020-01-29
 venue: 'ArXiv preprint'
 paperurl: 'https://arxiv.org/abs/2001.10883'
-citation: '@misc{davletshina2020unsupervised,
-      title={Unsupervised Anomaly Detection for X-Ray Images}, 
-      author={Diana Davletshina and Valentyn Melnychuk and Viet Tran and Hitansh Singla and Max Berrendorf and Evgeniy Faerman and Michael Fromm and Matthias Schubert},
-      year={2020},
-      eprint={2001.10883},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
-}'
 ---
+
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
