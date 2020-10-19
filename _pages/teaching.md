@@ -121,3 +121,11 @@ You can download the [Jean et al.'s 2016 artcile slides here](https://yongjunzha
 #### Basics on Tensorflow and Keras in Python
 
 You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/Lab8.ipynb).
+
+
+### Week 9
+
+#### Mini-lecture this week with lab tutorial on GCP:
+
+You can download the [Slides here](https://yongjunzhang.com/files/tutorial/Lecture9.pdf). 
+
