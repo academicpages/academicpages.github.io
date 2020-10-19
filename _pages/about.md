@@ -42,7 +42,7 @@ Scientific philosophy
 
 * The opportunity to collect observational, empirical, and ethnographic data from culturally diverse, subsistence-based populations is rapidly diminishing and should therefore be a top priority of the social sciences. 
 
-* Anthropologists are uniquely situated to be meaningful allies as rural and indigenous communities navigate their changing worlds. 
+* Anthropologists are uniquely situated to be meaningful allies as rural, minority ethnic populations navigate their changing worlds.
 
 * Field methods can be informed by comparative results and evolutionary scientists should draw on broad phylogenetic perspectives, across cultures and species. The ethnographic record is an indispensable tool for testing predictions and generating theory on the diversity and universality of humanity.
 
