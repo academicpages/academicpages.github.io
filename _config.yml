@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Valentyn Melnychuk"
 title_separator          : "-"
 name                     : &name "Valentyn Melnychuk"
-description              : &description "Research assistant · Data Science Master Student at LMU Munich"
+description              : &description "Research assistant | Data Science Master Student at LMU Munich"
 url                      : https://valentyn1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Valentyn1997/valentyn1997.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Valentyn Melnychuk"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research assistant | Data Science Master Student at LMU Munich"
   location         : "Munich, Germany"
   employer         : 
   pubmed           : 
