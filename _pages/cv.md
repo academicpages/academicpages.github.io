@@ -18,21 +18,21 @@ Education
 
 Research experience
 ======
-* Research Student, Volunteer: <br/>Carnegie Mellon University (Jan. 2019 - Present)
+* Research Student, Volunteer: <br/>Carnegie Mellon University, Pittsburgh  (Jan. 2019 - Present)
   * Collected and extracted information from research publications (PDF files).
   * Visualized and analyzed a source code of scientific papers on Github.
 
-* Visiting Research Student: <br/>King Abdullah University of Science and Technology (Jan. 2019 - July 2019)
+* Visiting Research Student: <br/>King Abdullah University of Science and Technology, Saudi Arabia (Jan. 2019 - July 2019)
   * Contributed and developed Delve- a web-based dataset retrieval and document analysis system.
   * Visualized dataset and document citation relationship and enables users to analyze a scientific document by uploading its full PDF.
   * Implemented machine learning and data mining techniques on the analysis of document text, citation and co-author graphs.
 
-* Research Student: University of Victoria (Jan. 2016 - Aug. 2018)
+* Research Student: <br/>University of Victoria, Victoria, B.C.  (Jan. 2016 - Aug. 2018)
   * Implemeted Machine Learning algorithms on predicting the programming language of questions on Stack Overflow
   * Mined Stack Overflow question posts to determine knowledge related to energy consumption.
   * Cleaned and pre-processed raw dataset and transformed into understandable format.
 
-* Undergraduate Research Student: University of Hail (Nov. 2012 - May 2013)
+* Undergraduate Research Student: <br/>University of Hail, Saudi Arabia (Nov. 2012 - May 2013)
   * Analyzed keystroke dynamics dataset for user identification using Machine Learning algorithms.
   * Collected a new Arabic dataset from 21 users and compared the results with Italian Language.
 
@@ -40,14 +40,14 @@ Research experience
 
 Work experience
 ======
-* Software Developer: <br/>Advanced Electronics Company (Jan. 2020 - Present)
+* Software Developer: <br/>Advanced Electronics Company, Saudi Arabia (Jan. 2020 - Present)
   * Implemented user interface using MVC, JQuery, CSS, Bootstrap and HTML and designed the UI/UX.
   * Maintained and developed server-side applications as well as created a new feature.
   * Worked with other responsibilities such as API integration, deployment and web server technologies.
 
 Teaching experience
 ======
-* Teaching Assistant: <br/>University of Victoria (Sep. 2017 - April 2018)
+* Teaching Assistant: <br/>University of Victoria, Victoria, B.C.  (Sep. 2017 - April 2018)
   * Managed the first-year lab for Fundamentals of Programming Languages I and II.
   * Provided individual assistance to develop students’ programming skills through regular feedback.
 
