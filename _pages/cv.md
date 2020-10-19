@@ -18,8 +18,9 @@ Education
 
 Research experience
 ======
-* Research Student, Volunteer: Carnegie Mellon University (Jan. 2019 - July 2019)
-  * Collected and extracuted information from research publications (PDF files).
+* Research Student, Volunteer:
+ Carnegie Mellon University (Jan. 2019 - July 2019)
+  * Collected and extracted information from research publications (PDF files).
   * Visualized and analyzed a source code of scientific papers on Github.
 
 * Visiting Research Student: King Abdullah University of Science and Technology (Jan. 2019 - July 2019)
@@ -29,11 +30,11 @@ Research experience
 
 * Research Student: University of Victoria (Jan. 2016 - Aug. 2018)
   * Implemeted Machine Learning algorithms on predicting the programming language of questions on Stack Overflow
-  * Mined Stack Overflow question posts to discover knowledge related to energy consumption.
-  * Cleaned and preprocessed raw dataset and transformated into understandable format.
+  * Mined Stack Overflow question posts to determine knowledge related to energy consumption.
+  * Cleaned and pre-processed raw dataset and transformed into understandable format.
 
 * Undergraduate Research Student: University of Hail (Nov. 2012 - May 2013)
-  * Implemeted Machine Learning algorithms on keystroke dynamics dataset for user identification.
+  * Analyzed keystroke dynamics dataset for user identification using Machine Learning algorithms.
   * Collected a new Arabic dataset from 21 users and compared the results with Italian Language.
 
 
@@ -41,15 +42,15 @@ Research experience
 Work experience
 ======
 * Software Developer: Advanced Electronics Company (Jan. 2020 - Present)
-  * Implemeted user interface using MVC, JQuery, CSS, Bootstrap and HTML and designed the UI/UX.
+  * Implemented user interface using MVC, JQuery, CSS, Bootstrap and HTML and designed the UI/UX.
   * Maintained and developed server-side applications as well as created a new feature.
   * Worked with other responsibilities such as API integration, deployment and web server technologies.
 
 Teaching experience
 ======
 * Teaching Assistant: University of Victoria (Sep. 2017 - April 2018)
-  * Teached students the Fundamentals of Programming Languages I and II on the laboratory.
-  * Improved students programming skills by providing feedback based on weekly assignments.
+  * Managed the first-year lab for Fundamentals of Programming Languages I and II.
+  * Provided individual assistance to develop students’ programming skills through regular feedback.
 
 
 
