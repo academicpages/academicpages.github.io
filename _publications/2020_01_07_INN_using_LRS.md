@@ -14,3 +14,5 @@ In this paper, we explore using linear rational splines as an invertible transfo
 [[arXiv]](https://arxiv.org/abs/2001.05168)
 <a id="raw-url" href="https://raw.githubusercontent.com/hmdolatabadi/hmdolatabadi.github.io/master/files/bibtex/HMDolatabadi2020LRS.bib">[bibtex]</a>
 [[code]](https://github.com/hmdolatabadi/LRS_NF)
+[[blog-post]](https://hmdolatabadi.github.io/posts/2020/10/lrs/)
+[[poster]](https://hmdolatabadi.github.io/files/publications/2020_Linear_Rational_Splines/Hadi_M_Dolatabadi_AISTATS_Poster.pdf)
