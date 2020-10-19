@@ -18,7 +18,7 @@ Education
 
 Research experience
 ======
-* Research Student, Volunteer: \Carnegie Mellon University (Jan. 2019 - July 2019)
+* Research Student, Volunteer: <br/>Carnegie Mellon University (Jan. 2019 - July 2019)
   * Collected and extracted information from research publications (PDF files).
   * Visualized and analyzed a source code of scientific papers on Github.
 
