@@ -22,7 +22,7 @@ Research experience
   * Collected and extracted information from research publications (PDF files).
   * Visualized and analyzed a source code of scientific papers on Github.
 
-* Visiting Research Student: King Abdullah University of Science and Technology (Jan. 2019 - July 2019)
+* Visiting Research Student: <br/>King Abdullah University of Science and Technology (Jan. 2019 - July 2019)
   * Contributed and developed Delve- a web-based dataset retrieval and document analysis system.
   * Visualized dataset and document citation relationship and enables users to analyze a scientific document by uploading its full PDF.
   * Implemented machine learning and data mining techniques on the analysis of document text, citation and co-author graphs.
@@ -40,14 +40,14 @@ Research experience
 
 Work experience
 ======
-* Software Developer: Advanced Electronics Company (Jan. 2020 - Present)
+* Software Developer: <br/>Advanced Electronics Company (Jan. 2020 - Present)
   * Implemented user interface using MVC, JQuery, CSS, Bootstrap and HTML and designed the UI/UX.
   * Maintained and developed server-side applications as well as created a new feature.
   * Worked with other responsibilities such as API integration, deployment and web server technologies.
 
 Teaching experience
 ======
-* Teaching Assistant: University of Victoria (Sep. 2017 - April 2018)
+* Teaching Assistant: <br/>University of Victoria (Sep. 2017 - April 2018)
   * Managed the first-year lab for Fundamentals of Programming Languages I and II.
   * Provided individual assistance to develop students’ programming skills through regular feedback.
 
