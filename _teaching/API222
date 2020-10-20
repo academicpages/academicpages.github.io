@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate Level Course"
 venue: "Harvard Kennedy School"
 date: Spring 2019, Fall 2020
+permalink: /teaching/API222
 ---
 * **Lead weekly coding session to teach 50+ masters students R**
 * **Explain machine learning techniques to students without statistics or computer science backgrounds**
