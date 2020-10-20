@@ -62,7 +62,7 @@ author:
   name             : "Amy Wickett"
   avatar           : "profile.png"
   bio              : "PhD Student at Harvard, Studing Discrimination, Labor Economics & Data Science"
-  location         : ""
+  location         : #""
   employer         :
   pubmed           : 
   googlescholar    : ""
@@ -75,14 +75,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "awickett"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
