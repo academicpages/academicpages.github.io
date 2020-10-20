@@ -10,7 +10,7 @@ Nothing in biology makes sense except in light of evolution. __--Theodosius Dobz
 
 Given the broad array of questions I have tackled and continue to pursue, as well as the synthetic nature of the research fields explored in my research program, I combine both theory and novel methods to generate new ideas about evolutionary ecology and to provide solid evidence for classical theory.
 
-## Macroecology and Macroevolution
+### Macroecology and Macroevolution
 
 One of the major challenges in biology is to understand the processes that lead to the origin and maintenance of species diversity, and in turn, that determine the observed patterns of biological diversity at different spatial and temporal scales. My research in this field seeks to understand the processes governing those patterns. Particularly, I am interested in unraveling complex patterns of biodiversity and in evaluating how macroevolutionary processes, as well as current and future environmental conditions, determine large-scale patterns of biodiversity and species co-occurrence within ecological communities.
 
