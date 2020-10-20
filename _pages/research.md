@@ -1,6 +1,11 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
+title: "Research"
+excerpt: "Research"
+permalink: /research/
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
 modified: 2016-06-06
 ---
 
