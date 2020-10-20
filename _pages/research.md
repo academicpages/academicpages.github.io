@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 If we knew what we were doing, it wouldn’t be called research. __--Albert Einstein__
+
 Nothing in biology makes sense except in light of evolution. __--Theodosius Dobzhansky__
 
 Given the broad array of questions I have tackled and continue to pursue, as well as the synthetic nature of the research fields explored in my research program, I combine both theory and novel methods to generate new ideas about evolutionary ecology and to provide solid evidence for classical theory.
