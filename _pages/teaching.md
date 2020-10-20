@@ -128,4 +128,4 @@ You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/L
 #### Mini-lecture this week with lab tutorial on GCP:
 
 You can download the [Slides here](https://yongjunzhang.com/files/tutorial/Lecture9.pdf). 
-
+You can download the [python script for BigQuery demo here](https://yongjunzhang.com/files/tutorial/Lab9.py). 
