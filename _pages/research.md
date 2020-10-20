@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 redirect_from: 
   - /research/
-  - /research.html
-modified: 2016-06-06
+  - /rhttps://jesusnpl.weebly.com/research.html
 ---
 
 {% include base_path %}
