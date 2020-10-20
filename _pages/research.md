@@ -3,9 +3,6 @@ title: "Research"
 excerpt: "Research"
 permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /rhttps://jesusnpl.weebly.com/research.html
 ---
 
 {% include base_path %}
