@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+_(under construction)_
+
 
 ## Privacy Policy
 
