@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "API 222: Big Data and Machine Learning Analytics "
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate Level Course"
+venue: "Harvard Kennedy School"
+date: Spring 2019, Fall 2020
 ---
+* **Lead weekly coding session to teach 50+ masters students R**
+* **Explain machine learning techniques to students without statistics or computer science backgrounds**
+* **Create curriciulum and advise on how to adopt machine learning skills to domain specific applications**
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Topics include: Linear regression, KNN, LDA, QDA, LASSO, Ridge, PCR, PLS, SVMs, Splines, GAMs, Decision Trees, Random Forest and Boosting, Reinforcement Learning, Neural Networks, and Hierarchical and K-means Clustering    
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
