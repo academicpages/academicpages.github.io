@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=iCRGRz0AAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 Models are tools to understand the real world and...they can sharpen our intuition about ecological mechanisms. Even the simplest model, which may match no living system, can be useful. --__William Murdoch__
