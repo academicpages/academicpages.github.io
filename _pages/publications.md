@@ -24,7 +24,7 @@ __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. 2020. [Using remote sensing for mod
 
 Cavender-Bares, J., A. Schweiger, __J.N. Pinto-Ledezma__ & J.E. Meireles. 2020. [Applying remote sensing to biodiversity science](https://doi.org/10.1007/978-3-030-33157-3_2). In Cavender-Bares, J., J. Gamon & P. Townsend (Eds.) Remote Sensing of Plant Biodiversity. _Springer Remote Sensing/Photogrammetry Series_.
 
-Villalobos, F., J.N. Pinto-Ledezma & J.A.F. Diniz-Filho. 2020. [Evolutionary macroecology and the geographical patterns of Neotropical diversification](https://doi.org/10.1007/978-3-030-31167-4_5). In Rull, V. & A.C. Carnaval (Eds.) Neotropical diversification: patterns and processes. _Springer Nature_.
+Villalobos, F., __J.N. Pinto-Ledezma__ & J.A.F. Diniz-Filho. 2020. [Evolutionary macroecology and the geographical patterns of Neotropical diversification](https://doi.org/10.1007/978-3-030-31167-4_5). In Rull, V. & A.C. Carnaval (Eds.) Neotropical diversification: patterns and processes. _Springer Nature_.
 
 ### 2018 - 2019
 __Pinto-Ledezma, J.N.__, A.E. Jahn, V.R. Cueto, J.A.F. Diniz-Filho & F. Villalobos. 2019. [Corrigendum for Pinto-Ledezma et al. (2019)]( https://doi.org/10.1086/700696). _The American Naturalist, 193(6): 897_.
