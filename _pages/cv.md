@@ -5,6 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+published: true
+share: false
+image: 
+  feature: curriculum2.jpg
 ---
 
 {% include base_path %}
@@ -14,8 +18,6 @@ redirect_from:
   font-size: 12pt;
 }
 </style>
-
-![cv-logo](jesusnpl.github.io/images/curriculum2.png)
 
 ### Education
 * B.S. Biology, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
