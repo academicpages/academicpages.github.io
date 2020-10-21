@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<style type="text/css">
+  body{
+  font-size: 11pt;
+}
+</style>
 
 ### Education
 ======
