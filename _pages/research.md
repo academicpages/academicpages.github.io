@@ -10,7 +10,7 @@ author_profile: true
 }
 </style>
 
-![research](jesusnpl.github.io/images/research.jpg)
+![research-logo](jesusnpl.github.io/images/research2.jpg)
 
 If we knew what we were doing, it wouldn’t be called research. __--Albert Einstein__
 
