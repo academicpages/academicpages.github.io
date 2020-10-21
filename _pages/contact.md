@@ -13,9 +13,7 @@ redirect_from:
 }
 </style>
 
-<center>
 ![contacto2](jesusnpl.github.io/images/contacto2.png)
-</center>
 
 ### Address:  
 Dr. Jesús N. Pinto-Ledezma   
