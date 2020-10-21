@@ -3,6 +3,10 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+published: true
+share: false
+image: 
+  feature: research2.jpg
 ---
 <style type="text/css">
   body{
