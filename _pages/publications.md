@@ -26,7 +26,7 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 ### 2020 -
 __Pinto-Ledezma, J.N.__, F. Villalobos, P.R. Reich, J.A. Catford, D.L. Larkin & J. Cavender-Bares. 2020. [Testing Darwin's naturalization conundrum based on taxonomic, phylogenetic and functional dimensions of vascular plants](https://doi.org/10.1002/ecm.1420). _Ecological Monographs, ECM1420_.
 
-Cavender-Bares, J., C. Fontes & __J.N. Pinto-Ledezma. 2020__. [Open questions in understanding the adaptive significance of plant functional trait variation within a single lineage](https://doi.org/10.1111/nph.16652). _New Phytologist, 227(3): 659-663_.
+Cavender-Bares, J., C. Fontes & __J.N. Pinto-Ledezma__. 2020. [Open questions in understanding the adaptive significance of plant functional trait variation within a single lineage](https://doi.org/10.1111/nph.16652). _New Phytologist, 227(3): 659-663_.
 
 __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. 2020. [Using remote sensing for modeling and monitoring species distributions](https://doi.org/10.1007/978-3-030-33157-3_9). In Cavender-Bares, J., J. Gamon & P. Townsend (Eds.) Remote Sensing of Plant Biodiversity. _Springer Remote Sensing/Photogrammetry Series_.
 
