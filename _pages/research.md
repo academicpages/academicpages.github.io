@@ -14,8 +14,6 @@ image:
 }
 </style>
 
-![research-logo](jesusnpl.github.io/images/research2.png)
-
 If we knew what we were doing, it wouldn’t be called research. __--Albert Einstein__
 
 Nothing in biology makes sense except in light of evolution. __--Theodosius Dobzhansky__
