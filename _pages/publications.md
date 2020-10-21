@@ -15,7 +15,7 @@ author_profile: true
 }
 </style>
 
-![publications-image](jesusnpl.github.io/images/publications2.jpg)
+![publications-image](jesusnpl.github.io/images/publications2.png)
 
 Models are tools to understand the real world and...they can sharpen our intuition about ecological mechanisms. Even the simplest model, which may match no living system, can be useful. __--William Murdoch__   
 
