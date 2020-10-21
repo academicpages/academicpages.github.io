@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Rahul Roy"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. Student<br>Operations<br>UNC Kenan-Flagler Business School"
+  bio              : "Ph.D. Student<br>Operations<br>UNC Kenan-Flagler"
   location         : "Chapel Hill, NC, USA"
   employer         :
-  pubmed           : "" # https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "" # http://yourfullgooglescholarurl.com"
+  pubmed           : # https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow
+  googlescholar    : # http://yourfullgooglescholarurl.com
   email            : "rahulroy@unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx
   lastfm           :
   linkedin         : "rroy09"
-  orcid            : "" #http://orcid.org/yourorcidurl"
+  orcid            : # http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # replacethistwitterhandle
   vine             :
   weibo            :
   xing             :
