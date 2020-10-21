@@ -11,8 +11,12 @@ redirect_from:
 <style type="text/css">
   body{
   font-size: 12pt;
-  text-align: justify
 }
+</style>
+
+<style>
+body {
+text-align: justify}
 </style>
 
 I am a Bolivian evolutionary ecologist interested in Macroecology and Macroevolution, Community and Theoretical Ecology, Landscape Ecology and Natural History. I am currently a Research Scientist at the Department of Ecology, Evolution & Behavior,  University of Minnesota. I am also an official and founder member of the Association for the advancement of the sciences of Santa Cruz and the Scientific research council of Santa Cruz for the Bolivian Academy of Sciences (Scientia Crucencis).
