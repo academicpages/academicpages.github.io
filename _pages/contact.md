@@ -7,6 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
+<style type="text/css">
+  body{
+  font-size: 11pt;
+}
+</style>
+
 ### Address:  
 Dr. Jesús N. Pinto-Ledezma   
 Department of Ecology, Evolution and Behavior  
