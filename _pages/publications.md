@@ -1,8 +1,10 @@
 ---
-layout: archive
+layout: page
 title: "Publications"
 permalink: /publications/
 author_profile: true
+published: true
+share: false
 image: 
   feature: publications2.jpg
 ---
