@@ -4,6 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<style type="text/css">
+  body{
+  font-size: 11pt;
+}
+</style>
 
 If we knew what we were doing, it wouldn’t be called research. __--Albert Einstein__
 
