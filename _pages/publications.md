@@ -3,19 +3,17 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+image: 
+  feature: jesusnpl.github.io/images/publications2.jpg
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=iCRGRz0AAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[Google Scholar profile](https://scholar.google.com/citations?user=iCRGRz0AAAAJ&hl=en)
 
 <style type="text/css">
   body{
   font-size: 12pt;
 }
 </style>
-
-![publications-image](jesusnpl.github.io/images/publications2.png)
 
 Models are tools to understand the real world and...they can sharpen our intuition about ecological mechanisms. Even the simplest model, which may match no living system, can be useful. __--William Murdoch__   
 
