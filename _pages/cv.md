@@ -19,6 +19,8 @@ image:
 }
 </style>
 
+[Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/files/JPL_CV_10-2020.pdf)
+
 ### Education
 * __B.S. Biology__, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
 * __M.S. Wildlife Management__, Universidad Nacional de Córdoba, Córdoba, Argentina, 2009
