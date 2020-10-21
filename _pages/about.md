@@ -10,7 +10,7 @@ redirect_from:
 
 <style type="text/css">
   body{
-  font-size: 10pt;
+  font-size: 11pt;
 }
 </style>
 
