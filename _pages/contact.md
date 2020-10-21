@@ -9,8 +9,8 @@ redirect_from:
 
 ### Address:  
 Dr. Jesús N. Pinto-Ledezma 
-Department of Ecology, Evolution & Behavior  
-College of Biological Sciences, University of Minnesota  
+Department of Ecology, Evolution & Behavior 
+College of Biological Sciences, University of Minnesota 
 Ecology Building, 1987 Upper Buford Cir, Falcon Heights, MN 55108
 
 ### E-mails: 
