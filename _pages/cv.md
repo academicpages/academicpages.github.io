@@ -13,7 +13,7 @@ Education
 ======
 * B.S. Biology, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
 * M.S. Wildlife Management, Universidad Nacional de Córdoba, Córdoba, Argentina, 2009
-* Ph.D. Ecology and Evolution, Universidade Federal de Goiás, 2017
+* Ph.D. Ecology and Evolution, Universidade Federal de Goiás, Brasil, 2017
 
 Appointments
 ======
