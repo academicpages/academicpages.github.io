@@ -5,6 +5,10 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+published: true
+share: false
+image: 
+  feature: contacto2.jpg
 ---
 
 <style type="text/css">
@@ -12,8 +16,6 @@ redirect_from:
   font-size: 12pt;
 }
 </style>
-
-![contact-logo](jesusnpl.github.io/images/contacto2.png)
 
 ### Address:  
 Dr. Jesús N. Pinto-Ledezma   
