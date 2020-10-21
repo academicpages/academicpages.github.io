@@ -15,7 +15,7 @@ redirect_from:
 }
 </style>
 
-![cv_image](jesusnpl.github.io/images/curriculum2.jpg)
+![cv-image](jesusnpl.github.io/images/curriculum2.jpg)
 
 ### Education
 * B.S. Biology, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
