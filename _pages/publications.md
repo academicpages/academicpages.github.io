@@ -102,7 +102,7 @@ Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. 
 
 Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. (Second revision). Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). Proceedings of the Royal Society: Biological Sciences. [Preprint](https://doi.org/10.1101/2020.06.17.157891)
 
-## Book and chapthers non peer reviewed
+## Book and chapters non peer reviewed
 Mostacedo, B., M. Toledo, D. Villarroel, __J.N. Pinto-Ledezma__, G. Carreño-Rocabado, B. Flores & Y. Uslar. 2014. Memorias del IV Congreso Boliviano de Ecología. 4-6 de junio 2014. Universidad Autónoma Gabriel Rene Moreno, Santa Cruz, Bolivia.
 
 Azurduy, H. & __J.N. Pinto-Ledezma. 2012__. El escenario ecológico y geográfico. 6-13 pp. En: Azurduy y Rivero (Eds.). Historia Natural de la Serranía Incahuasi. NHNNKM/Total.
