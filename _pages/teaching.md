@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching & Outreach"
 permalink: /teaching/
 author_profile: true
 published: true
@@ -33,3 +33,14 @@ __Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia__
 * __Introduction to statistics__. 3 intensive courses of 10 days(March 2012, 2013, 2014). Instructor. Department of Botany, Universidad Autónoma Gabriel René Moreno.   
 * __Species distribution modeling with R__. One intensive course of one day (June 2014). Instructor. IV congreso boliviano de Ecología, Santa Cruz de la Sierra, Bolivia.
 
+## Outreach
+Everything should be made simple as possible, but not simpler. __--Albert Einstein__
+
+__IUCN Red List reviewer__   
+Expert reviewer for the 2020 Red List of birds (eastern South America).   
+
+__Spanish reviewer__   
+Spanish-language reviewer for [The American Naturalist](https://amnat.org/home.html). The aim is helping The American Naturalist to expand the communications reach of the world-class science that nonnative english speakers produce.   
+
+__Market Science__   
+Market Science is a group of scientist from the University of Minnesota that aims to connect people with science.
