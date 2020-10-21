@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 image: 
-  feature: jesusnpl.github.io/images/publications2.jpg
+  feature: publications2.jpg
 ---
 
 [Google Scholar profile](https://scholar.google.com/citations?user=iCRGRz0AAAAJ&hl=en)
