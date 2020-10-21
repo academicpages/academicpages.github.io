@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-![site-logo](jesusnpl.github.io/images/about_me.jpg)
+![site-logo](jesusnpl.github.io/images/about_me2.jpg)
 
 I am a Bolivian evolutionary ecologist interested in Macroecology and Macroevolution, Community and Theoretical Ecology, Landscape Ecology and Natural History. I am currently a Research Scientist at the Department of Ecology, Evolution & Behavior,  University of Minnesota. I am also an official and founder member of the Association for the advancement of the sciences of Santa Cruz and the Scientific research council of Santa Cruz for the Bolivian Academy of Sciences (_Scientia Crucencis_).
 
