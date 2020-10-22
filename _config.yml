@@ -60,8 +60,8 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Amy Wickett"
-  avatar           : "profile.png"
-  bio              : "PhD Student at Harvard, Studing Discrimination, Labor Economics & Data Science"
+  avatar           : "Wickett.png"
+  bio              : "PhD Student at Harvard, Studying Discrimination, Labor Economics & Data Science"
   location         : #""
   employer         :
   pubmed           : 
@@ -163,9 +163,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # talks:
+  #  output: true
+   # permalink: /:collection/:path/
 
 
 # Defaults
