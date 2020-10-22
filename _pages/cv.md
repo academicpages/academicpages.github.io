@@ -28,12 +28,12 @@ Experience
   * Developed a suite of models (statistical models, scalable machine learning systems, and LSTMs) for scenario-based forecasting of energy consumption by EVs as part of the         Electric Nation trials
   * Evaluated and proposed different variants of LSTM Networks (Vanilla vs Stacked, Unidirectional vs Bidirectional, and Encoder-Decoder vs Vector-Output) across 3 distinct         clusters of EVs based on their battery ratings for single-step and multi-step scenario-based forecasting of energy consumption by EVs from electricity grids
  
-* Assistant Manager (Retail Operations) Executive (Retail Operations), Bharat Petroleum, India (2015-2017)
+* Assistant Manager (Retail Operations) \| Executive (Retail Operations), Bharat Petroleum, India (2015-2017)
   * Led supply chain strategy and planning in retail operations for the distribution of petroleum oil
   * Improved the supply chain lead time by 33% by persuading the central management to implement VTS in the entire transportation fleet for lead time optimization
   * Led BPCL’s Patna retail territory to highest pan-India sales in branded gasoline in 2015-16
  
-* Officer (Pipeline Operations) GET (Pipeline Operations), Bharat Petroleum, India (2015-2017)
+* Officer (Pipeline Operations) \| GET (Pipeline Operations), Bharat Petroleum, India (2015-2017)
   * Supervised supply chain strategy and planning in petroleum pipeline operations
   * Achieved nil operational loss time for Mathura pipeline section in 2014-15
                         
@@ -53,7 +53,7 @@ Skills
   * Deep Learning
   * Forecasting
   * Operations Research
-
+  
 Awards \| Honors
 ======
 * Research Scholar, Lancaster University Management School, UK (2018-2019)
@@ -63,6 +63,6 @@ Awards \| Honors
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications %}
+{% include archive-single-cv.html %}
+{% endfor %}</ul>
