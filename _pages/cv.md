@@ -14,12 +14,12 @@ Education
 * Ph.D. in Operations, UNC Kenan-Flagler Business School, US, 2020-2025 (Expected)
 * M.Sc. by Research in Innovation (Class - Distinction), Lancaster University Management School, UK, 2018-2020
 * M.Sc. in Business Analytics (Class - Distinction), Lancaster University Management School, UK, 2017-2018
-* B.Tech. in Electrical Engineering \| (GPA - 9.34/10), National Institute of Technology, Patna, India, 2009-2013
+* B.Tech. in Electrical Engineering (GPA - 9.34/10), National Institute of Technology, Patna, India, 2009-2013
 
 Experience
 ======
 * Data Scientist, BT, UK (2019-2020)
-  * Project Manager (Optimizing Customer Interactions} as part of Knowledge Transfer Partnership (KTP) program in collaboration with Innovate UK, University of Essex and BT
+  * Project Manager (*Optimizing Customer Interactions*) as part of Knowledge Transfer Partnership (KTP) program in collaboration with Innovate UK, University of Essex and BT
   * Explored and developed machine learning models that leveraged data across BT’s broadband channel to optimize interactions with customers
   * Increased BT’s revenue savings by an estimated 160% by developing and proposing a robust machine learning modeling framework for churn prediction of BT’s broadband consumers
   * Optimized feature space in churn model by 85% by proposing customizable feature selection using L1 regularization
@@ -39,7 +39,7 @@ Experience
                         
 Skills
 ======
-* Programming | Framework
+* Programming \| Framework
   * Python
   * R
   * SQL
@@ -54,7 +54,7 @@ Skills
   * Forecasting
   * Operations Research
 
-Awards | Honors
+Awards \| Honors
 ======
 * Research Scholar, Lancaster University Management School, UK (2018-2019)
 * Academic Excellence Scholar, Lancaster University Management School, UK (2017-2018)
