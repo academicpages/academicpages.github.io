@@ -2,7 +2,7 @@
 title: "Strategies for Pre-training Graph Neural Networks"
 collection: publications
 permalink: /publication/2019-05-29-strategies
-excerpt: "We investigate the effective use of pre-training strategies on graph datasets for molecular property prediction and protein function prediction.<center><img src='/images/method.pdf' height='200'></center>"
+excerpt: "We investigate the effective use of pre-training strategies on graph datasets for molecular property prediction and protein function prediction.<center><img src='/images/method.png' height='200'></center>"
 date: 2019-05-29
 venue: 'International Conference on Learning Representations'
 paperurl: 'https://openreview.net/forum?id=HJlWWJSFDH'
