@@ -22,9 +22,9 @@ Using Polk and Hillsborough County Voter Registration data and Police Stop data 
 
 
 
-[Jupyter Notebook of Analysis](https://github.com/awickett/APCOMP222/blob/master/APCOMP221_Final_redacted.ipynb/)
+[Jupyter Notebook of Analysis](https://github.com/awickett/APCOMP221/blob/master/APCOMP221_Final_redacted.ipynb/)
 
-[Write Up of Results](https://github.com/awickett/APCOMP222/blob/master/FinalAPI221.pdf)
+[Write Up of Results](https://github.com/awickett/APCOMP221/blob/master/FinalAPI221.pdf)
 
 ---
 
