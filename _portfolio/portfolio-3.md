@@ -1,6 +1,6 @@
 ---
 title: "Predicting Project Success"
-excerpt: "'This project uses text analysis to predict which government bids will be finished on time and under budget"
+excerpt: "This project uses text analysis to predict which government bids will be finished on time and under budget"
 collection: portfolio
 permalink: "/portfolio/projectsuccess"
 
