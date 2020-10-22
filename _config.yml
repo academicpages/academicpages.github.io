@@ -65,7 +65,7 @@ author:
   location         : #""
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
