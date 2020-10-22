@@ -1,6 +1,6 @@
 ---
-title: "Predicting Police Stops"
-excerpt: "Evaluate how police stop behavior differs by officer political party; suggest different privacy considerations to protect officer and civilian privacy "
+title: "Differential Police Stop Behaviors by Political Party"
+excerpt: "This project evaluates how police stop behavior differs by officer political party and suggests different privacy considerations to protect officer and civilian privacy "
 collection: portfolio
 permalink: "/portfolio/police"
 
