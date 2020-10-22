@@ -8,7 +8,7 @@ permalink: "/portfolio/workingpapers"
 
 ---
 
-### Colorism in Sentencing: 
+##Colorism in Sentencing: 
 
 ![Average Inmate Photo by Sentence Length](Photo_SentLength.png)
 
@@ -17,6 +17,6 @@ Abstract: Utilizing machine learning can help researchers leverage new forms of 
 
 
 
-### The Impact of Ideological Diversity on Educational Performance: A Pilot Study 
+##The Impact of Ideological Diversity on Educational Performance: A Pilot Study 
 with Jason Chin, Betsy Paluck, John-Henry Pezzuto, and Cecilia Rouse 
 

@@ -60,7 +60,7 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Amy Wickett"
-  avatar           : "Wickett.png"
+  avatar           : "Wickett.jpg"
   bio              : "PhD Student at Harvard, Studying Discrimination, Labor Economics & Data Science"
   location         : #""
   employer         :
@@ -81,7 +81,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/awickett/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
