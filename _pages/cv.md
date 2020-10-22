@@ -52,6 +52,8 @@ Publications
 
 Service and leadership
 ======
+* Organizer of the PIMS @ UBC [Math-Bio seminar](https://www.math.ubc.ca/Research/MathBio/seminarsMB.php).
+
 * Organizer of the BIRS workshop "Bridging Cellular and Tissue Dynamics from
 Normal Development to Cancer: Mathematical, Computational, and Experimental
 Approaches" (19w5080).
@@ -59,8 +61,10 @@ Approaches" (19w5080).
   * Details can be found on the [BIRS webpage](https://www.birs.ca/events/2019/5-day-workshops/19w5080).
   * Videos from the event can be found [here](https://www.birs.ca/events/2019/5-day-workshops/19w5080/videos).
 
-* Chairman of the "Developmental Biology" [SMB-subgroup](https://www.smb.org/subgroups/). We organize an annual
+* 2018-2020 Chairman of the "Cell and Developmental Biology" [SMB-subgroup](https://www.smb.org/subgroups/). We organize an annual
 minisymposium at the annual meeting of the Society of Mathematical Biology.
+  * Chair of the scientific committee and main-organizer for the four day CDEV
+  stream at [eSMB2020](https://smb2020.org/).
 
 * Organizer of the session ["Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour in Cells"](https://winter18.cms.math.ca/index.php/sessions/) at the Canadian Mathematical Society Winter Meeting (2018), Vancouver, Canada.
   * Co-organizer: Dr. Leah Edelstein-Keshet.
