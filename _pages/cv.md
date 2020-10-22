@@ -103,7 +103,7 @@ Computer skills
   * Administration of Linux (Gentoo, Fedora, Ubuntu, IpFire).
 
 
-Scholarships
+Funding & Scholarships
 =======
 
 * NSERC post-doctoral fellowship, 2018.
