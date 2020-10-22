@@ -2,6 +2,10 @@
 title: "Predicting Project Success"
 excerpt: "'This project uses text analysis to predict which government bids will be finished on time and under budget"
 collection: portfolio
+permalink: "/portfolio/projectsuccess"
+
+---
+
 ---
 
 In this exploration, we evaluate project bids from the NYC government to predict if the project will be finished on time and under budget.
