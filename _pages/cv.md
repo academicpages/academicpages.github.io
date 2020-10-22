@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D. (Operations), UNC Kenan-Flagler Business School, US, 2020-2025 (Expected)
-* M.Sc. by Research (Innovation) | Class - Distinction, Lancaster University Management School, UK, 2018-2020
-* M.Sc. (Business Analytics) | Class - Distinction, Lancaster University Management School, UK, 2017-2018
-* B.Tech. (Electrical Engineering) | GPA - 9.34/10, National Institute of Technology, Patna, India, 2009-2013
+* M.Sc. by Research (Innovation) \| Class - Distinction, Lancaster University Management School, UK, 2018-2020
+* M.Sc. (Business Analytics) \| Class - Distinction, Lancaster University Management School, UK, 2017-2018
+* B.Tech. (Electrical Engineering) \| GPA - 9.34/10, National Institute of Technology, Patna, India, 2009-2013
 
 Experience
 ======
