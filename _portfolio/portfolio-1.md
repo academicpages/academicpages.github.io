@@ -1,30 +1,22 @@
 ---
-title: "Predicting Police Stops"
-excerpt: "Evaluate how police stop behavior differs by officer political party; suggest different privacy considerations to protect officer and civilian privacy "
+title: "Current Working Papers"
+excerpt: "Current working papers investigate colorism in sentencing outcomes and the impact of diverse political opinions in classroom performance "
 collection: portfolio
-permalink: "/portfolio/police"
+permalink: "/portfolio/workingpapers"
 
 ---
 
-One of the most direct ways citizens and police officers interact is through police stops. Police stops may seem like a minor interaction but they can both impact citizens through fines and attitudes about policing.
-
-Using Polk and Hillsborough County Voter Registration data and Police Stop data from Hillsborough County, we are able to link police officers to information on political party. We find suggestive evidence that democratic officers are more likely to speed discount. We also evaluate the privacy issues with open police stop and document different levels of data censoring that would result from using k and l diversity. 
-
-
-#### Overall Distribution of Police Stops 
-
-![Distribution of Police Stops](Overall_Dist.png)
-
-
-#### Distribution of Police Stops by Driver/Officer Characteristics 
-
-![Distribution of Police Stops by Characteristics](Officer_Dist.png)
-
-
-
-[Jupyter Notebook of Analysis](https://github.com/awickett/APCOMP221/blob/master/APCOMP221_Final_redacted.ipynb/)
-
-[Write Up of Results](https://github.com/awickett/APCOMP221/blob/master/FinalAPI221.pdf)
-
 ---
+
+### Colorism in Sentencing: 
+
+![Average Inmate Photo by Sentence Length](Photo_SentLength.png)
+
+Abstract: Utilizing machine learning can help researchers leverage new forms of data, such as photos, to shed light on understudied questions in the social sciences. In this paper, I apply image processing techniques and transfer learning to detect if darker skinned individuals are sentenced to longer prison terms using data from Mississippi prisons. I find that for a one standard deviation increase in skin color, individual sentence length increases by approximately 445 days. Using FaceNet architecture, I create a model to predict the probability an individual is black using his or her prison photo. I find for a one standard deviation increase in probability of black, sentence length increases by approximately 200 days. Both results are largely driven by individuals in the latter part of the distribution of skin tone and probability of black. These results, while not causal, highlight the additional nuances that photo analysis can add to studies of disparate outcomes in the criminal justice system. Beyond criminal justice, this project highlights the potential for machine learning to add insights in the social sciences' study of bias in numerous fields including education, employment, and healthcare.
+
+
+
+
+### The Impact of Ideological Diversity on Educational Performance: A Pilot Study 
+with Jason Chin, Betsy Paluck, John-Henry Pezzuto, and Cecilia Rouse 
 

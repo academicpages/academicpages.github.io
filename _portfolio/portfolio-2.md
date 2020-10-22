@@ -1,22 +1,30 @@
 ---
-title: "Predicting Project Success"
-excerpt: "'This project uses text analysis to predict which government bids will be finished on time and under budget"
+title: "Predicting Police Stops"
+excerpt: "Evaluate how police stop behavior differs by officer political party; suggest different privacy considerations to protect officer and civilian privacy "
 collection: portfolio
-permalink: "/portfolio/projectsuccess"
+permalink: "/portfolio/police"
 
 ---
 
+One of the most direct ways citizens and police officers interact is through police stops. Police stops may seem like a minor interaction but they can both impact citizens through fines and attitudes about policing.
+
+Using Polk and Hillsborough County Voter Registration data and Police Stop data from Hillsborough County, we are able to link police officers to information on political party. We find suggestive evidence that democratic officers are more likely to speed discount. We also evaluate the privacy issues with open police stop and document different levels of data censoring that would result from using k and l diversity. 
+
+
+#### Overall Distribution of Police Stops 
+
+![Distribution of Police Stops](Overall_Dist.png)
+
+
+#### Distribution of Police Stops by Driver/Officer Characteristics 
+
+![Distribution of Police Stops by Characteristics](Officer_Dist.png)
+
+
+
+[Jupyter Notebook of Analysis](https://github.com/awickett/APCOMP221/blob/master/APCOMP221_Final_redacted.ipynb/)
+
+[Write Up of Results](https://github.com/awickett/APCOMP221/blob/master/FinalAPI221.pdf)
+
 ---
 
-In this exploration, we evaluate project bids from the NYC government to predict if the project will be finished on time and under budget.
-
-We focus on two primary questions:
-1. How to evaluate project success and what project features are most predictive of project success
-From the perspective of the NYC government, the ideal and most efficient outcome of a project is its completion within the original scope of the project, namely with respect to time and cost. We thus try to predict the percentage of budget and schedule change.
-
-2. With defined measures of project success in place, we next explore characteristics of projects that might be indicative of project success. Does project success depend on the magnitude of schedule budget, the magnitude of cost budget, the project location, the type of project, the agencies involved in the project, or an interaction among several project characteristics? 
-
-Our most successful mode uses Latent Dirichlet Allocation (LDA) to discover topics inherent in the corpus, classify the corpus according to the learned topics and use them as features for the regression model.  Below are sample wordclouds based on the LDA analysis. More details on the underlying data, cleaning process, all models ran, etc. can be found  [here](https://github.com/awickett/GovtProjects/blob/master/FinalProjectDraft_BaseModel_v3.ipynb)
-
-
-![Word Clouds](WordCloud.png)

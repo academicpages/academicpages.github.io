@@ -1,22 +1,22 @@
 ---
-title: "Current Working Papers"
-excerpt: "Current working papers investigate colorism in sentencing outcomes and the impact of diverse political opinions in classroom performance "
+title: "Predicting Project Success"
+excerpt: "'This project uses text analysis to predict which government bids will be finished on time and under budget"
 collection: portfolio
-permalink: "/portfolio/workingpapers"
+permalink: "/portfolio/projectsuccess"
 
 ---
 
 ---
 
-####Colorism in Sentencing: 
+In this exploration, we evaluate project bids from the NYC government to predict if the project will be finished on time and under budget.
 
-![Average Inmate Photo by Sentence Length](Photo_SentLength.png)
+We focus on two primary questions:
+1. How to evaluate project success and what project features are most predictive of project success
+From the perspective of the NYC government, the ideal and most efficient outcome of a project is its completion within the original scope of the project, namely with respect to time and cost. We thus try to predict the percentage of budget and schedule change.
 
-Abstract: Utilizing machine learning can help researchers leverage new forms of data, such as photos, to shed light on understudied questions in the social sciences. In this paper, I apply image processing techniques and transfer learning to detect if darker skinned individuals are sentenced to longer prison terms using data from Mississippi prisons. I find that for a one standard deviation increase in skin color, individual sentence length increases by approximately 445 days. Using FaceNet architecture, I create a model to predict the probability an individual is black using his or her prison photo. I find for a one standard deviation increase in probability of black, sentence length increases by approximately 200 days. Both results are largely driven by individuals in the latter part of the distribution of skin tone and probability of black. These results, while not causal, highlight the additional nuances that photo analysis can add to studies of disparate outcomes in the criminal justice system. Beyond criminal justice, this project highlights the potential for machine learning to add insights in the social sciences' study of bias in numerous fields including education, employment, and healthcare.
+2. With defined measures of project success in place, we next explore characteristics of projects that might be indicative of project success. Does project success depend on the magnitude of schedule budget, the magnitude of cost budget, the project location, the type of project, the agencies involved in the project, or an interaction among several project characteristics? 
+
+Our most successful mode uses Latent Dirichlet Allocation (LDA) to discover topics inherent in the corpus, classify the corpus according to the learned topics and use them as features for the regression model.  Below are sample wordclouds based on the LDA analysis. More details on the underlying data, cleaning process, all models ran, etc. can be found  [here](https://github.com/awickett/GovtProjects/blob/master/FinalProjectDraft_BaseModel_v3.ipynb)
 
 
-
-
-####The Impact of Ideological Diversity on Educational Performance: A Pilot Study 
-with Jason Chin, Betsy Paluck, John-Henry Pezzuto, and Cecilia Rouse 
-
+![Word Clouds](WordCloud.png)
