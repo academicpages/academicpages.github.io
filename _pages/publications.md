@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /wordpress/academic-papers/
 ---
 
 {% if author.googlescholar %}
