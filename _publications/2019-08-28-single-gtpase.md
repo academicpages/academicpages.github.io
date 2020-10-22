@@ -3,8 +3,8 @@ title: "Cell size, mechanical tension, and GTPase signaling in the Single Cell"
 collection: publications
 permalink: /publication/2019-08-28-single-gtpase
 date: 2019-08-28
-paperurl: 'https://arxiv.org/abs/1908.10840'
-venue: 'arXiv'
+paperurl: 'https://link.springer.com/article/10.1007/s11538-020-00702-5'
+citation: 'Buttenschön, A., Liu Y., Edelstein-Keshet, L. <i>Bull. Math. Bio.</i> (2020)'
 ---
 
 **Abstract:** Cell polarization requires redistribution of specific proteins to
@@ -28,4 +28,3 @@ polarization and motility in the model cell.
 
 
 [Download preprint here](https://arxiv.org/abs/1908.10840)
-
