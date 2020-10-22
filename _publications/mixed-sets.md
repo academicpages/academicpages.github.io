@@ -2,12 +2,13 @@
 title: "Mixed uncertainty sets for robust combinatorial optimization"
 collection: publications
 permalink: /publication/mixed-sets
+excerpt: ""
 date: 2019-07-20
 venue: ''
 paperurl: 'https://doi.org/10.1007/s11590-019-01456-3'
 citation:
 coauthors:
-paperstatus:
+paperstatus: "Published"
 ---
 In robust optimization, the uncertainty set is used to model all possible outcomes of uncertain parameters. In the classic setting, one assumes that this set is provided by the
 decision maker based on the data available to her. Only recently it has been recognized that the process of building useful uncertainty sets is in itself a challenging task that
