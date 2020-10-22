@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback. Before that, I have worked under the supervision of [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on network estimation.
+I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback. Before that, I have worked under the supervision of [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on network estimation.
 
 # Papers and software
+
+**Finite Continuum-Armed Bandits**, S. Gaucher, to appear in NeuRIPS 2020. [Arxiv](https://arxiv.org/abs/1902.10605)
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp. [Arxiv](https://arxiv.org/abs/1902.10605)
 
 **Link Prediction in the Stochastic Block Model with Outliers**, S. Gaucher, O. Klopp, G. Robin. [Arxiv](https://arxiv.org/abs/1911.13122)
 
-R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020). Estimation of probabilities of connections in the Generalized Stochastic Block Model. The method also detects outlier nodes.
+R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020). S Gaucher, G. Robin. The package allows to robustly estimate probabilities of connections in the presence of missing observations and outlier nodes, while detecting those outlier nodes.
 
 # Talks
 
