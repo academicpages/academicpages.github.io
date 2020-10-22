@@ -2,7 +2,7 @@
 title: "Classical quantum optimization with neural network quantum states"
 collection: publications
 permalink: /publication/2019-10-23-classical
-excerpt: 'We demonstrate the utility of a variational representation of quantum states based on artificial neural networks for performing quantum optimization.<center><img src='/images/direct_opt.png' height='200'></center>'
+excerpt: "We demonstrate the utility of a variational representation of quantum states based on artificial neural networks for performing quantum optimization.<center><img src='/images/direct_opt.png' height='200'></center>"
 date: 2019-10-23
 venue: '33rd Conference on Neural Information Processing Systems (NeurIPS), Workshop of Machine Learning and the Physical Sciences'
 paperurl: 'https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_144.pdf'
