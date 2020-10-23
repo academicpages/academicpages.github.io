@@ -14,20 +14,17 @@ permalink: /people/current-lab
 Sarah's research focuses on the evolution of complex traits and how selection interacts with the genome. The lab's research activities fall into two major categories: (1) understanding how sexual selection acts on traits and shapes mating systems and (2) investigating the genomic basis of traits, including the signature selection leaves on the genome. Read more about Sarah on her [personal website]( https://sarahpflanagan.wordpress.com/), where she maintains a blog.
 
 
+### Lucy Howell
+
+<img align="right" src='/images/lucyhowell.png' height='10'> Lucy is working towards a Masters in Antarctic Studies and is developing an environmental DNA pipeline that can be used 'on the ice' in Antarctica. At the moment she is focused on extracting Weddell seal DNA from snow samples. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/).
 
 ### Micaela Pullen
 
 <img align="left" src='/images/MicaelaPullen.jpg' height='100' width='133'> Micaela is a masters of science student working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
 
-<br>
+### Fleur van Eyndhoven
 
-<br>
+<img align="right" src='/images/fleurvaneyndhoven.png' height='10'> Fleur is working towards a Master of Science in biological sciences looking at sexual selection in the wide-bodied pipefish, Stigmatopora nigra. She is interested in animal behaviour and how individuals interact with each other. 
 
-<br>
 
-<br>
-
-### Lucy Howell
-
-<img align="right" src='/images/lucyhowell.png' height='10'> Lucy is working towards a Masters in Antarctic Studies and is developing an environmental DNA pipeline that can be used 'on the ice' in Antarctica. At the moment she is focused on extracting Weddell seal DNA from snow samples. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/).
 
