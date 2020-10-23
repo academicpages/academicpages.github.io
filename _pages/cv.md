@@ -21,12 +21,12 @@ image:
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/files/JPL_CV_10-2020.pdf)
 
-### Education
+## Education
 * __B.S. Biology__, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
 * __M.S. Wildlife Management__, Universidad Nacional de Córdoba, Córdoba, Argentina, 2009
 * __Ph.D. Ecology and Evolution__, Universidade Federal de Goiás, Brasil, 2017
 
-### Appointments
+## Appointments
 * 2020-Present: __Research Scientist__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota.
 * 2017-2020: __Grand Challenges in Biology Postdoctoral Fellow__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota (Sponsors: Dr. Jeannine Cavender-Bares and Dr. Daniel Larkin).
 * 2009-Present: __Research Associate [_Ad Honorem_]__. Museo de Historia Natural Noel Kempff Mercado, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia. 
@@ -34,7 +34,7 @@ image:
 * 2010-2011: __Visiting Researcher__. Centro de Pesquisas do Pantanal, Universidade Federal de Mato Grosso,  Cuiabá, Brazil.
 * 2003-2006: __Intern__. Museo de Historia Natural Noel Kempff Mercado, Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia.
   
-### Fellowships and Awards
+## Fellowships and Awards
 * 2020-2021: __AAAS/Science membership award__, the American Association for the Advancement of Science Program for Excellence in Science. 
 * 2017-2020: __Grand Challenges in Biology Fellowship__, College of Biological Sciences, University of Minnesota.
 * 2015-2017: __CAPES PhD Fellowship__, Coordination for the Improvement of Higher Education Personnel (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior; CAPES), Brazil.
@@ -44,12 +44,12 @@ image:
 * 2007-2009: __SCB Membership Award__. Society for Conservation Biology - A global community of conservation professionals. Society for Conservation Biology, Washington, D.C., USA.
 * 2006-2008: __Master’s Fellowship__, Program in Wildlife Management (Programa de Maestría en Manejo de Vida Silvestre). US Wildlife Service, Universidad Nacional de Córdoba, Córdoba, Argentina.
 
-### Reviewing activities
+## Reviewing activities
 * I served as expert reviewer for the 2020 __Red List__ of birds (eastern South America).
 
 * I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology, in:   
 
-#### Society journals
+### Society journals
 * __Ecological Society of America__: Ecology, Frontiers in Ecology and the Environment, Ecological Monographs 
 * __American Society of Naturalists__: The American Naturalist
 * __Society of Systematic Biologists__: Systematic Biology
@@ -59,21 +59,21 @@ image:
 * __The Association of Field Ornithologists__: Journal of Field Ornithology   
 * __Aves Argentinas__: El Hornero (revista de ornitología Neotropical) 
 
-#### Journals in for-profit publishers  
+### Journals in for-profit publishers  
 Global Ecology and Biogeography, Journal of Biogeography, Diversity and Distributions, Ecology Letters, EMU (Austral Ornithology), Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management Biodiversity and Conservation
 
-#### Others
+### Others
 Kempffiana, Oecología Australis, PLOS One
   
-### Professional affiliations
+## Professional affiliations
 * 2020-Present: American Association for the Advancement of Science
 * 2014-Present: Ecological Society of America
 * 2013-Present: National Academy of Sciences of Bolivia, Santa Cruz Chapter
 * 2012-Present: Ornithological Society of Bolivia
 * 2006-Present: Ecological Society of Argentina
 * 2006-Present: Ecological Society of Bolivia
-* 2010-2014: Society of Wetlands Scientists
+* 2010-2014: Society of Wetlands Scientists, South American Chapter
 * 2010-2014: International Society for Salt Lake Research
 * 2009-Present: Community for Wildlife Management in the Amazon and Latin America
-* 2007-2012: Society of Conservation Biology, Bolivian Chapter.
+* 2007-2012: Society of Conservation Biology, Bolivian Chapter
 
