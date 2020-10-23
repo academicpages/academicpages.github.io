@@ -45,10 +45,25 @@ image:
 * 2006-2008: __Master’s Fellowship__, Program in Wildlife Management (Programa de Maestría en Manejo de Vida Silvestre). US Wildlife Service, Universidad Nacional de Córdoba, Córdoba, Argentina.
 
 ### Reviewing activities
-* I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology in journals including:  
-Ecology, Frontiers in Ecology and the Environment, Ecological Monographs, Ecology Letters, Global Ecology and Biogeography, Journal of Biogeography, Diversity and Distributions, Ecology and Evolution, Journal of Field Ornithology, EMU (Australian Journal of Ornithology), El Hornero (revista de ornitología Neotropical), Kempffiana, Oecología Australis, Journal of Animal Ecology, Journal of Plant Ecology, Annals of Botany, Biodiversity and Conservation, Forest Ecology and Management, Perspectives in Ecology and Evolution, PLOS One, Journal of Zoological Systematics and Evolutionary Research, Molecular Biology and Evolution, Nature Communications, Systematic Biology, Biological Journal of the Linnean Society, The American Naturalist.
+* I served as expert reviewer for the 2020 __Red List__ of birds (eastern South America).
 
-* I also served as expert reviewer for the 2020 __Red List__ of birds (eastern South America).
+* I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology.   
+
+#### Society journals
+* __Ecological Society of America__: Ecology, Frontiers in Ecology and the Environment, Ecological Monographs 
+* __American Society of Naturalists__: The American Naturalist
+* __Society of Systematic Biologists__: Systematic Biology
+* __British Ecological Society__: Journal of Animal Ecology, Ecology and Evolution
+* __The Linnean Society of London__: Biological Journal of the Linnean Society
+* __Society for Molecular Biology and Evolution__: Molecular Biology and Evolution   
+* __The Association of Field Ornithologists__: Journal of Field Ornithology   
+* __Aves Argentinas__: El Hornero (revista de ornitología Neotropical) 
+
+#### Journals in for-profit publishers  
+Global Ecology and Biogeography, Journal of Biogeography, Diversity and Distributions, Ecology Letters, EMU (Austral Ornithology), Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management Biodiversity and Conservation
+
+#### Others
+Kempffiana, Oecología Australis, PLOS One
   
 ### Professional affiliations
 * 2020-Present: American Association for the Advancement of Science
