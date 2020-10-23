@@ -60,7 +60,7 @@ image:
 * __Aves Argentinas__: El Hornero (revista de ornitología Neotropical) 
 
 ### Journals in for-profit publishers  
-Global Ecology and Biogeography, Journal of Biogeography, Diversity and Distributions, Ecology Letters, EMU (Austral Ornithology), Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management Biodiversity and Conservation
+Global Ecology and Biogeography, Journal of Biogeography, Diversity and Distributions, Ecology Letters, EMU (Austral Ornithology), Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management, Biodiversity and Conservation
 
 ### Others
 Kempffiana, Oecología Australis, PLOS One
