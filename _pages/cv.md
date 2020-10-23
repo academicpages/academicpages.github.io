@@ -47,7 +47,7 @@ image:
 ### Reviewing activities
 * I served as expert reviewer for the 2020 __Red List__ of birds (eastern South America).
 
-* I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology.   
+* I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology, in:   
 
 #### Society journals
 * __Ecological Society of America__: Ecology, Frontiers in Ecology and the Environment, Ecological Monographs 
