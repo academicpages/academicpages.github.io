@@ -1,0 +1,56 @@
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+You can also view my publications on my [<a href=https://scholar.google.com/citations?user=tm0VlqEAAAAJ&hl=fr&oi=ao>Google Scholar profile</a>].
+<br>
+<br>
+<br>
+
+<h1> Conference proceedings in AI </h1>
+<hr>
+
+{% for post in site.publications reversed %}
+{% if post.tag == "conference-AI" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+
+
+<br>
+
+
+<h1> Journal Articles in Computational Fluid Dynamics </h1>
+<hr>
+
+{% for post in site.publications reversed%}
+{% if post.tag == "article" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+
+<br>
+
+
+<h1> Conferences in Computational Fluid Dynamics</h1>
+<hr>
+{% for post in site.publications reversed %}
+{% if post.tag == "conference" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+<br>
+
+
+
+<h1> Proceedings in Computational Fluid Dynamics </h1>
+<hr>
+
+{% for post in site.publications reversed %}
+{% if post.tag == "proceeding" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+<br>
