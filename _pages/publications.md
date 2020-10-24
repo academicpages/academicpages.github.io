@@ -56,14 +56,14 @@ Villarroel, D., G.M. Aramayo, M.T. Martínez, C.E.B. Proença, C.B.R. Munhoz, B.
 
 __Pinto-Ledezma, J.N.__, M.A. Montenegro, & D. Villarroel. 2017. [Historial Natural del Cerro Mutún: V. la avifauna](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/1_Pinto-Ledezmaetal-2017.pdf). _Kempffiana, 13(2):11-28_.
 
-Cseko, E., W. Franca-Rocha, T. Moura & __J.N. Pinto-Ledezma__. 2017. [New range limit of the Broad-tipped Hermit (Anopetia gounellei, Aves: Trochilidae): the state of art and a review on the range area](https://doi.org/10.11606/0031-1049.2017.57.21). _Pápeis avulsos de Zoologia, 57(21): 275-285_.
+Cseko, E., W. Franca-Rocha, T. Moura & __J.N. Pinto-Ledezma__. 2017. [New range limit of the Broad-tipped Hermit (_Anopetia gounellei_, Aves: Trochilidae): the state of art and a review on the range area](https://doi.org/10.11606/0031-1049.2017.57.21). _Pápeis avulsos de Zoologia, 57(21): 275-285_.
 
 ††Pinto, M.A., †K. Mano-Cuellar, D. Villarroel & __J.N. Pinto-Ledezma__. 2017. [Historia Natural del Cerro Mutún IV: la herpetofauna](http://www.museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(1)/3_Pinto-Viveros%20et%20al.%202017_106-128.pdf). _Kempffiana, 13(1): 116-128_.
 
 __Pinto-Ledezma, J.N.__ & D. Villarroel. 2016. [Historia Natural del Cerro Mutún I: síntesis geográfica, geofísica, climática y socioeconómica](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana12(2)/29-38%20Pinto%20Ledezma%20&%20Villarroel%202016.pdf). _Kempffiana, 12(2): 29-38_.
 
 ### 2014 - 2015
-†Sosa, R., C. Schalk, L. Braga & __J.N. Pinto-Ledezma__. 2015. [Rhinella amboroensis (Cochabamba toad)](https://www.dropbox.com/s/r8ixyf8eigkr336/HR%20March%202015%20ebook.pdf?dl=1). _Herpetological Review, 46(2): 214_.
+†Sosa, R., C. Schalk, L. Braga & __J.N. Pinto-Ledezma__. 2015. [_Rhinella amboroensis_ (Cochabamba toad)](https://www.dropbox.com/s/r8ixyf8eigkr336/HR%20March%202015%20ebook.pdf?dl=1). _Herpetological Review, 46(2): 214_.
 
 †Pinto. M.A. & __J.N. Pinto-Ledezma__. 2015. [Listado preliminar de anfibios de la propiedad Benevento (Santa Cruz, Bolivia)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana11(2)/4_Pinto-Viveros&Pinto-Ledezma.pdf). _Kempffiana, 11(1): 23-27_.
 
@@ -73,7 +73,7 @@ __Pinto-Ledezma, J.N.__ & D. Villarroel. 2016. [Historia Natural del Cerro Mutú
 
 __Pinto-Ledezma, J.N.__ & M.L. Rivero. 2014. [Temporal patterns of deforestation and fragmentation in Lowland Bolivia: Implications for climate change](https://doi.org/10.1007/s10584-013-0817-1). _Climatic Change, 127: 43–54_.
 
-__Pinto-Ledezma, J.N.__, V.X. Sandoval, V.N. Pérez, T.J. Caballero, †K. Mano, †M.A. Pinto Viveros & †R. Sosa. 2014. [A spatial explicit habitat model for the Hyacinth Macaw (Anodorhynchus hyacintinus) in the Bolivian Pantanal (Santa Cruz, Bolivia)](http://www.scielo.org.bo/scielo.php?script=sci_abstract&pid=S1605-25282014000200002&lng=en&nrm=iso&tlng=en). _Ecología en Bolivia, 49(2): 1605-2528_.
+__Pinto-Ledezma, J.N.__, V.X. Sandoval, V.N. Pérez, T.J. Caballero, †K. Mano, †M.A. Pinto Viveros & †R. Sosa. 2014. [A spatial explicit habitat model for the Hyacinth Macaw (_Anodorhynchus hyacintinus_) in the Bolivian Pantanal (Santa Cruz, Bolivia)](http://www.scielo.org.bo/scielo.php?script=sci_abstract&pid=S1605-25282014000200002&lng=en&nrm=iso&tlng=en). _Ecología en Bolivia, 49(2): 1605-2528_.
 
 __Pinto-Ledezma, J.N.__, T.J. Caballero, B. Flores, V.N. Perez, †K. Mano & †M.A. Pinto. 2014. [Lista preliminar de las aves de la propiedad Juan Deriba, Santa Cruz, Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/3_Pinto-Ledezma%20et%20al.%2020-30.pdf). _Kempffiana, 10(2): 20-30_.
 
@@ -86,16 +86,16 @@ Jahn, A.E., D. Levey, V. Cueto, __J.N. Pinto-Ledezma__, D. Tuero, J.W. Fox, & D.
 
 Jahn, A.E., V. Cueto, J.W. Fox, M.S. Husak, __J.N. Pinto-Ledezma__, D.H. Kim, D.V. Landoll, H.K. Lepage, D.J. Levey, M.T. Murphy & R.B. Renfrew. 2013. [Migration timing and wintering areas of three species of Tyrannus flycatchers breeding in the great plains of North America](https://doi.org/10.1525/auk.2013.13010). _The AUK, 130(2): 247-257_.
 
-†Sosa, R., L. Braga, Ch. M. Schalk & __J.N. Pinto-Ledezma__. 2013. Clelia langeri (NCN) diet. _Herpetological Review, 43:657_.
+†Sosa, R., L. Braga, Ch. M. Schalk & __J.N. Pinto-Ledezma__. 2013. _Clelia langeri_ (NCN) diet. _Herpetological Review, 43:657_.
 
-†Sosa, R., L. Braga, Ch. M. Schalk & __J.N. Pinto-Ledezma__. Micrurus serranus (NCN) diet. _Herpetological Review, 44(1): 155_.
+†Sosa, R., L. Braga, Ch. M. Schalk & __J.N. Pinto-Ledezma__. _Micrurus serranus_ (NCN) diet. _Herpetological Review, 44(1): 155_.
 
-†Sosa, R., L. Braga, Ch. M. Schalk & __J.N. Pinto-Ledezma__. 2013. Phylodryas psammohidea (Gunther’s green racer) diet. _Herpetological Bulletin, 124: 24_.
+†Sosa, R., L. Braga, Ch. M. Schalk & __J.N. Pinto-Ledezma__. 2013. _Phylodryas psammohidea_ (Gunther’s green racer) diet. _Herpetological Bulletin, 124: 24_.
 
 ### 2011 - previous
-__Pinto-Ledezma, J.N.__, R. Sosa, M. Paredes, I. García, D. Villarroel, & S. Muyucundo. 2011. [The Hyacinth macaw (Anodorhynchus hyacinthinus): population status and its conservation in Bolivian Pantanal](https://www.researchgate.net/publication/237052307_THE_HYACINTH_MACAW_ANODORHYNCHUS_HYACINTHINUS_POBLATIONAL_STATUS_AND_ITS_CONSERVATION_IN_BOLIVIAN_PANTANAL). _Kempffiana, 7(2): 15-37_.
+__Pinto-Ledezma, J.N.__, R. Sosa, M. Paredes, I. García, D. Villarroel, & S. Muyucundo. 2011. [The Hyacinth macaw (_Anodorhynchus hyacinthinus_): population status and its conservation in Bolivian Pantanal](https://www.researchgate.net/publication/237052307_THE_HYACINTH_MACAW_ANODORHYNCHUS_HYACINTHINUS_POBLATIONAL_STATUS_AND_ITS_CONSERVATION_IN_BOLIVIAN_PANTANAL). _Kempffiana, 7(2): 15-37_.
 
-Jahn, A., __J.N. Pinto-Ledezma__, D.J. Levey & A.M. Mamani. 2010. [Patterns of home range size and habitat occupancy of Tropical Kingbird (Tyrannus m. melancholicus) in the southern Amazon Basin](https://www.researchgate.net/publication/237052281_Seasonal_home_range_size_of_Tropical_Kingbird_Tyrannus_melancholicus_in_the_southern_Amazon_Basin). _Ornitología Neotropical, 12: 39-46_.
+Jahn, A., __J.N. Pinto-Ledezma__, D.J. Levey & A.M. Mamani. 2010. [Patterns of home range size and habitat occupancy of Tropical Kingbird (_Tyrannus m. melancholicus_) in the southern Amazon Basin](https://www.researchgate.net/publication/237052281_Seasonal_home_range_size_of_Tropical_Kingbird_Tyrannus_melancholicus_in_the_southern_Amazon_Basin). _Ornitología Neotropical, 12: 39-46_.
 
 __Pinto-Ledezma, J.N__. & T. Ruiz de Centurión. 2010. [Patrones de deforestación y fragmentación 1976-2006 en el municipio de San Julián (Santa Cruz, Bolivia)](http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S1605-25282010000200003). _Ecología en Bolivia, 45(2): 101-115_.
 
