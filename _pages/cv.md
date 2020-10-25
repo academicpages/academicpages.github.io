@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[My updated CV](/cv/Nikita_Moghe_CV_Jul_20.pdf).
+[My updated CV](/cv/Nikita_Moghe_CV.pdf).
 
 This document is available in alternative formats upon request such as large print.
