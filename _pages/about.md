@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year PhD student at [Statistics and Data Science Department](https://https://stat.utexas.edu/) in [University of Texas at Austin](https://https://www.utexas.edu/), supervised by [Dr.Mingyuan Zhou](https://mingyuanzhou.github.io/). My research interest is Bayesian statistics, with applications including **Reinforcement Learning** and **Generative Models**. I am also interested in **optimization**. 
+I am currently a fourth-year PhD student at [Statistics and Data Science Department](https://https://stat.utexas.edu/) in [University of Texas at Austin](https://https://www.utexas.edu/), supervised by [Dr.Mingyuan Zhou](https://mingyuanzhou.github.io/). My research interest is Bayesian statistics, with applications including **Reinforcement Learning** and **Generative Models**. I am also interested in **optimization**. 
 
 In my spare time, I like playing **tennis** and **piano**.
 
