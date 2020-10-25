@@ -1,7 +1,7 @@
 ---
 title: "A Dataset for building Code-Mixed Goal Oriented Conversation Systems"
 collection: publications
-venue: 27th International Conference on Computational Linguistics, COLING, 2018.
+venue: 27th International Conference on Computational Linguistics, COLING 2018.
 permalink: /publications/2018-08-code-mixed-number-1
 paperurl: https://www.aclweb.org/anthology/C18-1319/
 ---
