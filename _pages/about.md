@@ -16,3 +16,18 @@ I am currently also working on a project mapping and predicting social distancin
 [Download Zhang's Vita Here](https://yongjunzhang.com/files/zhang-vita.pdf).
 
 [Click Here to See Data Visualization for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
+
+
+### Call for Papers
+
+**I am serving as a guest editor for Chinese Sociological Review on a special issue about Computational Social Science in Chinese Societies.**
+
+In the past decade, social scientists have combined computational methods with complex and large-scale digital data from novel sources such as social media, administrative records, and historical archives to study social behavior. These studies have greatly advanced our understanding of social phenomena such as the spread of infectious diseases and predicting poverty. The field of CSS has not only exploded prominently in the U.S., but also expanded rapidly in the Chinese academia. 
+Chinese Sociological Review (CSR) now calls for proposals for a Special Issue on Computational Social Science (CSS). The deadline is Dec 15, 2020, by which proposals should be sent to this special issue’s editorial team, consisting of Xiaogang Wu (Professor, NYU Shanghai), Yongjun Zhang (Assistant Professor, Stony Brook University), and Tianji Cai (Associate Professor, University of Macau).
+
+We welcome all sociologists/social scientists around the world to submit their work that offers important theoretical and empirical insights to advance our understanding of the development in CSS and help move forward the field in Chinese societies. We are particularly interested in the proposals that develop and/or apply advanced computational methods to address sociological questions in Chinese societies.
+Submission Instructions
+
+Authors who want their work to be considered for publication in this Special Issue should email a proposal to specialcsr@gmail.com by Dec 15, 2020.
+Proposals should be about 1,000 words long in total and should include the theoretical and/or empirical approaches to addressing the theme of the Special Issue and how it will advance our understanding of computational social science. Invitations to submit the full-length research papers will be sent out to authors by Jan 1, 2020. The full-length paper for peer reviews will be due on March 30, 2021. The special issue is expected to be published online before September/November 2021.
+
