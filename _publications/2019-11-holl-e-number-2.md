@@ -1,9 +1,9 @@
 ---
 title: "Towards Exploiting Background Knowledge for Building Conversation Systems"
 collection: publications
-venue: 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP, 2018
+venue: 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018
 permalink: /publications/2019-11-holl-e-number-2
-paperurl: https://www.aclweb.org/anthology/2020.nlp4convai-1.2/
+paperurl: https://www.aclweb.org/anthology/D18-1255/
 ---
 Authors: Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra
 
