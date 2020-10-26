@@ -14,7 +14,10 @@ author_profile: false
 - Integrates with other Alexa devices and features (smart sockets, timers, calendars, etc)
 - Requires minimal additional lab bench space
 
-## Demonstration
+## Demonstrations
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7ksrQ13pbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MtSdDXN6GyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Amazon Alexa implementing the LabBee custom skill. LabBee is being used to control an Olympus microscope via [Micro-Manager](https://micro-manager.org/) software.*
