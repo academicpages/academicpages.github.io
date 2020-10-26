@@ -12,6 +12,8 @@ excerpt_separator: <!--more-->
 toc: true
 image: /images/posts/jekyll-html/map.png
 tags:
+  - jekyll
+  - rmarkdown
   - data
   - visualization
 ---

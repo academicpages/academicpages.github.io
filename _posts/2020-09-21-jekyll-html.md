@@ -12,6 +12,8 @@ excerpt_separator: <!--more-->
 toc: true
 image: /images/posts/jekyll-html/map.png
 tags:
+  - jekyll
+  - rmarkdown
   - data
   - visualization
 ---
@@ -71,7 +73,7 @@ predoc <- read_csv('predoc.csv')
 predoc
 ```
 
-    ## # A tibble: 8 x 4
+    ## # A tibble: 9 x 4
     ##   Institution          Name                     Location      URL                                   
     ##   <chr>                <chr>                    <chr>         <chr>                                 
     ## 1 University of South… POIR Predoctoral Summer… Los Angeles,… https://dornsife.usc.edu/poir/predoct…
@@ -82,6 +84,7 @@ predoc
     ## 6 University of Washi… NSF REU: Spatial Models… Tacoma, WA, … https://www.tacoma.uw.edu/smed/nsf-re…
     ## 7 University of North… NSF REU: Civil Conflict… Denton, TX, … https://untconflictmgmtreu.wordpress.…
     ## 8 Princeton University Emerging Scholars in Po… Princeton, N… https://politics.princeton.edu/gradua…
+    ## 9 Harvard University   PS-Prep                  Cambridge, M… https://projects.iq.harvard.edu/ps-pr…
 
 First, we need to get latitude and longitude coordinates from our place
 names to plot them on a map. We’ll use the `geocode()` function, where
