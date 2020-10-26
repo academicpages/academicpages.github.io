@@ -17,9 +17,9 @@ image:
 }
 </style>
 
-Models are tools to understand the real world and...they can sharpen our intuition about ecological mechanisms. Even the simplest model, which may match no living system, can be useful. __--William Murdoch__   
+_Models are tools to understand the real world and...they can sharpen our intuition about ecological mechanisms. Even the simplest model, which may match no living system, can be useful_. __--William Murdoch__   
 
-Understanding patterns in terms of the processes that produce them is the essence of science. __--Simon A. Levin__
+_Understanding patterns in terms of the processes that produce them is the essence of science_. __--Simon A. Levin__
 
 Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
