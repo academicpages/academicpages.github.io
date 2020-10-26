@@ -19,6 +19,8 @@ image:
 }
 </style>
 
+_The only constant in life is change_. __--Heraclitus, c. 505 BCE__
+
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/files/JPL_CV_10-2020.pdf)
 
 ## Education
@@ -49,18 +51,21 @@ image:
 
 * I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology, in:   
 
-### Society journals
+### Society journals and/or associated to scientific societies
 * __Ecological Society of America__: Ecology, Frontiers in Ecology and the Environment, Ecological Monographs 
 * __American Society of Naturalists__: The American Naturalist
 * __Society of Systematic Biologists__: Systematic Biology
+* __International Biogeography Society__: Journal of Biogeography, Global Ecology and Biogeography, Diversity and Distributions
+* __French National Center for Scientific Research__: Ecology Letters
 * __British Ecological Society__: Journal of Animal Ecology, Ecology and Evolution
 * __The Linnean Society of London__: Biological Journal of the Linnean Society
 * __Society for Molecular Biology and Evolution__: Molecular Biology and Evolution   
-* __The Association of Field Ornithologists__: Journal of Field Ornithology   
+* __The Association of Field Ornithologists__: Journal of Field Ornithology 
+* __BirdLife Australia__: EMU (Austral Ornithology)
 * __Aves Argentinas__: El Hornero (revista de ornitología Neotropical) 
 
 ### Journals in for-profit publishers  
-Global Ecology and Biogeography, Journal of Biogeography, Diversity and Distributions, Ecology Letters, EMU (Austral Ornithology), Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management, Biodiversity and Conservation
+Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management, Biodiversity and Conservation
 
 ### Others
 Kempffiana, Oecología Australis, PLOS One
