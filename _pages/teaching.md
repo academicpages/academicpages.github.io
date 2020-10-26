@@ -14,7 +14,9 @@ image:
 }
 </style>
 
-Illuminating our understanding of nature, that's what it's about. __--Peter A. Lawrence__
+_Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world_. __--Louis Pasteur__ 
+
+_Illuminating our understanding of nature, that's what it's about_. __--Peter A. Lawrence__
 
 ## Core teaching
 __University of Minnesota, Saint Paul, MN, USA__
@@ -34,7 +36,7 @@ __Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia__
 * __Species distribution modeling with R__. One intensive course of one day (June 2014). Instructor. IV congreso boliviano de Ecología, Santa Cruz de la Sierra, Bolivia.
 
 ## Outreach
-Everything should be made simple as possible, but not simpler. __--Albert Einstein__
+_Everything should be made simple as possible, but not simpler_. __--Albert Einstein__
 
 __IUCN Red List reviewer__   
 Expert reviewer for the 2020 Red List of birds (eastern South America).   
