@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the CSE Department, the HKUST, advised by [Professor Qiang Yang](http://www.cs.ust.hk/~qyang/) and co-advised by [Prof. Kai Chen](https://www.cse.ust.hk/~kaichen). My research interests lie in machine learning and data mining, and I am currently devoted into the newly proposed **Federated Learning**, both in algorithms and in privacy & security. I also find interest in *network analysis and mining*, such as *graph embedding and graph neural networks*. 
+I am currently a Ph.D. student at the CSE Department, the HKUST, advised by [Prof. Qiang Yang](http://www.cs.ust.hk/~qyang/) and co-advised by [Prof. Kai Chen](https://www.cse.ust.hk/~kaichen). My research interests lie in machine learning and data mining, and I am currently devoted into the newly proposed **Federated Learning**, both in algorithms and in privacy & security. I also find interest in *network analysis and mining*, such as *graph embedding and graph neural networks*. 
 
 Prior to joining the HKUST, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn), China, obtaining both a B.S in Computer Science and a B.Economics at the National School of Development. I was fortunate to have [Prof. Guojie Song](https://gjsong-pku.cn) as my advisor during my days at PKU, with whom I collaborate very well. 
 
