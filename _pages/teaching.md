@@ -129,3 +129,10 @@ You can download the [ipynb file here](https://yongjunzhang.com/files/tutorial/L
 
 You can download the [Slides here](https://yongjunzhang.com/files/tutorial/Lecture9.pdf). 
 You can download the [python script for BigQuery demo here](https://yongjunzhang.com/files/tutorial/Lab9.py). 
+
+### Week 10
+
+#### Mini-lecture and lab tutorial:
+
+You can download the [Slides here](https://yongjunzhang.com/files/tutorial/Lecture10.pdf). 
+You can download the [python script ](https://yongjunzhang.com/files/tutorial/Lab10.py) and [ipython file](https://yongjunzhang.com/files/tutorial/Lab10.ipynb) here. 
