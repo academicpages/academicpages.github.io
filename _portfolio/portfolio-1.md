@@ -3,6 +3,7 @@ title: "Handedness in Mental Rotation"
 excerpt: "90% percent of human beings are right-handed. Accordingly, the world has been designed for right-handed use. Is spatial ability influenced by knowledge of this right-handed world? How does it compete with embodiment of handedness? Does it differ between left-handed people and right-handed people? <br/><img src='/images/site-logo.png'>"
 collection: projects
 ---
+With Elizabeth R. Chrastil, Mary Hegarty
 
 Ninety percent of human beings are right-handed. Accordingly, the world has been designed for right-handed use. But could spatial abilities be affected by knowledge of this right-handed world? If so, how does this world knowledge weigh against a person’s own embodied experience
 of their dominant hand when it comes to spatial thinking? Many psychologists tend to recruit only right-handed participants, but testing right-handed subjects alone cannot solve this puzzle, because their embodiment and world knowledge are indistinguishable. Since we all live in a
