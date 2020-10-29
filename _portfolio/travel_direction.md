@@ -1,6 +1,6 @@
 ---
-title: "Travel Direction in Human Navigation"
-excerpt: "We show that embodied experience influences spatial thinking about right hands, which might account for the presence of world knowledge variability in MRT, while also suggesting that common external experience shapes performance in spatial thinking tasks. <br/><img src='/images/travel_direction.png'>"
+title: "Travel Direction as a Fundamental Component of Human Navigation"
+excerpt: "We show that travel direction is a fundamental component of human navigation. <br/><img src='/images/travel_direction.png'>"
 collection: projects
 ---
 With Elizabeth R. Chrastil, Sam Ling, and Chantal Stern
