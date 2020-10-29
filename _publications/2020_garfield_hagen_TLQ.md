@@ -6,7 +6,7 @@ excerpt: <blockquote>The high colinearity of the diverse traits measured here su
 date: 2020-04-01
 venue: 'The Leadership Quarterly'
 paperurl: 'https://doi.org/10.1016/j.leaqua.2019.03.005'
-citation: 'Zachary H. Garfield and Edward H. Hagen (2010). &quot;Investigating evolutionary models of leadership among recently settled Ethiopian hunter-gatherers.&quot; <i>The Leadership Quarterly</i>. 31(2).'
+citation: 'Zachary H. Garfield and Edward H. Hagen (2020). &quot;Investigating evolutionary models of leadership among recently settled Ethiopian hunter-gatherers.&quot; <i>The Leadership Quarterly</i>. 31(2).'
 ---
 This empirical field study provides rare quantitative data on elected leadership among a relatively egalitarian society, including on female and male leaders. Results are interpreted in reference to influential evolutionary theoretical models. This publication is part of a special issue of [The Leadership Quarterly on the Evolution and Biology of Leadership](https://www.sciencedirect.com/journal/the-leadership-quarterly/vol/31/issue/2).
 
