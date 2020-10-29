@@ -14,4 +14,3 @@ We used a motion adaptation paradigm to probe for selectivity of travel directio
 
 <img src='/images/travel_direction2.png'>
 
-![image of a crossref logo](https://raw.githubusercontent.com/LilianYou/LilianYou.github.io/master/images/crossref_log.png)
