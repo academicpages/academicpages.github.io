@@ -1,6 +1,6 @@
 ---
 title: "Handedness in Mental Rotation"
-excerpt: "Ninety percent of human beings are right-handed. Accordingly, the world has been designed for right-handed use.<br/><img src='/images/projects-handedess.png'>"
+excerpt: "90% percent of human beings are right-handed. Accordingly, the world has been designed for right-handed use. Is spatial ability influenced by knowledge of this right-handed world? How does it compete with embodiment of handedness? Does it differ between left-handed people and right-handed people? <br/><img src='/images/site-logo.png'>"
 collection: projects
 ---
 
