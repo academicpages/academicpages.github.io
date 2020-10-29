@@ -1,5 +1,5 @@
 ---
-title: "Travel Direction as a Fundamental Component of Human Navigation"
+title: "Travel Direction as a Fundamental Component of Navigation"
 excerpt: "We show that travel direction is a fundamental component of human navigation. <br/><img src='/images/travel_direction.png'>"
 collection: projects
 ---
