@@ -1,6 +1,6 @@
 ---
 title: "Handedness in the Mental Rotation of Hands"
-excerpt: "We show that embodied experience influences spatial thinking about right hands, which might account for the presence of world knowledge variability in MRT, while also suggesting that common external experience shapes performance in spatial thinking tasks. <br/><img src='/images/projects-handedness.png'>"
+excerpt: "We show that embodied experience influences spatial thinking about right hands, which might account for the presence of world knowledge variability in the mental rotation task, while also suggesting that common external experience shapes performance in spatial thinking tasks. <br/><img src='/images/projects-handedness.png'>"
 collection: projects
 ---
 With Elizabeth R. Chrastil, Mary Hegarty
