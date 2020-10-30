@@ -42,11 +42,12 @@ Sex Difference
 
 Spatial Cognition
 ======
-* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightening Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. 
 
 * <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Embodied Experience of the ‘Wrong’ Hand, Not World Knowledge, Supports the Mental Rotation of Hands, Psychonomic Society Annual Meeting, New Orleans, USA. Nov., 2018.
 
 * <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Performance Discrepancy Between Left-handers and Right-handers Reveals Multisensory Integration in the Mental Rotation of Hands, Spatial Cognition, Tübingen, Germany. Aug., 2018.
+
+* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightening Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. 
 
 <br>
 
@@ -68,6 +69,7 @@ Memory
 
 Others
 =====
-* Downs, M., Davis, F., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in the U.S. LTER Network, International Long-Term Ecosystem Research Open Science Meeting (ILTER OSM), Leipzig, Germany. Sept., 2019.
 
 * Downs, M., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in and Beyond the U.S. LTER Network, Ecological Society of America Annual Meeting, Virtual. Aug., 2020.
+
+* Downs, M., Davis, F., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in the U.S. LTER Network, International Long-Term Ecosystem Research Open Science Meeting (ILTER OSM), Leipzig, Germany. Sept., 2019.
