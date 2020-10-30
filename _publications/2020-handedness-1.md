@@ -1,11 +1,12 @@
 ---
 title: "Telling right from right: the influence of handedness in the mental rotation of hands"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-handedness-1
 excerpt: 'Our findings demonstrate that embodied experience influences spatial thinking about right hands, which might account for the presence of world knowledge variability in MRT, while also suggesting that common external experience shapes performance in spatial thinking tasks. These findings demonstrate that investigations in spatial thinking tasks might overlook the nuances reflecting world knowledge versus embodied experience if researchers do not recruit left-handers.'
 date: 2020-06-03
 venue: 'Cognitive Research: Principles and Implications'
-paperurl: 'Cheng, Y., Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18.'
+citation: 'Cheng, Y., Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18.'
+paperurl: 'like'
 ---
 Background
 This study investigated the impact of handedness on a common spatial abilities task, the mental rotation task (MRT). The influence of a right-handed world was contrasted with people’s embodied experience with their own hands by testing both left- and right-handed people on an MRT of right- and left-hand stimuli. An additional consideration is the influence of matching the shape of the hand stimuli with the proprioception of one’s own hands. Two orthogonal hypothesis axes were crossed to yield four competing hypotheses. One axis contrasted (i) embodied experience versus (ii) world knowledge; the other axis contrasted (a) the match between the visual image of a hand on the screen and one’s own hand versus (b) the resemblance of the shape outline information from the hand stimuli with the proprioception of one’s own hands.
