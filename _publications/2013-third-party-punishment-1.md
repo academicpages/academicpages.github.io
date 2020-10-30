@@ -11,4 +11,4 @@ In social decision-making games, uninvolved third parties usually severely punis
 
 [Download paper here](http://lilianyou.github.io/files/2013-Qu.pdf)
 
-Recommended citation: Qu, L., Dou, W., Cheng, Y., & Qu, C. (2014). The processing course of conflicts in third‐party punishment: An event‐related potential study. PsyCh journal, 3(3), 214-221.
+Recommended citation: Qu, L., Dou, W., Cheng, Y., & Qu, C. (2014). The processing course of conflicts in third‐party punishment: An event‐related potential study. PsyCh Journal, 3(3), 214-221.
