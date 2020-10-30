@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title:"Talks and presentations"
