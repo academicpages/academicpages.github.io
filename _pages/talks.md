@@ -1,8 +1,10 @@
+
 ---
 layout: archive
-title: "Talks and presentations"
+title:"Talks and presentations"
 permalink: /talks/
 author_profile: true
+
 ---
 
 {% include base_path %}
@@ -32,11 +34,11 @@ Distance
 -----------
 * <b>Cheng, Y. </b>. Domain-General Distance Representation, Spring Quarter UCSB Geography Department Colloquium, Santa Barbara. May, 2019.
 
-
 Sex Difference
 ------
 * <b>Cheng, Y. </b>. What Are the Sex Differences in Navigation Training? Using Sea Hero Quest Dataset, UCSB Crossroads Symposium, Santa Barbara. Nov., 2019.
 
+<br>
 
 Spatial Cognition
 ======
@@ -46,6 +48,8 @@ Spatial Cognition
 
 * <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Performance Discrepancy Between Left-handers and Right-handers Reveals Multisensory Integration in the Mental Rotation of Hands, Spatial Cognition, Tübingen, Germany. Aug., 2018.
 
+<br>
+
 Decision Making
 ======
 * <b>Cheng, Y. </b>, Chrastil, E.R. From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines, Collective Spatial Cognition Specialist Meeting, Santa Barbara. April, 2019.
@@ -54,14 +58,16 @@ Decision Making
 
 * <b>Cheng, Y. </b>, Qu, C. Cost Consideration Driven by Prosociality in Third-party Punishment: Using Feedback Related Negativity, Society for Neuroscience Annual Meeting, Chicago, USA. Oct., 2015.
 
+<br>
+
 Memory
 ======
 * <b>Cheng, Y. </b>, Liang, Y., Tang, Z. Mixed Time-Based and Event-Based Prospective Memory: A Behavioral Study, the 16th National Academic Congress of Psychology, Nanjing, China. Nov., 2013. 
+
+<br>
 
 Others
 =====
 * Downs, M., Davis, F., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in the U.S. LTER Network, International Long-Term Ecosystem Research Open Science Meeting (ILTER OSM), Leipzig, Germany. Sept., 2019.
 
 * Downs, M., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in and Beyond the U.S. LTER Network, Ecological Society of America Annual Meeting, Virtual. Aug., 2020.
-
-* Xiao, H., <b>Cheng, Y.</b>, Chen, L. Correlation Study about View in a Just World and Subjective Well- being: The Moderate Effect of Psychological Capital-Chinese Undergraduates, International Conference on Advanced Management Science and Information Engineering, Hongkong, China. Dec., 2014.
