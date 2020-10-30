@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <br> 
+
+[CV](http://lilianyou.github.io/files/YOU_CHENG_CV_Oct_30_2020)
 
 Education
 ======
