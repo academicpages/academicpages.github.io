@@ -72,7 +72,7 @@ John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchi
 | Oct | 26 | 27 | 28 | 29 | 30 |
 | 10 | _TBD_<br>Probabilities and distributions | | _TBD_<br>Probabilities and distributions  | | DL Ch.5<br>Machine Learning Basics I  |
 | Nov | 2 | 3 | 4 | 5 | 6 |
-| 11 | DL Ch.5<br>Machine Learning Basics I | | Feature Engineering | | Ensemble Models |
+| 11 | DL Ch.5<br>Machine Learning Basics II | | Feature Engineering | | Ensemble Models |
 | Nov | 9 | 10 | 11 | 12 | 13 |
 | 12 | PRML Ch.6<br>Kernel Methods | | Clustering| | DL Ch.6<br>FFNN |
 | Nov | 16 | 17 | 18 | 19 | 20 |
