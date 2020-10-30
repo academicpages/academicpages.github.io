@@ -2,7 +2,7 @@
 title: "The effect of altruistic tendency on fairness in third-party punishment"
 collection: publications
 permalink: /publication/2015-third-party-punishment-1
-excerpt: 'the altruistic tendency effect influences fairness consideration in the early stage of evaluation. Moreover, the results provide further neuroscience evidence for inequity aversion.'
+excerpt: 'In third-party punishment, the altruistic tendency effect influences fairness consideration in the early stage of evaluation. Moreover, the results provide further neuroscience evidence for inequity aversion.'
 date: 2015-07-02
 venue: 'Frontiers in Psychology'
 citation: 'Sun, L., Tan, P. *, Cheng, Y. *, Chen, J., & Qu, C. (2015). The effect of altruistic tendency on fairness in third-party punishment. Frontiers in psychology, 6, 820.'
