@@ -11,7 +11,7 @@ One person may say around 40min drive. Another person may answer 36 miles. Both 
 
 Then what are the relationship between different distances?
 
-We collected pictures from 100 famous people from different time of history, domestic or overseas, males and females, in different professional fields. Then we asked a pool of participants to rate their perceived distance toward these people. We found that people’s perception of spatial distance toward famous people is influenced by time distance. The more historical the person, the bigger the influence of the time distance.
+We collected pictures from 152 famous people from different time of history, domestic or overseas, males and females, in different professional fields. Then we asked a pool of participants to rate their perceived distance toward these people. We found that people’s perception of spatial distance toward famous people is influenced by time distance. The more historical the person, the bigger the influence of the time distance.
 
 <img src='/images/distance.png'>
 
