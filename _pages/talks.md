@@ -3,8 +3,7 @@
 layout: archive
 title:"Talks and presentations"
 permalink: /talks/
-author_profile: true
-
+author_profile: true<br>
 ---
 
 {% include base_path %}
