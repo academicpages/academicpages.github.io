@@ -70,18 +70,18 @@ John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchi
 | Oct | 19 | 20 | 21 | 22 | 23 |
 | 9 | Review | **Midterm 2** | Kitchin<br>Ch.11<br>Data Visualization | | Kitchin<br>Ch.11<br>Data Visualization |
 | Oct | 26 | 27 | 28 | 29 | 30 |
-| 10 | _TBD_<br>Probabilities and distributions | | _TBD_<br>Probabilities and distributions  | | _TBD_<br>Data preprocessing  |
+| 10 | _TBD_<br>Probabilities and distributions | | _TBD_<br>Probabilities and distributions  | | DL Ch.5<br>Machine Learning Basics I  |
 | Nov | 2 | 3 | 4 | 5 | 6 |
-| 11 | _TBD_<br>Dimensionality reduction | | _TBD_<br>Regression | | Review |
+| 11 | DL Ch.5<br>Machine Learning Basics I | | Feature Engineering | | Ensemble Models |
 | Nov | 9 | 10 | 11 | 12 | 13 |
-| 12 | _TBD_<br>Classification | | _TBD_<br>Feature selection| | _TBD_<br>Model comparison |
+| 12 | PRML Ch.6<br>Kernel Methods | | Clustering| | DL Ch.6<br>FFNN |
 | Nov | 16 | 17 | 18 | 19 | 20 |
-| 13 | Review | **Midterm 3** | _TBD_<br>Sequential data | | _TBD_<br>Deep learning |
+| 13 | Review | **Midterm 3** | DL Ch.7&8<br>Deep Learning Basics I | | DL Ch.7&8<br>Deep Learning Basics II |
 | Nov | 23 | 24 | 25 | 26 | 27 |
 | | ----- || Thanksgiving Break || ----- |
 | Nov/Dec | 30 | 1 | 2 | 3 | 4 |
-| 14 | _TBD_<br>Deep learning | | _TBD_<br>Deep learning | | Review |
+| 14 | DL Ch.9<br>Convolutional Networks | | DL Ch.10<br>Recurrent Networks | | DL Ch.20<br>Generative Models |
 | Dec | 7 | 8 | 9 | 10 | 11 |
-| 15 | ----- || Final Project Presentations || ----- |
+| 15 | Graph Networks || Final Project Presentations || ----- |
 | Dec | 14 | 15 | 16 | 17 | 18 |
 | | ----- || Finals Week || ----- |
