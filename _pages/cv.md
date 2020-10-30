@@ -47,7 +47,7 @@ Publications
 Select Conference Presentations 
 ======
 <b><big>Oral Presentations</big></b>
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020.
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [news](/posts/2020/10/blog-post-4/)
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), remote. Oct., 2020. [news](/posts/2020/10/blog-post-2/)
 
