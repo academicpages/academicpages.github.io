@@ -12,3 +12,9 @@ whether embodiment or world knowledge influences spatial thinking.
 
 In the current study, we conducted a hand MRT in both left-handed and right-handed groups.
 Our findings demonstrate that embodied experience influences spatial thinking about right hands, which might account for the presence of world knowledge variability in MRT, while also suggesting that common external experience shapes performance in spatial thinking tasks. These findings demonstrate that investigations in spatial thinking tasks might overlook the nuances reflecting world knowledge versus embodied experience if researchers do not recruit left-handers.
+
+Relevant resources:
+
+* <b>Cheng, Y.</b>, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18. [pdf](http://lilianyou.github.io/files/2020-Cheng.pdf)
+
+* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightening Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [video](https://www.youtube.com/watch?v=z5eQH3SGhoY)
