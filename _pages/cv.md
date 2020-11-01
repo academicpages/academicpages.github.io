@@ -31,6 +31,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Professional experience
 ======
 Sep 2020 - Present: Assistant Researcher, Microsoft Research Asia
