@@ -27,7 +27,7 @@ redirect_from:
 ### 2019
 1. **Controlling Risk of Web Question Answering** [<a href='https://arxiv.org/abs/1905.10077'>PDF</a>]  <br>
  <ins>**Lixin Su**</ins>, Jiafeng Guo, Yixin Fan, Yanyan Lan, Xueqi Cheng <br>
-**SIGIR'20**: Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval  <br>
+**SIGIR'19**: Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval  <br>
 
 1. **An Adaptive Framework for Conversational Question Answering** [<a href='http://www.bigdatalab.ac.cn/~gjf/papers/2019/AAAI-QA.pdf'>PDF</a>]  <br>
 <ins>**Lixin Su**</ins>, Jiafeng Guo, Yixing Fan, Yanyan Lan, Ruqing Zhang, and Xueqi Cheng<br>
