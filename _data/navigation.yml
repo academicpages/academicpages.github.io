@@ -3,20 +3,27 @@ main:
   - title: "Publications"
     url: /publications/
 
+#  - title: "Projects"
+#    url: /projects/
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Awards"
+    url: /awards/
+
   - title: "CV"
-    url: /cv/
+    url: /files/lixinsu.pdf
+
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
+
