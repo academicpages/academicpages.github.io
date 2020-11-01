@@ -17,8 +17,11 @@ Education
 ------
 <!-- ### Education -->
   * **Institute of Computing Technology, Chinese Academy of Sciences**
-    * Ph.D. in Computer Science, 2019 - present
+    * Ph.D. in Computer Science, 2017 - present
     * Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
+  * **Institute of Computing Technology, Chinese Academy of Sciences**
+    * M.S. in Computer Science, 2015 - 2017
+    * Advisor: Assoc Prof. [Ying Liang](http://sourcedb.ict.cas.cn/cn/jssrck/200909/t20090917_2496667.html)
   * **Beijing Jiatong University**
     * B.E. in Electrical Engineering , 2011 - 2015
     <!-- * Beijing Outstanding Undergraduate Award (Top 2%) -->
