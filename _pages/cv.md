@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Artificial Intelligence & Innovation, Language Technology Institute, School of Computer Science, Aug 2021 - May 2023 (expected)
+* B.S. in Mathematics & Applied Mathematics, Beijing Normal University, Sep 2016 - Jun 2020
+* Exchange Student, Chinese University of Hong Kong, Jan 2019 - May 2019
+* Summer Course, College of William & Mary, Jul 2017 - Aug 2017
 
-Work experience
+Selected Honors & Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+__Selected Assistant Researcher__ of the Star Bridge Program, as the top 5% out of 400+ outstanding candidates
+__Top Ten Undergraduate__ candidate at Beijing Normal University, as the top 0.5% out of 2500+ seniors
+__Finalist__ of the Google Next Exceptional X Talent Program, being one of the only 30 candidates in the Asia Pacific
+__First Undergraduate__ research intern ever selected by the Tencent Rhino-Bird Talent Cultivation Program
+__First Prize__ in the 2018 China Mathematical COntest in Modeling, as the top 0.16% out of 120,000 participants
+__Chinese Representative__ invited by the Harvard Model United Nations Conference in 2018
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Professional experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Sep 2020 - Present: Assistant Researcher, Microsoft Research Asia
+* Propose a unified structure-aware pre-training architecture for generally structured tables
+
+Feb 2020 - Aug 2020: Research & Development Intern, Microsoft Research Asia
+* Pre-training on large-scale spreadsheet data towards table intelligence foundation in Microsoft Excel
+
+Sep 2019 - Jan 2020: Machine Learning Engineer Intern, Tencent
+* Devise a self-distilling pre-training model with adaptive inference time
+* Upgrade corpus quality by dig into Emoji pre-processing
+
+Jun 2019 - Aug 2019: Research Intern, Tencent AI Lab
+* Inject domain knowledge into models using soft position and visible matrix
+
+May 2018 - May 2019: Undergradute Research Program Leader, State Key Laboratory of Cognitive NeuroScience and Learning
+* Inspect visual pathways connecting eyes to brain using machine learning algorithms
   
-Teaching
+Technical Expertise
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Python, C, PyTorch, Tensorflow, Matlab, Latex, Linux, MySQL, Stata, R
+
+Leadership & Interests
 ======
-* Currently signed in to 43 different slack teams
+Black Belt in Taekwondo, six-year violin player, Campus Charity Marathon organizer
