@@ -16,7 +16,7 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 
 ### Lucy Howell
 
-<img align="right" src='/images/lucyhowell.png' height='10'> Lucy is working towards a Masters in Antarctic Studies and is developing an environmental DNA pipeline that can be used 'on the ice' in Antarctica. At the moment she is focused on extracting Weddell seal DNA from snow samples. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/).
+<img align="left" src='/images/lucyhowell.png' height='10'> Lucy is working towards a Masters in Antarctic Studies and is developing an environmental DNA pipeline that can be used 'on the ice' in Antarctica. At the moment she is focused on extracting Weddell seal DNA from snow samples. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/).
 
 ### Micaela Pullen
 
@@ -24,7 +24,7 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 
 ### Fleur van Eyndhoven
 
-<img align="right" src='/images/fleurvaneyndhoven.jpg' height='50'> Fleur is working towards a Master of Science in biological sciences looking at sexual selection in the wide-bodied pipefish, <i>Stigmatopora nigra</i>. She is interested in animal behaviour and how individuals interact with each other. 
+<img align="left" src='/images/fleurvaneyndhoven.jpg' height='50'> Fleur is working towards a Master of Science in biological sciences looking at sexual selection in the wide-bodied pipefish, <i>Stigmatopora nigra</i>. She is interested in animal behaviour and how individuals interact with each other. 
 
 
 
