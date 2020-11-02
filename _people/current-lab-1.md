@@ -24,7 +24,7 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 
 ### Fleur van Eyndhoven
 
-<img align="right" src='/images/fleurvaneyndhoven.png' height='10'> Fleur is working towards a Master of Science in biological sciences looking at sexual selection in the wide-bodied pipefish, Stigmatopora nigra. She is interested in animal behaviour and how individuals interact with each other. 
+<img align="right" src='/images/fleurvaneyndhoven.jpg' height='100'> Fleur is working towards a Master of Science in biological sciences looking at sexual selection in the wide-bodied pipefish, <i>Stigmatopora nigra</i>. She is interested in animal behaviour and how individuals interact with each other. 
 
 
 
