@@ -136,3 +136,11 @@ You can download the [python script for BigQuery demo here](https://yongjunzhang
 
 You can download the [Slides here](https://yongjunzhang.com/files/tutorial/Lecture10.pdf). 
 You can download the [python script ](https://yongjunzhang.com/files/tutorial/Lab10.py) and [ipython file](https://yongjunzhang.com/files/tutorial/Lab10.ipynb) here. 
+
+
+### Week 11
+
+#### Mini-lecture:
+
+You can download the [Slides here](https://yongjunzhang.com/files/tutorial/Lecture11.pdf). 
+
