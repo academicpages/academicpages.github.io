@@ -19,15 +19,15 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <img align="right" src='/images/lucyhowell.png' width="40%" height="40%"> Lucy is working towards a Masters in Antarctic Studies and is developing an environmental DNA pipeline that can be used 'on the ice' in Antarctica. At the moment she is focused on extracting Weddell seal DNA from snow samples. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/).
 
 
-
-
+\
+\
 
 ### Micaela Pullen
 
 <img align="left" src='/images/MicaelaPullen.jpg' height='100' width='133'> Micaela is a masters of science student working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
 
-
-
+\
+\
 
 
 ### Fleur van Eyndhoven
