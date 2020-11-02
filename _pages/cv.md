@@ -9,13 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+Click [[CV]](https://drive.google.com/file/d/1TIoXVZtJ9JcCLrL6k2ANGfwvG4M2gy6g/view?usp=sharing) to view my latest cv.
 
 Education
 ======
-* M.S. in Artificial Intelligence & Innovation, Language Technology Institute, School of Computer Science, Aug 2021 - May 2023 (expected)
-* B.S. in Mathematics & Applied Mathematics, Beijing Normal University, Sep 2016 - Jun 2020
-* Exchange Student, Chinese University of Hong Kong, Jan 2019 - May 2019
-* Summer Course, College of William & Mary, Jul 2017 - Aug 2017
+### M.S. in Artificial Intelligence & Innovation (Aug 2021 - May 2023, expected)
+Language Technology Institute, School of Computer Science, __Carnegie Mellon University__
+
+### B.S. in Mathematics & Applied Mathematics (Sep 2016 - Jun 2020)
+School of Mathematical Science, __Beijing Normal University__
+
+### Exchange Student (Jan 2019 - May 2019)
+International Asia Studies Program, __Chinese University of Hong Kong__
+
+### Summer Course (Jul 2017 - Aug 2017)
+School of Economics, __College of William & Mary__
+
+
+
 
 Selected Honors & Awards
 ======
