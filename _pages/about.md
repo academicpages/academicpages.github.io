@@ -33,6 +33,7 @@ ISRR 2019, Hanoi, Vietnam
 **Imitation Learning with Pixel-Wise Robotic End Effector Action Parametrization**  
 M.S. Thesis. November 2019.  
 Khoury College of Computer Sciences, Northeastern University, Boston, USA  
+[(PDF)]({{ site.url }}/files/Master Thesis.pdf)
 
 **Playing Gomoku with Deep Reinforcement Learning**  
 B.Eng. Thesis. May 2017.  
