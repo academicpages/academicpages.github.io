@@ -18,6 +18,10 @@ I am currently also working on a project mapping and predicting social distancin
 [Click Here to See Data Visualization for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
 
+### Other Statement
+
+Recently I reviewed a paper and accidentally posted "comments to the editor" to the column of "comments to the authors" and revealed review 2 identity. What a 2020! This should never happen. I have asked the editor to send my review comments to the author(s) that might be useful for future revision. If you were the author(s), my appologies.
+
 ### Call for Papers
 
 **I am serving as a guest editor for Chinese Sociological Review on a special issue about Computational Social Science in Chinese Societies.**
