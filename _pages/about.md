@@ -17,7 +17,9 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 # Publication
 ## Preprint
-![](images/scooter.png){: .align-right width="200px"}
+<div style="text-align:right">
+	<iframe width="200" src="https://www.youtube.com/embed/ZimZlsJTaTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 **Towards Assistive Robotic Pick and Place in Open World Environments**  
 Dian Wang, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
 Accepted at ISRR 2019  
