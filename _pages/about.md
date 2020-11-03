@@ -17,6 +17,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 # Publication
 ## Preprint
+![](images/asrse3.png){: .align-right width="200px"}
 **Policy learning in SE (3) action spaces**  
 Dian Wang, Colin Kohler, Robert Platt  
 Accepted at CoRL 2020  
