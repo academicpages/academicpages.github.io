@@ -13,16 +13,20 @@ experience in microbiome science, microbiology, antibiotic resistance,
 statistics, computing, and mathematical modeling. I have developed skill sets
 in facilitation, technical communication, and project management.
 
-I am a part-time research analyst in the [Center for Public Health Preparedness
-and Resilience](https://www.cna.org/centers/ipr/phpr/) in the [Institute for
-Public Research](https://www.cna.org/centers/ipr/) at
+I am a part-time Research Analyst in the [Center for Public Health
+Preparedness and Resilience](https://www.cna.org/centers/ipr/phpr/) in the
+[Institute for Public Research](https://www.cna.org/centers/ipr/) at
 [CNA](https://www.cna.org/). CNA is a nonprofit research institute that
-provides objective analysis to federal, state, and local government.
+provides objective analysis to federal, state, and local government. At CNA,
+my work has focused on advising city and state public health officials,
+especially on their **COVID-19** responses.
 
 I also work as an independent scientific consultant for
 [OpenBiome](http://www.openbiome.org) and as an independent epidemiological
 consultant with Dr. [Yonatan
-Grad](https://www.hsph.harvard.edu/yonatan-grad/).
+Grad](https://www.hsph.harvard.edu/yonatan-grad/). I co-designed a model used
+to inform the design of the **National Basketball Association's "bubble"**
+for the 2020 play-offs.
 
 ## Background
 
