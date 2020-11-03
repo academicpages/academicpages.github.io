@@ -17,6 +17,12 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 # Publication
 ## Preprint
+**Policy learning in SE (3) action spaces**  
+Dian Wang, Colin Kohler, Robert Platt  
+Accepted at CoRL 2020  
+[(PDF)](https://arxiv.org/pdf/2010.02798.pdf)[(Page)](https://pointw.github.io/asrse3-page/)[(Video)](https://youtu.be/FiHoIF1oLZs)
+
+## Conference
 ![](images/scooter.png){: .align-right width="200px"}
 **Towards Assistive Robotic Pick and Place in Open World Environments**  
 Dian Wang, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
@@ -24,6 +30,10 @@ ISRR 2019, Hanoi, Vietnam
 [(PDF)](https://arxiv.org/pdf/1809.09541.pdf)[(Page)](https://pointw.github.io/scooter-page/)[(Video)](https://www.youtube.com/watch?v=ZimZlsJTaTU)
 
 ## Thesis
+**Imitation Learning with Pixel-Wise Robotic End Effector Action Parametrization**  
+M.S. Thesis. November 2019.  
+Khoury College of Computer Sciences, Northeastern University, Boston, USA  
+
 **Playing Gomoku with Deep Reinforcement Learning**  
 B.Eng. Thesis. May 2017.  
 Department of Computer Science, Sichuan University, Chengdu, China  
