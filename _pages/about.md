@@ -20,7 +20,7 @@ to design better languages and tools for computer networks.
 <ul>
 {% for item in site.data.news %}
 {% if item.type == "acceptance" %}
-<li>[{{item.month}} {{item.year}}] <b>{{ item.name }}</b> accepted to <a href="{{ item.conference_url }}">{{ item.conference }}</a> </li>
+<li>[{{item.month}} {{item.year}}] <b>{{ item.name }}</b> accepted to <a href="{{ item.conference_url }}">{{ item.conference }}</a>.</li>
 {% endif %}
 {% endfor %}
 </ul>
