@@ -1,6 +1,7 @@
 # Develop override settings
 
 url: http://localhost:4000
+baseurl: ""
 
 analytics:
   provider: false

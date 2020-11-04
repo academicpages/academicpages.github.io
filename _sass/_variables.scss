@@ -6,7 +6,9 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+$doc-font-size              : 14;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -14,7 +16,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Source Sans Pro", -apple-system, "Open Sans", "Helvetica", "Arial", sans-serif; //-apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -47,11 +49,11 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #222222;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$lighter-gray               : #f7f7f7;
 
 $body-color                 : #fff;
 $background-color           : #fff;
@@ -87,15 +89,15 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+$cornell-red-color          : #b31b1b;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $cornell-red-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-
+$masthead-link-color        : mix(#fff, $cornell-red-color, 85%);
+$masthead-link-color-hover  : #fff;
 
 /*
    Breakpoints

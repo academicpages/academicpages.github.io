@@ -1,0 +1,13 @@
+# News
+- type: acceptance
+  year: 2020
+  month: October
+  name: "Petr4"
+  conference: "POPL 2021"
+  conference_url: "https://popl21.sigplan.org/"
+- type: acceptance
+  name: "Packet Subscriptions"
+  conference: "CoNEXT 2020"
+  conference_url: "https://conferences2.sigcomm.org/co-next/2020/"
+  year: 2020
+  month: September

@@ -1,0 +1,26 @@
+{% assign all_authors = "" %}
+{% for author in paper.author %}
+  {% if forloop.first != true %}
+    {% assign all_authors = all_authors | append:", " %}
+    {% if forloop.last %}
+       {% assign all_authors = all_authors | append:"and " %}
+    {% endif %}
+  {% endif %}  
+  {% assign all_authors = all_authors | append:author.first %}
+  {% if author.middle %}
+  {% assign all_authors = all_authors | append:" " | append:author.middle %}
+  {% endif %}
+  {% assign all_authors = all_authors | append:" " | append:author.last %}
+{% endfor %}
+
+<li class="paper">
+  <span class="title">
+    <b>{{ paper.title }}</b>
+  </span>
+  <span class="authors">
+    {{ all_authors }}.
+  </span>
+  <span class="venue">
+  In {{ paper.venue }} {{ paper.year }}.
+  </span>
+</li>

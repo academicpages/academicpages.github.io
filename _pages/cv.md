@@ -4,56 +4,52 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv.html
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Computer Science, Williams College, 2001
+* MPhil in History and Philosophy of Science and Medicine, University of Cambridge, 2008
+* PhD in Computer and Information Science, University of Pennsylvania, 2009
 
-Work experience
+Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016--present, Associate Professor, Cornell University
+* 2016--present, Principal Research Engineer, Barefoot Networks
+* 2016--2017, Visiting Assistant Professor, Stanford University
+* 2010--2016, Assistant Professor, Cornell University
+* 2009--2010, Postdoctoral Researcher, Princeton University
   
-Skills
+Awards &amp; Fellowships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018 ACM SIGCOMM Rising Star Award
+* 2013 National Science Foundation CAREER Award
+* 2012 Alfred P. Sloan Fellowship
+* 2004 National Science Foundation Graduate Research Fellowship
+* 2001 Herschel Smith Fellowship
+
+Paper Awards
+=======
+* 2020 Distinguished Paper Award, ACM SIGPLAN POPL 
+* 2019 Best Student Paper Award, ACM SIGCOMM
+* 2018 Best Paper Award, USENIX NSDI
+* 2016 ACM SIGPLAN Research Highlight
+* 2015 Most Influential Paper, ACM SIGPLAN POPL
+* 2013 Community Award, USENIX NSDI
+
+Teaching Awards
+=======
+* 2018 James and Mary Tien Teaching Award, College of Engineering, Cornell University
+* 2013 Michael Tien '72 Teaching Award, College of Engineering, Cornell University
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>
+{% for paper in site.data.publications %}
+{% include publication-cv.html %}
+{% endfor %}
+</ul>
+ 

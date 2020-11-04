@@ -468,3 +468,88 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
+
+a.news_link.award::before {
+    font-family: "FontAwesome";
+    content: "\f091\00a0";
+}
+
+a.file_link.artifact::before {
+    font-family: "FontAwesome";
+    content: "\f120\00a0\00a0";
+}
+
+a.file_link.blog::before {
+    font-family: "FontAwesome";
+    content: "\f143\00a0\00a0";
+}
+
+a.file_link.code::before {
+    font-family: "FontAwesome";
+    content: "\f09b\00a0\00a0";
+}
+
+a.file_link.paper::before {
+    font-family: "FontAwesome";
+    content: "\f1c1\00a0\00a0";
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.file_link.poster::before {
+    font-family: "FontAwesome";
+    content: "\f1c5\00a0\00a0";
+}
+
+a.file_link.slides::before {
+    font-family: "FontAwesome";
+    content: "\f24d\00a0\00a0";
+}
+
+a.file_link.talk::before {
+    font-family: "FontAwesome";
+    content: "\f03d\00a0\00a0";
+}
+
+a.file_link.webpage::before {
+    font-family: "FontAwesome";
+    content: "\f08e\00a0\00a0";
+}
+
+a.file_link.award {
+    pointer-events: none;
+    cursor: default;
+    color: #8c1010;
+}
+
+a.file_link.award::before {
+    font-family: "FontAwesome";
+    content: "\f091\00a0\00a0";
+}
+
+a.file_link.paper {
+//  text-decoration:none;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.box-6 {
+  grid-column: span 6;
+  margin: 10px;
+  padding: 1em;
+  border: 1px solid $darker-gray;
+  border-radius: 10px;
+}
+
+.box-6 p {
+  text-align: center;
+}
+
+.box-6 img { 
+  width:100px;
+  display:block;
+  margin: 0 auto;
+}

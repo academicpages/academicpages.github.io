@@ -1,0 +1,1688 @@
+-
+    type: "conference"
+    title: "Petr4: Formal Foundations for P4 Data Planes"
+    venue: "PACM (POPL)"
+    month: "January"
+    year: "2021"
+    url: "BASE/papers/petr4.pdf"
+    author:
+    -   first: Ryan            
+        last: Doenges         
+    -   first: Mina 
+        middle: Tahmasbi   
+        last: Arashloo        
+    -   first: Santiago        
+        last: Bautista        
+    -   first: Alexander       
+        last: Chang           
+    -   first: Newton          
+        last: Ni              
+    -   first: Samwise         
+        last: Parkinson       
+    -   first: Rudy            
+        last: Peterson        
+    -   first: Alaia           
+        last: Solko-Breslin   
+    -   first: Amanda          
+        last: Xu              
+    -   first: Nate            
+        last: Foster          
+- 
+    type: "conference"
+    title: 'Forwarding and Routing with Packet Subscriptions'
+    venue: 'CoNEXT'
+    month: December
+    year: '2020'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/packet-subscriptions.pdf
+    author:
+    -   first: Theo
+        last: Jepsen
+    -   first: Ali
+        last: Fattaholmanan
+    -   first: Masoud
+        last: Moshref
+    -   first: Nate
+        last: Foster
+    -   first: Antonio
+        last: Carzaniga
+    -   first: Robert
+        last: Soule
+- 
+    type: 'conference'
+    title: 'Composing Dataplane Programs with μP4'
+    venue: 'SIGCOMM'
+    month: August
+    year: '2020'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/microp4.pdf
+    author:
+    -   first: Hardik
+        last: Soni
+    -   first: Myriana
+        last: Rifai
+    -   first: Praveen
+        last: Kumar
+    -   first: Ryan
+        last: Doenges
+    -   first: Nate
+        last: Foster
+-
+    type: "journal"
+    title: 'Guarded Kleene Algebra with Tests: Verification of Uninterpreted Programs in Nearly Linear Time'
+    venue: "PACMPL (POPL)"
+    volume: '4'
+    number: 'POPL'
+    articleno: '61'
+    month: January
+    year: '2020'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/gkat.pdf
+    award: 'Distinguished paper award'
+    author:
+    -   first: Steffen
+        last: Smolka
+    -   first: Nate
+        last: Foster
+    -   first: Justin
+        last: Hsu
+    -   first: Tobias
+        last: Kappé
+    -   first: Dexter
+        last: Kozen
+    -   first: Alexandra
+        last: Silva
+-
+    type: "conference"
+    title: "Proof Carrying Network Code"
+    venue: "CCS"
+    pages: 1115--1129
+    month: November
+    year: '2019'
+    jnf: 'yes'
+    recent: 'yes'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/pcnc.pdf
+    author:
+    -   first: Christian
+        last: Skalka
+    -   first: John
+        last: Ring
+    -   first: David
+        last: Darias
+    -   first: Minseok
+        last: Kwon
+    -   first: Sahil
+        last: Gupta
+    -   first: Kyle
+        last: Diller
+    -   first: Steffen
+        last: Smolka
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'Ancile: Enhancing Privacy for Ubiquitous Computing with Use-Based Privacy'
+    venue: "WPES"
+    pages: 111-124
+    month: November
+    year: '2019'
+    jnf: 'yes'
+    recent: 'yes'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/ancile.pdf
+    author:
+    -   first: Eugene
+        last: Bagdasaryan
+    -   first: Griffin
+        last: Berlstein
+    -   first: Jason
+        last: Waterman
+    -   first: Eleanor
+        last: Birrell
+    -   first: Nate
+        last: Foster
+    -   first: Fred
+        middle: B.
+        last: Schneider
+    -   first: Deborah
+        last: Estrin
+-
+    type: 'conference'
+    venue: 'ECOOP'
+    title: 'How to Avoid Making a Billion-Dollar Mistake: Type-Safe Data Plane Programming with SafeP4'
+    pages: 12:1--12:28
+    month: July
+    year: '2019'
+    jnf: 'yes'
+    recent: 'yes'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/safep4.pdf
+    author:
+    -   first: Matthias
+        last: Eichholz
+    -   first: Eric
+        last: Campbell
+    -   first: Nate
+        last: Foster
+    -   first: Guido
+        last: Salvaneschi
+    -   first: Mira
+        last: Mezini
+-
+    type: 'conference'
+    title: 'TxForest: A DSL for Concurrent Data Stores'
+    venue: 'APLAS'
+    pages: 332--354
+    month: December
+    year: '2019'
+    jnf: 'yes'
+    recent: 'yes'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/txforest.pdf
+    author:
+    -   first: Jonathan
+        last: DiLorenzo
+    -   first: Kathryn
+        last: Mancini
+    -   first: Kathleen
+        last: Fisher
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'PicNIC: Predictable Virtualized NIC'
+    year: '2019'
+    month: August
+    venue: 'SIGCOMM'
+    pages: 351-–366
+    jnf: 'yes'
+    recent: 'yes'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/picnic.pdf
+    award: 'Best student paper award'
+    author:
+    -   first: Praveen
+        last: Kumar
+    -   first: Nandita
+        last: Dukkipati
+    -   first: Nathan
+        last: Lewis
+    -   first: Yi
+        last: Cui
+    -   first: Yaogong
+        last: Wang
+    -   first: Chonggang
+        last: Li
+    -   first: Valas
+        last: Valancius
+    -   first: Jake
+        last: Adriaens
+    -   first: Steve
+        last: Gribble
+    -   first: Nate
+        last: Foster
+    -   first: Amin
+        last: Vahdat
+-
+    type: 'conference'
+    title: 'Scalable Verification of Probabilistic Networks'
+    venue: 'PLDI'
+    year: '2019'
+    month: June
+    jnf: 'yes'
+    recent: 'yes'
+    url: https://www.cs.cornell.edu/~jnfoster/papers/mcnetkat.pdf
+    author:
+    -   first: Steffen
+        last: Smolka
+    -   first: Praveen
+        last: Kumar
+    -   first: Nate
+        last: Foster
+    -   first: Justin
+        last: Hsu
+    -   first: Dexter
+        last: Kozen
+    -   first: Alexandra
+        last: Silva
+-
+    type: 'conference'
+    title: 'Efficient, Consistent Distributed Computation with Predictive Treaties'
+    venue: 'EuroSys'
+    month: March
+    year: '2019'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/predictive-treaties.pdf
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    -   first: Tom
+        last: Magrino
+    -   first: Jed
+        last: Liu
+    -   first: Nate
+        last: Foster
+    -   first: Johannes
+        last: Gehrke
+    -   first: Andrew
+        middle: C.
+        last: Myers
+-
+    type: 'conference'
+    title: 'Packet Subscriptions for Programmable ASICs'
+    venue: 'HotNets'
+    pages: 176--183
+    year: '2018'
+    month: November
+    url: http://www.cs.cornell.edu/~jnfoster/papers/packet-subscriptions.pdf
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    -   first: Theo
+        last: Jepsen
+    -   first: Masoud
+        last: Moshref
+    -   first: Antonio
+        last: Carzaniga
+    -   first: Nate
+        last: Foster
+    -   first: Robert
+        last: Soule
+-
+    type: 'conference'
+    title: 'p4v: Practical Verification for Programmable Data Planes'
+    venue: 'SIGCOMM'
+    year: '2018'
+    pages: 490--503
+    month: August
+    url: http://www.cs.cornell.edu/~jnfoster/papers/p4v.pdf
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    -   first: Jed
+        last: Liu
+    -   first: William
+        last: Hallahan
+    -   first: Cole
+        last: Schlesinger
+    -   first: Milad
+        last: Sharif
+    -   first: Jeongkeun
+        last: Lee
+    -   first: Robert
+        last: Soule
+    -   first: Han
+        last: Wang
+    -   first: Cualin
+        last: Cacscaval
+    -   first: Nick
+        last: McKeown
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'Life in the Fast Lane: A Line-Rate Linear Road'
+    venue: SOSR
+    year: '2018'
+    month: March
+    url: http://www.cs.cornell.edu/~jnfoster/papers/linear-road.pdf
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    -   first: Theo
+        last: Jepsen
+    -   first: Masoud
+        last: Moshref
+    -   first: Antonio
+        last: Carzaniga
+    -   first: Nate
+        last: Foster
+    -   first: Robert
+        last: Soule
+-
+    type: 'conference'
+    title: 'YATES: Rapid Prototyping for Traffic Engineering Systems'
+    venue: SOSR
+    year: '2018'
+    month: March
+    url: http://www.cs.cornell.edu/~jnfoster/papers/yates.pdf
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    -   first: Praveen
+        last: Kumar
+    -   first: Chris
+        last: Yu
+    -   first: Yang
+        last: Yuan
+    -   first: Nate
+        last: Foster
+    -   first: Robert
+        last: Kleinberg
+    -   first: Robert
+        last: Soule
+-
+    type: 'conference'
+    title: 'Semi-Oblivious Traffic Engineering: The Road Not Taken'
+    venue: 'NSDI'
+    year: '2018'
+    month: April
+    url: http://www.cs.cornell.edu/~jnfoster/papers/smore.pdf
+    blog: https://research.fb.com/robust-and-efficient-traffic-engineering-with-oblivious-routing/
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    -   first: Praveen
+        last: Kumar
+    -   first: Yang
+        last: Yuan
+    -   first: Chris
+        last: Yu
+    -   first: Nate
+        last: Foster
+    -   first: Robert
+        last: Kleinberg
+    -   first: Petr
+        last: Lapukhov
+    -   first: Chiun
+        middle: Lin
+        last: Lim
+    -   first: Robert
+        last: Soule
+-
+    type: 'conference'
+    title: 'NetChain: Scale-Free Sub-RTT Coordination'
+    venue: 'NSDI'
+    year: '2018'
+    month: April
+    url: http://www.cs.cornell.edu/~jnfoster/papers/netchain.pdf
+    note: '&#127942; Best paper.'
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    -   first: Xin
+        last: Jin
+    -   first: Xiaozhou
+        last: Li
+    -   first: Haoyu
+        last: Zhang
+    -   first: Nate
+        last: Foster
+    -   first: Jeongkeun
+        last: Lee
+    -   first: Robert
+        last: Soule
+    -   first: Changhoon
+        last: Kim
+    -   first: Ion
+        last: Stoica
+-
+    type: 'conference'
+    title: 'NetCache: Balancing Key-Value Stores with Fast In-Network Caching'
+    venue: SOSP
+    year: '2017'
+    month: October
+    pages: 121--136
+    url: http://www.cs.cornell.edu/~jnfoster/papers/netcache.pdf
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    -   first: Xin
+        last: Jin
+    -   first: Xiaozhou
+        last: Li
+    -   first: Haoyu
+        last: Zhang
+    -   first: Robert
+        last: Soule
+    -   first: Jeongkeun
+        last: Lee
+    -   first: Nate
+        last: Foster
+    -   first: Changhoon
+        last: Kim
+    -   first: Ion
+        last: Stoica
+-
+    type: 'conference'
+    title: 'Life on the Edge: Unraveling Policies into Configurations'
+    venue: ANCS
+    month: May
+    year: '2017'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/edgewise.pdf
+    jnf: 'yes'
+    author:
+    -   first: Shrutarshi
+        last: Basu
+    -   first: Nate
+        last: Foster
+    -   first: Hossein
+        last: Hojjat
+    -   first: Paparao
+        last: Palacharla
+    -   first: Christian
+        last: Skalka
+    -   first: Xi
+        last: Wang
+-
+    type: 'conference'
+    title: 'P4FPGA: A Rapid Prototyping Framework for P4'
+    venue: SOSR
+    month: April
+    year: '2017'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/p4fpga.pdf
+    jnf: 'yes'
+    author:
+    -   first: Han
+        last: Wang
+    -   first: Robert
+        last: Soulé
+    -   first: Huynh
+        middle: Tu
+        last: Dang
+    -   first: Ki
+        middle: Suh
+        last: Lee
+    -   first: Vishal
+        last: Shrivastav
+    -   first: Nate
+        last: Foster
+    -   first: Hakim
+        last: Weatherspoon
+-
+    type: 'conference'
+    title: 'Cantor Meets Scott: Semantic Foundations for Probabilistic Networks'
+    venue: 'POPL'
+    month: January
+    year: '2017'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/cantor-scott.pdf
+    jnf: 'yes'
+    author:
+    -   first: Steffen
+        last: Smolka
+    -   first: Praveen
+        last: Kumar
+    -   first: Nate
+        last: Foster
+    -   first: Dexter
+        last: Kozen
+    -   first: Alexandra
+        last: Silva
+-
+    type: 'conference'
+    title: 'Incremental Forest: A DSL for Efficiently Managing Filestores'
+    venue: 'ACM SIGPLAN Conference on Object-Oriented Programming Languages, Systems, and Applications (OOPSLA), Amsterdam, Netherlands'
+    month: October
+    year: '2016'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/incremental-forest.pdf
+    jnf: 'yes'
+    author:
+    -   first: Jonathan
+        last: DiLorenzo
+    -   first: Richard
+        last: Zhang
+    -   first: Erin
+        last: Menzies
+    -   first: Kathleen
+        last: Fisher
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'Optimizing Horn Solvers for Network Repair'
+    month: October
+    year: '2016'
+    venue: FMCAD
+    url: http://www.cs.cornell.edu/~jnfoster/papers/optimal-repair.pdf
+    jnf: 'yes'
+    author:
+    -   first: Hossein
+        last: Hojjat
+    -   first: Phillip
+        last: Reummer
+    -   first: Jedidiah
+        last: McClurg
+    -   first: Pavol
+        last: Cerny
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'Consistent Network Updates in Polynomial Time'
+    venue: DISC
+    month: September
+    year: '2016'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/optimal-updates.pdf
+    jnf: 'yes'
+    author:
+    -   first: Pavol
+        last: Cerny
+    -   first: Nate
+        last: Foster
+    -   first: Nilesh
+        last: Jagnik
+    -   first: Jedidiah
+        last: McClurg
+-
+    type: 'conference'
+    title: 'Event-Driven Network Programming'
+    venue: 'PLDI'
+    month: June
+    year: '2016'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-event-driven-pldi16.pdf
+    author:
+    -   first: Jedidiah
+        last: McClurg
+    -   first: Hossein
+        last: Hojjat
+    -   first: Nate
+        last: Foster
+    -   first: Pavol
+        last: Cerny
+-
+    type: 'conference'
+    title: 'Safe and Flexible Controller Upgrades for SDNs'
+    venue: SOSR
+    month: March
+    year: '2016'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-morpheus-sosr16.pdf
+    author:
+    -   first: Karla
+        last: Saur
+    -   first: Joseph
+        last: Collard
+    -   first: Nate
+        last: Foster
+    -   first: Arjun
+        last: Guha
+    -   first: Laurent
+        last: Vanbever
+    -   first: Michael
+        last: Hicks
+-
+    type: 'conference'
+    title: 'Felix: Implementing Traffic Measurement on End Hosts Using Program Analysis'
+    venue: SOSR
+    month: March
+    year: '2016'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-felix-sosr16.pdf
+    author:
+    -   first: Haoxian
+        last: Chen
+    -   first: Nate
+        last: Foster
+    -   first: Jake
+        last: Silverman
+    -   first: Michael
+        last: Whittaker
+    -   first: Brandon
+        last: Zhang
+    -   first: Rene
+        last: Zhang
+-
+    type: 'conference'
+    title: 'Probabilistic NetKAT'
+    venue: ESOP
+    month: April
+    year: '2016'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/probnetkat.pdf
+    author:
+    -   first: Nate
+        last: Foster
+    -   first: Dexter
+        last: Kozen
+    -   first: Konstantinos
+        last: Mamouras
+    -   first: Mark
+        last: Reitblatt
+    -   first: Alexandra
+        last: Silva
+-
+    type: 'journal'
+    title: 'Formal Foundations for Networking (Dagstuhl Seminar 15071)'
+    pages: 44--63
+    venue: Dagstuhl Reports
+    issn: 2192-5283
+    year: '2015'
+    volume: '5'
+    number: '2'
+    publisher: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik
+    address: Dagstuhl, Germany
+    url: http://drops.dagstuhl.de/opus/volltexte/2015/5044
+    urn: urn:nbn:de:0030-drops-50440
+    doi: http://dx.doi.org/10.4230/DagRep.5.2.44
+    annote: 'Keywords: Formal methods, logic, middleboxes, model checking, networking,
+        program synthesis, security, software-defined networking, verification'
+    jnf: 'yes'
+    author:
+    -   first: Nikolaj
+        last: Bjorner
+    -   first: Nate
+        last: Foster
+    -   first: Philip
+        middle: Brighten
+        last: Godfrey
+    -   first: Pamela
+        last: Zave
+    editor:
+    -   first: Nikolaj
+        last: Bjorner
+    -   first: Nate
+        last: Foster
+    -   first: Philip
+        middle: Brighten
+        last: Godfrey
+    -   first: Pamela
+        last: Zave
+-
+    type: 'conference'
+    title: 'A Fast Compiler for NetKAT'
+    venue: ICFP
+    month: September
+    year: '2015'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/netkat-compiler.pdf
+    note: 'SIGPLAN Research Highlight'
+    author:
+    -   first: Steffen
+        last: Smolka
+    -   first: Spiridon
+        last: Eliopoulos
+    -   first: Nate
+        last: Foster
+    -   first: Arjun
+        last: Guha
+-
+    type: 'conference'
+    title: 'The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis'
+    venue: 'SIGMOD'
+    year: '2015'
+    month: June
+    pages: 1311--1326
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/homeostasis.pdf
+    author:
+    -   first: Sudip
+        last: Roy
+    -   first: Lucja
+        last: Kot
+    -   first: Gabriel
+        last: Bender
+    -   first: Bailu
+        last: Ding
+    -   first: Hossein
+        last: Hojjat
+    -   first: Christoph
+        last: Koch
+    -   first: Nate
+        last: Foster
+    -   first: Johannes
+        last: Gehrke
+-
+    type: 'conference'
+    title: 'Efficient Synthesis of Network Updates'
+    venue: 'PLDI'
+    month: June
+    year: '2015'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-update-synthesis-pldi15.pdf
+    author:
+    -   first: Jedidiah
+        last: McClurg
+    -   first: Hossein
+        last: Hojjat
+    -   first: Pavol
+        last: Cerny
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'A Coalgebraic Decision Procedure for NetKAT'
+    venue: 'POPL'
+    month: January
+    year: '2015'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/netkat-automata.pdf
+    author:
+    -   first: Nate
+        last: Foster
+    -   first: Dexter
+        last: Kozen
+    -   first: Matthew
+        last: Milano
+    -   first: Alexandra
+        last: Silva
+    -   first: Laure
+        last: Thompson
+-
+    type: 'conference'
+    title: 'Merlin: A Language for Provisioning Network Resources'
+    venue: 'CoNEXT'
+    month: December
+    year: '2014'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/merlin.pdf
+    author:
+    -   first: Robert
+        last: Soul'e
+    -   first: Shrutarshi
+        last: Basu
+    -   first: Parisa
+        middle: Jalili
+        last: Marandi
+    -   first: Fernando
+        last: Pedone
+    -   first: Robert
+        last: Kleinberg
+    -   first: Emin
+        middle: Gun
+        last: Sirer
+    -   first: Nate
+        last: Foster
+-
+    type: 'journal'
+    title: 'Abstractions for Software-Defined Networks'
+    venue: CACM
+    volume: '57'
+    number: '10'
+    month: October
+    year: '2014'
+    pages: 86--95
+    jnf: 'yes'
+    full: http://www.cs.cornell.edu/~jnfoster/papers/sdn-abstractions.pdf
+    author:
+    -   first: Martin
+        last: Casado
+    -   first: Nate
+        last: Foster
+    -   first: Arjun
+        last: Guha
+-
+    type: 'conference'
+    title: 'NetKAT: Semantic Foundations for Networks'
+    venue: 'POPL'
+    year: '2014'
+    month: January
+    note: To appear.
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-netkat.pdf
+    tr: http://hdl.handle.net/1813/34445
+    author:
+    -   first: Carolyn
+        middle: Jane
+        last: Anderson
+    -   first: Nate
+        last: Foster
+    -   first: Arjun
+        last: Guha
+    -   first: Jean-Baptiste
+        last: Jeannin
+    -   first: Dexter
+        last: Kozen
+    -   first: Cole
+        last: Schlesinger
+    -   first: David
+        last: Walker
+-
+    type: 'conference'
+    title: 'Managing the Network with Merlin'
+    venue: HotNets
+    year: '2013'
+    month: November
+    note: To appear.
+    url: http://www.cs.cornell.edu/~jnfoster/papers/merlin-hotnets13.pdf
+    jnf: 'yes'
+    author:
+    -   first: Robert
+        last: Soule
+    -   first: Shrutarshi
+        last: Basu
+    -   first: Robert
+        last: Kleinberg
+    -   first: Emin
+        middle: Gun
+        last: Sirer
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'Toward Synthesis of Network Updates'
+    venue: 'SYNT Workshop'
+    year: '2013'
+    month: July
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-update-synthesis.pdf
+    jnf: 'yes'
+    author:
+    -   first: Andrew
+        last: Noyes
+    -   first: Todd
+        last: Warszawski
+    -   first: Pavol
+        last: Cerny
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'HotSwap: Correct and Efficient Controller Upgrades for Software-Defined Networks'
+    venue: 'HotSDN'
+    year: '2013'
+    month: August
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-hotswap.pdf
+    note: To appear.
+    jnf: 'yes'
+    author:
+    -   first: Laurent
+        last: Vanbever
+    -   first: Joshua
+        last: Reich
+    -   first: Theophilus
+        last: Benson
+    -   first: Nate
+        last: Foster
+    -   first: Jennifer
+        last: Rexford
+-
+    type: 'conference'
+    title: 'FatTire: Declarative Fault Tolerance for Software-Defined Networks'
+    venue: 'HotSDN'
+    year: '2013'
+    month: August
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-fattire.pdf
+    note: To appear.
+    jnf: 'yes'
+    author:
+    -   first: Mark
+        last: Reitblatt
+    -   first: Marco
+        last: Canini
+    -   first: Arjun
+        last: Guha
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'Machine-Verified Network Controllers'
+    venue: 'PLDI'
+    year: '2013'
+    month: June
+    url: http://www.cs.cornell.edu/~jnfoster/papers/verified-controllers-pldi13.pdf
+    note: To appear.
+    jnf: 'yes'
+    author:
+    -   first: Arjun
+        last: Guha
+    -   first: Mark
+        last: Reitblatt
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'Composing Software Defined Networks'
+    venue: 'NSDI'
+    year: '2013'
+    month: April
+    url: http://frenetic-lang.org/publications/composing-nsdi13.pdf
+    award: 'Community award'
+    author:
+    -   first: Christopher
+        last: Monsanto
+    -   first: Joshua
+        last: Reich
+    -   first: Nate
+        last: Foster
+    -   first: Jennifer
+        last: Rexford
+    -   first: David
+        last: Walker
+-
+    type: 'journal'
+    title: 'Languages for software-defined networks'
+    venue: IEEE Communications Magazine
+    volume: '51'
+    number: '2'
+    year: '2013'
+    pages: 128--134
+    official: http://dx.doi.org/10.1109/MCOM.2013.6461197
+    url: http://frenetic-lang.org/publications/overview-ieeecoms13.pdf
+    jnf: 'yes'
+    author:
+    -   first: Nate
+        last: Foster
+    -   first: Arjun
+        last: Guha
+    -   first: Mark
+        last: Reitblatt
+    -   first: Alec
+        last: Story
+    -   first: Michael
+        middle: J.
+        last: Freedman
+    -   first: Naga
+        middle: Praveen
+        last: Katta
+    -   first: Christopher
+        last: Monsanto
+    -   first: Joshua
+        last: Reich
+    -   first: Jennifer
+        last: Rexford
+    -   first: Cole
+        last: Schlesinger
+    -   first: David
+        last: Walker
+    -   first: Rob
+        last: Harrison
+-
+    type: 'conference'
+    title: 'Abstractions for Network Update'
+    venue: 'SIGCOMM'
+    pages: 323--334
+    month: August
+    year: '2012'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/consistent-updates-sigcomm12.pdf
+    author:
+    -   first: Mark
+        last: Reitblatt
+    -   first: Nate
+        last: Foster
+    -   first: Jennifer
+        last: Rexford
+    -   first: Cole
+        last: Schlesinger
+    -   first: David
+        last: Walker
+-
+    type: 'conference'
+    title: 'Splendid Isolation: A Slice Abstraction for Software-Defined Networks'
+    venue: 'HotSDN'
+    pages: 79--84
+    month: August
+    year: '2012'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/splendid-isolation-hotsdn12.pdf
+    author:
+    -   first: Stephen
+        last: Gutz
+    -   first: Alec
+        last: Story
+    -   first: Cole
+        last: Schlesinger
+    -   first: Nate
+        last: Foster
+-
+    type: 'conference'
+    title: 'Three Complementary Approaches to Bidirectional Programming'
+    venue: 'Spring School on Generic and Indexed Programming (SSGIP)'
+    month: May
+    year: '2012'
+    jnf: 'yes'
+    pages: 1--46
+    url: http://www.cs.cornell.edu/~jnfoster/papers/complementary-ssgip12.pdf
+    note: Invited paper.
+    author:
+    -   first: Nate
+        last: Foster
+    -   first: Kazutaka
+        last: Matsuda
+    -   first: Janis
+        last: Voigtlander
+-
+    type: 'conference'
+    venue: 'POPL'
+    month: January
+    title: 'A Compiler and Run-time System for Network Programs'
+    pages: 217--230
+    year: '2012'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/netcore-popl12.pdf
+    author:
+    -   first: Christopher
+        last: Monsanto
+    -   first: Nate
+        last: Foster
+    -   first: Rob
+        last: Harrison
+    -   first: David
+        last: Walker
+-
+    type: 'conference'
+    title: 'Specifying and Verifying the Correctness of Dynamic Software Updates'
+    venue: 'VSTTE'
+    pages: 278--293
+    volume: '7152'
+    series: Lecture Notes in Computer Science
+    publisher: Springer-Verlag
+    month: January
+    year: '2012'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/dsu-correct-vstte12.pdf
+    author:
+    -   first: Stephen
+        last: Magill
+    -   first: Christopher
+        middle: M.
+        last: Hayden
+    -   first: Michael
+        last: Hicks
+    -   first: Nate
+        last: Foster
+    -   first: Jeffrey
+        middle: S.
+        last: Foster
+-
+    type: 'conference'
+    title: 'Language Abstractions for Software-Defined Networks'
+    venue: 'LADA Workshop'
+    month: January
+    year: '2012'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-lada12.pdf
+    author:
+    -   first: Nate
+        last: Foster
+    -   first: Michael
+        middle: J.
+        last: Freedman
+    -   first: Rob
+        last: Harrison
+    -   first: Christopher
+        last: Monsanto
+    -   first: Mark
+        last: Reitblatt
+    -   first: Jennifer
+        last: Rexford
+    -   first: Alec
+        last: Story
+    -   first: David
+        last: Walker
+-
+    type: 'conference'
+    title: 'A Pairwise Abstraction for Round-Based Protocols'
+    venue: 'LADA Workshop'
+    month: January
+    year: '2012'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/cpg-lada12.pdf
+    author:
+    -   first: Lonnie
+        last: Princehouse
+    -   first: Nate
+        last: Foster
+    -   first: Ken
+        last: Birman
+-
+    type: 'conference'
+    title: 'Consistent Updates for Software-Defined Networks: Change You Can Believe In!'
+    venue: HotNets
+    pages: '7'
+    month: November
+    year: '2011'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/consistent-updates-hotnets11.pdf
+    author:
+    -   first: Mark
+        last: Reitblatt
+    -   first: Nate
+        last: Foster
+    -   first: Jennifer
+        last: Rexford
+    -   first: David
+        last: Walker
+-
+    type: 'conference'
+    title: 'Frenetic: A Network Programming Language'
+    venue: ICFP
+    pages: 279--291
+    month: September
+    year: '2011'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-icfp11.pdf
+    author:
+    -   first: Nate
+        last: Foster
+    -   first: Rob
+        last: Harrison
+    -   first: Michael
+        middle: J.
+        last: Freedman
+    -   first: Christopher
+        last: Monsanto
+    -   first: Jennifer
+        last: Rexford
+    -   first: Alec
+        last: Story
+    -   first: David
+        last: Walker
+-
+    type: 'conference'
+    title: 'Forest: A Language and Toolkit for Programming With Filestores'
+    venue: ICFP
+    pages: 292--306
+    month: September
+    year: '2011'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/forest-icfp11.pdf
+    author:
+    -   first: Kathleen
+        last: Fisher
+    -   first: Nate
+        last: Foster
+    -   first: David
+        last: Walker
+    -   first: Kenny
+        middle: Q.
+        last: Zhu
+-
+    type: 'conference'
+    title: 'Frenetic: A High-Level Langauge for OpenFlow Networks'
+    venue: 'PRESTO Workshop'
+    pages: '6'
+    year: '2010'
+    month: November
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-presto10.pdf
+    author:
+    -   first: Nate
+        last: Foster
+    -   first: Rob
+        last: Harrison
+    -   first: Matthew
+        middle: L.
+        last: Meola
+    -   first: Michael
+        middle: J.
+        last: Freedman
+    -   first: Jennifer
+        last: Rexford
+    -   first: David
+        last: Walker
+-
+    type: 'thesis'
+    title: 'Bidirectional Programming Languages'
+    venue: "PhD Dissertation, University of Pennsylvania"
+    year: '2009'
+    month: December
+    url: http://www.cs.cornell.edu/~jnfoster/papers/jnfoster-dissertation.pdf
+    book: http://www.lulu.com/content/paperback-book/bidirectional-programming-languages/8496560
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/jnfoster-dissertation-defense.pdf
+    author:
+    -   first: John
+        middle: Nathan
+        last: Foster
+-
+    type: 'conference'
+    title: 'Matching Lenses: Alignment and View Update'
+    venue: ICFP
+    pages: 193--204
+    year: '2010'
+    month: September
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/matching-lenses.pdf
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/matching-lenses-slides.pdf
+    author:
+    -   first: Davi
+        middle: M. J.
+        last: Barbosa
+    -   first: Julien
+        last: Cretin
+    -   first: Nate
+        last: Foster
+    -   first: Michael
+        last: Greenberg
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+-
+    type: 'conference'
+    title: 'Provenance: A Future History'
+    venue: 'Onward!'
+    pages: 957--964
+    month: October
+    year: '2009'
+    jnf: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/onward-provenance.pdf
+    author:
+    -   first: James
+        last: Cheney
+    -   first: Stephen
+        last: Chong
+    -   first: Nate
+        last: Foster
+    -   first: Margo
+        last: Seltzer
+    -   first: Stijn
+        last: Vansummeren
+-
+    type: 'conference'
+    title: 'Bidirectional Transformations: A Cross-Discipline Perspective. GRACE Meeting notes, state of the art, and outlook'
+    venue: 'ICMT'
+    month: June
+    year: '2009'
+    jnf: 'yes'
+    plclub: 'yes'
+    pages: 260--283
+    url: http://www.cs.cornell.edu/~jnfoster/papers/grace-report.pdf
+    note: Invited paper.
+    author:
+    -   first: Krzysztof
+        last: Czarnecki
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Zhenjiang
+        last: Hu
+    -   first: Ralf
+        last: Lammel
+    -   first: Andy
+        last: Schurr
+    -   first: James
+        middle: F.
+        last: Terwilliger
+-
+    type: 'conference'
+    title: 'Updatable Security Views'
+    venue: 'CSF'
+    month: July
+    year: '2009'
+    jnf: 'yes'
+    plclub: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/updatable-security-views.pdf
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/updatable-security-views-slides.pdf
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+    -   first: Steve
+        last: Zdancewic
+-
+    type: 'journal'
+    title: 'Provenance and Data Synchronization'
+    venue: IEEE Data Engineering Bulletin
+    month: December
+    year: '2007'
+    volume: '30'
+    number: '4'
+    pages: 13--21
+    note: Invited paper for special issue on provenance.
+    short: http://www.cs.cornell.edu/~jnfoster/papers/debull-jnfoster-gkarvoun.pdf
+    jnf: 'yes'
+    plclub: 'yes'
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Grigoris
+        last: Karvounarakis
+-
+    type: 'conference'
+    title: 'Annotated XML: Queries and Provenance'
+    venue: 'PODS'
+    month: June
+    year: '2008'
+    pages: 271--280
+    url: http://www.cs.cornell.edu/~jnfoster/papers/xml-provenance.pdf
+    jnf: 'yes'
+    plclub: 'yes'
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Todd
+        middle: J.
+        last: Green
+    -   first: Val
+        last: Tannen
+-
+    type: 'conference'
+    title: 'Boomerang: Resourceful Lenses for String Data'
+    venue: 'POPL'
+    month: January
+    year: '2008'
+    pages: 407--419
+    url: http://www.cs.cornell.edu/~jnfoster/papers/boomerang.pdf
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/boomerang-slides.pdf
+    tr: http://www.cs.cornell.edu/~jnfoster/papers/boomerang-tr.pdf
+    jnf: 'yes'
+    plclub: 'yes'
+    author:
+    -   first: Aaron
+        last: Bohannon
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+    -   first: Alexandre
+        last: Pilkiewicz
+    -   first: Alan
+        last: Schmitt
+-
+    type: 'conference'
+    title: 'Quotient Lenses'
+    venue: ICFP
+    month: September
+    year: '2008'
+    pages: 383--395
+    jnf: 'yes'
+    plclub: 'yes'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/quotient-lenses.pdf
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/quotient-lenses-slides.pdf
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Alexandre
+        last: Pilkiewcz
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+-
+    type: 'conference'
+    title: 'A Generic Programming Toolkit for PADS/ML: First-Class Upgrades for Third-Party Developers'
+    venue: 'PADL'
+    month: January
+    year: '2008'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/pads-first-class.pdf
+    pages: 133--149
+    jnf: 'yes'
+    plclub: 'yes'
+    author:
+    -   first: Mary
+        last: Fernandez
+    -   first: Kathleen
+        last: Fisher
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Michael
+        last: Greenberg
+    -   first: Yitzhak
+        last: Mandelbaum
+-
+    type: 'conference'
+    title: 'An Algebraic Approach to XQuery View Maintenance'
+    venue: 'PLAN-X'
+    month: January
+    year: '2008'
+    pages: '31'
+    short: http://www.cs.cornell.edu/~jnfoster/papers/xquery-maintenance.pdf
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/xquery-maintenance-slides.pdf
+    jnf: 'yes'
+    plclub: 'yes'
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Ravi
+        last: Konuru
+    -   first: Jerome
+        last: Simeon
+    -   first: Lionel
+        last: Villard
+-
+    type: 'conference'
+    title: 'A Logic Your Typechecker Can Count On: Unordered Tree Types in Practice'
+    venue: 'PLAN-X'
+    month: January
+    pages: 80--90
+    year: '2007'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/dtts.pdf
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/dtts-slides.pdf
+    jnf: 'yes'
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+    -   first: Alan
+        last: Schmitt
+-
+    type: 'misc'
+    title: 'Actions Louder Than Words? MSO-Definable Transductions'
+    month: November
+    year: '2006'
+    venue: Written Preliminary Exam II, UPenn CIS
+    jnf: 'yes'
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+-
+    type: 'software'
+    title: 'A Theory of Featherweight Java in Isabelle/HOL'
+    venue: Archive of Formal Proofs
+    month: April
+    year: '2006'
+    short: http://www.cs.cornell.edu/~jnfoster/papers/FJ-outline.pdf
+    url: http://www.cs.cornell.edu/~jnfoster/papers/FJ-document.pdf
+    sources: http://www.cs.cornell.edu/~jnfoster/papers/FJ.tar.gz
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Dimitrios
+        last: Vytiniotis
+    editor:
+    -   first: Gerwin
+        last: Klein
+    -   first: Tobias
+        last: Nipkow
+    -   first: Lawrence
+        last: Paulson
+-
+    type: 'software'
+    title: 'Harmony Programmer''s Manual'
+    url: http://www.seas.upenn.edu/~harmony/doc/manual.pdf
+    homepage: http://www.seas.upenn.edu/~harmony/
+    year: '2006'
+    jnf: 'yes'
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+    -   first: Alan
+        last: Schmitt
+-
+    type: 'software'
+    title: 'Boomerang Programmer''s Manual'
+    url: http://www.seas.upenn.edu/~harmony/manual.pdf
+    year: '2008'
+    mon: July
+    jnf: 'yes'
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+-
+    type: 'misc'
+    title: 'Harmony: A Generic Synchronization Framework for Heterogeneous, Replicated Data'
+    note: Poster at DB-IR Day.
+    month: October
+    year: '2005'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/dbir05-poster.pdf
+    jnf: 'yes'
+    keys: harmony
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+-
+    type: 'journal'
+    title: 'Exploiting Schemas in Data Synchronization'
+    venue: Journal of Computer and System Sciences
+    publisher: Elsevier
+    volume: '73'
+    number: '4'
+    month: June
+    year: '2007'
+    note: Short version in DBPL '05.
+    full: http://dx.doi.org/10.1016/j.jcss.2006.10.024
+    url: http://dx.doi.org/10.1007/11601524_3
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/schema-sync-slides.pdf
+    jnf: 'yes'
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Michael
+        middle: B.
+        last: Greenwald
+    -   first: Christian
+        last: Kirkegaard
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+    -   first: Alan
+        last: Schmitt
+-
+    type: 'misc'
+    title: 'Exploiting Schemas in Data Synchronization'
+    month: June
+    year: '2005'
+    note: Talk given at New England Programming Languages Symposium (NEPLS), Williamstown,
+        Massachusetts
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/nepls-schema-sync-slides.pdf
+    keys: harmony
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+-
+    type: 'misc'
+    title: 'Contexts, Boxes, and Names, Oh My!'
+    month: November
+    year: '2003'
+    note: Talk given at Williams College Department of Computer Science Colloquium,
+        Williamstown, Massachusetts
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+-
+    type: 'conference'
+    venue: 'TPHOLS'
+    title: 'Mechanized Metatheory for the Masses: The POPLmark Challenge'
+    month: August
+    year: '2005'
+    url: http://dx.doi.org/10.1007/11541868_4
+    jnf: 'yes'
+    author:
+    -   first: Brian
+        middle: E.
+        last: Aydemir
+    -   first: Aaron
+        last: Bohannon
+    -   first: Matthew
+        last: Fairbairn
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+    -   first: Peter
+        last: Sewell
+    -   first: Dimitrios
+        last: Vytiniotis
+    -   first: Geoffrey
+        last: Washburn
+    -   first: Stephanie
+        last: Weirich
+    -   first: Steve
+        last: Zdancewic
+-
+    type: 'journal'
+    title: 'Combinators for Bidirectional Tree Transformations: A Linguistic Approach to the View Update Problem'
+    venue: TOPLAS
+    year: '2007'
+    month: May
+    volume: '29'
+    number: '3'
+    award: 'Most influential paper from POPL 2015'
+    full: http://doi.acm.org/10.1145/1232420.1232424
+    url: http://doi.acm.org/10.1145/1040305.1040325
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/focal-slides.pdf
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Michael
+        middle: B.
+        last: Greenwald
+    -   first: Jonathan
+        middle: T.
+        last: Moore
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+    -   first: Alan
+        last: Schmitt
+-
+    type: 'conference'
+    title: 'LOOJ: Weaving LOOM into Java'
+    venue: 'ECOOP'
+    pages: 389-413
+    year: '2004'
+    month: June
+    volume: '3086'
+    series: Lecture Notes in Computer Science
+    publisher: Springer-Verlag
+    url: http://springerlink.metapress.com/openurl.asp?genre=article&amp;issn=0302-9743&amp;volume=3086&amp;spage=389
+    slides: http://www.cs.cornell.edu/~jnfoster/papers/looj-slides.pdf
+    plclub: 'yes'
+    jnf: 'yes'
+    author:
+    -   first: Kim
+        middle: B.
+        last: Bruce
+    -   first: J.
+        middle: Nathan
+        last: Foster
+-
+    type: 'thesis'
+    title: 'Indexicals and Belief Reports'
+    venue: "MPhil Thesis, Cambridge History and Philosophy of Science and Medicine"
+    address: Cambridge, UK
+    month: June
+    year: '2003'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/hps-diss.pdf
+    jnf: 'yes'
+    author:
+    -   first: J
+        middle: N
+        last: Foster
+-
+    type: 'thesis'
+    title: 'Model Checking for a Functional Hardware Description Language'
+    venue: "Tripos Dissertation, Cambridge Computer Laboratory"
+    address: Cambridge, UK
+    month: June
+    year: '2002'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/cl-diss.pdf
+    jnf: 'yes'
+    author:
+    -   first: John
+        middle: N
+        last: Foster
+-
+    type: 'thesis'
+    title: 'Rupiah: Towards an Expressive Static Type System for Java'
+    venue: 'Senior Honors Thesis, Williams Computer Science'
+    address: 'Williamstown, MA'
+    month: June
+    year: '2001'
+    url: http://www.cs.cornell.edu/~jnfoster/papers/williams-thesis.pdf
+    jnf: 'yes'
+    author:
+    -   first: John
+        middle: N
+        last: Foster

@@ -1,0 +1,34 @@
+{% assign all_authors = "" %}
+{% for author in paper.author %}
+  {% if forloop.first != true %}
+    {% assign all_authors = all_authors | append:", " %}
+    {% if forloop.last %}
+       {% assign all_authors = all_authors | append:"and " %}
+    {% endif %}
+  {% endif %}  
+  {% assign all_authors = all_authors | append:author.first %}
+  {% if author.middle %}
+  {% assign all_authors = all_authors | append:" " | append:author.middle %}
+  {% endif %}
+  {% assign all_authors = all_authors | append:" " | append:author.last %}
+{% endfor %}
+
+<li class="paper">
+  <span class="title">
+    <b><a href="{{ paper.url | replace: 'BASE', site.base }}">{{ paper.title }}</a></b>
+  </span>
+  <br />
+  <span class="authors">
+    {{ all_authors }}.
+  </span>
+  <br />
+  <span class="venue">
+    <b>{{ paper.venue }} {{ paper.year }}</b>
+  </span>
+  {% if paper.award %}
+  <br />
+  &#127942; {{ paper.award }}
+  {% endif %}
+  <br />
+  <a class="file_link paper" href="{{ paper.url | replace:'BASE', site.base }}">PDF</a>
+</li>

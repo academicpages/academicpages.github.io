@@ -4,6 +4,7 @@
 
 .masthead {
   position: relative;
+  background-color: $cornell-red-color;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -14,7 +15,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: .5em .5em .5em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -32,6 +33,7 @@
 }
 
 .masthead__menu {
+  background-color: $cornell-red-color;
 
   ul {
     margin: 0;
@@ -45,9 +47,14 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background-color: $cornell-red-color;
+  font-size: $type-size-4;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+  &--logo {
+    padding-right: 2rem;
   }
 }

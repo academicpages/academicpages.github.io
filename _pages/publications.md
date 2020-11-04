@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign years = site.data.publications | map: "year" | sort | uniq | reverse %}
+{% for year in years %}
+# {{ year }}
+{% assign publications = site.data.publications | where: "year", year %}
+<ul>
+{% for paper in publications %}
+  {% include publication.html %}
 {% endfor %}
+</ul>
+{% endfor %}
+
