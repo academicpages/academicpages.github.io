@@ -49,7 +49,7 @@ Spatial Cognition
 
 * <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Performance Discrepancy Between Left-handers and Right-handers Reveals Multisensory Integration in the Mental Rotation of Hands, Spatial Cognition, Tübingen, Germany. Aug., 2018.
 
-* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightening Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [video](https://www.youtube.com/watch?v=z5eQH3SGhoY)
+* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightning Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [video](https://www.youtube.com/watch?v=z5eQH3SGhoY)
 
 <br>
 
