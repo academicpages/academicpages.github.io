@@ -1,6 +1,6 @@
 ---
 title: "Perception of Space and Time Distance toward Famous People"
-excerpt: "We show that people’s perception of spatial distance toward famous people is influenced by time distance. The more historical the person, the bigger the influence of the time distance.. <br/><img src='/images/distance.png'>"
+excerpt: "We show that people’s perception of spatial distance toward famous people is influenced by time distance. The more historical the person, the bigger the influence of the time distance. <br/><img src='/images/distance.png'>"
 collection: projects
 ---
 With Elizabeth R. Chrastil, Bailey Tranquada-Torres
