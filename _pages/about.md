@@ -11,7 +11,7 @@ I am a research scientist at LINE Corporation working on machine learning. My re
 
 ---
 
-In my past life, I was a particle physicist. I received my Ph.D. in theoretical physics from the University of Tokyo in 2017, and my B.Sc. in physics (also from University of Tokyo) in 2012. Upon graduating, I spent a year at the Technical University of Munich as a Marie Skłodowska-Curie Fellow, followed by a stint at NEC Corporation as a researcher.
+In my past life, I was a particle physicist. I received my Ph.D. in theoretical physics from the University of Tokyo in 2017, and my B.Sc. in physics (also from the University of Tokyo) in 2012. Upon graduating, I spent a year at the Technical University of Munich as a Marie Skłodowska-Curie Fellow, followed by a stint at NEC Corporation as a researcher.
 
 ---
 
