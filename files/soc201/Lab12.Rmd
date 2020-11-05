@@ -1,0 +1,412 @@
+---
+title: "Basic Text Analysis in R for SOC201 Research Methods in Sociology"
+author: "Yongjun Zhang"
+date: ""
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+--- = =
+---
+
+```{=html}
+<style type="text/css">
+p{ /* Normal  */
+   font-size: 18px;
+}
+body{ /* Normal  */
+   font-size: 18px;
+}
+td {  /* Table  */
+   font-size: 14px;
+}
+h1 { /* Header 1 */
+ font-size: 32px;
+}
+h2 { /* Header 2 */
+ font-size: 26px;
+}
+h3 { /* Header 3 */
+ font-size: 22px;
+}
+code.r{ /* Code block */
+  font-size: 14px;
+}
+pre { /* Code block */
+  font-size: 14px
+}
+</style>
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Learning Objects
+
+This tutorial aims to introduce basic ways to preprocess data before we model data using R. We will cover:
+
+1. How to read, clean, and transform text data
+
+2. How to preprocess data such as tokenization, removing stop words, lemmatization, stemming, and representing words in R
+
+3. How to get basic statistics from texts using lexicon methods
+
+In previous tutorial, we have covered some basic things about R and how to do simple statistical computing as well as how to use selenium to do webscraping. 
+
+You can download the RMarkdown file from the link: <https://yongjunzhang.com/files/soc201/Lab12.Rmd>; You can modify the codes for your own analysis in your RStudio.
+
+# Basic Intro to R and Preprossing Textual Data with R
+
+#### We need to load some packages for use
+
+```{r}
+if (!requireNamespace("pacman"))
+  install.packages('pacman')
+library(pacman)
+packages<-c("tidyverse","tidytext","stringr","sentimentr","syuzhet",
+            "tm","stopwords")
+p_load(packages,character.only = TRUE)
+```
+
+# Query Twitter Data
+
+In week 10, we talked about how you can retrieve data from twitter, so let us copy and paste those codes. We are going to get some twitter data to run a demo today. 
+
+```{r}
+# We need twitterR package to access and query data from twitter
+library(twitteR)
+consumer_key <- "your_consumer_key" # replace with your own
+consumer_secret <- "your_consumer_secret"
+access_key <- "your_access_token"
+access_secret <- "your_access_secret"
+source("twitter.R") # I store my authentification info in a local R file
+setup_twitter_oauth(consumer_key, consumer_secret, access_key, access_secret)
+```
+
+```{r}
+# let use searchTwitter function to search covid19 
+# here is the documentation of this function <https://www.rdocumentation.org/packages/twitteR/versions/1.1.9/topics/searchTwitter>
+# we store the data as covid_twitter
+twitter <- searchTwitter("#ElectionResults2020",n=1000,lang = "en")
+# we convert is to a data frame using twListToDF
+twitter_df <- twListToDF(twitter)
+# let us see the data
+knitr::kable(twitter_df[1:5,])
+write_csv(twitter_df,"twitter_df.csv")
+```
+
+We are able to get 1000 tweets. If you cannot set up your twitter developer accounts, you can just download my saved csv file to play with. You can use the following chunk of codes to read the data from my websites.
+
+`twitter_df <- read_csv(url("https://yongjunzhang.com/files/soc201/twitter_df.csv"))`
+
+If you are analyzing your own text data, you are use read_csv functions to read .csv files. There are others functions to read different datasets. 
+
+R tidyverse package provides a series of useful data wrangling tools. You can 
+check it here <https://www.tidyverse.org/>. 
+
+
+#### Clean Twitter Data
+
+Let us say, we need to slightly clean our messy tweets. We need to remove the url links
+
+```{r}
+# if you can use ?mutate() to see the details of the function, basically it creates a new variable for you
+data <- twitter_df %>% 
+  mutate(
+    uid=row_number(),
+    text=str_replace_all(tolower(text),"(https)|(http).*? ","") %>% 
+           str_squish
+    )
+
+# you may also want to get rid of all other messy stuff except numbers and words
+data <- data %>% 
+  mutate(text=str_replace_all(text,"[^a-z0-9#@]"," ") %>% 
+           str_squish)
+
+```
+
+```{r}
+# Show a table for visual check
+knitr::kable(data[1:3,],cap="Twitter Data on #ElectionResults2020")
+```
+
+### Using Tidytest package to process some variables
+
+There are a variety of processing text packages. Today we briefly introduce tidytext package. You can check here<https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html>; This tidytext toturial heavily relies on Julia Silge and David Robinson's work. You can also check their book Text Mining with R here <https://www.tidytextmining.com/>
+
+```{r}
+library(tidytext)
+
+# Let us say we are interested in text description. We need to restructure it as one-token-per-row format. The unnest_tokens function is a way to convert a dataframe with a text column to be one-token-per-row:
+
+tidy_data <- data %>%
+  # let us only keep unique id and text
+  select(uid,text) %>% 
+  # one token per row. This function uses the tokenizers package to separate each line into words. The default tokenizing is for words, but other options include characters, ngrams, sentences, lines, paragraphs, or separation around a regex pattern.
+  unnest_tokens(word, text) %>% 
+  # remove stop words
+  anti_join(tidytext::get_stopwords("en",source="snowball")) %>% 
+  # you can also add your own stop words if you want
+  # check here to see tibble data structure <https://tibble.tidyverse.org/>
+  anti_join(tibble(word=c("co","t","rt")),by="word")
+
+
+knitr::kable(tidy_data[1:10,],cap="#Twitter Data for ElectionResults2020")
+  
+```
+
+
+## Basic Analysis of Textual Data
+
+### Let us get a count vector for protest description, like what are the most frequent words or bi-grams
+
+```{r}
+head(tidy_data %>% 
+  count(word, sort = TRUE))
+```
+
+We can further plot this! For instance, a wordcloud.
+```{r}
+# define a nice color palette
+#install.packages("wordcloud")
+library(wordcloud)
+library(wordcloud2)
+pal <- brewer.pal(8,"Dark2")
+# plot the 50 most common words
+tidy_data %>% 
+  count(word, sort = TRUE) %>% 
+  wordcloud2(color=pal,size=.7)
+```
+
+We can also just do a simple bar plot.
+
+```{r}
+library(ggplot2)
+
+tidy_data %>%
+  count(word, sort = TRUE) %>%
+  filter(n > 100) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n)) +
+  geom_col() +
+  xlab(NULL) +
+  coord_flip()
+```
+
+**let us get bigram**
+
+```{r}
+ data %>%
+  select(uid,text) %>%
+  unnest_tokens(bigram, text,token = "ngrams", n = 2) %>%
+  count(bigram,sort = TRUE) %>% 
+  mutate(bigram= reorder(bigram, n)) %>%
+  filter(n>150) %>% 
+  ggplot(aes(bigram, n)) +
+  geom_col() +
+  xlab(NULL) +
+  coord_flip()
+```
+
+Note you can use joining functions to filter these words or ngrams... such as inner_join, anti_join, semi_join, etc.  
+
+
+# Structural Topic Model
+
+Let us say, you are interested in the potential themes in those tweets. In other words, what are those tweets talking about. 
+
+> In this part we heavily rely on [stm's tutorial](http://structuraltopicmodel.com/) by Molly Roberts, Brandon Stewart and Dustin Tingley. We will go through the tutorial and show you how to do stm in R librabry stm.
+
+> The basic idea of topic models is to assume that a document is a distribution of topics and a topic is a distribution of words. In thise sense, a tweet is composed of certain topics and a topic is composed of certain words. We are trying to figure out potential topics in these tweets.
+
+Let us install stm first.
+
+```{r, message=FALSE, warning=TRUE}
+#library(devtools)
+#install_github("bstewart/stm",dependencies=TRUE)
+library(stm)
+```
+
+Before we run topic models, we need to preprocess data. STM provides several functions to automatically do stemming, stopwords removal, low frequency words removal, etc for you.
+
+Let us use the textProcessor to preprocess texts. Here is the function:
+
+> textProcessor(documents, metadata = NULL, lowercase = TRUE, removestopwords = TRUE, removenumbers = TRUE, removepunctuation = TRUE, ucp = FALSE, stem = TRUE, wordLengths = c(3, Inf), sparselevel = 1, language = "en", verbose = TRUE, onlycharacter = FALSE, striphtml = FALSE, customstopwords = NULL, custompunctuation = NULL, v1 = FALSE)
+
+```{r}
+#Preprocessing
+#stemming/stopword removal, etc.
+#Josh-cc, if you don't know the details of a function, you can use ? to check the documentation of that function. ?textProcessor
+processed <- textProcessor(data$text, metadata=data)
+```
+
+Let us use prepDocuments to perform several corpus manipulations including removing words and renumbering word indices. here is the function:
+
+> prepDocuments(documents, vocab, meta = NULL, lower.thresh = 1, upper.thresh = Inf, subsample = NULL, verbose = TRUE)
+
+```{r}
+#structure and index for usage in the stm model. Verify no-missingness. can remove low frequency words using 'lower.thresh' option. 
+#See ?prepDocuments for more info
+out <- prepDocuments(processed$documents, processed$vocab, processed$meta, lower.thresh=1)
+```
+
+```{r}
+#output will have object meta, documents, and vocab 
+docs <- out$documents
+vocab <- out$vocab
+meta <-out$meta
+```
+
+Now, let us use stm function fit a stm model.
+
+> The function takes sparse representation of a document-term matrix, an integer number of topics, and covariates and returns fitted model parameters. Covariates can be used in the prior for topic prevalence, in the prior for topical content or both.
+
+> stm(documents, vocab, K, prevalence = NULL, content = NULL, data = NULL, init.type = c("Spectral", "LDA", "Random", "Custom"), seed = NULL, max.em.its = 500, emtol = 1e-05, verbose = TRUE, reportevery = 5, LDAbeta = TRUE, interactions = TRUE, ngroups = 1, model = NULL, gamma.prior = c("Pooled", "L1"), sigma.prior = 0, kappa.prior = c("L1", "Jeffreys"), control = list())
+
+```{r}
+#run an stm model using the 'out' data. 20 topics. Asking how prevalaence of topics varies across documents' meta data, including 'rating' and day. !! option s(day) applies a spline normalization to day variable.
+
+# max.em.its should be at least 100. We use 15 just as demo
+pFit <- stm(out$documents,out$vocab,K=20, max.em.its=15, data=out$meta,seed=2020)
+
+```
+
+
+Let us see PROPORTION OF EACH TOPIC in the entire CORPUS.
+
+```{r}
+## Just insert your STM output
+plot.STM(pFit, type="summary", n=5,xlim=c(0,1))
+```
+
+
+Now it is time to intepret the stm model.
+
+```{r}
+###LIST OF TOP WORDS for topics 1, 7, & 10
+labelTopics(pFit, c(17, 19, 6))
+```
+
+Let us do a wordcloud, but I am not suggesting you to do this in your published research.
+
+```{r}
+###WORDCLOUD for a specified TOPIC
+cloud(pFit, topic=17)
+```
+
+Let us find some texts that are most representative for a particular topic using findThoughts function:
+
+> Outputs most representative documents for a particular topic. Use this in order to get a better sense of the content of actual documents with a high topical content.
+
+> findThoughts(model, texts = NULL, topics = NULL, n = 3, thresh = NULL, where = NULL, meta = NULL)
+
+```{r}
+#object 'thoughts1' contains 2 documents about topic 1. 'texts=shortdoc,' gives you just the first 250 words
+
+thoughts1 <- findThoughts(pFit,
+                          texts=meta$text,
+                          n=2,
+                          topics=17)$docs[[1]]
+#will show you the output
+plotQuote(thoughts1, width=40, main="Topic 17")
+```
+
+# Sentiment Analysis
+
+Some of you might be interested in analyzing sentiment of tweets. For instance, you may want to analyze the public opinion toward election results 2020.
+
+Here let us do a very short demo about how you can do sentiment analysis in R using `sentimentr` package.
+
+Let us use syuzhet package as the baseline. Matthew Jockers created the syuzhet package that utilizes dictionary lookups for the Bing, NRC, and Afinn methods as well as a custom dictionary. He also utilizes a wrapper for the Stanford coreNLP which uses much more sophisticated analysis. 
+
+You can check here for a tutorial for syuzhet: <https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html>
+
+We are going to use its functions:
+
+- `get_sentences()`:implements the openNLP sentence tokenizer
+
+- `get_tokens`:tokenize by words instead of sentences
+
+- `get_sentiment()`:includes two parameters--a character vector (of sentences or words) and a “method.” The method you select determines which of the four available sentiment extraction methods to employ. In the example that follows below, the “syuzhet” (default) method is called.Other methods include “bing”, “afinn”, “nrc”, and “stanford”. 
+
+- `get_nrc_sentiment`: implements Saif Mohammad’s NRC Emotion lexicon. The NRC emotion lexicon is a list of words and their associations with eight emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust) and two sentiments (negative and positive) (See <http://www.purl.org/net/NRCemotionlexicon>). 
+
+
+```{r}
+library(syuzhet)
+# Let use tokenize our origanl texts first
+my_example_text <- data$text
+s_v <- get_sentences(my_example_text)
+head(s_v)
+```
+
+```{r}
+syuzhet_vector <- get_sentiment(s_v, method="syuzhet")
+head(syuzhet_vector)
+```
+Let us try different methods (use different lexicons)
+
+```{r}
+bing_vector <- get_sentiment(s_v, method="bing")
+head(bing_vector)
+```
+
+```{r}
+afinn_vector <- get_sentiment(s_v, method="afinn")
+head(afinn_vector)
+```
+
+```{r}
+nrc_vector <- get_sentiment(s_v, method="nrc", lang = "english")
+head(nrc_vector)
+```
+
+Let us compare the difference
+
+```{r}
+rbind(
+  sign(head(syuzhet_vector)),
+  sign(head(bing_vector)),
+  sign(head(afinn_vector)),
+  sign(head(nrc_vector))
+)
+```
+
+Let us plot the result
+
+```{r}
+plot(
+  syuzhet_vector, 
+  type="h", 
+  main="Example Plot Trajectory", 
+  xlab = "Narrative Time", 
+  ylab= "Emotional Valence"
+  )
+```
+
+let us use the package's simple_plot to plot the trend.
+
+```{r}
+simple_plot(syuzhet_vector)
+```
+
+
+
+Let us see get_nrc_sentiment results
+
+```{r}
+nrc_data <- get_nrc_sentiment(s_v)
+```
+
+```{r}
+barplot(
+  sort(colSums(prop.table(nrc_data[, 1:8]))), 
+  horiz = TRUE, 
+  cex.names = 0.7, 
+  las = 1, 
+  main = "Emotions in Sample text", xlab="Percentage"
+  )
+```
+
+
+### THE END...
