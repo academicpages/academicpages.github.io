@@ -52,8 +52,8 @@ Ved International School, Gandhinagar, Gujarat, India<br>
 Percentage: 79.69/100
 
 **SSC [Class X]** [Gujarat Higher Secondary Board], *Apr 2010 - Mar 2011*<br>
-Ved International School, Gandhinagar, Gujarat, India<br>
-Percentage: 79.69/100
+Sardar Patel High School, Indraprastha, Anjar, Gujarat, India<br>
+Percentage: 84.8/100
 
 
 
@@ -68,9 +68,17 @@ Inspirisys Solutions Ltd., Chennai, India<br>
 Publications [Google Scholar Profile](https://scholar.google.com/citations?user=7LY1_u4AAAAJ&hl=en)
 ======
 ---
-Zeel Patel, Sreekumar Muthuswamy<br>
+Zeel B Patel*, S Deepak Narayanan*, Apoorv Agnihotri, Nipun Batra<br>
+*Poster Abstract: A toolkit for spatial interpolation and sensor placement*<br>
+SenSys 2020
+
+Zeel B Patel, Nipun Batra<br>
+*[Active Learning: A Visual Tour](https://patel-zeel.github.io/active-learning-visualization/)*<br>
+3rd Workshop on Visualization for AI Explainability, IEEE VIS, 2020
+
+Zeel B Patel, Sreekumar Muthuswamy<br>
 *A Machine Learning Scheme for Tool Wear Monitoring and Replacement in IoT-Enabled Smart Manufacturing*<br>
-ICIPDIMS, 2019
+ICIPDIMS 2019
 
 
 
@@ -91,6 +99,6 @@ IIT Gandhinagar, Gujarat, India
 Positions of Responsibility
 ======
 ---
-Progran Volunteer, *13-15 Feb 2020*<br>
+Program Volunteer, *13-15 Feb 2020*<br>
 IRISS 2020<br>
 IIT Gandhinagar
