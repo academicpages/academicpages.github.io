@@ -68,7 +68,7 @@ Inspirisys Solutions Ltd., Chennai, India<br>
 Publications [Google Scholar Profile](https://scholar.google.com/citations?user=7LY1_u4AAAAJ&hl=en)
 ======
 ---
-Zeel B Patel*, S Deepak Narayanan*, Apoorv Agnihotri, Nipun Batra<br>
+Zeel B Patel\*, S Deepak Narayanan\*, Apoorv Agnihotri, Nipun Batra<br>
 *Poster Abstract: A toolkit for spatial interpolation and sensor placement*<br>
 SenSys 2020
 
