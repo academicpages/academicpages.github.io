@@ -20,13 +20,13 @@ Basic Info
 ======
 ---
 Date of Birth: 04-08-1996<br>
-Address: Colony near SBI bank, Lavarpur, Gandhinagar, Gujarat-382355<br>
+Current Address: Colony near SBI bank, Lavarpur, Gandhinagar, Gujarat-382355<br>
 Email: [patel_zeel@iitgn.ac.in](mailto:patel_zeel@iitgn.ac.in)<br>
 Nationality: Indian
 
 
 
-Current role
+Current Role
 ======
 ---
 **PhD student**, *Jan 2020 - present*<br>
@@ -57,7 +57,7 @@ Percentage: 84.8/100
 
 
 
-Industrial experience
+Industrial Experience
 ======
 ---
 **Data Scientist** in CTO team, *Jun 2019 - Dec 2019*<br>
