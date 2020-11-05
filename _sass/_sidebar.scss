@@ -35,12 +35,12 @@
   }
 
   h3, h4 {
-    font-size: $type-size-5;
+    font-size: $type-size-4;
   }
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     line-height: 1.5;
   }
 
@@ -72,9 +72,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  height: 36px;
+  width: 56px;
+  height: 56px;
 
   @include breakpoint($large) {
     display: block;

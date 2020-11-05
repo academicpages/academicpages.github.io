@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Overview"
-excerpt: "About me"
+title: "Home"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 My research uses ideas from programming languages to solve problems in
 networking, databases, and security. Some specific topics of interest
@@ -30,21 +29,21 @@ to design better languages and tools for computer networks.
 <div class="container">
 <div class="box-6">
 <img src="images/petr4-logo.png" alt="Petr4 logo" /><br />
-<p>Petr4: Formal Foundations for P4 Data Planes</p>
+Formal Foundations for Programmable Data Planes
 </div>
 <div class="box-6">
 <img src="images/pronto-logo.png" alt="Pronto logo" /><br />
-<p>Pronto: Verifiable Closed-Loop Control for Next-Generation Networks</p>
+Verifiable Closed-Loop Control for Next-Generation Networks
 </div>
 </div>
 <div class="container">
 <div class="box-6">
 <img src="images/netkat-logo.png" alt="NetKAT logo" /><br />
-<p>NetKAT: Algebraic and Coalgebraic Foudnations for Programmable Networks</p>
+(Co)-Algebraic Foundations for Programmable Networks
 </div>
 <div class="box-6">
 <img src="images/neptune-logo.png" alt="Neptune logo" /><br />
-<p>Neptune: Programming System for Heterogeneous Architectures</p>
+Flexibility, Performance, Consistency for Heterogeneous Packet-Processing Architectures
 </div>
 </div>
 <br />

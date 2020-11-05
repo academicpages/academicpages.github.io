@@ -6,6 +6,12 @@
   conference: "POPL 2021"
   conference_url: "https://popl21.sigplan.org/"
 - type: acceptance
+  year: 2020
+  month: October
+  name: "Deep Programmability"
+  conference: "SIGCOMM CCR"
+  conference_url: "https://dl.acm.org/newsletter/sigcomm-ccr"
+- type: acceptance
   name: "Packet Subscriptions"
   conference: "CoNEXT 2020"
   conference_url: "https://conferences2.sigcomm.org/co-next/2020/"

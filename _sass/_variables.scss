@@ -90,11 +90,11 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 $cornell-red-color          : #b31b1b;
-
+$cornell-blue-color         : #006699;
 
 /* links */
 $link-color                 : $cornell-red-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-hover           : $cornell-blue-color;
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : mix(#fff, $cornell-red-color, 85%);
 $masthead-link-color-hover  : #fff;

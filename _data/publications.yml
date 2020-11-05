@@ -27,13 +27,33 @@
         last: Xu              
     -   first: Nate            
         last: Foster          
+-
+    type: "misc"
+    title: "Using Deep Programmability to Put Network Owners in Control"
+    venue: "SIGCOMM CCR"
+    month: "October"
+    year: "2020"
+    url: "BASE/papers/pronto-ccr.pdf"
+    author:
+    -   first: Nate
+        last: Foster
+    -   first: Nick
+        last: McKeown
+    -   first: Jennifer
+        last: Rexford
+    -   first: Guru
+        last: Parulkar
+    -   first: Larry
+        last: Peterson
+    -   first: Oguz
+        last: Sunay
 - 
     type: "conference"
     title: 'Forwarding and Routing with Packet Subscriptions'
     venue: 'CoNEXT'
     month: December
     year: '2020'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/packet-subscriptions.pdf
+    url: BASE/papers/packet-subscriptions.pdf
     author:
     -   first: Theo
         last: Jepsen
@@ -53,7 +73,7 @@
     venue: 'SIGCOMM'
     month: August
     year: '2020'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/microp4.pdf
+    url: BASE/papers/microp4.pdf
     author:
     -   first: Hardik
         last: Soni
@@ -74,7 +94,7 @@
     articleno: '61'
     month: January
     year: '2020'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/gkat.pdf
+    url: BASE/papers/gkat.pdf
     award: 'Distinguished paper award'
     author:
     -   first: Steffen
@@ -98,7 +118,7 @@
     year: '2019'
     jnf: 'yes'
     recent: 'yes'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/pcnc.pdf
+    url: BASE/papers/pcnc.pdf
     author:
     -   first: Christian
         last: Skalka
@@ -125,7 +145,7 @@
     year: '2019'
     jnf: 'yes'
     recent: 'yes'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/ancile.pdf
+    url: BASE/papers/ancile.pdf
     author:
     -   first: Eugene
         last: Bagdasaryan
@@ -151,7 +171,7 @@
     year: '2019'
     jnf: 'yes'
     recent: 'yes'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/safep4.pdf
+    url: BASE/papers/safep4.pdf
     author:
     -   first: Matthias
         last: Eichholz
@@ -172,7 +192,7 @@
     year: '2019'
     jnf: 'yes'
     recent: 'yes'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/txforest.pdf
+    url: BASE/papers/txforest.pdf
     author:
     -   first: Jonathan
         last: DiLorenzo
@@ -191,7 +211,7 @@
     pages: 351-–366
     jnf: 'yes'
     recent: 'yes'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/picnic.pdf
+    url: BASE/papers/picnic.pdf
     award: 'Best student paper award'
     author:
     -   first: Praveen
@@ -224,7 +244,7 @@
     month: June
     jnf: 'yes'
     recent: 'yes'
-    url: https://www.cs.cornell.edu/~jnfoster/papers/mcnetkat.pdf
+    url: BASE/papers/mcnetkat.pdf
     author:
     -   first: Steffen
         last: Smolka
@@ -244,7 +264,7 @@
     venue: 'EuroSys'
     month: March
     year: '2019'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/predictive-treaties.pdf
+    url: BASE/papers/predictive-treaties.pdf
     jnf: 'yes'
     recent: 'yes'
     author:
@@ -266,7 +286,7 @@
     pages: 176--183
     year: '2018'
     month: November
-    url: http://www.cs.cornell.edu/~jnfoster/papers/packet-subscriptions.pdf
+    url: BASE/papers/packet-subscriptions.pdf
     jnf: 'yes'
     recent: 'yes'
     author:
@@ -287,7 +307,7 @@
     year: '2018'
     pages: 490--503
     month: August
-    url: http://www.cs.cornell.edu/~jnfoster/papers/p4v.pdf
+    url: BASE/papers/p4v.pdf
     jnf: 'yes'
     recent: 'yes'
     author:
@@ -317,7 +337,7 @@
     venue: SOSR
     year: '2018'
     month: March
-    url: http://www.cs.cornell.edu/~jnfoster/papers/linear-road.pdf
+    url: BASE/papers/linear-road.pdf
     jnf: 'yes'
     recent: 'yes'
     author:
@@ -337,7 +357,7 @@
     venue: SOSR
     year: '2018'
     month: March
-    url: http://www.cs.cornell.edu/~jnfoster/papers/yates.pdf
+    url: BASE/papers/yates.pdf
     jnf: 'yes'
     recent: 'yes'
     author:
@@ -359,7 +379,7 @@
     venue: 'NSDI'
     year: '2018'
     month: April
-    url: http://www.cs.cornell.edu/~jnfoster/papers/smore.pdf
+    url: BASE/papers/smore.pdf
     blog: https://research.fb.com/robust-and-efficient-traffic-engineering-with-oblivious-routing/
     jnf: 'yes'
     recent: 'yes'
@@ -387,7 +407,7 @@
     venue: 'NSDI'
     year: '2018'
     month: April
-    url: http://www.cs.cornell.edu/~jnfoster/papers/netchain.pdf
+    url: BASE/papers/netchain.pdf
     note: '&#127942; Best paper.'
     jnf: 'yes'
     recent: 'yes'
@@ -415,7 +435,7 @@
     year: '2017'
     month: October
     pages: 121--136
-    url: http://www.cs.cornell.edu/~jnfoster/papers/netcache.pdf
+    url: BASE/papers/netcache.pdf
     jnf: 'yes'
     recent: 'yes'
     author:
@@ -441,7 +461,7 @@
     venue: ANCS
     month: May
     year: '2017'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/edgewise.pdf
+    url: BASE/papers/edgewise.pdf
     jnf: 'yes'
     author:
     -   first: Shrutarshi
@@ -462,7 +482,7 @@
     venue: SOSR
     month: April
     year: '2017'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/p4fpga.pdf
+    url: BASE/papers/p4fpga.pdf
     jnf: 'yes'
     author:
     -   first: Han
@@ -487,7 +507,7 @@
     venue: 'POPL'
     month: January
     year: '2017'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/cantor-scott.pdf
+    url: BASE/papers/cantor-scott.pdf
     jnf: 'yes'
     author:
     -   first: Steffen
@@ -506,7 +526,7 @@
     venue: 'ACM SIGPLAN Conference on Object-Oriented Programming Languages, Systems, and Applications (OOPSLA), Amsterdam, Netherlands'
     month: October
     year: '2016'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/incremental-forest.pdf
+    url: BASE/papers/incremental-forest.pdf
     jnf: 'yes'
     author:
     -   first: Jonathan
@@ -525,7 +545,7 @@
     month: October
     year: '2016'
     venue: FMCAD
-    url: http://www.cs.cornell.edu/~jnfoster/papers/optimal-repair.pdf
+    url: BASE/papers/optimal-repair.pdf
     jnf: 'yes'
     author:
     -   first: Hossein
@@ -544,7 +564,7 @@
     venue: DISC
     month: September
     year: '2016'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/optimal-updates.pdf
+    url: BASE/papers/optimal-updates.pdf
     jnf: 'yes'
     author:
     -   first: Pavol
@@ -562,7 +582,7 @@
     month: June
     year: '2016'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-event-driven-pldi16.pdf
+    url: BASE/papers/frenetic-event-driven-pldi16.pdf
     author:
     -   first: Jedidiah
         last: McClurg
@@ -579,7 +599,7 @@
     month: March
     year: '2016'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-morpheus-sosr16.pdf
+    url: BASE/papers/frenetic-morpheus-sosr16.pdf
     author:
     -   first: Karla
         last: Saur
@@ -600,7 +620,7 @@
     month: March
     year: '2016'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-felix-sosr16.pdf
+    url: BASE/papers/frenetic-felix-sosr16.pdf
     author:
     -   first: Haoxian
         last: Chen
@@ -621,7 +641,7 @@
     month: April
     year: '2016'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/probnetkat.pdf
+    url: BASE/papers/probnetkat.pdf
     author:
     -   first: Nate
         last: Foster
@@ -677,7 +697,7 @@
     month: September
     year: '2015'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/netkat-compiler.pdf
+    url: BASE/papers/netkat-compiler.pdf
     note: 'SIGPLAN Research Highlight'
     author:
     -   first: Steffen
@@ -696,7 +716,7 @@
     month: June
     pages: 1311--1326
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/homeostasis.pdf
+    url: BASE/papers/homeostasis.pdf
     author:
     -   first: Sudip
         last: Roy
@@ -721,7 +741,7 @@
     month: June
     year: '2015'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-update-synthesis-pldi15.pdf
+    url: BASE/papers/frenetic-update-synthesis-pldi15.pdf
     author:
     -   first: Jedidiah
         last: McClurg
@@ -738,7 +758,7 @@
     month: January
     year: '2015'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/netkat-automata.pdf
+    url: BASE/papers/netkat-automata.pdf
     author:
     -   first: Nate
         last: Foster
@@ -757,7 +777,7 @@
     month: December
     year: '2014'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/merlin.pdf
+    url: BASE/papers/merlin.pdf
     author:
     -   first: Robert
         last: Soul'e
@@ -785,7 +805,7 @@
     year: '2014'
     pages: 86--95
     jnf: 'yes'
-    full: http://www.cs.cornell.edu/~jnfoster/papers/sdn-abstractions.pdf
+    full: BASE/papers/sdn-abstractions.pdf
     author:
     -   first: Martin
         last: Casado
@@ -801,7 +821,7 @@
     month: January
     note: To appear.
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-netkat.pdf
+    url: BASE/papers/frenetic-netkat.pdf
     tr: http://hdl.handle.net/1813/34445
     author:
     -   first: Carolyn
@@ -826,7 +846,7 @@
     year: '2013'
     month: November
     note: To appear.
-    url: http://www.cs.cornell.edu/~jnfoster/papers/merlin-hotnets13.pdf
+    url: BASE/papers/merlin-hotnets13.pdf
     jnf: 'yes'
     author:
     -   first: Robert
@@ -846,7 +866,7 @@
     venue: 'SYNT Workshop'
     year: '2013'
     month: July
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-update-synthesis.pdf
+    url: BASE/papers/frenetic-update-synthesis.pdf
     jnf: 'yes'
     author:
     -   first: Andrew
@@ -863,7 +883,7 @@
     venue: 'HotSDN'
     year: '2013'
     month: August
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-hotswap.pdf
+    url: BASE/papers/frenetic-hotswap.pdf
     note: To appear.
     jnf: 'yes'
     author:
@@ -883,7 +903,7 @@
     venue: 'HotSDN'
     year: '2013'
     month: August
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-fattire.pdf
+    url: BASE/papers/frenetic-fattire.pdf
     note: To appear.
     jnf: 'yes'
     author:
@@ -901,7 +921,7 @@
     venue: 'PLDI'
     year: '2013'
     month: June
-    url: http://www.cs.cornell.edu/~jnfoster/papers/verified-controllers-pldi13.pdf
+    url: BASE/papers/verified-controllers-pldi13.pdf
     note: To appear.
     jnf: 'yes'
     author:
@@ -976,7 +996,7 @@
     month: August
     year: '2012'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/consistent-updates-sigcomm12.pdf
+    url: BASE/papers/consistent-updates-sigcomm12.pdf
     author:
     -   first: Mark
         last: Reitblatt
@@ -996,7 +1016,7 @@
     month: August
     year: '2012'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/splendid-isolation-hotsdn12.pdf
+    url: BASE/papers/splendid-isolation-hotsdn12.pdf
     author:
     -   first: Stephen
         last: Gutz
@@ -1014,7 +1034,7 @@
     year: '2012'
     jnf: 'yes'
     pages: 1--46
-    url: http://www.cs.cornell.edu/~jnfoster/papers/complementary-ssgip12.pdf
+    url: BASE/papers/complementary-ssgip12.pdf
     note: Invited paper.
     author:
     -   first: Nate
@@ -1031,7 +1051,7 @@
     pages: 217--230
     year: '2012'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/netcore-popl12.pdf
+    url: BASE/papers/netcore-popl12.pdf
     author:
     -   first: Christopher
         last: Monsanto
@@ -1052,7 +1072,7 @@
     month: January
     year: '2012'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/dsu-correct-vstte12.pdf
+    url: BASE/papers/dsu-correct-vstte12.pdf
     author:
     -   first: Stephen
         last: Magill
@@ -1073,7 +1093,7 @@
     month: January
     year: '2012'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-lada12.pdf
+    url: BASE/papers/frenetic-lada12.pdf
     author:
     -   first: Nate
         last: Foster
@@ -1099,7 +1119,7 @@
     month: January
     year: '2012'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/cpg-lada12.pdf
+    url: BASE/papers/cpg-lada12.pdf
     author:
     -   first: Lonnie
         last: Princehouse
@@ -1115,7 +1135,7 @@
     month: November
     year: '2011'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/consistent-updates-hotnets11.pdf
+    url: BASE/papers/consistent-updates-hotnets11.pdf
     author:
     -   first: Mark
         last: Reitblatt
@@ -1133,7 +1153,7 @@
     month: September
     year: '2011'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-icfp11.pdf
+    url: BASE/papers/frenetic-icfp11.pdf
     author:
     -   first: Nate
         last: Foster
@@ -1158,7 +1178,7 @@
     month: September
     year: '2011'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/forest-icfp11.pdf
+    url: BASE/papers/forest-icfp11.pdf
     author:
     -   first: Kathleen
         last: Fisher
@@ -1177,7 +1197,7 @@
     year: '2010'
     month: November
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/frenetic-presto10.pdf
+    url: BASE/papers/frenetic-presto10.pdf
     author:
     -   first: Nate
         last: Foster
@@ -1199,9 +1219,9 @@
     venue: "PhD Dissertation, University of Pennsylvania"
     year: '2009'
     month: December
-    url: http://www.cs.cornell.edu/~jnfoster/papers/jnfoster-dissertation.pdf
+    url: BASE/papers/jnfoster-dissertation.pdf
     book: http://www.lulu.com/content/paperback-book/bidirectional-programming-languages/8496560
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/jnfoster-dissertation-defense.pdf
+    slides: BASE/papers/jnfoster-dissertation-defense.pdf
     author:
     -   first: John
         middle: Nathan
@@ -1214,8 +1234,8 @@
     year: '2010'
     month: September
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/matching-lenses.pdf
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/matching-lenses-slides.pdf
+    url: BASE/papers/matching-lenses.pdf
+    slides: BASE/papers/matching-lenses-slides.pdf
     author:
     -   first: Davi
         middle: M. J.
@@ -1237,7 +1257,7 @@
     month: October
     year: '2009'
     jnf: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/onward-provenance.pdf
+    url: BASE/papers/onward-provenance.pdf
     author:
     -   first: James
         last: Cheney
@@ -1258,7 +1278,7 @@
     jnf: 'yes'
     plclub: 'yes'
     pages: 260--283
-    url: http://www.cs.cornell.edu/~jnfoster/papers/grace-report.pdf
+    url: BASE/papers/grace-report.pdf
     note: Invited paper.
     author:
     -   first: Krzysztof
@@ -1283,8 +1303,8 @@
     year: '2009'
     jnf: 'yes'
     plclub: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/updatable-security-views.pdf
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/updatable-security-views-slides.pdf
+    url: BASE/papers/updatable-security-views.pdf
+    slides: BASE/papers/updatable-security-views-slides.pdf
     author:
     -   first: J.
         middle: Nathan
@@ -1304,7 +1324,7 @@
     number: '4'
     pages: 13--21
     note: Invited paper for special issue on provenance.
-    short: http://www.cs.cornell.edu/~jnfoster/papers/debull-jnfoster-gkarvoun.pdf
+    short: BASE/papers/debull-jnfoster-gkarvoun.pdf
     jnf: 'yes'
     plclub: 'yes'
     author:
@@ -1320,7 +1340,7 @@
     month: June
     year: '2008'
     pages: 271--280
-    url: http://www.cs.cornell.edu/~jnfoster/papers/xml-provenance.pdf
+    url: BASE/papers/xml-provenance.pdf
     jnf: 'yes'
     plclub: 'yes'
     author:
@@ -1339,9 +1359,9 @@
     month: January
     year: '2008'
     pages: 407--419
-    url: http://www.cs.cornell.edu/~jnfoster/papers/boomerang.pdf
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/boomerang-slides.pdf
-    tr: http://www.cs.cornell.edu/~jnfoster/papers/boomerang-tr.pdf
+    url: BASE/papers/boomerang.pdf
+    slides: BASE/papers/boomerang-slides.pdf
+    tr: BASE/papers/boomerang-tr.pdf
     jnf: 'yes'
     plclub: 'yes'
     author:
@@ -1366,8 +1386,8 @@
     pages: 383--395
     jnf: 'yes'
     plclub: 'yes'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/quotient-lenses.pdf
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/quotient-lenses-slides.pdf
+    url: BASE/papers/quotient-lenses.pdf
+    slides: BASE/papers/quotient-lenses-slides.pdf
     author:
     -   first: J.
         middle: Nathan
@@ -1383,7 +1403,7 @@
     venue: 'PADL'
     month: January
     year: '2008'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/pads-first-class.pdf
+    url: BASE/papers/pads-first-class.pdf
     pages: 133--149
     jnf: 'yes'
     plclub: 'yes'
@@ -1406,8 +1426,8 @@
     month: January
     year: '2008'
     pages: '31'
-    short: http://www.cs.cornell.edu/~jnfoster/papers/xquery-maintenance.pdf
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/xquery-maintenance-slides.pdf
+    short: BASE/papers/xquery-maintenance.pdf
+    slides: BASE/papers/xquery-maintenance-slides.pdf
     jnf: 'yes'
     plclub: 'yes'
     author:
@@ -1427,8 +1447,8 @@
     month: January
     pages: 80--90
     year: '2007'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/dtts.pdf
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/dtts-slides.pdf
+    url: BASE/papers/dtts.pdf
+    slides: BASE/papers/dtts-slides.pdf
     jnf: 'yes'
     author:
     -   first: J.
@@ -1456,9 +1476,9 @@
     venue: Archive of Formal Proofs
     month: April
     year: '2006'
-    short: http://www.cs.cornell.edu/~jnfoster/papers/FJ-outline.pdf
-    url: http://www.cs.cornell.edu/~jnfoster/papers/FJ-document.pdf
-    sources: http://www.cs.cornell.edu/~jnfoster/papers/FJ.tar.gz
+    short: BASE/papers/FJ-outline.pdf
+    url: BASE/papers/FJ-document.pdf
+    sources: BASE/papers/FJ.tar.gz
     author:
     -   first: J.
         middle: Nathan
@@ -1508,7 +1528,7 @@
     note: Poster at DB-IR Day.
     month: October
     year: '2005'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/dbir05-poster.pdf
+    url: BASE/papers/dbir05-poster.pdf
     jnf: 'yes'
     keys: harmony
     author:
@@ -1527,7 +1547,7 @@
     note: Short version in DBPL '05.
     full: http://dx.doi.org/10.1016/j.jcss.2006.10.024
     url: http://dx.doi.org/10.1007/11601524_3
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/schema-sync-slides.pdf
+    slides: BASE/papers/schema-sync-slides.pdf
     jnf: 'yes'
     author:
     -   first: J.
@@ -1550,7 +1570,7 @@
     year: '2005'
     note: Talk given at New England Programming Languages Symposium (NEPLS), Williamstown,
         Massachusetts
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/nepls-schema-sync-slides.pdf
+    slides: BASE/papers/nepls-schema-sync-slides.pdf
     keys: harmony
     author:
     -   first: J.
@@ -1610,7 +1630,7 @@
     award: 'Most influential paper from POPL 2015'
     full: http://doi.acm.org/10.1145/1232420.1232424
     url: http://doi.acm.org/10.1145/1040305.1040325
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/focal-slides.pdf
+    slides: BASE/papers/focal-slides.pdf
     author:
     -   first: J.
         middle: Nathan
@@ -1637,7 +1657,7 @@
     series: Lecture Notes in Computer Science
     publisher: Springer-Verlag
     url: http://springerlink.metapress.com/openurl.asp?genre=article&amp;issn=0302-9743&amp;volume=3086&amp;spage=389
-    slides: http://www.cs.cornell.edu/~jnfoster/papers/looj-slides.pdf
+    slides: BASE/papers/looj-slides.pdf
     plclub: 'yes'
     jnf: 'yes'
     author:
@@ -1654,7 +1674,7 @@
     address: Cambridge, UK
     month: June
     year: '2003'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/hps-diss.pdf
+    url: BASE/papers/hps-diss.pdf
     jnf: 'yes'
     author:
     -   first: J
@@ -1667,7 +1687,7 @@
     address: Cambridge, UK
     month: June
     year: '2002'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/cl-diss.pdf
+    url: BASE/papers/cl-diss.pdf
     jnf: 'yes'
     author:
     -   first: John
@@ -1680,7 +1700,7 @@
     address: 'Williamstown, MA'
     month: June
     year: '2001'
-    url: http://www.cs.cornell.edu/~jnfoster/papers/williams-thesis.pdf
+    url: BASE/papers/williams-thesis.pdf
     jnf: 'yes'
     author:
     -   first: John

@@ -472,11 +472,15 @@ a.reversefootnote {
 a.news_link.award::before {
     font-family: "FontAwesome";
     content: "\f091\00a0";
+    text-decoration: none;
+    display: inline-block;
 }
 
 a.file_link.artifact::before {
     font-family: "FontAwesome";
     content: "\f120\00a0\00a0";
+    text-decoration: none;
+    display: inline-block;
 }
 
 a.file_link.blog::before {
@@ -487,6 +491,8 @@ a.file_link.blog::before {
 a.file_link.code::before {
     font-family: "FontAwesome";
     content: "\f09b\00a0\00a0";
+    text-decoration: none;
+    display: inline-block;
 }
 
 a.file_link.paper::before {
@@ -542,10 +548,8 @@ a.file_link.paper {
   padding: 1em;
   border: 1px solid $darker-gray;
   border-radius: 10px;
-}
-
-.box-6 p {
   text-align: center;
+  font-size: 20px;
 }
 
 .box-6 img { 
