@@ -12,3 +12,6 @@ Looking at navigation paths from approximately 1.2 million users’ data allows 
 
 <img src='/images/shq2.png'>
 
+Relevant resources:
+
+* Multidisciplinary Understanding of Sex Differences in Navigation [videos](https://faculty.sites.uci.edu/spatialneuro/sex-differences-in-human-navigation/)
