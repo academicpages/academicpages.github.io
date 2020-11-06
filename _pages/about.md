@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year student in the Ph.D. program of transportation at the Department of Civil Engineering, McGill University. My major is traffic engineering, and My current research centers on traffic control with machine learning techniques. 
+I am a second-year Ph.D. student of transportation at the Department of Civil Engineering, [McGill University](https://www.mcgill.ca/engineering/).  I am now working in [Smart Transport Group](https://smart-transport.github.io/) supervised by [Prof Lijun Sun](https://lijunsun.github.io/). 
+My current research centers on traffic control with machine learning techniques.   
 
-Before arriving at McGill. I got a B.E. degree and an M.S. degree from the Department of Intelligent Engineering at Sun Yat-sen University, China, where I mainly worked on urban network traffic prediction with deep learning. 
+Before arriving at McGill. I got a B.E. degree and an M.S. degree from the Department of Intelligent Engineering at [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm), China, where I mainly worked on urban network traffic prediction with deep learning. 
 
 In my free time, I love everything related to basketball and enjoy exploring new places and food.
 
