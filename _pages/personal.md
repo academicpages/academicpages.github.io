@@ -7,6 +7,8 @@ author_profile: true
  
 ## Beautiful memories
 
+<img src="https://zhuangdingyi.github.io/images/undergraduate.png" />
+
 * ![Highschool](https://wangjw6.github.io/images/hs.png)
 * ![Undergraduate]("https://github.com/Wangjw6/Wangjw6.github.io/tree/master/images/undergraduate.png)
 * ![Graduate](https://wangjw6.github.io/images/graduate.png)
