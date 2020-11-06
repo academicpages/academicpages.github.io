@@ -6,7 +6,7 @@ author_profile: true
 ---
  
 ## Beautiful memories
-![]("https://wangjw6.github.io/files/s.png")
+![]("https://wangjw6.github.io/images/s.png")
 
 
 
