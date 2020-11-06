@@ -17,11 +17,11 @@ In my free time, I love everything related to basketball and enjoy exploring new
 
 My research interest
 ======
-1. Intelligent transportation systems
-1. Traffic control 
-1. Public transportation operation  
-1. Reinforcement learning
-1. Machine learning
+* Intelligent transportation systems
+* Traffic control 
+* Public transportation operation  
+* Reinforcement learning
+* Machine learning
 
 Selected publications
 ======
