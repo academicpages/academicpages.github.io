@@ -112,9 +112,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
-
+  zhihu            : "https://www.zhihu.com/people/PowerCreativeMind"
 
 # Reading Files
 include:
