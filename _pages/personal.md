@@ -7,10 +7,10 @@ author_profile: true
  
 ## Beautiful memories
 
-*  [High-school Wang was sitting at basketball court][hs1]
-*  [Undergraduate Wang prepared final exam in east-campus library of SYSU][UG1]
-*  [Undergraduate Wang got B.E. degree][BE]
-*  [Graduate Wang got M.S. degree][master1]
+*  [High-school Wang was having a rest at basketball court][hs1]
+*  [Undergraduate Wang was struggling in east-campus library of SYSU][UG1]
+*  [Undergraduate Wang got B.E. degree in 2016][BE]
+*  [Graduate Wang got M.S. degree in 2019][master1]
 
 [hs1]: https://wangjw6.github.io/images/hs.png
 [UG1]: https://wangjw6.github.io/images/undergraduate.png
