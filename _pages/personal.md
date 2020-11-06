@@ -9,8 +9,8 @@ author_profile: true
 
 <img src="https://wangjw6.github.io/images/undergraduate.png" />
 
-* ![Highschool](https://wangjw6.github.io/images/hs.png)
-* ![Undergraduate]("https://github.com/Wangjw6/Wangjw6.github.io/tree/master/images/undergraduate.png)
+* ![Highschool](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+* ![Undergraduate](https://wangjw6.github.io/images/undergraduate.png)
 * ![Graduate](https://wangjw6.github.io/images/graduate.png)
 * ![Postgraduate](https://wangjw6.github.io/images/pg.png)
 
