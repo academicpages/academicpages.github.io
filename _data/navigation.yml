@@ -7,3 +7,6 @@ main:
   - title: "CV"
     url: 'http://Wangjw6.github.io/files/cv.pdf'
     
+   - title: "Personal"
+    url: /personal/ 
+    
