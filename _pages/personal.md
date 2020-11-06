@@ -6,10 +6,11 @@ author_profile: true
 ---
  
 ## Beautiful memories
-*![Highschool]("https://wangjw6.github.io/images/s.png")
-*![Undergraduate]("https://wangjw6.github.io/images/s.png")
-*![Graduate]("https://wangjw6.github.io/images/s.png")
-*![Postgraduate]("https://wangjw6.github.io/images/s.png")
+======
+*![Highschool]("https://wangjw6.github.io/images/hs.png")
+*![Undergraduate]("https://wangjw6.github.io/images/undergraduate.png")
+*![Graduate]("https://wangjw6.github.io/images/graduate.png")
+*![Postgraduate]("https://wangjw6.github.io/images/pg.png")
 
 
 
