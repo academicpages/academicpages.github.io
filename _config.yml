@@ -11,7 +11,7 @@ title                    : "Jiawei Wang"
 title_separator          : "-"
 name                     : &name "Jiawei Wang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wangjw6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  
 
 # Sass/SCSS
 sass:
