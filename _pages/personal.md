@@ -14,8 +14,6 @@ author_profile: true
 
 ## Visitors
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=IOfsTsg_5cgvk99-MCQe3awPo4ClF2ymszy36Pzp-sI&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></scrip
-
- 
+<a href="http://www.quick-counter.net/" title="HTML hit counter - Quick-counter.net"><img src="http://www.quick-counter.net/aip.php?tp=di&tz=Europe%2FLondon" alt="HTML hit counter - Quick-counter.net" border="0" /></a>
 
 
