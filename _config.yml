@@ -112,9 +112,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCduSrJdP1TCNHLI1ZNgzuhQ"
+  youtube          : "/channel/UCduSrJdP1TCNHLI1ZNgzuhQ"
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/PowerCreativeMind"
+  zhihu            : "/people/PowerCreativeMind"
 
 # Reading Files
 include:
