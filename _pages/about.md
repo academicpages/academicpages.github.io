@@ -25,8 +25,8 @@ My research interest
 
 Major publications
 ======
-1.Wang J, Chen R, He Z. Traffic speed prediction for urban transportation network: A path based deep learning approach[J]. Transportation Research Part C: Emerging Technologies, 2019, 100: 372-385.\
-1.Wang J, Sun L. Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework[J]. Transportation Research Part C: Emerging Technologies, 2020, 116: 102661.\
+1. Wang J, Chen R, He Z. Traffic speed prediction for urban transportation network: A path based deep learning approach[J]. Transportation Research Part C: Emerging Technologies, 2019, 100: 372-385. 
+1. Wang J, Sun L. Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework[J]. Transportation Research Part C: Emerging Technologies, 2020, 116: 102661.
 
 
 Contact
