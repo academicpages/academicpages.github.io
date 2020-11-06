@@ -1,6 +1,6 @@
 ---
 title: "Travel Direction as a Fundamental Component of Navigation"
-excerpt: "We show that travel direction is a fundamental component of human navigation. <br/><img src='/images/travel_direction.png'>"
+excerpt: "We show that travel direction is a fundamental component of human navigation. <br/><img src='/images/travel.gif'>"
 collection: projects
 ---
 With Elizabeth R. Chrastil, Sam Ling, and Chantal Stern
