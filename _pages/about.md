@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I come from Guangdong, China, and is a second-year student in the Ph.D. program of transportation at the Department of Civil Engineering at McGill University. His major is traffic engineering, and he currently focuses on traffic control with machine learning techniques.
-Before arriving at McGill, I got a B.E. degree and an M.S. degree from the Department of Intelligent Engineering at Sun Yat-sen University, China, where he mainly worked on urban network traffic prediction with deep learning.
+I come from Guangdong, China, and am a second-year student in the Ph.D. program of transportation at the Department of Civil Engineering at McGill University. His major is traffic engineering, and he currently focuses on traffic control with machine learning techniques.
+Before arriving at McGill. I got a B.E. degree and an M.S. degree from the Department of Intelligent Engineering at Sun Yat-sen University, China, where he mainly worked on urban network traffic prediction with deep learning.
 In my free time, I love everything related to basketball and enjoy exploring new places and food.
 
 A data-driven personal website
