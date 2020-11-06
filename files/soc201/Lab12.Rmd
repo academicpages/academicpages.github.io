@@ -148,7 +148,9 @@ tidy_data <- data %>%
   anti_join(tidytext::get_stopwords("en",source="snowball")) %>% 
   # you can also add your own stop words if you want
   # check here to see tibble data structure <https://tibble.tidyverse.org/>
-  anti_join(tibble(word=c("co","t","rt")),by="word")
+  anti_join(tibble(word=c("co","t","rt","w")),by="word") %>% 
+  # let us stem words
+  mutate(word=SnowballC::wordStem(word))
 
 
 knitr::kable(tidy_data[1:10,],cap="#Twitter Data for ElectionResults2020")
@@ -158,7 +160,7 @@ knitr::kable(tidy_data[1:10,],cap="#Twitter Data for ElectionResults2020")
 
 ## Basic Analysis of Textual Data
 
-### Let us get a count vector for protest description, like what are the most frequent words or bi-grams
+### Let us get a count vector for election results tweets, like what are the most frequent words or bi-grams
 
 ```{r}
 head(tidy_data %>% 
@@ -215,7 +217,7 @@ Note you can use joining functions to filter these words or ngrams... such as in
 
 Let us say, you are interested in the potential themes in those tweets. In other words, what are those tweets talking about. 
 
-> In this part we heavily rely on [stm's tutorial](http://structuraltopicmodel.com/) by Molly Roberts, Brandon Stewart and Dustin Tingley. We will go through the tutorial and show you how to do stm in R librabry stm.
+> In this part we heavily rely on [stm's tutorial](http://structuraltopicmodel.com/) by Molly Roberts, Brandon Stewart and Dustin Tingley. We will go through the tutorial and show you how to do stm in R librabry `stm`.
 
 > The basic idea of topic models is to assume that a document is a distribution of topics and a topic is a distribution of words. In thise sense, a tweet is composed of certain topics and a topic is composed of certain words. We are trying to figure out potential topics in these tweets.
 
@@ -280,14 +282,14 @@ plot.STM(pFit, type="summary", n=5,xlim=c(0,1))
 ```
 
 
-Now it is time to intepret the stm model.
+Now it is time to interpret the stm model.
 
 ```{r}
 ###LIST OF TOP WORDS for topics 1, 7, & 10
 labelTopics(pFit, c(17, 19, 6))
 ```
 
-Let us do a wordcloud, but I am not suggesting you to do this in your published research.
+Let us do wordcloud, but I am not suggesting you to do this in your published research.
 
 ```{r}
 ###WORDCLOUD for a specified TOPIC
@@ -404,7 +406,7 @@ barplot(
   horiz = TRUE, 
   cex.names = 0.7, 
   las = 1, 
-  main = "Emotions in Sample text", xlab="Percentage"
+  main = "Emotions in Sample Tweets", xlab="Percentage"
   )
 ```
 
