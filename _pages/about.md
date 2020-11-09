@@ -26,7 +26,7 @@ After that, I was a graduate student in the [Department of Computer Science](htt
 <i>In submission to The 32nd International Conference on Algorithmic Learning Theory (ALT'21), 2021
 </i>
 
-2. <b>The Teaching Dimension of Kernel Perceptrons  </b> <br>
+2. <b>[The Teaching Dimension of Kernel Perceptrons](https://arxiv.org/abs/2010.14043) </b> <br>
 **Akash Kumar**, Hanqi Zhang, Adish Singla, Yuxin Chen.<br>
 <i>In submission to The 24th International Conference on Artificial Intelligence and Statistics (AISTATS'21), 2021
 </i>
