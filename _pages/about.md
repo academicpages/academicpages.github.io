@@ -22,11 +22,13 @@ Education
     * Advisor: Assoc Prof. [Ying Liang](http://sourcedb.ict.cas.cn/cn/jssrck/200909/t20090917_2496667.html)
   * **Beijing Jiatong University**
     * B.E. in Electrical Engineering , 2011 - 2015
-    
+  
+<style>
 .container{
   width: 100%;
   text-align: center;
 }
+</style>
 <div class="container">
 <a href="https://clustrmaps.com/site/1beb2" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4-OPgqd3nJuRsXOZPxc_27NXZkw6wst1OfC9WNVR2mw&cl=ffffff"></a>
 </div>
