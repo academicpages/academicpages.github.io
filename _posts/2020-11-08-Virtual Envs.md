@@ -26,7 +26,7 @@ sh -x miniconda.sh -b -p "./miniconda3"
 - **Activate environment** \
 ```source ./miniconda3/bin/activate conda_venv```
 - **De-activate environment** \
-```conda deactivate dpf_venv```\
+```conda deactivate conda_venv```\
 This adds the environment executables such as Python, pip and conda to the executable path.
 - **Install/ uninstall:** (once env is activated)
   - Through conda: `conda install -c anaconda numpy`
@@ -44,8 +44,7 @@ This adds the environment executables such as Python, pip and conda to the execu
 `pip install jupyter`
 - ***Add kernel for environment*** \
 `python -m ipykernel install --user --name=conda_venv`
-
-
+![conda_kernel](/images/nb_snap.PNG)
 
 
 
