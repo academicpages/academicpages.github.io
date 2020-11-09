@@ -33,5 +33,5 @@ After that, I was a graduate student in the [Department of Computer Science](htt
 
 3. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
 **Akash Kumar**, Mithilesh Kumar.<br>
-<i>In submission to The 15th International Conference and Workshops on Algorithms and Computation (WALCOM 2021)
+<i>In preparation: Arxiv Preprint
 </i>
