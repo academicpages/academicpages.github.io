@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: mix(#fff, $secondary-color, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: mix(#fff, $secondary-color, 75%);
       }
     }
 
