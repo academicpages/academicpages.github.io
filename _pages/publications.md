@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+10. **P. Cheng**, W. Hao, and L. Carin, [Estimating Total Correlation with Mutual Information Bounds](https://openreview.net/forum?id=UsDZut_p2LG), Neural Information Processing Systems (NeurIPS) Workshop, 2020
+
 9. **P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin, [CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013), International Conference on Machine Learning (ICML), 2020
 
 8. **P. Cheng**, M. Min, D. Shen, C. Malon, Y. Zhang, Y. Li, and L. Carin, [Improving Disentangled Text Representation Learning with Information Theoretical Guidance](https://arxiv.org/abs/2006.00693), Annual Meeting of the Association for Computational Linguistics (ACL), 2020
@@ -18,6 +20,5 @@ author_profile: true
 
 3. C. Liu, J. Zhuo, **P. Cheng**, R. Zhang, J. Zhu, and L. Carin, [Understand and Accelerate Particle-based Variational Inference](http://people.ee.duke.edu/~lcarin/AWGF.pdf), International Conference on Machine Learning (ICML), 2019
 
-2. **P. Cheng**, C. Liu, C. Li, D. Shen, H. Ricardo, and L. Carin, [Straight-Through Estimator as Projected
-Wasserstein Gradient Flow](http://bayesiandeeplearning.org/2018/papers/53.pdf), Neural Information Processing Systems (NeurIPS) Workshop, 2018 <span style="color: red;">Spotlight</span>
+2. **P. Cheng**, C. Liu, C. Li, D. Shen, H. Ricardo, and L. Carin, [Straight-Through Estimator as Projected Wasserstein Gradient Flow](http://bayesiandeeplearning.org/2018/papers/53.pdf), Neural Information Processing Systems (NeurIPS) Workshop, 2018 <span style="color: red;">Spotlight</span>
 
