@@ -144,3 +144,14 @@ You can download the [python script ](https://yongjunzhang.com/files/tutorial/La
 
 You can download the [Slides here](https://yongjunzhang.com/files/tutorial/Lecture11.pdf). 
 
+### Week 12
+
+#### Mini-lecture:
+
+You can download the [Slides here](https://yongjunzhang.com/files/tutorial/Lecture12.pdf). 
+
+You can download [Lab12.html](https://yongjunzhang.com/files/tutorial/Lab12.html). You can download the [Rmarkdown file here](https://yongjunzhang.com/files/tutorial/Lab12.Rmd).
+
+#### Announcement
+
+We have a guest speaker today. You can check here for more info about [Dr. Thomas Davidson ](https://www.thomasrdavidson.com/) from the Sociology Department at Rutgers University in New Brunswick.
