@@ -86,7 +86,7 @@ Academic Projects
         fairness using the proposed fairness regularizers. 
 - Approximation guarantees for subspace clustering in the spirit of algorithms for k-means.
 
-Publications and Patent
+Publications and Patents
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
