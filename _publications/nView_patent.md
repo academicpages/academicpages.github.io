@@ -1,6 +1,7 @@
 ---
 title: "Multi-scale image reconstruction of three-dimensional objects"
-collection: booga
+collection: publications
+subcollection: patents
 inventors: "Cristian Atria, Devi Ayyagari, Justina Wunderlich"
 number: 'US20200090384A1'
 permalink: https://patents.google.com/patent/US20200090384A1/en
