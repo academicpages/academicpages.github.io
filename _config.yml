@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Ting Chen"
-  avatar           : "ting_profile.png"
+  avatar           : "ting_profile.jpeg"
   bio              : "Undergraduate student at the University of Richmond, Va, USA ('21)"
   location         : "Richmond, Virginia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "ting.chen@richmond.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tingtang2"
+  github           : "tingtang222"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tingtang2"
+  twitter          : "tingtang222"
   vine             :
   weibo            :
   xing             :
