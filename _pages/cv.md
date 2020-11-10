@@ -9,20 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-#The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Raghav_CV.pdf){: .btn .btn--info}
+The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\CV.pdf){: .btn .btn--info}
 
 Research Interests
 ------
 I seek to solve theoretical machine learning problems using ideas from mathematical optimization, probability theory and statistics.
 
-* Research Interests - Machine Learning, Large Scale Optimization, Probability theory
+* Research Interests - Machine Learning, Large Scale Optimization, Probability theory, Learning Theory
 * Other Learning Interests - Differential Geometry
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Research Fellow at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) {:target="_blank"}, Sept, 2019 - Present<br>
+* Ph.D. student at [School of Science, Department of Computer Science](https://www.cs.washington.edu/){:target="_blank"}, 2019 - Present<br>
+[Aalto University](https://www.washington.edu/){:target="_blank"}<br>
+* M.Sc. in [Computer Science](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2016 - 18<br>
+[Chennai Mathematical Institute](http://www.iitg.ernet.in/){:target="_blank"}
+* B.Sc. in [Mathematics and Computer Science](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2013 - 16<br>
+[Chennai Mathematical Institute](http://www.iitg.ernet.in/){:target="_blank"}
 
 Work experience
 ======
