@@ -37,12 +37,12 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    <p> SubCollection is {{ post.subcollection }} </p>
+   
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.subcollection == 'patents' %}
-          <p>Patent number <i>{{ post.number }}</i> </p>
-          <p>Inventors <i>{{ post.inventors }}</i></p>
+          <p>Patent number: <i>{{ post.number }}</i> </p>
+          <p>Inventors: <i>{{ post.inventors }}</i></p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
