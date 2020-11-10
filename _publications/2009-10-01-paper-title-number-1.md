@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Image reconstruction using priors from deep learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: "https://doi.org/10.1117/12.2293766"
+excerpt: 'Tomosynthesis, i.e. reconstruction of 3D volumes using projections from a limited perspective is a classical inverse, ill-posed or under constrained problem. Data insufficiency leads to reconstruction artifacts that vary in severity depending on the particular problem, the reconstruction method and also on the object being imaged. Machine learning has been used successfully in tomographic problems where data is insufficient, but the challenge with machine learning is that it introduces bias from the learning dataset. A novel framework to improve the quality of the tomosynthesis reconstruction that limits the learning dataset bias by maintaining consistency with the observed data is proposed. Convolutional Neural Networks (CNN) are embedded as regularizers in the reconstruction process to introduce the expected features and characterstics of the likely imaged object. The minimization of the objective function keeps the solution consistent with the observations and limits the bias introduced by the machine learning regularizers, improving the quality of the reconstruction. The proposed method has been developed and studied in the specific problem of Cone Beam Tomosynthesis Flouroscopy (CBT-fluoroscopy)1 but it is a general framework that can be applied to any image reconstruction problem that is limited by data insufficiency.
+'
+date: 2018
+venue: 'SPIE Medical Imaging'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Devi Ayyagari, Nisha Ramesh, Dimitri Yatsenko, Tolga Tasdizen, and Cristain Atria "Image reconstruction using priors from deep learning", Proc. SPIE 10574, Medical Imaging 2018: Image Processing, 105740H (2 March 2018); https://doi.org/10.1117/12.2293766'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Tomosynthesis, i.e. reconstruction of 3D volumes using projections from a limited perspective is a classical inverse, ill-posed or under constrained problem. Data insufficiency leads to reconstruction artifacts that vary in severity depending on the particular problem, the reconstruction method and also on the object being imaged. Machine learning has been used successfully in tomographic problems where data is insufficient, but the challenge with machine learning is that it introduces bias from the learning dataset. A novel framework to improve the quality of the tomosynthesis reconstruction that limits the learning dataset bias by maintaining consistency with the observed data is proposed. Convolutional Neural Networks (CNN) are embedded as regularizers in the reconstruction process to introduce the expected features and characterstics of the likely imaged object. The minimization of the objective function keeps the solution consistent with the observations and limits the bias introduced by the machine learning regularizers, improving the quality of the reconstruction. The proposed method has been developed and studied in the specific problem of Cone Beam Tomosynthesis Flouroscopy (CBT-fluoroscopy)1 but it is a general framework that can be applied to any image reconstruction problem that is limited by data insufficiency.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1117/12.2293766)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
