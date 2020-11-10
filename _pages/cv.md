@@ -27,7 +27,7 @@ Education
 Work experience
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;_Proscia Inc._  
-&nbsp;&nbsp;&nbsp;&nbsp;**Research Engineer**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Research Engineer**
 - Developed and validated a real-world deep learning pathology software system
 using techniques like multiple instance learning, confidence thresholding to enable
 faster diagnosis of skin cancer
@@ -39,7 +39,7 @@ by deep learning classification systems
 pipelines ensuring concordance with FDA guidelines for medical devices.
 
 &nbsp;&nbsp;&nbsp;&nbsp;_nView Medical_  
-&nbsp;&nbsp;&nbsp;&nbsp;**Medical Imaging Scientist**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Medical Imaging Scientist**
 - Developed deep learning infrastructure to improve the quality of 3D tomographic
 medical images.
 - Low latency tomographic imaging reconstruction system and method based on
@@ -50,7 +50,7 @@ imaging device that generates near real-time 3D reconstructions using cone-beam
 tomosynthesis fluoroscopy.
 
 &nbsp;&nbsp;&nbsp;&nbsp;_Honeywell Technology Solutions Lab_    
-&nbsp;&nbsp;&nbsp;&nbsp;**Software Developer**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Software Developer**
 - Developed a tool for automating graphics testing for cockpit displays. The tool uses
 an image comparison algorithm to compare images in the requirement to the
 images produced during execution of the software. The tool eliminates the effort 
@@ -71,7 +71,7 @@ time for testing for the rehosting of software for EASE(Honeywell flight simulat
 environment)
 
 &nbsp;&nbsp;&nbsp;&nbsp;_Bhabha Atomic Research Center_    
-&nbsp;&nbsp;&nbsp;&nbsp;**Software Developer Intern**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Software Developer Intern**
 - Developed an algorithm for cross a compiler for arm pc and software postbox using
 socket programming
 
