@@ -20,7 +20,7 @@ I seek to solve theoretical machine learning problems using ideas from mathemati
 
 Education
 ======
-* Research Fellow at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) {:target="_blank"}, Sept, 2019 - Present<br>
+* Research Fellow at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/){:target="_blank"}, Sept, 2019 - Present<br>
 * Ph.D. student at [School of Science, Department of Computer Science](https://www.cs.washington.edu/){:target="_blank"}, 2019 - Present<br>
 [Aalto University](https://www.washington.edu/){:target="_blank"}<br>
 * M.Sc. in [Computer Science](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2016 - 18<br>
