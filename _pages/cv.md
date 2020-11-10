@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+#The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Raghav_CV.pdf){: .btn .btn--info}
+
+Research Interests
+------
+I seek to solve theoretical machine learning problems using ideas from mathematical optimization, probability theory and statistics.
+
+* Research Interests - Machine Learning, Large Scale Optimization, Probability theory
+* Other Learning Interests - Differential Geometry
 
 Education
 ======
