@@ -21,7 +21,7 @@ I seek to solve theoretical machine learning problems using ideas from mathemati
 Education
 ======
 * Research Fellow at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/){:target="_blank"}, Sept, 2019 - Present<br>
-* Ph.D. student at [School of Science, Department of Computer Science](https://www.cs.washington.edu/){:target="_blank"}, 2019 - Present<br>
+* Ph.D. student at [School of Science, Department of Computer Science](https://www.cs.washington.edu/){:target="_blank"}, Sept, 2018 - Aug, 2019<br>
 [Aalto University](https://www.washington.edu/){:target="_blank"}<br>
 * M.Sc. in [Computer Science](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2016 - 18<br>
 [Chennai Mathematical Institute](http://www.iitg.ernet.in/){:target="_blank"}
@@ -30,10 +30,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 - Present: Research Fellow
+  * Max Planck Institute for Software Systems, Saarbrucken, Germany
+  * Adviser: Dr. Adish Singla 
+  * Project: Teaching and Learning complexity of hypothesis classes e.g. Regions induced by intersections of Halfspaces and non-linear learners e.g. kernel perceptrons.
 
 * Fall 2015: Research Assistant
   * Github University
