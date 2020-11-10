@@ -187,12 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  booga:
-    output: true
-    permalink: /publications/:path
-  patents:
-    output: true
-    permalink: /publications/:path
 
 
 # Defaults
