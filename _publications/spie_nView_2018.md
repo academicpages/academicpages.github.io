@@ -1,7 +1,7 @@
 ---
 title: "Image reconstruction using priors from deep learning"
 collection: publications
-permalink: https://doi.org/10.1117/12.2293766
+permalink: /publications/spie_nView_2018
 excerpt: 'Tomosynthesis, i.e. reconstruction of 3D volumes using projections from a limited perspective is a classical inverse, ill-posed or under constrained problem. Data insufficiency leads to reconstruction artifacts that vary in severity depending on the particular problem, the reconstruction method and also on the object being imaged. Machine learning has been used successfully in tomographic problems where data is insufficient, but the challenge with machine learning is that it introduces bias from the learning dataset. A novel framework to improve the quality of the tomosynthesis reconstruction that limits the learning dataset bias by maintaining consistency with the observed data is proposed. Convolutional Neural Networks (CNN) are embedded as regularizers in the reconstruction process to introduce the expected features and characterstics of the likely imaged object. The minimization of the objective function keeps the solution consistent with the observations and limits the bias introduced by the machine learning regularizers, improving the quality of the reconstruction. The proposed method has been developed and studied in the specific problem of Cone Beam Tomosynthesis Flouroscopy (CBT-fluoroscopy)1 but it is a general framework that can be applied to any image reconstruction problem that is limited by data insufficiency.
 '
 date: 2018-03-02
