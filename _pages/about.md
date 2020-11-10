@@ -14,7 +14,4 @@ I am Kameswari Devi Ayyagari. I am applying to the PhD program in Computer Scien
 - Deep learning
 - Explainable AI
 - Bioinformatics
-- Application of deep learning of algorithms to biomedical data.
-
-# Google scholar page
-[Devi Ayyagari](https://scholar.google.com/citations?user=vA_Lgb8AAAAJ&hl=en)
+- Application of deep learning of algorithms to biomedical data
