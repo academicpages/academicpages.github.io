@@ -135,9 +135,48 @@ for file in os.listdir(directory_talks):
             #    print('            posters.addLayer(marker{});\n'.format(counter+1), file=open(mapfile,"a"))
             counter+=1
 
+
 list_talks = os.listdir(directory_talks)
 list_workshops = os.listdir(directory_workshops)
-attended_woskshops = list(set(list_talks)-set(list_workshops))
+attended_woskshops = list(set(list_workshops)-set(list_talks))
+for file in attended_woskshops:
+    with open(directory_workshops+"/"+file, 'r') as f:
+        lines = f.read()
+        title_start = lines.find("title: '") + 8 #look for title
+        title_trim = lines[title_start:]
+        title_end = title_trim.find("'")
+        title = title_trim[:title_end]
+
+        date_start = lines.find('date: ') + 6 #look for date
+        date_trim = lines[date_start:]
+        date_end = date_trim.find('\n')
+        date = date_trim[:date_end]
+
+        loc_start = lines.find('location: "') + 11 #look for location
+        loc_trim = lines[loc_start:]
+        loc_end = loc_trim.find('"')
+        location = loc_trim[:loc_end]
+        position = geolocator.geocode(location, language='en')
+        coord_array.append([position.latitude,position.longitude])
+
+        venue_start = lines.find('venue: "') + 8 #look for location
+        venue_trim = lines[venue_start:]
+        venue_end = venue_trim.find('"')
+        loc_name = venue_trim[:venue_end]
+
+        typename = "tealIcon"
+
+        link_start = lines.find("url: '") + 6 #look for permalink
+        link_trim = lines[link_start:]
+        link_end = link_trim.find("'")
+        link = link_trim[:link_end]
+
+        print(link)
+
+        marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,date,permalink,title)
+        print(marker_data, file=open(mapfile,"a"))
+        print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
+        counter+=1
 
 
 markerarray = ''

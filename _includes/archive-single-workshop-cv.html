@@ -29,10 +29,10 @@
     {% endif %}
 
     <p>
-      {% if post.link %}
-        <a href="{{ post.link }}" rel="permalink" target="_blank">{{ title }}</a>, <i>{{ venue }}</i>, {{ period }}.
-      {% else %}
+      {% if post.url = '' %}
         {{ title }}, <i>{{ venue }}</i>, {{ period }}.
+      {% else %}
+        <a href="{{ post.url }}" rel="permaurl" target="_blank">{{ title }}</a>, <i>{{ venue }}</i>, {{ period }}.
       {% endif %}
     </p>
 
