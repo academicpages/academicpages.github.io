@@ -173,10 +173,9 @@ for file in attended_woskshops:
 
 
         if link == '':
-            print("yes")
-            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,date,link,title)
-        else:
             marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br />{}<br /><i>{}</i>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,date,title)
+        else:
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,date,link,title)
         print(marker_data, file=open(mapfile,"a"))
         print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
         counter+=1
