@@ -42,6 +42,9 @@
             var blueIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_blue.png'}),
                 redIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_red.png'}),
                 yellowIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_yellow.png'});
+                orangeIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_orange.png'});
+                purpleIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_purple.png'});
+                tealIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_teal.png'});
 
             var clusteredmarkers = new L.MarkerClusterGroup({showCoverageOnHover: false});
 
@@ -60,7 +63,7 @@
 
             var marker1 = L.marker([48.8566969, 2.3514616], {icon: blueIcon}).bindPopup('<b>Online meeting (ENS Paris, Institut Curie, Université Paris-Diderot)</b><br />2020-11-13<br /><a href="/talks/2020-11-13-PBPCD" target="_blank"><i>Constrained proteome allocation affects coexistence in models of competitive microbial communities</i></a>');
             clusteredmarkers.addLayer(marker1);
-            var marker2 = L.marker([45.4668, 9.1905], {icon: yellowIcon}).bindPopup('<b>University of Milan, Department of Physics</b><br />2019-03-13<br /><a href="/talks/2019-03-13-CISF19-poster" target="_blank"><i>Adaptive consumer-resource models can explain diauxic shifts and the violation of the Competitive Exclusion Principle</i></a>');
+            var marker2 = L.marker([45.4668, 9.1905], {icon: orangeIcon}).bindPopup('<b>University of Milan, Department of Physics</b><br />2019-03-13<br /><a href="/talks/2019-03-13-CISF19-poster" target="_blank"><i>Adaptive consumer-resource models can explain diauxic shifts and the violation of the Competitive Exclusion Principle</i></a>');
             clusteredmarkers.addLayer(marker2);
             var marker3 = L.marker([45.4668, 9.1905], {icon: blueIcon}).bindPopup('<b>University of Milan, Department of Physics</b><br />2019-03-09<br /><a href="/talks/2019-03-09-CISF19-talk" target="_blank"><i>Strategie metaboliche adattive: una risposta (apparentemente) semplice ed efficace a molti problemi in ecologia e microbiologia <img src="../images/italian_flag.png" width="25"></i></a>');
             clusteredmarkers.addLayer(marker3);
