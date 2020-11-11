@@ -189,6 +189,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  wsc:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
