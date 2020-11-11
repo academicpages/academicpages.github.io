@@ -12,8 +12,6 @@
 {% assign venue = post.venue %}
 {% assign period = post.period %}
 
-{% if post.hidden="true" %}
-{% else %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
@@ -44,5 +42,3 @@
     </li>
  </article>
 </div>
-
-{% endif %}

@@ -12,8 +12,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% if post.hidden="true" %}
-{% else %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <div class="textbox">
@@ -49,5 +47,3 @@
 </div>
 </div>
 <span style="display:block; margin-top:0.25em; visibility: hidden">text</span>
-
-{% endif %}
