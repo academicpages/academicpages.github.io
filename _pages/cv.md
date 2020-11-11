@@ -63,6 +63,11 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 
 
 ## Attended conferences, workshops and schools
+<ul>{% for post in site.wsc reversed %}
+  {% include archive-single-workshop-cv.html %}
+{% endfor %}</ul>
+
+##OLD
 * [English for Academic Writing](https://www.unibo.it/en/teaching/summer-and-winter-schools/2019/english-for-academic-writing-winter-school){:target="_blank"}<!--_-->, *University of Bologna, Forlì campus*, 7th-10th January 2020
 * [5th Italian Conference of Physics Students](http://ai-sf.it/cisf19/){:target="_blank"}<!--_-->, *University of Milan, Department of Physics*, 6th-10th March 2019
 * The physics of complex systems IV: from Padova to the rest of the world and back, *University of Padua, Department of Physics*, 20th December 2018
