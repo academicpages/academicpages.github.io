@@ -97,7 +97,12 @@ for file in os.listdir(directory_talks):
             location = loc_trim[:loc_end]
             position = geolocator.geocode(location, language='en')
             coord_array.append([position.latitude,position.longitude])
-            loc_name = position.address.split(',')[0] +','+ position.address.split(',')[-1]
+
+            venue_start = lines.find('venue: "') + 8 #look for location
+            venue_trim = lines[venue_start:]
+            venue_end = venue_trim.find('"')
+            loc_name = venue_trim[:venue_end]
+            #loc_name = position.address.split(',')[0] +','+ position.address.split(',')[-1]
 
             type_start = lines.find('type: ') + 6 #look for type
             type_trim = lines[type_start:]
