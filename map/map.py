@@ -90,6 +90,11 @@ for file in os.listdir(directory_talks):
             title_end = title_trim.find("'")
             title = title_trim[:title_end]
 
+            type_start = lines.find('type: "') + 7 #look for title
+            type_trim = lines[type_start:]
+            type_end = type_trim.find('"')
+            type = type_trim[:type_end]
+
             date_start = lines.find('date: ') + 6 #look for date
             date_trim = lines[date_start:]
             date_end = date_trim.find('\n')
@@ -124,7 +129,7 @@ for file in os.listdir(directory_talks):
             permalink_end = permalink_trim.find('\n')
             permalink = permalink_trim[:permalink_end]
 
-            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,date,permalink,title)
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br /><i>{}</i><br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,type,date,permalink,title)
             print(marker_data, file=open(mapfile,"a"))
             print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
             #if typename is "blueIcon":
