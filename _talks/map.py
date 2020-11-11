@@ -1,5 +1,3 @@
-
-
 import os
 from geopy.geocoders import Nominatim
 import subprocess
