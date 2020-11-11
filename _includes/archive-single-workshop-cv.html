@@ -6,11 +6,11 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
+
+{% assign title = post.title %}
+{% assign authors = post.authors %}
+{% assign venue = post.venue %}
+{% assign period = post.period %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
@@ -26,15 +26,16 @@
           alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
+
+    <p>
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
+        <a href="{{ post.link }}" rel="permalink" target="_blank">{{ title }}</a>, <i>{{ venue }}</i>, {{ period }}.
       {% else %}
-        {{ title }}
+        {{ title }}, <i>{{ venue }}</i>, {{ period }}.
       {% endif %}
-    </h3>
-    {% if post.date %}<p class="page__meta"><i class="fa fa-calendar-alt" aria-hidden="true"></i> {{ post.period }}</p>{% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at <i>{{ post.venue }}</i>,  {{post.location}}</p>{% endif %}
+    </p>
+
+
     </li>
-  </article>
+ </article>
 </div>
