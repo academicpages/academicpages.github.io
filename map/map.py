@@ -2,9 +2,9 @@ import os
 from geopy.geocoders import Nominatim
 import subprocess
 
-directory = "."
+directory_talks = "../_talks/"
 geolocator = Nominatim(user_agent="script")
-mapfile="../map/map.html"
+mapfile="./map.html"
 
 map_preamble = """
 <!DOCTYPE html>
@@ -38,7 +38,7 @@ map_preamble = """
                 id: 'mapbox.streets'}).addTo(mymap);
 
             var MarkerIcon = L.Icon.extend({
-                options: {shadowUrl: '../map/leaflet_images/marker-shadow.png',
+                options: {shadowUrl: './leaflet_images/marker-shadow.png',
                 iconSize:     [25, 41],
                 shadowSize:   [41, 41],
                 iconAnchor:   [12.5,41],
@@ -47,9 +47,9 @@ map_preamble = """
                 },
             });
 
-            var blueIcon = new MarkerIcon({iconUrl: '../map/leaflet_images/marker-icon_blue.png'}),
-                redIcon = new MarkerIcon({iconUrl: '../map/leaflet_images/marker-icon_red.png'}),
-                yellowIcon = new MarkerIcon({iconUrl: '../map/leaflet_images/marker-icon_yellow.png'});
+            var blueIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_blue.png'}),
+                redIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_red.png'}),
+                yellowIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_yellow.png'});
 
             var clusteredmarkers = new L.MarkerClusterGroup({showCoverageOnHover: false});
 
@@ -77,8 +77,8 @@ print(map_preamble, file=open(mapfile, "w"))
 coord_array = []
 
 counter = 0
-for file in os.listdir(directory):
-    with open(file, 'r') as f:
+for file in os.listdir(directory_talks):
+    with open(directory_talks+"/"+file, 'r') as f:
         lines = f.read()
         if file.endswith((".md")):
             title_start = lines.find("title: '") + 8 #look for title
