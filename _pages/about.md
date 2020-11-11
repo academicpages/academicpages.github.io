@@ -24,4 +24,4 @@ My current main research interest is the study of how adaptation in consumer-res
 
 <!--### Talk map
 <p>Here, on the other hand, you can find a map of all the places where I've given a talk; the color of each marker specifies if it represents an <span style="color:#CA2C28">invited talk</span>, a <span style="color:#2981CA">contributed talk</span> or a <span style="color:#C7CA28">poster</span> (click any marker for more information). Click any cluster to zoom and expand it<--, and use the layer control menu to select which category to show:->:</p>
-<iframe src="/talkmap/map.html" height="700" width="100%" style="border:none;"></iframe>-->
+<iframe src="/map/map.html" height="700" width="100%" style="border:none;"></iframe>-->

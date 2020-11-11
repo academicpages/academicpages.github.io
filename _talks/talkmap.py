@@ -6,7 +6,7 @@ import subprocess
 
 directory = "."
 geolocator = Nominatim(user_agent="script")
-mapfile="../talkmap/map.html"
+mapfile="../map/map.html"
 
 map_preamble = """
 <!DOCTYPE html>
@@ -40,7 +40,7 @@ map_preamble = """
                 id: 'mapbox.streets'}).addTo(mymap);
 
             var MarkerIcon = L.Icon.extend({
-                options: {shadowUrl: '../talkmap/leaflet_images/marker-shadow.png',
+                options: {shadowUrl: '../map/leaflet_images/marker-shadow.png',
                 iconSize:     [25, 41],
                 shadowSize:   [41, 41],
                 iconAnchor:   [12.5,41],
@@ -49,9 +49,9 @@ map_preamble = """
                 },
             });
 
-            var blueIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_blue.png'}),
-                redIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_red.png'}),
-                yellowIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_yellow.png'});
+            var blueIcon = new MarkerIcon({iconUrl: '../map/leaflet_images/marker-icon_blue.png'}),
+                redIcon = new MarkerIcon({iconUrl: '../map/leaflet_images/marker-icon_red.png'}),
+                yellowIcon = new MarkerIcon({iconUrl: '../map/leaflet_images/marker-icon_yellow.png'});
 
             var clusteredmarkers = new L.MarkerClusterGroup({showCoverageOnHover: false});
 
