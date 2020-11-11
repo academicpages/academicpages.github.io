@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Workshops, schools and coferences"
+permalink: /wsc/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
+
+{% endif %}
+
+
+
+
+{% for post in site.wsc reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
