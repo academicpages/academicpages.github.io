@@ -28,9 +28,9 @@
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>, <i>{{ post.venue }}</i>, {{ post.period }}
+        <a href="{{ post.link }}">{{ title }}</a>
       {% else %}
-        {{ title }}, <i>{{ post.venue }}</i>, {{ post.period }}
+        {{ title }}
       {% endif %}
     </h3>
     {% if post.date %}<p class="page__meta"><i class="fa fa-calendar-alt" aria-hidden="true"></i> {{ post.period }}</p>{% endif %}
