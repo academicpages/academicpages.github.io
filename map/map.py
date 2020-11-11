@@ -2,7 +2,8 @@ import os
 from geopy.geocoders import Nominatim
 import subprocess
 
-directory_talks = "../_talks/"
+directory_talks = "../_talks"
+directory_workshops= "../_wsc"
 geolocator = Nominatim(user_agent="script")
 mapfile="./map.html"
 
@@ -50,6 +51,9 @@ map_preamble = """
             var blueIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_blue.png'}),
                 redIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_red.png'}),
                 yellowIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_yellow.png'});
+                orangeIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_orange.png'});
+                purpleIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_purple.png'});
+                tealIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_teal.png'});
 
             var clusteredmarkers = new L.MarkerClusterGroup({showCoverageOnHover: false});
 
@@ -113,7 +117,7 @@ for file in os.listdir(directory_talks):
             elif "invited" in type.lower():
                 typename = "redIcon"
             elif "poster" in type.lower():
-                typename = "yellowIcon"
+                typename = "orangeIcon"
 
             permalink_start = lines.find('permalink: ') + 11 #look for permalink
             permalink_trim = lines[permalink_start:]
@@ -130,6 +134,11 @@ for file in os.listdir(directory_talks):
             #elif typename is "yellowIcon":
             #    print('            posters.addLayer(marker{});\n'.format(counter+1), file=open(mapfile,"a"))
             counter+=1
+
+list_talks = os.listdir(directory_talks)
+list_workshops = os.listdir(directory_workshops)
+attended_woskshops = list(set(list_talks)-set(list_workshops))
+
 
 markerarray = ''
 for num in range(1,counter):
