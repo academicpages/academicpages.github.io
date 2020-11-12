@@ -90,9 +90,9 @@ for file in os.listdir(directory_talks):
             title_end = title_trim.find("'")
             title = title_trim[:title_end]
 
-            type_start = lines.find('type: "') + 7 #look for title
+            type_start = lines.find("type: '") + 7 #look for title
             type_trim = lines[type_start:]
-            type_end = type_trim.find('"')
+            type_end = type_trim.find("'")
             type = type_trim[:type_end]
 
             date_start = lines.find('date: ') + 6 #look for date
@@ -106,12 +106,13 @@ for file in os.listdir(directory_talks):
             location = loc_trim[:loc_end]
             position = geolocator.geocode(location, language='en')
             coord_array.append([position.latitude,position.longitude])
+            location = location.split(",")[0]
 
             venue_start = lines.find('venue: "') + 8 #look for location
             venue_trim = lines[venue_start:]
             venue_end = venue_trim.find('"')
-            loc_name = venue_trim[:venue_end]
-            #loc_name = position.address.split(',')[0] +','+ position.address.split(',')[-1]
+            venue_name = venue_trim[:venue_end]
+            #venue_name = position.address.split(',')[0] +','+ position.address.split(',')[-1]
 
             type_start = lines.find('type: ') + 6 #look for type
             type_trim = lines[type_start:]
@@ -129,7 +130,7 @@ for file in os.listdir(directory_talks):
             permalink_end = permalink_trim.find('\n')
             permalink = permalink_trim[:permalink_end]
 
-            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br /><i>{}</i><br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,type,date,permalink,title)
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,date,type[1:-1],permalink,title)
             print(marker_data, file=open(mapfile,"a"))
             print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
             #if typename is "blueIcon":
@@ -163,24 +164,37 @@ for file in attended_woskshops:
         location = loc_trim[:loc_end]
         position = geolocator.geocode(location, language='en')
         coord_array.append([position.latitude,position.longitude])
+        location = location.split(",")[0]
 
-        venue_start = lines.find('venue: "') + 8 #look for location
+        venue_start = lines.find('venue: "') + 8 #look for venue
         venue_trim = lines[venue_start:]
         venue_end = venue_trim.find('"')
-        loc_name = venue_trim[:venue_end]
-
-        typename = "tealIcon"
+        venue_name = venue_trim[:venue_end]
 
         link_start = lines.find("url: '") + 6 #look for permalink
         link_trim = lines[link_start:]
         link_end = link_trim.find("'")
         link = link_trim[:link_end]
 
+        period_start = lines.find('period: "') + 9 #look for period
+        period_trim = lines[period_start:]
+        period_end = period_trim.find('"')
+        period = period_trim[:period_end]
+
+        type_start = lines.find('type: ') + 6 #look for type
+        type_trim = lines[type_start:]
+        type_end = type_trim.find('\n')
+        type = type_trim[:type_end]
+
+        if "school" in type.lower():
+            typename = "purpleIcon"
+        else:
+            typename = "tealIcon"
 
         if link == '':
-            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br />{}<br /><i>{}</i>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,date,title)
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><i>{}</i>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],title)
         else:
-            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,date,link,title)
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],link,title)
         print(marker_data, file=open(mapfile,"a"))
         print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
         counter+=1

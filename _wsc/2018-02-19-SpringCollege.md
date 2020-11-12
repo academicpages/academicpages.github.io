@@ -1,7 +1,7 @@
 ---
 title: 'Spring College on the Physics of Complex Systems'
 collection: wsc
-type: "School"
+type: 'School'
 permalink: /wsc/2018-02-19-SpringCollege
 venue: "International Centre for Theoretical Physics"
 date: 2018-02-19
