@@ -11,9 +11,10 @@
 {% assign authors = post.authors %}
 {% assign venue = post.venue %}
 {% assign period = post.period %}
+{% assign url = post.url %}
 
 
-<div class="{{ include.type | default: "list" }}__item">
+<<div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <li>
     {% if include.type == "grid" and teaser %}
@@ -30,7 +31,7 @@
 
     <p>
       {% if post.url %}
-        <a href="{{ post.url }}" rel="permaurl" target="_blank">{{ title }}</a>, <i>{{ venue }}</i>, {{ period }}.
+        <a href="{{ url }}" target="_blank">{{ title }}</a>, <i>{{ venue }}</i>, {{ period }}.
       {% else %}
         {{ title }}, <i>{{ venue }}</i>, {{ period }}.
       {% endif %}
