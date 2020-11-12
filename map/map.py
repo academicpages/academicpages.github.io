@@ -1,19 +1,18 @@
-
-
 import os
 from geopy.geocoders import Nominatim
 import subprocess
 
-directory = "."
+directory_talks = "../_talks"
+directory_workshops= "../_wsc"
 geolocator = Nominatim(user_agent="script")
-mapfile="../talkmap/map.html"
+mapfile="./map.html"
 
 map_preamble = """
 <!DOCTYPE html>
 <html>
 <head>
 
-    	<title>Talkmap</title>
+    	<title>Map</title>
 
     	<meta charset="utf-8" />
     	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,7 +39,7 @@ map_preamble = """
                 id: 'mapbox.streets'}).addTo(mymap);
 
             var MarkerIcon = L.Icon.extend({
-                options: {shadowUrl: '../talkmap/leaflet_images/marker-shadow.png',
+                options: {shadowUrl: './leaflet_images/marker-shadow.png',
                 iconSize:     [25, 41],
                 shadowSize:   [41, 41],
                 iconAnchor:   [12.5,41],
@@ -49,9 +48,12 @@ map_preamble = """
                 },
             });
 
-            var blueIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_blue.png'}),
-                redIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_red.png'}),
-                yellowIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_yellow.png'});
+            var blueIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_blue.png'}),
+                redIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_red.png'}),
+                yellowIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_yellow.png'});
+                orangeIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_orange.png'});
+                purpleIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_purple.png'});
+                tealIcon = new MarkerIcon({iconUrl: './leaflet_images/marker-icon_teal.png'});
 
             var clusteredmarkers = new L.MarkerClusterGroup({showCoverageOnHover: false});
 
@@ -79,14 +81,19 @@ print(map_preamble, file=open(mapfile, "w"))
 coord_array = []
 
 counter = 0
-for file in os.listdir(directory):
-    with open(file, 'r') as f:
+for file in os.listdir(directory_talks):
+    with open(directory_talks+"/"+file, 'r') as f:
         lines = f.read()
         if file.endswith((".md")):
             title_start = lines.find("title: '") + 8 #look for title
             title_trim = lines[title_start:]
             title_end = title_trim.find("'")
             title = title_trim[:title_end]
+
+            type_start = lines.find("type: '") + 7 #look for title
+            type_trim = lines[type_start:]
+            type_end = type_trim.find("'")
+            type = type_trim[:type_end]
 
             date_start = lines.find('date: ') + 6 #look for date
             date_trim = lines[date_start:]
@@ -99,7 +106,13 @@ for file in os.listdir(directory):
             location = loc_trim[:loc_end]
             position = geolocator.geocode(location, language='en')
             coord_array.append([position.latitude,position.longitude])
-            loc_name = position.address.split(',')[0] +','+ position.address.split(',')[-1]
+            location = location.split(",")[0]
+
+            venue_start = lines.find('venue: "') + 8 #look for location
+            venue_trim = lines[venue_start:]
+            venue_end = venue_trim.find('"')
+            venue_name = venue_trim[:venue_end]
+            #venue_name = position.address.split(',')[0] +','+ position.address.split(',')[-1]
 
             type_start = lines.find('type: ') + 6 #look for type
             type_trim = lines[type_start:]
@@ -110,14 +123,14 @@ for file in os.listdir(directory):
             elif "invited" in type.lower():
                 typename = "redIcon"
             elif "poster" in type.lower():
-                typename = "yellowIcon"
+                typename = "orangeIcon"
 
             permalink_start = lines.find('permalink: ') + 11 #look for permalink
             permalink_trim = lines[permalink_start:]
             permalink_end = permalink_trim.find('\n')
             permalink = permalink_trim[:permalink_end]
 
-            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b><br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,loc_name,date,permalink,title)
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,date,type[1:-1],permalink,title)
             print(marker_data, file=open(mapfile,"a"))
             print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
             #if typename is "blueIcon":
@@ -127,6 +140,65 @@ for file in os.listdir(directory):
             #elif typename is "yellowIcon":
             #    print('            posters.addLayer(marker{});\n'.format(counter+1), file=open(mapfile,"a"))
             counter+=1
+
+
+list_talks = os.listdir(directory_talks)
+list_workshops = os.listdir(directory_workshops)
+attended_woskshops = list(set(list_workshops)-set(list_talks))
+for file in attended_woskshops:
+    with open(directory_workshops+"/"+file, 'r') as f:
+        lines = f.read()
+        title_start = lines.find("title: '") + 8 #look for title
+        title_trim = lines[title_start:]
+        title_end = title_trim.find("'")
+        title = title_trim[:title_end]
+
+        date_start = lines.find('date: ') + 6 #look for date
+        date_trim = lines[date_start:]
+        date_end = date_trim.find('\n')
+        date = date_trim[:date_end]
+
+        loc_start = lines.find('location: "') + 11 #look for location
+        loc_trim = lines[loc_start:]
+        loc_end = loc_trim.find('"')
+        location = loc_trim[:loc_end]
+        position = geolocator.geocode(location, language='en')
+        coord_array.append([position.latitude,position.longitude])
+        location = location.split(",")[0]
+
+        venue_start = lines.find('venue: "') + 8 #look for venue
+        venue_trim = lines[venue_start:]
+        venue_end = venue_trim.find('"')
+        venue_name = venue_trim[:venue_end]
+
+        link_start = lines.find("url: '") + 6 #look for permalink
+        link_trim = lines[link_start:]
+        link_end = link_trim.find("'")
+        link = link_trim[:link_end]
+
+        period_start = lines.find('period: "') + 9 #look for period
+        period_trim = lines[period_start:]
+        period_end = period_trim.find('"')
+        period = period_trim[:period_end]
+
+        type_start = lines.find('type: ') + 6 #look for type
+        type_trim = lines[type_start:]
+        type_end = type_trim.find('\n')
+        type = type_trim[:type_end]
+
+        if "school" in type.lower():
+            typename = "purpleIcon"
+        else:
+            typename = "tealIcon"
+
+        if lines.find("url: '") == -1:
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><i>{}</i>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],title)
+        else:
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],link,title)
+        print(marker_data, file=open(mapfile,"a"))
+        print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
+        counter+=1
+
 
 markerarray = ''
 for num in range(1,counter):

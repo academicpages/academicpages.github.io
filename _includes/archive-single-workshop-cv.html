@@ -1,0 +1,44 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+
+{% assign title = post.title %}
+{% assign authors = post.authors %}
+{% assign venue = post.venue %}
+{% assign period = post.period %}
+
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <li>
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <p>
+      {% if post.url %}
+        <a href="{{ post.url }}" rel="permaurl" target="_blank">{{ title }}</a>, <i>{{ venue }}</i>, {{ period }}.
+      {% else %}
+        {{ title }}, <i>{{ venue }}</i>, {{ period }}.
+      {% endif %}
+    </p>
+
+
+
+
+    </li>
+ </article>
+</div>

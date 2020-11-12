@@ -63,19 +63,9 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 
 
 ## Attended conferences, workshops and schools
-* [English for Academic Writing](https://www.unibo.it/en/teaching/summer-and-winter-schools/2019/english-for-academic-writing-winter-school){:target="_blank"}<!--_-->, *University of Bologna, Forlì campus*, 7th-10th January 2020
-* [5th Italian Conference of Physics Students](http://ai-sf.it/cisf19/){:target="_blank"}<!--_-->, *University of Milan, Department of Physics*, 6th-10th March 2019
-* The physics of complex systems IV: from Padova to the rest of the world and back, *University of Padua, Department of Physics*, 20th December 2018
-<!--* [LIPh lab Winter Workshop 2018](https://www.liphlab.com/workshops/winter-workshop-2018/){:target="_blank"}, *Folgaria*, 16th-18th December 2018-->
-* [Conference on Complex Systems 2018](https://ccs2018.web.auth.gr/){:target="_blank"}<!--_-->, *Aristotle University of Thessaloniki*, 23rd-28th September 2018
-* [104th Congress of the Italian Physical Society](http://www.fis.unical.it/sif2018/){:target="_blank"}<!--_-->, *University of Calabria, Department of Physics*, 17th-21st September 2018
-* [4th Italian Conference of Physics Students](https://ai-sf.it/cisf18/){:target="_blank"}<!--_-->, *University of Pisa, Department of Physics*, 20th-23rd April 2018
-* [Stochastic Models in Ecology and Evolutionary Biology](https://www.pd.infn.it/~maritan/veniceworkshop/veniceworkshop.html){:target="_blank"}<!--_-->, *Istituto Veneto di Scienze, Lettere ed Arti, Venezia*, 5th-7th April 2018
-* [Spring College on the Physics of Complex Systems](https://indico.ictp.it/event/8299/){:target="_blank"}<!--_-->, *International Centre for Theoretical Physics, Trieste*, 19th February - 16th March 2018
-* [32nd International Conference of Physics Students](https://www.icps2017.it/){:target="_blank"}<!--_-->, *University of Turin, Department of Physics*, 7th-13th August 2017
-* [3rd Italian Conference of Physics Students](https://www.ai-sf.it/cisf2017/){:target="_blank"}<!--_-->, *University of Bari, Department of Physics*, 11th-13th May 2017
-* Venice meeting on fluctuations in small complex systems III,  *Istituto Veneto di Scienze, Lettere ed Arti, Venezia*, 3rd-6th October 2016
-* [2nd Italian Conference of Physics Students](https://www.ai-sf.it/cisf2016/){:target="_blank"}<!--_-->, *University of Turin, Department of Physics*, 22nd-24th April 2016
+<ul>{% for post in site.wsc reversed %}
+  {% include archive-single-workshop-cv.html %}
+{% endfor %}</ul>
 
 
 ## Organized conferences, workshops and schools

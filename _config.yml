@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Leonardo Pacciani-Mori"
-title_separator          : " | "
+title_separator          : " &#124; "
 name                     : &name "Leonardo Pacciani-Mori"
 description              : &description "PhD student in Physics at University of Padua"
 url                      : https://leonardo.pm # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -187,6 +187,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  wsc:
     output: true
     permalink: /:collection/:path/
 

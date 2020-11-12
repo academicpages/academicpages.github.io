@@ -36,7 +36,7 @@
 	}).addTo(mymap);
 
 	var MarkerIcon = L.Icon.extend({
-						options: {shadowUrl: '../talkmap/leaflet_images/marker-shadow.png',
+						options: {shadowUrl: '../map/leaflet_images/marker-shadow.png',
 						iconSize:     [25, 41],
 						shadowSize:   [41, 41],
 						iconAnchor:   [12.5,41],
@@ -45,7 +45,7 @@
 						},
 				});
 
-	var greenIcon = new MarkerIcon({iconUrl: '../talkmap/leaflet_images/marker-icon_green.png'})
+	var greenIcon = new MarkerIcon({iconUrl: '../map/leaflet_images/marker-icon_green.png'})
 
 
 	L.marker([45.409235,11.885922], {icon: greenIcon}).addTo(mymap).bindPopup('<a href="https://www.unipd.it/en/" target="_blank">University of Padua</a><br /><a href="http://www.dfa.unipd.it/"  target="_blank">Department of Physics and Astronomy "Galileo Galilei"</a><br />Via Francesco Marzolo 8, Padua 35131 Italy').openPopup();
