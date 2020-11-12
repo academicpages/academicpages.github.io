@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Ting Chen and I'm an undergraduate senior at the University of Richmond. I'm broadly interested in Bayesian and nonparametric statistics and their applications to machine learning and natural language processing methods.
+Hi! My name is Ting Chen and I'm an undergraduate senior at the University of Richmond, currently applying to PhD programs. I'm broadly interested in Bayesian and nonparametric statistics as well as their applications in machine learning and natural language processing methods.
