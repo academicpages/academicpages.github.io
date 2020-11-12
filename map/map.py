@@ -171,7 +171,7 @@ for file in attended_woskshops:
         venue_end = venue_trim.find('"')
         venue_name = venue_trim[:venue_end]
 
-        link_start = lines.find("url: '") + 6 #look for permalink
+        link_start = lines.find("link: '") + 7 #look for permalink
         link_trim = lines[link_start:]
         link_end = link_trim.find("'")
         link = link_trim[:link_end]
@@ -191,7 +191,7 @@ for file in attended_woskshops:
         else:
             typename = "tealIcon"
 
-        if lines.find("url: '") == -1:
+        if lines.find("link: '") == -1:
             marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><i>{}</i>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],title)
         else:
             marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],link,title)
