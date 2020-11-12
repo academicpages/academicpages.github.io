@@ -25,18 +25,6 @@ I am currently a research intern at [Microsoft](https://www.microsoft.com/en-us/
 
 ## Publications
 <ul>
-    <li>ATROPOS: Automated Concurrency Bug Repair via Database Schema Refactoring
-    <br />
-    <font size="3">
-      (Kia Rahmani, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
-    </font> <br /> <font size="2"> 
-      [Under Submission]
-    </font>
-    </li>
-</ul>
-
-
-<ul>
     <li>CLOTHO: Directed Test Generation for Weakly Consistent Database Systems
     <br />
     <font size="3">
