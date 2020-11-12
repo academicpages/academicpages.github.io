@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<p style="text-decoration:underline;"><a href="/files/ModernCV.pdf">Link to CV</a></p>
+<p style="text-decoration:underline;"><a href="/files/Ting_CV.pdf">Link to CV</a></p>
