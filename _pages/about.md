@@ -71,9 +71,6 @@ I am currently a research intern at [Microsoft](https://www.microsoft.com/en-us/
      [Slides]
    </a>
 
-    
-    </font>
-    </li>
 </ul>
 
 
