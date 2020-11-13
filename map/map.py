@@ -4,6 +4,7 @@ import subprocess
 
 directory_talks = "../_talks"
 directory_workshops= "../_wsc"
+directory_exp= "../_visits-and-experience"
 geolocator = Nominatim(user_agent="script")
 mapfile="./map.html"
 
@@ -153,10 +154,10 @@ for file in attended_woskshops:
         title_end = title_trim.find("'")
         title = title_trim[:title_end]
 
-        date_start = lines.find('date: ') + 6 #look for date
-        date_trim = lines[date_start:]
-        date_end = date_trim.find('\n')
-        date = date_trim[:date_end]
+        #date_start = lines.find('date: ') + 6 #look for date
+        #date_trim = lines[date_start:]
+        #date_end = date_trim.find('\n')
+        #date = date_trim[:date_end]
 
         loc_start = lines.find('location: "') + 11 #look for location
         loc_trim = lines[loc_start:]
@@ -195,6 +196,40 @@ for file in attended_woskshops:
             marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><i>{}</i>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],title)
         else:
             marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],link,title)
+        print(marker_data, file=open(mapfile,"a"))
+        print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
+        counter+=1
+
+
+for file in os.listdir(directory_exp):
+    with open(directory_exp+"/"+file, 'r') as f:
+        lines = f.read()
+
+        loc_start = lines.find('location: "') + 11 #look for location
+        loc_trim = lines[loc_start:]
+        loc_end = loc_trim.find('"')
+        location = loc_trim[:loc_end]
+        position = geolocator.geocode(location, language='en')
+        coord_array.append([position.latitude,position.longitude])
+        #location = location.split(",")[0]
+
+        venue_start = lines.find('venue: "') + 8 #look for venue
+        venue_trim = lines[venue_start:]
+        venue_end = venue_trim.find('"')
+        venue_name = venue_trim[:venue_end]
+
+        period_start = lines.find('period: "') + 9 #look for period
+        period_trim = lines[period_start:]
+        period_end = period_trim.find('"')
+        period = period_trim[:period_end]
+
+        type_start = lines.find('type: ') + 6 #look for type
+        type_trim = lines[type_start:]
+        type_end = type_trim.find('\n')
+        type = type_trim[:type_end]
+
+        typename = "purpleIcon"
+        marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br /><i>{}</i>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1])
         print(marker_data, file=open(mapfile,"a"))
         print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
         counter+=1

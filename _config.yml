@@ -192,6 +192,9 @@ collections:
   wsc:
     output: true
     permalink: /:collection/:path/
+  exp:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
