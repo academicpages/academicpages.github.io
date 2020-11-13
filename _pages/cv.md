@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\CV.pdf){: .btn .btn--info}
+The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Akash_Kumar_shortcv.pdf){: .btn .btn--info}
 
 Research Interests
 ------
