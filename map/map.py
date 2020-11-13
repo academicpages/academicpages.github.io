@@ -186,7 +186,7 @@ for file in attended_woskshops:
         type_end = type_trim.find('\n')
         type = type_trim[:type_end]
 
-        if "school" in type.lower():
+        if "school" in type.lower() or "workshop" in type.lower():
             typename = "purpleIcon"
         else:
             typename = "tealIcon"
