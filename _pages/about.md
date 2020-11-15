@@ -23,5 +23,5 @@ My main research interest is microbial competition. In particular, I study consu
 <iframe src="/collab_net/network.html" height="500" width="100%" style="border:none;"></iframe>-->
 
 ### Map
-<p>Here is a map of all the places where I have either given an <span style="color:#CA2C28">invited</span> or a <span style="color:#2981CA">contributed talk</span>, presented a  <span style="color:#CB6B2B">poster</span>, attended an <span style="color:#2BB7CB">event</span>, or spent a significant <span style="color:#6C28CA">period</span>. (click any marker for more information). Click any cluster to zoom and expand it<!--, and use the layer control menu to select which category to show:-->:</p>
+<p>Here is a map of all the places where I have either given an <span style="color:#CA2C28">invited</span> or a <span style="color:#2981CA">contributed talk</span>, presented a  <span style="color:#CB6B2B">poster</span>, attended an <span style="color:#2BB7CB">event</span>, or spent a significant <span style="color:#6C28CA">period</span> (click any marker for more information). Click any cluster to zoom and expand it<!--, and use the layer control menu to select which category to show:-->:</p>
 <iframe src="/map/map.html" height="700" width="100%" style="border:none;"></iframe>
