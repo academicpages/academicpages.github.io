@@ -3,8 +3,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  # - title: "Service"
-  #   url: /service/    
+  - title: "Service"
+    url: /service/
 
   # - title: "Teaching"
   #   url: /teaching/    

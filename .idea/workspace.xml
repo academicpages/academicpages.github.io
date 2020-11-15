@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7a78b00-739c-428c-b194-ae921dd49eab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/personal_website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/em-websocket-0.5.2/em-websocket.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/AbstractMemory.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/ArrayType.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Buffer.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Call.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/ClosurePool.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/DynamicLibrary.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Function.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/FunctionInfo.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/LastError.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/LongDouble.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/MappedType.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/MemoryPointer.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/MethodHandle.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Platform.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Pointer.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Struct.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/StructByValue.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/StructLayout.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Thread.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Type.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Types.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/Variadic.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/ffi.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/ffi_c.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/.libs/libffi.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/.libs/libffi_convenience.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/doc/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/.libs/closures.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/.libs/java_raw_api.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/.libs/prep_cif.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/.libs/raw_api.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/.libs/types.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/x86/.libs/ffi64.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/x86/.libs/ffiw64.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/x86/.libs/unix64.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi-x86_64-linux-gnu/src/x86/.libs/win64.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/configure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/doc/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/doc/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/doc/libffi.texi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/doc/version.texi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/fficonfig.h.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/include/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/install-sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/libtool-ldflags" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/ltmain.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/man/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/missing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/msvc_build/aarch64/aarch64_include/fficonfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/ext/ffi_c/libffi/testsuite/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/ffi-1.13.1/lib/ffi_c.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/ruby_http_parser.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/ruby_http_parser.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/ryah_http_parser.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/ryah_http_parser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/ryah_http_parser.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/ext/primitives.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/src/Http-parser.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/lib/ruby_http_parser.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext/unf_ext.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/lib/unf_ext.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bundle/config" beforeDir="false" afterPath="$PROJECT_DIR$/.bundle/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/comments/layout-comments/comment-1470944006665.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/layout-comments/comment-1470944006665.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/comments/layout-comments/comment-1470944162041.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/layout-comments/comment-1470944162041.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/comments/markup-syntax-highlighting/comment-1470969665387.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/markup-syntax-highlighting/comment-1470969665387.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942205700.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942205700.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942247755.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942247755.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942265819.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942265819.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942493518.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942493518.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/ui-text.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/ui-text.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/post-draft.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/post-draft.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics-providers/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics-providers/custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics-providers/google-universal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics-providers/google-universal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics-providers/google.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics-providers/google.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive-single-cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single-cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive-single-talk-cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single-talk-cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive-single-talk.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single-talk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/author-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/base_path" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/base_path" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/breadcrumbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/breadcrumbs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/browser-upgrade.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/browser-upgrade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/category-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/category-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comment.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/discourse.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/discourse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/disqus.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/disqus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/facebook.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/facebook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/google-plus.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/google-plus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/staticman.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/staticman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/feature_row" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/feature_row" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/gallery" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/gallery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/group-by-array" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/group-by-array" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/masthead.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/masthead.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/page__hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/page__hero.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/page__taxonomy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/page__taxonomy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/paginator.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/paginator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/post_pagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/read-time.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/read-time.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/seo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/seo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social-share.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social-share.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/tag-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/tag-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/toc" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archive-taxonomy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/archive-taxonomy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/compress.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/compress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/splash.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/splash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/talk.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/talk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/404.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/archive-layout-with-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/archive-layout-with-content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/category-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/category-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/collection-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/collection-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/markdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/non-menu-page.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/non-menu-page.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/page-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/page-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/sitemap.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/sitemap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/tag-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/tag-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/talkmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/talkmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/talks.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/talks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/terms.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/terms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/year-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/year-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-08-14-blog-post-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2013-08-14-blog-post-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-14-blog-post-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-08-14-blog-post-4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2199-01-01-future-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2199-01-01-future-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_animations.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_archive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_archive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_masthead.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_notices.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_notices.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_print.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_syntax.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_syntax.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_tables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/_breakpoint.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/_breakpoint.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/_context.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/_context.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/_helpers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/_legacy-settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/_legacy-settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/_no-query.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/_no-query.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/_parsers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/_parsers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/_respond-to.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/_respond-to.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/_settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_double.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_double.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_query.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_query.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_resolution.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_resolution.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_single.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_single.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_triple.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/_triple.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/double/_default-pair.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/double/_default-pair.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/double/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/double/_default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/double/_double-string.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/double/_double-string.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/resolution/_resolution.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/resolution/_resolution.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/single/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/single/_default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/triple/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/breakpoint/parsers/triple/_default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_animated.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_bordered-pulled.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_fixed-width.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_larger.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_rotated-flipped.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_screen-reader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_shims.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_stacked.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/brands.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/brands.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/fontawesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/fontawesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/regular.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/regular.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/solid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/solid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/v4-shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/v4-shims.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/magnific-popup/_magnific-popup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/magnific-popup/_magnific-popup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/magnific-popup/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/magnific-popup/_settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/_su.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/_su.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/_susy.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/_susy.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/_susyone.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/_susyone.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/_su.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/_su.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/_susy.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/_susy.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/_susyone.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/_susyone.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_background.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_bleed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_bleed.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_box-sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_box-sizing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_breakpoint-plugin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_breakpoint-plugin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_container.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_context.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_context.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_gallery.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_gallery.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_grids.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_grids.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_gutters.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_gutters.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_isolate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_isolate.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_margins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_margins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_padding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_padding.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_rows.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_rows.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_span.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_span.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_validation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susy/_validation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_background.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_isolation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_isolation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_margin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_margin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_padding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_padding.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/language/susyone/_settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/_shared.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/_shared.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/_support.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/_support.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/float/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/float/_container.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/float/_end.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/float/_end.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/float/_isolate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/float/_isolate.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/float/_span.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/float/_span.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_background.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_container.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_direction.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_direction.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_inspect.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_inspect.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_margins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_margins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_output.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_output.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_padding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/shared/_padding.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_background.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_box-sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_box-sizing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_prefix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_prefix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_rem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_rem.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_support.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/output/support/_support.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/su/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/su/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/su/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/su/_settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/su/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/su/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/susy/susy/su/_validation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/susy/susy/su/_validation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2013-03-01-tutorial-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2013-03-01-tutorial-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-03-01-talk-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2014-03-01-talk-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2014-spring-teaching-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2014-spring-teaching-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2015-spring-teaching-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2015-spring-teaching-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/collapse.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/collapse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/_main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/collapse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.fitvids.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.fitvids.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.greedy-navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.greedy-navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.smooth-scroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.smooth-scroll.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/stickyfill.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/stickyfill.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/jquery/jquery-1.12.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/vendor/jquery/jquery-1.12.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/images/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/PubsFromBib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/PubsFromBib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/publications.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/publications.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/publications.py" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/publications.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/publications.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/publications.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/pubsFromBib.py" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/pubsFromBib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/talks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/talks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/talks.py" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/talks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/talks.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/talks.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap/leaflet_dist/MarkerCluster.Default.css" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/leaflet_dist/MarkerCluster.Default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap/leaflet_dist/MarkerCluster.css" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/leaflet_dist/MarkerCluster.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap/leaflet_dist/leaflet.markercluster-src.js" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/leaflet_dist/leaflet.markercluster-src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap/leaflet_dist/leaflet.markercluster.js" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/leaflet_dist/leaflet.markercluster.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap/leaflet_dist/screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/leaflet_dist/screen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talkmap/org-locations.js" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/org-locations.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1kLTjuel01PjDOyZYnjCQX7FUxh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a78b00-739c-428c-b194-ae921dd49eab" name="Default Changelist" comment="" />
+      <created>1605479011233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605479011233</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update service information">
+      <created>1605480276930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605480276930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update service information" />
+    <option name="LAST_COMMIT_MESSAGE" value="update service information" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1827" y="86" width="1350" height="638" key="DiffContextDialog" timestamp="1605483473525">
+      <screen x="-1920" y="-7" width="1536" height="824" />
+    </state>
+    <state x="-1827" y="86" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1920.-7.1536.824@-1920.-7.1536.824" timestamp="1605483473525" />
+    <state x="-1559" y="138" key="Vcs.Push.Dialog.v2" timestamp="1605480282213">
+      <screen x="-1920" y="-7" width="1536" height="824" />
+    </state>
+    <state x="-1559" y="138" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.-7.1536.824@-1920.-7.1536.824" timestamp="1605480282213" />
+    <state x="-1571" y="139" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1605480657856">
+      <screen x="-1920" y="-7" width="1536" height="824" />
+    </state>
+    <state x="-1571" y="139" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824/-1920.-7.1536.824@-1920.-7.1536.824" timestamp="1605480657856" />
+    <state x="-1442" y="4" width="579" height="801" key="find.popup" timestamp="1605479974299">
+      <screen x="-1920" y="-7" width="1536" height="824" />
+    </state>
+    <state x="-1442" y="4" width="579" height="801" key="find.popup/0.0.1536.824/-1920.-7.1536.824@-1920.-7.1536.824" timestamp="1605479974299" />
+  </component>
+</project>
