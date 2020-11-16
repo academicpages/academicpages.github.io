@@ -10,14 +10,22 @@ redirect_from:
 
 Introduction
 ======
-This is the personal website of Shawn. I provide consultant for students and entry-level engineers about education programs and career development. If you are interested in my previous projects and technical experience, please visit [my portfolio](https://shawnxd.github.io/portfolio/). If you are intested in my consulting and would like to get some advice from me, pelase have a look at [my service](https://shawnxd.github.io/service/)
+This is the personal website of Shawn. I'm working as a software engineer at the Bay Area. During my spare time, I also provide consulting for students and entry-level engineers about CS related programs and tech career development.   
+- If you are curious about my previous projects and technical experience, please visit [my portfolio](https://shawnxd.github.io/portfolio/).   
+- If you are interested in my consulting and would like to get some advice from me, please have a look at [my service](https://shawnxd.github.io/service/).  
+- If you would like to just find something interesting, you can find my posts at [my blog posts](https://shawnxd.github.io/year-archive/).
 
+Reach Out
+======
+Don't be shy if you are interested to build connections. Here are my contact info:  
+- WeChat: shawnxdong (Please note your name and intention)
+- Email: shawnxdong@gmail.com
 
 <!-- Services I provide
 ======
 1. One to one mock interview and resume revision section.
 1. One to one master/ phd program guidance (computer science/ engineering/ business analytics fields).
-1. Other personalized service related to coinsulting and careers in tech.
+1. Other personalized service related to consulting and career development in tech.
 ---
 
 ---
