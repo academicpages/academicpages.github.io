@@ -73,9 +73,13 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>>
+  
+* Teaching Assistant: Machine Learning and Data mining, Fall 2017 (CMI)
+
+* Teaching Assistant: Discrete Mathematics, Spring 2016 (CMI)
   
 Professional Services
 ======
