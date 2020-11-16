@@ -67,9 +67,7 @@ Publications
   
 Talks
 ======
- <!-- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>-->
+
 * Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach (BY CHO JUI HSIEH ET AL)
 
   * SLIDES TALK (2018, Aalto University, Finland) 
@@ -102,9 +100,6 @@ Talks
   
 Teaching
 ======
-  <!--<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
   
 * Teaching Assistant: Machine Learning and Data mining, Fall 2017 (CMI)
 
