@@ -69,32 +69,26 @@ Talks
 ======
 
 * Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach (BY CHO JUI HSIEH ET AL)
-
   * SLIDES TALK (2018, Aalto University, Finland) 
   * Presentation given as part of the seminar course on Adversarial Deep Learning
   
 * Manifold Learning and Tensor Decomposition
-
   * SLIDES TALK (2018,  CMI, India)
   * Presentation given as part of the defense of the Master’s thesis at CMI.
   
 * Tabular Data Summarization
-
   * POSTER PRESENTATION (2017-18, IBM Research, India)
   * Presentation given as part of the internship at IBM Research.
   
 * The sum of d small-bias generators fools polynomials of degree d (BY E VIOLA)
-
   * SLIDES TALK (2017, IIT Madras, India)
   * Presentation given as part of the course Pseudorandomness at Indian Institute of Technology, Madras.
     
 * Hierarchical Optimistic Optimization (HOO)
-  
   * BOARD TALK (2017, CMI, India)
   * Presentation given as part of the seminar course Advanced Machine Learning. It covers the techniques from the paper $\chi$-armed bandits by Bubeck et al.
   
 * Algebraic Independence and Blackbox Identity Testing (BY MALTE BEECKEN, JOHANNES MITTMANN, NITIN SAXENA)
-
   * BOARD TALK (2016, CMI, India)
   * Presentation given as part of the course Arithmetic Circuits.
   
