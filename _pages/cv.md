@@ -73,9 +73,9 @@ Talks
   
 Teaching
 ======
-  <!<ul>{% for post in site.teaching %}
+  <!--<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>>
+  {% endfor %}</ul>-->
   
 * Teaching Assistant: Machine Learning and Data mining, Fall 2017 (CMI)
 
