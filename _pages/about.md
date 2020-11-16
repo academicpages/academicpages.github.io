@@ -12,6 +12,8 @@ I am a PhD student at Monash University working on gamma-ray bursts, neutron sta
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
+* 16th November 2020: Today I am giving an invited talk at Caltech 
+* 28th October 2020: _CDF XT1: an off-axis neutron star merger at z = 2.23_ submitted to Nature!
 * September 2020: _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ accepted in MNRAS.
 * August 2020: I gave a couple more remote talks this month. One at the Flatiron Institute, and another at the University of California, Berkeley.
 * August 2020: Submitted _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ to MNRAS. See it on [arXiv](https://arxiv.org/abs/2008.05745).
