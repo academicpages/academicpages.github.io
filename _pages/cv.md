@@ -20,8 +20,8 @@ I seek to solve theoretical machine learning problems using ideas from mathemati
 
 Education
 ======
-* Research Fellow at Max Planck Institute for Software Systems{:target="_blank"}, Sept, 2019 - Present<br>
-* Ph.D. student at School of Science, Department of Computer Science{:target="_blank"}, Sept, 2018 - Aug, 2019<br>
+* Research Fellow at Max Planck Institute for Software Systems {:target="_blank"}, Sept, 2019 - Present<br>
+* Ph.D. student at School of Science, Department of Computer Science {:target="_blank"}, Sept, 2018 - Aug, 2019<br>
 Aalto University{:target="_blank"}<br>
 * M.Sc. in Computer Science{:target="_blank"}, 2016 - 18<br>
 Chennai Mathematical Institute{:target="_blank"}
