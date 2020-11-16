@@ -35,10 +35,20 @@ Work experience
   * Adviser: Dr. Adish Singla 
   * Project: Teaching and Learning complexity of hypothesis classes e.g. Regions induced by intersections of Halfspaces and non-linear learners e.g. kernel perceptrons.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017 : Research Intern
+  * IBM India Research Lab (Bengaluru, India)
+  * Manager: Dr. Karthik Sankaranarayanan. Mentors: Anirban Laha and Parag Jain
+  * Project: Tabular Data Summarization
+  
+* Summer 2015 : Research Intern
+  * Indian Institute of Technology (Kanpur, India)
+  * Adviser: Dr. Raghunath Tewari
+  * Project: Circuit Complexity: MCSP (minimum circuit size problem)
+  
+* Summer 2014 : Research Intern
+  * Indian Institute of Technology (Madras, India)
+  * Adviser: Dr. Raghunath Tewari
+  * Project: Graceful Labelling of Complete Graphs
   
 Skills
 ======
@@ -67,6 +77,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Services
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS’21) 
