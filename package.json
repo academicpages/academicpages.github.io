@@ -4,7 +4,7 @@
   "description": "Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/mistakes/minimal-mistakes.git"
   },
   "keywords": [
     "jekyll",

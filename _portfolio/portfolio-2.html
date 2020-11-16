@@ -1,11 +1,11 @@
 ---
-title: "Movie Recommandation Project"
-excerpt: "Short description of project architechture <br/><img src='/images/movieProject.png'>"
+title: "Movie Recommendation Project (2019)"
+excerpt: "Short description of project architecture <br/><img src='/images/movieProject.png'>"
 collection: portfolio
 ---
 
-For this Project, I applied TensorFlow, and tried different machine learning models to do predictions. I also applied evaluation tools in sklearn to do evaluation based on hyperparameter adjustments. The main recommandation include the following:<br/>
+For this Project, I applied TensorFlow, and tried different machine learning models to do predictions. I also applied evaluation tools in sklearn to do evaluation based on hyperparameter adjustments. The main recommendation include the following:<br/>
 <br/><b>1. Simple Recommender</b>: This system used overall TMDB Vote Count and Vote Averages to build Top Movies Charts, in general and for a specific genre. The IMDB Weighted Rating System was used to calculate ratings on which the sorting was finally performed.
-<br/><br/><b>2. Content Based Recommender</b>: We built two content based engines; one that took movie overview and taglines as input and the other which took metadata such as cast, crew, genre and keywords to come up with predictions. We also deviced a simple filter to give greater preference to movies with more votes and higher ratings.
+<br/><br/><b>2. Content Based Recommender</b>: We built two content based engines; one that took movie overview and taglines as input and the other which took metadata such as cast, crew, genre and keywords to come up with predictions. We also devised a simple filter to give greater preference to movies with more votes and higher ratings.
 <br/><br/><b>3.Collaborative Filtering</b>: We used the powerful Surprise Library to build a collaborative filter based on single value decomposition. The RMSE obtained was less than 1 and the engine gave estimated ratings for a given user and movie.
-<br/><br/><b>4.Hybrid Engine</b>: We brought together ideas from content and collaborative filterting to build an engine that gave movie suggestions to a particular user based on the estimated ratings that it had internally calculated for that user.
+<br/><br/><b>4.Hybrid Engine</b>: We brought together ideas from content and collaborative filtering to build an engine that gave movie suggestions to a particular user based on the estimated ratings that it had internally calculated for that user.
