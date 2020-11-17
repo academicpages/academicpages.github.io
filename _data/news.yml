@@ -1,19 +1,28 @@
-# News
-- type: acceptance
+- 
+  type: acceptance
   year: 2020
-  month: October
+  month: "10"
   name: "Petr4"
   conference: "POPL 2021"
   conference_url: "https://popl21.sigplan.org/"
-- type: acceptance
+- 
+  type: acceptance
   year: 2020
-  month: October
+  month: "10"
   name: "Deep Programmability"
   conference: "SIGCOMM CCR"
   conference_url: "https://dl.acm.org/newsletter/sigcomm-ccr"
-- type: acceptance
+- 
+  type: acceptance
   name: "Packet Subscriptions"
   conference: "CoNEXT 2020"
   conference_url: "https://conferences2.sigcomm.org/co-next/2020/"
   year: 2020
-  month: September
+  month: "09"
+- 
+  type: acceptance
+  name: "MicroP4"
+  conference: "SIGCOMM 2020"
+  conference_url: "https://conferences.sigcomm.org/sigcomm/2020/"
+  year: 2020
+  month: "05"

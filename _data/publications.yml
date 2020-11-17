@@ -5,6 +5,7 @@
     month: "January"
     year: "2021"
     url: "BASE/papers/petr4.pdf"
+    code: "https://github.com/cornell-netlab/petr4/"
     author:
     -   first: Ryan            
         last: Doenges         

@@ -39,10 +39,34 @@
     name: Pierce Douglis
 -
     type: ugrad
-    name: John Kolesar
+    name: Natalie Isak
 -
     type: ugrad
     name: Priya Srikumar
 -
     type: ugrad
+    name: Noah Thompson
+-
+    type: ugrad
     name: Calvin Shyu
+-
+    type: phd-alumni
+    name: Mark Reitblatt
+    thesis: "Formal Reasoning in Software-Defined Networks"
+    thesis_url: https://ecommons.cornell.edu/handle/1813/47888
+    year: 2017
+    position: Research Scientist, Facebook
+-
+    type: phd-alumni
+    name: Shrutarshi Basu
+    thesis: "Languages for Path-Based Network Programming"
+    thesis_url: "https://ecommons.cornell.edu/handle/1813/59642"
+    year: 2018
+    position: Postdoctoral Researcher, Harvard
+-
+    type: phd-alumni
+    name: Steffen Smolka 
+    thesis: "A (Co)algebraic Approach to Programming and Verifying Computer Networks"
+    thesis_url: https://ecommons.cornell.edu/xmlui/handle/1813/70019
+    year: 2019
+    position: Software Engineer, Google

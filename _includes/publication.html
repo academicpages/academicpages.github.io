@@ -32,5 +32,8 @@
   &#127942; {{ paper.award }}
   {% endif %}
   <br />
-  <a class="file_link paper" href="{{ paper.url | replace:'BASE', site.base }}">PDF</a>
+  <a class="file_link paper" href="{{ paper.url | replace:'BASE', base_path }}">PDF</a>
+  {% if paper.code %}
+  <a class="file_link code" href="{{ paper.code }}">Code</a>
+  {% endif %}
 </li>

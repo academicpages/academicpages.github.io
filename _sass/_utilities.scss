@@ -490,14 +490,14 @@ a.file_link.blog::before {
 
 a.file_link.code::before {
     font-family: "FontAwesome";
-    content: "\f09b\00a0\00a0";
+    content: "\f09b\00a0";
     text-decoration: none;
     display: inline-block;
 }
 
 a.file_link.paper::before {
     font-family: "FontAwesome";
-    content: "\f1c1\00a0\00a0";
+    content: "\f1c1\00a0";
     text-decoration: none;
     display: inline-block;
 }
@@ -533,8 +533,8 @@ a.file_link.award::before {
     content: "\f091\00a0\00a0";
 }
 
-a.file_link.paper {
-//  text-decoration:none;
+a.file_link {
+    margin-right:5px;
 }
 
 .container {
@@ -542,8 +542,17 @@ a.file_link.paper {
   grid-template-columns: repeat(12, 1fr);
 }
 
+.box-4 {
+  grid-column: span 4;
+}
 .box-6 {
   grid-column: span 6;
+}
+.box-8 {
+  grid-column: span 8;
+}
+
+.feature {
   margin: 10px;
   padding: 1em;
   border: 1px solid $darker-gray;
