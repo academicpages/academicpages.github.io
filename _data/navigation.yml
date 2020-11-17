@@ -1,4 +1,7 @@
 # main links links
 main:      
   - title: "CV"
-    url: https://hmmartiny.github.io/files/CV_en.pdf
+    url: /cv/
+
+  - title: "Blog"
+    url: /year-archive/

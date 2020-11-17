@@ -12,23 +12,22 @@ redirect_from:
 Education
 ======
 * B.Sc. in Biotechnology, Technical University of Denmark, 2014-2017
-* M.Sc. in Bioinformatics and Systems Biology, Technical University of Denmark, 2017-2019 (expected)
+* M.Sc. in Bioinformatics and Systems Biology, Technical University of Denmark, 2017-2019
+* Ph.D in Bioinformatics at The Research Group for Genomic Epidemiology, Technical University of Denmark, 2019-2022
 
 Work experience
 ======
-* 2017-: Student Assistant, in the data science team Advanced Analytics
-  * Novozymes, Copenhagen
+* 2017-2019: Student Assistant, in the data science team Advanced Analytics, Novozymes, Copenhagen
   * Duties included:
     * Data cleaning and visualizations
     * Scraping data from online sources
     * Building small apps for user to visualize data and modelling results
 
-* 2013-2017: Student Assistant
-  * Unilabs A/S, Copenhagen
+* 2013-2017: Student Assistant, Unilabs A/S, Copenhagen
   * Department and tasks included:
     * Customer Service: tasks include managing the front desk and telephone service. Collecting and sorting internal paper work, receiving incoming mail or packages, and posting outgoing mail.
     * Unilabs International: jobs are to enter patientdata into the database, sorting patient documents and helping with various tasks to support the rest of the team.
-    * Drug Development Services (DDS): tasks include to receive and handle blood samples to clinical studies, entering the patient data into the database, control of entered data and doing statistical work on those data. Packing sampling kits for blood samples to be send to customers
+    * Drug Development Services (DDS): tasks include to receive and handle blood samples to clinical studies, entering the patient data into the database, control of entered data and doing statistical work on those data. Packing sampling kits for blood samples to be send to customers.
 
 Projects
 ======
@@ -48,6 +47,11 @@ Skills
 ======
 * R 
 * Python
+* SQL
+
+Hobbies
+======
+I do like to draw and paint in my spare time, but more recently I have taken up crochet - a good way to keep my supplies of dish cloths up to date.. I sometimes post my art at Instagram under the user <a href="https://www.instagram.com/hmmartiny/">hmmartiny</a>.
 
 <!-- 
 Publications

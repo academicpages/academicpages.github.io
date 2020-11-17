@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Hannah-Marie Martiny and currently I am pursuing a Master of Science in Bioinformatics and Systems Biology at the Technical University of Denmark. At this time of writing, I have started on my thesis, where I am working with predicting recombinant gene expression by applying deep learning techniques. 
+I'm Hannah-Marie Martiny and currently I am currently a PhD student in Bioinformatics at the Technical University of Denmark in the <a href='https://www.food.dtu.dk/english/research/genomic-epidemiology' targeT="_blank"> Research Group for Genomic Epidemiology at DTU Food</a>. My project is about dong large-scale metagenomic analysis to analyze the global distribution of antimicrobial resistance.
 
 Feel free to reach out to me, if you have any inquries! 
 
