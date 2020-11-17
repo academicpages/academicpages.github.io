@@ -6,15 +6,15 @@ main:
   - title: "Service"
     url: /service/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "Games"
+    url: /games/
     
   # - title: "Publications"
   #   url: /publications/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+
   # - title: "CV"
   #   url: /cv/
     
