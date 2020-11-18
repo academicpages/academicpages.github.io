@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-theme                    : uswds-jekyll #cambio
-site_width               : wide #cambio
+theme                    : jekyll-theme-architect #cambio hecho el 18-11. Se introdujo parametros "site width" y "theme"
+site_width               : wide #cambio hecho el 18-11 
 title                    : "Jorge Condeña Llantoy"
 title_separator          : "-"
 name                     : &name "Jorge Condeña Llantoy"
