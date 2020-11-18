@@ -1,7 +1,7 @@
 ---
 title: 'What *in* the shit?'
 date: 2020-11-18
-permalink: /blog/2020/11/post-sewage-surveillance/
+permalink: /posts/2020/11/post-sewage-surveillance/
 tags:
   - sewage surveillance
   - viral outbreaks
