@@ -1,0 +1,373 @@
+---
+title: "Data Visualization for Research Methods in Sociology"
+author: "Yongjun Zhang"
+date: ""
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+---
+
+```{=html}
+<style type="text/css">
+p{ /* Normal  */
+   font-size: 18px;
+}
+body{ /* Normal  */
+   font-size: 18px;
+}
+td {  /* Table  */
+   font-size: 14px;
+}
+h1 { /* Header 1 */
+ font-size: 32px;
+}
+h2 { /* Header 2 */
+ font-size: 26px;
+}
+h3 { /* Header 3 */
+ font-size: 22px;
+}
+code.r{ /* Code block */
+  font-size: 14px;
+}
+pre { /* Code block */
+  font-size: 14px
+}
+</style>
+```
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+library(knitr)
+opts_chunk$set(message = FALSE, warning = FALSE)
+
+```
+
+# The Goal
+
+> This tutorial aims to help students use R ggplot2 and ggpubr to visualize data and make publication-ready graphs.
+
+> This tutorial is written in Rmarkdown. If you are interested in how to use Rmarkdown to write your final report, you can click here for more details <https://socviz.co/gettingstarted.html>.
+
+# Install and Load Some R Packages
+
+Note that if you copy and paste the codes into your R console, you need to copy all of the following codes. Don't copy line by line. It will break sometimes. 
+
+You can download the entire Rmarkdown here: <https://yongjunzhang.com/files/soc201/Lab15.Rmd>
+
+```{r}
+if (!requireNamespace("pacman")) install.packages('pacman')
+library(pacman)
+packages<-c("tidyverse","ggpubr","ggplot2","socviz","devtools")
+p_load(packages,character.only = TRUE)
+devtools::install_github("kjhealy/socviz",force = TRUE)
+```
+
+# Load the ASA Membership Data
+
+We are using ASA membership as our example data in this tutorial. I will show you how you can load this data into R. You can use similar way to load your csv file into R for some data visualization by modifying some codes.
+
+> ASA memership data is from SOCVIZ, documenting Membership (2005-2015) and some financial information for sections of the American Sociolgical Association
+
+**You can directly load the data via Kiera Healy's socviz R package**
+
+```{r}
+library(socviz)
+asa <- asasec
+```
+
+**Or you can read the csv file via my website**
+
+```{r}
+asa <- read_csv("https://yongjunzhang.com/files/soc201/asasec.csv")
+```
+
+**Or you can download the dataset from my website by the url <https://yongjunzhang.com/files/soc201/asasec.csv> and right click "save as" to your local computer**
+
+```{r}
+# asa <- read_csv("path-to-asasec.csv") # pls replace path-to with your actual file path. e.g. /users/yongjun/desktop/asasec.csv
+```
+
+> **Many of you are using survey data. After you download your Qualtric survey data, you save as a csv file and save that csv file to your local computer, you can use the read_csv to load your data into R using read_csv as I have shown you above.**
+
+
+# Look at the data FIRST
+
+Before doing any data visualization or data analysis, take a look at your data first. 
+
+```{r}
+view(asa)
+```
+
+You can also see the data structure
+
+```{r}
+str(asa)
+```
+
+# Make your first plot in R
+
+For a more detailed intro, pls visit here for more instructions <https://socviz.co/makeplot.html>.
+
+In our lecture, I have talked about the workflow of using R ggplot2 package to make a graph. Keep it in mind that
+
+> Visualization involves representing your data data using lines or shapes or colors and so on. There is some structured relationship, some mapping, between the variables in your data and their representation in the plot displayed on your screen or on the page. We also saw that not all mappings make sense for all types of variables, and (independently of this), some representations are harder to interpret than others. Ggplot provides you with a set of tools to map data to visual elements on your plot, to specify the kind of plot you want, and then subsquently to control the fine details of how it will be displayed.
+
+
+In this example, let us focus on the size of memebership and revenues.If you might think that if a section has more members, it might have more expenses.
+
+```{r}
+knitr::kable(asa[1:10,])
+```
+
+let us start to make a graph
+
+```{r}
+p <- ggplot(data = asa,
+            mapping = aes(x = Members,
+                          y = Expenses))
+```
+
+> Here we’ve given the ggplot() function two arguments instead of one: data and mapping. The data argument tells ggplot where to find the variables it is about to use. see <https://socviz.co/makeplot.html>
+
+> The mapping argument is not a data object, nor is it a character string. Instead, it’s a function.The arguments we give to the aes function are a sequence of definitions that ggplot will use later. Here they say, “The variable on the x-axis is going to be Members, and the variable on the y-axis is going to be Revenues.” The aes() function does not say where variables with those names are to be found. That’s because ggplot() is going to assume things with that name are in the object given to the data argument.
+
+> The mapping = aes(...) argument links variables to things you will see on the plot. The x and y values are the most obvious ones. Other aesthetic mappings can include, for example, color, shape, size, and line type (whether a line is solid or dashed, or some other pattern). A mapping does not directly say what particular, e.g., colors or shapes will be on the plot. Rather they say which variables in the data will be represented by visual elements like a color, a shape, or a point on the plot area.
+
+> The p object has been created by the ggplot() function, and already has information in it about the mappings we want, together with a lot of other information added by default. Now, We need to add a layer to the plot. This means picking a geom_ function. We will use geom_point(). It knows how to take x and y values and plot them in a scatterplot.
+
+```{r}
+p + geom_point()
+```
+
+So you can build your plot like this:
+
+- Tell the ggplot() function what our data is.The data = … step.
+
+- Tell ggplot() what relationships we want to see.For convenience we will put the results of the first two steps in an object called p. The mapping = aes(…) step. 
+
+- Tell ggplot how we want to see the relationships in our data.Choose a geom.
+
+- Layer on geoms as needed, by adding them to the p object one at a time.
+
+- Use some additional functions to adjust scales, labels, tick marks, titles. The scale_, family, labs() and guides() functions.
+
+Now let us add a smooth line
+
+```{r}
+p <- ggplot(data = asa,
+            mapping = aes(x = Members,
+                          y = Expenses))
+p + geom_point() + geom_smooth(method = "lm")
+```
+
+If you take a look at those data points, the linear trend is not actually fit for the data. Let us switch to another way to fit the line using loess function:
+
+```{r}
+p <- ggplot(data = asa,
+            mapping = aes(x = Members,
+                          y = Expenses))
+p + geom_point() + geom_smooth(method = "loess")
+```
+
+Let us change the color of these data points. We can do it in the geom_ we are using, and outside the mapping = aes(...) step.
+
+
+```{r}
+p <- ggplot(data = asa,
+            mapping = aes(x = Members,
+                          y = Expenses))
+p + geom_point(color = "purple") + geom_smooth(method = "loess")
+```
+
+You can also change the line property. Let us change the size and get rid of the shade area (se)
+
+
+
+```{r}
+p <- ggplot(data = asa,
+            mapping = aes(x = Members,
+                          y = Expenses))
+p + geom_point(color = "purple") + geom_smooth(method = "loess",se = FALSE, size = 8)
+```
+
+Now let us add those labels to make this graph more informative
+```{r}
+p <- ggplot(data = asa,
+            mapping = aes(x = Members,
+                          y = Expenses))
+p + 
+  geom_point(alpha = 0.3) + 
+  geom_smooth(method = "loess",se = FALSE, size = 3)+
+  labs(x = "The Number of Members", y = "Expenses in $",
+         title = "ASA Membership and Expenses from 2005 to 2015",
+         subtitle = "Data points are section-years",
+         caption = "Source: SOCVIZ.CO")
+```
+
+You can also change the background and the x-axis and y-axis
+
+```{r}
+p <- ggplot(data = asa,
+            mapping = aes(x = Members,
+                          y = Expenses))
+p + 
+  geom_point(alpha = 0.3) + 
+  geom_smooth(method = "loess",se = FALSE, size = 3)+
+  labs(x = "The Number of Members", y = "Expenses in $",
+         title = "ASA Membership and Expenses from 2005 to 2015",
+         subtitle = "Data points are section-years",
+         caption = "Source: SOCVIZ.CO")+
+  theme_bw() + # change the background theme
+  scale_y_continuous(breaks = seq(0,30000,5000),limits = c(0,30000))
+```
+
+You can also mapping your geom. Let us say you want to distinguish these data points by years.
+
+
+```{r}
+p <- ggplot(data = asa,
+            mapping = aes(x = Members,
+                          y = Expenses))
+p + 
+  geom_point(alpha = 0.3,mapping = aes(color=factor(Year))) + 
+  geom_smooth(method = "loess",se = FALSE, size = 3)+
+  labs(x = "The Number of Members", y = "Expenses in $",
+         title = "ASA Membership and Expenses from 2005 to 2015",
+         subtitle = "Data points are section-years",
+         caption = "Source: SOCVIZ.CO")+
+  theme_bw() + # change the background theme
+  scale_y_continuous(breaks = seq(0,30000,5000),limits = c(0,30000))
+```
+
+
+After you get this graph, the next step is to interpret the results. What does this graph tells us? It seems that there is a curvelinear relationship between membership size and expenses. As members grow, the expenses first increases, but to a certain point the expenses decreases.
+
+
+You might also want to compute the correlation coefficient between these two variables. Given that these are two continunous variables, we will use r coefficient
+
+```{r}
+data <- asa %>% filter(!is.na(Members),!is.na(Expenses))
+cor(data$Members,data$Expenses)
+```
+```{r}
+options(scipen = 999)
+cor.test(data$Members,data$Expenses,method="pearson")
+```
+What does the t-test tell us?
+
+It tells us that the size of section members is positively associated with the amount of expenses. This is statistically significant at the .001 level (p<.001).
+
+For more lab tutorials on how to compute these correlation statistics, pls go through my lecture and the previous tutorials <https://yongjunzhang.com/files/soc201/lab11.html>. 
+
+# Visualize Frequency Distribution
+
+So far we still have not yet plotted the frequency distributions. In data analysis memo, you can focus on descriptive statistics like frequency distributions and central tendency (mean, median, etc.).
+
+ASA membership data has the variable of `Journal` indicating whether a section has a journal or not.
+
+```{r}
+# let us take a look at the raw frequency distribution
+table(asa$Journal)
+```
+
+In the lecture, I have mentioned that you can go to the R graph gallery to check how other folks are doing data visualization. It provides a lot of tools for you to draw different types graphs. Let us say you want to have a histogram for Journal's frequency distribution. Note that this is a section by year data. It shows whether this section has a journal in a specific year.
+
+You can google r graph gallery and go to this webpage: <https://www.r-graph-gallery.com/>
+You then click histogram, and you should be able to see a list of potential graphs you can use.
+
+Let us focus on this one: <https://www.r-graph-gallery.com/histogram_several_group.html>. You can copy and paste their codes here. But you need to modify it for your own purpose.
+
+
+```{r}
+# Let us get a histogram first before using their codes
+p <- ggplot(data=asa,aes(x=Expenses)) +
+    geom_histogram( color="#e9ecef", alpha=0.6, position = 'identity')+
+  theme_bw()
+p
+
+```
+
+
+Note that this dataset is section by year. Let us plot the histogram for each year.
+
+```{r}
+p <- ggplot(data=asa,aes(x=Expenses)) +
+    geom_histogram( color="#e9ecef", alpha=0.6, position = 'identity')+
+  theme_bw()+
+  facet_wrap(~Year) # plot the histogram by each year.
+p
+
+```
+
+What do these histrograms tell us? You see that most sections' expenses actually fall in a range between 0 and 5000. 
+
+
+Here let us copy the codes from r graph gallery and modify the codes to see whether sections with journals have higher expensese.
+
+You do see that sections with journal seem to have higher expenses.
+
+```{r}
+# library
+library(ggplot2)
+library(hrbrthemes)
+# if you don't have package hrbrthemes installed, do this first: install.packages("hrbrthemes")
+
+# Represent it
+p <- asa %>%
+  ggplot( aes(x=Expenses, fill=Journal)) +
+    geom_histogram( color="#e9ecef", alpha=0.6, position = 'identity') +
+    scale_fill_manual(values=c("#69b3a2", "#404080")) +
+    theme_ipsum() +
+    labs(fill="")
+
+p
+```
+
+
+In addition to use ggplot, you can also use ggpubr package to make a graph. I would prefer using ggpubr, because it produces publication-ready graphs.
+
+```{r}
+library(ggpubr)
+# Change outline and fill colors by groups ("sex")
+# Use a custom palette
+gghistogram(asa, x = "Expenses", bins = 30,
+   add = "mean", rug = TRUE,
+   color = "Journal", fill = "Journal",
+   palette = c("#0073C2FF", "#FC4E07"))
+```
+
+Let us use ggpubr Barplot to plot a bar graph for journal.
+
+```{r}
+  ggplot(data=asa,aes(x=Journal)) +
+  geom_bar(fill = "#0073C2FF") +
+  labs(x="Section with Journal?",y="# of Section-Year") +
+  theme_pubclean()
+```
+
+Finally let us talk about Boxplot. If you want to see whether sections with journal have more expenses or not. You can do a boxplot as well.
+
+## Boxplot
+
+```{r}
+ggplot(asa, aes(x = Journal, y = Expenses)) +
+  geom_boxplot(width = 0.4, fill = "white") +
+  geom_jitter(aes(color = Journal, shape = Journal), 
+              width = 0.1, size = 1) +
+  scale_color_manual(values = c("#00AFBB", "#E7B800")) + 
+  theme_pubclean()+
+  labs(x = "Section with Journal?")   # Remove x axis label
+```
+
+You can use ggpubr to do this.
+
+```{r}
+ggboxplot(asa, x = "Journal", y = "Expenses",
+          color = "Journal", 
+          palette =c("#E7B800", "#FC4E07"),
+    add = c("errorbar","point","mean_se"), shape = "Journal")
+```
+
+What does the boxplot tell us? You see the middle solid line? That is the mean value of our expenses. Obviously sections with journals have much higher expenses.
+
+**The End**
