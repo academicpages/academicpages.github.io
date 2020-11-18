@@ -6,8 +6,6 @@ tags:
   - sewage surveillance
   - viral outbreaks
 ---
-
-# What *in* the shit?
 ## Using wastewater as an early warning system for viral outbreaks
 
 When you are flushing the toilet after doing number two, have you ever wondered what exactly you are sending out into the sewage and later on, the environment?
