@@ -51,6 +51,41 @@ Publications
 </ul>
 
 
+
+
+
+
+Videos & Media
+==============
+<ul>
+	<li>
+		<b>Demo: Enabling Public Cameras to Talk to the Public</b>
+		<br/>
+		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
+		<br/>
+		ACM MobiSys 2018, <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
+	</li>
+</ul>
+
+
+
+
+
+
+Patents
+=======
+<ul>
+	<li>
+		<b>Method of processing data</b>, US 16807068
+	</li>
+</ul>
+<ul>
+	<li>
+		<b>System architecture and method of authenticating a 3D object</b>, US 16819166
+	</li>
+</ul>
+
+
 Teaching
 ========
 <ul>
@@ -65,17 +100,7 @@ Teaching
 </ul>
 
 
-Videos & Media
-==============
-<ul>
-	<li>
-		<b>Demo: Enabling Public Cameras to Talk to the Public</b>
-		<br/>
-		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
-		<br/>
-		ACM MobiSys 2018, <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
-	</li>
-</ul>
+
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 <!-- date: 2019-11-01 -->
 <!-- venue: 'IEEE InfoCom 2020' -->
