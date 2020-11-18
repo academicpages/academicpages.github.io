@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Biotechnology, Technical University of Denmark, 2014-2017
+* Ph.D in Bioinformatics in the Research Group for Genomic Epidemiology, Technical University of Denmark, 2019-2022
 * M.Sc. in Bioinformatics and Systems Biology, Technical University of Denmark, 2017-2019
-* Ph.D in Bioinformatics at The Research Group for Genomic Epidemiology, Technical University of Denmark, 2019-2022
+* B.Sc. in Biotechnology, Technical University of Denmark, 2014-2017
 
 Work experience
 ======
@@ -31,15 +31,15 @@ Work experience
 
 Projects
 ======
-* <a href="https://github.com/mari756h/The_unemployed_cells">The Language of Life</a> (2018-2019): applying deep learning methods to predict amino acids in protein sequences
+* <a href="https://github.com/mari756h/The_unemployed_cells" targeT="_blank">The Language of Life</a> (2018-2019): applying deep learning methods to predict amino acids in protein sequences.
   * Project originally started as part of the course 02456 Deep Learning at DTU
   * Applied Word2Vec and CNNs to protein sequence data
-  * Supervisors: <a href="https://www.dtu.dk/english/service/phonebook/person?id=113172&tab=2&qt=dtupublicationquery">Jose Juan Almagro Armenteros</a> and <a href="https://www.dtu.dk/service/telefonbog/person?id=99651&tab=2&qt=dtupublicationquery">Alexander Rosenberg Johansen</a>
-* <a href="http://2018.igem.org/Team:DTU-Denmark">iGEM 2018: Hyphae Hackers, DTU Biobuilders</a>
+  * Supervisors: <a href="https://www.linkedin.com/in/jj-almagro-armenteros/" targeT="_blank">Jose Juan Almagro Armenteros</a> and <a href="https://www.linkedin.com/in/alexrosejo" targeT="_blank">Alexander Rosenberg Johansen</a>
+* <a href="http://2018.igem.org/Team:DTU-Denmark">iGEM 2018: Hyphae Hackers, DTU Biobuilders.</a>
   * Participiated in 2018 as part of the team at Technical University of Denmark
   * Project investigated how we can use mycelium from fungi as building materials
-    * My work can be seen in the <a href="http://2018.igem.org/Team:DTU-Denmark/GrowthModelling">modelling of hyphal growth</a>, and was part of the design team for the webpage.
-* <a href="https://github.com/hmmartiny/Microbesoft">Microbesoft</a> (2018): a command-line tool to visualize alignment files
+    * My work can be seen in the <a href="http://2018.igem.org/Team:DTU-Denmark/GrowthModelling" targeT="_blank">modelling of hyphal growth</a>, and was part of the design team for the webpage.
+* <a href="https://github.com/hmmartiny/Microbesoft" targeT="_blank">Microbesoft</a> (2018): a command-line tool to visualize alignment files.
   * Project built as part of participiating in Copenhacks 2018, a hackathon held in Copenhagen for students.
   * Won 2nd place
   
@@ -51,7 +51,7 @@ Skills
 
 Hobbies
 ======
-I do like to draw and paint in my spare time, but more recently I have taken up crochet - a good way to keep my supplies of dish cloths up to date.. I sometimes post my art at Instagram under the user <a href="https://www.instagram.com/hmmartiny/">hmmartiny</a>.
+I do like to draw and paint in my spare time, but more recently I have taken up crochet - a good way to keep my supplies of dish cloths up to date.. I sometimes post my art at Instagram under the user <a href="https://www.instagram.com/hmmartiny/" targeT="_blank">hmmartiny</a>.
 
 <!-- 
 Publications
