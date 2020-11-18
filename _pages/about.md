@@ -90,7 +90,7 @@ Teaching
 ========
 <ul>
 	<li>
-		Teaching Assistant, CS422 Computer Networks (Spring 2018 & Fall 2019)
+		Teaching Assistant, CS422 Computer Networks (Spring 2018 & Fall 2019 & Fall 2020)
 	</li>
 </ul>
 <ul>
