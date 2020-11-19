@@ -110,10 +110,10 @@ For a more detailed intro, pls visit here for more instructions <https://socviz.
 
 In our lecture, I have talked about the workflow of using R ggplot2 package to make a graph. Keep it in mind that
 
-> Visualization involves representing your data data using lines or shapes or colors and so on. There is some structured relationship, some mapping, between the variables in your data and their representation in the plot displayed on your screen or on the page. We also saw that not all mappings make sense for all types of variables, and (independently of this), some representations are harder to interpret than others. Ggplot provides you with a set of tools to map data to visual elements on your plot, to specify the kind of plot you want, and then subsquently to control the fine details of how it will be displayed.
+> Visualization involves representing your data using lines or shapes or colors and so on. There is some structured relationship, some mapping, between the variables in your data and their representation in the plot displayed on your screen or on the page. We also saw that not all mappings make sense for all types of variables, and (independently of this), some representations are harder to interpret than others. Ggplot provides you with a set of tools to map data to visual elements on your plot, to specify the kind of plot you want, and then subsquently to control the fine details of how it will be displayed.
 
 
-In this example, let us focus on the size of memebership and revenues.If you might think that if a section has more members, it might have more expenses.
+In this example, let us focus on the size of memebership and expenses.If you might think that if a section has more members, it might have more expenses.
 
 ```{r}
 knitr::kable(asa[1:10,])
