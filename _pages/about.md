@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am now a final-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Natural Language Processing and Information Retrieval. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2016.  
+Hi! I am now a final-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Information Retrieval and Natural Language Processing. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2016.  
 <br/>
 
 
@@ -16,7 +16,7 @@ Research Interests
 ======
 My research targets at developing computational methods to analyze Web contents. Currently, I focus on the following areas:
 * **Opinion mining and opinionated/argumentative text generation**  
-Stance analysis and argument mining, especially in low-resource (cross-domain & weak supervision), multi-task, and multi-modal settings
+Stance analysis and argument mining, especially in low-resource (cross-domain & weak supervision), multi-task settings
 * **Rumor verification and fact checking**  
 Determine the correctness of textual claims and structured triples in knowledge graphs      
 <br/>
