@@ -16,7 +16,5 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: https://fsantibanezleal.github.io/online-cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: "https://fsantibanezleal.github.io/online-cv/"
+
