@@ -21,4 +21,6 @@ Work experience
 * Fall 2019: Data Scientist Intern, Precima Company
 
   
+  
+[Download my resume here](http://farzadsh9339.github.io/files/resume.pdf)
 
