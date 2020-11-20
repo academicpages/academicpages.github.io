@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data anlytics and Security, Electrical Engineering Department, University of South Florida, 2019
+* M.S. in Data Analytics and Security, Electrical Engineering Department, University of South Florida, 2019
 * Ph.D in Computer Sciennce, Northwestern University, 2024 (expected)
 
 Work experience
