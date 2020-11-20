@@ -33,7 +33,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" #"gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -85,11 +85,11 @@ author:
   avatar           : "profile.png"
   bio              : "Unraveling the path"
   location         : "Here"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Advanced Laboratory of Geostatistical Supercomputing (ALGES)"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.cl/citations?user=BE787WgAAAAJ"
   email            : "fsantibanezleal@uchile.cl"
-  researchgate     :  "https://www.researchgate.net/profile/Felipe_Santibanez2"# example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Felipe_Santibanez2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
