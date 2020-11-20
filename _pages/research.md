@@ -21,10 +21,13 @@ redirect_from:
 
 
 
-## Under Review, Revise and Resubmit, Sent
+## Under Review, Revise and Resubmit, Submitted
 
 
 - **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **Revise and resubmit, European Journal of Political Economy**
+
+- **Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Submitted, Public Administration and Development**
+
 
 
 ## In Preparation
@@ -34,8 +37,6 @@ redirect_from:
 - **Vote Selling in the United States: Introducing Machine Learning Methods to Analyzing Conjoint Experimental Data**. With Cristobal Quininao (UOH). <br/> [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt). **Data analyses**
 
 - **Not Just Guns or Butter, but What Came First---Guns or Butter? Introducing GVAR to International Relations**. With Igor Kovac (U Cincinnati). <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt). **Data analyses**
-
-- **Sectoral Origins of Income Taxation: Industrial Development in Latin America and The Case of Chile (1900-2010)**. <br/> [[Paper]](https://github.com/hbahamonde/IncomeTaxAdoption/raw/master/Bahamonde_IncomeTaxAdoption.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/IncomeTaxAdoption/master/abstract.txt?token=AEe6kepKK7gMgsKW3WqxsGzd6jajPSbOks5bYe9DwA%3D%3D). [[Data]](https://github.com/hbahamonde/Replication_Materials).
 
 - **Structural Transformations and State Institutions in Latin America, 1900-2010**. <br/> [[Paper]](https://github.com/hbahamonde/NegativeLink/raw/master/Bahamonde_NegativeLink.pdf).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta). 
 
