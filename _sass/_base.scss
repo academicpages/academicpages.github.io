@@ -8,6 +8,7 @@ html {
 }
 
 body {
+  text-align: justify;
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
@@ -22,6 +23,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  text-align: justify;
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
@@ -58,6 +60,7 @@ small, .small {
 }
 
 p {
+  text-align: justify;
   margin-bottom: 1.3em;
 }
 
@@ -77,6 +80,7 @@ del a {
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
+  text-align: justify;
   orphans: 3;
   widows: 3;
 }
@@ -137,6 +141,7 @@ a > code,
 li > code,
 figcaption > code,
 td > code {
+  text-align: justify;
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
@@ -304,6 +309,11 @@ nav {
     margin-top: 0;
   }
 }
+
+.page__content {
+  text-align: justify;
+}
+
 
 /*
    Global animation transition

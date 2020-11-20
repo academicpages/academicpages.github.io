@@ -85,7 +85,7 @@ author:
   bio              : "Unraveling a path for Applied Scientific Research"
   location         : "Santiago, Chile"
   employer         : "ALGES Lab. Universidad de Chile"
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  "https://pubmed.ncbi.nlm.nih.gov/?term=%28Santib%C3%A1%C3%B1ez+F%5BAuthor%5D%29+OR+%28Santibanez-Leal+%5BAuthor%5D%29+OR+%28Santiba%C3%B1ez-Leal+%5BAuthor%5D%29+OR+%28Santib%C3%A1%C3%B1ez-Leal+%5BAuthor%5D%29+OR+%28Santiba%C3%B1ez+Leal+%5BAuthor%5D%29" # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.cl/citations?user=BE787WgAAAAJ"
   email            : "fsantibanezleal@uchile.cl"
   researchgate     : "https://www.researchgate.net/profile/Felipe_Santibanez2" # example: "https://www.researchgate.net/profile/yourprofile"

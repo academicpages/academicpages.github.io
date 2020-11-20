@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "General Information"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+About
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Hola Hola! I am Felipe Santibáñez-Leal, a postdoctoral researcher at the Advanced Laboratory for Geostatistical Supercomputing [ALGES](http://www.alges.cl/), [AMTC](http://www.amtc.cl/?lang=en) - [DIMIN](http://www.minas.uchile.cl/) at the University of Chile, in a hybrid relationship between the Department of Electrical Engineering and the Department of Mines. I am a scientist looking for challenges in engineering, biology, physics, mathematical modelling, and geostatistics. I like to promote initiatives of scientific diffusion and early education, both scientific and technological, such as the [Micromundo Innitiave](https://micromundo.team/) an its [Virtual Microscopy](https://micromundo.app/)
+ 
+My work and research
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+I love science, mathematics and nature. 
+
+In the last 15 years I have had the opportunity to work in multi-disciplinary teams, where I have learned to be a contribution and recognize myself as part of a much larger whole. I have had the opportunity to enrich myself with the knowledge, experience, creativity and perseverance of a very wide range of people. Currently I am dedicated more to characterization problems of high dimension data in the estimation of industrial process variables, keeping a focus on the latest trends in Deep learning and stochastic and Bayesian modeling.
+
+Various laboratories, places and researchers have left a strong impression on my research and my approach to science:
+
+1. [Advanced Laboratory for Geostatistical Supercomputing](http://ingenieria.uchile.cl/investigacion/presentacion/laboratorios/departamento-de-ingenieria-de-minas/91113/laboratorio-de-geoestadistica-y-supercomputo-alges)
+1. [Information and Decision Systems Group, Universidad de Chile](http://ingenieria.uchile.cl/investigacion/presentacion/laboratorios/departamento-de-ingenieria-electrica/90774/laboratorio-de-informacion-y-decision)
+1. [Biomedical Neuroscience Institue, Universidad de Chile](https://www.bni.cl/)
+1. [Third Institute of Physics - Biophysics, University of Göttingen](https://www.uni-goettingen.de/en/499370.html)
+1. [Heidelberg Center Latin America](http://www.heidelberg-center.uni-hd.de/english/index.html)
+1. [Laboratory for Scientific Image Analysis, Universidad de Chile](http://www.scian.cl/portal/globals.php?COD_SECCION=2988)
+1. [Dr. Claudia Linker Lab](https://kclpure.kcl.ac.uk/portal/claudia.linker.html)
+1. [Laboratory of Experimental Ontogeny, Universidad de Chile](http://www.ontogenesis.cl/research_scientificnet_chile.html)
+1. [Millennium Scientific Nucleus of Neural Morphogenesis NEMO](https://www.uchile.cl/portafolio-academico/impresion.jsf?username=mconcha)
+1. [Center for Optics and Photonics CEFOP, Universidad de Concepcion](http://cefop.udec.cl/)
+1. [Computer graphics Lab, Universidad de Concepcion](https://www.programacion11.com/)
+
+I have had the opportunity to work in various topics and areas:
+
+Geometalurigical and Geostatistical Applications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Reconstruction of geological structures from sparse samples, Optimal sampling strategies for advanced sampling. Geometalurgical estimation from hyperspectral data. 
 
-Create content & metadata
+Medical and Biomedical Applications
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Medical Informatics, Haptic technology, Artroscopic Training by virtual reality and haptic feedback. 
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Biological, Optical and Microscopic Applications
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Optical Twezzers, Superresolution Microscopy, Mathematical Modelling in Developemntal Biology of zefrafish, Topology and Visualization of 3D microscopic models.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+My origins
+======
+I come from the south of Chile, where I grew up on a hill a bit isolated from civilization but surrounded by nature, cliffs, forests and beaches.
+![wolverine](/images/wolverine/15.jpg)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I received my PhD from the School of Electrical Engineering at the University of Chile, my double Diploma in Medical Informatics from the University of Chile and the University of Heidelberg, and my B.Sc. in electronic civil engineering at the Universidad de Concepción in Concepción, Chile. The campus of the University of Concepción is also surrounded by nature
+![UDEC](/images/udec/udec3.jpg)
+
+I also have industrial technical training in electronics at the High Technology Educational Center [CEAT](https://www.ceat.cl/inicio/), located in San Pedro de la Paz and surrounded by a lagoon and a small hill.
+![CEAT](/images/ceat/ceat1.jpg)
+
+
+
