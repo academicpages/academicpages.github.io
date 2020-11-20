@@ -1,0 +1,516 @@
+/*
+Leap Day for GitHub Pages
+by Matt Graham
+*/
+
+@import "normalize";
+@import "fonts";
+@import "rouge-base16-dark";
+
+body {
+  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#666;
+  font-weight:300;
+  margin: 0px;
+  padding:0px 0 20px 0px;
+  background: url(../images/body-background.png) #eae6d1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#333;
+  margin:0 0 10px;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:28px;
+}
+
+h2 {
+  font-size: 24px;
+  color:#393939;
+}
+
+h3, h4, h5, h6 {
+  color:#666666;
+}
+
+h3 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+a {
+  color:#3399cc;
+  font-weight:400;
+  text-decoration:none;
+}
+
+a small {
+  font-size:11px;
+  color:#666;
+  margin-top:-0.6em;
+  display:block;
+}
+
+ul{
+  list-style-image:url('../images/bullet.png');
+}
+
+strong {
+  font-weight: bold;
+  color: #333;
+}
+
+.wrapper {
+  width:650px;
+  margin:0 auto;
+  position:relative;
+}
+
+section img {
+  max-width: 100%;
+}
+
+blockquote {
+  border-left:1px solid #ffcc00;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+code {
+  font-family: 'Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-size:13px;
+  color:#efefef;
+  text-shadow: 0px 1px 0px #000;
+  margin: 0 4px;
+  padding: 2px 6px;
+  background: #333;
+  border-radius: 2px;
+}
+
+pre {
+  padding:8px 15px;
+  background: #333333;
+  border-radius: 3px;
+  border:1px solid #c7c7c7;
+  overflow: auto;
+  overflow-y: hidden;
+
+  code {
+    margin: 0px;
+    padding: 0px;
+  }
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+  color: #444;
+}
+
+td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+  border-right: 1px solid #ffcc00;
+
+  &:first-child {
+    border-left: 1px solid #ffcc00;
+  }
+}
+
+hr {
+  border: 0;
+  outline: none;
+  height: 11px;
+  background: transparent url('../images/hr.gif') center center repeat-x;
+  margin: 0 0 20px;
+}
+
+dt {
+  color:#444;
+  font-weight:700;
+}
+
+header {
+  padding: 25px 20px 40px 20px;
+  margin: 0;
+  position: fixed;
+  top: 0;
+  left:0;
+  right:0;
+  width: 100%;
+  text-align: center;
+  background: url(../images/background.png) #4276b6;
+  box-shadow: 1px 0px 2px rgba(0,0,0,.75);
+  z-index:99;
+  -webkit-font-smoothing:antialiased;
+  min-height: 76px;
+
+  h1 {
+    font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #f3f3f3;
+    text-shadow: 0px 2px 0px #235796;
+    margin: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+  }
+
+  p {
+    color: #d8d8d8;
+    text-shadow:rgba(#000, 0.2) 0 1px 0;
+    font-size: 18px;
+    margin: 0px;
+  }
+}
+
+#banner {
+  z-index: 100;
+  left:0;
+  right:50%;
+  height: 50px;
+  margin-right:-382px;
+  position: fixed;
+  top: 115px;
+  background: #ffcc00;
+  border: 1px solid #f0b500;
+  box-shadow: 0px 1px 3px rgba(0,0,0,.25);
+  border-radius: 0px 2px 2px 0px;
+  padding-right: 10px;
+
+  .button {
+    border: 1px solid #dba500;
+    background: linear_gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    border-radius: 2px;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
+    background-color: #FFE788;
+    margin-left: 5px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    color:#333;
+    font-weight: bold;
+    display:inline-block;
+    text-align:center;
+
+    &:hover {
+      background: linear_gradient(rgb(255, 231, 136), rgb(255, 231, 136));
+      background-color: #ffeca0;
+    }
+  }
+
+  .fork {
+    position:fixed;
+    left:50%;
+    margin-left:-325px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    background-color: #FFE788;
+  }
+
+  .downloads {
+    float: right;
+    margin:0 45px 0 0;
+
+    span {
+      float:left;
+      line-height:52px;
+      font-size:90%;
+      color:#9d7f0d;
+      text-transform:uppercase;
+      text-shadow:rgba(#fff, 0.2) 0 1px 0;
+    }
+  }
+
+  ul {
+    list-style:none;
+    height:40px;
+    padding:0;
+    float: left;
+    margin-left:10px;
+
+    li {
+      display:inline;
+
+      a.button {
+        background-color: #FFE788;
+      }
+    }
+  }
+
+  #logo {
+    position:absolute;
+    height: 36px;
+    width: 36px;
+    right:7px;
+    top:7px;
+    display: block;
+    background: url(../images/octocat-logo.svg);
+  }
+}
+
+section {
+  width:590px;
+  padding: 30px 30px 50px 30px;
+  margin: 20px 0;
+  margin-top: 190px;
+  position:relative;
+  background: #fbfbfb;
+  border-radius: 3px;
+  border: 1px solid #cbcbcb;
+  box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
+}
+
+small {
+  font-size:12px;
+}
+
+nav {
+  width: 230px;
+  position: fixed;
+  top: 220px;
+  left:50%;
+  margin-left:-580px;
+  text-align: right;
+
+  ul {
+    list-style: none;
+    list-style-image:none;
+    font-size: 14px;
+    line-height:24px;
+
+    li {
+      padding: 5px 0px;
+      line-height: 16px;
+      // padding-right:17px;
+      // position:relative;
+      // right:-12px;
+
+      &.tag-h1 {
+        font-size: 1.2em;
+
+        a {
+          font-weight: bold;
+          color: #333;
+        }
+
+        + .tag-h2 {
+
+        }
+      }
+
+      &.tag-h2 {
+
+        + .tag-h1 {
+          margin-top:10px;
+        }
+      }
+    }
+
+    a {
+      color: #666;
+
+      &:hover { color: #999; }
+    }
+
+    // .active {
+    //   border-right:solid 4px #39C;
+    //   padding-right:13px;
+    // }
+  }
+}
+
+footer {
+  width:180px;
+  position: fixed;
+  left:50%;
+  margin-left:-530px;
+  bottom:20px;
+  text-align: right;
+  line-height: 16px;
+}
+
+@media print, screen and (max-width: 1060px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  nav{
+    display: none;
+  }
+
+  header, section, footer {
+    float:none;
+
+    h1 {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  }
+
+  #banner {
+    width: 100%;
+
+    .downloads {
+        margin-right: 60px;
+      }
+
+    .fork {
+    }
+
+    #logo {
+      margin-right: 15px;
+    }
+  }
+
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px auto;
+    margin: 190px auto 20px;
+    max-width: 600px;
+  }
+
+  footer{
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+    }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:20px 20px;
+    margin: 0;
+
+    h1 {
+      font-size: 32px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+
+    p { display: none;}
+  }
+
+  #banner {
+    top: 80px;
+
+    .fork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:20px;
+
+      }
+  }
+
+  section {
+    margin-top: 130px;
+    margin-bottom: 0px;
+    width: auto;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+  }
+
+  header{
+    position: relative;
+    padding: 5px 0px;
+    min-height: 0px;
+
+    h1 {
+      font-size: 24px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  }
+  section {
+    margin-top: 5px;
+  }
+
+  #banner { display: none;}
+  header ul {
+    display:none;
+  }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}
+
+@media print, screen and (max-height: 680px) {
+
+  footer {
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+  }
+}
+
+@media print, screen and (max-height: 480px) {
+  nav {
+    display: none;
+  }
+
+  footer {
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+  }
+}

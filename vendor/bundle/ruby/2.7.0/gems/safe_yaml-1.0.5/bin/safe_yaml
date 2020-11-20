@@ -1,0 +1,75 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH << File.join(File.dirname(__FILE__), '..', 'lib')
+
+require 'optparse'
+require 'safe_yaml/load'
+
+options = {}
+option_parser = OptionParser.new do |opts|
+  opts.banner = "Usage: safe_yaml [options]"
+
+  opts.on("-f", "--file=<path>", "Parse the given YAML file, dump the result to STDOUT") do |file|
+    options[:file] = file
+  end
+
+  opts.on("--libyaml-check", "Check for libyaml vulnerability CVE-2014-2525 on your system") do
+    options[:libyaml_check] = true
+  end
+end
+
+option_parser.parse!
+
+def report_libyaml_ok
+  puts "\e[32mGood news! You definitely have either a patched or up-to-date libyaml version :)\e[39m"
+end
+
+def check_for_overflow_bug
+  YAML.load("--- !#{'%20' * 100}")
+  report_libyaml_ok
+end
+
+def perform_libyaml_check(force=false)
+  unless SafeYAML::LibyamlChecker.libyaml_version_ok?
+    warn <<-EOM.gsub(/^ +/, '  ')
+
+      \e[33mSafeYAML Warning\e[39m
+      \e[33m----------------\e[39m
+
+      \e[31mYou may have an outdated version of libyaml (#{SafeYAML::LibyamlChecker::LIBYAML_VERSION}) installed on your system.\e[39m
+
+      Prior to 0.1.6, libyaml is vulnerable to a heap overflow exploit from malicious YAML payloads.
+
+      For more info, see:
+      https://www.ruby-lang.org/en/news/2014/03/29/heap-overflow-in-yaml-uri-escape-parsing-cve-2014-2525/
+    EOM
+  end
+
+  puts <<-EOM.gsub(/^ +/, '  ')
+
+    Hit Enter to check if your version of libyaml is vulnerable. This will run a test \e[31mwhich may crash\e[39m
+    \e[31mthe current process\e[39m. If it does, your system is vulnerable and you should do something about it.
+
+    Type "nm" and hit Enter if you don't want to run the check.
+
+    See the project wiki for more info:
+
+    https://github.com/dtao/safe_yaml/wiki/The-libyaml-vulnerability
+  EOM
+
+  if STDIN.readline.chomp("\n") != 'nm'
+    check_for_overflow_bug
+  end
+end
+
+if options[:libyaml_check]
+  perform_libyaml_check(options[:force_libyaml_check])
+
+elsif options[:file]
+  yaml = File.read(options[:file])
+  result = SafeYAML.load(yaml)
+  puts result.inspect
+
+else
+  puts option_parser.help
+end

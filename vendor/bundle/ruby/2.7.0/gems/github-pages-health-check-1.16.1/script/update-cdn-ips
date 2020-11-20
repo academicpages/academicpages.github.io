@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+#
+# Usage script/update-ips
+# updates config/cloudflare-ips.txt and config/fastly-ips.txt
+
+require "open-uri"
+require "json"
+
+SOURCES = {
+  :cloudflare => "https://www.cloudflare.com/ips-v4",
+  :fastly => "https://api.fastly.com/public-ip-list"
+}.freeze
+
+SOURCES.each do |source, url|
+  file = "config/#{source}-ips.txt"
+  puts "Fetching #{url}..."
+  data = open(url).read
+  data = JSON.parse(data)["addresses"].join("\n") if source == :fastly
+  File.write(file, data)
+  `git add --verbose #{file}`
+end

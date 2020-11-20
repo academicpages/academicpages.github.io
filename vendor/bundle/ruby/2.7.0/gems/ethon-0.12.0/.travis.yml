@@ -1,0 +1,30 @@
+language: ruby
+cache: bundler
+sudo: false
+
+bundler_args: --without perf
+script: bundle exec rake
+before_install:
+  - gem install bundler
+
+rvm:
+  - 1.8.7
+  - 1.9.2
+  - 1.9.3
+  - 2.0.0-p648
+  - 2.1.10
+  - 2.2.10
+  - 2.3.7
+  - 2.4.4
+  - 2.5.1
+  - ruby-head
+  - ree
+  - jruby-18mode
+  - jruby-19mode
+  - jruby-head
+
+matrix:
+  allow_failures:
+    - rvm: ree
+    - rvm: ruby-head
+    - rvm: jruby-head

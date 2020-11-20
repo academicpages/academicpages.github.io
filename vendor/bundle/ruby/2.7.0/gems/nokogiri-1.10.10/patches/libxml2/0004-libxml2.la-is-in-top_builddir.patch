@@ -1,0 +1,25 @@
+From 0b6ae484761fa01242fe8b67b54e3eb2d282d83d Mon Sep 17 00:00:00 2001
+From: Mike Dalessio <mike.dalessio@gmail.com>
+Date: Wed, 4 Dec 2019 08:43:51 -0500
+Subject: [PATCH] fix libxml2.la's path
+
+---
+ Makefile.in | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile.in b/Makefile.in
+index cf96d41..1372d8b 100644
+--- a/Makefile.in
++++ b/Makefile.in
+@@ -1057,7 +1057,7 @@ clean-noinstLTLIBRARIES:
+ 	  rm -f $${locs}; \
+ 	}
+ 
+-libxml2.la: $(libxml2_la_OBJECTS) $(libxml2_la_DEPENDENCIES) $(EXTRA_libxml2_la_DEPENDENCIES) 
++$(top_builddir)/libxml2.la: $(libxml2_la_OBJECTS) $(libxml2_la_DEPENDENCIES) $(EXTRA_libxml2_la_DEPENDENCIES) 
+ 	$(AM_V_CCLD)$(libxml2_la_LINK) -rpath $(libdir) $(libxml2_la_OBJECTS) $(libxml2_la_LIBADD) $(LIBS)
+ 
+ testdso.la: $(testdso_la_OBJECTS) $(testdso_la_DEPENDENCIES) $(EXTRA_testdso_la_DEPENDENCIES) 
+-- 
+2.17.1
+

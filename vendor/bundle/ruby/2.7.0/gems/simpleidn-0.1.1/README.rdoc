@@ -1,0 +1,41 @@
+== SimpleIDN
+
+{<img src="https://travis-ci.org/mmriis/simpleidn.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/mmriis/simpleidn]
+
+This gem allows easy conversion from punycode ACE strings to unicode UTF-8 strings and visa versa.
+
+The implementation is heavily based on the RFC3492 C example implementation but simplified since it does not preserve case.
+
+This gem works with Ruby 1.9.2, 1.9.3, 2.0, 2.1, 2.2.
+
+* http://www.whatastruggle.com
+
+== Installation
+
+  [sudo] gem install simpleidn
+
++sudo+ is optional depending on your setup.
+
+In your Ruby script you can now.
+
+  require 'rubygems'
+  require 'simpleidn'
+
+  SimpleIDN.to_unicode("xn--mllerriis-l8a.com")
+  => "møllerriis.com"
+
+	SimpleIDN.to_ascii("møllerriis.com")
+  => "xn--mllerriis-l8a.com"
+
+== Testing / RSpec
+
+In order to run the test suite you must have <tt>rspec</tt> installed.
+
+The test suite has been copied from the IDN gem and uses examples from JOSEFSSON test vectors, taken from DRAFT-JOSEFSSON-IDN-TEST-VECTORS-00:
+http://www.gnu.org/software/libidn/draft-josefsson-idn-test-vectors.html
+
+== Known issues
+
+Does not preserve uppercase. So if, for some reason, you use uppercase characters (eg. Ø instead of ø), please take note of that.
+
+Please report any issues!

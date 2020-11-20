@@ -1,0 +1,6 @@
+para
+{:standalone}
+
+![standalone image](some.jpg){:#id .class key="value" standalone}
+
+para

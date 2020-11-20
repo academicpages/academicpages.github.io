@@ -1,0 +1,6 @@
+.bundle
+*.gem
+Gemfile.lock
+spec/dest
+spec/fixtures/.jekyll-cache
+vendor/bundle

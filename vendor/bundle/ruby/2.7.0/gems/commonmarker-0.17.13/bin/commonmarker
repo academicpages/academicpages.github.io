@@ -1,0 +1,58 @@
+#!/usr/bin/env ruby
+# Usage: commonmarker [--html-renderer] [--list-extensions] [--extension=EXTENSION] [FILE..]
+# Convert one or more CommonMark files to HTML and write to standard output.
+# If no FILE argument is provided, text will be read from STDIN.
+# With --html-renderer, use the HtmlRenderer renderer rather than the native C
+# renderer.
+# With --extension=EXTENSION, EXTENSION will be used for parsing, and HTML
+# output unless --html-renderer is specified.
+if ARGV.include?('--help') or ARGV.include?('-h')
+  File.read(__FILE__).split("\n").grep(/^# /).each do |line|
+    puts line[2..-1]
+  end
+  exit 0
+end
+
+$LOAD_PATH.unshift File.join(File.dirname(__FILE__), *%w( .. lib ))
+require 'commonmarker'
+
+if ARGV.include?('--version') or ARGV.include?('-v')
+  puts "commonmarker #{CommonMarker::VERSION}"
+  exit 0
+end
+
+root = File.expand_path('../../', __FILE__)
+$:.unshift File.expand_path('lib', root)
+
+extensions = CommonMarker.extensions
+active_extensions = []
+
+renderer = nil
+ARGV.delete_if do |arg|
+  if arg =~ /^--html-renderer$/
+    renderer = true
+    true
+  elsif arg =~ /^--list-extensions$/
+    puts extensions
+    exit 0
+  elsif arg =~ /^--extension=(.+)$/
+    if extensions.include?($1)
+      active_extensions << $1.intern
+    else
+      STDERR.puts "extension #$1 not found"
+      exit 1
+    end
+    true
+  else
+    false
+  end
+end
+
+doc = CommonMarker.render_doc(ARGF.read, :DEFAULT, active_extensions)
+
+if renderer
+  renderer = CommonMarker::HtmlRenderer.new(extensions: active_extensions)
+  STDOUT.write(renderer.render(doc))
+else
+  STDOUT.write(doc.to_html(:DEFAULT, active_extensions))
+end

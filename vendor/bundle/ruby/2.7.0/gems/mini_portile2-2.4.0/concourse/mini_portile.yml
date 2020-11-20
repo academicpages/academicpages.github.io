@@ -1,0 +1,141 @@
+groups:
+  - name: master
+    jobs:
+      <% RUBIES[:mri].last(2).each do |ruby_version| %>
+      - ruby-<%= ruby_version %>
+      <% end %>
+      <% RUBIES[:windows].last(2).each do |ruby_version| %>
+      - win-ruby-<%= ruby_version %>-devkit
+      <% end %>
+
+  - name: PRs
+    jobs:
+      - pr-pending
+      - ruby-<%= RUBIES[:mri].last %>-pr
+      - pr-success
+
+resource_types:
+- name: pull-request
+  type: docker-image
+  source:
+    repository: jtarchie/pr
+
+resources:
+  - name: ci
+    type: git
+    source:
+      uri: https://github.com/flavorjones/mini_portile/
+      branch: master
+      disable_ci_skip: true # always get the latest pipeline configuration
+
+  - name: mini_portile
+    type: git
+    source:
+      uri: https://github.com/flavorjones/mini_portile/
+      branch: master
+      ignore_paths:
+        - concourse/**
+
+  - name: mini_portile-pr
+    type: pull-request
+    source:
+      repo: flavorjones/mini_portile
+      access_token: {{github-repo-status-access-token}}
+      ignore_paths:
+        - concourse/**
+
+jobs:
+  #
+  #  master
+  #
+  <% RUBIES[:mri].last(2).each do |ruby_version| %>
+  - name: ruby-<%= ruby_version %>
+    public: true
+    plan:
+      - get: ci
+      - get: mini_portile
+        trigger: true
+      - task: rake-test
+        config:
+          platform: linux
+          image_resource:
+            type: docker-image
+            source: {repository: ruby, tag: "<%= ruby_version %>"}
+          inputs:
+            - name: ci
+            - name: mini_portile
+          run:
+            path: ci/concourse/tasks/rake-test/task.sh
+  <% end %>
+
+  <% RUBIES[:windows].last(2).each do |ruby_version| %>
+  - name: win-ruby-<%= ruby_version %>-devkit
+    public: true
+    plan:
+      - get: ci
+      - get: mini_portile
+        trigger: true
+      - task: rake-test
+        config:
+          platform: windows
+          inputs:
+            - name: ci
+            - name: mini_portile
+          params:
+            WIN_RUBY_VERSION: "<%= ruby_version %>"
+          run:
+            path: powershell
+            args: ["-File", "ci/concourse/tasks/rake-test/task.ps1"]
+  <% end %>
+
+  #
+  #  PRs
+  #
+  - name: pr-pending
+    public: true
+    plan:
+      - get: ci
+      - get: mini_portile-pr
+        trigger: true
+        version: every
+      - put: mini_portile-pr
+        params: {path: mini_portile-pr, status: pending}
+
+% ruby_version = RUBIES[:mri].last
+  - name: ruby-<%= ruby_version %>-pr
+    public: true
+    serial_groups: [pr]
+    plan:
+      - get: ci
+      - get: mini_portile-pr
+        trigger: true
+        version: every
+        passed: [pr-pending]
+      - task: rake-test
+        config:
+          platform: linux
+          image_resource:
+            type: docker-image
+            source: {repository: ruby, tag: "<%= ruby_version %>"}
+          inputs:
+            - name: ci
+            - name: mini_portile-pr
+              path: mini_portile
+          run:
+            path: ci/concourse/tasks/rake-test/task.sh
+        on_failure:
+          put: mini_portile-pr
+          params: {path: mini_portile-pr, status: failure}
+
+  - name: pr-success
+    public: true
+    serial_groups: [pr]
+    disable_manual_trigger: true
+    plan:
+      - get: mini_portile-pr
+        trigger: true
+        version: every
+        passed:
+          - ruby-<%= ruby_version %>-pr
+      - put: mini_portile-pr
+        params: {path: mini_portile-pr, status: success}

@@ -1,0 +1,157 @@
+# Ruby linting configuration.
+# See https://github.com/styleguide/ruby for the Ruby style guide
+
+# We only worry about two kinds of issues: 'error' and anything less than that.
+# Error is not about severity, but about taste. Simple style choices that
+# never have a great excuse to be broken, such as 1.9 JSON-like hash syntax,
+# are errors. Choices that tend to have good exceptions in practice, such as
+# line length, are warnings.
+
+# If you'd like to make changes, a full list of available issues is at
+#   https://github.com/bbatsov/rubocop/blob/master/config/enabled.yml
+#
+# A list of configurable issues is at:
+#   https://github.com/bbatsov/rubocop/blob/master/config/default.yml
+#
+# If you disable a check, document why.
+#
+
+AllCops:
+  TargetRubyVersion: 2.2
+  Exclude:
+    - 'bin/**/*'
+    - 'script/**/*'
+    - 'vendor/**/*'
+    - 'test-site/**/*'
+
+Layout/EndAlignment:
+  Severity: error
+
+Lint/UnreachableCode:
+  Severity: error
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+  Severity: error
+
+Style/StringLiteralsInInterpolation:
+  EnforcedStyle: double_quotes
+
+Style/HashSyntax:
+  EnforcedStyle: hash_rockets
+  Severity: error
+
+Layout/AlignHash:
+  SupportedLastArgumentHashStyles: always_ignore
+
+Layout/AlignParameters:
+  Enabled: false # This is usually true, but we often want to roll back to
+                 # the start of a line.
+
+Style/Attr:
+  Enabled: false # We have no styleguide guidance here, and it seems to be
+                 # in frequent use.
+
+Style/ClassAndModuleChildren:
+  Enabled: false # module X<\n>module Y is just as good as module X::Y.
+
+Style/PercentLiteralDelimiters:
+  PreferredDelimiters:
+    '%w': '{}'
+    '%r': '{}'
+
+Metrics/LineLength:
+  Max: 90
+  Severity: warning
+  Exclude:
+    - github-pages-health-check.gemspec
+    - lib/github-pages-health-check/errors/*.rb
+
+Metrics/BlockLength:
+  Enabled: false
+
+Style/MultilineTernaryOperator:
+  Severity: error
+
+Style/AndOr:
+  Severity: error
+
+Layout/IndentationWidth:
+  Severity: error
+
+Metrics/MethodLength:
+  CountComments: false  # count full line comments?
+  Max: 20
+  Severity: error
+  Exclude:
+    - lib/github-pages-health-check/printer.rb
+
+Style/Alias:
+  Enabled: false # We have no guidance on alias vs alias_method
+
+Style/RedundantSelf:
+  Enabled: false # Sometimes a self.field is a bit more clear
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Naming/FileName: #Rubocop doesn't like the Git*H*ub namespace
+  Enabled: false
+
+Metrics/ParameterLists: { Max: 4 }
+Metrics/AbcSize: { Max: 20 }
+
+Layout/IndentHash: { EnforcedStyle: consistent }
+Layout/MultilineMethodCallIndentation: { EnforcedStyle: indented }
+Layout/MultilineOperationIndentation: { EnforcedStyle: indented }
+Layout/FirstParameterIndentation: { EnforcedStyle: consistent }
+Layout/IndentArray: { EnforcedStyle: consistent }
+Layout/ExtraSpacing: { AllowForAlignment: true }
+Style/SignalException: { EnforcedStyle: only_raise }
+Style/StringLiterals: { EnforcedStyle: double_quotes }
+
+Style/PercentLiteralDelimiters:
+  PreferredDelimiters:
+    '%q': '{}'
+    '%Q': '{}'
+    '%r': '{}'
+    '%s': '()'
+    '%w': '()'
+    '%W': '()'
+    '%x': '()'
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/ClassLength:
+  Exclude:
+    - lib/github-pages-health-check/domain.rb
+
+Metrics/CyclomaticComplexity:
+  Max: 9
+  Exclude:
+    - lib/github-pages-health-check/printer.rb
+
+Metrics/PerceivedComplexity:
+  Max: 9
+  Exclude:
+    - lib/github-pages-health-check/printer.rb
+
+Metrics/AbcSize:
+  Max: 17
+  Exclude:
+    - lib/github-pages-health-check/printer.rb
+
+Style/DoubleNegation:
+  Enabled: false
+
+Layout/EmptyLineAfterMagicComment:
+  Exclude:
+    - script/*
+
+Style/FrozenStringLiteralComment:
+  Enabled: true
+  Severity: error
+
+Gemspec/RequiredRubyVersion:
+  Enabled: false

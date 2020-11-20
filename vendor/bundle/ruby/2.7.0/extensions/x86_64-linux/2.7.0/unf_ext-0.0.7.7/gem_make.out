@@ -1,0 +1,107 @@
+current directory: /home/fsantibanezleal/Codes/WEB/fsantibanezleal.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20201120-209747-15ayp52.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/fsantibanezleal/Codes/WEB/fsantibanezleal.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/fsantibanezleal/Codes/WEB/fsantibanezleal.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+In file included from /usr/include/ruby-2.7.0/ruby/ruby.h:2863,
+                 from /usr/include/ruby-2.7.0/ruby.h:33,
+                 from unf.cc:3:
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp: In function ‘VALUE ruby::backward::cxxanyargs::rb_rescue(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’:
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:202:14: warning: ‘VALUE ruby::backward::cxxanyargs::rb_rescue(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  202 |     func1_t *t = reinterpret_cast<func1_t*>(q);
+      |              ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:198:1: note: declared here
+  198 | rb_rescue(type *q, VALUE w, type *e, VALUE r)
+      | ^~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:202:42: warning: ‘VALUE ruby::backward::cxxanyargs::rb_rescue(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  202 |     func1_t *t = reinterpret_cast<func1_t*>(q);
+      |                                          ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:198:1: note: declared here
+  198 | rb_rescue(type *q, VALUE w, type *e, VALUE r)
+      | ^~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:203:14: warning: ‘VALUE ruby::backward::cxxanyargs::rb_rescue(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  203 |     func2_t *y = reinterpret_cast<func2_t*>(e);
+      |              ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:198:1: note: declared here
+  198 | rb_rescue(type *q, VALUE w, type *e, VALUE r)
+      | ^~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:203:42: warning: ‘VALUE ruby::backward::cxxanyargs::rb_rescue(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  203 |     func2_t *y = reinterpret_cast<func2_t*>(e);
+      |                                          ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:198:1: note: declared here
+  198 | rb_rescue(type *q, VALUE w, type *e, VALUE r)
+      | ^~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp: In function ‘VALUE ruby::backward::cxxanyargs::rb_rescue2(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE, ...)’:
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:226:14: warning: ‘VALUE ruby::backward::cxxanyargs::rb_rescue2(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE, ...)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  226 |     func1_t *t = reinterpret_cast<func1_t*>(q);
+      |              ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:222:1: note: declared here
+  222 | rb_rescue2(type *q, VALUE w, type *e, VALUE r, ...)
+      | ^~~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:226:42: warning: ‘VALUE ruby::backward::cxxanyargs::rb_rescue2(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE, ...)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  226 |     func1_t *t = reinterpret_cast<func1_t*>(q);
+      |                                          ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:222:1: note: declared here
+  222 | rb_rescue2(type *q, VALUE w, type *e, VALUE r, ...)
+      | ^~~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:227:14: warning: ‘VALUE ruby::backward::cxxanyargs::rb_rescue2(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE, ...)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  227 |     func2_t *y = reinterpret_cast<func2_t*>(e);
+      |              ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:222:1: note: declared here
+  222 | rb_rescue2(type *q, VALUE w, type *e, VALUE r, ...)
+      | ^~~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:227:42: warning: ‘VALUE ruby::backward::cxxanyargs::rb_rescue2(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE, ...)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  227 |     func2_t *y = reinterpret_cast<func2_t*>(e);
+      |                                          ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:222:1: note: declared here
+  222 | rb_rescue2(type *q, VALUE w, type *e, VALUE r, ...)
+      | ^~~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp: In function ‘VALUE ruby::backward::cxxanyargs::rb_ensure(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’:
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:251:14: warning: ‘VALUE ruby::backward::cxxanyargs::rb_ensure(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  251 |     func1_t *t = reinterpret_cast<func1_t*>(q);
+      |              ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:248:1: note: declared here
+  248 | rb_ensure(type *q, VALUE w, type *e, VALUE r)
+      | ^~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:251:42: warning: ‘VALUE ruby::backward::cxxanyargs::rb_ensure(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  251 |     func1_t *t = reinterpret_cast<func1_t*>(q);
+      |                                          ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:248:1: note: declared here
+  248 | rb_ensure(type *q, VALUE w, type *e, VALUE r)
+      | ^~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:252:14: warning: ‘VALUE ruby::backward::cxxanyargs::rb_ensure(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  252 |     func1_t *y = reinterpret_cast<func1_t*>(e);
+      |              ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:248:1: note: declared here
+  248 | rb_ensure(type *q, VALUE w, type *e, VALUE r)
+      | ^~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:252:42: warning: ‘VALUE ruby::backward::cxxanyargs::rb_ensure(VALUE (*)(...), VALUE, VALUE (*)(...), VALUE)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  252 |     func1_t *y = reinterpret_cast<func1_t*>(e);
+      |                                          ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:248:1: note: declared here
+  248 | rb_ensure(type *q, VALUE w, type *e, VALUE r)
+      | ^~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp: In function ‘VALUE ruby::backward::cxxanyargs::rb_thread_create(VALUE (*)(...), void*)’:
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:343:12: warning: ‘VALUE ruby::backward::cxxanyargs::rb_thread_create(VALUE (*)(...), void*)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  343 |     ptr_t *e = reinterpret_cast<ptr_t*>(q);
+      |            ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:340:1: note: declared here
+  340 | rb_thread_create(type *q, void *w)
+      | ^~~~~~~~~~~~~~~~
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:343:38: warning: ‘VALUE ruby::backward::cxxanyargs::rb_thread_create(VALUE (*)(...), void*)’ is deprecated: Use of ANYARGS in this function is deprecated [-Wdeprecated-declarations]
+  343 |     ptr_t *e = reinterpret_cast<ptr_t*>(q);
+      |                                      ^
+/usr/include/ruby-2.7.0/ruby/backward/cxxanyargs.hpp:340:1: note: declared here
+  340 | rb_thread_create(type *q, void *w)
+      | ^~~~~~~~~~~~~~~~
+linking shared-object unf_ext.so
+
+current directory: /home/fsantibanezleal/Codes/WEB/fsantibanezleal.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20201120-209747-jsa83p

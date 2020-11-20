@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+#
+# Usage: script/check [DOMAIN]
+
+require_relative "../lib/github-pages-health-check"
+
+if ARGV.count != 1
+  puts "Usage: script/check [DOMAIN]"
+  exit 1
+end
+
+puts GitHubPages::HealthCheck.check(ARGV[0])

@@ -1,0 +1,31 @@
+language: ruby
+
+rvm:
+  - 2.3
+  - 2.4
+  - 2.5
+  - 2.6
+  - jruby-9.1.5.0
+  - ruby-head
+
+env:
+  - COVERAGE=1
+
+cache:
+  - bundler
+
+matrix:
+  include:
+    - rvm: 2.1
+      before_install:
+        - gem install bundler -v '< 2.0'
+    - rvm: 2.2
+      before_install:
+        - gem install bundler -v '< 2.0'
+  allow_failures:
+    - rvm: ruby-head
+    - rvm: jruby-9.1.5.0
+
+before_install:
+  - gem update --system
+  - gem install bundler
