@@ -68,7 +68,7 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
-* <b>Cheng, Y. </b>, Chrastil, E.R. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020.
+* <b>Cheng, Y. </b>, Chrastil, E.R. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020. [news](/posts/2020/11/blog-post-1/)
 
 * Downs, M., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in and Beyond the U.S. LTER Network, Ecological Society of America Annual Meeting, Virtual. Aug., 2020.
 
