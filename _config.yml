@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The last love song in this little world"
+title                    : "Last love song in this little world"
 title_separator          : "-"
 name                     : &name "Felipe Santibáñez-Leal"
 description              : &description "Reading..."
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "FASL Space"
+  name             : "Felipe Santibáñez-Leal"
   avatar           : "profile.png"
-  bio              : "Unraveling the path"
-  location         : "Here"
-  employer         : "Advanced Laboratory of Geostatistical Supercomputing (ALGES)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Unraveling a path for Applied Scientific Research"
+  location         : "Santiago, Chile"
+  employer         : "ALGES Lab. Universidad de Chile"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.cl/citations?user=BE787WgAAAAJ"
   email            : "fsantibanezleal@uchile.cl"
   researchgate     : "https://www.researchgate.net/profile/Felipe_Santibanez2" # example: "https://www.researchgate.net/profile/yourprofile"
