@@ -18,7 +18,7 @@ Swarms, flocks, and human societies all exhibit complex collective
 behaviours. I am interested in collective cell behaviours, which I view as
 swarms with a twist: (1) cells are not simply point-like particles but have
 spatial extent, (2) interactions between cells go beyond simple
-attraction-repulsion, and (3) cells ``live'' in a regime where friction
+attraction-repulsion, and (3) cells "live" in a regime where friction
 dominates over inertia. Examples include: wound
 healing, embryogenesis (normal development),
 the immune response, and cancer
@@ -41,5 +41,5 @@ Current Projects
 ----------
 
 1. [Non-local models of cell-cell adhesion.](portfolio/2018-01-01-adhesion)
-2. Project 2
+2. [Modelling of intra-cellular cell decision mechanisms](portfolio/2019-01-01-cell-mig)
 3. Project 3
