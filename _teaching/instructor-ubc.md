@@ -1,7 +1,7 @@
 ---
 title: "Instructor at University of British Columbia"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/instructor-ubc
 venue: "University of British Columbia, Department of Mathematics"
 date: 2018-01-02
