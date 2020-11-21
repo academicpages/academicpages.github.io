@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Luca Silva, a first year student in Statistics and computer science at [Bocconi University](https://www.unibocconi.it).
+I am Luca Silva, a first year Phd student in Statistics and computer science at [Bocconi University](https://www.unibocconi.it).
 
 Research Interests
 =======
