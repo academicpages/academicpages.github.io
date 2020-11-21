@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Summary"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -40,6 +40,6 @@ computational framework** is needed. I refer to such models as cell-based models
 Current Projects
 ----------
 
-1. Project 1
+1. [Non-local models of cell-cell adhesion.](portfolio/2018-01-01-adhesion)
 2. Project 2
 3. Project 3
