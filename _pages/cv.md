@@ -65,9 +65,6 @@ Approaches" (19w5080).
   * Chair of the scientific committee and main-organizer for the four day CDEV
   stream at [eSMB2020](https://smb2020.org/).
 
-* Organizer of the session ["Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour in Cells"](https://winter18.cms.math.ca/index.php/sessions/) at the Canadian Mathematical Society Winter Meeting (2018), Vancouver, Canada.
-  * Co-organizer: Dr. Leah Edelstein-Keshet.
-
 * 2014 - 2017 Member of the [Society in Graduate Mathematics and Statistics](http://sigmas.math.ualberta.ca/):
   * 2017 president.
   * 2014-15, 2016-17 Applied Mathematics student department council representative.
@@ -88,9 +85,8 @@ Conference organization
 * Contemporary mathematical approaches in developmental biology. July 2019.  Minisymposium. Society of Mathematical Biology Annual Meeting, Montreal, Canada.
   * Co-organizer: Alex Fletcher.
 
-* Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour in Cells. December 2018.
-1-Day Session at Canadian Mathematical Society Winter Meeting, Vancouver, Canada.
-  * Co-organizer: Dr.\ Leah Edelstein-Keshet.
+* Organizer of the session ["Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour in Cells"](https://winter18.cms.math.ca/index.php/sessions/) at the Canadian Mathematical Society Winter Meeting (2018), Vancouver, Canada.
+  * Co-organizer: Dr. Leah Edelstein-Keshet.
 
 Awards
 ========
