@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019-08-28-single-gtpase
 date: 2019-08-28
 paperurl: 'https://link.springer.com/article/10.1007/s11538-020-00702-5'
+venue: 'Bulletin of Mathematical Biology'
 citation: 'Buttenschön, A., Liu Y., Edelstein-Keshet, L. <i>Bull. Math. Bio.</i> (2020)'
 ---
 

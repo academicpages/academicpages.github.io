@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019-03-15-nonlocal-bc-existence
 date: 2019-03-15
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/19M1250315'
+venue: 'SIAM Journal on Applied Mathematics'
 citation: 'Hillen T., Buttenschön, A. <i>SIAM Journal on Applied Mathematics</i> (2020)'
 ---
 
