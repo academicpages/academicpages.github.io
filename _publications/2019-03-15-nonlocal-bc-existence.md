@@ -17,5 +17,6 @@ repulsive and neutral boundary conditions and we show that the solutions mimic
 known behavior of fluid adhesion to boundaries. In addition, we observe interior
 pattern formation due to cell-cell adhesion.
 
+This publication is part of the [Non-local models of cell-cell adhesion project.](portfolio/2018-01-01-adhesion)
 
 [Download preprint here](https://arxiv.org/abs/1903.06635)
