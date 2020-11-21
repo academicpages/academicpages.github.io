@@ -95,6 +95,8 @@ Awards
 * Poster Award at the annual meeting of the Society of Mathematical Biology, 2017.
 * Dean's Excellence Award, 2017.
 * Queen Elizabeth II Award, 2017.
+* Best Poster Award at the Graduate Summit in Mathematical Biology and Applied PDE, 2017.
+* Outstanding Poster Award at the MMBS workshop Dublin, 2015.
 * FGSR Travel Award to present to YRC 2014.
 
 Languages
@@ -117,7 +119,11 @@ Computer skills
 =======
 
 * **Computer languages**
-  * C/C++11, Python, Swig, Xml, SQL, Shell scripting.
+  * Extensive experience in C/C++11, and Python.
+  * Experience in MATLAB, Swig, Xml, SQL, and Shell scripting.
+
+* **Hardware Skills**
+  * Built a dozen, including a few highly reliable workstations and servers (based on professional hardware, and powered by Gentoo). These machines power my computational research.
 
 * **Software packages**
   * Databases using MySQL, and SQLAlchemy.
