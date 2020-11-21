@@ -46,7 +46,7 @@ Medical Informatics, Haptic technology, Artroscopic Training by virtual reality 
 
 Biological, Optical and Microscopic Applications
 ------
-Optical Twezzers, Superresolution Microscopy, Mathematical Modelling in Developemntal Biology of zefrafish, Topology and Visualization of 3D microscopic models.
+Optical Twezzers, Superresolution Microscopy, Mathematical Modelling in Developmental Biology of zefrafish, Topology and Visualization of 3D microscopic models.
 
 My origins
 ======
