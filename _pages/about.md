@@ -35,3 +35,11 @@ analyse **nonlocal** DEs. On the other hand, to track the motion, behaviour,
 or forces produced by individual cells, a more detailed **cell-based
 computational framework** is needed. I refer to such models as cell-based models
 (CBMs).
+
+
+Current Projects
+----------
+
+1. Project 1
+2. Project 2
+3. Project 3
