@@ -42,4 +42,4 @@ Current Projects
 
 1. [Non-local models of cell-cell adhesion.](portfolio/2018-01-01-adhesion)
 2. [Modelling of intra-cellular cell decision mechanisms](portfolio/2019-01-01-cell-mig)
-3. Project 3
+3. [Physics-based models of collective cell migration](portfolio/2019-02-01-phy-models)
