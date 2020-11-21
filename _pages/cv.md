@@ -22,7 +22,7 @@ Other-Education
 * Industry Canada Basic(+) Certificate of proficiency in Amateur Radio, 2011.
 * Project Management Principles and Practice Level 1 & 2, University of Alberta, Faculty of Extension, 2011.
 
-Work experience
+Research experience
 ======
 * 2018 - present: NSERC Post-doctoral Fellow
   * University of British Columbia
@@ -61,8 +61,7 @@ Approaches" (19w5080).
   * Details can be found on the [BIRS webpage](https://www.birs.ca/events/2019/5-day-workshops/19w5080).
   * Videos from the event can be found [here](https://www.birs.ca/events/2019/5-day-workshops/19w5080/videos).
 
-* 2018-2020 Chairman of the "Cell and Developmental Biology" [SMB-subgroup](https://www.smb.org/subgroups/). We organize an annual
-minisymposium at the annual meeting of the Society of Mathematical Biology.
+* 2018-2020 Chairman of the "Cell and Developmental Biology" [SMB-subgroup](https://smb-celldevbio.github.io/) and [CDEV-Twitter](https://twitter.com/SMBdevBio). I organized three minisymposium at annual meetings of the Society of Mathematical Biology.
   * Chair of the scientific committee and main-organizer for the four day CDEV
   stream at [eSMB2020](https://smb2020.org/).
 
@@ -74,6 +73,24 @@ minisymposium at the annual meeting of the Society of Mathematical Biology.
   * 2014-15, 2016-17 Applied Mathematics student department council representative.
   * 2014-2017 webmaster.
 
+Conference organization
+=======
+
+* Shapes, patterns, and forces in developmental biology. August 2020. Minisymposium. Society of Mathematical Biology Annual meeting, online.
+  * Co-organizer: Alex Fletcher.
+
+* Understanding development through theory and experiment. August 2020. Minisymposium. Society of Mathematical Biology Annual meeting, online.
+  * Co-organizer: Alex Fletcher.
+
+* Shapes, patterns, and forces in developmental biology. June 2020. Minisymposium. SIAM Conference on the Life Sciences. Postponed due to Covid-19.
+  * Co-organizer: Tracy Stepien.
+
+* Contemporary mathematical approaches in developmental biology. July 2019.  Minisymposium. Society of Mathematical Biology Annual Meeting, Montreal, Canada.
+  * Co-organizer: Alex Fletcher.
+
+* Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour in Cells. December 2018.
+1-Day Session at Canadian Mathematical Society Winter Meeting, Vancouver, Canada.
+  * Co-organizer: Dr.\ Leah Edelstein-Keshet.
 
 Awards
 ========
@@ -88,6 +105,17 @@ Languages
 =======
 
 * English, German, French (B1), Italian (B1).
+
+My own software package
+=======
+
+* (i)PDE toolbox consisting of: (1) Finite Volume solver, (2) spectral collocation methods (Fourier series, and Gegenbauer polynomials), (3) symbolic linearization, and (4) continuation support (bifurcation analysis).  [Link to repository coming soon](https://github.com/adrs0049)
+
+* Modular hybrid agent-based PDE model of one dimensional cells with detailed intra-cellular signalling (python with Fortran components). [Link to repository coming soon](https://github.com/adrs0049)
+
+* TiSim developer of a novel model for deformable cells based on colloidal physics, written in cpp. Supporting setup and analysis code in python.
+
+* Gillespie-SSA framework for non-local space-jump process (C$^{++}$ and python). [Link to repository](https://github.com/adrs0049/AdhesionRandomWalk)
 
 Computer skills
 =======
