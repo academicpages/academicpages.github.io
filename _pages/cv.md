@@ -104,7 +104,7 @@ Languages
 
 * English, German, French (B1), Italian (B1).
 
-My own software package
+My own software packages
 =======
 
 * (i)PDE toolbox consisting of: (1) Finite Volume solver, (2) spectral collocation methods (Fourier series, and Gegenbauer polynomials), (3) symbolic linearization, and (4) continuation support (bifurcation analysis).  [Link to repository coming soon](https://github.com/adrs0049)
