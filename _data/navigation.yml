@@ -1,20 +1,21 @@
 # main links links
 main:
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Resume"
+    url: "https://fsantibanezleal.github.io/online-cv/"
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+            
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: "https://fsantibanezleal.github.io/online-cv/"
 
