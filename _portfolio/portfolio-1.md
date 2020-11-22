@@ -28,6 +28,7 @@ collection: portfolio
 **C.-H. Huck Yang** 
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present (co-advised with Prof. Chin-Hui Lee)
+  * M.Sc., Georgia Institute of Technology, 2017 - 2018
 * B.Sc., National Taiwan University
 
 **Kaiwen Zheng**
