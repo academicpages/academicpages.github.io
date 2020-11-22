@@ -5,6 +5,7 @@ permalink: /publication/2019-03-15-nonlocal-bc-existence
 date: 2019-03-15
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/19M1250315'
 venue: 'SIAM Journal on Applied Mathematics'
+excerpt: 'Global existence of a non-local model of cell-cell adhesion on a bounded domain.'
 citation: 'Hillen T., Buttenschön, A. <i>SIAM Journal on Applied Mathematics</i> (2020)'
 ---
 
