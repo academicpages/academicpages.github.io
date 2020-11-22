@@ -138,8 +138,8 @@ Funding & Scholarships
 
 * [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) post-doctoral fellowship, 2018.
 * Dr. Josephine M. Mitchell Scholarship, 2017.
-* Alberta Innovates Technology Futures Graduate Student Scholarship, 2015.
-* PIMS Graduate Scholarship, 2015.
+* [Alberta Innovates](https://albertainnovates.ca/) Technology Futures Graduate Student Scholarship, 2015.
+* [PIMS](http://www.pims.math.ca/) Graduate Scholarship, 2015.
 * [MITACS](http://www.mitacs.ca/) Globalink Research Award Abroad - INRIA, 2015.
 * Alberta Innovates Technology Futures Top-Up Award, 2014.
 * Walter H. Johns Graduate Fellowship, 2014.
