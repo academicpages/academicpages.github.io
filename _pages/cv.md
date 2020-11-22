@@ -24,7 +24,7 @@ Other-Education
 
 Research experience
 ======
-* 2018 - present: NSERC Post-doctoral Fellow
+* 2018 - present: [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) Post-doctoral Fellow
   * [University of British Columbia](https://www.math.ubc.ca/)
   * Supervisor: Drs. [Leah Edelstein-Keshet](https://www.math.ubc.ca/~keshet/keshet.html) and [Michael Ward](https://www.math.ubc.ca/~ward/)
 
@@ -52,9 +52,9 @@ Publications
 
 Service and leadership
 ======
-* Organizer of the PIMS @ UBC [Math-Bio seminar](https://www.math.ubc.ca/Research/MathBio/seminarsMB.php).
+* Organizer of the [PIMS](http://www.pims.math.ca/) @ UBC [Math-Bio seminar](https://www.math.ubc.ca/Research/MathBio/seminarsMB.php).
 
-* Organizer of the BIRS workshop "Bridging Cellular and Tissue Dynamics from
+* Organizer of the [BIRS](http://www.birs.ca/) workshop "Bridging Cellular and Tissue Dynamics from
 Normal Development to Cancer: Mathematical, Computational, and Experimental
 Approaches" (19w5080).
   * Co-organizers: Dr. Elisabeth Rens, Dr. Leah Edelstein-Keshet.
@@ -73,16 +73,16 @@ Approaches" (19w5080).
 Conference organization
 =======
 
-* Shapes, patterns, and forces in developmental biology. August 2020. Minisymposium. Society of Mathematical Biology Annual meeting, online.
+* [Shapes, patterns, and forces in developmental biology](https://smb2020.org/tuesday/#MS2). August 2020. Minisymposium. Society of Mathematical Biology Annual meeting, online.
   * Co-organizer: Alex Fletcher.
 
-* Understanding development through theory and experiment. August 2020. Minisymposium. Society of Mathematical Biology Annual meeting, online.
+* [Understanding development through theory and experiment](https://smb2020.org/wednesday/#MS2). August 2020. Minisymposium. Society of Mathematical Biology Annual meeting, online.
   * Co-organizer: Alex Fletcher.
 
-* Shapes, patterns, and forces in developmental biology. June 2020. Minisymposium. SIAM Conference on the Life Sciences. Postponed due to Covid-19.
+* Shapes, patterns, and forces in developmental biology. [Part I](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=68544), [Part 2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=68545). June 2020. Minisymposium. SIAM Conference on the Life Sciences. Postponed due to Covid-19.
   * Co-organizer: Tracy Stepien.
 
-* Contemporary mathematical approaches in developmental biology. July 2019.  Minisymposium. Society of Mathematical Biology Annual Meeting, Montreal, Canada.
+* [Contemporary mathematical approaches in developmental biology](https://www.smb.org/wp-content/uploads/2019/01/Subgroup_DevelopmentalBiology_March2019.pdf). July 2019. Minisymposium. Society of Mathematical Biology Annual Meeting, Montreal, Canada.
   * Co-organizer: Alex Fletcher.
 
 * Organizer of the session ["Mathematical and Computational Modeling from Sub-Cellular to Collective Behaviour in Cells"](https://winter18.cms.math.ca/index.php/sessions/) at the Canadian Mathematical Society Winter Meeting (2018), Vancouver, Canada.
@@ -136,11 +136,11 @@ Computer skills
 Funding & Scholarships
 =======
 
-* NSERC post-doctoral fellowship, 2018.
+* [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) post-doctoral fellowship, 2018.
 * Dr. Josephine M. Mitchell Scholarship, 2017.
 * Alberta Innovates Technology Futures Graduate Student Scholarship, 2015.
 * PIMS Graduate Scholarship, 2015.
-* MITACS Globalink Research Award Abroad - INRIA, 2015.
+* [MITACS](http://www.mitacs.ca/) Globalink Research Award Abroad - INRIA, 2015.
 * Alberta Innovates Technology Futures Top-Up Award, 2014.
 * Walter H. Johns Graduate Fellowship, 2014.
 * NSERC Graduate Scholarship Master's, 2014.
