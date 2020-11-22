@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-I collected some free resources relates to research skills.
+I collected some free resources relate to research skills.
 
 Coding
 ======
@@ -19,11 +19,13 @@ Coding
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund
 * [Advanced R](https://adv-r.hadley.nz/index.html) by Hadley Wickham
 
+<br> 
 
 Data Visualization
 ======
-[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) by Claus O. Wilke 
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) by Claus O. Wilke 
 
+<br> 
 
 Modeling
 ======
@@ -31,12 +33,14 @@ Modeling
 * [Neuromatch Academy Course Intro, Outro, Discussion Panel](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw/videos)
 * [Neurohackademy Course Videos](https://www.youtube.com/channel/UCLKSeDZWDqBzKRfHTabg1lQ) through UW eScience Institute
 
+<br> 
 
 Academic Writing
 ======
-[The Writing Workshop](https://osf.io/z4n3t/) by Barbara Sarnecka
+* [The Writing Workshop](https://osf.io/z4n3t/) by Barbara Sarnecka
 
+<br> 
 
 Presentation
 ======
-a nature article on [how scientific presentation is different from a journal article](https://www.nature.com/articles/d41586-020-03300-6)
+* a nature article on [how scientific presentation is different from a journal article](https://www.nature.com/articles/d41586-020-03300-6)
