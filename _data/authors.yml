@@ -8,7 +8,7 @@ Name Name:
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
   google_plus : "Name"
-  gitlab      : "https://gitlab.com/Name"
+  #gitlab      : "https://gitlab.com/Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
