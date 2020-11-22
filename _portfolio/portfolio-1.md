@@ -26,7 +26,7 @@ collection: portfolio
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present (co-advised with Prof. Chin-Hui Lee)
 
-**C.-H. Huck Yang** ([website](https://huckiyang.github.io/web/))
+**C.-H. Huck Yang** 
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present (co-advised with Prof. Chin-Hui Lee)
 * B.Sc., National Taiwan University
