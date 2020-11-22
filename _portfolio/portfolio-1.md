@@ -22,13 +22,18 @@ collection: portfolio
   * Topic: Enhancing next generation of communication systems by machine intellegence
 * B.Sc. National University of Sciences and Technology
 
-**Chao-Han (Huck) Yang** ([website](https://huckiyang.github.io/web/))
+**Jun Qi**
 
-* Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present
-  * M.Sc., Georgia Institute of Technology, 2017 - 2019
-  * Topic: Robust learning against noisy and adversarial perturbation on networks
-  * Wallace Coulter Fellowship, 2017 Fall - 2018 Spring 
+* Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present (co-advised with Prof. Chin-Hui Lee)
+
+**C.-H. Huck Yang** ([website](https://huckiyang.github.io/web/))
+
+* Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present (co-advised with Prof. Chin-Hui Lee)
 * B.Sc., National Taiwan University
+
+**Kaiwen Zheng**
+
+* Ph.D. Student, Georgia Institute of Technology, Fall 2019 -- present 
 
 Visiting Students:
 
