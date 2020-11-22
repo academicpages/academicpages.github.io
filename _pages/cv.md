@@ -25,15 +25,15 @@ Other-Education
 Research experience
 ======
 * 2018 - present: NSERC Post-doctoral Fellow
-  * University of British Columbia
+  * [University of British Columbia](https://www.math.ubc.ca/)
   * Supervisor: Drs. [Leah Edelstein-Keshet](https://www.math.ubc.ca/~keshet/keshet.html) and [Michael Ward](https://www.math.ubc.ca/~ward/)
 
 * 2014 - 2017: Doctoral Researcher
-  * University of Alberta
+  * [University of Alberta](https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html)
   * Supervisor: [Dr. Thomas Hillen](https://www.math.ualberta.ca/~thillen/)
 
 * December 2015 - June 2016: MITACS-Internship at the Multicellular Systems Biology group of Dirk Drasdo
-  * INRIA-Paris: Team [MAMBA](https://team.inria.fr/mamba/)
+  * [INRIA-Paris](https://www.inria.fr/en/centre-inria-de-paris): Team [MAMBA](https://team.inria.fr/mamba/)
   * Supervisor: [Dr. Dirk Drasdo](http://ms.izbi.uni-leipzig.de/)
 
 * May 2013 - August 2013: NSERC Undergraduate Summer Research Student
