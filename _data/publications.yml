@@ -135,7 +135,7 @@
   pmid: 29703976
   pdf: /files/papers/superstool.pdf
 - citation: '**SW Olesen**, C Duvallet, EJ Alm. dbOTU3: A new implementation of distribution-based
-    OTU calling. *PLoS ONE* 12(5): e0176335 (2017).'
+    OTU calling. *PLOS ONE* 12(5): e0176335 (2017).'
   doi: 10.1371/journal.pone.0176335
   pmc: PMC5417438
   pmid: 28472072
@@ -157,7 +157,7 @@
   pmid: 27562262
 - citation: '**Olesen SW**, Vora S, Techtmann SM, Fortney JL, Bastidas-Oyanedel JR,
     Rodriguez J, Hazen TC, Alm EJ. A novel analysis method for paired-sample
-    microbial ecology experiments. *PLoS ONE* 11: e0154804 (2016).'
+    microbial ecology experiments. *PLOS ONE* 11: e0154804 (2016).'
   doi: 10.1371/journal.pone.0154804
   pmc: PMC4859510
   pmid: 27152415
@@ -174,7 +174,7 @@
     block self-assembles into right-and left-handed helices. *RSC Advances*, 3, 12905-12908
     (2013).'
   doi: 10.1039/C3RA41813H
-- citation: 'D Bingemann, MR Allen, and **SW Olesen**. Single molecules reveal the
+- citation: 'D Bingemann, MR Allen, **SW Olesen**. Single molecules reveal the
     dynamics of heterogeneities in a polymer at the glass transition. *Journal of
     Chemical Physics*, 134, 024513 (2011).'
   doi: 10.1063/1.3516516
