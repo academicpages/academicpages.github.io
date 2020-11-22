@@ -27,6 +27,7 @@ and the next chapter on off lattice-free ABMs. The aim is to assist researchers
 in choosing the optimal model for the phenomenon they might want to model and
 understand.
 
+This publication is part of the [Physics-based models of collective cell migration.](/portfolio/2019-02-01-phy-models)
 
 [Download paper here](https://doi.org/10.1016/B978-0-12-811718-7.00012-5)
 

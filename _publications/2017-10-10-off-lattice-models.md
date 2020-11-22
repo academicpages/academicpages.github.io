@@ -21,5 +21,7 @@ own difficulty and demands a particular care and expertise. We discuss here
 numerical solution methods and implementations to describe the dynamics in
 the different models.
 
+This publication is part of the [Physics-based models of collective cell migration.](/portfolio/2019-02-01-phy-models)
+
 [Download paper here](https://doi.org/10.1016/B978-0-12-811718-7.00014-9)
 
