@@ -1,7 +1,7 @@
 ---
 title: "Correlated random walks inside a cell: actin branching and microtubule dynamics"
 collection: publications
-permalink: /publication/2019-08-16-acting-ctrw
+permalink: /publication/2019-08-16-actin-ctrw
 date: 2019-08-16
 venue: 'Journal of Mathematical Biology'
 paperurl: 'https://doi.org/10.1007/s00285-019-01416-6'
