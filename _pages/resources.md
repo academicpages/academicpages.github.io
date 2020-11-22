@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<br> 
 
 I collected some free resources relate to research skills.
+
+<br> 
 
 Coding
 ======
