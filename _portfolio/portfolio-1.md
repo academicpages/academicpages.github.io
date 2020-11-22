@@ -19,7 +19,6 @@ collection: portfolio
 
 * Ph.D. Candidate, Georgia Institute of Technology, Spring 2018 -- present
   * M.Sc., Georgia Institute of Technology, 2016 - 2018
-  * Topic: Enhancing next generation of communication systems by machine intellegence
 * B.Sc. National University of Sciences and Technology
 
 **Jun Qi**
