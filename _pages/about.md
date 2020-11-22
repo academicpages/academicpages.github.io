@@ -23,7 +23,7 @@ response, and cancer metastasis. I use mathematical modelling and
 computational biology to uncover the *universal principles* how biological,
 physical, and chemical factors shape biological tissues.
 
-<br/><style> img { max-width: 75%; height: auto; } </style> <center><img src='/images/vision.png'></center><br/>
+<br/><center><style> img { max-width: 75%; height: auto; } </style><img src='/images/vision.png'></center><br/>
 
 Interactions in tissues range over several orders of magnitude in time and
 spatial scales.  Distinct mathematical frameworks are appropriate for specific

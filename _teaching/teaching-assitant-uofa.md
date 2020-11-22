@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/teaching-assitant-uofa
 venue: "University of Alberta, Department of Mathematics and Statistical Sciences"
+excerpt: 'Teaching Assistant at the University of Alberta.'
 date: 2013-09-05
 location: "Edmonton, Canada"
 ---
