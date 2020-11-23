@@ -51,12 +51,15 @@ Optical Twezzers, Superresolution Microscopy, Mathematical Modelling in Developm
 My origins
 ======
 I come from the south of Chile, where I grew up on a hill a bit isolated from civilization but surrounded by nature, cliffs, forests and beaches.
+
 ![wolverine](/images/places/wolverine/15.jpg)
 
-I received my PhD from the School of Electrical Engineering at the University of Chile, my double Diploma in Medical Informatics from the University of Chile and the University of Heidelberg, and my B.Sc. in electronic civil engineering at the Universidad de Concepción in Concepción, Chile. The campus of the University of Concepción is also surrounded by nature
+I received my PhD from the School of Electrical Engineering at the University of Chile, my double Diploma in Medical Informatics from the University of Chile and the University of Heidelberg, and my B.Sc. in electronic civil engineering at the Universidad de Concepción in Concepción, Chile. The campus of the University of Concepción is also surrounded by nature.
+
 ![UDEC](/images/places/udec/udec3.jpg)
 
 I also have industrial technical training in electronics at the High Technology Educational Center [CEAT](https://www.ceat.cl/inicio/), located in San Pedro de la Paz and surrounded by a lagoon and a small hill.
+
 ![CEAT](/images/places/ceat/ceat1.jpg)
 
 
