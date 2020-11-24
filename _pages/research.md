@@ -1,4 +1,4 @@
----
+﻿---
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -38,7 +38,7 @@ author_profile: true
 
 ### Books, Chapters, and Essays
 
-* "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/-/media/research-and-data/publications/economic-insights/2020/q2/eiq220-ticket-to-ride.pdf)." *Economic Insights* 5, no. 2 (2020).
+* "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/the-economy/regional-economics/a-ticket-to-ride-estimating-the-benefits-of-rail-transit)." *Economic Insights* 5, no. 2 (2020).
 
 ### Other Peer-Reviewed Publications
 
