@@ -21,7 +21,7 @@ Publication
 * T Kim, N Shen, **JC Hsiang**, KP Johnson, D Kerschensteiner. 
   Dendritic and parallel processing of visual threats in the retina control defensive responses.   
   _Science Advances, 2020_
-* F Soto, **JC Hsiang**<sup>co-first</sup>, R Rajagopal, K Piggott, GJ Harocopos, SM Couch, P Custer, JL Morgan, D Kerschensteiner. 
+* F Soto, **JC Hsiang**<sup>co-first</sup>, R Rajagopal, K Piggott, GJ Harocopos, SM Couch, P Custer, JL Morgan, D Kerschensteiner.
   Efficient Coding by Midget and Parasol Ganglion Cells in the Human Retina.  
   _Neuron, 2020_
 * A Vogrig, **JC Hsiang**<sup>co-first</sup>, J Ng, J Rolnick, J Cheng, J Parvizi. 
