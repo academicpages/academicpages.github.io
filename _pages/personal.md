@@ -18,6 +18,3 @@ author_profile: true
 [BE]: https://wangjw6.github.io/images/bachelor.png
 
 
-## Visitors
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=tChFRiMtpPxOIMsvJQqWMmkuRMpGj2rQS4NnjDeOlv0&co=2d9bad'></script>
