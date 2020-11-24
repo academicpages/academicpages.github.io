@@ -12,7 +12,6 @@ For information on my ongoing and developing field research see the [Projects pa
 ## Comparative research
 
 * Conflict resolution across human societies
-	* Description:
 * Cultural diversity of punishment behaviors and systems
 * The cultural ecology of hunter-gatherer leadership
 * Hawks and doves: Are there aggressive and non-aggressive types?
