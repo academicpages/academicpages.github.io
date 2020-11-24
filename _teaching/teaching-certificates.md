@@ -12,4 +12,4 @@ location: "China, United States"
 * <b>Chinese Teacher’s License (Psychology and Education)</b>
 *  <b>Neuromatch Academy Teaching Assistant Certificate</b>
 *  <b>UCI Course Design Certificate</b>
-
+*  <b>UCI Mentoring Excellence Certificate</b>
