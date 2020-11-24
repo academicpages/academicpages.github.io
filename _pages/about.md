@@ -18,11 +18,11 @@ Before that, I was a visiting scholar in [Parvizi Lab](http://med.stanford.edu/p
 
 Publication
 ----
-* Dendritic and parallel processing of visual threats in the retina control defensive responses
-  T Kim, N Shen, **JC Hsiang**, KP Johnson, D Kerschensteiner
+* T Kim, N Shen, **JC Hsiang**, KP Johnson, D Kerschensteiner.  
+  Dendritic and parallel processing of visual threats in the retina control defensive responses.   
   _Science Advances 6 (47), 2020_
-* Efficient Coding by Midget and Parasol Ganglion Cells in the Human Retina
-  F Soto, **JC Hsiang**<sup>co-first</sup>, R Rajagopal, K Piggott, GJ Harocopos, SM Couch, ... 
+* F Soto, **JC Hsiang**<sup>co-first</sup>, R Rajagopal, K Piggott, GJ Harocopos, SM Couch, ...
+  Efficient Coding by Midget and Parasol Ganglion Cells in the Human Retina.  
   _Neuron, 2020_
 
 Contact
