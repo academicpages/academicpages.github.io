@@ -18,17 +18,17 @@ Before that, I was a visiting scholar in [Parvizi Lab](http://med.stanford.edu/p
 
 Publication
 ----
-* T Kim, N Shen, **JC Hsiang**, KP Johnson, D Kerschensteiner.
+* T Kim, N Shen, **JC Hsiang**, KP Johnson, D Kerschensteiner.  
   Dendritic and parallel processing of visual threats in the retina control defensive responses.   
   _Science Advances, 2020_
-* F Soto, **JC Hsiang**<sup>co-first</sup>, R Rajagopal, K Piggott, GJ Harocopos, SM Couch, P Custer, JL Morgan, D Kerschensteiner.
+* F Soto, **JC Hsiang**<sup>co-first</sup>, R Rajagopal, K Piggott, GJ Harocopos, SM Couch, P Custer, JL Morgan, D Kerschensteiner.  
   Efficient Coding by Midget and Parasol Ganglion Cells in the Human Retina.  
   _Neuron, 2020_
-* A Vogrig, **JC Hsiang**<sup>co-first</sup>, J Ng, J Rolnick, J Cheng, J Parvizi.
-  A systematic study of stereotypy in epileptic seizures versus psychogenic seizure-like events.
+* A Vogrig, **JC Hsiang**<sup>co-first</sup>, J Ng, J Rolnick, J Cheng, J Parvizi.  
+  A systematic study of stereotypy in epileptic seizures versus psychogenic seizure-like events.  
   _Epilepsy & Behavior, 2019_
-* **JC Hsiang**, KP Johnson, L Madisen, H Zeng, D Kerschensteiner.
-  Local processing in neurites of VGluT3-expressing amacrine cells differentially organizes visual information.
+* **JC Hsiang**, KP Johnson, L Madisen, H Zeng, D Kerschensteiner.  
+  Local processing in neurites of VGluT3-expressing amacrine cells differentially organizes visual information.  
   _eLife, 2017_
 
 
