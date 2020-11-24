@@ -16,11 +16,19 @@ Research Interests
 ======
 My research targets at developing computational methods to analyze Web contents. Currently, I focus on the following areas:
 * **Opinion mining and opinionated/argumentative text generation**  
-Stance analysis and argument mining, especially in low-resource (cross-domain & weak supervision), multi-task settings
+Stance analysis and argument mining, especially in low-resource (cross-domain & weak supervision) and multi-task settings
 * **Rumor verification and fact checking**  
 Determine the correctness of textual claims and structured triples in knowledge graphs      
 <br/>
-
+  
+  
+Education
+======
+* **Sep. 2016 - Jun. 2021 (expected)** Ph.D. Student, Majoring in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
+* **Sep. 2012 - Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering), [Wuhan University (WHU)](https://en.whu.edu.cn/), Wuhan, China. Overall GPA: 3.84/4.0, Major GPA: 3.92/4.0, Rank: 1st.
+* **Sep. 2009 - Jul. 2012.** [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School), Tianjin, China.  
+<br/>
+  
 
 Publications
 ======
@@ -43,14 +51,6 @@ In Proc. of SIGIR 2018: The 41st International ACM SIGIR Conference on Research 
 <br/>
 
   
-Education
-======
-* **Sep. 2016 - Jun. 2021 (expected)** Ph.D. Student, Majoring in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
-* **Sep. 2012 - Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering), [Wuhan University (WHU)](https://en.whu.edu.cn/), Wuhan, China. Overall GPA: 3.84/4.0, Major GPA: 3.92/4.0, Rank: 1st.
-* **Sep. 2009 - Jul. 2012.** [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School), Tianjin, China.  
-<br/>
-  
-  
 Awards
 ======
 * 2020, Pollyanna Chu Yuet Wah Scholarship for Outstanding PhD Student, University of Chinese Academy of Sciences (UCAS)
@@ -62,7 +62,7 @@ Awards
 * 2017, Second Place in 2017 UCAS Football League, UCAS
 * 2016, Outstanding Graduate Award, Wuhan University
 * 2015, Chinese Academy of Sciences Scholarship for College Students (rewarding top 10% students with postgraduate recommendation), UCAS
-* 2015, First Prize in the 10th Freescale Cup Smart Car Competition (Magnetic Navigation Double-Car Group), Teaching Steering Committee on Automation, Department of Higher Education under the Ministry of Education
+* 2015, First Prize in the 10th Freescale Cup Smart Car Competition (Magnetic Navigation Double-Car Group, South China), Teaching Steering Committee on Automation, Department of Higher Education under the Ministry of Education
 * 2014 & 2015, National Scholarships, Ministry of Education   
 <br/>
   
@@ -71,6 +71,6 @@ Misc
 ======
 * [Here](https://www.cnblogs.com/Determined22/) is my technology blog (in Chinese). I wrote some notes about machine learning and natural language processing techniques.
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
-* I am a yo-yo player, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers: Hiroyuki Suzuki and Jake Elliott. 
+* I am a yo-yo player, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers are Hiroyuki Suzuki and Jake Elliott. 
   
   
