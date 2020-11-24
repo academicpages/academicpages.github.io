@@ -14,7 +14,10 @@ UC Santa Barbara
 ------
 
 * <b>Teaching Assistant</b> - Department of Mechanical Engineering,
-Design and Analysis of Structures (ME 154)
+Engineering Mechanics: Vibrations (ME 163), Winter 2021
+
+* <b>Teaching Assistant</b> - Department of Mechanical Engineering,
+Design and Analysis of Structures (ME 154), Fall 2020
 
 
 University of Maryland
