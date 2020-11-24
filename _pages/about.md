@@ -30,7 +30,9 @@ Publication
 * **JC Hsiang**, KP Johnson, L Madisen, H Zeng, D Kerschensteiner.  
   Local processing in neurites of VGluT3-expressing amacrine cells differentially organizes visual information.  
   _eLife, 2017_
-
+* JM Shine, A Kucyi, BL Foster, S Bickel, D Wang, H Liu, RA Poldrack, LT Hsieh, **JC Hsiang**, J Parvizi.  
+  Distinct patterns of temporal and directional connectivity among intrinsic networks in the human brain.  
+  _Journal of Neuroscience, 2017_
 
 Contact
 ------
