@@ -19,8 +19,8 @@ map_preamble = """
     	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
-    	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css"/>
-    	<script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
+    	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+    	<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
     	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
     	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
@@ -34,9 +34,9 @@ map_preamble = """
     	<script>
             var mymap = L.map('mapid').setView([45,0], 2);
 
-            L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibGVvbmFyZG9wYWNjaWFuaW1vcmkiLCJhIjoiY2ptdnV6Mm05MWJkdTN2bnVsZjA2azBwbCJ9.f6jEjaOydstGXDExvi_ftQ', {maxZoom: 18, attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 18, attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
                 '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-                'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+                'Imagery © <a href="https://www.openstreetmap.org/">OpenStreetMap</a>',
                 id: 'mapbox.streets'}).addTo(mymap);
 
             var MarkerIcon = L.Icon.extend({
