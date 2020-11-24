@@ -30,5 +30,6 @@ The Viztima
 ------
 
 Our little orange friend, The Viztima, is stealing the Christmas.
+
 ![img](/files/personal-blog/2020-11-20-01/03.jpg)
 
