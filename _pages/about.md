@@ -20,19 +20,19 @@ Publication
 ----
 * T Kim, N Shen, **JC Hsiang**, KP Johnson, D Kerschensteiner.  
   Dendritic and parallel processing of visual threats in the retina control defensive responses.   
-  _Science Advances, 2020_ [<ins>Paper</ins>](https://advances.sciencemag.org/content/6/47/eabc9920.abstract)
+  _Science Advances, 2020_ [<ins>paper</ins>](https://advances.sciencemag.org/content/6/47/eabc9920.abstract)
 * F Soto, **JC Hsiang**<sup>co-first</sup>, R Rajagopal, K Piggott, GJ Harocopos, SM Couch, P Custer, JL Morgan, D Kerschensteiner.  
   Efficient Coding by Midget and Parasol Ganglion Cells in the Human Retina.  
-  _Neuron, 2020_ [Paper](https://www.sciencedirect.com/science/article/pii/S0896627320303998)  [PDF](https://www.cell.com/neuron/pdfExtended/S0896-6273(20)30399-8)
+  _Neuron, 2020_ [<ins>paper</ins>](https://www.sciencedirect.com/science/article/pii/S0896627320303998)  [<ins>PDF</ins>](https://www.cell.com/neuron/pdfExtended/S0896-6273(20)30399-8)
 * A Vogrig, **JC Hsiang**<sup>co-first</sup>, J Ng, J Rolnick, J Cheng, J Parvizi.  
   A systematic study of stereotypy in epileptic seizures versus psychogenic seizure-like events.  
-  _Epilepsy & Behavior, 2019_ [Paper](https://www.sciencedirect.com/science/article/pii/S1525505018308369)
+  _Epilepsy & Behavior, 2019_ [<ins>paper</ins>](https://www.sciencedirect.com/science/article/pii/S1525505018308369)
 * **JC Hsiang**, KP Johnson, L Madisen, H Zeng, D Kerschensteiner.  
   Local processing in neurites of VGluT3-expressing amacrine cells differentially organizes visual information.  
-  _eLife, 2017_ [Paper](https://elifesciences.org/articles/31307)
+  _eLife, 2017_ [<ins>paper</ins>](https://elifesciences.org/articles/31307)
 * JM Shine, A Kucyi, BL Foster, S Bickel, D Wang, H Liu, RA Poldrack, LT Hsieh, **JC Hsiang**, J Parvizi.  
   Distinct patterns of temporal and directional connectivity among intrinsic networks in the human brain.  
-  _Journal of Neuroscience, 2017_ [Paper](https://www.jneurosci.org/content/37/40/9667.full)
+  _Journal of Neuroscience, 2017_ [<ins>paper</ins>](https://www.jneurosci.org/content/37/40/9667.full)
 
 Contact
 ------
