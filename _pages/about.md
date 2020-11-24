@@ -8,6 +8,7 @@
    - /about.html
  ---
  
+ 
 About me
 ---
 I'm a McDonnell International Scholar in the Neuroscience PhD Program at Washington University in St. Louis. I'm in [Kerschensteiner Lab](https://kerschensteinerlab.wustl.edu/), using two-photon imaging, multi-electrode array and computational modeling to study visual processing in the mouse and human retina. 
