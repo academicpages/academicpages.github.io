@@ -27,6 +27,10 @@ Publication
 * A Vogrig, **JC Hsiang**<sup>co-first</sup>, J Ng, J Rolnick, J Cheng, J Parvizi.
   A systematic study of stereotypy in epileptic seizures versus psychogenic seizure-like events.
   _Epilepsy & Behavior, 2019_
+* **JC Hsiang**, KP Johnson, L Madisen, H Zeng, D Kerschensteiner.
+  Local processing in neurites of VGluT3-expressing amacrine cells differentially organizes visual information.
+  _eLife, 2017_
+
 
 Contact
 ------
