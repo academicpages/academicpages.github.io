@@ -16,7 +16,8 @@ map_preamble = """
     	<title>Map</title>
 
     	<meta charset="utf-8" />
-    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
     	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
     	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
@@ -26,11 +27,23 @@ map_preamble = """
     	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
     	<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
 
+        <style>
+        body {
+            padding: 0;
+            margin: 0;
+            }
+        html, body, #map {
+            height: 100%;
+            width: 100%;
+            }
+        </style>
+
+
 </head>
 
 <body>
 
-    	<div id="mapid" style="width: 800px; height: 600px; border: 1px solid #ccc"></div>
+    	<div id="mapid" style="width: 100%; height: 100%"></div>
     	<script>
             var mymap = L.map('mapid').setView([45,0], 2);
 
