@@ -1,8 +1,10 @@
 ---
-title: 'My doctoral dissertation defense'
+title: 'My doctoral dissertation dfgffhgjefense'
 date: 2020-03-07
-permalink: /posts/2020/03/doctoral-dissertation-defense/
+permalink: /posts/2020/03/docghfgjhtoral-dissertation-defense/
 tags:
+  - Accident
+  - Outlier
   - doctoral dissertation
   - education
 ---

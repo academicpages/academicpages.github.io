@@ -7,7 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% include group-by-array collection=site.posts field="tags" %}
+{% assign postg = site.posts %}
+{% assign allpostr = site.rollings | concat: postg %}
+
+{% include group-by-array collection=allpostr field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
