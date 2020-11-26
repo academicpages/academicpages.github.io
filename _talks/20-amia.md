@@ -1,0 +1,9 @@
+---
+title: "Extracting Angina Symptoms from Clinical Notes Using Pre-Trained Transformer Architectures"
+collection: talks
+type: "Oral Paper Presentation"
+permalink: /talks/11/16/20-amia
+venue: "American Medical Informatics Association Symposium"
+date: 11/16/20
+location: "Virtual"
+---
