@@ -16,6 +16,7 @@ After that, I was a graduate student in the [Department of Computer Science](htt
 
 
 # Recent News
+* Attending **NeuIPS'20** conference.
 * Participated in **The Cornell, Maryland, Max Planck Pre-doctoral Research School**, 2020 organized virtually at MPI-SWS from 2-8 Aug.
 * Participated in **Directions in ML: AutoML and Automating Algorithms** Lecture series starting 28th July, 2020 by Microsoft Research which features talks by outstanding academics and domain experts.
 
@@ -32,5 +33,8 @@ After that, I was a graduate student in the [Department of Computer Science](htt
 
 3. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
 **Akash Kumar**, Mithilesh Kumar.<br>
-<i>In preparation: Arxiv Preprint
+<i>In preparation for submission to The 16th International Computer Science Symposium in Russia (CSR'21), 2021
 </i>
+
+# Some Hobbies
+I have been playing Piano for a number of years and have been luck to have some formal training to grade 2. Recently, I have picked up on Ukulele, which could be approximately thought of as a miniature version of a guiter with 4 strings.  
