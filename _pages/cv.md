@@ -32,11 +32,11 @@ Work experience
 * September 2019 - Present: Research Fellow
   * Max Planck Institute for Software Systems, Saarbrucken, Germany
   * Adviser: Dr. Adish Singla 
-  * Project: Teaching and Learning complexity of hypothesis classes e.g. Regions induced by intersections of Halfspaces and non-linear learners e.g. kernel perceptrons.
+  * Project: Teaching and Learning complexity of hypothesis classes e.g. Regions induced by intersections of Halfspaces and non-linear ERM learners e.g. kernel perceptrons.
 
 * Summer 2017 : Research Intern
   * IBM India Research Lab (Bengaluru, India)
-  * Manager: Dr. Karthik Sankaranarayanan. Mentors: Anirban Laha and Parag Jain
+  * Supervisor: Dr. Karthik Sankaranarayanan
   * Project: Tabular Data Summarization
   
 * Summer 2015 : Research Intern
@@ -45,8 +45,8 @@ Work experience
   * Project: Circuit Complexity: MCSP (minimum circuit size problem)
   
 * Summer 2014 : Research Intern
-  * Indian Institute of Technology (Madras, India)
-  * Adviser: Dr. Raghunath Tewari
+  * Indian Institute of Technology (Delhi, India)
+  * Adviser: Dr. Amitabha Tripathi
   * Project: Graceful Labelling of Complete Graphs
   
 Talks
