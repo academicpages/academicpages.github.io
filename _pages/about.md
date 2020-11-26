@@ -37,4 +37,4 @@ After that, I was a graduate student in the [Department of Computer Science](htt
 </i>
 
 # Some Hobbies
-I have been playing Piano for a number of years and have been luck to have some formal training to grade 2. Recently, I have picked up on Ukulele, which could be approximately thought of as a miniature version of a guiter with 4 strings.  
+I have been playing Piano for a number of years and have been lucky to have some formal training to grade 2. Recently, I have picked up on Ukulele, which could be approximately thought of as a miniature version of a guiter with 4 strings.  
