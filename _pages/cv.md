@@ -15,12 +15,11 @@ Research Interests
 ------
 I seek to solve theoretical machine learning problems using ideas from mathematical optimization, probability theory and statistics.
 
-* Research Interests - Machine Learning, Large Scale Optimization, Probability theory, Learning Theory
+* Research Interests - Statistical Machine Learning, Large Scale Optimization, Interactive Learning, Probability theory
 * Other Learning Interests - Differential Geometry
 
 Education
 ======
-* Research Fellow at Max Planck Institute for Software Systems, Sept, 2019 - Present<br>
 * Ph.D. student at School of Science, Department of Computer Science, Sept, 2018 - Aug, 2019<br>
 Aalto University<br>
 * M.Sc. in Computer Science, 2016 - 18<br>
@@ -49,21 +48,6 @@ Work experience
   * Indian Institute of Technology (Madras, India)
   * Adviser: Dr. Raghunath Tewari
   * Project: Graceful Labelling of Complete Graphs
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
