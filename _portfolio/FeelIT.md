@@ -1,7 +1,7 @@
 ---
 title: "FeelIT"
 date: 2012-07-07
-excerpt: "Haptic and VR Interactive platform for people with visual disabilities<br/><img src='/files/portfolio/FeelIT/FeelIT500x300.png'>"
+excerpt: "Haptic and VR Interactive platform for visually impaired people<br/><img src='/files/portfolio/FeelIT/FeelIT500x300.png'>"
 collection: portfolio
 ---
 
