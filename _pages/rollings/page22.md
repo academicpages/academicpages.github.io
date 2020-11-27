@@ -43,7 +43,7 @@ redirect_from:
       {% assign have_next_page = 1 %}
 {% endif %}
 
-{% if previus_pag >= 0 %}
+{% if previus_pag > 0 %}
       {% assign have_previus_page = 1 %}
 {% endif %}
 
