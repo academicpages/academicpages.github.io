@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Jorge Condeña Llantoy"
   avatar           : "profile.png"
-  bio              : "Bachelor in Economics interested in topics of data science, behavioral finance, investing and computer science"
+  bio              : "Bachelor in Economics interested in topics of data science, behavioral economics and public policy"
   location         : "Lima-Perú"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -237,7 +237,7 @@ defaults:
 #      layout: single
 #      author_profile: true
 #      share: true
-      comment: true
+#      comment: true
   # _talks
   - scope:
       path: ""
