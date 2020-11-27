@@ -17,7 +17,7 @@ redirect_from:
 {% assign have_next_page = 0 %}
 {% assign have_valid_page = 0 %}
 
-/* How many post? */
+
 {% assign posts_count = sortedposts | size %}
 
 
@@ -26,18 +26,18 @@ redirect_from:
       {% assign internal_mod_pag = site.paginate %}
 {% endif %}
 
-/* How many pages we need? */
+
 {% assign mod_pag = posts_count | modulo:internal_mod_pag %}
 {% if mod_pag > 0 %}
       {% assign is_last_partial = 1 %}
 {% endif %}
 {% assign pages_count = posts_count | divided_by:internal_mod_pag | plus:is_last_partial %}
 
-/* What should be the next page? */
+
 {% assign next_pag = page.index | plus:1 %}
 
-/* What should be the previus page? */
-{% assign previus_pag = page.index | plus:1 %}
+
+{% assign previus_pag = page.index | minus:1 %}
 
 {% if next_pag <= pages_count %}
       {% assign have_next_page = 1 %}
@@ -48,7 +48,7 @@ redirect_from:
 {% endif %}
 
 
-/* Lets calculate an offset to the posts of the current page. */
+
 {% assign OFFSET = internal_mod_pag | times:page.index %}
 
 {% if page.index <= pages_count %}
