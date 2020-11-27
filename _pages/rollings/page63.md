@@ -5,7 +5,7 @@ permalink: /rolling-archive/page63/index.html
 title: Personal daily events
 author_profile: true
 redirect_from:
-  - /wordpress/rolling-posts/
+  - /wordpress/rolling-posts/page63/
 ---
 
 {% include base_path %}
