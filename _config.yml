@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-theme                    : jekyll-theme-architect #cambio hecho el 18-11. Se introdujo parametros "site width" y "theme"
+theme                    : jekyll-theme-tactile #cambio hecho el 18-11. Se introdujo parametros "site width" y "theme"
 site_width               : wide #cambio hecho el 18-11 
 title                    : "Jorge Condeña Llantoy"
 title_separator          : "-"
@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : a20122145@pucp.pe
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Lima # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones /added change of timezone
 
 
 # Plugins
@@ -268,6 +268,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jemoji #introduje gem 'jemoji' el 21/11 (bundle 'jemoji')
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
