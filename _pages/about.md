@@ -16,7 +16,7 @@ I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I wo
 
 # Papers and software
 
-**Finite Continuum-Armed Bandits**, S. Gaucher, NeuRIPS 2020. [Arxiv](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf)
+**Finite Continuum-Armed Bandits**, S. Gaucher,  [NeuRIPS 2020.](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf)
 
 **Outliers Detection in Networks with Missing Links**, S. Gaucher, O. Klopp, G. Robin. [Arxiv](https://arxiv.org/abs/1911.13122)
 
