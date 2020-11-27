@@ -1,7 +1,7 @@
 ---
 index: 18
 layout: archive
-permalink: /rolling-archive/page18
+permalink: /rolling-archive/page18/index.html
 title: Personal daily events
 author_profile: true
 redirect_from:
