@@ -51,7 +51,7 @@ redirect_from:
 
 
 
-{% if have_valid_page then %}
+{% if have_valid_page > 0 then %}
       {% for post in sortedposts limit:site.mpaginate offset:OFFSET %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% if year != written_year %}
