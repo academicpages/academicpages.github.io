@@ -48,8 +48,8 @@ redirect_from:
 {% endif %}
 
 
-
-{% assign OFFSET = internal_mod_pag | times:page.index %}
+{% assign internaltimes = page.index | minus:1 %}
+{% assign OFFSET = internal_mod_pag | times:internaltimes %}
 
 {% if page.index <= pages_count %}
       {% assign have_valid_page = 1 %}
