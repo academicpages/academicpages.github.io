@@ -16,6 +16,8 @@ Portraits
 The local printed version XD
 ------
 
+![img](/files/personal-blog/2020-01-16-01/00.jpg)
+
 ![img](/files/personal-blog/2020-01-16-01/01.jpg)
 
 On the way to the university, I found a place that sold natural blueberry juice. Delicious and cold.
