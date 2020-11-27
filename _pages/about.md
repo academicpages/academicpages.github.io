@@ -12,7 +12,7 @@ I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I wo
 
 # News
 
- I am taking a gap in my PhD from September 2020 to February 2021 to work with Yannig Goude and Gilles Stolz on Electric Load prediction and Renewable Energy Production forecasting.
+ I am taking a gap in my PhD from September 2020 to February 2021 to work with [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Gilles Stolzt on Adaptative Electric Load Forecasting, and Renewable Energy Production Forecasting.
 
 # Papers and software
 
