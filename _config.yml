@@ -13,7 +13,7 @@ name                     : &name "Leonardo Pacciani-Mori"
 description              : &description "PhD student in Physics at University of Padua"
 url                      : https://leonardo.pm # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LeonardoPaccianiMori/leonardopaccianimori.github.io"
+repository               : "LeonardoPaccianiMori/personal-website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -273,7 +273,12 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-last-modified-at
 # mimic GitHub Pages with --safe
+
+last-modified-at:
+    date-format: '%d %B %Y'
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
