@@ -20,7 +20,7 @@ My main research interest is microbial competition. In particular, I study consu
 
 <!--## My work at a glance-->
 <!--<p>Below is a network representing my publications and collaborations; the color of each node specifies if it represents <span style="color:#1722C1">co-authors</span>, <span style="color:#90d185">preprints</span>, <span style="color:#138400">publications</span> or <span style="color:#8e20c1">theses</span> (in this case co-authors are supervisors). Hover and click on each node for more information, or drag them around to change the network's shape:</p>
-<iframe src="/collab_net/network.html" height="500" width="100%" style="border:none;"></iframe>-->
+<iframe src="/network/network.html" height="500" width="100%" style="border:none;"></iframe>-->
 
 
 
