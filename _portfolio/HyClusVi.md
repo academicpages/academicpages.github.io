@@ -604,5 +604,9 @@ The final structure has implied a hierarchical system but due to confidentiality
 
 The above results correspond to preliminary tests on the data base.
 
+Some hierarchical clustering modifications can provided information about internal groups in data
+
+![img](/files/portfolio/HyClus/115.png)
+
 
 
