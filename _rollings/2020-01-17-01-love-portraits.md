@@ -34,9 +34,9 @@ New Portraits
 2020 Calendar
 ------
 
-![img](/files/personal-blog/2020-01-17-01/06.jpeg)
+![img](/files/personal-blog/2020-01-17-01/06.jpg)
 
-![img](/files/personal-blog/2020-01-17-01/07.jpeg)
+![img](/files/personal-blog/2020-01-17-01/07.jpg)
 
-![img](/files/personal-blog/2020-01-17-01/08.jpeg)
+![img](/files/personal-blog/2020-01-17-01/08.jpg)
 
