@@ -13,8 +13,8 @@ author_profile: true
 
 ## 2020
 - **Xiangfeng Wang**, Jane Ye, Xiaoming Yuan, Shangzhi Zeng and Jin Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2020.
-- **Xiangfeng Wang**, Junping Zhang and Wenxing Zhang, The Distance Between Convex Sets with Minkowski Sum Structure: Application to Collision Detection. *Computational Optimization and Applications*, accepted, 2020.
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, accepted, 2020.
+- **Xiangfeng Wang**, Junping Zhang and Wenxing Zhang, The Distance Between Convex Sets with Minkowski Sum Structure: Application to Collision Detection. *Computational Optimization and Applications*, 77, 2020, pp.465–490.
 - M. Hong, T.-H. Chang, **Xiangfeng Wang**, M. Razaviyayn, S. Ma and Z.-Q. Luo, A Block Successive Upper Bound Minimization Method of Multipliers for Linearly Constrained Convex Optimization. *Mathematics of Operations Research*, 45(3), 2020, pp.833-861.
 - **Xin Li**, **Xiangfeng Wang**, **Bo Jin**, **Wenjie Zhang**, Jun Wang and **Hongyuan Zha**, VSB$^2$-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing. *ICPR*, 2020.
 - **Junjie Wang**, **Xiangfeng Wang**, **Bo Jin**, J. Yan, W. Zhang and **Hongyuan Zha**, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. *ICPR*, 2020.
