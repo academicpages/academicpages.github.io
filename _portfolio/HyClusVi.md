@@ -602,4 +602,15 @@ Some hierarchical clustering modifications can provided information about intern
 ![img](/files/portfolio/HyClus/115.png)
 
 
+Some hierarchical clustering modifications can provided information about internal groups in data
+
+Finally, some experiments were performed using Self Organization Map (SAM) in order to visualizate additional groups in the category related with months
+
+```python
+markers = ['o', 's', 'D', '1', '2', '3', '4', '8', 'h', 's', 'v', '*']
+colors = ['C0', 'C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'C10', 'C11']
+```
+
+![img](/files/portfolio/HyClus/120.png)
+
 
