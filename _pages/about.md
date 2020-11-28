@@ -12,7 +12,7 @@ header:
 ## my professional life
 
 Since January 2020, I am working as a Data Scientist in an aspiring E-commerce company in Germany.
-I enjoy developing and deploying robust Python microservices with Flask, Docker, Tensorflow, Kubernetes, Mysql, etc. My current focus areas are backend development and predictive models, like Neural Networks. Additionally, our fantastic team optimizes a variety of E-commerce processes from purchases and warehousing to shipments.
+I enjoy developing and deploying robust Python microservices with Flask, Docker, Tensorflow, Kubernetes, Mysql, etc. My current focus areas are backend development and predictive models, like Neural Networks. Additionally, our nifty team optimizes a variety of E-commerce processes from purchases and warehousing to shipments.
 
 ## my scientific projects
 
