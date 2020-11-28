@@ -1,7 +1,7 @@
 ---
 title: "HyClus Viz"
 date: 2019-08-08
-excerpt: "A simple example for HSI Clustering Visualization<br/><img src='/files/portfolio/HyClus/0-500x300.png'>"
+excerpt: "A short Undergraduated Project for HSI Clustering Visualization<br/><img src='/files/portfolio/HyClus/0-500x300.png'>"
 collection: portfolio
 ---
 
