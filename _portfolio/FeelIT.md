@@ -41,7 +41,7 @@ My idea was to create a device with thousands of stored relief representations, 
 
 Also be able to present text documents, emails and cell phone messages, in Braille format
 
-![img](/files/portfolio/FeelIT/02.png)
+![img](/files/portfolio/FeelIT/02.jpg)
 
 At that time there was no mass 3D printing of today, and exploring I found that there were very few devices focused on supporting people with blindness in a similar way.
 
