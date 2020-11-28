@@ -412,8 +412,181 @@ def plot_elbow(errors, title):
 ![img](/files/portfolio/HyClus/100.png)
 
 
+Performance with PCA reduced data 
+------
+
+Classification of Grain Size
 
 
+             | precision  |  recall | f1-score  | support
+
+           0 |      0.88  |    0.88 |     0.88  |   36198
+           1 |      0.84  |    0.84 |     0.84  |   26391
+
+    accuracy |            |         |     0.86  |   62589
+   macro avg |      0.86  |    0.86 |     0.86  |   62589
+weighted avg |      0.86  |    0.86 |     0.86  |   62589
+
+
+![img](/files/portfolio/HyClus/101.png)
+
+Classification of Origin Plant
+
+             | precision  |  recall | f1-score  | support
+
+           0 |      0.46  |    0.47 |     0.46  |   20358
+           1 |      0.37  |    0.37 |     0.37  |   19248
+           2 |      0.40  |    0.40 |     0.40  |   22983
+
+    accuracy |            |         |     0.41  |   62589
+   macro avg |      0.41  |    0.41 |     0.41  |   62589
+weighted avg |      0.41  |    0.41 |     0.41  |   62589
+
+![img](/files/portfolio/HyClus/102.png)
+
+Classification of Month
+
+             | precision  |  recall | f1-score  | support
+
+           0 |      0.06  |    0.07 |     0.07  |    3057
+           1 |      0.10  |    0.10 |     0.10  |    5044
+           2 |      0.09  |    0.09 |     0.09  |    4939
+           3 |      0.07  |    0.07 |     0.07  |    3682
+           4 |      0.07  |    0.07 |     0.07  |    4047
+           5 |      0.09  |    0.09 |     0.09  |    4508
+           6 |      0.08  |    0.08 |     0.08  |    4190
+           7 |      0.12  |    0.12 |     0.12  |    6161
+           8 |      0.12  |    0.13 |     0.12  |    7177
+           9 |      0.16  |    0.16 |     0.16  |    9008
+          10 |      0.12  |    0.12 |     0.12  |    6072
+          11 |      0.09  |    0.09 |     0.09  |    4704
+
+    accuracy |            |         |     0.11  |   62589
+   macro avg |      0.10  |    0.10 |     0.10  |   62589
+weighted avg |      0.11  |    0.11 |     0.11  |   62589
+
+![img](/files/portfolio/HyClus/103.png)
+
+
+
+Performance with SAE Autoencoder 4 dims reduced data 
+------
+
+Classification of Grain Size
+
+             | precision  |  recall | f1-score |  support
+
+           0 |      0.95  |    0.97 |     0.96 |    36127
+           1 |      0.96  |    0.93 |     0.94 |    26462
+
+    accuracy |            |         |     0.95 |    62589
+   macro avg |      0.95  |    0.95 |     0.95 |    62589
+weighted avg |      0.95  |    0.95 |     0.95 |    62589
+
+![img](/files/portfolio/HyClus/106.png)
+
+
+Classification of Origin Plant
+
+             | precision  |  recall | f1-score |  support
+
+           0 |      0.59  |    0.68 |     0.64 |    20521
+           1 |      0.56  |    0.53 |     0.54 |    19083
+           2 |      0.55  |    0.50 |     0.53 |    22985
+
+    accuracy |            |         |     0.57 |    62589
+   macro avg |      0.57  |    0.57 |     0.57 |    62589
+weighted avg |      0.57  |    0.57 |     0.57 |    62589
+
+![img](/files/portfolio/HyClus/107.png)
+
+
+Classification of Month
+
+             | precision  |  recall | f1-score  | support
+
+           0 |      0.27  |    0.31 |     0.29  |    3076
+           1 |      0.23  |    0.28 |     0.25  |    5088
+           2 |      0.22  |    0.25 |     0.23  |    4793
+           3 |      0.20  |    0.20 |     0.20  |    3581
+           4 |      0.16  |    0.15 |     0.15  |    4108
+           5 |      0.21  |    0.19 |     0.20  |    4485
+           6 |      0.15  |    0.13 |     0.14  |    4326
+           7 |      0.25  |    0.26 |     0.26  |    6202
+           8 |      0.25  |    0.24 |     0.24  |    7205
+           9 |      0.28  |    0.34 |     0.31  |    8992
+          10 |      0.29  |    0.25 |     0.27  |    6111
+          11 |      0.18  |    0.13 |     0.15  |    4622
+
+    accuracy |            |         |     0.24  |   62589
+   macro avg |      0.22  |    0.23 |     0.22  |   62589
+weighted avg |      0.23  |    0.24 |     0.23  |   62589
+
+![img](/files/portfolio/HyClus/108.png)
+
+
+
+Performance with CNN Autoencoder 16 dims reduced data 
+------
+
+Classification of Grain Size
+
+             | precision  |  recall | f1-score |  support
+
+           0 |      0.96  |    0.98 |     0.97 |    36233
+           1 |      0.97  |    0.95 |     0.96 |    26356
+
+    accuracy |            |         |     0.97 |    62589
+   macro avg |      0.97  |    0.97 |     0.97 |    62589
+weighted avg |      0.97  |    0.97 |     0.97 |    62589
+
+![img](/files/portfolio/HyClus/111.png)
+
+Classification of Origin Plant
+
+             | precision  |  recall | f1-score |  support
+
+           0 |      0.68  |    0.79 |     0.73 |    20485
+           1 |      0.62  |    0.57 |     0.59 |    19268
+           2 |      0.63  |    0.59 |     0.61 |    22836
+
+    accuracy |            |         |     0.65 |    62589
+   macro avg |      0.64  |    0.65 |     0.64 |    62589
+weighted avg |      0.64  |    0.65 |     0.64 |    62589
+
+![img](/files/portfolio/HyClus/112.png)
+
+Classification of Month
+
+
+             | precision  |  recall  | f1-score |  support
+
+           0 |      0.51  |    0.55  |    0.53  |    3069
+           1 |      0.54  |    0.61  |    0.57  |    5116
+           2 |      0.28  |    0.32  |    0.30  |    4906
+           3 |      0.29  |    0.28  |    0.28  |    3611
+           4 |      0.27  |    0.24  |    0.26  |    4066
+           5 |      0.28  |    0.25  |    0.26  |    4472
+           6 |      0.20  |    0.18  |    0.19  |    4202
+           7 |      0.30  |    0.31  |    0.31  |    6279
+           8 |      0.29  |    0.29  |    0.29  |    7126
+           9 |      0.36  |    0.46  |    0.40  |    9061
+          10 |      0.34  |    0.29  |    0.31  |    6074
+          11 |      0.25  |    0.15  |    0.19  |    4607
+
+    accuracy |            |          |    0.33  |   62589
+   macro avg |      0.33  |    0.33  |    0.32  |   62589
+weighted avg |      0.32  |    0.33  |    0.33  |   62589
+
+![img](/files/portfolio/HyClus/113.png)
+
+
+Final considerations
+======
+
+The final structure has implied a hierarchical system but due to confidentiality issues of the project, the details of the implementation and results are not publicly accessible.
+
+The above results correspond to preliminary tests on the data base.
 
 
 
