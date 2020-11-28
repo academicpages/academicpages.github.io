@@ -62,8 +62,6 @@ Very consistent with my prototypes but with only two positions and without the m
 ![img](/files/portfolio/FeelIT/comp5.png)
 ![img](/files/portfolio/FeelIT/comp6.jpg)
 
-![img](/files/portfolio/FeelIT/comp4.jpg)
-
 I have been researching miniaturized technologies that allow me to achieve my mission. I studied and tried many interesting devices and some materials technologies that led me to other projects. But hardware costs and limitations were already a complex issue at the time.
 
 So far this looks like a blog post. So let's get back to the project
@@ -79,9 +77,7 @@ Devices
 ------
 
 ![img](/files/portfolio/FeelIT/h1.png)
-
 ![img](/files/portfolio/FeelIT/h2.png)
-
 ![img](/files/portfolio/FeelIT/h3.png)
 
 
@@ -115,18 +111,18 @@ Testing the System
 Hands in Action
 ------
 
-![img](/files/portfolio/FeelIT/t3.png)
+![img](/files/portfolio/FeelIT/t3.jpg)
 
-![img](/files/portfolio/FeelIT/t4.png)
+![img](/files/portfolio/FeelIT/t4.jpg)
 
-![img](/files/portfolio/FeelIT/t5.png)
+![img](/files/portfolio/FeelIT/t5.jpg)
 
-![img](/files/portfolio/FeelIT/t7.png)
+![img](/files/portfolio/FeelIT/t7.jpg)
 
-![img](/files/portfolio/FeelIT/t8.png)
+![img](/files/portfolio/FeelIT/t8.jpg)
 
-![img](/files/portfolio/FeelIT/t9.png)
+![img](/files/portfolio/FeelIT/t9.jpg)
 
-![img](/files/portfolio/FeelIT/t12.png)
+![img](/files/portfolio/FeelIT/t12.jpg)
 
 
