@@ -426,7 +426,6 @@ Classification of Grain Size
     accuracy |            |         |     0.86  |   62589
     
    macro avg |      0.86  |    0.86 |     0.86  |   62589
-   
 weighted avg |      0.86  |    0.86 |     0.86  |   62589
 
 
@@ -443,7 +442,6 @@ Classification of Origin Plant
     accuracy |            |         |     0.41  |   62589
     
    macro avg |      0.41  |    0.41 |     0.41  |   62589
-   
 weighted avg |      0.41  |    0.41 |     0.41  |   62589
 
 ![img](/files/portfolio/HyClus/102.png)
@@ -468,7 +466,6 @@ Classification of Month
     accuracy |            |         |     0.11  |   62589
     
    macro avg |      0.10  |    0.10 |     0.10  |   62589
-   
 weighted avg |      0.11  |    0.11 |     0.11  |   62589
 
 ![img](/files/portfolio/HyClus/103.png)
@@ -488,7 +485,6 @@ Classification of Grain Size
     accuracy |            |         |     0.95 |    62589
     
    macro avg |      0.95  |    0.95 |     0.95 |    62589
-   
 weighted avg |      0.95  |    0.95 |     0.95 |    62589
 
 ![img](/files/portfolio/HyClus/106.png)
@@ -505,7 +501,6 @@ Classification of Origin Plant
     accuracy |            |         |     0.57 |    62589
     
    macro avg |      0.57  |    0.57 |     0.57 |    62589
-   
 weighted avg |      0.57  |    0.57 |     0.57 |    62589
 
 ![img](/files/portfolio/HyClus/107.png)
@@ -531,7 +526,6 @@ Classification of Month
     accuracy |            |         |     0.24  |   62589
     
    macro avg |      0.22  |    0.23 |     0.22  |   62589
-   
 weighted avg |      0.23  |    0.24 |     0.23  |   62589
 
 ![img](/files/portfolio/HyClus/108.png)
@@ -549,6 +543,7 @@ Classification of Grain Size
            1 |      0.97  |    0.95 |     0.96 |    26356
 
     accuracy |            |         |     0.97 |    62589
+
    macro avg |      0.97  |    0.97 |     0.97 |    62589
 weighted avg |      0.97  |    0.97 |     0.97 |    62589
 
@@ -564,8 +559,7 @@ Classification of Origin Plant
 
     accuracy |            |         |     0.65 |    62589
     
-   macro avg |      0.64  |    0.65 |     0.64 |    62589
-   
+   macro avg |      0.64  |    0.65 |     0.64 |    62589 
 weighted avg |      0.64  |    0.65 |     0.64 |    62589
 
 ![img](/files/portfolio/HyClus/112.png)
@@ -591,7 +585,6 @@ Classification of Month
     accuracy |            |          |    0.33  |   62589
     
    macro avg |      0.33  |    0.33  |    0.32  |   62589
-   
 weighted avg |      0.32  |    0.33  |    0.33  |   62589
 
 ![img](/files/portfolio/HyClus/113.png)
