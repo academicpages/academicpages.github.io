@@ -14,6 +14,7 @@ Currently, I am a Research Fellow in the [Machine Teaching Group](https://machin
 I am broadly interested in the theoretical aspects of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization and theory of deep learning. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<br>
 
+**Contact**: akumar at mpi-sws dot com
 
 # Recent News
 * Attending **NeuIPS'20** conference.
@@ -35,6 +36,16 @@ the computational and statistical efficiency of learning methods, and the extent
 **Akash Kumar**, Mithilesh Kumar.<br>
 <i>In preparation for submission to The 16th International Computer Science Symposium in Russia (CSR'21), 2021
 </i>
+
+# Some notes
+<b> [Improved Certified Adversarial Lower Bound Using Adaptive Relaxations](https://drive.google.com/file/d/1lZmiU3NnEhWHOtVuGhURxeFS4DWaYP_n/view?usp=sharing) </b> <br>
+<i>Ongoing project on adversarial deep learning.</i>
+
+<b> [Escaping Saddle Points and Tensor Decomposition](https://drive.google.com/file/d/1MAcwvvqGJCmr4VCnvE0kCFSTUB8w4mSA/view?usp=sharing) </b> <br>
+<i>Master's Thesis under the guidance of Dr. K V Subrahmanyam.</i>
+
+<b> [Natural Proofs Vs Derandomization](https://drive.google.com/file/d/1TeHXyLIIUfp0p4iPqRqgNKwUx92ZO0Qn/view?usp=sharing) </b> <br>
+<i>Project report completed as part of the Advanced Complexity course at Chennai Mathematical Institute.</i>
 
 # Some Hobbies
 I have been playing Piano for a number of years and have been lucky to have some formal training to grade 2. Recently, I have picked up on Ukulele, which could be approximately thought of as a miniature version of a guiter with 4 strings.  
