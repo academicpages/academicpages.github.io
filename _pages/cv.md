@@ -11,29 +11,45 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Signal Processing and Communications, The University of Edinburgh, 2019
-* B.Sc. in Electrical & Electronics Engineering, Bogazici University, 2018
+* Ph.D. in Computer Science, University of Cambridge, UK, 2020 -- Current
+* M.Sc. in Signal Processing and Communications, The University of Edinburgh, UK, 2019
+* B.Sc. in Electrical & Electronics Engineering, Bogazici University, Turkey, 2018
+
+Teaching experience
+======
+* Michaelmas 2020: Supervision, University of Cambridge, UK
+  * Further Graphics - preparing homework and coding exercises on Python using Tensorflow Graphics.
+* Michaelmas 2020: Supervision, University of Cambridge, UK
+
+  * Digital Electronics - running weekly problem sessions, giving feedback to each student on their homework.
+* Fall 2016: Teaching Assistant, Bogazici University, Turkey
+  * Electric Circuit Theory: Prepared and gave biweekly problem sessions, supervised in exams.
 
 Work experience
 ======
+* February - September 2020: Freelance Software Engineer
+  * Developed an Android app prototype for a tech startup by using the framework Kivy on Python.
+  * Created custom widgets, applied image hashcoding algorithms, and used Git version-control system.
+  * Managed weekly client meetings, presented the work and discussed the user interface details.
 * Summer 2018: Research Intern, Koc University, Turkey
-  * Worked on background subtraction using deep learning techniques.
-* Fall 2016: Teaching Assistant, Bogazici University, Turkey
-  * Prepared and gave biweekly problem sessions for the course ’Electric Circuit Theory’.
+  * Researched on video background subtraction with deep learning techniques.
+  * Gained basic Python skills and built neural network models with Keras.
+
   
 Skills
 ======
+* Programming Skills
+  * Python, PyTorch, AWS, Git, MATLAB, LaTeX 
+  * Also, basic ability with: C, C++, Keras, VHDL, Arduino
 * Languages
   * Turkish (Native)
   * English (Fluent)
   * German (B2)
-* Programming Skills
-  * MATLAB, LaTeX (Advanced)
-  * Python, PyTorch, AWS, Git (Intermediate)
-  * C, C++, Keras, VHDL, Arduino (Beginner)
   
 Achievements
 ======
+ * Computer Laboratory Studentship, University of Cambridge, UK, 2020 -- Current
+    * Full funding for three years that covers overseas tuition fees and maintenance
  * M.Sc. with Distinction, The University of Edinburgh, UK, 2019
     * top-ranked in half of the taught courses
     * overall ranking: 3/39
