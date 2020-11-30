@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Georg's portfolio home page"
+excerpt: "Georg's portfolio home page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Georg's protfolio home page on the web.
+This is Georg's portfolio home page on the web.
