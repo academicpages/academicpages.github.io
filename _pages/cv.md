@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2020 - &nbsp; &nbsp; Media Consulting: Working Student at Ebiquity Germany GmbH
+* 2020 - &nbsp; &nbsp; &nbsp; &nbsp; Media Consulting: Working Student at Ebiquity Germany GmbH
 
 * 06/2018 - 09/2019: Working Student Controlling at Nexperia Germany GmbH
  
