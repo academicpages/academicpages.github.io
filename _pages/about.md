@@ -22,17 +22,17 @@ the computational and statistical efficiency of learning methods, and the extent
 
 # Recent Research Work
 1. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
-**Akash Kumar**, Adish Singla, Yisong Yue, Yuxin Chen.<br>
+**Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br>
 <i>In submission to The 32nd International Conference on Algorithmic Learning Theory (ALT'21), 2021
 </i>
 
 2. <b>[The Teaching Dimension of Kernel Perceptrons](https://arxiv.org/abs/2010.14043) </b> <br>
-**Akash Kumar**, Hanqi Zhang, Adish Singla, Yuxin Chen.<br>
+**Akash Kumar**, Hanqi Zhang, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yuxin Chen](https://yuxinchen.org/).<br>
 <i>In submission to The 24th International Conference on Artificial Intelligence and Statistics (AISTATS'21), 2021
 </i>
 
 3. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
-**Akash Kumar**, Mithilesh Kumar.<br>
+**Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br>
 <i>In preparation for submission to The 16th International Computer Science Symposium in Russia (CSR'21), 2021
 </i>
 
