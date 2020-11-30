@@ -12,7 +12,8 @@ date: 2020-09-25
 permalink: /posts/2020/09/spatial-sql
 excerpt_separator: <!--more-->
 toc: true
-image: "/images/posts/spatial-sql/gadm_wkt_filter_buffer-1.png"
+header: 
+  og_image: "/images/posts/spatial-sql/gadm_wkt_filter_buffer-1.png"
 tags:
   - spatial
   - SQL
