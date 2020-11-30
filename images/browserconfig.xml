@@ -4,9 +4,8 @@
     <tile>
       <square70x70logo src="/images/mstile-70x70.png?v=M44lzPylqQ"/>
       <square150x150logo src="/images/mstile-150x150.png?v=M44lzPylqQ"/>
-      <square310x310logo src="/images/mstile-310x310.png?v=M44lzPylqQ"/>
-      <wide310x150logo src="/images/mstile-310x150.png?v=M44lzPylqQ"/>
-      <TileColor>#000000</TileColor>
+      <square270x270logo src="/images/mstile-270x270.png?v=M44lzPylqQ"/>
+      <TileColor>#b91d47</TileColor>
     </tile>
   </msapplication>
 </browserconfig>
