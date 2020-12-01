@@ -40,8 +40,8 @@ the computational and statistical efficiency of learning methods, and the extent
 <b> [Improved Certified Adversarial Lower Bound Using Adaptive Relaxations](https://drive.google.com/file/d/1lZmiU3NnEhWHOtVuGhURxeFS4DWaYP_n/view?usp=sharing) </b> <br>
 <i>Ongoing project on adversarial deep learning.</i>
 
-<b> [Escaping Saddle Points and Tensor Decomposition](https://drive.google.com/file/d/1MAcwvvqGJCmr4VCnvE0kCFSTUB8w4mSA/view?usp=sharing) [PDF Slides](https://drive.google.com/file/d/1X4wGdlJvXqvzu-4C4qRFSEkSxy3ZF4Bg/view?usp=sharing)</b> <br>
-<i>Master's Thesis under the guidance of Dr. K V Subrahmanyam.</i>
+<b> [Escaping Saddle Points and Tensor Decomposition](https://drive.google.com/file/d/1MAcwvvqGJCmr4VCnvE0kCFSTUB8w4mSA/view?usp=sharing) </b> <br>
+<i>Master's Thesis under the guidance of Dr. K V Subrahmanyam. [[Slides](https://drive.google.com/file/d/1X4wGdlJvXqvzu-4C4qRFSEkSxy3ZF4Bg/view?usp=sharing)]</i>
 
 <b> [Natural Proofs Vs Derandomization](https://drive.google.com/file/d/1TeHXyLIIUfp0p4iPqRqgNKwUx92ZO0Qn/view?usp=sharing) </b> <br>
 <i>Project report completed as part of the Advanced Complexity course at Chennai Mathematical Institute.</i>
