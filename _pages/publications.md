@@ -12,7 +12,7 @@ author_profile: true
 <li>Sorensen, Lucy, Yinzhi Shen, and Shawn Bushway. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3577645">Making Schools Safer and/or Escalating Disciplinary Response: A Study of Police Officers in North Carolina Schools</a>. SSRN Working Paper.
 <li>Sorensen, Lucy, Youngsung Kim, and Moontae Hwang. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717648">Property Tax Caps and the Opportunity Gap Between Low- and High-Wealth Districts</a>. SSRN Working Paper.
 </ul>
-<br><br><b>Publications</b>
+<br><b>Publications</b>
 <ul>
 <li>2020. <a href="https://journals.sagepub.com/doi/full/10.1177/2332858420905812">The Hidden Costs of Teacher Turnover. (with Helen Ladd)</a>. AERA Open. 
 <li>2020. <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1825779?journalCode=rpxm20">Illusory Success of Performance Management: The Case of Contracts for Excellence in New York School Districts</a>. (with Philip Gigliotti). Public Management Review.
@@ -25,7 +25,7 @@ author_profile: true
 <li>2017. <a href="https://www.mitpressjournals.org/doi/abs/10.1162/EDFP_a_00194">Returns to Teacher Experience: Student Achievement and Motivation in Middle School</a>. (with Helen Ladd). Education Finance and Policy. 
 <li>2016. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809761/">How Does the Fast Track Intervention Prevent Adverse Outcomes in Young Adulthood?</a> (with Kenneth Dodge and the CPPRG). Child Development.
 </ul>
-<br><br><b>Media and Policy Pieces</b>
+<br><b>Media and Policy Pieces</b>
 <br>“<a href="https://jamanetwork.com/channels/health-forum/fullarticle/2767411">Protecting the health of vulnerable children and adolescents during COVID-19-related K-12 school closures in the U.S.</a>” (JAMA Health Forum)
 <br>“<a href="https://thecrimereport.org/2020/08/26/casualties-of-the-crack-era-todays-aging-prisoners/">Casualties of the Crack Era: Today’s Aging Prisoners</a>”. (The Crime Report)
 <br>“<a href="http://wtgrantfoundation.org/lead-remediation-a-surprising-policy-solution-for-reducing-the-educational-achievement-gap">Lead remediation: A surprising policy solution for reducing the educational achievement gap</a>” (WT Grant Foundation)
