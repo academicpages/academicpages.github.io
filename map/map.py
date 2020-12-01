@@ -109,10 +109,15 @@ for file in os.listdir(directory_talks):
             type_end = type_trim.find("'")
             type = type_trim[:type_end]
 
-            date_start = lines.find('date: ') + 6 #look for date
-            date_trim = lines[date_start:]
-            date_end = date_trim.find('\n')
-            date = date_trim[:date_end]
+            #date_start = lines.find('date: ') + 6 #look for date
+            #date_trim = lines[date_start:]
+            #date_end = date_trim.find('\n')
+            #date = date_trim[:date_end]
+
+            period_start = lines.find('period: "') + 9 #look for period
+            period_trim = lines[period_start:]
+            period_end = period_trim.find('"')
+            period = period_trim[:period_end]
 
             loc_start = lines.find('location: "') + 11 #look for location
             loc_trim = lines[loc_start:]
@@ -144,7 +149,7 @@ for file in os.listdir(directory_talks):
             permalink_end = permalink_trim.find('\n')
             permalink = permalink_trim[:permalink_end]
 
-            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,date,type[1:-1],permalink,title)
+            marker_data = """            var marker{} = L.marker([{}, {}], {{icon: {}}}).bindPopup('<b>{}</b>, {}<br />{}<br />{}<br /><a href="{}" target="_blank"><i>{}</i></a>');""".format(counter+1,position.latitude,position.longitude,typename,venue_name,location,period,type[1:-1],permalink,title)
             print(marker_data, file=open(mapfile,"a"))
             print('            clusteredmarkers.addLayer(marker{});'.format(counter+1), file=open(mapfile,"a"))
             #if typename is "blueIcon":
@@ -166,11 +171,6 @@ for file in attended_woskshops:
         title_trim = lines[title_start:]
         title_end = title_trim.find("'")
         title = title_trim[:title_end]
-
-        #date_start = lines.find('date: ') + 6 #look for date
-        #date_trim = lines[date_start:]
-        #date_end = date_trim.find('\n')
-        #date = date_trim[:date_end]
 
         loc_start = lines.find('location: "') + 11 #look for location
         loc_trim = lines[loc_start:]

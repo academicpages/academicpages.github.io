@@ -5,6 +5,7 @@ type: "Invited talk"
 permalink: /talks/2018-12-20-From-Padova-and-back
 venue: "Department of Physics, University of Padua"
 date: 2018-12-20
+period: "December 20th, 2018"
 location: "Padua, Italy"
 ---
 

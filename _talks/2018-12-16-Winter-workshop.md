@@ -5,6 +5,7 @@ type: "Invited talk"
 permalink: /talks/2018-12-16-Winter-workshop
 venue: "Hotel Vittoria"
 date: 2018-12-16
+period: "December 16th, 2018"
 location: "Folgaria, Italy"
 ---
 
