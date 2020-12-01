@@ -5,9 +5,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Blog"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
