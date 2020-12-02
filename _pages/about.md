@@ -37,6 +37,8 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 
 
 ## Refereed Journal Papers and Conference Proceedings
+1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike, Kento Uemura and Hiroki Arimura: Ordered Counterfactual Explanation by Mixed-Integer Linear Optimization, Proceedings of the 35th AAAI Conference on Artificial Intelligence, (in press).<br>
+ **Acceptance rate: 1692/7911 = 21.4%**.
 1. Tomokaze Shiratori, Ken Kobayashi, and Yuichi Takano: Prediction of hierarchical time series using structured regularization and its application to artificial neural networks, PLOS ONE (in press).
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi and Hiroki Arimura: DACE: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization, Proceedings of the 29th International Joint Conference on Artificial Intelligence, 29 (2020) 2855--2862.<br>
  **Acceptance rate: 592/4717 = 12.6%**.
