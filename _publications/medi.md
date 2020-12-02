@@ -4,9 +4,9 @@ author: "L. Pan, R. Hartley, <u>C. Scheerlinck</u>, M. Liu, X. Yu, Y. Dai"
 collection: publications
 permalink: /medi
 excerpt: 
-date: 2019-04-23
-venue: arXiv
-paperurl: https://arxiv.org/abs/1903.06531
+date: 2020-11-09
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+paperurl: https://doi.org/10.1109/TPAMI.2020.3036667
 citation: 
 youtubeId: JcgboJ_7JAE
 header:
@@ -38,5 +38,7 @@ temporal resolution video. The video generation is based on solving a simple non
 variable. Experimental results on both synthetic and real sequences demonstrate the superiority of our <b>mEDI</b> model and optimization
 method compared to the state of the art.
 
+**DOI:** <a href="https://doi.org/10.1109/TPAMI.2020.3036667" target="_blank">10.1109/TPAMI.2020.3036667</a>
+
 <b>Reference:</b>
-* L. Pan, R. Hartley, C. Scheerlinck, M. Liu, X. Yu, Y. Dai, "High Frame Rate Video Reconstruction based on an Event Camera", arXiv, 2019.
+* L. Pan, R. Hartley, C. Scheerlinck, M. Liu, X. Yu, Y. Dai, "High Frame Rate Video Reconstruction based on an Event Camera", IEEE Transactions on Pattern Analysis and Machine Intelligence, November 2020.
