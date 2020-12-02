@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing (252-3005-00L)"
+tisdsdsdsdle: "Natural Language Processing (252-3005-00L)"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2019-spring-teaching-1
