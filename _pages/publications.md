@@ -15,6 +15,7 @@ author_profile: true
 - Xiaoling Fu, Bingsheng He, **Xiangfeng Wang** and Xiaoming Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. *Splitting Algorithms, Modern Operator Theory, and Applications*, 2019.
 
 ## 2020
+- **Wenyan Liu**, **Chuyun Shen**, **Xiangfeng Wang**, **Bo Jin**, X. Lu, X. Wang, **Hongyuan Zha** and J. He, Fairness in Trustworthy Machine Learning: A Survey. *Journal of Software*, accepted, 2020. (Chinese version)
 - **Xiangfeng Wang**, Jane Ye, Xiaoming Yuan, Shangzhi Zeng and Jin Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2020.
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, accepted, 2020.
 - Yunfei Song, Tian Liu, Tongquan Wei, **Xiangfeng Wang**, Zhe Tao and Mingsong Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. *IEEE Transactions on Industrial Informatics*, accepted, 2020.
