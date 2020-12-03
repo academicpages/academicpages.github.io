@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me[[Git](https://github.com/Luoxd1996)]"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
