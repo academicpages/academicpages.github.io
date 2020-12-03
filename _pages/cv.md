@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Edu and Exp"
 permalink: /cv/
 author_profile: true
 redirect_from:
