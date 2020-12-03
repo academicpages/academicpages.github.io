@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[December 2020\] One co-authored paper is accepted at **AAAI2021**. Congratulations to my co-authors!
+
 \[June 2020\] Beginning my internship at WeBank AI Department. 
 
 \[May 2020\] One paper accepted at **KDD 2020**. 
