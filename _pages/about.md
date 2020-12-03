@@ -19,7 +19,7 @@ redirect_from:
 
 # Publications
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
-  <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAA2021</b>.<br>
+  <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021</b>.<br>
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
