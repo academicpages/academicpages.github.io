@@ -15,7 +15,7 @@ redirect_from:
 
 # Recent News
 * Dec. 02, 2020. Our paper <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> was accepted by <b>AAAI 2021</b>.
-* Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised learning for medical image segmentation research, the repo at [here](https://github.com/HiLab-git/SSL4MIS).
+* Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised medical image segmentation research, the repo at [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), any advice and suggestions are welcomed
 
 # Publications
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
