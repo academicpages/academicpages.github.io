@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Edu and Exp"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,11 +16,11 @@ Education
 * B.S. Mechanical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2014 - June 2018
 
 
-Work experience
+Internship experience
 ======
 * Jan. 2020 - June 2020: Research Internship
   * SenseTime Research
-  * Job description: Liver, lesion and vessels classification, segmentation and detection; worked with Dr. Yinan Chen.
+  * Job description: Liver, lesion and vessels classification, segmentation and detection; worked with <b>Dr. Yinan Chen</b>.
   
 * June 2019 - Oct 2019: Research Internship
   * SenseTime Research
