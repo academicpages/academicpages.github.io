@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Student, Medical Image Computing, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2020 - Present
+* Master degree candidate, Mechanical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2018 - June 2020
+* B.S. Mechanical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2014 - June 2018
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2020 - June 2020: Research Internship
+  * SenseTime Research
+  * Job description: Liver, lesion and vessels classification, segmentation and detection; worked with Dr. Yinan Chen.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* June 2019 - Oct 2019: Research Internship
+  * SenseTime Research
+  * Job description: Automatic chest disease diagnosis in Chest-X Ray Image and won third place in [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) challenge (Sep 19, 2019); worked with [Mr. Tao Song](https://scholar.google.co.uk/citations?user=Xzk31ssAAAAJ&hl=en).
