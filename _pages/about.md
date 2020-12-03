@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a 1-st year Ph.D. student in the School of Mechanical and Electrical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), advised by Prof. [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) and Prof. [Shaoting Zhang](https://scholar.google.co.uk/citations?user=oiBMWK4AAAAJ&hl=en). 
-* My research mainly focuses on the area of medical image computing particularly in data-efficient learning in medical image processing, such as Semi-Supervised Learning and Human-In-The-Loop, as well as extend them for clinical applicable use.
+* My research mainly focuses on the area of medical image computing particularly in data-efficient learning in medical image processing, such as semi-supervised learning and human-in-the-loop, as well as extending them for clinical applicable use.
 * I received my Bachelor’s Degree in the School of Mechanical and Electrical Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), on July 1, 2018.
 
 
