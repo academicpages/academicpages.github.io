@@ -22,7 +22,7 @@ News
 
 \[May 2020\] One paper accepted at **KDD 2020**. 
 
-\[April 2020\] One paper accepted at **IJCAI 2020**. 
+\[April 2020\] One co-authored paper accepted at **IJCAI 2020**. Congratulations to my co-authors!
 
 \[January 2020\] Two papers accepted at **TheWebConf 2020** (Short Paper) and **ECAI 2020**. 
 
