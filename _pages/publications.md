@@ -13,8 +13,8 @@ author_profile: true
  [[paper](https://arxiv.org/abs/2011.00526)][[code](https://github.com/HiLab-git/ACELoss)]
  
 * <b>CPM-Net: A 3D Center-Points Matching Network for Pulmonary Nodule Detection in CT Scans</b> <br> 
-  <b>Tao Song, Jieneng Chen<\b>, Xiangde Luo, Yechong Huang, Xinglong Liu, Ning Huang, Yinan Chen, Zhaoxiang Ye, Huaqiang Sheng, Shaoting Zhang, Guotai Wang (The first and second authors contributed equally)<br>
-  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention <\i>. <b>MICCAI2020</b>.<br>
+  <b>Tao Song, Jieneng Chen</b>, Xiangde Luo, Yechong Huang, Xinglong Liu, Ning Huang, Yinan Chen, Zhaoxiang Ye, Huaqiang Sheng, Shaoting Zhang, Guotai Wang (The first and second authors contributed equally)<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2020</b>.<br>
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/Luoxd1996/SCPMNet)]
  
 
