@@ -17,6 +17,6 @@ author_profile: true
   <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2020</b>.<br>
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/Luoxd1996/SCPMNet)]
  * <b>MIDeepSeg: Minimally Interactive Segmentation ofUnseen Objects from Medical Images Using Deep Learning</b> <br> 
- <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, JanDeprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang
+ <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, JanDeprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <i>Submitted to <b>Medical Image Analysis</b>.<br>
 
