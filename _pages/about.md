@@ -21,7 +21,7 @@ redirect_from:
 # Publications
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAA2021</b>.<br>
-  <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang.<br>
+  <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
@@ -33,5 +33,5 @@ redirect_from:
   <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2020</b>.<br>
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/Luoxd1996/SCPMNet)]
  * <b>MIDeepSeg: Minimally Interactive Segmentation ofUnseen Objects from Medical Images Using Deep Learning</b> <br> 
- <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, JanDeprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang
+ <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, JanDeprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <i>Submitted to <b>Medical Image Analysis</b>.<br>
