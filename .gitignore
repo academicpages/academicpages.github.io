@@ -1,8 +1,7 @@
-_site
+_site/
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
-
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,ruby
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,ruby
