@@ -20,7 +20,7 @@ __Research Interests__
 
 News
 ======
- - Dec. 2020: I am going to present AdvFlows at the NeurIPS Pre-conference in Australia. Find the details [here](http://vision-learning.xyz/neurips2020/).
+ - Dec. 2020: I am going to present AdvFlows at the [NeurIPS Pre-conference in Australia](http://vision-learning.xyz/neurips2020/).
  - Oct. 2020: AdvFlows blog post is [available online](https://hmdolatabadi.github.io/posts/2020/10/advflow/).
  - Sep. 2020: AdvFlows are accepted to NeurIPS2020!
  - Aug. 2020: Presented (virtually) my work at AISTATS2020.
