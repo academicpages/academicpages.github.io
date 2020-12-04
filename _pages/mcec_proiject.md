@@ -9,7 +9,7 @@ header:
 
 # The MCEC Project
 
-The Multilingual College Email Corpus Project (MCEC) project is an ongoing collection of student an instructor emails across several departments from the University of Arizona.
+The Multilingual College Email Corpus Project (MCEC) is an ongoing collection of student an instructor emails across several departments from the University of Arizona.
 
 It is a first-of-its-kind project given its wide scope (several disciplines and academic levels) and the sociolinguistic information collected (L1, L2, linguistic experiences, heritage languages, and more).
 
