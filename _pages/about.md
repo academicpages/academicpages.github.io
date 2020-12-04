@@ -1,8 +1,40 @@
 ---
+layout: splash
 permalink: /about/
-title: "About"
+title: About me
+author_profile: true
+header:
+    image: "assets/images/JumpHigher.png"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=damian-romero/damian-romero.github.io)
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# About me
+
+I am a Ph.D. candidate at the University of Arizona.
+
+I have  experience in language analysis with traditional and computational methods in group and individual projects. I have worked on English, Spanish, and Portuguese both for academia and industry. 
+My research interests lay in the intersection between communication outcomes, theoretical linguistics, and big data.
+
+I am currently working as a Graduate Assistant for the University of Arizona Libraries under the supervision of [Dr. Chun Ly](https://astrochun.github.io/) in DevOps, data curation, and outreach for the University of Arizona Libraries' [Research Data Repository (ReDATA)](https://data.library.arizona.edu/redata).
+
+### My working philisophy
+
+```python
+def jump_higher():
+    do = 'improv'
+    now = 'e'
+    recursively = 'ing
+    print (f"{do + now} and keep {do + recursively}")
+
+while True:
+    jump_higher()
+```
+
+### My GitHub stats
+
+![](https://github-readme-stats.vercel.app/api?username=damian-romero&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-romero&layout=compact&theme=dark)
+
+---------
+
+## You can find my resume [here](https://data.library.arizona.edu/sites/default/files/Resume%28online%29_DamianRomero_10_2020.pdf) and my CV [here](https://data.library.arizona.edu/sites/default/files/CV%28online%29_DamianRomero_10_2020.pdf).
