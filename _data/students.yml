@@ -12,9 +12,6 @@
     name: Praveen Kumar
 - 
     type: phd
-    name: Jonathan DiLorenzo
--
-    type: phd
     name: Ryan Doenges
 -
     type: phd
@@ -52,6 +49,7 @@
 -
     type: phd-alumni
     name: Mark Reitblatt
+    photo: BASE/images/dr-reitblatt.png
     thesis: "Formal Reasoning in Software-Defined Networks"
     thesis_url: https://ecommons.cornell.edu/handle/1813/47888
     year: 2017
@@ -59,6 +57,7 @@
 -
     type: phd-alumni
     name: Shrutarshi Basu
+    photo: BASE/images/dr-basu.png
     thesis: "Languages for Path-Based Network Programming"
     thesis_url: "https://ecommons.cornell.edu/handle/1813/59642"
     year: 2018
@@ -70,3 +69,10 @@
     thesis_url: https://ecommons.cornell.edu/xmlui/handle/1813/70019
     year: 2019
     position: Software Engineer, Google
+-
+    type: phd-alumni
+    name: Jonathan DiLorenzo
+    thesis: "Domain-Specific Languages for Ad Hoc Data Processing"
+    thesis_url: 
+    year: 2020
+    position:

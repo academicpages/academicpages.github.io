@@ -1628,9 +1628,32 @@
     month: May
     volume: '29'
     number: '3'
-    award: 'Most influential paper from POPL 2015'
+    award: 'Most influential paper from POPL 2005'
     full: http://doi.acm.org/10.1145/1232420.1232424
     url: http://doi.acm.org/10.1145/1040305.1040325
+    slides: BASE/papers/focal-slides.pdf
+    author:
+    -   first: J.
+        middle: Nathan
+        last: Foster
+    -   first: Michael
+        middle: B.
+        last: Greenwald
+    -   first: Jonathan
+        middle: T.
+        last: Moore
+    -   first: Benjamin
+        middle: C.
+        last: Pierce
+    -   first: Alan
+        last: Schmitt
+-
+    type: 'conference'
+    title: 'Combinators for Bidirectional Tree Transformations: A Linguistic Approach to the View Update Problem'
+    venue: POPL
+    year: '2005'
+    month: Jan
+    url: https://dl.acm.org/doi/10.1145/1040305.1040325
     slides: BASE/papers/focal-slides.pdf
     author:
     -   first: J.

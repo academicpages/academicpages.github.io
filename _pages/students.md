@@ -5,6 +5,7 @@ excerpt: "Students"
 redirect_from: 
   - /students.html
 ---
+{% include base_path %}
 
 I'm fortunate to work with a fantastic research group. 
 
@@ -44,9 +45,10 @@ I'm fortunate to work with a fantastic research group.
 {% assign people = site.data.students | where: "type", "phd-alumni" | sort: "name" %}
 <ul>
 {% for person in people %}
-<li> {{ person.name }} (PhD {{ person.year }})<br />
+<li> <div>{% if person.photo %}<a href="{{ person.photo | replace: 'BASE', base_path}}"><img class="alumnus" src="{{ person.photo | replace: 'BASE', base_path }}" alt="{{ person.name }}" /></a>{% endif %}
+     {{ person.name }} (PhD {{ person.year }})<br />
      Thesis: <i><a href="{{ person.thesis_url }}">{{person.thesis}}</a></i><br />
-     Current position: {{ person.position }}
-</li>
+     Current position: {{ person.position }}</div>
+     <div style="clear:both;"></div></li>
 {% endfor %}
 </ul>
