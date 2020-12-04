@@ -31,6 +31,6 @@ redirect_from:
   Tao Song, Jieneng Chen, <b>Xiangde Luo</b>, Yechong Huang, Xinglong Liu, Ning Huang, Yinan Chen, Zhaoxiang Ye, Huaqiang Sheng, Shaoting Zhang, Guotai Wang<br>
   <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2020</b>.<br>
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/Luoxd1996/SCPMNet)]
- * <b>MIDeepSeg: Minimally Interactive Segmentation ofUnseen Objects from Medical Images Using Deep Learning</b> <br> 
- <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, JanDeprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
+ * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
+ <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <i>Submitted to <b>Medical Image Analysis</b>.<br>
