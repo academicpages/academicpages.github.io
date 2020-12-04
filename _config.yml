@@ -8,17 +8,27 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Documentation
+# [jekyll-docs]: https://jekyllrb.com/docs/home
+# [jekyll-gh]:   https://github.com/jekyll/jekyll
+# [jekyll-talk]: https://talk.jekyllrb.com/
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
 title: "Damian Romero,\nComputational Hispanic Linguist"
+subtitle: 'Site version: v1.0'
+name: "Damian Romero"
 email: damianiji [at] email [dot] arizona [dot] edu
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a Ph.D. Candidate at the university of Arizona.
-  My work focuses on computational linguistics (English / Spanish / Portuguese) for academia and industry.
-  Currently working as Graduate Assistant for the University Research Data Repository
+description: "Damian Romero's website."
+url: "https://damian-romero.github.io/"
+repository: "damian-romero/damian-romero.github.io"
+logo: "assets/images/uofa.jpg"
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Damian Romero's website.
 twitter_username: DamianRomero_CL
 github_username: damian-romero
 minimal_mistakes_skin: dirt
@@ -26,6 +36,7 @@ search: true
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -35,6 +46,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - files
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -60,29 +72,54 @@ plugins:
 author:
   name   : "Damian Romero"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Ph.D. Candidate at the University of Arizona working on computational linguistics (English / Spanish / Portuguese) for academia and industry."
+  bio    : "Ph.D. Candidate at the University of Arizona\nWorking on computational linguistics (English / Spanish / Portuguese) for academia and industry."
+  location : "Arizona"
   links:
-    - label: "Website"
+    - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DamianRomero_CL"
+      url: "https://data.library.arizona.edu/sites/default/files/Resume%28online%29_DamianRomero_10_2020.pdf"
+    - label: "CV"
+      icon: "fas fa-fw fa-link"
+      url: "https://data.library.arizona.edu/sites/default/files/CV%28online%29_DamianRomero_10_2020.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/damian-romero/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DamianRomero_CL"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/DamianRomero.HLT"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/damian-romero/"
+    - label: "OrcId"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-4661-0296"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DamianRomero_CL"
+    - label: "Resume"
+      icon: "fas fa-fw fa-link"
+      url: "https://data.library.arizona.edu/sites/default/files/Resume%28online%29_DamianRomero_10_2020.pdf"
+    - label: "CV"
+      icon: "fas fa-fw fa-link"
+      url: "https://data.library.arizona.edu/sites/default/files/CV%28online%29_DamianRomero_10_2020.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/damian-romero/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DamianRomero_CL"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/DamianRomero.HLT/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/damian-romero/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
