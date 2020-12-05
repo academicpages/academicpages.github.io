@@ -67,8 +67,9 @@ Awards
 <br/>
   
   
-Selected Academic Services
+Services
 ======
+Selected Academic Services:
 * Reviewer / Program Committee: ACL (2021), AAAI (2020, 2021), IJCAI (2020, 2021)    
 <br/>
 
