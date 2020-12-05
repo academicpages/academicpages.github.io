@@ -15,24 +15,24 @@ Research Interests
 ------
 I seek to solve theoretical machine learning problems using ideas from mathematical optimization, probability theory and statistics.
 
-* Research Interests - Statistical Machine Learning, Large Scale Optimization, Interactive Learning, Probability theory
-* Other Learning Interests - Differential Geometry
+* Research Interests - Statistical Machine Learning, Large Scale Optimization, Interactive Learning, Algorithms. 
+* Other Learning Interests - Probability theory, Differential Geometry, Complexity Theory, Statistics.
 
 Education
 ======
-* Ph.D. student at School of Science, Department of Computer Science, Sept, 2018 - Aug, 2019<br>
-Aalto University<br>
-* M.Sc. in Computer Science, 2016 - 18<br>
-Chennai Mathematical Institute
-* B.Sc. in Mathematics and Computer Science, 2013 - 16<br>
-Chennai Mathematical Institute
+* **Ph.D.** student at School of Science, Department of Computer Science, Sept, 2018 - Aug, 2019<br>
+<i>Aalto University</i><br>
+* **M.Sc**. in Computer Science, 2016 - 18<br>
+<i>Chennai Mathematical Institute</i>
+* **B.Sc.** in Mathematics and Computer Science, 2013 - 16<br>
+<i>Chennai Mathematical Institute</i>
 
 Work experience
 ======
 * September 2019 - Present: Research Fellow
   * Max Planck Institute for Software Systems, Saarbrucken, Germany
   * Adviser: Dr. Adish Singla 
-  * Project: Teaching and Learning complexity of hypothesis classes e.g. Regions induced by intersections of Halfspaces and non-linear ERM learners e.g. kernel perceptrons.
+  * Project: Teaching and Learning complexity of hypothesis classes, e.g., regions induced by intersections of Halfspaces and non-linear ERM learners e.g. kernel perceptrons.
 
 * Summer 2017 : Research Intern
   * IBM India Research Lab (Bengaluru, India)
