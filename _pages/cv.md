@@ -30,7 +30,7 @@ Education
 Work experience
 ======
 * September 2019 - Present: Research Fellow
-  * Max Planck Institute for Software Systems, Saarbr$\dot{u}$cken, Germany
+  * Max Planck Institute for Software Systems, Saarbr$\ddot{u}$cken, Germany
   * Adviser: Dr. Adish Singla 
   * Project: Teaching and Learning complexity of hypothesis classes, e.g., regions induced by intersections of Halfspaces and non-linear ERM learners e.g. kernel perceptrons.
 
