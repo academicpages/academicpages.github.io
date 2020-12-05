@@ -67,13 +67,6 @@ Awards
 <br/>
   
   
-Services
-======
-Selected Academic Services:
-* Reviewer / Program Committee: ACL (2021), AAAI (2020, 2021), IJCAI (2020, 2021)    
-<br/>
-
-  
 Misc
 ======
 * [Here](https://www.cnblogs.com/Determined22/) is my technology blog (in Chinese). I wrote some notes about machine learning and natural language processing techniques.
