@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This website summarizes my work across research, teaching and other academic activities. My area of interest is environmental statistics with an emphasis in Bayesian spatiotemporal modeling and hybrid statistical/physical representations of earth systems. I've been pursuing my PhD at Duke since 2014 with stints in the [Nicholas School of the Environment](https://nicholas.duke.edu/) and the [Pratt School of Engineering](https://pratt.duke.edu/). I am co-advised by [Mark Borsuk](http://borsuk.pratt.duke.edu/) and [Mukesh Kumar](https://eng.ua.edu/people/mkumar4/). I plan to graduate in the spring of 2020. I am also pursuing a concurrent degree in [statistics](https://stat.duke.edu/). 
+# Introduction
+I am a research scientist focusing on the application of probabilistic graphical models for an array of challenging problems in engineering and spatial analysis. As a part of the GeoAI research group at Oak Ridge National Laboratory, I currently work on problems related to security and geospatial modeling. My educational background consists of degrees in physics (BA, 2013), statistics (MS, 2020), and engineering (PhD, 2020). I am especially keen on establishing collaborative relationships with researchers interested in uncertainty quantification and probabilistic forecasting for high-dimensional systems with nonlinear dynamics.
 
-I am open to collaborating with researchers in a wide variety of areas including epidemiology, hydrology and economics - check out some of my blog posts to see what I'm working on right now!
+I have consulted in the past for firms using Bayesian methods in marketing analytics and have previously worked in the healthcare sector as a database engineer. Any additional information can be gleaned from the curriculum vitae linked on this webpage. 
 
 
 <!---
