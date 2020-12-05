@@ -33,7 +33,7 @@ the computational and statistical efficiency of learning methods, and the extent
 
 3. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
 **Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br>
-<i>In preparation for submission to The 16th International Computer Science Symposium in Russia (CSR'21), 2021
+<i>In submission to The 16th International Computer Science Symposium in Russia (CSR'21), 2021
 </i>
 
 # Some notes
