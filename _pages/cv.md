@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Finance, George Mason University, 2012
 * B.S. in Economics, George Mason University, 2014
-* M.Sc in Business Administration, Hamburg University, 2021
+* M.Sc in Business Administration (Business Analytics), Hamburg University, 2021
 
 Work experience
 ======
