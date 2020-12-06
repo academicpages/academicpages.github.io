@@ -28,8 +28,8 @@ Work experience
 Software Skills
 ======
 * LaTex
-* R
-* Python
+* R       (packages: mlogit, various machine learning packages)
+* Python  (packages: Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch)
 * Markdown
 * Excel
 * GAMS
