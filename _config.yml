@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiangde Luo (罗祥德)"
+  name             : "Xiangde Luo"
   avatar           : "luoxd.jpg"
   bio              : "A 1st-year Ph.D. student at UESTC focuses on medical image computing, semi-supervised learning, and human-in-the-loop."
   location         : "Chengdu, Sichuan, China"
