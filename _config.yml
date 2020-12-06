@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ananya.malikk"
+  twitter          : "ananyamalikk"
   vine             :
   weibo            :
   xing             :
@@ -173,7 +173,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
