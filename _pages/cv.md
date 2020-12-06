@@ -13,9 +13,9 @@ redirect_from:
 
 Education	
 ======
-* Ph.D in Civil and Environmental Engineering, Duke University, 2020 (expected)
+* Ph.D in Civil and Environmental Engineering, Duke University, 2020 
   * My dissertation is broadly focused on developing **spatiotemporal Bayesian models integrating strong physical priors with flexible parametric specifications**. From an application standpoint, my main interest is in understanding and **monitoring large-scale changes in the abundance and dynamics of inland water** bodies such as wetlands and ponds across North America. I leverage methods and ideas from Bayesian machine learning as well as engineering science to help provide both accurate and reliable forecasts in problems with sparsely observed and noisy data.
-* M.S. in Statistics, Duke University, 2020 (expected)
+* M.S. in Statistics, Duke University, 2020
   * As a dual-degree student in engineering and statistics, I have had the opportunity to conduct research in applied statistical methodologies. I have developed **novel combinations of low-rank matrix factorization and generalized linear models** appropriate for very high dimensional $$(D>10^3)$$ spatial non-Gaussian **multivariate data with GPU-accelerated inferenc**e. I also am interested in developing **rigorous and principled methods for uncertainty quantification using deep generative models** such as variational autoencoders and generative adversarial networks in conjunction with **Markov chain Monte Carlo and variational Bayes**.
 * B.A. in Physics, Macalester College, 2013
 

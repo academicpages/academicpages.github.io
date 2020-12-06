@@ -9,10 +9,22 @@ redirect_from:
 ---
 
 # Introduction
-I am a research scientist focusing on the application of probabilistic graphical models for an array of challenging problems in engineering and spatial analysis. As a part of the GeoAI research group at Oak Ridge National Laboratory, I currently work on problems related to security and geospatial modeling. My educational background consists of degrees in physics (BA, 2013), statistics (MS, 2020), and engineering (PhD, 2020). I am especially keen on establishing collaborative relationships with researchers interested in uncertainty quantification and probabilistic forecasting for high-dimensional systems with nonlinear dynamics.
+I am a research scientist focusing on the application of probabilistic graphical models for challenging problems in engineering and spatial analysis. As a part of the GeoAI research group at Oak Ridge National Laboratory, I currently work on problems related to security and geospatial modeling. My educational background consists of degrees in physics (BA, 2013), statistics (MS, 2020), and civil engineering (PhD, 2020). I am especially keen on establishing collaborative relationships with researchers interested in uncertainty quantification and probabilistic forecasting for high-dimensional systems with nonlinear dynamics.
 
-I have consulted in the past for firms using Bayesian methods in marketing analytics and have previously worked in the healthcare sector as a database engineer. Any additional information can be gleaned from the curriculum vitae linked on this webpage. 
+I have consulted in the past for firms using Bayesian methods in marketing analytics and have previously worked in the healthcare sector as a database engineer. You can find more additional information at the curriculum vitae linked on this webpage. 
 
+# Ongoing research projects
+![image](images/research_banner.png)
+A short list of my current research efforts are shown below. A common vein running through all of them is that they typically involve some element of observational or structural uncertainty, necessitating probabilistic analysis. Additionally, they often involve data which is intrinsically spatial in nature and is thus amenable to spatial statistical methods.
+ 
+* Statistical wetland modeling
+* Integrating expert knowledge in posterior simulation for geospatial categorical data
+* Dimension reduction for high-dimensional data
+* Bayesian inference for engineering models
+* Leveraging graphical structure in deep generative models
+
+# Interns and students
+I am available to serve as an extra-institutional committee member for graduate degree committees and also have some opportunities available for interns at the undergraduate and graduate student level. For these positions, prior experience to statistical modeling and programming in a scripting language like Python or R is vital. For more information, contact me at *krapucl* at *ornl.gov*.
 
 <!---
 ------
