@@ -42,13 +42,13 @@ My dissertation work is on cutting-edge analysis of teacher-student interactions
 - [Dr. Sandiway Fong](http://www.u.arizona.edu/~sandiway/) (Linguistics, Computer Science)
 - [Dr. Helena Gomez Adorno](https://www.linkedin.com/in/helena-gomez-adorno-31930524/?originalSubdomain=mx) (IIMAS - UNAM)
 
-### My working philisophy
+### My work philisophy
 
 ```python
 def jump_higher():
     do = 'improv'
     now = 'e'
-    recursively = 'ing
+    recursively = 'ing'
     print (f"{do + now} and keep {do + recursively}")
 
 while True:
