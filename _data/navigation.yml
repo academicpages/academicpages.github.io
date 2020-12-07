@@ -1,11 +1,13 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "The MCEC Project"
     url: /mcec_project/
   - title: "News"
     url: /news/
-  # - title: "Blog"
+    # - title: "Blog"
   #   url: /posts/
   # - title: "Categories"
   #   url: /categories/
