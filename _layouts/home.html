@@ -1,0 +1,26 @@
+---
+layout: archive
+author_profile: true
+share: true
+---
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Highlights" }}</h3>
+
+<h3>Here you will find my most updated <a href="https://data.library.arizona.edu/sites/default/files/Resume%28online%29_DamianRomero_10_2020.pdf"><i>Resume</i></a> and <a href="https://data.library.arizona.edu/sites/default/files/CV%28online%29_DamianRomero_10_2020.pdf"><i>CV</i></a></h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
