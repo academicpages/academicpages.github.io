@@ -28,6 +28,10 @@ library(remotes)
 install_github("ShanaScogin/BayesPostEst")
 ```
 
+You can try out the `mcmcCoefPlot` function from the package in the interactive R console below:
+
+<iframe src="https://rdrr.io/snippets/embed/?code=library(MCMCpack)%0Alibrary(BayesPostEst)%0A%0Afit%20%3C-%20MCMCregress(incidents%20~%20type%20%2B%20year%20%2B%20period%2C%20data%20%3D%20MASS%3A%3Aships)%0AmcmcCoefPlot(fit%2C%20pars%20%3D%20c('type'%2C%20'year'%2C%20'period')%2C%20regex%20%3D%20T)" width="100%" height="400" frameborder="0"></iframe>
+
 ## RWmisc
 
 I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [`RWmisc`](https://github.com/jayrobwilliams/RWmisc). It includes:
