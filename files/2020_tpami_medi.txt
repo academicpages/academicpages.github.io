@@ -1,0 +1,8 @@
+@Article{Pan20pami,
+  author        = {Liyuan Pan and Richard I. Hartley and Cedric Scheerlinck and Miaomiao Liu and Xin Yu and Yuchao Dai},
+  title         = {High Frame Rate Video Reconstruction based on an Event Camera},
+  journal       = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  year          = {2020},
+  month         = {November},
+  doi           = {10.1109/TPAMI.2020.3036667}
+}

@@ -17,7 +17,7 @@ header:
 <a href="https://youtu.be/JcgboJ_7JAE" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera" target="_blank"><b>Code</b></a>&emsp;
 <a href="https://drive.google.com/file/d/1s-PR7GxpCAIB20hu7F3BlbXdUi4c9UAo/view" target="_blank"><b>Data</b></a>&emsp;
-<a href="https://cedric-scheerlinck.github.io/files/2019_arxiv_medi.txt" target="_blank"><b>BibTex</b></a>
+<a href="https://cedric-scheerlinck.github.io/files/2020_tpami_medi.txt" target="_blank"><b>BibTex</b></a>
 
 ![blurry_banner](/images/banners/blurry_banner.png){:class="img-responsive"}
 
