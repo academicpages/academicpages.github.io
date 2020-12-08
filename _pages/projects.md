@@ -12,6 +12,7 @@ For information on my ongoing and developing field research see the [Projects pa
 ## Comparative research
 
 * Conflict resolution across human societies
+	* Description: Conflict resolution processes are expected to be a universal feature of human groups, but the underlying correlates of individuals who function to resolve conflicts within and between groups across cultures and the specific group contexts that demand greater conflict resolution processes remain unknown. Through novel exploratory comparative analyses using the leadership data package this exploratory study addresses these empirical gaps.
 * Cultural diversity of punishment behaviors and systems
 * The cultural ecology of hunter-gatherer leadership
 * Hawks and doves: Are there aggressive and non-aggressive types?
