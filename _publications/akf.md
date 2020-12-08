@@ -8,12 +8,12 @@ date: 2020-12-08
 venue: arXiv
 paperurl:
 citation: 
-youtubeId: JRjiojUzgfVo
+youtubeId: RjiojUzgfVo
 header:
    teaser: akf_thumbnail.png
 ---
 
-<a href="https://arxiv.org/pdf/1903.06531.pdf" target="_blank"><b>PDF</b></a>&emsp;
+<a href="https://arxiv.org" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/RjiojUzgfVo" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2020_arxiv_akf.txt" target="_blank"><b>BibTex</b></a>
 

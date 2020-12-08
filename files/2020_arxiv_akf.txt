@@ -1,0 +1,9 @@
+@Article{Wang20arxiv,
+  author        = {Ziwei Wang Yonhon Ng and Cedric Scheerlinck Robert Mahony},
+  title         = {An Asynchronous Kalman Filter for Hybrid Event Cameras},
+  journal       = {ar{X}iv e-prints},
+  year          = {2020},
+  month         = {December},
+  url           = {},
+  arxivid       = {}
+}
