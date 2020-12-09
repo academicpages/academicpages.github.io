@@ -29,3 +29,9 @@ header:
 * I designed new Google Slides templates for UArizona folks:
     * [Department of linguistics](https://docs.google.com/presentation/d/1f6Cz6WzTyCxLlB48r4Ye_iqaTVLJ8ZwUOTNYpd2n4aE/edit#slide=id.g9c5bd022f8_0_10)
     * [Department of Spanish and Portuguese](https://docs.google.com/presentation/d/1CvVmYl2p7Xifx_HUxN3Xb6cdWQR4gZvabSxFp7p6VBI/edit#slide=id.g9c5bd021af_0_483)
+
+* Here is my octocat:
+
+<img src="/assets/images/octocat-DR.png" width="220" height="220">
+
+You can make your own at: [https://myoctocat.com/](https://myoctocat.com/)

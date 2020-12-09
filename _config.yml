@@ -76,7 +76,7 @@ plugins:
 author:
   name   : "Damian Romero"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Computational linguist (English / Spanish / Portuguese) for academia and industry."
+  bio    : "Computational linguist for academia and industry \n (English | Spanish | Portuguese)"
   location : "Arizona"
   links:
     - label: "Resume"

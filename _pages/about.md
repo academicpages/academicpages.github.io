@@ -10,19 +10,19 @@ header:
 ---
 []() <!-- Quick hack to avoid title doubbling after title omission in header -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=damian-romero/damian-romero.github.io)
-
 ![image-right](/assets/images/me-photo.png){: .align-right}
 
 # About me
+
+![Bash](https://img.shields.io/badge/Bash-%7C-green) ![Python](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![Perl](https://img.shields.io/badge/Perl-%7C-blue) ![R](https://img.shields.io/badge/R-%7C-red) ![Matlab](https://img.shields.io/badge/Matlab-%7C-orange)
 
 Thank you for visiting my website.
 
 I am a Ph.D. candidate at the University of Arizona working on **English, Spanish, and Portuguese** research.
 
-My **language annotation, analysis, and language engineering** experience with traditional and computational methods has led me to work in group and individual projects in **academia and industry**.
+My **language annotation, linguistic analysis, and language engineering** experience has led me to work in group and individual projects in **academia and industry**.
 
-My research interests lay in the intersection between communication outcomes, theoretical linguistics, and big data.
+My research interests lay in the intersection between **communication outcomes, theoretical linguistics, and big data**.
 
 ### Backend Software Development, Data Curation, and Outreach
 

@@ -26,7 +26,7 @@ These resources are aimed to be used by the academic community within and outsid
 
 ### Future plans
 
-While currently working at the university level, we expect to grow beyond its walls so that students and instructors from all over the country and world can more easily discover how to better interact with each other given their particular linguistic and cultural backgrounds.
+While currently working at the university level, we expect to grow beyond its walls so that students and instructors from all over the country and, possibly, the world can discover how to better interact with each other given their particular linguistic and cultural backgrounds.
 
 ### The MCEC team
 
@@ -34,7 +34,7 @@ Founder and director: Damian Romero (me)
 
 Steering committee (and PIs): [Damian Romero](https://spanish.arizona.edu/people/damianiji), Hanyu Jia, Mohammed K. AlShakhori
 
-Research Team: Wei Xu, Maria Laura Viale, Kristina Mihajlovic, and Peiwen Su.
+Research Team: Wei Xu, [Maria Laura Viale](https://www.linkedin.com/in/laura-viale/), [Kristina Mihajlovic](https://linguistics.arizona.edu/user/kristina-mihajlovic), and Peiwen Su.
 
 Advisory Board: [Dr. Julieta Fernandez](https://julietafernandez.faculty.arizona.edu/), [Dr. Carmen King de Ramirez](https://www.carmenkingramirez.com/)
 
