@@ -17,8 +17,6 @@ header:
 <a href="https://youtu.be/RjiojUzgfVo" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2020_arxiv_akf.txt" target="_blank"><b>BibTex</b></a>
 
-![blurry_banner](/images/banners/akf_banner.png){:class="img-responsive"}
-
 {% include youtubePlayer.html id=page.youtubeId %}
 <br />
 
