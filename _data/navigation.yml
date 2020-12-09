@@ -1,9 +1,11 @@
 main:
+  - title: "Home"
+    url: https://d-romero.com/
   - title: "About"
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "The MCEC Project"
+  - title: "MCEC"
     url: /mcec_project/
   - title: "News"
     url: /news/
