@@ -33,6 +33,8 @@ A challenge in evaluating event based video reconstruction is lack of quality gr
 To address this, we present a new **High Quality Frames (HQF)** dataset, containing events and ground truth frames from a DAVIS240C that are well-exposed and minimally motion-blurred.
 We evaluate our method on HQF + several existing major event camera datasets.
 
+**DOI:** <a href="https://doi.org/10.1007/978-3-030-58583-9_32" target="_blank">10.1007/978-3-030-58583-9_32</a>
+
 <b>Reference:</b>
 * T. Stoffregen\*, C. Scheerlinck\*, D. Scaramuzza, T. Drummond, N. Barnes, L. Kleeman, R. Mahony, "Reducing the Sim-to-Real Gap for Event Cameras", European Conference on Computer Vision (ECCV), 2020.
 
