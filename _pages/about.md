@@ -68,7 +68,7 @@ Research
     <p>
       <strong>Physics-Guided Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
       <u>Yaojie Liu</u>, Xiaoming Liu<br/>
-      arXiv preprint, 2020.<br/>
+      under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2020.<br/>
       [<a href="https://arxiv.org/abs/2012.05185">PDF</a>]
       [<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Code</a>]
     </p>
