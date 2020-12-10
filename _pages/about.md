@@ -61,6 +61,24 @@ Research
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Physics-Guided Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
+      <u>Yaojie Liu</u>, Xiaoming Liu<br/>
+      arXiv preprint, 2020.<br/>
+      [<a href="https://arxiv.org/abs/2012.05185">PDF</a>]
+      [<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="100%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
