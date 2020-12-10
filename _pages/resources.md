@@ -52,12 +52,13 @@ Academic Writing
 Presentation
 ======
 * a nature article on [how scientific presentation is different from a journal article](https://www.nature.com/articles/d41586-020-03300-6)
+
 <br>
 
 Others
 ======
 * [The Batch](https://www.deeplearning.ai/) is the Deeplearning.AI newsletter that gives you a fresh taste of the latest research and applications in the field of AI every Thursday by Andrew Ng
 * [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a well-written blog about computational neuroscience, data science, getting into industry by Patrick Mineault
-* [Tanya Jonker](https://tanyajonker.com/) a blog exploraing academic and industry job markets by cognitive neuroscientist Tanya Jonker
+* [Tanya Jonker](https://tanyajonker.com/) a blog about exploraing academic and industry job markets by cognitive neuroscientist Tanya Jonker
 * [Devpost](https://devpost.com/) for some fun online hackathon opportunities
 
