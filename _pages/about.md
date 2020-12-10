@@ -16,7 +16,7 @@ Research Interests
 ======
 My research targets at developing computational methods to analyze Web contents. Currently, I focus on the following areas:
 * **Opinion mining and opinionated/argumentative text generation**  
-Stance analysis and argument mining, especially in low-resource (e.g., cross-domain transfer, learning with noisy labels, and seq2seq learning without paired data), multi-task and adversarial attack settings
+Stance analysis and argument mining, especially in low-resource (e.g., cross-domain transfer, learning with noisy labels, and sequence generation without paired data), multi-task and adversarial attack settings
 * **Rumor verification and fact checking**  
 Determine the correctness of textual claims and structured triples in knowledge graphs      
 <br/>
