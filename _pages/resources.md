@@ -19,12 +19,14 @@ Coding
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund
 * [Advanced R](https://adv-r.hadley.nz/index.html) by Hadley Wickham
+* [HackerRank](https://www.hackerrank.com/) for coding practice in multiple programming languages esp. SQL and Python
 
 <br> 
 
 Data Visualization
 ======
-* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) by Claus O. Wilke 
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) by Claus O. Wilke
+* [R Graph Gallery](https://www.r-graph-gallery.com/) for different figure templates
 
 <br> 
 
@@ -33,6 +35,7 @@ Modeling
 * [Neuromatch Acadmy Course Tutorials](https://clauswilke.com/dataviz/index.html) 
 * [Neuromatch Academy Course Intro, Outro, Discussion Panel](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw/videos)
 * [Neurohackademy Course Videos](https://www.youtube.com/channel/UCLKSeDZWDqBzKRfHTabg1lQ) through UW eScience Institute
+* [Kaggle](https://www.kaggle.com/) for downloading some fun public datasets to try out machine learning algorithms
 
 <br> 
 
@@ -49,3 +52,12 @@ Academic Writing
 Presentation
 ======
 * a nature article on [how scientific presentation is different from a journal article](https://www.nature.com/articles/d41586-020-03300-6)
+<br>
+
+Others
+======
+* [The Batch](https://www.deeplearning.ai/) is the Deeplearning.AI newsletter that gives you a fresh taste of the latest research and applications in the field of AI every Thursday by Andrew Ng
+* [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a well-written blog about computational neuroscience, data science, getting into industry by Patrick Mineault
+* [Tanya Jonker](https://tanyajonker.com/) a blog exploraing academic and industry job markets by cognitive neuroscientist Tanya Jonker
+* [Devpost](https://devpost.com/) for some fun online hackathon opportunities
+
