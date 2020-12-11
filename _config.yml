@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sourav Saha"
   avatar           : "sourav_profile (1).png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research student in the domain of IR and ML"
   location         : "India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=i070DKoAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "souravsaha"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -233,17 +233,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
