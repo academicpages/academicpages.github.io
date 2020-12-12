@@ -4,7 +4,7 @@ author: "Z. Wang, Y. Ng, <u>C. Scheerlinck</u>, R. Mahony"
 collection: publications
 permalink: /akf
 excerpt: 
-date: 2020-12-08
+date: 2020-12-10
 venue: arXiv
 paperurl:
 citation: 
@@ -13,7 +13,7 @@ header:
    teaser: akf_thumbnail.png
 ---
 
-<a href="https://arxiv.org" target="_blank"><b>PDF</b></a>&emsp;
+<a href="https://arxiv.org/pdf/2012.05590.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/RjiojUzgfVo" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://cedric-scheerlinck.github.io/files/2020_arxiv_akf.txt" target="_blank"><b>BibTex</b></a>
 
