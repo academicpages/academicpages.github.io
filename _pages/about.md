@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Sourav Saha, a researcher in the field of Information Retrieval (IR), Machine Learning (ML) and Natural Language Processing (NLP).
+Hi, I am Sourav Saha, a researcher (YaR: Yet another researcher) in the field of Information Retrieval (IR), Machine Learning (ML) and Natural Language Processing (NLP).
