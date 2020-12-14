@@ -15,8 +15,9 @@ redirect_from:
 
 
 # Recent News
+* Dec. 14, 2020. We released a strong baseline and some examples for weakly-supervised medical image segmentation research, the repo at [WSL4MIS](https://github.com/Luoxd1996/WSL4MIS), thanks for your attention.
 * Dec. 01, 2020. Our paper <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> was accepted by <b>AAAI 2021</b> (~21% acceptance rate).
-* Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised medical image segmentation research, the repo at [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), any advice and suggestions are welcomed
+* Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised medical image segmentation research, the repo at [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), any advices and suggestions are welcomed.
 
 # Publications
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
