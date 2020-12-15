@@ -84,7 +84,7 @@ There are a few things worth pointing out here.
 
 To summarise, the spout takes an external source of data and turns it into a _stream of records_ and the graph builder converts each item from this stream of records into a _graph update_.
 
-##Raphtory Graph
+## Raphtory Graph
 Now that we have a way to ingest and parse the data we can create a graph. To do this we can first create a scala App. This is a short hand for creating a main function for the Java folks.
 
 ````scala
