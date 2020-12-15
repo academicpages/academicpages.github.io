@@ -5,6 +5,14 @@ permalink: /posts/2020/12/post-corona-christmas/
 tags:
   - coronavirus
   - christmas
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/Corona_Christmas_Tree.png
+        height: 630
+        width: 1200
 ---
 # Merry Corona-Christmas!
 
