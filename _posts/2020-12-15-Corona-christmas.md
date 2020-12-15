@@ -5,6 +5,8 @@ permalink: /posts/2020/12/post-corona-christmas/
 tags:
   - coronavirus
   - christmas
+twitter:
+    username: hm_martiny
 defaults:
   - scope:
       path: ""
