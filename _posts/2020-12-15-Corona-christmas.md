@@ -11,6 +11,7 @@ tags:
 Remember to stay safe! 
 
 Here is my corona tree.. what is on yours?
+
 <img src="/images/Corona_Christmas_Tree.png"
      alt="Corona Christmas Tree"
      style="float: left; margin-right: 10px;" />
