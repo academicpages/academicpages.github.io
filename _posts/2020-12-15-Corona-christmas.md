@@ -10,7 +10,7 @@ tags:
 
 Remember to stay safe! 
 
-Here is my corona tree.. what is on yours?
+Here is my corona tree..
 
 <img src="/images/Corona_Christmas_Tree.png"
      alt="Corona Christmas Tree"
