@@ -4,7 +4,7 @@ date:       2020-12-15
 author:     hm_martiny
 summary:    A Christmas Tree for 2020
 permalink:  /posts/2020/12/post-corona-christmas/
-image:      /images/Corona_Christmas_Tree.png
+image:      /images/christmas_tree_small.png
 tags:
   - coronavirus
   - christmas
