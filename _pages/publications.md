@@ -3,6 +3,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>Semi-supervised Segmentation via Uncertainty Rectified Pyramid Consistency and Its Application to Gross Target Volume of Nasopharyngeal Carcinoma</b> <br> 
+  <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
+ [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
+ 
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021</b>.<br>
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang.<br>
