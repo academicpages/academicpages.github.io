@@ -1,20 +1,11 @@
 ---
-title: 'Merry Corona-Christmas'
-date: 2020-12-15
-permalink: /posts/2020/12/post-corona-christmas/
+title:      'Merry Corona-Christmas'
+date:       2020-12-15
+permalink:  /posts/2020/12/post-corona-christmas/
+image:      /images/Corona_Christmas_Tree.png
 tags:
   - coronavirus
   - christmas
-twitter:
-    username: hm_martiny
-defaults:
-  - scope:
-      path: ""
-    values:
-      image:
-        path: /images/Corona_Christmas_Tree.png
-        height: 630
-        width: 1200
 ---
 # Merry Corona-Christmas!
 

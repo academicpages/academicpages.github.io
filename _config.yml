@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Hannah-Marie Martiny"
 title_separator          : "-"
+title_image              : "/images/profile.JPG"
 name                     : &name "Hannah-Marie Martiny"
 description              : &description "personal description"
 url                      : https://hmmartiny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
