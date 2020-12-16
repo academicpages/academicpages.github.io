@@ -3,7 +3,8 @@ title: 'Adding Content to an Academic Website'
 date: 2020-08-07
 permalink: /posts/2020/08/website-content/
 excerpt_separator: <!--more-->
-toc: trueheader: 
+toc: true
+header: 
   og_image: "posts/website-content/preview.png"
 tags:
   - website
