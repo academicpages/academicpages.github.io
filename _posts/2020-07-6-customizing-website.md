@@ -3,8 +3,8 @@ title: 'Customizing an Academic Website'
 date: 2020-07-06
 permalink: /posts/2020/07/customizing-website/
 excerpt_separator: <!--more-->
-teaser: /images/posts/customizing-website/findin-syntax.png
-toc: true
+toc: trueheader: 
+  og_image: "posts/customizing-website/preview.png"
 tags:
   - website
   - git

@@ -3,8 +3,9 @@ title: 'Building an Academic Website'
 date: 2020-06-30
 permalink: /posts/2020/06/academic-website/
 excerpt_separator: <!--more-->
-teaser: /images/posts/creating-website/fork.png
 toc: true
+header: 
+  og_image: "posts/creating-website/preview.png"
 tags:
   - website
   - git
