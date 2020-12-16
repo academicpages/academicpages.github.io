@@ -11,7 +11,7 @@ redirect_from:
 
 - Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence From a List Experiment. **Forthcoming, Acta Politica**. <br/> [[Paper]](https://doi.org/10.1057/s41269-020-00174-4). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/AP_2020). [[Citation]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/Bahamonde_AP.bib).
 
-- Employment Effects of Covid‐19 across Chilean Regions: An Application of the Translog Cost Function. **Forthcoming, Regional Science, Policy and Practice**. <br/> [[Paper]](https://doi.org/10.1111/rsp3.12337). With Felix Modrego and Andrea Canales.
+- Employment Effects of Covid‐19 across Chilean Regions: An Application of the Translog Cost Function. **Regional Science, Policy and Practice** (2020), 12: 1151-1167. <br/> [[Paper]](https://doi.org/10.1111/rsp3.12337). With Felix Modrego and Andrea Canales.
 
 
 - Aiming Right at You: Group versus Individual Clientelistic Targeting in Brazil. **Journal of Politics in Latin America** (2018), 10(2): 41-76. <br/> [[Paper]](https://journals.sub.uni-hamburg.de/giga/jpla/article/view/1121/1128). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/JPLA_2018). [[Citation]](https://raw.github.com/hbahamonde/Clientelism_paper/Bahamonde_JPLA_2018.bib).
