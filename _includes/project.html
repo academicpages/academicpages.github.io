@@ -33,9 +33,9 @@
 
     <table style="width:100%">
       <tr>
-        <th><div class="item-icon"><i class="fa fa-bullhorn fa-3x"></i></th>
-        <th><div class="item-icon"><i class="fa fa-bolt fa-3x"></i></th>
-        <th><div class="item-icon"><i class="fa fa-heart fa-3x"></i></th>
+        <th>{% if post.context %}<div class="item-icon"><i class="fa fa-bullhorn fa-3x"></i></div>{% endif %}</th>
+        <th>{% if post.done %}<i class="fa fa-bolt fa-3x"></i>{% endif %}</th>
+        <th>{% if post.results %}<i class="fa fa-heart fa-3x"></i>{% endif %}</th>
       </tr>
       <tr>
         <td><p>{% if post.context %}{{ post.context }} {% endif %}</p></td>
