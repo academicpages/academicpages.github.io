@@ -1,6 +1,6 @@
 ---
 title: "VERA"
-collection: project
+collection: projects
 permalink: /projects/vera
 excerpt: "Le projet VERA."
 date: 2018
