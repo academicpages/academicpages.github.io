@@ -8,5 +8,5 @@ author_profile: true
 
 {% include base_path %}
 {% for post in site.projects reversed %}
-    {% include project.html %}
+  {% include project.html %}
 {% endfor %}
