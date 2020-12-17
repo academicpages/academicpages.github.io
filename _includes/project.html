@@ -29,18 +29,19 @@
     <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
     <span class="comment__date">{% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.begin | date: "%Y" }} - {{ post.end | date: "%Y" }} {% endif %}</span>
 
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}
-
     <table>
       <tr>
-        <th class="text-center" style="width:33.33%">{% if post.context %}<i class="fa fa-bullhorn fa-3x"></i>{% endif %}</th>
-        <th class="text-center" style="width:33.33%">{% if post.done %}<i class="fa fa-bolt fa-3x"></i>{% endif %}</th>
-        <th class="text-center" style="width:33.33%">{% if post.results %}<i class="fa fa-heart fa-3x"></i>{% endif %}</th>
+        <th colspan="3"><span class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</span></th>
+      </tr>
+      <tr>
+        <td class="text-center" style="width:33.33%">{% if post.context %}<i class="fa fa-bullhorn fa-3x"></i>{% endif %}</td>
+        <td class="text-center" style="width:33.33%">{% if post.done %}<i class="fa fa-bolt fa-3x"></i>{% endif %}</td>
+        <td class="text-center" style="width:33.33%">{% if post.results %}<i class="fa fa-heart fa-3x"></i>{% endif %}</td>
       </tr>
       <tr>
         <td><p>{% if post.context %}{{ post.context }} {% endif %}</p></td>
         <td><p>{% if post.done %}{{ post.done }} {% endif %}</p></td>
-        <td><p>{% if post.results %}{{ post.results }} {% endif %}</p>{% if post.details %}<br/><p class="navbar-right"><a href="/publications#crs" class="btn btn-primary" role="button">Publications relatives</a></p>{% endif %}</td>
+        <td><p>{% if post.results %}{{ post.results }} {% endif %}</p> <br/><p class="text-right"><a href="/publications#crs" class="btn btn-primary" role="button">Publications relatives</a></p></td>
       </tr>
     </table>
 
