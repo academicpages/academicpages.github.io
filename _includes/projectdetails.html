@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Projets"
+excerpt: "Projets"
+permalink: /projectdetails/
+author_profile: true
+---
+
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -11,6 +19,14 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+
+
+{% for post in site.projects reversed %}
+  {% if post.title == title %}
+    test {{title}}
+    {% include projectdetails.html %}
+  {% endif %}
+{% endfor %}
 
 <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
 <div class="{{ include.type | default: "list" }}__item">
