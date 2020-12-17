@@ -6,6 +6,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% for post in site.projects reversed %}
+{% for post in site.projects  %}
   {% include project.html %}
 {% endfor %}
