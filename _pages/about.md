@@ -19,7 +19,7 @@ I received my B.S. degree from the Department of Mathematical Sciences at Tsingh
 
 - [2020/12/17] Began serving as a senior PC for IJCAI 2021.
 
-- [2020/12/14] Passed the preliminary exam and became a Ph.D. Candidate.
+- [2020/12/14] Passed the preliminary exam and became a Ph.D. candidate.
 
 - [2020/08/30] Began serving as a reviewer for ICLR 2021.
 
