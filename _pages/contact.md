@@ -1,11 +1,8 @@
 ---
 layout: default
+title: "Me contacter" 
 permalink: /
-title: "Projets"
-excerpt: "Project"
 author_profile: true
-redirect_from:
-  - /index/ 
 ---
 
 {% for post in site.projects reversed %}
