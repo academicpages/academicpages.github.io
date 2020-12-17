@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
-    <span class="comment__date">{% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.begin | date: "%Y" }} - {{ post.end | date: "%Y" }} {% endif %}</span>
+    <span class="comment__date">{% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.begin }} - {{ post.end }} {% endif %}</span>
 
     <table>
       <tr>
