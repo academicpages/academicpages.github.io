@@ -13,6 +13,6 @@ results: "La plupart des résultats sont en cours de publication."
 
 {% for post in site.projects reversed %}
   {% if post.title == title %}
-    {% include projectdetailled.html %}
+    {% include projectdetails.html %}
     {% endif %}
 {% endfor %}
