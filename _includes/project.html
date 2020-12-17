@@ -26,8 +26,8 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
-    <span class="comment__date">{% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.begin }} - {{ post.end }} {% endif %}</span>
+    <h2 class="archive__item-title" itemprop="headline">{% if post.fullname %}<abbr title="{{ post.fullname }}">{{ title }}</abbr>{% endif %}{% else %}{{ title }}</h2>
+    <span class="comment__date">{% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.begin | date: %Y }} - {{ post.end | date: %Y }} {% endif %}</span>
 
     <table>
       <tr>
