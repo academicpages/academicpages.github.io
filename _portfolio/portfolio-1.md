@@ -8,7 +8,7 @@ Some old UI based off of Rocket League
 
 
 Some simplistic UI, my first commission
-![Simplistic](https://github.com/HendricoMaximus/hendricomaximus.github.io/blob/master/files/Simplistic.png)
+![Simplistic](https://user-images.githubusercontent.com/75211263/102437213-67fbb600-3fd7-11eb-907e-afd8338b6a54.png)
 
 Some of my favorite UI, Sci-Fi
 ![Sci-Fi](https://github.com/HendricoMaximus/hendricomaximus.github.io/blob/master/files/Sci-Fi%20Board.png)
