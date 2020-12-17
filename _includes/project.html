@@ -13,22 +13,10 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-
+  <article>
     <h2>{% if post.fullname %}<abbr title={{ post.fullname }}>{{ title }}</abbr>{% else %}{{ title }}{% endif %}</h2>
     <span class="comment__date">{% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.begin | date: "%Y" }} - {{ post.end | date: "%Y" }} {% endif %}</span>
-
+    <br/>
     <table>
       <tr>
         <th colspan="3">{{ post.excerpt | markdownify }}</th>
@@ -40,10 +28,9 @@
       </tr>
       <tr>
         <td><p>{% if post.context %}{{ post.context }} {% endif %}</p></td>
-        <td><p style="vertical-align: top;">{% if post.done %}{{ post.done }} {% endif %}</p></td>
-        <td><p style="vertical-align: top;">{% if post.results %}{{ post.results }} {% endif %}</p> <br/><p class="text-right"><a href="/publications#" class="btn btn-primary" role="button">Publications relatives</a></p></td>
+        <td><p>{% if post.done %}{{ post.done }} {% endif %}</p></td>
+        <td><p>{% if post.results %}{{ post.results }} {% endif %}</p> <br/><p class="text-right"><a href="/publications#"{{ post.link }} class="btn btn-primary" role="button">Publications relatives</a></p></td>
       </tr>
-    </table>
-
+    </table> 
   </article>
 </div>

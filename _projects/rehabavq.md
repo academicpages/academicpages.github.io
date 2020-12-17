@@ -2,7 +2,7 @@
 title: "REHAB-AVQ"
 fullname: "REHABilitation des Activités de la Vie Quotidienne"
 collection: projects
-permalink: /projects/rehabavq
+link: rehabavq
 excerpt: "Le projet Rehab-AVQ vise à développer un système basé sur la réalité virtuelle pour réentraîner des personnes atteintes de la maladie d'Azheimer à réaliser des activités en cuisine."
 begin: 2011-01-01
 end: 2013-01-01

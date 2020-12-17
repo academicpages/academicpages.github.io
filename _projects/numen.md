@@ -2,8 +2,8 @@
 title: "NUMEN"
 fullname: "Intérêt des outils NUMériques pour faciliter l'ENtrée en institution des personnes âgées dépendantes"
 collection: projects
-permalink: /projects/numen
-excerpt: "Le projet NUMEN."
+link: numen
+excerpt: "Le projet NUMEN vise à faciliter l'institutionnalisation en EHPAD."
 begin: 2019-01-01
 end: 2020-01-01
 context: "L’altération des capacités cognitives et/ou psychomotrices associée à l’âge peut induire une perte d’autonomie des personnes nécessitant une entrée en institution. Les quelques études conduites sur le sujet démontrent que la préparation à l’entrée détermine durablement le bien-être et la qualité de vie au sein de l’établissement. Cette préparation à l’entrée est notamment déterminée par l’information dont peut disposer le sujet, dans les semaines qui précèdent et suivent l’institutionnalisation."
