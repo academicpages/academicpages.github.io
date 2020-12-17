@@ -27,34 +27,22 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
-    {% if post.begin and post.end %} <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.begin | date: "%Y" }} - {{ post.end | date: "%Y" }} {% endif %}
+    {% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.begin | date: "%Y" }} - {{ post.end | date: "%Y" }} {% endif %}
 
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}
-    {% if post.details %}<br/><a href="{{ base_path }}{{ post.url }}" rel="permalink">"Voir les publications associées"</a>{% endif %}</p>
-    <div class="col-md-4">
-<div class="item-text">
-<div class="item-icon"><i class="fa fa-bullhorn fa-3x"></i>
-</div>
-<p>{% if post.test %}{{ post.test }} {% endif %}</p>
-<p>{% if post.context %}{{ post.context }} {% endif %}</p>
-</div>
-</div>
-<div class="col-md-4">
-<div class="item-text">
-<div class="item-icon"><i class="fa fa-bolt fa-3x"></i>
-</div>
-<p>Dans ce contexte, nous avons implémenté un module d’auto-adaptation dynamique de la difficulté dans un système de prise en charge motrice. Ce module repose sur divers paramètres intrinsèques au système (taille de la cible, vitesse, distance, fréquence d’apparition des objets et disparité angulaire par rapport à la direction d’approche des objets). Ces paramètres impliquent différents aspects comportementaux qu’il faut identifier. De plus, il est important de mettre en évidence les paramètres d’optimisation de la motivation et de l'apprentissage, selon le degré de challenge de la tâche et la <em>mastery motivation</em> de l’enfant. </p>
-</div>
-</div>
 
-    <div class="col-md-4">
-<div class="item-text">
-<div class="item-icon"><i class="fa fa-heart fa-3x"></i>
-</div>
-<p></p>
-<p class="navbar-right"><a href="/publications#crs" class="btn btn-primary" role="button">Publications relatives</a></p>
-</div>
-</div>
-</div>
+    <table style="width:100%">
+      <tr>
+        <th><div class="item-icon"><i class="fa fa-bullhorn fa-3x"></i></th>
+        <th><div class="item-icon"><i class="fa fa-bolt fa-3x"></i></th>
+        <th><div class="item-icon"><i class="fa fa-heart fa-3x"></i></th>
+      </tr>
+      <tr>
+        <td><p>{% if post.context %}{{ post.context }} {% endif %}</p></td>
+        <td><p>{% if post.done %}{{ post.done }} {% endif %}</p></td>
+        <td><p>{% if post.results %}{{ post.results }} {% endif %}</p>{% if post.details %}<br/><p class="navbar-right"><a href="/publications#crs" class="btn btn-primary" role="button">Publications relatives</a></p>{% endif %}</td>
+      </tr>
+    </table>
+
   </article>
 </div>
