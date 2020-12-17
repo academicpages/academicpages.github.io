@@ -6,6 +6,9 @@ excerpt: "Project"
 author_profile: true
 redirect_from:
   - /index/
+  - /projects/
 ---
 
-  {% include projects.md %} 
+{% for post in site.projects reversed %}
+  {% include project.html %}
+{% endfor %}
