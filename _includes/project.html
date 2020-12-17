@@ -31,7 +31,7 @@
     </h2>
     {% if post.date %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>
-        {{ post.date | date: %Y }}{% if post.end %} - {{ post.end | date: %Y }}{% endif %}
+        {{ post.date | date: "%Y" }}{% if post.end %} - {{ post.end | date: "%Y"}}{% endif %}
       </p>
     {% endif %}
 
