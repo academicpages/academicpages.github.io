@@ -1,9 +1,9 @@
 ---
 title: "ICS"
-fullname: " "
+fullname: "Interface et Cognition Spatiale"
 collection: projects
 permalink: /projects/ics
-excerpt: "Le projet ICS (Interface et Cognition Spatiale) s'intéressait à l'impact de la rotation active et de la pratique des jeux vidéo sur le transfert des connaissances spatiales d'un environnement virtuel à la réalité."
+excerpt: "Le projet ICS s'intéressait à l'impact de la rotation active et de la pratique des jeux vidéo sur le transfert des connaissances spatiales d'un environnement virtuel à la réalité."
 begin: 2010-01-01
 end: 2011-01-01
 context: "Les études en cognition spatiale se sont multipliées avec l'arrivée des technologies de la réalité virtuelle. En effet, il est désormais possible de proposer des activités de navigation dans de grands espaces virtuels mais réalistes, tout en maintenant un contrôle précis sur toutes les variables. De plus, l’activité du sujet peut être quantifiée, dans de nombreux aspects (cognition, motricité, physiologie), de façon continue, et sans que le sujet en ait conscience. Malgré ces atouts, les effets des interfaces de navigation utilisées et de l’habitude à interagir avec des espaces virtuels restent assez mal connus. Pourtant l’engagement physique de l’utilisateur et les informations sensorielles relatives au corps peuvent influencer l’expérience qu’a utilisateur des espaces virtuels proposés."
