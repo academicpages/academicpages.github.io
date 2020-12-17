@@ -15,7 +15,6 @@ redirect_from:
 
 
 # Recent News
-* Dec. 14, 2020. We released a strong baseline and some examples for Scribbles/Points-based weakly-supervised medical image segmentation research, the repo at [WSL4MIS](https://github.com/Luoxd1996/WSL4MIS), thanks for your attention.
 * Dec. 01, 2020. Our paper <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> was accepted by <b>AAAI 2021</b> (~21% acceptance rate).
 * Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised medical image segmentation research, the repo at [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), any advices and suggestions are welcomed.
 
@@ -39,4 +38,4 @@ redirect_from:
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/Luoxd1996/SCPMNet)]
  * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
- <i>Submitted to <b>Medical Image Analysis</b>.<br>
+ <b>Medical Image Analysis (Major revise)</b>.<br>
