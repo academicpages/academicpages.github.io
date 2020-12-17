@@ -10,3 +10,8 @@ context: "Un élément crucial pour la rééducation motrice par la réalité vi
 done: "Dans ce contexte, nous avons implémenté un module d’auto-adaptation dynamique de la difficulté dans un système de prise en charge motrice. Ce module repose sur divers paramètres intrinsèques au système (taille de la cible, vitesse, distance, fréquence d’apparition des objets et disparité angulaire par rapport à la direction d’approche des objets). Ces paramètres impliquent différents aspects comportementaux qu’il faut identifier. De plus, il est important de mettre en évidence les paramètres d’optimisation de la motivation et de l'apprentissage, selon le degré de challenge de la tâche et la mastery motivation de l’enfant."
 results: ""
 ---
+{% for post in site.projects reversed %}
+  {% if post.title == title %}
+    {% include project.html %}
+    {% endif %}
+{% endfor %}
