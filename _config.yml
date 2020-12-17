@@ -80,7 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "HendricoMaximus"
-  avatar           : "pfp.png"
+  avatar           : ![pfp](https://user-images.githubusercontent.com/75211263/102554544-486d9780-4082-11eb-8fc1-27d217be75ab.png)
+
   bio              : "All around game developer"
   location         : "US"
   employer         :
