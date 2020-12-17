@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
@@ -6,6 +7,13 @@ author_profile: true
 redirect_from:
   - /index/
 ---
+
+{% include base_path %}
+
+{% for post in site.project %}
+  {% include project.html %}
+{% endfor %}
+
 # CRS
 Le projet CRS (Children Rehabilitation System) vise à développer un outil innovant pour la rééducation motrice chez l’enfant atteint de paralysie cérébrale. L’approche, se basant sur la réalité virtuelle et la ludification (serious game), propose l’intégration du numérique dans la prise en charge traditionnelle.
 
