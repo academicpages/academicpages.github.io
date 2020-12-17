@@ -1,6 +1,6 @@
 ---
 title: "NUMEN"
-fullname: "Intérêt des outils NUMériques pour faciliter l'ENtrée en institution des personnes âgées dépendantes"
+fullname: "Intérêt des outils NUMériques pour faciliter l ENtrée en institution des personnes âgées dépendantes"
 collection: projects
 link: numen
 excerpt: "Le projet NUMEN vise à faciliter l'institutionnalisation en EHPAD."
