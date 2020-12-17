@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Déborah FOLOPPE"
+  avatar           : "avatar.jpg"
+  bio              : ""
+  location         : ""
+  employer         : ""
+  pubmed           : ""
+  googlescholar    : ""
+  email            : "deborah.foloppe@univ-angers.fr"
+  researchgate     : https://www.researchgate.net/profile/deborah_foloppe
   uri              :
   bitbucket        :
   codepen          :
@@ -96,19 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "dfolop"
+  google_plus      : ""
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : ""
+  impactstory      : "" #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : ""
+  orcid            : https://orcid.org/0000-0001-8508-1572"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  stackoverflow    : "" # http://stackoverflow.com/users/123456/username
+  steam            : ""
+  tumblr           : ""
   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
+  about:
     output: true
     permalink: /:collection/:path/
 
