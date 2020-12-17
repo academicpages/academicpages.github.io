@@ -29,12 +29,13 @@
     <h2 class="archive__item-title" itemprop="headline">
        <a href="{{ base_path }}{{ post.url }}" rel="permalink">??{{ title }}</a>
     </h2>
-    {% if post.date %} <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: %Y }}</p>{% endif %}
+
+    {% if post.date %} <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: %Y }}</p>  {% if post.end %} - {{ post.end | date: %Y }}{% endif %}  {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">?? {{ post.excerpt | markdownify }}</p>
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-
+    {% endif %}
 
   </article>
 </div>
