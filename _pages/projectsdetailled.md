@@ -2,10 +2,12 @@
 layout: default
 title: "Projets"
 excerpt: "Projets"
-permalink: /
+permalink: /projects/
 author_profile: true
 ---
 
 {% for post in site.projects reversed %}
-  {% include project.html %}
+  {% if post.title == title %}
+    {% include projectdetailled.html %}
+    {% endif %}
 {% endfor %}
