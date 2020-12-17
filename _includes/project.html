@@ -34,16 +34,17 @@
       {% endif %}
     </h2>
 
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>
+      {{ post.date | date: %Y' }}</p>{% endif %}
+    {% if post.end %}{{ post.end | date: %Y' }}{% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    <p class="archive__item-excerpt" itemprop="description">?? {{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p> 
+      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+
 
   </article>
 </div>
