@@ -19,18 +19,11 @@
     <br/>
     <table>
       <tr>
-        <th colspan="3">{{ post.excerpt | markdownify }}</th>
+        <th colspan="3">{{ post.excerpt | markdownify }}
+        <br/><p class="text-right"><a href="/projects/"+" {{ post.link }} " class="btn btn-primary" role="button">Publications relatives</a></p>
+        <br/><p class="text-right"><a href="/projects/{{ post.link }} " class="btn btn-primary" role="button">Publications relatives</a></p>
+        </th>
       </tr>
-      <tr>
-        <th class="text-center" style="width:33.33%">{% if post.context %}<i class="fa fa-bullhorn fa-2x"></i>{% endif %}</th>
-        <th class="text-center" style="width:33.33%">{% if post.done %}<i class="fa fa-bolt fa-2x"></i>{% endif %}</th>
-        <th class="text-center" style="width:33.33%">{% if post.results %}<i class="fa fa-heart fa-2x"></i>{% endif %}</th>
-      </tr>
-      <tr>
-        <td><p>{% if post.context %}{{ post.context }} {% endif %}</p></td>
-        <td><p>{% if post.done %}{{ post.done }} {% endif %}</p></td>
-        <td><p>{% if post.results %}{{ post.results }} {% endif %}</p> <br/><p class="text-right"><a href="/publications#"{{ post.link }} class="btn btn-primary" role="button">Publications relatives</a></p></td>
-      </tr>
-    </table> 
+    </table>
   </article>
 </div>
