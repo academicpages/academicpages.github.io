@@ -6,7 +6,7 @@ excerpt: "Master's thesis"
 date: 2017-09-26
 year: '2017'
 venue: 'Padua Digital University Archive'
-authors: 'Leonardo Pacciani, Amos Maritan'
+authors: 'Leonardo Pacciani, Amos Maritan, Samir Suweis'
 paperurl: 'http://tesi.cab.unipd.it/57004/'
 ---
 
