@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include sidebar %}
-
 https://stuartgeiger.com/
 https://academicpages.github.io/talkmap.html
 
