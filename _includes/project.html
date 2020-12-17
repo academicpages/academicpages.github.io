@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2>{% if post.fullname %}<abbr title={{ post.fullname }}>{{ title }}</abbr>{% endif %}{% else %}{{ title }}</h2>
+    <h2>{% if post.fullname %}<abbr title={{ post.fullname }}>{{ title }}</abbr>{% else %}{{ title }}{% endif %}</h2>
     <span class="comment__date">{% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.begin | date: "%Y" }} - {{ post.end | date: "%Y" }} {% endif %}</span>
 
     <table>
@@ -39,9 +39,9 @@
         <th class="text-center" style="width:33.33%">{% if post.results %}<i class="fa fa-heart fa-2x"></i>{% endif %}</th>
       </tr>
       <tr>
-        <td><p>{% if post.context %}{{ post.context }} {% endif %}</p></td>
-        <td><p>{% if post.done %}{{ post.done }} {% endif %}</p></td>
-        <td><p>{% if post.results %}{{ post.results }} {% endif %}</p> <br/><p class="text-right"><a href="/publications#crs" class="btn btn-primary" role="button">Publications relatives</a></p></td>
+        <td><p style="vertical-align: top;">{% if post.context %}{{ post.context }} {% endif %}</p></td>
+        <td><p style="vertical-align: top;">{% if post.done %}{{ post.done }} {% endif %}</p></td>
+        <td><p style="vertical-align: top;">{% if post.results %}{{ post.results }} {% endif %}</p> <br/><p class="text-right"><a href="/publications#" class="btn btn-primary" role="button">Publications relatives</a></p></td>
       </tr>
     </table>
 
