@@ -28,7 +28,6 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
 <div class="{{ include.type | default: "list" }}__item">
   <article>
     <h2>{% if post.fullname %}<abbr title={{ post.fullname }}>{{ title }}</abbr>{% else %}{{ title }}{% endif %}</h2>
