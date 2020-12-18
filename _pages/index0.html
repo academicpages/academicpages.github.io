@@ -1,0 +1,750 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>LaTeXMathJax</title>
+<script type="text/javascript" src="latexmathjax.js"></script>
+<link rel="stylesheet" type="text/css" href="latexmathjax.css" /> 
+</head>
+<body>
+<div><pre class="LaTeX">
+\documentclass[12pt]{article}
+%100\%   % test comment removal
+\begin{document}
+
+\title{A Brief Description of LaTeXMathJax}
+\author{Peter Jipsen}
+\address{Chapman University}
+\date{Version: January 31, 2014}
+\maketitle
+
+\begin{abstract}
+This is a short article that illustrates those aspects of LaTeX
+that are transformed by LaTeXMathJax into a html plus MathJax format. While
+limited in scope, LaTeXMathJax nonetheless is capable of transforming a
+large subset of those elements found in a typical LaTeX article into a MathJax 
+empowered webpage. The goal of LaTeXMathJax is that of making pure latex 
+coding a "web-friendly" enterprise. A look at the HTML source of this page
+reveals that it is in fact almost completely written in LaTeX and transformed
+client-side into HTML+CSS+MathJax.
+\end{abstract}
+
+\section{Introduction}
+LaTeXMathJax is complete rewrite of
+\href{http://math.etsu.edu/LaTeXMathML/}{LaTeXMathML} by Jeff Knisley 
+(based on work of
+Douglas R. Woodall), which is itself an adaptation and extension of 
+\href{http://www1.chapman.edu/\~jipsen/asciimath.html}{ASCIIMathML}  
+by \href{http://www1.chapman.edu/\~jipsen}{Peter Jipsen}.
+Like ASCIIMathML, it transforms LaTeX code it finds among the HTML code 
+for a web page into MathJax-typeset equations.  This article is a brief
+introduction both to LaTeX and to how it can be used in conjunction 
+with LaTeXMathJax to include mathematics in all browsers that support
+MathJax.
+
+\subsection{A Brief Description}
+
+\label{Browsers} To use LaTeXMathJax, your web-page header needs to have the 
+following in the &lt;head&gt; of the webpage: 
+
+\texttt{&lt;script src="http://math.chapman.edu/\~jipsen/latexmathjax/latexmathjax.js"&gt;&lt;/script>
+
+&lt;link rel="stylesheet" type="text/css"\newline href="http://math.chapman.edu/\~jipsen/latexmathjax/latexmathjax.css" /&gt;}
+
+% <a name="download"></a>
+\subsection{Downloading LaTeXMathML}
+To download and use LaTeXMathML, you will need at least the Javascript .js file.  The CSS style sheet 
+is not involved in the typesetting of equations, but it is important for numbering equations, captioning 
+figures, and so on.  To download, right-click on the following links and choose "Save Target As...":
+\newline  \  \href{http://math.chapman.edu/~jipsen/latexmathjax/latexmathjax.js}{Link to latexmathjax.js Javascript Code}
+\newline  \  \href{http://math.chapman.edu/~jipsen/latexmathjax/latexmathjax.css}{Link to Standard Article Style Sheet}
+\newline
+If you download latexmathjax.js or latexmathjax.css, then the URL's in the script and link tags will need to point to the download locations.  
+
+\textbf{The remainder of this text is taken verbatim from Jeff
+Knisley's description of LaTeXMathML. Wherever ASCIIMathML is referenced, it
+should now be read as MathJax, and some of the metrial below does not apply
+to the current (mini) version of LaTeXMathJax.}
+
+\subsection{A Brief History}
+MathML is a low level mathematical markup language for the internet.  The "low level" 
+nature of MathML means that typesetting even the simplest expressions can be 
+quite involved. For example, typesetting the equation $y=x^2$ in MathML requires the following MathML structure:
+\begin{verbatim}&lt;math title="y=x^2">
+   &lt;mstyle&gt;
+      &lt;mi&gt;y&lt;/mi&gt;
+      &lt;mo&gt;=&lt;/mo&gt;
+      &lt;mrow&gt;
+         &lt;msup&gt;
+            &lt;mi&gt;x&lt;/mi&gt;
+            &lt;mn&gt;2&lt;/mn&gt;
+         &lt;/msup&gt;
+      &lt;/mrow&gt;
+   &lt;/mstyle&gt;
+&lt;/math&gt; \end{verbatim}
+However, the power and possible applications of MathML more 
+than justify its complexity. In the future, MathML will allow not only the 
+display of equations, but also their storage in databases, their mathematical 
+manipulation for research purposes, and alternative representations such as 
+for the handicapped or in other languages.  Indeed, many efforts are underway 
+to take advantage of MathML. 
+
+The low-level nature of MathML has also inspired many efforts to develop  
+higher level methods for encoding mathematical expressions into MathML. 
+Most notable for this project is 
+\href{http://www1.chapman.edu/\~jipsen/asciimath.html}{ASCIIMathML}  
+by \href{http://www1.chapman.edu/\~jipsen}{Peter Jipsen} of Chapman
+University, upon which LaTeXMathML is based. Dr. Jipsen's excellent tool
+allows certain text codes in html-encoded web pages to be transformed
+"on the fly" into MathML equivalent
+syntax. The 
+\href{http://www1.chapman.edu/\~jipsen/asciimath.html}{ASCIIMathML}
+javascript file is now one of several similar
+technologies by Peter Jipsen that do everything from graphing to
+implementing a personal wiki.
+
+Having noticed that some ASCIIMathML codes are similar to LaTeX codes and
+motivated out of a desire for a more LaTeX-like experience, Dr. 
+\href{http://www.maths.nottingham.ac.uk/personal/drw/}{Douglas R. Woodall}
+of the University of Nottingham transformed ASCIIMathML into the original 
+\href{http://www.maths.nottingham.ac.uk/personal/drw/lm.html}{LaTeXMathML} 
+which accomplishes the same task as Dr. Jipsen's ASCIIMathML but does so 
+strictly with LaTeX codes. At about the same time, Dr.
+\href{http://www.math.wisc.edu/\~ram/}{Arun Ram} of the University of Wisconsin
+developed the 
+\href{http://www.math.wisc.edu/\~ram/MathGlossary/mathmlguide.xml}{mathmlguide} 
+which suggests standard practices for
+using html/xml+css+mathml in producing web-based mathematics (supported in
+part by the National Science Foundation under Grant No. DMS-0353038 ). 
+
+The present version of LaTeXMathML extends the original to allow simple
+LaTeX articles to be transformed to html+css+mathml in accordance with (much
+of) the mathml style guide.  It was produced by Dr. Jeff Knisley, from
+East Tennessee State University, and supported in part by a Howard Hughes
+Medical Institute initiative called the 
+\href{http://math.etsu.edu/Symbiosis/}{Symbiosis Project} ( HHMI #52005872). 
+This short article is an introduction to LaTeXMathML. The second section explores 
+the typesetting of simple mathematical expressions. The third section describes
+the larger "logical" structures--in particular, the 
+\texttt{\begin...\end} structures
+supported by LaTeXMathML--and the fourth section describes the interplay between
+traditional html formatting and the LaTeXMathML script. 
+
+\section{Mathematical Expressions} % blank line after \section inserts additional space
+At the heart of both ASCIIMathML and LaTeXMathML is the desire to transform
+LaTeX-encoded mathematics into mathml equivalent structures. For
+example, the LaTeX code \texttt{\$y=x^2\$} is transformed
+into the mathml typeset expression $y=x^{2}$. 
+
+LaTeX coding of mathematics is for the most part straightforward and
+logical. Inline mathematics is placed between dollar signs, as above,
+while displayed equations can be structured in several ways (details later). 
+A relatively simple approach to displayed equations is to use either
+\$\$ ... \$\$ or  \textbackslash[  ...  \textbackslash], where ... represents
+the LaTeX codes for the math to be displayed. 
+For example, the following is a displayed equation set off by \textbackslash [ 
+and \textbackslash ]: 
+\[ x\left( x-1\right) =x^{2}-x \]
+
+The LaTeX code for most mathematical objects includes a "backslash" before
+the name of the object. For example, the Greek letter "alpha" is entered as 
+\texttt{\alpha}, which is subsequently rendered as
+$\alpha$. Some objects, such as fractions and square roots, require other
+mathematical objects. These follow immediately after the object name and are
+enclosed using braces {  }.  For example, the upper $\frac{1}{2}$ of the unit
+circle is encoded by \texttt{\$\$y=\sqrt{1-x^2}}\texttt{\$\$},
+which results in $$y=\sqrt{1-x^{2}}$$ 
+There are few exceptions to this simple approach, so that LaTeX encoding of
+mathematics depends in great part on knowing the codes for the mathematical
+objects to be so rendered. A list of many common objects is given at 
+\href{http://www.maths.nottingham.ac.uk/personal/drw/lm.html}{LaTeXMathML}. 
+
+Mathematical groupings are an important part of mathematical formatting.
+Grouping in LaTeX is accomplished using the \left and \right structures. 
+For example, the expression on the right below uses the \left(...\right) structure, 
+while the one on the left does not. % Creates a comment until end of line! 
+\[
+\frac{d}{dx}(\frac{x^{2}}{\sqrt{1-x^{2}}}) \quad  \text{or} \quad \frac{d}{dx}\left( 
+\frac{x^{2}}{\sqrt{1-x^{2}}}\right) 
+\]
+Also, an empty line indicates to LaTeX that a new paragraph should begin.  YOU SHOULD AVOID 
+EMPTY LINES INSIDE EQUATIONS!!!  
+
+Another way of organizing and grouping mathematical objects is via an array
+structure.  In LaTeX, arrays are produced using the 
+begin{array}{aligncode}...\end{array} structure, as is the
+case with the rotation matrix below:  
+\[
+R\left( \theta \right) =\left[ 
+\begin{array}{cc}
+\cos \left( \theta \right)  & -\sin \left( \theta \right)  \\ 
+\sin \left( \theta \right)  & \cos \left( \theta \right) 
+\end{array}
+\right] 
+\]
+Moreover, combinations of \left...\right and arrays can be used to create a large number of
+mathematical structures, such as a representation of a piecewise-defined
+function. Below is an example for the \emph{characteristic function} of an
+interval $\left[ a,b\right]$.  
+\textbf{NOTE: You MUST USE \lt for "less than" and \gt for 
+"greater than" because the symbols > and < are used to form HTML tags.}
+\[
+\chi _{\left[ a,b\right] }\left( x\right) =\left\{ 
+\begin{array}{ccc}
+1 & \mbox{if} & a\leq x\leq b \\ 
+0 & \mbox{if} & x \lt a ~ \mbox{or} ~ x\gt b
+\end{array}
+\right. 
+\]
+
+There are many guides to LaTeX coding that are readily available, including 
+\cite{LaTeXMathMLcite} and  the beginner's tutorial by 
+\href{http://ctan.tug.org/tex-archive/info/lshort/english/lshort.pdf}{Tobias Oetiker et al}, 
+which also comes in a number of 
+\href{http://ctan.tug.org/tex-archive/info/lshort/}{different translations}.
+For a quick, high-level overview of the history, power, and purpose of
+LaTeX, see 
+\href{http://www.techscribe.co.uk/ta/latex-introduction.pdf}{Mike Unwalla's one-page 
+description} 
+in the 2006 'Communicator'. There is also a
+\href{http://en.wikibooks.org/wiki/LaTeX}{LaTeX wikibook} .
+
+Finally, the free download 
+\href{http://www.dessci.com/en/products/texaide/}{TeXaide} from Design Science 
+provides a ``point and click'' method for producing LaTeX codes for 
+mathematical expressions. They can be ``cut and pasted'' into web pages
+ like this one that are to be transformed using LaTeXMathML.   
+
+\section{Larger Structures}
+Mathematics is communicated not only through symbols and expressions, but also through 
+larger logical structures such as arrays of equations, numbered equations, definitions,
+theorems, and examples. LaTeX can implement practically any such logical structure, but 
+LaTeXMathML implements only a subset of the LaTeX structures and leaves the rest to 
+html and css implementation.
+
+Let's take a look at the logical structures provided by LaTeXMathML using a
+top-down approach.  To begin with, we can place title, authors, addresses,
+and date at the beginning of a web page, along with an abstract and
+keywords.  The next level of structure is the section, which we have
+already seen, followed by subsections and subsubsections.  For example, 
+the phrase ``Begin...End Structures'' below is the title of a subsection.
+
+\subsection{Begin...End Structures}
+After the section, subsection, subsubsection
+structures, the next level of structure are the \begin ... \end structures 
+known as \emph{environments.} LaTeXMathML implements the following environments:
+itemize, enumerate, figure, definition, proposition (a short, nearly obvious theorem), 
+lemma (a result that precedes a proof of a theorem), theorem, proof,
+corollary (follows immediately from a theorem), example, and exercise.  
+
+Let's explore environments by developing the ``theory'' of when two measured 
+quantities are commensurate with one another (i.e., rationally related). 
+% To end of line is comment. A line with only space starts a new paragraph 
+\begin{definition}
+Let us define a variable $A$ to be commensurate with a variable $B$ if there
+exist non-zero integers $m,n\in \mathbb{Z}$ such that $$ mA=nB.$$
+\end{definition}
+
+Notice that environments can contain both inline and displayed equations. 
+They can also contain html coding (later). Moreover, the following
+\ % a single backslash surrounded by space inserts a non-breaking space, so line is not empty  
+proposition should be immediate. 
+% Do not use multiple \ for spacing (i.e., no \ \ \ ).  Use actual spacing commands.
+\begin{proposition}
+$A$ is commensurate with $B$ if and only if $B$ is commensurate with $A.$ 
+\end{proposition}
+ 
+\begin{proof}
+Follows immediately from the fact that $mA=nB$ is the same as $nB=mA$
+(reflexivity of equality). 
+\end{proof}
+
+The structure after the proposition environment is the \emph{proof}
+environment. Environment and section styles are controlled using CSS style
+sheets. The default is latexmathjaxmini.css, which adds the 
+structure ``\textbf{Proof:}'' at the beginning of the environment and the 
+block at the end. The css style sheet can be edited to change this rendering. 
+% 
+\begin{proposition}
+Integer coefficient linear combinations of commensurate variables are
+commensurate to both variables.
+\end{proposition}
+
+\begin{proof}\label{NoEQN}
+If $nA=mB$ for $m,n\in \mathbb{Z}$ and $C=jA+kB$ for $j,k\in \mathbb{Z}$,
+then 
+\begin{eqnarray*}
+mC &=&jmA+kmB \\
+&=&jmA+knA \\
+&=&A\left( jm+kn\right) 
+\end{eqnarray*}
+which completes the proof since $\left(jm+kn\right)\in\mathbb{Z}$
+\end{proof}
+
+Also, by default, all numbering is by section count and environment count
+once a section has been defined (and is only by environment count if no
+sections are used). To the extent allowed by a given browser's CSS support,
+this numbering scheme can be modified to include subsections,
+subsubsections, and other features. The lemma, theorem, corollary, example,
+and exercise environments are similarly employed. 
+
+\subsection{Equation Arrays and Numbering}
+There are many different ways of producing displayed equations, such as
+using double dollar signs, using backslash bracket
+combinations, or using any of the \emph{displaymath, equation, equation*,
+eqnarray, }or \emph{eqnarray*} environments. The equation and eqnarray
+environments generate numbers, while the other
+environments (the starred, in particular) do not \emph{unless they contain a
+label} (more later). 
+
+Eqnarrays are used to define arrays of equations, which are arrays of rows
+with each row containing the same number of elements. Elements in each row
+are separated by ampersands &, and rows are separated using 
+\\
+
+\begin{lemma}
+The variables $A$ and $A^{2}$ are not commensurate.
+\end{lemma}
+
+\proof  The key here is that $A$ and $A^{2}$ can
+vary, meaning their values are not fixed. Thus, given any fixed $m$ and $n,
+$ we have  
+\begin{eqnarray}
+mA &=& nA^{2}  \\
+mA-nA^{2} &=&0   \\
+A\left( m-nA\right)  &=&0  
+\end{eqnarray}
+which implies that $A=\frac{m}{n}$ is constant.\endproof
+
+Here we see three new features -- namely, the old style proof and endproof
+objects (in contrast to the proof environment).  Specifically, 
+\textbackslash proof creates the word "Proof:" and 
+\textbackslash endproof creates a black box. 
+
+Also, the proof above includes a numbered eqnarray structure, one we will 
+refer back to later. The number exists because it contains a \emph{label}. 
+Labels mark points in a document that we want to refer back to later 
+(using the \ref{..} structure ). In contrast, the eqnarray structure in 
+the \href{#NoEQN}{proof} of Proposition 3.2 does not include a number. 
+ 
+Notice that \textbf{to this point, there are no errors in entering LaTeX
+codes}. Unlike a LaTeX compiler which stops when it encounters an error,
+the LaTeXMathML script keeps plugging away (hopefully) as best as it can. 
+For example, if we incorrectly had entered \endpproof, then
+LaTeXMathML leaves it as it found it while a traditional LaTeX compiler
+might stop compiling and ask for guidance. 
+
+While convenient given small errors and simple documents, LaTeXMathML's tendency 
+to "keep on going" may make errors more difficult to locate, especially in 
+larger structures.  It may thus be advantageous to make sure the document 
+compiles as traditional LaTeX first. 
+%   
+\begin{theorem}
+The product of commensurate variables is not commensurate with either
+variable.
+\end{theorem}
+%    
+\begin{proof}
+If $A$ and $B$ are commensurate, then $\exists m,n\in \mathbb{Z} \ni mA=nB$. 
+Since we can write 
+$$
+4AB=\left( A+B\right) ^{2}-\left( A-B\right) ^{2} 
+$$
+the quantity $4AB$ is commensurate to the combination of $\left( A+B\right)
+^{2}-\left( A-B\right) ^{2}.$ The lemma implies that $\left( A+B\right) ^{2}$
+is not commensurate to $A+B,$ and a calculation similar to 
+(\ref{LemmaEquationArray}) shows that the combination is not commensurate 
+to any linear combination of $A$ or $B,$ thus proving the theorem.
+\end{proof}
+
+Again, we see two more structures -- namely, the displaymath environment that
+does not number the equation (unless it contains a label) and the ref
+command which points back to the eqnarray in the lemma (REF COMMANDS ARE
+CASE\ SENSITIVE).  Clicking on the ref will move the page focus to that
+equation, and the browser back button will move it back. 
+
+\subsubsection{More with Labels, References, and Citations}
+A label can also be placed into any \begin..\end structure, and if a 
+counter scheme exists for that structure, then a ref will display that value.  
+For example, the second corollary below contains a label that is ref'ed in the 
+example that follows.   
+
+\begin{corollary}
+The $n^{th}$ root, $n \ne 1,$ of a variable is not commensurate with the original variable.
+\end{corollary}
+
+\begin{corollary}
+\label{CorollaryLabel}The ratio of commensurate variables is not
+commensurate with either variable.
+\end{corollary}
+
+We omit the proofs because we want to point out the label in the corollary --
+and that the default numbering does not reference the subsection
+(but can be changed with appropriate CSS if supported). 
+
+\begin{example}
+Suppose \label{theexample} a factory makes different sizes of square sheets of paper, and
+suppose that $S$ denotes the length of a side of a given square sheet 
+\textbf{in centimeters} and $T$ denotes the length of a side of a given
+square \textbf{in meters.} Then $S=100~T,$ so $S$ and $T$ are commensurate.
+However, if a sheet of paper is exactly $\sqrt{2}$ cm in length, then its
+area is $2$ $cm^2$, and there is no way to rationally relate $\sqrt{2}$ to 
+$2.$  Thus, $S^{2}$ and $S$ are not commensurate (because the measurements
+themselves need not be rational numbers!). Also, notice that the word
+variable in Corollary \ref{CorollaryLabel} is of key importance, since 
+\[
+\frac{S}{T}=100\quad \text{is constant}.
+\]
+\ 
+\end{example}
+
+The reference back to the Corollary is a link with the Corollary's number.  
+In the last equation, we use space-creating objects like 
+quad and \~. Also, each backslash surrounded 
+only by text inserts a single space.
+
+Referencing an item in the bibliography is done using the \textbf{cite}
+command.  It works like a ref, only it shows the bibliographic entry
+heading for an item in the references, which can be either numerical or a
+label.  For example, for more information on commensurate variables, see
+\cite{CCM}. (Given appropriate CSS support and a couple of LaTeXMathML.js
+modifications, Harvard style citations could be easily produced). 
+
+\section{LaTeXMathML and HTML}
+It is possible to use HTML instead of LaTeX to create structures. For example, both this 
+\href{#LemmaEquationArray}{LateX Link} and this <a href="#LemmaEquationArray">HTML</a> 
+link point back to the equation array in the lemma above.  We've also seen html and 
+LaTeX working together via the html "pre" tag. 
+
+It is imperative, however, that ONLY LATEX CODES ARE USED IN
+FORMATTING LATEX EQUATIONS.  For example, we cannot use an html "bold" tag to
+create bold inside an equation array. Instead, we would need
+to use \\textbf{bold text}. However, html tags 
+can be used inside of non-equation, non-table, and non-figure environments. 
+
+\subsection{Figures and Tables}  
+Figures and tables can be typeset using either LaTeX or HTML.  Below is an example 
+in which the first image is via the html img tag, while the second uses the figure
+environment. 
+
+\begin{exercise}
+Suppose the figure below was drawn on a rubber sheet which is stretched uniformly 
+in all directions. 
+<p align='center'>
+<img src="EquilateralTriangle.gif" border = 1 
+style="border-color:brown;background-color:#e1eeee"                    
+title="Image for this exercise" alt="Sorry, image didn't load."></p>
+The labeled quantities vary as the rubber sheet is
+stretched. Which of these labeled quantities are commensurate with each other?
+\end{exercise}
+
+\begin{exercise}
+Which products of variables are commensurate in Figure \ref{Exercise2Image}?
+\begin{figure}
+\label{Exercise2Image}
+\includegraphics{EquilateralTriangle.gif}
+\caption{Same image as above}
+\end{figure}
+\end{exercise}
+
+As these examples show, the html image can include img style properties (such 
+as a border).  However, we have no means of numbering or referencing
+the image by number. The LaTeX version allows no image styles but does provide 
+a straightforward means of labeling and captioning the image.
+
+Tables can be defined using either HTML or LaTeX.  We will only consider the LaTeX table structure
+here, which must contain \textbf{only} LaTeX code (no html) and \textbf{only} inline math.   
+
+\begin{verbatim}
+\begin{table}
+  \begin{tabular}{lcr}
+    First  & $x^2+y^2$ & $\frac ab$ \\
+    Second & 0 & Table Cell \\
+    Third  & $y=\sqrt{1-x^2}$ & End 
+  \end{tabular}
+  \caption{This is a LaTeX Table}
+\end{table}
+\end{verbatim}
+
+The resulting table is shown below: 
+\begin{table}
+\begin{tabular}{lcr}
+First  & $x^2+y^2$ & $\frac ab$ \\
+Second & 0 & Table Cell \\
+Third  & $y=\sqrt{1-x^2}$ & End 
+\end{tabular}
+\caption{This is a LaTeX Table}
+\end{table}
+
+Only simple table structures are supported--hlines and vertical bars are ignored.  However, tables
+are of the class LaTeXtable and each has a unique id of LaTeXtable#, where # is a positive integer, 
+so that CSS styles can be applied to any or all of the tables.  Also, the 
+\\displaystyle
+command will cause inline mathematics to be typeset as if displayed.      
+
+\subsection{Lists and Colors}  
+Similarly, numbered and bulleted lists can be rendered using either LaTeX or HTML, 
+and in both cases, items in the list can contain inline math, displayed math, or 
+just about anything. For example, first let's consider the LaTeX \textbf{enumerate} environment
+\begin{enumerate}
+   \item First Numbered Item
+   \item Second Numbered Item
+      \begin{enumerate}
+         \item Second Item Sublist one with equation 
+	       \[ \frac {\pi^n-1} {\pi-1} = \sum_{j=0}^{n-1} \pi^j \] 
+	       where $\pi = 3.14159\ldots$. 
+         \item Second Item Sublist Two
+      \end{enumerate}
+   \item Third Numbered Item
+\end{enumerate}
+Now let's look at the LaTeX \textbf{itemize} environment:
+\begin{itemize}
+   \item First bulleted item
+   \item Second bulleted item
+   \item Bulleted item C
+\end{itemize}  
+These can be easily reproduced using the HTML ol (ordered list) and ul (unordered list) 
+environments. The list above is reproduced below using the ul tag. 
+<ul>
+   <li> First bulleted item </li>
+   <li> Second bulleted item </li>
+   <li> Bulleted item C </li>
+</ul> 
+However, html lists can be modified almost indefinitely using CSS (or xsl) methods, can 
+include a header, and can contain custom bullets! For example, below is the HTML list 
+again, this time with a happier set of bullets!
+<ul>
+   <lh> Header for the HTML bulleted List</lh>
+   <li style="list-style-image: url('smileygrin.gif')"> First bulleted item </li>
+   <li style="list-style-image: url('smileyface.gif')"> Second bulleted item </li>
+   <li style="list-style-image: url('smileycool.gif')"> Bulleted item C </li>
+</ul> 
+
+Both LaTeXMathML and HTML allow the use of color.  In LaTeXMathML, non-math text is colored using 
+\textcolor{TheColor}{text to be colored}.
+For example, \textcolor{blue}{this text is blue} and \textcolor{magenta}{this text is magenta}. The background
+ of non-math text is colored using 
+\colorbox{TheColor}{text to be background colored}.
+This is sometimes known as \colorbox{yellow}{Highlighting!}
+
+The \textit{textcolor} and \textit{\colorbox} commands can be used inside of equations.  Also, the color of an entire equation
+can be set using the \color command inside the equation. For example, the LaTeX code   
+
+\textbackslash [ \int_a ^b \color{#FF0000} f^{\prime}(x)\, dx = f(b) - f(a), \newline
+\textbackslash qquad \color{green}{\colorbox{yellow}{FTOC I}} \textbackslash ]
+
+is rendered as
+\[ \int_a ^b \color{#FF0000} f^{\prime}(x)\, dx = f(b) - f(a), 
+\qquad \color{green}{\colorbox{yellow}{FTOC I}} \]  
+A list of allowable color names is included in the appendix. No error checking to insure valid colors is performed.
+
+<a name="IEusage"></a>
+\subsection{Coordinating LaTeX and HTML:  Internet Explorer}  
+LaTeXMathML allows the coordination of LaTeX and HTML in a MathML compliant browser (see \ref{Browsers}).  
+It is important to remember that LaTeXMathML is designed primarily for rendering local mathematical structures, 
+and thus, it should not be used in place of HTML and CSS styling.  In fact, LaTeXMathML maps well-defined, larger 
+LaTeX structures into HTML structures so that HTML/CSS can be used as the larger formatting engine.  Because there is 
+no way of knowing beforehand what types of html and/or math structures a textcolor or colorbox structure might contain, 
+the use of \textit{textcolor} and  \textit{colorbox} in LaTeXMathML should not encompass mixtures of text and equations 
+(unless inside an equation themselves).  Likewise, the \textit{textit}, \textbf{textbf}, and similar commands are 
+limited to arguments with text only, so that for example the nesting of textcolor and textit commands will 
+not produce the expected results outside of an equation structure.
+
+An alternative is to embed html commands in LaTeX comments, where a LaTeX comment is any text between a percent sign and 
+the end of a line. For example, 
+
+%&lt;font color="blue"&gt;
+
+ The measures $a$ and $b$ are commensurate if $\frac a b$ is rational.
+
+%&lt;/font&gt;
+
+renders as 
+%  <br><font color="blue"> 
+ The measures $a$ and $b$ are commensurate if $\frac a b$ is rational.
+%  <br></font> 
+This will also compile in a LaTeX compiler, although the color information is in HTML 
+and will not be used by a LaTeX compiler.
+
+Another alternative is to place LaTeX directly into an HTML "container" (div, pre, p, etcetera) whose class is \textbf{LaTeX}.  
+The LaTeXMathML script checks for such containers, and if none exist, then it assumes it should transform the 
+entire web page.  If such a "Container" does exist, however, then it will transform LaTeX into MathML+HTML+CSS only
+within those containers.  
+
+For example, in order for LaTeX comments and whitespace to be transformed correctly within Internet Explorer, 
+any code to be transformed should be place within an html "div" tag which is itself within an html "pre" tag 
+with a class of "LaTeX", as shown below:
+
+&lt;pre class="LaTeX"&gt; &lt;div&gt;
+  LaTeX code to be transformed by LaTeXMathML 
+&lt;/div&gt;&lt;/pre&gt;
+
+This web page contains 3 such structures -- the first beginning before the title and ending below this line,
+</pre>
+
+
+<pre class="LaTeX">the second inside of a "font" tag which turns this text red,
+</pre>
+but which does not include this text so that LaTeX such as $y=x^2$ is not transformed 
+into MathML, and the third from 
+
+<pre class="LaTeX"></pre>
+
+<pre class="LaTeX">
+here to the end of the page. The second actually uses a "span" instead of a "div", in the form
+
+\begin{verbatim}
+&lt;font color="red" &gt;
+   &lt;pre class="LaTeX"&gt; &lt;span&gt;
+     the second inside of a "font" tag which turns this text red 
+   &lt;/span&gt;&lt;/pre&gt;
+&lt;/font&gt;
+\end{verbatim}
+
+A simple script can be used to obtain only the code inside of LaTeX class containers before compiling 
+with a LaTeX compiler. This allows LaTeX and HTML to be mixed meaningfully on a web page in a way 
+that does not interfere with LaTeX compiling of the LaTeX on the page. Also, the pre-div structure
+allows LaTeXMathML to overcome some (but not all) of the shortcomings of Internet Explorer. (\textbf{Note:} I
+have not yet written such a script, but doing so is very straightforward).    
+
+
+\section{Future Directions}
+The goal of LaTeXMathML is that of making pure latex coding a "web-friendly" enterprise. In particular, 
+LaTeX differs enough from html and xml to allow it to be nearly seamlessly
+incorporated into the web environment. 
+Thus, the ideal for LaTeXMathML  is as an engine that 
+ \begin{itemize}
+ \item maps LaTeX structures to html and/or MathML structures and 
+ \item uses CSS style files for styling (in parallel to .sty files in LaTeX). 
+ \end{itemize}
+Unfortunately, browser support for
+CSS2 is problematic at best, and support for CSS3 is non-existent, so that in the
+present effort, many features are not CSS by default. To the extent
+that support exists, CSS features can be enabled by modifying the
+LaTeXMathML.standardarticle.css style sheet (see stylesheet comments for
+details). 
+
+There are bound to be many, many errors produced by this effort, some of which are
+due to inconsistencies across browsers.  Fortunately, there are alternatives to 
+LaTeXMathML, although each with their own sets of advantages and disadvantages 
+(for example, LaTeX variants such as \cite{Itex2MMlcite} and \cite{TTMcite} ).
+Also, many of the implementations (tables, for example) are limited in scope. 
+
+One important issue that should be addressed is that LaTeX documents are
+typically much, much longer than a typical webpage.  A way to address this
+might be to develop collapsing sections.  This could be accomplished by mapping 
+sections into "divs" and allowing the always-visible headings to toggle between
+displayed and not-displayed.  This would have the added benefit of
+allowing LaTeXMathML.js to work on a section-by-section basis and give the
+appearance of accelerated rendering.  
+
+Another important issue is CSS versus XSL.  The choice of CSS over XSL is due
+to the mathml guide and to the familiarity many users may have with CSS.  
+Browser support for CSS is poor but hopefully improving (many improvements have 
+already been made on an ad-hoc basis -- see, for example, \cite{IE7cite}, which I have
+yet to get to work with the latest version of IE but which has worked in the
+past).  Enabling commented items in the LaTeXMathML.standard.css stylesheet
+will allow Firefox to use CSS for all features -- including counters -- 
+except for cites and references.  
+
+As a mathematician, I try to always keep in
+mind that it is the mathematics that is most important and
+not the formatting itself. But as a colleague once noted,
+"If formatting wasn't important, all our journals would be Xerox copies of
+legal pads." Hopefully, LaTeXMathML can be a tool that allows us to focus on
+mathematics and yet enables us to use the power of the internet in communicating
+that mathematics to ourselves and others.    
+
+\textbf{Note: }Click \href{torturetest.htm}{here} for LaTeXMathML Torture test. 
+
+
+\begin{thebibliography}{9}
+\bibitem{Doob} Doob, Michael. \textit{A Gentle Introduction to LaTeX: A Manual for Self-study}, Department of Mathematics, The University of Manitoba
+Winnipeg, Manitoba, Canada, \url{http://ctan.tug.org/tex-archive/info/gentle/gentle.pdf}
+\bibitem{IE7cite}Edwards, Dean. \textit{IE7}, March, 2007, \url{http://dean.edwards.name/IE7/}
+\bibitem[[Itex2MMl]]{Itex2MMlcite}Gartside, Paul. \textit{Itex2MML}, Department of Mathematics, University of Pittsburgh, March 2001,    \url{http://pear.math.pitt.edu/mathzilla/itex2mml.html}
+\bibitem[[TTM]]{TTMcite}Hutchinson, Ian. \textit{TTM, A TeX to MathML Translator}, \url{http://hutchinson.belmont.ma.us/tth/mml/}
+\bibitem{x} The LateX Project. \url{http://www.latex-project.org/intro.html} 
+\bibitem[[LaTeXMathML]]{LaTeXMathMLcite}Woodall, Douglas R. \textit{LaTeXMathML}, School of Mathematical Sciences, the University of Nottingham,  University Park, Nottingham, \url{http://www.maths.nottingham.ac.uk/personal/drw/lm.html}
+\bibitem{CCM}Wikipedia contributors. \textit{Commensurability (mathematics)}, Wikipedia, The Free Encyclopedia,10 May 2007, retrieved on 25 May 2007, 
+\url{http://en.wikipedia.org/w/index.php?title=Commensurability_\%28mathematics\%29}, Page Version ID: 129899760 
+
+\end{thebibliography}
+
+\
+
+There is also a simple appendix system using the appendix command (used only once):
+\appendix
+
+\section{Technical Appendix}
+Below are a few insights into the inner workings of LaTeXMathML.js for those
+who might want to modify it, as well as some information about the CSS used
+in LaTeXMathML.standardarticle.css.
+
+\subsection{A Brief Description of LateXMathML.standardarticle.css}
+In extending LaTeXMathML, an attempt was made to match structures in LaTeX with their most natural 
+counterparts in html (in particular, in the document object model).  Thus, sections, subsections, 
+and subsubsections are mapped to headings H2, H3, and H4 (as was done in the mathmlguide), while 
+labels, references, and citations are mapped to anchors--i.e., the "a" tags.  Environments are 
+mapped to DIV elements, while figures and displayed equations are mapped to html tables in order to 
+accommodate numbering and captions.  Script Generated text--such as numbers and the word "references" 
+are placed into "span" elements.  This means that if pseudo-classes and CSS counters are to be used, 
+the script generated text can be suppressed by setting 
+\begin{center}
+  span.environment { display: none }
+\end{center}
+in the .css style file.  
+
+The relevant CSS classes are classified according to dom element type in the html table below.  
+The Divs and Counters column identifies elements that have countered associated with them.  In the CSS 
+counter specifications, the counter names are the same as the classNames.
+
+<table class="LaTeXtable">
+ <tr>
+  <td>    Divs       </td><td>Divs & Counters</td><td>Tables         </td><td>    Other   </td>
+ </tr>
+ <tr>
+  <td>   title       </td><td>definition     </td><td>displayequation</td><td>section = H2  </td>
+ </tr>
+ <tr>
+  <td>   author      </td><td>proposition    </td><td>figure         </td><td>subsection = H3  </td>
+ </tr>
+ <tr>
+  <td>   address     </td><td>lemma          </td><td>LaTeXtable         </td><td>subsubsection = H4  </td>
+ </tr>
+ <tr>
+  <td>   date        </td><td>theorem        </td><td>&nbsp;         </td><td>itemize = ul  </td>
+ </tr>
+ <tr>
+  <td>   abstract    </td><td>corollary      </td><td>&nbsp;         </td><td>enumerate = ol  </td>
+ </tr>
+ <tr>
+  <td>   keyword     </td><td>example        </td><td>&nbsp;         </td><td>ref = a  </td>
+ </tr>                              
+ <tr>
+  <td>thebibliography</td><td>exercise       </td><td>&nbsp;         </td><td>cite = a  </td>
+ </tr>
+</table>
+
+The itemize and enumerate lists are embedded in "itemize" and "enumerate" divs.  In addition, several elements are identified as being of type 'LateXMathML', primarily for the purpose of CSS specifications. 
+
+A typical dom configuration for a div and counter CSS class is for a div with the given className to have an anchor as its first child and a span as its second child, both of the same classname.  The anchor exists for the purpose of numbering the div, and refs and cites point back 
+to that anchor, while the span contains the script-generated content and number for that div.  The anchor itself contains a span of the same className that contains the number of the div; its display is set to 'none' to keep it from appearing, but instead it is used to supply content to the refs and cites. 
+
+Thus, setting all LaTeXMathML associated spans to display:  none effectively turns off the script generated content, which is necessary if ;before and :after pseudo-tags are going to be used for CSS numbering instead.  However, the refs and cites will also be affected (i.e., they will "disappear") if span.cite and span.ref display is set to none.  If ref and cite spans are not set to display: none, then they will point to the script generated numbering (and not to the CSS generated numbers).  
+
+For non-IE browsers such as Firefox, a workable CSS scheme would be to set all spans to display:none except for the refs and cites, thus allowing custom numbers and headings for LaTeX environments.  If and when CSS3 'target-counter' becomes widely available, then all spans could be set to none and all numbering/cross-references could be handled with CSS.
+
+\subsection{Brief Description of LaTeXMathL.js}
+LaTeXmathML.js consists of two independent sections.  The first is essentially ASCIIMathML as modified by Douglass Woodall.  To incorporate the larger LaTeX 
+structures, I added a "pre-processing" section which essentially organizes and prepares the document for translation by Woodall's original LaTeXMathML adaptation of ASCIIMathML.  
+
+The preprocessing components are \textbf{LaTeXpreProcess} and \textbf{LaTeXDivsAndRefs}.  The first component, \textbf{LaTeXpreProcess}, begins by traversing the dom until non-textarea, non-pre, and non-processed  text elements are located.  These text nodes are split into displayequation and non displayequation segments.  The displayequation segments are placed into tables and optionally numbered, and the surrounding tags are prepared for processing by the original LaTeXMathML code (everything above and 
+<span lang="en-us"></span>below the two components).  The non-display segments are split into LaTeX versus non-LaTeX structures, and then html equivalents are generated, except that begin, end, labels, refs, and cites are marked with div elements (but not processed any further at this time).  This is because the begin and end for an environment may be separated inside the dom.   Nonetheless, begin, end, and labels will necessarily be siblings, thus allowing a post processing (LaTeXDivsAndRefs) to collapse dom nodes between begin..end 
+siblings into a single div element.  Also, the span elements inside of div numbering anchors are cloned and placed inside of appropriate refs and cites. 
+
+Finally, there are a few lines of code necessary because of browser issues with Internet Explorer.  These can be identified using the code which begins "if(isIE)".  If and when explorer addresses its shortcomings (or possibly with something like \cite{IE7cite} ), these code sections can be removed.  
+\end{document}
+</pre>
+</body>
+</html>
+

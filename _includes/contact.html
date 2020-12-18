@@ -1,4 +1,3 @@
-
 <div class="{{ include.type | default: "list" }}__item">
   <article>
     <h2>{% if post.fullname %}<abbr title={{ post.fullname }}>{{ title }}</abbr>{% else %}{{ title }}{% endif %}</h2>
@@ -22,8 +21,7 @@
             <td><a href="{{ base_path }}/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i></a></td>
             <td>{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</td>
         </tr>
-      {% endif %}
-
+      {% endif %} 
     </table>
   </article>
 </div>
