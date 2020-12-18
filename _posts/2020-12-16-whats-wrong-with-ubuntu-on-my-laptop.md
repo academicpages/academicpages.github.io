@@ -30,7 +30,6 @@ Con's of Linux-land:
     - Swipe gestures to go forward/back in my web browser. Apparently there's a
       [Chrome extension](https://chrome.google.com/webstore/detail/swipe-gesture/mgegfjnccpnkdppohmfgnjalkediapkc)
       that kind of does this, but not well enough to be seamless.
-    - My microphone never worked, even when I plugged in external ones. Something weird there.
     - Windows and ChromeOS use the same keystroke (Ctrl+Tab) to move between
       browser tabs and terminal tabs. Weirdly, in Ubuntu, the terminal tabs
       need Ctrl+PageUp, which I find tremendously unnatural. For reasons I had to dig
@@ -40,6 +39,9 @@ Con's of Linux-land:
   going to be that much of a pain, I'd rather just fire up Windows instead.
   (Google Drive has gotten really close, so that I know edit even my `.docx`
   resume in Drive. But it's not sufficiently seamless to collaborate.)
+- There's no Google Drive backup program. For most things, it's OK to use the
+  online interface, but I still like the idea of being able to interact with my
+  files locally.
 
 I recognize that these are such small things (aside from Office software!) that
 I might be able to hunt around among other distros to get a better experience.
