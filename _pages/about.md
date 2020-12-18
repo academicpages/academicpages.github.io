@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2020 - Recognized as an [Outstanding Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf#page=29) for EMNLP 2020
 * 2020 - Paper accepted into [Findings of EMNLP](https://2020.emnlp.org/), "Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?" [[pdf]](https://arxiv.org/abs/2010.04119) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)
 * 2020 - Paper accepted into [ACL 2020](https://acl2020.org/), "Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?"  [[pdf]](https://arxiv.org/abs/2005.01831) [[code]](https://github.com/peterbhase/InterpretableNLP-ACL2020)
 * 2019 - Paper accepted into [AAAI-HCOMP 2019](https://www.humancomputation.com/), "Interpretable Image Recognition with Hierarchical Prototypes" [[pdf]](https://arxiv.org/abs/1906.10651) [[code]](https://github.com/peterbhase/interpretable-image)
