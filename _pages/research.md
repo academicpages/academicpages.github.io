@@ -21,3 +21,5 @@ My research interestes lie (mainly) in the field of theoretical cosmology. In pa
 
 ### Determining H0 without reference to the sound horizon 
 
+### Measuring <img src="https://render.githubusercontent.com/render/math?math=\sigma_8"> using cross-correlation of ACT lensing with the unWISE galaxy survey
+
