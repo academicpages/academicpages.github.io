@@ -2,7 +2,7 @@
 layout: default
 title: "Projets"
 excerpt: "Projets"
-permalink: /
+permalink: /projects/
 author_profile: true
 ---
 
