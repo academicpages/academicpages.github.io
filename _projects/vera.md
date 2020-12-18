@@ -10,4 +10,5 @@ context: "Les modifications dans les représentations de la santé ont conduit �
 done: "Fondées sur nos expertises en réalité virtuelle, en ergonomie, et en neuropsychologie du vieillissement, les activités proposées permettront aux professionnels d’enrichir le travail qu’ils effectuent avec les résidents. Nous espérons que les produits finaux seront valorisants pour les résidents, intéressants pour les professionnels et amélioreront l’attractivité des structures de la santé concernées."
 results: ""
 ---
+{% include base_path %}
   {% include projectdetails.html %}
