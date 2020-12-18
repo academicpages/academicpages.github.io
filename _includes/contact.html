@@ -1,34 +1,29 @@
 
-
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
-
 <div class="{{ include.type | default: "list" }}__item">
   <article>
     <h2>{% if post.fullname %}<abbr title={{ post.fullname }}>{{ title }}</abbr>{% else %}{{ title }}{% endif %}</h2>
     <span class="comment__date">{% if post.begin and post.end %}<i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.begin | date: "%Y" }} - {{ post.end | date: "%Y" }} {% endif %}</span>
     <br/>
     <table>
-      <tr>
-        {% if site.author.orcid %}<th colspan="2"><a href="{{ site.author.orcid }}"><i class="ai ai-orcid ai-4x"></i> Orcid</a></th>{% endif %}
-      </tr>
+      {% if site.author.orcid %}
         <tr>
-        <td class="text-center" style="width:20%"><p>{% if post.context %}{{ post.context }} {% endif %}</p></td>
-        <td><p>{% if post.done %}{{ post.done }} {% endif %}</p></td>
-      </tr>
+          <th colspan="2"><abbr title="Open Researcher and Contributor ID">ORCID</abbr></th>
+        </tr>
+        <tr>
+            <td><a href="{{ site.author.orcid }}"><i class="ai ai-orcid ai-4x"></i></a></td>
+            <td>{{ site.author.orcid }}</td>
+        </tr>
+      {% endif %}
+      {% if site.atom_feed.path %}
+        <tr>
+          <th colspan="2"><abbr title="Open Researcher and Contributor ID">ORCID</abbr></th>
+        </tr>
+        <tr>
+            <td><a href="{{ base_path }}/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i></a></td>
+            <td>{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</td>
+        </tr>
+      {% endif %}
+
     </table>
   </article>
 </div>
