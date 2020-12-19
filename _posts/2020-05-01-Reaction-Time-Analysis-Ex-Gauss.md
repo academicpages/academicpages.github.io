@@ -3,15 +3,15 @@ title: "Reaction Time Analysis: The exponential Gaussian"
 author: Simon R. Steinkamp
 data: 2020-04-30
 
-tags: 
+tags:
     - Reaction Times
     - Modeling
     - R
 ---
 
-# The (not so) easy task of analysing reaction times.
+## The (not so) easy task of analysing reaction times.
 
-**This is the non-interactive Version of the analysis!**  
+**This is the non-interactive Version of the analysis!**
 You can find the interactive notebook
 [here](/files/Reaction-Time-Ex-Gauss-I.html), **caution** it’s about 7MB
 in size, so not your average website!
@@ -198,9 +198,9 @@ parameters seem to be overestimated, whereas *τ* is underestimated.
 
 ### Statistical Summary
 
-#### How strong are the observed biases? 
+#### How strong are the observed biases?
 
-![](/images/tm0.png) 
+![](/images/tm0.png)
 As we have already seen in the figure, we confirm that *μ* is generally
 overestimated while, *τ* is underestimated. This makes sense given the
 distribution of the data: The majority of data will be sampled from the

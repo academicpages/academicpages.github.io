@@ -2,12 +2,11 @@
 title: "A Pandas Surprise: Groupy and NaNs"
 author: Simon R. Steinkamp
 data: 2020-04-30
-tags: 
+tags:
   - Python
   - Snippets
 ---
-
-# A Pandas suprise: NaNs and with groupby
+## A Pandas suprise: NaNs and with groupby
 
 ```python
 import pandas as pd
@@ -23,7 +22,7 @@ Here is a little example:
 
 ```python
 # Create a sample Array:
-DF = pd.DataFrame.from_dict({'g1': ['a', 'a', 'a', 'a', 'b', 'b', 'b', 'b'], 
+DF = pd.DataFrame.from_dict({'g1': ['a', 'a', 'a', 'a', 'b', 'b', 'b', 'b'],
                              'g2': ['c', 'c', 'd', 'd', 'c', 'c', 'd', 'd'],
                              'd1': [0, 1, np.nan, 3, 4, 5, 6, 7]})
 ```
@@ -168,7 +167,7 @@ DF.groupby(['g1', 'g2']).apply(np.mean)
 
 
 
-Calling `np.mean` causes pandas to bypass the function and calls `DF.mean()` from pandas with `skipna=True`! 
+Calling `np.mean` causes pandas to bypass the function and calls `DF.mean()` from pandas with `skipna=True`!
 As far as I know, you have to create a new function to solve the issue.
 
 
