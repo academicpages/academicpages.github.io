@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -68,6 +68,6 @@ Teaching
   
 Service and leadership
 ======
-* August 2019 - Present: Warsaw Team, Interdisciplinary Centre for Mathematical and Computational Modelling UW
+* July 2020 - November 2020: Team Captain, Warsaw Team, Interdisciplinary Centre for Mathematical and Computational Modelling UW
   * Weekly meetings to prepare for upcoming student cluster competitions
-  * Team Captain from July 2020 to November 2020
+  * Member of the team from August 2019 to Present
