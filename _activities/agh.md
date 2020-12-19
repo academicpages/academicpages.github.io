@@ -2,7 +2,7 @@
 title: "Nationwide Math Olympiad organized by AGH University"
 excerpt: "Olimpiada o Diamentowy Indeks AGH"
 type: "Competition"
-date: 2020-03-24
+date: 2019-06-07
 permalink: /activities/agh
 collection: activities
 ---

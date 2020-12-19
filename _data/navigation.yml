@@ -20,7 +20,7 @@ main:
     url: /activities/
 
   - title: "Resume"
-    url: /cv/
+    url: /resume/
     
   # - title: "Guide"
   #   url: /markdown/
