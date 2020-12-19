@@ -54,6 +54,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Academic activities
+===================
+  <ul>{% for post in site.activities %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}

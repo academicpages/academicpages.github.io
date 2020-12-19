@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  competitions:
+  activities:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -239,10 +239,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _competitions
+  # _activities
   - scope:
       path: ""
-      type: competitions
+      type: activities
     values:
       layout: single
       author_profile: true
