@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marek Masiak Personal Website"
+title                    : "Marek Masiak"
 title_separator          : "-"
 name                     : &name "Marek Masiak"
 description              : &description "BSc Computer Science student at UCL"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Marek Masiak"
   avatar           : "profile_picture.png"
-  bio              : "Computer Science student at University College London, interdisciplinary research enthusiast, interested in AI and HPC"
+  bio              : "CS student at UCL, CTO at Calmsie, interested in AI and HPC"
   location         : "Poland"
-  employer         : "Calmsie"
+  employer         : #"Calmsie"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "marek.masiak.20@ucl.ac.uk"
