@@ -15,8 +15,12 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+
+  - title: "Competitions"
+    url: /competitions/
+
   - title: "Resume"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
