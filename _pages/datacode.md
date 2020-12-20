@@ -15,6 +15,6 @@ Philly-area electricity-based indicator of economic disruption (discontinued Sum
 * [Results, data, and code](https://github.com/cseveren/PA-Electricity-Economic-Disruption)
 
 
-### In Progress 
+### In Progress
 * Share a Mata implementation of the cumulative exposure function Malmendier & Nagel (2011).
 * Historical county-level vehicle registration data in the United States (1900-1960)
