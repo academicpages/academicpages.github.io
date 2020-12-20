@@ -45,14 +45,14 @@ Academic Writing
 * [ProWritingAid](https://prowritingaid.com/Free) or [Grammarly](https://app.grammarly.com/) for copy editing
 * [Mendeley](https://www.mendeley.com/guides/desktop) or [Zotero](https://www.zotero.org/) for managing and citing literatures
 * [Purdue Online Writing Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_headings_and_seriation.html) for APA format
-* [Power Writing](https://www.publicationcoach.com/) - a writing newsletter that updates every Tuesday by Daphne Gray-Grant
+* [Power Writing](https://www.publicationcoach.com/) - a newsletter on writing tips that updates every Tuesday by Daphne Gray-Grant
 
 <br> 
 
 Presentation
 ======
 * a nature article on [how scientific presentation is different from a journal article](https://www.nature.com/articles/d41586-020-03300-6)
-
+* [Activate to Captivate](https://www.activatetocaptivate.com/) a monthly newsletter that gives tips on communication skills by Bri McWhorter
 
 <br>
 
