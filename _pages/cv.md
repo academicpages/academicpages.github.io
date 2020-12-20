@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* M.S. in Data Science, Ludwig Maximilian University of Munich, 2021
+* B.S. in System Analysis, National Technical University of Ukraine ”Igor Sikorsky Kyiv Polytechnic Institute”, 2018
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work experience
+* Research Assistant, Fraunhofer Institute for Integrated Circuits IIS (Munich, Germany), 2019 - Present
+* Intern Data Scientist, Beehiveor Academy and R&D Labs (Kyiv, Ukraine), 2018
+* Junior Java Developer, ProFIX (Kyiv, Ukraine), 2017 - 2018
+  
+## Honors & Awards
+* LMU Study Scholarship for International Students, 2019
+* Ukrainian Team Programming Olympiad, 2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Languages
+* English - C1.2+
+* German - C1.1
+* Ukrainian, Russian - native speaker
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Volunteer Activity 
+* Volunteer, NGO "Agency For Free Development" (Kyiv, Ukraine), 2016 - 2018
+* Member / activist, IASA Student Council (Kyiv, Ukraine), 2015 - 2016
