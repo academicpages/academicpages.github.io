@@ -39,9 +39,9 @@ Con's of Linux-land:
   going to be that much of a pain, I'd rather just fire up Windows instead.
   (Google Drive has gotten really close, so that I know edit even my `.docx`
   resume in Drive. But it's not sufficiently seamless to collaborate.)
-- There's no Google Drive backup program. For most things, it's OK to use the
-  online interface, but I still like the idea of being able to interact with my
-  files locally.
+- ~~There's no Google Drive backup program.~~ OK, although this is true, I've
+  found that you *can* mount your files locally using `gnome-online-accounts`
+  ([link](https://vitux.com/how-to-access-your-google-drive-account-in-ubuntu/)).
 
 I recognize that these are such small things (aside from Office software!) that
 I might be able to hunt around among other distros to get a better experience.
