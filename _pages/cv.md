@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * September 2020 - Present: BSc Computer Science, University College London
+* October 2019 - May 2020: Computer Science within the Inter-Faculty Individual Studies in Mathematics and Natural Sciences, University of Warsaw
 
 Work experience
 ======
