@@ -15,7 +15,8 @@ I am a PhD student with Department of Mehcanical and Energy Engineering at South
 Research Interest
 ------
 1. Fast algorithm in joint routing and charging problem of electrical vehicles.
-1. Electrical routing problem under dynamic traffic condition. 
+2. Online routing problem of electrical vehicles.
+1. Electrical routing problem considering uncertainties. 
 
 
 Contact
