@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EMExrOMAAAAJ&hl=en"
-  email            : ".melnychuk@campus.lmu.de"
+  email            : "valik.melnichuk@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Valentyn_Melnychuk"
   uri              :
   bitbucket        :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
