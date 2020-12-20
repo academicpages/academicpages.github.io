@@ -53,6 +53,8 @@ Presentation
 ======
 * a nature article on [how scientific presentation is different from a journal article](https://www.nature.com/articles/d41586-020-03300-6)
 * [Activate to Captivate](https://www.activatetocaptivate.com/) a monthly newsletter that gives tips on communication skills by Bri McWhorter
+* [ComSciCon](https://comscicon.com/) - a series of workshops on science communication 
+* [SCOPE (Science Communication Online Programme)](https://ciera.northwestern.edu/programs/scope/) - free training on science communication through Northwestern
 
 <br>
 
