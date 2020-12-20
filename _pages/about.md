@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 I'm a Computer Science student at the University College London.  
-
-Please feel free to explore this website and to contact me in any matter
