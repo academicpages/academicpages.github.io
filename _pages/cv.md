@@ -30,7 +30,6 @@ their accounts
 * July 2019 – February 2020: Summer Research Intern, Interdisciplinary Centre for Mathematical and Computational Modelling UW Warsaw
   * Researched computational optimizations for linear algebra algorithms, such as matrix-matrix multiplication
   * Implemented an algorithm ∼9 times faster at multiplying 1000x1000 matrix on 8 cores than the classic algorithm
-  * Supervisor: Maciej Szpindler
   * Technologies in use: C++, MPI (Open MPI), Slurm
 
   
