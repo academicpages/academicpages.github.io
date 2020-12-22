@@ -58,6 +58,12 @@ Presentation
 
 <br>
 
+Peer Review
+======
+* [Focus on Peer Review](https://masterclasses.nature.com/online-course-on-peer-review/16507836) - a free Nature Masterclasses' online course on peer review process
+
+<br>
+
 Others
 ======
 * [The Batch](https://www.deeplearning.ai/) is the Deeplearning.AI newsletter that gives you a fresh taste of the latest research and applications in the field of AI every Thursday by Andrew Ng
