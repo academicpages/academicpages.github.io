@@ -45,6 +45,8 @@ Academic Writing
 * [ProWritingAid](https://prowritingaid.com/Free) or [Grammarly](https://app.grammarly.com/) for copy editing
 * [Mendeley](https://www.mendeley.com/guides/desktop) or [Zotero](https://www.zotero.org/) for managing and citing literatures
 * [Purdue Online Writing Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_headings_and_seriation.html) for APA format
+* [papaya](https://www.rdocumentation.org/packages/papaja/versions/0.1.0.9054) - an R package for creating APA style manuscript using Rmarkdown
+* [Overleaf](https://www.overleaf.com/) for creating documents using LaTeX (different journal templates available, including IEEE)
 * [Power Writing](https://www.publicationcoach.com/) - a newsletter on writing tips that updates every Tuesday by Daphne Gray-Grant
 
 <br> 
