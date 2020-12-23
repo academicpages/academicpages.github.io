@@ -24,25 +24,11 @@ collection: portfolio
 **Jun Qi**
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present (co-advised with Prof. Chin-Hui Lee)
-
-**C.-H. Huck Yang** 
-
-* Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present (co-advised with Prof. Chin-Hui Lee)
-  * M.Sc., Georgia Institute of Technology, 2017 - 2018
-* B.Sc., National Taiwan University
+  * M.Sc. ECE, University of Washington, 2018
+  * M.Sc. EE, THU, 2013 
 
 **Kaiwen Zheng**
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2019 -- present 
-
-Visiting Students:
-
-**Hongzhuang Wu**
-* Ph.D. Student, China University of Mining and Technogy
-  * Topic: Deep Learning for Localization using optical camera communicat
-
-**Yu Han**
-* Ph.D. Student, Southeastern University
-  * Topic: Large Intelligent Surface-Assisted Wireless Communication Exploiting Statistical CSI
 
 *Previous Students and Visitors* ([link](https://xma-ultra-signals.github.io//portfolio/portfolio-2/))
