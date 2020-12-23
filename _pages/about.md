@@ -18,7 +18,7 @@ redirect_from:
 * Dec. 01, 2020. Our paper <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> was accepted by <b>AAAI 2021</b> (~21% acceptance rate).
 * Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised medical image segmentation research, the repo at [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), any advices and suggestions are welcomed.
 
-# Publications
+# Publications (* means equal contribution)
 * <b>Semi-supervised Segmentation via Uncertainty Rectified Pyramid Consistency and Its Application to Gross Target Volume of Nasopharyngeal Carcinoma</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
@@ -29,7 +29,7 @@ redirect_from:
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
-  Xu Chen, <b>Xiangde Luo</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng (The first and second authors contributed equally)<br>
+  Xu Chen*, <b>Xiangde Luo*</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
  [[paper](https://arxiv.org/abs/2011.00526)][[code](https://github.com/HiLab-git/ACELoss)]
  
 * <b>CPM-Net: A 3D Center-Points Matching Network for Pulmonary Nodule Detection in CT Scans</b> <br> 
