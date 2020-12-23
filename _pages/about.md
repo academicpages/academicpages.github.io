@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: single
 title: "About me"
 excerpt: "About me"
 classes: wide
