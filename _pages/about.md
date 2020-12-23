@@ -34,7 +34,7 @@ redirect_from:
  
 * <b>CPM-Net: A 3D Center-Points Matching Network for Pulmonary Nodule Detection in CT Scans</b> <br> 
   Tao Song*, Jieneng Chen*, <b>Xiangde Luo</b>, Yechong Huang, Xinglong Liu, Ning Huang, Yinan Chen, Zhaoxiang Ye, Huaqiang Sheng, Shaoting Zhang, Guotai Wang<br>
-  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2020</b>.<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2020 (early accepted)</b>.<br>
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/Luoxd1996/SCPMNet)]
  
  * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
