@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+# Custom author fields follow
+  arxiv            : "R. T. Cavalcanti"
+  orcid            : "0000-0001-7848-5472"
+  inspire          : "R.T.Cavalcanti.1"
 
 
 # Reading Files
