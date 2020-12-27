@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Your Name / Site Title?"
+title                    : "Cavalcanti, R.T."
 title_separator          : "-"
 name                     : &name "Rogério T. Cavalcanti"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rogério T. Cavalcanti"
   avatar           : "profile.png"
-  bio              : "Professor visitante na UFABC"
+  bio              : "Relatividade Geral e além"
   location         : "São Paulo - SP"
-  employer         :
+  employer         : "Universidade Federal do ABC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MaU0H1UAAAAJ"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-7848-5472"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -117,7 +117,6 @@ author:
   wikipedia        :
 # Custom author fields follow
   arxiv            : "R. T. Cavalcanti"
-  orcid            : "0000-0001-7848-5472"
   inspire          : "R.T.Cavalcanti.1"
 
 
@@ -259,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
