@@ -9,14 +9,14 @@ main:
   - title: "Ensino"
     url: /Ensino/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "SageMath"
+    url: /sagemath/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Links"
+    url: /links/
