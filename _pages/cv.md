@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "aCV"
+title: "Atuação Acadêmica"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,31 +11,33 @@ redirect_from:
 
 Formação
 ======
-* Doutorado em Física, UFABC, 2017
-* Mestrado em Matemática Aplicada, UFABC, 2013
-* Bacharelado em Física, UFABC, 2013
-* Bacharelado e licenciatura em Matemática, UniABC, 2006
+* Doutorado em Física | UFABC | 2017
+* Mestrado em Matemática Aplicada | UFABC | 2013
+* Bacharelado em Física | UFABC | 2013
+* Bacharelado e licenciatura em Matemática | UniABC | 2006
 
 Experiência
 ======
 * Professor visitante
   * UFABC
-  * 2020 - Presente
-  * Supervisor: Professor Git
+  * 2020 | Presente
 
 * Pós-doutorado
-  * Unesp
-  * 2017 - 2020
+  * UNESP
+  * 2017 | 2020
 
 * Professor contratado
   * FATEC
-  * 2016-2017
+  * 2016 | 2017
   
 Perfís acadêmicos
 ======
-* [Lattes](http://lattes.cnpq.br/4387593644266917)
+* [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 * [InspireHEP](https://inspirehep.net/authors/1403051)
 
+Resume
+======
+...
 
 Publications
 ======
