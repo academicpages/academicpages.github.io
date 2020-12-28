@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**This site is under construction. Please visit https://scholar.harvard.edu/jroth to see my latest papers**
+**This site is under construction. Please visit [https://scholar.harvard.edu/jroth] to see my latest papers**
 
 I am currently a Senior Researcher in the Office of the Chief Economist at Microsoft. I will join the Brown economics department as an assistant professor in the fall of 2021.
 
