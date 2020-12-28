@@ -11,9 +11,9 @@ title                    : "Jonathan Roth"
 title_separator          : "-"
 name                     : &name "Jonathan Roth"
 description              : &description "Senior Researcher at Microsoft"
-url                      : https://jonathanroth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jonathandroth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jonathandroth/jonathanroth.github.io"
+repository               : "jonathandroth/jonathandroth.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
