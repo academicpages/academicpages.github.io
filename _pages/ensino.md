@@ -8,7 +8,7 @@ author_profile: true
 ## 2020
 
 * UFABC
-  * [Introdução à probabilidade e estattísitca](_ensino/IPE-1.html)
+  * [Introdução à probabilidade e estattísitca](IPE-1.html)
 
 * Unesp
   * Introdução à relatividade geral (pós-graduação)
