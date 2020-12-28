@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuxuan Zhou(周宇轩)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuxuan Zhou"
 description              : &description "personal description"
 url                      : https://zyx97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yzhou168@syr.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
