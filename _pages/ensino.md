@@ -1,27 +1,42 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+title: "Ensino"
+permalink: /ensino/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
-## Locations of key files/directories
+## 2020
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* UFABC
+  * [Introdução à probabilidade e estattísitca](_ensino/IPE-1.html)
 
+* Unesp
+  * Introdução à relatividade geral (pós-graduação)
+  * Seminários em física II (pós-graduação)
+  * Seminários em física I (pós-graduação)
+
+## 2018
+
+* Unesp
+  * Introdução à relatividade geral (pós-graduação)
+  * Seminários em física I (pós-graduação)
+
+## 2017
+
+* Unesp
+  * Física II 
+
+* FATEC
+  * Pesquisa operacional
+  * Calculo II
+  * Cálculo I
+  
+## 2016
+
+* FATEC
+  * Pesquisa operacional
+  * Cálculo I
+  
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.

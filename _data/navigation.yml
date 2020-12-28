@@ -7,7 +7,7 @@ main:
 #    url: /talks/    
 
   - title: "Ensino"
-    url: /Ensino/    
+    url: /ensino/    
     
   - title: "SageMath"
     url: /sagemath/
