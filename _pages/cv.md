@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Perfís acadêmicos
+======
+* [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
+* [InspireHEP](https://inspirehep.net/authors/1403051)
+
 Formação
 ======
 * Doutorado em Física, Universidade Federal do ABC (2017)
@@ -30,14 +35,17 @@ Experiência
   * FATEC
   * 2016 : 2017
   
-Perfís acadêmicos
-======
-* [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
-* [InspireHEP](https://inspirehep.net/authors/1403051)
 
 Resume
 ======
 ...
+
+
+Orientações
+======
+* Aluno
+  * Nível
+  * Tema
 
 Publications
 ======
