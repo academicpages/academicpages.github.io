@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "https://zhouyuxuan97.github.io"
     
   - title: "CV"
     url: /cv/
