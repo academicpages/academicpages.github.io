@@ -20,15 +20,15 @@ Experiência
 ======
 * Professor visitante
   * UFABC
-  * 2020 | Presente
+  * 2020 : Presente
 
 * Pós-doutorado
   * UNESP
-  * 2017 | 2020
+  * 2017 : 2020
 
 * Professor contratado
   * FATEC
-  * 2016 | 2017
+  * 2016 : 2017
   
 Perfís acadêmicos
 ======
