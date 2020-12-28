@@ -13,6 +13,7 @@ Perfís acadêmicos
 ======
 * [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 * [InspireHEP](https://inspirehep.net/authors/1403051)
+* CV (English)
 
 Formação
 ======
@@ -34,11 +35,6 @@ Experiência
 * Professor contratado
   * FATEC
   * 2016 : 2017
-  
-
-Resume
-======
-...
 
 
 Orientações
