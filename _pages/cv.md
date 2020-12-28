@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Atuação Acadêmica"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,10 @@ redirect_from:
 
 Formação
 ======
-* Doutorado em Física | UFABC | 2017
-* Mestrado em Matemática Aplicada | UFABC | 2013
-* Bacharelado em Física | UFABC | 2013
-* Bacharelado e licenciatura em Matemática | UniABC | 2006
+* Doutorado em Física, Universidade Federal do ABC (2017)
+* Mestrado em Matemática Aplicada, Universidade Federal do ABC (2013)
+* Bacharelado em Física, Universidade Federal do ABC (2013)
+* Bacharelado e licenciatura em Matemática, Universidade do grande ABC (2006)
 
 Experiência
 ======
