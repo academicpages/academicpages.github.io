@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "aCV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formação
 ======
-* B.S. in Physics, GitHub University, 2012
-* M.S. in Matemática Aplicada, GitHub University, 2014
-* Ph.D in Physics, GitHub University, 2018 (expected)
+* Doutorado em Física, UFABC, 2017
+* Mestrado em Matemática Aplicada, UFABC, 2013
+* Bacharelado em Física, UFABC, 2013
+* Bacharelado e licenciatura em Matemática, UniABC, 2006
 
-Work experience
+Experiência
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Professor visitante
+  * UFABC
+  * 2020 - Presente
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Pós-doutorado
+  * Unesp
+  * 2017 - 2020
+
+* Professor contratado
+  * FATEC
+  * 2016-2017
   
-Skills
+Perfís acadêmicos
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [Lattes](http://lattes.cnpq.br/4387593644266917)
+* [InspireHEP](https://inspirehep.net/authors/1403051)
+
 
 Publications
 ======
