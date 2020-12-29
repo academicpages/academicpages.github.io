@@ -5,15 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
 
-# Teaching
----
-
-**Statistical Inference (BST 222)**.  
-Teaching Fellow: Fall 2019, 2020.  
-A first- ourse on probability theory and statistical inference for masters students in biostatistics and doctoral students in epidemiology, data science, and other departments.
-
-**Advanced Topics in Clinical Trials (BST 238)**.  
-Head Teaching Fellow: Spring 2020, 2021.  
-A doctoral course for biostatistics students on advanced topics in the design, analysis, and interpretation of clinical trials, including study design; choice of endpoints; interim analyses and group sequential methods; subgroup analyses; and meta-analyses.
-
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
