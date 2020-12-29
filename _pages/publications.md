@@ -6,51 +6,6 @@ author_profile: true
 ---
 Please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications. Here, I highlight some of my ongoing and recent work.
 
-<img width="260" alt="casual" src="https://user-images.githubusercontent.com/43854975/95690181-c2e1ed00-0be3-11eb-9f7c-fc35e1f67fac.png">
-
-I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing statistical methods to leverage sub-optimal real world data to improve decision-making in public health and clinical medicine. I'm lucky to be mentored by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/).
-
-I enjoy spending time on the golf course, catching up on the latest in US-China relations, and cheering on the Tar Heels!
-
-# Education
----
-
-**Harvard University**  
-PhD in Biostatistics, 2018-2022 (expected)  
-AM in Biostatistics, 2020  
-Dissertation Primary Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)  
-Dissertation Co-Advisor: [Lorenzo Trippa](https://www.hsph.harvard.edu/lorenzo-trippa/)  
-Dissertation Committee:  [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
-
-**University of Cambridge**  
-MPhil in Operations Management, 2018  
-Thesis Advisor: [Stefan Scholtes](https://www.jbs.cam.ac.uk/faculty-research/faculty-a-z/stefan-scholtes/)
-
-**Tsinghua University**  
-MA in Global Affairs, 2017   
-Thesis Advisor: [Michael Powers](http://www.sem.tsinghua.edu.cn/en/powers)
-
-**University of North Carolina**  
-BSPH in Biostatistics, 2016   
-Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/)
-
-# Honors and Awards
----
-
-* ENAR Distinguished Student Paper Award, 2021   
-* China Hands 25 Under 25 Leaders in US-China Relations, 2019
-* University of Cambridge Distinction and Top Thesis, 2018
-* Gates Cambridge Scholarship, 2017
-* Tsinghua University Outstanding Master’s Thesis Award, 2017
-* Schwarzman Scholarship, 2016
-* Delta Omega Award of Excellence, 2016  
-* Phillips Ambassadors 10-Year Anniversary Award, 2016
-* Order of the Golden Fleece, 2016
-* Phi Beta Kappa, 2015
-* Goldwater Scholarship, 2015
-* Phillips Ambassadorship, 2014
-* Morehead-Cain Scholarship, 2012
-* National Merit Scholarship, 2012
 
 # Research
 ---
@@ -182,32 +137,4 @@ Tucker JD, Muessig KE, Cui R, Bien CH, Lo EJ, Lee R, Wang K, **Han L,** Liu FY, 
 **[Strategies for promoting HIV testing uptake: willingness to receive couple-based and collective HIV testing among a cross-sectional online sample of men who have sex with men in China](https://sti.bmj.com/content/90/6/469.long)**.  
 Sexually Transmitted Infections (2014).  
 Wei C, Muessig KE, Bien C, Yang L, Meng R, **Han L,** Yang M, Tucker JD.
-
-# Service
----
-
-**Harvard Department of Biostatistics Diversity, Inclusion, and Equity Committee**.  
-PhD Student Representative (2020-).
-
-**Harvard Department of Biostatistics Mental Health Working Group**.  
-Lead for promotion of department community at a distance (2020-).
-
-**Harvard Graduate ABSK**.    
-President (2019-).
-
-**University of North Carolina -- Carolina Collective**.   
-Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-).
-
-# Teaching
----
-
-**BST 222: Basics of Statistical Inference**.  
-Teaching Fellow: Fall 2019, 2020.  
-An introductory course on probability theory and mathematical statistics for masters students in biostatistics and doctoral students in other departments.
-
-**BST 214/238: Advanced Topics in Clinical Trials**.  
-Teaching Fellow: Spring 2020, 2021.  
-A doctoral course for biostatistics students on advanced topics in the design, analysis, and interpretation of clinical trials, including study design; choice of endpoints; interim analyses and group sequential methods; subgroup analyses; and meta-analyses.
-
-
 
