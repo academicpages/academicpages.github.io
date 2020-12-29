@@ -8,10 +8,12 @@ tags:
   - update
   - website
   - meta
-# canonical_url: "https://d-romero.com/welcome"
+# canonical_url: "https://d-romero.com/blog/how-i-built-this-website/"
 ---
 
-This is a very quick walkthrough of how I built this website using GitHub, Jekyll, and Minimal Mistakes. I have summarized the steps to the bare minimum you need to get started with your own website. For more detailed/additional information you can always consult the [resources section](#resources) below.
+This is a very quick walkthrough of how I built this website in an afternoon using the [`Minimal Mistakes template`](https://github.com/mmistakes/minimal-mistakes) for Jekyll. Read this article to learn more!
+
+ I have summarized the steps to the bare minimum you need to get started with your own website. For more detailed/additional information you can always consult the [resources section](#resources) below.
 
 For this project I used a machine running MacOs Catalina. These steps may or may not work depending on your Operating System and version.
 
