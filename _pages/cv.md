@@ -9,51 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
+---
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Harvard University**  
+PhD in Biostatistics, 2018-2022 (expected)  
+AM in Biostatistics, 2020  
+Dissertation Primary Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)  
+Dissertation Co-Advisor: [Lorenzo Trippa](https://www.hsph.harvard.edu/lorenzo-trippa/)  
+Dissertation Committee:  [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**University of Cambridge**  
+MPhil in Operations Management, 2018  
+Thesis Advisor: [Stefan Scholtes](https://www.jbs.cam.ac.uk/faculty-research/faculty-a-z/stefan-scholtes/)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Tsinghua University**  
+MA in Global Affairs, 2017   
+Thesis Advisor: [Michael Powers](http://www.sem.tsinghua.edu.cn/en/powers)
+
+**University of North Carolina**  
+BSPH in Biostatistics, 2016   
+Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/)
+
+# Honors and Awards
+---
+
+* ENAR Distinguished Student Paper Award, 2021   
+* China Hands 25 Under 25 Leaders in US-China Relations, 2019
+* University of Cambridge Distinction and Top Thesis, 2018
+* Gates Cambridge Scholarship, 2017
+* Tsinghua University Outstanding Master’s Thesis Award, 2017
+* Schwarzman Scholarship, 2016
+* Delta Omega Award of Excellence, 2016  
+* Phillips Ambassadors 10-Year Anniversary Award, 2016
+* Order of the Golden Fleece, 2016
+* Phi Beta Kappa, 2015
+* Goldwater Scholarship, 2015
+* Phillips Ambassadorship, 2014
+* Morehead-Cain Scholarship, 2012
+* National Merit Scholarship, 2012
+
+# Service
+---
+
+**Harvard Department of Biostatistics Diversity, Inclusion, and Equity Committee**.  
+PhD Student Representative (2020-).
+
+**Harvard Department of Biostatistics Mental Health Working Group**.  
+Lead for promotion of department community at a distance (2020-).
+
+**Harvard Graduate ABSK**.    
+President (2019-).
+
+**University of North Carolina -- Carolina Collective**.   
+Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-).
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
