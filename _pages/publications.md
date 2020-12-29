@@ -22,7 +22,7 @@ This paper develops semi-supervised, transfer learning methods to improve effici
 **Han L,** Hou J, Duan R, Cai T.  
 This paper provides privacy-preserving, communication-efficient, and robust estimation and inference for targeted average treatment effects in the presence of heterogeneity.
 
-**Simple and Principled Sensitivity Analysis for Clinical Trials**.  
+**Optimal Sensitivity Analysis for Clinical Trials**.  
 **Han L,** Arfe A, Trippa L.  
 This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
 
