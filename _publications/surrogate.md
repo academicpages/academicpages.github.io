@@ -1,8 +1,8 @@
 ---
 title: "On the Evaluation of Surrogate Markers in Real World Data Settings"
 collection: publications
-permalink: /publication/surrogate
-excerpt: 'PhD paper 1.'
+permalink: /publications/surrogate
+excerpt: 'PhD paper 1'
 date: 2020-12-20
 venue: 'In preparation; Winner of the 2021 ENAR Distinguished Student Paper Award'
 
