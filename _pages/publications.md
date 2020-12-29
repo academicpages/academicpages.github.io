@@ -10,14 +10,9 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 ## Ongoing Statistical Methods Papers
 
 **On the Evaluation of Surrogate Markers in Real World Data Settings**.    
-*ENAR Distinguished Student Paper Award, 2021.*    
+*2021 ENAR Distinguished Student Paper Award.*    
 **Han L,** Wang X, Cai T.  
 This paper provides doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
-
-**Simple and Principled Sensitivity Analysis for Clinical Trials**.  
-In preparation.   
-**Han L,** Arfe A, Trippa L.  
-This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
 
 **Doubly Robust Semi-supervised Estimation of Survival**.    
 **Han L,** Hong C, Hou J, Cai T.  
@@ -26,6 +21,10 @@ This paper develops semi-supervised, transfer learning methods to improve effici
 **Distributed Learning for Causal Inference**.  
 **Han L,** Hou J, Duan R, Cai T.  
 This paper provides privacy-preserving, communication-efficient, and robust estimation and inference for targeted average treatment effects in the presence of heterogeneity.
+
+**Simple and Principled Sensitivity Analysis for Clinical Trials**.  
+**Han L,** Arfe A, Trippa L.  
+This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
 
 
 ## Electronic Health Records
