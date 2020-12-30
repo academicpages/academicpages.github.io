@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing new statistical methods to leverage **real world data** to improve decision-making in public health and clinical medicine. Specifically, my academic interests include robust and efficient estimation and inference using **large-scale data** generated from electronic health records and clinical trial data. I'm lucky to be mentored by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/).
+I am a third year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing new statistical methods to leverage real world data to improve decision-making in public health and clinical medicine. Specifically, my academic interests include robust and efficient estimation and inference using large-scale data generated from electronic health records and clinical trial data. I'm lucky to be mentored by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/).
 
 My current research goals include developing:
 * Robust estimators for validating surrogate markers in observational data. 
