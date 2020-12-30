@@ -1,21 +1,25 @@
 ---
-title: "Solve macOs BigSur `xcrun: error` and fix Jekyll environment after update"
+title: "Solve macOs BigSur 'xcrun: error' and fix Jekyll environment after update"
 date: 2020-12-29T22:00:00-00:00
 categories:
   - blog
 tags:
   - Jekyll
+  - Homebrew
   - update
   - website
   - meta
   - macOs BigSur
   - xcrun error
 # canonical_url: "https://d-romero.com/welcome"
+excerpt: "Here is how I fixed my Jekyll (and Homebrew) environments on my mac and some tips on what to do before updating your Operating System."
+header:
+  overlay_image: "assets/images/bug-fix.png"
+  og_image: "assets/images/preview-photo.png"
+  caption: "Photo credit: [**AltumCode on Unsplash**](https://unsplash.com/@altumcode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 ---
 
-Here is how I fixed my Jekyll environment and solved the macOs `xcrun: error` after updating to BigSur.
-
-*If you only want to solve the issue at hand, skip to the ["Full workaround"](#full-workaround) section.*
+*If you only want to solve the issue at hand, I suggest skipping to the ["Full workaround"](#full-workaround) section.*
 
 ## Background and some tips on updating your operating system
 
@@ -94,6 +98,13 @@ bundle install
 bundle exec jekyll serve
 ```
 
+**Note that you do not need to install the `ruby-dev` or `ruby-devel` environments. Also, as a side-effect, your Homebrew environment is fixed**
+
+```bash
+brew update
+# works
+```
+
 ## Takeaways 
 
 When updating to a new OS, I will minimally follow the checklist below:
@@ -124,3 +135,7 @@ And remember to...
 Jump higher!
 
 \- Damian
+
+<p>
+  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=damian-romero/damian-romero.github.io/blob/master/_posts/2020-12-29-solve-xcrun-error-and-fix-jekyll-environment-after-macos-bigsur-update.md" />
+</p>
