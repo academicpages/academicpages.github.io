@@ -39,7 +39,7 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 ## Refereed Journal Papers and Conference Proceedings
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike, Kento Uemura and Hiroki Arimura: Ordered Counterfactual Explanation by Mixed-Integer Linear Optimization, Proceedings of the 35th AAAI Conference on Artificial Intelligence, (in press).<br>
  **Acceptance rate: 1692/7911 = 21.4%**.
-1. Tomokaze Shiratori, Ken Kobayashi, and Yuichi Takano: Prediction of hierarchical time series using structured regularization and its application to artificial neural networks, PLOS ONE (in press).
+1. Tomokaze Shiratori, Ken Kobayashi, and Yuichi Takano: Prediction of hierarchical time series using structured regularization and its application to artificial neural networks, PLOS ONE, 15 (2020), e0242099..
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi and Hiroki Arimura: DACE: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization, Proceedings of the 29th International Joint Conference on Artificial Intelligence, 29 (2020) 2855--2862.<br>
  **Acceptance rate: 592/4717 = 12.6%**.
 1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of B'ezier Simplex Fitting, Proceedings of the 34th AAAI Conference on Artificial Intelligence, 34 (2020) 2416--2424.<br>
@@ -53,9 +53,13 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 1. Ryuta Tamura, Ken Kobayashi, Yuichi Takano, Ryuhei Miyashiro, Kazuhide Nakata, and Tomomi Matsui: Best subset selection for eliminating multicollinearity, Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 1. 高野祐一, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健, 田中研太郎, 中田和秀: ファジィクラスタワイズ回帰を用いた共同購入型クーポンサイトの閲覧傾向分析, オペレーションズ・リサーチ 59 (2014), 81--87.
 
+## Refereed Workshop Proceedings
+1. Mari Kajitani, Ken Kobayashi, Yuichi Ike, Takehiko Yamanashi, Yuhei Umeda, Yoshimasa Kadooka, and Gen Shinozaki; Application of Topological Data Analysis to Delirium Detection. Topological Data Analysis and Beyond, Workshop at NeurIPS 2020.
+
 ## Non-Refereed  Journal Papers and Articles
-1. 田村隆太, 小林健, 高野祐一, 宮代隆平, 中田和秀, 松井知己: 多重共線性を考慮した回帰式の変数選択問題の定式化,  オペレーションズ・リ サーチ, 63, (2018), 128--133.
-1.  山根智之, 菅原光太郎, 西村直樹, 小林健, 吉田佑輔, 高野祐一, 中田和秀:  時系列モデルによる商品販促効果の分析,  オペレーションズ・リサーチ, 61 (2016), 65--70.
+1. 小林健: 半正定値最適化問題に対する切除平面法と混合整数半正定値最適化問題への拡張, オペレーションズ・リサーチ, 65 (2020), 656-661.
+1. 田村隆太, 小林健, 高野祐一, 宮代隆平, 中田和秀, 松井知己: 多重共線性を考慮した回帰式の変数選択問題の定式化,  オペレーションズ・リサーチ, 63 (2018), 128--133.
+1. 山根智之, 菅原光太郎, 西村直樹, 小林健, 吉田佑輔, 高野祐一, 中田和秀:  時系列モデルによる商品販促効果の分析,  オペレーションズ・リサーチ, 61 (2016), 65--70.
 1. 小林健, 高野祐一, 宮代隆平, 中田和秀: 多重共線性を考慮した回帰式の変数選択--混合整数半正定値計画法を用いた解法--  京都大学数理解析研究所講究録 1931 最適化アルゴリズムの進展・理論・応用・実装 (2014), 169--183.
 
 ## Others
