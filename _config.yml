@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Larry Han"
+title                    : "Larry Han 韩乐"
 title_separator          : "-"
 name                     : &name "Larry Han"
 description              : &description "I'm a PhD candidate in Biostatistics at Harvard University"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Larry Han"
+  name             : "Larry Han 韩乐"
   avatar           : "morehead2.png"
   bio              : "PhD candidate in biostatistics at Harvard University, advised by Professor Tianxi Cai and Lorenzo Trippa."
   location         : "Cambridge, MA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=larry+han&sort=date"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "larryhan@g.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/larryhan94/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
