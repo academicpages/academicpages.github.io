@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Larry Han"
 title_separator          : "-"
 name                     : &name "Larry Han"
-description              : &description "I'm a PhD student in Biostatistics at Harvard University"
+description              : &description "I'm a PhD candidate in Biostatistics at Harvard University"
 url                      : https://larrylehan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "larrylehan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Larry Han"
   avatar           : "morehead2.png"
-  bio              : "I'm a 3rd year PhD candidate in biostatistics at Harvard University"
+  bio              : "I'm a PhD candidate in biostatistics at Harvard University, advised by Professor Tianxi Cai and Lorenzo Trippa."
   location         : "Cambridge, MA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=larry+han&sort=date"
