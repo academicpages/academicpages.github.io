@@ -12,7 +12,7 @@
 # [jekyll-docs]: https://jekyllrb.com/docs/home
 # [jekyll-gh]:   https://github.com/jekyll/jekyll
 # [jekyll-talk]: https://talk.jekyllrb.com/
-
+# [jekyll-talk]: https://mmistakes.github.io/minimal-mistakes/
 # Overriding Theme Defaults
 # To locate theme files, run `bundle info minimal`
 
@@ -27,10 +27,12 @@ title: "Damian Romero,\nComputational Hispanic Linguist"
 subtitle: 'Site version: v2.0'
 name: "Damian Romero"
 email: damianiji [at] email [dot] arizona [dot] edu
-description: "Damian Romero's website."
+description: "Damian Romero's professional website."
 url: "https://damian-romero.github.io/"
 repository: "damian-romero/damian-romero.github.io"
 logo: "assets/images/uofa.jpg"
+teaser: "assets/images/blog-teaser-default.png"
+og_image: "assets/images/website-preview-squared.png"
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Damian Romero's website.
 twitter_username: DamianRomero_CL
@@ -44,7 +46,7 @@ highlighter: rouge
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -139,7 +141,8 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: false
+      related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
