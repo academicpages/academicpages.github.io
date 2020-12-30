@@ -1,41 +1,51 @@
 #!/usr/bin/env python3
 
-import pystache, datetime, argparse, os.path
+import pystache, datetime, argparse, os.path, unicodedata, re
 
 class Template:
     template = """
 ---
-title: {{long_title}}
+title: {{title}}
 date: {{date}}
-permalink: /posts/{{year}}/{{month}}/{{short_title}}/
+permalink: /posts/{{year}}/{{month}}/{{slug}}/
 tags:
 ---
     """.strip()
 
-    def __init__(self, long_title, date, short_title=None, max_short_title_words=4, force=False):
-        self.long_title = long_title
+    @staticmethod
+    def slugify(value, allow_unicode=False):
+        """
+        Convert to ASCII if 'allow_unicode' is False. Convert spaces to hyphens.
+        Remove characters that aren't alphanumerics, underscores, or hyphens.
+        Convert to lowercase. Also strip leading and trailing whitespace.
+
+        Borrowed from Django: https://docs.djangoproject.com/en/2.1/_modules/django/utils/text/#slugify
+        """
+        value = str(value)
+        if allow_unicode:
+            value = unicodedata.normalize('NFKC', value)
+        else:
+            value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore').decode('ascii')
+        value = re.sub(r'[^\w\s-]', '', value).strip().lower()
+        return re.sub(r'[-\s]+', '-', value)
+
+    def __init__(self, title, date, slug=None):
+        self.title = title
         self.date = date
 
-        if short_title is None:
-            self._short_title_words = long_title.lower().split()[0:max_short_title_words]
+        if slug is None:
+            self.slug = self.slugify(title)
         else:
-            self._short_title_words = short_title.lower().split()
+            self.slug = slug
 
-        self.short_title = "-".join(self._short_title_words)
-
-        if not force and len(self._short_title_words) > max_short_title_words:
-            raise RuntimeError(f"Short title '{self.short_title}' has more than {max_short_title_words}")
-
-        assert " " not in self.short_title
-
-        self.contents = self.fill_contents(self.template, self.long_title, self.short_title, self.date)
-        self.path = self.template_path(self.short_title, self.date)
+        self.contents = self.fill_contents(self.template, self.title, self.slug, self.date)
+        self.path = self.template_path(self.slug, self.date)
 
     @staticmethod
-    def fill_contents(template, long_title, short_title, date):
+    def fill_contents(template, title, slug, date):
         payload = {
-            "long_title": long_title,
-            "short_title": short_title,
+            "title": title,
+            "slug": slug,
             "date": str(date),
             "year": date.year,
             "month": date.month
@@ -44,8 +54,8 @@ tags:
         return pystache.render(template, payload)
 
     @staticmethod
-    def template_path(short_title, date, directory="_posts"):
-        filename = str(date) + "-" + short_title + ".md"
+    def template_path(slug, date, directory="_posts"):
+        filename = str(date) + "-" + slug + ".md"
         return os.path.join(directory, filename)
 
     def write(self):
@@ -62,10 +72,9 @@ tags:
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
-    p.add_argument("long_title")
-    p.add_argument("-s", "--short_title")
-    p.add_argument("-f", "--force", action="store_true")
+    p.add_argument("title")
+    p.add_argument("-s", "--slug")
     args = p.parse_args()
 
-    t = Template(args.long_title, datetime.date.today(), short_title=args.short_title, force=args.force)
+    t = Template(args.title, datetime.date.today(), slug=args.slug)
     t.write()
