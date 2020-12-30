@@ -15,7 +15,7 @@ tags:
 excerpt: "Here is how I fixed my Jekyll (and Homebrew) environments on my mac and some tips on what to do before updating your Operating System."
 header:
   overlay_image: "assets/images/bug-fix.png"
-  og_image: "assets/images/preview-photo.png"
+  og_image: "assets/images/website-preview-squared.png"
   caption: "Photo credit: [**AltumCode on Unsplash**](https://unsplash.com/@altumcode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 ---
 
