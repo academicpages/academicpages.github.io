@@ -66,7 +66,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: $sans-serif;
+    font-family: $serif;
   }
 
   li {
@@ -77,7 +77,7 @@
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $sans-serif;
+      font-family: $serif;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
@@ -126,7 +126,7 @@
     padding: 1em 2em;
     float: left;
     width: 50%;
-    font-family: $sans-serif;
+    font-family: $serif;
     font-size: $type-size-5;
     font-weight: bold;
     text-align: center;
@@ -348,7 +348,7 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
+  font-family: $serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
 }
@@ -357,7 +357,7 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
+  font-family: $serif-narrow;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
@@ -370,7 +370,7 @@
    ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
+  font-family: $serif-narrow;
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
