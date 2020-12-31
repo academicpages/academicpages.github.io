@@ -1,15 +1,10 @@
 ---
-title: "aaaaaaaaa"
+title: "INSMA: An Integrated System for Multimodal Data Acquisition and Analysis In the Intensive Care Unit"
 collection: publications
-permalink: /publication/2019-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+permalink: /publication/2020-4-INSMA
+excerpt: 'Modern intensive care units (ICU) are equipped with a variety of different medical devices to monitor the physiological status of patients. These devices can generate large amounts of multimodal data daily that include physiological waveform signals (arterial blood pressure, electrocardiogram, respiration), patient alarm messages, numeric vitals data, etc. In order to provide opportunities for increasingly improved patient care, it is necessary to develop an effective data acquisition and analysis system that can assist clinicians and provide decision support at the patient bedside. Previous research has discussed various data collection methods, but a comprehensive solution for bedside data acquisition to analysis has not been achieved. In this paper, we proposed a multimodal data acquisition and analysis system called INSMA, with the ability to acquire, store, process, and visualize multiple types of data from the …'
+date: 2020-4
+venue: 'Journal of Biomedical Informatics'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1532046420300629'
+citation: 'Sun, Y., Guo, F., Kaffashi, F., Jacono, F.J., DeGeorgia, M. and Loparo, K.A., 2020. INSMA: An integrated system for multimodal data acquisition and analysis in the intensive care unit. Journal of Biomedical Informatics, p.103434.'
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
