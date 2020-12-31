@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV (English)
+**CV (English)**
 
 Formação
 ======
@@ -18,7 +18,7 @@ Formação
 * Bacharelado em Física, Universidade Federal do ABC (2013)
 * Bacharelado e licenciatura em Matemática, Universidade do grande ABC (2006)
 
-Experiência
+Experiência como docente
 ======
 * Professor visitante
   * UFABC
