@@ -1,7 +1,7 @@
 ---
 title: "INSMA: An Integrated System for Multimodal Data Acquisition and Analysis In the Intensive Care Unit"
 collection: publications
-permalink: /publication/2020-04-01-INSMA
+permalink: /publication/2020-04-01-paper-title-number-3
 excerpt: 'Modern intensive care units (ICU) are equipped with a variety of different medical devices to monitor the physiological status of patients. These devices can generate large amounts of multimodal data daily that include physiological waveform signals (arterial blood pressure, electrocardiogram, respiration), patient alarm messages, numeric vitals data, etc. In order to provide opportunities for increasingly improved patient care, it is necessary to develop an effective data acquisition and analysis system that can assist clinicians and provide decision support at the patient bedside. Previous research has discussed various data collection methods, but a comprehensive solution for bedside data acquisition to analysis has not been achieved. In this paper, we proposed a multimodal data acquisition and analysis system called INSMA, with the ability to acquire, store, process, and visualize multiple types of data from the'
 date: 2020-4
 venue: 'Journal of Biomedical Informatics'
