@@ -7,11 +7,9 @@ author_profile: true
 
 Journal Articles
 
-\begin{enumerate}
-\item \textbf{Sun, Y.}, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C.,2020. The COVID-19 Trial Finder. Journal of the American Medical Informatics Association. (in press)
++ **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim J. and Weng, C.,2020. Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials. Journal of Biomedical Informatics. (in press)
 
-\item \textbf{Sun, Y.}, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim J. and Weng, C.,2020. Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials. Journal of Biomedical Informatics. (in press)
-
++ **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C.,2020. The COVID-19 Trial Finder. Journal of the American Medical Informatics Association. 
 
 \item \textbf{Sun, Y.}, Guo, F., Kaffashi, F., Jacono, F.J., DeGeorgia, M. and Loparo, K.A., 2020. INSMA: An integrated system for multimodal data acquisition and analysis in the intensive care unit. Journal of Biomedical Informatics, p.103434.
 
