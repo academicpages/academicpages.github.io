@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**CV (English)**
+### **CV (English)**
+### [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 
 Formação
 ======
