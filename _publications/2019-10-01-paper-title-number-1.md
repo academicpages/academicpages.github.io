@@ -7,4 +7,4 @@ date: 2020-4
 venue: 'Journal of Biomedical Informatics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1532046420300629'
 citation: 'Sun, Y., Guo, F., Kaffashi, F., Jacono, F.J., DeGeorgia, M. and Loparo, K.A., 2020. INSMA: An integrated system for multimodal data acquisition and analysis in the intensive care unit. Journal of Biomedical Informatics, p.103434.'
-
+---
