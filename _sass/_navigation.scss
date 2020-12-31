@@ -348,7 +348,7 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $serif-narrow;
+  font-family: $serif;
   font-size: $type-size-5;
   font-weight: bold;
 }
@@ -357,7 +357,7 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $serif-narrow;
+  font-family: $serif;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
@@ -370,7 +370,7 @@
    ========================================================================== */
 
 .toc {
-  font-family: $serif-narrow;
+  font-family: $serif;
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
