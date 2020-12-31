@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Perfís acadêmicos
-======
-* [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
-* [InspireHEP](https://inspirehep.net/authors/1403051)
-* CV (English)
+CV (English)
 
 Formação
 ======

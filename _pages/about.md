@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-bla...
+**Professor visitante na Universidade Federal do ABC ([UFABC](www.ufabc.edu.br))**
 
-E
+## Interesss de pesquisa:
+- Relatividade geral e teorias alternativas de gravitação;
+- Física de buracos negros;
+- Algebras de Clifford e estrutura algebrica de espinores
+
+
+Perfís acadêmicos
 ======
-bla
-
-
-
-E
-------
-Blabla
+* [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
+* [InspireHEP](https://inspirehep.net/authors/1403051)
+* [Google Acadêmico](https://scholar.google.com/citations?user=MaU0H1UAAAAJ)
 
 
