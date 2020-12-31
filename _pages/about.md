@@ -10,13 +10,13 @@ redirect_from:
 
 **Professor visitante na Universidade Federal do ABC ([UFABC](www.ufabc.edu.br))**
 
-## Interesss de pesquisa:
+## Interesses de pesquisa:
 - Relatividade geral e teorias alternativas de gravitação;
 - Física de buracos negros;
 - Algebras de Clifford e estrutura algebrica de espinores
 
 
-## Perfís acadêmicos
+## Perfís acadêmicos e publicações:
 
 * [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 * [InspireHEP](https://inspirehep.net/authors/1403051)
