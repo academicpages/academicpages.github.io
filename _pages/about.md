@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,8 +16,8 @@ redirect_from:
 - Algebras de Clifford e estrutura algebrica de espinores
 
 
-Perfís acadêmicos
-======
+## Perfís acadêmicos
+
 * [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 * [InspireHEP](https://inspirehep.net/authors/1403051)
 * [Google Acadêmico](https://scholar.google.com/citations?user=MaU0H1UAAAAJ)
