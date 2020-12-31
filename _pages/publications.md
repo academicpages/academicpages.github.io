@@ -6,7 +6,7 @@ author_profile: true
 ---
     
     
-##Journal Articles
+# Journal Articles
 
 + **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim J. and Weng, C.,2020. Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials. Journal of Biomedical Informatics. (in press)
 
