@@ -68,5 +68,5 @@ author_profile: true
 
 + Li, Q., Zou, Y. and **Sun, Y.**, "Ontology based user personalization mechanism in meta search engine". In **_2nd International Conference on Uncertainty Reasoning and Knowledge Engineering_** (pp. 230-234). IEEE. 2012, August. 
 
-You can also find my articles on <a href="{{https://scholar.google.com/citations?hl=en&user=VCxrWbsAAAAJ}}">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=VCxrWbsAAAAJ">my Google Scholar profile</a>.
 
