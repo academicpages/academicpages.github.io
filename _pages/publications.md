@@ -19,7 +19,13 @@ author_profile: true
 
 + Li, Q., **Sun, Y.** and Xue, B., "Complex query recognition based on dynamic learning mechanism". In **_Journal of Computational Information Systems_** (Vol. 8, pp. 8333-8340). Springer, 2012.
 
-+ Li, Q., Zou, Y. and **Sun, Y.**, "User Personalization Mechanism in Agent-based Meta Search Engine. In **_Journal of Computational Information Systems_** (Vol. 8, pp. 1-8). Springer, 2012.
++ Li, Q., Zou, Y. and **Sun, Y.**, "User Personalization Mechanism in Agent-based Meta Search Engine. In **_Journal of Computational Information Systems_** (Vol. 8, pp. 1-8). Springer, 2012.     
+
+## Patents
+
++ Li, Q., **Sun, Y.** and et al., 2012. Agent Based Intelligent Meta Search Engines System, CN Patent No. 102902800 A. 
++ Li, Q., Zou, Y., **Sun, Y.** and et al., 2013. A Personalized Method of Agent Based Meta Search Engines, CN Patent No.103593413 A.
+
 
 <br>    
 ## Conference Proceedings   
