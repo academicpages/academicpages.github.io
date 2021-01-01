@@ -7,9 +7,9 @@ author_profile: true
 <br>    
 ## Journal Articles
 
-+ **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**,2020. (in submission)
++ **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
 
-+ **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C., "The COVID-19 Trial Finder". **_Journal of the American Medical Informatics Association(JAMIA)_**,2020. 
++ **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C., "The COVID-19 Trial Finder". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2020. 
 
 + **Sun, Y.**, Guo, F., Kaffashi, F., Jacono, F.J., DeGeorgia, M. and Loparo, K.A., "INSMA: An integrated system for multimodal data acquisition and analysis in the intensive care unit". **_Journal of Biomedical Informatics(JBI)_**, p.103434, 2020.
 
@@ -29,6 +29,8 @@ author_profile: true
 
 <br>    
 ## Conference Proceedings   
+
++ Li,X., Liu, H., Kury, F., Yuan, C., Butler, A., **Sun, Y.**, Ostropolets,A., Xu, H., Weng C., "Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model" In **_American Medical Informatics Association 2020 Annual Symposium (AMIA) Virtual Summit_**, 2021
 
 + **Sun, Y.**, Kolacinski, R. and Loparo, K., ”Eliminating search intent bias in learning to rank“. In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 108-115). IEEE, 2020, February. 
     
