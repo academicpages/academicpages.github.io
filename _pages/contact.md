@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Office
-  PH20    
+  PH-20    
   Department of Biomedical Informatics (DBMI)  
   Columbia University Irving Medical Center (CUIMC)    
   Columbia University 
