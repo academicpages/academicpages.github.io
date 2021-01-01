@@ -18,8 +18,21 @@ My research interests include Natural Language Processing, Machine Learning, wit
 
 News    
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+<font color=red>[11.2019]</font> Our paper was accepted by the Workshop on Security and Privacy on Blockachain!
+
+<font color=red>[11.2019]</font> Our paper was accepted by IEEE BigData'19!
+
+<font color=red>[11.2019]</font> I joined Kent State University as an assistant professor!
+
+<font color=red>[11.2019]</font> I will serve as the TPC member for ICNC'20 WN!
+
+<font color=red>[11.2019]</font> Our paper was accepted by IJCAI'19 (AR: 850/4751=17.9%)!
+
+<font color=red>[11.2019]</font> I will serve as a program committee member in The First Workshop on Security and Privacy on Blockchain for Big Data Applications (SPB'19)!
+
+<font color=red>[11.2019]</font> I have successfully defended my Ph.D. dissertation!
+
+<font color=red>[11.2019]</font> Our paper was accepted by IEEE BigData'18 (AR: 98/518=18.9%)!
+
+<font color=red>[11.2019]</font> I will serve as a TPC member for IEEE GreenCom'19!
+  
