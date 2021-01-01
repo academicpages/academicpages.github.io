@@ -7,7 +7,11 @@ author_profile: true
 <br>    
 ## Journal Articles
 
-+ **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
++ **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim, J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
+
++ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "A Knowledge Base of Clinical Trial Eligibility Criteria". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
+
++ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_Diabetes, Obesity and Metabolism_**, 2020. (in submission)
 
 + **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C., "The COVID-19 Trial Finder". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2020. 
 
