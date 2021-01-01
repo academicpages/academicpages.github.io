@@ -18,21 +18,22 @@ My research interests include Natural Language Processing, Machine Learning, wit
 
 News    
 ======
-aaaa <font color=red>[11.2019]</font> Our paper was accepted by the Workshop on Security and Privacy on Blockachain! <br /> 
+<font color=red>[11.2020]</font> Our paper was accepted by the Workshop on Security and Privacy on Blockachain!    
 
-<font color=red>[11.2019]</font> Our paper was accepted by IEEE BigData'19!
+<font color=red>[10.2020]</font> Our paper was accepted by IEEE BigData'19!    
 
-<font color=red>[11.2019]</font> I joined Kent State University as an assistant professor!
+<font color=red>[10.2020]</font> Our paper was accepted by IEEE BigData'19!    
 
-<font color=red>[11.2019]</font> I will serve as the TPC member for ICNC'20 WN!
+<font color=red>[10.2020]</font> Our paper was accepted by IEEE BigData'19!    
 
-<font color=red>[11.2019]</font> Our paper was accepted by IJCAI'19 (AR: 850/4751=17.9%)!
+<font color=red>[9.2020]</font> I joined Kent State University as an assistant professor!    
 
-<font color=red>[11.2019]</font> I will serve as a program committee member in The First Workshop on Security and Privacy on Blockchain for Big Data Applications (SPB'19)!
+<font color=red>[8.2020]</font> I will serve as the TPC member for ICNC'20 WN!    
 
-<font color=red>[11.2019]</font> I have successfully defended my Ph.D. dissertation!
+<font color=red>[7.2020]</font> Our paper was accepted by IJCAI'19 (AR: 850/4751=17.9%)!    
 
-<font color=red>[11.2019]</font> Our paper was accepted by IEEE BigData'18 (AR: 98/518=18.9%)!
+<font color=red>[1.2020]</font> I will serve as a program committee member in The First Workshop on Security and Privacy on Blockchain for Big Data Applications (SPB'19)!
 
-<font color=red>[11.2019]</font> I will serve as a TPC member for IEEE GreenCom'19!
+<font color=red>[12.2019]</font> I have successfully defended my Ph.D. dissertation!
+
   
