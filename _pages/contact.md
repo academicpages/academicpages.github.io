@@ -7,13 +7,13 @@ author_profile: true
 
 
 ## Office
-  Olin-610
-  Department of Computer and Data Sciences (CDS)
-  Case School of Engineering (CSE)
-  Case Western Reserve University (CWRU)    
+  PH20    
+  Department of Biomedical Informatics (DBMI)  
+  Columbia University Irving Medical Center (CUIMC)    
+  Columbia University 
   
 ## Contact
-Email: yingcheng.sun (at) columbia (dot) edu
-Personal Webpage: https://yes-lab.org
-CWRU Website: https://engineering.case.edu/profiles/yxy1032
+Email: yingcheng.sun (at) columbia (dot) edu    
+Personal Webpage: https://yingchengsun.github.io/academic/    
+Columbia Website:  
 
