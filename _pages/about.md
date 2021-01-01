@@ -18,7 +18,7 @@ My research interests include Natural Language Processing, Machine Learning, wit
 
 News    
 ======
-<font color=red>[11.2019]</font> Our paper was accepted by the Workshop on Security and Privacy on Blockachain!
+aaaa <font color=red>[11.2019]</font> Our paper was accepted by the Workshop on Security and Privacy on Blockachain! <br /> 
 
 <font color=red>[11.2019]</font> Our paper was accepted by IEEE BigData'19!
 
