@@ -22,12 +22,13 @@ author_profile: true
 + Li, Q., Zou, Y. and **Sun, Y.**, "User Personalization Mechanism in Agent-based Meta Search Engine. In **_Journal of Computational Information Systems_** (Vol. 8, pp. 1-8). Springer, 2012.
 
 <br>    
-## Conference Proceedings
-+ **Sun, Y.**, Kolacinski, R. and Loparo, K., ”Eliminating search intent bias in learning to rank“. In **_IEEE 14th International Conference on Semantic Computing (ICSC)_**(pp. 108-115). IEEE, 2020, February. 
+## Conference Proceedings   
+
++ **Sun, Y.**, Kolacinski, R. and Loparo, K., ”Eliminating search intent bias in learning to rank“. In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 108-115). IEEE, 2020, February. 
     
-    \item \textbf{Sun, Y.}, Loparo, K. and Kolacinski, R., 2020, February. Conversational structure aware and context sensitive topic model for online discussions. In \textit{2020 IEEE 14th International Conference on Semantic Computing} (ICSC) (pp. 85-92). IEEE.
++ **Sun, Y.**, Loparo, K. and Kolacinski, R., "Conversational structure aware and context sensitive topic model for online discussions". In **_IEEE 14th International Conference on Semantic Computing} (ICSC)_** (pp. 85-92). IEEE, 2020, February.
     
-    \item Liu, H., Yuan, C., Butler, A., \textbf{Sun, Y.}  and Weng, C., 2020, December. Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping. In \textit{merican Medical Informatics Association 2020 Annual Symposium } (AMIA). 
++ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. 
    
     
     \item \textbf{Sun, Y.} and Loparo, K., 2019, November. Opinion Spam Detection Based on Heterogeneous Information Network. In \textit{2019 IEEE 31st International Conference on Tools with Artificial Intelligence} (ICTAI) (pp. 1156-1163). IEEE. 
