@@ -7,7 +7,7 @@ main:
     url: /research/    
 
   - title: "Teaching"
-    url: /teaching.md   
+    url: /teaching/
       
   - title: "Services"
     url: /services/
