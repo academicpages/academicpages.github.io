@@ -23,8 +23,8 @@ author_profile: true
 
 ## Patents
 
-+ Li, Q., **Sun, Y.** and et al., 2012. Agent Based Intelligent Meta Search Engines System, CN Patent No. 102902800 A. 
-+ Li, Q., Zou, Y., **Sun, Y.** and et al., 2013. A Personalized Method of Agent Based Meta Search Engines, CN Patent No.103593413 A.
++ Li, Q., **Sun, Y.** and et al., "Agent Based Intelligent Meta Search Engines System", CN Patent No. 102902800 A. 2012. 
++ Li, Q., Zou, Y., **Sun, Y.** and et al., "A Personalized Method of Agent Based Meta Search Engines", CN Patent No.103593413 A. 2013. 
 
 
 <br>    
@@ -36,29 +36,29 @@ author_profile: true
     
 + Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. 
        
-+ **Sun, Y.** and Loparo, K., "Opinion Spam Detection Based on Heterogeneous Information Network". In **_2019 IEEE 31st International Conference on Tools with Artificial Intelligence} (ICTAI)_** (pp. 1156-1163). IEEE. 2019, November. 
++ **Sun, Y.** and Loparo, K., "Opinion Spam Detection Based on Heterogeneous Information Network". In **_IEEE 31st International Conference on Tools with Artificial Intelligence} (ICTAI)_** (pp. 1156-1163). IEEE. 2019, November. 
 
-+ **Sun, Y.}, Cai, X. and Loparo, K., 2019, July. Learning - based Adaptation Framework for Elastic Software Systems. In \textit{2019 IEEE 31st International Conference on Software Engineering and Knowledge Engineering} (SEKE) (Vol. 1, pp. 281-286). IEEE.
++ **Sun, Y.**, Cai, X. and Loparo, K., "Learning - based Adaptation Framework for Elastic Software Systems". In **_IEEE 31st International Conference on Software Engineering and Knowledge Engineering} (SEKE)_** (Vol. 1, pp. 281-286). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., 2019, July. Topic Shift Detection in Online Discussions using Structural Context. In \textit{2019 IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC) (Vol. 1, pp. 948-949). IEEE.
++ **Sun, Y.** and Loparo, K., "Topic Shift Detection in Online Discussions using Structural Context". In **_IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC)_** (Vol. 1, pp. 948-949). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., 2019, July. Information Extraction from Free Text in Clinical Trials with Knowledge-Based Distant Supervision. In\textit{ 2019 IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC) (Vol. 1, pp. 954-955). IEEE.
++ **Sun, Y.** and Loparo, K., "Information Extraction from Free Text in Clinical Trials with Knowledge-Based Distant Supervision". In **_IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC)_** (Vol. 1, pp. 954-955). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., 2019, July. A Clicked-URL Feature for Transactional Query Identification. In \textit{2019 IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC) (Vol. 1, pp. 950-951). IEEE.
++ **Sun, Y.** and Loparo, K., "A Clicked-URL Feature for Transactional Query Identification". In **_IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC)_** (Vol. 1, pp. 950-951). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., 2019, July. Context Aware Image Annotation in Active Learning with Batch Mode. In \textit{2019 IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC) (Vol. 1, pp. 952-953). IEEE.
++ **Sun, Y.** and Loparo, K., "Context Aware Image Annotation in Active Learning with Batch Mode". In **_IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC)_** (Vol. 1, pp. 952-953). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., 2019, July. A Common Gene Expression Signature Analysis Method for Multiple Types of Cancer. In \textit{2019 19th Industrial Conference on Data Mining}. (Vol. 1, pp. 200-211). Springer. 
++ **Sun, Y.** and Loparo, K., "A Common Gene Expression Signature Analysis Method for Multiple Types of Cancer". In **_19th Industrial Conference on Data Mining_**. (Vol. 1, pp. 200-211). Springer. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., 2019, July. Knowledge-guided Text Structuring in Clinical Trials. In 2019 \textit{19th Industrial Conference on Data Mining}. (Vol. 1, pp. 211-219). Springer.  
++ **Sun, Y.** and Loparo, K., "Knowledge-guided Text Structuring in Clinical Trials". In **_19th Industrial Conference on Data Mining_**. (Vol. 1, pp. 211-219). Springer. 2019, July.  
 
-+ **Sun, Y.** and Loparo, K., 2019, July. Context Aware Image Annotation in Active Learning. In 2019 \textit{19th Industrial Conference on Data Mining}. (Vol. 1, pp. 251-262). Springer.
++ **Sun, Y.** and Loparo, K., "Context Aware Image Annotation in Active Learning". In **_19th Industrial Conference on Data Mining_**. (Vol. 1, pp. 251-262). Springer. 2019, July. 
 
-+ **Sun, Y.** and Li, Q., 2012, August. The research situation and prospect analysis of meta-search engines. In \textit{2012 2nd International Conference on Uncertainty Reasoning and Knowledge Engineering} (pp. 224-229). IEEE.
++ **Sun, Y.** and Li, Q., "The research situation and prospect analysis of meta-search engines". In **_2nd International Conference on Uncertainty Reasoning and Knowledge Engineering_** (pp. 224-229). IEEE. 2012, August. 
 
-+ Li, Q. and **Sun, Y.**, 2012, October. An agent based intelligent meta search engine. In \textit{2012 4th International Conference on Web Information Systems and Mining }(WISM) (pp. 572-579). Springer.
++ Li, Q. and **Sun, Y.**, "An agent based intelligent meta search engine". In **_2012 4th International Conference on Web Information Systems and Mining (WISM)_** (pp. 572-579). Springer. 2012, October. 
 
-+ Li, Q., Zou, Y. and **Sun, Y.**, 2012, August. Ontology based user personalization mechanism in meta search engine. In\textit{ 2012 2nd International Conference on Uncertainty Reasoning and Knowledge Engineering} (pp. 230-234). IEEE.
++ Li, Q., Zou, Y. and **Sun, Y.**, "Ontology based user personalization mechanism in meta search engine". In **_2nd International Conference on Uncertainty Reasoning and Knowledge Engineering_** (pp. 230-234). IEEE. 2012, August. 
 
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
