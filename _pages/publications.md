@@ -23,11 +23,10 @@ author_profile: true
 
 ## Patents
 
-+ Li, Q., **Sun, Y.** and et al., "Agent Based Intelligent Meta Search Engines System", CN Patent No. 102902800 A. 2012. 
-+ Li, Q., Zou, Y., **Sun, Y.** and et al., "A Personalized Method of Agent Based Meta Search Engines", CN Patent No.103593413 A. 2013. 
++ Li, Q., **Sun, Y.**, Zou, Y., Xu, J., Xi, B. "Agent Based Intelligent Meta Search Engines System", CN Patent No. 102902800 A. 2012. 
++ Li, Q., Zou, Y., **Sun, Y.**, Xu, J., Xi, B.,"A Personalized Method of Agent Based Meta Search Engines", CN Patent No.103593413 A. 2013.     
 
 
-<br>    
 ## Conference Proceedings   
 
 + Li,X., Liu, H., Kury, F., Yuan, C., Butler, A., **Sun, Y.**, Ostropolets,A., Xu, H., Weng C., "Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model" In **_American Medical Informatics Association 2020 Annual Symposium (AMIA) Virtual Summit_**, 2021
@@ -62,5 +61,5 @@ author_profile: true
 
 + Li, Q., Zou, Y. and **Sun, Y.**, "Ontology based user personalization mechanism in meta search engine". In **_2nd International Conference on Uncertainty Reasoning and Knowledge Engineering_** (pp. 230-234). IEEE. 2012, August. 
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{https://scholar.google.com/citations?hl=en&user=VCxrWbsAAAAJ}}">my Google Scholar profile</a>.</u>
 
