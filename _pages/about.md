@@ -18,7 +18,9 @@ My research interests include Natural Language Processing, Machine Learning, wit
 
 News    
 ======
- <font color=red>[12.2020]</font> Our paper was accepted by AMIA 2021 Virtual Informatics Summit!<br />
+<span style="color:blue">[12.2020]</span> Our paper was accepted by AMIA 2021 Virtual Informatics Summit!    
+
+<font color=red>[12.2020]</font> Our paper was accepted by AMIA 2021 Virtual Informatics Summit!<br />
 
  <font color=red>[12.2020]</font> I will serve as the TPC member for The Seventh International Conference on Big Data, Small Data, Linked Data and Open Data (ALLDATA) 2021!<br />
 
