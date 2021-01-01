@@ -8,6 +8,8 @@ author_profile: true
     
 ## Journal Articles
 
++ **Sun, Y.**, Butler, A., Diallo1, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "Systematic Evaluation of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
+
 + **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim, J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
 
 + Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "A Knowledge Base of Clinical Trial Eligibility Criteria". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
