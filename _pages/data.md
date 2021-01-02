@@ -21,3 +21,7 @@ author_profile: true
 ## Political Liberalism Index Data
 #### [Political Liberalism Index](https://yongjunzhang.com/files/liberalism_zip.csv) for each zip code (5-digits) based on FEC individual contributions files. This is a measure capturing the extent to which the local community is more democrat-leaning in prior 3 election cycles. For the details of constructing the measure please check Gupta and Briscoe (2019) ASQ paper. 
 
+#### SP1500 Elite Ideology Data, 2000-2018 (Liberalism Index for CEO, Board, Employee, and TMT). Available upon request.
+
+#### Corporate Elite Ideology Data, 1980-2014 (Merge BoardEx with DIME data). Available upon request.
+
