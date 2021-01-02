@@ -13,7 +13,7 @@ location: "United States"
 
 <b><big> Mentor, Científico Latino’s Graduate Student Mentorship Initiative (GSMI)  </big></b><br> <b>Fall 2020</b>
 
-* Guide 1 underrepresented undergraduate student in applying for graduate program in neuroscience 
+* Guided 1 underrepresented undergraduate student in applying for graduate program in neuroscience 
 
 <br>
 
@@ -25,6 +25,6 @@ location: "United States"
 
 <b><big>Mentor, UCSB</big></b><br> <b> Winter 2018 – Summer 2018</b>
 
-* Supervised one undergraduate in setting goals and making quarterly plans for undergraduate research
-* Supervised one high school student in fMRI data analysis, oral presentations, and academic writing      
+* Supervised 1 undergraduate in setting goals and making quarterly plans for undergraduate research
+* Supervised 1 high school student in fMRI data analysis, oral presentations, and academic writing      
 
