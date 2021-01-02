@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-[CV](http://lilianyou.github.io/files/You_Cheng_CV_Dec_23_2020.pdf)
+[full CV](http://lilianyou.github.io/files/You_Cheng_CV_Jan_2_2021.pdf)
 
 Education
 ======
