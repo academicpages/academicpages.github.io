@@ -5,7 +5,7 @@ main:
     url: /#education
     
   - title: "Publications"
-    url: /#publications
+    url: /publications/
 
   - title: "Awards"
     url: /#awards
