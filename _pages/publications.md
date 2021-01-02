@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected First-authored Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -43,6 +43,6 @@ In Proc. of SIGIR 2018: The 41st International ACM SIGIR Conference on Research 
 
 In Submission
 ======
-* **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**
+* **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
 Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing. 
