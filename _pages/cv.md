@@ -47,9 +47,9 @@ Publications
 Select Conference Presentations 
 ======
 <b><big>Oral Presentations</big></b>
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [news](/posts/2020/10/blog-post-4/) [video (please watch 1:41 - 1:55)](https://www.youtube.com/watch?v=rMSzHMW_kgQ)
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [news](/posts/2020/10/blog-post-4/) [video (please watch 1:41 - 1:55)](https://www.youtube.com/watch?v=rMSzHMW_kgQ)
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), remote. Oct., 2020. [news](/posts/2020/10/blog-post-2/)
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), remote. Oct., 2020. [news](/posts/2020/10/blog-post-2/)
 
 * <b>Cheng, Y. </b>. Travel Direction as a Fundamental Component of Human Navigation, UCI Cognitive Sciences Department Graduate Student Presentation Bonanza, Irvine. Jan., 2020.
   
@@ -59,31 +59,31 @@ Select Conference Presentations
   
 * <b>Cheng, Y. </b>. Domain-General Distance Representation, Spring Quarter UCSB Geography Department Colloquium, Santa Barbara. May, 2019.
   
-* <b>Cheng, Y. </b>, Chrastil, E.R. From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines, Collective Spatial Cognition Specialist Meeting, Santa Barbara. April, 2019.
+  * <b>Cheng, Y. </b>, Chrastil, E.R.. From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines, Collective Spatial Cognition Specialist Meeting, Santa Barbara. April, 2019.
   
 * <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightening Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [video](https://www.youtube.com/watch?v=z5eQH3SGhoY)
   
-* <b>Cheng, Y. </b>, Liang, Y., Tang, Z. Mixed Time-Based and Event-Based Prospective Memory: A Behavioral Study, the 16th National Academic Congress of Psychology, Nanjing, China. Nov., 2013. 
+  * <b>Cheng, Y. </b>, Liang, Y., Tang, Z.. Mixed Time-Based and Event-Based Prospective Memory: A Behavioral Study, the 16th National Academic Congress of Psychology, Nanjing, China. Nov., 2013. 
 
 <br>
 <b><big>Poster Presentations</big></b>
 
-* <b>Cheng, Y. </b>, Chrastil, E.R. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020. [news](/posts/2020/11/blog-post-1/)
+* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020. [news](/posts/2020/11/blog-post-1/)
 
 * Downs, M., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in and Beyond the U.S. LTER Network, Ecological Society of America Annual Meeting, Virtual. Aug., 2020.
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Interdepartmental Neuroscience Program (INP) recruitment session, Irvine. Jan., 2020.
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Interdepartmental Neuroscience Program (INP) recruitment session, Irvine. Jan., 2020.
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Psychonomic Society Annual Meeting, Montreal, Canada. Nov., 2019.
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Psychonomic Society Annual Meeting, Montreal, Canada. Nov., 2019.
 
-* <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Embodied Experience of the ‘Wrong’ Hand, Not World Knowledge, Supports the Mental Rotation of Hands, Psychonomic Society Annual Meeting, New Orleans, USA. Nov., 2018.
+* <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R.. Embodied Experience of the ‘Wrong’ Hand, Not World Knowledge, Supports the Mental Rotation of Hands, Psychonomic Society Annual Meeting, New Orleans, USA. Nov., 2018.
 
-* <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Performance Discrepancy Between Left-handers and Right-handers Reveals Multisensory Integration in the Mental Rotation of Hands, Spatial Cognition, Tübingen, Germany. Aug., 2018.
+* <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R.. Performance Discrepancy Between Left-handers and Right-handers Reveals Multisensory Integration in the Mental Rotation of Hands, Spatial Cognition, Tübingen, Germany. Aug., 2018.
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), Quebec, Canada. June, 2018.
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), Quebec, Canada. June, 2018.
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Are You Getting Closer to the Sun or to the Moon? An Unusual Motion Adaptation Effect of Travel Direction. spatial@ucsb.local2018, UCSB Center for Spatial Studies. University of California, Santa Barbara. June, 2018.
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Are You Getting Closer to the Sun or to the Moon? An Unusual Motion Adaptation Effect of Travel Direction. spatial@ucsb.local2018, UCSB Center for Spatial Studies. University of California, Santa Barbara. June, 2018.
 
-* Chrastil, E.R., Nicora, G., Davis, R., Smith, J., <b>Cheng, Y. </b> The Influence of Decision-Making on Spatial Learning and Memory: An Individual Differences Approach, Society for Neuroscience Annual Meeting, Washington DC, USA. Nov., 2017.
+* Chrastil, E.R., Nicora, G., Davis, R., Smith, J., <b>Cheng, Y. </b>. The Influence of Decision-Making on Spatial Learning and Memory: An Individual Differences Approach, Society for Neuroscience Annual Meeting, Washington DC, USA. Nov., 2017.
 
-* <b>Cheng, Y. </b>, Qu, C. Cost Consideration Driven by Prosociality in Third-party Punishment: Using Feedback Related Negativity, Society for Neuroscience Annual Meeting, Chicago, USA. Oct., 2015.
+* <b>Cheng, Y. </b>, Qu, C.. Cost Consideration Driven by Prosociality in Third-party Punishment: Using Feedback Related Negativity, Society for Neuroscience Annual Meeting, Chicago, USA. Oct., 2015.
