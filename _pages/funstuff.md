@@ -73,6 +73,3 @@ I'm also a huge Game of Thrones fan-- one of my life goals is to visit all the m
     <a href="../images/IMG_5014.png"><img src="../images/IMG_5014.png"></a>
     <figcaption>Steps of Braavos where the Waif chases Arya.</figcaption>
 </figure>
-
-I wrote a [short article](https://medium.com/@abbylee/back-from-a-month-long-europe-backpacking-trip-44f33ddcaf3e) about my time backpacking in Europe for one month after graduating from undergrad. Read if you want any recommendations about budgeting, traveling, and food! Or if you're just curious.
-

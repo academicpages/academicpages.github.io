@@ -1,0 +1,27 @@
+---
+title: "Environmentalism & Animal Rights"
+layout: archive
+author_profile: true
+permalink: /stopclimatechange/
+---
+
+I am extremely passionate about animal rights and ending climate change. One of my greatest life goals is to see the end of animal agriculture and factory farms, both of which contribute heavily to climate change. We can make huge leaps and bounds by adopting  vegan and plant-based diets. Going vegan was the best decision of my life, and I am so happy to have saved thousands of animals lives as well as billions of gallons of water and carbon emissions. So why _exactly_ should one go vegan? Here are only a few (of many) reasons that convinced me: 
+
+Environmental Reasons for being Vegan
+====== 
+It is simply paradoxical to be both an environmentalist and still eat meat. Eating animal products is no longer sustainable. The US government heavily subsidizes the animal agricultural industry due to their wealthy lobbyists, which is why meat is so cheap (1).  
+
+Ethical Reasons for being Vegan
+======
+Cows, pigs, fish, chickens, and other animals that often wind up on plates have emotions, just like you and me. They experience love, grief, and fear. 
+
+- **Pigs** have the emotional capacity and intelligence of 5-year-old humans. Yet they are stuffed into pens with so little moving room for their entire lives, that their muscles atrophy. Pigs are beaten brutally every day. Once impregnated, the sows are confined to gestation crates, typically 2’x7’, for up to four months until their offspring are born. The floors of these crates are slatted so that urine and feces can fall through. There is no bedding, even straw, for the animals to rest on. To avoid the behavior known as tail-biting, newborn piglets have their tails docked near the base without the use of anesthesia. Newborn piglets often have their ears notched and teeth removed, again without anesthesia. Ammonia fumes rise to dangerous, uncomfortable levels due to high concentrations of waste. Most pigs never see sunlight their entire life until slaughter. 
+![Pigs are left in horrible conditions in factory farms](../images/pigs.jpg)
+- **Cows are over-fed to the point of extreme obesity. Unnaturally high milk production can lead to mastitis, a painful bacterial infection of a cow’s udder. Dairy cows often have up to two-thirds of their tails and their horns removed without painkillers. Just as with humans, cows only produce milk as a side effect of giving birth. To keep the milk flowing, dairy farms artificially inseminate cows once a year. Their gestation period lasts nine months, so the majority of most dairy cows’ lives are spent pregnant. When a calf is born, he or she is removed from the mother—generally that same day—to make the mother’s milk available for collection. This can be hugely traumatic to mother cows and to their calves.
+-  **Chickens**: Approximately 9 billion chickens are killed for their meat every year, while another 300 million chickens are used in egg production. Nearly all meat chickens are raised indoors in large sheds containing 20,000 chickens (or more) crowded together on the shed floor. Due to the high concentration of birds living atop of their own waste without adequate ventilation, high ammonia levels develop—irritating eyes, throats and skin. Modern chickens look very little like their wild chicken ancestors. Thanks to selective breeding—combined with low-dose antibiotics, excessive feeding and inadequate exercise—most industrially raised meat chickens grow unnaturally quickly and disproportionately. While their breasts grow large to meet market demand, their skeletons and organs lag behind. Many suffer heart failure, trouble breathing, leg weakness and chronic pain. Some cannot support their own weight and become crippled, unable to reach food and water. The roughly 330 million egg-laying hens [PDF] in the U.S. are mostly raised in long, windowless sheds containing rows of stacked “battery cages.” Up to 10 hens are packed together in one wire cage roughly the size of a file drawer. The frustration of living in such unnatural conditions leads to abnormal pecking behavior and cannibalism. To “fix” this problem, the industry burns or cuts off a portion of hens’ sensitive beaks. Since eggs are laid only by females, what happens to the males? Half of the chicks hatched in this industry are male, but there’s no market for male chicks born with egg-layer genetics since they’re slow-growing and lanky, so they are killed at the hatchery.
+![Overcrowding conditions for Chickens](../images/chickens.jpg)
+- **Fish**: There is a common misconception that fish and other aquatic vertebrates do not feel pain; however, studies demonstrate that they are sentient and capable of both fear and suffering. As on industrial land-based farms, farmed fish are often housed in overcrowded conditions ripe for injury, disease transfer and stress. As there are no regulations around the humane treatment of fish, they most often are not stunned before slaughter, meaning that they are fully conscious. They are killed by bleeding out, blunt force, suffocation or freezing.
+
+
+Sources: 
+1. [The animal agriculture industry is heavily subsidized by the US government](https://cleantechnica.com/2016/12/19/animal-agriculture-subsidies-threaten-planet/#:~:text=Each%20year%2C%20American%20taxpayers%20subsidize,in%20hidden%20costs%20on%20taxpayers)
