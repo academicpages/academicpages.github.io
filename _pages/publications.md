@@ -16,7 +16,7 @@ author_profile: true
 
 + Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_Diabetes, Obesity and Metabolism_**, 2020. (in submission)
 
-+ **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C., "The COVID-19 Trial Finder". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2020. 
++ **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C., "The COVID-19 Trial Finder". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2020. [pdf](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa304/5995330) [code](https://github.com/WengLab-InformaticsResearch/covid19-trialfinder)[website](https://covidtrialx.dbmi.columbia.edu/)
 
 + **Sun, Y.**, Guo, F., Kaffashi, F., Jacono, F.J., DeGeorgia, M. and Loparo, K.A., "INSMA: An integrated system for multimodal data acquisition and analysis in the intensive care unit". **_Journal of Biomedical Informatics(JBI)_**, p.103434, 2020.
 
