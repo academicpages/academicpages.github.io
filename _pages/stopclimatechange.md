@@ -65,6 +65,9 @@ Q: How do I get enough protein on a vegan diet?
 Q: Veganism is so expensive!
 - A: My grocery bill was halved after I became vegan. Beans/rice (which is mostly what I eat) are extremely cheap.  There are many ways to eat vegan without breaking the bank! I am happy to discuss this further if people need tips. 
 
+Q: I am just one person! How will me being vegan do _anything_?
+- A: You can help the world so much by going vegan, not only individually but also systemically. On an individual level, you can save the lives of 200 animals a year. If you went vegan for a month you’d save 620 pounds of harmful carbon dioxide emissions, 913 square feet of forest – which is razed to the ground to make way for farmed animals – and 33,481 gallons of water. To put that into perspective, If you simply skip one pound of beef, you are saving 1799 gallons of water, says The LA Times, which is equivalent to flushing a toilet 514 times. Systemically, the world is already making way for vegans. Vegan alternatives (almond milk, Impossible beef, to name a couple) are making their way into the markets in response to increasing need. We are slowly shifting social norms. Meat is the "new smoking." When politicians start to realize their constituents stop supporting animal agriculture, they will stop passing bills to subsidize the animal agriculture industry. There are other ways to help enact systemic change as well: attend protests against companies like Canada Goose and Urban Outfitters, who use cruel practices for their fur and wool clothing. Post about animal rights on Facebook, and share information and articles. Right op-eds for your local newspaper. Wear animal rights clothing. Volunteer at local animal shelters or sanctuaries. Call your senator about a piece of legislation. Support organizations that use ethical practices in food and clothing. The world can be a better place. 
+
 
 Sources: 
 ======
