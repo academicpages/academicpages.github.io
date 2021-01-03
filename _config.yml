@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rogério T. Cavalcanti"
   avatar           : "profile.png"
-  bio              : #"Relatividade geral e além, buracos negros e estrutura algébrica de espinores"
+  bio              : " " #"Relatividade geral e além, buracos negros e estrutura algébrica de espinores"
   location         : #"São Paulo - SP"
   employer         : "Universidade Federal do ABC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
