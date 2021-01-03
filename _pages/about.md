@@ -14,7 +14,7 @@ I joined the Department of Biomedical Informatics at [Columbia University](https
 Research    
 ======
 
-My research interests include Natural Language Processing, Machine Learning, with applications in medical text mining and information retrival.
+My research interests include Natural Language Processing, Machine Learning, with applications in medical text mining and web text mining.
 
 
 News    
