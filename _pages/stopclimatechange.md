@@ -5,7 +5,7 @@ author_profile: true
 permalink: /stopclimatechange/
 ---
 
-I am extremely passionate about animal rights and ending climate change. One of my greatest life goals is to see the end of animal agriculture and factory farms, both of which contribute heavily to climate change. We can make huge leaps and bounds by adopting  vegan and plant-based diets. Going vegan was the best decision of my life, and I am so happy to have saved thousands of animals lives as well as billions of gallons of water and carbon emissions. So why _exactly_ should one go vegan? Here are only a few (of many) reasons that convinced me: 
+I feel strongly about animal rights and ending climate change. My goal is to see the end of animal agriculture and factory farms, both of which contribute heavily to climate change. We can make huge leaps and bounds by adopting vegan and plant-based diets. Going vegan was the best decision of my life, and I am so happy to have saved thousands of animals lives as well as billions of gallons of water and carbon emissions. So why _exactly_ should one go vegan? Here are only a few (of many) reasons that convinced me: 
 
 Environmental Reasons for being Vegan
 ====== 
@@ -33,9 +33,33 @@ I highly highly recommend watching the documentary "Dominion," which does an exc
 In addition, there are a myriad of actions one can take to reduce the overall suffering of animals in the world. Here are just a few:
 ![](../images/peta.png)
 
+Resources
+======
+Going vegan can be extremely intimidating at first. But in the end, it is a much better decision for the planet, animals, and your health. Veganism has been shown to reduce cardiovascular disease, cancer, and diabetes (5). Here are a couple of resources that I found extremely helpful in transitioning to a vegan diet: 
+
+**Books**
+- Animal Liberation, by Peter Singer: Peter Singer explains 'speciesm'; why do humans think they have more right to the earth and its resources than other animals? And other thought-provoking philosophical questions. 
+- The Joyful Vegan, by Colleen Patrick-Goudreau: a great intro for new vegans on tips for staying vegan, as well as many 'counterarguments' towards 'excuse-itarians' (people who still justify eating animals to themselves
+
+**Podcasts**: 
+- Food for Thought, Colleen Patrick-Goudreau: again, a great into for new vegans. There is a huge collection of podcasts that I found immensely helpful. Some of the questions she helps answer are: What about 'ethically-raised' meat or dairy? What do I do in social situations as a vegan? Can I still eat fish?
+
+**Documentaries**:
+- Dominion: An amazingly well-produced documentary about the horrors of animal agriculture
+- What the Health: Shows the health benefits of a vegan diet
+- Game Changers: shows veganism can be great for athletes
+- Cowspiracy: exposes the horrible effects animal agriculture has on the environment 
+
+FAQ
+======
+And finally, the most frequently asked questions that I get from potential vegans: 
+Q: How do I 
+
 
 Sources: 
+======
 1. [The animal agriculture industry is heavily subsidized by the US government](https://cleantechnica.com/2016/12/19/animal-agriculture-subsidies-threaten-planet/#:~:text=Each%20year%2C%20American%20taxpayers%20subsidize,in%20hidden%20costs%20on%20taxpayers)
 2. [Acres of land being bulldozed by the minute for animal agriculture](https://www.sciencedaily.com/releases/2002/01/020115075118.htm)
 3. [Meat is murder for the enviornment](https://www.newscientist.com/article/mg19526134-500-meat-is-murder-on-the-environment/)
 4. [Assessing the Environmental Impacts of Consumption and Production](https://www.resourcepanel.org/reports/assessing-environmental-impacts-consumption-and-production)
+5. [Vegan diet benifits](https://www.healthline.com/nutrition/vegan-diet-benefits)
