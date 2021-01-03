@@ -74,7 +74,8 @@ author_profile: true
 ## Thesis
 
 + **Sun, Y.**, "Topic Modeling and Spam Detection for Short Text Segments in Web Forums", 2020 (Doctoral dissertation, Case Western Reserve University).
-+ **Sun, Y.**, "Research and Implementation of Personalization of Agent-based Intelligent Meta Search Engine", 2013 (Master dissertation, Xidian University).
++ **Sun, Y.**, "Research and Implementation of Personalization of Agent-based Intelligent Meta Search Engine", 2013 (Master dissertation, Xidian University).    
+
 
 You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=VCxrWbsAAAAJ">my Google Scholar profile</a>.
 
