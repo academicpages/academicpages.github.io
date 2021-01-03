@@ -8,7 +8,7 @@ author_profile: true
     
 ## Journal Articles
 
-+ **Sun, Y.**, Butler, A., Diallo1, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "Systematic Evaluation of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
++ **Sun, Y.**, Butler, A., Diallo1, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "Systematic Evaluation Framework for Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
 
 + **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim, J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2020. (in submission)
 
@@ -44,17 +44,17 @@ author_profile: true
     
 + Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. 
        
-+ **Sun, Y.** and Loparo, K., "Opinion Spam Detection Based on Heterogeneous Information Network". In **_IEEE 31st International Conference on Tools with Artificial Intelligence} (ICTAI)_** (pp. 1156-1163). IEEE. 2019, November. 
++ **Sun, Y.** and Loparo, K., "Opinion Spam Detection Based on Heterogeneous Information Network". In **_IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)_** (pp. 1156-1163). IEEE. 2019, November. 
 
-+ **Sun, Y.**, Cai, X. and Loparo, K., "Learning - based Adaptation Framework for Elastic Software Systems". In **_IEEE 31st International Conference on Software Engineering and Knowledge Engineering} (SEKE)_** (Vol. 1, pp. 281-286). IEEE. 2019, July. 
++ **Sun, Y.**, Cai, X. and Loparo, K., "Learning - based Adaptation Framework for Elastic Software Systems". In **_IEEE 31st International Conference on Software Engineering and Knowledge Engineering (SEKE)_** (Vol. 1, pp. 281-286). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., "Topic Shift Detection in Online Discussions using Structural Context". In **_IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC)_** (Vol. 1, pp. 948-949). IEEE. 2019, July. 
++ **Sun, Y.** and Loparo, K., "Topic Shift Detection in Online Discussions using Structural Context". In **_IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)_** (Vol. 1, pp. 948-949). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., "Information Extraction from Free Text in Clinical Trials with Knowledge-Based Distant Supervision". In **_IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC)_** (Vol. 1, pp. 954-955). IEEE. 2019, July. 
++ **Sun, Y.** and Loparo, K., "Information Extraction from Free Text in Clinical Trials with Knowledge-Based Distant Supervision". In **_IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)_** (Vol. 1, pp. 954-955). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., "A Clicked-URL Feature for Transactional Query Identification". In **_IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC)_** (Vol. 1, pp. 950-951). IEEE. 2019, July. 
++ **Sun, Y.** and Loparo, K., "A Clicked-URL Feature for Transactional Query Identification". In **_IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)_** (Vol. 1, pp. 950-951). IEEE. 2019, July. 
 
-+ **Sun, Y.** and Loparo, K., "Context Aware Image Annotation in Active Learning with Batch Mode". In **_IEEE 43rd Annual Computer Software and Applications Conference} (COMPSAC)_** (Vol. 1, pp. 952-953). IEEE. 2019, July. 
++ **Sun, Y.** and Loparo, K., "Context Aware Image Annotation in Active Learning with Batch Mode". In **_IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)_** (Vol. 1, pp. 952-953). IEEE. 2019, July. 
 
 + **Sun, Y.** and Loparo, K., "A Common Gene Expression Signature Analysis Method for Multiple Types of Cancer". In **_19th Industrial Conference on Data Mining_**. (Vol. 1, pp. 200-211). Springer. 2019, July. 
 
