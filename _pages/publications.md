@@ -40,7 +40,7 @@ author_profile: true
 
 + **Sun, Y.**, Kolacinski, R. and Loparo, K., ”Eliminating search intent bias in learning to rank“. In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 108-115). IEEE, 2020, February. 
     
-+ **Sun, Y.**, Loparo, K. and Kolacinski, R., "Conversational structure aware and context sensitive topic model for online discussions". In **_IEEE 14th International Conference on Semantic Computing} (ICSC)_** (pp. 85-92). IEEE, 2020, February.
++ **Sun, Y.**, Loparo, K. and Kolacinski, R., "Conversational structure aware and context sensitive topic model for online discussions". In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 85-92). IEEE, 2020, February.
     
 + Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. 
        
