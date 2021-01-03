@@ -18,7 +18,7 @@ author_profile: true
 
 + **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C., "The COVID-19 Trial Finder". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2020. [pdf](/INSMA.pdf) [code](https://github.com/WengLab-InformaticsResearch/covid19-trialfinder) [website](https://covidtrialx.dbmi.columbia.edu/)
 
-+ **Sun, Y.**, Guo, F., Kaffashi, F., Jacono, F.J., DeGeorgia, M. and Loparo, K.A., "INSMA: An integrated system for multimodal data acquisition and analysis in the intensive care unit". **_Journal of Biomedical Informatics(JBI)_**, p.103434, 2020.[pdf](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa304/5995330) [code](https://github.com/yingchengsun/INSMA_Visualizer)
++ **Sun, Y.**, Guo, F., Kaffashi, F., Jacono, F.J., DeGeorgia, M. and Loparo, K.A., "INSMA: An integrated system for multimodal data acquisition and analysis in the intensive care unit". **_Journal of Biomedical Informatics(JBI)_**, p.103434, 2020.[pdf](https://yingchengsun.github.io/academic/files/INSMA.pdf) [code](https://github.com/yingchengsun/INSMA_Visualizer)
 
 + **Sun, Y.**, Kolacinski, R. and Loparo, K., "Transitive Topic Modeling with Conversational Structure Context: Discovering Topics that are Most Popular in Online Discussions". **_International Journal of Semantic Computing_**, 14(02), pp.273-293, 2020.
 
