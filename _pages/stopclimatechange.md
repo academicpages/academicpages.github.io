@@ -28,10 +28,14 @@ Cows, pigs, fish, chickens, and other animals that often wind up on plates have 
 - **Fish**: There is a common misconception that fish and other aquatic vertebrates do not feel pain; however, studies demonstrate that they are sentient and capable of both fear and suffering. As on industrial land-based farms, farmed fish are often housed in overcrowded conditions ripe for injury, disease transfer and stress. As there are no regulations around the humane treatment of fish, they most often are not stunned before slaughter, meaning that they are fully conscious. They are killed by bleeding out, blunt force, suffocation or freezing.
 
 ![](../images/dom.jpg)
-I highly highly recommend watching the documentary "Dominion," which does an excellent job of explaining and showing the extreme cruelty that animals have to endure in animal agriculture. It is not just factory farms that enact this violence. Most farms that claim to be "free-range" have have little to no improvements over typical factory farms, as there are almost zero requirements for being labelled as "free-range."
+- I highly highly recommend watching the documentary "Dominion," which does an excellent job of explaining and showing the extreme cruelty that animals have to endure in animal agriculture. It is not just factory farms that enact this violence. Most farms that claim to be "free-range" have have little to no improvements over typical factory farms, as there are almost zero requirements for being labelled as "free-range."
 
 In addition, there are a myriad of actions one can take to reduce the overall suffering of animals in the world. Here are just a few:
-![](../images/peta.png)
+- Go vegan
+- Stop visiting zoos & circuses with animals
+- Stop buying wool/cashmere/down/fur 
+- Don't support SeaWorld
+
 
 Resources
 ======
@@ -50,10 +54,15 @@ Going vegan can be extremely intimidating at first. But in the end, it is a much
 - Game Changers: shows veganism can be great for athletes
 - Cowspiracy: exposes the horrible effects animal agriculture has on the environment 
 
-FAQ
+FAQ/Common Misconceptions 
 ======
 And finally, the most frequently asked questions that I get from potential vegans: 
-Q: How do I 
+
+Q: How do I get enough protein on a vegan diet?
+- A: It is a common misconception that humans need way more protein than they actually do. I  am a marathon runner and soccer player, and I have never felt a protein deficiency. Humans need on average 50-60 g of protein per day, and I find that I get this easily from beans, tofu, quinoa, nuts/seeds, and protein shakes. 
+
+Q: Veganism is so expensive!
+A: My grocery bill was halved after I became vegan. Beans/rice (which is mostly what I eat) are extremely cheap.  There are many ways to eat vegan without breaking the bank! I am happy to discuss this further if people need tips. 
 
 
 Sources: 
