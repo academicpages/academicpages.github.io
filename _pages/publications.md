@@ -22,7 +22,7 @@ author_profile: true
 
 + **Sun, Y.**, Kolacinski, R. and Loparo, K., "Transitive Topic Modeling with Conversational Structure Context: Discovering Topics that are Most Popular in Online Discussions". **_International Journal of Semantic Computing_**, 14(02), pp.273-293, 2020. [pdf](https://yingchengsun.github.io/academic/files/IJSC_final.pdf)    
 
-+ Kury, F., Butler, A., Yuan, C., Fu, L.H., **Sun, Y.**, Liu, H., Sim, I., Carini, S. and Weng, C., "Chia, a large annotated corpus of clinical trial eligibility criteria". **_Scientific data_**, 7(1), pp.1-11, 2020. [pdf](https://www.nature.com/articles/s41597-020-00620-0) [code](https://github.com/WengLab-InformaticsResearch/CHIA) [data](https://www.nature.com/articles/s41597-020-00620-0)
++ Kury, F., Butler, A., Yuan, C., Fu, L.H., **Sun, Y.**, Liu, H., Sim, I., Carini, S. and Weng, C., "Chia, a large annotated corpus of clinical trial eligibility criteria". **_Scientific data_**, 7(1), pp.1-11, 2020. [pdf](https://www.nature.com/articles/s41597-020-00620-0) [code](https://github.com/WengLab-InformaticsResearch/CHIA) [data](https://doi.org/10.6084/m9.figshare.12765602)
 
 + Li, Q., **Sun, Y.** and Xue, B., "Complex query recognition based on dynamic learning mechanism". In **_Journal of Computational Information Systems_** (Vol. 8, pp. 8333-8340). Springer, 2012. [pdf](https://yingchengsun.github.io/academic/files/2012complex.pdf)
 
