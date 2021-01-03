@@ -13,15 +13,15 @@ redirect_from:
 - ### [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 
 
-Formação
-======
+## Formação
+
 * Doutorado em Física, Universidade Federal do ABC (2017)
 * Mestrado em Matemática Aplicada, Universidade Federal do ABC (2013)
 * Bacharelado em Física, Universidade Federal do ABC (2013)
 * Bacharelado e licenciatura em Matemática, Universidade do grande ABC (2006)
 
-Experiência
-======
+## Experiência
+
 * Professor visitante
   * Universidade Federal do ABC (UFABC)
   * 2020 : Presente
@@ -35,8 +35,8 @@ Experiência
   * 2016 : 2017
 
 
-Orientações
-======
+## Orientações
+
 #### Pós-graduação
 
   * Aluno
