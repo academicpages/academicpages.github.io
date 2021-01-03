@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-### **CV (English)**
-### [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
+- ### **CV (English)**
+- ### [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
+
 
 Formação
 ======
@@ -19,23 +20,39 @@ Formação
 * Bacharelado em Física, Universidade Federal do ABC (2013)
 * Bacharelado e licenciatura em Matemática, Universidade do grande ABC (2006)
 
-Experiência como docente
+Experiência
 ======
 * Professor visitante
-  * UFABC
+  * Universidade Federal do ABC (UFABC)
   * 2020 : Presente
 
 * Pós-doutorado
-  * UNESP
+  * Universidade Estadual Paulista (UNESP)
   * 2017 : 2020
 
 * Professor contratado
-  * FATEC
+  * Faculdade de Tecnologia de São Paulo (FATEC)
   * 2016 : 2017
 
 
 Orientações
 ======
-* Aluno
-  * Nível
-  * Tema
+* Pós-graduação
+
+  * Aluno
+    * Nível
+    * Tema
+    
+  * Aluno
+    * Nível
+    * Tema
+  
+* Graduação
+
+  * Aluno
+    * Nível
+    * Tema
+    
+  * Aluno
+    * Nível
+    * Tema
