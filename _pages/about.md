@@ -14,7 +14,7 @@ Hi! I am now a final-year Ph.D. student at the [Institute of Automation, Chinese
 
 Research Interests
 ======
-My research targets at developing computational methods to analyze Web contents, especially in low-resource (e.g., cross-domain transfer, learning with noisy labels, and sequence generation with few paired data), multi-task and adversarial attack settings. Currently, I focus on the following areas:
+My research targets at developing machine learning methods to analyze Web contents, especially in low-resource (e.g., cross-domain transfer, learning with noisy labels, and sequence generation with few paired data), multi-task and adversarial attack settings. Currently, I focus on the following areas:
 * **Opinion mining and opinionated/argumentative text generation**  
 Stance analysis and computational argumentation synthesis
 * **Rumor verification and fact checking**  
