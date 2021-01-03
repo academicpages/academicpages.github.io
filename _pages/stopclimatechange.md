@@ -62,7 +62,7 @@ Q: How do I get enough protein on a vegan diet?
 - A: It is a common misconception that humans need way more protein than they actually do. I  am a marathon runner and soccer player, and I have never felt a protein deficiency. Humans need on average 50-60 g of protein per day, and I find that I get this easily from beans, tofu, quinoa, nuts/seeds, and protein shakes. 
 
 Q: Veganism is so expensive!
-A: My grocery bill was halved after I became vegan. Beans/rice (which is mostly what I eat) are extremely cheap.  There are many ways to eat vegan without breaking the bank! I am happy to discuss this further if people need tips. 
+- A: My grocery bill was halved after I became vegan. Beans/rice (which is mostly what I eat) are extremely cheap.  There are many ways to eat vegan without breaking the bank! I am happy to discuss this further if people need tips. 
 
 
 Sources: 
