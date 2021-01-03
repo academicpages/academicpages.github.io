@@ -37,7 +37,7 @@ Experiência
 
 Orientações
 ======
-* Pós-graduação
+#### Pós-graduação
 
   * Aluno
     * Nível
@@ -46,8 +46,8 @@ Orientações
   * Aluno
     * Nível
     * Tema
-  
-* Graduação
+
+#### Graduação
 
   * Aluno
     * Nível
