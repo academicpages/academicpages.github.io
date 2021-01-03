@@ -27,11 +27,7 @@ author_profile: true
 + Li, Q., **Sun, Y.** and Xue, B., "Complex query recognition based on dynamic learning mechanism". In **_Journal of Computational Information Systems_** (Vol. 8, pp. 8333-8340). Springer, 2012.
 
 + Li, Q., Zou, Y. and **Sun, Y.**, "User Personalization Mechanism in Agent-based Meta Search Engine. In **_Journal of Computational Information Systems_** (Vol. 8, pp. 1-8). Springer, 2012.     
-
-## Patents
-
-+ Li, Q., **Sun, Y.**, Zou, Y., Xu, J., Xi, B. "Agent Based Intelligent Meta Search Engines System", CN Patent No. 102902800 A. 2012. 
-+ Li, Q., Zou, Y., **Sun, Y.**, Xu, J., Xi, B.,"A Personalized Method of Agent Based Meta Search Engines", CN Patent No.103593413 A. 2013.     
+     
 
 
 ## Conference Proceedings   
@@ -66,7 +62,19 @@ author_profile: true
 
 + Li, Q. and **Sun, Y.**, "An agent based intelligent meta search engine". In **_2012 4th International Conference on Web Information Systems and Mining (WISM)_** (pp. 572-579). Springer. 2012, October. 
 
-+ Li, Q., Zou, Y. and **Sun, Y.**, "Ontology based user personalization mechanism in meta search engine". In **_2nd International Conference on Uncertainty Reasoning and Knowledge Engineering_** (pp. 230-234). IEEE. 2012, August. 
++ Li, Q., Zou, Y. and **Sun, Y.**, "Ontology based user personalization mechanism in meta search engine". In **_2nd International Conference on Uncertainty Reasoning and Knowledge Engineering_** (pp. 230-234). IEEE. 2012, August.    
+
+
+## Patents
+
++ Li, Q., **Sun, Y.**, Zou, Y., Xu, J., Xi, B. "Agent Based Intelligent Meta Search Engines System", CN Patent No. 102902800 A. 2012. 
++ Li, Q., Zou, Y., **Sun, Y.**, Xu, J., Xi, B.,"A Personalized Method of Agent Based Meta Search Engines", CN Patent No.103593413 A. 2013.    
+
+
+## Thesis
+
++ **Sun, Y.**, "Topic Modeling and Spam Detection for Short Text Segments in Web Forums", 2020 (Doctoral dissertation, Case Western Reserve University).
++ **Sun, Y.**, "Research and Implementation of Personalization of Agent-based Intelligent Meta Search Engine", 2013 (Master dissertation, Xidian University).
 
 You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=VCxrWbsAAAAJ">my Google Scholar profile</a>.
 
