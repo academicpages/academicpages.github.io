@@ -13,13 +13,19 @@ tags:
 In this section, you're going to go through the steps to have Raphtory up and running on your local machine.
 To make it as easy as possible, an example Raphtory project is available [here](https://github.com/Raphtory/Examples). 
 
+Installing this example requires downloading both the example project and adding(or building) the latest release of Raphtory.
+
 ## Clone the example project
 This example project can be downloaded by opening your terminal and performing a git clone:
  `git clone https://github.com/Raphtory/Examples.git`
 
 
 ## Adding the latest Raphtory release
-The latest release of Raphtory is available [here](https://github.com/Raphtory/Raphtory/releases/tag/0.1). Follow the link and download the [raphtory-v0.1.jar](https://github.com/Raphtory/Raphtory/releases/download/0.1/raphtory-v0.1.jar). Place this within the `lib` directory of the Example project you cloned in the previous step.
+The latest release of Raphtory is available [here](https://github.com/Raphtory/Raphtory/releases/latest). Follow the link and download the [raphtory.jar](https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar). Place this within the `lib` directory of the Example project you cloned in the previous step.
+
+Alternatively, both of the above steps can be performed with a single command
+
+`git clone https://github.com/Raphtory/Examples.git raphtory_example && wget https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar -P raphtory_example/lib/`
 
 ## Compiling the project 
 The example project utilises SBT (scala build tool) to compile the source code. SBT can be installed via this [guide](https://www.scala-sbt.org/1.x/docs/Setup.html). For those who do not want to directly install a working version of SBT is included in the project, just prepend `sbt/bin/` to all of the following commands.
