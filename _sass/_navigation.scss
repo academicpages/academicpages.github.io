@@ -409,23 +409,24 @@
     }
   }
 
-  > li:last-child {
-    a {
-      border-bottom: none;
-    }
-  }
-
   li ul > li a {
-    padding-left: 2rem;
+    padding-left: 1.25rem;
     font-weight: normal;
   }
 
-  /* hide sub sub links on small screens*/
-  li > ul li {
-    display: none;
+  li ul li ul > li a {
+    padding-left: 1.75rem;
+  }
 
-    @include breakpoint($medium) {
-      display: block;
-    }
+  li ul li ul li ul > li a {
+    padding-left: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-left: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-left: 3.25rem
   }
 }
