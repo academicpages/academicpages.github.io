@@ -15,7 +15,7 @@ toc: true
 header: 
   og_image: "posts/spatial-sql/gadm_wkt_filter_buffer-1.png"
 tags:
-  - spatial
+  - GIS
   - SQL
   - data
 ---
