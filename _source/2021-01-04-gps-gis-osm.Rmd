@@ -13,7 +13,7 @@ permalink: /posts/2021/01/gps-gis-osm
 excerpt_separator: <!--more-->
 toc: true
 header: 
-  og_image: "/images/posts/gps-gis-osm/plot_final-1.png"
+  og_image: "posts/gps-gis-osm/plot_final-1.png"
 tags:
   - GIS
   - backpacking
