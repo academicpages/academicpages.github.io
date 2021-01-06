@@ -1,20 +1,10 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Meaning of Shuffle Write and Shuffle Read in Spark UI'
+date: 2021-01-06
+permalink: /posts/spark/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - spark
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+Shuffle Write is the sum of all written serialized data on all executors before transmitting.
+Shuffle Read is the sum of all read serialized data on all executors at the beginning of a stage.
