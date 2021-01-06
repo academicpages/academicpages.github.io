@@ -18,6 +18,6 @@ His current research goals include developing:
 * Communication-efficient, distributed learning algorithms that robustly estimate treatment effects in target populations under privacy constraints and site-heterogeneity.
 * Principled approach for sensitivity analysis of design parameters in evaluating competing clinical trial designs.
 
-Heh enjoys enjoy playing golf, rooting for his alma mater (UNC Tar Heels!), reading history, and staying up-to-date with global affairs.
+He enjoys enjoy playing golf, rooting for his alma mater (UNC Tar Heels!), reading history, and staying up-to-date with global affairs.
 
 Feel free to reach out by emailing larryhan [at] g [dot] harvard [dot] edu.
