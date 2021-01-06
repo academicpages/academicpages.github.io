@@ -12,7 +12,7 @@ redirect_from:
 
 ## Interesses de pesquisa:
 - Relatividade geral e teorias alternativas de gravitação;
-- Física de buracos negros;
+- Física de buracos negros e ondas gravitacionais;
 - Álgebras de Clifford e estrutura algébrica de espinores
 
 

@@ -1,13 +1,65 @@
+
 <!DOCTYPE html>
 <html>
-<head><meta charset="utf-8" />
+<head>
 
-<title>IPE-1</title>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+
+<title>SFII_2020_2 slides</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
+<!-- General and theme style sheets -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/css/reveal.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/css/theme/simple.css" id="theme">
 
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+}
+
+</script>
+
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/lib/js/html5shiv.js"></script>
+<![endif]-->
+
+<!-- Loading the mathjax macro -->
+<!-- Load mathjax -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"></script>
+    <!-- MathJax configuration -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0}},
+            linebreaks: { automatic: true }
+        }
+    });
+    </script>
+    <!-- End of mathjax configuration -->
+
+<!-- Get Font-awesome from cdn -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
 
 <style type="text/css">
     /*!
@@ -13060,290 +13112,468 @@ ul.typeahead-list  > li > a.pull-right {
 
 <style type="text/css">
 /* Overrides of notebook CSS for static HTML export */
-body {
-  overflow: visible;
-  padding: 8px;
+.reveal {
+  font-size: 160%;
 }
-
-div#notebook {
-  overflow: visible;
-  border-top: none;
-}@media print {
-  div.cell {
-    display: block;
-    page-break-inside: avoid;
-  } 
-  div.output_wrapper { 
-    display: block;
-    page-break-inside: avoid; 
-  }
-  div.output { 
-    display: block;
-    page-break-inside: avoid; 
-  }
+.reveal pre {
+  width: inherit;
+  padding: 0.4em;
+  margin: 0px;
+  font-family: monospace, sans-serif;
+  font-size: 80%;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+}
+.reveal pre code {
+  padding: 0px;
+}
+.reveal section img {
+  border: 0px solid black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+}
+.reveal i {
+  font-style: normal;
+  font-family: FontAwesome;
+  font-size: 2em;
+}
+.reveal .slides {
+  text-align: left;
+}
+.reveal.fade {
+  opacity: 1;
+}
+.reveal .progress {
+  position: static;
+}
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-left.enabled {
+  border-right-color: #727272;
+}
+.reveal .controls .navigate-left.enabled:hover,
+.reveal .controls .navigate-left.enabled.enabled:hover {
+  border-right-color: #dfdfdf;
+}
+.reveal .controls .navigate-right,
+.reveal .controls .navigate-right.enabled {
+  border-left-color: #727272;
+}
+.reveal .controls .navigate-right.enabled:hover,
+.reveal .controls .navigate-right.enabled.enabled:hover {
+  border-left-color: #dfdfdf;
+}
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-up.enabled {
+  border-bottom-color: #727272;
+}
+.reveal .controls .navigate-up.enabled:hover,
+.reveal .controls .navigate-up.enabled.enabled:hover {
+  border-bottom-color: #dfdfdf;
+}
+.reveal .controls .navigate-down,
+.reveal .controls .navigate-down.enabled {
+  border-top-color: #727272;
+}
+.reveal .controls .navigate-down.enabled:hover,
+.reveal .controls .navigate-down.enabled.enabled:hover {
+  border-top-color: #dfdfdf;
+}
+.reveal .progress span {
+  background: #727272;
+}
+div.input_area {
+  padding: 0.06em;
+}
+div.code_cell {
+  background-color: transparent;
+}
+div.prompt {
+  width: 11ex;
+  padding: 0.4em;
+  margin: 0px;
+  font-family: monospace, sans-serif;
+  font-size: 80%;
+  text-align: right;
+}
+div.output_area pre {
+  font-family: monospace, sans-serif;
+  font-size: 80%;
+}
+div.output_prompt {
+  /* 5px right shift to account for margin in parent container */
+  margin: 5px 5px 0 0;
+}
+div.text_cell.rendered .rendered_html {
+  /* The H1 height seems miscalculated, we are just hidding the scrollbar */
+  overflow-y: hidden;
+}
+a.anchor-link {
+  /* There is still an anchor, we are only hidding it */
+  display: none;
+}
+.rendered_html p {
+  text-align: inherit;
+}
+::-webkit-scrollbar
+{
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar *
+{
+  background:transparent;
+}
+::-webkit-scrollbar-thumb
+{
+  background: #727272 !important;
 }
 </style>
 
 <!-- Custom stylesheet, it must be in the same directory as the html file -->
 <link rel="stylesheet" href="custom.css">
 
-<!-- Loading mathjax macro -->
-<!-- Load mathjax -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"></script>
-    <!-- MathJax configuration -->
-    <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-            processEscapes: true,
-            processEnvironments: true
-        },
-        // Center justify equations in code and markdown cells. Elsewhere
-        // we use CSS to left justify single line equations in code cells.
-        displayAlign: 'center',
-        "HTML-CSS": {
-            styles: {'.MathJax_Display': {"margin": 0}},
-            linebreaks: { automatic: true }
-        }
-    });
-    </script>
-    <!-- End of mathjax configuration --></head>
+</head>
+
+
 <body>
-  <div tabindex="-1" id="notebook" class="border-box-sizing">
-    <div class="container" id="notebook-container">
 
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="INTRODU&#199;&#195;O-&#192;-PROBABILIDADE-E-&#192;-ESTAT&#205;STICA">INTRODU&#199;&#195;O &#192; PROBABILIDADE E &#192; ESTAT&#205;STICA<a class="anchor-link" href="#INTRODU&#199;&#195;O-&#192;-PROBABILIDADE-E-&#192;-ESTAT&#205;STICA">&#182;</a></h1>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="DOCENTE:">DOCENTE:<a class="anchor-link" href="#DOCENTE:">&#182;</a></h3><p>Rogério Teixeira Cavalcanti</p>
-<p>rogerio.cavalcanti@ufabc.edu.br</p>
 
-</div>
-</div>
-</div>
+<div class="reveal">
+<div class="slides">
+<section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Sejam-bem-vindos-ao-curso-de-Introdu&#231;&#227;o-&#224;-probabilidade-e-&#224;-estat&#237;stica">Sejam bem vindos ao curso de Introdu&#231;&#227;o &#224; probabilidade e &#224; estat&#237;stica<a class="anchor-link" href="#Sejam-bem-vindos-ao-curso-de-Introdu&#231;&#227;o-&#224;-probabilidade-e-&#224;-estat&#237;stica">&#182;</a></h3>
+<h1 id="Semin&#225;rios-em-F&#237;sica-II">Semin&#225;rios em F&#237;sica II<a class="anchor-link" href="#Semin&#225;rios-em-F&#237;sica-II">&#182;</a></h1><h2 id="FEG-|-PPG-F&#237;sica---2020.2">FEG | PPG F&#237;sica - 2020.2<a class="anchor-link" href="#FEG-|-PPG-F&#237;sica---2020.2">&#182;</a></h2><hr>
+<h4 id="Rog&#233;rio-T.-Cavalcanti">Rog&#233;rio T. Cavalcanti<a class="anchor-link" href="#Rog&#233;rio-T.-Cavalcanti">&#182;</a></h4>
 </div>
 </div>
-</div>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="CONTE&#218;DO-PROGRAM&#193;TICO:">CONTE&#218;DO PROGRAM&#193;TICO:<a class="anchor-link" href="#CONTE&#218;DO-PROGRAM&#193;TICO:">&#182;</a></h3><ul>
-<li><p>Análise Combinatória</p>
-</li>
-<li><p>Probabilidade</p>
-</li>
-<li><p>Probabilidade Condicional e Independência</p>
-</li>
-<li><p>Variáveis Aleatórias Discretas</p>
-</li>
-<li><p>Variáveis Aleatórias Contínuas</p>
-</li>
-<li><p>Distribuição Conjunta</p>
-</li>
-<li><p>Estatística Descritiva</p>
-</li>
-<li><p>Teorema Central do Limite</p>
-</li>
-</ul>
-
+<h2 id="O-que-&#233;-Semin&#225;rios-em-F&#237;sica-II?">O que &#233; Semin&#225;rios em F&#237;sica II?<a class="anchor-link" href="#O-que-&#233;-Semin&#225;rios-em-F&#237;sica-II?">&#182;</a></h2>
 </div>
 </div>
-</div>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="FERRAMENTAS-E-ESTRAT&#201;GIAS-DID&#193;TICAS:">FERRAMENTAS E ESTRAT&#201;GIAS DID&#193;TICAS:<a class="anchor-link" href="#FERRAMENTAS-E-ESTRAT&#201;GIAS-DID&#193;TICAS:">&#182;</a></h3><p>O  curso  será  à  distância  com  encontros  virtuais síncronos e assíncronos,  de  acordo  com  as  orientações para  o  QS. As  vídeo-aulas  serão disponibilizadas no  AVA  (Moodle).</p>
-
+<h2 id="Objetivos">Objetivos<a class="anchor-link" href="#Objetivos">&#182;</a></h2>
 </div>
 </div>
-</div>
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="CRIT&#201;RIOS-DE-AVALIA&#199;&#195;O:">CRIT&#201;RIOS DE AVALIA&#199;&#195;O:<a class="anchor-link" href="#CRIT&#201;RIOS-DE-AVALIA&#199;&#195;O:">&#182;</a></h3><p>Haverá duas avaliações ($A_1$ e $A_2$), na forma escrita, consistindo em resoluções de problemas relacionados aos conteúdos ministrados nas aulas e listas de exercícios.</p>
-<p>Os respectivos conteúdos são:</p>
 <ul>
-<li>$A_1$ | Análise Combinatória; Probabilidade; Probabilidade Condicional e Independência; Variáveis Aleatórias Discretas.</li>
-<li>$A_2$ |  Variáveis  Aleatórias  Contínuas;  Distribuição  Conjunta;   Estatística  Descritiva; Teorema Central do Limite.</li>
+<li>Interação científica com pesquisadores e demais alunos da pós;</li>
 </ul>
 
 </div>
 </div>
-</div>
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Além disso, a cada duas semanas uma lista de exercício será disponibilizada no moodle ($L_{moodle}$).</p>
-<p>O conceito final será obtido a partir de uma média final (M) dada por:</p>
-$$M = \frac{1}{2,5}\left(A_1+1,2A_2 + 0,3L_{moodle}\right)$$
+<ul>
+<li>Desenvolvimento de habilidades de comunicação científica;</li>
+</ul>
+
 </div>
 </div>
-</div>
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Com a respectiva tabela de conversão:</p>
+<ul>
+<li>Preparação defesas e qualificações;</li>
+</ul>
+
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="&#211;rdem-das-apresenta&#231;&#245;es">&#211;rdem das apresenta&#231;&#245;es<a class="anchor-link" href="#&#211;rdem-das-apresenta&#231;&#245;es">&#182;</a></h2>
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ol>
+<li>Alguns alunos;</li>
+<li>Pesquisadores convidados;</li>
+<li>Demais alunos.</li>
+</ol>
+
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Como-escolher-o-tema-para-a-apresenta&#231;&#227;o?">Como escolher o tema para a apresenta&#231;&#227;o?<a class="anchor-link" href="#Como-escolher-o-tema-para-a-apresenta&#231;&#227;o?">&#182;</a></h2>
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Depende-do-est&#225;gio-em-que-voc&#234;-est&#225;!">Depende do est&#225;gio em que voc&#234; est&#225;!<a class="anchor-link" href="#Depende-do-est&#225;gio-em-que-voc&#234;-est&#225;!">&#182;</a></h4>
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li>Ingressantes</li>
+</ul>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li>Veteranos</li>
+</ul>
+
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Como-preparar-a-apresenta&#231;&#227;o?">Como preparar a apresenta&#231;&#227;o?<a class="anchor-link" href="#Como-preparar-a-apresenta&#231;&#227;o?">&#182;</a></h2>
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ol>
+<li>Consulte seu orientador;</li>
+</ol>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ol>
+<li>Prepare uma simulação de defesa/qualificação;</li>
+</ol>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ol>
+<li>Após preparar simulação de qualificação, torne a parte técnica acessível aos outros alunos que não são da sua área; </li>
+</ol>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ol>
+<li>Faça prévias!</li>
+</ol>
+
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Cronograma-preliminar:">Cronograma preliminar:<a class="anchor-link" href="#Cronograma-preliminar:">&#182;</a></h2>
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <table>
 <thead><tr>
-<th style="text-align:center">Média</th>
-<th style="text-align:center">Conceito</th>
+<th style="text-align:left">Nome</th>
+<th style="text-align:left">Data</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">M $\leq$  8,5</td>
-<td style="text-align:center">A</td>
+<td style="text-align:left">Ronaldo (Aluno)</td>
+<td style="text-align:left">18/08</td>
 </tr>
 <tr>
-<td style="text-align:center">7 $\leq$ M &lt; 8,5</td>
-<td style="text-align:center">B</td>
+<td style="text-align:left">Tatiane (Aluna)</td>
+<td style="text-align:left">25/08 </td>
 </tr>
 <tr>
-<td style="text-align:center">5 $\leq$ M &lt; 7</td>
-<td style="text-align:center">C</td>
+<td style="text-align:left">Roldão (UFABC)</td>
+<td style="text-align:left">01/09</td>
 </tr>
 <tr>
-<td style="text-align:center">4.5 $\leq$ M &lt; 5</td>
-<td style="text-align:center">D</td>
+<td style="text-align:left">Julio (FEG)</td>
+<td style="text-align:left">08/09</td>
 </tr>
 <tr>
-<td style="text-align:center">M &lt; 4.5</td>
-<td style="text-align:center">F</td>
+<td style="text-align:left">Márcio (Unesp/SJC)</td>
+<td style="text-align:left">15/09</td>
+</tr>
+<tr>
+<td style="text-align:left">Giancarlo (IIP/UFRN)</td>
+<td style="text-align:left">22/09</td>
+</tr>
+<tr>
+<td style="text-align:left">Rogério (Eu)</td>
+<td style="text-align:left">29/09</td>
+</tr>
+<tr>
+<td style="text-align:left">Alexandre (Unesp/SJRP)</td>
+<td style="text-align:left">06/10</td>
+</tr>
+<tr>
+<td style="text-align:left">Dino (IF-FEG)</td>
+<td style="text-align:left">13/10</td>
+</tr>
+<tr>
+<td style="text-align:left">Gustavo (CBPF)</td>
+<td style="text-align:left">20/10</td>
+</tr>
+<tr>
+<td style="text-align:left">Danilo (Aluno)</td>
+<td style="text-align:left">27/10</td>
+</tr>
+<tr>
+<td style="text-align:left">Alexandre (Aluno)</td>
+<td style="text-align:left">03/10</td>
+</tr>
+<tr>
+<td style="text-align:left">Ananias (Alunos)</td>
+<td style="text-align:left">10/10</td>
+</tr>
+<tr>
+<td style="text-align:left">Diego (Aluno)</td>
+<td style="text-align:left">17/10</td>
+</tr>
+<tr>
+<td style="text-align:left">$\vdots$</td>
+<td style="text-align:left">$\vdots$</td>
 </tr>
 </tbody>
 </table>
 
 </div>
 </div>
-</div>
+</div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>De  acordo  com  a  resolução  ConsEPE  182,  alunos  com  conceito  D  ou  F  têm  direito  à  recuperação  ($A_{REC}$). Sugere-se que a recuperação seja uma avaliação similar à $A_2$, abordando todo o conteúdo da disciplina.</p>
-
+<h2 id="Avalia&#231;&#227;o">Avalia&#231;&#227;o<a class="anchor-link" href="#Avalia&#231;&#227;o">&#182;</a></h2>
 </div>
 </div>
-</div>
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="CRONOGRAMA:">CRONOGRAMA:<a class="anchor-link" href="#CRONOGRAMA:">&#182;</a></h3><table>
-<thead><tr>
-<th style="text-align:center">#</th>
-<th style="text-align:left">Tópico</th>
-<th style="text-align:center">Semana</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">1</td>
-<td style="text-align:left">Introdução e Princípio básico da contagem</td>
-<td style="text-align:center">4a. sem. Setembro</td>
-</tr>
-<tr>
-<td style="text-align:center">2</td>
-<td style="text-align:left">Noções de probabilidade / Análise combinatória</td>
-<td style="text-align:center">5a. sem. Setembro</td>
-</tr>
-<tr>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Axiomas da probabilidade</td>
-<td style="text-align:center">1a. sem. Outubro</td>
-</tr>
-<tr>
-<td style="text-align:center">4</td>
-<td style="text-align:left">Probabilidade condicional / Teorema de Bayes</td>
-<td style="text-align:center">2a. sem. Outubro</td>
-</tr>
-<tr>
-<td style="text-align:center">5</td>
-<td style="text-align:left">Eventos independentes</td>
-<td style="text-align:center">3a. sem. Outubro</td>
-</tr>
-<tr>
-<td style="text-align:center">6</td>
-<td style="text-align:left">Avaliação 1 / Variáveis aleatórias discretas</td>
-<td style="text-align:center">4a. sem. Outubro</td>
-</tr>
-<tr>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Distribuições discretas</td>
-<td style="text-align:center">1a. sem. Novembro</td>
-</tr>
-<tr>
-<td style="text-align:center">8</td>
-<td style="text-align:left">Variáveis aleatórias continuas</td>
-<td style="text-align:center">2a. sem. Novembro</td>
-</tr>
-<tr>
-<td style="text-align:center">9</td>
-<td style="text-align:left">Distribuição conjunta</td>
-<td style="text-align:center">3a. sem. Novembro</td>
-</tr>
-<tr>
-<td style="text-align:center">10</td>
-<td style="text-align:left">Estatística descritiva</td>
-<td style="text-align:center">4a. sem Novembro</td>
-</tr>
-<tr>
-<td style="text-align:center">11</td>
-<td style="text-align:left">Teorema Central do Limite.</td>
-<td style="text-align:center">1a. sem. Dezembro</td>
-</tr>
-<tr>
-<td style="text-align:center">12</td>
-<td style="text-align:left">Avaliação 2 / SUB</td>
-<td style="text-align:center">2a. sem. Dezembro</td>
-</tr>
-<tr>
-<td style="text-align:center">13</td>
-<td style="text-align:left">Avaliação de recuperação</td>
-<td style="text-align:center">3a. sem. Dezembro</td>
-</tr>
-</tbody>
-</table>
+<ul>
+<li>Apresentação individual 50%</li>
+<li>Interação nos seminários 50%</li>
+</ul>
 
 </div>
 </div>
-</div>
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="BIBLIOGRAFIA-B&#193;SICA-(INCOMPLETA):">BIBLIOGRAFIA B&#193;SICA (INCOMPLETA):<a class="anchor-link" href="#BIBLIOGRAFIA-B&#193;SICA-(INCOMPLETA):">&#182;</a></h3><p>Ross, S. M., <em>Probabilidade: um curso moderno com aplicações</em>, 8. ed. Bookman, 2010.</p>
-<p>Ross S.M., <em>A first Course in Probability</em>, Prentice Hall, 2010.</p>
-<p>Magalhães, M. N.; Pedroso de Lima, A. C.,   <em>Noções de Probabilidade e Estatística</em>, EdUSP, 2005.</p>
+<p><a href="https://sites.google.com/view/sem-fis-feg-2020-1/home">Site da disciplina</a></p>
 
 </div>
 </div>
-</div>
+</div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="BIBLIOGRAFIA-COMPLEMENTAR-(INCOMPLETA):">BIBLIOGRAFIA COMPLEMENTAR (INCOMPLETA):<a class="anchor-link" href="#BIBLIOGRAFIA-COMPLEMENTAR-(INCOMPLETA):">&#182;</a></h3><p>Dantas, C., <em>Probabilidade: Um curso Introdutório</em>, 3 ed. rev. São Paulo: EdUSP, 2008.</p>
-<p>Larson, Ron; Farber, Betsy., <em>Estatística aplicada</em>. 2. ed. Pearson Prentice Hall, 2004.</p>
-<p>Bussab, W.; Morettin, P., <em>Estatística básica</em>, 5.ed. Saraiva, 2006.</p>
+<h2 id="D&#250;vidas?">D&#250;vidas?<a class="anchor-link" href="#D&#250;vidas?">&#182;</a></h2>
+</div>
+</div>
+</div></section></section>
+</div>
+</div>
 
-</div>
-</div>
-</div>
+<script>
 
-    </div>
-  </div>
+require(
+    {
+      // it makes sense to wait a little bit when you are loading
+      // reveal from a cdn in a slow connection environment
+      waitSeconds: 15
+    },
+    [
+      "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/lib/js/head.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/js/reveal.js"
+    ],
+
+    function(head, Reveal){
+
+        // Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+
+            transition: "slide",
+
+            // Optional libraries used to extend on reveal.js
+            dependencies: [
+                { src: "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/lib/js/classList.js",
+                  condition: function() { return !document.body.classList; } },
+                { src: "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/plugin/notes/notes.js",
+                  async: true,
+                  condition: function() { return !!document.body.classList; } }
+            ]
+        });
+
+        var update = function(event){
+          if(MathJax.Hub.getAllJax(Reveal.getCurrentSlide())){
+            MathJax.Hub.Rerender(Reveal.getCurrentSlide());
+          }
+        };
+
+        Reveal.addEventListener('slidechanged', update);
+
+        function setScrollingSlide() {
+            var scroll = false
+            if (scroll === true) {
+              var h = $('.reveal').height() * 0.95;
+              $('section.present').find('section')
+                .filter(function() {
+                  return $(this).height() > h;
+                })
+                .css('height', 'calc(95vh)')
+                .css('overflow-y', 'scroll')
+                .css('margin-top', '20px');
+            }
+        }
+
+        // check and set the scrolling slide every time the slide change
+        Reveal.addEventListener('slidechanged', setScrollingSlide);
+
+    }
+
+);
+</script>
+
 </body>
-
- 
 
 
 </html>
