@@ -90,7 +90,7 @@ redirect_from:
       <div class="member_pic_wrapper">
         <div class="member_pic" id="jinbo"></div>
         <div class="member_name">JIN Bo 金博 </div>
-        <div class="member_pos">Assistant Professor 副教授 </div>
+        <div class="member_pos">Associate Professor 副教授 </div>
         <div class="member_intro">MARL</div>
       </div>
     </div>
