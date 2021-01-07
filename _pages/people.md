@@ -373,6 +373,25 @@ redirect_from:
     background-position: center;
   }
 
+  #cuihaochuan{
+  background: url(../images/people/students/cuihaochuan.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #zhouminghui{
+    background: url(../images/people/students/zhouminghui.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #chenhaoqing{
+    background: url(../images/people/students/chenhaoqing.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
 </style>
 
 
@@ -554,6 +573,27 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xiajunyang"></div>
       <div class="member_name">XIA Junyang 夏浚洋</div>
+    </div>
+  </div>
+
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="cuihaochuan"></div>
+      <div class="member_name">CUI Haochuan 崔浩川</div>
+    </div>
+  </div>
+
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="zhouminghui"></div>
+      <div class="member_name">ZHOU Minghui 周明慧</div>
+    </div>
+  </div>
+
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="chenhaoqing"></div>
+      <div class="member_name">CHEN Haoqing 陈昊晴</div>
     </div>
   </div>
 
