@@ -26,7 +26,7 @@ author_profile: true
 <li>2016. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809761/">How Does the Fast Track Intervention Prevent Adverse Outcomes in Young Adulthood?</a> (with Kenneth Dodge and the CPPRG). Child Development.</li>
 </ul>
 <br><b>Policy Pieces</b>
-<br>“<a href="https://jamanetwork.com/channels/health-forum/fullarticle/2767411">Protecting the health of vulnerable children and adolescents during COVID-19-related K-12 school closures in the U.S.</a>” (JAMA Health Forum)
+<br>“<a href="https://jamanetwork.com/channels/health-forum/fullarticle/2767411">Protecting the health of vulnerable children and adolescents during COVID-19-related K-12 school closures</a>” (JAMA Health Forum)
 <br>“<a href="http://wtgrantfoundation.org/lead-remediation-a-surprising-policy-solution-for-reducing-the-educational-achievement-gap">Lead remediation: A surprising policy solution for reducing the educational achievement gap</a>” (WT Grant Foundation)
 <br>“<a href="https://theconversation.com/school-spankings-are-banned-just-about-everywhere-around-the-world-except-in-us-118236">School spankings are banned just about everywhere around the world except in US</a>” (The Conversation)
 <br>“<a href="https://www.brookings.edu/blog/brown-center-chalkboard/2019/04/29/teacher-turnover-and-the-disruption-of-teacher-staffing/">Teacher turnover and the disruption of teacher staffing</a>” (Brookings Institute)
