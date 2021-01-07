@@ -15,6 +15,7 @@ At the Rockefeller College of Public Affairs and Policy, I teach courses on econ
 
 <br><b>Duke University</b>
 <br>Microeconomic Policy Tools. Teaching Assistant at undergraduate level, Sanford School of Public Policy
+
 <br><b>Yale University</b>
 <br>Transportation's Role in a Changing Economy. Teaching Assistant at MBA/MS level, School of Management and School of Forestry and Environmental Studies.
 
