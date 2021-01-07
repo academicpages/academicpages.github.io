@@ -83,7 +83,7 @@ redirect_from:
         <div class="member_pic" id="wangxiangfeng"></div>
         <div class="member_name">WANG Xiangfeng 王祥丰 </div>
         <div class="member_pos">Associate Professor 副教授 </div>
-        <div class="member_intro">Distributed Optimization, MARL</div>
+        <div class="member_intro">Distributed Optimization, MARL, Trustworthy ML</div>
       </div>
     </div>
     <div class="member_item col">
