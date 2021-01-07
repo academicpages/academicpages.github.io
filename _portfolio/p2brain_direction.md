@@ -1,6 +1,6 @@
 ---
 title: "Neural Representation of Direction in Exploration and Navigation"
-excerpt: "We show different direction classification performance in neural networks during navigation in a complex envioronment. We also observed a relationship between individual differences in the classification strength in each brain region and navigation performance. <br/><img src='/images/travel_brain.png'>"
+excerpt: "We show different direction classification performance in neural networks during navigation in a complex environment. We also observed a relationship between individual differences in the classification strength in each brain region and navigation performance. <br/><img src='/images/travel_brain.png'>"
 collection: projects
 ---
 With Elizabeth R. Chrastil
