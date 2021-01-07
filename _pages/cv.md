@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+Download here: https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/sorensen-cv.pdf
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
