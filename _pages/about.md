@@ -15,4 +15,4 @@ My research uses applied econometrics to investigate questions related to educat
 
 I teach MPA courses in public economics and public policy, and a PhD course in causal inference methods.
 
-Official faculty website: https://www.albany.edu/rockefeller/faculty/lucy-sorensen
+Official faculty website: [https://www.albany.edu/rockefeller/faculty/lucy-sorensen](https://www.albany.edu/rockefeller/faculty/lucy-sorensen)
