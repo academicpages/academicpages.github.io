@@ -80,14 +80,6 @@ redirect_from:
   <div class="row">
     <div class="member_item col">
       <div class="member_pic_wrapper">
-        <div class="member_pic" id="zhahongyuan"></div>
-        <div class="member_name">ZHA Hongyuan 查宏远 </div>
-        <div class="member_pos">Professor 教授 </div>
-        <div class="member_intro">Machine Learning</div>
-      </div>
-    </div>
-    <div class="member_item col">
-      <div class="member_pic_wrapper">
         <div class="member_pic" id="wangxiangfeng"></div>
         <div class="member_name">WANG Xiangfeng 王祥丰 </div>
         <div class="member_pos">Associate Professor 副教授 </div>
@@ -98,8 +90,26 @@ redirect_from:
       <div class="member_pic_wrapper">
         <div class="member_pic" id="jinbo"></div>
         <div class="member_name">JIN Bo 金博 </div>
-        <div class="member_pos">Assistant Professor 助理教授 </div>
+        <div class="member_pos">Assistant Professor 副教授 </div>
         <div class="member_intro">MARL</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+---
+
+# Advisors
+
+<div class="faculties contrainer">
+  <div class="row">
+    <div class="member_item col">
+      <div class="member_pic_wrapper">
+        <div class="member_pic" id="zhahongyuan"></div>
+        <div class="member_name">ZHA Hongyuan 查宏远 </div>
+        <div class="member_pos">Professor 教授 </div>
+        <div class="member_intro">Machine Learning</div>
       </div>
     </div>
   </div>
