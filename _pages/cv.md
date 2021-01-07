@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my latest CV [here](../_cv/DENG Weiye_CV.pdf). 
+You can find my latest CV [here](_cv/DENG Weiye_CV.pdf). 
