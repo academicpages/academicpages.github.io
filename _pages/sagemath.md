@@ -36,7 +36,7 @@ Além disso há o projeto [SageManifolds](https://sagemanifolds.obspm.fr/index.h
   - [On-line](https://mosullivan.sdsu.edu/Teaching/sdsu-sage-tutorial/index.html)
   - [PDF](https://mosullivan.sdsu.edu/Teaching/sdsu-sage-tutorial/SDSUSageTutorial.pdf)
 
-Livros
+### Livros
 
 - [Computational Mathematics with SageMath (grátis)](http://sagebook.gforge.inria.fr/english.html)
 - [Sage para Estudiantes de Pregrado (grátis)](http://www.sage-para-estudiantes.com/)
