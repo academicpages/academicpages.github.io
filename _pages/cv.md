@@ -59,11 +59,11 @@ Select Conference Presentations
   
 * <b>Cheng, Y. </b>. Domain-General Distance Representation, Spring Quarter UCSB Geography Department Colloquium, Santa Barbara. May, 2019.
   
-  * <b>Cheng, Y. </b>, Chrastil, E.R.. From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines, Collective Spatial Cognition Specialist Meeting, Santa Barbara. April, 2019.
+* <b>Cheng, Y. </b>, Chrastil, E.R.. From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines, Collective Spatial Cognition Specialist Meeting, Santa Barbara. April, 2019.
   
 * <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightening Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [video](https://www.youtube.com/watch?v=z5eQH3SGhoY)
   
-  * <b>Cheng, Y. </b>, Liang, Y., Tang, Z.. Mixed Time-Based and Event-Based Prospective Memory: A Behavioral Study, the 16th National Academic Congress of Psychology, Nanjing, China. Nov., 2013. 
+* <b>Cheng, Y. </b>, Liang, Y., Tang, Z.. Mixed Time-Based and Event-Based Prospective Memory: A Behavioral Study, the 16th National Academic Congress of Psychology, Nanjing, China. Nov., 2013. 
 
 <br>
 <b><big>Poster Presentations</big></b>
