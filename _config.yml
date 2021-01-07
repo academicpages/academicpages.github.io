@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "St. Louis, MO"
-title                    : "Weiye (Rex) Deng"
+locale                   : "en-US"
+title                    : "Weiye (Rex) Deng / A first-year PhD student at Washington University in St. Louis"
 title_separator          : "-"
 name                     : &name "Weiye (Rex) Deng"
-description              : &description "First-year PhD at Washington University in St. Louis"
+description              : &description "A first-year PhD at Washington University in St. Louis"
 url                      : https://weiyedeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiyedeng/weiyedeng.github.io"
