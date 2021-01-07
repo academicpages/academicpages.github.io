@@ -14,7 +14,7 @@ author_profile: true
 </ul>
 <br><b>Publications</b>
 <ul>
-<li>2020. <a href="https://journals.sagepub.com/doi/full/10.1177/2332858420905812">The Hidden Costs of Teacher Turnover. (with Helen Ladd)</a>. AERA Open.</li>
+<li>2020. <a href="https://journals.sagepub.com/doi/full/10.1177/2332858420905812">The Hidden Costs of Teacher Turnover</a>. (with Helen Ladd). AERA Open.</li>
 <li>2020. <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1825779?journalCode=rpxm20">Illusory Success of Performance Management: The Case of Contracts for Excellence in New York School Districts</a>. (with Philip Gigliotti). Public Management Review.</li>
 <li>2020. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12256">Locking Up My Generation: Cohort Differences in Prison Spells Over the Life Course</a>. (with Yinzhi Shen, Shawn Bushway, Herbert Smith). Criminology.</li>
 <li>2019. <a href="https://journals.sagepub.com/doi/abs/10.1177/0160323X19892047?journalCode=slgb">Caught in the Crunch: School District Financial Condition and Performance</a>. (with Youngsung Kim). State and Local Government Review.</li> 
