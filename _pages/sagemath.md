@@ -42,7 +42,11 @@ Além disso há o projeto [SageManifolds](https://sagemanifolds.obspm.fr/index.h
 - [Sage para Estudiantes de Pregrado (grátis)](http://www.sage-para-estudiantes.com/)
 - [Elementos de Computação Matemática com SageMath (em português)](https://sagectu.com.br/index.html)
 
-
+## Onde conseguir?
+Existem 3 formas básicas de usar o SageMath:
+- On-line, com o [cocalc](https://cocalc.com/app);
+- Em uma [Instalação local](https://doc.sagemath.org/html/en/installation/index.html);
+- Executando células individuais no [SageMathCell](https://sagecell.sagemath.org/)
 
 ## Outros
 
