@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my latest CV <a href="weiyedeng.github.io/_cv/DENG Weiye_CV.pdf" target="_blank">here.</a>
+You can find my latest CV [here](/_cv/DENG_Weiye CV.pdf)
