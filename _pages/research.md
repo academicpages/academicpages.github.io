@@ -1,6 +1,6 @@
 ---
-permalink: /teaching/
-title: "Teaching"
+permalink: /research/
+title: "Research"
 ---
 
 ## Working Papers
