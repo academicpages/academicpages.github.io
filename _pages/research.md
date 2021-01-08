@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Working Papers
-1. Tackling Persistent Misperceptions: Repeated Interactions, Repeated Refutations, and Endogenous Corrections.
+1. Tackling Persistent Misperceptions: Repeated Interactions, Repeated Refutations, and Endogenous Corrections. sdafsjfhbafbveiufbeiofbIUEAbfiaEbfiuasbfidsbfdskfsjdbfkdsufweibfwiuebfiweubfueibfewjbidsbuifbweifwbjidsjbcsiubveiuubewfiwuebfjicjdsbc dbiebfieb
 [PDF]
 
 2. Media Rhetoric, Political Ideologies, and Public Opinion on Terrorism.
