@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
+permalink: /teaching/
+title: "Teaching"
 ---
 
 ## Working Papers
