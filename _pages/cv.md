@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my latest CV [here](https://github.com/weiyedeng/weiyedeng.github.io/blob/master/_cv/DENG%20Weiye_CV.pdf). 
+You can find my latest CV <a href="weiyedeng.github.io/_cv/DENG Weiye_CV.pdf" target="_blank">here.</a>
+. 
