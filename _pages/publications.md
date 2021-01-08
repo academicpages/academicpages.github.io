@@ -38,7 +38,7 @@ author_profile: true
     
 + **Sun, Y.**, Loparo, K. and Kolacinski, R., "Conversational structure aware and context sensitive topic model for online discussions". In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 85-92). IEEE, 2020, February. <span style="color:red">(Best Paper Candidiate)</span>
     
-+ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. 
++ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. [pdf]()[video](https://www.ohdsi.org/2020-global-symposium-showcase-70/)
        
 + **Sun, Y.** and Loparo, K., "Opinion Spam Detection Based on Heterogeneous Information Network". In **_IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)_** (pp. 1156-1163). IEEE. 2019, November. 
 
