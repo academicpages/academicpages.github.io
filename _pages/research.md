@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Working Papers
-========
+## Working Papers
 1. Tackling Persistent Misperceptions: Repeated Interactions, Repeated Refutations, and Endogenous Corrections.
 [PDF]
 
