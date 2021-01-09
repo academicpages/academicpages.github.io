@@ -47,3 +47,5 @@ Friends
 I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
 
 [Haodong Duan](https://kennymckormick.github.io/) (MPhil. Student at the Chinese University of Hong Kong, Computer Vision). 
+
+[Peiqing Chen](https://kaiserv2.github.io/) (Undergraduate student at Peking University, Networking Algorithms). 
