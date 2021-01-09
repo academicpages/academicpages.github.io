@@ -579,7 +579,7 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="cuihaochuan"></div>
-      <div class="member_name">CUI Haochuan 崔浩川</div>
+      <div class="member_name">CUI Haochuan 崔昊川</div>
     </div>
   </div>
 
