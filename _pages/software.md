@@ -20,7 +20,11 @@ header:
 
 As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
 
-## BayesPostEst
+# BayesPostEst
+
+[![R build status](https://github.com/ShanaScogin/BayesPostEst/workflows/R-CMD-check/badge.svg)](https://github.com/ShanaScogin/BayesPostEst/actions)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BayesPostEst)](https://CRAN.R-project.org/package=BayesPostEst)
+[![Codecov test coverage](https://codecov.io/gh/ShanaScogin/BayesPostEst/branch/master/graph/badge.svg)](https://codecov.io/gh/ShanaScogin/BayesPostEst?branch=master)
 
 I am a developer of the [`BayesPostEst`](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
 
@@ -41,9 +45,10 @@ install_github("ShanaScogin/BayesPostEst")
 
 You can try out the `mcmcCoefPlot` function from the package in the interactive R console below:
 
-<iframe src="https://rdrr.io/snippets/embed/?code=library(MCMCpack)%0Alibrary(BayesPostEst)%0A%0Afit%20%3C-%20MCMCregress(incidents%20~%20type%20%2B%20year%20%2B%20period%2C%20data%20%3D%20MASS%3A%3Aships)%0AmcmcCoefPlot(fit%2C%20pars%20%3D%20c('type'%2C%20'year'%2C%20'period')%2C%20regex%20%3D%20T)" width="100%" height="400" frameborder="0"></iframe>
+# RWmisc
 
-## RWmisc
+[![R build status](https://github.com/jayrobwilliams/RWmisc/workflows/R-CMD-check/badge.svg)](https://github.com/jayrobwilliams/RWmisc/actions)
+[![codecov](https://codecov.io/gh/jayrobwilliams/RWmisc/branch/master/graph/badge.svg)](https://codecov.io/gh/jayrobwilliams/RWmisc)
 
 I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [`RWmisc`](https://github.com/jayrobwilliams/RWmisc). It includes:
 
@@ -60,7 +65,7 @@ library(remotes)
 install_github("jayrobwilliams/RWmisc")
 ```
 
-## Other resources
+# Other resources
 
 I also have a number of other software resources focused on making computation and academic life easier:
 
