@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Guilherme Fabris"
 title_separator          : "-"
-name                     : &name "Ph.D. Guilherme da Silva Lopes Fabris"
-description              : &description "Postdoc at Federal University of Rio Grande do Norte - Natal - RN - Brazil"
+name                     : &name "Guilherme da Silva Lopes Fabris"
+description              : &description "I'm a postdoc at Federal University of Rio Grande do Norte - Natal - RN - Brazil"
 url                      : https://guilhermeslfabris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guilhermeslfabris/guilhermeslfabris.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ph.D. Guilherme Fabris"
+  name             : "Guilherme da Silva L. Fabris"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a postdoctoral researcher at UFRN/Brazil. My research interests are mainly in the areas of materials science, especially in computational modeling of perovskites and graphene-like materials. "
   location         : "Natal, Rio Grande do Norte - Brazil"
-  employer         :
+  employer         : "Federal University of Rio Grande do Norte"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=O-aTqjMAAAAJ&hl"
-  email            :
+  email            : "guilherme.fabris@unesp.br"
   researchgate     :  "https://www.researchgate.net/profile/Guilherme_Fabris" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
