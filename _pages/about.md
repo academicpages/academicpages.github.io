@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Industry Associate Professor at the University of Technology Sydney. As an Industry focused academic, I lead  industry engagement in RF technologies, Internet of Things, Tactile Internet, Software Defined Communication, Smart Cities and Agriculture 4.0. Some of my key responsibilities are:
+I am an Industry Associate Professor at the University of Technology Sydney. As an Industry focused academic, I build (and lead)  industry engagement in RF technologies, Internet of Things, Tactile Internet, Software Defined Communication, Smart Cities and Agriculture 4.0. Some of my key responsibilities are:
 
 * Director of the RF Communications Technologies (RFCT) Lab. 
 * Committee member in Standards Australia contributing to International IoT and Digital Twins standardisation. 
