@@ -102,7 +102,7 @@ author:
   instagram        : "jslshotz"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lipman/"
+  linkedin         : "lipman"
   orcid            : "https://orcid.org/0000-0003-2877-1168"
   pinterest        :
   soundcloud       :
@@ -238,7 +238,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-
   # _portfolio
   - scope:
       path: ""
