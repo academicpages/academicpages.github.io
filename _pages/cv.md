@@ -35,9 +35,11 @@ Li, J., & Joanisse, M. F. (n.d.). Testing a Theory of Polysemy with Priming and 
 *PhD* in Philosophy, Western University\\
 Advisor: Robert Stainton.\\
 Dissertation: A Theory of Polysemy\\
+
 *MA* in Philosophy, Western University\\
 Advisor: Robert Stainton.\\
 Thesis: Names are Also Polysemous\\
+
 *BA* in Philosophy, Minzu University of China\\
 Advisor: Jixuan Zhang.\\
 Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism
