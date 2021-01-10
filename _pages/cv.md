@@ -15,16 +15,16 @@ Philosophy Department\\
 Western University\\
 1151 Richmond Street North\\
 London, Ontario, Canada, N6A 5B7 \\
-Email: [jli2487@uwo.ca](mailto:jli2487@uwo.ca)
+Email: [jiangtian.li@utoronto.ca](mailto:jiangtian.li@utoronto.ca)
 
 ## Current position 
 
-*PhD Candidate*, Department of Philosophy, Western University
+*Postdoctoral Fellow*, Department of Psychology, University of Toronto Scarborough
 
 ## Areas of specialization 
 
-Philosophy of Language, Natural Language Semantics, Psycholinguistics,
-Computational Modeling of Cognition.
+Natural Language Semantics, Philosophy of Language, Psycholinguistics, Computational Linguistics
+
 
 ## Areas of competence 
 
@@ -39,7 +39,7 @@ Li, J., & Joanisse, M. F. (n.d.). Testing a Theory of Polysemy with Priming and 
 
 ## Education 
 
-*PhD Candidate* in Philosophy, Western University\\
+*PhD* in Philosophy, Western University\\
 Advisor: Robert Stainton.\\
 Dissertation: A Theory of Polysemy\\
 *MA* in Philosophy, Western University\\
@@ -74,10 +74,15 @@ Graduate Research Assistant in Univeristy of Western Ontario
 
 ## Languages and professional skills 
 
-Computational: Python, R, PyTorch, PyMC3, LaTex\\
+Computational: Python, R, PyTorch, LaTex, JavaScript, PyschoPy\\
 Language: English (fluent), Chinese (native), Japanese (fluent), Latin (reading)
 
 ## References 
+
+**Blair Armstrong**\\
+Assistant Professor\\
+University of Toronto Scarborough 
+[blair.armstrong@utoronto.ca](mailto:blair.armstrong@utoronto.ca)\\
 
 **Robert Stainton**\\
 Distinguished Professor\\
