@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Justin Lipman"
 title_separator          : "-"
-name                     : &name "Dr. Justin Lipman"
-description              : &description "Industry Associate Professor at University of Technology Sydney"
+name                     : &name #"Dr. Justin Lipman"
+description              : &description #"Industry Associate Professor at University of Technology Sydney"
 url                      : "https://iottmco.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "iottmco.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        : "jslshotz"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/lipman/"
   orcid            : "https://orcid.org/0000-0003-2877-1168"
   pinterest        :
   soundcloud       :
@@ -245,6 +245,7 @@ defaults:
       author_profile: true
       share: true
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -255,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
