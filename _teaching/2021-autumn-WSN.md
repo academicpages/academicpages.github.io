@@ -3,7 +3,7 @@ title: "Wireless Sensor Networks Spring 2021"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-autumn-WSN
-venue: "UTS / Building 11 / FEIT"
+venue: "UTS"
 date: 2021-02-01
 location: "Sydney, Australia"
 ---

@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "SDN Autumn 2021"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master/Undergraduate course"
+permalink: /teaching/2021-autumn-SDN
+venue: "UTS"
+date: 2021-02-01
+location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Course notes 1
 ======
 
-Heading 2
+Lab Notes 2
 ======
 
-Heading 3
+Extra Code 3
 ======
