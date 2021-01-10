@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Publications in 2020:
+2020
+==
 
 * M. Amiri, F. Tofigh, N. Shariati, J. Lipman, M.  Abolhasan: “Review on Metamaterial Perfect Absorbers and Their Applications to IoT”, in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2020.3025585., 2020. (Impact Factor=9.9)
 * M. Saki, M. Abolhasan, J. Lipman and A. Jamalipour: “Mobility Model for Contact-Aware Data Offloading Through Train-to-Train Communications in Rail Networks”, In IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2020.3014588. (IEEE TITS) . 2020
@@ -29,6 +30,10 @@ Publications in 2020:
 * S. Jafarizadeh, F. Tofigh, J. Lipman, M. Abolhasan: “Optimizing Synchronizability in Networks of Coupled Systems”. In Automatica. Vol. 112, 108711. February 2020, (Impact Factor = 6.355)
 * F. Tofigh, M. Amiri, N. Shariati, J. Lipman, M. Abolhasan, 'Crowd Estimation Using Electromagnetic Wave Power-Level Measurements: A Proof of Concept', IEEE Transactions on Vehicular Technology, vol. 69, no. 1, pp. 784-792, 2020 (Impact Factor=5.339)
 * I. Makhdoom, I. Zhou, M. Abolhasan, J. Lipman, W. Ni: “PrivySharing: A Blockchain-Based Framework for Privacy-Preserving and Secure Data Sharing in Smart Cities”. Journal of Computers and Security (Elsevier), 2020. (Impact Factor = 3.062)
+
+2019
+==
+
 * F. Tofigh, M. Amiri, N. Shariati, J. Lipman and M. Abolhasan, “Polarization Insensitive Metamaterial Absorber for Crowd Estimation Based on Electromagnetic Energy Measurements,” in IEEE Transactions on Antennas and Propagation. 2019 (Impact Factor=4.345)
 * F. Tofigh, M. Amiri, N. Shariati, J. Lipman, M. Abolhasan, “Polarization Insensitive Metamaterial Perfect Absorber for Crowd Estimation Based on Energy Level Measurements of Ambient Electromagnetic Waves”, Scientific Reports, 2019. (Impact Factor = 4.03)
 * F. Tofigh, M. Amiri, N. Shariati, J. Lipman and M. Abolhasan, “Crowd Estimation Using Electromagnetic Wave Power-Level Measurements: A Proof of Concept", in IEEE Transactions on Vehicular Technology, 2019. (Impact Factor 5.339)
@@ -39,13 +44,21 @@ Publications in 2020:
 * A. Khan, M. Abolhasan, W. Ni, J. Lipman and A. Jamalipour, “A Hybrid-Fuzzy Logic Guided Genetic Algorithm (H-FLGA) Approach for Resource Optimization in 5G VANETs”, in IEEE Transactions on Vehicular Technology). 2019. (Impact Factor 5.339)
 * F. Tofigh, M. Amiri, N. Shariati, J. Lipman and M. Abolhasan, ”Low-Frequency Metamaterial Absorber Using Space-Filling Curve” In Journal of Electronic Materials. 18th July 2019. (Impact Factor=1.67)
 * M. Saki, M. Abolhasan and J. Lipman, “A Novel Approach for Big Data Classification and Transportation in Rail Networks”, in IEEE Transactions on Intelligent Transportation. 2019. (Impact Factor=4.05)
-* VD Chemalamarri, R. Braun, J. Lipman, M. Abolhasan, “A Multi-agent Controller to enable Cognition in Software Defined Networks”, 2018 28th International Telecommunication Networks and Applications Conference (ITNAC), International Telecommunication Networks and Applications Conference, IEEE, Sydney, Australia, pp. 52-56
 * M. Abdollahi, M. Abolhasan, N. Shariati, J. Lipman, A. Jamalipour, W. Ni, 'A Routing Protocol for SDN-based Multi-hop D2D Communications', 16th IEEE Annual Consumer Communications and Networking Conference, CCNC 2019, USA, pp. 895-898
 * M. Amiri, F. Tofigh, N. Shariati, J. Lipman, M. Abolhasan, “Miniature Tri-Wide Band Sierpinski-Minkowski Fractals Metamaterial Perfect Absorber”. In IET Microwaves, Antennas and Propagation, vol. 13, no. 7, pp 991-996, 2019. (Impact Factor=1.18)
 * I. Makhdoom, M. Abolhasan, J. Lipman and W. Ni, “Blockchain’s Adoption in IoT: The Challenges, and A Way Forward”. To appear in Journal of Network and Computer Applications. 2019. (Impact Factor=3.853)
+
+2018
+==
+
+* VD Chemalamarri, R. Braun, J. Lipman, M. Abolhasan, “A Multi-agent Controller to enable Cognition in Software Defined Networks”, 2018 28th International Telecommunication Networks and Applications Conference (ITNAC), International Telecommunication Networks and Applications Conference, IEEE, Sydney, Australia, pp. 52-56
 * M. Abolhasan, M. Abdollahi, W. Ni, A. Jamalipour, N. Shariati and J. Lipman, “A Routing Framework for Offloading Traffic from Cellular Networks to SDN-based Multi-Hop Device-to-Device Networks”, IEEE Transactions on Network and Service Management (IEEE TNMS). 2018. (Impact Factor=3.286)
 * I. Makhdoom, M. Abolhasan, J. Lipman, R. Liu and W. Ni, “Anatomy of Threats to The Internet of Things”, IEEE Communications Surveys & Tutorials. 2018. (Impact Factor=20.23)
 * F. Tofigh, G. Mao, J. Lipman, M. Abolhasan, 'Crowd Density Mapping Based on Wi-Fi Measurements on Train Platforms', 12TH International Conference On Signal Processing And Communication Systems (ICSPCS), International Conference on Signal Processing and Communication Systems, IEEE, Cairns, Australia, 2018
+
+2000-2017
+==
+
 * M. Abolhasan, J. Lipman, N. Wei, B. Hagelstein, “Software-Defined Wireless Networking: Centralised, Distributed, or Hybrid?”, accepted to IEEE Network Magazine Special Issue on Software Defined Wireless Networks, 2015
 * N. Wei, I. B. Collings, J. Lipman, X. Wang, M. Tao, M. Abolhasan, “Graph Theory and Its Applications to Future Network Planning: Software-Defined Online Small Cell Management”, IEEE Wireless Communications Magazine, 2014.
 * S. Movassaghi, M. Abolhasan, J. Lipman, “Wireless Body Area Networks: A Survey”, IEEE Comms Surveys & Tutorials, 2014.
