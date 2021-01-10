@@ -39,6 +39,13 @@ Modeling
 
 <br> 
 
+Neuroscience
+======
+* [Functional Neuroanatomy](http://www.neuroanatomy.ca/) for an introduction to neuroanatomy with virtual brain dissection
+* [BrainFacts.org](https://www.brainfacts.org/) for some fun exploration of brain facts (The book [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) is also used as a guide book for annual Brain Bee)
+
+<br> 
+
 Academic Writing
 ======
 * [The Writing Workshop](https://osf.io/z4n3t/) by Barbara Sarnecka
