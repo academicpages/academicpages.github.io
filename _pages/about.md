@@ -10,11 +10,12 @@ redirect_from:
 
 ### About me
 
-Guilherme da Silva Lopes Fabris has been a postdoc researcher at the [Federal University of Rio Grande do Norte](https://www.ufrn.br) since November 2019. He received the Bachelor and Master degree in Physics from the [São Paulo State University](https://www.rc.unesp.br), Rio Claro, SP, Brazil, in 2012 and 2015, respectively, and a Ph.D. degree in Materials Science and Technology from the [São Paulo State University](https://www.bauru.unesp.br), Bauru, SP, Brazil, in 2019.
+<div style="text-align: justify"> Guilherme da Silva Lopes Fabris has been a postdoc researcher at the [Federal University of Rio Grande do Norte](https://www.ufrn.br) since November 2019. He received the Bachelor and Master degree in Physics from the [São Paulo State University](https://www.rc.unesp.br), Rio Claro, SP, Brazil, in 2012 and 2015, respectively, and a Ph.D. degree in Materials Science and Technology from the [São Paulo State University](https://www.bauru.unesp.br), Bauru, SP, Brazil, in 2019.
 
 He has experience in computational and theoretical physics and chemistry with an emphasis on classical and quantum molecular dynamics; and the modeling of structural, electronic, mechanical, vibrational and topological properties of 1-, 2- and 3- dimensional systems using the Density Functional Theory (DFT).
 
-Recently he has been interested in the computational modeling and simulation methods applied to porous materials derived from graphene and inorganic semiconductors (surfaces, nanotubes and fullerenes), and in the study of the properties of scheelite-type crystals, in addition to applications of these structures in energy storage, molecular sieves and catalysis.
+Recently he has been interested in the computational modeling and simulation methods applied to porous materials derived from graphene and inorganic semiconductors (surfaces, nanotubes and fullerenes), and in the study of the properties of scheelite-type crystals, in addition to applications of these structures in energy storage, molecular sieves and catalysis. </div>
+
 
 
 
