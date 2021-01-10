@@ -8,13 +8,6 @@ redirect_from:
 ---
 
 ## Jiangtian Li
-
-The Rotman Institute of Philosophy\\
-Brain and Mind Institute\\
-Philosophy Department\\
-Western University\\
-1151 Richmond Street North\\
-London, Ontario, Canada, N6A 5B7 \\
 Email: [jiangtian.li@utoronto.ca](mailto:jiangtian.li@utoronto.ca)
 
 ## Current position 
