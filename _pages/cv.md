@@ -9,8 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://luke-fitz.github.io/files/Luke%20Fitzpatrick%20Jun%202019.pdf" width="500" height="375">
+<iframe src=""https://drive.google.com/viewerng/viewer?embedded=true&url=https://luke-fitz.github.io/files/Luke%20Fitzpatrick%20Jun%202019.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+
+
+<object width="400" height="500" type="application/pdf" data="https://luke-fitz.github.io/files/Luke%20Fitzpatrick%20Jun%202019.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+</object>
+
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://luke-fitz.github.io/files/Luke%20Fitzpatrick%20Jun%202019.pdf" width="500" height="375">
 
 Education
 ======
