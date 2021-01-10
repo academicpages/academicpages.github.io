@@ -21,7 +21,7 @@ image:
 
 _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 
-[Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/files/JPL_CV_10-2020.pdf)
+[Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/CV/CV.pdf)
 
 ## Education
 * __B.S. Biology__, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
