@@ -34,11 +34,11 @@ Li, J., & Joanisse, M. F. (n.d.). Testing a Theory of Polysemy with Priming and 
 
 *PhD* in Philosophy, Western University\\
 Advisor: Robert Stainton.\\
-Dissertation: A Theory of Polysemy\\
+Dissertation: A Theory of Polysemy
 
 *MA* in Philosophy, Western University\\
 Advisor: Robert Stainton.\\
-Thesis: Names are Also Polysemous\\
+Thesis: Names are Also Polysemous
 
 *BA* in Philosophy, Minzu University of China\\
 Advisor: Jixuan Zhang.\\
@@ -77,7 +77,7 @@ Language: English (fluent), Chinese (native), Japanese (fluent), Latin (reading)
 **Blair Armstrong**\\
 Assistant Professor\\
 University of Toronto Scarborough 
-[blair.armstrong@utoronto.ca](mailto:blair.armstrong@utoronto.ca)\\
+[blair.armstrong@utoronto.ca](mailto:blair.armstrong@utoronto.ca)
 
 **Robert Stainton**\\
 Distinguished Professor\\
