@@ -35,6 +35,7 @@ Modeling
 * [Neuromatch Acadmy Course Tutorials](https://clauswilke.com/dataviz/index.html) 
 * [Neuromatch Academy Course Intro, Outro, Discussion Panel](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw/videos)
 * [Neurohackademy Course Videos](https://www.youtube.com/channel/UCLKSeDZWDqBzKRfHTabg1lQ) through UW eScience Institute
+* [Neuroscience Gateway (NSG)](https://www.nsgportal.org/overview.html) gives neuroscientists free access to High Performance Computing resources
 * [Kaggle](https://www.kaggle.com/) for downloading some fun public datasets to try out machine learning algorithms
 
 <br> 
