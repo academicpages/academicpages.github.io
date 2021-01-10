@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://luke-fitz.github.io/files/Luke%20Fitzpatrick%20Jun%202019.pdf" width="500" height="375">
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
