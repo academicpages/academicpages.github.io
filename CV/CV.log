@@ -1,0 +1,253 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.2)  10 JAN 2021 17:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**CV.tex
+(./CV.tex
+LaTeX2e <2020-10-01> patch level 3
+L3 programming layer <2020-12-07> xparse <2020-03-03> (./resume.cls
+Document Class: resume 2010/07/10 v0.9 Resume class
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/base/article.
+cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/base/size11.c
+lo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/parskip/parsk
+ip.sty
+Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvo
+ptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyv
+al.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltx
+cmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/k
+vsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoo
+lbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+))
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/tools/array.s
+ty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box47
+\extrarowheight=\dimen140
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box48
+)
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.s
+ty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/geometry/geom
+etry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvte
+x.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex
+.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count186
+\Gm@cntv=\count187
+\c@Gm@tempcnt=\count188
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+)
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fanc
+yhdr.sty
+Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/lastpage/last
+page.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amss
+ymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsf
+onts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3b
+ackend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box49
+) (./CV.aux)
+\openout1 = `CV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89pt
+* \textheight=708.24513pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-65.90756pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa
+.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+
+
+(/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb
+.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (30.0pt too wide) in paragraph at lines 30--30
+[] 
+ []
+
+[1
+
+{/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/
+pdftex.map}]
+Overfull \hbox (5.74945pt too wide) in paragraph at lines 101--102
+[]\OT1/cmr/bx/n/10.95 Master's Pro-gram in Wildlife Man-age-ment, \OT1/cmr/m/n/
+10.95 US Wildlife Ser-vice, Uni-ver-si-dad Na-cional de C^^Sordoba,
+ []
+
+[2
+
+] [3] [4] [5] [6] [7] [8]
+Overfull \hbox (23.74774pt too wide) in paragraph at lines 429--438
+[][] 
+ []
+
+[9] [10] 
+AED: lastpage setting LastPage
+(./CV.aux) ) 
+Here is how much of TeX's memory you used:
+ 2557 strings out of 481258
+ 36848 string characters out of 5914854
+ 323306 words of memory out of 5000000
+ 19486 multiletter control sequences out of 15000+600000
+ 409506 words of font info for 50 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 80i,11n,82p,1579b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+</Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusn.pinto-ledezma/
+Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jes
+usn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusn.pinto-ledezma/Librar
+y/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on CV.pdf (10 pages, 141819 bytes).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
