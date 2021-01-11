@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth-year MD-PhD student in Biomedical Informatics and Computational Biology training under the direction of Neil Sarkar at the Center for Biomedical Informatics at Brown University. 
+I am a sixth-year MD-PhD candidate in Biomedical Informatics and Computational Biology training under the direction of Neil Sarkar at the Center for Biomedical Informatics at Brown University. 
 
 My research interests focus on the development of informatics methods that leverage population-level data to improve the accuracy of cardiovascular disease risk estimation towards a learning healthcare system. My work aims to improve adherence to clinical practice guidelines, enhance the precision of preventative medical therapies, better explain observed health outcome disparities in racial and ethnic minority populations, and develop mechanisms for translating omics research into clinical medical practice. I received an Sc.B. from Brown University in Applied Mathematics.
 
