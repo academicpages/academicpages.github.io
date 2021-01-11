@@ -1,3 +1,4 @@
+1.
 ---
 title: "Bioremediation of direct dyes in simulated textile effluents by a paramorphogenic form of Aspergillus oryzae"
 collection: publications
