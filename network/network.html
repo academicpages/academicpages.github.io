@@ -254,13 +254,13 @@
   function tryEval(code) {
     var result = null;
     try {
-      result = eval(code);
+      result = eval("(" + code + ")");
     } catch(error) {
       if (!error instanceof SyntaxError) {
         throw error;
       }
       try {
-        result = eval("(" + code + ")");
+        result = eval(code);
       } catch(e) {
         if (e instanceof SyntaxError) {
           throw error;
@@ -1207,14 +1207,15 @@ return function(){for(var n=0,e=0;e<t;++e)n+=Math.random();return n}},um=functio
   },
 });
 </script>
+
 </head>
 <body style="background-color: white;">
 <div id="htmlwidget_container">
-<div id="htmlwidget-852b4a8a951f3f050e0b" class="forceNetwork html-widget" style="width:960px;height:500px;">
+<div id="htmlwidget-d8565404f23d77af6475" class="forceNetwork html-widget" style="width:960px;height:500px;">
 
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-852b4a8a951f3f050e0b">{"x":{"links":{"source":[0,1,1,1,2,2,3,3],"target":[4,5,6,7,6,7,6,7],"value":[1,1,1,1,1,1,1,1],"colour":["#666","#666","#666","#666","#666","#666","#666","#666"]},"nodes":{"name":["Enzo Orlandini","Amos Maritan","Samir Suweis","Andrea Giometto","Curvature effect on patterning dynamics on spherical membranes","A physics approach to ecosystem dynamics","Constrained proteome allocation affects coexistence in models of competitive microbial communities","Dynamic metabolic adaptation can promote species coexistence in competitive microbial communities"],"group":[1,1,1,1,4,4,2,3],"hyperlink":["https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Enzo+Orlandini","https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Amos+Maritan","https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Samir+Suweis","https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Andrea+Giometto","http://tesi.cab.unipd.it/49409/","http://tesi.cab.unipd.it/57004/","https://doi.org/10.1101/2020.01.27.921478","https://doi.org/10.1371/journal.pcbi.1007896"]},"options":{"NodeID":"name","Group":"group","colourScale":"d3.scaleOrdinal()\n            .domain([\"1\", \"2\", \"3\", \"4\"])\n            .range([\"#1722C1\", \"#90d185\", \"#138400\", \"#8e20c1\"]);","fontSize":12,"fontFamily":"serif","clickTextSize":30,"linkDistance":50,"linkWidth":"function(d) { return Math.sqrt(d.value); }","charge":-30,"opacity":1,"zoom":false,"legend":false,"arrows":false,"nodesize":false,"radiusCalculation":" Math.sqrt(d.nodesize)+6","bounded":false,"opacityNoHover":0,"clickAction":"window.open(d.hyperlink)"}},"evals":[],"jsHooks":[]}</script>
-<script type="application/htmlwidget-sizing" data-for="htmlwidget-852b4a8a951f3f050e0b">{"viewer":{"width":450,"height":350,"padding":10,"fill":true},"browser":{"width":960,"height":500,"padding":10,"fill":true}}</script>
+<script type="application/json" data-for="htmlwidget-d8565404f23d77af6475">{"x":{"links":{"source":[0,1,1,1,1,2,2,2,2,3,3,4],"target":[5,6,7,8,9,6,7,8,9,7,9,8],"value":[1,1,1,1,1,1,1,1,1,1,1,1],"colour":["#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666"]},"nodes":{"name":["Enzo Orlandini","Amos Maritan","Samir Suweis","Andrea Giometto","Flavio Seno","Curvature effect on patterning dynamics on spherical membranes","A physics approach to ecosystem dynamics","Dynamic metabolic adaptation can promote species coexistence in competitive microbial communities","Two improved approaches to the study of competition in microbial communities","Constrained proteome allocation affects coexistence in models of competitive microbial communities"],"group":[1,1,1,1,1,4,4,3,4,3],"hyperlink":["https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Enzo+Orlandini","https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Amos+Maritan","https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Samir+Suweis","https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Andrea+Giometto","https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Flavio+Seno","http://tesi.cab.unipd.it/49409/","http://tesi.cab.unipd.it/57004/","https://doi.org/10.1371/journal.pcbi.1007896","http://tesi.cab.unipd.it/***/","https://doi.org/10.1038/s41396-020-00863-0"]},"options":{"NodeID":"name","Group":"group","colourScale":"d3.scaleOrdinal()\n            .domain([\"1\", \"2\", \"3\", \"4\"])\n            .range([\"#1722C1\", \"#90d185\", \"#138400\", \"#8e20c1\"]);","fontSize":12,"fontFamily":"serif","clickTextSize":30,"linkDistance":50,"linkWidth":"function(d) { return Math.sqrt(d.value); }","charge":-30,"opacity":1,"zoom":false,"legend":false,"arrows":false,"nodesize":false,"radiusCalculation":" Math.sqrt(d.nodesize)+6","bounded":false,"opacityNoHover":0,"clickAction":"window.open(d.hyperlink)"}},"evals":[],"jsHooks":[]}</script>
+<script type="application/htmlwidget-sizing" data-for="htmlwidget-d8565404f23d77af6475">{"viewer":{"width":450,"height":350,"padding":10,"fill":true},"browser":{"width":960,"height":500,"padding":10,"fill":true}}</script>
 </body>
 </html>
