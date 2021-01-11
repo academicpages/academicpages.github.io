@@ -2,7 +2,7 @@
 title: "Bioremediation of direct dyes in simulated textile effluents by a paramorphogenic form of Aspergillus oryzae"
 collection: publications
 permalink: /publication/Paper_1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt:
 date: 2012-04-01
 venue: 'Water Sci Technol (2012)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
