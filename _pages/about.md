@@ -16,9 +16,9 @@ redirect_from:
 
 <br><br>  Recently he has been interested in the computational modeling and simulation methods applied to porous materials derived from graphene and inorganic semiconductors (surfaces, nanotubes and fullerenes), and in the study of the properties of scheelite-type crystals, in addition to applications of these structures in energy storage, molecular sieves and catalysis. </div>
 
-___
+______________
 
-####Computational expertises
+#### Computational expertises
 
 
 
