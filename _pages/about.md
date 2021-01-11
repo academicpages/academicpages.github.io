@@ -25,3 +25,5 @@ ______________
 
 - Mainly used molecular modeling and simulation packages:
 ![hippo](images/lammps.gif)
+
+![alt text](images/Site_computational_expertises_program.jpg "Computational packages")
