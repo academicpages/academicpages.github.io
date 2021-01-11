@@ -20,5 +20,8 @@ ______________
 
 #### Computational expertises
 
+- Programming & Scripting languages mastered:
 ![alt text](images/Site_computational_expertises.jpg "Mastered Programming Languages")
 
+- Mainly used molecular modeling and simulation packages:
+![hippo](images/lammps.gif)
