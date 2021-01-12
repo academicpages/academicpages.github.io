@@ -69,7 +69,7 @@ Select Conference Presentations
 <b><big>Poster Presentations</big></b>
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Society for
-Neuroscience Global Connectome, Virtual. Jan., 2021.
+Neuroscience Global Connectome, Virtual. Jan., 2021. [news](/posts/2021/1/blog-post-1/)
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020. [news](/posts/2020/11/blog-post-1/)
 
