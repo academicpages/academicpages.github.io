@@ -9,7 +9,7 @@ redirect_from:
 <link rel="shortcut icon" type="image/x-icon" href="https://wang-yuke.com/images/logo.png" />
 
 
-Download <a href="https://wang-yuke.com/files/CV_Yuke_Wang.pdf">**CV**</a>
+Download <p><a href="https://wang-yuke.com/files/CV_Yuke_Wang.pdf">**CV**</a></p>
 
 Education
 ======
