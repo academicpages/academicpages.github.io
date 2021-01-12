@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhuo Sun"
-#   avatar           : "profile.png"
+  avatar           : "profile.png"
   bio              : "PhD candidate @ UCL"
   location         : "LDN"
   employer         :
