@@ -7,11 +7,10 @@ redirect_from:
 ---
 {% include base_path %}
 <link rel="shortcut icon" type="image/x-icon" href="https://wang-yuke.com/images/logo.png" />
-
 <!-- Download <p><a href="https://wang-yuke.com/files/CV_Yuke_Wang.pdf">**CV**</a></p> -->
-<iframe src="https://wang-yuke.com/files/CV_Yuke_Wang.pdf" width="100%" height="500px"></iframe>
+<iframe src="https://wang-yuke.com/files/CV_Yuke_Wang.pdf" width="100%" height="1000px"></iframe>
 
-Education
+<!-- Education
 ======
 + **University of California, Santa Barbara (UCSB)**, 2018 -- now <br />
   **Ph.D.** in *Computer Science*
@@ -63,4 +62,4 @@ Professional Activities
 > * OOPSLA-2019              (Top programming language conference) <br>
 
 + Presentations <br>
-> * Invited talk at Computer Systems WIPS: **KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA.** Feb. 2019 <br>
+> * Invited talk at Computer Systems WIPS: **KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA.** Feb. 2019 <br> -->
