@@ -23,6 +23,8 @@ _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/CV/CV.pdf)
 
+Updated: January 2021
+
 ## Education
 * __B.S. Biology__, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
 * __M.S. Wildlife Management__, Universidad Nacional de Córdoba, Córdoba, Argentina, 2009
@@ -65,10 +67,10 @@ _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 * __Aves Argentinas__: El Hornero (revista de ornitología Neotropical) 
 
 ### Journals in for-profit publishers  
-Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management, Biodiversity and Conservation
+Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management, Biodiversity and Conservation.
 
 ### Others
-Kempffiana, Oecología Australis, PLOS One
+Kempffiana, Oecología Australis, PLOS One, Journal of Vegetation Science.
   
 ## Professional affiliations
 * 2020-Present: American Association for the Advancement of Science
