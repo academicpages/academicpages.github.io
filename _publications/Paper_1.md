@@ -2,8 +2,8 @@
 title: "Bioremediation of direct dyes in simulated textile effluents by a paramorphogenic form of Aspergillus oryzae"
 collection: publications
 permalink: /publication/Paper_1
-excerpt: ' '
-date: 2012-04-01
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2012
 venue: 'Water Sci Technol (2012)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'C. R. Corso; E. J. R. Almeida; G. C. Santos; L. G. Morão; G. S. L. Fabris; E. K. Mitter. &quot;Bioremediation of direct dyes in simulated textile effluents by a paramorphogenic form of Aspergillus oryzae.&quot; <i>Water Sci Technol (2012)</i> 65 (8): 1490–1495.'
