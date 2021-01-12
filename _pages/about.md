@@ -26,6 +26,6 @@ Publication
 
 
 
-For more info
+More info
 ------
 Currently no.
