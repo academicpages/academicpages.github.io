@@ -42,9 +42,10 @@ Modeling
 Neuroscience
 ======
 * [Functional Neuroanatomy](http://www.neuroanatomy.ca/) for an introduction to neuroanatomy with virtual brain dissection
-* [BrainFacts.org](https://www.brainfacts.org/) for some fun exploration of brain facts (The book [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) is also used as a guide book for annual Brain Bee)
 * [Neuroscience Gateway (NSG)](https://www.nsgportal.org/overview.html) gives neuroscientists free access to High Performance Computing resources
-* [EBRAINS](https://ebrains.eu/services) give researchers access to shareable open data (including access to the famous [Human Brain Project](https://www.humanbrainproject.eu/en/) data)
+* [EBRAINS](https://ebrains.eu/services) gives researchers access to shared and curated open data (including access to the famous [Human Brain Project](https://www.humanbrainproject.eu/en/) data)
+* [Allen Institute's The Virtual Science Lab](https://alleninstitute.org/about/education-outreach/#Lessons) teaches researchers how to use open data from Allen Institute in class
+* [BrainFacts.org](https://www.brainfacts.org/) for some fun exploration of brain facts (The book [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) is also used as a guide book for annual Brain Bee)
 
 <br> 
 
