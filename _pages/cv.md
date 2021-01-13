@@ -24,7 +24,19 @@ Education
 &nbsp;&nbsp;&nbsp;&nbsp;Project: Analysis and design of a generalizable testing framework for   
 &nbsp;&nbsp;&nbsp;&nbsp;multi function displays
 
-Work experience
+Awards
+======
+&nbsp;&nbsp;&nbsp;&nbsp;Spot award at Proscia Inc  
+&nbsp;&nbsp;&nbsp;&nbsp;Best employee of the year at Honeywell technology Solutions Lab for the year 2014  
+&nbsp;&nbsp;&nbsp;&nbsp;Included in the Dean's top list 10% in the academic year 2009-2010  
+
+Publications and Patents
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Industrial experience
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;_Proscia Inc. ( December 2018 - May 2020 )_  
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Engineer**
@@ -33,12 +45,12 @@ using techniques like multiple instance learning, confidence thresholding to ena
 faster diagnosis of skin cancer
 - Developed tools for image classification, stain normalization and image
 segmentation for digital pathology software systems using deep learning.
-- Developed efficient visual interpretation techniques to explain the decisions made
-by deep learning classification systems
-- Designed and developed optimized deep learning development and deployment
-pipelines ensuring concordance with FDA guidelines for medical devices.
+- Performed Scientific experiments including literature survey, hypothesis testing, and implementation of ideas in the perspective of Proscia’s product goals.
+- Led the development work associated with different modules in a project.
+- Co-authored academic papers showcasing validation results, novel machine learning algorithms, and techniques, and clinical studies of the product.
+- Stayed up-to-date with scientific literature and best practices in the field.
 
-&nbsp;&nbsp;&nbsp;&nbsp;_nView Medical ( August 2017 - December 2018 )_  
+&nbsp;&nbsp;&nbsp;&nbsp;_nView Medical ( August 2017 - November 2018 )_  
 &nbsp;&nbsp;&nbsp;&nbsp;**Medical Imaging Scientist**
 - Developed deep learning infrastructure to improve the quality of 3D tomographic
 medical images.
@@ -49,7 +61,7 @@ allows for real-time reconstruction over the cloud.
 imaging device that generates near real-time 3D reconstructions using cone-beam
 tomosynthesis fluoroscopy.
 
-&nbsp;&nbsp;&nbsp;&nbsp;_Honeywell Technology Solutions Lab ( August 2013 - June 2015 )_    
+&nbsp;&nbsp;&nbsp;&nbsp;_Honeywell Technology Solutions Lab ( June 2013 - July 2015 )_    
 &nbsp;&nbsp;&nbsp;&nbsp;**Software Developer**
 - Developed a tool for automating graphics testing for cockpit displays. The tool uses
 an image comparison algorithm to compare images in the requirement to the
@@ -70,7 +82,7 @@ python scripts).
 time for testing for the rehosting of software for EASE(Honeywell flight simulation
 environment)
 
-&nbsp;&nbsp;&nbsp;&nbsp;_Bhabha Atomic Research Center_    
+&nbsp;&nbsp;&nbsp;&nbsp;_Bhabha Atomic Research Center ( June 2012 - September 2012 )_    
 &nbsp;&nbsp;&nbsp;&nbsp;**Software Developer Intern**
 - Developed an algorithm for cross a compiler for arm pc and software postbox using
 socket programming
@@ -86,9 +98,4 @@ Academic Projects
         fairness using the proposed fairness regularizers. 
 - Approximation guarantees for subspace clustering in the spirit of algorithms for k-means.
 
-Publications and Patents
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
