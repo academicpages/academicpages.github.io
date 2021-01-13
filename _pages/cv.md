@@ -12,21 +12,21 @@ redirect_from:
 
 Education
 ======
-&nbsp;&nbsp;&nbsp;&nbsp;_University of Utah_  
+&nbsp;&nbsp;&nbsp;&nbsp;_University of Utah(August 2015 - May 2017)_  
 &nbsp;&nbsp;&nbsp;&nbsp;**Master of Science in Computer Science**  
 &nbsp;&nbsp;&nbsp;&nbsp;Project: Development and integration of an in-situ image compositor and  
 &nbsp;&nbsp;&nbsp;&nbsp;raycaster into the S3D Direct Numerical Simulation system to run on the Oak  
 &nbsp;&nbsp;&nbsp;&nbsp;Ridge National Laboratory's Titan supercomputer.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;_SASTRA University_  
+&nbsp;&nbsp;&nbsp;&nbsp;_SASTRA University(June 2009 - May 2013)_  
 &nbsp;&nbsp;&nbsp;&nbsp;**Bachelor of Technology**  
-&nbsp;&nbsp;&nbsp;&nbsp;Project: Project: Analysis and design of a generalizable testing framework for   
+&nbsp;&nbsp;&nbsp;&nbsp;Project: Analysis and design of a generalizable testing framework for   
 &nbsp;&nbsp;&nbsp;&nbsp;multi function displays
 
 Work experience
 ======
-&nbsp;&nbsp;&nbsp;&nbsp;_Proscia Inc._  
+&nbsp;&nbsp;&nbsp;&nbsp;_Proscia Inc.(December 2018 - May 2020)_  
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Engineer**
 - Developed and validated a real-world deep learning pathology software system
 using techniques like multiple instance learning, confidence thresholding to enable
@@ -38,7 +38,7 @@ by deep learning classification systems
 - Designed and developed optimized deep learning development and deployment
 pipelines ensuring concordance with FDA guidelines for medical devices.
 
-&nbsp;&nbsp;&nbsp;&nbsp;_nView Medical_  
+&nbsp;&nbsp;&nbsp;&nbsp;_nView Medical(August 2017 - December 2018)_  
 &nbsp;&nbsp;&nbsp;&nbsp;**Medical Imaging Scientist**
 - Developed deep learning infrastructure to improve the quality of 3D tomographic
 medical images.
@@ -49,7 +49,7 @@ allows for real-time reconstruction over the cloud.
 imaging device that generates near real-time 3D reconstructions using cone-beam
 tomosynthesis fluoroscopy.
 
-&nbsp;&nbsp;&nbsp;&nbsp;_Honeywell Technology Solutions Lab_    
+&nbsp;&nbsp;&nbsp;&nbsp;_Honeywell Technology Solutions Lab(August 2013 - June 2015)_    
 &nbsp;&nbsp;&nbsp;&nbsp;**Software Developer**
 - Developed a tool for automating graphics testing for cockpit displays. The tool uses
 an image comparison algorithm to compare images in the requirement to the
