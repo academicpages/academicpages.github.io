@@ -30,8 +30,8 @@ redirect_from:
   * Universidade Estadual Paulista (UNESP)
   * 2017 : 2020
 
-* Professor contratado
-  * Faculdade de Tecnologia de São Paulo (FATEC)
+* Professor
+  * Faculdade de Tecnologia (FATEC)
   * 2016 : 2017
 
 
@@ -39,20 +39,30 @@ redirect_from:
 
 #### Pós-graduação
 
-  * Aluno
-    * Nível
-    * Tema
+  * Ronaldo Cesar de Paiva
+    * Mestrado
+    * Efeitos ópticos em buracos negros além da relatividade geral
     
-  * Aluno
-    * Nível
-    * Tema
+  * Tatiane de Paula Moraes
+    * Mestrado
+    * Ondas gravitacionais em modelos de gravitação massiva
 
 #### Graduação
 
-  * Aluno
-    * Nível
-    * Tema
+  * Andre Felipe Moraes Luiz Lucchini
+    * Iniciação Científica
+    * Ondas gravitacionais e perturbações de buracos negros
     
-  * Aluno
-    * Nível
-    * Tema
+  * Kelvin dos Santos Alves
+    * Iniciação Científica
+    * Aspectos geométricos da física de buracos negros
+    
+ #### Concluídas
+ 
+  * Tatiane de Paula Moraes
+    * Iniciação Científica
+    * Uma introdução à teoria de ondas gravitacionais
+    
+  * Lucas Duarte Queiroz 
+    * Iniciação Científica Jr.
+    * Aplicação de Espinores no Estudo de Movimentos Sacádicos do Olho Humano
