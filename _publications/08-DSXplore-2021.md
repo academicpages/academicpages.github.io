@@ -16,4 +16,4 @@ for SCC by leveraging several key techniques, such as the input-centric backward
 channel-cyclic optimization; 
 + Integrate the SCC into the existing Pytorch framework as a new type of
 convolution operator.
-+ Project Open-source publicly at [Github](git@github.com:YukeWang96/DSXplore.git).
++ Project is now open-source at [Github](git@github.com:YukeWang96/DSXplore.git).
