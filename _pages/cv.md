@@ -57,7 +57,7 @@ redirect_from:
     * Iniciação Científica
     * Aspectos geométricos da física de buracos negros
     
- #### Concluídas
+#### Concluídas
  
   * Tatiane de Paula Moraes
     * Iniciação Científica
