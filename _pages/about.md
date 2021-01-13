@@ -10,7 +10,7 @@ redirect_from:
 
 Larry Han is a third year graduate student at Harvard University in [Professor Tianxi Cai's lab](https://www.hsph.harvard.edu/tianxi-cai/), working towards a PhD in [Biostatistics](https://www.hsph.harvard.edu/biostatistics/). He received an AM in Biostatistics from Harvard in 2020, an MPhil in Operations Management from the University of Cambridge in 2018, an MA in Global Affairs from Tsinghua University in 2017, and a BSPH in Biostatistics from the University of North Carolina at Chapel Hill in 2016.
 
-<img align="right" src="smart-purple.png">
+<img align="right" src="/images/smart-purple.png" width="356" height="400">
 
 [His research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing new statistical methods to leverage real world data to improve decision-making in public health and clinical medicine. Specifically, his academic interests include robust and efficient estimation and inference using large-scale data generated from electronic health records and clinical trial data.
 
