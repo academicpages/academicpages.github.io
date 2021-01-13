@@ -19,6 +19,7 @@ Coding
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund
 * [Advanced R](https://adv-r.hadley.nz/index.html) by Hadley Wickham
+* [Mastering Spark with R](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, Edgar Ruiz
 * [HackerRank](https://www.hackerrank.com/) for coding practice in multiple programming languages esp. SQL and Python
 
 <br> 
