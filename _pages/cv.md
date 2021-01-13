@@ -26,9 +26,9 @@ Education
 
 Awards
 ======
-&nbsp;&nbsp;&nbsp;&nbsp;Spot award at Proscia Inc  
-&nbsp;&nbsp;&nbsp;&nbsp;Best employee of the year at Honeywell technology Solutions Lab for the year 2014  
-&nbsp;&nbsp;&nbsp;&nbsp;Included in the Dean's top list 10% in the academic year 2009-2010  
+- Spot award at Proscia Inc  
+- Best employee of the year at Honeywell technology Solutions Lab for the year 2014  
+- Included in the Dean's top list 10% in the academic year 2009-2010  
 
 Publications and Patents
 ======
@@ -45,7 +45,8 @@ using techniques like multiple instance learning, confidence thresholding to ena
 faster diagnosis of skin cancer
 - Developed tools for image classification, stain normalization and image
 segmentation for digital pathology software systems using deep learning.
-- Performed Scientific experiments including literature survey, hypothesis testing, and implementation of ideas in the perspective of Proscia’s product goals.
+- Developed efficient visual interpretation techniques to explain the decisions made
+by deep learning classification systems
 - Led the development work associated with different modules in a project.
 - Co-authored academic papers showcasing validation results, novel machine learning algorithms, and techniques, and clinical studies of the product.
 - Stayed up-to-date with scientific literature and best practices in the field.
