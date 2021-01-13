@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Kameswari Devi Ayyagari and I am an aspiring PhD candidate interested in studying and leveraging machine learning algorithms to advance biology, medicine and healthcare. The best way to reach me is by email at *akdevi.92 AT gmail*
+Welcome! My name is Kameswari Devi Ayyagari and I am an aspiring PhD candidate interested in studying and leveraging machine learning algorithms to advance biology, medicine and healthcare. The best way to reach me is by email at *akdevi.92 AT gmail*.
 
 My research interests lie at the intersection of computer science and bioinformatics. I believe that efficient machine learning, statistical and data analysis tools have the power to augment the abilities of medical practitioners in early detection of different medical conditions, resulting in better and timely healthcare options. Through my graduate studies in Computer Science, I intend to leverage machine learning algorithms to advance healthcare. 
 
