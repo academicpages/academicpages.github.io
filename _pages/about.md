@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhuo Sun, a 2nd year PhD student in Statistics at [University College London](https://www.ucl.ac.uk). I am very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. Before that, I accomplished my M.Sc in Statistical Science at [University of Oxford](https://www.ox.ac.uk) under the supervision of Prof. George and my advisor there was Prof.Gesine. I am a recipient of Cambridge International Trust scholarship. Currently, my PhD at UCL is funded by EPSRC and UCL jointly.
+My name is Zhuo Sun, a 2nd year PhD student in Statistics at [University College London](https://www.ucl.ac.uk). I am very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. Before that, I accomplished my M.Sc in Statistical Science with _Distinction_ at [University of Oxford](https://www.ox.ac.uk) under the supervision of Prof. George and my advisor there was Prof. Gesine. I am a recipient of Cambridge International Trust scholarship. Currently, my PhD at UCL is funded by EPSRC and UCL jointly.
 
 Research interest
 ======
