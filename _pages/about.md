@@ -10,6 +10,8 @@ redirect_from:
 
 I am an undergraduate at UCSD with hopes to pursue a role in SWE. I am a Math-CS and Cognitive Science double major and enjoy auditing classes in philosophy.
 
+I am currently looking for an internship position as a software engineer. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
+
 ## Interests
 
 I am interested in investigating the applications machine learning techniques and its intersection with various fields. I am also passionate about the application of simulation in developing robust systems.
