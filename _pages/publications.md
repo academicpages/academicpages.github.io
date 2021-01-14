@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+12. **P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin, [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w), International Conference on Learning Representations (ICLR), 2021
+
+11. S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, and L. Carin, [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ), International Conference on Learning Representations (ICLR), 2021
+
 10. **P. Cheng**, W. Hao, and L. Carin, [Estimating Total Correlation with Mutual Information Bounds](https://openreview.net/forum?id=UsDZut_p2LG), Neural Information Processing Systems (NeurIPS) Workshop, 2020
 
 9. **P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin, [CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013), International Conference on Machine Learning (ICML), 2020
