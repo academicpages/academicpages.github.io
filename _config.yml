@@ -183,7 +183,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  cs6604SP21:
+      output: true
+      permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -214,6 +216,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _cs6604SP21
+  - scope:
+      path: ""
+      type: cs6604SP21
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -239,16 +250,7 @@ defaults:
     values:
       layout: single #talk
       author_profile: true
-      share: false
-  # _cs6604SP21
-  - scope:
-      path: ""
-      type: cs6604SP21
-    values:
-      layout: single
-      author_profile: true
       share: true
-      comments: true
 
 # Sass/SCSS
 sass:
