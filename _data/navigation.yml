@@ -4,15 +4,18 @@ main:
     url: /publications/  
 
   - title: "Professional Experience"
-    url: /teaching/    
+    url: /experience/
     
   - title: "Projects"
     url: /portfolio/
     
   - title: "Talks"
-    url: /media/    
-        
-  #- title: "Blog Posts"
+    url: /media/
+
+  - title: "CS6604Spring2021"
+    url: /cs6604SP21/
+
+    #- title: "Blog Posts"
   #  url: /year-archive/
     
   #- title: "CV"
