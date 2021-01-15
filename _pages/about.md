@@ -10,9 +10,13 @@ redirect_from:
 
 My name is Zhuo Sun, a 2nd year PhD student in Statistics at [University College London](https://www.ucl.ac.uk). I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. Before that, I accomplished my M.Sc in Statistical Science at [University of Oxford](https://www.ox.ac.uk) under the supervision of Prof. George and my advisor there was Prof. Gesine. I am a recipient of Cambridge International Trust scholarship. Currently, my PhD at UCL is funded by EPSRC and UCL jointly.
 
-Research interest
+Research Interest
 ======
-In general, I am very interested in computational statistics and machine learning. Recently, I have worked on meta-learning and control variates. Meta-learning targets at the learning problems when only a small set of samples are available for training. It is all about how to make use of past knowledge to generalize on novel unseen tasks. Control Variates methdods aim to get an estimator for integration problems which largely reduce the variance of Monte Carlo estimators especially when sample size is small.
+In general, I am very interested in computational statistics and machine learning. Recently, I have worked on meta-learning and control variates. 
+
+- Meta-learning targets at the learning problems when only a small set of samples are available for training. It is all about how to make use of past knowledge to generalize on novel unseen tasks. 
+
+- Control Variates methdods aim to get an estimator for integration problems which largely reduce the variance of Monte Carlo estimators especially when sample size is small.
 
 
 Publication
