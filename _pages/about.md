@@ -12,7 +12,7 @@ My name is Zhuo Sun, a 2nd year PhD student in Statistics at [University College
 
 Research Interest
 ======
-In general, I am very interested in computational statistics and machine learning. Recently, I have worked on meta-learning and control variates. 
+In general, I am very interested in computational statistics and machine learning. Recently, I have worked on meta-learning, control variates and Stein's method. 
 
 - Meta-learning targets at the learning problems when only a small set of samples are available for training. It is all about how to make use of past knowledge to generalize on novel unseen tasks. 
 
