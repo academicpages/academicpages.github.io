@@ -8,14 +8,15 @@ main:
     
   - title: "Projects"
     url: /portfolio/
-    
-  - title: "Talks"
-    url: /media/
 
-  - title: "CS6604Spring2021"
+
+  - title: "CS6604SP21"
     url: /cs6604SP21/
 
-    #- title: "Blog Posts"
+  #- title: "Talks"
+  #  url: /media/
+
+  #- title: "Blog Posts"
   #  url: /year-archive/
     
   #- title: "CV"
