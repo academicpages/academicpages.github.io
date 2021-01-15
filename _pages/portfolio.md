@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
