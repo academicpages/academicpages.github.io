@@ -10,6 +10,13 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 # Papers
 
+- **Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation**, NLP-COVID19 Workshop @ ACL 2020  
+Arkin Dharawat, Ismini Lourentzou, Alex Morales, ChengXiang Zhai  
+[paper](https://arxiv.org/pdf/2010.08743.pdf), [code](https://github.com/TIMAN-group/covid19_misinformation), [poster](https://uofi.app.box.com/v/CovidHeRAmisinformation)
+
+- **Biosystems Design by Machine Learning**, ACS Synthetic Biology 2020  
+Michael Jeffrey Volk, Ismini Lourentzou, Shekhar Mishra, Lam Tung Vo, Chengxiang Zhai, Huimin Zhao
+
 - **Adapting Sequence to Sequence models for Text Normalization in Social Media**, AAAI ICWSM 2019  
 Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai  
 [paper](https://arxiv.org/abs/1904.06100), [code](https://github.com/Isminoula/TextNormSeq2Seq), [slides](/files/TextNormSeq2Seq.pdf)  
