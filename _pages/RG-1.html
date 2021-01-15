@@ -1733,6 +1733,139 @@ pre code {
   left: 16.66666667%;
 }
 .col-xs-push-1 {
+
+    Ubuntu
+    Debian
+    RHEL / CentOS
+    Fedora
+    Kali
+
+Contact Us Write For Us Newsletter Twitter RSS
+Linux Tutorials - Learn Linux Configuration
+
+    Linux Guides
+    Linux Tutorials
+    System Admin
+    Programming
+    Multimedia
+    Linux Commands
+    Linux Forums
+    Linux Jobs
+
+How to uninstall package on Ubuntu Linux
+
+    Korbin Brown 
+    Ubuntu 
+    16 September 2020 
+
+Contents
+
+        1. Uninstall a package via GNOME GUI
+        2. Uninstall a package via command line
+        3. Uninstall a Snap package
+        4. Uninstall unused packages
+        5. Conclusion
+
+If there's software on your Ubuntu Linux system that you wish to remove, there are a few ways to go about uninstalling the associated packages.
+
+In this guide, we'll take you through the step by step instructions for uninstalling a package on Ubuntu from both GUI and command line. We'll also show you options for deleting or keeping the configuration files that are associated with a package. Use whichever method below that you find most convenient for your situation.
+In this tutorial you will learn:
+
+    How to uninstall a package via GNOME GUI
+    How to uninstall a package via command line
+    How to uninstall a snap package
+    How to uninstall unused packages
+
+Uninstalling a package on Ubuntu
+Uninstalling a package on Ubuntu
+Software Requirements and Linux Command Line Conventions Category 	Requirements, Conventions or Software Version Used
+System 	Ubuntu Linux
+Software 	N/A
+Other 	Privileged access to your Linux system as root or via the sudo command.
+Conventions 	# - requires given linux commands to be executed with root privileges either directly as a root user or by use of sudo command
+$ - requires given linux commands to be executed as a regular non-privileged user
+Uninstall a package via GNOME GUI
+SUBSCRIBE NEWSLETTER & RSS
+Subscribe to RSS and NEWSLETTER and receive latest Linux news, jobs, career advice and tutorials.
+
+The default desktop environment for Ubuntu is GNOME. Thus, these instructions and screenshots will be specifically tailored to those running GNOME. If you're using a different desktop environment, the process should be quite similar but the menus will look a little different.
+
+    Open the "Ubuntu Software" application from GNOME's app launcher.
+
+    Locate the Ubuntu Software utility
+    Locate the Ubuntu Software utility
+    To access a full list of installed applications, click on the "Installed" tab at the top. In this menu, you'll be able to click "Remove" on any application that wish to uninstall.
+
+    Use this menu to remove any listed package
+    Use this menu to remove any listed package
+
+Note that the Ubuntu Software app typically only lists applications that were installed via GUI or apps that have a GUI themselves. You also can't remove system applications from this menu. For more advanced control over all the packages on your system, it's recommended to use the command line approach covered below.
+Uninstall a package via command line
+
+There are actually three different commands that can be used to remove a package from Ubuntu. Two of those are apt and apt-get, and the other one is dpkg. Opting to use apt for removing packages is the most recommended approach, but for the sake of completeness, we'll cover all methods.
+
+    First, you'll need to know the name of the package you want to remove. Use one of the commands below to get a list of all the packages on your system. Pipe to grep if you have some idea of how the package might be named.
+
+    $ apt --installed
+    OR
+    $ dpkg -l
+
+    Once you have the name of the package, use apt or one of the other commands to remove it.
+
+    $ sudo apt remove package-name
+    OR
+    $ sudo apt-get remove package-name
+    OR
+    $ sudo dpkg -r package-name
+
+    Any of the above commands will remove the specified package, but they will leave behind configuration files, and in some cases, other files that were associated with the package. To remove those as well, you need to "purge" the package. You can do this either after removing a package or instead of removing a package (purging automatically implies removing as well).
+
+    $ sudo apt purge package-name
+    OR
+    $ sudo apt-get purge package-name
+    OR
+    $ sudo dpkg -P package-name
+
+Uninstall a Snap package
+
+The Snap package manager is somewhat new but it's part of all newer versions of Ubuntu. It works independently of apt, so uninstalling software that was installed as a Snap package will require a separate command.
+
+    To see a list of installed Snap packages on your system, execute the following command in terminal.
+
+    $ snap list
+
+    After you've obtained the exact name of the package you wish to remove, use the following command to uninstall it.
+
+    $ sudo snap remove package-name
+
+Uninstall unused packages
+
+While installing some software, your package manager may download dependencies that are required to install a package properly. When it finishes installing a package, these dependencies will linger on your system but be unused. Therefore, it's recommended to run the following command occasionally to remove any unused packages from your system.
+
+$ sudo apt autoremove
+
+Conclusion
+
+In this guide, we learned how to uninstall a package in Ubuntu from both GUI and command line. The GUI method can be more convenient for some users but its power pales in comparison to the command line method. For the command line, it's recommended that you stick to the apt command, as apt-get is more for system scripts and dpkg doesn't handle dependencies as well as apt does.
+
+    Prev
+    Next
+
+FIND LATEST LINUX JOBS on LinuxCareers.com
+Submit your RESUME, create a JOB ALERT or subscribe to RSS feed.
+LINUX CAREER NEWSLETTER
+Subscribe to NEWSLETTER and receive latest news, jobs, career advice and tutorials.
+DO YOU NEED ADDITIONAL HELP?
+Get extra help by visiting our LINUX FORUM or simply use comments below.
+More on LinuxConfig.org:
+
+    apt update vs apt upgrade
+    apt vs apt-get - Advanced Package Tool
+    Install DEB file on Ubuntu 20.04 Focal Fossa Linux
+    How to create sudo user on Ubuntu 18.04 Bionic Beaver Linux
+
+Comments and Discussions
+
   left: 8.33333333%;
 }
 .col-xs-push-0 {
@@ -13105,7 +13238,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="CONTE&#218;DO-PROGRAM&#193;TICO:">CONTE&#218;DO PROGRAM&#193;TICO:<a class="anchor-link" href="#CONTE&#218;DO-PROGRAM&#193;TICO:">&#182;</a></h3><ul>
+<h3 id="T&#211;OICOS:">T&#211;OICOS:<a class="anchor-link" href="#T&#211;OICOS">&#182;</a></h3><ul>
 <li><p>Teorias de Gravitação</p>
 </li>
 <li><p>Fundamentos da Relatividade Restrita</p>
