@@ -10,3 +10,4 @@ redirect_from:
 
 
 <embed src="files/Curriculum_Vitae.pdf" type="application/pdf" width="100%" height="600px" />
+
