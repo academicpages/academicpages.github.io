@@ -12,6 +12,7 @@ author_profile: true
 - **CS125@UIUC Intro to Computer Science**, TA, Fall 2013
 
 # Work Experience
+- Research Scientist @ **IBM Almaden Research Center**, San Jose, CA, November 2019 - December 2020
 - Internship @ **IBM Almaden Research Center**, San Jose, CA, Summer 2018
 - Internship @ **IBM Almaden Research Center**, San Jose, CA, Summer 2017
 - Internship @ **Microsoft Research**, Redmond, WA, Summer 2015
