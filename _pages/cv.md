@@ -8,5 +8,5 @@ redirect_from:
 
 {% include base_path %}
 
-<b>[Curriculum Vitae [PDF]](http://mebucca.github.io/files/Curriculum_Vitae.pdf)<b><br>
 
+<embed src="files/Curriculum_Vitae.pdf" type="application/pdf" width="100%" height="600px" />
