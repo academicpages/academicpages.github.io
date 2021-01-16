@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[January 2021\] One co-authored paper is accepted at **TheWebConf2021** as a long paper. Congratulations to my co-authors!
+
 \[December 2020\] One co-authored paper is accepted at **AAAI2021**. Congratulations to my co-authors!
 
 \[June 2020\] Beginning my internship at WeBank AI Department. 
