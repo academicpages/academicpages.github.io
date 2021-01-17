@@ -28,7 +28,8 @@ Contact
 
 News
 ------
-* 
+* Jan 17, 2021, invited as reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021)
+* Apr 30, 2020, invited as reviewer for IEEE Transactions on Smart Grid (TSG) 
 
 
 
