@@ -30,7 +30,7 @@ redirect_from:
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
-  A short version was accepted by <b>ISBI2021</b>.<br>
+  A short version of this paper was accepted by <b>ISBI2021</b>.<br>
   Xu Chen*, <b>Xiangde Luo*</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
  [[paper](https://arxiv.org/abs/2011.00526)][[code](https://github.com/HiLab-git/ACELoss)]
  
