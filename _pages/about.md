@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Recent News
+* Jan. 08, 2021, Our paper <b>Deep Elastica for Image Segmentation</b> was accepted by <b>ISBI 2021</b>.
 * Dec. 01, 2020. Our paper <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> was accepted by <b>AAAI 2021</b> (~21% acceptance rate).
 * Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised medical image segmentation research, the repo at [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), any advices and suggestions are welcomed.
 
@@ -29,6 +30,7 @@ redirect_from:
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
+  A short version was accepted by <b>ISBI2021</b>.<br>
   Xu Chen*, <b>Xiangde Luo*</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
  [[paper](https://arxiv.org/abs/2011.00526)][[code](https://github.com/HiLab-git/ACELoss)]
  
