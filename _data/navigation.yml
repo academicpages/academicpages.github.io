@@ -2,7 +2,7 @@
 main:
     
   - title: "Experiences"
-    url: /#experiences
+    url: /experiences/
     
   - title: "Publications"
     url: /publications/
