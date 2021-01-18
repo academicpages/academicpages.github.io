@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Change point detection in Python. *Autorités des marchés financiers (AMF)* (Virtual seminar, 6<sup>th</sup> January 2021) [[slides]](http://deepcharles.github.io/files/seminar-amf-06Jan21.pdf)
+
 - Change point detection in Python. *Parietal, INRIA* (Virtual seminar, 1<sup>st</sup> December 2020) [[slides]](http://deepcharles.github.io/files/seminar-parietal-01Dec20.pdf)
 
 - Introduction to change point detection. *CEREGE, Aix-Marseille Université* (Virtual seminar, in French, 12<sup>th</sup> October 2020) [[slides]](http://deepcharles.github.io/files/seminaire-cerege-12Oct20.pdf)
