@@ -6,6 +6,6 @@ permalink: /wsc/2021-01-14-KITP-forum-microbial-metabolism
 venue: "University of California, Santa Barbara"
 date: 2021-01-14
 period: "January 14th - March 18th, 2021"
-location: "Santa Barbara (California, USA)"
+location: "Santa Barbara, CA"
 link: 'https://www.kitp.ucsb.edu/activities/metabolism-oc21'
 ---
