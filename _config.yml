@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Trevor McInroe"
-  avatar           : "me.jpg" #"profile.png"
+  avatar           : "me.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Dallas, TX"
   employer         :
