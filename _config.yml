@@ -81,11 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Trevor McInroe"
-  avatar           : "profile.png"
+  avatar           : "me.jpeg" #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Dallas, TX"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=Lwb1AF8AAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,8 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/trevor-mcinroe"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
