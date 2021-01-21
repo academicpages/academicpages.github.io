@@ -17,13 +17,19 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 # Publication
 ## Preprint
+![](images/aamas21.png){: .align-right width="200px"}
+**Action Priors for Large Action Spaces in Robotics**  
+Ondrej Biza, Dian Wang, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong  
+Accepted at AAMAS 2021  
+[(PDF)](https://arxiv.org/pdf/2010.02798.pdf)
+
+## Conference
 ![](images/asrse3.png){: .align-right width="200px"}
 **Policy learning in SE (3) action spaces**  
 Dian Wang, Colin Kohler, Robert Platt  
-Accepted at CoRL 2020  
-[(PDF)](https://arxiv.org/pdf/2010.02798.pdf)[(Page)](https://pointw.github.io/asrse3-page/)[(Video)](https://youtu.be/FiHoIF1oLZs)
+CoRL 2020, Boston, Massachusetts, USA  
+[(PDF)](https://arxiv.org/pdf/2010.02798.pdf)[(Page)](https://pointw.github.io/asrse3-page/)[(Video)](https://youtu.be/FiHoIF1oLZs)[(Talk)](https://youtu.be/W0UQMntqaog)
 
-## Conference
 ![](images/scooter.png){: .align-right width="200px"}
 **Towards Assistive Robotic Pick and Place in Open World Environments**  
 Dian Wang, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
