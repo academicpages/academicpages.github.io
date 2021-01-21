@@ -1,0 +1,21 @@
+language: ruby
+cache: bundler
+before_install: script/unbundle
+install:
+- travis_retry bundle install --path vendor/bundle
+rvm:
+- 2.1
+- 2.0
+- 1.9.3
+script: script/cibuild
+notifications:
+  irc:
+    on_success: change
+    on_failure: change
+    channels:
+    - irc.freenode.org#jekyll
+    template:
+    - '%{repository}#%{build_number} (%{branch}) %{message} %{build_url}'
+  email:
+    on_success: never
+    on_failure: never

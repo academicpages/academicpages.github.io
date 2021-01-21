@@ -1,0 +1,28 @@
+// Gray theme
+
+// Color variables
+$white: #fff;
+$black: #181818;
+$gray: #444;
+$gray-light: #777;
+$gray-lighter: #bbb;
+
+// Config
+$color-background: $gray-lighter !default;
+$color-dot-accent: $white !default;
+$color-foreground: $black !default;
+$color-title: $black !default;
+$color-body-text: $black !default;
+$color-text-accent: $gray-light !default;
+$color-code: $gray-light !default;
+$color-nav-link: $gray !default;
+$color-primary-link: $gray-light !default;
+
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;

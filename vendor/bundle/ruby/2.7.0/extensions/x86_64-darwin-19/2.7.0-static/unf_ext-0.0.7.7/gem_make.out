@@ -1,0 +1,16 @@
+current directory: /Users/madineh/Dropbox/Website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/Users/madineh/.rubies/ruby-2.7.2/bin/ruby -I /Users/madineh/.rubies/ruby-2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210120-17063-11e6ysm.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/madineh/Dropbox/Website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /Users/madineh/Dropbox/Website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/madineh/Dropbox/Website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20210120-17063-s86iju

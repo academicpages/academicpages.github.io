@@ -53,6 +53,14 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.toc %}
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'align-justify' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
+            </nav>
+          </aside>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
@@ -81,9 +89,42 @@ layout: default
         <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       {% endif %}
       <div class="grid__wrapper">
-        {% for post in site.related_posts limit:4 %}
+        {% comment %}<!--check for common tags in related https://blog.webjeda.com/jekyll-related-posts/ -->{% endcomment %}
+        {% assign maxRelated = 3 %}
+        {% assign minCommonTags =  1 %}
+        {% assign maxRelatedCounter = 0 %}
+        
+        {% for post in site.posts %}
+      
+          {% assign sameTagCount = 0 %}
+          {% assign commonTags = '' %}
+      
+          {% for tag in post.tags %}
+            {% if post.url != page.url %}
+              {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          
+          {% if sameTagCount >= minCommonTags %}
+            {% include archive-single.html type="grid" %}
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+          
+        {% endfor %}
+        
+        {% comment %}<!--fill w/ most recent if not maxed out on related-->{% endcomment %}
+        {% assign remainingRelated = maxRelated | minus: maxRelatedCounter %}
+        {% for post in site.related_posts limit:remainingRelated %}
           {% include archive-single.html type="grid" %}
         {% endfor %}
+          
       </div>
     </div>
   {% endif %}

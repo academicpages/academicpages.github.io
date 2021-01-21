@@ -1,0 +1,5 @@
+---
+permalink: /permalink/
+---
+
+# Custom permalink

@@ -1,0 +1,48 @@
+language:
+  ruby
+
+before_install:
+  gem install bundler
+
+script:
+  bundle exec rake spec
+
+rvm:
+  - ruby-head
+  - 2.0.0
+  - 1.9.3
+  - 1.9.2
+  - 1.8.7
+  - rbx-19mode
+  - rbx-18mode
+  - jruby-head
+  - jruby-19mode
+  - jruby-18mode
+  - ree
+
+env:
+  - YAMLER=syck
+  - YAMLER=psych
+
+matrix:
+  allow_failures:
+    - rvm: ruby-head
+    - rvm: rbx-19mode
+    - rvm: rbx-18mode
+    - rvm: jruby-head
+    - rvm: ree
+
+  exclude:
+    - rvm: 1.8.7
+      env: YAMLER=psych
+    - rvm: jruby-head
+      env: YAMLER=syck
+    - rvm: jruby-19mode
+      env: YAMLER=syck
+    - rvm: jruby-18mode
+      env: YAMLER=syck
+
+branches:
+  only:
+    - master
+

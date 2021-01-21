@@ -1,0 +1,4 @@
+#! /bin/bash
+
+script/fmt
+bundle exec rspec

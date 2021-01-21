@@ -1,0 +1,39 @@
+<!-- Use if you want to show previous and next for posts within a category. -->
+{% if page.categories %}
+  {% assign category = page.categories[0] %}
+  {% assign posts = site.categories[category] %}
+  {% for post in posts %}
+    {% if post.url == page.url %}
+      {% assign post_index0 = forloop.index0 %}
+      {% assign post_index1 = forloop.index %}
+    {% endif %}
+  {% endfor %}
+  {% for post in posts %}
+    {% if post_index0 == forloop.index %}
+      {% assign next_post = post %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+      {% assign prev_post = post %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% assign user_url = site.url | append: site.baseurl %}
+{% assign full_base_url = user_url | default: site.github.url %}
+{% if prev_post %}
+<div class="col-4 sm-width-full left mr-lg-4 mt-3">
+  <a class="no-underline border-top-thin py-1 block" href="{{ prev_post.url | prepend: full_base_url }}">
+    <span class="h5 bold text-accent">Previous</span>
+    <p class="bold h3 link-primary mb-1">{{ prev_post.title }}</p>
+    <p>{{ page.previous.content | strip_html | truncatewords:20 }}</p>
+  </a>
+</div>
+{% endif %}
+{% if next_post %}
+<div class="col-4 sm-width-full left mt-3">
+  <a class="no-underline border-top-thin py-1 block" href="{{ next_post.url | prepend: full_base_url }}">
+    <span class="h5 bold text-accent">Next</span>
+    <p class="bold h3 link-primary mb-1">{{ next_post.title }}</p>
+    <p>{{ page.next.content | strip_html | truncatewords:20 }}</p>
+  </a>
+</div>
+{% endif %}

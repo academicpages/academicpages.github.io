@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -ex
+
+bundle exec rake spec
+bundle exec rubocop

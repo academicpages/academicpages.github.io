@@ -1,0 +1,16 @@
+current directory: /Users/madineh/Dropbox/Website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/madineh/.rubies/ruby-2.7.2/bin/ruby -I /Users/madineh/.rubies/ruby-2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210120-17063-6v1wbm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/madineh/Dropbox/Website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/madineh/Dropbox/Website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/madineh/Dropbox/Website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20210120-17063-qtbpxj

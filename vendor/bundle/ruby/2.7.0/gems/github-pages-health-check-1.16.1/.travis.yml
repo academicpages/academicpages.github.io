@@ -1,0 +1,16 @@
+language: ruby
+rvm:
+  - 2.4
+  - 2.5
+  - 2.6
+
+before_install:
+  - gem install bundler
+
+script: "script/cibuild"
+
+notifications:
+  email: false
+
+cache: bundler
+sudo: false

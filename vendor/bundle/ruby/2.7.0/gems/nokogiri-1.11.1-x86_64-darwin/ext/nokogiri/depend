@@ -1,0 +1,477 @@
+# -*-makefile-*-
+# DO NOT DELETE
+
+html_document.o: ./html_document.h ./nokogiri.h ./xml_libxml2_hacks.h
+html_document.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+html_document.o: ./xml_node.h ./xml_text.h ./xml_cdata.h ./xml_attr.h
+html_document.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+html_document.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+html_document.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+html_document.o: ./xml_entity_decl.h ./xml_xpath_context.h
+html_document.o: ./xml_element_content.h ./xml_sax_parser_context.h
+html_document.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+html_document.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+html_document.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+html_document.o: ./xml_relax_ng.h ./html_element_description.h
+html_document.o: ./xml_namespace.h ./xml_encoding_handler.h
+html_element_description.o: ./html_element_description.h ./nokogiri.h
+html_element_description.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+html_element_description.o: ./html_entity_lookup.h ./html_document.h
+html_element_description.o: ./xml_node.h ./xml_text.h ./xml_cdata.h
+html_element_description.o: ./xml_attr.h ./xml_processing_instruction.h
+html_element_description.o: ./xml_entity_reference.h
+html_element_description.o: ./xml_document_fragment.h ./xml_comment.h
+html_element_description.o: ./xml_node_set.h ./xml_dtd.h
+html_element_description.o: ./xml_attribute_decl.h ./xml_element_decl.h
+html_element_description.o: ./xml_entity_decl.h ./xml_xpath_context.h
+html_element_description.o: ./xml_element_content.h
+html_element_description.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+html_element_description.o: ./xml_sax_push_parser.h ./xml_reader.h
+html_element_description.o: ./html_sax_parser_context.h
+html_element_description.o: ./html_sax_push_parser.h ./xslt_stylesheet.h
+html_element_description.o: ./xml_syntax_error.h ./xml_schema.h
+html_element_description.o: ./xml_relax_ng.h ./xml_namespace.h
+html_element_description.o: ./xml_encoding_handler.h
+html_entity_lookup.o: ./html_entity_lookup.h ./nokogiri.h
+html_entity_lookup.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+html_entity_lookup.o: ./html_document.h ./xml_node.h ./xml_text.h
+html_entity_lookup.o: ./xml_cdata.h ./xml_attr.h
+html_entity_lookup.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+html_entity_lookup.o: ./xml_document_fragment.h ./xml_comment.h
+html_entity_lookup.o: ./xml_node_set.h ./xml_dtd.h ./xml_attribute_decl.h
+html_entity_lookup.o: ./xml_element_decl.h ./xml_entity_decl.h
+html_entity_lookup.o: ./xml_xpath_context.h ./xml_element_content.h
+html_entity_lookup.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+html_entity_lookup.o: ./xml_sax_push_parser.h ./xml_reader.h
+html_entity_lookup.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+html_entity_lookup.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+html_entity_lookup.o: ./xml_relax_ng.h ./html_element_description.h
+html_entity_lookup.o: ./xml_namespace.h ./xml_encoding_handler.h
+html_sax_parser_context.o: ./html_sax_parser_context.h ./nokogiri.h
+html_sax_parser_context.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+html_sax_parser_context.o: ./html_entity_lookup.h ./html_document.h
+html_sax_parser_context.o: ./xml_node.h ./xml_text.h ./xml_cdata.h
+html_sax_parser_context.o: ./xml_attr.h ./xml_processing_instruction.h
+html_sax_parser_context.o: ./xml_entity_reference.h ./xml_document_fragment.h
+html_sax_parser_context.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+html_sax_parser_context.o: ./xml_attribute_decl.h ./xml_element_decl.h
+html_sax_parser_context.o: ./xml_entity_decl.h ./xml_xpath_context.h
+html_sax_parser_context.o: ./xml_element_content.h ./xml_sax_parser_context.h
+html_sax_parser_context.o: ./xml_sax_parser.h ./xml_sax_push_parser.h
+html_sax_parser_context.o: ./xml_reader.h ./html_sax_push_parser.h
+html_sax_parser_context.o: ./xslt_stylesheet.h ./xml_syntax_error.h
+html_sax_parser_context.o: ./xml_schema.h ./xml_relax_ng.h
+html_sax_parser_context.o: ./html_element_description.h ./xml_namespace.h
+html_sax_parser_context.o: ./xml_encoding_handler.h
+html_sax_push_parser.o: ./html_sax_push_parser.h ./nokogiri.h
+html_sax_push_parser.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+html_sax_push_parser.o: ./html_entity_lookup.h ./html_document.h ./xml_node.h
+html_sax_push_parser.o: ./xml_text.h ./xml_cdata.h ./xml_attr.h
+html_sax_push_parser.o: ./xml_processing_instruction.h
+html_sax_push_parser.o: ./xml_entity_reference.h ./xml_document_fragment.h
+html_sax_push_parser.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+html_sax_push_parser.o: ./xml_attribute_decl.h ./xml_element_decl.h
+html_sax_push_parser.o: ./xml_entity_decl.h ./xml_xpath_context.h
+html_sax_push_parser.o: ./xml_element_content.h ./xml_sax_parser_context.h
+html_sax_push_parser.o: ./xml_sax_parser.h ./xml_sax_push_parser.h
+html_sax_push_parser.o: ./xml_reader.h ./html_sax_parser_context.h
+html_sax_push_parser.o: ./xslt_stylesheet.h ./xml_syntax_error.h
+html_sax_push_parser.o: ./xml_schema.h ./xml_relax_ng.h
+html_sax_push_parser.o: ./html_element_description.h ./xml_namespace.h
+html_sax_push_parser.o: ./xml_encoding_handler.h
+nokogiri.o: ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+nokogiri.o: ./html_entity_lookup.h ./html_document.h ./xml_node.h
+nokogiri.o: ./xml_text.h ./xml_cdata.h ./xml_attr.h
+nokogiri.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+nokogiri.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+nokogiri.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+nokogiri.o: ./xml_entity_decl.h ./xml_xpath_context.h ./xml_element_content.h
+nokogiri.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+nokogiri.o: ./xml_sax_push_parser.h ./xml_reader.h
+nokogiri.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+nokogiri.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+nokogiri.o: ./xml_relax_ng.h ./html_element_description.h ./xml_namespace.h
+nokogiri.o: ./xml_encoding_handler.h
+xml_attr.o: ./xml_attr.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h
+xml_attr.o: ./xml_document.h ./html_entity_lookup.h ./html_document.h
+xml_attr.o: ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_attr.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_attr.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+xml_attr.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+xml_attr.o: ./xml_entity_decl.h ./xml_xpath_context.h ./xml_element_content.h
+xml_attr.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_attr.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_attr.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_attr.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_attr.o: ./xml_relax_ng.h ./html_element_description.h ./xml_namespace.h
+xml_attr.o: ./xml_encoding_handler.h
+xml_attribute_decl.o: ./xml_attribute_decl.h ./nokogiri.h
+xml_attribute_decl.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+xml_attribute_decl.o: ./html_entity_lookup.h ./html_document.h ./xml_node.h
+xml_attribute_decl.o: ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_attribute_decl.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_attribute_decl.o: ./xml_document_fragment.h ./xml_comment.h
+xml_attribute_decl.o: ./xml_node_set.h ./xml_dtd.h ./xml_element_decl.h
+xml_attribute_decl.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_attribute_decl.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_attribute_decl.o: ./xml_sax_parser.h ./xml_sax_push_parser.h
+xml_attribute_decl.o: ./xml_reader.h ./html_sax_parser_context.h
+xml_attribute_decl.o: ./html_sax_push_parser.h ./xslt_stylesheet.h
+xml_attribute_decl.o: ./xml_syntax_error.h ./xml_schema.h ./xml_relax_ng.h
+xml_attribute_decl.o: ./html_element_description.h ./xml_namespace.h
+xml_attribute_decl.o: ./xml_encoding_handler.h
+xml_cdata.o: ./xml_cdata.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h
+xml_cdata.o: ./xml_document.h ./html_entity_lookup.h ./html_document.h
+xml_cdata.o: ./xml_node.h ./xml_text.h ./xml_attr.h
+xml_cdata.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_cdata.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+xml_cdata.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+xml_cdata.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_cdata.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_cdata.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xml_cdata.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_cdata.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_cdata.o: ./xml_relax_ng.h ./html_element_description.h ./xml_namespace.h
+xml_cdata.o: ./xml_encoding_handler.h
+xml_comment.o: ./xml_comment.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h
+xml_comment.o: ./xml_document.h ./html_entity_lookup.h ./html_document.h
+xml_comment.o: ./xml_node.h ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_comment.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_comment.o: ./xml_document_fragment.h ./xml_node_set.h ./xml_dtd.h
+xml_comment.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_comment.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_comment.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_comment.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xml_comment.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_comment.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_comment.o: ./xml_relax_ng.h ./html_element_description.h
+xml_comment.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_document.o: ./xml_document.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_document.o: ./xml_io.h ./html_entity_lookup.h ./html_document.h
+xml_document.o: ./xml_node.h ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_document.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_document.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+xml_document.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+xml_document.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_document.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_document.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xml_document.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_document.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_document.o: ./xml_relax_ng.h ./html_element_description.h
+xml_document.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_document_fragment.o: ./xml_document_fragment.h ./nokogiri.h
+xml_document_fragment.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+xml_document_fragment.o: ./html_entity_lookup.h ./html_document.h
+xml_document_fragment.o: ./xml_node.h ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_document_fragment.o: ./xml_processing_instruction.h
+xml_document_fragment.o: ./xml_entity_reference.h ./xml_comment.h
+xml_document_fragment.o: ./xml_node_set.h ./xml_dtd.h ./xml_attribute_decl.h
+xml_document_fragment.o: ./xml_element_decl.h ./xml_entity_decl.h
+xml_document_fragment.o: ./xml_xpath_context.h ./xml_element_content.h
+xml_document_fragment.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_document_fragment.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_document_fragment.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_document_fragment.o: ./xslt_stylesheet.h ./xml_syntax_error.h
+xml_document_fragment.o: ./xml_schema.h ./xml_relax_ng.h
+xml_document_fragment.o: ./html_element_description.h ./xml_namespace.h
+xml_document_fragment.o: ./xml_encoding_handler.h
+xml_dtd.o: ./xml_dtd.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h
+xml_dtd.o: ./xml_document.h ./html_entity_lookup.h ./html_document.h
+xml_dtd.o: ./xml_node.h ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_dtd.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_dtd.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+xml_dtd.o: ./xml_attribute_decl.h ./xml_element_decl.h ./xml_entity_decl.h
+xml_dtd.o: ./xml_xpath_context.h ./xml_element_content.h
+xml_dtd.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_dtd.o: ./xml_sax_push_parser.h ./xml_reader.h ./html_sax_parser_context.h
+xml_dtd.o: ./html_sax_push_parser.h ./xslt_stylesheet.h ./xml_syntax_error.h
+xml_dtd.o: ./xml_schema.h ./xml_relax_ng.h ./html_element_description.h
+xml_dtd.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_element_content.o: ./xml_element_content.h ./nokogiri.h
+xml_element_content.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+xml_element_content.o: ./html_entity_lookup.h ./html_document.h ./xml_node.h
+xml_element_content.o: ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_element_content.o: ./xml_processing_instruction.h
+xml_element_content.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_element_content.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_element_content.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_element_content.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_element_content.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_element_content.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_element_content.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_element_content.o: ./xslt_stylesheet.h ./xml_syntax_error.h
+xml_element_content.o: ./xml_schema.h ./xml_relax_ng.h
+xml_element_content.o: ./html_element_description.h ./xml_namespace.h
+xml_element_content.o: ./xml_encoding_handler.h
+xml_element_decl.o: ./xml_element_decl.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_element_decl.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xml_element_decl.o: ./html_document.h ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_element_decl.o: ./xml_attr.h ./xml_processing_instruction.h
+xml_element_decl.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_element_decl.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_element_decl.o: ./xml_attribute_decl.h ./xml_entity_decl.h
+xml_element_decl.o: ./xml_xpath_context.h ./xml_element_content.h
+xml_element_decl.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_element_decl.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_element_decl.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_element_decl.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_element_decl.o: ./xml_relax_ng.h ./html_element_description.h
+xml_element_decl.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_encoding_handler.o: ./xml_encoding_handler.h ./nokogiri.h
+xml_encoding_handler.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+xml_encoding_handler.o: ./html_entity_lookup.h ./html_document.h ./xml_node.h
+xml_encoding_handler.o: ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_encoding_handler.o: ./xml_processing_instruction.h
+xml_encoding_handler.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_encoding_handler.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_encoding_handler.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_encoding_handler.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_encoding_handler.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_encoding_handler.o: ./xml_sax_parser.h ./xml_sax_push_parser.h
+xml_encoding_handler.o: ./xml_reader.h ./html_sax_parser_context.h
+xml_encoding_handler.o: ./html_sax_push_parser.h ./xslt_stylesheet.h
+xml_encoding_handler.o: ./xml_syntax_error.h ./xml_schema.h ./xml_relax_ng.h
+xml_encoding_handler.o: ./html_element_description.h ./xml_namespace.h
+xml_entity_decl.o: ./xml_entity_decl.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_entity_decl.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xml_entity_decl.o: ./html_document.h ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_entity_decl.o: ./xml_attr.h ./xml_processing_instruction.h
+xml_entity_decl.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_entity_decl.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_entity_decl.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_entity_decl.o: ./xml_xpath_context.h ./xml_element_content.h
+xml_entity_decl.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_entity_decl.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_entity_decl.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_entity_decl.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_entity_decl.o: ./xml_relax_ng.h ./html_element_description.h
+xml_entity_decl.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_entity_reference.o: ./xml_entity_reference.h ./nokogiri.h
+xml_entity_reference.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+xml_entity_reference.o: ./html_entity_lookup.h ./html_document.h ./xml_node.h
+xml_entity_reference.o: ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_entity_reference.o: ./xml_processing_instruction.h
+xml_entity_reference.o: ./xml_document_fragment.h ./xml_comment.h
+xml_entity_reference.o: ./xml_node_set.h ./xml_dtd.h ./xml_attribute_decl.h
+xml_entity_reference.o: ./xml_element_decl.h ./xml_entity_decl.h
+xml_entity_reference.o: ./xml_xpath_context.h ./xml_element_content.h
+xml_entity_reference.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_entity_reference.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_entity_reference.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_entity_reference.o: ./xslt_stylesheet.h ./xml_syntax_error.h
+xml_entity_reference.o: ./xml_schema.h ./xml_relax_ng.h
+xml_entity_reference.o: ./html_element_description.h ./xml_namespace.h
+xml_entity_reference.o: ./xml_encoding_handler.h
+xml_io.o: ./xml_io.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_document.h
+xml_io.o: ./html_entity_lookup.h ./html_document.h ./xml_node.h ./xml_text.h
+xml_io.o: ./xml_cdata.h ./xml_attr.h ./xml_processing_instruction.h
+xml_io.o: ./xml_entity_reference.h ./xml_document_fragment.h ./xml_comment.h
+xml_io.o: ./xml_node_set.h ./xml_dtd.h ./xml_attribute_decl.h
+xml_io.o: ./xml_element_decl.h ./xml_entity_decl.h ./xml_xpath_context.h
+xml_io.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_io.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xml_io.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_io.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_io.o: ./xml_relax_ng.h ./html_element_description.h ./xml_namespace.h
+xml_io.o: ./xml_encoding_handler.h
+xml_namespace.o: ./xml_namespace.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_namespace.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xml_namespace.o: ./html_document.h ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_namespace.o: ./xml_attr.h ./xml_processing_instruction.h
+xml_namespace.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_namespace.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_namespace.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_namespace.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_namespace.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_namespace.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xml_namespace.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_namespace.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_namespace.o: ./xml_relax_ng.h ./html_element_description.h
+xml_namespace.o: ./xml_encoding_handler.h
+xml_node.o: ./xml_node.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h
+xml_node.o: ./xml_document.h ./html_entity_lookup.h ./html_document.h
+xml_node.o: ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_node.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_node.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+xml_node.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+xml_node.o: ./xml_entity_decl.h ./xml_xpath_context.h ./xml_element_content.h
+xml_node.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_node.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_node.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_node.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_node.o: ./xml_relax_ng.h ./html_element_description.h ./xml_namespace.h
+xml_node.o: ./xml_encoding_handler.h
+xml_node_set.o: ./xml_node_set.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_node_set.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xml_node_set.o: ./html_document.h ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_node_set.o: ./xml_attr.h ./xml_processing_instruction.h
+xml_node_set.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_node_set.o: ./xml_comment.h ./xml_dtd.h ./xml_attribute_decl.h
+xml_node_set.o: ./xml_element_decl.h ./xml_entity_decl.h
+xml_node_set.o: ./xml_xpath_context.h ./xml_element_content.h
+xml_node_set.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_node_set.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_node_set.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_node_set.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_node_set.o: ./xml_relax_ng.h ./html_element_description.h
+xml_node_set.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_processing_instruction.o: ./xml_processing_instruction.h ./nokogiri.h
+xml_processing_instruction.o: ./xml_libxml2_hacks.h ./xml_io.h
+xml_processing_instruction.o: ./xml_document.h ./html_entity_lookup.h
+xml_processing_instruction.o: ./html_document.h ./xml_node.h ./xml_text.h
+xml_processing_instruction.o: ./xml_cdata.h ./xml_attr.h
+xml_processing_instruction.o: ./xml_entity_reference.h
+xml_processing_instruction.o: ./xml_document_fragment.h ./xml_comment.h
+xml_processing_instruction.o: ./xml_node_set.h ./xml_dtd.h
+xml_processing_instruction.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_processing_instruction.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_processing_instruction.o: ./xml_element_content.h
+xml_processing_instruction.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_processing_instruction.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_processing_instruction.o: ./html_sax_parser_context.h
+xml_processing_instruction.o: ./html_sax_push_parser.h ./xslt_stylesheet.h
+xml_processing_instruction.o: ./xml_syntax_error.h ./xml_schema.h
+xml_processing_instruction.o: ./xml_relax_ng.h ./html_element_description.h
+xml_processing_instruction.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_reader.o: ./xml_reader.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h
+xml_reader.o: ./xml_document.h ./html_entity_lookup.h ./html_document.h
+xml_reader.o: ./xml_node.h ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_reader.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_reader.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+xml_reader.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+xml_reader.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_reader.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_reader.o: ./xml_sax_parser.h ./xml_sax_push_parser.h
+xml_reader.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_reader.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_reader.o: ./xml_relax_ng.h ./html_element_description.h ./xml_namespace.h
+xml_reader.o: ./xml_encoding_handler.h
+xml_relax_ng.o: ./xml_relax_ng.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_relax_ng.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xml_relax_ng.o: ./html_document.h ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_relax_ng.o: ./xml_attr.h ./xml_processing_instruction.h
+xml_relax_ng.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_relax_ng.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_relax_ng.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_relax_ng.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_relax_ng.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_relax_ng.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xml_relax_ng.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_relax_ng.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_relax_ng.o: ./html_element_description.h ./xml_namespace.h
+xml_relax_ng.o: ./xml_encoding_handler.h
+xml_sax_parser.o: ./xml_sax_parser.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_sax_parser.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xml_sax_parser.o: ./html_document.h ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_sax_parser.o: ./xml_attr.h ./xml_processing_instruction.h
+xml_sax_parser.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_sax_parser.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_sax_parser.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_sax_parser.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_sax_parser.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_sax_parser.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_sax_parser.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_sax_parser.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_sax_parser.o: ./xml_relax_ng.h ./html_element_description.h
+xml_sax_parser.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_sax_parser_context.o: ./xml_sax_parser_context.h ./nokogiri.h
+xml_sax_parser_context.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+xml_sax_parser_context.o: ./html_entity_lookup.h ./html_document.h
+xml_sax_parser_context.o: ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_sax_parser_context.o: ./xml_attr.h ./xml_processing_instruction.h
+xml_sax_parser_context.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_sax_parser_context.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_sax_parser_context.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_sax_parser_context.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_sax_parser_context.o: ./xml_element_content.h ./xml_sax_parser.h
+xml_sax_parser_context.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_sax_parser_context.o: ./html_sax_parser_context.h
+xml_sax_parser_context.o: ./html_sax_push_parser.h ./xslt_stylesheet.h
+xml_sax_parser_context.o: ./xml_syntax_error.h ./xml_schema.h
+xml_sax_parser_context.o: ./xml_relax_ng.h ./html_element_description.h
+xml_sax_parser_context.o: ./xml_namespace.h ./xml_encoding_handler.h
+xml_sax_push_parser.o: ./xml_sax_push_parser.h ./nokogiri.h
+xml_sax_push_parser.o: ./xml_libxml2_hacks.h ./xml_io.h ./xml_document.h
+xml_sax_push_parser.o: ./html_entity_lookup.h ./html_document.h ./xml_node.h
+xml_sax_push_parser.o: ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_sax_push_parser.o: ./xml_processing_instruction.h
+xml_sax_push_parser.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_sax_push_parser.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_sax_push_parser.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_sax_push_parser.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_sax_push_parser.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_sax_push_parser.o: ./xml_sax_parser.h ./xml_reader.h
+xml_sax_push_parser.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_sax_push_parser.o: ./xslt_stylesheet.h ./xml_syntax_error.h
+xml_sax_push_parser.o: ./xml_schema.h ./xml_relax_ng.h
+xml_sax_push_parser.o: ./html_element_description.h ./xml_namespace.h
+xml_sax_push_parser.o: ./xml_encoding_handler.h
+xml_schema.o: ./xml_schema.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h
+xml_schema.o: ./xml_document.h ./html_entity_lookup.h ./html_document.h
+xml_schema.o: ./xml_node.h ./xml_text.h ./xml_cdata.h ./xml_attr.h
+xml_schema.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_schema.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+xml_schema.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+xml_schema.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_schema.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_schema.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xml_schema.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_schema.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_relax_ng.h
+xml_schema.o: ./html_element_description.h ./xml_namespace.h
+xml_schema.o: ./xml_encoding_handler.h
+xml_syntax_error.o: ./xml_syntax_error.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_syntax_error.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xml_syntax_error.o: ./html_document.h ./xml_node.h ./xml_text.h ./xml_cdata.h
+xml_syntax_error.o: ./xml_attr.h ./xml_processing_instruction.h
+xml_syntax_error.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xml_syntax_error.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xml_syntax_error.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xml_syntax_error.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xml_syntax_error.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_syntax_error.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xml_syntax_error.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_syntax_error.o: ./xslt_stylesheet.h ./xml_schema.h ./xml_relax_ng.h
+xml_syntax_error.o: ./html_element_description.h ./xml_namespace.h
+xml_syntax_error.o: ./xml_encoding_handler.h
+xml_text.o: ./xml_text.h ./nokogiri.h ./xml_libxml2_hacks.h ./xml_io.h
+xml_text.o: ./xml_document.h ./html_entity_lookup.h ./html_document.h
+xml_text.o: ./xml_node.h ./xml_cdata.h ./xml_attr.h
+xml_text.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_text.o: ./xml_document_fragment.h ./xml_comment.h ./xml_node_set.h
+xml_text.o: ./xml_dtd.h ./xml_attribute_decl.h ./xml_element_decl.h
+xml_text.o: ./xml_entity_decl.h ./xml_xpath_context.h ./xml_element_content.h
+xml_text.o: ./xml_sax_parser_context.h ./xml_sax_parser.h
+xml_text.o: ./xml_sax_push_parser.h ./xml_reader.h
+xml_text.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xml_text.o: ./xslt_stylesheet.h ./xml_syntax_error.h ./xml_schema.h
+xml_text.o: ./xml_relax_ng.h ./html_element_description.h ./xml_namespace.h
+xml_text.o: ./xml_encoding_handler.h
+xml_xpath_context.o: ./xml_xpath_context.h ./nokogiri.h ./xml_libxml2_hacks.h
+xml_xpath_context.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xml_xpath_context.o: ./html_document.h ./xml_node.h ./xml_text.h
+xml_xpath_context.o: ./xml_cdata.h ./xml_attr.h
+xml_xpath_context.o: ./xml_processing_instruction.h ./xml_entity_reference.h
+xml_xpath_context.o: ./xml_document_fragment.h ./xml_comment.h
+xml_xpath_context.o: ./xml_node_set.h ./xml_dtd.h ./xml_attribute_decl.h
+xml_xpath_context.o: ./xml_element_decl.h ./xml_entity_decl.h
+xml_xpath_context.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xml_xpath_context.o: ./xml_sax_parser.h ./xml_sax_push_parser.h
+xml_xpath_context.o: ./xml_reader.h ./html_sax_parser_context.h
+xml_xpath_context.o: ./html_sax_push_parser.h ./xslt_stylesheet.h
+xml_xpath_context.o: ./xml_syntax_error.h ./xml_schema.h ./xml_relax_ng.h
+xml_xpath_context.o: ./html_element_description.h ./xml_namespace.h
+xml_xpath_context.o: ./xml_encoding_handler.h
+xslt_stylesheet.o: ./xslt_stylesheet.h ./nokogiri.h ./xml_libxml2_hacks.h
+xslt_stylesheet.o: ./xml_io.h ./xml_document.h ./html_entity_lookup.h
+xslt_stylesheet.o: ./html_document.h ./xml_node.h ./xml_text.h ./xml_cdata.h
+xslt_stylesheet.o: ./xml_attr.h ./xml_processing_instruction.h
+xslt_stylesheet.o: ./xml_entity_reference.h ./xml_document_fragment.h
+xslt_stylesheet.o: ./xml_comment.h ./xml_node_set.h ./xml_dtd.h
+xslt_stylesheet.o: ./xml_attribute_decl.h ./xml_element_decl.h
+xslt_stylesheet.o: ./xml_entity_decl.h ./xml_xpath_context.h
+xslt_stylesheet.o: ./xml_element_content.h ./xml_sax_parser_context.h
+xslt_stylesheet.o: ./xml_sax_parser.h ./xml_sax_push_parser.h ./xml_reader.h
+xslt_stylesheet.o: ./html_sax_parser_context.h ./html_sax_push_parser.h
+xslt_stylesheet.o: ./xml_syntax_error.h ./xml_schema.h ./xml_relax_ng.h
+xslt_stylesheet.o: ./html_element_description.h ./xml_namespace.h
+xslt_stylesheet.o: ./xml_encoding_handler.h

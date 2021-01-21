@@ -1,0 +1,24 @@
+notifications:
+  webhooks:
+    - https://webhook.commit-email.info/
+matrix:
+  include:
+    - name: "2.3"
+      rvm: 2.3
+    - name: "2.4"
+      rvm: 2.4.5
+    - name: "2.5"
+      rvm: 2.5.2
+    - name: "2.6"
+      rvm: 2.6.0-rc2
+    - name: "trunk"
+      rvm: ruby-head
+    - name: "gem"
+      rvm: 2.6
+      install:
+        - rake install
+      script:
+        - mkdir -p tmp
+        - cd tmp
+        - cp -a ../test/ ./
+        - ../run-test.rb
