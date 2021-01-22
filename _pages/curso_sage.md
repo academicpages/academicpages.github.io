@@ -8,7 +8,7 @@ author_profile: true
 ### Esse é o meterial de um mini-curso de SageMath para físicos que ministrei na Unesp (campus Guaratinguetá) no verão de 2021.
 
 
-* [Guia de referência rápida](files/quickref-calc.pdf)
+* [Guia de referência rápida](/files/quickref-calc.pdf)
 
 * Aula 0 (ambientação)
 * Aula 1 (variáveis, expressões simbólicas e cálculo simbólico)
