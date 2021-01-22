@@ -16,6 +16,8 @@ Human Navigation
 
 Direction
 -----------
+* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Interdepartmental Neuroscience Program (INP) recruitment session, Virtual. Jan., 2021. [news](/posts/2021/1/blog-post-3/)
+
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Society for
 Neuroscience Global Connectome, Virtual. Jan., 2021. [news](/posts/2021/1/blog-post-1/)
 
