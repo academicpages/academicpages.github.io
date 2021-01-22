@@ -11,7 +11,7 @@ author_profile: true
   * Funções de uma variável
   
 #### UNESP
-  * Mini-curso de SageMath para físicos
+  * [Mini-curso de SageMath para físicos](curso_sage.md)
 
 ## 2020
 
