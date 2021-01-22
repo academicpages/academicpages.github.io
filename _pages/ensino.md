@@ -9,6 +9,9 @@ author_profile: true
 
 #### UFABC
   * Funções de uma variável
+  
+#### UNESP
+  * Mini-curso de SageMath para físicos
 
 ## 2020
 
