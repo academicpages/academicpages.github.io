@@ -11,6 +11,7 @@ author_profile: true
 * [Guia de referência rápida](/files/quickref-calc.pdf)
 
 * Aula 0 (ambientação)
+    * Solução dos exercícios
 * Aula 1 (variáveis, expressões simbólicas e cálculo simbólico)
 * Aula 2 
     * Aula 2.1 (o problema de Kepler e Lei de deslocamento de Wien)
