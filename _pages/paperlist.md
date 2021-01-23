@@ -17,6 +17,9 @@ author_profile: true
 - [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)  
 <span style="background-color:#33ffbb;" class="textbox">active learning</span>
 
+- [Active Ordinal Querying for Tuplewise Similarity Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5734)  
+<span style="background-color:#33ffbb;" class="textbox">active learning</span>
+
 - [Variational Adversarial Active Learning](https://arxiv.org/pdf/1904.00370v3.pdf)  
 <span style="background-color:#33ffbb;" class="textbox">active learning</span>
 
