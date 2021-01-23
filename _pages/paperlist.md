@@ -47,4 +47,4 @@ author_profile: true
 [Adversarial Self-Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf) | <span style="background-color:#33fff0;" class="textbox">self-supervision</span> <span style="background-color:#33fff0;" class="textbox">adversarial training</span> |
 [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582v1.pdf) | <span style="background-color:#33fff0;" class="textbox">self-supervision</span> |
 [Self-supervised Learning from a Multi-view Perspective](https://arxiv.org/abs/2006.05576) | <span style="background-color:#33fff0;" class="textbox">self-supervision</span> |
-
+[Self-Supervised Learning of Pretext-Invariant Representations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.pdf)  | <span style="background-color:#33fff0;" class="textbox">self-supervision</span> |
