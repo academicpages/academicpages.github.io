@@ -36,5 +36,9 @@ author_profile: true
 [Data Programming Using Continuous and Quality-Guided Labeling Functions](https://ojs.aaai.org/index.php/AAAI/article/view/5742)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 [Meta Label Correction for Noisy Label Learning](https://www.microsoft.com/en-us/research/uploads/prod/2020/12/aaai2021_mlc_zheng.pdf)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 [Does label smoothing mitigate label noise?](http://proceedings.mlr.press/v119/lukasik20a/lukasik20a.pdf) | <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
+[Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/abs/2010.03179)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
+[Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning](https://arxiv.org/abs/1805.09927)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
+
+
 
 
