@@ -26,7 +26,16 @@ author_profile: true
 - [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)  
 <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>
 
+- [The Sample Complexity of Best-k Items Selection from Pairwise Comparisons](https://arxiv.org/pdf/2007.03133v1.pdf)  
+<span style="background-color:#33ffbb;" class="textbox">active learning</span> 
+
+- [Fair Active Learning](https://arxiv.org/abs/2001.01796)  
+<span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">bias and fairness</span>
+
 - [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/abs/1809.08370)  
+<span style="background-color:#ff3333;" class="textbox">semi-supervised</span>
+
+- [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/abs/1703.01780)  
 <span style="background-color:#ff3333;" class="textbox">semi-supervised</span>
 
 - [Fixmatch: Simplifying semi-supervised learning with consistency and confidence](https://arxiv.org/abs/2001.07685)  
