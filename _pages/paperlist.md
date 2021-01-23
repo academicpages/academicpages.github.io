@@ -15,7 +15,7 @@ author_profile: true
 [Few-Shot Learning with Graph Neural Networks](https://openreview.net/pdf?id=BJj6qGbRW) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">few-shot</span> |
 [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [Active Ordinal Querying for Tuplewise Similarity Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5734)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
-[Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier detection</span> |
+[Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> |
 [The Sample Complexity of Best-k Items Selection from Pairwise Comparisons](https://arxiv.org/pdf/2007.03133v1.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span>  |
 [Fair Active Learning](https://arxiv.org/abs/2001.01796) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
 [Crowd Teaching with Imperfect Labels](https://dl.acm.org/doi/abs/10.1145/3366423.3380099)| <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
@@ -82,10 +82,13 @@ author_profile: true
 [Learning to Segment the Tail](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Learning_to_Segment_the_Tail_CVPR_2020_paper.pdf)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
 [M2m: Imbalanced Classification via Major-to-minor Translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_M2m_Imbalanced_Classification_via_Major-to-Minor_Translation_CVPR_2020_paper.pdf)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
 [Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization](https://arxiv.org/abs/1911.08731)| <span style="background-color:#ff3333;" class="textbox">robustness & generalization</span>|
-[SUOD: Toward Scalable Unsupervised Outlier Detection](https://arxiv.org/abs/2002.03222) | <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
-[Deep Sets](https://arxiv.org/pdf/1703.06114v3.pdf) | <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
-[Automating Outlier Detection via Meta-Learning](https://arxiv.org/pdf/2009.10606v1.pdf) | <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
-[Deep anomaly detection with outlier exposure](https://arxiv.org/abs/1812.04606)| <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
-[Further Analysis of Outlier Detection withDeep Generative Models](https://proceedings.neurips.cc//paper/2020/file/66121d1f782d29b62a286909165517bc-Paper.pdf)| <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
-[Explainable Deep One-Class Classification](https://openreview.net/pdf?id=A5VV3UyIQz)| <span style="background-color:#33ffbb;" class="textbox">outlier detection</span> <span style="background-color:#ff3333;" class="textbox">interpretability</span>|
-
+[Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690) | <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span>|
+[SUOD: Toward Scalable Unsupervised Outlier Detection](https://arxiv.org/abs/2002.03222) | <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span>|
+[Deep Sets](https://arxiv.org/pdf/1703.06114v3.pdf) | <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span>|
+[Automating Outlier Detection via Meta-Learning](https://arxiv.org/pdf/2009.10606v1.pdf) | <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span>|
+[Deep anomaly detection with outlier exposure](https://arxiv.org/abs/1812.04606)| <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span>|
+[Further Analysis of Outlier Detection withDeep Generative Models](https://proceedings.neurips.cc//paper/2020/file/66121d1f782d29b62a286909165517bc-Paper.pdf)| <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span>|
+[Explainable Deep One-Class Classification](https://openreview.net/pdf?id=A5VV3UyIQz)| <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> <span style="background-color:#ff3333;" class="textbox">interpretability</span>|
+[Semi-Supervised Learning under Class Distribution Mismatch](https://ojs.aaai.org/index.php/AAAI/article/view/5763) | <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> <span style="background-color:#ff3333;" class="textbox">interpretability</span>|
+[Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759v3.pdf)|<span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> |
+[Outlier Exposure with Confidence Control for Out-of-Distribution Detection](https://arxiv.org/pdf/1906.03509.pdf)|<span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> |
