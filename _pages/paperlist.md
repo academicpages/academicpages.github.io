@@ -39,7 +39,6 @@ author_profile: true
 [Does label smoothing mitigate label noise?](http://proceedings.mlr.press/v119/lukasik20a/lukasik20a.pdf) | <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 [Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/abs/2010.03179)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 [Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning](https://arxiv.org/abs/1805.09927)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
-
-
+[Partial Label Learning with Batch Label Correction](https://ojs.aaai.org/index.php/AAAI/article/view/6132)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> <span style="background-color:#33fff0;" class="textbox">data augmentation</span> |
 
 
