@@ -15,7 +15,6 @@ author_profile: true
 [Few-Shot Learning with Graph Neural Networks](https://openreview.net/pdf?id=BJj6qGbRW) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">few-shot</span> |
 [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [Active Ordinal Querying for Tuplewise Similarity Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5734)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
-[Variational Adversarial Active Learning](https://arxiv.org/pdf/1904.00370v3.pdf)| <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier detection</span> |
 [The Sample Complexity of Best-k Items Selection from Pairwise Comparisons](https://arxiv.org/pdf/2007.03133v1.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span>  |
 [Fair Active Learning](https://arxiv.org/abs/2001.01796) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
