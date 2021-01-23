@@ -17,8 +17,8 @@ the computational and statistical efficiency of learning methods, and the extent
 **Contact**: akumar at mpi-sws dot com
 
 # Recent News
-* Our paper on The Teaching Dimension of Kernel Perceptrons is accepted at AISTATS (2021).
-* Attended **NeuIPS'20** conference.
+* Our paper on **The Teaching Dimension of Kernel Perceptrons** is accepted at AISTATS (2021)! :D 
+* Attended **NeurIPS'20** conference.
 * Participated in **Directions in ML: AutoML and Automating Algorithms** Lecture series starting 28th July, 2020 by Microsoft Research which features talks by outstanding academics and domain experts.
 
 # Recent Research Work
