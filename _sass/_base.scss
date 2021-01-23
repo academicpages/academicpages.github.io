@@ -319,8 +319,16 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 
-.boxBorder {
+.sslbox {
     border-radius: 10px;
     background: orange;
-    padding: 8px;  
+    padding: 5px;  
+    font-weight: bold;
+   }
+
+.albox {
+    border-radius: 10px;
+    background: #ff3333;
+    padding: 5px;  
+    font-weight: bold;
    }
