@@ -20,7 +20,7 @@ Abaixo estão alguns pontos elencados no livro [Elementos de Computação Matem�
 > - SageMath é um software *open source*, ou seja, é possível acessar e alterar o código-fonte de acordo com sua necessidade. Na prática, se um comando ou função do SageMath não está adequado às suas necessidades, você pode estudá-lo, modificá-lo e usá-lo a sua conveniência.
 > - Sage Math mostra-se adequado para uso em ensino e pesquisa de matemática e matemática computacional. Existem vários [livros](https://www.sagemath.org/library-publications.html#books) e centenas de [publicações](https://www.sagemath.org/library-publications.html).
 >
-> - Se um *bug* é notado pela equipe de desenvolvimento do Sage, cle sera anunciado na lista de discussão de desenvolvedores para o conhecimento de todos, enquanto que em um software proprietário só deve ser corrigido em uma versão futura. Há também o risco de a existência do erro não ser tornada pública.
+> - Se um *bug* é notado pela equipe de desenvolvimento do Sage, ele sera anunciado na lista de discussão de desenvolvedores para o conhecimento de todos, enquanto que em um software proprietário só deve ser corrigido em uma versão futura. Há também o risco de a existência do erro não ser tornada pública.
 
 Além disso há o projeto [SageManifolds](https://sagemanifolds.obspm.fr/index.html), integrado ao Sage. O SageManifolds inclui funcionalidades de geometria diferencial e cálculo tensorial. Além de lidar com variedades diferenciáveis e riemannianas, variedades pseudo-riemannianas  também são tratadas aqui, com farta aplicação em Relatividade Geral.
 
@@ -50,6 +50,6 @@ Existem 3 formas básicas de usar o SageMath:
 - Em uma [Instalação local](https://doc.sagemath.org/html/en/installation/index.html);
 - Executando células individuais no [SageMathCell](https://sagecell.sagemath.org/)
 
-## Outros
+## Exemplo
 
 [Geodésicas nulas na geometria de Schwarzscild (SageManifolds)](null_geodesics.html)
