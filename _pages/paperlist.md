@@ -11,6 +11,18 @@ author_profile: true
 - [Active Embedding Search via Noisy Paired Comparisons](http://proceedings.mlr.press/v97/canal19a/canal19a.pdf)  
 <span style="background-color:#33ffbb;" class="textbox">active learning</span>
 
+- [Few-Shot Learning with Graph Neural Networks](https://openreview.net/pdf?id=BJj6qGbRW)  
+<span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">few-shot</span>
+
+- [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)  
+<span style="background-color:#33ffbb;" class="textbox">active learning</span>
+
+- [Variational Adversarial Active Learning](https://arxiv.org/pdf/1904.00370v3.pdf)  
+<span style="background-color:#33ffbb;" class="textbox">active learning</span>
+
+- [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)  
+<span style="background-color:#33ffbb;" class="textbox">outlier detection</span>
+
 - [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/abs/1809.08370)  
 <span style="background-color:#ff3333;" class="textbox">semi-supervised</span>
 
