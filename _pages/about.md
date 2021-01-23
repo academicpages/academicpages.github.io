@@ -21,7 +21,9 @@ In general, I am very interested in computational statistics and machine learnin
 
 Publication
 ======
-1.Xiaoxu Li\*, Jijie Wu\*, Zhuo Sun\*, Zhanyu Ma, Jie Cao and Jinghao Xue. Bi-Similarity Network for Fine-grained Few-shot Image Classification. _IEEE Transactions on Image Processing_, 2020.
+1. Zhuo Sun, Jijie Wu, Xiaoxu Li, Wenming Yang, Jing-Hao Xue. Amortized Bayesian Prototype Meta-learning: A New Probabilistic Meta-learning Approach to Few-shot Image Classification. _Accepted for Publication at AISTATS 2021_.
+
+1.Xiaoxu Li\*, Jijie Wu\*, Zhuo Sun\*, Zhanyu Ma, Jie Cao, Jinghao Xue. Bi-Similarity Network for Fine-grained Few-shot Image Classification. _IEEE Transactions on Image Processing_, 2020.
 
 2.Xiaoxu Li\*, Zhuo Sun\*, Jinghao Xue, Zhanyu Ma. A Concise Review of Recent Few-shot Meta-learning Methods. _Neurocomputing_, 2020.
 
