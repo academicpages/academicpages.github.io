@@ -8,5 +8,8 @@ author_profile: true
 
 # CS6604 Spring 2021 paper list
 
-<p>Clark, Kevin, et al. "Semi-Supervised Sequence Modeling with Cross-View Training." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. [link](https://arxiv.org/abs/1809.08370)<p>  <span style="background-color:#ff3333;" class="textbox">semi-supervised</span>
+
+- **Semi-Supervised Sequence Modeling with Cross-View Training**, Clark, Kevin, et al., EMNLP 2018 
+[link](https://arxiv.org/abs/1809.08370) <span style="background-color:#ff3333;" class="textbox">semi-supervised</span>
+
 
