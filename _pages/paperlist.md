@@ -28,6 +28,10 @@ author_profile: true
 [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/abs/2006.07529)   |<span style="background-color:#ff3333;" class="textbox">semi-supervised</span> <span style="background-color:#33ff39;" class="textbox">class imbalance</span>  <span style="background-color:#c733ff;" class="textbox">self-supervision</span>  |
 [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362) | <span style="background-color:#c733ff;" class="textbox">self-supervision</span>  |
 [Biased Games](https://arxiv.org/pdf/2101.02032.pdf)   | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> <span style="background-color:#336eff;" class="textbox">game theory</span> |
+[Robust Optimization for Fairnesswith Noisy Protected Groups](https://arxiv.org/pdf/2002.09343.pdf) | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
 [Socially Responsible AI Algorithms:Issues, Purposes, and Challenges](https://arxiv.org/pdf/2101.02032.pdf)   | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
+[Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
+[Meta Label Correction for Noisy Label Learning](https://www.microsoft.com/en-us/research/uploads/prod/2020/12/aaai2021_mlc_zheng.pdf)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
+[Does label smoothing mitigate label noise?](http://proceedings.mlr.press/v119/lukasik20a/lukasik20a.pdf) | <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 
 
