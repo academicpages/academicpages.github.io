@@ -82,3 +82,8 @@ author_profile: true
 [Learning to Segment the Tail](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Learning_to_Segment_the_Tail_CVPR_2020_paper.pdf)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
 [M2m: Imbalanced Classification via Major-to-minor Translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_M2m_Imbalanced_Classification_via_Major-to-Minor_Translation_CVPR_2020_paper.pdf)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
 [Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization](https://arxiv.org/abs/1911.08731)| <span style="background-color:#ff3333;" class="textbox">robustness & generalization</span>|
+[SUOD: Toward Scalable Unsupervised Outlier Detection](https://arxiv.org/abs/2002.03222) | <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
+[Deep Sets](https://arxiv.org/pdf/1703.06114v3.pdf) | <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
+[Automating Outlier Detection via Meta-Learning](https://arxiv.org/pdf/2009.10606v1.pdf) | <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
+[Deep anomaly detection with outlier exposure](https://arxiv.org/abs/1812.04606)| <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
+[Further Analysis of Outlier Detection withDeep Generative Models](https://proceedings.neurips.cc//paper/2020/file/66121d1f782d29b62a286909165517bc-Paper.pdf)| <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
