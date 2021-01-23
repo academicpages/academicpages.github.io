@@ -40,5 +40,7 @@ author_profile: true
 [Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/abs/2010.03179)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 [Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning](https://arxiv.org/abs/1805.09927)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 [Partial Label Learning with Batch Label Correction](https://ojs.aaai.org/index.php/AAAI/article/view/6132)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> <span style="background-color:#33fff0;" class="textbox">data augmentation</span> |
-
+[KeepAugment: A Simple Information-Preserving Data Augmentation Approach](https://arxiv.org/pdf/2011.11778.pdf) |<span style="background-color:#33fff0;" class="textbox">data augmentation</span> |
+[Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902v2.pdf) |<span style="background-color:#33fff0;" class="textbox">data augmentation</span> <span style="background-color:#33fff0;" class="textbox">self-supervision</span> |
+[SelfAugment: Automatic Augmentation Policies for Self-Supervised Learning](https://arxiv.org/pdf/2009.07724v2.pdf)  |<span style="background-color:#33fff0;" class="textbox">data augmentation</span> <span style="background-color:#33fff0;" class="textbox">self-supervision</span> |
 
