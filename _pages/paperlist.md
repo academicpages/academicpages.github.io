@@ -20,6 +20,12 @@ author_profile: true
 - [Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning](https://arxiv.org/pdf/2007.01293.pdf)  
 <span style="background-color:#ff3333;" class="textbox">semi-supervised</span> 
 
+- [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)  
+<span style="background-color:#ff3333;" class="textbox">semi-supervised</span> <span style="background-color:#ff3333;" class="textbox">data augmentation</span> 
+
+- [Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://arxiv.org/abs/1904.12848)  
+<span style="background-color:#ff3333;" class="textbox">semi-supervised</span> <span style="background-color:#ff3333;" class="textbox">adversarial training</span> 
+
 - [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/abs/2006.07529)  
 <span style="background-color:#ff3333;" class="textbox">semi-supervised</span> <span style="background-color:#33ff39;" class="textbox">class imbalance</span>  <span style="background-color:#c733ff;" class="textbox">self-supervision</span> 
 
