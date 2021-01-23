@@ -87,3 +87,5 @@ author_profile: true
 [Automating Outlier Detection via Meta-Learning](https://arxiv.org/pdf/2009.10606v1.pdf) | <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
 [Deep anomaly detection with outlier exposure](https://arxiv.org/abs/1812.04606)| <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
 [Further Analysis of Outlier Detection withDeep Generative Models](https://proceedings.neurips.cc//paper/2020/file/66121d1f782d29b62a286909165517bc-Paper.pdf)| <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>|
+[Explainable Deep One-Class Classification](https://openreview.net/pdf?id=A5VV3UyIQz)| <span style="background-color:#33ffbb;" class="textbox">outlier detection</span> <span style="background-color:#ff3333;" class="textbox">interpretability</span>|
+
