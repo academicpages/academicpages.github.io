@@ -20,7 +20,7 @@ author_profile: true
 * [Aula 3](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_3.ipynb) (vetores, matrizes e álgebra linear)
 * Aula 4
     * [Aula 4.1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_4_1.ipynb) (vetores, covetores, formas diferenciais e equações de Maxwell)
-    * [Aula 4.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_4_2.ipynb) (Solução de FRW e equações de Friedman)
+    * [Aula 4.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_4_2.ipynb) (Solução de FRW e equações de Friedmann)
 * Aula 5
     * [Aula 5.1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_5_1.ipynb) (equação de Klein-Gordon no espaço-tempo de Scwarzschild)
     * [Aula 5.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_5_2.ipynb) (imersão do espaço-tempo de Schwarzschild e geodésicas)
