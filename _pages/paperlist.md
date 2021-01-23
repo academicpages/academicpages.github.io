@@ -21,7 +21,7 @@ author_profile: true
 <span style="background-color:#33ffbb;" class="textbox">active learning</span>
 
 - [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)  
-<span style="background-color:#33ffbb;" class="textbox">outlier detection</span>
+<span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier detection</span>
 
 - [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/abs/1809.08370)  
 <span style="background-color:#ff3333;" class="textbox">semi-supervised</span>
