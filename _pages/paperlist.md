@@ -19,6 +19,8 @@ author_profile: true
 [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier detection</span> |
 [The Sample Complexity of Best-k Items Selection from Pairwise Comparisons](https://arxiv.org/pdf/2007.03133v1.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span>  |
 [Fair Active Learning](https://arxiv.org/abs/2001.01796) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
+[Crowd Teaching with Imperfect Labels](https://dl.acm.org/doi/abs/10.1145/3366423.3380099)| <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
+[Asking the Right Questions to the Right Users: Active Learning with Imperfect Oracles](https://ojs.aaai.org/index.php/AAAI/article/view/5738)| <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
 [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/abs/1809.08370)  | <span style="background-color:#ff3333;" class="textbox">semi-supervised</span> |
 [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/abs/1703.01780)  | <span style="background-color:#ff3333;" class="textbox">semi-supervised</span> |
 [Fixmatch: Simplifying semi-supervised learning with consistency and confidence](https://arxiv.org/abs/2001.07685)   |<span style="background-color:#ff3333;" class="textbox">semi-supervised</span> |
@@ -31,6 +33,7 @@ author_profile: true
 [Robust Optimization for Fairnesswith Noisy Protected Groups](https://arxiv.org/pdf/2002.09343.pdf) | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
 [Socially Responsible AI Algorithms:Issues, Purposes, and Challenges](https://arxiv.org/pdf/2101.02032.pdf)   | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
 [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
+[Data Programming Using Continuous and Quality-Guided Labeling Functions](https://ojs.aaai.org/index.php/AAAI/article/view/5742)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 [Meta Label Correction for Noisy Label Learning](https://www.microsoft.com/en-us/research/uploads/prod/2020/12/aaai2021_mlc_zheng.pdf)| <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 [Does label smoothing mitigate label noise?](http://proceedings.mlr.press/v119/lukasik20a/lukasik20a.pdf) | <span style="background-color:#33fff0;" class="textbox">weak supervision</span> |
 
