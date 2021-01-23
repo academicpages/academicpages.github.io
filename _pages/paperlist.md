@@ -10,7 +10,7 @@ author_profile: true
 
 
 | Paper | Category |
-| :---------: | :---------: |
+| :------------: | :------------: |
 [Active Embedding Search via Noisy Paired Comparisons](http://proceedings.mlr.press/v97/canal19a/canal19a.pdf) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [Few-Shot Learning with Graph Neural Networks](https://openreview.net/pdf?id=BJj6qGbRW) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">few-shot</span> |
 [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
