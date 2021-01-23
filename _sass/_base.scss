@@ -320,9 +320,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 
 .boxBorder {
-     border: 2px solid #990066;
-     padding: 10px;
-     outline: #990066 solid 5px;
-     outline-offset: 5px;
+    border-radius: 10px;
+    background: orange;
+    padding: 8px;  
    }
-
