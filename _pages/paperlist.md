@@ -64,3 +64,10 @@ author_profile: true
 [Structured Adversarial Attack: Towards General Implementation and Better Interpretability](https://arxiv.org/abs/1808.01664)|<span style="background-color:#ff3333;" class="textbox">adversarial training</span> <span style="background-color:#ff3333;" class="textbox">interpretability</span> |
 [Robustness in Machine Learning Explanations: Does It Matter?](https://core.ac.uk/download/pdf/295733091.pdf) | <span style="background-color:#ff3333;" class="textbox">robustness & generalization</span> <span style="background-color:#ff3333;" class="textbox">interpretability</span> |
 [A Benchmark for Interpretability Methods in DeepNeural Networks](https://papers.nips.cc/paper/2019/file/fe4b8556000d0f0cae99daa5c5c5a410-Paper.pdf) | <span style="background-color:#ff3333;" class="textbox">interpretability</span> |
+[Neutralizing Self-Selection Bias inSampling for Sortition](https://proceedings.neurips.cc//paper/2020/file/48237d9f2dea8c74c2a72126cf63d933-Paper.pdf) |<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
+[Learning from Positive and Unlabeled Data with a Selection Bias](https://openreview.net/pdf?id=rJzLciCqKm) |<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
+[Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
+[Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
+[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
+[Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://arxiv.org/pdf/2005.14050.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
+[Verifying Individual Fairness in Machine Learning Models](http://proceedings.mlr.press/v124/george-john20a/george-john20a.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
