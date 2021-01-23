@@ -73,3 +73,10 @@ author_profile: true
 [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
 [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://arxiv.org/pdf/2005.14050.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
 [Verifying Individual Fairness in Machine Learning Models](http://proceedings.mlr.press/v124/george-john20a/george-john20a.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
+[Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/abs/1901.05555)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
+[Dice Loss for Data-imbalanced NLP Tasks](https://arxiv.org/abs/1911.02855)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
+[ADASYN: Adaptive synthetic sampling approach for imbalanced learning](https://ieeexplore.ieee.org/document/4633969)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
+[Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/abs/1906.07413)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
+[Striking the Right Balance with Uncertainty](https://openaccess.thecvf.com/content_CVPR_2019/papers/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.pdf)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
+[M2m: Imbalanced Classification via Major-to-minor Translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_M2m_Imbalanced_Classification_via_Major-to-Minor_Translation_CVPR_2020_paper.pdf)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
+[Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization](https://arxiv.org/abs/1911.08731)| <span style="background-color:#ff3333;" class="textbox">robustness & generalization</span>|
