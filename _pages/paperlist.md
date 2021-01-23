@@ -10,9 +10,8 @@ author_profile: true
 
 - Clark, Kevin, et al. "Semi-Supervised Sequence Modeling with Cross-View Training." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. [link](https://arxiv.org/abs/1809.08370)  **<span style="background-color:green"> semi-supervised </span>**
 
-<div class="border rounded-2 mb-2">
-  .rounded-2
+<div class="boxBorder">
+  rounded-2
 </div>
 
-<span class="State">Default</span>
 
