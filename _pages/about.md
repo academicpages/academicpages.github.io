@@ -21,7 +21,7 @@ In general, I am very interested in computational statistics and machine learnin
 
 Publication
 ======
-1.Amortized Bayesian Prototype Meta-learning: A New Probabilistic Meta-learning Approach to Few-shot Image Classification. _Accpted for publication at AISTATS 2021_.
+1.Amortized Bayesian Prototype Meta-learning: A New Probabilistic Meta-learning Approach to Few-shot Image Classification. _Accepted for publication at AISTATS 2021_.
 
 2.Xiaoxu Li\*, Jijie Wu\*, Zhuo Sun\*, Zhanyu Ma, Jie Cao and Jinghao Xue. Bi-Similarity Network for Fine-grained Few-shot Image Classification. _IEEE Transactions on Image Processing_, 2020.
 
