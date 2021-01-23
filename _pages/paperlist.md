@@ -50,5 +50,6 @@ author_profile: true
 [Self-Supervised Learning of Pretext-Invariant Representations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.pdf)  | <span style="background-color:#33fff0;" class="textbox">self-supervision</span> |
 [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/pdf/1805.09501v3.pdf) | <span style="background-color:#ff3333;" class="textbox">data augmentation</span> | 
 [CutMix: Regularization Strategy to Train Strong Classifierswith Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) | <span style="background-color:#ff3333;" class="textbox">data augmentation</span> | 
-[Rethinking Pre-training and Self-training](https://arxiv.org/pdf/2006.06882v2.pdf) | <span style="background-color:#ff3333;" class="textbox">data augmentation</span> <span style="background-color:#ff3333;" class="textbox">self-supervision</span>|
-[Augmented SBERT: Data Augmentation Method for ImprovingBi-Encoders for Pairwise Sentence Scoring Tasks]| <span style="background-color:#ff3333;" class="textbox">data augmentation</span> |
+[Augmented SBERT: Data Augmentation Method for ImprovingBi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240)| <span style="background-color:#ff3333;" class="textbox">data augmentation</span> |
+[Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/pdf/1909.12220.pdf)| <span style="background-color:#ff3333;" class="textbox">data augmentation</span> |
+
