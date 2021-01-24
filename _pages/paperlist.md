@@ -16,7 +16,7 @@ author_profile: true
 [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)   | <span style="background-color:#bae1ff;" class="textbox">active learning</span> |
 [Active Ordinal Querying for Tuplewise Similarity Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5734)   | <span style="background-color:#bae1ff;" class="textbox">active learning</span> |
 [The Sample Complexity of Best-k Items Selection from Pairwise Comparisons](https://arxiv.org/pdf/2007.03133v1.pdf)   | <span style="background-color:#bae1ff;" class="textbox">active learning</span>  |
-[Fair Active Learning](https://arxiv.org/abs/2001.01796) | <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
+[Fair Active Learning](https://arxiv.org/abs/2001.01796) | <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#ffdfba;" class="textbox">bias and fairness</span> |
 [Crowd Teaching with Imperfect Labels](https://dl.acm.org/doi/abs/10.1145/3366423.3380099)| <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
 [Asking the Right Questions to the Right Users: Active Learning with Imperfect Oracles](https://ojs.aaai.org/index.php/AAAI/article/view/5738)| <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
 [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)   | <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> |
@@ -69,17 +69,17 @@ author_profile: true
 [Self-Challenging Improves Cross-Domain Generalization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470120.pdf)|<span style="background-color:#ff3333;" class="textbox">robustness & generalization</span> |
 [Multi-Object Representation Learning with Iterative Variational Inference](https://arxiv.org/pdf/1903.00450v3.pdf)|<span style="background-color:#ff3333;" class="textbox">robustness & generalization</span>|
 [Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization](https://arxiv.org/abs/1911.08731)| <span style="background-color:#ff3333;" class="textbox">robustness & generalization</span>|
-[Faking Fairness via Stealthily Biased Sampling](https://ojs.aaai.org//index.php/AAAI/article/view/5377) | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
-[Robust Optimization for Fairnesswith Noisy Protected Groups](https://arxiv.org/pdf/2002.09343.pdf) | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
-[Socially Responsible AI Algorithms:Issues, Purposes, and Challenges](https://arxiv.org/pdf/2101.02032.pdf)   | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
-[Neutralizing Self-Selection Bias inSampling for Sortition](https://proceedings.neurips.cc//paper/2020/file/48237d9f2dea8c74c2a72126cf63d933-Paper.pdf) |<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
-[Learning from Positive and Unlabeled Data with a Selection Bias](https://openreview.net/pdf?id=rJzLciCqKm) |<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
-[Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
-[Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
-[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
-[Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://arxiv.org/pdf/2005.14050.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
-[Verifying Individual Fairness in Machine Learning Models](http://proceedings.mlr.press/v124/george-john20a/george-john20a.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
-[Biased Games](https://ojs.aaai.org/index.php/AAAI/article/view/8831)   | <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> <span style="background-color:#336eff;" class="textbox">game theory</span> |
+[Faking Fairness via Stealthily Biased Sampling](https://ojs.aaai.org//index.php/AAAI/article/view/5377) | <span style="background-color:#ffdfba;" class="textbox">bias and fairness</span>|
+[Robust Optimization for Fairnesswith Noisy Protected Groups](https://arxiv.org/pdf/2002.09343.pdf) | <span style="background-color:#ffdfba;" class="textbox">bias and fairness</span> |
+[Socially Responsible AI Algorithms:Issues, Purposes, and Challenges](https://arxiv.org/pdf/2101.02032.pdf)   | <span style="background-color:#ffdfba;" class="textbox">bias and fairness</span> |
+[Neutralizing Self-Selection Bias inSampling for Sortition](https://proceedings.neurips.cc//paper/2020/file/48237d9f2dea8c74c2a72126cf63d933-Paper.pdf) |<span style="background-color:#ffdfba;" class="textbox">bias and fairness</span>|
+[Learning from Positive and Unlabeled Data with a Selection Bias](https://openreview.net/pdf?id=rJzLciCqKm) |<span style="background-color:#ffdfba;" class="textbox">bias and fairness</span>|
+[Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)|<span style="background-color:#ffdfba;" class="textbox">bias and fairness</span>|
+[Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf)|<span style="background-color:#ffdfba;" class="textbox">bias and fairness</span>|
+[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)|<span style="background-color:#ffdfba;" class="textbox">bias and fairness</span>|
+[Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://arxiv.org/pdf/2005.14050.pdf)|<span style="background-color:#ffdfba;" class="textbox">bias and fairness</span>|
+[Verifying Individual Fairness in Machine Learning Models](http://proceedings.mlr.press/v124/george-john20a/george-john20a.pdf)|<span style="background-color:#ffdfba;" class="textbox">bias and fairness</span>|
+[Biased Games](https://ojs.aaai.org/index.php/AAAI/article/view/8831)   | <span style="background-color:#ffdfba;" class="textbox">bias and fairness</span> <span style="background-color:#336eff;" class="textbox">game theory</span> |
 [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/abs/1901.05555)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
 [Dice Loss for Data-imbalanced NLP Tasks](https://arxiv.org/abs/1911.02855)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
 [ADASYN: Adaptive synthetic sampling approach for imbalanced learning](https://ieeexplore.ieee.org/document/4633969)|<span style="background-color:#33ff39;" class="textbox">class imbalance</span>|
