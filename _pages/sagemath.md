@@ -40,8 +40,8 @@ Além disso há o projeto [SageManifolds](https://sagemanifolds.obspm.fr/index.h
 
 ### Livros
 
-- [Computational Mathematics with SageMath (grátis)](http://sagebook.gforge.inria.fr/english.html)
-- [Sage para Estudiantes de Pregrado (grátis)](http://www.sage-para-estudiantes.com/)
+- [Computational Mathematics with SageMath (livre)](http://sagebook.gforge.inria.fr/english.html)
+- [Sage para Estudiantes de Pregrado (livre)](http://www.sage-para-estudiantes.com/)
 - [Elementos de Computação Matemática com SageMath (em português)](https://sagectu.com.br/index.html)
 
 ## Onde conseguir?
