@@ -5,8 +5,10 @@ permalink: /paperlist/
 author_profile: true
 ---
 
-
 # CS6604 Spring 2021 paper list
+
+- You can select any paper that has a tag similar to the tag in the schedule, e.g., any of the "bias & fairness" paper on a "bias & fairness" week.
+- Covering proofs of theorems is optional. Conveying the key ideas of the paper in your presentation will be sufficient.
 
 
 | Paper | Category |
