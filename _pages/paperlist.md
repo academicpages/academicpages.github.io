@@ -9,7 +9,7 @@ author_profile: true
 
 - Each category contains approximately nine (9) papers as possible options to choose in a given week. 
 - You can select one of the papers that has a tag similar to the tag in the schedule, e.g., any of the "bias & fairness" paper on a "bias & fairness" week.
-- Covering proofs of theorems is optional. Conveying the key ideas of the paper in your presentation will be sufficient.
+- Covering proofs of theorems is optional. Conveying the key ideas of the paper in your presentation (5-6 slides per reading role) will be sufficient.
 
 
 | Paper | Category |
