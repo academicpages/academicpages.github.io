@@ -12,7 +12,7 @@ author_profile: true
 | Paper | Category |
 | :------------: | :------------: |
 [Active Embedding Search via Noisy Paired Comparisons](http://proceedings.mlr.press/v97/canal19a/canal19a.pdf) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
-[Few-Shot Learning with Graph Neural Networks](https://openreview.net/pdf?id=BJj6qGbRW) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">few-shot</span> |
+[Batch Decorrelation for Active Metric Learning](https://www.ijcai.org/Proceedings/2020/0312.pdf) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [Active Ordinal Querying for Tuplewise Similarity Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5734)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> |
