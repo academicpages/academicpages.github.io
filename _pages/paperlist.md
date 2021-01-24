@@ -10,7 +10,7 @@ author_profile: true
 
 
 | Paper | Category |
-| :------------: | :------------: |
+| :------------------------: | :------------------------: |
 [Active Embedding Search via Noisy Paired Comparisons](http://proceedings.mlr.press/v97/canal19a/canal19a.pdf) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [Batch Decorrelation for Active Metric Learning](https://www.ijcai.org/Proceedings/2020/0312.pdf) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
 [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
@@ -98,12 +98,12 @@ author_profile: true
 [Outlier Exposure with Confidence Control for Out-of-Distribution Detection](https://arxiv.org/pdf/1906.03509.pdf)|<span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> |
 [Explainable Deep One-Class Classification](https://openreview.net/pdf?id=A5VV3UyIQz)| <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> <span style="background-color:#ff3333;" class="textbox">interpretability</span>|
 [Semi-Supervised Learning under Class Distribution Mismatch](https://ojs.aaai.org/index.php/AAAI/article/view/5763) | <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> <span style="background-color:#ff3333;" class="textbox">interpretability</span>|
-[Unsupervised Data Imputation via Variational Inference of Deep Subspaces](https://arxiv.org/pdf/1903.03503v1.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
-[Missing Data Imputation using Optimal Transport](https://arxiv.org/pdf/2002.03860v3.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
-[Seq2Tens: An Efficient Representation of Sequences by Low-Rank Tensor Projections](https://openreview.net/pdf?id=dx4b7lm8jMM)|<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
-[Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training Neural Networks](https://openreview.net/forum?id=BylsKkHYvH)|<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
-[Multivariate Time Series Imputation withGenerative Adversarial Networks](https://proceedings.neurips.cc/paper/2018/file/96b9bff013acedfb1d140579e2fbeb63-Paper.pdf) |<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
-[MCFlow: Monte Carlo Flow Models for Data Imputation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Richardson_McFlow_Monte_Carlo_Flow_Models_for_Data_Imputation_CVPR_2020_paper.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
-[Learning on Attribute-Missing Graphs](https://arxiv.org/pdf/2011.01623v1.pdf) |<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
-[Handling Missing Data with Graph Representation Learning](https://arxiv.org/pdf/2010.16418.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
-[Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/pdf?id=ByxxgCEYDS) |<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
+[Unsupervised Data Imputation via Variational Inference of Deep Subspaces](https://arxiv.org/pdf/1903.03503v1.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
+[Missing Data Imputation using Optimal Transport](https://arxiv.org/pdf/2002.03860v3.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
+[Seq2Tens: An Efficient Representation of Sequences by Low-Rank Tensor Projections](https://openreview.net/pdf?id=dx4b7lm8jMM)|<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
+[Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training Neural Networks](https://openreview.net/forum?id=BylsKkHYvH)|<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
+[Multivariate Time Series Imputation withGenerative Adversarial Networks](https://proceedings.neurips.cc/paper/2018/file/96b9bff013acedfb1d140579e2fbeb63-Paper.pdf) |<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
+[MCFlow: Monte Carlo Flow Models for Data Imputation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Richardson_McFlow_Monte_Carlo_Flow_Models_for_Data_Imputation_CVPR_2020_paper.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
+[Learning on Attribute-Missing Graphs](https://arxiv.org/pdf/2011.01623v1.pdf) |<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
+[Handling Missing Data with Graph Representation Learning](https://arxiv.org/pdf/2010.16418.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
+[Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/pdf?id=ByxxgCEYDS) |<span style="background-color:#33ffbb;" class="textbox">missing values/attributes</span> |
