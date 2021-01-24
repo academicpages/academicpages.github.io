@@ -10,16 +10,16 @@ author_profile: true
 
 
 | Paper | Category |
-| :------------------------------------------------: | :------------------------------------------------: |
-[Active Embedding Search via Noisy Paired Comparisons](http://proceedings.mlr.press/v97/canal19a/canal19a.pdf) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
-[Batch Decorrelation for Active Metric Learning](https://www.ijcai.org/Proceedings/2020/0312.pdf) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
-[BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
-[Active Ordinal Querying for Tuplewise Similarity Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5734)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> |
-[The Sample Complexity of Best-k Items Selection from Pairwise Comparisons](https://arxiv.org/pdf/2007.03133v1.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span>  |
-[Fair Active Learning](https://arxiv.org/abs/2001.01796) | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
-[Crowd Teaching with Imperfect Labels](https://dl.acm.org/doi/abs/10.1145/3366423.3380099)| <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
-[Asking the Right Questions to the Right Users: Active Learning with Imperfect Oracles](https://ojs.aaai.org/index.php/AAAI/article/view/5738)| <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
-[Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)   | <span style="background-color:#33ffbb;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> |
+| :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+[Active Embedding Search via Noisy Paired Comparisons](http://proceedings.mlr.press/v97/canal19a/canal19a.pdf) | <span style="background-color:#bae1ff;" class="textbox">active learning</span> |
+[Batch Decorrelation for Active Metric Learning](https://www.ijcai.org/Proceedings/2020/0312.pdf) | <span style="background-color:#bae1ff;" class="textbox">active learning</span> |
+[BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://arxiv.org/pdf/1906.08158v2.pdf)   | <span style="background-color:#bae1ff;" class="textbox">active learning</span> |
+[Active Ordinal Querying for Tuplewise Similarity Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5734)   | <span style="background-color:#bae1ff;" class="textbox">active learning</span> |
+[The Sample Complexity of Best-k Items Selection from Pairwise Comparisons](https://arxiv.org/pdf/2007.03133v1.pdf)   | <span style="background-color:#bae1ff;" class="textbox">active learning</span>  |
+[Fair Active Learning](https://arxiv.org/abs/2001.01796) | <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">bias and fairness</span> |
+[Crowd Teaching with Imperfect Labels](https://dl.acm.org/doi/abs/10.1145/3366423.3380099)| <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
+[Asking the Right Questions to the Right Users: Active Learning with Imperfect Oracles](https://ojs.aaai.org/index.php/AAAI/article/view/5738)| <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#33fff0;" class="textbox">weak supervision</span>|
+[Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816v4.pdf)   | <span style="background-color:#bae1ff;" class="textbox">active learning</span> <span style="background-color:#33ffbb;" class="textbox">outlier & OoD detection</span> |
 [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/abs/1809.08370)  | <span style="background-color:#ff3333;" class="textbox">semi-supervised</span> |
 [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/abs/1703.01780)  | <span style="background-color:#ff3333;" class="textbox">semi-supervised</span> |
 [Fixmatch: Simplifying semi-supervised learning with consistency and confidence](https://arxiv.org/abs/2001.07685)   |<span style="background-color:#ff3333;" class="textbox">semi-supervised</span> |
