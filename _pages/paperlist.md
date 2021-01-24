@@ -99,3 +99,5 @@ author_profile: true
 [Multivariate Time Series Imputation withGenerative Adversarial Networks](https://proceedings.neurips.cc/paper/2018/file/96b9bff013acedfb1d140579e2fbeb63-Paper.pdf) |<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
 [MCFlow: Monte Carlo Flow Models for Data Imputation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Richardson_McFlow_Monte_Carlo_Flow_Models_for_Data_Imputation_CVPR_2020_paper.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
 [Learning on Attribute-Missing Graphs](https://arxiv.org/pdf/2011.01623v1.pdf) |<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
+[Handling Missing Data with Graph Representation Learning](https://arxiv.org/pdf/2010.16418.pdf)|<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
+[Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/pdf?id=ByxxgCEYDS) |<span style="background-color:#33ffbb;" class="textbox">missing attributes/values</span> |
