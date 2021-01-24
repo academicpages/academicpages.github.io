@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Professor visitante na Universidade Federal do ABC ([UFABC](www.ufabc.edu.br))**
+**Professor visitante na Universidade Federal do ABC ([UFABC](https://www.ufabc.edu.br/))**
 
 ## Interesses de pesquisa:
 - Relatividade geral e teorias alternativas de gravitação;
