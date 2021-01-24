@@ -71,6 +71,7 @@ author_profile: true
 [A Benchmark for Interpretability Methods in DeepNeural Networks](https://papers.nips.cc/paper/2019/file/fe4b8556000d0f0cae99daa5c5c5a410-Paper.pdf) | <span style="background-color:#ff3333;" class="textbox">interpretability</span> |
 [Causal Interpretability for Machine Learning - Problems, Methods and Evaluation](https://arxiv.org/abs/2003.03934)|<span style="background-color:#ff3333;" class="textbox">interpretability</span>|
 [Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization](https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)|<span style="background-color:#ff3333;" class="textbox">interpretability</span>|
+[ProtoAttend: Attention-Based Prototypical Learning](https://www.jmlr.org/papers/volume21/20-042/20-042.pdf) |<span style="background-color:#ff3333;" class="textbox">interpretability</span>|
 [Neutralizing Self-Selection Bias inSampling for Sortition](https://proceedings.neurips.cc//paper/2020/file/48237d9f2dea8c74c2a72126cf63d933-Paper.pdf) |<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
 [Learning from Positive and Unlabeled Data with a Selection Bias](https://openreview.net/pdf?id=rJzLciCqKm) |<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
 [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)|<span style="background-color:#33fff0;" class="textbox">bias and fairness</span>|
