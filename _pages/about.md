@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhuo Sun, a 2nd year PhD student in Statistics at [University College London](https://www.ucl.ac.uk). I am very very lucky to be supervised by [Prof. F-X Briol](https://fxbriol.github.io) and [Prof. J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I accomplished my M.Sc in Statistical Science at [University of Oxford](https://www.ox.ac.uk) under the supervision of [Prof. George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/) and my advisor there was [Prof. Gesine Reinert](http://www.stats.ox.ac.uk/~reinert/). I am a recipient of Cambridge International Scholarship (for PhDs). Currently, my PhD is fully funded by EPSRC and UCL jointly.
+My name is Zhuo Sun, a 2nd year PhD student in Statistics at [University College London](https://www.ucl.ac.uk). I am very very lucky to be supervised by [Prof. F-X Briol](https://fxbriol.github.io) and [Prof. J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I accomplished my M.Sc in Statistical Science at [University of Oxford](https://www.ox.ac.uk) under the supervision of [Prof. George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/) and my advisor there was [Prof. Gesine Reinert](http://www.stats.ox.ac.uk/~reinert/). I am a recipient of Cambridge International Scholarship. Currently, my PhD is fully funded by EPSRC and UCL jointly.
 
 Research Interest
 ======
