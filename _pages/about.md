@@ -29,13 +29,17 @@ Publication
 
 \* _means equal contribution._
 
+
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- __Zhuo Sun__, Jijie Wu, Xiaoxu Li, Wenming Yang, Jing-Hao Xue. Amortized Bayesian Prototype Meta-learning: A New Probabilistic Meta-learning Approach to Few-shot Image Classification. _Accepted for Publication at AISTATS 2021_.
+
+- Xiaoxu Li\*, Jijie Wu\*, __Zhuo Sun\*__, Zhanyu Ma, Jie Cao, Jinghao Xue. Bi-Similarity Network for Fine-grained Few-shot Image Classification. _IEEE Transactions on Image Processing_, 2020.
+
+- Xiaoxu Li\*, __Zhuo Sun\*__, Jinghao Xue, Zhanyu Ma. A Concise Review of Recent Few-shot Meta-learning Methods. _Neurocomputing_, 2020.
+
 ```
+
+
 
 
 
