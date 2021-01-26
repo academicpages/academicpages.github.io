@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/GanGradient
 venue: "ArXiv 2018"
 date: 2018-6-10
-citation: 'Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>ArXiv 2018.</i>'
+citation: 'Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>Preprint. arXiv:1807.00751</i>'
 ---
 
 [[ArXiv]](https://arxiv.org/abs/1807.00751)

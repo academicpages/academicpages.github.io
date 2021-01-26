@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SSLTheory
 venue: "ArXiv 2020"
 date: 2020-12-02
-citation: 'Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli. <i>ArXiv 2018.</i>'
+citation: 'Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli. <i>Preprint. arXiv:2010.00578</i>'
 ---
 
 [[ArXiv]](https://arxiv.org/pdf/2010.00578.pdf)
