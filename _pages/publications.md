@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Understanding self-supervised learning with dual deep networks](http://lantaoyu.com/publications/SSLTheory)</b> <br>
+Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli.
+<i>Preprint. ArXiv 2020.</i>
+
 <b>[Autoregressive Score Matching](http://lantaoyu.com/publications/ARSM)</b> <br> 
 Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
 <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
@@ -49,7 +53,7 @@ Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa,
 
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu.
-<i>ArXiv 2018.</i>
+<i>Preprint. ArXiv 2018.</i>
 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
 Yaodong Yang\*, <b>Lantao Yu</b>\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
