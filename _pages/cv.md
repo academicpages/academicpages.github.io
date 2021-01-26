@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Economics, University of North Texas 2017
+* M.S.D.S. Artificial Intelligence, Northwestern University 2021
+    * *Thesis: Learning via Latent Representations for Reinforcement Learning Agents in High Dimensional State Spaces*
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Machine Learning Engineer, Toyota Connected -- 2020 - Current
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Scientist, Quadratic Insights -- 2017 - 2020
   
 Skills
 ======
