@@ -95,6 +95,7 @@ author_profile: true
 [Distribution-Balanced Loss for Multi-LabelClassification in Long-Tailed Datasets](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490154.pdf)|<span style="background-color:#cefbe1;" class="textbox">class imbalance</span>|
 [Learning to Segment the Tail](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Learning_to_Segment_the_Tail_CVPR_2020_paper.pdf)|<span style="background-color:#cefbe1;" class="textbox">class imbalance</span>|
 [M2m: Imbalanced Classification via Major-to-minor Translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_M2m_Imbalanced_Classification_via_Major-to-Minor_Translation_CVPR_2020_paper.pdf)|<span style="background-color:#cefbe1;" class="textbox">class imbalance</span>|
+**VT** [Multidimensional Uncertainty-Aware Evidential Neural Networks](https://arxiv.org/abs/2012.13676) | <span style="background-color:#f9ffbe;" class="textbox">outlier & OoD detection</span>|
 [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690) | <span style="background-color:#f9ffbe;" class="textbox">outlier & OoD detection</span>|
 [SUOD: Toward Scalable Unsupervised Outlier Detection](https://arxiv.org/abs/2002.03222) | <span style="background-color:#f9ffbe;" class="textbox">outlier & OoD detection</span>|
 [Deep Sets](https://arxiv.org/pdf/1703.06114v3.pdf) | <span style="background-color:#f9ffbe;" class="textbox">outlier & OoD detection</span>|
