@@ -14,6 +14,6 @@ Previously, I completed MS (by Research) from Indian Institute of Technology Mad
 where I was jointly advised by Prof. Balaraman Ravindran and Dr. Mitesh M. Khapra. My thesis involved incorporating information from unstructured data to improve dialogue systems. I was also associated with RBC-DSAI. 
 
 ## News
-We are organizing a workshop on Graphs and more Complex structures for Learning and Reasoning (GCLR) at AAAI-21. Please consider submitting at our venue!
+We are organizing a workshop on Graphs and more Complex structures for Learning and Reasoning (GCLR) at AAAI-21 on 9th February 2021. Please attend our workshop if you are attending AAAI.
 
 [Details about the workshop](https://sites.google.com/view/gclr2021/)
