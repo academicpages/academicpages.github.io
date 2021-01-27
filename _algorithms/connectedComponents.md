@@ -1,6 +1,5 @@
 ---
 title: 'Connected Components'
-date: 2020-09-27
 permalink: /algorithms/connectedComponents/
 tags:
   - algorithms
@@ -10,7 +9,8 @@ tags:
 
 ---
 
-## Description
+<p style="margin-left: 1.5em;"> Returns the number of connected components.</p>
+
 A connected component of an undirected graph is a set of vertices all of which are connected by paths to each other. This algorithm calculates the number of connected components in the graph and the size of each, and returns some statisics of these.
 
 ## Implementation

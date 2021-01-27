@@ -1,6 +1,5 @@
 ---
 title: 'Triangle Count and Clustering Coefficient'
-date: 2020-08-26
 permalink: /algorithms/triangleCount/
 tags:
   - algorithms
@@ -9,7 +8,8 @@ tags:
 
 ---
 
-## Description
+<p style="margin-left: 1.5em;"> Returns the number of triangles and clustering coefficient.</p>
+
 The triangle count algorithm counts the number of triangles (triplet of nodes which all pairwise share a link) that each vertex is a member of, from which additionally the global graph triangle count and clustering coefficient can be realised.
 
 ## Implementation

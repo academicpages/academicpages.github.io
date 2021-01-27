@@ -13,18 +13,26 @@ tags:
 
 <p style="margin-left: 1.5em;"> Returns the communities of the constructed graph as detected by synchronous label propagation.</p>
 
-The implementation of the algorithm is based on <sup>[1]</sup> and proceeds as follows; Every vertex is assigned an initial label at random. Looking at the labels of its neighbours, a probability is assigned to observed labels following an increasing function then the vertex's label is updated with the label with the highest probability. If the new label is the same as the current label, the vertex votes to halt. This process iterates until all vertice labels have converged. The algorithm is synchronous since every vertex updates its label at the same time.
+Every vertex is assigned an initial label at random. Looking at the labels of its neighbours, a probability is assigned to observed labels following an increasing function then the vertex's label is updated with the label with the highest probability. If the new label is the same as the current label, the vertex votes to halt. This process iterates until all vertice labels have converged. The algorithm is synchronous since every vertex updates its label at the same time.
 
 
 ### Parameters
-* `top_c` _(Int)_ -- The number of top largest communities to return. If not specified, Raphtory will return all detected communities. (default: _None_)
+* `top` _(Int)_ -- The number of top largest communities to return. (_Default: 0_)
+                      If not specified, Raphtory will return all detected communities.
+* `weight` _(String)_ -- Edge property (_Default: `""`_). To be specified in case of weighted graph.
+* `maxIter` _(Int)_ -- Maximum iterations for algorithm to run. (_Default: 500_)
 
 ### Returns
 * `total` _(Int)_ -- Number of detected communities.
-* `communities` _(List[List[Long]])_ -- Communities sorted by their sizes. Returns largest `top_c` communities if specified.
+* `communities` _(List[List[Long]])_ -- Communities sorted by their sizes. Returns largest `top` communities if specified.
+
 
 #### Notes
 * This implementation of LPA incorporated probabilistic elements which makes it non-deterministic; The returned communities may differ on multiple executions.
+
+#### See also
+<button onclick="location.href='/algorithms/cbod/'" type="button" class="btn btn-default">
+         Outlier Detection</button>
 
 ## Examples
 In this example, the temporal network spans a time period $t \in [1,3]$ and is built into (3) snapshots of window size 1.
@@ -98,6 +106,3 @@ This returns:
 ```json
 {"time":3,"top5":[4,3],"total":2,"totalIslands":0,"proportion":0.5714286, "communities":[[3,2,1,4]],"viewTime":33}
 ```
-
-#### References
-<sup>[1] Li, S., Lou, H., Jiang, W., & Tang, J. (2015). Detecting community structure via synchronous label propagation. Neurocomputing, 151, 1063-1075.<sup/>
