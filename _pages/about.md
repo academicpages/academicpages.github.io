@@ -44,11 +44,11 @@ I am a civil aviation enthusiast. I am a member of the ACICFG, a team devoted to
 
 I am an alcoholist and I enjoy drinking, I like: 
 
-- beers, including American IPA (I like **Ballest Point**, **Brooklyn** and **Dogfish**), Trappist (I like **Rochefort** and **Chimay**) and Hefeweizen (I think **Franziskaner** is good enough),
+- beers, including American IPA (I like **Ballest Point**, **Brooklyn** and **Dogfish**.), Trappist (I like **Rochefort** and **Chimay**.) and Hefeweizen (I think **Franziskaner** is good enough.),
 
-- Vodka (**Smirnoff Black, Grey Goose and Russian Standards**), 
+- Vodka (**Smirnoff Black, Grey Goose and Russian Standards**.), 
 
-- Whiskey (For single malts, I like **Talisker, Lagavulin**. For blended, **Johnnie Walker Double Black** is worth a try). 
+- Whiskey (For single malts, I like **Talisker and Lagavulin**. For blended, **Johnnie Walker Double Black** is worth a try). 
 
 - Bourbon (I have only tried **Maker's Mark** and I found it charming.)
 
