@@ -90,9 +90,32 @@ override def processResults(results: ArrayBuffer[Any], timestamp: Long, viewComp
   }
 ```
 
-Running this on the first 5000 sentences of the books, returns the following for a separation degree of 3;
+## Running Analysis
+To run your implemented analyser or any of the algorithms included in the most recent Raphtory Release ([See here](https://github.com/Raphtory/Raphtory/tree/master/mainproject/src/main/scala/com/raphtory/algorithms)) you must submit them to the graph. For this you can either request a viewQuery to look at a single point in time or a range query over a subset of the history of the graph.
+
+Some example view queries are found within the `LOTRDeployment` App we created in the previous tutorial:
+
+View queries take the Analyser you wish to run, a timestamp specifying the time of interest and any arguments (which can be an empty array). You may additionally specify a window which will filter the graph to only include entities which have been updated within that period from the time point chosen. This may be expanded to a batch of windows which will do the same for all sizes provided. An example of all three of these running a `DegreeBasic` function on line 10000 can be seen below:
+
+````scala
+  rg.viewQuery(DegreeBasic(),timestamp = 10000,arguments)
+  rg.viewQuery(DegreeBasic(),timestamp = 10000,window=100,arguments)
+  rg.viewQuery(DegreeBasic(),timestamp = 10000,windowBatch=Array(100,50,10),arguments)
+````
+
+Range queries are similar to this, but take a start time, end time (inclusive) and increment with which it moves between these two points. An example of range queries over the full history (all pages) running `ConnectedComponents` can be seen below:
+
+````scala
+  rg.rangeQuery(ConnectedComponents(),start = 1,end = 32674,increment = 100,arguments)
+  rg.rangeQuery(ConnectedComponents(),start = 1,end = 32674,increment = 100,window=100,arguments)
+  rg.rangeQuery(ConnectedComponents(),start = 1,end = 32674,increment = 100,windowBatch=Array(100,50,10),arguments)
+````
+
+Finally we can see an Implemented version of the `SixDegreesOfGandalf` run as a range query over all pages. Running this on line 5000 of the books, returns the following for a separation degree of 3;
+
 ```json
 {"time":5000,"total":24,"direct":9,"viewTime":316}
 ```
----
-You might be asking _HOW exactly do we run an analysis?_ That's what the topic of the next entry is! Head on to [How to deploy Raphtory locally](/documentation/deploylocal) to learn how to do that on your local machine.
+
+Delete the queries that are in the file and write your own to get out this output. Once you are happy with this you should have all the tools needed to create graphs for your own datasets. If you have any questions, come join the Raphtory Slack and get involved with the discussion! :) 
+

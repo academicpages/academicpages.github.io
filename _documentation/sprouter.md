@@ -9,9 +9,9 @@ tags:
   - graph
 ---
 
-Now that you have a working version of Raphtory on your machine, the first step to getting your first temporal graph analysis up and running is to tell Raphtory how to read in your datafile and how to build it into a graph. This is done by the Spout and Graph Builder classes respectively.
+Now that you have a working version of Raphtory on your machine, the first step to getting your first temporal graph analysis up and running is to tell Raphtory how to read in your datafile and how to build it into a graph. This is done by the Spout and Graph Builder classes respectively. Once these are build they can be passed to a `RaphtoryGraph` which will use the both components to build up the temporal graph.
 
-For this example, we will use a dataset of co-occurrences in the Lord of the Rings books which can be found from [here](https://github.com/Raphtory/Examples/tree/main/src/main/scala/examples/lotr/lotr.csv). This is a `csv` file where each line contains two characters who appeared in the same sentence, along with the number of the sentence in which they appeared. The first line of the file, for example, is `Gandalf,Elrond,33`.
+For this example, we will use a dataset of co-occurrences in the Lord of the Rings books which can be found from [here](https://github.com/Raphtory/Examples/tree/main/src/main/scala/examples/lotr/lotr.csv). This is a `csv` file where each line contains two characters who appeared in the same sentence, along with the number of the sentence in which they appeared. The first line of the file, for example, is `Gandalf,Elrond,33`. However, as you may have guessed from your job in the pervious tutorial running, this is already present in the LOTR example directory `src/main/scala/examples/lotr`. Also in here you will find `LOTRSpout.scala`, `LOTRGraphBuilder.scala` and `LOTRDeployment.scala` which we will go through below.
 
 ## Spout
 
@@ -84,6 +84,24 @@ There are a few things worth pointing out here.
 
 To summarise, the spout takes an external source of data and turns it into a _stream of records_ and the graph builder converts each item from this stream of records into a _graph update_.
 
+## Raphtory Graph
+Now that we have a way to ingest and parse the data we can create a graph. To do this we can first create a scala App. This is a short hand for creating a main function for the Java folks.
+
+````scala
+object LOTRDeployment extends App{
+
+}
+
+````
+
+Inside of this we can create a spout and graphbuilder from the classes we have defined above and combine them into a RaphtoryGraph:
+
+````scala
+  val source  = new LOTRSpout()
+  val builder = new LOTRGraphBuilder()
+  val rg = RaphtoryGraph[String](source,builder)
+
+````
 ---
 
 Once we are able to ingest our data and build graphs from it, the next thing is to actually run some analysis on it. Head onto [Write your own analysis](/documentation/analysis-qs) for how to do the _Six Degrees of Gandalf_ for this dataset!
