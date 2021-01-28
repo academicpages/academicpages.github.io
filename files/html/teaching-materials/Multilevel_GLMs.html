@@ -184,7 +184,7 @@ y = g^{-1}(\mathbf{X}\boldsymbol{\beta})
 
 ## read in data
 ab &lt;-<span class="st"> </span>rio<span class="op">::</span><span class="kw">import</span>(<span class="st">'http://afrobarometer.org/sites/default/files/data/round-6/merged_r6_data_2016_36countries2.sav'</span>)
-au &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">'au.csv'</span>)
+au &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">'https://jayrobwilliams.com/data/teaching/au.csv'</span>)
 
 ## drop missing observations, subset variables, and attach region
 ab &lt;-<span class="st"> </span>ab <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">filter</span>(Q90A <span class="op">%in%</span><span class="st"> </span><span class="dv">0</span><span class="op">:</span><span class="dv">1</span>, <span class="co"># close to party</span>
