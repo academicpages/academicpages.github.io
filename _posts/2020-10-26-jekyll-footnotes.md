@@ -12,6 +12,8 @@ date: 2020-10-26
 permalink: /posts/2020/10/jeykll-footnotes
 excerpt_separator: <!--more-->
 toc: true
+header: 
+  og_image: "posts/jekyll-footnotes/ggplot-1.png"
 tags:
   - jekyll
   - rmarkdown

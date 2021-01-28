@@ -1,6 +1,8 @@
 ---
 permalink: /teaching-materials/
 title: "Teaching Materials"
+header: 
+  og_image: "teaching/pdp.png"
 ---
 
 ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Lab for Advanced Political Data Science

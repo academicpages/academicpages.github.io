@@ -9,6 +9,8 @@ knit: (function(inputFile, encoding) {
 date: 2020-06-03
 permalink: /posts/2020/06/visualizing-militarization/
 excerpt_separator: <!--more-->
+header: 
+  og_image: "posts/mrap/mrap-1.png"
 tags:
   - data
   - policing
