@@ -11,6 +11,7 @@ Select publications indexed here and full publication history available on <a hr
 
 *Figure: Select publications by research program theme.*
 
+
 {% if author.googlescholar %}
   Full publication history is available at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
