@@ -10,7 +10,7 @@ Select publications indexed here. You can also find my articles on <a href="http
 <img align="center" src="/images/chart.pdf" width="1">
 
 {% if author.googlescholar %}
-  You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+  Full publication history is available at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
 
 {% include base_path %}
