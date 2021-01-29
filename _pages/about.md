@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="left" src="/images/smart-purple.png" width="133.5" height="150">
+<img align="center" src="/images/smart-purple.png" width="133.5" height="150">
 
 Larry Han is a third year graduate student at Harvard University in [Professor Tianxi Cai's lab](https://www.hsph.harvard.edu/tianxi-cai/), working towards a PhD in [Biostatistics](https://www.hsph.harvard.edu/biostatistics/). He received an AM in Biostatistics from Harvard in 2020, an MPhil in Operations Management from the University of Cambridge in 2018, an MA in Global Affairs from Tsinghua University in 2017, and a BSPH in Biostatistics from the University of North Carolina at Chapel Hill in 2016.
 
