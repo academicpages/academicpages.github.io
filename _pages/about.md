@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Leonardo Pacciani-Mori /leo&#39;nardo pa&#39;tʃːani &#39;mɔːri/, a PhD student in Physics at the University of Padua. I work in the [Laboratory of Interdisciplinary Physics](https://liphlab.com/){:target="_blank"}<!--_--> under the supervision of Amos Maritan and Samir Suweis. I have also been appointed as *Fellow of the Department of Physics* at Harvard University, working in [David Nelson's](https://www.physics.harvard.edu/people/facpages/nelson){:target="_blank"}<!--_--> and [Andrew Murray's](https://murraylab.fas.harvard.edu/){:target="_blank"}<!--_--> groups under the supervision of [Andrea Giometto](https://www.cee.cornell.edu/faculty-directory/andrea-giometto){:target="_blank"}<!--_-->.
+I'm Leonardo Pacciani-Mori /leo&#39;nardo pa&#39;tʃːani &#39;mɔːri/, a postdoctoral researcher in the [Hwa lab](https://matisse.ucsd.edu/){:target="_blank"}<!--_--> at the University of California, San Diego.
 
-<!--I work in the broad field of biological physics: I use methods and approaches characteristic of statistical physics to create models of biological and living systems.<br>-->
-My main research interest is microbial competition. In particular, I study consumer-resource model to understand better how many species can coexist while competing for common resources. I am currently interested in studying how metabolic adaptation (i.e., the ability of microbes to change energy source according to environmental conditions) can help us understand better how many different species can coexist in competitive setting. Recently, I am also interested in studying how we can rewrite consumer-resource models so that we can describe microbial communities at an "intermediate" level of complexity, i.e. describing their population dynamics while at the same time retaining insights on the molecular aspects of growth.
+I am a statistical physicist by training but I work at the interface of biological physics, microbial ecology and bacterial physiology. In particular, I study the constraints imposed by proteome allocation that bacteria have to satisfy in order to grow, and the effects that they have on population dynamics and the ecology of microbial communities.
 
 <!--### Random fun facts
 * My current [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3
