@@ -7,8 +7,8 @@ author_profile: true
 
 Select publications indexed here and full publication history available on <a href="https://scholar.google.com/citations?hl=en&user=k5NnEvgAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.
 
-<img align="center" src="/images/chart3.png" width="600">
-<p>Select publications by research program theme.</p>
+<img align="center" src="/images/chart3.png" width="700">
+*Select publications by research program theme.*
 
 {% if author.googlescholar %}
   Full publication history is available at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
