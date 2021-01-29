@@ -25,7 +25,7 @@ Publications
 			<br/>
 			<b>Habiba Farrukh</b>, Tinghan Yang, Hanwen Xu, Yuxuan Yin, He Wang, Z. Berkay Celik
 			<br/>
-			Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp '21)
+			Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM UbiComp '21)
 			<br/>
 	</li>
 </ul>
