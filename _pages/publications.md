@@ -9,6 +9,8 @@ Select publications indexed here and full publication history available on <a hr
 
 ![](/images/chart2.jp2)
 
+<img align="right" src="/images/chart2" width="400">
+
 {% if author.googlescholar %}
   Full publication history is available at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
