@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV here](/files/Garfield_ZH_CV_Dec2020.pdf)
+[Download full CV here](/files/Garfield_CV_Jan2021.pdf)
 
 Education
 ======
