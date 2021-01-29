@@ -15,4 +15,4 @@ To this end, I created an animation based on simulated darts throws with differe
   <source src="https://luke-fitz.github.io/files/darts_simulator.mp4" type="video/mp4">
 </video>
 
-Now to figure out the relationship between alcohol consumption and the radius of accuracy, and darts will be a solved game!
+Now to plot my radius of accuracy as a mathematical function of alcohol consumption, and darts will be a solved game!
