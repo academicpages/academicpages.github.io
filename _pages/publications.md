@@ -7,7 +7,7 @@ author_profile: true
 
 Select publications indexed here. Full publication history available on <a href="https://scholar.google.com/citations?hl=en&user=k5NnEvgAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.
 
-<img align="left" src="/images/chart3.png" width="795">
+<img align="left" src="/images/chart4.png" width="795">
 \
 \
 \
