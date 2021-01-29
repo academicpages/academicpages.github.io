@@ -19,7 +19,6 @@ Select publications indexed here. Full publication history available on <a href=
 \
 \
 \
-\
 *Figure: Select publications by research program theme.*
 
 {% if author.googlescholar %}
