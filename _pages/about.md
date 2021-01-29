@@ -19,6 +19,17 @@ I specifically focus on designing and building innovative and secure mobile sens
 
 Publications
 ============
+
+<ul>
+	<li><b>S<sup>3</sup>: Side-Channel Atack on Smartphones through Sensors</b>
+			<br/>
+			<b>Habiba Farrukh</b>, Tinghan Yang, Hanwen Xu, Yuxuan Yin, He Wang, Z. Berkay Celik
+			<br/>
+			Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp '21)
+			<br/>
+	</li>
+</ul>
+
 <ul>
 	<li><b>FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera</b>
 			<br/>
