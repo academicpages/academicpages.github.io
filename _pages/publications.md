@@ -7,7 +7,7 @@ author_profile: true
 
 Select publications indexed here. You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=k5NnEvgAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.
 
-<img align="right" src="/images/chart.pdf" width="77">
+<img align="center" src="/images/chart.pdf" width="1">
 
 {% if author.googlescholar %}
   You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
