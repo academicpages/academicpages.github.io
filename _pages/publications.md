@@ -9,7 +9,7 @@ Select publications indexed here and full publication history available on <a hr
 
 <img align="left" src="/images/chart3.png" width="730">
 
-*Select publications by research program theme.*
+*Figure: Select publications by research program theme.*
 
 {% if author.googlescholar %}
   Full publication history is available at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
