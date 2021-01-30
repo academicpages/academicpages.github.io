@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+### My papers
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+### Other work that I was involved in
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
