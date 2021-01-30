@@ -21,7 +21,7 @@ Publications
 ============
 
 <ul>
-	<li><b>S<sup>3</sup>: Side-Channel Atack on Smartphones through Sensors</b>
+	<li><b>S<sup>3</sup>: Side-Channel Atack on Stylus Pencils through Sensors</b>
 			<br/>
 			<b>Habiba Farrukh</b>, Tinghan Yang, Hanwen Xu, Yuxuan Yin, He Wang, Z. Berkay Celik
 			<br/>
