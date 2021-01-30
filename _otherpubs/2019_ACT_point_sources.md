@@ -6,4 +6,4 @@ date: 2019-07-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnras/article/486/4/5239/5154934'
 ---
-I contributed flux denisty scale confirmation to this catalog of point sources extracted data taken by the Atacama Cosmology Telescope.
+I contributed flux denisty scale confirmation to this catalog of point sources extracted from data taken by the Atacama Cosmology Telescope.

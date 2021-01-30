@@ -19,6 +19,6 @@ author_profile: true
 
 ### Other work that I was involved in
 
-{% for post in site.publications reversed %}
+{% for post in site.otherpubs reversed %}
   {% include archive-single.html %}
 {% endfor %}
