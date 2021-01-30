@@ -2,7 +2,6 @@
 title: "Probing ultra-light axion dark matter with the kinetic SZ effect (in preparation)"
 collection: publications
 permalink: /publication/Axion_kSZ
-published: false
 #date: 2021-02-01
 #venue: ''
 #paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.023538'

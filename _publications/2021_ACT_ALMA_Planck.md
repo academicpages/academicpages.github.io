@@ -2,7 +2,6 @@
 title: "Confirming the Calibration of ALMA Using Planck Observations (in preparation)"
 collection: publications
 permalink: /publication/ACT_ALMA_Planck_point_sources
-published: false
 #date: 2021-02-01
 #venue: ''
 #paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.023538'
