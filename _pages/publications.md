@@ -25,4 +25,4 @@ author_profile: true
  * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <i>Submitted to </i><b>Medical Image Analysis (Major revise)</b>.<br>
- Code will be released at [here](https://github.com/Luoxd1996/MIDeepSeg) upon the paper was accepted.
+ <!--Code will be released at [here](https://github.com/Luoxd1996/MIDeepSeg) upon the paper was accepted.-->
