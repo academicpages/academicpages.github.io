@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align: justify;"> 
-My name is Yuke Wang, a third-year Ph.D. in <a href="https://www.cs.ucsb.edu">computer science</a> at University of California, Santa Barbara (<a href="https://ucsb.edu">UCSB</a>). Before I come to UCSB, I got my B.E. in software engineering from University of Electronic Science and Technology of China (<a href="https://en.uestc.edu.cn/">UESTC</a>).</p>
+Yuke Wang is a third-year Ph.D. in <a href="https://www.cs.ucsb.edu">computer science</a> at University of California, Santa Barbara (<a href="https://ucsb.edu">UCSB</a>). He got B.E. in software engineering from University of Electronic Science and Technology of China (<a href="https://en.uestc.edu.cn/">UESTC</a>).</p>
 
 <p style="text-align: justify;"> 
-At UCSB, I am working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. I have been working on projects in software-hardware co-design for distance-related algorithms, such as KNN, KMeans. I am also interested in deep learning, especially graph neural network (GNN) optimization and acceleration on heterogeneous platforms, such as GPUs.</p>
+At UCSB, he is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. His research interests include high-performance computing and deep learning algorithms. His recent ongoing projects cover graph neural network (GNN) optimization and its acceleration on GPUs.
+<!-- His major interest is the irregular nature of the graph-related problem that significantly impedes the modern massively parallel GPU hardware from achieving satisfying performance. Therefore, he is particularly focusing on bridging such a gap between the upper-level application and underlying hardware will have a profound impact on the end-user experience. -->
+<!-- I have been working on projects in software-hardware co-design for distance-related algorithms, such as KNN, KMeans. I am also interested in deep learning, especially graph neural network (GNN) optimization and acceleration on heterogeneous platforms, such as GPUs. -->
+</p>
 
 <!-- <iframe
   width="600"
