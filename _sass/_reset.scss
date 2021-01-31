@@ -11,7 +11,7 @@ html {
   font-size: 16px;
 
   @include breakpoint($medium) {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   -webkit-text-size-adjust: 100%;

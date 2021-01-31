@@ -1,0 +1,39 @@
+p {
+    text-align: justify;
+}
+
+.greedy-nav .visible-links li:first-child a {
+    font-weight: normal;
+}
+
+.author__name {
+    text-align: center;
+}
+
+
+.author__bio {
+    text-align: center;
+}
+
+.page__footer footer {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0em;
+    max-width: 100%;
+    padding: 1em 1em;
+}
+
+html {
+    background-color: ghostwhite;
+}
+
+footer {
+    background-color: black;
+    color: #9ba1a6
+}
+
+.greedy-nav{
+    background-color: ghostwhite;
+}
+
