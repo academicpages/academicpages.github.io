@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Lisa Thalheimer"
   avatar           : "Lisa Thalheimer_profile.jpg"
-  bio              : "Modelling Climate Mobilities"
+  bio              : "Modelling Climate Mobilities" > "Systemic Risk "
   location         : "Oxford, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0nAv_MEAAAAJ&hl=de"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Lisa_Thalheimer"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "geoliz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/lisathalheimer/"
   orcid            : "https://orcid.org/0000-0002-3737-3586"
   pinterest        :
   soundcloud       :
