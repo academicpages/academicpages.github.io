@@ -2,3 +2,5 @@ _site/
 .idea
 .bundle/
 vendor/
+Gemfile.lock
+.jekyll-metadata
