@@ -70,7 +70,6 @@ I am currently a research intern at [Microsoft](https://www.microsoft.com/en-us/
    <a href="/files/papoc-18.pdf">
      [Slides]
    </a>
-
 </ul>
 
 
