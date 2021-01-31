@@ -28,7 +28,7 @@ Publication
 
 3.Xiaoxu Li\*, __Zhuo Sun\*__, Jinghao Xue, Zhanyu Ma. A Concise Review of Recent Few-shot Meta-learning Methods. _Neurocomputing_, 2020.
 
-\* _means equal contribution._
+_[\* means equal contribution.]_
 
 
 
