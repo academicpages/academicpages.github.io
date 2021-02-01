@@ -28,6 +28,7 @@ Coding
 Data Visualization
 ======
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) by Claus O. Wilke
+* [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 * [R Graph Gallery](https://www.r-graph-gallery.com/) for different figure templates
 
 <br> 
