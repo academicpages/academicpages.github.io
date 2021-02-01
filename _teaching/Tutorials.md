@@ -20,4 +20,4 @@ Event attribution
 ======
 Hilary Term 2020
 Climate Science tutorial, Mansfield College 
-Year 2 undergraduate course
+Year 2 undergraduate course 
