@@ -15,3 +15,5 @@ Situated in northeast Africa, Somalia endures both political and climate extreme
 [Download paper here](https://www.researchgate.net/publication/338909280_Climate_Change_Conflicts_and_Migration)
 
 Recommended citation: Thalheimer, Lisa and Webersik, Christian. (2020). "Climate Change, Conflicts and Migration." <i>Bristol University Press</i>. 1(1).
+
+![Somalia](https://bristoluniversitypress.co.uk/assets/e63cd05f/9781529202168-599743-290x400.jpg)
