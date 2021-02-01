@@ -2,7 +2,7 @@
 title: "Climate Change, Conflicts and Migration"
 collection: publications
 permalink: /publication/Climate-Change-Conflicts-and-Migration
-excerpt: 'Published in Bristol University Press (DOI: 10.2307/j.ctvvsqc5m.10) <br />
+excerpt: 'Published in Bristol University Press (DOI: 10.2307/j.ctvvsqc5m.10) <br /> <br />
 
 Situated in northeast Africa, Somalia endures both political and climate extremes. Violent groups like Al-Shabaab dominate parts of the country and it regularly experiences severe droughts. Understanding the effect of climate change on these already complex dynamics poses a significant challenge. Some studies of the potential impacts of climate change on conflict have found that increased temperatures or reduced rainfall can lead to armed conflict; however, this work challenges that view, arguing instead that armed conflict weakens the capacity of institutions and people to prepare and adapt to climate change.'
 # date: 2020-01-29
