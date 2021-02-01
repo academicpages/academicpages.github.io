@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Lisa Thalheimer"
   avatar           : "Lisa Thalheimer_profile.jpg"
-  bio              : "Modelling Climate Mobilities" > "Systemic Risk "
+  bio              : "Modelling Climate Mobilities > Systemic Risk "
   location         : "Oxford, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0nAv_MEAAAAJ&hl=de"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Lisa_Thalheimer"
