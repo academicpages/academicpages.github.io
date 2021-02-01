@@ -36,7 +36,7 @@ redirect_from:
 
 - **Vote Selling in the United States: Introducing Machine Learning Methods to Analyzing Conjoint Experimental Data**. With Cristobal Quininao (UOH). <br/> [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt). **Data analyses**
 
-- **Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times**. <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/master/abstract.txt). **Data analyses**
+- **Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times**. <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt). **Data analyses**
 
 - **Not Just Guns or Butter, but What Came First---Guns or Butter? Introducing GVAR to International Relations**. With Igor Kovac (U Cincinnati). <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt). **Data analyses**
 
