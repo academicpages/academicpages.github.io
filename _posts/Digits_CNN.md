@@ -696,7 +696,7 @@ g = sns.countplot(Y_train)
     
 
 
-![png](images/notebook_files/notebook_16_1.png)
+![png](https://gzhelev2020.github.io/files/images/notebook_files/notebook_16_1.png)
 
 
 ### Show Distribution of Lables
