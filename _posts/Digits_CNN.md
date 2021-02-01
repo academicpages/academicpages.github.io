@@ -1,3 +1,7 @@
+# MNIST Data Set with a Convolutional Neural Network
+###Georg Zhelev
+####Code Adapted from: Kaggle 
+
 ```python
 import pandas as pd
 import numpy as np
@@ -28,7 +32,8 @@ sns.set(style='white', context='notebook', palette='deep')
 
 
 ```python
-from google.colab import drive
+from google.colab import drive
+
 drive.mount('/content/drive')
 ```
 
@@ -689,12 +694,18 @@ g = sns.countplot(Y_train)
 ![png](notebook_files/notebook_16_1.png)
 
 
-### Show Distribution of Lables
-
-```
-# Als Code formatiert
-```
-
+### Show Distribution of Lables
+
+
+
+```
+
+# Als Code formatiert
+
+```
+
+
+
 
 
 
@@ -2388,7 +2399,8 @@ test = test.values.reshape(-1,28,28,1)
 
 
 ```python
-print(X_train.shape)
+print(X_train.shape)
+
 print(test.shape)
 ```
 
@@ -2499,7 +2511,8 @@ model.add(Dense(10, activation = "softmax"))
 
 
 ```python
-
+
+
 model.summary()
 ```
 
