@@ -24,6 +24,6 @@ of forced migration, drought and conflict.
 
 [Download paper here](https://core.ac.uk/download/pdf/286269512.pdf#page=81)
 
-Recommended citation: Heslin, Alison and Thalheimer, Lisa. (2020). "The Picture from Above: Using Satellite Imagery to Overcome Methodological Challenges in Studying Environmental Displacement." <i>Bristol University Press</i>. 1(1).
+Recommended citation: HESLIN, A., & THALHEIMER, L. The Picture from Above: Using Satellite Imagery to Overcome Methodological Challenges in Studying Environmental Displacement. <i>Oxford Monitor of Forced Migration</i>, 75. 
 
 ![cover](https://static.wixstatic.com/media/701039_f675c19f6bd6458394876fe9e26cb308~mv2.png/v1/fill/w_220,h_314,al_c,q_85,usm_0.66_1.00_0.01/Bildschirmfoto%202020-01-06%20um%2018_20_55_pn.webp)
