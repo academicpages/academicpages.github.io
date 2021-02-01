@@ -2,7 +2,7 @@
 title: "The Picture from Above: Using Satellite Imagery to Overcome Methodological Challenges in Studying Environmental Displacement"
 collection: publications
 permalink: /publication/The-Picture-from-Above
-excerpt: 'Our paper .'
+excerpt: 'This study explores the potential for using radar data, high resolution imagery, and climate observations and projections to measure displacement and environmental vulnerability in East Africa.'
 date: 2020-01-29
 venue: 'Oxford Monitor of Forced Migration'
 # paperurl: 'https://core.ac.uk/download/pdf/286269512.pdf#page=81'
