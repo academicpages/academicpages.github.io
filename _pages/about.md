@@ -19,7 +19,7 @@ redirect_from:
 
 <p class="lead"> My research is either forthcoming, or has been published in Acta Politica, Journal of Politics in Latin America, Regional Science, Policy and Practice and Revista de Ciencia Politica. I am also an Associate Editor of Social Science (Springer).</p>
 
-<p class="lead">My primary subfield is the political economy of development of Latin America. My research extends across several substantive areas, including state capacity, clientelism and political development. As an applied methodologist I also have a strong interest in statistical and experimental methods.</p>
+<p class="lead">My primary subfield is the political economy of political development, inequality and clientelism. As an applied methodologist I also have a strong interest in statistical and experimental methods.</p>
 
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
@@ -28,11 +28,7 @@ redirect_from:
 Next Talks/Conferences
 ============
 
-1.  January 8-11, 2020, San Juan, Puerto Rico: SPSA (canceled; COVID19).
-
-2. April 16-19, 2020, Chicago, United States: MPSA (canceled; COVID19).
-
-3. September 10-13, 2020, San Francisco, United States: APSA.
+1.  TBA.
 
 
 <!---

@@ -14,8 +14,8 @@ redirect_from:
 
 
 1. Substantive
-	- Political Science I.  <a href="https://github.com/hbahamonde/Ciencia_Politica_I/raw/master/Bahamonde_Ciencia_Politica_I.pdf"><i class='fa fa-book fa'></i></a>
-	- Political Science II.  <a href="https://github.com/hbahamonde/Ciencia_Politica_II/raw/master/Bahamonde_Ciencia_Politica_II.pdf"><i class='fa fa-book fa'></i></a>
+	- Political Science I: Intro to Comparative Politics.  <a href="https://github.com/hbahamonde/Ciencia_Politica_I/raw/master/Bahamonde_Ciencia_Politica_I.pdf"><i class='fa fa-book fa'></i></a>
+	- Political Science II: Intro to Political Economy.  <a href="https://github.com/hbahamonde/Ciencia_Politica_II/raw/master/Bahamonde_Ciencia_Politica_II.pdf"><i class='fa fa-book fa'></i></a>
 	- Comparative Politics (Tulane University, S:2018). <a href="https://github.com/hbahamonde/Comparative_Politics_UGRAD/raw/master/Bahamonde_Comparative_Politics_Syllabus_UGRAD.pdf"><i class='fa fa-book fa'></i></a>
 
 2. Methodology
