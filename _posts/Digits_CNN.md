@@ -696,7 +696,7 @@ g = sns.countplot(Y_train)
     
 
 
-![png](notebook_files/notebook_16_1.png)
+![png](images/notebook_files/notebook_16_1.png)
 
 
 ### Show Distribution of Lables
