@@ -37,3 +37,41 @@ footer {
     background-color: ghostwhite;
 }
 
+h2 {
+    margin:0px
+}
+
+.paper {
+    min-height: 100px;
+    font-size: 16px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+
+    ul {
+        padding: 2px 0 0 0;
+        margin: 0;
+    }
+
+    li {
+        list-style: none;
+        display: inline;
+        padding: 0 10px 0 0;
+    }
+
+    div {
+        padding: 2px 0 0 0px;
+    }
+
+    p {
+        text-align: justify;
+        font-size: 13px;
+        padding: 2px 0 0 0;
+        margin: 0;
+        max-width: 800px;
+    }
+}
+
+// .paper_link, .paper_venue_year, .paper_bib {
+//     float:left;
+//     padding: 0 10px 0 0
+// }

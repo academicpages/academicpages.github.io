@@ -117,7 +117,7 @@ author:
   youtube          :
   wikipedia        :
   springer         :
-  cv               : "/files/CV.pdf"
+  cv               : "/assets/files/umang_cv.pdf"
 
 
 # Reading Files
@@ -149,6 +149,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - code
 keep_files:
   - .git
   - .svn
