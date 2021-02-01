@@ -1,3 +1,8 @@
+---
+layout: post
+title: MNIST Digits with CNN
+---
+
 # MNIST Data Set with a Convolutional Neural Network
 ###Georg Zhelev
 ####Code Adapted from: Kaggle 
