@@ -6,6 +6,5 @@
     number = "2",
     pages = "1935--1950",
     year = "2015",
-    publisher = "Oxford University Press",
-    url = "https://arxiv.org/abs/1412.0947"
+    publisher = "Oxford University Press"
 }

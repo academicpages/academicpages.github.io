@@ -2,8 +2,5 @@
     author = "Gupta, Umang and Ferber, Aaron and Dilkina, Bistra and Ver Steeg, Greg",
     title = "{Controllable Guarantees for Fair Outcomes via Contrastive Information Estimation}",
     booktitle = "Thirty-Fifth AAAI Conference on Artificial Intelligence",
-    year = "2021",
-    url = "https://arxiv.org/abs/2101.04108",
-    code = "https://github.com/umgupta/fairness-via-contrastive-estimation",
-    video = "https://youtu.be/f\_paYisG3yo"
+    year = "2021"
 }

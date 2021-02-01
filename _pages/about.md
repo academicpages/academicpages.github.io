@@ -13,10 +13,9 @@ redirect_from:
 </head> -->
 
 
-I am a fourth-year Ph.D. student at the University of Southern California advised by [Prof. Greg Ver Steeg](https://www.isi.edu/people/gregv/about). Broadly, I am interested in unsupervised learning, representation learning, and using machine learning for scientific advancement. Recently, I have been working on controlling information in the activations and weights in the neural networks.
+I am a fourth-year Ph.D. student at the University of Southern California advised by [Prof. Greg Ver Steeg](https://www.isi.edu/people/gregv/about). Broadly, I am interested in unsupervised learning, representation learning, and using machine learning for scientific advancement. Recently, I have been working on controlling information in the activations and weights of the neural networks.
 
-Before that, I worked on finding optimal strategies for Stackelberg Security Games with Deep Reinforcement Learning and solving Catastrophic forgetting in Neural Networks. Before coming to USC, I spent two years at Visa Inc. Bangalore, employed as a Sr. software developer, and five wonderful years  at IIT Delhi, concluding with a Dual Degree.
-
+Before that, I worked on finding optimal strategies for Stackelberg security games with deep reinforcement learning and solving catastrophic forgetting in Neural Networks. Before coming to USC, I spent two years at Visa Inc., Bangalore, employed as a Sr. software developer, and five wonderful years at IIT Delhi, concluding with a Dual Degree.
 
 
 ## Selected Publications

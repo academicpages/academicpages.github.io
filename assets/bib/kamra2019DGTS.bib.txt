@@ -4,6 +4,5 @@
     booktitle = "International Conference on Decision and Game Theory for Security",
     pages = "238--258",
     year = "2019",
-    organization = "Springer",
-    url = "https://link.springer.com/chapter/10.1007\%2F978-3-030-32430-8\_15"
+    organization = "Springer"
 }

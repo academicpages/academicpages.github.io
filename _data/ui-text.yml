@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
-  email_label                : "Email"
+  email_label                : "umanggup@usc.edu  "
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"

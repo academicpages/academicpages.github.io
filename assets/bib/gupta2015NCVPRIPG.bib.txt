@@ -4,6 +4,5 @@
     booktitle = "2015 Fifth National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG)",
     pages = "1--4",
     year = "2015",
-    organization = "IEEE",
-    url = "https://ieeexplore.ieee.org/document/7490037"
+    organization = "IEEE"
 }

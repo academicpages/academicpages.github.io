@@ -2,7 +2,7 @@ from pybtex.database import parse_file, BibliographyData
 import os
 from functools import reduce
 
-FIELD_TO_DELETE = ["AUTHOR+an", "keywords", "note", "arXiv", "media", "venue"]
+FIELD_TO_DELETE = ["AUTHOR+an", "keywords", "note", "arXiv", "video", "code","venue", "link"]
 
 def delete_fields(database):
     for entry in database.entries:
@@ -17,7 +17,7 @@ def database_to_textfile(database, fname):
     # TODO: implement
     # get entries and sort by year
     entries = [database.entries[entry] for entry in database.entries]
-    print(entries)
+    # print(entries)
     entries = sorted(
         entries, key=lambda x: int(
         x.fields.get("year", "0000") + x.fields.get("month", "00")
@@ -51,21 +51,23 @@ def database_to_textfile(database, fname):
 
         string += f'<ul>'
         string += f'\n <li class="paper_venue_year">{entry.fields["venue"]}</li>\n'
-        if os.path.exists(f"assets/bib/{entry.key}.bib"):
-            string += f'<li class="paper_bib"><a href="/assets/bib/{entry.key}.bib">.bib</a></li>\n'
+        if os.path.exists(f"assets/bib/{entry.key}.bib.txt"):
+            string += f'<li class="paper_bib"><a href="/assets/bib/{entry.key}.bib.txt">.bib</a></li>\n'
 
-        if os.path.exists(f"assets/files/{entry.key}.pdf"):
-            string += f'<li class="paper_pdf"><a href="/assets/files/{entry.key}.pdf" target="self_" >PDF</a></li>\n'
+        if os.path.exists(f"assets/papers/{entry.key}.pdf"):
+            string += f'<li class="paper_pdf"><a href="/assets/papers/{entry.key}.pdf" >PDF</a></li>\n'
 
+        if os.path.exists(f"assets/posters/{entry.key}.pdf"):
+            string += f'<li class="paper_pdf"><a href="/assets/posters/{entry.key}.pdf" >poster</a></li>\n'
 
-        if entry.fields.get("url"):
-            string += f'<li class="paper_link"><a target="self_" href="{entry.fields["url"]}">Link</a></li> '
+        if entry.fields.get("link"):
+            string += f'<li class="paper_link"><a href="{entry.fields["link"]}">link</a></li> '
 
         if entry.fields.get("video"):
-            string += f'<li class="paper_video"><a target="self_" href="{entry.fields["video"]}">Video</a></li>'
+            string += f'<li class="paper_video"><a href="{entry.fields["video"]}">video</a></li>'
 
         if entry.fields.get("code"):
-            string += f'<li class="paper_code"><a target="self_" href="{entry.fields["code"]}">Code</a></li>'
+            string += f'<li class="paper_code"><a href="{entry.fields["code"]}">code</a></li>'
 
         string+='</ul>'
 
@@ -88,8 +90,8 @@ if __name__=="__main__":
     # get database with selected entries only
     selected_entries = {}
     for entry in database.entries:
-        print(entry)
-        print(database.entries[entry].fields.get('keywords', "").split(","))
+        # print(entry)
+        # print(database.entries[entry].fields.get('keywords', "").split(","))
         if "selected" in list(
             map(
                 lambda x: x.strip(),
@@ -102,8 +104,8 @@ if __name__=="__main__":
 
     selected_entries = {}
     for entry in database.entries:
-        print(entry)
-        print(database.entries[entry].fields.get('keywords', "").split(","))
+        # print(entry)
+        # print(database.entries[entry].fields.get('keywords', "").split(","))
         if "peer-reviewed" in list(
             map(
                 lambda x: x.strip(),
@@ -152,7 +154,7 @@ if __name__=="__main__":
 
     for entry in database.entries:
         print(f"Processing {entry}")
-        fname = f"{BIB_PATH}/{entry}.bib"
+        fname = f"{BIB_PATH}/{entry}.bib.txt"
         singledb = BibliographyData(entries={entry:database.entries[entry]})
         delete_fields(singledb)
         singledb.to_file(fname, bib_format="bibtex")

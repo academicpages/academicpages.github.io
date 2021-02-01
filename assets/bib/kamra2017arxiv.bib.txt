@@ -2,6 +2,5 @@
     author = "Kamra, Nitin and Gupta, Umang and Liu, Yan",
     title = "{Deep Generative Dual Memory Network for Continual Learning}",
     journal = "arXiv preprint arXiv:1710.10368",
-    year = "2017",
-    url = "https://arxiv.org/abs/1710.10368"
+    year = "2017"
 }
