@@ -5,8 +5,8 @@ permalink: /publication/Climate-Change-Conflicts-and-Migration
 excerpt: 'Our book chapter employs a political economy analysis, examining the interplay of extreme weather, conflict and migration in Somalia.'
 date: 2020-01-29
 venue: 'Bristol University Press'
-paperurl: 'https://books.google.co.uk/books?hl=de&lr=&id=mZ_LDwAAQBAJ&oi=fnd&pg=PA59&ots=VPk7FErM9N&sig=1empYfMJBApD1KUoO5e-KrfGzDk&redir_esc=y#v=onepage&q&f=false'
-citation: 'Thalheimer, Lisa and Webersik, Christian. (2020). &quot;Paper Title Number 1.&quot; <i>Bristol University Press</i>. 1(1).'
+# paperurl: 'https://books.google.co.uk/books?hl=de&lr=&id=mZ_LDwAAQBAJ&oi=fnd&pg=PA59&ots=VPk7FErM9N&sig=1empYfMJBApD1KUoO5e-KrfGzDk&redir_esc=y#v=onepage&q&f=false'
+# citation: 'Thalheimer, Lisa and Webersik, Christian. (2020). &quot;Paper Title Number 1.&quot; <i>Bristol University Press</i>. 1(1).'
 ---
 Published in Bristol University Press (DOI: 10.2307/j.ctvvsqc5m.10)
 
