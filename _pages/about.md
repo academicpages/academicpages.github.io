@@ -19,12 +19,12 @@ growing inequality, a sixth mass extinction, the global spread of misinformation
 All systems are prone to interference and shocks. Most have the ability to resist change, to adapt, and to repair to retain some sort of self-coherence. What mechanisms result in these abilities? How do they contribute to overall resilience? Can a system recover its coherence once it loses it? These are some of the fundamental questions I want to explore, using and developing a variety of mathematical and computational methods in a variety of fields. I am particularly interested in the study of systems involving humans, resources, and the institutions that govern them in order to solve societies most pressing issues. And we have many <i>'wicked'</i> ones! 
 
 
-I am an Assistant Professor at the University of Amsterdam, working at the Computational Science Lab at the Informatics Institute (IvI) and the [Institute of Advanced Studies](https://polder.center), and a Visiting Research Scholar at the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) and the [Princeton Institute for International and Regional Studies](http://piirs.princeton.edu/), at Princeton University. I finished my Ph.D. in Sciences at the University of Minho, in Portugal, in 2017. 
+[//]:I am an Assistant Professor at the University of Amsterdam, working at the Computational Science Lab at the Informatics Institute (IvI) and the [Institute of Advanced Studies](https://polder.center), and a Visiting Research Scholar at the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) and the [Princeton Institute for International and Regional Studies](http://piirs.princeton.edu/), at Princeton University. I finished my Ph.D. in Sciences at the University of Minho, in Portugal, in 2017. 
 
 
 My research agenda is on managing complex systems to solve societal challenges involving the provision of public goods: can we leverage our knowledge of systems to overcome the dilemmas that oppose self- and collective-interest? How can we design institutions and interventions such that by pursuing our individual interests we contribute to society?
 
-Details
+Research areas
 ======
 
 [//]: # More info
@@ -33,14 +33,17 @@ I work on a set of diverse problems with a set of amazing people.
 
 **Climate agreements**
 
+<img src="/images/ClimateAgreements.jpg" alt="Climate Agreements" width="800"
+         height=auto>
+
 Climate change governance opposes self- and collective-interest. It requires the study of mechanisms that promote cooperation – whether among countries, states, or local communities. I have developed evolutionary game theoretical models that describe dynamic, frequency-dependent decisions. The work my coauthors and I develop derives from and runs in parallel with experimental data collected in behavioral studies. We show how decisions within small groups significantly raise the chances of coordinating to save the planet’s climate, supporting the calls for a decentralized or polycentric way of management. This is the case when dealing with the goods themselves or with the sanctioning mechanisms to impose contributions.[1] We studied wealth inequality issues and their impact in the adaptive decision-making process of developed and developing countries.[2] I have also focused on empirical and theoretical analysis of the effect of co-benefits and overlapping coalitions on deepening cooperation,[3,4] namely on providing information about the unknown payoff structure of the climate game. In an ongoing work, based on a large body of experimental literature, we have shown that there is a strong interplay between the scale of the public good and the scale at which decisions for supporting institutions are made. In that interplay, providing information can hinder the sustainability self-govening cooperative groups or, through long-term learning, it can promote and stabilize them.[5]   
 Novel questions we are thinking about regard the interplay between the decision-making dynamics and the dynamics of goods and resources, a key feature in any social-ecological system.
 
-[1] Vítor V. Vasconcelos, Francisco C. Santos and Jorge M. Pacheco, A bottom-up institutional approach to cooperative governance of risky commons, (2013) Nature Climate Change, 3 (9) pp. 797-801
+[1] Vítor V. Vasconcelos, Francisco C. Santos and Jorge M. Pacheco, A bottom-up institutional approach to cooperative governance of risky commons, (2013) Nature Climate Change, 3 (9) pp. 797-801 [(link)](http://web.ist.utl.pt/franciscocsantos/MyArticles/VasconcelosSantosPacheco.NatureClimateChange2013.pdf)
 
-[2] Vítor V. Vasconcelos, Francisco C. Santos, Jorge M. Pacheco and Simon A. Levin, Climate Policies under Wealth Inequality, (2014) Proceedings of the National Academy of Sciences (PNAS), 111 (6) p2212-2216 
+[2] Vítor V. Vasconcelos, Francisco C. Santos, Jorge M. Pacheco and Simon A. Levin, Climate Policies under Wealth Inequality, (2014) Proceedings of the National Academy of Sciences (PNAS), 111 (6) p2212-2216 [(link)](http://atpgroup.org/jmp/PDFs/174.pdf)
 
-[3] Phillip M. Hannam, Vítor V. Vasconcelos, Simon. A. Levin, Jorge M. Pacheco, Incomplete cooperation and co-benefits, (2015) Climatic Change, 1-15, Springer
+[3] Phillip M. Hannam, Vítor V. Vasconcelos, Simon. A. Levin, Jorge M. Pacheco, Incomplete cooperation and co-benefits, (2015) Climatic Change, 1-15, Springer [(link)](http://atpgroup.org/jmp/PDFs/197.pdf)
 
 [4] Vítor V. Vasconcelos, Phillip M. Hannam, Simon. A. Levin, Jorge M. Pacheco, Coalition-structured governance improves cooperation to provide public goods, (2020) Scientific Reports. <b>10</b>, 9194 [(link)]](https://www.nature.com/articles/s41598-020-65960-8)
 
