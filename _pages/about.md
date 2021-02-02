@@ -77,7 +77,7 @@ The Coral Triangle reef system (CT) is the epicenter of marine biodiversity and 
 
 [2] Lisa C. McManus, Vítor V. Vasconcelos, Simon A. Levin, Diane M. Thompson, Joan Á. Kleypas, Fredric S. Castruccio, Enrique N. Curchitser, James R. Watson. Extreme temperature events will drive coral decline in the Coral Triangle (2019) Global Change Biology 14972
 
-[3] Lisa C. McManus, Vítor V. Vasconcelos, Simon A. Levin, Fernando P. Santos, Diane M. Thompson, Joan Á. Kleypas, Fredric S. Castruccio, Enrique N. Curchitser, James R. Watso. Larval dispersal facilitates coral adaptive response on a spatially realistic network. (2020) In preparation for PLOS Computational Biology.
+[3] Lisa C. McManus, Vítor V. Vasconcelos, Simon A. Levin, Fernando P. Santos, Diane M. Thompson, Joan Á. Kleypas, Fredric S. Castruccio, Enrique N. Curchitser, James R. Watso. Larval dispersal facilitates coral adaptive response on a spatially realistic network. (2021) In preparation for PLOS Computational Biology.
 
 
 **Rapid Switch**
