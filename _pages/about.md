@@ -33,7 +33,7 @@ I work on a set of diverse problems with a set of amazing people.
 
 **Climate agreements**
 
-<img src="/images/ClimateAgreements.jpg" alt="Climate Agreements" width="800"
+<img src="/images/ClimateAgreements.png" alt="Climate Agreements" width="800"
          height=auto>
 
 Climate change governance opposes self- and collective-interest. It requires the study of mechanisms that promote cooperation – whether among countries, states, or local communities. I have developed evolutionary game theoretical models that describe dynamic, frequency-dependent decisions. The work my coauthors and I develop derives from and runs in parallel with experimental data collected in behavioral studies. We show how decisions within small groups significantly raise the chances of coordinating to save the planet’s climate, supporting the calls for a decentralized or polycentric way of management. This is the case when dealing with the goods themselves or with the sanctioning mechanisms to impose contributions.[1] We studied wealth inequality issues and their impact in the adaptive decision-making process of developed and developing countries.[2] I have also focused on empirical and theoretical analysis of the effect of co-benefits and overlapping coalitions on deepening cooperation,[3,4] namely on providing information about the unknown payoff structure of the climate game. In an ongoing work, based on a large body of experimental literature, we have shown that there is a strong interplay between the scale of the public good and the scale at which decisions for supporting institutions are made. In that interplay, providing information can hinder the sustainability self-govening cooperative groups or, through long-term learning, it can promote and stabilize them.[5]   
