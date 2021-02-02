@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vítor V. Vasconcelos"
 title_separator          : "-"
 name                     : &name "Vítor"
-description              : &description "Assistant Professor at the University of Amsterdam & Postdoctoral Research Associate at Princeton University"
+description              : &description "Assistant Professor at the University of Amsterdam & Visiting Research Associate at Princeton University"
 url                      : https://vvvasconcelos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vvvasconcelos.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Vítor V. Vasconcelos"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at the University of Amsterdam & Postdoctoral Research Associate at Princeton University"
+  bio              : "Assistant Professor at the University of Amsterdam & Visiting Research Associate at Princeton University"
   location         : "Amsterdam, NL & Princeton, NJ, USA"
   employer         : #"Princeton University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Vitor+V+Vasconcelos"
   googlescholar    : "https://scholar.google.com/citations?user=apDsBZoAAAAJ&hl=en"
-  email            : "vvvasconcelos@gmail.com"
+  email            : "v.v.vasconcelos@uva.nl"
   researchgate     : "https://www.researchgate.net/profile/V_Vasconcelos/" # example: "https://www.researchgate.net/profile/V_Vasconcelos/"
   uri              :
   bitbucket        :

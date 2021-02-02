@@ -18,10 +18,16 @@ Education
 
 Work experience
 ======
-* 2020-: Lecturer
+* 2020: Tenure Track Assistant Professor in Data-driven Systems Dynamics 
+  * University of Amsterdam, Informatics Institute and Institute for Advanced Studies.
+
+* 2020-2021: Visiting Research Associate
+  * Princeton University, Andlinger Center for Energy and the Environment & PIIRS.
+
+* 2020: Lecturer
   * Princeton University, Andlinger Center for Energy and the Environment.
 
-* 2019-2021: Postdoctoral Research Associate
+* 2019-2020: Postdoctoral Research Associate
   * Princeton University, Andlinger Center for Energy and the Environment & PIIRS
   * Supervisor: Simon A. Levin, Elke U. Weber
 
