@@ -11,6 +11,10 @@ redirect_from:
 **NEWS:** I am very happy to start a position at the University of Amsterdam. If you are thinking of starting graduate studies and are interested in learning and applying mathematical and computational tools to solving society's pressing problems, send me an email with your story and CV!
 
 All systems are prone to interference and shocks. Most have the ability to resist change, to adapt, and to repair to retain some sort of self-coherence. What mechanisms result in these abilities? How do they contribute to overall resilience? Can a system recover its coherence once it loses it? These are some of the fundamental questions I want to explore, using and developing a variety of mathematical and computational methods in a variety of fields. I am particularly interested in the study of systems involving humans, resources, and the institutions that govern them in order to solve societies most pressing issues. And we have many <i>'wicked'</i> ones! 
+
+<img src="/images/Resilience.jpg" alt="Resilience" width="200"
+         height="80">
+
 "I think the next [21st] century will be the century of <i>complexity</i>" [said](https://nl.newsbank.com/nl-search/we/Archives?p_product=SJ&p_theme=sj&p_action=search&p_maxdocs=200&s_dispstring=allfields(stephen)%20AND%20date(1/23/2000%20to%201/23/2000)&p_field_date-0=YMD_date&p_params_date-0=date:B,E&p_text_date-0=1/23/2000%20to%201/23/2000&p_text_advanced-0=(%22stephen%22)&xcal_numdocs=20&p_perpage=10&p_sort=YMD_date:D&xcal_useweights=no) Stephen Hawking, anticipating the way science is developing. Here, complexity refers a property of many systems and their emergent properties, which makes them hard to manage. Our collective inability to manage them means we face many systemic crises at once: climate change,
 growing inequality, a sixth mass extinction, the global spread of misinformation and health problems.
 
