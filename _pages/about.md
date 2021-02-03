@@ -46,7 +46,7 @@ I am an alcoholist and I enjoy drinking, I like:
 
 - beers, including Pale Ale (I like **Ballast Point**, **Brooklyn**, **Dogfish** and **BrewDog**.), Trappist (I like **Rochefort** and **Chimay**.) and Hefeweizen (I think **Franziskaner** is good enough.),
 
-- Vodka (**Smirnoff Black, Grey Goose and Russian Standards**.), 
+- Vodka (**Smirnoff Black, Grey Goose and Russian Standards** are of high quality.), 
 
 - Whiskey (For single malts, I like **Talisker and Lagavulin**. For blended, **Johnnie Walker Double Black** is worth a try). 
 
