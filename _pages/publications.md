@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles in [my Google Scholar](https://scholar.google.com/citations?user=y3yJm98AAAAJ&hl=en). <br>
 (<sup>\*</sup> indicates equal contribution. )
 
+## 2021
+* **GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks* <br>
+Yi Li, **Yilun Jin**, Guojie Song, Zihao Zhu, Chuan Shi, Yiming Wang. To appear in *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021
+
 ## 2020
 * **GraLSP: Graph Neural Networks with Local Structural Patterns** \[[pdf](https://kl4805.github.io/files/aaai20.pdf)\]\[[code](https://github.com/KL4805/GraLSP)\] <br>
 **Yilun Jin**, Guojie Song, Chuan Shi. In *The 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020
