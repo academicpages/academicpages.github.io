@@ -32,11 +32,11 @@ redirect_from:
 
 ## In Preparation
 
-- **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. With Andrea Canales. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **Data collection**
+- **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. With Andrea Canales (UOH). <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **Data collection**
 
 - **Vote Selling in the United States: Introducing Machine Learning Methods to Analyzing Conjoint Experimental Data**. With Cristobal Quininao (UOH). <br/> [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt). **Data analyses**
 
-- **Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times**. With Paz Irarrazabal <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt). **Data analyses**
+- **Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times**. With Paz Irarrazabal (UOH). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt). **Data analyses**
 
 - **Not Just Guns or Butter, but What Came First---Guns or Butter? Introducing GVAR to International Relations**. With Igor Kovac (U Cincinnati). <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt). **Data analyses**
 
