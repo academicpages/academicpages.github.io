@@ -21,7 +21,7 @@ image:
 
 _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 
-[Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/CV/CV.pdf)
+[Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV.pdf)
 
 Updated: January 2021
 
