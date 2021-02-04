@@ -8,8 +8,6 @@ date: 2021-02-18
 location: "Oxford, UK"
 ---
 
-This is a list of lectures I have given in person and online.
-
 Climate models
 ======
 Oxford University, UNIQ Summer school 2018 and 2019
