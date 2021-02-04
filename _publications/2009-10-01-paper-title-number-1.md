@@ -2,7 +2,7 @@
 title: "What sort of representations explain capacity limits in visual working memory?"
 collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: {% include youtubePlayer.html id="TLvh2EuWP4s" %}
+# excerpt: ''
 # date: 2009-10-01
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
