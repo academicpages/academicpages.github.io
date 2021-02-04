@@ -9,9 +9,9 @@ redirect_from:
 
 ## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
 
-![Interpolations in Latent Space](http://academicpages.github.io/images/transformations.gif)
+![Interpolations in Latent Space](http://feziodoshi.github.io/images/transformations.gif)
 
-![Stabilizing an unstable block](http://academicpages.github.io/images/stabilize_block.gif)
+![Stabilizing an unstable block](http://feziodoshi.github.io/images/stabilize_block.gif)
 
 ## What representations explain capacity limits in visual working memory?
 
