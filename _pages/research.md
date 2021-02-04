@@ -7,11 +7,21 @@ redirect_from:
   - /publications
 ---
 
-{% include base_path %}
+## How does human vision leverage perceptual features as optimal proxies for intuitive phys- ical reasoning?
+
+## What representations explain capacity limits in visual working memory?
+
+{% include youtubePlayer.html id="TLvh2EuWP4s" %}
+
+
+
+
+
+<!-- {% include base_path %}
 
 _Full publication list on [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/), [ORCID](ttp://orcid.org/0000-0001-8180-3267), [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50), and [Google Scholar](https://scholar.google.com/citations?user=YGv9YqAAAAAJ&hl=en)_
 
-<!-- ## Investigating how medial entorhinal cortical sequences support spatial navigation and learning
+## Investigating how medial entorhinal cortical sequences support spatial navigation and learning
 _Postdoctoral fellow in Dr. Lisa Giocomo's lab at Stanford University, November 2019 - Present_
 
 ![Postdoc project](../images/Aims.png)
