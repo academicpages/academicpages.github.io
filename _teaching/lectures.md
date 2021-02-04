@@ -20,12 +20,14 @@ A memorable guest seminar was one that I taught on "CLIVAR VACS Climate Atlas" t
 
 Climate mobilities 
 ======
+
 Geography Taster Day 2020
+------
 I also enjoyed conducting a participatory class experiment and the lecture that I gave on educational migration for Year 12 students of under-represented backgrounds during the 2020 Geography Taster Day at my college, Christ Church (Oxford University). 
 
-======
+Dryland migration webinar 2019
+------
 United Nations University, Drought Impacts: Migration
-Webinar, 
 
 The webinar investigated the interlinkage between drought and migration, exploring how drought affects vulnerability and the ability of communities to cope with the impacts of drought. 
 
