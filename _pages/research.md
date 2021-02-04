@@ -12,7 +12,7 @@ redirect_from:
 Collaborators: [Colin Conwell] and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
 * Conwell, C., Doshi, F., Alvarez, G.A.(2019). Shared Representations of Stability in Humans, Supervised, & Unsupervised Neural Networks. In Shared Visual Representations in Human and Machine Intelligence (SVRHM) workshop at NeurIPS 2019.
 * Conwell, C., Doshi, F., Alvarez, G.A.(2019). Human-Like Judgments of Stability Emerge from Purely Perceptual Features: Evidence from Supervised and Unsupervised Deep Neural Networks. In Proceedings of the 3rd Conference on Cognitive Computational Neuroscience (CCN), 2019.
-![Interpolations in Latent Space](http://feziodoshi.github.io/images/transformations.gif =200x200)
+![Interpolations in Latent Space](http://feziodoshi.github.io/images/transformations.gif)
 
 
 ## What representations explain capacity limits in visual working memory?
