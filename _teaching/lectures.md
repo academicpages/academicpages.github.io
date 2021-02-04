@@ -34,5 +34,5 @@ The webinar investigated the interlinkage between drought and migration, explori
 [Details here](https://grow-globedrought.net/webinar/drought-impacts-i-migration/).
 
 A recording can be found [here](https://www.youtube.com/watch?v=yEll0hJVEmc).
-![300](https://www.youtube.com/watch?v=yEll0hJVEmc)
+
 [![GlobeDrought Webinar 2](https://i.ytimg.com/vi/yEll0hJVEmc/maxresdefault.jpg)](https://youtu.be/yEll0hJVEmc?t=1613 "GlobeDrought Webinar 2")
