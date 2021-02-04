@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "Research_1"
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
   - /publications
 ---
 
-## How does human vision leverage perceptual features as optimal proxies for intuitive phys- ical reasoning?
+## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
+
+![Interpolations in Latent Space](http://academicpages.github.io/images/transformations.gif)
+
+![Stabilizing an unstable block](http://academicpages.github.io/images/stabilize_block.gif)
 
 ## What representations explain capacity limits in visual working memory?
 
