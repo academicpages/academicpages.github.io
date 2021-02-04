@@ -25,4 +25,4 @@ Collaborators: [Hrag Pailian](https://www.hragpailian.com) and [George Alvarez](
 {% include youtubePlayer.html id="TLvh2EuWP4s" description="Poster Presentation at VSS, 2020" %}
 
 
-Also check out Hrag's talk [here](https://www.youtube.com/watch?v=WYJMv55Z8-0&feature=emb_logo)
+Also check out Hrag's talk [here](https://www.youtube.com/watch?v=WYJMv55Z8-0&feature=emb_logo)!
