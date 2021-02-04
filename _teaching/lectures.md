@@ -14,7 +14,7 @@ Oxford University, UNIQ Summer school 2018 and 2019
 Introduction to the [CLIVAR VACS Climate Atlas](https://www.clivar.org/panels-and-working-groups/africa/vacs).
 A memorable guest seminar was one that I taught on "CLIVAR VACS Climate Atlas" to a class of prospective undergraduate students at the School of Geography and the Environment in Oxford as part of the UNIQ summer school (see photo). 
 
-![UNIQ](https://pbs.twimg.com/media/DhG3eN0WkAA4ueP?format=jpg&name=large)
+![UNIQ](https://pbs.twimg.com/media/DhG3eN0WkAA4ueP?format=jpg)
 
 Climate mobilities 
 ======
@@ -33,4 +33,4 @@ The webinar investigated the interlinkage between drought and migration, explori
 
 A recording can be found [here](https://www.youtube.com/watch?v=yEll0hJVEmc).
 
-[![GlobeDrought Webinar 2](https://i.ytimg.com/vi/yEll0hJVEmc/maxresdefault.jpg)](https://youtu.be/yEll0hJVEmc?t=1613 "GlobeDrought Webinar 2")
+[![GlobeDrought Webinar 2](https://i.ytimg.com/vi/yEll0hJVEmc/maxresdefault.jpg =250x)](https://youtu.be/yEll0hJVEmc?t=1613 "GlobeDrought Webinar 2")
