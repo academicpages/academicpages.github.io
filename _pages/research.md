@@ -24,11 +24,11 @@ redirect_from:
 ## Under Review, Revise and Resubmit, Submitted
 
 
-- **Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015**. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **Revise and resubmit, European Journal of Political Economy**
+- Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015. With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacities/raw/master/Bahamonde_Trasberg.pdf). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Inequality_State_Capacities/master/abstract.txt). **Revise and resubmit, European Journal of Political Economy**
 
-- **Vote Selling in the United States: Introducing Support Vector Machine Methods to Analyzing Conjoint Experimental Data**. With Cristobal Quininao (UOH). <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint.pdf). **Submitted, Political Science Research and Methods**
+- Vote Selling in the United States: Introducing Support Vector Machine Methods to Analyzing Conjoint Experimental Data. With Cristobal Quininao (UOH). <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt) **Submitted, Political Science Research and Methods**
 
-- **Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Submitted, Public Administration and Development**
+- Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Submitted, Public Administration and Development**
 
 
 
