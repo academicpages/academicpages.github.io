@@ -9,14 +9,17 @@ redirect_from:
 
 ## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
 
+Collaborators: [Colin Conwell] and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
 ![Interpolations in Latent Space](http://feziodoshi.github.io/images/transformations.gif)
+* Conwell, C., Doshi, F., Alvarez, G.A.(2019). Shared Representations of Stability in Humans, Supervised, & Unsupervised Neural Networks. In Shared Visual Representations in Human and Machine Intelligence (SVRHM) workshop at NeurIPS 2019.
+* Conwell, C., Doshi, F., Alvarez, G.A.(2019). Human-Like Judgments of Stability Emerge from Purely Perceptual Features: Evidence from Supervised and Unsupervised Deep Neural Networks. In Proceedings of the 3rd Conference on Cognitive Computational Neuroscience (CCN), 2019.
 
-![Stabilizing an unstable block](http://feziodoshi.github.io/images/stabilize_block.gif)
+
 
 ## What representations explain capacity limits in visual working memory?
-
+Collaborators: [Hrag Pailian](https://www.hragpailian.com) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
 {% include youtubePlayer.html id="TLvh2EuWP4s" %}
-
+* Doshi, F., Pailian, H.,  Alvarez, G.A.(2020). Using Deep Convolutional Neural Networks to Examine the Role of Representational Similarity in Visual Working Memory. In Vision Science Society, 2020.
 
 
 
