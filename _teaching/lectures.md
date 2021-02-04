@@ -9,7 +9,6 @@ location: "Oxford, UK"
 ---
 
 
-
 Climate models
 ======
 Oxford University, UNIQ Summer school 2018 and 2019
