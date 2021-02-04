@@ -8,7 +8,7 @@ date: 2021-02-18
 location: "Oxford, UK"
 ---
 
-This is a list of lectures I have given in person and online.
+
 
 Climate models
 ======
@@ -16,7 +16,7 @@ Oxford University, UNIQ Summer school 2018 and 2019
 Introduction to the [CLIVAR VACS Climate Atlas](https://www.clivar.org/panels-and-working-groups/africa/vacs).
 A memorable guest seminar was one that I taught on "CLIVAR VACS Climate Atlas" to a class of prospective undergraduate students at the School of Geography and the Environment in Oxford as part of the UNIQ summer school (see photo). 
 
-![UNIQ](https://pbs.twimg.com/media/DhG3eN0WkAA4ueP?format=jpg&name=large)
+![UNIQ](https://pbs.twimg.com/media/DhG3eN0WkAA4ueP?format=jpg)
 
 Climate mobilities 
 ======
