@@ -8,8 +8,9 @@ date: 2021-02-18
 location: "Oxford, UK"
 ---
 
+This is a list of lectures I have given on climate science and human responses to extreme weather events and climate change. 
 
-Climate models
+Climate science
 ======
 Oxford University, UNIQ Summer school 2018 and 2019
 Introduction to the [CLIVAR VACS Climate Atlas](https://www.clivar.org/panels-and-working-groups/africa/vacs).
