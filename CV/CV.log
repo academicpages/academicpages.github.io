@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.2)  14 JAN 2021 19:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.2)  5 FEB 2021 08:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,7 +220,7 @@ Overfull \hbox (5.74945pt too wide) in paragraph at lines 101--102
 [2
 
 ] [3] [4] [5] [6] [7] [8]
-Overfull \hbox (34.24142pt too wide) in paragraph at lines 432--441
+Overfull \hbox (34.24142pt too wide) in paragraph at lines 434--443
 [][] 
  []
 
@@ -230,11 +230,11 @@ AED: lastpage setting LastPage
 Here is how much of TeX's memory you used:
  2557 strings out of 481258
  36848 string characters out of 5914854
- 323306 words of memory out of 5000000
+ 322306 words of memory out of 5000000
  19486 multiletter control sequences out of 15000+600000
  409506 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 80i,10n,82p,1579b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,11n,82p,1579b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusn.pinto-ledezma/
@@ -244,7 +244,7 @@ usn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 c/amsfonts/cm/cmsy10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusn.pinto-ledezma/Librar
 y/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (10 pages, 141939 bytes).
+Output written on CV.pdf (10 pages, 142468 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

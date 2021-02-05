@@ -25,7 +25,9 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ## Published
 
-### 2020 -
+### 2020 - 2021
+Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, __J.N. Pinto-Ledezma__, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis and Y. Yang. (2021). [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). _Research Ideas and Outcomes, 7: e63850_.
+
 __Pinto-Ledezma, J.N.__, F. Villalobos, P.R. Reich, J.A. Catford, D.L. Larkin & J. Cavender-Bares. 2020. [Testing Darwin's naturalization conundrum based on taxonomic, phylogenetic and functional dimensions of vascular plants](https://doi.org/10.1002/ecm.1420). _Ecological Monographs, 90(4): e01420_.
 
 Cavender-Bares, J., C. Fontes & __J.N. Pinto-Ledezma__. 2020. [Open questions in understanding the adaptive significance of plant functional trait variation within a single lineage](https://doi.org/10.1111/nph.16652). _New Phytologist, 227(3): 659-663_.
