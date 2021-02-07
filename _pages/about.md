@@ -21,7 +21,7 @@ News
 ======
 * [2021/02/06] &nbsp; I receive the 2021 CSE Outstanding Graduate Student Award.
 * [2020/10/25] &nbsp; I'm selected as ECCV 2020 Outstanding Reviewer.
-* [2020/09/28] &nbsp; The slides of IJCB 2020 Face Anti-Spoofing and Face Manipulation Detection Tutorial can be download here [[1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
+* [2020/09/28] &nbsp; The slides of IJCB'20 Face Anti-Spoofing and Manipulation Detection Tutorial can be download here [[1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
 * [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
 * [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
 * [2020/01/15] &nbsp; I give a talk at Sichuan University.
