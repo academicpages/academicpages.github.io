@@ -21,12 +21,12 @@ News
 ======
 * [2021/02/06] &nbsp; I receive the 2021 CSE Outstanding Graduate Student Award.
 * [2020/10/25] &nbsp; I'm selected as ECCV 2020 Outstanding Reviewer.
-* [2020/09/28] &nbsp; The slides of IJCB 2020 Face Anti-Spoofing and Face Manipulation Detection Tutorial can be download here [[Session 1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [Session 2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [Session 3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
+* [2020/09/28] &nbsp; The slides of IJCB 2020 Face Anti-Spoofing and Face Manipulation Detection Tutorial can be download here [[1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
 * [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
 * [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
 * [2020/01/15] &nbsp; I give a talk at Sichuan University.
 * [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
-* [2019/09/24] &nbsp; The slides of BTAS 2019 Face Anti-Spoofing Tutorial can be download here [[Session 1](https://drive.google.com/open?id=1A_4pMeOJbnWE4leAfK8v7w9Bb1RnUxRq), [Session 2](https://drive.google.com/open?id=12-R-xE4gksWWUnq1nRIus6VKQnScRBiR), [Session 3](https://drive.google.com/open?id=1B_mFgTH5wRw9eY0L6kGFR0h8Hgib5gwi)].
+* [2019/09/24] &nbsp; The slides of BTAS 2019 Face Anti-Spoofing Tutorial can be download here [[1](https://drive.google.com/open?id=1A_4pMeOJbnWE4leAfK8v7w9Bb1RnUxRq), [2](https://drive.google.com/open?id=12-R-xE4gksWWUnq1nRIus6VKQnScRBiR), [3](https://drive.google.com/open?id=1B_mFgTH5wRw9eY0L6kGFR0h8Hgib5gwi)].
 * [2019/09/01] &nbsp; [SiW-M Dataset](http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html) is released and open to both academia and industrial institutes for research purposes!
 * [2019/06/22] &nbsp; I write a [tutorial](https://github.com/yaojieliu/dataset-watchdog) on how to use Google Forms and Google Spreadsheet to manage a dataset with access control.
 * [2019/06/18] &nbsp; Our paper "Deep Tree Learning for Zero-shot Face Anti-Spoofing" is the best paper finalist in CVPR 2019.
