@@ -19,7 +19,7 @@ I'm currently actively looking for a full-time position in 2021 Spring in the ar
 
 News
 ======
-* [2020/10/25] &nbsp; I receive the 2021 CSE Outstanding Graduate Student Award.
+* [2021/02/06] &nbsp; I receive the 2021 CSE Outstanding Graduate Student Award.
 * [2020/10/25] &nbsp; I'm selected as ECCV 2020 Outstanding Reviewer.
 * [2020/09/28] &nbsp; The slides of IJCB 2020 Face Anti-Spoofing and Face Manipulation Detection Tutorial can be download here [[Session 1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [Session 2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [Session 3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
 * [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
