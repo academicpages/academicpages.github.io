@@ -7,6 +7,11 @@ author_profile: true
 [[Home](https://yaojieliu.github.io)]
 
 <p align="left">
+  <img src="https://yaojieliu.github.io/images/1612058387269.jpeg?raw=true" alt="Photo" style="width: 60%;"/>
+</p>
+
+
+<p align="left">
   <img src="https://yaojieliu.github.io/images/Fun1.jpg?raw=true" alt="Photo" style="width: 60%;"/>
 </p>
 
