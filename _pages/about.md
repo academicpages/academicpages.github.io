@@ -12,4 +12,4 @@ Hello, I am **Natalí Soler Matubaro de Santi**, a theoretical physicist interes
 
 Since I was a child I am fascinated by science, mostly Astronomy and Physics and computers (as you can see in the below pic).
 
-<img style="float: left;" src=https://raw.githubusercontent.com/natalidesanti/natalidesanti.github.io/master/images/4years.png width="150">
+![](https://raw.githubusercontent.com/natalidesanti/natalidesanti.github.io/master/images/4years.png)
