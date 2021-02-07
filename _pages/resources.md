@@ -20,6 +20,7 @@ Coding
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund
 * [Advanced R](https://adv-r.hadley.nz/index.html) by Hadley Wickham
 * [Tidy evaluation](https://tidyeval.tidyverse.org/welcome.html) by Lionel Henry & Hadley Wickham
+* [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge & David Robinson
 * [Mastering Spark with R](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, Edgar Ruiz
 * [Tidy Modeling with R](https://www.tmwr.org/index.html) by Max Kuhn & Julia Silge
 * [HackerRank](https://www.hackerrank.com/) for coding practice in multiple programming languages esp. SQL and Python
