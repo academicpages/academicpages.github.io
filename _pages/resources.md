@@ -38,6 +38,7 @@ Modeling
 * [Neuromatch Acadmy Course Materials](https://www.neuromatchacademy.org/syllabus)
 * [Neurohackademy Course Videos](https://www.youtube.com/channel/UCLKSeDZWDqBzKRfHTabg1lQ) through UW eScience Institute
 * [Foundations of Machine Learning](http://www.deltanalytics.org/curriculum.html) curriculum slides and code for core machine learning concepts
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn & Kjell Johnson
 * [Kaggle](https://www.kaggle.com/) for downloading some fun public datasets to try out machine learning algorithms
 
 <br> 
