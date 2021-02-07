@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Mass Evolution of Schwarzschild Black Holes"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+excerpt: 'This paper contains the numerical results from my Masters.'
+date: 2019-10-31
+venue: 'Brazilian Journal of Physics'
+paperurl: 'https://link.springer.com/article/10.1007%2Fs13538-019-00708-y'
+citation: 'de Santi, N.S.M., Santarelli, R. Mass Evolution of Schwarzschild Black Holes. Braz J Phys 49, 897–913 (2019). https://doi.org/10.1007/s13538-019-00708-y'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The open acess in given on the following link:
+[Download paper here](https://arxiv.org/pdf/1906.07088.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: de Santi, N.S.M., Santarelli, R. Mass Evolution of Schwarzschild Black Holes. Braz J Phys 49, 897–913 (2019). https://doi.org/10.1007/s13538-019-00708-y
