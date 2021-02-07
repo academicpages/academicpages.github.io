@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Unraveling Hawking radiation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: http://www.scielo.br/pdf/rbef/v41n3/1806-9126-RBEF-41-3-e20180312.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019-03-11
+venue: 'Revista Brasileira de Ensino de Física,'
+paperurl: 'http://www.scielo.br/pdf/rbef/v41n3/1806-9126-RBEF-41-3-e20180312.pdf'
+citation: 'Santi, Natali Soler Matubaro de, & Santarelli, Raphael. (2019). Desvendando a radiação Hawking. Revista Brasileira de Ensino de Física, 41(3), e20180312. Epub March 11, 2019.https://doi.org/10.1590/1806-9126-rbef-2018-0312'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://www.scielo.br/pdf/rbef/v41n3/1806-9126-RBEF-41-3-e20180312.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Santi, Natali Soler Matubaro de, & Santarelli, Raphael. (2019). Desvendando a radiação Hawking. Revista Brasileira de Ensino de Física, 41(3), e20180312. Epub March 11, 2019.https://doi.org/10.1590/1806-9126-rbef-2018-0312.
