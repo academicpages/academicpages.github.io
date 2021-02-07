@@ -85,7 +85,7 @@ author:
   bio              : "I am a theoretical physicist interested in computational physics, cosmology, data science and machine learning"
   location         : "São Paulo, SP, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=NWv8MRUAAAAJ"
   email            : "natalidesanti@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/natalidesanti"
+  github           : "natalidesanti"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/natalidesanti/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/natal%C3%AD-de-santi-45b399167/"
+  linkedin         : "natalidesanti"
   orcid            : "http://orcid.org/0000-0002-4728-6881"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/natalidesanti"
+  youtube          : "natalidesanti"
   wikipedia        :
 
 
