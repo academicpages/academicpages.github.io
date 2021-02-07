@@ -28,7 +28,7 @@ News
 * [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
 * [2019/09/24] &nbsp; The slides of BTAS 2019 Face Anti-Spoofing Tutorial can be download here [[1](https://drive.google.com/open?id=1A_4pMeOJbnWE4leAfK8v7w9Bb1RnUxRq), [2](https://drive.google.com/open?id=12-R-xE4gksWWUnq1nRIus6VKQnScRBiR), [3](https://drive.google.com/open?id=1B_mFgTH5wRw9eY0L6kGFR0h8Hgib5gwi)].
 * [2019/09/01] &nbsp; [SiW-M](http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html) is released and open to both academia and industrial institutes for research purposes!
-* [2019/06/22] &nbsp; I write a [tutorial](https://github.com/yaojieliu/dataset-watchdog) on how to use Google Forms/Spreadsheet to manage a dataset with access control.
+* [2019/06/22] &nbsp; I write a [tutorial](https://github.com/yaojieliu/dataset-watchdog) on dataset access management via Google Forms/Spreadsheet.
 * [2019/06/18] &nbsp; Our paper "Deep Tree Learning for Zero-shot Face Anti-Spoofing" is the best paper finalist in CVPR 2019.
 * [2019/05/24] &nbsp; [SiW Database](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html) now is open to industrial institutes for research purposes.
 * [2019/04/15] &nbsp; One paper accepted to CVPR 2019 as Oral Presentation.
