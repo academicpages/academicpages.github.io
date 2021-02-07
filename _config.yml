@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natalí de Santi / My personal page"
+title                    : "My personal page"
 title_separator          : "-"
 name                     : &name "Natalí de Santi"
 description              : &description "I am a theoretical physicist interested in computational physics, cosmology, data science and machine learning"
