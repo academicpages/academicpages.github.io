@@ -4,21 +4,21 @@ permalink: /research/
 author_profile: true
 ---
 
-[(Google Scholar Profile)](https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ)
+[Active Reseach](#active) [Publications](#pubs) [(Google Scholar Profile)](https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ)
 
-### Working Papers
+<h2 id="active">
+Active Research
+</h2>
+
+#### Working Papers
 
 * "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/20191025_Severen_LAMetro_New.pdf)", [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf).
     * Revision requested at the *Review of Economics and Statistics*.
 
-* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/SVB_GasPrice_Draft_20200528.pdf)" (with [Arthur van Benthem][avb]), [(slides)](https://cseveren.github.io/files/202002_SvB_FormativeExperiences.pdf).
-    * Revision requested at *AEJ: Applied*. [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
-    * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
-
 * "[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020).
 
 
-### Selected Works in Progress
+#### Selected Works in Progress
 
 * "Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Outcomes" (with [Valerie Bostwick][vkb]).
     * Draft coming soon.
@@ -27,7 +27,15 @@ author_profile: true
 
 * "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
 
-### Refereed Publications
+<h2 id="pubs">
+Publications
+</h2>
+
+#### Peer-Reviewed Publications in Economics
+
+* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]), [(recent slides)](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf).
+    * Conditional Accept at *AEJ: Applied*. [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
+    * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
 
 * "[Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020).
     * ([older NBER Working Paper](https://www.nber.org/papers/w21414))
@@ -38,11 +46,11 @@ author_profile: true
 * "[A forward-looking Ricardian approach: Do land markets capitalize climate change forecasts?](https://www.sciencedirect.com/science/article/pii/S0095069618301177)" with [Chris Costello][ccostello], and [Olivier Deschênes][odeschenes]. *Journal of Environmental Economics and Management* 89 (2018): 235-254.
     * [Pre-print version](https://cseveren.github.io/files/ricardian_Final.pdf), [Supplemental Material](https://cseveren.github.io/files/ricardian_Appendix.pdf)
 
-### Books, Chapters, and Essays
+#### Books, Chapters, and Essays
 
 * "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/the-economy/regional-economics/a-ticket-to-ride-estimating-the-benefits-of-rail-transit)." *Economic Insights* 5, no. 2 (2020).
 
-### Other Peer-Reviewed Publications
+#### Other Peer-Reviewed Publications
 
 * "What is Marine Justice?" with J Martin, S Gray, E Aceves-Bueno, P Alagona, T Elwell, A Garcia, Z Horton, D Lopez-Carr, J Marter-Kenyon, K Miller, T Shewry, B Twohey. *Journal of Environmental Studies and Sciences* 9, no. 2 (2019): 234–243.
 
