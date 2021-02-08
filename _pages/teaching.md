@@ -20,8 +20,12 @@ _Illuminating our understanding of nature, that's what it's about_. __--Peter A.
 
 ## Core teaching
 __University of Minnesota, Saint Paul, MN, USA__
-* __Biodiversity Science (EEB 3534, 5534)__. Spring 2020. Main instructor. College of Biological Sciences. Access to course description and material (including R tutorials) [here](https://github.com/jesusNPL/BiodiversityScience).
-* __Biodiversity Science (EEB 3534, 5534)__. Spring 2019. Co-taught with Professor Jeannine Cavender-Bares as a postdoctoral lecturer. College of Biological Sciences. Access to course description and material (including R tutorials) [here](https://github.com/jesusNPL/BiodiversityScience).   
+
+* __Biodiversity Science (EEB 3534, 5534)__. Spring 2021. College of Biological Sciences. Access to course description and material [here](https://github.com/jesusNPL/BiodiversityScience).
+__R tutorials__ [1) R-Intro](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2021/01_Practice_R-Intro_2021.html). [2) Introduction to Phylogenies and the Comparative Method](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2021/02_Practice_Intro_PCM_2021.html).
+
+* __Biodiversity Science (EEB 3534, 5534)__. Spring 2020. Main instructor. College of Biological Sciences. Access to course description and material (including R tutorials) [here](https://github.com/jesusNPL/BiodiversityScience/tree/master/Spring2020).
+* __Biodiversity Science (EEB 3534, 5534)__. Spring 2019. Co-taught with Professor Jeannine Cavender-Bares as a postdoctoral lecturer. College of Biological Sciences. Access to course description and material (including R tutorials) [here](https://github.com/jesusNPL/BiodiversityScience/tree/master/Spring2019).   
 
 __Universidade Federal de Goiás, Goiânia, Brazil__
 * __Phylogenetic comparative methods__. One intensive course (December 2016). Teaching assistant. Programa de Pós-Graduação em Ecologia e Evolução, Instituto de Ciências Biológicas. Taught in Portuguese. Course material [here](http://dinizfilho.wixsite.com/dinizfilholab/phylogeneticcomparativemethods).   
