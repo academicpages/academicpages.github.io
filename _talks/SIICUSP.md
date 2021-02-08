@@ -1,5 +1,5 @@
 ---
-title: "Synthesis and characterization of BaTi$_{0.9}$Zr$_{0.1}$O$_3$ powders"
+title: "Synthesis and characterization of BaTi0.9Zr0.1O3 powders"
 collection: talks
 type: "Symposium"
 permalink: https://uspdigital.usp.br/siicusp/cdOnlineTrabalhoVisualizarResumo?numeroInscricaoTrabalho=3738&numeroEdicao=20
