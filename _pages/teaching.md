@@ -27,7 +27,7 @@ __R tutorials:__ [1) R-Intro](https://htmlpreview.github.io/?https://github.com/
 * __Biodiversity Science (EEB 3534, 5534)__. Spring 2019. Co-taught with Professor Jeannine Cavender-Bares as a postdoctoral lecturer. College of Biological Sciences. Access to course description and material (including R tutorials) [here](https://github.com/jesusNPL/BiodiversityScience/tree/master/Spring2019).   
 
 __Universidade Federal de Goiás, Goiânia, Brazil__
-* __Phylogenetic comparative methods__. One intensive course (December 2016). Teaching assistant. Programa de Pós-Graduação em Ecologia e Evolução, Instituto de Ciências Biológicas. Taught in Portuguese. Course material [here](http://dinizfilho.wixsite.com/dinizfilholab/phylogeneticcomparativemethods).   
+* __Phylogenetic comparative methods__. One intensive course (December 2016). Teaching assistant. Programa de Pós-Graduação em Ecologia e Evolução, Instituto de Ciências Biológicas. Taught in Portuguese. Course material [here](https://dinizfilho.wixsite.com/dinizfilholab/phylogenetic-comparative-methods).   
 
 __Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia__
 * __Vertebrate zoology (ZOO-344)__. 2 courses (Spring-Summer 2012 and 2013). Guest lecturer. Carrera de Biología, Facultad de Ciencias Agrícolas. Taught in Spanish.
