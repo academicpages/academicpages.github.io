@@ -4,7 +4,7 @@ collection: teaching
 type: "Monitor"
 permalink: 
 venue: "University of São Paulo (USP)"
-date: First semester, 2020
+date: 2020/1
 location: "São Paulo, SP, Brazil"
 ---
 
