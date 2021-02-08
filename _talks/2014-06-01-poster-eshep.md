@@ -8,4 +8,4 @@ date: 2014-06-01
 location: "Garderen (NL)"
 ---
 
-[Download slides here](https://indico.cern.ch/event/740110/contributions/3192750/)
+[Download poster here](https://github.com/rteixeiradelima/rteixeiradelima.github.io/raw/master/slides/poster_eshep_v2.pdf)
