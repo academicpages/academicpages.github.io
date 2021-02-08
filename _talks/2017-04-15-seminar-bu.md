@@ -3,7 +3,7 @@ title: "Beyond The Standard Model Higgs Searches with Photons at CMS"
 collection: talks
 type: "Seminar"
 permalink: /talks/2017-04-15-seminar-bu
-venue: "Boston University"
+venue: "Boston University Physics Seminar"
 date: 2017-04-15
 location: "Boston MA (US)"
 ---

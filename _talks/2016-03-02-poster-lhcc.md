@@ -1,5 +1,5 @@
 ---
-title: "CMS Searches for $h(125)\rightarrow\gamma(\gamma)$+MET and Run II Projections"
+title: "CMS Searches for BSM Higgs decays to photons and MET and Run II Projections"
 collection: talks
 type: "Poster"
 permalink: /talks/2016-03-02-poster-lhcc
