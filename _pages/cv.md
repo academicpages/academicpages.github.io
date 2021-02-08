@@ -11,30 +11,66 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of São Paulo, 2012 - 2015
+* M.S. in Physics, University Federal of São Carlos, 2016 - 2018
+* Ph.D in Physics, University of São Paulo, 2019 - in course
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - in course: Candidate to doctor degree in Physics
+  * University of São Paulo
+  * Supervisor: Professor Luis Raul Weber Abramo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - 2018: Master degree in Physics
+  * University Federal of São Carlos
+  * Supervisor: Professor Raphael Santarelli
+
+* 2017: Participation of event organizing committee
+  * University Federal of São Carlos
+  * XIII Semana de Física (XIII SeFís)
+
+* 2014 - 2015: Scientific initiation
+  * University of São Paulo
+  * Project title: Introduction to particle physics with emphasis on quantum fluctuations
+  * Supervisor: Professor Attilio Cucchieri
+
+* 2012: Scientific initiation
+  * University of São Paulo
+  * Project title: Synthesis and characterization of BaTi0.9Zr0.1O3 powders
+  * Supervisor: Professor Antonio Carlos Hernandes
+
+* 2009 - 2011: Pre-scientific initiation
+  * University of São Paulo
+  * Project title: Study of superconductivity and development of a superconductor material
+  * Supervisor: Professor Antonio Carlos Hernandes
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Languages
+  * C
+  * Cython
+  * Fortran
+  * Python
+  * SQL
+* Tools
+  * Emacs
+  * Gimp
+  * Git
+  * Inkscape
+  * Jupyter Notebooks
+  * Kdenlive
+  * LaTeX
+  * Mathematica
+  * Matlab
+  * Office Package
+  * Sony Vegas
+  * Vim
+  * Windows Movie Maker
+* Languages
+  * Native speaker in Portuguese
+  * High-Intermediate in English
+  * Beginner in Spanish
 
 Publications
 ======
@@ -54,6 +90,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* First best poster award in Master’s degree - XIII Semana de Física (XIII SeFís), 2017
+* Certificate of merit - Best student of the 3rd year of high school, 2011
+* Certificate of merit - Best student of the 8th grade elementary school II, 2008
+* Silver medal - X Brazilian Astronomy and Astronautics Olympiad (X OBA), 2007
+* Honorable mention - II Brazilian Olympiad of Mathematics of Public schools (II OBMEP), 2006
+* Silver medal - VIII Brazilian Astronomy and Astronautics Olympiad (VIII OBA), 2005
