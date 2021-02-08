@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2021 - New preprint on arxiv: "When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data" [[pdf]](https://arxiv.org/abs/2102.02201) [[code]](https://github.com/peterbhase/ExplanationRoles)
 * 2020 - New preprint on arxiv! "FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging" [[pdf]](https://arxiv.org/abs/2012.15781) [[code]](https://github.com/salesforce/fast-influence-functions)
 * 2020 - Recognized as an [Outstanding Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf#page=29) for EMNLP 2020
 * 2020 - Paper accepted into [Findings of EMNLP](https://2020.emnlp.org/), "Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?" [[pdf]](https://arxiv.org/abs/2010.04119) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)
