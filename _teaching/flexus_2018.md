@@ -1,7 +1,7 @@
 ---
 title: "Private teacher"
 collection: teaching
-type: "Undergraduate lectures"
+type: "Undergraduate revision lectures"
 permalink: 
 venue: "Flexus Educacional LTDA-ME"
 date: December, 2018
