@@ -18,6 +18,7 @@ Coding
 ======
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund
+* [Learning Statistics with R](https://learningstatisticswithr.com/book/) by Danielle Navarro
 * [Advanced R](https://adv-r.hadley.nz/index.html) by Hadley Wickham
 * [Tidy evaluation](https://tidyeval.tidyverse.org/welcome.html) by Lionel Henry & Hadley Wickham
 * [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge & David Robinson
