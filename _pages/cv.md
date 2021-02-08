@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, University of São Paulo, 2012 - 2015
-* M.S. in Physics, University Federal of São Carlos, 2016 - 2018
-* Ph.D in Physics, University of São Paulo, 2019 - in course
+* Ph.D in Physics, University of São Paulo, 2019/in course
+* M.S. in Physics, University Federal of São Carlos, 2016/2018
+* B.S. in Physics, University of São Paulo, 2012/2015
 
 Work experience
 ======
