@@ -44,7 +44,7 @@ I am a civil aviation enthusiast. I am a member of the ACICFG, a team devoted to
 
 I am an alcoholist and I enjoy drinking, I like: 
 
-- beers, including Pale Ale (I like **Ballast Point**, **Brooklyn**, **Dogfish** and **BrewDog**.), Trappist (I like **Rochefort** and **Chimay**.) and Hefeweizen (I think **Franziskaner** is good enough.),
+- Beers, including Pale Ale (I like **Ballast Point**, **Brooklyn**, **Dogfish** and **BrewDog**.), Trappist (I like **Rochefort** and **Chimay**.) and Hefeweizen (I think **Franziskaner** is good enough.),
 
 - Vodka (**Smirnoff Black, Grey Goose and Russian Standards** are of high quality.), 
 
