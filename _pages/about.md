@@ -48,11 +48,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
       </a>
     </font>
     </li>
-</ul>
 
-
-
-<ul>
     <li>Fine-grained Distributed Consistency Guarantees with Effect Orchestration
     <br />
     <font size="3">
