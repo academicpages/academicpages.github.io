@@ -39,7 +39,7 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
           {% endif %}
         {% if page.venue %}
-          <p class="page__venue"><strong><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i>Location:</strong> page.venue </p>
+          <p class="page__venue"><strong><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i>Venue:</strong> {{page.venue}} </p>
           {% endif %}
         <!-- {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %} -->
 
