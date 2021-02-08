@@ -1,6 +1,6 @@
 ---
 title: "PhenCards Project (2019)"
-excerpt: "Description of PhenCards Project<br/><img src='/images/500x300.png'>"
+excerpt: "Description of [PhenCards](https://phencards.org/) Project<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
