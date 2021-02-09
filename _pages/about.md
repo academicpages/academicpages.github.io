@@ -32,7 +32,7 @@ _[\* means equal contribution.]_
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C4byDrEvOWlkQBPck4uhnEYVbsB_VEy0fAJC1qmic1s&cl=ffffff&w=a"></script>
+
 
 
 More Info
