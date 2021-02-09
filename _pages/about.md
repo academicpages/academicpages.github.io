@@ -19,7 +19,7 @@ redirect_from:
 
 <p class="lead"> My research is either forthcoming, or has been published in Acta Politica, Journal of Politics in Latin America, Regional Science, Policy and Practice and Revista de Ciencia Politica. I am also an Associate Editor of Social Science (Springer).</p>
 
-<p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>political development</b> and <b>clientelism</b>. As an applied methodologist I also have a strong interest in statistical and experimental methods.</p>
+<p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>political development</b> and <b>clientelism</b>. As an applied methodologist I also have a strong interest in statistical (frequentist and Bayesian) as well as experimental methods (natural, lab and survey-based).</p>
 
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
