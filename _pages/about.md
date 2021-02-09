@@ -24,7 +24,12 @@ You can find my articles and abstracts on [my Google Scholar profile](https://sc
 Videos
 ---
 [Periodic boundary conditions](https://youtu.be/1IMk1xj77uc) in the quarter shell geometry of [ASPECT](https://aspect.geodynamics.org/).
-<br/><img src='/images/periodic_BC.png'>
+<!-- <br/><img src='/images/periodic_BC.png'> -->
+feature_row:
+  - image_path: images/periodic_BC.png
+    title: "Thermo-chemical plume"
+    excerpt: "Thermo-chemical plume rising from the core-mantle boundary and interacting with an overlying, moving plate. The movie shows the isosurface of the chemical composition (here, the fraction of recycled oceanic crust)."
+    url: "https://www.youtube.com/watch?v=dG-ULmcBr1E"
 
 Blog Posts
 ---
