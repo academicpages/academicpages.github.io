@@ -28,7 +28,7 @@ redirect_from:
 
 - "Vote Selling in the United States: Introducing Support Vector Machine Methods to Analyzing Conjoint Experimental Data." With Cristobal Quininao (UOH). <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt) **Submitted, Political Science Research and Methods**
 
-- "Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data." <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Submitted, Public Administration and Development**
+- "Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data." <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Submitted, Progress in Development Studies**
 
 
 
