@@ -24,7 +24,7 @@ Teaching experience
 * Michaelmas 2020: Supervision, University of Cambridge, UK
   * Digital Electronics - organized weekly problem sessions, gave feedback to each student on their homework.
 * Fall 2016: Teaching Assistant, Bogazici University, Turkey
-  * Electric Circuit Theory: Prepared and gave biweekly problem sessions, supervised in exams.
+  * Electric Circuit Theory: prepared and gave biweekly problem sessions, supervised in exams.
 
 Work experience
 ======
