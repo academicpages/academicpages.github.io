@@ -17,18 +17,19 @@ Education
 
 Teaching experience
 ======
+* Lent 2021: Supervision, University of Cambridge, UK
+  * Computer Vision - running problem sessions.
 * Michaelmas 2020: Supervision, University of Cambridge, UK
-  * Further Graphics - preparing homework and coding exercises on Python using Tensorflow Graphics.
+  * Further Graphics - prepared homework and coding exercises within Tensorflow Graphics framework in Python.
 * Michaelmas 2020: Supervision, University of Cambridge, UK
-
-  * Digital Electronics - running weekly problem sessions, giving feedback to each student on their homework.
+  * Digital Electronics - organized weekly problem sessions, gave feedback to each student on their homework.
 * Fall 2016: Teaching Assistant, Bogazici University, Turkey
   * Electric Circuit Theory: Prepared and gave biweekly problem sessions, supervised in exams.
 
 Work experience
 ======
 * February - September 2020: Freelance Software Engineer
-  * Developed an Android app prototype for a tech startup by using the framework Kivy on Python.
+  * Developed an Android app prototype for a tech startup within Kivy framework in Python.
   * Created custom widgets, applied image hashcoding algorithms, and used Git version-control system.
   * Managed weekly client meetings, presented the work and discussed the user interface details.
 * Summer 2018: Research Intern, Koc University, Turkey
