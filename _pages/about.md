@@ -18,7 +18,7 @@ redirect_from:
 
 I am a second-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin). 
 
-My research interests center on interpretable machine learning and natural language processing. I see this kind of research as important for ensuring ML systems are aligned with human values. I'm also particularly interested in connections between NLP and reinforcement learning, as well as AI safety more broadly. 
+My research interests center on interpretable machine learning and natural language processing. I am particularly interested in techniques for explaining model behavior and aligning ML systems with human values, which are problems I see natural language playing a prominent role in. I am broadly interested in topics related to AI Safety. In all of these areas, I find work on clarifying concepts and developing strong evaluation procedures especially valuable. 
 
 *Email:* peter@cs.unc.edu
 
