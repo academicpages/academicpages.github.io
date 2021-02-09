@@ -33,10 +33,9 @@ Work experience
   * Created custom widgets, applied image hashcoding algorithms, and used Git version-control system.
   * Managed weekly client meetings, presented the work and discussed the user interface details.
 * Summer 2018: Research Intern, Koc University, Turkey
-  * Researched on video background subtraction with deep learning techniques.
-  * Gained basic Python skills and built neural network models with Keras.
+  * Researched deep learning techniques in application to video background subtraction.
+  * Prototyped neural networks within Keras framework in Python.
 
-  
 Skills
 ======
 * Programming Skills
