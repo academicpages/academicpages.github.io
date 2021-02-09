@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral associate at the University of Florida in Gainesville. As a geodynamicist, I'm interested in modelling the Earth's mantle, understanding its interaction with the surface, focussing on votalites and chemical heterogenity introduced at subduction zones.
+<!-- I am a post-doctoral associate at the University of Florida in Gainesville. As a geodynamicist, I'm interested in modelling the Earth's mantle, understanding its interaction with the surface, focussing on votalites and chemical heterogenity introduced at subduction zones. -->
+I am a post-doctoral associate at the University of Florida in Gainesville. As a geodynamicist, I'm interested in modelling the Earth's mantle and am currently investigating how chemical structures form at the CMB. I'm also interested in understanding the mantle's interaction with the surface, with a focus on votalites and chemical heterogenity introduced at subduction zones.
 
 
 Models
@@ -23,7 +24,7 @@ You can find my articles and abstracts on [my Google Scholar profile](https://sc
 Videos
 ---
 [Periodic boundary conditions](https://youtu.be/1IMk1xj77uc) in the quarter shell geometry of [ASPECT](https://aspect.geodynamics.org/).
-
+<br/><img src='/images/500x300.png'>"
 
 Blog Posts
 ---
