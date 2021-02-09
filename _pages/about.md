@@ -21,6 +21,7 @@ In general, I am very interested in computational statistics and machine learnin
 
 Publication
 ======
+_[\* means equal contribution.]_
 
 1.__Zhuo Sun__, Jijie Wu, Xiaoxu Li, Wenming Yang, Jing-Hao Xue. Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. _In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021)_
 
@@ -28,7 +29,7 @@ Publication
 
 3.Xiaoxu Li\*, __Zhuo Sun\*__, Jinghao Xue, Zhanyu Ma. A Concise Review of Recent Few-shot Meta-learning Methods. _Neurocomputing_, 2020.
 
-_[\* means equal contribution.]_
+
 
 
 
