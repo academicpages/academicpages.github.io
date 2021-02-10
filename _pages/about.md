@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a particle physicist working at [SLAC](https://www6.slac.stanford.edu), a member of the [ATLAS experiment at CERN](https://atlas.cern). I've also been a member of the [CMS experiment](https://cms.cern) during my PhD at Northeastern University, and briefly of the [D0 experiment at Fermilab](https://www-d0.fnal.gov) during my masters thesis at the Brazilian Center for Physics Research (CBPF). At SLAC, I'm a part of the [Kagan Group](https://makagan.github.io). 
+Hello! I'm a particle physicist working at [SLAC](https://www6.slac.stanford.edu) as a postdoctoral research associate, a member of the [ATLAS experiment at CERN](https://atlas.cern). I've also been a member of the [CMS experiment](https://cms.cern) during my PhD at Northeastern University, and briefly of the [D0 experiment at Fermilab](https://www-d0.fnal.gov) during my masters thesis at the Brazilian Center for Physics Research (CBPF). At SLAC, I'm a part of the [Kagan Group](https://makagan.github.io). 
 
 A data-driven personal website
 ======
