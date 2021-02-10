@@ -25,8 +25,9 @@ Please also find more information from my
 
 News
 ------
-- Nov 3: New [preprint](https://arxiv.org/abs/2010.14023) is now available on ArXiv.
-- Nov 3: Our [Interspeech 2020](http://www.interspeech2020.org/) presentation is now available [here](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=274&id=534).
+- Feb 10 '21: Our [SafeAI](https://safeai.webs.upv.es/) presentation is available [here](http://ceur-ws.org/Vol-2808/Paper_34.pdf).
+- Nov 3 '20: New [preprint](https://arxiv.org/abs/2010.14023) is now available on ArXiv.
+- Nov 3 '20: Our [Interspeech 2020](http://www.interspeech2020.org/) presentation is now available [here](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=274&id=534).
 
 <!-- ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
