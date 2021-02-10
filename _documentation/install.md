@@ -10,27 +10,30 @@ tags:
 ---
 
 
-In this section, you're going to go through the steps to have Raphtory up and running on your local machine.
-To make it as easy as possible, an example Raphtory project is available [here](https://github.com/Raphtory/Examples). 
+Getting started with Raphtory only takes a few steps. We will use an example Raphtory project and install SBT (Scala Build Tool) to get it up and running.
 
-Installing this example requires downloading both the example project and adding(or building) the latest release of Raphtory.
-
-## Clone the example project
-This example project can be downloaded by opening your terminal and performing a git clone:
+## 1. Clone the example project
+[Clone from github](https://github.com/Raphtory/Examples.git) **or** can be done by opening your terminal and performing a git clone:
  `git clone https://github.com/Raphtory/Examples.git`
 
 
-## Adding the latest Raphtory release
-The latest release of Raphtory is available [here](https://github.com/Raphtory/Raphtory/releases/latest). Follow the link and download the [raphtory.jar](https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar). Place this within the `lib` directory of the Example project you cloned in the previous step.
+## 2. Add the latest Raphtory release
+Get the latest release [here](https://github.com/Raphtory/Raphtory/releases/latest). Follow the link and download the [raphtory.jar](https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar). Move it into the `lib` directory of the example project you cloned in Step 1.
 
-Alternatively, both of the above steps can be performed with a single command
+**Or**, perform the command below in your terminal to do Step 1 and 2 together:
 
 `git clone https://github.com/Raphtory/Examples.git raphtory_example && wget https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar -P raphtory_example/lib/`
 
-## Compiling the project 
-The example project utilises SBT (scala build tool) to compile the source code. SBT can be installed via this [guide](https://www.scala-sbt.org/1.x/docs/Setup.html). For those who do not want to directly install a working version of SBT is included in the project, just prepend `sbt/bin/` to all of the following commands.
+## 3. Install SBT  
+Install SBT by following the guide [here](https://www.scala-sbt.org/1.x/docs/Setup.html). The example project uses SBT to compile the source code.
+**OR** prepend `sbt/bin` to the following commands to use the sbt included in the project if you do not want to install sbt locally.
 
-Once installed you can run `sbt compile` to build the project. This should produce an output as below to show it is working correctly:
+## 4. Initiate SBT
+Change into the example project directory and use the command `sbt` to start the Scala Build Tool. Once you see the `>` prompt, it means that you are in the SBT interactive shell.
+
+## 5. Compile the code
+
+Once prompted again with `>`, you can run `compile` to build the project. This should produce the output below if working correctly:
 
 ```
 [info] Loading settings for project global-plugins from idea.sbt ...
@@ -46,17 +49,21 @@ Once installed you can run `sbt compile` to build the project. This should produ
 
 ```
 
-## Test run to make sure its all working
-To test that you have Raphtory working properly on your machine, run:
+## 6. Run the code.
+To test that you have Raphtory working properly on your machine, use the command `run` when prompted again with `>`.
 
-```sh
-sbt/bin/sbt run examples.lotr.LOTRDeployment
+Summary of running SBT: 
 ```
+$ cd raphtory_example
+>sbt
+>compile
+>run
+```
+And you're done!  
 
-This will run the Lord of the Rings example that we shall rebuild over the next couple of tutorials and give some example output as follows:
+This will run the Lord of the Rings example that we will come back to in the next few tutorials. Some example output as follows:
 
-
-This is the system starting up and is mostly unimportant unless there are any errors reported.
+**This is the system starting up.**
 
 ````
 [info] Loading settings for project global-plugins from idea.sbt ...
@@ -78,7 +85,7 @@ This is the system starting up and is mostly unimportant unless there are any er
 22:36:47.501 [Citation-system-akka.actor.default-dispatcher-3] WARN  akka.cluster.AutoDown - Don't use auto-down feature of Akka Cluster in production. See 'Auto-downing (DO NOT USE)' section of Akka Cluster documentation.
 ````
 
-This shows that the ingestion components of Raphtory have come online and as such the system is ready for analysis to be performed. The `All data sent` message comes from the spout informing us that it has finished ingesting the input file.
+**This shows that the ingestion components of Raphtory are online** and as such the system is ready for analysis to be performed. The `All data sent` message comes from the spout informing us that it has finished ingesting the input file.
 
 
 ````
@@ -91,7 +98,7 @@ Cluster ready for Analysis
 All data sent
 ````
 
-This is confirmation that our analysis jobs have been submitted (We will come back to this soon don't worry) and that the times they are requesting are yet to be available (and shall be retried soon).
+**This confirms that our analysis jobs have been submitted** and that the times they are requesting are yet to be available (and shall be retried soon).
 
 
 ````
@@ -109,7 +116,7 @@ View Analysis Task received, your job ID is com.raphtory.algorithms.DegreeBasic_
 10000 is yet to be ingested, currently at 0. Retrying analysis in 10 seconds and retrying
 ````
 
-Finally, output for the example queries should begin streaming to the terminal such as below. Don't worry too much about this at the moment as again it will be covered later, this does mean though that Raphtory is working correctly and you can move on to creating your first graph to analyse.
+**Finally, output for the example queries should begin streaming to the terminal** such as below. This means that Raphtory is working as it should and you can move onto creating your first graph for analysis. Don't worry too much about this at the moment as again it will be covered later.
 
 
 ````
