@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafael Teixeira de Lima / Research Site"
+title                    : "Rafael Teixeira de Lima"
 title_separator          : "-"
 name                     : &name "Rafael Teixeira de Lima"
 description              : &description "Particle physicist | SLAC / CERN"
