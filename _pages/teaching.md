@@ -48,4 +48,4 @@ __Spanish reviewer__
 Spanish-language reviewer for [The American Naturalist](https://amnat.org/home.html). The aim is helping The American Naturalist to expand the communications reach of the world-class science that nonnative english speakers produce.   
 
 __Market Science__   
-Market Science is a group of scientist from the University of Minnesota that aims to connect people with science.
+Market Science is a science communication and outreach program within CBS--University of Minnesota--that's been working to spread science to the community and state since 2013.
