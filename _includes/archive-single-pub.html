@@ -27,8 +27,8 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {{ title }}
-    </h2><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time> 
+      {{ title }} (<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>)
+    </h2>
 
         <p class="page__authors"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i> {{ post.authors }}  / {{post.type}} / <i>{{ post.venue }}</i> / <a href=" {{ post.paperurl }} ">[Download]</a> </p>
 
