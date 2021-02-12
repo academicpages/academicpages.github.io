@@ -55,3 +55,45 @@
     date: 2018-10-25
     venue: "Phys. Rev. Lett. 122 (2019) 121803"
     paperurl: "https://cds.cern.ch/record/2648884"
+- bbyy-paper:
+    type: "Paper"
+    title: "Search for Higgs boson pair production in the yybb final state in pp collisions at sqrt(s) = 13 TeV"
+    authors: "CMS Collaboration"
+    date: 2018-06-01
+    venue: "Phys. Lett. B 788 (2018) 7"
+    paperurl: "https://cds.cern.ch/record/2621190"
+- bbyy-pas:
+    type: "PAS"
+    title: "Search for Higgs pair production in the bbyy final state (36 fb−1)"
+    authors: "CMS Collaboration"
+    date: 2017-07-06
+    venue: "CERN Document Server"
+    paperurl: "http://cds.cern.ch/record/2273383"
+- ecfa:
+    type: "PAS"
+    title: "Projected performance of Higgs analyses at the HL-LHC for ECFA 2016"
+    authors: "CMS Collaboration"
+    date: 2017-05-29
+    venue: "CERN Document Server"
+    paperurl: "http://cds.cern.ch/record/2266165"
+- bbyy-2015:
+    type: "PAS"
+    title: "Search for Higgs pair production in the bbyy final state (2.7 fb−1)"
+    authors: "CMS Collaboration"
+    date: 2016-08-15
+    venue: "CERN Document Server"
+    paperurl: "http://cds.cern.ch/record/2207960"
+- ymet-paper:
+    type: "Paper"
+    title: "Search for exotic decays of a Higgs boson into undetectable particles and one or more photons"
+    authors: "CMS Collaboration"
+    date: 2015-07-01
+    venue: "Phys. Lett. B 753 (2016) 363"
+    paperurl: "https://arxiv.org/abs/1507.00359"
+- ymet-pas:
+    type: "PAS"
+    title: "Search for new physics in final states with low transverse energy photon and missing transverse energy"
+    authors: "CMS Collaboration"
+    date: 2015-01-27
+    venue: "CERN Document Server"
+    paperurl: "https://cds.cern.ch/record/1983181"
