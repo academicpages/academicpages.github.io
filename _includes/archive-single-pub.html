@@ -14,21 +14,10 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
 
     <h3 class="archive__item-title" itemprop="headline">[<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time>] {{ title }}</h3>
 
-        <p class="page__authors"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i> {{ post.authors }}  / {{post.type}} / <i>{{ post.venue }}</i> / <a href=" {{ post.paperurl }} ">[Download]</a> </p>
+    <p class="archive__item-excerpt"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i> {{ post.authors }}  / {{post.type}} / <i>{{ post.venue }}</i> / <a href=" {{ post.paperurl }} ">[Download]</a> </p>
 
         <!-- {% if post.collection == 'research' %}
         {% elsif post.collection == 'teaching' %}
