@@ -12,7 +12,7 @@ for l in f:
             fout = open('../_publications/'+name+'.md', 'w')
             fout.write('---\n')
             fout.write(lines.strip()+'\n')
-            # fout.write('---\n')
+            fout.write('---\n')
             fout.close()
             lines = ''
 
