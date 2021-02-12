@@ -26,11 +26,9 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {{ title }} (<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>)
-    </h2>
+    <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
 
-        <p class="page__authors"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i> {{ post.authors }}  / {{post.type}} / <i>{{ post.venue }}</i> / <a href=" {{ post.paperurl }} ">[Download]</a> </p>
+        <p class="page__authors"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i> (<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time>) {{ post.authors }}  / {{post.type}} / <i>{{ post.venue }}</i> / <a href=" {{ post.paperurl }} ">[Download]</a> </p>
 
         <!-- {% if post.collection == 'research' %}
         {% elsif post.collection == 'teaching' %}
