@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : #"Yongjun Zhang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Sociologist, Ph.D."
   location         : "Stony Brook, NY"
   employer         :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DrYongjunZhang"
+  twitter          : "DrJoshZhang"
   vine             :
   weibo            :
   xing             :
