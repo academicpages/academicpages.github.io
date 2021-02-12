@@ -28,7 +28,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {{ title }}
-    </h2>
+    </h2><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time> 
 
         <p class="page__authors"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i> {{ post.authors }}  / {{post.type}} / <i>{{ post.venue }}</i> / <a href=" {{ post.paperurl }} ">[Download]</a> </p>
 
@@ -41,11 +41,11 @@
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %} -->
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
+    <!-- {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-    {% endif %}
+    {% endif %} -->
     
     <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
