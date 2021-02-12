@@ -14,6 +14,13 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 <font size="5">
 <table>
   <tr>
+    <td width="35%"><div align="right">Mar 1st 2021 - Present day<br>
+    <img src="/images/UCSD_seal.png" width="150"></div></td>
+    <td width="65%">Postdoctoral researcher at University of California, San Diego<br>
+    <b>Supervisor: </b> Terence Hwa<br><br><br>
+    </td>
+  </tr>
+  <tr>
     <td width="35%"><div align="right">Apr 1st - Sep 30th 2019<br>
 		<img src="/images/Harvard_logo.png" width="150"></div></td>
     <td width="65%">Fellow of the Department of Physics, Harvard University<br>
