@@ -1,0 +1,57 @@
+- ml-book:
+    type: "Book chapter"
+    title: "Artificial Intelligence for Particle Physics / Chapter: Sequence-based Learning for Jet Physics"
+    authors: "R. Teixeira de Lima; P. Calafiura, D. Rousseau, K. Terao (editors)"
+    date: 2022-01-01
+    venue: "World Scientific Publishing"
+    excerpt: "To be published (under editorial review with published)."
+    paperurl: "https://www.worldscientific.com/worldscibooks/10.1142/12200"
+- white-paper:
+    type: "White paper"
+    title: "Higgs boson potential at colliders: Status and Perspectives / Section: Status of ATLAS and CMS HH bbyy analyses"
+    authors: "E. Brost, R. Teixeira de Lima; B. Di Micco, M. Gouzevitch, J. Mazzitelli, C. Vernieri (editors)"
+    date: 2019-30-09
+    venue: "Reviews in Physics (2020) 100045"
+    paperurl: "https://www.sciencedirect.com/science/article/pii/S2405428320300083"
+- yellow-report:
+    type: "Yellow report"
+    title: "Handbook of LHC Higgs Cross Sections: 4. Deciphering the Nature of the Higgs Sector / Section: Prospects for prompt decays with MET: h to 2γ+MET test case."
+    authors: "T. Orimoto, R. Teixeira de Lima; D. de Florian, C. Grojean, F. Maltoni, C. Mariotti, A. Nikitenko, M. Pieri, P. Savard, M. Schumacher, R. Tanaka (editors)"
+    date: 2017-02-01
+    venue: "CERN Yellow Reports: Monographs"
+    paperurl: "https://cds.cern.ch/record/2227475"
+- lhcp-2020:
+    type: "Proceedings"
+    title: "Accessing HH at ATLAS and CMS with the HL-LHC"
+    authors: "R. Teixeira de Lima"
+    date: 2020-10-16
+    venue: "LHCP2020, Proceedings of Science"
+    paperurl: "https://pos.sissa.it/382/082/"
+- ctd-2020:
+    type: "Proceedings"
+    title: "Deep Sets for Flavor Tagging on the ATLAS Experiment"
+    authors: "N. Hartman, M. Kagan, R. Teixeira de Lima"
+    date: 2020-06-17
+    venue: "Connecting the Dots 2020"
+    paperurl: "https://cds.cern.ch/record/2721094?ln=en"
+- dips:
+    type: "PUB Note"
+    title: "Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS"
+    authors: "ATLAS Collaboration"
+    date: 2020-05-25
+    venue: "CERN Document Server"
+    paperurl: "https://cds.cern.ch/record/2718948"
+- hbb:
+    type: "CONF Note"
+    title: "Search for boosted resonances decaying to two b-quarks and produced in association with a jet at sqrt(s) = 13 TeV with the ATLAS detector"
+    authors: "ATLAS Collaboration"
+    date: 2018-10-27
+    venue: "CERN Document Server"
+    paperurl: "http://cdsweb.cern.ch/record/2649081"
+- hhcomb:
+    type: "Paper"
+    title: "Combination of searches for Higgs boson pair production in proton-proton collisions at sqrt(s) = 13 TeV"
+    authors: "CMS Collaboration"
+    date: 2018-10-25
+    venue: "Phys. Rev. Lett. 122 (2019) 121803"
+    paperurl: "https://cds.cern.ch/record/2648884"
