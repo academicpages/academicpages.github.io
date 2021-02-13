@@ -13,4 +13,6 @@ I am a  recent Mathematics and Physics graduate. I completed a Mathematics Speci
 
 I am currently working with a group of Data Scientists at RiskLab on a project involving applying machine learning models to [portfolio optimization](https://en.wikipedia.org/wiki/Portfolio_optimization)
 
+This website is still a WIP. Why are you here??
+
 
