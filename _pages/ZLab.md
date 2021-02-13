@@ -1,12 +1,13 @@
 ---
-title: "ZLab"
 permalink: /zlab/
+title: "ZLab"
 excerpt: "The Z Research Lab"
 author_profile: true
 ---
 
-##ZLab Intro
-The Z Research Lab uses computational and statistical methods to analyze social and human behavior, including corporate elites' political activities, 
+## ZLab Intro
+
+The Z Research Lab uses computational and statistical methods to analyze social and human behavior, including corporate elites' political activities and social movements.
 
 One project focuses on corporate elites' attention to inequality issues in Corporate America using administrative, social media, and earnings call big data.
 
