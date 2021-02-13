@@ -9,20 +9,37 @@ tags:
   - graph
 ---
 
-Now that you have a working version of Raphtory on your machine, the first step to getting your first temporal graph analysis up and running is to tell Raphtory how to read in your datafile and how to build it into a graph. This is done by the Spout and Graph Builder classes respectively. Once these are build they can be passed to a `RaphtoryGraph` which will use the both components to build up the temporal graph.
+The first step to getting your first temporal graph analysis up and running is to tell Raphtory how to read your datafile and how to build it into a graph. 
 
-For this example, we will use a dataset of co-occurrences in the Lord of the Rings books which can be found from [here](https://github.com/Raphtory/Examples/tree/main/src/main/scala/examples/lotr/lotr.csv). This is a `csv` file where each line contains two characters who appeared in the same sentence, along with the number of the sentence in which they appeared. The first line of the file, for example, is `Gandalf,Elrond,33`. However, as you may have guessed from your job in the pervious tutorial running, this is already present in the LOTR example directory `src/main/scala/examples/lotr`. Also in here you will find `LOTRSpout.scala`, `LOTRGraphBuilder.scala` and `LOTRDeployment.scala` which we will go through below.
+Two classes help with this:
+- Spout helps with reading the data file
+-	Graph builder helps build the graph  
+
+Once these are built, they can be passed to `RaphtoryGraph` which will use both components to build the temporal graph.  
+
+If you have downloaded the [example](https://github.com/Raphtory/Examples.git) folder from the [installation](https://raphtory.github.io/documentation/install) guide, then the below LOTR example is already set up. If not, please download it.  
+
+The examples are found within the path `src/main/scala/examples`.  
+
+For this example, we will use a dataset that tells us when two characters show up at the same time in the Lord of the Rings books. The `csv` file (comma-separated values) can be found in the examples folder, and each line contains two characters that appeared in the same sentence in the book, along with which sentence they appeared as indicated by a number. The first line of the file, for example, is Gandalf,Elrond,33 which tells us that Gandalf and Elrond appears together in sentence 33.  
+
+Also, in the examples folder you will find `LOTRSpout.scala`, `LOTRGraphBuilder.scala` and `LOTRDeployment.scala` which we will go through in detail.
+
 
 ## Spout
 
-There are three main functions that can be inherited and implemented in the Spout class: `setupDataSource`, `generateData`, `closeDataSource`. With our lotr example, we shall first prepare the data by letting the spout know where to get the data.
+Let's continue with the LOTR example.  
+
+There are three main functions that can be inherited and implemented in the Spout class: `setupDataSource`, `generateData`, `closeDataSource`. First, prepare the data by letting the spout know where to get the data. There are two ways to do this.  
+
+We can get the location with environment variables,
 
 ```scala
 val directory = System.getenv().getOrDefault("LOTR_DIRECTORY", "/absolute/path/to/LOTR/folder").trim
 val file_name = System.getenv().getOrDefault("LOTR_FILE_NAME", "lotr.csv").trim
 ```
 
-We could have just specified `directory` as a string pointing to `"/absolute/path/to/LOTR/folder"` and likewise with `file_name` but wanted to highlight that it is possible to specify these instead as environment variables `LOTR_DIRECTORY` and `LOTR_FILE_NAME`. Next, we implement `setupDataSource` in order to extract the data and it into a queue.
+**Or**, specify `directory` as a string pointing to `"/absolute/path/to/LOTR/folder"` and likewise with `file_name`. Next, we implement `setupDataSource` in order to extract the data and put it into a queue.
 
 ```scala
 val fileQueue = mutable.Queue[String]()
@@ -72,20 +89,20 @@ override def parseTuple(tuple: String) = {
 }
 ```
 
-First, we break up the line that has just been ingested by the spout into the relevant components; so, for example, the line `Gandalf,Elrond,33` becomes a tuple `(Gandalf, Elrond, 33)`. For each of the characters seen, we generate them an ID of type `Long`. Finally, we send an update adding both of the vertices to the graph as well as the edge joining them, each with a timestamp of when that update occurred.
+First, we break up the line that has just been ingested by the spout into the relevant components; so, for example, the line `Gandalf,Elrond,33` becomes a tuple `(Gandalf, Elrond, 33)`. For each of the characters seen, we give them an ID of type `Long`. Finally, we send an update adding both of the vertices to the graph as well as the edge joining them, each with a timestamp of when that update occurred.
 
 There are a few things worth pointing out here.
 
 * We added a `name` property to each of the nodes. If we had reason to, we could have added any other property that might be appropriate. We set this as an `ImmutableProperty` in this case, as character names are treated as fixed, but this could be a mutable property if it were required to change later.
 
-* We didn't check whether either vertices exist before sending a `VertexAdd` update. This is no trouble, another class deals with this so that we don't have to worry about that.
+* We didn't check whether either vertices exist before sending a `VertexAdd` update. Another class deals with this so that we don't have to worry about that.
 
-* The spout wasn't doing much heavy lifting here, just reading in the file line by line. Cases where the spout really shines is when it is pulling data from external sources (potentially streams) or extracting the useful parts of less structured data to send as a record to the graph builder.
+* The spout wasn't doing much heavy lifting here, just reading in the file line by line. The spout is used for pulling data from external sources (potentially streams) or extracting the useful parts of less structured data to send as a record to the graph builder.
 
 To summarise, the spout takes an external source of data and turns it into a _stream of records_ and the graph builder converts each item from this stream of records into a _graph update_.
 
 ## Raphtory Graph
-Now that we have a way to ingest and parse the data we can create a graph. To do this we can first create a scala App. This is a short hand for creating a main function for the Java folks.
+Now that we have a way to ingest and parse the data we can create a graph. To do this we can first create a scala app. `Extends App` is a short hand for creating a main function for Java.
 
 ````scala
 object LOTRDeployment extends App{
@@ -104,4 +121,4 @@ Inside of this we can create a spout and graphbuilder from the classes we have d
 ````
 ---
 
-Once we are able to ingest our data and build graphs from it, the next thing is to actually run some analysis on it. Head onto [Write your own analysis](/documentation/analysis-qs) for how to do the _Six Degrees of Gandalf_ for this dataset!
+Once we are able to ingest our data and build graphs from it, the next thing is to run analysis on it. Head to [Write your own analysis](/documentation/analysis-qs) for how to do the _Six Degrees of Gandalf_ for this dataset!
