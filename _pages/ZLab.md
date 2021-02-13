@@ -3,8 +3,6 @@ title: "ZLab"
 permalink: /zlab/
 excerpt: "The Z Research Lab"
 author_profile: true
-redirect_from:
-  - /zlab/
 ---
 
 ##ZLab Intro
