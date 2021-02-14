@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Quantitative investigator"
 title_separator          : "-"
 name                     : &name "Kellie Ottoboni"
-description              : &description "Personal website for Kellie Ottoboni, a UC Berkeley PhD student in Statistics, data scientist and quantitative investigator."
+description              : &description "Personal website for Kellie Ottoboni, PhD"
 url                      : https://kellieotto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kellieotto/kellieotto.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Kellie Ottoboni"
   avatar           : "profile.png"
-  bio              : "Statistics PhD Student and BIDS Fellow at UC Berkeley"
+  bio              : "Data Scientist - Statistics PhD"
   location         : "Berkeley, CA"
   employer         : 
   googlescholar    : 
