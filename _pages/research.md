@@ -9,8 +9,6 @@ share: false
   #feature: research2.jpg
 ---
 
-#<div><img src="research2.png" width="100%" align="center"></div>
-
 <style type="text/css">
   body{
   font-size: 12pt;
