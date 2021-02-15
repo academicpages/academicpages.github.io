@@ -15,8 +15,9 @@ image:
   body{
   font-size: 12pt;
 } 
-  {text-align: justify}
 </style>
+
+<style> body {text-align: justify} </style>
 
 _Models are tools to understand the real world and...they can sharpen our intuition about ecological mechanisms. Even the simplest model, which may match no living system, can be useful_. __--William Murdoch__   
 
