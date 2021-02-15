@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 published: true
 share: false
-image: 
-  feature: research2.jpg
+#image: 
+  #feature: research2.jpg
 ---
 
-<div><img src="research2.jpg" width="100%" align="center"></div>
+<div><img src="research2.png" width="100%" align="center"></div>
 
 <style type="text/css">
   body{
