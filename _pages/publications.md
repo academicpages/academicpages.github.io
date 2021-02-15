@@ -8,7 +8,6 @@ share: false
 image: 
   feature: publications2.jpg
 ---
-<div><img src="publications2.jpg" width="100%" align="center"></div>
 
 [Google Scholar profile](https://scholar.google.com/citations?user=iCRGRz0AAAAJ&hl=en)
 
@@ -17,8 +16,6 @@ image:
   font-size: 12pt;
 } 
 </style>
-
-<style> body {text-align: justify} </style>
 
 _Models are tools to understand the real world and...they can sharpen our intuition about ecological mechanisms. Even the simplest model, which may match no living system, can be useful_. __--William Murdoch__   
 
