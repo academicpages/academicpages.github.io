@@ -14,7 +14,6 @@ share: false
   font-size: 12pt;
 }
 </style>
-<style> body {text-align: justify} </style>
 
 _If we knew what we were doing, it wouldn’t be called research_. __--Albert Einstein__
 
