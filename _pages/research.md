@@ -8,11 +8,15 @@ share: false
 image: 
   feature: research2.jpg
 ---
+
+<div><img src="research2.jpg" width="100%" align="center"></div>
+
 <style type="text/css">
   body{
   font-size: 12pt;
 }
 </style>
+<style> body {text-align: justify} </style>
 
 _If we knew what we were doing, it wouldn’t be called research_. __--Albert Einstein__
 
