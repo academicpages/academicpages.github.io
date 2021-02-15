@@ -8,6 +8,7 @@ share: false
 image: 
   feature: publications2.jpg
 ---
+<div><img src="publications2.jpg" width="100%" align="center"></div>
 
 [Google Scholar profile](https://scholar.google.com/citations?user=iCRGRz0AAAAJ&hl=en)
 
