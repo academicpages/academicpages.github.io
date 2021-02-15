@@ -18,6 +18,7 @@ image:
   font-size: 12pt;
 }
 </style>
+<style> body {text-align: justify} </style>
 
 _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 
