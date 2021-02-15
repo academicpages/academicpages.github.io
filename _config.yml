@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charles Blain Morin"
 title_separator          : "-"
 name                     : &name "Charles Blain Morin"
-description              : &description "PhD Student: Public Policy and Management"
+description              : &description "PhD Student in Public Policy and Management"
 url                      : https://blainmorin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "blainmorin.github.io"
@@ -70,7 +70,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student: Public Policy and Management"
   location         : "Columbus, OH"
-  employer         : "The Ohio State University"
+  employer         : "John Glenn College of Public Affairs at The Ohio State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            :
