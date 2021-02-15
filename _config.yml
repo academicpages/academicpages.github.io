@@ -71,7 +71,7 @@ author:
   bio              : "PhD Student: Public Policy and Management"
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
