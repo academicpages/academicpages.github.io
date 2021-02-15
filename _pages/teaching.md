@@ -14,7 +14,6 @@ image:
   font-size: 12pt;
 }
 </style>
-<style> body {text-align: justify} </style>
 
 _Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world_. __--Louis Pasteur__ 
 
