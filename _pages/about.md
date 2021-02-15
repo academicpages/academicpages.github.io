@@ -13,6 +13,8 @@ I am a  recent Mathematics and Physics graduate. I completed a Mathematics Speci
 
 I am currently working with a group of Data Scientists at RiskLab on a project involving applying machine learning models to [portfolio optimization](https://en.wikipedia.org/wiki/Portfolio_optimization)
 
+I am also working with [Cameron Martin](http://cameronmartin.ca/) to finish a paper introducing our work(under supervision of Prof. Adam Stinchcombe) developing a mathematical model of a biological oscillator related to the Methamphetamine-Sensitive Circadian Oscillator (MASCO).
+
 This website is still a WIP. Why are you here??
 
 
