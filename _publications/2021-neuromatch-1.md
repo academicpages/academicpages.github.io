@@ -2,7 +2,7 @@
 title: "Neuromatch Academy: a 3-week, online summer school in computational neuroscience"
 collection: publications
 permalink: /publication/2021-neuromatch-1
-excerpt: 'Our findings demonstrate that embodied experience influences spatial thinking about right hands, which might account for the presence of world knowledge variability in MRT, while also suggesting that common external experience shapes performance in spatial thinking tasks. These findings demonstrate that investigations in spatial thinking tasks might overlook the nuances reflecting world knowledge versus embodied experience if researchers do not recruit left-handers.'
+excerpt: 'Neuromatch Academy was designed as an online summer school to cover the basics of computational neuroscience in three weeks. The materials cover dominant and emerging computational neuroscience tools, how they complement one another, and specifically focus on how they can help us to better understand how the brain functions.'
 date: 2020-06-03
 venue: 'Cognitive Research: Principles and Implications'
 citation: 'Cheng, Y., Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18.'
