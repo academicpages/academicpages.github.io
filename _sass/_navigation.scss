@@ -171,7 +171,7 @@
 
 .greedy-nav {
   position: relative;
-  font-family: $header-font-family;
+  font-family: $header-font-family
   a {
     display: block;
     width: -moz-fit-content;
@@ -192,8 +192,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
-    color: #fff;
+    background-color: $white
+    color: $white;
     cursor: pointer;
   }
 
