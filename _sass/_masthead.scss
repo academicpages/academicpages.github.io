@@ -16,11 +16,13 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
+    background: red;
+    @include respond-above(md){
+      background: yellow;
     }
-
+    @include respond-above(lg){
+      background: blue;
+    }
     nav {
       z-index: 10;
     }
