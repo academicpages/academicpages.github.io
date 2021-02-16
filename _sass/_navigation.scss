@@ -201,10 +201,10 @@
 
   .visible-links {
     display: table;
-    // @include respond-above(lg){
-    //   display: flex;
-    //   flex-direction: column;
-    // }
+    @include respond-above(lg){
+      display: flex;
+      flex-direction: column;
+    }
     li {
       display: table-cell;
       vertical-align: middle;
