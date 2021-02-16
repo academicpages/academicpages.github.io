@@ -201,14 +201,9 @@
 
   .visible-links {
     display: table;
-    @include respond-above(lg){
-      display: flex;
-      flex-direction: column;
-      width: 100%;
-    }
     li {
       display: table-cell;
-      vertical-align: middle;
+      vertical-align: top;
 
       &:first-child {
         // font-weight: bold;
