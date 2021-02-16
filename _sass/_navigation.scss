@@ -201,6 +201,10 @@
 
   .visible-links {
     display: table;
+    @include respond-above(lg){
+      display: flex;
+      flex-direction: column;
+    }
     li {
       display: table-cell;
       vertical-align: top;
@@ -232,7 +236,10 @@
     border-radius: $border-radius;
     background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
-
+    @include respond-above(lg){
+      display: flex;
+      flex-direction: column;
+    }
     a {
       margin: 0;
       padding: 10px 20px;
