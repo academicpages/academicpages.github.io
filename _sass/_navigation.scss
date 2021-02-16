@@ -47,7 +47,7 @@
   }
 
   .current {
-    font-weight: bold;
+    // font-weight: bold;
   }
 }
 
@@ -126,7 +126,7 @@
     width: 50%;
     font-family: $sans-serif;
     font-size: $type-size-5;
-    font-weight: bold;
+    // font-weight: bold;
     text-align: center;
     text-decoration: none;
     color: mix(#fff, $gray, 50%);
@@ -207,7 +207,7 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
+        // font-weight: bold;
 
         a {
           margin-left: 0;
@@ -245,31 +245,31 @@
       }
     }
 
-    &:before {
-      content: "";
-      position: absolute;
-      top: -11px;
-      right: 10px;
-      width: 0;
-      border-style: solid;
-      border-width: 0 10px 10px;
-      border-color: $border-color transparent;
-      display: block;
-      z-index: 0;
-    }
+    // &:before {
+    //   content: "";
+    //   position: absolute;
+    //   top: -11px;
+    //   right: 10px;
+    //   width: 0;
+    //   border-style: solid;
+    //   border-width: 0 10px 10px;
+    //   border-color: $border-color transparent;
+    //   display: block;
+    //   z-index: 0;
+    // }
 
-    &:after {
-      content: "";
-      position: absolute;
-      top: -10px;
-      right: 10px;
-      width: 0;
-      border-style: solid;
-      border-width: 0 10px 10px;
-      border-color: #fff transparent;
-      display: block;
-      z-index: 1;
-    }
+    // &:after {
+    //   content: "";
+    //   position: absolute;
+    //   top: -10px;
+    //   right: 10px;
+    //   width: 0;
+    //   border-style: solid;
+    //   border-width: 0 10px 10px;
+    //   border-color: #fff transparent;
+    //   display: block;
+    //   z-index: 1;
+    // }
 
     li {
       display: block;
@@ -322,7 +322,7 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
+  // font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   // font-weight: bold;
 }
@@ -331,7 +331,7 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
+  // font-family: $sans-serif-narrow;
   font-size: $type-size-6;
   // font-weight: bold;
   // text-transform: uppercase;
@@ -374,7 +374,7 @@
     padding: 0.5rem 1rem;
     color: $gray;
     font-size: $type-size-7;
-    font-weight: bold;
+    // font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
 
