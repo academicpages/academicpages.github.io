@@ -23,7 +23,7 @@
   cursor: pointer;
 
   &:hover {
-    background-color: $blue;
+    background-color: $dark-blue;
   }
 
   .icon {
@@ -48,8 +48,8 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: $blue !important;
-    border: 1px solid $blue !important; /* override*/
+    color: $dark-blue !important;
+    border: 1px solid $dark-blue !important; /* override*/
     background-color: $white;
 
     &:hover {
