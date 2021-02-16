@@ -3,14 +3,17 @@
    ========================================================================== */
 
 .masthead {
-  position: sticky;
-  position: -webkit-sticky;
+  position: fixed;
   top: 0;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  @include respond-above(lg){
+    width: -moz-fit-content;
+    width: fit-content;
+  }
 
   &__inner-wrap {
     // @include container;
@@ -21,8 +24,6 @@
       background: yellow;
     }
     @include respond-above(lg){
-      display: flex;
-      flex-direction: column;
       background: blue;
     }
     nav {
