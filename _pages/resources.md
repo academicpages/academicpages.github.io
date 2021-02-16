@@ -87,6 +87,7 @@ Peer Review
 
 Others
 ======
+* [VassarStats](http://vassarstats.net/) is a website that explains basic statistics concepts (frequentist type) and can be used for online small scale data analyses.
 * [The Batch](https://www.deeplearning.ai/) is the Deeplearning.AI newsletter that gives you a fresh taste of the latest research and applications in the field of AI every Thursday by Andrew Ng
 * [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a well-written blog about computational neuroscience, data science, getting into industry by Patrick Mineault
 * [Tanya Jonker](https://tanyajonker.com/) a blog about exploraing academic and industry job markets by cognitive neuroscientist Tanya Jonker
