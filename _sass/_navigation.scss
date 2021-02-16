@@ -82,7 +82,6 @@
       text-align: center;
       text-decoration: none;
       color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
       border-radius: 0;
 
       &:hover {
@@ -172,7 +171,8 @@
 
 .greedy-nav {
   position: relative;
-
+  font-family: $header-font-family;
+  font-size: $type-size-3;
   a {
     display: block;
     width: -moz-fit-content;
@@ -205,8 +205,6 @@
       vertical-align: top;
 
       &:first-child {
-        // font-weight: bold;
-
         a {
           margin-left: 0;
         }
@@ -306,7 +304,6 @@
     padding-left: 0.5em;
     padding-right: 0.5em;
     color: #fff;
-    // font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
 
