@@ -11,18 +11,15 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-
+  background-color: $background-color;
+  @include respond-below(lg){
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
   &__inner-wrap {
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    background: red;
-    @include respond-above(md){
-      background: yellow;
-    }
-    @include respond-above(lg){
-      background: blue;
-    }
     @include breakpoint($x-large) {
       max-width: $x-large;
     }

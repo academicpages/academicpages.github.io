@@ -73,8 +73,9 @@
   }
 
   a {
-    text-decoration: underline;
-
+    text-decoration: none;
+    color: $brown;
+    font-weight: bold;
     &:hover {
 //       text-decoration: underline;
 

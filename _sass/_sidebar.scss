@@ -7,7 +7,6 @@
    ========================================================================== */
 
 .sidebar {
-  background: pink;
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
@@ -130,11 +129,13 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: $chivo;
   z-index: 10;
   position: relative;
   cursor: pointer;
-
+  @include respond-below(lg){
+    float: right;
+  }
   li:last-child {
     a {
       margin-bottom: 0;
