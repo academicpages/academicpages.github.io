@@ -21,6 +21,8 @@
       background: yellow;
     }
     @include respond-above(lg){
+      display: flex;
+      flex-direction: column;
       background: blue;
     }
     nav {
