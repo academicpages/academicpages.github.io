@@ -3,7 +3,9 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
