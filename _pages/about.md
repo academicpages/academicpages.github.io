@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello World
+Hi, I’m Blain. I’m currently a 2nd-year Ph.D. Student in Public Policy and Management at the John Glenn College of Public Affairs here at The Ohio State University. I was born in Hawaii, grew up in Massachusetts, and currently reside in Columbus, Ohio. 
 
 A data-driven personal website
 ======
