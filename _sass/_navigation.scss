@@ -77,7 +77,6 @@
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $sans-serif;
       font-size: 14px;
       line-height: 1.5;
       text-align: center;
@@ -173,8 +172,6 @@
 
 .greedy-nav {
   position: relative;
-  min-width: 250px;
-  // background: $background-color;
 
   a {
     display: block;
@@ -224,30 +221,6 @@
       }
     }
 
-    a {
-      position: relative;
-
-      &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        background:  $masthead-link-color-hover;
-        width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
-      }
-
-      &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
-      }
-    }
   }
 
   .hidden-links {

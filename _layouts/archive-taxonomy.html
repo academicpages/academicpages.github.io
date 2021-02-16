@@ -4,8 +4,6 @@ author_profile: false
 ---
 
 <div id="main" role="main">
-  {% include sidebar.html %}
-
   <div class="archive">
     <h1 class="page__title">{{ page.title }}</h1>
     {% include base_path %}
@@ -13,4 +11,5 @@ author_profile: false
       {% include archive-single.html %}
     {% endfor %}
   </div>
+  {% include sidebar.html %}
 </div>

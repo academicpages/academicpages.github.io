@@ -6,7 +6,6 @@
   position: sticky;
   position: -webkit-sticky;
   top: 0;
-  border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -17,7 +16,6 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -50,6 +48,5 @@
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
   }
 }
