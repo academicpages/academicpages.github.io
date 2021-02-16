@@ -11,19 +11,19 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #fff !important;
-  font-family: $sans-serif;
+  color: $white!important;
+  font-family: $chivo;
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: $primary-color;
+  background-color: $white;
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: $blue;
   }
 
   .icon {
@@ -48,13 +48,12 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: $gray !important;
-    border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
+    color: $blue !important;
+    border: 1px solid $blue !important; /* override*/
+    background-color: $white;
 
     &:hover {
-      color: #fff !important;
-      border-color: $gray;
+      color: $white !important;
     }
   }
 

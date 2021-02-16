@@ -13,8 +13,8 @@
   z-index: 20;
   background-color: $background-color;
   @include respond-below(lg){
-    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    -webkit-box-shadow: 0 3px 6px rgba(2,51,115,0.16), 0 3px 6px rgba(2,51,115,0.23);
+    box-shadow: 0 3px 6px rgba(2,51,115,0.16), 0 3px 6px rgba(2,51,115,0.23);
   }
   &__inner-wrap {
     @include container;
