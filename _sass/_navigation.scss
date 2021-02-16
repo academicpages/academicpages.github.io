@@ -178,6 +178,8 @@
 
   a {
     display: block;
+    width: -moz-fit-content;
+    width: fit-content;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
@@ -334,7 +336,7 @@
     padding-left: 0.5em;
     padding-right: 0.5em;
     color: #fff;
-    font-weight: bold;
+    // font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
 
@@ -349,7 +351,7 @@
   padding: 0.5rem 1rem;
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
-  font-weight: bold;
+  // font-weight: bold;
 }
 
 .nav__sub-title {
@@ -358,8 +360,8 @@
   padding: 0.5rem 0;
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
-  font-weight: bold;
-  text-transform: uppercase;
+  // font-weight: bold;
+  // text-transform: uppercase;
   border-bottom: 1px solid $border-color;
 }
 
