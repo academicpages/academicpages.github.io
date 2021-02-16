@@ -12,7 +12,7 @@ Hi, I’m Blain. I’m Ph.D. Student in Public Policy and Management at the John
 
  I was born in Hawaii, grew up in Massachusetts, and currently reside in Columbus, Ohio. I have an ScM in Biostatistics from Brown University and a BS in Economics from The Ohio State University. Outside the classroom, I like to fish, play disc golf, cook, travel, and quibble about minutiae. 
 
-![Here's one of my favorite photos of my Dad and I from when we rode from Rhode Island to Acadia National Park](/images/motopic.png)
+![Here's one of my favorite photos of my Dad and I from when we rode from Rhode Island to Acadia National Park](/images/motopic.jpg)
 
 
 
