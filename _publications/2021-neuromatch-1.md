@@ -7,13 +7,6 @@ date: 2020-06-03
 venue: 'Cognitive Research: Principles and Implications'
 citation: 'Cheng, Y., Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18.'
 ---
-Background <br>
-This study investigated the impact of handedness on a common spatial abilities task, the mental rotation task (MRT). The influence of a right-handed world was contrasted with people’s embodied experience with their own hands by testing both left- and right-handed people on an MRT of right- and left-hand stimuli. An additional consideration is the influence of matching the shape of the hand stimuli with the proprioception of one’s own hands. Two orthogonal hypothesis axes were crossed to yield four competing hypotheses. One axis contrasted (i) embodied experience versus (ii) world knowledge; the other axis contrasted (a) the match between the visual image of a hand on the screen and one’s own hand versus (b) the resemblance of the shape outline information from the hand stimuli with the proprioception of one’s own hands.
-
-Results <br>
-Among people with mixed handedness, right-handers performed more accurately for left-hand stimuli, while left-handers had a trend for higher accuracy for right-hand stimuli. For people with extreme handedness, right-handers outperformed left-handers. Regardless of group, there was no significant variation in performance for left-hand stimuli, with only right-hand stimuli producing significant variation.
-
-Conclusions <br>
-No hypothesis fully aligned with all the data. For left-hand stimuli, the consistent performance across groups does not provide support for embodied experience, while world knowledge might influence all groups similarly. Alternatively, the within-group variation for mixed-handed people supports embodied experience in the hand MRT, likely processed through visual-proprioceptive integration.
+Neuromatch Academy (https://neuromatch.io/academy) was designed as an online summer school to cover the basics of computational neuroscience in three weeks. The materials cover dominant and emerging computational neuroscience tools, how they complement one another, and specifically focus on how they can help us to better understand how the brain functions. An original component of the materials is its focus on modeling choices, i.e. how do we choose the right approach, how do we build models, and how can we evaluate models to determine if they provide real (meaningful) insight. This meta-modeling component of the instructional materials asks what questions can be answered by different techniques, and how to apply them meaningfully to get insight about brain function.
 
 [Download paper here](http://lilianyou.github.io/files/2020-Cheng.pdf)
