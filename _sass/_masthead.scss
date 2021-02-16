@@ -16,7 +16,7 @@
   box-shadow: 0 3px 6px rgba(2,51,115,0.16), 0 3px 6px rgba(2,51,115,0.23);
   @include breakpoint($large){
     -webkit-box-shadow: 0 3px 6px rgba(250,250,250,0.16), 0 3px 6px rgba(250,250,250,0.23);
-    box-shadow: 0 3px 6px rgba(250,250,250,0.16), 0 3px 6px rgba(250,250,250,0.23);
+    box-shadow: 0 3px 6px rgba(250,250,250,1), 0 3px 6px rgba(250,250,250,1);
   }
   &__inner-wrap {
     @include container;
