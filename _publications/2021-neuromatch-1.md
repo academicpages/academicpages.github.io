@@ -1,5 +1,5 @@
 ---
-title: "Telling right from right: the influence of handedness in the mental rotation of hands"
+title: "Neuromatch Academy: a 3-week, online summer school in computational neuroscience"
 collection: publications
 permalink: /publication/2021-neuromatch-1
 excerpt: 'Our findings demonstrate that embodied experience influences spatial thinking about right hands, which might account for the presence of world knowledge variability in MRT, while also suggesting that common external experience shapes performance in spatial thinking tasks. These findings demonstrate that investigations in spatial thinking tasks might overlook the nuances reflecting world knowledge versus embodied experience if researchers do not recruit left-handers.'
