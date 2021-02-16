@@ -15,7 +15,9 @@
   }
 
   a {
-    text-decoration: underline;
+    color: $brown;
+    font-weight: bold;
+    text-decoration: none;
 
     &:hover {
 //       text-decoration: underline;
@@ -41,7 +43,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $header-font-family;
 
   a + a {
     opacity: 0.5;
@@ -78,7 +80,7 @@
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
-   
+
 //      .archive__item-title {
 //     text-decoration: underline;
 //   }

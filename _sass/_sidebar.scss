@@ -133,9 +133,8 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
-  @include respond-below(lg){
-    float: right;
-  }
+  float: right;
+
   li:last-child {
     a {
       margin-bottom: 0;
@@ -144,6 +143,7 @@
 
   @include breakpoint($large) {
     display: block;
+    float: none;
   }
 
   button {
