@@ -13,8 +13,8 @@
   z-index: 20;
 
   &__inner-wrap {
-    // @include container;
-    // @include clearfix;
+    @include container;
+    @include clearfix;
     padding: 1em 1em 1em;
     background: red;
     @include respond-above(md){
@@ -23,6 +23,10 @@
     @include respond-above(lg){
       background: blue;
     }
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
     nav {
       z-index: 10;
     }
@@ -50,5 +54,6 @@
 
   &--lg {
     padding-right: 2em;
+
   }
 }
