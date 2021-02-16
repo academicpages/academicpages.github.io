@@ -177,13 +177,14 @@ body:hover .visually-hidden button {
   position: relative;
   top: -0.1em;
   vertical-align: middle;
+  color: $dark-blue;
 }
 
 /* social icons*/
 
 .social-icons {
   .fa {
-    color: #000;
+    color: $dark-blue;
   }
 
   .fa-behance,
@@ -230,7 +231,8 @@ body:hover .visually-hidden button {
 
   .fa-linkedin,
   .fa-linkedin-square {
-    color: $linkedin-color;
+    // color: $linkedin-color;
+    color: $dark-blue;
   }
 
   .fa-pinterest,
@@ -260,7 +262,8 @@ body:hover .visually-hidden button {
 
   .fa-twitter,
   .fa-twitter-square {
-    color: $twitter-color;
+    // color: $twitter-color;
+    color: $dark-blue;
   }
 
   .fa-vimeo,
