@@ -15,7 +15,10 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    position: fixed;
+    bottom: 0;
+    padding-right: 0;
+    // @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -23,11 +26,6 @@
     &:hover {
       opacity: 1;
     }
-  }
-
-
-  @include breakpoint($x-large) {
-    padding-right: 0;
   }
 
   h2, h3, h4, h5, h6 {
