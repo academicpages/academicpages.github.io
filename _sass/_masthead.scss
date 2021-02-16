@@ -11,10 +11,6 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  @include respond-above(lg){
-    width: -moz-fit-content;
-    width: fit-content;
-  }
 
   &__inner-wrap {
     // @include container;
