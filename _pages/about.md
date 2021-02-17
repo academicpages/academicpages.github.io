@@ -13,4 +13,4 @@ Simultaneously, I work as a research assistant at Fraunhofer Institute for Integ
 
 I believe in the data-driven automation and human-computer cooperation – they should become the main booster of sustainable development and inclusive society.
 
-My research interests include **Semi-Supervised learning**, **Representation learning**, **Causality inference**.
+My research interests include **Semi-Supervised learning**, **Representation learning**, **Causal inference**.
