@@ -26,7 +26,7 @@ As one of my two research agendas involves improving the tools we use to study p
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BayesPostEst)](https://CRAN.R-project.org/package=BayesPostEst)
 [![Codecov test coverage](https://codecov.io/gh/ShanaScogin/BayesPostEst/branch/master/graph/badge.svg)](https://codecov.io/gh/ShanaScogin/BayesPostEst?branch=master)
 
-I am a developer of the [`BayesPostEst`](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
+I am a developer of the [BayesPostEst](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
 
 {% include gallery %}
 
@@ -48,17 +48,25 @@ You can try out the `mcmcCoefPlot` function from the package in the interactive 
 # RWmisc
 
 [![R build status](https://github.com/jayrobwilliams/RWmisc/workflows/R-CMD-check/badge.svg)](https://github.com/jayrobwilliams/RWmisc/actions)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/RWmisc)](https://CRAN.R-project.org/package=RWmisc)
 [![codecov](https://codecov.io/gh/jayrobwilliams/RWmisc/branch/master/graph/badge.svg)](https://codecov.io/gh/jayrobwilliams/RWmisc)
 
-I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [`RWmisc`](https://github.com/jayrobwilliams/RWmisc). It includes:
+I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [RWmisc](https://CRAN.R-project.org/package=RWmisc). It includes functions for:
 
 - Managing multiple different projections for cross-national spatial data
+- Converting latitude-longitude data in archaic forms (degrees, minutes, seconds)
 - Correcting for overlapping polygons when aggregating raster data to polygons
 - My custom minimal ggplot2 theme
 
 ![](/images/software/spatial_weighting.png)
 
-You can install the current version with :
+To install the latest release on CRAN:
+
+```r
+install.packages("RWmisc")
+```
+
+The latest [development version](https://github.com/jayrobwilliams/RWmisc) on GitHub can be installed with:
 
 ```r
 library(remotes)
