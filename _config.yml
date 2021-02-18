@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-Lima,Perú"
+locale                   : "en-peruvian"
 title                    : "Raúl Sedano Molina"
 title_separator          : "-"
 name                     : &name "Raúl"
-description              : &description "buena onda"
+description              : &description "Autodidacta"
 url                      : https://raulsedano2410.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/raulsedano2410.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : " Raúl Sedano Molina"
   avatar           : "profile.png"
-  bio              : "Desarrollador y Programador web"
+  bio              : "Scheduler in progress"
   location         : "San Juan De Lurigancho,Lima,Perú"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/raul.sedano.10"
   foursquare       :
   github           : "https://raulsedano2410.github.io/"
   google_plus      :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/Raul08654871"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Lima # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
