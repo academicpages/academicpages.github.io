@@ -15,6 +15,9 @@ I am currently working with a group of Data Scientists at RiskLab on a project i
 
 I am also working with [Cameron Martin](http://cameronmartin.ca/) to finish a paper introducing our work (under supervision of Prof. Adam Stinchcombe) developing a mathematical model of a biological oscillator related to the Methamphetamine-Sensitive Circadian Oscillator (MASCO).
 
+In March I will be joining Deloitte's Omnia AI team as a Data Scientist.
+
 This website is still a WIP. Why are you here??
+
 
 
