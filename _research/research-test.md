@@ -2,8 +2,8 @@
 title: "Teaching experience 1"
 collection: research
 permalink: /research/research-test
-teaser: higgspotential.png
-type: grid
+header:
+    teaser: higgspotential.png
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
