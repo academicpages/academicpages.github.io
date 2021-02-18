@@ -17,6 +17,8 @@ I received my B.S. degree from the Department of Mathematical Sciences at Tsingh
 
 ### Research Timeline:
 
+- [2021/02/06] Began serving as a PC for ACL 2021.
+
 - [2021/01/12] Two co-first-author papers ([FairFil](https://openreview.net/forum?id=N6JECD-PI5w) and [IDE-VC](https://openreview.net/forum?id=TgSVWXw22FQ)) got accepted at ICLR 2021. 
 
 - [2020/12/17] Began serving as a senior PC for IJCAI 2021.
