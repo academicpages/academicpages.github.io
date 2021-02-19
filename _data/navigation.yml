@@ -12,17 +12,17 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-  - title: "Experience"
-    url: /experience/
+#  - title: "Experience"
+#    url: /experience/
     
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Reading List"
-    url: /reading/
+#  - title: "Reading List"
+#    url: /reading/
     
   - title: "CV"
     url: /cv/
     
- - title: "Contact"
-    url: /contact/
+# - title: "Contact"
+#    url: /contact/
