@@ -9,23 +9,36 @@ tags:
 
 ---
 
-We have updated the Router API to make it cleaner. This applies to Raphtory (? How do we refer to this without version numbers) onwards. Previously the coder needed to say SendUpdate and wrap this around the type of update that was being performed. The API now simply allows the user to directly make the update.
+We have updated the Router API to make it cleaner. This applies to Raphtory version 0.11 onwards that will be live from 1st March. Previously the coder needed to say SendUpdate and wrap this around the type of update that was being performed. The API now simply allows the user to directly make the update.
 
-The new API looks like this.
-To add a vertex or edge (where "Vertex/Edge Type/Property" etc can be any string)
-
+The new API looks like this. To add a vertex or edge, optionally with properites or types.
 ```
-VertexAdd(timeStamp,srcID,Type("Vertex Type"))
-VertexAddWithProperties(timeStamp, srcID, Properties(ImmutableProperty("Vertex Property",sourceNode)),Type("Vertex Type")))
-EdgeAdd(timeStamp,srcID,tarID,Type("Some Edge Type"))
-EdgeAddWithProperties(timeStamp,srcID,tarID,Properties(ImmutableProperty("Edge Property",sourceNode)),Type("Edge Type")))
+addVertex(updateTime: Long, srcId: Long)
+addVertex(updateTime: Long, srcId: Long, properties: Properties)
+addVertex(updateTime: Long, srcId: Long, vertexType: Type)
+addVertex(updateTime: Long, srcId: Long, properties: Properties, vertexType: Type)
+addEdge(updateTime: Long, srcId: Long, dstId: Long)
+addEdge(updateTime: Long, srcId: Long, dstId: Long, properties: Properties)
+addEdge(updateTime: Long, srcId: Long, dstId: Long, edgeType: Type)
+addEdge(updateTime: Long, srcId: Long, dstId: Long, properties: Properties, edgeType: Type)
 ```
-
 To remove a vertex or edge:
-
 ```
-deleteVertex(msgTime, srcId)
-EdgeDelete(msgTime, srcId, dstId)
+deleteVertex(updateTime: Long, srcId: Long)
+deleteEdge(updateTime: Long, srcId: Long)
+```
+
+Here's some examples of how they might look in practice:
+```
+addVertex(timeStamp1,srcNode)
+addEdge(timeStamp1,srcNode,dstNode)
+addVertex(timeStamp2,nodeA,ImmutableProperty("Vertex Property",srcName))
+addVertex(timeStamp2,nodeB,Type("Vertex Type"))
+addVertex(timeStamp2,nodeB,ImmutableProperty("Another Vertex Property",srcName), Type("Another Vertex Type"))
+addEdge(timeStamp2, nodeA, nodeB)
+addEdge(timeStamp2, nodeA, nodeC, ImmutableProperty("Edge Property",srcName), Type("Edge Type"))
+deleteVertex(timeStamp3, srcId)
+deleteEdge(timeStamp3, nodeA, nodeB)
 ```
 
 So previously your code might look like this:
@@ -37,9 +50,9 @@ sendUpdate(EdgeAdd(timeStamp,srcID,tarID, Type("Character Co-occurence")))
 
 Your updated code should look like this:
 ```
-VertexAddWithProperties(timeStamp, srcID, Properties(ImmutableProperty("name",sourceNode)),Type("Character"))
-VertexAddWithProperties(timeStamp, tarID, Properties(ImmutableProperty("name",targetNode)),Type("Character"))
-EdgeAdd(timeStamp,srcID,tarID, Type("Character Co-occurence"))
+addVertex(timeStamp, srcID, Properties(ImmutableProperty("name",sourceNode)),Type("Character"))
+addVertex(timeStamp, tarID, Properties(ImmutableProperty("name",targetNode)),Type("Character"))
+addEdge(timeStamp,srcID,tarID, Type("Character Co-occurence"))
 ```
 
 Hopefully code updates should be extremely simple. 
