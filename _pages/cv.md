@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial & Systems Engineering, The Ohio State University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data & Analytics Consultant, CapTech Ventures Inc.			                  
+  * Richmond, Virginia, Jan. 2020 - Present
+  * Worked at a Fortune 100 bank as a Machine Learning Engineer with a team of data scientists to develop a dynamic penalty function to grade each business application by cyber risk by summarizing over 170 metrics across 4 domains.
+  * Formulated a penalty function, worked with subject matter experts (SMEs) to own the “Resiliency” domain within cyber risk, and developed and productionized the model in python and SQL on AWS.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Data Science Intern (Implementation Specialist), Nationwide Insurance
+  * Columbus, Ohio, May 2019 - Dec. 2019
+  * Worked in the Predictive Analytics department to formulate and develop a back end automated system and front end web application that monitors the performance of predictive models through a series of data visualizations. 
+  * Handled all ETL processes in SQL and SPSS Modeler. Used Python and Django to visualize data in a web application. 
+  * Aided in the development of other front end web applications designed to support predictive models.
+  * Environment:  Teradata, Linux, Django, Flask, Python, R, Shell, Tableau, Postgre SQL Server.
+
+* Data Science Capstone Project, NetJets						   
+  * Columbus, Ohio, Aug. 2019 - Dec. 2019
+  * Lead a group of three to develop a predictive model to estimate the probability of an unscheduled maintenance event occurring on a specific jet the next day, based on 2019 YTD data.
+  * Implemented data mining and machine learning techniques in python for data exploration and model development.
+
+* Big Data Engineer Intern, Vertiv Co.						          
+  * Central Ohio, May 2018 - Oct. 2018
+  * Gained extensive understanding of big data technologies and framework as well as coding experience in Python and SQL.  
+  * Created the framework to automatically ingest and cleanse marketing data streams from various web APIs to the company’s data lake, though various layers of processing, and ultimately in updated views inside of Power BI for analytics. 
+  * Automated data entry jobs using Python and VBA, saving the company over 100 hours per month.
+  * Environment: Hadoop, HDFS, Cloudera Data Science Workbench, Linux, Talend, Kafka, Power BI.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Python, SQL, R, Java, Apache Spark, C++, Linux, Bash
+* Software: Tableau, QuickSight, Power BI, SPSS Modeler
+* Databases: Snowflake, Hive, Teradata, SQLite, PostgreSQL Server, MS Access, AWS Redshift
+* Lean Six Sigma Yellow Belt Certified
