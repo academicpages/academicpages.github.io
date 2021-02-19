@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am **Natalí Soler Matubaro de Santi**, a theoretical physicist interested in cosmology, data science and machine learning. Currently, I am a PhD candidate of Institute of Physics at University of São Paulo (USP), working with Professor [Raul Abramo](http://lattes.cnpq.br/4558796258762790) (and he has a pretty nice [webpage](http://www.fma.if.usp.br/~abramo/Home.html), check out!).
+Hello, I am **Natalí Soler Matubaro de Santi**, a physicist interested in cosmology, data science, machine learning and programming. Currently, I am a PhD candidate of Institute of Physics at University of São Paulo (USP), working with Professor [Raul Abramo](http://lattes.cnpq.br/4558796258762790) (and he has a pretty nice [webpage](http://www.fma.if.usp.br/~abramo/Home.html), check out!).
 
 First things first, a little **about me**:
 
