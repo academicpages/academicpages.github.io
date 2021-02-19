@@ -18,10 +18,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-#  - title: "Reading List"
-#    url: /reading/
+  - title: "Reading List"
+    url: /reading/
     
-  - title: "CV"
+  - title: "Experience"
     url: /cv/
     
 # - title: "Contact"
