@@ -14,15 +14,15 @@ main:
 
 #  - title: "Experience"
 #    url: /experience/
+
+  - title: "Experience"
+    url: /cv/
+ 
+   - title: "Reading List"
+    url: /reading/
     
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Reading List"
-    url: /reading/
-    
-  - title: "Experience"
-    url: /cv/
     
 # - title: "Contact"
 #    url: /contact/
