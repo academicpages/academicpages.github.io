@@ -12,26 +12,25 @@ tags:
 
 Getting started with Raphtory only takes a few steps. We will use an example Raphtory project and install SBT (Scala Build Tool) to get it up and running.
 
-## 1. Clone the example project
-[Clone from github](https://github.com/Raphtory/Examples.git) **or** can be done by opening your terminal and performing a git clone:
- `git clone https://github.com/Raphtory/Examples.git`
+## 1. Clone the example project and Add the latest Raphtory release
+[Clone from github](https://github.com/Raphtory/Examples.git). Get the latest release [here](https://github.com/Raphtory/Raphtory/releases/latest). Follow the link and download the [raphtory.jar](https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar). Move it into the `lib` directory of the example project you cloned.
 
+On the Ubuntu terminal, you can do both steps with the command assuming that you have git installed locally:
 
-## 2. Add the latest Raphtory release
-Get the latest release [here](https://github.com/Raphtory/Raphtory/releases/latest). Follow the link and download the [raphtory.jar](https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar). Move it into the `lib` directory of the example project you cloned in Step 1.
+```
 
-**Or**, perform the command below in your terminal to do Step 1 and 2 together:
+git clone https://github.com/Raphtory/Examples.git raphtory_example && wget https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar -P raphtory_example/lib/
 
-`git clone https://github.com/Raphtory/Examples.git raphtory_example && wget https://github.com/Raphtory/Raphtory/releases/latest/download/raphtory.jar -P raphtory_example/lib/`
+```
 
-## 3. Install SBT  
+## 2. Install SBT  
 Install SBT by following the guide [here](https://www.scala-sbt.org/1.x/docs/Setup.html). The example project uses SBT to compile the source code.
 **OR** prepend `sbt/bin` to the following commands to use the sbt included in the project if you do not want to install sbt locally.
 
-## 4. Initiate SBT
+## 3. Initiate SBT
 Change into the example project directory and use the command `sbt` to start the Scala Build Tool. Once you see the `>` prompt, it means that you are in the SBT interactive shell.
 
-## 5. Compile the code
+## 4. Compile the code
 
 Once prompted again with `>`, you can run `compile` to build the project. This should produce the output below if working correctly:
 
@@ -154,4 +153,4 @@ View Analysis manager for com.raphtory.algorithms.DegreeBasic_1607467033428 at 1
 
 
 ---
-Now that you have Raphtory set up, the next step is to learn to build a spout and router to ingest data. Check the next entry: [Write your first Spout/Router](/documentation/sprouter)
+Now that you have Raphtory set up, the next step is to learn to build a spout and graph builder to ingest data. Check the next entry: [Write your first Spout/Router](/documentation/sprouter)
