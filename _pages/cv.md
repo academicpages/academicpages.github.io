@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/RAUL 2020.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
