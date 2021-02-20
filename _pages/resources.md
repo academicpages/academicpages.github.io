@@ -27,6 +27,7 @@ Coding
 * [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, & Jannes Muenchow
 * [An Introduction to Spatial Data Analysis and Visualisation in R](https://spatialanalysisonline.com/An%20Introduction%20to%20Spatial%20Data%20Analysis%20in%20R.pdf) by Guy Lansley & James Cheshire
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman & George Athanasopoulos
+* [Intro to R Bayes Packages](https://melissa-wong.github.io/r-ladies-bayes-pkgs/) by Melissa Wong
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/) by Alicia A. Johnson, Miles Ott, & Mine Dogucu
 * [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde, Mine Çetinkaya-Rundel, Colin Rundel, David Banks, Christine Chai & Lizzy Huang
 * [HackerRank](https://www.hackerrank.com/) for coding practice in multiple programming languages esp. SQL and Python
