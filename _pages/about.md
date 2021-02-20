@@ -13,6 +13,8 @@ My ongoing work combines statistical, network, and computational methods with la
 
 I am currently also working on a project mapping and predicting social distancing behavior combining [SafeGraph](https://docs.safegraph.com/docs/weekly-patterns) and Facebook data with a deep learning approach. I am also using computational methods to track U.S. public firms' responses to COVID19. 
 
+If you need CSS-related talks or workshops, please feel free to contact me directly.
+
 [Download Zhang's Vita Here](https://yongjunzhang.com/files/zhang-vita.pdf).
 
 [Click Here to See Data Visualization for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
