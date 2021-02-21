@@ -1,21 +1,21 @@
 ---
-title: "Teaching Assistant"
+title: "The Ohio State University"
 collection: teaching
 type: "TA"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/OSU-TA
+venue: "The Ohio State University"
+date: 2020-01-01
+location: "Columbus OH, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-check 1
+PUBAFRS 6070: Public Affairs Statistics (Master's Level)
 ======
-random
+Spring 2020
 
-check 2
+PUBAFRS 6080: Program Evaluation (Master's Level)
 ======
+Spring 2020
 
-Heading 3
+ECON 4001: Intermediate Microeconomics (Undergraduate Level)
 ======
+Spring 2016
