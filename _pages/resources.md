@@ -21,9 +21,7 @@ Coding
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) by Danielle Navarro
 * [Advanced R](https://adv-r.hadley.nz/index.html) by Hadley Wickham
 * [Tidy Evaluation](https://tidyeval.tidyverse.org/welcome.html) by Lionel Henry & Hadley Wickham
-* [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge & David Robinson
 * [Mastering Spark with R](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, & Edgar Ruiz
-* [Tidy Modeling with R](https://www.tmwr.org/index.html) by Max Kuhn & Julia Silge
 * [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, & Jannes Muenchow
 * [An Introduction to Spatial Data Analysis and Visualisation in R](https://spatialanalysisonline.com/An%20Introduction%20to%20Spatial%20Data%20Analysis%20in%20R.pdf) by Guy Lansley & James Cheshire
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman & George Athanasopoulos
@@ -47,6 +45,8 @@ Modeling
 * [Neuromatch Acadmy Course Materials](https://www.neuromatchacademy.org/syllabus)
 * [Neurohackademy Course Videos](https://www.youtube.com/channel/UCLKSeDZWDqBzKRfHTabg1lQ) through UW eScience Institute
 * [Foundations of Machine Learning](http://www.deltanalytics.org/curriculum.html) curriculum slides and code for core machine learning concepts
+* [Tidy Modeling with R](https://www.tmwr.org/index.html) by Max Kuhn & Julia Silge
+* [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge & David Robinson
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn & Kjell Johnson
 * [Feature Engineering for Machine Learning](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf) by Alice Zheng & Amanda Casari
 * [Kaggle](https://www.kaggle.com/) for downloading some fun public datasets to try out machine learning algorithms
