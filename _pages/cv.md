@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://blainmorin.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://blainmorin.github.io/files/Blain-CV.pdf" type="application/pdf" width="600px" height="500px" />
