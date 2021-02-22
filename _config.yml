@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruben Talavera-Garcia Academic Webpage"
+title                    : "Ruben Talavera-Garcia"
 title_separator          : "-"
 name                     : &name "Ruben Talavera-Garcia"
 description              : &description "Postdoc Researcher"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "R"
+  name             : "Ruben Talavera-Garcia, PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoc researcher in active mobility"
+  location         : "Madrid, Spain"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
