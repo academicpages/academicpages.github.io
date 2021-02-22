@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ruben Talavera-Garcia"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Postdoc Researcher in active mobility"
+  location         : "Madrid, Spain"
+  employer         : "Complutense University of Madrid"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.es/citations?user=3QOiyqUAAAAJ&hl=es"
+  email            : "rtalaveragarcia [at] ucm.es
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "rtalaverag"
   vine             :
   weibo            :
   xing             :
