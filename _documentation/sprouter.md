@@ -21,7 +21,7 @@ If you have downloaded the [example](https://github.com/Raphtory/Examples.git) f
 
 The examples are found within the path `src/main/scala/examples`.  
 
-For this example, we will use a dataset that tells us when two characters show up at the same time in the Lord of the Rings books. The `csv` file (comma-separated values) can be found in the examples folder, and each line contains two characters that appeared in the same sentence in the book, along with which sentence they appeared as indicated by a number. The first line of the file, for example, is Gandalf,Elrond,33 which tells us that Gandalf and Elrond appears together in sentence 33.  
+For this example, we will use a dataset that tells us when two characters show up at the same time in the Lord of the Rings books. The `csv` file (comma-separated values) in the examples folder can be found [here](https://github.com/Raphtory/Examples/blob/main/src/main/scala/examples/lotr/lotr.csv), and each line contains two characters that appeared in the same sentence in the book, along with which sentence they appeared as indicated by a number. In the example, the first line of the file is `Gandalf,Elrond,33` which tells us that Gandalf and Elrond appears together in sentence 33.  
 
 Also, in the examples folder you will find `LOTRSpout.scala`, `LOTRGraphBuilder.scala` and `LOTRDeployment.scala` which we will go through in detail.
 
