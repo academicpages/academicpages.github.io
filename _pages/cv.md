@@ -9,4 +9,4 @@ redirect_from:
 
 [Download my CV here](http://blainmorin.github.io/files/Blain-CV.pdf)
 
-<embed src="https://blainmorin.github.io/files/BlainCV.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://blainmorin.github.io/files/Blain-CV.pdf" type="application/pdf" width="600px" height="500px" />
