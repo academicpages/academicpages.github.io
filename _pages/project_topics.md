@@ -4,6 +4,7 @@
 4. Benchmark out of distribution detection methods (create a tooklit with common evaluation framework and several SoTA OoD methods. Can you provide some insights?)
 5. Study whether any of these methods help in transfer learning between languages with different syntax (e.g., left-to-right and right-to-left languages). Make sure to see the effect with and without the use of bidirectional models such as biLSTM.
 6. Cross-modal pseudolabeling on social network data
+7. Use concept from the class to design time-series representations: https://xai-360.github.io/TSCL/ https://openreview.net/pdf?id=8qDwejCuCN 
 
 Emergent communication (we can focus on: multi-modal / noisy channels / explainability)
 Check for papers in https://scholar.google.com/scholar?cites=17308624474306270808&as_sdt=400005&sciodt=0,14
