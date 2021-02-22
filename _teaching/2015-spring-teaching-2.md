@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant Roles: The Ohio State University"
+title: "The Ohio State University"
 collection: teaching
 type: "TA"
 permalink: /teaching/OSU-TA
