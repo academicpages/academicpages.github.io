@@ -22,8 +22,8 @@ redirect_from:
 
 # Publications (* means equal contribution)
 * <b>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation</b> <br> 
-  Chen, Jieneng; Lu, Yongyi; Yu, Qihang; <b>Luo, Xiangdeo</b>; Adeli, Ehsan; Wang, Yan; Lu, Le; Yuille, Alan L; Zhou, Yuyin<br>
- [[paper](arXiv preprint arXiv:2102.04306)][[code](https://github.com/Beckschen/TransUNet)]
+  Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
+ [paper](arXiv preprint arXiv:2102.04306)][[code](https://github.com/Beckschen/TransUNet)]
  
 * <b>Semi-supervised Segmentation via Uncertainty Rectified Pyramid Consistency and Its Application to Gross Target Volume of Nasopharyngeal Carcinoma</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
