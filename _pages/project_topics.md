@@ -10,7 +10,7 @@ Check for papers in https://scholar.google.com/scholar?cites=1730862447430627080
 Open problems https://arxiv.org/abs/2012.08630
 
 Adversarial connections in *graphs* (useful for defenses against social media malicious user groups)
-- Useful concepts: Network formation games / Graph bandits
+- Useful concepts: Network formation games / Graph bandits / Graph diffusion
 https://www.kdd.org/exploration_files/8._CR.10.Misinformation_in_social_media_-_Final.pdf
 https://paperswithcode.com/paper/graph-adversarial-networks-protecting
 https://paperswithcode.com/paper/boundary-thickness-and-robustness-in-learning
