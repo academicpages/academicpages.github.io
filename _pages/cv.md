@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ilustrisimo colegion nacional # 158 "Santa María" 
+* Ilustrisimo colegio nacional # 158 "Santa María" 
 
 Work experience
 ======
@@ -49,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 49 different slack teams
