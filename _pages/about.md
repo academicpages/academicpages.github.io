@@ -21,6 +21,10 @@ redirect_from:
 * Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised medical image segmentation research, the repo at [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), any advices and suggestions are welcomed.
 
 # Publications (* means equal contribution)
+* <b>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation</b> <br> 
+  Chen, Jieneng; Lu, Yongyi; Yu, Qihang; <b>Luo, Xiangdeo</b>; Adeli, Ehsan; Wang, Yan; Lu, Le; Yuille, Alan L; Zhou, Yuyin<br>
+ [[paper](arXiv preprint arXiv:2102.04306)][[code](https://github.com/Beckschen/TransUNet)]
+ 
 * <b>Semi-supervised Segmentation via Uncertainty Rectified Pyramid Consistency and Its Application to Gross Target Volume of Nasopharyngeal Carcinoma</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
