@@ -25,7 +25,7 @@ Since Raphtory is vertex-centric, a good intuition to keep when building algorit
 ## Six Degrees of Gandalf
 To continue with the LOTR example done previously in the [spout tutorial](https://raphtory.github.io/documentation/sprouter), we're going to go over how to write an analyser for the LOTR data that will get the size of the _six degrees of separation_ network for a character; in this case,`Gandalf`. Six degrees of separation is "the idea that all people on average are six, or fewer, social connections away from each other." ([wiki here in case you want to know more](https://en.wikipedia.org/wiki/Six_degrees_of_separation)).
 
-The example file can be found in the path `src/main/scala/examples` in the raphtory_example directory.
+The example file can be found in the path `src/main/scala/examples` in the example directory cloned in the [installation guide](https://raphtory.github.io/documentation/install).
 
 ### Pre-step
 First, we need to create a property to store the state of _separation_ and initialize it in `setup`.
@@ -64,7 +64,7 @@ override def analyse(): Unit = {
 The above code runs until no more messages are sent (or the number of steps reaches `defineMaxSteps`).This means that all nodes in the _six degrees of separation_ network have updated their states with how far they are from the source.
 
 ### The Return of The King
-Now that the algorithm has converged, we need to get the results back and process them if necessary. The following filters the results by only returning the vertices that have their states updated and are reachable in under a number of jumps to `Gandalf`. It also groups the results by their separation degree and returns the size of each group.
+Now that the algorithm has converged, we need to get the results back and process them if necessary. The following filters the results by only returning the vertices that have their states updated and are reachable in under a number of hops to `Gandalf`. It also groups the results by their separation degree and returns the size of each group.
 
 ```scala
 override def returnResults(): Any =
@@ -112,13 +112,15 @@ Range queries are similar to this, but take a start time, end time (inclusive) a
   rg.rangeQuery(ConnectedComponents(),start = 1,end = 32674,increment = 100,arguments)
   rg.rangeQuery(ConnectedComponents(),start = 1,end = 32674,increment = 100,window=100,arguments)
   rg.rangeQuery(ConnectedComponents(),start = 1,end = 32674,increment = 100,windowBatch=Array(100,50,10),arguments)
+  rg.viewQuery(SixDegreesOfGandalf(),timestamp = 5000,arguments)
 ````
 
-Finally we can see an Implemented version of the `SixDegreesOfGandalf` run as a range query over all pages. Running this on line 5000 of the books, returns the following json data. This is a separation degree of 3 with the total size of the network divided by the number of characters that directly interacted with Gandalf (in this case, 24 divided by 9).
+Finally we can see an Implemented version of the `SixDegreesOfGandalf` run as a range query over all pages. Running this on line 5000 of the books, returns the following JSON data.
 
 ```json
 {"time":5000,"total":24,"direct":9,"viewTime":316}
 ```
+This data tells us that there are a total of 24 nodes: 14 nodes are connected to the 9 nodes that are directly connected to Gandalf. This gives a degree of separation of 3.  
 
 Delete the queries that are in the file and write your own to get this output. Once you are happy with this you should have all the tools needed to create graphs for your own datasets. If you have any questions, come join the Raphtory Slack and get involved with the discussion! :) 
 
