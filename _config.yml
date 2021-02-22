@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Ruben Talavera-Garcia, PhD"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Postdoc researcher in active mobility"
   location         : "Madrid, Spain"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Complutense University of Madrid"
+  pubmed           :
+  googlescholar    : "https://scholar.google.es/citations?user=3QOiyqUAAAAJ&hl=es"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
