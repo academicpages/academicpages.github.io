@@ -3,7 +3,7 @@ title: "Brown University"
 collection: teaching
 type: "TA"
 permalink: /teaching/BROWN-TA
-venue: "The Ohio State University"
+venue: "Brown University"
 date: 2019-01-01
 location: "Providence RI, USA"
 ---
