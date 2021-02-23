@@ -3,8 +3,10 @@
 3. Explore methods discussed in this class for medical datasets (rare diseases etc)
 4. Benchmark out of distribution detection methods (create a tooklit with common evaluation framework and several SoTA OoD methods. Can you provide some insights?)
 5. Study whether any of these methods help in transfer learning between languages with different syntax (e.g., left-to-right and right-to-left languages). Make sure to see the effect with and without the use of bidirectional models such as biLSTM.
-6. Cross-modal pseudolabeling on social network data
-7. Use concept from the class to design time-series representations: https://xai-360.github.io/TSCL/ https://openreview.net/pdf?id=8qDwejCuCN 
+6. Cross-modal pseudolabeling on social network data (combine graph contrastive with cross-modal pseudolabeling) https://arxiv.org/pdf/2006.05582v1.pdf https://arxiv.org/pdf/1911.12667.pdf
+7. Explore 3D mutli-view contrastive methods (using models and augmentation methods that handle for 3D data)
+8. Use concept from the class to design time-series representations: https://xai-360.github.io/TSCL/ https://openreview.net/pdf?id=8qDwejCuCN 
+9. Cirriculum contrastive learning https://arxiv.org/abs/2010.01028
 
 Emergent communication (we can focus on: multi-modal / noisy channels / explainability)
 Check for papers in https://scholar.google.com/scholar?cites=17308624474306270808&as_sdt=400005&sciodt=0,14
