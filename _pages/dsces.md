@@ -54,21 +54,21 @@ John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchi
 | Aug | 24 | 25 | 26 | 27 | 28 |
 | 1 | First day of class | | Introduction to Python | | Introduction to Python |
 | Aug/Sep | 31 | 1 | 2 | 3 | 4 |
-| 2 | Introduction to NumPy | | Curve Fitting | | Kitchin<br>Ch.3<br>Numerical Integration<br>**Quiz 1** |
+| 2 | Introduction to NumPy | | Curve Fitting | | Kitchin<br>Ch.3<br>Numerical Integration<br> |
 | Sep | 7 | 8 | 9 | 10 | 11 |
 | 3 | Labor Day<br>No class | | Kitchin<br>Ch.4<br>Linear algebra | | Kitchin<br>Ch.4<br>Linear algebra |
 | Sep | 14 | 15 | 16 | 17 | 18 |
-| 4 | Kitchin<br>Ch.5<br>Solving nonlinear equations | | Kitchin<br>Ch.5<br>Solving nonlinear equations | | Kitchin<br>Ch.6<br>Statistics<br>**Quiz 2** |
+| 4 | Kitchin<br>Ch.5<br>Solving nonlinear equations | | Kitchin<br>Ch.5<br>Solving nonlinear equations | | Kitchin<br>Ch.6<br>Statistics<br> |
 | Sep | 21 | 22 | 23 | 24 | 25 |
 | 5 | Kitchin<br>Ch.6<br>Statistics | | Kitchin<br>Ch.7<br>Data analysis | | Kitchin<br>Ch.7<br>Data analysis |
 | Sep/Oct | 28 | 29 | 30 | 1 | 2 |
-| 6 | Review | **Midterm 1** | Kitchin<br>Ch.8<br>Interpolation | | Kitchin<br>Ch.9<br>Optimization |
+| 6 | Review | | Kitchin<br>Ch.8<br>Interpolation | | Kitchin<br>Ch.9<br>Optimization |
 | Oct | 5 | 6 | 7 | 8 | 9 |
-| 7 | Kitchin<br>Ch.9<br>Optimization | | Review | | Kitchin<br>Ch.10<br>Differential Equations<br>**Quiz 3** |
+| 7 | Kitchin<br>Ch.9<br>Optimization | | Review | | Kitchin<br>Ch.10<br>Differential Equations<br> |
 | Oct | 12 | 13 | 14 | 15 | 16 |
 | 8 | Kitchin<br>Ch.10<br>Differential Equations | | Kitchin<br>Ch.10<br>Differential Equations | | Review |
 | Oct | 19 | 20 | 21 | 22 | 23 |
-| 9 | Review | **Midterm 2** | Kitchin<br>Ch.11<br>Data Visualization | | Kitchin<br>Ch.11<br>Data Visualization |
+| 9 | Review | | Kitchin<br>Ch.11<br>Data Visualization | | Kitchin<br>Ch.11<br>Data Visualization |
 | Oct | 26 | 27 | 28 | 29 | 30 |
 | 10 | _TBD_<br>Probabilities and distributions | | _TBD_<br>Probabilities and distributions  | | DL Ch.5<br>Machine Learning Basics I  |
 | Nov | 2 | 3 | 4 | 5 | 6 |
@@ -76,12 +76,12 @@ John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchi
 | Nov | 9 | 10 | 11 | 12 | 13 |
 | 12 | PRML Ch.6<br>Kernel Methods | | Clustering| | DL Ch.6<br>FFNN |
 | Nov | 16 | 17 | 18 | 19 | 20 |
-| 13 | Review | **Midterm 3** | DL Ch.7&8<br>Deep Learning Basics I | | DL Ch.7&8<br>Deep Learning Basics II |
+| 13 | Review | | DL Ch.7&8<br>Deep Learning Basics I | | DL Ch.7&8<br>Deep Learning Basics II |
 | Nov | 23 | 24 | 25 | 26 | 27 |
 | | ----- || Thanksgiving Break || ----- |
 | Nov/Dec | 30 | 1 | 2 | 3 | 4 |
-| 14 | DL Ch.9<br>Convolutional Networks | | DL Ch.10<br>Recurrent Networks | | DL Ch.20<br>Generative Models |
+| 14 | DL Ch.7&8<br>Deep Learning Basics II | | DL Ch.9<br>Convolutional Networks | | DL Ch.9<br>Convolutional Networks |
 | Dec | 7 | 8 | 9 | 10 | 11 |
-| 15 | Graph Networks || Final Project Presentations || ----- |
+| 15 | DL Ch.10<br>Recurrent Networks || Final Project Presentations || ----- |
 | Dec | 14 | 15 | 16 | 17 | 18 |
 | | ----- || Finals Week || ----- |
