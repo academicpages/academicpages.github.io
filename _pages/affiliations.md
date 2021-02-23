@@ -5,8 +5,12 @@ permalink: /affiliations/
 author_profile: true
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
-{% for post in site.affiliations reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#{% for post in site.affiliations reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
+
+dafdsfasdfasdf
+fasdfasdfasdfa
+fasdfasdfasdfa
