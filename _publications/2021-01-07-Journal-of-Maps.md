@@ -1,7 +1,7 @@
 ---
 title: "Examining spatio-temporal mobility patterns of bike-sharing systems: the case of BiciMAD (Madrid)"
 collection: publications
-permalink: /publication/2021-01-07-Journal-of-Maps-1
+permalink: /publication/2021-01-07-Journal-of-Maps
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-01-07
 venue: 'Journal of Maps'
