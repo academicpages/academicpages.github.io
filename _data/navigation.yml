@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Affilitions"
+    url: /affiliations/
+
   - title: "Publications"
     url: /publications/
 
