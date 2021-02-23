@@ -41,9 +41,9 @@ Office Hours: 3:20P-5:20P F via Zoom
 4. By the end of the course, the student will have had opportunities to further his or her professional development through practicing written, oral, and graphical communication skills.
 
 ## Text:
-John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchingroup.cheme.cmu.edu/pycse/), 2018.
-Christopher M. Bishop, [Pattern Recognition and Machine Learning](http://research.microsoft.com/~cmbishop/PRML), 2009.
-Ian Goodfellow, Yoshua Bengio, and Aaron Courville, [Deep Learning](https://www.deeplearningbook.org), 2016.
+- John Kitchin, [_Python3 Computations in Science and Engineering_](https://kitchingroup.cheme.cmu.edu/pycse/), 2018.
+- Christopher M. Bishop, [Pattern Recognition and Machine Learning](http://research.microsoft.com/~cmbishop/PRML), 2009.
+- Ian Goodfellow, Yoshua Bengio, and Aaron Courville, [Deep Learning](https://www.deeplearningbook.org), 2016.
 
 ## Website:
 - [ICON](https://uiowa.instructure.com/courses/151432/users): The course ICON site will contain the course calendar, announcements, and grade reports.
