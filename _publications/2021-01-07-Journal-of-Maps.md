@@ -2,7 +2,7 @@
 title: "Examining spatio-temporal mobility patterns of bike-sharing systems: the case of BiciMAD (Madrid)"
 collection: publications
 permalink: /publication/2021-01-07-Journal-of-Maps
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The aim of this study is to build upon this research by bringing together a spatial and a temporal analysis of the cycling flow of BiciMAD, the Madrid Bike-Sharing System.'
 date: 2021-01-07
 venue: 'Journal of Maps'
 paperurl: 'https://www.tandfonline.com/doi/pdf/10.1080/17445647.2020.1866697'
