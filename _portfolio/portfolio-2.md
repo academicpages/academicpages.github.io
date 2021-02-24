@@ -7,7 +7,8 @@ collection: portfolio
 <u>Postdoctoral Fellows</u>
 
 *Dr. Sungeun Lee*
-<br/>Sept. 2009 – Feb. 2013, firstly employed by Broadcom, NJ
+<br/>Sept. 2009 – Feb. 2013
+<br/>Firstly employed by Broadcom, NJ
 <br/>Topic: *Synchronization for wireless networks*
 
 *Dr. Yiyin Wang*
@@ -18,122 +19,123 @@ collection: portfolio
 
 <u>Ph.D. Students Graduated</u>
 
-*Kun Shi*
-Graduated in Dec. 2008 (Co-advised with Dr. G. T. Zhou)
-Dissertation: 
+*Dr. Kun Shi*
+<br/>Graduated in Dec. 2008 (Co-advised with Dr. G. T. Zhou)
+<br/>Dissertation: 
 *Nonlinear acoustic echo cancellation*
 
-*Wei Zhang*
-Graduated in Sept. 2009
-Dissertation:
+*Dr. Wei Zhang*
+<br/>Graduated in Sept. 2009
+<br/>Dissertation:
 *Wireless receiver designs: from information theory to VLSI implementation*
-Graduate Student Research Award, CSIP, School of ECE, fall 2008
-ECE Graduate Research Assistant Excellence Award, 2009
-Firstly employed by Qualcomm, San Jose, CA
+<br/>Graduate Student Research Award, CSIP, School of ECE, fall 2008
+<br/>ECE Graduate Research Assistant Excellence Award, 2009
+<br/>Firstly employed by Qualcomm, San Jose, CA
 
-*Jiaxi Xiao*
-Graduated in May 2012 (Co-advised with Dr. S. McLaughlin)
-Dissertation:
+*Dr. Jiaxi Xiao*
+<br/>Graduated in May 2012 (Co-advised with Dr. S. McLaughlin)
+<br/>Dissertation:
 *Information Theoretic Approach in Detection and Security Codes*
-Firstly employed by IntercontinentalExchange, Inc., Atlanta, GA
+<br/>Firstly employed by IntercontinentalExchange, Inc., Atlanta, GA
 
-*Benjamin R. Hamilton*
-Graduated in May 2012
-Dissertation: 
+*Dr. Benjamin R. Hamilton*
+<br/>Graduated in May 2012
+<br/>Dissertation: 
 *Applications of Bayesian Filtering in Wireless Networks: Clock Synchronization, Localization, and RF Tomography*
-Shackelford Fellowship from GTRI, 2009 – 2012
-Graduate Student Research Awar, CSIP, School of ECE, spring 2012
-Firstly employed by MIT Lincoln
+<br/>Shackelford Fellowship from GTRI, 2009 – 2012
+<br/>Graduate Student Research Awar, CSIP, School of ECE, spring 2012
+<br/>Firstly employed by MIT Lincoln Lab
 
-*Gi Wan Choi*
-Graduated in Dec. 2012
-Dissertation:
+*Dr. Gi Wan Choi*
+<br/>Graduated in Dec. 2012
+<br/>Dissertation:
 *Low-Complexity and Power-Efficient Wireless Cooperative Relay Networks with Enhanced Reliability*
-Firstly employed by Intel, San Jose
+<br/>Firstly employed by Intel, San Jose
 
-*Qi Zhou*
-Graduated in June 2013
-Dissertation:
+*Dr. Qi Zhou*
+<br/>Graduated in June 2013
+<br/>Dissertation:
 *Noncoherent detection for UWB systems*
-ECE Graduate Research Assistant Excellence Award, 2013
-Firstly employed by Ratrix Technologies, Atlanta, GA
+<br/>ECE Graduate Research Assistant Excellence Award, 2013
+<br/>Firstly employed by Ratrix Technologies, Atlanta, GA
 
-*Hayang Kim*
-Graduated Apr. 2014
-Dissertation:
+*Dr. Hayang Kim*
+<br/>Graduated Apr. 2014
+<br/>Dissertation:
 *Modeling and Tracking Time-varying Clock Drifts in Wireless Networks*
-Firstly employed by California Santa Clara University, CA
+<br/>Firstly employed by California Santa Clara University, CA
 
-*Malik M. Usman Gul*
-Graduated Jun. 2014
-Dissertation:
+*Dr. Malik M. Usman Gul*
+<br/>Graduated Jun. 2014
+<br/>Dissertation:
 *Timing and Frequency Synchronization for Orthogonal Frequency Division Multiple-Access (OFDMA) Systems*
-Firstly employed by National Instruments, Pakistan
+<br/>Firstly employed by National Instruments, Pakistan
 
-*Marie Shinotsuka*
-Graduated Jul. 2015 (Co-advised with Dr. G. T. Zhou)
-Dissertation:
+*Dr. Marie Shinotsuka*
+<br/>Graduated Jul. 2015 (Co-advised with Dr. G. T. Zhou)
+<br/>Dissertation:
 *Indoor Localization Based on Radio Interferometric Positioning System*
-Firstly employed by Panasonic Inc., TX
+<br/>Firstly employed by Panasonic Inc., TX
 
-*Andrew Harper*
-Graduated Feb. 2016
-Dissertation:
+*Dr. Andrew Harper*
+<br/>Graduated Feb. 2016
+<br/>Dissertation:
 *Interference Design in Wireless Communication Systems*
-Currently employed by GTRI, GA
+<br/>Currently employed by GTRI, GA
 
-*Brian M. Beck*
-Fall 2011 – Dec. 2016 (Co-advised with Dr. R. J. Baxley)
-Shackelford Fellowship from GTRI, 2013 – 2016
-Dissertation:
+*Dr. Brian M. Beck*
+<br/>Fall 2011 – Dec. 2016 (Co-advised with Dr. R. J. Baxley)
+<br/>Shackelford Fellowship from GTRI, 2013 – 2016
+<br/>Dissertation:
 *Localization in wireless sensor networks*
-Currently employed by GTRI, GA
+<br/>Currently employed by GTRI, GA
 
-*Qingsong Wen*
-Fall 2011 – Mar. 2017
-Dissertation:
+*Dr. Qingsong Wen*
+<br/>Fall 2011 – Mar. 2017
+<br/>Dissertation:
 *Efficient LLL-based Lattice Reduction for MIMO Detection: from Algorithms to Implementations*
-Currently employed by Alibaba, WA
+<br/>Currently employed by Alibaba, WA
 
-*Hyunwoo Cho*
-Spring 2013 – Fall 2018
-Dissertation:
+*Dr. Hyunwoo Cho*
+<br/>Spring 2013 – Fall 2018
+<br/>Dissertation:
 *Signal detection and synchronization for advanced multi-carrier systems*
-Currently employed by QualCom,  CA
+<br/>Currently employed by QualCom,  CA
 
-*Yiming Kong*
-Summer 2013 – Oct. 2019
-Dissertation: 
+*Dr. Yiming Kong*
+<br/>Summer 2013 – Oct. 2019
+<br/>Dissertation: 
 *High performance receivers for next generation wireless communication systems*
-Colonel Oscar P. Cleaver Awards from ECE, Spring 2013
-Currently employed by Google, CA 
+<br/>Colonel Oscar P. Cleaver Awards from ECE, Spring 2013
+<br/>Currently employed by Google, CA 
 
 <u>Masters Students</u>
 
-Wei Zhang
-Fall 2004 – Spring 2006
-Thesis: 
+*Wei Zhang*
+<br/>Fall 2004 – Spring 2006
+<br/>Thesis: 
 *Lattice-reduction aided linear equalization for wireless communications over fading channels*
 
-Benjamin R. Hamilton
-Summer 2006 – Fall 2007
-Thesis: 
+*Benjamin R. Hamilton*
+<br/>Summer 2006 – Fall 2007
+<br/>Thesis: 
 *Low-Overhead Opportunistic Routing for Wireless ad hoc and Sensor Networks in a Fading Environment*
 
 *Gi Wan Choi*
-Summer 2007 – Spring 2008
-Thesis: 
+<br/>Summer 2007 – Spring 2008
+<br/>Thesis: 
 *Cooperative communications for simple relay networks*
 
 *Minzhen Ren*
-Fall 2011 – Sept. 2013
-Thesis: 
+<br/>Fall 2011 – Sept. 2013
+<br/>Thesis: 
 *VLSI design for soft-output detectors*
 
-Chao-Han (Huck) Yang Fall 2017 – Fall 2019
-Thesis: 
+*Chao-Han (Huck) Yang*
+<br/>Fall 2017 – Fall 2019
+<br/>Thesis: 
 *Machine learning for TCP congestion control*
-2020 MOE Fellowship from the Taiwan Government
+<br/>2020 MOE Fellowship from the Taiwan Government
 
 <u>Visiting Students</u>
 
