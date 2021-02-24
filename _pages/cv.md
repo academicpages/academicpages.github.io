@@ -51,17 +51,17 @@ Work experience
 ======  
 
 Talks
-======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Co-PI for NSF on Fiber-Wireless Center
@@ -77,5 +77,4 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-
+  Full List ([link](https://xma-ultra-signals.github.io//publications))
