@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Spring 2021"
 location: "Atlanta, GA"
-date: 01-14-2021
+date: 2021-01-14
 ---
 
 Applications of DSP in speech, image processing, radar, pattern recognition, and adaptive filtering requiring working software implementations applied to the analysis of real signals. 
