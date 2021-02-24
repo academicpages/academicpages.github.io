@@ -1,7 +1,7 @@
 ---
 title: "Aproximación a los entornos peatonales a través de una encuesta a la población aplicación a la ciudad de Granada"
 collection: publications
-permalink: /publication/2018-01-Anales-Geografia-UCM
+permalink: 
 excerpt:
 date: 2018-01-01
 type: article
