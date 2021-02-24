@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Group"
-    url: /portfolio/
+  -   title: "Group"
+    url:/portfolio/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url:/publications/
 
   - title: "Talks"
     url: /talks/    
