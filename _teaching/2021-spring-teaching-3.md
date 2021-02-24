@@ -1,9 +1,7 @@
 ---
 title: "Previous Courses"
 collection: teaching
-type: " "
 permalink: /teaching/2021-spring-teaching-3
-venue: ""
 date: 2021-01-14
 ---
 
