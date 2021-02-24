@@ -6,7 +6,7 @@ permalink: /teaching/2015-spring-teaching-1
 venue: "Fall 2017 & Spring 2015, GT Atlanta"
 date: 2017-08-15
 ---
- 
+
 
 
 ECE6602
