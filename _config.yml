@@ -209,6 +209,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _research
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  
   # _teaching
   - scope:
       path: ""
