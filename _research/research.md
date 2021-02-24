@@ -4,8 +4,8 @@ title: "Research Interests"
 excerpt: "research topics"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
 
 
