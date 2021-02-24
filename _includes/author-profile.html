@@ -37,9 +37,6 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai" aria-hidden="true" style='color: black';></i> ResearchGate</a></li>
-      {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true" style='color: black';></i> Twitter</a></li>
       {% endif %}
@@ -105,6 +102,9 @@
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai" aria-hidden="true" style='color: black';></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.researchgate %}
+       <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai" aria-hidden="true" style='color: black';></i> ResearchGate</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
