@@ -8,8 +8,9 @@ redirect_from:
 ---
 
  
------------- | -------------
+------------------- | ----------|----------------------
 Jul. 2014 - present | Professor | School of ECE, Gatech
+------------------- | ----------|----------------------
 Jun. 2012 - May 2015| Co-Director | Georgia Tech Center of Excellence in UWB Technology, Gatech
 {\it Jul. 2010--Jun. 2014} \ts {\bf Associate Professor}\\
 \ts  School of Electrical and Computer Engineering \\ \ts
