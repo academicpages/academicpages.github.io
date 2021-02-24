@@ -77,4 +77,4 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  Full List ([link](https://xma-ultra-signals.github.io//publications))
+  Full List ([link](xma-ultra-signals.github.io//publications))
