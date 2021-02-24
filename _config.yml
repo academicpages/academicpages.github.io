@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mobile Network and Adaptive Signals Group"
 title_separator          : "-"
 name                     : &name "Xiaoli Ma"
-description              : &description "IEEE Fellow"
+description              : &description " "
 url                      : https://xma-ultra-signals.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xma-ultra-signals/xma-ultra-signals.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaoli Ma"
   avatar           : "profile.jpg"
-  bio              : "IEEE Fellow"
+  bio              : "Professor"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-JthyRYAAAAJ&hl=en"
-  email            :
+  email            : xiaoli@gatech.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://en.wikipedia.org/wiki/Xiaoli_Ma"
+  wikipedia        : # "https://en.wikipedia.org/wiki/Xiaoli_Ma"
 
 
 # Reading Files
