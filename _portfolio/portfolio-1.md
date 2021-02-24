@@ -15,7 +15,7 @@ collection: portfolio
 
 **Kaiwen Zheng** ([website](https://huckiyang.github.io/web/)) 
 
-* Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present
+* Ph.D. Student, Georgia Institute of Technology, Fall 2019 -- present
   * Topic: Learning-based attacks and defenses for wireless systems
   * Expected to graduate Dec. 2023 
 * B.Sc., 
