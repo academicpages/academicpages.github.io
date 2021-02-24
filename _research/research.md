@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /research/
 title: "Research Interests"
 excerpt: "research topics"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+
 ---
 
 
