@@ -2,7 +2,7 @@
 title: "Senior Designs"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/2021-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-2
 venue: "Spring 2021, Atlanta GA"
 date: 2021-01-14
 ---
