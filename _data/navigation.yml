@@ -4,11 +4,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Group"
+  - title: "People"
     url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Experience"
+  - title: "Work Experience"
     url: /cv/
