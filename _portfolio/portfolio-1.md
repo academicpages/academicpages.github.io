@@ -21,7 +21,7 @@ collection: portfolio
   * Wallace Coulter Fellowship, 2017 Fall - 2018 Spring 
 * B.Sc., National Taiwan University
 
-**Kaiwen Zheng** ([website](https://huckiyang.github.io/web/))
+**Kaiwen Zheng** ([website](https://huckiyang.github.io/web/)) 
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2018 -- present
   * M.Sc., Georgia Institute of Technology, 2017 - 2019
