@@ -7,16 +7,13 @@ collection: portfolio
 <u>Postdoctoral Fellows</u>
 
 *Dr. Sungeun Lee*
-
-Sept. 2009 – Feb. 2013, firstly employed by Broadcom, NJ
-
-Topic:
-*Synchronization for wireless networks*
+<br/>Sept. 2009 – Feb. 2013, firstly employed by Broadcom, NJ
+<br/>Topic: *Synchronization for wireless networks*
 
 *Dr. Yiyin Wang*
-May 2012 – May 2013
-currently employed by Shanghai Jiao Tong Univ. as an assistant professor
-Topic:
+<br/>May 2012 – May 2013
+<br/>currently employed by Shanghai Jiao Tong Univ. as an assistant professor
+<br/>Topic:
 *UWB signal detection and localization*
 
 <u>Ph.D. Students Graduated</u>
