@@ -1,68 +1,26 @@
 ---
 title: "Previous Courses"
 collection: teaching
-type: "Graduate"
-permalink: /teaching/2011-spring-teaching-3
+type: " "
+permalink: /teaching/2021-spring-teaching-3
 venue: ""
-date: 2015-08-15
+date: 2021-01-14
 ---
 
-Fall, 2018
-ECE4011
-Senior Design
+=================
+Undergraduate 
 
-Spring, 2018
-ECE4271
-Applications of DSP
+<br\>ECE2026 Intro. of Signal and Sys.
+<br\>ECE4011/4012 Senior Design
+<br\>ECE4260 Random Signal Processing
+<br\>ECE4271 Applications of DSP
+<br\>ECE4270 Digital Signal Pricessing
 
-Fall, 2017
-ECE6602
-Digital Communications
 
-Fall, 2017
-ECE6500
-Fourier Analysis and Its Applications
+Graduate
 
-Spring, 2017
-ECE4271
-Applications of DSP
+ECE6602 Digital Communications
+<br\> ECE6500 Fourier Analysis and Its Applications
+<br\>ECE7251 Detection and Estimation
 
-Spring, 2017
-ECE2026
-Intro. of Signal and Sys.
 
-Spring, 2017
-ECE2026
-Intro. of Signal and Sys.
-
-Spring, 2015
-ECE7251
-Detection&Estimation
-
-Spring, 2015
-ECE6602
-Digital Communications
-
-Fall, 2014
-ECE9000
-Doctoral
-
-Spring, 2014
-ECE9000
-Doctoral Thesis
-
-Fall, 2013
-ECE2026
-Intro. of Signal and Sys.
-
-Fall, 2013
-ECE2026
-Intro. of Signal and Sys.
-
-Fall, 2012
-ECE6602
-Digital Communications
-
-Fall, 2012
-ECE7251
-Detection& Estimation
