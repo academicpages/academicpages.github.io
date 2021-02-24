@@ -1,5 +1,5 @@
 ---
-title: "Previous Students and Vistors"
+title: "Previous Students and Visitors"
 excerpt: "<br/><img src='/images/almu.jpg' alt="Image" height="378" width="450">"
 collection: portfolio
 ---
@@ -7,7 +7,9 @@ collection: portfolio
 <u>Postdoctoral Fellows</u>
 
 *Dr. Sungeun Lee*
-Sept. 2009 – Feb. 2013, currently employed by Broadcom, NJ
+
+Sept. 2009 – Feb. 2013, firstly employed by Broadcom, NJ
+
 Topic:
 *Synchronization for wireless networks*
 
@@ -15,7 +17,7 @@ Topic:
 May 2012 – May 2013
 currently employed by Shanghai Jiao Tong Univ. as an assistant professor
 Topic:
-*UWB signal detection and localiza*
+*UWB signal detection and localization*
 
 <u>Ph.D. Students Graduated</u>
 
@@ -23,7 +25,6 @@ Topic:
 Graduated in Dec. 2008 (Co-advised with Dr. G. T. Zhou)
 Dissertation: 
 *Nonlinear acoustic echo cancellation*
-Currently employed by Texas Instruments, Dallas, TX
 
 *Wei Zhang*
 Graduated in Sept. 2009
@@ -31,13 +32,13 @@ Dissertation:
 *Wireless receiver designs: from information theory to VLSI implementation*
 Graduate Student Research Award, CSIP, School of ECE, fall 2008
 ECE Graduate Research Assistant Excellence Award, 2009
-Currently employed by Qualcomm, San Jose, CA
+Firstly employed by Qualcomm, San Jose, CA
 
 *Jiaxi Xiao*
 Graduated in May 2012 (Co-advised with Dr. S. McLaughlin)
 Dissertation:
 *Information Theoretic Approach in Detection and Security Codes*
-Currently employed by IntercontinentalExchange, Inc., Atlanta, GA
+Firstly employed by IntercontinentalExchange, Inc., Atlanta, GA
 
 *Benjamin R. Hamilton*
 Graduated in May 2012
@@ -45,13 +46,13 @@ Dissertation:
 *Applications of Bayesian Filtering in Wireless Networks: Clock Synchronization, Localization, and RF Tomography*
 Shackelford Fellowship from GTRI, 2009 – 2012
 Graduate Student Research Awar, CSIP, School of ECE, spring 2012
-Currently employed by MIT Lincoln
+Firstly employed by MIT Lincoln
 
 *Gi Wan Choi*
 Graduated in Dec. 2012
 Dissertation:
 *Low-Complexity and Power-Efficient Wireless Cooperative Relay Networks with Enhanced Reliability*
-Currently employed by Intel, San Jose
+Firstly employed by Intel, San Jose
 
 *Qi Zhou*
 Graduated in June 2013
@@ -64,19 +65,19 @@ Firstly employed by Ratrix Technologies, Atlanta, GA
 Graduated Apr. 2014
 Dissertation:
 *Modeling and Tracking Time-varying Clock Drifts in Wireless Networks*
-Currently employed by California Santa Clara University, CA
+Firstly employed by California Santa Clara University, CA
 
 *Malik M. Usman Gul*
 Graduated Jun. 2014
 Dissertation:
 *Timing and Frequency Synchronization for Orthogonal Frequency Division Multiple-Access (OFDMA) Systems*
-Currently employed by National Instruments, Pakistan
+Firstly employed by National Instruments, Pakistan
 
 *Marie Shinotsuka*
 Graduated Jul. 2015 (Co-advised with Dr. G. T. Zhou)
 Dissertation:
 *Indoor Localization Based on Radio Interferometric Positioning System*
-Currently employed by Panasonic Inc., TX
+Firstly employed by Panasonic Inc., TX
 
 *Andrew Harper*
 Graduated Feb. 2016
