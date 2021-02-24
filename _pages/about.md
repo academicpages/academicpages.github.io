@@ -16,6 +16,7 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 ### New Developments
 * Feb '21 - Conditional Acceptance at AEJ Applied for "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)"! We received some [press coverage](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/) a while back.
+* Jan '21 - Appeared on Ep 11 of [Densely Speaking](https://gregshill.wordpress.com/densely-speaking-podcast/) (podcast) with Arpit Gupta to discuss his work on the 2nd Ave subway
 * Nov '20 - New WP ["Lockdowns and Innovation: Evidence from the 1918 Flu Pandemic"](https://www.nber.org/papers/w28152).
 
 

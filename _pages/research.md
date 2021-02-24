@@ -12,7 +12,8 @@ Active Research
 
 #### Working Papers
 
-* "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/20191025_Severen_LAMetro_New.pdf)", [slides](https://cseveren.github.io/files/201901_Severen_LAMetro.pdf).
+* "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)".
+    * Brand **NEW** draft Feb 2021!
     * Revision requested at the *Review of Economics and Statistics*.
 
 * "[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020).
@@ -21,7 +22,6 @@ Active Research
 #### Selected Works in Progress
 
 * "Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Outcomes" (with [Valerie Bostwick][vkb]).
-    * Draft coming soon.
 
 * "Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
 
