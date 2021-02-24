@@ -23,7 +23,7 @@ Dissertation: Doubly-Selective Channels: Estimation, Capacity, and Space-Time Co
 
 Thesis: Adaptive Actuator Nonlinearity Compensation Control with Feedback Linearization
 
-* B.S. in Automatic Control, Tsinghua University, 1998
+* B.S. in Automatic Control, Tsinghua University, 1998 
 
 Thesis: Distributed Artificial Intelligent and Its Application in New Product Development
 
