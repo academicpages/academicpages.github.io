@@ -4,6 +4,6 @@ collection: teaching
 type: "MSc course"
 permalink: /teaching/2020-SC-TIG
 venue: "Complutense University of Madrid, Department of Geography"
-date: 2020
+date: 2020-10-01
 location: "Madrid, Spain"
 ---
