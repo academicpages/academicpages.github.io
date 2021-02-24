@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2021-spring-teaching-1
 venue: "Spring 2021, Atlanta GA"
-date: 01-14-2021
+date: 2021-01-14
 ---
 
 
