@@ -17,7 +17,7 @@ currently employed by Shanghai Jiao Tong Univ. as an assistant professor
 Topic:
 *UWB signal detection and localiza*
 
-<u>Ph.D. Students Graduated</u> 
+<u>Ph.D. Students Graduated</u>
 
 *Kun Shi*
 Graduated in Dec. 2008 (Co-advised with Dr. G. T. Zhou)
