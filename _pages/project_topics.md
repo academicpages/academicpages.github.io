@@ -9,6 +9,7 @@
 9. Cirriculum contrastive learning https://arxiv.org/abs/2010.01028
 10. Can GANs help contrastive learning? A paper in this direction: https://openreview.net/forum?id=eo6U4CAwVmg
 12. Video constrastive learning Transformer model for video? Maybe? https://arxiv.org/abs/1812.02707 + Frame-level local representation r_l contrasted with global video-level representation r_g, i.e., L(r_l, r_g) + Audio representations r_a contrasted with global and local, i.e. L(r_a, r_g) + L(r_a, r_l) or do similar as above.
+13. Contrastive OoD  https://openreview.net/forum?id=q_Q9MMGwSQu it is rejected but the comments have some interesting papers, e.g., https://arxiv.org/abs/2007.05566 
 
 Emergent communication (we can focus on: multi-modal / noisy channels / explainability)
 Check for papers in https://scholar.google.com/scholar?cites=17308624474306270808&as_sdt=400005&sciodt=0,14
