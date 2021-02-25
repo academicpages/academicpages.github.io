@@ -1,12 +1,10 @@
 ---
 title: "Previous Courses"
 collection: teaching
-permalink: /teaching/previous-teaching
-date: 2020-01-14
 ---
 
-
-Undergraduate 
+<br/>
+## Undergraduate 
 
 ECE2026 Intro. of Signal and Sys.
 <br/>ECE4011/4012 Senior Design
@@ -15,7 +13,7 @@ ECE2026 Intro. of Signal and Sys.
 <br/>ECE4270 Digital Signal Pricessing
 
 
-Graduate
+## Graduate
 
 ECE6602 Digital Communications
 <br/> ECE6500 Fourier Analysis and Its Applications
