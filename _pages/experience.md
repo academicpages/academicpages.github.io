@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "Work Experience"
-permalink: /cv/
+permalink: /experience/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
  Time               | Title     | Location
