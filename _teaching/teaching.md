@@ -20,4 +20,4 @@ Applications of DSP in speech, image processing, radar, pattern recognition, and
     - Project: Device to Prevent Muscle Deconditioning
     - Members: Warren Borders, Skylar Vander Laan, Jackson Stanhope, Gianna Guido, Nicholas Heydinger
  
-*Previously taught courses* ([link](https://xma-ultra-signals.github.io//teaching/previous-teaching/))
+## Previously taught courses  ([link](https://xma-ultra-signals.github.io//teaching/previous-teaching/))
