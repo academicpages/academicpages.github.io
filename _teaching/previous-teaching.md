@@ -1,7 +1,9 @@
 ---
-title: "Previous Courses"
+layout: archive
+title: "Previously Taught Courses"
 excerpt: "courses"
 collection: teaching
+author_profile: true
 ---
 
 <br/>
