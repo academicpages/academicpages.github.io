@@ -25,9 +25,10 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ## Published
 
-### 2020 - 2021
+### 2021 - 
 * Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, __J.N. Pinto-Ledezma__, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis and Y. Yang. (2021). [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). _Research Ideas and Outcomes, 7: e63850_. 
 
+### 2019 - 2020
 * __Pinto-Ledezma, J.N.__, F. Villalobos, P.R. Reich, J.A. Catford, D.L. Larkin & J. Cavender-Bares. 2020. [Testing Darwin's naturalization conundrum based on taxonomic, phylogenetic and functional dimensions of vascular plants](https://doi.org/10.1002/ecm.1420). _Ecological Monographs, 90(4): e01420_.
 
 * Cavender-Bares, J., C. Fontes & __J.N. Pinto-Ledezma__. 2020. [Open questions in understanding the adaptive significance of plant functional trait variation within a single lineage](https://doi.org/10.1111/nph.16652). _New Phytologist, 227(3): 659-663_. 
@@ -38,33 +39,32 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 * Villalobos, F., __J.N. Pinto-Ledezma__ & J.A.F. Diniz-Filho. 2020. [Evolutionary macroecology and the geographical patterns of Neotropical diversification](https://doi.org/10.1007/978-3-030-31167-4_5). In Rull, V. & A.C. Carnaval (Eds.) Neotropical diversification: patterns and processes. _Springer Nature_.
 
-### 2018 - 2019
 * __Pinto-Ledezma, J.N.__, A.E. Jahn, V.R. Cueto, J.A.F. Diniz-Filho & F. Villalobos. 2019. [Corrigendum for Pinto-Ledezma et al. (2019)]( https://doi.org/10.1086/700696). _The American Naturalist, 193(6): 897_.
 
 * __Pinto-Ledezma, J.N.__, A.E. Jahn, V.R. Cueto, J.A.F. Diniz-Filho & F. Villalobos. 2019. [Drives of phylogenetic assemblage structure of the Furnariides, a widespread clade of lowland Neotropical birds](https://doi.org/10.1086/700696). _The American Naturalist, 193(2): E41-E56_. Data from this paper is available on DRYAD; DOI: 10.5061/dryad.h3390h5
 
 * Contributing author in: Cavender-Bares, J. et al. Chapter 3 Status and trends of biodiversity and ecosystem functions underpinning nature’s benefit to people. In IPBES (2019): [The IPBES regional assessment report on biodiversity and ecosystem services for the Americas](https://ipbes.net/sites/default/files/2018_americas_full_report_book_v4_pages_0.pdf). 207-362 Pp. Rice et al. (Eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany.
 
+### 2017 - 2018
 * __Pinto-Ledezma, J.N.__, D. Larkin & J. Cavender-Bares. 2018. [Patterns of beta diversity of vascular plants and their correspondence with biome boundaries across North America](https://doi.org/10.3389/fevo.2018.00194). _Frontiers in Ecology and Evolution, 6: 194_.
 
 * Velasco, J.A. & __J.N. Pinto-Ledezma__. 2018. [Mapping diversification metrics in macroecological studies: prospects and challenges](https://doi.org/10.1101/261867). bioArxiv, 261867.
 
-### 2016 - 2017
 * __Pinto-Ledezma, J.N.__, L. Simon, J.A.F. Diniz-Filho & F. Villalobos. 2017. [The geographic diversification of Furnariides: the role of forest versus open habitats in driving species richness gradients](https://doi.org/10.1111/jbi.12939). _Journal of Biogeography, 44(8): 1683-1693_.
 
 * Pereira, E., __J.N. Pinto-Ledezma__, C. de Freitas, F. Villalobos, R. Collevati & N. Medeiros. 2017. [Evolution of anuran foam nest: trait conservatism and lineage diversification](https://doi.org/10.1093/biolinnean/blx110). _Biological Journal of the Linnean Society, 122(4): 814-823_.
+
+* Cseko, E., W. Franca-Rocha, T. Moura & __J.N. Pinto-Ledezma__. 2017. [New range limit of the Broad-tipped Hermit (_Anopetia gounellei_, Aves: Trochilidae): the state of art and a review on the range area](https://doi.org/10.11606/0031-1049.2017.57.21). _Pápeis avulsos de Zoologia, 57(21): 275-285_.
 
 * Villarroel, D., G.M. Aramayo, M.T. Martínez, C.E.B. Proença, C.B.R. Munhoz, B.B. Klitgaard, __J.N. Pinto-Ledezma__ & M.H. Nee. 2017. [Historia Natural del Cerro Mutún: VI. Checklist, estado de conservación y nuevos registros para Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/2_Villarroeletal-2017.pdf). _Kempffiana, 13(2):29-74_.
 
 * __Pinto-Ledezma, J.N.__, M.A. Montenegro, & D. Villarroel. 2017. [Historial Natural del Cerro Mutún: V. la avifauna](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/1_Pinto-Ledezmaetal-2017.pdf). _Kempffiana, 13(2):11-28_.
 
-* Cseko, E., W. Franca-Rocha, T. Moura & __J.N. Pinto-Ledezma__. 2017. [New range limit of the Broad-tipped Hermit (_Anopetia gounellei_, Aves: Trochilidae): the state of art and a review on the range area](https://doi.org/10.11606/0031-1049.2017.57.21). _Pápeis avulsos de Zoologia, 57(21): 275-285_.
-
+### 2015 - 2016
 * ††Pinto, M.A., †K. Mano-Cuellar, D. Villarroel & __J.N. Pinto-Ledezma__. 2016. [Historia Natural del Cerro Mutún IV: la herpetofauna](http://www.museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(1)/3_Pinto-Viveros%20et%20al.%202017_106-128.pdf). _Kempffiana, 13(1): 116-128_.
 
 * __Pinto-Ledezma, J.N.__ & D. Villarroel. 2016. [Historia Natural del Cerro Mutún I: síntesis geográfica, geofísica, climática y socioeconómica](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana12(2)/29-38%20Pinto%20Ledezma%20&%20Villarroel%202016.pdf). _Kempffiana, 12(2): 29-38_.
 
-### 2014 - 2015
 * †Sosa, R., C. Schalk, L. Braga & __J.N. Pinto-Ledezma__. 2015. [_Rhinella amboroensis_ (Cochabamba toad)](https://www.dropbox.com/s/r8ixyf8eigkr336/HR%20March%202015%20ebook.pdf?dl=1). _Herpetological Review, 46(2): 214_.
 
 * †Pinto. M.A. & __J.N. Pinto-Ledezma__. 2015. [Listado preliminar de anfibios de la propiedad Benevento (Santa Cruz, Bolivia)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana11(2)/4_Pinto-Viveros&Pinto-Ledezma.pdf). _Kempffiana, 11(1): 23-27_.
@@ -73,6 +73,7 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 * †Mano, K., †M.A. Pinto, †R. Sosa, D. Villarroel & __J.N. Pinto-Ledezma__. 2015. [Reptile fauna of the Mutún region (Santa Cruz department, Bolivia): species list and conservation status](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/4_Mano-Cuellar%20et%20al_2015.pdf). _Kempffiana, 11(1): 66-69_.
 
+### 2013 - 2014
 * __Pinto-Ledezma, J.N.__ & M.L. Rivero. 2014. [Temporal patterns of deforestation and fragmentation in Lowland Bolivia: Implications for climate change](https://doi.org/10.1007/s10584-013-0817-1). _Climatic Change, 127: 43–54_.
 
 * __Pinto-Ledezma, J.N.__, V.X. Sandoval, V.N. Pérez, T.J. Caballero, †K. Mano, †M.A. Pinto Viveros & †R. Sosa. 2014. [A spatial explicit habitat model for the Hyacinth Macaw (_Anodorhynchus hyacintinus_) in the Bolivian Pantanal (Santa Cruz, Bolivia)](http://www.scielo.org.bo/scielo.php?script=sci_abstract&pid=S1605-25282014000200002&lng=en&nrm=iso&tlng=en). _Ecología en Bolivia, 49(2): 1605-2528_.
@@ -81,12 +82,11 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 * †Sosa, R., L. Braga & __J.N. Pinto-Ledezma__. 2014. [The amphibian fauna of the Southwest Amboró National Park, Santa Cruz, Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/4_Sosa%20et%20al.%2031-35.pdf). _Kempffiana, 10(2): 31-35_.
 
-### 2012 - 2013
-* __Pinto-Ledezma, J.N.__ & M.A. Aponte. 2013. [Algunas notas sobre la reproducción de aves en la Reserva de Vida Silvestre Ríos Blanco y Negro](https://www.researchgate.net/publication/264554803_NOTAS_SOBRE_LA_REPRODUCCION_DE_AVES_EN_LA_RESERVA_DE_VIDA_SILVESTRE_RIOS_BLANCO_Y_NEGRO_SANTA_CRUZ-BOLIVIA). _Kempffiana, 9(1): 21-25_.
-
 * Jahn, A.E., D. Levey, V. Cueto, __J.N. Pinto-Ledezma__, D. Tuero, J.W. Fox, & D. Masson. 2013. [Long-distance bird migration in South America as revealed by light-level geolocators](https://doi.org/10.1525/auk.2013.12077). _The AUK, 130(2): 223-229_.
 
 * Jahn, A.E., V. Cueto, J.W. Fox, M.S. Husak, __J.N. Pinto-Ledezma__, D.H. Kim, D.V. Landoll, H.K. Lepage, D.J. Levey, M.T. Murphy & R.B. Renfrew. 2013. [Migration timing and wintering areas of three species of Tyrannus flycatchers breeding in the great plains of North America](https://doi.org/10.1525/auk.2013.13010). _The AUK, 130(2): 247-257_.
+
+* __Pinto-Ledezma, J.N.__ & M.A. Aponte. 2013. [Algunas notas sobre la reproducción de aves en la Reserva de Vida Silvestre Ríos Blanco y Negro](https://www.researchgate.net/publication/264554803_NOTAS_SOBRE_LA_REPRODUCCION_DE_AVES_EN_LA_RESERVA_DE_VIDA_SILVESTRE_RIOS_BLANCO_Y_NEGRO_SANTA_CRUZ-BOLIVIA). _Kempffiana, 9(1): 21-25_.
 
 * †Sosa, R., L. Braga, Ch. M. Schalk & __J.N. Pinto-Ledezma__. 2013. _Clelia langeri_ (NCN) diet. _Herpetological Review, 43:657_.
 
