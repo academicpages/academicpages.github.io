@@ -1,10 +1,9 @@
 ---
-title: "Current Students"
+title: "Current Ph.D. Students"
 excerpt: "<br/><img src='/images/gt.jpg'>"
 collection: portfolio
 ---
 
-*Ph.D. Students:*
 
 **Muhammad Shahmeer Omar** ([website](https://www.linkedin.com/in/shahmeeromar)) 
 
@@ -13,12 +12,6 @@ collection: portfolio
   * Topic: Enhancing next generation of communication systems by machine intellegence
 * B.Sc. National University of Sciences and Technology, Pakistan
 
-**Kaiwen Zheng**  
-
-* Ph.D. Student, Georgia Institute of Technology, Fall 2019 -- present
-  * Topic: Learning-based attacks and defenses for wireless systems
-  * Expected to graduate Dec. 2023 
-* B.Sc., City University of Hong Kong, Hong Kong, China
 
 **Jun Qi**
 
@@ -35,12 +28,19 @@ collection: portfolio
   * Topic: Intelligent simulation-based investigations of regenerative medicine production planning and control with reinforcement learning
   * Expected to graduate Dec. 2021
 
+**Kaiwen Zheng**  
+
+* Ph.D. Student, Georgia Institute of Technology, Fall 2019 -- present
+  * Topic: Learning-based attacks and defenses for wireless systems
+  * Expected to graduate Dec. 2023 
+* B.Sc., City University of Hong Kong, Hong Kong, China
+
 **Ziyan He**
 
 * Ph.D. Student, Georgia Institute of Technology, Fall 2020 – present
   * Expected to graduate Dec. 2022
   * Topic: Theoretical performance analysis for machine learning algorithms
 * B.Sc., Tsinghua University, Beijing, China
-* 
-*Previous Students and Visitors* ([link](https://xma-ultra-signals.github.io//portfolio/portfolio-2/))
+
+## Previous Students and Visitors ## ([link](https://xma-ultra-signals.github.io//portfolio/portfolio-2/))
 
