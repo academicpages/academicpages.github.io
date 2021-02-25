@@ -42,5 +42,5 @@ collection: portfolio
   * Topic: Theoretical performance analysis for machine learning algorithms
 * B.Sc., Tsinghua University, Beijing, China
 
-## Previous Students and Visitors ## ([link](https://xma-ultra-signals.github.io//portfolio/portfolio-2/))
+## Previous Students and Visitors  ([link](https://xma-ultra-signals.github.io//portfolio/portfolio-2/))
 
