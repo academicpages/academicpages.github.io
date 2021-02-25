@@ -10,4 +10,4 @@ author_profile: true
 ([Publications](https://xma-ultra-signals.github.io//publications/))
 ([People](https://xma-ultra-signals.github.io//portfolio/))
 ([Teaching](https://xma-ultra-signals.github.io//teaching/))
-([Work Experience](https://xma-ultra-signals.github.io//cv/))
+([Work Experience](https://xma-ultra-signals.github.io//experience/))
