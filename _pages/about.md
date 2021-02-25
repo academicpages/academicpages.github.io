@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Professor
+Professor, IEEE Fellow
 <br/>School of Electrical and Computer Engineering
 <br/>Georgia Institute of Technology
 <br/>Atlanta GA USA
