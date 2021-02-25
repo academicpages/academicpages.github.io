@@ -74,7 +74,7 @@
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
- height: 64px;
+ // height: 64px;
 
   @include breakpoint($large) {
     display: block;
@@ -87,7 +87,7 @@
     //border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 2px;
       border: 1px solid $border-color;
     }
   }
