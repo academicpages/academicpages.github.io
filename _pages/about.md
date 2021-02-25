@@ -11,7 +11,7 @@ redirect_from:
 Professor, IEEE Fellow
 <br/>School of Electrical and Computer Engineering
 <br/>Georgia Institute of Technology
-<br/>Atlanta GA USA
+<br/>Atlanta GA, USA
 <br/>Tel: +1 404-385-7456
 <br/>Email: xiaoli@gatech.edu
 <br/> <a href="/sitemap/">Sitemap</a> 
