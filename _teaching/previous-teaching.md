@@ -1,5 +1,6 @@
 ---
 title: "Previous Courses"
+excerpt: "courses"
 collection: teaching
 ---
 
