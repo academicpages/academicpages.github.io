@@ -1,7 +1,7 @@
 ---
 title: "Previous Courses"
 collection: teaching
-permalink: /teaching/2020-spring-teaching-3
+permalink: /teaching/previous-teaching
 date: 2020-01-14
 ---
 
