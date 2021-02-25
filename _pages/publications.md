@@ -15,12 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-##### **Published Books and Parts of Books** 
+**Published Book** 
+
+1. G. B. Giannakis, Z. Liu, X. Ma, and S. Zhou, *Space-Time Coding for Broadband Wireless Communications*, New York: John Wiley & Sons, Inc., 2007.
+
+**Published Parts of Books** 
 
 1. X. Ma and G. B. Giannakis, “Space-time coding for time-selective and frequency-selective MIMO channels,” in H. Bolcskei, D. Gesbert, C. Papadias, and A. J. van der Veen, editors, '' *Space-Time Wireless Systems: From Array Processing to MIMO Communications*, Cambridge University Press, 2006, pp. 218–238.
-2. G. B. Giannakis, Z. Liu, X. Ma, and S. Zhou, *Space-Time Coding for Broadband Wireless Communications*, New York: John Wiley & Sons, Inc., 2007.
-3. W. Zhang and X. Ma, “Lattice reduction aided equalization for wireless applications,” in V. K. Madisetti and D. Williams, editors, *The Digital Signal Processing Handbook*, CRC Press, Boca Raton, FL, 2009.
-4. X. Ma and Q. Zhou, “Massive MIMO and Its Detection,” *MIMO Processing for 4G and Beyond: Fundamentals and Evolution*, CRC Press / Taylor and Francis Group, 2014  
+2. W. Zhang and X. Ma, “Lattice reduction aided equalization for wireless applications,” in V. K. Madisetti and D. Williams, editors, *The Digital Signal Processing Handbook*, CRC Press, Boca Raton, FL, 2009.
+3. X. Ma and Q. Zhou, “Massive MIMO and Its Detection,” *MIMO Processing for 4G and Beyond: Fundamentals and Evolution*, CRC Press / Taylor and Francis Group, 2014  
 
 **Refereed Journal Publications**  
 
@@ -316,6 +319,6 @@ Submitted and under review
 174. K. Zheng, S. Zhang, and X. Ma, “Difficulty Prediction for Proof-of-Work Based Blockchains,” in *Proc. IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Atlanta, GA, May 2020.
 175. J. Zhang, T. He, X. Yang, C.-K. Wen, S. Jin, and X. Ma, “Model-driven Deep Learning Based TurboMIMO Receiver,” in *Proc. IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Atlanta, GA, May 2020.
 176. M. S. Omar and X. Ma, “The Effects of Narrowband Interference on OCDM,” in *Proc. IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Atlanta, GA, May 2020.
-177. M. S. Omar and X. Ma, “Mitigating Clipping Distortion in OFDM Using Deep Residual Learning,” in *Proc. IEEE ICASSP*, submitted Oct. 2020.
-178. C.-H. Yang,  J. Qi, P.-Y. Chen, Y.-C. S. Chen, S. M. Siniscalchi, X. Ma, and C.-H. Lee, “Decentralizing Feature Extraction with Quantum Convolutional Neural Network for Automatic Speech Recognition,” in *Proc. IEEE ICASSP*, submitted Oct. 2020. 
+177. M. S. Omar and X. Ma, “Mitigating Clipping Distortion in OFDM Using Deep Residual Learning,” in *Proc. IEEE ICASSP*, June 2021.
+178. C.-H. Yang,  J. Qi, P.-Y. Chen, Y.-C. S. Chen, S. M. Siniscalchi, X. Ma, and C.-H. Lee, “Decentralizing Feature Extraction with Quantum Convolutional Neural Network for Automatic Speech Recognition,” in *Proc. IEEE ICASSP*, June 2021. 
 
