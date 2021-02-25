@@ -24,7 +24,7 @@ Education
 <br/>Dissertation: Doubly-Selective Channels: Estimation, Capacity, and Space-Time Coding
 
 * M.S. in EE, University of Virginia, VA, 2000
-<br/>Advisor: Professor Gang Tao
+<br/>Advisor: Professor [Gang Tao](https://scholar.google.com/citations?hl=en&user=YOZbkCEAAAAJ)
 <br/>Thesis: Adaptive Actuator Nonlinearity Compensation Control with Feedback Linearization
 
 * B.S. in Automatic Control, Tsinghua University, 1998 
