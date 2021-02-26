@@ -9,7 +9,7 @@ author_profile: true
 
 [When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi](http://hyukhson.github.io/files/malawi_student_incentive.pdf) (with [James Berry](https://sites.google.com/site/econjimberry/) and [Hyuncheol Bryant Kim](https://sites.google.com/site/hk2405/home))
 
-Gold Mine Openings and Child Labor in Mali 
+Gold Mine Openings and Child Labor in Mali, *draft available upon request*
 
 ## Work in Progress
 The Effect of Microinsurance on Child Work and Schooling: Evidence from northern Kenya and southern Ethiopia
