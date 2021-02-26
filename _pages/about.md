@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Raphtory is an open source Distributed Real-Time Temporal Graph Analytics Platforms funded by [The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/raphtory-practical-system-analysis-dynamic-graphs). This page follows the development of Raphtory including how the tool may be used, recent changes and improvements, the implemented algorithms, and use case examples for temporal graphs.
+Raphtory is an open source distributed real-time temporal graph analytics platform funded by [The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/raphtory-practical-system-analysis-dynamic-graphs). This page follows the development of Raphtory including how the tool may be used, recent changes and improvements, the implemented algorithms, and use case examples for temporal graphs.
 
 # Overview
 
@@ -30,10 +30,10 @@ Graph analytics is pivotal in understanding the modern world, especially for bus
 Raphtory takes stored or real-time data to create graphs which automatically update without interference of the user. Functions for graph analysis can be defined and then executed across the cluster nodes. The system keeps the history of the graphs as updates come in, which can be accessed later. 
 
 The core components for ingestion and modelling (left rectangle of Figure 1) consist of _Spouts, Graph Routers and Graph Partition Managers (GPMs)_.
-Spouts pull tuples from external data that a user specifies and pushes it into the system. The Graph Routers then receive the tuples and update accordingly through a user defined parsing function such as adding, removing, or updating vertices and edges. Next, the GPMs handling the affected entity (the graph) gets the update that needs to be made. 
-By dividing these processes (1) a set of data may be modelled into many different graphs by connecting the same Spout to Routers with unique parsing functions or (2) multiple independent sets of data can be joined into one graph by having the same Router connected to various Spouts.  
+Spouts pull tuples from external data that a user specifies and pushes it into the system. The Graph Routers then receive the tuples and update accordingly through a user defined parsing function such as adding, removing, or updating vertices and edges. Next, the GPMs handling the affected entities, the vertices and edges that make up a graph, gets the update that needs to be made. 
+By dividing these processes, a set of data may be modelled into many different graphs by connecting the same Spout to Routers with unique parsing functions or multiple independent sets of data can be joined into one graph by having the same Router connected to various Spouts.  
 
-GPMs handle all operations such as getting graph updates, synchronising with one another, and performing analysis. As updates arrive, GPMs will create entity objects and insert updates into the histories of the affected entities at the correct chronological position. This process allows the system to maintain the same history and removes the need for centralised synchronisation as updates between GPMs may be executed in any order depending on when data arrives. Additionally, messages between routers and GPMs can track the time when the live graph is most recently updated and when the history is synchronised for analysis. 
+GPMs handle all operations such as getting graph updates, synchronising with one another, and performing analysis. As updates arrive, GPMs will create entity objects and insert updates into the histories of the affected entities at the correct chronological position. This process allows the system to maintain the same history and removes the need for centralised synchronisation as updates between GPMs may be executed in any order depending on when data arrives. Additionally, messages between graph builders and GPMs are watermarked to track the time where the most recent update was made in the live graph. Watermarking also allows us to know when updates are synchronised in the graph's history so that analysis can be safely conducted.
 
 
 # Analysis
@@ -48,7 +48,7 @@ Once Raphtory is established and ingesting the selected input, analysis of the g
   <em>Figure 2</em>
 </p>
 
-All algorithms in Raphtory are executed on graph flattenings, meaning it takes the temporal graph and views it as a normal graph at a chosen point in time. These can be created at the most recent time (the live real-time graph), or for any point in the graph’s history. Tasks may be set to (1) run over ranges of the history, creating flattenings at set increments, or (2) may run continuously on the live graph, periodically creating flattenings as it updates.  
+All algorithms in Raphtory are executed on graph flattenings, meaning it takes the temporal graph and views it as a normal graph at a chosen point in time. These can be created at the most recent time (the live real-time graph), or for any point in the graph’s history. Tasks may be set to run over different ranges of the history, creating flattenings at set increments, or may run continuously on the live graph, periodically creating flattenings as it updates.  
 
 <p align="center">
   <img src="https://raphtory.github.io/images/windowflattening.png" alt="Figure 3"/>
