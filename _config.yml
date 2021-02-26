@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-PE"
-theme                    : minimal-mistakes-jekyll #cambio hecho el 18-11. Se introdujo parametros "site width" y "theme"
-minimal_mistakes_skin    : dark
+theme                    :  #cambio hecho el 18-11. Se introdujo parametros "site width" y "theme"
+#minimal_mistakes_skin    : dark
 site_width               : wide #cambio hecho el 18-11 
 title                    : "Jorge Condeña Llantoy"
 title_separator          : "-"
