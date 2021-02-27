@@ -25,6 +25,21 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
 
 ## Publications
 <ul>
+    <li>Repairing Serializability Bugs in Distributed Database Programs via Automated Schema Refactoring
+    <br />
+    <font size="3">
+      (Kia Rahmani, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
+    </font> <br /> <font size="2">
+    <a> 
+      [PLDI'21: 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation]</a>
+      <br/>
+      <a href="/files/ATROPOS_Paper.pdf">
+      [pre-print]
+      </a>
+    </font>
+    </li>
+</ul>
+<ul>
     <li>CLOTHO: Directed Test Generation for Weakly Consistent Database Systems
     <br />
     <font size="3">
@@ -49,7 +64,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     </font>
     </li>
 </ul>
-  <ul>
+<ul>
     <li>Fine-grained Distributed Consistency Guarantees with Effect Orchestration
     <br />
     <font size="3">
@@ -64,9 +79,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
    <a href="http://docs.lib.purdue.edu/cstech/1780/">
      [Tech Report]
    </a>
-   <a href="/files/papoc-18.pdf">
-     [Slides]
-   </a>
+   <a href="/files/papoc-18.pdf"> [Slides] </a>
 </ul>
 
 
