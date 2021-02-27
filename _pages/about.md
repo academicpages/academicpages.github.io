@@ -9,23 +9,24 @@ redirect_from:
 ---
 
 I am an epidemiologist, modeler, and multidisciplinary data scientist with
-experience in microbiome science, microbiology, antibiotic resistance,
-statistics, computing, and mathematical modeling. I have developed skill sets
-in facilitation, technical communication, and project management.
+experience in infectious disease, microbiome science, microbiology, antibiotic
+resistance, statistics, computing, and mathematical modeling. I have developed
+skill sets in facilitation, technical communication, and project management.
 
 I am a part-time Research Analyst in the [Center for Public Health
 Preparedness and Resilience](https://www.cna.org/centers/ipr/phpr/) in the
 [Institute for Public Research](https://www.cna.org/centers/ipr/) at
 [CNA](https://www.cna.org/). CNA is a nonprofit research institute that
-provides objective analysis to federal, state, and local government. At CNA,
-my work has focused on advising city and state public health officials,
-especially on their **COVID-19** responses.
+provides objective analysis to Federal, state, and local government. At CNA,
+my work has focused on advising US Navy, Federal agencies, and state and city
+officials, especially on COVID-19.
 
-I also work as an independent scientific consultant for
-[OpenBiome](http://www.openbiome.org) and as an independent epidemiological
-consultant with Dr. [Yonatan
-Grad](https://www.hsph.harvard.edu/yonatan-grad/). I co-designed a model used
-to inform the design of the **National Basketball Association's "bubble"**
+I also work as an consultant for [Biobot](https://www.biobot.io/),
+a wastewater epidemiology currently focused on COVID-19 surveillance for places
+like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm). As an
+independent epidemiological consultant with Dr. [Yonatan
+Grad](https://www.hsph.harvard.edu/yonatan-grad/), I co-designed a model used
+to inform the design of the National Basketball Association's "bubble"
 for the 2020 play-offs.
 
 ## Background
@@ -50,16 +51,7 @@ development of the first [CommKit](http://mitcommlab.mit.edu/be/), a guide to
 communication tasks designed by scientists for scientists. I was also a
 founding member of the MIT [Biological Engineering REFS](http://berefs.com/),
 a peer-to-peer conflict management and mentoring program, and a Diversity
-Chair on the department's graduate student board.  During my postdoc I served
+Chair on the department's graduate student board. During my postdoc I served
 as the President of the [Harvard Chan Postdoc
 Association](http://hsph.me/pda) and served on the School's Committee for
 Diversity and Inclusion.
-
-## Other interests
-
-I'm interested in how to optimally deliver technical information. I like the
-idea of using [rules for games](/games) as a test case, but this is far from
-optimized.
-
-I produced [this list](https://github.com/swo/modern-greek-flashcards) of
-Modern Greek vocabulary that might be useful to learners.
