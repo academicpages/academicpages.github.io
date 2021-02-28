@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing: Amazon Reviews"
+title: "Natural Language Processing with Python: Amazon Reviews"
 collection: portfolio
 ---
 Project completed for the course Machine Learning Methods in Economics at the University of Hamburg
