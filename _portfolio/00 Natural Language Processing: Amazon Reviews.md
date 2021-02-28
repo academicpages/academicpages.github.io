@@ -2,7 +2,7 @@
 title: "Natural Language Processing: Amazon Reviews"
 collection: portfolio
 ---
-Project for the course: Machine Learning Methods in Economics at the University of Hamburg
+Project for the course Machine Learning Methods in Economics at the University of Hamburg
 
 This projekt involves the loading and pre-processing of amazon reviews and their ratings, 
 the fitting of an artificial Deep Neural Network capable of being trained on up to 3,6 million observations (the size of the sample). 
