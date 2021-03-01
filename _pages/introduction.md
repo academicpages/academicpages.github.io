@@ -28,5 +28,3 @@ redirect_from:
   Multi-agent Artificial Intelligence Laboratory focuses on develop advanced methods for multi-agent system management, especially on multi-agent reinforcement learning, multi-agent(distributed) optimization, and applications in robotics, transportation and medical field.
 </p>
 
-[paper1](../files/paper1.pdf)
-
