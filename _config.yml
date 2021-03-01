@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoc researcher in active mobility"
   location         : "Madrid, Spain"
-  employer         : "[t-GIS](https://www.ucm.es/tgis),[UCM](https://www.ucm.es)"
+  employer         : [t-GIS](https://www.ucm.es/tgis),[UCM](https://www.ucm.es)
   pubmed           :
   googlescholar    : "https://scholar.google.es/citations?user=3QOiyqUAAAAJ&hl=es"
   email            : "rtalaveragarcia@ucm.es"
