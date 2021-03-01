@@ -51,6 +51,8 @@ Modeling
 * [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge & David Robinson
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn & Kjell Johnson
 * [Feature Engineering for Machine Learning](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf) by Alice Zheng & Amanda Casari
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google
 * [Kaggle](https://www.kaggle.com/) for downloading some fun public datasets to try out machine learning algorithms
 
 <br> 
