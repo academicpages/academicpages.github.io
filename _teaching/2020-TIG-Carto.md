@@ -1,5 +1,5 @@
 ---
-title: "Cartography I (MSc in Geographic Information Technologies)"
+title: "Cartografía I (MSc in Geographic Information Technologies)"
 collection: teaching
 type: "MSc course"
 permalink:

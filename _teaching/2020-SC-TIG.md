@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Geographic Information Technologies (MSc in Smart Cities)"
+title: "Introducción a las Tecnologías de Información Geográfica  (MSc in Smart Cities)"
 collection: teaching
 type: "MSc course"
 permalink:
