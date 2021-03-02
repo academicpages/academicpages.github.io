@@ -108,7 +108,7 @@ Peer Review
 
 Others
 ======
-* [The Batch](https://www.deeplearning.ai/) gives you a fresh taste of the latest research and applications in the field of AI every Thursday by Andrew Ng
+* [The Batch](https://www.deeplearning.ai/) gives you a weekly fresh taste of the latest research and applications in the field of AI by Andrew Ng
 * [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a blog about computational neuroscience, data science, getting into industry by Patrick Mineault
 * [Tanya Jonker](https://tanyajonker.com/) a blog about academic and industry job markets by cognitive neuroscientist Tanya Jonker
 * [Devpost](https://devpost.com/) for some fun online hackathon opportunities
