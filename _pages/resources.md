@@ -33,7 +33,7 @@ Statistics
 * [An Introduction to Spatial Data Analysis and Visualisation in R](https://www.sciencedirect.com/book/9780128044889/environmental-data-analysis-with-matlab) by Joshua Menke & William Menke
 * [Environmental Data Analysis with Matlab](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, & Jannes Muenchow
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman & George Athanasopoulos
-* [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde, Mine Çetinkaya-Rundel, Colin Rundel, David Banks, Christine Chai & Lizzy Huang
+* [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde et al.
 * [VassarStats](http://vassarstats.net/) is a website that explains basic statistics concepts (frequentist type) and for online small scale data analyses
 * [JPSP](https://jasp-stats.org/) is an open source statistics program that's similar to SPSS, but with additional Bayesian analyses options
 * [Bernard Marr](https://www.bernardmarr.com/) a listserv for trends in Big Data & Analytics
