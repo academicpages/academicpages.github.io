@@ -96,7 +96,7 @@ Presentation
 * [Morrison billborad poster](http://betterposters.blogspot.com/2019/04/critique-morrison-billboard-poster.html) - an award-winning poster style that helps you make quick converational poster
 * [Activate to Captivate](https://www.activatetocaptivate.com/) a monthly newsletter that gives tips on communication skills by Bri McWhorter
 * [ComSciCon](https://comscicon.com/) - a series of workshops on science communication 
-* [SCOPE (Science Communication Online Programme)](https://ciera.northwestern.edu/programs/scope/) - free training on science communication through Northwestern
+* [SCOPE (Science Communication Online Programme)](https://ciera.northwestern.edu/programs/scope/) hosted by Northwestern University
 
 <br>
 
@@ -108,8 +108,8 @@ Peer Review
 
 Others
 ======
-* [The Batch](https://www.deeplearning.ai/) is the Deeplearning.AI newsletter that gives you a fresh taste of the latest research and applications in the field of AI every Thursday by Andrew Ng
-* [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a well-written blog about computational neuroscience, data science, getting into industry by Patrick Mineault
-* [Tanya Jonker](https://tanyajonker.com/) a blog about exploraing academic and industry job markets by cognitive neuroscientist Tanya Jonker
+* [The Batch](https://www.deeplearning.ai/) gives you a fresh taste of the latest research and applications in the field of AI every Thursday by Andrew Ng
+* [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a blog about computational neuroscience, data science, getting into industry by Patrick Mineault
+* [Tanya Jonker](https://tanyajonker.com/) a blog about academic and industry job markets by cognitive neuroscientist Tanya Jonker
 * [Devpost](https://devpost.com/) for some fun online hackathon opportunities
 
