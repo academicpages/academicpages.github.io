@@ -18,17 +18,26 @@ Coding
 ======
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund
-* [Learning Statistics with R](https://learningstatisticswithr.com/book/) by Danielle Navarro
 * [Advanced R](https://adv-r.hadley.nz/index.html) by Hadley Wickham
 * [Tidy Evaluation](https://tidyeval.tidyverse.org/welcome.html) by Lionel Henry & Hadley Wickham
 * [Mastering Spark with R](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, & Edgar Ruiz
-* [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, & Jannes Muenchow
-* [An Introduction to Spatial Data Analysis and Visualisation in R](https://spatialanalysisonline.com/An%20Introduction%20to%20Spatial%20Data%20Analysis%20in%20R.pdf) by Guy Lansley & James Cheshire
-* [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman & George Athanasopoulos
 * [Intro to R Bayes Packages](https://melissa-wong.github.io/r-ladies-bayes-pkgs/) by Melissa Wong
-* [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/) by Alicia A. Johnson, Miles Ott, & Mine Dogucu
-* [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde, Mine Çetinkaya-Rundel, Colin Rundel, David Banks, Christine Chai & Lizzy Huang
 * [HackerRank](https://www.hackerrank.com/) for coding practice in multiple programming languages esp. SQL and Python
+
+<br> 
+
+Statistics
+======
+* [Learning Statistics with R](https://learningstatisticswithr.com/book/) by Danielle Navarro
+* [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, & Jannes Muenchow
+* [An Introduction to Spatial Data Analysis and Visualisation in R](https://www.sciencedirect.com/book/9780128044889/environmental-data-analysis-with-matlab) by Joshua Menke & William Menke
+* [Environmental Data Analysis with Matlab](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, & Jannes Muenchow
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman & George Athanasopoulos
+* [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde, Mine Çetinkaya-Rundel, Colin Rundel, David Banks, Christine Chai & Lizzy Huang
+* [VassarStats](http://vassarstats.net/) is a website that explains basic statistics concepts (frequentist type) and can be used for online small scale data analyses
+* [Bernard Marr](https://www.bernardmarr.com/) a listserv for trends Big Data & Analytics
+
+
 
 <br> 
 
@@ -53,6 +62,7 @@ Modeling
 * [Feature Engineering for Machine Learning](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf) by Alice Zheng & Amanda Casari
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google
+* [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/) by Alicia A. Johnson, Miles Ott, & Mine Dogucu
 * [Kaggle](https://www.kaggle.com/) for downloading some fun public datasets to try out machine learning algorithms
 
 <br> 
@@ -97,7 +107,6 @@ Peer Review
 
 Others
 ======
-* [VassarStats](http://vassarstats.net/) is a website that explains basic statistics concepts (frequentist type) and can be used for online small scale data analyses
 * [The Batch](https://www.deeplearning.ai/) is the Deeplearning.AI newsletter that gives you a fresh taste of the latest research and applications in the field of AI every Thursday by Andrew Ng
 * [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a well-written blog about computational neuroscience, data science, getting into industry by Patrick Mineault
 * [Tanya Jonker](https://tanyajonker.com/) a blog about exploraing academic and industry job markets by cognitive neuroscientist Tanya Jonker
