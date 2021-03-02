@@ -35,7 +35,7 @@ Statistics
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman & George Athanasopoulos
 * [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde, Mine Çetinkaya-Rundel, Colin Rundel, David Banks, Christine Chai & Lizzy Huang
 * [VassarStats](http://vassarstats.net/) is a website that explains basic statistics concepts (frequentist type) and can be used for online small scale data analyses
-* [Bernard Marr](https://www.bernardmarr.com/) a listserv for trends Big Data & Analytics
+* [Bernard Marr](https://www.bernardmarr.com/) a listserv for trends in Big Data & Analytics
 
 
 
