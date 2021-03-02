@@ -47,7 +47,7 @@ Data Visualization
 * [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 * [R Graph Gallery](https://www.r-graph-gallery.com/) for different figure templates in R
 * [Matplotlib Gallery](https://matplotlib.org/stable/index.html) for figure templates in Python
-* [Mastering Shiny](https://mastering-shiny.org/index.html) by Hadley Wickham
+* [Mastering Shiny](https://mastering-shiny.org/index.html) by Hadley Wickham (Shiny is a popular data app)
 
 <br> 
 
