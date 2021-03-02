@@ -2,9 +2,9 @@
 title: "Teaching experience 1"
 header:
     teaser:  higgspotential.png
+    image:  higgspotential.png
 collection: research
 permalink: /research/research-test
-type: grid
 ---
 
 This is a description of a teaching experience. You can use like any other post.
