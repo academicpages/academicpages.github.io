@@ -2,6 +2,7 @@
 title: "Teaching experience 1"
 header:
     teaser:  higgspotential.png
+    overlay:  higgspotential.png
     image:  higgspotential.png
 collection: research
 permalink: /research/research-test
