@@ -56,6 +56,7 @@ Modeling
 ======
 * [Neuromatch Acadmy Course Materials](https://www.neuromatchacademy.org/syllabus)
 * [Neurohackademy Course Videos](https://www.youtube.com/channel/UCLKSeDZWDqBzKRfHTabg1lQ) through UW eScience Institute
+* [Machine Learning Summer Schools Lecture Videos](http://videolectures.net/site/search/?q=MLSS) in the past years
 * [Foundations of Machine Learning](http://www.deltanalytics.org/curriculum.html) curriculum slides and code for core machine learning concepts
 * [Tidy Modeling with R](https://www.tmwr.org/index.html) by Max Kuhn & Julia Silge
 * [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge & David Robinson
