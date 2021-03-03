@@ -11,3 +11,6 @@ Curso organizado en el marco de los Cursos de formación en Nuevas Tecnologías,
 inscrito en el Proyecto de Innovación INNOVA-Gestión 2020/2021 de la UCM "Hacia
 un sitema mixto de docencia y gestión administrativa presencial-virtual en la
 facultad de Geografía e Historia".  
+
+[Presentación PDF](/files/2021-03-QGISInkscape.pdf)  
+[Materiales](/files/2021-03-Materiales.zip)
