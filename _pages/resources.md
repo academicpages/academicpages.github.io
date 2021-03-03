@@ -104,6 +104,7 @@ Presentation
 Peer Review
 ======
 * [Focus on Peer Review](https://masterclasses.nature.com/online-course-on-peer-review/16507836) - a free Nature Masterclasses' online course on peer review process
+* [Elsevier Researcher Academy](https://researcheracademy.elsevier.com/) provides courses to understand the publishing process (including review) 
 
 <br>
 
