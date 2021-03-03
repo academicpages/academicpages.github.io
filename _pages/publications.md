@@ -99,14 +99,14 @@ author_profile: true
 70. X. Li, T. Jiang, X. Ma, R. Fan, and J. An, "Secure Space-Time Communication over Rayleigh Flat Fading Channels," *IEEE Trans. on Wireless Communications*, vol. 15, no. 2, pp. 1491–1504, Oct. 2015.
 71. Z. Wang, H. Liu, X. Ma, J. An, and S. Xu, "Enhancing Indoor Radio Tomographic Imaging Based on Interference Link Elimination," *Digital Signal Processing*, vol. 44, pp. 26–36, Sept. 2015.
 72. H. Jamali-Rad, A. Simonetto, X. Ma, and G. Leus, "Distributed Sparsity-Aware Sensor Selection," *IEEE Trans. on Signal Processing*, vol. 63, no. 22, pp. 26–36, pp. 5951–5964, Nov. 2015.
-73. L. Cheng, F. Lu, M. M. U. Gul, X. Ma, and G. K. Chang, "Coordinated Multipoint Transmissions in Millimeter-Wave Radio-over-Fiber Systems," *Journal of Lightwave Technology*, vol. 34, no. 2, pp. 653–660, Sept. 2015.
-74. M. Shinotsuka, Y. Wang, X. Ma, and G. T. Zhou, "Analyzing Radio Interferometric Positioning Systems with Undersampling Receivers," *EURASIP Journal on Advances in Signal Processing*, vol. 2015, Article number: 82, Sept. 2015.
-75. X. Li, R. Fan, X. Ma, J. An, and T. Jiang, "Secure Space-Time Communications Over Rayleigh Flat Fading Channels," *IEEE Trans. on Wireless Communications*, vol. 15, no. 2, pp. 1491–1504, Feb. 2016.
-76. L. Cheng, M. M. U. Gul, F. Lu, M. Zhu, J. Wang, M. Xu, X. Ma, and G.-K. Chang, "Coordinated Multipoint Transmissions in Millimeter-Wave Radio-Over-Fiber Systems," Journal of Lightwave Technology, vol. 34, no. 2, pp. 653–660, Feb. 2016.
-77. Q. Wen and X. Ma, "Efficient Greedy LLL Algorithms for Lattice Decoding," *IEEE Trans. On Wireless Communications*, vol. 15, no. 5, pp. 3560–3572, May 2016.
-78. B. Beck, X. Ma, and R Baxley, "Ultrawideband Tomographic Imaging in Uncalibrated Networks," *IEEE Trans. on Wireless Communications*, vol. 15, no. 9, pp. 6474–6486, Sept. 2016.
-79. A. D. Harper and X. Ma, "MIMO Wireless Secure Communication Using Data-Carrying Artificial Noise," *IEEE Trans. on Wireless Communications*, vol. 15, no. 12, pp. 8051–8062, Dec. 2016. 
-80. B. Hu, C. Hua, C. Chen, X. Ma, and X. Guan, "MUBFP: Multiuser Beamforming and Partitioning for Sum Capacity Maximization in MIMO Systems," *IEEE Trans. on Vehicular Technology*, vol. 66, no. 1, pp. 233–245, Jan. 2017.
+73. M. Shinotsuka, Y. Wang, X. Ma, and G. T. Zhou, "Analyzing Radio Interferometric Positioning Systems with Undersampling Receivers," *EURASIP Journal on Advances in Signal Processing*, vol. 2015, Article number: 82, Sept. 2015.
+74. X. Li, R. Fan, X. Ma, J. An, and T. Jiang, "Secure Space-Time Communications Over Rayleigh Flat Fading Channels," *IEEE Trans. on Wireless Communications*, vol. 15, no. 2, pp. 1491–1504, Feb. 2016.
+75. L. Cheng, M. M. U. Gul, F. Lu, M. Zhu, J. Wang, M. Xu, X. Ma, and G.-K. Chang, "Coordinated Multipoint Transmissions in Millimeter-Wave Radio-Over-Fiber Systems," *Journal of Lightwave Technology*, vol. 34, no. 2, pp. 653–660, Feb. 2016.
+76. Q. Wen and X. Ma, "Efficient Greedy LLL Algorithms for Lattice Decoding," *IEEE Trans. On Wireless Communications*, vol. 15, no. 5, pp. 3560–3572, May 2016.
+77. B. Beck, X. Ma, and R Baxley, "Ultrawideband Tomographic Imaging in Uncalibrated Networks," *IEEE Trans. on Wireless Communications*, vol. 15, no. 9, pp. 6474–6486, Sept. 2016.
+78. A. D. Harper and X. Ma, "MIMO Wireless Secure Communication Using Data-Carrying Artificial Noise," *IEEE Trans. on Wireless Communications*, vol. 15, no. 12, pp. 8051–8062, Dec. 2016. 
+79. B. Hu, C. Hua, C. Chen, X. Ma, and X. Guan, "MUBFP: Multiuser Beamforming and Partitioning for Sum Capacity Maximization in MIMO Systems," *IEEE Trans. on Vehicular Technology*, vol. 66, no. 1, pp. 233–245, Jan. 2017.
+80. J. Wang, Z. Yu, K. Ying, J. Zhang, F. Lu, M. Xu, L. Cheng, X. Ma, and G.-K. Chang, "Digital mobile fronthaul based on delta-sigma modulation for 32 LTE carrier aggregation and FBMC signals" *Journal of Optical Communications and Networking*, vol. 9, no. 2, pp. A233-A244, 2017.
 81. A. Harper, J. Reed, J. Odom, A. Lanterman, and X. Ma, "Performance of a Linear-Detector Joint Radar-Communication System in Doubly-Selective Channels ," *IEEE Trans. On Aerospace and Electronics Systems*, vol 53, no. 2, pp. 703–715, Feb. 2017.
 82. B. Beck, R. Baxley, and X. Ma, "Uncooperative Emitter Localization Using Signal Strength in Uncalibrated Mobile Networks," *IEEE Trans. on Wireless Communications*, vol. 16, no. 11, pp. 7488–7500, Nov. 2017.
 83. Q. Shi, N. Wu, X. Ma, and H. Wang, "Frequency-Domain Joint Channel Estimation and Decoding for Faster-Than-Nyquist Signaling," *IEEE Trans. on Communications*, vol. 66, no. 2, pp. 781–795, Feb. 2018.
@@ -130,7 +130,7 @@ author_profile: true
 100. M. S. Omar and X. Ma, “Spectrum Design for Orthogonal Chirp Division Multiplexing Transmissions,” *IEEE Wireless Communication Letters*, vol. 9, no. 11, pp. 1990–1994, Nov. 2020.
 101. Y. Ge, W. Zhang, F. Gao, G. Wang, and X. Ma, “High-Mobility Massive MIMO with Beamforming Network Optimization: Doppler Spread Analysis and Scaling Law,” *IEEE Journal of Selected Areas of Communications*, vol. 38, no. 12, pp. 2889–2902, Dec. 2020.
 102. J. Zhang, X. Ma, J. Qi, and S. Jin, “Designing Tensor-Train Deep Neural Networks For Time-Varying MIMO Channel Estimation,” *IEEE Journal of Selected Topics in Signal Processing*, early access, Jan. 2021.
-103. H. Wu, X. Ma, C. H. Yang, and S. Liu, “Attention Based Bidirectional Convolutional LSTM for Highresolution Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, early access, Nov. 2020. 
+103. H. Wu, X. Ma, C. H. Yang, and S. Liu, “Attention Based Bidirectional Convolutional LSTM for High Resolution Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, early access, Nov. 2020. 
 104. M. S. Omar and X. Ma, “Performance Analysis of OCDM for Wireless Communications,” *IEEE Trans. on Wireless Communications*, early access, Feb. 2021.
 105. L. Yan, X. Ma, X. Li, and J. Lu, “Shot Interference Detection and Mitigation for Underwater Acoustic Communication Systems,” *IEEE Trans. on Communications*, early access, Feb. 2021. 
 
