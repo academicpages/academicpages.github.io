@@ -73,10 +73,12 @@
   }
 
   a {
-    text-decoration: underline;
+    border-bottom: 1px dotted rgb(59, 57, 57);
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      border-bottom: none;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
