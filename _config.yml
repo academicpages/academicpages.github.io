@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "You (Lilian) Cheng"
   avatar           : "lily_uci.png"
-  bio              : "Ph.D. candidate in Cognitive Neuroscience at UC Irvine"
+  bio              : "Ph.D. candidate in Cognitive Neuroscience"
   location         : "Irvine, California"
-  employer         :
+  employer         : "UC-Irvine"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LnggShgAAAAJ&hl=en"
   email            : "youc3@uci.edu"
-  researchgate     : "https://www.researchgate.net/profile/You_Cheng3"
+  researchgate     : #"https://www.researchgate.net/profile/You_Cheng3"
   uri              :
   bitbucket        :
   codepen          :
