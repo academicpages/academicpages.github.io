@@ -117,22 +117,22 @@ author_profile: true
 88. Q. Tan, Y. Wang, and X. Ma, “Preamble Detection Based on Cyclic Features of Zadoff-Chu Sequences for Underwater Acoustic Communications,” *IEEE Signal Processing Letters*, vol. 26, no. 8, pp. 1192–1196, 2019.
 89. Y. Han, C.-K. Wen, S. Jin, M. Matthaiou, and X. Ma, “Tracking FDD Massive MIMO Downlink Channels By Exploiting Delay and Angular Reciprocity”, *IEEE Journal of Selected Topics in Signal Processing*, vol. 13, no. 5, pp. 1062–1076, Sept. 2019.
 90. Y. Han, C.-K. Wen, S. Jin and X. Ma, “Large Intelligent Surface-Assisted Wireless Communication Exploiting Statistical CSI,” *IEEE Trans. on Vehicular Technology*, vol. 68, no. 8, pp. 8238–8242, Aug. 2019.
-91. Y. Kong, X. Ma, and J. Lu, “Orthogonality Deficiency of Massive MIMO Channels: Distribution and Relationship with Performance,” *IEEE Signal Processing Letters*, vol. 26, no. 11, pp. 1603–1607, Nov. 2019.
-92. Y. Ma, F. Tian, N. Wu, Bin Li, and X. Ma,“A Low-Complexity Receiver for Multicarrier Faster-ThanNyquist Signaling Over Frequency Selective Channels,” *IEEE Communications Letters*, vol. 24, no. 1, pp. 81–85, Jan. 2020.
-93. Y. Han, C.-K. Wen, S. Jin, and X. Ma, “Channel Estimation for Extremely Large-Scale Massive MIMO Systems,” *IEEE Wireless Communication Letters*, vol. 9, no. 5, pp. 633–637, May 2020.
-94. Q. Shi, N. Wu, H. Wang, L. Hanzo, and X. Ma, “Factor Graph Based Message Passing Algorithms for Joint Phase-Noise Estimation and Decoding in OFDM-IM,” *IEEE Transactions on Communications*,  vol. 68, no. 5, pp. 2906–2921, May 2020.
-95. J. Qi, J. Du, S. M. Siniscalchi, X. Ma, and C.-H. Lee, “Analyzing Upper Bounds on Mean Absolute Errors for Deep Neural Network Based Vector-to-Vector Regression,” *IEEE Trans. on Signal Processing*, vol. 68, pp. 3411–3422, Jun. 2020.
-96. W. Zhao, G. Wang, S. Atapattu, T. A. Tsiftsis, and X. Ma, “Performance Analysis of Large Intelligent
-    Surface Aided Backscatter Communication Systems,” *IEEE Wireless Communication Letters*, vol. 9, no. 7, pp. 962–966, July 2020.
-97. S. Y.-C. Chen, C.-H. H. Yang, J. Qi, P. Y. Chen, X. Ma, and H.-S. Goan, “Variational Quantum Circuits for Deep Reinforcement Learning,” *IEEE Access*, vol. 8, pp. 141007–141024, Aug. 2020.
-98. J. Qi, J. Du, S. M. Siniscalchi, X. Ma, and C.-H. Lee, “On Mean Absolute Error for Deep Neural Network Based Vector-to-Vector Regression,” *IEEE Signal Processing Letters*, pp. 1485–1489, Aug. 2020.
-99. Y. Han, C.-K. Wen, S. Jin, and X. Ma, “Deep Learning Based FDD Non-Stationary Massive MIMO Downlink Channel Reconstruction,” *IEEE Journal of Selected Areas of Communications*, vol. 38, no. 9, pp. 1980–1993, Sept. 2020.
-100. M. S. Omar and X. Ma, “Spectrum Design for Orthogonal Chirp Division Multiplexing Transmissions,” *IEEE Wireless Communication Letters*, vol. 9, no. 11, pp. 1990–1994, Nov. 2020.
-101. Y. Ge, W. Zhang, F. Gao, G. Wang, and X. Ma, “High-Mobility Massive MIMO with Beamforming Network Optimization: Doppler Spread Analysis and Scaling Law,” *IEEE Journal of Selected Areas of Communications*, vol. 38, no. 12, pp. 2889–2902, Dec. 2020.
-102. J. Zhang, X. Ma, J. Qi, and S. Jin, “Designing Tensor-Train Deep Neural Networks For Time-Varying MIMO Channel Estimation,” *IEEE Journal of Selected Topics in Signal Processing*, early access, Jan. 2021.
-103. H. Wu, X. Ma, C. H. Yang, and S. Liu, “Attention Based Bidirectional Convolutional LSTM for High Resolution Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, early access, Nov. 2020. 
-104. M. S. Omar and X. Ma, “Performance Analysis of OCDM for Wireless Communications,” *IEEE Trans. on Wireless Communications*, early access, Feb. 2021.
-105. L. Yan, X. Ma, X. Li, and J. Lu, “Shot Interference Detection and Mitigation for Underwater Acoustic Communication Systems,” *IEEE Trans. on Communications*, early access, Feb. 2021. 
+91. Y. Ge, W. Zhang, F. Gao, S. Zhang and X. Ma, "Beamforming Network Optimization for Reducing Channel Time Variation in High-Mobility Massive MIMO," *IEEE Transactions on Communications,* vol. 67, no. 10, pp. 6781-6795, Oct. 2019, doi: 10.1109/TCOMM.2019.2926464.
+92. Y. Kong, X. Ma, and J. Lu, “Orthogonality Deficiency of Massive MIMO Channels: Distribution and Relationship with Performance,” *IEEE Signal Processing Letters*, vol. 26, no. 11, pp. 1603–1607, Nov. 2019.
+93. Y. Ma, F. Tian, N. Wu, Bin Li, and X. Ma,“A Low-Complexity Receiver for Multicarrier Faster-ThanNyquist Signaling Over Frequency Selective Channels,” *IEEE Communications Letters*, vol. 24, no. 1, pp. 81–85, Jan. 2020.
+94. Y. Han, C.-K. Wen, S. Jin, and X. Ma, “Channel Estimation for Extremely Large-Scale Massive MIMO Systems,” *IEEE Wireless Communication Letters*, vol. 9, no. 5, pp. 633–637, May 2020.
+95. Q. Shi, N. Wu, H. Wang, L. Hanzo, and X. Ma, “Factor Graph Based Message Passing Algorithms for Joint Phase-Noise Estimation and Decoding in OFDM-IM,” *IEEE Transactions on Communications*,  vol. 68, no. 5, pp. 2906–2921, May 2020.
+96. J. Qi, J. Du, S. M. Siniscalchi, X. Ma, and C.-H. Lee, “Analyzing Upper Bounds on Mean Absolute Errors for Deep Neural Network Based Vector-to-Vector Regression,” *IEEE Trans. on Signal Processing*, vol. 68, pp. 3411–3422, Jun. 2020.
+97. W. Zhao, G. Wang, S. Atapattu, T. A. Tsiftsis, and X. Ma, “Performance Analysis of Large Intelligent Surface Aided Backscatter Communication Systems,” *IEEE Wireless Communication Letters*, vol. 9, no. 7, pp. 962–966, July 2020.
+98. S. Y.-C. Chen, C.-H. H. Yang, J. Qi, P. Y. Chen, X. Ma, and H.-S. Goan, “Variational Quantum Circuits for Deep Reinforcement Learning,” *IEEE Access*, vol. 8, pp. 141007–141024, Aug. 2020.
+99. J. Qi, J. Du, S. M. Siniscalchi, X. Ma, and C.-H. Lee, “On Mean Absolute Error for Deep Neural Network Based Vector-to-Vector Regression,” *IEEE Signal Processing Letters*, pp. 1485–1489, Aug. 2020.
+100. Y. Han, C.-K. Wen, S. Jin, and X. Ma, “Deep Learning Based FDD Non-Stationary Massive MIMO Downlink Channel Reconstruction,” *IEEE Journal of Selected Areas of Communications*, vol. 38, no. 9, pp. 1980–1993, Sept. 2020.
+101. M. S. Omar and X. Ma, “Spectrum Design for Orthogonal Chirp Division Multiplexing Transmissions,” *IEEE Wireless Communication Letters*, vol. 9, no. 11, pp. 1990–1994, Nov. 2020.
+102. Y. Ge, W. Zhang, F. Gao, G. Wang, and X. Ma, “High-Mobility Massive MIMO with Beamforming Network Optimization: Doppler Spread Analysis and Scaling Law,” *IEEE Journal of Selected Areas of Communications*, vol. 38, no. 12, pp. 2889–2902, Dec. 2020.
+103. J. Zhang, X. Ma, J. Qi, and S. Jin, “Designing Tensor-Train Deep Neural Networks For Time-Varying MIMO Channel Estimation,” *IEEE Journal of Selected Topics in Signal Processing*, early access, Jan. 2021.
+104. H. Wu, X. Ma, C. H. Yang, and S. Liu, “Attention Based Bidirectional Convolutional LSTM for High Resolution Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, early access, Nov. 2020. 
+105. M. S. Omar and X. Ma, “Performance Analysis of OCDM for Wireless Communications,” *IEEE Trans. on Wireless Communications*, early access, Feb. 2021.
+106. L. Yan, X. Ma, X. Li, and J. Lu, “Shot Interference Detection and Mitigation for Underwater Acoustic Communication Systems,” *IEEE Trans. on Communications*, early access, Feb. 2021. 
 
 Submitted and under review
 
