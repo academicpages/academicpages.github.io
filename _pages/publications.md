@@ -28,7 +28,7 @@ In Proc. of SIGIR 2019 (short): The 42nd International ACM SIGIR Conference on R
 
 * **A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection**    
 **Penghui Wei**, Wenji Mao, Guandan Chen  
-In Proc. of AAAI 2019 (long): The 33rd AAAI Conference on Artificial Intelligence, pages 7249--7256. Honolulu, Hawaii, USA, January 27 -- February 1, 2019.  
+In Proc. of AAAI 2019: The 33rd AAAI Conference on Artificial Intelligence, pages 7249--7256. Honolulu, Hawaii, USA, January 27 -- February 1, 2019.  
 
 * **Multi-Target Stance Detection via a Dynamic Memory-Augmented Network**       
 **Penghui Wei**, Junjie Lin, Wenji Mao  
