@@ -47,9 +47,9 @@ Publications
 Select Conference Presentations 
 ======
 <b><big>Oral Presentations</big></b>
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [news](/posts/2020/10/blog-post-4/) [video ](https://www.youtube.com/watch?v=fEV5Bq5CTOI)
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [[news](/posts/2020/10/blog-post-4/)] [[video ](https://www.youtube.com/watch?v=fEV5Bq5CTOI)]
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), Virtual. Oct., 2020. [news](/posts/2020/10/blog-post-2/)
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), Virtual. Oct., 2020. [[news](/posts/2020/10/blog-post-2/)]
 
 * <b>Cheng, Y. </b>. Travel Direction as a Fundamental Component of Human Navigation, UCI Cognitive Sciences Department Graduate Student Presentation Bonanza, Irvine. Jan., 2020.
   
@@ -61,19 +61,19 @@ Select Conference Presentations
   
 * <b>Cheng, Y. </b>, Chrastil, E.R.. From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines, Collective Spatial Cognition Specialist Meeting, Santa Barbara. April, 2019.
   
-* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightening Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [video](https://www.youtube.com/watch?v=z5eQH3SGhoY)
+* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightening Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [[video](https://www.youtube.com/watch?v=z5eQH3SGhoY)]
   
 * <b>Cheng, Y. </b>, Liang, Y., Tang, Z.. Mixed Time-Based and Event-Based Prospective Memory: A Behavioral Study, the 16th National Academic Congress of Psychology, Nanjing, China. Nov., 2013. 
 
 <br>
 <b><big>Poster Presentations</big></b>
 
-* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Interdepartmental Neuroscience Program (INP) recruitment session, Virtual. Jan., 2021. [news](/posts/2021/1/blog-post-3/)
+* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Interdepartmental Neuroscience Program (INP) recruitment session, Virtual. Jan., 2021. [[news](/posts/2021/1/blog-post-3/)]
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Society for
-Neuroscience Global Connectome, Virtual. Jan., 2021. [news](/posts/2021/1/blog-post-1/)
+Neuroscience Global Connectome, Virtual. Jan., 2021. [[news](/posts/2021/1/blog-post-1/)]
 
-* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020. [news](/posts/2020/11/blog-post-1/)
+* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020. [[news](/posts/2020/11/blog-post-1/)]
 
 * Downs, M., Brun, J., Huang, T., <b>Cheng, Y. </b>. Greater Than the Sum of the Parts: Collaboration in and Beyond the U.S. LTER Network, Ecological Society of America Annual Meeting, Virtual. Aug., 2020.
 

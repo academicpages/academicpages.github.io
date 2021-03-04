@@ -16,16 +16,16 @@ Human Navigation
 
 Direction
 -----------
-* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Interdepartmental Neuroscience Program (INP) recruitment session, Virtual. Jan., 2021. [news](/posts/2021/1/blog-post-3/)
+* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Interdepartmental Neuroscience Program (INP) recruitment session, Virtual. Jan., 2021. [[news](/posts/2021/1/blog-post-3/)]
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Society for
-Neuroscience Global Connectome, Virtual. Jan., 2021. [news](/posts/2021/1/blog-post-1/)
+Neuroscience Global Connectome, Virtual. Jan., 2021. [[news](/posts/2021/1/blog-post-1/)]
 
-* <b>Cheng, Y. </b>, Chrastil, E.R. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020. [news](/posts/2020/11/blog-post-1/)
+* <b>Cheng, Y. </b>, Chrastil, E.R. The Emergence of Head Direction Signals in Human Navigation, Psychonomic Society Annual Meeting, Virtual. Nov., 2020. [[news](/posts/2020/11/blog-post-1/)]
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [news](/posts/2020/10/blog-post-4/) [video](https://www.youtube.com/watch?v=fEV5Bq5CTOI)
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [[news](/posts/2020/10/blog-post-4/)] [[video](https://www.youtube.com/watch?v=fEV5Bq5CTOI)]
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), Virtual. Oct., 2020. [news](/posts/2020/10/blog-post-2/)
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. Travel Direction as a Fundamental Component of Human Navigation, Interdisciplinary Navigation Symposium (iNAV), Virtual. Oct., 2020. [[news](/posts/2020/10/blog-post-2/)]
 
 * <b>Cheng, Y. </b>. Travel Direction as a Fundamental Component of Human Navigation, UCI Cognitive Sciences Department Graduate Student Presentation Bonanza, Irvine. Jan., 2020.
 
@@ -54,7 +54,7 @@ Spatial Cognition
 
 * <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Performance Discrepancy Between Left-handers and Right-handers Reveals Multisensory Integration in the Mental Rotation of Hands, Spatial Cognition, Tübingen, Germany. Aug., 2018.
 
-* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightning Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [video](https://www.youtube.com/watch?v=z5eQH3SGhoY)
+* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightning Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [[video](https://www.youtube.com/watch?v=z5eQH3SGhoY)]
 
 <br>
 
