@@ -14,4 +14,4 @@ Looking at navigation paths from approximately 1.2 million users’ data allows 
 
 Relevant resources:
 
-* Multidisciplinary Understanding of Sex Differences in Navigation [videos](https://faculty.sites.uci.edu/spatialneuro/sex-differences-in-human-navigation/)
+* Multidisciplinary Understanding of Sex Differences in Navigation [[videos](https://faculty.sites.uci.edu/spatialneuro/sex-differences-in-human-navigation/)]

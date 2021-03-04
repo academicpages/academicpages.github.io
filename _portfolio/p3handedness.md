@@ -15,6 +15,6 @@ Our findings demonstrate that embodied experience influences spatial thinking ab
 
 Relevant resources:
 
-* <b>Cheng, Y.</b>, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18. [pdf](http://lilianyou.github.io/files/2020-Cheng.pdf)
+* <b>Cheng, Y.</b>, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18. [[pdf](http://lilianyou.github.io/files/2020-Cheng.pdf)]
 
-* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightning Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [video](https://www.youtube.com/watch?v=z5eQH3SGhoY)
+* <b>Cheng, Y. </b>. Left Hand, Right Hand. 2018 Spatial Lightning Talks, UCSB Center for Spatial Studies, Santa Barbara. Feb., 2018. [[video](https://www.youtube.com/watch?v=z5eQH3SGhoY)]
