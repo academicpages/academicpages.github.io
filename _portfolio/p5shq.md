@@ -1,5 +1,5 @@
 ---
-title: "Global sex differences in travel trajectory using a dataset from a mobile game"
+title: "Global Sex Differences in Travel Trajectory Using a Dataset From a Mobile Game"
 excerpt: "We look at navigation paths in males and females from a mobile game – Sea Hero Quest. <br/><img src='/images/shq.png'>"
 collection: projects
 ---
