@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Finance, George Mason University, 2012
-* B.S. in Economics, George Mason University, 2014
+* B.S. in Finance, B.S. in Economics, George Mason University, 2014
 * M.Sc in Business Administration (Business Analytics), Hamburg University, 2021
 
-Work experience
+Experience and Skills
 ======
-* 01/2020 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Working Student Media Consulting at Ebiquity Germany GmbH
-
-* 06/2018 - 09/2019: Working Student Controlling at Nexperia Germany GmbH
- 
-* 09/2015 - 05/2016: Economics Assistant at the Federal Deposit Insurance Corporation
-  
-* 05/2014 - 07/2014: Summer Research Assistant at the Mercatus Center
-  
-Software Skills
-======
-* LaTex
-* R       (packages: mlogit, various machine learning packages)
-* Python  (packages: Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch)
-* Markdown
-* Excel
-* GAMS
-
-Awards
-======
-* Germany-Scholarship 2018-2020, Germany Ministry of Education and Research
-* Howard Ruben Bloch Scholarship in Economics 2013-2014 at George Mason University
+* Programminglanguage: Python (1 Year+)
+* Topics: Natural Language Processing, Computer Vision, GPUs und Process-Paralelization, Pre-Processing, Neural Network Architectures
+* APIs and Libraries: Scikit-Learn, Keras, PyTorch, NLTK, REGEX, Pandas, Numpy, Tensorflow, Matplotlib
+* Datasets: Sentiment Analysis: Amazon Reviews, IMDB Movie Reviews, Disaster Tweets, SMS Spam Dataset; Computer Vision: MNIST Written Digits Dataset; Numerical: Boston Housing Dataset, Titanic Survivor Dataset, Iris Flower Data Set
+* Relevant Coursework: Masterthesis: *Demand Estimation with Machine Learning* (Grade: 1,0), Deep Learning (Grade: 1,3), Machine Learning Methods in Economics (Grade: pending), Time Series Analysis (Grade: 1,3), Statistical Programming with Python (Grade: pending), Participation on Kaggle-Competitions
+* Environments: Jupyter Notebook, JupyterLab, Spyder, Google Colaboratory, Kaggle Kernels
+* Markup-Languages: Markdown, LaTex
