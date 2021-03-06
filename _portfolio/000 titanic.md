@@ -3,10 +3,10 @@ title: "Predicting Survival Rates on the Titanic"
 collection: portfolio
 ---
 
-In this project the Titanic survivor data set is used. The goal is to t a
-model that accurately predicts which passengers survived by learning
+In this project the Titanic survivor data set is used. The goal is to fit a model that
+accurately predicts which passengers survived by learning
 the relationships between the individual passenger-characteristics
-and their survival rate. The data set is rst studied to determine
+and their survival rate. The data set is first studied to determine
 what pre-processing procedures or ML methods are necessary. A
 simple model with the original features and a complex model with
 engineered features is applied to test for interactions or non-linear
