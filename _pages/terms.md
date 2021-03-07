@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2021-02-07
 ---
 
 {% include base_path %}
@@ -15,7 +15,9 @@ First and foremost, I will never share your email address or any other personal 
 
 ### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+I do not store __any__ log files containing your IP or other tracking information. I cannot and do not associate page views with user identities.
+
+<!-- Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
 * Internet Protocol addresses (IP)
 * Types of browser
@@ -24,9 +26,9 @@ Like many other websites, this site uses log files to help learn about when, fro
 * Referring and exit pages
 * Number of clicks
 
-All of this information is not linked to anything that is personally identifiable.
+All of this information is not linked to anything that is personally identifiable. -->
 
-### Cookies and Web Beacons
+<!-- ### Cookies and Web Beacons
 
 When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
 
@@ -36,4 +38,8 @@ If you wish to disable cookies, you may do so through your web browser options. 
 
 #### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html). -->
+
+### Analytics
+
+I use [Counter.dev](https://github.com/ihucos/counter.dev) to provide very minimal analytics about the number of page views. I do not store any data about interactions and make no attempt to track you across the web. The source code is available publicly. No cookies are used.
