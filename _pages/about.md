@@ -2,6 +2,7 @@
 permalink: /
 title: "Welcome to Samir's Home!"
 excerpt: 'About me'
+image: "github.png"
 author_profile: true
 redirect_from:
   - /about/
