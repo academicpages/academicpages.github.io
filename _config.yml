@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samir Rashid"
 title_separator          : "-"
 name                     : &name "Samir Rashid"
-description              : &description "personal website"
+description              : &description "Samir Rashid personal website and blog."
 url                      : https://godsped.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Samir-Rashid/Samir-Rashid.github.io"
@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "Rash_Samir"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : /images/github.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
