@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/Curriculum_Vitae.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+[See it here :)](http://mebucca.github.io/files/Curriculum_Vitae.pdf)
