@@ -7,6 +7,10 @@ author_profile: true
 
 ## Working papers
 
+<b>[Intergenerational Social Mobility Among the
+Children of Immigrants in Western Europe: Between Assimilation and Disadvantage](http://mebucca.github.io/research/sm2geu)</b><br>
+<b>Mauricio Bucca</b>, Lucas Drouhot. <i>Under Review</i>. 
+
 
 <b>[Black-White differences in intergenerational mobility in the US: evidence from heterogeneity in sibling correlation](http://mebucca.github.io/research/bw_sc)</b><br>
 <b>Mauricio Bucca</b>.
@@ -19,6 +23,7 @@ author_profile: true
 
 <b>[Intergenerational Social Mobility Among the Children of Immigrants in Western Europe](http://mebucca.github.io/research/sm2geu)</b><br>
 <b>Mauricio Bucca</b>, Lucas Drouhot. 
+
 
 ## Work in progress
 
