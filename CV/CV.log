@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.2)  5 FEB 2021 08:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.17)  8 MAR 2021 12:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV.tex
 (./CV.tex
-LaTeX2e <2020-10-01> patch level 3
-L3 programming layer <2020-12-07> xparse <2020-03-03> (./resume.cls
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-06> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/base/article.
@@ -96,8 +96,8 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fanc
 yhdr.sty
-Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
-
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip51
 \f@nch@O@elh=\skip52
 \f@nch@O@erh=\skip53
@@ -132,8 +132,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3b
 ackend-pdftex.def
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count189
+File: l3backend-pdftex.def 2021-02-06 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count189
 \l__pdf_internal_box=\box49
 ) (./CV.aux)
 \openout1 = `CV.aux'.
@@ -220,7 +220,7 @@ Overfull \hbox (5.74945pt too wide) in paragraph at lines 101--102
 [2
 
 ] [3] [4] [5] [6] [7] [8]
-Overfull \hbox (34.24142pt too wide) in paragraph at lines 434--443
+Overfull \hbox (34.24142pt too wide) in paragraph at lines 439--448
 [][] 
  []
 
@@ -228,13 +228,13 @@ Overfull \hbox (34.24142pt too wide) in paragraph at lines 434--443
 AED: lastpage setting LastPage
 (./CV.aux) ) 
 Here is how much of TeX's memory you used:
- 2557 strings out of 481258
- 36848 string characters out of 5914854
- 322306 words of memory out of 5000000
- 19486 multiletter control sequences out of 15000+600000
+ 2576 strings out of 481250
+ 37333 string characters out of 5913685
+ 324824 words of memory out of 5000000
+ 19514 multiletter control sequences out of 15000+600000
  409506 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 80i,11n,82p,1579b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,11n,88p,1579b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusn.pinto-ledezma/
@@ -244,7 +244,7 @@ usn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 c/amsfonts/cm/cmsy10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusn.pinto-ledezma/Librar
 y/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (10 pages, 142468 bytes).
+Output written on CV.pdf (10 pages, 142547 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

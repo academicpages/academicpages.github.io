@@ -23,7 +23,7 @@ _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV.pdf)
 
-Updated: February 2021
+Updated: March 2021
 
 ## Education
 * __B.S. Biology__, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
