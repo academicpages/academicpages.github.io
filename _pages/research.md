@@ -5,9 +5,10 @@ permalink: /research/
 author_profile: true
 published: true
 share: false
-image: 
-  feature: research2.jpg
+#image: 
+  #feature: research2.jpg
 ---
+
 <style type="text/css">
   body{
   font-size: 12pt;

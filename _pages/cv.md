@@ -49,6 +49,9 @@ Updated: March 2021
 * 2006-2008: __Master’s Fellowship__, Program in Wildlife Management (Programa de Maestría en Manejo de Vida Silvestre). US Wildlife Service, Universidad Nacional de Córdoba, Córdoba, Argentina.
 
 ## Reviewing activities
+
+[Publons profile](https://publons.com/researcher/1588941/jesus-n-pinto-ledezma/peer-review/)
+
 * I served as expert reviewer for the 2020 __Red List__ of birds (eastern South America).
 
 * I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology, in:   
@@ -65,6 +68,8 @@ Updated: March 2021
 * __The Association of Field Ornithologists__: Journal of Field Ornithology 
 * __BirdLife Australia__: EMU (Austral Ornithology)
 * __Aves Argentinas__: El Hornero (revista de ornitología Neotropical) 
+* __New Phytologist Foundation__: New Phytologist 
+* __Zoological Society of London__: Remote Sensing in Ecology and Conservation
 
 ### Journals in for-profit publishers  
 Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management, Biodiversity and Conservation.

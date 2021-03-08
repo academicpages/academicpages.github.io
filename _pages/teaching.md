@@ -8,6 +8,7 @@ share: false
 image: 
   feature: research2.jpg
 ---
+
 <style type="text/css">
   body{
   font-size: 12pt;
@@ -22,7 +23,7 @@ _Illuminating our understanding of nature, that's what it's about_. __--Peter A.
 __University of Minnesota, Saint Paul, MN, USA__
 
 * __Biodiversity Science (EEB 3534, 5534)__. Spring 2021. College of Biological Sciences. Access to course description and material [here](https://github.com/jesusNPL/BiodiversityScience).
-__R tutorials:__ [1) R-Intro](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2021/01_Practice_R-Intro_2021.html). [2) Introduction to Phylogenies and the Comparative Method](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2021/02_Practice_Intro_PCM_2021.html).
+__R tutorials:__ 1) [R-Intro](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2021/01_Practice_R-Intro_2021.html). 2) [Introduction to Phylogenies and the Comparative Method](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2021/02_Practice_Intro_PCM_2021.html). 3) [Large scale biodiversity patterns](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2021/03_Practice_Large_scale_2021.html). 4) [Intro to Infectious Diseases](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2021/04_Practice_Infectious_diseases_2021.html).
 * __Biodiversity Science (EEB 3534, 5534)__. Spring 2020. Main instructor. College of Biological Sciences. Access to course description and material (including R tutorials) [here](https://github.com/jesusNPL/BiodiversityScience/tree/master/Spring2020).
 * __Biodiversity Science (EEB 3534, 5534)__. Spring 2019. Co-taught with Professor Jeannine Cavender-Bares as a postdoctoral lecturer. College of Biological Sciences. Access to course description and material (including R tutorials) [here](https://github.com/jesusNPL/BiodiversityScience/tree/master/Spring2019).   
 
@@ -48,4 +49,4 @@ __Spanish reviewer__
 Spanish-language reviewer for [The American Naturalist](https://amnat.org/home.html). The aim is helping The American Naturalist to expand the communications reach of the world-class science that nonnative english speakers produce.   
 
 __Market Science__   
-Market Science is a group of scientist from the University of Minnesota that aims to connect people with science.
+Market Science is a science communication and outreach program within the [College of Biological Sciences](https://cbs.umn.edu)--University of Minnesota--that's been working to spread science to the community and the State of Minnesota since 2013.
