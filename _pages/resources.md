@@ -21,9 +21,9 @@ Coding
 * [Advanced R](https://adv-r.hadley.nz/index.html) by Hadley Wickham
 * [Tidy Evaluation](https://tidyeval.tidyverse.org/welcome.html) by Lionel Henry & Hadley Wickham
 * [Mastering Spark with R](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, & Edgar Ruiz
+* [SparkPackages](https://spark-packages.org/) for Spark extensions and [Maven repository](https://mvnrepository.com/repos) for Java libraries to customize Spark programming
 * [Intro to R Bayes Packages](https://melissa-wong.github.io/r-ladies-bayes-pkgs/) by Melissa Wong
 * [R Packages](https://r-pkgs.org/) by Hadley Wickham & Jenny Bryan for developing R packages
-* [SparkPackages](https://spark-packages.org/) for Spark extensions and [Maven repository](https://mvnrepository.com/repos) for Java libraries to customize Spark programming
 * [HackerRank](https://www.hackerrank.com/) for coding practice in multiple programming languages esp. SQL and Python
 
 <br> 
