@@ -30,7 +30,7 @@ redirect_from:
 
 - "Analyzing Conjoint Datasets with Support Vector Machine Methods." With Cristobal Quininao (UOH). <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **Submitted, Political Analysis**
 
-- "Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data." <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Submitted, Progress in Development Studies**
+- "Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data." <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Submitted, State and Local Government Review**
 
 
 
