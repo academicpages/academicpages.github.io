@@ -10,10 +10,12 @@ redirect_from:
 
 <b>About the lab</b>
 
-Sarah P. Flanagan began her appointment as a Lecturer in the School of Biological Sciences at the University of Canterbury in Christchurch, New Zealand in 2018. The lab is focused on understanding the evolution of complex, multivariate traits (such as mating display traits), primarily relying on population and quantitative genetics, genomic datasets, simulation modeling. Our empirical work has mostly focused on pipefish and seahorses.
+The Flanagan Lab in the School of Biological Sciences at the University of Canterbury in Christchurch is focused on understanding the evolution of complex, multivariate traits (especially sexually dimorphic traits), primarily relying on population and quantitative genetics, genomic datasets, simulation modeling. Our empirical work has mostly focused on pipefish and seahorses.
 
 
 <b>Lab news</b>
+
+March 2021: Sarah has published a paper on [the genetic basis of freshwater adaptation in pipefish](https://onlinelibrary-wiley-com.ezproxy.canterbury.ac.nz/doi/10.1111/mec.15841). 
 
 November 2020: Nicole Tosto began her PhD studying pipefish behaviour and genetics! She is currently working with collaborators in the US and plans to join the group in New Zealand in 2021.
 
