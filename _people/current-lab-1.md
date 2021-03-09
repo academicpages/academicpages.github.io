@@ -14,7 +14,7 @@ permalink: /people/current-lab
 Sarah's research focuses on the evolution of complex traits and how selection interacts with the genome. The lab's research activities fall into two major categories: (1) understanding how sexual selection acts on traits and shapes mating systems and (2) investigating the genomic basis of traits, including the signature selection leaves on the genome. Read more about Sarah on her [personal website]( https://sarahpflanagan.wordpress.com/), where she maintains a blog.
 
 ### Coley Tosto
-<img align="left" src='/images/coleytosto.png' width="40%" height="40%"> Coley Tosto is currently working towards a Ph.D. in Biological Sciences investigating the role sexual selection pressures have in sex-biased gene expression using pipefish as a model system. Her overall research interests surround the evolution of different mating systems and all the factors that are involved in shaping them. She is working in collaboration with [Heather Masonjones](https://www.ut.edu/directory/masonjones-heather) and [Emily Rose](https://www.valdosta.edu/about/directory/profile/erose).
+<img align="left" src='/images/ColeyTosto.jpg' width="40%" height="40%"> Coley Tosto is currently working towards a Ph.D. in Biological Sciences investigating the role sexual selection pressures have in sex-biased gene expression using pipefish as a model system. Her overall research interests surround the evolution of different mating systems and all the factors that are involved in shaping them. She is working in collaboration with [Heather Masonjones](https://www.ut.edu/directory/masonjones-heather) and [Emily Rose](https://www.valdosta.edu/about/directory/profile/erose).
 
 <br>
 <br>
