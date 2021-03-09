@@ -12,6 +12,10 @@ Co-first authorship is denoted by *.
 
 <ol reversed>
   
+  <li> <span style="color:#239B56">Howell LA</span>, LaRue M, <strong>Flanagan SP</strong> (In press) Environmental DNA as a tool for monitoring Antarctic vertebrates. New Zealand Journal of Zoology. DOI: 10.1080/03014223.2021.1900299. <a href="https://doi.org/10.1080/03014223.2021.1900299" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a> </li>
+
+  <li> <strong>Flanagan SP</strong>, Rose E, Jones AG (2019) The population genomics of repeated freshwater colonizations by Gulf pipefish. Molecular Ecology. DOI: 10.1111/mec.15841 <a href="http://doi.org/10.1111/mec.15841" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a> </li>
+
   <li> Anderson AP, <strong>Flanagan SP</strong>, Rose E, Jones AG. 2020. The estrogen-responsive transcriptome of female secondary sexual traits in the Gulf pipefish, Journal of Heredity, esaa008, <a href="https://academic.oup.com/jhered/advance-article-abstract/doi/10.1093/jhered/esaa008/5775491" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a> </li>
 
   <li> <span style="color:#239B56">Lerch B</span>, <span style="color:#239B56">Dautel KA</span>, <span style="color:#239B56">Brewer S</span>, <span style="color:#239B56">Liang A</span>, Siewe N, <strong>Flanagan SP</strong>. 2020. Space, density, and extra-pair matings have opposing impacts on male and female reproductive success. Population Ecology. <a href="https://esj-journals.onlinelibrary.wiley.com/doi/abs/10.1002/1438-390X.12047" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a> </li>
