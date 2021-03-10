@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adeyemi Damilare Adeoye"
 title_separator          : "-"
 name                     : &name "Adeyemi Damilare Adeoye"
-description              : &description "Adeyemi D. Adeoye holds a bachelor's degree in Mathematics from the University of Ilorin, Ilorin, Nigeria, and a master's degree in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Cameroon. A current master's student in Machine Intelligence at the African Master's in Machine Intelligence (AMMI) program, African Institute for Mathematical Sciences, Rwanda."
+description              : &description "Ph.D. Student in Control Systems, IMT School for Advanced Studies Lucca, Italy"
 url                      : https://adeyemiadeoye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adeyemiadeoye/adeyemiadeoye.github.io"
@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Adeyemi Damilare Adeoye"
   avatar           : "profile.png"
-  bio              : "Adeyemi D. Adeoye holds a bachelor's degree in Mathematics from the University of Ilorin, Ilorin, Nigeria, and a master's degree in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Cameroon. A current master's student in Machine Intelligence at the African Master's in Machine Intelligence (AMMI) program, African Institute for Mathematical Sciences, Rwanda."
+  bio              : >
+  I am a PhD student at IMT Lucca in the Dynamical Systems, Control, and Optimization (DYSCO) research group. I am advised by Prof. Alberto Bemporad. My research interests are system identification, machine learning, neural networks, parameter estimation, and numerical optimization. My research focuses on dynamical systems theory for continuous-time embedded optimization algorithms of machine learning.
+  I received my bachelor’s degree in Mathematics in 2016 from the University of Ilorin in Nigeria. I obtained a master’s degree in Mathematical Sciences in 2018 from the African Institute for Mathematical Sciences (AIMS), Cameroon, and in 2021, a master’s degree in Machine Intelligence through the African Master’s in Machine Intelligence (AMMI) program at the African Institute for Mathematical Sciences (AIMS), Rwanda."
   location         : "Kigali, Rwanda"
   employer         :
   pubmed           :
