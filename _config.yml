@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Adeyemi Damilare Adeoye"
 title_separator          : "-"
-name                     : &name "Adeyemi D. Adeoye"
+name                     : &name "Adeyemi Damilare Adeoye"
 description              : &description "Personal website of Adeyemi Damilare Adeoye"
 url                      : https://adeyemiadeoye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adeyemi Damilare Adeoye"
+  name             : "Adeyemi D. Adeoye"
   avatar           : "avatar_1.png"
   bio              : "PhD Student, IMT School for Advanced Studies Lucca, Italy"
   location         : #"Lucca, Italy"
