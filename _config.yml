@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Adeyemi Damilare Adeoye"
 title_separator          : "-"
-name                     : &name "Adeyemi Damilare Adeoye"
+name                     : &name "Adeyemi D. Adeoye"
 description              : &description "Personal website of Adeyemi Damilare Adeoye"
 url                      : https://adeyemiadeoye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
