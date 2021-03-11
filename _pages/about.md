@@ -25,7 +25,7 @@ redirect_from:
   Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
  [[paper](https://arxiv.org/pdf/2102.04306.pdf)][[code](https://github.com/Beckschen/TransUNet)]
  
-* <b>Semi-supervised Segmentation via Uncertainty Rectified Pyramid Consistency and Its Application to Gross Target Volume of Nasopharyngeal Carcinoma</b> <br> 
+* <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
  
