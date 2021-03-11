@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-We are a computational chemistry and artificial intelligence research group interested in quantum and molecular simulation, molecule and material design, and physics-informed machine learning.
+We are a computational chemistry and artificial intelligence research group interested in molecular and material property prediction and design, quantum simulation, and physics-informed machine learning.
