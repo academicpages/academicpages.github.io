@@ -14,4 +14,4 @@ I received my bachelor’s degree in Mathematics in 2016 from the <a href="https
 
 News
 ======
-* I started my PhD
+*
