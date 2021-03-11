@@ -8,7 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS:** I am very happy to start a position at the University of Amsterdam. If you are thinking of starting graduate studies and are interested in learning and applying mathematical and computational tools to solving society's pressing problems, send me an email with your story and CV!
+Recruiting
+======
+
+**PhD candidate in Computational Social Science**
+Are you interested in pursuing a PhD focused in the study of the interactions among humans and their environments? 
+In my new group at the Computational Science Lab, we are interested in a range of social and ecological processes with the goal of better understanding and managing them. 
+We take a variety of mathematical, computational, and experimental techniques to address our questions. 
+From simple, stylized problems that can be tested experimentally to detailed, prediction-focused models that feed on large datasets, we believe knowledge comes from bursts of generalization and application; and it also comes from a variety of approaches. 
+
+Have you heard of Game Theory, Network Science, or Dynamical Systems? Have you ever thought about what they have in common? Do they relate to the methods you use or would like to learn? 
+
+Currently, we are starting several research directions, for which we want creative, motivated minds. We have three directions for which we are recruiting. 
+
+i)	Social norms and social dynamics, cooperation and institutions, and their impact in climate change mitigation; 
+
+ii)	the energy transition and its impacts in social and ecological systems; or 
+
+iii)	mental health and its relation to urbanicity and sociality. 
+
+In all of these, you will be emersed in an international network of collaborators, and you will be supervised by me (check the website). 
+For an idea of the collaborations, see also the [Earth Resilience and Sustainability Initiative](http://earthresiliencesustainability.org/), the [Polder Center](https://polder.center/), and the [Centre for Urban Mental Health](https://www.uva.nl/en/shared-content/zwaartepunten/en/urban-mental-health/urban-mental-health.html). The positions are at the [Computational Science Lab](https://uva.computationalscience.nl/) at the [Informatics Institute](https://ivi.uva.nl/) and the [Institute for Advanced Study](https://ias.uva.nl/) at the University of Amsterdam, where you can expect a highly stimulating environment.
+If your favorite topic lies within these themes, send me your motivation letter to v.v.vasconcelos@uva.nl.
+
+What's else is going on
+======
 
 "I think the next [21st] century will be the century of <i>Complexity</i>," [said](https://nl.newsbank.com/nl-search/we/Archives?p_product=SJ&p_theme=sj&p_action=search&p_maxdocs=200&s_dispstring=allfields(stephen)%20AND%20date(1/23/2000%20to%201/23/2000)&p_field_date-0=YMD_date&p_params_date-0=date:B,E&p_text_date-0=1/23/2000%20to%201/23/2000&p_text_advanced-0=(%22stephen%22)&xcal_numdocs=20&p_perpage=10&p_sort=YMD_date:D&xcal_useweights=no) Stephen Hawking, anticipating the way science is developing. Here, Complexity refers a property of many systems and their emergent properties, which makes them hard to manage. Our collective inability to manage them means we face many systemic crises at once: climate change,
 growing inequality, a sixth mass extinction, the global spread of misinformation and health problems.
