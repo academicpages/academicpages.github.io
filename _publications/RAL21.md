@@ -6,7 +6,7 @@ venue: "IEEE Robotics and Automation Letters (RA-L), 2021"
 date: 2018-4-12
 citation: 'Jiankai Sun, <b>Lantao Yu</b>, Pinqian Dong, Bo Lu, Bolei Zhou. <i>IEEE Robotics and Automation Letters</i>. <b>RA-L 2021</b>.'
 ---
-[[PDF]](http://bzhou.ie.cuhk.edu.hk/robotics/MAIRL_draft.pdf)
+[[PDF]](https://ieeexplore.ieee.org/document/9361118?source=authoralert)
 
 
 ## Abstract
