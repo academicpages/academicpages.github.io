@@ -21,9 +21,9 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : harrycoppock.com
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,9 +83,9 @@ author:
   name             : "Harry Coppock"
   avatar           : "profile.png"
   bio              : "PhD candidate Artificial Intelligence"
-  location         : "Imperial College London"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : 
+  employer         : "Imperial College London"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4sLZpdJmr2EpQdKjETaOThdUWg6tQXFLXUhz_lHxoFm8gxN0OyDnGQn3zxY_LSRaHSCnAnxJA8IsBWlWEBtoE593V5r_mdh6xjY4rqctcGjZy_w1g&user=sOdVlYoAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
