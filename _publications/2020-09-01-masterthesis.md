@@ -1,6 +1,6 @@
 ---
-title: "Vector Quantised-Variational Autoencoders(VQ-VAEs) for Representation learning"
-award: "Imperial College London Distinguised Project Award"
+title: "Vector Quantised-Variational Autoencoders (VQ-VAEs) for Representation learning"
+award: "Imperial College London <i><b>Distinguised Project Award</b></i>"
 collection: publications
 permalink: /publication/2020-09-01-masterthesis
 excerpt: ''
