@@ -10,10 +10,13 @@ biburl: /files/coppock2021pilot.bib
 citation: '<b>Harry Coppock</b>, Alexander Gaskell, Panagiotis Tzirakis, Alice Baird, Lyn Jones, Björn W Schuller (2021) End-2-End convolutional neural network enables COVID-19 Detection from Breath & Cough Audio: a pilot study <i>BMJ innovations</i>'
 author_profile: false
 ---
-Background: Since the emergence of COVID-19 in December 2019, multi-disciplinary research teams have wrestled with how best to control the pandemic in light of it's considerable physical, psychological and economic damage. Mass testing has been advocated as a potential remedy; however, mass testing using physical tests is a costly and hard-to-scale solution. 
-Methods: This study demonstrates the feasibility of an alternative form of COVID-19 detection, harnessing digital technology through the use of audio biomarkers and deep learning. Specifically, we show that a deep neural network-based model can be trained to detect symptomatic and asymptomatic COVID-19 cases using breath and cough audio recordings. 
-Results: Our model, a custom convolutional neural network, demonstrates strong empirical performance on a dataset consisting of 355 crowdsourced participants, achieving a ROC-AUC of 0.846 on the task of COVID classification.
-Conclusion: This study offers a proof-of-concept for diagnosing COVID-19 using cough and breath audio signals and motivates a comprehensive follow-up research study on a wider data sample, given the evident advantages of a low-cost, highly scalable digital COVID-19 diagnostic tool.
+<b>Background:</b> Since the emergence of COVID-19 in December 2019, multi-disciplinary research teams have wrestled with how best to control the pandemic in light of it's considerable physical, psychological and economic damage. Mass testing has been advocated as a potential remedy; however, mass testing using physical tests is a costly and hard-to-scale solution.
+
+<b>Methods:</b> This study demonstrates the feasibility of an alternative form of COVID-19 detection, harnessing digital technology through the use of audio biomarkers and deep learning. Specifically, we show that a deep neural network-based model can be trained to detect symptomatic and asymptomatic COVID-19 cases using breath and cough audio recordings.
+
+<b>Results:</b> Our model, a custom convolutional neural network, demonstrates strong empirical performance on a dataset consisting of 355 crowdsourced participants, achieving a ROC-AUC of 0.846 on the task of COVID classification.
+
+<b>Conclusion:</b> This study offers a proof-of-concept for diagnosing COVID-19 using cough and breath audio signals and motivates a comprehensive follow-up research study on a wider data sample, given the evident advantages of a low-cost, highly scalable digital COVID-19 diagnostic tool.
 
 [Download paper here](https://arxiv.org/pdf/2102.08359.pdf)
 
