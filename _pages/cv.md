@@ -10,9 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
+<!-- [Download PDF](/files/HC CV 190121.pdf) -->
+
 <object data="/files/Alex_Spies-CV.pdf" type="application/pdf" width="100%" height="100%">
-  <a href="/HC CV 190121.pdf">Available as PDF</a>
+  <a href="/files/HC CV 190121.pdf">Available as PDF</a>
 </object>
+
+
 
 Education
 ======
