@@ -1,11 +1,10 @@
 ---
 title: "Vector Quantised-Variational Autoencoders(VQ-VAEs) for Representation learning"
-subtitle: "Imperial College London Distinguised Project Award"
+award: "Imperial College London Distinguised Project Award"
 collection: publications
 permalink: /publication/2020-09-01-masterthesis
 excerpt: ''
 date: 2020/09/01
-# venue: 'Arxiv'
 # paperurl: 'https://arxiv.org/pdf/2012.14553.pdf'
 # biburl: /files/schuller2020detecting.bib
 citation: '<b>Harry Coppock</b>, Björn W Schuller Vector Quantised-Variational Autoencoders(VQ-VAEs) for Representation learning (2020)  <i>Master Thesis</i>'
