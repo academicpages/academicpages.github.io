@@ -13,10 +13,12 @@ I am an Assistant Professor of Computer Science at Virginia Tech. Prior to VT, I
 
 My main work is in the intersection of Data Science and Machine Learning, particularly improving Deep Learning models for real-world scenarios, considering all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations. [TextNormSeq2Seq](https://github.com/Isminoula/TextNormSeq2Seq) is a hybrid Seq2Seq model that can serve as a pre-processing step for any NLP application to adapt to noisy social media text. I have also participated on interdisciplinary projects that touch societal problems. You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio). I am excited about opportunities to collaborate in areas such as *Reinforcement Learning*, *Multi-agent RL* and *Meta-learning*.
 
+- *If you are a prospective student interested in working with me, please make sure to apply and include me in your research statement. Unfortunately, due to email overload, responding to such requests has become sporadic lately, and there is a high likelihood of missing an email.*
+
 # News
 
-- **December, 2020:** Will be teaching [CS6604: Data Challenges in Machine Learning](http://people.cs.vt.edu/~barnette/grad/courses/cs6604Spring21-lourentzou.html). If you are a VT student interested in ML research, consider taking this course. More details will be up soon.
-- **December, 2020:** Happy to be recognized as an [Outstanding Reviewer ](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf?p=30) for EMNLP 2020.
+- **December, 2020:** Will be teaching a new seminar course,[CS6604: Data Challenges in Machine Learning](https://isminoula.github.io/cs6604SP21/). 
+- **December, 2020:** Happy to be recognized as an [Outstanding Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf?p=30) for EMNLP 2020.
 - **November, 2020:** Will be joining Virginia Tech, Department of Computer Science as tenured-track assistant professor.
 - **November, 2019:** Successfully defended my PhD thesis: Data Quality in the Deep Learning era. Will be joining IBM Research at the end of November.
 - **October, 2019:** Attending [ISWC 2019](https://iswc2019.semanticweb.org/) in Auckland, NZ (travel award)
