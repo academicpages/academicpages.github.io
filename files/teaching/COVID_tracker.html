@@ -1,0 +1,161 @@
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="_Fun_COVID_Tracker_Challenge__0"></a>🦠 Fun COVID Tracker Challenge 🦠</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Copy and paste the below code into a python editor/interpreter, complete the tasks within the script, keeping to within the hashed boundaries (note: this is a similar format to both your CWs). Setting: You are an enthusiatic student at Imperial College London and are tired of waiting for the Government to release a contact tracing app. You decide to take the matter into your own hands…</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">This program generates a unique code for each person in the virtual world, when a person arrives at a location, the person’s unique code is logged at that location. In addition to this, on arrival and departure, the program checks to see which other codes are logged at that location. At the end of the day, any positive COVID cases are reported and the corresponding code associated with the infected person is sent out. People can then check whether they have come into contact with this person at some point in the day, and so determine if they should isolate or not!</p>
+<h2 class="code-line" data-line-start=6 data-line-end=7 ><a id="Bonus_6"></a>Bonus:</h2>
+<ul>
+<li class="has-line-data" data-line-start="7" data-line-end="9">Identify 1 weakness with this contact tracing programe and fix it. Do this through a new class which inherits from the Person class. I will be interested to see your final implementations, if you would like to share your solutions with me, please copy and paste your code into an email and send to <a href="mailto:harry.coppock@imperial.ac.uk">harry.coppock@imperial.ac.uk</a> and we can chat about the best implementations in the next tutorial!</li>
+</ul>
+<p class="has-line-data" data-line-start="9" data-line-end="10"><em>hints</em>:</p>
+<ul>
+<li class="has-line-data" data-line-start="10" data-line-end="12">what happens when someone visits a location and leaves before the<br>
+other people at the location leave?</li>
+<li class="has-line-data" data-line-start="12" data-line-end="14">the contact list is never wiped… a system removing old entries<br>
+would be better.</li>
+<li class="has-line-data" data-line-start="14" data-line-end="18">In our example Luca tests positive, this means that Harry has to<br>
+self isolate, does this mean that everyone in contact with Harry<br>
+that day also needs to isolate?</li>
+</ul>
+<pre><code class="has-line-data" data-line-start="19" data-line-end="163" class="language-python"><span class="hljs-keyword">import</span> random
+
+<span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Location</span>:</span>
+    <span class="hljs-string">'''
+    A class used for defining locations in our virtual COVID space and who is 
+    currently there.
+    note: as this a virtual problem, proximity between people cannot be calculated
+    through GPS or bluetooth.
+    '''</span>
+
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">__init__</span><span class="hljs-params">(self, name)</span>:</span>
+        self.name = name
+        <span class="hljs-comment"># people at that location at that specific time</span>
+        self.people_present = set()
+
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">add_person</span><span class="hljs-params">(self, person_code)</span>:</span>
+        self.people_present.add(person_code)
+    
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">remove_person</span><span class="hljs-params">(self, person_code)</span>:</span>
+        <span class="hljs-comment"># Task 1:</span>
+        <span class="hljs-comment"># write a method which removes a persons code from the people_present</span>
+        <span class="hljs-comment"># set</span>
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># Code start</span>
+        <span class="hljs-comment">########################################################################</span>
+
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># Code end</span>
+        <span class="hljs-comment">########################################################################</span>
+
+    
+<span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Person</span>:</span>
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">__init__</span><span class="hljs-params">(self, name, email, start_loc)</span>:</span>
+        self.name = name
+        self.email = email
+        self.loc = start_loc
+
+        <span class="hljs-comment"># for privacy sake a person shall share their unique code not their name</span>
+        self.unique_code = self.gen_unique_code()
+
+        <span class="hljs-comment"># set containing codes of the people which the person has been in contact with</span>
+        self.contact_list = set()
+
+        <span class="hljs-comment"># send code to start location</span>
+        self.loc.add_person(self.unique_code)
+
+
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">gen_unique_code</span><span class="hljs-params">(self, length=<span class="hljs-number">20</span>)</span>:</span>
+        <span class="hljs-string">'''
+        Method which generates a random code for the person of length, length
+        '''</span>
+        <span class="hljs-comment"># Task 2: complete this function</span>
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># Code start</span>
+        <span class="hljs-comment">########################################################################</span>
+
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># Code end</span>
+        <span class="hljs-comment">########################################################################</span>
+        
+    
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">move_location</span><span class="hljs-params">(self, new_location)</span>:</span>
+        <span class="hljs-string">'''
+        Method which moves the person
+        input:
+        new_location: type --&gt; class instance
+        '''</span>
+
+        <span class="hljs-comment"># check to see who is here and log unique codes</span>
+        self.register_contacts()
+        <span class="hljs-comment"># Task 3:</span>
+        <span class="hljs-comment"># remove the person's code from the location that is being left, move and</span>
+        <span class="hljs-comment"># add it to the new location</span>
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># Code start</span>
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># remove code from current location:</span>
+
+        <span class="hljs-comment"># move</span>
+
+        <span class="hljs-comment"># add unique code to new location:</span>
+
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># Code end</span>
+        <span class="hljs-comment">########################################################################</span>
+
+        <span class="hljs-comment"># check to see who is here</span>
+        self.register_contacts()
+
+
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">register_contacts</span><span class="hljs-params">(self)</span>:</span>
+        <span class="hljs-comment"># Task 4:</span>
+        <span class="hljs-comment"># see who else is here and log their codes</span>
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># Code start</span>
+        <span class="hljs-comment">########################################################################</span>
+
+        <span class="hljs-comment">########################################################################</span>
+        <span class="hljs-comment"># Code end</span>
+        <span class="hljs-comment">########################################################################</span>
+
+    
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">check_to_isolate</span><span class="hljs-params">(self, covid_list)</span>:</span>
+        <span class="hljs-keyword">if</span> any(code <span class="hljs-keyword">in</span> self.contact_list <span class="hljs-keyword">for</span> code <span class="hljs-keyword">in</span> covid_list):
+            print(f<span class="hljs-string">'{self.name} needs to self isolate'</span>)
+        <span class="hljs-keyword">else</span>:
+            print(f<span class="hljs-string">'{self.name} does NOT need to self isolate'</span>)
+
+
+<span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">"__main__"</span>:
+    <span class="hljs-comment"># instantiate some locations:</span>
+    imperial_cluster = Location(<span class="hljs-string">'Imperial College London computer cluster'</span>)
+    h_bar = Location(<span class="hljs-string">'Postgraduate Bar'</span>)
+    imperial_library  = Location(<span class="hljs-string">'Imperial College London Library'</span>)
+    vna = Location(<span class="hljs-string">'Victoria and Albert Museum'</span>)
+    natural_history = Location(<span class="hljs-string">'Natural History Museum'</span>)
+    imperial_gym = Location(<span class="hljs-string">'Ethos'</span>)
+
+    <span class="hljs-comment"># some people</span>
+    harry = Person(<span class="hljs-string">'Harry'</span>, <span class="hljs-string">'hgc19@ic.ac.uk'</span>, imperial_cluster)
+    joe = Person(<span class="hljs-string">'Joe'</span>, <span class="hljs-string">'j.stacey20@ic.ac.uk'</span>, vna)
+    luca = Person(<span class="hljs-string">'Luca'</span>, <span class="hljs-string">'lg16@ic.ac.uk'</span>, imperial_gym)
+    william = Person(<span class="hljs-string">'William'</span>, <span class="hljs-string">'wh18@ic.ac.uk'</span>, h_bar)
+
+    <span class="hljs-comment"># people go about their day</span>
+    harry.move_location(imperial_gym)
+    luca.move_location(imperial_cluster)
+    william.move_location(imperial_cluster)
+    joe.move_location(imperial_gym)
+    joe.move_location(h_bar)
+    harry.move_location(h_bar)
+    
+    print(f<span class="hljs-string">'Harry has been in contact with the following anonymous codes: {harry.contact_list}'</span>)
+
+    <span class="hljs-comment"># luca has tested positive for COVID</span>
+    <span class="hljs-comment"># This should return that everyone apart from Joe needs self isolate.</span>
+
+    covid_codes =  [luca.unique_code]
+
+    harry.check_to_isolate(covid_codes)
+    joe.check_to_isolate(covid_codes)
+    luca.check_to_isolate(covid_codes)
+    william.check_to_isolate(covid_codes)
+</code></pre>

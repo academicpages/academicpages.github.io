@@ -13,4 +13,4 @@ In this role I assist the lecturer in coordinating the TAs, create tutorials for
 
 ### Materials developed for course:
 1. Introduction to pytorch for deep learning jupyter notebook for deeplearning tutorial: [download](/files/teaching/IntroPython_DeepLearning_Tut.ipynb)
-2. Fun challenge to create your own COVID track and trace programe for Object Orientation Programming tutorial: [download](/files/teaching/COVID_tracker.md)
+2. Fun challenge to create your own COVID track and trace programe for Object Orientation Programming tutorial: [download](/files/teaching/COVID_tracker.html)
