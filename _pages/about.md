@@ -17,7 +17,7 @@ I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunn
 
 News
 ======
-* [2021/02/06] &nbsp; I receive the 2021 CSE Outstanding Graduate Student Award at MSU.
+* [2021/02/06] &nbsp; I receive the 2020-2021 Outstanding Graduate Student Award at the College of Engineering [link](https://www.egr.msu.edu/graduate/outstanding-graduate-student-awards).
 * [2020/10/25] &nbsp; I'm selected as ECCV 2020 Outstanding Reviewer.
 * [2020/09/28] &nbsp; The slides of IJCB'20 Face Anti-Spoofing and Manipulation Detection Tutorial can be download here [[1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
 * [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
