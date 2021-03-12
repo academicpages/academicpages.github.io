@@ -25,7 +25,7 @@ Publications
 			<br/>
 			<b>Habiba Farrukh</b>, Tinghan Yang, Hanwen Xu, Yuxuan Yin, He Wang, Z. Berkay Celik
 			<br/>
-			Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM UbiComp '21)
+			Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM UbiComp '21) <a href="https://arxiv.org/abs/2103.05840">[Preprint]</a>
 			<br/>
 	</li>
 </ul>
@@ -46,7 +46,7 @@ Publications
 			<br/>
 			Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
-			IEEE International Conference on Computer Communications (InfoCom 2020) <a href="https://www.cs.purdue.edu/homes/cao208/files/context_infocom2020.pdf">[Paper]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/context_address_siyuan_cao-uploaded.mp4">[Video]</a>
+			IEEE International Conference on Computer Communications (InfoCom '20) <a href="https://www.cs.purdue.edu/homes/cao208/files/context_infocom2020.pdf">[Paper]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/context_address_siyuan_cao-uploaded.mp4">[Video]</a>
 			<br/>
 	</li>
 </ul>
