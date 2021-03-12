@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+<object data="/files/Alex_Spies-CV.pdf" type="application/pdf" width="100%" height="100%">
+  <a href="/HC CV 190121.pdf">Available as PDF</a>
+</object>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
