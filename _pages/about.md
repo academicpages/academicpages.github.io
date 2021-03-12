@@ -27,9 +27,9 @@ ii)	the energy transition and its impacts in social and ecological systems; or
 
 iii)	mental health and its relation to urbanicity and sociality. 
 
-In all of these, you will be emersed in an international network of collaborators, and you will be supervised by me (check the website). 
+In all of these, you will be immersed in an international network of collaborators, and you will be supervised by me (check the website). 
 For an idea of the collaborations, see also the [Earth Resilience and Sustainability Initiative](http://earthresiliencesustainability.org/), the [Polder Center](https://polder.center/), and the [Centre for Urban Mental Health](https://www.uva.nl/en/shared-content/zwaartepunten/en/urban-mental-health/urban-mental-health.html). The positions are at the [Computational Science Lab](https://uva.computationalscience.nl/) at the [Informatics Institute](https://ivi.uva.nl/) and the [Institute for Advanced Study](https://ias.uva.nl/) at the University of Amsterdam, where you can expect a highly stimulating environment.
-If your favorite topic lies within these themes, send me your motivation letter to v.v.vasconcelos@uva.nl.
+If your favorite topic lies within these themes, send me your motivation letter to v.v.vasconcelos@uva.nl, specifying your insterests. We expect to open a formal call very soon.
 
 What's else is going on
 ======
