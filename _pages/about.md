@@ -15,7 +15,11 @@ Raphtory is an open source distributed real-time temporal graph analytics platfo
 # Overview
 
 Graph analytics is pivotal in understanding the modern world, especially for business and logistics planning. However, capturing and telling a story with data can be time-consuming and often requires the user to manually refresh the output for an update.   
-**Raphtory is the answer to creating dynamic temporal graphs** that could be used anywhere at any time. The goal is to make it easy for you to access accurate, time-sensitive graphs without the burden of reloading the results when you want the latest information. The system is designed with extensibility in mind so that new data types and analysis algorithms can be added to support different use cases.   
+**Raphtory is the answer to creating dynamic temporal graphs** that could be used anywhere at any time. The goal is to make it easy for you to access accurate, time-sensitive graphs without the burden of reloading the results when you want the latest information. The system is designed with extensibility in mind so that new data types and analysis algorithms can be added to support different use cases.     
+
+## What are temporal graphs?  
+
+Temporal graphs are graphs that change with time. Specifically, the relationships between the entities (vertices and edges) in a temporal graph change but the entities themselves do not. In this sense, temporal graphs are presented like a series of static graphs so that each update creates a new static graph for viewing. Temporal graphs are like movies in many ways: the landscape of the story (the graph) transforms as new information and data come in. 
 
 ## How does the system work?
 
