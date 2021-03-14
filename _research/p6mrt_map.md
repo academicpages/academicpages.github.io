@@ -1,6 +1,6 @@
 ---
 title: "Geovisualization of Global Sex Differences in Mental Rotation"
-excerpt: "We observed consistent sex differences of mental rotation ability and line angle judgement ability across countries "
+excerpt: "We observed consistent sex differences of mental rotation ability and line angle judgement ability across countries <br/><img src='/images/World_Map/mental_rotation.gif'>"
 collection: projects
 ---
 
@@ -16,4 +16,3 @@ Relevant resources:
 
 * Multidisciplinary Understanding of Sex Differences in Navigation [[videos](https://faculty.sites.uci.edu/spatialneuro/sex-differences-in-human-navigation/)]
 
-<br/><img src='/images/World_Map/mental_rotation.gif'>
