@@ -24,6 +24,7 @@ Coding
 * [SparkPackages](https://spark-packages.org/) for Spark extensions and [Maven repository](https://mvnrepository.com/repos) for Java libraries to customize Spark programming
 * [Intro to R Bayes Packages](https://melissa-wong.github.io/r-ladies-bayes-pkgs/) by Melissa Wong
 * [R Packages](https://r-pkgs.org/) by Hadley Wickham & Jenny Bryan for developing R packages
+* [Big Book of R](https://www.bigbookofr.com/index.html) by Oscar Baruffa lists 150+ books on R programming
 * [HackerRank](https://www.hackerrank.com/) for coding practice in multiple programming languages esp. SQL and Python
 
 <br> 
@@ -63,6 +64,7 @@ Modeling
 * [Foundations of Machine Learning](http://www.deltanalytics.org/curriculum.html) curriculum slides and code for core machine learning concepts
 * [Tidy Modeling with R](https://www.tmwr.org/index.html) by Max Kuhn & Julia Silge
 * [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge & David Robinson
+* [A Minimal rTorch Book](https://f0nzie.github.io/rtorch-minimal-book/) by Alfonso R. Reyes
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn & Kjell Johnson
 * [Feature Engineering for Machine Learning](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf) by Alice Zheng & Amanda Casari
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
