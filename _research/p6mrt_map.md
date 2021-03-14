@@ -1,6 +1,6 @@
 ---
 title: "Geovisualization of Global Sex Differences in Mental Rotation"
-excerpt: "We observed consistent sex differences in mental rotation ability and line angle judgment ability across countries. <br/><img src='/images/World_Map/mental_rotation.gif'>"
+excerpt: "We observed consistent sex differences in mental rotation ability and line angle judgment ability across countries. "
 collection: projects
 ---
 
@@ -30,3 +30,4 @@ Relevant resources:
 * Sex Differences in Mental Rotation and Line Angle Judgments Are Positively Associated with Gender Equality and Economic Development Across 53 Nations [Journal](https://link.springer.com/article/10.1007%2Fs10508-008-9460-8)
 * The BBC Internet Study: General Methodology [Journal](https://link.springer.com/article/10.1007/s10508-006-9143-2)
 
+<br/><img src='/images/World_Map/mental_rotation.gif'>
