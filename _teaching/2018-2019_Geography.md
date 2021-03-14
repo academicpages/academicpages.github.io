@@ -1,5 +1,5 @@
 ---
-title: "B.Soc.Sc. in Geography and Spatial Planning"
+title: "B.Soc.Sc. in Geography and Spatial Planning (2018-2019)"
 collection: teaching
 type: "Bachelor course"
 permalink:
