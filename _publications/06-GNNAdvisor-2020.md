@@ -2,8 +2,8 @@
 title: "GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs"
 collection: publications
 permalink:  /publication/02-AccD-2019
-date: 2020-06-11
-venue: 'ArXiv'
+date: 2021-03-11
+venue: 'OSDI'
 paperurl: 'https://arxiv.org/pdf/2006.06608.pdf'
 ---
 + Propose and implement an efficient runtime system for accelerating GNN on GPU; 
