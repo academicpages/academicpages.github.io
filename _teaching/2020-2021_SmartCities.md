@@ -10,4 +10,6 @@ location: "Madrid, Spain"
 
 
 
+
+
 Subject: Introducción a las Tecnologías de Información Geográfica
