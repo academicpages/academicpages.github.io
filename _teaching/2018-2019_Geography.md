@@ -7,9 +7,4 @@ venue: "Faculty of Geography & History, Complutense University of Madrid"
 date: 2018-11-18
 location: "Madrid, Spain"
 ---
-
-
-
-
-
-Subject: Geographic Information Systems (II)
+* Subject: Geographic Information Systems (II)
