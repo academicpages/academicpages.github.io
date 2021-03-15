@@ -1,5 +1,5 @@
 ---
-title: "MSc in Smart and Sustainable Cities (2020-2021)"
+title: "MSc in Smart and Sustainable Cities"
 collection: teaching
 type: "MSc"
 permalink:
