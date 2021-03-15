@@ -1,5 +1,5 @@
 ---
-title: "Geovisualization of Global Sex Differences in Mental Rotation"
+title: "Geovisualization of Global Sex Differences in Mental Rotation Ability"
 excerpt: "We observed consistent sex differences in mental rotation ability and line angle judgment ability across countries. <br/><img src='/images/World_Map/mental_rotation.gif'>"
 collection: projects
 ---
