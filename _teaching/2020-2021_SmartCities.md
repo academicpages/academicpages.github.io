@@ -1,7 +1,7 @@
 ---
 title: "MSc in Smart and Sustainable Cities (2020-2021)"
 collection: teaching
-type: "MSc course"
+type: "MSc"
 permalink:
 venue: "Faculty of Geography & History, Complutense University of Madrid"
 date: 2020-10-01
