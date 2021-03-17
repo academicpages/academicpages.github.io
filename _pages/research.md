@@ -40,7 +40,9 @@ redirect_from:
 
 - **Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times**. With Paz Irarrazabal (UOH). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt). **Data analyses**
 
-- **Not Just Guns or Butter, but What Came First---Guns or Butter? Introducing GVAR to International Relations**. With Igor Kovac (U Cincinnati). <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt). **Data analyses**
+- **Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times**. With Paz Irarrazabal (UOH). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt). **Data analyses**
+
+- **The Bus of Inequality: Public Transportation and COVID in Santiago**. With Felix Modrego and Andrea Canales. <br/> [[Abstract]](https://github.com/hbahamonde/Bus/raw/master/abstract.txt). **Data analyses**
 
 - **Structural Transformations and State Institutions in Latin America, 1900-2010**. <br/> [[Paper]](https://github.com/hbahamonde/NegativeLink/raw/master/Bahamonde_NegativeLink.pdf).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta). 
 
