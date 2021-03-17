@@ -11,5 +11,5 @@ A smaller sample is used for computational speed, however the methods don't chan
 
 [Notebook in PDF-Version](https://gzhelev2020.github.io/files/amazon_code.pdf)
 
-[Paper forthcoming](https://gzhelev2020.github.io/files/nlp_project.pdf)
+[Paper forthcoming](https://gzhelev2020.github.io/files/nlp_paper.pdf)
 
