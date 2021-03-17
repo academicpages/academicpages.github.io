@@ -42,8 +42,6 @@ Skills
 * Programming \| Framework
   * Python
   * R
-  * SQL
-  * SAS
   * TensorFlow
   * Shiny
 * Version Control
