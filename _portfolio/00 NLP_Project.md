@@ -9,7 +9,6 @@ A smaller sample is used for computational speed, however the methods don't chan
 
 [Presentation](https://gzhelev2020.github.io/files/amazon-reviews-short.slides.html)
 
-[Notebook](https://gzhelev2020.github.io/files/amazon_code.pdf)
-
 [Paper](https://gzhelev2020.github.io/files/nlp_paper.pdf)
 
+[Code](https://gzhelev2020.github.io/files/amazon_code.pdf)
