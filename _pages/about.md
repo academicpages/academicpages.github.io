@@ -33,7 +33,9 @@ _[\* means equal contribution.]_
 
 Talks/Presentations
 ======
-*  Talk at Data Centric Engineering Reading Group, The Alan Turing Institute, March, 2021.
+*  Poster at _AISTATS 2021_, April 2021, (San Diego, California, USA).
+*  Talk at _Data Centric Engineering Reading Group @ The Alan Turing Institute_, March 2021, (London, UK).
+
 
 
 
