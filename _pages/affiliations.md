@@ -19,3 +19,12 @@ Department of Urbanism and Spatial Planning
 University of Granada  
 Granada (Spain)  
 2008 - 2014  
+
+
+# MEMBERSHIPS
+
+* Colegio de Ambientólogos de Andalucía (COAMBA)
+
+* Asociación Española de Geografía (AGE)
+
+* Asociación QGIS España
