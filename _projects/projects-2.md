@@ -1,5 +1,5 @@
 ---
-title: "Image Super-resolution"
+title: "Image Super-resolution -- MSc Thesis with Distinction"
 excerpt: "Spatial Resolution Enhancement in Images with Linear and Learning-based Techniques<br/>
 - Figure: Original and Reconstructed 'comic' Images (Scale Factor in order: 2, 3, 4)<br/>
 <img src='/images/org-c(1).png'/><img src='/images/x2-c(1).png'/><img src='/images/x3-c(1).png'/><img src='/images/x4-c(1).png'/>"
