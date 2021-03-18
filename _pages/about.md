@@ -26,7 +26,7 @@ i\hbar \frac{\partial |\psi \rangle}{\partial t}=\left(c\mathbf{\alpha} \cdot \m
 
 黑色柴犬 Black Shiba Inu
 ======
-![alt text](https://github.com/YeYusen/YeYusen.github.io/tree/master/images/blackshiba.jpg?raw=true)
+![plot](/images/blackshiba.jpg)
 
 Site-wide configuration
 ------
