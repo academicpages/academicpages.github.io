@@ -9,4 +9,4 @@ The aim of our research is to develop a computer vision-based weed detection sys
 However, CNNs require large datasets to train, and collecting such a dataset for each field is not practical. To meet this challenge, we'll use GANs, which generate synthetic images based on factors like growth stage and soil type. 
 The novelties in our research come from the fact that we would like to design an end-to-end ML model for both data augmentation and weed classification and train it with a new type of dataset collected from cereal fields. 
 
-For further information, please refer to this link: [https://agrifoodtech.blogs.lincoln.ac.uk/2020/12/16/black-grass-detection-project/]
+For further information, please refer to this link: [Black-grass Project](https://agrifoodtech.blogs.lincoln.ac.uk/2020/12/16/black-grass-detection-project/)
