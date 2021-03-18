@@ -21,9 +21,9 @@ Granada (Spain)
 2008 - 2014  
 
 
-   
+
 # Memberships
 
-Colegio de Ambientólogos de Andalucía (COAMBA)
-Asociación Española de Geografía (AGE)
-Asociación QGIS España
+Colegio de Ambientólogos de Andalucía (COAMBA)   
+Asociación Española de Geografía (AGE)   
+Asociación QGIS España   
