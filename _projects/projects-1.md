@@ -1,5 +1,5 @@
 ---
-title: "Black-grass Detection with Deep Neural Networks"
+title: "Black-grass Detection with Deep Neural Networks -- Current Project"
 excerpt: "<img src='/images/blackgrass.png'>"
 collection: projects
 ---
