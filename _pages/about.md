@@ -22,14 +22,11 @@ Dirac equation for spin-$\displaystyle \frac{1}{2}$ particle (electrons, muons, 
 \begin{align}
 i\hbar \frac{\partial |\psi \rangle}{\partial t}=\left(c\mathbf{\alpha} \cdot \mathbf{P}+\beta m c^2 \right)|\psi \rangle
 \end{align}
-Getting started
+
+
+黑色柴犬 Black Shiba Inu
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+![alt text](https://github.com/YeYusen/YeYusen.github.io/tree/master/images/blackshiba.jpg?raw=true)
 
 Site-wide configuration
 ------
