@@ -11,7 +11,7 @@ author_profile: true
 ### 2021
 <b>Assessment of WRF-CHEM Simulated Dust Using Reanalysis, Satellite Data and Ground-Based Observations</b> 
 <a href="https://doi.org/10.1007/s12524-021-01328-3" target="_blank"> [Paper] </a>
-**Rajeev, A.**, Singh, C., Singh, S.K. et al. Assessment of WRF-CHEM Simulated Dust Using Reanalysis, Satellite Data and Ground-Based Observations. **J Indian Soc Remote Sens** (2021). .(<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
+**Rajeev, A.**, Singh, C., Singh, S.K. et al. Assessment of WRF-CHEM Simulated Dust Using Reanalysis, Satellite Data and Ground-Based Observations. **J Indian Soc Remote Sens** (2021). .(<span style="color:red;font-weight:bold"></span>)
 
 {% include base_path %}
 
