@@ -1,5 +1,5 @@
 ---
-title: "Molecular Communications"
+title: "Molecular Communications -- BSc Graduation Project"
 excerpt: "Spatial Receptor Allocation for a Multiple Access Hub<br/><img src='/images/mol-comm-sys.png'>"
 collection: projects
 ---
