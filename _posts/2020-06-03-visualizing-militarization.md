@@ -35,7 +35,7 @@ Given the extreme threat they were designed to survive, MRAPs are
 emblematic of increasing police militarization in the US. But how did
 police come to own these military-grade vehicles?
 
-# Where have all the MRAPs gone?
+## Where have all the MRAPs gone?
 
 Police departments, sheriff’s offices, and even school districts (the LA
 Unified School District [briefly owned an
@@ -56,8 +56,8 @@ agencies.
 The 1033 program received increased [public
 scrutiny](https://www.newsweek.com/how-americas-police-became-army-1033-program-264537)
 after the highly militarized response to protests in Ferguson, MO after
-the killing of Michael Brown by Darren Wilson in 2014.
-Scholars have found a [positive
+the killing of Michael Brown by Darren Wilson in 2014. Scholars have
+found a [positive
 relationship](https://journals.sagepub.com/doi/full/10.1177/2053168017712885)
 between 1033 transfers and police killings.
 
@@ -106,9 +106,9 @@ plot marks the suspension of the 1033 program from 2014 to 2017. While
 some states like Connecticut and New Mexico demonstrate a freeze in
 transfers during this period, others like Tennessee and New Jersey
 continued to receive multiple vehicles. To date, the state that has
-received the most MRAPs is Texas with a whopping 115 vehicles.
+received the most MRAPs is Texas with a whopping 116 vehicles.
 
-# Thinking about the future
+## Thinking about the future
 
 This isn’t a one-time issue limited to the current aggressive police
 response to peaceful protest across the US; it’s a longer-running issue
@@ -128,7 +128,7 @@ releases new data on transfers to civilian agencies. It will serve as a
 way to continue to monitor the ongoing transfer of military hardware to
 civilian law enforcement agencies.
 
-# Coda
+## Coda
 
 I like to think of myself as pretty in-the-know when it comes to police
 militarization in the US. I study state-based violence and repression
@@ -137,7 +137,7 @@ police forces for over a decade now. I still learned something new while
 writing this post. The US MRAP program was inspired by the
 [Casspir](https://en.wikipedia.org/wiki/Casspir) (see Guardia, Mike. 20
 November, 2013. *US Army and Marine Corps MRAPs: Mine Resistant Ambush
-Protected Vehicles*. Osprey Publishing. ISBN 978-1-78096-255-9., p. 4),
+Protected Vehicles*. Osprey Publishing. ISBN 978-1-78096-255-9., p. 4),
 a vehicle developed by Apartheid South Africa based on their experiences
 in the [South African Border
 War](https://en.wikipedia.org/wiki/South_African_Border_War) and
