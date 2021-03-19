@@ -33,6 +33,8 @@ Every vertex is assigned an initial label at random. Looking at the labels of it
 #### See also
 <button onclick="location.href='/algorithms/cbod/'" type="button" class="btn btn-default">
          Outlier Detection</button>
+<button onclick="location.href='/algorithms/mlpa/'" type="button" class="btn btn-default">
+         Multi-Layer Dynamic Community Detection</button>
 
 ## Examples
 In this example, the temporal network spans a time period $t \in [1,3]$ and is built into (3) snapshots of window size 1.
@@ -49,8 +51,7 @@ curl -X POST 127.0.0.1:8081/RangeAnalysisRequest \
 --data-binary @- << EOF 
 {
 	"jsonrpc":"2.0",
-	"jobID":"lpaExample1",
-	"analyserName":"com.raphtory.core.analysis.Algorithms.LPA",
+	"analyserName":"com.raphtory.algorithms.LPA",
 	"start":1,
 	"end":3,
 	"jump":1,
@@ -74,8 +75,7 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 --data-binary @- << EOF 
 {
 	"jsonrpc":"2.0",
-	"jobID":"lpaExample2",
-	"analyserName":"com.raphtory.core.analysis.Algorithms.LPA",
+	"analyserName":"com.raphtory.algorithms.LPA",
 	"timestamp":3
 }
 EOF
@@ -87,7 +87,7 @@ This returns:
 {"time":3,"top5":[4,3],"total":2,"totalIslands":0,"proportion":0.5714286, "communities":[[4,3,2,1],[6,7,5]],"viewTime":30}
 ```
 
-Specifying that only the largest community be returned (as specified by `top_c`)
+Specifying that only the largest community be returned (as specified by `top`)
 
 ```scala
 curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
@@ -95,8 +95,7 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 --data-binary @- << EOF 
 {
 	"jsonrpc":"2.0",
-	"jobID":"lpaExample3",
-	"analyserName":"com.raphtory.core.analysis.Algorithms.LPA",
+	"analyserName":"com.raphtory.algorithms.LPA",
 	"timestamp":3,
 	"args":["1"]
 }

@@ -33,3 +33,5 @@ tags:
 #### See also
 <button onclick="location.href='/algorithms/lpa/'" type="button" class="btn btn-default">
          Label Propagation Algorithm</button>
+<button onclick="location.href='/algorithms/mlpa/'" type="button" class="btn btn-default">
+         Multi-Layer Dynamic Community Detection</button>
