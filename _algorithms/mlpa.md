@@ -41,8 +41,7 @@ tags:
 The temporal network in the figure is a weighted dynamic graph spanning a time period $t \in [1,3]$ with edge property `weight`; and is built into (3) snapshots of window size 1.
  
 <p align="center">
-	<img src="../../images/mlpa-eg
-	.png" style="width: 30vw;" alt="mlpa example"/>
+	<img src="../../images/mlpa-eg.png" style="width: 30vw;" alt="mlpa example"/>
 </p>
 
 
