@@ -11,9 +11,7 @@ Hi there! I am Fazilet, a first-year PhD student at the University of Cambridge.
 
 My current research focuses on image enhancement with ML algorithms. During my research journey, I would like to explore efficient methods to enhance images both visually and quantitatively and expand their application to 3D data. Other than this, I work part-time in an image-based weed detection project, in which our aim is to develop a system that can reliably detect black-grass in cereal crops.
 
-Before joining Cambridge Computer Lab, I was involved in two different research projects. One is about molecular communications, where we designed a novel molecular communications system. In the end, we published the results in IEEE-TMBMC. The other is for my master's dissertation, which is on the super-resolution (SR) problem. I implemented different SR techniques and analyzed the results from a signal processing perspective. 
-
-For details of these projects, please visit [Projects](https://faziletgokbudak.github.io/projects/).
+Before joining Cambridge Computer Lab, I was involved in two different research projects. One is about molecular communications, where we designed a novel molecular communications system. In the end, we published the results in IEEE-TMBMC. The other is for my master's dissertation, which is on the super-resolution (SR) problem. I implemented different SR techniques and analyzed the results from a signal processing perspective (For details of all these projects, please visit [Projects](https://faziletgokbudak.github.io/projects/)).
 
 In addition to my research experiences, I also worked as a freelance software engineer from February until October 2020. During this period, I developed a mobile app using image hashcoding algorithms as well as creating custom widgets within Kivy framework in Python.
 
