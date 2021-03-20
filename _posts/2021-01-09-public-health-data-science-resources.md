@@ -154,7 +154,7 @@ Honestly, the best thing you can do is to sign yourself up for as many emails fr
 
 I think once you enter into one agency's email subscription management service, it'll give you options to sign up to other agencies' emails as well. I find it easiest to start with the [CDC emails](https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx) and go from there. NIAID and NIH emails have been mostly useful, but there is a whole treasure trove of federal agencies with intriguing sounding names!
 
-These emails are a good way not only to get notified of potential cool opportunities (including data science!), but also just to better understand that landscape of federal agencies beyond the CDC. 
+These emails are a good way not only to get notified of potential cool opportunities (including data science!), but also just to better understand that landscape of federal agencies beyond the CDC.
 
 ### Public Health Service Corps
 
@@ -167,6 +167,24 @@ Did you know that there is an official uniformed service corps in the US Public 
 [https://datascience.nih.gov/workforce-development/fellowship-job-opportunities](https://datascience.nih.gov/workforce-development/fellowship-job-opportunities)
 
 Looks like there's a handful of data science-related opportunities available through the NIH's [Office of Data Science Strategy](https://datascience.nih.gov/).
+
+### 18F
+
+https://18f.gsa.gov/join/
+
+18F works with government at many levels to modernize their software development.
+
+### US Digital Service
+
+https://www.usds.gov/apply
+
+Seems similar to 18F, but with a bit more emphasis on transforming existing tools and processes. [This blog post](https://eriemeyer.medium.com/so-you-want-to-serve-your-country-a-biased-guide-to-tech-jobs-in-federal-government-c2d3fd567af) describes 18F as "build it / buy it" and USDS as "fix it".
+
+### Presidential Innovation Fellows
+
+https://presidentialinnovationfellows.gov/
+
+"Embedded within agencies as “entrepreneurs in residence” for one year, our fellows bring the best of data science, design, engineering, product, and systems thinking into government." The blog post [above](https://eriemeyer.medium.com/so-you-want-to-serve-your-country-a-biased-guide-to-tech-jobs-in-federal-government-c2d3fd567af) describes this as "Try it".
 
 ## Job boards
 
@@ -191,3 +209,5 @@ These job boards are for a mix of GovTech, political tech, public health, comput
 - Fast Foward Tech ([https://www.ffwd.org/tech-nonprofit-jobs/](https://www.ffwd.org/tech-nonprofit-jobs/)): focused on tech nonprofits.
 
 - IDD Jobs ([https://iddjobs.org/](https://iddjobs.org/)): job board for fields related to infectious disease dynamics, which overlaps considerably with epidemiology and public health-relevant worlds.
+
+- Code for America job board ([https://jobs.codeforamerica.org/search](https://jobs.codeforamerica.org/search)): job board for Code for America, opportunities in public interest tech.
