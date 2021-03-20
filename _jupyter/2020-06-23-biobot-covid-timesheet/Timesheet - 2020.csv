@@ -1,0 +1,829 @@
+weeknumber,weekday,date,start,end,duration,category,project,location,city
+2,1,1/5,3:20 PM,5:30 PM,2:10,biobot,,plane,plane
+2,2,1/6,9:45 AM,11:40 AM,1:55,biobot,,home,boston
+2,2,1/6,12:10 PM,5:00 PM,4:50,biobot,,home,boston
+2,3,1/7,9:45 AM,10:35 AM,0:50,biobot,,home,boston
+2,3,1/7,11:20 AM,11:50 AM,0:30,biobot,,home,boston
+2,3,1/7,1:00 PM,3:00 PM,2:0,biobot,,coffee_shop,boston
+2,3,1/7,3:55 PM,4:20 PM,0:25,biobot,,library,boston
+2,3,1/7,6:10 PM,6:35 PM,0:25,bbd,,home,boston
+2,3,1/7,7:00 PM,8:25 PM,1:25,bbd,,home,boston
+2,4,1/8,9:45 AM,10:00 AM,0:15,biobot,,home,boston
+2,4,1/8,11:00 AM,6:00 PM,7:00,biobot,,biobot,boston
+2,4,1/8,6:40 PM,7:25 PM,0:45,biobot,,home,boston
+2,5,1/9,9:45 AM,10:45 AM,1:00,biobot,,home,boston
+2,5,1/9,12:00 PM,5:50 PM,5:50,biobot,,biobot,boston
+2,5,1/9,8:55 PM,9:30 PM,0:35,biobot,,home,boston
+2,6,1/10,10:00 AM,11:15 AM,1:15,bbd,,home,boston
+2,6,1/10,11:50 AM,12:05 PM,0:15,biobot,,home,boston
+2,6,1/10,1:10 PM,6:15 PM,5:05,biobot,,biobot,boston
+2,6,1/10,7:20 PM,7:45 PM,0:25,biobot,,home,boston
+2,6,1/10,9:50 PM,11:30 PM,1:40,biobot,,home,boston
+2,7,1/11,9:45 PM,11:55 PM,2:10,biobot,,home,boston
+3,1,1/12,9:00 AM,11:50 AM,2:50,biobot,,home,boston
+3,2,1/13,10:45 AM,4:25 PM,5:40,biobot,,biobot,boston
+3,2,1/13,6:00 PM,6:25 PM,0:25,bbd,,home,boston
+3,2,1/13,6:25 PM,7:00 PM,0:35,biobot,,home,boston
+3,2,1/13,8:00 PM,8:50 PM,0:50,bbd,,home,boston
+3,2,1/13,8:55 PM,10:30 PM,1:35,biobot,,home,boston
+3,3,1/14,9:30 AM,3:40 PM,6:10,biobot,,biobot,boston
+3,3,1/14,4:40 PM,5:35 PM,0:55,biobot,,biobot,boston
+3,3,1/14,7:00 PM,8:00 PM,1:00,bbd,,home,boston
+3,3,1/14,9:40 PM,10:15 PM,0:35,biobot,,home,boston
+3,4,1/15,9:40 AM,1:05 PM,3:25,biobot,,home,boston
+3,4,1/15,2:00 PM,7:20 PM,5:20,biobot,,home,boston
+3,5,1/16,8:00 AM,4:15 PM,8:15,biobot,,biobot,boston
+3,6,1/17,7:50 AM,5:50 PM,10:00,biobot,,biobot,boston
+4,1,1/19,10:10 AM,11:15 AM,1:05,biobot,,home,boston
+4,1,1/19,6:10 PM,7:00 PM,0:50,biobot,,home,boston
+4,2,1/20,10:55 AM,1:10 PM,2:15,biobot,,home,boston
+4,2,1/20,2:00 PM,3:45 PM,1:45,biobot,,home,boston
+4,2,1/20,3:45 PM,4:30 PM,0:45,mit_corp,,home,boston
+4,2,1/20,4:30 PM,7:10 PM,2:40,biobot,,home,boston
+4,3,1/21,10:45 AM,6:50 PM,8:05,biobot,,biobot,boston
+4,3,1/21,6:50 PM,7:45 PM,0:55,bbd,,biobot,boston
+4,3,1/21,9:10 PM,9:25 PM,0:15,biobot,,home,boston
+4,4,1/22,10:00 AM,8:10 PM,10:10,biobot,,biobot,boston
+4,5,1/23,4:50 AM,8:30 AM,3:40,biobot,transit,transit,transit
+4,5,1/23,8:30 AM,4:45 PM,8:15,biobot,,cary,cary
+4,5,1/23,4:45 PM,8:00 PM,3:15,biobot,transit,transit,transit
+4,5,1/23,8:40 PM,8:55 PM,0:15,biobot,,home,boston
+4,6,1/24,4:45 PM,5:25 PM,0:40,biobot,,home,boston
+4,6,1/24,6:30 AM,9:00 AM,2:30,biobot,transit,transit,transit
+4,6,1/24,9:00 AM,2:00 PM,5:00,biobot,,northampton,northampton
+4,6,1/24,2:00 PM,4:00 PM,2:00,biobot,transit,transit,transit
+4,7,1/25,9:40 AM,11:45 AM,2:05,biobot,,home,boston
+5,2,1/27,9:45 AM,2:10 PM,4:25,biobot,,home,boston
+5,2,1/27,3:10 PM,5:50 PM,2:40,biobot,,home,boston
+5,2,1/27,5:50 PM,6:30 PM,0:40,bbd,,home,boston
+5,2,1/27,6:30 PM,6:45 PM,0:15,biobot,,home,boston
+5,3,1/28,9:00 AM,9:20 AM,0:20,bbd,,home,boston
+5,3,1/28,9:30 AM,10:35 AM,1:05,biobot,,home,boston
+5,3,1/28,12:00 PM,1:00 PM,1:00,mit_corp,,home,boston
+5,3,1/28,1:25 PM,2:00 PM,0:35,biobot,,home,boston
+5,3,1/28,2:40 PM,7:00 PM,4:20,biobot,,biobot,boston
+5,3,1/28,7:00 PM,7:40 PM,0:40,bbd,,biobot,boston
+5,3,1/28,7:40 PM,8:00 PM,0:20,biobot,,biobot,boston
+5,4,1/29,10:45 AM,12:50 PM,2:05,biobot,,home,boston
+5,4,1/29,2:00 PM,7:00 PM,5:00,biobot,,home,boston
+5,5,1/30,10:00 AM,11:30 AM,1:30,biobot,,harvard,boston
+5,5,1/30,11:30 AM,6:15 PM,6:45,biobot,,biobot,boston
+5,5,1/30,9:50 PM,10:50 PM,1:00,blog,,home,boston
+5,6,1/31,10:00 AM,10:20 AM,0:20,biobot,transit,transit,transit
+5,6,1/31,10:20 AM,11:30 AM,1:10,biobot,,lexington,lexington
+5,6,1/31,11:30 AM,12:00 PM,0:30,biobot,transit,transit,boston
+5,6,1/31,12:00 PM,5:50 PM,5:50,biobot,,biobot,boston
+6,1,2/2,4:30 PM,6:40 PM,2:10,biobot,transit,transit,transit
+6,1,2/2,8:00 PM,9:30 PM,1:30,biobot,,worcester,worcester
+6,2,2/3,7:15 AM,7:00 PM,11:45,biobot,,worcester,worcester
+6,3,2/4,7:30 AM,2:00 PM,6:30,biobot,,worcester,worcester
+6,3,2/4,2:00 PM,3:30 PM,1:30,biobot,transit,transit,transit
+6,3,2/4,4:50 PM,6:30 PM,1:40,biobot,,home,boston
+6,4,2/5,10:00 AM,10:35 AM,0:35,biobot,,home,boston
+6,4,2/5,2:50 PM,6:00 PM,3:10,biobot,,home,boston
+6,4,2/5,6:00 PM,6:30 PM,0:30,bbd,,home,boston
+6,4,2/5,7:15 PM,8:45 PM,1:30,bbd,,home,boston
+6,5,2/6,7:50 AM,1:50 PM,6:00,biobot,,biobot,boston
+6,5,2/6,1:50 PM,2:15 PM,0:25,biobot,transit,transit,boston
+6,5,2/6,2:15 PM,4:00 PM,1:45,biobot,,mit,boston
+6,5,2/6,4:30 PM,6:10 PM,1:40,bbd,,home,boston
+6,5,2/6,8:00 PM,9:20 PM,1:20,bbd,,home,boston
+6,5,2/6,9:25 PM,10:45 PM,1:20,blog,,home,boston
+6,6,2/7,10:40 AM,11:15 AM,0:35,blog,,home,boston
+6,6,2/7,11:15 AM,11:45 AM,0:30,biobot,,home,boston
+6,6,2/7,12:30 PM,5:20 PM,4:50,biobot,,biobot,boston
+6,6,2/7,11:00 PM,11:30 PM,0:30,biobot,,home,boston
+7,1,2/9,9:30 AM,11:30 AM,2:00,blog,,home,boston
+7,2,2/10,7:15 AM,8:30 AM,1:15,biobot,,field,boston
+7,2,2/10,8:30 AM,9:35 AM,1:05,biobot,transit,transit,transit
+7,2,2/10,9:35 AM,5:45 PM,8:10,biobot,,worcester,worcester
+7,3,2/11,6:00 PM,6:40 PM,0:40,bbd,,home,worcester
+7,3,2/11,8:30 AM,1:30 PM,5:00,biobot,,worcester,worcester
+7,3,2/11,1:30 PM,2:50 PM,1:20,biobot,transit,transit,transit
+7,3,2/11,5:20 PM,6:45 PM,1:25,biobot,,home,boston
+7,4,2/12,9:45 AM,10:20 AM,0:35,biobot,,home,boston
+7,4,2/12,11:45 AM,2:30 PM,2:45,biobot,,biobot,boston
+7,4,2/12,2:30 PM,3:00 PM,0:30,biobot,transit,transit,boston
+7,4,2/12,3:00 PM,4:05 PM,1:05,biobot,,mdph,boston
+7,4,2/12,6:35 PM,8:00 PM,1:25,biobot,,home,boston
+7,5,2/13,9:35 AM,10:10 AM,0:35,biobot,,home,boston
+7,5,2/13,3:15 PM,6:00 PM,2:45,biobot,,biobot,boston
+7,5,2/13,6:00 PM,7:00 PM,1:00,bbd,,biobot,boston
+7,5,2/13,7:00 PM,8:00 PM,1:00,other,msrp_reviews,home,boston
+7,5,2/13,10:40 PM,11:40 PM,1:00,other,msrp_reviews,home,boston
+7,6,2/14,9:30 AM,2:00 PM,4:30,biobot,,biobot,
+7,6,2/14,3:00 PM,4:00 PM,1:00,other,msrp_reviews,mit,
+7,6,2/14,5:10 PM,7:25 PM,2:15,biobot,,home,
+7,7,2/15,1:00 PM,4:00 PM,3:00,biobot,,home,
+8,1,2/16,9:30 AM,10:10 AM,0:40,biobot,,home,
+8,2,2/17,9:30 AM,12:20 PM,2:50,other,manuscript_review,home,
+8,2,2/17,1:45 PM,3:30 PM,1:45,biobot,,home,
+8,2,2/17,3:45 PM,4:50 PM,1:05,biobot,,home,
+8,2,2/17,5:00 PM,5:15 PM,0:15,bbd,,home,
+8,2,2/17,5:15 PM,5:55 PM,0:40,biobot,,home,
+8,2,2/17,6:00 PM,7:00 PM,1:00,bbd,,home,
+7,4,2/12,9:00 PM,11:00 PM,2:00,other,manuscript_review,home,
+8,2,2/17,8:50 PM,10:05 PM,1:15,bbd,,home,
+8,3,2/18,8:00 AM,8:40 AM,0:40,biobot,transit,transit,
+8,3,2/18,8:40 AM,10:00 AM,1:20,biobot,,biobot,boston
+8,3,2/18,10:00 AM,2:00 PM,4:00,biobot,,lexington,lexington
+8,3,2/18,2:00 PM,2:40 PM,0:40,biobot,transit,transit,transit
+8,3,2/18,5:30 PM,7:50 PM,2:20,biobot,,home,boston
+8,3,2/18,9:40 PM,10:30 PM,0:50,bbd,,home,boston
+8,4,2/19,7:10 AM,8:30 AM,1:20,biobot,transit,transit,transit
+8,4,2/19,8:30 AM,12:00 PM,3:30,biobot,,salem,salem
+8,4,2/19,2:00 PM,3:30 PM,1:30,biobot,,transit,transit
+8,4,2/19,9:10 PM,10:50 PM,1:40,bbd,,home,northampton
+8,4,2/19,5:00 PM,6:00 PM,1:00,biobot,,transit,transit
+8,5,2/20,7:30 AM,12:00 PM,4:30,biobot,,northampton,northampton
+8,5,2/20,2:00 PM,4:00 PM,2:00,biobot,,transit,transit
+8,6,2/21,9:00 AM,9:30 AM,0:30,biobot,,home,
+8,6,2/21,11:00 AM,6:00 PM,7:00,biobot,,biobot,
+8,7,2/22,1:00 PM,1:25 PM,0:25,bbd,,home,
+8,6,2/21,6:00 PM,6:30 PM,0:30,bbd,,biobot,
+8,7,2/22,4:35 PM,5:50 PM,1:15,biobot,,home,
+9,1,2/23,5:30 PM,7:00 PM,1:30,biobot,,home,
+9,1,2/23,7:00 PM,8:00 PM,1:00,bbd,,home,
+9,2,2/24,10:15 AM,4:00 PM,5:45,biobot,,biobot,
+9,2,2/24,4:55 PM,5:55 PM,1:00,biobot,,home,
+9,2,2/24,6:00 PM,7:00 PM,1:00,biobot,,home,
+9,3,2/25,10:15 AM,11:30 AM,1:15,biobot,,biobot,
+9,3,2/25,11:30 AM,2:00 PM,2:30,biobot,,lexington,lexington
+9,3,2/25,2:00 PM,2:30 PM,0:30,biobot,transit,transit,transit
+9,3,2/25,2:30 PM,6:10 PM,3:40,biobot,,biobot,boston
+9,3,2/25,6:10 PM,6:40 PM,0:30,bbd,,biobot,boston
+9,3,2/25,6:40 PM,7:15 PM,0:35,biobot,,biobot,boston
+9,4,2/26,8:30 AM,10:00 AM,1:30,biobot,transit,transit,transit
+9,4,2/26,10:00 AM,1:00 PM,3:00,biobot,,salem,salem
+9,4,2/26,1:00 PM,2:15 PM,1:15,biobot,,transit,transit
+9,4,2/26,2:15 PM,4:35 PM,2:20,biobot,,biobot,boston
+9,4,2/26,5:15 PM,6:00 PM,0:45,biobot,,home,boston
+9,4,2/26,6:00 PM,6:40 PM,0:40,bbd,,home,boston
+9,4,2/26,8:45 PM,9:20 PM,0:35,biobot,,home,boston
+9,5,2/27,7:00 AM,9:00 AM,2:00,biobot,transit,car,transit
+9,5,2/27,9:00 AM,12:00 PM,3:00,biobot,,northampton,northampton
+9,5,2/27,12:00 PM,2:00 PM,2:00,biobot,transit,car,transit
+9,5,2/27,2:00 PM,5:00 PM,3:00,biobot,,biobot,boston
+9,5,2/27,5:45 PM,6:15 PM,0:30,biobot,,home,boston
+9,5,2/27,7:30 PM,7:45 PM,0:15,biobot,,home,boston
+9,6,2/28,8:45 AM,5:45 PM,9:00,biobot,,biobot,boston
+10,1,3/1,3:30 PM,5:30 PM,2:00,biobot,,home,boston
+10,2,3/2,9:15 AM,10:00 AM,0:45,biobot,,home,boston
+10,2,3/2,1:00 PM,5:20 PM,4:20,biobot,,home,boston
+10,2,3/2,5:30 PM,6:10 PM,0:40,biobot,transit,car,transit
+10,2,3/2,6:30 PM,7:20 PM,0:50,bbd,,biobot,boston
+10,3,3/3,6:30 AM,7:30 AM,1:00,biobot,transit,car,transit
+10,3,3/3,7:30 AM,11:30 AM,4:00,biobot,,lowell,lowell
+10,3,3/3,11:30 AM,12:30 PM,1:00,biobot,transit,car,transit
+10,3,3/3,12:30 PM,3:15 PM,2:45,biobot,,biobot,boston
+10,3,3/3,5:00 PM,7:10 PM,2:10,biobot,,home,boston
+10,4,3/4,7:30 AM,8:30 AM,1:00,biobot,transit,car,transit
+10,4,3/4,8:30 AM,12:30 PM,4:00,biobot,,somerville,somerville
+10,4,3/4,12:30 PM,2:00 PM,1:30,biobot,transit,car,transit
+10,4,3/4,2:00 PM,2:30 PM,0:30,biobot,,salem,salem
+10,4,3/4,2:30 PM,4:00 PM,1:30,biobot,transit,car,transit
+10,4,3/4,6:35 PM,7:10 PM,0:35,biobot,,home,boston
+10,4,3/4,9:20 PM,10:50 PM,1:30,biobot,,home,boston
+10,5,3/5,9:50 AM,12:00 PM,2:10,biobot,,home,
+10,5,3/5,3:10 PM,4:15 PM,1:05,biobot,,home,
+10,5,3/5,7:00 PM,8:15 PM,1:15,biobot,,home,
+10,6,3/6,8:30 AM,8:45 AM,0:15,biobot,,home,
+10,6,3/6,10:45 AM,3:45 PM,5:00,biobot,,biobot,
+11,2,3/9,9:20 AM,9:50 AM,0:30,biobot,,home,
+11,2,3/9,10:20 AM,11:20 AM,1:00,biobot,,home,
+11,2,3/9,1:15 PM,6:00 PM,4:45,biobot,,home,
+11,2,3/9,6:00 PM,7:00 PM,1:00,bbd,,home,
+11,2,3/9,9:00 PM,9:40 PM,0:40,biobot,,home,
+11,3,3/10,7:20 AM,9:00 AM,1:40,biobot,transit,car,transit
+11,3,3/10,9:00 AM,2:00 PM,5:00,biobot,,lowell,lowell
+11,3,3/10,2:00 PM,3:00 PM,1:00,biobot,transit,car,transit
+11,3,3/10,3:00 PM,5:30 PM,2:30,biobot,,biobot,boston
+11,3,3/10,5:30 PM,6:40 PM,1:10,bbd,,biobot,
+11,4,3/11,9:20 AM,11:20 AM,2:00,biobot,,home,
+11,4,3/11,12:30 PM,5:30 PM,5:00,biobot,,somerville,
+11,5,3/12,8:00 AM,9:10 AM,1:10,biobot,,home,
+11,5,3/12,9:30 AM,12:30 PM,3:00,biobot,,home,
+11,6,3/13,9:45 AM,1:30 PM,3:45,biobot,,home,
+11,6,3/13,3:30 PM,7:30 PM,4:00,biobot,,home,
+12,1,3/15,10:10 AM,12:40 PM,2:30,biobot,,home,
+12,1,3/15,4:50 PM,6:00 PM,1:10,biobot,,home,
+12,2,3/16,10:00 AM,12:15 PM,2:15,biobot,,home,
+12,2,3/16,4:30 PM,6:30 PM,2:00,biobot,,home,
+12,2,3/16,7:30 PM,9:20 PM,1:50,biobot,,home,
+12,2,3/16,10:49 PM,11:59 PM,1:10,biobot,,home,
+12,3,3/17,9:30 AM,10:25 AM,0:55,biobot,,home,
+12,3,3/17,10:45 AM,12:30 PM,1:45,biobot,,home,
+12,3,3/17,3:00 PM,4:00 PM,1:00,biobot,,home,
+12,3,3/17,4:40 PM,8:35 PM,3:55,biobot,,home,
+12,4,3/18,10:05 AM,12:00 PM,1:55,biobot,,home,
+12,4,3/18,1:00 PM,5:00 PM,4:00,biobot,,home,
+12,4,3/18,6:00 PM,7:15 PM,1:15,biobot,,home,
+12,4,3/18,8:20 PM,9:00 PM,0:40,biobot,,home,
+12,4,3/18,10:39 PM,11:59 PM,1:20,biobot,,home,
+12,5,3/19,9:30 AM,1:20 PM,3:50,biobot,,home,
+12,5,3/19,1:50 PM,6:20 PM,4:30,biobot,,home,
+12,6,3/20,8:30 AM,1:00 PM,4:30,biobot,,home,
+12,6,3/20,1:40 PM,3:15 PM,1:35,biobot,,home,
+12,6,3/20,4:40 PM,5:50 PM,1:10,biobot,,home,
+12,6,3/20,6:30 PM,8:25 PM,1:55,biobot,,home,
+12,7,3/21,10:45 AM,2:15 PM,3:30,biobot,,home,
+12,7,3/21,7:30 PM,8:00 PM,0:30,biobot,,home,
+12,7,3/21,7:10 PM,7:25 PM,0:15,biobot,,home,
+13,2,3/23,9:20 AM,11:00 AM,1:40,biobot,,home,
+13,2,3/23,11:20 AM,12:15 PM,0:55,biobot,,home,
+13,2,3/23,2:25 PM,6:00 PM,3:35,biobot,,home,
+13,2,3/23,6:00 PM,7:00 PM,1:00,biobot,,home,
+13,2,3/23,7:20 PM,11:05 PM,3:45,biobot,,home,
+13,3,3/24,9:30 AM,1:20 PM,3:50,biobot,,home,
+13,3,3/24,2:00 PM,9:00 PM,7:00,biobot,,home,
+13,3,3/24,10:20 PM,11:45 PM,1:25,biobot,,home,
+13,4,3/25,9:00 AM,1:20 PM,4:20,biobot,,home,
+13,4,3/25,2:00 PM,7:55 PM,5:55,biobot,,home,
+13,5,3/26,8:00 AM,4:00 PM,8:00,biobot,,home,
+13,5,3/26,10:15 PM,11:45 PM,1:30,biobot,,home,
+13,6,3/27,9:30 AM,10:25 AM,0:55,biobot,,home,
+13,6,3/27,11:00 AM,7:00 PM,8:00,biobot,,home,
+13,7,3/28,11:00 AM,1:00 PM,2:00,biobot,,home,
+14,1,3/29,10:00 AM,12:00 PM,2:00,biobot,,home,
+14,1,3/29,12:45 PM,1:40 PM,0:55,biobot,,home,
+14,1,3/29,2:15 PM,3:00 PM,0:45,biobot,,home,
+14,1,3/29,4:50 PM,7:00 PM,2:10,biobot,,home,
+14,2,3/30,9:00 AM,10:30 AM,1:30,biobot,,home,
+14,2,3/30,11:15 AM,6:00 PM,6:45,biobot,,home,
+14,2,3/30,6:00 PM,7:30 PM,1:30,bbd,,home,
+14,2,3/30,9:30 PM,10:30 PM,1:00,biobot,,home,
+14,3,3/31,9:00 AM,10:20 AM,1:20,biobot,,home,
+14,3,3/31,10:50 AM,5:30 PM,6:40,biobot,,home,
+14,3,3/31,9:29 PM,11:59 PM,2:30,biobot,,home,
+14,4,4/1,9:00 AM,10:20 AM,1:20,biobot,,home,
+14,4,4/1,11:00 AM,6:50 PM,7:50,biobot,,home,
+14,4,4/1,10:14 PM,11:59 PM,1:45,biobot,,home,
+14,5,4/2,9:00 AM,2:45 PM,5:45,biobot,,home,
+14,5,4/2,4:45 PM,7:00 PM,2:15,biobot,,home,
+14,6,4/3,9:00 AM,7:00 PM,10:00,biobot,,home,
+14,7,4/4,9:00 AM,4:00 PM,7:00,biobot,,home,
+14,7,4/4,7:30 PM,8:30 PM,1:00,biobot,,home,
+15,2,4/6,9:00 AM,6:00 PM,9:00,biobot,,home,
+15,2,4/6,6:00 PM,6:40 PM,0:40,bbd,,home,
+15,2,4/6,6:40 PM,8:10 PM,1:30,biobot,,home,
+15,2,4/6,8:59 PM,11:59 PM,3:00,biobot,,home,
+15,2,4/6,12:00 AM,1:00 AM,1:00,biobot,,home,
+15,3,4/7,9:00 AM,11:00 AM,2:00,biobot,,home,
+15,3,4/7,11:30 AM,4:30 PM,5:00,biobot,,home,
+15,3,4/7,6:45 PM,7:30 PM,0:45,biobot,,home,
+15,4,4/8,9:00 AM,4:30 PM,7:30,biobot,,home,
+15,4,4/8,5:00 PM,6:45 PM,1:45,biobot,,home,
+15,4,4/8,11:00 PM,11:45 PM,0:45,biobot,,home,
+15,5,4/9,9:00 AM,2:30 PM,5:30,biobot,,home,
+15,5,4/9,4:00 PM,5:00 PM,1:00,biobot,,home,
+15,5,4/9,5:40 PM,7:00 PM,1:20,biobot,,home,
+15,6,4/10,9:00 AM,2:10 PM,5:10,biobot,,home,
+15,6,4/10,2:50 PM,5:35 PM,2:45,biobot,,home,
+15,6,4/10,6:00 PM,8:20 PM,2:20,biobot,,home,
+15,6,4/10,10:50 PM,11:40 PM,0:50,biobot,,home,
+15,7,4/11,9:45 AM,12:00 PM,2:15,biobot,,home,
+16,2,4/13,9:30 AM,2:30 PM,5:00,biobot,,home,
+16,2,4/13,5:00 PM,6:00 PM,1:00,biobot,,home,
+16,2,4/13,6:00 PM,6:50 PM,0:50,bbd,,home,
+16,3,4/14,9:00 AM,4:00 PM,7:00,biobot,,home,
+16,3,4/14,6:20 PM,7:20 PM,1:00,biobot,,home,
+16,3,4/14,9:29 PM,11:59 PM,2:30,biobot,,home,
+16,4,4/15,9:00 AM,3:30 PM,6:30,biobot,,home,
+16,4,4/15,4:30 PM,7:00 PM,2:30,biobot,,home,
+16,4,4/15,7:30 PM,8:00:00 PM,0:30,biobot,,home,
+16,5,4/16,9:00 AM,1:00 PM,4:00,biobot,,home,
+16,5,4/16,1:50 PM,6:30 PM,4:40,biobot,,home,
+16,5,4/16,7:40 PM,8:00 PM,0:20,biobot,,home,
+16,5,4/16,10:10 PM,11:10 PM,1:00,biobot,,home,
+16,6,4/17,8:30 AM,10:00 AM,1:30,biobot,,home,
+16,6,4/17,10:35 AM,12:30 PM,1:55,biobot,,home,
+16,6,4/17,1:10 PM,6:45 PM,5:35,biobot,,home,
+16,6,4/17,10:15 PM,11:15 PM,1:00,biobot,,home,
+16,7,4/18,10:30 AM,11:00 AM,0:30,biobot,,home,
+16,7,4/18,11:40 AM,1:00 PM,1:20,biobot,,home,
+16,7,4/18,9:00 PM,10:50 PM,1:50,biobot,,home,
+17,1,4/19,12:20 PM,12:45 PM,0:25,biobot,,home,
+17,1,4/19,2:45 PM,4:25 PM,1:40,biobot,,home,
+17,1,4/19,8:45 PM,9:00 PM,0:15,biobot,,home,
+17,1,4/19,10:35 PM,11:45 PM,1:10,biobot,,home,
+17,2,4/20,9:00 AM,9:40 AM,0:40,biobot,,home,
+17,2,4/20,10:00 AM,1:00 PM,3:00,biobot,,home,
+17,2,4/20,2:30 PM,6:20 PM,3:50,biobot,,home,
+17,2,4/20,9:30 PM,11:45 PM,2:15,biobot,,home,
+17,3,4/21,9:00 AM,6:00 PM,9:00,biobot,,home,
+17,3,4/21,6:00 PM,6:45 PM,0:45,bbd,,home,
+17,3,4/21,6:45 PM,7:15 PM,0:30,biobot,,home,
+17,3,4/21,10:10 PM,11:30 PM,1:20,biobot,,home,
+17,4,4/22,9:00 AM,7:00 PM,10:00,biobot,,home,
+17,4,4/22,7:25 PM,7:45 PM,0:20,biobot,,home,
+17,4,4/22,10:00 PM,11:30 PM,1:30,biobot,,home,
+17,5,4/23,9:00 AM,10:15 AM,1:15,biobot,,home,
+17,5,4/23,10:45 AM,12:15 PM,1:30,biobot,,home,
+17,5,4/23,1:00 PM,3:40 PM,2:40,biobot,,home,
+17,5,4/23,4:15 PM,5:50 PM,1:35,biobot,,home,
+17,5,4/23,6:30 PM,8:00 PM,1:30,biobot,,home,
+17,6,4/24,9:00 AM,12:40 PM,3:40,biobot,,home,
+17,6,4/24,1:30 PM,7:10 PM,5:40,biobot,,home,
+17,7,4/25,2:00 PM,8:15 PM,6:15,biobot,,home,
+18,1,4/26,11:35 AM,1:20 PM,1:45,biobot,,home,
+18,1,4/26,2:45 PM,6:00 PM,3:15,biobot,,home,
+18,2,4/27,8:45 AM,10:00 AM,1:15,biobot,,home,
+18,2,4/27,10:30 AM,5:40 PM,7:10,biobot,,home,
+18,2,4/27,6:00 PM,7:45 PM,1:45,biobot,,home,
+18,3,4/28,8:20 AM,8:40 AM,0:20,biobot,,home,
+18,3,4/28,9:00 AM,1:45 PM,4:45,biobot,,home,
+18,3,4/28,3:00 PM,7:30 PM,4:30,biobot,,home,
+18,3,4/28,10:39 PM,11:59 PM,1:20,biobot,,home,
+18,4,4/29,9:00 AM,12:30 PM,3:30,biobot,,home,
+18,4,4/29,1:00 PM,3:15 PM,2:15,biobot,,home,
+18,4,4/29,3:45 PM,6:05 PM,2:20,biobot,,home,
+18,4,4/29,9:45 PM,11:00 PM,1:15,biobot,,home,
+18,5,4/30,8:50 AM,6:20 PM,9:30,biobot,,home,
+18,5,4/30,9:15 PM,9:55 PM,0:40,biobot,,home,
+18,5,4/30,10:35 PM,10:55 PM,0:20,biobot,,home,
+18,6,5/1,9:00 AM,5:15 PM,8:15,biobot,,home,
+18,6,5/1,5:45 PM,7:00 PM,1:15,biobot,,home,
+18,7,5/2,10:45 AM,1:00 PM,2:15,biobot,,home,
+18,7,5/2,3:30 PM,5:15 PM,1:45,biobot,,home,
+18,7,5/2,11:00 PM,11:30 PM,0:30,biobot,,home,
+19,1,5/3,11:00 AM,11:15 AM,0:15,biobot,,home,
+19,1,5/3,12:00 PM,12:20 PM,0:20,biobot,,home,
+19,1,5/3,9:45 PM,10:30 PM,0:45,biobot,,home,
+19,2,5/4,9:00 AM,1:00 PM,4:00,biobot,,home,
+19,2,5/4,1:30 PM,6:00 PM,4:30,biobot,,home,
+19,2,5/4,6:00 PM,6:55 PM,0:55,bbd,,home,
+19,3,5/5,9:00 AM,6:45 PM,9:45,biobot,,home,
+19,3,5/5,10:35 PM,11:45 PM,1:10,biobot,,home,
+19,4,5/6,8:40 AM,1:50 PM,5:10,biobot,,home,
+19,4,5/6,2:25 PM,6:30 PM,4:05,biobot,,home,
+19,4,5/6,9:15 PM,11:55 PM,2:40,biobot,,home,
+19,5,5/7,9:00 AM,6:15 PM,9:15,biobot,,home,
+19,5,5/7,9:29 PM,11:59 PM,2:30,biobot,,home,
+19,6,5/8,9:00 AM,1:30 PM,4:30,biobot,,home,
+19,6,5/8,3:00 PM,3:50 PM,0:50,biobot,,home,
+19,6,5/8,5:10 PM,6:40 PM,1:30,biobot,,home,
+19,7,5/9,11:00 AM,1:40 PM,2:40,biobot,,home,
+20,1,5/10,3:50 PM,6:30 PM,2:40,biobot,,home,
+20,2,5/11,9:30 AM,12:15 PM,2:45,biobot,,home,
+20,2,5/11,2:00 PM,8:00 PM,6:00,biobot,,home,
+20,3,5/12,8:50 AM,10:30 AM,1:40,biobot,,home,
+20,3,5/12,11:10 AM,12:30 PM,1:20,biobot,,home,
+20,3,5/12,1:30 PM,7:30 PM,6:00,biobot,,home,
+20,3,5/12,8:00 PM,8:40 PM,0:40,biobot,,home,
+20,4,5/13,9:00 AM,12:00 PM,3:00,biobot,,home,
+20,4,5/13,1:15 PM,6:45 PM,5:30,biobot,,home,
+20,5,5/14,8:50 AM,1:40 PM,4:50,biobot,,home,
+20,5,5/14,4:20 PM,6:50 PM,2:30,biobot,,home,
+20,6,5/15,9:00 AM,5:40 PM,8:40,biobot,,home,
+20,5,5/14,11:30 PM,11:50 PM,0:20,biobot,,home,
+20,6,5/15,6:45 PM,7:10 PM,0:25,biobot,,home,
+20,7,5/16,12:00 PM,3:30 PM,3:30,biobot,,home,
+21,1,5/17,6:00 PM,6:45 PM,0:45,biobot,,home,
+21,2,5/18,9:30 AM,2:30 PM,5:00,biobot,,home,
+21,2,5/18,3:30 PM,4:00 PM,0:30,biobot,,home,
+21,2,5/18,4:15 PM,6:00 PM,1:45,biobot,,home,
+21,2,5/18,6:00 PM,6:45 PM,0:45,bbd,,home,
+21,2,5/18,6:45 PM,7:20 PM,0:35,biobot,,home,
+21,3,5/19,9:00 AM,12:00 PM,3:00,biobot,,home,
+21,3,5/19,1:15 PM,5:40 PM,4:25,biobot,,home,
+21,3,5/19,9:30 PM,10:00 PM,0:30,biobot,,home,
+21,4,5/20,9:00 AM,2:30 PM,5:30,biobot,,home,
+21,4,5/20,3:50 PM,6:40 PM,2:50,biobot,,home,
+21,5,5/21,8:50 AM,6:00 PM,9:10,biobot,,home,
+21,5,5/21,9:30 PM,10:30 PM,1:00,biobot,,home,
+21,6,5/22,8:45 AM,2:30 PM,5:45,biobot,,home,
+21,6,5/22,3:30 PM,6:30 PM,3:00,biobot,,home,
+22,3,5/26,8:15 AM,6:20 PM,10:05,biobot,,home,
+22,3,5/26,9:00 PM,10:15 PM,1:15,biobot,,home,
+22,4,5/27,9:00 AM,9:45 PM,12:45,biobot,,home,
+22,5,5/28,9:00 AM,6:50 PM,9:50,biobot,,home,
+22,5,5/28,10:50 PM,11:50 PM,1:00,biobot,,home,
+22,6,5/29,9:00 AM,3:30 PM,6:30,biobot,,home,
+22,6,5/29,4:00 PM,6:30 PM,2:30,biobot,,home,
+22,7,5/30,5:15 PM,7:30 PM,2:15,biobot,,home,
+23,1,5/31,11:30 AM,1:05 PM,1:35,biobot,,home,
+23,1,5/31,7:00 PM,8:10 PM,1:10,biobot,,home,
+23,1,5/31,10:34 PM,11:59 PM,1:25,biobot,,home,
+23,2,6/1,9:00 AM,9:25 AM,0:25,biobot,,home,
+23,2,6/1,10:00 AM,6:10 PM,8:10,biobot,,home,
+23,2,6/1,8:59 PM,11:59 PM,3:00,biobot,,home,
+23,3,6/2,8:50 AM,7:00 PM,10:10,biobot,,home,
+23,4,6/3,8:30 AM,2:00 PM,5:30,biobot,,home,
+23,4,6/3,9:40 PM,10:45 PM,1:05,biobot,,home,
+23,5,6/4,8:00 AM,1:15 PM,5:15,biobot,,home,
+23,5,6/4,2:00 PM,7:40 PM,5:40,biobot,,home,
+23,5,6/4,8:59 PM,11:59 PM,3:00,biobot,,home,
+23,6,6/5,8:10 AM,8:10 PM,12:00,biobot,,home,
+23,7,6/6,12:40 PM,1:10 PM,0:30,biobot,,home,
+23,7,6/6,2:15 PM,5:40 PM,3:25,biobot,,home,
+23,7,6/6,6:40 PM,7:50 PM,1:10,biobot,,home,
+24,2,6/8,8:40 AM,1:00 PM,4:20,biobot,,home,
+24,2,6/8,2:00 PM,7:45 PM,5:45,biobot,,home,
+24,3,6/9,7:45 AM,8:20 AM,0:35,biobot,,home,
+24,3,6/9,9:00 AM,4:40 PM,7:40,biobot,,home,
+24,3,6/9,6:00 PM,8:00 PM,2:00,biobot,,home,
+24,4,6/10,3:25 PM,8:40 PM,5:15,biobot,,home,
+24,5,6/11,9:00 AM,8:00 PM,11:00,biobot,,home,
+24,5,6/11,9:20 PM,10:20 PM,1:00,biobot,,home,
+24,6,6/12,8:40 AM,7:00 PM,10:20,biobot,,home,
+24,6,6/12,9:40 PM,11:55 PM,2:15,biobot,,home,
+24,7,6/13,1:10 PM,1:40 PM,0:30,biobot,,home,
+25,2,6/15,8:40 AM,8:00 PM,11:20,biobot,,home,
+25,3,6/16,7:50 AM,8:00 PM,12:10,biobot,,home,
+25,4,6/17,7:50 AM,6:15 PM,10:25,biobot,,home,
+25,5,6/18,8:00 AM,12:15 PM,4:15,biobot,,home,
+25,5,6/18,2:45 PM,5:45 PM,3:00,biobot,,home,
+25,6,6/19,8:30 AM,7:00 PM,10:30,biobot,,home,
+26,2,6/22,9:00 AM,7:15 PM,10:15,biobot,,home,
+26,3,6/23,8:25 AM,4:35 PM,8:10,biobot,,home,
+26,4,6/24,8:40 AM,7:15 PM,10:35,biobot,,home,
+26,4,6/24,8:15 PM,9:15 PM,1:00,biobot,,home,
+26,4,6/24,9:49 PM,11:59 PM,2:10,biobot,,home,
+26,5,6/25,8:45 AM,8:15 PM,11:30,biobot,,home,
+26,5,6/25,10:24 PM,11:59 PM,1:35,biobot,,home,
+26,6,6/26,8:50 AM,8:45 PM,11:55,biobot,,home,
+26,6,6/26,10:29 PM,11:59 PM,1:30,biobot,,home,
+26,6,6/26,12:00 AM,2:30 AM,2:30,biobot,,home,
+26,7,6/27,12:45 PM,2:00 PM,1:15,biobot,,home,
+26,7,6/27,2:45 PM,5:30 PM,2:45,biobot,,home,
+26,7,6/27,6:15 PM,9:00 PM,2:45,biobot,,home,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+2,2,1/6,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,0:00,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
+#VALUE!,#VALUE!,,,,,,,,
