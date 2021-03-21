@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Snehal Ilawe"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Snehal Ilawe"
+description              : &description "Data Scientist | Data Analyst | Data Engineer"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Snehal Ilawe"
+  avatar           : "sne.jpg"
+  bio              : "Data Scientist | Data Analyst | Data Engineer | Software Developer"
+  location         : "San Diego"
+  employer         : "San Diego State University Research Foundation"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=snehal+ilawe&btnG="
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/snehaldhadge"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/snehal-ilawe-44014738/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
