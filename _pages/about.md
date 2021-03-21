@@ -11,10 +11,11 @@ redirect_from:
 * I am a 1-st year Ph.D. student in the School of Mechanical and Electrical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), advised by Prof. [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) and Prof. [Shaoting Zhang](https://scholar.google.co.uk/citations?user=oiBMWK4AAAAJ&hl=en). 
 * My research mainly focuses on the area of medical image analysis, particularly in data-efficient learning for medical image computing, such as semi-supervised learning, weakly-supervised learning and human-in-the-loop, as well as extending them for clinical applicable use.
 * I received my Bachelor’s Degree in the School of Mechanical and Electrical Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), on July 1, 2018.
-* Now, I am seeking for a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]
+<!--* Now, I am seeking for a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]-->
 
 
 # Recent News
+* Mar. 21, 2021, I will join SenseTime Research as a research intern and work with [Mr. Tao Song](https://scholar.google.com/citations?user=Xzk31ssAAAAJ&hl=zh-CN) again in July 2021.
 * Jan. 25, 2021, We released a code base and some 2D examples for weakly-supervised medical image segmentation research, the repo at [WSL4MIS](https://github.com/Luoxd1996/WSL4MIS), any advices and suggestions are welcomed. 
 * Jan. 08, 2021, Our paper <b>Deep Elastica for Image Segmentation</b> was accepted by <b>ISBI 2021</b>.
 * Dec. 01, 2020. Our paper <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> was accepted by <b>AAAI 2021</b> (~21% acceptance rate).
@@ -47,4 +48,3 @@ redirect_from:
  * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <i>Submitted to </i><b>Medical Image Analysis (Major revise)</b>.<br>
- <!--Code will be released at [here](https://github.com/Luoxd1996/MIDeepSeg) upon the paper was accepted.-->
