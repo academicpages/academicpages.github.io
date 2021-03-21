@@ -20,7 +20,7 @@ Internship experience
 ======
 * Jan. 2020 - June 2020: Research Internship
   * SenseTime Research
-  * Job description: Liver, lesion and vessels classification, segmentation and detection; supervised by <b>Dr. Yinan Chen</b>.
+  * Job description: Liver, lesion and vessels classification, segmentation and detection; supervised by <b>[Dr. Yinan Chen](https://www.linkedin.com/in/chen-joy-1680096a/?originalSubdomain=cn)</b>.
   
 * June 2019 - Oct 2019: Research Internship
   * SenseTime Research
