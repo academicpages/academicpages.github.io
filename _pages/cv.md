@@ -26,5 +26,12 @@ Experience and Skills
   * Time Series Analysis
   * Statistical Programming with Python
   * Participation on Kaggle-Competitions
-* Environments: Jupyter Notebook, JupyterLab, Spyder, Google Colaboratory, Kaggle Kernels
-* Markup-Languages: Markdown, LaTex
+* Environments: 
+  * Jupyter Notebook
+  * JupyterLab
+  * Spyder
+  * Google Colaboratory
+  * Kaggle Kernels
+* Markup-Languages: 
+  * Markdown
+  * LaTex
