@@ -1,6 +1,6 @@
 ---
 title: "World Name"
-excerpt: "name translate app test
+excerpt: "name translate app test"
 <br>
 collection: maker
 ---
