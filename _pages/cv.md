@@ -12,7 +12,7 @@ redirect_from:
 ## Experience
 
 - **Research Analyst**, [CNA](https://www.cna.org/) (2020--)
-    - Implemented a Vaccine Vulnerability Index for DHS [CISA](https://en.wikipedia.org/wiki/Cybersecurity_and_Infrastructure_Security_Agency)
+    - Implemented a [Vaccine Vulnerability Index](https://www.cna.org/centers/ipr/phpr/vaccination-tool) for DHS [CISA](https://en.wikipedia.org/wiki/Cybersecurity_and_Infrastructure_Security_Agency)
     - Executed an infectious disease threat assessment for the Greater Houston Region
     - Conceptualized portions of New York City Emergency Management's Urban Risk Index
     - Supported COVID-19 after-action reviews for Virginia's Departments of Health and Emergency Management
