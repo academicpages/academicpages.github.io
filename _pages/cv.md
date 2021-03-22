@@ -19,6 +19,24 @@ Experience and Skills
 * Programming language: 
    * Python (1 year+)
    * R (1 year)
+ 
+* Relevant Coursework: 
+  * Masterthesis: *Demand Estimation with Machine Learning* 
+  * Machine Learning with Business Applications
+  * Deep Learning
+  * Machine Learning Methods in Economics
+  * Time Series Analysis
+  * Statistical Programming
+* Environments: 
+  * Jupyter Notebook
+  * JupyterLab
+  * Spyder
+  * Google Colaboratory
+  * Kaggle Kernels
+* Markup-Languages: 
+  * Markdown
+  * LaTex
+
 * Topics: 
   * Natural Language Processing, 
   * Computer Vision
@@ -45,19 +63,3 @@ Experience and Skills
      * Boston Housing Dataset
      * Titanic Survivor Dataset
      * Iris Flower Data Set
-* Relevant Coursework: 
-  * Masterthesis: *Demand Estimation with Machine Learning* 
-  * Machine Learning with Business Applications
-  * Deep Learning
-  * Machine Learning Methods in Economics
-  * Time Series Analysis
-  * Statistical Programming
-* Environments: 
-  * Jupyter Notebook
-  * JupyterLab
-  * Spyder
-  * Google Colaboratory
-  * Kaggle Kernels
-* Markup-Languages: 
-  * Markdown
-  * LaTex
