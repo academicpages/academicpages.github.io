@@ -16,9 +16,9 @@ Education
 
 Experience and Skills
 =======
-* Programminglanguage: 
-   * Python (1 Year+)
-   * R (1 Year)
+* Programming language: 
+   * Python (1 year+)
+   * R (1 year)
 * Topics: 
   * Natural Language Processing, 
   * Computer Vision
