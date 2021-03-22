@@ -15,7 +15,7 @@ testing using cross-validation-resampling. The models are tuned using
 grid search and performance is measured using accuracy score.
 An ensemble model combines all the models into one. A prediction
 with the ensemble model is submitted to Kaggle.com using the provided
-hold out set.
+hold out set. 
 
 [Working Paper](https://gzhelev2020.github.io/files/Titanic_Paper.pdf)
 
