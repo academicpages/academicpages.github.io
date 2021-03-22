@@ -17,13 +17,22 @@ Education
 Experience and Skills
 =======
 * Programminglanguage: 
- * Python (1 Year+)
- * R (1 Year)
+   * Python (1 Year+)
+   * R (1 Year)
 * Topics: 
   * Natural Language Processing, 
   * Computer Vision
   * Neural Network Architectures
-* APIs and Libraries: Scikit-Learn, Keras, PyTorch, NLTK, REGEX, Pandas, Numpy, Tensorflow, Matplotlib
+* APIs and Libraries: 
+  * Scikit-Learn
+  * Keras
+  * PyTorch
+  * NLTK
+  * REGEX
+  * Pandas
+  * Numpy
+  * Matplotlib
+
 * Experience with Datasets: 
   * Sentiment Analysis: 
     * Amazon Reviews
