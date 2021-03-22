@@ -19,7 +19,18 @@ Experience and Skills
 * Programminglanguage: Python (1 Year+)
 * Topics: Natural Language Processing, Computer Vision, GPUs und Process-Paralelization, Pre-Processing, Neural Network Architectures
 * APIs and Libraries: Scikit-Learn, Keras, PyTorch, NLTK, REGEX, Pandas, Numpy, Tensorflow, Matplotlib
-* Datasets: Sentiment Analysis: Amazon Reviews, IMDB Movie Reviews, Disaster Tweets, SMS Spam Dataset; Computer Vision: MNIST Written Digits Dataset; Numerical: Boston Housing Dataset, Titanic Survivor Dataset, Iris Flower Data Set
+* Experience with Datasets: 
+  * Sentiment Analysis: 
+    * Amazon Reviews
+    * IMDB Movie Reviews
+    * Disaster Tweets
+    * SMS Spam Dataset
+   * Computer Vision:
+     *  MNIST Written Digits Dataset
+   * Numerical: 
+     * Boston Housing Dataset
+     * Titanic Survivor Dataset
+     * Iris Flower Data Set
 * Relevant Coursework: 
   * Masterthesis: *Demand Estimation with Machine Learning* Deep Learning
   * Machine Learning Methods in Economics
