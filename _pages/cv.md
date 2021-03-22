@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020-Current: Bocconi University (Italy), PhD in Statistics and Computer Science
+* 2018-2020: Bocconi University (Italy), M.Sc. in Business Analytics and Data Science
+   - Grade: 110/110 “Cum Laude”
+   - Research Thesis on “Constructing protein embeddings using TWEC model”
+* 2014-2018: Higher School of Economics (Moscow, Russia), B.Sc. in Economics, GPA 9.04/10, ranked as 6th out of 237 students
+   - Grade: 9.04/10 “Cum Laude”
+   - Research Thesis on "Predicting time series data with hybrid models based on LSTM and wavelet transform"
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2019 - June 2020: Research Assistant in [ARTLAB](http://www.artlab.unibocconi.eu/wps/wcm/connect/Cdr/Artlab/Home/) Bocconi
+  - running experiments on alternative optimization techniques and analyzing their effects on robustness against adversarial examples of images
+  - improving the robustness of Deep Q-Learning methods
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2018 - Mar 2019 Intern Data Scientist in Quick Algorithm company 
+  - developing  models for the Scops analytical platform
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming Languages:
+ - Python/Julia/C++/R
+
+Languages:
+ - Russian (Native)
+ - English (Advanced)
+ - Italian (Intermediate)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  Pittorino, Fabrizio, et al. "Entropic gradient descent algorithms and wide flat minima." arXiv preprint arXiv:2006.07897 (2020).
+
