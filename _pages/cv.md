@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* 2020-Current: Bocconi University (Italy), PhD in Statistics and Computer Science
-* 2018-2020: Bocconi University (Italy), M.Sc. in Business Analytics and Data Science
+* 2020-Current: Bocconi University (Milan, Italy), PhD in Statistics and Computer Science
+* 2018-2020: Bocconi University (Milan, Italy), M.Sc. in Business Analytics and Data Science
    - Grade: 110/110 “Cum Laude”
    - Research Thesis on “Constructing protein embeddings using TWEC model”
-* 2014-2018: Higher School of Economics (Moscow, Russia), B.Sc. in Economics, GPA 9.04/10, ranked as 6th out of 237 students
+* 2014-2018: Higher School of Economics (Moscow, Russia), B.Sc. in Economics
    - Grade: 9.04/10 “Cum Laude”
    - Research Thesis on "Predicting time series data with hybrid models based on LSTM and wavelet transform"
 
