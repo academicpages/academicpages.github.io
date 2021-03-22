@@ -1,2 +1,2 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
+pub_date	title	venue	paper_url
 2020-06-14	Entropic gradient descent algorithms and wide flat minima	ICLR	https://openreview.net/pdf?id=xjXg0bnoDmS
