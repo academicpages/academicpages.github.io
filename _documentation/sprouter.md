@@ -82,9 +82,9 @@ override def parseTuple(tuple: String) = {
 
     val timeStamp = fileLine(2).toLong
 
-    sendUpdate(VertexAddWithProperties(timeStamp, srcID, Properties(ImmutableProperty("name",sourceNode)),Type("Character")))
-    sendUpdate(VertexAddWithProperties(timeStamp, tarID, Properties(ImmutableProperty("name",targetNode)),Type("Character")))
-    sendUpdate(EdgeAdd(timeStamp,srcID,tarID, Type("Character Co-occurence")))
+    addVertex(timeStamp, srcID, Properties(ImmutableProperty("name",sourceNode)),Type("Character"))
+    addVertex(timeStamp, tarID, Properties(ImmutableProperty("name",targetNode)),Type("Character"))
+    addEdge(timeStamp,srcID,tarID, Type("Character Co-occurence"))
   }
 }
 ```
@@ -95,7 +95,7 @@ There are a few things worth pointing out here.
 
 * We added a `name` property to each of the nodes. If we had reason to, we could have added any other property that might be appropriate. We set this as an `ImmutableProperty` in this case, as character names are treated as fixed, but this could be a mutable property if it were required to change later.
 
-* We didn't check whether either vertices exist before sending a `VertexAdd` update. Another class deals with this so that we don't have to worry about that.
+* We didn't check whether either vertices exist before sending a `addVertex` update. Another class deals with this so that we don't have to worry about that.
 
 * The spout wasn't doing much heavy lifting here, just reading in the file line by line. The spout is used for pulling data from external sources (potentially streams) or extracting the useful parts of less structured data to send as a record to the graph builder.
 
