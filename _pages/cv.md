@@ -16,8 +16,13 @@ Education
 
 Experience and Skills
 =======
-* Programminglanguage: Python (1 Year+)
-* Topics: Natural Language Processing, Computer Vision, GPUs und Process-Paralelization, Pre-Processing, Neural Network Architectures
+* Programminglanguage: 
+ * Python (1 Year+)
+ * R (1 Year)
+* Topics: 
+  * Natural Language Processing, 
+  * Computer Vision
+  * Neural Network Architectures
 * APIs and Libraries: Scikit-Learn, Keras, PyTorch, NLTK, REGEX, Pandas, Numpy, Tensorflow, Matplotlib
 * Experience with Datasets: 
   * Sentiment Analysis: 
@@ -32,11 +37,12 @@ Experience and Skills
      * Titanic Survivor Dataset
      * Iris Flower Data Set
 * Relevant Coursework: 
-  * Masterthesis: *Demand Estimation with Machine Learning* Deep Learning
+  * Masterthesis: *Demand Estimation with Machine Learning* 
+  * Machine Learning with Business Applications
+  * Deep Learning
   * Machine Learning Methods in Economics
   * Time Series Analysis
-  * Statistical Programming with Python
-  * Participation on Kaggle-Competitions
+  * Statistical Programming
 * Environments: 
   * Jupyter Notebook
   * JupyterLab
