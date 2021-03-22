@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2020-Current: Bocconi University (Milan, Italy), PhD in Statistics and Computer Science
+* 2020-present: Bocconi University (Milan, Italy), PhD in Statistics and Computer Science
 * 2018-2020: Bocconi University (Milan, Italy), M.Sc. in Business Analytics and Data Science
    - Grade: 110/110 “Cum Laude”
    - Research Thesis on “Constructing protein embeddings using TWEC model”
