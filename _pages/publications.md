@@ -129,8 +129,8 @@ author_profile: true
 100. Y. Han, C.-K. Wen, S. Jin, and X. Ma, “Deep Learning Based FDD Non-Stationary Massive MIMO Downlink Channel Reconstruction,” *IEEE Journal of Selected Areas of Communications*, vol. 38, no. 9, pp. 1980–1993, Sept. 2020.
 101. M. S. Omar and X. Ma, “Spectrum Design for Orthogonal Chirp Division Multiplexing Transmissions,” *IEEE Wireless Communication Letters*, vol. 9, no. 11, pp. 1990–1994, Nov. 2020.
 102. Y. Ge, W. Zhang, F. Gao, G. Wang, and X. Ma, “High-Mobility Massive MIMO with Beamforming Network Optimization: Doppler Spread Analysis and Scaling Law,” *IEEE Journal of Selected Areas of Communications*, vol. 38, no. 12, pp. 2889–2902, Dec. 2020.
-103. J. Zhang, X. Ma, J. Qi, and S. Jin, “Designing Tensor-Train Deep Neural Networks For Time-Varying MIMO Channel Estimation,” *IEEE Journal of Selected Topics in Signal Processing*, early access, Jan. 2021.
-104. H. Wu, X. Ma, C. H. Yang, and S. Liu, “Attention Based Bidirectional Convolutional LSTM for High Resolution Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, early access, Nov. 2020. 
+103. H. Wu, X. Ma, C. H. Yang, and S. Liu, “Attention Based Bidirectional Convolutional LSTM for High Resolution Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, early access, Nov. 2020. 
+104 J. Zhang, X. Ma, J. Qi, and S. Jin, “Designing Tensor-Train Deep Neural Networks For Time-Varying MIMO Channel Estimation,” *IEEE Journal of Selected Topics in Signal Processing*, early access, Jan. 2021.
 105. M. S. Omar and X. Ma, “Performance Analysis of OCDM for Wireless Communications,” *IEEE Trans. on Wireless Communications*, early access, Feb. 2021.
 106. L. Yan, X. Ma, X. Li, and J. Lu, “Shot Interference Detection and Mitigation for Underwater Acoustic Communication Systems,” *IEEE Trans. on Communications*, early access, Feb. 2021. 
 107. R. Zhang, X. Ma, D. Wang, F. Yuan, and E. Cheng, “Adaptive Coding and Bit-Power Loading Algorithms for Underwater Acoustic Transmissions,” *IEEE Trans. on Wireless Communications*, accepted Mar. 2021.
