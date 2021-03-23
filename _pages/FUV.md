@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "FUV"
+title: "Funções de uma variável"
 permalink: /FUV/
 author_profile: true
 ---
