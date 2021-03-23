@@ -2,7 +2,6 @@
 title: "SageMath"
 layout: archive
 permalink: /sagemath/
-output: pdf_document
 author_profile: yes
 ---
 
