@@ -15,6 +15,6 @@ author_profile: true
 
 **SW Olesen**. Quantitative modeling for microbial ecology and clinical trials. PhD thesis, MIT (2016). [DSpace](https://dspace.mit.edu/handle/1721.1/107277); [source code](https://github.com/swo/mit-thesis)
 
-**SW Olesen**. *[Processing 16S data](https://leanpub.com/primer16s/): an informal primer about 16S rRNA amplicon data*. Leanpub (2016).
+**SW Olesen**. *Processing 16S data: an informal primer about 16S rRNA amplicon data* (Mar 2021). [file](/files/primer16s.pdf); [source code](https://github.com/swo/16s-book)
 
 **SW Olesen**, EJ Alm. "Leveraging microbes when responding to an oil spill." [HSE NOW](http://www.spe.org/hsenow/article/leveraging-microbes-when-responding-to-a-spill) (Dec 2016).
