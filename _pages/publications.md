@@ -133,12 +133,12 @@ author_profile: true
 104. H. Wu, X. Ma, C. H. Yang, and S. Liu, “Attention Based Bidirectional Convolutional LSTM for High Resolution Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, early access, Nov. 2020. 
 105. M. S. Omar and X. Ma, “Performance Analysis of OCDM for Wireless Communications,” *IEEE Trans. on Wireless Communications*, early access, Feb. 2021.
 106. L. Yan, X. Ma, X. Li, and J. Lu, “Shot Interference Detection and Mitigation for Underwater Acoustic Communication Systems,” *IEEE Trans. on Communications*, early access, Feb. 2021. 
+107. R. Zhang, X. Ma, D. Wang, F. Yuan, and E. Cheng, “Adaptive Coding and Bit-Power Loading Algorithms for Underwater Acoustic Transmissions,” *IEEE Trans. on Wireless Communications*, accepted Mar. 2021.
 
 Submitted and under review
 
-106. R. Zhang, X. Ma, D. Wang, F. Yuan, and E. Cheng, “Adaptive Coding and Bit-Power Loading Algorithms for Underwater Acoustic Transmissions,” *IEEE Trans. on Wireless Communications*, submitted May 2020, revised Oct. and Dec. 2020.
-
-107. H. Wu, X. Ma, and S. Liu, “Designing Multitask Convolutional Variational Autoencoder for Radio Tomographic Imaging,” *IEEE Trans. on Knowledge and Data Engineering*, submitted Jan. 2021.
+108. H. Wu, X. Ma, and S. Liu, “Designing Multitask Convolutional Variational Autoencoder for Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, submitted Feb. 2021.
+109. Z. Shi, Y. Wang, L. Liu, and X. Ma, “A Joint Sonar-Communication System Based on Multicarrier Waveforms,” *IEEE Signal Processing*, submittted Mar. 2021. 
 
 **Conference Publications**
 
