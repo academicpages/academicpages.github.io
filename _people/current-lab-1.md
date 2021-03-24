@@ -20,7 +20,6 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <br>
 <br>
 <br>
-<br>
 
 ### Lucy Howell
 
@@ -29,7 +28,6 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <br>
 <br>
 <br>
-<br> 
   
 
 ### Micaela Pullen
