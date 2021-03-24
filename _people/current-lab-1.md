@@ -24,12 +24,12 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 
 ### Lucy Howell
 
-<img align="right" src='/images/lucyhowell.png' width="40%" height="40%"> Lucy is working on an [Aho Hīnātore | Accelerator Scholarship](https://www.canterbury.ac.nz/postgraduate/aho-hinatore-accelerator-scholarship/) prior to beginning a PhD. She is using environmental DNA to study populations of little blue penguins. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/).
+<img align="right" src='/images/lucyhowell.png' width="40%" height="40%"> Lucy is working on an [Aho Hīnātore \| Accelerator Scholarship](https://www.canterbury.ac.nz/postgraduate/aho-hinatore-accelerator-scholarship/) prior to beginning a PhD. She is using environmental DNA to study populations of little blue penguins. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/).
 
 <br>
 <br>
 <br>
-  
+<br> 
   
 
 ### Micaela Pullen
