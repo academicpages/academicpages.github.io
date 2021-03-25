@@ -12,11 +12,12 @@ location: "United States"
 
 <b><big> Graduate Division Graduate InterConnect (GIC) Program Peer Mentor, UCI </big></b><br> <b> Spring 2021 – Present </b>
 * Provide guidance to first-year international graduate students in acclimate to UCI
-<br>
 
+<br>
 
 <b><big> Mentor, Científico Latino’s Graduate Student Mentorship Initiative (GSMI)  </big></b><br> <b>Fall 2020</b>
 * Guided 1 underrepresented undergraduate student in applying for graduate program in neuroscience 
+
 <br>
 
 <b><big> CNLM Summer Virtual Journal Club for High School Students, UCI </big></b><br> <b> Summer 2020 </b>
@@ -26,6 +27,7 @@ location: "United States"
 
 <b><big> Irvine Brain Bee, UCI </big></b><br> <b> Winter 2020 </b>
 * Supervised 3 high school students in preparing for annual Irvine Brain Bee 
+
 <br>
 
 <b><big>Summer Research Mentorship Program (RMP), UCSB</big></b><br> <b> Summer 2018</b>
