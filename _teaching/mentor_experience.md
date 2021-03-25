@@ -15,7 +15,7 @@ location: "United States"
 
 <br>
 
-<b><big> Mentor, Científico Latino’s Graduate Student Mentorship Initiative (GSMI)  </big></b><br> <b>Fall 2020</b>
+<b><big> Científico Latino’s Graduate Student Mentorship Initiative (GSMI), Virtual  </big></b><br> <b>Fall 2020</b>
 * Guided 1 underrepresented undergraduate student in applying for graduate program in neuroscience 
 
 <br>
