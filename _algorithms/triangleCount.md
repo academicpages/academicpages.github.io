@@ -1,5 +1,6 @@
 ---
 title: 'Triangle Count and Clustering Coefficient'
+type: "Algorithms"
 permalink: /algorithms/triangleCount/
 tags:
   - algorithms

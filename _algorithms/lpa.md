@@ -38,7 +38,7 @@ Every vertex is assigned an initial label at random. Looking at the labels of it
 
 ## Examples
 In this example, the temporal network spans a time period $t \in [1,3]$ and is built into (3) snapshots of window size 1.
- 
+
 <p align="center">
 	<img src="../../images/lpa-ex.png" style="width: 30vw;" alt="lpa example"/>
 </p>
@@ -48,7 +48,7 @@ Running LPA on all snapshots;
 ```scala
 curl -X POST 127.0.0.1:8081/RangeAnalysisRequest \
 -H "Content-Type: application/json" \
---data-binary @- << EOF 
+--data-binary @- << EOF
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.LPA",
@@ -61,7 +61,7 @@ curl -X POST 127.0.0.1:8081/RangeAnalysisRequest \
 EOF
 ```
 
-This returns: 
+This returns:
 
 ```json
 {"time":1,"windowsize":0,"top5":[4],"total":1,"totalIslands":0,"communities": [[1,2,6,5]],"proportion":1.0, "viewTime":36}
@@ -72,7 +72,7 @@ Running LPA on the aggregated graph;
 ```scala
 curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 -H "Content-Type: application/json" \
---data-binary @- << EOF 
+--data-binary @- << EOF
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.LPA",
@@ -92,7 +92,7 @@ Specifying that only the largest community be returned (as specified by `top`)
 ```scala
 curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 -H "Content-Type: application/json" \
---data-binary @- << EOF 
+--data-binary @- << EOF
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.LPA",
