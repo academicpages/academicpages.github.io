@@ -28,3 +28,4 @@ For example, in the graph above with all edges aggregated between time $t_1$ and
 ## Notes
 * The edge weight as described here counts the number of times the edge appears (in social interaction graphs the number of interactions that occur over one edge) but the analyser code could be easily modified to compute instead the sum of user defined weights across the edge.
 * This algorithm treats the graph as undirected, focusing on just node degree, rather than in/out degree. This can also be modified to address directed networks by considering incoming and outgoing edges rather than the union of these edges.
+* This algorithm outputs a relatively large amount of data for each view of the graph (three arrays of dictionaries which could each have a number of entries similar magnitude to the number of nodes in worst case), therefore caution is advised against jobs with finely grained time ranges.
