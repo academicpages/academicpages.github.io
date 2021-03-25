@@ -9,9 +9,9 @@ tags:
 
 ---
 
-<p align="right">
-  <img src="https://raphtory.github.io/images/Various_cheeses.jpg" alt="Yummy cheese graphic"/>
-</p>
+
+  <img src="/images/Various_cheeses.jpg" width="300px" style="float: right; " alt="Yummy cheese graphic"/>
+
 
 We're expanding Raphtory to work with a number of different algorithms to test its capability in a variety of areas. One of those areas is community detection which is quite a venerable area of research in graphs in general but less explored in the temporal graph space. The traditional problem is to divide the nodes of a graph into separate communities where links are more common between nodes in the same community and less common between nodes in different communities. There are various ways to make this more formal, for example defining the notion of [modularity](https://en.wikipedia.org/wiki/Modularity) (the fraction of edges between nodes in the saem community minus the fraction you would expect from a random graph with the same degree distribution). 
 
