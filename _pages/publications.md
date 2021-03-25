@@ -11,7 +11,7 @@ author_profile: true
 
 
 <br>
-<b>[Fast and High-Quality Blind Multi-spectral Image Pansharpening](http://complexfilter.github.io/publications/ICASSP2020)</b> <br> 
+<b>[Fast and High-Quality Blind Multi-spectral Image Pansharpening](http://complexfilter.github.io/publications/TGRS2021)</b> <br> 
 <b>Lantao Yu</b>, Dehong Liu, Hassan Mansour, Petros T. Boufounos.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <span style="color:red">Arxiv: https://arxiv.org/abs/2103.09943</span>
 
