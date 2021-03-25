@@ -16,8 +16,8 @@ redirect_from:
 
 
 # Recent News
-* One journal paper submitted to IEEE Transactions on Geoscience and Remote Sensing. 
-* Feb, 20201. Two conference papers submitted to ICIP.
+* March 15, 2021. One journal paper submitted to IEEE Transactions on Geoscience and Remote Sensing. 
+* Feb, 2020. Two conference papers submitted to ICIP.
 * Dec 3rd, 2020. I defened my Ph.D..
 * Jun 1st, 2020. I started my internship at Facebook AR VR team.
 * April 8, 2020. One patent filed.
