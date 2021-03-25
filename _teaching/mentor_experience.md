@@ -1,9 +1,9 @@
 ---
 title: "Mentor Experience"
 collection: teaching
-type: "To high school students & undergraduates"
+type: "To high school students & undergraduates & graduates"
 permalink: /teaching/mentor_experience
-venue: "UCI & UCSB"
+venue: "UCI & UCSB & GSMI"
 date: 2020-03-01
 location: "United States"
 
