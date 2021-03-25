@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I recently defended my Ph.D. in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). During my Ph.D, studies, I have the fortune to work with Prof. [Michael Orchard](https://eceweb.rice.edu/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/lantao_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
-* My research interests lie in the area of image processing, particularly in image interpolation, super-resolution and compression, as well as their applications in fusion and demosaicking.
+* My research interests lie in the area of image processing and computational photography, particularly in image interpolation, aliasing mitigation for image display, fusion, and compression.
 * I had a great summer as a research intern at Facebook in Menlo Park, CA. 
 * I had a great summer as a research intern at MERL in Cambridge, MA. 
 * I received my Bachelor’s Degree in [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
@@ -18,7 +18,7 @@ redirect_from:
 # Recent News
 * March 15, 2021. One journal paper submitted to IEEE Transactions on Geoscience and Remote Sensing. 
 * Feb, 2020. Two conference papers submitted to ICIP.
-* Dec 3rd, 2020. I defened my Ph.D..
+* Dec 3rd, 2020. I defended my Ph.D..
 * Jun 1st, 2020. I started my internship at Facebook AR VR team.
 * April 8, 2020. One patent filed.
 * January 24, 2020. One paper accepted to ICASSP 2020.
