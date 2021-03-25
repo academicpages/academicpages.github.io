@@ -1,0 +1,14 @@
+---
+title: "Fast and High-Quality Blind Multi-Spectral Image Pansharpening"
+collection: publications
+permalink: /publications/TGRS2021
+venue: "IEEE Transactions on Geoscience and Remote Sensing"
+date: 2021-03-17(Arxiv)
+citation: '<b>Lantao Yu</b>, Dehong Liu, Hassan Mansour, and Petros T. Boufounos. <b>TGRS 2021.</b>'
+---
+
+[[PDF]](https://arxiv.org/abs/2103.09943)
+
+## Abstract
+
+Blind pansharpening addresses the problem of generating a high spatial-resolution multi-spectral (HRMS) image given a low spatial-resolution multi-spectral (LRMS) image with the guidance of its associated spatially misaligned high spatial-resolution panchromatic (PAN) image without parametric side information. In this paper, we propose a fast approach to blind pansharpening and achieve state-of-the-art image reconstruction quality. Typical blind pansharpening algorithms are often computationally intensive since the blur kernel and the target HRMS image are often computed using iterative solvers and in an alternating fashion. To achieve fast blind pansharpening, we decouple the solution of the blur kernel and of the HRMS image. First, we estimate the blur kernel by computing the kernel coefficients with minimum total generalized variation that blur a downsampled version of the PAN image to approximate a linear combination of the LRMS image channels. Then, we estimate each channel of the HRMS image using local Laplacian prior to regularize the relationship between each HRMS channel and the PAN image. Solving the HRMS image is accelerated by both parallelizing across the channels and by fast numerical algorithms for each channel. Due to the fast scheme and the powerful priors we used on the blur kernel coefficients (total generalized variation) and on the cross-channel relationship (local Laplacian prior), numerical experiments demonstrate that our algorithm outperforms state-of-the-art model-based counterparts in terms of both computational time and reconstruction quality of the HRMS images.
