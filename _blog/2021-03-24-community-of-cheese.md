@@ -9,6 +9,10 @@ tags:
 
 ---
 
+
+  <img src="/images/Various_cheeses.jpg" width="300px" style="float: right; " alt="Yummy cheese graphic"/>
+
+
 We're expanding Raphtory to work with a number of different algorithms to test its capability in a variety of areas. One of those areas is community detection which is quite a venerable area of research in graphs in general but less explored in the temporal graph space. The traditional problem is to divide the nodes of a graph into separate communities where links are more common between nodes in the same community and less common between nodes in different communities. There are various ways to make this more formal, for example defining the notion of [modularity](https://en.wikipedia.org/wiki/Modularity) (the fraction of edges between nodes in the saem community minus the fraction you would expect from a random graph with the same degree distribution). 
 
 Here we're working with the [Label Propagation Algorithm](https://en.wikipedia.org/wiki/Label_propagation_algorithm) which is an easy to understand algorithm that (in brief) has nodes propagate the most common label they see in their neighbours and repeat this. Communities end up having the same label. But how does this work on graphs that change in time. We want the possibiltiy that nodes change between communities. We want the possibility that communities merge or vanish. Some researchers try to achieve this with graph snapshots. You run your favourite community detection algorithms on many different snapshots and then try to reidentify when the "same" community is present in different snapshots. (So if in snapshot 1 nodes A, B, C and D were together in a community and in snapshot 2 nodes A, B, C, D and E were together you might hypothesise that E has joined that community.) However, this joining and merging presents some tricky problems in itself.
