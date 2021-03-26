@@ -48,6 +48,7 @@ Statistics
 Data Visualization
 ======
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) by Claus O. Wilke
+* [The Visual Display of Quantitative Information](https://kyl.neocities.org/books/[TEC%20TUF]%20the%20visual%20display%20of%20quantitative%20information.pdf) by Edward R. Tufte
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) for finding color match and then use the color code in other visualization tools eg., Tableau
 * [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 * [R Graph Gallery](https://www.r-graph-gallery.com/) for different figure templates in R
