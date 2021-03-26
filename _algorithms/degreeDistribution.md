@@ -25,6 +25,15 @@ For example, in the graph above with all edges aggregated between time $t_1$ and
 * `weightDist` -- the _weighted degree distribution_, an array of dictionaries of the form `{"weight": w, "freq": f}` counting the number of nodes with weighted degree `w` (type _Int_)
 * `edgeDist` -- the _edge weight distribution_, an array of dictionaries of the form `{"eweight": w, "freq": f}` counting the number of edges of weight `w` (type _Int_)
 
+## Example
+In [recent work](https://arxiv.org/abs/2009.08322) studying the Gab social network as an interaction graph, the degree, weighted degree and edge weight distribution was obtained from the aggregate graph, displayed below.
+
+<p align="center">
+	<img src="../../images/gabDistributions.png" style="width: 30vw;" alt="degree, interaction degree and edge weight distributions of the Gab social network"/>
+</p>
+
+The edge weight distribution is heavy-tailed, and shows that the majority of interactions between users occurred once and never again.
+
 ## Notes
 * The edge weight as described here counts the number of times the edge appears (in social interaction graphs the number of interactions that occur over one edge) but the analyser code could be easily modified to compute instead the sum of user defined weights across the edge.
 * This algorithm treats the graph as undirected, focusing on just node degree, rather than in/out degree. This can also be modified to address directed networks by considering incoming and outgoing edges rather than the union of these edges.
