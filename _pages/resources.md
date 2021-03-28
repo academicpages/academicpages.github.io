@@ -40,7 +40,7 @@ Statistics
 * [VassarStats](http://vassarstats.net/) is a platform that explains statistics concepts (frequentist type) and for online small scale data analyses
 * [JPSP](https://jasp-stats.org/) is an open source statistics program that's similar to SPSS, but with additional Bayesian analyses options
 * [Bernard Marr](https://www.bernardmarr.com/) a listserv for trends in Big Data & Analytics
-
+* [Devpost](https://devpost.com/) for some fun online hackathon opportunities
 
 
 <br> 
@@ -87,7 +87,7 @@ Neuroscience
 
 <br> 
 
-Academic Writing
+Academic Writing & Peer Review
 ======
 * [The Writing Workshop](https://osf.io/z4n3t/) by Barbara Sarnecka
 * [ProWritingAid](https://prowritingaid.com/Free) or [Grammarly](https://app.grammarly.com/) for copy editing
@@ -132,5 +132,4 @@ Professional Development
 * [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a blog about computational neuroscience, data science, getting into industry by Patrick Mineault
 * [Tanya Jonker](https://tanyajonker.com/) a blog about academic and industry job markets by cognitive neuroscientist Tanya Jonker
 * [Cheeky Scientist](https://cheekyscientist.com/) a platform that guides PhDs into industry career
-* [Devpost](https://devpost.com/) for some fun online hackathon opportunities
 
