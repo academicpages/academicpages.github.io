@@ -82,6 +82,7 @@ Neuroscience
 * [EBRAINS](https://ebrains.eu/services) gives researchers access to shared and curated open data (including the [Human Brain Project](https://www.humanbrainproject.eu/en/) data)
 * [Allen Institute's The Virtual Science Lab](https://alleninstitute.org/about/education-outreach/#Lessons) teaches researchers how to use open data from Allen Institute in class
 * [BrainFacts.org](https://www.brainfacts.org/) for fun facts of the human brain (The book [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) is also the guide book for Brain Bee events)
+* [Increasing Women in Neuroscience (IWiN)](https://neuronline.sfn.org/collection/increasing-women-in-neuroscience?utm_campaign=Neuronline%20&utm_medium=email&_hsmi=117243239&_hsenc=p2ANqtz--j3ctZ6te-QsuO7owUDu1O0yHywLwkB5Gjos6XD2U3ICzV1SULuXLto7Y5YoMr5T9T36VtRlc-2sI_ABmcx0jrUP_L7w&utm_content=116599735&utm_source=hs_email) interactive courses, toolkits, and related resources
 
 <br> 
 
