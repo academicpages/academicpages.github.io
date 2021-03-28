@@ -26,6 +26,7 @@ Coding
 * [R Packages](https://r-pkgs.org/) by Hadley Wickham & Jenny Bryan for developing R packages
 * [Big Book of R](https://www.bigbookofr.com/index.html) by Oscar Baruffa lists 150+ books on R programming
 * [HackerRank](https://www.hackerrank.com/) for coding practice in multiple programming languages esp. SQL and Python
+* [Devpost](https://devpost.com/) for some fun online hackathon opportunities
 
 <br> 
 
@@ -40,7 +41,6 @@ Statistics
 * [VassarStats](http://vassarstats.net/) is a platform that explains statistics concepts (frequentist type) and for online small scale data analyses
 * [JPSP](https://jasp-stats.org/) is an open source statistics program that's similar to SPSS, but with additional Bayesian analyses options
 * [Bernard Marr](https://www.bernardmarr.com/) a listserv for trends in Big Data & Analytics
-* [Devpost](https://devpost.com/) for some fun online hackathon opportunities
 
 
 <br> 
