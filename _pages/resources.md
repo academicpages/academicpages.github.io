@@ -83,6 +83,7 @@ Neuroscience
 * [Allen Institute's The Virtual Science Lab](https://alleninstitute.org/about/education-outreach/#Lessons) teaches researchers how to use open data from Allen Institute in class
 * [BrainFacts.org](https://www.brainfacts.org/) for fun facts of the human brain (The book [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) is also the guide book for Brain Bee events)
 * [Increasing Women in Neuroscience (IWiN)](https://neuronline.sfn.org/collection/increasing-women-in-neuroscience?utm_campaign=Neuronline%20&utm_medium=email&_hsmi=117243239&_hsenc=p2ANqtz--j3ctZ6te-QsuO7owUDu1O0yHywLwkB5Gjos6XD2U3ICzV1SULuXLto7Y5YoMr5T9T36VtRlc-2sI_ABmcx0jrUP_L7w&utm_content=116599735&utm_source=hs_email) interactive courses, toolkits, and related resources
+* [Environmental Psychology](https://www.youtube.com/playlist?list=PLA2E69FC89640C272&app=desktop) lectures by Prof. Daniel Stokols
 
 <br> 
 
@@ -115,7 +116,15 @@ Peer Review
 
 <br>
 
-Others
+Interdisciplinary Collaboration
+======
+* [Toolbox Dialogue Initiative](https://tdi.msu.edu/) research and outreach collective for interdisciplinarity by Michigan State University 
+* [td-net toolbox](https://naturalsciences.ch/co-producing-knowledge-explained/methods/td-net_toolbox) methods and tools for co-producing knowledge by Swiss Academy of Sciences 
+
+<br>
+
+
+Professional Development
 ======
 * [The Professor Is In](https://theprofessorisin.com/) a blog about navigating different stages of academic career
 * [Letters to Young Scientists](https://www.sciencemag.org/tags/letters-young-scientists) Science Careers' column with insightful suggestions to professional development
