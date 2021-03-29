@@ -23,11 +23,11 @@ Publication
 ======
 _[\* means equal contribution.]_
 
-*  __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. _In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021)_
+*  __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. _In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS)_
 
-*  Li, X.\*, Wu, J.\*, __Sun, Z.\*__, Ma, Z., Cao, J., Xue, J-H.(2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. _IEEE Transactions on Image Processing_, 2020.
+*  Li, X.\*, Wu, J.\*, __Sun, Z.\*__, Ma, Z., Cao, J., Xue, J-H.(2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. _IEEE Transactions on Image Processing_.
 
-*  Li, X.\*, __Sun, Z.\*__, Xue, J-H., Ma, Z. (2020). A Concise Review of Recent Few-shot Meta-learning Methods. _Neurocomputing_, 2020.
+*  Li, X.\*, __Sun, Z.\*__, Xue, J-H., Ma, Z. (2020). A Concise Review of Recent Few-shot Meta-learning Methods. _Neurocomputing_.
 
 
 
