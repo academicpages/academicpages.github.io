@@ -87,7 +87,7 @@ Neuroscience
 
 <br> 
 
-Academic Writing & Peer Review
+Academic Writing
 ======
 * [The Writing Workshop](https://osf.io/z4n3t/) by Barbara Sarnecka
 * [ProWritingAid](https://prowritingaid.com/Free) or [Grammarly](https://app.grammarly.com/) for copy editing
