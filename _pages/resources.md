@@ -113,6 +113,7 @@ Peer Review
 ======
 * [Focus on Peer Review](https://masterclasses.nature.com/online-course-on-peer-review/16507836) - a free Nature Masterclasses' online course on peer review process
 * [Elsevier Researcher Academy](https://researcheracademy.elsevier.com/) provides courses to understand the publishing process (including review) 
+* an article on [How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently](https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/)
 
 <br>
 
