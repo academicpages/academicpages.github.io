@@ -12,5 +12,5 @@ location: "London, UK"
 In this role I assist the lecturer in coordinating the TAs, create tutorials for the students, mark coursework and help students in tutorials.
 
 ### Materials developed for course:
-1. Introduction to pytorch for deep learning jupyter notebook for deeplearning tutorial: [download](/files/teaching/Python_DeepLearning_Tut.ipynb) [COLAB](https://colab.research.google.com/drive/1GIFBUWqEFaE3pvHjofsSgtTqL4ynnXcX?usp=sharing)
+1. Introduction to pytorch for deep learning jupyter notebook for deeplearning tutoricd ..al: [download](/files/teaching/Python_DeepLearning_Tut.ipynb) [COLAB](https://colab.research.google.com/drive/1GIFBUWqEFaE3pvHjofsSgtTqL4ynnXcX?usp=sharing)
 2. Fun challenge to create your own COVID track and trace programe for Object Orientation Programming tutorial: [download](/files/teaching/COVID_tracker.html)

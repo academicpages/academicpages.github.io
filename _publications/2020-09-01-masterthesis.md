@@ -3,6 +3,7 @@ title: "Vector Quantised-Variational Autoencoders (VQ-VAEs) for Representation l
 award: "Imperial College London <i><b>Distinguised Project Award</b></i>"
 collection: publications
 permalink: /publication/2020-09-01-masterthesis
+paperurl: /files/MasterThesis.pdf
 excerpt: ''
 date: 2020/09/01
 # paperurl: 'https://arxiv.org/pdf/2012.14553.pdf'
