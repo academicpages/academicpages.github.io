@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Superfícies"
-permalink: /FUV/
+permalink: /surf/
 author_profile: true
 ---
 
