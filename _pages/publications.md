@@ -39,6 +39,11 @@ Emergency Medicine Journal (2019).
 
 ## Cardiology
 
+**[Clinical characteristics and outcomes in childhood-onset hypertrophic cardiomyopathy]   
+(https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehab148/6189026?redirectedFrom=fulltext)**.  
+European Heart Journal (2021).  
+Marston NA, **Han L,** Olivotto I, et al.
+
 **[Associations between female sex, sarcomeric variants, and clinical outcomes in hypertrophic cardiomyopathy](https://www.ahajournals.org/doi/abs/10.1161/CIRCGEN.120.003062)**.  
 Circulation: Genomic and Precision Medicine (2020).  
 Lakdawala NK, Olivotto I, Day SM, **Han L,** Ashley EA, Michels M, Ingles J, Semsarian C, Jacoby D, Jefferies JL, Colan SD, Pereira AC, Rossano JW, Wittekind S, Ware JS, Saberi S, Helms AS, Cirino AL, Leinwand LA, Seidman CE, Ho CY. 
