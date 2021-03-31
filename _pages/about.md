@@ -21,6 +21,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 
 ## News
 * \[2021.02\] A [virtual talk](https://slideslive.com/embed/presentation/38948038?url=https%3A%2F%2Fvirtual.2021.aaai.org%2Fpaper_AAAI-1869.html&origin=https%3A%2F%2Fvirtual.2021.aaai.org&target_id=presentation-embed&auto_play=&zoom_ratio=&disable_fullscreen=&locale=en&demo=&vertical_enabled=true&vertical_enabled_on_mobile=&vertical_when_width_lte=500&allow_hidden_controls_when_paused=true&debug_slideslive_player=&user_uuid=2eeb9c93-3010-492d-8f6e-55deb5b32d4c) at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
+* \[2021.01\] A virtual talk at [IJCAI-20 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/IJCAI20-MAPF/).
 * \[2020.12\] A paper accepted to [AAMAS 2021](https://aamas2021.soton.ac.uk/).
 * \[2020.12\] A paper accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * \[2020.07\] A virtual talk at [2020 Harvard CRCS AI for Social Good Workshop](https://crcs.seas.harvard.edu/event/ai-social-good-workshop-2020).
@@ -28,7 +29,6 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 * \[2020.05\] A [virtual talk](https://underline.io/lecture/211-green-security-game-with-community-engagement) at [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 * \[2020.05\] A paper accepted to [COMPASS 2020](https://acmcompass.org/day-4).
 * \[2020.04\] A paper accepted to [IJCAI 2020](https://www.ijcai20.org/).
-
 * \[2020.03\] A talk at Harvard CRCS Workshop on AI for Social Impact.
 <details>
   <summary>Show more</summary>
