@@ -11,7 +11,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="https://safakhan413.github.io/files/safa.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://safakhan413.github.io/images/safa.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 A data-driven personal website
