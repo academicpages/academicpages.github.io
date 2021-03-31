@@ -16,6 +16,7 @@ author_profile: true
     **Taoan Huang**, Sven Koenig and Bistra Dilkina.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, 2021.     
  
+## 2020
 
 * [Enhancing Seismic Resilience of Water Pipe Networks](https://taoanhuang.github.io/files/compass20.pdf). 
     
@@ -34,6 +35,8 @@ author_profile: true
     **Taoan Huang**, Weiran Shen, David Zeng, Tianyu Gu, Rohit Singh and Fei Fang.
     <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, 2020       
     
+## 2019
+
 
 * [Dynamic Trip-Vehicle Dispatch with Scheduled and On-Demand Requests](https://taoanhuang.github.io/files/uai19.pdf).                     
     
