@@ -14,3 +14,5 @@ I received my B.E. in computer science from [Yao Class](https://iiis.tsinghua.ed
 
 My research interests lie in artificial intelligence, with a focus on multi-agent systems, combinatorial optimization, machine learning, computational game theory and computational sustainability.
 
+[CV](https://taoanhuang.github.io/files/TaoanCV.pdf)
+
