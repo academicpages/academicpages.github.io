@@ -11,7 +11,7 @@ author_profile: true
     <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, 2021        
     
 
-* [Learning to Resolve Conflicts for Multi-Agent Path Finding with Conflict-Based Search](https://taoanhuang.github.io/files/aamas21b.pdf). 
+* [Learning to Resolve Conflicts for Multi-Agent Path Finding with Conflict-Based Search](https://taoanhuang.github.io/files/aaai21c.pdf). 
     **Taoan Huang**, Sven Koenig and Bistra Dilkina.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, 2021.     
  
