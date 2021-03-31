@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Working Paper
+* Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search.    
+   **Taoan Huang**, Bistra Dilkina and Sven Koenig. 
+
 ## 2021  
 * [Learning to Select Nodes for Bounded-Suboptimal Conflict-Based Search for Multi-Agent Path Finding](https://taoanhuang.github.io/files/aamas21b.pdf).                     
     **Taoan Huang**, Bistra Dilkina and Sven Koenig.    
