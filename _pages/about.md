@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Taoan Huang"
+title: "About me"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
