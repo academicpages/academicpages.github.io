@@ -49,6 +49,8 @@ Existem 3 formas básicas de usar o SageMath:
 - Em uma [Instalação local](https://doc.sagemath.org/html/en/installation/index.html);
 - Executando células individuais no [SageMathCell](https://sagecell.sagemath.org/)
 
-## Exemplo
+## Exemplos
 
 [Geodésicas nulas na geometria de Schwarzscild (SageManifolds)](null_geodesics.html)
+
+[Algumas superfícies](https://rogeriotc.github.io/FUV/surf/)
