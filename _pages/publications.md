@@ -106,7 +106,7 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 * __Pinto-Ledezma, J.N__. 2006. Evolución del paisaje y estado de conservación de la reserva forestal el Choré. _Kempffiana, 1(2): 45-56_.
 
 ## Under review - revision
-* __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. (Under review). Predicting species distributions and community composition using remote sensing products. [Preprint](https://doi.org/10.1101/2020.07.06.185322)
+* __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. (Under review). Predicting species distributions and community composition using satellite remote sensing predictors. [Preprint](https://doi.org/10.21203/rs.3.rs-345639/v1)
 
 * Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. Journal of Applied Ecology. [Preprint](www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
 
