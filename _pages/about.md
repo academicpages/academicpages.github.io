@@ -28,6 +28,7 @@ Contact
 
 News
 ------
+* Apr 2, 2021, a conference paper named "_Evacuation Problem Under the Nuclear Leakage Accident_" is accepted by the 40th Chinese Control Conference (CCC2021)to be held on July 26-28, 2021 in Shanghai, China.
 * Jan 17, 2021, invited as reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021)
 * Apr 30, 2020, invited as reviewer for IEEE Transactions on Smart Grid (TSG) 
 
