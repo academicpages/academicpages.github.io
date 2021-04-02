@@ -53,4 +53,4 @@ Existem 3 formas básicas de usar o SageMath:
 
 [Geodésicas nulas na geometria de Schwarzscild (SageManifolds)](null_geodesics.html)
 
-[Algumas superfícies](https://rogeriotc.github.io/FUV/surf/)
+[Algumas superfícies de revolução](https://rogeriotc.github.io/FUV/surf/)
