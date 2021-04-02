@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Superfícies"
+title: "Superfícies de revolução"
 permalink: /FUV/surf/
 author_profile: true
 ---
 
-[Superfície de revolução - laterais de tronco de cone](https://rogeriotc.github.io/files/surf_rev.html)
+[Laterais de tronco de cone](https://rogeriotc.github.io/files/surf_rev.html)
 
-[Superfície de revolução - Seno](https://rogeriotc.github.io/files/revsin.html)
+[Função seno](https://rogeriotc.github.io/files/revsin.html)
 
-[Delimitado por duas curvas](https://rogeriotc.github.io/files/rev2ex.html)
+[Delimitada por duas curvas](https://rogeriotc.github.io/files/rev2ex.html)
