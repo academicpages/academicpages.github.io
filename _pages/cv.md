@@ -16,12 +16,15 @@ Education
 Work experience
 ======
 * **Data & Analytics Consultant**, CapTech Ventures Inc.			                  
-  * Richmond, Virginia, Jan. 2020 - Present
-  * Worked at a Fortune 100 bank as a Machine Learning Engineer with a team of data scientists to develop a dynamic penalty function to grade each business application by cyber risk by summarizing over 170 metrics across 4 domains.
-  * Formulated a penalty function, worked with subject matter experts (SMEs) to own the “Resiliency” domain within cyber risk, and developed and productionized the model in python and SQL on AWS.
+  * Columbus, Ohio, Jan. 2020 - Present
+  * **Software Developer - Python**, Fortune 200 Used Car Retailer
+    * Performed load performance and regression analytics and API development for ETL processes to better forecast the costs of enhancements for business decisions and prioritizations. 
+  * **Big Data / ML Engineer**, Fortune 100 Financial Services Company
+    * Worked at a Fortune 100 bank as a Machine Learning Engineer with a team of data scientists to develop a dynamic penalty function to grade each business application by cyber risk by summarizing over 170 metrics across 4 domains.
+    * Formulated a penalty function, worked with subject matter experts (SMEs) to own the “Resiliency” domain within cyber risk, and developed and productionized the model in python and SQL on AWS.
 
 
-* **Data Science Intern (Implementation Specialist)**, Nationwide Insurance
+* **Data Science Implementation Specialist Intern**, Nationwide Insurance
   * Columbus, Ohio, May 2019 - Dec. 2019
   * Worked in the Predictive Analytics department to formulate and develop a back end automated system and front end web application that monitors the performance of predictive models through a series of data visualizations. 
   * Handled all ETL processes in SQL and SPSS Modeler. Used Python and Django to visualize data in a web application. 
@@ -45,7 +48,7 @@ Work experience
 
 Skills
 ======
-* **Programming Languages**: Python, SQL, R, Java, Apache Spark, C++, Linux, Bash
+* **Programming Languages**: Python (Pandas, NumPy, Scikit-Learn, PySpark, PyTorch), SQL, R, Java, Apache Spark, C++, Linux, Bash
 * **Software**: Tableau, QuickSight, Power BI, SPSS Modeler
 * **Databases**: Snowflake, Hive, Teradata, SQLite, PostgreSQL Server, MS Access, AWS Redshift
 * Lean Six Sigma Yellow Belt Certified
