@@ -12,9 +12,15 @@ Yuke Wang is a third-year Ph.D. in <a href="https://www.cs.ucsb.edu">computer sc
 
 <p style="text-align: justify;"> 
 At UCSB, he is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. His research interests include high-performance computing and deep learning algorithms. His recent ongoing projects cover graph neural network (GNN) optimization and its acceleration on GPUs.
-<!-- His major interest is the irregular nature of the graph-related problem that significantly impedes the modern massively parallel GPU hardware from achieving satisfying performance. Therefore, he is particularly focusing on bridging such a gap between the upper-level application and underlying hardware will have a profound impact on the end-user experience. -->
-<!-- I have been working on projects in software-hardware co-design for distance-related algorithms, such as KNN, KMeans. I am also interested in deep learning, especially graph neural network (GNN) optimization and acceleration on heterogeneous platforms, such as GPUs. -->
 </p>
+
+
+> <b style="color:red">[New 3/16/21/]</b> *Our GNNAdvisor paper has been accepted to OSDI'21*.<br/>
+> <b style="color:red">[New 2/8/21/]</b> *Our TiAcc paper has been accepted to CCGrid'21*.<br/>
+> <b style="color:red">[12/8/20]</b> *Our DSXplore paper has been accepted to IPDPS'21, code has been open-sourced at [Github](https://github.com/YukeWang96/DSXplore)*.<br/>
+
+
+
 
 <!-- <iframe
   width="600"
