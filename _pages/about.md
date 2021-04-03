@@ -15,8 +15,8 @@ At UCSB, he is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/"
 </p>
 
 
-> <b style="color:red">[New 3/16/21/]</b> Our GNNAdvisor paper has been accepted to **OSDI'21**.<br/>
-> <b style="color:red">[New 2/8/21/]</b> Our TiAcc paper has been accepted to **CCGrid'21**.<br/>
+> <b style="color:red">[New 3/16/21]</b> Our GNNAdvisor paper has been accepted to **OSDI'21**.<br/>
+> <b style="color:red">[New 2/8/21]</b> Our TiAcc paper has been accepted to **CCGrid'21**.<br/>
 > <b style="color:red">[12/8/20]</b> Our DSXplore paper has been accepted to **IPDPS'21**, code has been open-sourced at [Github](https://github.com/YukeWang96/DSXplore).<br/>
 
 
