@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering, University of Queensland, Australia, 2022 (expected)
 
 Work experience
 ======
