@@ -7,6 +7,7 @@ author_profile: true
 
 
 # Teaching Experience
+- **CS5604@VT** Information Storage and Retrieval, Fall 2021
 - **[CS6604@VT](/cs6604SP21)** Data Challenges in Machine Learning, Spring 2021
 - **CS410@UIUC Text Information Systems**, Head TA for Fall 2018, Spring+Fall 2017 and TA, Fall 2016 
 - **CS125@UIUC Intro to Computer Science**, TA, Fall 2013
