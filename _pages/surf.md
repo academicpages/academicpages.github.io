@@ -10,3 +10,5 @@ author_profile: true
 [Função seno](https://rogeriotc.github.io/files/revsin.html)
 
 [Delimitada por duas curvas](https://rogeriotc.github.io/files/rev2ex.html)
+
+[Em torno de y](https://rogeriotc.github.io/files/revcos.html)
