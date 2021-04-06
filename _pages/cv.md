@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV [here](/assets/cv.pdf) - updated 4/6/21
+Download CV [here](/assets/AndrewMarderstein_CV.pdf) - updated 4/6/21
