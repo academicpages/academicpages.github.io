@@ -37,7 +37,7 @@ Infiltrating immune cells are prognostic of cancer progression and a tumor's res
 
 ## An atlas of immune infiltration across healthy human tissues
 
-<img src='/images/infil.png' width='550'>"
+<img src='/images/infil.png' width='250'>"
 
 ## Genetic factors associated with infiltration
 
