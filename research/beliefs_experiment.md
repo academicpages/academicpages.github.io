@@ -8,9 +8,8 @@ citation: 'Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advance
 [[Paper]](https://advances.sciencemag.org/content/5/7/eaau1156)
 [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCOZ6N)
 
-Media Coverage: [[New York Times]](https://mebucca.github.io/files/papers/beliefs_experiment_nyt.pdf) [[Washington Post]](https://mebucca.github.io/files/papers/beliefs_experiment_wp.pdf)
-[[New Scientists]](https://mebucca.github.io/files/papers/beliefs_experiment_ns.pdf) [[Science Daily]](https://mebucca.github.io/files/papers/beliefs_experiment_sd.pdf) [[Cornell Chronicle]](https://mebucca.github.io/files/papers/beliefs_experiment_cc.pdf)  
-
+Media Coverage: [New York Times](https://mebucca.github.io/files/papers/beliefs_experiment_nyt.pdf), [Washington Post](https://mebucca.github.io/files/papers/beliefs_experiment_wp.pdf),
+[New Scientists](https://mebucca.github.io/files/papers/beliefs_experiment_ns.pdf), [Science Daily](https://mebucca.github.io/files/papers/beliefs_experiment_sd.pdf), [Cornell Chronicle](https://mebucca.github.io/files/papers/beliefs_experiment_cc.pdf), [De Correspondent (in Dutch)](https://mebucca.github.io/files/papers/beliefs_experiment_dc.pdf), [Esquire (in Italian)](https://mebucca.github.io/files/papers/beliefs_experiment_es.pdf)
 
 ## Abstract
 
