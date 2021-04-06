@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Marderstein"
-  avatar           : "profile.png" # need to change!
+  avatar           : "AndrewMarderstein_Headshot_2.jpg" # need to change!
   bio              : "PhD candidate in the Tri-I Computational Biology & Medicine program. Interested in using genomics to better understand human disease."
   location         : "New York, NY | Ithaca, NY"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
