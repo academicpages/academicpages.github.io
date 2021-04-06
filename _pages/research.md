@@ -14,7 +14,7 @@ The interplay between genes and environment in human disease remains unclear. I 
 
 ## Statistical methods for discovering interactions
 
-<img src='/images/vqtl.png' width='50'>
+<img src='/images/vqtl.png' width='550'>
 
 ## Importance of gene-environment interactions in prediction
 
