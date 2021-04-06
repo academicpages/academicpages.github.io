@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Marderstein"
-  avatar           : "AndrewMarderstein_Headshot_2.jpg" # need to change!
+  avatar           : "AndrewMarderstein_Headshot_2.png" # need to change!
   bio              : "PhD candidate in the Tri-I Computational Biology & Medicine program. Interested in using genomics to better understand human disease."
   location         : "New York, NY | Ithaca, NY"
   employer         :
