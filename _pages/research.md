@@ -22,7 +22,7 @@ To address these difficulties, we make use of a previously characterized observa
 
 ## Importance of gene-environment interactions in prediction
 
-Bang.
+Polygenic scores are currently based on only marginal additive effects, and our research has identified strong GxE interactions influencing BMI variability. For example, variants in the FTO intron region (the strongest genetic regulators of obesity) are associated with a nearly double BMI increase in low exercise individuals compared to high exercise individuals. Interactions can perturb each individual from the expectation given a single genotype, and the ideal individual prediction would accommodate these interaction effects. An ongoing area is to explore whether polygenic scores that consider interaction effects improve phenotype prediction over polygenic scores that do not consider interaction effects. Simultaneously, we are interested in exploring to what extent polygenic score accuracy varies across sociocultural and lifestyle strata from trait to trait.
 
 ## Personalizing treatment regimens for disease prevention
 
