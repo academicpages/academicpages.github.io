@@ -22,7 +22,7 @@ Bang.
 
 ## Personalizing treatment regimens for breast cancer prevention
 
-Bang.
+<img src='/images/medication2.png' width='550'>
 
 # Immune infiltration
 
