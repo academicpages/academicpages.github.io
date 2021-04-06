@@ -14,13 +14,17 @@ The interplay between genes and environment in human disease remains unclear. I 
 
 ## Statistical methods for discovering interactions
 
+Efficiently identifying gene-environment (GxE) interactions remains an important statistical and computational challenge. Specialized wearable tracking devices and improvements in biomarker data are being explored, and the hope is that these will deliver a quantum improvement in the availability and accuracy of environmental data. However, GxE interaction testing suffers from a dimensionality problem when testing for the numerous interactions between genome-wide variants and many environmental factors.
+
 <img src='/images/vqtl.png' width='550'>
+
+To address these difficulties, we make use of a previously characterized observation that most GxE interactions with large effect size can be revealed as a change in the variance of a quantitative phenotype during a one-SNP-at-a-time genome-wide association study (GWAS). This insight lets us identify strong GxE interactions associated with a given quantitative trait via a two-step approach. First, we look for genome-wide SNPs that are associated with the variance of the trait, thus identifying what are known as variance quantitative trait loci (vQTLs). Second, we use these vQTLs to screen for potentially strong GxE interactions associated with the same phenotype. Scanning for vQTLs involves just a single test per SNP, so it provides a powerful inroad for discovering genetic interactions by nominating loci as promising candidates for an interaction. 
 
 ## Importance of gene-environment interactions in prediction
 
 Bang.
 
-## Personalizing treatment regimens for breast cancer prevention
+## Personalizing treatment regimens for disease prevention
 
 <img src='/images/medication2.png' width='550'>
 
@@ -28,7 +32,7 @@ Bang.
 
 Infiltrating immune cells are prognostic of cancer progression and a tumor's response to treatment. By using computational approaches in genomic and transcriptomic datasets, I am evaluating immune infiltration across healthy and cancerous tissues in the human body and searching for the major factors that drive individuals' differences.
 
-<img src='/images/infil.png'>"
+<img src='/images/infil.png' width='550'>"
 
 ## Genetic factors influence immune infiltration
 
