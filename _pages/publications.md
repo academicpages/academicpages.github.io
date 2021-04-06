@@ -24,9 +24,9 @@ author_profile: true
  
 ## Published:
 
-7. **Marderstein, A.R.**, Davenport, E.R., Van Hout, C.V., Kulm, S., Elemento, O.^, Clark, A.G.^ (2021). Leveraging phenotypic variability to identify genetic interactions in human phenotypes. *American Journal of Human Genetics* 108, 1-19. https://doi.org/10.1016/j.ajhg.2020.11.016
-      **> Cornell Chronicle highlight: “Cross-campus team probes gene-environment interactions”**
-      **> Weill Cornell Newsroom highlight: “Researchers simplify the study of gene-environment interactions”**
+7. **Marderstein, A.R.**, Davenport, E.R., Van Hout, C.V., Kulm, S., Elemento, O.^, Clark, A.G.^ (2021). Leveraging phenotypic variability to identify genetic interactions in human phenotypes. *American Journal of Human Genetics* 108, 1-19. https://doi.org/10.1016/j.ajhg.2020.11.016 <br />
+    **--> Cornell Chronicle highlight: “Cross-campus team probes gene-environment interactions”** <br />
+    **--> Weill Cornell Newsroom highlight: “Researchers simplify the study of gene-environment interactions”** <br />
 8. **Marderstein, A.R.**, Uppal, M., Verma, A., Bhinder, B., Tayyebi, Z., Mezey, J., Clark, A.G.*, Elemento, O.* (2020). Demographic and genetic factors influence the abundance of infiltrating immune cells in human tissues. *Nature Communications* 11, 2213. https://doi.org/10.1038/s41467-020-16097-9
 9. Castellanos, J.G., Woo, V., Viladomiu, M., Putzel, G., Lima, S., Diehl, G.E., **Marderstein, A.R.**, Gandara, J., Perez, A.R., Withers, D.R., Targan, S.R., Shih, D.Q., Scherl, E.J., Longman, R.S. (2018). Microbiota-induced TNF-like ligand 1A drives Group 3 innate lymphoid cell-mediated barrier protection and intestinal T cell activation during colitis. *Immunity*. 49(6):1077-1089.e5. doi: 10.1016/j.immuni.2018.10.014
 10. **Marderstein, A.R.** (2017). Approximate Bayesian Computation for Studying Selective Sweep Signatures in Local Coalescence Trees. Honors Thesis, College of Agriculture and Life Sciences, Cornell University. Supervisor: Philipp Messer.
