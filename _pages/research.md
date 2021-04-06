@@ -14,7 +14,7 @@ The interplay between genes and environment in human disease remains unclear. I 
 
 ## Statistical methods for discovering interactions
 
-Bang.
+<img src='/images/vqtl.png'>"
 
 ## Importance of gene-environment interactions in prediction
 
@@ -27,6 +27,8 @@ Bang.
 # Immune infiltration
 
 Infiltrating immune cells are prognostic of cancer progression and a tumor's response to treatment. By using computational approaches in genomic and transcriptomic datasets, I am evaluating immune infiltration across healthy and cancerous tissues in the human body and searching for the major factors that drive individuals' differences.
+
+<img src='/images/infil.png'>"
 
 ## Genetic factors influence immune infiltration
 
