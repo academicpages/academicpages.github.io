@@ -52,7 +52,7 @@ redirect_from:
 ## Publications
 
 {% for pub in site.data.publications %}
-  - {{ pub.citation }}{% if pub.doi %} doi: <a href="http://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>{% endif %}{% if pub.pmid %} pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ pub.pmid }}">{{ pub.pmid }}</a>{% endif %}
+  - {{ pub.citation }}{% if pub.doi %} doi: <a href="http://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>{% endif %}{% if pub.pmid %} pubmed: <a href="http://ncbi.nlm.nih.gov/pubmed/{{ pub.pmid }}">{{ pub.pmid }}</a>{% endif %} {% if pub.url %} <a href="{{ pub.url }}">link</a>{% endif %}
 {% endfor %}
 
 ## Talks & posters
