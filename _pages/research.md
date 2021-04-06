@@ -24,9 +24,12 @@ To address these difficulties, we make use of a previously characterized observa
 
 Polygenic scores are currently based on only marginal additive effects, and our research has identified strong GxE interactions influencing BMI variability. For example, variants in the FTO intron region (the strongest genetic regulators of obesity) are associated with a nearly double BMI increase in low exercise individuals compared to high exercise individuals. Interactions can perturb each individual from the expectation given a single genotype, and the ideal individual prediction would accommodate these interaction effects. An ongoing area is to explore whether polygenic scores that consider interaction effects improve phenotype prediction over polygenic scores that do not consider interaction effects. Simultaneously, we are interested in exploring to what extent polygenic score accuracy varies across sociocultural and lifestyle strata from trait to trait.
 
-## Personalizing treatment regimens for disease prevention
+## Personalizing treatment regimens for breast cancer prevention
 
 <img src='/images/medication2.png' width='550'>
+
+Breast cancer (BC) is the most commonly diagnosed cancer in women, with over 2 million new cases and 600,000 deaths in 2018. An individual’s genetics can considerably predispose individuals to be at high BC risk. While clinical measures for prevention do exist, non-invasive personalized measures for reducing BC risk are limited. Medications are a promising set of modifiable factors, however no previous study has explored whether a range of widely-taken approved drugs modulate BC genetics. Using UK Biobank, we are performing an extensive analysis of the interaction between BC genetic risk factors and medication usage, in an effort to reveal why some medication users experience adverse clinical outcomes or point to potential therapeutic repurposing opportunities for improving “poor” genetic risk.
+
 
 # Immune infiltration
 
