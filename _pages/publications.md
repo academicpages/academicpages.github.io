@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model](http://lantaoyu.com/publications/RAL21)</b> <br>
 Jiankai Sun, <b>Lantao Yu</b>, Pinqian Dong, Bo Lu, Bolei Zhou.
-<i>IEEE Robotics and Automation Letters</i>. <b>RA-L 2021</b>.
+<i>IEEE Robotics and Automation Letters</i>. <b>RA-L 2021</b> and <b>ICRA 2021</b>.
 
 <b>[Understanding self-supervised learning with dual deep networks](http://lantaoyu.com/publications/SSLTheory)</b> <br>
 Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli.

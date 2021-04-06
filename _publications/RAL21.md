@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/RAL21
 venue: "IEEE Robotics and Automation Letters (RA-L), 2021"
 date: 2018-4-12
-citation: 'Jiankai Sun, <b>Lantao Yu</b>, Pinqian Dong, Bo Lu, Bolei Zhou. <i>IEEE Robotics and Automation Letters</i>. <b>RA-L 2021</b>.'
+citation: 'Jiankai Sun, <b>Lantao Yu</b>, Pinqian Dong, Bo Lu, Bolei Zhou. <i>IEEE Robotics and Automation Letters</i>. <b>RA-L 2021</b> and <b>ICRA 2021</b>.'
 ---
-[[PDF]](https://ieeexplore.ieee.org/document/9361118?source=authoralert)
+[[PDF]](https://ieeexplore.ieee.org/document/9361118?source=authoralert) [[Code]](https://github.com/decisionforce/MAIRL)
 
 
 ## Abstract
