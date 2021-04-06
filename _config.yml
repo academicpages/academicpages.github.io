@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Andrew Marderstein"
+  avatar           : "profile.png" # need to change!
+  bio              : "PhD candidate in the Tri-I Computational Biology & Medicine program. Interested in using genomics to better understand human disease."
+  location         : "New York, NY | Ithaca, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=andrew+marderstein&sort=date"
+  googlescholar    : "https://scholar.google.co.in/citations?user=jzCcxqEAAAAJ&hl=en&authuser=1"
+  email            : "anm2868@med.cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/drewmard"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@amarderstein"
   vine             :
   weibo            :
   xing             :
