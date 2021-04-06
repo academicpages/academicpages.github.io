@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Marderstein's Site"
+title                    : "Andrew Marderstein"
 title_separator          : "-"
 name                     : &name "Andrew Marderstein"
 description              : &description "PhD Candidate | Tri-I Computational Biology & Medicine Program"
