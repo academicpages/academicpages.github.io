@@ -49,7 +49,6 @@ under second review at IEEE Transactions on Intelligent Transportation Systems
 Canqi Yao, Shibo Chen, and Zaiyue Yang
 under second review at IEEE Transactions on Smart Grid
 
-Vehicles
 
 Teaching
 ------
