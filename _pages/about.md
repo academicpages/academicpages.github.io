@@ -35,8 +35,28 @@ News
 
 Publications
 ------
-To be updated.
+* Evacuation Problem Under the Nuclear Leakage Accident
+Canqi Yao, Shibo Chen, and Zaiyue Yang
+2021 40th Chinese Control Conference (CCC)
 
+
+Submitted Manuscripts
+------
+* Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm
+Canqi Yao, Shibo Chen, and Zaiyue Yang
+under second review at IEEE Transactions on Intelligent Transportation Systems 
+* Online Distributed Routing Problem of Electric Vehicles
+Canqi Yao, Shibo Chen, and Zaiyue Yang
+under second review at IEEE Transactions on Smart Grid
+
+Vehicles
+
+Teaching
+------
+* Prolegomenon to Robotics
+Teaching Assistant, SUSTech: 2019-Spring
+* Optimization Method in Engineering
+Teaching Assistant, SUSTech: 2018-Fall
 
 
 
