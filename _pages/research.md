@@ -14,13 +14,13 @@ The interplay between genes and environment in human disease remains unclear. We
 
 ## Statistical methods for discovering interactions
 
-Specialized wearable tracking devices and improvements in biomarker data are being explored, and the hope is that these will deliver a quantum improvement in the availability and accuracy of environmental data. However, gene-environment (GxE) interaction testing suffers from a dimensionality problem when testing for the numerous possible interactions between genome-wide variants and many environmental factors. As a result, efficiently identifying gene-environment (GxE) interactions is an important statistical and computational challenge. 
+Specialized wearable tracking devices and improvements in biomarker data are being explored, and the hope is that these will deliver a quantum improvement in the availability and accuracy of environmental data. However, gene-environment (GxE) interaction testing suffers from a dimensionality problem when testing for the numerous possible interactions between genome-wide variants and many environmental factors. As a result, efficiently identifying GxE interactions is an important statistical and computational challenge. 
 
 <p align="center">
 <img src='/images/vqtl.png' width='450'>
 </p>
 
-To address these difficulties, we are making use of a previously characterized observation that most GxE interactions with large effect size can be revealed as a change in the variance of a quantitative phenotype during a one-SNP-at-a-time genome-wide association study (GWAS). This insight can identify strong GxE interactions associated with a given quantitative trait via a two-step approach. First, we look for genome-wide SNPs that are associated with the variance of the trait, thus identifying what are known as variance quantitative trait loci (vQTLs). Second, we use these vQTLs to screen for potentially strong GxE interactions associated with the same phenotype. Scanning for vQTLs involves just a single test per SNP, so it provides a powerful inroad for discovering genetic interactions by nominating loci as promising candidates for an interaction. We are developing variance tests, and applying our methods across phenotypes in large human genetic datasets.
+To address these difficulties, we are making use of a previously characterized observation that most GxE interactions with large effect size can be revealed as a change in the variance of a quantitative phenotype during a one-SNP-at-a-time genome-wide association study (GWAS). This insight can identify strong GxE interactions associated with a given quantitative trait via a two-step approach. First, we look for genome-wide SNPs that are associated with the variance of the trait, thus identifying what are known as variance quantitative trait loci (vQTLs). Second, we use these vQTLs to screen for potentially strong GxE interactions associated with the same phenotype. Scanning for vQTLs involves just a single test per SNP, so it provides a powerful inroad for discovering genetic interactions by nominating loci as promising candidates for an interaction. We are developing variance tests and applying our methods across phenotypes in large human genetic datasets.
 
 ## Importance of gene-environment interactions in prediction
 
@@ -43,7 +43,7 @@ Infiltrating immune cells are prognostic of cancer progression and a tumor's res
 
 <p align="center">
 <img src='/images/infil.png' width='250'>
-</p align="center">
+</p>
 
 One interesting observation based on histology slides by the GTEx consortium is that healthy tissues harbor infiltrating immune cells, and that there can be large differences in infiltration between samples of a single tissue type. Therefore, in order to understand disease-related infiltration, there is a need to understand the baseline healthy state. By applying cell-type deconvolution algorithms to bulk RNA-seq data in GTEx, we are assessing differences in infiltration across distinct tissues and evaluting the infiltration landscape across the human body. Our results have discovered sex-specific differences and aging-related associations in healthy tissue infiltration.
 
