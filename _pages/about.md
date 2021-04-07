@@ -45,10 +45,8 @@ Submitted Manuscripts
 
 Teaching
 ------
-* Prolegomenon to Robotics
-Teaching Assistant, SUSTech: 2019-Spring
-* Optimization Method in Engineering
-Teaching Assistant, SUSTech: 2018-Fall
+* Prolegomenon to Robotics<br/>Teaching Assistant, SUSTech: 2019-Spring
+* Optimization Method in Engineering<br/>Teaching Assistant, SUSTech: 2018-Fall
 
 
 
