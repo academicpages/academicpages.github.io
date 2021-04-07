@@ -16,7 +16,7 @@ The interplay between genes and environment in human disease remains unclear. I 
 
 Specialized wearable tracking devices and improvements in biomarker data are being explored, and the hope is that these will deliver a quantum improvement in the availability and accuracy of environmental data. However, GxE interaction testing suffers from a dimensionality problem when testing for the numerous interactions between genome-wide variants and many environmental factors. As a result, efficiently identifying gene-environment (GxE) interactions is an important statistical and computational challenge. 
 
-<img src='/images/vqtl.png' height='250'>
+<img src='/images/vqtl.png' width='450'>
 
 To address these difficulties, I am making use of a previously characterized observation that most GxE interactions with large effect size can be revealed as a change in the variance of a quantitative phenotype during a one-SNP-at-a-time genome-wide association study (GWAS). This insight can identify strong GxE interactions associated with a given quantitative trait via a two-step approach. First, I look for genome-wide SNPs that are associated with the variance of the trait, thus identifying what are known as variance quantitative trait loci (vQTLs). Second, I use these vQTLs to screen for potentially strong GxE interactions associated with the same phenotype. Scanning for vQTLs involves just a single test per SNP, so it provides a powerful inroad for discovering genetic interactions by nominating loci as promising candidates for an interaction. 
 
