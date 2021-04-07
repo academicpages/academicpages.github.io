@@ -14,7 +14,7 @@ The interplay between genes and environment in human disease remains unclear. I 
 
 ## Statistical methods for discovering interactions
 
-Efficiently identifying gene-environment (GxE) interactions remains an important statistical and computational challenge. Specialized wearable tracking devices and improvements in biomarker data are being explored, and the hope is that these will deliver a quantum improvement in the availability and accuracy of environmental data. However, GxE interaction testing suffers from a dimensionality problem when testing for the numerous interactions between genome-wide variants and many environmental factors.
+Specialized wearable tracking devices and improvements in biomarker data are being explored, and the hope is that these will deliver a quantum improvement in the availability and accuracy of environmental data. However, GxE interaction testing suffers from a dimensionality problem when testing for the numerous interactions between genome-wide variants and many environmental factors. As a result, efficiently identifying gene-environment (GxE) interactions is an important statistical and computational challenge. 
 
 <img src='/images/vqtl.png' height='250'>
 
@@ -28,7 +28,7 @@ Polygenic scores are currently based on only marginal additive effects, and our 
 
 <img src='/images/medication2.png' width='550'>
 
-Breast cancer (BC) is the most commonly diagnosed cancer in women, with over 2 million new cases and 600,000 deaths in 2018. An individual’s genetics can considerably predispose individuals to be at high BC risk. While clinical measures for prevention do exist, non-invasive personalized measures for reducing BC risk are limited. Medications are a promising set of modifiable factors, however no previous study has explored whether a range of widely-taken approved drugs modulate BC genetics. Using UK Biobank, we are performing an extensive analysis of the interaction between BC genetic risk factors and medication usage, in an effort to reveal why some medication users experience adverse clinical outcomes or point to potential therapeutic repurposing opportunities for improving “poor” genetic risk.
+Breast cancer (BC) is the most commonly diagnosed cancer in women, with over 2 million new cases and 600,000 deaths in 2018. While clinical measures for prevention do exist, non-invasive personalized measures for reducing BC risk are limited. Medications are a promising set of modifiable factors, however no previous study has explored whether a range of widely-taken approved drugs modulate BC genetics. Using UK Biobank, we are performing an extensive analysis of the interaction between BC genetic risk factors and medication usage, in an effort to reveal why some medication users experience adverse clinical outcomes or point to potential therapeutic repurposing opportunities for improving “poor” genetic risk.
 
 
 # Immune infiltration
@@ -38,6 +38,8 @@ Infiltrating immune cells are prognostic of cancer progression and a tumor's res
 ## An atlas of immune infiltration across healthy human tissues
 
 <img src='/images/infil.png' width='250'>"
+
+One interesting observation based on histology slides by the GTEx consortium is that healthy tissues have infiltrating immune cells, and there can be large differences in infiltration between samples of a single tissue type. Therefore, there is a need to understand the baseline healthy state of tissue infiltration to understand disease-related infiltration. By applying cell-type deconvolution algorithms to bulk RNA-seq data in GTEx, we are assessing the differences in infiltration across distinct tissues and evaluting the infiltration landscape across the healthy human body. Our results have discovered sex-specific differences and aging-related associations in tissue infiltration.
 
 ## Genetic factors associated with infiltration
 
