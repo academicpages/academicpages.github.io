@@ -14,7 +14,7 @@ The interplay between genes and environment in human disease remains unclear. I 
 
 ## Statistical methods for discovering interactions
 
-Specialized wearable tracking devices and improvements in biomarker data are being explored, and the hope is that these will deliver a quantum improvement in the availability and accuracy of environmental data. However, GxE interaction testing suffers from a dimensionality problem when testing for the numerous interactions between genome-wide variants and many environmental factors. As a result, efficiently identifying gene-environment (GxE) interactions is an important statistical and computational challenge. 
+Specialized wearable tracking devices and improvements in biomarker data are being explored, and the hope is that these will deliver a quantum improvement in the availability and accuracy of environmental data. However, gene-environment (GxE) interaction testing suffers from a dimensionality problem when testing for the numerous possible interactions between genome-wide variants and many environmental factors. As a result, efficiently identifying gene-environment (GxE) interactions is an important statistical and computational challenge. 
 
 <img src='/images/vqtl.png' width='450'>
 
