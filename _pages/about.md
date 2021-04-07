@@ -19,12 +19,6 @@ Research Interest
 1. Electrical routing problem considering uncertainties. 
 
 
-Contact
-------
-* Email: vulcanyao@gmail.com, 11849606@mail.sustech.edu.cn
-* Homepage: [here](https://vulcanyao.github.io) 
-
-
 
 News
 ------
@@ -49,6 +43,10 @@ Teaching
 * Optimization Method in Engineering<br/>Teaching Assistant, SUSTech: 2018-Fall
 
 
+Contact
+------
+* Email: vulcanyao@gmail.com, 11849606@mail.sustech.edu.cn
+* Homepage: [here](https://vulcanyao.github.io) 
 
 
 
