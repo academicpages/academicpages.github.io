@@ -39,11 +39,11 @@ Breast cancer (BC) is the most commonly diagnosed cancer in women, with over 2 m
 
 Infiltrating immune cells are prognostic of cancer progression and a tumor's response to treatment. By using computational approaches in genomic and transcriptomic datasets, we are evaluating immune infiltration across healthy and cancerous tissues in the human body and searching for the major factors that drive individuals' differences.
 
-## An atlas of immune infiltration across healthy human tissues
-
 <p align="center">
 <img src='/images/infil.png' width='360'>
 </p>
+
+## An atlas of immune infiltration across healthy human tissues
 
 One interesting observation based on histology slides by the GTEx consortium is that healthy tissues harbor infiltrating immune cells, and that there can be large differences in infiltration between samples of a single tissue type. Therefore, in order to understand disease-related infiltration, there is a need to understand the baseline healthy state. By applying cell-type deconvolution algorithms to bulk RNA-seq data in GTEx, we are assessing differences in infiltration across distinct tissues and evaluting the infiltration landscape across the human body. Our results have discovered sex-specific differences and aging-related associations in healthy tissue infiltration.
 
