@@ -46,7 +46,6 @@ Teaching
 Contact
 ------
 * Email: vulcanyao@gmail.com, 11849606@mail.sustech.edu.cn
-* Homepage: [here](https://vulcanyao.github.io) 
 
 
 
