@@ -35,9 +35,7 @@ News
 
 Publications
 ------
-* Evacuation Problem Under the Nuclear Leakage Accident
-\n Canqi Yao, Shibo Chen, and Zaiyue Yang
-\n 2021 40th Chinese Control Conference (CCC)
+* Canqi Yao, Shibo Chen, and Zaiyue Yang."Evacuation Problem Under the Nuclear Leakage Accident." 2021 40th Chinese Control Conference (CCC). IEEE, 2021.
 
 
 Submitted Manuscripts
