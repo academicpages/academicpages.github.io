@@ -16,7 +16,9 @@ Research Interest
 ------
 1. Fast algorithm in joint routing and charging problem of electrical vehicles.
 2. Online routing problem of electrical vehicles.
-1. Electrical routing problem considering uncertainties. 
+3.  Bilevel electrical vehicles routing problem considering uncertainties. 
+4. Electrical vehicles routing problem with time of use electricity price. 
+
 
 
 
