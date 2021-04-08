@@ -14,9 +14,10 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
+ 
+  - title: "Mathlog (for Japanese)"
+    url: /mathlog/
+   
   - title: "CV"
     url: /cv/
     
-  - title: "Mathlog (for Japanese)"
-    url: /mathlog/
