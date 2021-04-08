@@ -10,9 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 
 * 2020 --     : Master's course at [Department of Mathematics, Faculty of Science and Technology, Tokyo University of Science](https://www.tus.ac.jp/en/fac/riko/math.html)
 
 * 2016 -- 2020: Undergraduate course at [Department of Mathematics, Faculty of Science and Technology, Tokyo University of Science](https://www.tus.ac.jp/en/fac/riko/math.html)
 
+## Degree
+
+* Bachelor of Science
+  * Department of Mathematics, Faculty of Science and Technology, Tokyo University of Science, March 2020.
+  * Supervisor: [Hisanori OHASI](Department of Mathematics, Faculty of Science and Technology, Tokyo University of Science)
