@@ -43,7 +43,7 @@ If the Markov chain is periodic, it may not converge to a steady state distribut
 \\[
 M = RDL  =
 \begin{bmatrix} | & |  \\\\ \mathbf{1} & Z  \\\\ | & |  \end{bmatrix}
-\begin{bmatrix} 1 &  0 \\\\  & z  \end{bmatrix}
+\begin{bmatrix} 1 &  \\\\  &   \end{bmatrix}
 \begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \end{bmatrix}
 \\]
 
@@ -58,3 +58,13 @@ M = RDL  =
 \begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \\\\ -& A' & - \end{bmatrix}
 \\]
 with $Z = $.  
+<<<<<<< HEAD
+=======
+
+
+
+Markov Decision Processes
+
+Solving a Markov decision process can be thought of as d
+
+>>>>>>> 37278ef46a8fde295dc0065f96587ea3788f32ef
