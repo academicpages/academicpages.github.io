@@ -6,6 +6,8 @@ permalink: /math/markov_decision_processes
 ---
 
 
+CHECKING IF THIS UPDATES...
+
 Markov chains can be used to represent a discrete time stochastic transition process between states.  The probability of transition from one state to another only depends on the current state, not on previous states.  This is actually a less restrictive assumption than one might assume since one can incorporate previous history by augmenting the state space (although there would be however a pretty substantial increase in the size of the problem.)
 
 
@@ -25,7 +27,7 @@ where the columns of $R$ and rows of $L$ are right and left eigenvectors respect
 
 Figure 1 illustrates mass evolution of a Markov chain.  Figure 2 illustrates a Markov transition matrix where show the columns of $M$ within a symplex.    Figures 3 and 4 illustrates the forward evolution of the Markov chain.  Note from Figure 3 that $\rho_{t+1}$ is always a convex combination of the columns of $M$ (since $\rho_t$ lives on the simplex).  In this case, the state distribution eventually converges to some final distribution, $\bar{\rho}$.  
 
-[FIGURE 1] [ FIGURE 2] 
+[FIGURE 1] [ FIGURE 2]
 [FIGURE 3] [FIGURE 4]
 
 This final distribution is called the steady state distribution and satisfies $\bar{\rho} = M\bar{\rho}$, i.e. $\bar{\rho}$ or in other words $\bar{\rho}$ is an eigenvector of $M$ with eigenvalue $1$.   Note from Figure 3, one can see also that if all the columns of $M$ are in the interior of the symplex ($M > 0$, elementwise), then the update equation is a contraction map on the simplex and as a result (due to Brouwer's fixed point theorem), the stationary distribution is the unique fixed point of the update map.  This is known as the Perron-Frobenius theorem.  If some entries of $M$ equal 0, then $M$ may have multiple steady state distributions (the Markov chain has more than one irreducible subset) or not converge at all (the Markov chain is periodic).  
@@ -56,8 +58,3 @@ M = RDL  =
 \begin{bmatrix} - & \mathbf{1}^T & - \\\\ - & Z'  & - \\\\ -& A' & - \end{bmatrix}
 \\]
 with $Z = $.  
-
-
-
-
-
