@@ -11,5 +11,20 @@ I am Ryoya ANDO (安藤 遼哉 in Japanecse), a master's student at [Tokyo Unive
 
 This page is currently under construction! 
 
+E mail: andou_ryoya [at] ma.noda.tus.ac.jp or ryoya31026 [at] gmail.com
+
+## Research Areas
+---
+- Commutative Algebra (Commutative ring)
+- Homological Algebra
+- Algebraic Geometry
+
+## Research Interests
+---
+- Non Noetherian ring (Extension of theory about Noetherian rings to NON-Noetherian rings)
+- Derived category
+- Homological Conjecture
+- Mathematical logic (especially, Axiom of Choice and Grothendieck Universe)
+
 Thanks: Kirie Yasuda for supporting English grammatically.
 
