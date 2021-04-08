@@ -9,6 +9,7 @@ redirect_from:
 ---
 I am Ryoya ANDO (安藤 遼哉 in Japanecse), a master's student at [Tokyo University of Science (TUS)](https://www.tus.ac.jp/en/fac/riko/math.html).
 
+Studing on Commutative Algebra, especially Non-Noetherian rings. I'm intrested in TeX. 
 This page is currently under construction! 
 
 E mail: andou_ryoya [at] ma.noda.tus.ac.jp or ryoya31026 [at] gmail.com
