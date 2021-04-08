@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ryoya ANDO"
+title: "Ryoya ANDO（安藤　遼哉）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
