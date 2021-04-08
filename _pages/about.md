@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ryoya ANDO's home on the web! This page is currently under construction! 
+This page is currently under construction! 
 
 Thanks: Kirie Yasuda for supporting English grammatically.
 
