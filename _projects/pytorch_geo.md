@@ -1,6 +1,7 @@
 ---
 title: "Deep Graph Infomax - Inductive training"
-permalink: /teaching/2020-imperial-machinelearning
+permalink: /teaching/pytorch_geo
+collection: projects
 date: 2020-10-01
 pull_request: https://github.com/rusty1s/pytorch_geometric/pull/1859/files
 
