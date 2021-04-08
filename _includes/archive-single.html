@@ -65,5 +65,8 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.pull_request %}
+     <p> {{[<a href="{{ post.pull_request }}"><u>PULL_REQUEST</u></a>]}}
+
   </article>
 </div>
