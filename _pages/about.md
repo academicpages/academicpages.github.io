@@ -13,7 +13,7 @@ This page is currently under construction!
 
 E mail: andou_ryoya [at] ma.noda.tus.ac.jp or ryoya31026 [at] gmail.com
 
-For more information , see [CV](https://ryoya9826.github.io/cv/)
+For more information , see [CV](https://ryoya9826.github.io/cv/).
 ## Research Areas
 ---
 - Commutative Algebra (Commutative ring)
