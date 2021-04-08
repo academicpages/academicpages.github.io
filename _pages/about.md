@@ -28,5 +28,5 @@ For more information , see [CV](https://ryoya9826.github.io/cv/).
 - Mathematical logic (especially, Axiom of Choice and Grothendieck Universe)
 
 ### Thanks: 
-- Kirie Yasuda for supporting English grammatically.
+ Kirie Yasuda for supporting English grammatically.
 
