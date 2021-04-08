@@ -19,4 +19,4 @@ redirect_from:
 
 * Bachelor of Science
   * Department of Mathematics, Faculty of Science and Technology, Tokyo University of Science, March 2020.
-  * Supervisor: [Hisanori OHASI](Department of Mathematics, Faculty of Science and Technology, Tokyo University of Science)
+  * Supervisor: [Hisanori OHASI](https://www.ma.noda.tus.ac.jp/u/oh/index.html)
