@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Ryoya ANDO's home on the web! This page is under constracting now! 
+This is Ryoya ANDO's home on the web! This page is under construction now! 
 
