@@ -26,5 +26,7 @@ E mail: andou_ryoya [at] ma.noda.tus.ac.jp or ryoya31026 [at] gmail.com
 - Homological Conjecture
 - Mathematical logic (especially, Axiom of Choice and Grothendieck Universe)
 
-Thanks: Kirie Yasuda for supporting English grammatically.
+# Thanks: 
+---
+- Kirie Yasuda for supporting English grammatically.
 
