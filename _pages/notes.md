@@ -13,5 +13,5 @@ I do **NOT** guarantee the accuracy of these notes.
 ## Mathlog
 
 ## Others 
-- [可換環論の基礎](/files/ring.pdf), last modified : 2021/04/08
+- [可換環論の基礎（未完）](/files/ring.pdf), last modified : 2021/04/08
 - hoge
