@@ -10,3 +10,5 @@ redirect_from:
 
 This is Ryoya ANDO's home on the web! This page is under construction now! 
 
+Thanks: Kirie Yasuda for helping English grammatically support.
+
