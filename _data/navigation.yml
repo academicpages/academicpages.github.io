@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
  
-  - title: "Mathlog (for Japanese)"
-    url: /mathlog/
+  - title: "Notes (for Japanese)"
+    url: /Notes/
    
   - title: "CV"
     url: /cv/
