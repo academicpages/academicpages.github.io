@@ -4,7 +4,7 @@ output:
   html_document:
     self_contained: false
     keep_md: true
-    includes:
+    includes:  
       in_header: "header_include_d3.html"
 ---
 
