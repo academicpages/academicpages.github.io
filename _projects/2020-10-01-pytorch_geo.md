@@ -1,8 +1,9 @@
 ---
 title: "Deep Graph Infomax - Inductive training"
-permalink: /projects/pytorch_geo
+permalink: /projects/2020-10-01-pytorch_geo
 collection: projects
 date: 2020-10-01
+excerpt: ''
 pull_request: https://github.com/rusty1s/pytorch_geometric/pull/1859/files
 
 ---

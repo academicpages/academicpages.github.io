@@ -188,7 +188,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
-    outpyt: true
+    output: true
     permalink: /:collection/:path/
 
 
