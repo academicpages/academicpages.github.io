@@ -26,7 +26,7 @@ My research interests lie in the intersection of Data Science, Big Data, Machine
 - **December, 2020:** Will be teaching a new seminar course,[CS6604: Data Challenges in Machine Learning](https://isminoula.github.io/cs6604SP21/). 
 - **December, 2020:** Happy to be recognized as an [Outstanding Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf?p=30) for EMNLP 2020.
 - **November, 2020:** Will be joining the Computer Science Department at Virginia Tech as assistant professor.
-- **November, 2019:** Defended my PhD thesis: Data Quality in the Deep Learning era and joined IBM Research.
+- **November, 2019:** Defended my PhD thesis: Data Quality in the Deep Learning Era and joined IBM Research.
 - **October, 2019:** Attending [ISWC 2019](https://iswc2019.semanticweb.org/) in Auckland, NZ (travel award)
 - **August, 2019:** Selected to participate in the [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) workshop
 
