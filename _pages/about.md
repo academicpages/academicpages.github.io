@@ -28,4 +28,4 @@ Research
 CV
 ======
 
-Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/CV_TaesungPark_20200925.pdf)
+Here's my [CV](https://rehoon.github.io/files/CV_JH.pdf)
