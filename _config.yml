@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taesung Park"
+title                    : "Jaehoon Cho"
 title_separator          : "-"
-name                     : &name "Taesung Park"
-description              : &description "Ph.D. Student at UC Berkeley"
+name                     : &name "Jaehoon Cho"
+description              : &description "Ph.D. Student at Yonsei University"
 url                      : https://taesungp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taesungp/taesungp.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taesung Park"
+  name             : "Jaehoon Cho"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student at UC Berkeley. Advised by Alexei Efros"
   location         : "Berkeley, CA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=hHkuxSUAAAAJ&hl=en"
-  email            : taesung_park@berkeley.edu
+  googlescholar    : "https://scholar.google.com/citations?user=5ixrVS8AAAAJ&hl=ko"
+  email            : rehoon@yonsei.ac.kr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "taesungp"
+  github           : "rehoon"
   google_plus      :
   keybase          :
   instagram        :
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:  	Asia/Seoul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
