@@ -25,35 +25,6 @@ Research
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CycleGAN.jpg" alt=""> </figure> | **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**<br/>Jun-Yan Zhu*, **Taesung Park\***, Phillip Isola, and Alexei A. Efros<br/>ICCV 2017 (Spotlight, * indicates equal contribution) <br/>[project](https://junyanz.github.io/CycleGAN/) \| [PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) \| [Torch](https://github.com/junyanz/CycleGAN) \| [paper](https://arxiv.org/pdf/1703.10593.pdf)|
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.png" alt=""> </figure> |  **Inverse Optimal Control for Humanoid Locomotion**<br/>**Taesung Park**, Sergey Levine<br/>RSS Workshop on Inverse Optimal Control & Robotic Learning from Demonstration, 2013<br/>[paper]({{ site.url }}{{ site.baseurl }}/files/humanioc.pdf)|
 
-Teaching
-======
-
-CS194-26 at UC Berkeley. Image Manipulation and Computational Photography. [link](https://inst.eecs.berkeley.edu/~cs194-26/fa18/)  
-Fall 2018. Head TA 
-
-CS188 at UC Berkeley. Introduction to Artificial Intelligence. [link](https://inst.eecs.berkeley.edu/~cs188/)  
-Spring 2017. TA
-
-CS148 at Stanford. Intro to Computer Graphics and Imaging.   
-Summer 2012. Course Assistant. 
-
-Recorded Talks
-======
-
-- Talk at [GAMES](http://games-cn.org/) Webinar [link](https://www.bilibili.com/video/BV1e7411c7kR?p=47)
-- CVPR 2020 Tutorial on Neural Rendering [link](https://www.neuralrender.com/)
-- SIGGRAPH 2019 Real-Time Live! [link](https://youtu.be/Gz9weuemhDA?t=2883)
-- CVPR 2019 Deep Learning for Content Creation Tutorial. [link](https://nvlabs.github.io/dl-for-content-creation/)
-- ISMRM 2018 Workshop on Machine Learning. [link](https://www.ismrm.org/workshops/2018/Machine/program.htm)
-- CVPR 2018 Tutorial on GANs. [link](https://youtu.be/EXLRZr0k8ok?t=46m36s)  
-- ICCV 2017 Spotlight talk on CycleGAN [link](https://www.youtube.com/watch?v=AxrKVfjSBiA&feature=youtu.be)   
-- ICCV 2017 Live Demo [link](https://www.youtube.com/watch?v=chi6aBvLMT0)  
-- Talk at Naver (June 2017) [link](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)  
-
-Photography
-=======
-
-I like to take short trips from campus and shoot photos of the beautiful Californian nature. You can view them [here](https://500px.com/taesungpark)
 
 CV
 ======
