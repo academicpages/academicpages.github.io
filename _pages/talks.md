@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Introduction to change point detection, with applications to physiological signals. *Data Innovation Lab (DIL), EDF* (Virtual seminar, 2<sup>nd</sup> April 2021)
+
+- Introduction to change point detection, with applications to physiological signals. *MSCMed, Université Paris-Diderot* (Virtual seminar, 9<sup>th</sup> March 2021)
+
+- Introduction to change point detection, with applications to physiological signals. *Centre Borelli, ENS Paris-Saclay* (Virtual seminar, 2<sup>nd</sup> February 2021)
+
 - Change point detection in Python. *Autorités des marchés financiers (AMF)* (Virtual seminar, 6<sup>th</sup> January 2021) [[slides]](http://deepcharles.github.io/files/seminar-amf-06Jan21.pdf)
 
 - Change point detection in Python. *Parietal, INRIA* (Virtual seminar, 1<sup>st</sup> December 2020) [[slides]](http://deepcharles.github.io/files/seminar-parietal-01Dec20.pdf)
