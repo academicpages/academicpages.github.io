@@ -15,7 +15,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
  
-  - title: "Notes (for Japanese)"
+  - title: "Notes"
     url: /notes/
     
   - title: "LaTeX Packages"
