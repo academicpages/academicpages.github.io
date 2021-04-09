@@ -22,10 +22,10 @@ My research interests lie in the intersection of Data Science, Big Data, Machine
 # News
 
 - **April, 2020:** Will be teaching [CS5604: Information Storage and Retrieval](https://isminoula.github.io/cs5604/) in Fall 2021 (more details soon). 
-- **March, 2020:** Our multimodal Chest X-ray data published in [Nature Scientific Data](https://www.nature.com/articles/s41597-021-00863-5) with a short [blog post](https://researchdata.springernature.com/posts/creation-and-validation-of-a-chest-x-ray-dataset-with-eye-tracking-and-report-dictation-for-ai-development?channel_id=behind-the-paper) description.
+- **March, 2020:** Our multimodal Chest X-ray data was recently published in [Nature Scientific Data](https://www.nature.com/articles/s41597-021-00863-5), accompanied with a short [blog](https://researchdata.springernature.com/posts/creation-and-validation-of-a-chest-x-ray-dataset-with-eye-tracking-and-report-dictation-for-ai-development?channel_id=behind-the-paper) describing the work. We show that utilizing eye-gaze information can lead to improved performance and guide the model to produce more accurate activation maps.
 - **December, 2020:** Will be teaching a new seminar course,[CS6604: Data Challenges in Machine Learning](https://isminoula.github.io/cs6604SP21/). 
 - **December, 2020:** Happy to be recognized as an [Outstanding Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf?p=30) for EMNLP 2020.
-- **November, 2020:** Will be joining Virginia Tech, Department of Computer Science as tenured-track assistant professor.
+- **November, 2020:** Will be joining the Computer Science Department at Virginia Tech as tenured-track assistant professor.
 - **November, 2019:** Successfully defended my PhD thesis: Data Quality in the Deep Learning era. Will be joining IBM Research at the end of November.
 - **October, 2019:** Attending [ISWC 2019](https://iswc2019.semanticweb.org/) in Auckland, NZ (travel award)
 - **August, 2019:** Selected to participate in the [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) workshop
