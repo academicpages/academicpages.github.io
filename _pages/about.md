@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at UC Berkeley, advised by [Prof. Alexei Efros](https://people.eecs.berkeley.edu/~efros/). 
-I study computer vision and learning-based computational photography. I interned at Adobe in 2019, working with [Richard Zhang](https://richzhang.github.io/). I interned at NVIDIA, working with [Ming-Yu Liu](http://www.mingyuliu.net/) in summer 2018. I received B.S. in Mathematics and M.S. in Computer Science, both at Stanford University. During my Master’s program, I was advised by [Vladlen Koltun](http://vladlen.info/) and [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/). I am funded by Samsung Scholarship for my Ph.D. study, and a recipient of [Adobe Research Fellowship 2020](https://adoberesearch.ctlprojects.com/fellowship/previous-fellowship-award-winners/). 
+I am a Ph.D. student in Electronic Engineering at Yonesei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
+#I study computer vision and learning-based computational photography.
+I have experienced many computer vision tasks such as 2D/3D computer vision (monocular depth estimation and confidence measure estimation), bad weather restoration (de-raining), and future frame prediction with future frame segmentation, and anomaly detection. 
+
+#I received B.S. in Electronic and Information Engineering at Korea Aerospace University in 2016 and I am planning to get Joint M.S./Ph.D in Electrical and #Electronic Engineering at Yonsei University, in February 2022.
+
 
 Research
 ======
