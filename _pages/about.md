@@ -11,10 +11,9 @@ redirect_from:
 I am a Ph.D. student in Electronic Engineering at Yonesei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
 I have experienced many computer vision tasks such as 2D/3D computer vision (monocular depth estimation and confidence measure estimation), bad weather restoration (de-raining), and future frame prediction with future frame segmentation, and anomaly detection. 
 
----
-#I study computer vision and learning-based computational photography.
-#I received B.S. in Electronic and Information Engineering at Korea Aerospace University in 2016 and I am planning to get Joint M.S./Ph.D in Electrical and #Electronic Engineering at Yonsei University, in February 2022.
----
+
+
+
 
 Research
 ======
