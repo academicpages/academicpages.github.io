@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaehoon Cho"
-  avatar           : "profiles.jpg"
+  avatar           : "https://rehoon.github.io/images/profiles.jpg"
   bio              : "Ph.D. Student at Yonsei University."
   location         : "Yonsei University, Seoul"
   employer         :
