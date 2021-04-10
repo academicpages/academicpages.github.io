@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Bayesian ML"
 collection: teaching
-type: "Undergraduate course"
+type: "Guest lecture"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "CSE, IIT Gandhinagar"
+date: 2021-03-27
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Notebook](https://github.com/explain-ml/explain-ml/blob/main/notebooks/2021-March-23-bayesian-ml.ipynb)
