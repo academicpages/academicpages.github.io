@@ -1,1 +1,1 @@
-[Website](https://patel-zeel.github.io/website)
+[patel-zeel.github.io](https://patel-zeel.github.io)
