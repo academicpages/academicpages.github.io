@@ -26,7 +26,7 @@ redirect_from:
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using SphereRepresentation and Center Points Matching</b> <br> 
  <b>Xiangde Luo</b>, Tao Song, Guotai Wang,  Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
  <i>Submitted to </i><b>Medical Image Analysis</b>.<br>
-  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/Luoxd1996/SCPMNet)][[Code](https://github.com/HiLab-git/SCPM-Net)]
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/HiLab-git/SCPM-Net)]
   
 * <b>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation</b> <br> 
   Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
@@ -49,7 +49,7 @@ redirect_from:
 * <b>CPM-Net: A 3D Center-Points Matching Network for Pulmonary Nodule Detection in CT Scans</b> <br> 
   Tao Song*, Jieneng Chen*, <b>Xiangde Luo</b>, Yechong Huang, Xinglong Liu, Ning Huang, Yinan Chen, Zhaoxiang Ye, Huaqiang Sheng, Shaoting Zhang, Guotai Wang<br>
   <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2020 (early accepted)</b>.<br>
- [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/Luoxd1996/SCPMNet)][[Code](https://github.com/HiLab-git/SCPM-Net)]
+ [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/HiLab-git/SCPM-Net)]
  
  * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
