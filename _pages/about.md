@@ -15,6 +15,9 @@ Previously, I worked in CTO's R&D team at <a style="text-decoration:none" href="
 
 Updates
 ======
+**2021**
+* **7-10 Apr** - Attended Google Graduate Symposium 2021 - [Notes](https://patel-zeel.github.io/Google-Symposium-2021/)
+* **8 Mar** - Cleared PhD Qualifiers exam
 **2020**
 * **22 Dec** - A Journal paper titled, “Vartalaap: What Drives #AirQuality Discussions: Politics,Pollution or Pseudo-science?” accepted in ACM CSCW 2020
 * **15 Oct** - A Poster accepted at SenSys 2020 - <a style="text-decoration:none" href="https://dl.acm.org/doi/pdf/10.1145/3384419.3430407">A toolkit for spatial interpolation and sensor placement</a>
