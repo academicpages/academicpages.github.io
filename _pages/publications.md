@@ -10,17 +10,17 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 
 ## 2021
 * **GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks** <br>
-Yi Li, **Yilun Jin**, Guojie Song, Zihao Zhu, Chuan Shi, Yiming Wang. To appear in *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021
+Yi Li, **Yilun Jin**, Guojie Song, Zihao Zhu, Chuan Shi, Yiming Wang. In *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021
 
 ## 2020
 * **GraLSP: Graph Neural Networks with Local Structural Patterns** \[[pdf](https://kl4805.github.io/files/aaai20.pdf)\]\[[code](https://github.com/KL4805/GraLSP)\] <br>
 **Yilun Jin**, Guojie Song, Chuan Shi. In *The 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020
 
 * **Graph Structural-topic Neural Network** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3394486.3403150)\]\[[code](https://github.com/YimiAChack/GraphSTONE)\]\[[slides](https://kl4805.github.io/files/GraphSTONE_slides.pdf)\]<br>
-Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Yi Li, Wei Lin. To appear in *The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2020
+Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Yi Li, Wei Lin. In *The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2020
 
 * **EPNE: Evolutionary Pattern Preserving Network Embedding** \[[pdf](http://ecai2020.eu/papers/528_paper.pdf)\] <br>
-Junshan Wang<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Xiaojun Ma. To appear in *The 24th European Conference on Artificial Intelligence (ECAI)*, 2020
+Junshan Wang<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Xiaojun Ma. In *The 24th European Conference on Artificial Intelligence (ECAI)*, 2020
 
 * **Domain Adaptive Classification on Heterogeneous Information Networks** \[[pdf](https://www.ijcai.org/Proceedings/2020/0196.pdf)\]<br>
 Shuwen Yang, Guojie Song, **Yilun Jin**, Lun Du. To appear in *The 29th International Joint Conference on Artificial Intelligence (IJCAI-PRICAI)*, 2020. 
