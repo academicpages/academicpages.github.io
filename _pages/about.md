@@ -24,7 +24,7 @@ redirect_from:
 # Publications (* means equal contribution)
 
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using SphereRepresentation and Center Points Matching</b> <br> 
- <b>Xiangde Luo*</b>, Tao Song*, Guotai Wang,  Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
+ <b>Xiangde Luo</b>*, Tao Song*, Guotai Wang,  Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
  <i>Submitted to </i><b>Medical Image Analysis</b>.<br>
   [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/HiLab-git/SCPM-Net)]
   
