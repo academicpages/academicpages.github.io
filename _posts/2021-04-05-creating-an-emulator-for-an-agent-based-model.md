@@ -154,7 +154,7 @@ plt.xlabel('Death rate'), plt.ylabel('Transmission probability'), plt.colorbar(l
 
 
     
-![png](images/2021-04-05-spatial-abm-emulator_19_0.png)
+![png](/images/2021-04-05-spatial-abm-emulator_19_0.png)
     
 
 
@@ -271,7 +271,7 @@ plt.colorbar(label='Posterior mean'), plt.title('Posterior mean surface');
 
 
     
-![png](images/2021-04-05-spatial-abm-emulator_30_1.png)
+![png](/images/2021-04-05-spatial-abm-emulator_30_1.png)
     
 
 
@@ -288,6 +288,6 @@ plt.colorbar(label='Posterior variance'), plt.title('Posterior variance surface'
 
 
     
-![png](images/2021-04-05-spatial-abm-emulator_32_0.png)
+![png](/images/2021-04-05-spatial-abm-emulator_32_0.png)
     
 
