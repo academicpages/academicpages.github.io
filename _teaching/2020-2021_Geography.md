@@ -1,7 +1,7 @@
 ---
 title: "Grado en Geografía y Ordenación del Territorio"
 collection: teaching
-type: "Bachelor"
+type: "Grado"
 permalink:
 venue: "Facultad de Geografía e Historia, Universidad Complutense de Madrid"
 date: 2020-11-18

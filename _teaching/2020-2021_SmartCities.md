@@ -1,10 +1,10 @@
 ---
-title: "MSc in Smart and Sustainable Cities"
+title: "Máster Univiersitario en Ciudades Inteligentes y Sostenibles"
 collection: teaching
-type: "MSc"
+type: "Posgrado"
 permalink:
-venue: "Faculty of Geography & History, Complutense University of Madrid"
+venue: "Facultad de Geografía e Historia, Universidad Complutense de Madrid"
 date: 2020-10-01
-location: "Madrid, Spain"
+location: "Madrid, España"
 ---
-* Subject: Introducción a las Tecnologías de Información Geográfica (2020-2021)
+* Asignatura: Introducción a las Tecnologías de Información Geográfica (2020-2021)
