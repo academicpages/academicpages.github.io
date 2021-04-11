@@ -106,7 +106,7 @@ Presentation & Science Communication
 * [Activate to Captivate](https://www.activatetocaptivate.com/) a monthly newsletter that gives tips on communication skills by Bri McWhorter
 * [ComSciCon](https://comscicon.com/) - a series of workshops on science communication 
 * [SCOPE (Science Communication Online Programme)](https://ciera.northwestern.edu/programs/scope/) hosted by Northwestern University
-* [xkcd Simple Writer](https://xkcd.com/simplewriter/) a fun web app that tells when the words you use aren't listed in the top 1000 most common words  
+* [xkcd Simple Writer](https://xkcd.com/simplewriter/) a fun app that tells when the words you use aren't listed in the top 1000 most common words  
 
 <br>
 
