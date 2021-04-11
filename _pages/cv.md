@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## Educación
 
 * Ph.D in Architecture and Civil Engineering, Granada University, 2017  
   (Department of Urbanism and Spatial Planning)
@@ -17,19 +17,19 @@ redirect_from:
 * M.Sc. in Geographic Information Systems, UNIGIS - Girona University, 2010
 * B.Sc. in Environmental Sciences, Granada University, 2008
 
-## Publications
+## Publicaciones
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Teaching
+## Docencia
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Talks
+## Ponencias y cursos
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}

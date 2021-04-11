@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Academic website"
-excerpt: "About me"
+title: "Perfil Académico"
+excerpt: "Sobre mi"
 author_profile: true
 redirect_from:
   - /about/
