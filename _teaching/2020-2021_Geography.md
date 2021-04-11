@@ -1,11 +1,11 @@
 ---
-title: "B.Soc.Sc. in Geography and Spatial Planning"
+title: "Grado en Geografía y Ordenación del Territorio"
 collection: teaching
 type: "Bachelor"
 permalink:
-venue: "Faculty of Geography & History, Complutense University of Madrid"
+venue: "Facultad de Geografía e Historia, Universidad Complutense de Madrid"
 date: 2020-11-18
-location: "Madrid, Spain"
+location: "Madrid, España"
 ---
-* Subject: Sistemas de Información Geográfica (I) (2020-2021)
-* Subject: Sistemas de Información Geográfica (II) (2018-2020)
+* Asignatura: Sistemas de Información Geográfica (I) (2020-2021)
+* Asignatura: Sistemas de Información Geográfica (II) (2018-2020)

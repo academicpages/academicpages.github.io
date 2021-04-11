@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "About"
+  - title: "Sobre mi"
     url: /about/
 
-  - title: "Affiliations"
+  - title: "Afiliaciones"
     url: /affiliations/
 
-  - title: "Publications"
+  - title: "Publicaciones"
     url: /publications/
 
-  - title: "Teaching"
+  - title: "Docencia"
     url: /teaching/
 
-  - title: "Talks"
+  - title: "Cursos y ponencias"
     url: /talks/
 
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
   - title: "CV"
