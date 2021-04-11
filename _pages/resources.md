@@ -99,13 +99,14 @@ Academic Writing
 
 <br> 
 
-Presentation
+Presentation & Science Communication
 ======
 * a nature article on [how scientific presentation is different from a journal article](https://www.nature.com/articles/d41586-020-03300-6)
 * [Morrison billborad poster](http://betterposters.blogspot.com/2019/04/critique-morrison-billboard-poster.html) - an award-winning poster style that helps you make quick converational poster
 * [Activate to Captivate](https://www.activatetocaptivate.com/) a monthly newsletter that gives tips on communication skills by Bri McWhorter
 * [ComSciCon](https://comscicon.com/) - a series of workshops on science communication 
 * [SCOPE (Science Communication Online Programme)](https://ciera.northwestern.edu/programs/scope/) hosted by Northwestern University
+* [xkcd Simple Writer](https://xkcd.com/simplewriter/) a fun web app that tells when the words you use aren't listed in the top 1000 most common words  
 
 <br>
 
