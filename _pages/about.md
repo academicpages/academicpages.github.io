@@ -18,14 +18,14 @@ I have experienced computer vision tasks such as 2D/3D computer vision (monocula
 Research
 ======
 
-| <figure style="width: 120px"> <img src="https://rehoon.github.io/images/eswa3.png" alt=""> </figure> | **Deep Monocular Depth Estimation Leveraging a Large-scale Outdoor Stereo Dataset**<br/>**Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br/>Expert Systems With Applications **(ESWA)**, Mar. 2021 (Impact Factor: **5.452**) <br/>[project](https://dimlrgbd.github.io/) \| [paper](https://rehoon.github.io/files/Depth_ESWA2021.pdf) \| [technical report](https://rehoon.github.io/files/technical_report.pdf) |
-| <figure style="width: 120px"> <img src="https://rehoon.github.io/images/tip.png" alt=""> </figure> | **Single Image Deraining using Time-laspe data**<br/>**Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 29, pp. 7274-7289, Jun. 2020 (Impact factor: **9.340**)<br/>[paper](https://rehoon.github.io/files/derain_TIP2020.pdf) |
-| <figure style="width: 120px"> <img src="https://rehoon.github.io/images/sensors.png" alt=""> </figure> | **Pyramid Inter-Attention for High Dynamic Range Imaging**<br/> Sungil Choi, **Jaehoon Cho**, Wonil Song, Jihwan Choe, Jisung Yoo, Kwanghoon Sohn <br/> **Sensors**, vol. 20, pp. 5102, Jun. 2020 (Impact factor: **3.031**) <br/>[paper](https://rehoon.github.io/files/HDR_SENSORS2020.pdf) |
-| <figure style="width: 120px"> <img src="https://rehoon.github.io/images/ICME.png" alt=""> </figure> | **Multi-task Self-supervised Visual Representation Learning for Monocular RoadSegmentation**<br/>**Jaehoon Cho**, Youngjung Kim, Hyungjoo Jung, Changjae Oh, Jaesung Youn, Kwanghoon Sohn Sohn<br/>IEEE International Conference on Multimedia and Expo **(ICME)** 2018 **(Oral Presentation)**  <br/>[paper](https://rehoon.github.io/files/road_ICME2018.pdf) |
+| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/eswa3.png" alt=""> </figure> | **Deep Monocular Depth Estimation Leveraging a Large-scale Outdoor Stereo Dataset**<br/>**Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br/>Expert Systems With Applications **(ESWA)**, Mar. 2021 (Impact Factor: **5.452**) <br/>[project](https://dimlrgbd.github.io/) \| [paper](https://jhcho90.github.io/files/Depth_ESWA2021.pdf) \| [technical report](https://jhcho90.github.io/files/technical_report.pdf) |
+| <figure style="width: 120px"> <img src="https://rehoon.github.io/images/tip.png" alt=""> </figure> | **Single Image Deraining using Time-laspe data**<br/>**Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 29, pp. 7274-7289, Jun. 2020 (Impact factor: **9.340**)<br/>[paper](https://jhcho90.github.io/files/derain_TIP2020.pdf) |
+| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/sensors.png" alt=""> </figure> | **Pyramid Inter-Attention for High Dynamic Range Imaging**<br/> Sungil Choi, **Jaehoon Cho**, Wonil Song, Jihwan Choe, Jisung Yoo, Kwanghoon Sohn <br/> **Sensors**, vol. 20, pp. 5102, Jun. 2020 (Impact factor: **3.031**) <br/>[paper](https://jhcho90.github.io/files/HDR_SENSORS2020.pdf) |
+| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/ICME.png" alt=""> </figure> | **Multi-task Self-supervised Visual Representation Learning for Monocular RoadSegmentation**<br/>**Jaehoon Cho**, Youngjung Kim, Hyungjoo Jung, Changjae Oh, Jaesung Youn, Kwanghoon Sohn Sohn<br/>IEEE International Conference on Multimedia and Expo **(ICME)** 2018 **(Oral Presentation)**  <br/>[paper](https://jhcho90.github.io/files/road_ICME2018.pdf) |
 
 
 
 CV
 ======
 
-Here's my [CV](https://rehoon.github.io/files/CV_JH.pdf)
+Here's my [CV](https://jhcho90.github.io/files/CV_JH.pdf)
