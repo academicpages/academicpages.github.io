@@ -23,12 +23,13 @@ author_profile: true
 - Yunfei Song, Tian Liu, Tongquan Wei, **Xiangfeng Wang**, Zhe Tao and Mingsong Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. *IEEE Transactions on Industrial Informatics*, accepted, 2020.
 
 ## 2021
+- **Qisen Xu**, **Qian Wu**, **Hu Yiqiu**, **Bo Jin**, B. Hu, F. Zhu, Y. Li and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. *IJCNN*, 2021.
 - **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, **Junjie Sheng**, **Yun Hua** and **Hongyuan Zha**, Structured Diversification Emergence via Reinforced Organization Control and Hierachical Consensus Learning. *AAMAS* (oral), 2021. [arxiv](https://arxiv.org/abs/2102.04775)
 
 ## 2020
-- **Xiangfeng Wang**, Junping Zhang and Wenxing Zhang, The Distance Between Convex Sets with Minkowski Sum Structure: Application to Collision Detection. *Computational Optimization and Applications*, 77, 2020, pp.465–490.
+- **Xiangfeng Wang**, J. Zhang and W. Zhang, The Distance Between Convex Sets with Minkowski Sum Structure: Application to Collision Detection. *Computational Optimization and Applications*, 77, 2020, pp.465–490.
 - M. Hong, T.-H. Chang, **Xiangfeng Wang**, M. Razaviyayn, S. Ma and Z.-Q. Luo, A Block Successive Upper Bound Minimization Method of Multipliers for Linearly Constrained Convex Optimization. *Mathematics of Operations Research*, 45(3), 2020, pp.833-861.
-- **Xin Li**, **Xiangfeng Wang**, **Bo Jin**, **Wenjie Zhang**, Jun Wang and **Hongyuan Zha**, VSB$^2$-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing. *ICPR*, 2020.
+- **Xin Li**, **Xiangfeng Wang**, **Bo Jin**, **Wenjie Zhang**, J. Wang and **Hongyuan Zha**, VSB$^2$-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing. *ICPR*, 2020.
 - **Junjie Wang**, **Xiangfeng Wang**, **Bo Jin**, J. Yan, W. Zhang and **Hongyuan Zha**, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. *ICPR*, 2020.
 - X. Liao, **Wenhao Li**, **Qisen Xu**, **Xiangfeng Wang**, **Bo Jin**, X. Zhang, Y. Zhang and Y. Wang, Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning. *CVPR*, 2020.
 - **Xin Li**, X. Wen, **Bo Jin**, **Xiangfeng Wang**, **Junjie Wang** and **Jinghui Cai**, Visual-to-Semantic Hashing for Zero Shot Learning. *IJCNN*, 2020.
