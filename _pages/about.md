@@ -19,6 +19,8 @@ My research interests include Natural Language Processing, Machine Learning, wit
 
 News    
 ======
+<span style="color:red">[4.2021]</span> Two papers got accepted by the Journal of Biomedical Informatics (JBI)!   
+
 <span style="color:red">[12.2020]</span> Our paper was accepted by AMIA 2021 Virtual Informatics Summit!    
 
 <span style="color:red">[12.2020]</span> I will serve as the TPC member for The Seventh International Conference on Big Data, Small Data, Linked Data and Open Data (ALLDATA) 2021!<br />
