@@ -11,11 +11,10 @@ redirect_from:
 
 ## Educación
 
-* Ph.D in Architecture and Civil Engineering, Granada University, 2017  
-  (Department of Urbanism and Spatial Planning)
-* M.Sc. in Urbanism, Spatial Planning and Environment, Granada University, 2010
-* M.Sc. in Geographic Information Systems, UNIGIS - Girona University, 2010
-* B.Sc. in Environmental Sciences, Granada University, 2008
+* Doctor en Ciencias Ambientales. Universidad de Granada, 2017. Programa en Ingeniería Civil y Arquitectura.    
+* Diploma de Estudios Avanzados. Universidad de Granada, 2010. Programa en Urbanística, Ordenación del Territorio y Medio Ambiente.  
+* Máster en Gestión de Sistemas de Información Geográfica. Universidad de Girona, 2010.  
+* Licenciatura en Ciencias Ambientales. Universidad de Granada, 2008.  
 
 ## Publicaciones
 
