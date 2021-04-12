@@ -1,19 +1,27 @@
 ---
-title: "LabBee: General-purpose laboratory automation assistant"
-excerpt: "LabBee: General-purpose laboratory automation assistant"
+title: "LabBee: General-purpose microscopy automation assistant"
+excerpt: "LabBee: General-purpose microscopy automation assistant"
 sitemap: false
 permalink: /LabBee/
 author_profile: false
 ---
 
-### Scientists are busy people. In the same way that Amazon Alexa has revolutionized the home virtual assistant, LabBee strives to become the standard virtual assistant for scientists worldwide.
+### Control your microscope with a voice assistant!
 
 ## About
 - General-purpose lab automation assistant powered by **Amazon Alexa**
 - Enables **voice control of scientific equipment and software**
 - Integrates with other Alexa devices and features (smart sockets, timers, calendars, etc)
 
-## Installation
+## Preview
+
+*In these demonstrations, Amazon Alexa calls the LabBee custom skill. LabBee is being used to control an Olympus microscope via open-source [Micro-Manager](https://micro-manager.org/) software.*
+
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7ksrQ13pbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MtSdDXN6GyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Current features
 
@@ -34,16 +42,6 @@ Currently, LabBee can be used to control microscopes by interfacing with the ope
 | "Start the acquisition" / "Acquire"   | Starts acquisition if it is already set up.|
 
 
-## Sample interactions
+## Contact
 
-*In these demonstrations, Amazon Alexa calls the LabBee custom skill. LabBee is being used to control an Olympus microscope via open-source [Micro-Manager](https://micro-manager.org/) software.*
-
-<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q7ksrQ13pbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MtSdDXN6GyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-## Known issues
+Contact [Ilya Kolb](mailto:koljr2005@gmail.com)

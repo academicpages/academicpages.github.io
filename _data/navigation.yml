@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
 
@@ -14,8 +17,5 @@ main:
 #   - title: "Blog"
 #     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "LabBee"
-    url: /LabBee/
+#  - title: "LabBee"
+#    url: /LabBee/
