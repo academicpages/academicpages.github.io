@@ -13,14 +13,14 @@ author_profile: true
 - **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. 2020. [arxiv](https://arxiv.org/abs/2002.04238)
 
 ## Book Chapters
-- Xiaoling Fu, Bingsheng He, **Xiangfeng Wang** and Xiaoming Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. *Splitting Algorithms, Modern Operator Theory, and Applications*, 2019.
+- X. Fu, B. He, **Xiangfeng Wang** and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. *Splitting Algorithms, Modern Operator Theory, and Applications*, 2019.
 
 ## Accepted Paper List
 - C. Ma, **Qisen Xu**, **Xiangfeng Wang**, **Bo Jin**, X. Zhang, Y. Wang and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. *IEEE Transactions on Medical Imaging*, accepted, 2021.
 - **Wenyan Liu**, **Chuyun Shen**, **Xiangfeng Wang**, **Bo Jin**, X. Lu, X. Wang, **Hongyuan Zha** and J. He, Fairness in Trustworthy Machine Learning: A Survey. *Journal of Software*, accepted, 2020. (Chinese version)
-- **Xiangfeng Wang**, Jane Ye, Xiaoming Yuan, Shangzhi Zeng and Jin Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2020.
+- **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2020.
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, accepted, 2020.
-- Yunfei Song, Tian Liu, Tongquan Wei, **Xiangfeng Wang**, Zhe Tao and Mingsong Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. *IEEE Transactions on Industrial Informatics*, accepted, 2020.
+- Y. Song, T. Liu, T. Wei, **Xiangfeng Wang**, Z. Tao and M. Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. *IEEE Transactions on Industrial Informatics*, accepted, 2020.
 
 ## 2021
 - **Qisen Xu**, **Qian Wu**, **Hu Yiqiu**, **Bo Jin**, B. Hu, F. Zhu, Y. Li and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. *IJCNN*, 2021.
