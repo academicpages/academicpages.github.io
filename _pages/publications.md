@@ -9,7 +9,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## Ongoing Statistical Methods Papers
 
-**On the Evaluation of Surrogate Markers in Real World Data Settings**.    
+**[On the Evaluation of Surrogate Markers in Real World Data Settings](https://arxiv.org/abs/2104.05513)**.    
 *2021 ENAR Distinguished Student Paper Award.*    
 **Han L,** Wang X, Cai T.  
 This paper provides doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
