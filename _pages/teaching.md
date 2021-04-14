@@ -10,4 +10,5 @@ author_profile: true
 
 2020-2021 Acamedic Year:   
 2020, Autumn, Computer Graphics (undergraduate).
+2021, Spring, Digital Image Processing (undergraduate).
 
