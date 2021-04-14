@@ -45,7 +45,5 @@ Talks/Presentations
 
 
 ------
-
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=C4byDrEvOWlkQBPck4uhnEYVbsB_VEy0fAJC1qmic1s&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353"></script>
+<a href='https://clustrmaps.com/site/1bg2c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=300&t=n&d=C4byDrEvOWlkQBPck4uhnEYVbsB_VEy0fAJC1qmic1s&co=ffffff&ct=808080'/></a>
 
