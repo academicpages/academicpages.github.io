@@ -21,7 +21,7 @@ Children of Immigrants in Western Europe: Between Assimilation and Disadvantage]
 <b>[Educational assortative marriage and income inequality among Black and White families in the US, 1976-2017](http://mebucca.github.io/research/eam_us)</b><br>
 <b>Mauricio Bucca</b>. 
 
-<b>[Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France](http://mebucca.github.io/research/sm2geu)</b><br>
+<b>[Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France](http://mebucca.github.io/research/obm)</b><br>
 <b>Mauricio Bucca</b>, Lucas Drouhot. 
 
 
