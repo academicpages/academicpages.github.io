@@ -108,11 +108,11 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 ## Under review - revision
 * __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. (Under review). Predicting species distributions and community composition using satellite remote sensing predictors. [Preprint](https://doi.org/10.21203/rs.3.rs-345639/v1)
 
-* Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. Journal of Applied Ecology. [Preprint](www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
+* Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. Proceedings of the Royal Society: Biological Sciences. [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
 
-* Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. (Under review). How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach. Genetica. [Preprint](https://doi.org/10.1101/2020.02.20.958637)
+* Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. (Under review). How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach. Genetica. [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1)
 
-* Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. (Second revision). Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). Proceedings of the Royal Society: Biological Sciences. [Preprint](https://doi.org/10.1101/2020.06.17.157891)
+* Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. (Under review). Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). Proceedings of the Royal Society: Biological Sciences. [Preprint](https://www.biorxiv.org/content/10.1101/2020.06.17.157891v1.full)
 
 ## Book and chapters non peer reviewed
 * Mostacedo, B., M. Toledo, D. Villarroel, __J.N. Pinto-Ledezma__, G. Carreño-Rocabado, B. Flores & Y. Uslar. 2014. Memorias del IV Congreso Boliviano de Ecología. 4-6 de junio 2014. Universidad Autónoma Gabriel Rene Moreno, Santa Cruz, Bolivia.
