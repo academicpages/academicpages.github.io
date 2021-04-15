@@ -14,7 +14,7 @@ To test these arguments, I focus on rebel movements tied to ethnic groups with d
 
 ## Working paper
 
-Rob Williams. "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts." Conditionally accepted at *Conflict management and Peace Science*.
+Rob Williams. "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts." Accepted at *Conflict management and Peace Science*.
 
 > There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts. I argue that this relative paucity of secessionist violence is the result of government preemption of potential secessionist movements. Using cross-national geospatial data from 1992 to 2013, I find that governments invest more, measured via nighttime light emissions, in more secession-prone regions. The same factors that make territory attractive for secession, such as large populations and international borders, also make governments willing to work to retain control of that territory, contributing to the scarcity of separatist civil conflicts.
 
