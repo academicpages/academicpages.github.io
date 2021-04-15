@@ -38,9 +38,11 @@ redirect_from:
 
 - **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. With Andrea Canales (UOH). <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **Data collection**
 
-- **The Bus of Inequality: Public Transportation and COVID in Santiago**. With Felix Modrego and Andrea Canales. <br/> [[Abstract]]https://github.com/hbahamonde/Bus/raw/main/abstract.txt). **Data analyses**
+- **The Bus of Inequality: Public Transportation and COVID in Santiago**. With Felix Modrego and Andrea Canales. <br/> [[Abstract]](https://github.com/hbahamonde/Bus/raw/main/abstract.txt). **Data analyses**
 
 - **Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times**. With Paz Irarrazabal (U-Chile). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt). **Data analyses**
+
+- **Machine Learning and Political Ideology in the U.S.: An Experimental Case Study using SMOTE**. With Cristobal Quininao (UOH). **Data analyses**
 
 - **Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations**. With Natalia Bahamonde (PUCV-Chile) and Igor Kovac (U Cincinnati). <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt). **Data analyses**
 
