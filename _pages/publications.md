@@ -35,4 +35,9 @@ In Proc. of AAAI 2019 (long): The 33rd AAAI Conference on Artificial Intelligenc
 In Proc. of SIGIR 2018 (short): The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1229--1232. Ann Arbor, MI, USA, July 8--12, 2018.  
 <br/>
   
+Selected Co-authored Publications:
+* **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
+Jiahao Zhao, **Penghui Wei**, Wenji Mao  
+In Proc. of SIGIR 2021 (short): The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (_to appear_).
+
   
