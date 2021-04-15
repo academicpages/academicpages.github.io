@@ -12,7 +12,7 @@ In this research I ask why some rebel groups fight for secession and independenc
 
 To test these arguments, I focus on rebel movements tied to ethnic groups with defined homelands. By doing so, I am able to exploit geospatial data on population and government activity to compare the governability of subnational territories cross-nationally. I also explore the temporal dynamics of these phenomena in smaller scale studies focusing on different government preemption tactics. I explore how states actually conduct this surveillance of their populations, using an agent-based model to predict when these monitoring efforts are likely to fail. Such simulation based approaches help us understand the role that information and communication technology can play in helping governments main control of restive regions.
 
-## Working paper
+## Article
 
 Rob Williams. "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts." Accepted at *Conflict management and Peace Science*.
 
