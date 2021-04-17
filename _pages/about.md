@@ -11,7 +11,6 @@ redirect_from:
 Hi! I am now a final-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Information Retrieval and Natural Language Processing. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2016.  
 <br/>
   
-
 Research Interests
 ======
 My research targets at developing machine learning methods to analyze Web contents, especially in low-resource (e.g., cross-domain transfer, learning with noisy labels, and sequence generation with few paired data), multi-task, multi-modal and adversarial attack scenarios. Currently, I focus on the following areas:
@@ -21,7 +20,6 @@ Stance analysis and computational argumentation synthesis
 Determine the correctness of textual claims and structured triples in knowledge graphs      
 <br/>
   
-  
 Education
 ======
 * **Sep. 2016 - Jun. 2021 (expected).** Ph.D. Student, Majoring in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
@@ -29,6 +27,15 @@ Education
 * **Sep. 2009 - Jul. 2012.** [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School), Tianjin, China.  
 <br/>
   
+Experiences
+=====
+[Experiences](determined22.github.io/experiences)
+<br/>
+  
+Publications
+======
+[Publications](determined22.github.io/publications)
+<br/>
   
 Awards
 ======
@@ -45,12 +52,10 @@ Awards
 * 2014 & 2015, National Scholarships, Ministry of Education   
 <br/>
   
-  
 Services
 =====
 * Program Committee Member or Reviewer: ACL (2021), AAAI (2021, 2020), IJCAI (2021, 2020, 2019).  
 <br/>
-  
   
 Misc
 ======
