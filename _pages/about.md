@@ -18,15 +18,16 @@ Stance analysis and computational argumentation synthesis
 * **Rumor verification and fact checking**  
 Determine the correctness of textual claims and structured triples in knowledge graphs      
 
-Education
+Experiences and Education
 ======
+
+**Experiences**  
+[Experiences](experiences/)  
+
+**Education**  
 * **Sep. 2016 - Jun. 2021 (expected).** Ph.D. Student, Majoring in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
 * **Sep. 2012 - Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering), [Wuhan University (WHU)](https://en.whu.edu.cn/), Wuhan, China. Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
 * **Sep. 2009 - Jul. 2012.** [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School), Tianjin, China.  
-
-Experiences
-=====
-[Experiences](experiences/)
 
 Publications
 ======
