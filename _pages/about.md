@@ -26,11 +26,11 @@ Education
 
 Experiences
 =====
-[Experiences](determined22.github.io/experiences/)
+[Experiences](#experiences/)
 
 Publications
 ======
-[Publications](determined22.github.io/publications/)
+[Publications](#publications/)
 
 Awards
 ======
