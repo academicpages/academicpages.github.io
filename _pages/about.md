@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 Hi! I am now a final-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. My major research interests are Information Retrieval and Natural Language Processing. Prior to CASIA, I obtained my B.Eng. degree from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2016.  
-<br/>
-  
+
 Research Interests
 ======
 My research targets at developing machine learning methods to analyze Web contents, especially in low-resource (e.g., cross-domain transfer, learning with noisy labels, and sequence generation with few paired data), multi-task, multi-modal and adversarial attack scenarios. Currently, I focus on the following areas:
@@ -18,25 +17,21 @@ My research targets at developing machine learning methods to analyze Web conten
 Stance analysis and computational argumentation synthesis
 * **Rumor verification and fact checking**  
 Determine the correctness of textual claims and structured triples in knowledge graphs      
-<br/>
-  
+
 Education
 ======
 * **Sep. 2016 - Jun. 2021 (expected).** Ph.D. Student, Majoring in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
 * **Sep. 2012 - Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering), [Wuhan University (WHU)](https://en.whu.edu.cn/), Wuhan, China. Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
 * **Sep. 2009 - Jul. 2012.** [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School), Tianjin, China.  
-<br/>
-  
+
 Experiences
 =====
 [Experiences](determined22.github.io/experiences)
-<br/>
-  
+
 Publications
 ======
 [Publications](determined22.github.io/publications)
-<br/>
-  
+
 Awards
 ======
 * 2020, Pollyanna Chu Yuet Wah Scholarship for Outstanding PhD Student, University of Chinese Academy of Sciences (UCAS)
@@ -50,17 +45,13 @@ Awards
 * 2015, Chinese Academy of Sciences Scholarship for College Students (rewarding top 10% students with postgraduate recommendation), UCAS
 * 2015, First Prize in the 10th Freescale Cup Smart Car Competition (Magnetic Navigation Double-Car Group, South China), Teaching Steering Committee on Automation, Department of Higher Education under the Ministry of Education
 * 2014 & 2015, National Scholarships, Ministry of Education   
-<br/>
-  
+
 Services
 =====
 * Program Committee Member or Reviewer: ACL (2021), AAAI (2021, 2020), IJCAI (2021, 2020, 2019).  
-<br/>
-  
+
 Misc
 ======
 * [Here](https://www.cnblogs.com/Determined22/) is my technology blog (in Chinese). I wrote some notes about machine learning and natural language processing techniques.
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 * I am a yo-yo player, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers are Hiroyuki Suzuki and Jake Elliott. 
-  
-  
