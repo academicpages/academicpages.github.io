@@ -26,11 +26,11 @@ Education
 
 Experiences
 =====
-[Experiences](#experiences/)
+[Experiences](experiences/)
 
 Publications
 ======
-[Publications](#publications/)
+[Publications](publications/)
 
 Awards
 ======
