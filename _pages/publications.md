@@ -16,23 +16,32 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-+ <b style="color:blue">[OSDI-2021]</b> **Yuke Wang**, Boyuan Feng, Gushu Li, Shuangchen Li, Lei Deng, Yuan Xie, Yufei Ding. ***GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs.*** *USENIX Symposium on Operating Systems Design and Implementation*.
++ <b style="color:blue">[OSDI-2021]</b>
+**Yuke Wang**, Boyuan Feng, Gushu Li, Shuangchen Li, Lei Deng, Yuan Xie, Yufei Ding. ***GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs.*** *USENIX Symposium on Operating Systems Design and Implementation*.
 
-+ <b style="color:blue">[CCGrid-2021]</b> **Yuke Wang**, Boyuan Feng, Gushu	Li,	Georgios Tzimpragos,	Lei	Deng, Yuan	Xie, Yufei	Ding. ***TiAcc: Triangle-inequality based Hardware Accelerator for K-means on FPGAs.*** *IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*.
++ <b style="color:blue">[CCGrid-2021]</b> 
+**Yuke Wang**, Boyuan Feng, Gushu	Li,	Georgios Tzimpragos,	Lei	Deng, Yuan	Xie, Yufei	Ding. ***TiAcc: Triangle-inequality based Hardware Accelerator for K-means on FPGAs.*** *IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*.
 
-+ <b style="color:blue">[ICASSP-2021]</b>  Boyuan Feng, **Yuke Wang**, Yufei Ding. ***Sparse Adversarial Attack on EEG-based Brain Computer Interface*** *IEEE International Conference on Acoustics, Speech, Signal Processing*.
++ <b style="color:blue">[ICASSP-2021]</b> 
+Boyuan Feng, **Yuke Wang**, Yufei Ding. ***Sparse Adversarial Attack on EEG-based Brain Computer Interface*** *IEEE International Conference on Acoustics, Speech, Signal Processing*.
 
-+ <b style="color:blue">[AAAI-2021}]</b>  Boyuan Feng, **Yuke Wang** Yufei Ding. ***UAG: Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks.*** *AAAI Conference on Artificial Intelligence*.
++ <b style="color:blue">[AAAI-2021}]</b> 
+Boyuan Feng, **Yuke Wang**, Yufei Ding. ***UAG: Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks.*** *AAAI Conference on Artificial Intelligence*.
 
-+ <b style="color:blue">[PPoPP-2021] </b> Boyuan Feng, **Yuke Wang** Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding. ***TCVM: Accelerating Scientific Computing on Tensor Cores with Extended Precision.*** *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming}
++ <b style="color:blue">[PPoPP-2021] </b> 
+Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding. ***TCVM: Accelerating Scientific Computing on Tensor Cores with Extended Precision.*** *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*.
 
-+ <b style="color:blue">[IPDPS-2021] </b> **Yuke Wang** Boyuan Feng, Yufei Ding. ***DSXplore: Optimizing Convolutional Neural Networks via Sliding-Channel Convolutions.*** *IEEE International Parallel & Distributed Processing Symposium*.
++ <b style="color:blue">[IPDPS-2021] </b> 
+**Yuke Wang**, Boyuan Feng, Yufei Ding. ***DSXplore: Optimizing Convolutional Neural Networks via Sliding-Channel Convolutions***. *IEEE International Parallel & Distributed Processing Symposium*.
 
-+ <b style="color:blue">[ICTAI-2020] </b> *Boyuan Feng, ***Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding. ***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization. \*: equal contribution.*** *International Conference on Tools with Artificial Intelligence*
++ <b style="color:blue">[ICTAI-2020] </b> 
+Boyuan Feng, **Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding. ***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization.*** \*: equal contribution. *International Conference on Tools with Artificial Intelligence*.
 
-+ <b style="color:blue">[ICML-2020] </b> Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang** Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. ***Boosting Deep Neural Network Efficiency with Dual-Module Inference.*** *International Conference on Machine Learning*.
++ <b style="color:blue">[ICML-2020] </b> 
+Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. ***Boosting Deep Neural Network Efficiency with Dual-Module Inference.*** *International Conference on Machine Learning*.
 
 + <b style="color:blue">[TCAD-2021] </b> 
-Xiaobing Chen, **Yuke Wang** Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, Lei Deng, Yufei Ding, Zidong Du, Yunji Chen, Yuan Xie. ***Rubik: A Hierarchical Architecture for Efficient Graph Learning.*** *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems*
+Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, Lei Deng, Yufei Ding, Zidong Du, Yunji Chen, Yuan Xie. ***Rubik: A Hierarchical Architecture for Efficient Graph Learning***. *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems*
     
-+ <b style="color:blue">[FCCM-2019] </b> **Yuke Wang**, Zhaorui Zeng, Boyuan Feng, Lei Deng, and Yufei Ding. ***KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA***. *IEEE Symposium on Field-Programmable Custom Computing Machines*.
++ <b style="color:blue">[FCCM-2019] </b> 
+**Yuke Wang**, Zhaorui Zeng, Boyuan Feng, Lei Deng, and Yufei Ding. ***KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA***. *IEEE Symposium on Field-Programmable Custom Computing Machines*.
