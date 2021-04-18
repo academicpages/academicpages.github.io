@@ -1,0 +1,65 @@
+<h2>{% if site.data.ui-text[site.locale].follow_label %}{{ site.data.ui-text[site.locale].follow_label }}{% endif %}</h2>
+<table class="noborder">
+  {% if site.author.researchgate %}
+    <tr>
+      <th colspan="2"><h3>ResearchGate</h3></th>
+    </tr>
+    <tr>
+      <th><a href="{{ site.author.researchgate }}"><i class="ai ai-researchgate ai-4x"></i></a></th>
+      <td><i>Réseau social académique, Partage de publications personnelles</i><br/><a href="{{ site.author.researchgate }}">{{ site.author.researchgate }}</a></td>
+    </tr>
+  {% endif %}
+  {% if site.author.orcid %}
+      <tr>
+        <th colspan="2"><h3><abbr title="Open Researcher and Contributor ID">ORCID</abbr></h3></th>
+      </tr>
+      <tr>
+        <th><a href="{{ site.author.orcid }}"><i class="ai ai-orcid ai-4x"></i></a></th>
+        <td><i>Plateforme d'indentication unique des contributions académiques</i><br/><a href="{{ site.author.orcid }}">{{ site.author.orcid }}</a></td>
+      </tr>
+  {% endif %}
+  {% if site.author.googlescholar %}
+    <tr>
+      <th colspan="2"><h3>Google Scholar</h3></th>
+    </tr>
+    <tr>
+      <th><a href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar ai-4x"></i></a></th>
+      <td><i>Moteur de recherche d'articles scientifiques</i><br/><a href="{{ site.author.googlescholar }}">{{ site.author.googlescholar }}</a></td>
+    </tr>
+  {% endif %}
+  {% if site.author.linkedin %}
+    <tr>
+      <th colspan="2"><h3>LinkedIn</h3></th>
+    </tr>
+    <tr>
+      <th><a href="{{ site.author.linkedin }}"><i class="fa fa-linkedin fa-3x" aria-hidden="true"></i></a></th>
+      <td><a href="{{ site.author.linkedin }}">{{ site.author.linkedin }}</a></td>
+    </tr>
+  {% endif %}
+  {% if site.author.twitter %}
+    <tr>
+      <th colspan="2"><h3>Twitter</h3></th>
+    </tr>
+    <tr>
+      <th><a href="{{ site.author.twitter }}"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a></th>
+      <td><a href="{{ site.author.twitter }}">{{ site.author.twitter }}</a></td>
+    </tr>
+  {% endif %}
+  {% if site.atom_feed.path %}
+    <tr>
+      <th colspan="2"><h3>{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</h3></th>
+    </tr>
+    <tr>
+      <th><a href="{{ site.atom_feed.path }}"><i class="fa fa-fw fa-rss-square fa-3x" aria-hidden="true"></i></a></th>
+      <td><a href="{{ site.atom_feed.path }}">{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></td>
+    </tr>
+  {% else %}
+    <tr>
+      <th colspan="2"><h3>{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</h3></th>
+    </tr>
+    <tr>
+      <th><a href="{{ base_path }}/feed.xml"><i class="fa fa-fw fa-rss-square fa-3x" aria-hidden="true"></i></a></th>
+      <td><a href="{{ base_path }}/feed.xml">{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></td>
+    </tr>
+  {% endif %}
+</table>

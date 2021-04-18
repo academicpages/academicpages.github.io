@@ -1,0 +1,10 @@
+{% include base_path %}
+<article id="{{ post.title | markdownify  | remove: '<p>' | remove: '</p>' }}">
+  <h2>{% if post.fullname %}<abbr title="{{ post.fullname | markdownify  | remove: '<p>' | remove: '</p>' }}">{{  post.title | markdownify  | remove: '<p>' | remove: '</p>' }}</abbr>{% else %}{{ post.title | markdownify  | remove: '<p>' | remove: '</p>' }}{% endif %}</h2>
+  {% if post.begin and post.end %}<span class="comment__date" aria-hidden="true"><i class="fa fa-calendar-alt"></i>  {{ post.begin | date: "%Y" }} - {{ post.end | date: "%Y" }}</span>{% endif %}
+  <br/>
+  <div class="bordered">
+    {{ post.excerpt }}
+    <div class="text-right"><a href="/projects/{{ post.link }}"><i class="fa fa-chevron-circle-right fa-2x"></i></a></div>
+  </div>
+</article>

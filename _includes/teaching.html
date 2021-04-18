@@ -1,0 +1,12 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article>
+    <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
+    {{ post.type }}, <i>{{ post.venue }}</i>, {% if post.begin and post.end %}{{ post.begin }} - {{ post.end }} {% endif %}
+    <br/>
+    {% if post.excerpt %}
+      <blockquote><small>{{ post.excerpt | markdownify }}</small></blockquote>
+    {% endif %}
+  </article>
+</div>

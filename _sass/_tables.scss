@@ -25,6 +25,7 @@ th {
   font-weight: bold;
   text-align: left;
   border-right: 1px solid $light-gray;
+    vertical-align: baseline;
 }
 
 td {
@@ -33,6 +34,25 @@ td {
   border-right: 1px solid $light-gray;
 }
 
-tr, td, th {
-  vertical-align: middle;
+tr, td {
+  vertical-align: top;
+}
+
+table.noborder, table.noborder tr, table.noborder th, table.noborder td {
+  border: none;
+  border-right:0px solid #fff;
+}
+
+.bordered {
+  position: relative;
+  margin-bottom: 1em;
+  padding: 1em;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background-color: $code-background-color;
+  outline:0;
+  -webkit-box-shadow:$box-shadow;
+  box-shadow: $box-shadow; 
 }
