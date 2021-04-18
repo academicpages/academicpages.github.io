@@ -25,7 +25,7 @@ author_profile: true
 + <b style="color:blue">[ICASSP-2021]</b> 
 Boyuan Feng, **Yuke Wang**, Yufei Ding. ***Sparse Adversarial Attack on EEG-based Brain Computer Interface*** *IEEE International Conference on Acoustics, Speech, Signal Processing*.
 
-+ <b style="color:blue">[AAAI-2021}]</b> 
++ <b style="color:blue">[AAAI-2021]</b> 
 Boyuan Feng, **Yuke Wang**, Yufei Ding. ***UAG: Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks.*** *AAAI Conference on Artificial Intelligence*.
 
 + <b style="color:blue">[PPoPP-2021] </b> 
