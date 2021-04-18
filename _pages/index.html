@@ -1,0 +1,13 @@
+---
+layout: default
+permalink: /
+title: "Projets"
+excerpt: "Project"
+author_profile: true
+redirect_from:
+  - /index/
+---
+{% assign sorted = site.projects | sort: 'begin' | reverse  %}
+{% for post in sorted  %}
+    {% include project.html %}
+{% endfor %}

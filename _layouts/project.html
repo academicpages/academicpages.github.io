@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+  <article id="{{ page.title | markdownify  | remove: '<p>' | remove: '</p>' }}">
+    <h2><a href="/projects/"><i class="fa fa-chevron-circle-left"></i></a> {% if page.fullname %}<abbr title="{{ page.fullname | markdownify  | remove: '<p>' | remove: '</p>' }}">{{  page.title | markdownify  | remove: '<p>' | remove: '</p>' }}</abbr>{% else %}{{ page.title | markdownify  | remove: '<p>' | remove: '</p>' }}{% endif %}</h2>
+    {% if page.begin and page.end %}<span class="comment__date" aria-hidden="true"><i class="fa fa-calendar-alt"></i>  {{ page.begin | date: "%Y" }} - {{ page.end | date: "%Y" }}</span>{% endif %}
+    <br/>
+    <div class="bordered">
+      {{ page.excerpt }}
+      <br><br>
+      <table>
+        <tr>
+          <th class="text-center" style="width:33.33%">{% if page.context %}<i class="fa fa-bullhorn fa-2x"></i>{% endif %}</th>
+          <th class="text-center" style="width:33.33%">{% if page.done %}<i class="fa fa-bolt fa-2x"></i>{% endif %}</th>
+          <th class="text-center" style="width:33.33%">{% if page.results %}<i class="fa fa-heart fa-2x"></i>{% endif %}</th>
+        </tr>
+        <tr>
+          <td><p>{% if page.context %}{{ page.context }} {% endif %}</p></td>
+          <td><p>{% if page.done %}{{ page.done }} {% endif %}</p></td>
+          <td><p>{% if page.results %}{{ page.results }} {% endif %}</p> <br/><p class="text-right"><a href="{{ base_path }}/publications#{{ page.link }}" class="btn" role="button">Publications relatives</a></p></td>
+        </tr>
+      </table>
+    </div>
+    <br>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+
+    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="1" class=""></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="2" class=""></li>
+      </ol>
+      <div class="carousel-inner">
+        {% assign link = page.link %}
+        {% assign i = 0 %}
+        {% for file in site.static_files %}
+          {% if file.path contains link %} 
+          <div class="carousel-item text-center {% if i == 0 %}active{% endif %}">
+            <img class="fit-picture"  src="{{ file.path }}" alt="{{ i }}" >
+            <div class="container">
+              <div class="carousel-caption"></div>
+            </div>
+          </div>
+          {% assign i=i | plus:1 %}
+          {% endif %}
+        {% endfor %}
+      </div>
+      <a class="carousel-control-prev" href="#myCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon btn" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#myCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon btn" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </a>
+    </div>
+          {% if page.share %}{% include social-share.html %}{% endif %}
+
+          {% include post_pagination.html %}
+
+  </article>

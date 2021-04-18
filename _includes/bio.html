@@ -1,0 +1,29 @@
+<table class="noborder">
+  <tr>
+  	<td style="width:25%;">
+      <div class="author__avatar"><img src="/images/{{ site.author.avatar }}" alt="{{ site.author.name }}"></div>
+      {% if site.author.name %}{{ site.author.name }}, <br>{% endif %}
+      {% if site.author.title %}<small>{{ site.author.title }}</small><br>{% endif %}
+      {% if site.author.position %}<small>{{ site.author.position }}</small>{% endif %}{% if site.author.employer %}<small> à {{ site.author.employer }}</small>{% endif %}
+    </td>
+    <td class="bordered">
+    <big>{{ site.author.bio }}</big>
+    <p><b><span class="fa fa-key"></span></b> {{ site.author.keywords }}</p>
+    </td>
+  </tr>
+</table>
+<ul class="author__urls social-icons">
+  {% if author.location %}
+    <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+  {% endif %}
+  {% if author.employer %}
+    {% if author.employerlink %}
+      <li><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> <a href="{{ author.employerlink }}">{{ author.employer }}</a></li>
+    {% else %}
+      <li><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> {{ author.employer }}</li>
+    {% endif %}
+  {% endif %}
+  {% if author.uri %}
+    <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+  {% endif %}
+</ul>

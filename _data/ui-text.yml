@@ -1,6 +1,55 @@
 # User interface text and labels
 
-# English (default)
+# French (default)
+# -----------------
+fr: &DEFAULT_FR
+  page                       : "Page"
+  pagination_previous        : "Précédent"
+  pagination_next            : "Suivant"
+  breadcrumb_home_label      : "Accueil"
+  breadcrumb_separator       : "/"
+  toc_label                  : "Sur cette page"
+  ext_link_label             : "Lien direct"
+  less_than                  : "plus petit que"
+  minute_read                : "Durée de lecture (min)"
+  share_on_label             : "Partager sur"
+  meta_label                 :
+  tags_label                 : "Tags :"
+  categories_label           : "Catégories :"
+  date_label                 : "Mis à jour :"
+  comments_label             : "Laisser un commentaire"
+  comments_title             : "Commenter"
+  more_label                 : "Lire plus"
+  related_label              : "Vous pourriez aussi aimer"
+  follow_label               : "Suivez-moi"
+  feed_label                 : "Flux"
+  powered_by                 : "Propulsé par"
+  website_label              : "Site"
+  email_label                : "Email"
+  recent_posts               : "Posts récents"
+  undefined_wpm              : "Le paramètre words_per_minute n'est pas défini dans _config.yml"
+  comment_form_info          :
+  comment_form_comment_label :
+  comment_form_md_info       :
+  comment_form_name_label    :
+  comment_form_email_label   :
+  comment_form_website_label :
+  comment_btn_submit         :
+  comment_btn_submitted      :
+  comment_success_msg        :
+  comment_error_msg          :
+  loading_label              :
+  sitemap                    : "Plan du site"
+
+fr-FR:
+  <<: *DEFAULT_FR
+fr-BE:
+  <<: *DEFAULT_FR
+fr-CH:
+  <<: *DEFAULT_FR
+
+
+# English
 # -----------------
 en: &DEFAULT_EN
   page                       : "Page"
@@ -39,6 +88,7 @@ en: &DEFAULT_EN
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
+  sitemap                    : "Site Map"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -87,56 +137,11 @@ es: &DEFAULT_ES
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
+  sitemap                    :
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
-
-# French
-# -----------------
-fr: &DEFAULT_FR
-  page                       : "Page"
-  pagination_previous        : "Précédent"
-  pagination_next            : "Suivant"
-  breadcrumb_home_label      : "Accueil"
-  breadcrumb_separator       : "/"
-  toc_label                  : "Sur cette page"
-  ext_link_label             : "Lien direct"
-  less_than                  : "plus petit que"
-  minute_read                : "minute de lecture"
-  share_on_label             : "Partager sur"
-  meta_label                 :
-  tags_label                 : "Tags :"
-  categories_label           : "Catégories :"
-  date_label                 : "Mis à jour :"
-  comments_label             : "Laisser un commentaire"
-  comments_title             :
-  more_label                 : "Lire plus"
-  related_label              : "Vous pourriez aimer"
-  follow_label               : "Suivez moi"
-  feed_label                 : "Flux"
-  powered_by                 : "Propulsé par"
-  website_label              : "Site"
-  email_label                : "Email"
-  recent_posts               : "Posts récents"
-  undefined_wpm              : "Le paramètre words_per_minute n'est pas défini dans _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
-fr-FR:
-  <<: *DEFAULT_FR
-fr-BE:
-  <<: *DEFAULT_FR
-fr-CH:
-  <<: *DEFAULT_FR
 
 # Turkish
 # -----------------
@@ -177,6 +182,7 @@ tr: &DEFAULT_TR
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
+  sitemap                    :
 tr-TR:
   <<: *DEFAULT_TR
 
@@ -219,6 +225,7 @@ pt: &DEFAULT_PT
   comment_success_msg        : "Obrigado por seu comentário! Ele será exibido no site depois de aprovado."
   comment_error_msg          : "Desculpe, houve um erro com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
+  sitemap                    :
 pt-BR:
   <<: *DEFAULT_PT
 pt-PT:
@@ -263,6 +270,7 @@ it: &DEFAULT_IT
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
+  sitemap                    :
 it-IT:
   <<: *DEFAULT_IT
 

@@ -1,0 +1,7 @@
+{% if site.author.email %}
+<h2>{% if site.data.ui-text[site.locale].email_label %}{{ site.data.ui-text[site.locale].email_label }}{% endif %}</h2>
+<div>
+    <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+</div>
+<br/>
+{% endif %}

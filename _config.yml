@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "fr-FR"
+title                    : "Déborah A FOLOPPE"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Déborah A. FOLOPPE"
+description              : &description
+url                      : https://dfolop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "DeborahAF/dfolop.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  name             : "Déborah FOLOPPE"
+  avatar           : "avatar.jpg"
+  title            :  Docteur en Psychologie
+  position         :  Post-doc
+  bio              : "Docteur de 3+ ans d’expérience en <b>réalité virtuelle</b> appliquée à la <b>santé</b>, j’ai régulièrement travaillé en tant que développeur et expérimentateur pour <b>concevoir</b>, <b>développer</b> et <b>évaluer</b> des matériels expérimentaux. J’aime concevoir des <b>méthodes de résolution de problèmes complexes</b>, apprendre à maîtriser de <b>nouveaux outils technologiques</b> lorsque le besoin se présente, et <b>partager les connaissances</b> dégagées des travaux effectués."
+  keywords         : Recherche en neuropsychologie  ▪ Evaluation écologique  ▪ Rééducation fonctionnelle  ▪ Outils basés sur la Réalité virtuelle ▪ Ergonomie des IHM  ▪ Méthodes d’assistances à la tâche  ▪ Méthodes d’évaluation
+  location         : Angers
+  employer         : l'Université d'Angers
+  employerlink     : https://www.univ-angers.fr
+  pubmed           :
+  googlescholar    : https://scholar.google.com.my/citations?user=pTs21gcAAAAJ&hl=en
+  email            : deborah.foloppe@univ-angers.fr
+  orcid            : https://orcid.org/0000-0001-8508-1572
+  researchgate     : https://www.researchgate.net/profile/deborah_foloppe
+  dblp             : https://dblp.org/pid/118/2293.html
+  uri              : https://foloppe-d.frama.site
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "DeborahAF"
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : ""
+  impactstory      : "" #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
+  stackoverflow    : "" # http://stackoverflow.com/users/123456/username
+  steam            : ""
+  tumblr           : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -175,16 +179,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
+  about:
     output: true
     permalink: /:collection/:path/
 
@@ -216,8 +220,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -226,7 +230,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -235,7 +239,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -255,7 +259,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
