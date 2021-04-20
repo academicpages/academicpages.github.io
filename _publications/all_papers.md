@@ -1,14 +1,3 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% include base_path %}
-
-Here are all my archival papers (peer-reveiwed journals, conferences, and workshops). You can also find my articles on <u><a href="https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
-
 # 2021
 
 Sen, Indira, Fabian Floeck, Katrin Weller, Bernd Weiss, and Claudia Wagner. "A total error framework for digital traces of humans." Public Opinion Quarterly (In Press) Preprint: 
@@ -29,5 +18,4 @@ Sen, Indira, Anupama Aggarwal, Shiven Mian, Siddharth Singh, Ponnurangam Kumarag
 Singh, Kushagra, Indira Sen, and Ponnurangam Kumaraguru. "Language identification and named entity recognition in hinglish code mixed tweets." In Proceedings of ACL 2018, Student Research Workshop, pp. 52-58. 2018. (Workshop)
 
 Singh, Kushagra, Indira Sen, and Ponnurangam Kumaraguru. "A twitter corpus for Hindi-English code mixed POS tagging." In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media, pp. 12-17. 2018. (Workshop Data Paper)
-
 
