@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align: justify;"> 
-Yuke Wang is a third-year Ph.D. in <a href="https://www.cs.ucsb.edu">computer science</a> at University of California, Santa Barbara (<a href="https://ucsb.edu">UCSB</a>). He got B.E. in software engineering from University of Electronic Science and Technology of China (<a href="https://en.uestc.edu.cn/">UESTC</a>).</p>
+Yuke Wang is a third-year Ph.D. in <a href="https://www.cs.ucsb.edu">computer science</a> at University of California, Santa Barbara (<a href="https://ucsb.edu">UCSB</a>). 
+He got his Bachelor of Engineering (B.E.) in software engineering from University of Electronic Science and Technology of China (<a href="https://en.uestc.edu.cn/">UESTC</a>) in 2018..</p> 
 
 <p style="text-align: justify;"> 
 At UCSB, he is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. His research interests include high-performance computing and deep learning algorithms. His recent ongoing projects cover graph neural network (GNN) optimization and its acceleration on GPUs.
 </p>
 
-
-> <b style="color:red">[New 3/16/21]</b> Our GNNAdvisor paper has been accepted to **OSDI'21**.<br/>
-> <b style="color:red">[New 2/8/21]</b> Our TiAcc paper has been accepted to **CCGrid'21**.<br/>
-> <b style="color:red">[12/8/20]</b> Our DSXplore paper has been accepted to **IPDPS'21**, code has been open-sourced at [Github](https://github.com/YukeWang96/DSXplore).<br/>
+<br>
+<b style="color:red">[New 3/16/21]</b> Our GNNAdvisor paper has been accepted to **OSDI'21**.<br/>
+<b style="color:red">[New 2/8/21]</b> Our TiAcc paper has been accepted to **CCGrid'21**.<br/>
+<b style="color:red">[12/8/20]</b> Our DSXplore paper has been accepted to **IPDPS'21**, code has been open-sourced at [Github](https://github.com/YukeWang96/DSXplore).<br/>
 
 
 
