@@ -12,13 +12,14 @@ Yuke Wang is a third-year Doctor of Philosophy (Ph.D.) in <a href="https://www.c
 He got his Bachelor of Engineering (B.E.) in software engineering from University of Electronic Science and Technology of China (<a href="https://en.uestc.edu.cn/">UESTC</a>) in 2018.</p> 
 
 <p style="text-align: justify;"> 
-At UCSB, he is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. His research interests include high-performance computing and deep learning algorithms. His recent ongoing projects cover graph neural network (GNN) optimization and its acceleration on GPUs.
+At UCSB, Yuke is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>.
+Yuke's research interests include high-performance computing and deep learning algorithms. His recent ongoing projects cover graph neural network (GNN) optimization and its acceleration on GPUs.
 </p>
 
 <br>
-<b style="color:red">[3/16/21]</b> Our GNNAdvisor paper has been accepted to **OSDI'21**.<br/>
-<b style="color:red">[2/8/21]</b> Our TiAcc paper has been accepted to **CCGrid'21**.<br/>
-<b style="color:red">[12/8/20]</b> Our DSXplore paper has been accepted to **IPDPS'21**. [code](https://github.com/YukeWang96/DSXplore) is open-sourced.<br/>
+<b style="color:red">[03/16/21]</b> Our GNNAdvisor paper has been accepted to **OSDI'21**.<br/>
+<b style="color:red">[02/08/21]</b> Our TiAcc paper has been accepted to **CCGrid'21**.<br/>
+<b style="color:red">[12/08/20]</b> Our DSXplore paper has been accepted to **IPDPS'21**. [code](https://github.com/YukeWang96/DSXplore) is open-sourced.<br/>
 
 
 
