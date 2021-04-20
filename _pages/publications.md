@@ -22,7 +22,7 @@ Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Yi Li, Wei 
 * **EPNE: Evolutionary Pattern Preserving Network Embedding** \[[pdf](http://ecai2020.eu/papers/528_paper.pdf)\] <br>
 Junshan Wang<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Xiaojun Ma. In *The 24th European Conference on Artificial Intelligence (ECAI)*, 2020
 
-* **Domain Adaptive Classification on Heterogeneous Information Networks** \[[pdf](https://www.ijcai.org/Proceedings/2020/0196.pdf)\]<br>
+* **Domain Adaptive Classification on Heterogeneous Information Networks** \[[pdf](https://www.ijcai.org/Proceedings/2020/0196.pdf)\]\[[code](https://github.com/PKUterran/MuSDAC)\]<br>
 Shuwen Yang, Guojie Song, **Yilun Jin**, Lun Du. To appear in *The 29th International Joint Conference on Artificial Intelligence (IJCAI-PRICAI)*, 2020. 
 
 * **Active Domain Transfer on Network Embedding** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024)\]<br>
