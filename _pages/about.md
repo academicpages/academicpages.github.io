@@ -15,11 +15,11 @@ Professor [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/)
 and 
 Professor [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/)
 .
-The main topics of my research interests include formal methods of modeling, analysis and verification of applications. 
-I specifically focus on compilation, synthesis and testing of modern database-backed programs.
+My research interests include formal methods of modeling, analysis and verification of (classical or quantom) computer programs. 
+My PhD thesis is focused around compilation, synthesis and testing of modern database-backed programs.
 
-I was previously a research intern at [Microsoft](https://www.microsoft.com/en-us/research/), working under the supervision of Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
 
+I was previously a research intern at [Microsoft](https://www.microsoft.com/en-us/research/), working on a new program synthesis technique based on pre-trained language models. My work was supervised by Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
 
 
 
