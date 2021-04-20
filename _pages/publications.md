@@ -21,7 +21,7 @@ author_profile: true
 ***GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs.*** <br/>
 *USENIX Symposium on Operating Systems Design and Implementation*.<br/>
 [<b style="color:#a31503">[**paper**]</b>](https://drive.google.com/file/d/12ccSlUe0GR8mM3iAMJuYbP0OjoSUYhlL/view?usp=sharing)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/7acdde965203613bcf8d89024ceaa4ca80960317/_publications/publication.bib#L1-L6
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/7acdde965203613bcf8d89024ceaa4ca80960317/_publications/publication.bib#L1-L6)
 
 + <b style="color:blue">[CCGrid-2021]</b> 
 **Yuke Wang**, Boyuan Feng, Gushu	Li,	Georgios Tzimpragos,	Lei	Deng, Yuan	Xie, Yufei Ding.
