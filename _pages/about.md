@@ -49,7 +49,7 @@ Awards
 
 Services
 =====
-* Program Committee Member or Reviewer: ACL (2021), AAAI (2021, 2020), IJCAI (2021, 2020, 2019).  
+* Program Committee Member or Reviewer: ACL (2021), EMNLP (2021), AAAI (2021, 2020), IJCAI (2021, 2020, 2019).  
 
 Misc
 ======
