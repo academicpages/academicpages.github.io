@@ -13,8 +13,9 @@ I am a member of the [programming languages group](https://purpl.cs.purdue.edu/)
 working under the supervision of 
 Professor [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) 
 and 
-Professor [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/)
-.
+Professor [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
+
+
 My research interests include formal methods of modeling, analysis and verification of (classical or quantum) computer programs. 
 My PhD thesis is focused around compilation, synthesis and testing of modern database-backed programs.
 
