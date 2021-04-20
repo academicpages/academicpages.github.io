@@ -49,20 +49,22 @@ Boyuan Feng, **Yuke Wang**, Yufei Ding. <br/>
 + <b style="color:blue">[PPoPP-2021] </b> 
 Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 <br/>
-***TCVM: Accelerating Scientific Computing on Tensor Cores with Extended Precision.*** *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*.
+***TCVM: Accelerating Scientific Computing on Tensor Cores with Extended Precision.*** <br/>
+*ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*.
 <br/>
 [<b style="color:#a31503">[**paper**]</b>](https://drive.google.com/file/d/1jlvAeQfmxyeHo2aCL28G-RYjXIHH8jmh/view?usp=sharing)
 
 + <b style="color:blue">[IPDPS-2021] </b> 
 **Yuke Wang**, Boyuan Feng, Yufei Ding. 
 <br/>
-***DSXplore: Optimizing Convolutional Neural Networks via Sliding-Channel Convolutions***. *IEEE International Parallel & Distributed Processing Symposium*.
+***DSXplore: Optimizing Convolutional Neural Networks via Sliding-Channel Convolutions***. 
+<br/>
+*IEEE International Parallel & Distributed Processing Symposium*.
 <br/>
 [<b style="color:#a31503">[**paper**]</b>](https://drive.google.com/file/d/1D42tl2fToiw3yG_aHa_nl5trNLD2W6WB/view?usp=sharing)[<b style="color:#a31503">[**code**]</b>](https://github.com/YukeWang96/DSXplore.git)
 
-+ <b style="color:blue">[ICTAI-2020] </b> 
-Boyuan Feng, **Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding. <br/>
-***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization.*** \*: equal contribution. 
++ <b style="color:blue">[ICTAI-2020] </b> \*Boyuan Feng, \***Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding.  \*: equal contribution.<br/>
+***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization.***
 <br/>
 *International Conference on Tools with Artificial Intelligence*.
 [<b style="color:#a31503">[**paper**]</b>](https://drive.google.com/file/d/16_7TGvHH7fr_2c0nL3Z0b_7U729RKLhG/view?usp=sharing)
