@@ -135,6 +135,8 @@ Time Management
 
 Professional Development
 ======
+* [Cultivating Relationships](https://inclusion.bio.uci.edu/resources/undergraduate-students/cultivating-relationships/) suggestions for contacting professors
+* [Requesting Letters of Recommendation](https://inclusion.bio.uci.edu/resources/undergraduate-students/requesting-letters-of-recommendation/) suggestions for requesting letters of recommendation
 * [The Professor Is In](https://theprofessorisin.com/) a blog about navigating different stages of academic career
 * [Letters to Young Scientists](https://www.sciencemag.org/tags/letters-young-scientists) Science Careers' column with insightful suggestions to professional development
 * [The Batch](https://www.deeplearning.ai/) gives you a weekly fresh taste of the latest research and applications in the field of AI by Andrew Ng
