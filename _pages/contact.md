@@ -13,7 +13,7 @@ image:
 
 <style type="text/css">
   body{
-  font-size: 12pt;
+  font-size: 11pt;
 }
 </style>
 
