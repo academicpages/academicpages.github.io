@@ -67,9 +67,9 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 * †Sosa, R., C. Schalk, L. Braga & __J.N. Pinto-Ledezma__. 2015. [_Rhinella amboroensis_ (Cochabamba toad)](https://www.dropbox.com/s/r8ixyf8eigkr336/HR%20March%202015%20ebook.pdf?dl=1). _Herpetological Review, 46(2): 214_.
 
-* †Pinto. M.A. & __J.N. Pinto-Ledezma__. 2015. [Listado preliminar de anfibios de la propiedad Benevento (Santa Cruz, Bolivia) (Preliminar list of amphibians of Benevento property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana11(2)/4_Pinto-Viveros&Pinto-Ledezma.pdf). _Kempffiana, 11(1): 23-27_.
+* †Pinto. M.A. & __J.N. Pinto-Ledezma__. 2015. [Listado preliminar de anfibios de la propiedad Benevento (Santa Cruz, Bolivia) (A preliminar list of the amphibians from the Benevento property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana11(2)/4_Pinto-Viveros&Pinto-Ledezma.pdf). _Kempffiana, 11(1): 23-27_.
 
-* †Pinto, M.A., D. García, †K. Mano & __J.N. Pinto-Ledezma__. 2015. [Listado de anfibios y reptiles de la propiedad Juan Deriba, Santa Cruz, Bolivia (Preliminar list of amphibians and reptiles of Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/5_Pinto-Viveros%20et%20al_2015.pdf). _Kempffiana, 11(1): 70-75_.
+* †Pinto, M.A., D. García, †K. Mano & __J.N. Pinto-Ledezma__. 2015. [Listado de anfibios y reptiles de la propiedad Juan Deriba, Santa Cruz, Bolivia (A preliminar list of the amphibians and reptiles from the Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/5_Pinto-Viveros%20et%20al_2015.pdf). _Kempffiana, 11(1): 70-75_.
 
 * †Mano, K., †M.A. Pinto, †R. Sosa, D. Villarroel & __J.N. Pinto-Ledezma__. 2015. [Reptile fauna of the Mutún region (Santa Cruz department, Bolivia): species list and conservation status](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/4_Mano-Cuellar%20et%20al_2015.pdf). _Kempffiana, 11(1): 66-69_.
 
