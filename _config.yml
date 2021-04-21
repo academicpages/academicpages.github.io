@@ -259,7 +259,7 @@ timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
