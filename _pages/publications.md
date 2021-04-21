@@ -73,6 +73,13 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L36-L41)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/DSXplore.git)
 
++ <b style="color:blue">[TCAD-2021] </b> 
+Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, Lei Deng, Yufei Ding, Zidong Du, Yunji Chen, Yuan Xie. <br/>
+***Rubik: A Hierarchical Architecture for Efficient Graph Learning***. <br/>
+*IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
+<br/>
+[<b style="color:#a31503">[**Paper**]</b>](https://arxiv.org/pdf/2009.12495.pdf)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/b04ce7e4366f9e5f5522d9f5a6c79fa2e0aa75ac/_publications/publication.bib#L64-L69)
 
 + <b style="color:blue">[ICTAI-2020] </b> \*Boyuan Feng, \***Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding.  \*: equal contribution.<br/>
 ***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization.***
@@ -90,13 +97,7 @@ Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Y
 [<b style="color:#a31503">[**Paper**]</b>](http://proceedings.mlr.press/v119/liu20c/liu20c.pdf)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L50-L55)
 
-+ <b style="color:blue">[TCAD-2021] </b> 
-Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, Lei Deng, Yufei Ding, Zidong Du, Yunji Chen, Yuan Xie. <br/>
-***Rubik: A Hierarchical Architecture for Efficient Graph Learning***. <br/>
-*IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
-<br/>
-[<b style="color:#a31503">[**Paper**]</b>](https://arxiv.org/pdf/2009.12495.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/b04ce7e4366f9e5f5522d9f5a6c79fa2e0aa75ac/_publications/publication.bib#L64-L69)
+
 
 + <b style="color:blue">[FCCM-2019] </b> 
 **Yuke Wang**, Zhaorui Zeng, Boyuan Feng, Lei Deng, and Yufei Ding. <br/>
