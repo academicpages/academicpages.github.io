@@ -56,20 +56,20 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 * Cseko, E., W. Franca-Rocha, T. Moura & __J.N. Pinto-Ledezma__. 2017. [New range limit of the Broad-tipped Hermit (_Anopetia gounellei_, Aves: Trochilidae): the state of art and a review on the range area](https://doi.org/10.11606/0031-1049.2017.57.21). _Pápeis avulsos de Zoologia, 57(21): 275-285_.
 
-* Villarroel, D., G.M. Aramayo, M.T. Martínez, C.E.B. Proença, C.B.R. Munhoz, B.B. Klitgaard, __J.N. Pinto-Ledezma__ & M.H. Nee. 2017. [Historia Natural del Cerro Mutún: VI. Checklist, estado de conservación y nuevos registros para Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/2_Villarroeletal-2017.pdf). _Kempffiana, 13(2):29-74_.
+* Villarroel, D., G.M. Aramayo, M.T. Martínez, C.E.B. Proença, C.B.R. Munhoz, B.B. Klitgaard, __J.N. Pinto-Ledezma__ & M.H. Nee. 2017. [Historia Natural del Cerro Mutún: VI. Checklist, estado de conservación y nuevos registros para Bolivia (Natural Histoy of the Cerro Mutún: VI. Checklist, conservation status and new records for Bolivia)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/2_Villarroeletal-2017.pdf). _Kempffiana, 13(2):29-74_.
 
-* __Pinto-Ledezma, J.N.__, M.A. Montenegro, & D. Villarroel. 2017. [Historial Natural del Cerro Mutún: V. la avifauna](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/1_Pinto-Ledezmaetal-2017.pdf). _Kempffiana, 13(2):11-28_.
+* __Pinto-Ledezma, J.N.__, M.A. Montenegro, & D. Villarroel. 2017. [Historial Natural del Cerro Mutún: V. la avifauna (Natural Histoy of the Cerro Mutún: V. The avifauna)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/1_Pinto-Ledezmaetal-2017.pdf). _Kempffiana, 13(2):11-28_.
 
 ### 2015 - 2016
-* ††Pinto, M.A., †K. Mano-Cuellar, D. Villarroel & __J.N. Pinto-Ledezma__. 2016. [Historia Natural del Cerro Mutún IV: la herpetofauna](http://www.museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(1)/3_Pinto-Viveros%20et%20al.%202017_106-128.pdf). _Kempffiana, 13(1): 116-128_.
+* ††Pinto, M.A., †K. Mano-Cuellar, D. Villarroel & __J.N. Pinto-Ledezma__. 2016. [Historia Natural del Cerro Mutún IV: la herpetofauna (Natural Histoy of the Cerro Mutún: IV. The herpetofauna)](http://www.museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(1)/3_Pinto-Viveros%20et%20al.%202017_106-128.pdf). _Kempffiana, 13(1): 116-128_.
 
-* __Pinto-Ledezma, J.N.__ & D. Villarroel. 2016. [Historia Natural del Cerro Mutún I: síntesis geográfica, geofísica, climática y socioeconómica](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana12(2)/29-38%20Pinto%20Ledezma%20&%20Villarroel%202016.pdf). _Kempffiana, 12(2): 29-38_.
+* __Pinto-Ledezma, J.N.__ & D. Villarroel. 2016. [Historia Natural del Cerro Mutún: I. Síntesis geográfica, geofísica, climática y socioeconómica (Natural Histoy of the Cerro Mutún: I. Geographical, geophysical, climatic and socioeconomic synthesis)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana12(2)/29-38%20Pinto%20Ledezma%20&%20Villarroel%202016.pdf). _Kempffiana, 12(2): 29-38_.
 
 * †Sosa, R., C. Schalk, L. Braga & __J.N. Pinto-Ledezma__. 2015. [_Rhinella amboroensis_ (Cochabamba toad)](https://www.dropbox.com/s/r8ixyf8eigkr336/HR%20March%202015%20ebook.pdf?dl=1). _Herpetological Review, 46(2): 214_.
 
-* †Pinto. M.A. & __J.N. Pinto-Ledezma__. 2015. [Listado preliminar de anfibios de la propiedad Benevento (Santa Cruz, Bolivia)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana11(2)/4_Pinto-Viveros&Pinto-Ledezma.pdf). _Kempffiana, 11(1): 23-27_.
+* †Pinto. M.A. & __J.N. Pinto-Ledezma__. 2015. [Listado preliminar de anfibios de la propiedad Benevento (Santa Cruz, Bolivia) (Preliminar list of amphibians of Benevento property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana11(2)/4_Pinto-Viveros&Pinto-Ledezma.pdf). _Kempffiana, 11(1): 23-27_.
 
-* †Pinto, M.A., D. García, †K. Mano & __J.N. Pinto-Ledezma__. 2015. [Listado de anfibios y reptiles de la propiedad Juan Deriba, Santa Cruz, Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/5_Pinto-Viveros%20et%20al_2015.pdf). _Kempffiana, 11(1): 70-75_.
+* †Pinto, M.A., D. García, †K. Mano & __J.N. Pinto-Ledezma__. 2015. [Listado de anfibios y reptiles de la propiedad Juan Deriba, Santa Cruz, Bolivia (Preliminar list of amphibians and reptiles of Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/5_Pinto-Viveros%20et%20al_2015.pdf). _Kempffiana, 11(1): 70-75_.
 
 * †Mano, K., †M.A. Pinto, †R. Sosa, D. Villarroel & __J.N. Pinto-Ledezma__. 2015. [Reptile fauna of the Mutún region (Santa Cruz department, Bolivia): species list and conservation status](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/4_Mano-Cuellar%20et%20al_2015.pdf). _Kempffiana, 11(1): 66-69_.
 
@@ -78,7 +78,7 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 * __Pinto-Ledezma, J.N.__, V.X. Sandoval, V.N. Pérez, T.J. Caballero, †K. Mano, †M.A. Pinto Viveros & †R. Sosa. 2014. [A spatial explicit habitat model for the Hyacinth Macaw (_Anodorhynchus hyacintinus_) in the Bolivian Pantanal (Santa Cruz, Bolivia)](http://www.scielo.org.bo/scielo.php?script=sci_abstract&pid=S1605-25282014000200002&lng=en&nrm=iso&tlng=en). _Ecología en Bolivia, 49(2): 1605-2528_.
 
-* __Pinto-Ledezma, J.N.__, T.J. Caballero, B. Flores, V.N. Perez, †K. Mano & †M.A. Pinto. 2014. [Lista preliminar de las aves de la propiedad Juan Deriba, Santa Cruz, Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/3_Pinto-Ledezma%20et%20al.%2020-30.pdf). _Kempffiana, 10(2): 20-30_.
+* __Pinto-Ledezma, J.N.__, T.J. Caballero, B. Flores, V.N. Perez, †K. Mano & †M.A. Pinto. 2014. [Lista preliminar de las aves de la propiedad Juan Deriba, Santa Cruz, Bolivia (A Preliminar list of the birds from the Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/3_Pinto-Ledezma%20et%20al.%2020-30.pdf). _Kempffiana, 10(2): 20-30_.
 
 * †Sosa, R., L. Braga & __J.N. Pinto-Ledezma__. 2014. [The amphibian fauna of the Southwest Amboró National Park, Santa Cruz, Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/4_Sosa%20et%20al.%2031-35.pdf). _Kempffiana, 10(2): 31-35_.
 
