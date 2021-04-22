@@ -5,7 +5,7 @@ permalink: /publication/2021-coughbreathcovid
 excerpt: ''
 date: 2021/01/07
 venue: 'BMJ innovations'
-paperurl: 'https://arxiv.org/pdf/2102.08359.pdf'
+paperurl: 'https://innovations.bmj.com/content/7/2/356'
 biburl: /files/coppock2021pilot.bib
 citation: '<b>Harry Coppock</b>, Alexander Gaskell, Panagiotis Tzirakis, Alice Baird, Lyn Jones, Björn W Schuller (2021) End-2-End convolutional neural network enables COVID-19 Detection from Breath & Cough Audio: a pilot study <i>BMJ innovations</i>'
 author_profile: false
@@ -29,7 +29,7 @@ author_profile: false
       author={Harry Coppock and Alexander Gaskell and Panagiotis Tzirakis and Alice Baird and Lyn Jones and Björn W. Schuller},
       year={2021},
       eprint={2102.08359},
-      archivePrefix={arXiv},
+      archivePrefix={BMJ innovations},
       primaryClass={cs.SD}
 }
 </pre>
