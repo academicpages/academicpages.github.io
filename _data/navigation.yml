@@ -16,8 +16,11 @@ main:
 #    url: /experience/
 
   - title: "Experience"
-    url: /cv/
- 
+    url: /resume/
+
+  - title: "Projects"
+    url: /resume/
+
   - title: "Reading List"
     url: /reading/
     
