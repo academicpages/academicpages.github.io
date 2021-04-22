@@ -24,6 +24,7 @@ Research Interest
 
 News
 ------
+* Apr 22, 2021, a journal paper named "_Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
 * Apr 2, 2021, a conference paper named "_Evacuation Problem Under the Nuclear Leakage Accident_" is **accepted** by the 40th Chinese Control Conference (CCC2021)to be held on July 26-28, 2021 in Shanghai, China.
 * Jan 17, 2021, invited as reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021)
 * Apr 30, 2020, invited as reviewer for IEEE Transactions on Smart Grid (TSG) 
@@ -31,12 +32,12 @@ News
 
 Publications
 ------
+* Canqi Yao, Shibo Chen, and Zaiyue Yang. "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." IEEE Transactions on Intelligent Transportation Systems **accepted**.
 * Canqi Yao, Shibo Chen, and Zaiyue Yang."Evacuation Problem Under the Nuclear Leakage Accident." 2021 40th Chinese Control Conference (CCC). IEEE, 2021.
 
 
 Submitted Manuscripts
 ------
-* Canqi Yao, Shibo Chen, and Zaiyue Yang. "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." IEEE Transactions on Intelligent Transportation Systems under second round review.
 * Canqi Yao, Shibo Chen, and Zaiyue Yang. "Online Distributed Routing Problem of Electric Vehicles." IEEE Transactions on Smart Grid under second round review.
 
 Teaching
