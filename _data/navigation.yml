@@ -15,8 +15,8 @@ main:
   - title: "People"
     url: /people/
   
- # - title: "Open Positions"
- #   url: /open-positions/
+  - title: "Open Positions"
+    url: /open-positions/
     
   - title: "Contact"
     url: /contact/
