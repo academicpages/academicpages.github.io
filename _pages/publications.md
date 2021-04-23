@@ -10,6 +10,16 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 # Papers
 
+- **DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization** SIGIR 20201  
+Safa Messaoud, Ismini Lourentzou, Assma Boughoula, Mona Zehni, Zhizhen Zhao, Chengxiang Zhai and Alex Schwing
+
+- **AdaReNet: Adaptive Reweighted Semi-supervised Active Learning to Accelerate Label Acquisition** PerInt@PETRA 20201  
+Ismini Lourentzou, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski, Chad Deluca, Steve Welch, ChengXiang Zhai
+
+- **Creation and validation of a chest X-ray dataset with eye-tracking and report dictation for AI development.** Nature Scientific Data 2021  
+Alexandros Karargyris, Kashyap Satyananda, Ismini Lourentzou, Joy T. Wu, Arjun Sharma, Matthew Tong, Shafiq Abedin, David Beymer, Vandana Mukherjee, Elizabeth A. Krupinski, Mehdi Moradi 
+
+
 - **Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation**, NLP-COVID19 Workshop @ ACL 2020  
 Arkin Dharawat, Ismini Lourentzou, Alex Morales, ChengXiang Zhai  
 [paper](https://arxiv.org/pdf/2010.08743.pdf), [code](https://github.com/TIMAN-group/covid19_misinformation), [poster](https://uofi.app.box.com/v/CovidHeRAmisinformation)
