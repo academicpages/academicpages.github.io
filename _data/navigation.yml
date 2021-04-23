@@ -19,11 +19,14 @@ main:
     url: /resume/
 
   - title: "Projects"
-    url: /resume/
+    url: /projects/
 
   - title: "Reading List"
     url: /reading/
     
+  - title: "Notes"
+    url: /notes/
+
   - title: "Blog Posts"
     url: /year-archive/
     
