@@ -17,6 +17,7 @@ redirect_from:
     - Conceptualized portions of New York City Emergency Management's Urban Risk Index
     - Supported COVID-19 after-action reviews for Virginia's Departments of Health and Emergency Management
 - **Consultant**
+    - Epidemiological assistant, Harvard Chan School of Public Health (2021--)
     - Epidemiology consultant, [Biobot Analytics](https://www.biobot.io/) (2020--)
     - Scientific consultant, [OpenBiome](https://www.openbiome.org/) (2020--)
     - Epidemiology consultant, Epic Games (2020)
