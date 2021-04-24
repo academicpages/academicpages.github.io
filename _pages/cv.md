@@ -31,15 +31,15 @@ Learning
 
 ## Education 
 
-* *PhD* in Philosophy, Western University
+* *PhD* in Philosophy, Western University \
 Advisor: Robert Stainton.\\
 Dissertation: A Theory of Polysemy
 
-* *MA* in Philosophy, Western University
+* *MA* in Philosophy, Western University \
 Advisor: Robert Stainton.\\
 Thesis: Names are Also Polysemous
 
-* *BA* in Philosophy, Minzu University of China
+* *BA* in Philosophy, Minzu University of China \
 Advisor: Jixuan Zhang.\\
 Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism
 
@@ -73,17 +73,17 @@ Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism
 
 ## References 
 
-* **Blair Armstrong**
+* **Blair Armstrong** \
 Assistant Professor\\
 University of Toronto Scarborough 
 [blair.armstrong@utoronto.ca](mailto:blair.armstrong@utoronto.ca)
 
-* **Robert Stainton**
+* **Robert Stainton** \
 Distinguished Professor\\
 University of Western Ontario\\
 [rstainto@uwo.ca](mailto:rstainto@uwo.ca)
 
-* **Marc Joanisse**
+* **Marc Joanisse** \
 Professor\\
 University of Western Ontario\\
 [marcj@uwo.ca](mailto:marcj@uwo.ca)
