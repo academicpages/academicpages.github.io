@@ -10,10 +10,10 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 # Papers
 
-- **DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization** SIGIR 20201  
+- **DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization** SIGIR 2021  
 Safa Messaoud, Ismini Lourentzou, Assma Boughoula, Mona Zehni, Zhizhen Zhao, Chengxiang Zhai and Alex Schwing
 
-- **AdaReNet: Adaptive Reweighted Semi-supervised Active Learning to Accelerate Label Acquisition** PerInt@PETRA 20201  
+- **AdaReNet: Adaptive Reweighted Semi-supervised Active Learning to Accelerate Label Acquisition** PerInt@PETRA 2021  
 Ismini Lourentzou, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski, Chad Deluca, Steve Welch, ChengXiang Zhai
 
 - **Creation and validation of a chest X-ray dataset with eye-tracking and report dictation for AI development.** Nature Scientific Data 2021  
