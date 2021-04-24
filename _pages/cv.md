@@ -35,7 +35,7 @@ Work experience
 
 Publications
 ======
-* Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  InR. D. Montello & K. M. Curtin (Eds.),Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor andFrancis).  (in press)
+* Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  In R. D. Montello & K. M. Curtin (Eds.),Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor andFrancis).  (in press)
 
 * 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., … Hyafil, A. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. https://doi.org/10.31219/osf.io/9fp4v [[pdf](https://lilianyou.github.io/files/2021_neuromatch_preprint.pdf)]
 
