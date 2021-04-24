@@ -68,7 +68,7 @@ Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism
 
 ## Languages and professional skills 
 
-* Computational: Python, R, PyTorch, LaTex, JavaScript, PyschoPy
+* Computational: Python, R, PyTorch, LaTex, JavaScript, PsychoPy
 * Language: English (fluent), Chinese (native), Japanese (fluent), Latin (reading)
 
 ## References 
