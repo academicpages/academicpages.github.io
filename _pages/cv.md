@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-[Click here](http://lilianyou.github.io/files/You_Cheng_CV_March_27_2021.pdf) for a full CV.
+[Click here](http://lilianyou.github.io/files/You_Cheng_CV_April_24_2021.pdf) for a full CV.
 
 Education
 ======
@@ -35,6 +35,8 @@ Work experience
 
 Publications
 ======
+* Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  InR. D. Montello & K. M. Curtin (Eds.),Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor andFrancis).  (in press)
+
 * 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., … Hyafil, A. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. https://doi.org/10.31219/osf.io/9fp4v [[pdf](https://lilianyou.github.io/files/2021_neuromatch_preprint.pdf)]
 
 * <b>Cheng, Y.</b>, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18. [[pdf](http://lilianyou.github.io/files/2020-Cheng.pdf)]
