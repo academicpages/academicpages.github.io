@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Fellow, La Jolla Institute for Immunology"
   location         : "La Jolla, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=k88T7Q8AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/roayaei"
+  github           : "roayaei"
   google_plus      :
   keybase          :
   instagram        :
