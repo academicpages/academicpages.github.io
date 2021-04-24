@@ -25,8 +25,8 @@ Philosophy of Mind and Psychology, Natural Language Processing with Deep
 Learning
 
 ## Publications & Work in progress 
-Li, J., & Joanisse, M. F. (2021). Word Senses as Clusters of Meaning Modulations: A Computational Model of Polysemy. Cognitive Science, 45(4), e12955. https://doi.org/10.1111/cogs.12955 \\
-Li, J. (2020). On Polysemy: A Philosophical, Psycholinguistic, and Computational Study. Electronic Thesis and Dissertation Repository. https://ir.lib.uwo.ca/etd/7282 \\
+Li, J., & Joanisse, M. F. (2021). Word Senses as Clusters of Meaning Modulations: A Computational Model of Polysemy. Cognitive Science, 45(4), e12955. [https://doi.org/10.1111/cogs.12955](https://doi.org/10.1111/cogs.12955) \\
+Li, J. (2020). On Polysemy: A Philosophical, Psycholinguistic, and Computational Study. Electronic Thesis and Dissertation Repository. [https://ir.lib.uwo.ca/etd/7282](https://ir.lib.uwo.ca/etd/7282) \\
 Li, J., & Joanisse, M. F. (n.d.). Testing a Theory of Polysemy with Priming and Eye-tracking. Manuscript in preparation.
 
 ## Education 
