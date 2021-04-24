@@ -75,7 +75,7 @@ Thesis: Truth and Meaning ---- a Defense of Propositional Deflationism
 
 * **Blair Armstrong** \
 Assistant Professor\\
-University of Toronto Scarborough 
+University of Toronto Scarborough \\
 [blair.armstrong@utoronto.ca](mailto:blair.armstrong@utoronto.ca)
 
 * **Robert Stainton** \
