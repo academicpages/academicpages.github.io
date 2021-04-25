@@ -44,10 +44,8 @@ I love to learn, create, and think about how technology will impact our future. 
 - I've journaled everyday since mid-2017 and wrote about it [here](https://jordan-pierre.medium.com/how-to-use-google-forms-and-automated-emails-to-journal-consistently-cefe101c6b9).
 - I started 2020 with 10 days of silent mediation and wrote about it [here](https://jordan-pierre.medium.com/10-takeaways-from-10-day-silent-meditation-1-year-later-464eb34dfc1).
 - I graduated high school in the Cayman Islands.
-- I love to travel.  I went to an international school in high school and have visited 7 countries across 3 continents.
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've been so far!</a></p>
-
+- I love to travel.  I went to an international school in high school and have visited 7 countries across 3 continents. {% if site.talkmap_link == true %}
+<p style="text-decoration:underline;"><a href="/travelsmap.html">See a map of all the places I've been so far!</a></p>
 {% endif %}
+
+
