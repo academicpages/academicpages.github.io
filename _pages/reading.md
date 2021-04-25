@@ -7,7 +7,7 @@ author_profile: true
 
 I love to learn.  My favorite ways to learn are via longform, structured content, which has turned into a non-fiction book addiction.  I used to finish one book every ten days, but nowadays I shoot for quality over quantity at a rate of one or two per month.  
 
-I read about all types of topics, but my favorites are technology, the future, business, investing / personal finance, philosophy / religion, psychology, the impacts of technology on society, and biographies.
+I read about all types of topics, but my favorites are technology, the future, business, investing / personal finance, philosophy / religion, psychology, the impacts of technology on society, and biographies.  You can find some book notes in the 'Notes' tab with pages tagged '[Book]'.
 
 My favorite author is Yuval Noah Harari and recommend *I Will Teach You to be Rich* by Ramit Sethi to everyone.  Below are links to lists of books I've read with some of my favorites marked in the Google Sheet.
 
@@ -21,6 +21,6 @@ My favorite author is Yuval Noah Harari and recommend *I Will Teach You to be Ri
 
 <br/>
 
-# Notes
+# Recommendations
 
 *Under construction.*
