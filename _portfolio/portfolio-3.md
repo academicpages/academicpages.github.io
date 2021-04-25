@@ -14,6 +14,8 @@ geo-referencing of printed pipeline maps,
 Euclidean distance computation,
 OLS regression on spatial data.
 
+Data: [NOAA](www.noaa.gov); 2010 satellite Earth at Night images
+
 University: [Graduate School of Global Policy and Strategy](https://gps.ucsd.edu/),
 UC San Diego
 
