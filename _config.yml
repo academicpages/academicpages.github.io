@@ -247,9 +247,9 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: single
+      type: projects
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
   # _notes
