@@ -16,9 +16,9 @@ redirect_from:
 }
 </style>
 
-#![site-logo](jesusnpl.github.io/about_me3.png)
+![site-logo](jesusnpl.github.io/about_me2.png)
 
-<img src="about_me2.jpg/about_me2.jpg" style="width: 100%" />
+<img src="about_me2.jpg" style="width: 50%" />
 
 
 I am a Bolivian evolutionary ecologist interested in Macroecology and Macroevolution, Community and Theoretical Ecology, Landscape Ecology and Natural History. I am currently a Research Scientist at the [Department of Ecology, Evolution & Behavior](https://cbs.umn.edu/academics/departments/eeb),  University of Minnesota, working with [Dr. Jeannine Cavender-Bares](https://cbs.umn.edu/cavender-bares-lab/home). I am member of the [ASCEND Biology Integration Institute](https://www.spectralbiology.org). 
