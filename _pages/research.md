@@ -15,6 +15,8 @@ share: false
 }
 </style>
 
+<img src="research2.jpg" style="width: 100%" />
+
 _If we knew what we were doing, it wouldn’t be called research_. __--Albert Einstein__
 
 _Nothing in biology makes sense except in light of evolution_. __--Theodosius Dobzhansky__

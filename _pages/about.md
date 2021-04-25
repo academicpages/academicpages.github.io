@@ -16,8 +16,6 @@ redirect_from:
 }
 </style>
 
-![site-logo](jesusnpl.github.io/about_me2.png)
-
 <img src="about_me2.jpg" style="width: 100%" />
 
 
