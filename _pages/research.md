@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 published: true
 share: false
-#image: 
-  #feature: research2.jpg
 ---
 
 <style type="text/css">
@@ -15,7 +13,7 @@ share: false
 }
 </style>
 
-<img src="research2.jpg" style="width: 100%" />
+<img src="research2.jpg" style="width: 50%" />
 
 _If we knew what we were doing, it wouldn’t be called research_. __--Albert Einstein__
 
