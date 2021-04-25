@@ -6,4 +6,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://jiangtianli91.github.io/files/jli_cv.pdf" type="application/pdf" width="100%" height="100em"/>
+
+<iframe src="https://drive.google.com/file/d/1Mnd9PJRTlICs-ELwV6IZJ3YlAauzUw_N/preview" width="640" height="480"></iframe>
