@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mark Chesney / Site Title"
+title                    : "Mark Chesney"
 title_separator          : "-"
 name                     : &name "Mark Chesney"
-description              : &description "Data Science Technology Consultant"
+description              : &description "Data Science Solutions"
 url                      : https://markplotlib.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "markplotlib.github.io"
