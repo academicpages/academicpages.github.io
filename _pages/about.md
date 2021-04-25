@@ -45,3 +45,9 @@ I love to learn, create, and think about how technology will impact our future. 
 - I started 2020 with 10 days of silent mediation and wrote about it [here](https://jordan-pierre.medium.com/10-takeaways-from-10-day-silent-meditation-1-year-later-464eb34dfc1).
 - I graduated high school in the Cayman Islands.
 - I love to travel.  I went to an international school in high school and have visited 7 countries across 3 continents.
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've been so far!</a></p>
+
+{% endif %}
