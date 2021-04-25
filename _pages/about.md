@@ -13,24 +13,15 @@ Hi! I'm Mark, a Technology Consultant with experience solving problems through i
 <!-- http://stuartgeiger.com/ -->
 <!-- in Data Engineering solutions using Amazon Web Services. -->
 
-<!-- TODO -->
-    <!-- set of diffs  http://archive.is/3TPas -->
+<!-- TODO
+jump down to cv.md
+set of diffs  http://archive.is/3TPas
+-->
 
-Professional Experience
-======
-Description of my professional experience
 
 Research & Projects
 ======
 Description of my research and projects
-
-Education
-======
-**International Affairs**, Master's Degree, focus in **International Economics**, _University of California, San Diego_
-
-**Computer Science** Fundamentals, Graduate Certification, _Seattle University_
-
-**Electrical Engineering**, Bachelor's Degree, _Seattle University_
 
 <!-- TODO:
 5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
