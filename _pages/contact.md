@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 published: true
-share: false
+share: true
 image: 
   feature: contacto2.jpg
 ---
