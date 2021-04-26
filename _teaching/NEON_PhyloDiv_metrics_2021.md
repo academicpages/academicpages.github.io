@@ -1,3 +1,9 @@
+---
+title: 'Measuring phylogenetic diversity within communities'
+date: 2021-05
+permalink: /_teaching/
+---
+
 The main goal of this practice is to present basic understanding about
 measuring phylogenetic diversity within communities or best known as the
 analysis of community phylogenetics. The community phylogenetics

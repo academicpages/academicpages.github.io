@@ -1,3 +1,9 @@
+---
+title: 'Using hyperspectral remote sensing data to predict biodiversity'
+date: 2021-05
+permalink: /_teaching/
+---
+
 In this lab we will explore some aspects of **hyperspectral** remote
 sensing obtained from the National Ecological Observatory Network
 ([NEON](https://data.neonscience.org)) with the goal of predicting
