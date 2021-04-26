@@ -24,7 +24,7 @@ The main goal of this tutorial is to present basic understanding about measuring
 
 There are different sources of information and web pages with a lot of information about this field. The most common and useful are the web pages of the books: [Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology](http://www.mpcm-evolution.org/) and [Phylogenies in Ecology](https://www.utsc.utoronto.ca/~mcadotte/page-3/). Among the most influential papers in this field are [Phylogenies and Community Ecology by Campbell Webb et al. (2002)](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.33.010802.150448) and [The merging of community ecology and phylogenetic biology by Jeannine Cavender-Bares et al. (2009)](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2009.01314.x).
 
-To get access to the tutorial click <a href="NEON_PhyloDiv_metrics_2021.html">HERE</a> <br>
+To get access to the tutorial click <a href="./NEON_PhyloDiv_metrics_2021.html">HERE</a>
 
 ## Using hyperspectral remote sensing data to predict biodiversity
 
@@ -32,4 +32,4 @@ In this tutorial we will explore some aspects of **hyperspectral** remote sensin
 
 Note. Part of the text used in this tutorial was extracted from [here](https://www.neonscience.org/resources/learning-hub/tutorials/hsi-hdf5-r) with some modifications.
 
-To get access to the tutorial click <a href="NEON_Spectra_2021.html">HERE</a> <br>
+To get access to the tutorial click <a href="./NEON_Spectra_2021.html">HERE</a>
