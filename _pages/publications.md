@@ -16,6 +16,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
++ <b style="color:blue">[OSDI-2021]</b>
+**Yuke Wang**, Boyuan Feng, Gushu Li, Shuangchen Li, Lei Deng, Yuan Xie, Yufei Ding.<br/>
+***GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs.*** <br/>
+*USENIX Symposium on Operating Systems Design and Implementation*.<br/>
+[<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/12ccSlUe0GR8mM3iAMJuYbP0OjoSUYhlL/view?usp=sharing)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L1-L6)
+
 + <b style="color:blue">[USENIX ATC-2021]</b>
 Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 ***Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew.*** <br/>
@@ -23,12 +30,6 @@ Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/1zb9boTrP4mZ-99E0l3erehCWkrm-xEYV/view?usp=sharing)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L71-L76)
 
-+ <b style="color:blue">[OSDI-2021]</b>
-**Yuke Wang**, Boyuan Feng, Gushu Li, Shuangchen Li, Lei Deng, Yuan Xie, Yufei Ding.<br/>
-***GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs.*** <br/>
-*USENIX Symposium on Operating Systems Design and Implementation*.<br/>
-[<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/12ccSlUe0GR8mM3iAMJuYbP0OjoSUYhlL/view?usp=sharing)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L1-L6)
 
 + <b style="color:blue">[CCGrid-2021]</b> 
 **Yuke Wang**, Boyuan Feng, Gushu	Li,	Georgios Tzimpragos,	Lei	Deng, Yuan	Xie, Yufei Ding.
