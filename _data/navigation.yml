@@ -11,6 +11,9 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "NEON Playground"
+    url: /NEON/
+
   - title: "Contact"
     url: /contact/
