@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zifan Zhou"
 title_separator          : "-"
 name                     : &name "Zifan Zhou"
-description              : &description "Incoming Undergraduate Student of Computer Science Department, UCLA"
+description              : &description "Incoming Undergraduate Student at Computer Science Department, UCLA"
 url                      : https://zifanzhou1024.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zifanzhou1024/zifanzhou1024.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zifan Zhou"
   avatar           : "profile.png"
-  bio              : "Incoming Undergraduate Student of Computer Science Department, UCLA"
+  bio              : "Incoming Undergraduate Student at Computer Science Department, UCLA"
   location         : "Hazlet, New Jersey"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
