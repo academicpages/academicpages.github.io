@@ -26,6 +26,8 @@ There are different sources of information and web pages with a lot of informati
 
 To get access to the tutorial click <a href="_teaching/NEON_PhyloDiv_metrics_2021.md">HERE</a>
 
+<p style="text-decoration:underline;"><a href="/NEON_PhyloDiv_metrics_2021.html">See a map of all the places I've given a talk!</a></p>
+
 ## Using hyperspectral remote sensing data to predict biodiversity
 
 In this tutorial we will explore some aspects of **hyperspectral** remote sensing obtained from the National Ecological Observatory Network ([NEON](https://data.neonscience.org)) with the goal of predicting biodiversity from the sky. Specifically, we will use hyperspectral remote sensing data from the **NEON** Airborne Observation Platform (**AOP**) (more information [here](https://www.neonscience.org/data-collection/airborne-remote-sensing) and [here](https://data.neonscience.org/data-products/DP3.30006.001)). As you will see, working with hyperspectral information/data is similar to work with any other information/data (e.g., species abundance, presence-absence) and consequently it can be used to calculate any metric of biodiversity. In this sense, **spectral diversity** can be considered as a dimension of biodiversity. 
@@ -33,3 +35,5 @@ In this tutorial we will explore some aspects of **hyperspectral** remote sensin
 Note. Part of the text used in this tutorial was extracted from [here](https://www.neonscience.org/resources/learning-hub/tutorials/hsi-hdf5-r) with some modifications.
 
 To get access to the tutorial click <a href="_teaching/NEON_Spectra_2021.md">HERE</a>
+
+<p style="text-decoration:underline;"><a href="/NEON_Spectra_2021.html">See a map of all the places I've given a talk!</a></p>
