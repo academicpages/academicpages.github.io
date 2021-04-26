@@ -1,9 +1,9 @@
 ---
 title: "placeholder"
 collection: publications
-permalink: /publication/0000-00-00-placeholder
+permalink: /publication/1900-01-01-placeholder
 excerpt: '(placeholder).'
-date: 0000-00-00
+date: 1900-01-01
 venue: '(venue)'
 paperurl: 'http://academicpages.github.io/files/paper2_placeholder.pdf'
 citation: 'Chesney, Mark. (year). &quot;(Paper Title).&quot; <i>Journal 1</i>. 1(2).'
