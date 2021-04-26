@@ -1,6 +1,6 @@
 ---
 title: "Lights from Nigeria"
-excerpt: "Reductions in Gas and Oil Flaring from Pipelines<br/><img src='/images/gis_nigeria_gas_flares.png'>"
+excerpt: "Reductions in Gas and Oil Flaring from Pipelines<br/><img src='/images/gis_nigeria_gas_flares.png' width='300' height='200'>"
 collection: portfolio
 ---
 
