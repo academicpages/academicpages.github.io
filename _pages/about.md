@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an incoming undergraduate student in the Department of Computer Science at University of California, Los Angeles starting from Autumn 2021. Click here to view my up-to-date CV.
+I am an incoming undergraduate student in the Department of Computer Science at University of California, Los Angeles starting in Fall 2021. Click here to view my up-to-date CV.
 
-My current research interests include machine learning and computer vision. Previously, I have been proposing using PyTorch to solve machine learning problems. I have also worked on projects applying algorithms in OI related problems.  
+I am currently interested in researching marhine learning and computer vision. Previously, I have used PyTorch in order to solve machine learning problems, such as increasing the accuracy and incresing the presision of image recognition. I have also worked on projects such as applying algorithms in OI-related problems.
 
 Please feel free to contact me. 
 
