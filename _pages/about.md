@@ -28,7 +28,7 @@ redirect_from:
  <i>Submitted to </i><b>Medical Image Analysis</b>.<br>
   [[paper](https://arxiv.org/abs/2104.05215)][[code](https://github.com/HiLab-git/SCPM-Net)]
   
-   * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
+* <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <i>Submitted to </i><b>Medical Image Analysis (Major revise)</b>.<br>
    [[paper](https://arxiv.org/pdf/2104.12166.pdf)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
