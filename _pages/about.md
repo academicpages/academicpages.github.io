@@ -16,10 +16,16 @@ In the summer of 2019 and winter of 2020, I worked as an intern at the [School o
 
 During my undergraduate studies, I also worked with Dr. [Charl Ras](https://findanexpert.unimelb.edu.au/profile/199833-charl-ras) at the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/), the University of Melbourne.
 
-I publish my papers under my official Vietnamese name, Tuan Dung Nguyen.
+I publish under my official Vietnamese name, Tuan Dung Nguyen.
 
 News
 ======
+
+[27-04-2021] I will be volunteering at the [ICWSM-2021](https://www.icwsm.org/2021/index.html) conference.
+
+[19-04-2021] I will be volunteering at the [AIES-2021](https://www.aies-conference.com/2021/) conference. Thanks [HMI](https://hmi.anu.edu.au/) for your invitation.
+
+[16-04-2021] I am honored to be selected to the [Cornell, Maryland and Max Planck Pre-doctoral Research School](https://cmmrs.mpi-sws.org/) (CMMRS-21).
 
 [15-12-2020] Check out our pre-print [_DONE: Distributed Newton-type Method for Federated Edge Learning_](https://arxiv.org/abs/2012.05625) on arXiv.
 
