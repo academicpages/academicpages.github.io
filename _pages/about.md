@@ -32,7 +32,12 @@ redirect_from:
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <i>Submitted to </i><b>Medical Image Analysis (Major revise)</b>.<br>
    [[paper](https://arxiv.org/pdf/2104.12166.pdf)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
-    
+
+* <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
+  <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021</b>.<br>
+  <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
+ [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
+ 
 * <b>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation</b> <br> 
   Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
  [[paper](https://arxiv.org/pdf/2102.04306.pdf)][[code](https://github.com/Beckschen/TransUNet)]
@@ -40,11 +45,6 @@ redirect_from:
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
- 
-* <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
-  <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021</b>.<br>
-  <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
- [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
   A short version of this paper was accepted by <b>ISBI2021</b>.<br>
