@@ -8,50 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mark, a Technology Consultant with experience solving problems through insights derived from data.
+Welcome. I'm Mark, a Data Science, Engineering and Technology consultant with years of experience in solving data challenges.
+The insight and deeper meaning within data is what primarily drives my curiosity.
+I love combining my data intuition and analytical skills to continue helping businesses and clients make sense of their data.
 
-<!-- http://stuartgeiger.com/ -->
-<!-- in Data Engineering solutions using Amazon Web Services. -->
+Data Science & Data Engineering
+======
+I first discovered Data Science as the field evolved from a combination of Statistics and Quantitative Methods using programmatic solutions.
+The discipline in designing research experiment procedures that address worthy questions in business and in policy
+is a constant source of my intellectual pursuit.
 
-<!-- TODO
-jump down to cv.md
-set of diffs  http://archive.is/3TPas
--->
+The immense challenge of storing and processing it to be analysis-ready has been a more recent and interesting technical endeavor.
+The vast size and scale of data requires processes to be as automated as possible,
+so that we as humans can apply our critical thinking decision skills that matter most.
 
+**Cloud Services** are fundamental tools that I've adopted. Such projects include NoSQL Data Warehouses in Redshift, Data Lakes in Spark/PySpark on Elastic Map Reduce (EMR) clusters and Simple Storage Service (S3) buckets. For data pipelines and DAGs, Apache Airflow. Lab projects include core Amazon web services such as Elastic Cloud Compute (EC2), Elastic Block Storage (EBS), and Relational Database Service (RDS).
 
 Research & Projects
 ======
-Description of my research and projects
 
-<!-- TODO:
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section -->
-<!-- https://github.com/markplotlib/markplotlib.github.io/settings/pages -->
+**Machine Learning** has been a powerful technique in my research interests.
+Recently I co-authored a research publication for an annual 2021 ACM Symposium On Applied Computing.
+This classifier uses Neural Networks to help medical research predict the risk of asthma for individual patients.
+I'm always looking for my next opportunity to contribute.
+This and other ML projects include techniques such as
+* Transfer Learning for Feed-Forward Neural Network Classifier.
+* Principal Component Analysis for dimensionality reduction
+* Unsupervised Learning and Clustering of marketing analytics datasets
 
-
-<!-- Site-wide configuration -->
-<!-- configuration file for the top menu is in
-_data/navigation.yml).  -->
-<!-- For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. -->
-
-Create content & metadata
+Remote Sensing & GIS
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-<!-- Example of file for a talk
-/images/editing-talk.png) -->
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-
-<!-- For more info -->
-<!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-
-
-<!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
-
-<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files!  -->
-<!-- Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
+Projects in geospatial analysis include impact evaluation in vegetative restoration maps (NDVI), and georeferencing Earth at Night imagery for data modeling.
+I'm also involved in a collaborative project using Computer Vision to classify farming land habitation.
