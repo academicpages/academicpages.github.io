@@ -22,7 +22,7 @@ I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I wo
 
 **Outliers Detection in Networks with Missing Links**, S. Gaucher, O. Klopp, G. Robin. [Arxiv](https://arxiv.org/abs/1911.13122)
 
-**Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp. [To appear in Journal of Statistical Planning and Inference](https://arxiv.org/abs/1902.10605)
+**Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp. [Journal of Statistical Planning and Inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375821000422), [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-02050003)
 
 R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020). S Gaucher, G. Robin. The package allows to robustly estimate probabilities of connections in the presence of missing observations and outlier nodes, while detecting those outlier nodes.
 
