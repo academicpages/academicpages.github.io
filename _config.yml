@@ -90,7 +90,7 @@ author:
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZYNE2YcAAAAJ"
   email            : "rajeev_akshay@iitgn.ac.in"
   researchgate     :  "https://www.researchgate.net/profile/Akshay_Rajeev"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
