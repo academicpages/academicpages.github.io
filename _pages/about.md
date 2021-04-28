@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[April 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021**. 
+
 \[January 2021\] One co-authored paper is accepted at **TheWebConf 2021** as a long paper. Congratulations to my co-authors!
 
 \[December 2020\] One co-authored paper is accepted at **AAAI 2021**. Congratulations to my co-authors!
