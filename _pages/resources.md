@@ -54,6 +54,7 @@ Data Visualization
 * [R Graph Gallery](https://www.r-graph-gallery.com/) for different figure templates in R
 * [Matplotlib Gallery](https://matplotlib.org/stable/index.html) for figure templates in Python
 * [Mastering Shiny](https://mastering-shiny.org/index.html) by Hadley Wickham (Shiny is a popular data app)
+* [From Data to Viz](https://www.data-to-viz.com/) helps match graph types to data types
 
 <br> 
 
