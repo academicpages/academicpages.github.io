@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ismini Lourentzou"
 title_separator          : " "
 name                     : &name "Ismini Lourentzou"
-description              : &description "Assistant Professor <br> Computer Science <br>"
+description              : &description "Assistant Professor <br> Computer Science <br> Virginia Tech"
 url                      : https://isminoula.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -81,9 +81,9 @@ analytics:
 author:
   name             : #"Ismini Lourentzou"
   avatar           : "me.jpg" #"profile.png"
-  bio              : "Assistant Professor <br> Computer Science <br>"
-  location         : "Blacksburg, VA"
-  employer         : Virginia Tech
+  bio              : "Assistant Professor <br> Computer Science <br> Virginia Tech"
+  location         : #"Blacksburg, VA"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ"
   email            : "ilourentzou@vt.edu"
   cv              : "/files/cv_Oct2018.pdf"
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@Ismini_L"
   vine             :
   weibo            :
   xing             :
