@@ -97,6 +97,7 @@ Academic Writing
 * [Purdue Online Writing Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_headings_and_seriation.html) for APA format
 * [papaya](https://www.rdocumentation.org/packages/papaja/versions/0.1.0.9054) - an R package for creating APA style manuscript using Rmarkdown
 * [Overleaf](https://www.overleaf.com/) for creating documents using LaTeX (different journal templates available, including IEEE)
+* Websites for preregistration: [Open Science Framework (OSF)](https://help.osf.io/hc/en-us/categories/360001550953-Registrations), [ClinicalTrials.gov](https://clinicaltrials.gov/), [AEA RCT Registry](https://www.socialscienceregistry.org/site/instructions), [egap](https://egap.org/registry/), [RIDIE](https://ridie.3ieimpact.org/), [Research Registry](https://www.researchregistry.com/)
 * [Power Writing](https://www.publicationcoach.com/) - a newsletter on writing tips that updates every Tuesday by Daphne Gray-Grant
 
 <br> 
