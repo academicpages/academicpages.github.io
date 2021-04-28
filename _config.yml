@@ -11,7 +11,7 @@ title                    : "Josh Nguyen"
 title_separator          : "-"
 name                     : &name "Josh Nguyen"
 description              : &description "personal description"
-url                      : https://joshnguyen99.github.io
+url                      : https://joshnguyen.net
 baseurl                  : ""
 repository               : "joshnguyen99/joshnguyen99.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Josh Nguyen"
   avatar           : "avatar.jpg"
-  bio              : "Computer science student at the University of Melbourne, Australia"
-  location         : "Melbourne, VIC, Australia"
+  bio              : "Computer science MPhil candidate at the Australian National University"
+  location         : "Canberra, ACT, Australia"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=mmy1v8oAAAAJ&hl=en&authuser=1"
-  email            : "tuandungn@unimelb.edu.au"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Tuan_Dung_Nguyen3"
   uri              :
   bitbucket        :

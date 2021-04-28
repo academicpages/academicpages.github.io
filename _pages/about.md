@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Contact me at: josh \[dot\] nguyen \[at\] anu \[dot\] edu \[dot\] au
+
 I am an MPhil student at the [Computational Media Lab](http://cm.cecs.anu.edu.au/), the Australian National University, supervised by Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/). Our current project is "Analysing Real-Word Moral Dilemmas from Online Discussions". We are interested in how dillemas come about, are presented and are justified on social media, and how to automate the reasoning process similar to that observable on online forums.
 
 Previously I graduated with a BSc in computer science from the [School of Computing and Information Systems](https://cis.unimelb.edu.au/), the University of Melbourne, Australia. 
