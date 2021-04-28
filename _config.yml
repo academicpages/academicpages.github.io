@@ -81,9 +81,9 @@ analytics:
 author:
   name             : #"Ismini Lourentzou"
   avatar           : "me.jpg" #"profile.png"
-  bio              : "Assistant Professor <br> CS@VT   <br> (starting Spring 2021)"
+  bio              : "Assistant Professor"
   location         : #"Location"
-  employer         :
+  employer         : Virginia Tech
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ"
   email            : "ilourentzou@vt.edu"
   cv              : "/files/cv_Oct2018.pdf"
