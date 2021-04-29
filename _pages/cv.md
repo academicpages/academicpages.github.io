@@ -49,7 +49,7 @@ Publications
 Select Conference Presentations 
 ======
 <b><big>Oral Presentations</big></b>
-* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, The Emergence of Head Direction Signals in Human Navigation. UCI Associated Graduate Students (AGS) Symposium, Virtual.  April, 2021. <b>(Audience Choice Award)</b> [[news](/posts/2021/4/blog-post-5/)]
+* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, The Emergence of Head Direction Signals in Human Navigation. UCI Associated Graduate Students (AGS) Symposium, Virtual.  April, 2021. <b>Audience Choice Award</b> [[news](/posts/2021/4/blog-post-5/)]
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [[news](/posts/2020/10/blog-post-4/)] [[video](https://www.youtube.com/watch?v=fEV5Bq5CTOI)]
 

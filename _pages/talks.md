@@ -16,7 +16,7 @@ Human Navigation
 
 Direction
 -----------
-* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, The Emergence of Head Direction Signals in Human Navigation. UCI Associated Graduate Students (AGS) Symposium, Virtual.  April, 2021. [[news](/posts/2021/4/blog-post-5/)] <b>(Audience Choice Award)</b> 
+* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, The Emergence of Head Direction Signals in Human Navigation. UCI Associated Graduate Students (AGS) Symposium, Virtual.  April, 2021. [[news](/posts/2021/4/blog-post-5/)] <b>Audience Choice Award</b> 
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, Cognitive Neuroscience Society (CNS) Annual Meeting, Virtual. March, 2021. [[news](https://lilianyou.github.io/posts/2021/2/blog-post-1/)]
 
