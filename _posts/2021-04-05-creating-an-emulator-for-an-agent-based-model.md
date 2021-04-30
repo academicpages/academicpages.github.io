@@ -1,10 +1,6 @@
-## Introduction
+Computers are (still) getting faster every year and it is now commonplace to run simulations in seconds that would have required hours' or days' worth of compute time in previous generations. That said, we still often come across cases where our computer models are simply too intricate and/or have too many components to run as often and quickly as we would like. In this scenario, we are frequently forced to choose a limited subset of potential scenarios manifest as parameter settings for which we have the resources to run simulations. I've written this notebook to show how to use a *statistical emulator* to help understand how the outputs of a model's simulations might vary with parameters. 
 
-Computers are (still) getting faster every year and it is now commonplace to run simulations in seconds that would have required hours' or days' worth of compute time in previous generations. That said, we still often come across cases where our computer models are simply too intricate and/or have too many components to run as often and quickly as we would like. In this scenario, we are frequently forced to choose a limited subset of potential scenarios manifest as parameter settings for which we have the resources to run simulations. 
-
-I've written this notebook to show how to use a *statistical emulator* to help understand how the outputs of a model's simulations might vary with parameters. This is going to be similar in many ways to the paper written by Kennedy and O'Hagan (2001) which is frequently cited on the subject, though our approach will be simpler in some regards.
-
-To start us off, I've modified an example of an agent-based model for disease spread on a grid which was written by Damien Farrell on [his personal site](https://dmnfarrell.github.io/bioinformatics/abm-mesa-python). We're going to write a statistical emulator in PyMC3 and use it to infer likely values for the date of peak infection *without* running the simulator exhaustively over the entire parameter space. 
+This is going to be similar in many ways to the paper written by Kennedy and O'Hagan (2001) which is frequently cited on the subject, though our approach will be simpler in some regards.To start us off, I've modified an example of an agent-based model for disease spread on a grid which was written by Damien Farrell on [his personal site](https://dmnfarrell.github.io/bioinformatics/abm-mesa-python). We're going to write a statistical emulator in PyMC3 and use it to infer likely values for the date of peak infection *without* running the simulator exhaustively over the entire parameter space. 
 
 **TL;DR**: we run our simulation for a few combinations of parameter settings and then try to estimate a simulation summary statistic for the entire parameter space.
 
@@ -158,7 +154,7 @@ plt.xlabel('Death rate'), plt.ylabel('Transmission probability'), plt.colorbar(l
 
 
     
-![png](images/2021-04-05-spatial-abm-emulator_19_0.png)
+![png](/images/2021-04-05-spatial-abm-emulator_19_0.png)
     
 
 
@@ -275,7 +271,7 @@ plt.colorbar(label='Posterior mean'), plt.title('Posterior mean surface');
 
 
     
-![png](images/2021-04-05-spatial-abm-emulator_30_1.png)
+![png](/images/2021-04-05-spatial-abm-emulator_30_1.png)
     
 
 
@@ -292,6 +288,6 @@ plt.colorbar(label='Posterior variance'), plt.title('Posterior variance surface'
 
 
     
-![png](images/2021-04-05-spatial-abm-emulator_32_0.png)
+![png](/images/2021-04-05-spatial-abm-emulator_32_0.png)
     
 
