@@ -35,8 +35,21 @@ To ensure reproducibility, it's a good habit to include a version stamp as shown
 
 ```python
 %load_ext watermark
-%watermark -i -v
+%watermark -iv
 ```
+
+    The watermark extension is already loaded. To reload it, use:
+      %reload_ext watermark
+    h3        : 3.7.2
+    pymc3     : 3.11.1
+    shapely   : 1.7.1
+    geopandas : 0.8.1
+    numpy     : 1.18.5
+    pandas    : 1.1.3
+    matplotlib: 3.3.2
+    networkx  : 2.5
+    
+
 
 At several points we will need to use multiple functions to handle geospatial operations such as creating point data, determining the adjacency of vector features, and ensuring that sets of spatial objects are topologically connected. We'll define them now so we can use them later.
 
