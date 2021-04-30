@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
  
-## Beautiful memories
+## Beautiful Memories
 
 *  [High-school Wang was having a rest at basketball court][hs1]
 *  [Undergraduate Wang was struggling in east-campus library of SYSU][UG1]
