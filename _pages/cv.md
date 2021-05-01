@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV here](http://blainmorin.github.io/files/Blain-CV.pdf)
+[Download my CV here](http://blainmorin.github.io/files/Blain_CVit.pdf)
 
-<embed src="https://blainmorin.github.io/files/Blain-CV.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://blainmorin.github.io/files/Blain_CVit.pdf" type="application/pdf" width="600px" height="500px" />
