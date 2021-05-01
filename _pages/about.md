@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a 2nd year PhD student in Statistics at University College London. I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. Before that, I accomplished my M.Sc at University of Oxford.
+My name is Z. Sun, a 2nd year PhD student in Statistics at University College London. I am very very lucky to be supervised by [Prof. F-X Briol] and [Prof. J-H Xue]. Before that, I accomplished my M.Sc at University of Oxford.
 
 Research Interest
 ======
