@@ -1,6 +1,6 @@
 ---
 title: "Omdena / Origin Chain Networks"
-excerpt: "Remote Sensing and Computer Vision for Farming Habitat Classification<br/><img src='/images/farming-ai.png'>"
+excerpt: "Remote Sensing and Computer Vision for Farming Habitat Classification<br/><img src='/images/farming-ai-satellite-view.png'>"
 collection: portfolio
 ---
 
