@@ -1,14 +1,13 @@
 ---
 permalink: /NEON/
 title: "NEON Playground"
+layout: archive
 author_profile: true
 redirect_from: 
   - /md/
   - /NEON.html 
 published: true
 share: true
-image: 
-  feature: contacto2.jpg
 ---
 
 <style type="text/css">

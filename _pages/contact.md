@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+layout: archive
 permalink: /contact/
 classes: wide
 author_profile: yes
