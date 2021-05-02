@@ -1,10 +1,11 @@
 ---
-layout: archive
 title: "Research"
+layout: archive
 permalink: /research/
-author_profile: true
-published: true
-share: false
+author_profile: yes
+classes: wide
+published: yes
+share: no
 ---
 
 <style type="text/css">

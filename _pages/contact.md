@@ -1,14 +1,13 @@
 ---
-permalink: /contact/
 title: "Contact"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
-published: true
-share: true
-image: 
-  feature: contacto2.jpg
+permalink: /contact/
+classes: wide
+author_profile: yes
+redirect_from:
+- /contact/
+- /contact.html
+published: yes
+share: yes
 ---
 
 <style type="text/css">
@@ -16,6 +15,8 @@ image:
   font-size: 11pt;
 }
 </style>
+
+<img src="contacto2.jpg" style="width: 100%" />
 
 ### Address:  
 Dr. Jesús N. Pinto-Ledezma   
@@ -27,4 +28,3 @@ Ecology Building, 1987 Upper Buford Cir, Falcon Heights, MN 55108
 [jpintole@umn.edu](mailto:jpintole@umn.edu) (preferred)   
 [jesuspintoledezma@gmail.com](mailto:jesuspintoledezma@gmail.com)   
 
-<img src="contacto2.jpg" style="width: 100%" />

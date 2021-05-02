@@ -1,14 +1,12 @@
 ---
-layout: archive
 title: "CV"
+layout: archive
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
-published: true
-share: false
-image: 
-  feature: curriculum2.jpg
+author_profile: yes
+classes: wide
+redirect_from: /resume
+published: yes
+share: no
 ---
 
 <style type="text/css">
