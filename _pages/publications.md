@@ -1,11 +1,11 @@
 ---
-layout: archive
 title: "Publications"
+layout: archive
 permalink: /publications/
-author_profile: true
-published: true
-share: false
-image: 
+author_profile: yes
+published: yes
+share: no
+image:
   feature: publications2.jpg
 ---
 
@@ -21,7 +21,7 @@ _Models are tools to understand the real world and...they can sharpen our intuit
 
 _Understanding patterns in terms of the processes that produce them is the essence of science_. __--Simon A. Levin__
 
-<img src="publications2.jpg" style="width: 100%" />
+![alt text](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/publications2.jpg?raw=true)
 
 Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
