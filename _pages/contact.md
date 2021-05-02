@@ -3,9 +3,6 @@ title: "Contact"
 permalink: /contact/
 classes: wide
 author_profile: yes
-redirect_from:
-- /contact/
-- /contact.html
 published: yes
 share: yes
 ---
