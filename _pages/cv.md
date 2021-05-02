@@ -23,6 +23,8 @@ _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 
 Updated: March 2021
 
+[ORCID profile](https://orcid.org/0000-0001-6668-9670)
+
 ## Education
 * __B.S. Biology__, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia, 2005
 * __M.S. Wildlife Management__, Universidad Nacional de Córdoba, Córdoba, Argentina, 2009
