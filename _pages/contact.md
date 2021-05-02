@@ -13,7 +13,7 @@ share: yes
 }
 </style>
 
-<img src="contacto2.jpg" style="width: 100%" />
+![alt text](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/contacto2.jpg?raw=true)
 
 ### Address:  
 Dr. Jesús N. Pinto-Ledezma   
