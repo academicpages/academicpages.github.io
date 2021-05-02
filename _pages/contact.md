@@ -26,3 +26,5 @@ Ecology Building, 1987 Upper Buford Cir, Falcon Heights, MN 55108
 ### E-mails: 
 [jpintole@umn.edu](mailto:jpintole@umn.edu) (preferred)   
 [jesuspintoledezma@gmail.com](mailto:jesuspintoledezma@gmail.com)   
+
+<img src="contacto2.jpg" style="width: 100%" />

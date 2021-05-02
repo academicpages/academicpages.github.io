@@ -21,6 +21,8 @@ _Models are tools to understand the real world and...they can sharpen our intuit
 
 _Understanding patterns in terms of the processes that produce them is the essence of science_. __--Simon A. Levin__
 
+<img src="publications2.jpg" style="width: 100%" />
+
 Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ## Published

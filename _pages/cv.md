@@ -11,8 +11,6 @@ image:
   feature: curriculum2.jpg
 ---
 
-{% include base_path %}
-
 <style type="text/css">
   body{
   font-size: 11pt;
@@ -20,6 +18,8 @@ image:
 </style>
 
 _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
+
+<img src="curriculum2.jpg" style="width: 100%" />
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV.pdf)
 
