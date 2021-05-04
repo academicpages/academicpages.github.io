@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a 2nd year PhD student in Statistics at University College London. I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. Before that, I accomplished my M.Sc at University of Oxford.
+My name is Z. Sun, a 2nd year PhD student in Statistics at University College London. I am very very lucky to be supervised by [Prof. F-X Briol](https://fxbriol.github.io) and [Prof. J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I accomplished my M.Sc at University of Oxford.
 
 Research Interest
 ======
@@ -23,7 +23,7 @@ Publication
 ======
 _[\* means equal contribution.]_
 
-*  __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. _In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS)_, PMLR.
+*  __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. _In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS)_, PMLR. [PDF](http://proceedings.mlr.press/v130/sun21a/sun21a.pdf)
 
 *  Li, X.\*, Wu, J.\*, __Sun, Z.\*__, Ma, Z., Cao, J., Xue, J-H.(2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. _IEEE Transactions on Image Processing_.
 
