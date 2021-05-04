@@ -64,4 +64,4 @@ I make friends with many elite guys who are doing state-of-the-art research in m
 
 [Peiqing Chen](https://kaiserv2.github.io/) (Undergraduate student at Peking University, Networking Algorithms). 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=467&t=n&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script>
