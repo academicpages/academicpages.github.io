@@ -38,6 +38,10 @@ In Proc. of SIGIR 2018 (short): The 41st International ACM SIGIR Conference on R
 Selected Co-authored Publications:
 * **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
 Jiahao Zhao, **Penghui Wei**, Wenji Mao  
-In Proc. of SIGIR 2021 (short): The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (_to appear_).
+In Proc. of SIGIR 2021 (short): The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (_to appear_).  
+
+* **A Knowledge Enhanced Learning and Semantic Composition Model for Multi-Claim Fact Checking**
+Shuai Wang, **Penghui Wei**, Jiahao Zhao, Wenji Mao  
+arXiv preprint arXiv:2104.13046  
 
   
