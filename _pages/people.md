@@ -89,9 +89,11 @@ Please add yourself. See example(s) below.
 
 **Twitter:** @DrJoyBuongiorno
 
+**[Website](https://jbuongio.github.io/)** 
+
 **[Google Scholar](https://scholar.google.com/citations?user=3pa76GEAAAAJ&hl=en&oi=ao)**
 
-**Bio:**  I am a geomicrobiologist combining a background in geoscience with a diverse toolkit of novel molecular methods, sequencing analysis, and bioinformatic tools to delve into the interactions between the biosphere and geosphere. I am currently a postdoctoral fellow at the Earth and Planets Laboratory at the Carnegie Institution for Science working on the NASA Astrobiology Institute ENIGMA Project. I apply methods at the frontier of integrative earth, life, and data science to answer big questions related to the co-evolution of the biosphere and geosphere through deep time.
+**Bio:**  I am a geomicrobiologist combining a background in geoscience with a diverse toolkit of novel molecular methods, sequencing analysis, and bioinformatic tools to delve into the interactions between the biosphere and geosphere. I am currently an Assistant Professor of Environmental Biology at Maryville College in Tennessee, USA. I apply methods at the frontier of integrative earth, life, and data science to answer big questions related to the co-evolution of the biosphere and geosphere through deep time and in modern environments.
 
 
 ## Ashley B. Cohen, M.S.
