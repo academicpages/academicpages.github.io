@@ -21,4 +21,5 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 
 ## New Paper Alert
 Yongjun Zhang. 2021. "Corporate Responses to COVID19: A Non-Market Strategy Approach." Sociological Perspectivies.
+
 Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. “[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)” Poetics
