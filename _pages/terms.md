@@ -42,4 +42,5 @@ Google Analytics is a web analytics tool I use to help understand how visitors e
 
 ### Analytics
 
-I use [Counter.dev](https://github.com/ihucos/counter.dev) to provide very minimal analytics about the number of page views. I do not store any data about interactions and make no attempt to track you across the web. The source code is available publicly. No cookies are used.
+<!-- I use [Counter.dev](https://github.com/ihucos/counter.dev) to provide very minimal analytics about the number of page views. I do not store any data about interactions and make no attempt to track you across the web. The source code is available publicly. No cookies are used. -->
+I use Cloudflare to provide very minimal analytics about the traffic. I do not store any data about individual interactions and make no attempt to track you across the web. No cookies are used. 
