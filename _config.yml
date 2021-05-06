@@ -86,7 +86,7 @@ author:
   location         : "LDN"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=l-latzQAAAAJ&view_op=list_works&gmla=AJsN-F5cIjrZTnm5u1sYLeEYjonSK-65f4ZDVAybOLmd4VmL0cyfdKeNeJPK2KiX2dzpiqtrlJ5-FYMqRnccrvduQHnMhO-uCDJqnrdDK6t7QGnHlHrrNSJbTXkvCC6K89NPkpqH9o5S"
   email            :
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
