@@ -1,12 +1,12 @@
 ---
-title: Modeling spatial structure in binary data
+title: Modeling spatial structure in binary data with an H3 hexagonal coordinate system
 mathjax: true
 comments: true
 ---
 
 We often model geostatistical (i.e. point-referenced data) in order to determine whether or not there are spatial patterns of autocorrelation. The object of interest is frequently an underlying spatial function giving rise to patterns of spatially correlated data. When we work with discrete observational data, a problem arises - we want to study smoothly-varying response surfaces over space, but the data themselves are not continuous and therefore we cannot specify a likelihood which is continuous in both space and response. Consequently, we often choose to **reparameterize** our model in terms of a latent smooth spatial surface and a link function mapping this spatial surface to the parameters of a likelihood function appropriate for discrete data.
 
-This notebook shows how to analyze binary geospatial point data using a spatially-smoothing conditional autoregression model to test for the existence of clusters of 0 or 1 values. The dataset used in this example is **simulated** data of preterm births in Washington, DC.
+This notebook shows how to analyze binary geospatial point data using a spatially-smoothing conditional autoregression model to test for the existence of clusters of 0 or 1 values. The dataset used in this example is **simulated** data of preterm births in Washington, DC. While many autoregressive models use square grids, we're going to use a hexagonal tiling from Uber's H3 coordinate system library to demarcate our areal units.
 
 ## Generating simulated data
 
