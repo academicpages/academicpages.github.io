@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download PDF](https://docs.google.com/document/d/12nh3AOX7vRsxJB9Tl3vcPk3FuHFIepbvyMkYmbL8xis/edit?usp=sharing)
 
 Education
 ======
@@ -19,24 +20,25 @@ Work experience
 * **Data & Analytics Consultant**, CapTech Ventures Inc.			                  
   * Columbus, Ohio, Jan. 2020 - Present
   * **Software Developer - Python**, Fortune 200 Used Car Retailer
-    * Performed load performance and regression analytics and API development for ETL processes to better forecast the costs of enhancements for business decisions and prioritizations. 
-  * **Big Data / ML Engineer**, Fortune 100 Financial Services Company
-    * Worked at a Fortune 100 bank as a Machine Learning Engineer with a team of data scientists to develop a dynamic penalty function to grade each business application by cyber risk by summarizing over 170 metrics across 4 domains.
-    * Formulated a penalty function, worked with subject matter experts (SMEs) to own the “Resiliency” domain within cyber risk, and developed and productionized the model in python and SQL on AWS.
+    * Performed infrastructure systems integration and deployment in Microsoft Azure, using Ansible (Python) and TeamCity.
+  * **Big Data / Machine Learning Engineer**, Fortune 100 Financial Services Company
+    * Played a critical role on a team of data scientists to develop a risk modeling score using a dynamic penalty function to grade each business application by cyber risk by summarizing over 170 metrics across 4 domains.
+    * Formulated a penalty function, worked with subject matter experts (SMEs) to own the “Resiliency” domain within cyber risk, and developed and productionized the model in Python and SQL on AWS.
 
 
 * **Data Science Implementation Specialist Intern**, Nationwide Insurance
   * Columbus, Ohio, May 2019 - Dec. 2019
-  * Worked in the Predictive Analytics department to formulate and develop a back end automated system and front end web application that monitors the performance of predictive models through a series of data visualizations. 
+  * Developed and deployed a performance monitoring system for all predictive models in the Predictive Analytics Department so both audit and data science leadership can understand how models change over time.
   * Handled all ETL processes in SQL and SPSS Modeler. Used Python and Django to visualize data in a web application. 
-  * Aided in the development of other front end web applications designed to support predictive models.
-  * Environment:  Teradata, Linux, Django, Flask, Python, R, Shell, Tableau, Postgre SQL Server.
+  * Prepared and deployed other predictive models into production with IBM’s SPSS Collaboration and Deployment Services.
+  * Environment:  Teradata, Linux, Django, Python, R, Shell, Tableau, Postgre SQL Server.
 
 
 * **Data Science Capstone Project**, NetJets						   
   * Columbus, Ohio, Aug. 2019 - Dec. 2019
   * Lead a group of three to develop a predictive model to estimate the probability of an unscheduled maintenance event occurring on a specific jet the next day, based on 2019 YTD data.
-  * Implemented data mining and machine learning techniques in python for data exploration and model development.
+  * Challenges included relating maintenance events to recent flights (no join keys) and imbalanced dataset.
+  * Concluded with a random forest model with a Type I (overly conservative) error rate of ~40% and Type II error rate of 2-5%.  The models applied to 47% of the fleet and a conservative 1% reduction in total unexpected maintenance events translates to $1.7 million in savings YoY.
 
 
 * **Big Data Engineer Intern**, Vertiv Co.						          
@@ -49,7 +51,7 @@ Work experience
 
 Skills
 ======
-* **Programming Languages**: Python (Pandas, NumPy, Scikit-Learn, PySpark, PyTorch), SQL, R, Java, Apache Spark, C++, Linux, Bash
+* **Programming Languages**: Python (Pandas, NumPy, Scikit-Learn, PySpark, PyTorch), SQL, R, Linux, Bash
 * **Software**: Tableau, QuickSight, Power BI, SPSS Modeler
 * **Databases**: Snowflake, Hive, Teradata, SQLite, PostgreSQL Server, MS Access, AWS Redshift
 * Lean Six Sigma Yellow Belt Certified
