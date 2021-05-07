@@ -15,8 +15,8 @@ redirect_from:
 
 
 # Recent News
-* May. 06, 2021, Our paper <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> was accepted by <b>Medical Image Analysis</b>, thanks for all co-authors.
-* April. 29, 2021, One co-author paper <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> was accepted by IJCAI, congratulate Dr. [Shaohua Li](https://scholar.google.com.sg/citations?hl=en&user=e4pk9x0AAAAJ&view_op=list_works&sortby=pubdate).
+* May 06, 2021, Our paper <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors.
+* April 29, 2021, One co-author paper <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> was accepted by IJCAI, congratulate Dr. [Shaohua Li](https://scholar.google.com.sg/citations?hl=en&user=e4pk9x0AAAAJ&view_op=list_works&sortby=pubdate).
 * Mar. 21, 2021, I will join SenseTime Research as a research intern and work with [Mr. Tao Song](https://scholar.google.com/citations?user=Xzk31ssAAAAJ&hl=zh-CN) again in July 2021.
 * Jan. 25, 2021, We released a code base and some 2D examples for weakly-supervised medical image segmentation research, the repo at [WSL4MIS](https://github.com/Luoxd1996/WSL4MIS), any advices and suggestions are welcomed. 
 * Jan. 08, 2021, Our paper <b>Deep Elastica for Image Segmentation</b> was accepted by <b>ISBI 2021</b>.
