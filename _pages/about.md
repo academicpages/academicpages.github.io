@@ -33,7 +33,8 @@ _[\* means equal contribution.]_
 
 Talks/Presentations
 ======
-*  Poster at _AISTATS 2021_, April 2021, (San Diego, California, USA).
+*  Talk at _[MCM 2021](https://www.uni-mannheim.de/mcm-2021/)_, 2021, (German).
+*  Poster at _[AISTATS 2021](https://aistats.org/aistats2021/)_, April 2021, (San Diego, California, USA).
 *  Talk at _Data Centric Engineering @ The Alan Turing Institute_, March 2021, (London, UK).
 
 
