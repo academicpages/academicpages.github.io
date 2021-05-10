@@ -44,7 +44,7 @@ I enjoy sports including jogging and basketball. My favourite team in NBA is San
 
 I am a civil aviation enthusiast. I am a member of the ACICFG, a team devoted to making subtitles and captions for documentaries related to civil aviation (such as the **Air Crash Investigation**). Some of our works are published on [bilibili](https://space.bilibili.com/358422). I also write some articles on [zhihu](https://www.zhihu.com/people/mai-kang-ming/activities) related to civil aviation and my research. 
 
-I am an alcoholist and I enjoy drinking, I like: 
+I am an alcoholist and I enjoy drinking, I like the following types of alcohol. 
 
 - Beers, including Pale Ale (I like **Ballast Point**, **Brooklyn**, **Dogfish** and **BrewDog**.), Trappist (I like **Rochefort** and **Chimay**.) and Hefeweizen (I think **Franziskaner** is good enough.). 
 
