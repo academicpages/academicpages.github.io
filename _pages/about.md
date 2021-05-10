@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "argyi's blog for LI Aiyi"
+# title: "argyi's blog for LI Aiyi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to this Page.
+[CV](/files/cv.pdf)
+
+Master Student, \\
+[Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/), \\
+Department of Bioinformatic Engineering, \\
+Graduate School of Information Science and Technology, \\
+Osaka University, Japan

@@ -12,11 +12,14 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Posts"
-    url: /year-archive/
+  # - title: "Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "Lab"
+    url: /lab/

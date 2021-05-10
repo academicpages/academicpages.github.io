@@ -7,10 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LI Aiyi"
+title                    : "Aiyi"
 title_separator          : "-"
 name                     : &name "LI Aiyi"
 description              : &description "Student"
+# url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://argyili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -87,7 +88,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "li-aiyi@ist.osaka-u.ac.jp"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,10 +104,10 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   # twitter          : "replacethistwitterhandle"
@@ -114,8 +115,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
-  leetcode-cn      : "https://leetcode-cn.com/u/argyi/"
+  # wikipedia        : "asd"
+  leetcode      : https://leetcode-cn.com/u/argyi
 
 # Reading Files
 include:
