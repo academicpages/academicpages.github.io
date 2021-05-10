@@ -25,24 +25,27 @@ layout: compress
     <div class="page__footer">
       <footer>
         <div style="width: 50%; float: left">
-          <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-          <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
-          <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i></a>
-          <a href="https://linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i></a>
+          <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github fa-lg" aria-hidden="true"></i></a>
+<!--          <a href="https://gitlab.com/{{ author.gitlab }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i></a>-->
+<!--        <a href="https://stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i></a>-->
+<!--        <a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i></a>-->
+<!--        <a href="https://codepen.io/{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i></a>-->
+          <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter fa-lg" aria-hidden="true"></i></a>
+          <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap fa-lg"></i></a>
+<!--          <a href="https://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw fa-lg"></i></a>-->
+<!--          <a href="https://www.semanticscholar.org/author/{{ author.semanticscholar }}"><i class="fab fa-fw fa-graduation-cap fa-2x"></i></a>-->
+<!--          <a href="https://mendeley.com/{{ author.mendeley }}"><i class="fab fa-fw fa-mendeley" aria-hidden="true"></i></a>-->
+<!--        <a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>-->
+          <a href="https://linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin-in fa-lg" aria-hidden="true"></i></a>
 <!--        <a href="https://goodreads.com/user/show/{{ author.goodreads }}"><i class="fab fa-fw fa-goodreads-g"></i></a>-->
 <!--        <a href="https://angel.co/{{ author.angellist }}"><i class="fab fa-fw fa-angellist"></i></a>-->
 <!--        <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i></a>-->
 <!--        <a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i></a>-->
-<!--        <a href="https://stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i></a>-->
 <!--        <a href="https://youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i></a>-->
-<!--        <a href="https://codepen.io/{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i></a>-->
 <!--        <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>-->
-<!--        <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>-->
-<!--        <a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i></a>-->
 <!--        <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>-->
-<!--        <a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>-->
         </div>
-        <div style="text-align: right; width: 50%; float: right">
+        <div style="text-align: right; width: 50%; float: right;">
           &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
         </div>
       </footer>
