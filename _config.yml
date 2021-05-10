@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Onno Kampman"
+title                    : "Onno P. Kampman"
 title_separator          : "-"
 name                     : &name "Onno Pepijn Kampman"
 description              : &description "Computational Neuroscientist"
@@ -71,12 +71,14 @@ author:
   codepen          :
   github           : "OnnoKampman"
   gitlab           :
+  golden           :
   goodreads        : "43642138-onno"
   keybase          :
   linkedin         : "onnokampman"
   mendeley         :
-#  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "0000-0001-8125-2565"
   researchgate     :
+  semanticscholar  : "Onno-P.-Kampman/145315291"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : "KampmanOnno"
