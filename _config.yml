@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aiyi"
+title                    : "LI Aiyi"
 title_separator          : "-"
 name                     : &name "LI Aiyi"
 description              : &description "Student"
-# url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : https://argyili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://argyili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "LI Aiyi"
+  name             : ""
   avatar           : "profile.jpg"
   bio              : ""
   location         : "Osaka, Japan"
