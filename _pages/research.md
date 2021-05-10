@@ -9,7 +9,7 @@ redirect_from:
 
 ## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
 
-Collaborators: [Colin Conwell](https://psychology.fas.harvard.edu/people/colin-conwell) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
+Collaborators: [Colin Conwell](https://colinconwell.github.io) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
 * Conwell, C., Doshi, F., Alvarez, G.A.(2019). *Shared Representations of Stability in Humans, Supervised, & Unsupervised Neural Networks. In Shared Visual Representations in Human and Machine Intelligence*. SVRHM workshop at NeurIPS 2019. [pdf](http://feziodoshi.github.io/files/neurips_2019_svrhm.pdf)
 
 * Conwell, C., Doshi, F., Alvarez, G.A.(2019). *Human-Like Judgments of Stability Emerge from Purely Perceptual Features: Evidence from Supervised and Unsupervised Deep Neural Networks.* In Proceedings of the 3rd Conference on Cognitive Computational Neuroscience (CCN), 2019. [pdf](https://ccneuro.org/2019/proceedings/0000605.pdf)
