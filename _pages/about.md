@@ -19,6 +19,14 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
+## Upcoming Talks
+Yongjun Zhang. 2021. The Power of Shareholder Political Transparency Activism. Social Issues in Managment Division. Academy of Management Annual Conference.
+
+Yongjun Zhang. 2021.  “How Does the American State Recognize Movements? Social Movement Organizations Before Congressional Hearings, 1900-2000.” American Sociological Association 116th Annual Conference. With Charles Seguin and Tom Maher.
+
+Yongjun Zhang. 2021. "Leveraging Compuataional Methods in Social Science: Opportunities and Challenges." Peking University.
+
+
 ## New Paper Alert
 Yongjun Zhang. 2021. "Corporate Responses to COVID19: A Non-Market Strategy Approach." Sociological Perspectivies.
 
