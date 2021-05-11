@@ -7,7 +7,7 @@ author_profile: true
 
 ## ZLab Intro
 
-The Z Research Lab uses computational, statistical, and network methods to analyze social and human behavior, including segregation and polarization in the United States.
+The Zhang Research Lab uses computational, statistical, and network methods to analyze social and human behavior, including segregation and polarization in the United States.
 
 One project focuses on partisanship and polarization in Corporate America using administrative, social media, and earnings call big data.
 
