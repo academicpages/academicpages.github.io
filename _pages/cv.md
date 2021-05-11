@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* March 2020 - Present: Data Analyst at Max Planck Institute of Human Cognitive and Brain Sciences
+  * Analyzing and developing pipelines for fMRI Data
+  * Research Group Learning in Early Childhood    
 * Summer 2020: Master's Thesis in Life Science Informatics
   * Title: Extracting Most Predictive Subgraphs from Models of Human Brain Connectivity
   * Supervisor: Prof. Dr. Thomas Schultz, b-it and the University of Bonn
