@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 [CV](/files/cv.pdf)
 
 Master Student, \\
