@@ -1,9 +1,11 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F2G0RFR8C2"></script>
+<script async src= "https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-F2G0RFR8C2"></script> -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-F2G0RFR8C2');
+  gtag('config', '{{site.analytics.google.tracking_id}}');
+  // gtag('config', 'G-F2G0RFR8C2');
 </script>
