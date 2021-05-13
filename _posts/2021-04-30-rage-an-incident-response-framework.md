@@ -1,5 +1,5 @@
 ---
-title: RAGE: an incident response framework
+title: "RAGE: an incident response framework"
 date: 2021-04-30
 permalink: /posts/2021/4/rage-an-incident-response-framework/
 tags:
