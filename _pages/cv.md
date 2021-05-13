@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-[Click here](http://lilianyou.github.io/files/You_Cheng_CV_May_7_2021.pdf) for a full CV.
+Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_May_13_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_resume.pdf)).
 
 Education
 ======
