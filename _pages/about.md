@@ -13,7 +13,14 @@ experience in infectious disease, microbiome science, microbiology, antibiotic
 resistance, statistics, computing, and mathematical modeling. I have developed
 skill sets in facilitation, technical communication, and project management.
 
-I am a part-time Research Analyst in the [Center for Public Health
+## Work history
+
+I work at [Biobot Analytics](https://www.biobot.io) as a Computational
+Epidemiologist, connecting wastewater-based data streams with public health
+actions. Biobot currently performs COVID-19 monitoring for places
+like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm).
+
+During COVID-19, I was a part-time Research Analyst in the [Center for Public Health
 Preparedness and Resilience](https://www.cna.org/centers/ipr/phpr/) in the
 [Institute for Public Research](https://www.cna.org/centers/ipr/) at
 [CNA](https://www.cna.org/). CNA is a nonprofit research institute that
@@ -21,22 +28,17 @@ provides objective analysis to Federal, state, and local government. At CNA,
 my work has focused on advising US Navy, Federal agencies, and state and city
 officials, especially on COVID-19.
 
-I also work as an consultant for [Biobot](https://www.biobot.io/),
-a wastewater epidemiology currently focused on COVID-19 surveillance for places
-like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm). As an
-independent epidemiological consultant with Dr. [Yonatan
+As an independent epidemiological consultant with Dr. [Yonatan
 Grad](https://www.hsph.harvard.edu/yonatan-grad/), I co-designed a model used
 to inform the design of the National Basketball Association's "bubble"
 for the 2020 play-offs.
 
-## Background
-
-My main research interests are antimicrobial resistance and microbiome science.
-
-I was previously Scientific Director at
+Before COVID-19, I was Scientific Director at
 [OpenBiome](http://www.openbiome.org), a non-profit stool bank based in
 Boston. OpenBiome provides material for fecal microbiota transplantation
 (FMT) for use in treating *C. difficile* infection and for research.
+
+## Educational background
 
 I did my postdoctoral training with [Yonatan
 Grad](https://www.hsph.harvard.edu/yonatan-grad/) at the Harvard Chan School

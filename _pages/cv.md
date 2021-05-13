@@ -11,24 +11,39 @@ redirect_from:
 
 ## Experience
 
-- **Research Analyst**, [CNA](https://www.cna.org/) (2020--)
+- **Computational Epidemiologist**, [Biobot Analytics](https://www.biobot.io/) (2020--)
+    - Developed mathematical model of waster epidemiology's predictive value for COVID-19 activity
+    - Established data-driven thresholds of COVID-19 risk based on SARS-CoV-2 wastewater concentrations
+- **Epidemiological Assistant** (*previously Postdoctoral Fellow*), Harvard Chan School (2021--)
+    - Discovered quantitative evidence of antibiotic resistance “spillover” between US states
+    - Made first quantification of US nationwide racial/ethnic disparities in antibiotic use
+    - Created comprehensive "landscape" of antibiotic use & resistance across 72 pathogen-drug combinations
+    - Differentiated role of repeated, intensive antibiotic use versus "broad" use in selecting for resistance
+    - Found evidence that market factors, not medical guidelines, drive trends in antibiotic prescribing
+    - Demonstrated that use of azithromycin for respiratory infections affects resistance among *N. gonorrhoeae*
+- **Research Analyst**, Institute for Public Research, [CNA](https://www.cna.org/) (2020--)
     - Implemented a [Vaccine Vulnerability Index](https://www.cna.org/centers/ipr/phpr/vaccination-tool) for DHS [CISA](https://en.wikipedia.org/wiki/Cybersecurity_and_Infrastructure_Security_Agency)
     - Executed an infectious disease threat assessment for the Greater Houston Region
     - Conceptualized portions of New York City Emergency Management's Urban Risk Index
     - Supported COVID-19 after-action reviews for Virginia's Departments of Health and Emergency Management
-- **Consultant**
-    - Epidemiological assistant, Harvard Chan School of Public Health (2021--)
-    - Epidemiology consultant, [Biobot Analytics](https://www.biobot.io/) (2020--)
-    - Scientific consultant, [OpenBiome](https://www.openbiome.org/) (2020--)
-    - Epidemiology consultant, Epic Games (2020)
-    - Epidemiology consultant, National Basketball Association (2020--)
-- **Scientific Director**, [OpenBiome](https://www.openbiome.org/) (2019--2020)
-- **Postdoctoral Associate**, Harvard Chan School of Public Health (2016--2018)
-    - Research focus: Epidemiology of antibiotic use and resistance
-    - Advisor: [Yonatan Grad](https://www.hsph.harvard.edu/yonatan-grad/)
+- **COVID-19 Epidemiology Consultant** (2020)
+    - National Basketball Association
+        - Built epidemiological model of COVID-19 transmission in a "bubble"
+        - Advised on design of Orlando "bubble" system used for the 2020 playoffs
+    - [Epic Games](https://www.epicgames.com/)
+        - Built model of COVID-19 infection and absenteeism among employees
+        - Advised on company’s strategic response to COVID-19 pandemic
+- **Scientific Director** (*later consultant*), [OpenBiome](https://www.openbiome.org/) (2019--2021)
+    - Acted as lead scientist for 70-person gut microbiota therapeutics nonprofit
+    - Managed 2 dedicated research staff and multiple cross-departmental staff on internal research projects
+    - Charted organization-wide 5-year research goals
+    - Restructured 12-person research staff into thematic program areas
+    - Planned and facilitated company-wide 2019 strategic planning process
 
 ## Education
 
+- Postdoctoral Fellowship, Harvard Chan School (2016--2018)
+    - Advisor: [Yonatan Grad](https://www.hsph.harvard.edu/yonatan-grad/)
 - **PhD**, Biological Engineering, MIT (2016)
     - Thesis: *Quantitative modeling for microbial ecology and clinical trials* ([MIT Dspace](https://dspace.mit.edu/handle/1721.1/107277))
     - Advisor: [Eric Alm](https://be.mit.edu/directory/eric-alm)
