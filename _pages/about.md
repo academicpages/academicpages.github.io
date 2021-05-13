@@ -16,7 +16,7 @@ Previously, I worked in CTO's R&D team at <a style="text-decoration:none" href="
 Updates
 ======
 **2021**
-  * **7-10 Apr** - Attended Google Graduate Symposium 2021 - [Notes](https://patel-zeel.github.io/Google-Symposium-2021/) - [Lectures](https://sites.google.com/view/graduatesymposium2021/lectures-and-panel-links)
+  * **7-10 Apr** - Attended Google Graduate Symposium 2021 - [Notes](https://patel-zeel.github.io/Google-Symposium-2021/) - [Sessions](https://sites.google.com/view/graduatesymposium2021/lectures-and-panel-links)
   * **8 Mar** - Cleared PhD Qualifiers exam
 
 **2020**
