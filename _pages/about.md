@@ -32,7 +32,7 @@ News
 
 Publications
 ------
-* Canqi Yao, Shibo Chen, and Zaiyue Yang. "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." IEEE Transactions on Intelligent Transportation Systems **accepted**. [pdf](https://arxiv.org/abs/2105.05711)
+* Canqi Yao, Shibo Chen, and Zaiyue Yang. "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." IEEE Transactions on Intelligent Transportation Systems **accepted**. [[pdf]](https://arxiv.org/abs/2105.05711)
 * Canqi Yao, Shibo Chen, and Zaiyue Yang."Evacuation Problem Under the Nuclear Leakage Accident." 2021 40th Chinese Control Conference (CCC). IEEE, 2021.
 
 
