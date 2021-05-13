@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at SUSTech"
   location         : "Shenzhen China"
-  employer         :
+  employer         : "https://www.sustech.edu.cn/en/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=lV7z0WEAAAAJ&hl=en"
   email            : 11849606@mail.sustech.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/canqi-yao-46323814a/"
   orcid            : "https://orcid.org/0000-0002-7890-9324"
   pinterest        :
   soundcloud       :
