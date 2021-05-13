@@ -18,4 +18,5 @@ Department of Bioinformatic Engineering, \\
 Graduate School of Information Science and Technology, \\
 Osaka University, Japan
 
-Reading Book: The Model Thinker: What You Need to Know to Make Data Work for You
+Reading Book: \\
+* The Model Thinker: What You Need to Know to Make Data Work for You
