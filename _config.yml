@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at SUSTech"
   location         : "Shenzhen China"
-  employer         : "https://www.sustech.edu.cn/en/"
+  employer         :  #"https://www.sustech.edu.cn/en/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lV7z0WEAAAAJ&hl=en"
   email            : 11849606@mail.sustech.edu.cn
