@@ -21,6 +21,7 @@ My research interests lie in the intersection of Data Science, Big Data, Machine
 
 # News
 
+- **May, 2020:** Paper accepted to MICCAI'21 (Early accept, top 13%). 
 - **April, 2020:** Paper accepted to SIGIR'21 and workshop paper accepted to PerInt@PETRA'21. 
 - **April, 2020:** Will be teaching [CS5604: Information Storage and Retrieval](https://isminoula.github.io/cs5604/) in Fall 2021 (more details soon). 
 - **March, 2020:** Our multimodal Chest X-ray data was recently published in [Nature Scientific Data](https://www.nature.com/articles/s41597-021-00863-5), accompanied with a short [blog](https://researchdata.springernature.com/posts/creation-and-validation-of-a-chest-x-ray-dataset-with-eye-tracking-and-report-dictation-for-ai-development?channel_id=behind-the-paper) describing the work. We show that utilizing eye-gaze information can lead to improved performance and guide the model to produce more accurate activation maps.
