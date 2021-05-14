@@ -10,17 +10,13 @@ author_profile: true
   
 * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
- <b>Medical Image Analysis (IF=11.148, 2020)</b>.<br>
+ <b>Medical Image Analysis (SCI, IF=11.148)</b>.<br>
    [[paper](https://arxiv.org/pdf/2104.12166.pdf)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
 
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
   <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021  (CCF A)</b>.<br>
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
- 
-* <b>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation</b> <br> 
-  Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
- [[paper](https://arxiv.org/pdf/2102.04306.pdf)][[code](https://github.com/Beckschen/TransUNet)]
  
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
@@ -36,3 +32,7 @@ author_profile: true
   Tao Song*, Jieneng Chen*, <b>Xiangde Luo</b>, Yechong Huang, Xinglong Liu, Ning Huang, Yinan Chen, Zhaoxiang Ye, Huaqiang Sheng, Shaoting Zhang, Guotai Wang<br>
   <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2020 (early accepted)</b>.<br>
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/HiLab-git/SCPM-Net)]
+ 
+ * <b>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation</b> <br> 
+  Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
+ [[paper](https://arxiv.org/pdf/2102.04306.pdf)][[code](https://github.com/Beckschen/TransUNet)]
