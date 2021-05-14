@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Recent News
+* May 14, 2021, Our paper <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> was early accepted by <b>MICCAI2021</b>, thanks to all co-authors.
 * May 06, 2021, Our paper <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors.
 * April 29, 2021, One co-author paper <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> was accepted by IJCAI, congratulate Dr. [Shaohua Li](https://scholar.google.com.sg/citations?hl=en&user=e4pk9x0AAAAJ&view_op=list_works&sortby=pubdate).
 * Mar. 21, 2021, I will join SenseTime Research as a research intern and work with [Mr. Tao Song](https://scholar.google.com/citations?user=Xzk31ssAAAAJ&hl=zh-CN) again in July 2021.
@@ -46,6 +47,7 @@ redirect_from:
  
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted)</b>.<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
  
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
