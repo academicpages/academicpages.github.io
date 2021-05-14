@@ -71,9 +71,11 @@ Modeling
 * [Feature Engineering for Machine Learning](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf) by Alice Zheng & Amanda Casari
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+* [Neural Networks and Deep Learning: Introduction to core principles](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/) by David Macay
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/) by Alicia A. Johnson, Miles Ott, & Mine Dogucu
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton & Andrew G. Barton
 * [Kaggle](https://www.kaggle.com/) for downloading some fun public datasets to try out machine learning algorithms
 
 <br> 
