@@ -12,7 +12,7 @@ author_profile: true
 Selected First-authored Publications:
 * **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021 (_to appear_).  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol 29, 2021: 1650--1660.  
 
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
