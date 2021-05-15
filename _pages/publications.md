@@ -8,8 +8,8 @@ author_profile: true
     
 ## Journal Articles
 
-+ **Sun, Y.**, Tang, J., Butler, A., Liu, C., Fang, Y. and Weng, C., "Interactive Similarity-Based Search of Clinical Trials". , 2021. (in submission)  
-  
++ **Sun, Y.**, Tang, J., Butler, A., Liu, C., Fang, Y. and Weng, C., "Interactive Similarity-Based Search of Clinical Trials". , 2021. (in submission)
+
 + **Sun, Y.**, Butler, A., Diallo1, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "Systematic Evaluation Framework for Clinical Trial Population Representativeness Using Electronic Health Records Data". , 2021. (in submission)
 
 + Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_Diabetes, Obesity and Metabolism_**, 2020. (in submission)
