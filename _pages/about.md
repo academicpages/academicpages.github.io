@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-[CV](/files/cv.pdf)
+[CV](/files/cv_li.pdf)
 
 Master Student, \\
 [Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/), \\
