@@ -15,7 +15,7 @@ redirect_from:
 
 A Data & Analytics Consultant with experience as a Python Developer, Data Scientist, Data Science Implementation Specialist, and Data Engineer.  
 
-I love to learn, create, and think about how technology will impact our future.  I write down a ton of what I learn and I've recently decided to put it all on display. I'm in th e process revisiting and refining my notes from Google Keep and moving them here so others can learn with me.  In the 'notes' tab, you will find book summaries, technical topics like programming, statistics, machine learning, and algorithms, as well as some of my thoughts on philosophy and ethics. 
+I love to learn, create, and think about how technology will impact our future.  I write down a ton of what I learn and I've recently decided to put it all on display. I'm in the process revisiting and refining my notes from Google Keep and moving them here so others can learn with me.  In the 'notes' tab, you will find book summaries, technical topics like programming, statistics, machine learning, and algorithms, as well as some of my thoughts on philosophy and ethics. 
 
 
 🔭 I’m currently working on ...
