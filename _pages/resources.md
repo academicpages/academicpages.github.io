@@ -110,7 +110,7 @@ Presentation & Science Communication
 * a nature article on [how scientific presentation is different from a journal article](https://www.nature.com/articles/d41586-020-03300-6)
 * [Design for an Audience](http://style.org/ku/) by a science graphics editor of The New York Times
 * [Morrison billborad poster](http://betterposters.blogspot.com/2019/04/critique-morrison-billboard-poster.html) - an award-winning poster format that applies modern principles of graphic design and user experience research (template downloadable)
-* [Kapwing](https://www.kapwing.com/) or [Google Slides - Caption Function](https://support.google.com/docs/answer/9109474?hl=en) for video caption
+* [Kapwing](https://www.kapwing.com/) for caption recorded videos or [Google Slides - Caption](https://support.google.com/docs/answer/9109474?hl=en) for caption presentation in real time
 * [Activate to Captivate](https://www.activatetocaptivate.com/) a monthly newsletter that gives tips on communication skills by Bri McWhorter
 * [ComSciCon](https://comscicon.com/) - a series of workshops on science communication 
 * [SCOPE (Science Communication Online Programme)](https://ciera.northwestern.edu/programs/scope/) hosted by Northwestern University
