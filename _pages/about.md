@@ -57,5 +57,5 @@ redirect_from:
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/HiLab-git/SCPM-Net)]
  
  * <b>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation</b> <br> 
-  Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
+ Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
  [[paper](https://arxiv.org/pdf/2102.04306.pdf)][[code](https://github.com/Beckschen/TransUNet)]
