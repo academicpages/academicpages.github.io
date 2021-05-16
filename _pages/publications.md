@@ -9,10 +9,14 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Selected First-authored Publications:
+Selected Publications:
 * **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol 29, 2021: 1650--1660.  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, volume 29, 2021: 1650--1660.  
+
+* **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
+Jiahao Zhao, **Penghui Wei**, Wenji Mao  
+In Proc. of SIGIR 2021 (short): The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (_to appear_).  
 
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
@@ -33,15 +37,13 @@ In Proc. of AAAI 2019 (long): The 33rd AAAI Conference on Artificial Intelligenc
 * **Multi-Target Stance Detection via a Dynamic Memory-Augmented Network**       
 **Penghui Wei**, Junjie Lin, Wenji Mao  
 In Proc. of SIGIR 2018 (short): The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1229--1232. Ann Arbor, MI, USA, July 8--12, 2018.  
-<br/>
-  
-Selected Co-authored Publications:
-* **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
-Jiahao Zhao, **Penghui Wei**, Wenji Mao  
-In Proc. of SIGIR 2021 (short): The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (_to appear_).  
 
 * **A Knowledge Enhanced Learning and Semantic Composition Model for Multi-Claim Fact Checking**  
 Shuai Wang, **Penghui Wei**, Jiahao Zhao, Wenji Mao  
 arXiv preprint arXiv:2104.13046  
+
+* **MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks**
+Nan Xu, Wenji Mao, **Penghui Wei**, Daniel Zeng
+In IEEE Intelligent Systems, 2020.
 
   
