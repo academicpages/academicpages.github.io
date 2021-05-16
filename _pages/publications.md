@@ -12,7 +12,7 @@ author_profile: true
 Selected Publications:
 * **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing, volume 29, 2021: 1650--1660.  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), volume 29, 2021: 1650--1660.  
 
 * **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
 Jiahao Zhao, **Penghui Wei**, Wenji Mao  
