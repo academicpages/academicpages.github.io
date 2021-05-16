@@ -42,8 +42,8 @@ In Proc. of SIGIR 2018 (short): The 41st International ACM SIGIR Conference on R
 Shuai Wang, **Penghui Wei**, Jiahao Zhao, Wenji Mao  
 arXiv preprint arXiv:2104.13046  
 
-* **MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks**
-Nan Xu, Wenji Mao, **Penghui Wei**, Daniel Zeng
+* **MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks**  
+Nan Xu, Wenji Mao, **Penghui Wei**, Daniel Zeng  
 In IEEE Intelligent Systems, 2020.
 
   
