@@ -10,7 +10,6 @@ author_profile: true
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, **Junjie Sheng** and **Hongyuan Zha**, Dealing with Non-Stationarity in Multi-Agent Reinforcement Learning via Trust Region Decomposition. 2021. [arxiv](https://arxiv.org/abs/2102.10616)
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, J. Yan and **Hongyuan Zha**, F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2004.11145)
 - **Junjie Sheng**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, T.-H. Chang, J. Wang and **Hongyuan Zha**, Learning Structured Communication for Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2002.04235)
-- **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. 2020. [arxiv](https://arxiv.org/abs/2002.04238)
 
 ## Book Chapters
 - X. Fu, B. He, **Xiangfeng Wang** and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. *Splitting Algorithms, Modern Operator Theory, and Applications*, 2019.
@@ -23,8 +22,9 @@ author_profile: true
 - Y. Song, T. Liu, T. Wei, **Xiangfeng Wang**, Z. Tao and M. Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. *IEEE Transactions on Industrial Informatics*, accepted, 2020.
 
 ## 2021
+- **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. *KDD*, 2021. [arxiv](https://arxiv.org/abs/2002.04238)
 - **Qisen Xu**, **Qian Wu**, **Hu Yiqiu**, **Bo Jin**, B. Hu, F. Zhu, Y. Li and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. *IJCNN*, 2021.
-- **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, **Junjie Sheng**, **Yun Hua** and **Hongyuan Zha**, Structured Diversification Emergence via Reinforced Organization Control and Hierachical Consensus Learning. *AAMAS* (oral), 2021. [arxiv](https://arxiv.org/abs/2102.04775)
+- **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, **Junjie Sheng**, **Yun Hua** and **Hongyuan Zha**, Structured Diversification Emergence via Reinforced Organization Control and Hierachical Consensus Learning. *AAMAS* (oral), 2021.
 
 ## 2020
 - **Xiangfeng Wang**, J. Zhang and W. Zhang, The Distance Between Convex Sets with Minkowski Sum Structure: Application to Collision Detection. *Computational Optimization and Applications*, 77, 2020, pp.465–490.
