@@ -11,7 +11,7 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 # Papers
 
 - **DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization** SIGIR 2021  
-Safa Messaoud, Ismini Lourentzou, Assma Boughoula, Mona Zehni, Zhizhen Zhao, Chengxiang Zhai and Alexander Schwing 
+Safa Messaoud, Ismini Lourentzou, Assma Boughoula, Mona Zehni, Zhizhen Zhao, Chengxiang Zhai and Alexander Schwing  
 [paper](https://arxiv.org/abs/2105.06441)
 
 - **AdaReNet: Adaptive Reweighted Semi-supervised Active Learning to Accelerate Label Acquisition** PerInt@PETRA 2021  
