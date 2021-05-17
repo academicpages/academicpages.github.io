@@ -22,6 +22,7 @@ Coding
 * [Tidy Evaluation](https://tidyeval.tidyverse.org/welcome.html) by Lionel Henry & Hadley Wickham
 * [Mastering Spark with R](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, & Edgar Ruiz
 * [SparkPackages](https://spark-packages.org/) for Spark extensions and [Maven repository](https://mvnrepository.com/repos) for Java libraries to customize Spark programming
+* [Learning Apache Spark with Python](https://runawayhorse001.github.io/LearningApacheSpark/pyspark.pdf) by Wenqiang Feng
 * [Intro to R Bayes Packages](https://melissa-wong.github.io/r-ladies-bayes-pkgs/) by Melissa Wong
 * [R Packages](https://r-pkgs.org/) by Hadley Wickham & Jenny Bryan for developing R packages
 * [Big Book of R](https://www.bigbookofr.com/index.html) by Oscar Baruffa lists 150+ books on R programming
