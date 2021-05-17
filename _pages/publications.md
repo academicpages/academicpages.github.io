@@ -11,28 +11,30 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 # Papers
 
 - **DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization** SIGIR 2021  
-Safa Messaoud, Ismini Lourentzou, Assma Boughoula, Mona Zehni, Zhizhen Zhao, Chengxiang Zhai and Alex Schwing
+Safa Messaoud, Ismini Lourentzou, Assma Boughoula, Mona Zehni, Zhizhen Zhao, Chengxiang Zhai and Alexander Schwing 
+[paper](https://arxiv.org/abs/2105.06441)
 
 - **AdaReNet: Adaptive Reweighted Semi-supervised Active Learning to Accelerate Label Acquisition** PerInt@PETRA 2021  
 Ismini Lourentzou, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski, Chad Deluca, Steve Welch, ChengXiang Zhai
 
 - **Creation and validation of a chest X-ray dataset with eye-tracking and report dictation for AI development.** Nature Scientific Data 2021  
-Alexandros Karargyris, Kashyap Satyananda, Ismini Lourentzou, Joy T. Wu, Arjun Sharma, Matthew Tong, Shafiq Abedin, David Beymer, Vandana Mukherjee, Elizabeth A. Krupinski, Mehdi Moradi 
-
+Alexandros Karargyris, Kashyap Satyananda, Ismini Lourentzou, Joy T. Wu, Arjun Sharma, Matthew Tong, Shafiq Abedin, David Beymer, Vandana Mukherjee, Elizabeth A. Krupinski, Mehdi Moradi  
+[paper](https://www.nature.com/articles/s41597-021-00863-5), [code](https://github.com/cxr-eye-gaze/eye-gaze-dataset)
 
 - **Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation**, NLP-COVID19 Workshop @ ACL 2020  
 Arkin Dharawat, Ismini Lourentzou, Alex Morales, ChengXiang Zhai  
 [paper](https://arxiv.org/pdf/2010.08743.pdf), [code](https://github.com/TIMAN-group/covid19_misinformation), [poster](https://uofi.app.box.com/v/CovidHeRAmisinformation)
 
 - **Biosystems Design by Machine Learning**, ACS Synthetic Biology 2020  
-Michael Jeffrey Volk, Ismini Lourentzou, Shekhar Mishra, Lam Tung Vo, Chengxiang Zhai, Huimin Zhao
+Michael Jeffrey Volk, Ismini Lourentzou, Shekhar Mishra, Lam Tung Vo, Chengxiang Zhai, Huimin Zhao  
+[paper](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00129)
 
 - **Adapting Sequence to Sequence models for Text Normalization in Social Media**, AAAI ICWSM 2019  
 Ismini Lourentzou, Kabir Manghnani, ChengXiang Zhai  
 [paper](https://arxiv.org/abs/1904.06100), [code](https://github.com/Isminoula/TextNormSeq2Seq), [slides](/files/TextNormSeq2Seq.pdf)  
 
 - **In Search of Zora/When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling**, Journal Library Metadata 2019  
-Nicole M Brown, Ruby Mendenhall, Michael Black, Mark Van Moer, Karen Flynn, Malaika McKee, Assata Zerai, Ismini Lourentzou, ChengXiang Zhai
+Nicole M Brown, Ruby Mendenhall, Michael Black, Mark Van Moer, Karen Flynn, Malaika McKee, Assata Zerai, Ismini Lourentzou, ChengXiang Zhai  
 [paper](https://www.tandfonline.com/doi/abs/10.1080/19386389.2019.1652967)
 
 - **Difficult Relations: Extracting Novel Facts from Text**, ISWC 2018   
