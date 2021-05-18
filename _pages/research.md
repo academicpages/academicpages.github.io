@@ -27,15 +27,17 @@ Active Research
 
 * "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
 
+* "The Racial Commuting Gap since 1980" (with [Devin Michelle Bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]).
+
 <h2 id="pubs">
 Publications
 </h2>
 
 #### Peer-Reviewed Publications in Economics
 
-* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]), [(recent slides)](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf).
+* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]), [(recentish slides)](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf).
     * Conditional Accept at *AEJ: Applied*. [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
-    * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
+    * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
 
 * "[Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020).
     * ([older NBER Working Paper](https://www.nber.org/papers/w21414))
@@ -61,9 +63,12 @@ Publications
 [avb]: http://www.arthurvanbenthem.com/
 [ccostello]: https://christopherjcostello.com/
 [dhc]: https://hernandezcortes.github.io/
+[dmb]: https://www.devinbunten.com/
 [eberkes]: https://sites.google.com/view/enricoberkes/home
+[exf]: https://sites.google.com/site/ellenxfu/home
 [jlin]: http://www.jlin.org
 [kjack]: http://kelseyjack.bren.ucsb.edu/
+[lar]: https://lyndseyrolheiser.com/
 [odeschenes]: https://econ.ucsb.edu/~olivier/
 [poliva]: https://dornsife.usc.edu/paulina-oliva/
 [ruben]: https://sites.google.com/view/rubengaetani
