@@ -16,7 +16,7 @@ My research targets at developing machine learning methods to analyze Web conten
 * **Opinion mining and opinionated/argumentative text generation**  
 Stance analysis and computational argumentation synthesis
 * **Rumor verification and fact checking**  
-Determine the correctness of textual claims and structured triples in knowledge graphs      
+Determine the correctness of: 1) textual claims, and 2) structured triples in knowledge graphs      
 
 Experiences and Education
 ======
