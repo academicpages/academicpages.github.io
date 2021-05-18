@@ -13,7 +13,7 @@ The end of the cold winter
 ======
 It has been a long process, where various family problems have increased the normal difficulty. They have been complex years with many losses. But also with a new family and love.
 
-![Thanks to those who have left](/files/talks/2020/20200307_Thesis_Slides_FASL/45.jpg)
+![Thanks to those who have left](/files/talks/2020/20200307_Thesis_Slides_FASL_Thanks.png)
 
 
 I consider myself a little hermit and I quite enjoy solitude. So neither family nor friends were invited to this activity. It was a calm and extensive defense, like all of them.
