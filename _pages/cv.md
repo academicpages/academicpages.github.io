@@ -17,8 +17,9 @@ Education
 
 Work experience
 ======
-Under construction.
-  
+* Aug. 2020 -           LINE Corporation
+* Apr. 2018 - Jul. 2020 NEC Corporation
+* Feb. 2017 - Mar. 2018 Technical University of Munich
 
 Selected Publications
 ======
