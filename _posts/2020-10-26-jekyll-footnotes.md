@@ -21,14 +21,44 @@ tags:
 
 
 
+**Update 05/19/2021**: John MacFarlane helpfully
+[pointed out](https://github.com/jgm/pandoc/issues/6259#issuecomment-841861647)
+that this is all incredibly unnecessary because pandoc makes it easy to add
+support for footnotes to GitHub-Flavored Markdown.
+[The documentation](https://pandoc.org/MANUAL.html#extensions) notes that you
+can extensions to output formats they don’t normally support. Since standard
+markdown natively supports footnotes when used as an output format, I didn’t
+even think to look into manually enabling them for GitHub-Flavored Markdown.
+
+<!--more-->
+
+If you’re running pandoc from the command line all you need to do is add
+`-t gfm+footnotes` to your pandoc command. If you’re working with `.Rmd` files
+like me, all you need to do is add `+footnotes` to the end of of the `gfm` line
+in your YAML header:
+
+``` yaml
+...
+output:
+  md_document:
+    variant: gfm+footnotes
+...
+```
+
+As a side benefit, you can drop the `--wrap=preserve` flag and end up with `.md`
+files that aren’t hundreds of columns wide. I’m leaving the original post up
+below in case anyone who has an even weirder use case than me might find it
+helpful, or in case any of my students ever stumble across this page and don’t
+believe that I’m still constantly learning, too.
+
+------------------------------------------------------------------------
+
 I use [jekyll](https://jekyllrb.com/) to create my website. Jekyll converts
 Markdown files into the HTML that your browser renders into the pages you see.
 As [others](http://svmiller.com/blog/2019/08/two-helpful-rmarkdown-jekyll-tips/)
 and [I](/posts/2020/09/jekyll-html) have written before, it’s pretty easy to use
 [R Markdown](https://rmarkdown.rstudio.com/) to generate pages with R code and
 output all together. One thing has consistently eluded me, however: footnotes.
-
-<!--more-->
 
 Every time I try to include footnotes in my `.Rmd` file, they end up mangled and
 not actually footnotes in the final HTML page. My solution thus far has been to
@@ -59,8 +89,7 @@ Here is some body text.[^1]
 [^1]: This footnote will appear at the bottom of the page.
 ```
 
-However, when R Markdown converts your file from standard Markdown to GitHub
-Flavored Markdown, something strange happens and the output in your `.md` file
+However, when R Markdown converts your file from standard Markdown to GitHub-Flavored Markdown, something strange happens and the output in your `.md` file
 will look like this:
 
 ``` md
@@ -87,15 +116,10 @@ output format you want.[^1]
 [^1]: Pandoc is incredibly powerful, but it’s also incredibly opaque and difficult to learn. You can create incredibly fancy PDF and HTML documents in R Markdown without ever having to know anything about Pandoc.
 
 <figure>
-
 <img src="{{site.url}}/images/posts/jekyll-footnotes/rmarkdownflow.png" alt="R Markdown flowchart"/>
-
 <figcaption>
-
 Image courtesy of <a href="https://rmarkdown.rstudio.com/lesson-2.html">RStudio</a>
-
 </figcaption>
-
 </figure>
 
 Pandoc is the source of our problems here. The square braces that set off a
@@ -103,9 +127,9 @@ footnote are [metacharacters](https://en.wikipedia.org/wiki/Metacharacter) in
 Markdown, since they’re used to construct links (among other things, like
 citations with [pandoc-citeproc](https://github.com/jgm/pandoc-citeproc)).
 When Pandoc sees them in the process of converting from standard Markdown to
-GitHub Flavored Markdown, it (logically) decides that they’re important content
+GitHub-Flavored Markdown, it (logically) decides that they’re important content
 and preserves them by [escaping](https://en.wikipedia.org/wiki/Escape_character)
-them with a backslash so they’re preserved in the GitHub Flavored Markdown.
+them with a backslash so they’re preserved in the GitHub-Flavored Markdown.
 Unfortunately for us, we *want* our square brackets to be treated as special
 characters and not turned into text. This is a known issue with Pandoc (see this
 [issue](https://github.com/jgm/pandoc/issues/6259) on GitHub) so it will
@@ -197,7 +221,7 @@ ggplot(Loblolly, aes(x = age, y = height, group = Seed)) +
 <img src="/images/posts/jekyll-footnotes/ggplot-1.png" width="100%" style="display: block; margin: auto;" />
 
 It looks like all of the trees in the sample followed a pretty similar growth
-trajectory\! Finally, to really *really* prove this page started out as a `.Rmd`
+trajectory! Finally, to really *really* prove this page started out as a `.Rmd`
 file, here’s the `sessionInfo()`:
 
 ``` r
