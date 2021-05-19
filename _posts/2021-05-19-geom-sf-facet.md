@@ -76,7 +76,7 @@ missions.
 
 ``` r
 ## load data
-load('https://jayrobwilliams.com/data/PKO.Rdata')
+load(url('https://jayrobwilliams.com/data/PKO.Rdata'))
 
 ## inspect
 head(acled)
