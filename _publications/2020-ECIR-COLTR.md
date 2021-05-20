@@ -5,6 +5,7 @@ permalink: /publication/ECIR2020COLTR
 excerpt: 
 year: 2020
 venue: '42nd European Conference on IR Research (ECIR)'
+authors: Shengyao Zhuang, Guido Zuccon
 citation:
 ---
 ---
