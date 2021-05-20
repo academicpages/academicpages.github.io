@@ -19,25 +19,25 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 ![](images/Paladyn21.png){: .align-right width="200px"}
 **Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
-Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, Dian Wang, Noah Torname, Sam Laderoute, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
+Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, **Dian Wang**, Noah Torname, Sam Laderoute, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
 Paladyn 2021  
 [(PDF)](https://drive.google.com/file/d/1VKOr6LbtzCWvBEv7WtlwlvaMaNplIS2E/view)
 
 ![](images/aamas21.png){: .align-right width="200px"}
 **Action Priors for Large Action Spaces in Robotics**  
-Ondrej Biza, Dian Wang, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong  
+Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong  
 AAMAS 2021, London, UK  
 [(PDF)](https://arxiv.org/pdf/2010.02798.pdf)
 
 ![](images/asrse3.png){: .align-right width="200px"}
 **Policy learning in SE (3) action spaces**  
-Dian Wang, Colin Kohler, Robert Platt  
+**Dian Wang**, Colin Kohler, Robert Platt  
 CoRL 2020, Boston, Massachusetts, USA  
 [(PDF)](https://arxiv.org/pdf/2010.02798.pdf)[(Page)](https://pointw.github.io/asrse3-page/)[(Video)](https://youtu.be/FiHoIF1oLZs)[(Talk)](https://youtu.be/W0UQMntqaog)
 
 ![](images/scooter.png){: .align-right width="200px"}
 **Towards Assistive Robotic Pick and Place in Open World Environments**  
-Dian Wang, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
+**Dian Wang**, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
 ISRR 2019, Hanoi, Vietnam  
 [(PDF)](https://arxiv.org/pdf/1809.09541.pdf)[(Page)](https://pointw.github.io/scooter-page/)[(Video)](https://www.youtube.com/watch?v=ZimZlsJTaTU)
 
