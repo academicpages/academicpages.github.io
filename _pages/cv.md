@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph,D Candidate in Computer Science, The University of Queensland, Australia, 2019 - current.
+* Master of Information Technology, The University of Queensland, Australia, 2017 - 2018.
+* Bachelor of Electrical Engineering, China, Chongqing University of Science and Technology University, 2012 - 2016.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html %}, {{post.track}}, {{post.year}}.
   {% endfor %}</ul>
   
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
+<!-- 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+-->
+* The University of Queensland
+  * Tutor
+  * Tutoring of the INFS7410 (Information Retrieval and Web Search) course. Preparing and delivering course materials, assignments and exams marking.
+  * Aug 2018 - Current
+
+
+Work experience
 ======
-* Currently signed in to 43 different slack teams
+* Casual Research Assistant
+  * The University of Queensland
+  * Assist with the research and development of methods of information retrieval and evaluation based on online learning to rank.
+  * Apr 2019 - July 2019
+
+  
+Service
+======
+* SIGIR2021 PC member
+* Publicity Chair of [CIKM2021](http://www.cikm2021.org/committee)
