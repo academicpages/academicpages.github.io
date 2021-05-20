@@ -16,14 +16,19 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 <br><br>
 
 # Publication
-## Preprint
+
+![](images/Paladyn21.png){: .align-right width="200px"}
+**Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
+Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, Dian Wang, Noah Torname, Sam Laderoute, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
+Paladyn 2021  
+[(PDF)](https://drive.google.com/file/d/1VKOr6LbtzCWvBEv7WtlwlvaMaNplIS2E/view)
+
 ![](images/aamas21.png){: .align-right width="200px"}
 **Action Priors for Large Action Spaces in Robotics**  
 Ondrej Biza, Dian Wang, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong  
-Accepted at AAMAS 2021  
+AAMAS 2021, London, UK  
 [(PDF)](https://arxiv.org/pdf/2010.02798.pdf)
 
-## Conference
 ![](images/asrse3.png){: .align-right width="200px"}
 **Policy learning in SE (3) action spaces**  
 Dian Wang, Colin Kohler, Robert Platt  
