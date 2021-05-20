@@ -8,6 +8,7 @@ authors: Shengyao Zhuang, Guido Zuccon
 track: Full paper
 ---
 ---
+
 ## Abstract
 Deep language models (deep LMs) are increasingly being used for full text retrieval or within cascade retrieval pipelines as later-stage re-rankers. A problem with using deep LMs is that, at query time, a slow inference step needs to be performed – this hinders the practical adoption of these powerful retrieval models, or limits sensibly how many documents can be considered for re-ranking.
 
