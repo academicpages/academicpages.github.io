@@ -19,7 +19,7 @@ Education
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}, {{post.track}}, {{post.year}}.
+    {% include archive-single-cv.html %, {{post.track}}, {{post.year}}}.
   {% endfor %}</ul>
   
 <!-- 
