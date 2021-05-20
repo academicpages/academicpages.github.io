@@ -15,8 +15,7 @@ author_profile: true
   <h2>{{ year.name }}</h2>
   <ul>
   {%- for post in year.items -%}
-  {% include archive-single.html %}
-  </ul>
+    {% include archive-single.html %}
   {%- endfor -%}
-
+ </ul>
 {% endfor %}
