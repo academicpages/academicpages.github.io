@@ -17,7 +17,7 @@ Recently, the federated OLTR with evolution strategies (FOLtR-ES) method has bee
 Our findings question whether FOLtR-ES is a mature method that can be considered in practice: its effectiveness largely varies across datasets, click types, ranker types and settings. Its performance is also far from that of current state-of-the-art OLTR, questioning whether the maintained of privacy guaranteed by FOLtR-ES is not achieved by seriously undermining search effectiveness and user experience.
 
 
-[Download paper here](wang2021foltr-reproducibility.pdf)
+[Download paper here](http://arvinzhuang.github.io/files/wang2021foltr-reproducibility.pdf)
 
 [Code](https://github.com/ielab/foltr)
 
