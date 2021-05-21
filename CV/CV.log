@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.17)  2 APR 2021 09:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.21)  21 MAY 2021 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV.tex
 (./CV.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-06> (./resume.cls
+L3 programming layer <2021-05-11> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/base/article.
@@ -16,21 +16,21 @@ Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 lo
 File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count177
-\c@section=\count178
-\c@subsection=\count179
-\c@subsubsection=\count180
-\c@paragraph=\count181
-\c@subparagraph=\count182
-\c@figure=\count183
-\c@table=\count184
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/parskip/parsk
 ip.sty
-Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvo
 ptions.sty
@@ -52,7 +52,7 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoo
 lbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count185
+\etb@tempcnta=\count187
 ))
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/tools/array.s
 ty
@@ -81,9 +81,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 .sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count186
-\Gm@cntv=\count187
-\c@Gm@tempcnt=\count188
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -132,8 +132,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3b
 ackend-pdftex.def
-File: l3backend-pdftex.def 2021-02-06 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count189
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
 \l__pdf_internal_box=\box49
 ) (./CV.aux)
 \openout1 = `CV.aux'.
@@ -220,7 +220,7 @@ Overfull \hbox (5.74945pt too wide) in paragraph at lines 101--102
 [2
 
 ] [3] [4] [5] [6] [7] [8]
-Overfull \hbox (34.24142pt too wide) in paragraph at lines 439--448
+Overfull \hbox (34.24142pt too wide) in paragraph at lines 441--450
 [][] 
  []
 
@@ -228,13 +228,13 @@ Overfull \hbox (34.24142pt too wide) in paragraph at lines 439--448
 AED: lastpage setting LastPage
 (./CV.aux) ) 
 Here is how much of TeX's memory you used:
- 2576 strings out of 481250
- 37333 string characters out of 5913685
- 324824 words of memory out of 5000000
- 19514 multiletter control sequences out of 15000+600000
+ 2575 strings out of 480796
+ 37264 string characters out of 5903864
+ 338916 words of memory out of 5000000
+ 19961 multiletter control sequences out of 15000+600000
  409506 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,11n,88p,1579b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,76p,1579b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusn.pinto-ledezma/
@@ -244,7 +244,7 @@ usn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 c/amsfonts/cm/cmsy10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusn.pinto-ledezma/Librar
 y/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (10 pages, 142601 bytes).
+Output written on CV.pdf (10 pages, 144876 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
