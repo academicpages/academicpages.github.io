@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.21)  21 MAY 2021 12:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.21)  21 MAY 2021 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -228,26 +228,28 @@ Overfull \hbox (34.24142pt too wide) in paragraph at lines 441--450
 AED: lastpage setting LastPage
 (./CV.aux) ) 
 Here is how much of TeX's memory you used:
- 2575 strings out of 480796
- 37264 string characters out of 5903864
+ 2578 strings out of 480796
+ 37299 string characters out of 5903864
  338916 words of memory out of 5000000
- 19961 multiletter control sequences out of 15000+600000
- 409506 words of font info for 50 fonts, out of 8000000 for 9000
+ 19963 multiletter control sequences out of 15000+600000
+ 409807 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,11n,76p,1579b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusn.pinto-ledezma/
-Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jes
-usn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusn.pinto-ledezma/Librar
-y/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (10 pages, 144876 bytes).
+Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/j
+esusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusn.pinto-ledezma/Libra
+ry/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusn.
+pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.
+pfb>
+Output written on CV.pdf (10 pages, 158536 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
