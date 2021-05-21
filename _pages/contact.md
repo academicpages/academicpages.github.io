@@ -10,5 +10,5 @@ Email: mebucca [@] uc <dot> cl
 
 
 <p align="center">
-  <img src="https://mebucca.github.io/images/puc_sj.jpg?raw=true" alt="Photo" style="width: 1050px;"/> 
+  <img src="https://mebucca.github.io/images/puc_sj.jpeg?raw=true" alt="Photo" style="width: 1050px;"/> 
 </p>
