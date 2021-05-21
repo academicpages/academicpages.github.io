@@ -17,7 +17,7 @@ redirect_from:
 # Recent News
 * May 14, 2021, Our paper <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> was early accepted by <b>MICCAI2021</b> (~13% acceptance rate), thanks to all co-authors.
 * May 06, 2021, Our paper <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors.
-* April 29, 2021, One co-author paper <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> was accepted by IJCAI, congratulate Dr. [Shaohua Li](https://scholar.google.com.sg/citations?hl=en&user=e4pk9x0AAAAJ&view_op=list_works&sortby=pubdate).
+* April 29, 2021, One co-author paper <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> was accepted by <b>IJCAI2021</b> (~13% acceptance rate), congratulate Dr. [Shaohua Li](https://scholar.google.com.sg/citations?hl=en&user=e4pk9x0AAAAJ&view_op=list_works&sortby=pubdate).
 * Mar. 21, 2021, I will join SenseTime Research as a research intern and work with [Mr. Tao Song](https://scholar.google.com/citations?user=Xzk31ssAAAAJ&hl=zh-CN) again in July 2021.
 * Jan. 25, 2021, We released a code base and some 2D examples for weakly-supervised medical image segmentation research, the repo at [WSL4MIS](https://github.com/Luoxd1996/WSL4MIS), any advices and suggestions are welcomed. 
 * Jan. 08, 2021, Our paper <b>Deep Elastica for Image Segmentation</b> was accepted by <b>ISBI 2021</b>.
@@ -26,6 +26,11 @@ redirect_from:
 
 # Publications (* means equal contribution)
 
+* <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> <br> 
+ Shaohua Li, Xiuchao Sui, <b>Xiangde Luo</b>, Xinxing Xu Yong Liu Rick Siow Mong Goh
+  <i>The Thirty International Joint Conference on Artificial Intelligence</i>. <b>IJCAI2021  (CCF A)</b>.<br>
+ [[paper](https://arxiv.org/pdf/2105.09511.pdf)]
+ 
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo* </b>, Tao Song*, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
  <i>Submitted to </i><b>Medical Image Analysis</b>.<br>
