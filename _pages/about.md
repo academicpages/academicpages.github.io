@@ -29,7 +29,7 @@ redirect_from:
 * <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> <br> 
  Shaohua Li, Xiuchao Sui, <b>Xiangde Luo</b>, Xinxing Xu Yong Liu Rick Siow Mong Goh<br>
   <i>The Thirty International Joint Conference on Artificial Intelligence</i>. <b>IJCAI2021  (CCF A)</b>.<br>
- [[paper](https://arxiv.org/pdf/2105.09511.pdf)]
+ [[paper](https://arxiv.org/pdf/2105.09511.pdf)][[code](https://github.com/askerlee/segtran)]
  
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo* </b>, Tao Song*, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
