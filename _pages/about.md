@@ -17,7 +17,7 @@ I’m an Assistant Professor in Sociology at the Universidad Católica de Chile.
 Research
 ======
 
-My scholarly agenda is articulated around two core, complementary research streams. One series of projects examines key structural aspects of social inequality - intergenerational income mobility, gender and racial gaps in the labor market and educational assortative mating. Another line of research focuses on the cultural facets of social stratification as they crystallize in specific belief systems about inequalities and fairness. My work has been published in academic journals such as <i>Science Advances<i>, <i>Sociological Methods and Research<i>, <i>RSF: The Russell Sage Foundation Journal of the Social Sciences<i>, and <i>Research in Social Stratification and Mobility<i>, and covered by popular media outlets such and the <i>New York Times<i>, <i>Washington Post<i>, <i>New Scientist<i>, <i>Science Daily<i>, among others.
+My scholarly agenda is articulated around two core, complementary research streams. One series of projects examines key structural aspects of social inequality - intergenerational income mobility, gender and racial gaps in the labor market and educational assortative mating. Another line of research focuses on the cultural facets of social stratification as they crystallize in specific belief systems about inequalities and fairness. My work has been published in academic journals such as *Science Advances*, *Sociological Methods and Research*, *RSF: The Russell Sage Foundation Journal of the Social Sciences*, and *Research in Social Stratification and Mobility*, and covered by popular media outlets such and the *New York Times*, *Washington Post*, *New Scientist*, *Science Daily*, among others.
 
 
 Methods
