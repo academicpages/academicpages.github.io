@@ -6,7 +6,7 @@ author_profile: true
 ---
 Department of Sociology, Universidad Católica de Chile<br>
 Avenida Vicuña Mackenna 4860, Casilla 306, Correo 22, Macul, Santiago<br>
-Email: mebucca [@] uc <dot> cl
+Email: mebucca [@] uc [dot] cl
 
 
 <p align="center">
