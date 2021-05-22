@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, the University of Tokyo, 2012
-* M.S. in Physics, the University of Tokyo, 2014
 * Ph.D. in Physics, the University of Tokyo, 2017
+* M.S. in Physics, the University of Tokyo, 2014
+* B.S. in Physics, the University of Tokyo, 2012
 
 Work experience
 ======
