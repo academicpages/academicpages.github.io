@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hayden D. Hampton"
+title                    : "Hayden D. Hampton Personal Website"
 title_separator          : "-"
 name                     : &name "Hayden D. Hampton"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://haydendhampton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  "Hayden_Hampton_Headshot.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "haydendhampton/haydendhampton.github.io"
+teaser                   :  "Hayden_Hampton_Headshot.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hayden D. Hampton"
-  avatar           : "Hayden_Hampton_Headshot.jpg"
+  avatar           : "Hayden_Hampton_Headshot.png"
   bio              : "PhD student at the Department of Statistics and Data Science, University of Central Florida"
   location         : "Orlando, Florida"
   employer         :
