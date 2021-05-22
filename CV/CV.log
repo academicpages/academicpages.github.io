@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.21)  21 MAY 2021 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.21)  22 MAY 2021 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -234,7 +234,7 @@ Here is how much of TeX's memory you used:
  19963 multiletter control sequences out of 15000+600000
  409807 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,11n,76p,1579b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,76p,1579b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Users/jesusn.pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></Users/jesusn.pinto-ledezma/Library/TinyTeX/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusn.pinto-ledezma/
@@ -246,7 +246,7 @@ st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusn.pinto-ledezma/Libra
 ry/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusn.
 pinto-ledezma/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.
 pfb>
-Output written on CV.pdf (10 pages, 158536 bytes).
+Output written on CV.pdf (10 pages, 157077 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
