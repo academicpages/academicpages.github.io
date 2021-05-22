@@ -422,7 +422,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wuqian"></div>
       <div class="member_name"><a href="https://www.jianshu.com/u/4296af232d02">WU Qian 吴倩</a></div>
-      <div class="member_intro" >图神经网络（解分布式优化问题）、元学习</div>
+      <div class="member_intro" >遥感图像目标识别</div>
     </div>
   </div>
   <div class="member_item" >
@@ -443,7 +443,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chenhongjun"></div>
       <div class="member_name">CHEN Hongjun 陈宏俊</div>
-      <div class="member_intro" >多智能体强化学习、AGV路径规划</div>
+      <div class="member_intro" >多智能体强化学习、路径规划</div>
     </div>
   </div>
   <div class="member_item" >
@@ -457,35 +457,35 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangwei"></div>
       <div class="member_name"><a href="https://wdevin.github.io">WANG Wei 王伟</a></div>
-      <div class="member_intro" >自然语言处理</div>
+      <div class="member_intro" >自然语言处理、智能教育</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liziqian"></div>
       <div class="member_name">LI Zhiqian 李志谦</div>
-      <div class="member_intro" >医疗图像分割、医疗图像分析工具</div>
+      <div class="member_intro" >交互式医疗图像分析工具</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangsuo"></div>
       <div class="member_name">WANG Shuo 王硕</div>
-      <div class="member_intro" >DC信号大数据分析</div>
+      <div class="member_intro" >视频数据分析</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="jiayoutao"></div>
       <div class="member_name">JIA Youtao 郏友涛</div>
-      <div class="member_intro" >医疗图像分割、医疗图像分析工具</div>
+      <div class="member_intro" >医疗图像分割</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="dengyang"></div>
       <div class="member_name"><a href="https://github.com/consolexinhun">DENG Yang 邓样</a></div>
-      <div class="member_intro" >自然语言处理</div>
+      <div class="member_intro" >病理图像分析</div>
     </div>
   </div>
   <div class="member_item" >
@@ -513,21 +513,21 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gaoshang"></div>
       <div class="member_name" ><a href="https://github.com/Felix2048">GAO Shang 高尚</a></div>
-      <div class="member_intro" >跨模态</div>
+      <div class="member_intro" ></div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="caishengliang"></div>
       <div class="member_name"><a href="https://cubercsl.cn/">CAI Shengliang 蔡盛梁</a></div>
-      <div class="member_intro" >ICPC 2020 World Finalist</div>
+      <div class="member_intro" >ICPC 2020 World Finalist、视频分析平台</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="yangmoyi"></div>
       <div class="member_name">YANG Moyi 杨默艺</div>
-      <div class="member_intro" >最优传输</div>
+      <div class="member_intro" >最优传输、智能交通</div>
     </div>
   </div>
 
@@ -543,30 +543,35 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xiongfeng"></div>
       <div class="member_name">XIONG Feng 熊枫</div>
+      <div class="member_intro" >医疗图像分析</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangziyang"></div>
       <div class="member_name">WANG Ziyang 王子阳</div>
+      <div class="member_intro" > </div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chenrui"></div>
       <div class="member_name">CHEN Rui 陈瑞</div>
+      <div class="member_intro" >医疗图像分析</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="huangda"></div>
       <div class="member_name">HUANG Da 黄达</div>
+      <div class="member_intro" >群体智能</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xiajunyang"></div>
       <div class="member_name">XIA Junyang 夏浚洋</div>
+      <div class="member_intro" > </div>
     </div>
   </div>
 
@@ -574,6 +579,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="cuihaochuan"></div>
       <div class="member_name">CUI Haochuan 崔昊川</div>
+      <div class="member_intro" >强化学习、Sim2Real</div>
     </div>
   </div>
 
@@ -581,6 +587,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="zhouminghui"></div>
       <div class="member_name">ZHOU Minghui 周明慧</div>
+      <div class="member_intro" >医疗图像分析</div>
     </div>
   </div>
 
@@ -588,6 +595,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chenhaoqing"></div>
       <div class="member_name">CHEN Haoqing 陈昊晴</div>
+      <div class="member_intro" >医疗图像分析</div>
     </div>
   </div>
 
