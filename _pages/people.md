@@ -420,23 +420,9 @@ redirect_from:
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="xiangwangtao"></div>
-      <div class="member_name" >XIANG Wangtao 向王涛</div>
-      <div class="member_intro" >遥感图像处理、图像生成表征</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
       <div class="member_pic" id="wuqian"></div>
       <div class="member_name"><a href="https://www.jianshu.com/u/4296af232d02">WU Qian 吴倩</a></div>
       <div class="member_intro" >图神经网络（解分布式优化问题）、元学习</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="zhangzhikai"></div>
-      <div class="member_name">ZHANG Zhikai 张致恺</div>
-      <div class="member_intro" >目标检测、姿态估计</div>
     </div>
   </div>
   <div class="member_item" >
@@ -614,6 +600,18 @@ redirect_from:
 
 # Alumni
 <div class="students">
+    <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >XIANG Wangtao 向王涛</div>
+      <div class="member_intro" >2021，字节跳动</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">ZHANG Zhikai 张致恺</div>
+      <div class="member_intro" >2021，合合科技</div>
+    </div>
+  </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >CAI Jinghui 蔡璟辉</div>
