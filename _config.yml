@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 #twitter:
-#  username               : &twitter
+#  username               : 
 #facebook:
 #  username               :
 #  app_id                 :
@@ -85,9 +85,9 @@ author:
   bio              : "PhD student at the Department of Statistics and Data Science, University of Central Florida"
   location         : "Orlando, Florida"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            :  "haydendhampton@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Hayden-Hampton"
   uri              :
   bitbucket        :
@@ -96,20 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/haydendhampton"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
- # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
