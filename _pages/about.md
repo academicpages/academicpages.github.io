@@ -11,7 +11,6 @@ redirect_from:
 
 
 [CV](/files/cv_li.pdf)    [日本語CV](/files/cv_li_jp.pdf)  
-[Recent research report](/files/shepherd-model_0520_public.pdf)  
 
 Master Student, \\
 [Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/), \\

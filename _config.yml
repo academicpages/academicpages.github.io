@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "li-aiyi@ist.osaka-u.ac.jp"
+  email            : "argyi.liaiyi@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,13 +110,13 @@ author:
   # stackoverflow    : http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "replacethistwitterhandle"
+  twitter          : "argyili"
   vine             :
   weibo            :
   xing             :
   youtube          :
   # wikipedia        : "asd"
-  leetcode      : https://leetcode-cn.com/u/argyi
+  leetcode-cn      : "argyi"
 
 # Reading Files
 include:

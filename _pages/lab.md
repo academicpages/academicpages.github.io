@@ -12,3 +12,5 @@ redirect_from:
 
 Introduce paper in research lab. \\
 [Noise during shepherding](/files/rinko-05072021.pdf) May 7, 2021
+
+[Recent research report](/files/shepherd-model_0520_public.pdf)  
