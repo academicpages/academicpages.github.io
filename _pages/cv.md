@@ -51,8 +51,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.images %}
+    {% include Hayden_Hampton_CV.pdf %}
   {% endfor %}</ul>
   
 Service and leadership
