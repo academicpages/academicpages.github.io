@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /https://github.com/haydendhampton/haydendhampton.github.io/tree/master/images/Hayden_Hampton_CV.pdf/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /images
+  - /resume
 ---
 
 {% include base_path %}
