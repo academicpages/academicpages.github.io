@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+[link](https://github.com/haydendhampton/haydendhampton.github.io/tree/master/images/Hayden_Hampton_CV.pdf)
 {% include base_path %}
 
 Education
