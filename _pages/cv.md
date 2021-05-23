@@ -9,7 +9,9 @@ redirect_from:
 
 [link](https://github.com/haydendhampton/haydendhampton.github.io/tree/master/images/Hayden_Hampton_CV.pdf)
 {% include base_path %}
+https://github.com/haydendhampton/haydendhampton.github.io/raw/master/Hayden_Hampton_CV.pdf
 
+[link1](https://github.com/haydendhampton/haydendhampton.github.io/raw/master/Hayden_Hampton_CV.pdf)
 Education
 ======
 * B.S. Double Major in Statistics and Actuarial Science, University of Central Florida, 2019
