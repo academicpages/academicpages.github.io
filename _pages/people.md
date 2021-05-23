@@ -96,7 +96,7 @@ redirect_from:
     </div>
     <div class="member_item col">
       <div class="member_pic_wrapper">
-        <div class="member_pic" id="zhujun"></div>
+        <div class="member_pic" id="zhujun-c"></div>
         <div class="member_name">ZHU Jun 朱骏 </div>
         <div class="member_pos">Assistant Researcher 助理研究员 </div>
         <div class="member_intro">Machine Learning System</div>
