@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hayden D. Hampton Personal Website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Hayden D. Hampton"
 description              : &description "personal description"
