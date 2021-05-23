@@ -1,7 +1,12 @@
 ---
-permalink: https://github.com/haydendhampton/haydendhampton.github.io/tree/master/images/Hayden_Hampton_CV.pdf
-title: ""
+layout: archive
+title: "CV"
+permalink: /https://github.com/haydendhampton/haydendhampton.github.io/tree/master/images/Hayden_Hampton_CV.pdf/
+author_profile: true
+redirect_from:
+  - /images
 ---
+
 {% include base_path %}
 
 Education
