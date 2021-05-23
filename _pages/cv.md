@@ -1,5 +1,5 @@
 ---
-permalink: /images/Hayden_Hampton_CV.pdf
+permalink: https://github.com/haydendhampton/haydendhampton.github.io/tree/master/images/Hayden_Hampton_CV.pdf
 title: ""
 ---
 {% include base_path %}
