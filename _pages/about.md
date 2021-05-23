@@ -1,3 +1,7 @@
+---
+permalink: /
+title: ""
+---
 
 About me
 ======
