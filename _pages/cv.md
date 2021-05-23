@@ -1,12 +1,7 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+permalink: /images/Hayden_Hampton_CV.pdf
+title: ""
 ---
-
 {% include base_path %}
 
 Education
