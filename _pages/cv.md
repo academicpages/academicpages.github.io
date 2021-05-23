@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Double Major in Statistics and Actuarial Science, University of Central Florida, 2019
+* M.S. in Statistics and Data Science, University of Central Florida, 2022 (expected)
+* Ph.D. Student in Big Data Analytics, University of Central Florida, 2024 (expected)
 
 Work experience
 ======
