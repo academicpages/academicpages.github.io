@@ -9,6 +9,9 @@ redirect_from:
 
 ## Peer-Reviewed Articles
 
+- Inclusive Institutions, Unequal Outcomes: Democracy, State Capacity and Income Inequality. **Forthcoming, European Journal of Political Economy**. <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/Bahamonde_Trasberg.pdf). [[Abstract]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/abstract.txt). With Mart Trasberg (Tulane).
+
+
 - Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence From a List Experiment. **Forthcoming, Acta Politica**. <br/> [[Paper]](https://doi.org/10.1057/s41269-020-00174-4). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/AP_2020). [[Citation]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/Bahamonde_AP.bib).
 
 - Employment Effects of Covid‐19 across Chilean Regions: An Application of the Translog Cost Function. **Regional Science, Policy and Practice** (2020), 12: 1151-1167. <br/> [[Paper]](https://doi.org/10.1111/rsp3.12337). With Felix Modrego and Andrea Canales.
@@ -23,15 +26,7 @@ redirect_from:
 
 ## Under Review, Revise and Resubmit, Submitted
 
-
-- "Inclusive Institutions, Unequal Outcomes: Democracy, State Infrastructural Power and Inequality 1970-2015." With Mart Trasberg (Tulane). <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/Bahamonde_Trasberg.pdf). [[Abstract]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/abstract.txt). **Revise and resubmit, European Journal of Political Economy**
-
-- "Vote Selling in the United States: Introducing Support Vector Machine Methods to Analyzing Conjoint Experimental Data." With Cristobal Quininao (UOH). <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt) **Under review, Political Behavior**
-
-- "Analyzing Conjoint Datasets with Support Vector Machine Methods." With Cristobal Quininao (UOH). <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **Under review, Political Analysis**
-
-- "Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data." <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). **Under review, State and Local Government Review**
-
+- Analyzing Conjoint Datasets with Support Vector Machine Methods." With Cristobal Quininao (UOH). <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **Under review, Political Analysis**
 
 
 ## In Preparation
@@ -44,9 +39,14 @@ redirect_from:
 
 - **Machine Learning and Political Ideology in the U.S.: An Experimental Case Study using SMOTE**. With Cristobal Quininao (UOH). **Data analyses**
 
+- **Vote Selling in the United States: Introducing Support Vector Machine Methods to Analyzing Conjoint Experimental Data. With Cristobal Quininao (UOH)**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt) **Data analyses**
+
 - **Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations**. With Natalia Bahamonde (PUCV-Chile) and Igor Kovac (U Cincinnati). <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt). **Data analyses**
 
 - **Structural Transformations and State Institutions in Latin America, 1900-2010**. <br/> [[Paper]](https://github.com/hbahamonde/NegativeLink/raw/master/Bahamonde_NegativeLink.pdf).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta). 
+
+- **Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt).
+
 
 - **Testing the Online Model of Candidate Evaluation in a More Realistic Environment**. With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell). <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials).
 
