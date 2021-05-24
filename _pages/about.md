@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science and Engineering at the University of California, San Diego. My research focuses on developing energy efficient machine learning algorithms. My other interests include causal analysis in statistics (econometrics), information theory, and multiple view geometry in computer vision. I am advised by Tajana Rosing. 
+I am currently a graduate student in Computer Science and Engineering at the University of California, San Diego. I am interested in neurally plausible models of data representation and learning. I am advised by Sanjoy Dasgupta and Tajana Rosing.
 
-I have extensive experience implementing statistical and machine learning algorithms in NumPy, R, Spark, and TensorFlow. I received my Bachelor of Science in Agricultural Economics from the University of California, Berkeley in 2013 and previously worked as a Senior Research Analyst at Brown University for Justine Hastings and Jesse Shapiro.
+I received my Bachelor of Science, with high honors, in Agricultural Economics from the University of California, Berkeley in 2013 and previously worked as a Senior Research Analyst at Brown University for Justine Hastings and Jesse Shapiro.
