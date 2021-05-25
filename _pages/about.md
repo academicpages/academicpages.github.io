@@ -10,24 +10,24 @@ redirect_from:
 
 Hello! My name is Shubham Krishna and I am a second year Masters student in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/). 
 
-To quench my thirst for research, I am also working as a Research Assistant at [Bethge Lab](http://bethgelab.org/) with [Steffen Schneider](https://stes.io/) for better understanding of the behaviour of Deep Neural Networks. I am currently working on two really interesting problems: Domain Generalization and Lottery Tickets Hypothesis. 
+For my Master Thesis, I am working on Semantic Segmentation with Noisy Labels for Autonomous Driving Agents at [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/), Rennigen, Germany. 
 
-I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. 
+I am also working as a Research Assistant at [Bethge Lab](http://bethgelab.org/) with [Steffen Schneider](https://stes.io/) for better understanding of the behaviour of Deep Neural Networks. I am working on topics around Invariant Representation Learning [[Paper](https://preregister.science/papers_20neurips/57_paper.pdf)], Pruning Technqiues in Deep Neural Networks and Self-Superverised Learning. 
 
 I spent an amazing one and half year at [Samsung Research Bangalore](https://research.samsung.com/sri-b), India where I worked as a Senior Software Engineer in the On-Device Intelligence Search Team led by [Hemant Tiwari](https://www.linkedin.com/in/hemanttiwari1/?originalSubdomain=in). During my tenure, I published two research papers at International Conferences in the field of Natural Language Processing and Deep Neural Networks.
 
+I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018. 
 
 During Winter 2017, I was fortunate enough to work with [Prof. Romain Billot](https://www.linkedin.com/in/romain-billot-37107099/) and [Prof. Nicolas Jullien](https://nicolasjullien.wp.imt.fr/en/) as a Research Assistant in the LUSSI Department at IMT Atlantique, Brest Campus, France. During my stay, I studied the behaviour of online Wikipedia's contributors using Machine Learning and Statistics. The work led to a Poster Presentation at OpenSym 2018, the 14th International Symposium on Open Collaboration. 
 
- 
 During Summer 2017, I did an internship at Samsung Research Bangalore, India where I was working on the Samsung's Intelligent Voice Assistant (Bixby).  
 
-## Research Interests:
-* Robust Machine Learning
-* Domain Generalization
+## Interests:
+* Applied Machine Learning
 * Computer Vision
 * Natural Language Processing
 * Information Retrieval
+
 
 <!--
 ### Timeline
