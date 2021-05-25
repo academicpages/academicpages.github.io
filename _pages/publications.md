@@ -23,7 +23,7 @@ Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Yi Li, Wei 
 Junshan Wang<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Xiaojun Ma. In *The 24th European Conference on Artificial Intelligence (ECAI)*, 2020
 
 * **Domain Adaptive Classification on Heterogeneous Information Networks** \[[pdf](https://www.ijcai.org/Proceedings/2020/0196.pdf)\]\[[code](https://github.com/PKUterran/MuSDAC)\]<br>
-Shuwen Yang, Guojie Song, **Yilun Jin**, Lun Du. To appear in *The 29th International Joint Conference on Artificial Intelligence (IJCAI-PRICAI)*, 2020. 
+Shuwen Yang, Guojie Song, **Yilun Jin**, Lun Du. In *The 29th International Joint Conference on Artificial Intelligence (IJCAI-PRICAI)*, 2020. 
 
 * **Active Domain Transfer on Network Embedding** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024)\]<br>
 Lichen Jin, Yizhou Zhang, Guojie Song, **Yilun Jin**, In *The Web Conference (TheWebConf, a.k.a WWW)*, 2020. 
