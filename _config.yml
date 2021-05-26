@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
+  portfolio:
     output: false
     #permalink: /:collection/:path/
   talks:
