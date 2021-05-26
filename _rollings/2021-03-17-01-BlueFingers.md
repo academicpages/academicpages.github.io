@@ -120,12 +120,12 @@ Need of relax
 
 I need relaxation activities or to go and share with nature.
 
-![img](/files/personal-blog/2021-03-17-01/51.jpg)
+![img](/files/personal-blog/2021-03-17-01/51.png)
 
 
 I miss the science outreach activities, like when we created a science graffiti.
 
-![img](/files/personal-blog/2021-03-17-01/52.jpg)
+![img](/files/personal-blog/2021-03-17-01/52.png)
 
 
 
