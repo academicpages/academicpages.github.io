@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Central Florida, Department of Statistics and Data Science"
+date: 2019-Present
+location: "Orlando, Florida"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
