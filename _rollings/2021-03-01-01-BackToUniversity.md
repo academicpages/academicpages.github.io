@@ -21,7 +21,6 @@ In Chile, emphasis has been placed on the Covid vaccine process. It is expected 
 
 In our case, we hope that the investment and research areas of various national industries on which the financing of our applied scientific laboratory depends will be reactivated.
 
-Translated with www.DeepL.com/Translator (free version)
 
 Vaccination Process in Santiago
 ------
