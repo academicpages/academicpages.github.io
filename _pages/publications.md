@@ -6,7 +6,7 @@ urlcolor: blue
 author_profile: true
 ---
 
-**Generalized Invariant Risk Minimization: relating adaptation and invariant representation learning**
+**Generalized Invariant Risk Minimization: relating adaptation and invariant representation learning**\
 Steffen Schneider\*, Shubham Krishna\*, Luisa Eck*, Wieland Brendel, Mackenzie W. Mathis, Matthias Bethge(\* joint first authors)
 NeurIPS pre-registration workshop, 2020  \[[<span style="color:blue">Paper</span>](https://preregister.science/papers_20neurips/57_paper.pdf)\]
 
