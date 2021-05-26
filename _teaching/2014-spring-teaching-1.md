@@ -2,7 +2,7 @@
 title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+#permalink: /teaching/2014-spring-teaching-1
 venue: "University of Central Florida, Department of Statistics and Data Science"
 date: 2019-Present
 location: "Orlando, Florida"
