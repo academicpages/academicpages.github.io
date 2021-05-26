@@ -228,13 +228,13 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      #path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: false
-      share: true
-      comment: true
+      #author_profile: false
+      #share: true
+      #comment: true
   # _talks
   - scope:
       path: ""
