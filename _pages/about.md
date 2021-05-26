@@ -62,6 +62,23 @@ Research
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/pscc.jpeg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>PSCC-Net: Progressive spatio-channel correlation network for image manipulation detection and localization</strong><br/>
+      Xiaohong Liu, <u>Yaojie Liu</u>, Jun Chen, Xiaoming Liu<br/>
+      arXiv, 2021.<br/>
+      [<a href="https://arxiv.org/pdf/2103.10596.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="100%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
