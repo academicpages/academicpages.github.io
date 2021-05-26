@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Predictive Analytics for Banking and Financial Services"
+excerpt: "Implemented machine learning techniques to predict whether clients of a bank will initiate a term deposit based on a direct marketing campaign. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
