@@ -15,3 +15,4 @@ Education
 * Ph.D in Electrical Vehicles Routing Problem, Southern University of Science and Technology (SUSTech) , 2023 (expected)
 
 
+[[CV]](https://drive.google.com/file/d/1E6scooxp6PvMVqXhOSP-zhtGnmKI3L5e/view?usp=sharing)
