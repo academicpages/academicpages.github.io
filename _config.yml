@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deivy Houeix / houeix"
+title                    : "Deivy Houeix"
 title_separator          : "-"
 name                     : &name "Deivy Houeix"
-description              : &description "Research"
+description              : &description "Ph.D. student, MIT Department of Economic"
 url                      : https://houeix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "houeix/houeix.github.io"
