@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
     
   - title: "CV"
     url: cv/DeivyHoueix_CV_May20.pdf
