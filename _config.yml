@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio, Blog & more"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Simone Maria Giancola"
 description              : &description "Hardworking and motivated student, with a proficient academic record. Willing to broaden his personal knowledge towards Data Science, especially for healthcare and national security."
@@ -99,7 +99,7 @@ author:
   github           : "simonegiancola09"
   google_plus      :
   keybase          :
-  instagram        : "simone_giancola_"
+  instagram        : #"simone_giancola_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "simone-maria-giancola-011465173/"
