@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Economics at **MIT**. My research interests lie in **development economics**. I am particularly excited about issues related to state capacity, taxation, and formalization. I have been involved in research projects in **Côte d'Ivoire**, **Togo**, and **Ethiopia**.
+I am a Ph.D. student in Economics at **MIT**. My research interests lie in **development economics**. I am particularly excited about issues related to state capacity, taxation, and formalization. I have been involved in research projects in Côte d'Ivoire, Togo, and Ethiopia.
 
 If you're interested in talking about my work, or yours, **get in touch!**
 
