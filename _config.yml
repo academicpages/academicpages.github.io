@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Edgar Duarte-Forero" #Site title
 title_separator          : "-"
 name                     : &name "Edgar Duarte-Forero"
-description              : &description "personal description"
+description              : &description "Industrial Engineer at Universidad Libre"
 url                      : https://edgarduarteforero.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edgarduarteforero/edgarduarteforero.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Edgar Duarte-Forero"
   avatar           : "Edgar_Duarte_Forero.png"
-  bio              : "Industrial Engineer"
+  bio              : "Industrial Engineer | Researcher in optimization and Simulation in logistics networks"
   location         : "Bogota, CO"
   employer         : "Universidad Libre"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
