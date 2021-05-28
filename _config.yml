@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Deivy Houeix"
-  avatar           : "profile_dh.png"
+  avatar           : "profile_dh.jpg"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "Cambridge, USA"
+  location         : #"Cambridge, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
