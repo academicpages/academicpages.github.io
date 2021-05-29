@@ -1,5 +1,5 @@
 ---
-title: "Teaching Certificates"
+title: "Teaching & Mentoring Certificates"
 collection: teaching
 type: "To k-12 students, college students, and professionals"
 permalink: /teaching/teaching-certificates
@@ -9,8 +9,14 @@ location: "China, United States"
 ---
 <br>
 
+<b><big>Teaching Certificates</big></b>
 * <b>Chinese Teacher’s License (Psychology and Education)</b>
 *  <b>Neuromatch Academy Teaching Assistant Certificate</b>
 *  <b>UCI Course Design Certificate</b>
 *  <b>Activate to Captive Improv for Teaching Certificate</b>
+
+<br>
+
+<b><big>Mentoring Certificates</big></b>
 *  <b>UCI Mentoring Excellence Certificate</b>
+*  <b>Cascade Mentoring Certificate (Social Sciences and Humanities)</b>
