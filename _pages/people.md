@@ -518,14 +518,14 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gaoshang"></div>
       <div class="member_name" ><a href="https://github.com/Felix2048">GAO Shang 高尚</a></div>
-      <div class="member_intro" ></div>
+      <div class="member_intro" >视频分析</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="caishengliang"></div>
       <div class="member_name"><a href="https://cubercsl.cn/">CAI Shengliang 蔡盛梁</a></div>
-      <div class="member_intro" >ICPC 2020 World Finalist、视频分析平台</div>
+      <div class="member_intro" >ICPC 2020 World Finalist</div>
     </div>
   </div>
   <div class="member_item" >
@@ -555,7 +555,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangziyang"></div>
       <div class="member_name">WANG Ziyang 王子阳</div>
-      <div class="member_intro" > </div>
+      <div class="member_intro" >视频分析</div>
     </div>
   </div>
   <div class="member_item" >
@@ -576,7 +576,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xiajunyang"></div>
       <div class="member_name">XIA Junyang 夏浚洋</div>
-      <div class="member_intro" > </div>
+      <div class="member_intro" >视频分析</div>
     </div>
   </div>
 
