@@ -1,8 +1,8 @@
 ---
-title: "Mentor Experience"
+title: "Mentoring Experience"
 collection: teaching
 type: "To high school students & undergraduates & graduates"
-permalink: /teaching/mentor_experience
+permalink: /teaching/mentoring_experience
 venue: "UCI & UCSB & GSMI"
 date: 2020-03-01
 location: "United States"
