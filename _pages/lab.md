@@ -1,6 +1,6 @@
 ---
 permalink: /lab/
-title: ""
+title: "Lab"
 excerpt: "About Lab"
 author_profile: true
 redirect_from: 
