@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 Basic Information
 ======
+* Download a PDF version [here](http://academicpages.github.io/files/CV_Simone_maria_giancola_English.pdf.pdf)
 * Legal Name: Simone Maria Giancola
 * Date of birth: 06 September 1999
 * Nationality: Italian
