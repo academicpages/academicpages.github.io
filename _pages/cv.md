@@ -57,12 +57,6 @@ Skills (on a 5 scale)
     * English: IELTS (8.0/9), Duolingo (140/160), proficient, **5**
     * Italian, mothertongue, **5**
     * Spanish, basic communication **3**
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
  
 Awards
 ======
@@ -90,21 +84,3 @@ Associations and Organizations
 * Rugby Metanopoli ASD, Assistant coach at junior leagues, 2016-2017
 * Comprehensive Institute "Tommaso Grossi", Assistant teacher, 02/2015
     * Elementary school. Supported students with learning difficulties (mostly language related)
-
-
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
