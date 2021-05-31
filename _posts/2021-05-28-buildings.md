@@ -19,10 +19,10 @@ poder ser usado con cualquier ciudad de España.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rtalaverag/cadastral_buildings/HEAD)  
 
-Para cambiar la ciudad a visualizar sólo hay que cambiar la variable **"province"**
-por la provincia en la que se encuentra la ciudad a representar, y **"city"** con la
+Para cambiar la ciudad a visualizar sólo hay que cambiar la variable ` "province" `
+por la provincia en la que se encuentra la ciudad a representar, y "city" con la
 ciudad que queremos representar. El buffer original está adaptado para la
-representación de Granada, pero se puede variar cambiando el valor **"dist_buffer"**
-en la sección relativa a __**City buffer and intersect**__  
+representación de Granada, pero se puede variar cambiando el valor ` "dist_buffer" `
+en la sección relativa a ` **City buffer and intersect** `  
 
 ![alt text](/images/posts/Granada.png)
