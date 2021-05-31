@@ -9,7 +9,7 @@ redirect_from:
 ---
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="simone-maria-giancola-011465173" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/simone-maria-giancola-011465173?trk=profile-badge">Simone Maria Giancola</a></div>          
-I am a 21 years old student soon to graduate with a Bachelor in Economics and Computer Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page.
+I am a 21 years old student soon to graduate with a Bachelor in Economics and Computer Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page. You can find more information on my Github page, at the link on the left panel. 
 
 On the left, some contact information is made available. On the top menu, each visitor is allowed to access my Resume, my portfolio, and a blog I might start using. You can write me on any of the mentioned platforms. 
 
