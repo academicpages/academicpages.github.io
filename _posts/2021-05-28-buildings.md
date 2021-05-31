@@ -8,9 +8,9 @@ tags:
   - Catastro
 ---
 
-Siguiendo la idea viral de [Dominic Royé](https://github.com/dominicroye)
+Siguiendo la idea viral de [Dominic Royé](https://dominicroye.github.io/en/2019/visualize-urban-growth/) 
 de crear una visualización en R del crecimiento de las ciudades a partir de los datos del
-Catastro, en este post os muestro cómo llevarlo a cabo usando Python y el paquete
+[Catastro](https://www.sedecatastro.gob.es/), en este post os muestro cómo llevarlo a cabo usando Python y el paquete
 de datos espaciales Geopandas.  
 
 El desarrollo del script está basado en la código de [Jorge Monge](https://github.com/Jorge-Monge/cadastral_mapping)
@@ -27,5 +27,5 @@ representación de Granada, pero se puede variar cambiando el valor ``` dist_buf
 en la sección relativa a **City buffer and intersect**  
 
 
-  
+
 ![alt text](/images/posts/Granada.png)
