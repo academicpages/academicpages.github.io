@@ -67,16 +67,6 @@ Awards
 * Thanksgiving Parchment, 2020
     * Given to young volunteers by my home municipality
 
-Interests
-======
-* Sports
-    * played rugby for 5 years at regional agonistic level
-    * practiced judo, aikido and soccer previously
-* Watches
-    * Aspiring collector, currently only a passionate fan
-* Music
-    * More than 64000 minutes listened on Spotify in 2020
-
 Associations and Organizations
 ======
 * AVIS (Italian Association for blood donors)
@@ -88,3 +78,15 @@ Associations and Organizations
 * Rugby Metanopoli ASD, Assistant coach at junior leagues, 2016-2017
 * Comprehensive Institute "Tommaso Grossi", Assistant teacher, 02/2015
     * Elementary school. Supported students with learning difficulties (mostly language related)
+
+Interests
+======
+* Sports
+    * played rugby for 5 years at regional agonistic level
+    * practiced judo, aikido and soccer previously
+* Watches
+    * Aspiring collector, currently only a passionate fan
+* Music
+    * More than 64000 minutes listened on Spotify in 2020
+
+
