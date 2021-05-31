@@ -23,3 +23,6 @@ main:
 
   - title: "Award"
     url: /award/
+
+  - title: "Project"
+    url: /project/

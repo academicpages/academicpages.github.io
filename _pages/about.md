@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
 =====
 
 I am currently a Ph.D candate at School of Computer Science and Engieering at Nanyang Technological University (NTU), Singapore. I obtain my degree (2020) from Electrical Electronic Engieering (EEE) from Nanyang Technological University, Singapore. My research interests are at the insection of cyber security and autonomous vehicle.  
