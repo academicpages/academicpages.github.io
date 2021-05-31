@@ -15,7 +15,7 @@ I am a 21 years old student soon to graduate with a Bachelor in Economics and Co
 Next steps in my career will be earning my Masters' degree in Data Science and a doctorate. In the long term, I would love to apply the knowledge I am acquiring in what I call a _human setting_ dealing with people's problems such as health, environment, national security. Nevertheless, no one knows what life brings us, and I like to explore different fields, talk to people, get to experience whatever attracts me. 
 
 
-A little bit about me, and is not in my CV
+A little bit about me, things that are not in my CV
 ======
 Born and raised in the Milan metropolitan area, in a small town with a big identity. Atteded a Scientific oriented high school in Milan, to later move to one of the most prestigious (if not the most prestigious) Economics Universities in Italy. In the free time, I enjoy deepening my understanding of what I am studying, spending valuable time alone, seeing friends, cycling, drinking coffee, doing sports, listening to the radio or expanding my music collection. I like to keep myself busy and at the same time find moments of the day in which I kill time, just to keep a balance between activities. 
 
