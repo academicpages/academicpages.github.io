@@ -11,8 +11,9 @@ redirect_from:
 
 Professional Inline Skating Coach
 ======
-* Certificate
+* International Certificate Program (ICP)
   * International Inline Certification Program Level One (ICP Level 1)
+  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
   * Singapore Coach Theory Level One Certification
   * Singapore Basic Sports Science Certification
   * Main Community, Inline Skating Club, Nanyang Technological University, Singapore
