@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Simone Maria Giancola"
-description              : &description "Hardworking and motivated student, with a proficient academic record. Willing to broaden his personal knowledge towards Data Science, especially for healthcare and national security."
+description              : &description "Hardworking and motivated student, with a proficient academic record. Interested in Health Data Science, Mathematics, Statistics."
 url                      : https://simonegiancola09.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simonegiancola09/simonegiancola09.github.io"
@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Simone Maria Giancola"
   avatar           : "profile.png"
-  bio              : "Hardworking and motivated student, with a proficient academic record. Willing to broaden his personal knowledge towards Data Science, especially for healthcare and national security."
-  location         : "Milan"
-  employer         : "Studied @ASU in the US, and @Bocconi, Worked @Barclays in the UK"
+  bio              : "Studied @ASU in the USA, and @Bocconi university to earn a BS in Economics and Computer Science. In the past, I did a summer internship @Barclays in the UK"
+  employer         : "MS in Data Science @Bocconi"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mailto:simonegiancola09@gmail.com"
@@ -106,7 +105,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/13241440/simonegiancola09"
   steam            :
   tumblr           :
   twitter          : "@GiancolaSimone"
