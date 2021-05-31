@@ -17,54 +17,54 @@ Basic Information
 
 Education
 ======
-* MS in Data Science, Bocconi University, 08/2021 - 07/2023
+* **MS in Data Science**, Bocconi University, 08/2021 - 07/2023
     * Graduate degree, heavy focus on Mathematics, Statistics and Computer Science.
-* Exchange Semester, Arizona State University, 01/2021 - 05/2021, USA
+* Exchange Semester, **Arizona State University**, 01/2021 - 05/2021, USA
     * Selection by GPA
-    * Graduate Level courses: Quantum Computation, Modeling with Game Theory
+    * Graduate Level courses: **Quantum Computation**, Modeling with Game Theory
     * Undegraduate level: Programming for Computer Engineers, Intro to Information Systems
-    * GPA 4.17/4
+    * GPA **4.17/4**
     * Associations: Google Developer Student Club, Sun Devil Data Science   
-* BS in Economics, Management and Computer Science, Bocconi University, 08/2018 - 07/2021
+* **BS in Economics, Management and Computer Science**, Bocconi University, 08/2018 - 07/2021
     * The degree provides a Computer Science, Mathematics and Statistics background  for Data Science and Machine Learning.
     * Weighed average 29.19/30 (GPA 3.89/4)
-    * Thesis "_Value of Information in a Support Vector Machine, an exploration_"
+    * **Thesis:** "_Value of Information in a Support Vector Machine, an exploration_"
     * Associations: Bocconi Healthcare Hub, Bocconi Students for Data Science
 
 Professional experience
 ======
-* Bocconi University, Research Assistant (thesis), 01/2021 - 06/2021
-  * Part-time research with Professor Borgonovo Emanuele to write a thesis on SVM and Value of Information. Weekly calls, programming, discussion and reading. 
-* Barclays, Technology Analyst, Summer 2020, United Kingdom
+* **Bocconi University**, Research Assistant (thesis), 01/2021 - 06/2021
+  * Part-time **research** with Professor Borgonovo Emanuele to write a **thesis** on SVM and Value of Information. Weekly calls, programming, discussion and reading. 
+* **Barclays**, Technology Analyst, Summer 2020, United Kingdom
   * Team: Application Performance Monitoring for different Interactive Voice Response technologies
   * Training on the job and working sessions on tools used by the team
   * Projects delivered: tools documentation, charity fundraising
-* Barclays, Spring Analyst, April 2019, United Kingdom
+* **Barclays**, Spring Analyst, April 2019, United Kingdom
   * Five days into Barclays Technology headquarters, followed by expert members
   * Focus on: work shadowing, meetings with seniors, and activities on personal development
 
 Projects on Portfolio Section
 =====
- * Heartbeat classification and Disease detection, Python, 2020
+ * **Heartbeat classification and Disease detection**, Python, 2020
      * Data preparation and analysis, random forest classifier. With a single heartbeat the condition is identified with around 90% accuracy.
- * Covid-19 Analysis, Python, co-authored, 2020
+ * **Covid-19 Analysis**, Python, co-authored, 2020
      * Visualization and prediction with Italian data. Curve fitting to estimate a low boundary time-to-extinction of the pandemic.
 
 
 Skills (on a 5 scale)
 ======
-* Python **5**
+* **Python** **5**
     * Sklearn, Numpy, Matplotlib. Projects inside and outside of university duty.
-* R, SQL, Matlab, C, C++ **4**
+* **R, SQL, Matlab, C, C++** **4**
     * Extensive Academic experience
 * Languages Spoken
-    * English: IELTS (8.0/9), Duolingo (140/160), all degrees in English, proficient, **5**
+    * **English**: IELTS (8.0/9), Duolingo (140/160), all degrees in English, proficient, **5**
     * Italian, mothertongue, **5**
     * Spanish, basic communication **3**
  
 Awards
 ======
-* Thanksgiving Parchment, 2020
+* **Thanksgiving Parchment**, 2020
     * Given to young volunteers by my home municipality
 
 Associations and Organizations
