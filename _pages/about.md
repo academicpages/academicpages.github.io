@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-You can also find me on LinkedIn! 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="simone-maria-giancola-011465173" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/simone-maria-giancola-011465173?trk=profile-badge">Simone Maria Giancola</a></div>
               
 I am a 21 years old student soon to graduate with a Bachelor in Economics and Computer Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page. In the future, I would like to conduct some academic research and earn a doctorate degree, so I hope I will be able to fill this website with talks, publications etc. Feel free to explore its primordial form and make any suggestion! On the left, some contact information is made available. On the top menu, each visitor is allowed to access my Resume, my portfolio, and a blog I might start using. 
