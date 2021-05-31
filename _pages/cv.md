@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV here](http://xuehuanyang.github.io/files/cv.pdf)
+
 Education
 ======
 * Ph.D in School of Computer Science Engineering,, Nanyang Technological University, 2024 (Expected)
