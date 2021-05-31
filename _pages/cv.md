@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV here](http://xuehuanyang.github.io/files/cv.pdf)
+[CV Download Here](http://xuehuanyang.github.io/files/cv.pdf)
 
 Education
 ======
