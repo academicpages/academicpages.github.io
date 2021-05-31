@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Math
+======
+* 3rd Place, Chinese Mathematics Olympiad (CMO) Competition hosted by Chinese National High School Mathematics League 
+
 Professional Inline Skating Coach
 ======
 * International Certificate Program (ICP)
