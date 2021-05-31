@@ -18,7 +18,7 @@ Basic Information
 Education
 ======
 * MS in Data Science, Bocconi University, 08/2021 - 07/2023
-    * Graduate degree, heacy focused on Mathematics, Statistics and Computer Science. Data Science track.
+    * Graduate degree, heavy focus on Mathematics, Statistics and Computer Science.
 * Exchange Semester, Arizona State University, 01/2021 - 05/2021, USA
     * Selection by GPA
     * Graduate Level courses: Quantum Computation, Modeling with Game Theory
@@ -34,11 +34,14 @@ Education
 Professional experience
 ======
 * Bocconi University, Research Assistant (thesis), 01/2021 - 06/2021
-  * Part-time collaboration with Professor Borgonovo Emanuele to write a thesis on SVM and Value of Information. Weekly calls, programming, discussion and reading. 
+  * Part-time research with Professor Borgonovo Emanuele to write a thesis on SVM and Value of Information. Weekly calls, programming, discussion and reading. 
 * Barclays, Technology Analyst, Summer 2020, United Kingdom
   * Team: Application Performance Monitoring for different Interactive Voice Response technologies
   * Training on the job and working sessions on tools used by the team
   * Projects delivered: tools documentation, charity fundraising
+* Barclays, Spring Analyst, April 2019, United Kingdom
+  * Five days into Barclays Technology headquarters, followed by expert members
+  * Focus on: work shadowing, meetings with seniors, and activities on personal development
 
 Projects on Portfolio Section
 =====
@@ -55,7 +58,7 @@ Skills (on a 5 scale)
 * R, SQL, Matlab, C, C++ **4**
     * Academic experience
 * Languages Spoken
-    * English: IELTS (8.0/9), Duolingo (140/160), proficient, **5**
+    * English: IELTS (8.0/9), Duolingo (140/160), all degrees in English, proficient, **5**
     * Italian, mothertongue, **5**
     * Spanish, basic communication **3**
  
