@@ -8,4 +8,4 @@ tags:
   - Catastro
 ---
 
-<img src= /images/posts/Granada.png>
+![alt text](/images/posts/Granada.png)
