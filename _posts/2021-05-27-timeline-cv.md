@@ -1,6 +1,6 @@
 ---
 title: 'Timeline CV'
-date: 2021-05-27
+date: 2021-08-27
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - Plazas
