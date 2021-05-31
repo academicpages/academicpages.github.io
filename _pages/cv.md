@@ -56,7 +56,7 @@ Skills (on a 5 scale)
 * Python **5**
     * Sklearn, Numpy, Matplotlib. Projects inside and outside of university duty.
 * R, SQL, Matlab, C, C++ **4**
-    * Academic experience
+    * Extensive Academic experience
 * Languages Spoken
     * English: IELTS (8.0/9), Duolingo (140/160), all degrees in English, proficient, **5**
     * Italian, mothertongue, **5**
