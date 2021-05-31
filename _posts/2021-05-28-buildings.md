@@ -12,6 +12,8 @@ Siguiendo la idea viral de [Dominic Royé](https://dominicroye.github.io/en/2019
 de crear una visualización en R del crecimiento de las ciudades a partir de los datos del
 [Catastro](http://www.catastro.meh.es/webinspire/index.html), en este post os muestro cómo llevarlo a cabo usando Python y el paquete
 de datos espaciales Geopandas.  
+![alt text](/images/posts/Granada_prev.png)  
+
 
 El desarrollo del script está basado en la código de [Jorge Monge](https://github.com/Jorge-Monge/cadastral_mapping)
 que ha sido adaptado para poder ser usado con cualquier ciudad de España.   
