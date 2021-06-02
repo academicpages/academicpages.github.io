@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-[CV](/files/cv_li.pdf)    [日本語CV](/files/cv_li_jp.pdf)  
+[CV](/files/cv_li.pdf)    [日本語CV](/files/cv_li_jp.pdf)
 
 Master Student, \\
 [Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/), \\
@@ -18,10 +18,12 @@ Department of Bioinformatic Engineering, \\
 Graduate School of Information Science and Technology, \\
 Osaka University, Japan
 
-Reading Book:
+### Reading Book
 
+* Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 * The Model Thinker: What You Need to Know to Make Data Work for You
 
-Demo Gif for my Shepherding Work
+### Demo Gif for My Shepherding Work
 
+The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots).
 ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"}
