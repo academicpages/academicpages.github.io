@@ -13,4 +13,4 @@ Connect with me via the following platforms:
 * **Twitter**: @zhgarfield
 * **Office**: T.475, 1 Esplanade de l’Université; 31080 Toulouse; Cedex 6, France
 
-<img align="right" src="/images/office.jpg" width="500"> 
+<img align="center" src="/images/office.jpg" width="500"> 
