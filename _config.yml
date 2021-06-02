@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ken Kobayashi / Researcher at Fujitsu Laboratories LTD. "
+title                    : "Ken Kobayashi / Researcher at Fujitsu Limited "
 title_separator          : "-"
 name                     : &name "Ken Kobayashi"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ken Kobayashi"
   avatar           : "kenkobayashi.png"
-  bio              : "I currently work as a resercher at Fujitsu Laboratories Ltd. My research interests include mathematical optimization and operations research."
+  bio              : "I currently work as a resercher at Fujitsu Limited. My research interests include mathematical optimization and operations research."
   location         : "Nakahara-ku, Kawasaki"
   employer         : "Fujitsu Laboratories LTD."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
