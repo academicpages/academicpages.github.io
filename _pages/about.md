@@ -24,6 +24,6 @@ Reading Book:
 
 Gif about Shepherding Research:
 
-The shepherds guide the sheep to the goal.
+<!-- The shepherds guide the sheep to the goal. -->
 
 ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"}
