@@ -21,3 +21,7 @@ Osaka University, Japan
 Reading Book:
 
 * The Model Thinker: What You Need to Know to Make Data Work for You
+
+Demo Gif for my Shepherding Work
+
+![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"}
