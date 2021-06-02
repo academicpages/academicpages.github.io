@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include modeling techniques and algorithms on mixed-integer optimization and related problems. Especially, solving mixed-integer conic optimization problems is one of my ongoing research projects. I am also interested in applications of mathematical optimization to other engineering fields such as machine learning, production planning and so on.
+I'm interested in modeling techniques and algorithms on mixed-integer optimization and related problems. Especially, solving mixed-integer conic optimization problems is one of my ongoing research projects. I am also interested in applications of mathematical optimization to other engineering fields such as machine learning, production planning, and so on.
 
 ---
 # Research Interests
@@ -20,8 +20,7 @@ My research interests include modeling techniques and algorithms on mixed-intege
 
 ---
 # Education
-- Apr 2019--present: a PhD candidate, School of Engineering
-Department of Industrial Engineering and Economics, Tokyo Institute of Technology
+- Apr 2019--present: a PhD candidate, Department of Industrial Engineering and Economics, School of Engineering, Tokyo Institute of Technology
 - Apr 2013--Mar 2015: Master of Engineering, Department of Industrial Engineering and Management, Graduate School of Decision Science and Technology, Tokyo Institute of Technology
 - Apr 2009--Mar 2013: Bachelor of Engineering, Department of Industrial and Systems Engineering, Faculty of Engineering, Tokyo Institute of Technology
 
@@ -53,6 +52,9 @@ Department of Industrial Engineering and Economics, Tokyo Institute of Technolog
 1. Ryuta Tamura, Ken Kobayashi, Yuichi Takano, Ryuhei Miyashiro, Kazuhide Nakata and Tomomi Matsui: Mixed integer quadratic optimization formulations for eliminating multicollinearity based on variance inflation factor. Journal of Global Optimization, 73 (2019), 431--446.
 1. Ryuta Tamura, Ken Kobayashi, Yuichi Takano, Ryuhei Miyashiro, Kazuhide Nakata and Tomomi Matsui: Best subset selection for eliminating multicollinearity. Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 1. 高野祐一, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健, 田中研太郎, 中田和秀: ファジィクラスタワイズ回帰を用いた共同購入型クーポンサイトの閲覧傾向分析. オペレーションズ・リサーチ 59 (2014), 81--87.
+
+## Refereed Workshop Proceedings
+1. Mari Kajitani, Ken Kobayashi, Yuichi Ike, Takehiko Yamanashi, Yuhei Umeda, Yoshimasa Kadooka, and Gen Shinozaki; Application of Topological Data Analysis to Delirium Detection. Topological Data Analysis and Beyond, Workshop at NeurIPS 2020.
 
 ## Non-Refereed  Journal Papers and Articles
 1. 田村隆太, 小林健, 高野祐一, 宮代隆平, 中田和秀, 松井知己: 多重共線性を考慮した回帰式の変数選択問題の定式化.  オペレーションズ・リサーチ, 63, (2018), 128--133.
