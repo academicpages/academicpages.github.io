@@ -41,6 +41,7 @@ Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/1_xS-Vg3E01OkkbxfnQdHiFdUNCq7Zg4Z/view?usp=sharing)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L8-L13)
+[<b style="color:#a31503">[**Slides**]</b>](https://drive.google.com/file/d/11gNEXpwR4Pe3-OOTQc7QOIW79F4X7jg1/view?usp=sharing)
 
 + <b style="color:blue">[ICASSP-2021]</b> 
 Boyuan Feng, **Yuke Wang**, Yufei Ding. <br/>
@@ -81,6 +82,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 [<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/1D42tl2fToiw3yG_aHa_nl5trNLD2W6WB/view?usp=sharing)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L36-L41)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/DSXplore.git)
+[<b style="color:#a31503">[**Slides**]</b>](https://drive.google.com/file/d/1PiQcCu2_Y28lnLEup6EtIe4klLXalsbA/view?usp=sharing)
 
 + <b style="color:blue">[TCAD-2021] </b> 
 Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, Lei Deng, Yufei Ding, Zidong Du, Yunji Chen, Yuan Xie. <br/>
