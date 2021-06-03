@@ -16,6 +16,9 @@ Human Navigation
 
 Direction
 -----------
+* <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation.
+spatial@ucsb.global2021: Spatial Data Science for a Sustainable Future, Virtual. June, 2021.  [[news](https://lilianyou.github.io/posts/2021/6/blog-post-1/)]
+
 * <b>Cheng, Y. </b>, Chrastil, E.R.. Head Direction Signals During Navigation. Virtual Spring CNLM Conference - Memory: It's About Time, Virtual.  May, 2021. [[news](/posts/2021/5/blog-post-2/)]
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, The Emergence of Head Direction Signals in Human Navigation. UCI Associated Graduate Students (AGS) Symposium, Virtual.  April, 2021. <b>Audience Choice Award</b>  [[news](/posts/2021/4/blog-post-5/)] 
