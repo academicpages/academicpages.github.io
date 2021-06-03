@@ -28,6 +28,6 @@ Yongjun Zhang. 2021. "Leveraging Computational Methods in Social Science: Opport
 
 
 ## New Paper Alert
-Yongjun Zhang. 2021. "Corporate Responses to COVID19: A Non-Market Strategy Approach." Sociological Perspectivies.
+Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://journals.sagepub.com/eprint/BKSEHRTXFS5BSZAP2WMN/full)." Sociological Perspectivies.
 
 Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. “[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)” Poetics
