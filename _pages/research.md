@@ -9,7 +9,7 @@ permalink: /research/
 ## Research
 
 **Search Methods for Sufficient, Socially-Aligned Feature Importance Explanations with In-Distribution Counterfactuals**  
-Peter Hase, Mohit Bansal  
+Peter Hase, Harry Xie, Mohit Bansal  
 *Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2106.00786.pdf) [[code]](https://github.com/peterbhase/ExplanationSearch)  
 
 **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
