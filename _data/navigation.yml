@@ -4,5 +4,6 @@ main:
 #    url: /research/
     
   - title: "CV"
-    url: /cv/DeivyHoueix_CV_June21.pdf
+    [go](/cv/DeivyHoueix_CV_June21.pdf){:target="_blank" rel="noopener"}
+
     
