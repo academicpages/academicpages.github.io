@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I recently earned my Ph.D. in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). During my Ph.D. studies, I have had the fortune to work with Prof. [Michael Orchard](https://eceweb.rice.edu/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/lantao_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
+* I recently earned my Ph.D. in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). During my Ph.D. studies, I have had the fortune to work with Prof. [Michael Orchard](https://eceweb.rice.edu/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/lantao_yu_cv_june_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
 * My research interests lie in the area of image processing and computational photography, particularly in image interpolation, aliasing mitigation for image display, fusion, and compression.
 * I had a great summer as a research intern at Facebook in Menlo Park, CA. 
 * I had a great summer as a research intern at MERL in Cambridge, MA. 
