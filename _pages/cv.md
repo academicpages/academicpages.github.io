@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Jan 2019 - Dec 2019 : Final Year Project [Video](https://youtu.be/xiVnhqW8Fw8)
+* Jan 2019 - Dec 2019 : Final Year Project [Video](https://youtu.be/FbiLicwLClw) [Video](https://youtu.be/xiVnhqW8Fw8) 
   * Nanyang Technological University, Singapore
   * Autonomous Robotics Research Center, EEE
   * Autonomous Vehicle Localization Team
