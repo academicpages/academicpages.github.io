@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Henrique Veras"
-  avatar           : "~/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/henrique.png"
+  avatar           : "henrique.png"
   bio              : "Visiting Assistant Professor of Economics"
   location         : "Department of Economics"
   employer         : "Oberlin College"
@@ -177,15 +177,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -220,29 +215,13 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
