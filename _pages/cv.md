@@ -13,12 +13,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in School of Computer Science Engineering,, Nanyang Technological University, 2024 (Expected)
+* Ph.D in School of Computer Science Engineering, Nanyang Technological University, 2024 (Expected)
 * B.S. in School of Electrical Electronic Engineering, Nanyang Technological University, 2020
 
 Work experience
 ======
-* Jan 2019 - Dec 2019 : Final Year Project
+* Jan 2019 - Dec 2019 : Final Year Project [Video](https://youtu.be/xiVnhqW8Fw8)
   * Nanyang Technological University, Singapore
   * Autonomous Robotics Research Center, EEE
   * Autonomous Vehicle Localization Team
@@ -29,7 +29,7 @@ Work experience
   * Tested the performance of Localization sensor in outdoor environment at different distances and reported the result of the observations 
   <!-- * Supervisor: Professor Wang Danwei  -->
 
-* Sep 2018 - Dec 2019: Research Assistant
+* Sep 2018 - Dec 2019: Research Assistant [Video](https://youtu.be/IWc4gnJT64A)
   * Nanyang Technological University, Singapore
   * Center for Energy Research Institute@NTU (ERIAN) 
   * Future Mobility Team
@@ -38,9 +38,7 @@ Work experience
   * Developed lane detection algorithms for advanced driver assistance system
   * Acquired and analyzed 3D stereo camera (ZED) vision data using nvidia CUDA
   * Integrated recognized obstacles using deep learning frame 
-
-​
-<!-- * Supervisor: Professor Hub -->
+  <!-- * Supervisor: Professor Hub -->
 
   
 <!-- Skills
