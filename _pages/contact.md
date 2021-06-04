@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Email： s190113@e.ntu.edu.sg
+Email： s190113@e.ntu.edu.sg <br>
 Location: Block N4, School of Computer Science and Engineering, Nanyang Technological University, Singapore 639798, Singapore
 
