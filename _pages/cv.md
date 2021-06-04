@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}[CV](http://xuehuanyang.github.io/files/cv.pdf)
+{% include base_path %}
 
 Education
 ======
