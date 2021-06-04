@@ -32,5 +32,5 @@ Professional Inline Skating Coach
   * Main Community, Inline Skating Club, Nanyang Technological University, Singapore
 
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/skate/skatetoefood.png'>
  
