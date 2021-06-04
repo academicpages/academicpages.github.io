@@ -17,12 +17,12 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
 
   - title: "Award"
     url: /award/
 
   - title: "Project"
     url: /project/
+
+  - title: "Contact"
+    url: /contact/
