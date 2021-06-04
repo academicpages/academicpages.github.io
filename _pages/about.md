@@ -20,15 +20,6 @@ Osaka University, Japan
 
 ### Reading Book
 
-<<<<<<< HEAD
-* The Model Thinker: What You Need to Know to Make Data Work for You
-
-Gif about Shepherding Research:
-
-<!-- The shepherds guide the sheep to the goal. -->
-
-![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"}
-=======
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 * The Model Thinker: What You Need to Know to Make Data Work for You
 
@@ -36,4 +27,3 @@ Gif about Shepherding Research:
 
 The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots).
 ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"}
->>>>>>> 06e6975d420aee9f48cafc852c624a7224fc4645
