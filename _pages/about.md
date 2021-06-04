@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 I am an undergraduate at UCSD with hopes to pursue a role in SWE. I am a Math-CS and Cognitive Science double major and enjoy auditing classes in philosophy.
 
@@ -29,9 +30,9 @@ I'd love to talk! Feel free to suggest a time that works [here](https://calendly
 - 💻 keeping an organized workspace against relentless entropy
 - 🤔 shows & movies that make you think
 - 📕 sci-fi: *Neuromancer* is a recent recommendation
-- 👀 privacy
+- 👀 [privacy](https://xkcd.com/1553/)
 - 🎵 discovering new music
-- 🏃‍♂️ running
+- 🏃‍♂️ XC running
 - 💾 people who do proper backups
 - 🪄 the magic when things just work
 - 🪐 intellectualizing at night
@@ -41,7 +42,7 @@ I'd love to talk! Feel free to suggest a time that works [here](https://calendly
 
 Message me through any of the contacts in the sidebar. Email is preferable. 
 
-Here's my [GPG key](../files/Samir Rashid (8957AC94) – Public.asc).
+Here's my [GPG key]({{ base_path }}/pgp.txt).
 You can also find it on my [Keybase](https://keybase.io/samirrashid) or hosted on the [OpenPGP keyserver](https://keys.openpgp.org/vks/v1/by-fingerprint/DE65F61B7AD669C839721530A81CA0CA8957AC94).
 
 ## Feedback!
