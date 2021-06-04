@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in School of Computer Science Engineering, Nanyang Technological University, 2024 (Expected)
-* B.S. in School of Electrical Electronic Engineering, Nanyang Technological University, 2020
+* Ph.D in School of Computer Science Engineering, Nanyang Technological University, Singapore, 2024 (Expected)
+* B.S. in School of Electrical Electronic Engineering, Nanyang Technological University, Singapore, 2020
 
 Research Experience 
 ======
