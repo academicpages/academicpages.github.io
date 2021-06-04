@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LI Aiyi"
+title                    : "Aiyi LI"
 title_separator          : "-"
-name                     : &name "LI Aiyi"
+name                     : &name "Aiyi LI"
 description              : &description "Student"
 # url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://argyili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
