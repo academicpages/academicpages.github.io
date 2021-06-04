@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<p align = "justify">     
+   
 I joined the Department of Biomedical Informatics at [Columbia University](https://www.columbia.edu/) as a postdoctoral research scientist in January 2020 under the supervision of Prof. [Chunhua Weng](https://people.dbmi.columbia.edu/~chw7007/). I received my Ph.D. degree in Computer Science from [Case Western Reserve University](https://case.edu/) in 2019 under the supervision of Prof. [Kenneth Loparo](https://case.edu/datascience/node/131) and received my M.E. degree my B.E. degree in Software Engineering from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.    
-</p> 
+
 Research    
 ======
 
