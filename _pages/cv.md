@@ -38,6 +38,13 @@ Work experience
   * Integrated recognized obstacles using deep learning frame 
   <!-- * Supervisor: Professor Hub -->
 
+* June 2018 - August 2018: Autonomous Vehicle Software Engineer [SingPilot](http://www.singpilot.com/)
+  * SingPilot, Singapore
+  * Autonomous Vehicle Perception Team
+  * ​Join the team to supply and delivery of One unit of Autonomous Vehicle to Temasek Laboratories@NTU, Nanyang Technological University,Singapore
+  * Success customized ros_localization package for a driverless vehicle and navigation software to enable the vehicle to move autonomously using GPS, LIDAR and IMU
+  * Success built the height warning system using LIDAR for Changi Airport, Singapore
+
   
 <!-- Skills
 ======
