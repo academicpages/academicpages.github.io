@@ -14,7 +14,9 @@ Education
 * Ph.D in School of Computer Science Engineering, Nanyang Technological University, 2024 (Expected)
 * B.S. in School of Electrical Electronic Engineering, Nanyang Technological University, 2020
 
-Work experience
+Research experience: 
+* Autonomous Vehicle & Cyber Security
+  * Aim to acquire artificial intelligence algorithms and machine learning technique to develop autonomous vehicles' localization, perception, predication, planning, control and v2x modules. 
 ======
 * Jan 2019 - Dec 2019 : Final Year Project [Video](https://youtu.be/FbiLicwLClw) [Video](https://youtu.be/xiVnhqW8Fw8) 
   * Nanyang Technological University, Singapore
