@@ -30,4 +30,7 @@ Professional Inline Skating Coach
 
 * Inline Skating Club (NTU) [NTU Inline Skating Club](https://www.instagram.com/ntuskateclub/?hl=en)
   * Main Community, Inline Skating Club, Nanyang Technological University, Singapore
+
+
+<br/><img src='/images/500x300.png'>
  
