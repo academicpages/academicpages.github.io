@@ -1,0 +1,9 @@
+name: "my-website"
+navbar:
+  title: "ECON 253"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Lecture Notes"
+      href: test.html
