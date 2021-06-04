@@ -7,6 +7,8 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+Si te gusta el contenido, puedes invitarme a un café   [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/rtalaverag)
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
