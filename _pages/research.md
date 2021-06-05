@@ -17,11 +17,13 @@ author_profile: true
 
 ## Working Papers
 
-**Wrong Place, Wrong Time: The Long-Run Effects of In-Utero Exposure to Malaria on Educational Attainment in Brazil** (Revise & Resubmit, *Economics and Human Biology*)
+[**Wrong Place, Wrong Time: The Long-Run Effects of In-Utero Exposure to Malaria on Educational Attainment in Brazil**](https://drive.google.com/file/d/1ox3JGjarhUAoIURqLd-vjmK5jXUhFzj3/view?usp=sharing) (Revise & Resubmit, *Economics and Human Biology*)
 
 **Pull Up a Chair: Municipal Council Size and Local Taxes in Brazil** [CDEP Working Paper](https://cdep.sipa.columbia.edu/sites/default/files/cdep/WP89Kresch.pdf)
+
 With Evan Kresch, Rodrigo Schneider, and Mark Walker
- * Presented at NEUDC 2020 [Slides]
+
+Presented at NEUDC 2020 [Slides]
 
 **Early-Life Exposure to Malaria and Adult Mortality: Evidence from the Brazilian Eradication Campaign**
 With Diogo Barlocher. [Link]
