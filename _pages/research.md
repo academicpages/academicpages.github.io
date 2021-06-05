@@ -27,16 +27,16 @@ With Diogo Baerlocher.
 
 ## Publications
 
-> [**Fiscal shocks, the real exchange rate and the trade balance: some evidence for emerging economies.**](https://www.degruyter.com/document/doi/10.1515/bejm-2014-0018/html)   
-With Diogo Baerlocher and Marcelo Eduardo Alves Silva. *The B.E. Journal of Macroeconomics*, 2015, 15(2), 727-768.
+> [**Fiscal shocks, the real exchange rate and the trade balance: some evidence for emerging economies.**](https://www.degruyter.com/document/doi/10.1515/bejm-2014-0018/html), *The B.E. Journal of Macroeconomics*, 2015, 15(2), 727-768.   
+With Diogo Baerlocher and Marcelo Eduardo Alves Silva. 
 
 ### In Portuguese
 
-> [**Analysis of Brazilian Exports: A Gravity-Based Estimate for the Grape Industry**](http://www.iea.sp.gov.br/out/verTexto.php?codTexto=12179)  
-With Ecio de Farias Costa and Leonardo Ferraz Xavier. *Revista de Economia Agrícola*, 2010 , 57(2), 81-98.
+> [**Analysis of Brazilian Exports: A Gravity-Based Estimate for the Grape Industry**](http://www.iea.sp.gov.br/out/verTexto.php?codTexto=12179) (*Revista de Economia Agrícola*, 2010 , 57(2), 81-98.)  
+With Ecio de Farias Costa and Leonardo Ferraz Xavier. 
 
-> [**Agricultural Production Efficiency in The São Francisco Valley Region, Brazil:  score measurement and correlation factor analysis.**](http://www.iea.sp.gov.br/ftpiea/publicacoes/rea/rea3-2-16.pdf)   
-With Ecio de Farias Costa, Emanoel de Souza Barros, and Leonardo Ferraz Xavier. Revista de Economia Agrícola, 2016 , 63(2), 35-52. [Link]
+> [**Agricultural Production Efficiency in The São Francisco Valley Region, Brazil:  score measurement and correlation factor analysis.**](http://www.iea.sp.gov.br/ftpiea/publicacoes/rea/rea3-2-16.pdf) (*Revista de Economia Agrícola*, 2016 , 63(2), 35-52.)   
+With Ecio de Farias Costa, Emanoel de Souza Barros, and Leonardo Ferraz Xavier.
 
 ## Selected Work in Progress
 
