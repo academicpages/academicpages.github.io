@@ -19,4 +19,4 @@ location: "China, United States"
 
 <b><big>Mentoring Certificates</big></b>
 *  <b>UCI Mentoring Excellence Certificate</b>
-*  <b>Cascade Mentoring Certificate (Social Sciences and Humanities)</b>
+*  <b>Cascading Mentorship Certificate (Social Sciences)</b>
