@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /bio/
 title: "Bio"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /bio.html
 ---
 
 ## Full CV
