@@ -5,11 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 # Seminar on Comparative Economic Development
 * Oberlin College
@@ -18,5 +13,5 @@ author_profile: true
 
 # Intermediate Microeconomics
 * Oberlin College
-**Spring 2021 [Syllabus]
+** Spring 2021 [Syllabus]
 ** Fall 2020
