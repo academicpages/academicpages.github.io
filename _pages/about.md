@@ -21,7 +21,11 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 News
 ======
-* Incoming Doctoral Enrichment Placement at The Alan Turing Institute 2021 - 2022.
+* (2021 May) Incoming Doctoral Enrichment Placement at [The Alan Turing Institute](https://www.turing.ac.uk) 2021 - 2022.
+* (2021 Feb) Scheduled Talk at _[MCM 2021](https://www.uni-mannheim.de/mcm-2021/)_, (Mannheim, German).
+* (2021 Jan) One paper accepted for publication at [AISTATS](https://aistats.org/aistats2021/) 2021.
+
+
 
 
 
