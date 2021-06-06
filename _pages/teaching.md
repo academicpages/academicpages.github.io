@@ -22,47 +22,47 @@ author_profile: true
     - Fall 2019
 
 > Economic Development   
-<sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON209-Spring2021)   
-Fall 2019
+    - <sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON209-Spring2021)   
+    - Fall 2019
   
 ### University of Illinois at Urbana-Champaign
 
 >Economics Statistics II   
-<sub>Summer 2016   
-Summer 2015   
-Summer 2014
+    - <sub>Summer 2016   
+    - Summer 2015   
+    - Summer 2014
 
 >Development Economics   
-<sub>Spring 2019 [Syllabus](http://henriqueveras.github.io/files/Syllabus-Spring-2019)   
-Fall 2018  
-Summer 2017   
-Spring 2017   
-Fall 2016    
-Spring 2016    
-Fall 2015
+    - <sub>Spring 2019 [Syllabus](http://henriqueveras.github.io/files/Syllabus-Spring-2019)   
+    - Fall 2018  
+    - Summer 2017   
+    - Spring 2017   
+    - Fall 2016    
+    - Spring 2016    
+    - Fall 2015
   
 ## Teaching Assistant
 
 ### University of Illinois at Urbana-Champaign
 
 >Economics Statistics I   
-<sub>Spring 2018   
-Fall 2017
+    - <sub>Spring 2018   
+    - Fall 2017
   
 > Intermediate Macroeconomic Theory   
-<sub>Spring 2015 (Head TA)
+    - <sub>Spring 2015 (Head TA)
   
 > Economics Statistics II   
-<sub>Fall 2014
+    - <sub>Fall 2014
   
 > Macroeconomic Principles   
-<sub>Spring 2014
+    - <sub>Spring 2014
   
 >Microeconomic Principles   
-<sub>Fall 2013
+    - <sub>Fall 2013
   
 ### Universidade Federal de Pernambuco (Brazil)
 
 > Monetary Economics   
-<sub>Spring 2011
+    - <sub>Spring 2011
   
