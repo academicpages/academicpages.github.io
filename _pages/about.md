@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome to Pengyu Cheng's homepage!
 
-I just received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University. My future career path will start at Tencent Interactive Entertainment Group. My research interests focus on probabilistic machine learning, interpretable machine learning, and their applications in natural language processing. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
+I just received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University. My future career path will start at Tencent Interactive Entertainment Group. My research interests focus on probabilistic machine learning, interpretable machine learning, and their applications in natural language processing.
 
-I received my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017.
+I received my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
 
 
