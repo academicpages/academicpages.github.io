@@ -13,9 +13,9 @@ author_profile: true
 Journal Publications
 ------
 
-* <b>Alexander Davydov</b> and Yancy Diaz-Mercado. “Sparsity Structure and Optimality of Multi-Robot Coverage Control,” <i>IEEE Control Systems Letters</i>, vol. 4, no. 1, pp. 13-18, Jan. 2020. [[DOI](https://doi.org/10.1109/LCSYS.2019.2921513)]
-
 * <b>Alexander Davydov</b>, Phillip Rivera-Ortiz, and Yancy Diaz-Mercado. “Pursuer Coordination in Multi-Player Reach-Avoid Games through Control Barrier Functions,” <i>IEEE Control Systems Letters</i>, vol. 5, no. 6, pp. 1910-1915, Dec. 2020. [[DOI](https://doi.org/10.1109/LCSYS.2020.3044549)]
+
+* <b>Alexander Davydov</b> and Yancy Diaz-Mercado. “Sparsity Structure and Optimality of Multi-Robot Coverage Control,” <i>IEEE Control Systems Letters</i>, vol. 4, no. 1, pp. 13-18, Jan. 2020. [[DOI](https://doi.org/10.1109/LCSYS.2019.2921513)]
 
 Conference Publications
 ------
@@ -25,12 +25,13 @@ Conference Publications
 Preprints and Publications Under Review
 ------
 
-* <b>Alexander Davydov</b>, Saber Jafarpour, and Francesco Bullo. “Non-Euclidean Contraction Theory via Semi-Inner Products,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2103.12263)] <b>Submitted</b>
-
-* Saber Jafarpour, <b>Alexander Davydov</b>, and Francesco Bullo. “Non-Euclidean Contraction Theory for Monotone and Positive Systems,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2104.01321)] <b>Submitted</b>
+* Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Jun. 2021. <b>Submitted</b>
 
 * Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, May 2021. <b>Submitted (Invited Tutorial Paper)</b>
 
-* Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Jun. 2021. <b>Submitted</b>
+* Saber Jafarpour, <b>Alexander Davydov</b>, and Francesco Bullo. “Non-Euclidean Contraction Theory for Monotone and Positive Systems,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2104.01321)] <b>Submitted</b>
 
-* -- These authors contributed equally
+* <b>Alexander Davydov</b>, Saber Jafarpour, and Francesco Bullo. “Non-Euclidean Contraction Theory via Semi-Inner Products,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2103.12263)] <b>Submitted</b>
+
+
+<sup>*</sup> -- These authors contributed equally
