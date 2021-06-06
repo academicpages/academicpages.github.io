@@ -9,8 +9,8 @@ author_profile: true
 ### Obelin College
 
 > Seminar on Comparative Economic Development    
-<font size="2">Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Fall_2020.pdf)</font>     
-<font size="2">Spring 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Spring_2020)</font>
+Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Fall_2020.pdf)     
+Spring 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Spring_2020)
 
 > Intermediate Microeconomics  
 <font size="2">Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Econ 253 Spring 2021 Syllabus)</font>   
