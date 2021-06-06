@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Ensino (in Portugues)"
-#    url: /talks/    
+  - title: "Research"
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
