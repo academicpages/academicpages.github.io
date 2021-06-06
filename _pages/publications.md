@@ -31,6 +31,6 @@ Preprints and Publications Under Review
 
 * Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, May 2021. <b>Submitted (Invited Tutorial Paper)</b>
 
-* Saber Jafarpour <sup>*</sup>, <b>Alexander Davydov</b> <sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Jun. 2021. <b>Submitted</b>
+* Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Jun. 2021. <b>Submitted</b>
 
-*</sup> -- These authors contributed equally
+* -- These authors contributed equally
