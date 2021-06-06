@@ -9,60 +9,60 @@ author_profile: true
 ### Obelin College
 
 > Seminar on Comparative Economic Development    
-<font size="2">Fall 2020 [Syllabus]</font>     
-<font size="2">Spring 2020 [Syllabus]</font>
+<font size="2">Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Fall_2020.pdf)</font>     
+<font size="2">Spring 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Spring_2020)</font>
 
 > Intermediate Microeconomics  
-Spring 2021 [Syllabus]  
-Fall 2020
+<font size="2">Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Econ 253 Spring 2021 Syllabus)</font>   
+<font size="2">Fall 2020</font>
 
 > Principles of Economics  
-Fall 2020 [Syllabus]  
-Spring 2020   
-Fall 2019
+<font size="2">Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus_Fall_2020)</font>  
+<font size="2">Spring 2020</font>   
+<font size="2">Fall 2019</font>
 
 > Economic Development   
-Spring 2020 [Syllabus]   
-Fall 2019
+<font size="2">Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON209-Spring2021)</font>   
+<font size="2">Fall 2019</font>
   
 ### University of Illinois at Urbana-Champaign
 
 > Economics Statistics II   
-Summer 2016   
-Summer 2015   
-Summer 2014
+<font size="2">Summer 2016</font>   
+<font size="2">Summer 2015</font>   
+<font size="2">Summer 2014</font>
 
 > Development Economics   
-Spring 2019 [Syllabus]   
-Fall 2018   
-Summer 2017   
-Spring 2017   
-Fall 2016    
-Spring 2016    
-Fall 2015
+<font size="2">Spring 2019 [Syllabus](http://henriqueveras.github.io/files/Syllabus-Spring-2019)</font>   
+<font size="2">Fall 2018</font>   
+<font size="2">Summer 2017</font>   
+<font size="2">Spring 2017</font>   
+<font size="2">Fall 2016</font>    
+<font size="2">Spring 2016</font>    
+<font size="2">Fall 2015</font>
   
 ## Teaching Assistant
 
 ### University of Illinois at Urbana-Champaign
 
 > Economics Statistics I   
-Spring 2018   
-Fall 2017
+<font size="2">Spring 2018</font>   
+<font size="2">Fall 2017</font>
   
 > Intermediate Macroeconomic Theory   
-Spring 2015 (Head TA)
+<font size="2">Spring 2015 (Head TA)</font>
   
 > Economics Statistics II   
-Fall 2014
+<font size="2">Fall 2014</font>
   
 > Macroeconomic Principles   
-Spring 2014
+<font size="2">Spring 2014</font>
   
 > Microeconomic Principles   
-Fall 2013
+<font size="2">Fall 2013</font>
   
 ### Universidade Federal de Pernambuco (Brazil)
 
 > Monetary Economics   
-Spring 2011
+<font size="2">Spring 2011</font>
   
