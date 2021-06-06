@@ -7,8 +7,7 @@ redirect_from:
   - /bio.html
 ---
 
-## Full CV
-
+## [Full CV](http://henriqueveras.github.io/files/Henrique_CV_Jun_2021.pdf)
 
 
 ## Education
