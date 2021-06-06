@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pengyu Cheng"
   avatar           : "avatar.jpeg"
-  bio              : "Machine Learning Ph.D."
-  location         : 
+  bio              : 
+  location         : "Shenzhen, China"
   employer         : #  "Duke University"
   googlescholar    : "https://scholar.google.com/citations?user=eeQ_yCkAAAAJ&hl=en"
   email            : "pengyu.cheng@duke.edu"
