@@ -12,11 +12,7 @@ My name is Z. Sun, a 2nd year PhD student in Statistics at University College Lo
 
 Research Interest
 ======
-In general, I am very interested in __computational statistics__ and __machine learning__. Recently, I have worked on meta-learning, control variates and Stein's method. 
-
-- Meta-learning targets at the learning problems when only a small set of samples are available for training. It is all about how to make use of past knowledge to generalize on novel unseen tasks. 
-
-- Control Variates methdods aim to get an estimator for integration problems which largely reduce the variance of Monte Carlo estimators especially when sample size is small.
+In general, I am very interested in __computational statistics__ and __machine learning__. Recently, I have worked on meta-learning, control variates and Stein's method. Meta-learning targets at the learning problems when only a small set of samples are available for training. It is all about how to make use of past knowledge to generalize on novel unseen tasks. Control Variates methdods aim to get an estimator for integration problems which largely reduce the variance of Monte Carlo estimators especially when sample size is small.
 
 
 News
