@@ -10,16 +10,16 @@ author_profile: true
 
 > Seminar on Comparative Economic Development    
     - <sub>Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Fall_2020.pdf)  
-- Spring 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Spring_2020)
+    - Spring 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Spring_2020)
 
 >Intermediate Microeconomics  
-- <sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Econ 253 Spring 2021 Syllabus)    
-- Fall 2020
+    - <sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Econ 253 Spring 2021 Syllabus)    
+    - Fall 2020
 
 >Principles of Economics  
-- <sub>Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus_Fall_2020)  
-- Spring 2020   
-- Fall 2019
+    - <sub>Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus_Fall_2020)  
+    - Spring 2020   
+    - Fall 2019
 
 > Economic Development   
 <sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON209-Spring2021)   
