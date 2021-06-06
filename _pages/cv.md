@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Degree in Matemathics, 1999
+* Degree in Matemathics, Federal University of Espírito Santo, 1999
 * Ph.D in Computational Modelling, National Laboratory of Scientific Computing, 2006
 
 Work experience
