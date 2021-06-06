@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marcio Bortoloti"
+title: "Marcio Antônio de Andrade Bortoloti"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
