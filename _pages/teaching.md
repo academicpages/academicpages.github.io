@@ -8,8 +8,8 @@ author_profile: true
 
 ### Obelin College
 
-> Seminar on Comparative Economic Development 
-Fall 2020 [Syllabus]   
+> Seminar on Comparative Economic Development    
+<font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2020 [Syllabus]</font>     
 Spring 2020 [Syllabus]
 
 > Intermediate Microeconomics  
