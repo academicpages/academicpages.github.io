@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Licenciado em Matemática, 1999
-* Ph.D in Computational Modelling, Laboratório Nacional de Computação Científica, 2006
+* Degree in Matemathics, 1999
+* Ph.D in Computational Modelling, National Laboratory of Scientific Computing, 2006
 
 Work experience
 ======
