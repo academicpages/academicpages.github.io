@@ -19,6 +19,11 @@ In general, I am very interested in __computational statistics__ and __machine l
 - Control Variates methdods aim to get an estimator for integration problems which largely reduce the variance of Monte Carlo estimators especially when sample size is small.
 
 
+News
+======
+* Incoming Doctoral Enrichment Placement at The Alan Turing Institute 2021 - 2022.
+
+
 Publication
 ======
 _[\* means equal contribution.]_
