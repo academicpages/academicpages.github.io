@@ -41,7 +41,7 @@ Talks/Presentations
 ======
 *  Talk at _[MCM 2021](https://www.uni-mannheim.de/mcm-2021/)_, August 2021, (Mannheim, German).
 *  Poster at _[AISTATS 2021](https://aistats.org/aistats2021/)_, April 2021, (San Diego, California, USA).
-*  Talk at _Data Centric Engineering @ The Alan Turing Institute_, March 2021, (London, UK).
+*  Talk at _Data Centric Engineering @ [The Alan Turing Institute](https://www.turing.ac.uk)_, March 2021, (London, UK).
 
 
 
