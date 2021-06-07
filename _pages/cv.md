@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. (with High Distinction) in Statistics and Mathematics, with a Minor in Biology <br>
+* B.S. (3.91/4.0, High Distinction) in Statistics and Mathematics, with a Minor in Biology <br>
   *University of Michigan, 2021*
 * Ph.D in Quantitative Biology and Medicine (concentration: Biostatistics and Health Data Science) <br>
   *Duke-Nus Medical School, 2025 (expected)*
@@ -51,7 +51,7 @@ Research Experience
 
 * Research Intern, July 2019 - Aug 2019
   * Supervised by Dr. Yuan Fang and [Junbiao Dai](http://www.isynbio.org/team-detail_en.aspx?detail=2249&parm=2080)'s lab at Shenzhen Institutes Of Advanced Technology, Chinese Academy of Sciences - Shenzhen, China
-Trained in Linux system and learned the use of various software used for genetic sequencing and data analysis Executed sequencing and analysis of chlorella genome sequence and compared the performance of different software
+  * Trained in Linux system and  the use of various software used for genetic sequencing and data analysis 
 
   
 Skills
