@@ -53,6 +53,10 @@ Research Experience
   * Supervised by Dr. Yuan Fang and [Junbiao Dai](http://www.isynbio.org/team-detail_en.aspx?detail=2249&parm=2080)'s lab at Shenzhen Institutes Of Advanced Technology, Chinese Academy of Sciences - Shenzhen, China
   * Trained in Linux system and  the use of various software used for genetic sequencing and data analysis 
 
+* Research Assistant, Mar 2017 - Jun 2018
+  * Supervised by Dr. Yongtai Yin and Professor [Maoteng Li](http://faculty.hust.edu.cn/limaoteng/en/index.htm)'s lab, College of Life Science and Technology, Huazhong University Of Science & Technology
+  * Oversaw and participated in wet lab as well as field work for an undergraduate research project which aimed to select possible candidate genes in QTL(quantitative trait locus) that could affect the seed size of Brassica napus L
+
   
 Skills
 ======
