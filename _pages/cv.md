@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. (with High Distinction) in Statistics (with High Honors) and Mathematics (Mathematical Sciences Program), University of Michigan, 2021
+* B.S. (with High Distinction) in Statistics (with High Honors), Mathematics (Mathematical Sciences Program) and a Minor in Biology, University of Michigan, 2021
 * Ph.D in Quantitative Biology and Medicine (concentration: Biostatistics and Health Data Science), Duke-Nus Medical School, 2025 (expected)
 
 Work experience
