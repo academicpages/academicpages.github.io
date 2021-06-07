@@ -46,12 +46,13 @@ Research Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical analysis, data mining, mathematical modelling
+* Programming
+  * R
+  * C++/C
+  * Matlab
+  * Python
+  * * HTML
 
 Publications
 ======
