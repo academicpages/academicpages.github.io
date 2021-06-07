@@ -18,7 +18,7 @@ If you're interested in talking about my work, or yours, get in touch!
 ### Selected Work in Progress
 - Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
 
-- Measuring Poverty through Peer Ratings (with Pascaline Dupas, Marcel Fafchamps)
+- Measuring Relative Poverty through Peer Rankings: Evidence from Côte d’Ivoire (with Pascaline Dupas, Marcel Fafchamps)
 
 - Technology Adoption and Rent Sharing
 
