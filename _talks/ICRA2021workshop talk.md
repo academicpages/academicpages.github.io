@@ -14,3 +14,5 @@ paper:
 2: Bringing A Robot Simulator to the SCAMP Vision System
 
 [paper website](https://sites.google.com/view/onsvp-icra-2021-workshop/home)
+
+[ICRA 2021 workshop Best Poster/Video](https://sites.google.com/view/onsvp-icra-2021-workshop/home#h.s7iav5hwmnnn)
