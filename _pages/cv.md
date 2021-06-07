@@ -35,10 +35,6 @@ Work experience
 
 Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * Independent Study, Jan 2020 - Apr 2021 
   * Supervised by Professor [Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html), Department of Statistics, University of Michigan
@@ -49,10 +45,13 @@ Research Experience
   * Supervised by Professor [Oliver He](https://medicine.umich.edu/dept/dcmb/yongqun-oliver-he-phd), University of Michigan Medical School
   * (Link to Pubmed)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Independent Study, May 2019 - Sep 2020
+  * Supervised by Professor [Annette Ostling](https://lsa.umich.edu/eeb/people/faculty/aostling.html), Department of Ecology and Evolutionary Biology 
+  * Wrote code to establish mathematical modeling with the aim of testing the neutral theory, applying the approach earlier developed by the lab in small landscapes. Performed the method of predicting abundances on actual data gathered from BCI(Barro Colorado Island) and analyzed the association between the results of the simulations and traits as well as the habitat patterns of the species.
+
+* Research Intern, July 2019 - Aug 2019
+  * Supervised by Dr. Yuan Fang and [Junbiao Dai](http://www.isynbio.org/team-detail_en.aspx?detail=2249&parm=2080)'s lab at Shenzhen Institutes Of Advanced Technology, Chinese Academy of Sciences - Shenzhen, China
+Trained in Linux system and learned the use of various software used for genetic sequencing and data analysis Executed sequencing and analysis of chlorella genome sequence and compared the performance of different software
 
   
 Skills
