@@ -1,4 +1,3 @@
-
 ---
 title: "Presentation in ICRA2021 workshop ONSVP"
 collection: talks and presentation
