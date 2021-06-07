@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. (with High Distinction) in Statistics (with High Honors), Mathematics (Mathematical Sciences Program) and a Minor in Biology <br>
+* B.S. (with High Distinction) in Statistics and Mathematics, with a Minor in Biology <br>
   *University of Michigan, 2021*
 * Ph.D in Quantitative Biology and Medicine (concentration: Biostatistics and Health Data Science) <br>
   *Duke-Nus Medical School, 2025 (expected)*
@@ -38,7 +38,7 @@ Research Experience
 
 * Independent Study, Jan 2020 - Apr 2021 
   * Supervised by Professor [Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html), Department of Statistics, University of Michigan
-  * Honors Thesis: [Local False Discovery Rates in the Multi-Parameter Case, with Application to Epigenetics of Human Growth](https://drive.google.com/file/d/14tf0MGQ4rOotmwVfcAnDwLZA7WaObCmI/view)
+  * Honors Thesis (awarded High Honors): [Local False Discovery Rates in the Multi-Parameter Case, with Application to Epigenetics of Human Growth](https://drive.google.com/file/d/14tf0MGQ4rOotmwVfcAnDwLZA7WaObCmI/view)
 
 
 * Research Assistant, Sep 2019 - Apr 2021
