@@ -16,6 +16,23 @@ Education
 
 Work experience
 ======
+
+* Math Grader
+  * Department of Mathematics, University of Michigan Jan 2021 – Apr 2021
+  * Grader for MATH 451 Advanced Calculus
+
+* Math Tutor
+  * Science Learning Center, University of Michigan   05/2020 - 08/2020
+  * Tutored undergraduates in calculus courses ranging from pre-calculus to differential equations and advised undergraduates on general study techniques for mathematics
+
+
+* Study Group Facilitator
+  * Science Learning Center, University of Michigan 09/2019 - 12/2019
+  * Facilitated group discussion to enhance students' understanding of science and math subject matter
+
+
+Research Experience
+======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -25,6 +42,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
   
 Skills
 ======
