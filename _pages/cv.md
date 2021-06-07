@@ -62,7 +62,6 @@ Skills
   * R
   * C++/C
   * Matlab
-  * Python
   * HTML
 
 <!-- Publications
