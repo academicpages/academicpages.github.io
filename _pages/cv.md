@@ -28,7 +28,7 @@ Work experience
   * Tutored undergraduates in calculus courses ranging from pre-calculus to differential equations and advised undergraduates on general study techniques for mathematics
 
 
-* Study Group Facilitator &nbsp; *<font size="3"> Sep 2019 - Dec 2019 </font>*  
+* Study Group Facilitator &nbsp; <font size="3"> Sep 2019 - Dec 2019 </font>
   * Science Learning Center, University of Michigan 
   * Facilitated group discussion to enhance students' understanding of science and math subject matter
 
@@ -39,6 +39,10 @@ Research Experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+* Independent Study, Jan 2020 - Apr 2021 
+  * Supervised by Professor Kerby Shedden, Department of Statistics
+  * Honors Thesis: [Local False Discovery Rates in the Multi-Parameter Case, with Application to Epigenetics of Human Growth](https://drive.google.com/file/d/14tf0MGQ4rOotmwVfcAnDwLZA7WaObCmI/view)
 
 * Fall 2015: Research Assistant
   * Github University
@@ -54,17 +58,13 @@ Skills
   * C++/C
   * Matlab
   * Python
-  * * HTML
+  * HTML
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
