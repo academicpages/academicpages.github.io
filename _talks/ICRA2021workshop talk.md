@@ -1,1 +1,10 @@
 
+---
+title: "Presentation in ICRA2021 workshop ONSVP"
+collection: talks and presentation
+type: "Conference proceedings talk"
+permalink: https://sites.google.com/view/onsvp-icra-2021-workshop/home
+venue: "IEEE International Conference on Robotics and Automation (ICRA) 2021, On- and Near-sensor Vision Processing, from Photons to Applications (ONSVP)"
+date: 4th June 2021
+location: "Xi'an, China"
+---
