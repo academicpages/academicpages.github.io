@@ -59,5 +59,8 @@ Skills
 ======
 * Statistical analysis, data mining, mathematical modelling
 * Programming
+  * R
+  * C++/C
+  * Matlab
 
   
