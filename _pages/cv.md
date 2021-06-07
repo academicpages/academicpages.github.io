@@ -21,17 +21,17 @@ Education
 Work experience
 ======
 
-* Math Grader  &nbsp;&nbsp;  *<font size="3"> Jan 2021 – Apr 2021 </font>*  
+* Math Grader  &nbsp; *<font size="3"> Jan 2021 – Apr 2021 </font>*  
   * Department of Mathematics, University of Michigan  
 <!--   <font size="1"> Jan 2021 – Apr 2021 </font>  -->
   * Grader for MATH 451 Advanced Calculus
 
-* Math Tutor &nbsp;&nbsp;  *<font size="3"> May 2020 - Aug 2020 </font>*  
+* Math Tutor &nbsp;  *<font size="3"> May 2020 - Aug 2020 </font>*  
   * Science Learning Center, University of Michigan   
   * Tutored undergraduates in calculus courses ranging from pre-calculus to differential equations and advised undergraduates on general study techniques for mathematics
 
 
-* Study Group Facilitator &nbsp;&nbsp; *<font size="3"> Sep 2019 - Dec 2019 </font>*  
+* Study Group Facilitator &nbsp; *<font size="3"> Sep 2019 - Dec 2019 </font>*  
   * Science Learning Center, University of Michigan 
   * Facilitated group discussion to enhance students' understanding of science and math subject matter
 
