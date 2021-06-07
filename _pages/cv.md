@@ -11,22 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. (with High Distinction) in Statistics (with High Honors), Mathematics (Mathematical Sciences Program) and a Minor in Biology 
-  *University of Michigan, 2021*
-  *<font size="3"> University of Michigan, 2021 </font>* 
-* Ph.D in Quantitative Biology and Medicine (concentration: Biostatistics and Health Data Science) 
-  *Duke-Nus Medical School, 2025 (expected)*
-  *<font size="3"> Duke-Nus Medical School, 2025 (expected) </font>* 
+* B.S. (with High Distinction) in Statistics (with High Honors), Mathematics (Mathematical Sciences Program) and a Minor in Biology <br>
+  <font size="3"> University of Michigan, 2021 </font>
+* Ph.D in Quantitative Biology and Medicine (concentration: Biostatistics and Health Data Science) <br>
+  <font size="3"> Duke-Nus Medical School, 2025 (expected) </font>
 
 Work experience
 ======
 
-* Math Grader  &nbsp; *<font size="3"> Jan 2021 – Apr 2021 </font>*  
+* Math Grader  &nbsp; <font size="3"> Jan 2021 – Apr 2021 </font>
   * Department of Mathematics, University of Michigan  
-<!--   <font size="1"> Jan 2021 – Apr 2021 </font>  -->
   * Grader for MATH 451 Advanced Calculus
 
-* Math Tutor &nbsp;  *<font size="3"> May 2020 - Aug 2020 </font>*  
+* Math Tutor &nbsp;  <font size="3"> May 2020 - Aug 2020 </font>
   * Science Learning Center, University of Michigan   
   * Tutored undergraduates in calculus courses ranging from pre-calculus to differential equations and advised undergraduates on general study techniques for mathematics
 
