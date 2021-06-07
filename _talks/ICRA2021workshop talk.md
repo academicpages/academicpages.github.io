@@ -10,6 +10,7 @@ location: "Xi'an, China"
 
 paper: 
 1: Direct Servo Control from In-Sensor CNN Inference with A Pixel Processor Array
+
 2: Bringing A Robot Simulator to the SCAMP Vision System
 
 [paper website](https://sites.google.com/view/onsvp-icra-2021-workshop/home)
