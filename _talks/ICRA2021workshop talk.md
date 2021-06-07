@@ -1,5 +1,5 @@
 ---
-title: "Presentation in ICRA2021 workshop ONSVP"
+title: "ICRA2021 workshop ONSVP"
 collection: talks and presentation
 type: "Conference proceedings talk"
 permalink: https://sites.google.com/view/onsvp-icra-2021-workshop/home
