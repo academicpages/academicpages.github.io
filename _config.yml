@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Siqi Li"
-  avatar           : "profile.png"
+  avatar           : "/images/v1.png"
   bio              : "PhD student at Duke-NUS Medical School"
   location         : "Singapore"
   googlescholar    : "http://yourfullgooglescholarurl.com"
