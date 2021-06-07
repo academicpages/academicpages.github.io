@@ -59,14 +59,5 @@ Skills
 ======
 * Statistical analysis, data mining, mathematical modelling
 * Programming
-  * R
-  * C++/C
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
   
