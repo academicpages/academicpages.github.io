@@ -9,7 +9,7 @@ redirect_from:
 
 ## Peer-Reviewed Articles
 
-- Inclusive Institutions, Unequal Outcomes: Democracy, State Capacity and Income Inequality. **Forthcoming, European Journal of Political Economy**. <br/> [[Paper]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/Bahamonde_Trasberg.pdf). [[Abstract]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/abstract.txt). With Mart Trasberg (Tulane).
+- Inclusive Institutions, Unequal Outcomes: Democracy, State Capacity, and Income Inequality. **Forthcoming, European Journal of Political Economy**. <br/> [[Paper]](https://doi.org/10.1016/j.ejpoleco.2021.102048). [[Abstract]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/abstract.txt). With Mart Trasberg (Tulane).
 
 
 - Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence From a List Experiment. **Forthcoming, Acta Politica**. <br/> [[Paper]](https://doi.org/10.1057/s41269-020-00174-4). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/AP_2020). [[Citation]](https://raw.githubusercontent.com/hbahamonde/Vote_Selling/master/Bahamonde_AP.bib).
