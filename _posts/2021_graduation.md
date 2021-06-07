@@ -8,13 +8,6 @@ tags:
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+The global pandemic of COVID-19 continued in 2021. I booked my flight back to China in March right after I made my final decision for grad school, and arrived in Shanghai on April 11th, China Eastern time. After two weeks of qurantine, I spent another one week in Shanghai, doing all of the end-up work for this final semester. I didn't synchronously participate in the online ceremony of our department because my boyfriend and I were went to Disney that day to avoid the upcoming travel peak of International Labor Day. 
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+Here are the screen shots from both the [video](https://www.youtube.com/watch?v=mLUoONLfzd8&t=13s) and the [pdf](https://lsa.umich.edu/content/dam/stats-assets/statsdocuments/Undergraduate%20Reception%20Program_pages.pdf) file. I took them in case that the links expire in the future. 
