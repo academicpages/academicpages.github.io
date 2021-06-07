@@ -13,8 +13,10 @@ Education
 ======
 * B.S. (with High Distinction) in Statistics (with High Honors), Mathematics (Mathematical Sciences Program) and a Minor in Biology 
   *University of Michigan, 2021*
+  *<font size="3"> University of Michigan, 2021 </font>* 
 * Ph.D in Quantitative Biology and Medicine (concentration: Biostatistics and Health Data Science) 
   *Duke-Nus Medical School, 2025 (expected)*
+  *<font size="3"> Duke-Nus Medical School, 2025 (expected) </font>* 
 
 Work experience
 ======
