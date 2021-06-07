@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. (with High Distinction) in Statistics (with High Honors) and Mathematics (Mathematical Sciences Program), University of Michigan, 2021
+* Ph.D in Quantitative Biology and Medicine (concentration: Biostatistics and Health Data Science), Duke-Nus Medical School, 2025 (expected)
 
 Work experience
 ======
