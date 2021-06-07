@@ -18,7 +18,7 @@ Work experience
 ======
 
 * Math Grader
-  * Department of Mathematics, University of Michigan Jan 2021 – Apr 2021
+  * Department of Mathematics, University of Michigan  <font size="1"> Jan 2021 – Apr 2021 </font> 
   * Grader for MATH 451 Advanced Calculus
 
 * Math Tutor
