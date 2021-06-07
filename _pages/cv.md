@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 
-* Math Grader      Jan 2021 – Apr 2021
+* Math Grader      &nbsp &nbsp &nbsp <font size="3"> Jan 2021 – Apr 2021 </font> *This text is italicized*
   * Department of Mathematics, University of Michigan  
 <!--   <font size="1"> Jan 2021 – Apr 2021 </font>  -->
   * Grader for MATH 451 Advanced Calculus
