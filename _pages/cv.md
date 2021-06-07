@@ -55,7 +55,7 @@ Research Experience
 
 * Research Assistant, Mar 2017 - Jun 2018
   * Supervised by Dr. Yongtai Yin and Professor [Maoteng Li](http://faculty.hust.edu.cn/limaoteng/en/index.htm)'s lab, College of Life Science and Technology, Huazhong University Of Science & Technology
-  * Oversaw and participated in wet lab as well as field work for an undergraduate research project which aimed to select possible candidate genes in QTL(quantitative trait locus) that could affect the seed size of Brassica napus L
+  * Oversaw and participated in wet lab and field work for an undergraduate research project which aimed to select possible candidate genes in QTL(quantitative trait locus) that could affect the seed size of Brassica napus L
 
   
 Skills
