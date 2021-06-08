@@ -14,8 +14,7 @@ I use binary Convolutional Neural Network and other parallel techniques to deplo
 # Latest news  
 
 ## June 2021 
-relased semi-simulated platform for SCAMP and Coppeliasim Robot simulator  
-[github](https://github.com/yananliusdu/scamp5d_interface)  
+released semi-simulated platform for SCAMP and Coppeliasim Robot simulator [github](https://github.com/yananliusdu/scamp5d_interface)  
 
 [Best poster/video ICRA 2021 workshop](https://sites.google.com/view/onsvp-icra-2021-workshop/home#h.s7iav5hwmnnn)  
 
