@@ -36,5 +36,5 @@ author_profile: true
 * [Segmenting Highway Network Based on Speed Profiles](https://ieeexplore.ieee.org/abstract/document/7313562)<br/>Russel Aziz, Manav Kedia, **Soham Dan**, Sudeshna Sarkar, Sudeshna Mitra, Pabitra Mitra. **IEEE ITSC** 2015.
 
 ### Patents
-* [Techniques for generating a psychographic profile](https://patents.google.com/patent/US20170270544A1/en)<br/>Kokil Jaidka, Vamsi Krishna Bokam, **Soham Dan**, Atanu R. Sinha, Yogesh Singh. (Pending)
+* [Techniques for generating a psychographic profile](https://patents.google.com/patent/US20170270544A1/en)<br/>Kokil Jaidka, Vamsi Krishna Bokam, **Soham Dan**, Atanu R. Sinha, Yogesh Singh.
 
