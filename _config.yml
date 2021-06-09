@@ -84,7 +84,7 @@ author:
   avatar           : "57E11FBA-612A-4F0C-8040-6E33E4F48BEB.jpeg"
   bio              : "PhD student at Duke-NUS Medical School"
   location         : "Singapore"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "siqili@umich.edu"
   github           : "siqili0325"
   linkedin         : "siqi-li-1b7731183"
