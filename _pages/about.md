@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 <br>
------
+
 Hi! 
+------
 
 Thanks for stopping by. My name is Siqi and I am a PhD student under the advisement of Professor [Liu Nan](https://www.duke-nus.edu.sg/directory/detail/liu-nan) at Duke-NUS Medical School, Aug 2021 intake.
 
