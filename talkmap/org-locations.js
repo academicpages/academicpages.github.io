@@ -38,5 +38,10 @@ var addressPoints = [
     "Montréal, Canada",
     45.5017,
     -73.5673
+  ],
+  [
+    "Rolim de Moura - Rondônia, Brazil",
+    -11.7140967,
+    -61.7756579
   ]
 ];
