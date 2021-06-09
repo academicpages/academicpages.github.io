@@ -14,17 +14,9 @@ A data-driven personal website
 ======
 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-
-Site-wide configuration
-------
-The main configuration 
-
 Create content & metadata
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For 
+For site content, there is one markdown file for each type of content.
 
 
 
@@ -32,7 +24,3 @@ How to edit your site's GitHub repository
 ------
 
 
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
