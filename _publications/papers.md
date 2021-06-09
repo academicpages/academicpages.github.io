@@ -33,7 +33,7 @@ author_profile: true
 * [Identifying and characterizing truck stops from GPS data](https://link.springer.com/chapter/10.1007/978-3-319-41561-1_13)<br/>Russel Aziz, Manav Kedia, **Soham Dan**, Sayantan Basu, Sudeshna Sarkar, Sudeshna Mitra, Pabitra Mitra. **ICDM** 2016.
 
 ### 2015
-* [Segmenting Highway Network Based on Speed Profiles](https://ieeexplore.ieee.org/abstract/document/7313562)<br/>Russel Aziz, Manav Kedia, Soham Dan, Sudeshna Sarkar, Sudeshna Mitra, Pabitra Mitra. **IEEE ITSC** 2015.
+* [Segmenting Highway Network Based on Speed Profiles](https://ieeexplore.ieee.org/abstract/document/7313562)<br/>Russel Aziz, Manav Kedia, **Soham Dan**, Sudeshna Sarkar, Sudeshna Mitra, Pabitra Mitra. **IEEE ITSC** 2015.
 
 ### Patents
 * [Techniques for generating a psychographic profile](https://patents.google.com/patent/US20170270544A1/en)<br/>Kokil Jaidka, Vamsi Krishna Bokam, **Soham Dan**, Atanu R. Sinha, Yogesh Singh. (Pending)
