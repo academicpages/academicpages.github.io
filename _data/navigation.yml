@@ -1,22 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Schedule"
+    url: /schedule/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Special Events"
+    url: /special-events/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Previous Schedules"
+    url: /previous-schedules/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Our Team"
+    url: /team/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Job Market 2021"
+    url: /job-market-2021/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
