@@ -9,13 +9,18 @@ redirect_from:
 ---
 
 I am a PhD student at Monash University working on gamma-ray bursts, neutron stars and gravitational waves under the supervision of Paul Lasky and Greg Ashton.
-I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
+I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav. Starting from November, I will be joining NORDITA (Stockholm) as a NORDITA Fellow.
 
 # Recent News
-* November 27th: _The evolution of binary neutron star post-merger remnants: a review_ submitted to General Relativity and Gravitation. 
-* November 23rd-27th: This week I am attending the annual OzGrav retreat.  
+* 4th June 2021: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ submitted to ApJL.
+* 1st June 2021: _The evolution of binary neutron star post-merger remnants: a review_ accepted in General Relativity and Gravitation.
+* 24th May 2021: _CDF XT1: The off-axis afterglow of a neutron star merger at z = 2.23_ submitted to ApJL.
+* 23-26 March 2021: I gave a virtual talk at the THESEUS conference. See slides [here](https://www.isdc.unige.ch/theseus/posters-slides.html)
+* February 2021: Pleased to finally announce that I have accepted a postdoctoral fellowship at NORDITA. Looking forward to moving to Sweden in November.
+* January 2021: I passed my pre-submission milestone for my PhD! This is the last milestone before I submit my thesis in mid July.
+* November 27th 2020: _The evolution of binary neutron star post-merger remnants: a review_ submitted to General Relativity and Gravitation.
+* November 23rd-27th 2020: This week I am attending the annual OzGrav retreat.  
 * 16th November 2020: Today I am giving an invited talk at Caltech.
-* 28th October 2020: _CDF XT1: an off-axis neutron star merger at z = 2.23_ submitted to Nature!
 * September 2020: _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ accepted in MNRAS.
 * August 2020: I gave a couple more remote talks this month. One at the Flatiron Institute, and another at the University of California, Berkeley.
 * August 2020: Submitted _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ to MNRAS. See it on [arXiv](https://arxiv.org/abs/2008.05745).
