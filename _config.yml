@@ -194,59 +194,42 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+  # _special_events
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _papers
   - scope:
       path: ""
-      type: teaching
+      type: pages
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _publications
+  # _schedule
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _previous_schedules
   - scope:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: pages
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+
+  # _about_us
   - scope:
       path: ""
-      type: portfolio
+      type: pages
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
