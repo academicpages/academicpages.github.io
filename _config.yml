@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "GSIPE"
-  avatar           : "evergiven.jpeg"
+  avatar           : images/evergiven.jpeg
   bio              : "Graduate Students in International Political Economy Workshop"
   location         : "Virtual"
   employer         :
