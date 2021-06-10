@@ -25,9 +25,9 @@ Please also find more information from my
 
 News
 ------
+- Jun 10: New [preprint](https://arxiv.org/abs/2106.04590) is now available on ArXiv. 
 - Jun 2: Our paper is accepted to [IJCB 2021](http://ijcb2021.iapr-tc4.org/). Stay tuned!
 - May 18: New [preprint](https://arxiv.org/abs/2105.07530) is now available on ArXiv.
-- Feb 10: Our [SafeAI](https://safeai.webs.upv.es/) presentation is available [here](http://ceur-ws.org/Vol-2808/Paper_34.pdf).
 <!-- - Nov 3: Our [Interspeech 2020](http://www.interspeech2020.org/) presentation is now available [here](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=274&id=534). -->
 
 <!-- ======
