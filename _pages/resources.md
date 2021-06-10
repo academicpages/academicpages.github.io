@@ -56,6 +56,8 @@ Data Visualization
 * [Matplotlib Gallery](https://matplotlib.org/stable/index.html) for figure templates in Python
 * [Mastering Shiny](https://mastering-shiny.org/index.html) by Hadley Wickham (Shiny is a popular data app)
 * [From Data to Viz](https://www.data-to-viz.com/) helps match graph types to data types
+* [PySurfer](http://pysurfer.github.io/auto_examples/index.html#pysurfer-example-data) for visualizing human brain
+* [WagnerLabPapers](https://github.com/WagnerLabPapers/Waskom_CerebCortex_2017/blob/master/computational_model_figure.ipynb) for python codes used to generate fMRI figures in journals
 
 <br> 
 
@@ -84,6 +86,7 @@ Modeling
 Neuroscience
 ======
 * [Functional Neuroanatomy](http://www.neuroanatomy.ca/) for an introduction to neuroanatomy with virtual brain dissection
+* [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp) introduces main methodologies in fMRI data analyses by Rebecca Saxe
 * [Neuroscience Gateway (NSG)](https://www.nsgportal.org/overview.html) gives neuroscientists free access to High Performance Computing resources
 * [EBRAINS](https://ebrains.eu/services) gives researchers access to shared and curated open data (including the [Human Brain Project](https://www.humanbrainproject.eu/en/) data)
 * [Allen Institute's The Virtual Science Lab](https://alleninstitute.org/about/education-outreach/#Lessons) teaches researchers how to use open data from Allen Institute in class
