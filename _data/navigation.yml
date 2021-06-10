@@ -2,6 +2,9 @@
 main:
   - title: "Schedule"
     url: /schedule/
+    
+  - title: "Paper"
+    url: /paper/
 
   - title: "Special Events"
     url: /special-events/    
