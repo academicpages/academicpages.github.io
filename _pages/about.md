@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Graduate Students in International Political Economy (GSIPE) Workshop"
-excerpt: "About me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,12 +13,14 @@ We invite graduate students and faculty from political science and economics wit
 
 We welcome papers in all stages of progress and job market papers.
 
-Job Market Talks
-Political science: 40 min. presentation, 40 min. Q&A
-Economics: 1 hr. presentation, 20 min. Q&A
-Regular Talks
-Political science: 20 minutes presentation, 40 min. Q&A
-Economics: 45 min. presentation, 15 min. Q&A
+<i>Job Market Talks</i></p>
+Political science: 40 min. presentation, 40 min. Q&A</p>
+Economics: 1 hr. presentation, 20 min. Q&A</p>
+
+<i>Regular Talks</i></p>
+Political science: 20 minutes presentation, 40 min. Q&A</p>
+Economics: 45 min. presentation, 15 min. Q&A</p>
+
 Participants are expected to read the papers before the workshop. Papers will be posted on the “Paper” tab of the website and circulated via the mailing list. The link to the Zoom meeting will likewise be sent to the mailing list one hour before the start time of the meeting.
 
 The workshop is committed to promoting the work and voices of Black, Indigenous, POC, and women scholars.
