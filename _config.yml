@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Erkao Bao"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, School of Mathematics, University of Minnesota"
-  location         : "206 Church St SE, Minneapolis, MN 55455"
+  bio              : "Assistant Professor, \nSchool of Mathematics, \nUniversity of Minnesota"
+  location         : "206 Church St SE, \nMinneapolis, MN 55455"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "http://https://scholar.google.com/citations?user=qs9kS1oAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
