@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "GSIPE"
-  avatar           : images/evergiven.jpeg
+  avatar           : evergiven.jpeg
   bio              : "Graduate Students in International Political Economy Workshop"
   location         : "Virtual"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "gsipe.workshop@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
