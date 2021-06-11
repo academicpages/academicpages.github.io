@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Job Market 2021"
-permalink: /job-market/
+permalink: /job-market-2021/
 author_profile: true
 ---
 
