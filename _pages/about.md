@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[June 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021 Datasets and Benchmarks Track**. 
+
 \[May 2021\] SecureBoost is accepted at **IEEE Intelligent Systems**. Congratulations to my co-authors! 
 
 \[April 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021**. 
