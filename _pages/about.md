@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Rahul is a first-year Ph.D. student in Operations at the [Kenan-Flagler Business School](https://www.kenan-flagler.unc.edu/) at the [University of North Carolina - Chapel Hill](https://www.unc.edu/), currently advised by Prof. [Jayashankar Swaminathan](http://public.kenan-flagler.unc.edu/Faculty/swaminaj/). 
+Rahul is a first-year Ph.D. student in Operations Management at the [Kenan-Flagler Business School](https://www.kenan-flagler.unc.edu/) at the [University of North Carolina - Chapel Hill](https://www.unc.edu/), currently advised by Prof. [Jayashankar Swaminathan](http://public.kenan-flagler.unc.edu/Faculty/swaminaj/). 
 
 Prior to joining UNC Kenan-Flagler, Rahul held several profiles in industries across energy and telecom sectors. He is a former Data Scientist in the Applied Research division at [BT (British Telecom)](https://www.bt.com/) in the UK, where he led a project on consumer science. He also worked across pipeline and retail business units at [Bharat Petroleum](https://www.bharatpetroleum.com/) in India. 
 
