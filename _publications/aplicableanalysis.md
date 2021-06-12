@@ -12,4 +12,5 @@ In this work, we present a mixed stabilized finite element formulation in primit
 
 [Download paper here](https://www.tandfonline.com/doi/abs/10.1080/00036811.2015.1009900?journalCode=gapa20&)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation:  Marcio Antônio de Andrade Bortoloti & José Karam-Filho (2016) A stabilized finite element analysis for a power-law pseudoplastic Stokes problem, Applicable Analysis, 95:2, 467-482, DOI: 10.1080/00036811.2015.1009900
+
