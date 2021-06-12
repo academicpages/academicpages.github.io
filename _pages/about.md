@@ -9,9 +9,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am an undergraduate at UCSD with hopes to pursue a role in SWE. I am a Math-CS and Cognitive Science double major and enjoy auditing classes in philosophy.
+I am an undergraduate at UCSD with hopes to pursue a role in SWE. I am double majoring in Math-Computer Science and Cognitive Science and enjoy auditing classes in philosophy.
 
-I am currently looking for an internship position as a software engineer. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
+I am currently looking for a 2022 internship positions as a software engineer. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
 ## About
 
 I am interested in investigating the applications machine learning techniques and its intersection with various fields, particularly NLP. I see computers' knowledge of human language as the next big interface for humans to utilize computing power more naturally. I look forward to the day computers gain a semantic understanding of language. 
@@ -20,12 +20,13 @@ I am also passionate about the application of simulation in developing robust sy
 
 👋 Hey, I'm Samir, but you can call me Samir.
 
-My recent covid hobby has been an Among Us addiction. I also have been going through my backlog of things I've been meaning to do (like giving this site a little love 🫀).
+My recent covid hobby has been an Among Us addiction. I also have been going through my backlog of things I've been meaning to do (like giving this site a little love 🫀). I am currently working on developing a fun little platforming game in with my friends. If you have any recommendations, I enjoy discovering new music and seeing all the interesting genres people come up with.
 
-I'd love to talk! Feel free to suggest a time that works [here](https://calendly.com/samir0/30min) 🕰. 
+I'd love to talk about anything! Feel free to suggest a time that works [here](https://calendly.com/samir0/30min) 🕰. 
 ### Things I love
 
 <!-- Things I love:  -->
+<!-- https://unicode.org/emoji/charts/full-emoji-list.html -->
 - ⚙ understanding complex systems
 - 💻 keeping an organized workspace against relentless entropy
 - 🤔 shows & movies that make you think
@@ -36,7 +37,8 @@ I'd love to talk! Feel free to suggest a time that works [here](https://calendly
 - 💾 people who do proper backups
 - 🪄 the magic when things just work
 - 🪐 intellectualizing at night
-- 📰 [current](https://en.wikipedia.org/wiki/Fast_inverse_square_root) favorite Wikipedia article
+- 📰 current favorite [Wikipedia article](https://en.wikipedia.org/wiki/Cargo_cult_programming)
+- 🏔 current favorite [game](http://www.celestegame.com/)
 
 ## For more info
 
