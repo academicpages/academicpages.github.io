@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <a href="{{ post.paperurl }}">{{ title }}</a> </a>, <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }} {{ post.excerpt }}
+    <a href="{{ post.paperurl }}">{{ title }}</a>, <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }} {{ post.excerpt }}
     
 <!--     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
