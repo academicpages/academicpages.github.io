@@ -1,6 +1,6 @@
 ---
 title: "Bachelor Thesis"
-excerpt: "Support Vector Machine and Value of Information, an exploration>"
+excerpt: "Support Vector Machine and Value of Information, an exploration, 2021>"
 collection: portfolio
 ---
 To access the PDF, please click [here](http://simonegiancola09.github.io/files/Support_vector_machine_and_value_of_information_an_exploration.pdf)
