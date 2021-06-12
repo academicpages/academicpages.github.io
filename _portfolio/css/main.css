@@ -1,0 +1,95 @@
+body {
+  background-color: #eee;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallery>a, .gallery::after {
+  flex-basis: var(--w);
+}
+
+.gallery>a {
+  margin: 0.25rem;
+  flex-grow: calc(var(--w) / var(--h) * 100);
+  width: calc(var(--w) * 1px);
+}
+
+.gallery::after {
+  --w: 2;
+  --h: 1;
+  content: '';
+  flex-grow: 1000000;
+}
+
+.gallery>a>img {
+  display: block;
+  width: 100%;
+}
+
+.header-image {
+  height: 400px;
+  color: #eeeeee;
+  padding: 0px;
+}
+
+.header-info {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.header-info-details h1 {
+  font-size: 56px;
+}
+
+.header-info-details {
+  border-top: 1px solid #eee;
+  width: 80%;
+  margin: 50px auto 0px;
+  padding-top: 50px;
+  font-size: 20px;
+}
+
+.gallery-section h2 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.gallery-section h2 a {
+  visibility: hidden;
+  color: #aaaaaa;
+}
+
+.gallery-section h2 a:hover {
+  color: #0056b3;
+}
+
+.gallery-section:hover h2 a {
+  visibility: visible;
+}
+
+.gallery-section h2 a svg {
+  height: 1.2rem
+}
+
+.gallery-section p {
+  width: 70%;
+  margin: 0px auto 20px;
+}
+
+.caption-date {
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 3px;
+  margin-bottom: 0px;
+}
+
+footer {
+  margin-top: 30px;
+}
