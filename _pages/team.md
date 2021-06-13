@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
--Organizing Team
+Organizing Team
 -------
 <p>Email: <a href = "gsipe.workshop@gmail.com">gsipe.workshop@gmail.com</a></p>
 <p><a href = "https://wp.nyu.edu/cfbalcazar">Carlos Felipe Balcazar (NYU)</a></p>
@@ -14,7 +14,7 @@ author_profile: true
 
 Planning Team
 -------
-Email: <a href = "gsipe.planning@gmail.com">gsipe.planning@gmail.com</a></p>
+<p>Email: <a href = "gsipe.planning@gmail.com">gsipe.planning@gmail.com</a></p>
 <p><a href = "https://lorenzo-crippa.github.io">Lorenzo Crippa (Essex)</a></p>
 <p><a href = "https://taylorrdalton.com">Taylor Dalton (USC)</a></p>
 <p><a href = "https:sites.lsa.umich.edu/yunsieg/">Yunsieg P. Kim (UMich)</a></p>
