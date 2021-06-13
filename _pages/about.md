@@ -26,9 +26,7 @@ News
 
 \[December 2020\] One co-authored paper is accepted at **AAAI 2021**. Congratulations to my co-authors!
 
-\[June 2020\] Beginning my internship at WeBank AI Department. 
-
-\[May 2020\] One paper accepted at **KDD 2020**. 
+\[May 2020\] One co-authored paper accepted at **KDD 2020**. Congratulations to my co-authors! 
 
 \[April 2020\] One co-authored paper accepted at **IJCAI 2020**. Congratulations to my co-authors!
 
