@@ -17,14 +17,8 @@ Excerpt with multiple paragraphs
 Here's another paragraph in the excerpt.
 
 
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-   
-  {% endfor %}
-
-
 <!--more-->
-<img src="gsipe-workshop.github.io/evergiven.jpeg" alt="hi" class="inline"/>
+<img src="evergiven.jpeg" alt="hi" class="inline"/>
 
 Headings are cool
 ======
