@@ -1,7 +1,7 @@
 ---
 title: 'Cleo O'Brien-Udry'
 date: 2021-07-14
-permalink: /job-market-2021/2021/07/cleo-o'brien-udry/
+permalink: /posts/2021/07/cleo-o'brien-udry/
 tags:
   - development
   - technology
@@ -11,10 +11,14 @@ tags:
 Cleo O'Brien-Udry
 ======
 
-![image](gsipe-workshop.github.io/evergiven.jpeg)
+[image](gsipe-workshop.github.io/evergiven.jpeg)
 
-You can have many headings
-======
+---
+excerpt_separator: <!--more-->
+---
 
-Aren't headings cool?
-------
+Excerpt with multiple paragraphs
+
+Here's another paragraph in the excerpt.
+
+<!--more-->
