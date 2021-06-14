@@ -14,6 +14,9 @@ I use binary Convolutional Neural Network and other parallel techniques to deplo
 # Latest news  
 
 ## June 2021 
+
+[Our work on the University Press](http://www.bristol.ac.uk/news/2021/june/camera-maps-where-it--s.html)
+
 released semi-simulated platform for SCAMP and Coppeliasim Robot simulator [github](https://github.com/yananliusdu/scamp5d_interface)  
 
 [Best poster/video ICRA 2021 workshop](https://sites.google.com/view/onsvp-icra-2021-workshop/home#h.s7iav5hwmnnn)  
