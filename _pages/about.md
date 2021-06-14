@@ -15,8 +15,8 @@ I use binary Convolutional Neural Network and other parallel techniques to deplo
 
 ## June 2021 
 
-Our work on the University Press
-[Bristol researchers create a camera that knows exactly where it is](http://www.bristol.ac.uk/news/2021/june/camera-maps-where-it--s.html)
+Our work on the University Press   
+[Bristol researchers create a camera that knows exactly where it is](http://www.bristol.ac.uk/news/2021/june/camera-maps-where-it--s.html)   
 [Cameras that can learn](https://www.bristol.ac.uk/news/2020/october/scamp.html)
 
 released semi-simulated platform for SCAMP and Coppeliasim Robot simulator [github](https://github.com/yananliusdu/scamp5d_interface)  
