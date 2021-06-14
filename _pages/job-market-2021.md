@@ -6,6 +6,7 @@ author_profile: true
 ---
  {% for post in site.talks reversed %}
    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+   <p><small>{{ post.category }} . <a href="http://myname.github.com{{ post.url }}#disqus_thread"></a></small></p>   
  {% endfor %}
 
 Profiles of graduate students on the 2021 job market can be found here.
