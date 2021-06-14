@@ -16,6 +16,13 @@ Excerpt with multiple paragraphs
 
 Here's another paragraph in the excerpt.
 
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+
 <!--more-->
 
 [image](gsipe-workshop.github.io/evergiven.jpeg)
