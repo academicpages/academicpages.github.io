@@ -4,12 +4,13 @@ title: "Job Market 2021"
 permalink: /job-market-2021/
 author_profile: true
 ---
- {% for post in site.talks reversed %}
-   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-   <p><small>{{ post.category }} . <a href="http://myname.github.com{{ post.url }}#disqus_thread"></a></small></p>   
- {% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 Profiles of graduate students on the 2021 job market can be found here.
-
-<a href= "https://gsipe-workshop.github.io/posts/2021/07/cleo-o'brien-udry/"> Test </a> 
 
