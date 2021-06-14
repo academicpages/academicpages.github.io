@@ -1,7 +1,7 @@
 ---
 title: 'Cleo O'Brien-Udry'
 date: 2021-07-14
-permalink: /posts/2021/07/cleo-o'brien-udry/
+permalink: /posts/2021/07/cleo-obrien-udry/
 tags:
   - development
   - technology
