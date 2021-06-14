@@ -19,13 +19,12 @@ Here's another paragraph in the excerpt.
 
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+   
   {% endfor %}
 
 
 <!--more-->
-
-[image](gsipe-workshop.github.io/evergiven.jpeg)
+<img src="gsipe-workshop.github.io/evergiven.jpeg" alt="hi" class="inline"/>
 
 Headings are cool
 ======
