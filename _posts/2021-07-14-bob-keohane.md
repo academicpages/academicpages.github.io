@@ -1,3 +1,4 @@
+---
 title: 'Bob Keohane'
 date: 2021-07-14
 permalink: /posts/2021/07/bob-keohane/
@@ -7,7 +8,15 @@ tags:
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+---
+Bob Keohane: <!--more-->
+---
+
+Excerpt with multiple paragraphs
+
+Here's another paragraph in the excerpt.
+
+<!--more-->
 
 [image](gsipe-workshop.github.io/evergiven.jpeg)
 
