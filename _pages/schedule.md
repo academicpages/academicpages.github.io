@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule"
+title: "Schedule Summer 2021"
 permalink: /schedule/
 author_profile: true
 ---
