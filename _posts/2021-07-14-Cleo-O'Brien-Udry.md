@@ -1,11 +1,11 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2021/07/cleo-o'brien-udry/
+title: 'Cleo O'Brien-Udry'
+date: 2021-07-14
+permalink: /job-market-2021/2021/07/cleo-o'brien-udry/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - development
+  - technology
+  - IOs
 ---
 
 Cleo O'Brien-Udry
