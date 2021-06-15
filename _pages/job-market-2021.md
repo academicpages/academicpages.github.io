@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Job Market 2021"
+title: "Job Market Candidates 2021"
 permalink: /job-market-2021/
 author_profile: true
 ---
+
+Profiles of graduate students in international political economy on the 2021 job market can be found here. 
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -21,5 +24,5 @@ author_profile: true
     {% endfor %}
   </ul>
 {% endfor %}
-Profiles of graduate students on the 2021 job market can be found here.
+
 
