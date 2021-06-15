@@ -1,2 +1,5 @@
 # Research
-This work is about ...
+## Research Interests
+
+* Newton’s method on Riemannian Manifolds
+* Continuous Optimization
