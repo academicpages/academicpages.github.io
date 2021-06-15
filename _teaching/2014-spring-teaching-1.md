@@ -1,5 +1,5 @@
 ---
-title: "Cãlculo Numérico"
+title: "Cálculo Numérico"
 collection: teaching
 type: "Curso de Matemática"
 permalink: /teaching/2014-spring-teaching-1
