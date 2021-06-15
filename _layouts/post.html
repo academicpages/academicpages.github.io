@@ -11,15 +11,16 @@ layout: default
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
-{% include sidebar.html %}
-<div id="main" role="main">
 
+<div id="main" role="main">
+{% include sidebar.html %}
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
   </div>
+   {% include base_path %}
         {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
