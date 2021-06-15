@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.28)  31 MAY 2021 12:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.28)  14 JUN 2021 21:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV.tex
-(./CV.tex
+**CV_JPL.tex
+(./CV_JPL.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-05-27> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -114,8 +114,8 @@ x.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
 \l__pdf_internal_box=\box49
-) (./CV.aux)
-\openout1 = `CV.aux'.
+) (./CV_JPL.aux)
+\openout1 = `CV_JPL.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
@@ -202,25 +202,25 @@ Overfull \hbox (34.24142pt too wide) in paragraph at lines 441--450
 
 [9] [10] 
 AED: lastpage setting LastPage
-(./CV.aux) ) 
+(./CV_JPL.aux) ) 
 Here is how much of TeX's memory you used:
  2578 strings out of 480714
- 36615 string characters out of 5902463
- 340177 words of memory out of 5000000
+ 36659 string characters out of 5902463
+ 340189 words of memory out of 5000000
  20045 multiletter control sequences out of 15000+600000
  409807 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,80p,1579b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
-</Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmcsc10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Library/TinyTeX/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnpl/Library/Ti
-nyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusnpl/Lib
-rary/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (10 pages, 157151 bytes).
+ 72i,11n,80p,1583b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+</Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmcsc10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jesusnpl/Library/TinyTeX/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Library/TinyT
+eX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnpl/Librar
+y/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusnpl
+/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on CV_JPL.pdf (10 pages, 157168 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream

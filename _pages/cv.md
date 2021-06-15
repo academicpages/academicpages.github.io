@@ -19,9 +19,9 @@ _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 
 ![alt text](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/curriculum2.jpg?raw=true)
 
-[Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV.pdf)
+[Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV_JPL.pdf)
 
-Updated: May 2021
+Updated: June 2021
 
 [ORCID profile](https://orcid.org/0000-0001-6668-9670)
 
