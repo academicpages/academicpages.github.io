@@ -1,7 +1,7 @@
 ---
 title: "Cálculo Numérico"
 collection: teaching
-type: "Curso de Matemática"
+type: "Curso de Matemática (2020.2)"
 permalink: /teaching/cnumerico20202
 venue: "UESB, DCET"
 date: 2021-07-01
@@ -20,3 +20,6 @@ Avaliação
 
 Bibliografia
 ======
+* Atkinson
+* Ruggiero
+* ZZZ
