@@ -1,3 +1,0 @@
-# Research
-
-This work is about ...
