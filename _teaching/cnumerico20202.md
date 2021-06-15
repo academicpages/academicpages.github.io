@@ -1,14 +1,14 @@
 ---
 title: "Cálculo Numérico"
 collection: teaching
-type: "Curso de Matemática (2020.2)"
+type: "Curso de Matemática"
 permalink: /teaching/cnumerico20202
 venue: "UESB, DCET"
 date: 2021-07-01
 location: "Vitória da Conquista-Ba, Brasil"
 ---
 
-
+Semestre 2020.2
 
 Ementa
 ======
