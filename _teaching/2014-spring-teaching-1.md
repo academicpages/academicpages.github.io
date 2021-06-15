@@ -12,6 +12,11 @@ location: "Vitória da Conquista-Ba, Brasil"
 
 Ementa
 ======
+Aritmética de ponto flutuante. Zeros de funções. Solução de sistemas lineares.
+
+Avaliação
+======
+
 
 Bibliografia
 ======
