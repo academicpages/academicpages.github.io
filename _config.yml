@@ -86,7 +86,7 @@ author:
   location         : "Chapel Hill, NC"
   employer         :
   pubmed           : # https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow
-  googlescholar    : # http://yourfullgooglescholarurl.com
+  googlescholar    : "https://scholar.google.com/citations?user=uszhhL8AAAAJ&hl=en"
   email            : "rahulroy@unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
