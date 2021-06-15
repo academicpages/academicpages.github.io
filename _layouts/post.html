@@ -20,6 +20,7 @@ layout: default
     {% endunless %}
     {{ content }}
   </div>
+  {% include sidebar.html %}
    {% include base_path %}
         {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
