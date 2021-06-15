@@ -24,9 +24,6 @@ Yongjun Zhang. 2021. The Power of Shareholder Political Transparency Activism. S
 
 Yongjun Zhang. 2021.  “How Does the American State Recognize Movements? Social Movement Organizations Before Congressional Hearings, 1900-2000.” American Sociological Association 116th Annual Conference. With Charles Seguin and Tom Maher.
 
-Yongjun Zhang. 2021. "Leveraging Computational Methods in Social Science: Opportunities and Challenges." Peking University.
-
-
 ## New Paper Alert
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://journals.sagepub.com/eprint/BKSEHRTXFS5BSZAP2WMN/full)." Sociological Perspectivies.
 
