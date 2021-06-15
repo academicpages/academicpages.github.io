@@ -12,4 +12,4 @@ I am a PhD candidate in Political Science at Yale University. I specialize in in
 
 Prior to starting the PhD, I served as a Peace Corps Volunteer in Kosovo. I have a Master's in English literature and a very cute cat named Tara. 
 
-I am a Research Fellow for the Changing Nature of Aid project at the <a href = "https://bridgingthegapproject.org/ripil/" >Research on International Policy Implementation Lab</a>, an affiliate of the Bridging the Gap program. I co-founded the <a href = "https://gsipe-workshop.github.io/" >Graduate Student International Political Economy (GSIPE) workshop</a>. 
+I am a Research Fellow for the Changing Nature of Aid project at the <a href = "https://bridgingthegapproject.org/ripil/" >Research on International Policy Implementation Lab</a>, an affiliate of the Bridging the Gap program. I co-founded the <a href = "https://gsipe-workshop.github.io/" >Graduate Student International Political Economy (GSIPE) workshop</a>. Check out my <a href = "https://cobrienudry.github.io/webscrape/" >github</a> page for videos and sample code for getting started with basic webscraping.
