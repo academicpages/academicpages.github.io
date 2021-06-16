@@ -13,14 +13,19 @@ Madrid (España)
 2018 - 2021  
 
 
-## <a href="https://territorialcluster.ugr.es/">Environmental Planning Lab research group (LABPLAM) (RNM-034)</a>
+## <a href="https://territorialcluster.ugr.es/">Environmental Planning Lab (LABPLAM) (RNM-034)</a>
 Investigador Predoctoral  
 Departmento de Urbanística y Ordenación del Territorio  
 Universidad de Granada  
 Granada (España)  
-2008 - 2014  
+2010 - 2017  
 
-
+## <a href="https://territorialcluster.ugr.es/">Urbanism and Spatial Planning Lab (RNM-357)</a>
+Investigador Predoctoral  
+Departmento de Expresión Gráfica Arquitectónica y en la Ingeniería  
+Universidad de Granada  
+Granada (España)  
+2009 - 2010  
 
 # Asociaciones
 
