@@ -13,12 +13,12 @@ I use binary Convolutional Neural Network and other parallel techniques to deplo
 
 # Latest news  
 
-*Our work on the University Press   
+* Our work on the University Press   
 [Bristol researchers create a camera that knows exactly where it is](http://www.bristol.ac.uk/news/2021/june/camera-maps-where-it--s.html)   
 [Cameras that can learn](https://www.bristol.ac.uk/news/2020/october/scamp.html)
 
-*released semi-simulated platform for SCAMP and Coppeliasim Robot simulator [github](https://github.com/yananliusdu/scamp5d_interface)  
+* released semi-simulated platform for SCAMP and Coppeliasim Robot simulator [github](https://github.com/yananliusdu/scamp5d_interface)  
 
-*[Best poster/video ICRA 2021 workshop](https://sites.google.com/view/onsvp-icra-2021-workshop/home#h.s7iav5hwmnnn)  
+* [Best poster/video ICRA 2021 workshop](https://sites.google.com/view/onsvp-icra-2021-workshop/home#h.s7iav5hwmnnn)  
 
-*ICRA 2021 paper: [mapping and localisation on the PPA](https://www.researchgate.net/profile/Yanan-Liu-30/publication/350187131_Weighted_Node_Mapping_and_Localisation_on_a_Pixel_Processor_Array/links/6054d443299bf17367550a00/Weighted-Node-Mapping-and-Localisation-on-a-Pixel-Processor-Array.pdf)
+* ICRA 2021 paper: [mapping and localisation on the PPA](https://www.researchgate.net/profile/Yanan-Liu-30/publication/350187131_Weighted_Node_Mapping_and_Localisation_on_a_Pixel_Processor_Array/links/6054d443299bf17367550a00/Weighted-Node-Mapping-and-Localisation-on-a-Pixel-Processor-Array.pdf)
