@@ -12,7 +12,7 @@ Semestre 2020.2
 
 Ementa
 ======
-Aritmética de ponto flutuante. Zeros de funções. Solução de sistemas lineares.
+Noções básicas sobre erros. Resolução de sistemas lineares. Zeros de funções. Interpolação. Integração numérica. Métodos numéricos para resolução de equações diferenciais. 
 
 Avaliação
 ======
