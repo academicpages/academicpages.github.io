@@ -20,7 +20,7 @@ Universidad de Granada
 Granada (España)  
 2010 - 2017  
 
-## <a href="https://territorialcluster.ugr.es/">Urbanism and Spatial Planning Lab (RNM-357)</a>
+## <a href="https://rnm357.ugr.es/">Urbanism and Spatial Planning Lab (RNM-357)</a>
 Investigador Predoctoral  
 Departmento de Expresión Gráfica Arquitectónica y en la Ingeniería  
 Universidad de Granada  
