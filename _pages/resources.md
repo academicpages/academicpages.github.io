@@ -151,6 +151,7 @@ Professional Development
 * [Requesting Letters of Recommendation](https://inclusion.bio.uci.edu/resources/undergraduate-students/requesting-letters-of-recommendation/) suggestions for requesting letters of recommendation
 * [The Professor Is In](https://theprofessorisin.com/) a blog about navigating different stages of academic career
 * [Letters to Young Scientists](https://www.sciencemag.org/tags/letters-young-scientists) Science Careers' column with insightful suggestions to professional development
+* [MindTools](https://www.mindtools.com/) Toolkits for developing skills including time management, leadership, communications, etc.
 * [The Batch](https://www.deeplearning.ai/) gives you a weekly fresh taste of the latest research and applications in the field of AI by Andrew Ng
 * [xcorr: comp neuro](https://xcorr.net/archives/?blogsub=confirming#blog_subscription-9) a blog about computational neuroscience, data science, getting into industry by Patrick Mineault
 * [Tanya Jonker](https://tanyajonker.com/) a blog about academic and industry job markets by cognitive neuroscientist Tanya Jonker
