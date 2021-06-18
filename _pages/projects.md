@@ -50,5 +50,6 @@ author_profile: true
   <img src="/images/projects/baowu-logo.jpg" style="padding: 20px">
   <img src="/images/projects/huawei-logo.png" style="padding: 20px">
   <img src="/images/projects/cerc-logo.jpg">
+  <img src="/images/projects/zhijiang.png">
 </div>
 
