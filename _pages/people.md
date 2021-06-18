@@ -411,34 +411,6 @@ redirect_from:
 <div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wangjunjie"></div>
-      <div class="member_name" >WANG Junjie 王俊杰</div>
-      <div class="member_intro" >零样本学习、小样本学习、图神经网络</div>
-    </div>
-  </div>
-  <div class="member_item">
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="huyiqiu"></div>
-      <div class="member_name" ><a href="https://www.zhihu.com/people/46b1617a700a162f890500da919f31eb">HU Yiqiu 胡亦秋</a></div>
-      <div class="member_intro">强化学习（解组合优化问题）</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wuqian"></div>
-      <div class="member_name"><a href="https://www.jianshu.com/u/4296af232d02">WU Qian 吴倩</a></div>
-      <div class="member_intro" >遥感图像目标识别</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="xuqisen"></div>
-      <div class="member_name" >XU Qisen 徐琪森</div>
-      <div class="member_intro">多智能体强化学习、医疗图像分割、人机协同</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
       <div class="member_pic" id="chengweiwen"></div>
       <div class="member_name"><a href="https://cww97.cn/">CHEN Weiwen 陈伟文</a></div>
       <div class="member_intro" >ICPC Silver; Interest: Multi-Modal, CV, Robotic</div>
@@ -613,7 +585,31 @@ redirect_from:
 
 # Alumni
 <div class="students">
-    <div class="member_item" >
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >WANG Junjie 王俊杰</div>
+      <div class="member_intro" >2021，蚂蚁集团</div>
+    </div>
+  </div>
+  <div class="member_item">
+    <div class="member_pic_wrapper" >
+      <div class="member_name" ><a href="https://www.zhihu.com/people/46b1617a700a162f890500da919f31eb">HU Yiqiu 胡亦秋</a></div>
+      <div class="member_intro">2021，华为云</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name"><a href="https://www.jianshu.com/u/4296af232d02">WU Qian 吴倩</a></div>
+      <div class="member_intro" >2021，上海市公安局</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >XU Qisen 徐琪森</div>
+      <div class="member_intro">2021，蚂蚁集团</div>
+    </div>
+  </div>
+  <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >XIANG Wangtao 向王涛</div>
       <div class="member_intro" >2021，字节跳动</div>
