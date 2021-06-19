@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a machine learning research scientist and engineer based in New York City. I currently work on applications of machine learning to problems in natural language processing and finance. In the past, I have done research on compressed sensing and brain-computer interfaces.
+I'm a machine learning research scientist and engineer based in New York City. I currently work on applications of machine learning to problems in natural language processing. In the past, I have done research on compressed sensing and brain-computer interfaces.
