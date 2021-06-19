@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Venkatesh Elango"
   avatar           : "profile.png"
-  bio              : "Machine learning engineer"
+  bio              : "Machine Learning Engineer"
   location         : "New York, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  semanticscholar  : "https://www.semanticscholar.org/author/V.-Elango/3443425"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
