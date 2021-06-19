@@ -1,0 +1,79 @@
+# http://www.rubydoc.info/gems/rubocop/0.36.0/RuboCop/Cop/Style/
+
+AbcSize:
+  Enabled: false
+AlignParameters:
+  EnforcedStyle: with_fixed_indentation
+ClassLength:
+  # It's not worth bending over backwards to avoid long classes.
+  Enabled: false
+CollectionMethods:
+  PreferredMethods:
+    collect: 'map'
+    reduce: 'inject'
+    detect: 'find'
+    find_all: 'select'
+CommandLiteral:
+  EnforcedStyle: percent_x
+CommentAnnotation:
+  Enabled: false
+ConditionalAssignment:
+  Enabled: false
+CyclomaticComplexity:
+  Enabled: false
+Documentation:
+  # TODO: We need to add a bunch of docs before we can enable this.
+  Enabled: false
+EmptyLinesAroundAccessModifier:
+  Enabled: false
+GuardClause:
+  Enabled: false
+HashSyntax:
+  EnforcedStyle: hash_rockets
+IfUnlessModifier:
+  Enabled: false
+LineLength:
+  Enabled: true
+  Max: 100
+MethodLength:
+  Enabled: false
+ModuleFunction:
+  # The module_function declaration makes methods private so it means you can't use the module as a module.
+  Enabled: false
+ModuleLength:
+  Enabled: false
+NegatedWhile:
+  Enabled: false
+NumericLiterals:
+  Enabled: false
+ParenthesesAroundCondition:
+  AllowSafeAssignment: false
+PerceivedComplexity:
+  Enabled: false
+PerlBackrefs:
+  Enabled: false
+RaiseArgs:
+  EnforcedStyle: compact
+RedundantReturn:
+  AllowMultipleReturnValues: true
+RegexpLiteral:
+  Enabled: false
+SignalException:
+  EnforcedStyle: only_raise
+SpaceAroundEqualsInParameterDefault:
+  EnforcedStyle: no_space
+SpaceInsideHashLiteralBraces:
+  EnforcedStyle: space
+StringLiterals:
+  # They say to not use double quoted strings unless there is interpolation.
+  # While this gives a marginal parse time speedup, it makes working with
+  # strings annoying.
+  Enabled: false
+TrailingCommaInArguments:
+  Enabled: false
+TrailingCommaInLiteral:
+  EnforcedStyleForMultiline: comma
+TrivialAccessors:
+  Enabled: false
+WhileUntilModifier:
+  Enabled: false

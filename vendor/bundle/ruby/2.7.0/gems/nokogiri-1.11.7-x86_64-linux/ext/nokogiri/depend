@@ -1,0 +1,37 @@
+# -*-makefile-*-
+# DO NOT DELETE
+
+html_document.o: ./nokogiri.h
+html_element_description.o: ./nokogiri.h
+html_entity_lookup.o: ./nokogiri.h
+html_sax_parser_context.o: ./nokogiri.h
+html_sax_push_parser.o: ./nokogiri.h
+libxml2_backwards_compat.o: ./nokogiri.h
+nokogiri.o: ./nokogiri.h
+test_global_handlers.o: ./nokogiri.h
+xml_attr.o: ./nokogiri.h
+xml_attribute_decl.o: ./nokogiri.h
+xml_cdata.o: ./nokogiri.h
+xml_comment.o: ./nokogiri.h
+xml_document.o: ./nokogiri.h
+xml_document_fragment.o: ./nokogiri.h
+xml_dtd.o: ./nokogiri.h
+xml_element_content.o: ./nokogiri.h
+xml_element_decl.o: ./nokogiri.h
+xml_encoding_handler.o: ./nokogiri.h
+xml_entity_decl.o: ./nokogiri.h
+xml_entity_reference.o: ./nokogiri.h
+xml_namespace.o: ./nokogiri.h
+xml_node.o: ./nokogiri.h
+xml_node_set.o: ./nokogiri.h
+xml_processing_instruction.o: ./nokogiri.h
+xml_reader.o: ./nokogiri.h
+xml_relax_ng.o: ./nokogiri.h
+xml_sax_parser.o: ./nokogiri.h
+xml_sax_parser_context.o: ./nokogiri.h
+xml_sax_push_parser.o: ./nokogiri.h
+xml_schema.o: ./nokogiri.h
+xml_syntax_error.o: ./nokogiri.h
+xml_text.o: ./nokogiri.h
+xml_xpath_context.o: ./nokogiri.h
+xslt_stylesheet.o: ./nokogiri.h

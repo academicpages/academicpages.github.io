@@ -1,0 +1,19 @@
+inherit_from: .rubocop_todo.yml
+
+require: rubocop-jekyll
+inherit_gem:
+  rubocop-jekyll: .rubocop.yml
+
+AllCops:
+  TargetRubyVersion: 2.4
+  Exclude:
+    - vendor/**/*
+
+Layout/LineLength:
+  Exclude:
+    - spec/**/*
+    - jekyll-seo-tag.gemspec
+
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*

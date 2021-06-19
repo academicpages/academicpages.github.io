@@ -1,0 +1,31 @@
+// Blue theme
+
+// Color variables
+$blue: #009DDB;
+$blue-small: #007AB3;
+$gray: #45474A;
+$white: #fff;
+
+// Config
+$color-background: $gray !default;
+$color-dot-accent: $blue !default;
+$color-foreground: $white !default;
+$color-title: $blue !default;
+$color-body-text: $gray !default;
+$color-text-accent: $blue !default;
+$color-code: $blue-small !default;
+$color-nav-link: $blue !default;
+$color-primary-link: $blue !default;
+
+.font-smoothing {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;

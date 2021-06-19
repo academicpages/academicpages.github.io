@@ -1,0 +1,18 @@
+on: push
+name: cibuild on push
+jobs:
+  build:
+    name: "GitHub Pages Health Check Tests"
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        ruby:
+          - 2.5
+          - 2.6
+          - 2.7
+    steps:
+    - uses: actions/checkout@master
+    - name: script/cibuild-docker
+      run: script/cibuild-docker
+      env:
+        RUBY_VERSION: ${{ matrix.ruby }}

@@ -1,0 +1,16 @@
+current directory: /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210619-1831646-8ix8hr.rb extconf.rb
+creating Makefile
+
+current directory: /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210619-1831646-cmas6d
