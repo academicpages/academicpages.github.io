@@ -18,7 +18,7 @@ author_profile: true
 # Publications
 
 ### *The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing*
-<ins>Valentina Pyatkin<sup>*</sup></ins>, Shoval Sadde<sup>*</sup>, Aynat Rubinstein, Paul Portner, Reut Tsarfaty.  
+<ins>Valentina Pyatkin<sup>\*, Shoval Sadde\*, Aynat Rubinstein, Paul Portner, Reut Tsarfaty.  
 In ACL 2021.  
 
 ### *QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines*
