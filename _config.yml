@@ -86,7 +86,7 @@ author:
   location         : "New York, NY"
   employer         :
   pubmed           : 
-  googlescholar    : "https://www.semanticscholar.org/author/V.-Elango/3443425"
+  semanticscholar  : "https://www.semanticscholar.org/author/V.-Elango/3443425"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : # "wellango"
   vine             :
   weibo            :
   xing             :
