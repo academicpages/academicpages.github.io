@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" demote-non-dropping-particle="sort-only" class="in-text" page-range-format="expanded" default-locale="de-DE">
+  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Thieme-German (German)</title>
+    <id>http://www.zotero.org/styles/thieme-german</id>
+    <link href="http://www.zotero.org/styles/thieme-german" rel="self"/>
+    <link href="http://www.thieme.de/de/autorenlounge/fuer-zeitschriftenautoren-1789.htm" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Michael Berkowitz</name>
+      <email>mberkowi@gmu.edu</email>
+    </contributor>
+    <contributor>
+      <name>Sean Takats</name>
+      <email>stakats@gmu.edu</email>
+    </contributor>
+    <contributor>
+      <name>Christoph Mann</name>
+      <email>rounzli@googlemail.com</email>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <summary>Modified version of the "Vancouver Bracket" for Thieme Journals</summary>
+    <updated>2020-11-07T03:33:27+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="et-al">et al.</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names suffix=". " variable="author">
+      <name sort-separator=" " name-as-sort-order="all" initialize-with="" et-al-use-first="3" et-al-min="4" delimiter-precedes-last="always"/>
+      <label prefix=" (" form="short" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names suffix=". " variable="editor">
+      <name sort-separator=" " name-as-sort-order="all" initialize-with="" delimiter-precedes-last="always" delimiter=", "/>
+      <label prefix=", " form="short"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter="; ">
+      <group delimiter=": ">
+        <text variable="publisher-place"/>
+        <text variable="publisher"/>
+      </group>
+      <group>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </group>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix="doi:"/>
+      </if>
+      <else>
+        <group delimiter="; ">
+          <group>
+            <text value="Im Internet: "/>
+            <text variable="URL"/>
+          </group>
+          <date variable="accessed" form="numeric" prefix="Stand: "/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="journal-title">
+    <text form="short" variable="container-title" strip-periods="true"/>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number form="ordinal" variable="edition"/>
+          <text form="short" term="edition"/>
+        </group>
+      </if>
+      <else>
+        <text suffix="." variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush">
+    <layout vertical-align="baseline" font-variant="normal">
+      <text prefix="[" suffix="]" variable="citation-number" strip-periods="false" vertical-align="baseline" quotes="false" text-case="title"/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group prefix=" " delimiter=" ">
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" " suffix=".">
+            <text suffix=": " term="in" text-case="capitalize-first"/>
+            <text macro="editor"/>
+            <text variable="container-title"/>
+          </group>
+          <text prefix=" " macro="publisher"/>
+          <text prefix=": " variable="page"/>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <text macro="journal-title"/>
+            <group delimiter="; ">
+              <date variable="issued" form="numeric" date-parts="year"/>
+              <text variable="volume"/>
+            </group>
+          </group>
+          <text prefix=": " variable="page"/>
+        </else>
+      </choose>
+      <text macro="access" prefix=". "/>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"fields:ETI"CiteProc::Variable::fields;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] fields ;TI"E@return [{Symbol => Array<Symbol>}] mapping of variable types to;To:RDoc::Markup::Verbatim;	[I"!their respective field names;T:@format0:
+@fileI"lib/citeproc/variable.rb;T:0@omit_headings_from_table_of_contents_below0T@I"CiteProc::Variable;TcRDoc::NormalClass0

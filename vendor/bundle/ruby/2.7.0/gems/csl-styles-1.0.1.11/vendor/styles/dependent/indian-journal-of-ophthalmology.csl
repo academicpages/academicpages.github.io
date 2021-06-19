@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Indian Journal of Ophthalmology</title>
+    <id>http://www.zotero.org/styles/indian-journal-of-ophthalmology</id>
+    <link href="http://www.zotero.org/styles/indian-journal-of-ophthalmology" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript-brackets-only-year" rel="independent-parent"/>
+    <link href="http://www.ijo.in/contributors.asp" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0301-4738</issn>
+    <eissn>1998-3689</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

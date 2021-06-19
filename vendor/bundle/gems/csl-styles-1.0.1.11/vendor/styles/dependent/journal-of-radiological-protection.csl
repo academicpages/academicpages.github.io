@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/iop -->
+  <info>
+    <title>Journal of Radiological Protection</title>
+    <id>http://www.zotero.org/styles/journal-of-radiological-protection</id>
+    <link href="http://www.zotero.org/styles/journal-of-radiological-protection" rel="self"/>
+    <link href="http://www.zotero.org/styles/institute-of-physics-numeric" rel="independent-parent"/>
+    <link href="http://iopscience.iop.org/0952-4746" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <issn>0952-4746</issn>
+    <eissn>1361-6498</eissn>
+    <updated>2014-05-15T22:55:09+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

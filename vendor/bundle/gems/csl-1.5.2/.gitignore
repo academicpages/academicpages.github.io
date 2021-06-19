@@ -1,0 +1,13 @@
+.DS_Store
+Gemfile.lock
+/coverage
+/pkg
+/doc
+/.yardoc
+/.rbx
+*.rbc
+*.swp
+*.gem
+.ruby-version
+.rvm
+.bundle

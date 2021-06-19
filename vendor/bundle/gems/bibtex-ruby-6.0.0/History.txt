@@ -1,0 +1,315 @@
+5.1.0 / 2020-01-17
+==================
+* Use File.read instead of Kernel.open in BibTeX.open
+* Fix Ruby 2.7 deprecation warnings
+
+5.0.0 / 2019-06-12
+==================
+* Dropped support for Ruby < 2.3
+
+4.2.0 / 2015-02-02
+==================
+* Fixed queries being whitespace sensitive
+
+4.0.9 / 2015-01-20
+==================
+* Improve BibTeX::Value comparison
+
+4.0.8 / 2015-01-12
+==================
+* Ruby 2.2 support
+* Added Entry#month_numeric
+* Added support for numeric values
+
+4.0.4 / 2014-10-10
+==================
+* added !~ matcher for queries (@temporaer)
+
+4.0.0 / 2014-07-08
+==================
+
+* BREAKING: Support type/key fields. Rename type -> bibtex_type
+  and key -> bibtex_key in key-value exports.
+* Add support for BibLaTeX date syntax
+
+3.1.6 / 2014-06-17
+==================
+
+* Allow semicolons in keys
+* Bugfixes
+
+3.1.5 / 2014-03-25
+==================
+
+* Improve Name#extend_initials
+* Add Name#normalize_initials
+
+3.1.4 / 2014-03-15
+==================
+
+* Add more name fields
+* Improve CiteProc export
+
+3.1.3 / 2014-02-10
+==================
+
+* Fix Ruby warnings
+
+3.1.2 / 2014-01-29
+==================
+
+* Improve CiteProc export (thanks @andriusvelykis)
+
+3.1.1 / 2014-01-20
+==================
+
+* RDF Export improvements (@tmaier)
+
+3.1.0 / 2014-01-20
+==================
+
+* Fixed and refactored RDF Export (@tmaier)
+
+3.0.1 / 2013-12-30
+==================
+
+* Fixed sorting (@casutton)
+
+3.0.0 / 2013-11-11
+==================
+
+* Added transliteration support to default key generator (@cruessler)
+* Improve parsing of non-ascii keys (@cruessler)
+
+2.3.4 / 2013-08-22
+==================
+
+* Fixed file-permissions in gem (thanks to @jwvdm)
+
+2.3.3 / 2013-07-29
+==================
+
+* Fixed #duplicates? method (thanks to @mfenner)
+* Fixed issue with JSON export (thanks to @noahdesu)
+
+2.3.1 / 2013-07-04
+==================
+
+* Support multiple filters in #convert methods
+
+2.3.0 / 2013-06-04
+==================
+
+* Add attribute-only queries (thanks to @ashinkarov)
+* Add negated queries (thanks to @ashinkarov)
+
+2.2.2 / 2013-15-01
+==================
+
+* Improves CiteProc export #61 #62 (@plessl)
+
+2.2.1 / 2013-13-01
+==================
+
+* Fixes BibTeX/CiteProc type issue (thanks to @plessl)
+
+2.2.0 / 2012-12-02
+==================
+
+* Adds duplicate detection
+* Adds Entry merge support
+
+2.1.1 / 2012-11-02
+==================
+
+* Fixed lexer issue with whitespace before cite keys (@lmullen)
+
+2.1.1 / 2012-09-14
+==================
+
+* Improved @comment and @preamble parsing (@JLimperg)
+
+2.1.0 / 2012-08-31
+==================
+
+* Improved query support
+* Use Travis-CI
+* Updated dependencies
+* Bug fixes and 1.8 compatibility (@RubenVerborgh)
+
+2.0.11 / 2012-05-23
+===================
+
+* Added :allow_missing_keys option (thanks to @jrochkind)
+
+2.0.9 / 2012-05-15
+==================
+
+* Added extend_initials! method to extend all names in the bibliography
+* Added unify method as a shorthand to unify fields across the bibliography
+
+2.0.8 / 2012-05-11
+==================
+
+* Added extend_initials feature for names
+* Added experimental RDF export (using BIBO ontology)
+
+2.0.7 / 2012-04-30
+==================
+
+* Added support for <=, >= numeric queries
+
+2.0.6 / 2012-04-30
+==================
+
+* Added support for !=, /=, ~=, and ^= queries
+
+2.0.5 / 2012-04-19
+==================
+
+* Fixed Entry#dup (@JLimperg)
+* Implemented explicit caching of regular expressions (for MacRuby)
+* Switched to new MultiJson API
+
+2.0.4 / 2011-12-20
+==================
+
+* Added lexer option :strip to strip newlines from literals (thanks to @JLimperg)
+* Added :linebreaks filter
+
+
+2.0.3 / 2011-12-13
+==================
+
+* Added new entry wildcard "@*" to queries (kudos to @vanto)
+
+2.0.2 / 2011-11-25
+==================
+
+* Fixed (#33): error in Entry#respond_to? (kudos to @houshuang)
+
+2.0.1 / 2011-10-20
+==================
+
+* Fixed name parser incompatibility with Rails (kudos to @amattsmith)
+* Improved latex-decoder (kudos to @etc)
+
+2.0.0 / 2011-09-25
+==================
+
+* Added support to directly add Arrays, Hashes, or Strings to Bibliographies
+* Added cross reference support (@etc)
+* Moved back to using strings as Entry keys (instead of symbols)
+* Added improved default key generation
+* Improved name parsing
+* Switched to multi_json gem for JSON and citeproc export
+* Switched to BibTeXML as XML export
+* Added duplicate detection
+* Bugfixes
+
+1.3.12 / 2011-09-06 
+===================================
+
+* Improved default keys for BibTeX entries
+
+1.3.11 'happy #rbxday' / 2011-08-05 
+===================================
+
+* Rubinius compatibility
+* Cleaned up dependency loading
+
+1.3.10 / 2011-07-16 
+==================
+
+* Fixes gemspec options
+* Added support for cite keys containing spaces (@sharnik) 
+
+=== 1.3.9 / 2011-07-05
+
+* Added a LaTeX input filter
+
+=== 1.3.8 / 2011-07-05
+
+* Added a converter-plugin framework
+
+=== 1.3.7 / 2011-06-30
+
+* Added option to toggle dropping/non-dropping behaviour of 'von' parts
+  when exporting to CiteProc/CSL
+* Fixed name parser not accepting 'von' parts starting with upper case words
+  in sort order (#11)
+* Added support for multi-line string literals (#15)
+
+=== 1.3.6 / 2011-06-11
+
+* Refactored lexer and parser for speed
+* Added support for @strings with braced values (#10)
+
+=== 1.3.5 / 2011-06-07
+
+* Removed debugger initialisation
+
+=== 1.3.4 / 2011-06-07
+
+* Performance boost for parsing of large bibliographies
+
+=== 1.3.3 / 2011-06-06
+
+* Fixed name parsing of nested braced expressions
+
+=== 1.3.2
+
+* Fixed numeric keys issue
+* Fixed CiteProc/CSL date export
+* Implemented BibTeX month value conversion
+
+=== 1.3.1
+
+* Added CiteProc/CSL export format
+
+=== 1.3.0 / 2011-05-12
+
+* Improved top-level utility functions
+* Implemented a BibTeX name parser and name value objects
+* Re-factored and cleaned up API and export
+* Added cucumber features
+* Re-implemented string handling using dedicated Value objects
+* Implemented query language to search in bibliographies
+* Improved testing environment
+* Added cucumber features
+
+=== 1.2.1 / 2011-02-26
+
+* Fixed several MacRuby compliancy issues.
+* Fixed compatibility issues and BibTeX parsing of name tokens (lyro)
+
+=== 1.2.0 / 2011-02-12
+
+* Switched to using bundler.
+* Improved BibTeX::Entry constructor (supports hashes for intuitive assignments).
+* Added top-level methods BibTeX.parse, BibTeX.open, BibTeX.valid? and
+  BibTeX::Entry.parse.
+* Rewrote StringReplacement extensions to use monkey patching of Arrays.
+* See README.md or unit tests for updated code examples.
+
+=== 1.1.2 / 2011-01-27
+
+* Added dynamic ghost methods to BibTeX::Entry for more convenient access
+  to BibTeX values.
+
+=== 1.1.1 / 2011-01-25
+
+* Improved JSON and XML export.
+* Added more examples to README.
+
+=== 1.1.0 / 2011-01-24
+
+* Improved YAML export.
+
+=== 1.0.1 / 2011-01-17
+
+* Removed StringScanner extension.
+
+=== 1.0.0 / 2011-01-17
+
+* Initial Release. See README.md for further details.

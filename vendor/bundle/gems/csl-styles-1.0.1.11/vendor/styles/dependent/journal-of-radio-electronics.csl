@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Begell House, generated from "begell-house" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Journal of Radio Electronics</title>
+    <title-short>JRE</title-short>
+    <id>http://www.zotero.org/styles/journal-of-radio-electronics</id>
+    <link href="http://www.zotero.org/styles/journal-of-radio-electronics" rel="self"/>
+    <link href="http://www.zotero.org/styles/begell-house-chicago-author-date" rel="independent-parent"/>
+    <link href="http://dl.begellhouse.com/forauthors/journals/49791ac230bedeec.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="engineering"/>
+    <eissn>2165-8439</eissn>
+    <updated>2020-02-22T05:59:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

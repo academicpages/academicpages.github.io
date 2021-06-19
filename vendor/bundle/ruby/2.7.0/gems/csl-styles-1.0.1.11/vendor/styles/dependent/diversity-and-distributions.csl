@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Diversity and Distributions</title>
+    <id>http://www.zotero.org/styles/diversity-and-distributions</id>
+    <link href="http://www.zotero.org/styles/diversity-and-distributions" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291472-4642/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="geography"/>
+    <issn>1366-9516</issn>
+    <eissn>1472-4642</eissn>
+    <summary>A style for the Wiley journal "Diversity and Distributions"</summary>
+    <updated>2018-12-29T19:08:08+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

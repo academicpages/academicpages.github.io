@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://steveridout.com/csl/visualEditor/) -->
+  <info>
+    <title>Avian Diseases</title>
+    <id>http://www.zotero.org/styles/avian-diseases</id>
+    <link href="http://www.zotero.org/styles/avian-diseases" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-journal-of-immunology" rel="template"/>
+    <link href="http://www.aaap.info/guidelines-for-authors" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>0005-2086</issn>
+    <eissn>1938-4351</eissn>
+    <updated>2013-08-29T04:18:55+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=", " initialize-with=". " and="text" name-as-sort-order="first" delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with=". " and="text" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", " strip-periods="true"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," prefix="(" suffix=")">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". " prefix="    ">
+        <text variable="citation-number" form="long"/>
+        <text macro="author"/>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <group suffix=".">
+              <text variable="title" form="long" font-style="normal"/>
+              <text macro="edition" prefix=" "/>
+              <text macro="editor" prefix=" (" suffix=")"/>
+            </group>
+            <text prefix=" " macro="publisher"/>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <group delimiter=". ">
+              <text variable="title" form="long"/>
+              <group delimiter=": ">
+                <text term="in" form="long" plural="false" text-case="capitalize-first"/>
+                <group delimiter=", ">
+                  <text variable="container-title" form="long" font-style="normal"/>
+                  <text macro="edition"/>
+                </group>
+              </group>
+              <group delimiter=". ">
+                <text variable="volume" form="long" prefix="vol. "/>
+                <text macro="editor"/>
+                <text macro="publisher"/>
+                <group delimiter=" ">
+                  <label variable="page" form="short"/>
+                  <text variable="page"/>
+                </group>
+              </group>
+            </group>
+          </else-if>
+          <else>
+            <text variable="title" form="long"/>
+            <group delimiter=": ">
+              <group delimiter=" ">
+                <text variable="container-title" form="short" font-style="normal"/>
+                <text variable="volume"/>
+              </group>
+              <text variable="page"/>
+            </group>
+          </else>
+        </choose>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </group>
+    </layout>
+  </bibliography>
+</style>

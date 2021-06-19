@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" et-al-min="4" et-al-use-first="3" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Vietnam Ministry of Education and Training (English)</title>
+    <title-short>BGDDT_TA</title-short>
+    <id>http://www.zotero.org/styles/vietnam-ministry-of-education-and-training-en</id>
+    <link href="http://www.zotero.org/styles/vietnam-ministry-of-education-and-training-en" rel="self"/>
+    <link href="http://www.zotero.org/styles/acm-sigchi-proceedings" rel="template"/>
+    <link href="http://www.vdic.org.vn/en/library/guides.html" rel="documentation"/>
+    <author>
+      <name>Pham Thanh Tung</name>
+      <email>tung.pham@fsh.org.vn</email>
+      <uri>http://fsh.org.vn</uri>
+    </author>
+    <contributor>
+      <name>Bùi Phương Linh</name>
+      <email>linh.bui@fsh.org.vn</email>
+      <uri>http://fsh.org.vn</uri>
+    </contributor>
+    <category citation-format="numeric"/>
+    <summary>Style Bộ giáo dục đào tạo Việt Nam (Tiếng Anh)</summary>
+    <updated>2017-07-03T03:48:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <group suffix=" ">
+      <names variable="author">
+        <name and="text" delimiter-precedes-et-al="always" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+        <label form="short" prefix=", " suffix="." strip-periods="true"/>
+        <substitute>
+          <names variable="editor"/>
+        </substitute>
+      </names>
+    </group>
+    <choose>
+      <if type="book thesis legislation report legal_case" match="any">
+        <text macro="year" prefix="(" suffix="), "/>
+      </if>
+      <else>
+        <text macro="year" prefix="(" suffix="). "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book thesis legislation report" match="any">
+        <text variable="title" quotes="false" font-style="italic" suffix=", "/>
+      </if>
+      <else>
+        <text variable="title" quotes="false" suffix=". "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year">
+    <date date-parts="year" form="numeric" variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="conference">
+    <group delimiter=", ">
+      <text variable="container-title" font-style="italic"/>
+      <text variable="publisher-place"/>
+      <date form="numeric" variable="event-date"/>
+      <text variable="publisher"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="book-publisher">
+    <group delimiter=", ">
+      <text variable="genre"/>
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <citation near-note-distance="2">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout font-variant="normal" delimiter="], [" prefix=" [" suffix="]">
+      <group delimiter=", ">
+        <text variable="citation-number" form="short" strip-periods="false" quotes="false" font-variant="normal"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography and="text" delimiter-precedes-et-al="always" initialize-with="." sort-separator="." second-field-align="flush" entry-spacing="0">
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <text macro="author" strip-periods="false" suffix=" "/>
+      <text macro="title"/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+          <text macro="book-publisher" suffix="."/>
+        </if>
+        <else-if type="paper-conference">
+          <group suffix="." delimiter=", ">
+            <text macro="conference"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="chapter" match="any">
+          <text variable="container-title" font-style="italic" suffix=". "/>
+          <group suffix="." delimiter=", ">
+            <text variable="edition"/>
+            <text macro="book-publisher"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="article-journal">
+          <group delimiter=", " suffix=".">
+            <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
+            <group>
+              <text variable="volume" font-weight="bold"/>
+              <text variable="issue" font-weight="bold" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page" form="short" strip-periods="false" font-weight="normal"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text variable="container-title"/>
+            <text variable="volume"/>
+            <text variable="page"/>
+            <text variable="URL" prefix="&lt;" suffix="&gt;"/>
+            <date form="numeric" variable="accessed" prefix="accessed: "/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+  <locale xml:lang="en-US"/>
+</style>

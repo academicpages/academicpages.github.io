@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/taylor-and-francis -->
+  <info>
+    <title>Journal of Nuclear Science and Technology</title>
+    <id>http://www.zotero.org/styles/journal-of-nuclear-science-and-technology</id>
+    <link href="http://www.zotero.org/styles/journal-of-nuclear-science-and-technology" rel="self"/>
+    <link href="http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/toc/tnst20/current#.U3qvFi_Wr7A" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <issn>0022-3131</issn>
+    <eissn>1881-1248</eissn>
+    <updated>2014-05-20T02:03:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

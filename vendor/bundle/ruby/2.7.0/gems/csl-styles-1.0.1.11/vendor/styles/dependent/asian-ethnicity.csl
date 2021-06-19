@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/taylor-and-francis -->
+  <info>
+    <title>Asian Ethnicity</title>
+    <id>http://www.zotero.org/styles/asian-ethnicity</id>
+    <link href="http://www.zotero.org/styles/asian-ethnicity" rel="self"/>
+    <link href="http://www.zotero.org/styles/chicago-note-bibliography" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/toc/caet20/current#.U3qzcS_Wr7A" rel="documentation"/>
+    <category citation-format="note"/>
+    <issn>1463-1369</issn>
+    <eissn>1469-2953</eissn>
+    <updated>2014-05-20T02:03:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

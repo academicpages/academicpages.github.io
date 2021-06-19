@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>American Journal of Epidemiology</title>
+    <id>http://www.zotero.org/styles/american-journal-of-epidemiology</id>
+    <link href="http://www.zotero.org/styles/american-journal-of-epidemiology" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="template"/>
+    <link href="http://www.oxfordjournals.org/our_journals/aje/for_authors/general.html" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0002-9262</issn>
+    <eissn>1476-6256</eissn>
+    <summary>Style for the Oxford Press Journal AJE based on Vancouver.</summary>
+    <updated>2013-08-29T03:14:21+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place" suffix=": "/>
+    <text variable="publisher" suffix="; "/>
+    <group>
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+      <text macro="accessed-date" prefix=" "/>
+    </group>
+  </macro>
+  <macro name="access">
+    <group prefix="(" suffix=")">
+      <text variable="URL"/>
+    </group>
+  </macro>
+  <macro name="accessed-date">
+    <choose>
+      <if variable="URL">
+        <group prefix="(" suffix=")" delimiter=" ">
+          <text term="accessed" text-case="capitalize-first"/>
+          <date variable="accessed" prefix=" ">
+            <date-part name="month"/>
+            <date-part name="day" prefix=" "/>
+            <date-part name="year" prefix=", "/>
+          </date>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <group suffix=". ">
+          <text variable="container-title" form="short" font-style="italic"/>
+          <choose>
+            <if variable="URL">
+              <text value="electronic article" prefix=" [" suffix="]"/>
+            </if>
+          </choose>
+        </group>
+      </if>
+      <else>
+        <text variable="container-title" suffix=". " form="short" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <text variable="title"/>
+      <choose>
+        <if type="thesis">
+          <text variable="genre" prefix="[" suffix="]"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=",">
+      <text variable="citation-number"/>
+      <group prefix=", ">
+        <label variable="locator" form="short"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+          <text macro="edition" prefix=" " suffix=" "/>
+          <group suffix=".">
+            <text macro="publisher" prefix=" "/>
+            <text variable="number-of-pages" suffix=" p." prefix=" "/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" " suffix=". ">
+            <text term="in" suffix=": " text-case="capitalize-first"/>
+            <text macro="editor"/>
+            <text variable="container-title" font-style="italic"/>
+          </group>
+          <text macro="publisher" prefix=" "/>
+          <text variable="page" prefix=":" suffix="."/>
+        </else-if>
+        <else>
+          <text macro="journal-title"/>
+          <group suffix=";">
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </group>
+          <group suffix=". ">
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+            <text variable="page" prefix=":"/>
+          </group>
+        </else>
+      </choose>
+      <text macro="access"/>
+      <text macro="accessed-date" prefix=". "/>
+    </layout>
+  </bibliography>
+</style>

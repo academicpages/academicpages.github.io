@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/current-opinion -->
+  <info>
+    <title>Current Opinion in Biotechnology</title>
+    <id>http://www.zotero.org/styles/current-opinion-in-biotechnology</id>
+    <link href="http://www.zotero.org/styles/current-opinion-in-biotechnology" rel="self"/>
+    <link href="http://www.zotero.org/styles/current-opinion" rel="independent-parent"/>
+    <link href="http://www.current-opinion.com/journals/" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>0958-1669</issn>
+    <eissn>1879-0429</eissn>
+    <updated>2014-05-10T23:43:48+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

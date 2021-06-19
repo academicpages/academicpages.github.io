@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US">
+  <info>
+    <title>National Science Foundation (grant proposals)</title>
+    <title-short>NSF</title-short>
+    <id>http://www.zotero.org/styles/national-science-foundation-grant-proposals</id>
+    <link href="http://www.zotero.org/styles/national-science-foundation-grant-proposals" rel="self"/>
+    <link href="https://www.nsf.gov/pubs/policydocs/pappg19_1/pappg_2.jsp#IIC2e" rel="documentation"/>
+    <author>
+      <name>Paul Gugger</name>
+      <email>pgugger@umces.edu</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <updated>2019-03-17T01:40:40+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <names variable="author" suffix=" ">
+        <name delimiter=", " name-as-sort-order="all" sort-separator=" " form="long" initialize-with=""/>
+      </names>
+      <date variable="issued" prefix="(" suffix=") ">
+        <date-part name="year" form="long"/>
+      </date>
+      <text variable="title" suffix=". "/>
+      <text variable="container-title" suffix=", " font-style="italic"/>
+      <text variable="volume"/>
+      <text variable="issue" prefix="(" suffix=")"/>
+      <text variable="page" prefix=":" suffix=". "/>
+      <choose>
+        <if variable="DOI">
+          <text variable="DOI" prefix="https://doi.org/"/>
+        </if>
+        <else>
+          <text variable="URL"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

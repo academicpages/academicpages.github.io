@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier, generated from "elsevier" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Performance Enhancement &amp; Health</title>
+    <id>http://www.zotero.org/styles/performance-enhancement-and-health</id>
+    <link href="http://www.zotero.org/styles/performance-enhancement-and-health" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <category citation-format="author-date"/>
+    <issn>2211-2669</issn>
+    <updated>2018-03-09T05:06:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>The Lancet Infectious Diseases</title>
+    <id>http://www.zotero.org/styles/the-lancet-infectious-diseases</id>
+    <link href="http://www.zotero.org/styles/the-lancet-infectious-diseases" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-lancet" rel="independent-parent"/>
+    <link href="http://www.thelancet.com/lancet-infectious-diseases-information-for-authors/formatting-guidelines" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1473-3099</issn>
+    <eissn>1474-4457</eissn>
+    <updated>2013-04-14T18:43:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

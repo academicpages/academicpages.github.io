@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Combinatorial Chemistry &amp; High Throughput Screening</title>
+    <id>http://www.zotero.org/styles/combinatorial-chemistry-and-high-throughput-screening</id>
+    <link href="http://www.zotero.org/styles/combinatorial-chemistry-and-high-throughput-screening" rel="self"/>
+    <link href="http://www.zotero.org/styles/current-proteomics" rel="independent-parent"/>
+    <link href="http://benthamscience.com/journal/authors-guidelines.php?journalID=cchts" rel="documentation"/>
+    <link href="http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch014" rel="documentation"/>
+    <author>
+      <name>Christos Kannas</name>
+      <email>kannas.christos@ucy.ac.cy</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>1386-2073</issn>
+    <eissn>1875-5402</eissn>
+    <updated>2014-07-06T15:22:58+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

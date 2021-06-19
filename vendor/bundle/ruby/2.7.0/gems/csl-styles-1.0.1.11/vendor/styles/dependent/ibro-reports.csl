@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier, generated from "elsevier" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>IBRO Reports</title>
+    <id>http://www.zotero.org/styles/ibro-reports</id>
+    <link href="http://www.zotero.org/styles/ibro-reports" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-harvard" rel="independent-parent"/>
+    <category citation-format="author-date"/>
+    <issn>2451-8301</issn>
+    <updated>2016-07-25T11:35:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

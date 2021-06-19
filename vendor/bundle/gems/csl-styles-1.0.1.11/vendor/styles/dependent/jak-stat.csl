@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/landes-bioscience -->
+  <info>
+    <title>JAK-STAT</title>
+    <id>http://www.zotero.org/styles/jak-stat</id>
+    <link href="http://www.zotero.org/styles/jak-stat" rel="self"/>
+    <link href="http://www.zotero.org/styles/landes-bioscience-journals" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <eissn>2162-3996</eissn>
+    <updated>2014-05-16T00:22:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

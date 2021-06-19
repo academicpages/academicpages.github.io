@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="nl-NL">
+  <info>
+    <title>Nederlands Tijdschrift Voor Geneeskunde (Dutch)</title>
+    <id>http://www.zotero.org/styles/nederlands-tijdschrift-voor-geneeskunde</id>
+    <link href="http://www.zotero.org/styles/nederlands-tijdschrift-voor-geneeskunde" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript" rel="independent-parent"/>
+    <link href="http://www.ntvg.nl/over_ntvg/instructies_voor_literatuur" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0028-2162</issn>
+    <eissn>1876-8784</eissn>
+    <updated>2013-04-08T01:37:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

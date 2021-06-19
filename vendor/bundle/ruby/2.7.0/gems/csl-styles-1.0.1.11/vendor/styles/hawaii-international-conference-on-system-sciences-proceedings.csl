@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Hawaii International Conference on System Sciences Proceedings</title>
+    <title-short>HICSS Proceedings</title-short>
+    <id>http://www.zotero.org/styles/hawaii-international-conference-on-system-sciences-proceedings</id>
+    <link href="http://www.zotero.org/styles/hawaii-international-conference-on-system-sciences-proceedings" rel="self"/>
+    <link href="http://www.zotero.org/styles/acm-sigchi-proceedings" rel="template"/>
+    <link href="http://hicss.hawaii.edu/tracks-and-minitracks/authors/" rel="documentation"/>
+    <author>
+      <name>Jeff Hemsley</name>
+      <email>jhemsley@uw.edu</email>
+    </author>
+    <contributor>
+      <email>glink@unomaha.edu</email>
+      <name>Georg Link</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <updated>2017-09-03T21:46:09+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <style-options punctuation-in-quote="false"/>
+  </locale>
+  <macro name="author">
+    <group suffix=", ">
+      <names variable="author">
+        <name and="text" delimiter-precedes-et-al="always" delimiter-precedes-last="always" initialize-with="." name-as-sort-order="first"/>
+        <label form="short" prefix=", "/>
+        <substitute>
+          <names variable="editor"/>
+        </substitute>
+      </names>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="." delimiter=", " and="text" delimiter-precedes-last="never"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" quotes="false" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="journal">
+    <group font-style="normal" suffix=", ">
+      <text variable="container-title" font-style="italic"/>
+      <text variable="volume" quotes="false" font-style="italic" prefix=" "/>
+      <text variable="issue" font-style="normal" prefix="(" suffix=")"/>
+    </group>
+    <group delimiter=" ">
+      <text macro="year"/>
+    </group>
+  </macro>
+  <macro name="conference">
+    <group delimiter=", ">
+      <text variable="container-title" font-style="italic"/>
+      <group delimiter=" ">
+        <text variable="publisher"/>
+        <text macro="year" prefix="(" suffix=")"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="book-publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+      <text macro="year"/>
+    </group>
+  </macro>
+  <citation>
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <group delimiter=":">
+        <text variable="citation-number"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="3" entry-spacing="1">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text macro="author"/>
+      <text macro="title" suffix=", "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <text macro="book-publisher" suffix="."/>
+        </if>
+        <else-if type="paper-conference">
+          <group suffix="." delimiter=", ">
+            <text macro="conference"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <text term="in" text-case="capitalize-first" suffix=" "/>
+          <text macro="editor" suffix=", "/>
+          <text variable="container-title" font-style="italic" suffix=". "/>
+          <group suffix="." delimiter=", ">
+            <text macro="book-publisher"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="article-journal">
+          <group suffix="." delimiter=", ">
+            <text macro="journal"/>
+            <text variable="page" prefix="pp. "/>
+          </group>
+        </else-if>
+        <else>
+          <group suffix="." delimiter=", ">
+            <group delimiter=" " font-style="italic">
+              <text variable="container-title"/>
+              <text variable="volume"/>
+            </group>
+            <text macro="year"/>
+            <text variable="page"/>
+          </group>
+          <text variable="URL" prefix=" "/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

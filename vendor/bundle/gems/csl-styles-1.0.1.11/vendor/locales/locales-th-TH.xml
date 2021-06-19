@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="th-TH">
+  <info>
+    <translator>
+      <name>Dusit Laohasinnarong</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">สืบค้น</term>
+    <term name="and">และ</term>
+    <term name="and others">และคณะ</term>
+    <term name="anonymous">นิรนาม</term>
+    <term name="anonymous" form="short">นิรนาม</term>
+    <term name="at">ที่</term>
+    <term name="available at">available at</term>
+    <term name="by">โดย</term>
+    <term name="circa">โดยประมาณ</term>
+    <term name="circa" form="short">ประมาณ</term>
+    <term name="cited">อ้างถึง</term>
+    <term name="edition">
+      <single>พิมพ์ครั้งที่</single>
+      <multiple>พิมพ์ครั้งที่</multiple>
+    </term>
+    <term name="edition" form="short">พิมพ์ครั้งที่</term>
+    <term name="et-al">และคณะ</term>
+    <term name="forthcoming">เต็มใจให้ข้อมูล</term>
+    <term name="from">จาก</term>
+    <term name="ibid"> ในที่เดียวกัน</term>
+    <term name="in">ใน</term>
+    <term name="in press">กำลังรอตีพิมพ์</term>
+    <term name="internet">อินเทอร์เน็ต</term>
+    <term name="interview">การสัมภาษณ์</term>
+    <term name="letter">จดหมาย</term>
+    <term name="no date">ไม่ปรากฏปีที่พิมพ์</term>
+    <term name="no date" form="short">ม.ป.ป.</term>
+    <term name="online">ออนไลน์</term>
+    <term name="presented at">นำเสนอที่</term>
+    <term name="reference">
+      <single>เอกสารอ้างอิง</single>
+      <multiple>เอกสารอ้างอิง</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>อ้างอิง</single>
+      <multiple>อ้างอิง</multiple>
+    </term>
+    <term name="retrieved">สืบค้น</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">ค.ศ.</term>
+    <term name="bc">พ.ศ.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">“</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal"></term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">หนึ่ง</term>
+    <term name="long-ordinal-02">สอง</term>
+    <term name="long-ordinal-03">สาม</term>
+    <term name="long-ordinal-04">สี่</term>
+    <term name="long-ordinal-05">ห้า</term>
+    <term name="long-ordinal-06">หก</term>
+    <term name="long-ordinal-07">เจ็ด</term>
+    <term name="long-ordinal-08">แปด</term>
+    <term name="long-ordinal-09">เก้า</term>
+    <term name="long-ordinal-10">สิบ</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>หนังสือ</single>
+      <multiple>หนังสือ</multiple>
+    </term>
+    <term name="chapter">
+      <single>บทที่</single>
+      <multiple>บทที่</multiple>
+    </term>
+    <term name="column">
+      <single>สดมภ์</single>
+      <multiple>สดมภ์</multiple>
+    </term>
+    <term name="figure">
+      <single>รูปภาพ</single>
+      <multiple>รูปภาพ</multiple>
+    </term>
+    <term name="folio">
+      <single>หน้า</single>
+      <multiple>หน้า</multiple>
+    </term>
+    <term name="issue">
+      <single>ฉบับที่</single>
+      <multiple>ฉบับที่</multiple>
+    </term>
+    <term name="line">
+      <single>บรรทัดที่</single>
+      <multiple>บรรทัดที่</multiple>
+    </term>
+    <term name="note">
+      <single>บันทึก</single>
+      <multiple>บันทึก</multiple>
+    </term>
+    <term name="opus">
+      <single>บทประพันธ์</single>
+      <multiple>บทประพันธ์</multiple>
+    </term>
+    <term name="page">
+      <single>หน้า</single>
+      <multiple>หน้า</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>หน้า</single>
+      <multiple>หน้า</multiple>
+    </term>
+    <term name="paragraph">
+      <single>ย่อหน้า</single>
+      <multiple>ย่อหน้า</multiple>
+    </term>
+    <term name="part">
+      <single>ส่วนย่อย</single>
+      <multiple>ส่วนย่อย</multiple>
+    </term>
+    <term name="section">
+      <single>หมวด</single>
+      <multiple>หมวด</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>ใต้คำ</single>
+      <multiple>ใต้คำ</multiple>
+    </term>
+    <term name="verse">
+      <single>ร้อยกรอง</single>
+      <multiple>ร้อยกรอง</multiple>
+    </term>
+    <term name="volume">
+      <single>ปีที่</single>
+      <multiple>ปีที่</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">หนังสือ</term>
+    <term name="chapter" form="short">บทที่</term>
+    <term name="column" form="short">สดมภ์</term>
+    <term name="figure" form="short">รูปภาพ</term>
+    <term name="folio" form="short">หน้า</term>
+    <term name="issue" form="short">ฉบับที่</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">บทประพันธ์</term>
+    <term name="page" form="short">
+      <single>น.</single>
+      <multiple>น.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>น.</single>
+      <multiple>น.</multiple>
+    </term>
+    <term name="paragraph" form="short">ย่อหน้า</term>
+    <term name="part" form="short">ส่วนย่อย</term>
+    <term name="section" form="short">หมวด</term>
+    <term name="sub verbo" form="short">
+      <single>ใต้คำ</single>
+      <multiple>ใต้คำ</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>ร้อยกรอง</single>
+      <multiple>ร้อยกรอง</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>ปี</single>
+      <multiple>ปี</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
+    <term name="editor">
+      <single>บรรณาธิการ</single>
+      <multiple>บรรณาธิการ</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>ผู้อำนวยการบทบรรณาธิการ</single>
+      <multiple>ผู้อำนวยการบทบรรณาธิการ</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
+    </term>
+    <term name="translator">
+      <single>ผู้แปล</single>
+      <multiple>ผู้แปล</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>บรรณาธิการและผู้แปล</single>
+      <multiple>บรรณาธิการและผู้แปล</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>บ.ก.</single>
+      <multiple>บ.ก.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>ผอ.บทบรรณาธิการ</single>
+      <multiple>ผอ.บทบรรณาธิการ</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>ผู้แปล</single>
+      <multiple>ผู้แปล</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>บ.ก.</single>
+      <multiple>บ.ก.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">โดย</term>
+    <term name="director" form="verb">directed by</term>
+    <term name="editor" form="verb">เรียบเรียงโดย</term>
+    <term name="editorial-director" form="verb">เรียบเรียงโดย</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">สัมภาษณ์โดย</term>
+    <term name="recipient" form="verb">ถึง</term>
+    <term name="reviewed-author" form="verb">by</term>
+    <term name="translator" form="verb">แปลโดย</term>
+    <term name="editortranslator" form="verb">แปลและเรียบเรียงโดย</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">โดย</term>
+    <term name="editorial-director" form="verb-short">โดย</term>
+    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="translator" form="verb-short">แปล</term>
+    <term name="editortranslator" form="verb-short">แปลและเรียบเรียงโดย</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">มกราคม</term>
+    <term name="month-02">กุมภาพันธ์</term>
+    <term name="month-03">มีนาคม</term>
+    <term name="month-04">เมษายน</term>
+    <term name="month-05">พฤษภาคม</term>
+    <term name="month-06">มิถุนายน</term>
+    <term name="month-07">กรกฎาคม</term>
+    <term name="month-08">สิงหาคม</term>
+    <term name="month-09">กันยายน</term>
+    <term name="month-10">ตุลาคาม</term>
+    <term name="month-11">พฤศจิกายน</term>
+    <term name="month-12">ธันวาคม</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">ม.ค.</term>
+    <term name="month-02" form="short">ก.พ.</term>
+    <term name="month-03" form="short">มี.ค.</term>
+    <term name="month-04" form="short">เม.ย.</term>
+    <term name="month-05" form="short">พ.ค.</term>
+    <term name="month-06" form="short">มิ.ย.</term>
+    <term name="month-07" form="short">ก.ค.</term>
+    <term name="month-08" form="short">ส.ค.</term>
+    <term name="month-09" form="short">ก.ย.</term>
+    <term name="month-10" form="short">ต.ค.</term>
+    <term name="month-11" form="short">พ.ย.</term>
+    <term name="month-12" form="short">ธ.ค.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">ฤดูใบไม้ผลิ</term>
+    <term name="season-02">ฤดูร้อน</term>
+    <term name="season-03">ฤดูใบไม้ร่วง</term>
+    <term name="season-04">ฤดูหนาว</term>
+  </terms>
+</locale>

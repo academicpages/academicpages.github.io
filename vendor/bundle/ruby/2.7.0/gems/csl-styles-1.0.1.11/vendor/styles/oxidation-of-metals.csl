@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Oxidation of Metals</title>
+    <id>http://www.zotero.org/styles/oxidation-of-metals</id>
+    <link href="http://www.zotero.org/styles/oxidation-of-metals" rel="self"/>
+    <link href="http://www.zotero.org/styles/nature" rel="template"/>
+    <link href="http://www.springer.com/materials/special+types/journal/11085?detailsPage=pltci_3407509" rel="documentation"/>
+    <author>
+      <name>Colin A Stewart</name>
+      <email>colinstewart@engineering.ucsb.edu</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>0030-770X</issn>
+    <eissn>1573-4889</eissn>
+    <updated>2018-02-01T05:30:32+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " delimiter=", " initialize-with="" delimiter-precedes-last="always" name-as-sort-order="all"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="volume"/>
+      <else-if variable="DOI">
+        <text variable="DOI" prefix="doi:"/>
+      </else-if>
+      <else-if type="webpage" variable="URL" match="all">
+        <text term="available at" text-case="capitalize-first" suffix=": "/>
+        <text variable="URL" suffix=". "/>
+        <group prefix="" suffix="" delimiter=" ">
+          <text term="accessed" text-case="capitalize-first"/>
+          <date form="text" variable="accessed"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issuance">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song thesis paper-conference" match="any">
+        <group delimiter="; " suffix=".">
+          <group delimiter=": ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+      <else-if type="chapter" match="any">
+        <group delimiter="; " suffix=":">
+          <group delimiter=": ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </else-if>
+      <else>
+        <date suffix=";" variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal">
+        <text variable="container-title" font-style="italic" form="short" suffix=". "/>
+      </if>
+      <else>
+        <text variable="container-title" font-style="italic" suffix=". "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <names variable="editor">
+          <name delimiter-precedes-last="never" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+          <label form="short" prefix=", "/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="3" second-field-align="flush" entry-spacing="0" line-spacing="2">
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <group delimiter=" ">
+        <text macro="author" suffix="."/>
+        <text macro="title" suffix=". "/>
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <text term="in" text-case="capitalize-first" suffix=": "/>
+          </if>
+        </choose>
+        <text macro="editor"/>
+        <text macro="container-title"/>
+      </group>
+      <group delimiter="">
+        <text macro="issuance"/>
+        <group delimiter=":" suffix=".">
+          <text variable="volume"/>
+          <text variable="page"/>
+        </group>
+        <text macro="access" prefix=" "/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

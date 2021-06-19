@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Molecular Therapy - Methods &amp; Clinical Development</title>
+    <id>http://www.zotero.org/styles/molecular-therapy-methods-and-clinical-development</id>
+    <link href="http://www.zotero.org/styles/molecular-therapy-methods-and-clinical-development" rel="self"/>
+    <link href="http://www.zotero.org/styles/cell-numeric-superscript" rel="independent-parent"/>
+    <link href="https://www.cell.com/molecular-therapy-family/home" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <issn>2329-0501</issn>
+    <updated>2020-10-20T12:32:48+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

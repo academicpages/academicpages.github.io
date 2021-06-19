@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Polymer Science Part B: Polymer Physics</title>
+    <id>http://www.zotero.org/styles/journal-of-polymer-science-part-b-polymer-physics</id>
+    <link href="http://www.zotero.org/styles/journal-of-polymer-science-part-b-polymer-physics" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-polymer-science-part-a-polymer-chemistry" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0488/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <category field="physics"/>
+    <issn>0887-6266</issn>
+    <eissn>1099-0488</eissn>
+    <updated>2017-01-10T04:06:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/spie -->
+  <info>
+    <title>Journal of Astronomical Telescopes, Instruments, and Systems</title>
+    <id>http://www.zotero.org/styles/journal-of-astronomical-telescopes-instruments-and-systems</id>
+    <link href="http://www.zotero.org/styles/journal-of-astronomical-telescopes-instruments-and-systems" rel="self"/>
+    <link href="http://www.zotero.org/styles/spie-journals" rel="independent-parent"/>
+    <link href="http://astronomicaltelescopes.spiedigitallibrary.org/journal.aspx" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <issn>2329-4124</issn>
+    <eissn>2329-4221</eissn>
+    <updated>2014-06-11T14:04:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Begell House, generated from "begell-house" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Critical Reviews in Biomedical Engineering</title>
+    <title-short>CRB</title-short>
+    <id>http://www.zotero.org/styles/critical-reviews-in-biomedical-engineering</id>
+    <link href="http://www.zotero.org/styles/critical-reviews-in-biomedical-engineering" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://dl.begellhouse.com/forauthors/journals/4b27cbfc562e21b8.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0278-940X</issn>
+    <eissn>1943-619X</eissn>
+    <updated>2020-02-22T05:59:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

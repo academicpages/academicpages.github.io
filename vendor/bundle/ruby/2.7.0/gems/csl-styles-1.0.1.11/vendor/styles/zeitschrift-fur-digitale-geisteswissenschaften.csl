@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="de-DE">
+  <info>
+    <title>Zeitschrift für digitale Geisteswissenschaften (German)</title>
+    <title-short>ZfdG</title-short>
+    <id>http://www.zotero.org/styles/zeitschrift-fur-digitale-geisteswissenschaften</id>
+    <link href="http://www.zotero.org/styles/zeitschrift-fur-digitale-geisteswissenschaften" rel="self"/>
+    <link href="http://www.zotero.org/styles/chicago-note-bibliography" rel="template"/>
+    <link href="http://www.zfdg.de/s-wie-style" rel="documentation"/>
+    <author>
+      <name>Timo Steyer</name>
+      <email>steyer@hab.de</email>
+      <uri>http://timosteyer.de</uri>
+    </author>
+    <contributor>
+      <name>Henrike Friche</name>
+      <email>henrike.fricke@hab.de</email>
+    </contributor>
+    <contributor>
+      <name>Lisa Klaffki</name>
+      <email>klaffki@hab.de</email>
+    </contributor>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <issn>2510-1358</issn>
+    <summary>Style for Zeitschrift für digitale Geisteswissenschaften (ZfdG).</summary>
+    <published>2019-05-28T14:00:00+00:00</published>
+    <updated>2019-11-24T19:47:14+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="et-al">et al.</term>
+      <!--  <term name="accessed">gesehen am</term>-->
+      <term name="editor" form="short">Hg.</term>
+      <term name="editor" form="verb-short">Hg.&#160;von</term>
+      <term name="translator" form="short">Übers.</term>
+      <term name="edition" form="short">Auflage</term>
+      <term name="translator" form="verb-short">Übers.&#160;v</term>
+      <term name="volume" form="long">Bde.</term>
+    </terms>
+  </locale>
+  <macro name="contributors-long">
+    <choose>
+      <if variable="author">
+        <names variable="author">
+          <name delimiter=" / " delimiter-precedes-last="always"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="contributors-short">
+    <choose>
+      <if variable="author">
+        <names variable="author">
+          <name form="short" delimiter=" / " delimiter-precedes-last="always"/>
+        </names>
+      </if>
+      <else>
+        <choose>
+          <if type="book">
+            <names variable="editor">
+              <name form="short" delimiter=" / " delimiter-precedes-last="always"/>
+            </names>
+          </if>
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <macro name="secondary-contributors">
+    <choose>
+      <if variable="author" type="book" match="all">
+        <names variable="editor" delimiter=" / ">
+          <label form="verb-short" text-case="lowercase"/>
+          <name delimiter=", " delimiter-precedes-last="always"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="container-contributors">
+    <choose>
+      <if variable="container-author">
+        <names variable="container-author">
+          <name delimiter=" / " delimiter-precedes-last="always"/>
+        </names>
+      </if>
+      <else>
+        <choose>
+          <if type="chapter">
+            <names variable="editor">
+              <label prefix=" " form="verb-short" suffix=" "/>
+              <name delimiter=" / " delimiter-precedes-last="always"/>
+            </names>
+          </if>
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <macro name="secondary-container-contributors">
+    <choose>
+      <if variable="container-author" type="chapter" match="all">
+        <names variable="editor">
+          <label form="verb-short" text-case="lowercase"/>
+          <name delimiter=", " delimiter-precedes-last="always"/>
+        </names>
+      </if>
+      <else-if type="article-journal article-magazine" match="any">
+        <names variable="editor">
+          <label form="verb-short" text-case="lowercase"/>
+          <name delimiter=" /" delimiter-precedes-last="always"/>
+        </names>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <label form="verb-short" prefix=". " suffix=" "/>
+      <name delimiter=" / " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="title-long">
+    <group>
+      <choose>
+        <if type="book">
+          <text variable="title" form="long"/>
+          <text macro="editor"/>
+        </if>
+        <else-if type="webpage">
+          <text variable="title" form="long"/>
+        </else-if>
+        <else-if type="personal_communication">
+          <text variable="title" form="long"/>
+        </else-if>
+        <else-if type="post-weblog">
+          <text variable="title" form="long"/>
+        </else-if>
+        <else-if type="chapter">
+          <text variable="title" form="long"/>
+        </else-if>
+      </choose>
+      <choose>
+        <if type="article-journal">
+          <text variable="title" form="long" suffix="."/>
+        </if>
+      </choose>
+      <choose>
+        <if type="book">
+          <group>
+            <choose>
+              <if variable="volume">
+                <text prefix=". " term="volume" form="short" suffix=".&#160;"/>
+                <text variable="volume"/>
+              </if>
+            </choose>
+          </group>
+        </if>
+      </choose>
+      <text prefix=" / " macro="secondary-contributors"/>
+    </group>
+  </macro>
+  <macro name="container">
+    <choose>
+      <if type="post-weblog">
+        <text prefix=" In: " variable="container-title"/>
+      </if>
+    </choose>
+    <choose>
+      <if type="chapter">
+        <choose>
+          <if variable="container-author editor" match="any">
+            <text variable="container-title" prefix="In: " suffix="."/>
+            <text macro="container-contributors"/>
+          </if>
+        </choose>
+        <choose>
+          <if variable="number-of-volumes">
+            <text prefix=". " variable="number-of-volumes" suffix=" "/>
+            <text term="volume" form="long"/>
+          </if>
+        </choose>
+        <text prefix=" / " macro="secondary-container-contributors"/>
+      </if>
+      <else-if type="article-journal article-magazine article-newspaper" match="any">
+        <text prefix="In: " variable="container-title"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <number variable="edition" form="ordinal"/>
+        <text prefix="&#160;" term="edition" form="short" suffix="."/>
+      </if>
+      <else-if variable="edition">
+        <text variable="edition"/>
+        <text prefix=" " term="edition" form="short" suffix="."/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issued">
+    <choose>
+      <if type="book">
+        <text prefix=". " suffix=" Bde" variable="number-of-volumes"/>
+        <text prefix=". " macro="edition"/>
+        <text prefix=" (" suffix=")" variable="collection-title"/>
+        <text prefix=". " variable="publisher-place"/>
+        <date prefix=" " variable="issued">
+          <date-part name="year"/>
+        </date>
+        <date prefix=" [" variable="original-date" suffix="]">
+          <date-part name="year"/>
+        </date>
+        <text variable="volume" prefix=". Bd. "/>
+      </if>
+      <else-if type="chapter">
+        <text prefix=". " macro="edition"/>
+        <text prefix=" (" suffix=")" variable="collection-title"/>
+        <text prefix=". " variable="publisher-place"/>
+        <date prefix=" " variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <else-if type="post-weblog">
+        <date prefix=". Blogbeitrag vom " variable="issued" form="numeric">
+          <date-part name="day"/>
+          <date-part name="month"/>
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <else-if type="webpage">
+        <text prefix=". In: " variable="container-title"/>
+        <date prefix=". " variable="issued">
+          <date-part name="month" suffix=" "/>
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <else-if type="article-journal article-magazine article-newspaper" match="any">
+        <group prefix=" ">
+          <text variable="collection-title" prefix=" In: "/>
+          <text variable="volume" prefix=" "/>
+          <date variable="issued" form="numeric" prefix=" (" suffix=")">
+            <date-part name="year"/>
+          </date>
+          <text variable="issue" prefix=", &#160;"/>
+        </group>
+        <text prefix=", " macro="secondary-container-contributors"/>
+        <group prefix=", " delimiter=" ">
+          <text variable="publisher-place"/>
+          <choose>
+            <if variable="URL">
+              <text value="dort datiert"/>
+            </if>
+          </choose>
+        </group>
+      </else-if>
+      <else>
+        <group prefix=". " delimiter=" ">
+          <text variable="publisher-place"/>
+          <date variable="issued" form="numeric" prefix="">
+            <date-part name="day"/>
+            <date-part name="month"/>
+            <date-part name="year"/>
+          </date>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper chapter" match="any">
+        <text variable="page"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <text prefix=" " variable="URL" suffix="."/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="citation-locator">
+    <text variable="locator"/>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="contributors-short"/>
+      <date variable="issued" form="numeric" prefix=" ">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if variable="page" type="chapter" match="all">
+          <text prefix=", S. " macro="citation-locator" suffix="."/>
+        </if>
+        <else-if variable="page" type="article-journal" match="all">
+          <text prefix=", S. " macro="citation-locator" suffix="."/>
+        </else-if>
+        <else-if variable="page" type="article-magazine" match="all">
+          <text prefix=", S. " macro="citation-locator" suffix="."/>
+        </else-if>
+        <else-if variable="page" type="article-newspaper" match="all">
+          <text prefix=", S. " macro="citation-locator" suffix="."/>
+        </else-if>
+        <else-if variable="page" position="ibid"/>
+      </choose>
+    </layout>
+  </citation>
+  <!--
+================================================================================
+ERSTELLUNG DES LITERATURVERZEICHNISSES
+================================================================================-->
+  <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="1" entry-spacing="0">
+    <sort>
+      <key macro="contributors-long" names-min="3" names-use-first="3"/>
+      <key variable="issued" sort="descending"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="contributors-long" suffix=": "/>
+      <text macro="title-long"/>
+      <text macro="container" prefix=". "/>
+      <text macro="issued"/>
+      <text macro="pages" prefix=", S. "/>
+      <text macro="access" prefix=". "/>
+    </layout>
+  </bibliography>
+</style>

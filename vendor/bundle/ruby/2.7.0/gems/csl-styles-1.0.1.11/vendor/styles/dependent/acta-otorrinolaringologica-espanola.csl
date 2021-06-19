@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="es-ES">
+  <info>
+    <title>Acta Otorrinolaringológica Española (Spanish)</title>
+    <id>http://www.zotero.org/styles/acta-otorrinolaringologica-espanola</id>
+    <link href="http://www.zotero.org/styles/acta-otorrinolaringologica-espanola" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://ees.elsevier.com/otorrino/" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0001-6519</issn>
+    <eissn>1988-3013</eissn>
+    <updated>2013-04-08T23:40:21+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

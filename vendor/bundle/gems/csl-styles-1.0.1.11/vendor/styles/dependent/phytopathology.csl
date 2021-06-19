@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Phytopathology</title>
+    <id>http://www.zotero.org/styles/phytopathology</id>
+    <link href="http://www.zotero.org/styles/phytopathology" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-phytopathological-society" rel="independent-parent"/>
+    <link href="http://apsjournals.apsnet.org/loi/phyto" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0031-949X</issn>
+    <eissn>1943-7684</eissn>
+    <updated>2016-01-25T05:31:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

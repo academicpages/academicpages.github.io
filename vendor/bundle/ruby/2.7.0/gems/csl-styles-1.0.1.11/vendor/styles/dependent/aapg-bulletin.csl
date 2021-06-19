@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>AAPG Bulletin</title>
+    <id>http://www.zotero.org/styles/aapg-bulletin</id>
+    <link href="http://www.zotero.org/styles/aapg-bulletin" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-association-of-petroleum-geologists" rel="independent-parent"/>
+    <link href="http://www.aapg.org/bulletin/reference.cfm" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="geology"/>
+    <issn>0149-1423</issn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

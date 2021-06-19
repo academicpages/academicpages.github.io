@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="el-GR">
+  <info>
+    <translator>
+      <name>thanasis57</name>
+    </translator>
+    <translator>
+      <name>dimtamb</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2013-11-08T20:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">ημερομηνία πρόσβασης</term>
+    <term name="and">και</term>
+    <term name="and others">και άλλοι</term>
+    <term name="anonymous">ανώνυμο</term>
+    <term name="anonymous" form="short">ανών.</term>
+    <term name="at">εφ.</term>
+    <term name="available at">διαθέσιμο στο</term>
+    <term name="by">από</term>
+    <term name="circa">περίπου</term>
+    <term name="circa" form="short">περ.</term>
+    <term name="cited">παρατίθεται</term>
+    <term name="edition" gender="feminine">
+      <single>έκδοση</single>
+      <multiple>εκδόσεις</multiple>
+    </term>
+    <term name="edition" form="short">έκδ.</term>
+    <term name="et-al">κ.ά.</term>
+    <term name="forthcoming">προσεχές</term>
+    <term name="from">από</term>
+    <term name="ibid">στο ίδιο</term>
+    <term name="in">στο</term>
+    <term name="in press">υπό έκδοση</term>
+    <term name="internet">διαδίκτυο</term>
+    <term name="interview">συνέντευξη</term>
+    <term name="letter">επιστολή</term>
+    <term name="no date">χωρίς χρονολογία</term>
+    <term name="no date" form="short">χ.χ.</term>
+    <term name="online">έκδοση σε ψηφιακή μορφή</term>
+    <term name="presented at">παρουσιάστηκε στο</term>
+    <term name="reference">
+      <single>παραπομπή</single>
+      <multiple>παραπομπές</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>παρ.</single>
+      <multiple>παρ.</multiple>
+    </term>
+    <term name="retrieved">ανακτήθηκε</term>
+    <term name="scale">κλίμακα</term>
+    <term name="version">εκδοχή</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">μ.Χ.</term>
+    <term name="bc">π.Χ.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">‘</term>
+    <term name="close-quote">’</term>
+    <term name="open-inner-quote">'</term>
+    <term name="close-inner-quote">'</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">ο</term>
+    <term name="ordinal-01" gender-form="feminine" match="whole-number">η</term>
+    <term name="ordinal-01" gender-form="masculine" match="whole-number">ος</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">πρώτος</term>
+    <term name="long-ordinal-02">δεύτερος</term>
+    <term name="long-ordinal-03">τρίτος</term>
+    <term name="long-ordinal-04">τέταρτος</term>
+    <term name="long-ordinal-05">πέμπτος</term>
+    <term name="long-ordinal-06">έκτος</term>
+    <term name="long-ordinal-07">έβδομος</term>
+    <term name="long-ordinal-08">όγδοος</term>
+    <term name="long-ordinal-09">ένατος</term>
+    <term name="long-ordinal-10">δέκατος</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>βιβλίο</single>
+      <multiple>βιβλία</multiple>
+    </term>
+    <term name="chapter">
+      <single>κεφάλαιο</single>
+      <multiple>κεφάλαια</multiple>
+    </term>
+    <term name="column">
+      <single>στήλη</single>
+      <multiple>στήλες</multiple>
+    </term>
+    <term name="figure">
+      <single>εικόνα</single>
+      <multiple>εικόνες</multiple>
+    </term>
+    <term name="folio">
+      <single>φάκελος</single>
+      <multiple>φάκελοι</multiple>
+    </term>
+    <term name="issue">
+      <single>τεύχος</single>
+      <multiple>τεύχη</multiple>
+    </term>
+    <term name="line">
+      <single>σειρά</single>
+      <multiple>σειρές</multiple>
+    </term>
+    <term name="note">
+      <single>σημείωση</single>
+      <multiple>σημειώσεις</multiple>
+    </term>
+    <term name="opus">
+      <single>έργο</single>
+      <multiple>έργα</multiple>
+    </term>
+    <term name="page">
+      <single>σελίδα</single>
+      <multiple>σελίδες</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>σελίδα</single>
+      <multiple>σελίδες</multiple>
+    </term>
+    <term name="paragraph">
+      <single>παράγραφος</single>
+      <multiple>παράγραφοι</multiple>
+    </term>
+    <term name="part">
+      <single>μέρος</single>
+      <multiple>μέρη</multiple>
+    </term>
+    <term name="section">
+      <single>τμήμα</single>
+      <multiple>τμήματα</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>λήμμα</single>
+      <multiple>λήμματα</multiple>
+    </term>
+    <term name="verse">
+      <single>στίχος</single>
+      <multiple>στίχοι</multiple>
+    </term>
+    <term name="volume">
+      <single>τόμος</single>
+      <multiple>τόμοι</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">βιβ.</term>
+    <term name="chapter" form="short">κεφ.</term>
+    <term name="column" form="short">στ.</term>
+    <term name="figure" form="short">εικ.</term>
+    <term name="folio" form="short">φάκ</term>
+    <term name="issue" form="short">τχ.</term>
+    <term name="line" form="short">γρ.</term>
+    <term name="note" form="short">σημ.</term>
+    <term name="opus" form="short">έργ.</term>
+    <term name="page" form="short">
+      <single>σ.</single>
+      <multiple>σσ.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>σ.</single>
+      <multiple>σσ.</multiple>
+    </term>
+    <term name="paragraph" form="short">παρ.</term>
+    <term name="part" form="short">μέρ.</term>
+    <term name="section" form="short">τμ.</term>
+    <term name="sub verbo" form="short">
+      <single>λήμ.</single>
+      <multiple>λήμ.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>στ.</single>
+      <multiple>στ.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>τ.</single>
+      <multiple>τ.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>Διευθυντής</single>
+      <multiple>Διευθυντές</multiple>
+    </term>
+    <term name="editor">
+      <single>επιμελητής</single>
+      <multiple>επιμελητές</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>διευθυντής σειράς</single>
+      <multiple>διευθυντές σειράς</multiple>
+    </term>
+    <term name="illustrator">
+      <single>εικονογράφος</single>
+      <multiple>εικονογράφοι</multiple>
+    </term>
+    <term name="translator">
+      <single>μεταφραστής</single>
+      <multiple>μεταφραστές</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>μεταφραστής και επιμελητής</single>
+      <multiple>μεταφραστές και επιμελητές</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>δ/ντης.</single>
+      <multiple>δ/ντές.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>επιμ.</single>
+      <multiple>επιμ.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>δ/ντής σειράς</single>
+      <multiple>δ/ντές σειρας</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>εικ.</single>
+      <multiple>εικ..</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>μτφ.</single>
+      <multiple>μτφ.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>μτφ. και επιμ.</single>
+      <multiple>μτφ. και επιμ.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">στον συλλ. τόμο</term>
+    <term name="director" form="verb">διεύθυνση</term>
+    <term name="editor" form="verb">επιμέλεια</term>
+    <term name="editorial-director" form="verb">διεύθυνση σειράς</term>
+    <term name="illustrator" form="verb">εικονογράφηση:</term>
+    <term name="interviewer" form="verb">συνέντευξη</term>
+    <term name="recipient" form="verb">παραλήπτης</term>
+    <term name="reviewed-author" form="verb">συγγραφέας:</term>
+    <term name="translator" form="verb">μετάφραση</term>
+    <term name="editortranslator" form="verb">μετάφραση και επιμέλεια</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">διευθ.</term>
+    <term name="editor" form="verb-short">επιμέλ.</term>
+    <term name="editorial-director" form="verb-short">δ/νση σειράς</term>
+    <term name="illustrator" form="verb-short">εικον.</term>
+    <term name="translator" form="verb-short">μετάφρ.</term>
+    <term name="editortranslator" form="verb-short">μετάφρ. και επιμέλ.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">Ιανουάριος</term>
+    <term name="month-02">Φεβρουάριος</term>
+    <term name="month-03">Μάρτιος</term>
+    <term name="month-04">Απρίλιος</term>
+    <term name="month-05">Μάιος</term>
+    <term name="month-06">Ιούνιος</term>
+    <term name="month-07">Ιούλιος</term>
+    <term name="month-08">Αύγουστος</term>
+    <term name="month-09">Σεπτέμβριος</term>
+    <term name="month-10">Οκτώβριος</term>
+    <term name="month-11">Νοέμβριος</term>
+    <term name="month-12">Δεκέμβριος</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">Ιανουαρίου</term>
+    <term name="month-02" form="short">Φεβρουαρίου</term>
+    <term name="month-03" form="short">Μαρτίου</term>
+    <term name="month-04" form="short">Απριλίου</term>
+    <term name="month-05" form="short">Μαΐου</term>
+    <term name="month-06" form="short">Ιουνίου</term>
+    <term name="month-07" form="short">Ιουλίου</term>
+    <term name="month-08" form="short">Αυγούστου</term>
+    <term name="month-09" form="short">Σεπτεμβρίου</term>
+    <term name="month-10" form="short">Οκτωβρίου</term>
+    <term name="month-11" form="short">Νοεμβρίου</term>
+    <term name="month-12" form="short">Δεκεμβρίου</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">Άνοιξη</term>
+    <term name="season-02">Καλοκαίρι</term>
+    <term name="season-03">Φθινόπωρο</term>
+    <term name="season-04">Χειμώνας</term>
+  </terms>
+</locale>

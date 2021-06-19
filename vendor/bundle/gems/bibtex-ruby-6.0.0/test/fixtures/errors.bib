@@ -1,0 +1,67 @@
+%%
+%% A BibTeX file with various errors.
+%%
+
+In strict mode we cannot have the AT symbol anywhere except inside literals
+or comment objects.
+
+Unbalanced braces in string literal:
+@string{ foo = "foo }
+
+Another unbalanced braces in string literal:
+@string{ foo = "foo{"} }
+
+Another unterminated string literal:
+@string{ foo = "foo{" }
+
+A valid objects after two invalid ones:
+@string { foo="foo"}
+
+Unterminated literal:
+@preamble    {  "{" # foo # "bar" }
+
+Valid object:
+@preamble {
+	"preamble"
+	
+}
+
+Bad Syntax:
+@book{
+	author = "An Author"
+}
+
+@book{key
+	author = "An Author"
+}
+
+@book{key,
+	author = "An Author"
+	title = "The Title"
+}
+
+Unterminated string:
+@book{key,
+	author = "An Author,
+	title = "The Title"
+}
+
+Better syntax:
+@book{ key, author ="An Author", title = "The Title"}
+
+Unterminated object:
+@preamble{ "hello"
+
+@string
+{ bar =
+"bar"
+
+Better:
+@string
+
+{
+  bar
+  =
+  "bar"
+
+}

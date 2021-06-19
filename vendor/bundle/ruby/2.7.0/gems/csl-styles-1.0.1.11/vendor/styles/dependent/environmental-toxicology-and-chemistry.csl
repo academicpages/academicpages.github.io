@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Environmental Toxicology and Chemistry</title>
+    <title-short>ET&amp;C</title-short>
+    <id>http://www.zotero.org/styles/environmental-toxicology-and-chemistry</id>
+    <link href="http://www.zotero.org/styles/environmental-toxicology-and-chemistry" rel="self"/>
+    <link href="http://www.zotero.org/styles/council-of-science-editors-author-date" rel="independent-parent"/>
+    <link href="https://setac.onlinelibrary.wiley.com/hub/journal/15528618/author-guidelines" rel="documentation"/>
+    <link href="https://setac.onlinelibrary.wiley.com/pb-assets/assets/page/journal/15528618/_ETC%20Manuscript%20Preparation_April_2019-1555965964903.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="chemistry"/>
+    <issn>0730-7268</issn>
+    <eissn>1552-8618</eissn>
+    <updated>2020-01-08T04:46:10+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

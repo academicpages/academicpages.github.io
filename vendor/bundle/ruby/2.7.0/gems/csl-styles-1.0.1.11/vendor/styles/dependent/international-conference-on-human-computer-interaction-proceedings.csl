@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>International Conference on Human-Computer Interaction</title>
+    <title-short>HCII</title-short>
+    <id>http://www.zotero.org/styles/international-conference-on-human-computer-interaction-proceedings</id>
+    <link href="http://www.zotero.org/styles/international-conference-on-human-computer-interaction-proceedings" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-lecture-notes-in-computer-science" rel="independent-parent"/>
+    <link href="http://www.hcii2013.org/userfiles/files/Springer%20CS%20Proceedings%20Author%20Guidelines.pdf" rel="documentation"/>
+    <author>
+      <name>Tiffany Chua</name>
+      <email>tchua@uci.edu</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <updated>2013-04-14T18:43:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

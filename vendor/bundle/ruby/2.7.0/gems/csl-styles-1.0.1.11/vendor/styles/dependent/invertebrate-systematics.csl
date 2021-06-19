@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/csiro -->
+  <info>
+    <title>Invertebrate Systematics</title>
+    <id>http://www.zotero.org/styles/invertebrate-systematics</id>
+    <link href="http://www.zotero.org/styles/invertebrate-systematics" rel="self"/>
+    <link href="http://www.zotero.org/styles/emu-austral-ornithology" rel="independent-parent"/>
+    <link href="http://www.publish.csiro.au/nid/123/aid/428.htm#6" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1445-5226</issn>
+    <eissn>1447-2600</eissn>
+    <updated>2014-11-29T18:06:17+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

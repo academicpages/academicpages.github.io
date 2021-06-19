@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Spandidos Publications</title>
+    <id>http://www.zotero.org/styles/spandidos-publications</id>
+    <link href="http://www.zotero.org/styles/spandidos-publications" rel="self"/>
+    <link href="http://www.zotero.org/styles/avian-diseases" rel="template"/>
+    <link href="http://www.spandidos-publications.com/pages/info_for_authors" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <updated>2013-12-13T06:29:55+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " initialize-with="" and="text" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="never"/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with="" and="text" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="never"/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," prefix="(" suffix=")">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush" et-al-min="8" et-al-use-first="3">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=": " suffix=".">
+        <text macro="author"/>
+        <text variable="title"/>
+      </group>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group suffix=".">
+            <text macro="edition" prefix=" "/>
+            <text macro="editor" prefix=" (" suffix=")"/>
+          </group>
+          <text prefix=" " macro="publisher"/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=". " prefix=" ">
+            <group delimiter=": ">
+              <text term="in" text-case="capitalize-first"/>
+              <group delimiter=", ">
+                <text variable="container-title" form="long" font-style="normal"/>
+                <text macro="edition"/>
+              </group>
+            </group>
+            <group delimiter=", ">
+              <group delimiter=" ">
+                <text variable="volume" form="long" prefix="vol. "/>
+                <text macro="editor"/>
+                <text macro="publisher"/>
+              </group>
+              <group delimiter="">
+                <label variable="page" form="short" strip-periods="true"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=": " prefix=" ">
+            <group delimiter=" ">
+              <text variable="container-title" form="short" strip-periods="true"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+      <date variable="issued" prefix=", ">
+        <date-part name="year"/>
+      </date>
+    </layout>
+  </bibliography>
+</style>

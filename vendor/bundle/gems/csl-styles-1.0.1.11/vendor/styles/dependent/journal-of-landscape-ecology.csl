@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Landscape Ecology</title>
+    <id>http://www.zotero.org/styles/journal-of-landscape-ecology</id>
+    <link href="http://www.zotero.org/styles/journal-of-landscape-ecology" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://www.journaloflandscapeecology.cz/index.php?page=guide" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1803-2427</issn>
+    <eissn>1805-4196</eissn>
+    <summary>Journal of Landscape Ecology is a fully reviewed scientific journal published by Czech National Chapter of the Association for Landscape Ecology</summary>
+    <updated>2017-12-24T03:48:59+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

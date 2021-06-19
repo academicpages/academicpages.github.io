@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Clinical Anatomy</title>
+    <id>http://www.zotero.org/styles/clinical-anatomy</id>
+    <link href="http://www.zotero.org/styles/clinical-anatomy" rel="self"/>
+    <link href="http://www.zotero.org/styles/human-mutation" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2353/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="medicine"/>
+    <issn>0897-3806</issn>
+    <eissn>1098-2353</eissn>
+    <updated>2017-09-04T20:45:05+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " delimiter=", " initialize-with=""/>
+      <label prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with=""/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <group delimiter=" ">
+      <number variable="edition" form="ordinal"/>
+      <label text-case="capitalize-first" variable="edition" form="short"/>
+    </group>
+  </macro>
+  <citation disambiguate-add-year-suffix="true" et-al-min="3" et-al-use-first="1" collapse="year">
+    <sort>
+      <key macro="issued"/>
+      <key macro="author-short"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="13" et-al-use-first="12">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author" suffix="."/>
+        <text macro="issued" suffix="."/>
+        <choose>
+          <if type="book">
+            <text variable="title" suffix="." text-case="title"/>
+            <text macro="edition"/>
+            <group delimiter=": " suffix=".">
+              <text variable="publisher-place"/>
+              <text variable="publisher"/>
+            </group>
+            <group delimiter=" ">
+              <text variable="number-of-pages"/>
+              <label plural="never" strip-periods="true" variable="page" form="short"/>
+            </group>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <text variable="title" suffix="."/>
+            <text term="in" text-case="capitalize-first" suffix=":"/>
+            <text macro="editor" suffix="."/>
+            <text variable="container-title" suffix="," text-case="title"/>
+            <text macro="edition"/>
+            <group delimiter=": " suffix=",">
+              <text variable="publisher-place"/>
+              <text variable="publisher"/>
+            </group>
+            <group delimiter=" ">
+              <label plural="never" strip-periods="true" variable="page" form="short"/>
+              <text variable="page"/>
+            </group>
+          </else-if>
+          <else-if type="article article-journal" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" form="short" strip-periods="true"/>
+            <group delimiter=":">
+              <text variable="volume"/>
+              <text variable="page"/>
+            </group>
+          </else-if>
+          <else-if type="webpage post-weblog" match="any">
+            <group delimiter=". ">
+              <text variable="title"/>
+              <text variable="container-title"/>
+              <group delimiter=" ">
+                <text variable="URL" prefix="URL: "/>
+                <group delimiter=" " prefix="[" suffix="]">
+                  <text term="accessed"/>
+                  <date date-parts="year-month" form="text" variable="accessed"/>
+                </group>
+              </group>
+            </group>
+          </else-if>
+          <else>
+            <text variable="container-title"/>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

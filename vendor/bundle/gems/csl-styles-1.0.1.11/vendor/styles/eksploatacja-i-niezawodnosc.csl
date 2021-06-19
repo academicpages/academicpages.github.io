@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Eksploatacja i Niezawodność (Maintenance and Reliability) (English)</title>
+    <id>http://www.zotero.org/styles/eksploatacja-i-niezawodnosc</id>
+    <link href="http://www.zotero.org/styles/eksploatacja-i-niezawodnosc" rel="self"/>
+    <link href="http://www.zotero.org/styles/annals-of-oncology" rel="template"/>
+    <link href="http://www.ein.org.pl/en-information_for_authors" rel="documentation"/>
+    <author>
+      <name>Łukasz Breńkacz</name>
+      <email>brenkacz@gmail.com</email>
+      <uri>www.brenkacz.com</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>1507-2711</issn>
+    <updated>2020-05-22T03:32:56+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="editor" form="short">
+        <single>ed</single>
+        <multiple>eds</multiple>
+      </term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name delimiter-precedes-last="always" initialize-with=" " name-as-sort-order="all" sort-separator=" "/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" prefix=" In " suffix=": ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always" et-al-min="5" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place" suffix=", "/>
+    <text variable="publisher" suffix=": "/>
+  </macro>
+  <macro name="container-title">
+    <text variable="container-title" vertical-align="baseline"/>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" suffix=". "/>
+      </if>
+      <else>
+        <text variable="title" suffix=". "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="volume">
+    <text variable="volume"/>
+    <text variable="issue" prefix="(" suffix=")"/>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="long" suffix="."/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="author"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="5" et-al-use-first="3" delimiter-precedes-et-al="never" second-field-align="flush">
+    <sort>
+      <key variable="author"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <choose>
+        <if type="webpage">
+          <text macro="title"/>
+          <text variable="URL" prefix=" [" suffix="]"/>
+        </if>
+        <else>
+          <text macro="author"/>
+          <text macro="title"/>
+          <choose>
+            <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+              <group delimiter=" ">
+                <text macro="edition"/>
+                <text macro="publisher"/>
+              </group>
+            </if>
+            <else-if type="chapter paper-conference" match="any">
+              <text macro="editor"/>
+              <text macro="container-title" suffix=", "/>
+              <group delimiter=" ">
+                <text macro="edition" suffix="."/>
+                <text macro="publisher"/>
+              </group>
+            </else-if>
+            <else>
+              <text macro="container-title" suffix=" "/>
+            </else>
+          </choose>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+          <choose>
+            <if variable="page">
+              <text macro="volume" prefix="; "/>
+              <text variable="page" prefix=": "/>
+            </if>
+            <else>
+              <text variable="DOI" prefix=". doi:"/>
+            </else>
+          </choose>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

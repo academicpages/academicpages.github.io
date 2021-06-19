@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>Behavioral Ecology</title>
+    <id>http://www.zotero.org/styles/behavioral-ecology</id>
+    <link href="http://www.zotero.org/styles/behavioral-ecology" rel="self"/>
+    <link href="http://www.zotero.org/styles/council-of-science-editors-author-date" rel="independent-parent"/>
+    <link href="http://www.oxfordjournals.org/our_journals/beheco/for_authors/general.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1045-2249</issn>
+    <eissn>1465-7279</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

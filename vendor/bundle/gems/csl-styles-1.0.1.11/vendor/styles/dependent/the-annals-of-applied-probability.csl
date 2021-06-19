@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Institute of Mathematical Statistics, generated from "ims" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>The Annals of Applied Probability</title>
+    <id>http://www.zotero.org/styles/the-annals-of-applied-probability</id>
+    <link href="http://www.zotero.org/styles/the-annals-of-applied-probability" rel="self"/>
+    <link href="http://www.zotero.org/styles/institute-of-mathematical-statistics" rel="independent-parent"/>
+    <link href="https://imstat.org/journals-and-publications/annals-of-applied-probability/" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="math"/>
+    <issn>1050-5164</issn>
+    <eissn>2168-8737</eissn>
+    <updated>2020-01-13T22:52:56+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

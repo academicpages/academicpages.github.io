@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="fr-CA">
+  <info>
+    <title>LexisNexis Québec (Guide Lluelles, no Ibid., French - Canada)</title>
+    <title-short>LexisNexis Québec</title-short>
+    <id>http://www.zotero.org/styles/lluelles-lexisnexis</id>
+    <link href="http://www.zotero.org/styles/lluelles-lexisnexis" rel="self"/>
+    <link href="http://www.zotero.org/styles/lluelles-no-ibid" rel="independent-parent"/>
+    <link href="http://f-mb.github.io/cslegal/" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <summary>Ce style est adapté aux règles de rédaction des publications québécoises en langue française de LexisNexis Canada : notes complètes, sans Ibid., basé sur la 7e édition du Guide des références pour la rédaction juridique (Guide Lluelles), et sur lluelles.csl et lluelles-noibid.csl.</summary>
+    <updated>2015-12-16T04:06:37+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="de-DE">
+  <info>
+    <title>Kommunikation und Recht (German)</title>
+    <title-short>K&amp;R</title-short>
+    <id>http://www.zotero.org/styles/kommunikation-und-recht</id>
+    <link href="http://www.zotero.org/styles/kommunikation-und-recht" rel="self"/>
+    <link href="http://www.zotero.org/styles/neue-juristische-wochenschrift" rel="template"/>
+    <link href="http://online.ruw.de/news/media/1/Autorenhinweise-KR-Aufstze-6032.pdf" rel="documentation"/>
+    <link href="http://online.ruw.de/news/media/1/Autorenhinweise-KR-Rechtsprechungskommentar-6136.pdf" rel="documentation"/>
+    <author>
+      <name>Reto Mantz</name>
+    </author>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <issn>1434-6354</issn>
+    <summary>Kommunikation und Recht
+    Style for articles in German law journal K&amp;R
+    - based on style Neue Juristische Wochenschrift (NJW) http://www.zotero.org/styles/neue-juristische-wochenschrift
+    - Commentaries and handbooks should use publication type "entry-encyclopedia". See details for different citations below.
+    - If a book or entry-encyclopedia is cited for the 2nd time (or more), "title and edition" are substituted by (Fn. ...)
+      (see footnote ...)
+    - see more details below in the comments</summary>
+    <updated>2016-02-25T04:55:40+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- set date to format 8. 8. 2014 -->
+  <locale xmlns="http://purl.org/net/xbiblio/csl" xml:lang="de-DE">
+    <date form="numeric">
+      <date-part name="day" form="numeric" suffix=". "/>
+      <date-part name="month" form="numeric" suffix=". "/>
+      <date-part name="year"/>
+    </date>
+  </locale>
+  <macro name="author">
+    <names variable="author" font-style="italic">
+      <name delimiter="/ " name-as-sort-order="all" sort-separator=", " form="long"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-note">
+    <names variable="author" font-style="italic">
+      <name form="short" delimiter="/" name-as-sort-order="all"/>
+    </names>
+  </macro>
+  <macro name="author-commentary">
+    <choose>
+      <if variable="collection-editor">
+        <names variable="collection-editor">
+          <name form="short" delimiter="/" name-as-sort-order="all"/>
+        </names>
+      </if>
+      <else>
+        <names variable="author editor">
+          <name form="short" delimiter="/" name-as-sort-order="all"/>
+        </names>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author-chapter">
+    <names variable="container-author">
+      <name delimiter="/ " name-as-sort-order="all" sort-separator=", " form="short"/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="locator-with-label">
+    <group delimiter=" ">
+      <label variable="locator" form="symbol"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <macro name="autor-editor-note">
+    <names variable="author" font-style="italic">
+      <name form="short" delimiter="/" sort-separator=""/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="journalname-year">
+    <group delimiter=" ">
+      <text variable="container-title-short"/>
+      <date date-parts="year" form="text" variable="issued"/>
+    </group>
+  </macro>
+  <macro name="firstpage-locator">
+    <text variable="page-first"/>
+    <text variable="locator" prefix=", "/>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if match="any" is-numeric="edition">
+        <group delimiter=" ">
+          <number vertical-align="baseline" suffix=" " variable="edition" form="ordinal"/>
+          <text term="edition" form="short" suffix="."/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" form="short"/>
+      </else>
+    </choose>
+    <date date-parts="year" form="text" variable="issued" prefix=" "/>
+  </macro>
+  <citation et-al-min="5" et-al-use-first="1">
+    <layout delimiter="; ">
+      <choose>
+        <!-- Journal article
+             Style: <authors italic>, <journalname short> <journal-year>, <first-page>, <locator/cited page(s)>    
+        -->
+        <if type="article-journal">
+          <group delimiter=", ">
+            <text macro="author-note"/>
+            <text macro="journalname-year"/>
+            <text macro="firstpage-locator"/>
+          </group>
+        </if>
+        <else-if type="article-newspaper">
+          <text macro="author-note" suffix=", "/>
+          <text variable="container-title" suffix=", "/>
+          <date form="numeric" variable="issued"/>
+          <text variable="URL" prefix=", "/>
+        </else-if>
+        <!-- Book
+             Style: <authors italic>, <title short>, [<edition>. Aufl. ]<year>, <locator/cited page(s)>
+             examples:
+              Medicus, Bürgerliches Recht, 24. Aufl. 2013, 145
+              Medicus (Fn. 13), Rn. 146
+        -->
+        <else-if type="book">
+          <text macro="autor-editor-note"/>
+          <choose>
+            <if match="any" position="subsequent">
+              <text value="Fn." prefix=" (" suffix=" "/>
+              <text variable="first-reference-note-number" suffix="), "/>
+            </if>
+            <else>
+              <text variable="title" form="short" prefix=", " suffix=", "/>
+              <text macro="edition"/>
+            </else>
+          </choose>
+          <text variable="locator" prefix=", "/>
+        </else-if>
+        <!-- Legal commentary or handbook should be of publication type "entry-encyclopedia"
+        - The term "Bearbeiter" (author of a certain chapter) in the following examples should be added by you and is not governed by this stylesheet
+        - examples:
+          - 
+          - Heinrichs, in: Palandt (Fn. 11), § 164 Rn. 9
+        
+        Style:
+        - if container-title (=Zotero.encyclopediaTitle) is NOT set: <editor non-italic>, <title short>, [<edition>. Aufl. ]<year>, <locator/cited page(s)>
+        -.- i.e. Bearbeiter, in: Palandt, BGB, 73. Aufl. 2014, § 164 Rn. 8 (where you should add "Bearbeiter, in: " yourself)
+        - else <container-title>, [<edition>. Aufl. ]<year>, <locator/cited page(s)>
+        -.- i.e. Bearbeiter, in: BeckTKG, 4. Auflage 2013, ... (where you should add "Bearbeiter, in: " yourself)
+        
+        if there is at least one series-editor (CSL.collection-editor) set: <collection-editor>, [<edition>. Aufl. ]<year>, <locator/cited page(s)> 
+        -.- i.e. Bearbeiter, in: Palandt, BGB, 73. Aufl. 2014, ... (where you should add "Bearbeiter, in: " yourself)
+        -->
+        <else-if type="entry-encyclopedia">
+          <choose>
+            <if variable="container-title">
+              <text variable="container-title" suffix=", "/>
+            </if>
+            <else>
+              <text macro="author-commentary" suffix=", "/>
+              <choose>
+                <if match="any" position="subsequent">
+                  <text value="Fn." prefix=" (" suffix=" "/>
+                  <text variable="first-reference-note-number" suffix="), "/>
+                </if>
+                <else>
+                  <text variable="title" suffix=", " form="short"/>
+                </else>
+              </choose>
+            </else>
+          </choose>
+          <choose>
+            <if match="any" position="first">
+              <text macro="edition"/>
+            </if>
+          </choose>
+          <text variable="locator" prefix=", "/>
+        </else-if>
+        <!-- Chapter
+        Style: <author italic>, in: <book-author>, <title short>, [<edition>. Aufl.] <year>, <page> (<locator>)
+        e.g.: Mantz, in: Spindler, Rechtliche Rahmenbedingungen von Open Access-Publikationen, 2006, 55 (57)
+        -->
+        <else-if type="chapter">
+          <text macro="autor-editor-note" suffix=", in: "/>
+          <text macro="author-chapter" suffix=", "/>
+          <text variable="container-title" suffix=", "/>
+          <text macro="edition"/>
+          <text macro="firstpage-locator" prefix=", "/>
+        </else-if>
+        <!-- Legal case
+        Style:  <court>, <date-decided> <en-dash> <docketnumber>[, <journal> <journal-year>, <first-page>[, <locator]] [ <en-dash> <case name>]  
+        example: BGH, 1. 4. 2004 &#8211; I ZR 317/01, K&R 2004, 388, 398 &#8211; Schöner Wetten
+        -->
+        <else-if type="legal_case" match="any">
+          <text variable="authority" suffix=", "/>
+          <date form="numeric" variable="issued" suffix=" &#8211; "/>
+          <text variable="number"/>
+          <choose>
+            <!-- is case published in a journal? -->
+            <if variable="container-title">
+              <text variable="container-title" form="short" prefix=", " suffix=" "/>
+              <text variable="volume" suffix=", "/>
+              <text macro="firstpage-locator"/>
+            </if>
+          </choose>
+          <choose>
+            <if variable="title-short">
+              <text variable="title-short" prefix=" &#8211; "/>
+            </if>
+          </choose>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="author-note"/>
+            <text variable="title"/>
+            <text macro="locator-with-label"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout>
+      <choose>
+        <if type="article-journal">
+          <group delimiter=", ">
+            <text macro="author-note"/>
+            <text variable="title"/>
+            <text macro="journalname-year"/>
+            <text macro="firstpage-locator"/>
+          </group>
+        </if>
+        <else-if type="book">
+          <text macro="autor-editor-note" suffix=", "/>
+          <text variable="title" form="short" suffix=", "/>
+          <text macro="edition"/>
+          <text variable="locator"/>
+        </else-if>
+        <else-if type="article-newspaper">
+          <text macro="author-note" suffix=", "/>
+          <text variable="title"/>
+          <text variable="container-title" prefix=", "/>
+          <date form="numeric" variable="issued" prefix=" v. "/>
+          <text variable="URL" prefix=", "/>
+        </else-if>
+        <else-if type="entry-encyclopedia">
+          <choose>
+            <if variable="container-title">
+              <text variable="container-title" suffix=", "/>
+            </if>
+            <else>
+              <text macro="author-commentary" suffix=", "/>
+              <text variable="title" suffix=", "/>
+            </else>
+          </choose>
+          <text macro="edition"/>
+          <text variable="locator"/>
+        </else-if>
+        <else-if type="chapter">
+          <text macro="autor-editor-note" suffix=", in: "/>
+          <text macro="author-chapter" suffix=", "/>
+          <text variable="container-title" suffix=", "/>
+          <text macro="edition"/>
+          <text variable="page-first" prefix=", "/>
+        </else-if>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

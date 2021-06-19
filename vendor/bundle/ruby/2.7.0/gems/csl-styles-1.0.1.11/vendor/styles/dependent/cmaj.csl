@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>CMAJ (Canadian Medical Association Journal)</title>
+    <title-short>CMAJ</title-short>
+    <id>http://www.zotero.org/styles/cmaj</id>
+    <link href="http://www.zotero.org/styles/cmaj" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://www.cmaj.ca/site/authors/preparing.xhtml" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0820-3946</issn>
+    <eissn>1488-2329</eissn>
+    <updated>2013-03-31T16:27:04+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

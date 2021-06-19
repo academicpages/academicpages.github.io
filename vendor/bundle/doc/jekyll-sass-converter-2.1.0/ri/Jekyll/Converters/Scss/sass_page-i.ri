@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"sass_page:ETI"'Jekyll::Converters::Scss#sass_page;TI"R;T:privateo:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"AThe Page instance for which this object acts as a converter.;T:
+@fileI""lib/jekyll/converters/scss.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Jekyll::Converters::Scss;TcRDoc::NormalClass0

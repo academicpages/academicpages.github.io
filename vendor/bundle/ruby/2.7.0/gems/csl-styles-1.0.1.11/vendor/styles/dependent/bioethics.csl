@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="en-GB">
+  <info>
+    <title>Bioethics</title>
+    <id>http://www.zotero.org/styles/bioethics</id>
+    <link href="http://www.zotero.org/styles/bioethics" rel="self"/>
+    <link href="http://www.zotero.org/styles/developing-world-bioethics" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8519/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="note"/>
+    <category field="anthropology"/>
+    <issn>0269-9702</issn>
+    <eissn>1467-8519</eissn>
+    <updated>2019-11-07T04:51:24+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

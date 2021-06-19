@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="de-DE">
+  <!--
+================================================================================
+INFORMATIONEN ZUM ZITIERSTIL
+================================================================================
+-->
+  <info>
+    <title>Sascha Foerster - Geisteswissenschaft (German)</title>
+    <title-short>zoteroSF</title-short>
+    <id>http://www.zotero.org/styles/foerster-geisteswissenschaft</id>
+    <link href="http://www.zotero.org/styles/foerster-geisteswissenschaft" rel="self"/>
+    <link href="http://www.zotero.org/styles/geistes-und-kulturwissenschaften-heilmann" rel="template"/>
+    <link href="http://zotero.saschafoerster.de/dokumentation/" rel="documentation"/>
+    <author>
+      <name>Sascha Foerster</name>
+      <email>email@saschafoerster.de</email>
+      <uri>http://www.saschafoerster.de</uri>
+    </author>
+    <contributor>
+      <name>Till A. Heilmann</name>
+      <email>mail@tillheilmann.info</email>
+      <uri>http://www.tillheilmann.info</uri>
+    </contributor>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <category field="generic-base"/>
+    <summary>German generic-base style for humanities. Citations in notes; full bibliography.</summary>
+    <published>2012-05-28T14:00:00+00:00</published>
+    <updated>2015-03-19T02:36:13+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!--
+================================================================================
+Changelog
+================================================================================
+ 
+2015-02-15: 
+- Unterstützung für die Typen "Dissertation" (thesis), "Dokument" (article) und "Manuskript" (manuscript)
+- Kurztitel wird verwendet, wenn vorhanden. Dadurch wird auch die Option zum Benutzen der Medline-Zeitschriftkürzel in den Pref Doc Settings eingeblendet. Wer den Langtitel nutzen möchte, muss die Kurztitel aus der Datenbank entfernen.
+- Zusätzlich zu Webseiten und Dissertation wird jetzt auch bei Magazin-, Zeitungs- und Journal-Artikel  die URL, wenn vorhanden, angezeigt.
+ - Duplikate in den Sprachdateien entfernt
+ 
+================================================================================
+ÜBERSETZUNGEN
+================================================================================
+-->
+  <locale xml:lang="de">
+    <terms>
+      <!-- Begriffe -->
+      <term name="accessed">abgerufen am</term>
+      <!-- Rollenverben, Kurzform -->
+      <term name="editor" form="verb-short">hrsg. v.</term>
+      <term name="editorial-director" form="verb-short">hrsg. v.</term>
+      <term name="editortranslator" form="verb-short">hrsg. &amp; übers. v.</term>
+      <!-- Wenn ein Bindestrich statt eines Halbgeviertstrichs (bis-Strich, english "en dash") bei den Seitenangaben gewünscht ist, folgende Zeile in die Zeile vor diesen Kommentar kopieren:
+      <term name="page-range-delimiter">-</term>
+      -->
+    </terms>
+  </locale>
+  <!--
+================================================================================
+MAKROS (Elemente für das Zitat)
+===============================================================================
+-->
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+VERTEILUNG DER NAMEN AUF DIE MAKROS
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ 
+* "author"
+1. im Makro "contributors" (als Autor des Titels)
+-  in jedem Fall
+ 
+* "editor"
+1. im Makro "contributors" (als Herausgeber des Titels, vorangestellt)
+-  bei Typ "book" und falls Variable "author" fehlt
+2. im Makro "secondary-contributors" (als Herausgeber des Titels, nachgestellt)
+-  bei Typ "book" und falls Variable "author" vorhanden
+3. im Makro "container-contributors" (als Herausgeber des Containers, vorangestellt)
+-  bei Typ "chapter" (und "article"?) und falls Variable "container-author" fehlt
+4. im Makro "secondary-container-contributors" (als Herausgeber des Containers, nachgestellt)
+-  bei Typ "chapter" (und "article"?) und falls Variable "container-author" vorhanden
+ 
+* "translator"
+1. im Makro "secondary-contributors" (als Übersetzer des Titels, nachgestellt)
+-  in jedem Fall
+ 
+* "container-author"
+1. im Makro "container-contributors" (als Autor des Containers, vorangestellt)
+-  in jedem Fall
+ 
+* "collection-editor"
+1. im Makro "secondary-collection-contributor"
+-  in jedem Fall
+ 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+UNTERSCHEIDUNG DER NAMEN IN DEN MAKROS
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ 
+* "contributors"
+a) mit Name "author" (in jedem Fall)
+   oder
+b) mit Name "editor" (bei Typ "book" und falls Variable "author" fehlt)
+ 
+* "secondary-contributors"
+a) mit Name "translator" (in jedem Fall)
+   und/oder
+b) mit Name "editor" (bei Typ "book" und falls Variable "author" vorhanden)
+ 
+* "container-contributors"
+a) mit Name "container-author" (in jedem Fall)
+   oder
+b) "editor" (bei Typ "chapter" (und "article"?) und falls Variable "container-author" fehlt)
+ 
+* "secondary-container-contributors"
+a) mit Name "editor" (bei Typ "chapter" (und "article"?) und falls Variable "container-author" vorhanden)
+ 
+* "secondary-collection-contributors"
+a) mit Name "collection-editor" (in jedem Fall)
+-->
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+1. TITEL-BEITRAGENDE IN LANGFORM
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <!-- (für die erste Nennung in den Nachweisen und den Eintrag
+       im Literaturverzeichnis) -->
+  <macro name="contributors-long">
+    <choose>
+      <!-- Wenn Autoren vorhanden sind, sind diese die 1. Titel-Beitragenden. -->
+      <if variable="author">
+        <names variable="author">
+          <!-- Erster Autor mit vorangestelltem Nachnamen, alle folgenden in
+	  gewöhnlicher Ordnung, mehrere Autoren durch Komma getrennt,
+	  der letztgenannte durch "und" abgetrennt. -->
+          <name name-as-sort-order="first" and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never">
+            <name-part name="family" font-variant="small-caps"/>
+          </name>
+          <et-al term="et-al"/>
+        </names>
+      </if>
+      <!-- Wenn keine Autoren vorhanden sind, sind bei Büchern
+	   die Herausgeber die 1. Titel-Beitragenden. -->
+      <else>
+        <choose>
+          <if type="bill book graphic legal_case motion_picture report song" match="any">
+            <names variable="editor">
+              <!-- Erster Herausgeber mit vorangestelltem Nachnamen, alle
+		   folgenden in gewöhnlicher Ordnung, mehrere Herausgeber
+		   durch Komma getrennt, der letztgenannte durch "und"
+		   abgetrennt. -->
+              <name name-as-sort-order="first" and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never">
+                <name-part name="family" font-variant="small-caps"/>
+              </name>
+              <et-al term="et-al"/>
+              <!-- Bezeichnung geklammert, in Kurzform und nachgestellt
+		   ("(Hrsg.)"). -->
+              <label form="short" prefix=" (" suffix=")"/>
+              <!-- Fehlen die Herausgeber, so werden sie durch ??? ersetzt.
+		   <substitute>
+		   <names variable="translator"/>
+		   <text variable="title"/>
+		   </substitute> -->
+            </names>
+          </if>
+          <!-- Für alle anderen Fälle gilt: ???
+	       <else>
+	       </else>  -->
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+1. TITEL-BEITRAGENDE IN KURZFORM
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <!-- (für die zweite und alle folgenden Nennungen in den Nachweisen) -->
+  <macro name="contributors-short">
+    <choose>
+      <!-- Wenn Autoren vorhanden sind, sind diese die 1. Titel-Beitragenden. -->
+      <if variable="author">
+        <names variable="author">
+          <!-- Autoren nur mit Nachnamen geführt, mehrere Autoren durch
+	       Schrägstriche getrennt. -->
+          <name form="short" name-as-sort-order="first" sort-separator="/" delimiter="/" delimiter-precedes-last="always">
+            <name-part name="family" font-variant="small-caps"/>
+          </name>
+          <et-al term="et-al"/>
+        </names>
+      </if>
+      <!-- Wenn keine Autoren vorhanden sind, sind bei Büchern
+	   die Herausgeber die 1. Titel-Beitragenden. -->
+      <else>
+        <choose>
+          <if type="bill book graphic legal_case motion_picture report song" match="any">
+            <names variable="editor">
+              <!-- Herausgeber nur mit Nachnamen geführt, mehrere Herausgeber
+		   durch Schrägstriche getrennt. -->
+              <name form="short" name-as-sort-order="first" sort-separator="/" delimiter="/" delimiter-precedes-last="always">
+                <name-part name="family" font-variant="small-caps"/>
+              </name>
+              <et-al term="et-al"/>
+              <!-- Bezeichnung geklammert, in Kurzform und nachgestellt
+		   ("(Hrsg.)"). -->
+              <label form="short" prefix=" (" suffix=")"/>
+              <!-- Fehlen die Herausgeber, so werden sie durch ?? ersetzt.
+		   <substitute>
+		   <names variable="translator"/>
+		   <text variable="title"/>
+		   </substitute> -->
+            </names>
+          </if>
+          <!-- Für alle anderen Fälle gilt: ??.
+	       <else>
+	       </else>  -->
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2. TITEL-BEITRAGENDE
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="secondary-contributors">
+    <choose>
+      <!-- Wenn Autoren vorhanden sind, sind bei Büchern die Herausgeber
+	   und/oder Übersetzer die 2. Titel-Beitragenden. -->
+      <if type="bill book graphic legal_case motion_picture report song" match="any">
+        <choose>
+          <if variable="author" match="all">
+            <names variable="editor translator" delimiter=", ">
+              <!-- Bezeichnung in Kurzform ("hg. v.", "übers. v."). -->
+              <label form="verb-short" text-case="lowercase" suffix=". " strip-periods="false"/>
+              <!-- Mehrere Herausgeber und/oder Übersetzer durch Komma getrennt,
+	  der letztgenannte durch "und" abgetrennt. -->
+              <name and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never">
+                <name-part name="family" font-variant="small-caps"/>
+              </name>
+              <et-al term="et-al"/>
+              <!-- Fehlen diese, so werden sie durch ?? ersetzt.
+	       <substitute>
+	       <names variable="translator"/>
+	       <text variable="title"/>
+	       </substitute> -->
+            </names>
+          </if>
+        </choose>
+      </if>
+      <!-- Für alle anderen Fälle gilt: ??.
+	   <else>
+	   </else>  -->
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+1. CONTAINER-BEITRAGENDE
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="container-contributors">
+    <choose>
+      <!-- Wenn Container-Autoren vorhanden sind, sind diese
+	   die 1. Container-Beitragenden. -->
+      <if variable="container-author">
+        <names variable="container-author">
+          <!-- Erster Autor mit vorangestelltem Nachnamen, alle folgenden in
+	  gewöhnlicher Ordnung, mehrere Autoren durch Komma getrennt,
+	  der letztgenannte durch "und" abgetrennt. -->
+          <name name-as-sort-order="first" and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never">
+            <name-part name="family" font-variant="small-caps"/>
+          </name>
+          <et-al term="et-al"/>
+        </names>
+      </if>
+      <!-- Wenn keine Container-Autoren vorhanden sind, sind bei Artikeln
+	   die Herausgeber die 1. Container-Beitragenden. -->
+      <else>
+        <choose>
+          <if type="chapter paper-conference entry-encyclopedia" match="any">
+            <names variable="editor">
+              <!-- Erster Herausgeber mit vorangestelltem Nachnamen, alle
+		   folgenden in gewöhnlicher Ordnung, mehrere Herausgeber
+		   durch Komma getrennt, der letztgenannte durch "und"
+		   abgetrennt. -->
+              <name name-as-sort-order="first" and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never">
+                <name-part name="family" font-variant="small-caps"/>
+              </name>
+              <et-al term="et-al"/>
+              <!-- Bezeichnung geklammert, in Kurzform und nachgestellt
+		   ("(Hrsg.)"). -->
+              <label form="short" prefix=" (" suffix=")"/>
+              <!-- Fehlen diese, so werden sie durch ?? ersetzt.
+		   <substitute>
+		   <names variable="translator"/>
+		   <text variable="title"/>
+		   </substitute> -->
+            </names>
+          </if>
+          <!-- Für alle anderen Fälle gilt: ??.
+	       <else>
+	       </else>  -->
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2. CONTAINER-BEITRAGENDE
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="secondary-container-contributors">
+    <choose>
+      <!-- Wenn Container-Autoren vorhanden sind, sind bei Artikeln
+	   die Herausgeber die 2. Container-Beitragenden. -->
+      <if type="chapter paper-conference entry-encyclopedia" match="any">
+        <choose>
+          <if variable="container-author" match="all">
+            <names variable="editor">
+              <!-- Bezeichnung in Kurzform ("hg. v."). -->
+              <label form="verb-short" text-case="lowercase" suffix=". " strip-periods="false"/>
+              <!-- Mehrere Herausgeber durch Komma getrennt, der letztgenannte
+	       durch "und" abgetrennt. -->
+              <name and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never">
+                <name-part name="family" font-variant="small-caps"/>
+              </name>
+              <et-al term="et-al"/>
+              <!-- Fehlen diese, so werden sie durch ?? ersetzt.
+	       <substitute>
+	       <names variable="translator"/>
+	       <text variable="title"/>
+	       </substitute> -->
+            </names>
+            <!-- Für alle anderen Fälle gilt: ??.
+	     <else>
+	     </else>  -->
+          </if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2. REIHEN-BEITRAGENDE
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="secondary-collection-contributors">
+    <names variable="collection-editor">
+      <!-- Mehrere Reihen-Herausgeber durch Komma getrennt, der letztgenannte
+	   durch "und" abgetrennt. -->
+      <name and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never">
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+      <et-al term="et-al"/>
+    </names>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+TITEL IN LANGFORM
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="title-long">
+    <group delimiter=", ">
+      <choose>
+        <!-- Buchtitel werden ohne weitere Auszeichnung,... -->
+        <if type="bill book graphic legal_case motion_picture report song" match="any">
+          <text variable="title" form="long" font-style="italic"/>
+        </if>
+        <!-- ...alle anderen Titel in Anführungszeichen ausgegeben. -->
+        <else>
+          <text variable="title" form="long" font-style="italic" quotes="true"/>
+        </else>
+      </choose>
+      <choose>
+        <!-- Bei Büchern... -->
+        <if type="bill book graphic legal_case motion_picture report song" match="any">
+          <!-- ...wird ggf. der Band ausgegeben. -->
+          <choose>
+            <if variable="volume">
+              <group>
+                <text term="volume" form="short" suffix=".&#160;" strip-periods="true"/>
+                <number variable="volume"/>
+              </group>
+            </if>
+          </choose>
+        </if>
+      </choose>
+      <!-- 2. Titel-Beitragende -->
+      <text macro="secondary-contributors"/>
+    </group>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+TITEL IN KURZFORM
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="title-short">
+    <group delimiter=", ">
+      <choose>
+        <!-- Buchtitel werden ohne weitere Auszeichnung,... -->
+        <if type="bill book graphic legal_case motion_picture report song" match="any">
+          <text variable="title" form="short" font-style="italic"/>
+        </if>
+        <!-- ...alle anderen Titel in Anführungszeichen ausgegeben. -->
+        <else>
+          <text variable="title" form="short" quotes="true" font-style="italic"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CONTAINER (Sammelband oder Zeitschrift ...)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="container">
+    <choose>
+      <!-- Für Beiträge in Sammelbänden gilt: -->
+      <if type="chapter paper-conference entry-encyclopedia" match="any">
+        <choose>
+          <!-- Falls 1. Container-Beitragende vorhanden sind,
+	       werden sie mit vorangestelltem "in: " ausgegeben -->
+          <if variable="container-author editor" match="any">
+            <text term="in" suffix=": "/>
+          </if>
+        </choose>
+        <!-- 1. Container-Beitragende -->
+        <text macro="container-contributors" suffix=": "/>
+        <!-- Container-Titel -->
+        <text variable="container-title" form="short" font-style="italic"/>
+        <!-- Ggf. wird der Band ausgegeben. -->
+        <choose>
+          <if variable="volume">
+            <text term="volume" form="short" prefix=", " suffix=".&#160;" strip-periods="true"/>
+            <text variable="volume"/>
+          </if>
+        </choose>
+        <!-- 2. Container-Beitragende -->
+        <text macro="secondary-container-contributors" prefix=", "/>
+      </if>
+      <!-- Für Artikel gilt: -->
+      <else-if type="article-journal article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis article webpage" match="any">
+        <!-- Container-Titel -->
+        <text variable="container-title" form="short" font-style="italic" prefix="in: " suffix=" "/>
+      </else-if>
+      <!-- Für alle anderen Fälle gilt: ???
+	   <else>
+	   </else> -->
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+REIHE
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="collection">
+    <!-- Name der Reihe -->
+    <text variable="collection-title"/>
+    <choose>
+      <!-- Reihennummer -->
+      <!-- Falls die Reihennummer eine Zahl ist, wird sie
+	   ohne vorangestelltes Komma ausgeben, ... -->
+      <if is-numeric="collection-number">
+        <text variable="collection-number" prefix=" "/>
+      </if>
+      <!-- ... ansonsten mit. -->
+      <else>
+        <text variable="collection-number" prefix=", "/>
+      </else>
+    </choose>
+    <choose>
+      <if variable="collection-editor">
+        <!-- Bezeichnung der Reihenbeitragenden in Kurzform ("hg. v.") -->
+        <text term="editor" form="verb-short" text-case="lowercase" prefix=", " suffix="." strip-periods="false"/>
+        <!-- Reihen-Beitragende -->
+        <text macro="secondary-collection-contributors" prefix=" "/>
+      </if>
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+AUFLAGE
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="edition">
+    <choose>
+      <!-- Falls die Auflage eine Zahl ist, wird sie numerisch ausgegeben und
+	   mit einem Punkt abgeschlossen (z. B. "1. Aufl."), ... -->
+      <if is-numeric="edition">
+        <number variable="edition" form="ordinal"/>
+        <text term="edition" form="short" prefix=" "/>
+      </if>
+      <!-- ... ansonsten wird sie als Text ausgegeben und ohne Punkt
+	   abgeschlossen (z.B. "erste Aufl.").  -->
+      <else-if variable="edition">
+        <text variable="edition"/>
+        <text term="edition" form="short" prefix=" "/>
+      </else-if>
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+VERLAGSORT/VERLEGER
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+VERÖFFENTLICHUNG (Band, Reihe, Auflage, Verlag, Ort, Datum ...)
+Workaround für Jahresbereiche: 1992_&_1994 schreiben und danach "Suchen und Ersetzen" im Dokument.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="issued">
+    <choose>
+      <!-- Für Bücher und Beiträge in Sammelbänden gilt: -->
+      <if type="bill book graphic legal_case motion_picture report song chapter paper-conference entry-encyclopedia" match="any">
+        <!-- Auflage -->
+        <text macro="edition" prefix=", "/>
+        <!-- Verlagsort/Verleger -->
+        <text macro="publisher" prefix=", "/>
+        <!-- Jahr -->
+        <date variable="issued" prefix=" ">
+          <date-part name="year"/>
+        </date>
+        <!-- Reihe -->
+        <text macro="collection" prefix=" (" suffix=")"/>
+      </if>
+      <!-- Für Webseiten gilt: -->
+      <else-if type="webpage" match="any">
+        <!-- Band und Nummer -->
+        <group delimiter="/">
+          <text variable="volume" font-style="italic"/>
+          <text variable="issue" font-style="italic"/>
+        </group>
+        <!-- Datum -->
+        <date variable="issued" prefix=" (" suffix=")">
+          <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+          <date-part name="month" form="numeric-leading-zeros" suffix="."/>
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <!-- Für Doktorarbeiten, Dokumente und Manuskripte gilt: -->
+      <else-if type="thesis article manuscript" match="any">
+        <!-- Art (Magister, Promotion,...) -->
+        <text variable="genre" prefix=", "/>
+        <!-- Ort (Universität Bonn,...) -->
+        <text macro="publisher" prefix=", "/>
+        <!-- Datum -->
+        <date variable="issued" prefix=" ">
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <!-- Für Artikel gilt: -->
+      <else-if type="article-journal article-magazine article-newspaper broadcast interview map patent personal_communication song speech" match="any">
+        <!-- Band und Nummer -->
+        <group delimiter="/">
+          <text variable="volume" font-style="italic"/>
+          <text variable="issue" font-style="italic"/>
+        </group>
+        <!-- Jahr -->
+        <date variable="issued" prefix=" (" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <!-- Für alle anderen Fälle gilt: ???
+	   <else>
+	   </else> -->
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+SEITENZAHLEN, URL, ZUGRIFFSDATUM
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="pages">
+    <choose>
+      <!-- Seitenzahlen werden nur bei Beiträgen in Sammelbänden und
+	   Artikeln ausgegeben - nicht bei Büchern o.a., wo damit
+	   der Gesamtumfang gemeint ist. Geschütztes Leerzeichen.
+	   Nur bei Lexikon-Artikel werden statt Seitenbereichsangaben Spaltenbereichsangaben
+	   verwendet, wenn Spalten in der genauen Ortsbezeichnung (Locator) verwendet werden.-->
+      <if type="article-journal article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis article webpage chapter paper-conference" match="any">
+        <label variable="page" form="short" suffix=".&#160;" strip-periods="true"/>
+        <text variable="page"/>
+      </if>
+      <else-if type="entry-encyclopedia" match="any">
+        <label variable="locator" form="short" suffix=".&#160;" strip-periods="true"/>
+        <text variable="page"/>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- URL (und Datum des letzten Zugriffs) -->
+  <macro name="access">
+    <choose>
+      <!-- Für Webseiten, Dissertation, Magazin-, Zeitungs- und Journal-Artikel wird die URL, wenn vorhanden angezeigt -->
+      <if type="webpage thesis article article-magazine article-newspaper article-journal manuscript" match="any">
+        <text variable="URL"/>
+        <group prefix=" (" suffix=")" delimiter=" ">
+          <text term="accessed" text-case="lowercase"/>
+          <date variable="accessed">
+            <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+            <date-part name="month" form="numeric-leading-zeros" suffix="."/>
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+FUNDSTELLE (Seite, Kapitel, Spalte...) MIT GESCHÜTZTEM LEERZEICHEN
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="citation-locator">
+    <label variable="locator" form="short" suffix=".&#160;" strip-periods="true"/>
+    <text variable="locator"/>
+  </macro>
+  <!--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+REGELN FÜR DIE SORTIERUNG IM LITERATURVERZEICHNIS
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-->
+  <macro name="sort-key">
+    <!-- Die Sortierung erfolgt erst nach dem 1. Titel-Beitragenden (contributors-long), dann nach Datum (issued), 
+   dann nach dem Titel des Werks (title-long). -->
+    <text macro="contributors-long" suffix=" "/>
+    <text macro="issued"/>
+    <text macro="title-long" suffix=" "/>
+  </macro>
+  <!--
+================================================================================
+ERSTELLUNG DER FUßNOTEN
+================================================================================-->
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true">
+    <layout suffix="." delimiter="; ">
+      <choose>
+        <!-- "Ebd." (bei unmittelbar aufeinanderfolgenden Nachweisen) -->
+        <if position="ibid-with-locator">
+          <text term="ibid"/>
+          <text macro="citation-locator" prefix=", "/>
+        </if>
+        <else-if position="ibid">
+          <text term="ibid"/>
+        </else-if>
+        <!-- kurzer Nachweis (bei zweiter und folgenden Nennungen) -->
+        <else-if position="subsequent">
+          <text macro="contributors-short" suffix=": "/>
+          <text macro="title-short"/>
+          <text macro="citation-locator" prefix=", "/>
+        </else-if>
+        <!-- vollständiger Nachweis (bei erster Nennung) -->
+        <else>
+          <text macro="contributors-long" suffix=": "/>
+          <text macro="title-long"/>
+          <text macro="container" prefix=", "/>
+          <text macro="issued"/>
+          <text macro="pages" prefix=", "/>
+          <choose>
+            <!-- Bei Beiträgen in Sammelbänden und Artikeln wird die
+	       Angabe der Fundstelle in Seitenzahlen durch "hier"
+	       eingeschränkt. -->
+            <if type="chapter paper-conference entry-encyclopedia" match="any">
+              <choose>
+                <if variable="page" match="all">
+                  <text macro="citation-locator" prefix=", hier "/>
+                </if>
+              </choose>
+            </if>
+            <else-if type="article-journal article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech webpage" match="any">
+              <choose>
+                <if variable="page" match="all">
+                  <text macro="citation-locator" prefix=", hier "/>
+                </if>
+              </choose>
+            </else-if>
+            <else>
+              <text macro="citation-locator" prefix=", "/>
+            </else>
+          </choose>
+          <text macro="access" prefix=", "/>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <!--
+================================================================================
+ERSTELLUNG DES LITERATURVERZEICHNISSES
+================================================================================-->
+  <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="1" entry-spacing="0">
+    <sort>
+      <key macro="sort-key"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="contributors-long" suffix=": "/>
+      <text macro="title-long"/>
+      <text macro="container" prefix=", "/>
+      <text macro="issued"/>
+      <text macro="pages" prefix=", "/>
+      <text macro="access" prefix=", "/>
+    </layout>
+  </bibliography>
+</style>

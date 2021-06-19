@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- The Geological Society of London, generated from "the-geological-society" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Petroleum Geoscience</title>
+    <id>http://www.zotero.org/styles/petroleum-geoscience</id>
+    <link href="http://www.zotero.org/styles/petroleum-geoscience" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-geological-society-of-london" rel="independent-parent"/>
+    <link href="https://www.geolsoc.org.uk/~/media/Files/GSL/shared/pdfs/Publications/AuthorInfo_Text.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="geology"/>
+    <issn>1354-0793</issn>
+    <eissn>2041-496X</eissn>
+    <updated>2020-05-01T04:30:32+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

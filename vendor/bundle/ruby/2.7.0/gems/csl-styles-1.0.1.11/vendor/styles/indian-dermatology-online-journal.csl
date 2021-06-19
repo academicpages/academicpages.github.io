@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US" page-range-format="minimal">
+  <info>
+    <title>Indian Dermatology Online Journal</title>
+    <title-short>IDOJ</title-short>
+    <id>http://www.zotero.org/styles/indian-dermatology-online-journal</id>
+    <link href="http://www.zotero.org/styles/indian-dermatology-online-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/optometry-and-vision-science" rel="template"/>
+    <link href="http://www.idoj.in/contributors.asp" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>2229-5178</issn>
+    <eissn>2249-5673</eissn>
+    <updated>2017-09-04T22:53:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="available at">available from</term>
+    </terms>
+  </locale>
+  <macro name="editor">
+    <names variable="editor">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="always"/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <group suffix=".">
+      <names variable="author">
+        <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="always"/>
+        <et-al font-style="italic"/>
+        <label prefix=", "/>
+        <substitute>
+          <names variable="editor"/>
+          <text macro="title"/>
+        </substitute>
+      </names>
+    </group>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" text-case="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+      <group prefix=", ">
+        <label variable="locator" form="short" strip-periods="true"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography delimiter-precedes-et-al="always" et-al-min="7" et-al-use-first="3" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="title" prefix=" " suffix="."/>
+      <choose>
+        <if type="bill book graphic legislation motion_picture report song" match="any">
+          <group delimiter=" " prefix=" ">
+            <group delimiter=" ">
+              <text term="volume" form="short" text-case="capitalize-first" strip-periods="true"/>
+              <text variable="volume" suffix="."/>
+            </group>
+            <text macro="edition"/>
+            <text macro="editor" prefix="(" suffix=")"/>
+          </group>
+          <text prefix=" " macro="publisher"/>
+          <group prefix="; ">
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+            <text variable="page" prefix=":"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference entry-dictionary entry-encyclopedia" match="any">
+          <group prefix=" " delimiter=" ">
+            <text term="in" text-case="capitalize-first" suffix=":"/>
+            <text macro="editor" suffix="."/>
+            <text variable="container-title" suffix="." text-case="title"/>
+            <text variable="volume" suffix="."/>
+            <text macro="edition"/>
+            <text variable="collection-title" suffix="."/>
+            <group suffix=".">
+              <text macro="publisher"/>
+              <group prefix="; ">
+                <date variable="issued">
+                  <date-part name="year"/>
+                </date>
+                <text variable="page" prefix=":"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="article-newspaper">
+          <text variable="container-title" prefix=" " suffix=". "/>
+          <choose>
+            <if variable="URL">
+              <group delimiter=". ">
+                <text variable="URL"/>
+                <group prefix="Published ">
+                  <date variable="issued">
+                    <date-part name="month" suffix=" "/>
+                    <date-part name="day" suffix=", "/>
+                    <date-part name="year"/>
+                  </date>
+                </group>
+                <group>
+                  <text term="accessed" text-case="capitalize-first" suffix=" "/>
+                  <date variable="accessed">
+                    <date-part name="month" suffix=" "/>
+                    <date-part name="day" suffix=", "/>
+                    <date-part name="year"/>
+                  </date>
+                </group>
+              </group>
+            </if>
+            <else>
+              <group delimiter=":">
+                <group>
+                  <date variable="issued">
+                    <date-part name="month" suffix=" "/>
+                    <date-part name="day" suffix=", "/>
+                    <date-part name="year"/>
+                  </date>
+                </group>
+                <text variable="page"/>
+              </group>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="legal_case">
+          <group suffix="," prefix=" " delimiter=" ">
+            <text macro="editor" prefix="(" suffix=")"/>
+          </group>
+          <group prefix=" " delimiter=" ">
+            <text variable="container-title"/>
+            <text variable="volume"/>
+          </group>
+          <text variable="page" prefix=", " suffix=" "/>
+          <group prefix="(" suffix=")." delimiter=" ">
+            <text variable="authority"/>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="webpage post-weblog" match="any">
+          <group delimiter=". " prefix=" ">
+            <group delimiter=" ">
+              <text value="homepage on the Internet" prefix="[" suffix="]"/>
+              <text variable="container-title"/>
+            </group>
+            <group delimiter=": ">
+              <text term="available at" text-case="capitalize-first"/>
+              <text variable="URL"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <text macro="editor" prefix=" " suffix="."/>
+          <group prefix=" ">
+            <text variable="container-title" form="short" strip-periods="true"/>
+            <group delimiter=";" prefix=" ">
+              <choose>
+                <if match="any" variable="issue volume">
+                  <date variable="issued">
+                    <date-part name="year"/>
+                  </date>
+                </if>
+                <else>
+                  <date variable="issued">
+                    <date-part name="month" suffix=" "/>
+                    <date-part name="year"/>
+                  </date>
+                </else>
+              </choose>
+              <text variable="volume"/>
+            </group>
+            <text variable="page" prefix=":"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

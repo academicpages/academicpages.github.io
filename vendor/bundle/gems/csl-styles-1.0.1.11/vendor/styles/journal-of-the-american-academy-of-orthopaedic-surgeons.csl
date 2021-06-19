@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Journal of the American Academy of Orthopaedic Surgeons</title>
+    <title-short>JAAOS</title-short>
+    <id>http://www.zotero.org/styles/journal-of-the-american-academy-of-orthopaedic-surgeons</id>
+    <link href="http://www.zotero.org/styles/journal-of-the-american-academy-of-orthopaedic-surgeons" rel="self"/>
+    <link href="http://www.zotero.org/styles/nature" rel="template"/>
+    <link href="http://www.jaaos.org/site/misc/authinst.pdf" rel="documentation"/>
+    <author>
+      <name>Charles Parnot</name>
+      <uri>http://twitter.com/cparnot</uri>
+      <email>charles.parnot@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1067-151X</issn>
+    <updated>2015-03-24T13:44:48+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=", " delimiter=", " initialize-with="" delimiter-precedes-last="never" name-as-sort-order="all"/>
+      <et-al font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="volume"/>
+      <else-if variable="DOI">
+        <text variable="DOI" prefix="doi:"/>
+      </else-if>
+      <else-if variable="URL">
+        <text term="at"/>
+        <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issuance">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <group prefix=" (" suffix=").">
+          <text variable="publisher" suffix=": "/>
+          <text variable="publisher-place" suffix=", "/>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+      <else>
+        <date prefix=" " suffix=";" variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="11" et-al-use-first="10" second-field-align="flush" entry-spacing="0">
+    <layout>
+      <text variable="citation-number" suffix="."/>
+      <text macro="author" suffix=": "/>
+      <text macro="title" suffix=". "/>
+      <text variable="container-title" font-style="italic" suffix=" " strip-periods="true" form="short"/>
+      <text macro="issuance"/>
+      <text variable="volume" suffix=":"/>
+      <text variable="page" suffix="."/>
+      <text macro="access" suffix="."/>
+    </layout>
+  </bibliography>
+</style>

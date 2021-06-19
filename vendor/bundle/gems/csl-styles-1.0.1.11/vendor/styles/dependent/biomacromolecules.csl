@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/acs -->
+  <info>
+    <title>Biomacromolecules</title>
+    <title-short>Biomacromolecules</title-short>
+    <id>http://www.zotero.org/styles/biomacromolecules</id>
+    <link href="http://www.zotero.org/styles/biomacromolecules" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-chemical-society" rel="independent-parent"/>
+    <link href="http://pubs.acs.org/paragonplus/submission/bomaf6/bomaf6_authguide.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>1525-7797</issn>
+    <eissn>1526-4602</eissn>
+    <updated>2014-05-05T02:06:28+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

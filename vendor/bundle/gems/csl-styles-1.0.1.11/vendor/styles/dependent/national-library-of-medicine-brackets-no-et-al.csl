@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>National Library of Medicine (brackets, no "et al.")</title>
+    <title-short>NLM</title-short>
+    <id>http://www.zotero.org/styles/national-library-of-medicine-brackets-no-et-al</id>
+    <link href="http://www.zotero.org/styles/national-library-of-medicine-brackets-no-et-al" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-brackets-no-et-al" rel="independent-parent"/>
+    <link href="http://www.ncbi.nlm.nih.gov/books/NBK7256/" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <updated>2013-03-31T16:27:04+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

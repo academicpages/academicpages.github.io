@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/plos -->
+  <info>
+    <title>PLOS Pathogens</title>
+    <id>http://www.zotero.org/styles/plos-pathogens</id>
+    <link href="http://www.zotero.org/styles/plos-pathogens" rel="self"/>
+    <link href="http://www.zotero.org/styles/plos" rel="independent-parent"/>
+    <link href="http://www.plospathogens.org/static/guidelines#organization" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>1553-7366</issn>
+    <eissn>1553-7374</eissn>
+    <updated>2014-06-05T22:31:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

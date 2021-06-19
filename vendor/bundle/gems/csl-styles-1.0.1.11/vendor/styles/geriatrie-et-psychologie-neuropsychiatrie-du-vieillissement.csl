@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" page-range-format="minimal" default-locale="en-US">
+  <info>
+    <title>Gériatrie et Psychologie Neuropsychiatrie du Vieillissement</title>
+    <title-short>GPNV</title-short>
+    <id>http://www.zotero.org/styles/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement</id>
+    <link href="http://www.zotero.org/styles/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement" rel="self"/>
+    <link href="http://www.zotero.org/styles/environnement-risques-et-sante" rel="template"/>
+    <link href="https://www.jle.com/fr/revues/gpn/espace_auteur" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>2115-8789</issn>
+    <eissn>2115-7863</eissn>
+    <updated>2020-02-01T02:05:10+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <name initialize-with="" name-as-sort-order="all" sort-separator=" " delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author" suffix=".">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=" : ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number" sort="ascending"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6">
+    <layout suffix=".">
+      <text variable="citation-number" font-weight="bold" suffix=". "/>
+      <text macro="author"/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=". " prefix=" ">
+            <group delimiter=", ">
+              <text macro="title" suffix="."/>
+              <text macro="edition"/>
+            </group>
+            <text macro="editor"/>
+            <group delimiter=", ">
+              <text macro="publisher" suffix=","/>
+              <text macro="year-date" prefix=" "/>
+            </group>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=". ">
+            <text macro="title" prefix=" "/>
+            <group delimiter=" : ">
+              <text term="in" text-case="capitalize-first"/>
+              <text macro="editor" prefix=" "/>
+            </group>
+            <text variable="container-title" font-style="italic"/>
+            <text variable="collection-title"/>
+            <group delimiter=" : ">
+              <group delimiter=", ">
+                <text macro="publisher"/>
+                <text macro="year-date"/>
+              </group>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=" " prefix=" ">
+            <text macro="title"/>
+            <text variable="genre" prefix="[" suffix="]. "/>
+            <text macro="publisher" suffix="."/>
+            <text macro="year-date" prefix=" " suffix="."/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <group delimiter=". ">
+              <text macro="title" prefix=" "/>
+              <text variable="container-title" form="short" strip-periods="true" font-style="italic" prefix=" "/>
+            </group>
+            <group delimiter=" ; ">
+              <text macro="year-date"/>
+              <group delimiter=" : ">
+                <text variable="volume"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

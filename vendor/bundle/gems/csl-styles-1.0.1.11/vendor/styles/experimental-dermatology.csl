@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Experimental Dermatology</title>
+    <title-short>ED</title-short>
+    <id>http://www.zotero.org/styles/experimental-dermatology</id>
+    <link href="http://www.zotero.org/styles/experimental-dermatology" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-american-journal-of-gastroenterology" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291600-0625/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Andreas Recke</name>
+      <email>Andreas.Recke@uksh.de</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0906-6705</issn>
+    <eissn>1600-0625</eissn>
+    <summary>Experimental Dermatology style</summary>
+    <updated>2015-01-24T19:23:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name delimiter-precedes-et-al="never" delimiter-precedes-last="always" et-al-min="4" et-al-use-first="3" initialize-with=" " name-as-sort-order="all" sort-separator=" "/>
+      <et-al font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=", ed">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place" suffix=": "/>
+    <text variable="publisher" suffix=", "/>
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="access">
+    <group delimiter=" ">
+      <group prefix="[" suffix="]" delimiter=" ">
+        <text term="cited"/>
+        <date variable="accessed">
+          <date-part name="year"/>
+          <date-part name="month" prefix=" " form="short" strip-periods="true"/>
+          <date-part name="day" prefix=" "/>
+        </date>
+      </group>
+      <group>
+        <text value=" DOI: "/>
+        <text variable="URL"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <text variable="title"/>
+      <choose>
+        <if variable="URL">
+          <text term="internet" prefix="[" suffix="]" text-case="capitalize-first"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <layout>
+      <text variable="citation-number" font-weight="bold" suffix=" "/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group prefix=" " suffix="." delimiter=" ">
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group suffix=". ">
+            <text term="in" suffix=": " text-case="capitalize-first"/>
+            <text macro="editor" suffix=". "/>
+            <text variable="container-title"/>
+          </group>
+          <text macro="publisher" prefix=" " suffix=": "/>
+          <text variable="page" suffix="."/>
+        </else-if>
+        <else>
+          <text variable="container-title" form="short" strip-periods="true" suffix=" "/>
+          <date variable="issued" suffix=": ">
+            <date-part name="year"/>
+          </date>
+          <text variable="volume" font-weight="bold"/>
+          <text variable="page" prefix=": " suffix="."/>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </layout>
+  </bibliography>
+</style>

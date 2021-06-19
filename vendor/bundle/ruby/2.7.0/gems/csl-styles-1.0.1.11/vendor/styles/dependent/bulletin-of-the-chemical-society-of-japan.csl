@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Bulletin of the Chemical Society of Japan</title>
+    <title-short>Bull. Chem. Soc. Jpn.</title-short>
+    <id>http://www.zotero.org/styles/bulletin-of-the-chemical-society-of-japan</id>
+    <link href="http://www.zotero.org/styles/bulletin-of-the-chemical-society-of-japan" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-chemical-society-of-japan" rel="independent-parent"/>
+    <link href="http://www.csj.jp/journals/styles/ref.html" rel="documentation"/>
+    <author>
+      <name>Shoji Takahashi</name>
+      <email>s.takahashi@elsevier.com</email>
+      <uri>http://www.mendeley.com/profiles/shoji-takahashi3/</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>0009-2673</issn>
+    <eissn>1348-0634</eissn>
+    <updated>2015-12-16T04:06:37+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

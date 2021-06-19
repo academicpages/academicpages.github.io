@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Population (English)</title>
+    <title-short>Population-E</title-short>
+    <id>http://www.zotero.org/styles/population-en</id>
+    <link href="http://www.zotero.org/styles/population-en" rel="self"/>
+    <link href="http://www.zotero.org/styles/population" rel="independent-parent"/>
+    <link href="http://www.journal-population.com/submission-guidelines/" rel="documentation"/>
+    <author>
+      <name>Milan Bouchet-Valat</name>
+      <email>nalimilan@club.fr</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <category field="sociology"/>
+    <issn>1634-2941</issn>
+    <eissn>1958-9190</eissn>
+    <summary>The style of the French National Institute for Demographic Studies (Ined) review Population.</summary>
+    <updated>2015-01-29T20:41:20+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

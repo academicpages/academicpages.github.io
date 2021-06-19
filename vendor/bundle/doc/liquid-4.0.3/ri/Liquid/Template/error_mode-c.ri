@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"error_mode:ETI"!Liquid::Template::error_mode;TI"W;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[	I"+Sets how strict the parser should be. ;TI"R:lax acts like liquid 2.5 and silently ignores malformed tags in most cases. ;TI"Z:warn is the default and will give deprecation warnings when invalid syntax is used. ;TI"):strict will enforce correct syntax.;T:
+@fileI"lib/liquid/template.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Liquid::Template;TcRDoc::NormalClass0

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>European Heart Journal - Acute Cardiovascular Care</title>
+    <id>http://www.zotero.org/styles/european-heart-journal-acute-cardiovascular-care</id>
+    <link href="http://www.zotero.org/styles/european-heart-journal-acute-cardiovascular-care" rel="self"/>
+    <link href="http://www.zotero.org/styles/sage-vancouver" rel="independent-parent"/>
+    <link href="http://www.uk.sagepub.com/msg/acc.htm#ReferenceStyle" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>2048-8726</issn>
+    <eissn>2048-8734</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

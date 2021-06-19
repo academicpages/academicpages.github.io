@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/npg -->
+  <info>
+    <title>Journal of Cerebral Blood Flow &amp; Metabolism</title>
+    <id>http://www.zotero.org/styles/journal-of-cerebral-blood-flow-and-metabolism</id>
+    <link href="http://www.zotero.org/styles/journal-of-cerebral-blood-flow-and-metabolism" rel="self"/>
+    <link href="http://www.zotero.org/styles/nature-publishing-group-vancouver" rel="independent-parent"/>
+    <link href="http://mc.manuscriptcentral.com/societyimages/jcbfm/JCBFM%20Guide%20to%20Authors.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0271-678X</issn>
+    <eissn>1559-7016</eissn>
+    <updated>2014-06-23T03:22:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

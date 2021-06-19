@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"ordinals:ETI" CSL::Locale::Terms#ordinals;TI"R;T:protectedo:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] ordinals ;TI"H@return [Hash] a private registry to map ordinals to the respective;To:RDoc::Markup::Verbatim;	[I"+term objects for quick ordinal look-up;T:@format0:
+@fileI"lib/csl/locale/term.rb;T:0@omit_headings_from_table_of_contents_below0F@I"CSL::Locale::Terms;TcRDoc::NormalClass0

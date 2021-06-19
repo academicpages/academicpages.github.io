@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Multidisciplinary Digital Publishing Institute (MDPI), generated from "mdpi" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Data</title>
+    <id>http://www.zotero.org/styles/data</id>
+    <link href="http://www.zotero.org/styles/data" rel="self"/>
+    <link href="http://www.zotero.org/styles/multidisciplinary-digital-publishing-institute" rel="independent-parent"/>
+    <link href="http://www.mdpi.com/authors/references" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <eissn>2306-5729</eissn>
+    <updated>2017-06-06T12:27:08+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

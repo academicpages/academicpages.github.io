@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Shock</title>
+    <id>http://www.zotero.org/styles/shock</id>
+    <link href="http://www.zotero.org/styles/shock" rel="self"/>
+    <link href="http://www.zotero.org/styles/antioxidants-and-redox-signaling" rel="template"/>
+    <link href="http://edmgr.ovid.com/shk/accounts/ifauth.htm" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1073-2322</issn>
+    <eissn>1540-0514</eissn>
+    <updated>2020-05-17T02:13:26+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <et-al font-style="italic"/>
+      <label form="short" text-case="capitalize-first" strip-periods="true" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name delimiter-precedes-last="never" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter=", " prefix="(" suffix=")">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush" entry-spacing="0" line-spacing="2">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=". ">
+        <group delimiter=": ">
+          <text macro="author"/>
+          <text macro="title" font-style="normal"/>
+        </group>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <group delimiter=", ">
+              <group suffix=".">
+                <text macro="edition" prefix=" "/>
+                <text macro="editor" prefix=" (" suffix=")"/>
+              </group>
+              <text macro="publisher"/>
+              <text macro="date"/>
+            </group>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <group delimiter=". " prefix=" ">
+              <group delimiter=" ">
+                <text term="in" text-case="capitalize-first"/>
+                <group delimiter=", ">
+                  <text macro="editor"/>
+                </group>
+                <text variable="container-title" font-style="italic"/>
+              </group>
+              <text macro="edition"/>
+              <group delimiter=", ">
+                <group>
+                  <text variable="volume" form="long" prefix="vol. "/>
+                  <text macro="publisher"/>
+                </group>
+                <text macro="date"/>
+                <group delimiter=" ">
+                  <label strip-periods="true" variable="page" form="short"/>
+                  <text variable="page"/>
+                </group>
+              </group>
+            </group>
+          </else-if>
+          <else-if type="webpage post-weblog" match="any">
+            <group delimiter=". " prefix=" ">
+              <text variable="container-title"/>
+              <text variable="URL"/>
+              <date form="text" variable="accessed"/>
+            </group>
+          </else-if>
+          <else>
+            <group delimiter=", ">
+              <group delimiter=":" prefix=" ">
+                <group delimiter=" ">
+                  <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
+                  <group>
+                    <text variable="volume"/>
+                    <text variable="issue" prefix="(" suffix=")"/>
+                  </group>
+                </group>
+                <text variable="page"/>
+              </group>
+              <text macro="date"/>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

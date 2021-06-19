@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Organization Studies</title>
+    <id>http://www.zotero.org/styles/organization-studies</id>
+    <link href="http://www.zotero.org/styles/organization-studies" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa-no-doi-no-issue" rel="independent-parent"/>
+    <link href="http://www.uk.sagepub.com/repository/binaries/pdf/APA_reference_style.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <issn>0170-8406</issn>
+    <eissn>1741-3044</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

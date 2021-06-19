@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Arthritis Care &amp; Research</title>
+    <id>http://www.zotero.org/styles/arthritis-care-and-research</id>
+    <link href="http://www.zotero.org/styles/arthritis-care-and-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/arthritis-and-rheumatism" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2151-4658/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>2151-464X</issn>
+    <eissn>2151-4658</eissn>
+    <updated>2014-02-18T19:07:12+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

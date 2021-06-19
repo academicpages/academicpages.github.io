@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" default-locale="en-US" version="1.0" demote-non-dropping-particle="never">
+  <info>
+    <title>Sedimentology</title>
+    <title-short>Sedimentology</title-short>
+    <id>http://www.zotero.org/styles/sedimentology</id>
+    <link href="http://www.zotero.org/styles/sedimentology" rel="self"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/13653091/homepage/forauthors.html" rel="documentation"/>
+    <author>
+      <name>Andreas Paul</name>
+      <email>apaul@posteo.de</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="geology"/>
+    <issn>0037-0746</issn>
+    <eissn>1365-3091</eissn>
+    <summary>This style is for Sedimentology (Wiley and Co.), the journal of the International Association of Sedimentologists (IAS), published by Wiley.</summary>
+    <updated>2018-11-12T03:59:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="and others">et al</term>
+      <term name="edition" form="short">edn.</term>
+      <term name="editor">Ed.</term>
+    </terms>
+  </locale>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="symbol"/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author" font-weight="normal">
+      <name font-weight="bold" and="text" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all"/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+      <et-al term="and others"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book">
+        <group delimiter=", " suffix=". ">
+          <text variable="title"/>
+          <text macro="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="title" suffix=". "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-parenth">
+    <date prefix="(" suffix=")" variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix">
+    <sort>
+      <key macro="year"/>
+      <key macro="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author-short" suffix=","/>
+        <text macro="year"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography and="text" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="author" sort="ascending"/>
+    </sort>
+    <layout>
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="year-parenth"/>
+        <text macro="title"/>
+      </group>
+      <choose>
+        <if type="chapter paper-conference" match="any">
+          <group delimiter=" " suffix=", ">
+            <text term="in" text-case="capitalize-first" suffix=":"/>
+            <group delimiter=", ">
+              <text variable="container-title" font-style="italic"/>
+              <text macro="edition"/>
+            </group>
+            <group prefix="(" suffix=")">
+              <text term="editor" plural="true" suffix=" "/>
+              <names variable="editor">
+                <name initialize-with="."/>
+              </names>
+            </group>
+          </group>
+          <text variable="publisher" font-style="italic" suffix=", "/>
+          <text variable="publisher-place" suffix=", "/>
+          <text variable="volume" form="short" suffix=", "/>
+          <text variable="page" suffix="."/>
+        </if>
+        <else-if type="article-journal">
+          <choose>
+            <if variable="page">
+              <group>
+                <text variable="container-title" form="short" strip-periods="false" font-style="italic" suffix=", "/>
+                <text variable="volume" font-weight="bold" suffix=", "/>
+                <text variable="page" suffix="."/>
+              </group>
+            </if>
+            <else-if variable="DOI">
+              <group delimiter=". ">
+                <text variable="container-title" form="short" strip-periods="true"/>
+                <text prefix="doi: " variable="DOI"/>
+              </group>
+            </else-if>
+          </choose>
+        </else-if>
+        <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=", " suffix=".">
+            <text variable="publisher" font-style="italic"/>
+            <text variable="publisher-place" form="short"/>
+            <group>
+              <text variable="number-of-pages" suffix=" "/>
+              <text term="page" form="short" plural="true"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="webpage post-weblog" match="any">
+          <group>
+            <text prefix="In: " variable="container-title" suffix=". " form="short"/>
+            <text variable="URL" suffix=". "/>
+            <date variable="accessed">
+              <date-part prefix="Accessed " name="day" suffix=" "/>
+              <date-part name="month" form="short" suffix=" " strip-periods="true"/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text variable="genre" text-case="capitalize-first"/>
+            <text variable="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <group>
+            <text variable="container-title" form="short" suffix=" "/>
+            <text variable="volume" suffix=":"/>
+            <text variable="page" suffix="."/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

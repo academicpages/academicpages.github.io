@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Oxford Art Journal</title>
+    <id>http://www.zotero.org/styles/oxford-art-journal</id>
+    <link href="http://www.zotero.org/styles/oxford-art-journal" rel="self"/>
+    <link href="http://www.oxfordjournals.org/our_journals/oxartj/for_authors/index.html" rel="documentation"/>
+    <author>
+      <name>Julian Onions</name>
+      <email>julian.onions@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <issn>0142-6540</issn>
+    <eissn>1741-7287</eissn>
+    <summary>Oxford Art journal style</summary>
+    <updated>2014-09-06T22:02:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter=", "/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", "/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="container-editor">
+    <group delimiter=" ">
+      <text term="in" suffix=" "/>
+      <names variable="editor">
+        <name and="text" delimiter=", "/>
+        <label form="short" prefix=" (" suffix=")"/>
+        <substitute>
+          <names variable="editor"/>
+          <names variable="translator"/>
+          <text macro="title"/>
+        </substitute>
+      </names>
+    </group>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="thesis">
+        <text variable="title" quotes="true"/>
+      </if>
+      <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </else-if>
+      <else>
+        <text variable="title" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title-short">
+    <choose>
+      <if type="thesis">
+        <text variable="title" form="short" quotes="true"/>
+      </if>
+      <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" form="short" font-style="italic"/>
+      </else-if>
+      <else>
+        <text variable="title" form="short" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="month" suffix=" "/>
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="volumes">
+    <group delimiter=" ">
+      <text variable="number-of-volumes"/>
+      <text term="volume" form="short" plural="true" strip-periods="true"/>
+    </group>
+  </macro>
+  <macro name="pageno">
+    <choose>
+      <if variable="locator" match="none">
+        <label variable="page" suffix=" " form="short"/>
+        <text variable="page"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="pageref">
+    <label variable="locator" suffix=" " form="short"/>
+    <text variable="locator"/>
+  </macro>
+  <macro name="volref">
+    <group delimiter=", ">
+      <text variable="volume" prefix="Vol. "/>
+      <text variable="issue" prefix="no. "/>
+    </group>
+  </macro>
+  <macro name="container">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <text variable="container-title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="container-title" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <citation>
+    <layout suffix="." delimiter="; ">
+      <choose>
+        <if position="subsequent">
+          <group delimiter=", ">
+            <text macro="author-short"/>
+            <text macro="title-short"/>
+            <text macro="pageref"/>
+          </group>
+        </if>
+        <else>
+          <group delimiter=", ">
+            <text macro="author"/>
+            <choose>
+              <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+                <group delimiter=", ">
+                  <text macro="title"/>
+                  <text macro="volumes"/>
+                </group>
+                <group prefix=" (" suffix=")" delimiter=", ">
+                  <text macro="publisher"/>
+                  <text macro="container"/>
+                  <text macro="volref"/>
+                  <text macro="date"/>
+                </group>
+                <text macro="pageref" prefix=". "/>
+              </if>
+              <else-if type="chapter paper-conference" match="any">
+                <group delimiter=", ">
+                  <text macro="title"/>
+                  <text macro="container-editor"/>
+                  <text macro="container"/>
+                  <text macro="volref"/>
+                  <text macro="volumes"/>
+                  <group prefix=" (" suffix=")" delimiter=", ">
+                    <text macro="publisher"/>
+                    <text macro="date"/>
+                  </group>
+                  <text macro="pageno"/>
+                  <text macro="pageref"/>
+                </group>
+              </else-if>
+              <else>
+                <group delimiter=", ">
+                  <text macro="title"/>
+                  <text macro="publisher"/>
+                  <text macro="container"/>
+                  <text macro="volref"/>
+                  <text macro="date"/>
+                  <text macro="volumes"/>
+                  <text macro="pageno"/>
+                  <text macro="pageref"/>
+                </group>
+              </else>
+            </choose>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+</style>

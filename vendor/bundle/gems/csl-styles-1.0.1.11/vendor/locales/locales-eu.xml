@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="eu">
+  <info>
+    <translator>
+      <name>Amaraun</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="year" suffix="(e)ko "/>
+    <date-part name="month" suffix="aren "/>
+    <date-part name="day" suffix="a"/>
+  </date>
+  <date form="numeric">
+    <date-part name="year" suffix="/"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="day" form="numeric-leading-zeros"/>
+  </date>
+  <terms>
+    <term name="accessed">eskuratua</term>
+    <term name="and">eta</term>
+    <term name="and others">eta beste</term>
+    <term name="anonymous">ezezaguna</term>
+    <term name="anonymous" form="short">ezez.</term>
+    <term name="at">-(e)n</term>
+    <term name="available at">available at</term>
+    <term name="by">-(e)k egina</term>
+    <term name="circa">inguru</term>
+    <term name="circa" form="short">ing.</term>
+    <term name="cited">aipatua</term>
+    <term name="edition">
+      <single>argitalpena</single>
+      <multiple>argitalpenak</multiple>
+    </term>
+    <term name="edition" form="short">arg.</term>
+    <term name="et-al">et al.</term>
+    <term name="forthcoming">bidean</term>
+    <term name="from">-(e)tik</term>
+    <term name="ibid">ibíd.</term>
+    <term name="in">in</term>
+    <term name="in press">moldiztegian</term>
+    <term name="internet">internet</term>
+    <term name="interview">elkarrizketa</term>
+    <term name="letter">gutuna</term>
+    <term name="no date">datarik gabe</term>
+    <term name="no date" form="short">d. g.</term>
+    <term name="online">sarean</term>
+    <term name="presented at">-(e)n aurkeztua</term>
+    <term name="reference">
+      <single>aipamena</single>
+      <multiple>aipamenak</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>aip.</single>
+      <multiple>aip.</multiple>
+    </term>
+    <term name="retrieved">berreskuratua</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">K.a.</term>
+    <term name="bc">K.o.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">«</term>
+    <term name="close-quote">»</term>
+    <term name="open-inner-quote">“</term>
+    <term name="close-inner-quote">”</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">.</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">lehengo</term>
+    <term name="long-ordinal-02">bigarren</term>
+    <term name="long-ordinal-03">hirugarren</term>
+    <term name="long-ordinal-04">laugarren</term>
+    <term name="long-ordinal-05">bosgarren</term>
+    <term name="long-ordinal-06">seigarren</term>
+    <term name="long-ordinal-07">zazpigarren</term>
+    <term name="long-ordinal-08">zortzigarren</term>
+    <term name="long-ordinal-09">bederatzigarren</term>
+    <term name="long-ordinal-10">hamargarren</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>liburua</single>
+      <multiple>liburuak</multiple>
+    </term>
+    <term name="chapter">
+      <single>kapitulua</single>
+      <multiple>kapituluak</multiple>
+    </term>
+    <term name="column">
+      <single>zutabea</single>
+      <multiple>zutabeak</multiple>
+    </term>
+    <term name="figure">
+      <single>irudia</single>
+      <multiple>irudiak</multiple>
+    </term>
+    <term name="folio">
+      <single>orria</single>
+      <multiple>orriak</multiple>
+    </term>
+    <term name="issue">
+      <single>zenbakia</single>
+      <multiple>zenbakiak</multiple>
+    </term>
+    <term name="line">
+      <single>lerroa</single>
+      <multiple>lerroak</multiple>
+    </term>
+    <term name="note">
+      <single>oharra</single>
+      <multiple>oharrak</multiple>
+    </term>
+    <term name="opus">
+      <single>obra</single>
+      <multiple>obrak</multiple>
+    </term>
+    <term name="page">
+      <single>orrialdea</single>
+      <multiple>orrialdeak</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>orrialdea</single>
+      <multiple>orrialdeak</multiple>
+    </term>
+    <term name="paragraph">
+      <single>paragrafoa</single>
+      <multiple>paragrafoak</multiple>
+    </term>
+    <term name="part">
+      <single>zatia</single>
+      <multiple>zatiak</multiple>
+    </term>
+    <term name="section">
+      <single>atala</single>
+      <multiple>atalak</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub voce</single>
+      <multiple>sub vocem</multiple>
+    </term>
+    <term name="verse">
+      <single>bertsoa</single>
+      <multiple>bertsoak</multiple>
+    </term>
+    <term name="volume">
+      <single>luburikia</single>
+      <multiple>luburukiak</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">lib.</term>
+    <term name="chapter" form="short">kap.</term>
+    <term name="column" form="short">zut.</term>
+    <term name="figure" form="short">iru.</term>
+    <term name="folio" form="short">or.</term>
+    <term name="issue" form="short">zenb.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>or.</single>
+      <multiple>or.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>or.</single>
+      <multiple>or.</multiple>
+    </term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">zt.</term>
+    <term name="section" form="short">atal.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.v.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>b.</single>
+      <multiple>bb.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>libk.</single>
+      <multiple>libk.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
+    <term name="editor">
+      <single>argitaratzailea</single>
+      <multiple>argitaratzaileak</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>argitaratzailea</single>
+      <multiple>argitaratzaileak</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
+    </term>
+    <term name="translator">
+      <single>itzultzailea</single>
+      <multiple>itzultzaileak</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>argitaratzaile eta itzultzailea</single>
+      <multiple>argitaratzaile eta itzultzaileak</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>arg.</single>
+      <multiple>arg.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>arg.</single>
+      <multiple>arg.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>itzul.</single>
+      <multiple>itzul.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>arg. eta itzul.</single>
+      <multiple>arg. eta itzul.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb"></term>
+    <term name="director" form="verb">directed by</term>
+    <term name="editor" form="verb">-(e)k argitaratua</term>
+    <term name="editorial-director" form="verb">-(e)k argitaratua</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">-(e)k elkarrizketatua</term>
+    <term name="recipient" form="verb">-(r)entzat</term>
+    <term name="reviewed-author" form="verb">by</term>
+    <term name="translator" form="verb">-(e)k itzulia</term>
+    <term name="editortranslator" form="verb">-(e)k argitaratu eta itzulia</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">arg.</term>
+    <term name="editorial-director" form="verb-short">arg.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="translator" form="verb-short">itzul.</term>
+    <term name="editortranslator" form="verb-short">-(e)k arg. eta itzul.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">urtarrilak</term>
+    <term name="month-02">otsailak</term>
+    <term name="month-03">martxoak</term>
+    <term name="month-04">apirilak</term>
+    <term name="month-05">maiatzak</term>
+    <term name="month-06">ekainak</term>
+    <term name="month-07">uztailak</term>
+    <term name="month-08">abuztuak</term>
+    <term name="month-09">irailak</term>
+    <term name="month-10">urriak</term>
+    <term name="month-11">azaroak</term>
+    <term name="month-12">abenduak</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">urt.</term>
+    <term name="month-02" form="short">ots.</term>
+    <term name="month-03" form="short">martx.</term>
+    <term name="month-04" form="short">apr.</term>
+    <term name="month-05" form="short">mai.</term>
+    <term name="month-06" form="short">eka.</term>
+    <term name="month-07" form="short">uzt.</term>
+    <term name="month-08" form="short">abz.</term>
+    <term name="month-09" form="short">ira.</term>
+    <term name="month-10" form="short">urr.</term>
+    <term name="month-11" form="short">aza.</term>
+    <term name="month-12" form="short">abe.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">udaberria</term>
+    <term name="season-02">uda</term>
+    <term name="season-03">udazkena</term>
+    <term name="season-04">negua</term>
+  </terms>
+</locale>

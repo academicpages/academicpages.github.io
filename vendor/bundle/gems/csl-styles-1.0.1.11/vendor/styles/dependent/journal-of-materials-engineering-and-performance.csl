@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Materials Engineering and Performance</title>
+    <title-short>J. of Materi Eng and Perform</title-short>
+    <id>http://www.zotero.org/styles/journal-of-materials-engineering-and-performance</id>
+    <link href="http://www.zotero.org/styles/journal-of-materials-engineering-and-performance" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-thermal-spray-technology" rel="independent-parent"/>
+    <link href="http://www.springer.com/materials/characterization+%26+evaluation/journal/11665" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <issn>1059-9495</issn>
+    <eissn>1544-1024</eissn>
+    <updated>2017-06-09T23:44:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

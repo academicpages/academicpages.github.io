@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/ams -->
+  <info>
+    <title>Earth Interactions</title>
+    <id>http://www.zotero.org/styles/earth-interactions</id>
+    <link href="http://www.zotero.org/styles/earth-interactions" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-meteorological-society" rel="independent-parent"/>
+    <link href="http://earthinteractions.org/" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="geography"/>
+    <eissn>1087-3562</eissn>
+    <updated>2014-06-06T00:00:56+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

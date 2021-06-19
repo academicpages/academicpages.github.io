@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Beilstein Journal of Nanotechnology</title>
+    <id>http://www.zotero.org/styles/beilstein-journal-of-nanotechnology</id>
+    <link href="http://www.zotero.org/styles/beilstein-journal-of-nanotechnology" rel="self"/>
+    <link href="http://www.zotero.org/styles/beilstein-journal-of-organic-chemistry" rel="independent-parent"/>
+    <link href="https://www.beilstein-journals.org/bjnano/authorInstructions" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <issn>2190-4286</issn>
+    <updated>2020-03-11T00:34:44+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

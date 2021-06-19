@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" default-locale="en-US" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded">
+  <info>
+    <title>Russian GOST R 7.0.5-2008 (numeric)</title>
+    <id>http://www.zotero.org/styles/gost-r-7-0-5-2008-numeric</id>
+    <link href="http://www.zotero.org/styles/gost-r-7-0-5-2008-numeric" rel="self"/>
+    <link href="http://protect.gost.ru/document.aspx?control=7&amp;id=173511" rel="documentation"/>
+    <author>
+      <name>Yurkin Maxim</name>
+      <email>yurkin@gmail.com</email>
+      <uri>http://sites.google.com/site/yurkin/</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="generic-base"/>
+    <summary>This style is independent from style "GOST-R-7.0.5-2008", and the main difference is that this is numeric contrary to author-date. The structure of these two styles is also very different. !!! IMPORTANT !!! Citations are numeric, order of bibliography is in order of citations, default locale is 'en'.
+
+    Стиль основан на ГОСТах 7.0.5-2008 и 7.1.2003. Основная проблема сейчас - это локализация терминов (С., Т., под ред.,и др. ... или соответственно P., Vol., ed., et al.). В принципе это работает и контроллируется полем  default-locale (выше, во второй строчке). Для русского надо заменить на "ru-RU". Это определяет одни настройки для всей библиографии. Однако, идеальное решение - это выбирать язык локализации терминов в зависимости от языка записи (как и предписывает ГОСТ). Это невозможно сделать в рамках Zotero 4.0 и CSL 1.0, но уже сейчас что-то можно сделать в рамках MultiLingual Zotero - см. например http://forums.zotero.org/discussion/18482/multilingual-zotero-fields-and-csl-variables.
+
+    И последнее, патенты по умолчанию представлены как USA, поскольку в CSL 1.0 нет переменной, соответствующей полю country в базе Zotero 4.0. Надеюсь, это будет исправлено в будущих версиях.</summary>
+    <published>2010-03-22T10:40:00+06:00</published>
+    <updated>2020-05-27T03:21:28+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- Local terms -->
+  <locale>
+    <terms>
+      <!-- В русской литературе встречается как "номер", так и "выпуск", а иногда и то, и то. При этом в Zotero есть только одно поле issue. В ГОСТ-е рекомендуется использовать то обозначение (№ или вып.), которое используется в самом документе. Но это сделать нереально, поэтому везде (при любом языке) используем № -->
+      <term name="issue" form="symbol">№</term>
+    </terms>
+  </locale>
+  <locale xml:lang="en">
+    <terms>
+      <term name="online">electronic resource</term>
+      <!-- not exactly the correct term, but the most suitable one -->
+      <term name="letter" form="short">pat.</term>
+      <!-- using completely irrelevant term to localize "pat." -->
+      <term name="editor" form="verb-short">ed.</term>
+      <term name="translator" form="verb-short">trans.</term>
+    </terms>
+  </locale>
+  <locale xml:lang="ru">
+    <terms>
+      <term name="online">электронный ресурс</term>
+      <term name="letter" form="short">пат.</term>
+      <!-- Английские варианты следующих терминов в ГОСТе не указаны, поэтому в английской локале (выше) остаются те, что есть по-умолчанию -->
+      <term name="accessed">дата обращения</term>
+      <term name="editor" form="verb-short">под ред.</term>
+      <!-- Поскольку порядковые числительные используются только для "изд.", то достаточно одного простого определения, но в принципе это должно полностью определяться локалью, включая род терминов -->
+      <term name="ordinal">-е</term>
+    </terms>
+  </locale>
+  <!-- Macros -->
+  <macro name="editor-translator">
+    <names variable="editor translator" delimiter="; ">
+      <label form="verb-short" suffix=" "/>
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="webpage post-weblog">
+        <!-- adds "[Electronic resource]" or Russian equivalent after the title-->
+        <text variable="title" suffix=" "/>
+        <text term="online" text-case="sentence" prefix="[" suffix="]"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="type-number">
+    <!-- document type and number (thesis, patent, report, thesis, manuscript,...) -->
+    <choose>
+      <if type="patent">
+        <text term="letter" form="short"/>
+        <!-- USA should be replaced by country variable when supported by CSL. However, it is not clear how it will be localized -->
+        <text variable="number" prefix=" " suffix=" USA"/>
+      </if>
+      <else>
+        <!-- this is used for entries like 'Report', 'PhD thesis', 'submitted to ...' (for manuscripts) -->
+        <group delimiter=" ">
+          <text variable="genre"/>
+          <text variable="number"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container">
+    <choose>
+      <!-- Special field for short form of container title is only available for journal papers. However, Word plugin (and potentially other CSL processors) has the option to automatically abbreviate (all) container titles. In most cases (other than journal papers) that is not desirable. Unfortunately, testing for variable="container-title-short" does not help, since the above option effectively creates this variable (probably, this can be considered as a bug of CSL processor). So we use abbreviated titles (either manual or automatic) only for journal papers. -->
+      <if type="article-journal">
+        <text variable="container-title" form="short"/>
+      </if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <!-- includes place -->
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="issued-year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="locators">
+    <!-- volume and issue -->
+    <group delimiter=", ">
+      <group delimiter=" ">
+        <text term="volume" form="short" text-case="sentence"/>
+        <text variable="volume"/>
+      </group>
+      <group delimiter=" ">
+        <text term="issue" form="symbol"/>
+        <text variable="issue"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="page">
+    <!-- it is assumed that fields "page" and "# of Pages" do not exist simultaneously -->
+    <group delimiter=" ">
+      <label variable="page" form="short" text-case="sentence" plural="never"/>
+      <text variable="page"/>
+    </group>
+    <group delimiter=" ">
+      <text variable="number-of-pages"/>
+      <text term="page" form="short"/>
+    </group>
+  </macro>
+  <macro name="access">
+    <!-- only for webpages and post-weblogs -->
+    <choose>
+      <if type="webpage post-weblog">
+        <choose>
+          <if variable="URL">
+            <text variable="URL" prefix="URL: "/>
+            <group prefix=" (" suffix=")" delimiter=": ">
+              <text term="accessed"/>
+              <!-- localized date is not used here, since we prefer the Russian date style for entries of all languages -->
+              <date variable="accessed">
+                <date-part name="day" suffix="." form="numeric-leading-zeros"/>
+                <date-part name="month" suffix="." form="numeric-leading-zeros"/>
+                <date-part name="year"/>
+              </date>
+            </group>
+          </if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <!-- Citation -->
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+      <!-- Следующее должно неплохо работать для многих случаев, но точность отображения терминов (с., т., ч. и т.п.) определяется файлом русской локали, который не всегда совпадает с ГОСТ-ом -->
+      <group prefix=", " delimiter=" ">
+        <label variable="locator" form="short" plural="never"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <!-- Bibliography -->
+  <!-- Опции "et-al..." в следующей строчке описывают требования ГОСТ-а, но не полностью. В ГОСТ-е прописано, что от 1 до 3 авторов указываются полностью и в "заголовке", т.е. в начале записи перед названием, а 4 и более сокращаются с помощью "и др." и указываются только в "сведениях об ответственности", т.е. после названия. В этом стиле я сознательно сделал выбор в пользу упрощения (авторы всегда указываются вначале), чтобы не уродовать библиографию. Если есть строгая необходимость следовать букве ГОСТ-а, то это можно реализовать как в ... -->
+  <bibliography et-al-min="4" et-al-use-first="1" entry-spacing="0" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <!-- Комментарии ниже даны в соответствии с терминами, определёнными в ГОСТе -->
+      <group delimiter=". ">
+        <group>
+          <group delimiter=". ">
+            <text macro="author"/>
+            <!-- Заголовок с указанием авторов -->
+            <text macro="title"/>
+            <!-- Заглавие -->
+          </group>
+          <text macro="type-number" prefix=": "/>
+          <!-- Сведения, относящиеся к заглавию -->
+          <text macro="container" prefix=" // "/>
+          <text macro="edition" prefix=". "/>
+          <!-- Издание -->
+          <!-- предполагается, что редакторы и переводчики относятся к конкретному изданию, поэтому указываются после номера издания -->
+          <text macro="editor-translator" prefix=" / "/>
+          <!-- Ответственность -->
+        </group>
+        <group delimiter=", ">
+          <!-- Выходные данные -->
+          <text macro="publisher"/>
+          <text macro="issued-year"/>
+        </group>
+        <!-- Сведения о местоположении составной части в документе или физические характеристики -->
+        <text macro="locators"/>
+        <text macro="page"/>
+        <text macro="access"/>
+        <!-- URL -->
+      </group>
+    </layout>
+  </bibliography>
+</style>

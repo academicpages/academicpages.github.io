@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/taylor-and-francis -->
+  <info>
+    <title>Journal of Modern Jewish Studies</title>
+    <id>http://www.zotero.org/styles/journal-of-modern-jewish-studies</id>
+    <link href="http://www.zotero.org/styles/journal-of-modern-jewish-studies" rel="self"/>
+    <link href="http://www.zotero.org/styles/chicago-note-bibliography" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=CMJS20&amp;page=instructions" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <issn>1472-5886</issn>
+    <eissn>1472-5894</eissn>
+    <updated>2014-05-17T16:39:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

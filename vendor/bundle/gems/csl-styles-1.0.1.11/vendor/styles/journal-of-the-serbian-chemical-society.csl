@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Journal of the Serbian Chemical Society</title>
+    <title-short>JSCS</title-short>
+    <id>http://www.zotero.org/styles/journal-of-the-serbian-chemical-society</id>
+    <link href="http://www.zotero.org/styles/journal-of-the-serbian-chemical-society" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-with-titles" rel="template"/>
+    <link href="http://www.shd-pub.org.rs/index.php/JSCS/about/submissions#authorGuidelines" rel="documentation"/>
+    <author>
+      <name>Aleksandar Dekanski</name>
+      <email>jscs@shd.org.rs</email>
+      <uri>http://www.shd.org.rs/JSCS/</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>0352-5139</issn>
+    <eissn>1820-7421</eissn>
+    <summary>A style for the Journal of Serbian Chemical Society</summary>
+    <updated>2018-12-27T19:52:07+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with=". " delimiter-precedes-last="always"/>
+      <label prefix=", " form="short"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with=". " delimiter-precedes-last="always"/>
+      <label prefix=" (" form="short" text-case="capitalize-first" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date date-parts="year" form="numeric" variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text form="short" term="no date"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher" suffix=", "/>
+    <text variable="publisher-place" suffix=", "/>
+    <text macro="year-date"/>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text form="short" term="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="article-newspaper" match="none">
+        <choose>
+          <if variable="DOI">
+            <text value=""/>
+            <text variable="DOI" prefix="(https://doi.org/" suffix=")"/>
+          </if>
+          <else-if variable="URL">
+            <group delimiter=". " suffix=".">
+              <text variable="URL"/>
+              <choose>
+                <if type="webpage">
+                  <date variable="issued" prefix="Published " form="text"/>
+                </if>
+              </choose>
+              <group>
+                <text term="accessed" text-case="capitalize-first" suffix=" "/>
+                <date variable="accessed">
+                  <date-part name="month" suffix=" "/>
+                  <date-part name="day" suffix=", "/>
+                  <date-part name="year"/>
+                </date>
+              </group>
+            </group>
+          </else-if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text suffix=", " macro="author"/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=", ">
+            <text variable="title" font-style="italic"/>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text variable="title" suffix=", " font-style="italic"/>
+          <text suffix=" " term="in"/>
+          <text suffix=", " macro="editor"/>
+          <text variable="container-title" form="short" text-case="title" suffix=", " font-style="italic"/>
+          <text suffix=", " macro="edition"/>
+          <text macro="publisher"/>
+          <group delimiter=" ">
+            <label variable="page" prefix=", " form="short"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="patent">
+          <group delimiter=", ">
+            <text variable="title"/>
+            <text variable="number"/>
+            <text macro="year-date"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text variable="title"/>
+            <text variable="genre"/>
+            <text variable="publisher"/>
+            <text macro="year-date"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <text variable="container-title" form="short" text-case="title" font-style="italic"/>
+            <text variable="volume" font-weight="bold"/>
+            <text prefix="(" suffix=")" macro="year-date"/>
+            <text variable="page" form="short"/>
+          </group>
+        </else>
+      </choose>
+      <choose>
+        <if variable="DOI"/>
+        <else>
+          <text prefix=". " macro="access"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

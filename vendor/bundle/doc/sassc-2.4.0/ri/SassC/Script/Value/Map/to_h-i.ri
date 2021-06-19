@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	to_h:ETI"#SassC::Script::Value::Map#to_h;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"8The Ruby hash containing the contents of this map. ;TI"@return [Hash<Node, Node>];T:
+@fileI""lib/sassc/script/value/map.rb;T:0@omit_headings_from_table_of_contents_below0F@I"SassC::Script::Value::Map;TcRDoc::NormalClass0

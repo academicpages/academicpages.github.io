@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Bluebook Inline</title>
+    <id>http://www.zotero.org/styles/bluebook-inline</id>
+    <link href="http://www.zotero.org/styles/bluebook-inline" rel="self"/>
+    <link href="https://www.legalbluebook.com/" rel="documentation"/>
+    <author>
+      <name>Matthew Mazzotta</name>
+      <email>mazznet@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Bruce D'Arcus</name>
+      <email>bdarcus@gmail.com</email>
+    </contributor>
+    <contributor>
+      <name>Nancy Sims</name>
+      <email>nsims@umich.edu</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="law"/>
+    <summary>Bluebook citation formatting for in-text citations.</summary>
+    <updated>2014-09-05T10:34:30+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- sets up basics of dealing with authors -->
+  <macro name="source-short">
+    <choose>
+      <if type="legal_case">
+        <group delimiter=" ">
+          <text variable="title" form="short" suffix="," font-style="italic"/>
+          <text variable="volume"/>
+          <text variable="container-title"/>
+        </group>
+      </if>
+      <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <group delimiter=" ">
+          <text variable="volume"/>
+          <names variable="author" font-variant="small-caps">
+            <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
+          </names>
+        </group>
+      </else-if>
+      <else>
+        <group delimiter=" ">
+          <names variable="author">
+            <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
+          </names>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <!-- link to online content, called in YYYYY -->
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <text variable="URL"/>
+        <group prefix=" (" suffix=")">
+          <text value="last visited" suffix=" "/>
+          <date variable="accessed">
+            <date-part name="month" form="short" suffix=" " strip-periods="true"/>
+            <date-part name="day" suffix=", "/>
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="source-long">
+    <choose>
+      <if type="article-journal" match="any">
+        <names variable="author" suffix=", ">
+          <name and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+        </names>
+        <text variable="title" font-style="italic" suffix=", "/>
+        <text variable="volume" suffix=" "/>
+        <text variable="container-title" font-variant="small-caps" suffix=" "/>
+        <text variable="page"/>
+        <text variable="locator" prefix=", "/>
+        <date variable="issued" prefix=" (" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else-if type="legal_case">
+        <text variable="title" suffix=", " font-variant="normal"/>
+        <text variable="number" suffix=", "/>
+        <group delimiter=" ">
+          <text variable="volume"/>
+          <text variable="container-title"/>
+          <text variable="page"/>
+        </group>
+        <text variable="locator" prefix=", "/>
+        <group prefix=" (" suffix=")" delimiter=" ">
+          <text variable="authority"/>
+          <date variable="issued">
+            <date-part name="month" form="short" suffix=" "/>
+            <date-part name="day" suffix=", "/>
+            <date-part name="year"/>
+          </date>
+        </group>
+      </else-if>
+      <else-if type="article-newspaper">
+        <names variable="author" suffix=", ">
+          <name and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+        </names>
+        <text variable="title" suffix=", " font-style="italic"/>
+        <text variable="volume" suffix=" "/>
+        <text variable="container-title" suffix=", " font-variant="small-caps"/>
+        <date variable="issued">
+          <date-part name="month" form="short" suffix=" "/>
+          <date-part name="day" suffix=", "/>
+          <date-part name="year"/>
+        </date>
+        <text variable="page" prefix=", at "/>
+      </else-if>
+      <else-if type="article-magazine">
+        <names variable="author" suffix=", ">
+          <name and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+        </names>
+        <text variable="title" suffix=", " font-style="italic"/>
+        <text variable="volume" suffix=" "/>
+        <text variable="container-title" font-variant="small-caps"/>
+        <text variable="issue" prefix=" "/>
+        <date variable="issued">
+          <date-part name="month" form="short" prefix=", " suffix=" "/>
+          <date-part name="day" suffix=", "/>
+          <date-part name="year"/>
+        </date>
+        <text variable="locator" prefix=", at "/>
+      </else-if>
+      <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <group delimiter=" " suffix=" ">
+          <text variable="volume"/>
+          <names variable="author" suffix="," font-variant="small-caps">
+            <name and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+          </names>
+          <text variable="title" font-variant="small-caps"/>
+          <text variable="locator"/>
+        </group>
+        <group prefix="(" suffix=")" delimiter=" ">
+          <names variable="editor" suffix=" ed.,">
+            <name form="long" and="symbol" delimiter=", " delimiter-precedes-last="never" initialize-with=". "/>
+          </names>
+          <names variable="translator" suffix=" trans.,">
+            <name form="long" and="symbol" delimiter=", " delimiter-precedes-last="never" initialize-with=". "/>
+          </names>
+          <text variable="publisher"/>
+          <text variable="edition"/>
+        </group>
+        <date variable="issued" prefix=" (" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <else-if type="chapter paper-conference" match="any">
+        <text variable="title" suffix=", " font-style="italic"/>
+        <text variable="volume" suffix=" "/>
+        <text macro="container" suffix=" "/>
+        <text variable="page"/>
+        <text variable="locator" prefix=", "/>
+      </else-if>
+      <else>
+        <text variable="volume" suffix=" "/>
+        <text variable="title" font-variant="small-caps"/>
+        <text macro="container" prefix=" "/>
+        <text variable="page" prefix=" "/>
+        <text variable="locator" prefix=" "/>
+      </else>
+    </choose>
+  </macro>
+  <!-- sets up citing to specific page numbers for id and supra cites -->
+  <macro name="at_page">
+    <group delimiter=" ">
+      <text value="at"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <!-- sets up the "in" in front of book sections, etc. -->
+  <macro name="container">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <group>
+          <text term="in" font-style="italic" prefix=" "/>
+          <text variable="container-title" font-variant="small-caps" prefix=" "/>
+        </group>
+      </if>
+      <else-if type="legal_case">
+        <text variable="container-title" form="short" prefix=" "/>
+      </else-if>
+      <else-if type="article-journal">
+        <text variable="container-title" font-variant="small-caps" prefix=" "/>
+      </else-if>
+      <else>
+        <text variable="container-title" font-variant="small-caps"/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1">
+    <layout delimiter="; ">
+      <choose>
+        <if position="ibid">
+          <group delimiter=" ">
+            <text value="id." text-case="capitalize-first" font-style="italic"/>
+            <text macro="at_page"/>
+            <!-- period will not show up - this is for find-and-replace later. -->
+          </group>
+        </if>
+        <else-if position="subsequent" type="legal_case" match="any">
+          <!--CSL does not currently support reference to number of repeats, so cannot follow proper Bluebook repeat rule; choice is either short form, or long form.-->
+          <group delimiter=" ">
+            <text macro="source-short"/>
+            <text variable="locator" prefix="at "/>
+          </group>
+        </else-if>
+        <else-if position="subsequent">
+          <group delimiter=" ">
+            <text macro="source-short" suffix=","/>
+            <text value="supra" font-style="italic"/>
+            <text value="note"/>
+            <text variable="first-reference-note-number"/>
+            <text macro="at_page"/>
+          </group>
+        </else-if>
+        <else>
+          <text macro="source-long"/>
+          <text macro="access" prefix=", "/>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+</style>

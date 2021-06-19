@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Catholic Biblical Association (full note)</title>
+    <id>http://www.zotero.org/styles/catholic-biblical-association</id>
+    <link href="http://www.zotero.org/styles/catholic-biblical-association" rel="self"/>
+    <link href="http://www.zotero.org/styles/society-of-biblical-literature-fullnote-bibliography" rel="template"/>
+    <link href="http://cba.cua.edu/instruct2%5Ccbqinstr%5Cinstrcbq.pdf" rel="documentation"/>
+    <author>
+      <name>Nathan LaMontagne</name>
+      <email>nathan.lamontagne@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="theology"/>
+    <updated>2019-11-07T04:38:08+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="editor" form="verb-short">ed.</term>
+      <term name="translator" form="verb-short">trans.</term>
+    </terms>
+  </locale>
+  <!--
+       Using Zotero with CBQ Style:
+       Using CBQ style in this form means primarily only using a small set of the possible Zotero item types.
+       If you need to use an item type not discussed in CBQ styles, the default style used should be
+       Chicago if you are writing an article, but Turabian if you are writing a paper or dissertation.
+       If you must use an item type other than the ones listed below, I'm afraid you will have to copy and paste
+       the citation in a different format from the Zotero GUI into your document. Sorry.
+
+       CBQ Style will only be designed to handle the following item types, and uses them in the following ways:
+       [CBQIns = CBQ Instructions for contributors, available at the website listed above under "documentation"]
+
+       book: as normal; CBQIns 21.(a)
+       article-journal: as normal;. Always uses the Journal abbv, where available; CBQIns 21.(b)
+       chapter: as normal; CBQIns 21.(c)
+       entry-encyclopedia: These are used for citations to articles in bible dictionaries, FOR WHICH ONLY A SHORT
+       FORM IS EVER USED - the TWNT, TDOT, and other dictionaries for which there is a standard abbreviation in
+       CBQIns section 49. The Encyclopedia entry is used for sources for which an author's name is given at the
+       end of the entry, and the author's name is cited.
+       entry-dictionary: This is used for citations to articles in LEXICONS, for which ONLY A SHORT FORM IS EVER USED
+       e.g., BDAG, HALOT, BDB, and other lexicons for which there is a standard abbreviation in CBQIns seciton 49.
+       The Dictionary entry is used for sources which do not give an author's name at the end of any entries.
+       NOTE: In the current version of Zotero, the two above types are not mapped to a Zotero item type; they both function
+       as the chapter type. So in using these, just make sure that you only put in the information that you want to be seen
+       into Zotero, and no more. You must set the item type to "book section".
+       When these variables are mapped, the commented out selection below
+       in <citation> can be uncommented, but until then, there is no helping it.
+
+       thesis: as normal, for citing dissertations. Standard format.
+       paper-conference: as normal, standard format.
+
+       webpage: This will be for internet resources which are published primarily online; uses date posted and accessed;
+       post: this will be for internet resources which are found on a forum type website. Two dates: date posted, date accessed
+       IMPORTANT: If you use the above online format rsources, note the following for CBQ:
+       Putting the URL info in, you MUST include the angle brackets in the Zotero field; xml can't parse the brackets otherwise
+       You should use the Post Type field for what the resource IS - e.g., forum post, homepage, PDF document, etc.
+       Inside the square brackets, the first thing put is what type of post it is - e.g., "database online" or "review online"-
+       This data must go into the ABSTRACT field (sorry, there's no way around this-CBQ doesn't really know how to handle online stuff)
+       Before the citation of the URL, you also must provide instructions to navigate to the selected page, or simply put "online:"
+       Whichever one you have to write, this data must go in the "Extra" field in Zotero (again, sorry), whatever you put will
+       be followed immediately by a space, a < and then the URL, closed by a >, so write carefully.
+       The Last thing is the date accessed, which should be entered in full date format in the Accessed field of Zotero.
+
+       There are several item types which Zotero is simply not equipped to handle, for instance, citations to ancient resources,
+       which are frequently, if not always, given in a highly abbreviated form.
+       These you will have to handle manually. Also, references to the PG and the PL will have to be entered manually.
+
+
+  -->
+  <macro name="point-locators-subsequent">
+    <group>
+      <choose>
+        <if locator="page" match="none">
+          <choose>
+            <if type="book">
+              <choose>
+                <if variable="volume">
+                  <group>
+                    <number variable="volume" form="numeric" suffix=". "/>
+                    <label variable="locator" form="short" suffix=" "/>
+                  </group>
+                </if>
+                <else>
+                  <label variable="locator" form="short" suffix=". "/>
+                </else>
+              </choose>
+            </if>
+          </choose>
+        </if>
+        <else-if variable="volume">
+          <choose>
+            <if type="chapter">
+              <group delimiter=" " suffix=", ">
+                <text term="in"/>
+                <text variable="title"/>
+                <text macro="container-contributors-short" prefix="(" suffix=")"/>
+              </group>
+            </if>
+          </choose>
+        </else-if>
+      </choose>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <macro name="container-contributors-short">
+    <choose>
+      <if type="chapter">
+        <group delimiter="; ">
+          <choose>
+            <if variable="author">
+              <names variable="editor" delimiter=", ">
+                <label form="verb-short" suffix="."/>
+                <name form="short" and="text" delimiter=", "/>
+              </names>
+            </if>
+          </choose>
+          <choose>
+            <if variable="author editor" match="any">
+              <names variable="translator" delimiter=", ">
+                <label form="verb-short" suffix=". "/>
+                <name form="short" and="text" delimiter=", "/>
+              </names>
+            </if>
+          </choose>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="contributors-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title-short">
+    <choose>
+      <if variable="title" match="none">
+        <choose>
+          <if type="interview">
+            <text term="interview"/>
+          </if>
+          <else-if type="manuscript speech" match="any">
+            <text variable="genre" form="short"/>
+          </else-if>
+          <else-if type="personal_communication">
+            <text macro="issued"/>
+          </else-if>
+        </choose>
+      </if>
+      <else-if type="book">
+        <text variable="title" form="short" font-style="italic"/>
+      </else-if>
+      <else>
+        <text variable="title" form="short" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="contributors">
+    <names variable="author">
+      <name and="text" sort-separator=", " delimiter=", "/>
+      <substitute>
+        <text macro="editor"/>
+        <text macro="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if variable="title" match="none">
+        <choose>
+          <if type="personal_communication" match="none">
+            <text variable="genre" text-case="capitalize-first"/>
+          </if>
+        </choose>
+      </if>
+      <else-if type="book">
+        <text variable="title" font-style="italic"/>
+      </else-if>
+      <else>
+        <text variable="title" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="chapter">
+        <text term="in" suffix=" "/>
+        <text variable="container-title" font-style="italic"/>
+      </if>
+      <else-if type="article-journal">
+        <text variable="container-title" font-style="italic" form="short"/>
+        <text variable="volume" prefix=" "/>
+      </else-if>
+      <else>
+        <text variable="container-title" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="translator">
+    <names variable="translator">
+      <label form="verb-short" suffix=". "/>
+      <name and="text" sort-separator=", " delimiter=", "/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <label form="verb-short" prefix=", " suffix="."/>
+      <name and="text" sort-separator=", " delimiter=", "/>
+    </names>
+  </macro>
+  <macro name="volumes">
+    <choose>
+      <if type="book chapter" match="any">
+        <group>
+          <number variable="number-of-volumes" form="numeric"/>
+          <text term="volume" form="short" prefix=" " suffix="." plural="true"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="secondary-contributors">
+    <group delimiter=", ">
+      <choose>
+        <if variable="author">
+          <names variable="editor" delimiter=", ">
+            <label form="verb-short" suffix=". "/>
+            <name and="text" delimiter=", "/>
+          </names>
+          <choose>
+            <if variable="container-author">
+              <group prefix=" by ">
+                <names variable="container-author">
+                  <label form="verb-short" prefix=" " suffix=" "/>
+                  <name and="text" delimiter=", "/>
+                </names>
+              </group>
+            </if>
+          </choose>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="collection">
+    <text variable="collection-title"/>
+    <text variable="collection-number" prefix=" "/>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if type="book chapter" match="any">
+        <choose>
+          <if is-numeric="edition">
+            <group delimiter=" ">
+              <number variable="edition" form="ordinal"/>
+              <text term="edition" form="short" suffix="."/>
+            </group>
+          </if>
+          <else>
+            <text variable="edition" text-case="capitalize-first" suffix="."/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="issue-note">
+    <choose>
+      <if type="article-journal">
+        <text macro="issued"/>
+      </if>
+      <else-if variable="publisher-place publisher" match="any">
+        <group delimiter=" ">
+          <group delimiter=" ">
+            <choose>
+              <if variable="title" match="none"/>
+              <else-if type="thesis speech" match="any">
+                <text variable="genre" suffix=","/>
+              </else-if>
+            </choose>
+            <text macro="event"/>
+          </group>
+          <text macro="publisher"/>
+          <text macro="issued"/>
+        </group>
+      </else-if>
+      <else>
+        <text macro="issued"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": " suffix=",">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="event">
+    <group>
+      <text term="presented at" suffix=" "/>
+      <text variable="event"/>
+    </group>
+  </macro>
+  <macro name="issued">
+    <choose>
+      <if variable="issued">
+        <choose>
+          <if type="graphic report" match="any">
+            <date variable="issued">
+              <date-part name="month" suffix=" "/>
+              <date-part name="day" suffix=", "/>
+              <date-part name="year"/>
+            </date>
+          </if>
+          <else-if type="legal_case">
+            <text variable="authority" suffix=" "/>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </else-if>
+          <else-if type="book chapter thesis" match="any">
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </else-if>
+          <else-if type="entry-dictionary entry-encyclopedia" match="any"/>
+          <else>
+            <date variable="issued">
+              <date-part name="month" suffix=" "/>
+              <date-part name="day" suffix=", "/>
+              <date-part name="year"/>
+            </date>
+          </else>
+        </choose>
+      </if>
+      <else-if type="chapter"/>
+      <else>
+        <text term="no date"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="point-locators">
+    <choose>
+      <if variable="locator" match="none">
+        <text macro="pages" prefix=" "/>
+      </if>
+      <else-if type="article-journal chapter" match="any">
+        <text macro="pages"/>
+        <text variable="locator" prefix=", here "/>
+      </else-if>
+      <else-if type="entry-dictionary entry-encyclopedia" match="any">
+        <text macro="pages"/>
+        <text variable="locator" prefix=", esp. "/>
+      </else-if>
+      <else>
+        <choose>
+          <if variable="volume">
+            <number variable="volume" form="numeric" prefix=" " suffix="."/>
+          </if>
+        </choose>
+        <text variable="locator" prefix=" "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if type="article-journal">
+        <text variable="page" prefix=" "/>
+      </if>
+      <else-if type="chapter entry-dictionary entry-encyclopedia" match="any">
+        <choose>
+          <if variable="volume">
+            <number variable="volume" form="numeric" suffix="."/>
+          </if>
+        </choose>
+        <text variable="page" prefix=" "/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="webpage-title">
+    <group delimiter=", ">
+      <text variable="genre"/>
+      <date variable="issued">
+        <date-part name="month" suffix=" "/>
+        <date-part name="day" suffix=", "/>
+        <date-part name="year"/>
+      </date>
+      <text variable="container-title" quotes="true"/>
+    </group>
+  </macro>
+  <macro name="webpage-information">
+    <group delimiter="; " prefix="[" suffix="]">
+      <text variable="abstract"/>
+      <group>
+        <text variable="note"/>
+        <text variable="URL"/>
+      </group>
+      <date variable="accessed" prefix="accessed: ">
+        <date-part name="month" suffix=" "/>
+        <date-part name="day" suffix=", "/>
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true">
+    <layout delimiter="; ">
+      <choose>
+        <if position="ibid-with-locator">
+          <group delimiter=", ">
+            <text term="ibid" text-case="capitalize-first" suffix="."/>
+            <text macro="point-locators-subsequent"/>
+          </group>
+        </if>
+        <else-if position="ibid">
+          <text term="ibid" text-case="capitalize-first" suffix="."/>
+        </else-if>
+        <else-if position="subsequent">
+          <group delimiter=", ">
+            <text macro="contributors-short"/>
+            <text macro="title-short"/>
+            <text macro="point-locators-subsequent"/>
+          </group>
+        </else-if>
+        <else>
+          <choose>
+            <if type="book chapter article-journal thesis paper-conference speech" match="any">
+              <group delimiter=", " suffix=" ">
+                <text macro="contributors"/>
+                <text macro="title"/>
+                <text macro="container-title"/>
+              </group>
+              <group delimiter="; " prefix="(" suffix=")">
+                <text macro="translator"/>
+                <text macro="volumes"/>
+                <text macro="secondary-contributors"/>
+                <text macro="collection"/>
+                <text macro="edition"/>
+                <text macro="issue-note"/>
+              </group>
+              <text macro="point-locators"/>
+            </if>
+            <else-if type="entry-encyclopedia entry-dictionary" match="any">
+              <group delimiter=", ">
+                <text macro="contributors"/>
+                <text macro="title"/>
+                <text macro="container-title"/>
+                <text macro="point-locators"/>
+              </group>
+            </else-if>
+            <else-if type="webpage post" match="any">
+              <group delimiter=", ">
+                <text macro="contributors"/>
+                <text macro="title"/>
+                <text macro="webpage-title"/>
+                <text macro="webpage-information"/>
+              </group>
+            </else-if>
+          </choose>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+</style>

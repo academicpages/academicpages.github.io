@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/aip -->
+  <info>
+    <title>Physics of Fluids</title>
+    <id>http://www.zotero.org/styles/physics-of-fluids</id>
+    <link href="http://www.zotero.org/styles/physics-of-fluids" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-institute-of-physics" rel="independent-parent"/>
+    <link href="http://publishing.aip.org/authors" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <issn>1070-6631</issn>
+    <eissn>1089-7666</eissn>
+    <updated>2014-06-09T17:35:27+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>Pediatric Diabetes</title>
+    <id>http://www.zotero.org/styles/pediatric-diabetes</id>
+    <link href="http://www.zotero.org/styles/pediatric-diabetes" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/13995448/homepage/forauthors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1399-543X</issn>
+    <eissn>1399-5448</eissn>
+    <updated>2019-07-27T04:40:53+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

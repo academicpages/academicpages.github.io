@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Taylor &amp; Francis - Chicago Manual of Style (note)</title>
+    <id>http://www.zotero.org/styles/taylor-and-francis-chicago-note</id>
+    <link href="http://www.zotero.org/styles/taylor-and-francis-chicago-note" rel="self"/>
+    <link href="http://www.zotero.org/styles/chicago-note-bibliography" rel="independent-parent"/>
+    <link href="http://www.tandf.co.uk/journals/authors/style/reference/tf_ChicagoEB.pdf" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="generic-base"/>
+    <updated>2013-04-17T05:30:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

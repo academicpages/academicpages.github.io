@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Begell House, generated from "begell-house" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Journal of Women and Minorities in Science and Engineering</title>
+    <title-short>JWM</title-short>
+    <id>http://www.zotero.org/styles/journal-of-women-and-minorities-in-science-and-engineering</id>
+    <link href="http://www.zotero.org/styles/journal-of-women-and-minorities-in-science-and-engineering" rel="self"/>
+    <link href="http://www.zotero.org/styles/begell-house-apa" rel="independent-parent"/>
+    <link href="http://dl.begellhouse.com/forauthors/journals/00551c876cc2f027.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <issn>1072-8325</issn>
+    <eissn>1940-431X</eissn>
+    <updated>2020-02-22T05:59:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

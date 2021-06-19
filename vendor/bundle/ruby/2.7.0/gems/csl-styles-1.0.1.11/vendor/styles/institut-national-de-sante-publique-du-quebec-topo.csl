@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="fr-CA">
+  <info>
+    <title>Institut national de santé publique du Québec - TOPO (French - Canada)</title>
+    <title-short>INSPQ-TOPO</title-short>
+    <id>http://www.zotero.org/styles/institut-national-de-sante-publique-du-quebec-topo</id>
+    <link href="http://www.zotero.org/styles/institut-national-de-sante-publique-du-quebec-topo" rel="self"/>
+    <link href="http://www.inspq.qc.ca/pdf/publications/CollectionTOPO/TOPO-NAPP_styleguide.pdf" rel="documentation"/>
+    <author>
+      <name>Gérald Baril</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <summary>Style dérivé de France (tous les auteurs, numérotation) et modifié par Gérald Baril pour la collection TOPO de l'Institut national de santé publique du Québec</summary>
+    <updated>2018-05-22T00:59:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="fr-CA">
+    <terms>
+      <term name="editor" form="short">dir.</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author" suffix=" ">
+      <name sort-separator=", " initialize-with=". " name-as-sort-order="first" delimiter=", " and="text" delimiter-precedes-last="after-inverted-name">
+        <name-part name="family" font-variant="small-caps"/>
+        <name-part name="given" text-case="capitalize-first"/>
+      </name>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title" suffix="," font-style="italic"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with=". " delimiter=", " and="text" delimiter-precedes-last="never">
+        <name-part name="family" text-case="capitalize-first"/>
+        <name-part name="given" text-case="capitalize-first"/>
+      </name>
+      <label form="short" prefix=" (" suffix="), "/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", " prefix=", ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="DOI accessed" match="all">
+        <group prefix=", &lt;" suffix="&gt;">
+          <text variable="DOI" prefix="https://doi.org/"/>
+        </group>
+      </if>
+      <else-if variable="URL accessed" match="all">
+        <group prefix=", &lt;" suffix="&gt;">
+          <text variable="URL"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="accessed-date">
+    <choose>
+      <if variable="URL DOI" match="any">
+        <group prefix="(" suffix=")" delimiter=" ">
+          <text value="consulté le"/>
+          <date variable="accessed">
+            <date-part name="day" suffix=" "/>
+            <date-part name="month" suffix=" "/>
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="chapter paper-conference article-journal article-magazine article-newspaper webpage" match="any">
+        <group suffix="">
+          <text variable="container-title" font-style="italic" prefix=" " form="long"/>
+          <choose>
+            <if variable="accessed">
+              <text value="en ligne" prefix=", [" suffix="]"/>
+            </if>
+          </choose>
+        </group>
+      </if>
+      <else>
+        <text variable="container-title" font-style="italic" form="long"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="chapter paper-conference article-journal article-magazine article-newspaper webpage" match="none">
+        <text variable="title" font-style="italic"/>
+        <choose>
+          <if variable="accessed">
+            <text value="en ligne" prefix=", [" suffix="]"/>
+          </if>
+        </choose>
+      </if>
+      <else>
+        <text variable="title" quotes="true" suffix=","/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" " prefix=", ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" prefix=", " suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="collection">
+    <choose>
+      <if variable="collection-number">
+        <text variable="collection-title" quotes="true" prefix=", "/>
+        <text variable="collection-number" prefix=", "/>
+      </if>
+      <else>
+        <text variable="collection-title" quotes="true" prefix=", "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="locators">
+    <text variable="volume" prefix=", vol. "/>
+    <text variable="issue" prefix=", n°&#160;"/>
+    <text variable="page" prefix=", p.&#160;"/>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="1" line-spacing="1" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" prefix="(" suffix=")"/>
+      <text macro="author"/>
+      <group suffix="). " prefix="(">
+        <date variable="issued">
+          <date-part name="day" suffix=" "/>
+          <date-part name="month" suffix=" "/>
+          <date-part name="year"/>
+        </date>
+      </group>
+      <text macro="title"/>
+      <choose>
+        <if type="thesis">
+          <text variable="genre" prefix=", "/>
+          <text macro="publisher"/>
+        </if>
+        <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <text macro="edition"/>
+          <text macro="publisher"/>
+          <text macro="collection"/>
+        </else-if>
+        <else-if type="patent">
+          <text variable="number" suffix=". "/>
+          <date variable="issued">
+            <date-part name="day" suffix=" "/>
+            <date-part name="month" suffix=" "/>
+            <date-part name="year" suffix="."/>
+          </date>
+        </else-if>
+        <else-if type="chapter paper-conference webpage" match="any">
+          <group prefix=" ">
+            <text value="dans"/>
+            <text macro="editor" prefix=" "/>
+            <text macro="journal-title"/>
+            <text variable="event" prefix=", " font-style="italic"/>
+          </group>
+          <text macro="publisher"/>
+          <text variable="page" prefix=", p. "/>
+        </else-if>
+        <else>
+          <text macro="journal-title"/>
+          <text macro="locators"/>
+        </else>
+      </choose>
+      <text macro="access"/>
+      <text macro="accessed-date" prefix=" "/>
+    </layout>
+  </bibliography>
+</style>

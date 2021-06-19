@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="minimal" default-locale="en-GB">
+  <info>
+    <title>British Journal of Dermatology</title>
+    <id>http://www.zotero.org/styles/british-journal-of-dermatology</id>
+    <link href="http://www.zotero.org/styles/british-journal-of-dermatology" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-lancet" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-2133/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0007-0963</issn>
+    <eissn>1365-2133</eissn>
+    <summary>The Lancet style adapted for BJD</summary>
+    <updated>2014-03-10T23:30:36+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", " strip-periods="true"/>
+      <et-al term="et-al" font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", " strip-periods="true"/>
+      <et-al term="et-al" font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place"/>
+    <text variable="publisher" prefix=", "/>
+    <group prefix=", ">
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="page" match="none">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix=" doi:"/>
+          </if>
+          <else-if variable="URL">
+            <text variable="URL" prefix="URL "/>
+            <group prefix=" [" suffix="]" delimiter=" ">
+              <text term="accessed" suffix=" on"/>
+              <date variable="accessed" form="text"/>
+            </group>
+          </else-if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <text variable="container-title" form="short" font-style="italic" strip-periods="true"/>
+      </if>
+      <else>
+        <text variable="container-title" suffix=". " form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book">
+        <group delimiter=", ">
+          <text variable="title"/>
+          <text macro="edition"/>
+        </group>
+      </if>
+      <else-if type="webpage">
+        <text variable="title" suffix=" [WWW Document]"/>
+      </else-if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="5" et-al-use-first="3" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number"/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group prefix=" " delimiter=" ">
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=", " suffix=".">
+            <group prefix=" " delimiter=" ">
+              <text term="in" suffix=":" text-case="capitalize-first"/>
+              <text variable="container-title" font-style="italic"/>
+              <text macro="editor" prefix="(" suffix=")"/>
+            </group>
+            <text macro="edition"/>
+          </group>
+          <group delimiter="; " suffix="." prefix=" ">
+            <text macro="publisher"/>
+            <text variable="page" suffix="."/>
+          </group>
+        </else-if>
+        <else>
+          <text macro="journal-title"/>
+          <group suffix=".">
+            <date variable="issued" prefix=" ">
+              <date-part name="year"/>
+            </date>
+            <group prefix="; ">
+              <text variable="volume" font-weight="bold"/>
+              <text variable="page" prefix=":"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </layout>
+  </bibliography>
+</style>

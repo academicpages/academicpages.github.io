@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Lung India</title>
+    <id>http://www.zotero.org/styles/lung-india</id>
+    <link href="http://www.zotero.org/styles/lung-india" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript" rel="independent-parent"/>
+    <link href="http://www.lungindia.com/contributors.asp" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0970-2113</issn>
+    <eissn>0974-598X</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

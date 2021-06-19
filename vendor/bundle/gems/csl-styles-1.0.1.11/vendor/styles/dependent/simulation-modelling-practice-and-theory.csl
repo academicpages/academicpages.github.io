@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier, generated from "elsevier" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Simulation Modelling Practice and Theory</title>
+    <id>http://www.zotero.org/styles/simulation-modelling-practice-and-theory</id>
+    <link href="http://www.zotero.org/styles/simulation-modelling-practice-and-theory" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-with-titles" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <issn>1569-190X</issn>
+    <updated>2018-03-09T05:06:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

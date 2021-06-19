@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/aspet -->
+  <info>
+    <title>The Journal of Pharmacology and Experimental Therapeutics</title>
+    <id>http://www.zotero.org/styles/the-journal-of-pharmacology-and-experimental-therapeutics</id>
+    <link href="http://www.zotero.org/styles/the-journal-of-pharmacology-and-experimental-therapeutics" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-society-for-pharmacology-and-experimental-therapeutics" rel="independent-parent"/>
+    <link href="http://jpet.aspetjournals.org/site/misc/ifora.xhtml#References" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <issn>0022-3565</issn>
+    <eissn>1521-0103</eissn>
+    <updated>2014-05-09T03:13:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>The Lawyer Quarterly</title>
+    <id>http://www.zotero.org/styles/the-lawyer-quarterly</id>
+    <link href="http://www.zotero.org/styles/the-lawyer-quarterly" rel="self"/>
+    <link href="http://www.zotero.org/styles/pravnik" rel="independent-parent"/>
+    <link href="https://tlq.ilaw.cas.cz/index.php/tlq/about/submissions#authorGuidelines" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <issn>1805-8396</issn>
+    <eissn>1805-840X</eissn>
+    <summary>Suitable for The Lawyer Quarterly - a journal published by the Institute of State and Law of the Czech Academy of Sciences.</summary>
+    <updated>2020-05-27T03:18:48+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

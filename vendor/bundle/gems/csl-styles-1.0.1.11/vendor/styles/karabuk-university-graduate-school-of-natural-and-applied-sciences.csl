@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Karabuk University - Graduate School of Natural and Applied Sciences</title>
+    <title-short>KBU</title-short>
+    <id>http://www.zotero.org/styles/karabuk-university-graduate-school-of-natural-and-applied-sciences</id>
+    <link href="http://www.zotero.org/styles/karabuk-university-graduate-school-of-natural-and-applied-sciences" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-mathphys-brackets" rel="template"/>
+    <link href="http://fbe.karabuk.edu.tr/yuklenen/files/Ornek-Tez-dr.docx" rel="documentation"/>
+    <author>
+      <name>Yusuf Yargı Baydilli</name>
+      <email>yrgbydll@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <category field="science"/>
+    <updated>2020-05-02T03:29:41+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="edition">
+    <choose>
+      <if type="chapter book" match="any">
+        <text variable="edition" text-case="capitalize-first" suffix=". "/>
+        <text term="edition" form="short" text-case="capitalize-first" suffix=", "/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="author">
+    <choose>
+      <if type="webpage" match="any">
+        <names variable="author" prefix="Internet: ">
+          <name and="text" initialize-with=". " name-as-sort-order="all"/>
+          <label form="short" text-case="capitalize-first" prefix=", "/>
+        </names>
+      </if>
+      <else>
+        <names variable="author">
+          <name and="text" initialize-with=". " name-as-sort-order="all"/>
+          <label form="short" prefix=", " text-case="capitalize-first"/>
+        </names>
+      </else>
+    </choose>
+  </macro>
+  <macro name="locators">
+    <group delimiter=" ">
+      <number variable="volume" form="numeric"/>
+      <number prefix="(" suffix="): " variable="issue"/>
+    </group>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="article-journal chapter patent paper-conference report speech thesis" match="any">
+        <text variable="title" text-case="capitalize-first" quotes="false"/>
+      </if>
+      <else-if type="book webpage" match="any">
+        <text variable="title" text-case="title" quotes="false"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="event">
+    <group>
+      <text variable="event" text-case="title" font-style="italic" font-weight="bold" suffix=", "/>
+      <text variable="event-place" text-case="capitalize-all" suffix=", "/>
+      <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <text macro="author" suffix=", "/>
+      <group>
+        <text macro="title" prefix="&quot;" suffix="&quot;, "/>
+        <choose>
+          <if type="report thesis patent" match="any">
+            <group>
+              <text variable="genre" text-case="capitalize-all" suffix=", "/>
+              <text variable="publisher" text-case="title" font-style="italic" font-weight="bold" suffix=", "/>
+              <text variable="publisher-place" text-case="capitalize-all" suffix=", "/>
+              <text variable="page" suffix=" "/>
+              <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+            </group>
+          </if>
+          <else-if type="article-journal" match="any">
+            <group>
+              <text variable="container-title" text-case="capitalize-all" font-style="italic" font-weight="bold" suffix=", "/>
+              <choose>
+                <if match="none" variable="issue">
+                  <group suffix=": ">
+                    <number variable="volume"/>
+                  </group>
+                </if>
+                <else>
+                  <text macro="locators"/>
+                </else>
+              </choose>
+              <text variable="page" suffix=" "/>
+              <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+            </group>
+          </else-if>
+          <else-if type="chapter book" match="any">
+            <group>
+              <text variable="container-title" text-case="title" suffix=", "/>
+              <text macro="edition"/>
+              <text variable="publisher" text-case="capitalize-all" font-style="italic" font-weight="bold" suffix=", "/>
+              <text variable="publisher-place" text-case="capitalize-all" suffix=", "/>
+              <text variable="page" suffix=" "/>
+              <text variable="number-of-pages" suffix=" "/>
+              <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+            </group>
+          </else-if>
+          <else-if type="webpage" match="any">
+            <text variable="URL" font-weight="bold" suffix=" "/>
+            <date date-parts="year" form="text" variable="accessed" prefix="(" suffix=")"/>
+          </else-if>
+          <else-if type="paper-conference speech" match="any">
+            <text macro="event"/>
+          </else-if>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+  <locale xml:lang="en"/>
+</style>

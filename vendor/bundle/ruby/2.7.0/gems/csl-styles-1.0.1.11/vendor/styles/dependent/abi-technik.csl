@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="de-DE">
+  <info>
+    <title>ABI Technik (German)</title>
+    <id>http://www.zotero.org/styles/abi-technik</id>
+    <link href="http://www.zotero.org/styles/abi-technik" rel="self"/>
+    <link href="http://www.zotero.org/styles/chicago-fullnote-bibliography" rel="independent-parent"/>
+    <link href="http://www.degruyter.com/view/supplement/s21914664_Autorenhinweise.pdf" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="social_science"/>
+    <issn>0720-6763</issn>
+    <eissn>2191-4664</eissn>
+    <summary>Der Chicago Style greift ab Heft 4, 2015.</summary>
+    <updated>2015-12-16T02:35:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

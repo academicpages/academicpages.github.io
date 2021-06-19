@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" default-locale="en-US" version="1.0" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>Magnetic Resonance Materials in Physics, Biology and Medicine</title>
+    <title-short>Magn Reson Mater Phy</title-short>
+    <id>http://www.zotero.org/styles/magnetic-resonance-materials-in-physics-biology-and-medicine</id>
+    <link href="http://www.zotero.org/styles/magnetic-resonance-materials-in-physics-biology-and-medicine" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-basic-brackets-no-et-al" rel="template"/>
+    <link href="http://www.springer.com/medicine/radiology/journal/10334" rel="documentation"/>
+    <link href="https://forums.zotero.org/discussion/37338/doi-should-be-included-only-for-online-articles-not-for-articles-included-in-a-print-issue/#Item_7" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>0968-5243</issn>
+    <eissn>1352-8661</eissn>
+    <summary>Springer Numbered Style but no DOIs as per explicit instructions from editor</summary>
+    <updated>2015-01-19T08:18:10+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <!--<et-al strip-periods="true"/> -->
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <text term="in" text-case="capitalize-first" suffix=": "/>
+    <names variable="editor">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" strip-periods="true"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book">
+        <group delimiter=", " suffix=". ">
+          <text variable="title"/>
+          <text macro="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="title" suffix=". "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-parenth">
+    <date prefix="(" suffix=")" variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="year-parenth"/>
+        <text macro="title"/>
+      </group>
+      <choose>
+        <if variable="page">
+          <choose>
+            <!--    Book chapter
+                 Brown B, Aaron M (2001) The politics of nature.
+                 In: Smith J (ed) The rise of modern genomics, 3rd edn.
+                 Wiley, New York, pp 230-257 -->
+            <if type="chapter paper-conference" match="any">
+              <text macro="editor"/>
+              <group prefix=" " delimiter=", " suffix=". ">
+                <text variable="container-title" form="short"/>
+                <text macro="edition"/>
+              </group>
+              <text variable="publisher" suffix=", "/>
+              <text variable="publisher-place" suffix=", "/>
+              <group delimiter=" ">
+                <label variable="page" form="short" strip-periods="true"/>
+                <text variable="page"/>
+              </group>
+            </if>
+            <else>
+              <!--    Journal article
+                   Gamelin FX, Baquet G, Berthoin S, Thevenet D, Nourry C, Nottin S, Bosquet L (2009)
+                   Effect of high intensity intermittent training on heart rate variability in prepubescent children.
+                   Eur J Appl Physiol 105:731-738. doi: 10.1007/s00421-008-0955-8
+                   Ideally, the names of all authors should be provided, but the usage of "et al"
+                   in long author lists will also be accepted:
+                   Smith J, Jones M Jr, Houghton L et al (1999)
+                   Future of health insurance. N Engl J Med 965:325-329   -->
+              <group>
+                <text variable="container-title" suffix=" " form="short" strip-periods="true"/>
+                <text variable="volume" suffix=":"/>
+                <text variable="page" suffix="."/>
+              </group>
+            </else>
+          </choose>
+        </if>
+        <else-if variable="DOI">
+          <!--    Article by DOI
+               Slifka MK, Whitton JL (2000) Clinical implications of dysregulated cytokine production.
+               J Mol Med. doi:10.1007/s001090000086     -->
+          <group delimiter=". ">
+            <text variable="container-title" form="short" strip-periods="true"/>
+            <text prefix="doi: " variable="DOI"/>
+          </group>
+        </else-if>
+        <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <!--    Book
+               South J, Blass B (2001) The future of modern genomics. Blackwell, London    -->
+          <group delimiter=", ">
+            <text variable="publisher"/>
+            <text variable="publisher-place"/>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <!--    Online document
+               Doe J (1999) Title of subordinate document. In: The dictionary of substances and their effects.
+               Royal Society of Chemistry. Available via DIALOG.
+               http://www.rsc.org/dose/title of subordinate document. Accessed 15 Jan 1999
+               Unfortunately, "Royal Society of Chemistry. Available via DIALOG." cannot seem to be mapped here -->
+          <group>
+            <text prefix="In: " variable="container-title" suffix=". " form="short"/>
+            <text variable="URL" suffix=". "/>
+            <date variable="accessed">
+              <date-part prefix="Accessed " name="day" suffix=" "/>
+              <date-part name="month" form="short" suffix=" " strip-periods="true"/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <!--    Dissertation
+               Trent JW (1975) Experimental acute renal failure. Dissertation, University of California       -->
+          <group delimiter=", ">
+            <text variable="genre" text-case="capitalize-first"/>
+            <text variable="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <!--    None of the provided formats need to add manually (some data provided) -->
+          <group>
+            <text variable="container-title" form="short" suffix=" "/>
+            <text variable="volume" suffix=":"/>
+            <text variable="page" suffix="."/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

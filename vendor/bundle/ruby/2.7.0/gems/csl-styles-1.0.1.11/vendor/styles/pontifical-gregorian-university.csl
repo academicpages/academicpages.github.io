@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize-with-hyphen="true" page-range-format="expanded" demote-non-dropping-particle="sort-only" name-delimiter=" &#8211; " names-delimiter=" &#8211; " delimiter-precedes-last="always" et-al-min="4" et-al-use-first="1" name-form="long" initialize-with=". " sort-separator=", " default-locale="it-IT">
+  <info>
+    <title>Pontifical Gregorian University (Italian)</title>
+    <id>http://www.zotero.org/styles/pontifical-gregorian-university</id>
+    <link href="http://www.zotero.org/styles/pontifical-gregorian-university" rel="self"/>
+    <link href="http://www.unigre.it" rel="documentation"/>
+    <author>
+      <name>Information Systems</name>
+      <email>ced(@) unigre{.} it  (remove spaces and parenthesis/brackets but leave periods to get email)</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="theology"/>
+    <summary>The Pontifical Gregorian University (Pontificia Università Gregoriana) style</summary>
+    <updated>2018-05-22T00:59:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <style-options punctuation-in-quote="false"/>
+    <terms>
+      <term name="et-al"> &#8211; al.</term>
+      <term name="ibid">Ibid.</term>
+      <term name="in">in</term>
+      <term name="accessed">accesso</term>
+      <term name="editor">ed.</term>
+      <term name="editor" form="short">ed.</term>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
+  <locale xml:lang="fr">
+    <terms>
+      <term name="accessed">consulté</term>
+      <term name="open-quote">«</term>
+      <term name="close-quote">»</term>
+      <term name="in">dans</term>
+      <term name="editor">éd.</term>
+      <term name="editor" form="short">éd.</term>
+    </terms>
+  </locale>
+  <locale xml:lang="es">
+    <terms>
+      <term name="accessed">consulta</term>
+      <term name="in">en</term>
+    </terms>
+  </locale>
+  <locale xml:lang="de">
+    <terms>
+      <term name="accessed">Zugriff</term>
+      <term name="editor">Hg.</term>
+      <term name="editor" form="short">Hg.</term>
+    </terms>
+  </locale>
+  <locale xml:lang="en">
+    <terms>
+      <term name="accessed">accessed</term>
+      <term name="open-quote">«</term>
+      <term name="close-quote">»</term>
+    </terms>
+  </locale>
+  <macro name="autori-nota">
+    <names variable="author" font-variant="normal" font-weight="normal">
+      <name font-variant="normal" font-weight="normal" initialize-with=".">
+        <name-part name="given" font-variant="small-caps"/>
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+      <label form="short" prefix=", "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="autori-bibliografia">
+    <names variable="author">
+      <name initialize-with="." name-as-sort-order="all">
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="autori-libro-generale-bibliografia">
+    <names variable="container-author">
+      <name initialize-with=".">
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+    </names>
+  </macro>
+  <macro name="editori-libro-generale-bibliografia">
+    <names variable="editor">
+      <name initialize-with=".">
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="titolo-nota">
+    <choose>
+      <if type="book thesis manuscript" match="any">
+        <text variable="title" form="short" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" form="short" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="titolo-bibliografia">
+    <choose>
+      <if type="book thesis manuscript" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else-if type="webpage" match="any">
+        <group delimiter=" ">
+          <text variable="title"/>
+          <text macro="data-accesso-sito"/>
+        </group>
+      </else-if>
+      <else>
+        <text variable="title" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="titolo-libro-generale-bibliografia">
+    <text variable="container-title" font-style="italic"/>
+  </macro>
+  <macro name="volume-numero">
+    <choose>
+      <if match="any" is-numeric="volume">
+        <number text-case="uppercase" variable="volume" form="roman"/>
+      </if>
+      <else>
+        <text variable="volume" text-case="uppercase"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="collana-e-numero">
+    <group delimiter=" ">
+      <text variable="collection-title"/>
+      <text variable="collection-number"/>
+    </group>
+  </macro>
+  <macro name="pagine-citate-nota">
+    <text variable="locator"/>
+  </macro>
+  <macro name="luogo-data-edizione-libro">
+    <text variable="publisher-place" suffix=" "/>
+    <date form="text" date-parts="year-month-day" variable="issued"/>
+    <text variable="edition" vertical-align="sup"/>
+  </macro>
+  <macro name="informazioni-articolo">
+    <group delimiter=" ">
+      <text variable="container-title" form="short" font-style="italic"/>
+      <text variable="volume"/>
+      <choose>
+        <if type="article-journal" match="any">
+          <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+        </if>
+        <else>
+          <date form="numeric" variable="issued" prefix="(" suffix=")"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="informazioni-libro">
+    <group delimiter=", ">
+      <text macro="volume-numero" text-case="capitalize-all"/>
+      <text macro="collana-e-numero"/>
+      <text macro="luogo-data-edizione-libro"/>
+    </group>
+  </macro>
+  <macro name="data-accesso-sito">
+    <group delimiter=" " prefix="[" suffix="]">
+      <text term="accessed" suffix=":"/>
+      <date delimiter="." variable="accessed">
+        <date-part name="day" range-delimiter="-"/>
+        <date-part name="month" form="numeric"/>
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="informazioni-manoscritto">
+    <group delimiter=", ">
+      <text variable="publisher-place"/>
+      <text variable="archive"/>
+      <text variable="archive_location"/>
+    </group>
+  </macro>
+  <citation near-note-distance="0" disambiguate-add-names="true" disambiguate-add-givenname="true" disambiguate-add-year-suffix="false">
+    <layout delimiter="; ">
+      <choose>
+        <if match="any" position="ibid">
+          <choose>
+            <if match="any" position="near-note">
+              <group delimiter=", ">
+                <text term="ibid" text-case="capitalize-first" font-style="italic"/>
+                <text macro="pagine-citate-nota"/>
+              </group>
+            </if>
+            <else>
+              <group delimiter=", ">
+                <text macro="autori-nota"/>
+                <text macro="titolo-nota"/>
+                <choose>
+                  <if type="book thesis" match="any">
+                    <text macro="volume-numero"/>
+                  </if>
+                </choose>
+                <text macro="pagine-citate-nota"/>
+              </group>
+            </else>
+          </choose>
+        </if>
+        <else>
+          <group delimiter=", ">
+            <text macro="autori-nota"/>
+            <text macro="titolo-nota"/>
+            <choose>
+              <if type="book thesis" match="any">
+                <text macro="volume-numero"/>
+              </if>
+            </choose>
+            <text macro="pagine-citate-nota"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography et-al-min="19" et-al-use-first="18" subsequent-author-substitute="&#8211;&#8211;&#8211;&#8211;">
+    <sort>
+      <key macro="autori-bibliografia"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=", ">
+        <text macro="autori-bibliografia"/>
+        <text macro="titolo-bibliografia"/>
+        <choose>
+          <if type="article article-magazine article-journal article-newspaper" match="any">
+            <text macro="informazioni-articolo"/>
+          </if>
+          <else-if type="manuscript" match="any">
+            <text macro="informazioni-manoscritto"/>
+          </else-if>
+          <else>
+            <choose>
+              <if type="entry-dictionary entry-encyclopedia chapter paper-conference" match="any">
+                <group delimiter=" ">
+                  <text term="in"/>
+                  <choose>
+                    <if match="any" variable="container-author">
+                      <text macro="autori-libro-generale-bibliografia" suffix=", "/>
+                    </if>
+                    <else>
+                      <text macro="editori-libro-generale-bibliografia" suffix=", "/>
+                    </else>
+                  </choose>
+                  <text macro="titolo-libro-generale-bibliografia"/>
+                </group>
+              </if>
+            </choose>
+            <choose>
+              <if type="webpage" match="none">
+                <text macro="informazioni-libro"/>
+              </if>
+            </choose>
+            <choose>
+              <if type="webpage" match="any">
+                <text variable="URL"/>
+              </if>
+            </choose>
+          </else>
+        </choose>
+      </group>
+      <choose>
+        <if type="article article-magazine article-journal article-newspaper" match="any">
+          <text variable="page" prefix=" "/>
+        </if>
+        <else>
+          <text variable="page" prefix=", "/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

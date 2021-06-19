@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/iet -->
+  <info>
+    <title>IET Power Electronics</title>
+    <id>http://www.zotero.org/styles/iet-power-electronics</id>
+    <link href="http://www.zotero.org/styles/iet-power-electronics" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-institution-of-engineering-and-technology" rel="independent-parent"/>
+    <link href="http://ieeexplore.ieee.org/servlet/opac?punumber=4475725" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <category field="communications"/>
+    <issn>1755-4535</issn>
+    <updated>2015-02-15T23:29:52+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

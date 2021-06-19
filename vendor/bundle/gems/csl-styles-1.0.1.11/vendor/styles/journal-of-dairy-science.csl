@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Journal of Dairy Science</title>
+    <title-short>JDS</title-short>
+    <id>http://www.zotero.org/styles/journal-of-dairy-science</id>
+    <link href="http://www.zotero.org/styles/journal-of-dairy-science" rel="self"/>
+    <link href="http://www.journalofdairyscience.org/content/inst-auth" rel="documentation"/>
+    <author>
+      <name>John B. Cole</name>
+      <email>john.cole@ars.usda.gov</email>
+      <uri>http://aipl.arsusda.gov/</uri>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0022-0302</issn>
+    <eissn>1525-3198</eissn>
+    <summary>Style based on the 2016 Journal of Dairy Science "Instructions to Authors: Style and Form"</summary>
+    <updated>2016-12-24T20:24:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <name and="text" initialize-with="." delimiter=", "/>
+      <label form="short" plural="never" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="first" and="text" sort-separator=", " initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" " suffix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with="."/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book webpage" match="any">
+        <text variable="title" text-case="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", " suffix=".">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix">
+    <sort>
+      <key macro="year-date"/>
+      <key variable="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography line-spacing="2" hanging-indent="true">
+    <sort>
+      <key macro="author" names-use-last="true"/>
+      <key macro="year-date" names-use-last="true"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="author" suffix=". "/>
+      <date variable="issued" suffix=".">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="book report chapter" match="any">
+          <group delimiter=". " prefix=" ">
+            <text macro="title"/>
+            <text macro="edition"/>
+            <text macro="editor"/>
+            <text variable="collection-title"/>
+            <text variable="collection-number" prefix="No. "/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="paper-conference" match="any">
+          <group>
+            <text variable="title" text-case="capitalize-first" prefix=". "/>
+            <label text-case="capitalize-first" prefix=". " variable="page"/>
+            <text variable="page" prefix=" "/>
+            <text variable="container-title" prefix=" in "/>
+            <text variable="event" prefix=" "/>
+            <text variable="publisher" prefix=". "/>
+            <text variable="publisher-place" prefix=", " suffix="."/>
+          </group>
+        </else-if>
+        <else-if type="webpage" match="any">
+          <group prefix=" ">
+            <text macro="title"/>
+            <text term="accessed" text-case="capitalize-first" prefix=". "/>
+            <date form="text" variable="accessed" prefix=" "/>
+            <text variable="URL" prefix=". "/>
+          </group>
+        </else-if>
+        <else-if type="patent" match="any">
+          <group delimiter=". ">
+            <text macro="title" prefix=" "/>
+            <text variable="note" prefix=" " suffix=", assignee"/>
+            <text variable="number" prefix=" US Pat. No. "/>
+          </group>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <group prefix=" ">
+            <text macro="title" suffix="."/>
+            <text variable="genre" prefix=" " suffix=" Thesis."/>
+            <text variable="publisher" form="short" prefix=" " suffix=","/>
+            <text variable="publisher-place" prefix=" "/>
+          </group>
+        </else-if>
+        <else-if type="legislation" match="any">
+          <group>
+            <text macro="title" prefix=" "/>
+            <text variable="abstract"/>
+            <text variable="volume" prefix=". "/>
+            <text variable="container-title" prefix=". "/>
+            <text variable="section" prefix=". " suffix=":"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else>
+          <group prefix=" ">
+            <text macro="title"/>
+            <text variable="container-title" form="short" font-style="normal" prefix=". "/>
+            <group delimiter=":" prefix=" ">
+              <text variable="volume"/>
+              <text variable="page"/>
+            </group>
+            <text variable="DOI" prefix=". doi:"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

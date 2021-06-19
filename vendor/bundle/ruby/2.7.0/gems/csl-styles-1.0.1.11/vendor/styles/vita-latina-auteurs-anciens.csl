@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="fr-FR">
+  <!--
+
+Feuille de style CSL 
+à destination du logiciel Zotero 
+comportant les instructions de formatage de la bibliographie SEULEMENT DES TEXTES ANCIENS telles que définies par la revue Vita Latina [http://www.persee.fr/collection/vita ; http://vitalatina.upv.univ-montp3.fr/]
+réalisée par Louis Autin (doctorant - Université Grenoble Alpes ; Universität Osnabrück)
+
+Remarques :
+	- le formatage bibliographique différant assez largement entre les études critiques et les éditions d'auteurs anciens, cette feuille ne doit servir qu'à éditer la bibliographie se rapportant aux secondes. Pour la littérature secondaire, voir le style "Vita Latina" [lien] 
+-->
+  <!-- INFORMATIONS RELATIVES A LA FEUILLE DE STYLE -->
+  <info>
+    <title>Vita Latina (auteurs anciens, French)</title>
+    <title-short>VL (text. anc.)</title-short>
+    <id>http://www.zotero.org/styles/vita-latina-auteurs-anciens</id>
+    <link href="http://www.zotero.org/styles/vita-latina-auteurs-anciens" rel="self"/>
+    <link href="http://vitalatina.upv.univ-montp3.fr/page-3/" rel="documentation"/>
+    <author>
+      <name>Louis Autin (UGA)</name>
+      <email>ls.autin@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <issn>0042-7306</issn>
+    <eissn>1783-1830</eissn>
+    <summary>Zotero stylesheet for Vita Latina (journal) specific to the editions of Ancient Literature</summary>
+    <published>2017-03-03T00:00:00</published>
+    <updated>2018-05-22T00:59:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- INSTRUCTIONS DE FORMATAGE EN FRANCAIS -->
+  <locale>
+    <terms>
+      <term name="editor" form="short">éd.</term>
+      <term name="translator" form="verb-short">trad.</term>
+      <term name="in">dans</term>
+      <term name="no date">pas de date</term>
+    </terms>
+  </locale>
+  <!-- MACROS DE BIBLIOGRAPHIE -->
+  <macro name="contributeurs-tri">
+    <names variable="author">
+      <name name-as-sort-order="all" and="symbol" sort-separator=", " delimiter=", " delimiter-precedes-last="never"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="auteurs">
+    <names variable="author" suffix=", ">
+      <name name-as-sort-order="all" and="symbol" sort-separator=" " delimiter=", " initialize-with=". "/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="date-publication">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="titre">
+    <text variable="title" font-style="italic" text-case="title"/>
+  </macro>
+  <macro name="auteurs-secondaires">
+    <group delimiter=", ">
+      <choose>
+        <if variable="editor">
+          <names variable="editor">
+            <name and="symbol" delimiter=", " initialize-with=". " font-variant="small-caps" delimiter-precedes-last="never"/>
+            <label form="short" prefix=" (" suffix=")"/>
+          </names>
+        </if>
+      </choose>
+      <choose>
+        <if variable="translator">
+          <names variable="translator">
+            <name and="symbol" delimiter=", " initialize-with=". " font-variant="small-caps" delimiter-precedes-last="never"/>
+            <label form="short" prefix=" (" suffix=")"/>
+          </names>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="lieu-edition">
+    <text variable="publisher-place" form="short"/>
+  </macro>
+  <macro name="editeur">
+    <text variable="publisher" form="short"/>
+  </macro>
+  <macro name="titre-collection">
+    <text variable="collection-title" form="short"/>
+  </macro>
+  <macro name="numero-collection">
+    <text variable="collection-number"/>
+  </macro>
+  <macro name="publication">
+    <group delimiter=", ">
+      <text macro="lieu-edition"/>
+      <text macro="editeur"/>
+      <text macro="titre-collection" quotes="true"/>
+      <text macro="numero-collection"/>
+    </group>
+  </macro>
+  <macro name="volume">
+    <text variable="volume"/>
+  </macro>
+  <macro name="numero-edition">
+    <text variable="edition" vertical-align="sup"/>
+  </macro>
+  <!-- INSTRUCTIONS DE FORMATAGE DES CITATIONS (inutile pour cette feuille de style, réservée à la bibliographie des éditions d'auteurs anciens -->
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="false">
+    <layout suffix="." delimiter=" ; ">
+      <group delimiter=" : ">
+        <group delimiter=" ">
+          <text value="non disponible"/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <!-- INSTRUCTIONS DE FORMATAGE DE LA BIBLIOGRAPHIE -->
+  <bibliography et-al-min="11" et-al-use-first="7" subsequent-author-substitute="&#8212; " entry-spacing="0">
+    <sort>
+      <key macro="contributeurs-tri"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="auteurs" prefix="&#8195;&#8195;"/>
+      <group delimiter=" " suffix=", ">
+        <text macro="titre"/>
+        <text macro="volume"/>
+      </group>
+      <text macro="auteurs-secondaires" suffix=", "/>
+      <text macro="publication" suffix=", "/>
+      <text macro="date-publication"/>
+      <text macro="numero-edition"/>
+    </layout>
+  </bibliography>
+</style>
+<!-- FIN DE LA FEUILLE DE STYLE -->

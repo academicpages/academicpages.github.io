@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Genome Research</title>
+    <id>http://www.zotero.org/styles/genome-research</id>
+    <link href="http://www.zotero.org/styles/genome-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/cold-spring-harbor-laboratory-press" rel="independent-parent"/>
+    <link href="http://genome.cshlp.org/misc/ifora_mspreparation.shtml" rel="documentation"/>
+    <author>
+      <name>Richard Karnesky</name>
+      <email>karnesky+zotero@gmail.com</email>
+      <uri>http://arc.nucapt.northwestern.edu/Richard_Karnesky</uri>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1088-9051</issn>
+    <eissn>1549-5469</eissn>
+    <summary>A style for CSHLP's journal "Genome Research"</summary>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" and="text" default-locale="fi-FI" demote-non-dropping-particle="sort-only" version="1.0">
+  <info>
+    <title>Jyväskylän yliopisto - Kemian laitos (Finnish)</title>
+    <title-short>JYU-Kem</title-short>
+    <id>http://www.zotero.org/styles/jyvaskylan-yliopisto-kemian-laitos</id>
+    <link href="http://www.zotero.org/styles/jyvaskylan-yliopisto-kemian-laitos" rel="self"/>
+    <link href="http://www.zotero.org/styles/royal-society-of-chemistry" rel="template"/>
+    <link href="https://www.jyu.fi/science/fi/kemia/opiskelu/linkkeja-ja-materiaalia/opinnaytetyon-kirjoitusohje-2017.pdf" rel="documentation"/>
+    <author>
+      <name>Matti Rajahonka</name>
+      <email>matti.rajahonka@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Aku Lampinen</name>
+      <uri>http://www.mendeley.com/profiles/aku-lampinen/</uri>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <summary>JYU Kemian laitoksen suomenkielinen tyyli</summary>
+    <updated>2018-12-16T16:51:04+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor">
+      <name and="text" name-as-sort-order="all" initialize-with=". " delimiter="; " delimiter-precedes-last="never"/>
+      <label prefix=" (" suffix=")" form="short"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author" font-style="normal">
+      <name and="text" name-as-sort-order="all" initialize-with=". " delimiter="; " delimiter-precedes-last="never" font-weight="normal"/>
+      <label prefix=", " form="short" font-style="normal" font-weight="normal" text-decoration="none" text-case="capitalize-first"/>
+      <substitute>
+        <names variable="editor" font-weight="normal"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book legal_case legislation motion_picture thesis" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="pages">
+    <label variable="page" suffix=" " form="short"/>
+    <text variable="page"/>
+  </macro>
+  <macro name="book-container">
+    <text suffix=": " text-case="sentence" term="in"/>
+    <text suffix=", " macro="editor"/>
+    <text variable="container-title" font-style="italic"/>
+  </macro>
+  <macro name="issued">
+    <choose>
+      <if type="article article-journal" match="any">
+        <date variable="issued" delimiter=" " font-weight="normal">
+          <date-part name="year" font-weight="bold"/>
+        </date>
+      </if>
+      <else-if type="patent personal_communication" match="any">
+        <date variable="issued" delimiter=".">
+          <date-part name="day"/>
+          <date-part name="month" form="numeric"/>
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <else>
+        <date variable="issued" form="text" date-parts="year"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush" entry-spacing="0">
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <text suffix=", " macro="author"/>
+      <choose>
+        <if type="thesis report" match="any">
+          <text suffix=", " macro="title"/>
+          <text variable="collection-title" suffix=" " text-case="title"/>
+          <text variable="volume" suffix=", "/>
+          <group delimiter=", ">
+            <text variable="genre"/>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+            <text macro="pages"/>
+          </group>
+        </if>
+        <else-if type="book" match="any">
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+            <text variable="volume" prefix="vol. "/>
+            <text macro="pages"/>
+          </group>
+        </else-if>
+        <else-if type="article-journal article-magazine" match="any">
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="container-title" form="short" font-style="italic"/>
+            <text macro="issued"/>
+            <text variable="volume" font-style="italic" font-weight="normal"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="chapter" match="any">
+          <text suffix=". " macro="title"/>
+          <text suffix=", " macro="book-container"/>
+          <group delimiter=", ">
+            <text macro="edition"/>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+            <text variable="volume" prefix="vol. "/>
+            <text macro="pages"/>
+          </group>
+        </else-if>
+        <else-if type="paper-conference" match="any">
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="container-title" form="short" font-style="italic"/>
+            <text variable="event-place"/>
+            <date variable="event-date" delimiter=".">
+              <date-part name="day"/>
+              <date-part name="month" form="numeric"/>
+              <date-part name="year"/>
+            </date>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+            <text macro="pages"/>
+          </group>
+        </else-if>
+        <else-if type="patent" match="any">
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="container-title" form="short" font-style="italic"/>
+            <text variable="number"/>
+            <text macro="issued"/>
+          </group>
+        </else-if>
+        <else-if type="webpage post-weblog" match="any">
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="URL"/>
+            <text macro="publisher"/>
+          </group>
+          <group delimiter=" " prefix=" (" suffix=")">
+            <date variable="accessed" delimiter=".">
+              <date-part name="day"/>
+              <date-part name="month" form="numeric"/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="container-title" form="short" font-style="italic"/>
+            <text macro="issued"/>
+            <text variable="volume"/>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

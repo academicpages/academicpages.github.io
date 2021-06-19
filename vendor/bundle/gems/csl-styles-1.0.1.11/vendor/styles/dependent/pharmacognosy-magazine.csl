@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Pharmacognosy Magazine</title>
+    <id>http://www.zotero.org/styles/pharmacognosy-magazine</id>
+    <link href="http://www.zotero.org/styles/pharmacognosy-magazine" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript-brackets-only-year" rel="independent-parent"/>
+    <link href="http://www.phcog.com/contributors.asp#pm" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0973-1296</issn>
+    <eissn>0976-4062</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Dental Research</title>
+    <id>http://www.zotero.org/styles/journal-of-dental-research</id>
+    <link href="http://www.zotero.org/styles/journal-of-dental-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/council-of-science-editors-author-date" rel="independent-parent"/>
+    <category citation-format="author-date"/>
+    <issn>0022-0345</issn>
+    <eissn>1544-0591</eissn>
+    <updated>2018-04-02T02:25:19+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>Technische Universität Dresden - Finanzwirtschaft und Finanzdienstleistungen (author-date)</title>
+    <title-short>TUD Betriebswirtschaftslehre (author-date)</title-short>
+    <id>http://www.zotero.org/styles/technische-universitat-dresden-finanzwirtschaft-und-finanzdienstleistungen-author-date</id>
+    <link href="http://www.zotero.org/styles/technische-universitat-dresden-finanzwirtschaft-und-finanzdienstleistungen-author-date" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard-cite-them-right" rel="template"/>
+    <link href="https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/683835403" rel="documentation"/>
+    <author>
+      <name>Jens Mittelbach</name>
+      <email>jens.mittelbach@slub-dresden.de</email>
+      <uri>http://www.slub-dresden.de</uri>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <summary>Zitierstil entsprechend den Zitierrichtlinien des Lehrstuhls Finanzwirtschaft und Finanzdienstleistungen der Fakultät Wirtschaftswissenschaften, Technische Universität Dresden.</summary>
+    <updated>2018-07-01T17:26:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="available at">Internet</term>
+      <term name="accessed">Stand</term>
+    </terms>
+  </locale>
+  <macro name="editor">
+    <names variable="editor" font-variant="normal" delimiter=", ">
+      <name font-variant="small-caps" delimiter="; " initialize="false" name-as-sort-order="all"/>
+      <label form="short" font-variant="normal" prefix=" (" suffix="):"/>
+    </names>
+  </macro>
+  <macro name="anon">
+    <text term="anonymous" form="short" text-case="capitalize-first" strip-periods="true"/>
+  </macro>
+  <macro name="author">
+    <names variable="author" font-variant="normal">
+      <name font-variant="small-caps" delimiter="; " delimiter-precedes-last="never" initialize="false" initialize-with="." name-as-sort-order="all"/>
+      <et-al font-variant="normal"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" font-variant="small-caps" delimiter="/" delimiter-precedes-last="never" initialize-with=". "/>
+      <et-al font-variant="normal"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <text term="available at" suffix=": "/>
+        <text variable="URL"/>
+        <group prefix=", ">
+          <text term="accessed" suffix=": "/>
+          <date form="numeric" variable="accessed"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+        <text variable="title" font-style="normal"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <group>
+      <label variable="page" form="short" suffix=" "/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true">
+    <layout delimiter="; " prefix=" (" suffix=")">
+      <group delimiter=", ">
+        <group delimiter=", ">
+          <text macro="author-short"/>
+          <text macro="year-date"/>
+        </group>
+        <group>
+          <label suffix=" " variable="locator" form="short"/>
+          <text variable="locator"/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="author" suffix=", "/>
+      <group delimiter="; " suffix=":">
+        <date variable="issued" prefix=" ">
+          <date-part name="year"/>
+        </date>
+      </group>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=", " prefix=" " suffix=", ">
+            <text macro="title"/>
+            <text macro="edition"/>
+            <text macro="editor"/>
+          </group>
+          <text macro="publisher" prefix=" "/>
+        </if>
+        <else-if type="chapter paper-conference entry-dictionary entry-encyclopedia" match="any">
+          <text macro="title" prefix=" " suffix=","/>
+          <group delimiter=" " prefix=" ">
+            <text term="in" text-case="lowercase" suffix=":"/>
+            <text macro="editor"/>
+            <text variable="container-title" font-style="normal" suffix=","/>
+            <text variable="collection-title" suffix="."/>
+            <text variable="event" suffix="."/>
+            <group delimiter=", ">
+              <text macro="publisher" prefix=" "/>
+              <text macro="pages"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", " prefix=" ">
+            <text macro="title"/>
+            <text variable="genre"/>
+            <text macro="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <group suffix=",">
+            <text macro="title" prefix=" "/>
+            <text macro="editor" prefix=" "/>
+          </group>
+          <group prefix=" in: ">
+            <choose>
+              <if type="interview" match="any">
+                <text variable="medium" suffix=", "/>
+              </if>
+              <else-if type="entry-dictionary webpage post-weblog" match="any">
+                <text variable="container-title"/>
+              </else-if>
+              <else>
+                <text variable="container-title" suffix=", "/>
+              </else>
+            </choose>
+            <group delimiter=", ">
+              <group delimiter=" ">
+                <text term="volume" form="short"/>
+                <text variable="volume" suffix=","/>
+              </group>
+              <group delimiter=" ">
+                <text term="issue" form="short"/>
+                <text variable="issue"/>
+              </group>
+            </group>
+            <group>
+              <choose>
+                <if type="article-newspaper interview" match="any">
+                  <date form="numeric" variable="issued"/>
+                </if>
+              </choose>
+            </group>
+            <group prefix=", ">
+              <label suffix=" " variable="page" form="short"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+      <text macro="access" prefix=", "/>
+    </layout>
+  </bibliography>
+</style>

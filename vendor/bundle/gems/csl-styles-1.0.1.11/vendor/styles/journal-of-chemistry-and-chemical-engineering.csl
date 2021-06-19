@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US">
+  <info>
+    <title>Journal of Chemistry and Chemical Engineering</title>
+    <id>http://www.zotero.org/styles/journal-of-chemistry-and-chemical-engineering</id>
+    <link href="http://www.zotero.org/styles/journal-of-chemistry-and-chemical-engineering" rel="self"/>
+    <link href="http://www.davidpublishing.com/davidpublishing/Upfile/8/19/2012/2012081969041905.pdf" rel="documentation"/>
+    <link href="http://www.davidpublishing.com/journals_info.asp?jId=1047" rel="documentation"/>
+    <author>
+      <name>Flavio Pendolino</name>
+      <email>flavio.pendolino@icloud.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>1934-7375</issn>
+    <eissn>1934-7383</eissn>
+    <published>2012-11-14T11:18:12+00:00</published>
+    <updated>2014-07-06T15:22:58+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <citation>
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter=",">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <choose>
+        <if type="article-journal">
+          <names variable="author" delimiter="; " suffix=" ">
+            <name suffix=" " and="text" initialize-with=". " name-as-sort-order="all"/>
+          </names>
+          <text variable="title" text-case="capitalize-first" suffix=". "/>
+          <text variable="container-title" font-style="italic" suffix=" "/>
+          <group delimiter=", ">
+            <date variable="issued">
+              <date-part name="year" font-weight="bold"/>
+            </date>
+            <text variable="volume"/>
+            <text variable="page" suffix=". "/>
+          </group>
+        </if>
+        <else-if type="book" match="any">
+          <names variable="author" delimiter="; " suffix=" ">
+            <name delimiter="; " and="text" initialize-with=". " name-as-sort-order="all"/>
+          </names>
+          <text variable="title" suffix=". "/>
+          <group suffix=" ">
+            <text variable="publisher" suffix=": "/>
+            <text variable="publisher-place"/>
+          </group>
+          <date date-parts="year" form="numeric" variable="issued" prefix=" " suffix=".">
+            <date-part name="year"/>
+          </date>
+        </else-if>
+        <else-if type="chapter">
+          <names variable="author" delimiter="; " suffix=" ">
+            <name delimiter="; " and="text" initialize-with=". " name-as-sort-order="all"/>
+          </names>
+          <text variable="title" suffix=". "/>
+          <group delimiter=" " suffix="; ">
+            <text term="in" text-case="title" font-style="italic"/>
+            <text variable="container-title" text-case="title" font-style="italic"/>
+          </group>
+          <names variable="editor" delimiter=", " suffix="; ">
+            <name delimiter=", " initialize-with=". " name-as-sort-order="all"/>
+            <label form="short" text-case="capitalize-first" prefix=", "/>
+          </names>
+          <group delimiter=": " suffix=", ">
+            <text variable="publisher"/>
+            <text variable="publisher-place"/>
+          </group>
+          <date date-parts="year" form="numeric" variable="issued" prefix=" " suffix="; ">
+            <date-part name="year"/>
+          </date>
+          <group suffix=", ">
+            <label text-case="title" suffix=" " variable="volume" form="short"/>
+            <number suffix=", " variable="volume"/>
+          </group>
+          <group>
+            <label variable="page" form="short"/>
+            <text variable="page" form="short" prefix=" " suffix="."/>
+          </group>
+        </else-if>
+        <else-if type="paper-conference">
+          <names variable="author" delimiter="; " suffix=" ">
+            <name delimiter=", " and="text" initialize-with=". " name-as-sort-order="all"/>
+          </names>
+          <group font-style="italic" suffix=", ">
+            <text term="in" text-case="title" suffix=" "/>
+            <text variable="title" text-case="capitalize-first" font-style="italic"/>
+          </group>
+          <group>
+            <text variable="event" form="long" font-style="normal" prefix="Proceedings of the " suffix=", "/>
+            <text variable="event-place" suffix=",  "/>
+            <date variable="event-date" suffix="; ">
+              <date-part name="month" form="short"/>
+              <date-part name="day" suffix=", "/>
+              <date-part name="year" suffix="; "/>
+            </date>
+          </group>
+          <names variable="editor" delimiter=", " suffix=" Eds.; ">
+            <name and="text" initialize-with="." name-as-sort-order="all"/>
+          </names>
+          <group>
+            <text variable="publisher" suffix=": "/>
+            <text variable="publisher-place" suffix=", "/>
+            <date date-parts="year" form="text" variable="issued" suffix="."/>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <text variable="title" suffix=". "/>
+          <text variable="URL" suffix=" "/>
+          <date variable="accessed" prefix="(accessed " suffix=").">
+            <date-part name="month" form="short" suffix=" "/>
+            <date-part name="day" suffix=", "/>
+            <date-part name="year"/>
+          </date>
+        </else-if>
+        <else-if type="thesis">
+          <names variable="author" suffix=" ">
+            <name delimiter="," and="text" initialize-with=". " name-as-sort-order="all"/>
+          </names>
+          <group delimiter=". " suffix=",  ">
+            <text variable="title" text-case="title"/>
+            <text variable="genre"/>
+          </group>
+          <date date-parts="year-month" form="numeric" variable="issued" suffix=". ">
+            <date-part name="month"/>
+            <date-part name="year"/>
+          </date>
+        </else-if>
+        <else>
+          <names variable="author" delimiter="; " suffix=" ">
+            <name and="text" initialize-with="." name-as-sort-order="all"/>
+          </names>
+          <text variable="title" suffix=". "/>
+          <group delimiter=", " suffix=". ">
+            <text variable="container-title" font-style="italic" suffix=". "/>
+            <group>
+              <text variable="volume"/>
+              <text variable="issue" prefix="(" suffix=") "/>
+            </group>
+            <text variable="page"/>
+          </group>
+          <date variable="issued" prefix="(" suffix="). ">
+            <date-part name="year" form="long"/>
+          </date>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

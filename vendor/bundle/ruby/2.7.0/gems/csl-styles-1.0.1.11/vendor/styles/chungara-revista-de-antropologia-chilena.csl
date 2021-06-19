@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" demote-non-dropping-particle="sort-only" sort-separator=", " et-al-use-first="2" version="1.0" default-locale="es-CL">
+  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Chungara Revista de Antropología Chilena (Spanish - Chile)</title>
+    <title-short>Chungara</title-short>
+    <id>http://www.zotero.org/styles/chungara-revista-de-antropologia-chilena</id>
+    <link href="http://www.zotero.org/styles/chungara-revista-de-antropologia-chilena" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-ethnobiology" rel="template"/>
+    <link href="http://chungara.cl/index.php/es/instrucciones-para-autores" rel="documentation"/>
+    <author>
+      <name>Erik Marsh</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="anthropology"/>
+    <issn>0716-1182</issn>
+    <eissn>0717-7356</eissn>
+    <updated>2020-11-15T16:54:36+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="container-contributors">
+    <choose>
+      <if match="any" type="chapter paper-conference">
+        <names delimiter=", " variable="editor translator">
+          <label suffix=" " form="verb"/>
+          <name delimiter=", " initialize-with=". " and="text"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="first"/>
+      <label suffix=")" prefix=" (" form="short" text-case="capitalize-first"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name delimiter=", " initialize-with=". " and="text" form="short"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <choose>
+          <if match="any" type="bill book graphic legal_case legislation motion_picture report song">
+            <text font-style="italic" variable="title" form="short"/>
+          </if>
+          <else>
+            <text variable="title" form="short" quotes="true" text-case="title"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if match="any" type="book report thesis manuscript">
+        <text font-style="italic" variable="title" text-case="title"/>
+      </if>
+      <else>
+        <text variable="title" text-case="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix="DOI: "/>
+      </if>
+      <else-if type="webpage">
+        <group delimiter=". ">
+          <text variable="URL"/>
+          <group delimiter=" ">
+            <text term="accessed" text-case="capitalize-first"/>
+            <date variable="accessed" form="text"/>
+          </group>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if match="none" type="article-journal article-magazine">
+        <group delimiter=", ">
+          <text variable="genre"/>
+          <text variable="publisher"/>
+          <text variable="publisher-place"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="issued">
+    <choose>
+      <if variable="issued">
+        <group>
+          <date date-parts="year" form="numeric" variable="issued">
+            <date-part name="year"/>
+          </date>
+          <date date-parts="year" form="text" variable="original-date" prefix=" [" suffix="]"/>
+        </group>
+      </if>
+      <else>
+        <text suffix=")" term="no date" prefix="(" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if match="any" type="bill book chapter graphic legal_case legislation motion_picture paper-conference report song">
+        <choose>
+          <if is-numeric="edition">
+            <number prefix=", " variable="edition" form="long-ordinal"/>
+            <text suffix="." term="edition" prefix=" " form="long"/>
+          </if>
+          <else>
+            <text suffix="." variable="edition" prefix=", "/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if match="any" type="article-journal article-magazine article-newspaper">
+        <text font-style="italic" variable="container-title"/>
+        <text variable="volume" prefix=" "/>
+        <text variable="page" prefix=":"/>
+      </if>
+      <else-if match="any" type="bill book chapter graphic legal_case legislation motion_picture paper-conference report song">
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <choose>
+              <if type="chapter" match="any">
+                <text term="in" text-case="capitalize-first"/>
+              </if>
+            </choose>
+            <text font-style="italic" variable="container-title" text-case="title"/>
+          </group>
+          <text macro="container-contributors"/>
+          <group delimiter=" ">
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </group>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="citation-locator">
+    <group>
+      <label variable="locator" form="short"/>
+      <text variable="locator" prefix=" "/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" collapse="year" disambiguate-add-year-suffix="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <text macro="issued-year"/>
+        <text macro="citation-locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-use-first="98" et-al-min="99" entry-spacing="0">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="issued" suffix="."/>
+        <names variable="translator" suffix=".">
+          <label form="verb" text-case="capitalize-first" suffix=" "/>
+          <name and="text" delimiter-precedes-last="never" initialize-with="."/>
+        </names>
+        <text macro="title"/>
+        <text macro="locators"/>
+      </group>
+      <text macro="edition"/>
+      <group delimiter=". " prefix=". ">
+        <text macro="publisher"/>
+        <text macro="access"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

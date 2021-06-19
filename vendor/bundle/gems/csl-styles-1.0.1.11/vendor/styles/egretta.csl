@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" and="symbol" initialize-with="." demote-non-dropping-particle="never" default-locale="de-AT">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Egretta (German - Austria)</title>
+    <title-short>Egretta</title-short>
+    <id>http://www.zotero.org/styles/egretta</id>
+    <link href="http://www.zotero.org/styles/egretta" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-zoo-biology" rel="template"/>
+    <link href="https://www.zobodat.at/zeitschriftinfos/egretta_aut.pdf" rel="documentation"/>
+    <author>
+      <name>Georg Mayr-Duffner</name>
+      <email>g.duffner@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0013-2373</issn>
+    <updated>2018-07-01T17:26:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="accessed">Zugriff am</term>
+      <term name="et-al">et al.</term>
+      <term name="anonymous" form="long">Ohne Verfasser</term>
+      <term name="anonymous" form="short">O.V.</term>
+    </terms>
+  </locale>
+  <macro name="editor-translator">
+    <names variable="editor translator">
+      <name and="symbol" name-as-sort-order="first" sort-separator=" "/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=".)"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter-precedes-last="never" name-as-sort-order="first" sort-separator=" "/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book report" match="any">
+        <group delimiter=". ">
+          <group delimiter=", ">
+            <text variable="title"/>
+            <choose>
+              <if match="any" variable="volume">
+                <group delimiter=" ">
+                  <text term="volume" suffix=" "/>
+                  <text variable="volume"/>
+                </group>
+              </if>
+            </choose>
+          </group>
+          <text macro="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+        <text variable="year-suffix"/>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+        <text variable="year-suffix" prefix="-"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number suffix=". " variable="edition"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <group delimiter=" ">
+          <text variable="container-title" form="short"/>
+          <group delimiter=": ">
+            <group delimiter=" ">
+              <text variable="volume"/>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page"/>
+          </group>
+        </group>
+      </if>
+      <else-if type="chapter paper-conference" match="any">
+        <group delimiter=" ">
+          <text term="in" text-case="capitalize-first" font-style="normal" suffix=":"/>
+          <text macro="editor-translator"/>
+          <group delimiter=": ">
+            <text variable="container-title"/>
+            <text variable="page"/>
+          </group>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="thesis" match="any">
+        <group delimiter=" ">
+          <text variable="genre"/>
+          <text variable="publisher"/>
+          <text variable="publisher-place"/>
+        </group>
+      </if>
+      <else-if type="report" match="any">
+        <text variable="genre"/>
+      </else-if>
+      <else>
+        <group delimiter=", ">
+          <text variable="publisher"/>
+          <text variable="publisher-place"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="internet-locator">
+    <choose>
+      <if match="any" variable="DOI">
+        <text variable="DOI" prefix="DOI: "/>
+      </if>
+      <else-if match="any" variable="URL">
+        <group delimiter=", ">
+          <text variable="URL" prefix="URL: "/>
+          <group delimiter=" ">
+            <text term="accessed"/>
+            <date form="numeric" variable="accessed"/>
+          </group>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix" year-suffix-delimiter=",">
+    <sort>
+      <key macro="year-date"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+      </group>
+      <group prefix=", " delimiter=" ">
+        <label variable="locator" form="short"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography name-as-sort-order="first" sort-separator=" " entry-spacing="0">
+    <sort>
+      <key macro="author"/>
+      <key macro="year-date"/>
+      <key macro="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=": ">
+        <group delimiter=" ">
+          <text macro="author"/>
+          <text macro="year-date" prefix="(" suffix=")"/>
+        </group>
+        <group delimiter=". ">
+          <text macro="title"/>
+          <text macro="container"/>
+          <text macro="publisher"/>
+          <text macro="internet-locator"/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

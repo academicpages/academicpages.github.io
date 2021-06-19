@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>The Journal of Nutrition, Health &amp; Aging</title>
+    <title-short>JNHA</title-short>
+    <id>http://www.zotero.org/styles/the-journal-of-nutrition-health-and-aging</id>
+    <link href="http://www.zotero.org/styles/the-journal-of-nutrition-health-and-aging" rel="self"/>
+    <link href="http://www.zotero.org/styles/pnas" rel="template"/>
+    <link href="https://www.springer.com/medicine/family/journal/12603" rel="documentation"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/12603_IA+JNHA.PDF?SGWID=0-0-45-1552371-p173841503" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+      <email>citationstyler@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <issn>1279-7707</issn>
+    <eissn>1760-4788</eissn>
+    <updated>2019-08-07T03:41:43+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" prefix=" " delimiter=", ">
+      <name initialize-with="" name-as-sort-order="all" sort-separator=" " delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="page" match="none">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix="doi:"/>
+          </if>
+          <else-if variable="URL">
+            <text value="Available at:" suffix=" "/>
+            <text variable="URL"/>
+            <group prefix=". ">
+              <text term="accessed" text-case="capitalize-first" suffix=" "/>
+              <date variable="accessed">
+                <date-part name="month" suffix=" "/>
+                <date-part name="day" suffix=", "/>
+                <date-part name="year"/>
+              </date>
+            </group>
+          </else-if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" text-case="capitalize-first"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography delimiter-precedes-et-al="always" et-al-min="19" et-al-use-first="3" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <date variable="issued" prefix=" (" suffix=")">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=". ">
+            <group prefix=" ">
+              <text variable="title"/>
+              <text macro="editor"/>
+              <text macro="edition" prefix=". "/>
+            </group>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text variable="title" prefix=" "/>
+          <group prefix=". " delimiter=" ">
+            <group delimiter=", ">
+              <group delimiter=": ">
+                <text term="in" text-case="capitalize-first"/>
+                <text macro="editor"/>
+              </group>
+              <text variable="container-title" text-case="title"/>
+              <text variable="collection-title" prefix=" " suffix="."/>
+            </group>
+          </group>
+          <group suffix=".">
+            <text macro="publisher" prefix=", "/>
+            <group prefix=", ">
+              <label variable="page" suffix=" " form="short" strip-periods="true"/>
+              <text variable="page"/>
+            </group>
+          </group>
+          <text macro="edition" prefix=" "/>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <group prefix=" " delimiter=". " suffix=".">
+            <text variable="title"/>
+            <group delimiter=", ">
+              <choose>
+                <if variable="genre">
+                  <text variable="genre"/>
+                </if>
+                <else>
+                  <text value="Dissertation"/>
+                </else>
+              </choose>
+              <text variable="publisher"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <text variable="title" prefix=" " suffix="."/>
+          <group delimiter=":" prefix=" " suffix=".">
+            <group delimiter=" ">
+              <text variable="container-title" form="short" strip-periods="true"/>
+              <group>
+                <text variable="volume"/>
+              </group>
+            </group>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+      <text prefix=" " macro="access"/>
+    </layout>
+  </bibliography>
+</style>

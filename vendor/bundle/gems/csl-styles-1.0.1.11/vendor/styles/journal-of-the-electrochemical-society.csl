@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Journal of The Electrochemical Society</title>
+    <title-short>JES</title-short>
+    <id>http://www.zotero.org/styles/journal-of-the-electrochemical-society</id>
+    <link href="http://www.zotero.org/styles/journal-of-the-electrochemical-society" rel="self"/>
+    <link href="http://www.electrochem.org/dl/support/assets/jes_inst.pdf" rel="documentation"/>
+    <author>
+      <name>Julian Onions</name>
+      <email>julian.onions@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>0013-4651</issn>
+    <eissn>1945-7111</eissn>
+    <summary>Style for JES</summary>
+    <updated>2014-09-06T22:02:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <name initialize-with=". " delimiter=", " and="text"/>
+      <label form="long" prefix=", " text-case="capitalize-first"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=", " initialize-with=". " and="text" delimiter=", "/>
+      <label form="short" prefix=", " text-case="capitalize-first"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <text variable="URL"/>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="volume">
+    <text variable="volume" prefix="vol. "/>
+  </macro>
+  <macro name="pages">
+    <text variable="page" form="short" prefix="p. "/>
+  </macro>
+  <macro name="issued">
+    <date variable="issued" delimiter=" ">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="false" et-al-min="6" et-al-use-first="1">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author" suffix=","/>
+      <choose>
+        <if type="thesis">
+          <text value=" thesis, "/>
+          <text macro="publisher"/>
+          <text macro="issued" prefix=" (" suffix=")"/>
+        </if>
+        <else-if type="bill book graphic legal_case motion_picture report song" match="any">
+          <group>
+            <text macro="title" prefix=" "/>
+            <text macro="editor" prefix=" "/>
+          </group>
+          <group prefix=", " delimiter=", ">
+            <text macro="edition"/>
+            <text variable="number-of-pages" prefix="p. "/>
+            <text macro="publisher"/>
+            <text macro="issued" prefix="(" suffix=")"/>
+          </group>
+          <text macro="pages" prefix=", "/>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" ">
+            <text term="in"/>
+            <text variable="container-title" font-style="italic" prefix=" " suffix=","/>
+            <text variable="collection-title" prefix=" " suffix="."/>
+            <text macro="editor" prefix=" "/>
+            <group delimiter=", " prefix=", ">
+              <text macro="volume"/>
+              <text macro="pages"/>
+              <text macro="publisher"/>
+            </group>
+            <text macro="issued" prefix=" (" suffix=")"/>
+          </group>
+        </else-if>
+        <else>
+          <group suffix=".">
+            <text macro="editor" prefix=" "/>
+          </group>
+          <group prefix=" " delimiter=", ">
+            <text form="short" variable="container-title" font-style="italic"/>
+            <text variable="volume" font-weight="bold"/>
+            <text variable="page"/>
+            <!-- should only have starting page -->
+          </group>
+          <text macro="issued" prefix=" (" suffix=")"/>
+        </else>
+      </choose>
+      <text prefix=" " macro="access" suffix="."/>
+    </layout>
+  </bibliography>
+</style>

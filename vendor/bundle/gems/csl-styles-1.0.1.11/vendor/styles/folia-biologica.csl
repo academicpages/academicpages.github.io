@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="display-and-sort" default-locale="en-US">
+  <info>
+    <title>Folia Biologica</title>
+    <id>http://www.zotero.org/styles/folia-biologica</id>
+    <link href="http://www.zotero.org/styles/folia-biologica" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-neurochemistry" rel="template"/>
+    <link href="https://fb.cuni.cz/instructions-to-authors-4293" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0015-5500</issn>
+    <eissn>2533-7602</eissn>
+    <updated>2020-03-14T14:14:17+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="authors-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=" and " delimiter-precedes-last="never" initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text value="anon."/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="authors1">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with=". " delimiter-precedes-last="never" delimiter=", "/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editors1">
+    <names variable="editor">
+      <label form="short" text-case="lowercase" strip-periods="false" suffix=" "/>
+      <name delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all" sort-separator=" "/>
+    </names>
+  </macro>
+  <macro name="title1">
+    <text variable="title"/>
+  </macro>
+  <macro name="title2">
+    <text variable="title" font-style="italic"/>
+  </macro>
+  <macro name="container-title0">
+    <group delimiter=" ">
+      <text variable="container-title" form="short" quotes="false" font-style="italic"/>
+      <text variable="volume" font-weight="bold"/>
+      <choose>
+        <if variable="volume" match="none">
+          <text variable="issue"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="container-title1">
+    <text variable="container-title" form="short" quotes="false" font-style="italic"/>
+  </macro>
+  <macro name="container-title2">
+    <choose>
+      <if variable="collection-title">
+        <text macro="volume" suffix=": "/>
+        <text variable="collection-title" text-case="title" quotes="false"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="volume">
+    <choose>
+      <if variable="volume" match="none">
+        <text variable="collection-number" prefix="Vol. " font-style="italic"/>
+      </if>
+    </choose>
+    <text variable="volume" prefix="Vol. "/>
+  </macro>
+  <macro name="page">
+    <choose>
+      <if variable="locator">
+        <text variable="locator"/>
+      </if>
+      <else>
+        <text variable="page"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="page1">
+    <group delimiter=" ">
+      <label variable="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="issued1">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true">
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="authors-short"/>
+        <text macro="issued1"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" hanging-indent="true">
+    <sort>
+      <key macro="authors1"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <choose>
+        <if type="article-journal article-newspaper article-magazine" match="any">
+          <group delimiter=". ">
+            <group delimiter=" ">
+              <text macro="authors1"/>
+              <text macro="issued1" prefix="(" suffix=")"/>
+              <text macro="title1"/>
+            </group>
+            <group delimiter=", ">
+              <text macro="container-title0"/>
+              <text macro="page"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=", ">
+            <group delimiter=". ">
+              <group delimiter=" ">
+                <text macro="authors1"/>
+                <text macro="issued1" prefix="(" suffix=")"/>
+                <text macro="title1"/>
+              </group>
+              <group delimiter=": ">
+                <text term="in" text-case="capitalize-first"/>
+                <text macro="container-title1"/>
+              </group>
+            </group>
+            <text macro="editors1"/>
+            <text macro="volume"/>
+            <text macro="page1"/>
+            <group delimiter=", ">
+              <text variable="publisher"/>
+              <text variable="publisher-place"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=". ">
+            <group delimiter=", ">
+              <group delimiter=" ">
+                <text macro="authors1"/>
+                <text macro="issued1" prefix="(" suffix=")"/>
+                <text macro="title2"/>
+              </group>
+              <text macro="container-title2"/>
+              <text macro="editors1" prefix="(" suffix=")"/>
+            </group>
+            <group delimiter=", ">
+              <text variable="publisher"/>
+              <text variable="publisher-place"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

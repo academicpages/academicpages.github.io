@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>The Journal of Immunology</title>
+    <id>http://www.zotero.org/styles/the-journal-of-immunology</id>
+    <link href="http://www.zotero.org/styles/the-journal-of-immunology" rel="self"/>
+    <link href="http://www.jimmunol.org/site/misc/authorinstructions.xhtml#references" rel="documentation"/>
+    <author>
+      <name>Rintze Zelle</name>
+      <uri>http://twitter.com/rintzezelle</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0022-1767</issn>
+    <eissn>1550-6606</eissn>
+    <summary>Style for The Journal of Immunology.</summary>
+    <updated>2013-08-29T04:18:55+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=".">
+      <name sort-separator=", " initialize-with=". " and="text" name-as-sort-order="first" delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with=". " and="text" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", " strip-periods="true"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0">
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text variable="citation-number" suffix=". "/>
+        <text macro="author"/>
+        <date variable="issued" suffix=".">
+          <date-part name="year"/>
+        </date>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <group suffix=".">
+              <text variable="title" font-style="italic" suffix=","/>
+              <text macro="edition" prefix=" "/>
+              <text macro="editor" prefix=" (" suffix=")"/>
+            </group>
+            <text prefix=" " macro="publisher"/>
+            <group suffix="." prefix="; ">
+              <text variable="page" prefix=":"/>
+            </group>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <group delimiter=" ">
+              <text variable="title" suffix="."/>
+              <text term="in" text-case="capitalize-first"/>
+              <group>
+                <text variable="container-title" font-style="italic"/>
+                <text variable="collection-title" prefix=". "/>
+                <text macro="edition" prefix=", "/>
+              </group>
+              <group delimiter=". ">
+                <text variable="volume" prefix="vol. " suffix="."/>
+                <text macro="editor"/>
+                <text macro="publisher"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </else-if>
+          <else>
+            <text variable="title" suffix=". "/>
+            <text variable="container-title" form="short" font-style="italic" suffix=" "/>
+            <group delimiter=": ">
+              <text variable="volume"/>
+              <text variable="page"/>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

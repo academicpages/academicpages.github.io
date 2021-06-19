@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" page-range-format="chicago" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>The National Medical Journal of India</title>
+    <id>http://www.zotero.org/styles/the-national-medical-journal-of-india</id>
+    <link href="http://www.zotero.org/styles/the-national-medical-journal-of-india" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-lancet" rel="template"/>
+    <link href="http://www.nmji.in/contributors.asp#ref" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Libor Ansorge</name>
+    </contributor>
+    <contributor>
+      <name>Patrick O'Brien, PhD</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0970-258X</issn>
+    <summary>Style for The National Medical Journal of India based on The Lancet.</summary>
+    <updated>2017-03-31T18:25:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <date form="text">
+      <date-part name="day" suffix=" "/>
+      <date-part name="month" suffix=" " form="short" strip-periods="true"/>
+      <date-part name="year"/>
+    </date>
+    <terms>
+      <term name="edition" form="short">edn.</term>
+      <term name="accessed">accessed on</term>
+      <term name="month-01" form="short">Jan</term>
+      <term name="month-02" form="short">Feb</term>
+      <term name="month-03" form="short">March</term>
+      <term name="month-04" form="short">April</term>
+      <term name="month-05" form="short">May</term>
+      <term name="month-06" form="short">June</term>
+      <term name="month-07" form="short">July</term>
+      <term name="month-08" form="short">Aug</term>
+      <term name="month-09" form="short">Sept</term>
+      <term name="month-10" form="short">Oct</term>
+      <term name="month-11" form="short">Nov</term>
+      <term name="month-12" form="short">Dec</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="long" prefix=", "/>
+      <et-al term="et-al" font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <et-al term="et-al" font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter="; ">
+      <group delimiter=":">
+        <text variable="publisher-place"/>
+        <text variable="publisher"/>
+      </group>
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="page" match="none">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix=" Available at https://doi.org/"/>
+            <group prefix=" (" suffix=")." delimiter=" ">
+              <text term="accessed"/>
+              <date variable="accessed" form="text"/>
+            </group>
+          </if>
+          <else-if variable="URL">
+            <text variable="URL" prefix=" Available at "/>
+            <group prefix=" (" suffix=")." delimiter=" ">
+              <text term="accessed"/>
+              <date variable="accessed" form="text"/>
+            </group>
+          </else-if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <text variable="container-title" form="short" font-style="italic" strip-periods="true"/>
+      </if>
+      <else>
+        <text variable="container-title" suffix=". " form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book">
+        <group delimiter=", ">
+          <text variable="title"/>
+          <text macro="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number"/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group prefix=" " delimiter=" ">
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" " suffix=". ">
+            <text term="in" suffix=": " text-case="capitalize-first"/>
+            <text macro="editor"/>
+            <group delimiter=", ">
+              <text variable="container-title"/>
+              <text macro="edition"/>
+            </group>
+          </group>
+          <group delimiter=":" suffix="." prefix=" ">
+            <text macro="publisher"/>
+            <text variable="page" suffix="."/>
+          </group>
+        </else-if>
+        <else>
+          <text macro="journal-title"/>
+          <group suffix=".">
+            <date variable="issued" prefix=" ">
+              <date-part name="year"/>
+            </date>
+            <choose>
+              <if variable="page volume" match="none">
+                <date variable="issued" delimiter=" " prefix="; published online ">
+                  <date-part name="month" form="short" strip-periods="true"/>
+                  <date-part name="day"/>
+                </date>
+              </if>
+            </choose>
+            <group prefix=";">
+              <text variable="volume" font-weight="bold"/>
+              <choose>
+                <if variable="page">
+                  <text value=":" font-weight="bold"/>
+                </if>
+              </choose>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+      <text macro="access" prefix=" "/>
+    </layout>
+  </bibliography>
+</style>

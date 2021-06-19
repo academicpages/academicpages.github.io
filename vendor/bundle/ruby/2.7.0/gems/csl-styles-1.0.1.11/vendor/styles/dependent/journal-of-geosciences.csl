@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Geosciences</title>
+    <title-short>J Geosci</title-short>
+    <id>http://www.zotero.org/styles/journal-of-geosciences</id>
+    <link href="http://www.zotero.org/styles/journal-of-geosciences" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-basic-author-date" rel="independent-parent"/>
+    <link href="http://www.jgeosci.org/instructions" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="science"/>
+    <category field="geology"/>
+    <issn>1802-6222</issn>
+    <eissn>1803-1943</eissn>
+    <summary>Journal of GEOsciences (Formerly Journal of the Czech Geological Society)</summary>
+    <updated>2017-12-25T03:56:44+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

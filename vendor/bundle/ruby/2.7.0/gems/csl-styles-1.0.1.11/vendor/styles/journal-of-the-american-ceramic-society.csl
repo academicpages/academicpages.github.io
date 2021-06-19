@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Journal of the American Ceramic Society</title>
+    <id>http://www.zotero.org/styles/journal-of-the-american-ceramic-society</id>
+    <link href="http://www.zotero.org/styles/journal-of-the-american-ceramic-society" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="template"/>
+    <link href="https://ceramics.onlinelibrary.wiley.com/hub/authors_instructions" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Guillaume Durand</name>
+    </contributor>
+    <contributor>
+      <name>Patrick O'Brien</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <issn>0002-7820</issn>
+    <eissn>1551-2916</eissn>
+    <updated>2020-07-17T04:22:44+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="long" prefix=", "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always" initialize-with=""/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <group delimiter="; ">
+        <text variable="publisher" form="long"/>
+        <text macro="year-date"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="article-journal chapter paper-conference article-magazine thesis" match="any">
+        <text variable="title" form="long" quotes="false"/>
+      </if>
+      <else>
+        <text variable="title" form="long"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="volume">
+    <group delimiter=" ">
+      <label text-case="capitalize-first" variable="volume" form="short"/>
+      <number variable="volume"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush" entry-spacing="0" et-al-min="7" et-al-use-first="3">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=". " suffix=". ">
+        <text macro="author"/>
+        <group delimiter=". ">
+          <text macro="title"/>
+          <text macro="edition"/>
+        </group>
+      </group>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=". ">
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=". ">
+            <group delimiter=": ">
+              <text term="in" text-case="capitalize-first" prefix=" "/>
+              <text macro="editor"/>
+            </group>
+            <group delimiter=", ">
+              <text variable="container-title" form="short" font-style="italic"/>
+              <text macro="edition"/>
+            </group>
+            <text macro="volume"/>
+            <text macro="publisher"/>
+          </group>
+          <group delimiter=" ">
+            <text variable="page" prefix=":" suffix="."/>
+          </group>
+        </else-if>
+        <else-if type="patent">
+          <text variable="authority" suffix=" "/>
+          <group delimiter=". ">
+            <text variable="number" prefix=" "/>
+            <text macro="year-date" suffix="."/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=". ">
+            <group delimiter="; ">
+              <text variable="genre"/>
+              <text variable="publisher"/>
+              <text variable="publisher-place"/>
+              <text macro="year-date"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=". " suffix=".">
+            <text variable="container-title" form="short" strip-periods="true" font-style="italic" prefix=" " suffix="."/>
+            <group delimiter=";">
+              <text macro="year-date" prefix=" "/>
+              <group delimiter=":">
+                <group>
+                  <text variable="volume" font-weight="normal"/>
+                  <text variable="issue" prefix="(" suffix=")"/>
+                </group>
+                <text variable="page" suffix="."/>
+              </group>
+            </group>
+          </group>
+        </else>
+      </choose>
+      <text macro="access" prefix=" "/>
+    </layout>
+  </bibliography>
+</style>

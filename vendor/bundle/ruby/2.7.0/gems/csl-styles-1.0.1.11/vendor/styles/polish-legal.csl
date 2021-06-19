@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="pl-PL">
+  <info>
+    <title>Polish Legal (Polish)</title>
+    <id>http://www.zotero.org/styles/polish-legal</id>
+    <link href="http://www.zotero.org/styles/polish-legal" rel="self"/>
+    <link href="https://github.com/citation-style-language/styles/pull/383" rel="documentation"/>
+    <author>
+      <name>Jakub J. Szczerbowski</name>
+      <email>jszczerbowski@swps.edu.pl</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <summary>A style for legal citations in Poland.</summary>
+    <updated>2019-01-11T02:33:16+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="pl">
+    <terms>
+      <term name="month-01" gender="masculine">stycznia</term>
+      <term name="month-02" gender="masculine">lutego</term>
+      <term name="month-03" gender="masculine">marca</term>
+      <term name="month-04" gender="masculine">kwietnia</term>
+      <term name="month-05" gender="masculine">maja</term>
+      <term name="month-06" gender="masculine">czerwca</term>
+      <term name="month-07" gender="masculine">lipca</term>
+      <term name="month-08" gender="masculine">sierpnia</term>
+      <term name="month-09" gender="masculine">września</term>
+      <term name="month-10" gender="masculine">października</term>
+      <term name="month-11" gender="masculine">listopada</term>
+      <term name="month-12" gender="masculine">grudnia</term>
+      <term name="section" form="short">teza</term>
+    </terms>
+  </locale>
+  <macro name="editor-translator">
+    <!-- Dodaje oznaczenie redaktora -->
+    <names variable="editor translator" delimiter=", ">
+      <name initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" (" suffix=".)"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <!-- Wstawia autora. -->
+    <names variable="author">
+      <name form="long" initialize-with="." delimiter=", " delimiter-precedes-last="always" sort-separator=", "/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-bibliography">
+    <!--Wstawia autora imię z tyłu. -->
+    <names variable="author">
+      <name name-as-sort-order="all" form="long" initialize-with="." delimiter=", " delimiter-precedes-last="always" sort-separator=" "/>
+      <label form="short" prefix=" (" suffix=".)"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <!-- Tytuł. -->
+    <group delimiter=", ">
+      <text variable="title" text-case="capitalize-first" font-style="italic"/>
+      <names variable="translator">
+        <label form="short" suffix=" "/>
+        <name and="text" delimiter=", " initialize-with=". "/>
+      </names>
+    </group>
+  </macro>
+  <macro name="title-short">
+    <!-- Skrócony tytuł. -->
+    <text variable="title" text-case="capitalize-first" suffix="..." font-style="italic" form="short"/>
+  </macro>
+  <macro name="publisher-date">
+    <!-- Miejsce i data publikacji książkowej. -->
+    <group delimiter=" ">
+      <choose>
+        <if variable="publisher-place">
+          <text variable="publisher-place"/>
+        </if>
+        <else>
+          <text variable="publisher"/>
+        </else>
+      </choose>
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="volume">
+    <!-- Oznaczenie tomu. -->
+    <group>
+      <text term="volume" form="short" text-case="lowercase" suffix=". "/>
+      <text variable="volume"/>
+    </group>
+  </macro>
+  <macro name="locator">
+    <!-- Numer strony. -->
+    <group delimiter=" ">
+      <label variable="locator" form="short"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <!-- Poniżej makra dla poszczególnych typów -->
+  <macro name="container">
+    <!-- Oznaczenie monografii, w której znajduje się rozdział. -->
+    <text term="in" prefix=" [" suffix=":] "/>
+    <group delimiter=", ">
+      <text macro="editor-translator"/>
+      <text variable="container-title" font-style="italic" quotes="false"/>
+      <text macro="volume"/>
+      <text macro="publisher-date"/>
+    </group>
+  </macro>
+  <macro name="journal">
+    <!-- Oznaczenie czasopisma. -->
+    <group delimiter=", ">
+      <group delimiter=" ">
+        <text variable="container-title" font-style="normal" quotes="true"/>
+        <group>
+          <label variable="volume" form="short" text-case="lowercase" suffix=". "/>
+          <text variable="volume"/>
+        </group>
+        <group>
+          <label variable="issue" form="short" text-case="lowercase" suffix=" "/>
+          <text variable="issue"/>
+        </group>
+        <date variable="issued" prefix="(" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </group>
+      <group delimiter=", ">
+        <text variable="DOI" prefix="DOI: "/>
+        <text variable="URL"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="report">
+    <!-- Oznaczenie raportu. -->
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <date form="text" date-parts="year-month-day" variable="issued" suffix=" r."/>
+      <text variable="URL"/>
+    </group>
+  </macro>
+  <macro name="website">
+    <!-- Oznaczenie strony internetowej dla typu strona internetowa. -->
+    <text term="at" prefix=" [" suffix=":] "/>
+    <group delimiter=", ">
+      <text variable="container-title" font-style="normal" quotes="true"/>
+      <text variable="URL"/>
+      <date form="text" date-parts="year-month-day" variable="issued" suffix=" r."/>
+      <group delimiter=" ">
+        <text term="accessed"/>
+        <date form="text" date-parts="year-month-day" variable="accessed" suffix=" r."/>
+      </group>
+    </group>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix="." delimiter="; ">
+      <choose>
+        <if position="first">
+          <choose>
+            <if type="book">
+              <group delimiter=", ">
+                <text macro="author"/>
+                <text macro="title"/>
+                <text macro="volume"/>
+                <text macro="publisher-date"/>
+                <text macro="locator"/>
+              </group>
+            </if>
+            <else-if type="chapter">
+              <group delimiter=", ">
+                <text macro="author"/>
+                <text macro="title"/>
+              </group>
+              <group delimiter=", ">
+                <text macro="container"/>
+                <text macro="locator"/>
+              </group>
+            </else-if>
+            <else-if type="webpage post-weblog" match="any">
+              <group delimiter=", ">
+                <text macro="author"/>
+                <text macro="title"/>
+              </group>
+              <text macro="website"/>
+            </else-if>
+            <else-if type="article-journal article-magazine article-newspaper" match="any">
+              <group delimiter=", ">
+                <text macro="author"/>
+                <text macro="title"/>
+                <text macro="journal"/>
+                <text macro="locator"/>
+              </group>
+            </else-if>
+            <else-if type="report article" match="any">
+              <group delimiter=", ">
+                <text macro="author"/>
+                <text macro="title"/>
+                <text macro="report"/>
+                <text macro="locator"/>
+              </group>
+            </else-if>
+            <else>
+              <group delimiter=", ">
+                <text macro="author"/>
+                <group delimiter=" ">
+                  <text macro="title"/>
+                  <text macro="container"/>
+                </group>
+                <text macro="locator"/>
+              </group>
+            </else>
+          </choose>
+        </if>
+        <else-if position="ibid-with-locator">
+          <group delimiter=", ">
+            <text term="ibid" form="long" font-style="normal" text-case="capitalize-first" suffix="."/>
+            <group>
+              <label variable="locator" form="short"/>
+              <text variable="locator" prefix=" "/>
+            </group>
+          </group>
+        </else-if>
+        <else-if position="ibid">
+          <text term="ibid" form="long" font-style="normal" text-case="capitalize-first"/>
+        </else-if>
+        <else-if position="subsequent">
+          <choose>
+            <if type="book chapter" match="any">
+              <group delimiter=", ">
+                <text macro="author"/>
+                <text macro="title-short"/>
+                <text macro="volume"/>
+                <text macro="locator"/>
+              </group>
+            </if>
+            <else>
+              <group delimiter=", ">
+                <text macro="author"/>
+                <text macro="title-short"/>
+                <text macro="locator"/>
+              </group>
+            </else>
+          </choose>
+        </else-if>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" et-al-min="5" et-al-use-first="3" entry-spacing="0" line-spacing="1">
+    <sort>
+      <key macro="author-bibliography"/>
+      <key variable="issued" sort="descending"/>
+    </sort>
+    <layout suffix=".">
+      <choose>
+        <if type="book">
+          <group delimiter=", ">
+            <text macro="author-bibliography"/>
+            <text macro="title"/>
+            <text macro="volume"/>
+            <text macro="publisher-date"/>
+            <text macro="locator"/>
+          </group>
+        </if>
+        <else-if type="chapter">
+          <group delimiter=", ">
+            <text macro="author-bibliography"/>
+            <text macro="title"/>
+          </group>
+          <text macro="container"/>
+        </else-if>
+        <else-if type="webpage post-weblog" match="any">
+          <group delimiter=", ">
+            <text macro="author-bibliography"/>
+            <text macro="title"/>
+          </group>
+          <text macro="website"/>
+        </else-if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <group delimiter=", ">
+            <text macro="author-bibliography"/>
+            <text macro="title"/>
+            <text macro="journal"/>
+            <text macro="locator"/>
+          </group>
+        </else-if>
+        <else-if type="report article" match="any">
+          <group delimiter=", ">
+            <text macro="author-bibliography"/>
+            <text macro="title"/>
+            <text macro="report"/>
+            <text macro="locator"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="author-bibliography"/>
+            <group delimiter=" ">
+              <text macro="title"/>
+              <text macro="container"/>
+            </group>
+            <text macro="locator"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="cs-CZ">
+  <info>
+    <title>Český finanční a účetní časopis (Czech)</title>
+    <id>http://www.zotero.org/styles/cesky-financni-a-ucetni-casopis</id>
+    <link href="http://www.zotero.org/styles/cesky-financni-a-ucetni-casopis" rel="self"/>
+    <link href="http://www.zotero.org/styles/iso690-author-date-cs" rel="independent-parent"/>
+    <link href="https://www.vse.cz/cfuc/text-informace-pro-autory.php" rel="documentation"/>
+    <author>
+      <name>Libor Ansorge</name>
+      <email>libor.ansorge@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <issn>1802-2200</issn>
+    <eissn>1805-4838</eissn>
+    <summary>Style for journal Český finanční a účetní časopis. Style based on ČSN ISO 690 (author-date)</summary>
+    <updated>2019-03-30T04:37:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

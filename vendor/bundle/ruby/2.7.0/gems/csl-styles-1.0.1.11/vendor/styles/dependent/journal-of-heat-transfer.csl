@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/asme -->
+  <info>
+    <title>Journal of Heat Transfer</title>
+    <id>http://www.zotero.org/styles/journal-of-heat-transfer</id>
+    <link href="http://www.zotero.org/styles/journal-of-heat-transfer" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-society-of-mechanical-engineers" rel="independent-parent"/>
+    <link href="http://heattransfer.asmedigitalcollection.asme.org/journal.aspx?journalid=124" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <issn>0022-1481</issn>
+    <eissn>1528-8943</eissn>
+    <updated>2014-06-09T20:40:39+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

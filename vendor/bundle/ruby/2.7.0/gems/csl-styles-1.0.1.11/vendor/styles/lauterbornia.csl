@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never" demote-non-dropping-particle="never" default-locale="de-DE">
+  <info>
+    <title>Lauterbornia - Internationale Zeitschrift für Faunistik und Floristik des Süßwassers (German)</title>
+    <id>http://www.zotero.org/styles/lauterbornia</id>
+    <link href="http://www.zotero.org/styles/lauterbornia" rel="self"/>
+    <link href="http://www.zotero.org/styles/zeitschrift-fur-soziologie" rel="template"/>
+    <link href="http://blog.lauterbornia.de/verfasserrichtlinien/" rel="documentation"/>
+    <author>
+      <name>Robert Nikolaus</name>
+      <email>nikolaus@igb-berlin.de</email>
+      <uri>https://www.mendeley.com/profiles/robert-nikolaus/</uri>
+    </author>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0935-333X</issn>
+    <updated>2020-02-05T14:46:39+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="et-al">et al.</term>
+      <term name="editor" form="short">Hrsg.</term>
+      <term name="in press">im Druck</term>
+      <term name="no date">ohne Datum</term>
+      <term name="no date" form="short">o.D.</term>
+      <term name="number-of-pages" form="short">S.</term>
+      <term name="number-of-pages">Seiten</term>
+      <term name="page">Seite</term>
+      <term name="page" form="short">S.</term>
+      <term name="accessed">Zugriff am </term>
+      <term name="accessed" form="short">vom</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author" delimiter=", ">
+      <name and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="first"/>
+      <label form="short" plural="never" text-case="capitalize-first" prefix=" [" suffix="]"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <names variable="illustrator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <choose>
+      <if type="bill patent" match="any">
+        <text variable="genre" suffix=" "/>
+        <text variable="number"/>
+      </if>
+      <else-if type="webpage" match="any">
+        <text variable="title" prefix="&quot;" suffix="&quot;"/>
+      </else-if>
+      <else>
+        <names variable="author" delimiter=", ">
+          <name form="short" and="symbol" delimiter-precedes-et-al="never" initialize="false" delimiter-precedes-last="never"/>
+          <substitute>
+            <names variable="editor"/>
+            <names variable="translator"/>
+          </substitute>
+        </names>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-sort">
+    <choose>
+      <if type="article-journal bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="none">
+        <date variable="issued">
+          <date-part name="year"/>
+          <date-part name="month"/>
+          <date-part name="day"/>
+        </date>
+      </if>
+      <else>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-year-text">
+    <choose>
+      <if match="none" type="bill patent webpage">
+        <date variable="issued">
+          <date-part name="year" form="long"/>
+        </date>
+        <text variable="year-suffix"/>
+      </if>
+      <else-if match="none" variable="issued" type="bill patent webpage">
+        <text term="no date" form="short"/>
+        <text variable="year-suffix"/>
+      </else-if>
+      <else-if type="personal_communication" match="any">
+        <text value="persönliche Mitteilung"/>
+      </else-if>
+      <else>
+        <text variable="year-suffix" prefix="-"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-year-bib">
+    <choose>
+      <if match="none" variable="issued">
+        <text term="no date" form="short"/>
+      </if>
+      <else-if type="personal_communication" match="any">
+        <text value="persönliche Mitteilung"/>
+      </else-if>
+      <else-if type="webpage" match="any">
+        <text term="accessed"/>
+        <date form="text" variable="accessed"/>
+      </else-if>
+      <else>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+        <text variable="year-suffix" prefix="-"/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" initialize="false" names-delimiter=", " disambiguate-add-names="true" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" givenname-disambiguation-rule="primary-name" collapse="year" year-suffix-delimiter=", ">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued-sort"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <text macro="issued-year-text"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography name-delimiter=", " and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="first" entry-spacing="0" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued-sort" sort="ascending"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <choose>
+          <if type="patent" match="any">
+            <group delimiter=" ">
+              <text variable="genre"/>
+              <text variable="number"/>
+            </group>
+          </if>
+          <else-if type="webpage" match="any">
+            <text variable="title"/>
+          </else-if>
+          <else>
+            <text macro="author"/>
+          </else>
+        </choose>
+        <text macro="issued-year-bib" prefix="(" suffix="):"/>
+        <choose>
+          <if type="webpage" match="any">
+            <text variable="URL"/>
+          </if>
+          <else>
+            <text variable="title" suffix=".-"/>
+          </else>
+        </choose>
+        <choose>
+          <if type="chapter" match="any">
+            <names variable="editor" prefix="In: " suffix=":">
+              <name and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="first"/>
+              <label form="short" text-case="capitalize-first" prefix=" [" suffix="]"/>
+            </names>
+            <text variable="container-title" suffix=".-"/>
+          </if>
+        </choose>
+        <choose>
+          <if type="chapter book" match="any">
+            <text variable="collection-title"/>
+          </if>
+          <else-if type="article-journal" match="any">
+            <text variable="container-title"/>
+          </else-if>
+          <else-if type="report thesis" match="any">
+            <text variable="genre" suffix=":"/>
+          </else-if>
+        </choose>
+        <choose>
+          <if type="article" match="all" variable="number">
+            <text value="Version"/>
+            <text variable="number" suffix=":"/>
+          </if>
+          <else-if type="book chapter" match="any">
+            <text variable="edition" suffix=":"/>
+          </else-if>
+          <else-if type="article-journal" match="any">
+            <text variable="volume" suffix=":"/>
+          </else-if>
+        </choose>
+        <group delimiter=", ">
+          <choose>
+            <if match="any" variable="page">
+              <text variable="page"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="book chapter" match="any">
+              <text variable="publisher" prefix="(" suffix=")"/>
+            </if>
+            <else-if type="thesis" match="any">
+              <text variable="publisher"/>
+            </else-if>
+            <else-if type="article-journal" match="none">
+              <text variable="publisher"/>
+            </else-if>
+          </choose>
+          <choose>
+            <if type="thesis" match="none">
+              <text variable="publisher-place"/>
+            </if>
+          </choose>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

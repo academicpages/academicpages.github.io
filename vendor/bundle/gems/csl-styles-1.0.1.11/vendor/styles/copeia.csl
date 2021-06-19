@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Copeia</title>
+    <id>http://www.zotero.org/styles/copeia</id>
+    <link href="http://www.zotero.org/styles/copeia" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-auk" rel="template"/>
+    <link href="http://www.asih.org/publications/instructions-authors" rel="documentation"/>
+    <author>
+      <name>Libor Ansorge</name>
+      <uri>https://www.zotero.org/libora/</uri>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="zoology"/>
+    <issn>0045-8511</issn>
+    <eissn>1938-5110</eissn>
+    <summary>Copeia (ISSN: 0045-8511) is an internationally respected and widely-cited journal that publishes original research on fishes, amphibians and reptiles. It emphasizes systematics, ecology, behavior, genetics, morphology and physiology.</summary>
+    <updated>2017-01-17T04:09:27+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="anon">
+    <choose>
+      <if variable="author editor translator" match="none">
+        <text term="anonymous" form="short" plural="false" text-case="capitalize-first" strip-periods="true"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="container-contributors">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <names variable="editor translator" delimiter=", ">
+          <name and="text" delimiter-precedes-last="never" initialize-with=". "/>
+          <label form="short" prefix=" (" suffix=")"/>
+        </names>
+        <text macro="anon"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter=", " and="text" delimiter-precedes-last="always" initialize-with=". " name-as-sort-order="first" sort-separator=", "/>
+      <label text-case="capitalize-first" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+    <text macro="anon"/>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+    <text macro="anon"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="genre" text-case="capitalize-first"/>
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+      <group delimiter=" ">
+        <label variable="page" form="short"/>
+        <text variable="page"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="citation-locator">
+    <group>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix" after-collapse-delimiter="; ">
+    <sort>
+      <key variable="issued"/>
+      <key macro="author"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued-year"/>
+      </group>
+      <text macro="citation-locator" prefix=":"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="13" et-al-use-first="11" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout>
+      <group delimiter=". " suffix=".">
+        <text macro="author" font-weight="bold"/>
+        <text macro="issued-year"/>
+        <text variable="title"/>
+        <choose>
+          <if type="article-journal article-magazine article-newspaper" match="any">
+            <group delimiter=":">
+              <group delimiter=" ">
+                <text variable="container-title"/>
+                <text variable="volume"/>
+              </group>
+              <text variable="page"/>
+            </group>
+          </if>
+          <else-if type="bill book chapter graphic legal_case legislation motion_picture paper-conference  song" match="any">
+            <group delimiter=" ">
+              <text term="in" text-case="capitalize-first" font-style="italic" suffix=":"/>
+              <group delimiter=". ">
+                <text variable="container-title"/>
+                <text macro="container-contributors"/>
+              </group>
+            </group>
+            <text macro="edition"/>
+            <choose>
+              <if match="all" variable="collection-title collection-number page">
+                <group delimiter=":">
+                  <group delimiter=" ">
+                    <text variable="collection-title"/>
+                    <text variable="collection-number"/>
+                  </group>
+                  <text variable="page"/>
+                </group>
+              </if>
+              <else>
+                <text macro="publisher"/>
+              </else>
+            </choose>
+          </else-if>
+          <else>
+            <text variable="container-title" font-style="italic"/>
+            <choose>
+              <if variable="URL">
+                <group delimiter=" ">
+                  <text term="online" text-case="capitalize-first" prefix="[" suffix=".]"/>
+                  <text term="available at" text-case="capitalize-first"/>
+                  <text variable="URL"/>
+                </group>
+              </if>
+            </choose>
+          </else>
+        </choose>
+      </group>
+      <group delimiter=" " prefix=" ">
+        <text value="doi:"/>
+        <text variable="DOI"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

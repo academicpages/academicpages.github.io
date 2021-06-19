@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="de-DE">
+  <info>
+    <title>Beiträge zur Popularmusikforschung (German)</title>
+    <id>http://www.zotero.org/styles/beitrage-zur-popularmusikforschung</id>
+    <link href="http://www.zotero.org/styles/beitrage-zur-popularmusikforschung" rel="self"/>
+    <link href="http://www.zotero.org/styles/gesellschaft-fur-popularmusikforschung" rel="independent-parent"/>
+    <link href="http://www.transcript-verlag.de/reihen/kulturwissenschaften/musikwissenschaft/beitraege-zur-popularmusikforschung/" rel="documentation"/>
+    <link href="http://geb.uni-giessen.de/geb/volltexte/2008/5120/" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="humanities"/>
+    <issn>0943-9242</issn>
+    <updated>2014-11-20T19:58:37+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

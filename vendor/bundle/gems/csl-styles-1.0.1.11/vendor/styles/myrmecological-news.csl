@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Myrmecological News</title>
+    <id>http://www.zotero.org/styles/myrmecological-news</id>
+    <link href="http://www.zotero.org/styles/myrmecological-news" rel="self"/>
+    <link href="http://myrmecologicalnews.org/cms/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=40" rel="documentation"/>
+    <link href="https://github.com/citation-style-language/styles/pull/498" rel="documentation"/>
+    <author>
+      <name>Wolfgang Arthofer</name>
+      <email>wolfgang.arthofer@uibk.ac.at</email>
+    </author>
+    <contributor>
+      <name>Florian M. Steiner</name>
+    </contributor>
+    <contributor>
+      <name>Timothée Brütsch</name>
+      <email>timbrutsch@gmail.com</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1994-4136</issn>
+    <eissn>1997-3500</eissn>
+    <updated>2015-01-22T22:19:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
+      <term name="et-al">&amp; al.</term>
+    </terms>
+  </locale>
+  <macro name="editor">
+    <names variable="editor">
+      <name name-as-sort-order="all" and="symbol" sort-separator=", " delimiter=", " delimiter-precedes-last="never" initialize-with="." font-variant="small-caps"/>
+    </names>
+  </macro>
+  <macro name="anon">
+    <text term="anonymous" form="short" text-case="capitalize-first"/>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with="." delimiter-precedes-last="never" delimiter=", "/>
+      <label form="short" prefix=" " suffix="."/>
+      <substitute>
+        <names variable="editor"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" font-variant="normal" and="symbol" delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1" initialize-with=". ">
+        <name-part name="family" font-variant="small-caps"/>
+        <name-part name="given" font-variant="small-caps"/>
+      </name>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book thesis" match="any">
+        <text variable="title" suffix=". "/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+      <text variable="number-of-pages" suffix=" pp."/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" suffix=" "/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix=" "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <group>
+      <label variable="page" form="short" suffix=" "/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true">
+    <sort>
+      <key macro="year-date"/>
+      <key macro="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text macro="author-short"/>
+          <text macro="year-date"/>
+        </group>
+        <group>
+          <label variable="locator" suffix="." form="short"/>
+          <text variable="locator"/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <group delimiter=" ">
+        <text macro="author" font-variant="small-caps"/>
+        <date variable="issued" suffix=":">
+          <date-part name="year"/>
+        </date>
+      </group>
+      <choose>
+        <if type="book">
+          <group prefix=" " delimiter=" " suffix=" ">
+            <text macro="title"/>
+            <text macro="edition" suffix=". "/>
+          </group>
+          <text prefix=" &#8211; " suffix="." macro="publisher"/>
+        </if>
+        <else-if type="chapter">
+          <text macro="title" prefix=" " suffix=". "/>
+          <group delimiter=" ">
+            <text term="in" text-case="capitalize-first" suffix=": "/>
+            <text macro="editor" suffix=" (Eds.): " text-case="capitalize-all"/>
+            <text variable="container-title" suffix=". &#8211;"/>
+            <text variable="collection-title" suffix="."/>
+            <text variable="event" suffix="."/>
+            <group suffix="." delimiter=", ">
+              <text macro="publisher" prefix=" "/>
+              <text macro="pages"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group prefix=" " suffix=" " delimiter=", ">
+            <text macro="title" suffix=" &#8211; PhD thesis"/>
+            <text macro="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <group suffix=". &#8211;">
+            <text macro="title" prefix=" "/>
+            <text macro="editor" prefix=" "/>
+          </group>
+          <group prefix=" " suffix=". ">
+            <text variable="container-title"/>
+            <group prefix=" ">
+              <text variable="volume"/>
+            </group>
+            <group prefix=": ">
+              <text variable="page"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

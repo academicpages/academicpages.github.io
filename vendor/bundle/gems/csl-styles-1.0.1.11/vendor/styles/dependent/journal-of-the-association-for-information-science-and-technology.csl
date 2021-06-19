@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of the Association for Information Science and Technology</title>
+    <title-short>JASIST</title-short>
+    <id>http://www.zotero.org/styles/journal-of-the-association-for-information-science-and-technology</id>
+    <link href="http://www.zotero.org/styles/journal-of-the-association-for-information-science-and-technology" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-2890/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <category field="communications"/>
+    <issn>0002-8231</issn>
+    <eissn>2330-1643</eissn>
+    <summary>The Journal of the Association for Information Science and Technology was re-named from Journal of the American Society for Information Science and Technology.  The journal's instructions to authors calls for APA 6th edition.</summary>
+    <updated>2014-05-12T02:00:39+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Experimental &amp; Clinical Assisted Reproduction</title>
+    <id>http://www.zotero.org/styles/journal-of-experimental-and-clinical-assisted-reproduction</id>
+    <link href="http://www.zotero.org/styles/journal-of-experimental-and-clinical-assisted-reproduction" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-brackets" rel="independent-parent"/>
+    <link href="http://www.jexpclinassistreprod.com/about/submissions#authorGuidelines" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <eissn>1743-1050</eissn>
+    <updated>2014-06-15T04:08:21+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

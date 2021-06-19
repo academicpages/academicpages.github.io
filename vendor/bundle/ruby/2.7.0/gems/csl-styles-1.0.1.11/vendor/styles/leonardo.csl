@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Leonardo</title>
+    <id>http://www.zotero.org/styles/leonardo</id>
+    <link href="http://www.zotero.org/styles/leonardo" rel="self"/>
+    <link href="http://www.zotero.org/styles/neural-plasticity" rel="template"/>
+    <link href="https://www.leonardo.info/preparing-your-materials-journals" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien, PhD</name>
+      <uri>https://twitter.com/patobrien333</uri>
+    </author>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <issn>0024-094X</issn>
+    <eissn>1530-9282</eissn>
+    <summary>The style is systematically an endnote style, although the journal explicitly tells authors not to use endnotes (for unclear reason). The best bet for authors is still to use endnotes and convert them to square brackets</summary>
+    <updated>2019-03-16T01:48:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name and="text"/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name and="text" form="short"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" quotes="true" suffix=","/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="page">
+    <group>
+      <label plural="always" suffix=" " variable="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="locator">
+    <group delimiter=" ">
+      <label variable="locator" form="short"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <citation et-al-min="7" et-al-use-first="3">
+    <layout suffix="." delimiter="; ">
+      <choose>
+        <if position="subsequent">
+          <group delimiter=" ">
+            <text macro="author-short"/>
+            <text variable="first-reference-note-number" prefix="[" suffix="]"/>
+            <text macro="locator"/>
+          </group>
+        </if>
+        <else>
+          <text macro="author" suffix=", "/>
+          <choose>
+            <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+              <group delimiter=" ">
+                <text macro="title"/>
+                <group delimiter=" " prefix="(" suffix=")">
+                  <text macro="publisher"/>
+                  <date variable="issued">
+                    <date-part name="year"/>
+                  </date>
+                </group>
+              </group>
+            </if>
+            <else-if type="article-journal">
+              <group delimiter=", ">
+                <group delimiter=" ">
+                  <text macro="title"/>
+                </group>
+                <group delimiter=" ">
+                  <text variable="container-title" font-style="italic"/>
+                  <text variable="volume" font-weight="bold" suffix=","/>
+                </group>
+                <group delimiter=" ">
+                  <label text-case="capitalize-first" variable="issue" form="short"/>
+                  <text variable="issue"/>
+                </group>
+                <group delimiter=" ">
+                  <text variable="page" form="short"/>
+                  <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+                </group>
+              </group>
+            </else-if>
+            <else-if type="chapter paper-conference" match="any">
+              <group delimiter=" ">
+                <text macro="title"/>
+                <group delimiter=" ">
+                  <text term="in"/>
+                  <text variable="container-title" font-style="italic"/>
+                  <group delimiter=", " prefix="(" suffix=")">
+                    <text macro="publisher"/>
+                    <date date-parts="year" form="text" variable="issued"/>
+                  </group>
+                  <text macro="page"/>
+                </group>
+              </group>
+            </else-if>
+            <else-if type="webpage post post-weblog">
+              <group delimiter=", ">
+                <text macro="title"/>
+                <text variable="container-title"/>
+                <date form="text" date-parts="year-month-day" variable="issued"/>
+                <text variable="URL" prefix="&lt;" suffix="&gt;"/>
+                <group delimiter=" ">
+                  <text term="accessed"/>
+                  <date form="text" variable="accessed"/>
+                </group>
+              </group>
+            </else-if>
+            <else-if type="speech">
+              <group delimiter=" ">
+                <text macro="title" suffix="."/>
+                <text variable="event" suffix="."/>
+                <text variable="event-place" prefix=", "/>
+                <date variable="issued">
+                  <date-part name="year" prefix="(" suffix=")"/>
+                </date>
+              </group>
+            </else-if>
+            <else>
+              <group delimiter=", ">
+                <text macro="title"/>
+                <text variable="URL"/>
+                <date variable="issued">
+                  <date-part name="year" prefix="(" suffix=")"/>
+                </date>
+              </group>
+            </else>
+          </choose>
+          <text macro="locator" prefix=" "/>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+</style>

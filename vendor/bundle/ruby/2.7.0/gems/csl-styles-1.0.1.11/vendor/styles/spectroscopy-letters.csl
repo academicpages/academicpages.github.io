@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Spectroscopy Letters</title>
+    <title-short>Spectrosc Lett</title-short>
+    <id>http://www.zotero.org/styles/spectroscopy-letters</id>
+    <link href="http://www.zotero.org/styles/spectroscopy-letters" rel="self"/>
+    <link href="http://www.zotero.org/styles/applied-spectroscopy" rel="template"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=lstl20&amp;page=instructions" rel="documentation"/>
+    <author>
+      <name>Olivier Duboc</name>
+    </author>
+    <contributor>
+      <name>Philipp Zumstein</name>
+    </contributor>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <category field="science"/>
+    <issn>0038-7010</issn>
+    <eissn>1532-2289</eissn>
+    <summary>Style for Spectroscopy letters, adapted from Applied Spectroscopy.</summary>
+    <updated>2014-10-17T00:26:43+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <style-options punctuation-in-quote="false"/>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter="; " delimiter-precedes-last="always" initialize-with="." name-as-sort-order="all"/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" text-case="title" prefix=", " suffix=";"/>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="article-journal chapter article-magazine speech webpage" match="any">
+        <text variable="title" quotes="false" suffix="."/>
+      </if>
+      <else-if type="thesis patent" match="any">
+        <group delimiter=". ">
+          <text variable="title"/>
+          <text variable="genre" prefix="[" suffix="]"/>
+          <text variable="number"/>
+        </group>
+      </else-if>
+      <else>
+        <text variable="title" suffix=";"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <choose>
+          <if type="patent">
+            <text value="Issued "/>
+          </if>
+        </choose>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="speech">
+        <group delimiter=": ">
+          <choose>
+            <if variable="genre">
+              <group delimiter=" ">
+                <text variable="genre" text-case="capitalize-first"/>
+                <text term="presented at"/>
+              </group>
+            </if>
+            <else>
+              <text variable="publisher" suffix=", "/>
+              <text variable="publisher-place" suffix=", "/>
+              <text macro="year-date"/>
+              <text variable="number-of-pages" prefix="; "/>
+              <text term="page"/>
+            </else>
+          </choose>
+          <group delimiter="; ">
+            <group delimiter=". ">
+              <text variable="event"/>
+              <text variable="publisher-place"/>
+            </group>
+            <date variable="issued" form="text"/>
+          </group>
+        </group>
+      </if>
+      <else>
+        <text variable="publisher" suffix=": "/>
+        <text variable="publisher-place" suffix=", "/>
+        <text macro="year-date"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="location">
+    <group delimiter=", ">
+      <choose>
+        <if type="article-journal article-magazine" match="any">
+          <group>
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+        </if>
+      </choose>
+      <group delimiter=" ">
+        <text variable="page"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal">
+        <text variable="container-title" strip-periods="false" quotes="false"/>
+      </if>
+    </choose>
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <text term="in" text-case="capitalize-first" suffix=" "/>
+        <text variable="container-title" suffix="; "/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <group delimiter=". ">
+      <text variable="DOI"/>
+      <choose>
+        <if type="webpage">
+          <group delimiter=" ">
+            <text variable="URL"/>
+            <date variable="accessed" prefix="[" suffix="]" delimiter=" ">
+              <date-part name="month" form="short" strip-periods="true"/>
+              <date-part name="day"/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush" et-al-min="7" et-al-use-first="6">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=", " suffix=".">
+        <group delimiter=" ">
+          <text macro="author"/>
+          <text macro="title"/>
+          <text macro="container-title"/>
+          <text macro="editor"/>
+          <text macro="edition"/>
+          <text macro="publisher"/>
+        </group>
+        <group delimiter=" ">
+          <text macro="location"/>
+          <text macro="access"/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

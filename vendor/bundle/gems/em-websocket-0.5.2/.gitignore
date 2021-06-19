@@ -1,0 +1,3 @@
+*.gemspec
+pkg
+Gemfile.lock

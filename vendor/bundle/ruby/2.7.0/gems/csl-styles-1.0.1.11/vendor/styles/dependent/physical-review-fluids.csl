@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- American Physical Society (APS), generated from "american-physical-society" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Physical Review Fluids</title>
+    <id>http://www.zotero.org/styles/physical-review-fluids</id>
+    <link href="http://www.zotero.org/styles/physical-review-fluids" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-physics-society" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <eissn>2469-990X</eissn>
+    <updated>2020-08-27T03:33:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

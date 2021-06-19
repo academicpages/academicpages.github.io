@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" default-locale="fr-FR" page-range-format="expanded">
+  <info>
+    <title>Zilsel (French)</title>
+    <title-short>Zilsel</title-short>
+    <id>http://www.zotero.org/styles/zilsel</id>
+    <link href="http://www.zotero.org/styles/zilsel" rel="self"/>
+    <link href="http://www.zotero.org/styles/revue-francaise-de-sociologie" rel="template"/>
+    <link href="https://www.cairn.info/revue-zilsel.htm" rel="documentation"/>
+    <author>
+      <name>Sébastien Plutniak</name>
+      <email>sebastien.plutniak@posteo.net</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="social_science"/>
+    <issn>2551-8313</issn>
+    <eissn>2553-6133</eissn>
+    <summary>Style for the Zilsel journal.</summary>
+    <updated>2019-08-06T04:25:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="fr">
+    <terms>
+      <term name="editor" form="short">
+        <single>(dir.)</single>
+        <multiple>(dir.)</multiple>
+      </term>
+      <term name="page" form="short">
+        <single>p.</single>
+        <multiple>p.</multiple>
+      </term>
+    </terms>
+  </locale>
+  <locale xml:lang="en">
+    <terms>
+      <term name="editor" form="short">
+        <single>(ed.)</single>
+        <multiple>(eds.)</multiple>
+      </term>
+      <term name="page" form="short">
+        <single>p.</single>
+        <multiple>p.</multiple>
+      </term>
+    </terms>
+  </locale>
+  <!-- Macros definition -->
+  <macro name="editor">
+    <names variable="editor" delimiter=" ">
+      <name and="text" sort-separator=" " delimiter=", " delimiter-precedes-last="never" initialize="false"/>
+      <label form="short" prefix=" " suffix=" " text-case="lowercase"/>
+    </names>
+  </macro>
+  <macro name="author-last">
+    <names variable="author">
+      <name and="text" sort-separator=" " delimiter=", " delimiter-precedes-last="never" initialize="false"/>
+      <label form="short" prefix=" " text-case="lowercase"/>
+      <substitute>
+        <names variable="editor">
+          <name and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never" initialize="false"/>
+          <label form="short" prefix=" " suffix="" text-case="lowercase"/>
+        </names>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="year-date-short">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="page">
+    <group>
+      <choose>
+        <if variable="locator"/>
+        <else>
+          <label variable="page" suffix=".&#160;" form="short"/>
+          <text variable="page"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="citation-locator">
+    <group>
+      <label variable="locator" form="short" suffix=".&#160;"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <!-- End of macros definition -->
+  <!-- Format of in-line references -->
+  <citation>
+    <sort>
+      <key macro="author-last"/>
+      <key macro="year-date-short"/>
+    </sort>
+    <layout>
+      <text macro="author-last" suffix=", "/>
+      <choose>
+        <if type="book">
+          <group delimiter=", ">
+            <text variable="title" font-style="italic" text-case="capitalize-first" quotes="false"/>
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+            <text macro="year-date-short"/>
+            <text macro="citation-locator"/>
+          </group>
+        </if>
+        <else-if type="article article-newspaper article-magazine" match="any">
+          <group delimiter=" ">
+            <text variable="title" quotes="true"/>
+            <text variable="container-title-short" font-style="italic" prefix=" "/>
+          </group>
+          <group delimiter=", ">
+            <text macro="page"/>
+            <text macro="citation-locator"/>
+          </group>
+        </else-if>
+        <else-if type="report">
+          <group delimiter=", ">
+            <text variable="title" quotes="false"/>
+            <text variable="genre"/>
+            <text variable="number"/>
+            <text variable="publisher"/>
+            <text variable="publisher-place"/>
+            <text macro="year-date-short"/>
+            <text macro="citation-locator"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text variable="title" font-style="italic"/>
+            <choose>
+              <if variable="genre">
+                <text variable="genre"/>
+              </if>
+              <else>
+                <text value="PhD. thesis"/>
+              </else>
+            </choose>
+            <text macro="citation-locator"/>
+          </group>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <text variable="title" suffix=", " quotes="true"/>
+          <group delimiter=" ">
+            <text value="in" prefix="" suffix=" " font-style="italic"/>
+          </group>
+          <group delimiter=", ">
+            <text macro="editor" suffix=""/>
+            <text variable="container-title" suffix="" font-style="italic"/>
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+            <text macro="year-date-short"/>
+            <text macro="page"/>
+            <text macro="citation-locator"/>
+          </group>
+        </else-if>
+        <else>
+          <text variable="title" font-style="italic" suffix=", " quotes="true"/>
+          <group delimiter=", ">
+            <text variable="container-title" font-style="italic"/>
+            <text variable="volume" prefix="vol.&#160;"/>
+            <text variable="issue" prefix="no&#160;"/>
+            <text macro="year-date-short"/>
+            <text macro="page"/>
+            <text macro="citation-locator"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <!-- Zilsel don't use final references list -->
+  <bibliography>
+    <sort>
+      <key macro="author-last"/>
+      <key variable="issued"/>
+    </sort>
+    <layout>
+      <text macro="author-last" suffix=", "/>
+      <choose>
+        <if type="book">
+          <group delimiter=", ">
+            <text variable="title" font-style="italic" text-case="capitalize-first" quotes="false"/>
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+            <text macro="year-date-short"/>
+            <text macro="citation-locator"/>
+          </group>
+        </if>
+        <else-if type="article article-newspaper article-magazine" match="any">
+          <group delimiter=" ">
+            <text variable="title" quotes="true"/>
+            <text variable="container-title-short" font-style="italic" prefix=" "/>
+          </group>
+          <group delimiter=", ">
+            <text macro="page"/>
+            <text macro="citation-locator"/>
+          </group>
+        </else-if>
+        <else-if type="report">
+          <group delimiter=", ">
+            <text variable="title" quotes="false"/>
+            <text variable="genre"/>
+            <text variable="number"/>
+            <text variable="publisher"/>
+            <text variable="publisher-place"/>
+            <text macro="year-date-short"/>
+            <text macro="citation-locator"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text variable="title" font-style="italic"/>
+            <choose>
+              <if variable="genre">
+                <text variable="genre"/>
+              </if>
+              <else>
+                <text value="PhD. thesis"/>
+              </else>
+            </choose>
+            <text macro="citation-locator"/>
+          </group>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <text variable="title" suffix=", " quotes="true"/>
+          <group delimiter=" ">
+            <text value="in" prefix="" suffix=" " font-style="italic"/>
+          </group>
+          <group delimiter=", ">
+            <text macro="editor" suffix=""/>
+            <text variable="container-title" suffix="" font-style="italic"/>
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+            <text macro="year-date-short"/>
+            <text macro="page"/>
+            <text macro="citation-locator"/>
+          </group>
+        </else-if>
+        <else>
+          <text variable="title" font-style="italic" suffix=", " quotes="true"/>
+          <group delimiter=", ">
+            <text variable="container-title" font-style="italic"/>
+            <text variable="volume" prefix="vol.&#160;"/>
+            <text variable="issue" prefix="no&#160;"/>
+            <text macro="year-date-short"/>
+            <text macro="page"/>
+            <text macro="citation-locator"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

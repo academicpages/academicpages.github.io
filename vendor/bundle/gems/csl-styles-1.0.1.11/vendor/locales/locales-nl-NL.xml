@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="nl-NL">
+  <info>
+    <translator>
+      <name>Rintze M. Zelle</name>
+      <uri>http://twitter.com/rintzezelle</uri>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2017-04-01T12:00:00+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" suffix="-" range-delimiter="/"/>
+    <date-part name="month" form="numeric" suffix="-" range-delimiter="/"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">geraadpleegd</term>
+    <term name="and">en</term>
+    <term name="and others">en anderen</term>
+    <term name="anonymous">anoniem</term>
+    <term name="anonymous" form="short">anon.</term>
+    <term name="at">bij</term>
+    <term name="available at">beschikbaar op</term>
+    <term name="by">door</term>
+    <term name="circa">circa</term>
+    <term name="circa" form="short">c.</term>
+    <term name="cited">geciteerd</term>
+    <term name="edition">
+      <single>druk</single>
+      <multiple>drukken</multiple>
+    </term>
+    <term name="edition" form="short">dr.</term>
+    <term name="et-al">e.a.</term>
+    <term name="forthcoming">in voorbereiding</term>
+    <term name="from">van</term>
+    <term name="ibid">ibid.</term>
+    <term name="in">in</term>
+    <term name="in press">in druk</term>
+    <term name="internet">internet</term>
+    <term name="interview">interview</term>
+    <term name="letter">brief</term>
+    <term name="no date">zonder datum</term>
+    <term name="no date" form="short">z.d.</term>
+    <term name="online">online</term>
+    <term name="presented at">gepresenteerd bij</term>
+    <term name="reference">
+      <single>referentie</single>
+      <multiple>referenties</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>ref.</single>
+      <multiple>refs.</multiple>
+    </term>
+    <term name="retrieved">geraadpleegd</term>
+    <term name="scale">schaal</term>
+    <term name="version">versie</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">AD</term>
+    <term name="bc">BC</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">‘</term>
+    <term name="close-quote">’</term>
+    <term name="open-inner-quote">“</term>
+    <term name="close-inner-quote">”</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">ste</term>
+    <term name="ordinal-00" match="whole-number">de</term>
+    <term name="ordinal-02" match="last-two-digits">de</term>
+    <term name="ordinal-03" match="last-two-digits">de</term>
+    <term name="ordinal-04" match="last-two-digits">de</term>
+    <term name="ordinal-05" match="last-two-digits">de</term>
+    <term name="ordinal-06" match="last-two-digits">de</term>
+    <term name="ordinal-07" match="last-two-digits">de</term>
+    <term name="ordinal-09" match="last-two-digits">de</term>
+    <term name="ordinal-10">de</term>
+    <term name="ordinal-11">de</term>
+    <term name="ordinal-12">de</term>
+    <term name="ordinal-13">de</term>
+    <term name="ordinal-14">de</term>
+    <term name="ordinal-15">de</term>
+    <term name="ordinal-16">de</term>
+    <term name="ordinal-17">de</term>
+    <term name="ordinal-18">de</term>
+    <term name="ordinal-19">de</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">eerste</term>
+    <term name="long-ordinal-02">tweede</term>
+    <term name="long-ordinal-03">derde</term>
+    <term name="long-ordinal-04">vierde</term>
+    <term name="long-ordinal-05">vijfde</term>
+    <term name="long-ordinal-06">zesde</term>
+    <term name="long-ordinal-07">zevende</term>
+    <term name="long-ordinal-08">achtste</term>
+    <term name="long-ordinal-09">negende</term>
+    <term name="long-ordinal-10">tiende</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>boek</single>
+      <multiple>boeken</multiple>
+    </term>
+    <term name="chapter">
+      <single>hoofdstuk</single>
+      <multiple>hoofdstukken</multiple>
+    </term>
+    <term name="column">
+      <single>column</single>
+      <multiple>columns</multiple>
+    </term>
+    <term name="figure">
+      <single>figuur</single>
+      <multiple>figuren</multiple>
+    </term>
+    <term name="folio">
+      <single>folio</single>
+      <multiple>folio's</multiple>
+    </term>
+    <term name="issue">
+      <single>nummer</single>
+      <multiple>nummers</multiple>
+    </term>
+    <term name="line">
+      <single>regel</single>
+      <multiple>regels</multiple>
+    </term>
+    <term name="note">
+      <single>aantekening</single>
+      <multiple>aantekeningen</multiple>
+    </term>
+    <term name="opus">
+      <single>opus</single>
+      <multiple>opera</multiple>
+    </term>
+    <term name="page">
+      <single>pagina</single>
+      <multiple>pagina's</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>pagina</single>
+      <multiple>pagina's</multiple>
+    </term>
+    <term name="paragraph">
+      <single>paragraaf</single>
+      <multiple>paragrafen</multiple>
+    </term>
+    <term name="part">
+      <single>deel</single>
+      <multiple>delen</multiple>
+    </term>
+    <term name="section">
+      <single>sectie</single>
+      <multiple>secties</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>vers</single>
+      <multiple>versen</multiple>
+    </term>
+    <term name="volume">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">bk.</term>
+    <term name="chapter" form="short">hfdst.</term>
+    <term name="column" form="short">col.</term>
+    <term name="figure" form="short">fig.</term>
+    <term name="folio" form="short">f.</term>
+    <term name="issue" form="short">nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">deel</term>
+    <term name="section" form="short">sec.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>v.</single>
+      <multiple>vv.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>vol.</single>
+      <multiple>vols.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>regisseur</single>
+      <multiple>regisseurs</multiple>
+    </term>
+    <term name="editor">
+      <single>redacteur</single>
+      <multiple>redacteuren</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>redacteur</single>
+      <multiple>redacteuren</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
+    </term>
+    <term name="translator">
+      <single>vertaler</single>
+      <multiple>vertalers</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>redacteur &amp; vertaler</single>
+      <multiple>redacteuren &amp; vertalers</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>reg.</single>
+      <multiple>reg.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>red.</single>
+      <multiple>red.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>red.</single>
+      <multiple>red.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ill.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>vert.</single>
+      <multiple>vert.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>red. &amp; vert.</single>
+      <multiple>red. &amp; vert.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">door</term>
+    <term name="director" form="verb">geregisseerd door</term>
+    <term name="editor" form="verb">onder redactie van</term>
+    <term name="editorial-director" form="verb">onder redactie van</term>
+    <term name="illustrator" form="verb">geïllustreerd door</term>
+    <term name="interviewer" form="verb">geïnterviewd door</term>
+    <term name="recipient" form="verb">ontvangen door</term>
+    <term name="reviewed-author" form="verb">door</term>
+    <term name="translator" form="verb">vertaald door</term>
+    <term name="editortranslator" form="verb">bewerkt &amp; vertaald door</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">geregisseerd door</term>
+    <term name="editor" form="verb-short">onder redactie van</term>
+    <term name="editorial-director" form="verb-short">bewerkt door</term>
+    <term name="illustrator" form="verb-short">geïllustreerd door</term>
+    <term name="translator" form="verb-short">vertaald door</term>
+    <term name="editortranslator" form="verb-short">bewerkt &amp; vertaald door</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">januari</term>
+    <term name="month-02">februari</term>
+    <term name="month-03">maart</term>
+    <term name="month-04">april</term>
+    <term name="month-05">mei</term>
+    <term name="month-06">juni</term>
+    <term name="month-07">juli</term>
+    <term name="month-08">augustus</term>
+    <term name="month-09">september</term>
+    <term name="month-10">oktober</term>
+    <term name="month-11">november</term>
+    <term name="month-12">december</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">jan.</term>
+    <term name="month-02" form="short">feb.</term>
+    <term name="month-03" form="short">mrt.</term>
+    <term name="month-04" form="short">apr.</term>
+    <term name="month-05" form="short">mei</term>
+    <term name="month-06" form="short">jun.</term>
+    <term name="month-07" form="short">jul.</term>
+    <term name="month-08" form="short">aug.</term>
+    <term name="month-09" form="short">sep.</term>
+    <term name="month-10" form="short">okt.</term>
+    <term name="month-11" form="short">nov.</term>
+    <term name="month-12" form="short">dec.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">lente</term>
+    <term name="season-02">zomer</term>
+    <term name="season-03">herst</term>
+    <term name="season-04">winter</term>
+  </terms>
+</locale>

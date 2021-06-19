@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/ams -->
+  <info>
+    <title>Meteorological Monographs</title>
+    <id>http://www.zotero.org/styles/meteorological-monographs</id>
+    <link href="http://www.zotero.org/styles/meteorological-monographs" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-meteorological-society" rel="independent-parent"/>
+    <link href="http://journals.ametsoc.org/loi/amsm" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="geography"/>
+    <issn>0065-9401</issn>
+    <updated>2014-06-06T00:00:56+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

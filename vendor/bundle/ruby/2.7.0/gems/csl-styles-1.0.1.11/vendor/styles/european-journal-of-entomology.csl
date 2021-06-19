@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>European Journal of Entomology</title>
+    <title-short>EJE</title-short>
+    <id>http://www.zotero.org/styles/european-journal-of-entomology</id>
+    <link href="http://www.zotero.org/styles/european-journal-of-entomology" rel="self"/>
+    <link href="http://www.zotero.org/styles/biologia" rel="template"/>
+    <link href="https://www.eje.cz/artkey/inf-990000-2600_Manuscript.php" rel="documentation"/>
+    <contributor>
+      <name>Patrick O'Brien</name>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="zoology"/>
+    <issn>1210-5759</issn>
+    <eissn>1802-8829</eissn>
+    <updated>2020-09-05T12:43:56+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="accessed">last accessed</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+      <substitute>
+        <text macro="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name and="symbol" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="title">
+    <text variable="title" font-style="normal"/>
+  </macro>
+  <citation disambiguate-add-year-suffix="true" collapse="year" et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="year"/>
+      <key variable="issued" sort="ascending"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=" ">
+        <names variable="author" suffix=", ">
+          <name and="symbol" delimiter=" " name-as-sort-order="all" sort-separator=", " form="short"/>
+        </names>
+        <date variable="issued">
+          <date-part name="year" form="long"/>
+        </date>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="11" et-al-use-first="10" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key macro="year" sort="ascending"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". ">
+        <text macro="author" font-variant="small-caps"/>
+        <text macro="year" suffix=": "/>
+      </group>
+      <choose>
+        <if type="thesis">
+          <text macro="title" font-style="italic"/>
+          <text variable="publisher" suffix=", "/>
+          <text variable="publisher-place" suffix=". "/>
+        </if>
+        <else-if type="book">
+          <group delimiter=". ">
+            <text macro="title" font-style="italic"/>
+            <group delimiter=", ">
+              <text variable="publisher"/>
+              <text variable="publisher-place"/>
+              <group delimiter=" ">
+                <text variable="number-of-pages"/>
+                <label variable="number-of-pages" form="short"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="chapter">
+          <group delimiter=". ">
+            <text macro="title"/>
+            <group delimiter=": ">
+              <group delimiter=" ">
+                <text term="in" text-case="capitalize-first"/>
+                <text macro="editor"/>
+              </group>
+              <text variable="container-title" font-style="normal"/>
+            </group>
+            <group delimiter=", ">
+              <text variable="publisher"/>
+              <text variable="publisher-place"/>
+              <group delimiter=" ">
+                <label variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="paper-conference">
+          <text macro="title"/>
+          <text variable="event" prefix=" " suffix=", " font-style="italic"/>
+          <text variable="volume" suffix=", "/>
+          <text variable="page" suffix="."/>
+        </else-if>
+        <else-if type="webpage post post-weblog" match="any">
+          <group delimiter=" ">
+            <text variable="URL" prefix="URL: "/>
+            <group delimiter=" " prefix="(" suffix=")">
+              <text term="accessed"/>
+              <date form="text" variable="accessed">
+                <date-part name="day"/>
+                <date-part name="month" form="short"/>
+                <date-part name="year"/>
+              </date>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=". &#8212; ">
+            <text macro="title"/>
+            <group delimiter=" ">
+              <text variable="container-title" form="short" font-style="normal"/>
+              <group delimiter=": ">
+                <text variable="volume" font-weight="bold"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

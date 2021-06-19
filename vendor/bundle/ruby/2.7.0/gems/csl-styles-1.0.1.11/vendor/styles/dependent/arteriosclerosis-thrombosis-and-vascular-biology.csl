@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Arteriosclerosis, Thrombosis, and Vascular Biology</title>
+    <id>http://www.zotero.org/styles/arteriosclerosis-thrombosis-and-vascular-biology</id>
+    <link href="http://www.zotero.org/styles/arteriosclerosis-thrombosis-and-vascular-biology" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association-no-et-al" rel="independent-parent"/>
+    <link href="http://atvb.ahajournals.org/site/misc/ifora.xhtml#references" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1079-5642</issn>
+    <eissn>1524-4636</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

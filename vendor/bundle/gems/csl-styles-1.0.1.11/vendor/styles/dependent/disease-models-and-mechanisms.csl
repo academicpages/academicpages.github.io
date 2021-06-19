@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/biologists -->
+  <info>
+    <title>Disease Models &amp; Mechanisms</title>
+    <id>http://www.zotero.org/styles/disease-models-and-mechanisms</id>
+    <link href="http://www.zotero.org/styles/disease-models-and-mechanisms" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-company-of-biologists" rel="independent-parent"/>
+    <link href="http://dmm.biologists.org/site/author/manuscript_prep.xhtml#refs" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1754-8403</issn>
+    <eissn>1754-8411</eissn>
+    <updated>2014-06-06T00:33:30+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

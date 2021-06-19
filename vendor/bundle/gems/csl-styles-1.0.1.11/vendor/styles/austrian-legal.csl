@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="de-AT">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Austrian Legal (German - Austria)</title>
+    <id>http://www.zotero.org/styles/austrian-legal</id>
+    <link href="http://www.zotero.org/styles/austrian-legal" rel="self"/>
+    <link href="http://www.lexisnexis.at/service/training-und-hilfe/zitieren.aspx" rel="documentation"/>
+    <author>
+      <name>LexisNexis</name>
+      <email>andreas.geyrecker@lexisnexis.at</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <summary>The Austrian Legal Citation style (based on AZR - Abkürzungs- und Zitierregeln)</summary>
+    <published>2012-05-31T00:00:00+02:00</published>
+    <updated>2015-08-09T02:13:24+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de-AT">
+    <terms>
+      <term name="et-al">et al</term>
+    </terms>
+  </locale>
+  <macro name="authority-sort">
+    <choose>
+      <if type="legal_case">
+        <choose>
+          <if variable="authority">
+            <text variable="authority"/>
+          </if>
+          <else>
+            <text variable="title"/>
+          </else>
+        </choose>
+      </if>
+      <else-if type="bill">
+        <!-- move statutes to the bottom -->
+        <text value="ZZZZ"/>
+      </else-if>
+      <else>
+        <!-- move all but cases to the top -->
+        <text value="AAAA"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="contributors-sort">
+    <names variable="editor">
+      <name name-as-sort-order="all" and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="always"/>
+      <label form="verb-short" prefix=", "/>
+      <substitute>
+        <names variable="author"/>
+        <text macro="noauthor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="sort-key">
+    <text macro="authority-sort"/>
+    <text macro="contributors-sort" suffix=" "/>
+  </macro>
+  <macro name="noauthor">
+    <text value="OV"/>
+  </macro>
+  <macro name="authors">
+    <names variable="author" font-style="italic">
+      <name delimiter="/" name-as-sort-order="all" form="short" delimiter-precedes-last="always" initialize-with="."/>
+      <et-al term="et-al" font-style="italic"/>
+      <substitute>
+        <names variable="editor" font-style="italic"/>
+        <names variable="translator" font-style="italic"/>
+        <text macro="noauthor" font-style="italic"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editors">
+    <names variable="editor" font-style="italic">
+      <name delimiter="/" name-as-sort-order="all" form="short" delimiter-precedes-last="always" initialize-with="."/>
+      <et-al term="et-al" font-style="italic"/>
+    </names>
+    <text value=" (Hrsg)" font-style="normal"/>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true" givenname-disambiguation-rule="all-names-with-initials" disambiguate-add-givenname="true">
+    <layout suffix="." delimiter="; ">
+      <choose>
+        <if type="legal_case">
+          <choose>
+            <if variable="authority issued number" match="all">
+              <text variable="authority" suffix=" "/>
+              <date variable="issued" suffix=" ">
+                <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+                <date-part name="month" form="numeric-leading-zeros" suffix="."/>
+                <date-part name="year" form="long" suffix=","/>
+              </date>
+              <text variable="number"/>
+            </if>
+            <else>
+              <!-- fallback: since RIS format does not have a court (authority) variable -->
+              <text variable="title"/>
+            </else>
+          </choose>
+        </if>
+        <else-if type="bill">
+          <choose>
+            <if variable="container-title section" match="all">
+              <text variable="section" suffix=" "/>
+              <text variable="container-title"/>
+              <choose>
+                <if position="first">
+                  <choose>
+                    <if variable="references">
+                      <text variable="references" prefix=" "/>
+                    </if>
+                  </choose>
+                </if>
+              </choose>
+            </if>
+            <else>
+              <text variable="title"/>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="article-journal">
+          <text macro="authors" suffix=", "/>
+          <choose>
+            <if position="first">
+              <text variable="title" suffix=", "/>
+            </if>
+          </choose>
+          <choose>
+            <if variable="page issued" match="all">
+              <text variable="container-title" suffix=" "/>
+              <date variable="issued" suffix=", ">
+                <date-part name="year" form="long"/>
+              </date>
+              <text variable="page"/>
+              <text variable="locator" prefix=" (" suffix=")"/>
+            </if>
+            <else>
+              <text variable="container-title"/>
+              <!-- if no page info is available, assume container-title (publication) holds article number citation -->
+              <text variable="locator" prefix=", "/>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="book">
+          <text macro="authors" font-style="italic" suffix=", "/>
+          <text variable="title"/>
+          <text variable="volume" prefix=" "/>
+          <choose>
+            <if variable="edition note" match="any">
+              <choose>
+                <if variable="edition">
+                  <text variable="edition" vertical-align="sup"/>
+                </if>
+                <else-if variable="note">
+                  <!-- RIS workaround -->
+                  <text variable="note" vertical-align="sup"/>
+                </else-if>
+              </choose>
+            </if>
+          </choose>
+          <group delimiter=" " prefix=" (" suffix=")">
+            <text variable="collection-title"/>
+            <date variable="issued">
+              <date-part name="year" form="long"/>
+            </date>
+          </group>
+          <text variable="locator" prefix=" "/>
+        </else-if>
+        <else-if type="chapter">
+          <text macro="authors" font-style="italic"/>
+          <choose>
+            <if variable="page">
+              <text variable="title" prefix=", "/>
+              <choose>
+                <if position="first">
+                  <choose>
+                    <if variable="editor">
+                      <text macro="editors" prefix=", in " suffix=", "/>
+                    </if>
+                    <else>
+                      <text value=", "/>
+                    </else>
+                  </choose>
+                  <text variable="container-title"/>
+                  <text variable="volume" prefix=" "/>
+                  <choose>
+                    <if variable="edition">
+                      <text variable="edition" vertical-align="sup"/>
+                    </if>
+                    <else-if variable="note">
+                      <text variable="note" vertical-align="sup"/>
+                    </else-if>
+                  </choose>
+                  <group delimiter=" " prefix=" (" suffix=")">
+                    <text variable="collection-title"/>
+                    <date variable="issued">
+                      <date-part name="year" form="long"/>
+                    </date>
+                  </group>
+                </if>
+              </choose>
+              <text variable="page" prefix=" "/>
+              <text variable="locator" prefix=" (" suffix=")"/>
+            </if>
+            <else>
+              <!-- no page info, classic legal commentary -->
+              <choose>
+                <if position="first">
+                  <choose>
+                    <if variable="editor">
+                      <text macro="editors" prefix=" in " suffix=", "/>
+                    </if>
+                    <else>
+                      <text value=", "/>
+                    </else>
+                  </choose>
+                  <text variable="container-title"/>
+                  <text variable="volume" prefix=" "/>
+                  <choose>
+                    <if variable="edition">
+                      <text variable="edition" vertical-align="sup"/>
+                    </if>
+                    <else-if variable="note">
+                      <!-- RIS workaround -->
+                      <text variable="note" vertical-align="sup"/>
+                    </else-if>
+                  </choose>
+                  <group delimiter=" " prefix=" (" suffix=") ">
+                    <text variable="collection-title"/>
+                    <date variable="issued">
+                      <date-part name="year" form="long"/>
+                    </date>
+                  </group>
+                </if>
+                <else>
+                  <text value=","/>
+                </else>
+              </choose>
+              <text variable="title" prefix=" "/>
+              <text variable="locator" prefix=" "/>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="thesis">
+          <text macro="authors" suffix=", "/>
+          <text variable="title"/>
+          <choose>
+            <if position="first">
+              <text variable="genre" prefix=". "/>
+              <text variable="publisher" prefix=", "/>
+              <date variable="issued" prefix=" (" suffix=")">
+                <date-part name="year" form="long"/>
+              </date>
+            </if>
+          </choose>
+          <text variable="locator" prefix=" "/>
+        </else-if>
+        <else-if type="webpage">
+          <group delimiter=", ">
+            <text macro="authors"/>
+            <text variable="title"/>
+            <group delimiter=" ">
+              <date form="numeric" variable="issued"/>
+              <text variable="URL" prefix="&lt;" suffix="&gt;"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="authors" font-style="italic"/>
+            <text variable="title"/>
+            <choose>
+              <if variable="container-title">
+                <text variable="container-title"/>
+              </if>
+            </choose>
+            <date form="numeric" variable="issued"/>
+            <text variable="locator" prefix=" "/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography subsequent-author-substitute="&#8212;&#8212;" hanging-indent="true" entry-spacing="1">
+    <sort>
+      <key macro="sort-key"/>
+      <key variable="issued" sort="ascending"/>
+    </sort>
+    <layout>
+      <choose>
+        <if type="legal_case">
+          <choose>
+            <if variable="authority issued number" match="all">
+              <text variable="authority" suffix=" "/>
+              <date variable="issued" suffix=" ">
+                <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+                <date-part name="month" form="numeric-leading-zeros" suffix="."/>
+                <date-part name="year" form="long" suffix=","/>
+              </date>
+              <text variable="number"/>
+            </if>
+            <else>
+              <!-- fallback: since RIS format does not have a court (authority) variable -->
+              <text variable="title"/>
+              <text variable="title"/>
+            </else>
+          </choose>
+        </if>
+        <else-if type="bill">
+          <text value=" "/>
+        </else-if>
+        <else-if type="article-journal">
+          <text macro="authors"/>
+          <text variable="title" prefix=", " suffix=", "/>
+          <choose>
+            <if variable="page issued" match="all">
+              <text variable="container-title" suffix=" "/>
+              <date variable="issued" suffix=", ">
+                <date-part name="year" form="long"/>
+              </date>
+              <text variable="page"/>
+            </if>
+            <else>
+              <!-- if no page info is available, assume container-title (publication) holds article number citation -->
+              <text variable="container-title" suffix=" "/>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="book">
+          <choose>
+            <if variable="editor">
+              <text macro="editors" suffix=", " font-style="italic"/>
+            </if>
+            <else>
+              <text macro="authors" suffix=", "/>
+            </else>
+          </choose>
+          <text variable="title"/>
+          <choose>
+            <if variable="volume">
+              <text variable="volume" prefix=" "/>
+            </if>
+          </choose>
+          <choose>
+            <if variable="edition note" match="any">
+              <choose>
+                <if variable="edition">
+                  <text variable="edition" vertical-align="sup"/>
+                </if>
+                <else-if variable="note">
+                  <!-- RIS workaround -->
+                  <text variable="note" vertical-align="sup"/>
+                </else-if>
+              </choose>
+            </if>
+          </choose>
+          <choose>
+            <if variable="publisher">
+              <text variable="publisher" prefix=", "/>
+            </if>
+          </choose>
+          <choose>
+            <if variable="publisher-place">
+              <text variable="publisher-place" prefix=", "/>
+            </if>
+          </choose>
+          <choose>
+            <if variable="publisher publisher-place" match="any">
+              <date variable="issued" prefix=" ">
+                <date-part name="year" form="long"/>
+              </date>
+            </if>
+            <else>
+              <date variable="issued" prefix=" (" suffix=")">
+                <date-part name="year" form="long"/>
+              </date>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="chapter">
+          <choose>
+            <if variable="editor">
+              <text macro="editors" suffix=", " font-style="italic"/>
+            </if>
+            <else>
+              <text macro="authors" suffix=", "/>
+            </else>
+          </choose>
+          <text variable="container-title"/>
+          <choose>
+            <if variable="volume">
+              <text variable="volume" prefix=" "/>
+            </if>
+          </choose>
+          <choose>
+            <if variable="edition note" match="any">
+              <choose>
+                <if variable="edition">
+                  <text variable="edition" vertical-align="sup"/>
+                </if>
+                <else-if variable="note">
+                  <!-- RIS workaround -->
+                  <text variable="note" vertical-align="sup"/>
+                </else-if>
+              </choose>
+            </if>
+          </choose>
+          <choose>
+            <if variable="publisher">
+              <text variable="publisher" prefix=", "/>
+            </if>
+          </choose>
+          <choose>
+            <if variable="publisher-place">
+              <text variable="publisher-place" prefix=", "/>
+            </if>
+          </choose>
+          <choose>
+            <if variable="publisher publisher-place" match="any">
+              <date variable="issued" prefix=" ">
+                <date-part name="year" form="long"/>
+              </date>
+            </if>
+            <else>
+              <date variable="issued" prefix=" (" suffix=")">
+                <date-part name="year" form="long"/>
+              </date>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="thesis">
+          <text macro="authors" suffix=", "/>
+          <text variable="title" suffix="."/>
+          <text variable="genre" prefix=" "/>
+          <text variable="publisher" prefix=", "/>
+          <date variable="issued" prefix=" (" suffix=")">
+            <date-part name="year" form="long"/>
+          </date>
+        </else-if>
+        <else-if type="webpage">
+          <text macro="authors"/>
+          <text value=", "/>
+          <text variable="title" suffix=", "/>
+          <date variable="issued" suffix=" " form="numeric"/>
+          <text variable="URL" prefix="&lt;" suffix="&gt;"/>
+          <choose>
+            <if variable="accessed">
+              <text value=", aufgerufen am "/>
+              <date variable="accessed" suffix=" " form="numeric"/>
+            </if>
+          </choose>
+        </else-if>
+        <else>
+          <text macro="authors" font-style="italic"/>
+          <text variable="title" prefix=", "/>
+          <choose>
+            <if variable="container-title">
+              <text variable="container-title" prefix=", "/>
+            </if>
+          </choose>
+          <date variable="issued" prefix=", " form="numeric"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

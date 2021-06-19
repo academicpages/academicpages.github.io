@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"error_mode:ETI"!Concurrent::Agent#error_mode;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"NThe error mode this Agent is operating in. See {#initialize} for details.;T:
+@fileI",lib/concurrent-ruby/concurrent/agent.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Concurrent::Agent;TcRDoc::NormalClass0

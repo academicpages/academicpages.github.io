@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Neural Plasticity</title>
+    <title-short>Neural Plast</title-short>
+    <id>http://www.zotero.org/styles/neural-plasticity</id>
+    <link href="http://www.zotero.org/styles/neural-plasticity" rel="self"/>
+    <link href="http://www.zotero.org/styles/biomed-research-international" rel="template"/>
+    <link href="https://www.hindawi.com/journals/np/guidelines/" rel="documentation"/>
+    <author>
+      <name>Lucio Marinelli</name>
+      <email>lucio.marinelli@unige.it</email>
+      <uri>http://www.luciomarinelli.com</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>2090-5904</issn>
+    <eissn>1687-5443</eissn>
+    <updated>2017-06-02T04:32:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <group>
+      <names variable="author">
+        <name and="text" initialize-with="."/>
+        <label form="short" prefix=", " text-case="capitalize-first"/>
+        <substitute>
+          <names variable="editor"/>
+        </substitute>
+      </names>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name and="text" initialize-with="."/>
+      <label form="short" prefix=", " text-case="capitalize-first"/>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" quotes="true" suffix=","/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher" font-style="italic"/>
+    <text variable="publisher-place" prefix=", "/>
+  </macro>
+  <macro name="page">
+    <group>
+      <label plural="always" suffix=" " variable="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush" et-al-min="7" et-al-use-first="3">
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="author" suffix=", "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=", ">
+            <group delimiter=" ">
+              <text macro="title" suffix="."/>
+              <text macro="publisher"/>
+            </group>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </group>
+        </if>
+        <else-if type="article-journal">
+          <group delimiter=" ">
+            <text macro="title" suffix="."/>
+            <text variable="container-title" font-style="italic" suffix="."/>
+            <group delimiter=" ">
+              <text term="volume" form="short"/>
+              <text variable="volume" suffix=","/>
+            </group>
+            <group delimiter=" ">
+              <text term="issue" form="short"/>
+              <number suffix="," variable="issue"/>
+            </group>
+            <label variable="page" form="short"/>
+            <text variable="page" form="short" suffix=","/>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=" ">
+            <text macro="title" suffix="."/>
+            <choose>
+              <if variable="container-title">
+                <text term="in" text-case="capitalize-first" suffix=":"/>
+                <text macro="editor" suffix=" "/>
+                <group delimiter=". ">
+                  <text variable="container-title" font-style="italic"/>
+                  <text macro="page"/>
+                  <text macro="publisher"/>
+                </group>
+              </if>
+              <else>
+                <text term="presented at" text-case="capitalize-first" suffix=" "/>
+                <text variable="event"/>
+                <text variable="event-place" prefix=", "/>
+                <date variable="issued" prefix=" ">
+                  <date-part name="month" suffix=" "/>
+                  <date-part name="day" suffix=" "/>
+                </date>
+              </else>
+            </choose>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="URL"/>
+          </group>
+        </else-if>
+        <else-if type="speech">
+          <group delimiter=" ">
+            <text macro="title" suffix="."/>
+            <text variable="event" suffix="."/>
+            <text variable="event-place" prefix=", "/>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="URL"/>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

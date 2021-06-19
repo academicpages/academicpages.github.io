@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns="http://relaxng.org/ns/structure/1.0">
+  <div>
+    <a:documentation>Variables</a:documentation>
+    <define name="variables">
+      <a:documentation>All variables</a:documentation>
+      <choice>
+        <ref name="variables.dates"/>
+        <ref name="variables.names"/>
+        <ref name="variables.numbers"/>
+        <ref name="variables.strings"/>
+      </choice>
+    </define>
+    <define name="variables.standard">
+      <a:documentation>Standard variables</a:documentation>
+      <choice>
+        <ref name="variables.numbers"/>
+        <ref name="variables.strings"/>
+      </choice>
+    </define>
+    <define name="variables.dates">
+      <a:documentation>Date variables</a:documentation>
+      <choice>
+        <value>accessed</value>
+        <value>container</value>
+        <value>event-date</value>
+        <value>issued</value>
+        <value>original-date</value>
+        <value>submitted</value>
+      </choice>
+    </define>
+    <define name="variables.names">
+      <a:documentation>Name variables</a:documentation>
+      <choice>
+        <value>author</value>
+        <value>collection-editor</value>
+        <value>composer</value>
+        <value>container-author</value>
+        <value>director</value>
+        <value>editor</value>
+        <value>editorial-director</value>
+        <value>illustrator</value>
+        <value>interviewer</value>
+        <value>original-author</value>
+        <value>recipient</value>
+        <value>reviewed-author</value>
+        <value>translator</value>
+      </choice>
+    </define>
+    <define name="variables.numbers">
+      <a:documentation>Number variables</a:documentation>
+      <choice>
+        <value>chapter-number</value>
+        <value>collection-number</value>
+        <value>edition</value>
+        <value>issue</value>
+        <value>number</value>
+        <value>number-of-pages</value>
+        <value>number-of-volumes</value>
+        <value>volume</value>
+      </choice>
+    </define>
+    <define name="variables.strings">
+      <a:documentation>String variables</a:documentation>
+      <choice>
+        <value>abstract</value>
+        <value>annote</value>
+        <value>archive</value>
+        <value>archive_location</value>
+        <value>archive-place</value>
+        <value>authority</value>
+        <value>call-number</value>
+        <value>citation-label</value>
+        <value>citation-number</value>
+        <value>collection-title</value>
+        <value>container-title</value>
+        <value>container-title-short</value>
+        <value>dimensions</value>
+        <value>DOI</value>
+        <value>event</value>
+        <value>event-place</value>
+        <value>first-reference-note-number</value>
+        <value>genre</value>
+        <value>ISBN</value>
+        <value>ISSN</value>
+        <value>jurisdiction</value>
+        <value>keyword</value>
+        <value>locator</value>
+        <value>medium</value>
+        <value>note</value>
+        <value>original-publisher</value>
+        <value>original-publisher-place</value>
+        <value>original-title</value>
+        <value>page</value>
+        <value>page-first</value>
+        <value>PMID</value>
+        <value>PMCID</value>
+        <value>publisher</value>
+        <value>publisher-place</value>
+        <value>references</value>
+        <value>reviewed-title</value>
+        <value>scale</value>
+        <value>section</value>
+        <value>source</value>
+        <value>status</value>
+        <value>title</value>
+        <value>title-short</value>
+        <value>URL</value>
+        <value>version</value>
+        <value>year-suffix</value>
+      </choice>
+    </define>
+  </div>
+</grammar>

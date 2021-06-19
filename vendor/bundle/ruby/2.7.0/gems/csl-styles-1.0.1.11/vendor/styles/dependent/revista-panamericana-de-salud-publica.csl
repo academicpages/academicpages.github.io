@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <!-- Polyglot; journal publishes in English, Portuguese, and Spanish -->
+  <info>
+    <title>Revista Panamericana de Salud Pública (Pan American Journal of Public Health)</title>
+    <id>http://www.zotero.org/styles/revista-panamericana-de-salud-publica</id>
+    <link href="http://www.zotero.org/styles/revista-panamericana-de-salud-publica" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://new.paho.org/journal/index.php?option=com_content&amp;task=view&amp;id=35&amp;Itemid=155#2.10" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1020-4989</issn>
+    <eissn>1680-5348</eissn>
+    <updated>2014-05-29T23:47:59+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

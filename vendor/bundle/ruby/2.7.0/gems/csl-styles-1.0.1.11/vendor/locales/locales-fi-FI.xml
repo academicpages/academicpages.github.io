@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="fi-FI">
+  <info>
+    <translator>
+      <name>Janne Huovari</name>
+    </translator>
+    <translator>
+      <name>snissine</name>
+    </translator>
+    <translator>
+      <name>villelahtinen</name>
+    </translator>
+    <translator>
+      <name>Juhana Venäläinen</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" form="ordinal" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" suffix="."/>
+    <date-part name="month" form="numeric" suffix="."/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">viitattu</term>
+    <term name="and">ja</term>
+    <term name="and others">ym.</term>
+    <term name="anonymous">tuntematon</term>
+    <term name="anonymous" form="short">tuntematon</term>
+    <term name="at">osoitteessa</term>
+    <term name="available at">saatavissa</term>
+    <term name="by">tekijä</term>
+    <term name="circa">noin</term>
+    <term name="circa" form="short">n.</term>
+    <term name="cited">viitattu</term>
+    <term name="edition">
+      <single>painos</single>
+      <multiple>painokset</multiple>
+    </term>
+    <term name="edition" form="short">p.</term>
+    <term name="et-al">ym.</term>
+    <term name="forthcoming">tulossa</term>
+    <term name="from">osoitteesta</term>
+    <term name="ibid">mt.</term>
+    <term name="in">teoksessa</term>
+    <term name="in press">painossa</term>
+    <term name="internet">internet</term>
+    <term name="interview">haastattelu</term>
+    <term name="letter">kirje</term>
+    <term name="no date">ei päivämäärää</term>
+    <term name="no date" form="short">ei pvm.</term>
+    <term name="online">verkossa</term>
+    <term name="presented at">esitetty tilaisuudessa</term>
+    <term name="reference">
+      <single>viittaus</single>
+      <multiple>viittaukset</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>viit.</single>
+      <multiple>viit.</multiple>
+    </term>
+    <term name="retrieved">noudettu</term>
+    <term name="scale">mittakaava</term>
+    <term name="version">versio</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">jaa.</term>
+    <term name="bc">eaa.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">”</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">’</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">.</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">ensimmäinen</term>
+    <term name="long-ordinal-02">toinen</term>
+    <term name="long-ordinal-03">kolmas</term>
+    <term name="long-ordinal-04">neljäs</term>
+    <term name="long-ordinal-05">viides</term>
+    <term name="long-ordinal-06">kuudes</term>
+    <term name="long-ordinal-07">seitsemäs</term>
+    <term name="long-ordinal-08">kahdeksas</term>
+    <term name="long-ordinal-09">yhdeksäs</term>
+    <term name="long-ordinal-10">kymmenes</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>kirja</single>
+      <multiple>kirjat</multiple>
+    </term>
+    <term name="chapter">
+      <single>luku</single>
+      <multiple>luvut</multiple>
+    </term>
+    <term name="column">
+      <single>palsta</single>
+      <multiple>palstat</multiple>
+    </term>
+    <term name="figure">
+      <single>kuvio</single>
+      <multiple>kuviot</multiple>
+    </term>
+    <term name="folio">
+      <single>folio</single>
+      <multiple>foliot</multiple>
+    </term>
+    <term name="issue">
+      <single>numero</single>
+      <multiple>numerot</multiple>
+    </term>
+    <term name="line">
+      <single>rivi</single>
+      <multiple>rivit</multiple>
+    </term>
+    <term name="note">
+      <single>huomautus</single>
+      <multiple>huomautukset</multiple>
+    </term>
+    <term name="opus">
+      <single>opus</single>
+      <multiple>opukset</multiple>
+    </term>
+    <term name="page">
+      <single>sivu</single>
+      <multiple>sivut</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>sivu</single>
+      <multiple>sivut</multiple>
+    </term>
+    <term name="paragraph">
+      <single>kappale</single>
+      <multiple>kappaleet</multiple>
+    </term>
+    <term name="part">
+      <single>osa</single>
+      <multiple>osat</multiple>
+    </term>
+    <term name="section">
+      <single>osa</single>
+      <multiple>osat</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>säkeistö</single>
+      <multiple>säkeistöt</multiple>
+    </term>
+    <term name="volume">
+      <single>vuosikerta</single>
+      <multiple>vuosikerrat</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">kirja</term>
+    <term name="chapter" form="short">luku</term>
+    <term name="column" form="short">palsta</term>
+    <term name="figure" form="short">kuv.</term>
+    <term name="folio" form="short">fol.</term>
+    <term name="issue" form="short">nro</term>
+    <term name="line" form="short">r.</term>
+    <term name="note" form="short">huom.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>s.</single>
+      <multiple>ss.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>s.</single>
+      <multiple>ss.</multiple>
+    </term>
+    <term name="paragraph" form="short">kappale</term>
+    <term name="part" form="short">osa</term>
+    <term name="section" form="short">osa</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>säk.</single>
+      <multiple>säk.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>vsk.</single>
+      <multiple>vsk.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>ohjaaja</single>
+      <multiple>ohjaajat</multiple>
+    </term>
+    <term name="editor">
+      <single>toimittaja</single>
+      <multiple>toimittajat</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>toimittaja</single>
+      <multiple>toimittajat</multiple>
+    </term>
+    <term name="illustrator">
+      <single>kuvittaja</single>
+      <multiple>kuvittajat</multiple>
+    </term>
+    <term name="translator">
+      <single>kääntäjä</single>
+      <multiple>kääntäjät</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>toimittaja ja kääntäjä</single>
+      <multiple>toimittajat ja kääntäjät</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>ohj.</single>
+      <multiple>ohj.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>toim.</single>
+      <multiple>toim.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>toim.</single>
+      <multiple>toim.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>kuv.</single>
+      <multiple>kuv.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>käänt.</single>
+      <multiple>käänt.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>toim. ja käänt.</single>
+      <multiple>toim. ja käänt.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb"></term>
+    <term name="director" form="verb">ohjannut</term>
+    <term name="editor" form="verb">toimittanut</term>
+    <term name="editorial-director" form="verb">toimittanut</term>
+    <term name="illustrator" form="verb">kuvittanut</term>
+    <term name="interviewer" form="verb">haastatellut</term>
+    <term name="recipient" form="verb">vastaanottaja</term>
+    <term name="reviewed-author" form="verb"></term>
+    <term name="translator" form="verb">kääntänyt</term>
+    <term name="editortranslator" form="verb">toimittanut ja kääntänyt</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">ohj.</term>
+    <term name="editor" form="verb-short">toim.</term>
+    <term name="editorial-director" form="verb-short">toim.</term>
+    <term name="illustrator" form="verb-short">kuv.</term>
+    <term name="translator" form="verb-short">käänt.</term>
+    <term name="editortranslator" form="verb-short">toim. ja käänt.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">tammikuuta</term>
+    <term name="month-02">helmikuuta</term>
+    <term name="month-03">maaliskuuta</term>
+    <term name="month-04">huhtikuuta</term>
+    <term name="month-05">toukokuuta</term>
+    <term name="month-06">kesäkuuta</term>
+    <term name="month-07">heinäkuuta</term>
+    <term name="month-08">elokuuta</term>
+    <term name="month-09">syyskuuta</term>
+    <term name="month-10">lokakuuta</term>
+    <term name="month-11">marraskuuta</term>
+    <term name="month-12">joulukuuta</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">tammi</term>
+    <term name="month-02" form="short">helmi</term>
+    <term name="month-03" form="short">maalis</term>
+    <term name="month-04" form="short">huhti</term>
+    <term name="month-05" form="short">touko</term>
+    <term name="month-06" form="short">kesä</term>
+    <term name="month-07" form="short">heinä</term>
+    <term name="month-08" form="short">elo</term>
+    <term name="month-09" form="short">syys</term>
+    <term name="month-10" form="short">loka</term>
+    <term name="month-11" form="short">marras</term>
+    <term name="month-12" form="short">joulu</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">kevät</term>
+    <term name="season-02">kesä</term>
+    <term name="season-03">syksy</term>
+    <term name="season-04">talvi</term>
+  </terms>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- NRC Research Press, generated from "nrc" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Journal of Unmanned Vehicle Systems</title>
+    <id>http://www.zotero.org/styles/journal-of-unmanned-vehicle-systems</id>
+    <link href="http://www.zotero.org/styles/journal-of-unmanned-vehicle-systems" rel="self"/>
+    <link href="http://www.zotero.org/styles/canadian-journal-of-fisheries-and-aquatic-sciences" rel="independent-parent"/>
+    <link href="http://www.nrcresearchpress.com/page/juvs/authors" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="engineering"/>
+    <eissn>2291-3467</eissn>
+    <updated>2016-05-31T22:53:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

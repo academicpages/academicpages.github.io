@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>Oxford German Studies</title>
+    <id>http://www.zotero.org/styles/oxford-german-studies</id>
+    <link href="http://www.zotero.org/styles/oxford-german-studies" rel="self"/>
+    <link href="http://www.zotero.org/styles/modern-humanities-research-association" rel="independent-parent"/>
+    <link href="http://maneypublishing.com/index.php/journals/ogs/" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="history"/>
+    <issn>0078-7191</issn>
+    <eissn>1745-9214</eissn>
+    <updated>2013-04-15T01:59:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

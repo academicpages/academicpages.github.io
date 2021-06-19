@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Angewandte Chemie International Edition</title>
+    <id>http://www.zotero.org/styles/angewandte-chemie</id>
+    <link href="http://www.zotero.org/styles/angewandte-chemie" rel="self"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/15213773/homepage/notice-to-authors" rel="documentation"/>
+    <author>
+      <name>Richard Karnesky</name>
+      <email>karnesky+zotero@gmail.com</email>
+      <uri>http://arc.nucapt.northwestern.edu/Richard_Karnesky</uri>
+    </author>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <!--<category term="materials science"/>-->
+    <category field="chemistry"/>
+    <issn>1433-7851</issn>
+    <eissn>1521-3773</eissn>
+    <summary>A style for Wiley-VCH's journal "Angewandte Chemie International Edition"
+This style has many limits due to csl constraints, most notably the inability to include pages/page ranges for books, the wrong square brackets for two items cited together, and the lack of support for citing 1a)... b)...c)....</summary>
+    <updated>2020-05-17T03:14:19+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", " text-case="capitalize-first" suffix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <label form="short" text-case="capitalize-first" suffix=".: " strip-periods="true"/>
+      <name initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <group font-weight="bold">
+      <choose>
+        <if variable="issued">
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </if>
+        <else>
+          <text term="no date" form="short"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="page" match="none">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix="DOI "/>
+          </if>
+        </choose>
+        <choose>
+          <if type="webpage">
+            <text variable="URL" prefix="can be found under "/>
+          </if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher" text-case="capitalize-all"/>
+      <text variable="publisher-place" text-case="title"/>
+    </group>
+  </macro>
+  <macro name="pages">
+    <label variable="page" form="short" suffix=" "/>
+    <text variable="page"/>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="author" suffix=", "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=", ">
+            <text variable="title" text-case="title" font-style="italic"/>
+            <text macro="publisher"/>
+            <text macro="year-date"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=", ">
+            <group delimiter=" ">
+              <text term="in"/>
+              <text variable="container-title" form="short" text-case="title" font-style="italic"/>
+              <text macro="editor" prefix="(" suffix=")"/>
+            </group>
+            <text macro="publisher"/>
+            <text macro="year-date"/>
+            <group delimiter=" ">
+              <text macro="pages"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="patent">
+          <group delimiter=", ">
+            <text variable="title" text-case="title" font-style="italic"/>
+            <text macro="year-date"/>
+            <text variable="number"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text variable="title" text-case="title"/>
+            <text variable="genre"/>
+            <text variable="publisher"/>
+            <text macro="year-date"/>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <group delimiter=", ">
+            <text variable="title" quotes="true"/>
+            <text macro="access"/>
+            <text macro="year-date"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <text variable="container-title" form="short" font-style="italic"/>
+            <group delimiter=", ">
+              <text macro="year-date"/>
+              <group>
+                <text variable="volume" font-style="italic"/>
+              </group>
+              <text variable="page" form="short"/>
+            </group>
+          </group>
+          <text macro="access" prefix=", "/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only">
+  <!-- Polyglot; journal publishes in English and German -->
+  <!-- This style was created with the Visual CSL Editor (http://test.steveridout.com/csl/visualEditor/) -->
+  <info>
+    <title>RöFo: Fortschritte auf dem Gebiet der Röntgenstrahlen und bildgebenden Verfahren</title>
+    <title-short>RöFo</title-short>
+    <id>http://www.zotero.org/styles/rofo</id>
+    <link href="http://www.zotero.org/styles/rofo" rel="self"/>
+    <link href="http://roefo.thieme.de/c/document_library/get_file?uuid=45dabb23-098a-4981-8a4a-0f1d74a7f2c7&amp;groupId=10157" rel="documentation"/>
+    <author>
+      <name>Philipp Weisser, M.D.</name>
+      <uri>http://www.zotero.org/phweisser</uri>
+    </author>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1438-9029</issn>
+    <eissn>1438-9010</eissn>
+    <updated>2015-01-17T11:30:12+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with="" sort-separator=" " delimiter=", " delimiter-precedes-last="always" name-as-sort-order="all" font-style="italic"/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="" sort-separator=" " delimiter=", " delimiter-precedes-last="always" name-as-sort-order="all"/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="publisher-place" form="long"/>
+        <text variable="publisher" form="long"/>
+      </group>
+      <text macro="year-date"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="margin" entry-spacing="0">
+    <layout>
+      <text variable="citation-number" suffix=" "/>
+      <text macro="author" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case motion_picture report song" match="any">
+          <group delimiter=", ">
+            <text variable="title"/>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text variable="title" form="long" suffix=". "/>
+          <text term="in" form="long" plural="false" text-case="capitalize-first" suffix=": "/>
+          <text macro="editor" suffix=". "/>
+          <text variable="container-title" form="short" text-case="title" suffix=". "/>
+          <text macro="edition" suffix=", "/>
+          <text macro="publisher"/>
+          <group delimiter=" " prefix=": ">
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="patent">
+          <group delimiter=", ">
+            <text macro="year-date"/>
+            <text variable="title"/>
+            <text variable="number"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text macro="year-date"/>
+            <text variable="title"/>
+            <text variable="genre"/>
+            <text variable="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <group>
+            <text variable="title" suffix=". "/>
+            <text variable="container-title" form="short" text-case="title" suffix=" "/>
+            <text macro="year-date" suffix="; "/>
+            <text variable="volume" suffix=":"/>
+            <text variable="page" form="short" prefix=" "/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

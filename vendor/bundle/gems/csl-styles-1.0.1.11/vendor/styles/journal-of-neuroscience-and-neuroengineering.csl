@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Journal of Neuroscience and Neuroengineering</title>
+    <id>http://www.zotero.org/styles/journal-of-neuroscience-and-neuroengineering</id>
+    <link href="http://www.zotero.org/styles/journal-of-neuroscience-and-neuroengineering" rel="self"/>
+    <link href="http://www.zotero.org/styles/annals-of-biomedical-engineering" rel="template"/>
+    <link href="http://www.aspbs.com/jnsne/inst-auth_jnsne.htm" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <category field="medicine"/>
+    <issn>2168-2011</issn>
+    <eissn>2168-202X</eissn>
+    <updated>2014-09-21T17:26:10+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="title">
+    <choose>
+      <if type="book thesis report" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=", " delimiter=", " and="text" initialize-with=". "/>
+      <label text-case="capitalize-first" prefix=", "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="volume"/>
+      <else-if variable="number" type="patent" match="all"/>
+      <else-if variable="DOI">
+        <text variable="DOI" prefix="doi:"/>
+      </else-if>
+      <else-if variable="URL">
+        <text term="at"/>
+        <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issuance">
+    <choose>
+      <if type="bill book chapter graphic legal_case legislation motion_picture report song" match="any">
+        <group delimiter=", ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+        <date variable="issued" font-weight="bold" prefix=" (" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <date variable="issued" font-weight="bold" prefix=" (" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="volume-info">
+    <choose>
+      <if type="chapter">
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <text term="in"/>
+            <text variable="container-title" font-style="italic"/>
+          </group>
+          <names variable="editor">
+            <label form="verb" suffix=" " text-case="capitalize-first"/>
+            <name sort-separator=", " delimiter=", " and="text" initialize-with=". "/>
+          </names>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="journal-info">
+    <choose>
+      <if type="article-journal">
+        <text variable="container-title" form="short" font-style="italic" suffix=" "/>
+        <group delimiter=", ">
+          <text variable="volume"/>
+          <text variable="page-first"/>
+        </group>
+      </if>
+      <else-if type="patent">
+        <text variable="number"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="pages-books">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <group delimiter=" ">
+          <label variable="page" form="short"/>
+          <text variable="page"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush" et-al-min="99" et-al-use-first="98" entry-spacing="0">
+    <layout>
+      <text variable="citation-number" suffix="."/>
+      <group delimiter=", ">
+        <text macro="author"/>
+        <text macro="title"/>
+        <text macro="volume-info"/>
+        <group suffix=".">
+          <text macro="journal-info"/>
+          <group delimiter=", ">
+            <text macro="issuance"/>
+            <text macro="pages-books"/>
+          </group>
+        </group>
+      </group>
+      <text macro="access"/>
+    </layout>
+  </bibliography>
+</style>

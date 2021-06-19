@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Begell House, generated from "begell-house" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Visualization of Mechanical Processes: An International Online Journal</title>
+    <title-short>VMP</title-short>
+    <id>http://www.zotero.org/styles/visualization-of-mechanical-processes-an-international-online-journal</id>
+    <link href="http://www.zotero.org/styles/visualization-of-mechanical-processes-an-international-online-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/begell-house-chicago-author-date" rel="independent-parent"/>
+    <link href="http://dl.begellhouse.com/forauthors/journals/08456987543b9011.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="engineering"/>
+    <eissn>2152-209X</eissn>
+    <updated>2020-02-22T05:59:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

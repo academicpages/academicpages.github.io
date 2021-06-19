@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="de-DE">
+  <info>
+    <title>Durchstarten zur Diplomarbeit (BHS) (in-text, German)</title>
+    <id>http://www.zotero.org/styles/durchstarten-zur-diplomarbeit-in-text</id>
+    <link href="http://www.zotero.org/styles/durchstarten-zur-diplomarbeit-in-text" rel="self"/>
+    <link href="http://www.zotero.org/styles/die-bachelorarbeit-samac-et-al-in-text" rel="independent-parent"/>
+    <link href="http://www.veritas.at/durchstarten-zur-diplomarbeit-bhs.html" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="generic-base"/>
+    <updated>2014-05-30T00:36:38+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

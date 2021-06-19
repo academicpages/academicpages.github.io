@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- The Royal Society, generated from "royal-society" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Biology Letters</title>
+    <id>http://www.zotero.org/styles/biology-letters</id>
+    <link href="http://www.zotero.org/styles/biology-letters" rel="self"/>
+    <link href="http://www.zotero.org/styles/proceedings-of-the-royal-society-b" rel="independent-parent"/>
+    <link href="https://royalsociety.org/journals/authors/author-guidelines/" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>1744-9561</issn>
+    <eissn>1744-957X</eissn>
+    <updated>2017-01-06T04:50:22+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

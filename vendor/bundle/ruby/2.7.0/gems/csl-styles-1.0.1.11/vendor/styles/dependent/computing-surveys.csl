@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Association for Computing Machinery (ACM), generated from "acm" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>ACM Computing Surveys</title>
+    <title-short>CSUR</title-short>
+    <id>http://www.zotero.org/styles/computing-surveys</id>
+    <link href="http://www.zotero.org/styles/computing-surveys" rel="self"/>
+    <link href="http://www.zotero.org/styles/association-for-computing-machinery" rel="independent-parent"/>
+    <link href="https://www.acm.org/publications/authors/reference-formatting" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <issn>0360-0300</issn>
+    <eissn>1557-7341</eissn>
+    <updated>2017-07-09T19:14:54+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

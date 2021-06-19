@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Central European Journal of Public Policy</title>
+    <title-short>CEJPP</title-short>
+    <id>http://www.zotero.org/styles/central-european-journal-of-public-policy</id>
+    <link href="http://www.zotero.org/styles/central-european-journal-of-public-policy" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="https://content.sciendo.com/view/journals/cejpp/cejpp-overview.xml" rel="documentation"/>
+    <link href="https://content.sciendo.com/supplemental/-1867938537/journals/cejpp/cejpp-overview.xml" rel="documentation"/>
+    <author>
+      <name>Libor Ansorge</name>
+      <email>libor.ansorge@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="political_science"/>
+    <eissn>1802-4866</eissn>
+    <updated>2018-08-17T23:17:02+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

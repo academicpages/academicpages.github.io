@@ -1,0 +1,35 @@
+U:RDoc::Attr[iI"defaults:ETI"%CiteProc::Bibliography::defaults;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] defaults ;TI"(@example Default Formatting Options;To:RDoc::Markup::Verbatim;	[%I"{
+;TI"  :offset => 0,
+;TI"C  # Some citation styles apply a label (either a number or an
+;TI"E  # alphanumeric code) to each bibliography entry, and use this
+;TI"C  # label to cite bibliography items in the main text. In the
+;TI"D  # bibliography, the labels may either be hung in the margin,
+;TI"D  # or they may be set flush to the margin, with the citations
+;TI"H  # indented by a uniform amount to the right. In the latter case,
+;TI"H  # the amount of indentation needed depends on the  maximum width
+;TI"F  # of any label. The :offset option gives the maximum number of
+;TI"G  # characters that appear in any label used in the bibliography.
+;TI"J  # The client that controls the final rendering of the bibliography
+;TI"H  # string should use this value to calculate and apply a suitable
+;TI"  # indentation length.
+;TI"
+;TI"  :'entry-spacing' => 1,
+;TI"D  # An integer representing the spacing between entries in the
+;TI"  # bibliography.
+;TI"
+;TI"  :'line-spacing' => 1,
+;TI"F  # An integer representing the spacing between the lines within
+;TI""  # each bibliography entry.
+;TI"
+;TI"#  :'hanging-indent' => false,
+;TI"
+;TI"&  :'second-field-align' => false
+;TI"E  # When the second-field-align CSL option is set, this returns
+;TI"D  # either "flush" or "margin". The calling application should
+;TI"G  # align text in the bibliography output as described by the CSL
+;TI"B  # specification. Where second-field-align is not set, this
+;TI"'  # return value is set to false.
+;TI"}
+;T:@format0o;
+;	[I".@return [Hash] default formatting options;T:
+@fileI"!lib/citeproc/bibliography.rb;T:0@omit_headings_from_table_of_contents_below0T@5I"CiteProc::Bibliography;TcRDoc::NormalClass0

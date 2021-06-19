@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Weed Technology</title>
+    <id>http://www.zotero.org/styles/weed-technology</id>
+    <link href="http://www.zotero.org/styles/weed-technology" rel="self"/>
+    <link href="http://www.zotero.org/styles/weed-science-society-of-america" rel="independent-parent"/>
+    <link href="http://www.bioone.org/loi/wete" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0890-037X</issn>
+    <eissn>1550-2740</eissn>
+    <summary>A style for the journal Weed Technology, published by WSSA</summary>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

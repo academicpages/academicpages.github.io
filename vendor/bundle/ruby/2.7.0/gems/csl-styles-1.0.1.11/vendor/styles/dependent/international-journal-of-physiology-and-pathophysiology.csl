@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Begell House, generated from "begell-house" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>International Journal of Physiology and Pathophysiology</title>
+    <title-short>IJPP</title-short>
+    <id>http://www.zotero.org/styles/international-journal-of-physiology-and-pathophysiology</id>
+    <link href="http://www.zotero.org/styles/international-journal-of-physiology-and-pathophysiology" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://dl.begellhouse.com/forauthors/journals/6ec4ba27650016b1.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>2155-014X</issn>
+    <eissn>2155-0158</eissn>
+    <updated>2020-02-22T05:59:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Social and Natural Sciences Journal</title>
+    <id>http://www.zotero.org/styles/social-and-natural-sciences-journal</id>
+    <link href="http://www.zotero.org/styles/social-and-natural-sciences-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://ojs.journals.cz/index.php/SNSJ/about/submissions#authorGuidelines" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <issn>1804-4158</issn>
+    <eissn>1804-9710</eissn>
+    <summary>Social and Natural Sciences Journal is a peer-reviewed journal published by CBU in Prague, Czech Republic.</summary>
+    <updated>2017-12-27T04:37:39+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/mhra -->
+  <info>
+    <title>Yearbook of English Studies</title>
+    <id>http://www.zotero.org/styles/yearbook-of-english-studies</id>
+    <link href="http://www.zotero.org/styles/yearbook-of-english-studies" rel="self"/>
+    <link href="http://www.zotero.org/styles/modern-humanities-research-association" rel="independent-parent"/>
+    <link href="http://www.mhra.org.uk/Publications/Journals/yes.html" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="history"/>
+    <issn>0306-2473</issn>
+    <eissn>2222-4289</eissn>
+    <updated>2014-06-11T02:22:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

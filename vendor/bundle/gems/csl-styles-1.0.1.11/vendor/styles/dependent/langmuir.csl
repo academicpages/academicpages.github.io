@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- American Chemical Society (ACS), generated from "acs" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Langmuir</title>
+    <title-short>Langmuir</title-short>
+    <id>http://www.zotero.org/styles/langmuir</id>
+    <link href="http://www.zotero.org/styles/langmuir" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-chemical-society" rel="independent-parent"/>
+    <link href="http://pubs.acs.org/paragonplus/submission/langd5/langd5_authguide.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>0743-7463</issn>
+    <eissn>1520-5827</eissn>
+    <updated>2018-02-05T04:57:25+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>EMBO reports</title>
+    <id>http://www.zotero.org/styles/embo-reports</id>
+    <link href="http://www.zotero.org/styles/embo-reports" rel="self"/>
+    <link href="http://www.zotero.org/styles/embo-press" rel="independent-parent"/>
+    <link href="https://www.embopress.org/page/journal/14693178/authorguide#referencesformat" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1469-221X</issn>
+    <eissn>1469-3178</eissn>
+    <updated>2020-09-18T03:58:01+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

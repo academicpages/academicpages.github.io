@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"private:ETI"%PublicSuffix::Rule::Base#private;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I";@return [Boolean] true if the rule is a private domain;T:
+@fileI"lib/public_suffix/rule.rb;T:0@omit_headings_from_table_of_contents_below0F@I"PublicSuffix::Rule::Base;TcRDoc::NormalClass0

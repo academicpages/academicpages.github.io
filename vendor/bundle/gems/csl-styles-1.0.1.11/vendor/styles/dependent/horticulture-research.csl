@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/npg -->
+  <info>
+    <title>Horticulture Research</title>
+    <id>http://www.zotero.org/styles/horticulture-research</id>
+    <link href="http://www.zotero.org/styles/horticulture-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/european-journal-of-human-genetics" rel="independent-parent"/>
+    <link href="http://www.nature.com/public/shared-assets/hortres/GTA_Horticulture_Research.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <eissn>2052-7276</eissn>
+    <updated>2014-06-23T03:22:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="id-ID">
+  <info>
+    <title>Jurnal Teknologi Infrastruktur Berkelanjutan (Indonesian)</title>
+    <title-short>JTIB</title-short>
+    <id>http://www.zotero.org/styles/jurnal-teknologi-infrastruktur-berkelanjutan</id>
+    <link href="http://www.zotero.org/styles/jurnal-teknologi-infrastruktur-berkelanjutan" rel="self"/>
+    <link href="http://www.zotero.org/styles/politeknik-negeri-manado-jurnal-p3m" rel="independent-parent"/>
+    <link href="http://p3m.polimdo.ac.id/jurnal/index.php/JTIB/about/submissions#references" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <issn>2621-5454</issn>
+    <eissn>2621-5462</eissn>
+    <updated>2020-04-04T12:56:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

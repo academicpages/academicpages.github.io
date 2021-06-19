@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" and="symbol" page-range-format="minimal" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Transnational Environmental Law</title>
+    <title-short>TEL</title-short>
+    <id>http://www.zotero.org/styles/transnational-environmental-law</id>
+    <link href="http://www.zotero.org/styles/transnational-environmental-law" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-with-titles" rel="template"/>
+    <link href="https://www.cambridge.org/core/journals/transnational-environmental-law/information/instructions-contributors" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+      <email>obrienpat86@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <issn>2047-1025</issn>
+    <eissn>2047-1033</eissn>
+    <updated>2017-09-07T02:45:08+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with="."/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="."/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date date-parts="year" form="text" variable="issued"/>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group prefix="(" suffix=")">
+      <text variable="publisher" suffix=", "/>
+      <text macro="year-date"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="citation-locator">
+    <choose>
+      <if variable="locator">
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <group delimiter=" " prefix=", ">
+              <text term="at"/>
+              <label variable="page" form="short"/>
+              <text variable="locator"/>
+            </group>
+          </if>
+          <else>
+            <group delimiter=" " prefix=", ">
+              <text term="at"/>
+              <text variable="locator"/>
+            </group>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <citation>
+    <layout suffix="." delimiter="; ">
+      <choose>
+        <if position="ibid">
+          <text term="ibid"/>
+        </if>
+        <else>
+          <text macro="author" suffix=", "/>
+          <choose>
+            <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+              <group delimiter=" ">
+                <text variable="title" font-style="italic"/>
+                <text macro="edition"/>
+                <text macro="publisher"/>
+              </group>
+            </if>
+            <else-if type="chapter paper-conference" match="any">
+              <text variable="title" quotes="true" suffix=", "/>
+              <text term="in" suffix=" "/>
+              <text macro="editor" suffix=", "/>
+              <text variable="container-title" form="short" text-case="title" font-style="italic" suffix=", "/>
+              <text macro="edition" suffix=", "/>
+              <text macro="publisher" suffix=", "/>
+              <group delimiter=" ">
+                <label variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
+            </else-if>
+            <else-if type="patent">
+              <group delimiter=", ">
+                <text variable="title"/>
+                <text variable="number"/>
+                <text macro="year-date"/>
+              </group>
+            </else-if>
+            <else-if type="thesis">
+              <group delimiter=", ">
+                <text variable="title" quotes="true"/>
+                <group delimiter=", " prefix="(" suffix=")">
+                  <text variable="genre"/>
+                  <text variable="publisher"/>
+                  <date date-parts="year-month" form="text" variable="issued"/>
+                </group>
+                <group delimiter=": ">
+                  <text term="available at"/>
+                  <text variable="URL"/>
+                </group>
+              </group>
+            </else-if>
+            <else-if type="webpage post-weblog" match="any">
+              <group delimiter=": ">
+                <text term="available at" text-case="capitalize-first"/>
+                <text variable="URL"/>
+              </group>
+            </else-if>
+            <else>
+              <group delimiter=" ">
+                <text variable="title" quotes="true"/>
+                <text macro="year-date" prefix="(" suffix=")"/>
+                <group>
+                  <text variable="volume"/>
+                  <text variable="issue" prefix="(" suffix=")"/>
+                </group>
+                <text variable="container-title" text-case="title" font-style="italic" suffix=","/>
+                <group delimiter=" ">
+                  <label variable="page" form="short"/>
+                  <text variable="page" form="short"/>
+                </group>
+              </group>
+            </else>
+          </choose>
+        </else>
+      </choose>
+      <text macro="citation-locator"/>
+    </layout>
+  </citation>
+</style>

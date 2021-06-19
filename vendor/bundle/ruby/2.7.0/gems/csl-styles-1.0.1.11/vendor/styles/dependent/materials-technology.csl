@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Taylor & Francis, generated from "taylor-and-francis" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Materials Technology</title>
+    <id>http://www.zotero.org/styles/materials-technology</id>
+    <link href="http://www.zotero.org/styles/materials-technology" rel="self"/>
+    <link href="http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=ymte20&amp;page=instructions" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <issn>1066-7857</issn>
+    <eissn>1753-5557</eissn>
+    <updated>2017-10-15T05:01:54+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

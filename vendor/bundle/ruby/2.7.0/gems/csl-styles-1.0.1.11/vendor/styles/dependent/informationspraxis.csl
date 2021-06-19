@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="de-DE">
+  <info>
+    <title>Informationspraxis (German)</title>
+    <id>http://www.zotero.org/styles/informationspraxis</id>
+    <link href="http://www.zotero.org/styles/informationspraxis" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard-gesellschaft-fur-bildung-und-forschung-in-europa" rel="independent-parent"/>
+    <link href="https://journals.ub.uni-heidelberg.de/index.php/ip/about/submissions#authorGuidelines" rel="documentation"/>
+    <link href="http://www.acf.de/uploads/media/GBFE_Studienbrief_5_Form_bewahren_01.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="humanities"/>
+    <eissn>2297-3249</eissn>
+    <summary>Empfohlener Zitierstil der Open Access-Zeitschrift Informationspraxis</summary>
+    <updated>2015-02-16T17:57:14+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

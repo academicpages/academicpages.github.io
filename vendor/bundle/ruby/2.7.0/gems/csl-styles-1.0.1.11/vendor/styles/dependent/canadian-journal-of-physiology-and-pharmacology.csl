@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- NRC Research Press, generated from "nrc" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Canadian Journal of Physiology and Pharmacology</title>
+    <id>http://www.zotero.org/styles/canadian-journal-of-physiology-and-pharmacology</id>
+    <link href="http://www.zotero.org/styles/canadian-journal-of-physiology-and-pharmacology" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://www.nrcresearchpress.com/page/cjpp/authors#9d" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="medicine"/>
+    <issn>0008-4212</issn>
+    <eissn>1205-7541</eissn>
+    <updated>2017-01-13T03:35:54+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

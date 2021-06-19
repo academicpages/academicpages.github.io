@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>European Journal of Psychotraumatology</title>
+    <id>http://www.zotero.org/styles/european-journal-of-psychotraumatology</id>
+    <link href="http://www.zotero.org/styles/european-journal-of-psychotraumatology" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://www.ejpt.net/index.php/ejpt/pages/view/guidelines" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <issn>2000-8198</issn>
+    <eissn>2000-8066</eissn>
+    <summary>The European Journal of Psychotraumatology applies to the APA system.</summary>
+    <updated>2015-02-17T21:54:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

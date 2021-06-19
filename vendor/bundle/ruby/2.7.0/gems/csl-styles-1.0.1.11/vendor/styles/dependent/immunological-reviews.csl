@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Immunological Reviews</title>
+    <id>http://www.zotero.org/styles/immunological-reviews</id>
+    <link href="http://www.zotero.org/styles/immunological-reviews" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-065X/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <issn>0105-2896</issn>
+    <eissn>1600-065X</eissn>
+    <updated>2019-10-02T01:56:24+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="de-CH">
+  <info>
+    <title>Zürcher Hochschule für Angewandte Wissenschaften - ZitierGuide (Roger Müller) (German - Switzerland)</title>
+    <title-short>ZHAW-ZitierGuide-Müller</title-short>
+    <id>http://www.zotero.org/styles/zurcher-hochschule-fur-angewandte-wissenschaften-zitierguide</id>
+    <link href="http://www.zotero.org/styles/zurcher-hochschule-fur-angewandte-wissenschaften-zitierguide" rel="self"/>
+    <link href="http://www.zotero.org/styles/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten" rel="independent-parent"/>
+    <link href="https://www.zhaw.ch/de/hochschulbibliothek/schreiben-publizieren/#c98258" rel="documentation"/>
+    <author>
+      <name>Pascal Gutknecht</name>
+      <email>literaturverwaltung@zhaw.ch</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <summary>This style is based on Roger Müller, ZitierGuide Leitfaden zum fachgerechten Zitieren in rechtswissenschaftlichen Arbeiten, 4. Auflage, Zürich 2016 (ISBN 978-3-7255-7583-1). 
+	It is an adaption of the style "Juristische Zitierweise Schweizer" by Stephan Schlegel (https://www.zotero.org/styles/juristische-zitierweise-schweizer), who is based on the style "Juristische Zitierweise (Stüber)" by Oliver Wolf and Philipp Zumstein (https://www.zotero.org/styles/juristische-zitierweise).</summary>
+    <updated>2019-09-20T03:55:02+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- NRC Research Press, generated from "nrc" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Canadian Journal of Forest Research</title>
+    <id>http://www.zotero.org/styles/canadian-journal-of-forest-research</id>
+    <link href="http://www.zotero.org/styles/canadian-journal-of-forest-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/canadian-journal-of-fisheries-and-aquatic-sciences" rel="independent-parent"/>
+    <link href="http://www.nrcresearchpress.com/page/cjfr/authors" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="botany"/>
+    <category field="biology"/>
+    <issn>0045-5067</issn>
+    <eissn>1208-6037</eissn>
+    <updated>2016-05-31T22:53:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

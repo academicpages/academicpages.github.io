@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" name-as-sort-order="all" demote-non-dropping-particle="sort-only" default-locale="de-AT">
+  <info>
+    <title>Wirtschaftsuniversität Wien - Institut für BWL des Außenhandels (German - Austria)</title>
+    <id>http://www.zotero.org/styles/wirtschaftsuniversitat-wien-institut-fur-bwl-des-aussenhandels</id>
+    <link href="http://www.zotero.org/styles/wirtschaftsuniversitat-wien-institut-fur-bwl-des-aussenhandels" rel="self"/>
+    <link href="http://www.zotero.org/styles/universitat-zu-koln-seminar-fur-abwl-und-finanzierungslehre" rel="template"/>
+    <link href="https://www.wu.ac.at/fileadmin/wu/d/i/auha/Downloads/formvorschriftenba2013.pdf" rel="documentation"/>
+    <author>
+      <name>Daniel Kufner</name>
+      <email>daniel.kufner@wu.ac.at</email>
+      <uri>https://www.wu.ac.at/bibliothek</uri>
+    </author>
+    <author>
+      <name>Georg Mayr-Duffner</name>
+      <email>georg.mayr-duffner@wu.ac.at</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="social_science"/>
+    <updated>2018-11-26T05:15:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="et-al">et al.</term>
+      <term name="volume" form="short">Jg.</term>
+      <term name="retrieved">zugegriffen am</term>
+      <term name="anonymous">ohne VerfasserIn</term>
+      <term name="anonymous" form="short">o. V.</term>
+      <term name="accessed">Zugriff am</term>
+      <term name="section" form="short">
+        <single>Abs.</single>
+        <multiple>Abs.</multiple>
+      </term>
+      <term name="editor" form="short">Hg</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter=" / " delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor author"/>
+        <group>
+          <text term="anonymous" form="short"/>
+        </group>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author" delimiter=";">
+      <name delimiter=" / " delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all"/>
+      <substitute>
+        <names variable="author"/>
+        <group delimiter=": ">
+          <text term="anonymous" form="short"/>
+          <text variable="title"/>
+        </group>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" delimiter="; ">
+      <name delimiter=" / " delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="accessed">
+    <group delimiter=" ">
+      <date variable="accessed">
+        <date-part form="numeric" name="day" suffix="."/>
+        <date-part name="month" prefix=" " suffix=" "/>
+        <date-part name="year" prefix=" "/>
+      </date>
+    </group>
+  </macro>
+  <macro name="sort-date">
+    <choose>
+      <if variable="issued">
+        <date form="numeric" variable="issued">
+          <date-part name="year"/>
+          <date-part name="month"/>
+          <date-part name="day"/>
+        </date>
+      </if>
+      <else>
+        <date variable="accessed">
+          <date-part name="year"/>
+          <date-part name="month"/>
+          <date-part name="day"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <group>
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="pages">
+    <group>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+      <text macro="pages"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <group delimiter=". ">
+      <number variable="edition"/>
+      <label text-case="capitalize-first" variable="edition"/>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix="DOI: "/>
+      </if>
+      <else-if type="webpage post-weblog post article-newspaper article-magazine" match="any">
+        <group delimiter=". ">
+          <group>
+            <text variable="URL"/>
+          </group>
+          <group>
+            <text macro="accessed"/>
+          </group>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="full-date">
+    <choose>
+      <if match="any" variable="issued">
+        <date delimiter="." variable="issued">
+          <date-part name="day" form="numeric-leading-zeros"/>
+          <date-part name="month" form="numeric-leading-zeros"/>
+          <date-part name="year"/>
+        </date>
+      </if>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true">
+    <layout delimiter="; " suffix=".">
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text macro="author-short"/>
+          <text macro="year-date" prefix="(" suffix=")"/>
+        </group>
+        <group delimiter=" ">
+          <label text-case="capitalize-first" variable="locator" form="short"/>
+          <text variable="locator"/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="author"/>
+      <key macro="sort-date"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". ">
+        <group delimiter=". ">
+          <group delimiter=": ">
+            <group delimiter=": ">
+              <group>
+                <text macro="author"/>
+                <text macro="year-date" prefix=" (" suffix=")"/>
+              </group>
+            </group>
+            <text variable="title"/>
+          </group>
+          <group delimiter=" ">
+            <group>
+              <choose>
+                <if type="webpage post-weblog">
+                  <group>
+                    <text variable="container-title"/>
+                  </group>
+                </if>
+                <else-if type="speech" match="any">
+                  <text variable="publisher-place" prefix=", "/>
+                  <text macro="full-date" prefix=", "/>
+                  <text macro="accessed" prefix=", "/>
+                </else-if>
+                <else-if type="article-newspaper article-magazine article-journal" match="any">
+                  <group delimiter=", ">
+                    <group delimiter=" ">
+                      <group delimiter=": ">
+                        <text term="in" text-case="capitalize-first"/>
+                        <text variable="container-title"/>
+                      </group>
+                      <group>
+                        <choose>
+                          <if type="article-newspaper" match="any">
+                            <text macro="full-date"/>
+                          </if>
+                          <else>
+                            <group>
+                              <text variable="volume"/>
+                              <text variable="issue" prefix="(" suffix=")"/>
+                            </group>
+                          </else>
+                        </choose>
+                      </group>
+                    </group>
+                    <group>
+                      <text macro="pages"/>
+                    </group>
+                  </group>
+                </else-if>
+                <else-if type="chapter" match="any">
+                  <group delimiter=". ">
+                    <group delimiter=": ">
+                      <text term="in" text-case="capitalize-first"/>
+                      <text macro="editor"/>
+                      <text variable="container-title" font-style="normal"/>
+                    </group>
+                    <text macro="edition"/>
+                    <text macro="publisher"/>
+                  </group>
+                </else-if>
+                <else>
+                  <group delimiter=", ">
+                    <text macro="edition"/>
+                    <text macro="publisher"/>
+                  </group>
+                </else>
+              </choose>
+            </group>
+          </group>
+        </group>
+        <group>
+          <text macro="access"/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

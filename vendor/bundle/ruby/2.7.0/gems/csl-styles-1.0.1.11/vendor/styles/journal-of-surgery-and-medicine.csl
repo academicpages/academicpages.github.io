@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" delimiter-precedes-et-al="always" delimiter-precedes-last="never" et-al-min="7" et-al-use-first="6" page-range-format="minimal" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Journal of Surgery and Medicine</title>
+    <title-short>JOSAM</title-short>
+    <id>http://www.zotero.org/styles/journal-of-surgery-and-medicine</id>
+    <link href="http://www.zotero.org/styles/journal-of-surgery-and-medicine" rel="self"/>
+    <link href="http://dergipark.gov.tr/josam/page/3139" rel="documentation"/>
+    <author>
+      <name>Hakan Kocoglu</name>
+      <email>hakan@pooltext.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <eissn>2602-2079</eissn>
+    <summary>Provided by PoolText</summary>
+    <updated>2018-08-13T15:47:21+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <date form="text" delimiter=" ">
+      <date-part name="day"/>
+      <date-part name="month" form="short" strip-periods="true"/>
+      <date-part name="year"/>
+    </date>
+    <terms>
+      <term name="collection-editor" form="long">
+        <single>Series editor</single>
+        <multiple>Series editors</multiple>
+      </term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter-precedes-et-al="always" delimiter-precedes-last="never" et-al-min="7" et-al-use-first="6" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <label prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=".">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter="; ">
+      <group delimiter=": ">
+        <choose>
+          <if type="thesis" match="none">
+            <text variable="publisher-place"/>
+          </if>
+        </choose>
+        <text variable="publisher"/>
+      </group>
+      <text macro="year-date"/>
+    </group>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal" match="any">
+        <text variable="container-title" form="short" strip-periods="true"/>
+      </if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="long" suffix="."/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued" form="numeric" date-parts="year"/>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix="doi:"/>
+          </if>
+          <else>
+            <group delimiter=". ">
+              <text variable="URL"/>
+              <group delimiter=" ">
+                <text term="accessed" text-case="capitalize-first"/>
+                <date variable="accessed" form="text"/>
+              </group>
+            </group>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group>
+        <group delimiter=". ">
+          <text macro="author"/>
+          <text variable="title"/>
+          <choose>
+            <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+              <group delimiter=". " prefix=" ">
+                <text macro="edition"/>
+                <text variable="genre"/>
+                <text macro="publisher"/>
+              </group>
+            </if>
+            <else-if type="chapter paper-conference" match="any">
+              <group delimiter=". ">
+                <group delimiter=": ">
+                  <text term="in" text-case="capitalize-first"/>
+                  <group delimiter=". ">
+                    <text macro="editor"/>
+                    <text macro="container-title"/>
+                  </group>
+                </group>
+                <text macro="edition"/>
+                <text macro="publisher"/>
+                <group delimiter=" ">
+                  <label variable="page" form="short" plural="never"/>
+                  <text variable="page"/>
+                </group>
+              </group>
+            </else-if>
+            <else>
+              <text macro="container-title"/>
+              <group delimiter=";">
+                <text macro="year-date"/>
+                <group>
+                  <text variable="volume"/>
+                  <choose>
+                    <if is-numeric="issue"/>
+                    <else>
+                      <text variable="issue" prefix=" "/>
+                    </else>
+                  </choose>
+                  <text variable="page" prefix=":"/>
+                </group>
+              </group>
+            </else>
+          </choose>
+          <text macro="access"/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

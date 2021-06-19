@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>The Institution of Engineering and Technology</title>
+    <title-short>IET</title-short>
+    <id>http://www.zotero.org/styles/the-institution-of-engineering-and-technology</id>
+    <link href="http://www.zotero.org/styles/the-institution-of-engineering-and-technology" rel="self"/>
+    <link href="http://www.zotero.org/styles/acta-polytechnica" rel="template"/>
+    <link href="http://digital-library.theiet.org/journals/author-guide" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <summary>Style for all IET Journals</summary>
+    <updated>2018-03-28T23:10:24+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="edition" form="short">edn.</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=", " initialize-with="." delimiter-precedes-last="never" delimiter=", "/>
+      <label form="short" text-case="capitalize-first" prefix=" (" suffix=")"/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="container-author">
+    <names variable="container-author">
+      <name name-as-sort-order="all" sort-separator=", " initialize-with="." delimiter-precedes-last="never" delimiter=", "/>
+      <label form="short" text-case="capitalize-first" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", " prefix="(" suffix=")">
+      <text variable="publisher"/>
+      <text macro="year-date"/>
+      <text macro="edition"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year" form="long"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="page">
+    <group delimiter=" ">
+      <label variable="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="issue">
+    <text variable="issue" prefix="(" suffix=")"/>
+  </macro>
+  <citation collapse="citation-number" after-collapse-delimiter="; ">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+      <group delimiter=" ">
+        <label variable="locator" form="short" prefix=" "/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="1" second-field-align="flush" et-al-min="7" et-al-use-first="3">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout>
+      <!-- Citation Number -->
+      <text variable="citation-number"/>
+      <!-- Author(s) -->
+      <text macro="author" suffix=": "/>
+      <text variable="title" quotes="true"/>
+      <!-- Rest of Citation -->
+      <choose>
+        <!-- Specific Formats -->
+        <if type="book report" match="any">
+          <text macro="publisher" prefix=" "/>
+        </if>
+        <else-if type="paper-conference chapter speech" match="any">
+          <group delimiter=" " prefix=", ">
+            <text term="in"/>
+            <text macro="container-author" suffix=":"/>
+            <text variable="container-title" quotes="true"/>
+            <group delimiter=", ">
+              <text variable="event"/>
+              <text macro="publisher"/>
+              <text macro="page"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <group delimiter=". " suffix=". ">
+            <group delimiter=", ">
+              <text variable="container-title" form="short" font-style="italic"/>
+              <text macro="year-date"/>
+              <text variable="volume" font-weight="bold"/>
+              <text macro="issue"/>
+              <text macro="page"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="patent thesis" match="any">
+          <group delimiter=", " prefix=". ">
+            <text variable="genre"/>
+            <text variable="publisher"/>
+            <group delimiter=" ">
+              <text variable="authority"/>
+              <text variable="number"/>
+            </group>
+            <text macro="year-date"/>
+          </group>
+        </else-if>
+        <else-if type="webpage post-weblog" match="any">
+          <group delimiter=", " prefix=", ">
+            <text variable="URL"/>
+            <group delimiter=" ">
+              <text term="accessed"/>
+              <date variable="accessed" date-parts="year-month" form="text"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", " prefix=" ">
+            <group delimiter=", ">
+              <text macro="publisher"/>
+              <text variable="volume"/>
+              <text macro="page"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

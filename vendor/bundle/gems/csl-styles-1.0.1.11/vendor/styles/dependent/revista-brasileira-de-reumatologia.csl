@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Revista Brasileira de Reumatologia (Brazilian Journal of Rheumatology)</title>
+    <id>http://www.zotero.org/styles/revista-brasileira-de-reumatologia</id>
+    <link href="http://www.zotero.org/styles/revista-brasileira-de-reumatologia" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript" rel="independent-parent"/>
+    <link href="http://www.scielo.br/revistas/rbr/iinstruc.htm" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0482-5004</issn>
+    <eissn>1809-4570</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

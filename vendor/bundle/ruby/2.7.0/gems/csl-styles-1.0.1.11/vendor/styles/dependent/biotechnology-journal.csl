@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Biotechnology Journal</title>
+    <title-short>BJT</title-short>
+    <id>http://www.zotero.org/styles/biotechnology-journal</id>
+    <link href="http://www.zotero.org/styles/biotechnology-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa-numeric-superscript-brackets" rel="independent-parent"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/18607314/homepage/2446_for_authors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>1860-6768</issn>
+    <eissn>1860-7314</eissn>
+    <updated>2020-11-02T01:03:43+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

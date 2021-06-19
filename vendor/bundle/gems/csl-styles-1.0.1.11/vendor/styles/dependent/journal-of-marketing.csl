@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Marketing</title>
+    <title-short>JM</title-short>
+    <id>http://www.zotero.org/styles/journal-of-marketing</id>
+    <link href="http://www.zotero.org/styles/journal-of-marketing" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-marketing-association" rel="independent-parent"/>
+    <link href="https://www.ama.org/Publications/JournalofMarketing/Pages/JMAccepted.aspx#3" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <category field="communications"/>
+    <issn>0022-2429</issn>
+    <eissn>1547-7185</eissn>
+    <summary>Style for the Journal of Marketing, published by the American Marketing Association</summary>
+    <updated>2015-01-28T03:04:50+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

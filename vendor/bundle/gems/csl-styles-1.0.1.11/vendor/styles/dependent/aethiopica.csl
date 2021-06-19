@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>Aethiopica</title>
+    <id>http://www.zotero.org/styles/aethiopica</id>
+    <link href="http://www.zotero.org/styles/aethiopica" rel="self"/>
+    <link href="http://www.zotero.org/styles/hiob-ludolf-centre-for-ethiopian-studies" rel="independent-parent"/>
+    <link href="http://journals.sub.uni-hamburg.de/aethiopica/about/submissions" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="humanities"/>
+    <issn>1430-1938</issn>
+    <eissn>2194-4024</eissn>
+    <updated>2016-05-01T18:00:47+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

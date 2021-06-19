@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>American Medical Writers Association Journal</title>
+    <title-short>AMWA Journal</title-short>
+    <id>http://www.zotero.org/styles/american-medical-writers-association-journal</id>
+    <link href="http://www.zotero.org/styles/american-medical-writers-association-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="http://www.amwa.org/default/publications/journal/journalinstructions.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1075-6361</issn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

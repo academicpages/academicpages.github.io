@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded" default-locale="en-US">
+  <info>
+    <title>Journal of Paleontology</title>
+    <id>http://www.zotero.org/styles/journal-of-paleontology</id>
+    <link href="http://www.zotero.org/styles/journal-of-paleontology" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-vertebrate-paleontology" rel="template"/>
+    <link href="http://www.journalofpaleontology.org/instructions.htm" rel="documentation"/>
+    <author>
+      <name>Martin R. Smith</name>
+      <email>martins@gmail.com</email>
+      <uri>https://community.dur.ac.uk/martin.smith/</uri>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0022-3360</issn>
+    <eissn>1937-2337</eissn>
+    <updated>2019-07-08T04:39:57+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="volume" form="short">v.</term>
+      <term name="page" form="short">p.</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author" suffix=",">
+      <name sort-separator=", " initialize-with="." and="text" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="long" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with="." and="text" delimiter=", "/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with="."/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-count">
+    <names variable="author">
+      <name form="count"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else-if type="book chapter webpage" variable="container-title volume page" match="none">
+        <text term="forthcoming"/>
+      </else-if>
+      <else-if type="book chapter webpage" variable="volume page" match="none">
+        <text term="in press"/>
+      </else-if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if variable="edition">
+        <text variable="container-title"/>
+      </if>
+      <else>
+        <text variable="container-title" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="false" collapse="year">
+    <sort>
+      <key macro="year-date"/>
+      <key macro="author-short"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+      </group>
+      <text variable="locator"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" hanging-indent="true">
+    <sort>
+      <key macro="author" names-min="1" names-use-first="1"/>
+      <key macro="author-count"/>
+      <key macro="year-date"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <group suffix=", ">
+          <choose>
+            <if variable="issued">
+              <date variable="issued">
+                <date-part name="year"/>
+              </date>
+            </if>
+            <else-if type="book chapter webpage" variable="container-title volume page" match="none">
+              <text term="forthcoming" text-case="capitalize-first"/>
+            </else-if>
+            <else-if type="book chapter webpage" variable="volume page" match="none">
+              <text term="in press" text-case="capitalize-first"/>
+            </else-if>
+            <else>
+              <text term="no date" form="short"/>
+            </else>
+          </choose>
+        </group>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <group suffix=": ">
+              <group delimiter=", ">
+                <text variable="title" text-case="title"/>
+                <text macro="edition"/>
+              </group>
+              <text macro="editor" prefix=" (" suffix=")"/>
+            </group>
+            <text prefix=" " suffix=", " macro="publisher"/>
+            <choose>
+              <if variable="number-of-pages">
+                <text variable="number-of-pages"/>
+              </if>
+              <else>
+                <text variable="page"/>
+              </else>
+            </choose>
+            <text term="page" form="short"/>
+          </if>
+          <else-if type="thesis" match="any">
+            <text variable="title" suffix=": "/>
+            <group delimiter=", ">
+              <text variable="genre"/>
+              <text macro="publisher"/>
+              <text variable="number-of-pages"/>
+            </group>
+            <text term="page" form="short"/>
+          </else-if>
+          <else-if type="chapter" match="any">
+            <group delimiter=" ">
+              <text variable="title" suffix="; "/>
+              <text term="page" form="short" suffix=". "/>
+              <text variable="page" suffix=". "/>
+              <text term="in" text-case="capitalize-first" font-style="italic"/>
+              <text macro="editor" suffix=","/>
+              <group delimiter=", ">
+                <text macro="container-title" text-case="title"/>
+                <text variable="collection-title" prefix=". "/>
+                <text macro="edition"/>
+              </group>
+              <group delimiter=". ">
+                <choose>
+                  <if is-numeric="volume">
+                    <group delimiter=" ">
+                      <label variable="volume" form="short"/>
+                      <number variable="volume" suffix="."/>
+                    </group>
+                  </if>
+                  <else>
+                    <text variable="volume" suffix="."/>
+                  </else>
+                </choose>
+                <text macro="publisher"/>
+              </group>
+            </group>
+          </else-if>
+          <else-if type="webpage" match="any">
+            <group delimiter=". ">
+              <text variable="title"/>
+              <text variable="container-title" form="short"/>
+              <text variable="URL" prefix="Available at "/>
+              <date variable="accessed" prefix="Accessed ">
+                <date-part name="month" suffix=" "/>
+                <date-part name="day" suffix=", "/>
+                <date-part name="year"/>
+              </date>
+            </group>
+            <text prefix=" " macro="publisher"/>
+          </else-if>
+          <else>
+            <text variable="title" suffix=": "/>
+            <text variable="container-title" form="long" text-case="title" suffix=","/>
+            <group delimiter=", ">
+              <group delimiter=" ">
+                <label variable="volume" form="short"/>
+                <text variable="volume"/>
+              </group>
+              <group delimiter=" ">
+                <label variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

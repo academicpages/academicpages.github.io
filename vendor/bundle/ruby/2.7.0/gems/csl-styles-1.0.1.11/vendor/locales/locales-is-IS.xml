@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="is-IS">
+  <info>
+    <translator>
+      <name>dadamaster</name>
+    </translator>
+    <translator>
+      <name>styrmirm</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" suffix=". "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="ordinal" suffix=" "/>
+    <date-part name="month" suffix="."/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">sótt</term>
+    <term name="and">og</term>
+    <term name="and others">og fleiri</term>
+    <term name="anonymous">nafnlaus</term>
+    <term name="anonymous" form="short">nafnl.</term>
+    <term name="at">af</term>
+    <term name="available at">aðgengilegt á</term>
+    <term name="by">eftir</term>
+    <term name="circa">sirka</term>
+    <term name="circa" form="short">u.þ.b.</term>
+    <term name="cited">tilvitnun</term>
+    <term name="edition">
+      <single>útgáfa</single>
+      <multiple>útgáfur</multiple>
+    </term>
+    <term name="edition" form="short">útg.</term>
+    <term name="et-al">o.fl.</term>
+    <term name="forthcoming">óbirt</term>
+    <term name="from">af</term>
+    <term name="ibid">sama heimild</term>
+    <term name="in">í</term>
+    <term name="in press">í prentun</term>
+    <term name="internet">rafrænt</term>
+    <term name="interview">viðtal</term>
+    <term name="letter">bréf</term>
+    <term name="no date">engin dagsetning</term>
+    <term name="no date" form="short">e.d.</term>
+    <term name="online">rafrænt</term>
+    <term name="presented at">flutt á</term>
+    <term name="reference">
+      <single>tilvitnun</single>
+      <multiple>tilvitnanir</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>tilv.</single>
+      <multiple>tilv.</multiple>
+    </term>
+    <term name="retrieved">sótt</term>
+    <term name="scale">scale</term>
+    <term name="version">útgáfa</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">e.Kr.</term>
+    <term name="bc">f.Kr.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">„</term>
+    <term name="close-quote">“</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">.</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">fyrsti</term>
+    <term name="long-ordinal-02">annar</term>
+    <term name="long-ordinal-03">þriðji</term>
+    <term name="long-ordinal-04">fjórði</term>
+    <term name="long-ordinal-05">fimmti</term>
+    <term name="long-ordinal-06">sjötti</term>
+    <term name="long-ordinal-07">sjöundi</term>
+    <term name="long-ordinal-08">áttundi</term>
+    <term name="long-ordinal-09">níundi</term>
+    <term name="long-ordinal-10">tíundi</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>bók</single>
+      <multiple>bækur</multiple>
+    </term>
+    <term name="chapter">
+      <single>kafli</single>
+      <multiple>kaflar</multiple>
+    </term>
+    <term name="column">
+      <single>dálkur</single>
+      <multiple>dálkar</multiple>
+    </term>
+    <term name="figure">
+      <single>mynd</single>
+      <multiple>myndir</multiple>
+    </term>
+    <term name="folio">
+      <single>handrit</single>
+      <multiple>handrit</multiple>
+    </term>
+    <term name="issue">
+      <single>tölublað</single>
+      <multiple>tölublöð</multiple>
+    </term>
+    <term name="line">
+      <single>lína</single>
+      <multiple>línur</multiple>
+    </term>
+    <term name="note">
+      <single>athugasemd</single>
+      <multiple>athugasemdir</multiple>
+    </term>
+    <term name="opus">
+      <single>tónverk</single>
+      <multiple>tónverk</multiple>
+    </term>
+    <term name="page">
+      <single>blaðsíða</single>
+      <multiple>blaðsíður</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>blaðsíða</single>
+      <multiple>blaðsíður</multiple>
+    </term>
+    <term name="paragraph">
+      <single>málsgrein</single>
+      <multiple>málsgreinar</multiple>
+    </term>
+    <term name="part">
+      <single>hluti</single>
+      <multiple>hlutar</multiple>
+    </term>
+    <term name="section">
+      <single>hluti</single>
+      <multiple>hlutar</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>vers</single>
+      <multiple>vers</multiple>
+    </term>
+    <term name="volume">
+      <single>bindi</single>
+      <multiple>bindi</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">bók</term>
+    <term name="chapter" form="short">k.</term>
+    <term name="column" form="short">d.</term>
+    <term name="figure" form="short">mynd.</term>
+    <term name="folio" form="short">handr.</term>
+    <term name="issue" form="short">tbl.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">ath.</term>
+    <term name="opus" form="short">tónv.</term>
+    <term name="page" form="short">
+      <single>bls.</single>
+      <multiple>bls.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>bls.</single>
+      <multiple>bls.</multiple>
+    </term>
+    <term name="paragraph" form="short">málsgr.</term>
+    <term name="part" form="short">hl.</term>
+    <term name="section" form="short">hl.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>v.</single>
+      <multiple>v.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>b.</single>
+      <multiple>b.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>leikstjóri</single>
+      <multiple>leikstjórar</multiple>
+    </term>
+    <term name="editor">
+      <single>ritstjóri</single>
+      <multiple>ritstjórar</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>ritstjóri</single>
+      <multiple>ritstjórar</multiple>
+    </term>
+    <term name="illustrator">
+      <single>höfundur myndskreytinga</single>
+      <multiple>höfundar myndskreytinga</multiple>
+    </term>
+    <term name="translator">
+      <single>þýðandi</single>
+      <multiple>þýðendur</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>ritstjóri og þýðandi</single>
+      <multiple>ritstjórar og þýðendur</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>leikstj.</single>
+      <multiple>leikstj.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>ritstj.</single>
+      <multiple>ritstj.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>ritstj.</single>
+      <multiple>ritstj.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>höf. mynd.</single>
+      <multiple>höf. mynd.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>þýð.</single>
+      <multiple>þýð.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>ritstj. og þýð.</single>
+      <multiple>ritstj. og þýð.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">eftir</term>
+    <term name="director" form="verb">leikstýrt af</term>
+    <term name="editor" form="verb">ritstýrt af</term>
+    <term name="editorial-director" form="verb">ritstýrt af</term>
+    <term name="illustrator" form="verb">myndskreytt af</term>
+    <term name="interviewer" form="verb">viðtal tók</term>
+    <term name="recipient" form="verb">til</term>
+    <term name="reviewed-author" form="verb">by</term>
+    <term name="translator" form="verb">þýddi</term>
+    <term name="editortranslator" form="verb">ritstýrt og þýtt af</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">leikstj.</term>
+    <term name="editor" form="verb-short">ritstj.</term>
+    <term name="editorial-director" form="verb-short">ritstj.</term>
+    <term name="illustrator" form="verb-short">myndskr.</term>
+    <term name="translator" form="verb-short">þýð.</term>
+    <term name="editortranslator" form="verb-short">ritstj. og þýð.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">janúar</term>
+    <term name="month-02">febrúar</term>
+    <term name="month-03">mars</term>
+    <term name="month-04">apríl</term>
+    <term name="month-05">maí</term>
+    <term name="month-06">júní</term>
+    <term name="month-07">júlí</term>
+    <term name="month-08">ágúst</term>
+    <term name="month-09">september</term>
+    <term name="month-10">október</term>
+    <term name="month-11">nóvember</term>
+    <term name="month-12">desember</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">jan.</term>
+    <term name="month-02" form="short">feb.</term>
+    <term name="month-03" form="short">mar.</term>
+    <term name="month-04" form="short">apr.</term>
+    <term name="month-05" form="short">maí</term>
+    <term name="month-06" form="short">jún.</term>
+    <term name="month-07" form="short">júl.</term>
+    <term name="month-08" form="short">ágú.</term>
+    <term name="month-09" form="short">sep.</term>
+    <term name="month-10" form="short">okt.</term>
+    <term name="month-11" form="short">nóv.</term>
+    <term name="month-12" form="short">des.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">vor</term>
+    <term name="season-02">sumar</term>
+    <term name="season-03">haust</term>
+    <term name="season-04">vetur</term>
+  </terms>
+</locale>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-GB">
+  <info>
+    <title>Information Systems Journal</title>
+    <title-short>ISJ</title-short>
+    <id>http://www.zotero.org/styles/information-systems-journal</id>
+    <link href="http://www.zotero.org/styles/information-systems-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2575/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien, PhD</name>
+      <email>obrienpat86@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="science"/>
+    <issn>1350-1917</issn>
+    <eissn>1365-2575</eissn>
+    <updated>2019-11-07T04:53:21+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

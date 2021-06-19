@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" default-locale="de-DE" version="1.0" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>Technische Universität München - Unternehmensführung (German)</title>
+    <title-short>TUM Unternehmensführung</title-short>
+    <id>http://www.zotero.org/styles/technische-universitat-munchen-unternehmensfuhrung</id>
+    <link href="http://www.zotero.org/styles/technische-universitat-munchen-unternehmensfuhrung" rel="self"/>
+    <link href="http://www.zotero.org/styles/technische-universitat-munchen-controlling" rel="template"/>
+    <link href="http://www.zotero.org/styles/universitat-freiburg-geschichte" rel="template"/>
+    <link href="http://www.zotero.org/styles/hochschule-fur-wirtschaft-und-recht-berlin" rel="template"/>
+    <link href="http://www.uf.wi.tum.de/lehre/abschlussarbeiten/" rel="documentation"/>
+    <author>
+      <name>Tom Raley</name>
+    </author>
+    <category citation-format="note"/>
+    <category field="science"/>
+    <updated>2018-05-22T00:59:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="et-al">et al.</term>
+      <term name="retrieved">zugegriffen am:</term>
+      <term name="accessed">abgerufen am:</term>
+      <term name="page" form="short">S.</term>
+      <term name="section" form="short">Abs.</term>
+      <term name="editor" form="verb-short">hrsg. von</term>
+      <term name="editor" form="short">
+        <single>Hrsg.</single>
+        <multiple>Hrsgg.</multiple>
+      </term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name and="symbol" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="symbol" delimiter-precedes-last="never" initialize-with=". " sort-separator=","/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor translator">
+      <label form="short" text-case="lowercase" strip-periods="false" suffix=" v. "/>
+      <name and="symbol" delimiter-precedes-last="never" initialize-with=". "/>
+    </names>
+  </macro>
+  <macro name="accessed">
+    <date variable="accessed" prefix=" ">
+      <date-part form="numeric-leading-zeros" name="day" suffix="."/>
+      <date-part form="numeric-leading-zeros" name="month" suffix="."/>
+      <date-part form="long" name="year"/>
+    </date>
+  </macro>
+  <macro name="date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part form="numeric-leading-zeros" name="day" suffix="."/>
+          <date-part form="numeric-leading-zeros" name="month" suffix="."/>
+          <date-part form="long" name="year"/>
+        </date>
+      </if>
+      <else>
+        <date variable="accessed">
+          <date-part form="numeric-leading-zeros" name="day" suffix="."/>
+          <date-part form="numeric-leading-zeros" name="month" suffix="."/>
+          <date-part form="long" name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if type="webpage">
+        <choose>
+          <if variable="issued">
+            <date variable="issued">
+              <date-part form="numeric-leading-zeros" name="day" suffix="."/>
+              <date-part form="numeric-leading-zeros" name="month" suffix="."/>
+              <date-part form="long" name="year"/>
+            </date>
+          </if>
+          <else>
+            <date variable="accessed">
+              <date-part name="year"/>
+            </date>
+          </else>
+        </choose>
+      </if>
+      <else>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <label variable="locator" form="short" prefix=", " suffix=" "/>
+    <text variable="page"/>
+  </macro>
+  <macro name="point-locators">
+    <label variable="locator" form="short" prefix=", " suffix=" "/>
+    <text variable="locator"/>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true">
+    <layout delimiter="; " prefix="(" suffix=")">
+      <text macro="author-short" strip-periods="false"/>
+      <text macro="year-date" prefix=", "/>
+      <text macro="point-locators"/>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key macro="date"/>
+    </sort>
+    <layout suffix=".">
+      <group font-weight="normal">
+        <text macro="author"/>
+        <text macro="year-date" prefix=" (" suffix=")."/>
+      </group>
+      <text variable="title" prefix=" " suffix="."/>
+      <choose>
+        <if type="webpage"/>
+        <else-if type="speech" match="any">
+          <text variable="publisher-place" prefix=", "/>
+          <text macro="date" prefix=" "/>
+          <text macro="accessed" prefix=", "/>
+        </else-if>
+        <else-if type="article-newspaper article-magazine article-journal" match="any">
+          <text value=" "/>
+          <text variable="container-title" form="long" font-style="italic"/>
+          <text variable="collection-title" prefix=", Reihe "/>
+          <text variable="issue" font-style="normal" prefix=", "/>
+          <text variable="volume" font-style="normal" prefix=" (" suffix=")"/>
+          <text macro="pages"/>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <text variable="container-title" font-style="normal" prefix=" in: "/>
+          <text macro="editor" prefix=", "/>
+          <text variable="publisher-place" prefix=", "/>
+          <text variable="edition" prefix=", "/>
+          <text macro="year-date" prefix=" "/>
+          <text macro="pages"/>
+        </else-if>
+        <else>
+          <text variable="edition" prefix=", "/>
+          <text variable="publisher-place" prefix=" "/>
+          <text macro="year-date" prefix=" "/>
+        </else>
+      </choose>
+      <choose>
+        <if variable="URL">
+          <text variable="URL" prefix=", URL: "/>
+          <text macro="accessed" prefix=", "/>
+        </if>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

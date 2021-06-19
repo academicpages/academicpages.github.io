@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>Southern Cross University - Harvard</title>
+    <id>http://www.zotero.org/styles/southern-cross-university-harvard</id>
+    <link href="http://www.zotero.org/styles/southern-cross-university-harvard" rel="self"/>
+    <link href="http://www.zotero.org/styles/style-manual-australian-government" rel="independent-parent"/>
+    <link href="http://libguides.scu.edu.au/harvard" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+      <email>obrienpat86@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="generic-base"/>
+    <updated>2017-12-07T04:15:37+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

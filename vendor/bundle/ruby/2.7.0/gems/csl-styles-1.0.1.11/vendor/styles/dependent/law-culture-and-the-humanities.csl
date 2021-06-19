@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Law, Culture and the Humanities</title>
+    <id>http://www.zotero.org/styles/law-culture-and-the-humanities</id>
+    <link href="http://www.zotero.org/styles/law-culture-and-the-humanities" rel="self"/>
+    <link href="http://www.zotero.org/styles/cultural-geographies" rel="independent-parent"/>
+    <link href="https://us.sagepub.com/en-us/nam/journal/law-culture-and-humanities#ReferenceStyle" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="social_science"/>
+    <issn>1743-8721</issn>
+    <eissn>1743-9752</eissn>
+    <updated>2018-06-23T03:39:14+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with="" name-as-sort-order="all" demote-non-dropping-particle="sort-only" default-locale="de-DE">
+  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Universität Heidelberg - Medizinische Fakultät Mannheim (numerisch, German)</title>
+    <title-short>MedMa</title-short>
+    <id>http://www.zotero.org/styles/universitat-heidelberg-medizinische-fakultat-mannheim-numeric</id>
+    <link href="http://www.zotero.org/styles/universitat-heidelberg-medizinische-fakultat-mannheim-numeric" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-the-american-society-of-nephrology" rel="template"/>
+    <link href="https://www.umm.uni-heidelberg.de/fakultaet/promotion/promotion-dr-med/" rel="documentation"/>
+    <author>
+      <name>Norman Roscher</name>
+      <email>n.roscher@stud.uni-heidelberg.de</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <summary>Based on "Journal of the American Society of Nephrology" - adapted for: Medizinische Fakultät Mannheim der Universität Heidelberg</summary>
+    <updated>2020-01-09T05:05:09+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="page">
+        <single>page</single>
+        <multiple>pages</multiple>
+      </term>
+      <term name="page" form="short">
+        <single>p</single>
+        <multiple>pp</multiple>
+      </term>
+      <term name="edition">ed</term>
+      <term name="ordinal">th</term>
+      <term name="ordinal-01">st</term>
+      <term name="ordinal-02">nd</term>
+      <term name="ordinal-03">rd</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <choose>
+      <if match="any" variable="author editor publisher">
+        <names variable="author" delimiter="," suffix=": ">
+          <name delimiter-precedes-last="always" initialize-with="" name-as-sort-order="all"/>
+          <substitute>
+            <names variable="editor" suffix=": ">
+              <name initialize-with="" name-as-sort-order="all"/>
+              <substitute>
+                <text variable="publisher" suffix=": "/>
+              </substitute>
+            </names>
+          </substitute>
+        </names>
+      </if>
+      <else>
+        <group delimiter=". " suffix=", ">
+          <text variable="container-title"/>
+          <text variable="title" font-style="italic"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if type="article" match="none" variable="edition">
+        <text value="Edited&amp;#160;by" suffix="&amp;#160;"/>
+      </if>
+      <else>
+        <text macro="edition" suffix=" "/>
+        <text value="edited&amp;#160;by" text-case="lowercase" strip-periods="false" suffix="&amp;#160;"/>
+      </else>
+    </choose>
+    <names variable="editor" font-variant="small-caps" vertical-align="baseline" suffix=",">
+      <name font-variant="normal" suffix="." delimiter-precedes-last="always" initialize-with="." name-as-sort-order="all"/>
+      <substitute>
+        <names variable="collection-editor" font-variant="small-caps" suffix=",">
+          <name suffix="."/>
+          <substitute>
+            <names variable="editorial-director" font-variant="small-caps" suffix=",">
+              <name suffix="."/>
+            </names>
+          </substitute>
+        </names>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place" suffix=", "/>
+    <text variable="publisher" suffix=","/>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="article article-journal article-magazine article-newspaper book chapter entry-encyclopedia" match="any">
+        <choose>
+          <if match="any" variable="note annote">
+            <choose>
+              <if match="all" variable="URL accessed">
+                <group>
+                  <text value="Online" suffix=":&amp;#160;"/>
+                  <text variable="URL" suffix=", "/>
+                  <text macro="accessed-date"/>
+                </group>
+              </if>
+            </choose>
+          </if>
+        </choose>
+      </if>
+      <else-if match="all" variable="URL accessed">
+        <group>
+          <text value="Online" suffix=":&amp;#160;"/>
+          <text variable="URL" suffix=", "/>
+          <text macro="accessed-date"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="accessed-date">
+    <group delimiter="&amp;#160;">
+      <text value="Stand:"/>
+      <date form="numeric" variable="accessed" suffix="."/>
+    </group>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <group>
+          <text variable="container-title" form="short" font-style="italic"/>
+          <choose>
+            <if match="any" variable="issued volume page">
+              <text value="," suffix="&amp;#160;"/>
+            </if>
+            <else>
+              <text value=" "/>
+            </else>
+          </choose>
+        </group>
+      </if>
+      <else-if type="webpage article" match="any">
+        <choose>
+          <if match="any" variable="note">
+            <text variable="note"/>
+          </if>
+          <else-if match="any" variable="container-title">
+            <choose>
+              <if match="any" variable="author editor publisher">
+                <text variable="container-title" suffix="."/>
+              </if>
+            </choose>
+          </else-if>
+        </choose>
+      </else-if>
+      <else>
+        <text variable="container-title" suffix=". " form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <choose>
+        <if type="webpage" match="any">
+          <text variable="title" font-style="italic" suffix=". "/>
+          <date date-parts="year" form="text" variable="issued" font-style="normal" suffix="."/>
+        </if>
+        <else>
+          <choose>
+            <if type="chapter entry entry-dictionary entry-encyclopedia" match="any" variable="container-title container-title-short container-author">
+              <choose>
+                <if match="any" variable="editor publisher author">
+                  <choose>
+                    <if match="none" variable="note">
+                      <text variable="title" suffix="."/>
+                    </if>
+                    <else-if type="chapter" match="all" variable="container-title note">
+                      <text variable="title" suffix="."/>
+                    </else-if>
+                    <else>
+                      <text variable="title"/>
+                    </else>
+                  </choose>
+                </if>
+              </choose>
+            </if>
+            <else-if type="article webpage" match="any">
+              <text variable="title" font-style="italic" suffix=","/>
+              <date date-parts="year" form="numeric" variable="issued" font-style="italic" font-variant="normal" font-weight="normal" suffix=","/>
+            </else-if>
+            <else-if match="any" variable="note">
+              <choose>
+                <if type="thesis" match="any">
+                  <text variable="title" font-style="italic" suffix="."/>
+                </if>
+                <else>
+                  <text variable="title" font-style="italic"/>
+                </else>
+              </choose>
+            </else-if>
+            <else>
+              <text variable="title" font-style="italic" suffix="."/>
+            </else>
+          </choose>
+          <choose>
+            <if type="thesis" match="any">
+              <choose>
+                <if match="any" variable="note">
+                  <text variable="note" suffix="."/>
+                </if>
+                <else>
+                  <text value="Med.&amp;#160;Dissertation" suffix="."/>
+                </else>
+              </choose>
+              <text variable="publisher" suffix=", "/>
+            </if>
+            <else-if type="article" match="none">
+              <choose>
+                <if match="all" variable="author publisher-place">
+                  <text variable="note" prefix="(" suffix=")."/>
+                </if>
+                <else-if type="article-journal article-magazine article-newspaper" match="any">
+                  <text variable="note" prefix="(" suffix=")."/>
+                </else-if>
+              </choose>
+            </else-if>
+          </choose>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter="&amp;#160;">
+          <number variable="edition" form="ordinal"/>
+          <text value="ed" suffix="."/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="online">
+    <group>
+      <text term="online" text-case="capitalize-first" suffix=":&amp;#160;"/>
+      <text variable="URL" suffix=", "/>
+      <text macro="accessed-date"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="title" suffix=" "/>
+      <choose>
+        <if type="patent" match="any">
+          <group>
+            <choose>
+              <if match="any" variable="number">
+                <text value="Patentnr." prefix=" " suffix="&amp;#160;"/>
+                <text variable="number" suffix=", "/>
+              </if>
+              <else-if match="any" variable="call-number">
+                <text value="Bewerbungsnr." suffix="&amp;#160;"/>
+                <text variable="call-number" suffix=", "/>
+              </else-if>
+            </choose>
+            <date form="numeric" variable="issued"/>
+            <choose>
+              <if match="any" variable="status">
+                <text value="Status" prefix=". " suffix=":&amp;#160;"/>
+                <text variable="status"/>
+              </if>
+            </choose>
+          </group>
+        </if>
+        <else>
+          <choose>
+            <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+              <group prefix=" " delimiter=" ">
+                <choose>
+                  <if match="all" variable="publisher publisher-place">
+                    <text macro="publisher"/>
+                  </if>
+                </choose>
+                <choose>
+                  <if match="any" variable="edition">
+                    <text macro="edition"/>
+                  </if>
+                </choose>
+                <date date-parts="year" form="text" variable="issued">
+                  <date-part name="year"/>
+                </date>
+              </group>
+            </if>
+            <else-if type="chapter paper-conference entry-encyclopedia" match="any">
+              <choose>
+                <if match="any" variable="editor author publisher">
+                  <group prefix=" " suffix=" ">
+                    <text term="in" text-case="capitalize-first" suffix=":&amp;#160;"/>
+                    <names variable="container-author" font-variant="small-caps" suffix=": ">
+                      <name font-variant="small-caps" initialize-with="" name-as-sort-order="all"/>
+                    </names>
+                    <group delimiter=" ">
+                      <text variable="container-title" font-style="italic" suffix="."/>
+                      <choose>
+                        <if match="any" variable="editor">
+                          <text macro="editor"/>
+                        </if>
+                        <else>
+                          <text macro="edition"/>
+                        </else>
+                      </choose>
+                      <text variable="publisher-place" suffix=","/>
+                      <text variable="publisher" suffix=","/>
+                    </group>
+                  </group>
+                </if>
+              </choose>
+              <group delimiter=", ">
+                <choose>
+                  <if type="paper-conference entry-encyclopedia" match="none" variable="publisher-place">
+                    <choose>
+                      <if match="any" variable="note">
+                        <date date-parts="year" form="text" variable="issued" font-style="italic">
+                          <date-part name="year" font-style="italic"/>
+                        </date>
+                      </if>
+                      <else>
+                        <date date-parts="year" form="text" variable="issued" font-style="normal">
+                          <date-part name="year" font-style="normal"/>
+                        </date>
+                      </else>
+                    </choose>
+                  </if>
+                  <else>
+                    <date variable="issued">
+                      <date-part name="year"/>
+                    </date>
+                  </else>
+                </choose>
+                <group delimiter="&amp;#160;">
+                  <label variable="page" form="short"/>
+                  <text variable="page"/>
+                </group>
+                <choose>
+                  <if type="chapter" match="any" variable="note">
+                    <choose>
+                      <if match="none" variable="publisher-place">
+                        <text variable="note"/>
+                      </if>
+                    </choose>
+                  </if>
+                </choose>
+              </group>
+            </else-if>
+            <else>
+              <text macro="journal-title"/>
+              <choose>
+                <if match="any" variable="issue">
+                  <choose>
+                    <if match="none" variable="volume">
+                      <text variable="issue" suffix=":&amp;#160;"/>
+                    </if>
+                    <else>
+                      <text variable="volume" suffix=":&amp;#160;"/>
+                    </else>
+                  </choose>
+                </if>
+                <else>
+                  <text variable="volume" suffix=":&amp;#160;"/>
+                </else>
+              </choose>
+              <group>
+                <choose>
+                  <if match="any" variable="page">
+                    <text variable="page" suffix=",&amp;#160;"/>
+                  </if>
+                </choose>
+                <choose>
+                  <if type="webpage article" match="none">
+                    <date variable="issued">
+                      <date-part name="year"/>
+                    </date>
+                    <choose>
+                      <if type="article-journal article-magazine article-newspaper" match="none">
+                        <text value="."/>
+                      </if>
+                    </choose>
+                  </if>
+                </choose>
+              </group>
+            </else>
+          </choose>
+        </else>
+      </choose>
+      <choose>
+        <if type="article article-journal article-magazine article-newspaper" match="any">
+          <choose>
+            <if match="none" variable="volume issue edition note">
+              <text value="zur&amp;#160;Publikation&amp;#160;angenommen" prefix=" (" suffix="). "/>
+              <choose>
+                <if match="any" variable="URL">
+                  <text macro="online"/>
+                </if>
+              </choose>
+            </if>
+            <else-if match="none" variable="issued note">
+              <text value="zur Publikation angenommen" prefix=" (" suffix="). "/>
+              <choose>
+                <if match="any" variable="URL">
+                  <text macro="online"/>
+                </if>
+              </choose>
+            </else-if>
+            <else>
+              <text value="."/>
+            </else>
+          </choose>
+        </if>
+        <else-if type="webpage article thesis" match="none">
+          <text value="."/>
+        </else-if>
+      </choose>
+      <text macro="access" prefix=" "/>
+    </layout>
+  </bibliography>
+</style>

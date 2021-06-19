@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Royal Society of Chemistry (RSC), generated from "rsc" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Photochemical &amp; Photobiological Sciences</title>
+    <id>http://www.zotero.org/styles/photochemical-and-photobiological-sciences</id>
+    <link href="http://www.zotero.org/styles/photochemical-and-photobiological-sciences" rel="self"/>
+    <link href="http://www.zotero.org/styles/royal-society-of-chemistry-with-titles" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>1474-905X</issn>
+    <eissn>1474-9092</eissn>
+    <updated>2017-07-04T04:47:35+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

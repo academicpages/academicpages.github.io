@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Solutions</title>
+    <id>http://www.zotero.org/styles/solutions</id>
+    <link href="http://www.zotero.org/styles/solutions" rel="self"/>
+    <link href="http://www.zotero.org/styles/nature" rel="template"/>
+    <link href="http://www.thesolutionsjournal.com/node/457" rel="documentation"/>
+    <author>
+      <name>Jafet Andersson</name>
+      <uri>http://www.smhi.se/en/research/research-departments/hydrology/jafet-andersson-1.18716</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>2154-0896</issn>
+    <eissn>2154-0926</eissn>
+    <updated>2015-12-16T02:35:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" text-case="capitalize-all" strip-periods="false" font-style="italic" font-variant="normal"/>
+      </if>
+      <else-if type="chapter" match="any"/>
+      <else>
+        <text variable="title" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author" font-variant="normal">
+      <name delimiter="," and="symbol" initialize-with="" name-as-sort-order="all"/>
+      <label form="short" prefix=", "/>
+      <et-al font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="volume"/>
+      <else-if variable="DOI">
+        <text variable="DOI" prefix="doi:"/>
+      </else-if>
+      <else-if type="webpage" match="any">
+        <text variable="URL"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issuance">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song thesis chapter paper-conference" match="any">
+        <group delimiter=", " prefix="(" suffix=").">
+          <text variable="publisher" form="long"/>
+          <text variable="publisher-place" form="short"/>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+      <else>
+        <date prefix="(" suffix=")." variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal article" match="any">
+        <text variable="container-title" font-style="italic"/>
+      </if>
+      <else-if type="paper-conference" match="any">
+        <text variable="container-title" form="short"/>
+      </else-if>
+      <else>
+        <text variable="container-title" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <names variable="editor" prefix="(" suffix=")">
+          <label form="short" suffix=" "/>
+          <name and="symbol" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="6" et-al-use-first="1" second-field-align="flush" entry-spacing="0">
+    <layout>
+      <text variable="citation-number" suffix="."/>
+      <group delimiter=" ">
+        <text macro="author" suffix="."/>
+        <text macro="title"/>
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <text term="in" form="long" plural="false"/>
+          </if>
+        </choose>
+        <text macro="container-title"/>
+        <text macro="editor"/>
+        <group font-weight="bold">
+          <text variable="volume" form="short" font-weight="normal" suffix=","/>
+        </group>
+        <text variable="page"/>
+        <choose>
+          <if type="webpage" match="any">
+            <text value="[online]"/>
+          </if>
+        </choose>
+        <text macro="issuance"/>
+        <text macro="access"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

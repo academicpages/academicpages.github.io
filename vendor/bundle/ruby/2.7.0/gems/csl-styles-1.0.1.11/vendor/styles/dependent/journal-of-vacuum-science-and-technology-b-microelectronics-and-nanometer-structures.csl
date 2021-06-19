@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- American Institute of Physics (AIP), generated from "aip" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Journal of Vacuum Science &amp; Technology B: Microelectronics and Nanometer Structures</title>
+    <id>http://www.zotero.org/styles/journal-of-vacuum-science-and-technology-b-microelectronics-and-nanometer-structures</id>
+    <link href="http://www.zotero.org/styles/journal-of-vacuum-science-and-technology-b-microelectronics-and-nanometer-structures" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-institute-of-physics" rel="independent-parent"/>
+    <link href="http://publishing.aip.org/authors" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <category field="chemistry"/>
+    <issn>1071-1023</issn>
+    <eissn>1520-8567</eissn>
+    <updated>2017-01-08T03:24:49+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

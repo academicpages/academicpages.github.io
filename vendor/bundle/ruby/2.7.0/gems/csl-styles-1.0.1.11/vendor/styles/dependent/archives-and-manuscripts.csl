@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Taylor & Francis, generated from "taylor-and-francis" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Archives and Manuscripts</title>
+    <id>http://www.zotero.org/styles/archives-and-manuscripts</id>
+    <link href="http://www.zotero.org/styles/archives-and-manuscripts" rel="self"/>
+    <link href="http://www.zotero.org/styles/style-manual-australian-government-note" rel="independent-parent"/>
+    <link href="https://www.tandfonline.com/action/authorSubmission?journalCode=raam20&amp;page=instructions#style" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <issn>0157-6895</issn>
+    <eissn>2164-6058</eissn>
+    <updated>2018-07-08T17:36:26+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

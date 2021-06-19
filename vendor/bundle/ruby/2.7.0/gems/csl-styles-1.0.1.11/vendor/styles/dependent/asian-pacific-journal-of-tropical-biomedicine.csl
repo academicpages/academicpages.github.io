@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Asian Pacific Journal of Tropical Biomedicine</title>
+    <title-short>APJTB</title-short>
+    <id>http://www.zotero.org/styles/asian-pacific-journal-of-tropical-biomedicine</id>
+    <link href="http://www.zotero.org/styles/asian-pacific-journal-of-tropical-biomedicine" rel="self"/>
+    <link href="http://www.zotero.org/styles/hainan-medical-university-journal-publisher" rel="independent-parent"/>
+    <link href="http://apjtb.com/zy/f3.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <issn>2221-1691</issn>
+    <updated>2017-03-25T01:43:31+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

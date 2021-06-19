@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>National Archives of Australia</title>
+    <id>http://www.zotero.org/styles/national-archives-of-australia</id>
+    <link href="http://www.zotero.org/styles/national-archives-of-australia" rel="self"/>
+    <link href="http://naa.gov.au/about-us/publications/fact-sheets/fs07.aspx" rel="documentation"/>
+    <author>
+      <name>Tim Sherratt</name>
+      <email>tim@discontents.com.au</email>
+    </author>
+    <category citation-format="note"/>
+    <summary>National Archives of Australia - simple citations</summary>
+    <updated>2013-04-28T21:56:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <citation>
+    <layout>
+      <text prefix="NAA: " variable="archive_location"/>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key variable="archive_location"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=", " prefix="National Archives of Australia: ">
+        <text variable="archive_location"/>
+        <text variable="title" quotes="true"/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </group>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
+  <info>
+    <title>Springer - Basic (author-date, no "et al.", with issue numbers)</title>
+    <id>http://www.zotero.org/styles/springer-basic-author-date-no-et-al-with-issue</id>
+    <link href="http://www.zotero.org/styles/springer-basic-author-date-no-et-al-with-issue" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-basic-author-date" rel="template"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/instruct-authors-e.pdf" rel="documentation"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/manuscript-guidelines-1.0.pdf" rel="documentation"/>
+    <!-- This style corresponds to 'Springer Basic' in the pdf document 'Key Style Points' at this url -->
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/Key_Style_Points_1.0.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="generic-base"/>
+    <updated>2020-09-16T03:58:32+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="edition" form="short">edn.</term>
+    </terms>
+  </locale>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book">
+        <group delimiter=", ">
+          <text variable="title"/>
+          <text macro="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-parenth">
+    <date prefix="(" suffix=")" variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true">
+    <sort>
+      <key variable="issued"/>
+      <key macro="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <text macro="year"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="author" sort="ascending"/>
+    </sort>
+    <layout>
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="year-parenth"/>
+        <text macro="title"/>
+      </group>
+      <choose>
+        <!--    Book chapter
+             Brown B, Aaron M (2001) The politics of nature.
+             In: Smith J (ed) The rise of modern genomics, 3rd edn.
+             Wiley, New York, pp 230-257 -->
+        <if type="chapter paper-conference" match="any">
+          <group delimiter=" " prefix=". ">
+            <text term="in" text-case="capitalize-first" suffix=":"/>
+            <names variable="editor">
+              <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+              <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+            </names>
+            <group delimiter=", ">
+              <text variable="container-title"/>
+              <text macro="edition"/>
+            </group>
+          </group>
+          <group prefix=". " delimiter=", ">
+            <text variable="publisher"/>
+            <text variable="publisher-place"/>
+            <group delimiter=" ">
+              <label variable="page" form="short" strip-periods="true"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="article-journal">
+          <choose>
+            <if variable="page volume" match="any">
+              <!--    Journal article
+                   Gamelin FX, Baquet G, Berthoin S, Thevenet D, Nourry C, Nottin S, Bosquet L (2009)
+                   Effect of high intensity intermittent training on heart rate variability in prepubescent children.
+                   Eur J Appl Physiol 105:731-738. doi: 10.1007/s00421-008-0955-8
+                   Ideally, the names of all authors should be provided, but the usage of "et al"
+                   in long author lists will also be accepted:
+                   Smith J, Jones M Jr, Houghton L et al (1999)
+                   Future of health insurance. N Engl J Med 965:325-329   -->
+              <group prefix=". ">
+                <group delimiter="">
+                  <text variable="container-title" form="short" strip-periods="true"/>
+                  <group delimiter="" prefix=" ">
+                    <text variable="volume"/>
+                    <text variable="issue" prefix="(" suffix=")"/>
+                    <text variable="page" prefix=":"/>
+                  </group>
+                  <text prefix=". https://doi.org/" variable="DOI"/>
+                </group>
+              </group>
+            </if>
+            <else>
+              <!--    Article by DOI
+       Slifka MK, Whitton JL (2000) Clinical implications of dysregulated cytokine production.
+       J Mol Med. doi:10.1007/s001090000086     -->
+              <group prefix=". " delimiter=". ">
+                <text variable="container-title" form="short" strip-periods="true"/>
+                <text prefix="https://doi.org/" variable="DOI"/>
+              </group>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <!--    Book
+               South J, Blass B (2001) The future of modern genomics. Blackwell, London    -->
+          <group prefix=". " delimiter=", ">
+            <text variable="publisher"/>
+            <text variable="publisher-place"/>
+          </group>
+        </else-if>
+        <else-if type="webpage post-weblog" match="any">
+          <!--    Online document
+               Doe J (1999) Title of subordinate document. In: The dictionary of substances and their effects.
+               Royal Society of Chemistry. Available via DIALOG.
+               http://www.rsc.org/dose/title of subordinate document. Accessed 15 Jan 1999
+               Unfortunately, "Royal Society of Chemistry. Available via DIALOG." cannot seem to be mapped here -->
+          <group prefix=". " delimiter=". ">
+            <text prefix="In: " variable="container-title" form="short"/>
+            <text variable="URL"/>
+            <date variable="accessed">
+              <date-part prefix="Accessed " name="day" suffix=" "/>
+              <date-part name="month" form="short" suffix=" " strip-periods="true"/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <!--    Dissertation
+               Trent JW (1975) Experimental acute renal failure. Dissertation, University of California       -->
+          <group prefix=". " delimiter=", ">
+            <text variable="genre" text-case="capitalize-first"/>
+            <text variable="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <!--    None of the provided formats need to add manually (some data provided) -->
+          <group prefix=". " delimiter=" ">
+            <text variable="container-title" form="short"/>
+            <group delimiter=":">
+              <text variable="volume"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

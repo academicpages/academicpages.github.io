@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" default-locale="en-US" version="1.0" demote-non-dropping-particle="sort-only">
+  <!--This minimalist style file is developed to support, in the first place, the most typical reference types for WA Stylesheet users: Book, Journal Article, Book section, Edited Collection, and perhaps a basic Internet source. The first four reference types are now supported - for basic formatting features (e.g. excluding info about editions, series, additional contributors, etc.)  Many comments are left inside this for ease of later editing, PK 2010-03-03 - 2019-11-20 -->
+  <!--Special requirements from the database: 1. Subtitles must be properly set: colon + capitalised letter; 2. Only one place of publication filled in . Advice - any additional info, like additional places of publication etc, may be placed into some unwanted fields or into User notes.. -->
+  <info>
+    <title>Uniwersytet im. Adama Mickiewicza w Poznaniu - Wydział Anglistyki (English)</title>
+    <title-short>UAM WA</title-short>
+    <id>http://www.zotero.org/styles/uniwersytet-im-adama-mickiewicza-w-poznaniu-wydzial-anglistyki</id>
+    <link href="http://www.zotero.org/styles/uniwersytet-im-adama-mickiewicza-w-poznaniu-wydzial-anglistyki" rel="self"/>
+    <link href="http://wa.amu.edu.pl/wa/stylesheet" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="linguistics"/>
+    <category field="literature"/>
+    <summary>WA UAM bibliographic format compatible with WA Stylesheet 1.4 and above</summary>
+    <updated>2019-11-23T22:39:21+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!--TERMS-->
+  <!--CSL 1.0 specification says locale should override the terms below (PK 2010-02-27). Would the GB locale, which I tried earlier in 2010, be OK, and desirable for us now ?, PK 2012-02-04 -->
+  <!--<locale xml:lang="en-GB" xmlns="http://purl.org/net/xbiblio/csl">-->
+  <locale xml:lang="en">
+    <!-- Adding option below to force punctuation outside of closing quote; first tested on local copy of the style in Zotero editor, PK 2018-12-17 21:01 -->
+    <style-options punctuation-in-quote="false"/>
+    <terms>
+      <!-- <term name="no date"  form="short">[n.d.]</term> -->
+      <!-- Did not work with either citations or refs, 2019-11-20 16:08 -->
+      <term name="no date">[n.d.]</term>
+      <!-- Works in both citations and references now via macro , 2019-11-20 16:08  -->
+      <term name="in">in</term>
+      <term name="and" form="long">and</term>
+      <term name="page-range-delimiter">-</term>
+      <!-- override n-dash in page ranges, PK 2019-11-20 -->
+    </terms>
+  </locale>
+  <!--MACROS BEGIN: editor, author, author-short, access, title, publisher, year-date, edition-->
+  <macro name="editor">
+    <!--This macro is called in refs of book sections, 2010-03-15-->
+    <names variable="editor">
+      <name and="text" delimiter=", " delimiter-precedes-last="never"/>
+      <label form="short" text-case="lowercase" prefix=" (" suffix=".)" strip-periods="true"/>
+      <!--No subtitute rules = editor must always be provided; is this stylesheet compatible?, 2010-03-15-->
+    </names>
+  </macro>
+  <macro name="editor-refs">
+    <!-- Macro formatting direct references for edited collections, 2010-03-15 -->
+    <names variable="editor">
+      <name name-as-sort-order="first" and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never"/>
+      <label form="short" text-case="lowercase" prefix=" (" suffix=".)" strip-periods="true"/>
+      <!--produces (ed.) or (eds.), hence "label"-->
+      <!--No substitute rules = editor must always be provided; is this stylesheet compatible?, 2010-03-15-->
+    </names>
+  </macro>
+  <macro name="editor-short">
+    <!--Macro formatting direct in-text citations to edited collections, 2010-03-15-->
+    <names variable="editor">
+      <name form="short" and="text" delimiter="" initialize-with=". "/>
+      <!--removed delimiter=", " PK 2010-02-27-->
+      <!--short form = "only the family name and the non-dropping-particle" are included, good for in-text citations-->
+      <label form="short" text-case="lowercase" prefix=" " suffix="." strip-periods="true"/>
+      <!--produces "ed." or "eds.", hence "label" -->
+      <substitute>
+        <text variable="title"/>
+        <!--if editor field missing, put in title, just in case-->
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="first" and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="never"/>
+      <!--changed delimiter-precedes-last="always" to never, PK 2010-02-27-->
+      <label form="short" prefix=", " suffix="." text-case="lowercase" strip-periods="true"/>
+      <substitute>
+        <text macro="editor-refs"/>
+        <!--If no author in field, substitute editor from macro-->
+        <text variable="title"/>
+        <!--if still nothing, use title field as author; is this fully stylesheet compatible?, 2010-03-15-->
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <!--Macro formatting authors in-text citations, where "only the family name and the non-dropping-particle" are included, PK-->
+    <names variable="author">
+      <name form="short" and="text" delimiter="" initialize-with=". "/>
+      <!--removed delimiter=", " PK 2010-02-27-->
+      <substitute>
+        <!--<names variable="editor"/>-->
+        <text macro="editor-short"/>
+        <!--if author missing, use editor, it's probably the case of a direct citation to an edited collection that you want.., 2010-03-15-->
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <!--Macro for date of access in Internet sources, PK-->
+    <group delimiter=" " prefix="(" suffix=")">
+      <text variable="URL"/>
+    </group>
+    <group delimiter=" " prefix=" (" suffix=")">
+      <text value="date of access:"/>
+      <!--<text term="accessed" text-case="capitalize-first" suffix=" "/>-->
+      <!--Commented it as we have a manual solution above, PK, plus terms are unavoidably localised in CSL 0.8 (PK 2010-03-16). Maybe this to be experimented with now (PK 2012-02-04) -->
+      <date variable="accessed">
+        <date-part name="day" suffix=" "/>
+        <date-part name="month" suffix=". " form="short" strip-periods="true"/>
+        <!--Suffix would not be necessary if localisation worked, PK. Also tried  strip-periods="false" but would not validate against CSL 0.8.1 (PK 2010-03-16). Maybe this to be experimented with now (PK 2012-02-04) -->
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case motion_picture report song" match="any">
+        <text variable="title" font-style="italic" text-case="capitalize-first"/>
+        <!--text-case = sentence also tested, but it folds capitalised words to all lowercase leters, PK 2010-02-27-->
+      </if>
+      <else>
+        <text variable="title" text-case="capitalize-first"/>
+        <!--text-case = sentence also tested, but it folds capitalised words to all lowercase, PK 2010-02-27-->
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <group prefix="">
+      <!--deleted single space prefix - both citations and bibliography format a space by themselves, PK 2010-02-27-->
+      <choose>
+        <if variable="issued">
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </if>
+        <else>
+          <text term="no date"/>
+          <!--Not sure I want that localised term here.. (PK 2010-03-16). Maybe this to be experimented with now (PK 2012-02-04); OK, keeping it and applying the same macro and term now to both citations and references, PK 2019-11-20 16:55 -->
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <!--formatting applied when what is entered in the Zotero field BEGINS with a number, e.g. "2"-->
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <!--GETS localised :( - "2." instead of "2nd" (PK 2010-03-16). Maybe this to be experimented with now (PK 2012-02-04)-->
+          <text term="edition" form="long" suffix="."/>
+          <!--??? WA stylesheet requires "(2nd edition.)", so changed short form to long, Why does it NOT get localised, I wonder (PK 2010-03-16). Maybe this to be experimented with now (PK 2012-02-04)  -->
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+        <!--This is what happens when what is entered in the Edition field is only text; edition is one of "standard variables", which probably means contents of the mapped field are simply read -->
+      </else>
+    </choose>
+  </macro>
+  <!--MACROS END-->
+  <!--CITATION BEGIN-->
+  <citation et-al-min="3" et-al-use-first="1" et-al-subsequent-min="3" et-al-subsequent-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="true" collapse="year">
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text macro="author-short"/>
+          <text macro="year-date"/>
+        </group>
+      </group>
+      <text prefix=": " variable="locator"/>
+      <!--WA Stylesheet basically uses only pages as locators, so I added colon as prefix, PK -->
+    </layout>
+  </citation>
+  <!--BIBLIOGRAPHY BEGIN-->
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <!--citations are first sorted by the output of the author macro-->
+      <key macro="year-date"/>
+      <!--added secondary sort by year-date, PK 2010-02-27-->
+      <!--Using macros instead of variables as sort keys is especially useful in case of substitutions (e.g., if no authors are specified, sort according to the translators/editors), or when sorting should be according to year instead of date of issue.-->
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <text macro="author" suffix="."/>
+      <!--Always begin with author; if author not there -> see the called procedures in macro=author above-->
+      <text macro="year-date" prefix=" " suffix="."/>
+      <!-- Using macro to insert term no date if missing, cf. citations, PK 2019-11-20 16:57 -->
+      <choose>
+        <if type="bill book graphic legal_case motion_picture report song" match="any">
+          <!--BOOK-->
+          <!--"book" is a generic fallback for book, film, artwork, report, bill, case, hearing, statute, audioRecording, videoRecording and computerProgram-->
+          <group prefix=" " delimiter=" ">
+            <!--prefix " " is necessary to keep following comma from going under the end-quote, CLS 0.8.1 does not yet support localisation for this (PK 2010-03-16). This to be experimented with now we have CSL 1.0 (PK 2012-02-04). -->
+            <text macro="title" suffix="."/>
+            <text macro="edition" prefix="(" suffix=".)"/>
+            <!--<text macro="editor" suffix="."/>-->
+            <!--Removed this. Book do not need editor lists here, 2010-03-15-->
+          </group>
+          <text prefix=" " suffix="." macro="publisher"/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <!--incl. BOOK-SECTION -->
+          <!--"chapter" is a generic fallback for bookSection, encyclopediaArticle, dictionaryEntry, conferencePaper-->
+          <text macro="title" prefix=" " quotes="true"/>
+          <!--Removed suffix=".", PK 2010-02-27-->
+          <group prefix="" delimiter=" ">
+            <!-- 2014-02-07 10:00 - removed space in prefix to eliminate surplus space before ", in". CSL1 apparently works well localising this. -->
+            <!-- 2010-03-06: prefix " " is necessary to keep following comma from going under the end-quote, CLS 0.8.1 does not yet support localisation for this (PK 2010-03-16). Maybe this to be experimented with now (PK 2012-02-04) -->
+            <!--<text term="in" text-case="lowercase" prefix=", " suffix=":"/>-->
+            <!--localised term: in in English, w in Polish etc. , which so far resists localisation redirection in CLS 0.8.1 (PK 2010-03-16). Maybe this to be experimented with now (PK 2012-02-04) -->
+            <text value="in" text-case="lowercase" prefix=", " suffix=":"/>
+            <!--Imposed "in" against localisation (PK 2010-03-16). Maybe this to be experimented with now with CSL 1.0 (PK 2012-02-04) -->
+            <text macro="editor" suffix=", "/>
+            <!--Removed prefix=", in: " -->
+            <text variable="container-title" font-style="italic" suffix="."/>
+            <text variable="collection-title" suffix=","/>
+            <group suffix=".">
+              <text macro="publisher"/>
+              <group prefix=", ">
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <!--Other types, incl Journal article , version beyond suggested by POBrien333 , PK 2019-11-20 -->
+          <group prefix=" " delimiter=", ">
+            <text macro="title" quotes="true"/>
+            <group delimiter=" " suffix=".">
+              <text variable="container-title" font-style="italic"/>
+              <group delimiter=": ">
+                <group delimiter=", ">
+                  <text variable="volume"/>
+                  <text variable="issue"/>
+                </group>
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </else>
+      </choose>
+      <text prefix=" " macro="access" suffix="."/>
+    </layout>
+  </bibliography>
+</style>

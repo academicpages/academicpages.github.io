@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Copernicus, generated from "copernicus" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Archives Animal Breeding</title>
+    <id>http://www.zotero.org/styles/archives-animal-breeding</id>
+    <link href="http://www.zotero.org/styles/archives-animal-breeding" rel="self"/>
+    <link href="http://www.zotero.org/styles/copernicus-publications" rel="independent-parent"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="zoology"/>
+    <issn>0003-9438</issn>
+    <eissn>2363-9822</eissn>
+    <updated>2018-09-09T04:56:26+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

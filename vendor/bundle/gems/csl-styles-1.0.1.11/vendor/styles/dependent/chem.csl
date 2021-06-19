@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Cell Press - Research Journals, generated from "cell-press-research" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Chem</title>
+    <id>http://www.zotero.org/styles/chem</id>
+    <link href="http://www.zotero.org/styles/chem" rel="self"/>
+    <link href="http://www.zotero.org/styles/cell-numeric-superscript" rel="independent-parent"/>
+    <link href="http://www.cell.com/chem/authors" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="chemistry"/>
+    <eissn>2451-9294</eissn>
+    <updated>2017-08-23T02:13:15+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

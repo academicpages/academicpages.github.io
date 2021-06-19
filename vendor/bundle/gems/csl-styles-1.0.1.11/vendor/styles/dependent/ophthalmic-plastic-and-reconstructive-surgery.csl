@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Ophthalmic Plastic and Reconstructive Surgery</title>
+    <title-short>OPRS</title-short>
+    <id>http://www.zotero.org/styles/ophthalmic-plastic-and-reconstructive-surgery</id>
+    <link href="http://www.zotero.org/styles/ophthalmic-plastic-and-reconstructive-surgery" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="http://edmgr.ovid.com/oprs/accounts/ifauth.htm" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0740-9303</issn>
+    <eissn>1537-2677</eissn>
+    <updated>2017-01-21T05:36:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

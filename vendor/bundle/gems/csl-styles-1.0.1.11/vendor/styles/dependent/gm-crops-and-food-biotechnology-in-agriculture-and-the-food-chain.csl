@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/landes-bioscience -->
+  <info>
+    <title>GM Crops and Food: Biotechnology in Agriculture and the Food Chain</title>
+    <id>http://www.zotero.org/styles/gm-crops-and-food-biotechnology-in-agriculture-and-the-food-chain</id>
+    <link href="http://www.zotero.org/styles/gm-crops-and-food-biotechnology-in-agriculture-and-the-food-chain" rel="self"/>
+    <link href="http://www.zotero.org/styles/landes-bioscience-journals" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>1938-1999</issn>
+    <eissn>1938-2006</eissn>
+    <updated>2014-05-16T00:22:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

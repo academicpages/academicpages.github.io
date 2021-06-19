@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"pattern:ETI""Addressable::Template#pattern;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"4@return [String] The Template object's pattern.;T:
+@fileI" lib/addressable/template.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Addressable::Template;TcRDoc::NormalClass0

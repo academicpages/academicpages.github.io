@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only">
+  <!-- Polyglot; journal publishes in English and German -->
+  <info>
+    <title>TATuP - Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis</title>
+    <title-short>TATuP</title-short>
+    <id>http://www.zotero.org/styles/tatup-zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis</id>
+    <link href="http://www.zotero.org/styles/tatup-zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard-institut-fur-praxisforschung-de" rel="template"/>
+    <link href="http://www.tatup.de/index.php/tatup/about/submissions" rel="documentation"/>
+    <link href="http://www.tatup.de/downloads/TATuP_Zitationsstil_citation_style.pdf" rel="documentation"/>
+    <contributor>
+      <name>Patrick O'Brien</name>
+      <email>citationstyler@gmail.com</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="political_science"/>
+    <category field="social_science"/>
+    <issn>1619-7623</issn>
+    <eissn>2199-9201</eissn>
+    <updated>2019-10-03T03:52:02+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="anonymous" form="short">o. A.</term>
+      <term name="no date" form="short">o. J.</term>
+      <term name="et-al">et al.</term>
+      <term name="accessed">zuletzt geprüft am</term>
+      <term name="available at">Online verfügbar unter</term>
+      <term name="editor" form="short">Hg.</term>
+    </terms>
+  </locale>
+  <locale xml:lang="en">
+    <terms>
+      <term name="anonymous" form="short">n.a.</term>
+      <term name="no date" form="short">n.d.</term>
+      <term name="accessed">last accessed on</term>
+      <term name="available at">available online at</term>
+    </terms>
+  </locale>
+  <macro name="editor">
+    <names variable="editor" delimiter="; ">
+      <name delimiter="; " and="text"/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="anon">
+    <text term="anonymous" form="short"/>
+  </macro>
+  <macro name="author">
+    <names variable="author" delimiter="; ">
+      <name name-as-sort-order="all" sort-separator=", " delimiter="; " delimiter-precedes-last="always" form="long"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor translator"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author" delimiter="; ">
+      <name form="short" delimiter=", " and="text" delimiter-precedes-last="contextual" initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix="DOI: "/>
+      </if>
+      <else>
+        <choose>
+          <if type="webpage post post-weblog" match="any">
+            <group delimiter=", ">
+              <group>
+                <text term="available at" text-case="capitalize-first" suffix=" "/>
+                <text variable="URL"/>
+              </group>
+              <group delimiter=" ">
+                <text term="accessed"/>
+                <date variable="accessed">
+                  <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+                  <date-part name="month" form="numeric-leading-zeros" suffix="."/>
+                  <date-part name="year" form="long"/>
+                </date>
+              </group>
+            </group>
+          </if>
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="genre">
+    <choose>
+      <if type="report thesis" match="any">
+        <group prefix=" (" suffix=")">
+          <text variable="genre"/>
+          <text variable="number" prefix=" Nr. "/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="paper-conference" match="none">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="locator">
+    <choose>
+      <if type="article-journal">
+        <text variable="volume" suffix=" "/>
+        <text variable="issue" prefix="(" suffix=")"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="locator-citation">
+    <group delimiter=" ">
+      <label variable="locator" form="short"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <macro name="published-date">
+    <choose>
+      <if type="article-newspaper speech" match="any">
+        <date variable="issued">
+          <date-part name="day" form="numeric" suffix="."/>
+          <date-part name="month" form="numeric" suffix="."/>
+          <date-part name="year" form="long"/>
+        </date>
+      </if>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if type="chapter article-journal article-magazine article-newspaper" match="any">
+        <group delimiter=" ">
+          <label variable="page" form="short"/>
+          <text variable="page"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group>
+          <number variable="edition" form="numeric" suffix=". "/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-prefix">
+    <choose>
+      <if type="chapter article-journal" match="any">
+        <text term="in" text-case="capitalize-first" suffix=":"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal" match="any">
+        <text variable="container-title"/>
+      </if>
+      <else-if type="paper-conference" match="any">
+        <group delimiter=". " suffix=".">
+          <text variable="event"/>
+          <group delimiter=", ">
+            <text variable="event-place"/>
+            <date form="text" date-parts="year-month-day" variable="issued"/>
+          </group>
+        </group>
+      </else-if>
+      <else>
+        <text variable="container-title" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <group>
+          <text macro="author-short" suffix=" "/>
+          <text macro="year-date"/>
+        </group>
+        <text macro="locator-citation"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="1" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" " suffix=".">
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <group delimiter="; ">
+              <text macro="author"/>
+            </group>
+          </if>
+          <else>
+            <group delimiter="; ">
+              <text macro="author"/>
+              <text macro="editor"/>
+            </group>
+          </else>
+        </choose>
+        <text macro="year-date" prefix="(" suffix="):"/>
+        <text macro="title" suffix="."/>
+        <text macro="container-prefix"/>
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <text macro="editor" suffix=":"/>
+          </if>
+        </choose>
+        <text macro="container-title" font-style="normal"/>
+        <text macro="edition"/>
+        <text macro="genre"/>
+        <group delimiter=", ">
+          <text macro="publisher"/>
+          <group delimiter=", " prefix="(" suffix=")">
+            <text variable="collection-title"/>
+          </group>
+          <text macro="locator"/>
+          <text macro="published-date"/>
+          <text macro="pages"/>
+          <text macro="access"/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

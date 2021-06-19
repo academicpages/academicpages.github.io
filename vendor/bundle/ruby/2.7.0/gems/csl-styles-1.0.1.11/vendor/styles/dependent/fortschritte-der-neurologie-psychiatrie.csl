@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="de-DE">
+  <!-- Thieme Fachzeitschriften, generated from "thieme" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Fortschritte der Neurologie - Psychiatrie</title>
+    <id>http://www.zotero.org/styles/fortschritte-der-neurologie-psychiatrie</id>
+    <link href="http://www.zotero.org/styles/fortschritte-der-neurologie-psychiatrie" rel="self"/>
+    <link href="http://www.zotero.org/styles/thieme-german" rel="independent-parent"/>
+    <link href="http://www.thieme.de/de/autorenlounge/fuer-zeitschriftenautoren-1789.htm" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0720-4299</issn>
+    <eissn>1439-3522</eissn>
+    <updated>2017-07-15T03:31:52+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

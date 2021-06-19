@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/tr-law-australia -->
+  <info>
+    <title>The Tort Law Review</title>
+    <title-short>Tort L Rev</title-short>
+    <id>http://www.zotero.org/styles/the-tort-law-review</id>
+    <link href="http://www.zotero.org/styles/the-tort-law-review" rel="self"/>
+    <link href="http://www.zotero.org/styles/thomson-reuters-legal-tax-and-accounting-australia" rel="independent-parent"/>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <issn>1039-3285</issn>
+    <updated>2014-05-29T23:47:59+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

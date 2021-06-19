@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="tr-TR">
+  <info>
+    <translator>
+      <name>ekizyener</name>
+    </translator>
+    <translator>
+      <name>Binici</name>
+    </translator>
+    <translator>
+      <name>cengiza</name>
+    </translator>
+    <translator>
+      <name>Muhammet Tarakçı</name>
+      <email>muhammettarakci@gmail.com</email>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" form="numeric-leading-zeros" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="."/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">erişim</term>
+    <term name="and">ve</term>
+    <term name="and others">ve diğerleri</term>
+    <term name="anonymous">anonim</term>
+    <term name="anonymous" form="short">anonim</term>
+    <term name="at">de</term>
+    <term name="available at">erişim adresi</term>
+    <term name="by">by</term>
+    <term name="circa">yaklaşık</term>
+    <term name="circa" form="short">yakl.</term>
+    <term name="cited">a.yer</term>
+    <term name="edition">
+      <single>baskı</single>
+      <multiple>baskı</multiple>
+    </term>
+    <term name="edition" form="short">bs</term>
+    <term name="et-al">vd.</term>
+    <term name="forthcoming">gelecek</term>
+    <term name="from">gönderen</term>
+    <term name="ibid">a.g.e.</term>
+    <term name="in">içinde</term>
+    <term name="in press">basımda</term>
+    <term name="internet">internet</term>
+    <term name="interview">mülakat</term>
+    <term name="letter">mektup</term>
+    <term name="no date">tarih yok</term>
+    <term name="no date" form="short">t.y.</term>
+    <term name="online">çevrimiçi</term>
+    <term name="presented at">program adı:</term>
+    <term name="reference">
+      <single>kaynak</single>
+      <multiple>kaynaklar</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>kay.</single>
+      <multiple>kay.</multiple>
+    </term>
+    <term name="retrieved">geliş tarihi</term>
+    <term name="scale">ölçek</term>
+    <term name="version">versiyon</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">M.S.</term>
+    <term name="bc">M.Ö.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">“</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">-</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">.</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">birinci</term>
+    <term name="long-ordinal-02">ikinci</term>
+    <term name="long-ordinal-03">üçüncü</term>
+    <term name="long-ordinal-04">dördüncü</term>
+    <term name="long-ordinal-05">beşinci</term>
+    <term name="long-ordinal-06">altıncı</term>
+    <term name="long-ordinal-07">yedinci</term>
+    <term name="long-ordinal-08">sekizinci</term>
+    <term name="long-ordinal-09">dokuzuncu</term>
+    <term name="long-ordinal-10">onuncu</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>kitap</single>
+      <multiple>kitaplar</multiple>
+    </term>
+    <term name="chapter">
+      <single>bölüm</single>
+      <multiple>bölümler</multiple>
+    </term>
+    <term name="column">
+      <single>sütun</single>
+      <multiple>sütunlar</multiple>
+    </term>
+    <term name="figure">
+      <single>şekil</single>
+      <multiple>şekiller</multiple>
+    </term>
+    <term name="folio">
+      <single>folyo</single>
+      <multiple>folyo</multiple>
+    </term>
+    <term name="issue">
+      <single>sayı</single>
+      <multiple>sayı</multiple>
+    </term>
+    <term name="line">
+      <single>satır</single>
+      <multiple>satırlar</multiple>
+    </term>
+    <term name="note">
+      <single>not</single>
+      <multiple>notlar</multiple>
+    </term>
+    <term name="opus">
+      <single>eser</single>
+      <multiple>eserler</multiple>
+    </term>
+    <term name="page">
+      <single>sayfa</single>
+      <multiple>sayfalar</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>sayfa sayısı</single>
+      <multiple>sayfa sayıları</multiple>
+    </term>
+    <term name="paragraph">
+      <single>paragraf</single>
+      <multiple>paragraflar</multiple>
+    </term>
+    <term name="part">
+      <single>kısım</single>
+      <multiple>kısımlar</multiple>
+    </term>
+    <term name="section">
+      <single>bölüm</single>
+      <multiple>bölümler</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>madde</single>
+      <multiple>maddeler</multiple>
+    </term>
+    <term name="verse">
+      <single>ayet</single>
+      <multiple>ayetler</multiple>
+    </term>
+    <term name="volume">
+      <single>cilt</single>
+      <multiple>ciltler</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">kit.</term>
+    <term name="chapter" form="short">böl.</term>
+    <term name="column" form="short">süt.</term>
+    <term name="figure" form="short">şek.</term>
+    <term name="folio" form="short">fl.</term>
+    <term name="issue" form="short">sy</term>
+    <term name="line" form="short">satır</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">a.yer</term>
+    <term name="page" form="short">
+      <single>s.</single>
+      <multiple>ss.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>s.</single>
+      <multiple>ss.</multiple>
+    </term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">ksm.</term>
+    <term name="section" form="short">blm.</term>
+    <term name="sub verbo" form="short">
+      <single>md.</single>
+      <multiple>md.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>v.</single>
+      <multiple>vv.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>c.</single>
+      <multiple>c.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>direktör</single>
+      <multiple>direktörler</multiple>
+    </term>
+    <term name="editor">
+      <single>editör</single>
+      <multiple>editörler</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>sorumlu editör</single>
+      <multiple>sorumlu editörler</multiple>
+    </term>
+    <term name="illustrator">
+      <single>çizen</single>
+      <multiple>çizenler</multiple>
+    </term>
+    <term name="translator">
+      <single>çeviren</single>
+      <multiple>çevirenler</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>editör &amp; çeviren</single>
+      <multiple>editörler &amp; çevirenler</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dir.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>ed.</single>
+      <multiple>ed.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>sor.ed.</single>
+      <multiple>sor.ed.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>çzm.</single>
+      <multiple>çzm.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>çev.</single>
+      <multiple>çev.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>ed. &amp; çev.</single>
+      <multiple>ed. &amp; çev.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">kitap editörü</term>
+    <term name="director" form="verb">direktör</term>
+    <term name="editor" form="verb">editör</term>
+    <term name="editorial-director" form="verb">sorumlu editör</term>
+    <term name="illustrator" form="verb">çizen</term>
+    <term name="interviewer" form="verb">röportaj yapan</term>
+    <term name="recipient" form="verb">alıcı</term>
+    <term name="reviewed-author" form="verb">tanıtım yazarı</term>
+    <term name="translator" form="verb">çeviren</term>
+    <term name="editortranslator" form="verb">düzenleyen &amp; çeviren by</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">ed.</term>
+    <term name="editorial-director" form="verb-short">sor.ed.</term>
+    <term name="illustrator" form="verb-short">çizen</term>
+    <term name="translator" form="verb-short">çev.</term>
+    <term name="editortranslator" form="verb-short">ed. &amp; çev.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">Ocak</term>
+    <term name="month-02">Şubat</term>
+    <term name="month-03">Mart</term>
+    <term name="month-04">Nisan</term>
+    <term name="month-05">Mayıs</term>
+    <term name="month-06">Haziran</term>
+    <term name="month-07">Temmuz</term>
+    <term name="month-08">Ağustos</term>
+    <term name="month-09">Eylül</term>
+    <term name="month-10">Ekim</term>
+    <term name="month-11">Kasım</term>
+    <term name="month-12">Aralık</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">Oca.</term>
+    <term name="month-02" form="short">Şub.</term>
+    <term name="month-03" form="short">Mar.</term>
+    <term name="month-04" form="short">Nis.</term>
+    <term name="month-05" form="short">May.</term>
+    <term name="month-06" form="short">Haz.</term>
+    <term name="month-07" form="short">Tem.</term>
+    <term name="month-08" form="short">Ağu.</term>
+    <term name="month-09" form="short">Eyl.</term>
+    <term name="month-10" form="short">Eki.</term>
+    <term name="month-11" form="short">Kas.</term>
+    <term name="month-12" form="short">Ara.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">Bahar</term>
+    <term name="season-02">Yaz</term>
+    <term name="season-03">Sonbahar</term>
+    <term name="season-04">Kış</term>
+  </terms>
+</locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- The Optical Society (OSA), generated from "osa" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>OSA Continuum</title>
+    <title-short>OSAC</title-short>
+    <id>http://www.zotero.org/styles/osa-continuum</id>
+    <link href="http://www.zotero.org/styles/osa-continuum" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-optical-society" rel="independent-parent"/>
+    <link href="https://www.osapublishing.org/submit/templates/default.cfm" rel="documentation"/>
+    <link href="https://www.osapublishing.org/submit/style/oestyleguide.cfm" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <eissn>2578-7519</eissn>
+    <updated>2020-04-04T03:13:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

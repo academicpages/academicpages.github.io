@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Ostrava Journal of English Philology</title>
+    <id>http://www.zotero.org/styles/ostrava-journal-of-english-philology</id>
+    <link href="http://www.zotero.org/styles/ostrava-journal-of-english-philology" rel="self"/>
+    <link href="http://www.zotero.org/styles/modern-language-association" rel="independent-parent"/>
+    <link href="http://ff.osu.cz/kaa/13256/guidelines-for-contributors/" rel="documentation"/>
+    <category citation-format="author"/>
+    <category field="linguistics"/>
+    <issn>1803-8174</issn>
+    <updated>2017-12-24T04:10:35+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>
