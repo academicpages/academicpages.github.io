@@ -19,8 +19,8 @@ Across the five boroughs, 55% of households do not own a car and only 22% of peo
 The large majority share of those commuting by transit or walking is not a statistical artifact -- it is the norm in every borough except Staten Island. This might not surprise anyone who has lived in New York City, but it is useful to see the data.
 
 <p float="left">
-  <img src="/images/cars_in_nyc/car-ownership.png" width="350" />
-  <img src="/images/cars_in_nyc/transit-commute.png" width="350" /> 
+  <img src="/images/cars_in_nyc/car-ownership.png" width="49%" />
+  <img src="/images/cars_in_nyc/transit-commute.png" width="49%" /> 
 </p>
 
 To get a granular view of the data, I visualize car ownership, and other tract-level statistics, on a map of New York City overlayed with subway lines: 
