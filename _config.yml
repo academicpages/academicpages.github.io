@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Soumyaranjan Dash"
   avatar           : "dash.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Senior Research Fellow"
+  location         : "West Bengal, India"
+  employer         : "CESSI, IISER Kolkata"
+  orcid            : "https://orcid.org/0000-0003-0103-6569"
+  googlescholar    : "https://goo.gl/ocXkvd"
+  email            : "sd16rs002@iiserkol.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sr-dash"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/soumyaranjan-dash-ba52613b/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
