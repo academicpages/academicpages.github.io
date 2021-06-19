@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in modeling techniques and algorithms on mixed-integer optimization and related problems. Especially, solving mixed-integer conic optimization problems is one of my ongoing research projects. I am also interested in applications of mathematical optimization to other engineering fields such as machine learning, production planning, and so on.
+I'm interested in modeling techniques and algorithms on mixed-integer optimization and related problems. In particular, solving mixed-integer conic optimization problems is one of my ongoing research projects. I am also interested in applications of mathematical optimization to other engineering fields such as machine learning, production planning, and so on.
 
 ---
 # Research Interests
@@ -36,22 +36,22 @@ I'm interested in modeling techniques and algorithms on mixed-integer optimizati
 1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Approximate Bayesian computation of Bézier simplices, arXiv preprint, arXiv:2104.04679 (2021)
 
 ## Refereed Journal Papers and Conference Proceedings
-1. Ken Kobayashi, Yuichi Takano and Kazuhide Nakata: Bilevel cutting-plane algorithm for solving cardinality-constrained mean-CVaR portfolio optimization problems. Journal of Global Optimization, (in press).
-1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike, Kento Uemura and Hiroki Arimura: Ordered counterfactual explanation by mixed-integer linear optimization. Proceedings of the 35th AAAI Conference on Artificial Intelligence, (in press).<br>
+1. Ken Kobayashi, Yuichi Takano and Kazuhide Nakata: Bilevel cutting-plane algorithm for solving cardinality-constrained mean-CVaR portfolio optimization problems. Journal of Global Optimization (in press).
+1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike, Kento Uemura and Hiroki Arimura: Ordered counterfactual explanation by mixed-integer linear optimization. Proceedings of the 35th AAAI Conference on Artificial Intelligence, 35 (2021), 11564--11574.<br>
  **Acceptance rate: 1692/7911 = 21.4%**.
 1. Tomokaze Shiratori, Ken Kobayashi and Yuichi Takano: Prediction of hierarchical time series using structured regularization and its application to artificial neural networks. PLOS ONE, 15 (2020), e0242099.
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi and Hiroki Arimura: DACE: Distribution-aware counterfactual explanation by mixed-integer linear optimization. Proceedings of the 29th International Joint Conference on Artificial Intelligence, 29 (2020) 2855--2862.<br>
  **Acceptance rate: 592/4717 = 12.6%**.
-1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic risk of Bézier simplex fitting. Proceedings of the 34th AAAI Conference on Artificial Intelligence, 34 (2020) 2416--2424.<br>
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic risk of Bézier simplex fitting. Proceedings of the 34th AAAI Conference on Artificial Intelligence, 34 (2020), 2416--2424.<br>
  **Acceptance rate: 1591/7737 = 20.6%**
 1. Ken Kobayashi and Yuichi Takano: A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems. Computational Optimization and Applications, 75 (2020), 493--513.
 1. Li Sun, Xiaoyi Yu, Liuan Wang, Jun Sun, Hiroya Inakoshi, Ken Kobayashi and Hiromichi Kobashi: Automatic neural network search method for open set recognition. The 26th IEEE International Conference on Image Processing, 26 (2019),  4090--4094.
 1. 西村直樹, 小林健, 吉住宗朔: 制約つき比例ハザードモデルを用いたヘアサロンの再来店状況分析. オペレーションズ・リサーチ, 64 (2018), 65--72.
-1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai and Masashi Sugiyama: Bézier Simplex Fitting: Describing Pareto fronts of simplicial problems with small samples in multi-objective optimization. Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 33 (2019), 2304--2313.<br>
+1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai and Masashi Sugiyama: Bézier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization. Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 33 (2019), 2304--2313.<br>
  **Acceptance rate: 1150/7095 = 16.2%**
 1. Ryuta Tamura, Ken Kobayashi, Yuichi Takano, Ryuhei Miyashiro, Kazuhide Nakata and Tomomi Matsui: Mixed integer quadratic optimization formulations for eliminating multicollinearity based on variance inflation factor. Journal of Global Optimization, 73 (2019), 431--446.
 1. Ryuta Tamura, Ken Kobayashi, Yuichi Takano, Ryuhei Miyashiro, Kazuhide Nakata and Tomomi Matsui: Best subset selection for eliminating multicollinearity. Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
-1. 高野祐一, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健, 田中研太郎, 中田和秀: ファジィクラスタワイズ回帰を用いた共同購入型クーポンサイトの閲覧傾向分析. オペレーションズ・リサーチ 59 (2014), 81--87.
+1. 高野祐一, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健, 田中研太郎, 中田和秀: ファジィクラスタワイズ回帰を用いた共同購入型クーポンサイトの閲覧傾向分析. オペレーションズ・リサーチ, 59 (2014), 81--87.
 
 ## Refereed Workshop Proceedings
 1. Mari Kajitani, Ken Kobayashi, Yuichi Ike, Takehiko Yamanashi, Yuhei Umeda, Yoshimasa Kadooka, and Gen Shinozaki; Application of Topological Data Analysis to Delirium Detection. Topological Data Analysis and Beyond, Workshop at NeurIPS 2020.
@@ -59,7 +59,7 @@ I'm interested in modeling techniques and algorithms on mixed-integer optimizati
 ## Non-Refereed  Journal Papers and Articles
 1. 田村隆太, 小林健, 高野祐一, 宮代隆平, 中田和秀, 松井知己: 多重共線性を考慮した回帰式の変数選択問題の定式化.  オペレーションズ・リサーチ, 63, (2018), 128--133.
 1.  山根智之, 菅原光太郎, 西村直樹, 小林健, 吉田佑輔, 高野祐一, 中田和秀:  時系列モデルによる商品販促効果の分析.  オペレーションズ・リサーチ, 61 (2016), 65--70.
-1. 小林健, 高野祐一, 宮代隆平, 中田和秀: 多重共線性を考慮した回帰式の変数選択--混合整数半正定値計画法を用いた解法--. 京都大学数理解析研究所講究録 1931 最適化アルゴリズムの進展・理論・応用・実装 (2014), 169--183.
+1. 小林健, 高野祐一, 宮代隆平, 中田和秀: 多重共線性を考慮した回帰式の変数選択--混合整数半正定値計画法を用いた解法--. 京都大学数理解析研究所講究録 1931 最適化アルゴリズムの進展・理論・応用・実装, (2014), 169--183.
 
 ## Others
 1. 小林健: 半正定値最適化問題に対する切除平面法と混合整数半正定値最適化問題への拡張. オペレーションズ・リサーチ, 65 (2020), 656--661.
@@ -70,15 +70,15 @@ I'm interested in modeling techniques and algorithms on mixed-integer optimizati
 # Presentations
 
 ## International Conferences
-1. Ken Kobayashi, Yuichi Takano and Kazuhide Nakata:  A bilevel cutting-plane algorithm for cardinality-constrained mean-CVaR optimization, 2020 INFORMS Annual Meeting, Online, October 2020.
+1. Ken Kobayashi, Yuichi Takano and Kazuhide Nakata:  A bilevel cutting-plane algorithm for cardinality-constrained mean-CVaR optimization, 2020 INFORMS Annual Meeting, Virtual Conference, October 2020.
 1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of Bézier Simplex Fitting, The 34th AAAI Conference on Artificial Intelligence (AAAI-20), New York Hilton Midtown, February 2020.
 1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems, 2019 INFORMS Annual Meeting, Washington Convention Center, October 2019.
 1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems,  International Conference on Nonlinear Analysis and Convex Analysis--International Conference on Optimization: Techniques and Applications (NACA-ICOTA2019), Future University Hakodate, August 2019.
 1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai and Masashi Sugiyama: Bézier simplex fitting: describing Pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI-19), Hilton Hawaiian Village Waikiki Beach Resort, February 2019.   
 
 ## Domestic Conferences
-1. 小林健, 高野祐一, 中田和秀: 基数制約つき CVaR 最小化問題に対する 2 重切除平面法. 日本オペレーションズ・リサーチ学会 2021 年春季研究発表会, オンライン, 2021 年 3 月.
-1.  田中章詞, 三内顕義, 小林健, 濱田直希:  似ベイズ計算​を用いたベジエ単体フィッティングの理論解析.  第 23 回情報論的学習理論ワークショップ, オンライン, 2020 年 11 月.
+1. 小林健, 高野祐一, 中田和秀: 基数制約つき CVaR 最小化問題に対する 2 重切除平面法. 日本オペレーションズ・リサーチ学会 2021 年春季研究発表会, オンライン発表, 2021 年 3 月.
+1.  田中章詞, 三内顕義, 小林健, 濱田直希:  近似ベイズ計算​を用いたベジエ単体フィッティングの理論解析.  第 23 回情報論的学習理論ワークショップ, オンライン発表, 2020 年 11 月.
 1. 小林健, 高野祐一:  混合整数半正定値最適化問題に対する分枝切除法と機械学習への応用.  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
 1.  田中章詞, 三内顕義, 小林健, 濱田直希:  ベジエ単体近似法の漸近リスク.  第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.
 1. 小林健, 高野祐一:      混合整数半正定値最適化問題に対する分枝切除法. 日本オペレーションズ･リサーチ学会研究部会 最適化とその応用 未来を担う若手研究者の集い 2019, 筑波大学, 2019 年 6 月.
