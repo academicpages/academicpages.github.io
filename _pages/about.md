@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am now a final-year Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing, China. My major research interests are Information Retrieval and Natural Language Processing. Prior to CASIA, I obtained my B.Eng. degree from Wuhan University (WHU) in 2016.  
+Hi! I will be joining Alimama Ad Tech at Alibaba Group. I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
 
 Research Interests
 ======
-My research targets at developing machine learning methods to analyze Web contents, especially in low-resource (e.g., cross-domain transfer, learning with noisy labels, and sequence generation with few paired data), multi-task, multi-modal and adversarial attack scenarios. Currently, I focus on the following areas:
-* **Opinion mining and opinionated/argumentative text generation**  
-Stance analysis and computational argumentation synthesis
-* **Rumor verification and fact checking**  
-Determine the correctness of: 1) textual claims, and 2) structured triples in knowledge graphs      
+My research interests are in computational advertising and information retrieval, and broader interests include transfer learning, text generation, reinforcement learning and their applications in advertising, search and recommendation. During my Ph.D., my research interests were in natural language processing and social media analytics, especially opinion mining and opinionated/argumentative text generation in low-resource (e.g., cross-domain transfer, learning with noisy labels, and sequence generation with few paired data), multi-task, multi-modal, and adversarial attack scenarios.       
 
 Experiences and Education
 ======
@@ -25,8 +21,8 @@ Experiences and Education
 [Experiences](experiences/)  
 
 ### Education  
-* **Sep. 2016 - Jun. 2021 (expected).** Ph.D. Student, Majoring in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China.
-* **Sep. 2012 - Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering), [Wuhan University (WHU)](https://en.whu.edu.cn/), Wuhan, China. Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
+* **Sep. 2016 - Jun. 2021.** Ph.D., Majoring in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/).
+* **Sep. 2012 - Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering), [Wuhan University (WHU)](https://en.whu.edu.cn/). Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
 * **Sep. 2009 - Jul. 2012.** [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School), Tianjin, China.  
 
 Publications
