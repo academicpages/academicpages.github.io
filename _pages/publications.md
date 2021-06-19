@@ -16,11 +16,14 @@ author_profile: true
 {% endfor %} -->
 
 # Publications
- 
+
+### *The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing*
+<ins>Valentina Pyatkin<sup>*</sup></ins>, Shoval Sadde<sup>*</sup>, Aynat Rubinstein, Paul Portner, Reut Tsarfaty.  
+In ACL 2021.  
+
 ### *QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines*
 <ins>Valentina Pyatkin</ins>, Ayal Klein, Reut Tsarfaty, Ido Dagan.  
 In EMNLP 2020.  
-[PDF](https://valentinapy.github.io/files/QA_Discourse_Camera_Ready.pdf)
 
 ### *QA-Nom: Question-Answer driven SRL for Nominalizations*
 Ayal Klein, Jonathan Mamou, <ins>Valentina Pyatkin</ins>, Daniela Stepanov, Hangfeng He, Dan Roth, Luke Zettlemoyer, Ido Dagan.  
@@ -30,3 +33,4 @@ In COLING 2020.
 <ins>Valentina Pyatkin</ins>, Bonnie Webber.    
 In EACL SRW 2017.  
 
+* : Equal contribution.
