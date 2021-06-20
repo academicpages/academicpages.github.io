@@ -16,7 +16,7 @@ My research interests are in computational advertising and information retrieval
 
 During my Ph.D., my research interests were in natural language processing and social media analytics, especially opinion mining and opinionated/argumentative text generation in low-resource (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data), multi-task, multi-modal and adversarial attack scenarios.       
 
-Experiences and Education
+Experience and Education
 ======
 
 ### Experience  
