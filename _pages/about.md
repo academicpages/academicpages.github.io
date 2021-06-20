@@ -20,7 +20,7 @@ Experiences and Education
 ======
 
 ### Experiences  
-* Jul. 2021 — Present. Algorithm Expert, Alimama Ad Tech @ Alibaba Group.   
+* **Jul. 2021 — Present.** Algorithm Expert, Alimama Ad Tech @ [Alibaba Group](https://www.alibabagroup.com/en/global/home).   
 Working on data-driven algorithms to improve the performance of online advertising.  
 
 ### Education  
