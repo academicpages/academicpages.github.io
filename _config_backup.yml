@@ -249,7 +249,25 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+scholar:
+  style: apa
+  locale: en
 
+  sort_by: none
+  order: ascending
+
+  source: _bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference | replace_first: 'Dash, S.', '<b>Dash, S.</b>'}}"
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+  
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
