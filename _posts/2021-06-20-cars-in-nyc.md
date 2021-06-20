@@ -47,7 +47,9 @@ No other single variable is as good at predicting car ownership: median househol
 
 ![Car ownership vs poverty](/images/cars_in_nyc/poverty-regression.png)
 
-The plots and regression results above show that across neighborhoods with a similar fraction of transit/walk commuters, neighborhoods with a higher rate of poverty have a lower rate of car ownership. Using all four variables: share of commute by public transit, the share of commute by walking, poverty rate, average household size, explain 87% of the variance in car ownership. When controlled for the rate of poverty and household size, *a 10% increase in public transit use in a neighborhood is associated with a 9% drop in car ownership*.
+The plots and regression results above show that across neighborhoods with a similar fraction of transit/walk commuters, neighborhoods with a higher rate of poverty have a lower rate of car ownership. Using all four variables: share of commute by public transit, the share of commute by walking, poverty rate, average household size, explain 87% of the variance in car ownership. 
+
+When controlled for the rate of poverty and household size, *a 10% increase in public transit use in a neighborhood is associated with a 9% drop in car ownership*.
 
 Intrigued by the modest negative correlation of the poverty rate with car ownership in a neighborhood but the near lack of correlation between the median household income and car ownership rate, I decided to investigate it further. The scatter plot of median household income vs car ownership rate offers some clues: high-income neighborhoods, especially in Manhattan and Brooklyn, have a lower rate of car ownership than the linear regressor would predict. This appears to be because a large fraction of the people in those neighborhoods commute by transit or walk.
 
