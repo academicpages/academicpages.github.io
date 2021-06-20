@@ -1,7 +1,10 @@
 ---
 title: 'Who owns a car in New York City?'
 date: 2021-06-20
-permalink: /posts/2021/06/cars-in-nyc/
+permalink: /posts/2021/06/who-owns-cars-in-nyc/
+author_profile: false
+redirect_from:
+  - /posts/2021/06/cars-in-nyc
 tags:
   - New York City
   - Transit
