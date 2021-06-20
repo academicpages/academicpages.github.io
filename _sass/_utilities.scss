@@ -213,6 +213,10 @@ body:hover .visually-hidden button {
   .fa-github-square {
     color: $github-color;
   }
+  
+  .fa-gitlab {
+    color: $gitlab-color;
+  }
 
   .fa-google-plus,
   .fa-google-plus-square {
@@ -281,6 +285,11 @@ body:hover .visually-hidden button {
   .fa-xing,
   .fa-xing-square {
     color: $xing-color;
+  }
+  
+  .ai-orcid,
+  .ai-orcid-square {
+    color: $orcid-color;
   }
 }
 

@@ -2,7 +2,7 @@
 title: "A Magnetofrictional model for the solar corona"
 collection: publications
 permalink: /publication/2018-DashetalMagnetofriction
-date: 2018-02
+date: 2018-02-25
 
 paperurl: 'https://doi.org/10.3847/1538-4357/aaa1eb'
 link: 'https://doi.org/10.3847/1538-4357/aaa1eb'
