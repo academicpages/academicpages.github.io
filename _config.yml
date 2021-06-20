@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Venkatesh Elango"
   avatar           : "profile.png"
-  bio              : 
+  bio              : " "
   location         : "New York, NY"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/venkateshelango"
   orcid            :
   pinterest        :
   soundcloud       :
