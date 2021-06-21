@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Multi-Agent Imitation Learning with Copulas](http://lantaoyu.com/publications/ECML21)</b> <br>
+Hongwei	Wang<b>\*</b>, <b>Lantao Yu</b><b>\*</b>, Zhangjie Cao, Stefano Ermon.
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.
+
 <b>[Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model](http://lantaoyu.com/publications/RAL21)</b> <br>
 Jiankai Sun, <b>Lantao Yu</b>, Pinqian Dong, Bo Lu, Bolei Zhou.
 <i>IEEE Robotics and Automation Letters</i>. <b>RA-L 2021</b> and <b>ICRA 2021</b>.
@@ -17,7 +21,7 @@ Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
 <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
 
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
-Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
+Tianhe Yu<b>\*</b>, Garrett Thomas<b>\*</b>, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
 <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
 
 <b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
@@ -37,7 +41,7 @@ Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
 <i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
 
 <b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
-<b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
+<b>Lantao Yu</b><b>\*</b>, Tianhe Yu<b>\*</b>, Chelsea Finn, Stefano Ermon.
 <i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
 
 <b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
@@ -60,7 +64,7 @@ Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan 
 <i>Preprint. arXiv:1807.00751</i>
 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-Yaodong Yang\*, <b>Lantao Yu</b>\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
+Yaodong Yang<b>\*</b>, <b>Lantao Yu</b><b>\*</b>, Yiwei Bai<b>\*</b>, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
 
 <b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
 Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
@@ -73,7 +77,7 @@ Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng
 <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <b><span style="color:red">(Best Paper Award Honorable Mention)</span></b>
 
 <b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
-Xuejian Wang\*, <b>Lantao Yu</b>\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang.
+Xuejian Wang<b>\*</b>, <b>Lantao Yu</b><b>\*</b>, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang.
 <i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
 
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
@@ -84,4 +88,4 @@ Xuejian Wang\*, <b>Lantao Yu</b>\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, 
 
 
 
-[\* denotes equal contribution]
+[<b>\*</b> denotes equal contribution]
