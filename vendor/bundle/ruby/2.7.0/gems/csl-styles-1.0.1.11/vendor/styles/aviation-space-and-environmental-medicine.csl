@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="minimal" default-locale="en-US">
+  <info>
+    <title>Aviation, Space, and Environmental Medicine</title>
+    <title-short>ASEM</title-short>
+    <id>http://www.zotero.org/styles/aviation-space-and-environmental-medicine</id>
+    <link href="http://www.zotero.org/styles/aviation-space-and-environmental-medicine" rel="self"/>
+    <link href="https://www.editorialmanager.com/asem/account/AUTHOR_INSTRUCTIONS.pdf" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Sean Takats</name>
+      <email>stakats@gmu.edu</email>
+    </contributor>
+    <contributor>
+      <name>Michael Berkowitz</name>
+      <email>mberkowi@gmu.edu</email>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0095-6562</issn>
+    <summary>Vancouver style for the ASEM journal</summary>
+    <updated>2015-01-01T17:31:53+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="long" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", " strip-periods="true"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="thesis">
+        <text variable="publisher-place" prefix="[" suffix="]: "/>
+      </if>
+      <else>
+        <text variable="publisher-place" suffix=": "/>
+      </else>
+    </choose>
+    <text variable="publisher" suffix="; "/>
+    <group>
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="report">
+          <group delimiter=" " prefix=". ">
+            <text variable="genre"/>
+            <text variable="number" prefix="No: "/>
+          </group>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <group delimiter=" ">
+          <text term="retrieved" text-case="capitalize-first"/>
+          <text macro="accessed-date"/>
+          <text term="from"/>
+          <text variable="URL"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="accessed-date">
+    <date variable="accessed" delimiter=" ">
+      <date-part name="day"/>
+      <date-part name="month"/>
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <group suffix=" ">
+          <text variable="container-title" form="short" strip-periods="true"/>
+        </group>
+      </if>
+      <else>
+        <text variable="container-title" suffix=". " form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <text variable="title"/>
+      <choose>
+        <if type="thesis">
+          <text variable="genre" prefix="[" suffix="]"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+      <key macro="title"/>
+    </sort>
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+          <group prefix=" " delimiter=" " suffix=".">
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" " suffix=". ">
+            <text term="in" suffix=": " text-case="capitalize-first"/>
+            <text macro="editor"/>
+            <text variable="container-title"/>
+          </group>
+          <text macro="publisher" prefix=" "/>
+          <text variable="page" prefix=":" suffix="."/>
+        </else-if>
+        <else>
+          <text macro="journal-title"/>
+          <group suffix="; ">
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </group>
+          <group suffix=". ">
+            <text variable="volume"/>
+            <text variable="page" prefix=":"/>
+          </group>
+        </else>
+      </choose>
+      <text macro="access" prefix=" "/>
+    </layout>
+  </bibliography>
+</style>

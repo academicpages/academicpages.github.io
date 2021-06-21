@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Medical Physics</title>
+    <id>http://www.zotero.org/styles/medical-physics</id>
+    <link href="http://www.zotero.org/styles/medical-physics" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="https://aapm.onlinelibrary.wiley.com/hub/journal/24734209/about/author-guidelines" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="physics"/>
+    <issn>0094-2405</issn>
+    <eissn>2473-4209</eissn>
+    <updated>2020-07-17T04:22:44+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

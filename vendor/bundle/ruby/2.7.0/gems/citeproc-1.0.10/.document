@@ -1,0 +1,5 @@
+lib/**/*.rb
+bin/*
+- 
+AGPL
+README.md

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="es-MX">
+  <info>
+    <title>Revista Cuicuilco (Spanish - Mexico)</title>
+    <id>http://www.zotero.org/styles/revista-cuicuilco</id>
+    <link href="http://www.zotero.org/styles/revista-cuicuilco" rel="self"/>
+    <link href="http://www.zotero.org/styles/escuela-nacional-de-antropologia-e-historia-author-date" rel="independent-parent"/>
+    <link href="http://www.revistacuicuilco.enah.edu.mx/revista/" rel="documentation"/>
+    <author>
+      <name>Juan Ignacio Flores Salgado</name>
+      <email>natch.nacht@gmail.com</email>
+      <uri>https://www.mendeley.com/profiles/juan-ignacio-flores-salgado/</uri>
+    </author>
+    <contributor>
+      <name>Inés Segovia Camelo</name>
+      <email>publicaciones.enah@inah.gob.mx</email>
+      <uri>http://www.enah.edu.mx/index.php/difu-cul/publicaciones</uri>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="anthropology"/>
+    <category field="history"/>
+    <issn>1405-7778</issn>
+    <updated>2015-12-16T04:06:37+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

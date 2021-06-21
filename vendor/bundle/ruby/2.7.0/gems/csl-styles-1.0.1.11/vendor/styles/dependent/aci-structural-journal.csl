@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>ACI Structural Journal</title>
+    <id>http://www.zotero.org/styles/aci-structural-journal</id>
+    <link href="http://www.zotero.org/styles/aci-structural-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/aci-materials-journal" rel="independent-parent"/>
+    <link href="https://www.concrete.org/publications/acimaterialsjournal/submittingtoacijournals.aspx" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <category field="chemistry"/>
+    <issn>0889-3241</issn>
+    <eissn>1944-7361</eissn>
+    <updated>2018-10-18T02:56:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

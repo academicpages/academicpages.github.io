@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="minimal" default-locale="en-US">
+  <info>
+    <title>International Journal of Exercise Science</title>
+    <title-short>IJES</title-short>
+    <id>http://www.zotero.org/styles/international-journal-of-exercise-science</id>
+    <link href="http://www.zotero.org/styles/international-journal-of-exercise-science" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="template"/>
+    <link href="http://digitalcommons.wku.edu/ijes/styleguide.html" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Sean Takats</name>
+      <email>stakats@gmu.edu</email>
+    </contributor>
+    <contributor>
+      <name>Michael Berkowitz</name>
+      <email>mberkowi@gmu.edu</email>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1939-795X</issn>
+    <summary>Vancouver style for the Journal IJES</summary>
+    <updated>2017-04-19T11:55:21+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="thesis">
+        <text variable="publisher-place" prefix="[" suffix="]: "/>
+      </if>
+      <else>
+        <text variable="publisher-place" suffix=": "/>
+      </else>
+    </choose>
+    <text variable="publisher" suffix=", "/>
+    <group>
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+      <text macro="accessed-date" prefix=" "/>
+    </group>
+  </macro>
+  <macro name="accessed-date">
+    <choose>
+      <if variable="URL">
+        <group prefix="[" suffix="]" delimiter=" ">
+          <text term="cited"/>
+          <date variable="accessed">
+            <date-part name="year"/>
+            <date-part name="month" prefix=" " form="short" strip-periods="true"/>
+            <date-part name="day" prefix=" "/>
+          </date>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <text variable="container-title" form="short" strip-periods="true" suffix=" "/>
+      </if>
+      <else>
+        <text variable="container-title" suffix=". " form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <text variable="title"/>
+      <choose>
+        <if type="article-journal article-magazine" match="none">
+          <choose>
+            <if variable="URL">
+              <text term="internet" prefix="[" suffix="]" text-case="capitalize-first"/>
+            </if>
+          </choose>
+        </if>
+      </choose>
+      <choose>
+        <if type="thesis">
+          <text variable="genre" prefix="[" suffix="]"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+      <key macro="title"/>
+    </sort>
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+          <group delimiter=". " suffix=".">
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group suffix=". " delimiter=" ">
+            <text term="in" suffix=":" text-case="capitalize-first"/>
+            <group delimiter=" " suffix=".">
+              <text variable="container-title"/>
+              <text variable="volume" prefix="(Vol. " suffix=")"/>
+            </group>
+            <text macro="editor"/>
+          </group>
+          <text macro="publisher" suffix="."/>
+        </else-if>
+        <else>
+          <text macro="journal-title"/>
+          <group delimiter=": ">
+            <group>
+              <text variable="volume"/>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page"/>
+          </group>
+          <date variable="issued" prefix=", " suffix=".">
+            <date-part name="year"/>
+          </date>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

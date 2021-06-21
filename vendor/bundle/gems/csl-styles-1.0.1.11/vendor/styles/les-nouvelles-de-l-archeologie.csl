@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="fr-FR" page-range-format="expanded">
+  <info>
+    <title>Les nouvelles de l'archéologie (French)</title>
+    <title-short>NDA</title-short>
+    <id>http://www.zotero.org/styles/les-nouvelles-de-l-archeologie</id>
+    <link href="http://www.zotero.org/styles/les-nouvelles-de-l-archeologie" rel="self"/>
+    <link href="https://journals.openedition.org/nda/1554" rel="documentation"/>
+    <author>
+      <name>Sébastien Plutniak</name>
+      <email>sebastien.plutniak@posteo.net</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="history"/>
+    <issn>0242-7702</issn>
+    <eissn>2425-1941</eissn>
+    <summary>Style for the Les nouvelles de l'archéologie journal.</summary>
+    <updated>2019-12-16T15:55:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="fr">
+    <terms>
+      <term name="editor" form="short">
+        <single>(éd.)</single>
+        <multiple>(éds.)</multiple>
+      </term>
+      <term name="page" form="short">
+        <single/>
+        <multiple/>
+      </term>
+      <term name="no date">Sans date</term>
+    </terms>
+  </locale>
+  <!-- Macros definition -->
+  <macro name="editor">
+    <names variable="editor" delimiter=" ">
+      <name sort-separator=" " delimiter=", " name-as-sort-order="all" font-variant="small-caps" delimiter-precedes-last="never" initialize-with="."/>
+      <label form="short" prefix=" " suffix=" "/>
+      <substitute>
+        <names variable="editorial-director"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name and="symbol" form="short" delimiter=", " delimiter-precedes-last="never"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-long">
+    <names variable="author">
+      <name and="symbol" name-as-sort-order="all" font-variant="small-caps" sort-separator=" " delimiter=", " delimiter-precedes-last="never" initialize-with="."/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="editorial-director"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="citation-locator">
+    <group>
+      <text prefix="&#160;: " variable="locator"/>
+    </group>
+  </macro>
+  <macro name="page">
+    <group>
+      <text prefix="&#160;: " variable="page"/>
+    </group>
+  </macro>
+  <macro name="journal-issue">
+    <group delimiter=", ">
+      <text variable="volume"/>
+      <text variable="issue"/>
+    </group>
+  </macro>
+  <!-- End of macros definition -->
+  <!-- Format of the short entries -->
+  <citation et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="author-long"/>
+      <key macro="year-date"/>
+    </sort>
+    <layout delimiter="&#160;; ">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+        <text macro="citation-locator"/>
+      </group>
+    </layout>
+  </citation>
+  <!-- Format of the full entries -->
+  <bibliography>
+    <sort>
+      <key macro="author-long"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". " suffix=". ">
+        <text macro="author-long"/>
+        <text macro="year-date"/>
+      </group>
+      <choose>
+        <if type="article article-newspaper article-magazine" match="any">
+          <group delimiter=", ">
+            <text variable="title" quotes="true"/>
+            <text variable="container-title" font-style="italic"/>
+            <text macro="journal-issue"/>
+          </group>
+          <text macro="page"/>
+          <text variable="DOI" prefix="DOI&#160;: "/>
+          <text variable="URL"/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text variable="title" quotes="true" suffix=", "/>
+          <text value="in" font-style="italic" prefix=" " suffix="&#160;: "/>
+          <text macro="editor" suffix=", "/>
+          <text variable="container-title" suffix=". " font-style="italic"/>
+          <text variable="publisher-place" suffix=", "/>
+          <text variable="publisher"/>
+          <text macro="page"/>
+        </else-if>
+        <else-if type="book">
+          <text variable="title" font-style="italic" text-case="capitalize-first" suffix=". "/>
+          <group delimiter=", ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text variable="title" font-style="italic"/>
+            <choose>
+              <if variable="genre">
+                <text variable="genre"/>
+              </if>
+              <else>
+                <text value="thèse de doctorat"/>
+              </else>
+            </choose>
+            <text variable="publisher-place"/>
+          </group>
+        </else-if>
+        <else-if type="report">
+          <group delimiter=", ">
+            <text variable="title"/>
+            <text variable="genre"/>
+            <text variable="number"/>
+            <text variable="publisher"/>
+            <text variable="publisher-place"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text variable="title" quotes="true"/>
+            <text variable="container-title" font-style="italic"/>
+            <text macro="journal-issue"/>
+          </group>
+          <text macro="page"/>
+          <group prefix=". " delimiter="&#160;; ">
+            <text variable="DOI" prefix="DOI&#160;: "/>
+            <text variable="URL"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

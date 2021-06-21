@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- American Statistical Association, generated from "amstat" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>The American Statistician</title>
+    <title-short>TAS</title-short>
+    <id>http://www.zotero.org/styles/the-american-statistician</id>
+    <link href="http://www.zotero.org/styles/the-american-statistician" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-statistical-association" rel="independent-parent"/>
+    <link href="http://amstat.tfjournals.com/asa-style-guide/" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="math"/>
+    <issn>0003-1305</issn>
+    <eissn>1537-2731</eissn>
+    <updated>2017-07-27T03:45:19+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

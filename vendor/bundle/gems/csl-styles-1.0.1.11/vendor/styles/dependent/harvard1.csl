@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>Harvard reference format 1 (deprecated)</title>
+    <id>http://www.zotero.org/styles/harvard1</id>
+    <link href="http://www.zotero.org/styles/harvard1" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard-cite-them-right" rel="independent-parent"/>
+    <category citation-format="author-date"/>
+    <summary>The original "harvard1.csl" independent CSL style was not based on any style guide, but it nevertheless remained popular because it was included by default in Mendeley Desktop. We have now taken one step to remove this style from the central CSL repository by turning it into a dependent style that uses the Harvard author-date format specified by the popular "Cite Them Right" guide. This dependent style will likely be removed from the CSL repository entirely at some point in the future.</summary>
+    <updated>2017-04-03T00:20:53+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

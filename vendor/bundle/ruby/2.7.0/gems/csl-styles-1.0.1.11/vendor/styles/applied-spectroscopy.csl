@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Applied Spectroscopy</title>
+    <id>http://www.zotero.org/styles/applied-spectroscopy</id>
+    <link href="http://www.zotero.org/styles/applied-spectroscopy" rel="self"/>
+    <link href="http://www.s-a-s.org/journal/authguide/" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <category field="science"/>
+    <issn>0003-7028</issn>
+    <eissn>1943-3530</eissn>
+    <summary>Style for Applied Spectroscopy</summary>
+    <updated>2014-09-21T00:39:49+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <style-options punctuation-in-quote="false"/>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <text term="in" suffix=": " text-case="capitalize-first"/>
+      </if>
+    </choose>
+    <names variable="editor">
+      <name initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="article-journal chapter article-magazine speech webpage" match="any">
+        <text variable="title" quotes="true"/>
+      </if>
+      <else-if type="thesis patent" match="any">
+        <group delimiter=". ">
+          <text variable="title"/>
+          <text variable="genre" prefix="[" suffix="]"/>
+          <text variable="number"/>
+        </group>
+      </else-if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <choose>
+          <if type="patent">
+            <text value="Issued "/>
+          </if>
+        </choose>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="speech">
+        <group delimiter=": ">
+          <choose>
+            <if variable="genre">
+              <group delimiter=" ">
+                <text variable="genre" text-case="capitalize-first"/>
+                <text term="presented at"/>
+              </group>
+            </if>
+            <else>
+              <text term="presented at" prefix="Paper "/>
+            </else>
+          </choose>
+          <group delimiter="; ">
+            <group delimiter=". ">
+              <text variable="event"/>
+              <text variable="publisher-place"/>
+            </group>
+            <date variable="issued" form="text"/>
+          </group>
+        </group>
+      </if>
+      <else>
+        <text variable="publisher" suffix=", "/>
+        <text variable="publisher-place" suffix=", "/>
+        <text macro="year-date"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="location">
+    <group delimiter=": ">
+      <choose>
+        <if type="article-journal article-magazine" match="any">
+          <group>
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+        </if>
+      </choose>
+      <group delimiter=" ">
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <label variable="page" form="short" text-case="capitalize-first"/>
+          </if>
+        </choose>
+        <text variable="page"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal">
+        <text variable="container-title" form="short"/>
+      </if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <group delimiter=". ">
+      <text variable="DOI"/>
+      <choose>
+        <if type="webpage">
+          <group delimiter=" ">
+            <text variable="URL"/>
+            <date variable="accessed" prefix="[" suffix="]" delimiter=" ">
+              <date-part name="month" form="short" strip-periods="true"/>
+              <date-part name="day"/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush" et-al-min="7" et-al-use-first="6">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=". " suffix=".">
+        <text macro="author"/>
+        <text macro="title"/>
+        <text macro="editor"/>
+        <text macro="container-title"/>
+        <text macro="edition"/>
+        <text macro="publisher"/>
+        <text macro="location"/>
+        <text macro="access"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

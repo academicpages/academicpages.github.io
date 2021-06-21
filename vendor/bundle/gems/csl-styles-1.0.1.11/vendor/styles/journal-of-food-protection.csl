@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
+  <info>
+    <title>Journal of Food Protection</title>
+    <id>http://www.zotero.org/styles/journal-of-food-protection</id>
+    <link href="http://www.zotero.org/styles/journal-of-food-protection" rel="self"/>
+    <link href="http://www.foodprotection.org/publications/instructions-for-authors/pdf/jfp-author-instructions.pdf" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Julian Onions</name>
+      <email>julian.onions@gmail.com</email>
+    </contributor>
+    <contributor>
+      <name>Rintze Zelle</name>
+      <uri>http://twitter.com/rintzezelle</uri>
+    </contributor>
+    <contributor>
+      <name>Richard Karnesky</name>
+      <email>karnesky+zotero@gmail.com</email>
+      <uri>http://arc.nucapt.northwestern.edu/Richard_Karnesky</uri>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>0362-028X</issn>
+    <eissn>1944-9097</eissn>
+    <summary>Style for the Journal of Food Protection, published by IAFP</summary>
+    <updated>2013-11-02T03:09:48+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=".">
+      <name sort-separator=", " initialize-with=". " and="text" name-as-sort-order="first" delimiter=", " delimiter-precedes-last="always"/>
+      <substitute>
+        <names variable="editor"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="anon">
+    <text term="anonymous" text-case="capitalize-first"/>
+  </macro>
+  <macro name="issued">
+    <group prefix=" " suffix=".">
+      <choose>
+        <if type="patent">
+          <date variable="issued">
+            <date-part name="month" suffix=" "/>
+            <date-part name="year"/>
+          </date>
+        </if>
+        <else>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="chapter-specifics">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <label variable="page" form="short" plural="never" prefix=", " suffix=" "/>
+        <text variable="page"/>
+        <text term="in" text-case="capitalize-first" prefix=". " suffix=" " font-style="italic"/>
+        <names variable="editor" delimiter=", " suffix=", ">
+          <name initialize-with="." delimiter=", " delimiter-precedes-last="always" and="text"/>
+          <label form="short" prefix=" (" suffix=")"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="patent-specifics">
+    <text variable="number" prefix=". "/>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="any">
+        <text variable="container-title"/>
+      </if>
+      <else>
+        <text variable="container-title" form="short" font-style="italic" prefix=". "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" " prefix=", ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", " prefix=". ">
+      <text variable="genre"/>
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if type="article-journal">
+        <group prefix=" " delimiter=":">
+          <text variable="volume"/>
+          <text variable="page"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <citation>
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number" font-style="italic"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <sort>
+      <key variable="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="issued"/>
+      <text variable="title" prefix=" "/>
+      <text macro="chapter-specifics"/>
+      <text macro="patent-specifics"/>
+      <text macro="container-title"/>
+      <text macro="edition"/>
+      <text macro="publisher"/>
+      <text macro="locators"/>
+    </layout>
+  </bibliography>
+</style>

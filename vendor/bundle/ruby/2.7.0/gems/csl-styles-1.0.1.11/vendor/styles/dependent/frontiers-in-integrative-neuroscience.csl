@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Frontiers, generated from "frontiers" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Frontiers in Integrative Neuroscience</title>
+    <id>http://www.zotero.org/styles/frontiers-in-integrative-neuroscience</id>
+    <link href="http://www.zotero.org/styles/frontiers-in-integrative-neuroscience" rel="self"/>
+    <link href="http://www.zotero.org/styles/frontiers" rel="independent-parent"/>
+    <link href="http://www.frontiersin.org/about/AuthorGuidelines#References" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <eissn>1662-5145</eissn>
+    <updated>2017-01-21T20:28:41+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

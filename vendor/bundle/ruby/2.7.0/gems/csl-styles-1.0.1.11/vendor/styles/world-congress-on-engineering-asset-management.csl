@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>World Congress on Engineering Asset Management 2010</title>
+    <title-short>WCEAM</title-short>
+    <id>http://www.zotero.org/styles/world-congress-on-engineering-asset-management</id>
+    <link href="http://www.zotero.org/styles/world-congress-on-engineering-asset-management" rel="self"/>
+    <link href="http://wceam.com/" rel="documentation"/>
+    <author>
+      <name>Lubos</name>
+      <email>zothero@hotmail.com</email>
+    </author>
+    <contributor>
+      <name>Julian Onions</name>
+      <email>julian.onions@gmail.com</email>
+    </contributor>
+    <category citation-format="numeric"/>
+    <summary>Citation style for the World Congress for Engineering Asset Management (WCEAM)</summary>
+    <updated>2013-08-29T04:18:55+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" (" suffix=")" strip-periods="true"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": " suffix=".">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="URL accessed" match="all">
+        <date variable="accessed" prefix=" Retrieved ">
+          <date-part name="month" form="long" suffix=" "/>
+          <date-part name="day" form="numeric" suffix=", "/>
+          <date-part name="year" form="long"/>
+        </date>
+        <text variable="URL" prefix=", from "/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="genre">
+    <choose>
+      <if type="thesis">
+        <text variable="genre" suffix=" thesis."/>
+      </if>
+      <else>
+        <group delimiter=" " suffix=".">
+          <text variable="genre"/>
+          <text variable="number"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush" entry-spacing="0" line-spacing="1">
+    <layout>
+      <text variable="citation-number" suffix=" "/>
+      <text macro="author"/>
+      <date variable="issued">
+        <date-part name="year" prefix="(" suffix=")"/>
+      </date>
+      <text variable="title" prefix=" " suffix="."/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <text macro="edition" prefix=" "/>
+          <text macro="publisher" prefix=" "/>
+          <text macro="genre" prefix=" "/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter="," suffix=".">
+            <group prefix=" " delimiter=" ">
+              <text term="in" text-case="capitalize-first"/>
+              <text macro="editor" suffix="."/>
+              <text variable="container-title" font-style="italic"/>
+            </group>
+            <group>
+              <text macro="publisher" prefix=" "/>
+              <label variable="page" form="short" prefix=" "/>
+              <text variable="page" suffix="."/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group prefix=" " delimiter=", " suffix=".">
+            <text variable="container-title" form="short" font-style="italic"/>
+            <group>
+              <text variable="volume"/>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page" suffix="."/>
+          </group>
+          <text macro="genre" prefix=" "/>
+          <text macro="publisher" prefix=" "/>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </layout>
+  </bibliography>
+</style>

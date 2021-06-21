@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier, generated from "elsevier" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>PM&amp;R</title>
+    <id>http://www.zotero.org/styles/pm-and-r</id>
+    <link href="http://www.zotero.org/styles/pm-and-r" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-vancouver" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <issn>1934-1482</issn>
+    <updated>2018-03-09T05:06:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

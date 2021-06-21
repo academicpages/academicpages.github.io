@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Royal Society of Chemistry (RSC), generated from "rsc" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Nanoscale Horizons</title>
+    <id>http://www.zotero.org/styles/nanoscale-horizons</id>
+    <link href="http://www.zotero.org/styles/nanoscale-horizons" rel="self"/>
+    <link href="http://www.zotero.org/styles/royal-society-of-chemistry" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>2055-6756</issn>
+    <eissn>2055-6764</eissn>
+    <updated>2017-03-04T06:00:52+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

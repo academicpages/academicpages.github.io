@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="cy-GB">
+  <info>
+    <title>Prifysgol Caerdydd - Harvard (Welsh)</title>
+    <id>http://www.zotero.org/styles/prifysgol-caerdydd-harvard</id>
+    <link href="http://www.zotero.org/styles/prifysgol-caerdydd-harvard" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard-cardiff-university" rel="independent-parent"/>
+    <link href="https://xerte.cardiff.ac.uk/play_4069" rel="documentation"/>
+    <link href="https://xerte.cardiff.ac.uk/play_5253" rel="documentation"/>
+    <link href="https://github.com/citation-style-language/styles/pull/3676#issuecomment-420542651" rel="documentation"/>
+    <author>
+      <name>Zoe Young</name>
+      <email>youngz@cardiff.ac.uk</email>
+    </author>
+    <author>
+      <name>Lewys Peters</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="generic-base"/>
+    <summary>The Harvard author-date style - adapted for Cardiff University</summary>
+    <updated>2020-07-14T22:34:17+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

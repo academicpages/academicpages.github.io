@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- American Association for Cancer Research (AACR), generated from "aacr" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Blood Cancer Discovery</title>
+    <id>http://www.zotero.org/styles/blood-cancer-discovery</id>
+    <link href="http://www.zotero.org/styles/blood-cancer-discovery" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-association-for-cancer-research" rel="independent-parent"/>
+    <link href="http://www.aacrjournals.org/site/InstrAuthors/ifora.xhtml#references" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>2643-3230</issn>
+    <eissn>2643-3249</eissn>
+    <updated>2020-01-09T15:14:35+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

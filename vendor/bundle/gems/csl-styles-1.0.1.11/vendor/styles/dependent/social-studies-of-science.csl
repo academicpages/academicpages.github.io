@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>Social Studies of Science</title>
+    <id>http://www.zotero.org/styles/social-studies-of-science</id>
+    <link href="http://www.zotero.org/styles/social-studies-of-science" rel="self"/>
+    <link href="http://www.zotero.org/styles/sage-harvard" rel="independent-parent"/>
+    <link href="www.sagepub.com/journals/Journal200907/manuscriptSubmission" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="history"/>
+    <category field="social_science"/>
+    <issn>0306-3127</issn>
+    <eissn>1460-3659</eissn>
+    <updated>2014-05-30T00:36:38+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Biotechnology Progress</title>
+    <id>http://www.zotero.org/styles/biotechnology-progress</id>
+    <link href="http://www.zotero.org/styles/biotechnology-progress" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association-no-et-al" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1021/(ISSN)1520-6033/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>8756-7938</issn>
+    <eissn>1520-6033</eissn>
+    <updated>2013-12-10T04:29:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

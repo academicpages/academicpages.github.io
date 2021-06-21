@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="ro-RO">
+  <info>
+    <translator>
+      <name>Nicolae Turcan</name>
+      <email>nturcan@gmail.com</email>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" suffix="."/>
+    <date-part name="month" form="numeric" suffix="."/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">data accesării</term>
+    <term name="and">și</term>
+    <term name="and others">și alții</term>
+    <term name="anonymous">anonim</term>
+    <term name="anonymous" form="short">anon.</term>
+    <term name="at">la</term>
+    <term name="available at">disponibil la</term>
+    <term name="by">de</term>
+    <term name="circa">circa</term>
+    <term name="circa" form="short">cca.</term>
+    <term name="cited">citat</term>
+    <term name="edition">
+      <single>ediția</single>
+      <multiple>edițiile</multiple>
+    </term>
+    <term name="edition" form="short">ed</term>
+    <term name="et-al">et al.</term>
+    <term name="forthcoming">în curs de apariție</term>
+    <term name="from">din</term>
+    <term name="ibid">ibidem</term>
+    <term name="in">în</term>
+    <term name="in press">sub tipar</term>
+    <term name="internet">internet</term>
+    <term name="interview">interviu</term>
+    <term name="letter">scrisoare</term>
+    <term name="no date">fără dată</term>
+    <term name="no date" form="short">f.a.</term>
+    <term name="online">online</term>
+    <term name="presented at">prezentat la</term>
+    <term name="reference">
+      <single>referință</single>
+      <multiple>referințe</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>ref.</single>
+      <multiple>ref.</multiple>
+    </term>
+    <term name="retrieved">preluat în</term>
+    <term name="scale">scală</term>
+    <term name="version">versiunea</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">d.Hr.</term>
+    <term name="bc">î.Hr.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">„</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">«</term>
+    <term name="close-inner-quote">»</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">-lea</term>
+    <term name="ordinal-01" match="whole-number"></term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">primul</term>
+    <term name="long-ordinal-02">al doilea</term>
+    <term name="long-ordinal-03">al treilea</term>
+    <term name="long-ordinal-04">al patrulea</term>
+    <term name="long-ordinal-05">al cincilea</term>
+    <term name="long-ordinal-06">al șaselea</term>
+    <term name="long-ordinal-07">al șaptelea</term>
+    <term name="long-ordinal-08">al optulea</term>
+    <term name="long-ordinal-09">al nouălea</term>
+    <term name="long-ordinal-10">al zecelea</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>cartea</single>
+      <multiple>cărțile</multiple>
+    </term>
+    <term name="chapter">
+      <single>capitolul</single>
+      <multiple>capitolele</multiple>
+    </term>
+    <term name="column">
+      <single>coloana</single>
+      <multiple>coloanele</multiple>
+    </term>
+    <term name="figure">
+      <single>figura</single>
+      <multiple>figurile</multiple>
+    </term>
+    <term name="folio">
+      <single>folio</single>
+      <multiple>folio</multiple>
+    </term>
+    <term name="issue">
+      <single>numărul</single>
+      <multiple>numerele</multiple>
+    </term>
+    <term name="line">
+      <single>linia</single>
+      <multiple>liniile</multiple>
+    </term>
+    <term name="note">
+      <single>nota</single>
+      <multiple>notele</multiple>
+    </term>
+    <term name="opus">
+      <single>opusul</single>
+      <multiple>opusurile</multiple>
+    </term>
+    <term name="page">
+      <single>pagina</single>
+      <multiple>paginile</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>pagina</single>
+      <multiple>paginile</multiple>
+    </term>
+    <term name="paragraph">
+      <single>paragraful</single>
+      <multiple>paragrafele</multiple>
+    </term>
+    <term name="part">
+      <single>partea</single>
+      <multiple>părțile</multiple>
+    </term>
+    <term name="section">
+      <single>secțiunea</single>
+      <multiple>secțiunile</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>versetul</single>
+      <multiple>versetele</multiple>
+    </term>
+    <term name="volume">
+      <single>volumul</single>
+      <multiple>volumele</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">cart.</term>
+    <term name="chapter" form="short">cap.</term>
+    <term name="column" form="short">col.</term>
+    <term name="figure" form="short">fig.</term>
+    <term name="folio" form="short">fol.</term>
+    <term name="issue" form="short">nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">part.</term>
+    <term name="section" form="short">sec.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>v.</single>
+      <multiple>vv.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>vol.</single>
+      <multiple>vol.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>director</single>
+      <multiple>directori</multiple>
+    </term>
+    <term name="editor">
+      <single>editor</single>
+      <multiple>editori</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>coordonator</single>
+      <multiple>coordonatori</multiple>
+    </term>
+    <term name="illustrator">
+      <single>ilustrator</single>
+      <multiple>ilustratori</multiple>
+    </term>
+    <term name="translator">
+      <single>traducător</single>
+      <multiple>traducători</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>editor și traducător</single>
+      <multiple>editori și traducători</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dir.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>ed.</single>
+      <multiple>ed.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>coord.</single>
+      <multiple>coord.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ilustr.</single>
+      <multiple>ilustr.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>trad.</single>
+      <multiple>trad.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>ed. și trad.</single>
+      <multiple>ed. și trad.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">de</term>
+    <term name="director" form="verb">coordonat de</term>
+    <term name="editor" form="verb">ediție de</term>
+    <term name="editorial-director" form="verb">coordonator</term>
+    <term name="illustrator" form="verb">ilustrații de</term>
+    <term name="interviewer" form="verb">interviu de</term>
+    <term name="recipient" form="verb">în</term>
+    <term name="reviewed-author" form="verb">de</term>
+    <term name="translator" form="verb">traducere de</term>
+    <term name="editortranslator" form="verb">ediție și traducere de</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">ed.</term>
+    <term name="editorial-director" form="verb-short">coord.</term>
+    <term name="illustrator" form="verb-short">ilustr.</term>
+    <term name="translator" form="verb-short">trad.</term>
+    <term name="editortranslator" form="verb-short">ed. și trad. de</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">ianuarie</term>
+    <term name="month-02">februarie</term>
+    <term name="month-03">martie</term>
+    <term name="month-04">aprilie</term>
+    <term name="month-05">mai</term>
+    <term name="month-06">iunie</term>
+    <term name="month-07">iulie</term>
+    <term name="month-08">august</term>
+    <term name="month-09">septembrie</term>
+    <term name="month-10">octombrie</term>
+    <term name="month-11">noiembrie</term>
+    <term name="month-12">decembrie</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">ian.</term>
+    <term name="month-02" form="short">feb.</term>
+    <term name="month-03" form="short">mar.</term>
+    <term name="month-04" form="short">apr.</term>
+    <term name="month-05" form="short">mai</term>
+    <term name="month-06" form="short">iun.</term>
+    <term name="month-07" form="short">iul.</term>
+    <term name="month-08" form="short">aug.</term>
+    <term name="month-09" form="short">sep.</term>
+    <term name="month-10" form="short">oct.</term>
+    <term name="month-11" form="short">nov.</term>
+    <term name="month-12" form="short">dec.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">primăvara</term>
+    <term name="season-02">vara</term>
+    <term name="season-03">toamna</term>
+    <term name="season-04">iarna</term>
+  </terms>
+</locale>

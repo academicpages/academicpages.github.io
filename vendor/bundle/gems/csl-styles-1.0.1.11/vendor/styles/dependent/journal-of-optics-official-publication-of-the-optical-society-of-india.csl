@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/springer -->
+  <info>
+    <title>Journal of Optics - official publication of the Optical Society of India</title>
+    <title-short>J Opt</title-short>
+    <id>http://www.zotero.org/styles/journal-of-optics-official-publication-of-the-optical-society-of-india</id>
+    <link href="http://www.zotero.org/styles/journal-of-optics-official-publication-of-the-optical-society-of-india" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-physics-brackets" rel="independent-parent"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/Key_Style_Points_1.0.pdf" rel="documentation"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/manuscript-guidelines-1.0.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <issn>0972-8821</issn>
+    <eissn>0974-6900</eissn>
+    <updated>2016-02-15T06:23:26+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

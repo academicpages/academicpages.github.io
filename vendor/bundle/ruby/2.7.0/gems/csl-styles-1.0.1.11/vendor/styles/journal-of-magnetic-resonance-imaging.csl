@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Journal Of Magnetic Resonance Imaging</title>
+    <title-short>JMRI</title-short>
+    <id>http://www.zotero.org/styles/journal-of-magnetic-resonance-imaging</id>
+    <link href="http://www.zotero.org/styles/journal-of-magnetic-resonance-imaging" rel="self"/>
+    <link href="http://www.zotero.org/styles/biomed-central" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2586/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Wouter Potters</name>
+      <email>w.v.potters@amc.nl</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <issn>1053-1807</issn>
+    <eissn>1522-2586</eissn>
+    <updated>2014-10-17T00:26:43+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=": ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first" strip-periods="true"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=".">
+      <label form="verb" suffix=" " text-case="capitalize-first"/>
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <choose>
+        <if type="thesis" match="none">
+          <text variable="publisher-place"/>
+        </if>
+      </choose>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="container-title">
+    <text variable="container-title" font-style="italic" form="short" strip-periods="true"/>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic" text-case="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="volume">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <text variable="volume"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="volume-book">
+    <choose>
+      <if type="article-journal article-magazine" match="none">
+        <group delimiter=" " font-style="italic">
+          <text term="volume" text-case="capitalize-first"/>
+          <text variable="volume"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="long" suffix="."/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="3">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <choose>
+        <if type="webpage">
+          <!-- The webpages will be the bane of my existence -->
+          <text macro="title"/>
+          <text variable="URL" prefix=" [" suffix="]"/>
+        </if>
+        <else>
+          <!-- Now for everything else -->
+          <group suffix=".">
+            <text macro="author"/>
+            <text macro="title" suffix=". "/>
+            <choose>
+              <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+                <group delimiter=". " prefix=" " suffix="; ">
+                  <text macro="edition"/>
+                  <text macro="volume-book"/>
+                  <text variable="genre" font-style="italic"/>
+                  <text macro="publisher"/>
+                </group>
+              </if>
+              <else-if type="chapter paper-conference" match="any">
+                <group delimiter=". " suffix="; ">
+                  <group delimiter=" ">
+                    <text term="in" text-case="capitalize-first"/>
+                    <text macro="container-title"/>
+                  </group>
+                  <text macro="volume-book"/>
+                  <text macro="edition"/>
+                  <text macro="editor"/>
+                  <text macro="publisher"/>
+                </group>
+              </else-if>
+              <else>
+                <text macro="container-title" suffix=" "/>
+              </else>
+            </choose>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+            <text macro="volume" prefix="; "/>
+            <!-- This will hopefully deal with supplements at least reasonably well -->
+            <choose>
+              <if is-numeric="issue">
+              </if>
+              <else>
+                <text variable="issue" prefix="(" suffix=")"/>
+              </else>
+            </choose>
+            <text variable="page" prefix=":"/>
+          </group>
+          <group prefix=" [" suffix="]" delimiter=": ">
+            <names variable="collection-editor">
+              <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+              <label prefix=" (" suffix=")" form="long"/>
+            </names>
+            <group delimiter=", ">
+              <text variable="collection-title" font-style="italic" text-case="title"/>
+              <choose>
+                <if is-numeric="collection-number">
+                  <text variable="collection-number" prefix="vol. "/>
+                </if>
+                <else>
+                  <text variable="collection-number"/>
+                </else>
+              </choose>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Cell Press - Research Journals, generated from "cell-press-research" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>One Earth</title>
+    <id>http://www.zotero.org/styles/one-earth</id>
+    <link href="http://www.zotero.org/styles/one-earth" rel="self"/>
+    <link href="http://www.zotero.org/styles/cell-numeric-superscript" rel="independent-parent"/>
+    <link href="https://www.cell.com/one-earth/author" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>2590-3322</issn>
+    <updated>2019-10-02T00:39:34+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

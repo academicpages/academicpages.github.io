@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Economic Geology</title>
+    <id>http://www.zotero.org/styles/economic-geology</id>
+    <link href="http://www.zotero.org/styles/economic-geology" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-journal-of-science" rel="template"/>
+    <link href="http://www.editorialmanager.com/seg/default.aspx" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien, PhD</name>
+      <email>obrienpat86@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="geology"/>
+    <issn>0361-0128</issn>
+    <eissn>1554-0774</eissn>
+    <updated>2019-01-21T04:02:09+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="volume" form="short">v.</term>
+    </terms>
+  </locale>
+  <macro name="editor-translator">
+    <names variable="editor translator" prefix="(" suffix=")" delimiter=", ">
+      <name and="symbol" initialize-with=". " delimiter=", "/>
+      <label form="short" prefix=", " text-case="capitalize-first"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter-precedes-last="always" initialize-with=". " name-as-sort-order="all"/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-count">
+    <names variable="author">
+      <name form="count"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with="."/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title" form="short"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="false">
+    <sort>
+      <key variable="issued"/>
+      <key macro="author-short"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+        <group>
+          <label variable="locator" form="short"/>
+          <text variable="locator" prefix=" "/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" et-al-min="15" et-al-use-first="14">
+    <sort>
+      <key macro="author" names-min="1" names-use-first="1"/>
+      <key macro="author-count" names-min="3" names-use-first="3"/>
+      <key macro="author" names-min="3" names-use-first="1"/>
+      <key variable="issued"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=", ">
+        <text macro="author"/>
+        <date variable="issued" suffix=",">
+          <date-part name="year"/>
+        </date>
+      </group>
+      <choose>
+        <if type="report">
+          <group prefix=" " delimiter=", ">
+            <group delimiter=" ">
+              <text variable="title" suffix=":"/>
+              <text variable="publisher"/>
+              <text variable="collection-title"/>
+              <text variable="number"/>
+            </group>
+            <group>
+              <text variable="page" suffix=" "/>
+              <label variable="page" form="short" plural="never"/>
+            </group>
+            <group prefix=" ">
+              <text term="accessed"/>
+              <group prefix=" " suffix=",">
+                <date variable="accessed">
+                  <date-part name="month" form="long" suffix=" "/>
+                  <date-part name="day" form="numeric" suffix=", "/>
+                  <date-part name="year" form="long"/>
+                </date>
+              </group>
+              <group prefix=" ">
+                <text term="at"/>
+                <text variable="container-title" prefix=" "/>
+              </group>
+              <group prefix=" ">
+                <text term="at"/>
+                <text variable="URL" prefix=" "/>
+              </group>
+            </group>
+          </group>
+        </if>
+        <else-if type="bill book graphic legal_case legislation motion_picture song" match="any">
+          <group suffix=":">
+            <text variable="title" prefix=" "/>
+            <text macro="editor-translator" prefix=" "/>
+          </group>
+          <group prefix=" " suffix="." delimiter=", ">
+            <text variable="collection-title"/>
+            <text macro="publisher"/>
+            <text variable="number-of-pages" suffix=" p."/>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <group delimiter=", " prefix=", ">
+            <text variable="title"/>
+            <group delimiter=" ">
+              <text variable="container-title"/>
+              <text variable="URL" prefix="(" suffix=")"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <text variable="title" prefix=" "/>
+          <group prefix=", ">
+            <text term="in"/>
+            <names variable="editor translator" prefix=" " suffix="," delimiter=", ">
+              <name and="text" initialize-with=". " name-as-sort-order="all"/>
+              <label form="short" prefix=" "/>
+            </names>
+            <text variable="event" prefix=" " suffix=" &#8211;"/>
+            <text variable="container-title" prefix=" " suffix=":"/>
+            <group suffix=".">
+              <text macro="publisher" prefix=" "/>
+              <group prefix=", ">
+                <label plural="never" suffix=" " variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="map">
+          <text variable="title" prefix=" "/>
+          <text variable="collection-title" prefix=": "/>
+          <text variable="note" prefix=", scale "/>
+        </else-if>
+        <else-if type="speech">
+          <text variable="title" prefix=" " suffix=":"/>
+          <text variable="event" prefix=" "/>
+          <text variable="event-place" prefix=", "/>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <group delimiter=": ">
+            <group>
+              <text variable="title"/>
+              <text variable="genre"/>
+            </group>
+            <text macro="publisher"/>
+            <group delimiter=" ">
+              <text variable="number-of-pages"/>
+              <label plural="never" variable="number-of-pages" form="short"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group suffix=":">
+            <text variable="title" prefix=" "/>
+            <text macro="editor-translator" prefix=" "/>
+          </group>
+          <group delimiter=", " prefix=" ">
+            <text variable="container-title"/>
+            <group delimiter=" ">
+              <label variable="volume" form="short"/>
+              <text variable="volume"/>
+            </group>
+            <group delimiter=" ">
+              <label plural="never" variable="page" form="short"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

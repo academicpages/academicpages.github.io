@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Ecological Applications</title>
+    <id>http://www.zotero.org/styles/ecological-applications</id>
+    <link href="http://www.zotero.org/styles/ecological-applications" rel="self"/>
+    <link href="http://www.zotero.org/styles/ecology" rel="independent-parent"/>
+    <link href="http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1939-5582/resources/author-guidelines-eap.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1051-0761</issn>
+    <eissn>1939-5582</eissn>
+    <updated>2017-06-15T04:35:02+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

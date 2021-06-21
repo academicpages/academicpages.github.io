@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-GB" demote-non-dropping-particle="sort-only" page-range-format="expanded">
+  <info>
+    <title>Scientia Agriculturae Bohemica</title>
+    <title-short>SAB</title-short>
+    <id>http://www.zotero.org/styles/scientia-agriculturae-bohemica</id>
+    <link href="http://www.zotero.org/styles/scientia-agriculturae-bohemica" rel="self"/>
+    <link href="http://www.zotero.org/styles/british-journal-of-cancer" rel="template"/>
+    <link href="http://sab.czu.cz/?r=5601" rel="documentation"/>
+    <contributor>
+      <name>Matěj Božik</name>
+      <email>bozik@af.czu.cz</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="botany"/>
+    <category field="chemistry"/>
+    <category field="science"/>
+    <category field="zoology"/>
+    <issn>1211-3174</issn>
+    <eissn>1805-9430</eissn>
+    <summary>Style for the Scientia Agriculturae Bohemica</summary>
+    <updated>2016-03-10T03:00:48+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en-GB">
+    <terms>
+      <term name="et-al">et al.</term>
+      <term name="editor" form="short">ed</term>
+    </terms>
+  </locale>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" delimiter-precedes-last="never" initialize-with=" "/>
+      <et-al font-style="normal" font-weight="normal"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter-precedes-last="never" delimiter-precedes-et-al="never"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <group>
+      <text variable="edition" font-style="normal" font-weight="normal" suffix=". Ed. "/>
+      <text variable="publisher" suffix=", "/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name delimiter-precedes-et-al="never" delimiter-precedes-last="never" initialize-with="" name-as-sort-order="all"/>
+      <label form="short" prefix=" (" suffix="):"/>
+    </names>
+  </macro>
+  <macro name="DOI">
+    <group prefix="doi:">
+      <text variable="DOI"/>
+    </group>
+  </macro>
+  <macro name="accessed">
+    <choose>
+      <if type="webpage">
+        <text variable="URL"/>
+        <group delimiter=": " prefix=" (" suffix=")">
+          <text term="accessed"/>
+          <date variable="accessed" form="numeric"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="issued"/>
+      <key macro="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key macro="author"/>
+      <key macro="issued"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <group delimiter=" " suffix=".">
+        <text macro="author"/>
+        <text macro="issued" prefix="(" suffix="):"/>
+        <choose>
+          <if type="article article-magazine article-newspaper article-journal review" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" strip-periods="true" font-style="normal" suffix=","/>
+            <text variable="volume" font-style="normal" font-weight="normal" suffix=","/>
+            <group delimiter=" ">
+              <text variable="page" suffix="."/>
+              <text macro="DOI"/>
+            </group>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <text variable="title"/>
+            <group prefix="In:" suffix=".">
+              <text macro="editor" prefix=" "/>
+              <text variable="container-title" text-case="title" prefix=" "/>
+            </group>
+            <text macro="publisher" suffix=","/>
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </else-if>
+          <else-if type="thesis">
+            <text variable="title" suffix="."/>
+            <text variable="genre" suffix="."/>
+            <text variable="publisher"/>
+          </else-if>
+          <else>
+            <text variable="title" suffix="."/>
+            <text macro="publisher"/>
+            <text macro="accessed"/>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

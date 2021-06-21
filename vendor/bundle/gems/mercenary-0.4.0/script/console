@@ -1,0 +1,3 @@
+#! /bin/bash
+
+irb -r./lib/mercenary.rb

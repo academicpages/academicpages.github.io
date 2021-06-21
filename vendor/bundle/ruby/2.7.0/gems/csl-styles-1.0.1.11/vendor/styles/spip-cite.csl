@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US">
+  <info>
+    <title>SPIP - Cite plugin</title>
+    <id>http://www.zotero.org/styles/spip-cite</id>
+    <link href="http://www.zotero.org/styles/spip-cite" rel="self"/>
+    <link href="http://www.spip-contrib.net/spip.php?article3698" rel="documentation"/>
+    <author>
+      <name>Joseph</name>
+      <email>joseph@larmarange.net</email>
+    </author>
+    <category citation-format="author-date"/>
+    <summary>For use with Cite plugin for SPIP.</summary>
+    <updated>2018-07-01T17:26:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <citation et-al-min="2" et-al-use-first="1">
+    <layout>
+      <names variable="author" prefix="(" suffix=" ">
+        <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long"/>
+      </names>
+      <date variable="issued" prefix=" " suffix=") ">
+        <date-part name="year" form="long"/>
+      </date>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout>
+      <choose>
+        <if type="book">
+          <group prefix="&lt;cite|book" suffix="       &gt;">
+            <text variable="title" prefix="|title="/>
+            <names variable="author" prefix="           |authors=">
+              <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long"/>
+            </names>
+            <date variable="issued" prefix="          |year=">
+              <date-part name="year" form="long"/>
+            </date>
+            <text variable="collection-title" prefix="             |series="/>
+            <text variable="number" prefix="          |volume="/>
+            <text variable="edition" prefix="           |edition="/>
+            <text variable="publisher" prefix="             |publisher="/>
+            <text variable="publisher-place" prefix="            |place=" suffix=" "/>
+            <text variable="page" prefix="        |page="/>
+            <text variable="URL" prefix="       |url="/>
+            <text variable="DOI" prefix="       |doi="/>
+            <text variable="ISBN" prefix="        |isbn="/>
+          </group>
+        </if>
+        <else-if type="chapter">
+          <group prefix="&lt;cite|chapter" suffix="          &gt;">
+            <text variable="title" prefix="|title="/>
+            <names variable="author" prefix="           |authors=">
+              <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long"/>
+            </names>
+            <text variable="container-title" prefix="            |booktitle="/>
+            <names variable="editor" prefix="           |editors=">
+              <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long" initialize-with=""/>
+            </names>
+            <date variable="issued" prefix="          |year=">
+              <date-part name="year" form="long"/>
+            </date>
+            <text variable="collection-title" prefix="             |series="/>
+            <text variable="number" prefix="          |volume="/>
+            <text variable="edition" prefix="           |edition="/>
+            <text variable="publisher" prefix="             |publisher="/>
+            <text variable="publisher-place" prefix="            |place=" suffix=" "/>
+            <text variable="page" prefix="        |page="/>
+            <text variable="URL" prefix="       |url="/>
+            <text variable="DOI" prefix="       |doi="/>
+            <text variable="ISBN" prefix="        |isbn="/>
+          </group>
+        </else-if>
+        <else-if type="article-journal">
+          <group prefix="&lt;cite|journal" suffix="          &gt;">
+            <text variable="title" prefix="|title="/>
+            <names variable="author" prefix="           |authors=">
+              <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long"/>
+            </names>
+            <text variable="container-title" prefix="            |journal="/>
+            <date variable="issued" prefix="          |year=">
+              <date-part name="year" form="long"/>
+            </date>
+            <text variable="volume" prefix="          |volume="/>
+            <text variable="issue" prefix="         |issues="/>
+            <text variable="page" prefix="        |page="/>
+            <text variable="URL" prefix="       |url="/>
+            <text variable="DOI" prefix="       |doi="/>
+          </group>
+        </else-if>
+        <else-if type="report">
+          <group prefix="&lt;cite|report" suffix="         &gt;">
+            <text variable="title" prefix="|title="/>
+            <names variable="author" prefix="           |authors=">
+              <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long"/>
+            </names>
+            <date variable="issued" prefix="          |year=">
+              <date-part name="year" form="long"/>
+            </date>
+            <text variable="genre" prefix="         |report_type="/>
+            <text variable="number" prefix="          |number="/>
+            <text variable="publisher" prefix="             |institution="/>
+            <text variable="publisher-place" prefix="            |place=" suffix=" "/>
+            <text variable="page" prefix="        |page="/>
+            <text variable="URL" prefix="       |url="/>
+            <text variable="DOI" prefix="       |doi="/>
+            <text variable="ISBN" prefix="        |isbn="/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group prefix="&lt;cite|thesis" suffix="         &gt;">
+            <text variable="title" prefix="|title="/>
+            <names variable="author" prefix="           |authors=">
+              <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long"/>
+            </names>
+            <date variable="issued" prefix="          |year=">
+              <date-part name="year" form="long"/>
+            </date>
+            <text variable="genre" prefix="         |thesis_type="/>
+            <text variable="publisher" prefix="             |university="/>
+            <text variable="publisher-place" prefix="            |place=" suffix=" "/>
+            <text variable="page" prefix="        |page="/>
+            <text variable="URL" prefix="       |url="/>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <group prefix="&lt;cite|web" suffix="             &gt;">
+            <text variable="title" prefix="|title="/>
+            <names variable="author" prefix="           |authors=">
+              <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long"/>
+            </names>
+            <date variable="accessed" prefix="            |accessdate=">
+              <date-part name="year" form="long"/>
+              <date-part name="month" form="numeric-leading-zeros" prefix="/"/>
+              <date-part name="day" form="numeric" prefix="/"/>
+            </date>
+            <text variable="container-title" prefix="            |site="/>
+            <text variable="URL" prefix="       |url="/>
+          </group>
+        </else-if>
+        <else>
+          <group prefix="&lt;cite|book" suffix="       &gt;">
+            <text variable="title" prefix="|title="/>
+            <names variable="author" prefix="           |authors=">
+              <name delimiter="; " name-as-sort-order="all" sort-separator=", " form="long"/>
+            </names>
+            <date variable="issued" prefix="          |year=">
+              <date-part name="year" form="long"/>
+            </date>
+            <text variable="collection-title" prefix="             |series="/>
+            <text variable="number" prefix="          |volume="/>
+            <text variable="edition" prefix="           |edition="/>
+            <text variable="publisher" prefix="             |publisher="/>
+            <text variable="publisher-place" prefix="            |place=" suffix=" "/>
+            <text variable="page" prefix="        |page="/>
+            <text variable="URL" prefix="       |url="/>
+            <text variable="DOI" prefix="       |doi="/>
+            <text variable="ISBN" prefix="        |isbn="/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

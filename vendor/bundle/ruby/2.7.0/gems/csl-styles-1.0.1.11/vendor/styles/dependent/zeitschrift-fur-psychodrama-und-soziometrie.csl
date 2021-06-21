@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="de-DE">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/springer -->
+  <info>
+    <title>Zeitschrift für Psychodrama und Soziometrie (German)</title>
+    <title-short>Z Psychodrama Soziometr</title-short>
+    <id>http://www.zotero.org/styles/zeitschrift-fur-psychodrama-und-soziometrie</id>
+    <link href="http://www.zotero.org/styles/zeitschrift-fur-psychodrama-und-soziometrie" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-socpsych-author-date" rel="independent-parent"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/Key_Style_Points_1.0.pdf" rel="documentation"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/manuscript-guidelines-1.0.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="psychology"/>
+    <issn>1619-5507</issn>
+    <eissn>1862-2526</eissn>
+    <updated>2015-04-23T02:17:01+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

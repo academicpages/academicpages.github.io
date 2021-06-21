@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	root:ETI"Listen::Record#root;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"4TODO: one Record object per watched directory? ;TI"TODO: deprecate;T:
+@fileI"lib/listen/record.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Listen::Record;TcRDoc::NormalClass0

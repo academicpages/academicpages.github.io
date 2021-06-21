@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="pt-BR">
+  <info>
+    <title>Revista Virtual de Química (Portuguese - Brazil)</title>
+    <title-short>RVq</title-short>
+    <id>http://www.zotero.org/styles/revista-virtual-de-quimica</id>
+    <link href="http://www.zotero.org/styles/revista-virtual-de-quimica" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-institute-of-physics" rel="template"/>
+    <link href="http://www.uff.br/RVQ/instrucaoaosautores.pdf" rel="documentation"/>
+    <author>
+      <name>Cleber Barreto</name>
+      <email>cleber.barreto@yahoo.com.br</email>
+      <uri>http://www.mendeley.com/profiles/cleber-barreto/</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>1984-6835</issn>
+    <summary>Reference style for Revista Virtual de Quimica</summary>
+    <updated>2016-09-28T13:09:49+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter="; " initialize-with=". " name-as-sort-order="all"/>
+      <label form="long" prefix=", " suffix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name delimiter="; " suffix="," initialize-with=". " name-as-sort-order="all"/>
+      <label form="short" prefix=" " suffix=";"/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="day-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="day" suffix=" "/>
+          <date-part name="month" form="long" suffix=" "/>
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="publisher" strip-periods="false"/>
+        <text variable="publisher-place"/>
+      </group>
+      <text macro="year-date"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number suffix="a." variable="edition"/>
+          <text term="edition" form="short" suffix=","/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0">
+    <layout suffix=".">
+      <text variable="citation-number" vertical-align="sup"/>
+      <text macro="author" prefix=" " suffix=" "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=" ">
+            <group delimiter=", ">
+              <text variable="title" text-case="title" font-style="italic"/>
+              <text macro="edition"/>
+            </group>
+            <group delimiter=", ">
+              <text macro="publisher"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=" ">
+            <text value="Em"/>
+            <group delimiter="; ">
+              <text variable="container-title" text-case="title" strip-periods="false" font-style="italic"/>
+              <text macro="editor"/>
+              <text macro="edition"/>
+            </group>
+            <group delimiter=", ">
+              <text macro="publisher"/>
+              <group delimiter=" ">
+                <text variable="chapter-number" form="short" prefix="cap. "/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="patent">
+          <group delimiter=" ">
+            <text variable="number" prefix=" "/>
+            <text macro="day-date" prefix="(" suffix=")"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text variable="status"/>
+            <text variable="title" text-case="title"/>
+            <text variable="genre"/>
+            <text variable="publisher"/>
+            <text variable="locator"/>
+            <text macro="year-date"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <text variable="title" suffix=". "/>
+            <text variable="container-title" form="short" text-case="title" font-style="italic"/>
+            <group delimiter=", ">
+              <text macro="year-date" font-weight="bold"/>
+              <group delimiter=" ">
+                <text variable="volume" form="long" font-style="italic" suffix=","/>
+                <text variable="page-first" suffix="."/>
+                <text variable="DOI" prefix="https://doi.org/"/>
+                <text variable="PMID" prefix="http://www.ncbi.nlm.nih.gov/pubmed/"/>
+                <choose>
+                  <if match="none" variable="DOI PMID">
+                    <text variable="URL"/>
+                  </if>
+                </choose>
+              </group>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Interaction Design &amp; Architecture(s)</title>
+    <title-short>IxD&amp;A</title-short>
+    <id>http://www.zotero.org/styles/interaction-design-and-architectures</id>
+    <link href="http://www.zotero.org/styles/interaction-design-and-architectures" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-lecture-notes-in-computer-science" rel="template"/>
+    <link href="http://www.mifav.uniroma2.it/inevent/events/idea2010/index.php?s=101&amp;a=7" rel="documentation"/>
+    <author>
+      <name>Hendrys Tobar</name>
+      <email>u1918137@udg.edu</email>
+      <uri>http://twitter.com/HendrysTobar</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>1826-9745</issn>
+    <eissn>2283-2998</eissn>
+    <summary>This is style is similar to Springer and it is used by the IxD&amp;A journal.</summary>
+    <updated>2015-01-17T11:30:12+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <group>
+      <names variable="author">
+        <name delimiter-precedes-last="always" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+        <label form="short" prefix=" " text-case="lowercase" strip-periods="true"/>
+        <substitute>
+          <names variable="editor"/>
+        </substitute>
+      </names>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="." delimiter=", " and="text" name-as-sort-order="all" sort-separator=", "/>
+      <label form="short" prefix=" (" text-case="lowercase" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher"/>
+    <text variable="publisher-place" prefix=", "/>
+  </macro>
+  <macro name="page">
+    <group>
+      <label variable="page" form="short" suffix=" "/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author" suffix=": "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=" ">
+            <text macro="title" suffix=","/>
+            <text macro="publisher" suffix=","/>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+          </group>
+        </if>
+        <else-if type="article-journal">
+          <group delimiter=" ">
+            <text macro="title"/>
+            <text variable="container-title" form="short" suffix=","/>
+            <text variable="volume" suffix=","/>
+            <text variable="page" prefix="pp. "/>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=" ">
+            <text macro="title"/>
+            <choose>
+              <if variable="container-title">
+                <text macro="editor" prefix="in " suffix=" "/>
+                <group delimiter=". ">
+                  <text variable="container-title"/>
+                  <text variable="volume" prefix="vol. "/>
+                  <text macro="page"/>
+                  <text macro="publisher"/>
+                </group>
+              </if>
+              <else>
+                <text term="presented at" text-case="capitalize-first" suffix=" "/>
+                <text variable="event"/>
+                <text variable="event-place" prefix=", "/>
+                <date variable="issued" prefix=" ">
+                  <date-part name="month" suffix=" "/>
+                  <date-part name="day" suffix=" "/>
+                </date>
+              </else>
+            </choose>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <group delimiter=" ">
+            <text macro="title" suffix=","/>
+            <text variable="URL"/>
+          </group>
+        </else-if>
+        <else-if type="speech">
+          <group delimiter=" ">
+            <text macro="title" suffix="."/>
+            <text variable="event" suffix="."/>
+            <text variable="event-place" prefix=", "/>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="URL"/>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

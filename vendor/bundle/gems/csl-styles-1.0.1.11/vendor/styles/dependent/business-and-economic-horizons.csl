@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Business and Economic Horizons</title>
+    <id>http://www.zotero.org/styles/business-and-economic-horizons</id>
+    <link href="http://www.zotero.org/styles/business-and-economic-horizons" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="https://academicpublishingplatforms.com/journal.php?journal=BEH#guides_to_authors" rel="documentation"/>
+    <author>
+      <name>Libor Ansorge</name>
+      <email>libor.ansorge@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <issn>1804-1205</issn>
+    <eissn>1804-5006</eissn>
+    <updated>2018-08-15T18:26:28+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

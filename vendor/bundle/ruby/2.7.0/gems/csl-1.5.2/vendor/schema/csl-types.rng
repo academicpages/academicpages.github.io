@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns="http://relaxng.org/ns/structure/1.0">
+  <div>
+    <a:documentation>Item types</a:documentation>
+    <define name="item-types">
+      <choice>
+        <value>article</value>
+        <value>article-journal</value>
+        <value>article-magazine</value>
+        <value>article-newspaper</value>
+        <value>bill</value>
+        <value>book</value>
+        <value>broadcast</value>
+        <value>chapter</value>
+        <value>dataset</value>
+        <value>entry</value>
+        <value>entry-dictionary</value>
+        <value>entry-encyclopedia</value>
+        <value>figure</value>
+        <value>graphic</value>
+        <value>interview</value>
+        <value>legal_case</value>
+        <value>legislation</value>
+        <value>manuscript</value>
+        <value>map</value>
+        <value>motion_picture</value>
+        <value>musical_score</value>
+        <value>pamphlet</value>
+        <value>paper-conference</value>
+        <value>patent</value>
+        <value>personal_communication</value>
+        <value>post</value>
+        <value>post-weblog</value>
+        <value>report</value>
+        <value>review</value>
+        <value>review-book</value>
+        <value>song</value>
+        <value>speech</value>
+        <value>thesis</value>
+        <value>treaty</value>
+        <value>webpage</value>
+      </choice>
+    </define>
+  </div>
+</grammar>

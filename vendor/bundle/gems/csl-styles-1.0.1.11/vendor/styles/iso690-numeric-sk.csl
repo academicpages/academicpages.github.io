@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="sk-SK" class="in-text">
+  <info>
+    <title>ISO-690 (numeric, Slovak)</title>
+    <id>http://www.zotero.org/styles/iso690-numeric-sk</id>
+    <link href="http://www.zotero.org/styles/iso690-numeric-sk" rel="self"/>
+    <link href="http://vili.uniba.sk/AK/citovanie_priklady.pdf" rel="documentation"/>
+    <author>
+      <name>Tomáš (balrog) Bielčík</name>
+      <email>bx.balrog@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="generic-base"/>
+    <summary>ISO 690 style for the University of Economics in Bratislava, Slovakia.(Numeric version)</summary>
+    <updated>2016-09-10T19:36:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- ISO 690 sequence parts
+    1. Primárna zodpovednosť
+    2. Názov
+    3. Druh nosiča
+    4. Sekundárna zodpovednosť
+    5. Vydanie
+    6. Označovanie zväzkov seriálových publikácií
+    7. Vydavateľské údaje
+    8. Časové údaje
+    9. Rozsah
+    10.Edícia
+    11.Poznámky
+    12.Dostupnosť a prístupnosť
+    13.Štandardné číslo
+    14.Časť dokumentu
+    15.Údaje o patentových dokumentoch
+     -->
+  <locale>
+    <terms>
+      <term name="anonymous">Anon.</term>
+      <term name="no date">[no date]</term>
+      <term name="in">in</term>
+      <term name="online">online</term>
+      <term name="accessed">accessed</term>
+      <term name="retrieved">Available</term>
+      <term name="from">from</term>
+      <term name="page" form="short">
+        <single>p.</single>
+        <multiple>pp.</multiple>
+      </term>
+    </terms>
+  </locale>
+  <!-- macro block
+     -->
+  <macro name="author">
+    <names variable="author" suffix=" ">
+      <name sort-separator=", " initialize-with="." name-as-sort-order="all" delimiter=" - " delimiter-precedes-last="always" et-al-min="3" et-al-use-first="1">
+        <name-part name="family" text-case="uppercase"/>
+        <name-part name="given" text-case="capitalize-first"/>
+      </name>
+      <label form="short" text-case="capitalize-first" suffix=". "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="container_author">
+    <names variable="container-author" suffix=" ">
+      <name sort-separator=", " initialize-with="." name-as-sort-order="all" delimiter=" - " delimiter-precedes-last="always" et-al-min="3" et-al-use-first="1">
+        <name-part name="family" text-case="uppercase"/>
+        <name-part name="given" text-case="capitalize-first"/>
+      </name>
+      <label form="short" text-case="capitalize-first" suffix=". "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <group delimiter=" " suffix=". ">
+      <choose>
+        <if type="book thesis" match="any">
+          <text variable="title" font-style="italic"/>
+        </if>
+        <else-if type="paper-conference chapter article-journal article-magazine article-newspaper webpage" match="any">
+          <text variable="title" suffix=". "/>
+          <text term="in" text-case="capitalize-first" suffix=" "/>
+          <text macro="container_author"/>
+          <choose>
+            <if variable="container-title">
+              <text variable="container-title" font-style="italic" suffix=" "/>
+            </if>
+            <else>
+              <text variable="event" font-style="italic" suffix=" "/>
+            </else>
+          </choose>
+        </else-if>
+      </choose>
+      <text macro="publication_source"/>
+    </group>
+  </macro>
+  <macro name="publication_source">
+    <choose>
+      <if variable="URL">
+        <text term="online" prefix="[" suffix="]"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <label form="short" text-case="capitalize-first" suffix=". "/>
+      <name and="text" delimiter=", "/>
+    </names>
+  </macro>
+  <macro name="time_data">
+    <group prefix=" [cit. " suffix="]. ">
+      <!--<text term="cited" text-case="lowercase" suffix=" "/>-->
+      <date variable="accessed">
+        <date-part name="year" suffix="-"/>
+        <date-part name="month" suffix="-" form="numeric-leading-zeros"/>
+        <date-part name="day" form="numeric-leading-zeros"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="availability">
+    <choose>
+      <if variable="URL">
+        <text value="Dostupné na internete: "/>
+        <text variable="URL" prefix="&lt;" suffix="&gt;"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <choose>
+        <if variable="publisher-place">
+          <text variable="publisher-place"/>
+        </if>
+        <else>
+          <!-- sine loco (whithout place) -->
+          <text value="[s.l.]"/>
+        </else>
+      </choose>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year" suffix=". "/>
+    </date>
+  </macro>
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="year" suffix=". "/>
+    </date>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if type="book thesis" match="any">
+        <text variable="number-of-pages" suffix=" s."/>
+      </if>
+      <else-if type="chapter paper-conference article-newspaper" match="any">
+        <text variable="page" prefix="s. " suffix=". "/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="notes">
+    <text variable="note" suffix=". "/>
+  </macro>
+  <macro name="edition">
+    <text variable="edition" suffix=". vyd."/>
+  </macro>
+  <macro name="publisher_block">
+    <group delimiter=", ">
+      <text macro="publisher"/>
+      <text macro="year-date"/>
+    </group>
+  </macro>
+  <macro name="issue">
+    <group delimiter=", ">
+      <text variable="volume" prefix="Vol.&#160;"/>
+      <text variable="issue" prefix="no.&#160;"/>
+      <text variable="page" prefix="s.&#160;"/>
+    </group>
+  </macro>
+  <macro name="isbn">
+    <text prefix="ISBN " variable="ISBN"/>
+  </macro>
+  <!-- macro block end -->
+  <citation>
+    <sort>
+      <key variable="citation-number" sort="ascending"/>
+    </sort>
+    <layout vertical-align="sup" prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="]   "/>
+      <text macro="author"/>
+      <choose>
+        <if type="book">
+          <group delimiter=" ">
+            <text macro="title" prefix=" " suffix="."/>
+            <text macro="edition"/>
+            <text macro="editor" suffix="."/>
+            <group delimiter=", ">
+              <text macro="publisher"/>
+              <text macro="year-date"/>
+            </group>
+            <text macro="pages"/>
+            <text prefix="ISBN " variable="ISBN"/>
+          </group>
+        </if>
+        <else-if type="article-journal article-magazine" match="any">
+          <text macro="title"/>
+          <text macro="edition"/>
+          <text macro="date"/>
+          <text macro="issue" suffix=". "/>
+          <text macro="time_data" suffix=". "/>
+          <text macro="availability"/>
+        </else-if>
+        <else-if type="article-newspaper">
+          <text macro="title"/>
+          <text macro="edition"/>
+          <text macro="publisher_block"/>
+          <text macro="pages"/>
+          <text macro="time_data" suffix=". "/>
+          <text macro="availability"/>
+        </else-if>
+        <else-if type="chapter entry entry-dictionary entry-encyclopedia" match="any">
+          <text macro="title"/>
+          <text macro="edition"/>
+          <text macro="publisher_block"/>
+          <text macro="pages"/>
+          <text macro="time_data"/>
+          <text macro="isbn"/>
+          <text macro="availability"/>
+        </else-if>
+        <else-if type="paper-conference">
+          <text macro="title"/>
+          <text macro="publisher_block"/>
+          <text macro="pages"/>
+          <text macro="time_data"/>
+          <text macro="availability"/>
+        </else-if>
+        <else-if type="thesis">
+          <text macro="title"/>
+          <text macro="publisher_block"/>
+          <text macro="time_data"/>
+          <text macro="availability"/>
+        </else-if>
+        <else-if type="patent">
+          <text macro="title"/>
+          <text macro="date"/>
+          <text variable="publisher-place"/>
+          <text macro="time_data"/>
+          <text macro="availability"/>
+        </else-if>
+        <else-if type="post-weblog post webpage" match="any">
+          <text macro="title"/>
+          <text macro="year-date"/>
+          <text macro="time_data"/>
+          <text macro="availability"/>
+        </else-if>
+        <else>
+          <group suffix=".">
+            <text macro="title" prefix=" "/>
+            <text macro="editor" prefix=" "/>
+          </group>
+          <group delimiter=", ">
+            <text macro="publisher"/>
+            <text macro="year-date"/>
+          </group>
+          <text macro="time_data"/>
+          <text macro="pages"/>
+          <text macro="notes"/>
+          <text macro="availability"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

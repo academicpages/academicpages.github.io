@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="de-DE">
+  <info>
+    <title>o-bib (German)</title>
+    <id>http://www.zotero.org/styles/o-bib</id>
+    <link href="http://www.zotero.org/styles/o-bib" rel="self"/>
+    <link href="http://www.zotero.org/styles/infoclio-de" rel="independent-parent"/>
+    <link href="https://www.o-bib.de/about/submissions" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <eissn>2363-9814</eissn>
+    <summary>Aktuell (Stand 14. August 2019) wird nicht mehr der Chicago Stil verwendet, sondern infoclio.ch (Deutschschweiz)</summary>
+    <updated>2019-08-19T03:14:42+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

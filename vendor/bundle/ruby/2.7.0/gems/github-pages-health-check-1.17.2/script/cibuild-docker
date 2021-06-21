@@ -1,0 +1,11 @@
+#!/bin/bash
+
+: ${RUBY_VERSION:="2.7"}
+docker build -t github-pages-health-check --build-arg RUBY_VERSION=$RUBY_VERSION .
+if [ -n "$DEBUG" ]; then
+  # Run a shell.
+  docker run -it --rm -v $(pwd):/app/github-pages-health-check github-pages-health-check
+else
+  # Run CI
+  docker run --rm github-pages-health-check script/cibuild --profile --fail-fast
+fi

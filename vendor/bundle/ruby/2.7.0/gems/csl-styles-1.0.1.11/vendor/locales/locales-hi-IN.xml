@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="hi-IN">
+  <info>
+    <translator>
+      <name>Neha Srivastava</name>
+      <email>neha-srivastava@outlook.com</email>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2021-02-22T12:13:02+05:30</updated>
+  </info>
+  <style-options punctuation-in-quote="true"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=", "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">अंतिम उपयोग</term>
+    <term name="and">व</term>
+    <term name="and others">व अन्य</term>
+    <term name="anonymous">अज्ञात</term>
+    <term name="anonymous" form="short">अज्ञात</term>
+    <term name="at">पर</term>
+    <term name="available at">पर उपलब्ध</term>
+    <term name="by">द्वारा</term>
+    <term name="circa">सन </term>
+    <term name="circa" form="short">सन.</term>
+    <term name="cited">उल्लेखित</term>
+    <term name="edition">
+      <single>संस्करण</single>
+      <multiple>संस्करण</multiple>
+    </term>
+    <term name="edition" form="short">ed.</term>
+    <term name="et-al">इत्यादि</term>
+    <term name="forthcoming">आगामी</term>
+    <term name="from">से</term>
+    <term name="ibid">उक्त</term>
+    <term name="in">में</term>
+    <term name="in press">मुद्रण में</term>
+    <term name="internet">इंटर्नेट</term>
+    <term name="interview">साक्षात्कार</term>
+    <term name="letter">पत्र</term>
+    <term name="no date">दिनांक अज्ञात</term>
+    <term name="no date" form="short">n.d.</term>
+    <term name="online">ऑनलाइन</term>
+    <term name="presented at">पर प्रस्तुत</term>
+    <term name="reference">
+      <single>संदर्भ</single>
+      <multiple>references</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>ref.</single>
+      <multiple>refs.</multiple>
+    </term>
+    <term name="retrieved">पुनर्प्राप्त</term>
+    <term name="scale">scale</term>
+    <term name="version">संस्करण</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">CE</term>
+    <term name="bc">BCE</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">“</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">वाँ</term>
+    <term name="ordinal-01"></term>
+    <term name="ordinal-02"></term>
+    <term name="ordinal-03"></term>
+    <term name="ordinal-04"></term>
+    <term name="ordinal-06"></term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">पहला</term>
+    <term name="long-ordinal-01" gender-form="feminine">पहली</term>
+    <term name="long-ordinal-02">दूसरा</term>
+    <term name="long-ordinal-01" gender-form="feminine">दूसरी</term>
+    <term name="long-ordinal-03">तीसरा</term>
+    <term name="long-ordinal-03" gender-form="feminine">तीसरी</term>
+    <term name="long-ordinal-04">चौथा</term>
+    <term name="long-ordinal-04" gender-form="feminine">चौथी</term>
+    <term name="long-ordinal-05">पाँचवा</term>
+    <term name="long-ordinal-05" gender-form="feminine">पाँचवी</term>
+    <term name="long-ordinal-06">छठा</term>
+    <term name="long-ordinal-06" gender-form="feminine">छठी</term>
+    <term name="long-ordinal-07">सातवाँ</term>
+    <term name="long-ordinal-07" gender-form="feminine">सातवीं</term>
+    <term name="long-ordinal-08">आठवाँ</term>
+    <term name="long-ordinal-08" gender-form="feminine">आठवीं</term>
+    <term name="long-ordinal-09">नवाँ</term>
+    <term name="long-ordinal-09" gender-form="feminine">नौवीं</term>
+    <term name="long-ordinal-10">दसवाँ</term>
+    <term name="long-ordinal-10" gender-form="feminine">दसवीं</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>पुस्तक</single>
+      <multiple>पुस्तकें</multiple>
+    </term>
+    <term name="chapter">
+      <single>अध्याय</single>
+      <multiple>अध्याय</multiple>
+    </term>
+    <term name="column">
+      <single>कॉलम</single>
+      <multiple>columns</multiple>
+    </term>
+    <term name="figure">
+      <single>चित्र</single>
+      <multiple>चित्रों</multiple>
+    </term>
+    <term name="folio">
+      <single>पर्ण</single>
+      <multiple>folios</multiple>
+    </term>
+    <term name="issue">
+      <single>संख्या</single>
+      <multiple>संख्याएँ</multiple>
+    </term>
+    <term name="line">
+      <single>पंक्ति</single>
+      <multiple>पंक्तियाँ</multiple>
+    </term>
+    <term name="note">
+      <single>नोट</single>
+      <multiple>notes</multiple>
+    </term>
+    <term name="opus">
+      <single>opus</single>
+      <multiple>opera</multiple>
+    </term>
+    <term name="page">
+      <single>पृष्ठ</single>
+      <multiple>पृष्ठ</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>पृष्ठ संख्या</single>
+      <multiple>पृष्ठों की संख्या</multiple>
+    </term>
+    <term name="paragraph">
+      <single>अनुच्छेद</single>
+      <multiple>paragraphs</multiple>
+    </term>
+    <term name="part">
+      <single>भाग</single>
+      <multiple>parts</multiple>
+    </term>
+    <term name="section">
+      <single>अनुभाग</single>
+      <multiple>sections</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>पद</single>
+      <multiple>verses</multiple>
+    </term>
+    <term name="volume">
+      <single>वॉल्यूम</single>
+      <multiple>वॉल्यूम्ज़</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">
+      <single>bk.</single>
+      <multiple>bks.</multiple>
+    </term>
+    <term name="chapter" form="short">
+      <single>chap.</single>
+      <multiple>chaps.</multiple>
+    </term>
+    <term name="column" form="short">
+      <single>col.</single>
+      <multiple>cols.</multiple>
+    </term>
+    <term name="figure" form="short">
+      <single>fig.</single>
+      <multiple>figs.</multiple>
+    </term>
+    <term name="folio" form="short">
+      <single>fol.</single>
+      <multiple>fols.</multiple>
+    </term>
+    <term name="issue" form="short">
+      <single>no.</single>
+      <multiple>nos.</multiple>
+    </term>
+    <term name="line" form="short">
+      <single>l.</single>
+      <multiple>ll.</multiple>
+    </term>
+    <term name="note" form="short">
+      <single>n.</single>
+      <multiple>nn.</multiple>
+    </term>
+    <term name="opus" form="short">
+      <single>op.</single>
+      <multiple>opp.</multiple>
+    </term>
+    <term name="page" form="short">
+      <single>पृ.</single>
+      <multiple>पृ.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>पृ. स.</single>
+      <multiple>पृ. स.</multiple>
+    </term>
+    <term name="paragraph" form="short">
+      <single>para.</single>
+      <multiple>paras.</multiple>
+    </term>
+    <term name="part" form="short">
+      <single>pt.</single>
+      <multiple>pts.</multiple>
+    </term>
+    <term name="section" form="short">
+      <single>sec.</single>
+      <multiple>secs.</multiple>
+    </term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>v.</single>
+      <multiple>vv.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>vol.</single>
+      <multiple>vols.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>निर्देशक</single>
+      <multiple>directors</multiple>
+    </term>
+    <term name="editor">
+      <single>सम्पादक</single>
+      <multiple>editors</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>सम्पादक</single>
+      <multiple>editors</multiple>
+    </term>
+    <term name="illustrator">
+      <single>चित्रकार</single>
+      <multiple>illustrators</multiple>
+    </term>
+    <term name="translator">
+      <single>अनुवादक</single>
+      <multiple>translators</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>सम्पादक &amp; अनुवादक</single>
+      <multiple>editors &amp; translators</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>ed.</single>
+      <multiple>eds.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>ed.</single>
+      <multiple>eds.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>tran.</single>
+      <multiple>trans.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>ed. &amp; tran.</single>
+      <multiple>eds. &amp; trans.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">द्वारा</term>
+    <term name="director" form="verb">निर्देशन</term>
+    <term name="editor" form="verb">सम्पादन</term>
+    <term name="editorial-director" form="verb">निर्देशन</term>
+    <term name="illustrator" form="verb">चित्रकारी</term>
+    <term name="interviewer" form="verb">साक्षात्कारकर्ता</term>
+    <term name="recipient" form="verb">सेवा में</term>
+    <term name="reviewed-author" form="verb">द्वारा</term>
+    <term name="translator" form="verb">अनुवाद </term>
+    <term name="editortranslator" form="verb">सम्पादन &amp; अनुवाद</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir. by</term>
+    <term name="editor" form="verb-short">ed. by</term>
+    <term name="editorial-director" form="verb-short">ed. by</term>
+    <term name="illustrator" form="verb-short">illus. by</term>
+    <term name="translator" form="verb-short">trans. by</term>
+    <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">जनवरी</term>
+    <term name="month-02">फ़रवरी</term>
+    <term name="month-03">मार्च</term>
+    <term name="month-04">अप्रैल</term>
+    <term name="month-05">मई</term>
+    <term name="month-06">जून</term>
+    <term name="month-07">जुलाई</term>
+    <term name="month-08">अगस्त</term>
+    <term name="month-09">सितम्बर</term>
+    <term name="month-10">अक्टूबर</term>
+    <term name="month-11">नवम्बर</term>
+    <term name="month-12">दिसम्बर</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">जन.</term>
+    <term name="month-02" form="short">फ़र.</term>
+    <term name="month-03" form="short">मार्च</term>
+    <term name="month-04" form="short">अप्रैल</term>
+    <term name="month-05" form="short">मई</term>
+    <term name="month-06" form="short">जून</term>
+    <term name="month-07" form="short">जुलाई</term>
+    <term name="month-08" form="short">अग.</term>
+    <term name="month-09" form="short">सित.</term>
+    <term name="month-10" form="short">अक्ट.</term>
+    <term name="month-11" form="short">नव.</term>
+    <term name="month-12" form="short">दिस.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">वसंत ऋतु</term>
+    <term name="season-02">ग्रीष्म ऋतु</term>
+    <term name="season-03">पतझड़ ऋतु</term>
+    <term name="season-04">शिशिर ऋतु</term>
+  </terms>
+</locale>

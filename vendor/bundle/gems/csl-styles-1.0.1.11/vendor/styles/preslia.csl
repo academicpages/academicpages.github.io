@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" and="symbol" sort-separator=" " page-range-format="expanded" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Preslia - The Journal of the Czech Botanical Society</title>
+    <title-short>Preslia</title-short>
+    <id>http://www.zotero.org/styles/preslia</id>
+    <link href="http://www.zotero.org/styles/preslia" rel="self"/>
+    <link href="http://www.preslia.cz/guide.html" rel="documentation"/>
+    <author>
+      <name>Vojtěch Zeisek</name>
+      <uri>http://trapa.cz/</uri>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="botany"/>
+    <issn>0032-7786</issn>
+    <summary>Preslia is a peer-reviewed scientific journal publishing original research papers on plant systematics, morphology, phytogeography, ecology and vegetation science, with a geographical focus on central Europe. The journal was founded in 1914 and named in honour of brothers Jan Svatopluk Presl (1791&#8211;1849) and Karel Bořivoj Presl (1794&#8211;1852), outstanding Bohemian botanists. It is published quarterly by the Czech Botanical Society.</summary>
+    <updated>2015-01-24T15:23:58+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor-translator">
+    <names variable="editor translator" prefix="(" suffix=")" delimiter=", ">
+      <name and="symbol" initialize-with=". " delimiter=", "/>
+      <label form="short" prefix=", " text-case="capitalize-first"/>
+    </names>
+  </macro>
+  <macro name="issued-year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name and="symbol" delimiter-precedes-et-al="always" initialize-with=". " name-as-sort-order="all"/>
+      <label form="short" text-case="capitalize-first" strip-periods="true" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="symbol" initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <text variable="title" form="short" font-style="normal"/>
+          </if>
+          <else>
+            <text variable="title" form="short" quotes="false"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="normal"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher" prefix="&#8211; "/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" collapse="year">
+    <sort>
+      <key variable="issued"/>
+      <key variable="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <date date-parts="year" form="numeric" variable="issued">
+          <date-part name="year"/>
+        </date>
+        <group>
+          <label variable="locator" form="short"/>
+          <text variable="locator" prefix=" "/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="issued-year"/>
+      <key macro="title"/>
+    </sort>
+    <layout>
+      <text macro="author" suffix="."/>
+      <date variable="issued" prefix=" (" suffix="):">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group suffix=".">
+            <text macro="title" prefix=" "/>
+            <text macro="editor-translator"/>
+          </group>
+          <text macro="publisher" prefix=" " suffix="."/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" "/>
+          <group prefix=". ">
+            <text term="in" text-case="capitalize-first"/>
+            <names variable="editor translator" prefix=" " suffix="," delimiter=", ">
+              <name and="symbol" initialize-with="." name-as-sort-order="all"/>
+              <label form="short" prefix=" (" suffix=")"/>
+            </names>
+            <text variable="container-title" font-style="normal" prefix=" " suffix=","/>
+            <group prefix=" " suffix=".">
+              <label variable="page" form="short" suffix=" "/>
+              <text variable="page"/>
+            </group>
+            <text variable="collection-title" prefix=" " suffix="."/>
+            <group suffix=".">
+              <text macro="publisher" prefix=" "/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="article-journal">
+          <group suffix=". " prefix=" " delimiter=" ">
+            <text macro="title"/>
+            <text macro="editor-translator"/>
+          </group>
+          <choose>
+            <if variable="issue">
+              <group delimiter=" " suffix=".">
+                <text variable="container-title" form="short" strip-periods="false" font-style="normal" prefix="&#8211; "/>
+                <text variable="volume" font-style="normal" suffix=":"/>
+                <text variable="page" strip-periods="false"/>
+              </group>
+            </if>
+            <else>
+              <text variable="container-title" form="short" font-style="normal" prefix="&#8211; " suffix="."/>
+            </else>
+          </choose>
+        </else-if>
+        <else>
+          <group suffix=". " prefix=" " delimiter=" ">
+            <text macro="title"/>
+            <text macro="editor-translator"/>
+          </group>
+          <group delimiter=" " suffix=".">
+            <text variable="container-title" font-style="italic" suffix="."/>
+            <text variable="volume" font-style="normal" suffix=":"/>
+            <text variable="page" suffix="."/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

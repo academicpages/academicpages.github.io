@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"compact:ETI"&REXML::Formatters::Pretty#compact;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"JIf compact is set to true, then the formatter will attempt to use as ;TI"little space as possible;T:
+@fileI"#lib/rexml/formatters/pretty.rb;T:0@omit_headings_from_table_of_contents_below0F@I"REXML::Formatters::Pretty;TcRDoc::NormalClass0

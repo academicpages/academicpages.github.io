@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
+  <info>
+    <title>Photosynthetica</title>
+    <id>http://www.zotero.org/styles/photosynthetica</id>
+    <link href="http://www.zotero.org/styles/photosynthetica" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-child-and-adolescent-psychopharmacology" rel="template"/>
+    <link href="https://ps.ueb.cas.cz/artkey/inf-990000-0200_For-Authors.php" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0300-3604</issn>
+    <eissn>1573-9058</eissn>
+    <updated>2019-09-26T14:43:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with="." name-as-sort-order="all"/>
+      <et-al font-style="italic"/>
+      <label form="short" strip-periods="false" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=""/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="container">
+    <choose>
+      <if type="bill book chapter graphic legal_case legislation motion_picture report song thesis" match="any">
+        <group delimiter=". ">
+          <group delimiter=": ">
+            <choose>
+              <if type="chapter paper-conference" match="any">
+                <text term="in" text-case="capitalize-first"/>
+              </if>
+            </choose>
+            <names variable="editor translator" delimiter=", ">
+              <name prefix=" " and="text" initialize-with="." name-as-sort-order="all"/>
+              <label form="short" prefix=" (" suffix=")"/>
+            </names>
+            <text variable="container-title"/>
+          </group>
+          <choose>
+            <if type="chapter paper-conference" match="any">
+              <group delimiter=" ">
+                <label text-case="capitalize-first" strip-periods="false" variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
+            </if>
+          </choose>
+          <group delimiter=" ">
+            <text macro="publisher"/>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </group>
+        </group>
+      </if>
+      <else>
+        <group delimiter=", ">
+          <choose>
+            <if match="none" variable="volume page">
+              <choose>
+                <if type="article-journal" match="any">
+                  <group delimiter=": ">
+                    <text variable="container-title"/>
+                    <text variable="DOI" prefix="doi:"/>
+                  </group>
+                </if>
+              </choose>
+            </if>
+            <else>
+              <group delimiter=" ">
+                <text variable="container-title" form="short" strip-periods="false"/>
+                <group delimiter=": ">
+                  <text variable="volume" font-weight="bold"/>
+                  <text variable="page"/>
+                </group>
+              </group>
+            </else>
+          </choose>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <citation disambiguate-add-year-suffix="true" cite-group-delimiter=", " collapse="year" et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="3" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". &#8211; ">
+        <group delimiter=": ">
+          <text macro="author"/>
+          <text macro="title"/>
+        </group>
+        <text macro="container"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

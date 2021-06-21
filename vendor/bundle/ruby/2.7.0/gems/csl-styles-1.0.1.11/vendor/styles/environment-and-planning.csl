@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Environment and Planning</title>
+    <id>http://www.zotero.org/styles/environment-and-planning</id>
+    <link href="http://www.zotero.org/styles/environment-and-planning" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-plant-cell" rel="template"/>
+    <link href="http://www.envplan.com/ref_examples.html" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="geography"/>
+    <summary>Style for the Environment and Planning journals A-D</summary>
+    <updated>2015-01-10T18:11:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <style-options punctuation-in-quote="false"/>
+    <terms>
+      <term name="editor" form="verb-short">ed. by</term>
+      <term name="editor" form="short">
+        <single>ed</single>
+        <multiple>eds</multiple>
+      </term>
+    </terms>
+  </locale>
+  <macro name="editor">
+    <names variable="editor" delimiter=",">
+      <label form="short" text-case="capitalize-first" suffix=" " strip-periods="true"/>
+      <name sort-separator=", " and="text" initialize-with=" " delimiter=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with=" " delimiter=", "/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with="."/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book thesis" match="any">
+        <text variable="title" font-style="italic" prefix=" "/>
+      </if>
+      <else>
+        <text variable="title" quotes="true" prefix=", "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="book chapter paper-conference" match="any">
+        <group delimiter=", " prefix=" (" suffix=")">
+          <text variable="publisher"/>
+          <text variable="publisher-place"/>
+        </group>
+      </if>
+      <else>
+        <group delimiter=", " prefix=", ">
+          <text variable="publisher"/>
+          <text variable="publisher-place"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" strip-periods="true"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="locator">
+    <group delimiter=" ">
+      <label variable="locator"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" collapse="year">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="year-date" sort="ascending"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+        <text macro="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" et-al-min="21" et-al-use-first="20">
+    <sort>
+      <key macro="author"/>
+      <key macro="year-date"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <group delimiter=", ">
+        <group>
+          <group delimiter=", ">
+            <text macro="author"/>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </group>
+          <text macro="title"/>
+          <choose>
+            <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+              <group delimiter=" " prefix=" ">
+                <text macro="edition"/>
+                <text macro="editor"/>
+              </group>
+              <text macro="publisher"/>
+            </if>
+            <else-if type="chapter paper-conference" match="any">
+              <text term="in" prefix=", "/>
+              <group prefix=" " delimiter=" ">
+                <text variable="container-title" font-style="italic"/>
+                <text macro="edition"/>
+                <text macro="editor"/>
+                <text variable="collection-title"/>
+              </group>
+              <group>
+                <text macro="publisher" prefix=" "/>
+                <group prefix=", ">
+                  <label variable="page" suffix=" " form="short" strip-periods="true"/>
+                  <text variable="page"/>
+                </group>
+              </group>
+            </else-if>
+            <else>
+              <group delimiter=" " prefix=" ">
+                <text variable="container-title" font-style="italic"/>
+                <group>
+                  <text variable="volume" font-weight="bold"/>
+                  <text variable="issue" prefix="(" suffix=")"/>
+                </group>
+                <text variable="page"/>
+              </group>
+            </else>
+          </choose>
+        </group>
+        <text variable="URL"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

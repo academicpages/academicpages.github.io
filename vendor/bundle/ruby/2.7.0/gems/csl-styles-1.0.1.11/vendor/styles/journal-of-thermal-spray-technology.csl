@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Journal of Thermal Spray Technology</title>
+    <title-short>J Therm Spray Tech</title-short>
+    <id>http://www.zotero.org/styles/journal-of-thermal-spray-technology</id>
+    <link href="http://www.zotero.org/styles/journal-of-thermal-spray-technology" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-physics-brackets" rel="template"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/JTST+Author+Guidelines.pdf?SGWID=0-0-45-1510268-p173658292" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <issn>1059-9630</issn>
+    <eissn>1544-1016</eissn>
+    <updated>2016-06-21T02:53:37+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" initialize-with="."/>
+      <label form="short" text-case="capitalize-first" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name and="text" initialize-with="."/>
+      <label form="short" text-case="capitalize-first" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="article-journal chapter" match="any">
+        <text variable="title" text-case="title"/>
+      </if>
+      <else>
+        <text variable="title" quotes="true" text-case="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal">
+        <text variable="container-title" font-style="italic" form="short"/>
+      </if>
+      <else>
+        <text variable="container-title" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix="doi:"/>
+          </if>
+          <else>
+            <group delimiter=". ">
+              <text variable="URL"/>
+              <group delimiter=" ">
+                <text term="accessed" text-case="capitalize-first"/>
+                <date variable="accessed">
+                  <date-part name="day" form="numeric" suffix=" "/>
+                  <date-part name="month" suffix=" "/>
+                  <date-part name="year" form="long"/>
+                </date>
+              </group>
+            </group>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher-place" prefix="(" suffix=")"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="journal-locators">
+    <choose>
+      <if type="article-journal">
+        <group>
+          <text variable="volume" font-weight="bold"/>
+          <text variable="issue" prefix="(" suffix=")"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <group delimiter=" ">
+      <text term="page" form="short" strip-periods="true"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," prefix="(Ref " suffix=")">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush" et-al-min="31" et-al-use-first="30">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=", ">
+        <text macro="author"/>
+        <text macro="title"/>
+        <text macro="container-title"/>
+        <text macro="editor"/>
+        <text macro="edition"/>
+        <text macro="publisher"/>
+        <text macro="year-date"/>
+        <text macro="journal-locators"/>
+        <text macro="pages"/>
+        <text macro="access"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" default-locale="de-DE" version="1.0" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>Universität zu Köln - Seminar für ABWL und Finanzierungslehre (German)</title>
+    <id>http://www.zotero.org/styles/universitat-zu-koln-seminar-fur-abwl-und-finanzierungslehre</id>
+    <link href="http://www.zotero.org/styles/universitat-zu-koln-seminar-fur-abwl-und-finanzierungslehre" rel="self"/>
+    <link href="http://www.zotero.org/styles/stuttgart-media-university" rel="template"/>
+    <link href="http://www.finance.uni-koeln.de/sites/finanzierungslehre/documents/studium/Leitfaden/Anleitung_fuer_wissenschaftliches_Arbeiten-06_15.pdf" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <summary>Stil für die Universität zu Köln - Seminar für ABWL und Finanzierungslehre, Version Juni 2015.</summary>
+    <updated>2018-06-10T04:28:01+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="volume" form="short">vol.</term>
+      <term name="retrieved">zugegriffen am</term>
+      <term name="anonymous">o.V.</term>
+      <term name="accessed">Zugriff:</term>
+      <term name="section" form="short">
+        <single>Abs.</single>
+        <multiple>Abs.</multiple>
+      </term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter="; " and="text" delimiter-precedes-last="never" name-as-sort-order="all"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <text term="anonymous"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author" delimiter=";">
+      <name form="short" delimiter="/" delimiter-precedes-last="never" initialize-with=". " sort-separator=","/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" delimiter="; ">
+      <name name-as-sort-order="all" sort-separator=", " delimiter="; " delimiter-precedes-last="never" form="long"/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="accessed">
+    <date variable="accessed" prefix=" ">
+      <date-part form="numeric" name="day" suffix="."/>
+      <date-part form="numeric" name="month" suffix="."/>
+      <date-part form="long" name="year"/>
+    </date>
+  </macro>
+  <macro name="date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part form="numeric" name="day" suffix="."/>
+          <date-part form="numeric" name="month" suffix="."/>
+          <date-part form="long" name="year"/>
+        </date>
+      </if>
+      <else>
+        <date variable="accessed">
+          <date-part form="numeric" name="day" suffix="."/>
+          <date-part form="numeric" name="month" suffix="."/>
+          <date-part form="long" name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="pages">
+    <group delimiter=" ">
+      <label strip-periods="false" variable="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <group delimiter=". ">
+      <number variable="edition"/>
+      <label text-case="capitalize-first" variable="edition" form="short"/>
+    </group>
+  </macro>
+  <citation disambiguate-add-year-suffix="true">
+    <layout delimiter="; " suffix=".">
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text macro="author-short"/>
+          <text macro="year-date" prefix="(" suffix=")"/>
+        </group>
+        <group delimiter=" ">
+          <label text-case="capitalize-first" variable="locator" form="short"/>
+          <text variable="locator"/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key macro="date"/>
+    </sort>
+    <layout suffix=".">
+      <group>
+        <text macro="author"/>
+        <text macro="year-date" prefix=" (" suffix=")"/>
+      </group>
+      <text variable="title" prefix=": " suffix=", "/>
+      <choose>
+        <if type="webpage post-weblog">
+          <text variable="container-title"/>
+        </if>
+        <else-if type="speech" match="any">
+          <text variable="publisher-place" prefix=", "/>
+          <text macro="date" prefix=", "/>
+          <text macro="accessed" prefix=", "/>
+        </else-if>
+        <else-if type="article-newspaper article-magazine article-journal" match="any">
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text term="in"/>
+              <text variable="container-title"/>
+            </group>
+            <group delimiter=" ">
+              <label text-case="capitalize-first" variable="volume" form="short"/>
+              <text variable="volume"/>
+            </group>
+            <text macro="pages"/>
+          </group>
+        </else-if>
+        <else-if type="chapter" match="any">
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text term="in"/>
+              <text macro="editor"/>
+              <text variable="container-title" font-style="normal"/>
+            </group>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+            <text macro="pages"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </else>
+      </choose>
+      <choose>
+        <if type="webpage post-weblog">
+          <group delimiter=" " prefix=", ">
+            <text variable="URL"/>
+            <text macro="accessed" prefix="(" suffix=")"/>
+          </group>
+        </if>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US" demote-non-dropping-particle="sort-only" page-range-format="expanded">
+  <info>
+    <title>European Journal of Pain</title>
+    <id>http://www.zotero.org/styles/european-journal-of-pain</id>
+    <link href="http://www.zotero.org/styles/european-journal-of-pain" rel="self"/>
+    <link href="http://www.zotero.org/styles/cell" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291532-2149/homepage/ForAuthors.html#References_" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="medicine"/>
+    <issn>1090-3801</issn>
+    <eissn>1532-2149</eissn>
+    <updated>2014-08-28T01:36:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" initialize-with="." delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <group prefix="(" delimiter=": " suffix=")">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="." and="text" delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="issued"/>
+      <key variable="title"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="99" et-al-use-first="98">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="issued" prefix="(" suffix=")."/>
+        <choose>
+          <if type="article article-magazine article-newspaper article-journal review" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" form="short" text-case="title" font-style="italic" strip-periods="true"/>
+            <group delimiter=", ">
+              <text variable="volume"/>
+              <text variable="page"/>
+            </group>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" prefix="In " suffix="," text-case="title" font-style="italic"/>
+            <text macro="editor"/>
+            <text macro="publisher" suffix=","/>
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </else-if>
+          <else-if type="thesis">
+            <text variable="title" suffix="."/>
+            <text variable="genre" suffix="."/>
+            <text variable="publisher"/>
+          </else-if>
+          <else>
+            <text variable="title" font-style="italic"/>
+            <text macro="publisher"/>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

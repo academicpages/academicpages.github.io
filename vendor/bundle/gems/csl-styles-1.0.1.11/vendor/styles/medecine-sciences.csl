@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>médecine/sciences</title>
+    <id>http://www.zotero.org/styles/medecine-sciences</id>
+    <link href="http://www.zotero.org/styles/medecine-sciences" rel="self"/>
+    <link href="http://www.zotero.org/styles/plos" rel="template"/>
+    <link href="http://www.medecinesciences.org" rel="documentation"/>
+    <author>
+      <name>Florent Angly</name>
+      <email>florent.angly@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="science"/>
+    <issn>0767-0974</issn>
+    <eissn>1958-5381</eissn>
+    <summary>Style for the French journal Médecine / Sciences</summary>
+    <updated>2014-09-06T22:02:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <name initialize-with="" name-as-sort-order="all" sort-separator=" " delimiter=", " delimiter-precedes-last="always"/>
+      <label form="long" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author" suffix=".">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=" : ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number" sort="ascending"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=" " prefix=" ">
+            <text macro="title" suffix="." font-style="italic"/>
+            <text macro="edition"/>
+            <text macro="editor"/>
+            <text macro="publisher" suffix=","/>
+            <text macro="year-date" prefix=" " suffix=" :"/>
+            <text variable="number-of-pages"/>
+            <label variable="page" form="short"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" " suffix="."/>
+          <group prefix=" " delimiter=". " suffix=".">
+            <group>
+              <text term="in" text-case="capitalize-first" suffix=" :"/>
+              <text macro="editor" prefix=" "/>
+            </group>
+            <text variable="container-title" font-style="italic"/>
+            <text variable="collection-title"/>
+          </group>
+          <text macro="publisher" prefix=" " suffix=","/>
+          <text macro="year-date" prefix=" " suffix=" :"/>
+          <text variable="page" prefix=" " suffix="."/>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=" " prefix=" ">
+            <text macro="title"/>
+            <text variable="genre" prefix="[" suffix="]. "/>
+            <text macro="publisher" suffix="."/>
+            <text macro="year-date" prefix=" " suffix="."/>
+          </group>
+        </else-if>
+        <else>
+          <text macro="title" prefix=" " suffix="."/>
+          <text variable="container-title" form="short" font-style="italic" prefix=" "/>
+          <text macro="year-date" prefix=" " suffix=" ;"/>
+          <text variable="volume" prefix=" " suffix=" "/>
+          <text variable="page" prefix=": "/>
+          <text value="."/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

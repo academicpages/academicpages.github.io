@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"namespaces:ETI"REXML::DocType#namespaces;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"%name is the name of the doctype ;TI"0external_id is the referenced DTD, if given;T:
+@fileI"lib/rexml/doctype.rb;T:0@omit_headings_from_table_of_contents_below0F@I"REXML::DocType;TcRDoc::NormalClass0

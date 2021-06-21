@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>International Journal of Geriatric Psychiatry</title>
+    <title-short>JGP</title-short>
+    <id>http://www.zotero.org/styles/international-journal-of-geriatric-psychiatry</id>
+    <link href="http://www.zotero.org/styles/international-journal-of-geriatric-psychiatry" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard-university-of-wolverhampton" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291099-1166/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Amit Parekh</name>
+      <email>amitparekh89@hotmail.com</email>
+    </author>
+    <contributor>
+      <name>Vincent Demaurex</name>
+      <email>vincent.demaurex@chuv.ch</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="medicine"/>
+    <issn>0885-6230</issn>
+    <eissn>1099-1166</eissn>
+    <summary>Harvard (author-date style) for International Journal of Geriatric Psychiatry based on publications due to not up-to-date guidelines.</summary>
+    <updated>2017-11-29T04:39:10+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <name and="text" initialize-with=". " delimiter=", " sort-separator=", " name-as-sort-order="all"/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="anon">
+    <text term="anonymous" form="short" text-case="capitalize-first" strip-periods="true"/>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter-precedes-last="never" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <et-al font-style="italic"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " delimiter-precedes-last="never" initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix=" DOI:"/>
+      </if>
+      <else-if variable="URL">
+        <text term="available at" suffix=": " text-case="capitalize-first"/>
+        <text variable="URL"/>
+        <group prefix=" (" delimiter=": " suffix=")">
+          <text term="accessed" text-case="capitalize-first"/>
+          <date form="text" variable="accessed">
+            <date-part name="day"/>
+            <date-part name="month"/>
+            <date-part name="year"/>
+          </date>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="normal"/>
+      </if>
+      <else>
+        <text variable="title" form="long" quotes="false"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="locator">
+    <choose>
+      <if type="article-journal">
+        <text variable="volume" strip-periods="false" font-weight="bold"/>
+        <text variable="issue" prefix="(" suffix=")"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="published-date">
+    <choose>
+      <if type="article-newspaper">
+        <date variable="issued">
+          <date-part name="day" form="ordinal" suffix=" "/>
+          <date-part name="month" form="long"/>
+        </date>
+      </if>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if type="chapter paper-conference article-journal article article-magazine article-newspaper book review review-book report" match="any">
+        <text variable="page" prefix=": " suffix="."/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" " suffix=". ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" strip-periods="true"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-prefix">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <text term="in" text-case="capitalize-first"/>
+      </if>
+    </choose>
+  </macro>
+  <citation delimiter-precedes-et-al="never" et-al-min="3" et-al-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <group delimiter=", ">
+          <text macro="author-short"/>
+          <text macro="year-date"/>
+        </group>
+        <group>
+          <text term="page" form="short" suffix=" "/>
+          <text variable="locator"/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography delimiter-precedes-et-al="always" et-al-min="7" et-al-use-first="3">
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". ">
+        <text macro="author"/>
+        <text macro="year-date"/>
+        <text macro="title" suffix="."/>
+        <group>
+          <text macro="container-prefix" suffix=": "/>
+          <text variable="container-title" form="short" strip-periods="true" font-style="italic" suffix=". "/>
+          <text variable="collection-title" form="long" font-style="italic"/>
+          <text macro="edition"/>
+          <text macro="editor" suffix=" "/>
+          <text variable="genre"/>
+          <text macro="publisher"/>
+          <text macro="locator"/>
+          <text macro="published-date"/>
+          <text macro="pages"/>
+          <text macro="access"/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

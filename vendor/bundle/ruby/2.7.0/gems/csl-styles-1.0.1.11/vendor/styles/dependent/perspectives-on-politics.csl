@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Perspectives on Politics</title>
+    <id>http://www.zotero.org/styles/perspectives-on-politics</id>
+    <link href="http://www.zotero.org/styles/perspectives-on-politics" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-political-science-association" rel="independent-parent"/>
+    <link href="http://journals.cambridge.org/action/displayJournal?jid=PPS" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="political_science"/>
+    <issn>1537-5927</issn>
+    <eissn>1541-0986</eissn>
+    <updated>2019-04-04T14:31:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

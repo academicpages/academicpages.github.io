@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" and="symbol" et-al-use-last="true" page-range-format="expanded" initialize-with-hyphen="false" default-locale="en-GB">
+  <info>
+    <title>European Journal of Endocrinology</title>
+    <title-short>Eur J Endocrinol</title-short>
+    <id>http://www.zotero.org/styles/european-journal-of-endocrinology</id>
+    <link href="http://www.zotero.org/styles/european-journal-of-endocrinology" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="template"/>
+    <link href="http://www.eje-online.org/site/misc/For-Authors.xhtml#refs" rel="documentation"/>
+    <author>
+      <name>Sylvère Störmann</name>
+      <email>sylvere.stoermann@med.uni-muenchen.de</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0804-4643</issn>
+    <eissn>1479-683X</eissn>
+    <updated>2017-01-01T17:19:10+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="edition" form="short">edn</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=". ">
+      <label form="short" strip-periods="true" text-case="capitalize-first" suffix=" "/>
+      <name and="symbol" initialize-with="" name-as-sort-order="all" sort-separator=" ">
+        <name-part name="given" text-case="uppercase"/>
+      </name>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": " suffix=",">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="chapter book" match="any">
+        <group suffix=".">
+          <choose>
+            <if match="any" variable="container-title">
+              <text term="in" text-case="capitalize-first" suffix=" "/>
+              <text variable="container-title" font-style="italic" suffix=","/>
+            </if>
+          </choose>
+          <text macro="edition" prefix=" "/>
+          <choose>
+            <if match="any" variable="chapter-number">
+              <number prefix="ch. " variable="chapter-number" suffix=", "/>
+            </if>
+          </choose>
+          <text macro="pages"/>
+          <text macro="editor"/>
+          <text macro="publisher"/>
+          <text macro="date"/>
+        </group>
+      </if>
+      <else>
+        <group suffix=".">
+          <text variable="container-title" font-style="italic"/>
+          <text macro="date"/>
+          <text macro="journal-location"/>
+          <text macro="pages"/>
+        </group>
+        <text variable="DOI" prefix=" (doi:" suffix=")"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" " suffix=", ">
+          <text term="edition" form="short"/>
+          <number variable="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="date">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <date delimiter=" " variable="issued" prefix=" " suffix=" ">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <date variable="issued" suffix=".">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <text variable="page"/>
+      </if>
+      <else>
+        <group delimiter=" " prefix=" " suffix=". ">
+          <label variable="page" form="short" strip-periods="true"/>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="journal-location">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <text variable="volume" font-weight="bold" suffix=" "/>
+      </if>
+    </choose>
+  </macro>
+  <citation near-note-distance="0">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter=", " prefix="(" suffix=")">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="31" et-al-use-first="30" second-field-align="flush">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=". " suffix=". ">
+        <text macro="author"/>
+        <text macro="title"/>
+      </group>
+      <text macro="container-title"/>
+    </layout>
+  </bibliography>
+</style>

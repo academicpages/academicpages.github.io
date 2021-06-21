@@ -1,0 +1,3 @@
+--no-private
+--document
+--exclude lib/namae/{parser,version}.rb

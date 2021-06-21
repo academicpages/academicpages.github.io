@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"prefix:ETI"REXML::Namespace#prefix;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I":The expanded name of the object, valid if name is set;T:
+@fileI"lib/rexml/namespace.rb;T:0@omit_headings_from_table_of_contents_below0F@I"REXML::Namespace;TcRDoc::NormalModule0

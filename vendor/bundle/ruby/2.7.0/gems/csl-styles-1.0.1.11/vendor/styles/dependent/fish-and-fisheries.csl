@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Fish and Fisheries</title>
+    <id>http://www.zotero.org/styles/fish-and-fisheries</id>
+    <link href="http://www.zotero.org/styles/fish-and-fisheries" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/14672979/homepage/ForAuthors.html#preparingsubmissions" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1467-2960</issn>
+    <eissn>1467-2979</eissn>
+    <summary>Style for the journal Fish and Fisheries</summary>
+    <updated>2018-12-28T14:46:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

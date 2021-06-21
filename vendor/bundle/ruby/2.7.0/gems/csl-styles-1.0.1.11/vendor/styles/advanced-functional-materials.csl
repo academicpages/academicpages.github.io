@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Advanced Functional Materials</title>
+    <id>http://www.zotero.org/styles/advanced-functional-materials</id>
+    <link href="http://www.zotero.org/styles/advanced-functional-materials" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-chemical-society" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291616-3028/homepage/2126_forauthors.html" rel="documentation"/>
+    <author>
+      <name>Julian Onions</name>
+      <email>julian.onions@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Ivan Bushmarinov</name>
+      <email>ib@ineos.ac.ru</email>
+    </contributor>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>1616-301X</issn>
+    <eissn>1616-3028</eissn>
+    <summary>Style for the Wiley Journal Advanced Functional Materials</summary>
+    <updated>2020-10-28T12:01:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" prefix="(" suffix=")">
+      <label form="short" suffix=": " text-case="capitalize-first"/>
+      <name sort-separator=", " initialize-with=". " name-as-sort-order="all" delimiter="; " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter=", " delimiter-precedes-last="always" initialize-with=". "/>
+      <label form="short" prefix=", " text-case="capitalize-first"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="volume">
+    <group delimiter=" ">
+      <text term="volume" form="short" text-case="capitalize-first"/>
+      <text variable="volume"/>
+    </group>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if variable="page" match="any">
+        <label variable="page" form="short" suffix=" "/>
+        <text variable="page"/>
+      </if>
+      <else-if type="article-journal">
+        <text variable="DOI" prefix="DOI "/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="book-container">
+    <group delimiter=" ">
+      <text term="in" text-case="capitalize-first"/>
+      <text variable="container-title" font-style="italic"/>
+    </group>
+  </macro>
+  <macro name="issued">
+    <date variable="issued" delimiter=" " font-weight="bold">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="full-issued">
+    <date variable="issued" delimiter=" ">
+      <date-part name="month" form="long" suffix=" "/>
+      <date-part name="day" suffix=", "/>
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup" prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="margin" entry-spacing="0">
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text macro="author" suffix=", "/>
+      <choose>
+        <if type="article-magazine">
+          <group delimiter=" ">
+            <text variable="container-title" font-style="italic" suffix="."/>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+            <text macro="full-issued" suffix=","/>
+            <text macro="pages"/>
+          </group>
+        </if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <group delimiter=". ">
+              <text variable="title"/>
+              <text variable="genre"/>
+            </group>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+            <text macro="volume"/>
+            <text macro="pages"/>
+          </group>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=", ">
+            <group delimiter=" ">
+              <text macro="book-container"/>
+              <text macro="editor"/>
+            </group>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+            <text macro="pages"/>
+          </group>
+        </else-if>
+        <else-if type="article-journal article-magazine" match="any">
+          <group delimiter=" ">
+            <text variable="container-title" font-style="italic" form="short"/>
+            <group delimiter=", ">
+              <text macro="issued"/>
+              <text variable="volume" font-style="italic"/>
+              <text variable="page-first" form="long"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <group delimiter=" ">
+              <text variable="title" font-style="italic"/>
+              <text macro="editor"/>
+            </group>
+            <text macro="edition"/>
+            <text macro="volume"/>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+            <text macro="pages"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

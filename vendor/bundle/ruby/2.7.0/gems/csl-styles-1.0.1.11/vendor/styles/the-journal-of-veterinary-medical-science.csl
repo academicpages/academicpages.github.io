@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>The Journal of Veterinary Medical Science</title>
+    <title-short>J. Vet. Med. Sci.</title-short>
+    <id>http://www.zotero.org/styles/the-journal-of-veterinary-medical-science</id>
+    <link href="http://www.zotero.org/styles/the-journal-of-veterinary-medical-science" rel="self"/>
+    <link href="http://jsvetsci.jp/jvms/instructions-for-authors/" rel="documentation"/>
+    <author>
+      <name>Shoji Takahashi</name>
+      <email>s.takahashi@elsevier.com</email>
+      <uri>http://www.mendeley.com/profiles/shoji-takahashi3/</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0916-7250</issn>
+    <eissn>1347-7439</eissn>
+    <updated>2017-11-26T04:35:32+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+    </names>
+  </macro>
+  <macro name="edition">
+    <number suffix=" " variable="edition" form="ordinal"/>
+    <label plural="never" variable="edition" form="short"/>
+  </macro>
+  <macro name="issued">
+    <date date-parts="year" form="numeric" variable="issued" font-weight="normal">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=" ">
+      <name and="text" delimiter-precedes-last="never" initialize="false" initialize-with=". " name-as-sort-order="all"/>
+    </names>
+    <text term="editor" form="short" plural="true"/>
+  </macro>
+  <macro name="page">
+    <choose>
+      <if type="chapter" match="any">
+        <label suffix=". " variable="page" form="short"/>
+        <text variable="page"/>
+      </if>
+      <else>
+        <text variable="page"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="author-number">
+    <names variable="author">
+      <name form="count"/>
+    </names>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter=", " prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <sort>
+      <key variable="author"/>
+      <key macro="author-number"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <choose>
+        <if type="article-journal">
+          <group delimiter=" ">
+            <text macro="author"/>
+            <text macro="issued" suffix="."/>
+            <text variable="title" suffix="."/>
+            <text variable="container-title" form="short" font-style="italic" suffix="."/>
+            <text variable="volume" font-weight="bold" suffix=":"/>
+            <text macro="page"/>
+          </group>
+        </if>
+        <else-if type="book" match="any">
+          <group delimiter=" ">
+            <text macro="author"/>
+            <text macro="issued" suffix="."/>
+            <text variable="title" suffix=","/>
+            <text macro="page" suffix=", "/>
+            <text macro="edition" suffix=", "/>
+            <text macro="publisher"/>
+          </group>
+        </else-if>
+        <else-if type="chapter" match="any">
+          <group delimiter=" ">
+            <text macro="author"/>
+            <text macro="issued" suffix="."/>
+            <text variable="title" suffix="."/>
+            <text macro="page" suffix="."/>
+            <text term="in" form="short" text-case="capitalize-first" font-style="italic" suffix=":"/>
+            <text variable="container-title" font-style="italic" suffix=","/>
+            <text macro="edition" suffix=","/>
+            <text macro="editor" prefix="(" suffix=")"/>
+            <text macro="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <text macro="author"/>
+            <text variable="title" suffix="."/>
+            <text variable="URL"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

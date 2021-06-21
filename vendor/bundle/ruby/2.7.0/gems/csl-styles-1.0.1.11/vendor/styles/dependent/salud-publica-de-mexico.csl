@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <!-- Polyglot; journal publishes in English and Spanish -->
+  <info>
+    <title>Salud Pública de México</title>
+    <id>http://www.zotero.org/styles/salud-publica-de-mexico</id>
+    <link href="http://www.zotero.org/styles/salud-publica-de-mexico" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://bvs.insp.mx/rsp/info_aut_es/" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0036-3634</issn>
+    <eissn>1606-7916</eissn>
+    <updated>2014-05-29T23:47:59+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

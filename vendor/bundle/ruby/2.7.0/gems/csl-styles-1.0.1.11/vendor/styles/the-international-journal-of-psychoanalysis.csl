@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" default-locale="en-US" version="1.0">
+  <info>
+    <title>The International Journal of Psychoanalysis</title>
+    <id>http://www.zotero.org/styles/the-international-journal-of-psychoanalysis</id>
+    <link href="http://www.zotero.org/styles/the-international-journal-of-psychoanalysis" rel="self"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291745-8315/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Peter Hedlund</name>
+      <email>peter.hedlund@me.com</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="psychology"/>
+    <category field="medicine"/>
+    <issn>0020-7578</issn>
+    <eissn>1745-8315</eissn>
+    <updated>2014-08-28T01:36:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+        <choose>
+          <if variable="URL">
+            <text value="Internet" prefix=" [" suffix="]"/>
+          </if>
+        </choose>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " delimiter=", " initialize-with="" delimiter-precedes-last="always" name-as-sort-order="all"/>
+      <label prefix=", "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" prefix=" In ">
+      <name sort-separator=" " delimiter=", " initialize-with="" delimiter-precedes-last="always" name-as-sort-order="all"/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=""/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <choose>
+          <if type="book">
+            <text variable="title" form="short" font-style="italic"/>
+          </if>
+          <else>
+            <text variable="title" form="short" quotes="true"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="volume"/>
+      <else-if variable="DOI">
+        <text variable="DOI" prefix="doi:"/>
+      </else-if>
+      <else-if variable="URL">
+        <text value="Available from: "/>
+        <text variable="URL"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issuance">
+    <date prefix=" (" suffix=")" variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="page">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <text variable="page" prefix=", p. "/>
+      </if>
+      <else>
+        <text variable="page"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="year" et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="issued-year"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued-year"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6" entry-spacing="0" hanging-indent="true" line-spacing="2">
+    <sort>
+      <key macro="author"/>
+      <key macro="issuance"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="author"/>
+      <group delimiter=". " prefix=" ">
+        <text macro="issuance"/>
+        <text macro="title" prefix=" "/>
+        <text macro="editor"/>
+        <group>
+          <group delimiter=" ">
+            <group>
+              <text variable="container-title" font-style="italic" form="short" strip-periods="true"/>
+              <choose>
+                <if variable="URL">
+                  <text value="Internet" prefix=" [" suffix="]"/>
+                </if>
+              </choose>
+            </group>
+            <text variable="volume" suffix=":" font-weight="bold"/>
+          </group>
+          <text macro="page"/>
+        </group>
+        <text macro="publisher"/>
+      </group>
+      <text macro="access"/>
+    </layout>
+  </bibliography>
+</style>

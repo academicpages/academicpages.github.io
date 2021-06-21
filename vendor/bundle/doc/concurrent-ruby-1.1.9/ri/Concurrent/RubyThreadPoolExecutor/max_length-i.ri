@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"max_length:ETI"2Concurrent::RubyThreadPoolExecutor#max_length;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"8@!macro thread_pool_executor_attr_reader_max_length;T:
+@fileI"Ilib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb;T:0@omit_headings_from_table_of_contents_below0F@I"'Concurrent::RubyThreadPoolExecutor;TcRDoc::NormalClass0

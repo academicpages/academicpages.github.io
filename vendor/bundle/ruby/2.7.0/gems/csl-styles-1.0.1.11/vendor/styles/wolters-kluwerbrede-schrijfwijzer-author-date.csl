@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="nl-NL" initialize-with="." and="symbol" name-delimiter=", " delimiter-precedes-last="never" et-al-min="4" et-al-use-first="1">
+  <!--
+      VERSIE: 1.6 (2016-10-27)
+   -->
+  <!-- =======================================================================
+   Onderstaande 'KBS-references' CSL is bedoeld voor de weergave van verkorte
+   en volledige verwijzingen in/naar Kluwer-uitgaven
+   =============================
+   programmeur: Jens Conradie
+   =============================
+
+   ======================================================================== -->
+  <!-- NB:
+   <group>-elementen worden soms ingezet als "implicit conditional":
+   -  als een <group> variabelen aanroept en geen enkele variabele levert output,
+      dan wordt ook de overige output van de <group> onderdrukt;
+   -  dit principe wordt gebruikt om delimiters (zoals ', ') conditioneel te maken:
+      er wordt uitsluitend een delimiter ingeplaatst als er ook variabele-tekst wordt geplaatst
+   -->
+  <!-- ### INFO ########################################################## -->
+  <info>
+    <title>Wolters Kluwerbrede Schrijfwijzer (author-date, Dutch)</title>
+    <title-short>WKBS</title-short>
+    <id>http://www.zotero.org/styles/wolters-kluwerbrede-schrijfwijzer-author-date</id>
+    <link href="http://www.zotero.org/styles/wolters-kluwerbrede-schrijfwijzer-author-date" rel="self"/>
+    <link href="https://www.wolterskluwer.nl/auteur/voor-auteurs/auteursmiddelen-en-instructies" rel="documentation"/>
+    <author>
+      <name>Jens Conradie</name>
+      <email>jensconradie@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="law"/>
+    <summary>Wolters Kluwerbrede Schrijfwijzer (WKBS)</summary>
+    <updated>2018-12-14T18:35:14+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- ### LOCALE ######################################################## -->
+  <locale>
+    <terms>
+      <term name="editor" form="short">red.</term>
+    </terms>
+  </locale>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="author-names-full">
+    <names variable="author">
+      <name>
+        <name-part name="given"/>
+        <name-part name="family"/>
+      </name>
+    </names>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="author-names-short">
+    <names variable="author">
+      <name form="short">
+        <name-part name="family" text-case="capitalize-first"/>
+      </name>
+    </names>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="editor-names-full">
+    <names variable="editor">
+      <name>
+        <name-part name="given"/>
+        <name-part name="family"/>
+      </name>
+    </names>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="editor-names-short">
+    <names variable="editor">
+      <name form="short">
+        <name-part name="family" text-case="capitalize-first"/>
+      </name>
+    </names>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="container-author-names-full">
+    <names variable="container-author">
+      <name>
+        <name-part name="given"/>
+        <name-part name="family"/>
+      </name>
+    </names>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="title-short-italic">
+    <choose>
+      <if variable="title-short">
+        <text variable="title-short" font-style="italic"/>
+      </if>
+      <else-if variable="title">
+        <text variable="title" form="short" font-style="italic"/>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="container-title-italic">
+    <text variable="container-title" font-style="italic"/>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="title-italic">
+    <text variable="title" font-style="italic"/>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="title-normal">
+    <text variable="title"/>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="issued-year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <!-- ### MACRO ######################################################### -->
+  <macro name="make-citation">
+    <group>
+      <!-- ============================================================= -->
+      <!-- [auteursblok]                                                 -->
+      <!-- ============================================================= -->
+      <choose>
+        <if type="book">
+          <!-- [author] ["/"] [editor] [", "] -->
+          <group suffix=", ">
+            <text macro="author-names-short"/>
+            <choose>
+              <if variable="author editor" match="all">
+                <text value="/"/>
+              </if>
+            </choose>
+            <text macro="editor-names-short"/>
+          </group>
+        </if>
+        <else-if type="chapter">
+          <!-- [author] [", in: "]-->
+          <group suffix=", in: ">
+            <text macro="author-names-short"/>
+          </group>
+        </else-if>
+        <else-if type="article-journal">
+          <!-- [author] [", "]-->
+          <group suffix=", ">
+            <text macro="author-names-short"/>
+          </group>
+        </else-if>
+      </choose>
+      <!-- ============================================================= -->
+      <!-- [short title] + [nadere vindplaats-details]                   -->
+      <!-- ============================================================= -->
+      <choose>
+        <if type="article-journal">
+          <!-- [short title] [" "] -->
+          <group suffix=" ">
+            <text macro="title-short-italic"/>
+          </group>
+          <choose>
+            <if variable="note issued" match="all">
+              <!-- [jaar] ["/"] [note] -->
+              <group>
+                <text macro="issued-year"/>
+                <text value="/"/>
+                <text variable="note"/>
+              </group>
+            </if>
+            <else-if variable="issued">
+              <!-- [jaar] -->
+              <text macro="issued-year"/>
+              <!-- [", afl. "] [afl.nr.] -->
+              <group prefix=", afl. ">
+                <text variable="issue"/>
+              </group>
+              <!-- [", p. "] [pag.nr.] -->
+              <group prefix=", p. ">
+                <text variable="page"/>
+              </group>
+            </else-if>
+          </choose>
+        </if>
+        <else>
+          <!-- ================== -->
+          <!-- book, chapter etc. -->
+          <!-- [short title] -->
+          <text macro="title-short-italic"/>
+          <!-- [" "] [jaar] -->
+          <group prefix=" ">
+            <text macro="issued-year"/>
+          </group>
+          <choose>
+            <if type="chapter">
+              <!-- [", p. "] [pag.nr.] -->
+              <group prefix=", p. ">
+                <text variable="page"/>
+              </group>
+            </if>
+          </choose>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <!-- ################################################################### -->
+  <!-- ###                          CITATION                           ### -->
+  <!-- ################################################################### -->
+  <citation>
+    <layout>
+      <!-- de verkorte verwijzing ('citation') -->
+      <text macro="make-citation"/>
+    </layout>
+  </citation>
+  <!-- ################################################################### -->
+  <!-- ###                        BIBLIOGRAPHY                         ### -->
+  <!-- ################################################################### -->
+  <bibliography>
+    <sort>
+      <key sort="ascending" macro="make-citation"/>
+    </sort>
+    <layout suffix=".">
+      <!-- boven de volledige verwijzing - op een afzonderlijke regel - komt eerst de verkorte verwijzing -->
+      <group display="block">
+        <text macro="make-citation"/>
+      </group>
+      <!-- ============================================================= -->
+      <!-- [auteursblok]                                                 -->
+      <!-- ============================================================= -->
+      <group>
+        <choose>
+          <if type="book">
+            <!-- [author] ["/"] [editor] [" (red.)"] [", "] -->
+            <group suffix=", ">
+              <text macro="author-names-full"/>
+              <choose>
+                <if variable="author editor" match="all">
+                  <text value="/"/>
+                </if>
+              </choose>
+              <text macro="editor-names-full"/>
+              <choose>
+                <if variable="author">
+                  <!-- doe niets -->
+                </if>
+                <else>
+                  <!-- [" (red.)"] -->
+                  <text term="editor" prefix=" (" suffix=")" form="short"/>
+                </else>
+              </choose>
+            </group>
+          </if>
+          <else-if type="chapter">
+            <!-- [author] [", "] -->
+            <group suffix=", ">
+              <text macro="author-names-full"/>
+            </group>
+          </else-if>
+          <else-if type="article-journal">
+            <!-- [author] [", "] -->
+            <group suffix=", ">
+              <text macro="author-names-full"/>
+            </group>
+          </else-if>
+        </choose>
+      </group>
+      <!-- ============================================================= -->
+      <!-- [title]                                                       -->
+      <!-- ============================================================= -->
+      <group>
+        <choose>
+          <if type="book">
+            <!-- [cursieve boektitel] -->
+            <text macro="title-italic"/>
+          </if>
+          <else-if type="chapter">
+            <!--
+                  - (1) plaats de hoofdstuktitel
+                  - (2) plaats container-author(s), voorafgegaan door ', in: '
+                  - (3) plaats container-title (voorafgegaan door ', in: ' als author of
+                        editor of container-author ontbreken)
+                  - (4) plaats collectie-tiel + collectie-nummer, tussen '(' en ')'
+                  -->
+            <!-- (1) ["‘"] [romeinse hoofdstuktitel] ["’"] -->
+            <group prefix="‘" suffix="’">
+              <text macro="title-normal"/>
+            </group>
+            <!-- (2) [, in: ] {[container-author] OR [editor] [" (red.)"]} [", "] -->
+            <group prefix=", in: " suffix=", ">
+              <choose>
+                <if variable="container-author">
+                  <text macro="container-author-names-full"/>
+                </if>
+                <else-if variable="editor">
+                  <group>
+                    <text macro="editor-names-full"/>
+                    <text term="editor" prefix=" (" suffix=")" form="short"/>
+                  </group>
+                </else-if>
+              </choose>
+            </group>
+            <!-- (3) [", in: "] [cursieve container-titel] -->
+            <group>
+              <choose>
+                <if variable="container-author">
+                  <!-- doe niets -->
+                </if>
+                <else-if variable="editor">
+                  <!-- doe niets -->
+                </else-if>
+                <else-if variable="container-title">
+                  <!-- plaats prefix -->
+                  <text value=", in: "/>
+                </else-if>
+              </choose>
+              <text macro="container-title-italic"/>
+            </group>
+          </else-if>
+          <else-if type="article-journal">
+            <!-- ["‘"] [romeinse hoofdstuktitel] ["’"] -->
+            <group prefix="‘" suffix="’">
+              <text macro="title-normal"/>
+            </group>
+            <!-- [korte titel] [", "] -->
+            <group prefix=", ">
+              <text macro="title-short-italic"/>
+            </group>
+            <!-- [tijdschriftjaar] [" "] -->
+            <group prefix=" ">
+              <text macro="issued-year"/>
+            </group>
+            <!-- [note] ["/"] -->
+            <group prefix="/">
+              <text variable="note"/>
+            </group>
+            <!-- [", afl. "] [tijdschriftnummer] -->
+            <group prefix=", afl. ">
+              <text variable="issue"/>
+            </group>
+            <!-- [", p. "] [pag.nr.] -->
+            <group prefix=", p. ">
+              <text variable="page"/>
+            </group>
+          </else-if>
+        </choose>
+        <!-- (4) [" ("] [collection-title] [" "] [collection-number] [")"] -->
+        <group delimiter=" " prefix=" (" suffix=")">
+          <text variable="collection-title"/>
+          <text variable="collection-number"/>
+        </group>
+      </group>
+      <!-- ============================================================= -->
+      <!-- [nadere details]                                              -->
+      <!-- ============================================================= -->
+      <choose>
+        <if type="article-journal">
+          <!-- doe niets -->
+        </if>
+        <else>
+          <!-- [", "] [uitgeversplaats] [": "] [uitgeversnaam] -->
+          <group delimiter=": " prefix=", ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <!-- [" "] [uitgavejaar] -->
+          <group prefix=" ">
+            <text macro="issued-year"/>
+          </group>
+          <!-- [", p. "] [pag.nrs.] -->
+          <group prefix=", p. ">
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

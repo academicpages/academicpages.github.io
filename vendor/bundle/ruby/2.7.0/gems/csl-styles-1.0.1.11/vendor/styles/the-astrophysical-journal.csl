@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>The Astrophysical Journal</title>
+    <id>http://www.zotero.org/styles/the-astrophysical-journal</id>
+    <link href="http://www.zotero.org/styles/the-astrophysical-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/nature" rel="template"/>
+    <link href="http://aas.org/journals/authors/common_instruct#references" rel="documentation"/>
+    <author>
+      <name>Chris Lowder</name>
+      <email>clowder@solar.physics.montana.edu</email>
+    </author>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="science"/>
+    <issn>0004-637X</issn>
+    <eissn>1538-4357</eissn>
+    <updated>2017-05-23T15:58:56+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=", " delimiter=", " and="symbol" initialize-with=". " delimiter-precedes-last="always" name-as-sort-order="all"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" sort-separator=", " delimiter=", " and="symbol" initialize-with=". " name-as-sort-order="all"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="issuance">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <names variable="editor">
+          <label form="short" plural="never" suffix=" "/>
+          <name and="symbol" delimiter-precedes-last="always" initialize-with=". "/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal">
+        <text variable="container-title" form="short" strip-periods="true"/>
+      </if>
+      <else>
+        <group delimiter=" ">
+          <choose>
+            <if type="chapter paper-conference" match="any">
+              <text term="in" form="long" plural="false"/>
+            </if>
+          </choose>
+          <text variable="container-title"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="volume">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <text variable="volume"/>
+      </if>
+      <else>
+        <group delimiter=" ">
+          <text term="volume" form="short" text-case="capitalize-first"/>
+          <text variable="volume"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group prefix="(" suffix=")" delimiter="; ">
+      <text macro="edition"/>
+      <group delimiter=": ">
+        <text variable="publisher-place"/>
+        <text variable="publisher"/>
+      </group>
+    </group>
+  </macro>
+  <citation collapse="year" et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true">
+    <sort>
+      <key macro="author-short"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text macro="author-short"/>
+          <text macro="year-date"/>
+        </group>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="6" et-al-use-first="3" entry-spacing="0">
+    <sort>
+      <key macro="author"/>
+      <key macro="issuance"/>
+    </sort>
+    <layout>
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text macro="author" suffix="."/>
+          <text macro="issuance"/>
+        </group>
+        <choose>
+          <if type="book report thesis" match="any">
+            <text variable="title"/>
+          </if>
+        </choose>
+        <text macro="container-title"/>
+        <text macro="editor"/>
+        <text macro="volume"/>
+      </group>
+      <text macro="publisher" prefix=" "/>
+      <text variable="page-first" prefix=", "/>
+      <text variable="URL" prefix=", "/>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Photochemistry and Photobiology</title>
+    <id>http://www.zotero.org/styles/photochemistry-and-photobiology</id>
+    <link href="http://www.zotero.org/styles/photochemistry-and-photobiology" rel="self"/>
+    <link href="http://www.zotero.org/styles/nucleic-acids-research-web-server-issue" rel="template"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/17511097/homepage/forauthors.html" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien, PhD</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="chemistry"/>
+    <issn>0031-8655</issn>
+    <eissn>1751-1097</eissn>
+    <updated>2018-08-24T04:06:32+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="accessed">accessed on</term>
+    </terms>
+  </locale>
+  <macro name="editor">
+    <names variable="editor" delimiter=", " prefix="(" suffix=")">
+      <label form="verb" text-case="capitalize-first" strip-periods="false"/>
+      <name prefix=" " initialize-with=". " name-as-sort-order="all"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+      <et-al font-style="italic"/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <choose>
+        <if type="thesis" match="none">
+          <text variable="publisher-place"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="webpage post-weblog" match="any">
+        <group delimiter=". ">
+          <group delimiter=": ">
+            <text term="available at" text-case="capitalize-first"/>
+            <text variable="URL"/>
+          </group>
+          <group delimiter=" ">
+            <text term="accessed" text-case="capitalize-first"/>
+            <date form="text" variable="accessed"/>
+          </group>
+        </group>
+      </if>
+      <else>
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="volume">
+    <group delimiter=" ">
+      <label text-case="capitalize-first" variable="volume" form="short"/>
+      <text variable="volume"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography and="text">
+    <layout suffix=".">
+      <group delimiter=". ">
+        <text variable="citation-number"/>
+        <group display="block">
+          <text macro="author"/>
+          <text macro="issued" prefix=" (" suffix=")"/>
+          <choose>
+            <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+              <group delimiter=". " prefix=" ">
+                <text macro="title"/>
+                <text macro="edition"/>
+                <text macro="editor"/>
+                <text macro="publisher"/>
+              </group>
+            </if>
+            <else-if type="chapter paper-conference" match="any">
+              <group delimiter=". " prefix=" ">
+                <text macro="title" suffix="."/>
+                <group suffix="." delimiter=", ">
+                  <group delimiter=" ">
+                    <group delimiter=" ">
+                      <text term="in" text-case="capitalize-first"/>
+                      <text variable="container-title" font-style="italic"/>
+                      <text macro="volume" prefix="Vol. "/>
+                    </group>
+                    <text macro="editor"/>
+                    <text variable="collection-title" prefix=" "/>
+                  </group>
+                  <group delimiter=" ">
+                    <label variable="page" form="short"/>
+                    <text variable="page"/>
+                  </group>
+                </group>
+                <text macro="publisher" prefix=" "/>
+              </group>
+            </else-if>
+            <else-if type="thesis" match="any">
+              <group delimiter=". ">
+                <text macro="title"/>
+                <group delimiter=", ">
+                  <text variable="genre"/>
+                  <text macro="publisher"/>
+                </group>
+              </group>
+            </else-if>
+            <else>
+              <text macro="title" prefix=" " suffix="."/>
+              <group delimiter=" " prefix=" ">
+                <text variable="container-title" form="short" font-style="italic"/>
+                <group delimiter=", ">
+                  <text variable="volume" font-weight="bold"/>
+                  <text variable="page"/>
+                </group>
+              </group>
+            </else>
+          </choose>
+        </group>
+        <text macro="access"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

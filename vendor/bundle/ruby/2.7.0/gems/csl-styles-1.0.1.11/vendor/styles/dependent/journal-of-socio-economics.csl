@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier - Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles -->
+  <info>
+    <title>Journal of Socio-Economics</title>
+    <id>http://www.zotero.org/styles/journal-of-socio-economics</id>
+    <link href="http://www.zotero.org/styles/journal-of-socio-economics" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-harvard" rel="independent-parent"/>
+    <category citation-format="author-date"/>
+    <issn>1053-5357</issn>
+    <updated>2013-08-19T17:36:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>American Physical Society - et al. (if more than 3 authors)</title>
+    <title-short>APS-et-al</title-short>
+    <id>http://www.zotero.org/styles/american-physical-society-et-al</id>
+    <link href="http://www.zotero.org/styles/american-physical-society-et-al" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-physics-society" rel="template"/>
+    <link href="https://cdn.journals.aps.org/files/styleguide-pr.pdf" rel="documentation"/>
+    <author>
+      <name>Jonas Lähnemann</name>
+      <email>jonas@pdi-berlin.de</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <summary>Short variant (first author et al., if more than 3 authors) of the American Physical Society (APS) citation style. Volume is bold and year comes last in normal brackets.</summary>
+    <updated>2020-10-01T22:47:43+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter=", " initialize-with=". " and="text"/>
+      <label form="long" prefix=", " suffix=" "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <label form="verb" suffix=" "/>
+      <name delimiter=", " initialize-with=". " and="text"/>
+      <et-al font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="day-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="day" suffix=" "/>
+          <date-part name="month" form="long" suffix=" "/>
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group prefix="(" suffix=")" delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place" text-case="title"/>
+      <text macro="year-date"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," prefix="&#160;[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="1" entry-spacing="0" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="author" suffix=", "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=" ">
+            <group delimiter=", ">
+              <text variable="title" text-case="title" font-style="italic"/>
+              <text macro="edition"/>
+            </group>
+            <group delimiter=", ">
+              <text macro="publisher"/>
+              <group delimiter=" ">
+                <label variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=" ">
+            <text term="in"/>
+            <group delimiter=", ">
+              <text variable="container-title" form="short" text-case="title" font-style="italic"/>
+              <text macro="editor"/>
+              <text macro="edition"/>
+            </group>
+            <group delimiter=", ">
+              <text macro="publisher"/>
+              <group delimiter=" ">
+                <label variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="patent">
+          <group delimiter=" ">
+            <text variable="number"/>
+            <text macro="day-date" prefix="(" suffix=")"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=", ">
+            <text variable="title" text-case="title"/>
+            <text variable="genre"/>
+            <text variable="publisher"/>
+            <text macro="year-date"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <choose>
+              <if type="article-journal">
+                <text variable="container-title" form="short"/>
+              </if>
+              <else>
+                <text variable="container-title"/>
+              </else>
+            </choose>
+            <group delimiter=", ">
+              <text variable="volume" font-weight="bold"/>
+              <group delimiter=" ">
+                <text variable="page-first" form="short"/>
+                <text macro="year-date" prefix="(" suffix=")"/>
+              </group>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

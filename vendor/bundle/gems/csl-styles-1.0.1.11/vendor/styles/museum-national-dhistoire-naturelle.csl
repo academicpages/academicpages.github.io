@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" and="symbol" demote-non-dropping-particle="never" default-locale="en-GB">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Muséum national d'Histoire naturelle</title>
+    <id>http://www.zotero.org/styles/museum-national-dhistoire-naturelle</id>
+    <link href="http://www.zotero.org/styles/museum-national-dhistoire-naturelle" rel="self"/>
+    <author>
+      <name>Gilberto MARANI</name>
+      <email>gilberto.marani@mnhn.fr</email>
+    </author>
+    <contributor>
+      <name>Anne Mabille</name>
+      <email>anne.mabille@mnhn.fr</email>
+    </contributor>
+    <contributor>
+      <name>Antonio Mendes Da Silva</name>
+      <email>antonio.mendes@inha.fr</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="botany"/>
+    <category field="anthropology"/>
+    <category field="geology"/>
+    <category field="zoology"/>
+    <updated>2019-12-17T20:45:37+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="authors">
+    <choose>
+      <if match="any" variable="author editor translator">
+        <group>
+          <names variable="author" font-variant="small-caps">
+            <name and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all" sort-separator=" ">
+              <name-part name="family" text-case="capitalize-first" font-variant="normal"/>
+            </name>
+            <label form="short" text-case="capitalize-first" font-weight="normal" prefix=" (" suffix=")"/>
+            <substitute>
+              <names variable="editor translator" font-variant="small-caps">
+                <name delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all">
+                  <name-part name="family" text-case="capitalize-first"/>
+                </name>
+                <label form="short" text-case="capitalize-first" prefix=" (" suffix=")"/>
+              </names>
+            </substitute>
+          </names>
+        </group>
+      </if>
+      <else>
+        <text term="anonymous" text-case="capitalize-first"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued">
+    <choose>
+      <if match="any" variable="issued">
+        <group>
+          <date date-parts="year" form="text" variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+      <else>
+        <text term="no date" prefix="(" suffix=")"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="contributors">
+    <choose>
+      <if match="any" variable="editor translator">
+        <text value=" in " text-case="lowercase" font-style="italic" prefix=","/>
+        <names variable="editor translator" font-variant="normal" delimiter=", ">
+          <name font-variant="small-caps" and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all" sort-separator=" ">
+            <name-part name="family" text-case="capitalize-first"/>
+          </name>
+          <label form="short" text-case="lowercase" strip-periods="false" font-variant="normal" font-weight="normal" prefix=" (" suffix=")"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="locator">
+    <choose>
+      <if type="article article-magazine article-newspaper article-journal" match="any">
+        <group>
+          <!--Ajout de la variable "collection-title" pour recuperer le contenu du champ "titre de la collection" de Zotero pour les articles uniquement-->
+          <group prefix=", ">
+            <text variable="collection-title" font-weight="normal"/>
+          </group>
+          <!--Ajout d'une virgule et espace de separation devant le titre-->
+          <text variable="container-title" font-style="italic" prefix=". "/>
+          <text variable="volume" prefix=" "/>
+          <text variable="issue" prefix=" (" suffix=")"/>
+          <text variable="page" prefix=": "/>
+        </group>
+      </if>
+      <else-if type="chapter book" match="any">
+        <group suffix=".">
+          <!--Ajout d'une virgule et espace de separation devant le titre du livre-->
+          <text variable="container-title" font-style="italic" prefix=", "/>
+          <text variable="volume" prefix="Vol. "/>
+        </group>
+        <text macro="publisher" prefix="."/>
+        <text macro="pages" prefix=" "/>
+        <!--Ajout d'un point final après la mention de la collection-->
+        <text macro="collection" suffix="."/>
+      </else-if>
+      <else-if type="report thesis" match="any">
+        <text macro="genre"/>
+        <text macro="publisher"/>
+        <text macro="pages"/>
+        <text macro="collection"/>
+      </else-if>
+      <else-if type="paper-conference" match="any">
+        <text macro="in"/>
+        <text macro="event"/>
+        <text macro="collection"/>
+        <text macro="publisher"/>
+        <text macro="pages"/>
+      </else-if>
+      <else-if type="webpage" match="any">
+        <group>
+          <text value="Available from "/>
+          <text variable="URL"/>
+          <date delimiter=" " variable="accessed" prefix=" [accessed " suffix="]">
+            <date-part name="day"/>
+            <date-part name="month"/>
+            <date-part name="year" range-delimiter=""/>
+          </date>
+        </group>
+      </else-if>
+      <else-if type="entry-encyclopedia entry-dictionary" match="any">
+        <text macro="in"/>
+        <text variable="container-title" font-style="italic" suffix=". "/>
+        <text macro="pages"/>
+        <text macro="collection"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="collection">
+    <group prefix=" (" suffix=")">
+      <text variable="collection-title" font-weight="normal"/>
+      <text variable="collection-number" prefix="; "/>
+    </group>
+  </macro>
+  <macro name="publisher">
+    <group suffix=".">
+      <choose>
+        <if type="paper-conference" match="none">
+          <choose>
+            <if match="all" variable="publisher-place publisher">
+              <text variable="publisher-place" prefix=" " suffix=", "/>
+            </if>
+          </choose>
+        </if>
+      </choose>
+      <choose>
+        <if type="thesis report" match="any">
+          <text variable="publisher" font-style="italic"/>
+        </if>
+        <else>
+          <text variable="publisher"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if match="any" variable="page">
+        <group prefix=" " suffix=".">
+          <text value="p. "/>
+          <text variable="page"/>
+        </group>
+      </if>
+      <else-if match="any" variable="number-of-pages">
+        <group prefix=" ">
+          <text variable="number-of-pages"/>
+          <text value=" p."/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="genre">
+    <group prefix=" " suffix=". ">
+      <text variable="genre"/>
+      <text variable="number" prefix=" N�"/>
+    </group>
+  </macro>
+  <macro name="event">
+    <group suffix=". ">
+      <text variable="event"/>
+      <text variable="event-place" prefix=", "/>
+    </group>
+  </macro>
+  <macro name="in">
+    <choose>
+      <if match="none" variable="editor translator">
+        <text value="in: " text-case="capitalize-first" font-style="italic"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="author-short">
+    <choose>
+      <if match="any" variable="author editor translator">
+        <group>
+          <names variable="author">
+            <name form="short">
+              <name-part name="family" text-case="capitalize-first"/>
+            </name>
+            <!--Ajout de cette ligne ci-dessous pour avoir et al en italique-->
+            <et-al font-style="italic"/>
+            <substitute>
+              <names variable="editor translator">
+                <name>
+                  <name-part name="family" text-case="capitalize-first"/>
+                </name>
+                <!--Ajout de cette ligne ci-dessous pour avoir et al en italique-->
+                <et-al font-style="italic"/>
+              </names>
+            </substitute>
+          </names>
+        </group>
+      </if>
+      <else>
+        <text term="anonymous" text-case="capitalize-first"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if match="any" variable="issued">
+        <!--suppression de l'espace introduit avec le prefix qui provoque un espace en trop lorsque l'auteur ne s'utilise pas dans la citation-->
+        <group>
+          <date date-parts="year" form="text" variable="issued">
+            <date-part name="year"/>
+          </date>
+          <text variable="year-suffix" prefix=" "/>
+        </group>
+      </if>
+      <else-if match="any" variable="status">
+        <text variable="status" prefix=" "/>
+        <text variable="year-suffix" prefix=" "/>
+      </else-if>
+      <else>
+        <text term="no date" form="short"/>
+        <text variable="year-suffix" prefix=" "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="doi">
+    <choose>
+      <if match="any" variable="DOI">
+        <group prefix=" ">
+          <text variable="DOI" prefix="https://doi.org/"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <citation name-form="short" and="symbol" et-al-min="3" et-al-use-first="1" collapse="year">
+    <sort>
+      <key variable="issued"/>
+      <key variable="author"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <!--ajout d'un espace entre l'auteur et la date avec le delimiter ci-dessous-->
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <text macro="issued-year"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key variable="author"/>
+      <key variable="issued" sort="descending"/>
+    </sort>
+    <layout>
+      <!--Ajout du code html qui va bien pour le tiret cadratin-->
+      <group suffix=". &#8212; ">
+        <text macro="authors"/>
+        <text macro="issued" prefix=" "/>
+      </group>
+      <group>
+        <text macro="title"/>
+      </group>
+      <group>
+        <text macro="contributors"/>
+      </group>
+      <group>
+        <text macro="locator"/>
+      </group>
+      <group prefix=". ">
+        <text macro="doi"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

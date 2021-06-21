@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Rubocop $(bundle exec rubocop --version)"
+bundle exec rubocop -S -D -E $@

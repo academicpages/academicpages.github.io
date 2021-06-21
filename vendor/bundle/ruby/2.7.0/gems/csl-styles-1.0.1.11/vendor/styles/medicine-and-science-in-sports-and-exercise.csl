@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US" page-range-format="minimal">
+  <info>
+    <title>Medicine &amp; Science in Sports &amp; Exercise</title>
+    <title-short>MSSE</title-short>
+    <id>http://www.zotero.org/styles/medicine-and-science-in-sports-and-exercise</id>
+    <link href="http://www.zotero.org/styles/medicine-and-science-in-sports-and-exercise" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="template"/>
+    <link href="http://edmgr.ovid.com/msse/accounts/ifauth.htm" rel="documentation"/>
+    <author>
+      <name>Charles Parnot</name>
+      <email>charles.parnot@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Patrick O'Brien</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0195-9131</issn>
+    <eissn>1530-0315</eissn>
+    <updated>2020-08-24T03:26:30+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="no date" form="long">date unknown</term>
+      <term name="available at">available from</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="long" prefix=", " suffix="."/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place" suffix=": "/>
+    <text variable="publisher" suffix="; "/>
+    <text macro="date"/>
+  </macro>
+  <macro name="date">
+    <choose>
+      <if variable="issued">
+        <choose>
+          <if type="article-journal">
+            <group delimiter=" ">
+              <date variable="issued">
+                <date-part name="year"/>
+              </date>
+              <choose>
+                <if match="none" variable="page">
+                  <group prefix="[" suffix="]" delimiter=" ">
+                    <text term="cited"/>
+                    <date variable="accessed">
+                      <date-part name="year"/>
+                      <date-part name="month" prefix=" " form="short" strip-periods="true"/>
+                      <date-part name="day" prefix=" "/>
+                    </date>
+                  </group>
+                </if>
+              </choose>
+            </group>
+          </if>
+          <else>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </else>
+        </choose>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="article-journal" match="any">
+        <choose>
+          <if match="none" variable="page">
+            <group delimiter=". ">
+              <group delimiter=": ">
+                <text term="available at" text-case="capitalize-first"/>
+                <text variable="URL"/>
+              </group>
+              <text variable="DOI" prefix="doi:"/>
+            </group>
+          </if>
+        </choose>
+      </if>
+      <else>
+        <group delimiter=" ">
+          <group prefix="[" suffix="]" delimiter=" ">
+            <text term="cited"/>
+            <date variable="accessed" suffix=" ">
+              <date-part name="year"/>
+              <date-part name="month" prefix=" " form="short" strip-periods="true"/>
+              <date-part name="day" prefix=" "/>
+            </date>
+          </group>
+          <group delimiter=": ">
+            <text term="available at" text-case="capitalize-first"/>
+            <text variable="URL"/>
+          </group>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <text variable="title"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush" et-al-min="7" et-al-use-first="3">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=". ">
+            <text variable="title" font-style="italic"/>
+            <text macro="edition"/>
+            <text macro="publisher" suffix="."/>
+            <group delimiter=" ">
+              <text variable="number-of-pages"/>
+              <label plural="never" variable="page" form="short"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=". ">
+            <text macro="title"/>
+            <group delimiter=": ">
+              <text term="in" text-case="capitalize-first"/>
+              <text macro="editor"/>
+            </group>
+            <text variable="container-title" font-style="italic"/>
+            <text macro="publisher" prefix=" "/>
+            <group delimiter=" ">
+              <label plural="never" variable="page" form="short"/>
+              <text variable="page" suffix="."/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <text macro="title" suffix=". "/>
+          <group delimiter=" " suffix=". ">
+            <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
+            <choose>
+              <if type="article-journal" match="any">
+                <choose>
+                  <if variable="page" match="none">
+                    <text term="internet" prefix="[" suffix="]" text-case="capitalize-first"/>
+                  </if>
+                </choose>
+              </if>
+            </choose>
+          </group>
+          <text macro="date" suffix=";"/>
+          <text variable="volume"/>
+          <text variable="issue" prefix="(" suffix=")"/>
+          <text variable="page" prefix=":" suffix="."/>
+        </else>
+      </choose>
+      <text macro="access" prefix=" "/>
+    </layout>
+  </bibliography>
+</style>

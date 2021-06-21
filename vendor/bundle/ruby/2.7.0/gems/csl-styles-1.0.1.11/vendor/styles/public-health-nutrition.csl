@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Public Health Nutrition</title>
+    <id>http://www.zotero.org/styles/public-health-nutrition</id>
+    <link href="http://www.zotero.org/styles/public-health-nutrition" rel="self"/>
+    <link href="http://assets.cambridge.org/PHN/PHN_ifc.pdf" rel="documentation"/>
+    <author>
+      <name>Michael Berkowitz</name>
+      <email>mberkowi@gmu.edu</email>
+    </author>
+    <contributor>
+      <name>Sean Takats</name>
+      <email>stakats@gmu.edu</email>
+    </contributor>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1368-9800</issn>
+    <eissn>1475-2727</eissn>
+    <summary>Style for the Cambridge UP Journal "Public Health Nutrition"</summary>
+    <updated>2013-08-29T05:27:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="never" and="symbol"/>
+      <label form="long" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <group prefix="[" suffix="]">
+      <names variable="editor">
+        <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+        <label form="long" prefix=", "/>
+      </names>
+    </group>
+  </macro>
+  <macro name="date-year">
+    <group prefix="(" suffix=")">
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="thesis">
+        <group delimiter=", ">
+          <text variable="genre"/>
+          <text variable="publisher"/>
+        </group>
+      </if>
+      <else>
+        <text variable="publisher-place" suffix=": "/>
+        <text variable="publisher"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="webpage">
+        <text variable="URL"/>
+        <choose>
+          <if variable="URL">
+            <group prefix=" (accessed" suffix=")" delimiter=" ">
+              <date variable="accessed">
+                <date-part name="month" prefix=" "/>
+                <date-part name="year" prefix=" "/>
+              </date>
+            </group>
+          </if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <text term="in" text-case="capitalize-first" suffix=" "/>
+        <text variable="container-title" form="short" font-style="italic"/>
+      </if>
+      <else-if type="article-journal article-magazine" match="any">
+        <group delimiter=" ">
+          <text variable="container-title" form="short" font-style="italic"/>
+          <text variable="volume" font-weight="bold"/>
+        </group>
+      </else-if>
+      <else>
+        <text variable="container-title" form="short" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="pages">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <label variable="page" form="short" suffix=" "/>
+        <text variable="page"/>
+      </if>
+      <else>
+        <text variable="page"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="book-volume">
+    <choose>
+      <if type="bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="any">
+        <text variable="volume" prefix="vol. "/>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" prefix="(" suffix=")" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=" " suffix=". ">
+        <text macro="author"/>
+        <text macro="date-year"/>
+        <text macro="title"/>
+      </group>
+      <group suffix=".">
+        <group delimiter=", ">
+          <text macro="container-title"/>
+          <text macro="book-volume"/>
+          <text macro="edition"/>
+          <text macro="pages"/>
+        </group>
+        <text macro="editor" prefix=" "/>
+      </group>
+      <group delimiter=";">
+        <text macro="publisher" prefix=" "/>
+        <text macro="access" prefix=" "/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

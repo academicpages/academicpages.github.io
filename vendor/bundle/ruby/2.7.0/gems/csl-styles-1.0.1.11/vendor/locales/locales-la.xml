@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="la">
+  <info>
+    <translator>
+      <name>Andrew Dunning</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2019-01-21T13:33:33+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">consultatus</term>
+    <term name="and">et</term>
+    <term name="and others">et alii</term>
+    <term name="anonymous">anonymus</term>
+    <term name="anonymous" form="short">anon.</term>
+    <term name="at">ad</term>
+    <term name="available at">praestatus ad</term>
+    <term name="by">a</term>
+    <term name="circa">circa</term>
+    <term name="circa" form="short">c.</term>
+    <term name="cited">citatus</term>
+    <term name="edition">
+      <single>editio</single>
+      <multiple>editiones</multiple>
+    </term>
+    <term name="edition" form="short">ed.</term>
+    <term name="et-al">et al.</term>
+    <term name="forthcoming">futurus</term>
+    <term name="from">ab</term>
+    <term name="ibid">ibid.</term>
+    <term name="in">in</term>
+    <term name="in press">impressorio</term>
+    <term name="internet">interrete</term>
+    <term name="interview">congressus</term>
+    <term name="letter">epistula</term>
+    <term name="no date">sine die</term>
+    <term name="no date" form="short">s.d.</term>
+    <term name="online">in linea</term>
+    <term name="presented at">praebitus ad</term>
+    <term name="reference">
+      <single>relatio</single>
+      <multiple>relationes</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>rel.</single>
+      <multiple>rell.</multiple>
+    </term>
+    <term name="retrieved">recuperatus</term>
+    <term name="scale">scala</term>
+    <term name="version">uersio</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">A.D.</term>
+    <term name="bc">A.C.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">‘</term>
+    <term name="close-quote">’</term>
+    <term name="open-inner-quote">“</term>
+    <term name="close-inner-quote">”</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">º</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">primus</term>
+    <term name="long-ordinal-02">secundus</term>
+    <term name="long-ordinal-03">tertius</term>
+    <term name="long-ordinal-04">quartus</term>
+    <term name="long-ordinal-05">quintus</term>
+    <term name="long-ordinal-06">sextus</term>
+    <term name="long-ordinal-07">septimus</term>
+    <term name="long-ordinal-08">octauus</term>
+    <term name="long-ordinal-09">nonus</term>
+    <term name="long-ordinal-10">decimus</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>liber</single>
+      <multiple>libri</multiple>
+    </term>
+    <term name="chapter">
+      <single>capitulum</single>
+      <multiple>capitula</multiple>
+    </term>
+    <term name="column">
+      <single>columna</single>
+      <multiple>columnae</multiple>
+    </term>
+    <term name="figure">
+      <single>figura</single>
+      <multiple>figurae</multiple>
+    </term>
+    <term name="folio">
+      <single>folium</single>
+      <multiple>folii</multiple>
+    </term>
+    <term name="issue">
+      <single>numerus</single>
+      <multiple>numeri</multiple>
+    </term>
+    <term name="line">
+      <single>linea</single>
+      <multiple>lineae</multiple>
+    </term>
+    <term name="note">
+      <single>nota</single>
+      <multiple>notae</multiple>
+    </term>
+    <term name="opus">
+      <single>opus</single>
+      <multiple>opera</multiple>
+    </term>
+    <term name="page">
+      <single>pagina</single>
+      <multiple>paginae</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>pagina</single>
+      <multiple>paginae</multiple>
+    </term>
+    <term name="paragraph">
+      <single>paragraphus</single>
+      <multiple>paragraphi</multiple>
+    </term>
+    <term name="part">
+      <single>pars</single>
+      <multiple>partes</multiple>
+    </term>
+    <term name="section">
+      <single>paragraphus</single>
+      <multiple>paragraphi</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub uerbo</single>
+      <multiple>sub uerbis</multiple>
+    </term>
+    <term name="verse">
+      <single>versus</single>
+      <multiple>versus</multiple>
+    </term>
+    <term name="volume">
+      <single>tomus</single>
+      <multiple>tomi</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">lib.</term>
+    <term name="chapter" form="short">cap.</term>
+    <term name="column" form="short">col.</term>
+    <term name="figure" form="short">fig.</term>
+    <term name="folio" form="short">fol.</term>
+    <term name="issue" form="short">n.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">pr.</term>
+    <term name="section" form="short">par.</term>
+    <term name="sub verbo" form="short">
+      <single>s.u.</single>
+      <multiple>s.uu.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>u.</single>
+      <multiple>uu.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>t.</single>
+      <multiple>tt.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>director</single>
+      <multiple>directores</multiple>
+    </term>
+    <term name="editor">
+      <single>curator</single>
+      <multiple>curatores</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>editor</single>
+      <multiple>editores</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustratores</multiple>
+    </term>
+    <term name="translator">
+      <single>interpres</single>
+      <multiple>interpretes</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>curator et interpres</single>
+      <multiple>curatores et interpretes</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>cur.</single>
+      <multiple>curs.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>ed.</single>
+      <multiple>eds.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>interp.</single>
+      <multiple>interps.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>cur. et interp.</single>
+      <multiple>curs. et interps.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">a</term>
+    <term name="director" form="verb">a directione</term>
+    <term name="editor" form="verb">a cura</term>
+    <term name="editorial-director" form="verb">ab editione</term>
+    <term name="illustrator" form="verb">ab illustratione</term>
+    <term name="interviewer" form="verb">a congressione</term>
+    <term name="recipient" form="verb">a</term>
+    <term name="reviewed-author" form="verb">a</term>
+    <term name="translator" form="verb">a interpretatione</term>
+    <term name="editortranslator" form="verb">a cura et interpretatione</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">cur.</term>
+    <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="translator" form="verb-short">interp.</term>
+    <term name="editortranslator" form="verb-short">a cur. et interp.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">ianuarius</term>
+    <term name="month-02">februarius</term>
+    <term name="month-03">martius</term>
+    <term name="month-04">aprilis</term>
+    <term name="month-05">maius</term>
+    <term name="month-06">iunius</term>
+    <term name="month-07">iulius</term>
+    <term name="month-08">augustus</term>
+    <term name="month-09">september</term>
+    <term name="month-10">october</term>
+    <term name="month-11">nouember</term>
+    <term name="month-12">december</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">ian.</term>
+    <term name="month-02" form="short">feb.</term>
+    <term name="month-03" form="short">mar.</term>
+    <term name="month-04" form="short">apr.</term>
+    <term name="month-05" form="short">mai.</term>
+    <term name="month-06" form="short">iun.</term>
+    <term name="month-07" form="short">iul.</term>
+    <term name="month-08" form="short">aug.</term>
+    <term name="month-09" form="short">sep.</term>
+    <term name="month-10" form="short">oct.</term>
+    <term name="month-11" form="short">nou.</term>
+    <term name="month-12" form="short">dec.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">uer</term>
+    <term name="season-02">aestas</term>
+    <term name="season-03">autumnus</term>
+    <term name="season-04">hiems</term>
+  </terms>
+</locale>

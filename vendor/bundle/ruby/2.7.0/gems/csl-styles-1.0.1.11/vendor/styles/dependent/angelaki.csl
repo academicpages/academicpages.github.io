@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Angelaki</title>
+    <id>http://www.zotero.org/styles/angelaki</id>
+    <link href="http://www.zotero.org/styles/angelaki" rel="self"/>
+    <link href="http://www.zotero.org/styles/modern-language-association-6th-edition-note" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=cang&amp;page=instructions" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <issn>0969-725X</issn>
+    <eissn>1469-2899</eissn>
+    <updated>2015-12-15T21:37:56+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

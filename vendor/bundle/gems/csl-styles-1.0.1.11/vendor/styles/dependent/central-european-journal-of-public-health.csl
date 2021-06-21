@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Central European Journal of Public Health</title>
+    <title-short>CEJPH</title-short>
+    <id>http://www.zotero.org/styles/central-european-journal-of-public-health</id>
+    <link href="http://www.zotero.org/styles/central-european-journal-of-public-health" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://apps.szu.cz/svi/cejph/show_en.php?kat=author" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1210-7778</issn>
+    <eissn>1803-1048</eissn>
+    <updated>2017-12-24T03:53:12+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

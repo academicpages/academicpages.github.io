@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Fusion Science and Technology</title>
+    <title-short>FST</title-short>
+    <id>http://www.zotero.org/styles/fusion-science-and-technology</id>
+    <link href="http://www.zotero.org/styles/fusion-science-and-technology" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-nuclear-society" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=ufst20&amp;page=instructions" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <category field="engineering"/>
+    <issn>1536-1055</issn>
+    <eissn>1943-7641</eissn>
+    <updated>2017-09-21T03:02:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

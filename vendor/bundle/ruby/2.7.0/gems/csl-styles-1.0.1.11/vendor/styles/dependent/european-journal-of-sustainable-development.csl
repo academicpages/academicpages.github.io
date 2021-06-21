@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>European Journal of Sustainable Development</title>
+    <id>http://www.zotero.org/styles/european-journal-of-sustainable-development</id>
+    <link href="http://www.zotero.org/styles/european-journal-of-sustainable-development" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://www.ecsdev.org/index.php/publications/guidelines-for-authors" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>2239-5938</issn>
+    <eissn>2239-6101</eissn>
+    <updated>2017-02-17T03:52:08+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

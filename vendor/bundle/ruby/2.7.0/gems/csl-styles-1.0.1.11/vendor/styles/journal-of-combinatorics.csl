@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="minimal" default-locale="en-US">
+  <info>
+    <title>Journal of Combinatorics</title>
+    <id>http://www.zotero.org/styles/journal-of-combinatorics</id>
+    <link href="http://www.zotero.org/styles/journal-of-combinatorics" rel="self"/>
+    <link href="http://www.e-publications.org/intlpress/support/" rel="documentation"/>
+    <author>
+      <name>Alafate Julaiti</name>
+      <email>arapat@arap.at</email>
+      <uri>http://arap.at</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="math"/>
+    <issn>2156-3527</issn>
+    <eissn>2150-959X</eissn>
+    <summary>style for Journal of Combinatorics (JOC)</summary>
+    <updated>2013-08-29T04:18:55+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=", " initialize-with=" " name-as-sort-order="all" delimiter=", " delimiter-precedes-last="never" and="text"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="journal-title">
+    <text variable="container-title" form="short" font-style="italic"/>
+  </macro>
+  <macro name="date-year">
+    <date variable="issued" prefix="(" suffix=")">
+      <date-part name="year" suffix=" "/>
+    </date>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+        <text variable="title" form="long" font-style="italic" text-case="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" strip-periods="true"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush">
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <group delimiter=" " prefix=" ">
+        <text macro="author"/>
+        <text macro="date-year" suffix="."/>
+        <text macro="title"/>
+      </group>
+      <choose>
+        <if type="book">
+          <text macro="edition" prefix=", "/>
+          <text macro="publisher" prefix=". "/>
+        </if>
+        <else-if type="bill graphic legal_case legislation motion_picture report song" match="any">
+          <group prefix=". " delimiter=". ">
+            <text variable="volume" font-weight="bold"/>
+            <text macro="publisher"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group prefix=". " delimiter=". ">
+            <text variable="genre"/>
+            <text macro="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <group prefix=". " delimiter=". ">
+            <text macro="journal-title"/>
+            <text macro="publisher"/>
+          </group>
+          <group prefix=". " delimiter=" ">
+            <text variable="volume" font-weight="bold"/>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+      <text variable="URL" prefix=". "/>
+    </layout>
+  </bibliography>
+</style>

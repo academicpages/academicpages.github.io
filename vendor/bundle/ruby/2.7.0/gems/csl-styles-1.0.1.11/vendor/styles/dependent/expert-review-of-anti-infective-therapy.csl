@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Expert Revew Series, generated from "expert-reviews" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Expert Review of Anti-infective Therapy</title>
+    <id>http://www.zotero.org/styles/expert-review-of-anti-infective-therapy</id>
+    <link href="http://www.zotero.org/styles/expert-review-of-anti-infective-therapy" rel="self"/>
+    <link href="http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=ierz20#References" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1478-7210</issn>
+    <eissn>1744-8336</eissn>
+    <updated>2017-05-29T19:45:49+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

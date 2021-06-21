@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://steveridout.com/csl/visualEditor/) -->
+  <info>
+    <title>Biochemical Journal</title>
+    <id>http://www.zotero.org/styles/biochemical-journal</id>
+    <link href="http://www.zotero.org/styles/biochemical-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/biochemistry" rel="template"/>
+    <link href="http://www.biochemj.org/bj/bji2a.htm#References" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="chemistry"/>
+    <issn>0264-6021</issn>
+    <eissn>1470-8728</eissn>
+    <updated>2014-08-28T01:36:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="issued">
+    <group prefix=" (" suffix=")">
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="article-journal bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="none">
+          <date variable="issued">
+            <date-part prefix=", " name="month"/>
+            <date-part prefix=" " name="day"/>
+          </date>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <group delimiter=" ">
+          <text term="in" form="long" plural="false" text-case="capitalize-first"/>
+          <text variable="container-title"/>
+        </group>
+      </if>
+      <else>
+        <text variable="container-title" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-contributors">
+    <names variable="editor" delimiter=", " prefix=" (" suffix=")">
+      <name name-as-sort-order="all" and="text" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if type="bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="any">
+        <choose>
+          <if is-numeric="edition">
+            <group delimiter=" ">
+              <number variable="edition" form="ordinal"/>
+              <text term="edition" form="short"/>
+            </group>
+          </if>
+          <else>
+            <text variable="edition" suffix="."/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="pages-book-chapter">
+    <choose>
+      <if type="bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="any">
+        <label variable="page" form="short" prefix=", " suffix=" " strip-periods="true"/>
+        <text variable="page"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", " prefix=", ">
+      <text variable="genre"/>
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if type="article-journal">
+        <group prefix=" " delimiter=", ">
+          <text variable="volume" font-weight="bold"/>
+          <text variable="page"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number" form="long" font-style="normal"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="11" et-al-use-first="10" second-field-align="flush" entry-spacing="0">
+    <layout suffix=".">
+      <text variable="citation-number" form="long" suffix=" "/>
+      <text macro="author" suffix="."/>
+      <text macro="issued"/>
+      <text variable="title" prefix=" "/>
+      <text macro="container-title" prefix=". "/>
+      <text macro="container-contributors"/>
+      <text macro="edition" prefix=" "/>
+      <text macro="pages-book-chapter"/>
+      <text macro="publisher"/>
+      <text macro="locators"/>
+    </layout>
+  </bibliography>
+</style>

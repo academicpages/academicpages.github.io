@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Environmental Microbiology</title>
+    <id>http://www.zotero.org/styles/environmental-microbiology</id>
+    <link href="http://www.zotero.org/styles/environmental-microbiology" rel="self"/>
+    <link href="http://www.zotero.org/styles/bioinformatics" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291462-2920/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Mathilde Lescat</name>
+    </author>
+    <contributor>
+      <name>Connor Skennerton</name>
+    </contributor>
+    <contributor>
+      <name>Claus Pelikan</name>
+    </contributor>
+    <contributor>
+      <name>Yu Gao</name>
+      <email>gaoyu19920914@gmail.com</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1462-2912</issn>
+    <eissn>1462-2920</eissn>
+    <updated>2020-03-28T21:37:07+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=",">
+      <name name-as-sort-order="all" sort-separator=", " and="text" initialize-with="." delimiter=", "/>
+      <label form="short" prefix=" (" suffix=")" strip-periods="true"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" initialize-with="." name-as-sort-order="all" sort-separator=", "/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=". "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
+    <sort>
+      <key macro="year-date"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="8" et-al-use-first="6" entry-spacing="0" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="author"/>
+      <date variable="issued" prefix=" (" suffix=")">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group prefix=" " delimiter=", ">
+            <text macro="title"/>
+            <group delimiter=" ">
+              <text macro="edition"/>
+              <text macro="editor"/>
+              <text macro="publisher"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" " suffix="."/>
+          <group prefix=" " delimiter=" " suffix=".">
+            <text term="in" text-case="capitalize-first"/>
+            <text variable="container-title" font-style="italic" suffix="."/>
+            <text variable="collection-title" suffix="."/>
+            <text macro="editor"/>
+          </group>
+          <group suffix=".">
+            <text macro="publisher" prefix=" "/>
+            <group prefix=", ">
+              <label variable="page" suffix=" " form="short"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <text macro="title" prefix=" " suffix="."/>
+          <group delimiter=" " prefix=" " suffix=".">
+            <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
+            <text variable="volume" font-weight="bold" suffix=":"/>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/iop -->
+  <info>
+    <title>Quantum Electronics</title>
+    <id>http://www.zotero.org/styles/quantum-electronics</id>
+    <link href="http://www.zotero.org/styles/quantum-electronics" rel="self"/>
+    <link href="http://www.zotero.org/styles/institute-of-physics-numeric" rel="independent-parent"/>
+    <link href="http://iopscience.iop.org/1063-7818" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <issn>1063-7818</issn>
+    <eissn>1468-4799</eissn>
+    <updated>2014-05-15T22:55:09+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

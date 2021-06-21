@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>Mathematical Geosciences</title>
+    <id>http://www.zotero.org/styles/mathematical-geosciences</id>
+    <link href="http://www.zotero.org/styles/mathematical-geosciences" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-mathphys-author-date" rel="template"/>
+    <link href="https://www.springer.com/earth+sciences+and+geography/journal/11004?detailsPage=pltci_3160931" rel="documentation"/>
+    <author>
+      <name>Fabien Ors</name>
+      <email>fabien.ors@mines-paristech.fr</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="math"/>
+    <category field="geology"/>
+    <issn>1874-8961</issn>
+    <eissn>1874-8953</eissn>
+    <summary>This style is used by Springer Mathematical Geosciences publications.</summary>
+    <updated>2018-09-13T18:40:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author-short-in-citation">
+    <names variable="author">
+      <name form="short" and="text"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-in-citation">
+    <names variable="author">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="year-in-citation">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="issued-sort">
+    <choose>
+      <if type="article-journal bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="none">
+        <date variable="issued">
+          <date-part name="year"/>
+          <date-part name="month"/>
+          <date-part name="day"/>
+        </date>
+      </if>
+      <else>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <group>
+      <names variable="author">
+        <name name-as-sort-order="all" sort-separator=" " initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+        <label form="short" prefix=" " strip-periods="true"/>
+        <substitute>
+          <names variable="editor"/>
+        </substitute>
+      </names>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="." delimiter=", " and="text" name-as-sort-order="all" sort-separator=", "/>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="page">
+    <group delimiter=" ">
+      <label variable="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="access">
+    <text variable="DOI" prefix="https://doi.org/"/>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author-in-citation"/>
+      <key variable="issued" sort="ascending"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author-short-in-citation"/>
+        <text macro="year-in-citation"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0">
+    <sort>
+      <key macro="author-in-citation"/>
+      <key macro="issued-sort" sort="ascending"/>
+    </sort>
+    <layout>
+      <text macro="author" prefix="" suffix=" "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=" ">
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+            <choose>
+              <if variable="version">
+                <!---This is a hack until we have a computer program recognized as book type-->
+                <text macro="title"/>
+                <text variable="version" suffix="."/>
+                <text variable="URL"/>
+              </if>
+              <else>
+                <!---Not a program-->
+                <text macro="title" suffix="."/>
+                <text macro="publisher"/>
+              </else>
+            </choose>
+          </group>
+        </if>
+        <else-if type="article-journal">
+          <group delimiter=" ">
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+            <text macro="title" suffix="."/>
+            <text variable="container-title" form="short" suffix="."/>
+            <text variable="volume" suffix=","/>
+            <text variable="page"/>
+          </group>
+          <text macro="access" prefix=". "/>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=" ">
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+            <text macro="title" suffix="."/>
+            <choose>
+              <if variable="container-title">
+                <text term="in" text-case="capitalize-first" suffix=": "/>
+                <text macro="editor" suffix=" "/>
+                <group delimiter=". ">
+                  <text variable="container-title"/>
+                  <text macro="page"/>
+                  <text macro="publisher"/>
+                </group>
+              </if>
+              <else>
+                <text term="presented at" text-case="capitalize-first" suffix=" "/>
+                <text variable="event"/>
+                <text variable="event-place" prefix=", "/>
+                <date variable="issued" prefix=" ">
+                  <date-part name="month" suffix=" "/>
+                  <date-part name="day" suffix=" "/>
+                </date>
+              </else>
+            </choose>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="URL"/>
+          </group>
+        </else-if>
+        <else-if type="speech">
+          <group delimiter=" ">
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+            <text macro="title" suffix="."/>
+            <text variable="event" suffix="."/>
+            <text variable="event-place" prefix=", "/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="author" prefix="" suffix=" "/>
+            <date variable="issued">
+              <date-part name="year" prefix="(" suffix=")"/>
+            </date>
+            <text macro="title"/>
+            <text variable="URL"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

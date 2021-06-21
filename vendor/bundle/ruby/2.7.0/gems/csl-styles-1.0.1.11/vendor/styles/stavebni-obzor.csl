@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="cs-CZ">
+  <info>
+    <title>Stavební obzor (Czech)</title>
+    <id>http://www.zotero.org/styles/stavebni-obzor</id>
+    <link href="http://www.zotero.org/styles/stavebni-obzor" rel="self"/>
+    <link href="http://www.stavebniobzor.cz/redakce-casopisu/pokyny-pro-autory/" rel="documentation"/>
+    <author>
+      <name>Libor Ansorge</name>
+      <email>libor.ansorge@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="engineering"/>
+    <issn>1210-4027</issn>
+    <eissn>1805-2576</eissn>
+    <summary>Style for journal Stavební obzor</summary>
+    <updated>2014-09-06T22:02:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=", " initialize-with="." delimiter-precedes-last="never" delimiter=" - "/>
+      <label form="short" prefix=" " text-case="lowercase"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year" form="long"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="page">
+    <group delimiter=" ">
+      <text term="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="issue">
+    <group delimiter=" ">
+      <text term="issue" form="short"/>
+      <text variable="issue"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number" after-collapse-delimiter="; ">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+      <group delimiter=" ">
+        <label variable="locator" form="short" prefix=" "/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="1" second-field-align="flush">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout>
+      <!-- Citation Number -->
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <!-- Author(s) -->
+      <group delimiter=" - " suffix=": ">
+        <text macro="author"/>
+      </group>
+      <!-- Rest of Citation -->
+      <choose>
+        <!-- Specific Formats -->
+        <if type="book">
+          <group delimiter=". " suffix=". ">
+            <text variable="title"/>
+            <text variable="edition"/>
+            <group delimiter=", ">
+              <text variable="publisher-place"/>
+              <text variable="publisher"/>
+            </group>
+            <text macro="year-date"/>
+          </group>
+        </if>
+        <else-if type="paper-conference">
+          <group delimiter=". " suffix=". ">
+            <text variable="title"/>
+            <group delimiter=", ">
+              <text variable="container-title" prefix="[" suffix="]"/>
+              <text variable="event" prefix="konference " quotes="true"/>
+              <text variable="publisher"/>
+              <text macro="year-date"/>
+              <text macro="page"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <group delimiter=". " suffix=". ">
+            <text variable="title"/>
+            <group delimiter=", ">
+              <text variable="container-title"/>
+              <text variable="volume" font-weight="bold"/>
+              <text macro="year-date"/>
+              <text macro="issue"/>
+              <text macro="page"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <text variable="title"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

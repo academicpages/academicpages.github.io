@@ -1,0 +1,4 @@
+U:RDoc::AnyMethod[iI"
+close:ETI".EventMachine::WebSocket::Connection#close;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"?Use this method to close the websocket connection cleanly ;TI"JThis sends a close frame and waits for acknowlegement before closing ;TI"the connection;T:
+@fileI"#lib/em-websocket/connection.rb;T:0@omit_headings_from_table_of_contents_below000[[I"close_websocket;To;;	[o;
+;	[I"-Deprecated, to be removed in version 0.6;T;@;0I"(code = nil, body = nil);T@FI"Connection;TcRDoc::NormalClass00

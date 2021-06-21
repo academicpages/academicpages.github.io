@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- IOP Publishing, generated from "iop" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Electronic Structure</title>
+    <id>http://www.zotero.org/styles/electronic-structure</id>
+    <link href="http://www.zotero.org/styles/electronic-structure" rel="self"/>
+    <link href="http://www.zotero.org/styles/institute-of-physics-numeric" rel="independent-parent"/>
+    <link href="https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <eissn>2516-1075</eissn>
+    <updated>2020-02-05T05:27:13+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

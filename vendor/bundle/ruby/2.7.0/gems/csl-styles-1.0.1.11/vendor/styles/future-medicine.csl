@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Future Medicine journals</title>
+    <id>http://www.zotero.org/styles/future-medicine</id>
+    <link href="http://www.zotero.org/styles/future-medicine" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-applied-pharmaceutical-research" rel="template"/>
+    <link href="https://www.futuremedicine.com/authorguide/preparingyourarticle" rel="documentation"/>
+    <link href="https://www.futuremedicine.com/pb-assets/Future-Medicine-Author-Guidelines-1585216135307.pdf" rel="documentation"/>
+    <author>
+      <name>Patrick O'Bien</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <updated>2020-06-04T03:06:13+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="presented at">presented at</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter-precedes-et-al="never" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <label form="short" text-case="capitalize-first" prefix=" (" suffix=")"/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal" match="any">
+        <text variable="container-title" form="short" font-style="italic"/>
+      </if>
+      <else-if type="chapter paper-conference" match="any">
+        <text variable="container-title" font-style="italic"/>
+      </else-if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <number suffix=" " variable="edition" form="ordinal"/>
+    <label plural="never" text-case="capitalize-first" variable="edition"/>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book" match="any">
+        <text variable="title" quotes="false" font-style="italic"/>
+      </if>
+      <else-if type="webpage" match="any">
+        <text variable="title" quotes="true"/>
+      </else-if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued">
+    <choose>
+      <if type="paper-conference" match="any">
+        <date variable="issued">
+          <date-part name="day" suffix=" "/>
+          <date-part name="month" suffix=", "/>
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <date date-parts="year" form="numeric" variable="issued" prefix="(" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <label form="short" plural="never" text-case="capitalize-first" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if type="article-journal" match="any">
+        <text variable="volume"/>
+        <text variable="issue" prefix="(" suffix=")"/>
+      </if>
+      <else-if type="book chapter" match="any">
+        <group font-style="italic" delimiter=", " prefix="(" suffix=")">
+          <group delimiter=" ">
+            <text term="volume" text-case="capitalize-first"/>
+            <text variable="volume"/>
+          </group>
+          <group>
+            <text term="chapter" form="short" text-case="capitalize-first" suffix=" "/>
+            <text variable="chapter-number"/>
+          </group>
+          <text macro="edition"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="page">
+    <text variable="page"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="baseline" delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="3" second-field-align="flush" entry-spacing="0">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number"/>
+      <text macro="author" suffix=". "/>
+      <choose>
+        <if type="article-journal">
+          <group delimiter=". ">
+            <text macro="title"/>
+            <group delimiter=" ">
+              <text macro="container-title"/>
+              <group delimiter=", ">
+                <text macro="locators"/>
+                <text macro="page"/>
+              </group>
+              <text macro="issued"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="book" match="any">
+          <group delimiter=". ">
+            <text macro="title"/>
+            <text macro="locators"/>
+            <group delimiter=" ">
+              <text macro="publisher"/>
+              <text macro="issued"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="chapter" match="any">
+          <group delimiter=". ">
+            <text variable="title"/>
+            <group delimiter=": ">
+              <text term="in" text-case="capitalize-first"/>
+              <group delimiter=" ">
+                <text macro="container-title"/>
+                <text macro="locators"/>
+              </group>
+            </group>
+            <group delimiter=", ">
+              <text macro="editor"/>
+              <text macro="publisher"/>
+              <group delimiter=" ">
+                <text macro="page"/>
+                <text macro="issued"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="paper-conference" match="any">
+          <group delimiter=". ">
+            <text variable="title"/>
+            <group delimiter=": ">
+              <text term="presented at" text-case="capitalize-first"/>
+              <text macro="container-title"/>
+            </group>
+            <group delimiter=", ">
+              <text macro="publisher"/>
+              <text macro="issued"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="patent">
+          <group delimiter=" ">
+            <text variable="number"/>
+            <text macro="issued"/>
+          </group>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <group delimiter=", ">
+            <text variable="genre"/>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+          </group>
+        </else-if>
+        <else-if type="webpage post post-weblog" match="any">
+          <group delimiter=". ">
+            <group delimiter=" ">
+              <text macro="title"/>
+              <text macro="issued"/>
+            </group>
+            <text variable="URL"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text macro="publisher"/>
+            <text macro="issued"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

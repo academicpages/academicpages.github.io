@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>American Journal of Obstetrics &amp; Gynecology</title>
+    <id>http://www.zotero.org/styles/american-journal-of-obstetrics-and-gynecology</id>
+    <link href="http://www.zotero.org/styles/american-journal-of-obstetrics-and-gynecology" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="http://www.elsevier.com/journals/american-journal-of-obstetrics-and-gynecology/0002-9378/guide-for-authors" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0002-9378</issn>
+    <eissn>1097-6868</eissn>
+    <updated>2019-04-17T02:29:50+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

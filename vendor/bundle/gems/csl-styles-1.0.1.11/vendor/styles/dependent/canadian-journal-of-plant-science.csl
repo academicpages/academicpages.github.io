@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- NRC Research Press, generated from "nrc" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Canadian Journal of Plant Science</title>
+    <id>http://www.zotero.org/styles/canadian-journal-of-plant-science</id>
+    <link href="http://www.zotero.org/styles/canadian-journal-of-plant-science" rel="self"/>
+    <link href="http://www.zotero.org/styles/canadian-journal-of-soil-science" rel="independent-parent"/>
+    <link href="http://www.aic.ca/journals/pdf/Instructions/Operations_Manual_Revised_2012.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="botany"/>
+    <issn>0008-4220</issn>
+    <eissn>1918-1833</eissn>
+    <updated>2016-05-31T22:53:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

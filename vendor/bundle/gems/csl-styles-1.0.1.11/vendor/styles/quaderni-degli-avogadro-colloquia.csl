@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Quaderni degli Avogadro Colloquia</title>
+    <id>http://www.zotero.org/styles/quaderni-degli-avogadro-colloquia</id>
+    <link href="http://www.zotero.org/styles/quaderni-degli-avogadro-colloquia" rel="self"/>
+    <link href="http://www.soc.chim.it/it/avogadro_colloquia" rel="documentation"/>
+    <author>
+      <name>Daniel Simon</name>
+      <email>daniel.simon@liu.se</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <category field="chemistry"/>
+    <summary>Proceedings of the Italian Chemical Society's Avogadro Colloquia</summary>
+    <updated>2014-08-28T01:36:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="editor" form="short">
+        <single>ed.</single>
+        <multiple>eds</multiple>
+      </term>
+    </terms>
+  </locale>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="normal"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter-precedes-et-al="never" delimiter-precedes-last="never" et-al-min="4" et-al-use-first="1" initialize-with="."/>
+      <label form="short" prefix=", "/>
+      <et-al font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="issuance">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song chapter paper-conference" match="any">
+        <group delimiter=", ">
+          <text variable="publisher" form="long"/>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+      <else>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <names variable="editor" prefix="(" suffix=")">
+          <name and="symbol" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="baseline" delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number" vertical-align="baseline"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="6" et-al-use-first="1" second-field-align="flush" entry-spacing="0">
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <group delimiter=" ">
+        <text macro="author" suffix=","/>
+        <text macro="title" suffix="."/>
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <text term="in" form="long" plural="false"/>
+          </if>
+        </choose>
+        <text variable="container-title" font-style="italic" suffix=","/>
+        <text macro="editor"/>
+        <group font-weight="normal" delimiter="," suffix=".">
+          <text macro="issuance"/>
+          <text variable="volume" font-weight="bold" prefix=" "/>
+          <text variable="page-first" prefix=" " suffix="."/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

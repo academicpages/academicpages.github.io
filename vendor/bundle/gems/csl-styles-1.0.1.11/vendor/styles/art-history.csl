@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Art History</title>
+    <id>http://www.zotero.org/styles/art-history</id>
+    <link href="http://www.zotero.org/styles/art-history" rel="self"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8365/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Julian Onions</name>
+      <email>julian.onions@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="history"/>
+    <issn>0141-6790</issn>
+    <eissn>1467-8365</eissn>
+    <summary>Art History journal style</summary>
+    <updated>2013-04-27T15:45:13+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter=", "/>
+      <label form="short" prefix=", " strip-periods="true"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", "/>
+      <label form="short" prefix=", " strip-periods="true"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" prefix="‘" suffix="’"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title-short">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" form="short" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" form="short" prefix="‘" suffix="’"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place"/>
+  </macro>
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="month" suffix=" "/>
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="volumes">
+    <group delimiter=" ">
+      <text variable="number-of-volumes"/>
+      <text term="volume" form="short" plural="true" strip-periods="true"/>
+    </group>
+  </macro>
+  <macro name="pageno">
+    <text variable="page"/>
+  </macro>
+  <macro name="pageref">
+    <text variable="locator"/>
+  </macro>
+  <macro name="volref">
+    <group delimiter=": ">
+      <text variable="volume"/>
+      <text variable="issue"/>
+    </group>
+  </macro>
+  <macro name="container">
+    <text variable="container-title"/>
+  </macro>
+  <citation>
+    <layout suffix="." delimiter="; ">
+      <choose>
+        <if position="subsequent">
+          <group delimiter=", ">
+            <text macro="author-short"/>
+            <text macro="title-short"/>
+            <text macro="pageref"/>
+          </group>
+        </if>
+        <else>
+          <group delimiter=", ">
+            <text macro="author"/>
+            <text macro="title"/>
+            <text macro="publisher"/>
+            <text macro="container"/>
+            <text macro="volref"/>
+            <text macro="date"/>
+            <text macro="volumes"/>
+            <text macro="pageno"/>
+            <text macro="pageref"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+</style>

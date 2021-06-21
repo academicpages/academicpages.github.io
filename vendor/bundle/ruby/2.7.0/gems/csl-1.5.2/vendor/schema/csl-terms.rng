@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <div>
+    <a:documentation>Terms</a:documentation>
+    <define name="terms">
+      <choice>
+        <ref name="terms.gender-assignable"/>
+        <ref name="terms.gender-variants"/>
+        <ref name="terms.locator"/>
+        <ref name="variables.names">
+          <a:documentation>Contributor roles</a:documentation>
+        </ref>
+        <value>editortranslator</value>
+        <value>accessed</value>
+        <a:documentation>Miscellaneous terms</a:documentation>
+        <value>ad</value>
+        <value>and</value>
+        <value>and others</value>
+        <value>anonymous</value>
+        <value>at</value>
+        <value>available at</value>
+        <value>bc</value>
+        <value>by</value>
+        <value>circa</value>
+        <value>cited</value>
+        <value>et-al</value>
+        <value>forthcoming</value>
+        <value>from</value>
+        <value>ibid</value>
+        <value>in</value>
+        <value>in press</value>
+        <value>internet</value>
+        <value>interview</value>
+        <value>letter</value>
+        <value>no date</value>
+        <value>online</value>
+        <value>presented at</value>
+        <value>reference</value>
+        <value>retrieved</value>
+        <value>scale</value>
+        <value>version</value>
+        <value>open-quote</value>
+        <a:documentation>Punctuation</a:documentation>
+        <value>close-quote</value>
+        <value>open-inner-quote</value>
+        <value>close-inner-quote</value>
+        <value>page-range-delimiter</value>
+        <value>season-01</value>
+        <a:documentation>Seasons</a:documentation>
+        <value>season-02</value>
+        <value>season-03</value>
+        <value>season-04</value>
+        <ref name="category.field">
+          <a:documentation>(legacy; remove in CSL 1.1)</a:documentation>
+        </ref>
+      </choice>
+    </define>
+    <define name="terms.gender-assignable">
+      <a:documentation>Terms to which a gender may be assigned</a:documentation>
+      <choice>
+        <value>month-01</value>
+        <a:documentation>Months</a:documentation>
+        <value>month-02</value>
+        <value>month-03</value>
+        <value>month-04</value>
+        <value>month-05</value>
+        <value>month-06</value>
+        <value>month-07</value>
+        <value>month-08</value>
+        <value>month-09</value>
+        <value>month-10</value>
+        <value>month-11</value>
+        <value>month-12</value>
+        <ref name="terms.non-locator-number-variables"/>
+        <ref name="terms.locator-number-variables"/>
+      </choice>
+    </define>
+    <define name="terms.gender-variants">
+      <a:documentation>Terms for which gender variants may be specified</a:documentation>
+      <choice>
+        <ref name="terms.ordinals"/>
+        <ref name="terms.long-ordinals"/>
+      </choice>
+    </define>
+    <define name="terms.ordinals">
+      <data type="string">
+        <a:documentation>Ordinals</a:documentation>
+        <param name="pattern">ordinal(-\d{2})?</param>
+      </data>
+    </define>
+    <define name="terms.long-ordinals">
+      <choice>
+        <value>long-ordinal-01</value>
+        <a:documentation>Long ordinals</a:documentation>
+        <value>long-ordinal-02</value>
+        <value>long-ordinal-03</value>
+        <value>long-ordinal-04</value>
+        <value>long-ordinal-05</value>
+        <value>long-ordinal-06</value>
+        <value>long-ordinal-07</value>
+        <value>long-ordinal-08</value>
+        <value>long-ordinal-09</value>
+        <value>long-ordinal-10</value>
+      </choice>
+    </define>
+    <define name="terms.locator">
+      <a:documentation>Locators</a:documentation>
+      <choice>
+        <ref name="terms.locator.testable"/>
+        <value>sub verbo</value>
+        <a:documentation>"sub verbo" is recognized as "sub" &amp; "verbo" in attribute lists; term
+should be renamed to "sub-verbo"</a:documentation>
+      </choice>
+    </define>
+    <define name="terms.locator.testable">
+      <a:documentation>Locator terms that can be tested with the "locator" conditional
+("sub verbo" can be tested with "sub-verbo")</a:documentation>
+      <choice>
+        <value>book</value>
+        <value>chapter</value>
+        <value>column</value>
+        <value>figure</value>
+        <value>folio</value>
+        <value>line</value>
+        <value>note</value>
+        <value>opus</value>
+        <value>page</value>
+        <value>paragraph</value>
+        <value>part</value>
+        <value>section</value>
+        <value>verse</value>
+        <ref name="terms.locator-number-variables"/>
+      </choice>
+    </define>
+    <define name="terms.locator-number-variables">
+      <a:documentation>Locator terms with matching number variables</a:documentation>
+      <choice>
+        <value>issue</value>
+        <value>volume</value>
+      </choice>
+    </define>
+    <define name="terms.non-locator-number-variables">
+      <a:documentation>Non-locator terms accompanying number variables</a:documentation>
+      <choice>
+        <value>chapter-number</value>
+        <value>collection-number</value>
+        <value>edition</value>
+        <value>number</value>
+        <value>number-of-pages</value>
+        <value>number-of-volumes</value>
+      </choice>
+    </define>
+  </div>
+</grammar>

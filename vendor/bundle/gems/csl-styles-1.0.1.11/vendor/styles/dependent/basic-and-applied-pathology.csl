@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Basic and Applied Pathology</title>
+    <id>http://www.zotero.org/styles/basic-and-applied-pathology</id>
+    <link href="http://www.zotero.org/styles/basic-and-applied-pathology" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291755-9294/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <eissn>1755-9294</eissn>
+    <summary>Basic and Applied Pathology with The Korean Society for Cytopathology, The Korean Society for Legal Medicine, The Korean Society of Oral and Maxillofacial Pathology, The Korean Society of Pathologists, The Korean Society of Toxicological Pathology, The Korean Society of Veterinary Pathology</summary>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

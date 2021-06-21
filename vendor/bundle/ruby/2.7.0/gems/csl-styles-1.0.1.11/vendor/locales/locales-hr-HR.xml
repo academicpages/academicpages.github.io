@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="hr-HR">
+  <info>
+    <translator>
+      <name>tvrbanec</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" form="numeric-leading-zeros" suffix=". "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year" suffix="."/>
+  </date>
+  <date form="numeric">
+    <date-part name="year"/>
+    <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
+    <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
+  </date>
+  <terms>
+    <term name="accessed">pristupljeno</term>
+    <term name="and">i</term>
+    <term name="and others">i ostali</term>
+    <term name="anonymous">anonimno</term>
+    <term name="anonymous" form="short">anon.</term>
+    <term name="at">na</term>
+    <term name="available at">dostupno na</term>
+    <term name="by">od</term>
+    <term name="circa">oko</term>
+    <term name="circa" form="short">oko</term>
+    <term name="cited">citirano</term>
+    <term name="edition">
+      <single>izdanje</single>
+      <multiple>izdanja</multiple>
+    </term>
+    <term name="edition" form="short">izd.</term>
+    <term name="et-al">i ostali</term>
+    <term name="forthcoming">u pripremi</term>
+    <term name="from">od</term>
+    <term name="ibid">ibid.</term>
+    <term name="in">u</term>
+    <term name="in press">u tisku</term>
+    <term name="internet">internet</term>
+    <term name="interview">intervju</term>
+    <term name="letter">pismo</term>
+    <term name="no date">bez datuma</term>
+    <term name="no date" form="short">bez dat.</term>
+    <term name="online">na internetu</term>
+    <term name="presented at">predstavljeno na</term>
+    <term name="reference">
+      <single>reference</single>
+      <multiple>reference</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>ref.</single>
+      <multiple>ref.</multiple>
+    </term>
+    <term name="retrieved">preuzeto</term>
+    <term name="scale">skala</term>
+    <term name="version">verzija</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad"></term>
+    <term name="bc">pr. Kr.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">„</term>
+    <term name="close-quote">“</term>
+    <term name="open-inner-quote">‚</term>
+    <term name="close-inner-quote">‘</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">.</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">prvi</term>
+    <term name="long-ordinal-02">drugi</term>
+    <term name="long-ordinal-03">treći</term>
+    <term name="long-ordinal-04">četvrti</term>
+    <term name="long-ordinal-05">peti</term>
+    <term name="long-ordinal-06">šesti</term>
+    <term name="long-ordinal-07">sedmi</term>
+    <term name="long-ordinal-08">osmi</term>
+    <term name="long-ordinal-09">deveti</term>
+    <term name="long-ordinal-10">deseti</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>knjiga</single>
+      <multiple>knjige</multiple>
+    </term>
+    <term name="chapter">
+      <single>poglavlje</single>
+      <multiple>poglavlja</multiple>
+    </term>
+    <term name="column">
+      <single>stupac</single>
+      <multiple>stupci</multiple>
+    </term>
+    <term name="figure">
+      <single>crtež</single>
+      <multiple>crteži</multiple>
+    </term>
+    <term name="folio">
+      <single>folija</single>
+      <multiple>folije</multiple>
+    </term>
+    <term name="issue">
+      <single>izdanje</single>
+      <multiple>izdanja</multiple>
+    </term>
+    <term name="line">
+      <single>red</single>
+      <multiple>redovi</multiple>
+    </term>
+    <term name="note">
+      <single>bilješka</single>
+      <multiple>bilješke</multiple>
+    </term>
+    <term name="opus">
+      <single>djelo</single>
+      <multiple>djela</multiple>
+    </term>
+    <term name="page">
+      <single>stranica</single>
+      <multiple>stranice</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>stranica</single>
+      <multiple>stranice</multiple>
+    </term>
+    <term name="paragraph">
+      <single>pasus</single>
+      <multiple>pasusi</multiple>
+    </term>
+    <term name="part">
+      <single>dio</single>
+      <multiple>dijelova</multiple>
+    </term>
+    <term name="section">
+      <single>odjeljak</single>
+      <multiple>odjeljci</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>stih</single>
+      <multiple>stihovi</multiple>
+    </term>
+    <term name="volume">
+      <single>svezak</single>
+      <multiple>svesci</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">knj.</term>
+    <term name="chapter" form="short">pogl.</term>
+    <term name="column" form="short">stup.</term>
+    <term name="figure" form="short">crt.</term>
+    <term name="folio" form="short">fol.</term>
+    <term name="issue" form="short">izd.</term>
+    <term name="line" form="short">red</term>
+    <term name="note" form="short">bilj.</term>
+    <term name="opus" form="short">sv.</term>
+    <term name="page" form="short">
+      <single>str.</single>
+      <multiple>str.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>str.</single>
+      <multiple>str.</multiple>
+    </term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">dio</term>
+    <term name="section" form="short">od.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>st.</single>
+      <multiple>st.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>sv.</single>
+      <multiple>sv.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>voditelj</single>
+      <multiple>voditelji</multiple>
+    </term>
+    <term name="editor">
+      <single>urednik</single>
+      <multiple>urednici</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>urednik</single>
+      <multiple>urednici</multiple>
+    </term>
+    <term name="illustrator">
+      <single>ilustrator</single>
+      <multiple>ilustratori</multiple>
+    </term>
+    <term name="translator">
+      <single>prevoditelj</single>
+      <multiple>prevoditelji</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>urednik &amp; prevoditelj</single>
+      <multiple>urednici &amp; prevoditelji</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>vod.</single>
+      <multiple>vod.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>ur.</single>
+      <multiple>ur.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>ur.-vod.</single>
+      <multiple>ur.-vod.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>il.</single>
+      <multiple>il.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>prev.</single>
+      <multiple>prev.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>ur. &amp; prev.</single>
+      <multiple>ur. &amp; prev.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">od</term>
+    <term name="director" form="verb">vodio</term>
+    <term name="editor" form="verb">uredio</term>
+    <term name="editorial-director" form="verb">uredio</term>
+    <term name="illustrator" form="verb">ilustrirao</term>
+    <term name="interviewer" form="verb">intervjuirao</term>
+    <term name="recipient" form="verb">primatelj</term>
+    <term name="reviewed-author" form="verb">pregledao</term>
+    <term name="translator" form="verb">preveo</term>
+    <term name="editortranslator" form="verb">uredio &amp; preveo</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">vod.</term>
+    <term name="editor" form="verb-short">ur.</term>
+    <term name="editorial-director" form="verb-short">ur. vod.</term>
+    <term name="illustrator" form="verb-short">ilus.</term>
+    <term name="translator" form="verb-short">prev.</term>
+    <term name="editortranslator" form="verb-short">ur. &amp; prev.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">siječanj</term>
+    <term name="month-02">veljača</term>
+    <term name="month-03">ožujak</term>
+    <term name="month-04">travanj</term>
+    <term name="month-05">svibanj</term>
+    <term name="month-06">lipanj</term>
+    <term name="month-07">srpanj</term>
+    <term name="month-08">kolovoz</term>
+    <term name="month-09">rujan</term>
+    <term name="month-10">listopad</term>
+    <term name="month-11">studeni</term>
+    <term name="month-12">prosinac</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">sij.</term>
+    <term name="month-02" form="short">velj.</term>
+    <term name="month-03" form="short">ožu.</term>
+    <term name="month-04" form="short">tra.</term>
+    <term name="month-05" form="short">svi.</term>
+    <term name="month-06" form="short">lip.</term>
+    <term name="month-07" form="short">srp.</term>
+    <term name="month-08" form="short">kol.</term>
+    <term name="month-09" form="short">ruj.</term>
+    <term name="month-10" form="short">lis.</term>
+    <term name="month-11" form="short">stu.</term>
+    <term name="month-12" form="short">pros.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">proljeće</term>
+    <term name="season-02">ljeto</term>
+    <term name="season-03">jesen</term>
+    <term name="season-04">zima</term>
+  </terms>
+</locale>

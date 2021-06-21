@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>RTF Scan</title>
+    <id>http://www.zotero.org/styles/rtf-scan</id>
+    <link href="http://www.zotero.org/styles/rtf-scan" rel="self"/>
+    <link href="http://www.zotero.org/support/rtf_scan" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Jakob Behrends</name>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="generic-base"/>
+    <summary>Style to work with Zotero's RTF Scan feature</summary>
+    <updated>2017-07-03T03:48:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=". " sort-separator=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text value="&quot;"/>
+    <text variable="title"/>
+    <text value="&quot;"/>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="title"/>
+      <key macro="year-date"/>
+    </sort>
+    <layout prefix="{" suffix="}" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="title"/>
+        <text macro="year-date"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" et-al-min="2" et-al-use-first="1">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="year-date"/>
+      <key variable="title"/>
+    </sort>
+    <layout prefix="{" suffix="}">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="title"/>
+        <text macro="year-date"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

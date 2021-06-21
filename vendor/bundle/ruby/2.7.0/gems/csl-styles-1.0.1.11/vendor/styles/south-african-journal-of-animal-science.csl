@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>South African Journal of Animal Science</title>
+    <title-short>South African Journal of Animal Science</title-short>
+    <id>http://www.zotero.org/styles/south-african-journal-of-animal-science</id>
+    <link href="http://www.zotero.org/styles/south-african-journal-of-animal-science" rel="self"/>
+    <link href="http://www.zotero.org/styles/poultry-science" rel="template"/>
+    <link href="http://www.ajol.info/index.php/sajas/about/submissions#authorGuidelines" rel="documentation"/>
+    <contributor>
+      <name>Yusuf Ras</name>
+      <email>yr@sun.ac.za</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0375-1589</issn>
+    <eissn>2221-4062</eissn>
+    <updated>2017-03-23T03:50:16+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor-translator">
+    <names variable="editor translator" prefix="(" suffix=")" delimiter=", ">
+      <name and="symbol" initialize-with="" delimiter=", "/>
+      <label form="short" prefix=", " text-case="capitalize-first"/>
+    </names>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter=", " and="symbol" delimiter-precedes-last="always" initialize-with=". " name-as-sort-order="all"/>
+      <et-al font-style="italic"/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first" strip-periods="true"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="symbol" delimiter=", " initialize-with=""/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <text variable="title" form="short"/>
+          </if>
+          <else>
+            <text variable="title" form="short" quotes="true"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix">
+    <sort>
+      <key variable="issued"/>
+      <key variable="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author-short" suffix=","/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </group>
+      <group prefix=", ">
+        <label variable="locator" form="short"/>
+        <text variable="locator" prefix=" "/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author-short"/>
+      <key variable="issued"/>
+    </sort>
+    <layout>
+      <text macro="author" suffix="."/>
+      <date variable="issued" prefix=" " suffix=".">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group suffix=".">
+            <text macro="title" prefix=" "/>
+            <text macro="editor-translator" prefix=" "/>
+          </group>
+          <text macro="edition" prefix=" "/>
+          <text prefix=" " suffix="." macro="publisher"/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" " suffix="."/>
+          <group>
+            <label variable="page" text-case="capitalize-first"/>
+            <text variable="page" form="long" prefix=" " suffix=" "/>
+          </group>
+          <group>
+            <text term="in" form="long" plural="false" font-style="normal"/>
+            <text variable="container-title" prefix=" " suffix="."/>
+            <names variable="editor translator" prefix=" ">
+              <name name-as-sort-order="all" sort-separator=", " initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+              <label form="short" strip-periods="false" prefix=", " suffix="."/>
+            </names>
+            <text macro="edition" prefix=" "/>
+            <text variable="collection-title" prefix=" " suffix="."/>
+            <text macro="publisher" prefix=" " suffix="."/>
+          </group>
+        </else-if>
+        <else>
+          <group suffix=".">
+            <text macro="title" prefix=" "/>
+            <text macro="editor-translator" prefix=" "/>
+          </group>
+          <group prefix=" " suffix=".">
+            <text variable="container-title" form="short"/>
+            <text variable="volume" prefix=" "/>
+            <text variable="page" form="long" prefix=", "/>
+            <text variable="DOI" prefix=" https://doi.org/"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

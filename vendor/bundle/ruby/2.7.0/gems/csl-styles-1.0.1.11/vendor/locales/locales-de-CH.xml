@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="de-CH">
+  <info>
+    <translator>
+      <name>Till A. Heilmann</name>
+    </translator>
+    <translator>
+      <name>Sylvester Keil</name>
+    </translator>
+    <translator>
+      <name>jakov</name>
+    </translator>
+    <translator>
+      <name>Sebastian Karcher</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" form="ordinal" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="."/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">zugegriffen</term>
+    <term name="and">und</term>
+    <term name="and others">und andere</term>
+    <term name="anonymous">ohne Autor</term>
+    <term name="anonymous" form="short">o.&#160;A.</term>
+    <term name="at">auf</term>
+    <term name="available at">verfügbar unter</term>
+    <term name="by">von</term>
+    <term name="circa">circa</term>
+    <term name="circa" form="short">ca.</term>
+    <term name="cited">zitiert</term>
+    <term name="edition">
+      <single>Auflage</single>
+      <multiple>Auflagen</multiple>
+    </term>
+    <term name="edition" form="short">Aufl.</term>
+    <term name="et-al">u.&#160;a.</term>
+    <term name="forthcoming">i.&#160;E.</term>
+    <term name="from">von</term>
+    <term name="ibid">ebd.</term>
+    <term name="in">in</term>
+    <term name="in press">im Druck</term>
+    <term name="internet">Internet</term>
+    <term name="interview">Interview</term>
+    <term name="letter">Brief</term>
+    <term name="no date">ohne Datum</term>
+    <term name="no date" form="short">o.&#160;J.</term>
+    <term name="online">online</term>
+    <term name="presented at">gehalten auf der</term>
+    <term name="reference">
+      <single>Referenz</single>
+      <multiple>Referenzen</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>Ref.</single>
+      <multiple>Ref.</multiple>
+    </term>
+    <term name="retrieved">abgerufen</term>
+    <term name="scale">Massstab</term>
+    <term name="version">Version</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">&#160;n.&#160;Chr.</term>
+    <term name="bc">&#160;v.&#160;Chr.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">«</term>
+    <term name="close-quote">»</term>
+    <term name="open-inner-quote">‹</term>
+    <term name="close-inner-quote">›</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">.</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">erster</term>
+    <term name="long-ordinal-02">zweiter</term>
+    <term name="long-ordinal-03">dritter</term>
+    <term name="long-ordinal-04">vierter</term>
+    <term name="long-ordinal-05">fünfter</term>
+    <term name="long-ordinal-06">sechster</term>
+    <term name="long-ordinal-07">siebter</term>
+    <term name="long-ordinal-08">achter</term>
+    <term name="long-ordinal-09">neunter</term>
+    <term name="long-ordinal-10">zehnter</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>Buch</single>
+      <multiple>Bücher</multiple>
+    </term>
+    <term name="chapter">
+      <single>Kapitel</single>
+      <multiple>Kapitel</multiple>
+    </term>
+    <term name="column">
+      <single>Spalte</single>
+      <multiple>Spalten</multiple>
+    </term>
+    <term name="figure">
+      <single>Abbildung</single>
+      <multiple>Abbildungen</multiple>
+    </term>
+    <term name="folio">
+      <single>Blatt</single>
+      <multiple>Blätter</multiple>
+    </term>
+    <term name="issue">
+      <single>Nummer</single>
+      <multiple>Nummern</multiple>
+    </term>
+    <term name="line">
+      <single>Zeile</single>
+      <multiple>Zeilen</multiple>
+    </term>
+    <term name="note">
+      <single>Note</single>
+      <multiple>Noten</multiple>
+    </term>
+    <term name="opus">
+      <single>Opus</single>
+      <multiple>Opera</multiple>
+    </term>
+    <term name="page">
+      <single>Seite</single>
+      <multiple>Seiten</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>Seite</single>
+      <multiple>Seiten</multiple>
+    </term>
+    <term name="paragraph">
+      <single>Absatz</single>
+      <multiple>Absätze</multiple>
+    </term>
+    <term name="part">
+      <single>Teil</single>
+      <multiple>Teile</multiple>
+    </term>
+    <term name="section">
+      <single>Abschnitt</single>
+      <multiple>Abschnitte</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>Vers</single>
+      <multiple>Verse</multiple>
+    </term>
+    <term name="volume">
+      <single>Band</single>
+      <multiple>Bände</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">B.</term>
+    <term name="chapter" form="short">Kap.</term>
+    <term name="column" form="short">Sp.</term>
+    <term name="figure" form="short">Abb.</term>
+    <term name="folio" form="short">Fol.</term>
+    <term name="issue" form="short">Nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>S.</single>
+      <multiple>S.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>S.</single>
+      <multiple>S.</multiple>
+    </term>
+    <term name="paragraph" form="short">Abs.</term>
+    <term name="part" form="short">Teil</term>
+    <term name="section" form="short">Abschn.</term>
+    <term name="sub verbo" form="short">
+      <single>s.&#160;v.</single>
+      <multiple>s.&#160;vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>V.</single>
+      <multiple>V.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>Bd.</single>
+      <multiple>Bd.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>Regisseur</single>
+      <multiple>Regisseure</multiple>
+    </term>
+    <term name="editor">
+      <single>Herausgeber</single>
+      <multiple>Herausgeber</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>Herausgeber</single>
+      <multiple>Herausgeber</multiple>
+    </term>
+    <term name="illustrator">
+      <single>Illustrator</single>
+      <multiple>Illustratoren</multiple>
+    </term>
+    <term name="translator">
+      <single>Übersetzer</single>
+      <multiple>Übersetzer</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>Herausgeber&#160;&amp; Übersetzer</single>
+      <multiple>Herausgeber&#160;&amp; Übersetzer</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>Reg.</single>
+      <multiple>Reg.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>Hrsg.</single>
+      <multiple>Hrsg.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>Hrsg.</single>
+      <multiple>Hrsg.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>Ill.</single>
+      <multiple>Ill.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>Übers.</single>
+      <multiple>Übers.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>Hrsg.&#160;&amp; Übers.</single>
+      <multiple>Hrsg.&#160;&amp; Übers</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">von</term>
+    <term name="director" form="verb">Regie von</term>
+    <term name="editor" form="verb">herausgegeben von</term>
+    <term name="editorial-director" form="verb">herausgegeben von</term>
+    <term name="illustrator" form="verb">illustriert von</term>
+    <term name="interviewer" form="verb">interviewt von</term>
+    <term name="recipient" form="verb">an</term>
+    <term name="reviewed-author" form="verb">von</term>
+    <term name="translator" form="verb">übersetzt von</term>
+    <term name="editortranslator" form="verb">herausgegeben und übersetzt von</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">Reg.</term>
+    <term name="editor" form="verb-short">hg. von</term>
+    <term name="editorial-director" form="verb-short">hg. von</term>
+    <term name="illustrator" form="verb-short">illus. von</term>
+    <term name="translator" form="verb-short">übers. von</term>
+    <term name="editortranslator" form="verb-short">hg.&#160;&amp; übers. von</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">Januar</term>
+    <term name="month-02">Februar</term>
+    <term name="month-03">März</term>
+    <term name="month-04">April</term>
+    <term name="month-05">Mai</term>
+    <term name="month-06">Juni</term>
+    <term name="month-07">Juli</term>
+    <term name="month-08">August</term>
+    <term name="month-09">September</term>
+    <term name="month-10">Oktober</term>
+    <term name="month-11">November</term>
+    <term name="month-12">Dezember</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">Jan.</term>
+    <term name="month-02" form="short">Feb.</term>
+    <term name="month-03" form="short">März</term>
+    <term name="month-04" form="short">Apr.</term>
+    <term name="month-05" form="short">Mai</term>
+    <term name="month-06" form="short">Juni</term>
+    <term name="month-07" form="short">Juli</term>
+    <term name="month-08" form="short">Aug.</term>
+    <term name="month-09" form="short">Sep.</term>
+    <term name="month-10" form="short">Okt.</term>
+    <term name="month-11" form="short">Nov.</term>
+    <term name="month-12" form="short">Dez.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">Frühjahr</term>
+    <term name="season-02">Sommer</term>
+    <term name="season-03">Herbst</term>
+    <term name="season-04">Winter</term>
+  </terms>
+</locale>

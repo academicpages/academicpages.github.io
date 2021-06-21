@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" default-locale="en-US" version="1.0" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>National Marine Fisheries Service - National Environmental Policy Act</title>
+    <title-short>NMFS-WCR-NEPA</title-short>
+    <id>http://www.zotero.org/styles/national-marine-fisheries-service-national-environmental-policy-act</id>
+    <link href="http://www.zotero.org/styles/national-marine-fisheries-service-national-environmental-policy-act" rel="self"/>
+    <link href="http://www.zotero.org/styles/ecology" rel="template"/>
+    <link href="https://github.com/citation-style-language/styles/pull/4426#issue-347066423" rel="documentation"/>
+    <link href="https://forums.zotero.org/discussion/80097/style-request-nmfs-west-coast-region-nepa-national-environmental-policy-act-documents" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <summary>Based on the April 2016 Style Guide and Conventions document of the National Marine Fisheries Service (NMFS) West Coast Region (WCR) for the preparation of National Environmental Policy Act (NEPA) documents</summary>
+    <updated>2019-12-07T06:04:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="container-contributors">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <names variable="editor translator" delimiter=", ">
+          <name and="symbol" delimiter-precedes-last="always" initialize-with=". "/>
+          <label prefix=" "/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="secondary-contributors">
+    <choose>
+      <if type="chapter paper-conference" match="none">
+        <names variable="editor translator" delimiter=", " prefix=" (" suffix=")">
+          <name and="text" initialize-with=". " delimiter=", "/>
+          <label form="short" prefix=", " text-case="capitalize-first"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="first" and="text" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+      <label prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <text variable="title" form="short" font-style="italic"/>
+          </if>
+          <else>
+            <text variable="title" form="short" quotes="true"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="webpage">
+        <text variable="URL"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <choose>
+        <if type="article-journal article-magazine" match="none">
+          <text variable="genre"/>
+          <text variable="publisher"/>
+          <text variable="publisher-place"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="issued">
+    <choose>
+      <if variable="issued">
+        <group prefix=" " suffix=".">
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+          <choose>
+            <if type="article-journal bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="none">
+              <date variable="issued">
+                <date-part prefix=", " name="month"/>
+                <date-part prefix=" " name="day"/>
+              </date>
+            </if>
+          </choose>
+        </group>
+      </if>
+      <else>
+        <text prefix=" (" term="no date" suffix=")." form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if type="bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="any">
+        <choose>
+          <if is-numeric="edition">
+            <number variable="edition" form="long-ordinal" text-case="capitalize-first"/>
+            <text term="edition" form="long" prefix=" " suffix="."/>
+          </if>
+          <else>
+            <text variable="edition" suffix="."/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <group delimiter=". ">
+          <text variable="container-title" prefix=". "/>
+          <group delimiter=", ">
+            <group>
+              <group delimiter=" ">
+                <label text-case="capitalize-first" variable="volume"/>
+                <text variable="volume" prefix=" "/>
+              </group>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <group delimiter=" ">
+              <label variable="page"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </group>
+      </if>
+      <else-if type="chapter paper-conference" match="any">
+        <group delimiter=" " prefix=" ">
+          <group delimiter=" ">
+            <label variable="page" form="long" text-case="capitalize-first"/>
+            <text variable="page"/>
+          </group>
+          <text term="in" font-style="italic"/>
+          <text variable="container-title" suffix=","/>
+          <text macro="container-contributors" suffix="."/>
+          <text macro="issued"/>
+        </group>
+      </else-if>
+      <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text macro="secondary-contributors"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="citation-locator">
+    <group>
+      <label variable="locator" form="short"/>
+      <text variable="locator" prefix=" "/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key variable="issued"/>
+      <key macro="author"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <text macro="issued-year"/>
+        <text macro="citation-locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" entry-spacing="0" line-spacing="2">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="author" suffix="."/>
+      <text macro="issued" suffix=" "/>
+      <text variable="title"/>
+      <text macro="locators"/>
+      <group delimiter=". " prefix=". ">
+        <text macro="edition"/>
+        <text macro="publisher"/>
+        <text macro="access"/>
+        <choose>
+          <if type="book report" match="any">
+            <group delimiter=" ">
+              <text variable="number-of-pages"/>
+              <label variable="number-of-pages"/>
+            </group>
+          </if>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

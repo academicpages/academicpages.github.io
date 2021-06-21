@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" and="symbol" default-locale="da-DK">
+  <info>
+    <title>UCL University College - Harvard (Danish)</title>
+    <id>http://www.zotero.org/styles/ucl-university-college-harvard</id>
+    <link href="http://www.zotero.org/styles/ucl-university-college-harvard" rel="self"/>
+    <link href="https://sites.google.com/ucl.dk/ucl-formelle-krav/harvard" rel="documentation"/>
+    <author>
+      <name>Roald Erik Frøsig</name>
+      <email>roaldfrosig@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Camilla K. Andresen</name>
+      <email>ckan1@ucl.dk</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <updated>2020-08-24T04:17:16+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="da">
+    <terms>
+      <term name="available at">tilgængelig fra</term>
+      <term name="in">I:</term>
+      <term name="volume" form="short">årg.</term>
+      <term name="accessed">lokaliseret</term>
+      <term name="no date" form="short">u. å.</term>
+      <term name="et-al">et al.</term>
+    </terms>
+  </locale>
+  <!--                                                                                                               MACRO   ALPHABETIZE
+Sorts items by author(s), publication year and title.
+-->
+  <macro name="alphabetize">
+    <text macro="author-referencelist"/>
+    <text macro="year-or-no-year"/>
+    <text variable="title"/>
+  </macro>
+  <!--                                                                                                               MACRO   AUTHOR-CITATION
+Author names as they appear in citations.
+Outputs title for primary legislation. Never adds label to author name. Otherwise identical to 'Author-referencelist'.
+-->
+  <macro name="author-citation">
+    <choose>
+      <if type="legislation">
+        <names variable="author">
+          <name name-as-sort-order="all" initialize-with="."/>
+          <substitute>
+            <text variable="title"/>
+          </substitute>
+        </names>
+      </if>
+      <else-if type="entry-dictionary entry-encyclopedia article-newspaper chapter broadcast motion_picture" match="any">
+        <text macro="author-special"/>
+      </else-if>
+      <else>
+        <names variable="author">
+          <name name-as-sort-order="all" initialize-with="."/>
+          <substitute>
+            <names variable="editor"/>
+            <names variable="composer"/>
+            <text term="anonymous"/>
+          </substitute>
+        </names>
+      </else>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   AUTHOR-REFERENCELIST
+Outputs author names as they appear in the reference list.
+Primary legislation has no output. Adds label ("red.") to author if appropriate. Otherwise identical to 'Author-citation'.
+-->
+  <macro name="author-referencelist">
+    <choose>
+      <if type="legislation">
+        <names variable="author">
+          <name name-as-sort-order="all" initialize-with="."/>
+        </names>
+      </if>
+      <else-if type="entry-dictionary entry-encyclopedia article-newspaper chapter broadcast motion_picture" match="any">
+        <text macro="author-special"/>
+      </else-if>
+      <else>
+        <names variable="author">
+          <name name-as-sort-order="all" initialize-with="."/>
+          <label form="short" prefix=" " suffix="."/>
+          <substitute>
+            <names variable="editor"/>
+            <names variable="composer"/>
+            <text term="anonymous"/>
+          </substitute>
+        </names>
+      </else>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   AUTHOR-SPECIAL
+Outputs author names for chapters, newspaper articles, encyclopedia articles, and dictionary entries. Outputs title for broadcasts and films.
+Used both for citations and reference list.
+-->
+  <macro name="author-special">
+    <choose>
+      <if type="chapter">
+        <names variable="author">
+          <name name-as-sort-order="all" initialize-with="."/>
+          <substitute>
+            <text term="anonymous" text-case="capitalize-first"/>
+          </substitute>
+        </names>
+      </if>
+      <else-if type="article-newspaper">
+        <names variable="author">
+          <name name-as-sort-order="all" initialize-with="."/>
+          <substitute>
+            <text variable="container-title"/>
+          </substitute>
+        </names>
+      </else-if>
+      <else-if type="entry-dictionary entry-encyclopedia" match="any">
+        <text variable="publisher"/>
+      </else-if>
+      <else-if type="broadcast motion_picture" match="any">
+        <text variable="title" font-style="italic"/>
+      </else-if>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   YEAR-OR-NO-YEAR
+Ensures that primary legislation does not show a publication year.
+Calls the 'year'-macro.
+-->
+  <macro name="year-or-no-year">
+    <choose>
+      <if type="legislation">
+        <choose>
+          <if variable="author">
+            <text macro="year"/>
+          </if>
+        </choose>
+      </if>
+      <else>
+        <text macro="year"/>
+      </else>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   YEAR
+Outputs the publication year. If no publication date is present, it outputs the 'no date'-term instead.
+-->
+  <macro name="year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   TITLE-AND-CONTAINER
+Separates a lournal article from its container with a comma. All other item types are separated from their containers with a full stop.
+-->
+  <macro name="title-and-container">
+    <choose>
+      <if type="article-journal">
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <text macro="title"/>
+            <text variable="version" prefix="(" suffix=")"/>
+            <text macro="medium"/>
+          </group>
+          <text macro="container"/>
+        </group>
+      </if>
+      <else>
+        <group delimiter=". ">
+          <group delimiter=" ">
+            <text macro="title"/>
+            <text variable="version" prefix="(" suffix=")"/>
+            <text macro="medium"/>
+          </group>
+          <text macro="container"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   TITLE
+Adds the appropriate title of the item, either in italic or normal script. Outputs nothing for broadcasts and movies, as their titles are rendered by the 'Author-special'-macro.
+-->
+  <macro name="title">
+    <choose>
+      <if type="entry-dictionary entry-encyclopedia" match="any">
+        <group delimiter=". ">
+          <text variable="container-title" font-style="italic"/>
+          <text macro="edition"/>
+        </group>
+      </if>
+      <else-if type="chapter article-journal article-magazine article-newspaper post-weblog" match="any">
+        <text variable="title"/>
+      </else-if>
+      <else-if type="broadcast motion_picture" match="any"/>
+      <else>
+        <group delimiter=". ">
+          <text variable="title" font-style="italic"/>
+          <text macro="edition"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   MEDIUM
+Outputs genre and/or medium in square brackets e.g.: [Ph.D.], [DVD] etc.
+Also calls the 'Online'-macro.
+-->
+  <macro name="medium">
+    <choose>
+      <if type="report">
+        <text macro="online" prefix=" [" suffix="]"/>
+      </if>
+      <else-if variable="genre medium" match="any">
+        <group delimiter=", ">
+          <text variable="genre" text-case="capitalize-first" prefix="[" suffix="]"/>
+          <text variable="medium" text-case="capitalize-first" prefix="[" suffix="]"/>
+          <text macro="online" prefix="[" suffix="]"/>
+        </group>
+      </else-if>
+      <else>
+        <text macro="online" prefix=" [" suffix="]"/>
+      </else>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   ONLINE
+Adds the 'online' term in square brackets if appropriate.
+Also assumes that books with an url provided is an e-book, and outputs "[e-bog]".
+-->
+  <macro name="online">
+    <choose>
+      <if variable="URL">
+        <choose>
+          <if type="legislation bill" match="any"/>
+          <else-if variable="version">
+            <text term="online" text-case="capitalize-first"/>
+          </else-if>
+          <else-if type="book">
+            <text value="e-bog" text-case="capitalize-first"/>
+          </else-if>
+          <else>
+            <text term="online" text-case="capitalize-first"/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   CONTAINER
+Adds the container title, with editor and edition if appropiate.
+-->
+  <macro name="container">
+    <choose>
+      <if type="chapter">
+        <group delimiter=". ">
+          <group delimiter=" ">
+            <text term="in"/>
+            <names variable="editor">
+              <name initialize-with="."/>
+              <label form="short" prefix=" "/>
+            </names>
+          </group>
+          <text variable="container-title" font-style="italic"/>
+          <text macro="edition"/>
+        </group>
+      </if>
+      <else-if type="article-journal article-magazine article-newspaper post-weblog" match="any">
+        <text variable="container-title" font-style="italic"/>
+      </else-if>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   EDITION
+Adds edition. Calls the 'Law-number'-macro for legislation.
+-->
+  <macro name="edition">
+    <group delimiter=" ">
+      <choose>
+        <if type="legislation">
+          <text macro="law-number"/>
+        </if>
+        <else-if is-numeric="edition">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition"/>
+        </else-if>
+        <else>
+          <text variable="edition"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <!--                                                                                                               MACRO   LAW-NUMBER
+Outputs the law number and date. This macro is only called if type=legislation.
+-->
+  <macro name="law-number">
+    <choose>
+      <if variable="number">
+        <text variable="number"/>
+      </if>
+      <else>
+        <text variable="volume"/>
+      </else>
+    </choose>
+    <date variable="issued" prefix=" af " delimiter="/">
+      <date-part name="day" form="numeric-leading-zeros"/>
+      <date-part name="month" form="numeric-leading-zeros"/>
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <!--                                                                                                               MACRO   PUBLISHER
+Adds publisher and publisher-place.
+-->
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <!--                                                                                                               MACRO   DATE
+Outputs the publication date for newspaper articles, broadcasts and blogs.
+-->
+  <macro name="date">
+    <choose>
+      <if type="article-newspaper post-weblog broadcast" match="any">
+        <date variable="issued" delimiter=". ">
+          <date-part name="day"/>
+          <date-part name="month" text-case="lowercase"/>
+        </date>
+      </if>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   LOCATOR
+Outputs page numbers etc. for chapters and articles.
+-->
+  <macro name="locator">
+    <choose>
+      <if type="chapter article-journal article-newspaper article-magazine" match="any">
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <label variable="volume" form="short"/>
+            <text variable="volume"/>
+          </group>
+          <group delimiter=" ">
+            <label variable="issue" form="short"/>
+            <text variable="issue"/>
+          </group>
+          <group delimiter=" ">
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </group>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   ACCESS
+Outputs URL and accessed date if appropiate.
+-->
+  <macro name="access">
+    <choose>
+      <if type="legislation bill" match="any"/>
+      <else-if variable="URL">
+        <text term="available at" text-case="capitalize-first" suffix=": "/>
+        <text variable="URL" text-decoration="underline"/>
+        <group prefix=" [" suffix="]" delimiter=" ">
+          <text term="accessed" text-case="capitalize-first"/>
+          <date variable="accessed" form="numeric"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <!--                                                                                                               MACRO   PAGE
+Adds page number or other locator to citations.
+-->
+  <macro name="page">
+    <choose>
+      <if is-numeric="locator">
+        <label variable="locator" form="short"/>
+        <text variable="locator" prefix=" "/>
+      </if>
+      <else>
+        <text variable="locator"/>
+      </else>
+    </choose>
+  </macro>
+  <!--                                                                                                               CITATION
+-->
+  <citation et-al-min="4" et-al-use-first="1" delimiter-precedes-last="never" givenname-disambiguation-rule="all-names-with-initials" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year-suffix" cite-group-delimiter=", " name-form="short">
+    <sort>
+      <key macro="alphabetize"/>
+    </sort>
+    <layout delimiter=", " prefix="(" suffix=")">
+      <choose>
+        <if position="ibid-with-locator">
+          <text term="ibid" suffix=", "/>
+          <text macro="page"/>
+        </if>
+        <else-if position="ibid">
+          <text term="ibid"/>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <text macro="author-citation"/>
+            <text macro="year-or-no-year"/>
+          </group>
+          <text macro="page" prefix=", "/>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <!--                                                                                                               BIBLIOGRAPHY
+-->
+  <bibliography et-al-min="4" et-al-use-first="1" delimiter-precedes-last="never">
+    <sort>
+      <key macro="alphabetize"/>
+    </sort>
+    <layout suffix=".">
+      <group display="block" delimiter=", " suffix=".">
+        <text macro="author-referencelist"/>
+        <group delimiter=". ">
+          <text macro="year-or-no-year"/>
+          <text macro="title-and-container"/>
+          <text macro="publisher"/>
+        </group>
+        <group delimiter=", ">
+          <text macro="date"/>
+          <text macro="locator"/>
+        </group>
+      </group>
+      <text macro="access"/>
+    </layout>
+  </bibliography>
+</style>

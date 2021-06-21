@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="de-DE">
+  <info>
+    <title>Technische Universität Dresden - Linguistik (German)</title>
+    <title-short>TUD Linguistik (German)</title-short>
+    <id>http://www.zotero.org/styles/technische-universitat-dresden-linguistik</id>
+    <link href="http://www.zotero.org/styles/technische-universitat-dresden-linguistik" rel="self"/>
+    <link href="http://www.zotero.org/styles/deutsche-sprache" rel="template"/>
+    <link xml:lang="de" href="https://tu-dresden.de/gsw/slk/germanistik/al/ressourcen/dateien/studium/200424_Stylesheet_ALI.pdf" rel="documentation"/>
+    <author>
+      <name>Simon Meier-Vieracker</name>
+      <uri>https://tu-dresden.de/gsw/slk/germanistik/al</uri>
+      <email>simon.meier-vieracker@tu-dresden.de</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="linguistics"/>
+    <category field="literature"/>
+    <summary>Zitierstil entsprechend den Vorgaben der linguistischen Professuren am Institut für Germanistik der Technischen Universität Dresden. Der Stil orientiert sich an den Richtlinien von 'Deutsche Sprache: Zeitschrift für Theorie Praxis Dokumentation', hg. vom IDS Mannheim</summary>
+    <updated>2020-05-01T04:08:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="et-al">et al.</term>
+      <term name="editor" form="short">Hg.</term>
+      <term name="online">Online unter</term>
+    </terms>
+  </locale>
+  <macro name="creator-year-long">
+    <group delimiter=" ">
+      <names variable="author">
+        <name delimiter="/" name-as-sort-order="all"/>
+        <label form="short" prefix=" (" suffix=")"/>
+        <substitute>
+          <names variable="editor"/>
+        </substitute>
+      </names>
+      <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+    </group>
+  </macro>
+  <macro name="editor-container-title">
+    <group delimiter=": ">
+      <text term="in" text-case="capitalize-first"/>
+      <group delimiter=": " suffix=".">
+        <names variable="editor">
+          <name delimiter="/" name-as-sort-order="all"/>
+          <label form="short" prefix=" (" suffix=")"/>
+        </names>
+        <text variable="container-title"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="publication-place-publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="creator-year-short">
+    <group delimiter=" ">
+      <text macro="creator-short"/>
+      <date date-parts="year" form="text" variable="issued"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if match="any" is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="collection-title-number">
+    <group delimiter=" " prefix="(= " suffix=")">
+      <text variable="collection-title"/>
+      <text variable="collection-number"/>
+    </group>
+  </macro>
+  <macro name="page-range">
+    <group delimiter=" ">
+      <text term="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="online-url">
+    <group delimiter=": ">
+      <text term="online" text-case="capitalize-first"/>
+      <text variable="URL"/>
+    </group>
+  </macro>
+  <macro name="container-title-volume">
+    <group delimiter=" ">
+      <text variable="container-title"/>
+      <text variable="volume"/>
+      <text variable="issue" prefix="(" suffix=")"/>
+    </group>
+  </macro>
+  <macro name="creator-short">
+    <names variable="author">
+      <name form="short" delimiter="/"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix">
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=", ">
+        <text macro="creator-year-short"/>
+        <group delimiter=" ">
+          <text term="page" form="symbol"/>
+          <text variable="locator"/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="9" et-al-use-first="1" entry-spacing="0" hanging-indent="true">
+    <sort>
+      <key macro="creator-short"/>
+      <key macro="creator-year-short"/>
+    </sort>
+    <layout>
+      <group delimiter=". " suffix=".">
+        <group delimiter=": ">
+          <text macro="creator-year-long"/>
+          <text variable="title"/>
+        </group>
+        <choose>
+          <if type="book" match="any">
+            <group delimiter=". ">
+              <text macro="edition"/>
+              <text macro="publication-place-publisher"/>
+              <text macro="collection-title-number"/>
+            </group>
+          </if>
+          <else-if type="article-journal article-magazine article-newspaper" match="any">
+            <group delimiter=", ">
+              <group delimiter=": ">
+                <text term="in" text-case="capitalize-first"/>
+                <text macro="container-title-volume"/>
+              </group>
+              <text macro="page-range"/>
+            </group>
+          </else-if>
+          <else-if type="chapter" match="any">
+            <group delimiter=". ">
+              <text macro="editor-container-title"/>
+              <text macro="edition"/>
+              <text macro="publication-place-publisher"/>
+              <text macro="page-range"/>
+              <text macro="collection-title-number"/>
+            </group>
+          </else-if>
+          <else>
+            <group delimiter=". ">
+              <choose>
+                <if match="any" variable="container-title">
+                  <text macro="editor-container-title"/>
+                </if>
+              </choose>
+              <text macro="publication-place-publisher"/>
+              <text macro="page-range"/>
+              <text macro="collection-title-number"/>
+              <text macro="online-url"/>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

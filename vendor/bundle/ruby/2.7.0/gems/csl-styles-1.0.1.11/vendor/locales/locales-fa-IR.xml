@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="fa-IR">
+  <info>
+    <translator>
+      <name>Hamed Heydari</name>
+    </translator>
+    <translator>
+      <name>abdealikhurrum</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="true"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">دسترسی</term>
+    <term name="and">و</term>
+    <term name="and others">و دیگران</term>
+    <term name="anonymous">ناشناس</term>
+    <term name="anonymous" form="short">ناشناس</term>
+    <term name="at">در</term>
+    <term name="available at">قابل دسترس در</term>
+    <term name="by">توسط</term>
+    <term name="circa">تقریباً</term>
+    <term name="circa" form="short">c.</term>
+    <term name="cited">ارجاع شده</term>
+    <term name="edition">
+      <single>ویرایش</single>
+      <multiple>ویرایش‌های</multiple>
+    </term>
+    <term name="edition" form="short">ویرایش</term>
+    <term name="et-al">و همکاران</term>
+    <term name="forthcoming">در دست انتشار</term>
+    <term name="from">از</term>
+    <term name="ibid">همان</term>
+    <term name="in">در</term>
+    <term name="in press">زیر چاپ</term>
+    <term name="internet">اینترنت</term>
+    <term name="interview">مصاحبه</term>
+    <term name="letter">نامه</term>
+    <term name="no date">بدون تاریخ</term>
+    <term name="no date" form="short">بدون تاریخ</term>
+    <term name="online">آنلاین</term>
+    <term name="presented at">ارائه شده در</term>
+    <term name="reference">
+      <single>مرجع</single>
+      <multiple>مراجع</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>مرجع</single>
+      <multiple>مراجع</multiple>
+    </term>
+    <term name="retrieved">retrieved</term>
+    <term name="scale">scale</term>
+    <term name="version">نسخه</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">بعد از میلاد</term>
+    <term name="bc">قبل از میلاد</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">“</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal"></term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">اول</term>
+    <term name="long-ordinal-02">دوم</term>
+    <term name="long-ordinal-03">سوم</term>
+    <term name="long-ordinal-04">چهارم</term>
+    <term name="long-ordinal-05">پنجم</term>
+    <term name="long-ordinal-06">ششم</term>
+    <term name="long-ordinal-07">هفتم</term>
+    <term name="long-ordinal-08">هشتم</term>
+    <term name="long-ordinal-09">نهم</term>
+    <term name="long-ordinal-10">دهم</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>کتاب</single>
+      <multiple>کتاب‌های</multiple>
+    </term>
+    <term name="chapter">
+      <single>فصل</single>
+      <multiple>فصل‌های</multiple>
+    </term>
+    <term name="column">
+      <single>ستون</single>
+      <multiple>ستون‌های</multiple>
+    </term>
+    <term name="figure">
+      <single>تصویر</single>
+      <multiple>تصاویر</multiple>
+    </term>
+    <term name="folio">
+      <single>برگ</single>
+      <multiple>برگ‌های</multiple>
+    </term>
+    <term name="issue">
+      <single>شماره</single>
+      <multiple>شماره‌های</multiple>
+    </term>
+    <term name="line">
+      <single>خط</single>
+      <multiple>خطوط</multiple>
+    </term>
+    <term name="note">
+      <single>یادداشت</single>
+      <multiple>یادداشت‌های</multiple>
+    </term>
+    <term name="opus">
+      <single>قطعه</single>
+      <multiple>قطعات</multiple>
+    </term>
+    <term name="page">
+      <single>صفحه</single>
+      <multiple>صفحات</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>صفحه</single>
+      <multiple>صفحات</multiple>
+    </term>
+    <term name="paragraph">
+      <single>پاراگراف</single>
+      <multiple>پاراگراف‌های</multiple>
+    </term>
+    <term name="part">
+      <single>بخش</single>
+      <multiple>بخش‌های</multiple>
+    </term>
+    <term name="section">
+      <single>قسمت</single>
+      <multiple>قسمت‌های</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>در ذیلِ واژه</single>
+      <multiple>در ذیلِ واژه‌های</multiple>
+    </term>
+    <term name="verse">
+      <single>بیت</single>
+      <multiple>بیت‌های</multiple>
+    </term>
+    <term name="volume">
+      <single>جلد</single>
+      <multiple>جلدهای</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">کتاب</term>
+    <term name="chapter" form="short">فصل</term>
+    <term name="column" form="short">ستون</term>
+    <term name="figure" form="short">تصویر</term>
+    <term name="folio" form="short">برگ</term>
+    <term name="issue" form="short">ش</term>
+    <term name="line" form="short">خط</term>
+    <term name="note" form="short">یادداشت</term>
+    <term name="opus" form="short">قطعه</term>
+    <term name="page" form="short">
+      <single>ص</single>
+      <multiple>صص</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>ص</single>
+      <multiple>صص</multiple>
+    </term>
+    <term name="paragraph" form="short">پاراگراف</term>
+    <term name="part" form="short">بخش</term>
+    <term name="section" form="short">قسمت</term>
+    <term name="sub verbo" form="short">
+      <single>s.v</single>
+      <multiple>s.vv</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>بیت</single>
+      <multiple>ابیات</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>ج</single>
+      <multiple>جج</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
+    <term name="editor">
+      <single>ویراستار</single>
+      <multiple>ویراستاران</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>ویراستار</single>
+      <multiple>ویراستاران</multiple>
+    </term>
+    <term name="illustrator">
+      <single>طراح گرافیک</single>
+      <multiple>طراحان گرافیک</multiple>
+    </term>
+    <term name="translator">
+      <single>مترجم</single>
+      <multiple>مترجمین</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>ویراستار و مترجم</single>
+      <multiple>ویراستاران و مترجمین</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>ویراستار</single>
+      <multiple>ویراستاران</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>ویراستار</single>
+      <multiple>ویراستاران</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>تصویرگر</single>
+      <multiple>تصویرگران</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>مترجم</single>
+      <multiple>مترجمین</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>ویراستار و مترجم</single>
+      <multiple>ویراستاران و مترجمین</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">توسط</term>
+    <term name="director" form="verb">زیر نظر</term>
+    <term name="editor" form="verb">ویراسته‌ی</term>
+    <term name="editorial-director" form="verb">ویراسته‌ی</term>
+    <term name="illustrator" form="verb">طراحی گرافیکی از</term>
+    <term name="interviewer" form="verb">مصاحبه توسط</term>
+    <term name="recipient" form="verb">به</term>
+    <term name="reviewed-author" form="verb">بازبینی توسط</term>
+    <term name="translator" form="verb">ترجمه‌ی</term>
+    <term name="editortranslator" form="verb">ترجمه و ویراسته‌ی</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">ویراسته‌ی</term>
+    <term name="editorial-director" form="verb-short">ویراسته‌ی</term>
+    <term name="illustrator" form="verb-short">طراحی از</term>
+    <term name="translator" form="verb-short">ترجمه‌ی</term>
+    <term name="editortranslator" form="verb-short">ترجمه و ویراسته‌ی</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">ژانویه</term>
+    <term name="month-02">فوریه</term>
+    <term name="month-03">مارس</term>
+    <term name="month-04">آوریل</term>
+    <term name="month-05">می</term>
+    <term name="month-06">ژوئن</term>
+    <term name="month-07">جولای</term>
+    <term name="month-08">آگوست</term>
+    <term name="month-09">سپتامبر</term>
+    <term name="month-10">اکتبر</term>
+    <term name="month-11">نوامبر</term>
+    <term name="month-12">دسامبر</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">ژانویه</term>
+    <term name="month-02" form="short">فوریه</term>
+    <term name="month-03" form="short">مارس</term>
+    <term name="month-04" form="short">آوریل</term>
+    <term name="month-05" form="short">می</term>
+    <term name="month-06" form="short">ژوئن</term>
+    <term name="month-07" form="short">جولای</term>
+    <term name="month-08" form="short">آگوست</term>
+    <term name="month-09" form="short">سپتامبر</term>
+    <term name="month-10" form="short">اکتبر</term>
+    <term name="month-11" form="short">نوامبر</term>
+    <term name="month-12" form="short">دسامبر</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">بهار</term>
+    <term name="season-02">تابستان</term>
+    <term name="season-03">پاییز</term>
+    <term name="season-04">زمستان</term>
+  </terms>
+</locale>

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"start_line_number:ETI"5Kramdown::Utils::StringScanner#start_line_number;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"`The start line number. Used for nested StringScanners that scan a sub-string of the source ;TI"Kdocument. The kramdown parser uses this, e.g., for span level parsers.;T:
+@fileI")lib/kramdown/utils/string_scanner.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Kramdown::Utils::StringScanner;TcRDoc::NormalClass0

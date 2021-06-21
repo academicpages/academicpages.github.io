@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Systematic Biology</title>
+    <id>http://www.zotero.org/styles/systematic-biology</id>
+    <link href="http://www.zotero.org/styles/systematic-biology" rel="self"/>
+    <link href="http://www.oxfordjournals.org/our_journals/sysbio/for_authors/" rel="documentation"/>
+    <author>
+      <name>Jorge Pinzon</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="zoology"/>
+    <category field="botany"/>
+    <category field="biology"/>
+    <issn>1063-5157</issn>
+    <eissn>1076-836X</eissn>
+    <updated>2014-01-29T23:00:28+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name delimiter=", " name-as-sort-order="all" sort-separator=" " form="long" initialize-with="."/>
+      <label prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" prefix="In: " suffix=". ">
+      <name delimiter=", " name-as-sort-order="all" sort-separator=" " form="long" initialize-with="."/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="year">
+    <date variable="issued" suffix=". ">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="title">
+    <text variable="title" suffix=". "/>
+  </macro>
+  <citation disambiguate-add-year-suffix="true" collapse="year" et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="year"/>
+      <key variable="issued" sort="ascending"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=" ">
+        <names variable="author">
+          <name and="text" delimiter=" " name-as-sort-order="all" sort-separator=", " form="short"/>
+        </names>
+        <date variable="issued">
+          <date-part name="year" form="long"/>
+        </date>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key macro="year" sort="ascending"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="author"/>
+      <text macro="year"/>
+      <text macro="title"/>
+      <choose>
+        <if type="book">
+          <text variable="publisher-place" suffix=": "/>
+          <text variable="publisher"/>
+        </if>
+        <else-if type="chapter">
+          <text macro="editor"/>
+          <text variable="container-title" suffix=". "/>
+          <text variable="publisher-place" suffix=": "/>
+          <text variable="publisher" suffix="."/>
+          <text variable="page" prefix=" p. "/>
+        </else-if>
+        <else-if type="webpage">
+          <text variable="URL" prefix="Available from "/>
+        </else-if>
+        <else>
+          <group suffix=".">
+            <text variable="container-title" suffix="." form="short"/>
+            <text variable="volume" prefix=" "/>
+            <text variable="page" prefix=":"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

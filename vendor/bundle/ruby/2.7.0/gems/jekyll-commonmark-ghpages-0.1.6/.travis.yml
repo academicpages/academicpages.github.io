@@ -1,0 +1,22 @@
+language: ruby
+cache: bundler
+rvm:
+  - 2.4
+  - 2.3
+git:
+  depth: 1
+
+sudo: false
+
+addons:
+  apt:
+    sources:
+      - kalakris-cmake
+    packages:
+      - cmake
+
+before_install:
+  - gem install bundler
+
+before_script: bundle update
+script: script/cibuild

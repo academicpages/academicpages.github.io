@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="display-and-sort" default-locale="pl-PL">
+  <info>
+    <title>U Schyłku Starożytności (Polish)</title>
+    <title-short>USS</title-short>
+    <id>http://www.zotero.org/styles/u-schylku-starozytnosci</id>
+    <link href="http://www.zotero.org/styles/u-schylku-starozytnosci" rel="self"/>
+    <link href="http://www.uss.uw.edu.pl/instrukcja.html" rel="documentation"/>
+    <author>
+      <name>Adrian Drabik</name>
+      <email>adriandrabik@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <issn>2080-8097</issn>
+    <summary>Bibliographic style for journal U Schylku Starozytnosci</summary>
+    <updated>2018-05-22T00:59:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="pl">
+    <terms>
+      <term name="ibid">ibid.</term>
+      <term name="page" form="short">
+        <single>s.</single>
+        <multiple>ss.</multiple>
+      </term>
+      <term name="and">i</term>
+      <term name="and others">i in.</term>
+      <term name="edition" form="short">wyd.</term>
+      <term name="et-al">et al.</term>
+      <term name="ibid">ibid.</term>
+      <term name="in">[w:]</term>
+      <term name="no date" form="short">b.d.</term>
+      <term name="volume" form="short">t.</term>
+      <term name="book" form="short">książka</term>
+      <term name="chapter" form="short">rozdz.</term>
+      <term name="column" form="short">kol.</term>
+      <term name="figure" form="short">ryc.</term>
+      <term name="folio" form="short">fol.</term>
+      <term name="issue" form="short">nr</term>
+      <term name="opus" form="short">op.</term>
+      <term name="editor" form="short">red.</term>
+      <term name="editorial-director" form="short">red.</term>
+      <term name="translator" form="short">tłum.</term>
+      <term name="editortranslator" form="short">red. &amp; tłum.</term>
+      <term name="container-author" form="verb-short">przez</term>
+      <term name="editor" form="verb-short">wyd.</term>
+      <term name="editorial-director" form="verb-short">wyd.</term>
+      <term name="translator" form="verb-short">tłum.</term>
+      <term name="editortranslator" form="verb-short">red. &amp; tłum.</term>
+    </terms>
+  </locale>
+  <!--MACROS-->
+  <!--Contributors-->
+  <macro name="authors1">
+    <names variable="author">
+      <name sort-separator=", " initialize-with="." delimiter=", "/>
+      <substitute>
+        <text macro="editors1"/>
+        <text macro="translators1"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editors1">
+    <names variable="editor">
+      <name sort-separator=", " initialize-with="." delimiter=", "/>
+      <!--label form="short" prefix=", " /-->
+    </names>
+  </macro>
+  <macro name="translators1">
+    <names variable="translator">
+      <name sort-separator=", " initialize-with="." delimiter=", "/>
+      <label form="verb-short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="editor-translator">
+    <group delimiter=", ">
+      <choose>
+        <if variable="author">
+          <names variable="editor" delimiter=", ">
+            <label form="verb-short" text-case="lowercase" suffix=" "/>
+            <name delimiter=", " initialize-with="."/>
+          </names>
+          <choose>
+            <if variable="container-author">
+              <group>
+                <names variable="container-author">
+                  <name delimiter=", "/>
+                </names>
+              </group>
+            </if>
+          </choose>
+        </if>
+      </choose>
+      <choose>
+        <if variable="author editor" match="any">
+          <names variable="translator" delimiter=", ">
+            <label form="verb-short" text-case="lowercase" suffix=" "/>
+            <name delimiter=", " initialize-with="."/>
+          </names>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="contributors-short">
+    <names variable="author">
+      <name and="text" delimiter=", " initialize-with="."/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <!--Titles-->
+  <macro name="title1">
+    <choose>
+      <if variable="title" match="none">
+        <text variable="genre"/>
+      </if>
+      <else>
+        <text variable="title" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title2">
+    <choose>
+      <if variable="title" match="none">
+        <text variable="genre"/>
+      </if>
+      <else>
+        <text variable="title" prefix="„" suffix="”"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title-short">
+    <choose>
+      <if type="book" match="any">
+        <text variable="title" form="short" font-style="italic" suffix=""/>
+      </if>
+      <else>
+        <text variable="title" form="short" quotes="false" prefix="„" suffix="”"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-title1">
+    <choose>
+      <if type="article-journal" match="any">
+        <text variable="container-title" quotes="false" form="short" font-style="italic"/>
+        <choose>
+          <if variable="volume">
+            <text variable="volume" prefix=" "/>
+          </if>
+          <else-if variable="issue">
+            <text variable="issue" prefix=" "/>
+          </else-if>
+        </choose>
+        <date variable="issued" prefix=" (" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else-if type="chapter paper-conference" match="any">
+        <choose>
+          <if variable="container-title">
+            <text term="in" text-case="lowercase" prefix="" suffix=" "/>
+            <text variable="container-title" quotes="false" font-style="italic"/>
+          </if>
+        </choose>
+      </else-if>
+      <else-if type="entry-encyclopedia" match="any">
+        <choose>
+          <if variable="container-title">
+            <text term="in" text-case="lowercase" prefix="" suffix=" "/>
+            <text variable="container-title" quotes="false" form="short" font-style="italic"/>
+          </if>
+        </choose>
+      </else-if>
+      <else-if type="article-newspaper article-magazine" match="any">
+        <text variable="container-title" quotes="false" prefix="„" suffix="”"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="volume1">
+    <choose>
+      <if variable="volume">
+        <text term="volume" form="short" text-case="lowercase" suffix=" "/>
+        <number variable="volume" form="numeric"/>
+      </if>
+    </choose>
+  </macro>
+  <!--Pages-->
+  <macro name="page">
+    <label variable="locator" form="short" suffix=" "/>
+    <text variable="locator"/>
+  </macro>
+  <macro name="page_first">
+    <label variable="locator" form="short" suffix=" "/>
+    <text variable="locator"/>
+  </macro>
+  <macro name="page_chapter">
+    <choose>
+      <if variable="locator">
+        <label variable="locator" form="short" suffix=" "/>
+        <text variable="locator"/>
+      </if>
+      <else>
+        <label variable="page" form="short" suffix=" "/>
+        <text variable="page"/>
+      </else>
+    </choose>
+  </macro>
+  <!--other-->
+  <macro name="issued1">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="issued-place">
+    <text variable="publisher-place" prefix="" suffix=""/>
+  </macro>
+  <!--Citation-->
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true">
+    <layout prefix="" suffix="." delimiter="; ">
+      <choose>
+        <if position="ibid-with-locator">
+          <group delimiter=", ">
+            <text term="ibid" text-case="capitalize-first"/>
+            <text macro="page"/>
+          </group>
+        </if>
+        <else-if position="ibid">
+          <text term="ibid" text-case="capitalize-first"/>
+        </else-if>
+        <else-if position="subsequent">
+          <group delimiter=", ">
+            <text macro="contributors-short"/>
+            <text macro="title-short"/>
+            <text macro="page_chapter"/>
+          </group>
+        </else-if>
+        <else>
+          <choose>
+            <if type="article-journal article-newspaper article-magazine" match="any">
+              <group delimiter=", ">
+                <text macro="authors1"/>
+                <text macro="title2"/>
+                <text macro="container-title1"/>
+                <text macro="page_chapter"/>
+              </group>
+            </if>
+            <else-if type="chapter paper-conference entry-encyclopedia thesis" match="any">
+              <group delimiter=", ">
+                <text macro="authors1"/>
+                <text macro="title2"/>
+                <text macro="container-title1"/>
+                <text macro="editor-translator"/>
+                <text macro="volume1"/>
+                <group delimiter=" ">
+                  <text macro="issued-place"/>
+                  <text macro="issued1"/>
+                </group>
+              </group>
+              <text macro="page_chapter" prefix=", "/>
+            </else-if>
+            <else-if type="book" match="any">
+              <group delimiter=", ">
+                <text macro="authors1"/>
+                <text macro="title1"/>
+                <text macro="volume1"/>
+                <group delimiter=" ">
+                  <text macro="issued-place"/>
+                  <text macro="issued1"/>
+                </group>
+                <text macro="page_first" prefix=""/>
+              </group>
+            </else-if>
+            <else>
+              <group delimiter=", ">
+                <text macro="authors1"/>
+                <text macro="title1"/>
+                <text macro="volume1"/>
+                <group delimiter=" ">
+                  <text macro="issued-place"/>
+                  <text macro="issued1"/>
+                </group>
+                <text macro="page_first" prefix=""/>
+              </group>
+            </else>
+          </choose>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+</style>

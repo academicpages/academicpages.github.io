@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with-hyphen="false" demote-non-dropping-particle="sort-only" default-locale="pl-PL">
+  <info>
+    <title>Postępy Higieny i Medycyny Doświadczalnej (Polish)</title>
+    <title-short>PHiMD</title-short>
+    <id>http://www.zotero.org/styles/postepy-higieny-i-medycyny-doswiadczalnej</id>
+    <link href="http://www.zotero.org/styles/postepy-higieny-i-medycyny-doswiadczalnej" rel="self"/>
+    <link href="http://www.phmd.pl/page.php?IDpage=117" rel="documentation"/>
+    <author>
+      <name>Tomasz Hryszko</name>
+      <email>tomhry@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1732-2693</issn>
+    <updated>2016-10-08T20:04:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="pl">
+    <terms>
+      <term name="in">W</term>
+      <term name="editor" form="short">red.</term>
+      <term name="et-al">i wsp.</term>
+    </terms>
+  </locale>
+  <macro name="name">
+    <names variable="author" suffix=": ">
+      <name et-al-min="16" et-al-use-first="15" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+    </names>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key variable="author"/>
+    </sort>
+    <layout suffix=";">
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <choose>
+        <if type="article-journal">
+          <text macro="name"/>
+          <text variable="title" suffix=". "/>
+          <text variable="container-title" form="short" suffix=", "/>
+          <date date-parts="year" form="text" variable="issued" suffix="; "/>
+          <text variable="volume" suffix=": "/>
+          <text variable="page"/>
+        </if>
+        <else-if type="webpage" match="any">
+          <text variable="container-title" suffix=". "/>
+          <text variable="URL" suffix=" "/>
+          <date delimiter="" variable="accessed" prefix="(" suffix=")">
+            <date-part name="day" suffix="."/>
+            <date-part name="month" form="numeric" suffix="."/>
+            <date-part name="year"/>
+          </date>
+        </else-if>
+        <else-if type="book" match="any">
+          <text macro="name"/>
+          <text variable="title" suffix=". "/>
+          <text variable="publisher" suffix=", "/>
+          <text variable="publisher-place" suffix=" "/>
+          <date date-parts="year" form="text" variable="issued"/>
+        </else-if>
+        <else-if type="chapter" match="any">
+          <text macro="name"/>
+          <text variable="title" suffix=". "/>
+          <text term="in" suffix=": "/>
+          <text variable="container-title" suffix=". "/>
+          <text term="editor" form="short" suffix=": "/>
+          <names variable="editor" suffix=". ">
+            <name initialize-with="."/>
+          </names>
+          <text variable="publisher" suffix=", "/>
+          <text variable="publisher-place" suffix=" "/>
+          <date date-parts="year" form="text" variable="issued" suffix=", "/>
+          <text variable="page"/>
+        </else-if>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

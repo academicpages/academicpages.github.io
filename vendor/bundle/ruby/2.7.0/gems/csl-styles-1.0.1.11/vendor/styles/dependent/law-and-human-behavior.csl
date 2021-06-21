@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/apa -->
+  <info>
+    <title>Law and Human Behavior</title>
+    <id>http://www.zotero.org/styles/law-and-human-behavior</id>
+    <link href="http://www.zotero.org/styles/law-and-human-behavior" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://content.apa.org/journals/lhb" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="psychology"/>
+    <issn>0147-7307</issn>
+    <eissn>1573-661X</eissn>
+    <updated>2014-06-10T16:32:54+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

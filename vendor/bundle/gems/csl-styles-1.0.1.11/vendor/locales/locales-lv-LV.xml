@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="lv-LV">
+  <info>
+    <translator>
+      <name>Andris Lupgins</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-12-27T11:40:58+02:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text" delimiter=" ">
+    <!-- "2012. gada 28. martā" -->
+    <date-part name="year" suffix=". gada"/>
+    <date-part name="day" form="numeric" suffix="."/>
+    <date-part name="month"/>
+  </date>
+  <date form="numeric" delimiter=".">
+    <!-- "28.03.2012." -->
+    <date-part name="day" form="numeric"/>
+    <date-part name="month" form="numeric"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">skatīts</term>
+    <term name="ad">m.ē.</term>
+    <term name="and">un</term>
+    <term name="and others">un citi</term>
+    <term name="anonymous">anonīms</term>
+    <term name="anonymous" form="short">anon.</term>
+    <term name="at"></term>
+    <term name="available at">pieejams</term>
+    <term name="bc">p.m.ē.</term>
+    <term name="by"></term>
+    <term name="circa">apmēram</term>
+    <term name="circa" form="short">apm.</term>
+    <term name="cited">citēts</term>
+    <term name="edition" gender="feminine">
+      <single>redakcija</single>
+      <multiple>redakcijas</multiple>
+    </term>
+    <term name="edition" form="short">red.</term>
+    <term name="et-al">u.c.</term>
+    <term name="forthcoming">gaidāms</term>
+    <term name="from">no</term>
+    <term name="ibid">turpat</term>
+    <term name="in">no</term>
+    <term name="in press">presē</term>
+    <term name="internet">internets</term>
+    <term name="interview">intervija</term>
+    <term name="letter">vēstule</term>
+    <term name="no date">bez datuma</term>
+    <term name="no date" form="short">b.g.</term>
+    <term name="online">tiešsaiste</term>
+    <term name="presented at">iesniegts</term>
+    <term name="reference">
+      <single>atsauce</single>
+      <multiple>atsauces</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>ats.</single>
+      <multiple>ats.</multiple>
+    </term>
+    <term name="retrieved">iegūts</term>
+    <term name="scale">mērogs</term>
+    <term name="version">versija</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">"</term>
+    <term name="close-quote">"</term>
+    <term name="open-inner-quote">"</term>
+    <term name="close-inner-quote">"</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">-ais</term>
+    <term name="ordinal" gender-form="feminine">-ā</term>
+    
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">pirmais</term>
+    <term name="long-ordinal-02">otrais</term>
+    <term name="long-ordinal-03">trešais</term>
+    <term name="long-ordinal-04">ceturtais</term>
+    <term name="long-ordinal-05">piektais</term>
+    <term name="long-ordinal-06">sestais</term>
+    <term name="long-ordinal-07">septītais</term>
+    <term name="long-ordinal-08">astotais</term>
+    <term name="long-ordinal-09">devītais</term>
+    <term name="long-ordinal-10">desmitais</term>
+
+    <term name="long-ordinal-01" gender-form="feminine">pirmā</term>
+    <term name="long-ordinal-02" gender-form="feminine">otrā</term>
+    <term name="long-ordinal-03" gender-form="feminine">trešā</term>
+    <term name="long-ordinal-04" gender-form="feminine">ceturtā</term>
+    <term name="long-ordinal-05" gender-form="feminine">piektā</term>
+    <term name="long-ordinal-06" gender-form="feminine">sestā</term>
+    <term name="long-ordinal-07" gender-form="feminine">septītā</term>
+    <term name="long-ordinal-08" gender-form="feminine">astotā</term>
+    <term name="long-ordinal-09" gender-form="feminine">devītā</term>
+    <term name="long-ordinal-10" gender-form="feminine">desmitā</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>grāmata</single>
+      <multiple>grāmatas</multiple>
+    </term>
+    <term name="chapter">
+      <single>nodaļa</single>
+      <multiple>nodaļas</multiple>
+    </term>
+    <term name="column">
+      <single>sleja</single>
+      <multiple>slejas</multiple>
+    </term>
+    <term name="figure">
+      <single>ilustrācija</single>
+      <multiple>ilustrācijas</multiple>
+    </term>
+    <term name="folio">
+      <single>folio</single>
+      <multiple>folio</multiple>
+    </term>
+    <term name="issue">
+      <single>numurs</single>
+      <multiple>numuri</multiple>
+    </term>
+    <term name="line">
+      <single>rinda</single>
+      <multiple>rindas</multiple>
+    </term>
+    <term name="note">
+      <single>piezīme</single>
+      <multiple>piezīmes</multiple>
+    </term>
+    <term name="opus">
+      <single>opuss</single>
+      <multiple>opusi</multiple>
+    </term>
+    <term name="page">
+      <single>lappuse</single>
+      <multiple>lappuses</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>lappuse</single>
+      <multiple>lappuses</multiple>
+    </term>
+    <term name="paragraph">
+      <single>rindkopa</single>
+      <multiple>rindkopas</multiple>
+    </term>
+    <term name="part">
+      <single>daļa</single>
+      <multiple>daļas</multiple>
+    </term>
+    <term name="section">
+      <single>apakšnodaļa</single>
+      <multiple>apakšnodaļas</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>skatīt</single>
+      <multiple>skatīt</multiple>
+    </term>
+    <term name="verse">
+      <single>pants</single>
+      <multiple>panti</multiple>
+    </term>
+    <term name="volume">
+      <single>sējums</single>
+      <multiple>sējumi</multiple>
+    </term>
+    
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">grām.</term>
+    <term name="chapter" form="short">nod.</term>
+    <term name="column" form="short">sl.</term>
+    <term name="figure" form="short">il.</term>
+    <term name="folio" form="short">fo.</term>
+    <term name="issue" form="short">nr.</term>
+    <term name="line" form="short">r.</term>
+    <term name="note" form="short">piez.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>lpp.</single>
+      <multiple>lpp.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>lpp.</single>
+      <multiple>lpp.</multiple>
+    </term>
+    <term name="paragraph" form="short">rindk.</term>
+    <term name="part" form="short">d.</term>
+    <term name="section" form="short">apakšnod.</term>
+    <term name="sub verbo" form="short">
+      <single>sk.</single>
+      <multiple>sk.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>p.</single>
+      <multiple>p.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>sēj.</single>
+      <multiple>sēj.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="collection-editor">
+      <single>krājuma redaktors</single>
+      <multiple>krājuma redaktori</multiple>
+    </term>
+    <term name="composer">
+      <single>sastādītājs</single>
+      <multiple>sastādītāji</multiple>
+    </term>
+    <term name="container-author">
+      <single>pamatmateriāla autors</single>
+      <multiple>pamatmateriāla autori</multiple>
+    </term>
+    <term name="director">
+      <single>vadītājs</single>
+      <multiple>vadītāji</multiple>
+    </term>
+    <term name="editor">
+      <single>redaktors</single>
+      <multiple>redaktors</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>galvenais redaktors</single>
+      <multiple>galvenie redaktori</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>redaktors un tulkotājs</single>
+      <multiple>redaktors un tulkotājs</multiple>
+    </term>
+    <term name="illustrator">
+      <single>ilustrators</single>
+      <multiple>ilustratori</multiple>
+    </term>
+    <term name="interviewer">
+      <single>intervētājs</single>
+      <multiple>intervētāji</multiple>
+    </term>
+    <term name="recipient">
+      <single>saņēmējs</single>
+      <multiple>saņēmēji</multiple>
+    </term>
+    <term name="translator">
+      <single>tulkotājs</single>
+      <multiple>tulkotāji</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="collection-editor" form="short">
+      <single>kr. red.</single>
+      <multiple>kr. red.</multiple>
+    </term>
+    <term name="composer" form="short">
+      <single>sast.</single>
+      <multiple>sast.</multiple>
+    </term>
+    <term name="container-author" form="short">
+      <single>pamatmat. aut.</single>
+      <multiple>pamatmat. aut.</multiple>
+    </term>
+    <term name="director" form="short">
+      <single>vad.</single>
+      <multiple>vad.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>red.</single>
+      <multiple>red.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>galv. red.</single>
+      <multiple>galv. red.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>red. un tulk.</single>
+      <multiple>red. un tulk.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ilustr.</single>
+      <multiple>ilustr.</multiple>
+    </term>
+    <term name="interviewer" form="short">
+      <single>interv.</single>
+      <multiple>interv.</multiple>
+    </term>
+    <term name="recipient" form="short">
+      <single>saņ.</single>
+      <multiple>saņ.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>tulk.</single>
+      <multiple>tulk.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb"></term>
+    <term name="composer" form="verb">sastādīja</term>
+    <term name="director" form="verb">vadīja</term>
+    <term name="editor" form="verb">sagatavoja</term>
+    <term name="editorial-director" form="verb">sagatavoja</term>
+    <term name="editortranslator" form="verb">sagatavoja un tulkoja</term>
+    <term name="illustrator" form="verb">ilustrēja</term>
+    <term name="interviewer" form="verb">intervēja</term>
+    <term name="recipient" form="verb">saņēma</term>
+    <term name="translator" form="verb">tulkoja</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">sast.</term>
+    <term name="editor" form="verb-short">sag.</term>
+    <term name="editorial-director" form="verb-short">sag.</term>
+    <term name="illustrator" form="verb-short">ilustr.</term>
+    <term name="translator" form="verb-short">tulk.</term>
+    <term name="editortranslator" form="verb-short">sag. un tulk.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">janvārī</term>
+    <term name="month-02">februārī</term>
+    <term name="month-03">martā</term>
+    <term name="month-04">aprīlī</term>
+    <term name="month-05">maijā</term>
+    <term name="month-06">jūnijā</term>
+    <term name="month-07">jūlijā</term>
+    <term name="month-08">augustā</term>
+    <term name="month-09">septembrī</term>
+    <term name="month-10">oktobrī</term>
+    <term name="month-11">novembrī</term>
+    <term name="month-12">decembrī</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">janv.</term>
+    <term name="month-02" form="short">febr.</term>
+    <term name="month-03" form="short">mar.</term>
+    <term name="month-04" form="short">apr.</term>
+    <term name="month-05" form="short">mai.</term>
+    <term name="month-06" form="short">jūn.</term>
+    <term name="month-07" form="short">jūl.</term>
+    <term name="month-08" form="short">aug.</term>
+    <term name="month-09" form="short">sept.</term>
+    <term name="month-10" form="short">okt.</term>
+    <term name="month-11" form="short">nov.</term>
+    <term name="month-12" form="short">dec.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">pavasaris</term>
+    <term name="season-02">vasara</term>
+    <term name="season-03">rudens</term>
+    <term name="season-04">ziema</term>
+  </terms>
+</locale>

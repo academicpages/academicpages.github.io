@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Entrepreneurship Theory and Practice</title>
+    <title-short>ETP</title-short>
+    <id>http://www.zotero.org/styles/entrepreneurship-theory-and-practice</id>
+    <link href="http://www.zotero.org/styles/entrepreneurship-theory-and-practice" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291540-6520/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Mojtaba Hosseini</name>
+      <email>hoseini451@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <issn>1042-2587</issn>
+    <eissn>1540-6520</eissn>
+    <updated>2013-09-07T23:37:16+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

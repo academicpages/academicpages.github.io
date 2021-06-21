@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Integrated Science Publishing, generated from "integrated-science-publishing" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Applied Nanomedicine</title>
+    <id>http://www.zotero.org/styles/applied-nanomedicine</id>
+    <link href="http://www.zotero.org/styles/applied-nanomedicine" rel="self"/>
+    <link href="http://www.zotero.org/styles/integrated-science-publishing-journals" rel="independent-parent"/>
+    <link href="http://www.pubs.iscience.in/journal/index.php/appnanomed/about/submissions#onlineSubmissions" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <updated>2017-09-30T02:49:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

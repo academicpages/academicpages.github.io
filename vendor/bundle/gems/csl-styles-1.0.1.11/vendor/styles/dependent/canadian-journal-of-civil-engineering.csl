@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- NRC Research Press, generated from "nrc" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Canadian Journal of Civil Engineering</title>
+    <id>http://www.zotero.org/styles/canadian-journal-of-civil-engineering</id>
+    <link href="http://www.zotero.org/styles/canadian-journal-of-civil-engineering" rel="self"/>
+    <link href="http://www.zotero.org/styles/canadian-geotechnical-journal" rel="independent-parent"/>
+    <link href="http://www.nrcresearchpress.com/page/cjce/authors" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="engineering"/>
+    <issn>0315-1468</issn>
+    <eissn>1208-6029</eissn>
+    <updated>2016-05-31T22:53:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

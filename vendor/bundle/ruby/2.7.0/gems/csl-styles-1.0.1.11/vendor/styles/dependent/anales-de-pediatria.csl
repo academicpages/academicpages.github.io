@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="es-ES">
+  <info>
+    <title>Anales de Pediatría (Spanish)</title>
+    <id>http://www.zotero.org/styles/anales-de-pediatria</id>
+    <link href="http://www.zotero.org/styles/anales-de-pediatria" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript-only-year" rel="independent-parent"/>
+    <link href="http://www.elsevier.es/sites/default/files/elsevier/NormOrga/037normas.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1695-4033</issn>
+    <eissn>1695-9531</eissn>
+    <updated>2017-05-31T02:53:21+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

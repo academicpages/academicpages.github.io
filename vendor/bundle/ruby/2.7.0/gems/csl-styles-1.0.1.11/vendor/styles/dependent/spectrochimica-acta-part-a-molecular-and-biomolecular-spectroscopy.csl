@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier, generated from "elsevier" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</title>
+    <id>http://www.zotero.org/styles/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy</id>
+    <link href="http://www.zotero.org/styles/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-with-titles" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <issn>1386-1425</issn>
+    <updated>2018-03-09T05:06:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

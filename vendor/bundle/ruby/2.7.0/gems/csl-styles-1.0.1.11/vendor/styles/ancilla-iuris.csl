@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note">
+  <!-- Polyglot; journal publishes in German and English -->
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Ancilla Iuris</title>
+    <title-short>Anci</title-short>
+    <id>http://www.zotero.org/styles/ancilla-iuris</id>
+    <link href="http://www.zotero.org/styles/ancilla-iuris" rel="self"/>
+    <link href="http://www.zotero.org/styles/juristische-zitierweise-schweizer" rel="template"/>
+    <link href="https://www.anci.ch/about" rel="documentation"/>
+    <author>
+      <name>Pascal Gutknecht</name>
+      <email>literaturverwaltung@zhaw.ch</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <issn>1866-1149</issn>
+    <eissn>1661-8610</eissn>
+    <summary>The Ancilla Iuris citation style (based on its Style Guide for Authors)</summary>
+    <updated>2019-04-14T19:32:35+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="editor" form="short">Hg.</term>
+      <term name="accessed">letzter Zugriff</term>
+      <term name="ibid">Ibid.</term>
+      <term name="et-al">et al.</term>
+    </terms>
+  </locale>
+  <locale xml:lang="en">
+    <terms>
+      <term name="accessed">last access</term>
+    </terms>
+  </locale>
+  <macro name="authors">
+    <names variable="author">
+      <name font-style="italic" delimiter="/" delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="editors">
+    <names variable="editor">
+      <name form="short" delimiter="/" delimiter-precedes-last="always" initialize-with="." name-as-sort-order="all"/>
+      <et-al font-style="italic" term="et-al"/>
+    </names>
+    <text prefix=" (" form="short" suffix=")" font-style="normal" term="editor"/>
+  </macro>
+  <macro name="editor-book">
+    <names variable="editor">
+      <name initialize="false" delimiter="/" font-style="italic"/>
+    </names>
+    <text term="editor" form="short" prefix=" (" suffix=")"/>
+  </macro>
+  <citation et-al-use-first="1" et-al-min="5" disambiguate-add-givenname="true" givenname-disambiguation-rule="all-names-with-initials" disambiguate-add-names="true">
+    <layout suffix="." delimiter="; ">
+      <choose>
+        <if position="ibid-with-locator">
+          <group delimiter=" ">
+            <text term="ibid"/>
+            <text variable="locator"/>
+          </group>
+        </if>
+        <else-if position="ibid">
+          <text term="ibid"/>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <choose>
+              <if type="article-journal" match="any">
+                <text macro="authors"/>
+                <text variable="title"/>
+                <group>
+                  <text suffix=" " variable="container-title"/>
+                  <text suffix=" " variable="volume"/>
+                  <date prefix="(" suffix=")" variable="issued">
+                    <date-part name="year" form="long"/>
+                  </date>
+                </group>
+                <text variable="page"/>
+              </if>
+              <else-if type="book">
+                <choose>
+                  <if variable="author" match="any">
+                    <text macro="authors" font-style="italic"/>
+                  </if>
+                  <else>
+                    <text macro="editor-book"/>
+                  </else>
+                </choose>
+                <group>
+                  <text variable="title"/>
+                  <group prefix=" (" suffix=")" delimiter=" ">
+                    <text form="short" variable="publisher-place"/>
+                    <date variable="issued">
+                      <date-part name="year"/>
+                    </date>
+                  </group>
+                </group>
+              </else-if>
+              <else-if type="chapter">
+                <text macro="authors" font-style="italic"/>
+                <text prefix=" " variable="title"/>
+                <text prefix=" in: " macro="editors"/>
+                <group delimiter=" ">
+                  <text variable="container-title"/>
+                  <group prefix="(" suffix=")" delimiter=" ">
+                    <text variable="publisher-place"/>
+                    <date form="text" variable="issued" date-parts="year"/>
+                  </group>
+                </group>
+                <text form="short" variable="page"/>
+              </else-if>
+              <else-if type="thesis">
+                <text macro="authors"/>
+                <text variable="title"/>
+                <group delimiter=" ">
+                  <text variable="genre"/>
+                  <text variable="publisher"/>
+                  <group prefix="(" suffix=")" delimiter=" ">
+                    <text variable="publisher-place"/>
+                    <date variable="issued">
+                      <date-part name="year" form="long"/>
+                    </date>
+                  </group>
+                </group>
+              </else-if>
+              <else-if type="webpage">
+                <group delimiter=", ">
+                  <text macro="authors"/>
+                  <text variable="title"/>
+                  <group suffix="." delimiter=", ">
+                    <text variable="URL"/>
+                    <group delimiter=": ">
+                      <text term="accessed"/>
+                      <date form="text" variable="accessed"/>
+                    </group>
+                  </group>
+                </group>
+              </else-if>
+              <else>
+                <group suffix="." delimiter=", ">
+                  <text macro="authors" font-style="italic"/>
+                  <group delimiter=" ">
+                    <text variable="title"/>
+                    <group prefix=" (" suffix=")" delimiter=" ">
+                      <text variable="publisher-place"/>
+                      <date form="numeric" variable="issued"/>
+                    </group>
+                  </group>
+                </group>
+              </else>
+            </choose>
+            <text form="short" variable="locator"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+</style>

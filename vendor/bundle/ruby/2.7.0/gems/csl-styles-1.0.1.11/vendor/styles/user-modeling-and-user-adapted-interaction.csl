@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>User Modeling and User-Adapted Interaction</title>
+    <title-short>UMUAI</title-short>
+    <id>http://www.zotero.org/styles/user-modeling-and-user-adapted-interaction</id>
+    <link href="http://www.zotero.org/styles/user-modeling-and-user-adapted-interaction" rel="self"/>
+    <link href="http://www.springer.com/computer/hci/journal/11257" rel="documentation"/>
+    <author>
+      <name>David Bueno Vallejo</name>
+      <email>bueno@lcc.uma.es</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="science"/>
+    <issn>0924-1868</issn>
+    <eissn>1573-1391</eissn>
+    <summary>UMUAI style.</summary>
+    <updated>2014-09-06T22:02:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <label form="short" suffix=" "/>
+      <name and="text" delimiter=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="first" and="text" sort-separator=", " delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <group delimiter=" ">
+          <text value="Available at:"/>
+          <text variable="URL"/>
+          <group prefix="[" suffix="]">
+            <text term="accessed" text-case="capitalize-first" suffix=" "/>
+            <date variable="accessed">
+              <date-part name="month" suffix=" "/>
+              <date-part name="day" suffix=", "/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <group prefix=" ">
+      <choose>
+        <if variable="issued">
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </if>
+        <else>
+          <text term="no date" form="short"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" et-al-subsequent-min="2" et-al-subsequent-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text macro="author-short"/>
+          <text macro="year-date"/>
+        </group>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="false" et-al-min="4" et-al-use-first="3 ">
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <text macro="author" suffix="."/>
+      <date variable="issued" prefix=": " suffix=".">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group prefix=" " delimiter=" ">
+            <text macro="title" prefix="'" suffix=".'"/>
+            <text macro="edition"/>
+            <text macro="editor" suffix="."/>
+          </group>
+          <text prefix=" " suffix="." macro="publisher"/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" '" suffix="'." quotes="false"/>
+          <group prefix=" " delimiter=" ">
+            <text term="in" text-case="capitalize-first"/>
+            <text variable="container-title" font-style="italic" suffix=","/>
+            <text variable="collection-title" suffix=","/>
+            <text macro="editor" suffix="."/>
+            <group suffix=".">
+              <text macro="publisher"/>
+              <group>
+                <text variable="page" prefix=" pp. "/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group prefix=" '" delimiter=" '" suffix=".'">
+            <text macro="title" quotes="false"/>
+            <text macro="editor"/>
+          </group>
+          <group prefix=" " suffix=".">
+            <text variable="container-title" font-style="italic"/>
+            <group prefix=" ">
+              <text variable="volume"/>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page" prefix=", pp. "/>
+          </group>
+          <text prefix=" " macro="access" suffix="."/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

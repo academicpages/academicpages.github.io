@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-GB">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Amphibia-Reptilia</title>
+    <title-short>AMRE</title-short>
+    <id>http://www.zotero.org/styles/amphibia-reptilia</id>
+    <link href="http://www.zotero.org/styles/amphibia-reptilia" rel="self"/>
+    <link href="http://www.zotero.org/styles/british-journal-of-pharmacology" rel="template"/>
+    <link href="http://www.brill.com/amphibia-reptilia" rel="documentation"/>
+    <author>
+      <name>Renate Wesselingh</name>
+      <email>renate.wesselingh@uclouvain.be</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0173-5373</issn>
+    <eissn>1568-5381</eissn>
+    <updated>2017-07-03T03:48:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter-precedes-et-al="never" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all"/>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name delimiter-precedes-last="always" initialize-with="." name-as-sort-order="all"/>
+      <label form="short" text-case="capitalize-first" prefix=", "/>
+    </names>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="issued"/>
+      <key macro="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key macro="author"/>
+      <key macro="issued"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="issued" prefix="(" suffix="):"/>
+        <choose>
+          <if type="article article-magazine article-newspaper article-journal review" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" form="short" text-case="title"/>
+            <text variable="volume" font-style="normal" font-weight="bold" suffix=":"/>
+            <text variable="page"/>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" text-case="title" prefix="In: " suffix=","/>
+            <label plural="never" strip-periods="false" variable="page" form="short"/>
+            <text variable="page" suffix="."/>
+            <text macro="editor"/>
+            <text macro="publisher" suffix=","/>
+          </else-if>
+          <else-if type="thesis">
+            <text variable="title" suffix="."/>
+            <text variable="genre" suffix=" thesis,"/>
+            <text variable="publisher"/>
+          </else-if>
+          <else>
+            <text variable="title" suffix="."/>
+            <text macro="publisher"/>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

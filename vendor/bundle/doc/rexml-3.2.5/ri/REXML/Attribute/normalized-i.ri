@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"normalized:ETI" REXML::Attribute#normalized;TI"W;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"JThe normalized value of this attribute.  That is, the attribute with ;TI"entities intact.;T:
+@fileI"lib/rexml/attribute.rb;T:0@omit_headings_from_table_of_contents_below0F@I"REXML::Attribute;TcRDoc::NormalClass0

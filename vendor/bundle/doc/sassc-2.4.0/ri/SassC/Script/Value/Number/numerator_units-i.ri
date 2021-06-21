@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"numerator_units:ETI"1SassC::Script::Value::Number#numerator_units;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"5A list of units in the numerator of the number. ;TI"=For example, `1px*em/in*cm` would return `["px", "em"]` ;TI"@return [Array<String>];T:
+@fileI"%lib/sassc/script/value/number.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!SassC::Script::Value::Number;TcRDoc::NormalClass0

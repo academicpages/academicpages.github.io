@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Cell Press - Research Journals, generated from "cell-press-research" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Neuron</title>
+    <id>http://www.zotero.org/styles/neuron</id>
+    <link href="http://www.zotero.org/styles/neuron" rel="self"/>
+    <link href="http://www.zotero.org/styles/cell" rel="independent-parent"/>
+    <link href="http://www.cell.com/neuron/authors" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0896-6273</issn>
+    <eissn>1097-4199</eissn>
+    <updated>2016-12-14T02:01:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

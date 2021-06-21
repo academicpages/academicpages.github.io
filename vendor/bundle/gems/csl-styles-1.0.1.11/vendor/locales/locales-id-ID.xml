@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="id-ID">
+  <info>
+    <translator>
+      <name>faizhabibullah</name>
+    </translator>
+    <translator>
+      <name>Deden Habibi</name>
+    </translator>
+    <translator>
+      <name>xbypass</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2015-08-05T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="true"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="-"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="-"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">diakses</term>
+    <term name="and">dan</term>
+    <term name="and others">dan lainnya</term>
+    <term name="anonymous">anonim</term>
+    <term name="anonymous" form="short">anon.</term>
+    <term name="at">pada</term>
+    <term name="available at">tersedia pada</term>
+    <term name="by">oleh</term>
+    <term name="circa">circa</term>
+    <term name="circa" form="short">ca.</term>
+    <term name="cited">dikutip</term>
+    <term name="edition">
+      <single>edisi</single>
+      <multiple>edisi</multiple>
+    </term>
+    <term name="edition" form="short">ed.</term>
+    <term name="et-al">dkk.</term>
+    <term name="forthcoming">mendatang</term>
+    <term name="from">dari</term>
+    <term name="ibid">ibid.</term>
+    <term name="in">dalam</term>
+    <term name="in press">dalam proses cetakan</term>
+    <term name="internet">internet</term>
+    <term name="interview">wawancara</term>
+    <term name="letter">surat</term>
+    <term name="no date">tanpa tanggal</term>
+    <term name="no date" form="short">t.t.</term>
+    <term name="online">daring</term>
+    <term name="presented at">dipresentasikan pada</term>
+    <term name="reference">
+      <single>referensi</single>
+      <multiple>referensi</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>ref.</single>
+      <multiple>ref.</multiple>
+    </term>
+    <term name="retrieved">diambil</term>
+    <term name="scale">skala</term>
+    <term name="version">versi</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">M</term>
+    <term name="bc">SM</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">“</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal"></term>
+    <term name="ordinal-01"></term>
+    <term name="ordinal-02"></term>
+    <term name="ordinal-03"></term>
+    <term name="ordinal-11"></term>
+    <term name="ordinal-12"></term>
+    <term name="ordinal-13"></term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">pertama</term>
+    <term name="long-ordinal-02">kedua</term>
+    <term name="long-ordinal-03">ketiga</term>
+    <term name="long-ordinal-04">keempat</term>
+    <term name="long-ordinal-05">kelima</term>
+    <term name="long-ordinal-06">keenam</term>
+    <term name="long-ordinal-07">ketujuh</term>
+    <term name="long-ordinal-08">kedelapan</term>
+    <term name="long-ordinal-09">kesembilan</term>
+    <term name="long-ordinal-10">kesepuluh</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>buku</single>
+      <multiple>buku</multiple>
+    </term>
+    <term name="chapter">
+      <single>bab</single>
+      <multiple>bab</multiple>
+    </term>
+    <term name="column">
+      <single>kolom</single>
+      <multiple>kolom</multiple>
+    </term>
+    <term name="figure">
+      <single>gambar</single>
+      <multiple>gambar</multiple>
+    </term>
+    <term name="folio">
+      <single>folio</single>
+      <multiple>folio</multiple>
+    </term>
+    <term name="issue">
+      <single>nomor</single>
+      <multiple>nomor</multiple>
+    </term>
+    <term name="line">
+      <single>baris</single>
+      <multiple>baris</multiple>
+    </term>
+    <term name="note">
+      <single>catatan</single>
+      <multiple>catatan</multiple>
+    </term>
+    <term name="opus">
+      <single>opus</single>
+      <multiple>opera</multiple>
+    </term>
+    <term name="page">
+      <single>halaman</single>
+      <multiple>halaman</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>halaman</single>
+      <multiple>halaman</multiple>
+    </term>
+    <term name="paragraph">
+      <single>paragraf</single>
+      <multiple>paragraf</multiple>
+    </term>
+    <term name="part">
+      <single>bagian</single>
+      <multiple>bagian</multiple>
+    </term>
+    <term name="section">
+      <single>bagian</single>
+      <multiple>bagian</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>ayat</single>
+      <multiple>ayat</multiple>
+    </term>
+    <term name="volume">
+      <single>volume</single>
+      <multiple>volume</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">bk.</term>
+    <term name="chapter" form="short">bb.</term>
+    <term name="column" form="short">kol.</term>
+    <term name="figure" form="short">gbr.</term>
+    <term name="folio" form="short">fol.</term>
+    <term name="issue" form="short">no.</term>
+    <term name="line" form="short">brs.</term>
+    <term name="note" form="short">ctt.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>hlm.</single>
+      <multiple>hlm.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>hlm.</single>
+      <multiple>hlm.</multiple>
+    </term>
+    <term name="paragraph" form="short">para.</term>
+    <term name="part" form="short">bag.</term>
+    <term name="section" form="short">bag.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>a.</single>
+      <multiple>a.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>vol.</single>
+      <multiple>vol.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>direktur</single>
+      <multiple>direktur</multiple>
+    </term>
+    <term name="editor">
+      <single>editor</single>
+      <multiple>editor</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>editor</single>
+      <multiple>editor</multiple>
+    </term>
+    <term name="illustrator">
+      <single>ilustrator</single>
+      <multiple>ilustrator</multiple>
+    </term>
+    <term name="translator">
+      <single>penerjemah</single>
+      <multiple>penerjemah</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>editor &amp; penerjemah</single>
+      <multiple>editor &amp; penerjemah</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dir.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>ed.</single>
+      <multiple>ed.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>ed.</single>
+      <multiple>ed.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>il.</single>
+      <multiple>il.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>penerj.</single>
+      <multiple>penerj.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>ed. &amp; penerj.</single>
+      <multiple>ed. &amp; penerj.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">oleh</term>
+    <term name="director" form="verb">diarahkan oleh</term>
+    <term name="editor" form="verb">disunting oleh</term>
+    <term name="editorial-director" form="verb">disunting oleh</term>
+    <term name="illustrator" form="verb">diilustrasi oleh</term>
+    <term name="interviewer" form="verb">diwawancara oleh</term>
+    <term name="recipient" form="verb">kepada</term>
+    <term name="reviewed-author" form="verb">oleh</term>
+    <term name="translator" form="verb">diterjemahkan oleh</term>
+    <term name="editortranslator" form="verb">disunting &amp; diterjemahkan oleh</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir. oleh</term>
+    <term name="editor" form="verb-short">ed. oleh</term>
+    <term name="editorial-director" form="verb-short">ed. oleh</term>
+    <term name="illustrator" form="verb-short">illus. oleh</term>
+    <term name="translator" form="verb-short">trans. oleh</term>
+    <term name="editortranslator" form="verb-short">ed. &amp; penerj. oleh</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">Januari</term>
+    <term name="month-02">Februari</term>
+    <term name="month-03">Maret</term>
+    <term name="month-04">April</term>
+    <term name="month-05">Mei</term>
+    <term name="month-06">Juni</term>
+    <term name="month-07">Juli</term>
+    <term name="month-08">Agustus</term>
+    <term name="month-09">September</term>
+    <term name="month-10">Oktober</term>
+    <term name="month-11">November</term>
+    <term name="month-12">Desember</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">Jan</term>
+    <term name="month-02" form="short">Feb</term>
+    <term name="month-03" form="short">Mar</term>
+    <term name="month-04" form="short">Apr</term>
+    <term name="month-05" form="short">Mei</term>
+    <term name="month-06" form="short">Jun</term>
+    <term name="month-07" form="short">Jul</term>
+    <term name="month-08" form="short">Agu</term>
+    <term name="month-09" form="short">Sep</term>
+    <term name="month-10" form="short">Okt</term>
+    <term name="month-11" form="short">Nov</term>
+    <term name="month-12" form="short">Des</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">Semi</term>
+    <term name="season-02">Panas</term>
+    <term name="season-03">Gugur</term>
+    <term name="season-04">Dingin</term>
+  </terms>
+</locale>

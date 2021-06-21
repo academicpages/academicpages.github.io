@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of the American Veterinary Medical Association</title>
+    <id>http://www.zotero.org/styles/journal-of-the-american-veterinary-medical-association</id>
+    <link href="http://www.zotero.org/styles/journal-of-the-american-veterinary-medical-association" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-veterinary-medical-association" rel="independent-parent"/>
+    <link href="https://www.avma.org/News/Journals/Pages/javma-manuscript-style.aspx" rel="documentation"/>
+    <author>
+      <name>Charles Parnot</name>
+      <email>charles.parnot@gmail.com</email>
+      <uri>http://twitter.com/cparnot</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <issn>0003-1488</issn>
+    <eissn>1943-569X</eissn>
+    <updated>2015-03-24T13:44:48+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

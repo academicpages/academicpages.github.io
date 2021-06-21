@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="fr-FR">
+  <info>
+    <title>Revue de Médecine Vétérinaire (French)</title>
+    <id>http://www.zotero.org/styles/revue-de-medecine-veterinaire</id>
+    <link href="http://www.zotero.org/styles/revue-de-medecine-veterinaire" rel="self"/>
+    <link href="http://www.revmedvet.com/recommandations_fr.html" rel="documentation"/>
+    <author>
+      <name>Vincent Auvigne</name>
+      <uri>vincent.auvigne@ekipaj.com</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0035-1555</issn>
+    <updated>2017-07-03T03:48:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="and">et</term>
+      <term name="et-al">et al</term>
+      <term name="in">in</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " initialize-with="." name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=", editor(s). ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher" suffix=", "/>
+    <text variable="publisher-place" suffix=", "/>
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <text variable="title"/>
+      <choose>
+        <if variable="URL">
+          <text term="internet" prefix="[" suffix="]" text-case="capitalize-first"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="99" et-al-use-first="98">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout>
+      <text variable="citation-number" suffix=". - "/>
+      <text macro="author" suffix=": "/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case motion_picture report song" match="any">
+          <text variable="number-of-pages" suffix=" pages,"/>
+          <text macro="edition" prefix=" " suffix=","/>
+          <text macro="publisher" prefix=" " suffix="."/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" " suffix=". ">
+            <text term="in" suffix=": " text-case="capitalize-first"/>
+            <text macro="editor"/>
+            <text variable="container-title"/>
+          </group>
+          <text macro="publisher" prefix=" "/>
+          <text variable="page" prefix=", " suffix="."/>
+        </else-if>
+        <else>
+          <text variable="container-title" suffix=", " form="short" font-style="italic"/>
+          <date variable="issued" suffix=", ">
+            <date-part name="year"/>
+          </date>
+          <group delimiter=", " suffix=".">
+            <text variable="volume" font-weight="bold"/>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"options:ETI"Kramdown::Document#options;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"[The options hash which holds the options for parsing/converting the Kramdown document.;T:
+@fileI"lib/kramdown/document.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Kramdown::Document;TcRDoc::NormalClass0

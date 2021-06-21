@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="minimal" default-locale="en-US">
+  <info>
+    <title>The Journal of Foot &amp; Ankle Surgery</title>
+    <title-short>JFAS</title-short>
+    <id>http://www.zotero.org/styles/the-journal-of-foot-and-ankle-surgery</id>
+    <link href="http://www.zotero.org/styles/the-journal-of-foot-and-ankle-surgery" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="template"/>
+    <link href="http://www.jfas.org/content/authorinfo#idp1778672" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1067-2516</issn>
+    <eissn>1542-2224</eissn>
+    <summary>Vancouver style for the Journal JFAS.</summary>
+    <updated>2017-08-01T03:59:44+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=". ">
+      <label form="verb" suffix=" "/>
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="thesis">
+        <text variable="publisher-place" prefix="[" suffix="], "/>
+      </if>
+      <else>
+        <text variable="publisher-place" suffix=", "/>
+      </else>
+    </choose>
+    <text variable="publisher" suffix=", "/>
+    <group>
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <text variable="container-title" form="short" strip-periods="true" suffix=" "/>
+      </if>
+      <else>
+        <text variable="container-title" suffix=". " form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <text variable="title"/>
+      <choose>
+        <if type="article-journal article-magazine" match="none">
+          <choose>
+            <if variable="URL">
+              <text term="internet" prefix="[" suffix="]" text-case="capitalize-first"/>
+            </if>
+          </choose>
+        </if>
+      </choose>
+      <choose>
+        <if type="thesis">
+          <text variable="genre" prefix="[" suffix="]"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="webpage post-weblog" match="any">
+        <group delimiter=". ">
+          <group delimiter=": ">
+            <text term="available at" text-case="capitalize-first"/>
+            <text variable="URL"/>
+          </group>
+          <group delimiter=" ">
+            <text term="accessed" text-case="capitalize-first"/>
+            <date form="text" variable="accessed"/>
+          </group>
+        </group>
+      </if>
+      <else>
+        <text variable="DOI" prefix=". https://doi.org/"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+      <key macro="title"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+          <group delimiter=". ">
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text term="in" suffix=":" text-case="capitalize-first"/>
+          <group delimiter=", ">
+            <text variable="container-title" font-style="italic"/>
+            <group delimiter=" ">
+              <label text-case="capitalize-first" variable="volume" form="short"/>
+              <text variable="volume" prefix="(Vol. " suffix=")"/>
+            </group>
+            <group delimiter=" ">
+              <label plural="always" variable="page" form="short"/>
+              <text variable="page"/>
+            </group>
+            <text macro="editor"/>
+          </group>
+          <text macro="publisher"/>
+        </else-if>
+        <else>
+          <text macro="journal-title"/>
+          <group delimiter=": ">
+            <group>
+              <text variable="volume"/>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page"/>
+          </group>
+          <date variable="issued" prefix=", ">
+            <date-part name="year"/>
+          </date>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </layout>
+  </bibliography>
+</style>

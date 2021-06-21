@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="nl-NL">
+  <info>
+    <title>Pharmaceutisch Weekblad (Dutch)</title>
+    <id>http://www.zotero.org/styles/pharmaceutisch-weekblad</id>
+    <link href="http://www.zotero.org/styles/pharmaceutisch-weekblad" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-brackets" rel="independent-parent"/>
+    <link href="http://www.pw.nl/auteursinformatie" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0031-6911</issn>
+    <updated>2013-04-08T01:37:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

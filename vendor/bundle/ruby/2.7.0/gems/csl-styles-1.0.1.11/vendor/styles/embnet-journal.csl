@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" et-al-min="3" et-al-use-first="1" initialize-with="" name-as-sort-order="all" sort-separator="" names-delimiter="," demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>EMBnet.journal</title>
+    <id>http://www.zotero.org/styles/embnet-journal</id>
+    <link href="http://www.zotero.org/styles/embnet-journal" rel="self"/>
+    <link href="http://journal.embnet.org/index.php/embnetjournal/about/submissions#authorGuidelines" rel="documentation"/>
+    <author>
+      <name>Tomas</name>
+      <email>tomas.klingstrom@slu.se</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <eissn>2226-6089</eissn>
+    <summary>The EMBnet.journal style.</summary>
+    <updated>2019-01-21T04:02:09+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor">
+      <name and="text" initialize-with="" name-as-sort-order="all" sort-separator=""/>
+      <label form="short" prefix=" (" suffix=")" strip-periods="true"/>
+      <et-al suffix="." font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" et-al-min="6" et-al-use-first="5" name-as-sort-order="all" sort-separator=" "/>
+      <label form="short" prefix=" "/>
+      <et-al suffix="." font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=". "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="publisher">
+    <group>
+      <text variable="publisher" form="short" suffix=","/>
+      <text variable="publisher-place" prefix=" " suffix=","/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="6" et-al-use-first="5" sort-separator=" " names-delimiter=" " entry-spacing="0" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <text macro="author"/>
+      <date variable="issued" prefix=" (" suffix=")">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=" " prefix=" " suffix=".">
+            <text macro="title"/>
+            <text macro="publisher"/>
+            <text macro="edition"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" " suffix="."/>
+          <group prefix=" ">
+            <text term="in" text-case="capitalize-first" suffix=": "/>
+            <text macro="editor" text-case="uppercase" suffix=" "/>
+            <text variable="container-title" font-style="italic" suffix="."/>
+            <text variable="collection-title" prefix=" " suffix="."/>
+          </group>
+          <group>
+            <text macro="publisher" prefix=" " suffix=", "/>
+            <text variable="publisher-place" prefix=" " suffix=","/>
+            <group>
+              <text variable="volume" prefix="Vol" suffix=","/>
+              <label variable="page" suffix=" " form="short"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="webpage post-weblog article-magazine article-newspaper post report" match="any">
+          <text variable="title" prefix=" " suffix="."/>
+          <text variable="publisher" font-style="italic" prefix=" "/>
+          <text variable="issue" font-weight="bold" prefix=" " suffix="."/>
+          <choose>
+            <if match="any" variable="URL">
+              <text variable="URL" prefix=" "/>
+              <date form="text" variable="accessed" prefix=" (accessed " suffix=")."/>
+            </if>
+          </choose>
+        </else-if>
+        <else>
+          <text macro="title" prefix=" " suffix="."/>
+          <group prefix=" ">
+            <text variable="container-title" form="short" font-style="italic"/>
+            <text variable="volume" font-weight="bold" prefix=" "/>
+            <text variable="issue" font-weight="normal" prefix=" (" suffix=")"/>
+            <text variable="page" prefix=", " suffix="."/>
+          </group>
+          <text variable="DOI" strip-periods="false" prefix=" https://doi.org/"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

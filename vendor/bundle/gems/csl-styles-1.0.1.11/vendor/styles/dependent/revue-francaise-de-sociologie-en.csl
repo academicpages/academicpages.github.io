@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Revue française de sociologie (English)</title>
+    <title-short>RFS-EN</title-short>
+    <id>http://www.zotero.org/styles/revue-francaise-de-sociologie-en</id>
+    <link href="http://www.zotero.org/styles/revue-francaise-de-sociologie-en" rel="self"/>
+    <link href="http://www.zotero.org/styles/revue-francaise-de-sociologie" rel="independent-parent"/>
+    <link href="http://www.rfs-revue.com/" rel="documentation"/>
+    <author>
+      <name>Milan Bouchet-Valat</name>
+      <email>nalimilan@club.fr</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <category field="sociology"/>
+    <issn>0035-2969</issn>
+    <eissn>1958-5691</eissn>
+    <summary>The style used since 2013 by the Revue française de sociologie.</summary>
+    <updated>2015-01-29T21:03:49+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

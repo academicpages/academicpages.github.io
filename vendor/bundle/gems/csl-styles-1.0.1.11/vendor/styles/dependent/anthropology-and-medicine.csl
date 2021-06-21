@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/taylor-and-francis -->
+  <info>
+    <title>Anthropology &amp; Medicine</title>
+    <id>http://www.zotero.org/styles/anthropology-and-medicine</id>
+    <link href="http://www.zotero.org/styles/anthropology-and-medicine" rel="self"/>
+    <link href="http://www.zotero.org/styles/taylor-and-francis-chicago-author-date" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=CANM20&amp;page=instructions" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="humanities"/>
+    <issn>1364-8470</issn>
+    <eissn>1469-2910</eissn>
+    <updated>2014-09-05T06:14:52+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

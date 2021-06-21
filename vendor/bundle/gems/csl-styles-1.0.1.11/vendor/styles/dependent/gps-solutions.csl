@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Springer, generated from "springer" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>GPS Solutions</title>
+    <title-short>GPS Solut</title-short>
+    <id>http://www.zotero.org/styles/gps-solutions</id>
+    <link href="http://www.zotero.org/styles/gps-solutions" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-basic-author-date-no-et-al-with-issue" rel="independent-parent"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/Key_Style_Points_1.0.pdf" rel="documentation"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/manuscript-guidelines-1.0.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="science"/>
+    <issn>1080-5370</issn>
+    <eissn>1521-1886</eissn>
+    <updated>2020-09-16T03:58:32+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

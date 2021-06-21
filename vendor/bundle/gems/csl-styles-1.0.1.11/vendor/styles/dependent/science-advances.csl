@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Science Advances</title>
+    <id>http://www.zotero.org/styles/science-advances</id>
+    <link href="http://www.zotero.org/styles/science-advances" rel="self"/>
+    <link href="http://www.zotero.org/styles/science" rel="independent-parent"/>
+    <link href="http://advances.sciencemag.org/content/information-authors" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <eissn>2375-2548</eissn>
+    <updated>2017-01-23T15:30:31+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

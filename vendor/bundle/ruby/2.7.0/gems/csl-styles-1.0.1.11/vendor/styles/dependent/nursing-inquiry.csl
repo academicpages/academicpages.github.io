@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Nursing Inquiry</title>
+    <id>http://www.zotero.org/styles/nursing-inquiry</id>
+    <link href="http://www.zotero.org/styles/nursing-inquiry" rel="self"/>
+    <link href="http://www.zotero.org/styles/chicago-author-date" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1800/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="medicine"/>
+    <issn>1320-7881</issn>
+    <eissn>1440-1800</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US" demote-non-dropping-particle="sort-only" page-range-format="expanded">
+  <info>
+    <title>Journal of Molecular Cell Biology</title>
+    <title-short>JMCB</title-short>
+    <id>http://www.zotero.org/styles/journal-of-molecular-cell-biology</id>
+    <link href="http://www.zotero.org/styles/journal-of-molecular-cell-biology" rel="self"/>
+    <link href="http://www.zotero.org/styles/cell" rel="template"/>
+    <link href="https://academic.oup.com/jmcb/pages/general_instructions#MANUSCRIPT%20ORGANIZATION" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1674-2788</issn>
+    <eissn>1759-4685</eissn>
+    <updated>2017-07-24T02:37:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text"/>
+      <substitute>
+        <text macro="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" initialize-with="." and="text" delimiter-precedes-last="always"/>
+      <substitute>
+        <text macro="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="." and="text" delimiter-precedes-last="always"/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="issued"/>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="issued" prefix="(" suffix=")."/>
+        <choose>
+          <if type="article article-magazine article-newspaper article-journal review" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" form="short" text-case="title"/>
+            <group delimiter=", ">
+              <text variable="volume" font-style="italic"/>
+              <text variable="page"/>
+            </group>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <text variable="title" suffix="."/>
+            <group delimiter=": ">
+              <text term="in" text-case="capitalize-first"/>
+              <text variable="container-title" text-case="title" suffix=","/>
+            </group>
+            <text macro="editor" suffix="."/>
+            <text macro="publisher" suffix=","/>
+            <text variable="page"/>
+          </else-if>
+          <else-if type="thesis">
+            <text variable="title" suffix="."/>
+            <text variable="genre" suffix="."/>
+            <text variable="publisher"/>
+          </else-if>
+          <else-if type="webpage post-weblog" match="any">
+            <group delimiter=". ">
+              <text variable="title"/>
+              <text variable="container-title"/>
+              <text variable="URL"/>
+            </group>
+          </else-if>
+          <else>
+            <text variable="title"/>
+            <text macro="publisher"/>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

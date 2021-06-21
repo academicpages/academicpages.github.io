@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>The Condor</title>
+    <id>http://www.zotero.org/styles/the-condor</id>
+    <link href="http://www.zotero.org/styles/the-condor" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-auk" rel="independent-parent"/>
+    <link href="http://www.peertrack.net/COPO/AUK-CONDOR_Instructions_for_Authors.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <issn>0010-5422</issn>
+    <eissn>1938-5129</eissn>
+    <summary>The Auk: Ornithological Advances and The Condor: Ornithological Applications are published by the American Ornithologists' Union (AOU) and the Cooper Ornithological Society (COS) and they share the same citation style.</summary>
+    <updated>2015-08-02T19:55:14+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

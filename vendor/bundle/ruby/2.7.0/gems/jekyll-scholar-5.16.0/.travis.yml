@@ -1,0 +1,29 @@
+language: ruby
+sudo: false
+cache: bundler
+matrix:
+  include:
+  - rvm: 2.5
+    env: WITH_COVERALLS=true
+  - rvm: 2.4
+    env: WITH_COVERALLS=false
+  - rvm: 2.3
+    env: WITH_COVERALLS=false
+install:
+- if [[ $WITH_COVERALLS = "true" ]]; then
+    bundle install --without debug extra;
+  else
+    bundle install --without debug extra coverage;
+  fi
+script:
+- if [[ $WITH_COVERALLS = "true" ]]; then
+    bundle exec rake test_with_coveralls;
+  else
+    bundle exec rake;
+  fi
+notifications:
+  email:
+    recipients:
+      - sylvester@keil.or.at
+    on_success: change
+    on_failure: change

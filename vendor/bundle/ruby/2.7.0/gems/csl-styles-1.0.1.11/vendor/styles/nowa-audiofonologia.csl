@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="pl-PL" page-range-format="minimal">
+  <info>
+    <title>Nowa Audiofonologia (Polish)</title>
+    <title-short>Now Audiofonol</title-short>
+    <id>http://www.zotero.org/styles/nowa-audiofonologia</id>
+    <link href="http://www.zotero.org/styles/nowa-audiofonologia" rel="self"/>
+    <link href="http://www.zotero.org/styles/plos" rel="template"/>
+    <link href="http://www.nowaaudiofonologia.pl/instructions" rel="documentation"/>
+    <author>
+      <name>Mateusz Rusiniak</name>
+      <email>m.rusiniak@ifps.org.pl</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="science"/>
+    <issn>2084-946x</issn>
+    <summary>Nowa Audiofonologia</summary>
+    <updated>2015-12-16T02:35:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="et-al">i wsp.</term>
+    </terms>
+  </locale>
+  <macro name="editor">
+    <names variable="editor" suffix=",">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="contextual"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author" suffix="">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="contextual"/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="publisher">
+    <group>
+      <text variable="publisher-place" suffix=": "/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number" sort="ascending"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush" delimiter-precedes-et-al="never">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter="" prefix="">
+            <text macro="title" suffix="." prefix=". "/>
+            <text macro="publisher" prefix=" " suffix=""/>
+            <text macro="year-date" prefix=", " suffix=""/>
+            <text value="."/>
+          </group>
+        </if>
+        <else-if type="chapter" match="any">
+          <text macro="title" prefix=": " suffix="."/>
+          <group prefix=" W:" delimiter=" " suffix="">
+            <text macro="editor" prefix=" " suffix=" red."/>
+            <text variable="container-title"/>
+            <text variable="collection-title"/>
+          </group>
+          <text macro="publisher" prefix=". " suffix=""/>
+          <text macro="year-date" prefix="; " suffix=""/>
+          <text variable="page" prefix=", s. " suffix=""/>
+          <text value="."/>
+        </else-if>
+        <else-if type="thesis">
+          <group prefix=". ">
+            <text macro="title" suffix=". "/>
+            <text variable="genre" prefix="[" suffix="]. "/>
+            <text macro="publisher" suffix=""/>
+            <text macro="year-date" prefix=", " suffix=""/>
+            <text value="."/>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <text variable="URL" prefix=", "/>
+          <text value="."/>
+        </else-if>
+        <else>
+          <text macro="title" prefix=". " suffix="" strip-periods="true"/>
+          <text variable="container-title" form="short" strip-periods="true" prefix=". " suffix=""/>
+          <text macro="year-date" prefix=", " suffix=""/>
+          <text variable="volume" prefix="; " suffix=""/>
+          <text variable="issue" prefix="(" suffix=")"/>
+          <text variable="page" prefix=": "/>
+          <text value="."/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

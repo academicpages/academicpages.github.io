@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Mammalia</title>
+    <id>http://www.zotero.org/styles/mammalia</id>
+    <link href="http://www.zotero.org/styles/mammalia" rel="self"/>
+    <link href="http://www.zotero.org/styles/genetics" rel="template"/>
+    <link href="https://www.degruyter.com/view/journals/mamm/mamm-overview.xml?tab_body=editorialContent-68857" rel="documentation"/>
+    <link href="http://www.degruyter.com/view/supplement/s18641547_Instructions_for_Authors.pdf" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0025-1461</issn>
+    <eissn>1864-1547</eissn>
+    <updated>2020-04-22T02:33:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor-translator">
+    <names variable="editor translator" prefix="(" suffix=")" delimiter=", ">
+      <name and="text" delimiter-precedes-last="always" initialize-with="." sort-separator=" "/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" initialize-with="." name-as-sort-order="first" sort-separator=" "/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <text variable="title" form="short" font-style="italic"/>
+          </if>
+          <else>
+            <text variable="title" form="short" quotes="true"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <citation collapse="year-suffix" et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true">
+    <sort>
+      <key variable="issued"/>
+      <key variable="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+        <group delimiter=" ">
+          <label variable="locator" form="short"/>
+          <text variable="locator" prefix=" "/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". ">
+        <text macro="author"/>
+        <date date-parts="year" form="text" variable="issued"/>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <group>
+              <text macro="title"/>
+              <text macro="editor-translator"/>
+            </group>
+            <text prefix=" " suffix="." macro="publisher"/>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <group delimiter=". ">
+              <text macro="title"/>
+              <group delimiter=" ">
+                <group delimiter=": ">
+                  <text term="in" text-case="capitalize-first"/>
+                  <names variable="editor translator" prefix="(" suffix=")">
+                    <name prefix=" " initialize-with=". " name-as-sort-order="all" sort-separator=" "/>
+                    <label form="short" prefix=", "/>
+                  </names>
+                </group>
+                <group delimiter=", ">
+                  <text variable="container-title"/>
+                  <text variable="collection-title"/>
+                </group>
+              </group>
+              <text macro="publisher"/>
+              <group delimiter=" ">
+                <label variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </else-if>
+          <else>
+            <group delimiter=". ">
+              <group delimiter=", ">
+                <text macro="title"/>
+                <text macro="editor-translator"/>
+              </group>
+              <group delimiter=" ">
+                <text variable="container-title" form="short"/>
+                <group delimiter=": ">
+                  <text variable="volume"/>
+                  <text variable="page"/>
+                </group>
+              </group>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/bmj -->
+  <info>
+    <title>Journal of Epidemiology and Community Health</title>
+    <id>http://www.zotero.org/styles/journal-of-epidemiology-and-community-health</id>
+    <link href="http://www.zotero.org/styles/journal-of-epidemiology-and-community-health" rel="self"/>
+    <link href="http://www.zotero.org/styles/bmj" rel="independent-parent"/>
+    <link href="http://jech.bmj.com/" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0143-005X</issn>
+    <eissn>1470-2738</eissn>
+    <updated>2014-05-10T04:01:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Health Services Research</title>
+    <title-short>HSR</title-short>
+    <id>http://www.zotero.org/styles/health-services-research</id>
+    <link href="http://www.zotero.org/styles/health-services-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="https://www.hsr.org/system/files?file=media/file/2019/12/HSR-Instructions-for-Authors-2019-Update.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="social_science"/>
+    <issn>0017-9124</issn>
+    <eissn>1475-6773</eissn>
+    <updated>2020-07-24T04:08:42+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

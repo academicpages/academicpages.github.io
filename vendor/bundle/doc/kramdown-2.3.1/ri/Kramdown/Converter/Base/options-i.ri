@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"options:ETI"&Kramdown::Converter::Base#options;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"*The hash with the conversion options.;T:
+@fileI"#lib/kramdown/converter/base.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Kramdown::Converter::Base;TcRDoc::NormalClass0

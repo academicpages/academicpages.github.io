@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>GLIA</title>
+    <id>http://www.zotero.org/styles/glia</id>
+    <link href="http://www.zotero.org/styles/glia" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-journal-of-comparative-neurology" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291098-1136/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="science"/>
+    <issn>0894-1491</issn>
+    <eissn>1098-1136</eissn>
+    <summary>Style for Wiley's GLIA</summary>
+    <updated>2014-05-30T00:36:38+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

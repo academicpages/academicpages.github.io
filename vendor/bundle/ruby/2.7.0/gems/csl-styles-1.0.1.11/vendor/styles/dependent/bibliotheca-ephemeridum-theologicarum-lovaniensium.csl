@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" page-range-format="expanded" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>Bibliotheca Ephemeridum Theologicarum Lovaniensium</title>
+    <title-short>BETL</title-short>
+    <id>http://www.zotero.org/styles/bibliotheca-ephemeridum-theologicarum-lovaniensium</id>
+    <link href="http://www.zotero.org/styles/bibliotheca-ephemeridum-theologicarum-lovaniensium" rel="self"/>
+    <link href="http://www.zotero.org/styles/ephemerides-theologicae-lovanienses" rel="independent-parent"/>
+    <link href="http://www.peeters-leuven.be/pdf/instructionsETL.pdf" rel="documentation"/>
+    <author>
+      <name>Carl Johan Berglund</name>
+      <email>cajo@cajo.nu</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="theology"/>
+    <summary>Ephemerides Theologicae Lovanienses (ETL) and Bibliotheca Ephemeridum Theologicarum Lovaniensium (BETL)</summary>
+    <updated>2018-03-15T02:55:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

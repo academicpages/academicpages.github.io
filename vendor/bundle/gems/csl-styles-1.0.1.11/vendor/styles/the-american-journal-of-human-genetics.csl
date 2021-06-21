@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US" demote-non-dropping-particle="sort-only" page-range-format="expanded">
+  <info>
+    <title>The American Journal of Human Genetics</title>
+    <id>http://www.zotero.org/styles/the-american-journal-of-human-genetics</id>
+    <link href="http://www.zotero.org/styles/the-american-journal-of-human-genetics" rel="self"/>
+    <link href="http://www.zotero.org/styles/cell" rel="template"/>
+    <link href="http://www.cell.com/AJHG/home" rel="documentation"/>
+    <contributor>
+      <name>Jessica Chong</name>
+      <email>jxchong@gmail.com</email>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>0002-9297</issn>
+    <eissn>1537-6605</eissn>
+    <summary>The AJHG journal style. Adapted from the Cell and Vancouver superscript styles by Jessica Chong.</summary>
+    <updated>2016-12-14T02:01:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" initialize-with="." and="text" delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <group prefix="(" delimiter=": " suffix=")">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with="." and="text" delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="11" et-al-use-first="10">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="issued" prefix="(" suffix=")."/>
+        <choose>
+          <if type="article article-magazine article-newspaper article-journal review" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" form="short" text-case="title"/>
+            <text variable="volume" font-style="italic" suffix=","/>
+            <text variable="page"/>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" prefix="In " suffix="," text-case="title"/>
+            <text macro="editor"/>
+            <text macro="publisher" suffix=","/>
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </else-if>
+          <else-if type="thesis">
+            <text variable="title" suffix="."/>
+            <text variable="genre" suffix="."/>
+            <text variable="publisher"/>
+          </else-if>
+          <else>
+            <text variable="title"/>
+            <text macro="publisher"/>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

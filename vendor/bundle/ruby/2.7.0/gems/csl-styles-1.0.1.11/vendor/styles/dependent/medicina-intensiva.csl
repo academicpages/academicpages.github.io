@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="es-ES">
+  <!-- Elsevier España, generated from "elsevier-es" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Medicina Intensiva (Spanish)</title>
+    <id>http://www.zotero.org/styles/medicina-intensiva</id>
+    <link href="http://www.zotero.org/styles/medicina-intensiva" rel="self"/>
+    <link href="http://www.zotero.org/styles/medicina-clinica" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0210-5691</issn>
+    <updated>2017-08-21T04:25:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Review of Economic Perspectives (Národohospodárský obzor)</title>
+    <id>http://www.zotero.org/styles/review-of-economic-perspectives</id>
+    <link href="http://www.zotero.org/styles/review-of-economic-perspectives" rel="self"/>
+    <link href="http://www.zotero.org/styles/iso690-author-date-en" rel="independent-parent"/>
+    <link href="https://www.degruyter.com/view/j/revecp" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <issn>1804-1663</issn>
+    <updated>2017-12-25T05:15:12+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

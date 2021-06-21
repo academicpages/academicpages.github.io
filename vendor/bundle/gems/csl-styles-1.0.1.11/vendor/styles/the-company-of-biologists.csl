@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
+  <info>
+    <title>The Company of Biologists</title>
+    <id>http://www.zotero.org/styles/the-company-of-biologists</id>
+    <link href="http://www.zotero.org/styles/the-company-of-biologists" rel="self"/>
+    <link href="http://jeb.biologists.org/site/author/manuscript_preparation.xhtml#references" rel="documentation"/>
+    <author>
+      <name>Gal Haspel</name>
+      <email>gal.haspel@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Richard Karnesky</name>
+      <email>karnesky+zotero@gmail.com</email>
+      <uri>http://arc.nucapt.northwestern.edu/Richard_Karnesky</uri>
+    </contributor>
+    <contributor>
+      <name>Charles Parnot</name>
+      <uri>http://twitter.com/cparnot</uri>
+      <email>charles.parnot@gmail.com</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <summary>Style used by the journals published by The Company of Biologists.</summary>
+    <updated>2015-03-24T13:44:48+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=",">
+      <label form="short" plural="never" prefix="(" suffix=" "/>
+      <name name-as-sort-order="all" sort-separator=", " and="text" initialize-with=". " delimiter=", " suffix=")"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" and="text" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="never"/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="authorcount">
+    <names variable="author">
+      <name form="count"/>
+    </names>
+  </macro>
+  <!-- It is not explicitely stated in the instructions to authors, but based on user feedback, and based on the actual articles published by 'Development', publications should also be sorted alphabetically in the citation -->
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true">
+    <sort>
+      <key macro="author-short" names-min="1" names-use-first="1"/>
+      <key macro="authorcount" names-min="3" names-use-first="3"/>
+      <key macro="author-short" names-min="3" names-use-first="1"/>
+      <key variable="issued"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" et-al-min="11" et-al-use-first="10">
+    <sort>
+      <key macro="author-short" names-min="1" names-use-first="1"/>
+      <key macro="authorcount" names-min="3" names-use-first="3"/>
+      <key macro="author-short" names-min="3" names-use-first="1"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="author" font-weight="bold"/>
+      <date variable="issued" prefix=" (" suffix=").">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=" " prefix=" ">
+            <text macro="title" font-style="italic" suffix="."/>
+            <text macro="edition"/>
+            <text macro="editor"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" " suffix="."/>
+          <group prefix=" " suffix=", " delimiter=" ">
+            <text term="in" text-case="capitalize-first"/>
+            <text variable="container-title" font-style="italic"/>
+            <text macro="editor"/>
+          </group>
+          <group delimiter=" ">
+            <label variable="page" form="short"/>
+            <text variable="page" suffix="."/>
+            <text macro="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <text macro="title" prefix=" " suffix="."/>
+          <group prefix=" " suffix="." delimiter=" ">
+            <text variable="container-title" form="short" font-style="italic"/>
+            <text variable="volume" font-weight="bold" suffix=","/>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

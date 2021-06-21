@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Freshwater Biology</title>
+    <id>http://www.zotero.org/styles/freshwater-biology</id>
+    <link href="http://www.zotero.org/styles/freshwater-biology" rel="self"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-2427/homepage/ForAuthors.html" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <contributor>
+      <name>Kathleen Frisch</name>
+      <email>kathleen.frisch@spearway.com</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0046-5070</issn>
+    <eissn>1365-2427</eissn>
+    <summary>Style for the Wiley journal Freshwater Biology.</summary>
+    <updated>2019-02-04T14:18:06+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="edition" form="short">edn.</term>
+      <term name="edition" form="long">Edition</term>
+      <term name="editor" form="short">
+        <single>ed.</single>
+        <multiple>eds</multiple>
+      </term>
+      <term name="in">In:</term>
+    </terms>
+  </locale>
+  <macro name="editor">
+    <names variable="editor">
+      <label form="short" text-case="capitalize-first" suffix=" "/>
+      <name and="symbol" sort-separator=" " initialize-with="." delimiter=", " delimiter-precedes-last="never"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" and="symbol" sort-separator=" " initialize-with="." delimiter=", " delimiter-precedes-last="never"/>
+      <label form="short" prefix=" "/>
+      <et-al term="et-al" font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="symbol" initialize-with=". " delimiter=", " delimiter-precedes-last="never"/>
+      <et-al term="et-al" font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" strip-periods="true"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="article-journal" match="any">
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </if>
+    </choose>
+  </macro>
+  <citation et-al-min="4" et-al-subsequent-min="3" et-al-use-first="1" et-al-subsequent-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="false" collapse="year-suffix" year-suffix-delimiter=" ">
+    <sort>
+      <key variable="issued" sort="ascending"/>
+      <key macro="author-short"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="year-date"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" et-al-min="7" et-al-use-first="6" entry-spacing="0">
+    <sort>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <text macro="author"/>
+      <date variable="issued" prefix=" (" suffix=").">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+          <group delimiter=" " prefix=" " suffix=".">
+            <group delimiter=", " prefix=" " suffix=".">
+              <text macro="title" font-style="italic"/>
+              <text macro="edition"/>
+            </group>
+            <text macro="editor" prefix=" (" suffix="),"/>
+            <text macro="publisher" prefix=" "/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" " suffix="." font-style="normal"/>
+          <group prefix=" " suffix=" ">
+            <text term="in" suffix=" "/>
+            <group delimiter=", " suffix=".">
+              <text variable="container-title" font-style="italic"/>
+              <text macro="edition"/>
+            </group>
+            <text variable="collection-title" font-style="normal" prefix=" " suffix=","/>
+          </group>
+          <text macro="editor" prefix=" (" suffix="),"/>
+          <group suffix=".">
+            <group prefix=" " suffix=".">
+              <label variable="page" suffix=" " form="short"/>
+              <text variable="page"/>
+            </group>
+            <text macro="publisher" prefix=" "/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=". ">
+            <text macro="title" prefix=" "/>
+            <group delimiter=", ">
+              <group delimiter=" ">
+                <text variable="container-title" font-style="italic"/>
+                <text variable="volume" font-weight="bold"/>
+              </group>
+              <text variable="page"/>
+            </group>
+            <text macro="access"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

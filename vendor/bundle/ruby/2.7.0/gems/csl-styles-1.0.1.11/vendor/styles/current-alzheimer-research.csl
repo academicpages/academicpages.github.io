@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Current Alzheimer Research</title>
+    <title-short>CAR</title-short>
+    <id>http://www.zotero.org/styles/current-alzheimer-research</id>
+    <link href="http://www.zotero.org/styles/current-alzheimer-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-lecture-notes-in-computer-science" rel="template"/>
+    <link href="https://benthamscience.com/journals/current-alzheimer-research/author-guidelines/#top" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+      <email>obrienpat86@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <issn>1567-2050</issn>
+    <eissn>1875-5828</eissn>
+    <updated>2017-11-08T00:56:40+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="available at">available from</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <group>
+      <names variable="author">
+        <name delimiter-precedes-last="always" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+        <et-al font-style="italic"/>
+        <label form="short" text-case="capitalize-first" strip-periods="true" prefix=", "/>
+        <substitute>
+          <names variable="editor"/>
+        </substitute>
+      </names>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <label form="short" text-case="capitalize-first" strip-periods="true" suffix=": "/>
+      <name and="text" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush" entry-spacing="0">
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <group delimiter=". ">
+        <text macro="author"/>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+            <group delimiter=" ">
+              <text macro="title" suffix="."/>
+              <text macro="editor"/>
+              <text macro="publisher"/>
+              <date variable="issued">
+                <date-part name="year" prefix="(" suffix=")"/>
+              </date>
+            </group>
+          </if>
+          <else-if type="article-journal">
+            <group delimiter=" ">
+              <text macro="title" suffix="."/>
+              <text variable="container-title" form="short" strip-periods="true" suffix="."/>
+              <group delimiter=": ">
+                <group>
+                  <text variable="volume"/>
+                  <text variable="issue" prefix="(" suffix=")"/>
+                </group>
+                <text variable="page"/>
+              </group>
+              <date variable="issued">
+                <date-part name="year" prefix="(" suffix=")"/>
+              </date>
+            </group>
+          </else-if>
+          <else-if type="chapter paper-conference" match="any">
+            <group delimiter=" ">
+              <text macro="title" suffix="."/>
+              <choose>
+                <if variable="container-title">
+                  <text term="in" text-case="capitalize-first" suffix=" "/>
+                  <text macro="editor" prefix="(" suffix=")."/>
+                  <group delimiter=". ">
+                    <text variable="container-title"/>
+                    <text macro="publisher"/>
+                  </group>
+                  <group delimiter=" ">
+                    <label variable="page" form="short"/>
+                    <text variable="page"/>
+                  </group>
+                </if>
+                <else>
+                  <text term="presented at" text-case="capitalize-first" suffix=" "/>
+                  <text variable="event"/>
+                  <text variable="event-place" prefix=", "/>
+                  <date variable="issued" prefix=" ">
+                    <date-part name="month" suffix=" "/>
+                    <date-part name="day" suffix=" "/>
+                  </date>
+                </else>
+              </choose>
+              <date variable="issued">
+                <date-part name="year" prefix="(" suffix=")"/>
+              </date>
+            </group>
+          </else-if>
+          <else-if type="webpage">
+            <group delimiter=", ">
+              <text macro="title"/>
+              <group delimiter=": ">
+                <text term="available at" text-case="capitalize-first"/>
+                <text variable="URL"/>
+              </group>
+            </group>
+          </else-if>
+          <else-if type="speech">
+            <group delimiter=" ">
+              <text macro="title" suffix="."/>
+              <text variable="event" suffix="."/>
+              <text variable="event-place" prefix=", "/>
+              <date variable="issued">
+                <date-part name="year" prefix="(" suffix=")"/>
+              </date>
+            </group>
+          </else-if>
+          <else>
+            <group delimiter=", ">
+              <text macro="title"/>
+              <text variable="URL"/>
+              <date variable="issued">
+                <date-part name="year" prefix="(" suffix=")"/>
+              </date>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

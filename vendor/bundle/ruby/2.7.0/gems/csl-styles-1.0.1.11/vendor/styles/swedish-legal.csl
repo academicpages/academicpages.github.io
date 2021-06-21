@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="sv-SE">
+  <info>
+    <title>Swedish Legal (Swedish)</title>
+    <id>http://www.zotero.org/styles/swedish-legal</id>
+    <link href="http://www.zotero.org/styles/swedish-legal" rel="self"/>
+    <link href="http://libris.kb.se/bib/10057506" rel="documentation"/>
+    <author>
+      <name>Isak Bergdahl</name>
+      <email>isak.bergdahl@oru.se</email>
+      <uri>http://www.oru.se/jps/isak_bergdahl</uri>
+    </author>
+    <category citation-format="note"/>
+    <category field="law"/>
+    <summary>For general legal writing in Sweden, based on the handbook Att skriva juridik. (incomplete)</summary>
+    <published>2012-11-19T22:00:00+01:00</published>
+    <updated>2014-07-06T15:22:58+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="sv-SE">
+    <terms>
+      <term name="et-al">m. fl.</term>
+      <term name="editor" form="short">red.</term>
+      <term name="edition" form="short">uppl.</term>
+      <term name="page" form="short">s.</term>
+      <term name="chapter" form="short">kap.</term>
+      <term name="paragraph" form="short">st.</term>
+      <term name="section" form="short">avs.</term>
+      <term name="volume" form="short">vol.</term>
+      <term name="line" form="short">rad</term>
+      <term name="figure" form="short">fig.</term>
+    </terms>
+  </locale>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="symbol" sort-separator=", " delimiter-precedes-last="never" initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="publisher"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" initialize-with=". "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="publisher"/>
+        <text variable="title"/>
+        <!-- känns knasigt. ska detta användas i förteckningen? -->
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name and="symbol" name-as-sort-order="all" initialize-with=". "/>
+      <label form="short" prefix=" (" suffix=")" plural="never"/>
+    </names>
+  </macro>
+  <macro name="edition">
+    <group delimiter=" ">
+      <number variable="edition"/>
+      <text term="edition" form="short"/>
+    </group>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="issued-full-date">
+    <date variable="issued">
+      <date-part name="day"/>
+      <date-part name="month" form="long" text-case="lowercase" prefix=" " suffix=" "/>
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="locators">
+    <group delimiter=" ">
+      <label variable="locator" form="short"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <macro name="type-sorting">
+    <choose>
+      <if type="legislation">
+        <text value="1"/>
+      </if>
+      <else-if type="legal_case">
+        <text value="2"/>
+      </else-if>
+      <else-if type="bill">
+        <text value="3"/>
+      </else-if>
+      <else-if type="legislation legal_case bill broadcast webpage entry-encyclopedia" match="none">
+        <text value="4"/>
+      </else-if>
+      <else-if type="webpage">
+        <text value="5"/>
+      </else-if>
+      <else>
+        <text value="6"/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="; " suffix=".">
+      <choose>
+        <if type="article-journal">
+          <group delimiter=" ">
+            <text macro="author-short"/>
+            <text variable="container-title" form="short" text-case="title"/>
+            <text variable="volume"/>
+            <text macro="locators"/>
+          </group>
+        </if>
+        <else-if type="book thesis chapter paper-conference" match="any">
+          <group delimiter=", ">
+            <text macro="author-short"/>
+            <text variable="title" form="short"/>
+            <text macro="locators"/>
+          </group>
+        </else-if>
+        <else-if type="legal_case">
+          <group delimiter=" ">
+            <text variable="title" form="short"/>
+            <text macro="locators" prefix="vid "/>
+          </group>
+        </else-if>
+        <else-if type="bill">
+          <group delimiter=" ">
+            <text variable="number"/>
+            <text macro="locators"/>
+          </group>
+        </else-if>
+        <else-if type="legislation">
+          <group delimiter=" ">
+            <text variable="number"/>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <group delimiter=", ">
+            <text macro="author-short"/>
+            <text variable="title" form="short"/>
+            <text variable="container-title"/>
+          </group>
+        </else-if>
+        <else-if type="report">
+          <group delimiter=", ">
+            <text macro="author-short"/>
+            <text variable="title" form="short"/>
+            <text macro="locators"/>
+          </group>
+        </else-if>
+        <else-if type="broadcast">
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text variable="container-title"/>
+              <text variable="title" form="short"/>
+            </group>
+            <text macro="locators"/>
+          </group>
+        </else-if>
+        <else-if type="entry-encyclopedia">
+          <group delimiter=", ">
+            <text variable="container-title"/>
+            <text variable="title"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="author-short"/>
+            <text variable="title" form="short"/>
+            <text macro="locators"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key macro="type-sorting"/>
+      <key macro="author"/>
+      <key variable="issued"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <choose>
+        <if type="article-journal paper-conference" match="any">
+          <group delimiter=", ">
+            <text macro="author"/>
+            <text variable="title"/>
+            <group delimiter=" ">
+              <text variable="container-title" text-case="title"/>
+              <text variable="volume"/>
+              <label variable="page" form="short"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="book thesis" match="any">
+          <group delimiter=", ">
+            <text macro="author"/>
+            <text variable="title"/>
+            <text macro="edition"/>
+          </group>
+          <group prefix=", " delimiter=" ">
+            <text variable="publisher"/>
+            <text macro="issued"/>
+          </group>
+        </else-if>
+        <else-if type="chapter">
+          <group delimiter=", ">
+            <text macro="author"/>
+            <text variable="title"/>
+            <group delimiter=" ">
+              <text term="in" text-case="capitalize-first" suffix=":"/>
+              <text variable="container-title" suffix="."/>
+              <text macro="editor"/>
+            </group>
+            <text macro="edition"/>
+            <group delimiter=" ">
+              <text variable="publisher"/>
+              <text macro="issued"/>
+            </group>
+            <text variable="page" prefix="s. "/>
+          </group>
+        </else-if>
+        <else-if type="bill legislation" match="any">
+          <group delimiter=" ">
+            <text variable="number" suffix="."/>
+            <text variable="title"/>
+          </group>
+        </else-if>
+        <else-if type="legal_case">
+          <group delimiter=", ">
+            <text variable="number"/>
+            <text variable="title"/>
+          </group>
+        </else-if>
+        <else-if type="webpage">
+          <group delimiter=", ">
+            <text macro="author"/>
+            <text variable="title"/>
+            <text variable="container-title"/>
+            <group delimiter=" ">
+              <date variable="issued" form="numeric"/>
+              <date variable="accessed" form="numeric" prefix="(" suffix=")"/>
+            </group>
+            <text variable="URL"/>
+          </group>
+        </else-if>
+        <else-if type="report">
+          <group delimiter=", ">
+            <text macro="author"/>
+            <text variable="title"/>
+            <text variable="number"/>
+            <text variable="publisher"/>
+            <text macro="issued-full-date"/>
+          </group>
+        </else-if>
+        <else-if type="broadcast">
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text variable="container-title"/>
+              <text variable="title"/>
+            </group>
+            <text variable="publisher"/>
+            <text macro="issued-full-date"/>
+            <text variable="URL"/>
+          </group>
+        </else-if>
+        <else-if type="entry-encyclopedia">
+          <group delimiter=", ">
+            <text variable="container-title"/>
+            <text variable="title"/>
+            <text variable="URL"/>
+            <text macro="edition"/>
+            <text variable="publisher"/>
+            <group delimiter=" ">
+              <date variable="issued" form="numeric"/>
+              <date variable="accessed" form="numeric" prefix="(" suffix=")"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="author"/>
+            <text variable="title"/>
+            <text macro="edition"/>
+            <text variable="publisher"/>
+            <text macro="issued"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>
+<!-- 
+  Att göra:
+  Om en proposition föregås av ett prefix, ska inte första bokstaven vara versal. (går det ens?)
+  Kan man för makrot issued-full-date, få månaden återgiven med inledande versal om det saknas full datumangivelse.
+  -->

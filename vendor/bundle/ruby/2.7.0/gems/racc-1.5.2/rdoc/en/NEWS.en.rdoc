@@ -1,0 +1,282 @@
+= NEWS
+
+=== 1.4.6
+
+* Bugfixes
+
+  * bin/racc -g option renamed to -t
+  * racc/compiler.rb is removed
+  * '|' is allowed with meta rules
+  * Ruby 1.8.7 compatibility fixes
+  * Ruby 1.9 compatibility fixes
+
+=== 1.4.5 (2005-11-21)
+  * [FEATURE CHANGE] --no-extensions option was removed.
+  * [fix] racc command should not depend on `raccrt' package.
+  * [fix] --no-omit-actions did not work.
+  * setup.rb 3.4.1.
+
+=== 1.4.4 (2003-10-12)
+  * document changed.
+  * -all packages does not include amstd and strscan.
+  * setup.rb 3.2.1.
+
+=== 1.4.3 (2002-11-14)
+  * [fix] reduce ruby 1.8 warnings.
+
+=== 1.4.2 (2002-01-29)
+  * [new] new option --no-extentions
+
+=== 1.4.1 (2001-12-02)
+  * now Racc does not depend on amstd library.
+  * update y2racc and racc2y for racc 1.4.1
+
+=== 1.4.0 (2001-11-30)
+  * minor version up for checking in runtime library into ruby CVS repositry.
+  * RaccParser, RaccScanner -&gt; GrammarFileParser, GrammarFileScanner
+  * modify typo (grammer -&gt; grammar)
+
+=== 1.3.12 (2001-11-22)
+  * modify installer bug (thanks Tanaka Akira)
+  * enhance regexp/%-strings/gvar detection in action block
+
+=== 1.3.11 (2001-08-28)
+  * modify scan error on $' $` $/ etc.
+
+=== 1.3.10 (2001-08-12)
+  * modify prototype missmatch in cparse.c
+
+=== 1.3.9 (2001-04-07)
+  * support Ruby 1.4 again.
+
+=== 1.3.8 (2001-03-17)
+  * output symbol name when error
+  * Racc::Parser#token_to_str
+
+=== 1.3.7 (2001-02-04)
+  * allow nil for EndOfInput (experimental)
+  * more sample grammar files
+
+=== 1.3.6 (2001-01-22)
+  * modify cparse.so for static link
+
+=== 1.3.5 (2001-01-18)
+  * %-string scanning was wrong
+  * new directive "expect"
+
+=== 1.3.4 (2001-01-11)
+  * cparse: add type checks
+  * cparse: rm depend
+  * cparse: does not pass non-VALUE object to rb_iterate()
+
+=== 1.3.3 (2000-12-25)
+  * <em>critical bug</em> in generator (from 1.3.1)
+  * racc --runtime-version
+
+=== 1.3.2 (2000-12-21)
+  * bug with racc -E
+  * package strscan togather (again)
+
+=== 1.3.1 (2000-12-17)
+  * dynamically determine RE_DUP_MAX
+  * ruby version routine was used always
+
+=== 1.3.0 (2000-11-30)
+  * can yield(sym,val) from scanner (Parser#yyparse)
+
+=== 1.2.6 (2000-11-28)
+  * class M::C
+
+=== 1.2.5 (2000-11-20)
+  * big changes in option; -h -f -p -i -n -c -A are incompatible
+  * support long options
+  * y2racc, racc2y leaves actions as default
+
+=== 1.2.4 (2000-09-13)
+  * updates installer and documents
+
+=== 1.2.3 (2000-08-14)
+  * output useless rules and nonterminals (version 2)
+  * nonassoc makes error (never shift/reduce)
+
+=== 1.2.2 (2000-08-12)
+  * internal changes
+
+=== 1.2.1 (2000-08-05)
+  * racc2y, y2racc
+
+=== 1.2.0 (2000-08-02)
+  * uses bison's lookahead algorithm
+
+=== 1.1.6 (2000-07-25)
+  * new keyword "options" and its parameter "no_result_var"
+
+=== 1.1.5 (2000-07-21)
+  * [IMPORTANT] change keyword "token" to "convert"
+  * NEW keyword "token" for token declearation
+
+=== 1.1.4 (2000-07-13)
+  * update installer
+  * samples had bugs
+
+=== 1.1.3 (2000-06-30)
+  * new option -a; does not omit void action call
+
+=== 1.1.2 (2000-06-29)
+  * now racc does not use strscan.so
+  * ScanError -&gt; Racc::ScanError, ParseError -&gt; Racc::ParseError
+  * more friendly error messages
+
+=== 1.1.1 (2000-06-15)
+  * require miss
+  * conflicts were not reported with -v
+
+=== 1.1.0 (2000-06-12)
+  * use other algolithm for generating state table
+
+=== 1.0.4 (2000-06-04)
+  * S/R conflict & -v flag causes unexpected exception (reported by Tosh)
+  * output useless nonterminals/rules
+
+=== 1.0.3 (2000-06-03)
+  * use Array#collect! instead of #filter.
+
+=== 1.0.2 (2000-05-16)
+  * update installer (setup.rb)
+
+=== 1.0.1 (2000-05-12)
+  * state.rb:  faster lookahead & debug lalr code
+  * refine code
+  * update amstd package (1.7.0)
+
+=== 1.0.0 (2000-05-06)
+  * version 1.0
+
+=== 0.14.6 (2000-05-05)
+  * much more debug output
+
+=== 0.14.5 (2000-05-01)
+
+=== 0.14.4 (2000-04-09)
+  * Racc_* are included in Racc_arg
+  * faster state generation (a little)
+
+=== 0.14.3 (2000-04-04)
+  * check both of SYM2ID and ID2SYM (thanks Katsuyuki Komatsu)
+
+=== 0.14.2 (2000-04-03)
+  * "class" on first line causes parse error (thanks Yoshiki Wada)
+  * new option "racc -V"
+
+=== 0.14.1 (2000-03-31)
+
+=== 0.14.0 (2000-03-21)
+  * implement "fast" table (same to bison)
+  * stop line no. conversion temporaliry because of ruby bug
+
+=== 0.13.1 (2000-03-21)
+  * racc --version --copyright did not work (thanks Tadayoshi Funaba)
+
+=== 0.13.0 (2000-03-20)
+  * implement yyerror/yyerrok/yyaccept
+
+=== 0.12.2 (2000-03-19)
+  * -E flag had bug
+
+=== 0.12.1 (2000-03-16)
+  * modify the way to decide default action
+
+=== 0.12.0 (2000-03-15)
+  * implement real LALR
+  * use both SLR and LALR to resolve conflicts
+
+=== 0.11.3 (2000-03-09)
+  * modify lookahead routine again
+
+=== 0.11.2 (2000-03-09)
+  * bug in lookahead routine
+  * modify cparse.so for Symbol class of ruby 1.5
+
+=== 0.11.1 (2000-03-08)
+  * modify for Symbol
+  * update strscan
+
+=== 0.11.0 (2000-02-19)
+  * if error is occured in action, ruby print line number of grammar file
+
+=== 0.10.9 (2000-01-19)
+  * change package/setup
+
+=== 0.10.8 (2000-01-03)
+  * (1-17 re-packed) add/modify documents
+
+=== 0.10.7 (2000-01-03)
+  * modify setup.rb, compile.rb, amstd/inst. (thanks: Koji Arai)
+
+=== 0.10.6 (1999-12-24)
+  * racc -e ruby
+  * omit void action call
+
+=== 0.10.5 (1999-12-21)
+  * critical bug in embedded action implement
+  * bug in setup.rb
+  * modify calc[2].y for 0.10
+
+=== 0.10.4 (1999-12-19)
+  * support error recover ('error' token)
+  * can embed runtime by "racc -E"
+  * Racc is module
+
+=== 0.10.3 (1999-12-01)
+  * support embedded action
+  * modify .output bug
+
+=== 0.10.2 (1999-11-27)
+  * update document
+  * separate libracc.rb
+
+=== 0.10.1 (1999-11-19)
+  * rewrite runtime routine in C
+  * once next_token returns [false, *], not call next_token
+  * action is only default, not call next_token
+  * $end is obsolute
+  * LALRactionTable
+
+=== 0.10.0 (1999-11-06)
+  * next_value, peep_token is obsolute
+  * @__debug__ -&gt; @yydebug
+  * class...rule...end
+  * refine libracc.rb
+  * unify strscan library
+  * *.rb are installed in lib/ruby/VERSION/racc/
+
+=== 0.9.5 (1999-10-03)
+  * too few arguments for __show_stack__
+  * could not scan $end
+  * typo in d.format.rb
+
+=== 0.9.4 (1999-09-??)
+
+=== 0.9.3 (1999-09-03)
+
+=== 0.9.2 (1999-06-26)
+
+=== 0.9.1 (1999-06-08)
+
+=== 0.9.0 (1999-06-03)
+
+=== 0.8.11 (?)
+
+=== 0.8.10 (?)
+
+=== 0.8.9 (1999-03-21)
+
+=== 0.8.8 (1999-03-20)
+
+=== 0.8.7 (1999-03-01)
+
+=== 0.8.0 (1999-01-16)
+
+=== 0.5.0 (1999-01-07)
+
+=== 0.1.0 (1999-01-01)

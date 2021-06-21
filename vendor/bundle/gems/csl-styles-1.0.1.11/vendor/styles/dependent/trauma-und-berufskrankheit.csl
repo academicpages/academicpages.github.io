@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="de-DE">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/springer-fachzeitschriften-medizin -->
+  <info>
+    <title>Trauma und Berufskrankheit (German)</title>
+    <title-short>Trauma Berufskrankheit</title-short>
+    <id>http://www.zotero.org/styles/trauma-und-berufskrankheit</id>
+    <link href="http://www.zotero.org/styles/trauma-und-berufskrankheit" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-fachzeitschriften-medizin-psychologie" rel="independent-parent"/>
+    <link href="http://www.springer.com/medicine/journal/10039?detailsPage=pltci_1756509" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1436-6274</issn>
+    <eissn>1436-6282</eissn>
+    <updated>2015-01-20T03:17:30+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

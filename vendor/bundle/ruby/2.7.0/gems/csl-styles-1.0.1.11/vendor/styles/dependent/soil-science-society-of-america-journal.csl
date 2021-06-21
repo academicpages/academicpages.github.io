@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Soil Science Society of America Journal</title>
+    <id>http://www.zotero.org/styles/soil-science-society-of-america-journal</id>
+    <link href="http://www.zotero.org/styles/soil-science-society-of-america-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/asa-cssa-sssa" rel="independent-parent"/>
+    <link href="https://www.soils.org/publications/authors" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0361-5995</issn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

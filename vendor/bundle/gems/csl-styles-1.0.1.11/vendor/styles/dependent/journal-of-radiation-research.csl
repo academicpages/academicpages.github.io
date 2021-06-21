@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Radiation Research</title>
+    <id>http://www.zotero.org/styles/journal-of-radiation-research</id>
+    <link href="http://www.zotero.org/styles/journal-of-radiation-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/oxford-university-press-scimed-numeric" rel="independent-parent"/>
+    <link href="http://www.oxfordjournals.org/our_journals/jrr/for_authors/manuscript_instructions.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>0449-3060</issn>
+    <eissn>1349-9157</eissn>
+    <updated>2015-05-04T05:02:05+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize="false" demote-non-dropping-particle="never" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Chicago Manual of Style 16th edition (figures and illustrations)</title>
+    <title-short>chicago-figures</title-short>
+    <id>http://www.zotero.org/styles/chicago-figures</id>
+    <link href="http://www.zotero.org/styles/chicago-figures" rel="self"/>
+    <link href="https://github.com/citation-style-language/styles/pull/442" rel="documentation"/>
+    <author>
+      <name>Alex Watkins</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="humanities"/>
+    <summary>Follows the Chicago Manual for Figure lists. Natural Name order, commas separate elements, currently working with artwork item types, and to facilitate citing images that come from books, book part.</summary>
+    <updated>2016-10-08T20:00:52+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <citation>
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter=", " prefix="(" suffix=")">
+      <group delimiter=" ">
+        <text term="figure" form="short"/>
+        <text variable="citation-number"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text term="figure"/>
+        <text variable="citation-number" suffix="."/>
+        <group delimiter=", ">
+          <names variable="author"/>
+          <text variable="title" font-style="italic"/>
+          <choose>
+            <if type="graphic" match="any">
+              <group delimiter=", ">
+                <date date-parts="year" form="text" variable="issued">
+                  <date-part name="year"/>
+                </date>
+                <text variable="medium"/>
+                <text variable="dimensions"/>
+                <text variable="archive"/>
+              </group>
+            </if>
+            <else-if type="chapter" match="any">
+              <group delimiter=", ">
+                <text variable="container-title" font-style="italic" font-weight="normal" prefix="in "/>
+                <names variable="container-author" prefix="by "/>
+                <names variable="editor" prefix="edited by "/>
+                <date date-parts="year" form="text" variable="issued">
+                  <date-part name="year"/>
+                </date>
+                <text variable="publisher-place"/>
+              </group>
+            </else-if>
+          </choose>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

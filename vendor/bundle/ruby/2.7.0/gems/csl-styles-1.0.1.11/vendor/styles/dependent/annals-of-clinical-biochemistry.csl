@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Annals of Clinical Biochemistry</title>
+    <id>http://www.zotero.org/styles/annals-of-clinical-biochemistry</id>
+    <link href="http://www.zotero.org/styles/annals-of-clinical-biochemistry" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://acb.rsmjournals.com/site/misc/authors.xhtml" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0004-5632</issn>
+    <eissn>1758-1001</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

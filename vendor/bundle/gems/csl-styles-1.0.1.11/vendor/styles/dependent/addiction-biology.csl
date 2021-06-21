@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Addiction Biology</title>
+    <id>http://www.zotero.org/styles/addiction-biology</id>
+    <link href="http://www.zotero.org/styles/addiction-biology" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/13691600/homepage/forauthors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>1355-6215</issn>
+    <eissn>1369-1600</eissn>
+    <updated>2020-09-21T00:14:02+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

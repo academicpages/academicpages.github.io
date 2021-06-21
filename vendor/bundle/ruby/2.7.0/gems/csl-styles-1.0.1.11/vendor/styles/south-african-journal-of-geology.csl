@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>South African Journal of Geology</title>
+    <title-short>Geol. South Africa</title-short>
+    <id>http://www.zotero.org/styles/south-african-journal-of-geology</id>
+    <link href="http://www.zotero.org/styles/south-african-journal-of-geology" rel="self"/>
+    <link href="http://www.gssa.org.za/?page_id=108" rel="documentation"/>
+    <author>
+      <name>Shaun Murdoch</name>
+      <email>shaun.murdoch@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="geology"/>
+    <issn>1012-0750</issn>
+    <eissn>1996-8590</eissn>
+    <summary>Style for the South African Journal of Geology.</summary>
+    <updated>2016-09-17T04:50:06+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <name and="text" sort-separator=", " initialize-with="." delimiter-precedes-last="never" delimiter=", "/>
+      <label text-case="capitalize-first" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" and="text" sort-separator=", " initialize-with="." delimiter-precedes-last="never" delimiter=", "/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" initialize-with=". "/>
+      <et-al font-style="normal"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+            <text variable="title" form="short" font-style="italic"/>
+          </if>
+          <else>
+            <text variable="title" form="short" quotes="true"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+        <text variable="title"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <citation delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix" year-suffix-delimiter="; ">
+    <sort>
+      <key variable="issued"/>
+      <key variable="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+        <group>
+          <label variable="locator" form="short"/>
+          <text variable="locator" prefix=" "/>
+        </group>
+      </group>
+    </layout>
+  </citation>
+  <bibliography sort-separator="" entry-spacing="0" line-spacing="2" hanging-indent="true">
+    <sort>
+      <key macro="author-short"/>
+      <key variable="issued"/>
+    </sort>
+    <layout>
+      <text macro="author"/>
+      <date variable="issued" prefix=" " suffix=".">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group suffix=".">
+            <text macro="title" prefix=" "/>
+          </group>
+          <text prefix=" " macro="publisher"/>
+          <text variable="number-of-pages" prefix=", " suffix="pp."/>
+        </if>
+        <else-if type="thesis" match="any">
+          <group suffix=".">
+            <text macro="title" prefix=" " suffix="."/>
+            <text variable="genre" prefix=" " suffix=" Thesis."/>
+            <text prefix=" " macro="publisher"/>
+            <text variable="number-of-pages" prefix=", " suffix="pp."/>
+          </group>
+        </else-if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="title" prefix=" "/>
+          <group prefix=".">
+            <group prefix=" In: " suffix="">
+              <text macro="editor"/>
+              <text variable="container-title" prefix=" " suffix="."/>
+              <text variable="collection-title" prefix=" " suffix="."/>
+              <group suffix=".">
+                <text macro="publisher" prefix=" " suffix=","/>
+                <text variable="page" prefix=" "/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="post-weblog webpage" match="any">
+          <group>
+            <text macro="title"/>
+            <group>
+              <text term="available at" text-case="capitalize-first" font-style="italic" prefix=". " suffix=" "/>
+              <text variable="URL" font-style="italic"/>
+            </group>
+            <group delimiter=" " prefix=" (" suffix=").">
+              <text term="accessed"/>
+              <date form="text" variable="accessed"/>
+            </group>
+          </group>
+        </else-if>
+        <else>
+          <group suffix=".">
+            <text macro="title" prefix=" "/>
+          </group>
+          <group prefix=" " suffix="." delimiter=", ">
+            <text variable="container-title"/>
+            <text variable="volume"/>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

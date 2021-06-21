@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Environmental Science and Health, Part A</title>
+    <id>http://www.zotero.org/styles/journal-of-environmental-science-and-health-part-a</id>
+    <link href="http://www.zotero.org/styles/journal-of-environmental-science-and-health-part-a" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-environmental-science-and-health-part-b" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=lesa20" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>1093-4529</issn>
+    <eissn>1532-4117</eissn>
+    <updated>2017-08-10T03:50:35+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Hesperia</title>
+    <id>http://www.zotero.org/styles/hesperia</id>
+    <link href="http://www.zotero.org/styles/hesperia" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-school-of-classical-studies-at-athens" rel="independent-parent"/>
+    <link href="https://www.ascsa.edu.gr/publications/hesperia/hesperia-authors" rel="documentation"/>
+    <category citation-format="note"/>
+    <category field="history"/>
+    <issn>0018-098X</issn>
+    <eissn>1553-5622</eissn>
+    <updated>2019-02-05T03:14:35+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

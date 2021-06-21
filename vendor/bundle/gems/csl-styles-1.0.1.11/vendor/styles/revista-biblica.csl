@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" name-delimiter=" &#8211; " delimiter-precedes-last="always" et-al-min="4" et-al-use-first="1" initialize-with=". " names-delimiter=" &#8211; " page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="es-ES">
+  <info>
+    <title>Revista Bíblica (Spanish)</title>
+    <id>http://www.zotero.org/styles/revista-biblica</id>
+    <link href="http://www.zotero.org/styles/revista-biblica" rel="self"/>
+    <link href="http://www.zotero.org/styles/pontifical-gregorian-university" rel="template"/>
+    <link href="https://www.revistabiblica.com/publicacion/" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="note"/>
+    <category field="theology"/>
+    <issn>0034-7078</issn>
+    <eissn>2683-7153</eissn>
+    <updated>2020-05-06T12:32:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="es">
+    <terms>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="ibid" form="short">ib.</term>
+      <term name="retrieved">consulta</term>
+    </terms>
+  </locale>
+  <macro name="autori-nota">
+    <names variable="author">
+      <name form="short">
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+      <label form="short" prefix=", "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="autori-bibliografia">
+    <names variable="author">
+      <name name-as-sort-order="all">
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="autori-libro-generale-bibliografia">
+    <names variable="container-author">
+      <name initialize-with=".">
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+    </names>
+  </macro>
+  <macro name="editori-libro-generale-bibliografia">
+    <names variable="editor">
+      <name>
+        <name-part name="family" font-variant="small-caps"/>
+      </name>
+      <label form="short" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="titolo-nota">
+    <choose>
+      <if type="book thesis manuscript" match="any">
+        <text variable="title" form="short" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" form="short" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="titolo-bibliografia">
+    <choose>
+      <if type="book thesis manuscript" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else-if type="webpage" match="any">
+        <group delimiter=" ">
+          <text variable="title"/>
+        </group>
+      </else-if>
+      <else>
+        <text variable="title" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="titolo-libro-generale-bibliografia">
+    <text variable="container-title" font-style="italic"/>
+  </macro>
+  <macro name="volume-numero">
+    <choose>
+      <if match="any" is-numeric="volume">
+        <number text-case="uppercase" variable="volume" form="roman"/>
+      </if>
+      <else>
+        <text variable="volume" text-case="uppercase"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="collana-e-numero">
+    <group delimiter=" ">
+      <text variable="collection-title"/>
+      <text variable="collection-number"/>
+    </group>
+  </macro>
+  <macro name="pagine-citate-nota">
+    <text variable="locator"/>
+  </macro>
+  <macro name="luogo-data-edizione-libro">
+    <text variable="publisher-place" suffix=" "/>
+    <text variable="edition" vertical-align="sup"/>
+    <date date-parts="year" form="text" variable="issued"/>
+  </macro>
+  <macro name="informazioni-articolo">
+    <group delimiter=" ">
+      <text variable="container-title" form="short" font-style="italic"/>
+      <text variable="volume"/>
+      <choose>
+        <if type="article-journal" match="any">
+          <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+        </if>
+        <else>
+          <date form="numeric" variable="issued" prefix="(" suffix=")"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="informazioni-libro">
+    <group delimiter=", ">
+      <text macro="volume-numero" text-case="capitalize-all"/>
+      <text macro="collana-e-numero"/>
+      <text macro="luogo-data-edizione-libro"/>
+    </group>
+  </macro>
+  <macro name="data-accesso-sito">
+    <group delimiter=": " prefix="[" suffix="]">
+      <text term="retrieved"/>
+      <date delimiter="/" variable="accessed">
+        <date-part name="day" range-delimiter="-"/>
+        <date-part name="month" form="numeric"/>
+        <date-part name="year"/>
+      </date>
+    </group>
+  </macro>
+  <macro name="informazioni-manoscritto">
+    <group delimiter=", ">
+      <text variable="publisher-place"/>
+      <text variable="archive"/>
+      <text variable="archive_location"/>
+    </group>
+  </macro>
+  <citation near-note-distance="0" disambiguate-add-names="true" disambiguate-add-givenname="true" disambiguate-add-year-suffix="false">
+    <layout delimiter="; ">
+      <choose>
+        <if match="any" position="ibid-with-locator">
+          <group delimiter=", ">
+            <text term="ibid" text-case="capitalize-first" font-style="italic"/>
+            <text macro="pagine-citate-nota"/>
+          </group>
+        </if>
+        <else-if match="any" position="ibid">
+          <text term="ibid" form="short" text-case="capitalize-first"/>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="autori-nota"/>
+            <text macro="titolo-nota"/>
+            <choose>
+              <if type="book thesis" match="any">
+                <text macro="volume-numero"/>
+              </if>
+            </choose>
+            <text macro="pagine-citate-nota"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography et-al-min="19" et-al-use-first="18" subsequent-author-substitute="&#8211;&#8211;&#8211;&#8211;">
+    <sort>
+      <key macro="autori-bibliografia"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=", ">
+        <text macro="autori-bibliografia"/>
+        <text macro="titolo-bibliografia"/>
+        <choose>
+          <if type="article article-magazine article-journal article-newspaper" match="any">
+            <text macro="informazioni-articolo"/>
+          </if>
+          <else-if type="manuscript" match="any">
+            <text macro="informazioni-manoscritto"/>
+          </else-if>
+          <else>
+            <choose>
+              <if type="entry-dictionary entry-encyclopedia chapter paper-conference" match="any">
+                <group delimiter=" ">
+                  <text term="in"/>
+                  <choose>
+                    <if match="any" variable="container-author">
+                      <text macro="autori-libro-generale-bibliografia" suffix=", "/>
+                    </if>
+                    <else>
+                      <text macro="editori-libro-generale-bibliografia" suffix=", "/>
+                    </else>
+                  </choose>
+                  <text macro="titolo-libro-generale-bibliografia"/>
+                </group>
+              </if>
+            </choose>
+            <choose>
+              <if type="webpage" match="none">
+                <text macro="informazioni-libro"/>
+              </if>
+            </choose>
+            <choose>
+              <if type="webpage post post-weblog" match="any">
+                <group delimiter=" ">
+                  <text variable="URL"/>
+                  <text macro="data-accesso-sito"/>
+                </group>
+              </if>
+            </choose>
+          </else>
+        </choose>
+      </group>
+      <choose>
+        <if type="article article-magazine article-journal article-newspaper" match="any">
+          <text variable="page" prefix=" "/>
+        </if>
+        <else>
+          <text variable="page" prefix=", "/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

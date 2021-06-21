@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US">
+  <info>
+    <title>Journal of Environmental Science and Health, Part B</title>
+    <id>http://www.zotero.org/styles/journal-of-environmental-science-and-health-part-b</id>
+    <link href="http://www.zotero.org/styles/journal-of-environmental-science-and-health-part-b" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-chemistry-and-chemical-engineering" rel="template"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=lesb20&amp;page=instructions" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="chemistry"/>
+    <issn>0360-1234</issn>
+    <eissn>1532-4109</eissn>
+    <updated>2018-03-28T23:10:24+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <name delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all"/>
+      <label form="short" text-case="capitalize-first" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter="; " delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all"/>
+      <label form="short" text-case="capitalize-first" strip-periods="true" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text macro="author" suffix=". "/>
+      <choose>
+        <if type="article-journal">
+          <text variable="title" text-case="capitalize-first" suffix=". "/>
+          <text variable="container-title" form="short" suffix=" "/>
+          <group delimiter=", ">
+            <date variable="issued">
+              <date-part name="year" font-weight="bold"/>
+            </date>
+            <group>
+              <text variable="volume" font-style="italic"/>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page"/>
+          </group>
+        </if>
+        <else-if type="book" match="any">
+          <text variable="title" font-style="italic" suffix=". "/>
+          <group delimiter=", ">
+            <group>
+              <text variable="publisher" suffix=": "/>
+              <text variable="publisher-place"/>
+            </group>
+            <group delimiter="; ">
+              <date date-parts="year" form="text" variable="issued"/>
+              <group delimiter=" ">
+                <text variable="number-of-pages"/>
+                <label plural="always" variable="page" form="short"/>
+              </group>
+            </group>
+          </group>
+        </else-if>
+        <else-if type="chapter">
+          <text variable="title" suffix=". "/>
+          <group delimiter=" " suffix="; ">
+            <text term="in" text-case="title"/>
+            <text variable="container-title" text-case="title" font-style="italic"/>
+          </group>
+          <text macro="editor"/>
+          <group delimiter=": " suffix=", ">
+            <text variable="publisher"/>
+            <text variable="publisher-place"/>
+          </group>
+          <date date-parts="year" form="numeric" variable="issued" prefix=" " suffix="; ">
+            <date-part name="year"/>
+          </date>
+          <group suffix=", ">
+            <label text-case="capitalize-first" suffix=" " variable="volume" form="short"/>
+            <number suffix=", " variable="volume"/>
+          </group>
+          <text variable="page" form="short" prefix=" "/>
+        </else-if>
+        <else-if type="paper-conference">
+          <group font-style="italic" suffix=", ">
+            <text term="in" text-case="title" suffix=" "/>
+            <text variable="title" text-case="capitalize-first" font-style="italic"/>
+          </group>
+          <group>
+            <text variable="event" form="long" prefix="Proceedings of the " suffix=", "/>
+            <text variable="event-place" suffix=",  "/>
+            <date variable="event-date" suffix="; ">
+              <date-part name="month" form="short"/>
+              <date-part name="day" suffix=", "/>
+              <date-part name="year" suffix="; "/>
+            </date>
+          </group>
+          <group>
+            <text variable="publisher" suffix=": "/>
+            <text variable="publisher-place" suffix=", "/>
+            <date date-parts="year" form="text" variable="issued"/>
+          </group>
+        </else-if>
+        <else-if type="webpage post-weblog" match="any">
+          <text variable="title" suffix=". "/>
+          <text variable="URL" suffix=" "/>
+          <group delimiter=" " prefix="(" suffix=")">
+            <text term="accessed"/>
+            <date variable="accessed">
+              <date-part name="month" form="short" suffix=" "/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=". " suffix=",  ">
+            <text variable="title" text-case="title"/>
+            <text variable="genre"/>
+          </group>
+          <date date-parts="year-month" form="numeric" variable="issued">
+            <date-part name="month"/>
+            <date-part name="year"/>
+          </date>
+        </else-if>
+        <else>
+          <text variable="title" suffix=". "/>
+          <group delimiter=", " suffix=". ">
+            <text variable="container-title" font-style="italic" suffix=". "/>
+            <group>
+              <text variable="volume"/>
+              <text variable="issue" prefix="(" suffix=") "/>
+            </group>
+            <text variable="page"/>
+          </group>
+          <date variable="issued">
+            <date-part name="year" form="long"/>
+          </date>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

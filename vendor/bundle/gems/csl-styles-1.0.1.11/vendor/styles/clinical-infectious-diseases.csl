@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Clinical Infectious Diseases</title>
+    <id>http://www.zotero.org/styles/clinical-infectious-diseases</id>
+    <link href="http://www.zotero.org/styles/clinical-infectious-diseases" rel="self"/>
+    <link href="http://www.oxfordjournals.org/our_journals/cid/for_authors/ms_prep.html#Article%20Types" rel="documentation"/>
+    <author>
+      <name>Michael Berkowitz</name>
+      <email>mberkowi@gmu.edu</email>
+    </author>
+    <contributor>
+      <name>Sean Takats</name>
+      <email>stakats@gmu.edu</email>
+    </contributor>
+    <contributor>
+      <name>Sebastian Karcher</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1058-4838</issn>
+    <eissn>1537-6591</eissn>
+    <summary>Style for the Oxford Journal Clinical Infectious Diseases. Followed Journal practice rather than styleguide.</summary>
+    <updated>2018-02-23T13:51:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="long" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place" suffix=": "/>
+    <text variable="publisher" suffix=", "/>
+    <group suffix=". ">
+      <text macro="year-date"/>
+      <text variable="page" prefix=": "/>
+    </group>
+  </macro>
+  <macro name="access">
+    <group>
+      <text value="Available at: "/>
+      <text variable="URL"/>
+    </group>
+  </macro>
+  <macro name="accessed-date">
+    <choose>
+      <if variable="URL">
+        <group delimiter=" ">
+          <text term="accessed" text-case="capitalize-first"/>
+          <date variable="accessed">
+            <date-part name="day" suffix=" "/>
+            <date-part name="month" suffix=" "/>
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="journal-title">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <group suffix=" ">
+          <text variable="container-title" form="short" strip-periods="true"/>
+        </group>
+      </if>
+      <else>
+        <text variable="container-title" suffix=". " form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <date variable="issued">
+          <date-part name="year" font-weight="bold"/>
+        </date>
+      </if>
+      <else>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="3" second-field-align="flush">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song webpage" match="any">
+          <group prefix=" " delimiter=" ">
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" " suffix=". ">
+            <text term="in" suffix=": " text-case="capitalize-first"/>
+            <text macro="editor"/>
+            <text variable="container-title"/>
+          </group>
+          <text macro="publisher" prefix=" "/>
+        </else-if>
+        <else>
+          <text macro="journal-title"/>
+          <group suffix="; ">
+            <text macro="year-date"/>
+          </group>
+          <group suffix=". ">
+            <text variable="volume"/>
+            <text variable="page" prefix=":"/>
+          </group>
+        </else>
+      </choose>
+      <group delimiter=". " suffix=".">
+        <text macro="access"/>
+        <text macro="accessed-date"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

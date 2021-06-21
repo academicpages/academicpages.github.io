@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>International Journal of Spine Surgery</title>
+    <id>http://www.zotero.org/styles/international-journal-of-spine-surgery</id>
+    <link href="http://www.zotero.org/styles/international-journal-of-spine-surgery" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="http://ijssurgery.com/content/Author-Instructions" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <eissn>2211-4599</eissn>
+    <updated>2015-08-21T01:51:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

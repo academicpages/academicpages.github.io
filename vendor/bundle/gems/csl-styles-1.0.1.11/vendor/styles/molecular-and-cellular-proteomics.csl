@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Molecular &amp; Cellular Proteomics</title>
+    <id>http://www.zotero.org/styles/molecular-and-cellular-proteomics</id>
+    <link href="http://www.zotero.org/styles/molecular-and-cellular-proteomics" rel="self"/>
+    <link href="http://www.mcponline.org/site/misc/ifora.xhtml#references" rel="documentation"/>
+    <author>
+      <name>Vital Vialas</name>
+      <email>vvialasf@ucm.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>1535-9476</issn>
+    <eissn>1535-9484</eissn>
+    <summary>Molecular and Cellular Proteomics Journal Style</summary>
+    <updated>2015-01-21T06:28:16+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" prefix=" " delimiter=", ">
+      <label form="short" suffix=" " strip-periods="true"/>
+      <name initialize-with="" name-as-sort-order="all" sort-separator=" " delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=", " initialize-with=". " and="text" delimiter-precedes-last="always"/>
+      <label form="short" prefix=" " suffix="." strip-periods="false"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group prefix=" (" delimiter=", " suffix=")">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group prefix=". " delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" text-case="capitalize-first"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <date variable="issued" prefix=" (" suffix=")">
+        <date-part name="year"/>
+      </date>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group prefix=" ">
+            <text variable="title" font-style="italic"/>
+            <text macro="editor"/>
+            <text macro="publisher"/>
+            <text macro="edition"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" " delimiter=" ">
+            <text term="in"/>
+            <group delimiter=", ">
+              <text variable="container-title" font-style="italic"/>
+              <text variable="collection-title" prefix=" " suffix="."/>
+              <text macro="editor"/>
+            </group>
+          </group>
+          <group suffix=".">
+            <text macro="publisher" prefix=" "/>
+            <group prefix=", ">
+              <label variable="page" suffix=" " form="short" strip-periods="true"/>
+              <text variable="page"/>
+            </group>
+          </group>
+          <text macro="edition"/>
+        </else-if>
+        <else>
+          <text variable="title" prefix=" " suffix="."/>
+          <group prefix=" ">
+            <group delimiter=" " suffix=", ">
+              <text variable="container-title" form="short" font-style="italic" strip-periods="false"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

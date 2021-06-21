@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US" page-range-format="expanded">
+  <info>
+    <title>Northeastern Naturalist</title>
+    <id>http://www.zotero.org/styles/northeastern-naturalist</id>
+    <link href="http://www.zotero.org/styles/northeastern-naturalist" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-journal-of-wildlife-management" rel="template"/>
+    <link href="http://www.eaglehill.us/programs/journals/nena/NENAauthor.pdf" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1092-6194</issn>
+    <eissn>1938-5307</eissn>
+    <updated>2013-04-18T01:50:59+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=".">
+      <name sort-separator=", " initialize-with="." and="text" name-as-sort-order="first" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" " initialize-with="." and="text" delimiter=", "/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first"/>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with="."/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+        <text variable="year-suffix" font-style="italic"/>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="chapter-info">
+    <group delimiter=" ">
+      <choose>
+        <if type="chapter paper-conference" match="any">
+          <group delimiter=" ">
+            <label variable="page" text-case="capitalize-first" form="short"/>
+            <text variable="page" suffix=","/>
+            <text term="in" font-style="italic" text-case="capitalize-first"/>
+          </group>
+        </if>
+      </choose>
+      <text macro="editor"/>
+    </group>
+  </macro>
+  <macro name="container">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <group delimiter=" ">
+          <text variable="container-title"/>
+          <group delimiter=":">
+            <text variable="volume"/>
+            <text variable="page"/>
+          </group>
+        </group>
+      </if>
+      <else-if type="article-newspaper">
+        <text variable="container-title"/>
+        <date variable="issued" delimiter=" ">
+          <date-part name="day"/>
+          <date-part name="month"/>
+          <date-part name="year"/>
+        </date>
+        <text variable="section" prefix="; section "/>
+        <text variable="page" prefix=":"/>
+      </else-if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <group delimiter=" ">
+        <text variable="collection-title"/>
+        <text variable="collection-number"/>
+      </group>
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="long-ordinal" text-case="capitalize-first"/>
+          <text term="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="volume">
+    <choose>
+      <if type="article-journal article-magazine" match="none">
+        <choose>
+          <if variable="volume">
+            <group delimiter=" ">
+              <text term="volume" text-case="capitalize-first" form="short"/>
+              <text variable="volume"/>
+            </group>
+          </if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="accessed">
+    <choose>
+      <if variable="URL">
+        <group delimiter=". ">
+          <text variable="URL" prefix="Available online at "/>
+          <group delimiter=" ">
+            <text term="accessed" text-case="capitalize-first"/>
+            <date variable="accessed" delimiter=" ">
+              <date-part name="month" text-case="capitalize-first"/>
+              <date-part name="day" suffix=","/>
+              <date-part name="year"/>
+            </date>
+          </group>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="by-cite" collapse="year-suffix">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="year-date"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <group delimiter=":">
+        <group delimiter=" ">
+          <text macro="author-short"/>
+          <text macro="year-date"/>
+        </group>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key macro="year-date"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". ">
+        <text macro="author"/>
+        <text macro="year-date"/>
+        <text variable="title"/>
+        <text macro="chapter-info"/>
+        <text macro="container"/>
+        <text macro="edition"/>
+        <text macro="volume"/>
+        <text variable="genre"/>
+        <text macro="publisher"/>
+        <text variable="number-of-pages" suffix=" pp."/>
+        <text macro="accessed"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,15 @@
+language: ruby
+cache: bundler
+rvm:
+  - 2.4
+  - 2.6
+
+before_script: bundle update
+script: script/cibuild
+
+notifications:
+  email:
+    recipients:
+      - mercenary@jekyllrb.com
+    on_success: change
+    on_failure: change

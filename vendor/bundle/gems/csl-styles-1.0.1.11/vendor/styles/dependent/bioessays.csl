@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>BioEssays</title>
+    <id>http://www.zotero.org/styles/bioessays</id>
+    <link href="http://www.zotero.org/styles/bioessays" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa-numeric-superscript-brackets" rel="independent-parent"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/15211878/homepage/2487_for_authors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <issn>0265-9247</issn>
+    <eissn>1521-1878</eissn>
+    <updated>2020-11-02T01:03:43+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

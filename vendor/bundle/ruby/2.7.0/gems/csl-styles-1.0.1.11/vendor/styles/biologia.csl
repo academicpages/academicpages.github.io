@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Biologia</title>
+    <id>http://www.zotero.org/styles/biologia</id>
+    <link href="http://www.zotero.org/styles/biologia" rel="self"/>
+    <link href="http://www.degruyter.com/view/j/biolog" rel="documentation"/>
+    <contributor>
+      <name>Matěj Božik</name>
+      <email>bozik@af.czu.cz</email>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="botany"/>
+    <category field="zoology"/>
+    <issn>0006-3088</issn>
+    <eissn>1336-9563</eissn>
+    <updated>2018-12-29T19:08:08+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=" ">
+      <name and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" prefix="In: " suffix=" (eds), ">
+      <name and="symbol" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+    </names>
+  </macro>
+  <macro name="year">
+    <date variable="issued" suffix=". ">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="title">
+    <text variable="title" font-style="normal" suffix=". "/>
+  </macro>
+  <citation disambiguate-add-year-suffix="true" collapse="year" et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="year"/>
+      <key variable="issued" sort="ascending"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=" ">
+        <names variable="author" suffix=", ">
+          <name and="symbol" delimiter=" " name-as-sort-order="all" sort-separator=", " form="short"/>
+        </names>
+        <date variable="issued">
+          <date-part name="year" form="long"/>
+        </date>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key macro="year" sort="ascending"/>
+    </sort>
+    <layout>
+      <text macro="author"/>
+      <text macro="year"/>
+      <choose>
+        <if type="thesis">
+          <text macro="title" font-style="italic"/>
+          <text variable="publisher" suffix=", "/>
+          <text variable="publisher-place" suffix=". "/>
+        </if>
+        <else-if type="book">
+          <text macro="title" font-style="italic"/>
+          <text variable="publisher" suffix=", "/>
+          <text variable="publisher-place" suffix=". "/>
+          <text variable="number-of-pages" suffix=" pp."/>
+        </else-if>
+        <else-if type="chapter">
+          <text macro="title"/>
+          <text variable="page" prefix="pp. " suffix=". "/>
+          <text macro="editor"/>
+          <text variable="container-title" font-style="normal" suffix=", "/>
+          <text variable="publisher" suffix=", "/>
+          <text variable="publisher-place" suffix=". "/>
+        </else-if>
+        <else-if type="paper-conference">
+          <text macro="title"/>
+          <text variable="event" prefix=" " suffix=", " font-style="italic"/>
+          <text variable="volume" suffix=", "/>
+          <text variable="page" suffix="."/>
+        </else-if>
+        <else-if type="webpage">
+          <text variable="URL" prefix="Available at: " suffix=". "/>
+        </else-if>
+        <else>
+          <group suffix=". ">
+            <text macro="title"/>
+            <text variable="container-title" form="short" font-style="normal" suffix=". "/>
+            <text variable="volume" font-weight="bold" suffix=": "/>
+            <text variable="page" suffix="."/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

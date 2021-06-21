@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Evolutionary Bioinformatics</title>
+    <id>http://www.zotero.org/styles/evolutionary-bioinformatics</id>
+    <link href="http://www.zotero.org/styles/evolutionary-bioinformatics" rel="self"/>
+    <link href="http://www.zotero.org/styles/sage-vancouver" rel="independent-parent"/>
+    <link href="http://insights.sagepub.com/journal.php?pa=aims_and_scope&amp;journal_id=17" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <eissn>1176-9343</eissn>
+    <updated>2017-03-02T04:12:10+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

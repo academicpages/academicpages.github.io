@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Rapid Communications in Mass Spectrometry</title>
+    <id>http://www.zotero.org/styles/rapid-communications-in-mass-spectrometry</id>
+    <link href="http://www.zotero.org/styles/rapid-communications-in-mass-spectrometry" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/10970231/homepage/forauthors.html#ReferenceStyleandEndNote" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>0951-4198</issn>
+    <eissn>1097-0231</eissn>
+    <updated>2018-08-03T00:40:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

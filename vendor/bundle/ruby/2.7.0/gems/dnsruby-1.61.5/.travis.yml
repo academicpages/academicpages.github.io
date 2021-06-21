@@ -1,0 +1,17 @@
+language: ruby
+cache: bundler
+sudo: false
+
+before_install: gem install bundler
+
+script: "bundle exec rake test"
+
+rvm:
+  - 2.6.6
+  - 2.5.8
+  - 2.7.1
+  - ruby-head
+
+matrix:
+  allow_failures:
+    - rvm: ruby-head

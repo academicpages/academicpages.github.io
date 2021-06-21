@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of American Association for Pediatric Ophthalmology and Strabismus</title>
+    <title-short>Journal of AAPOS</title-short>
+    <id>http://www.zotero.org/styles/journal-of-american-association-for-pediatric-ophthalmology-and-strabismus</id>
+    <link href="http://www.zotero.org/styles/journal-of-american-association-for-pediatric-ophthalmology-and-strabismus" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript" rel="independent-parent"/>
+    <link href="http://www.ophsource.org/periodicals/ympa/authorinfo#org" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1091-8531</issn>
+    <eissn>1528-3933</eissn>
+    <updated>2013-03-31T16:27:04+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

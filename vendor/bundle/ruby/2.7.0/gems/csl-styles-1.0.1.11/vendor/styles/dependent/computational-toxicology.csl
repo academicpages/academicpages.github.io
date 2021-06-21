@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier, generated from "elsevier" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Computational Toxicology</title>
+    <id>http://www.zotero.org/styles/computational-toxicology</id>
+    <link href="http://www.zotero.org/styles/computational-toxicology" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-with-titles" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <issn>2468-1113</issn>
+    <updated>2016-07-25T11:35:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US" demote-non-dropping-particle="sort-only" page-range-format="expanded">
+  <info>
+    <title>Molecular Biology of the Cell</title>
+    <title-short>MBoC</title-short>
+    <id>http://www.zotero.org/styles/molecular-biology-of-the-cell</id>
+    <link href="http://www.zotero.org/styles/molecular-biology-of-the-cell" rel="self"/>
+    <link href="http://www.zotero.org/styles/cell" rel="template"/>
+    <link href="https://www.molbiolcell.org/info-for-authors" rel="documentation"/>
+    <author>
+      <name>Dani Bodor</name>
+      <email>dbodor@igc.gulbenkian.pt</email>
+    </author>
+    <contributor>
+      <name>Jessica Polka</name>
+      <email>jessica.polka@gmail.com</email>
+    </contributor>
+    <contributor>
+      <name>Patrick O'Brien</name>
+      <uri>https://twitter.com/patobrien333/</uri>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1059-1524</issn>
+    <eissn>1939-4586</eissn>
+    <summary>Molecular Biology of the Cell.</summary>
+    <updated>2019-02-08T18:31:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="no date">[no date]</term>
+      <term name="editor" form="verb-short">ed.</term>
+    </terms>
+  </locale>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text"/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <text macro="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter-precedes-last="always" initialize-with="" name-as-sort-order="all"/>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <label form="verb-short"/>
+      <name prefix=" " and="text" delimiter-precedes-last="always" initialize-with=""/>
+    </names>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="issued"/>
+      <key macro="author"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography et-al-min="11" et-al-use-first="1">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="issued" prefix="(" suffix=")."/>
+        <choose>
+          <if type="article article-magazine article-newspaper article-journal review" match="any">
+            <text variable="title" suffix="."/>
+            <group delimiter=", ">
+              <group delimiter=" ">
+                <text variable="container-title" form="short" text-case="title" strip-periods="true"/>
+                <text variable="volume" font-style="normal"/>
+              </group>
+              <text variable="page"/>
+            </group>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <text variable="title" suffix="."/>
+            <group delimiter=", ">
+              <text variable="container-title" prefix="In: " text-case="title"/>
+              <text macro="editor"/>
+              <text macro="publisher"/>
+              <text variable="page"/>
+            </group>
+          </else-if>
+          <else-if type="thesis">
+            <group delimiter=". ">
+              <text variable="title"/>
+              <text variable="genre"/>
+              <text variable="publisher"/>
+            </group>
+          </else-if>
+          <else-if type="webpage">
+            <group delimiter=". ">
+              <text variable="title"/>
+              <text variable="container-title"/>
+              <group delimiter=": ">
+                <text term="available at" text-case="capitalize-first"/>
+                <text variable="URL"/>
+              </group>
+              <group delimiter=" ">
+                <text term="accessed" text-case="capitalize-first"/>
+                <date variable="accessed">
+                  <date-part name="month" suffix=" "/>
+                  <date-part name="day" suffix=", "/>
+                  <date-part name="year"/>
+                </date>
+              </group>
+            </group>
+          </else-if>
+          <else>
+            <group delimiter=", ">
+              <text variable="title"/>
+              <text macro="publisher"/>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

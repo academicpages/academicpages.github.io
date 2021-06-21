@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" default-locale="en-US" demote-non-dropping-particle="display-and-sort">
+  <info>
+    <title>Jahrbuch der Österreichischen Byzantinischen Gesellschaft</title>
+    <id>http://www.zotero.org/styles/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft</id>
+    <link href="http://www.zotero.org/styles/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft" rel="self"/>
+    <link href="http://www.byzneo.univie.ac.at/jahrbuch-der-oesterreichischen-byzantinistik/zitierregeln-englisch/" rel="documentation"/>
+    <author>
+      <name>Adrian Drabik</name>
+      <email>adriandrabik@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <issn>0378-8660</issn>
+    <eissn>1810-536X</eissn>
+    <summary>Bibliographic style for Jahrbuch der Österreichischen Byzantinischen Gesellschaft</summary>
+    <updated>2018-05-22T00:59:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="ibid">ibid.</term>
+      <term name="page" form="short">
+        <single>p.</single>
+        <multiple>pp.</multiple>
+      </term>
+      <term name="and others">et al.</term>
+      <term name="anonymous" form="short">anon.</term>
+      <term name="circa" form="short">ca</term>
+      <term name="edition" form="short">ed.</term>
+      <term name="et-al">et al.</term>
+      <term name="in">in:</term>
+      <term name="no date" form="short">n.d.</term>
+      <term name="online">online</term>
+      <term name="volume" form="short">vol.</term>
+      <term name="chapter" form="short">chapt.</term>
+      <term name="column" form="short">col.</term>
+      <term name="figure" form="short">fig.</term>
+      <term name="folio" form="short">fol.</term>
+      <term name="issue" form="short">iss</term>
+      <term name="opus" form="short">op.</term>
+      <term name="editor" form="short">ed.</term>
+      <term name="editorial-director" form="short">ed.</term>
+      <term name="translator" form="short">trans.</term>
+      <!--DATE-->
+      <term name="month-01">january</term>
+      <term name="month-02">february</term>
+      <term name="month-03">march</term>
+      <term name="month-04">april</term>
+      <term name="month-05">may</term>
+      <term name="month-06">june</term>
+      <term name="month-07">july</term>
+      <term name="month-08">august</term>
+      <term name="month-09">september</term>
+      <term name="month-10">october</term>
+      <term name="month-11">november</term>
+      <term name="month-12">december</term>
+      <term name="month-01" form="short">jan.</term>
+      <term name="month-02" form="short">feb.</term>
+      <term name="month-03" form="short">mar.</term>
+      <term name="month-04" form="short">apr.</term>
+      <term name="month-05" form="short">may</term>
+      <term name="month-06" form="short">june</term>
+      <term name="month-07" form="short">july</term>
+      <term name="month-08" form="short">aug.</term>
+      <term name="month-09" form="short">sep.</term>
+      <term name="month-10" form="short">oct.</term>
+      <term name="month-11" form="short">nov.</term>
+      <term name="month-12" form="short">dec.</term>
+    </terms>
+  </locale>
+  <!--MACROS-->
+  <!--Contributors-->
+  <macro name="authors1">
+    <names variable="author">
+      <name sort-separator=", " initialize-with=". " delimiter=" &#8211; ">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <substitute>
+        <text macro="editors1"/>
+        <text macro="translators1"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editors1">
+    <names variable="editor">
+      <name sort-separator=", " initialize-with="." delimiter=" &#8211; ">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+    </names>
+  </macro>
+  <macro name="translators1">
+    <names variable="translator">
+      <name sort-separator=", " initialize-with=". " delimiter=" &#8211; ">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+    </names>
+  </macro>
+  <macro name="contributors-short">
+    <names variable="author">
+      <name form="short" delimiter=" &#8211; ">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <!--Titles-->
+  <macro name="title1">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <text variable="title" suffix=","/>
+      </if>
+      <else>
+        <text variable="title"/>
+        <text macro="container-title2" prefix=" (" suffix=")"/>
+        <text value="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-title1">
+    <choose>
+      <if type="article-journal article-newspaper article-magazine" match="any">
+        <text variable="container-title" form="short" quotes="false" font-style="italic"/>
+        <text variable="volume" prefix=" "/>
+        <choose>
+          <if variable="issue">
+            <date variable="issued" prefix=" (" suffix="/">
+              <date-part name="year"/>
+            </date>
+            <text variable="issue" suffix=")"/>
+          </if>
+          <else>
+            <date variable="issued" prefix=" (" suffix=")">
+              <date-part name="year"/>
+            </date>
+          </else>
+        </choose>
+      </if>
+      <else-if type="chapter paper-conference" match="any">
+        <text variable="container-title" form="short" quotes="false" prefix="in: "/>
+        <text macro="container-title2" prefix=" (" suffix=")"/>
+        <text macro="editors1" prefix=" (ed. " suffix=")"/>
+        <text value="."/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="container-title2">
+    <text variable="collection-title" text-case="title" quotes="false" font-style="italic"/>
+    <text variable="collection-number" prefix=" " font-style="italic"/>
+  </macro>
+  <!--Pages-->
+  <macro name="page">
+    <choose>
+      <if variable="locator">
+        <text variable="locator"/>
+      </if>
+      <else>
+        <text variable="page"/>
+      </else>
+    </choose>
+  </macro>
+  <!--other-->
+  <macro name="issued1">
+    <date variable="issued">
+      <date-part name="year" suffix=""/>
+    </date>
+  </macro>
+  <!--Citation-->
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true">
+    <layout prefix="" suffix="." delimiter="; ">
+      <choose>
+        <if position="subsequent">
+          <group delimiter=", ">
+            <text macro="contributors-short"/>
+            <group delimiter=" ">
+              <text variable="title" form="short"/>
+              <text variable="locator"/>
+            </group>
+          </group>
+        </if>
+        <else>
+          <group delimiter=", ">
+            <text macro="authors1"/>
+            <group delimiter=" ">
+              <text macro="title1"/>
+              <text macro="container-title1"/>
+              <text variable="publisher-place"/>
+              <choose>
+                <if type="article-journal article-newspaper article-magazine" match="none">
+                  <text macro="issued1"/>
+                </if>
+              </choose>
+              <choose>
+                <if type="book chapter paper-conference" match="none">
+                  <text macro="page"/>
+                </if>
+              </choose>
+            </group>
+            <choose>
+              <if type="book chapter paper-conference" match="any">
+                <text macro="page"/>
+              </if>
+            </choose>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <!--Bibliography-->
+  <bibliography hanging-indent="true" et-al-min="11" et-al-use-first="7" subsequent-author-substitute="&#8212;&#8212;&#8212;" entry-spacing="0">
+    <sort>
+      <key macro="authors1"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=", ">
+        <text macro="authors1"/>
+        <group delimiter=" ">
+          <text macro="title1"/>
+          <text macro="container-title1"/>
+          <text variable="publisher-place"/>
+          <choose>
+            <if type="article-journal article-newspaper article-magazine" match="none">
+              <text macro="issued1"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="book chapter paper-conference" match="none">
+              <text macro="page"/>
+            </if>
+          </choose>
+        </group>
+        <choose>
+          <if type="book chapter paper-conference" match="any">
+            <text macro="page"/>
+          </if>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

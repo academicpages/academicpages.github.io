@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never">
+  <!-- Polyglot; journal publishes in English and Italian -->
+  <info>
+    <title>Geografia Fisica e Dinamica Quaternaria</title>
+    <title-short>GFDQ</title-short>
+    <id>http://www.zotero.org/styles/geografia-fisica-e-dinamica-quaternaria</id>
+    <link href="http://www.zotero.org/styles/geografia-fisica-e-dinamica-quaternaria" rel="self"/>
+    <link href="http://gfdq.glaciologia.it/submitting/" rel="documentation"/>
+    <author>
+      <name>Riccardo Cerrato</name>
+      <email>riccardo.cerrato@dst.unipi.it</email>
+    </author>
+    <contributor>
+      <name>Silas Dean (University of Pisa)</name>
+    </contributor>
+    <category citation-format="author-date"/>
+    <category field="geography"/>
+    <category field="geology"/>
+    <issn>0391-9838</issn>
+    <eissn>1724-4781</eissn>
+    <updated>2020-10-26T15:50:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale>
+    <terms>
+      <term name="et-al">&amp; alii</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author" font-variant="normal">
+      <name font-variant="small-caps" and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+      <label font-variant="small-caps"/>
+      <substitute>
+        <names variable="editor" font-variant="normal">
+          <name font-variant="small-caps" and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+          <label form="short" text-case="capitalize-first" font-variant="normal" prefix=" [" suffix="]"/>
+        </names>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author" suffix=",">
+      <name form="short" and="symbol" delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1" name-as-sort-order="first"/>
+      <et-al font-style="italic" font-variant="normal" font-weight="normal"/>
+      <substitute>
+        <names variable="editor" suffix=","/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date date-parts="year" form="numeric" variable="issued" prefix=" (" suffix=")"/>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if type="book" match="any">
+        <text variable="number-of-pages" prefix=" " suffix=" pp"/>
+      </if>
+      <else-if type="chapter" match="any">
+        <text variable="page" prefix=", " suffix=" pp"/>
+      </else-if>
+      <else-if type="thesis" match="any">
+        <text variable="number-of-pages" prefix=" " suffix=" pp"/>
+      </else-if>
+      <else-if type="report" match="any">
+        <text variable="page" prefix=" " suffix=" pp."/>
+      </else-if>
+      <else>
+        <group>
+          <text variable="container-title" prefix=" "/>
+          <text variable="volume" prefix=", "/>
+          <text variable="issue" prefix=" (" suffix=")"/>
+        </group>
+        <text variable="page" prefix=", "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-short">
+    <date date-parts="year" form="text" variable="issued" prefix=" "/>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if match="any" variable="author">
+        <names variable="editor" prefix=" ">
+          <name font-variant="normal" prefix=" " and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+          <label form="short" text-case="capitalize-first" prefix=" (" suffix="),"/>
+        </names>
+      </if>
+      <else>
+        <names variable="editor">
+          <name font-variant="small-caps" and="symbol" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all" sort-separator=" "/>
+          <label form="short" text-case="capitalize-first" prefix=" [" suffix="]"/>
+        </names>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor-short">
+    <names variable="editor" suffix=",">
+      <name form="short" and="symbol" delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1"/>
+      <et-al font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title" font-style="italic" prefix=" - " suffix="."/>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher" prefix=" " suffix=","/>
+    <text variable="publisher-place" prefix=" " suffix=","/>
+    <text variable="number" prefix=" version: "/>
+  </macro>
+  <macro name="publication">
+    <choose>
+      <if type="chapter" match="any">
+        <text variable="container-title" text-case="capitalize-first" strip-periods="false" prefix=" In: " suffix="."/>
+      </if>
+      <else>
+        <text variable="container-title" text-case="capitalize-first" prefix=" " suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="DOI">
+    <text variable="DOI"/>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year" cite-group-delimiter=",">
+    <sort>
+      <key macro="issued-short"/>
+      <key macro="author-short" names-min="3" names-use-first="1" names-use-last="false"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <choose>
+        <if type="book" match="all">
+          <choose>
+            <if match="none" variable="author">
+              <group>
+                <text macro="editor-short" strip-periods="false"/>
+                <text macro="issued-short"/>
+              </group>
+            </if>
+            <else>
+              <group>
+                <text macro="author-short"/>
+                <text macro="issued-short"/>
+              </group>
+            </else>
+          </choose>
+        </if>
+        <else>
+          <group>
+            <text macro="author-short" strip-periods="false" font-weight="normal"/>
+            <text macro="issued-short"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" line-spacing="2" hanging-indent="true">
+    <sort>
+      <key macro="author" names-min="1" names-use-first="1"/>
+      <key macro="issued"/>
+      <key macro="title"/>
+    </sort>
+    <layout>
+      <group suffix=".">
+        <choose>
+          <if type="book" match="any">
+            <choose>
+              <if match="any" variable="author">
+                <text macro="author"/>
+                <text macro="issued"/>
+                <text macro="title"/>
+                <text macro="editor"/>
+                <text macro="publisher"/>
+                <text macro="locators"/>
+              </if>
+              <else>
+                <text macro="editor"/>
+                <text macro="issued"/>
+                <text macro="title"/>
+                <text macro="publisher"/>
+                <text macro="locators"/>
+              </else>
+            </choose>
+          </if>
+          <else-if type="chapter" match="any">
+            <text macro="author"/>
+            <text macro="issued"/>
+            <text macro="title"/>
+            <text macro="publication"/>
+            <text macro="editor"/>
+            <text macro="publisher"/>
+            <text macro="locators"/>
+          </else-if>
+          <else-if type="thesis" match="any">
+            <text macro="author"/>
+            <text macro="issued"/>
+            <text macro="title"/>
+            <text variable="genre" prefix=" " suffix=","/>
+            <text macro="publisher"/>
+            <text macro="locators"/>
+          </else-if>
+          <else-if type="report" match="any">
+            <text macro="author"/>
+            <text macro="issued"/>
+            <text macro="title"/>
+            <text macro="publication" font-style="normal" prefix=" "/>
+            <text macro="editor"/>
+            <text macro="publisher"/>
+            <text macro="locators"/>
+          </else-if>
+          <else>
+            <group suffix=".">
+              <text macro="author"/>
+              <text macro="issued"/>
+              <text macro="title" suffix="."/>
+              <choose>
+                <if type="article-journal article-magazine article-newspaper" match="none">
+                  <text macro="publisher"/>
+                </if>
+              </choose>
+              <text macro="locators" suffix="."/>
+            </group>
+          </else>
+        </choose>
+      </group>
+      <text macro="DOI" prefix=" doi: "/>
+    </layout>
+  </bibliography>
+</style>

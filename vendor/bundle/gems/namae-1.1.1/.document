@@ -1,0 +1,7 @@
+lib/**/*.rb
+bin/*
+- 
+features/**/*.feature
+AGPL
+BSDL
+README.md

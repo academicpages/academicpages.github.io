@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="et-EE">
+  <info>
+    <translator>
+      <name>Andrew Dunning</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" form="ordinal" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="."/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">vaadatud</term>
+    <term name="and">ja</term>
+    <term name="and others">ja teised</term>
+    <term name="anonymous">anonüümne</term>
+    <term name="anonymous" form="short">anon</term>
+    <term name="at"></term>
+    <term name="available at">available at</term>
+    <term name="by"></term>
+    <term name="circa">umbes</term>
+    <term name="circa" form="short">u</term>
+    <term name="cited">tsiteeritud</term>
+    <term name="edition">
+      <single>väljaanne</single>
+      <multiple>väljaanded</multiple>
+    </term>
+    <term name="edition" form="short">tr</term>
+    <term name="et-al">et al.</term>
+    <term name="forthcoming">ilmumisel</term>
+    <term name="from"></term>
+    <term name="ibid">ibid.</term>
+    <term name="in"></term>
+    <term name="in press">trükis</term>
+    <term name="internet">internet</term>
+    <term name="interview">intervjuu</term>
+    <term name="letter">kiri</term>
+    <term name="no date">s.a.</term>
+    <term name="no date" form="short">s.a.</term>
+    <term name="online">online</term>
+    <term name="presented at">esitatud</term>
+    <term name="reference">
+      <single>viide</single>
+      <multiple>viited</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>viide</single>
+      <multiple>viited</multiple>
+    </term>
+    <term name="retrieved">salvestatud</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">pKr</term>
+    <term name="bc">eKr</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">„</term>
+    <term name="close-quote">“</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">.</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">esimene</term>
+    <term name="long-ordinal-02">teine</term>
+    <term name="long-ordinal-03">kolmas</term>
+    <term name="long-ordinal-04">neljas</term>
+    <term name="long-ordinal-05">viies</term>
+    <term name="long-ordinal-06">kuues</term>
+    <term name="long-ordinal-07">seitsmes</term>
+    <term name="long-ordinal-08">kaheksas</term>
+    <term name="long-ordinal-09">üheksas</term>
+    <term name="long-ordinal-10">kümnes</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>raamat</single>
+      <multiple>raamatud</multiple>
+    </term>
+    <term name="chapter">
+      <single>peatükk</single>
+      <multiple>peatükid</multiple>
+    </term>
+    <term name="column">
+      <single>veerg</single>
+      <multiple>veerud</multiple>
+    </term>
+    <term name="figure">
+      <single>joonis</single>
+      <multiple>joonised</multiple>
+    </term>
+    <term name="folio">
+      <single>foolio</single>
+      <multiple>fooliod</multiple>
+    </term>
+    <term name="issue">
+      <single>number</single>
+      <multiple>numbrid</multiple>
+    </term>
+    <term name="line">
+      <single>rida</single>
+      <multiple>read</multiple>
+    </term>
+    <term name="note">
+      <single>viide</single>
+      <multiple>viited</multiple>
+    </term>
+    <term name="opus">
+      <single>opus</single>
+      <multiple>opera</multiple>
+    </term>
+    <term name="page">
+      <single>lehekülg</single>
+      <multiple>leheküljed</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>lehekülg</single>
+      <multiple>leheküljed</multiple>
+    </term>
+    <term name="paragraph">
+      <single>lõik</single>
+      <multiple>lõigud</multiple>
+    </term>
+    <term name="part">
+      <single>osa</single>
+      <multiple>osad</multiple>
+    </term>
+    <term name="section">
+      <single>alajaotis</single>
+      <multiple>alajaotised</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>värss</single>
+      <multiple>värsid</multiple>
+    </term>
+    <term name="volume">
+      <single>köide</single>
+      <multiple>köited</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">rmt</term>
+    <term name="chapter" form="short">ptk</term>
+    <term name="column" form="short">v</term>
+    <term name="figure" form="short">joon</term>
+    <term name="folio" form="short">f</term>
+    <term name="issue" form="short">nr</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op</term>
+    <term name="page" form="short">
+      <single>lk</single>
+      <multiple>lk</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>lk</single>
+      <multiple>lk</multiple>
+    </term>
+    <term name="paragraph" form="short">lõik</term>
+    <term name="part" form="short">osa</term>
+    <term name="section" form="short">alajaot.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>v</single>
+      <multiple>vv</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>kd</single>
+      <multiple>kd</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
+    <term name="editor">
+      <single>toimetaja</single>
+      <multiple>toimetajad</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>toimetaja</single>
+      <multiple>toimetajad</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
+    </term>
+    <term name="translator">
+      <single>tõlkija</single>
+      <multiple>tõlkijad</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>toimetaja &amp; tõlkija</single>
+      <multiple>toimetajad &amp; tõlkijad</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>toim</single>
+      <multiple>toim</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>toim</single>
+      <multiple>toim</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>tõlk</single>
+      <multiple>tõlk</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>toim &amp; tõlk</single>
+      <multiple>toim &amp; tõlk</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb"></term>
+    <term name="director" form="verb">directed by</term>
+    <term name="editor" form="verb">toimetanud</term>
+    <term name="editorial-director" form="verb">toimetanud</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">intervjueerinud</term>
+    <term name="recipient" form="verb"></term>
+    <term name="reviewed-author" form="verb">by</term>
+    <term name="translator" form="verb">tõlkinud</term>
+    <term name="editortranslator" form="verb">toimetanud &amp; tõlkinud</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">toim</term>
+    <term name="editorial-director" form="verb-short">toim</term>
+    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="translator" form="verb-short">tõlk</term>
+    <term name="editortranslator" form="verb-short">toim &amp; tõlk</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">jaanuar</term>
+    <term name="month-02">veebruar</term>
+    <term name="month-03">märts</term>
+    <term name="month-04">aprill</term>
+    <term name="month-05">mai</term>
+    <term name="month-06">juuni</term>
+    <term name="month-07">juuli</term>
+    <term name="month-08">august</term>
+    <term name="month-09">september</term>
+    <term name="month-10">oktoober</term>
+    <term name="month-11">november</term>
+    <term name="month-12">detsember</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">jaan</term>
+    <term name="month-02" form="short">veebr</term>
+    <term name="month-03" form="short">märts</term>
+    <term name="month-04" form="short">apr</term>
+    <term name="month-05" form="short">mai</term>
+    <term name="month-06" form="short">juuni</term>
+    <term name="month-07" form="short">juuli</term>
+    <term name="month-08" form="short">aug</term>
+    <term name="month-09" form="short">sept</term>
+    <term name="month-10" form="short">okt</term>
+    <term name="month-11" form="short">nov</term>
+    <term name="month-12" form="short">dets</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">kevad</term>
+    <term name="season-02">suvi</term>
+    <term name="season-03">sügis</term>
+    <term name="season-04">talv</term>
+  </terms>
+</locale>

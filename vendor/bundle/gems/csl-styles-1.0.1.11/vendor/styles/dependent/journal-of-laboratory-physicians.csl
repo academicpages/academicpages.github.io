@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Laboratory Physicians</title>
+    <id>http://www.zotero.org/styles/journal-of-laboratory-physicians</id>
+    <link href="http://www.zotero.org/styles/journal-of-laboratory-physicians" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-superscript-brackets-only-year" rel="independent-parent"/>
+    <link href="http://www.jlponline.org/contributors.asp#ref" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0974-2727</issn>
+    <eissn>0974-7826</eissn>
+    <updated>2014-05-12T02:00:39+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

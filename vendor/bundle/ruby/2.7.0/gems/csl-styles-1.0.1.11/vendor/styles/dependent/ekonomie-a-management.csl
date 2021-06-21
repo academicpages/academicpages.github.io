@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Ekonomie a Management</title>
+    <title-short>E+M</title-short>
+    <id>http://www.zotero.org/styles/ekonomie-a-management</id>
+    <link href="http://www.zotero.org/styles/ekonomie-a-management" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://www.ekonomie-management.cz/en/detail-instructions-for-authors/" rel="documentation"/>
+    <author>
+      <name>Libor Ansorge</name>
+      <email>libor.ansorge@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="social_science"/>
+    <issn>1212-3609</issn>
+    <eissn>2336-5604</eissn>
+    <summary>Style for yournal E+M Ekonomie a Management. Style based on APA</summary>
+    <updated>2015-05-14T17:05:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>Journal of Korean Neurosurgical Society</title>
+    <title-short>J Korean Neurosurg Soc</title-short>
+    <id>http://www.zotero.org/styles/journal-of-korean-neurosurgical-society</id>
+    <link href="http://www.zotero.org/styles/journal-of-korean-neurosurgical-society" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-journal-of-translational-research" rel="template"/>
+    <link href="http://www.jkns.or.kr/authors/authors.php" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien, PhD</name>
+      <email>obrienpat86@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>2005-3711</issn>
+    <eissn>1598-7876</eissn>
+    <updated>2017-07-08T04:19:41+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=" :">
+      <name delimiter-precedes-last="always" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name delimiter-precedes-last="always" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place" suffix=" : "/>
+    <text variable="publisher" suffix=", "/>
+    <text macro="year-date"/>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" suffix="."/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number" sort="ascending"/>
+    </sort>
+    <layout vertical-align="sup" delimiter="," suffix=")">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush" line-spacing="2">
+    <sort>
+      <key macro="author"/>
+    </sort>
+    <layout>
+      <text variable="citation-number" suffix="."/>
+      <text macro="author" suffix=". "/>
+      <choose>
+        <if type="book">
+          <group delimiter=". ">
+            <text variable="title" font-weight="bold"/>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </if>
+        <else-if type="chapter">
+          <text variable="title" suffix=". "/>
+          <text term="in" suffix=" "/>
+          <text macro="editor" suffix=" : "/>
+          <text variable="container-title" text-case="capitalize-first" font-weight="bold" suffix=", "/>
+          <text macro="edition" suffix=". "/>
+          <text macro="publisher" suffix=": "/>
+          <text variable="volume" form="short" text-case="capitalize-first" suffix=" "/>
+          <number variable="volume" suffix=", "/>
+          <group>
+            <label strip-periods="true" variable="page" form="short"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=". ">
+            <text variable="title"/>
+            <text variable="genre"/>
+            <text variable="publisher"/>
+            <text macro="year-date"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=" ">
+            <text variable="title" suffix="."/>
+            <text variable="container-title" form="short" text-case="title" strip-periods="true" font-weight="bold" prefix=" "/>
+            <text variable="volume" suffix=" :"/>
+            <text variable="page" suffix=","/>
+            <text macro="year-date" prefix=" "/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>Mélanges de l'Ecole française de Rome - Italie et Méditerranée modernes et contemporaines</title>
+    <id>http://www.zotero.org/styles/melanges-de-l-ecole-francaise-de-rome-italie-et-mediterranee-modernes-et-contemporaines</id>
+    <link href="http://www.zotero.org/styles/melanges-de-l-ecole-francaise-de-rome-italie-et-mediterranee-modernes-et-contemporaines" rel="self"/>
+    <link href="http://www.zotero.org/styles/chroniques-des-activites-archeologiques-de-l-ecole-francaise-de-rome" rel="independent-parent"/>
+    <link href="http://mefrim.revues.org/407" rel="documentation"/>
+    <author>
+      <name>Nicolas Monteix</name>
+      <email>nicolas.monteix@univ-rouen.fr</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="history"/>
+    <category field="anthropology"/>
+    <issn>1123-9891</issn>
+    <eissn>1724-2142</eissn>
+    <summary>Style reprenant les normes des Mélanges de l'Ecole française de Rome - Italie et Méditerranée. Pour les volumes collectifs anonymes, penser à donner le titre abrégé du volume à l'article, tant que Zotero ne reconnaîtra pas la forme réduite des 'containers'.</summary>
+    <updated>2019-09-18T02:40:04+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

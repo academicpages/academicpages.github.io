@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Sociology</title>
+    <id>http://www.zotero.org/styles/sociology</id>
+    <link href="http://www.zotero.org/styles/sociology" rel="self"/>
+    <link href="http://www.zotero.org/styles/sage-harvard" rel="independent-parent"/>
+    <link href="http://mc.manuscriptcentral.com/societyimages/soc/SOC%20General%20Notes%20to%20Contributors%202013.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="sociology"/>
+    <issn>0038-0385</issn>
+    <eissn>1469-8684</eissn>
+    <updated>2013-09-02T06:15:27+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

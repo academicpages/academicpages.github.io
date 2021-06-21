@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/iop -->
+  <info>
+    <title>The Astrophysical Journal Letters</title>
+    <id>http://www.zotero.org/styles/the-astrophysical-journal-letters</id>
+    <link href="http://www.zotero.org/styles/the-astrophysical-journal-letters" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-astrophysical-journal" rel="independent-parent"/>
+    <link href="http://aas.org/authors/manuscript-preparation-aj-apj-author-instructions#references" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="physics"/>
+    <issn>2041-8205</issn>
+    <eissn>2041-8213</eissn>
+    <updated>2017-05-23T15:58:56+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	type:ETI"Kramdown::Element#type;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"LA symbol representing the element type. For example, :p or :blockquote.;T:
+@fileI"lib/kramdown/element.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Kramdown::Element;TcRDoc::NormalClass0

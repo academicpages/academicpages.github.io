@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" default-locale="en-US" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded">
+  <info>
+    <title>SPIE journals</title>
+    <id>http://www.zotero.org/styles/spie-journals</id>
+    <link href="http://www.zotero.org/styles/spie-journals" rel="self"/>
+    <link href="http://spie.org/x85036.xml" rel="documentation"/>
+    <author>
+      <name>Yurkin Maxim</name>
+      <email>yurkin@gmail.com</email>
+      <uri>http://sites.google.com/site/yurkin/</uri>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <category field="engineering"/>
+    <summary>Designed for SPIE journals, based on information at http://spie.org/x85036.xml and sample .docx manuscript given there (http://spie.org/Documents/Publications/Journals/journal%20Word%20template.doc). The latter probably originated from the style for e-journals (which was previously available at http://spie.org/x3658.xml), and thus slightly contradicts former requirements. The differences are:
+    1) style on the web page requires using et al., when there are more than three authors - we follow this rule.
+    2) style in the sample manuscript asks to add DOI if available, while the style on the web page says nothing about it - we do include DOI (this should not harm in all cases).
+    Also previous versions of this style were based on more detailed instructions for SPIE e-journals (including larger number of document types). Those details are present in the current version as well, but no more supported by a documented style.</summary>
+    <published>2009-10-24T23:00:00+06:00</published>
+    <updated>2015-03-19T02:36:13+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- Locale terms -->
+  <locale xml:lang="en">
+    <terms>
+      <term name="presented at">presented at</term>
+    </terms>
+  </locale>
+  <!-- Macros -->
+  <macro name="type-number">
+    <!-- document type and number (thesis, patent, report, manuscript) -->
+    <group delimiter=" ">
+      <choose>
+        <if type="patent" match="none">
+          <!-- this is used for entries like 'Report', 'PhD thesis', 'submitted to ...' (for manuscripts) -->
+          <text variable="genre"/>
+        </if>
+      </choose>
+      <text variable="number"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group prefix=", " delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" prefix=", "/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize-with=". " delimiter=", " and="text"/>
+      <label form="short" prefix=", " text-case="title"/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with=". " delimiter=", " and="text"/>
+      <label form="short" prefix=", " text-case="title"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <!-- Includes edition number for books -->
+    <choose>
+      <if type="report">
+        <!-- special case, otherwise it will fallback to book -->
+        <text variable="title" quotes="true"/>
+      </if>
+      <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+        <text macro="edition"/>
+      </else-if>
+      <else>
+        <text variable="title" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <!-- Includes publisher place except for thesis -->
+    <choose>
+      <if type="thesis">
+        <text variable="publisher"/>
+      </if>
+      <else>
+        <group delimiter=", ">
+          <text variable="publisher"/>
+          <text variable="publisher-place"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="access">
+    <!-- DOI, otherwise URL (for webpages only) -->
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix=" [doi:" suffix="]"/>
+      </if>
+      <else-if type="webpage">
+        <text variable="URL" prefix="&lt;" suffix="&gt;"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issued">
+    <!-- full date -->
+    <date variable="issued">
+      <date-part name="day" suffix=" "/>
+      <date-part name="month" form="long" suffix=" "/>
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="issued-year">
+    <!-- year in brackets -->
+    <date variable="issued" prefix=" (" suffix=")">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="accessed">
+    <!-- full date in brackets -->
+    <date variable="accessed" prefix=" (accessed " suffix=")">
+      <date-part name="day" suffix=" "/>
+      <date-part name="month" form="long" suffix=" "/>
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="page">
+    <!-- for journal articles without any additional text -->
+    <choose>
+      <if type="article-journal">
+        <text variable="page"/>
+      </if>
+      <else>
+        <group delimiter=" ">
+          <label variable="page" form="short"/>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-prefix">
+    <choose>
+      <if type="webpage article-journal" match="none">
+        <text term="in" suffix=" "/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="locators">
+    <!--volume is always added (including book chapters), followed by issue in parentheses for journal articles -->
+    <text variable="volume" prefix=" " font-weight="bold"/>
+    <text variable="issue" prefix="(" suffix=")"/>
+  </macro>
+  <macro name="container">
+    <!-- Includes volume and edition (if container-title exist) -->
+    <choose>
+      <if variable="container-title">
+        <!-- Here additional 'Chap. #' is sometimes needed but Zotero do not currently have a field 'chapter number' for book chapter item  -->
+        <text macro="container-prefix"/>
+        <choose>
+          <!-- Special field for short form of container title is only available for journal papers. However, Word plugin (and potentially other CSL processors) has the option to automatically abbreviate (all) container titles. In most cases (other than journal papers) that is not desirable. Unfortunately, testing for variable="container-title-short" does not help, since the above option effectively creates this variable (probably, this can be considered as a bug of CSL processor). So we use abbreviated titles (either manual or automatic) only for journal papers. -->
+          <if type="article-journal">
+            <text variable="container-title" form="short"/>
+          </if>
+          <else>
+            <text variable="container-title"/>
+          </else>
+        </choose>
+        <text macro="locators"/>
+        <text macro="edition"/>
+      </if>
+      <else-if type="paper-conference">
+        <!-- special case for conference paper without proceedings -->
+        <group delimiter=" ">
+          <text term="presented at"/>
+          <text variable="event"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- Citation -->
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <!-- Bibliography -->
+  <bibliography et-al-min="4" et-al-use-first="1" entry-spacing="0" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <text macro="author" suffix=", "/>
+      <choose>
+        <if type="webpage">
+          <!-- separate case due to location of 'issued' date in the middle -->
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text macro="container"/>
+            <text macro="issued"/>
+            <text macro="access"/>
+          </group>
+          <text macro="accessed"/>
+        </if>
+        <else-if type="report">
+          <!-- separate case due to location of 'page' after the publisher (wierd!) -->
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text macro="type-number"/>
+            <text macro="publisher"/>
+            <text macro="page"/>
+          </group>
+          <text macro="issued-year"/>
+          <text macro="access"/>
+        </else-if>
+        <else-if type="paper-conference">
+          <!-- becomes a separate case, when no proceedings are available -->
+          <choose>
+            <if variable="container-title">
+              <!-- with proceedings, same as book chapter -->
+              <group delimiter=", ">
+                <text macro="title"/>
+                <text macro="container"/>
+                <text macro="editor"/>
+                <text macro="page"/>
+                <text macro="publisher"/>
+              </group>
+              <text macro="issued-year"/>
+            </if>
+            <else>
+              <!-- without proceedings -->
+              <group delimiter=", ">
+                <text macro="title"/>
+                <text macro="container"/>
+                <!-- Zotero 4.0 does not support date ranges, which are common for conferences. However, it should start working without any changes to the style once Zotero's handling of 'date' fields will improve. -->
+                <text macro="issued"/>
+                <text variable="event-place"/>
+                <text variable="page"/>
+                <!-- this is for something like 'Paper X35B' - assuming it is located in 'Pages' field (argueable) -->
+                <text variable="publisher"/>
+                <!-- place and publisher are interchanged, that's why corresponding macro is not used -->
+              </group>
+            </else>
+          </choose>
+          <text macro="access"/>
+        </else-if>
+        <else-if type="interview">
+          <!-- this is a workaround for Personal Communications -->
+          <group delimiter=", ">
+            <text variable="note"/>
+            <!-- 'Extra' field is supposed to contain author's affiliation (can't devise a better field) -->
+            <text variable="medium"/>
+            <!-- This is supposed to hold communication type, like 'Personal(Private) Communication'-->
+          </group>
+          <text macro="issued-year"/>
+        </else-if>
+        <else>
+          <!--- general sequence, supposed to work for everything that is not considered above -->
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text macro="type-number"/>
+            <text macro="container"/>
+            <text macro="editor"/>
+            <text macro="page"/>
+            <text macro="publisher"/>
+          </group>
+          <text macro="issued-year"/>
+          <text macro="access"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

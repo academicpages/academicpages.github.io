@@ -1,0 +1,39 @@
+Bibliography
+============
+
+Here is a little bibliography to illustrate how *BibTeX* and
+*Markdown* can be seamlessly integrated. This is a _valid_ BibTeX
+File; at the same time its comments are written using Markdown
+markup. For example, this is a list:
+
+* More interestingly, though, we can also include
+* any BibTeX object we want.
+
+It will not show up in the HTML, but here we define a string:
+
+@string{ thoreau = "Thoreau, Henry David" }
+@string{ nyc = "New York" }
+
+Now we can add a few BibTeX entries and convert them to text
+for inclusion.
+
+In the HTML version we will print the BibTeX entries in a simple
+text format instead.
+
+@book{key,
+  author = thoreau,
+  title = {Walden; or Life in the Woods},
+  publisher = "Dover",
+  address = nyc,
+  year = 1995
+}
+
+@book{poe,
+	author = {Poe, Edgar Allen},
+	title = "Poetry, Tales, and Selected Essays",
+	address = nyc,
+	publisher = "Library of America",
+	year = 1996
+}
+
+Neat, huh?

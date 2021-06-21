@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Drugs of the Future</title>
+    <id>http://www.zotero.org/styles/drugs-of-the-future</id>
+    <link href="http://www.zotero.org/styles/drugs-of-the-future" rel="self"/>
+    <link href="http://www.zotero.org/styles/drugs-of-today" rel="independent-parent"/>
+    <link href="http://journals.prous.com/journals/servlet/xmlxsl/pk_journals.xml_instauthors_pr?p_JournalID=4" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <issn>0377-8282</issn>
+    <eissn>2013-0368</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

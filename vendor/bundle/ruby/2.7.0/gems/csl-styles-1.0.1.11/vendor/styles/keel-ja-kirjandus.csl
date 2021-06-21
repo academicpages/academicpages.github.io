@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="et-EE">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Keel ja Kirjandus (Estonian)</title>
+    <title-short>K&amp;K</title-short>
+    <id>http://www.zotero.org/styles/keel-ja-kirjandus</id>
+    <link href="http://www.zotero.org/styles/keel-ja-kirjandus" rel="self"/>
+    <link href="http://www.zotero.org/styles/deutsche-sprache" rel="template"/>
+    <link xml:lang="et" href="http://kjk.eki.ee/ee/pages/5" rel="documentation"/>
+    <author>
+      <name>Kristel Uiboaed</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="linguistics"/>
+    <category field="literature"/>
+    <issn>0131-1441</issn>
+    <eissn>2346-6014</eissn>
+    <summary>Style for Estonian linguistic journal Keel ja Kirjandus. Modified version of Deutsche Sprache (German). Editied by University of Tartu Library.</summary>
+    <updated>2018-08-06T04:20:03+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="et">
+    <terms>
+      <term name="et-al">jt</term>
+      <term name="editor" form="short">Toim</term>
+      <term name="online">Veebiaadress</term>
+    </terms>
+  </locale>
+  <macro name="creator-year-long">
+    <group delimiter=" ">
+      <names variable="author">
+        <name et-al-min="15" et-al-use-first="14" name-as-sort-order="all"/>
+        <label form="short" prefix=" (" suffix=")"/>
+        <substitute>
+          <names variable="editor"/>
+        </substitute>
+      </names>
+      <date date-parts="year" form="text" variable="issued"/>
+    </group>
+  </macro>
+  <macro name="editor-container-title">
+    <group delimiter=": ">
+      <text term="in" text-case="capitalize-first"/>
+      <group delimiter=". " suffix=".">
+        <text variable="container-title" prefix="&#8211; "/>
+        <names variable="editor">
+          <label form="short" suffix=" "/>
+          <name et-al-min="6" et-al-use-first="5"/>
+        </names>
+      </group>
+    </group>
+  </macro>
+  <macro name="publication-place-publisher">
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="creator-year-short">
+    <group delimiter=" ">
+      <text macro="creator-short"/>
+      <date date-parts="year" form="text" variable="issued"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if match="any" is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="collection-title-number">
+    <group delimiter=" " prefix="(" suffix=")">
+      <text variable="collection-title"/>
+      <text variable="collection-number" suffix="."/>
+    </group>
+  </macro>
+  <macro name="page-range">
+    <group delimiter=" ">
+      <text term="page" form="short"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+  <macro name="online-url">
+    <group delimiter=": ">
+      <text term="online" text-case="capitalize-first"/>
+      <text variable="URL" font-style="italic" suffix=".[Vaadatud: ]"/>
+    </group>
+  </macro>
+  <macro name="container-title-volume">
+    <group delimiter=" ">
+      <text variable="container-title" prefix="&#8211; " suffix=", "/>
+      <text variable="volume" prefix="kd " suffix=","/>
+      <text variable="issue" prefix="nr "/>
+    </group>
+  </macro>
+  <macro name="creator-short">
+    <names variable="author">
+      <name form="short"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix">
+    <layout delimiter="; " prefix="(" suffix=")">
+      <choose>
+        <if position="ibid-with-locator">
+          <group delimiter=", ">
+            <text term="ibid"/>
+            <group delimiter=" ">
+              <text term="page" form="symbol"/>
+              <text variable="locator"/>
+            </group>
+          </group>
+        </if>
+        <else-if position="ibid">
+          <text term="ibid"/>
+        </else-if>
+        <else>
+          <group delimiter=": ">
+            <text macro="creator-year-short"/>
+            <group delimiter=" ">
+              <text variable="locator"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="1">
+    <sort>
+      <key macro="creator-short"/>
+      <key macro="creator-year-short"/>
+    </sort>
+    <layout>
+      <group delimiter=". " suffix=".">
+        <group delimiter=". ">
+          <text macro="creator-year-long"/>
+          <text variable="title"/>
+        </group>
+        <choose>
+          <if type="book" match="any">
+            <group delimiter=". ">
+              <text macro="edition"/>
+              <text macro="publication-place-publisher"/>
+              <text macro="collection-title-number"/>
+            </group>
+          </if>
+          <else-if type="article-journal article-magazine article-newspaper" match="any">
+            <group delimiter=", ">
+              <group delimiter=": ">
+                <text term="in" text-case="capitalize-first"/>
+                <text macro="container-title-volume"/>
+              </group>
+              <text macro="page-range"/>
+            </group>
+          </else-if>
+          <else-if type="chapter" match="any">
+            <group delimiter=" ">
+              <text macro="editor-container-title"/>
+              <text macro="collection-title-number"/>
+              <text macro="edition"/>
+              <text macro="publication-place-publisher" suffix=", "/>
+              <text macro="page-range"/>
+            </group>
+          </else-if>
+          <else>
+            <group delimiter=". ">
+              <choose>
+                <if match="any" variable="container-title">
+                  <text macro="editor-container-title"/>
+                </if>
+              </choose>
+              <text macro="publication-place-publisher"/>
+              <text macro="page-range"/>
+              <text macro="collection-title-number"/>
+              <text macro="online-url"/>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

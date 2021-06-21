@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="cy-GB">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2014-10-08T12:00:00+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="year"/>
+  </date>
+  <terms>
+    <term name="accessed">gwelwyd</term>
+    <term name="and">a/ac</term>
+    <term name="and others">ac eraill</term>
+    <term name="anonymous">di-enw</term>
+    <term name="anonymous" form="short">dienw</term>
+    <term name="at">at</term>
+    <term name="available at">ar gael</term>
+    <term name="by">gan</term>
+    <term name="circa">circa</term>
+    <term name="circa" form="short">c.</term>
+    <term name="cited">dyfynnwyd</term>
+    <term name="edition">
+      <single>argraffiad</single>
+      <multiple>argraffiadau</multiple>
+    </term>
+    <term name="edition" form="short">arg.</term>
+    <term name="et-al">et al.</term>
+    <term name="forthcoming">ar fin ymddangos</term>
+    <term name="from">gan</term>
+    <term name="ibid">ibid.</term>
+    <term name="in">yn</term>
+    <term name="in press">yn y wasg</term>
+    <term name="internet">rhyngrwyd</term>
+    <term name="interview">cyfweliad</term>
+    <term name="letter">llythyr</term>
+    <term name="no date">dim dyddiad</term>
+    <term name="no date" form="short">d.d.</term>
+    <term name="online">arlein</term>
+    <term name="presented at">cyflwynwyd yn</term>
+    <term name="reference">
+      <single>cyfeirnod</single>
+      <multiple>cyfeirnodau</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>cyf.</single>
+      <multiple>cyf’au.</multiple>
+    </term>
+    <term name="retrieved">gwelwyd</term>
+    <term name="scale">graddfa</term>
+    <term name="version">fersiwn</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">OC</term>
+    <term name="bc">CC</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">‘</term>
+    <term name="close-quote">’</term>
+    <term name="open-inner-quote">“</term>
+    <term name="close-inner-quote">”</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">th</term>
+    <term name="ordinal-01">af</term>
+    <term name="ordinal-02">il</term>
+    <term name="ordinal-03">ydd</term>
+    <term name="ordinal-11">ed</term>
+    <term name="ordinal-12">ed</term>
+    <term name="ordinal-13">ed</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">cyntaf</term>
+    <term name="long-ordinal-02">ail</term>
+    <term name="long-ordinal-03">trydydd</term>
+    <term name="long-ordinal-04">pedwerydd</term>
+    <term name="long-ordinal-05">pumed</term>
+    <term name="long-ordinal-06">chweched</term>
+    <term name="long-ordinal-07">seithfed</term>
+    <term name="long-ordinal-08">wythfed</term>
+    <term name="long-ordinal-09">nawfed</term>
+    <term name="long-ordinal-10">degfed</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>llyfr</single>
+      <multiple>llyfrau</multiple>
+    </term>
+    <term name="chapter">
+      <single>pennod</single>
+      <multiple>penodau</multiple>
+    </term>
+    <term name="column">
+      <single>colofn</single>
+      <multiple>colofnau</multiple>
+    </term>
+    <term name="figure">
+      <single>ffigwr</single>
+      <multiple>ffigyrau</multiple>
+    </term>
+    <term name="folio">
+      <single>ffolio</single>
+      <multiple>ffolios</multiple>
+    </term>
+    <term name="issue">
+      <single>rhifyn</single>
+      <multiple>rhifynnau</multiple>
+    </term>
+    <term name="line">
+      <single>llinell</single>
+      <multiple>llinellau</multiple>
+    </term>
+    <term name="note">
+      <single>nodyn</single>
+      <multiple>nodiadau</multiple>
+    </term>
+    <term name="opus">
+      <single>opus</single>
+      <multiple>opera</multiple>
+    </term>
+    <term name="page">
+      <single>tudalen</single>
+      <multiple>tudalennau</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>tudalen</single>
+      <multiple>tudalennau</multiple>
+    </term>
+    <term name="paragraph">
+      <single>paragraff</single>
+      <multiple>paragraffau</multiple>
+    </term>
+    <term name="part">
+      <single>rhan</single>
+      <multiple>rhannau</multiple>
+    </term>
+    <term name="section">
+      <single>adran</single>
+      <multiple>adrannau</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
+    </term>
+    <term name="verse">
+      <single>pennill</single>
+      <multiple>penillion</multiple>
+    </term>
+    <term name="volume">
+      <single>cyfrol</single>
+      <multiple>cyfrolau</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">llyfr.</term>
+    <term name="chapter" form="short">pen.</term>
+    <term name="column" form="short">col.</term>
+    <term name="figure" form="short">ffig.</term>
+    <term name="folio" form="short">ff.</term>
+    <term name="issue" form="short">rhif.</term>
+    <term name="line" form="short">ll.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>t.</single>
+      <multiple>tt.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>t.</single>
+      <multiple>tt.</multiple>
+    </term>
+    <term name="paragraph" form="short">para.</term>
+    <term name="part" form="short">rhan.</term>
+    <term name="section" form="short">adr.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.vv.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>rhif.</single>
+      <multiple>rhifu.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>cyfarwyddwr</single>
+      <multiple>cyfarwyddwyr</multiple>
+    </term>
+    <term name="editor">
+      <single>golygydd</single>
+      <multiple>golygyddion</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>cyfarwyddwr-golygyddol</single>
+      <multiple>cyfarwyddwyr-golygyddol</multiple>
+    </term>
+    <term name="illustrator">
+      <single>darlunydd</single>
+      <multiple>darlunwyr</multiple>
+    </term>
+    <term name="translator">
+      <single>cyfieithydd</single>
+      <multiple>cyfieithwyr</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>golygydd a chyfieithydd</single>
+      <multiple>golygyddion a chyfieithwyr</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>cyf.</single>
+      <multiple>cyfy.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>gol.</single>
+      <multiple>goln.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>gol.</single>
+      <multiple>goln.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>darlun.</single>
+      <multiple>darlun.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>cyf.</single>
+      <multiple>cyf.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>gol. a chyf.</single>
+      <multiple>goln. a chyf.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">gan</term>
+    <term name="director" form="verb">cyfarwyddwyd gan</term>
+    <term name="editor" form="verb">golygwyd gan</term>
+    <term name="editorial-director" form="verb">cyfarwyddwyd a golygwyd gan</term>
+    <term name="illustrator" form="verb">darlunwyd gan</term>
+    <term name="interviewer" form="verb">cyfweliad gan</term>
+    <term name="recipient" form="verb">i</term>
+    <term name="reviewed-author" form="verb">gan</term>
+    <term name="translator" form="verb">cyfieithwyd gan </term>
+    <term name="editortranslator" form="verb">golygwyd a chyfieithwyd gan</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">cyf. gan</term>
+    <term name="editor" form="verb-short">gol. gan</term>
+    <term name="editorial-director" form="verb-short">cyf.-gol. gan</term>
+    <term name="illustrator" form="verb-short">darlun. gan</term>
+    <term name="translator" form="verb-short">cyf. gan</term>
+    <term name="editortranslator" form="verb-short">gol. a chyf. gan</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">Ionawr</term>
+    <term name="month-02">Chwefror</term>
+    <term name="month-03">Mawrth</term>
+    <term name="month-04">Ebrill</term>
+    <term name="month-05">Mai</term>
+    <term name="month-06">Mehefin</term>
+    <term name="month-07">Gorffennaf</term>
+    <term name="month-08">Awst</term>
+    <term name="month-09">Medi</term>
+    <term name="month-10">Hydref</term>
+    <term name="month-11">Tachwedd</term>
+    <term name="month-12">Rhagfyr</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">Ion.</term>
+    <term name="month-02" form="short">Chwe.</term>
+    <term name="month-03" form="short">Maw.</term>
+    <term name="month-04" form="short">Ebr.</term>
+    <term name="month-05" form="short">Mai</term>
+    <term name="month-06" form="short">Meh.</term>
+    <term name="month-07" form="short">Gorff.</term>
+    <term name="month-08" form="short">Aws.</term>
+    <term name="month-09" form="short">Med.</term>
+    <term name="month-10" form="short">Hyd.</term>
+    <term name="month-11" form="short">Tach.</term>
+    <term name="month-12" form="short">Rhag.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">Gwanwyn</term>
+    <term name="season-02">Haf</term>
+    <term name="season-03">Hydref</term>
+    <term name="season-04">Gaeaf</term>
+  </terms>
+</locale>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier, generated from "elsevier" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Hemorrhagic Stroke</title>
+    <id>http://www.zotero.org/styles/hemorrhagic-stroke</id>
+    <link href="http://www.zotero.org/styles/hemorrhagic-stroke" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <issn>2589-238X</issn>
+    <updated>2019-01-04T05:27:33+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

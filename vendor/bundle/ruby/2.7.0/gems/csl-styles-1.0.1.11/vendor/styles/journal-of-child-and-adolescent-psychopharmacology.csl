@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
+  <info>
+    <title>Journal of Child and Adolescent Psychopharmacology</title>
+    <id>http://www.zotero.org/styles/journal-of-child-and-adolescent-psychopharmacology</id>
+    <link href="http://www.zotero.org/styles/journal-of-child-and-adolescent-psychopharmacology" rel="self"/>
+    <link href="http://www.liebertpub.com/manuscript/cap" rel="documentation"/>
+    <author>
+      <name>Sebastian Karcher</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="medicine"/>
+    <issn>1044-5463</issn>
+    <eissn>1557-8992</eissn>
+    <updated>2014-03-17T15:01:29+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", "/>
+      <label form="short" prefix=" (" suffix=")" strip-periods="true"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " initialize-with=""/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="container">
+    <choose>
+      <if type="bill book chapter graphic legal_case legislation motion_picture report song" match="any">
+        <group delimiter=" ">
+          <choose>
+            <if type="chapter paper-conference" match="any">
+              <text term="in" text-case="capitalize-first" suffix=": "/>
+            </if>
+          </choose>
+          <text variable="container-title" suffix=". "/>
+          <names variable="editor translator" delimiter=", " suffix=".">
+            <label form="verb" text-case="capitalize-first"/>
+            <name and="text" sort-separator=" " initialize-with="" name-as-sort-order="all" prefix=" "/>
+          </names>
+          <group delimiter=", ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+            <choose>
+              <if type="chapter paper-conference" match="any">
+                <group delimiter=" ">
+                  <label variable="page" form="short" strip-periods="true"/>
+                  <text variable="page"/>
+                </group>
+              </if>
+            </choose>
+          </group>
+        </group>
+      </if>
+      <else>
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <text variable="container-title" form="short" strip-periods="true"/>
+            <group delimiter=":">
+              <text variable="volume"/>
+              <text variable="page"/>
+            </group>
+          </group>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <citation disambiguate-add-year-suffix="true" cite-group-delimiter=", " collapse="year" et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </group>
+    </layout>
+  </citation>
+  <bibliography line-spacing="2" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+    </sort>
+    <layout>
+      <group delimiter=". " suffix=".">
+        <group delimiter=": ">
+          <text macro="author"/>
+          <text macro="title"/>
+        </group>
+        <text macro="container"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

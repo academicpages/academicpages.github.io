@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Elsevier - Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles -->
+  <info>
+    <title>Pratique médicale et chirurgicale de l'animal de compagnie</title>
+    <id>http://www.zotero.org/styles/pratique-medicale-et-chirurgicale-de-lanimal-de-compagnie</id>
+    <link href="http://www.zotero.org/styles/pratique-medicale-et-chirurgicale-de-lanimal-de-compagnie" rel="self"/>
+    <link href="http://www.zotero.org/styles/elsevier-vancouver" rel="independent-parent"/>
+    <category citation-format="numeric"/>
+    <issn>0758-1882</issn>
+    <updated>2013-04-25T09:38:16+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

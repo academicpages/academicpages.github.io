@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" default-locale="fr-FR" version="1.0">
+  <info>
+    <title>Université Paris Diderot - Département d'études psychanalytiques (French)</title>
+    <id>http://www.zotero.org/styles/universite-paris-diderot-ufr-detudes-psychanalytiques</id>
+    <link href="http://www.zotero.org/styles/universite-paris-diderot-ufr-detudes-psychanalytiques" rel="self"/>
+    <link href="http://www.zotero.org/styles/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants" rel="independent-parent"/>
+    <link href="https://bibliotheque.univ-paris-diderot.fr/sites/default/files/fichiers/guide_doct_ministere_education.pdf" rel="documentation"/>
+    <author>
+      <name>Adrien Cascarino</name>
+      <email>adrien.cascarino@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="psychology"/>
+    <updated>2019-02-18T17:22:49+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="zh-TW">
+  <info>
+    <translator>
+      <name>sati-bodhi</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2014-05-15T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="year" suffix="年"/>
+    <date-part name="month" form="numeric" suffix="月"/>
+    <date-part name="day" suffix="日"/>
+  </date>
+  <date form="numeric">
+    <date-part name="year"/>
+    <date-part name="month" form="numeric-leading-zeros" prefix="/"/>
+    <date-part name="day" form="numeric-leading-zeros" prefix="/"/>
+  </date>
+  <terms>
+    <term name="accessed">引見於</term>
+    <term name="and">及</term>
+    <term name="and others">及其他</term>
+    <term name="anonymous">作者不詳</term>
+    <term name="anonymous" form="short">無名氏</term>
+    <term name="at">於</term>
+    <term name="available at">載於</term>
+    <term name="by">著</term>
+    <term name="circa">介於</term>
+    <term name="circa" form="short">約</term>
+    <term name="cited">見引於</term>
+    <term name="edition">版本</term>
+    <term name="edition" form="short">本</term>
+    <term name="et-al">等</term>
+    <term name="forthcoming">即將出版</term>
+    <term name="from">從</term>
+    <term name="ibid">同上</term>
+    <term name="in">收入</term>
+    <term name="in press">印行中</term>
+    <term name="internet">互聯網</term>
+    <term name="interview">訪談</term>
+    <term name="letter">信函</term>
+    <term name="no date">日期不詳</term>
+    <term name="no date" form="short">不詳</term>
+    <term name="online">線上</term>
+    <term name="presented at">發表於</term>
+    <term name="reference">參考</term>
+    <term name="reference" form="short">參</term>
+    <term name="retrieved">讀取於</term>
+    <term name="scale">比例</term>
+    <term name="version">版</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">西元</term>
+    <term name="bc">西元前</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">「</term>
+    <term name="close-quote">」</term>
+    <term name="open-inner-quote">『</term>
+    <term name="close-inner-quote">』</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal"></term>
+  
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">一</term>
+    <term name="long-ordinal-02">二</term>
+    <term name="long-ordinal-03">三</term>
+    <term name="long-ordinal-04">四</term>
+    <term name="long-ordinal-05">五</term>
+    <term name="long-ordinal-06">六</term>
+    <term name="long-ordinal-07">七</term>
+    <term name="long-ordinal-08">八</term>
+    <term name="long-ordinal-09">九</term>
+    <term name="long-ordinal-10">十</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">冊</term>
+    <term name="chapter">章</term>
+    <term name="column">欄</term>
+    <term name="figure">圖表</term>       
+    <term name="folio">版</term>
+    <term name="issue">期</term>
+    <term name="line">行</term>
+    <term name="note">註腳</term>
+    <term name="opus">作品</term>      
+    <term name="page">頁</term>
+    <term name="number-of-pages">總頁數</term>      
+    <term name="paragraph">段落</term>
+    <term name="part">部分</term>     
+    <term name="section">節</term>         
+    <term name="sub verbo">另見</term>    
+    <term name="verse">篇</term>    
+    <term name="volume">卷</term>
+    
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">冊</term>
+    <term name="chapter" form="short">章</term>
+    <term name="column" form="short">欄</term>
+    <term name="figure" form="short">圖</term>
+    <term name="issue" form="short">期</term>
+    <term name="line" form="short">行</term>
+    <term name="note" form="short">註</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">頁</term>   
+    <term name="number-of-pages" form="short">共</term>    
+    <term name="paragraph" form="short">段</term>
+    <term name="part" form="short">部</term>
+    <term name="section" form="short">節</term>
+    <term name="sub verbo" form="short">另見</term>   
+    <term name="verse" form="short">篇</term>      
+    <term name="volume" form="short">卷</term>
+    
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="author">作者</term>     
+    <term name="director">導演</term>     
+    <term name="editor">編輯</term> 
+    <term name="editorial-director">主編</term>     
+    <term name="illustrator">繪圖師</term>
+    <term name="interviewer">採訪員</term>
+    <term name="recipient">收信人</term>     
+    <term name="translator">翻譯員</term>      
+    <term name="editortranslator">編譯員</term>
+    <term name="reviewed-author">評論人</term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="author" form="short">作者</term>     
+    <term name="director" form="short">導演</term>     
+    <term name="editor" form="short">編輯</term> 
+    <term name="editorial-director" form="short">主編</term>     
+    <term name="illustrator" form="short">繪圖師</term>
+    <term name="interviewer" form="short">採訪員</term>
+    <term name="recipient" form="short">收信人</term>     
+    <term name="translator" form="short">翻譯員</term>      
+    <term name="editortranslator" form="short">編譯員</term>
+    <term name="reviewed-author" form="short">評論人</term>
+
+
+    <!-- VERB ROLE FORMS -->
+    <term name="author" form="verb">著</term>
+    <term name="container-author" form="verb">著</term>
+    <term name="director" form="verb">指導</term>
+    <term name="editor" form="verb">編輯</term>
+    <term name="collection-editor" form="verb">點校</term>
+    <term name="editorial-director" form="verb">主編</term>
+    <term name="illustrator" form="verb">繪圖</term>
+    <term name="interviewer" form="verb">採訪</term>
+    <term name="recipient" form="verb">受函</term>
+    <term name="reviewed-author" form="verb">點評</term>
+    <term name="translator" form="verb">翻譯</term>
+    <term name="editortranslator" form="verb">編譯</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">導</term>
+    <term name="editor" form="verb-short">編</term>
+    <term name="collection-editor" form="verb-short">校</term>
+    <term name="editorial-director" form="verb-short">編</term>
+    <term name="illustrator" form="verb-short">繪</term>
+    <term name="translator" form="verb-short">譯</term>
+    <term name="reviewed-author" form="verb-short">評</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">一月</term>
+    <term name="month-02">二月</term>
+    <term name="month-03">三月</term>
+    <term name="month-04">四月</term>
+    <term name="month-05">五月</term>
+    <term name="month-06">六月</term>
+    <term name="month-07">七月</term>
+    <term name="month-08">八月</term>
+    <term name="month-09">九月</term>
+    <term name="month-10">十月</term>
+    <term name="month-11">十一月</term>
+    <term name="month-12">十二月</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">1月</term>
+    <term name="month-02" form="short">2月</term>
+    <term name="month-03" form="short">3月</term>
+    <term name="month-04" form="short">4月</term>
+    <term name="month-05" form="short">5月</term>
+    <term name="month-06" form="short">6月</term>
+    <term name="month-07" form="short">7月</term>
+    <term name="month-08" form="short">8月</term>
+    <term name="month-09" form="short">9月</term>
+    <term name="month-10" form="short">10月</term>
+    <term name="month-11" form="short">11月</term>
+    <term name="month-12" form="short">12月</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">春</term>
+    <term name="season-02">夏</term>
+    <term name="season-03">秋</term>
+    <term name="season-04">冬</term>
+  </terms>
+</locale>

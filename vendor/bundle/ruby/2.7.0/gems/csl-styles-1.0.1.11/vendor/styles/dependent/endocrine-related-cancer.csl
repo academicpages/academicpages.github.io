@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Endocrine-Related Cancer</title>
+    <id>http://www.zotero.org/styles/endocrine-related-cancer</id>
+    <link href="http://www.zotero.org/styles/endocrine-related-cancer" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-molecular-endocrinology" rel="independent-parent"/>
+    <link href="http://erc.endocrinology-journals.org/site/misc/For-Authors.xhtml#refs" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>1351-0088</issn>
+    <eissn>1479-6821</eissn>
+    <summary>Style for Endocrine-Related Cancer journal</summary>
+    <published>2012-01-17T21:01:24+00:00</published>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

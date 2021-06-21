@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/springer -->
+  <info>
+    <title>Journal of Mathematics in Industry</title>
+    <id>http://www.zotero.org/styles/journal-of-mathematics-in-industry</id>
+    <link href="http://www.zotero.org/styles/journal-of-mathematics-in-industry" rel="self"/>
+    <link href="http://www.zotero.org/styles/springer-vancouver-author-date" rel="independent-parent"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/Key_Style_Points_1.0.pdf" rel="documentation"/>
+    <link href="http://www.springer.com/cda/content/document/cda_downloaddocument/manuscript-guidelines-1.0.pdf" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <eissn>2190-5983</eissn>
+    <updated>2016-02-15T06:23:28+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

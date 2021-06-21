@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/csiro -->
+  <info>
+    <title>Soil Research</title>
+    <id>http://www.zotero.org/styles/soil-research</id>
+    <link href="http://www.zotero.org/styles/soil-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/international-journal-of-wildland-fire" rel="independent-parent"/>
+    <link href="http://www.publish.csiro.au/nid/87/aid/385.htm#11" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>1838-675X</issn>
+    <eissn>1838-6768</eissn>
+    <updated>2014-11-29T18:06:17+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

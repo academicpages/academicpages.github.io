@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US" page-range-format="minimal">
+  <info>
+    <title>Journal of the European Academy of Dermatology and Venereology</title>
+    <title-short>JEADV</title-short>
+    <id>http://www.zotero.org/styles/journal-of-the-european-academy-of-dermatology-and-venereology</id>
+    <link href="http://www.zotero.org/styles/journal-of-the-european-academy-of-dermatology-and-venereology" rel="self"/>
+    <link href="http://www.zotero.org/styles/biomed-central" rel="template"/>
+    <link href="https://onlinelibrary.wiley.com/page/journal/14683083/homepage/forauthors.html" rel="documentation"/>
+    <author>
+      <name>Sebastian Sitaru</name>
+      <email>sebastian@mail.sitaru.eu</email>
+    </author>
+    <contributor>
+      <name>Cassian Sitaru</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <category field="biology"/>
+    <issn>0926-9959</issn>
+    <eissn>1468-3083</eissn>
+    <updated>2019-05-10T12:40:51+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <date form="text" delimiter=" ">
+      <date-part name="day"/>
+      <date-part name="month" form="short" strip-periods="true"/>
+      <date-part name="year"/>
+    </date>
+    <terms>
+      <term name="collection-editor" form="long">
+        <single>Series editor</single>
+        <multiple>Series editors</multiple>
+      </term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <et-al font-style="italic"/>
+      <label prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=".">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="publisher">
+    <group delimiter="; ">
+      <group delimiter=": ">
+        <choose>
+          <if type="thesis" match="none">
+            <text variable="publisher-place"/>
+          </if>
+        </choose>
+        <text variable="publisher"/>
+      </group>
+      <text macro="year-date"/>
+    </group>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal" match="any">
+        <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="long" suffix="."/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued" form="numeric" date-parts="year"/>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix="doi:"/>
+          </if>
+          <else>
+            <group delimiter=". ">
+              <text variable="URL"/>
+              <group delimiter=" ">
+                <text term="accessed" text-case="sentence"/>
+                <date variable="accessed" form="text"/>
+              </group>
+            </group>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="7" et-al-use-first="3">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group>
+        <group delimiter=". ">
+          <text macro="author"/>
+          <text variable="title" suffix=". "/>
+        </group>
+        <choose>
+          <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
+            <group delimiter=". " prefix=" ">
+              <text macro="edition"/>
+              <text variable="genre"/>
+              <text macro="publisher"/>
+            </group>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <group delimiter=". ">
+              <group delimiter=": ">
+                <text term="in" text-case="sentence"/>
+                <group delimiter=". ">
+                  <text macro="editor"/>
+                  <text macro="container-title"/>
+                </group>
+              </group>
+              <text macro="edition"/>
+              <text macro="publisher"/>
+              <group delimiter=" ">
+                <label variable="page" form="short" plural="never"/>
+                <text variable="page"/>
+              </group>
+            </group>
+          </else-if>
+          <else>
+            <text macro="container-title" suffix=" "/>
+            <group delimiter=";">
+              <text macro="year-date"/>
+              <group>
+                <text variable="volume" font-weight="bold"/>
+                <!-- This will hopefully deal with supplements at least reasonably well -->
+                <choose>
+                  <if is-numeric="issue"/>
+                  <else>
+                    <text variable="issue" prefix=" "/>
+                  </else>
+                </choose>
+                <text variable="page" prefix=":"/>
+              </group>
+            </group>
+          </else>
+        </choose>
+        <text macro="access"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

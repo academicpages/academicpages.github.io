@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Institute of Mathematics and its Applications, generated from "ima" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>IMA Journal of Mathematical Control and Information</title>
+    <id>http://www.zotero.org/styles/ima-journal-of-mathematical-control-and-information</id>
+    <link href="http://www.zotero.org/styles/ima-journal-of-mathematical-control-and-information" rel="self"/>
+    <link href="http://www.zotero.org/styles/institute-of-mathematics-and-its-applications" rel="independent-parent"/>
+    <link href="https://academic.oup.com/imamci/pages/General_Instructions" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="math"/>
+    <issn>0265-0754</issn>
+    <eissn>1471-6887</eissn>
+    <updated>2017-08-15T03:56:09+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

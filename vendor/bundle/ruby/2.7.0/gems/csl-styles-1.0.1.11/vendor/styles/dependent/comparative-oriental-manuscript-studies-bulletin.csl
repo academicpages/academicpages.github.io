@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>Comparative Oriental Manuscript Studies Bulletin</title>
+    <title-short>COMSt Bulletin</title-short>
+    <id>http://www.zotero.org/styles/comparative-oriental-manuscript-studies-bulletin</id>
+    <link href="http://www.zotero.org/styles/comparative-oriental-manuscript-studies-bulletin" rel="self"/>
+    <link href="http://www.zotero.org/styles/hiob-ludolf-centre-for-ethiopian-studies" rel="independent-parent"/>
+    <link href="http://www1.uni-hamburg.de/COMST/bulletin.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="humanities"/>
+    <issn>2410-0951</issn>
+    <updated>2016-03-29T04:26:42+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

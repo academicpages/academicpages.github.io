@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Reproduction in Domestic Animals</title>
+    <title-short>Reprod. Domest. Anim.</title-short>
+    <id>http://www.zotero.org/styles/reproduction-in-domestic-animals</id>
+    <link href="http://www.zotero.org/styles/reproduction-in-domestic-animals" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291439-0531/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="zoology"/>
+    <issn>0936-6768</issn>
+    <eissn>1439-0531</eissn>
+    <summary>Style for Reproduction in Domestic Animals</summary>
+    <updated>2019-04-17T23:57:53+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

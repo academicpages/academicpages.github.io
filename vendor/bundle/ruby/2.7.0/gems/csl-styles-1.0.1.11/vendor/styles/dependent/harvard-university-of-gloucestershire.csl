@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>University of Gloucestershire - Harvard</title>
+    <id>http://www.zotero.org/styles/harvard-university-of-gloucestershire</id>
+    <link href="http://www.zotero.org/styles/harvard-university-of-gloucestershire" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard-cite-them-right" rel="independent-parent"/>
+    <link href="http://ist.glos.ac.uk/referencing/harvard/" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="generic-base"/>
+    <category field="social_science"/>
+    <updated>2018-06-16T04:05:31+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

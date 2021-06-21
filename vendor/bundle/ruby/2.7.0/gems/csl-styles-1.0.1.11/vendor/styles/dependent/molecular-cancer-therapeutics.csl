@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/aacr -->
+  <info>
+    <title>Molecular Cancer Therapeutics</title>
+    <id>http://www.zotero.org/styles/molecular-cancer-therapeutics</id>
+    <link href="http://www.zotero.org/styles/molecular-cancer-therapeutics" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-association-for-cancer-research" rel="independent-parent"/>
+    <link href="http://www.aacrjournals.org/site/InstrAuthors/ifora.xhtml#references" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1535-7163</issn>
+    <eissn>1538-8514</eissn>
+    <updated>2014-04-28T01:03:38+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

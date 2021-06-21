@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>The Annals of Pharmacotherapy</title>
+    <id>http://www.zotero.org/styles/the-annals-of-pharmacotherapy</id>
+    <link href="http://www.zotero.org/styles/the-annals-of-pharmacotherapy" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
+    <link href="http://www.theannals.com/site/misc/author-info.xhtml#references" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>1060-0280</issn>
+    <eissn>1542-6270</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

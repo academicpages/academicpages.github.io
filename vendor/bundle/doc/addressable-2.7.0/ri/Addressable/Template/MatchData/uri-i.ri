@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"uri:ETI")Addressable::Template::MatchData#uri;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@return [Addressable::URI];To:RDoc::Markup::Verbatim;	[I"3The URI that the Template was matched against.;T:@format0:
+@fileI" lib/addressable/template.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%Addressable::Template::MatchData;TcRDoc::NormalClass0

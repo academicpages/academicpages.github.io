@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Experimental Physiology</title>
+    <id>http://www.zotero.org/styles/experimental-physiology</id>
+    <link href="http://www.zotero.org/styles/experimental-physiology" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-journal-of-physiology" rel="independent-parent"/>
+    <link href="http://ep.physoc.org/site/misc/author.xhtml#references" rel="documentation"/>
+    <author>
+      <name>Omar Mian</name>
+      <email>o.mian@ucl.ac.uk</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0958-0670</issn>
+    <eissn>1469-445X</eissn>
+    <summary>Style for Experimental Physiology</summary>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

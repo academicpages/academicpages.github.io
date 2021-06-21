@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <!-- Institute for Operations Research and the Management Sciences (INFORMS), generated from "informs" metadata at https://github.com/citation-style-language/journals -->
+  <info>
+    <title>Management Science</title>
+    <id>http://www.zotero.org/styles/management-science</id>
+    <link href="http://www.zotero.org/styles/management-science" rel="self"/>
+    <link href="http://www.zotero.org/styles/institute-for-operations-research-and-the-management-sciences" rel="independent-parent"/>
+    <link href="http://pubsonline.informs.org/page/mnsc/submission-guidelines" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="engineering"/>
+    <issn>0025-1909</issn>
+    <eissn>1526-5501</eissn>
+    <updated>2016-12-18T04:41:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

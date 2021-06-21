@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Nuclear Science and Engineering</title>
+    <title-short>NSE</title-short>
+    <id>http://www.zotero.org/styles/nuclear-science-and-engineering</id>
+    <link href="http://www.zotero.org/styles/nuclear-science-and-engineering" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-nuclear-society" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=unse20&amp;page=instructions" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="physics"/>
+    <category field="engineering"/>
+    <issn>0029-5639</issn>
+    <eissn>1943-748X</eissn>
+    <updated>2017-09-21T03:02:11+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

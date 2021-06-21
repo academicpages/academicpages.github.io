@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Briefings in Bioinformatics</title>
+    <id>http://www.zotero.org/styles/briefings-in-bioinformatics</id>
+    <link href="http://www.zotero.org/styles/briefings-in-bioinformatics" rel="self"/>
+    <link href="http://www.oxfordjournals.org/our_journals/bib/for_authors/msprep_submission.html" rel="documentation"/>
+    <author>
+      <name>Malay K Basu</name>
+      <email>malay@bioinformatics.org</email>
+    </author>
+    <category citation-format="numeric"/>
+    <issn>1467-5463</issn>
+    <eissn>1477-4054</eissn>
+    <summary>The Briefings in Bioinformatics Journal style</summary>
+    <updated>2017-07-03T03:48:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " delimiter=", " initialize-with="" delimiter-precedes-last="never" name-as-sort-order="all"/>
+    </names>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="4" et-al-use-first="3" entry-spacing="0">
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text variable="title" prefix=". " suffix=". "/>
+      <text variable="container-title" form="short" suffix=" "/>
+      <date variable="issued" suffix="; ">
+        <date-part name="year"/>
+      </date>
+      <text variable="volume" suffix=":"/>
+      <text variable="page"/>
+    </layout>
+  </bibliography>
+</style>

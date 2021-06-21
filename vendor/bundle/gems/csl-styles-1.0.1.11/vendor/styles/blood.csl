@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Blood</title>
+    <id>http://www.zotero.org/styles/blood</id>
+    <link href="http://www.zotero.org/styles/blood" rel="self"/>
+    <link href="http://bloodjournal.hematologylibrary.org/site/authors/article_structure.xhtml#references" rel="documentation"/>
+    <author>
+      <name>Julien Charbon</name>
+      <email>julien.charbon@gmail.com</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0006-4971</issn>
+    <eissn>1528-0020</eissn>
+    <updated>2013-06-01T18:58:08+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" " delimiter=", " initialize-with="" delimiter-precedes-last="always" name-as-sort-order="all"/>
+    </names>
+  </macro>
+  <macro name="issuance">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="publisher-place" suffix=": "/>
+        <text variable="publisher" suffix="; "/>
+        <text macro="issued-year" suffix="."/>
+      </if>
+      <else>
+        <text variable="container-title" form="short" suffix=". " font-style="italic"/>
+        <text macro="issued-year" suffix=";"/>
+        <text macro="volume-issue"/>
+        <text variable="page" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="volume-issue">
+    <choose>
+      <if variable="volume issue" match="all">
+        <text variable="volume"/>
+        <text variable="issue" prefix="(" suffix="):"/>
+      </if>
+      <else>
+        <choose>
+          <if variable="volume">
+            <text variable="volume" suffix=":"/>
+          </if>
+          <else>
+            <choose>
+              <if variable="issue">
+                <text variable="issue" prefix="(" suffix="):"/>
+              </if>
+            </choose>
+          </else>
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <date variable="issued" delimiter=" ">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="6" et-al-use-first="3" second-field-align="flush" entry-spacing="0">
+    <layout>
+      <text variable="citation-number" suffix="."/>
+      <text macro="author" suffix="."/>
+      <text macro="title" prefix=" " suffix=". "/>
+      <text macro="issuance" suffix=". "/>
+    </layout>
+  </bibliography>
+</style>

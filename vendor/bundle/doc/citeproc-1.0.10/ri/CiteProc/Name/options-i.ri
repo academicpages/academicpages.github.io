@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"options:ETI"CiteProc::Name#options;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] options ;TI"*@return the name's formatting options;T:
+@fileI"lib/citeproc/names.rb;T:0@omit_headings_from_table_of_contents_below0F@I"CiteProc::Name;TcRDoc::NormalClass0

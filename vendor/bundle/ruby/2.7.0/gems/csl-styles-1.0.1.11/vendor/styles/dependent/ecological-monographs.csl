@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Ecological Monographs</title>
+    <id>http://www.zotero.org/styles/ecological-monographs</id>
+    <link href="http://www.zotero.org/styles/ecological-monographs" rel="self"/>
+    <link href="http://www.zotero.org/styles/ecology" rel="independent-parent"/>
+    <link href="http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1557-7015/resources/author-guidelines-ecm.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <issn>0012-9615</issn>
+    <eissn>1557-7015</eissn>
+    <updated>2017-06-15T04:35:02+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

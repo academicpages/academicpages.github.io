@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="cs-CZ">
+  <info>
+    <translator>
+      <name>nosaal</name>
+    </translator>
+    <translator>
+      <name>Andrew Dunning</name>
+    </translator>
+    <translator>
+      <name>libora</name>
+    </translator>
+    <translator>
+      <name>Michal Hoftich</name>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
+  <style-options punctuation-in-quote="false"/>
+  <date form="text">
+    <date-part name="day" form="ordinal" suffix=" "/>
+    <date-part name="month" suffix=" "/>
+    <date-part name="year"/>
+  </date>
+  <date form="numeric">
+    <date-part name="day" form="numeric" suffix=". " range-delimiter="-"/>
+    <date-part name="month" form="numeric" suffix=". " range-delimiter="-"/>
+    <date-part name="year" range-delimiter="-"/>
+  </date>
+  <terms>
+    <term name="accessed">viděno</term>
+    <term name="accessed" form="short">vid.</term>
+    <term name="and">a</term>
+    <term name="and others">a další</term>
+    <term name="anonymous">anonym</term>
+    <term name="anonymous" form="short">anon.</term>
+    <term name="at">v</term>
+    <term name="available at">dostupné z</term>
+    <term name="by">od</term>
+    <term name="circa">asi</term>
+    <term name="circa" form="short">cca.</term>
+    <term name="cited">citován</term>
+    <term name="edition">
+      <single>vydání</single>
+      <multiple>vydání</multiple>
+    </term>
+    <term name="edition" form="short">vyd.</term>
+    <term name="et-al">et al.</term>
+    <term name="forthcoming">nadcházející</term>
+    <term name="from">z</term>
+    <term name="ibid">ibid.</term>
+    <term name="in">in</term>
+    <term name="in press">v tisku</term>
+    <term name="internet">internet</term>
+    <term name="interview">interview</term>
+    <term name="letter">dopis</term>
+    <term name="no date">nedatováno</term>
+    <term name="no date" form="short">b.r.</term>
+    <term name="online">online</term>
+    <term name="presented at">prezentováno v</term>
+    <term name="reference">
+      <single>reference</single>
+      <multiple>reference</multiple>
+    </term>
+    <term name="reference" form="short">
+      <single>ref.</single>
+      <multiple>ref.</multiple>
+    </term>
+    <term name="retrieved">získáno</term>
+    <term name="scale">měřítko</term>
+    <term name="version">verze</term>
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <term name="ad">n. l.</term>
+    <term name="bc">př. n. l.</term>
+
+    <!-- PUNCTUATION -->
+    <term name="open-quote">„</term>
+    <term name="close-quote">"</term>
+    <term name="open-inner-quote">‚</term>
+    <term name="close-inner-quote">´</term>
+    <term name="page-range-delimiter">–</term>
+
+    <!-- ORDINALS -->
+    <term name="ordinal">.</term>
+
+    <!-- LONG ORDINALS -->
+    <term name="long-ordinal-01">první</term>
+    <term name="long-ordinal-02">druhé</term>
+    <term name="long-ordinal-03">třetí</term>
+    <term name="long-ordinal-04">čtvrté</term>
+    <term name="long-ordinal-05">páté</term>
+    <term name="long-ordinal-06">šesté</term>
+    <term name="long-ordinal-07">sedmé</term>
+    <term name="long-ordinal-08">osmé</term>
+    <term name="long-ordinal-09">deváté</term>
+    <term name="long-ordinal-10">desáté</term>
+
+    <!-- LONG LOCATOR FORMS -->
+    <term name="book">
+      <single>kniha</single>
+      <multiple>knihy</multiple>
+    </term>
+    <term name="chapter">
+      <single>kapitola</single>
+      <multiple>kapitoly</multiple>
+    </term>
+    <term name="column">
+      <single>sloupec</single>
+      <multiple>sloupce</multiple>
+    </term>
+    <term name="figure">
+      <single>obrázek</single>
+      <multiple>obrázky</multiple>
+    </term>
+    <term name="folio">
+      <single>list</single>
+      <multiple>listy</multiple>
+    </term>
+    <term name="issue">
+      <single>číslo</single>
+      <multiple>čísla</multiple>
+    </term>
+    <term name="line">
+      <single>řádek</single>
+      <multiple>řádky</multiple>
+    </term>
+    <term name="note">
+      <single>poznámka</single>
+      <multiple>poznámky</multiple>
+    </term>
+    <term name="opus">
+      <single>opus</single>
+      <multiple>opusy</multiple>
+    </term>
+    <term name="page">
+      <single>strana</single>
+      <multiple>strany</multiple>
+    </term>
+    <term name="number-of-pages">
+      <single>strana</single>
+      <multiple>strany</multiple>
+    </term>
+    <term name="paragraph">
+      <single>odstavec</single>
+      <multiple>odstavce</multiple>
+    </term>
+    <term name="part">
+      <single>část</single>
+      <multiple>části</multiple>
+    </term>
+    <term name="section">
+      <single>sekce</single>
+      <multiple>sekce</multiple>
+    </term>
+    <term name="sub verbo">
+      <single>pod heslem</single>
+      <multiple>pod hesly</multiple>
+    </term>
+    <term name="verse">
+      <single>verš</single>
+      <multiple>verše</multiple>
+    </term>
+    <term name="volume">
+      <single>ročník</single>
+      <multiple>ročníky</multiple>
+    </term>
+
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="book" form="short">k.</term>
+    <term name="chapter" form="short">kap.</term>
+    <term name="column" form="short">sl.</term>
+    <term name="figure" form="short">obr.</term>
+    <term name="folio" form="short">l.</term>
+    <term name="issue" form="short">č.</term>
+    <term name="line" form="short">ř.</term>
+    <term name="note" form="short">pozn.</term>
+    <term name="opus" form="short">op.</term>
+    <term name="page" form="short">
+      <single>s.</single>
+      <multiple>s.</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
+      <single>s.</single>
+      <multiple>s.</multiple>
+    </term>
+    <term name="paragraph" form="short">odst.</term>
+    <term name="part" form="short">č.</term>
+    <term name="section" form="short">sek.</term>
+    <term name="sub verbo" form="short">
+      <single>s.v.</single>
+      <multiple>s.v.</multiple>
+    </term>
+    <term name="verse" form="short">
+      <single>v.</single>
+      <multiple>v.</multiple>
+    </term>
+    <term name="volume" form="short">
+      <single>roč.</single>
+      <multiple>roč.</multiple>
+    </term>
+
+    <!-- SYMBOL LOCATOR FORMS -->
+    <term name="paragraph" form="symbol">
+      <single>¶</single>
+      <multiple>¶¶</multiple>
+    </term>
+    <term name="section" form="symbol">
+      <single>§</single>
+      <multiple>§§</multiple>
+    </term>
+
+    <!-- LONG ROLE FORMS -->
+    <term name="director">
+      <single>ředitel</single>
+      <multiple>ředitelé</multiple>
+    </term>
+    <term name="editor">
+      <single>editor</single>
+      <multiple>editoři</multiple>
+    </term>
+    <term name="editorial-director">
+      <single>vedoucí editor</single>
+      <multiple>vedoucí editoři</multiple>
+    </term>
+    <term name="illustrator">
+      <single>ilustrátor</single>
+      <multiple>ilustrátoři</multiple>
+    </term>
+    <term name="translator">
+      <single>překladatel</single>
+      <multiple>překladatelé</multiple>
+    </term>
+    <term name="editortranslator">
+      <single>editor a překladatel</single>
+      <multiple>editoři a překladatelé</multiple>
+    </term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="director" form="short">
+      <single>řed.</single>
+      <multiple>řed.</multiple>
+    </term>
+    <term name="editor" form="short">
+      <single>ed.</single>
+      <multiple>ed.</multiple>
+    </term>
+    <term name="editorial-director" form="short">
+      <single>ed.</single>
+      <multiple>ed.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>il.</single>
+      <multiple>il.</multiple>
+    </term>
+    <term name="translator" form="short">
+      <single>přel.</single>
+      <multiple>přel.</multiple>
+    </term>
+    <term name="editortranslator" form="short">
+      <single>ed. a přel.</single>
+      <multiple>ed. a přel.</multiple>
+    </term>
+
+    <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb"></term>
+    <term name="director" form="verb">řídil</term>
+    <term name="editor" form="verb">editoval</term>
+    <term name="editorial-director" form="verb">editoval</term>
+    <term name="illustrator" form="verb">ilustroval</term>
+    <term name="interviewer" form="verb">rozhovor vedl</term>
+    <term name="recipient" form="verb">pro</term>
+    <term name="reviewed-author" form="verb">recenzoval</term>
+    <term name="translator" form="verb">přeložil</term>
+    <term name="editortranslator" form="verb">editoval a přeložil</term>
+
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="director" form="verb-short">řed.</term>
+    <term name="editor" form="verb-short">ed.</term>
+    <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">ilust.</term>
+    <term name="translator" form="verb-short">přel.</term>
+    <term name="editortranslator" form="verb-short">ed. a přel.</term>
+
+    <!-- LONG MONTH FORMS -->
+    <term name="month-01">leden</term>
+    <term name="month-02">únor</term>
+    <term name="month-03">březen</term>
+    <term name="month-04">duben</term>
+    <term name="month-05">květen</term>
+    <term name="month-06">červen</term>
+    <term name="month-07">červenec</term>
+    <term name="month-08">srpen</term>
+    <term name="month-09">září</term>
+    <term name="month-10">říjen</term>
+    <term name="month-11">listopad</term>
+    <term name="month-12">prosinec</term>
+
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">led.</term>
+    <term name="month-02" form="short">úno.</term>
+    <term name="month-03" form="short">bře.</term>
+    <term name="month-04" form="short">dub.</term>
+    <term name="month-05" form="short">kvě.</term>
+    <term name="month-06" form="short">čer.</term>
+    <term name="month-07" form="short">čvc.</term>
+    <term name="month-08" form="short">srp.</term>
+    <term name="month-09" form="short">zář.</term>
+    <term name="month-10" form="short">říj.</term>
+    <term name="month-11" form="short">lis.</term>
+    <term name="month-12" form="short">pro.</term>
+
+    <!-- SEASONS -->
+    <term name="season-01">jaro</term>
+    <term name="season-02">léto</term>
+    <term name="season-03">podzim</term>
+    <term name="season-04">zima</term>
+  </terms>
+</locale>

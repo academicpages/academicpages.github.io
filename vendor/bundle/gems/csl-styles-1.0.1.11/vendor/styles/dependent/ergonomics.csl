@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Ergonomics</title>
+    <id>http://www.zotero.org/styles/ergonomics</id>
+    <link href="http://www.zotero.org/styles/ergonomics" rel="self"/>
+    <link href="http://www.zotero.org/styles/taylor-and-francis-chicago-author-date" rel="independent-parent"/>
+    <link href="http://www.tandfonline.com/action/authorSubmission?journalCode=terg20&amp;page=instructions#mp_style" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="engineering"/>
+    <issn>0014-0139</issn>
+    <eissn>1366-5847</eissn>
+    <updated>2016-06-21T03:32:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

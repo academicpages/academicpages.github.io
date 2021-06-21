@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Educational and Behavioral Statistics</title>
+    <id>http://www.zotero.org/styles/journal-of-educational-and-behavioral-statistics</id>
+    <link href="http://www.zotero.org/styles/journal-of-educational-and-behavioral-statistics" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="independent-parent"/>
+    <link href="http://www.sagepub.com/journalsProdDesc.nav?prodId=Journal201853#tabview=manuscriptSubmission" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <issn>1076-9986</issn>
+    <eissn>1935-1054</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

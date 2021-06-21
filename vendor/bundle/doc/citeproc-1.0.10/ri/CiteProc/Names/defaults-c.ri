@@ -1,0 +1,37 @@
+U:RDoc::Attr[iI"defaults:ETI"CiteProc::Names::defaults;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] defaults ;TI"@example;To:RDoc::Markup::Verbatim;	['I"{
+;TI"  :and => '&',
+;TI"=  # The delimiter between the penultimate and last name
+;TI"
+;TI"  :delimiter => ', ',
+;TI"/  # The delimiter between the other names
+;TI"
+;TI"2  :'delimiter-precedes-last' => :contextual,
+;TI"G  # Determines in which cases the delimiter used to delimit names
+;TI"G  # is also used to separate the second to last and the last name
+;TI"H  # in name lists. The possible values are: 'contextual' (default,
+;TI"E  # the delimiter is only included for name lists with three or
+;TI",  # more names), 'always', and 'never'
+;TI"
+;TI"  :'et-al' => 'et al.',
+;TI"5  # The string used for the phrase 'and others'
+;TI"
+;TI"  :'et-al-min' => 5,
+;TI"   :'et-al-use-first' => 3,
+;TI"E  # Together, these attributes control et-al abbreviation. When
+;TI"C  # the number of names in a name variable matches or exceeds
+;TI"J  # the number set on et-al-min, the rendered name list is truncated
+;TI"F  # at the number of names set on et-al-use-first. If truncation
+;TI"E  # occurs, the "et-al" term is appended to the names rendered.
+;TI"G  # With a single name (et-al-use-first="1"), the "et-al" term is
+;TI"G  # preceded by a space (e.g. "Doe et al."). With multiple names,
+;TI"B  # the "et-al" term is preceded by the name delimiter (e.g.
+;TI"  # "Doe, Smith, et al.")
+;TI"
+;TI"%  :'et-al-subsequent-min' => 5,
+;TI"*  :'et-al-subsequent-use-first' => 3
+;TI"C  # See above. Abbreviation rules for subsequent cites (cites
+;TI"*  # referencing earlier cited items)
+;TI"}
+;T:@format0o;
+;	[I"9@return [Hash] the Names' default formatting options;T:
+@fileI"lib/citeproc/names.rb;T:0@omit_headings_from_table_of_contents_below0T@7I"CiteProc::Names;TcRDoc::NormalClass0

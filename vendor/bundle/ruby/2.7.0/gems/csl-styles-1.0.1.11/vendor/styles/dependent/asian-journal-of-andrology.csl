@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <info>
+    <title>Asian Journal of Andrology</title>
+    <id>http://www.zotero.org/styles/asian-journal-of-andrology</id>
+    <link href="http://www.zotero.org/styles/asian-journal-of-andrology" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://www.ajandrology.com/contributors.asp#sm" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>1008-682X</issn>
+    <eissn>1745-7262</eissn>
+    <updated>2014-06-10T01:36:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

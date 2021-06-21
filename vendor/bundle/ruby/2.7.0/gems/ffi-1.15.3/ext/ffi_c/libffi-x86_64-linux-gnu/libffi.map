@@ -1,0 +1,83 @@
+# 1 "/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/libffi.map.in"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 1 "<command-line>" 2
+# 1 "/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/libffi.map.in"
+
+
+# 1 "./fficonfig.h" 1
+# 4 "/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/libffi.map.in" 2
+# 1 "include/ffitarget.h" 1
+# 5 "/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/libffi.map.in" 2
+
+
+
+
+LIBFFI_BASE_8.0 {
+  global:
+
+ ffi_type_void;
+ ffi_type_uint8;
+ ffi_type_sint8;
+ ffi_type_uint16;
+ ffi_type_sint16;
+ ffi_type_uint32;
+ ffi_type_sint32;
+ ffi_type_uint64;
+ ffi_type_sint64;
+ ffi_type_float;
+ ffi_type_double;
+ ffi_type_longdouble;
+ ffi_type_pointer;
+
+
+ ffi_call;
+ ffi_prep_cif;
+ ffi_prep_cif_var;
+
+ ffi_raw_call;
+ ffi_ptrarray_to_raw;
+ ffi_raw_to_ptrarray;
+ ffi_raw_size;
+
+ ffi_java_raw_call;
+ ffi_java_ptrarray_to_raw;
+ ffi_java_raw_to_ptrarray;
+ ffi_java_raw_size;
+
+ ffi_get_struct_offsets;
+  local:
+ *;
+};
+
+
+LIBFFI_COMPLEX_8.0 {
+  global:
+
+ ffi_type_complex_float;
+ ffi_type_complex_double;
+ ffi_type_complex_longdouble;
+} LIBFFI_BASE_8.0;
+
+
+
+LIBFFI_CLOSURE_8.0 {
+  global:
+ ffi_closure_alloc;
+ ffi_closure_free;
+ ffi_prep_closure;
+ ffi_prep_closure_loc;
+ ffi_prep_raw_closure;
+ ffi_prep_raw_closure_loc;
+ ffi_prep_java_raw_closure;
+ ffi_prep_java_raw_closure_loc;
+} LIBFFI_BASE_8.0;
+
+
+
+LIBFFI_GO_CLOSURE_8.0 {
+  global:
+ ffi_call_go;
+ ffi_prep_go_closure;
+} LIBFFI_CLOSURE_8.0;

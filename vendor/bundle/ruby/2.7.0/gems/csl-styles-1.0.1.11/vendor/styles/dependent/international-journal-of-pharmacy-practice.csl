@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>International Journal of Pharmacy Practice</title>
+    <id>http://www.zotero.org/styles/international-journal-of-pharmacy-practice</id>
+    <link href="http://www.zotero.org/styles/international-journal-of-pharmacy-practice" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%292042-7174/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0961-7671</issn>
+    <eissn>2042-7174</eissn>
+    <updated>2013-03-29T23:50:45+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

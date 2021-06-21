@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Cellular Biochemistry</title>
+    <title-short>JCB</title-short>
+    <id>http://www.zotero.org/styles/journal-of-cellular-biochemistry</id>
+    <link href="http://www.zotero.org/styles/journal-of-cellular-biochemistry" rel="self"/>
+    <link href="http://www.zotero.org/styles/developmental-neurobiology" rel="template"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4644" rel="documentation"/>
+    <author>
+      <name>Patrick O'Brien, PhD</name>
+      <email>obrienpat86@gmail.com</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0730-2312</issn>
+    <eissn>1097-4644</eissn>
+    <updated>2018-07-03T15:50:32+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " delimiter=", " initialize-with=""/>
+      <label form="long" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with=""/>
+      <label prefix=", "/>
+    </names>
+  </macro>
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=":" suffix=".">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="article-journal" match="any">
+        <choose>
+          <if match="none" variable="volume page">
+            <text variable="DOI" prefix="https://doi.org/"/>
+          </if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <citation disambiguate-add-year-suffix="true" et-al-min="3" et-al-use-first="1" collapse="year">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="issued"/>
+    </sort>
+    <layout delimiter="; " prefix="[" suffix="]">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key macro="author"/>
+      <key macro="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author" suffix="."/>
+        <text macro="issued" suffix="."/>
+        <choose>
+          <if type="book">
+            <text variable="title" suffix="." text-case="title"/>
+            <text macro="publisher"/>
+            <group delimiter=" ">
+              <text variable="number-of-pages"/>
+              <label variable="page" form="short"/>
+            </group>
+          </if>
+          <else-if type="chapter">
+            <group delimiter=". ">
+              <text variable="title"/>
+              <group delimiter=": ">
+                <text term="in" text-case="capitalize-first"/>
+                <text macro="editor"/>
+              </group>
+              <text variable="container-title" text-case="title"/>
+              <text variable="edition" suffix="e."/>
+              <text macro="publisher"/>
+            </group>
+            <group delimiter=" ">
+              <label plural="never" strip-periods="true" variable="page" form="short"/>
+              <text variable="page"/>
+            </group>
+          </else-if>
+          <else-if type="paper-conference">
+            <text variable="title" suffix="."/>
+            <text variable="event" prefix="In: " suffix=","/>
+            <text variable="event-place"/>
+          </else-if>
+          <else-if type="article-journal">
+            <group delimiter=". ">
+              <text variable="title"/>
+              <text variable="container-title" form="short" strip-periods="true"/>
+            </group>
+            <group delimiter=":" prefix=" ">
+              <group>
+                <text variable="volume"/>
+                <text variable="issue" prefix="(" suffix=")"/>
+              </group>
+              <text variable="page"/>
+            </group>
+          </else-if>
+          <else-if type="webpage post-weblog" match="any">
+            <text variable="container-title" suffix="."/>
+            <text variable="URL" suffix="."/>
+            <text term="accessed" text-case="capitalize-first"/>
+            <date form="text" variable="accessed"/>
+          </else-if>
+          <else>
+            <text variable="container-title"/>
+          </else>
+        </choose>
+      </group>
+      <text macro="access" prefix=". "/>
+    </layout>
+  </bibliography>
+</style>

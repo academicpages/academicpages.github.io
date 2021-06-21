@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Biophysical Journal</title>
+    <title-short>BPJ</title-short>
+    <id>http://www.zotero.org/styles/biophysical-journal</id>
+    <link href="http://www.zotero.org/styles/biophysical-journal" rel="self"/>
+    <link href="http://download.cell.com/images/edimages/Biophys/Instructions_to_Authors.pdf" rel="documentation"/>
+    <author>
+      <name>Upinder S. Bhalla</name>
+      <email>bhalla@ncbs.res.in</email>
+    </author>
+    <contributor>
+      <name>Michael Berkowitz</name>
+      <email>mberkowi@gmu.edu</email>
+    </contributor>
+    <contributor>
+      <name>Sean Takats</name>
+      <email>stakats@gmu.edu</email>
+    </contributor>
+    <contributor>
+      <name>Sebsatian Karcher</name>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <issn>0006-3495</issn>
+    <eissn>1542-0086</eissn>
+    <summary>Style for Biophysical Journal</summary>
+    <updated>2020-03-06T01:32:05+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author" suffix=". ">
+      <name and="text" sort-separator=", " initialize-with="." name-as-sort-order="first" delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor" suffix=". ">
+      <name sort-separator=" " initialize-with="" name-as-sort-order="first" delimiter=", " delimiter-precedes-last="always"/>
+      <label form="long" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="date">
+    <date variable="issued" suffix=". ">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher-place" suffix=": "/>
+    <text variable="publisher"/>
+  </macro>
+  <macro name="title">
+    <group delimiter=" ">
+      <text variable="title"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="date"/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <text macro="edition" prefix=" "/>
+          <text macro="publisher" prefix=" "/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group prefix=" " suffix=". ">
+            <text term="in" suffix=": " text-case="capitalize-first"/>
+            <text macro="editor"/>
+            <text variable="container-title"/>
+          </group>
+          <text macro="publisher" prefix=" "/>
+          <group prefix=". ">
+            <label variable="page" form="short" suffix=" "/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=". ">
+            <text variable="container-title" form="short" font-style="italic"/>
+            <group delimiter=":">
+              <text variable="volume"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

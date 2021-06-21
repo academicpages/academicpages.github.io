@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Journal of Hip Preservation Surgery</title>
+    <id>http://www.zotero.org/styles/journal-of-hip-preservation-surgery</id>
+    <link href="http://www.zotero.org/styles/journal-of-hip-preservation-surgery" rel="self"/>
+    <link href="http://www.zotero.org/styles/oxford-university-press-scimed-numeric" rel="independent-parent"/>
+    <link href="http://www.oxfordjournals.org/our_journals/jhps/for_authors/manuscript_instructions.html" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <eissn>2054-8397</eissn>
+    <updated>2015-12-08T06:17:22+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,33 @@
+# Repository settings set via https://github.com/probot/settings
+# Note: Please Don't edit this file directly.
+# Edit https://github.com/benbalter/shared-community-files instead.
+
+repository:
+  has_issues: true
+  has_wiki: false
+  has_projects: false
+  has_downloads: false
+
+labels:
+  - name: help wanted
+    oldname: help-wanted
+    color: 0e8a16
+  - name: more-information-needed
+    color: d93f0b
+  - name: bug
+    color: b60205
+  - name: feature
+    color: 1d76db
+  - name: good first issue
+    color: "5319e7"
+
+# Not currently implemented by probot/settings, but manually implemented in script/deploy
+branch_protection:
+  restrictions: null
+  enforce_admins: false
+  required_status_checks:
+    strict: true
+    contexts:
+      - "continuous-integration/travis-ci"
+  required_pull_request_reviews:
+    require_code_owner_reviews: true

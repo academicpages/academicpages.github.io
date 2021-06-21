@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
+  <info>
+    <title>Biens symboliques / Symbolic Goods</title>
+    <title-short>BS/SG</title-short>
+    <id>http://www.zotero.org/styles/biens-symboliques-symbolic-goods</id>
+    <link href="http://www.zotero.org/styles/biens-symboliques-symbolic-goods" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="template"/>
+    <link href="https://revue.biens-symboliques.net/200" rel="documentation"/>
+    <author>
+      <name>Christine Daussin</name>
+      <email>christine.daussin@cnrs.fr</email>
+      <uri>http://www.cresppa.cnrs.fr/</uri>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="humanities"/>
+    <category field="sociology"/>
+    <eissn>2490-9424</eissn>
+    <updated>2019-01-10T05:11:32+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="fr">
+    <terms>
+      <term name="editor" form="short">
+        <single>dir.</single>
+        <multiple>dirs.</multiple>
+      </term>
+      <term name="director" form="short">
+        <single>réal.</single>
+        <multiple>réal.</multiple>
+      </term>
+      <term name="edition" form="short">éd.</term>
+      <term name="editor" form="verb">édition établie par</term>
+      <term name="translator" form="verb">traduit par</term>
+      <term name="interviewer" form="verb">entretien réalisé par</term>
+      <term name="et-al"> et&#160;al.</term>
+      <term name="page-range-delimiter">-</term>
+      <term name="paragraph" form="short">§</term>
+    </terms>
+  </locale>
+  <locale xml:lang="en">
+    <terms>
+      <term name="edition" form="short">ed.</term>
+      <term name="editor" form="verb-short">ed. by</term>
+      <term name="translator" form="verb">translated by</term>
+      <term name="interviewer" form="verb">interview conducted by</term>
+      <term name="et-al">et&#160;al.</term>
+      <term name="page-range-delimiter">-</term>
+      <term name="paragraph" form="short">§</term>
+    </terms>
+  </locale>
+  <!-- MACRO AUTEUR PRINCIPAL (citation) -->
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
+      <et-al font-style="italic"/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <choose>
+          <if type="report">
+            <text variable="publisher"/>
+            <text variable="title" form="short" font-style="italic"/>
+          </if>
+          <else-if type="legal_case">
+            <text variable="title" font-style="italic"/>
+          </else-if>
+          <else-if type="book graphic  motion_picture song" match="any">
+            <text variable="title" form="short" font-style="italic"/>
+          </else-if>
+          <else-if type="bill legislation" match="any">
+            <text variable="title" form="short"/>
+          </else-if>
+          <else-if variable="reviewed-author">
+            <choose>
+              <if variable="reviewed-title" match="none">
+                <text variable="title" form="short" font-style="italic" prefix="Review of "/>
+              </if>
+              <else>
+                <text variable="title" form="short" quotes="true"/>
+              </else>
+            </choose>
+          </else-if>
+          <else>
+            <text variable="title" form="short" quotes="true"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <!-- MACRO AUTEUR PRINCIPAL (biblio) -->
+  <macro name="author">
+    <choose>
+      <if type="motion_picture broadcast">
+        <names variable="author">
+          <name form="long" and="symbol" delimiter-precedes-last="never" name-as-sort-order="all" sort-separator=" ">
+            <name-part name="family" font-variant="small-caps"/>
+          </name>
+          <et-al font-style="italic"/>
+        </names>
+        <text term="director" form="short" prefix=" (" suffix=".)"/>
+      </if>
+      <else>
+        <names variable="author">
+          <name form="long" and="symbol" delimiter-precedes-last="never" name-as-sort-order="all" sort-separator=" ">
+            <name-part name="family" font-variant="small-caps"/>
+          </name>
+          <et-al font-style="italic"/>
+          <substitute>
+            <names variable="editor"/>
+            <names variable="translator"/>
+          </substitute>
+        </names>
+      </else>
+    </choose>
+  </macro>
+  <!-- MACRO EDITEUR SCIENTIFIQUE (biblio) -->
+  <macro name="container-contributors">
+    <choose>
+      <if type="chapter paper-conference entry-dictionary entry-encyclopedia" match="any">
+        <group delimiter=", ">
+          <names variable="editor">
+            <name form="long" and="symbol" delimiter-precedes-last="never" name-as-sort-order="all" sort-separator=" ">
+              <name-part name="family" font-variant="small-caps"/>
+            </name>
+            <et-al font-style="italic"/>
+            <label form="short" prefix="&#160;(" text-case="title" suffix=")"/>
+          </names>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <!-- MACRO CONTRIBUTEURS (biblio) -->
+  <macro name="secondary-contributor">
+    <choose>
+      <if type="chapter paper-conference entry-dictionary entry-encyclopedia" match="none">
+        <group delimiter=". " prefix=" " suffix=".">
+          <names variable="interviewer">
+            <label form="verb" text-case="capitalize-first" suffix=". "/>
+            <name form="long" and="text" delimiter-precedes-last="never" sort-separator=" "/>
+            <et-al font-style="italic"/>
+          </names>
+          <names variable="editor translator" delimiter=". ">
+            <label form="verb" text-case="capitalize-first" suffix=" "/>
+            <name form="long" and="text" delimiter-precedes-last="never" sort-separator=" "/>
+            <et-al font-style="italic"/>
+          </names>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <!-- MACRO TITLE, PAR TYPE DE DOCUMENT (ndbp et biblio)-->
+  <macro name="title">
+    <choose>
+      <if type="book legal_case report song motion_picture graphic thesis personal_communication" match="any">
+        <text variable="title" text-case="title" font-style="italic"/>
+        <text variable="original-title" text-case="title" prefix=" [" suffix="]"/>
+      </if>
+      <else>
+        <text variable="title" text-case="title" quotes="true"/>
+        <text variable="original-title" text-case="title" prefix=" [" suffix="]" quotes="true"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- MACRO CONTAINER (container-title précédé de son book-author ou editor), PAR TYPE DE DOCUMENT (biblio) : fait appel aux macros BOOK_AUTHOR-BIB et EDITOR-BIB-->
+  <macro name="container-bib">
+    <choose>
+      <if type="chapter paper-conference entry-dictionary entry-encyclopedia" match="any">
+        <group delimiter=" ">
+          <text term="in" text-case="capitalize-first"/>
+          <group>
+            <text macro="container-contributors"/>
+            <text variable="container-title" font-style="italic" prefix=" " suffix=". "/>
+          </group>
+        </group>
+      </if>
+      <else-if type="article-journal article-newspaper article-magazine" match="any">
+        <text variable="container-title" font-style="italic" suffix=" "/>
+      </else-if>
+      <else-if type="interview">
+        <text variable="medium" font-style="italic"/>
+      </else-if>
+      <else-if type="webpage post post-weblog" match="any">
+        <text variable="container-title" font-style="italic"/>
+      </else-if>
+      <else-if type="speech" match="any">
+        <text variable="event" font-style="italic" prefix=" "/>
+      </else-if>
+      <else-if type="broadcast" match="any">
+        <text variable="container-title" font-style="italic"/>
+      </else-if>
+      <else-if type="motion_picture" match="any">
+        <text variable="collection-title" font-style="italic" prefix=" " suffix=". "/>
+      </else-if>
+      <else>
+        <group delimiter=" ">
+          <text term="in"/>
+          <text variable="container-title" font-style="italic" prefix=" "/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <!-- MACRO PUB-PLACE (biblio)-->
+  <macro name="pub-place-bib">
+    <choose>
+      <if type="speech" match="any">
+        <text variable="event-place"/>
+      </if>
+      <else>
+        <choose>
+          <if variable="publisher-place" match="any">
+            <text variable="publisher-place" suffix=", "/>
+          </if>
+          <else>
+            <text value=""/>
+          </else>
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <!-- MACRO PUBLISHER (biblio)-->
+  <macro name="publisher">
+    <choose>
+      <if type="book chapter paper-conference entry-dictionary entry-encyclopedia report" match="any">
+        <text macro="pub-place-bib"/>
+        <text variable="publisher"/>
+        <text macro="collection" prefix=". "/>
+      </if>
+      <else-if type="thesis manuscript personal_communication speech">
+        <text variable="genre" text-case="capitalize-first" prefix=" " suffix=". "/>
+        <text macro="pub-place-bib"/>
+        <text variable="publisher" prefix=" "/>
+      </else-if>
+      <else-if type="broadcast">
+        <text macro="pub-place-bib"/>
+        <text variable="publisher" prefix=". "/>
+      </else-if>
+      <else-if type="motion_picture">
+        <text variable="publisher"/>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- MACRO ARCHIVE -->
+  <macro name="archive">
+    <group prefix="Source&#160;: ">
+      <text variable="archive"/>
+      <text variable="archive_location" prefix=". "/>
+    </group>
+  </macro>
+  <!-- MACRO DATE POUR CITATION (citation)-->
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <choose>
+          <if is-uncertain-date="issued">
+            <group prefix="[" suffix="]" delimiter=" ">
+              <text term="circa" form="short"/>
+              <group>
+                <date variable="issued">
+                  <date-part name="year"/>
+                </date>
+              </group>
+            </group>
+          </if>
+          <else>
+            <group>
+              <date variable="issued">
+                <date-part name="year"/>
+              </date>
+            </group>
+          </else>
+        </choose>
+        <group prefix=" [" suffix="]">
+          <choose>
+            <if is-uncertain-date="original-date">
+              <group prefix="[" suffix="]" delimiter=" ">
+                <text term="circa" form="short"/>
+                <date variable="original-date">
+                  <date-part name="year"/>
+                </date>
+              </group>
+            </if>
+            <else>
+              <date delimiter=" " variable="original-date">
+                <date-part name="year"/>
+              </date>
+            </else>
+          </choose>
+        </group>
+      </if>
+      <else-if variable="status">
+        <text variable="status" text-case="lowercase"/>
+        <text variable="year-suffix" prefix="-"/>
+      </else-if>
+      <else>
+        <text term="no date" form="short"/>
+        <text variable="year-suffix" prefix="-"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- MACRO POUR LE CLASSEMENT DES CITATIONS-->
+  <macro name="issued-sort">
+    <choose>
+      <if type="article article-magazine article-newspaper broadcast motion_picture interview pamphlet personal_communication post post-weblog speech treaty webpage" match="any">
+        <date variable="issued">
+          <date-part name="year"/>
+          <date-part name="month"/>
+          <date-part name="day"/>
+        </date>
+      </if>
+      <else>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <!-- MACRO DATE PAR TYPE DE DOCUMENT (biblio)-->
+  <macro name="date-bib">
+    <group>
+      <choose>
+        <if type="article-journal book chapter entry-dictionary entry-encyclopedia motion_picture song thesis report" match="none">
+          <choose>
+            <if variable="issued" match="any">
+              <date variable="issued" form="text" prefix=". ">
+                <date-part name="day" form="ordinal"/>
+                <date-part name="month"/>
+                <date-part name="year"/>
+              </date>
+            </if>
+            <else>
+              <text term="no date" form="short" prefix=", "/>
+            </else>
+          </choose>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <!-- MACRO URL/DOI (biblio seulement)-->
+  <macro name="url_doi">
+    <choose>
+      <if variable="DOI" match="any">
+        <group prefix=". " delimiter=", ">
+          <text variable="DOI" prefix="https://doi.org/"/>
+        </group>
+      </if>
+      <else-if variable="accessed" match="any">
+        <choose>
+          <if variable="URL" match="any">
+            <text term="online" prefix=" [" suffix="] "/>
+            <group>
+              <text variable="URL"/>
+              <text term="accessed" prefix=" (" suffix=" "/>
+              <date variable="accessed" form="text" suffix=")">
+                <date-part name="day" form="ordinal"/>
+                <date-part name="month"/>
+                <date-part name="year"/>
+              </date>
+            </group>
+          </if>
+        </choose>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- MACRO EDITION, FORMAT(ndbp et biblio)-->
+  <macro name="edition">
+    <group delimiter=", ">
+      <choose>
+        <if type="book legal_case report song chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
+          <choose>
+            <if is-numeric="edition">
+              <group delimiter=" ">
+                <number variable="edition" form="ordinal"/>
+                <text term="edition" form="short"/>
+              </group>
+            </if>
+            <else>
+              <text variable="edition" text-case="capitalize-first"/>
+            </else>
+          </choose>
+        </if>
+        <else-if type="bill broadcast legislation report patent song" match="any">
+          <group>
+            <text term="issue" form="short" prefix="" suffix="&#160;"/>
+            <text variable="number"/>
+          </group>
+        </else-if>
+      </choose>
+    </group>
+  </macro>
+  <!-- MACRO VOLUME pour les ouvrages à parution unique (ndbp et biblio)-->
+  <macro name="volume_singlepublication">
+    <choose>
+      <if type="bill book graphic legal_case motion_picture paper-conference manuscript report song thesis" match="any">
+        <choose>
+          <if is-numeric="number-of-volumes">
+            <text variable="number-of-volumes" prefix=" " suffix="&#160;"/>
+            <text term="volume" form="short"/>
+          </if>
+          <else>
+            <text variable="number-of-volumes"/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <!-- MACRO COLLECTION/RUBRIQUE (seulement dans biblio)-->
+  <macro name="collection">
+    <group delimiter=", ">
+      <choose>
+        <if variable="collection-title" match="any">
+          <group delimiter=", ">
+            <group delimiter=" ">
+              <text variable="collection-title" quotes="true"/>
+            </group>
+            <group>
+              <choose>
+                <if is-numeric="collection-number">
+                  <text term="issue" form="short" suffix="&#160;"/>
+                  <text variable="collection-number"/>
+                </if>
+                <else-if type="report">
+                  <text variable="number"/>
+                </else-if>
+                <else>
+                  <text variable="collection-number"/>
+                </else>
+              </choose>
+            </group>
+          </group>
+        </if>
+      </choose>
+      <text variable="section" quotes="true" prefix="rubrique "/>
+    </group>
+  </macro>
+  <!-- MACRO LOCATORS POUR CITATION (citation)-->
+  <macro name="citation-locator">
+    <group>
+      <choose>
+        <if locator="chapter">
+          <label variable="locator" form="long" prefix=", "/>
+        </if>
+        <else-if locator="page">
+          <text variable="locator" prefix=": "/>
+        </else-if>
+        <else>
+          <label variable="locator" form="short" prefix=" "/>
+        </else>
+      </choose>
+      <text variable="locator" form="short" prefix=" "/>
+    </group>
+  </macro>
+  <!-- MACRO LOCATORS POUR BIBLIOGR-->
+  <macro name="locators">
+    <choose>
+      <if type="article-journal article article-magazine" match="any">
+        <group delimiter="">
+          <choose>
+            <if variable="volume" match="any">
+              <text variable="volume"/>
+              <text variable="issue" prefix=" (" suffix=")"/>
+            </if>
+            <else>
+              <text variable="issue" prefix=" "/>
+            </else>
+          </choose>
+          <text variable="page" prefix="&#160;: "/>
+        </group>
+      </if>
+      <else-if type="chapter entry-encyclopedia entry-dictionary" match="any">
+        <choose>
+          <if is-numeric="volume">
+            <text term="volume" form="short" prefix=" " suffix=".&#160;"/>
+            <text variable="volume"/>
+          </if>
+          <else>
+            <text variable="volume"/>
+          </else>
+        </choose>
+        <text variable="page" prefix="&#160;: "/>
+      </else-if>
+      <else-if type="article-newspaper">
+        <group delimiter=" " prefix=", ">
+          <label variable="page" form="short"/>
+          <text variable="page"/>
+        </group>
+      </else-if>
+      <else-if type="motion_picture graphic broadcast song">
+        <group delimiter=". " prefix=". ">
+          <text variable="medium"/>
+          <text variable="dimensions"/>
+          <text variable="genre" text-case="capitalize-first" prefix=" [" suffix="]"/>
+        </group>
+      </else-if>
+      <else-if type="graphic paper-conference">
+        <group delimiter=", ">
+          <label variable="locator" form="short" suffix=" "/>
+          <text variable="page"/>
+        </group>
+      </else-if>
+      <else-if type="legal_case">
+        <group prefix=" (" suffix=")" delimiter=" ">
+          <text variable="authority"/>
+          <choose>
+            <if variable="container-title" match="any">
+              <date variable="issued" form="numeric" date-parts="year"/>
+            </if>
+            <else>
+              <date variable="issued" form="text"/>
+            </else>
+          </choose>
+        </group>
+      </else-if>
+      <else-if type="bill legislation" match="any">
+        <date variable="issued" prefix=" (" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- MACRO EDITION ORIGINALE (biblio)-->
+  <macro name="firstedition-bib">
+    <group delimiter=", ">
+      <text variable="original-publisher-place"/>
+      <text variable="original-publisher"/>
+    </group>
+  </macro>
+  <!-- MACRO EXTRA (biblio) -->
+  <macro name="extra">
+    <group delimiter=", ">
+      <text variable="note" text-case="capitalize-first"/>
+    </group>
+  </macro>
+  <!--_-_-_-_-_-SECTION DEFINITION DES NDBP (citation)-_-_-_-_-_-_-->
+  <citation et-al-min="6" et-al-use-first="3" et-al-subsequent-min="2" et-al-subsequent-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" givenname-disambiguation-rule="primary-name" collapse="year">
+    <sort>
+      <key macro="author-short"/>
+      <key macro="issued-sort"/>
+    </sort>
+    <layout delimiter="; " prefix=" (" suffix=")">
+      <group delimiter=" ">
+        <text macro="author-short"/>
+        <text macro="issued-year"/>
+      </group>
+      <text macro="citation-locator"/>
+    </layout>
+  </citation>
+  <!--_-_-_-_-_-SECTION DEFINITION DE LA BIBLIO (bibliography)-_-_-_-_-_-_-->
+  <bibliography entry-spacing="1">
+    <sort>
+      <key macro="author" names-min="3" names-use-first="3"/>
+      <key variable="issued" sort="descending"/>
+      <key macro="title"/>
+    </sort>
+    <layout suffix=".">
+      <group>
+        <group delimiter=". " suffix=". ">
+          <text macro="author"/>
+          <text macro="issued-year"/>
+          <text macro="title"/>
+          <text macro="secondary-contributor"/>
+        </group>
+        <text macro="container-bib"/>
+        <group delimiter=" ">
+          <text macro="edition" prefix=" "/>
+          <text macro="publisher"/>
+          <text macro="volume_singlepublication"/>
+        </group>
+        <text macro="date-bib"/>
+        <text macro="locators"/>
+        <text macro="url_doi"/>
+        <group delimiter=". " prefix=". ">
+          <text macro="firstedition-bib" prefix=" "/>
+          <text macro="extra"/>
+          <text macro="archive" prefix=""/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

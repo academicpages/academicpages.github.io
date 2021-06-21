@@ -1,0 +1,165 @@
+current directory: /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210619-1831646-31g78g.rb extconf.rb
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi,/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi,/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi... no
+checking for whether -Wl,--exclude-libs,ALL is accepted as LDFLAGS... yes
+checking for whether -pthread is accepted as LDFLAGS... yes
+creating extconf.h
+creating Makefile
+
+current directory: /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c
+make "DESTDIR="
+Configuring libffi
+make -C "/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu"
+make[1]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+make  all-recursive
+make[2]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+Making all in include
+make[3]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/include'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/include'
+Making all in testsuite
+make[3]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/testsuite'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/testsuite'
+Making all in man
+make[3]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/man'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/man'
+make[3]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src   -Wall -fexceptions -c -o src/prep_cif.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/prep_cif.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -Wall -fexceptions -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/prep_cif.c  -fPIC -DPIC -o src/.libs/prep_cif.o
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src   -Wall -fexceptions -c -o src/types.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/types.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -Wall -fexceptions -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/types.c  -fPIC -DPIC -o src/.libs/types.o
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src   -Wall -fexceptions -c -o src/raw_api.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/raw_api.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -Wall -fexceptions -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/raw_api.c  -fPIC -DPIC -o src/.libs/raw_api.o
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src   -Wall -fexceptions -c -o src/java_raw_api.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -Wall -fexceptions -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c  -fPIC -DPIC -o src/.libs/java_raw_api.o
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c: In function ‘ffi_java_raw_call’:
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c:317:3: warning: ‘ffi_java_raw_to_ptrarray’ is deprecated [-Wdeprecated-declarations]
+  317 |   ffi_java_raw_to_ptrarray (cif, raw, avalue);
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c:76:1: note: declared here
+   76 | ffi_java_raw_to_ptrarray (ffi_cif *cif, ffi_java_raw *raw, void **args)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c: In function ‘ffi_java_translate_args’:
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c:328:3: warning: ‘ffi_java_raw_size’ is deprecated [-Wdeprecated-declarations]
+  328 |   ffi_java_raw *raw = (ffi_java_raw*)alloca (ffi_java_raw_size (cif));
+      |   ^~~~~~~~~~~~
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c:45:1: note: declared here
+   45 | ffi_java_raw_size (ffi_cif *cif)
+      | ^~~~~~~~~~~~~~~~~
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c:331:3: warning: ‘ffi_java_ptrarray_to_raw’ is deprecated [-Wdeprecated-declarations]
+  331 |   ffi_java_ptrarray_to_raw (cif, avalue, raw);
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c:157:1: note: declared here
+  157 | ffi_java_ptrarray_to_raw (ffi_cif *cif, void **args, ffi_java_raw *raw)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c: In function ‘ffi_prep_java_raw_closure’:
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c:369:3: warning: ‘ffi_prep_java_raw_closure_loc’ is deprecated [-Wdeprecated-declarations]
+  369 |   return ffi_prep_java_raw_closure_loc (cl, cif, fun, user_data, cl);
+      |   ^~~~~~
+/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/java_raw_api.c:337:1: note: declared here
+  337 | ffi_prep_java_raw_closure_loc (ffi_java_raw_closure* cl,
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src   -Wall -fexceptions -c -o src/closures.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/closures.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -Wall -fexceptions -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/closures.c  -fPIC -DPIC -o src/.libs/closures.o
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src   -Wall -fexceptions -c -o src/x86/ffi64.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/x86/ffi64.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -Wall -fexceptions -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/x86/ffi64.c  -fPIC -DPIC -o src/x86/.libs/ffi64.o
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src  -c -o src/x86/unix64.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/x86/unix64.S
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/x86/unix64.S  -fPIC -DPIC -o src/x86/.libs/unix64.o
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src   -Wall -fexceptions -c -o src/x86/ffiw64.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/x86/ffiw64.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -Wall -fexceptions -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/x86/ffiw64.c  -fPIC -DPIC -o src/x86/.libs/ffiw64.o
+/bin/bash ./libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src  -c -o src/x86/win64.lo /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/x86/win64.S
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src -c /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src/x86/win64.S  -fPIC -DPIC -o src/x86/.libs/win64.o
+gcc -DHAVE_CONFIG_H -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi  -I. -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/include -Iinclude -I/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/src   -Wall -fexceptions -DX86_64 -DGENERATE_LIBFFI_MAP \
+ -E -x assembler-with-cpp -o libffi.map /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/libffi.map.in
+/bin/bash ./libtool  --tag=CC   --mode=link gcc  -Wall -fexceptions   -o libffi_convenience.la  src/prep_cif.lo src/types.lo src/raw_api.lo src/java_raw_api.lo src/closures.lo   src/x86/ffi64.lo src/x86/unix64.lo src/x86/ffiw64.lo src/x86/win64.lo 
+libtool: link: rm -fr  .libs/libffi_convenience.a(D)
+libtool: link: ar cru .libs/libffi_convenience.a src/.libs/prep_cif.o src/.libs/types.o src/.libs/raw_api.o src/.libs/java_raw_api.o src/.libs/closures.o src/x86/.libs/ffi64.o src/x86/.libs/unix64.o src/x86/.libs/ffiw64.o src/x86/.libs/win64.o 
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: link: ranlib .libs/libffi_convenience.a
+libtool: link: ( cd ".libs" && rm -f "libffi_convenience.la" && ln -s "../libffi_convenience.la" "libffi_convenience.la" )
+/bin/bash ./libtool  --tag=CC   --mode=link gcc  -Wall -fexceptions -no-undefined -version-info `grep -v '^#' /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi/libtool-version` -Wl,--version-script,libffi.map    -o libffi.la -rpath /usr/local/lib/../lib src/prep_cif.lo src/types.lo src/raw_api.lo src/java_raw_api.lo src/closures.lo  src/x86/ffi64.lo src/x86/unix64.lo src/x86/ffiw64.lo src/x86/win64.lo 
+libtool: link: gcc -shared  -fPIC -DPIC  src/.libs/prep_cif.o src/.libs/types.o src/.libs/raw_api.o src/.libs/java_raw_api.o src/.libs/closures.o src/x86/.libs/ffi64.o src/x86/.libs/unix64.o src/x86/.libs/ffiw64.o src/x86/.libs/win64.o    -Wl,--version-script -Wl,libffi.map   -Wl,-soname -Wl,libffi.so.8 -o .libs/libffi.so.8.1.0
+libtool: link: (cd ".libs" && rm -f "libffi.so.8" && ln -s "libffi.so.8.1.0" "libffi.so.8")
+libtool: link: (cd ".libs" && rm -f "libffi.so" && ln -s "libffi.so.8.1.0" "libffi.so")
+libtool: link: ( cd ".libs" && rm -f "libffi.la" && ln -s "../libffi.la" "libffi.la" )
+make[3]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+make[2]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+make[1]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+compiling AbstractMemory.c
+compiling ArrayType.c
+compiling Buffer.c
+compiling Call.c
+compiling ClosurePool.c
+compiling DynamicLibrary.c
+compiling Function.c
+compiling FunctionInfo.c
+compiling LastError.c
+compiling LongDouble.c
+compiling MappedType.c
+compiling MemoryPointer.c
+compiling MethodHandle.c
+compiling Platform.c
+compiling Pointer.c
+compiling Struct.c
+compiling StructByValue.c
+compiling StructLayout.c
+compiling Thread.c
+compiling Type.c
+compiling Types.c
+compiling Variadic.c
+compiling ffi.c
+linking shared-object ffi_c.so
+
+current directory: /home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c
+make "DESTDIR=" install
+make -C "/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu"
+make[1]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+make  all-recursive
+make[2]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+Making all in include
+make[3]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/include'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/include'
+Making all in testsuite
+make[3]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/testsuite'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/testsuite'
+Making all in man
+make[3]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/man'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu/man'
+make[3]: Entering directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+make[3]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+make[2]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+make[1]: Leaving directory '/home/cessi/Personal_page/Website/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.3/ext/ffi_c/libffi-x86_64-linux-gnu'
+compiling AbstractMemory.c
+compiling ArrayType.c
+compiling Buffer.c
+compiling Call.c
+compiling ClosurePool.c
+compiling DynamicLibrary.c
+compiling Function.c
+compiling FunctionInfo.c
+compiling LastError.c
+compiling LongDouble.c
+compiling MappedType.c
+compiling MemoryPointer.c
+compiling MethodHandle.c
+compiling Platform.c
+compiling Pointer.c
+compiling Struct.c
+compiling StructByValue.c
+compiling StructLayout.c
+compiling Thread.c
+compiling Type.c
+compiling Types.c
+compiling Variadic.c
+compiling ffi.c
+linking shared-object ffi_c.so
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20210619-1831646-1llj43d

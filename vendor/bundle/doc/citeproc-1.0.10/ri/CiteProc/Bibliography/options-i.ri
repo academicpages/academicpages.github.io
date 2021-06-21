@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"options:ETI"#CiteProc::Bibliography#options;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] options ;TI"@see .defaults ;TI"2@return [Hash] the current formatting options;T:
+@fileI"!lib/citeproc/bibliography.rb;T:0@omit_headings_from_table_of_contents_below0F@I"CiteProc::Bibliography;TcRDoc::NormalClass0

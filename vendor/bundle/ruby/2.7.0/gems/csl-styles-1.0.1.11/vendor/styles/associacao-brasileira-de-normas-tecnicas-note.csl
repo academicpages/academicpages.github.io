@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" default-locale="pt-BR" demote-non-dropping-particle="never">
+  <info>
+    <title>Associação Brasileira de Normas Técnicas (note, Portuguese - Brazil)</title>
+    <title-short>ABNT</title-short>
+    <id>http://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas-note</id>
+    <link href="http://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas-note" rel="self"/>
+    <link href="https://forums.zotero.org/discussion/24288/" rel="documentation"/>
+    <author>
+      <name>Fabio Baqueiro Figueiredo</name>
+      <email>fabiobaq@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="generic-base"/>
+    <summary>Estilo de citação em nota para as Humanidades tão próximo quanto possível das normas da ABNT (concebida originalmente apenas para autor-data).
+      Ainda em desenvolvimento. 
+      Por enquanto, lida apenas com um conjunto limitado de tipos de referências - os que correspondem grosso modo aos conceitos da ABNT de:
+      - monografias no todo: book thesis report motion_picture webpage;
+      - monografias em parte: broadcast entry entry-dictionary entry-encyclopedia chapter paper-conference speech;
+      - periódicos em parte: article article-magazine article-newspaper article-journal.
+      Observações:
+      - Webpage é considerado uma monografia disponível exclusivamente online.
+        Informações sobre o contexto ou sobre a publicação original devem ser fornecidas na variável "note" (campo "extra" no Zotero) e serão apresentadas como inseridas.
+      - Tipos de referência particulares podem não estar em total conformidade com as normas da ABNT, mas são apresentados o mais próximo possível delas.
+      - O suporte a outros tipos de referência será incluído em algum momento futuro.
+
+
+      Note and bibliography citation style for works in Humanities conforming as much as possible to Brazilian ABNT standard (originally designed only for author-date style).
+      Still under development. 
+      For now, it only copes with a limited host of reference types - those which correspond broadly to the ABNT-defined concepts of:
+      - monographs: book thesis report motion_picture webpage;
+      - parts of monographs: broadcast entry entry-dictionary entry-encyclopedia chapter paper-conference speech;
+      - parts of series: article article-magazine article-newspaper article-journal.
+      Notes:
+      - Webpage is considered as a monograph available online only. 
+        Information about context or original publication should be given in the "note" variable (the "extra" field in Zotero) and will be rendered as is.
+      - Individual reference types may not conform exactly to ABNT standard, but are rendered as closest as possible.
+      - Support to other reference types will be added eventually.</summary>
+    <updated>2018-05-22T00:59:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- ::  D E V    S E C T I O N   :: -->
+  <!-- non-breaking hyphen= &#8209; -->
+  <!-- non-breaking space= &#160; -->
+  <!-- ::  T E R M O S   L O C A I S  :: -->
+  <locale xml:lang="pt-BR">
+    <terms>
+      <!-- RESPONSABILIDADES -->
+      <!-- organizadores (Editor) -->
+      <term name="editor" form="short">
+        <single>org.</single>
+        <multiple>orgs.</multiple>
+      </term>
+      <!-- editores (Book author) -->
+      <term name="container-author" form="short">
+        <single>ed.</single>
+        <multiple>eds.</multiple>
+      </term>
+      <!-- coordenadores (Series Editor) -->
+      <term name="collection-editor" form="short">
+        <single>coord.</single>
+        <multiple>coords.</multiple>
+      </term>
+      <term name="collection-editor" form="verb-short">coord.</term>
+      <!-- tradutores (Translator) -->
+      <term name="translator" form="short">
+        <single>trad.</single>
+        <multiple>trads.</multiple>
+      </term>
+      <term name="translator" form="verb-short">trad.</term>
+      <!-- LOCALIZADORES -->
+      <!-- volumes -->
+      <term name="volume" form="short">v.</term>
+      <!--números de edição -->
+      <term name="issue" form="short">n.</term>
+      <!-- páginas -->
+      <term name="page" form="short">p.</term>
+      <!-- capítulos -->
+      <term name="chapter" form="short">cap.</term>
+      <!-- MISC -->
+      <term name="and">; </term>
+      <term name="et-al">et al</term>
+      <term name="in">in</term>
+      <term name="ibid">ibid</term>
+      <term name="edition">ed</term>
+    </terms>
+  </locale>
+  <!-- :: M A C R O S :: -->
+  <!-- TÍTULOS -->
+  <!-- principal -->
+  <macro name="title">
+    <choose>
+      <if type="book thesis report motion_picture webpage" match="any">
+        <text variable="title" font-weight="bold"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title-short">
+    <choose>
+      <if type="book thesis report motion_picture webpage" match="any">
+        <text variable="title" form="short" font-weight="bold"/>
+      </if>
+      <else>
+        <text variable="title" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- da obra principal em caso de parte -->
+  <macro name="container">
+    <choose>
+      <if type="book thesis report motion_picture webpage" match="none">
+        <text variable="container-title" font-weight="bold"/>
+      </if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- da coleção editorial -->
+  <macro name="collection">
+    <choose>
+      <if variable="collection-title">
+        <text value="("/>
+        <text variable="collection-title"/>
+        <text variable="collection-number" prefix=", "/>
+        <text value=")"/>
+      </if>
+    </choose>
+  </macro>
+  <!-- AUTORES -->
+  <!-- principais -->
+  <macro name="producers">
+    <names variable="author">
+      <name form="long" name-as-sort-order="all" sort-separator=", ">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <et-al term="et-al" font-style="italic"/>
+      <substitute>
+        <text macro="container-producers"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="producers-short">
+    <names variable="author">
+      <name form="short">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <et-al term="et-al" font-style="italic"/>
+      <substitute>
+        <text macro="container-producers-short"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- da obra principal, em caso de parte -->
+  <macro name="container-producers">
+    <names variable="editor">
+      <name form="long" name-as-sort-order="all" sort-separator=", ">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <et-al term="et-al" font-style="italic"/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first"/>
+      <substitute>
+        <names variable="container-author"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="container-producers-short">
+    <names variable="editor">
+      <name form="short">
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <et-al term="et-al" font-style="italic"/>
+      <label form="short" prefix=" (" suffix=")" text-case="capitalize-first"/>
+      <substitute>
+        <names variable="container-author"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- secundários (por ora, apenas tradutores, mais tipos podem ser incluídos aqui, como entrevistadores, destinatários etc.) -->
+  <macro name="secondary-producers">
+    <names variable="translator">
+      <label form="verb-short" suffix=" " text-case="capitalize-first"/>
+      <name form="long" delimiter=", ">
+    </name>
+      <et-al term="et-al" font-style="italic"/>
+    </names>
+  </macro>
+  <!-- imprenta e localizadores fixos -->
+  <!-- data de lançamento: completa ou apenas o ano -->
+  <macro name="issued-parts">
+    <choose>
+      <!-- se o tipo for artigo de jornal ou revista, apresenta a data completa-->
+      <if type="article-magazine article-newspaper" match="any">
+        <date variable="issued">
+          <date-part name="day" form="numeric"/>
+          <date-part name="month" form="short"/>
+          <date-part name="year" form="long"/>
+        </date>
+      </if>
+      <!-- para qualquer outro tipo, apenas o ano -->
+      <else>
+        <date variable="issued">
+          <date-part name="year" form="long"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <!-- data de lançamento -->
+  <macro name="issued">
+    <choose>
+      <!-- se for uma data incerta, acrescenta colchetes -->
+      <if is-uncertain-date="issued">
+        <text macro="issued-parts" prefix="[" suffix="]"/>
+      </if>
+      <!-- caso contrário, apenas a data -->
+      <else>
+        <text macro="issued-parts"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- imprenta-->
+  <macro name="imprenta">
+    <choose>
+      <if variable="publisher-place publisher issued" match="none">
+        <text value="[s.l.: s.n., s.d.]"/>
+      </if>
+      <else-if variable="publisher-place publisher" match="none">
+        <text value="[s.l.: s.n.], "/>
+        <text macro="issued"/>
+      </else-if>
+      <else-if variable="publisher issued" match="none">
+        <text variable="publisher-place" suffix=": "/>
+        <text value="[s.n., s.d.]"/>
+      </else-if>
+      <else-if variable="publisher-place issued" match="none">
+        <text value="[s.l.]: "/>
+        <text variable="publisher" suffix=", "/>
+        <text value="[s.d.]"/>
+      </else-if>
+      <else>
+        <choose>
+          <if variable="publisher-place" match="none">
+            <text value="[s.l.]: "/>
+          </if>
+          <else>
+            <text variable="publisher-place" suffix=": "/>
+          </else>
+        </choose>
+        <choose>
+          <if variable="publisher" match="none">
+            <text value="[s.n.], "/>
+          </if>
+          <else>
+            <text variable="publisher" suffix=", "/>
+          </else>
+        </choose>
+        <choose>
+          <if variable="issued" match="none">
+            <text value="[s.d.]"/>
+          </if>
+          <else>
+            <text macro="issued"/>
+          </else>
+        </choose>
+      </else>
+    </choose>
+  </macro>
+  <!-- imprenta e localizadores-->
+  <macro name="imprenta-locators">
+    <!--Número da edição, se houver-->
+    <choose>
+      <!--se o campo contiver um número, usa a forma padrão-->
+      <if is-numeric="edition">
+        <group delimiter="&#160;">
+          <number variable="edition" form="numeric" suffix="."/>
+          <text term="edition" form="short" suffix=". "/>
+        </group>
+      </if>
+      <!--se o campo contiver algo que não seja um número, apresenta o que estiver lá-->
+      <else-if variable="edition">
+        <text variable="edition" suffix=". "/>
+      </else-if>
+    </choose>
+    <choose>
+      <!--Se for tese, apresenta tipo, universidade, cidade, ano-->
+      <if type="thesis" match="any">
+        <text variable="genre" suffix=", "/>
+        <text variable="publisher" suffix=", "/>
+        <text variable="publisher-place" suffix=", "/>
+        <text macro="issued"/>
+      </if>
+      <!--Se for outro tipo de monografia, apresenta cidade, editora, ano-->
+      <else-if type="book motion_picture report" match="any">
+        <text macro="imprenta"/>
+      </else-if>
+      <!--Se for capítulo, apresenta imprenta, volume, e paginação (se for o caso) -->
+      <else-if type="broadcast entry entry-dictionary entry-encyclopedia chapter paper-conference speech" match="any">
+        <text macro="imprenta"/>
+        <group>
+          <text term="volume" form="short" prefix=", " suffix="&#160;"/>
+          <text variable="volume"/>
+        </group>
+        <choose>
+          <!--Se houver localizador inserido diretamente na citação (on the fly)-->
+          <if variable="locator" match="any">
+            <choose>
+              <!-- se não for um número de página, exibe a paginação-->
+              <if locator="page" match="none">
+                <group>
+                  <text term="page" form="short" prefix=", " suffix="&#160;"/>
+                  <text variable="page"/>
+                </group>
+              </if>
+            </choose>
+          </if>
+          <!--Se não houver localizador inserido diretamente na citação (on the fly), exibe a paginação-->
+          <else>
+            <group>
+              <text term="page" form="short" prefix=", " suffix="&#160;"/>
+              <text variable="page"/>
+            </group>
+          </else>
+        </choose>
+      </else-if>
+      <!--Se for artigo, apresenta volume, número, paginação e ano-->
+      <else-if type="article article-magazine article-newspaper article-journal" match="any">
+        <group>
+          <text term="volume" form="short" suffix="&#160;"/>
+          <text variable="volume" suffix=", "/>
+        </group>
+        <group>
+          <text term="issue" form="short" suffix="&#160;"/>
+          <text variable="issue" suffix=", "/>
+        </group>
+        <group>
+          <text term="page" form="short" suffix="&#160;"/>
+          <text variable="page" suffix=", "/>
+        </group>
+        <date variable="issued">
+          <date-part name="year" form="long"/>
+        </date>
+      </else-if>
+      <!--Se for webpage, deixa em branco-->
+      <else-if type="webpage" match="any">
+        <text value=""/>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- internet-->
+  <macro name="access-info">
+    <choose>
+      <if variable="URL">
+        <text value="Disponível em: &lt;"/>
+        <text variable="URL"/>
+        <text value="&gt;."/>
+        <group>
+          <text value=" Acesso em: "/>
+          <date variable="accessed">
+            <date-part name="day" form="numeric" suffix="&#160;"/>
+            <date-part name="month" form="short" suffix="&#160;"/>
+            <date-part name="year" form="long"/>
+          </date>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="access-info-lowercase">
+    <choose>
+      <if variable="URL">
+        <text value="disponível em: &lt;"/>
+        <text variable="URL"/>
+        <text value="&gt;,"/>
+        <group>
+          <text value=" acesso em: "/>
+          <date variable="accessed">
+            <date-part name="day" form="numeric" suffix="&#160;"/>
+            <date-part name="month" form="short" suffix="&#160;"/>
+            <date-part name="year" form="long"/>
+          </date>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <!--localizadores inseridos diretamente na citação (on the fly)-->
+  <macro name="locators">
+    <group>
+      <label variable="locator" form="short" text-case="lowercase" suffix="&#160;"/>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <!-- :: C I T A T I O N   S T Y L E :: -->
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true" name-delimiter="; " delimiter-precedes-last="never" and="text">
+    <layout delimiter="; " suffix=".">
+      <choose>
+        <!-- apresenta a citação completa apenas da primeira vez que a obra for citada-->
+        <if position="first" match="any">
+          <!-- apresenta autores e título-->
+          <text macro="producers" suffix=", "/>
+          <text macro="title"/>
+          <choose>
+            <!-- se for artigo, apresenta o título da revista-->
+            <if type="article article-magazine article-newspaper article-journal" match="any">
+              <text macro="container" prefix=", "/>
+            </if>
+            <!-- se for capítulo, apresenta autores e título do livro-->
+            <else-if type="broadcast entry entry-dictionary entry-encyclopedia chapter paper-conference speech" match="any">
+              <text term="in" text-case="lowercase" font-style="italic" prefix=", " suffix=": "/>
+              <text macro="container-producers" suffix=", "/>
+              <text macro="container"/>
+            </else-if>
+            <!-- se for página da internet, apresenta o nome do site, dados de acesso e nota-->
+            <else-if type="webpage" match="any">
+              <text macro="container" prefix=", "/>
+              <text macro="access-info-lowercase" prefix=", "/>
+              <text variable="note" prefix=", (" suffix=")"/>
+            </else-if>
+          </choose>
+          <!-- imprenta-->
+          <text macro="imprenta-locators" prefix=", "/>
+          <!-- localizadores inseridos diretamente na citação (on the fly)-->
+          <text macro="locators" prefix=", "/>
+        </if>
+        <!-- se a citação for igual à anterior-->
+        <else-if position="ibid-with-locator" match="any">
+          <text term="ibid" text-case="capitalize-first" font-style="italic" suffix="."/>
+          <!-- localizadores inseridos diretamente na citação (on the fly)-->
+          <text macro="locators" prefix=", "/>
+        </else-if>
+        <!-- se a citação for igual à anterior, com os mesmo localizadores ou se a anterior não tem localizadores-->
+        <else-if position="ibid" match="any">
+          <text term="ibid" text-case="capitalize-first" font-style="italic" suffix="."/>
+        </else-if>
+        <!-- se não forma a primeira vez, mas tb não for igual à anterior, apresenta apenas autor e título em forma curta-->
+        <else>
+          <text macro="producers-short" suffix=", "/>
+          <text macro="title-short"/>
+          <!-- localizadores inseridos diretamente na citação (on the fly)-->
+          <text macro="locators" prefix=", "/>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <!-- :: B I B L I O G R A P H Y   S T Y L E :: -->
+  <bibliography hanging-indent="false" entry-spacing="0" et-al-min="4" et-al-use-first="3" name-delimiter="; " delimiter-precedes-last="never" and="text">
+    <sort>
+      <!--Classificado por autor e título-->
+      <key macro="producers"/>
+      <key macro="title"/>
+    </sort>
+    <layout>
+      <!-- apresenta autores e título-->
+      <text macro="producers" suffix=". "/>
+      <text macro="title" suffix=". "/>
+      <choose>
+        <!-- se for artigo, apresenta o título da revista, vírgula-->
+        <if type="article article-magazine article-newspaper article-journal" match="any">
+          <text macro="container" suffix=", "/>
+        </if>
+        <!-- se for capítulo, apresenta autores e título do livro, ponto-->
+        <else-if type="broadcast entry entry-dictionary entry-encyclopedia chapter paper-conference speech" match="any">
+          <text term="in" text-case="capitalize-first" font-style="italic" suffix=": "/>
+          <text macro="container-producers" suffix=". "/>
+          <text macro="container" suffix=". "/>
+        </else-if>
+        <!-- se for página da internet, apresenta o nome do site, ponto-->
+        <else-if type="webpage" match="any">
+          <text macro="container" suffix=". "/>
+        </else-if>
+      </choose>
+      <!-- informações sobre tradução-->
+      <text macro="secondary-producers" suffix=". "/>
+      <!-- imprenta-->
+      <text macro="imprenta-locators" suffix="."/>
+      <!-- número de volumes-->
+      <group>
+        <number variable="number-of-volumes" form="numeric" prefix=" "/>
+        <text term="volume" form="short"/>
+      </group>
+      <!-- informações sobre coleção-->
+      <text macro="collection" prefix=" " suffix="."/>
+      <!-- informações sobre acesso internet-->
+      <text macro="access-info" prefix=" " suffix="."/>
+      <!-- informações adicionais apenas para webpage-->
+      <choose>
+        <!-- se for webpage, apresenta informações de acesso e nota-->
+        <if type="webpage" match="any">
+          <text variable="note" prefix=" " suffix="." text-case="capitalize-first"/>
+        </if>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

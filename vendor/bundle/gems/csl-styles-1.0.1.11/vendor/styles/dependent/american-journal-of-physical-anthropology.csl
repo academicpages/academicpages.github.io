@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>American Journal of Physical Anthropology</title>
+    <id>http://www.zotero.org/styles/american-journal-of-physical-anthropology</id>
+    <link href="http://www.zotero.org/styles/american-journal-of-physical-anthropology" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa-6th-edition" rel="independent-parent"/>
+    <link href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291096-8644/homepage/ForAuthors.html" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <category field="science"/>
+    <issn>0002-9483</issn>
+    <eissn>1096-8644</eissn>
+    <summary>Style for American Journal of Physical Anthropology.</summary>
+    <updated>2020-02-15T16:48:01+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

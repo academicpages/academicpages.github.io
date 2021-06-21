@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+  <info>
+    <title>Česká a slovenská neurologie a neurochirurgie</title>
+    <id>http://www.zotero.org/styles/ceska-a-slovenska-neurologie-a-neurochirurgie</id>
+    <link href="http://www.zotero.org/styles/ceska-a-slovenska-neurologie-a-neurochirurgie" rel="self"/>
+    <link href="http://www.zotero.org/styles/vancouver-brackets-only-year-no-issue" rel="independent-parent"/>
+    <link href="http://www.csnn.eu/en/czech-slovak-neurology-instructions" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>1210-7859</issn>
+    <eissn>1802-4041</eissn>
+    <updated>2013-08-05T00:33:49+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

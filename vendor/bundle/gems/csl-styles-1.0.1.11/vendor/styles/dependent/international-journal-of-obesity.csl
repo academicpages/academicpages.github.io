@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
+  <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/npg -->
+  <info>
+    <title>International Journal of Obesity</title>
+    <id>http://www.zotero.org/styles/international-journal-of-obesity</id>
+    <link href="http://www.zotero.org/styles/international-journal-of-obesity" rel="self"/>
+    <link href="http://www.zotero.org/styles/nature-publishing-group-vancouver" rel="independent-parent"/>
+    <link href="http://www.nature.com/ijo/ijo_new_gta.pdf" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="biology"/>
+    <category field="medicine"/>
+    <issn>0307-0565</issn>
+    <eissn>1476-5497</eissn>
+    <updated>2014-06-23T03:22:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+</style>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Nature (no "et al.")</title>
+    <id>http://www.zotero.org/styles/nature-no-et-al</id>
+    <link href="http://www.zotero.org/styles/nature-no-et-al" rel="self"/>
+    <link href="http://mts-am.nature.com/cgi-bin/main.plex?form_type=display_auth_instructions#format" rel="documentation"/>
+    <author>
+      <name>Michael Berkowitz</name>
+      <email>mberkowi@gmu.edu</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <category field="generic-base"/>
+    <updated>2014-06-23T03:22:18+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else-if type="chapter" match="any"/>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=", " delimiter=", " and="symbol" initialize-with=". " delimiter-precedes-last="never" name-as-sort-order="all"/>
+      <label form="short" prefix=", "/>
+      <et-al font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="volume"/>
+      <else-if variable="DOI">
+        <text variable="DOI" prefix="doi:"/>
+      </else-if>
+      <else-if variable="URL">
+        <text term="at"/>
+        <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issuance">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song chapter paper-conference" match="any">
+        <group delimiter=", " prefix="(" suffix=").">
+          <text variable="publisher" form="long"/>
+          <date variable="issued">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+      <else>
+        <date prefix="(" suffix=")." variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <names variable="editor" prefix="(" suffix=")">
+          <label form="short" suffix=" "/>
+          <name and="symbol" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush" entry-spacing="0" line-spacing="2">
+    <layout>
+      <text variable="citation-number" suffix="."/>
+      <group delimiter=" ">
+        <text macro="author" suffix="."/>
+        <text macro="title" suffix="."/>
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <text term="in" form="long" plural="false"/>
+          </if>
+        </choose>
+        <text variable="container-title" font-style="italic" form="short"/>
+        <text macro="editor"/>
+        <group font-weight="bold">
+          <text variable="volume" suffix=","/>
+        </group>
+        <text variable="page"/>
+        <text macro="issuance"/>
+        <text macro="access"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>
