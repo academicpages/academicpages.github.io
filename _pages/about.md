@@ -20,7 +20,7 @@ I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I wo
 
 **Finite Continuum-Armed Bandits**, S. Gaucher. [NeuRIPS 2020.](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf)
 
-**Outliers Detection in Networks with Missing Links**, S. Gaucher, O. Klopp, G. Robin. [Arxiv](https://arxiv.org/abs/1911.13122)
+**Outliers Detection in Networks with Missing Links**, To appear in Computational Statistics and Data Analysis. S. Gaucher, O. Klopp, G. Robin. [Arxiv](https://arxiv.org/abs/1911.13122)
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp. [Journal of Statistical Planning and Inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375821000422), [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-02050003)
 
@@ -28,11 +28,16 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 # Talks
 
+**Continuum-armed bandits : from the classical setting to the finite setting**, April 6th, 2021, [Seminaire Palaisien](https://palaisien.herokuapp.com/), Palaiseau.
+
+**Introduction to Stochastic Bandits**, March 17th, 2021, [StatEcoML Seminar](https://statecoml.github.io/), Palaiseau.
+
 **Robust Link Prediction in the Stochastic Block Model**, October 23. 2019, Network Days III, Orsay.
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, April 5. 2019, Huitièmes Rencontres des Jeunes Statisticiens, Hyères.
 
 **Estimation of Sparse Networks**, October 25. 2018, Network Days II, Orsay.
+
 
 # Teaching 
 
@@ -44,7 +49,7 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 # Education
 
-* PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-
+* PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-(2022)
 
 * Master 2 "Mathématiques de l'Aléatoire", Université Paris-Saclay, Orsay, France, 2017-2018.
 
