@@ -19,7 +19,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/fenil_doshi_cv_21_june_21
+    url: https://feziodoshi.github.io/files/neurips_2019_svrhm.pdf
   #   url: /cv/
     
   # - title: "Guide"
