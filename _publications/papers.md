@@ -9,12 +9,14 @@ author_profile: true
 
 [[Google Scholar](https://scholar.google.com/citations?user=nOsmu8UAAAAJ&hl=en&oi=ao)] (\* Equal Contribution)
 
+<!---
 ### Preprints
+-->
 
-* [Learning from Noisy Similar and Dissimilar Data](https://arxiv.org/pdf/2002.00995.pdf)<br/> **Soham Dan**, Han Bao, Masashi Sugiyama. (Under Review)
-* [Variance Reduced Stochastic Proximal Algorithm for AUC Maximization](https://arxiv.org/abs/1911.03548)<br/> **Soham Dan \***, Dushyant Sahoo\*. (Under Review)
 
 ### 2021
+* [Learning from Noisy Similar and Dissimilar Data](https://arxiv.org/pdf/2002.00995.pdf)<br/> **Soham Dan**, Han Bao, Masashi Sugiyama. **ECML-PKDD** 2021
+* [Variance Reduced Stochastic Proximal Algorithm for AUC Maximization](https://arxiv.org/abs/1911.03548)<br/> **Soham Dan \***, Dushyant Sahoo\*. **ECML-PKDD** 2021
 * [Generalization in Instruction Following Systems](https://www.aclweb.org/anthology/2021.naacl-main.76.pdf) <br/>**Soham Dan**, Michael Zhou, Dan Roth. **NAACL** 2021.
 
 ### 2020
