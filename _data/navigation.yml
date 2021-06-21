@@ -1,22 +1,26 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+
+  - title: "Papers"
+    url: https://solennegaucher.github.io/#papers
 
   - title: "Talks"
-    url: /talks/    
+    url: https://solennegaucher.github.io/#talks
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://solennegaucher.github.io/#teaching
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Education"
+    url : https://solennegaucher.github.io/#education
+    
+ # - title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Blog Posts"
+ #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
