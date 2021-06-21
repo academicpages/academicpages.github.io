@@ -18,7 +18,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
+  - title: "CV"
+    url: /files/fenil_doshi_cv_21_june_21
   #   url: /cv/
     
   # - title: "Guide"
