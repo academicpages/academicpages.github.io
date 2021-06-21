@@ -56,7 +56,7 @@
     {% endif %}
     
     {% if post.biburl and post.citation and post.paperurl and post.award%}
-      <p> <p style="color:orange">post.award</p> {{ post.citation }} [<a href="{{ post.biburl }}"><u>BIB</u></a>] [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
+      <p> {{ post.citation }} [<p style="color:orange"> {{post.award}} </p>][<a href="{{ post.biburl }}"><u>BIB</u></a>] [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
     {% elsif post.biburl and post.citation and post.paperurl %}
       <p> {{ post.citation }} [<a href="{{ post.biburl }}"><u>BIB</u></a>] [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
     {% elsif post.citation and post.paperurl %}
