@@ -17,6 +17,7 @@ In 2020 summer, I joined [Bosch Research](https://www.bosch.us/our-company/bosch
 
 News
 ======
+* [2021/06/18] &nbsp; I'm interviewed by IEEE Biometrics Council Newsletter [[link](http://ieee-biometrics.org/images/pdf/Vol38-Newsletter.pdf)].
 * [2021/06/18] &nbsp; I'm selected as CVPR 2021 Outstanding Reviewer.
 * [2021/02/06] &nbsp; I receive 20-21 Outstanding Graduate Student Award at the College of Engineering [[link](https://www.egr.msu.edu/graduate/outstanding-graduate-student-awards)].
 * [2020/10/25] &nbsp; I'm selected as ECCV 2020 Outstanding Reviewer.
