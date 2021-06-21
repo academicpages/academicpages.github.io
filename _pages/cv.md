@@ -18,6 +18,10 @@ Education
 
 Internship experience
 ======
+* Jun. 2021 - Present: Research Internship
+  *  [Shanghai AI Lab](https://www.shlab.org.cn/pc/home).
+  *  Job description: Data-efficient learning for medical image analysis.
+
 * Jan. 2020 - June 2020: Research Internship
   * SenseTime Research
   * Job description: Liver, lesion and vessels classification, segmentation and detection; supervised by <b>[Dr. Yinan Chen](https://www.linkedin.com/in/chen-joy-1680096a/?originalSubdomain=cn)</b>.
