@@ -1,16 +1,10 @@
 ---
-title: "Reranking of responses using transfer learning
-for a retrieval-based chatbot"
+title: "Velocidapter: Task-oriented Dialogue Comprehension Modeling Pairing Synthetic Text Generation with Domain Adaptation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Transfer Learning attempt to train an open domain dialogue system.'
-date: 2019-04-05
-venue: 'IWSDS'
-paperurl: 'https://github.com/cuthalionn/cuthalionn.github.io/blob/master/files/DialoguePaper.pdf'
-citation: 'IT, Aksu; NF, Chen; LF, DHaro; R. Banchs. (2019). &quot; Reranking of responses using transfer learning for a retrieval-based chatbot.&quot; <i>IWSDS</i>.'
+excerpt: ''
+date: 06-21-2021
+venue: 'SIGDIAL'
+paperurl: 'https://github.com/cuthalionn/cuthalionn.github.io/blob/master/files/Velocidapter_SIGDIAL_CR.pdf'
+citation: 'Aksu, Taha; Liu, Zhengyuan; Kan, Min-Yen; Chen, Nancy F. Chen. "Velocidapter: Task-oriented Dialogue Comprehension Modeling Pairing Synthetic Text Generation with Domain Adaptation". (SIGDIAL 2021).'
 ---
-Transfer Learning attempt to train an open domain dialogue system.
-
-[Download paper here](https://github.com/cuthalionn/cuthalionn.github.io/blob/master/files/DialoguePaper.pdf)
-
-Recommended citation: IT Aksu, NF Chen, LF D'Haro, R Banchs. (2019)."Reranking of responses using transfer learning for a retrieval-based chatbot", IWSDS.
