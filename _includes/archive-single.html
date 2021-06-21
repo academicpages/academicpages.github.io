@@ -37,9 +37,6 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-        {% if post.award %}
-        <p> {{ post.award }}</p>
-        {% endif %}
         {%if post.role%}
           <p>{{post.role}}</p>
         {% endif %}
@@ -59,8 +56,12 @@
       <p> {{ post.citation }} [<span style="color:orange"> {{post.award}} </span>][<a href="{{ post.biburl }}"><u>BIB</u></a>] [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
     {% elsif post.biburl and post.citation and post.paperurl %}
       <p> {{ post.citation }} [<a href="{{ post.biburl }}"><u>BIB</u></a>] [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
+    {% elsif post.citation and post.paperurl and post.award%}
+      <p> {{ post.citation }} [<span style="color:orange"> {{post.award}} </span>][<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
     {% elsif post.citation and post.paperurl %}
       <p> {{ post.citation }} [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
+    {% elsif post.citation and post.award%}
+      <p>{{ post.citation }} [<span style="color:orange"> {{post.award}} </span>]</p>
     {% elsif post.citation %}
       <p>{{ post.citation }} </p>
     {% elsif post.paperurl %}
