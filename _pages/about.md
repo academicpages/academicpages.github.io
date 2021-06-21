@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Recent News
-* Jun. 21, 2021, I  am a research intern at  [Shanghai AI Lab](https://www.shlab.org.cn/pc/home).
+* Jun. 21, 2021, I  have joined [Shanghai AI Lab](https://www.shlab.org.cn/pc/home)  as a research intern.
 * Jun. 12, 2021, Two co-authors papers were accepted by MICCAI 2021 (~33% acceptance rate) after the rebuttal, congratulate all collaborators.
 * May 14, 2021, Our paper <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> was early accepted by <b>MICCAI2021</b> (~13% acceptance rate), thanks to all co-authors.
 * May 06, 2021, Our paper <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors.
