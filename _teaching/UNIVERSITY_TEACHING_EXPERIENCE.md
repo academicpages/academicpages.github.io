@@ -4,7 +4,7 @@ collection: teaching
 type: "To undergraduates"
 permalink: /teaching/UNIVERSITY_TEACHING_EXPERIENCE
 venue: "UCI, UCSB, and Dartmouth College"
-date: 2020-09-01
+date: 2021-06-21
 location: "United States"
 
 ---
@@ -12,7 +12,7 @@ location: "United States"
 
 <b><big> Instructor of Record, "Psychology Fundamentals"</big></b><br> <b>School of Social Sciences, UCI, Summer 2021</b>
 
-* Give accumulated 4.5 h-long weekly lectures to 50 undergraduate students on in-depth general psychology topics,including learning, memory, motivation, thought processes, emotion, language, and development
+* Give accumulated 4.5 h-long weekly lectures to 50 undergraduate students on in-depth general psychology topics, including learning, memory, motivation, thought processes, emotion, language, and development
 * Design the content structure, assignments, discussions, exams, grading metrics, and supervise TA activities
 
 
