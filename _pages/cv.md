@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* MSc in Advanced Computing, Imperial College London (Sep. 2020 – Present)
+* Honours Degree of Computer Science, The University of Adelaide, Australia (Feb. 2018 – Dec. 2019)
+* Bachelor Degree of Computer Science, The University of Adelaide, Australia (Feb. 2016 – Dec. 2018)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* : Nov. 2017 – Feb. 2018: Software Engineer (Internship)
+  * Shanghai Hangshu Tech Co., Ltd
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Nov. 2018 – Feb. 2019: Software Engineer (Internship)
+  * Shanghai Hangshu Tech Co., Ltd
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Mandarin(Native), English(Fluent)
+* Programming Skills: Proficient in C/C++, Python, Solidity; Experience with JavaScript, Bash, MATLAB
+* Other skills: LaTeX, Excel, Git, JabRef HTML, MySQL
 
 Publications
 ======
