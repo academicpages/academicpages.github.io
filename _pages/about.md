@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Zhuo Sun, a 2nd year PhD student in Statistics (focus on machine learning and computational statistics) at University College London. I am very very lucky to be supervised by [Prof. F-X Briol](https://fxbriol.github.io) and [Prof. J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I accomplished my M.Sc at University of Oxford. I am an awardee of Cambridge International Scholarship 2019.
+My name is Zhuo Sun, a 2nd year PhD student in machine learning and computational statistics at Department of Statistical Science, University College London. I am very very lucky to be supervised by [Prof. F-X Briol](https://fxbriol.github.io) and [Prof. J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I accomplished my M.Sc at University of Oxford. I am an awardee of Cambridge International Scholarship 2019.
 
 Research Interest
 ======
@@ -37,7 +37,7 @@ _[\* means equal contribution.]_
 
 Talks/Presentations
 ======
-*  Talk at _[MCM 2021](https://www.uni-mannheim.de/mcm-2021/)_, August 2021, (Mannheim, German).
+*  Talk at _[MCM 2021](https://www.uni-mannheim.de/mcm-2021/)_ (Special Session on Stein's method), August 2021, (Mannheim, German).
 *  Poster at _[AISTATS 2021](https://aistats.org/aistats2021/)_, April 2021, (San Diego, California, USA).
 *  Talk at _Data Centric Engineering @ [The Alan Turing Institute](https://www.turing.ac.uk)_, March 2021, (London, UK).
 
