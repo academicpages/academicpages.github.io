@@ -85,6 +85,13 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/DSXplore.git)
 [<b style="color:#a31503">[**Slides**]</b>](https://drive.google.com/file/d/1PiQcCu2_Y28lnLEup6EtIe4klLXalsbA/view?usp=sharing)
 
+
++ <b style="color:blue">[TCAD-2021] </b> 
+**Yuke Wang**, Boyuan Feng, Gushu Li, Lei Deng, Yuan Xie, Yufei Ding. <br/>
+***STPAcc: A Compiler-based Framework for Accelerating Distance Algorithms on CPU-FPGA Platforms.***
+*IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/b04ce7e4366f9e5f5522d9f5a6c79fa2e0aa75ac/_publications/publication.bib#L78-L83)
+
 + <b style="color:blue">[TCAD-2021] </b> 
 Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, Lei Deng, Yufei Ding, Zidong Du, Yunji Chen, Yuan Xie. <br/>
 ***Rubik: A Hierarchical Architecture for Efficient Graph Learning***. <br/>
