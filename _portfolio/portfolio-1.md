@@ -1,6 +1,5 @@
 ---
 title: "photography"
-excerpt: "Post/video award<br/><img src='/images/poster award.png'>"
 excerpt: "Rhossili, Swansea<br/><img src='/images/IMG_20210424_131313.jpg'>"
 collection: portfolio
 ---
