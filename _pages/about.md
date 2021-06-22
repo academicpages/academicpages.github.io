@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Zhuo Sun, a 2nd year PhD student in Statistics (focus on machine learning and computational statistics) at University College London. I am very very lucky to be supervised by [Prof. F-X Briol](https://fxbriol.github.io) and [Prof. J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I accomplished my M.Sc at University of Oxford. I am a awardee of Cambridge International Scholarship 2019.
+My name is Zhuo Sun, a 2nd year PhD student in Statistics (focus on machine learning and computational statistics) at University College London. I am very very lucky to be supervised by [Prof. F-X Briol](https://fxbriol.github.io) and [Prof. J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I accomplished my M.Sc at University of Oxford. I am an awardee of Cambridge International Scholarship 2019.
 
 Research Interest
 ======
