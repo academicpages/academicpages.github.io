@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_June_4_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
+Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_June_21_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
 
 Education
 ======
@@ -24,6 +24,8 @@ Education
 
 Work experience
 ======
+* Instructor of Record, [Psychology Fundamentals](http://catalogue.uci.edu/allcourses/psych/), University of California Irvine                              June. 2021 – Present
+
 * [Data Science Instructor](https://www.coursera.org/instructor/you-lilian-cheng) for Guided Projects, Coursera Inc.                              Aug. 2020 – Present
   
 * Teaching Assistant, [Neuromatch Academy Inc.](https://www.neuromatchacademy.org/)                              June 2020 – July 2020

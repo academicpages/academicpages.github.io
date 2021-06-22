@@ -10,6 +10,12 @@ location: "United States"
 ---
 <br>
 
+<b><big> Instructor of Record, "Psychology Fundamentals"</big></b><br> <b>School of Social Sciences, UCI, Summer 2021</b>
+
+* Give accumulated 4.5 h-long weekly lectures to 50 undergraduate students on in-depth general psychology topics,including learning, memory, motivation, thought processes, emotion, language, and development
+* Design the content structure, assignments, discussions, exams, grading metrics, and supervise TA activities
+
+
 
 <b><big> Social Sciences Instructional Fellow</big></b><br> <b>School of Social Sciences, UCI, Summer 2020</b>
 
