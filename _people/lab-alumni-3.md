@@ -5,6 +5,16 @@ permalink: /people/lab-alumni
 collection: people
 ---
 
+## Masters students at University of Canterbury
+
+### Micaela Pullen
+
+<img align="left" src='/images/MicaelaPullen.jpg' height='100' width='133'> Micaela is a masters of science student working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
+
+<br>  
+<br>
+
+
 ## Summer scholarship students at University of Canterbury
 
 2019-2020: Averill Moser-Rust worked with Mads Thomsen, Micaela Pullen, Derek Gerber, and Sarah, investigating the community of fishes in two  seagrass beds in the Canterbury region in New Zealand.
