@@ -2,7 +2,7 @@
 title: "Understanding controlled EV charging impacts using scenario-based forecasting models: Poster"
 collection: publications
 permalink: /publication/ev
-excerpt: "In this paper, we adopt a minimalist approach to evaluate statistical and machine learning models to forecast the mean number of active EV chargers connected to the grid for residential EV charging at the same time and subsequently the mean energy consumption caused by this simultaneous charging of EVs across different scenarios. We then use these forecasts to assess the impact of future EV penetration on a specimen distribution transformer in a residential area for different real-world scenarios. In addition, we specifically examine two control regimes to alleviate the impact of EV penetration on the distribtion transformer and show that one is more beneficial from load-on-transformer point of view, while the other may be preferred for other objectives. We assess that a minimum of 60% control is required to ensure that transformers are not overloaded during peak hours."
+excerpt: "In this paper, we adopt a minimalist approach to evaluate statistical and machine learning models to forecast the mean number of active EV chargers simultaneously connected to the grid for residential EV charging and subsequently the mean energy consumption caused by this simultaneous charging of EVs for different scenarios. We then use these forecasts to assess the impact of future EV penetration on a specimen distribution transformer in a residential area for different real-world scenarios. We eventually show that a minimum of 60% control is required to ensure that transformers are not overloaded during peak hours."
 date: 2021-06-22
 venue: "ACM"
 paperurl: 'https://doi.org/10.1145/3447555.3466573'
