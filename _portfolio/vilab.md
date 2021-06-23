@@ -1,5 +1,5 @@
 ---
 title: "Pictures"
-excerpt: "VILab <br/><img src='/images/poster award.png'>"
+excerpt: "VILab <br/><img src='/images/vilab_sunlight.jpg'>"
 collection: portfolio
 ---
