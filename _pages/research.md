@@ -26,7 +26,7 @@ Collaborators: [Hrag Pailian](https://www.hragpailian.com) and [George Alvarez](
 Also check out Hrag's talk [here](https://www.youtube.com/watch?v=WYJMv55Z8-0&feature=emb_logo)!
 
 
-## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
+<!-- ## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
 
 Collaborators: [Colin Conwell](https://colinconwell.github.io)
-{% include image_yolo.html url="https://feziodoshi.github.io/images/som_training.gif" description="Interpolations in pixel space vs the latent space of an adversarial variational autoencoder" %}
+{% include image_yolo.html url="https://feziodoshi.github.io/images/som_training.gif" description="Interpolations in pixel space vs the latent space of an adversarial variational autoencoder" %} -->
