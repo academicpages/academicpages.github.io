@@ -51,7 +51,14 @@ Projects on Portfolio Section
  * **Covid-19 Analysis**, Python, co-authored, 2020
      * Visualization and prediction with Italian data. Curve fitting to estimate a low boundary time-to-extinction of the pandemic.
 
-
+Certificates
+======
+* **Deep Learning**
+    * by Deeplearning.AI
+    * [credential](https://www.coursera.org/account/accomplishments/specialization/certificate/NQX8GNWVY2FU)
+* **AI for Medicine**
+    * by Deeplearning.AI
+    * [credential](https://www.coursera.org/account/accomplishments/specialization/certificate/3JWE9MG5WUTQ)
 Skills (on a 5 scale)
 ======
 * **Python** **5**
