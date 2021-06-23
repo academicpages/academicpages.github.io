@@ -28,7 +28,7 @@ Education
 * **BS in Economics, Management and Computer Science**, Bocconi University, 08/2018 - 07/2021
     * The degree provides a Computer Science, Mathematics and Statistics background  for Data Science and Machine Learning.
     * Weighed average 29.18/30 (GPA 3.88/4)
-    * **Thesis:** "_Value of Information in a Support Vector Machine, an exploration_"
+    * **Thesis:** [PDF link](http://simonegiancola09.github.io/files/Support_vector_machine_and_value_of_information_an_exploration.pdf)"_Value of Information in a Support Vector Machine, an exploration_"
     * Associations: Bocconi Healthcare Hub, Bocconi Students for Data Science
     * **Final Grade** 110 Cum Laude/110 (maximum)
 
