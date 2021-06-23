@@ -28,3 +28,6 @@ Yongjun Zhang. 2021.  “How Does the American State Recognize Movements? Social
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://journals.sagepub.com/eprint/BKSEHRTXFS5BSZAP2WMN/full)." Sociological Perspectivies.
 
 Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. “[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)” Poetics
+
+## Working Paper
+Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://yongjunzhang.com/files/Seg_Draft.pdf)." 
