@@ -30,6 +30,7 @@ Education
     * Weighed average 29.18/30 (GPA 3.88/4)
     * **Thesis:** "_Value of Information in a Support Vector Machine, an exploration_"
     * Associations: Bocconi Healthcare Hub, Bocconi Students for Data Science
+    * **Final Grade** 110 Cum Laude/110 (maximum)
 
 Professional experience
 ======
