@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Papers and Preprints"
+[comment]: <> (title: "Papers and Preprints")
 permalink: /publications/
 author_profile: false
 ---
