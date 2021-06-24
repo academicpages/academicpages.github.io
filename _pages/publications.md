@@ -5,21 +5,19 @@ permalink: /publications/
 author_profile: false
 ---
 ## Preprints
-- [_Semi-global Kuranishi charts and the definition of contact homology_](arXiv:1512.00580) (with K. Honda), *preprint* (2015)
+- [_Semi-global Kuranishi charts and the definition of contact homology_](https://arXiv:1512.00580) (with K. Honda), *preprint* (2015)
 
 ## Publications
 
+- [_Immersed Lagrangian Floer cohomology via pearly trajectories_](https://arXiv:1907.03072) (with G. Alston), *preprint* (2021)
 
-- [_Immersed Lagrangian Floer cohomology via pearly trajectories_](arXiv:1907.03072) (with G. Alston), *preprint* (2021)
+- [_Equivariant Lagrangian Floer cohomology via semi-global Kuranishi structures_](https://arXiv:1812.09796) (with K. Honda), *preprint* (2018)
 
-- [_Equivariant Lagrangian Floer cohomology via semi-global Kuranishi structures_](arXiv:1812.09796) (with K. Honda), *preprint* (2018)
-
-
-- [_Definition of cylindrical contact homology in dimension three_](arXiv:1412.0276) (with K. Honda), *Journal of Topology* (2018) 11 (4), 1002-1053
+- [_Definition of cylindrical contact homology in dimension three_](https://arXiv:1412.0276) (with K. Honda), *Journal of Topology* (2018) 11 (4), 1002-1053
 
 - [_Exact, graded, immersed Lagrangians and Floer theory_](https://arxiv.org/abs/1407.3871) (with G. Alston), *Journal of Symplectic Geometry* (2018) 16 (2), 357-438
 
-- [_On J-holomorphic curves in almost complex manifolds with asymptotically cylindrical ends_](arXiv:1207.4855) (with E. Bao), *Pacific Journal of Mathematics* (2015) 278 (2), 291-324
+- [_On J-holomorphic curves in almost complex manifolds with asymptotically cylindrical ends_](https://arXiv:1207.4855) (with E. Bao), *Pacific Journal of Mathematics* (2015) 278 (2), 291-324
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
