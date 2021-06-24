@@ -17,6 +17,8 @@ author_profile: false
 
 - [_Exact, graded, immersed Lagrangians and Floer theory_](https://arxiv.org/abs/1407.3871) (with G. Alston), *Journal of Symplectic Geometry* (2018) 16 (2), 357-438
 
+- [_On Hofer Energy of J-holomorphic Curves for Asymptotically Cylindrical J_](https://arxiv.org/abs/1303.4430v3) (with E. Bao), *Journal of Symplectic Geometry* (2016) 14.1 97-118.
+
 - [_On J-holomorphic curves in almost complex manifolds with asymptotically cylindrical ends_](https://arXiv:1207.4855) (with E. Bao), *Pacific Journal of Mathematics* (2015) 278 (2), 291-324
 
 {% if author.googlescholar %}
