@@ -1,7 +1,7 @@
 ---
 title: "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone"
 collection: publications
-permalink: /publication/forthcoming-civilian-targeting
+permalink: /publication/2020-civilian-targeting
 date: 2020-06-08
 venue: 'International Studies Quarterly'
 paperurl: '/files/pdf/research/Under the Roof of Rebels.pdf'

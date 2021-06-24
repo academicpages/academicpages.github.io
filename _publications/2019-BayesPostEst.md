@@ -1,7 +1,7 @@
 ---
 title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
 collection: publications
-permalink: /publication/2009-10-01-bayespostest
+permalink: /publication/2019-bayespostest
 date: 2019-10-01
 venue: 'Journal of Open Source Software'
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
