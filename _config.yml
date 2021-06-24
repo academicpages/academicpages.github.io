@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor"
   location         : "206 Church St SE, Minneapolis, MN 55455"
-  employer         : "School of Mathematics, University of Minnesota"
+  employer         : "School of Mathematics, University of Minnesota" https://cse.umn.edu/math
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=qs9kS1oAAAAJ&hl=en
   email            :
