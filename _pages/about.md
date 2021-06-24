@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the geometry and topology group at the School of Mathematics, University of Minneapolis.
+I am an assistant professor in the [*differential geometry group*](https://cse.umn.edu/math/differential-geometry) at the [School of Mathematics, University of Minneapolis](https://cse.umn.edu/math).
 
 My research interests include Symplectic Geometry and Contact Geometry.
 
-Here is a more detailed [CV](https://mmistakes.github.io/minimal-mistakes/).
+Here is a more detailed [CV]().
