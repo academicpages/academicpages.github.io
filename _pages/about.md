@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I will be joining Alimama Ad Tech at Alibaba Group as a research engineer. I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
+Hi! I will be joining Alimama Tech at Alibaba Group as a research engineer. I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
 
 Research Interests
 ======
@@ -20,7 +20,7 @@ Experience and Education
 ======
 
 ### Experience  
-* **Jul. 2021 -- Present.** Algorithm Expert, Alimama Ad Tech @ [Alibaba Group](https://www.alibabagroup.com/en/global/home).   
+* **Jul. 2021 -- Present.** Algorithm Expert, Alimama Tech @ [Alibaba Group](https://www.alibabagroup.com/en/global/home).   
 Working on data-driven algorithms to improve the performance of online advertising.  
 
 ### Education  
