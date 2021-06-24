@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 author_profile: true
-permalink: /
+permalink: /publication/
 ---
 - Dutta, S., Rangaraj, N., Belur, M., Dangayach, S., & Singh, K. (2017, April). Construction of periodic timetables on a suburban rail network-case study from Mumbai. In RailLille 2017—7th International Conference on Railway Operations Modelling and Analysis. [pdf]("https://www.ee.iitb.ac.in/~belur/pdfs/c17icrtt.pdf")
 
