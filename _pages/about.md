@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [*differential geometry group*](https://cse.umn.edu/math/differential-geometry) at the [School of Mathematics, University of Minneapolis](https://cse.umn.edu/math).
+I am an assistant professor in the [differential geometry group](https://cse.umn.edu/math/differential-geometry) at the [School of Mathematics, University of Minneapolis](https://cse.umn.edu/math).
 
 My research interests include Symplectic Geometry and Contact Geometry.
 
