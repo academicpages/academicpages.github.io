@@ -7,7 +7,7 @@ date: 2020/12/29
 venue: 'IEEE CBMS'
 paperurl: 'https://arxiv.org/pdf/2012.14553.pdf'
 biburl: /files/schuller2020detecting.bib
-award: 'Best Student Paper Award'
+award: 'Best Student Paper Award at The 34th IEEE International Symposium on Computer-Based Medical Systems (CBMS 2021)'
 citation: Mina A. Nessiem, Mostafa M. Mohamed, <b>Harry Coppock</b>, Alexander Gaskell, Björn W. Schuller (2020) Detecting COVID-19 from Breathing and Coughing Sounds using Deep Neural Networks <i>IEEE CBMS</i>'
 author_profile: false
 ---
