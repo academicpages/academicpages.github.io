@@ -27,7 +27,7 @@ Paladyn 2021
 **Action Priors for Large Action Spaces in Robotics**  
 Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong  
 AAMAS 2021, London, UK  
-[(PDF)](https://arxiv.org/pdf/2010.02798.pdf)
+[(PDF)](https://arxiv.org/pdf/2101.04178.pdf)
 
 ![](images/asrse3.png){: .align-right width="200px"}
 **Policy learning in SE (3) action spaces**  
