@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erkao Bao"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Erkao Bao"
 description              : &description "personal description"
