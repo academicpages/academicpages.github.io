@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 ## Preprints
-[_Semi-global Kuranishi charts and the definition of contact homology_](arXiv:1512.00580) (with K. Honda), preprint (2015)
+- [_Semi-global Kuranishi charts and the definition of contact homology_](arXiv:1512.00580) (with K. Honda), preprint (2015)
 
 ## Publications
 # DEF
