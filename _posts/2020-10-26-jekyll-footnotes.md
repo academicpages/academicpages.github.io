@@ -10,7 +10,7 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2020-10-26
 permalink: /posts/2020/10/jeykll-footnotes
-excerpt_separator: <!--more-->
+excerpt: "I use [jekyll](https://jekyllrb.com/) to create my website. Jekyll converts Markdown files into the HTML that your browser renders into the pages you see. As [others](http://svmiller.com/blog/2019/08/two-helpful-rmarkdown-jekyll-tips/) and [I](/posts/2020/09/jekyll-html) have written before, it’s pretty easy to use [R Markdown](https://rmarkdown.rstudio.com/) to generate pages with R code and output all together. One thing has consistently eluded me, however: footnotes."
 toc: true
 header: 
   og_image: "posts/jekyll-footnotes/ggplot-1.png"
@@ -21,37 +21,32 @@ tags:
 
 
 
-**Update 05/19/2021**: John MacFarlane helpfully
+{% capture notice-text %}
+**Update: 05/19/2021** John MacFarlane helpfully
 [pointed out](https://github.com/jgm/pandoc/issues/6259#issuecomment-841861647)
 that this is all incredibly unnecessary because pandoc makes it easy to add
 support for footnotes to GitHub-Flavored Markdown.
 [The documentation](https://pandoc.org/MANUAL.html#extensions) notes that you
-can extensions to output formats they don’t normally support. Since standard
+can add extensions to output formats they don’t normally support. Since standard
 markdown natively supports footnotes when used as an output format, I didn’t
 even think to look into manually enabling them for GitHub-Flavored Markdown.
 
-<!--more-->
-
 If you’re running pandoc from the command line all you need to do is add
 `-t gfm+footnotes` to your pandoc command. If you’re working with `.Rmd` files
-like me, all you need to do is add `+footnotes` to the end of of the `gfm` line
-in your YAML header:
+like me, all you need to do is add `+footnotes` to the end of of the
+`variant: gfm` line in your YAML header. As a side benefit, you can drop the
+`--wrap=preserve` flag and end up with `.md` files that aren’t hundreds of
+columns wide. I’m leaving the original post up below in case anyone who has an
+even weirder use case than me might find it helpful, or if any of my students
+ever stumble across this page and don’t believe that I’m still constantly
+learning, too.
+{% endcapture %}
 
-``` yaml
-...
-output:
-  md_document:
-    variant: gfm+footnotes
-...
-```
+<div class="notice--danger">
 
-As a side benefit, you can drop the `--wrap=preserve` flag and end up with `.md`
-files that aren’t hundreds of columns wide. I’m leaving the original post up
-below in case anyone who has an even weirder use case than me might find it
-helpful, or in case any of my students ever stumble across this page and don’t
-believe that I’m still constantly learning, too.
+{{ notice-text \| markdownify }}
 
-------------------------------------------------------------------------
+</div>
 
 I use [jekyll](https://jekyllrb.com/) to create my website. Jekyll converts
 Markdown files into the HTML that your browser renders into the pages you see.
