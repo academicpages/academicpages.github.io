@@ -3,7 +3,7 @@ title: "TILDE: Term Independent Likelihood moDEl for Passage Re-ranking"
 collection: publications
 permalink: /publication/SIGIR2021TILDE
 year: 2021
-venue: 'Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)'
+venue: 'Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’21)'
 authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
 track: Full paper
 ---

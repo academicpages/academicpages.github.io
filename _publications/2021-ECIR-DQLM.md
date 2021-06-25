@@ -3,7 +3,7 @@ title: "Deep Query Likelihood Model for Information Retrieval"
 collection: publications
 permalink: /publication/ECIR2021DQLM
 year: 2021
-venue: 'Proceedings of the 43rd European Conference on Information Retrieval (ECIR)'
+venue: 'Advances in Information Retrieval - 43nd European Conference on IR Research, ECIR 2021'
 authors: <strong>Shengyao Zhuang</strong>, Hang Li, Guido Zuccon
 track: Short paper
 ---

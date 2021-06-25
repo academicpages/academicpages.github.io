@@ -3,7 +3,7 @@ title: "Counterfactual Online Learning to Rank"
 collection: publications
 permalink: /publication/ECIR2020COLTR
 year: 2020
-venue: 'Proceedings of the 42nd European Conference on Information Retrieval (ECIR)'
+venue: 'Advances in Information Retrieval - 42nd European Conference on IR Research, ECIR 2020'
 authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
 track: Full paper
 ---

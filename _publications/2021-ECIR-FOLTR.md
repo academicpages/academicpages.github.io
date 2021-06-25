@@ -3,7 +3,7 @@ title: "Federated Online Learning to Rank with Evolution Strategies: A Reproduci
 collection: publications
 permalink: /publication/ECIR2021FOLTR
 year: 2021
-venue: 'Proceedings of the 43rd European Conference on Information Retrieval (ECIR)'
+venue: 'Advances in Information Retrieval - 43rd European Conference on IR Research, ECIR 2021'
 authors: Shuyi Wang, <strong>Shengyao Zhuang</strong>, Guido Zuccon
 track: Reproducibility paper
 ---
