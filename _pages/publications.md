@@ -10,14 +10,19 @@ Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">
 
 # Papers
 
+- ***AnaXNet: Anatomy Aware Multi-label FindingClassification in Chest X-ray*** MICCAI 2021  
+Nkechinyere N. Agu, Joy T. Wu, Hanqing Chao, Ismini Lourentzou, Arjun Sharma, Mehdi Moradi, Pingkun Yan, James Hendler  
+[paper](https://arxiv.org/pdf/2105.09937.pdf)
+
 - **DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization** SIGIR 2021  
-Safa Messaoud, Ismini Lourentzou, Assma Boughoula, Mona Zehni, Zhizhen Zhao, Chengxiang Zhai and Alexander Schwing  
+Safa Messaoud, Ismini Lourentzou, Assma Boughoula, Mona Zehni, Zhizhen Zhao, Chengxiang Zhai, Alexander Schwing  
 [paper](https://arxiv.org/abs/2105.06441)
 
 - **AdaReNet: Adaptive Reweighted Semi-supervised Active Learning to Accelerate Label Acquisition** PerInt@PETRA 2021  
-Ismini Lourentzou, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski, Chad Deluca, Steve Welch, ChengXiang Zhai
+Ismini Lourentzou, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski, Chad Deluca, Steve Welch, ChengXiang Zhai  
+[paper](https://github.com/Isminoula/isminoula.github.io/blob/master/files/PETRA2021_AdaReNet.pdf)
 
-- **Creation and validation of a chest X-ray dataset with eye-tracking and report dictation for AI development.** Nature Scientific Data 2021  
+- **Creation and validation of a chest X-ray dataset with eye-tracking and report dictation for AI development** Nature Scientific Data 2021  
 Alexandros Karargyris, Kashyap Satyananda, Ismini Lourentzou, Joy T. Wu, Arjun Sharma, Matthew Tong, Shafiq Abedin, David Beymer, Vandana Mukherjee, Elizabeth A. Krupinski, Mehdi Moradi  
 [paper](https://www.nature.com/articles/s41597-021-00863-5), [code](https://github.com/cxr-eye-gaze/eye-gaze-dataset)
 
