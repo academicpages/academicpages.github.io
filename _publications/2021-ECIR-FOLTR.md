@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ECIR2021FOLTR
 year: 2021
 venue: 'Proceedings of the 43rd European Conference on Information Retrieval (ECIR)'
-authors: Shuyi Wang, Shengyao Zhuang, Guido Zuccon
+authors: Shuyi Wang, <strong>Shengyao Zhuang</strong>, Guido Zuccon
 track: Reproducibility paper
 ---
 ---

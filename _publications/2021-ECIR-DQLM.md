@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ECIR2021DQLM
 year: 2021
 venue: 'Proceedings of the 43rd European Conference on Information Retrieval (ECIR)'
-authors: Shengyao Zhuang, Hang Li, Guido Zuccon
+authors: <strong>Shengyao Zhuang</strong>, Hang Li, Guido Zuccon
 track: Short paper
 ---
 ---

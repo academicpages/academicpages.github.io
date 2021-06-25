@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SIGIR2021Intent
 year: 2021
 venue: 'Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)'
-authors: Shengyao Zhuang, Guido Zuccon
+authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
 track: Full paper
 ---
 ---

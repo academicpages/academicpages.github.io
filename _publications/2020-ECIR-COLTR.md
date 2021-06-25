@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ECIR2020COLTR
 year: 2020
 venue: 'Proceedings of the 42nd European Conference on Information Retrieval (ECIR)'
-authors: Shengyao Zhuang, Guido Zuccon
+authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
 track: Full paper
 ---
 ---
