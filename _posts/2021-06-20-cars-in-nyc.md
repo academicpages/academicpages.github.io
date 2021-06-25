@@ -11,6 +11,8 @@ tags:
   - Cars
 ---
 
+**TL;DR:** Most New Yorkers do not own cars, much less drive to work. And the households that do own cars earn a significantly higher income than the ones that don't. So policy focus should be on improving transit rather than making it easier to drive.
+
 With vehicle traffic on New York roads [back to pre-pandemic levels](https://www.nytimes.com/2021/05/29/nyregion/city-traffic-pre-covid.html) and upon seeing unsubstantiated [claims](https://twitter.com/ShanaS_Warren/status/1394095700959453187) swirling about who uses cars, I decided to find data about car ownership in New York City.
 
 The most granular and latest available data is from [American Community Survey (ACS) 2014-2019](https://api.census.gov/data/2019/acs/acs5/profile.html). The highest granularity of data released by the Census Bureau is by [Census tracts](https://www.census.gov/programs-surveys/geography/about/glossary.html#par_textimage_13), which are small, typically unchanging geographical regions that contain between 1200 and 8000 people. While individual-level data would have been preferable, data from Census tracts are still [indicative](https://opportunityinsights.org/neighborhoods/) of individual-level outcomes.
