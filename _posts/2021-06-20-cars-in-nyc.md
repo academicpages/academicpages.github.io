@@ -81,4 +81,4 @@ What does all of this imply?
 
 Most New Yorkers do not own a car, much less drive to work. It might be tempting to think of the outer boroughs as all transit deserts, and ergo all its residents as owning and commuting by cars, but the reality is far from it. 
 
-Policies such as building *full-time* dedicated bus lanes, *protected* bike lanes, implementing congestion pricing to increase transit frequency would help the vast majority of New York City residents and most certainly the least affluent. The New Yorkers living in Melrose, Borough Park, East Harlem, Flushing, and Stapleton are testament to this and they deserve better.
+Policies such as building *full-time* dedicated bus lanes, *protected* bike lanes, implementing congestion pricing to increase transit frequency would help the vast majority of New York City residents and most certainly the least affluent. The New Yorkers living in Melrose, Borough Park, East Harlem, Flushing, and Stapleton are testament to this.
