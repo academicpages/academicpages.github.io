@@ -5,7 +5,7 @@ permalink: /publication/ICTIR2021InterpolateDR
 year: 2021
 venue: 'Proceedings of the 2021 ACM SIGIR International Conference on the Theory
 of Information Retrieval (ICTIR ’21)'
-authors: Shuai Wang, Shengyao Zhuang, Guido Zuccon
+authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, Guido Zuccon
 track: Full paper
 ---
 ---
