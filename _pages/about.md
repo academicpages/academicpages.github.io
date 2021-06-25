@@ -34,11 +34,11 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     <font size="3">
       (Kia Rahmani, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
     </font> <br /> <font size="2">
-    <a href="https://pldi21.sigplan.org/track/pldi-2021-papers#event-overview"> 
+    <a href="https://dl.acm.org/doi/10.1145/3453483.3454028"> 
       [PLDI'21: ACM SIGPLAN Conference on Programming Language Design and Implementation]</a>
       <br/>
-      <a href="https://arxiv.org/abs/2103.05573">
-      [pre-print]
+      <a href="https://dl.acm.org/doi/10.1145/3453483.3454028">
+      [pdf]
       </a>
     </font>
     </li>
