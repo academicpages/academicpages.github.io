@@ -60,8 +60,10 @@
 
 .widget {
 	margin: 0;
-	padding: 0;
-	float: right;
+	padding-top: 5px;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-left: 5px;
 	position:absolute;
 	bottom:0;
 	right: 0;
