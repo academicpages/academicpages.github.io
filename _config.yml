@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Main Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zikun Ye"
 description              : &description "personal description"
