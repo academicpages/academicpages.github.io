@@ -20,7 +20,7 @@ Serão aplicadas três provas individuais, uma para cada unidade. A nota final s
 
 Bibliografia
 ======
-* Stewart
+* Stewart Vol 2
 * Guidorizzi
 * Thomas
 
