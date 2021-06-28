@@ -1,11 +1,11 @@
 ---
 title: "Online Matching in Bipartite Graphs"
 collection: talks
-type: "Talk"
+type: "Statistics-Econometrics-Machine Learning Seminar"
 permalink: /talks/2021-04-28-talk-1
-venue: "UC San Francisco, Department of Testing"
+venue: "CREST"
 date: 28th of April 2021
-location: "Statistics-Econometrics-Machine Learning Seminar, CREST"
+location: "online"
 ---
 
 Finding large matching in bipartite graphs is a classical problem with many practical and intuitive applications: maximizing the number of students enroled in some university, the number of paired patients to kidney donors… In this talk, we are interested in the sequential version of this problem, where the vertices arrive one after the other and the matching is built on the fly, which is largely motivated by its Internet advertising display applications.
