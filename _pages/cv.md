@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+-----
+
 Education
 ======
 * B.Sc. (Hons) Department of Biology, University of Winnipeg, 2011-2015
