@@ -16,7 +16,7 @@ Noções básicas sobre erros. Resolução de sistemas lineares. Zeros de funç�
 
 Avaliação
 ======
-
+Serão consideradas para a avaliação listas de exercícios e provas escritas.
 
 Bibliografia
 ======
