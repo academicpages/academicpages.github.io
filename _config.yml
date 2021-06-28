@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Katie Florko"
+title                    : "Katie R.N. Florko"
 title_separator          : "-"
-name                     : &name "Katie Florko"
+name                     : &name "Katie R.N. Florko"
 description              : &description "PhD Candidate at UBC"
 url                      : https://kflorko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
