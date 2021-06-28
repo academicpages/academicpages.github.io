@@ -20,9 +20,9 @@ Avaliação
 
 Bibliografia
 ======
-* Atkinson
-* Ruggiero
-* ZZZ
+* Atkinson, Kendall E., An Introduction to Numerical Analysis, John Wiley  and Sons, 1988.
+* Burden, Richard L. e Faires, J. Douglas, Análise Numérica, Cengage Learning, 2008.
+* Ruggiero, Márcia A. Gomes e Lopes, Vera Lúcia da R., Cálculo Numérico: Aspectos Teóricos e Computacionais, 2a Ed., Pearson Education, 1996.
 
 Plano de Curso
 ======
