@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Preprints
 
-{% include base_path %}
+[Decentralized Learning in Online Queuing Systems](https://arxiv.org/abs/2106.04228)
+Etienne Boursier, Flore Sentenac, Vianney Perchet. June 2021
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+====
+
+Conferences
+
+[Pure Exploration and Regret Minimization in Matching Bandits](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10348)
+Flore Sentenac, Jialin Yi, Clément Calauzènes, Vianney Perchet, Milan Vojnovic. ICML 2021
