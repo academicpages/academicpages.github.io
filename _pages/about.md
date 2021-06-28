@@ -16,6 +16,7 @@ Previously, I worked in CTO's R&D team at <a style="text-decoration:none" href="
 Updates
 ======
 **2021**
+  * **18 Jun** - A paper titled "Towards Active Air Quality Station Deployment" accepted in [SubSetML](https://sites.google.com/view/icml-2021-subsetml/home) workshop in ICML'21
   * **7-10 Apr** - Attended Google Graduate Symposium 2021 - [Notes](https://patel-zeel.github.io/Google-Symposium-2021/) - [Sessions](https://sites.google.com/view/graduatesymposium2021/lectures-and-panel-links)
   * **8 Mar** - Cleared PhD Qualifiers exam
 
