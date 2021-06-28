@@ -16,7 +16,7 @@ Funções vetoriais. Limites e derivadas de funções vetoriais. Curvas e superf
 
 Avaliação
 ======
-
+Serão aplicadas três provas individuais, uma para cada unidade. A nota final será calculada considerando-se a média aritmética dessas trës notas.
 
 Bibliografia
 ======
