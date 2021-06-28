@@ -13,8 +13,8 @@ Active Research
 #### Working Papers
 
 * "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)".
-    * Brand **NEW** draft Feb 2021!
-    * Revision requested at the *Review of Economics and Statistics*.
+    * **FINAL** pre-publication draft May 2021 (will be trimmed and cut for publication).
+    * Conditionally accepted at the *Review of Economics and Statistics*.
 
 * "[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020).
 
