@@ -15,26 +15,6 @@ Education
 * M.Sc. Department of Biology, York University, 2015-2018
 * Ph.D Candidate, Institute for the Oceans & Fisheries, University of British Columbia, 2018-present
 
-|                |                                                                                                             |
-|----------------|-------------------------------------------------------------------------------------------------------------|
-| **2018-present**    | **Doctoral Candidate**                                                                                             |
-|                | University of British Columbia                                                                              |
-|                | Statistical Ecology Research Group                                                                          |
-|                | Institute for the Oceans & Fisheries                                                                        |
-|                | Thesis: Effect of trophic interactions and climate change on the space-use of an Arctic marine mesopredator |
-|                |                                                                                                             |
-| **2015-2018**    | **Master of Science**                                                                                                       |
-|                | York University                                                                                             |
-|                | Department of Biology                                                                                       |
-|                | Thesis: Polar bear foraging ecology in the western Canadian Arctic                                          |
-|                |                                                                                                             |
-| **2011-2015**    | **Bachelor of Science**                                                                                                       |
-|                | University of Winnipeg                                                                                      |
-|                | Department of Biology                                                                                       |
-|                | Thesis: Harbour seal haul-out patterns in western Hudson Bay                                                |
-![image](https://user-images.githubusercontent.com/28767974/123714189-b44b6c80-d82a-11eb-965e-d8a4f517b22c.png)
-
-
 Work experience
 ======
 * Summer 2015: Research Assistant
