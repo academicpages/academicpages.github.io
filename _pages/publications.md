@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<h4>Please don't hesitate to get in touch to obtain reprints of any of the following publications.</h4>
+<h5>Please don't hesitate to get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
 
 <h3>Articles in Review</h3>
 <table class="tg">
