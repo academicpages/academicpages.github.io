@@ -74,20 +74,3 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h3>Degree Theses</h3>
-<table class="tg">
-<tbody>
-<tr>
-<td width="5%">[3]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2017. Personality and Politics in Context - The Interaction of Personality Traits and Contextual Factors in Shaping Political Behavior and Attitudes. <em>Doctoral Thesis,</em> <a href="http://biblio.unibe.ch/download/eldiss/17ackermann_k.pdf" target="_blank" rel="noopener noreferrer">http://biblio.unibe.ch/download/eldiss/17ackermann_k.pdf</a>.</td>
-</tr>
-<tr>
-<td width="5%">[2]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2012. Mobilisierung im katholischen Milieu? Zum Einfluss der konfessionellen Komposition des Kontextes auf die individuelle Wahlbeteiligung von Katholiken in Deutschland. <em>Master Thesis,</em> <a href="http://nbn-resolving.de/urn:nbn:de:bsz:352-209830" target="_blank" rel="noopener noreferrer">http://nbn-resolving.de/urn:nbn:de:bsz:352-209830 </a>.</td>
-</tr>
-<tr>
-<td width="5%">[1]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2010. Bildungsungleichheit im internationalen Vergleich - Empirische Bestandsaufnahme und makropolitische Erklärungsansätze. <em>Bachelor Thesis</em>, <a href="http://nbn-resolving.de/urn:nbn:de:bsz:352-127306" target="_blank" rel="noopener noreferrer">http://n </a><a href="http://nbn-resolving.de/urn:nbn:de:bsz:352-127306" target="_blank" rel="noopener noreferrer">http://nbn-resolving.de/urn:nbn:de:bsz:352-127306</a><a href="http://nbn-resolving.de/urn:nbn:de:bsz:352-127306" target="_blank" rel="noopener noreferrer">.</a></td>
-</tr>
-</tbody>
-</table>
