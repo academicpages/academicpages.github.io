@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Katie R.N. Florko"
 title_separator          : "-"
 name                     : &name "Katie R.N. Florko"
-description              : &description "PhD Candidate at UBC"
+description              : &description "PhD Candidate at UBC katieflorko@gmail.com"
 url                      : https://kflorko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kflorko.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Katie R.N. Florko"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate at UBC"
+  bio              : "PhD Candidate at UBC katieflorko@gmail.com"
   location         : "Vancouver, Canada"
   employer         :
   pubmed           : 
