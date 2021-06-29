@@ -3,7 +3,7 @@ title: "York University"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: # "Department of Biology"
+venue: "Department of Biology"
 date: 2015-01-01
 location: "Toronto, Canada"
 ---
