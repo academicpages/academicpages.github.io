@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<5>I have worked as a teaching assistant for the following courses:</5>
 
 <h3>University of British Columbia, Masters of Data Science Program</h3>
 <table class="tg">
