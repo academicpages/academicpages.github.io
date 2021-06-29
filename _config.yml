@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "s190113@e.ntu.edu.sg"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -99,21 +99,21 @@ author:
   github           : "xuehuanYang" #"https://github.com/XuehuanYang"
   google_plus      :
   keybase          :
-  instagram        : "xuehuan.yang" #"https://www.instagram.com/xuehuan.yang/"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : 
+  impactstory      : 
   lastfm           :
   linkedin         : "yang-xuehuan-68b1ba140" #"https://www.linkedin.com/in/yang-xuehuan-68b1ba140/"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCXM4sfgqpDC1PeM2DfgTbpA" #"https://www.youtube.com/channel/UCXM4sfgqpDC1PeM2DfgTbpA/videos"
+  youtube          : 
   wikipedia        :
 
 
