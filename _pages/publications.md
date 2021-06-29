@@ -20,26 +20,22 @@ redirect_from:
 <td width="5%">[9]</td>
 <td width="95%"><strong>Florko, K.R.N.</strong>, Tai, T.C., Cheung, W.W.L., Sumaila, U.R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. Predicting how climate change threatens the prey base of Arctic marine predators. In Review, Submitted 26 Mar 2021.</td>
 </tr>
-<tr>
-<td width="5%">[15]</td>
-<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2020. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies. <em>European Societies</em>, 22(3): 368-389. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a> <a href="https://www.defacto.expert/2019/10/30/surfen-um-zu-helfen-wie-die-internetnutzung-soziale-ungleichheiten-ausgleicht/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
-</tr>
 </tbody>
 </table>
-<h3>Articles in Edited Volumes</h3>
+<h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[8]</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Carlyle, C.G., Young, B.G., Yurkowski, D.J., Michel, C., Ferguson, S.H. 2021. Infrared detection of narwhal (<i>Monodon monoceros</i>) flukeprints from aerial survey imagery. Ecosphere – In Press.</td>
+</tr>
+<tr>
 <td width="5%">[7]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Markus Freitag. 2019. Die Psychologie des Regierens. Persönlichkeitspsychologische Perspektiven auf das Verhalten politischer Eliten. In <em>Blackbox Exekutive. Regierungslehre in der Schweiz</em>, Adrian Ritz, Theo Haldemann and Fritz Sager (eds.), 451-466. Basel: NZZ Libro.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Thiemann, G.W., Bromaghin, J.F. Richardson, E.S. 2021. Diet composition and body condition of polar bear (<i>Ursus maritimus</i>) in relation to sea ice habitat in the Canadian High Arctic. Polar Biology, 44: 1445–1456.</td>
 </tr>
 <tr>
 <td width="5%">[6]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Markus Freitag. 2016. Social Capital in der Vergleichenden Politikwissenschaft. In <em>Handbuch Vergleichende Politikwissenschaft</em>, Hans Joachim Lauth, Marianne Kneuer and Gert Pickel (eds.), 271-283. Berlin: Springer.</td>
-</tr>
-<tr>
-<td width="5%">[5]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Markus Freitag. 2015: Sag mir, wie du bist, ich sage, wer zu dir passt. Persönlichkeit und Parteibindung. In <em>Wahlen und Wählerschaft in der Schweiz</em>, Markus Freitag and Adrian Vatter (eds.), 145-162. Zürich: Verlag Neue Zürcher Zeitung. <a href="http://www.defacto.expert/2015/10/12/welche-partei-passt-zu-mir/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost]</a></td>
+<td width="95%">Carlyle, C.G., <strong>Florko, K.R.N.</strong>, Young, B.G., Yurkowski, D.J., Michel, C., Ferguson, S.H. 2021. Marine mammal biodiversity and rare narwhal observations in the Canadian high-Arctic. Ecosphere, 12: e03534.</td>
 </tr>
 <tr>
 <td width="5%">[4]</td>
