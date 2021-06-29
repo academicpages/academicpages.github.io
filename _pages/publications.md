@@ -38,16 +38,16 @@ redirect_from:
 <td width="95%">Carlyle, C.G., <strong>Florko, K.R.N.</strong>, Young, B.G., Yurkowski, D.J., Michel, C., Ferguson, S.H. 2021. Marine mammal biodiversity and rare narwhal observations in the Canadian high-Arctic. Ecosphere, 12: e03534.</td>
 </tr>
 <tr>
+<td width="5%">[5]</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Thiemann, G.W., Bromaghin, J.F. 2020. Drivers and consequences of apex predator diet composition in the Canadian Beaufort Sea.</td>
+</tr>
+<tr>
 <td width="5%">[4]</td>
-<td width="95%">Freitag, Markus and <strong>Kathrin Ackermann</strong>. 2014. “Mir hei e Verein, ghörsch du da derzue?” Vereinsengagement als soziales Kapital der Schweiz. In <em>Das soziale Kapital der Schweiz</em>, Markus Freitag (ed.), 41-79. Zürich: Verlag Neue Zürcher Zeitung.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Derocher, A.E., Breiter, C.C., Ghazal, M., Hedman, D., Higdon, J.W., Richardson, E.S., Sahanatien, V., Trim, V., Petersen, S.D. 2020. Polar bear denning distribution in the Canadian Arctic. Polar Biology, 43: 617-621.</td>
 </tr>
 <tr>
 <td width="5%">[3]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Markus Freitag. 2014. Freiwilligenarbeit in der Schweiz. Grundlagen, Entwicklungen und förderliche Rahmenbedingungen. In <em>Freiwilligkeit und Vielfalt im Zeichen der Menschlichkeit</em>, Schweizerisches Rotes Kreuz (eds.), 24-45. Zurich: Seismo</td>
-</tr>
-<tr>
-<td width="5%">[2]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Markus Freitag. 2014. Der ökonomische Wert sozialer Beziehungen. In <em>Aus der Krise lernen. Auf dem Weg zu einer weltoffenen und humanen Gesellschaft</em>, Erwin Teufel and Winfried Mack (eds.), 182-196 Freiburg: Herder.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Bernhardt, W., Breiter, C.C., Ferguson, S.H., Hainstock, M., Young, B.G., Petersen, S.D. 2018. Decreasing sea ice conditions in western Hudson Bay and an increase in abundance of harbour seals (<i>Phoca vitulina</i>) in the Churchill River. Polar Biology, 41: 1187-1195.</td>
 </tr>
 <tr>
 <td width="5%">[1]</td>
