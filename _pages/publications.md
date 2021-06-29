@@ -40,7 +40,7 @@ redirect_from:
 </tr>
 <tr>
 <td width="5%">[5]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Thiemann, G.W., Bromaghin, J.F. 2020. Drivers and consequences of apex predator diet composition in the Canadian Beaufort Sea.<a href="https://link.springer.com/article/10.1007/s00442-020-04747-0" target="_blank" rel="noopener noreferrer">doi:10.1007/s00442-020-04747-0</a>.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Thiemann, G.W., Bromaghin, J.F. 2020. Drivers and consequences of apex predator diet composition in the Canadian Beaufort Sea. Oecologia, 194: 51-63.<a href="https://link.springer.com/article/10.1007/s00442-020-04747-0" target="_blank" rel="noopener noreferrer">doi:10.1007/s00442-020-04747-0</a>.</td>
 </tr>
 <tr>
 <td width="5%">[4]</td>
