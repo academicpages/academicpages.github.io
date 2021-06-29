@@ -80,12 +80,12 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[2]</td>
-  <td width="95%"><strong>Florko, K.R.N. 2018. Polar bear (<i>Ursus maritimus</i>) foraging ecology in the Western Canadian Arctic. Department of Biology, York University. Toronto, ON.<a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/34565" target="_blank" rel="noopener noreferrer">Link</a>.
+  <td width="95%"><strong>Florko, K.R.N.</strong> 2018. Polar bear (<i>Ursus maritimus</i>) foraging ecology in the Western Canadian Arctic. Department of Biology, York University. Toronto, ON.<a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/34565" target="_blank" rel="noopener noreferrer"> Link</a>.
 </td>
 </tr>
 <tr>
 <td width="5%">[1]</td>
- <td width="95%"><strong>Florko, K.R.N. 2015. Haul-out patterns and natural history of harbour seals in the Churchill River Estuary. Department of Biology, University of Winnipeg. Winnipeg, MB.
+ <td width="95%"><strong>Florko, K.R.N.</strong> 2015. Haul-out patterns and natural history of harbour seals in the Churchill River Estuary. Department of Biology, University of Winnipeg. Winnipeg, MB.
 </td>
 </tr>
 </tbody>
