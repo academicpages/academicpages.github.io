@@ -59,12 +59,18 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h2>Book Review</h2>
+<h2>Reports</h2>
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[2]</td>
+  <td width="95%">Petersen, S.D., <strong>Florko, K.R.N.</strong>, Menzies, A.K., and the IPBCC Advisory Board. 2018. Management rational and options for orphan polar bear cubs in Manitoba. White paper report prepared by the Assiniboine Park Conservancy. Winnipeg, MB. 24p.
+</td>
+</tr>
+<tr>
 <td width="5%">[1]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2017. Book Review of Sonja Zmerli and Ofer Feldman (eds.), 2015: Politische Psychologie. Handbuch für Studium und Wissenschaft, Baden-Baden: Nomos. <em>Swiss Political Science Review</em>, 23(1), 103-106. <a href="http://onlinelibrary.wiley.com/doi/10.1111/spsr.12240/full" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12240</a>.</td>
+ <td width="95%"><strong>Florko, K.R.N.</strong>, Petersen, S.D. 2019. Polar bear denning distribution in the Canadian Arctic. Report to World Wildlife Fund Canada. 24p.
+</td>
 </tr>
 </tbody>
 </table>
