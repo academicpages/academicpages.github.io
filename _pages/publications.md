@@ -50,8 +50,12 @@ redirect_from:
 <td width="95%"><strong>Florko, K.R.N.</strong>, Bernhardt, W., Breiter, C.C., Ferguson, S.H., Hainstock, M., Young, B.G., Petersen, S.D. 2018. Decreasing sea ice conditions in western Hudson Bay and an increase in abundance of harbour seals (<i>Phoca vitulina</i>) in the Churchill River. Polar Biology, 41: 1187-1195.</td>
 </tr>
 <tr>
+<td width="5%">[2]</td>
+<td width="95%">Bohn, S.J., Webber, Q.M.R., <strong>Florko, K.R.N.</strong>, Paslawski, K.R., Peterson, A.M., Piche, J.E., Menzies, A.K., Willis, C.K.R. 2017. Personality predicts ectoparasite abundance in an asocial sciurid. Ethology, 123: 761-771.</td>
+</tr>
+  <tr>
 <td width="5%">[1]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>, Kathrin Dombrowski, Antje Funcke and Sigrid Meinhold-Henschel. 2012. Soziale Erträge von Bildung. In <em>Warum Sparen in der Bildung teuer ist. Folgekosten unzureichender Bildung für die Gesellschaft</em>, Bertelsmann Stiftung (eds.), 171-192. Gutersloh: Verlag Bertelsmann Stiftung.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Bohn, S.J., Kalcounis-Rueppell, M.C., Brigham, R.M. 2017. A 23-year-old little brown bat (<i>Myotis lucifugus</i>) record from southwest Saskatchewan, Canada. Northwestern Naturalist, 98: 57-59.</td>
 </tr>
 </tbody>
 </table>
