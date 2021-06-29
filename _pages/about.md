@@ -21,11 +21,11 @@ redirect_from:
 * May 15, 2021. I earned my Ph.D. in Electrical and Computer Engineering at Rice University. 
 * April 30, 2021. I submitted the final version of my Ph.D. thesis. 
 * March 15, 2021. One journal paper submitted to IEEE Transactions on Geoscience and Remote Sensing. 
-* Feb, 2020. Two conference papers submitted to ICIP.
+* Feb, 2020. Two conference papers submitted by ICIP.
 * Dec 3rd, 2020. I defended my Ph.D..
 * Jun 1st, 2020. I started my internship at Facebook AR VR team.
 * April 8, 2020. One patent filed.
-* January 24, 2020. One paper accepted to ICASSP 2020.
+* January 24, 2020. One paper accepted by ICASSP 2020.
 * September, 2019. I gave talks at Shenzhen University, UESTC and Xidian Univeristy.
 * May 20, 2019. Internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com/) started.
 * April 30, 2019. Two paper accepted by ICIP 2019.
