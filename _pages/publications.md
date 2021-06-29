@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<h4>Please don't hesitate to get in touch to obtain reprints of any of the following publications.</h4>
 
 <h3>Articles in Review</h3>
 <table class="tg">
@@ -59,7 +60,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h2>Reports</h2>
+<h3>Reports</h3>
 <table class="tg">
 <tbody>
 <tr>
