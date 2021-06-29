@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "York University"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Teaching Assistant"
+permalink: /teaching/2014-spring-teaching-1
+venue: # "Department of Biology"
 date: 2015-01-01
-location: "City, Country"
+location: "Toronto, Canada"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Cells, Molecular Biology, and Genetics (x4)
+* Evolution, Ecology, Biodiversity & Conservation Biology (x3)
+* Animals
+* Ecology
+* Conservation Biology
