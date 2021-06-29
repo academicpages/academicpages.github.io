@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h3>Heidelberg University</h3>
+<h3>University of British Columbia, Masters of Data Science Program</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -17,36 +17,12 @@ redirect_from:
 <th class="tg-031e"></th>
 </tr>
 <tr>
-<td width="20%">Winter 2020/2021</td>
-<td width="80%">Research Seminar (MA Level)- <a href="http://kathrinackermann.github.io/files/Seminarplan_Forschungsseminar quant_WS20_webpage.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
+<td width="20%">Winter 2021</td>
+<td width="80%">Regression, Part 2</td> 
 </tr>
 <tr>  
-<td width="20%">Winter 2020/2021</td>
-<td width="80%"> Social Structure and Politics (BA Level, advanced)- <a href="http://kathrinackermann.github.io/files/Syllabus_BA_WS20_webpage.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
-</tr>
-<tr>  
-<td width="20%">Summer 2020</td>
-<td width="80%">Comparative Empirical Democracy Research (MA Level) - <a href="http://kathrinackermann.github.io/files/Syllabus_MA_SS2020_webpage.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
-</tr>
-<tr>
-<td width="20%">Summer 2020</td>
-<td width="80%">Quantitative Analyses in Participation Research (BA Level, advanced) - <a href="http://kathrinackermann.github.io/files/Syllabus_BA_SS2020_webpage.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
-</tr>
-<tr>  
-<td width="20%">Winter 2019/2020</td>
-<td width="80%">Research Seminar (MA Level) - <a href="http://kathrinackermann.github.io/files/Seminarplan_Forschungsseminar quant_WS1920_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
-</tr>
-<tr>
-<td width="20%">Winter 2019/2020</td>
-<td width="80%">Populism in Germany and Europe (BA Level, advanced) - <a href="http://kathrinackermann.github.io/files/Syllabus_BA_WS1920_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
-</tr>
-<tr>
-<td width="20%">Summer 2019</td>
-<td width="80%">Comparative Analysis of Political Behavior and Attitudes (MA Level) - <a href="http://kathrinackermann.github.io/files/Syllabus_MA_SS2019_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
-</tr>
-<tr>
-<td width="20%">Summer 2019</td>
-<td width="80%">Quantitative Analyses in Participation Research (BA Level, advanced) - <a href="http://kathrinackermann.github.io/files/Syllabus_BA_SS2019_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
+<td width="20%">Fall 2019</td>
+<td width="80%"> Data Wrangling</td>
 </tr>
 </tbody>
 </table>
