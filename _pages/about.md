@@ -28,6 +28,6 @@ redirect_from:
 * January 24, 2020. One paper accepted to ICASSP 2020.
 * September, 2019. I gave talks at Shenzhen University, UESTC and Xidian Univeristy.
 * May 20, 2019. Internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com/) started.
-* April 30, 2019. Two paper accepted to ICIP 2019.
-* February 1, 2019. One paper accepted to ICASSP 2019.
-* May 4, 2018. One paper accepted to ICIP 2018.
+* April 30, 2019. Two paper accepted by ICIP 2019.
+* February 1, 2019. One paper accepted by ICASSP 2019.
+* May 4, 2018. One paper accepted by ICIP 2018.
