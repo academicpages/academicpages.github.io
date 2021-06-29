@@ -10,5 +10,11 @@ redirect_from:
 ------
 I am a quantitative ecologist interested in all things Arctic, predator-prey interactions, climate change response, and ecological modelling. I'm currently a PhD Candidate in the [Statistical Ecology Research Group](http://statisticalecology.weebly.com) at the [Institute for the Oceans & Fisheries](http://oceans.ubc.ca) at the University of British Columbia. 
 
+Education
+======
+* B.Sc. (Hons) Department of Biology, University of Winnipeg, 2011-2015
+* M.Sc. Department of Biology, York University, 2015-2018
+* Ph.D Candidate, Institute for the Oceans & Fisheries, University of British Columbia, 2018-present
+
 ---
 
