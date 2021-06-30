@@ -8,11 +8,9 @@ author_profile: true
     
 ## Journal Articles
 
-+ **Sun, Y.**, Tang, J., Butler, A., Liu, C., Fang, Y. and Weng, C., "Interactive Similarity-Based Search of Clinical Trials". , 2021. (in submission)
++ **Sun, Y.**, Butler, A., Diallo1, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "Systematic Evaluation Framework for Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Applied Clinical Informatics Journal_** , 2021. 
 
-+ **Sun, Y.**, Butler, A., Diallo1, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "Systematic Evaluation Framework for Clinical Trial Population Representativeness Using Electronic Health Records Data". , 2021. (in submission)
-
-+ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_Diabetes, Obesity and Metabolism_**, 2020. (in submission)
++ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. (in submission)
 
 + **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim, J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2021. [code](https://github.com/WengLab-InformaticsResearch/COVID19-Structured_Trials)
 
@@ -34,6 +32,9 @@ author_profile: true
 
 ## Conference Proceedings   
 
+
++ **Sun, Y.**, Tang, J., Butler, A., Liu, C., Fang, Y. and Weng, C., "Interactive Similarity-Based Search of Clinical Trials". , 2021. (in submission)
++ 
 + Fang,Y., Kim, J., Idnay, B., Garcia, B., Castillo, C., **Sun, Y.**, Liu, H., Liu, C., Yuan, C., Weng C., "Participatory Design of a Clinical Trial Eligibility Criteria Simplification Method" In **_31st Medical Informatics Europe Conference (MIE 2021)_**, 2021
 
 + Li,X., Liu, H., Kury, F., Yuan, C., Butler, A., **Sun, Y.**, Ostropolets,A., Xu, H., Weng C., "Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model" In **_American Medical Informatics Association 2020 Annual Symposium (AMIA) Virtual Summit_**, 2021
