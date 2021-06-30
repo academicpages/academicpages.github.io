@@ -12,9 +12,9 @@ I am a quantitative ecologist interested in all things Arctic, predator-prey int
 
 Education
 ======
-* B.Sc. (Hons) Department of Biology, University of Winnipeg, 2011-2015
-* M.Sc. Department of Biology, York University, 2015-2018
-* Ph.D Candidate, Institute for the Oceans & Fisheries, University of British Columbia, 2018-present
+* BSc (Hons), Department of Biology, University of Winnipeg, 2011-2015
+* MSc, Department of Biology, York University, 2015-2018
+* PhD Candidate, Institute for the Oceans & Fisheries, University of British Columbia, 2018-present
 
 ---
 
