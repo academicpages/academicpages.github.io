@@ -34,7 +34,7 @@ author_profile: true
 
 
 + **Sun, Y.**, Tang, J., Butler, A., Liu, C., Fang, Y. and Weng, C., "Interactive Similarity-Based Search of Clinical Trials". , 2021. (in submission)
-+ 
+
 + Fang,Y., Kim, J., Idnay, B., Garcia, B., Castillo, C., **Sun, Y.**, Liu, H., Liu, C., Yuan, C., Weng C., "Participatory Design of a Clinical Trial Eligibility Criteria Simplification Method" In **_31st Medical Informatics Europe Conference (MIE 2021)_**, 2021
 
 + Li,X., Liu, H., Kury, F., Yuan, C., Butler, A., **Sun, Y.**, Ostropolets,A., Xu, H., Weng C., "Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model" In **_American Medical Informatics Association 2020 Annual Symposium (AMIA) Virtual Summit_**, 2021
