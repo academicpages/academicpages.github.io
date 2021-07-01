@@ -1,17 +1,9 @@
 ---
 title: Regular expressions for replication
-output:
-  md_document:
-    variant: gfm+footnotes
-    preserve_yaml: TRUE
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2021-07-01
 permalink: /posts/2021/07-rstudio-regex
 excerpt_separator: <!--more-->
 toc: true
-header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
 tags:
   - regex
 ---
