@@ -7,13 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="/files/pdf/CV_Jordan_Van_Beeck.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You may download a PDF copy of my CV [on this page](/files/pdf/Williams CV.pdf).
+
+<!-- {% include base_path %}
 
 ## Education
 * B.Sc. in Chemistry ('Chemie'), University of Antwerp, Belgium, 2015
 * M.Sc. in Chemistry ('Chemie'), University of Antwerp, Belgium, 2017
 * M.Sc. in Astronomy & Astrophysics, KU Leuven, Belgium, 2019
-* Ph.D in Astronomy & Astrophysics, KU Leuven, Belgium, 2023 (expected)
+* Ph.D in Astronomy & Astrophysics, KU Leuven, Belgium, 2023 (expected) -->
 
 <!-- ## Work experience
 * Summer 2015: Research Assistant
