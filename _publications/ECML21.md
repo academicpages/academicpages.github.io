@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ECML21
 venue: "ECML-PKDD 2021"
 date: 2021-6-19
-citation: 'Hongwei	Wang*, <b>Lantao Yu</b>*, Zhangjie Cao, Stefano Ermon. <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.'
+citation: 'Hongwei	Wang*, <b>Lantao Yu</b>* (equal contribution), Zhangjie Cao, Stefano Ermon. <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.'
 ---
 
 
