@@ -15,7 +15,7 @@ redirect_from:
 * M.Sc. in Astronomy & Astrophysics, KU Leuven, Belgium, 2019
 * Ph.D in Astronomy & Astrophysics, KU Leuven, Belgium, 2023 (expected)
 
-## Work experience
+<!-- ## Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -50,4 +50,4 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Service and leadership
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
