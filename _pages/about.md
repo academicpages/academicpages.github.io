@@ -34,7 +34,8 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     <font size="3">
       (Kia Rahmani, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
     </font> <br /> <font size="2">
-      [OOPSLA'21: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]
+      <a href"https://2021.splashcon.org/track/splash-2021-oopsla">
+      [OOPSLA'21: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]</a>
       <br/>
       [pre-print will be out soon!]
     </font>
