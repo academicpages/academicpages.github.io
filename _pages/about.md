@@ -29,6 +29,18 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
 
 ## Publications
 <ul>
+    <li>Multi-modal Program Inference: a Marriage of Pre-trained Language Models and Component-based Synthesis
+    <br />
+    <font size="3">
+      (Kia Rahmani, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
+    </font> <br /> <font size="2">
+      [OOPSLA'21: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]
+      <br/>
+      [pre-print will be out soon!]
+    </font>
+    </li>
+</ul>
+<ul>
     <li>Repairing Serializability Bugs in Distributed Database Programs via Automated Schema Refactoring
     <br />
     <font size="3">
