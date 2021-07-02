@@ -13,7 +13,9 @@ I combine statistical, network, and computational methods with large-scale datas
 
 My ongoing work focuses mainly on understanding the segregation and polarization in the U.S. I am using big data from FEC with corp data to track the polarization/partisanship trend in corporate elites. I am using population mobility data from [SafeGraph](https://docs.safegraph.com/docs/weekly-patterns) and Facebook to assess the long-term impact of racial segregation. I am also using deep learning methods to detect and monitor anti-AAPI hate speech and incidents (a direct result of polarization and xenophobia) from [Twitter since the COVID-19 outbreak](https://yongjunzhang.com/posts/2021/04/stopaapihate.md/). This project is funded by a seed grant from IACS at Stony Brook University.
 
-If you need CSS-related talks or workshops, please feel free to contact me directly.
+I am teaching Intro to Computational Social Science and Research Methods in Sociology at Stony Brook University.
+
+If you need CSS-related talks or workshops, please feel free to contact me directly. 
 
 [Download Zhang's Vita Here](https://yongjunzhang.com/files/zhang-vita.pdf).
 
