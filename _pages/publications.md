@@ -7,7 +7,7 @@ author_profile: true
 
 ### <a style="text-decoration:none" href="https://scholar.google.com/citations?user=7LY1_u4AAAAJ&hl=en">Google Scholar Profile</a>
 
-*Note: Reach out to me over mail for PDFs not attchaed here/broken links*
+*Note: Please reach out to me over mail for PDFs not attchaed here/broken links*
 
 <details open>
 <summary>2021</summary>
