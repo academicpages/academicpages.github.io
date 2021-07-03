@@ -30,7 +30,7 @@ Updates
   
   <li>
     8 Mar - Cleared PhD Qualifiers exam
-  <\li>
+  </li>
 </details>
 
 <details>

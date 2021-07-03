@@ -17,7 +17,7 @@ author_profile: true
   </li>
 
   <li>
-    <a style="text-decoration:none" href="https://dl.acm.org/doi/abs/10.1145/3449170">Vartalaap: what drives# airquality discussions: politics, pollution or pseudo-science?, ACM CSCW'21</a>, <a style="text-decoration:none" href="https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/PDFs/vartalaap.pdf">[<b>PDF</b></a>]
+    <a style="text-decoration:none" href="https://dl.acm.org/doi/abs/10.1145/3449170">Vartalaap: what drives# airquality discussions: politics, pollution or pseudo-science?, ACM CSCW'21</a>, <a style="text-decoration:none" href="https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/PDFs/vartalaap.pdf">[<b>PDF</b>]</a>
   </li>
 
 </ul>
@@ -27,12 +27,12 @@ author_profile: true
 <summary>2020</summary>
 <ul>
   <li>
-    <a style="text-decoration:none" href="https://dl.acm.org/doi/abs/10.1145/3384419.3430407">Poster: A toolkit for spatial interpolation and sensor placement, ACM SenSys'20</a>, <a style="text-decoration:none" href="../_publications/PDFs/polire.pdf">[<b>PDF</b></a>]
+    <a style="text-decoration:none" href="https://dl.acm.org/doi/abs/10.1145/3384419.3430407">Poster: A toolkit for spatial interpolation and sensor placement, ACM SenSys'20</a>, <a style="text-decoration:none" href="../_publications/PDFs/polire.pdf">[<b>PDF</b>]</a>
   </li>
 
   <li>
     <a style="text-decoration:none" href="https://patel-zeel.github.io/active-learning-visualization">Active Learning: A Visual Tour</a>
   </li>
-  
+
 </ul>
 </details>
