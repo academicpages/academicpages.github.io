@@ -23,7 +23,7 @@ Updates
 ---
 
 <details open>
-<summary markdown='span'>2021</summary>
+<summary>2021</summary>
 <ul>
   <li>
     18 Jun - A paper titled "Towards Active Air Quality Station Deployment" accepted in <a style="text-decoration:none" href="https://sites.google.com/view/icml-2021-subsetml/home">SubSetML</a> workshop in ICML'21 
