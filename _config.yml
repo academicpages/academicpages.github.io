@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "India"
-title                    : " "
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zeel B Patel"
 description              : &description " "
