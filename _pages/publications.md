@@ -20,8 +20,8 @@ author_profile: true
 \*Boyuan Feng, **\*Yuke Wang**, Tong Geng, Ang Li, Yufei Ding. \*: equal contribution<br/>
 ***APNN-TC: Accelerating Arbitrary Precision Neural Networks on Ampere GPU Tensor Cores*** <br/>
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis.*<br/>
+[<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/1WCEtOyZp6VFvBnCPbPI0WEn3YCXuLqWV/view?usp=sharing)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L86-L91)
-
 
 + <b style="color:blue">[OSDI-2021]</b>
 **Yuke Wang**, Boyuan Feng, Gushu Li, Shuangchen Li, Lei Deng, Yuan Xie, Yufei Ding.<br/>
