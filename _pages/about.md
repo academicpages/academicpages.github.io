@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<script type="text/javascript">
+function url(text, url) {
+  document.write('<a style="text-decoration:none" href="'+url+'">'+text+'</a>')
+}
+</script>
+
 # *Zeel* B Patel
 
-I am a PhD student at <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by <a style="text-decoration:none" href="https://nipunbatra.github.io">Prof. Nipun Batra</a>. I mainly work on sustainability related problems (currently focused on air quality). My technical areas of interest are Gaussian Processes and their applications.
+I am a PhD student at <scipt>url('a', 'b');</scipt> <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by <a style="text-decoration:none" href="https://nipunbatra.github.io">Prof. Nipun Batra</a>. I mainly work on sustainability related problems (currently focused on air quality). My technical areas of interest are Gaussian Processes and their applications.
 
 
 Previously, I worked in CTO's R&D team at <a style="text-decoration:none" href="https://www.inspirisys.com">Inspirisys Solutions Ltd.</a> for six months. I did my M.Tech. (Smart Manufacturing) from <a style="text-decoration:none" href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a> college.

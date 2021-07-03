@@ -11,9 +11,10 @@ author_profile: true
 
 <details open>
 <summary>2021</summary>
-
-  * Towards Active Air Quality Station Deployment, SubSetML Workshop, ICML'21, [**Under publication**]
-  * [Vartalaap: what drives# airquality discussions: politics, pollution or pseudo-science?, ACM CSCW'21](https://dl.acm.org/doi/abs/10.1145/3449170), [[**PDF**](../_publications/PDFs/vartalaap.pdf)]
+<ul>
+<li>Towards Active Air Quality Station Deployment, SubSetML Workshop, ICML'21, [**Under publication**]</li>
+<li>[Vartalaap: what drives# airquality discussions: politics, pollution or pseudo-science?, ACM CSCW'21](https://dl.acm.org/doi/abs/10.1145/3449170), [[**PDF**](../_publications/PDFs/vartalaap.pdf)]</li>
+</ul>
 </details>
 
 <details>
