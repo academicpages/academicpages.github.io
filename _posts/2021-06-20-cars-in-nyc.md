@@ -32,7 +32,7 @@ The large majority share of those commuting by transit or walking is not a stati
 
 To get a granular view of the data, I visualize car ownership, and other tract-level statistics, on a map of New York City overlayed with subway lines: 
 
-<iframe src="https://car-ownership-nyc.herokuapp.com/nyc_mapping" title="Car ownership in NYC" frameborder="0" allowfullscreen style="border: none;"></iframe>
+<iframe src="https://car-ownership-nyc.herokuapp.com/nyc_mapping" title="Car ownership in NYC" width="950" height="775" style="border: none;"></iframe>
 
 From the above map, it is evident that the residents of East Bronx, South Brooklyn, Eastern Queens, Most of Staten Island, and Upper East Side
 have an *above-average* share of car ownership, compared to the city or their borough. While some of these neighborhoods are transit deserts, others most certainly are not (hello, Upper East Side!). This leads to the next question:
