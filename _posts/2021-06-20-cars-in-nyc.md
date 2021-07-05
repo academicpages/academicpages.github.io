@@ -13,6 +13,8 @@ tags:
 
 **TL;DR:** Most New Yorkers do not own cars, much less drive to work. And the households that do own cars earn a significantly higher income than the ones that don't. Making it easier to drive, at the expense of transit improvements, does not help the vast majority of New Yorkers and especially not the least affluent.
 
+---
+
 With vehicle traffic on New York roads [back to pre-pandemic levels](https://www.nytimes.com/2021/05/29/nyregion/city-traffic-pre-covid.html) and upon seeing unsubstantiated [claims](https://twitter.com/ShanaS_Warren/status/1394095700959453187) swirling about who uses cars, I decided to find data about car ownership in New York City.
 
 The most granular and latest available data is from [American Community Survey (ACS) 2014-2019](https://api.census.gov/data/2019/acs/acs5/profile.html). The highest granularity of data released by the Census Bureau is by [Census tracts](https://www.census.gov/programs-surveys/geography/about/glossary.html#par_textimage_13), which are small, typically unchanging geographical regions that contain between 1200 and 8000 people. While individual-level data would have been preferable, data from Census tracts are still [indicative](https://opportunityinsights.org/neighborhoods/) of individual-level outcomes.
@@ -30,7 +32,7 @@ The large majority share of those commuting by transit or walking is not a stati
 
 To get a granular view of the data, I visualize car ownership, and other tract-level statistics, on a map of New York City overlayed with subway lines: 
 
-<iframe src="https://car-ownership-nyc.herokuapp.com/nyc_mapping" title="Car ownership in NYC" width="950" height="775" style="border: none;"></iframe>
+<iframe src="https://car-ownership-nyc.herokuapp.com/nyc_mapping" title="Car ownership in NYC" frameborder="0" allowfullscreen style="border: none;"></iframe>
 
 From the above map, it is evident that the residents of East Bronx, South Brooklyn, Eastern Queens, Most of Staten Island, and Upper East Side
 have an *above-average* share of car ownership, compared to the city or their borough. While some of these neighborhoods are transit deserts, others most certainly are not (hello, Upper East Side!). This leads to the next question:
