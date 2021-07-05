@@ -30,6 +30,7 @@ Research Experience 
   <!-- * Supervisor: Professor Wang Danwei  -->
 
 * Sep 2018 - Dec 2019: Research Assistant [Video](https://youtu.be/IWc4gnJT64A)
+  {% include video id="IWc4gnJT64A" provider="youtube" %}
   * Nanyang Technological University, Singapore
   * Center for Energy Research Institute@NTU (ERIAN) 
   * Future Mobility Team
