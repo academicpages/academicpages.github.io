@@ -6,7 +6,7 @@ year: 2021
 venue: 'Proceedings of the 2021 ACM SIGIR International Conference on the Theory
 of Information Retrieval (ICTIR ’21)'
 authors: Shuyi Wang, Bing Liu, <strong>Shengyao Zhuang</strong>, Guido Zuccon
-track: full paper
+track: Full paper
 ---
 ---
 
