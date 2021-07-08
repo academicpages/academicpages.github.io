@@ -149,6 +149,7 @@ Time Management
 Professional Development
 ======
 * [Cultivating Relationships](https://inclusion.bio.uci.edu/resources/undergraduate-students/cultivating-relationships/) suggestions for contacting professors
+* [Finding your research home](https://www.youtube.com/watch?v=ho1Wm8eL6CY&list=UUQQHo_QnuBxdfcsRy4INGGw) a 15-min video with great tips in finding a suitable lab from the director of NIH Training & Education
 * [Requesting Letters of Recommendation](https://inclusion.bio.uci.edu/resources/undergraduate-students/requesting-letters-of-recommendation/) suggestions for requesting letters of recommendation
 * [The Professor Is In](https://theprofessorisin.com/) a blog about navigating different stages of academic career
 * [Letters to Young Scientists](https://www.sciencemag.org/tags/letters-young-scientists) Science Careers' column with insightful suggestions to professional development
