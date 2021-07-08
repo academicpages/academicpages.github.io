@@ -9,6 +9,9 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 (<sup>\*</sup> indicates equal contribution. )
 
 ## 2021
+* **Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3442381.3449951)\]\[[code](https://github.com/YimiAChack/GSKN)\]<br>
+Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Yi Wu<sup>\*</sup>, Guojie Song. In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2021. 
+
 * **GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks** \[[pdf](https://kl4805.github.io/files/GraphMSE-AAAI21.pdf)\]\[[code](https://github.com/pkuliyi2015/GraphMSE)\]<br>
 Yi Li, **Yilun Jin**, Guojie Song, Zihao Zhu, Chuan Shi, Yiming Wang. In *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021
 
@@ -26,7 +29,7 @@ Junshan Wang<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Guojie Song, Xiaojun Ma. 
 Shuwen Yang, Guojie Song, **Yilun Jin**, Lun Du. In *The 29th International Joint Conference on Artificial Intelligence (IJCAI-PRICAI)*, 2020. 
 
 * **Active Domain Transfer on Network Embedding** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024)\]<br>
-Lichen Jin, Yizhou Zhang, Guojie Song, **Yilun Jin**, In *The Web Conference (TheWebConf, a.k.a WWW)*, 2020. 
+Lichen Jin, Yizhou Zhang, Guojie Song, **Yilun Jin**, In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2020. 
 
 ## 2019
 * **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3357384.3357947)\]\[[code](https://github.com/YimiAChack/SpaceNE)\] <br>
