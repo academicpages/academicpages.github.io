@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Varad Pimpalkhute"
 title_separator          : "-"
 name                     : &name "Varad Pimpalkhute"
-description              : &description "Researcher at TCS R&I"
+description              : &description "Researcher in Machine Learning"
 url                      : https://nightlessbaron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nightlessbaron/nightlessbaron.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &varad0309
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Varad Pimpalkhute"
+  avatar           : "varad.jpg"
+  bio              : "Researcher at TCS R&I Labs"
+  location         : "Nagpur, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=6Hwe1zgAAAAJ"
+  email            : "pimpalkhutevarad@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Varad-Pimpalkhute-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/varad.pimpalkhute"
   foursquare       :
-  github           : "academicpages"
+  github           : "nightlessbaron"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/varad0309/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/varad-pimpalkhute-a526a9167/"
+  orcid            : "https://orcid.org/0000-0002-0932-6010"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "varad0309"
   vine             :
   weibo            :
   xing             :
