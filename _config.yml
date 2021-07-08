@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Varad Pimpalkhute"
   avatar           : "varad.jpg"
-  bio              : "Researcher at TCS R&I Labs"
+  bio              : "Undergraduate at Indian Institute of Information Technology, Nagpur. <br/><br/> Researcher at TCS R&I Labs."
   location         : "Nagpur, India"
   employer         :
   pubmed           : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Calcutta #America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
