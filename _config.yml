@@ -59,10 +59,10 @@ yandex_site_verification :
 twitter:
   username               : &varad0309
 facebook:
-  username               : 
+  username               : &varad.pimpalkhute
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : varad.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/varad.pimpalkhute"
+  facebook         : "varad.pimpalkhute"
   foursquare       :
   github           : "nightlessbaron"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/varad0309/"
+  instagram        : "varad0309/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/varad-pimpalkhute-a526a9167/"
+  linkedin         : "varad-pimpalkhute-a526a9167/"
   orcid            : "https://orcid.org/0000-0002-0932-6010"
   pinterest        :
   soundcloud       :
