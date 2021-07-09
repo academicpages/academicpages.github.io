@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[July 2021\] Invited to the Program Committee Board (i.e. serve a three-year term as Program Committee Members) for **IJCAI 2022-24**.
+
 \[June 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021 Datasets and Benchmarks Track** and **ICLR 2022**. 
 
 \[May 2021\] SecureBoost is accepted at **IEEE Intelligent Systems**. Congratulations to my co-authors! 
@@ -28,13 +30,9 @@ News
 
 \[May 2020\] One co-authored paper accepted at **KDD 2020**. Congratulations to my co-authors! 
 
-\[April 2020\] One co-authored paper accepted at **IJCAI 2020**. Congratulations to my co-authors!
-
 \[January 2020\] Two papers accepted at **TheWebConf 2020** (Short Paper) and **ECAI 2020**. 
 
 \[November 2019\] Our paper **GraLSP: Graph Neural Networks with Local Structural Patterns** is accepted at AAAI 2020 \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]!
-
-\[November 2019\] Our paper **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** was awarded *Best Research Paper Runner-up* at CIKM 2019! \[[PDF](https://kl4805.github.io/files/CIKM19.pdf)\]
 
 Miscellaneous
 ======
