@@ -4,15 +4,18 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 gallery:
-  - image_path: /Places/nagpur.jpg
-    title: Nagpur
-    alt: Serene City of Nagpur
-  - image_path: /Places/issaquah.jpg
-    title: Seattle
-    alt: Rainy city of USA
-  - image_path: /Places/gandhinagar.jpg
-    title: Gandhinagar
-    alt: Trade city of India
+  - url: /Places/nagpur.jpg
+    image_path: /Places/nagpur.jpg
+    title: Serene City of Nagpur
+    alt: Nagpur
+  - url: /Places/issaquah.jpg
+    image_path: /Places/issaquah.jpg
+    title: Rainy city of USA, Seattle
+    alt: Seattle
+  - url: /Places/gandhinagar.jpg
+    image_path: /Places/gandhinagar.jpg
+    title: Ancient trade city of India, Karnavati
+    alt: Ahmedabad
 redirect_from: 
   - /about/
   - /about.html
@@ -40,11 +43,9 @@ Personal
 
 I was born in a serene city called Nagpur, India. I grew up listening to Itihasas (historical texts), and Puranas (Folklore). This made me to be self aware and conscious of my existence from a young age. And so, I like talking to people and visiting different places to discover my role in the greater plan of nature. Thus, it has always been my dream to travel a lot, and observe different traditions, people, and their way of living. Along, with that, I also developed interest in trekking. 
 
-Shoot me a message anytime if you want to talk with me regarding anything! I would love to have a talk with you over a cup of coffee :relaxed:
+Shoot me a message anytime if you want to talk with me regarding anything! I would love to have a talk with you over a cup of coffee 😊
 
 {% include gallery %}
-
-From left to right: Nagpur, Issaquah and Gandhinagar.
 
 Timeline
 ======

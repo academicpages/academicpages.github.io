@@ -274,6 +274,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  jemoji
   tzinfo-data
   wdm (~> 0.1.0)
 
