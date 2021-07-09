@@ -9,9 +9,11 @@ redirect_from:
 
 ## Computational account of topography in occipito-temporal cortex
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
-<iframe src="https://www.youtube.com/embed/zZvrIuoxU6Y" style="width: 40%; max-height: 40%; border-style: solid;" allowfullscreen></iframe>
+<div>
+<iframe src="https://www.youtube.com/embed/zZvrIuoxU6Y" style="width: 40%; border-style: solid;" allowfullscreen></iframe>
 <img src="https://feziodoshi.github.io/images/som_training.gif" style="width:40%;">
-
+</div>
+  
 <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:100%;"/>
 <img src="https://feziodoshi.github.io/images/topography_1.png" alt="drawing"/>
 
