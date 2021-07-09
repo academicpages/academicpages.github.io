@@ -1,3 +1,9 @@
+<style>
+  .gif-holder{
+    text-aligh:center;
+  }
+</style>
+
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -45,9 +51,9 @@
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 
-
+  <div class="gif-holder">
       <img src="{{ base_path }}/images/cheetah-run.gif" align="center" border="10"/>
       <img src="{{ base_path }}/images/walker-walk.gif" align="center" border="10"/>
-
+  </div>
 
 </div>
