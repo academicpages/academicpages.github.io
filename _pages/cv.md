@@ -13,7 +13,7 @@ Education
 ======
 * B.S. Economics, University of North Texas 2017
 * M.S.D.S. Artificial Intelligence, Northwestern University 2021
-    * *Thesis: Learning via Latent Representations for Reinforcement Learning Agents in High Dimensional State Spaces*
+    * *Thesis: Representation Learning for Data-Efficient Reinforcement Learning*
 
 Work experience
 ======
