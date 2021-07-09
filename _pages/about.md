@@ -16,7 +16,7 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
-\[July 2021\] Invited to the Program Committee Board (i.e. serve a three-year term as Program Committee Members) for **IJCAI 2022-24**.
+\[July 2021\] Invited to the Program Committee Board (i.e. to serve a three-year term as Program Committee Members) for **IJCAI 2022-24**.
 
 \[June 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021 Datasets and Benchmarks Track** and **ICLR 2022**. 
 
