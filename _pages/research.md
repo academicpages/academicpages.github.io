@@ -10,11 +10,9 @@ redirect_from:
 ## Computational account of topography in occipito-temporal cortex
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 <iframe src="https://www.youtube.com/embed/zZvrIuoxU6Y" style="max-width: 40%; max-height: 40%; border-style: solid;" allowfullscreen></iframe>
-  
 <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:50%;"/>
-<img src="https://feziodoshi.github.io/images/som_training.gif" style="width:40%;">
-  
 
+<img src="https://feziodoshi.github.io/images/som_training.gif" style="width:100%;">
 <img src="https://feziodoshi.github.io/images/topography_1.png" alt="drawing"/>
 
 ## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
