@@ -3,6 +3,16 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+gallery:
+  - image_path: /images/Places/nagpur.jpg
+    title: Nagpur
+    alt: Serene City of Nagpur
+  - image_path: /images/Places/issaquah.jpg
+    title: Seattle
+    alt: Rainy city of USA
+  - image_path: /images/Places/gandhinagar.jpg
+    title: Gandhinagar
+    alt: Trade city of India
 redirect_from: 
   - /about/
   - /about.html
@@ -12,21 +22,27 @@ redirect_from:
 
 Hello, my name is Varad. I will be joining Tata Research & Innovation Labs in September 2020. My breadth search over the past four years, resulted in me developing interests in domains at the intersection of mathematics, deep learning, and algorithm optimization. This brought me to work in the domain of Meta Learning.
 
-I completed by Bachelors in Electronics & Communication Engineering from [Indian Institute of Information Technology, Nagpur](https://iiitn.ac.in/) (IIITN). I worked in the domain of Algorithmic Game Theory (COMSOC, precisely) under the guidance of [Dr. Neeldhara Misra](http://people.iitgn.ac.in/~neeldhara/) at [IIT Gandhinagar](https://iitgn.ac.in/). I was also fortunate to research at [HLP Lab](https://healthlanguageprocessing.org/), University of Pennsylvania supervised by [Dr. Graciela Gonzalez-Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd) in a field at an intersection of NLP, Data mining, and AI for Healthcare. Finally, I was hosted by [Dr. Rekha Singhal](https://www.linkedin.com/in/rekha-singhal-7122635/) at [Tata R&I Computing Systems Lab](https://www.tcs.com/designing-high-performing-enterprise-systems) in the domain of meta learning and algorithm optimization.
+I completed by Bachelors in Electronics & Communication Engineering from [Indian Institute of Information Technology, Nagpur](https://iiitn.ac.in/) (IIITN). I worked in the domain of Algorithmic Game Theory (COMSOC, precisely) under the guidance of [Dr. Neeldhara Misra](http://people.iitgn.ac.in/~neeldhara/) at [IIT Gandhinagar](https://iitgn.ac.in/). I was also fortunate to research at [HLP Lab](https://healthlanguageprocessing.org/), University of Pennsylvania supervised by [Dr. Graciela Gonzalez-Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd) in a field at an intersection of NLP, Data mining, and AI for Healthcare. Finally, I was hosted by [Dr. Rekha Singhal](https://www.linkedin.com/in/rekha-singhal-7122635/) at [Tata R&I Computing Systems Lab](https://www.tcs.com/designing-high-performing-enterprise-systems) where I researched in the domain of meta learning and algorithm optimization.
 
-I also like trekking, traveling, and reading books a lot!
+> Research Interest:\
+> [Meta Learning](#Buttons){: .btn--research} \| [NLP](#Buttons){: .btn--research} \| [Algorithmic Game Theory](#Buttons){: .btn--research} \| [AI for Healthcare](#Buttons){: .btn--research}\
+> Portfolio Page:\
+> Blogs: (I have also added Disqus, so feel free to let me know your thoughts on it.)
 
-
-Quick Links
-======
-1. Research Interest: **Meta Learning \| NLP \| Algorithmic Game Theory \| AI for Healthcare**
-2. Portfolio Page: 
-3. Blogs: (I have also added Disqus, so feel free to let me know your thoughts on it.)
 
 NEWS
 =====
 1. I will be joining Tata R&I Labs in September 2021.
 2. I attended [NAACL-HLT Conference](https://aclweb.org/conference/virtual-naacl-hlt-2021-conference-registration/) at Mexico City, Mexico virtually. I also presented my work on Classification of Health Related Tweets at SMM4H Workshop, cohosted at NAACL.
+
+Personal
+=====
+
+I was born in a serene city called Nagpur, India. I grew up listening to Itihasas (historical texts), and Puranas (Folklore). This made me to be self aware and conscious of my existence from a young age. And so, I like talking to people and visiting different places to discover my role in the greater plan of nature. Thus, it has always been my dream to travel a lot, and observe different traditions, people, and their way of living. Along, with that, I also developed interest in trekking. 
+
+Shoot me a message anytime if you want to talk with me regarding anything! I would love to have a talk with you over a cup of coffee :relaxed:
+
+{% include gallery %}
 
 Timeline
 ======
