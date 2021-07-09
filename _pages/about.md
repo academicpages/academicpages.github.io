@@ -4,13 +4,13 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 gallery:
-  - image_path: /images/Places/nagpur.jpg
+  - image_path: /Places/nagpur.jpg
     title: Nagpur
     alt: Serene City of Nagpur
-  - image_path: /images/Places/issaquah.jpg
+  - image_path: /Places/issaquah.jpg
     title: Seattle
     alt: Rainy city of USA
-  - image_path: /images/Places/gandhinagar.jpg
+  - image_path: /Places/gandhinagar.jpg
     title: Gandhinagar
     alt: Trade city of India
 redirect_from: 
@@ -43,6 +43,8 @@ I was born in a serene city called Nagpur, India. I grew up listening to Itihasa
 Shoot me a message anytime if you want to talk with me regarding anything! I would love to have a talk with you over a cup of coffee :relaxed:
 
 {% include gallery %}
+
+From left to right: Nagpur, Issaquah and Gandhinagar.
 
 Timeline
 ======
