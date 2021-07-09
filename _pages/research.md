@@ -7,6 +7,11 @@ redirect_from:
   - /publications
 ---
 
+## Computational account of topography in occipito-temporal cortex
+
+Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/) 
+{% include image_yolo.html url="https://feziodoshi.github.io/images/topography_1.png" description="add description" %}
+
 ## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
 
 Collaborators: [Colin Conwell](https://colinconwell.github.io) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
