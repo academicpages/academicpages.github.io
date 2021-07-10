@@ -19,4 +19,4 @@ author_profile: true
 2025. (with Carrie Manning and Ian Smith) Parties, Politics, Peace: How former insurgent groups shape politics after war. *book project*
 
 ## Other Publications
-2019, July 4. (Op-Ed) Women's Struggle in Turkey (with Ronay Bakan). *Yale Global*. Retrived from: [https://yaleglobal.yale.edu/content/womens-struggle-turkey]{https://yaleglobal.yale.edu/content/womens-struggle-turkey}. 
+2019, July 4. (Op-Ed) Women's Struggle in Turkey (with Ronay Bakan). *Yale Global*. Retrived from: [https://yaleglobal.yale.edu/content/womens-struggle-turkey].
