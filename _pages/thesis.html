@@ -65,13 +65,20 @@ author_profile: true
 </div>
 
 <div style="display:inline-block; max-width:30%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
-    <h3>Analyzing Latent Representations</h3>
+    <h2>Analyzing Latent Representations</h2>
+</div>
+
+<div style="display:inline-block; max-width:30%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
+    <h3>Translation Invariance and Temporal Coherence</h3>
 </div>
 <div style="text-align:center;">
     <img src="{{ base_path }}/images/trans_invar_in.png" border="100" style="margin: 1em 1em 1em 1em; width: 30%; height: auto;"/>
     <img src="{{ base_path }}/images/dist_z_zprime_in.png" border="100" style="margin: 1em 1em 1em 1em; width: 30%; height: auto;"/>
 </div>
 
+<div style="display:inline-block; max-width:30%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
+    <h3>Representations as They Relate to Reward</h3>
+</div>
 <div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
     <p>
         We analyzed the organization of learned representations for KSL (top row) and DrQ (bottom row) at 5k (left column), 10k (middle column) and 15k (right column) steps. Plots are made via PCA projections of latent representations created by each methods' encoders and points are colored by the given reward in the original state. We highlight that KSL learns to organize its representations around reward more quickly than DrQ.
@@ -91,7 +98,7 @@ author_profile: true
 
 <div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
     <p>
-        We quantitatively expanded the above analysis by computing how $\textit{linearly predictable}$ reward is from given representations. First, we obtained the weight vector $\beta$ via that solves the closed-form equation for a linear regression $\beta = (X^{\top}X)^{-1}X^{\top}Y$. Here, $Y$ is a vector of rewards and $X$ is a matrix of latent states where $Y_i$ is the reward that directly corresponds to the $i$th row of $X$. Once estimated, we use $\beta$ to predict a vector of rewards $\hat{Y}$ and measure the mean squared error (MSE) $\mathbb{E}[(Y - \hat{Y})^2]$. We perform this operation for each encoder checkpoint from 0k steps to 100k steps.
+        We quantitatively expanded the above analysis by computing how $\textit{linearly}$ $\textit{predictable}$ reward is from given representations. First, we obtained the weight vector $\beta$ via that solves the closed-form equation for a linear regression $\beta = (X^{\top}X)^{-1}X^{\top}Y$. Here, $Y$ is a vector of rewards and $X$ is a matrix of latent states where $Y_i$ is the reward that directly corresponds to the $i$th row of $X$. Once estimated, we use $\beta$ to predict a vector of rewards $\hat{Y}$ and measure the mean squared error (MSE) $\mathbb{E}[(Y - \hat{Y})^2]$. We perform this operation for each encoder checkpoint from 0k steps to 100k steps.
     </p>
     <p>
         The right plot is simply a zoomed-in version of the left plot that provides are more clear depiction of the differences between KSL and DrQ. We highlight two findings. First, the RL learning loop is not enough to learn representations that can reliably predict reward. Second, KSL's representation learning routine provides representations that are much more closely related to reward than DrQ's representations.
@@ -100,4 +107,8 @@ author_profile: true
 <div style="text-align:center;">
     <img src="{{ base_path }}/images/mse_linear_out.png" border="100" style="margin: 1em 1em 1em 1em; width: 30%; height: auto;"/>
     <img src="{{ base_path }}/images/mse_linear_in.png" border="100" style="margin: 1em 1em 1em 1em; width: 30%; height: auto;"/>
+</div>
+
+<div style="display:inline-block; max-width:30%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
+    <h3>Representations as They Relate to Reward</h3>
 </div>
