@@ -45,11 +45,20 @@ author_profile: true
 <div style="display:inline-block; max-width:30%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
     <h3>PlaNet Benchmark Suite</h3>
 </div>
-
-<div style="text-align:center;">
-    <img src="{{ base_path }}/images/results-table.png" border="100" style="margin: 1em 1em 1em 1em; width: 60%; height: auto;"/>
+<div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
+    <p>
+        The results in the table below are from the PlaNet benchmark suite. One key note is that KSL achieves SotA results with small batch sizes. The results reported for KSL are with a batch size of 128 while previous SotA methods (RAD, DrQ, CURL, and SAC+AE) all use a batch size of 512. These methods suffer significantly with smaller batch sizes, as shown in the following section.
+    </p>
 </div>
 
+
+<div style="text-align:center;">
+    <img src="{{ base_path }}/images/results-table.png" border="100" style="margin: 1em 1em 1em 1em; width: 65%; height: auto;"/>
+</div>
+
+<div style="display:inline-block; max-width:30%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
+    <h3>Effects of Smaller Batch Sizes</h3>
+</div>
 <div style="text-align:center;">
     <img src="{{ base_path }}/images/cheetah_small_batch.png" border="100" style="margin: 1em 1em 1em 1em; width: 30%; height: auto;"/>
     <img src="{{ base_path }}/images/walker_small_batch.png" border="100" style="margin: 1em 1em 1em 1em; width: 30%; height: auto;"/>
