@@ -12,7 +12,7 @@ Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:100%;"/>
 <img src="https://feziodoshi.github.io/images/topography_1.png" alt="drawing"/>
 
-## How does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
+## Does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
 
 Collaborators: [Colin Conwell](https://colinconwell.github.io) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
 * Conwell, C., Doshi, F., Alvarez, G.A.(2019). *Shared Representations of Stability in Humans, Supervised, & Unsupervised Neural Networks. In Shared Visual Representations in Human and Machine Intelligence*. SVRHM workshop at NeurIPS 2019. [pdf](https://feziodoshi.github.io/files/neurips_2019_svrhm.pdf)
