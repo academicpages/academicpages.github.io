@@ -14,7 +14,7 @@ redirect_from:
 
 Master Student, \\
 [Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/), \\
-Department of Bioinformatic Engineering, \\
+<!-- Department of Bioinformatic Engineering, \\ -->
 Graduate School of Information Science and Technology, \\
 Osaka University, Japan
 
