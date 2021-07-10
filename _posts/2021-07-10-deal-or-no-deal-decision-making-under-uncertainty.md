@@ -5,6 +5,8 @@ permalink: /posts/2021/7/deal-or-no-deal-decision-making-under-uncertainty/
 tags:
 ---
 
+*This post represents a joint effort with Tony Kulesa*
+
 Imagine you are in one of these situations:
 
 - You are going to pass $N$ gas stations on your way to return a rental car,
