@@ -84,7 +84,7 @@ author:
   avatar           : "photo_bio.jpg"
   bio              : "(she/her/hers) Political Science Ph.D. Student at Georgia State University (GSU) interested in competitive autocratic regimes and political parties."
   location         : "Atlanta, GA, USA"
-  employer         : "Georgia State University"
+  employer         : 
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Q4RzaGMAAAAJ&hl=en"
   email            : "otuncelgurlek1@gsu.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ozlem-tuncel/"
+  linkedin         : "ozlem-tuncel"
   orcid            : "https://orcid.org/0000-0001-8087-3511"
   pinterest        :
   soundcloud       :
