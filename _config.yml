@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ozlem Tuncel"
 title_separator          : "-"
 name                     : &name "Ozlem Tuncel"
-description              : &description ""
+description              : &description "she/her/hers"
 url                      : https://ozlemtuncel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ozlemtuncel/ozlemtuncel.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ozlem Tuncel"
   avatar           : "photo_bio.jpg"
-  bio              : "Ozlem Tuncel is a Political Science Ph.D. Student at GSU interested in competitive autocratic regimes and political parties."
+  bio              : "Ozlem Tuncel is a Political Science Ph.D. Student at Georgia State University (GSU) interested in competitive autocratic regimes and political parties."
   location         : "Atlanta, GA, USA"
   employer         : "Georgia State University"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Q4RzaGMAAAAJ&hl=en"
-  email            :
+  email            : "otuncelgurlek1@gsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ozlem-tuncel/"
   orcid            : "https://orcid.org/0000-0001-8087-3511"
   pinterest        :
   soundcloud       :
