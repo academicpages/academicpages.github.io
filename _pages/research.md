@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-## A computational account of topography in the occipitotemporal cortex
+## A computational account of topography in the occipitotemporal cortex: 
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)  
 <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:100%;"/>
 <img src="https://feziodoshi.github.io/images/topography_1.png" alt="drawing"/>
