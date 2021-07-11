@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /aaaa
 title: "Home - Trevor McInroe"
 layout: single
 author_profile: true
