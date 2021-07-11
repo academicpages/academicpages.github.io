@@ -22,4 +22,4 @@ Autonomous Vehicle for DSTA, Singapore
 ​Fire Truck Height Detection System for Changi Airport, Singapore
 ======
 * The project is to assist fire truck to avoid obstacles during emergency periods in Changi Airport.
-* The project is to develop the blackbox to receive the LIDAR data and compute necessary machine learning algorithms and alarm the fire truck drivers.
+* The project is to develop the blackbox to receive the LiDAR data and compute necessary machine learning algorithms and alarm the fire truck drivers.
