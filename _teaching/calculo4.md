@@ -20,10 +20,11 @@ Serão aplicadas três provas individuais, uma para cada unidade. A nota final s
 
 Bibliografia
 ======
-* Stewart Vol 2
-* Guidorizzi
-* Thomas
+* Stewart, J., Cálculo, Volume 2, 5a Edição, Thomson, (2006).
+* Guidorizzi, H. L. G., Um Curso de Cálculo, Volume 3, 3a Edição, LTC, (2016).
+* Williamson, Richard E., Crowell, R. H., Trotter, H. F., Cálculo de Funções Vetoriais: Álgebra Linear e Cálculo Diferencial, Volume 1,  Livros Técnicos e Científicos S.A. (1974).
+* Williamson, Richard E., Crowell, R. H., Trotter, H. F., Cálculo de Funções Vetoriais: Álgebra Linear e Cálculo Diferencial, Volume 2,  Livros Técnicos e Científicos S.A. (1974).
 
 Plano de Curso
 ======
-[Download](https://github.com/mbortoloti/mbortoloti.github.io/blob/54d658939494ff9ddb70d57b36168f7303f62338/files/paper1.pdf)
+Disponível no sistema SAGRES.
