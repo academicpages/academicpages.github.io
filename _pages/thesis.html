@@ -33,7 +33,7 @@ author_profile: true
 <div style="text-align:center;">
   <p>
     <!--<a href="https://arxiv.org/abs/2103.06398v1">[PAPER]</a>-->
-    [PAPER IN REVIEW]
+    [THESIS IN REVIEW]
     &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://github.com/trevormcinroe/thesis">[CODE]</a>
   </p>
@@ -50,8 +50,9 @@ author_profile: true
 <div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
     <p>
         KSL's representation learning modules build off of the recent success of <a href="https://proceedings.neurips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf">"Boostrap Your Own Latent"</a> (BYOL).
-        We expand BYOL's architecture with a learned recurrent transition-module that operates in the latent space.
+        We expand BYOL's architecture with a recurrent transition-module that operates in the latent space.
         The addition of this module allows KSL to exploit the RL problem's underlying Markov decision process and encourages KSL's representations to be temporally coherent.
+        For specific details, see Chapter 3 of the linked thesis.
     </p>
 </div>
 
@@ -64,13 +65,24 @@ author_profile: true
 </div>
 <div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
     <p>
-        The results in the table below are from the PlaNet benchmark suite. One key note is that KSL achieves SotA results with small batch sizes. The results reported for KSL are with a batch size of 128 while previous SotA methods (RAD, DrQ, CURL, and SAC+AE) all use a batch size of 512. These methods suffer significantly with smaller batch sizes, as shown in the following section.
+        The results in the table below are from the <a href="https://arxiv.org/pdf/1811.04551.pdf">PlaNet</a> benchmark suite, a set of six continuous control tasks.
+        We provide figures for the "data efficiency" (100k steps) and "asymptotic performace" (500k steps) checkpoints.
+        Results are reported as the mean $\pm$ one standard deviation across several random seeds.
+        Best results for each task and checkpoint are bolded.
     </p>
 </div>
 
 
 <div style="text-align:center;">
     <img src="{{ base_path }}/images/results-table.png" border="100" style="margin: 1em 1em 1em 1em; width: 70%; height: auto;"/>
+</div>
+
+<div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
+    <p>
+        One key note is that KSL achieves SotA results with small batch sizes.
+        The results reported for KSL are with a batch size of 128 while previous SotA methods (RAD, DrQ, CURL, and SAC+AE) all use a batch size of 512.
+        These methods suffer significantly with smaller batch sizes, as shown in the below plots.
+    </p>
 </div>
 
 <div style="display:inline-block; max-width:30%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
