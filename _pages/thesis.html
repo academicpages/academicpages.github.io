@@ -50,7 +50,8 @@ author_profile: true
 <div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
     <p>
         KSL's representation learning modules build off of the recent success of <a href="https://proceedings.neurips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf">"Boostrap Your Own Latent"</a> (BYOL).
-        We adapt BYOL's architecture to exploit the RL problem's underlying Markov decision process.
+        We expand BYOL's architecture with a learned recurrent transition-module that operates in the latent space.
+        The addition of this module allows KSL to exploit the RL problem's underlying Markov decision process and encourages KSL's representations to be temporally coherent.
     </p>
 </div>
 
