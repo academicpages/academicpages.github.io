@@ -16,7 +16,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol
 
 * **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
 Jiahao Zhao, **Penghui Wei**, Wenji Mao  
-In Proc. of **SIGIR 2021** (short): The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (_to appear_).  
+In Proc. of **SIGIR 2021** (short): The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1778--1782. Virtual event, Canada, July 11--15, 2021.    
 
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
