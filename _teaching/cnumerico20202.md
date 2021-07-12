@@ -30,4 +30,4 @@ Disponível no sistema SAGRES.
 
 Julia
 ======
-[Página do Julia (Download, documentação e tutoriais)] (https://julialang.org/)
+[Página do Julia (Download, documentação e tutoriais)](https://julialang.org/)
