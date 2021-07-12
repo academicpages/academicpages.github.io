@@ -52,6 +52,7 @@ author_profile: true
         KSL's representation learning modules build off of the recent success of <a href="https://proceedings.neurips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf">"Boostrap Your Own Latent"</a> (BYOL).
         We expand BYOL's architecture with a recurrent transition-module that operates in the latent space.
         The addition of this module allows KSL to exploit the RL problem's underlying Markov decision process and encourages KSL's representations to be temporally coherent.
+        The learned encoders within KSL are used to project incoming image-based states into latent vectors, which are then used to train the RL agent.
         For specific details, see Chapter 3 of the linked thesis.
     </p>
 </div>
@@ -80,7 +81,12 @@ author_profile: true
 <div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
     <p>
         One key note is that KSL achieves SotA results with small batch sizes.
-        The results reported for KSL are with a batch size of 128 while previous SotA methods (RAD, DrQ, CURL, and SAC+AE) all use a batch size of 512.
+        The results reported for KSL are with a batch size of 128 while previous SotA methods
+        (<a href="https://proceedings.neurips.cc/paper/2020/file/e615c82aba461681ade82da2da38004a-Paper.pdf">RAD</a>,
+        <a href="https://openreview.net/pdf?id=GY6-6sTvGaf">DrQ</a>,
+        <a href="http://proceedings.mlr.press/v119/laskin20a.html">CURL</a>,
+        and
+        <a href="https://arxiv.org/pdf/1910.01741.pdf">SAC+AE</a>) all use a batch size of 512.
         These methods suffer significantly with smaller batch sizes, as shown in the below plots.
     </p>
 </div>
@@ -98,16 +104,39 @@ author_profile: true
 </div>
 <div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
     <p>
-        Here, we provide a high-level overview of our analysis on the latent representations that are produced by various representation learning methods. We focus on KSL and DrQ and, in some cases, also provide results from an RL agent learning without any representation learning routines, which we call Pixel.
+        Here, we provide a high-level overview of our analysis on the latent representations that are produced by various representation learning methods.
+        We focus on KSL and DrQ and, in some cases, also provide results from an RL agent learning without any representation learning routines, which we call Pixel.
+        For a detailed description of each evaluation test, see Chapter 5 in the linked thesis.
     </p>
 </div>
 
 <div style="display:inline-block; max-width:40%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
     <h3>Translation Invariance and Temporal Coherence</h3>
 </div>
+
+<div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
+    <p>
+        Ideally, representations in RL should be robust to small perturbations in the original-data space as well as be temporally coherent.
+        We measure robustness via translation invariance by measuring the Euclidean distance between representation vectors from several augmented versions of a given state.
+        For each 5k RL-learning steps from 0k to 100k, we compute this measurement over 5,000 states.
+        The below plot (left) shows the average (bold line) and one standard deviation (shaded area) for representations learned by KSL, DrQ, and Pixel.
+        Here, lower is better.
+        Also, we measure the Euclidean distance between a given state and next-state pair over ten episodes.
+        The below plot (left) shows the average (bold line) and one standard deviation (shaded area) for representations learned by KSL, DrQ, and Pixel.
+        Here, lower is better.
+    </p>
+</div>
+
 <div style="text-align:center;">
     <img src="{{ base_path }}/images/trans_invar_in.png" border="100" style="margin: 1em 1em 1em 1em; width: 30%; height: auto;"/>
     <img src="{{ base_path }}/images/dist_z_zprime_in.png" border="100" style="margin: 1em 1em 1em 1em; width: 30%; height: auto;"/>
+</div>
+
+<div style="display:inline-block; max-width:55%; display:block; margin-left:auto; margin-right:auto">
+    <p>
+        We highlight that the RL loop, without any representation learning help, is not enough to produce satisfactory results for either of the above two metrics.
+        Also, KSL's learning routine produces superior results over DrQ.
+    </p>
 </div>
 
 <div style="display:inline-block; max-width:50%; text-align:center;  display:block; margin-left:auto; margin-right:auto">
