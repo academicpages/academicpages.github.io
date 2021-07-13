@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 ## A computational account of topography in the occipitotemporal cortex: 
-Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)  
-Here's a talk on this project, presented at the Vision Sciences Society 2021 Conference[here](https://www.youtube.com/watch?v=zZvrIuoxU6Y)
+Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
+
+
+Here's a [talk](https://www.youtube.com/watch?v=zZvrIuoxU6Y) on this project, presented at the Vision Sciences Society 2021 Conference
 <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:100%;"/>
 <img src="https://feziodoshi.github.io/images/topography_1.png" alt="drawing"/>
 
