@@ -12,4 +12,4 @@ author_profile: true
 1. [Bortoloti, M. A. de A.; Karam-Filho, J., A stabilized finite element analysis for a power-law pseudoplastic Stokes problem. Applicable Analysis: An International Journal. v 95(2), p. 467-482, 2015.](https://www.tandfonline.com/doi/abs/10.1080/00036811.2015.1009900?journalCode=gapa20)
 
 1. [Bortoloti, A. A. de A., Karam-Filho, J., A stabilized finite element method to pseudoplasticflow governed by the Sisko relation, Computational & Applied Mathematics. v 31(1), p. 19 - 35 (2012).](https://www.scielo.br/j/cam/a/vkL8fspCCqgp9wDRmBzQwdg/?format=pdf&lang=en)
-
+{: reversed="reversed"}
