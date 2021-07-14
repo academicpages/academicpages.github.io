@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiwei(Joshua) Yuan / PHD Student at University of Utah"
+title                    : "Qiwei(Joshua) Yuan / PHD Student"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
