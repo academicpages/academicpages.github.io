@@ -95,9 +95,10 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 
 + <b style="color:blue">[TCAD-2021] </b> 
 **Yuke Wang**, Boyuan Feng, Gushu Li, Lei Deng, Yuan Xie, Yufei Ding. <br/>
-***STPAcc: A Compiler-based Framework for Accelerating Distance Algorithms on CPU-FPGA Platforms.***
+***STPAcc: A Compiler-based Framework for Accelerating Distance Algorithms on CPU-FPGA Platforms.***<br/>
 *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
 <br/>
+[<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/1XGXD-f2n7X_3C5Gc5VhFy5jG2JT76yYQ/view?usp=sharing)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L78-L83)
 
 + <b style="color:blue">[TCAD-2021] </b> 
