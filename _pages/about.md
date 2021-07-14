@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guojun Wu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +12,5 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Publications
 ======
-Rating Fact under Coarse-to-fine Regimes
-Guojun Wu,	(arXiv:2107.06051)[pdf](https://arxiv.org/abs/2107.06051).
+Guojun Wu, [Rating Fact under Coarse-to-fine Regimes](https://arxiv.org/abs/2107.06051), arXiv:2107.06051, July 2021.
 
