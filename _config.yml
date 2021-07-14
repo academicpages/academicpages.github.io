@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiwei(Joshua) Yuan"
+title                    : "Qiwei(Joshua) Yuan / University of Utah"
 title_separator          : "-"
 name                     : &name "Qiwei(Joshua) Yuan"
-description              : &description "personal description"
+description              : &description "PHD Student on ML"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
