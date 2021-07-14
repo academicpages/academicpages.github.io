@@ -11,9 +11,9 @@ title                    : "Qiwei(Joshua) Yuan / University of Utah"
 title_separator          : "-"
 name                     : &name "Qiwei(Joshua) Yuan"
 description              : &description "PHD Student on ML"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JoshuaYY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "JoshuaYY/JoshuaYY.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
