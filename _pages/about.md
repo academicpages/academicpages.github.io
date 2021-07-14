@@ -43,7 +43,7 @@ redirect_from:
  
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo* </b>, Tao Song*, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
- <i>Submitted to </i><b>Medical Image Analysis</b>(Major Revision).<br>
+ <i>Submitted to </i><b>Medical Image Analysis</b> (Major Revision).<br>
   [[paper](https://arxiv.org/abs/2104.05215)][[code](https://github.com/HiLab-git/SCPM-Net)]
   
 * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
