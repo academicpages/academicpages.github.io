@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Fenil Doshi"
   avatar           : "fenil.png"
-  bio              : "Research Fellow & Incoming Ph.D. student At Harvard Dept. of Psychology"
-  location         : "Cambridge, MA"
+  bio              : "Incoming Ph.D. student At Harvard Dept. of Psychology"
+  location         : 
   employer         : "Harvard University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
