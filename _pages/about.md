@@ -26,15 +26,24 @@ redirect_from:
 * Oct. 07, 2020. We released a code base and some examples (both 2D and 3D) for semi-supervised medical image segmentation research, the repo at [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), any advices and suggestions are welcomed.
 
 # Publications (* means equal contribution)
-
+* <b>Few-Shot Domain Adaptation with Polymorphic Transformers</b> <br> 
+   Shaohua Li, Xiuchao Sui, Huazhu Fu, <b>Xiangde Luo</b>, Xinxing Xu, Yong Liu, Daniel Tin, Rick Siow Mong Goh<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (accepted)</b>.<br>
+ [[paper](https://arxiv.org/pdf/2107.04805.pdf)][[code](https://github.com/askerlee/segtran)]
+ 
+* <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
+  <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted)</b>.<br>
+ [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
+ 
 * <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> <br> 
- Shaohua Li, Xiuchao Sui, <b>Xiangde Luo</b>, Xinxing Xu Yong Liu Rick Siow Mong Goh<br>
+ Shaohua Li, Xiuchao Sui, <b>Xiangde Luo</b>, Xinxing Xu, Yong Liu, Rick Siow Mong Goh<br>
   <i>The Thirty International Joint Conference on Artificial Intelligence</i>. <b>IJCAI2021  (CCF A)</b>.<br>
  [[paper](https://arxiv.org/pdf/2105.09511.pdf)][[code](https://github.com/askerlee/segtran)]
  
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo* </b>, Tao Song*, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
- <i>Submitted to </i><b>Medical Image Analysis</b>.<br>
+ <i>Submitted to </i><b>Medical Image Analysis</b>(Major Revision).<br>
   [[paper](https://arxiv.org/abs/2104.05215)][[code](https://github.com/HiLab-git/SCPM-Net)]
   
 * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
@@ -46,11 +55,6 @@ redirect_from:
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
   <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021  (CCF A)</b>.<br>
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
- 
-* <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
-  <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
-  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted)</b>.<br>
- [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
  
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
   Xu Chen*, <b>Xiangde Luo*</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
