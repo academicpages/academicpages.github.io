@@ -3,14 +3,24 @@ title: "Publications (* means equal contribution)"
 permalink: /publications/
 author_profile: true
 ---
+* <b>Few-Shot Domain Adaptation with Polymorphic Transformers</b> <br> 
+   Shaohua Li, Xiuchao Sui, Huazhu Fu, <b>Xiangde Luo</b>, Xinxing Xu, Yong Liu, Daniel Tin, Rick Siow Mong Goh<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (accepted)</b>.<br>
+ [[paper](https://arxiv.org/pdf/2107.04805.pdf)][[code](https://github.com/askerlee/segtran)]
+ 
+* <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
+  <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted)</b>.<br>
+ [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
+ 
 * <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> <br> 
- Shaohua Li, Xiuchao Sui, <b>Xiangde Luo</b>, Xinxing Xu Yong Liu Rick Siow Mong Goh<br>
+ Shaohua Li, Xiuchao Sui, <b>Xiangde Luo</b>, Xinxing Xu, Yong Liu, Rick Siow Mong Goh<br>
   <i>The Thirty International Joint Conference on Artificial Intelligence</i>. <b>IJCAI2021  (CCF A)</b>.<br>
  [[paper](https://arxiv.org/pdf/2105.09511.pdf)][[code](https://github.com/askerlee/segtran)]
  
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo* </b>, Tao Song*, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
- <i>Submitted to </i><b>Medical Image Analysis</b>.<br>
+ <i>Submitted to </i><b>Medical Image Analysis</b> (Major Revision).<br>
   [[paper](https://arxiv.org/abs/2104.05215)][[code](https://github.com/HiLab-git/SCPM-Net)]
   
 * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
@@ -23,11 +33,6 @@ author_profile: true
   <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021  (CCF A)</b>.<br>
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
-* <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
-  <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
-  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted)</b>.<br>
- [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
- 
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
   Xu Chen*, <b>Xiangde Luo*</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
   A short version of this paper was accepted by <b>ISBI2021</b>.<br>
@@ -39,5 +44,5 @@ author_profile: true
  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_53)][[code](https://github.com/HiLab-git/SCPM-Net)]
  
  * <b>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation</b> <br> 
-  Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
+ Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
  [[paper](https://arxiv.org/pdf/2102.04306.pdf)][[code](https://github.com/Beckschen/TransUNet)]
