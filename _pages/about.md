@@ -23,14 +23,15 @@ redirect_from:
 
 > "What I understand is that life is a journey. Every turn in the path leads to a new scenery. My footprints exist on that path, and as to whether they are deep or shallow, it doesn’t matter. All the decisions were mine to make." - **Er Gen**
 
-Hello, my name is Varad. I will be joining Tata Research & Innovation Labs in September 2020. My breadth search over the past four years, resulted in me developing interests in domains at the intersection of mathematics, deep learning, and algorithm optimization. This brought me to work in the domain of Meta Learning.
 
-I completed by Bachelors in Electronics & Communication Engineering from [Indian Institute of Information Technology, Nagpur](https://iiitn.ac.in/) (IIITN). I worked in the domain of Algorithmic Game Theory (COMSOC, precisely) under the guidance of [Dr. Neeldhara Misra](http://people.iitgn.ac.in/~neeldhara/) at [IIT Gandhinagar](https://iitgn.ac.in/). I was also fortunate to research at [HLP Lab](https://healthlanguageprocessing.org/), University of Pennsylvania supervised by [Dr. Graciela Gonzalez-Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd) in a field at an intersection of NLP, Data mining, and AI for Healthcare. Finally, I was hosted by [Dr. Rekha Singhal](https://www.linkedin.com/in/rekha-singhal-7122635/) at [Tata R&I Computing Systems Lab](https://www.tcs.com/designing-high-performing-enterprise-systems) where I researched in the domain of meta learning and algorithm optimization.
+**Portfolio Page:**\
+**Blogs: (I have also added Disqus, so feel free to let me know your thoughts on it.)**
 
-> Research Interest:\
-> [Meta Learning](#Buttons){: .btn--research} \| [NLP](#Buttons){: .btn--research} \| [Algorithmic Game Theory](#Buttons){: .btn--research} \| [AI for Healthcare](#Buttons){: .btn--research}\
-> Portfolio Page:\
-> Blogs: (I have also added Disqus, so feel free to let me know your thoughts on it.)
+Hello, my name is Varad. I will be joining Tata Research & Innovation Labs in September 2021. My breadth search over the past four years, resulted in me developing interests in domains at the intersection of mathematics, deep learning, and algorithm optimization. This brought me to work in the domain of Meta Learning.
+
+I completed my Bachelors in Electronics & Communication Engineering from [Indian Institute of Information Technology, Nagpur](https://iiitn.ac.in/) (IIITN). I worked in the domain of Algorithmic Game Theory (COMSOC, precisely) under the guidance of [Dr. Neeldhara Misra](http://people.iitgn.ac.in/~neeldhara/) at [IIT Gandhinagar](https://iitgn.ac.in/). I was also fortunate to research at [HLP Lab](https://healthlanguageprocessing.org/), University of Pennsylvania supervised by [Dr. Graciela Gonzalez-Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd) in a field at an intersection of NLP, Data mining, and AI for Healthcare. Finally, I was hosted by [Dr. Rekha Singhal](https://www.linkedin.com/in/rekha-singhal-7122635/) at [Tata R&I Computing Systems Lab](https://www.tcs.com/designing-high-performing-enterprise-systems) where I researched in the domain of meta learning and algorithm optimization.
+
+[Meta Learning](#Buttons){: .btn--research} / [NLP](#Buttons){: .btn--research} / [Algorithmic Game Theory](#Buttons){: .btn--research} / [AI for Healthcare](#Buttons){: .btn--research}
 
 
 NEWS
@@ -41,7 +42,7 @@ NEWS
 Personal
 =====
 
-I was born in a serene city called Nagpur, India. I grew up listening to Itihasas (historical texts), and Puranas (Folklore). This made me to be self aware and conscious of my existence from a young age. And so, I like talking to people and visiting different places to discover my role in the greater plan of nature. Thus, it has always been my dream to travel a lot, and observe different traditions, people, and their way of living. Along, with that, I also developed interest in trekking. 
+I was born in a serene city called Nagpur, India. I grew up listening to Itihasas (historical texts), and Puranas (Folklore). This made me to be self aware and conscious of my existence from a young age. And so, I like talking to people and visiting different places to discover my role in the greater plan of nature. Thus, it has always been my dream to travel a lot, and observe different traditions, people, and their way of living. Along with that, I also developed interest in trekking. 
 
 Shoot me a message anytime if you want to talk with me regarding anything! I would love to have a talk with you over a cup of coffee 😊
 
@@ -56,7 +57,7 @@ Timeline
 2. I will be working with [Dr. Graciela Gonzalez-Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd) and Dr. Arjun Magge on my undergraduate thesis. I will be working on **Geolocating the home addresses of Twitter Users.** A fun and exciting project, can't wait to work on it!
 3. I am excited to announce that our journal paper **"Digital Image Noise Estimation using DWT Coefficients"** has been published in IEEE Transactions on Image Processing, a top tier journal in Image Processing.\
 DOI: [10.1109/TIP.2021.3049961](10.1109/TIP.2021.3049961) &emsp; &emsp; Impact Factor: **9.340**
-4. I will be a part of the reviewing committee for the SMM4H Workshop under the banner of NAACL-HLT 2021. This is my first time doing it, thus I am planning to review with extra care :)
+4. I will be a part of the reviewing committee for the SMM4H Workshop under the banner of NAACL-HLT 2021. This is my first time doing it, I am nervous & excited. Hands crossed :)
 5. I participated in 3 shared tasks at [SMM4H Workshop](https://healthlanguageprocessing.org/smm4h-2021/), and it was fun! We were ranked in top performing teams in 2 out of the 3 shared tasks. We published our findings at the SMM4H Workshop under the banner of NAACL-HLT Conference.\
 Materials: [DOI](10.18653/v1/2021.smm4h-1.24) \| [Colab Notebooks](https://drive.google.com/drive/folders/1JYNVTmdkivR7OdGkqvzkT1wmYnancTfw?usp=sharing) \| [Poster](https://drive.google.com/file/d/1S3-mi2m-mB4BSKvTyX7sWB-8_rglNtCv/view?usp=sharing) \| [Slides](https://docs.google.com/presentation/d/1kBW1srQ0mVCIQwXtzNuUyPXZCAuPgXvqRNZvc8Ohm8k/edit?usp=sharing) 
 

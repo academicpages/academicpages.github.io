@@ -9,51 +9,81 @@ redirect_from:
 
 {% include base_path %}
 
+Check the **pdf** version of my CV [here](#Buttons){: .btn--research}.
+
+Research Interests
+======
+[Meta Learning](#Buttons){: .btn--research} / [NLP](#Buttons){: .btn--research} / [Algorithmic Game Theory](#Buttons){: .btn--research} / [AI for Healthcare](#Buttons){: .btn--research}\
+The list is by means not exhaustive, as I am always open to dabble into new areas 🚀. 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **B.Tech., Electronics and Communication Engineering, IIITN**
+  * **GPA**: 8.7/10 (Rank: 5)
+  * **Duration**: July'17 - May'21 (4 Years)
+  * ***B.Tech.***: Bachelors of Technology
+  * ***IIITN***: Indian Institute of Information Technology, Nagpur.
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Machine Learning Researcher**
+  * **Computing Systems Lab, Tata Research & Innovation Labs.**
+  * **Duties**: Proposing & Implementing Deep Learning Algorithms, Accelerating DL Pipelines.
+  * **Guide**: [Dr. Rekha Singhal](https://www.linkedin.com/in/rekha-singhal-7122635/), Principle Scientist & Head of Lab
+  * **Joined**: September'21
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Computing Systems Lab**, Tata Research & Innovation Labs, Mumbai
+  * **Topic**: Accelerating Gradient Based Meta Learners
+  * **Guide**: [Dr. Rekha Singhal](https://www.linkedin.com/in/rekha-singhal-7122635/), Principle Scientist & Head of Lab
+  * **Duration**: 6 months (May'20 - Nov'20)
+  1. Optimized system and model performance of a RNN based meta learner, thus achieving a speed up of 4x on training.
+  2. Contributed to an open-source meta learnning library to generalize performance optimization achieved on MAML, ANIL, etc. Additionally, incorporated Data Parallel & Distributed settings.
+* **Health Language Processing Lab**, University of Pennsylvania
+  * **Topic**: Multi-task learning on multi-corpus health dataset
+  * **Guide**: [Dr. Graciela Gonzalez-Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd), Associate Professor
+  * **Duration**: 2 months (Jul'20 - Sept'20)
+  1. Implemented and improved on existing algorithms in literature to achieve SOTA performance for extraction of health-related information (eg., age, gender, location, symptoms, etc.) using Multi-task learning from multi-corpus twitter health dataset.
+  2. Participated in WNUT'20 shared task, where our system ranked 13<sup>th</sup> all over the world. The task was to classify COVID-19 tweets as informative or not information. [DOI](10.18653/v1/2020.wnut-1.52)
+* **Game Theory Lab**, Indian Insitute of Technology, Gandhinagar
+  * **Topic**: Multiwinner voting with Admissible Sets
+  * **Guide**: [Dr. Neeldhara Misra](http://people.iitgn.ac.in/~neeldhara/), Assistant Professor
+  * **Duration**: 5 months (Nov'18 - Jan'19, May'19 - July'19)
+  1. Contributed a lemma to reduce the NP-Hard problem of winner determination for connected property of candidate graph for NSAV/NAV scoring functions to polynomial time solvable for a fixed size of voters. [[Lemma](https://drive.google.com/file/d/16eH69qaIV4zR65R6IfFjx--N96TYwTv3/view)]
+  2. Performed extensive research in the fields of Fair Division, Voting and studied to hardness of various problems. [Research Notes: [Voting](https://drive.google.com/file/d/1Qr2OcZ7F8uCm-nffBjGOnfHINwYLV8vc/view), [Fair Division](https://drive.google.com/file/d/1wBqIfga0_gr7ruNWzPfPrd44Lnfqx7uk/view)]
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Undergraduate Thesis
+=====
+* **Topic**: Geolocation Extraction of Twitter users
+* **Guide**: [Dr. Graciela Gonzalez-Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd), [Dr. Arjun Magge](https://www.linkedin.com/in/arjunmagge/)
+* **Overview**: Non-availability of well annotated and balanced datasets is considered as one of the major hurdles in analysing and extracting meaningful information from health-related tweets. In the past few years, the importance of geolocation systems have increased in health care applications, advertisments, natural disaster management, etc. Herein, we present a system which makes use of the location metadata such as geo, place and profile tags; and make use of user tweets to predict the structured location of a given Twitter user. Our system is based on the previous systems Carmen and Pigeo, and we overcome some of the drawbacks present in these systems while retaining the advantages of these systems. Furthermore, we make use of FasTText and Transformer models to build a text classifier for classifying between states in a particular country. The dataset for the same is prepared by making use of Tweepy.
+* **Thesis/Paper**: *to be updated soon ...*
+* **Additional Material**: [Code](https://drive.google.com/drive/folders/1urA52CZ0nkzL9BMR7Up4lL2PiK4-c2N-?usp=sharing) / [Poster](https://drive.google.com/file/d/1x43CSxwQ_346ZCfERJG9Nr03oXrKzH7T/view?usp=sharing) / [Presentation](https://docs.google.com/presentation/d/18yVm710sifS3o9gcFnJRFqjr_2wvq2urd_nsVaToRq8/edit?usp=sharing)
+
+
+Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Teaching Assistanship
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Conferences & Summer Schools
+======
+
+
+Achievements and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Technical Skills
+======
