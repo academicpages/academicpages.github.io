@@ -77,13 +77,27 @@ Teaching Assistanship
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conferences & Summer Schools
+Conferences & Summer Schools Attented
 ======
 
 
 Achievements and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Bagged best research intern diary award at Summer Research Internship Program, IIT Gandhinagar.
+* Received honorable mention for the project "Paraclate" in NASA Space Settlement Contest, USA.
+* My team was in top 3 performing teams for 2 of the 3 shared tasks at SMM4H'21 Workshop.
+* I was a student placement coordinator at my institute for 1.5 years. I mainly dealt with establishing network with companies, and maintaining database of upcoming internships/campus drives.
+* Activities at Undergraduate Institute:
+  * I was a conveyor at the IIITN's coding club community *dotSlash (./)*.
+  * I was the co-head of the Line Follower event in IIITN's technical fest (*Tantrafiesta*).
+  * I was the head for Samarth event in IIITN's cultural fest (*Abhivyakti*). Samarth is a theme event of Abhivyakti that seeks to spread awareness about the physically challenged children in India.
 
 Technical Skills
 ======
+1. **Programming Languages**&emsp;&emsp;: C \| Python \| HDL 
+2. **Frameworks**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: Flair \| KTrain \| learn2learn \| HuggingFace
+3. **Libraries**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: Keras \| Tensorflow 2.0 \| PyTorch
+4. **Systems/Platforms**&emsp;&emsp;&emsp;&emsp;&emsp;: Git \| Bash \| Linux \| CentOS
+5. **Markup Templating**&emsp;&emsp;&emsp;&emsp;: HTML \| CSS \| Jekyll
+6. **Data Visualization**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: Seaborn \| Matplotlib
+7. **Miscellaneous Softwares/Tools**: Latex \| MATLAB \| RPi \| CADFEKO
