@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "sunrise"
 # Site Settings
 locale                   : "en-US"
 title                    : "Qiwei(Joshua) Yuan / University of Utah"
