@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+After the National College Entrance Examination (a.k.a, Gaokao), I chose an unique destination (i.e., Taipei) for further education. At present, I am a final-year undergradute in National Taiwan University of Science and Technology (NTUST), majored in Electrical and Computer Engineering. Academicly, I am good at mathematics (i.e., mostly A+), while poor at electronic (i.e., avergely C). On reflection, I find the general truth of my study---the work won't be hard if I am interested in it (i.e., there is a will, there is a way), while I will not work hard if I am not interested (i.e., hard to keep motivated if not out of interest). Right now, I am intereted in doing research like a scientist, and ready to get my hand dirty as an engineer.
 
 Publications
 ======
 Guojun Wu, [Rating Fact under Coarse-to-fine Regimes](https://arxiv.org/abs/2107.06051), arXiv:2107.06051, July 2021.
+
+My struggle
+======
+
 
