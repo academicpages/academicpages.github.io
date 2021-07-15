@@ -36,7 +36,7 @@ Updates
 		<br/>
 	</li>
 		
-
+</ul>
 
 
 Publications
