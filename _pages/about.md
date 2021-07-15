@@ -14,6 +14,28 @@ I specifically focus on designing and building innovative and secure mobile sens
 
 
 
+Updates
+=======
+<ul>
+	<li> <b>[July 2021]</b> Our paper on new metrics to evaluate performance and fairness in personalized federated learning is accepted to FL-ICML 2021!
+		<br/>
+	</li>
+	<li> <b>[June 2021]</b> Received Bilsland Dissertation Fellowship Award 2021-2022!
+		<br/>
+	</li>
+	<li> <b>[May 2021]</b> Preprint of our work on unifying distillation with personalized federated learning is available!
+		<br/>
+	</li>
+	<li> <b>[Mar 2021]</b> Our paper about side-channel attacks on stylus pencils is accepted to IMWUT-UbiComp 2021!
+		<br/>
+	</li>
+	<li> <b>[July 2020]</b> Our work on context addressing for camera-to-human communication to appear in InfoCom 2020!
+		<br/>
+	</li>
+	<li> <b>[June 2020]</b> Started internship at Amazon Robotics as Applied Scientist with the Machine Learning Team!
+		<br/>
+	</li>
+		
 
 
 
@@ -96,7 +118,7 @@ Patents
 	</li>
 </ul>
 
-
+	
 Teaching
 ========
 <ul>
