@@ -10,8 +10,11 @@ location: "United States"
 ---
 <br>
 
-<b><big> Graduate Division Graduate InterConnect (GIC) Program Peer Mentor, UCI </big></b><br> <b> Spring 2021 – Present </b>
-* Provide guidance to first-year international graduate students in acclimate to UCI
+<b><big> Cascading Mentorship Program Group Leader, UCI </big></b><br> <b> Summer 2021 – Present </b>
+* Provide research mentorship to 6 Ph.D. students, including making individual development plans, writing academic papers, applying for funding, giving conference presentations, etc.
+
+<b><big> Graduate Division Graduate InterConnect (GIC) Program Peer Mentor, UCI </big></b><br> <b> Summer 2021 – Present </b>
+* Provide guidance to 19 first-year international graduate students in acclimate to UCI
 
 <br>
 
