@@ -20,13 +20,13 @@ Experience and Education
 ======
 
 ### [Experience](experiences/)  
-* **Jul. 2021 -- Present.** Algorithm Expert, Alimama Tech @ [Alibaba Group](https://www.alibabagroup.com/en/global/home).   
+* **Jul. 2021 -- Present.** Algorithm Expert, Alimama Tech @ Alibaba Group.   
 Working on data-driven algorithms to improve the performance of online advertising.  
 
 ### Education  
-* **Sep. 2016 -- Jun. 2021.** Ph.D., Pattern Recognition and Intelligent System @ [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/).
-* **Sep. 2012 -- Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering) @ [Wuhan University (WHU)](https://en.whu.edu.cn/). Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
-* **Sep. 2009 -- Jul. 2012.** [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School).  
+* **Sep. 2016 -- Jun. 2021.** Ph.D., Pattern Recognition and Intelligent System @ Institute of Automation, Chinese Academy of Sciences (CASIA).
+* **Sep. 2012 -- Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering) @ Wuhan University (WHU). Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
+* **Sep. 2009 -- Jul. 2012.** Tianjin Nankai High School.  
 
 Publications
 ======
