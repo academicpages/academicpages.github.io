@@ -16,4 +16,4 @@ Guojun Wu, [Rating Facts under Coarse-to-fine Regimes](https://arxiv.org/abs/210
 
 My struggle
 ======
-I have prevented myself from the trap about studying only for high grades and beating my peer. Though it keeps me me away from the stereotype of a good student, I do enjoy the freedom to study the subjects I am curious about, which provides consistent motivation for my works.
+I have prevented myself from the trap of studying only for high grades and beating my peer. Though it keeps me away from the stereotype of a good student, I do enjoy the freedom to explore the subjects I am curious about, which provides consistent motivation for my works.
