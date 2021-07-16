@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Scott Olesen"
 title_separator          : "-"
 name                     : &name "Scott Olesen"
-description              : &description "Computational Epidemiology"
+description              : &description "Computational Epidemiologist"
 url                      : "https://scottolesen.com" #"http://127.0.0.1:4000" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swo/swo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Scott Olesen"
   avatar           : "face.png"
-  bio              : "Science/epidemiology consultant"
+  bio              : "Computational Epidemiologist"
   location         : "Washington, DC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=scott+w+olesen"
