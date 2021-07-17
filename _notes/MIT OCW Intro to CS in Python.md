@@ -1,6 +1,6 @@
 ---
 title: "MIT OCW: Introduction to Computer Science and Programming in Python"
-excerpt: "Intro to computer science and programming in python from MIT Opencoursware"
+excerpt: "Introduction to Computer Science and Programming in Python from MIT Opencourseware"
 collection: notes
 date: 2021-07-17
 permalink: /notes/MIT-OCW-CS-in-Python/
@@ -11,7 +11,7 @@ tags:
   - Python
 ---
 
-# MIT OpenCourseWare: Introduction to Computer Science and Programming in Python
+# MIT Opencourseware: Introduction to Computer Science and Programming in Python
 
 [Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
