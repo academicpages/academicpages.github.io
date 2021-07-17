@@ -13,7 +13,7 @@ tags:
 
 [Link to course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
-### Goal 
+## Goal 
 Review computer science foundations and python fundamentals as I already took Software 1 and 2 using Java at Ohio State.  I anticipate being able to pick up on some nuances now that I'm not learning it for the first time and have professional programming experience.
 
 ## Lesson 1 - What is Computation
@@ -26,7 +26,7 @@ Recipes have steps, flow of control, termination criteria, etc. and therefore ar
 
 ### Basic Machine Architecture:
 - Memory: data & sequence of instructions
-- Control unit: flow / interpreter (?)
+- Control unit: flow / interpreter
 - Arithmetic logic unit: does primitive instructions
 - Input / output
 
