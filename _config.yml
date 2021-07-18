@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alberto Maria Chierici"
+title                    : "Alberto M. Chierici"
 title_separator          : "-"
 name                     : &name "Alberto"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "A. M. Chierici"
   avatar           : "albert-profile.png"
-  bio              : "Author 'Ethics For Robots (Or Their Creators?)' (publishing in Aug '21), entrepreneur, data scientist, and product manager. Currently Data Scientist at Tesla and Ph.D. student at NYU."
+  bio              : "Author _The Ethics of AI: Facts, Fictions and Forecasts_, entrepreneur, data scientist, and product manager. Currently Sr revolutionary actuary data scientist at Tesla and Ph.D. candidate at NYU."
   location         : "Abu Dhabi, UAE"
-  employer         : "Tesla Motors, Inc. | New York University"
+  employer         : "Tesla | NYU"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TdKRou8AAAAJ"
   email            :  "alberto.chierici@nyu.edu"
