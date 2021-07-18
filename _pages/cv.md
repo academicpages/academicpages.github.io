@@ -70,6 +70,17 @@ Undergraduate Thesis
 
 Projects
 ======
+* Tree MAML & Hierarchical MT-NET *(ongoing work)*
+  * **Guide**: [Sébastien Arnold](http://seba1511.net/), [Dr. Tausif Diwan](https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGeiGkjpVFEkAAAAXq5_ZKo3NUTAk-LH7_xIewqBBIL8zZ6PYc1DSOSgcIumeCDu8Oy9t9ZCt84QJUIJCbFfOSsc8mzuS-hkA90IUlRHlfYfgaQWsdNFzI9QIduLBLVKEEjIC4=&originalReferer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Ftausif-diwan-90584437)
+  * **Motivation**: Build efficient algorithms that surpass SOTA performance on existing CV benchmark datasets.
+  * *(to be updated soon)* 
+* Metabolts: A library for high-end research in Meta Learning
+  * **Guide**: [Sébastien Arnold](http://seba1511.net/)
+  * Metabolts is a software library for meta-learning research. It builds on top of PyTorch Lightning to accelerate two aspects of meta-learning research cycle: fast-prototyping and correct reproducibility. We benchmarked results on MAML, ANIL, ProtoNets and MetaOPTs.
+  * **Code Link**: [Github Link](https://github.com/learnables/learn2learn/tree/master/learn2learn/algorithms/lightning)
+* WNUT 2020 Shared Task 2 : Classification of COVID Tweets
+  * **Guide**: [Dr. Graciela Gonzalez-Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd), [Dr. Arjun Magge](https://www.linkedin.com/in/arjunmagge/)
+  * Proposed and designed a model based on BERT Transformer which included prior annotation and preprocessing of dataset to get a F1-score of 0.966. Made use of Flair framework for additional performance gain. Our model ranked $13^{th}$ accuracy-wise in the shared task which saw hundreds of participating models. 
   
 Teaching Assistanship
 ======
@@ -79,7 +90,14 @@ Teaching Assistanship
   
 Conferences & Summer Schools Attented
 ======
-
+* 38<sup>th</sup> IARCS Annual Conference on FSTTCS'18 
+  * 10<sup>th</sup> December 2018 - 14<sup>th</sup> December 2018 
+* ACM-W Summer School on Algorithmic Game Theory
+  * 4<sup>th</sup> July 2019 - 14<sup>th</sup> July 2019
+* CSA Summer School, IISC
+  * 15<sup>th</sup> July 2019 - 20<sup>th</sup> July 2019
+* Annual Conference of the NAACL'21 (NAACL-HLT)
+  * 6<sup>th</sup> June 2021 - 11<sup>th</sup> June 2021
 
 Achievements and leadership
 ======
@@ -94,10 +112,10 @@ Achievements and leadership
 
 Technical Skills
 ======
-1. **Programming Languages**&emsp;&emsp;: C \| Python \| HDL 
-2. **Frameworks**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: Flair \| KTrain \| learn2learn \| HuggingFace
-3. **Libraries**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: Keras \| Tensorflow 2.0 \| PyTorch
-4. **Systems/Platforms**&emsp;&emsp;&emsp;&emsp;&emsp;: Git \| Bash \| Linux \| CentOS
-5. **Markup Templating**&emsp;&emsp;&emsp;&emsp;: HTML \| CSS \| Jekyll
-6. **Data Visualization**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: Seaborn \| Matplotlib
-7. **Miscellaneous Softwares/Tools**: Latex \| MATLAB \| RPi \| CADFEKO
+1. **Programming Languages**&emsp;&emsp;&emsp; C \| Python \| HDL 
+2. **Frameworks**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Flair \| KTrain \| learn2learn \| HuggingFace
+3. **Libraries**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Keras \| Tensorflow 2.0 \| PyTorch
+4. **Systems/Platforms**&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Git \| Bash \| Linux \| CentOS
+5. **Markup Templating**&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; HTML \| CSS \| Jekyll
+6. **Data Visualization**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Seaborn \| Matplotlib
+7. **Miscellaneous Softwares/Tools** Latex \| MATLAB \| RPi \| CADFEKO
