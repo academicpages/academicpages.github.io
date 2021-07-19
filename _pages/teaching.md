@@ -15,15 +15,18 @@ redirect_from:
 <tbody>
 <tr>
 <td width="20%">Fall 2021</td>
-<td width="80%">Statistical Inference and Computation </td> 
+<td width="70%">Statistical Inference and Computation </td> 
+<td width="10%">Github link </td> 
 </tr>
 <tr>
 <td width="20%">Winter 2021</td>
-<td width="80%">Regression, Part 2</td> 
+<td width="70%">Regression, Part 2</td> 
+<td width="10%">Github link </td> 
 </tr>
 <tr>  
 <td width="20%">Fall 2019</td>
-<td width="80%"> Programming for Data Manipulation </td>
+<td width="70%"> Programming for Data Manipulation </td>
+<td width="10%">Github link </td> 
 </tr>
 </tbody>
 </table>
