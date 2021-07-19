@@ -21,8 +21,7 @@ share: true
 This initiative started as part of the NSF founded project [**DEB-2017843**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017843&HistoricalAwards=false) entitled **Integrating biodiversity observations with airborne and satellite data to predict shifts in assemblage diversity and composition under global change**. The overarching objective is to harness remote sensing information at local and continental scales to predict biodiversity in the conterminous United States. In other words, with this project we aim to develop a flexible framework for the integration of biodiversity measures derived from NEON sampling sites with remote sensing metrics as means to predict and monitor biodiversity at different spatial and temporal scales.
 
 The broader impacts of this **NSF project** include several components:
-* the project will provide scientific and professional development of an early-stage scientist from an underrepresented group; 
-* the project will contribute to the training the next generation of STEM researchers to investigate biodiversity in the Anthropocene; 
+* the project will contribute to the training the next generation of STEM researchers to investigate biodiversity in the Anthropocene, 
 * the project scientists will engage the public in biodiversity education through the integration of project results into an undergraduate and graduate course in Biodiversity Science at the University of Minnesota, and, 
 * the project will contribute to advancing international efforts to assess and monitor biodiversity globally.
 
