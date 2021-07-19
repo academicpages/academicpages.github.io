@@ -23,6 +23,6 @@ College of Biological Sciences, University of Minnesota
 Ecology Building, 1987 Upper Buford Cir, Falcon Heights, MN 55108  
 
 ### E-mails: 
-[jpintole@umn.edu](mailto:jpintole@umn.edu) (preferred)   
-[jesuspintoledezma@gmail.com](mailto:jesuspintoledezma@gmail.com)   
+[jpintole AT umn DOT edu](mailto:jpintole@umn.edu) (preferred)   
+[jesuspintoledezma AT gmail DOT com](mailto:jesuspintoledezma@gmail.com)   
 
