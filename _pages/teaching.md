@@ -31,10 +31,6 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
-<th class="tg-031e"></th>
-<th class="tg-031e"></th>
-</tr>
-<tr>
 <td width="20%">Fall 2015 & 2016</td>
 <td width="80%">Cells, Molecular Biology, and Genetics (x4)</td>
 </tr>
@@ -59,10 +55,6 @@ redirect_from:
 <h3>University of Winnipeg, Department of Biology</h3>
 <table class="tg">
 <tbody>
-<tr>
-<th class="tg-031e"></th>
-<th class="tg-031e"></th>
-</tr>
 <tr>
 <td width="20%">Fall 2013-Winter 2014</td>
 <td width="80%">Human Anatomy & Physiology</td>
