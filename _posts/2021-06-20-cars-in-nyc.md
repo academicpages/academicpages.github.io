@@ -35,7 +35,7 @@ To get a granular view of the data, I visualize car ownership, and other tract-l
 <iframe src="https://car-ownership-nyc.herokuapp.com/nyc_mapping" title="Car ownership in NYC" width="950" height="775" style="border: none;"></iframe>
 
 From the above map, it is evident that the residents of East Bronx, South Brooklyn, Eastern Queens, Most of Staten Island, and Upper East Side
-have an *above-average* share of car ownership, compared to the city or their borough. While some of these neighborhoods are transit deserts, others most certainly are not (hello, Upper East Side!). This leads to the next question:
+have an *above-average* share of car ownership, compared to the city or their borough. While some of these neighborhoods are transit deserts, others most certainly are not (hi, Upper East Side!). This leads to the next question:
 
 What factors explain car ownership?
 ======
@@ -76,7 +76,7 @@ First, some historical context using data going back to 2007, the earliest year 
 
 In New York City, as in the rest of the country, transit use (particularly the subway) [plummeted](https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2020) during the pandemic and [more people](https://www.nytimes.com/2020/08/12/style/car-buying-new-york-coronavirus.html) might have bought cars than usual. At the same time, the pandemic also led to a [bike boom](https://www.outsideonline.com/2420131/pandemic-bike-boom-here-stay) with the number of bike trips hitting all-time highs [week after week](https://gothamist.com/news/bike-boom-shows-no-signs-slowing-citi-bike-sets-new-ridership-records). There has also been a move towards [opening up streets](https://www.bloomberg.com/news/articles/2021-04-29/what-s-next-for-the-open-streets-of-the-pandemic) for people and converting some to [parks](https://www.34avelinearpark.com/). With the pandemic now receding (famous last words), subway ridership is [on the rise](https://new.mta.info/coronavirus/ridership) and the number of bike trips shows no sign of slowing, [including on weekdays](https://nyc.streetsblog.org/2021/06/15/cycling-on-east-river-bridges-still-booming-higher-ridership-than-pre-pandemic-levels/).
 
-Does this mean the increase in cars will be *transitory*? As the quote often attributed to Neils Bohr goes, “predictions are hazardous, especially about the future”. I’m not going to make a prediction but instead will emphasize that the future can be shaped by policy choices.
+Does this mean the increase in cars will be *transitory*? As the quote often attributed to Neils Bohr goes, “predictions are hazardous, especially about the future.” I’m not going to make a prediction but instead will emphasize that the future can be shaped by policy choices.
 
 What does all of this imply?
 ======
