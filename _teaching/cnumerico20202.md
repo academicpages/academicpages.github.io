@@ -16,7 +16,7 @@ Noções básicas sobre erros. Resolução de sistemas lineares. Zeros de funç�
 
 Avaliação
 ======
-Serão consideradas para a avaliação listas de exercícios e provas escritas para cada uma das três unidades. As listas terão peso de 40% e as provas um peso de 50% para o cálculo da média final.
+Serão consideradas para a avaliação listas de exercícios e provas escritas para cada uma das três unidades. As listas terão peso de 40% e as provas um peso de 60% para o cálculo da média final.
 
 Bibliografia
 ======
