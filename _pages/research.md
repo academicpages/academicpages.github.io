@@ -19,7 +19,7 @@ Clinical trials are the gold standard for generating reliable medical evidence. 
  "COVID-19trial finder provides simplified search process for COVID-related clinical trials" ([Eurekalert, 05,2020;](https://eurekalert.org/pub_releases/2020-05/dsia-ctf051520.php?fbclid=IwAR1AYC-_90Mp7JPBMReYdnKg4HpJ_eF4f9KLTnzLRuEaXwEX8OlycIjDXjM) [Medical Press, 05,2020;](https://medicalxpress.com/news/2020-05-covid-trial-finder-covid-related-clinical.html?fbclid=IwAR2yD5IeYeM23tCfn83bjpa0nSPeXxS63S2G3FT2hfVVAwvWugh8K6XtikE) [DBMI, Columbia University,05,2020](https://www.dbmi.columbia.edu/covid-trial-finder/?fbclid=IwAR0LRVEWVvGO5vj_1gvANPS8_1ockZmiJwc_zQPX_pfEE_on8ik7gKDDZdM))   
  
 "A Knowledge Base of Clinical Trial Eligibility Criteria" [DBMI twitter, Columbia University,04,2021](https://twitter.com/ColumbiaDBMI/status/1381619867405721600)
-[DBMI Linkedin, Columbia University,04,2021](https://www.linkedin.com/feed/update/urn:li:activity:6785646207621447680/)
+; [DBMI Linkedin, Columbia University,04,2021](https://www.linkedin.com/feed/update/urn:li:activity:6785646207621447680/)
  
   
 ## Web Text Mining    
