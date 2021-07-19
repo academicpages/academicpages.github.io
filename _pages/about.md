@@ -24,8 +24,8 @@ redirect_from:
 > <q>What I understand is that life is a journey. Every turn in the path leads to a new scenery. My footprints exist on that path, and as to whether they are deep or shallow, it doesn’t matter. All the decisions were mine to make. - **Er Gen**</q>
 
 
-**Portfolio Page:**\
-**Blogs: (I have also added Disqus, so feel free to let me know your thoughts on it.)**
+[About Me](/) \| [CV](/cv) \| [Publications](/publications) \| [Teaching Assistant](/teaching)\
+Increase font size ...
 {: .notice}
 
 Hello, my name is Varad. I will be joining Tata Research & Innovation Labs in September 2021. My breadth search over the past four years, resulted in me developing interests in domains at the intersection of mathematics, deep learning, and algorithm optimization. This brought me to work in the domain of Meta Learning.

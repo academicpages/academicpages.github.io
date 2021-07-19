@@ -93,7 +93,7 @@ Conferences & Summer Schools Attented
 * 38<sup>th</sup> IARCS Annual Conference on FSTTCS'18 
   * 10<sup>th</sup> December 2018 - 14<sup>th</sup> December 2018 
 * ACM-W Summer School on Algorithmic Game Theory
-  * 4<sup>th</sup> July 2019 - 14<sup>th</sup> July 2019
+  * 2<sup>th</sup> July 2019 - 14<sup>th</sup> July 2019
 * CSA Summer School, IISC
   * 15<sup>th</sup> July 2019 - 20<sup>th</sup> July 2019
 * Annual Conference of the NAACL'21 (NAACL-HLT)
