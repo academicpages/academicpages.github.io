@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am second-year PHD working on machine learning. Research interest includes converging speed-up of DNN, combinatorial problem solving with Reinforcement learning and general Machine Learning application. Current works are about topopligical scheduling of memory, material and thickness selection during chip architecture design.
+I am second-year PHD working on Machine Learning. 
+
+Research interest includes Converging Speed-up of DNN, Combinatorial Problem Solving with Reinforcement Learning and General Machine Learning Application. 
+Current works are about Topopligical Scheduling of Systm Memory, Material&Thickness Selection during Chip Architecture Design.
 
 A data-driven personal website
 ======
