@@ -22,7 +22,20 @@ Design new regularization method called ‘Dreg’ which can boost the speed(nea
 traditional deep learning especially in large batch;
 
 Training various models(ResNet18, MobileNetV2 and VGG16) on different datasets(MNIST, CIFAR10 and CIFAR100) with
-new ‘Dreg’ Method’(Pytorch, CUDA, Vim, Linux-total coding involved over 5000 lines);
+new ‘Dreg’ Method’(Pytorch, CUDA, Vim, Linux-total coding involved over 5000 lines).
+
+Memory Scheduling
+------
+Schedule memory and computation resources for each task based on task priority with Reinforcement Learning Agent-Pointer Network(achieve nearly 80% Recall Accuracy on huge number of task request);
+
+Design datasets to simulate real system request for training and evaluation(Pytorch, CUDA, Vim, Linux-total coding);
+
+Apply new method on model layers sheduling of edgetpu.
+
+Material-Thickness Selection for Chip Configuration
+------
+Select material and thickness for each layer of chip with Reinforcement Learning Agent-Pointer Network Go
+
 
 Getting started
 ======
