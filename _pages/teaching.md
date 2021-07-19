@@ -14,10 +14,6 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
-<th class="tg-031e"></th>
-<th class="tg-031e"></th>
-</tr>
-<tr>
 <td width="20%">Fall 2021</td>
 <td width="80%">Statistical Inference and Computation </td> 
 </tr>
