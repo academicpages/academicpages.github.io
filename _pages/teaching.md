@@ -18,12 +18,16 @@ redirect_from:
 <th class="tg-031e"></th>
 </tr>
 <tr>
+<td width="20%">Fall 2021</td>
+<td width="80%">Statistical Inference and Computation </td> 
+</tr>
+<tr>
 <td width="20%">Winter 2021</td>
 <td width="80%">Regression, Part 2</td> 
 </tr>
 <tr>  
 <td width="20%">Fall 2019</td>
-<td width="80%"> Data Wrangling</td>
+<td width="80%"> Programming for Data Manipulation </td>
 </tr>
 </tbody>
 </table>
