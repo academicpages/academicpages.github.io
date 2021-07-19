@@ -16,17 +16,17 @@ redirect_from:
 <tr>
 <td width="20%">Fall 2021</td>
 <td width="70%">Statistical Inference and Computation </td> 
-<td width="10%">Github link </td> 
+<td width="10%"><a href="https://github.com/UBC-MDS/DSCI_552_stat-inf-1" target="_blank" rel="noopener noreferrer">Github link</a>.</td> </td> 
 </tr>
 <tr>
 <td width="20%">Winter 2021</td>
 <td width="70%">Regression, Part 2</td> 
-<td width="10%">Github link </td> 
+<td width="10%"><a href="https://ubc-mds.github.io/DSCI_562_regr-2/" rel="noopener noreferrer">Github link</a>.</td> </td> 
 </tr>
 <tr>  
 <td width="20%">Fall 2019</td>
 <td width="70%"> Programming for Data Manipulation </td>
-<td width="10%">Github link </td> 
+<td width="10%"><a href="https://github.com/UBC-MDS/DSCI_523_r-prog">Github link</a>.</td> </td> 
 </tr>
 </tbody>
 </table>
