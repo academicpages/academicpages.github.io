@@ -28,19 +28,20 @@ in the Learning-with-Equivalence-Queries Paradigm](https://drive.google.com/file
 <i>In submission
 </i>
 
-2. <b>[The Teaching Dimension of Kernel Perceptrons](http://proceedings.mlr.press/v130/kumar21a.html) </b> <br>
+2. <b>[The Teaching Dimension of Kernel Perceptrons] </b> <br>
 **Akash Kumar**, Hanqi Zhang, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yuxin Chen](https://yuxinchen.org/).<br>
 <i> Accepted in The 24th International Conference on Artificial Intelligence and Statistics (AISTATS'21), 2021
 </i>
+<br> [ArXiv](https://arxiv.org/pdf/2010.14043.pdf), [Proc](http://proceedings.mlr.press/v130/kumar21a.html)<br>
 
-3. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
+3. <b> Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries </b> <br>
 **Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br>
-<i>[On ArXiv](https://arxiv.org/abs/2006.14677)
+<i>[ArXiv](https://arxiv.org/abs/2006.14677)
 </i>
 
-4. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
+4. <b> Deletion to Induced Matching </b> <br>
 **Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br>
-<i>On ArXiv
+<i>[ArXiv](https://arxiv.org/abs/2008.09660)
 </i>
 
 # Some notes
