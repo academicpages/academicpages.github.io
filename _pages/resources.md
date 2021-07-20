@@ -94,7 +94,7 @@ Cloud Computing
 Neuroscience
 ======
 * [Functional Neuroanatomy](http://www.neuroanatomy.ca/) for an introduction to neuroanatomy with virtual brain dissection
-* [The INCF Training Space](https://training.incf.org/tutorials)
+* [The INCF Training Space](https://training.incf.org/tutorials) contains videos of lectures and tutorials of using computational neuroscience tools 
 * [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp) introduces main methodologies in fMRI data analyses by Rebecca Saxe
 * [Neuroscience Gateway (NSG)](https://www.nsgportal.org/overview.html) gives neuroscientists free access to High Performance Computing resources
 * [EBRAINS](https://ebrains.eu/services) gives researchers access to shared and curated open data (including the [Human Brain Project](https://www.humanbrainproject.eu/en/) data)
