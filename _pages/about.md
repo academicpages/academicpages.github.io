@@ -28,18 +28,20 @@ in the Learning-with-Equivalence-Queries Paradigm](https://drive.google.com/file
 <i>In submission
 </i>
 
-2. <b>[The Teaching Dimension of Kernel Perceptrons](https://arxiv.org/abs/2010.14043) </b> <br>
+2. <b>[The Teaching Dimension of Kernel Perceptrons](http://proceedings.mlr.press/v130/kumar21a.html) </b> <br>
 **Akash Kumar**, Hanqi Zhang, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yuxin Chen](https://yuxinchen.org/).<br>
 <i> Accepted in The 24th International Conference on Artificial Intelligence and Statistics (AISTATS'21), 2021
 </i>
 
 3. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
 **Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br>
-<i>In preparation for The 38th International Conference on Machine Learning (ICML'21), 2021
+<i>On ArXiv
 </i>
 
 4. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
 **Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br>
+<i>On ArXiv
+</i>
 
 # Some notes
 <b> [Improved Certified Adversarial Lower Bound Using Adaptive Relaxations](https://drive.google.com/file/d/1lZmiU3NnEhWHOtVuGhURxeFS4DWaYP_n/view?usp=sharing) </b> <br>
