@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am incoming doctoral student in the Computer Science department at the University of California San Diego starting fall 2021. Previously, I was a Research Fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I have the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). Previously, I was a graduate student in the [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science) at [Aalto Univerity (Finland)](https://www.aalto.fi/en) from September 2018 to August 2019. Prior to that, I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) from [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
+I am an incoming doctoral student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) starting fall 2021. Previously, I was a Research Fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I have the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I have also worked as a graduate student in the [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science) at [Aalto Univerity (Finland)](https://www.aalto.fi/en) from September 2018 to August 2019. Prior to that, I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) from [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
 
 I am broadly interested in the theoretical aspects of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization and theory of deep learning. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<br>
@@ -21,10 +21,11 @@ the computational and statistical efficiency of learning methods, and the extent
 * Attended **NeurIPS'20** conference.
 * Participated in **Directions in ML: AutoML and Automating Algorithms** Lecture series starting 28th July, 2020 by Microsoft Research which features talks by outstanding academics and domain experts.
 
-# Recent Research Work
-1. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
-**Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br>
-<i>In preparation for The 38th International Conference on Machine Learning (ICML'21), 2021
+# Publications and Preprints
+1. <b>[Teaching via Best-Case Counterexamples
+in the Learning-with-Equivalence-Queries Paradigm](https://drive.google.com/file/d/1Tr6EFvBkMajWYaZtYItw3P3cnV9BwGM6/view?usp=sharing) </b> <br>
+**Akash Kumar**, [Yuxin Chen](https://yuxinchen.org/), [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).<br>
+<i>In submission
 </i>
 
 2. <b>[The Teaching Dimension of Kernel Perceptrons](https://arxiv.org/abs/2010.14043) </b> <br>
@@ -32,12 +33,13 @@ the computational and statistical efficiency of learning methods, and the extent
 <i> Accepted in The 24th International Conference on Artificial Intelligence and Statistics (AISTATS'21), 2021
 </i>
 
-3. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
-**Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br>
-<i>In submission to The 16th International Computer Science Symposium in Russia (CSR'21), 2021
+3. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
+**Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br>
+<i>In preparation for The 38th International Conference on Machine Learning (ICML'21), 2021
 </i>
 
-
+4. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
+**Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br>
 
 # Some notes
 <b> [Improved Certified Adversarial Lower Bound Using Adaptive Relaxations](https://drive.google.com/file/d/1lZmiU3NnEhWHOtVuGhURxeFS4DWaYP_n/view?usp=sharing) </b> <br>
