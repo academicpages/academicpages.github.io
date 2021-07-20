@@ -57,6 +57,7 @@ Data Visualization
 * [Mastering Shiny](https://mastering-shiny.org/index.html) by Hadley Wickham (Shiny is a popular data app)
 * [From Data to Viz](https://www.data-to-viz.com/) helps match graph types to data types
 * [PySurfer](http://pysurfer.github.io/auto_examples/index.html#pysurfer-example-data) for visualizing human brain
+* [FURY](https://fury.gl/) a Python library for scientific visualization
 * [WagnerLabPapers](https://github.com/WagnerLabPapers/Waskom_CerebCortex_2017/blob/master/computational_model_figure.ipynb) for python codes used to generate fMRI figures in journals
 
 <br> 
@@ -88,6 +89,7 @@ Cloud Computing
 * [AWS EC2](https://general-immersionday.workshop.aws/en/compute/launching.html) cloud-based compute instance and [AWS S3](https://general-immersionday.workshop.aws/en/storage.html) cloud-based object storage tutorials
 * AWS Open Data for Neuroscience: [International Neuroimaging Data-Sharing Initiative (INDI)](https://registry.opendata.aws/fcp-indi/), [OpenNeuro](https://registry.opendata.aws/openneuro/), [Open NeuroData](https://registry.opendata.aws/open-neurodata/), [Allen Brain Observatory](https://registry.opendata.aws/allen-brain-observatory/), [The Human Connectome Project](https://registry.opendata.aws/hcp-openaccess/), [NYU Langone & FAIR FastMRI Dataset](https://registry.opendata.aws/nyu-fastmri/)
 * [Publicly Available Pre-configured Machine Images on Google Cloud](https://cloud.google.com/compute/docs/images#os-compute-support)
+* [brainlife](https://brainlife.io/) a free cloud platform for secure neuroscience data analysis.
 
 <br> 
 
