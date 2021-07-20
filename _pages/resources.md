@@ -98,7 +98,7 @@ Neuroscience
 * [Functional Neuroanatomy](http://www.neuroanatomy.ca/) for an introduction to neuroanatomy with virtual brain dissection
 * [The INCF Training Space](https://training.incf.org/tutorials) contains videos of lectures and tutorials of using computational neuroscience tools 
 * [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp) introduces main methodologies in fMRI data analyses by Rebecca Saxe
-* [DIPY workshop](https://www.youtube.com/watch?v=1aHs21YAMWA&list=PLRZ9VSqV-6soOC0rUEAOV-QiSa_Qxk8JM) training videos given by DIPY developers if you want to get into DTI (diffusion tensor imaging) analysis
+* [DIPY workshop](https://www.youtube.com/watch?v=1aHs21YAMWA&list=PLRZ9VSqV-6soOC0rUEAOV-QiSa_Qxk8JM) training videos given by DIPY developers for DTI (diffusion tensor imaging) analysis
 * [Neuroscience Gateway (NSG)](https://www.nsgportal.org/overview.html) gives neuroscientists free access to High Performance Computing resources
 * [EBRAINS](https://ebrains.eu/services) gives researchers access to shared and curated open data (including the [Human Brain Project](https://www.humanbrainproject.eu/en/) data)
 * [Allen Institute's The Virtual Science Lab](https://alleninstitute.org/about/education-outreach/#Lessons) teaches researchers how to use open data from Allen Institute in class
