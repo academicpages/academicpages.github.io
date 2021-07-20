@@ -30,8 +30,7 @@ in the Learning-with-Equivalence-Queries Paradigm](https://drive.google.com/file
 
 2. <b>[The Teaching Dimension of Kernel Perceptrons] </b> <br>
 **Akash Kumar**, Hanqi Zhang, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yuxin Chen](https://yuxinchen.org/).<br>
-<i> Accepted in The 24th International Conference on Artificial Intelligence and Statistics (AISTATS'21), 2021
-</i>
+<i> Accepted in The 24th International Conference on Artificial Intelligence and Statistics (AISTATS'21), 2021 </i>
 <br> [ArXiv](https://arxiv.org/pdf/2010.14043.pdf), [Proc](http://proceedings.mlr.press/v130/kumar21a.html)<br>
 
 3. <b> Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries </b> <br>
