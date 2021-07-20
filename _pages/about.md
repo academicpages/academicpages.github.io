@@ -35,7 +35,7 @@ in the Learning-with-Equivalence-Queries Paradigm](https://drive.google.com/file
 
 3. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
 **Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br>
-<i>On ArXiv
+<i>[On ArXiv](https://arxiv.org/abs/2006.14677)
 </i>
 
 4. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
