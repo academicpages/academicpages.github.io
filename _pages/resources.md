@@ -85,8 +85,7 @@ Modeling
 
 Cloud Computing
 ======
-* [AWS EC2](https://general-immersionday.workshop.aws/en/compute/launching.html) cloud-based compute instance
-* [AWS S3](https://general-immersionday.workshop.aws/en/storage.html) cloud-based object storage
+* [AWS EC2](https://general-immersionday.workshop.aws/en/compute/launching.html) cloud-based compute instance and [AWS S3](https://general-immersionday.workshop.aws/en/storage.html) cloud-based object storage tutorials
 * AWS Open Data for Neuroscience: [International Neuroimaging Data-Sharing Initiative (INDI)](https://registry.opendata.aws/fcp-indi/), [OpenNeuro](https://registry.opendata.aws/openneuro/), [Open NeuroData](https://registry.opendata.aws/open-neurodata/), [Allen Brain Observatory](https://registry.opendata.aws/allen-brain-observatory/), [The Human Connectome Project](https://registry.opendata.aws/hcp-openaccess/), [NYU Langone & FAIR FastMRI Dataset](https://registry.opendata.aws/nyu-fastmri/)
 * [Publicly Available Pre-configured Machine Images on Google Cloud](https://cloud.google.com/compute/docs/images#os-compute-support)
 
@@ -95,6 +94,7 @@ Cloud Computing
 Neuroscience
 ======
 * [Functional Neuroanatomy](http://www.neuroanatomy.ca/) for an introduction to neuroanatomy with virtual brain dissection
+* [The INCF Training Space](https://training.incf.org/tutorials)
 * [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp) introduces main methodologies in fMRI data analyses by Rebecca Saxe
 * [Neuroscience Gateway (NSG)](https://www.nsgportal.org/overview.html) gives neuroscientists free access to High Performance Computing resources
 * [EBRAINS](https://ebrains.eu/services) gives researchers access to shared and curated open data (including the [Human Brain Project](https://www.humanbrainproject.eu/en/) data)
