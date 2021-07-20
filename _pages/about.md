@@ -28,6 +28,9 @@ Updates
   <li>
     18 Jun - A paper titled "Towards Active Air Quality Station Deployment" accepted in <a style="text-decoration:none" href="https://sites.google.com/view/icml-2021-subsetml/home">SubSetML</a> workshop in ICML'21 
   </li>
+  <li>
+    7 Jun - Served as a reviewer for ACM COMPASS'21 Posters and Demos.
+  </li>
 
   <li>
     7-10 Apr - Attended Google Graduate Symposium 2021 - <a style="text-decoration:none" href="https://patel-zeel.github.io/Google-Symposium-2021/">Notes</a> - <a style="text-decoration:none" href="https://sites.google.com/view/graduatesymposium2021/lectures-and-panel-links">Sessions</a>
