@@ -25,8 +25,8 @@ the computational and statistical efficiency of learning methods, and the extent
 1. <b> Teaching via Best-Case Counterexamples
 in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 **Akash Kumar**, [Yuxin Chen](https://yuxinchen.org/), [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).<br>
-<br> <i> In submission 
-</i>, [Link](https://drive.google.com/file/d/1Tr6EFvBkMajWYaZtYItw3P3cnV9BwGM6/view?usp=sharing) <br>
+<i> In submission 
+</i>, [[Link](https://drive.google.com/file/d/1Tr6EFvBkMajWYaZtYItw3P3cnV9BwGM6/view?usp=sharing)]
 
 2. <b>[The Teaching Dimension of Kernel Perceptrons] </b> <br>
 **Akash Kumar**, Hanqi Zhang, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yuxin Chen](https://yuxinchen.org/).<br>
@@ -34,11 +34,11 @@ in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 </i> <br> [[ArXiv](https://arxiv.org/pdf/2010.14043.pdf)], [[Proc](http://proceedings.mlr.press/v130/kumar21a.html)]<br>
 
 3. <b> Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries </b> <br>
-**Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br><br> [[ArXiv](https://arxiv.org/abs/2006.14677)]<br>
+**Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br> [[ArXiv](https://arxiv.org/abs/2006.14677)]
 
 4. <b> Deletion to Induced Matching </b> <br>
-**Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).</br> 
-<br>[[ArXiv](https://arxiv.org/abs/2008.09660)] <br>
+**Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br> 
+[[ArXiv](https://arxiv.org/abs/2008.09660)]
 
 # Some notes
 <b> [Improved Certified Adversarial Lower Bound Using Adaptive Relaxations](https://drive.google.com/file/d/1lZmiU3NnEhWHOtVuGhURxeFS4DWaYP_n/view?usp=sharing) </b> <br>
