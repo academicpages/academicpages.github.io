@@ -54,6 +54,8 @@ Select Conference Presentations
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. Head Direction Signals During Navigation. Virtual Spring CNLM Conference - Memory: It's About Time, Virtual.  May, 2021. [[news](/posts/2021/5/blog-post-2/)]
 
+* <b>Cheng, Y. </b>. Finding the Compass: Head Direction Signals in the Human Brain. UCI CNLM Awards Ceremony, Virtual. May, 2021. [[news](/posts/2021/5/blog-post-1/)]
+
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation, The Emergence of Head Direction Signals in Human Navigation. UCI Associated Graduate Students (AGS) Symposium, Virtual.  April, 2021. <b>Audience Choice Award</b> [[news](/posts/2021/4/blog-post-5/)]
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Neuromatch Conference 3.0, Virtual. Oct., 2020. [[news](/posts/2020/10/blog-post-4/)] [[video](https://www.youtube.com/watch?v=fEV5Bq5CTOI)]
