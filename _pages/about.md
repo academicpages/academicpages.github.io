@@ -17,7 +17,7 @@ Yuke's research interests include high-performance computing and deep learning a
 </p>
 
 <br>
-<b style="color:red">[06/22/21]</b> Our APNN-TC paper has been accepted to **SC'21**. [code](https://github.com/YukeWang96/OSDI21_AE) is open-sourced. <br/>
+<b style="color:red">[06/22/21]</b> Our APNN-TC paper has been accepted to **SC'21**. [code](https://github.com/BoyuanFeng/APNN-TC/tree/master) is open-sourced. <br/>
 <b style="color:red">[04/26/21]</b> Our Palleon paper has been accepted to **USENIX ATC'21**. <br/>
 <b style="color:red">[03/16/21]</b> Our GNNAdvisor paper has been accepted to **OSDI'21**. [code](https://github.com/YukeWang96/OSDI21_AE) is open-sourced.<br/>
 <!-- <b style="color:red">[02/08/21]</b> Our TiAcc paper has been accepted to **CCGrid'21**.<br/>
