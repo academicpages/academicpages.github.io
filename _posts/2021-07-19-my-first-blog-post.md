@@ -29,4 +29,4 @@ According to the analysis, \[SEP] draws over half of attention to itself in laye
 
 Phase Three
 ======
-Naturally, phase three will be significantly impacted by the two unsupervised tasks: Masked LM and NSP. Not surprisingly, attention from \[CLS] is obviously broader than the average in last layer. Meanwhile, loner draws over half of attentiion in the last two layers. We suppose that 
+Naturally, phase three will be significantly impacted by the two unsupervised tasks: Masked LM and NSP. Not surprisingly, attention from \[CLS] is obviously broader than the average in last layer. Meanwhile, loner draws over half of attentiion in the last two layers. We suppose that tokens near \[MASK] (especially, when in the same part of a sentence) will be the most significant to the prediction, since they have more constant relations. Thus, Masked LM will motivate deep heads to learn finer-grained segment to locate the tokens in the same part.  
