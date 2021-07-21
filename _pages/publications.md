@@ -9,7 +9,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 (<sup>\*</sup> indicates equal contribution. )
 
 ## 2021
-* **Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3442381.3449951)\]\[[code](https://github.com/YimiAChack/GSKN)\]<br>
+* **Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3442381.3449951)\]\[[code](https://github.com/YimiAChack/GSKN)\]\[[talk](https://www.youtube.com/watch?v=2jInnSxOP2A)\]<br>
 Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Yi Wu<sup>\*</sup>, Guojie Song. In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2021. 
 
 * **GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks** \[[pdf](https://kl4805.github.io/files/GraphMSE-AAAI21.pdf)\]\[[code](https://github.com/pkuliyi2015/GraphMSE)\]<br>
