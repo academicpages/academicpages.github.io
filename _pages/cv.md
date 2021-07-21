@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% /files/Resume_for_Qiwei_Joshua__Yuan.pdf%}
 
 Education
 ======
