@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% /files/Resume_for_Qiwei_Joshua__Yuan.pdf%}
+{/files/Resume_for_Qiwei_Joshua__Yuan.pdf}
 
 Education
 ======
