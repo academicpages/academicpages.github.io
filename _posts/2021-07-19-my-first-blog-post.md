@@ -2,7 +2,7 @@
 title: 'A Hypothesis about Learning Curve of BERT'
 date: 2021-07-19
 
-permalink: /posts/2021/07/my-first-post/
+permalink: /frequency-is-all-that-matters/
 tags:
   - cool posts
   - category1
