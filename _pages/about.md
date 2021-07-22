@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2021 - Named as an [outstanding reviewer](https://2021.aclweb.org/blog/reviewer-list/) for ACL-IJCNLP 2021
 * 2021 - New paper on arxiv! "Search Methods for Sufficient, Socially-Aligned Feature Importance Explanations with In-Distribution Counterfactuals" [[pdf]](https://arxiv.org/abs/2106.00786) [[code]](https://github.com/peterbhase/ExplanationSearch)
 * 2021 - Started summer internship at FAIR, supervised by [Srini Iyer](http://sriniiyer.github.io/). 
 * 2021 - New blog post on the Alignment Forum: "Opinions on Interpretable Machine Learning and 70 Summaries of Recent Papers" [[link]](https://www.alignmentforum.org/posts/GEPX7jgLMB8vR2qaK/opinions-on-interpretable-machine-learning-and-70-summaries)
