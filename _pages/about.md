@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I will be joining Alimama Tech at Alibaba Group as a research engineer. I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
+Hi! I am currently a research engineer in Alimama Tech at Alibaba Group. I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
 
 Research Interests
 ======
