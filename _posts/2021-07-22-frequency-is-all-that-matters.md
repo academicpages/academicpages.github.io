@@ -19,6 +19,9 @@ We first consider what makes the tokens (\[CLS], \[SEP], periods and commas, and
 * Typical, the "sentences" referred to by BERT are much longer than single sentences. Periods and commas are separators for traditional sentences inside the "sentences". Different from \[SEP], their positions are flexible: the outsiders are always moving. Thus, they are drifters.
 * \[MASK] is also born with a destiny: fulfilling the Masked LM task. Actually, \[MASK] is also a drifter, because it shares the same charactristics with periods and commas (high token frequency, low constant-relation frequency, and flexible position). In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task. Details will be shown in phase three.
 
+Relationship of all tokens is presented in the figure below.
+<img src="https://gjwubyron.github.io/images/tokens.JPG"/>
+
 
 Phase One
 ======
