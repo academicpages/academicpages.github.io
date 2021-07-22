@@ -6,9 +6,9 @@ permalink: /frequency-is-all-that-matters/
 
 ---
 
-This post proposes a hypothesis about how BERT learn syntactic representation, mianly based on [an analysis about BERT's attention](https://nlp.stanford.edu/pubs/clark2019what.pdf). In the analysis, heads often focus on special tokens: early heads attend to \[CLS], middle heads attend to \[SEP], and deep heads attend to periods and commas. Intuitively, we hypothesize there are three rough phases of heads respectively learning three different representations: definition, dependency, and finer-grained segment. We also suppose that the difference in token frequency and constant-relation frequency make certain tokens special. For better understanding, we define them as special part of speech: \[CLS] as hunter; \[SEP] as haven; periods, commas, and \[MASK] as drifter.
+This post proposes a hypothesis about how BERT learn syntactic representation, mianly based on [an analysis about BERT's attention](https://nlp.stanford.edu/pubs/clark2019what.pdf). In the analysis, heads often focus on special tokens: early heads attend to \[CLS], middle heads attend to \[SEP], and deep heads attend to periods and commas, as shown in figure below. Intuitively, we hypothesize there are three rough phases of heads respectively learning three different representations: definition, dependency, and finer-grained segment. We also suppose that the difference in token frequency and constant-relation frequency make certain tokens special. For better understanding, we define them as special part of speech: \[CLS] as hunter; \[SEP] as haven; periods, commas, and \[MASK] as drifter.
 
-
+<img src="https://gjwubyron.github.io/images/attention.JPG"/>
 
 Special Part of Speech
 ======
