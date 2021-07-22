@@ -8,7 +8,7 @@ permalink: /frequency-is-all-that-matters/
 
 This post proposes a hypothesis about how BERT learns syntactic representation, mainly based on an analysis about BERT's attention ([Clark et al., 2019](https://nlp.stanford.edu/pubs/clark2019what.pdf)). In the analysis, heads often focus on special tokens: early heads attend to \[CLS], middle heads attend to \[SEP], and deep heads attend to periods and commas, as shown in the figure  below ([Clark et al., 2019](https://nlp.stanford.edu/pubs/clark2019what.pdf)). Intuitively, we hypothesize there are three rough phases of heads respectively learn three different representations: definition, dependency, and finer-grained segment. We also suppose that the difference in token frequency and constant-relation frequency make certain tokens special. For better understanding, we define them as special parts of speech: \[CLS] as a hunter; \[SEP] as a haven; periods, commas, and \[MASK] as drifters.
 
-<img src="https://gjwubyron.github.io/images/attention.JPG"/>
+<img src="https://gjwubyron.github.io/images/attention.JPG"/ width=400px height=300px>
 
 Special Parts of Speech
 ======
@@ -20,7 +20,7 @@ We first consider what makes the tokens (\[CLS], \[SEP], periods and commas, and
 * \[MASK] is also born with a destiny: fulfilling the Masked LM task. Actually, \[MASK] is also a drifter, because it shares the same charactristics with periods and commas (high token frequency, low constant-relation frequency, and flexible position). In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task. Details will be shown in phase three.
 
 Relationship of all tokens is presented in the figure below.
-<img src="https://gjwubyron.github.io/images/tokens.JPG"/>
+<img src="https://gjwubyron.github.io/images/tokens.JPG"/ >
 
 
 Phase One
