@@ -8,16 +8,16 @@ permalink: /frequency-is-all-that-matters/
 
 This post proposes a hypothesis about how BERT learns syntactic representation, mainly based on an analysis about BERT's attention ([Clark et al., 2019](https://nlp.stanford.edu/pubs/clark2019what.pdf)). In the analysis, heads often focus on special tokens: early heads attend to \[CLS], middle heads attend to \[SEP], and deep heads attend to periods and commas, as shown in the figure  below ([Clark et al., 2019](https://nlp.stanford.edu/pubs/clark2019what.pdf)). Intuitively, we hypothesize there are three rough phases of heads respectively learn three different representations: definition, dependency, and finer-grained segment. We also suppose that the difference in token frequency and constant-relation frequency make certain tokens special. For better understanding, we define them as special parts of speech: \[CLS] as a hunter; \[SEP] as a haven; periods, commas, and \[MASK] as drifters.
 
-<img src="https://gjwubyron.github.io/images/attention.JPG" width=800px height=600px />
+<img src="https://gjwubyron.github.io/images/heads.JPG" >
 
 Special Parts of Speech
 ======
 We first consider what makes the tokens (\[CLS], \[SEP], periods and commas, and \[MASK]) special. Firstly, high token frequency makes learning easier and earlier: attention heads gain more experience with them. Secondly, they are outsiders of the sentence, since they hardly have constant relations with other tokens. While other frequent tokens are insiders with simple and constant relations. For example, articles (a/an/the) are often related to the immediately following word. In general, special tokens are frequent outsiders, which have high token frequency and low constant-relation frequency. When looking into them, we find they are outsiders with different destinies:
 
 * \[CLS] is born with a destiny to fulfill the Next Sentence Prediction (NSP) task. It is motivated to attend broadly to aggregate a representation, which makes it a global hunter. 
-* \[SEP] is fixed at the end of sentences: the outsider stay in the fixed position. It is a haven for tokens that need to lie low. We will explain this in detail in phase two.
+* \[SEP] is fixed at the end of sentences: the outsider stay in the fixed position. It is a haven for tokens that need to lie low in phase two.
 * Typical, the "sentences" referred to by BERT are much longer than single sentences. Periods and commas are separators for traditional sentences inside the "sentences". Different from \[SEP], their positions are flexible: the outsiders are always moving. Thus, they are drifters.
-* \[MASK] is also born with a destiny: fulfilling the Masked LM task. Actually, \[MASK] is also a drifter, because it shares the same charactristics with periods and commas (high token frequency, low constant-relation frequency, and flexible position). In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task. Details will be shown in phase three.
+* \[MASK] is also born with a destiny: fulfilling the Masked LM task. Actually, \[MASK] is also a drifter, because it shares the same charactristics with periods and commas (high token frequency, low constant-relation frequency, and flexible position). In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task in phase three.
 
 Relationship of all tokens is presented in the figure below.
 <img src="https://gjwubyron.github.io/images/tokens.JPG" >
