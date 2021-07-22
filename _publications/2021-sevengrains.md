@@ -1,5 +1,5 @@
 ---
-title: "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00141-2/fulltext"
+title: "COVID-19 Detection from Audio: Seven Grains of Salt"
 collection: publications
 permalink: /publication/2021-sevengrains
 excerpt: ''
