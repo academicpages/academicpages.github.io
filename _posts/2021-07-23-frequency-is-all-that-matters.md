@@ -20,13 +20,16 @@ Abstract
 
 Special Tokens
 ======
-* Firstly, token frequency separate frequent tokens from the others, since attention heads can gain more experience with them.  
-* Secondly, constant-relation frequency differentiate outsiders and insiders. While outdiers (\[CLS], \[SEP], periods, commmas, and \[MASK]) can hardly have constant relations with other tokens, insiders often have simple and constant relations. For example, articles (a/an/the) are often related to the immediately following word.
+* Token frequency makes learning easier and earlier, which separates frequent tokens from the others.    
+* Constant-relation frequency differentiate frequent tokens into outsiders and insiders: 
+  * Insiders (e.g., "the", "be","to") often have simple and constant relations. For example, articles (a/an/the) are often related to the immediately following word. Thus, they often have narrow attention.
+  * Outdiers (\[CLS], \[SEP], periods, commmas, and \[MASK]) can hardly have constant relations with other tokens.
 * When looking into the outsiders, we find they can be seperated into three types:
-  * \[CLS] is born to fulfill the Next Sentence Prediction (NSP) task. It is motivated to attend broadly to aggregate a representation, which makes it a global hunter. 
-  * \[SEP] is fixed at the end of sentences which makes it a haven for tokens that need to lie low (avoid being related to specific tokens).
+  * \[CLS] is a hunter, since it has broad attention due to the Next Sentence Prediction (NSP) task. 
+  * \[SEP] locates in the end of sentences, which makes it a haven for tokens that need to lie low. Details in phase two.
   * Typical, the "sentences" referred to by BERT are much longer than single sentences. Periods and commas are separators for traditional sentences inside the "sentences".They locate in flexible positions like drifters.
   * \[MASK] is also a drifter, because it shares the same charactristics with periods and commas. However, \[MASK] is born to fulfill the Masked LM task. In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task, which means all the drifters will be motivated by this task.
+* Attention heads will learn \[CLS] earlier than any other tokens, since it has special charactristic (broad attention) and always locate in the same position. 
 
 <img src="https://gjwubyron.github.io/images/token.JPG" >
 <em>Figure 2: Relationship of tokens</em>
@@ -37,28 +40,35 @@ Special Tokens
 Phase One
 ======
 * Solid Results:
-  * In lower layers, some attention heads have broad attention. Meawhile, attention to \[CLS] is relativly higher than to others.
+  1. In lower layers, some attention heads have broad attention. 
+  2. Meawhile, attention to \[CLS] is relativly higher than to others.
 * Hypothesis:
-  * We suppose that to define the usage or parts of speech of current tokens, heads attend broadly to get information of other tokens. \[CLS] are often attended, because it is a hunter. The heads attend to it for imformation about other tokens instead of the hunter itself. 
-
-
+  * **Main point: We suppose early heads focus on the usage of tokens, especially insiders.** 
+  1. Attention heads attend broadly to get information of tokens. Probably, insiders will stand out amoung all tokens.
+  2. \[CLS] are often attended, because it is a hunter. The heads attend to it for imformation about other tokens instead of the hunter itself.
+  
+  
 Phase Two
 ======
 * Solid Results:
-  * \[SEP] draws over half of attention to itself in layer 6-10, which is used as a no-op for attention heads. 
-  * While no single attention head performs well at syntax "overall", attention heads specialize to specific dependency relation (e.g., pobj, det, and dobj), especially for heads from layer 4-9.  
-  * It is often the case that the dependent attends to head word rather than the other way around. 
-  * Heads within the same layer have similar attention distributions (heads redundancy).
+  1. \[SEP] draws over half of attention to itself in layer 6-10, which is used as a no-op for attention heads. 
+  2. While no single attention head performs well at syntax "overall", attention heads specialize to specific dependency relation (e.g., pobj, det, and dobj), especially for heads from layer 4-9.  
+  3. It is often the case that the dependent attends to head word rather than the other way around. 
+  4. Attention heads within the same layer have similar attention distributions (redundancy).
 * Hypothesis:
-  * We suppose insiders will spe
-  * Based on these, we suppose that when attention heads specialize in specific relations, the tokens of head words ought to be highlighted while other tokens would better not be functioning (lying low). To lie low, the tokens need to avoid being related to the tokens of the dependents as much as possible. Take dobj relation, tokens in direct object attend to their verbs, while other tokens mostly attend to \[SEP]. 
-  * A question may be raised: why those tokens choose \[SEP] over other tokens. Probably, it is because \[SEP] have high token frequency and locate in the fixed position, which makes it easier for those tokens to attend. 
+  * **Main point: We suppose middle heads focus on specific dependency, especially where insiders should attend to.**
+  1. Since insiders often have narrow attention, other tokens need to attend as far as possible to highlight attention from insiders.\[SEP] at the end of sentences becomes a haven for those tokens to lie low. 
+  2. Because insiders' relations are usually specific, attention heads will specialize to specific dependency relation, . 
+  3. Since insiders are often dependents, it is more often the dependent attends to head word than the other way around
+  4. Heads will first focus on the more-frequent insiders, then the less-frequent ones. Thus, heads in the same layer will focus on similar insiders, which leads to redundancy.
 
 Phase Three
 ======
 * Solid Results:
-  * Naturally, deep heads will be significantly and directly impacted by the two unsupervised tasks: Masked LM and NSP. Unsurprisingly, attention from \[CLS] is obviously broader than the average in the last layer. Meanwhile, periods and commas draw over half of attention in the last two layers. 
+  1. Attention from \[CLS] is obviously broader than the average in the last layer. 
+  2. Periods and commas draw over half of attention in the last two layers. 
 * Hypothesis:
+  * **Main point: We suppose deep heads are significantly impacted by Masked LM and NSP task, and learn finer-grained segment as a by-product.
   * We suppose that since it is hard to differentiate \[MASK], periods, and commas, attention heads will treat them the same. Thus, Masked LM will motivate mutual relations between all the drifters and the other tokens. Since the tokens prefer the drifters (most of them are periods and commas) in the neighborhood, the heads will possibly learn finer-grained segment as a by-product. 
   * Moreover, attention to periods and commas can greatly help the prediction of \[MASK]. Since they attract lots of attentions from other tokens, \[MASK] will be more likely to have relations with tokens close to it, which is exactly the most significant part for prediction.
 
