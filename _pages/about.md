@@ -14,7 +14,7 @@ I am an incoming doctoral student in the [Computer Science department](https://c
 I am broadly interested in the theoretical aspects of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization and theory of deep learning. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<br>
 
-**Contact**: akumar at mpi-sws dot com
+**Contact**: (username id) akk002 at ucsd dot edu
 
 # Recent News
 * Our paper on **The Teaching Dimension of Kernel Perceptrons** is accepted at AISTATS (2021)! :D 
