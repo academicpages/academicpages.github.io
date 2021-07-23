@@ -13,10 +13,8 @@ author_profile: true
 <summary> 2021 - Rebels with a cause: Introducing the Post-Rebel Electoral Parties Dataset. (with Carrie Manning and Ian Smith). Revised and resubmitted, Journal of Peace Research. </summary>
 <br>
 </details>
-
-<details>
-<summary> 2020 - The glimmer of hope in the bleak future of civil society under oppressive regimes: An example from the Turkish educational civil society. Submitted to Journal of Civil Society.</summary>
-<br>
+- 2020 - The glimmer of hope in the bleak future of civil society under oppressive regimes: An example from the Turkish educational civil society. Submitted to Journal of Civil Society.
+- <details><summary> Abstract </summary> <br>
 This article attempts to explain the role of the educational civil society in Turkey, where the regime excessively co-opts and controls associational life while maintaining a veneer of democracy. Despite growing oppression, both liberal and government-friendly civil society organizations are rising in number and quality. Also, the regime is inclusive in terms of the policymaking process. This research shows the role of civil society under repressive competitive autocratic regimes and which mechanisms the state uses in its shifting approach to civil society organizations in policymaking. By addressing a gap in the literature, this article claims that the state co-opts government-friendly civil society organizations and alters existing laws and regulations to create a veneer of democracy. The state continues to include different civil society organizations into the policymaking process because the state’s limited capacity and civil society organizations’ extensive knowledge and expertise give invaluable insight to educational civil society in Turkey. Based on elite interviews of state officials and civil society organizations, and document research, this article can present a glimmer of hope in the bleak future of civil society under oppressive regimes.
 </details>
 
