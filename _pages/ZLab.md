@@ -18,4 +18,4 @@ The third project focuses on polarization on social media by monitoring and dete
 
 ## ZLab Hiring
 
-Zlab are hiring two grad-level research assistants focusing on computational social science.
+Zlab is hiring two grad-level research assistants focusing on computational social science.
