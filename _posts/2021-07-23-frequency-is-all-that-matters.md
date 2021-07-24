@@ -1,6 +1,6 @@
 ---
 title: 'Frequency Is All That Matters: A Hypothesis About How BERT Learn Syntactic Representations'
-date: 2021-07-24
+date: 2021-07-23
 
 permalink: /frequency-is-all-that-matters/
 
