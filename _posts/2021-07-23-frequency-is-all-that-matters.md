@@ -15,17 +15,15 @@ Abstract
 Inspiration
 ======
 
-* Attention heads often focus on special tokens: early heads attend to \[CLS], middle heads attend to \[SEP], and deep heads attend to periods and commas, as shown in Figure 1 ([Clark et al., 2019](https://nlp.stanford.edu/pubs/clark2019what.pdf)). 
- 
-
+* Attention heads often focus on special tokens: early heads attend to \[CLS], middle heads attend to \[SEP], and deep heads attend to periods and commas, as shown in Figure 1. 
 
 <img src="https://gjwubyron.github.io/images/heads.JPG" >
-<em>Figure 1: The average attention a particular BERT attention head puts toward a token type. </em>
+<em>Figure 1: The average attention a particular BERT attention head puts toward a token type (Clark et al., 2019). </em>
 
 Special Tokens
 ======
-* Token frequency makes learning easier and earlier, which separates frequent tokens from the others.    
-* Constant-relation frequency differentiate frequent tokens into outsiders and insiders: 
+* High token frequency makes learning easier and earlier, which separates frequent tokens from the others.    
+* Then, constant-relation frequency differentiate frequent tokens into outsiders and insiders: 
   * Insiders (e.g., "the", "be","to") often have simple and constant relations. For example, articles (a/an/the) are often related to the immediately following word. Thus, they often have narrow attention.
   * Outdiers (\[CLS], \[SEP], periods, commmas, and \[MASK]) can hardly have constant relations with other tokens.
 * When looking into the outsiders, we find they can be seperated into three types:
@@ -33,9 +31,8 @@ Special Tokens
   * \[SEP] locates in the end of sentences, which makes it a haven for tokens that need to lie low. Details in phase two.
   * Typical, the "sentences" referred to by BERT are much longer than single sentences. Periods and commas are separators for traditional sentences inside the "sentences".They locate in flexible positions like drifters.
   * \[MASK] is also a drifter, because it shares the same charactristics with periods and commas. 
-* Relationship of tokens is presented in Figure 2. 
 
-<img src="https://gjwubyron.github.io/images/token.JPG" >
+<img src="https://gjwubyron.github.io/images/relation.JPG" >
 <em>Figure 2: Relationship of tokens in Venn diagram.</em>
 
 
@@ -64,6 +61,10 @@ Phase Two
   2. Because insiders' relations are usually specific, attention heads will specialize to specific dependency relation, . 
   3. Since insiders are often dependents, it is more often the dependent attends to head word than the other way around
 
+<img src="https://gjwubyron.github.io/images/importance.JPG" >
+<em>Figure 3: Gradient-based feature importance estimates
+for attention to [SEP], periods/commas, and other tokens (Clark et al., 2019).</em>
+
 Phase Three
 ======
 * **Hypothesis: We suppose deep heads are significantly impacted by NSP and Masked LM task, and learn finer-grained segment as a by-product.**
@@ -74,8 +75,8 @@ Phase Three
   1. Since \[CLS] is used to fulfill NSP task, it attends broadly to aggregate a representation.
   2. Masked LM will motivate attendance to \[MASK]. However, it is hard to differentiate \[MASK] from other drifters. Thus, this task will motivate attendance to periods and commas as well. (In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task.)
 * By-products:
-  1. Since the tokens prefer the drifters (most of them are periods and commas) in the neighborhood, the heads will possibly learn finer-grained segment as a by-product. 
-  2.Moreover, attention to periods and commas can greatly help the prediction of \[MASK]. Since they attract lots of attentions from other tokens, \[MASK] will be more likely to have relations with tokens close to it, which is exactly the most significant part for prediction.
+  1. Predictions of \[MASK] can be more accurate. Because, attention to \[MASK] is mainly from tokens in the heighborhood (the most significant tokens for prediction), while other tokens attend to periods and commas.
+  2. The heads will possibly learn finer-grained segment, because tokens attend to periods and commas (traditional seperators) are very likely from the same part of sentences. 
 
 Conclusion
 ======
