@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* July 23, 2021. One journal paper submitted to IEEE Transactions on Image Processing. 
 * June 4, 2021. The journal paper "Fast and High-Quality Multi-spectral Image Pansharpening" has been accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 * May 20, 2021. Two conference papers accepted by ICIP 2021. 
 * May 15, 2021. I earned my Ph.D. in Electrical and Computer Engineering at Rice University. 
