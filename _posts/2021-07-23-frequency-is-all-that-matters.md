@@ -1,5 +1,5 @@
 ---
-title: 'Frequency Is All That Matters: A Hypothesis About How BERT Learn Syntactic Representations'
+title: 'What Attention Dose Not Look At Is All You Need'
 date: 2021-07-23
 
 permalink: /frequency-is-all-that-matters/
@@ -51,13 +51,13 @@ Phase One
   
 Phase Two
 ======
-* **Hypothsis: We suppose middle heads focus on where insiders should attend to (specific dependency).**
+* **Hypothsis: We suppose attention from insiders is the main concern for middle heads**
 * Solid Results:
   1. Attention to \[SEP] becomes high in layer 5-10 as shown in Figure 1. Meanwhile, importance of it becomes very low as shown in Figure 3. 
   2. While no single attention head performs well at syntax "overall", attention heads specialize to specific dependency relation (e.g., pobj, det, and dobj), especially for heads from layer 4-9.  
   3. It is often the case that the dependent attends to head word rather than the other way around. 
 * Explanations:
-  1. Since insiders often have narrow attention, other tokens need to attend as far as possible to highlight attention from insiders.\[SEP] at the end of sentences becomes a haven for those tokens to lie low. 
+  1. Since insiders often have narrow attention, other tokens need to attend as far as possible to highlight attention from insiders. \[SEP] at the end of sentences becomes a haven for those tokens to lie low. 
   2. Because insiders' relations are usually specific, attention heads will specialize to specific dependency relation, . 
   3. Since insiders are often dependents, it is more often the dependent attends to head word than the other way around
 
@@ -67,13 +67,14 @@ for attention to [SEP], periods/commas, and other tokens (Clark et al., 2019).</
 
 Phase Three
 ======
-* **Hypothesis: We suppose deep heads are significantly impacted by NSP and Masked LM task, and learn finer-grained segment as a by-product.**
+* **Hypothesis: We suppose attention from drifters in the main concern for deep heads**
 * Solid Results:
   1. Attention from \[CLS] is obviously broader than the average in the last layer. 
   2. Periods and commas draw over half of attention in the last two layers. 
 * Explanations:
   1. Since \[CLS] is used to fulfill NSP task, it attends broadly to aggregate a representation.
-  2. Masked LM will motivate attendance to \[MASK]. However, it is hard to differentiate \[MASK] from other drifters. Thus, this task will motivate attendance to periods and commas as well. (In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task.)
+  2. Due to Masked LM, attentions from \[MASK] ought to be highlighted. However, it is hard to differentiate \[MASK] from other drifters. Thus, this task motivates attention heads to highlight attention from periods and commas as well. (In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task.) 
+   
 * By-products:
   1. Predictions of \[MASK] can be more accurate. Because, attention to \[MASK] is mainly from tokens in the heighborhood (the most significant tokens for prediction), while other tokens attend to periods and commas.
   2. The heads will possibly learn finer-grained segment, because tokens attend to periods and commas (traditional seperators) are very likely from the same part of sentences. 
