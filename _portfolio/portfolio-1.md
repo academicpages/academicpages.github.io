@@ -8,15 +8,15 @@ permalink: "/portfolio/workingpapers"
 
 ---
 
-## Colorism in Sentencing: 
-
+##  Not so Black and White: An Algorithmic Approach to Detecting Colorism in Criminal Sentencing 
+Published in ACM SIGCAS Conference on Computing and Sustainable Societies 
 
 ### Average Inmate by Binned Sentence Length 
 ![Average Inmate Photo by Sentence Length](Photo_SentLength.png)
 
-Abstract: Utilizing machine learning can help researchers leverage new forms of data, such as photos, to shed light on understudied questions in the social sciences. In this paper, I apply image processing techniques and transfer learning to detect if darker skinned individuals are sentenced to longer prison terms using data from Mississippi prisons. I find that for a one standard deviation increase in skin color, individual sentence length increases by approximately 445 days. Using FaceNet architecture, I create a model to predict the probability an individual is black using his or her prison photo. I find for a one standard deviation increase in probability of black, sentence length increases by approximately 200 days. Both results are largely driven by individuals in the latter part of the distribution of skin tone and probability of black. These results, while not causal, highlight the additional nuances that photo analysis can add to studies of disparate outcomes in the criminal justice system. Beyond criminal justice, this project highlights the potential for machine learning to add insights in the social sciences' study of bias in numerous fields including education, employment, and healthcare.
+Abstract: It is well documented that individuals of different races have disparate experiences in the criminal justice system in the United States. As most studies focus on Black-white interracial differences, intraracial disparities are often overlooked. Analyzing intraracial disparities is further complicated by the fact that it has been historically difficult to accurately and consistently measure skin tone and Afrocentric features. Utilizing convolutional neural networks and photos as data, this study creates a consistent, running measure of perceived race. Using this new measure and data type, new types of analysis are possible. This study will present photographic summary statistics, show the positive relationship between perceived race and sentence length is robust to the inclusion of various controls and, reevaluate traditional Black-white gaps, measuring both inter- and intraracial disparities.
 
-
+Full paper draft found [here] ()
 ---
 
 
