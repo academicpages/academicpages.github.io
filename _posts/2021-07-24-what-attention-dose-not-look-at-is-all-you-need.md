@@ -18,18 +18,18 @@ Content
 ======
 * For a better understanding, we first discuss what makes tokens special. 
 * Then we present solid results from the analysis as well as our explanations to them in each phase.
-* Finally, we present a holistic view about attention: **what attention does not look at is all you need**.
+* Lastly, we present a holistic view of attention: **what attention does not look at is all you need**.
 
 Special Tokens
 ======
 * High token frequency makes learning easier and earlier, which separates frequent tokens from the others.    
 * Then, constant-relation frequency of frequent tokens differentiates outsiders from insiders: 
-  * Insiders (e.g., "the", "be","to") often have simple and constant relations. For example, articles (a/an/the) are often related to the immediately following word. Thus, they often have narrow attention.
-  * Outdiers (\[CLS], \[SEP], periods, commmas, and \[MASK]) can hardly have constant relations with other tokens.
-* When looking into the outsiders, we find they can be seperated into three types:
+  * Insiders (e.g., "the", "be", "to") often have simple and constant relations. For example, articles (a/an/the) are often related to the immediately following word.
+  * Outsiders (\[CLS], \[SEP], periods, commas, and \[MASK]) can hardly have constant relations with other tokens.
+* When looking into the outsiders, we find that they can be separated into three types:
   * \[CLS] is a hunter, since it has broad attention due to the Next Sentence Prediction (NSP) task. 
-  * \[SEP] locates in the end of sentences, which makes it a haven for tokens that need to lie low. Details in phase two.
-  * Typically, the "sentences" referred to by BERT are much longer than single sentences. Periods and commas are separators for traditional sentences inside the "sentences".They locate in flexible positions like drifters.
+  * \[SEP] locates at the end of sentences, which makes it a haven for tokens that need to lie low. Details in phase two.
+  * Typically, the "sentences" referred to by BERT are much longer than single sentences. Periods and commas are separators for traditional sentences inside the "sentences". They locate at flexible positions like drifters.
   * \[MASK] is born to fulfill the Masked LM task. Since it shares the same charactristics with periods and commas, it is also a drifter. In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task. Thus, Masked LM will motivate all drifters' attendance. 
 
 <img src="https://gjwubyron.github.io/images/tokenrelation.JPG" >
@@ -41,22 +41,21 @@ Phase One
 * **Hypothesis: Usage of tokens is the main concern for early heads.** 
 * Solid Results:
   1. In lower layers, some attention heads have very broad attention.
-  2. Attention to \[CLS] is relativly higher than to other tokens.
+  2. Attention to \[CLS] is relatively higher than that to other tokens.
 * Explanations:
-  1. Attention heads attend broadly to get information of tokens.
-  2. \[CLS] is often attended, because it is a hunter. The heads attend to it for imformation about other tokens instead of the hunter itself.
-* Insiders with narrow attention will probably stand out amoung all tokens. 
+  1. Attention heads attend broadly to get information on tokens.
+  2. \[CLS] is often attended, because it is a hunter. The heads attend to it for information on other tokens instead of the hunter itself.
   
 Phase Two
 ======
-* **Hypothsis: High constant-relation frequency makes attendance from insiders the main concern for middle heads**
+* **Hypothesis: High constant-relation frequency makes attendance from insiders the main concern for middle heads**
 * Solid Results:
-  1. Attention to \[SEP] becomes high in layer 5-10 as shown in Figure 1. Meanwhile, importance of it becomes very low as shown in Figure 3. 
-  2. While no single attention head performs well at syntax "overall", attention heads specialize to specific dependency relation (e.g., pobj, det, and dobj), especially for heads from layer 4-9.  
+  1. Attention to \[SEP] becomes high in layers 5-10 as shown in Figure 1. Meanwhile, the importance of it becomes very low as shown in Figure 3. 
+  2. While no single attention head performs well at syntax "overall", attention heads specialize to specific dependency relations (e.g., pobj, det, and dobj), especially for heads from layers 4-9.  
   3. It is often the case that the dependent attends to head word rather than the other way around. 
 * Explanations:
   1. **To highlight attendance from insiders**, other tokens need to avoid attending to the same tokens that insiders may attend to. Since insiders often attend to tokens in the neighborhood, \[SEP] at the end of sentences (usually far away from insiders) becomes a haven for those tokens to lie low. 
-  2. Because insiders' relations are usually specific, attention heads will specialize to specific dependency relation. 
+  2. Because insiders' relations are usually specific, attention heads will specialize to specific dependency relations. 
   3. Since insiders are often dependents, it is more often the dependent attends to head word than the other way around
 
 
@@ -66,17 +65,17 @@ for attention to [SEP], periods/commas, and other tokens (Clark et al., 2019).</
 
 Phase Three
 ======
-* **Hypothesis: Mased LM and high token frequency make attendance from drifters the main concern for deep heads**
+* **Hypothesis: Masked LM and high token frequency make attendance from drifters the main concern for deep heads**
 * Solid Results:
   1. Attention from \[CLS] is obviously broader than the average in the last layer. 
   2. Over half of attention focuses on periods and commas in the last two layers. 
 * Explanations:
   1. \[CLS] attends broadly to aggregate a representation to fulfill NSP task. However, its influence on attention heads is very limited, since it is less frequent than drifters.
   2. **To highlight attendance from drifters**, other tokens need to avoid attending to the same tokens that drifters may attend to. Since drifters are motivated to attend to other tokens, they themselves become havens for those tokens to lie low. 
-* Since tokens in the same part of sentences will contribute the most to predictions of \[MASK], drifters are motivated to attend to tokens in the same part of sentences. Deep heads may learn finer-grained segment as a by-product, since most of drifters are traditiional separators (periods and commas).
+* Since tokens in the same part of sentences will contribute the most to predictions of \[MASK], drifters are motivated to attend to tokens in the same part of sentences. Deep heads may learn finer-grained segment as a by-product since most drifters are traditional separators (periods and commas).
 
 Conclusion
 ======
-* By comparing Figure 1 and 3, we can easily notice that the importance of attention to the tokens negative correlated to average attention to them. 
-* We suggest that **what attention does not look at is all you need**: early heads attend to \[CLS], because they need information of other tokens; middle heads attend to \[SEP], because they need to highlight attendance from insiders; deep heads attend to periods and commas, because they need to highlight attendance from drifters. 
-* We also suggest that each phase of attention heads learn a certain **syntatic representation**: early heads learn part of speech of tokens; middle heads learn dependency between tokens; deep heads learn finer-grained segment.
+* By comparing Figure 1 and 3, it is shown that the importance of attention to the tokens negatively correlates to average attention to them. 
+* We suggest that **what attention does not look at is all you need**: early heads attend to \[CLS] because they need the information on other tokens; middle heads attend to \[SEP] because they need to highlight attendance from insiders; deep heads attend to periods and commas because they need to highlight attendance from drifters. 
+* We also suggest that each phase of attention heads learn a certain **syntactic representation**: early heads learn part of speech of tokens; middle heads learn dependency between tokens; deep heads learn finer-grained segment.
