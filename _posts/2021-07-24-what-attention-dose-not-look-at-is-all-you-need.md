@@ -7,7 +7,7 @@ permalink: /what-attention-dose-not-look-at-is-all-you-need/
 ---
 Motivation
 ======
-* This post proposes a hypothesis about how BERT learns syntactic representations, mainly based on an analysis about BERT's attention ([Clark et al., 2019](https://nlp.stanford.edu/pubs/clark2019what.pdf)).
+* This post proposes a hypothesis about how BERT learns syntactic representations, mainly based on an analysis of BERT's attention ([Clark et al., 2019](https://nlp.stanford.edu/pubs/clark2019what.pdf)).
 * As shown in Figure 1, attention heads often focus on special tokens: early heads attend to \[CLS]; middle heads attend to \[SEP]; deep heads attend to periods and commas. 
 * Inspired by this, we suppose there are three phases of heads focus on different representations. 
 
