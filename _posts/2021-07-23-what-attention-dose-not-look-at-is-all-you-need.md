@@ -56,8 +56,8 @@ Phase Two
   2. While no single attention head performs well at syntax "overall", attention heads specialize to specific dependency relation (e.g., pobj, det, and dobj), especially for heads from layer 4-9.  
   3. It is often the case that the dependent attends to head word rather than the other way around. 
 * Explanations:
-  1. **To highlight attention from insiders**, other tokens need to avoid attending to the same tokens that insiders may attend to. Since they often attend to tokens in the neighborhood, \[SEP] at the end of sentences becomes a haven for those tokens to lie low. 
-  2. Because insiders' relations are usually specific, attention heads will specialize to specific dependency relation, . 
+  1. **To highlight attendance from insiders**, other tokens need to avoid attending to the same tokens that insiders may attend to. Since they often attend to tokens in the neighborhood, \[SEP] at the end of sentences becomes a haven for those tokens to lie low. 
+  2. Because insiders' relations are usually specific, attention heads will specialize to specific dependency relation. 
   3. Since insiders are often dependents, it is more often the dependent attends to head word than the other way around
 
 <img src="https://gjwubyron.github.io/images/importance.JPG" >
