@@ -1,6 +1,6 @@
 ---
 title: 'What Attention Dose Not Look At Is All You Need'
-date: 2021-07-23
+date: 2021-07-24
 
 permalink: /what-attention-dose-not-look-at-is-all-you-need/
 
@@ -20,7 +20,6 @@ Content
 * Then we present solid results from the analysis as well as our explanations to them in each phase.
 * Finally, we present a holistic view about attention: **what attention does not look at is all you need**.
 
-
 Special Tokens
 ======
 * High token frequency makes learning easier and earlier, which separates frequent tokens from the others.    
@@ -33,7 +32,7 @@ Special Tokens
   * Typically, the "sentences" referred to by BERT are much longer than single sentences. Periods and commas are separators for traditional sentences inside the "sentences".They locate in flexible positions like drifters.
   * \[MASK] is born to fulfill the Masked LM task. Since it shares the same charactristics with periods and commas, it is also a drifter. In BERT's view, it is the randomly selected drifters (\[MASK]) that are responsible for the Masked LM task. Thus, Masked LM will motivate all drifters' attendance. 
 
-<img src="https://gjwubyron.github.io/images/relation.JPG" >
+<img src="https://gjwubyron.github.io/images/tokenrelation.JPG" >
 <em>Figure 2: Relationship of tokens in Venn diagram.</em>
 
 
@@ -41,8 +40,8 @@ Phase One
 ======
 * **Hypothesis: Usage of tokens is the main concern for early heads.** 
 * Solid Results:
-  1. In lower layers, some attention heads have broad attention. 
-  2. Meawhile, attention to \[CLS] is relativly higher than to others.
+  1. In lower layers, some attention heads have very broad attention.
+  2. Attention to \[CLS] is relativly higher than to other tokens.
 * Explanations:
   1. Attention heads attend broadly to get information of tokens. Probably, insiders will stand out amoung all tokens.
   2. \[CLS] is often attended, because it is a hunter. The heads attend to it for imformation about other tokens instead of the hunter itself.
@@ -56,9 +55,10 @@ Phase Two
   2. While no single attention head performs well at syntax "overall", attention heads specialize to specific dependency relation (e.g., pobj, det, and dobj), especially for heads from layer 4-9.  
   3. It is often the case that the dependent attends to head word rather than the other way around. 
 * Explanations:
-  1. **To highlight attendance from insiders**, other tokens need to avoid attending to the same tokens that insiders may attend to. Since they often attend to tokens in the neighborhood, \[SEP] at the end of sentences becomes a haven for those tokens to lie low. 
+  1. **To highlight attendance from insiders**, other tokens need to avoid attending to the same tokens that insiders may attend to. Since insiders often attend to tokens in the neighborhood, \[SEP] at the end of sentences (usually far away from insiders) becomes a haven for those tokens to lie low. 
   2. Because insiders' relations are usually specific, attention heads will specialize to specific dependency relation. 
   3. Since insiders are often dependents, it is more often the dependent attends to head word than the other way around
+
 
 <img src="https://gjwubyron.github.io/images/importance.JPG" >
 <em>Figure 3: Gradient-based feature importance estimates
@@ -73,7 +73,7 @@ Phase Three
 * Explanations:
   1. \[CLS] attends broadly to aggregate a representation to fulfill NSP task. However, its influence on attention heads is very limited, since it is less frequent than drifters.
   2. **To highlight attendance from drifters**, other tokens need to avoid attending to the same tokens that drifters may attend to. Since drifters are motivated to attend to other tokens, they themselves become havens for those tokens to lie low. 
-* Since tokens in the same part of sentences will contribute the most to predictions of \[MASK], drifters are motivated to attend to tokens in the same part. Thus, deep heads may learn finer-grained segment as a by-product.
+* Since tokens in the same part of sentences will contribute the most to predictions of \[MASK], drifters are motivated to attend to tokens in the same part of sentences. Deep heads may learn finer-grained segment as a by-product, since most of drifters are traditiional separators (periods and commas).
 
 Conclusion
 ======
