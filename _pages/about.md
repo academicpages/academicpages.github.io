@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Alberto Chierici's home on the web!
+This is Alberto Chierici's home on the web! Find out about my book here 
 
 Quick blurb
 ======
