@@ -16,7 +16,7 @@ Published in ACM SIGCAS Conference on Computing and Sustainable Societies (COMPA
 
 Abstract: It is well documented that individuals of different races have disparate experiences in the criminal justice system in the United States. As most studies focus on Black-white interracial differences, intraracial disparities are often overlooked. Analyzing intraracial disparities is further complicated by the fact that it has been historically difficult to accurately and consistently measure skin tone and Afrocentric features. Utilizing convolutional neural networks and photos as data, this study creates a consistent, running measure of perceived race. Using this new measure and data type, new types of analysis are possible. This study will present photographic summary statistics, show the positive relationship between perceived race and sentence length is robust to the inclusion of various controls and, reevaluate traditional Black-white gaps, measuring both inter- and intraracial disparities.
 
-Full paper draft found ![here](Colorism.pdf)
+Full paper draft found [here](Colorism.pdf)
 ---
 
 
