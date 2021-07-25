@@ -43,9 +43,9 @@ Phase One
   1. In lower layers, some attention heads have very broad attention.
   2. Attention to \[CLS] is relativly higher than to other tokens.
 * Explanations:
-  1. Attention heads attend broadly to get information of tokens. Probably, insiders will stand out amoung all tokens.
+  1. Attention heads attend broadly to get information of tokens.
   2. \[CLS] is often attended, because it is a hunter. The heads attend to it for imformation about other tokens instead of the hunter itself.
-  
+* Insiders with narrow attention will probably stand out amoung all tokens. 
   
 Phase Two
 ======
@@ -69,7 +69,7 @@ Phase Three
 * **Hypothesis: Mased LM and high token frequency make attendance from drifters the main concern for deep heads**
 * Solid Results:
   1. Attention from \[CLS] is obviously broader than the average in the last layer. 
-  2. Periods and commas draw over half of attention in the last two layers. 
+  2. Over half of attention focuses on periods and commas in the last two layers. 
 * Explanations:
   1. \[CLS] attends broadly to aggregate a representation to fulfill NSP task. However, its influence on attention heads is very limited, since it is less frequent than drifters.
   2. **To highlight attendance from drifters**, other tokens need to avoid attending to the same tokens that drifters may attend to. Since drifters are motivated to attend to other tokens, they themselves become havens for those tokens to lie low. 
