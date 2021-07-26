@@ -9,7 +9,7 @@ en: &DEFAULT_EN
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   toc_label                  : "On This Page"
-  ext_link_label             : "Direct Link"
+  ext_link_label             : "External Link"
   less_than                  : "less than"
   minute_read                : "minute read"
   share_on_label             : "Share on"
