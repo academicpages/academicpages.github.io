@@ -12,6 +12,9 @@ I am a PhD student at Monash University working on gamma-ray bursts, neutron sta
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav. Starting from November, I will be joining NORDITA (Stockholm) as a NORDITA Fellow.
 
 # Recent News
+* July 18-23rd: This week I am attending the AMALDI meeting. I will be giving a talk on the multimessenger signatures of binary neutron star mergers.
+* July 15th: Today I submitted my PhD thesis titled _The observational signatures of nascent neutron stars_!! Hoping for a smooth review!
+* July 12-16th: I am attending the Annual ASA meeting this week (in hybrid format). Looking forward to listening to all the exciting science happening across Australia.
 * 4th June 2021: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ submitted to ApJL.
 * 1st June 2021: _The evolution of binary neutron star post-merger remnants: a review_ accepted in General Relativity and Gravitation.
 * 24th May 2021: _CDF XT1: The off-axis afterglow of a neutron star merger at z = 2.23_ submitted to ApJL.
