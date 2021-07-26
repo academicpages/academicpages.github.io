@@ -12,4 +12,7 @@ I'm Hannah-Marie Martiny and currently I am currently a PhD student in Bioinform
 
 Feel free to reach out to me, if you have any inquries! 
 
-You can also check out <a href="https://hmmartiny.github.io/files/CV_en.pdf" targeT="_blank">my CV here</a>.
+You can also check out <a href="/cv/" targeT="_blank">my CV here</a>.
+
+Publications:
+{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
