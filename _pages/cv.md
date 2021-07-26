@@ -15,22 +15,13 @@ Education
 * M.Sc. in Bioinformatics and Systems Biology, Technical University of Denmark, 2017-2019
 * B.Sc. in Biotechnology, Technical University of Denmark, 2014-2017
 
-Work experience
+Publications
 ======
-* 2017-2019: Student Assistant, in the data science team Advanced Analytics, Novozymes, Copenhagen
-  * Duties included:
-    * Data cleaning and visualizations
-    * Scraping data from online sources
-    * Building small apps for user to visualize data and modelling results
-
-* 2013-2017: Student Assistant, Unilabs A/S, Copenhagen
-  * Department and tasks included:
-    * Customer Service: tasks include managing the front desk and telephone service. Collecting and sorting internal paper work, receiving incoming mail or packages, and posting outgoing mail.
-    * Unilabs International: jobs are to enter patientdata into the database, sorting patient documents and helping with various tasks to support the rest of the team.
-    * Drug Development Services (DDS): tasks include to receive and handle blood samples to clinical studies, entering the patient data into the database, control of entered data and doing statistical work on those data. Packing sampling kits for blood samples to be send to customers.
+{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
 
 Projects
 ======
+* <a href="https://github.com/hmmartiny/Predicting-Gene-Expression" target="_blank">Deep protein representations enable recombinant protein expression</a> (2019-2021): Originally my Master thesis project, where the goal was to predict recombinant gene expression using deep learning methods. After I finished in 2019, we wrote the findings into a <a href="https://www.biorxiv.org/content/10.1101/2021.05.13.443426v1.full#fn-1" target="_blank">paper that is currently out on bioRxiv</a>.
 * <a href="https://github.com/mari756h/The_unemployed_cells" targeT="_blank">The Language of Life</a> (2018-2019): applying deep learning methods to predict amino acids in protein sequences.
   * Project originally started as part of the course 02456 Deep Learning at DTU
   * Applied Word2Vec and CNNs to protein sequence data
@@ -48,6 +39,21 @@ Skills
 * R 
 * Python
 * SQL
+
+Work experience
+======
+* 2019 : Research Assistant, Research Group for Genomic Epidemiology, Technical University of Denmark
+* 2017-2019: Student Assistant, in the data science team Advanced Analytics, Novozymes, Copenhagen
+  * Duties included:
+    * Data cleaning and visualizations
+    * Scraping data from online sources
+    * Building small apps for user to visualize data and modelling results
+
+<!-- * 2013-2017: Student Assistant, Unilabs A/S, Copenhagen
+  * Department and tasks included:
+    * Customer Service: tasks include managing the front desk and telephone service. Collecting and sorting internal paper work, receiving incoming mail or packages, and posting outgoing mail.
+    * Unilabs International: jobs are to enter patientdata into the database, sorting patient documents and helping with various tasks to support the rest of the team.
+    * Drug Development Services (DDS): tasks include to receive and handle blood samples to clinical studies, entering the patient data into the database, control of entered data and doing statistical work on those data. Packing sampling kits for blood samples to be send to customers. -->
 
 Hobbies
 ======
