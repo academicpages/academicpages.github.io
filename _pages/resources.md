@@ -56,9 +56,7 @@ Data Visualization
 * [Matplotlib Gallery](https://matplotlib.org/stable/index.html) for figure templates in Python
 * [Mastering Shiny](https://mastering-shiny.org/index.html) by Hadley Wickham (Shiny is a popular data app)
 * [From Data to Viz](https://www.data-to-viz.com/) helps match graph types to data types
-* [PySurfer](http://pysurfer.github.io/auto_examples/index.html#pysurfer-example-data) for visualizing human brain
 * [FURY](https://fury.gl/) a Python library for scientific visualization
-* [WagnerLabPapers](https://github.com/WagnerLabPapers/Waskom_CerebCortex_2017/blob/master/computational_model_figure.ipynb) for python codes used to generate fMRI figures in journals
 
 <br> 
 
@@ -93,23 +91,31 @@ Cloud Computing
 
 <br> 
 
-Neuroscience
+Neuroscience - General
 ======
 * [Functional Neuroanatomy](http://www.neuroanatomy.ca/) for an introduction to neuroanatomy with virtual brain dissection
 * [The INCF Training Space](https://training.incf.org/tutorials) contains videos of lectures and tutorials of using computational neuroscience tools 
-* [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp) introduces main methodologies in fMRI data analyses by Rebecca Saxe
-* [DIPY workshop](https://www.youtube.com/watch?v=1aHs21YAMWA&list=PLRZ9VSqV-6soOC0rUEAOV-QiSa_Qxk8JM) training videos given by DIPY developers for DTI (diffusion tensor imaging) analysis
 * [Neuroscience Gateway (NSG)](https://www.nsgportal.org/overview.html) gives neuroscientists free access to High Performance Computing resources
 * [EBRAINS](https://ebrains.eu/services) gives researchers access to shared and curated open data (including the [Human Brain Project](https://www.humanbrainproject.eu/en/) data)
+* [Allen Institute's The Virtual Science Lab](https://alleninstitute.org/about/education-outreach/#Lessons) teaches researchers how to use open data from Allen Institute in class
+* [BrainFacts.org](https://www.brainfacts.org/) for fun facts of the human brain (The book [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) is also the guide book for Brain Bee events)
+* [Increasing Women in Neuroscience (IWiN)](https://neuronline.sfn.org/collection/increasing-women-in-neuroscience?utm_campaign=Neuronline%20&utm_medium=email&_hsmi=117243239&_hsenc=p2ANqtz--j3ctZ6te-QsuO7owUDu1O0yHywLwkB5Gjos6XD2U3ICzV1SULuXLto7Y5YoMr5T9T36VtRlc-2sI_ABmcx0jrUP_L7w&utm_content=116599735&utm_source=hs_email) interactive courses, toolkits, and related resources
+* [Environmental Psychology](https://www.youtube.com/playlist?list=PLA2E69FC89640C272&app=desktop) lectures by Prof. Daniel Stokols
+
+<br> 
+
+Neuroscience - MRI imaging processing
+======
+* [A simple but useful way to assess fMRI scan qualities](https://www.sciencedirect.com/science/article/pii/S1053811916303871) an effective first-step to check your fMRI data
+* [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp) introduces main methodologies in fMRI data analyses by Rebecca Saxe
+* [DIPY workshop](https://www.youtube.com/watch?v=1aHs21YAMWA&list=PLRZ9VSqV-6soOC0rUEAOV-QiSa_Qxk8JM) training videos given by DIPY developers for DTI (diffusion tensor imaging) analysis
 * [NiMARE](https://nimare.readthedocs.io/en/latest/) a Python package for neuroimaging meta-analysis
 * [Nobrainer](https://github.com/neuronets/nobrainer) provides a deep learning framework for 3D image processing and pre-trained models for brain extraction, brain segmentation, brain generation, etc.
 * [Nitime](https://nipy.org/nitime/users/overview.html) a Python package for time series analysis in neuroscience
 * [Mindboggle](https://mindboggle.readthedocs.io/en/latest/) a platform that takes in preprocessed T1-weighted MRI data and outputs different types of brain morphometry
 * Neuroscience Workflow Systems: [Nipype](https://nipype.readthedocs.io/en/latest/), [Pydra](https://pydra.readthedocs.io/en/latest/), [snakemake](https://snakemake.readthedocs.io/en/stable/), [Nextflow](https://www.nextflow.io/)
-* [Allen Institute's The Virtual Science Lab](https://alleninstitute.org/about/education-outreach/#Lessons) teaches researchers how to use open data from Allen Institute in class
-* [BrainFacts.org](https://www.brainfacts.org/) for fun facts of the human brain (The book [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) is also the guide book for Brain Bee events)
-* [Increasing Women in Neuroscience (IWiN)](https://neuronline.sfn.org/collection/increasing-women-in-neuroscience?utm_campaign=Neuronline%20&utm_medium=email&_hsmi=117243239&_hsenc=p2ANqtz--j3ctZ6te-QsuO7owUDu1O0yHywLwkB5Gjos6XD2U3ICzV1SULuXLto7Y5YoMr5T9T36VtRlc-2sI_ABmcx0jrUP_L7w&utm_content=116599735&utm_source=hs_email) interactive courses, toolkits, and related resources
-* [Environmental Psychology](https://www.youtube.com/playlist?list=PLA2E69FC89640C272&app=desktop) lectures by Prof. Daniel Stokols
+* [PySurfer](http://pysurfer.github.io/auto_examples/index.html#pysurfer-example-data) for visualizing human brain
+* [WagnerLabPapers](https://github.com/WagnerLabPapers/Waskom_CerebCortex_2017/blob/master/computational_model_figure.ipynb) for python codes used to generate fMRI figures in journals
 
 <br> 
 
@@ -170,6 +176,7 @@ Professional Development
 * [Guide to Cover Letters](https://www.training.nih.gov/assets/OITE_Guide_to_Cover_Letters.pdf) from NIH
 * [Requesting Letters of Recommendation](https://inclusion.bio.uci.edu/resources/undergraduate-students/requesting-letters-of-recommendation/) suggestions for requesting letters of recommendation
 * [The Professor Is In](https://theprofessorisin.com/) a blog about navigating different stages of academic career
+* [The Quick and Relatively Painless Guide to Your Academic Job Search](http://postdocs.yale.edu/sites/default/files/files/Quick%20and%20Painless%20Academic%20Job%20Search%20Guide.pdf) by Dr. Karen Kelsky
 * [Letters to Young Scientists](https://www.sciencemag.org/tags/letters-young-scientists) Science Careers' column with insightful suggestions to professional development
 * [Prof. Brad Voytek's Lab Philosophy](https://voyteklab.com/philosophy) about mentorship, grades, imposter syndrome - very inspiring
 * [MindTools](https://www.mindtools.com/) Toolkits for developing skills including time management, leadership, communications, etc.
