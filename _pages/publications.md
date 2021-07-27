@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-  You can also find my publications on {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>
+  You can also find my publications on {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}
 
 <h3>Year of Publication</h3>
 <ul style="padding-left: 1em;">
