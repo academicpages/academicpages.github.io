@@ -12,8 +12,14 @@ redirect_from:
 Education
 ======
 * **M.Tech in Earth System Sciences**, Indian Institute of Technology Gandhinagar, 2021 (expected)
-* **PG Diploma in Remote Sensing and GIS**, Indian Institute of Remote Sensing, 2019
+  * Supervisor: Dr. Vimal Mishra, Associate Professor, IIT Gandhinagar
+  * Thesis: "On the causes of tropical cyclone driven floods in India"
+* **PG Diploma in Remote Sensing and GIS**, Indian Institute of Remote Sensing-ISRO, 2019
+  * Supervisor: Dr. Charu Singh, Scientist-SE, IIRS-ISRO
+  * Thesis: "“Assessment of model simulated dust using satellite data"
 * **M.Sc (5-Year Integrated) in Applied Geology**, Pondicherry University, 2018
+  * Supervisor: Dr. Rajneesh Bhutani, Professor, Pondicherry University
+  * Thesis: “Petrogenesis of Neoproterozoic Granitoids from Sankaridurg: Constraints from Petrography and Whole-rock Trace Element Study"
 
 
 Work experience
@@ -25,17 +31,9 @@ Work experience
   
 Skills
 ======
-* **Linguistics**
-  * Malayalam
-  * English
-  * Hindi
-* **Programming**
-  * MATLAB
-  * Python
-* **Geographic Information System**
-  * ArcGIS
-  * QGIS
-  * ENVI
+* **Linguistics**: Malayalam, English, Hindi
+* **Programming**: MATLAB, Python
+* **Softwares**: ArcGIS, QGIS, ENVI, Geographic Mapping Tool
 
 Laboratory Experience
 ======
