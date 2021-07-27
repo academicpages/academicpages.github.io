@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
  {% if site.author.googlescholar or site.author.dblp %}
-  You can also find my publications on {% if site.author.dblp %} <a href="{{site.author.dblp}}">my dblp profile</a> {% endif %} {% if site.author.googlescholar and site.author.dblp %} and {% endif %} {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
+  You can also find my publications on {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
  {% endif %}
 
 <h3>Year of Publication</h3>
