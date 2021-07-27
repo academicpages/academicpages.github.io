@@ -46,6 +46,7 @@ Laboratory Experience
 
 FELLOWSHIPS / AWARDS
 ======
+* IIT Gandhinagar cash award for Journal Publication-**2021** <br>
 * Qualified Graduate Aptitude Test in Engineering (Geology & Geophysics)-**2019** <br>
 * Qualified CSIR-UGC National Eligibility Test (Lectureship) in Earth Sciences-**2018** <br>
 * University Scholarship for Integrated M.Sc, Pondicherry University-**2013** <br>
