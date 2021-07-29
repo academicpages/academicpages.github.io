@@ -183,7 +183,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  cs5604F21:
+  CS5604F21:
       output: true
       permalink: /:collection/:path/
 
@@ -216,10 +216,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _cs5604F21
+  # _CS5604F21
   - scope:
       path: ""
-      type: cs5604F21
+      type: CS5604F21
     values:
       layout: single
       author_profile: true
