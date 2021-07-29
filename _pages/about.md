@@ -27,4 +27,5 @@ violence using a broad variety of methods such as latent variable models,
 geospatial analysis, and big data. While I primarily focus on civil conflict, I
 also examine contentious political phenomena including terrorism and economic
 statecraft. I have [teaching](teaching) experience in both international
-relations and quantitative methodology.
+relations and quantitative methodology and am a certified instructor with
+[The Carpentries](https://carpentries.org/).
