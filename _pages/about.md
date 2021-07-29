@@ -32,7 +32,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     <li>Multi-modal Program Inference: a Marriage of Pre-trained Language Models and Component-based Synthesis
     <br />
     <font size="3">
-      (Kia Rahmani, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
+      (<b>Kia Rahmani</b>, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
     </font> <br /> <font size="2">
        <a href="https://2021.splashcon.org/track/splash-2021-oopsla"> 
       [OOPSLA'21: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]</a>
@@ -45,7 +45,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     <li>Repairing Serializability Bugs in Distributed Database Programs via Automated Schema Refactoring
     <br />
     <font size="3">
-      (Kia Rahmani, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
+      (<b>Kia Rahmani</b>, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
     </font> <br /> <font size="2">
     <a href="https://dl.acm.org/doi/10.1145/3453483.3454028"> 
       [PLDI'21: ACM SIGPLAN Conference on Programming Language Design and Implementation]</a>
@@ -60,7 +60,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     <li>CLOTHO: Directed Test Generation for Weakly Consistent Database Systems
     <br />
     <font size="3">
-      (Kia Rahmani, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
+      (<b>Kia Rahmani</b>, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan)
     </font> <br /> <font size="2">
     <a href="https://dl.acm.org/citation.cfm?doid=3366395.3360543"> 
       [OOPSLA'19: ACM Conference on Object-Oriented Programming, Languages,
@@ -85,7 +85,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     <li>Fine-grained Distributed Consistency Guarantees with Effect Orchestration
     <br />
     <font size="3">
-      (Kia Rahmani, Gowtham Kaki and Suresh Jagannathan)
+      (<b>Kia Rahmani</b>, Gowtham Kaki and Suresh Jagannathan)
     </font>
     <br />
     <font size="2">
