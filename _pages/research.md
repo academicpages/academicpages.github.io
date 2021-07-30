@@ -9,9 +9,10 @@ author_profile: true
 
 [When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi](http://hyukhson.github.io/files/malawi_student_incentive.pdf) (with [James Berry](https://sites.google.com/site/econjimberry/) and [Hyuncheol Bryant Kim](https://sites.google.com/site/hk2405/home)), *submitted*
 
-[Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf)
+[Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf), *submitted*
+
+[Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency](http://hyukhson.github.io/files/Kaila_al_2021_Cameroon_Conflict_Child_Welfare.pdf) (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo), *submitted*
 
 ## Work in Progress
 The Effect of Microinsurance on Child Work and Schooling: Evidence from northern Kenya and southern Ethiopia
 
-Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo)
