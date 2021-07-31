@@ -17,8 +17,11 @@ My research interests lie within the intersection of Natural Language Processing
 * [Aug. 2020] Got one papers accepted at EMNLP 2020 (Findings).
 
 ## Professional Services
+* Reviewer Assistant: EMNLP/ACL 2021
+<!---
 * Program Committee Member: EMNLP 2021 
 * Review Assistant: ACL 2021
+-->
 
 ## Preprint
 ## Publications
