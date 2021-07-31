@@ -24,3 +24,17 @@ locomotion modes. Two climbing gaits were proposed to achieve smooth steps negot
 for the energy evaluation purposes. Simulations showed autonomous locomotion mode transitions
 were realized for negotiations of steps with different height. The proposed method is generic enough
 to be utilized to other hybrid robots after some pre-studies of their locomotion’s energy performances. 
+
+**Full Body Step Negotiation Gait:**
+<div style="text-align: center">
+<img src="https://jwangjie.github.io/files/phd_transition.gif" 
+     width="717px" height="403px"/>
+</div>
+
+&nbsp;
+
+**Locomotion Mode Transition:**
+<div style="text-align: center">
+<img src="https://jwangjie.github.io/publications/publications/arXiv2019.gif" 
+     width="717px" height="403px"/>
+</div>
