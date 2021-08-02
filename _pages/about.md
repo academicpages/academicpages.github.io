@@ -25,10 +25,16 @@ Research
 
 
 
+
 Technical Report
 ======
 
 |<figure style="width: 120px"> <img src="https://jhcho90.github.io/images/database2.PNG" alt=""> </figure> | **DIML/CVL RGB-D Dataset:**<br/>**2M RGB-D Images of Natural Indoor and Outdoor Scenes** <br/>[Report](https://jhcho90.github.io/files/technical_report.pdf) |
+
+
+
+
+
 
 
 
