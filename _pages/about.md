@@ -24,7 +24,7 @@ My research interests lie within the intersection of Natural Language Processing
 <!-- * Review Assistant: ACL 2021 -->
 
 ## Preprint
-* Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. Knowledge Inheritance for Pre-trained Language Models (ArXiv). [[pdf]](https://arxiv.org/abs/2105.13880)
+* Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. Knowledge Inheritance for Pre-trained Language Models (ArXiv). [[pdf]](https://arxiv.org/abs/2105.13880) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
 
 ## Publications
 ### 2021
