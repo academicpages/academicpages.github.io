@@ -80,10 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Abe Hofman"
   avatar           : "profile.png"
-  bio              : "Assistant Professor Psychological Methods | University of Amsterdam
-                      Data Science | Prowise Learn"
+  bio              : "Assistant Professor Psychological Methods at University of Amsterdam & Data Science at Prowise Learn"
   location         : "Amsterdam | The Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
