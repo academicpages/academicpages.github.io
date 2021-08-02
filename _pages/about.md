@@ -11,7 +11,8 @@ redirect_from:
 I am a Ph.D. student in Electronic Engineering at Yonesei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
 I have experienced computer vision tasks such as 2D/3D computer vision (monocular depth estimation and confidence measure estimation), bad weather restoration (de-raining), and future frame prediction with future frame segmentation, and anomaly detection. 
 
-
+ <br/>
+ <br/>
 
 
 
@@ -24,15 +25,17 @@ Research
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/ICME.png" alt=""> </figure> | **Multi-task Self-supervised Visual Representation Learning for Monocular RoadSegmentation**<br/>**Jaehoon Cho**, Youngjung Kim, Hyungjoo Jung, Changjae Oh, Jaesung Youn, Kwanghoon Sohn Sohn<br/>IEEE International Conference on Multimedia and Expo **(ICME)** 2018 **(Oral Presentation)**  <br/>[Paper](https://jhcho90.github.io/files/road_ICME2018.pdf) \| [Data](https://drive.google.com/file/d/1RgDBR_HNAVnyqQplIWRMSkT-7V93mUjz/view?usp=sharing) |
 
 
-
+ <br/>
+ <br/>
 
 Technical Report
 ======
 
-|<figure style="width: 140px"> <img src="https://jhcho90.github.io/images/database2.PNG" alt=""> </figure> | **DIML/CVL RGB-D Dataset:**<br/>**2M RGB-D Images of Natural Indoor and Outdoor Scenes** <br/>[Report](https://jhcho90.github.io/files/technical_report.pdf) |
+|<figure style="width: 140px"> <img src="https://jhcho90.github.io/images/database3.PNG" alt=""> </figure> | **DIML/CVL RGB-D Dataset:**<br/>**2M RGB-D Images of Natural Indoor and Outdoor Scenes** <br/>[Report](https://jhcho90.github.io/files/technical_report.pdf) |
 
 
-
+ <br/>
+ <br/>
 
 
 
