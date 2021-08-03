@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I recently earned my Ph.D. in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). During my Ph.D. studies, I have had the fortune to work with Prof. [Michael Orchard](https://profiles.rice.edu/faculty/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/lantao_yu_cv_june_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
+* I recently earned my Ph.D. in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). During my Ph.D. studies, I have had the fortune to work with Prof. [Michael Orchard](https://profiles.rice.edu/faculty/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/lantao_yu_cv_august_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
 * My research interests lie in the area of image processing and computational photography, particularly in image interpolation, aliasing mitigation for image display, fusion, and compression.
 * I had a great summer as a research intern at Facebook in Menlo Park, CA. 
 * I had a great summer as a research intern at MERL in Cambridge, MA. 
@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-* July 23, 2021. One journal paper submitted to IEEE Transactions on Image Processing. 
+* July 30, 2021. One journal paper submitted to IEEE Transactions on Image Processing. 
 * June 4, 2021. The journal paper "Fast and High-Quality Multi-spectral Image Pansharpening" has been accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 * May 20, 2021. Two conference papers accepted by ICIP 2021. 
 * May 15, 2021. I earned my Ph.D. in Electrical and Computer Engineering at Rice University. 
