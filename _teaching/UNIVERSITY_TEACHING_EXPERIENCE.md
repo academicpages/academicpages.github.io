@@ -12,8 +12,8 @@ location: "United States"
 
 <b><big> Instructor of Record, "Psychology Fundamentals"</big></b><br> <b>Department of Cognitive Sciences, UCI, Summer 2021</b>
 
-* Design the content structure, assignments, discussions, exams, grading metrics, and supervise TA activities
-* Give accumulated 4.5 h-long weekly lectures to 50 undergraduate students on in-depth general psychology topics, including learning, memory, motivation, thought processes, emotion, language, and development
+* Designed the content structure, assignments, discussions, exams, grading metrics, and supervise TA activities
+* Gave accumulated 4.5 h-long weekly lectures to 50 undergraduate students on in-depth general psychology topics, including learning, memory, motivation, thought processes, emotion, language, and development
 
 
 <br>
