@@ -28,13 +28,14 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 ## Published
 
 ### 2021 - 
+* __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. (2021). Predicting species distributions and community composition using satellite remote sensing predictors. _Scientific Reports (accepted)_. [Preprint](https://doi.org/10.21203/rs.3.rs-345639/v1).
+
 * Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, __J.N. Pinto-Ledezma__, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis and Y. Yang. (2021). [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). _Research Ideas and Outcomes, 7: e63850_. 
 
 ### 2019 - 2020
 * __Pinto-Ledezma, J.N.__, F. Villalobos, P.R. Reich, J.A. Catford, D.L. Larkin & J. Cavender-Bares. 2020. [Testing Darwin's naturalization conundrum based on taxonomic, phylogenetic and functional dimensions of vascular plants](https://doi.org/10.1002/ecm.1420). _Ecological Monographs, 90(4): e01420_.
 
 * Cavender-Bares, J., C. Fontes & __J.N. Pinto-Ledezma__. 2020. [Open questions in understanding the adaptive significance of plant functional trait variation within a single lineage](https://doi.org/10.1111/nph.16652). _New Phytologist, 227(3): 659-663_. 
-
 * __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. 2020. [Using remote sensing for modeling and monitoring species distributions](https://doi.org/10.1007/978-3-030-33157-3_9). In Cavender-Bares, J., J. Gamon & P. Townsend (Eds.) Remote Sensing of Plant Biodiversity. _Springer Remote Sensing/Photogrammetry Series_.
 
 * Cavender-Bares, J., A. Schweiger, __J.N. Pinto-Ledezma__ & J.E. Meireles. 2020. [Applying remote sensing to biodiversity science](https://doi.org/10.1007/978-3-030-33157-3_2). In Cavender-Bares, J., J. Gamon & P. Townsend (Eds.) Remote Sensing of Plant Biodiversity. _Springer Remote Sensing/Photogrammetry Series_.
@@ -109,8 +110,6 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ## Under review - revision
 * Fontes, C., __J.N. Pinto-Ledezma__, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. (Under revision). Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments. 
-
-* __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. (Under review). Predicting species distributions and community composition using satellite remote sensing predictors. [Preprint](https://doi.org/10.21203/rs.3.rs-345639/v1)
 
 * Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
 
