@@ -11,13 +11,13 @@ author_profile: true
 <br>
 <b>[Manifold-Inspired Single Image Interpolation](http://complexfilter.github.io/publications/TIP2021)</b> <br> 
 <b>Lantao Yu</b>, Kuida Liu, Michael T. Orchard.
-<i>IEEE Transactions on Image Processing</i>. <span style="color:red">Arxiv: https://arxiv.org/abs/2108.00145</span>
+<i>IEEE Transactions on Image Processing (submitted) </i>. <span style="color:red">https://arxiv.org/abs/2108.00145</span>
 
 
 <br>
 <b>[Fast and High-Quality Blind Multi-spectral Image Pansharpening](http://complexfilter.github.io/publications/TGRS2021)</b> <br> 
 <b>Lantao Yu</b>, Dehong Liu, Hassan Mansour, Petros T. Boufounos.
-<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <span style="color:red">:https://ieeexplore.ieee.org/document/9491792</span>
+<i>IEEE Transactions on Geoscience and Remote Sensing (online)</i>. <span style="color:red">https://ieeexplore.ieee.org/document/9491792</span>
 
 <br>
 <b>[Blind Multi-spectral Image Pansharpening](http://complexfilter.github.io/publications/ICASSP2020)</b> <br> 
