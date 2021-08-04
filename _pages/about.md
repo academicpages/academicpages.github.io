@@ -22,7 +22,7 @@ redirect_from:
 * May 15, 2021. I earned my Ph.D. in Electrical and Computer Engineering at Rice University. 
 * April 30, 2021. I submitted the final version of my Ph.D. thesis. 
 * March 15, 2021. One journal paper submitted to IEEE Transactions on Geoscience and Remote Sensing. 
-* Feb, 2020. Two conference papers submitted by ICIP.
+* Feb, 2020. Two conference papers submitted to ICIP 2021.
 * Dec 3rd, 2020. I defended my Ph.D..
 * Jun 1st, 2020. I started my internship at Facebook AR VR team.
 * April 8, 2020. One patent filed.
