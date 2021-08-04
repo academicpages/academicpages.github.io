@@ -9,7 +9,7 @@ author_profile: true
 
 
 <br>
-<b>[FManifold-Inspired Single Image Interpolation](http://complexfilter.github.io/publications/TIP2021)</b> <br> 
+<b>[Manifold-Inspired Single Image Interpolation](http://complexfilter.github.io/publications/TIP2021)</b> <br> 
 <b>Lantao Yu</b>, Kuida Liu, Michael T. Orchard.
 <i>IEEE Transactions on Image Processing</i>. <span style="color:red">Arxiv: https://arxiv.org/abs/2108.00145</span>
 
