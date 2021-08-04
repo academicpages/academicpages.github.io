@@ -13,6 +13,7 @@ I am a 2nd-year PhD student in the [Department of Computer Science and Technolog
 My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models, Transfer Learning, Contrastive Learning, Knowledge Graph, etc. You can find my CV [here](/cv/).
 
 ## News
+* [Aug. 2021] Got one paper accepted at TASLP 2021 (Journal). 
 * [Feb. 2021] Got one paper accepted at WWW 2021 (Workshop). 
 * [Aug. 2020] Got one papers accepted at EMNLP 2020 (Findings).
 
