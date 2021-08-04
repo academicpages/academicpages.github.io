@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yusheng Su / 蘇裕勝"
+title                    : "Yusheng Su"
 title_separator          : "-"
 name                     : &name "Yusheng Su"
 description              : &description "NLP researcher, PhD student at Tsinghua University"
