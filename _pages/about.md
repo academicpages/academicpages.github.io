@@ -82,15 +82,16 @@ Publications
 
 
 
-Videos & Media
+Professional Activity
 ==============
 <ul>
 	<li>
-		<b>Demo: Enabling Public Cameras to Talk to the Public</b>
-		<br/>
-		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
-		<br/>
-		ACM MobiSys 2018, <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
+		Program Committee Member, ACM S<sup>3 Workshop (co-located with MobiCom), 2021
+	</li>
+</ul>
+<ul>
+	<li>
+		External Reviewer, Annual Computer Security Applications Conference (ACSAC), 2021
 	</li>
 </ul>
 
