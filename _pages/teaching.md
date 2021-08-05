@@ -10,19 +10,19 @@ author_profile: true
 
 > Seminar on Comparative Economic Development    
     - <sub>Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Fall_2020.pdf)  
-    - Spring 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Spring_2020)
+    - Spring 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON413-Spring_2020.pdf)
 
 >Intermediate Microeconomics  
-    - <sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Econ 253 Spring 2021 Syllabus)    
+    - <sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Econ 253 Spring 2021 Syllabus.pdf)    
     - Fall 2020
 
 >Principles of Economics  
-    - <sub>Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus_Fall_2020)  
+    - <sub>Fall 2020 [Syllabus](http://henriqueveras.github.io/files/Syllabus_Fall_2020.pdf)  
     - Spring 2020   
     - Fall 2019
 
 > Economic Development   
-    - <sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON209-Spring2021)   
+    - <sub>Spring 2021 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECON209-Spring2021.pdf)   
     - Fall 2019
   
 ### University of Illinois at Urbana-Champaign
@@ -33,7 +33,7 @@ author_profile: true
     - Summer 2014
 
 >Development Economics   
-    - <sub>Spring 2019 [Syllabus](http://henriqueveras.github.io/files/Syllabus-Spring-2019)   
+    - <sub>Spring 2019 [Syllabus](http://henriqueveras.github.io/files/Syllabus-Spring-2019.pdf)   
     - Fall 2018  
     - Summer 2017   
     - Spring 2017   
