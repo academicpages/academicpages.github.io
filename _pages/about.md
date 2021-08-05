@@ -86,7 +86,7 @@ Professional Activity
 ==============
 <ul>
 	<li>
-		Program Committee Member, ACM S<sup>3 Workshop (co-located with MobiCom), 2021
+		Program Committee Member, ACM S<sup>3</sup> Workshop (co-located with MobiCom), 2021
 	</li>
 </ul>
 <ul>
