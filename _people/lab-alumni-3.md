@@ -9,7 +9,7 @@ collection: people
 
 ### Micaela Pullen
 
-<img align="left" src='/images/MicaelaPullen.jpg' height='100' width='133'> Micaela completed her masters of science with Sarah, working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
+<img align="left" src='/images/MicaelaPullen.jpg' height='100' width='133'> Micaela completed her masters of science with Sarah in 2021, working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
 
 <br>  
 <br>
