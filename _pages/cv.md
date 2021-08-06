@@ -79,6 +79,8 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
+* <b>Cheng, Y.</b>, Chrastil, E.R.. Head direction signals during navigation: comparing movement and stationary periods. Spatial Cognition, Virtual. Aug., 2021. [[news](https://lilianyou.github.io/posts/2021/8/blog-post-1/)]
+
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in a Complex Environment. Annual Meeting of the Organization for Human Brain Mapping (OHBM), Virtual. June, 2021. [[news](https://lilianyou.github.io/posts/2021/6/blog-post-3/)]
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in Human Navigation.
