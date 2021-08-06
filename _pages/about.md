@@ -12,7 +12,7 @@ redirect_from:
 
 [CV](/files/vita_AiyiLi.pdf) [日本語CV](/files/vita_AiyiLi_jp.pdf)
 
-Master Student,  
+Master student,  
 [Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/),  
 Graduate School of Information Science and Technology,  
 Osaka University, Japan
