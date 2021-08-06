@@ -1,15 +1,14 @@
 ---
-title: "Bio"
+title: "Personal Bio"
 layout: archive
 author_profile: true
 permalink: /bio/
 ---
 
-I grew up in Saint Paul, MN, where I developed a thick skin for cold weather. Outside of astronomy, I have played soccer for most of my life. In college, I played for the Penn Women's Club Soccer Team, where we reached the NIRSA national club tournament twice. I currently play soccer with the Chicago Fire Rec soccer league on weekends in Chicago. 
-
+I grew up in Saint Paul, MN. Outside of astronomy, I like to play soccer and run by the Chicago lakefront. Below is a picture of me with my college soccer team!
 ![Picture of my club soccer team in college](../images/IMG_0015.jpeg)
 
-I'm also a huge Game of Thrones fan-- one of my life goals is to visit all the major Game of Thrones filming sites. 
+I also love to read and watch Game of Thrones. I hope to someday visit all of the Game of Thrones filming sites!
 
 
 <figure class="half">
