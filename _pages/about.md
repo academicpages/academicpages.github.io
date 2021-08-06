@@ -44,4 +44,4 @@ Technical Report
 CV
 ======
 
-Here's my [CV](https://jhcho90.github.io/files/CV_JH.pdf)
+Here's my [CV](https://jhcho90.github.io/files/CV_Jae_hoon.pdf)
