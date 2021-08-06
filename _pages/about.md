@@ -42,10 +42,14 @@ My research interests lie within the intersection of Natural Language Processing
 
 ## Experiences
 
-###Tsinghua NLP Lab. (Beijing) 09.2019 - 06.2023
-* ph.D. student 
+### Tsinghua NLP Lab. (Beijing) 09.2019 - 06.2023
+* Ph.D. Student 
 * Advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
+
+### MediaTek. (Taiwan) 07.2018 - 08.2019
+* Deep/Machine Learning Engineer Intern
+* Advised by Jing-Han Wang.
 
 ### Microsoft. (Taiwan) 07.2015 - 07.2016
 * Research & Development Intern
-* Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/).
+* Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
