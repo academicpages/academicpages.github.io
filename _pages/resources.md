@@ -177,6 +177,7 @@ Professional Development
 * [Requesting Letters of Recommendation](https://inclusion.bio.uci.edu/resources/undergraduate-students/requesting-letters-of-recommendation/) suggestions for requesting letters of recommendation
 * [The Professor Is In](https://theprofessorisin.com/) a blog about navigating different stages of academic career
 * [The Quick and Relatively Painless Guide to Your Academic Job Search](http://postdocs.yale.edu/sites/default/files/files/Quick%20and%20Painless%20Academic%20Job%20Search%20Guide.pdf) by Dr. Karen Kelsky
+* [Academic Application Materials](https://career.uci.edu/graduate/academic-careers/writing-a-teaching-philosophy/)
 * [Letters to Young Scientists](https://www.sciencemag.org/tags/letters-young-scientists) Science Careers' column with insightful suggestions to professional development
 * [Prof. Brad Voytek's Lab Philosophy](https://voyteklab.com/philosophy) about mentorship, grades, imposter syndrome - very inspiring
 * [MindTools](https://www.mindtools.com/) Toolkits for developing skills including time management, leadership, communications, etc.
