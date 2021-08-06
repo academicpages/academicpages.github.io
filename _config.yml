@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ky200120000
+  username               : thu_yushengsu
 facebook:
   username               : yushengcool
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tv5w1oEAAAAJ&hl"
-  email            : "suys19@mails.tsinghua.edu.cn, ky200120000@gmail.com"
+  email            : "suys19@mails.tsinghua.edu.cn, yushengsu.thu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ky200120000"
+  twitter          : "thu_yushengsu"
   vine             :
   weibo            :
   xing             :
