@@ -7,7 +7,8 @@ permalink: /research/
 
 The JAGB Method
 ======
-![Figure from Madore & Freedman 2020](.../images/jagb.jpeg)
+
+![Figure from Madore & Freedman 2020](../images/IMG_0015.jpeg)
 
 Measuring the Hubble constant (H0), precisely and accurately, has remained a challenging problem in astronomy. H0 parameterizes the current expansion rate of the universe, and together with measurements of the cosmic microwave background (CMB) radiation, provides a powerful constraint on the standard model of cosmology. 
 Because of its significance, the value of H0 has undergone intense scrutiny and re-determination over the past few decades. Currently, early universe measurements of H0 inferred from the measurements of the power spectra of temperature and polarization anisotropies of the CMB appear to differ by 4-6 sigma from measurements directly measured by late-time universe distance ladders.  This discrepancy leads to the following questions: Are the systematic errors of individual measurements causing the Hubble tension, or do we need to reform the standard ΛCDM physics model so that early-time predictions and late-time observations of H0 converge? 
