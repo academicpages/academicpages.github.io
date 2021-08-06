@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /jp/
 title: "私について"
 excerpt: "私について"
 author_profile: true
