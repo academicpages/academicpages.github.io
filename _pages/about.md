@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student in the UChicago Department of [Astronomy & Astrophysics](https://astrophysics.uchicago.edu/). My research is in observational cosmology: I am currently working on measuring the Hubble constant to high precision and accuracy using the Tip of the Red Giant (TRGB) and newly-developed J-region Asymptotic Giant Branch methods. My advisor is [Wendy Freedman](https://astrophysics.uchicago.edu/people/profile/wendy-l.-freedman/). 
-
+I'm a Ph.D. student in the UChicago Department of [Astronomy & Astrophysics](https://astrophysics.uchicago.edu/). I am an observational cosmologist. I am currently focusing on developing high-precision local distance indicators, like the JAGB method and TRGB, to measure the Hubble constant. I am also interested in using strongly lensed quasar systems to measure cosmological parameters with the [TDCOSMO](http://www.tdcosmo.org/) collaboration.
 I was an undergrad at [Penn](https://www.physics.upenn.edu/), where I worked with [Gary Bernstein](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/gary-bernstein). I graduated with a B.A. in Physics in 2019. 
 
 
