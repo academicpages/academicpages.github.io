@@ -3,6 +3,12 @@ permalink: /
 title: "私について"
 excerpt: "私について"
 author_profile: true
+redirect_from: 
+  - /about_jp/
+  - /about_jp.html
+  - /jp/
+  - /jp.html
+
 ---
 
 
