@@ -10,13 +10,22 @@ redirect_from:
 
 
 
-[CV](/files/vita_AiyiLi.pdf)    [日本語CV](/files/vita_AiyiLi_jp.pdf)
+[CV](/files/vita_AiyiLi.pdf) [日本語CV](/files/vita_AiyiLi_jp.pdf)
 
-Master Student, \\
-[Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/), \\
-<!-- Department of Bioinformatic Engineering, \\ -->
-Graduate School of Information Science and Technology, \\
+Master Student,  
+[Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/),  
+Graduate School of Information Science and Technology,  
 Osaka University, Japan
+
+## Work experience
+
+Internship to be added++.
+
+Technical Assistant, Center for lnternational Education and Exchange ([CIEE](https://ciee.osaka-u.ac.jp/en/)), Osaka University.
+
+Research Assistant, Institute of Social and Economic Research ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)), Osaka University, Summer 2021.
+
+Data structure subject programming teacher, Cram school for graduate school  
 
 ## Reading Book
 
@@ -27,8 +36,10 @@ Osaka University, Japan
 
 Slide for Progress Report
 
-<script async class="speakerdeck-embed" data-id="33d1cd9e2c944d31a9c0030b979b0d1b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-slide="1" data-id="f3e79a213102427193d7c508bdf77f02" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-(Still need some adjustments like in structure or mathematics formulas.)
+<script async class="speakerdeck-embed" data-slide="1" data-id="fbc8bd68d6934f66842fdd65bead31c4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 <!-- The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots). -->
 ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"}
+
