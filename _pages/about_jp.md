@@ -32,7 +32,9 @@ author_profile: true
 
 ## 私の羊飼い研究
 
-進捗報告のスライド
+キーワード：群知能、マルチエージェントシステム、動作計画
+
+タスク：複数の牧羊犬が協力して羊の群れをゴールゾーンに向けて誘導します
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="f3e79a213102427193d7c508bdf77f02" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 

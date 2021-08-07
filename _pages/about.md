@@ -34,7 +34,9 @@ Data structure subject programming teacher, Cram school for graduate school entr
 
 ## My Shepherding Research
 
-Slide for Progress Report
+Keywords: Swarm Intelligence, Multi-agent System, Motion Planning
+
+Task: Multiple sheepdogs guide the sheep flock towards the goal zone cooperatively.
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="f3e79a213102427193d7c508bdf77f02" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
