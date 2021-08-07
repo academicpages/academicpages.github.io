@@ -23,7 +23,7 @@ Internship to be added++.
 
 Technical Assistant, Center for lnternational Education and Exchange ([CIEE](https://ciee.osaka-u.ac.jp/en/)), Osaka University.
 
-Research Assistant, Institute of Social and Economic Research ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)), Osaka University & Department ofEconomics, Simon Fraser University, Summer 2021.
+Research Assistant, Institute of Social and Economic Research ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)), Osaka University & Department of Economics, Simon Fraser University, Summer 2021.
 
 Data structure subject programming teacher, Cram school for graduate school entrance.
 
