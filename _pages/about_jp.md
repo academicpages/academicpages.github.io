@@ -32,14 +32,14 @@ author_profile: true
 
 ## 私の羊飼い研究
 
-キーワード：群知能、マルチエージェントシステム、動作計画
-
+キーワード：群知能、マルチエージェントシステム、動作計画  
 タスク：複数の牧羊犬が協力して羊の群れをゴールゾーンに向けて誘導します
+
+進捗報告ためのスライド
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="f3e79a213102427193d7c508bdf77f02" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="fbc8bd68d6934f66842fdd65bead31c4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-進捗報告ためのスライド
 <!-- The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots). -->
 <!-- ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"} -->

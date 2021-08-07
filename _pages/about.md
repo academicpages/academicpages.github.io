@@ -34,15 +34,15 @@ Data structure subject programming teacher, Cram school for graduate school entr
 
 ## My Shepherding Research
 
-Keywords: Swarm Intelligence, Multi-agent System, Motion Planning
-
+Keywords: Swarm Intelligence, Multi-agent System, Motion Planning  
 Task: Multiple sheepdogs guide the sheep flock towards the goal zone cooperatively.
+
+Slide for progressive reports.
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="f3e79a213102427193d7c508bdf77f02" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="fbc8bd68d6934f66842fdd65bead31c4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-Slide for progressive reports.
 <!-- The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots). -->
 <!-- ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"} -->
 
