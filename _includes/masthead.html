@@ -12,8 +12,12 @@
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
+              {% assign style = '' %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% if link.url contains 'hire' %}
+              {% assign style = 'style="color:#1769FF;"' %}
+            {% endif %}
+            <li class="masthead__menu-item"><a {{ style }} href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
