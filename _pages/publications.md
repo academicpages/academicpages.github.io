@@ -16,6 +16,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
++ <b style="color:blue">[CIKM-2021]</b>
+**Yuke Wang**, Boyuan Feng, Xueqiao Peng, Yufei Ding. <br/>
+***An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks*** <br/>
+*ACM International Conference on Information and Knowledge Management.*<br/>
+[<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/1rQ4j6ttDOW_9bHzTxlmNbbI14_dcDtFN/view?usp=sharing)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L94-L99)
+
 + <b style="color:blue">[SC-2021]</b>
 \*Boyuan Feng, **\*Yuke Wang**, Tong Geng, Ang Li, Yufei Ding. \*: equal contribution<br/>
 ***APNN-TC: Accelerating Arbitrary Precision Neural Networks on Ampere GPU Tensor Cores*** <br/>
