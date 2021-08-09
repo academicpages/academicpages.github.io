@@ -21,9 +21,9 @@ author_profile: true
 
 - 事務補佐員，大阪大学国際教育交流センター ([CIEE](https://ciee.osaka-u.ac.jp/en/))
 
-- リサーチアシステント, 大阪大学社会経済研究所 ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)) & サイモン・フレイザー大学経済学部，2021年夏
+- アルバイト，データ構造科目プログラミング教員，大学院進学塾
 
-- アルバイト，データ構造科目プログラミング教員,大学院進学塾
+- リサーチアシステント，大阪大学社会経済研究所 ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)) & サイモン・フレイザー大学経済学部，2021年夏
 
 - インターンアンドロイドソフトウェアエンジニア，Shenzhen Danale Technology Co., Ltd，2019 年秋
 
