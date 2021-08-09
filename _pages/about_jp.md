@@ -25,6 +25,8 @@ author_profile: true
 
 アルバイト，データ構造科目プログラミング教員,大学院進学塾
 
+インターンアンドロイドソフトウェアエンジニア，Shenzhen Danale Technology Co., Ltd，2019 年秋
+
 ## 読本
 
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow

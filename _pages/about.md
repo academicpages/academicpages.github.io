@@ -27,6 +27,8 @@ Research Assistant, Institute of Social and Economic Research ([ISR](https://www
 
 Data structure subject programming teacher, Cram school for graduate school entrance.
 
+Intern Android Software Engineer, Shenzhen Danale Technology Co., Ltd, Autumn 2019.
+
 ## Reading Book
 
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
