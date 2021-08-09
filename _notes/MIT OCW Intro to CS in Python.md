@@ -97,4 +97,55 @@ Recipes have steps, flow of control, termination criteria, etc. and therefore ar
 - previous value may still by stored in memory but the handle for it is lost and left for the garbage collector
 
 
-## Lesson 2 - 
+## Lesson 2 - Branching and Iteration
+
+### Strings
+- letters, special characters, digits
+- indicated with "" or ''
+- concatenation operator: +
+- allows some operations like '*'
+
+### Input/Output
+- print()
+  - adding ',' between arguments in print() will automatically add spaces between.
+  - using '+' between args does not add spaces but all args must be str type
+- input("")
+  - arg is what will be printed and then it waits for user to provide an input.
+  - input will be str type so may need to cast
+
+### Comparison operators on int, float, string
+- comparisons below evaluate to a Boolean
+  - i > j
+  - i < j
+  - i >= j
+  - i <= j
+  - i == j
+  - i != j
+
+### Comparison operators on bools
+- comparisons below evaluate to a Boolean
+  - not a --> true if a is false
+  - a and b --> true if both are true
+  - a or b  --> true if at least one is true
+
+### Control Flow - Branching
+- if <condition>: / else:
+- if <condition_1>: / elif <condition_2>: / else:
+  - where conditions evaluate to a bool
+
+### Indentation
+- Matters in python and is used to denote blocks of code
+
+### Control Loops while/for
+- while <condition>:
+  - repeat expression as long as condition is true
+  - if you use a counter, initialize it outside the loop and change it inside
+  - has unbounded number of iterations
+-  for <condition> in <iter>:
+  - range(5) == [0, 1, 2, 3, 4]
+  - range(7, 10) == [7, 8, 9]
+  - range(5, 11, 2) == [5, 7, 9]
+- break
+  - immeditately exits loop whatever loop it is in
+  - skips the remaining expression in code block
+  - exits only the innermost loop
