@@ -19,20 +19,20 @@ Osaka University, Japan
 
 ## Work experience
 
-Internship to be added++.
+- Internship to be added++.
 
-Technical Assistant, Center for lnternational Education and Exchange ([CIEE](https://ciee.osaka-u.ac.jp/en/)), Osaka University.
+- Technical Assistant, Center for lnternational Education and Exchange ([CIEE](https://ciee.osaka-u.ac.jp/en/)), Osaka University.
 
-Research Assistant, Institute of Social and Economic Research ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)), Osaka University & Department of Economics, Simon Fraser University, Summer 2021.
+- Research Assistant, Institute of Social and Economic Research ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)), Osaka University & Department of Economics, Simon Fraser University, Summer 2021.
 
-Data structure subject programming teacher, Cram school for graduate school entrance.
+- Data structure subject programming teacher, Cram school for graduate school entrance.
 
-Intern Android Software Engineer, Shenzhen Danale Technology Co., Ltd, Autumn 2019.
+- Intern Android Software Engineer, Shenzhen Danale Technology Co., Ltd, Autumn 2019.
 
 ## Reading Book
 
-* Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
-* The Model Thinker: What You Need to Know to Make Data Work for You
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+- The Model Thinker: What You Need to Know to Make Data Work for You
 
 ## My Shepherding Research
 
