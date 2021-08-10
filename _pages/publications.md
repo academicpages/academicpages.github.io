@@ -19,9 +19,9 @@ You can also view my list of publications using [Google Scholar](https://scholar
 4. Lima, S., Rupert, A., Putzel, G., **Marderstein, A.R.**, Woo, V., Viladomiu, M., Metz, M., Scherl, E., Longman, R. The Intestinal Microbiome Stratifies Clinical Response to Sulfasalazine in IBD-associated Spondyloarthritis. (In revision)
 5. Kong, Y., Harrington, D., **Marderstein, A.R.**, Alonso, L.C. Low frequency T2D-associated polymorphisms at CCND2 influence CCND2 mRNA abundance, but not proliferation, in human pancreatic islets. (In revision)
  
-## Published, in press:
+## Published:
 
-1. **Marderstein, A.R.**, Kulm, S., Peng, C., Tamimi, R.M., Clark, A.G.^, Elemento, O.^ A biobank-based approach to identify gene-drug interactions stratifying breast cancer risk. Preprint on *medRxiv*. doi: https://doi.org/10.1101/2021.05.03.21256511 (Accepted in *The American Journal of Human Genetics*; in press)
+1. **Marderstein, A.R.**, Kulm, S., Peng, C., Tamimi, R.M., Clark, A.G.^, Elemento, O.^ (2021). A polygenic-score-based approach for identification of gene-drug interactions stratifying breast cancer risk. *The American Journal of Human Genetics*. doi: 10.1016/j.ajhg.2021.07.008
 2. **Marderstein, A.R.**, Davenport, E.R., Van Hout, C.V., Kulm, S., Elemento, O.^, Clark, A.G.^ (2021). Leveraging phenotypic variability to identify genetic interactions in human phenotypes. *American Journal of Human Genetics* 108, 1-19. https://doi.org/10.1016/j.ajhg.2020.11.016 <br />
     [**--> Cornell Chronicle highlight: “Cross-campus team probes gene-environment interactions”**](https://cals.cornell.edu/news/cross-campus-team-probes-gene-environment-interactions) <br />
     [**--> Weill Cornell Newsroom highlight: “Researchers simplify the study of gene-environment interactions”**](https://news.weill.cornell.edu/news/2021/01/researchers-simplify-the-study-of-gene-environment-interactions) <br />
