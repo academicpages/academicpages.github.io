@@ -9,3 +9,5 @@ main:
   - title: "CV"
     url: /cv/
    
+  - title: "Favorites"
+    url: /fav/
