@@ -22,7 +22,7 @@ My research interests lie in the intersection of Data Science, Big Data, Machine
 # News
 
 - **August, 2021:** Paper accepted to CIKM'21 Applied Track (joint work with [IBM Research](https://researcher.watson.ibm.com/researcher/view_group.php?id=9414)).
-- **May, 2021:** Paper accepted to MICCAI'21 (Early accept - top 13%, joint work with [IBM Research](https://researcher.watson.ibm.com/researcher/view_group.php?id=4384) and  [Rensselaer Polytechnic Institute (RPI)](https://airc.rpi.edu/)). 
+- **May, 2021:** Paper accepted to MICCAI'21 (Early accept top 13%, joint work with [IBM Research](https://researcher.watson.ibm.com/researcher/view_group.php?id=4384) and [RPI](https://airc.rpi.edu/)). 
 - **April, 2021:** Paper accepted to SIGIR'21 and workshop paper accepted to PerInt@PETRA'21. 
 - **April, 2021:** Will be teaching [CS5604: Information Storage and Retrieval](https://isminoula.github.io/CS5604F21/) in Fall 2021. 
 - **March, 2021:** Our multimodal Chest X-ray data was recently published in [Nature Scientific Data](https://www.nature.com/articles/s41597-021-00863-5), accompanied with a short [blog](https://researchdata.springernature.com/posts/creation-and-validation-of-a-chest-x-ray-dataset-with-eye-tracking-and-report-dictation-for-ai-development?channel_id=behind-the-paper) describing the work. We show that utilizing eye-gaze information can lead to improved performance and guide the model to produce more accurate activation maps.
