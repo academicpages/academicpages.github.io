@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Favorites"
-permalink: /fav/
+permalink: /fave/
 author_profile: true
 ---
 
