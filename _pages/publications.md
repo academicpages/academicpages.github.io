@@ -11,7 +11,7 @@ author_profile: true
   
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
 **Penghui Wei**, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng  
-(To appear) In Proc. of **CIKM 2021** (short): The 30th ACM International Conference on Information and Knowledge Management. Online, November 1--5, 2021.  
+In Proc. of **CIKM 2021** (short): The 30th ACM International Conference on Information and Knowledge Management. Online, November 1--5, 2021.  
 
 * **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
