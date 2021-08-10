@@ -25,9 +25,6 @@ My research agenda is on managing complex systems to solve societal challenges i
 
 Research areas
 ======
-
-[//]: # More info
-[//]: # ------
 I work on a set of diverse problems with a set of amazing people.
 
 **Climate agreements**
