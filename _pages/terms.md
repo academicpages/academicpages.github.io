@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2021-02-07
+modified: 2021-8-11
 ---
 
 {% include base_path %}
@@ -16,6 +16,7 @@ First and foremost, I will never share your email address or any other personal 
 ### Log Files
 
 I do not store __any__ log files containing your IP or other tracking information. I cannot and do not associate page views with user identities.
+Note that any service providers I use for this website may use their own log files.
 
 <!-- Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
@@ -43,4 +44,5 @@ Google Analytics is a web analytics tool I use to help understand how visitors e
 ### Analytics
 
 <!-- I use [Counter.dev](https://github.com/ihucos/counter.dev) to provide very minimal analytics about the number of page views. I do not store any data about interactions and make no attempt to track you across the web. The source code is available publicly. No cookies are used. -->
-I use Cloudflare to provide very minimal analytics about the traffic. I do not store any data about individual interactions and make no attempt to track you across the web. No cookies are used. 
+<!-- I use Cloudflare to provide very minimal analytics about the traffic. I do not store any data about individual interactions and make no attempt to track you across the web. No cookies are used.  -->
+No cookies are used on this website and your data is not accessible by any third party trackers. Data you submit to my comment section provider will be stored by them. I do collect minimal analytics on page viewers. I do not store any data about individual interactions and make no attempt to track you across the web. 
