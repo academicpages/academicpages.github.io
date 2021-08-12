@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - Gemfile
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -131,7 +132,6 @@ exclude:
   - .sass-cache
   - CHANGELOG
   - Capfile
-  - Gemfile
   - Gruntfile.js
   - LICENSE
   - README
@@ -265,10 +265,10 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
