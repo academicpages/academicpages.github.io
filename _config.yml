@@ -272,7 +272,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+gems: 
+  - jekyll-sitemap
 
 # Archives
 #  Type
