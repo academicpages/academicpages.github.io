@@ -28,7 +28,7 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 ## Published
 
 ### 2021 - 
-* __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. 2021. Predicting species distributions and community composition using satellite remote sensing predictors. _Scientific Reports (accepted)_. [Preprint](https://doi.org/10.21203/rs.3.rs-345639/v1).
+* __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. 2021. [Predicting species distributions and community composition using satellite remote sensing predictors](https://www.nature.com/articles/s41598-021-96047-7). _Scientific Reports, 11:16448_.
 
 * Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, __J.N. Pinto-Ledezma__, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis and Y. Yang. (2021). [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). _Research Ideas and Outcomes, 7: e63850_. 
 
