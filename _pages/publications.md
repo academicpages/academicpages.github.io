@@ -17,18 +17,18 @@ redirect_from:
 <td width="5%">[10]</td>
 <td width="95%"><strong>Florko, K.R.N.</strong>, Davidson, E.R., Lees, K.J., Hammer, L.J., Lavoie, M.-F., Lennox, R., Simard, E., Auger-Méthé, M., Archambault, P., McKindsey, C., Whoriskey, F, Furey, N.B. Tracking movements of decapod crustaceans: a review of a half-century of telemetry-based studies. In Review, Submitted 10 May 2021.</td>
 </tr>
-<tr>
-<td width="5%">[9]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Tai, T.C., Cheung, W.W.L., Sumaila, U.R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. Predicting how climate change threatens the prey base of Arctic marine predators. In Review, Submitted 26 Mar 2021.</td>
-</tr>
 </tbody>
 </table>
 <h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[9]</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Tai, T.C., Cheung, W.W.L., Sumaila, U.R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. Predicting how climate change threatens the prey base of Arctic marine predators. Ecology Letters, In Press. doi:10.1111/ele.13866. </td>
+</tr>
+<tr>
 <td width="5%">[8]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Carlyle, C.G., Young, B.G., Yurkowski, D.J., Michel, C., Ferguson, S.H. 2021. Infrared detection of narwhal (<i>Monodon monoceros</i>) flukeprints from aerial survey imagery. Ecosphere – In Press.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Carlyle, C.G., Young, B.G., Yurkowski, D.J., Michel, C., Ferguson, S.H. 2021. Infrared detection of narwhal (<i>Monodon monoceros</i>) flukeprints from aerial survey imagery. Ecosphere, 12: e03698. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3698?af=R" rel="noopener noreferrer">doi:10.1002/ecs2.3698</a>.</td>
 </tr>
 <tr>
 <td width="5%">[7]</td>
