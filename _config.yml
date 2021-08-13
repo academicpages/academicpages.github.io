@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alexander Pütz"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data Scientist at Banco Santander, PhD in Economics from the University of Münster"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.at/citations?user=qabrtLcAAAAJ&hl=de"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dr-alexander-p%C3%BCtz-35817383"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
