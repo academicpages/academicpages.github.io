@@ -23,9 +23,7 @@ Work experience
 
 Selected Publications
 ======
-Under construction.
+* Takuma Amada, Seng Pei Liew, Kazuya Kakizaki, Toshinori Araki: Universal Adversarial Spoofing Attacks against Face Recognition. IJCB 2021: 1-7
+* Kosuke Akimoto, Seng Pei Liew, Sakiko Mishima, Ryo Mizushima, Kong Aik Lee: POCO: A Voice Spoofing and Liveness Detection Corpus Based on Pop Noise. INTERSPEECH 2020: 1081-1085
 
-Talks
-======
-Under construction.
-  
+
