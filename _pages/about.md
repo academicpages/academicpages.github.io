@@ -22,6 +22,7 @@ My research interests lie in the intersection of Data Science, Big Data, Machine
 # News
 
 - **August, 2021:** My student's paper on truncated sparse bit-vector representations was accepted to CIKM'21 Applied Track (joint work with [IBM Research](https://researcher.watson.ibm.com/researcher/view_group.php?id=9414)).
+- **August, 2021:** Our work on HPV vaccine risk perceptions on social media was accepted to Journal of Medical Internet Research (in collaboration with the University of Illinois at Urbana-Champaign and the University of Illinois Chicago). 
 - **May, 2021:** Paper accepted to MICCAI'21 (Early accept top 13%, joint work with [IBM Research](https://researcher.watson.ibm.com/researcher/view_group.php?id=4384) and [RPI](https://airc.rpi.edu/)). 
 - **April, 2021:** Paper accepted to SIGIR'21 and workshop paper accepted to PerInt@PETRA'21. 
 - **April, 2021:** Will be teaching [CS5604: Information Storage and Retrieval](https://isminoula.github.io/CS5604F21/) in Fall 2021. 
