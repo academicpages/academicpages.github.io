@@ -7,12 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aadirupa Saha / aadirupasaha"
+title                    : "Aadirupa Saha"
 title_separator          : "-"
-name                     : &name "Aadirupa"
+name                     : "Aadirupa"
 description              : &description "personal description"
 url                      : https://aadirupa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aadirupa/aadirupa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -82,10 +81,10 @@ analytics:
 author:
   name             : "Aadirupa Saha"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoc Researcher, Microsoft Research, New York City"
   location         : "New York, USA"
   employer         : "Microsoft Research, New York City"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
