@@ -84,7 +84,7 @@ author:
   bio              : "Postdoc Researcher, Microsoft Research, New York City"
   location         : "New York, USA"
   employer         : "Microsoft Research, New York City"
-  pubmed           : ""
+  #pubmed           : ""
   googlescholar    : "https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
