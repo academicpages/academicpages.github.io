@@ -48,6 +48,7 @@ Skills
 * Advantages: Artificial Intelligence, Math, Data Structure & Algorithms, Logic Thinking
 * Data storage: MySQL, SQL server, MongoDB, Elasticsearch
 * Programming language: Python
+* Library and Framework: Tensorflow, Keras, Pytorch, Huggingface's transformers, Scikit-learn, Nltk, Gensim, Spacy, Pandas, Flask, Rasa, etc.
 * Version control: Git
 * Operating systems: Windows, Linux
 * Background: Natural language processing, Machine learning, Deep learning, Data mining, Recommendation system
