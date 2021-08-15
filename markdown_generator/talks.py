@@ -71,14 +71,14 @@ for row, item in talks.iterrows():
     year = item.date[:4]
     
     md = "---\ntitle: \""   + item.title + '"\n'
-    md += "collection: talks" + "\n"
+    md += "collection: activities" + "\n"
     
     if len(str(item.type)) > 3:
         md += 'type: "' + item.type + '"\n'
     else:
         md += 'type: "Talk"\n'
     
-    md += "permalink: /talks/" + html_filename + "\n"
+    md += "permalink: /activities/" + html_filename + "\n"
     
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
@@ -103,7 +103,7 @@ for row, item in talks.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("../_talks/" + md_filename, 'w') as f:
+    with open("../_activities/" + md_filename, 'w') as f:
         f.write(md)
 
 

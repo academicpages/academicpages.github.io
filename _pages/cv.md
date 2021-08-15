@@ -79,7 +79,7 @@ Publications
   
 Activities
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.activities %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
