@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Aadirupa Saha"
-  avatar           : "./download.png"
+  avatar           : "./download.PNG"
   bio              : "Postdoc Researcher, Microsoft Research, New York City"
   location         : "New York, USA"
   employer         : "Microsoft Research, New York City"
