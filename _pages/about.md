@@ -20,7 +20,7 @@ Working papers
 1. Title 2
 1. Title 3
 
-Workin progress
+Work in progress
 ======
 1. Title 1
 1. Title 2
