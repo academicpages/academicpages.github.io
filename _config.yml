@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : "Aadirupa"
 description              : &description "personal description"
 url                      : https://aadirupa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/"
 repository               : "aadirupa/aadirupa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -80,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aadirupa Saha"
-  avatar           : "download.png"
+  avatar           : "https://aadirupa.github.io/download.png"
   bio              : "Postdoc Researcher, Microsoft Research, New York City"
   location         : "New York, USA"
   employer         : "Microsoft Research, New York City"
