@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist interested in firm dyanamics and their relevance for aggregate outcomes. My research also touches on international rate and entrepreneurship. I received my PhD from NYU in 2018 and am currently a Research Economist at the Bank of Portugal.
+I am an economist interested in firm dyanamics and their relevance for aggregate outcomes. My research also touches on international trade and entrepreneurship. I received my PhD from NYU in 2018 and am currently a Research Economist at the Bank of Portugal.
 
 Publications
 ======
@@ -19,12 +19,19 @@ Many modern business cycle models use uncertainty shocks to generate aggregate f
 
 Working papers
 ======
-**What's Driving the Decline in Entrepreneurship?**
+**What's Driving the Decline in Entrepreneurship?**<br/>
+January 2018&mdash;New version coming soon!
+
+Recent research shows that entrepreneurial activity has been declining in the US in recent decades. Given the role of entrepreneurship in theories of growth, job creation and economic mobility this has generated considerable concern. This paper investigates why entrepreneurship has declined. It documents that (1) the decline in entrepreneurship has been more pronounced for higher education levels, implying that at least part of the force driving the changes is not skill-neutral, and (2) the size distribution of entrepreneur businesses has been quite stable. Together with a decline in the entrepreneurship rate the second fact implies a shift of economic activity towards non-entrepreneur firms. Guided by this evidence I evaluate explanations for the decline in entrepreneurship based on skill-biased technical change, increases in the fixed costs of businesses which could be due to technological change or increases in regulations, and changes in technology that have benefited large non-entrepreneur firms. I do this using a general equilibrium model of occupational choice calibrated with a rich set of moments on occupations, income distributions and firm size distributions. I find that an increase in fixed costs explains most of the decline in the aggregate entrepreneurship rate and that skill-biased technical change can fully account for the larger decrease in entrepreneurship for more educated people when combined with the other forces.
 
 **On the Cleansing Effect of Recessions and Government Policy: Evidence from Covid-19**<br/>
-(with Pedro Moreira and Cezar Santos)
+(with Pedro Moreira and Cezar Santos)<br/>
+July 2021
+
+Recessions can have a cleansing effect by encouraging the reallocation of resources from low-productivity firms towards higher-productivity ones. Whether this effect actually occurs is still debated. We contribute to answering this question by providing new evidence. Using a survey of firms matched with administrative data, we trace out the Covid-19 recession's effects across the productivity distribution. Higher-productivity firms are found to have been more successful at maintaining employment, but there was not a rise in exit amongst lower-productivity firms. In line with the theory that support policies offset the cleansing effect of recessions, high-productivity firms are also found to have been less likely to take up government support.
 
 Work in progress
 ======
-1. Title 1
-1. Title 2
+**Demand Learning, Customer Capital and Exporter Dynamics** (with Spencer Lyon)
+
+Recent empirical research has documented a rich set of facts about the dynamics of exporters. We develop a general equilibrium trade model in which these dynamics arise endogenously as a result of a customer accumulation friction and imperfect information about demand that can be resolved through learning. The model is used to study how accounting for the dynamics of exporters alters the gains from trade. The main finding is that these dynamics make an economy’s responsiveness to trade liberalization (or protectionism) much more dependent on its initial openness. Economies that are initially very open respond much more to a trade liberalization once exporter dynamics are accounted for, while economies that start with low levels of trade respond much less. For the US, for example, the dynamics of exporters can amplify the gains from lowering trade costs by as much as 30%.
