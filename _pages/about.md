@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, welcome to my world. I am a freelance machine learning researcher and I am working in Natural Language Processing. I also know a bit about image processing and signal processing. I'm boring and introspective.
+Hi, welcome to my world. I am a freelance machine learning researcher and I am working in Natural Language Processing. I also know a bit about image processing and signal processing. I'm a boring man.
 
 News and Updates
 ======
