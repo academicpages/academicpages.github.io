@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "AadirupaSaha"
+  username               : #"AadirupaSaha"
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AadirupaSaha"
+  twitter          : #"AadirupaSaha"
   vine             :
   weibo            :
   xing             :
