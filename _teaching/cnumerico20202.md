@@ -34,4 +34,4 @@ Julia
 
 Notebooks Jupyter
 ======
-[O Método de Ponto Fixo]()
+[O Método de Ponto Fixo](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/O%20M%C3%A9todo%20do%20Ponto%20Fixo.ipynb)
