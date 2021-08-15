@@ -6,11 +6,11 @@ main:
   - title: "Products"
     url: /products/ 
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Activities"
+    url: /activities/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Honors and Awards"
+    url: /honors/    
     
   - title: "Portfolio"
     url: /portfolio/
