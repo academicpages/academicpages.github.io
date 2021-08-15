@@ -85,7 +85,7 @@ Activities
   
 Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.honors %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
