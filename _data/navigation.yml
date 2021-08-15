@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Products"
+    url: /products/ 
+
   - title: "Talks"
     url: /talks/    
 
@@ -15,8 +18,5 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Hire me!"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
