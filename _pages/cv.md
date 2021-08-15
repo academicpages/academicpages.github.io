@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Hire me!"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
