@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : AadirupaSaha
+  username               : "AadirupaSaha"
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Aadirupa Saha"
-  avatar           : "download.PNG"
+  avatar           : "download.png"
   bio              : "Postdoc Researcher, Microsoft Research, New York City"
   location         : "New York, USA"
   employer         : "Microsoft Research, New York City"
