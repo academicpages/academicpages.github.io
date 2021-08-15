@@ -34,5 +34,5 @@ News and Updates
 - 12-10-2019: I gained the 3rd prize at Vietnamese Language and Speech Processing 2019 Text-to-Speech Challenge.
 - 06-10-2019: I have presented about OCR techniques and DX revolution at [Vietnam Frontier Summit](https://vtv.vn/cong-nghe/co-gi-hap-dan-tai-su-kien-vietnam-frontier-summit-2019-20191002192254541.htm) organized by Vietnam Television VTV24 and rubikAI.
 - 22-07-2019: My first paper was accepted at GCCE, Osaka, Japan. I had a 1 week business trip there and had great experiences.
-- 14-06-2019: I'm a speaker at Vietnam Mobile Day 2019 and talking about "Build your own artificial intelligence assistant similar to Google assistant"
+- 14-06-2019: I'm a speaker at Vietnam Mobile Day 2019 and talking about "Build your own artificial intelligence assistant similar to Google assistant".
 - 14-03-2019: My team won 2nd and 3rd place at CMC AI Contest: Face recognition.
