@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 My name is Z. Sun, a 2nd year PhD student in machine learning and computational statistics at Department of Statistical Science, University College London. I am very very lucky to be supervised by [Prof. F-X Briol](https://fxbriol.github.io) and [Prof. J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). 
+
+
 Research Interest
 ======
 In general, I am very interested in __computational statistics__ and __machine learning__. Recently, I have worked on meta-learning, control variates and Stein's method.
