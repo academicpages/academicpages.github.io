@@ -31,3 +31,7 @@ Disponível no sistema SAGRES.
 Julia
 ======
 [Página do Julia (Download, documentação e tutoriais)](https://julialang.org/)
+
+Notebooks Jupyter
+======
+[O Método de Ponto Fixo]()
