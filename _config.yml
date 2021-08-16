@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Researcher in machine learning and optimization."
   location         : "Uppsala, Sweden"
-  employer         : "Uppsala University"
+  employer         : #"Uppsala University"
   pubmed           : 
   googlescholar    : "https://scholar.google.se/citations?user=AlF2g-YAAAAJ&hl=en"
   email            :
