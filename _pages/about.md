@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+THIS SITE IS UNDER CONSTRUCTION
+
 Intro
 Research interests
 WASP
