@@ -1,6 +1,6 @@
 ---
 title: "Sun Asterisk AI Reseach Team"
-excerpt: "Hanoi, Oct 20, 2019<br/><img src='/images/portfolio/sun-aiteam.jpeg' width='960' height='640'>"
+excerpt: "Hanoi, Oct 20, 2019<br/><img src='/images/portfolio/sun-aiteam.jpg' width='960' height='640'>"
 collection: portfolio
 ---
 
