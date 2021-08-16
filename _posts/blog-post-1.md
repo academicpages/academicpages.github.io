@@ -12,4 +12,3 @@ tags:
 For the older blogs, please visit my page at [Viblo](https://viblo.asia/u/QuangPH). I had written all of those blogs while I had been working at Sun Asterisk.
 
 https://viblo.asia/u/QuangPH
-------
