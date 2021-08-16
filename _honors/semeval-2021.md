@@ -1,20 +1,9 @@
 ---
-title: "CMC AI Contest: Face recognition"
+title: "SemEval 2021: The 15th International Workshop on Semantic Evaluation"
 collection: honors
-type: "AI challenge"
-permalink: /honors/cmc-contest
-venue: "CMC Global Company Limited."
-date: 14-03-2019
-location: "Hanoi, Vietnam"
+type: "NLP Workshop"
+permalink: /honors/semeval-2021
+venue: "The 15th International Workshop on Semantic Evaluation"
+date: 06-08-2021
+location: "Virtual event @ ACL-IJCNLP"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

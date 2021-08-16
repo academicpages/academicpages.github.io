@@ -1,20 +1,9 @@
 ---
-title: "CMC AI Contest: Face recognition"
+title: "ICDAR2021 Competition Multimodal Emotion Recognition on Comics scenes"
 collection: honors
 type: "AI challenge"
-permalink: /honors/cmc-contest
-venue: "CMC Global Company Limited."
-date: 14-03-2019
-location: "Hanoi, Vietnam"
+permalink: /honors/icdar-2021
+venue: "ICDAR Workshop"
+date: 06-04-2021
+location: "Virtual event"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

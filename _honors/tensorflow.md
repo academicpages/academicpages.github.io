@@ -1,20 +1,9 @@
 ---
-title: "CMC AI Contest: Face recognition"
+title: "TensorFlow Developer Certificate"
 collection: honors
-type: "AI challenge"
-permalink: /honors/cmc-contest
-venue: "CMC Global Company Limited."
-date: 14-03-2019
+type: "Certificate"
+permalink: /honors/tensorflow
+venue: "Tensorflow, Google"
+date: 01-06-2020
 location: "Hanoi, Vietnam"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

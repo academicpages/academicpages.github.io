@@ -1,20 +1,9 @@
 ---
-title: "CMC AI Contest: Face recognition"
+title: "CVPRW: The AI City Challenge Workshop @ CVPR 2021"
 collection: honors
 type: "AI challenge"
-permalink: /honors/cmc-contest
-venue: "CMC Global Company Limited."
-date: 14-03-2019
-location: "Hanoi, Vietnam"
+permalink: /honors/cvprw-2021
+venue: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+date: 25-06-2021
+location: "Virtual event"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
