@@ -4,7 +4,7 @@ collection: activities
 type: "Training"
 permalink: /activities/hust-teaching
 venue: "HUSTer"
-date: 2015-2017
+date: 01-01-2015
 location: "Hanoi, Vietnam"
 ---
 Since I was a freshman, I spent a lot of time running volunteer classes in basic science subject like Advanced Math, Linear Algebra, and Physics for freshmen at Hanoi University of Science and Technology.
