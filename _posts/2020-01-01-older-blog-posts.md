@@ -1,7 +1,7 @@
 ---
 title: 'Older Blog Posts'
-date: 01-01-2020
-permalink: /posts/2020/01/blog-post-1/
+date: 2020-01-01
+permalink: /posts/2020/01/older-blog-posts/
 tags:
   - Viblo
   - Deep learning
