@@ -3,6 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 ---
+{% include base_path %}
 
 I am a PhD student in the Department of Electrical Engineering at the Indian Institute of Science Bangalore. Prior to this, I have worked as a Data Scientist in IBM India Pvt. Ltd after completing my Masters in Control and Computing from Indian Institute of Technology Bombay.
 
