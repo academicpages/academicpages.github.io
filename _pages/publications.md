@@ -36,7 +36,7 @@ Lichen Jin, Yizhou Zhang, Guojie Song, **Yilun Jin**, In *The Web Conference (Th
 Qingqing Long, Yiming Wang, Lun Du, Guojie Song, **Yilun Jin**, Wei Lin. In *The 28th ACM International Conference on Information and Knowledge Management (CIKM)*, 2019. **Best Research Paper Runner-up Award**. 
 
 * **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
-Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. In *The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML’19), in conjunction with IJCAI 2019*. 
+Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. In *The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML-IJCAI’19)* and *IEEE Intelligent Systems, 2021*.
 
 * **DANE: Domain Adaptive Network Embedding** \[[pdf](https://www.ijcai.org/proceedings/2019/0606.pdf)\] <br>
 Yizhou Zhang, Guojie Song, Lun Du, Shuwen Yang, **Yilun Jin**. In *The 28th International Joint Conference on Artificial Intelligence (IJCAI)*, 2019. 
