@@ -9,16 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+IISC Bangalore
 ======
-* B.Tech. in Electrical Engineering, **Indian Institute of Engineering Science and Technology**, 2015
-* M.Tech. in Electrical Engineering (Control and Computing), **Indian Institute of Technology Bombay**, 2018
-* Ph.D in Electrical Engineering, **Indian Institute of Science Bangalore**, (current)
+* Ongoing
+  - Advanced Deep Learning
+  - Optimization in Machine Learning and Data Science
+  - Stochastic Models and Applications
+  - Digital Signal Processing
+* Completed
+  - Machine Learning in Signal Processing
+  - Detection and Estimation Theory
+  - Data Structures and Algorithms
 
-Work experience
+IIT Bombay
 ======
-* July 2018- Feb 2021
-  * IBM India Pvt. Ltd.
-  * Position: Cognitive Data Scientist
-  
-For more details have a look at my [Resume (2021)](https://soumya-dutta.github.io/files/Soumya_dutta_2021.pdf).
+- Applied Linear Algebra
+- Matrix Computations
+- Statistical Signal Analysis
+- Foundations of Machine Learning
