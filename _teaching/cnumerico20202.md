@@ -35,4 +35,5 @@ Julia
 Notebooks Jupyter
 ======
 [O Método de Ponto Fixo](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/O%20M%C3%A9todo%20do%20Ponto%20Fixo.ipynb)
+
 [O Método de Newton](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Metodo%20de%20Newton.ipynb)
