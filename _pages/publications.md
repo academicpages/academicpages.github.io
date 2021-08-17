@@ -11,7 +11,7 @@ author_profile: false
 
 - [_Immersed Lagrangian Floer cohomology via pearly trajectories_](https://arxiv.org/abs/1907.03072) (with G. Alston), *Journal of Geometry and Physics* (2021) 169
 
-- [_Equivariant Lagrangian Floer cohomology via semi-global Kuranishi structures_](https://arxiv.org/abs/1812.09796) (with K. Honda), *Algebraic and Geometric Topology* (2018)
+- [_Equivariant Lagrangian Floer cohomology via semi-global Kuranishi structures_](https://arxiv.org/abs/1812.09796) (with K. Honda), *Algebraic and Geometric Topology* Volume 21, Issue 4, (2021)
 
 - [_Definition of cylindrical contact homology in dimension three_](https://arxiv.org/abs/1412.0276) (with K. Honda), *Journal of Topology* (2018) 11 (4), 1002-1053
 
