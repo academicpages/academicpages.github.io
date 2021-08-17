@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electrical Engineering, **Indian Institute of Engineering Science and Technology**, 2015
+* B.Tech. in Electrical Engineering, **Indian Institute of Engineering Science and Technology Shibpur**, 2015
 * M.Tech. in Electrical Engineering (Control and Computing), **Indian Institute of Technology Bombay**, 2018
 * Ph.D in Electrical Engineering, **Indian Institute of Science Bangalore**, (current)
 
