@@ -21,7 +21,7 @@ IISC Bangalore
   - Detection and Estimation Theory
   - Data Structures and Algorithms
 
-IIT Bombay
+IIT Bombay (Relevant)
 ======
 - Applied Linear Algebra
 - Matrix Computations
