@@ -21,4 +21,4 @@ Work experience
   * IBM India Pvt. Ltd.
   * Position: Cognitive Data Scientist
   
-For more details have a look at my [Resume (2021)](https://github.com/Soumya-dutta/Soumya-dutta.github.io/blob/master/files/Soumya_dutta_2021.pdf).
+For more details have a look at my [Resume (2021)](https://soumya-dutta.github.io/files/Soumya_dutta_2021.pdf).
