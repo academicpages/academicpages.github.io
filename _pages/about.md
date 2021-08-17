@@ -12,4 +12,4 @@ As a novice PhD student working with [Dr. Sriram Ganapathy](http://www.leap.ee.i
 
 Academics takes up most of time. However, I had started learning the piano before the pandemic. I hope to play [this one](https://www.youtube.com/watch?v=7maJOI3QMu0) and [this one](https://www.youtube.com/watch?v=imGaOIm5HOk) someday.
 
-For more projects check out my [GitHub]("https://github.com/Soumya-Dutta/") page.
+For more of my academic projects check out my [GitHub]("https://github.com/Soumya-Dutta/") page.
