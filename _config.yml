@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Xuehuan"
+title                    : "xuehuan-yang"
 title_separator          : "-"
-name                     : &name "Yang Xuehuan"
+name                     : &name "xuehuan-yang"
 description              : &description "Personal Description"
 url                      : https://xuehuanyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Xuehuan"
+  name             : "xuehuan-yang"
   avatar           : "profile.png"
   bio              : "Ph.D Candidate, School of Computer Science and Engineering (SCSE), Nanyang Techonological University (NTU).  Accredited Coach (Roller Skating), National Registry of Coaches (NROC), Singapore "
   location         : "Singapore" 
