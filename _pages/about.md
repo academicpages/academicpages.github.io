@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student in Electronic Engineering at Yonesei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
-I have experienced computer vision tasks such as 2D/3D computer vision (monocular depth estimation and confidence measure estimation), bad weather restoration (de-raining), and future frame prediction with future frame segmentation, and anomaly detection. Here's my [CV](https://jhcho90.github.io/files/CV_Jae_hoon.pdf).
+I have experienced computer vision tasks such as 2D/3D computer vision (monocular depth estimation and confidence measure estimation), bad weather restoration (de-raining), and future frame prediction with future frame segmentation, and anomaly detection. Here's my [CV](https://jhcho90.github.io/files/CV_Jhcho.pdf).
 
  <br/>
  <br/>
