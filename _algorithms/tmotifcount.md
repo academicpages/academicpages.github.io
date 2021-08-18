@@ -50,6 +50,7 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.MotifCounting",
+	"serialiserName":"com.raphtory.serialisers.DefaultSerialiser",
 	"timestamp":3,
 	"args":["0", "weight", "3"]	
 }

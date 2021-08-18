@@ -8,5 +8,5 @@ author_profile: true
 
 {% assign sorted_pages = site.documentation | sort:"order" %}
 {% for node in sorted_pages %}
-  <li><a href="{{node.url}}">{{node.title}}</a></li>
+  <a href="{{node.url}}">{{node.title}}</a><br>
 {% endfor %}

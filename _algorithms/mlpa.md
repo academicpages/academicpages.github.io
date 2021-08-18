@@ -53,6 +53,7 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.MultilayerLPA",
+	"serialiserName":"com.raphtory.serialisers.DefaultSerialiser",
 	"timestamp":3,
 	"args":["0", "weight", "10", "1", "3", "1", "1"]
 }
@@ -62,7 +63,7 @@ EOF
 Returns communities of every layer as if the layers are disconnected: 
 
 ```json
-{"time":3,"top5":[4,3,2],"total":3,"totalIslands":0,"communities": [[3_3,4_3,1_3,2_3],[3_1,1_1,2_1],[1_2,2_2]], "viewTime":47}
+{"time":3,"top5":[4,3,2],"total":3,"totalIslands":0,"communities": [["3_3","4_3","1_3","2_3"],["3_1","1_1","2_1"],["1_2","2_2"]], "viewTime":47}
 ```
 
 Running again with `average` as method for inter-layer coupling;
@@ -73,6 +74,7 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.MultilayerLPA",
+	"serialiserName":"com.raphtory.serialisers.DefaultSerialiser",
 	"timestamp":3,
 	"args":["0", "weight", "10", "1", "3", "1", "average"]
 }
@@ -82,5 +84,5 @@ EOF
 Returns communities that span multiple layers:
 
 ```json
-{"time":3,"top5":[4,3,2],"total":3,"totalIslands":0,"communities": [[1_2,1_3,2_2,2_3],[3_1,1_1,2_1],[3_3,4_3]], "viewTime":95}
+{"time":3,"top5":[4,3,2],"total":3,"totalIslands":0,"communities": [["1_2","1_3","2_2","2_3"],["3_1","1_1","2_1"],["3_3","4_3"]], "viewTime":95}
 ```

@@ -52,10 +52,10 @@ curl -X POST 127.0.0.1:8081/RangeAnalysisRequest \
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.LPA",
+	"serialiserName":"com.raphtory.serialisers.DefaultSerialiser",
 	"start":1,
 	"end":3,
 	"jump":1,
-	"windowType":"true",
 	"windowSize": 1
 }
 EOF
@@ -76,6 +76,7 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.LPA",
+	"serialiserName":"com.raphtory.serialisers.DefaultSerialiser",
 	"timestamp":3
 }
 EOF
@@ -96,6 +97,7 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
 {
 	"jsonrpc":"2.0",
 	"analyserName":"com.raphtory.algorithms.LPA",
+	"serialiserName":"com.raphtory.serialisers.DefaultSerialiser",
 	"timestamp":3,
 	"args":["1"]
 }
