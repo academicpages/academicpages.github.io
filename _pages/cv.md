@@ -39,6 +39,8 @@ Work experience
 
 Publications
 ======
+* <b>Cheng, Y.</b>.  (2021, August 19). Review of:  ”Preventing a loss of accuracy of the tennis serve under pressure” https://doi.org/10.32388/DY0PA4. [[pdf]](https://lilianyou.github.io/files/2021_review_choking_effect_Cheng.pdf)
+
 * Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  In R. D. Montello & K. M. Curtin (Eds.), Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor and Francis).  (in press)
 
 * 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., … Hyafil, A. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. https://doi.org/10.31219/osf.io/9fp4v [[pdf](https://lilianyou.github.io/files/2021_neuromatch_preprint.pdf)]
