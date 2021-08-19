@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+I am broadly interested in the interpretation of the observed galaxy distribution and the inference of underlying
+galaxy evolution physics and cosmology.
+
+
 Education
 ======
 * Ph.D in Astrophysics, Harvard University, 2021
