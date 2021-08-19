@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Full publication list can be found here
+* [Arxiv](https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header)
+* [ORCID](https://orcid.org/0000-0002-5992-7586)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Highlights coming soon...
