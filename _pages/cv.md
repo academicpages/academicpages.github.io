@@ -43,25 +43,21 @@ Skills
  -->
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [Arxiv](https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header)
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  Refer to full CV
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* ASTRON 130 - Cosmology. 2018
+* ASTRON 17 - Galactic and Extragalactic Astronomy. 2017
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-founder, Open Labs @ Harvard
+* Group Leader, Harvard Observing Project
 
 Full up-to-date CV can be found here:
 [Download CV here](http://sandyyuan.github.io/files/CV%20(1).pdf)
