@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+* Ph.D in Astrophysics, Harvard University, 2021
+  * Supervisor: Prof. Daniel Eisenstein
+* B.S. in Astrophysical Sciences, Princeton University, 2016
+  * Supervisor: Prof. David Spergel
+  
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -35,7 +36,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+ -->
 Publications
 ======
   <ul>{% for post in site.publications %}
