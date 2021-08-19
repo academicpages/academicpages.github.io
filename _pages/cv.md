@@ -12,6 +12,8 @@ redirect_from:
 I am broadly interested in the interpretation of the observed galaxy distribution and the inference of underlying
 galaxy evolution physics and cosmology.
 
+Full up-to-date CV can be found here:
+[Download CV here](http://sandyyuan.github.io/files/CV%20(1).pdf)
 
 Education
 ======
@@ -61,5 +63,3 @@ Service and leadership
 * Co-founder, Open Labs @ Harvard
 * Group Leader, Harvard Observing Project
 
-Full up-to-date CV can be found here:
-[Download CV here](http://sandyyuan.github.io/files/CV%20(1).pdf)
