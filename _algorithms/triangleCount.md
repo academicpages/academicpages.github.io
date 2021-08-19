@@ -2,6 +2,7 @@
 title: 'Triangle Count and Clustering Coefficient'
 type: "Algorithms"
 permalink: /algorithms/triangleCount/
+cat: "static"
 tags:
   - algorithms
   - triangles

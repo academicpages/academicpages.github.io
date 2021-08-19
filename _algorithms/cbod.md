@@ -2,6 +2,7 @@
 title: 'Outlier Detection'
 collection: algorithms
 type: "Algorithms"
+cat: "static"
 permalink: /algorithms/cbod/
 tags:
   - algorithms

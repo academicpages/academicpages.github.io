@@ -2,6 +2,7 @@
 title: 'Temporal Motif Counting'
 collection: algorithms
 type: "Algorithms"
+cat: "temporal"
 permalink: /algorithms/tmotifcount/
 tags:
   - algorithms

@@ -5,13 +5,26 @@ permalink: /algorithms/
 author_profile: true
 ---
 
-{% capture posts %}
-  {% for post in site.algorithms %}
-    |{{ post.title }}#{{ post.url }}
+
+{% assign items_grouped = site.algorithms | group_by: "cat" %}
+{%assign sorted = items_grouped | sort: "name" | reverse %}
+  {% for group in sorted %}
+    {% if group.name == "temporal" %}
+      <h2>      Temporal Algorithms    </h2>
+    {% elsif group.name == "static" %}
+      <h2> Static Algorithms </h2>
+    {% else %}
+      <h2> Others</h2>
+    {% endif %}
+    
+    {% capture posts %}
+      {% for post in group.items %}
+        |{{ post.title }}#{{ post.url }}
+      {% endfor %}
+    {% endcapture %}
+    {%assign rpost = posts | split: '|'  | sort %}
+    {% for post in rpost %}
+      {% assign postitems = post | split: '#' %}
+      <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+    {% endfor %}
   {% endfor %}
-{% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
-{% endfor %}

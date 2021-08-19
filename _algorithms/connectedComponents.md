@@ -1,6 +1,7 @@
 ---
 title: 'Connected Components'
 permalink: /algorithms/connectedComponents/
+cat: "static"
 tags:
   - algorithms
   - partition

@@ -2,6 +2,7 @@
 title: 'Degree and Weight Distributions'
 collection: algorithms
 permalink: /algorithms/degreeDistribution/
+cat: "static"
 tags:
   - algorithms
   - degree

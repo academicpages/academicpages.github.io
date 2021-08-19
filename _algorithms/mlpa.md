@@ -2,6 +2,7 @@
 title: 'Multi-Layer Dynamic Community Detection'
 collection: algorithms
 type: "Algorithms"
+cat: "temporal"
 permalink: /algorithms/mlpa/
 tags:
   - algorithms

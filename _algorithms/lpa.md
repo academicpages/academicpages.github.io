@@ -1,7 +1,6 @@
 ---
 title: 'Label Propagation Algorithm'
-collection: algorithms
-type: "Algorithms"
+cat: "static"
 permalink: /algorithms/lpa/
 tags:
   - algorithms
