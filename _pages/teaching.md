@@ -1,32 +1,32 @@
-[comment]: <> (---)
+---
 
-[comment]: <> (title: "Teaching")
+title: "Teaching"
 
-[comment]: <> (permalink: /teaching/)
+permalink: /teaching/
 
-[comment]: <> (author_profile: false)
+author_profile: false
 
-[comment]: <> (redirect_from:)
+redirect_from:
 
-[comment]: <> (  - /teaching)
+  - /teaching
 
-[comment]: <> (---)
+---
 
-[comment]: <> (<!-- Global site tag &#40;gtag.js&#41; - Google Analytics -->)
+<!-- Global site tag (gtag.js) - Google Analytics -->
 
-[comment]: <> (<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131324268-1"></script>)
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131324268-1"></script>
 
-[comment]: <> (<script>)
+<script>
 
-[comment]: <> (  window.dataLayer = window.dataLayer || [];)
+  window.dataLayer = window.dataLayer || [];
 
-[comment]: <> (  function gtag&#40;&#41;{dataLayer.push&#40;arguments&#41;;})
+  function gtag(){dataLayer.push(arguments);}
 
-[comment]: <> (  gtag&#40;'js', new Date&#40;&#41;&#41;;)
+  gtag('js', new Date());
 
-[comment]: <> (  gtag&#40;'config', 'UA-131324268-1'&#41;;)
+  gtag('config', 'UA-131324268-1');
 
-[comment]: <> (</script>)
+</script>
 
 ### Lead Teaching Assistant for the [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html) course - Edinburgh University - 2017-2019
 - Heavily involved in creating all weekly teaching materials, usually in the form of Jupyter notebooks, in which
