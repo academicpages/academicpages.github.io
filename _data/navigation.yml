@@ -3,14 +3,14 @@ main:
   - title: "Home"
     url: /home/
 
-  - title: "CV"
-      url: /cv/
+  - title: "Resume"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "Blog Posts"
     url: /blog/
