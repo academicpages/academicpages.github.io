@@ -60,7 +60,7 @@ ICML paper format. This component requires supporting students in writing a conc
 - Course relating to integration of digital electronics and low-level programming in C++/Arduino
 
 ### Teaching Award Nominations
-- 2020-21 Staff Award for my service as the MLP TA - [Read Award Letter](/awards)
+- 2020-21 Staff Award for my service as the MLP TA - [Read Award Letter](/awards/)
 - 2019 5 Teaching Award Nominations on Best Practice in Inclusive Learning Award, Best Support
-Staff Award, 2 x Best Student Who Tutors Award and Best UK jPhD Tutor Award - [Read Nomination Letters](/awards)
+Staff Award, 2 x Best Student Who Tutors Award and Best UK jPhD Tutor Award - [Read Nomination Letters](/nominations/)
 - 2018 Nominated for the Best Student Who Tutors Award

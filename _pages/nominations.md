@@ -19,9 +19,5 @@ redirect_to:
 </script>
 
 
-[comment]: <> (### [Teaching Award Nomination Letters] &#40;/documents/teaching_award_nominations.pdf&#41;)
-
-[comment]: <> (### [Staff Award Letters] &#40;/documents/staff_award.pdf&#41;)
-
 
 
