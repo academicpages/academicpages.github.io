@@ -1,5 +1,5 @@
 ---
-title: "Nominations"
+title: "Awards"
 permalink: /awards
 author_profile: false
 redirect_from:
