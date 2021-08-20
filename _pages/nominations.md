@@ -1,7 +1,7 @@
 ---
 title: "Nominations"
 permalink: /nominations/
-author_profile: false
+author_profile: true
 redirect_from:
   - /staff_award_nominations
   - /teaching_award_nominations

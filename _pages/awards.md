@@ -1,7 +1,7 @@
 ---
 title: "Awards"
 permalink: /awards/
-author_profile: false
+author_profile: true
 redirect_from:
   - /teaching_awards
   - /staff_awards
