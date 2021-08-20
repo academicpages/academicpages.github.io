@@ -1,15 +1,10 @@
 ---
 
 title: "Teaching"
-
 permalink: /teaching/
-
 author_profile: false
-
 redirect_from:
-
   - /teaching
-
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

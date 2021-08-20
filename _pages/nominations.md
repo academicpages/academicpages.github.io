@@ -1,6 +1,6 @@
 ---
 title: "Nominations"
-permalink: /nominations
+permalink: /nominations/
 author_profile: false
 redirect_from:
   - /staff_award_nominations

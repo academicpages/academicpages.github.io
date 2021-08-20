@@ -1,6 +1,6 @@
 ---
 title: "Awards"
-permalink: /awards
+permalink: /awards/
 author_profile: false
 redirect_from:
   - /teaching_awards
