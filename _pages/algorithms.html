@@ -25,6 +25,6 @@ author_profile: true
     {%assign rpost = posts | split: '|'  | sort %}
     {% for post in rpost %}
       {% assign postitems = post | split: '#' %}
-      <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+      <a href={{ postitems[1] }}>{{ postitems[0] }}</a><br>
     {% endfor %}
   {% endfor %}

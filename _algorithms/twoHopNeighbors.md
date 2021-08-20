@@ -16,10 +16,9 @@ tags:
 
 ### Parameters
 * `node` _(String)_ -- The name of node `n`.
-                      If not specified, Raphtory will return all detected communities.
 * `name` _(String)_ -- Node name (_Default: `""`_). If not specified, node will be matched with its assigned ID.
-* `weight` _(String)_ -- Edge property (_Default: `""`_).
 * `neiSize` _(Int)_ -- Number of top neighbors sorted by a `property` to return for every node. If not specified, the full 2-hop network is returned.
+* `property` _(String)_ -- Edge property (_Default: `""`_).
 
 
 ### Returns
@@ -37,18 +36,16 @@ curl -X POST 127.0.0.1:8081/ViewAnalysisRequest \
   "analyserName":"com.raphtory.algorithms.twoHopNeighbors",
   "serialiserName":"com.raphtory.serialisers.DefaultSerialiser",
   "timestamp":10000,
-  "args":["Aragorn","name","",3"]
+  "args":["Aragorn","name","3"]
 }
 EOF
 ```
 This returns the following network;
-
 <p align="center">
-  <img src="../../images/2hop-ex.png" style="width: 30vw;" alt="2hop-network example"/>
+  <img src="../../images/2hop-ex.png" style="width: 18vw;" alt="2hop-network example"/>
 </p>
 
-
-```json
+ ```json
 {"time":10000,
 "Aragorn":["Arwen","Denethor","Boromir"],
 "Arwen":["Frodo","Elrond","Lúthien"],
