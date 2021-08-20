@@ -13,13 +13,13 @@ main:
     url: /teaching/    
 
   - title: "Blog Posts"
-      url: /blog/
+    url: /blog/
 
   - title: "Awards"
-      url: /awards/
+    url: /awards/
 
   - title: "Nominations"
-      url: /nominations/
+    url: /nominations/
 
 
 
