@@ -3,6 +3,9 @@ main:
   - title: "Home"
     url: /home/
 
+  - title: "CV"
+      url: /cv/
+
   - title: "Publications"
     url: /publications/
 
@@ -10,7 +13,15 @@ main:
     url: /teaching/    
 
   - title: "Blog Posts"
-    url: /blog/
-    
-  - title: "CV"
-    url: /cv/
+      url: /blog/
+
+  - title: "Awards"
+      url: /awards/
+
+  - title: "Nominations"
+      url: /nominations/
+
+
+
+
+
