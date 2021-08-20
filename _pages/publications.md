@@ -14,9 +14,13 @@ author_profile: false
 </script>
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=LNO4XZQAAAAJ&hl=en)
-
+- "Meta Learning for Supervised and Unsupervised Few-Shot Learning", A. Antoniou, PhD Thesis
+  * [Draft](https://drive.google.com/file/d/1Axu-Qer2ZLJlGGrM2Ujm5dKCNcl-6OcH/view?usp=sharing) 
 - "Defining Benchmarks for Continual Few-Shot Learning", A. Antoniou, M. Patacchiola, M. Ochal, A. Storkey, arXiv e-prints, 2020
   * [Paper](/documents/Benchmarks_for_Continual_Few_Shot_Learning.pdf) 
+  * [Live Discussion on Youtube](https://www.youtube.com/watch?v=7G9BlvodXRk)
+  * [NeurIPS 2020 Workshop Video Presentation](https://drive.google.com/file/d/1rBIuF0T2jXdIWT4PdEa2Y_8DWze1ozC7/view?usp=sharing)
+  * [NeurIPS 2020 Workshop Poster](https://drive.google.com/file/d/1_XNPLp1XDkvXqYdpiE_aJ_na0M13_bqr/view?usp=sharing)
   * [Spec](/documents/continual_few_shot_learning_specifiation.pdf) 
   * [Task Provider Repo](https://github.com/AntreasAntoniou/FewShotContinualLearningDataProvider) 
   * [Experiments Repo](https://github.com/AntreasAntoniou/FewShotContinualLearning) 

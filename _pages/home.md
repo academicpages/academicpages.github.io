@@ -20,17 +20,11 @@ redirect_from:
   gtag('config', 'UA-131324268-1');
 </script>
 
-I am a Machine Learning PhD student at the University of Edinburgh, supervised by Prof. Amos Storkey. I am a member of the [BayesWatch](https://www.bayeswatch.com/) research group and the Adaptive and Neural Computation (ANC) research institute. My broader research topic is 
-meta-learning in deep neural networks. More specifically, I am interested in applying meta-learning to 
-learn a variety of
-internal network components (e.g. losses, optimizers, learning rates, architectures, memory modules, 
-initializations etc.) such that a model can perform very well on a target task. 
-
-Wait.. What is <em>meta-learning</em>?
-
-Meta-learning or *learning to learn* can be broadly defined as a machine learning paradigm, where we learn the learning algorithms themselves. The premise of such meta-learned learning algorithms lies in the fact that they are learned over a number of hours/days,
- and will often generalize better than manually invented learning algorithms.
-In essence, building systems that become more proficient at learning with more experience, thus learning *how* to learn.
+I am a Machine Learning Research Associate at the University of Edinburgh, supervised by Prof. Amos Storkey. 
+I am a member of the [BayesWatch](https://www.bayeswatch.com/) research group and the Adaptive and Neural Computation (ANC) 
+research institute. My broader research topic is the design and/or learning of learning priors for deep neural networks, such that systems
+that are robust to transfer across data domains, tasks and modalities is possible. To achieve this, I utilize meta-learning, differentiable and non-differentiable learning, adversarial learning and multi-modal learning, which is 
+where the majourity of my current work revolves.
 
                                                                                 
 
