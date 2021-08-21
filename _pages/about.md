@@ -22,14 +22,14 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
 ## Upcoming Talks
-Yongjun Zhang. 2021. The Power of Shareholder Political Transparency Activism. Social Issues in Managment Division. Academy of Management Annual Conference.
+Yongjun Zhang. Oct 2021. "Human Mobility and Racial Segregation in the U.S. Metro Areas, 2019-2020." Department of Sociology, SUNY Baffalo.
 
-Yongjun Zhang. 2021.  “How Does the American State Recognize Movements? Social Movement Organizations Before Congressional Hearings, 1900-2000.” American Sociological Association 116th Annual Conference. With Charles Seguin and Tom Maher.
+Yongjun Zhang. Sept 2021. "Using Population Mobility Data to Measure Racial Segregation in the U.S." IACS, Stony Brook University.
 
 ## New Paper Alert
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://journals.sagepub.com/eprint/BKSEHRTXFS5BSZAP2WMN/full)." Sociological Perspectivies.
 
-Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. “[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)” Poetics
+Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
 ## Working Paper
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://yongjunzhang.com/files/Seg_Draft.pdf)." 
