@@ -22,7 +22,7 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
 ## Upcoming Talks
-Yongjun Zhang. Oct 2021. "Human Mobility and Racial Segregation in the U.S. Metro Areas, 2019-2020." Department of Sociology, SUNY Baffalo.
+Yongjun Zhang. Oct 2021. "Human Mobility and Racial Segregation in the U.S. Metro Areas, 2019-2020." Department of Sociology, SUNY Buffalo.
 
 Yongjun Zhang. Sept 2021. "Using Population Mobility Data to Measure Racial Segregation in the U.S." IACS, Stony Brook University.
 
