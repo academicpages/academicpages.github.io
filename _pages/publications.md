@@ -34,7 +34,7 @@ author_profile: true
 
 + <b style="color:blue">[OSDI-2021]</b>
 **Yuke Wang**, Boyuan Feng, Gushu Li, Shuangchen Li, Lei Deng, Yuan Xie, Yufei Ding.<br/>
-***GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs.*** <br/>
+***GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs*** <br/>
 *USENIX Symposium on Operating Systems Design and Implementation*.<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://drive.google.com/file/d/12ccSlUe0GR8mM3iAMJuYbP0OjoSUYhlL/view?usp=sharing)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L1-L6)
