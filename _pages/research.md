@@ -18,3 +18,5 @@ How Aid, Visibility, and Volatility Affect Incumbents: Evidence from Kosovo (ema
 
 The Domestic Political Economy of Aid Withdrawal: The Case of "Kosova e Re" (email for draft)
 
+Race and the International Status Quo (with Lauren Ferry) (email for draft)
+
