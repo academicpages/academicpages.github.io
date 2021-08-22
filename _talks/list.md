@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
-**PbRL: Preference based Reinforcement Learning.** <span style="color:blue">RL Track, Microsoft Research Summit</span>, October 2021.
+<span style="color:blue">PbRL: Preference based Reinforcement Learning.</span> *RL Track, Microsoft Research Summit*, October 2021.
 
 \item[] \emph{``Adversarial Dueling Bandits"}, {\color{blue} Data Science in India, KDD Conference, India}, August 2021.
 
