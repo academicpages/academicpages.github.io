@@ -33,4 +33,5 @@ Professional Inline Skating Coach
 
 
 <br/><img src='/images/skate/skatetoefoot.JPG'>
+<br/><img src='/images/skate/skate01.mp4'>
  
