@@ -34,4 +34,4 @@ Professional Inline Skating Coach
 
 <br/><img src='/images/skate/skatetoefoot.JPG'>
  
- <video width="658" height="444" src="/videos/skate01.mp4" poster="/images/skate/skatetoefoot.JPG" autoplay="autoplay" preload="none"></video>
+<video width="658" height="444" src="/videos/skate01.mp4" poster="/images/skate/skatetoefoot.JPG" autoplay="autoplay" preload="none"></video>
