@@ -21,7 +21,7 @@ Professional Inline Skating Coach
 * National Registry of Coaches (NROC) [NROC](https://www.myactivesg.com/Sports/Find-a-Coach/Y/YANG-XUEHUAN)  
   * National Registry of Coaches (NROC) Accredited  Coaches under SportSG, Singapore
 
-* Sport Singapore 
+* Sport Singapore  [skate](https://youtu.be/RoHC_F4sJGc) [skate](https://youtu.be/3fjjuezOCew)
   * Singapore Coach Theory Level One 
   * Singapore Basic Sports Science 
 
