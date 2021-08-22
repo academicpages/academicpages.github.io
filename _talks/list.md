@@ -8,7 +8,7 @@ permalink: /talks/list.md
 **Tutorial:** <span style="color:blue">Preference Bandits.</span> *Asian Conference of Machine Learning (ACML)*. November 2021.<br/><br/>
 <span style="color:blue">PbRL: Preference based Reinforcement Learning.</span> *RL Track, Microsoft Research Summit*. October 2021.<br/><br/>
 <span style="color:blue">Adversarial Dueling Bandits.</span> *Data Science in India, KDD Conference, India*. August 2021.<br/><br/>
-*3 talks at ICML, 2021*. <br/><br/>
+*3 talks at ICML*, 2021. <br/><br/>
 <span style="color:blue">Battle of Bandits.</span> *Sabarmati Seminar Series, IIT Gandhinagar, India*. July 2021.<br/><br/>
 <span style="color:blue">Online Learning from Preferences.</span> *SIERRA-Seminar, Inria, Paris*. January 2020.<br/><br/>
 <span style="color:blue">Structured Battling Bandits.</span> *Microsoft Research, Bangalore, India*. October 2019.<br/><br/>
