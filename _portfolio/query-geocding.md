@@ -1,9 +1,12 @@
----
+[comment]: <> (---)
 
-title: "Query the Google geocode API for address ID"
-excerpt: "I used the exposed Google Geocoding API to get the address's latitude and longitude along with address id <br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+[comment]: <> (title: "Query the Google geocode API for address ID")
+
+[comment]: <> (excerpt: "I used the exposed Google Geocoding API to get the address's latitude and longitude along with address id <br/><img src='/images/500x300.png'>")
+
+[comment]: <> (collection: portfolio)
+
+[comment]: <> (---)
 
 ---
 ## Web Development project
