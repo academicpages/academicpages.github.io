@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.28)  16 AUG 2021 08:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.28)  23 AUG 2021 10:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -109,28 +109,98 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
+(/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count193
+\mult@box=\box49
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count194
+\c@collectmore=\count195
+\doublecol@number=\count196
+\multicoltolerance=\count197
+\multicolpretolerance=\count198
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
+\partial@page=\box50
+\last@line=\box51
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box52
+\mult@grightbox=\box53
+\mult@gfirstbox=\box54
+\mult@firstbox=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count199
+\c@columnbadness=\count266
+\c@finalcolumnbadness=\count267
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count268
+)
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfte
 x.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count193
-\l__pdf_internal_box=\box49
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box95
 ) (./CV_JPL.aux)
 \openout1 = `CV_JPL.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -168,19 +238,19 @@ LaTeX Font Info:    ... okay on input line 31.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 31.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+(lastpage)             ! on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
 
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
 
 
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (30.0pt too wide) in paragraph at lines 31--31
+Overfull \hbox (30.0pt too wide) in paragraph at lines 32--32
 [] 
  []
 
@@ -188,7 +258,7 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 31--31
 
 {/Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Overfull \hbox (5.74945pt too wide) in paragraph at lines 102--103
+Overfull \hbox (5.74945pt too wide) in paragraph at lines 103--104
 []\OT1/cmr/bx/n/10.95 Master's Pro-gram in Wildlife Man-age-ment, \OT1/cmr/m/n/
 10.95 US Wildlife Ser-vice, Uni-ver-si-dad Na-cional de C^^Sordoba,
  []
@@ -196,7 +266,7 @@ Overfull \hbox (5.74945pt too wide) in paragraph at lines 102--103
 [2
 
 ] [3] [4] [5] [6] [7] [8]
-Overfull \hbox (34.24142pt too wide) in paragraph at lines 448--457
+Overfull \hbox (34.24142pt too wide) in paragraph at lines 451--460
 [][] 
  []
 
@@ -204,26 +274,27 @@ Overfull \hbox (34.24142pt too wide) in paragraph at lines 448--457
 AED: lastpage setting LastPage
 (./CV_JPL.aux) ) 
 Here is how much of TeX's memory you used:
- 2578 strings out of 480714
- 36659 string characters out of 5902463
- 341189 words of memory out of 5000000
- 20045 multiletter control sequences out of 15000+600000
- 409807 words of font info for 51 fonts, out of 8000000 for 9000
+ 2706 strings out of 480714
+ 38663 string characters out of 5902463
+ 344782 words of memory out of 5000000
+ 20169 multiletter control sequences out of 15000+600000
+ 410148 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,10n,80p,1583b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
-</Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmcsc10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jesusnpl/Library/TinyTeX/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Library/TinyT
-eX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnpl/Librar
-y/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusnpl
-/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_JPL.pdf (10 pages, 157349 bytes).
+ </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/tcrm1095.600pk></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusnpl/Library/TinyTeX/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/jesusnpl/Library/TinyTeX/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jesusnpl/Library/Ti
+nyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Libra
+ry/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnp
+l/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/
+jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on CV_JPL.pdf (10 pages, 158046 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
