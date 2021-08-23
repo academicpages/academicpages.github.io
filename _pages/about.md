@@ -23,9 +23,6 @@ redirect_from:
 
 Select projects
 ======
-<mark>Marked text</mark>
-
-Web Development projects
 
 {% assign sorted_portfolio = site.portfolio | sort: 'priority' %}
 {% for post in sorted_portfolio %}
