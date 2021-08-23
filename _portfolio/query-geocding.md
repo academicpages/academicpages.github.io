@@ -6,6 +6,7 @@ excerpt: "I used the exposed Google Geocoding API to get the address's latitude 
 
 collection: portfolio
 
+priority: "1"
 ---
 ## This project is related to Web Development and SOA
 There are two parts of the code. One gives you an Address ID and the other gives you longitude and latitude after cleaning up the address. 
