@@ -1,14 +1,14 @@
+[comment]: <> ([comment]: <> &#40;---&#41;)
+
+[comment]: <> ([comment]: <> &#40;title: "Query the Google geocode API for address ID"&#41;)
+
+[comment]: <> ([comment]: <> &#40;excerpt: "I used the exposed Google Geocoding API to get the address's latitude and longitude along with address id <br/><img src='/images/500x300.png'>"&#41;)
+
+[comment]: <> ([comment]: <> &#40;collection: portfolio&#41;)
+
+[comment]: <> ([comment]: <> &#40;---&#41;)
+
 [comment]: <> (---)
-
-[comment]: <> (title: "Query the Google geocode API for address ID")
-
-[comment]: <> (excerpt: "I used the exposed Google Geocoding API to get the address's latitude and longitude along with address id <br/><img src='/images/500x300.png'>")
-
-[comment]: <> (collection: portfolio)
-
-[comment]: <> (---)
-
----
 ## Web Development project
 title: "Query the Google geocode API for address ID"
 excerpt: " <img src='/images/geocoder-02-01-2.gif'>" style='width:2000px;'> | *Highlighting people in a crowd violating social distancing protocol using detection and depth. Using an unconstrained input video we can infer depth and detect people who are close together.* <br/> <br/> 
