@@ -19,7 +19,8 @@ After you run the code an input prompt is displayed asking you for location. onc
 
 <Mark >Tools Used: </Mark>
 
-Python, Json, ***[Google Geocoding API] (https://developers.google.com/maps/documentation/geocoding/overview){:target="_blank"}***
+Python, Json
+***[Google Geocoding API] (https://developers.google.com/maps/documentation/geocoding/overview){:target="_blank"}***
 
 
 
