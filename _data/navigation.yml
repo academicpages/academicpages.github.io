@@ -1,10 +1,10 @@
 # main links links
-main:
-  - title: "CV/Bio"
-    url: /files/Safa Nasir-vA.pdf
+# main:
+#   - title: "CV/Bio"
+#     url: /files/Safa Nasir-vA.pdf
 
-  - title: "Web Development Projects"
-    url: /portfolio/
+#   - title: "Web Development Projects"
+#     url: /portfolio/
 
   # - title: "Awards & Honors"
   #   url: /awards/
