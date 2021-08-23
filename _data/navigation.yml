@@ -3,8 +3,8 @@ main:
   - title: "CV/Bio"
     url: /files/Safa Nasir-vA.pdf
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Web Development Projects"
+    url: /webdev/
 
   # - title: "Awards & Honors"
   #   url: /awards/
