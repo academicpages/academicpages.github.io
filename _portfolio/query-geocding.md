@@ -3,7 +3,7 @@
 title: "Query the Google Geocode API for address ID"
 ## This project is related to Web Development and SOA
 
-excerpt: "I used the exposed Google Geocoding API to get the address's latitude and longitude along with address id.  <br/><img src='/images/geocoder-02-01-2.gif' style='width:2000px;>"
+excerpt: "I used the exposed Google Geocoding API to get the address's latitude and longitude along with address id.  <br/><img src='/images/geocoder-02-01-2.gif' style='width:2000px;'>"
 
 collection: portfolio
 
