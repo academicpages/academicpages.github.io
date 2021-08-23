@@ -1,26 +1,32 @@
-[comment]: <> ([comment]: <> &#40;---&#41;)
+---
 
-[comment]: <> ([comment]: <> &#40;title: "Query the Google geocode API for address ID"&#41;)
+title: "Query the Google geocode API for address ID"
 
-[comment]: <> ([comment]: <> &#40;excerpt: "I used the exposed Google Geocoding API to get the address's latitude and longitude along with address id <br/><img src='/images/500x300.png'>"&#41;)
+excerpt: "I used the exposed Google Geocoding API to get the address's latitude and longitude along with address id <br/><img src='/images/geocoder-02-01-2.gif'>"
 
-[comment]: <> ([comment]: <> &#40;collection: portfolio&#41;)
+collection: portfolio
 
-[comment]: <> ([comment]: <> &#40;---&#41;)
+---
+
+---
+
+[comment]: <> (## Web Development project)
+
+[comment]: <> (title: "Query the Google geocode API for address ID")
+
+[comment]: <> (excerpt: " <img src='/images/geocoder-02-01-2.gif'>" style='width:2000px;'> | *Highlighting people in a crowd violating social distancing protocol using detection and depth. Using an unconstrained input video we can infer depth and detect people who are close together.* <br/> <br/> )
+
+[comment]: <> ([comment]: <> &#40;Developed using: **Python, Pytorch, Detectron2, Faster-RCNN, OpenCV, monocular depth estimation** <br> &#41;)
+
+[comment]: <> ([comment]: <> &#40;*[Github link]&#40;https://github.com/saliknadeem/social-distance-tool-with-depth&#41;{:target='_blank'}* "&#41;)
+
+[comment]: <> ([comment]: <> &#40;date: "May 2020"&#41;)
+
+[comment]: <> (collection: portfolio)
+
+[comment]: <> (priority: "1")
 
 [comment]: <> (---)
-## Web Development project
-title: "Query the Google geocode API for address ID"
-excerpt: " <img src='/images/geocoder-02-01-2.gif'>" style='width:2000px;'> | *Highlighting people in a crowd violating social distancing protocol using detection and depth. Using an unconstrained input video we can infer depth and detect people who are close together.* <br/> <br/> 
-
-[comment]: <> (Developed using: **Python, Pytorch, Detectron2, Faster-RCNN, OpenCV, monocular depth estimation** <br> )
-
-[comment]: <> (*[Github link]&#40;https://github.com/saliknadeem/social-distance-tool-with-depth&#41;{:target='_blank'}* ")
-
-[comment]: <> (date: "May 2020")
-collection: portfolio
-priority: "1"
----
 
 [comment]: <> (Built a simple social distance violation detection tool using Faster-RCNN, OpenCV and a monocular depth estimation algorithm developed using Pytorch. The tool can take a video as input and highlight people who are close together and are not maintaining social distance.)
 
