@@ -8,7 +8,7 @@ collection: portfolio
 
 ---
 
----
+[comment]: <> (---)
 
 [comment]: <> (## Web Development project)
 
