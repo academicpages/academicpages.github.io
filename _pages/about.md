@@ -17,7 +17,7 @@ redirect_from:
 # About Me
 * I am a Ph.D. student in the [SEIEE](http://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Lu Hongtao](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=156). [[Curriculum Vitae](https://safakhan413.github.io/files/Safa Nasir-vA.pdf)] 
 * My research interests lie in the general area of machine learning, particularly in deep learning, computer vision, deepfakes, generative modeling, facial recognition.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* I received my Bachelor’s Degree and Master's Degree at [lahore University of Management Sciences](https://lums.edu.pk/). My Graduate research advisors are Prof. [Ihsan Ayub Qazi](https://web.lums.edu.pk/~ihsan/)
 
 Getting started
 ======
