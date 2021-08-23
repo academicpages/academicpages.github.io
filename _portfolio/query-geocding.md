@@ -12,8 +12,13 @@ priority: "1"
 There are two parts of the code. One gives you an Address ID and the other gives you longitude and latitude after cleaning up the address. 
 After you run the code an input prompt is displayed asking you for location. once you enter the location, you get Address ID. To get lng and lat uncomment the relevant code. 
 
-[Github Link] https://bit.ly/3D7Qwuk
+<br/><img src='/images/geocoder-02-01-2.gif'>"
+
+***[Project link](https://bit.ly/3D7Qwuk){:target="_blank"}***
 
 <Mark >Tools Used: </Mark>
+
+Python, Json, ***[Google Geocoding API] (https://developers.google.com/maps/documentation/geocoding/overview){:target="_blank"}***
+
 
 
