@@ -28,7 +28,7 @@ Selected publications
 ======
 1. Wang J, Chen R, He Z. [Traffic speed prediction for urban transportation network: A path based deep learning approach](https://www.sciencedirect.com/science/article/pii/S0968090X1831043X). Transportation Research Part C: Emerging Technologies, 2019, 100: 372-385. 
 2. Wang J, Sun L. [Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework](https://www.sciencedirect.com/science/article/pii/S0968090X20305763). Transportation Research Part C: Emerging Technologies, 2020, 116: 102661.
-3. Wang J, Sun L. [Reducing Bus Bunching with Asynchronous Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2105.00376.pdf).  [Appeared at Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI)](https://recorder-v3.slideslive.com/?share=41001&s=d0be2dfc-7ff1-4c94-ad7a-8cd2408e4591)
+3. Wang J, Sun L. [Reducing Bus Bunching with Asynchronous Multi-Agent Reinforcement Learning](https://www.ijcai.org/proceedings/2021/0060.pdf).  [Video](https://recorder-v3.slideslive.com/?share=41001&s=d0be2dfc-7ff1-4c94-ad7a-8cd2408e4591)
 
 Contact
 ------
