@@ -13,4 +13,5 @@ author_profile: true
        href="https://github.com/patel-zeel/blog/blob/master/_posts/BLR___GP.pdf">Bayesian linear regression is Gaussian process with linear kernel
     </a>
   </li>
+</ul>
 </details>
