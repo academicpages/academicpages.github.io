@@ -26,3 +26,6 @@ author_profile: true
   * Vehicle-to-Vehicle Communication
   * Localization and Navigation
 
+## Projects 
+  * Energy-Efficient Heterogeneous Network Virtualization with Spectrum-Power Trading
+  * Improving Spectrum Efficiency for Hyper-Dense IoT Networks
