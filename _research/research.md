@@ -26,3 +26,11 @@ author_profile: true
   * Video Transmission
   * Vehicle-to-Vehicle Communication
   * Localization and Navigation
+
+---
+permalink: /research/
+title: "Projects"
+excerpt: "research topics"
+author_profile: true
+
+---
