@@ -29,4 +29,4 @@ author_profile: true
 
 ## Projects 
   * Energy-Efficient Heterogeneous Network Virtualization with Spectrum-Power Trading ([link](https://xma-ultra-signals.github.io/_research/Project_NV/))
-  * Improving Spectrum Efficiency for Hyper-Dense IoT Networks ([link](https://xma-ultra-signals.github.io//research/Project_NV/))
+  * Improving Spectrum Efficiency for Hyper-Dense IoT Networks ([link](https://xma-ultra-signals.github.io//teaching/previous-teaching/))
