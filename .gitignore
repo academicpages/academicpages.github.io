@@ -4,5 +4,4 @@ Gemfile.lock
 .*.swp
 __pycache__
 .bundle/
-_config.local.yml
 vendor/
