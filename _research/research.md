@@ -28,5 +28,5 @@ author_profile: true
   * Localization and Navigation
 
 ## Projects 
-  * Energy-Efficient Heterogeneous Network Virtualization with Spectrum-Power Trading ([link](https://xma-ultra-signals.github.io//research/Project_NV/))
+  * Energy-Efficient Heterogeneous Network Virtualization with Spectrum-Power Trading ([link](xma-ultra-signals.github.io/_research/Project_NV.html/))
   * Improving Spectrum Efficiency for Hyper-Dense IoT Networks ([link](https://xma-ultra-signals.github.io//research/Project_IoT/))
