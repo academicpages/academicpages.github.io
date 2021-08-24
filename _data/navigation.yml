@@ -12,11 +12,15 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /blog/
     
   - title: "CV"
     url: /cv/
-    
+  
+  - title: "Slides"
+    url: /slides/
+  - title: "Digital Books"
+    url: /books/
   #- title: "Guide"
   #  url: /markdown/
