@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist interested in firm dyanamics and their relevance for aggregate outcomes. My research also touches on international trade and entrepreneurship. I received my PhD from NYU in 2018 and am currently a Research Economist at the Bank of Portugal.
+I am an economist interested in firm dyanamics and their relevance for aggregate economic outcomes. My research is the fields of macroeconomics, international trade and entrepreneurship. I received my PhD from NYU in 2018 and am currently a Research Economist at the Bank of Portugal.
 
 
 Publications
-======
+------
 **What are Uncertainty Shocks?** (with Anna Orlik and Laura Veldkamp)<br/>
 Journal of Monetary Economics, 2018, 100:1–15
 
@@ -20,7 +20,7 @@ Many modern business cycle models use uncertainty shocks to generate aggregate f
 
 
 Working papers
-======
+------
 **What's Driving the Decline in Entrepreneurship?**<br/>
 January 2018&mdash;New version coming soon!
 
@@ -34,7 +34,7 @@ Recessions can have a cleansing effect by encouraging the reallocation of resour
 
 
 Work in progress
-======
+------
 **Demand Learning, Customer Capital and Exporter Dynamics** (with Spencer Lyon)
 
 Recent empirical research has documented a rich set of facts about the dynamics of exporters. We develop a general equilibrium trade model in which these dynamics arise endogenously as a result of a customer accumulation friction and imperfect information about demand that can be resolved through learning. The model is used to study how accounting for the dynamics of exporters alters the gains from trade. The main finding is that these dynamics make an economy’s responsiveness to trade liberalization (or protectionism) much more dependent on its initial openness. Economies that are initially very open respond much more to a trade liberalization once exporter dynamics are accounted for, while economies that start with low levels of trade respond much less. For the US, for example, the dynamics of exporters can amplify the gains from lowering trade costs by as much as 30%.
