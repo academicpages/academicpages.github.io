@@ -20,7 +20,9 @@ main:
   
   - title: "Slides"
     url: /slides/
+    
   - title: "Digital Books"
     url: /books/
+    
   #- title: "Guide"
   #  url: /markdown/
