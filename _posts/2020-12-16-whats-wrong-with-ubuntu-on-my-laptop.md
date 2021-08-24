@@ -45,3 +45,14 @@ Con's of Linux-land:
 
 I recognize that these are such small things (aside from Office software!) that
 I might be able to hunt around among other distros to get a better experience.
+
+*August 2021 update*: I recently tried [elementary OS](https://elementary.io/),
+which impressed me both by its beauty and niceness, but also by the fact that:
+
+- My most needed swipe gesture, two fingers to go back on a webpage, worked
+  right out of the box on my Lenovo ThinkPad X1.
+- The keyboard shortcuts were very customizable, and Ctrl+Tab did the sensible
+  thing of changing tabs in the terminal.
+
+So Linux can't easily get arond the Word/Excel problems, but I think that's
+what we're down to nowadays.

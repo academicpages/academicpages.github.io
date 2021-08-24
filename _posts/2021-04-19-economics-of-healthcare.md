@@ -62,7 +62,12 @@ explanation (which you can find elsewhere in Case's and Deaton's book):
 - The 2003 law that established Medicare Part D (which pays for prescription drugs) had a "noninterference" clause that prevented Medicare from negotiating on drug prices with pharmaceutical companies. There's no way one could call this a "free" market.
 - The Federal Patent Office issues patents, which essentially prevent companies from making profits off of another company's innovations for some time, and the FDA creates [periods of exclusivity](https://www.fda.gov/drugs/development-approval-process-drugs/frequently-asked-questions-patents-and-exclusivity) during which a drug too similar to an existing, approved drug will not be approved. Patents and exclusivity certainly help innovation, but they aren't part of a truly "free" market, and they are examples of government "interference" in a market that is generally welcomed.
 - Federal and state governments essentially allow the medical profession (i.e., associations of physicians) to control medical education, licensure, and certification. In other words, the government allows doctors to decide how many doctors there are. It would be like the government allowing US car manufacturers to collude in deciding how many cars to sell each year (thus increasing the price) and preventing foreign cars from being imported.
-- Employer-provided healthcare is tax free. If your employer increases your compensation by \$1 in wages, then you and your employer may tax on that dollar, approaching half of it. If your employer gives you that \$1 as healthcare coverage, then neither you nor your employer pays tax. This is an enormous tax break for healthcare: we don't get, say, office furniture tax-free.
+- Employer-provided healthcare is tax free. If your employer increases your
+  compensation by \\$1 in wages, then you and your employer may tax on that
+  dollar, approaching half of it. If your employer gives you that \\$1 as
+  healthcare coverage, then neither you nor your employer pays tax. This is an
+  enormous tax break for healthcare: we don't get, say, office furniture
+  tax-free.
 
 # Healthcare can't be a free market anyway
 
