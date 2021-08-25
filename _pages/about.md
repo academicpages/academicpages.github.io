@@ -13,9 +13,9 @@ redirect_from:
 <img src="/resources/profile2.jpg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
-<p class="lead"> I am an Assistant Professor at Universidad de O'Higgins in Chile.</p>
+<p class="lead"> I am Senior Researcher at University of Turku, Finland.</p>
 
-<p class="lead"> Before joining Universidad de O'Higgins, I served one year as a post-doctoral fellow at Tulane University for the 2017-2018 AY. I received my Ph.D in Political Science from Rutgers University (New Brunswick, NJ) in the spring of 2017.</p>
+<p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) at Universidad de O'Higgins, Chile. I served one year as a post-doctoral fellow at Tulane University for the 2017-2018 AY. I received my Ph.D in Political Science from Rutgers University (New Brunswick, NJ) in the spring of 2017.</p>
 
 <p class="lead"> My research is either forthcoming, or has been published in the European Journal of Political Economy, Acta Politica, Journal of Politics in Latin America, Regional Science, Policy and Practice and Revista de Ciencia Politica. I am also an Associate Editor of Social Science (Springer).</p>
 
