@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-If file does not load below, click [THIS LINK](https://cseveren.github.io/files/Severen_CV_202106.pdf) to download.
+If file does not load below, click [THIS LINK](https://cseveren.github.io/files/Severen_CV_202108.pdf) to download.
 
-<embed src="{{ site.baseurl }}/files/Severen_CV_202106.pdf" width="650" height="800" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Severen_CV_202108.pdf" width="650" height="800" type='application/pdf'>
