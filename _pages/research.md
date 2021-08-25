@@ -26,10 +26,9 @@ redirect_from:
 
 ## Under Review, Revise and Resubmit, Submitted
 
-- Analyzing Conjoint Datasets with Support Vector Machine Methods. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **Under review, Political Analysis**. With Cristobal Quininao (UOH).
-
-
 ## In Preparation
+
+- **Analyzing Conjoint Datasets with Support Vector Machine Methods**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **Under review, Political Analysis**. With Cristobal Quininao (UOH).
 
 - **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **Data collection**. With Andrea Canales (UOH).
 
@@ -53,4 +52,4 @@ redirect_from:
 
 ## Invited Book Reviews
 
-- Inés Durán Matute (2019).[Indigenous Peoples and the Geographies of Power: Mezcala's Narratives of Neoliberal Governance](https://doi.org/10.1080/13260219.2019.1671679). **Journal of Iberian and Latin American Research**, Routledge.
+- Inés Durán Matute (2019). [Indigenous Peoples and the Geographies of Power: Mezcala's Narratives of Neoliberal Governance](https://doi.org/10.1080/13260219.2019.1671679). **Journal of Iberian and Latin American Research**, Routledge.
