@@ -52,7 +52,7 @@ Contact
 =======
 
 
-O'Higgins University
+University of Turku
 
 Hector.Bahamonde@uoh.cl
 
