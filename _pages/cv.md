@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Technology in Electrical Engineering, Indian Institute of Technology Hyderabad, 2021
+* M.S. in Electrical and Computer Engineering, University of California San Diego, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: SDE Intern
+  * BNY Mellon Technology, Pune, India
+  * Duties included: Migrating a internal platform from Adobe Flash
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019, Winter and Spring 2020: Research Assistant
+  * Dr. Kotato Kataoka, Associate Professor, IIT Hyderabad
+  * Worked on a IoT friendly blockchain platform.
+  * Work published at ICOIN 2021 [link](https://ieeexplore.ieee.org/document/9334000)
   
 Skills
 ======
