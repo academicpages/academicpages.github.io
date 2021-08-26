@@ -6,3 +6,9 @@ collection: group_members
 entries_layout: grid
 classes: wide
 ---
+
+{% include base_path %}
+
+{% for post in site.group_members %}
+  {% include archive-single.html %}
+{% endfor %}
