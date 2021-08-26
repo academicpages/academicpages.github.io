@@ -2,7 +2,6 @@
 title: Research group
 layout: splash
 permalink: /group/
-entries_layout: grid
 ---
 
 ## PhD students, main supervisor 
