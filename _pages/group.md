@@ -1,6 +1,6 @@
 ---
 title: Research group
-layout: splash
+layout: archive
 permalink: /group/
 ---
 
