@@ -12,21 +12,6 @@ permalink: /group/
 
 ## PhD students, co-supervisor
 
-feature_row:
-  - image_path: /images/Niklas_Gunnarsson.jpg
-    title: "Niklas Gunnarsson"
-    excerpt: "WASP Industrial PhD student at Elekta. Main supervisor [Thomas Schön](http://user.it.uu.se/~thosc112/)."
-    url: "https://katalog.uu.se/empinfo/?id=N18-2523"
-  - image_path: /images/bio-photo.jpg
-    title: "Dominik Fay"
-    excerpt: "WASP Industrial PhD student at Elekta. Main supervisor [Mikael Johansson](https://people.kth.se/~mikaelj/)."
-    url: "https://www.kth.se/profile/dominikf"
-  - image_path: /images/Jackie_Yik.png
-    title: "Jackie Yik"
-    excerpt: "PhD student. Main supervisor Erik J. Berg."
-
-{% include feature_row %}
-
 <img src="/images/Niklas_Gunnarsson.jpg" alt="Niklas Gunnarsson" width="150"/>
 
 [Niklas Gunnarsson](https://katalog.uu.se/empinfo/?id=N18-2523)
