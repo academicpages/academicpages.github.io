@@ -22,6 +22,6 @@ entries_layout: grid
 
 [Dominik Fay](https://www.kth.se/profile/dominikf)
 
-<img src="/images/bio-photo.jpg" alt="Jackie Yik" width="150"/>
+<img src="/images/Jackie_Yik.png" alt="Jackie Yik" width="150"/>
 
 [Jackie Yik](https://katalog.uu.se/profile/?id=N21-1121)
