@@ -15,5 +15,5 @@ author_profile: true
 ## Contact
 Email: yingcheng.sun (at) columbia (dot) edu    
 Personal Webpage: https://yingchengsun.github.io/academic/    
-Columbia Website:  
+Columbia Website: https://www.dbmi.columbia.edu/students/    
 
