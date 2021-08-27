@@ -16,7 +16,7 @@ permalink: /group/
 
 [Niklas Gunnarsson](https://katalog.uu.se/empinfo/?id=N18-2523)
 
-<img src="/images/bio-photo.jpg" alt="Dominik Fay" width="150"/>
+<img src="/images/Dominik_Fay.png" alt="Dominik Fay" width="150"/>
 
 [Dominik Fay](https://www.kth.se/profile/dominikf)
 
