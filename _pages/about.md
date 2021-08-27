@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a computer scientist on computational photography at Adobe's Emerging Product Group (EPG) led by [Marc Levoy](http://graphics.stanford.edu/~levoy/). Prior to that, I earned my Ph.D. in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). During my Ph.D. studies, I have had the fortune to work with Prof. [Michael Orchard](https://profiles.rice.edu/faculty/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/lantao_yu_cv_august_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
+* I earned my Ph.D. in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). During my Ph.D. studies, I have had the fortune to work with Prof. [Michael Orchard](https://profiles.rice.edu/faculty/michael-orchard). [[Curriculum Vitae](https://complexfilter.github.io/files/lantao_yu_cv_august_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=B1fy-hYAAAAJ&hl=en)]
 * My research interests lie in the area of image processing and computational photography, particularly in image interpolation, aliasing mitigation for image display, fusion, and compression.
 * I had a great summer as a research intern at Facebook in Menlo Park, CA. 
 * I had a great summer as a research intern at MERL in Cambridge, MA. 
@@ -16,7 +16,6 @@ redirect_from:
 
 
 # Recent News
-* August 23, 2021. I joined Adobe as a computer scientist on computational photography. 
 * July 31, 2021. One journal paper submitted to IEEE Transactions on Image Processing. 
 * June 4, 2021. The journal paper "Fast and High-Quality Multi-spectral Image Pansharpening" has been accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 * May 20, 2021. Two conference papers accepted by ICIP 2021. 
@@ -33,3 +32,4 @@ redirect_from:
 * April 30, 2019. Two paper accepted by ICIP 2019.
 * February 1, 2019. One paper accepted by ICASSP 2019.
 * May 4, 2018. One paper accepted by ICIP 2018.
+
