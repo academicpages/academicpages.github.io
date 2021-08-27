@@ -9,32 +9,30 @@ redirect_from:
 ---
 
 
-
 [CV](/files/vita_AiyiLi.pdf) [日本語CV](/files/vita_AiyiLi_jp.pdf)
 
 Master student,  
-[Bio-Inspired Networking lab](http://www-waka.ics.es.osaka-u.ac.jp/),  
+Bio-Inspired Networking Lab [Wakamiya Lab](http://www-waka.ics.es.osaka-u.ac.jp/),  
 Graduate School of Information Science and Technology,  
 Osaka University, Japan
 
 ## Work experience
 
-- Internship to be added++.
-
-- Technical Assistant, Center for lnternational Education and Exchange ([CIEE](https://ciee.osaka-u.ac.jp/en/)), Osaka University.
-
-- Part-time data structure subject programming teacher, Cram school for graduate school entrance.
-
-- Research Assistant, Institute of Social and Economic Research ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)), Osaka University & Department of Economics, Simon Fraser University, Summer 2021.
-
-- Intern Android Software Engineer, Shenzhen Danale Technology Co., Ltd, Autumn 2019.
+- Internship++
+- Internship, Backend team, Cocone Cooperation, Autumn 2021.
+- Technical assistant, Center for lnternational Education and Exchange, Osaka University, Summer 2021-.
+- Research assistant, Institute of Social and Economic Research, Osaka University & Department of Economics, Simon Fraser University, Summer 2021.
+- Part-time, Programming teacher, Imawa Education, Spring 2021-.
+- Internship, Android software engineer, Shenzhen Danale Technology Co., Ltd, Autumn 2019.
 
 ## Reading Book
 
+- Code: The Hidden Language of Computer Hardware and Software
+- Computer Systems: A Programmer's Perspective
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 - The Model Thinker: What You Need to Know to Make Data Work for You
 
-## My Shepherding Research
+## Shepherding Research
 
 Keywords: Swarm Intelligence, Multi-agent System, Motion Planning  
 Task: Multiple sheepdogs guide the sheep flock towards the goal zone cooperatively.
@@ -48,3 +46,10 @@ Slide for progressive reports.
 <!-- The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots). -->
 <!-- ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"} -->
 
+## Link
+
+- [Cocone Cooperation](https://www.cocone.co.jp/)
+- [Center for lnternational Education and Exchange, Osaka University](https://ciee.osaka-u.ac.jp/)
+- [Institute of Social and Economic Research, Osaka University](https://www.iser.osaka-u.ac.jp/index.html)
+- [Imawa Education](http://www.imawaedu.com/)
+- [Shenzhen Danale Technology Co., Ltd](https://intl.danale.com/)

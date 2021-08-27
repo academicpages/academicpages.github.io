@@ -11,30 +11,29 @@ author_profile: true
 [CV](/files/vita_AiyiLi.pdf)　[日本語CV](/files/vita_AiyiLi_jp.pdf)
 
 修士学生  
-[バイオインスパイアードネットワーキング講座 若宮研究室](http://www-waka.ics.es.osaka-u.ac.jp/)  
+バイオインスパイアードネットワーキング講座 [若宮研究室](http://www-waka.ics.es.osaka-u.ac.jp/)  
 大学院情報科学研究科  
-大阪大学，日本  
+大阪大学 日本  
 
 ## 職歴
 
-- インターンシップを追加する予定
-
-- 事務補佐員，大阪大学国際教育交流センター ([CIEE](https://ciee.osaka-u.ac.jp/en/))
-
-- アルバイトデータ構造科目プログラミング教員，大学院進学塾
-
-- リサーチアシステント，大阪大学社会経済研究所 ([ISR](https://www.iser.osaka-u.ac.jp/index-e.html)) & サイモン・フレイザー大学経済学部，2021年夏
-
-- インターンアンドロイドソフトウェアエンジニア，Shenzhen Danale Technology Co., Ltd，2019 年秋
+- インターン++
+- インターン, バックエンドチーム, ココネ株式会社, 2021年秋
+- 事務補佐員, 大阪大学国際教育交流センター, 2021年夏ー
+- リサーチアシステント, 大阪大学社会経済研究所 & サイモン・フレイザー大学経済学部, 2021年夏
+- アルバイト, プログラミング教員, 今和教育, 2021年春ー
+- インターン, ソフトウェアエンジニア（Android）, Shenzhen Danale Technology Co., Ltd, 2019年秋
 
 ## 読本
 
-* Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
-* The Model Thinker: What You Need to Know to Make Data Work for You
+- Code: The Hidden Language of Computer Hardware and Software
+- Computer Systems: A Programmer's Perspective
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+- The Model Thinker: What You Need to Know to Make Data Work for You
 
-## 私の羊飼い研究
+## 羊飼い研究
 
-キーワード：群知能、マルチエージェントシステム、動作計画  
+キーワード：群知能, マルチエージェントシステム, 動作計画  
 タスク：複数の牧羊犬が協力して羊の群れをゴールゾーンに向けて誘導します
 
 進捗報告ためのスライド
@@ -45,3 +44,11 @@ author_profile: true
 
 <!-- The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots). -->
 <!-- ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"} -->
+
+## リンク
+
+- [ココネ株式会社](https://www.cocone.co.jp/)
+- [大阪大学国際教育交流センター](https://ciee.osaka-u.ac.jp/)
+- [大阪大学社会経済研究所](https://www.iser.osaka-u.ac.jp/index.html)
+- [今和教育](http://www.imawaedu.com/)
+- [Shenzhen Danale Technology Co., Ltd](https://intl.danale.com/)
