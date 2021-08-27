@@ -18,6 +18,8 @@ My research interests include Natural Language Processing, Machine Learning, wit
 
 News    
 ======
+<span style="color:red">[8.2021]</span> Our paper is accepted by the Applied Clinical Informatics (ACI)!   
+
 <span style="color:red">[4.2021]</span> Two papers got accepted by the Journal of Biomedical Informatics (JBI)!   
 
 <span style="color:red">[12.2020]</span> Our paper was accepted by AMIA 2021 Virtual Informatics Summit!    
@@ -33,9 +35,5 @@ News
 <span style="color:red">[5.2020]</span> Our work was reported by Eurekalert, Medical Press and DBMI in Columbia University!
 
  <span style="color:red">[4.2020]</span> Our paper was accepted by Journal of Biomedical Informatics (JBI) (IF: 3.526)!  
-
-<span style="color:red">[1.2020]</span> I joined Columbia University as an research scientist!    
-
- <span style="color:red">[12.2019]</span> I have successfully defended my Ph.D. dissertation!
 
   
