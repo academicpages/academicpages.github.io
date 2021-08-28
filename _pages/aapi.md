@@ -1,5 +1,6 @@
 ---
 permalink: /aapi/
+title: ""
 excerpt: "The Anti-Asian Attacks Project"
 author_profile: true
 ---
