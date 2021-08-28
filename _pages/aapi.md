@@ -1,6 +1,5 @@
 ---
 permalink: /aapi/
-title: "AAPI"
 excerpt: "The Anti-Asian Attacks Project"
 author_profile: true
 ---
@@ -20,7 +19,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/zhang.jpeg"></p>
 </td>
 <td>
-<p align="left">[Dr. Yongjun Zhang (PI)](https://www.stonybrook.edu/commcms/sociology/people/faculty/Zhang.php) is an assistant professor of sociology and IACS at Stony Brook University. He received my Sociology PhD in 2020 from the University of Arizona. He is a computational sociologist studying politics, organizations, social movements, and inequality.</p>
+<p align="left">Dr. Yongjun Zhang (PI)is an assistant professor of sociology and IACS at Stony Brook University. He received my Sociology PhD in 2020 from the University of Arizona. He is a computational sociologist studying politics, organizations, social movements, and inequality.</p>
 </td>
 </tr>
 
@@ -29,7 +28,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/yifan.jpeg"></p>
 </td>
 <td>
-<p align="left">[Dr. Yifan Sun (CO-PI)](https://www.cs.stonybrook.edu/people/faculty/YifanSun) is an assistant professor of computer science at Stony Brook University. She received her PhD from UCLA, and her research focus is optimization and machine learning, in both theory and applications.</p>
+<p align="left">Dr. Yifan Sun (CO-PI) is an assistant professor of computer science at Stony Brook University. She received her PhD from UCLA, and her research focus is optimization and machine learning, in both theory and applications.</p>
 </td>
 </tr>
 
@@ -56,7 +55,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/lantian.jpeg"></p>
 </td>
 <td>
-<p align="left">[Lantian Li](https://sociology.northwestern.edu/people/graduate-students/profiles/lantian-li.html) is a Ph.D. candidate in Sociology at Northwestern University. Her research focuses on the political economy of global health and biomedicine. </p>
+<p align="left">Lantian Li is a Ph.D. candidate in Sociology at Northwestern University. Her research focuses on the political economy of global health and biomedicine. </p>
 </td>
 </tr>
 
