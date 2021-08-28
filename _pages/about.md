@@ -12,11 +12,12 @@ I am a Ph.D. student in the [ielab](http://ielab.io/), School of Information Tec
 
 I am working on improving efficiency and effectiveness for deep language model based information retrieval system.
 
-
+<hr>
 
 {% include base_path %}
 {%- assign publications = site.publications | sort:"year" | reverse | group_by:"year" -%}
-<h1>{Publications}</h1>
+
+<h1>Publications</h1>
 {% for year in publications %}
   <h2>{{ year.name }}</h2>
   <ul>
