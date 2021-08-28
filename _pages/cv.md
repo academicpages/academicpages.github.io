@@ -11,30 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, São Paulo State University, 2012
-* M.S. in Physics, São Paulo State University, 2015
-* Ph.D in Materials Science and Technology, São Paulo State University, 2019
+* B.S. in Physics, 2012
+  * São Paulo State University "Julio de Mesquita Filho", UNESP, Rio Claro, SP, Brazil
+  * Senior Thesis: Applicability of the Freundlich and Langmuir isotherm equations in the biosorption interaction of textile dyes with lyophilized Saccharomyces cerevisiae
+  * Advisor: Carlos Renato Corso
+  * Scholarship: None
+* M.S. in Physics, 2015
+  * São Paulo State University "Julio de Mesquita Filho", UNESP, Rio Claro, SP, Brazil
+  * Master Thesis: Atomistic simulation of nanoscale systems
+  * Supervisor: Ricardo Paupitz Barbosa dos Santos
+  * Scholarship from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)
+* Ph.D in Materials Science and Technology, 2019
+  * São Paulo State University "Julio de Mesquita Filho", UNESP, Bauru, SP, Brazil
+  * Doctorate Thesis:  Computational Simulation and Modeling of Porous Carbon, Boron Nitride, Silicon and Zinc Oxide Nanotubes 
+  * Supervisor: Julio Ricardo Sambrano
+  * Scholarship from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)
+
+Postdoctorate
+======
+* 2019 - Today - Postdoc in Materials Science and Engineer 
+  * Federal University of Rio Grande do Norte, UFRN, Natal, Brazil
+  * Supervisor: Carlos Alberto Paskocimas
+  * Scholarship from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013: Junior Project Analyst 
+  * Zettatecck Automação Industrial
+  * Duties included: Electrical panel designer and VBA developer 
+
+* 2012: Physics Intern
+  * Zettatecck Automação Industrial
+  * Duties included: Electrical panel designer
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Classical Molecular Dynamics
+  * LAMMPS
+* Tight-Binding Theory
+  * DFTB+
+* Quantum Chemistry/Physics Simulations
+  * CRYSTAL
+  * Quantum Espresso
+  * VASP
+  * Siesta
+  * DMol3
+* Programming (Skill Level):
+  * Python (+++++)
+  * VBA (++++)
+  * C++ (++)
+* Methodology development
 
 Publications
 ======
@@ -42,13 +69,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* São Paulo State University "Julio de Mesquita Filho", UNESP, Rio Claro, SP, Brazil
+  * 2014 - Quantum Mechanics - Undergraduate Physics Course 
+* São Paulo State University "Julio de Mesquita Filho", UNESP, Rio Claro, SP, Brazil
+  * 2016 - Physics II - Undergraduate Production Engineer Course    
+  * 2016 - Physics III - Undergraduate Production Engineer Course
+  * 2017 - Mathematics applied to Engineering  - Undergraduate Engineer Course 
+  * 2018 - Differential and Integral Calculus II  - Undergraduate Engineer Course 
