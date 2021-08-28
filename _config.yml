@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Research Economist"
+  bio              : 
   location         : 
   employer         :
   pubmed           : 
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  CV               : "https://nicjkoz.github.io/files/CV_Kozeniauskas.pdf"
 
 
 # Reading Files
