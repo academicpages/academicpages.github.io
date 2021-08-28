@@ -38,7 +38,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/haolin.png"></p>
 </td>
 <td>
-<p align="left">Hao Lin is a doctoral student in the deparment of sociology at Stony Brook University. Her research focuses on social media, sociology of science, and computational social science.</p>
+<p align="left">Hao Lin is a doctoral student in the deparment of sociology at Stony Brook University. She received a BA in sociology in 2017 from Central University of Finance and Economics, China and a MSc in sociology from Utrecht University, the Netherlands, in 2019. Her research interests center on social media, social contagion and social networks. Broadly, she is interested in applying computational methods to study social behavior.</p>
 </td>
 </tr>
 
