@@ -3,7 +3,7 @@ title: "One- and two-dimensional structures based on gallium nitride"
 collection: publications
 permalink: /publication/Paper_17
 excerpt: ' '
-date: 2021-01-01	
+date: 2021-08-01	
 venue: 'Journal of Solid State Chemistry (2021)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'FABRIS, G. S. L.; PASKOCIMAS, C. A.; SAMBRANO, J. R.; PAUPITZ, R.; &quot; One- and two-dimensional structures based on gallium nitride.&quot; <i> J. Sol. Stat. Phys. (2021)</i> 303 : 122513.'
