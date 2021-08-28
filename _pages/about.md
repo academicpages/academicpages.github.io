@@ -21,7 +21,7 @@ Osaka University, Japan
 - Internship++
 - Internship, Backend team, Cocone Cooperation, Autumn 2021.
 - Technical assistant, Center for lnternational Education and Exchange, Osaka University, Summer 2021-.
-- Research assistant, Institute of Social and Economic Research, Osaka University, Summer 2021.
+- Research assistant, Institute of Social and Economic Research, Osaka University & Department of Economics, Simon Fraser University, Summer 2021.
 - Part-time, Programming teacher, Imawa Education, Spring 2021-.
 - Internship, Android team, Shenzhen Danale Technology Co., Ltd, Autumn 2019.
 
