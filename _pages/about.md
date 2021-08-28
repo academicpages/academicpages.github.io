@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist interested in firm dyanamics and their relevance for aggregate economic outcomes. My research is the fields of macroeconomics, international trade and entrepreneurship. I received my PhD from NYU in 2018 and am currently a Research Economist at the Bank of Portugal.
+I am an economist interested in firm dyanamics and their relevance for aggregate economic outcomes. My research is the fields of macroeconomics, international trade and entrepreneurship. I received my PhD from NYU in 2018 and am currently a Research Economist at the Bank of Portugal and a member of Business and Economics Research Unit at Cat&#243;lica-Lisbon.
 
 
 Publications
