@@ -29,7 +29,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/yifan.jpeg"></p>
 </td>
 <td>
-<p align="left">Dr. Yifan Sun (CO-PI) is an assistant professor of computer science at Stony Brook University. She received her PhD from UCLA, and her research focus is optimization and machine learning, in both theory and applications.</p>
+<p align="left">Dr. Yifan Sun (Co-PI) is an assistant professor of computer science at Stony Brook University. She received her PhD from UCLA, and her research focus is optimization and machine learning, in both theory and applications.</p>
 </td>
 </tr>
 
