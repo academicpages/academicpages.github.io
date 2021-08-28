@@ -35,7 +35,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 
 <tr>
 <td>
-<p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/lin.jpeg"></p>
+<p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/haolin.png"></p>
 </td>
 <td>
 <p align="left">Hao Lin is a doctoral student in the deparment of sociology at Stony Brook University. Her research focuses on social media, sociology of science, and computational social science.</p>
@@ -61,6 +61,12 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 </tr>
 
 </table>
+
+## Project Updates
+
+Zlab has successfully collected tweets mentioning racial slurs against aapi communities in the pandemic. 
+
+<p><img align="left" width="250" height="150" src="https://yongjunzhang.com/files/chinavirus.png"></p>
 
 
 ## ZLab Hiring
