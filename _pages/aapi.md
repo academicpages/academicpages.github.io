@@ -16,16 +16,16 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <table style="border:hidden;">
 <tr>
 <td>
-<p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/zhang.jpeg"></p>
+<p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/zhang.jpeg"></p>
 </td>
 <td>
-<p align="left">Dr. Yongjun Zhang (PI) is an assistant professor of sociology and IACS at Stony Brook University. He received my Sociology PhD in 2020 from the University of Arizona. He is a computational sociologist studying politics, organizations, social movements, and inequality.</p>
+<p align="left">Dr. Yongjun Zhang (PI) is an assistant professor of sociology and IACS at Stony Brook University. He received his Sociology PhD in 2020 from the University of Arizona. He is a computational sociologist studying politics, organizations, social movements, and inequality.</p>
 </td>
 </tr>
 
 <tr>
 <td>
-<p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/yifan.jpeg"></p>
+<p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/yifan.jpeg"></p>
 </td>
 <td>
 <p align="left">Dr. Yifan Sun (CO-PI) is an assistant professor of computer science at Stony Brook University. She received her PhD from UCLA, and her research focus is optimization and machine learning, in both theory and applications.</p>
@@ -34,7 +34,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 
 <tr>
 <td>
-<p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/lin.jpeg"></p>
+<p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/lin.jpeg"></p>
 </td>
 <td>
 <p align="left">Hao Lin is a doctoral student in the deparment of sociology at Stony Brook University. Her research focuses on social media, sociology of science, and computational social science.</p>
@@ -43,16 +43,16 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 
 <tr>
 <td>
-<p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/pradeep.jpeg"></p>
+<p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/pradeep.jpeg"></p>
 </td>
 <td>
-<p align="left">Pradeep Nalluri is a master student in the department of computer science. </p>
+<p align="left">Pradeep Nalluri is a master student in the department of computer science at Stony Brook University. </p>
 </td>
 </tr>
 
 <tr>
 <td>
-<p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/lantian.jpeg"></p>
+<p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/lantian.jpeg"></p>
 </td>
 <td>
 <p align="left">Lantian Li is a Ph.D. candidate in Sociology at Northwestern University. Her research focuses on the political economy of global health and biomedicine. </p>
