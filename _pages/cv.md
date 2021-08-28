@@ -34,6 +34,19 @@ Postdoctorate
   * Supervisor: Carlos Alberto Paskocimas
   * Scholarship from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)
 
+Complementary Education
+======
+* Brasilia University, UnB, Brasília, Brazil
+  * 2016 - Describing Chemical Reactivity through QTAIM
+  * 2016 - 	Theoretical Chemistry in the Solid State: From Fundamentals to Applications 
+* São Paulo University, USP, Sao Paulo, Brazil
+  * 2015 - 	Advanced Functionalities in DFT - Quantum Espresso
+* International Centre for Theoretical Physics - SAIFR, ICTP - SAIFR, Brazil  
+  * 2014 - 	School on ES and Quantum Transport Methods
+* São Paulo State University "Julio de Mesquita Filho", UNESP, Sao Paulo, Brazil
+  * 2009 - Biophysics
+
+
 Work experience
 ======
 
