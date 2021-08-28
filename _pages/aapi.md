@@ -19,7 +19,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="200" height="200" src="https://yongjunzhang.com/images/zhang.jpeg"></p>
 </td>
 <td>
-<p align="left">Dr. Yongjun Zhang (PI)is an assistant professor of sociology and IACS at Stony Brook University. He received my Sociology PhD in 2020 from the University of Arizona. He is a computational sociologist studying politics, organizations, social movements, and inequality.</p>
+<p align="left">Dr. Yongjun Zhang (PI) is an assistant professor of sociology and IACS at Stony Brook University. He received my Sociology PhD in 2020 from the University of Arizona. He is a computational sociologist studying politics, organizations, social movements, and inequality.</p>
 </td>
 </tr>
 
