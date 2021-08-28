@@ -47,7 +47,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/pradeep.png"></p>
 </td>
 <td>
-<p align="left">Pradeep Nalluri is a master student in the department of computer science at Stony Brook University. </p>
+<p align="left">Pradeep Nalluri is a graduate student in the department of computer science at Stony Brook University. He completed his undergrad at Mahindra Ecole Centrale, India in 2019.He likes to build intelligent, scalable, and reliable software. He is also interested in solving use cases that belong to the NLP and Scalable AI domains</p>
 </td>
 </tr>
 
