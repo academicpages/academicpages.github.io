@@ -16,6 +16,7 @@ I am working on improving efficiency and effectiveness for deep language model b
 
 {% include base_path %}
 {%- assign publications = site.publications | sort:"year" | reverse | group_by:"year" -%}
+<h1>{Publications}</h1>
 {% for year in publications %}
   <h2>{{ year.name }}</h2>
   <ul>
