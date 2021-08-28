@@ -62,13 +62,15 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 
 </table>
 
-## Project Updates
-
-Zlab has successfully collected tweets mentioning racial slurs against aapi communities in the pandemic. 
-
-<p><img align="left" width="250" height="150" src="https://yongjunzhang.com/files/chinavirus.png"></p>
-
 
 ## ZLab Hiring
 
 We are hiring undergraduate research assistants now. Feel free to contact Dr. Zhang. 
+
+## Project Updates
+
+Zlab has successfully collected tweets mentioning racial slurs against aapi communities in the pandemic. 
+
+<p><img align="left" width="400" height="250" src="https://yongjunzhang.com/files/chinavirus.png"></p>
+
+
