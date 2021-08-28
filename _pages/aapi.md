@@ -56,7 +56,7 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="150" height="150" src="https://yongjunzhang.com/images/lantian.jpeg"></p>
 </td>
 <td>
-<p align="left">Lantian Li is a Ph.D. candidate in Sociology at Northwestern University. Her research focuses on the political economy of global health and biomedicine. </p>
+<p align="left">Lantian Li is a Ph.D. candidate in Sociology at Northwestern University. Her research focuses on the political economy of global health and biomedicine. She has published in World Development, Qualitative Research, Asian Journal of Law and Society, Frontiers in Sociology, and Journal of Chinese Governance. Her work has been funded by the Association for Asian Studies, the Chiang Ching-kuo Foundation, the China Times Cultural Foundation, and the Buffett Institute for Global Affairs. </p>
 </td>
 </tr>
 
