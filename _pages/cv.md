@@ -18,9 +18,17 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+
+{%- assign publications = site.publications | sort:"year" | reverse | group_by:"year" -%}
+{% for year in publications %}
+  {%- for post in year.items -%}
+    {% include archive-single.html %}
+  {%- endfor -%}
+{% endfor %}
+
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- 
 Talks
