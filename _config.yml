@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander"
+title                    : "Alexander Quispe"
 title_separator          : "-"
-name                     : &name "Alexander Quispe Rojas"
-description              : &description "personal description"
+name                     : &name "Alexander Quispe"
+description              : &description "World Bank Research Analyst. Causal inference and Machine Learning."
 url                      : https://alexanderquispe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexanderquispe/alexanderquispe.github.io"
@@ -81,12 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "foto_alex_hd.jpg"
+  bio              : "Msc. Quantitative Economics-University of Munich."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "alexanderquispe"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Alex_QR_CG"
   vine             :
   weibo            :
   xing             :
