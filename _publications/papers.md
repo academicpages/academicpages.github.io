@@ -15,9 +15,13 @@ author_profile: true
 
 
 ### 2021
+* Few-Shot Novel Concept Learning for Semantic Parsing <br/> **Soham Dan**, Osbert Bastani and Dan Roth. **Findings of EMNLP** 2021
+* Compositional Data and Task Augmentation for Instruction Following <br/> **Soham Dan\***, Xinran Han\* and Dan Roth. **Findings of EMNLP** 2021
+* On the Effects of Transformer Size on In- and Out-of-Domain Calibration <br/> **Soham Dan**, Dan Roth. **Findings of EMNLP** 2021
 * [Learning from Noisy Similar and Dissimilar Data](https://arxiv.org/pdf/2002.00995.pdf)<br/> **Soham Dan**, Han Bao, Masashi Sugiyama. **ECML-PKDD** 2021
 * [Variance Reduced Stochastic Proximal Algorithm for AUC Maximization](https://arxiv.org/abs/1911.03548)<br/> **Soham Dan \***, Dushyant Sahoo\*. **ECML-PKDD** 2021
 * [Generalization in Instruction Following Systems](https://www.aclweb.org/anthology/2021.naacl-main.76.pdf) <br/>**Soham Dan**, Michael Zhou, Dan Roth. **NAACL** 2021.
+* [Human-guided Collaborative Problem Solving: A Natural Language based Framework](https://icaps21.icaps-conference.org/demos/demos/375.pdf) <br/> Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, **Soham Dan**, Anjali Narayan-Chen, Prashant Jayannavar, Janardhan Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer, and Dan Roth. **ICAPS** 2021 (demos)
 
 ### 2020
 * [A Locally Linear Procedure for Word Translation ](https://www.aclweb.org/anthology/2020.coling-main.528.pdf) <br/>**Soham Dan**, Hagai Taitelbaum, Jacob Goldberger. **COLING** 2020.
