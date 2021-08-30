@@ -1,13 +1,14 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
+  name        : "Jacob Coffee"
+  uri         : "https://scriptr.dev"
+  email       : "jacob@scriptr.dev"
+  bio         : "My research interests include artificial intelligence, cloud computing and programmable matter."
+  avatar      : "profile.jpg"
+  twitter     : "Sciptr"
   google_plus : "Name"
+  linkedin    : "JacobCoffee"
 
 Name2 Name2:
   name        : "Name2 Name2"
