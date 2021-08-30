@@ -1,7 +1,8 @@
-- citation: '**SW Olesen**, M Imakaev, C Duvallet. Applications of
-  wastewater-based epidemiology as a leading indicator for COVID-19. *Water
-  Research* (2021).'
-  url: https://arxiv.org/abs/2104.00684
+- citation: '**SW Olesen**, M Imakaev, C Duvallet. Making waves: Defining the
+  lead time of wastewater-based epidemiology for COVID-19. *Water Research*
+  (2021).'
+  pmid: 34304074
+  pmc: PMC8282235
   doi: 10.1016/j.watres.2021.117433
 - citation: 'DS Sun, SM Kissler, S Kanjilal, **SW Olesen**, M Lipsitch, YH
   Grad.  Large variation in the association between seasonal antibiotic use and
