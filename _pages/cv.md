@@ -11,8 +11,14 @@ redirect_from:
 
 Education
 ======
+<<<<<<< HEAD
 * B.S. in Computer Science, Centro Universitário do Triângulo, 2012
 * M.S. in Computer Science with an emphasis on Artificial Intelligence, Federal University of uberlandia, 2019 (expected)
+=======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+>>>>>>> 25c30de2b4ce3e3f23559384699bb4b9865d6473
 
 Work experience
 ======
