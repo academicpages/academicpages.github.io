@@ -29,9 +29,16 @@ Skills
 * Tools
   * Git, Linux, Docker, AWS/GCP/Azure, Gradle, Maven, Jira, JWT, CI/CD
 
+Service and leadership
+======
+* Auburn Student ACM Club
+* Auburn Ethical Hacking Club
+* Auburn AI/Machine Learning Group
+* IEEE & ACM Student Member
+
 Publications
 ======
-  # Coming Soon
+# Coming Soon
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -42,10 +49,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Auburn Student ACM Club
-* Auburn Ethical Hacking Club
-* Auburn AI/Machine Learning Group
-* IEEE & ACM Student Member
