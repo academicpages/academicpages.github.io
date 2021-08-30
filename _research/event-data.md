@@ -1,9 +1,9 @@
 ---
-title: "Event data"
+title: "Conflict event data"
 layout: single-portfolio
 excerpt: "<img src='/images/research/map.png' alt=''>"
 collection: research
-order_number: 30
+order_number: 20
 header: 
   og_image: "research/map.png"
 ---
@@ -34,8 +34,8 @@ Navin Bapat, Daniel Gustafson, and Rob Williams. "Terrorism, Stealth Aggression,
 
 ## Manuscript in preparation
 
-William G. Nomikos and Rob Williams. "The Effects of UN Peacekeeping on Civilian Victimization: Evaluating Microlevel Evidence."
+William G. Nomikos, İpek Ece Sener, and Rob Williams. "Does UN Peacekeeping Prevent Communal Violence? Evidence from Disputes in Burkina Faso and Mali."
 
-> Peacekeeping operations are among the most visible and impactful of United Nations activities. These missions have proven effective at protecting civilians in both active conflicts and post-conflict societies. However, recent research suggests that United Nations peacekeepers do not protect civilians equally from all types of violence. Peacekeepers require the consent of the government to gain access to specific areas of the state's territory, and so must balance their need for access with their duty to protect civilians from state-perpetrated violence. We employ microlevel data to explore where different types of peacekeeping personnel are deployed within conflicts and how these decisions affect the overall effectiveness of United Nations efforts to protect civilians.
+> Research in political science has shown that UN peacekeeping operations are an important tool for ending civil war violence. However, much less is known about how UN peacekeepers affect communal violence at the level of the individual, family, or community. Given that  communal disputes over local issues such as land use, cattle herding, or access to resources are the main source of instability in Africa,  understanding how international actors can contribute to their resolution is a pressing concern. How does the presence of UN peacekeepers affect communal violence between civilians in conflict settings? We address this question by offering a straightforward empirical test of how UN peacekeeping patrols affect the likelihood that a communal dispute will become violent in an active conflict setting with a multidimensional peacekeeping operations. We build on the literature on communal conflicts to argue that peacekeepers deter violence against violence. To test our argument, we examine the case of Mail, the site of large-scale communal violence managed by UN peacekeepers since  2013. We employ a Geographic Regression Discontinuity Design (GRDD) around the border of Mali and Burkina Faso to estimate the causal effect of deploying peacekeepers to an area with growing communal tensions. We find that the presence of peacekeepers reduces the probability of the onset of communal violence by 17%. Furthermore, we show that the magnitude of this effect increases as the number of peacekeepers deployed to a given area increase. Ultimately, our research provides robust causal evidence that UN peacekeeping works at the local level.
 
 [Abstract](/files/pdf/research/UNPoC.pdf){: .btn--research}
