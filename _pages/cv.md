@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Computer Science, Auburn University, 2024 (expected)
-* Associate in Science in Computer Science & Programming, Wallace State Community College, 2022 (expected)
+* Associate of Science in Computer Science & Programming, Wallace State Community College, 2022 (expected)
 
 Work experience
 ======
@@ -23,19 +23,9 @@ Work experience
 Skills
 ======
 * Languages
-  * Java
-  * Python
-  * Javascript
-  * C++
-  * SQL
-  * Bash
-  * Powershell
+  * Java, Python, Javascript, C++, SQL, Bash, Powershell
 * Frameworks and Libraries
-  * Spring
-  * Hibernate
-  * Node.js
-  * Vue.js
-  * React
+  * Spring, Hibernate, Node.js, Vue.js, React
 * Tools
   * Git, Linux, Docker, AWS/GCP/Azure, Gradle, Maven, Jira, JWT, CI/CD
 
