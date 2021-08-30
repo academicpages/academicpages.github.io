@@ -19,7 +19,7 @@ author_profile: true
 
 > [**Wrong Place, Wrong Time: The Long-Run Effects of In-Utero Exposure to Malaria on Educational Attainment in Brazil**](https://drive.google.com/file/d/1ox3JGjarhUAoIURqLd-vjmK5jXUhFzj3/view?usp=sharing) (Revise & Resubmit, *Economics and Human Biology*)
 
-> [**Pull Up a Chair: Municipal Council Size and Local Taxes in Brazil**](https://cdep.sipa.columbia.edu/sites/default/files/cdep/WP89Kresch.pdf) (Under Review, *The Review of Economics and Statistics*)   
+> [**Pull Up a Chair: Municipal Council Size and Local Taxes in Brazil**](https://cdep.sipa.columbia.edu/sites/default/files/cdep/WP89Kresch.pdf)   
 With Evan Kresch, Rodrigo Schneider, and Mark Walker
 
 > [**Early-Life Exposure to Malaria and Adult Mortality: Evidence from the Brazilian Eradication Campaign**](https://drive.google.com/file/d/1dIZK5thBKYu-IsduU5E65SdG_z4sQW8h/view?usp=sharing)  
