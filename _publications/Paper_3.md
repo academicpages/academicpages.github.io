@@ -5,7 +5,7 @@ permalink: /publication/Paper_3
 excerpt: ' '
 date: 2017-04-10
 venue: 'Materials Research (2017)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://dx.doi.org/10.1590/1980-5373-mr-2016-0709'
 citation: 'BARBOSA, M. A.; FABRIS, G. S. L. ; FERRER, M. M.; AZEVEDO, D. H. M.; SAMBRANO, J. R. . &quot;Computational Simulations of Morphological Transformations by Surface Structures: The Case of Rutile TiO2 phase.&quot; <i>Mat. Res. (2017)</i> 20 (4): 920-925.'
 ---
 
