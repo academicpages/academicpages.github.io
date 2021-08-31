@@ -18,7 +18,7 @@ Peter Hase, Mohit Bansal
 
 **FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging**  
 Han Guo, Nazneen Fatema Rajani, Peter Hase, Mohit Bansal, Caiming Xiong  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/abs/2012.15781) [[code]](https://github.com/salesforce/fast-influence-functions)  
+*EMNLP 2021.* [[pdf]](https://arxiv.org/abs/2012.15781) [[code]](https://github.com/salesforce/fast-influence-functions)  
 
 **Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?**  
 Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal  
