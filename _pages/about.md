@@ -18,9 +18,11 @@ My research interests include Natural Language Processing, Machine Learning, wit
 
 News    
 ======
-<span style="color:red">[8.2021]</span> Our paper is accepted by the Applied Clinical Informatics (ACI)!   
+<span style="color:red">[8.2021]</span> Our paper is accepted by MEDINFO 2021! 
 
-<span style="color:red">[4.2021]</span> Two papers got accepted by the Journal of Biomedical Informatics (JBI)!   
+<span style="color:red">[7.2021]</span> Our paper is accepted by the Applied Clinical Informatics (ACI) (IF: 2.405)!   
+
+<span style="color:red">[4.2021]</span> Two papers got accepted by the Journal of Biomedical Informatics (JBI) (IF: 3.526)!   
 
 <span style="color:red">[12.2020]</span> Our paper was accepted by AMIA 2021 Virtual Informatics Summit!    
 
@@ -28,7 +30,7 @@ News
 
  <span style="color:red">[11.2020]</span> Our paper was accepted by Journal of the American Medical Informatics Association(JAMIA) (IF: 4.112)!    
 
- <span style="color:red">[10.2020]</span> I will serve as the TPC member for Journal of Biomedical Informatics (JBI)!    
+ <span style="color:red">[10.2020]</span> I will serve as the TPC member for Journal of Biomedical Informatics (JBI) (IF: 3.526)!    
 
  <span style="color:red">[7.2020]</span> Our paper was accepted by Scientific Data (IF: 5.541)! 
 
