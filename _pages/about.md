@@ -10,7 +10,7 @@ redirect_from:
 
 
 <a href="http://www.hectorbahamonde.com/">
-<img src="/resources/profile2.jpg" alt="me"  style="width:386px;height:330;;border:0;">
+<img src="/resources/profile2.jpeg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
 <p class="lead"> I am Senior Researcher at University of Turku, Finland.</p>
