@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My interests are in Software Development, Human Computer Interaction and Data Science. 
+I am first year Ph.D. in Computer Science at Georgia Institute of Technology.
+
+My research interest is the intersction of Deep Learning and Software Engineering. More specifically, I applied Deep Learning into Program Analysis to help software developers to write a good software.
 
 
-While I am working as a Software Developer at Advanced Electronics Company, I am also collabrating on research projects with Dr. Vincent Hellendoorn.
+
