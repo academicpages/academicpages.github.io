@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2021 - Paper accepted to EMNLP 2021: "FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging" [[pdf]](https://arxiv.org/abs/2012.15781) [[code]](https://github.com/salesforce/fast-influence-functions)
 * 2021 - Named as an [outstanding reviewer](https://2021.aclweb.org/blog/reviewer-list/) for ACL-IJCNLP 2021
 * 2021 - New paper on arxiv! "Search Methods for Sufficient, Socially-Aligned Feature Importance Explanations with In-Distribution Counterfactuals" [[pdf]](https://arxiv.org/abs/2106.00786) [[code]](https://github.com/peterbhase/ExplanationSearch)
 * 2021 - Started summer internship at FAIR, supervised by [Srini Iyer](http://sriniiyer.github.io/). 
