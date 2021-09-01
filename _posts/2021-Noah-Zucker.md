@@ -11,7 +11,6 @@ tags:
 -identity
 
 ---
-<img src="https://gsipe-workshop.github.io/assets/IMG_3195.jpg" width="200" height="400" />
 
 Noah is a PhD candidate in political science at Columbia University, specializing in international and comparative political economy. His primary research agenda considers how climate politics interact with the social divisions endemic to many of the worldâ€™s most fossil fuel-intensive and ecologically vulnerable countries. He studies global climate governance and the broader themes of economic governance and identity in other work. His research is published in the Journal of Politics and has received APSAâ€™s McGillivray Award for Best Paper in Political Economy, Sage Paper Prize for Best Paper in Comparative Politics, and Award for Best Paper on Democracy and Autocracy.
 
