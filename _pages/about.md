@@ -52,9 +52,9 @@ Contact
 =======
 
 
-University of Turku
+University of Turku, Finland
 
-Hector.Bahamonde@uoh.cl
+hibano@utu.fi
 
 www.HectorBahamonde.com
 
