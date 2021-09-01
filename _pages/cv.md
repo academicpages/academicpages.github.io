@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version:](http://scriptr.github.io/files/resume.pdf)) 
+Resume in PDF Format: [Resume.pdf](http://scriptr.github.io/files/resume.pdf)) 
 
 Education
 ======
