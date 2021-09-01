@@ -12,7 +12,7 @@ tags:
   - corruption
   - multinational corporations
 ---
-<img src="https://gsipe-workshop.github.io/images/CRIPPA_LORENZO.jpg" width="200" height="400" />
+<img src="https://gsipe-workshop.github.io/images/CRIPPA_LORENZO.jpg" width="300" height="500" />
 
 I am a PhD student from the Department of Government at the University of Essex (UK). I am interested in the construction, enforcement and effects of state-based and international institutions that regulate multinational firms.
 
