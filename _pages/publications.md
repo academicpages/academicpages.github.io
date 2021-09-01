@@ -139,7 +139,8 @@ author_profile: true
 
 Submitted and under review
 
-109. M. S. Omar and X. Ma, “Pilot symbol aided channel estimation for OCDM transmissions,” *IEEE Signal Processing Letters*, submitted Aug. 2021. \
+109. M. S. Omar and X. Ma, “Pilot symbol aided channel estimation for OCDM transmissions,” *IEEE Communications Letters*, submitted Aug. 2021. 
+110. R. Zhang, Y. Wang, and X. Ma, “Carrier frequency offset and channel estimation for OCDM communications,” *IEEE Signal Processing Letters*, submitted Sept. 2021.\
 
 **Conference Publications**
 
