@@ -15,6 +15,6 @@ main:
   - title: "Our Team"
     url: /team/
         
-  - title: "Job Market 2021"
-    url: /job-market-2021/
+ # - title: "Job Market 2021"
+ #   url: /job-market-2021/
     
