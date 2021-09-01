@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Version:](http://scriptr.github.io/files/resume.pdf)) 
+
 Education
 ======
 * Bachelor of Computer Science, Auburn University, 2024 (expected)
