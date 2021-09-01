@@ -12,4 +12,4 @@ I am a Student of Computer Science at [Auburn University](https://auburn.edu) an
 
 I am a member of the ACM club as well as the AI, Ethical Hacking, and Competitive Programming groups.
 
-My research interests are the interplay between quantum computing, cloud computing, and artificial intelligence. I am also heavily interested in programmable matter, bioinformatics, and other breakthrough technologies. 
+My research interests are the interplay between quantum computing, cloud computing, and artificial intelligence. I am also heavily interested in programmable matter, bioinformatics, and other breakthrough technologies.
