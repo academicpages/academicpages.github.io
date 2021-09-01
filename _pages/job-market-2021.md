@@ -16,6 +16,8 @@ Profiles of graduate students in international political economy on the 2021 job
   {% endfor %}
 </ul>
 
+#JMCs by tags
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
