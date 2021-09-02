@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **M.Tech in Earth System Sciences**, Indian Institute of Technology Gandhinagar, 2021 (expected)
+* **M.Tech in Earth System Sciences**, Indian Institute of Technology Gandhinagar, 2021
   * Supervisor: Dr. Vimal Mishra, Associate Professor, IIT Gandhinagar
   * Thesis: "On the causes of tropical cyclone driven floods in India"
 * **PG Diploma in Remote Sensing and GIS**, Indian Institute of Remote Sensing-ISRO, 2019
