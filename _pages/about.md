@@ -14,6 +14,7 @@ redirect_from:
 </a>
 
 <p class="lead"> 
+
 I am a Senior Researcher at the University of Turku, Finland. I am affiliated with the [INVEST Flagship Center](https://invest.utu.fi) and the Political Science unit at UTU.</p>
 
 <p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) at Universidad de O'Higgins, Chile. Before that, I served one year as a post-doctoral fellow at Tulane University (New Orleans, LA). I received my Ph.D in Political Science from Rutgers University (New Brunswick, NJ) in the spring of 2017.</p>
