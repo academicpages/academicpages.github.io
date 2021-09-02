@@ -17,9 +17,10 @@ I am a Senior Researcher at the University of Turku, Finland. I am affiliated wi
 
 <p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) at Universidad de O'Higgins, Chile. Before that, I served one year as a post-doctoral fellow at Tulane University (New Orleans, LA). I received my Ph.D in Political Science from Rutgers University (New Brunswick, NJ) in the spring of 2017.</p>
 
+<p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>political development</b> and <b>clientelism</b>. As an applied methodologist I also have a strong interest in statistical (frequentist and Bayesian) as well as experimental methods (natural, lab and survey-based).</p>
+
 <p class="lead"> My research is either forthcoming, or has been published in the European Journal of Political Economy, Acta Politica, Journal of Politics in Latin America, Regional Science, Policy and Practice and Revista de Ciencia Politica. I am also an Associate Editor of Social Science (Springer).</p>
 
-<p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>political development</b> and <b>clientelism</b>. As an applied methodologist I also have a strong interest in statistical (frequentist and Bayesian) as well as experimental methods (natural, lab and survey-based).</p>
 
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
