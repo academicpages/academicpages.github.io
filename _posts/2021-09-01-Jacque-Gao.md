@@ -16,4 +16,4 @@ tags:
 I am a PhD candidate in Political Science at the University of Rochester. My specializations are formal political theory, comparative political economy (CPE), and international political economy (IPE). I am particularly interested in understanding how a dictator's survival strategies interact with the changing international environment. My research has been accepted for publication in International Organization, The Review of International Organizations, and Social Choice and Welfare.
 
 
-<a href= "https://https://www.jacquegao.com/">Personal Website</a>
+<a href= "https://www.jacquegao.com/">Personal Website</a>
