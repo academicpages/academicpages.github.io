@@ -33,7 +33,8 @@ _[\* means equal contribution.]_
 
 Talks/Presentations
 ======
-*  Talk at _[MCM 2021](https://www.uni-mannheim.de/mcm-2021/)_ (Special Session on Stein's method), August 2021, (Mannheim, German).
+*  Poster at _[Statistics at Bristol: Future Results and You 2021]_, September 2021, (Bristol, England, UK).
+*  Talk at _[13th International Conference on Monte Carlo Methods and Applications 2021](https://www.uni-mannheim.de/mcm-2021/)_ (Special Session on Stein's method), August 2021, (Mannheim, German).
 *  Poster at _[AISTATS 2021](https://aistats.org/aistats2021/)_, April 2021, (San Diego, California, USA).
 *  Talk at _Data Centric Engineering @ [The Alan Turing Institute](https://www.turing.ac.uk)_, March 2021, (London, UK).
 
