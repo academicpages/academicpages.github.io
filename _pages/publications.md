@@ -40,6 +40,7 @@ author_profile: true
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L1-L6)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/OSDI21_AE)
 [<b style="color:#a31503">[**Slides**]</b>](https://wang-yuke.com/files/osdi21_slides_wang.pdf)
+[<b style="color:#a31503">[**Video**]</b>](https://youtu.be/K8Q7Dgko0Gs)
 
 + <b style="color:blue">[USENIX ATC-2021]</b>
 Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
@@ -50,7 +51,7 @@ Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 
 
 + <b style="color:blue">[CCGrid-2021]</b> 
-**Yuke Wang**, Boyuan Feng, Gushu	Li,	Georgios Tzimpragos,	Lei	Deng, Yuan	Xie, Yufei Ding.
+**Yuke Wang**, Boyuan Feng, Gushu	Li,	Georgios Tzimpragos, Lei Deng, Yuan Xie, Yufei Ding.
 <br/>
 ***TiAcc: Triangle-inequality based Hardware Accelerator for K-means on FPGAs.*** 
 <br/>
@@ -102,6 +103,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L36-L41)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/DSXplore.git)
 [<b style="color:#a31503">[**Slides**]</b>](https://wang-yuke.com/files/ipdps21-Wang.pdf)
+[<b style="color:#a31503">[**Video**]</b>](https://wang-yuke.com/files/ipdps21-session12-Wang.mp4)
 
 
 + <b style="color:blue">[TCAD-2021] </b> 
