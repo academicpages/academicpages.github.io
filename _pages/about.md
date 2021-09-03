@@ -13,7 +13,7 @@ My name is Z. Sun, a 2nd year PhD student in machine learning and computational 
 
 Research Interest
 ======
-In general, I am very interested in __computational statistics__ and __machine learning__. Recently, I have worked on meta-learning, control variates and Stein's method.
+In general, I am very interested in __computational statistics__ and __machine learning__. Recently, I have worked on meta-learning and Stein's method.
 
 
 
