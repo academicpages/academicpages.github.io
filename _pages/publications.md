@@ -103,7 +103,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L36-L41)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/DSXplore.git)
 [<b style="color:#a31503">[**Slides**]</b>](https://wang-yuke.com/files/ipdps21-Wang.pdf)
-[<b style="color:#a31503">[**Video**]</b>](https://wang-yuke.com/files/ipdps21-session12-Wang.mp4)
+[<b style="color:#a31503">[**Video**]</b>](https://youtu.be/wvEexU_glPc)
 
 
 + <b style="color:blue">[TCAD-2021] </b> 
