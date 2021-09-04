@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align: justify;"> 
-Yuke Wang is a third-year Doctor of Philosophy (Ph.D.) in <a href="https://www.cs.ucsb.edu">computer science</a> at University of California, Santa Barbara (<a href="https://ucsb.edu">UCSB</a>). 
+Yuke Wang is a fourth-year Doctor of Philosophy (Ph.D.) in <a href="https://www.cs.ucsb.edu">computer science</a> at University of California, Santa Barbara (<a href="https://ucsb.edu">UCSB</a>). 
 He got his Bachelor of Engineering (B.E.) in software engineering from University of Electronic Science and Technology of China (<a href="https://en.uestc.edu.cn/">UESTC</a>) in 2018.</p> 
 
 <p style="text-align: justify;"> 
