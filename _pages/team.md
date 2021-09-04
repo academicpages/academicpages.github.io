@@ -8,7 +8,7 @@ author_profile: true
 Organizing Team
 -------
 <p>Email: <a href = "gsipe.workshop@gmail.com">gsipe.workshop@gmail.com</a></p>
-<p><a href = "https://wp.nyu.edu/cfbalcazar">Carlos Felipe Balcazar (NYU)</a></p>
+<p><a href = "https://cfbalcazar.github.io/">Carlos Felipe Balcazar (NYU)</a></p>
 <p><a href = "https://elizabethbitmeehan.com/">Elizabeth "Bit" Meehan (George Washington)</a></p>
 <p><a href = "https://www.linkedin.com/in/orianamontti/">Oriana Montti (Brandeis)</a></p>
 
