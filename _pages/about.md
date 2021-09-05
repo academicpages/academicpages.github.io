@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-09-05 13:09:33
- * @LastEditTime: 2021-09-05 13:24:53
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /argyili.github.io/_pages/about.md
--->
 ---
 permalink: /
 title: "About me"
