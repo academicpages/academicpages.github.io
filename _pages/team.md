@@ -22,17 +22,3 @@ Planning Team
 <p><a href = "https://ninaobermeier.com">Nina Obermeier (Cornell) </a></p>
 <p><a href = "https://giovannarodriguezgarcia.academia.edu">Giovanna Rodriguez-Garcia (CIDE & University of Konstanz) </a></p>
 <p><a href = "https://baptistesouillard.com">Baptiste Souillard (ULBruxelles)</a></p>
-
-      
-Newsletter
--------
-<p><a href = "https://https://www.rsis.edu.sg/gpo/graduate-programmes/ph-d-programme/phd-student-profiles/">Susan Kurdli ((S. Rajaratnam School of International Studies, Nanyang Technological University) </a></p>
-<p><a href = "https://calvinthrall.github.io">Calvin Thrall (UT Austin) </a></p>
-
-      
-Moderators
--------
-<p><a href = "https://ssijaz.github.io">Syeda ShahBano Ijaz (UCSD)</a></p>
-<p><a href = "https://https://politicalscience.olemiss.edu/current-ph-d-students/">Obaida Shammama (Mississippi) </a></p>
-
-
