@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! My name is D K Bhargav Achary, most people simply call me "Bhargav"!
 
-After being habituated to ask WHY and HOW 'n' number of times from my early education in Odisha, I have always fascinated for research! And, for finding answers to some of my WHYs on my own, I joined IIT Hyderabad as a graduate research student in 2018. I am in the 3rd year of my dual degree (M.Tech-Ph.D) in the dept of CSE at IITH, researching in the broad area of Deep Learning.
+After being habituated to ask WHY and HOW 'n' number of times from my early education in Odisha, I have always fascinated for research! And, for finding answers to some of my WHYs on my own, I joined IIT Hyderabad as a graduate research student in 2018. I have earned an MS in CSE at IITH, researching in the broad area of Deep Learning.
 
 My passion for consumer electronics and computing devices keeps me hooked up in exploring new related technologies and science. Through this website, I would disucss not just about my research, but also attempt to be a science and technology communicator.
 
