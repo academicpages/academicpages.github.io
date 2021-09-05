@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
+
 [CV](/files/vita_AiyiLi.pdf) [日本語CV](/files/vita_AiyiLi_jp.pdf)
 
 Master student,  
@@ -18,24 +19,24 @@ Osaka University, Japan
 
 ## Work Experience
 
-- Internship, Sider Inc, Fixstars Corporation, Autumn 2021.
-- Internship, Backend team, Cocone Corporation, Autumn 2021.
-- Technical assistant, Center for lnternational Education and Exchange, Osaka University, Summer 2021-.
-- Research assistant, Institute of Social and Economic Research, Osaka University & Department of Economics, Simon Fraser University, Summer 2021.
-- Part-time programming teacher, Imawa Academy, Spring 2021-.
-- Internship, Android team, Shenzhen Danale Technology Co., Ltd, Autumn 2019.
+Internship, Sider Inc, Fixstars Corporation, Autumn 2021  
+Internship, Backend team, Cocone Corporation, Autumn 2021  
+Technical assistant, Center for lnternational Education and Exchange, Handai, Summer 2021-  
+Research assistant, Institute of Social and Economic Research, Handai, Summer 2021  
+Part-time programming teacher, Imawa Academy, Spring 2021-  
+Internship, Android team, Shenzhen Danale Technology Co., Ltd, Autumn 2019
 
 ## Reading Book
 
-- Code: The Hidden Language of Computer Hardware and Software
-- Computer Systems: A Programmer's Perspective
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
-- The Model Thinker: What You Need to Know to Make Data Work for You
+Code: The Hidden Language of Computer Hardware and Software  
+Computer Systems: A Programmer's Perspective  
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  
+The Model Thinker: What You Need to Know to Make Data Work for You
 
 ## Shepherding Research
 
 Keywords: Swarm Intelligence, Multi-agent System, Motion Planning  
-Task: Multiple sheepdogs guide the sheep flock towards the goal zone cooperatively.
+Task: Multiple sheepdogs guide the sheep flock towards the goal zone cooperatively
 
 Slide for progressive reports.
 
