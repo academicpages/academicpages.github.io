@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-09-05 13:09:33
+ * @LastEditTime: 2021-09-05 13:24:53
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: /argyili.github.io/_pages/about.md
+-->
 ---
 permalink: /
 title: "About me"
@@ -16,7 +24,7 @@ Bio-Inspired Networking Lab [Wakamiya Lab](http://www-waka.ics.es.osaka-u.ac.jp/
 Graduate School of Information Science and Technology,  
 Osaka University, Japan
 
-## Work experience
+## Work Experience
 
 - Internship, Sider Inc, Fixstars Corporation, Autumn 2021.
 - Internship, Backend team, Cocone Corporation, Autumn 2021.
