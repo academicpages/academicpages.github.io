@@ -11,13 +11,21 @@ The Graduate Student International Political Economy Workshop (GSIPE) is a virtu
 
 We invite graduate students and faculty from Political Science and Economics with an interest in International Political Economy ([broadly defined](https://www.isanet.org/ISA/Sections/IPE)) to participate. We welcome papers in all stages of progress and job market papers.
 
-*News:* Our workshop schedule for the fall semester is ready, [check it here](https://gsipe-workshop.github.io/schedule/).
+<hr> 
 
-<p><i>Job Market Talks</i></p>
+*News:* 
+
+- Our workshop schedule for the fall semester is ready, [check it here](https://gsipe-workshop.github.io/schedule/).
+
+<hr> 
+
+**Workshop format:** 
+
+<p><i>Job Market Talks:</i></p>
 <p>Political science: 40 min. presentation, 40 min. Q&A</p>
 <p>Economics: 1 hr. presentation, 20 min. Q&A</p>
 
-<p><i>Regular Talks</i></p>
+<p><i>Regular Talks:</i></p>
 <p>Political science: 20 minutes presentation, 40 min. Q&A</p>
 <p>Economics: 45 min. presentation, 15 min. Q&A</p>
 
