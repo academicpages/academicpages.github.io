@@ -19,11 +19,11 @@ redirect_from:
 
 ## 職歴
 
-- インターン++
+- インターン，Sider株式会社，株式会社フィックスターズ，2021年秋
 - インターン，バックエンドチーム，ココネ株式会社，2021年秋
 - 事務補佐員，大阪大学国際教育交流センター，2021年夏ー
 - リサーチアシステント，大阪大学社会経済研究所 & サイモン・フレイザー大学経済学部，2021年夏
-- アルバイト，プログラミング教員，今和教育，2021年春ー
+- アルバイトプログラミング教員，今和教育，2021年春ー
 - インターン，Androidチーム，Shenzhen Danale Technology Co., Ltd，2019年秋
 
 ## 読本
@@ -42,13 +42,14 @@ redirect_from:
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="f3e79a213102427193d7c508bdf77f02" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-<script async class="speakerdeck-embed" data-slide="1" data-id="fbc8bd68d6934f66842fdd65bead31c4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<!-- <script async class="speakerdeck-embed" data-slide="1" data-id="fbc8bd68d6934f66842fdd65bead31c4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
 
 <!-- The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots). -->
 <!-- ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"} -->
 
 ## リンク
 
+- [Sider株式会社](https://sider.review/ja)
 - [ココネ株式会社](https://www.cocone.co.jp/)
 - [大阪大学国際教育交流センター](https://ciee.osaka-u.ac.jp/)
 - [大阪大学社会経済研究所](https://www.iser.osaka-u.ac.jp/index.html)

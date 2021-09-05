@@ -18,11 +18,11 @@ Osaka University, Japan
 
 ## Work experience
 
-- Internship++
-- Internship, Backend team, Cocone Cooperation, Autumn 2021.
+- Internship, Sider Inc, Fixstars Corporation, Autumn 2021.
+- Internship, Backend team, Cocone Corporation, Autumn 2021.
 - Technical assistant, Center for lnternational Education and Exchange, Osaka University, Summer 2021-.
 - Research assistant, Institute of Social and Economic Research, Osaka University & Department of Economics, Simon Fraser University, Summer 2021.
-- Part-time, Programming teacher, Imawa Education, Spring 2021-.
+- Part-time programming teacher, Imawa Academy, Spring 2021-.
 - Internship, Android team, Shenzhen Danale Technology Co., Ltd, Autumn 2019.
 
 ## Reading Book
@@ -41,14 +41,15 @@ Slide for progressive reports.
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="f3e79a213102427193d7c508bdf77f02" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-<script async class="speakerdeck-embed" data-slide="1" data-id="fbc8bd68d6934f66842fdd65bead31c4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<!-- <script async class="speakerdeck-embed" data-slide="1" data-id="fbc8bd68d6934f66842fdd65bead31c4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
 
 <!-- The shepherds (red spots) try to guide the sheep (grey spots) to the goal by selecting and driving target sheep (yellow spots). -->
 <!-- ![Shepherding Demo Gif](/files/shepherding_demo.gif){:height="75%" width="75%"} -->
 
 ## Link
 
-- [Cocone Cooperation](https://www.cocone.co.kr/)
+- [Sider Inc](https://sider.review/)
+- [Cocone Corporation](https://www.cocone.co.kr/)
 - [Center for lnternational Education and Exchange, Osaka University](https://ciee.osaka-u.ac.jp/en/)
 - [Institute of Social and Economic Research, Osaka University](https://www.iser.osaka-u.ac.jp/index-e.html)
 - [Imawa Education](http://www.imawaedu.com/)
