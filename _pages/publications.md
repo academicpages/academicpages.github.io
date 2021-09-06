@@ -11,7 +11,7 @@ Here are all my archival papers (peer-reveiwed journals, conferences, and worksh
 
 # 2021
 
-Sen, Indira, Fabian Floeck, Katrin Weller, Bernd Weiss, and Claudia Wagner. "[A total error framework for digital traces of human behavior on online platforms" Public Opinion Quarterly](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfab018/6359490?guestAccessKey=f4e5a7de-2268-4eed-ae95-d8cdab31f4b6)" [Extended Version](https://arxiv.org/abs/1907.08228)
+Sen, Indira, Fabian Floeck, Katrin Weller, Bernd Weiss, and Claudia Wagner. "[A total error framework for digital traces of human behavior on online platforms" Public Opinion Quarterly](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfab018/6359490?guestAccessKey=f4e5a7de-2268-4eed-ae95-d8cdab31f4b6)" [[Extended Version on ArXiv](https://arxiv.org/abs/1907.08228)]
 
 Samory, Mattia, Indira Sen, Julian Kohne, Fabian Floeck, and Claudia Wagner. "["Call me sexist, but...": Revisiting Sexism Detection Using Psychological Scales and Adversarial Samples.](https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888)" International Conference of Web and Social Media
 
