@@ -7,20 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-Here are all my archival papers (peer-reveiwed journals, conferences, and workshops). You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en).
+Here are all my archival papers (peer-reveiwed journals, conferences, and workshops). You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en). If you can't access a paper, [email me](indira.sen@gesis.org) for a pdf copy.
 
 # 2021
 
-Sen, Indira, Fabian Floeck, Katrin Weller, Bernd Weiss, and Claudia Wagner. "A total error framework for digital traces of humans." Public Opinion Quarterly (In Press) [Preprint](https://arxiv.org/abs/1907.08228)
+Sen, Indira, Fabian Floeck, Katrin Weller, Bernd Weiss, and Claudia Wagner. "[A total error framework for digital traces of humans." Public Opinion Quarterly](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfab018/6359490?guestAccessKey=f4e5a7de-2268-4eed-ae95-d8cdab31f4b6)" [Extended Version](https://arxiv.org/abs/1907.08228)
 
-Samory, Mattia, Indira Sen, Julian Kohne, Fabian Floeck, and Claudia Wagner. "" Unsex me here": Revisiting Sexism Detection Using Psychological Scales and Adversarial Samples." International Conference of Web and Social Media (In press) [Preprint](https://arxiv.org/abs/2004.12764)
+Samory, Mattia, Indira Sen, Julian Kohne, Fabian Floeck, and Claudia Wagner. "["Call me sexist, but...": Revisiting Sexism Detection Using Psychological Scales and Adversarial Samples.](https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888)" International Conference of Web and Social Media
 
 # 2020
 
 Sen, Indira, Fabian Flöck, and Claudia Wagner. "[On the reliability and validity of detecting approval of political actors in tweets.](https://www.aclweb.org/anthology/2020.emnlp-main.110.pdf)" In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1413-1426. 2020.
 
 
-Sen, Indira., 2020, October. [(Mis) Measuring People's Attitudes from Social Media.](https://dl.acm.org/doi/abs/10.1145/3406865.3418363) In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (pp. 159-164). (DOctoral Consortium)
+Sen, Indira., 2020, October. [(Mis) Measuring People's Attitudes from Social Media.](https://dl.acm.org/doi/abs/10.1145/3406865.3418363) In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (pp. 159-164). (Doctoral Consortium)
 
 # 2018
 
