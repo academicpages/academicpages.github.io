@@ -3,20 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Industry Experience"
+    url: /industry-experience/    
+  
+  - title: "Research"
+    url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Projcts"
+    url: /projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Activities"
+    url: /activities/
