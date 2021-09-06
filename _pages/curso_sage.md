@@ -5,7 +5,7 @@ permalink: /curso_sage/
 author_profile: true
 ---
 
-### Esse é o meterial de um mini-curso de SageMath para físicos que ministrei na Unesp (campus Guaratinguetá) no verão de 2021.
+### Esse é o meterial de um minicurso de SageMath para físicos que ministrei na Unesp (campus Guaratinguetá) no verão de 2021.
 
 
 * [Guia de referência rápida](/files/quickref-calc.pdf)
