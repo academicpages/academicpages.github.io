@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Job Market Candidates 2021"
 permalink: /job-market-2021/
 toc: true
