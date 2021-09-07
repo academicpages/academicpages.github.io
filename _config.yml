@@ -110,12 +110,12 @@ author:
   # stackoverflow    : http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "argyili"
+  # twitter          : "argyili"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  # wikipedia        : "asd"
+  # wikipedia        : ""
   leetcode-cn      : "argyi"
 
 # Reading Files
