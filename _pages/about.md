@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student of transportation at the Department of Civil Engineering, [McGill University](https://www.mcgill.ca/engineering/).  I am now working in [Smart Transport Group](https://smart-transport.github.io/) supervised by [Prof Lijun Sun](https://lijunsun.github.io/). 
+I am a third-year Ph.D. student of transportation at the Department of Civil Engineering, [McGill University](https://www.mcgill.ca/engineering/).  I am now working in [Smart Transport Group](https://smart-transport.github.io/) supervised by [Prof Lijun Sun](https://lijunsun.github.io/). 
 My current research centers on traffic control with machine learning techniques.   
 
 Before arriving at McGill, I got B.E. degree and M.S. degree from the Department of Intelligent Engineering at [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm), Guangzhou, China, where I mainly worked on urban network traffic prediction with deep learning. 
