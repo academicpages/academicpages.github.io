@@ -21,7 +21,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 **Workshop format:** 
 
-Participants are expected to read the papers before the workshop. Papers will be posted [here](https://gsipe-workshop.github.io/paper/) and circulated via the mailing list with the link to the Zoom meeting (you can suscribe to our [mailing list](#mailing)). 
+Participants are expected to read the papers before the workshop. Papers will be posted [here](https://gsipe-workshop.github.io/paper/) and circulated via the mailing list with the link to the Zoom meeting ([suscribe to our mailing list](#mailing)). 
 
 *Job Market Talks:*
 
