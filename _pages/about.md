@@ -53,5 +53,5 @@ Slide for progressive reports.
 - [Cocone Corporation](https://www.cocone.co.kr/)
 - [Center for lnternational Education and Exchange, Osaka University](https://ciee.osaka-u.ac.jp/en/)
 - [Institute of Social and Economic Research, Osaka University](https://www.iser.osaka-u.ac.jp/index-e.html)
-- [Imawa Education](http://www.imawaedu.com/)
+- [Imawa Academy](http://www.imawaedu.com/)
 - [Shenzhen Danale Technology Co., Ltd](https://intl.danale.com/)
