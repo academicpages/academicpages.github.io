@@ -91,7 +91,7 @@ details[open] p {
 <thead>
     <tr>
     <td class="tg-0pky">
-    <p><a href = "www.siyao-li.com"><b>Siyao Li</b></a></p>
+    <p style="font-size:20px"><a href = "www.siyao-li.com"><b>Siyao Li</b></a></p>
     <a href="www.siyao-li.com">
     <img src="https://gsipe-workshop.github.io/images/LI_SIYAO.jpg" width="340" height="360"
     ></a>
@@ -99,7 +99,7 @@ details[open] p {
   <details><summary>Bio</summary><p>I am currently a Ph.D. candidate in Political Science at the University of Pennsylvania. I was also a GPEP predoctoral fellow at Georgetown University's Mortara Center for International Studies for the 2020-2021 academic year. My research focuses on the politics of foreign direct investment and trade, and business-government relations. My dissertation book project investigates why and how foreign direct investment into weak institutional environments achieve property protection through host government institutions, especially in terms of technology assets. The paper version of my dissertation is a finalist for the GWU-CIBER Best Paper on Emerging Markets Award.</p>
   </details> </td>
     <td class="tg-0pky">
-    <p><a href = "https://www.noahzucker.com"><b>Noah Zucker</b></a></p>
+    <p style="font-size:20px"><a href = "https://www.noahzucker.com"><b>Noah Zucker</b></a></p>
 <a href="https://www.noahzucker.com">
     <img src="https://gsipe-workshop.github.io/images/Zucker_Noah.jpg" width="340" height="360"
     ></a>
@@ -112,7 +112,7 @@ details[open] p {
 <thead>
   <tr>
     <td class="tg-0pky">
-    <p><a href = "https://www.ninaobermeier.com/"><b>Nina Obermeier</b></a></p>
+    <p style="font-size:20px"><a href = "https://www.ninaobermeier.com/"><b>Nina Obermeier</b></a></p>
     <a href="https://www.ninaobermeier.com/">
     <img src="https://gsipe-workshop.github.io/images/OBERMEIER_NINA.jpg" width="340" height="360"
     ></a>
@@ -120,7 +120,7 @@ details[open] p {
   <details><summary>Bio</summary><p>I am a PhD candidate in the Department of Government at Cornell University. My research lies at the intersection of comparative politics and international relations. It examines how attitudes towards international affairs shape and are shaped by processes of political contestation at the domestic level. In my dissertation project, I explore how populist radical right parties can unintentionally drive support for international economic integration among Western European publics when they engage in extremist rhetoric. I use a wide range of methods in my research, including machine learning, quantitative text analysis, survey experiments, elite interviews, and quasi-experimental research designs.</p>
   </details> </td>
     <td class="tg-0pky">
-    <p><a href = "https://lorenzo-crippa.github.io"><b>Lorenzo Crippa</b></a></p>
+    <p style="font-size:20px"><a href = "https://lorenzo-crippa.github.io"><b>Lorenzo Crippa</b></a></p>
 <a href="https://lorenzo-crippa.github.io">
     <img src="https://gsipe-workshop.github.io/images/CRIPPA_LORENZO.jpg" width="340" height="360"
     ></a>
@@ -133,7 +133,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
     </tr>
   <tr>
     <td class="tg-0pky">
-    <p><a href = "https://aycankatitas.weebly.com/"><b>Acyan Katitas</b></a></p>
+    <p style="font-size:20px"><a href = "https://aycankatitas.weebly.com/"><b>Acyan Katitas</b></a></p>
     <a href="https://aycankatitas.weebly.com/">
     <img src="https://gsipe-workshop.github.io/images/KATITAS_AYCAN.jpg" width="340" height="360"
     ></a>
@@ -141,7 +141,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>I'm Aycan (pronounced I-John) and I'm a postdoctoral fellow at Princeton's Niehaus Center for Globalization and Governance during the 2021-2022 academic year. I have received my PhD from the University of Virginia's Department of Politics in Spring 2021. My specialty is international political economy and my research focuses on elite priming of opposition to international trade and foreign direct investment. Prior to UVA, I received my MA in European Interdisciplinary Studies from College of Europe (Poland) and my BA in Political Science and International Relations and Business Administration from Bogazici University (Turkey).</p>
   </details> </td>
     <td class="tg-0pky">
-    <p><a href = "https://calvinthrall.github.io/"><b>Calvin Thrall</b></a></p>
+    <p style="font-size:20px"><a href = "https://calvinthrall.github.io/"><b>Calvin Thrall</b></a></p>
 <a href="https://calvinthrall.github.io/">
     <img src="https://gsipe-workshop.github.io/images/thrall_calvin.png" width="340" height="360"
     ></a>
@@ -152,7 +152,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
     </tr>
     <tr>
     <td class="tg-0pky">
-    <p><a href = "https://aidanmilliff.com/"><b>Aidan Milliff</b></a></p>
+    <p style="font-size:20px"><a href = "https://aidanmilliff.com/"><b>Aidan Milliff</b></a></p>
     <a href="https://aidanmilliff.com/">
     <img src="https://gsipe-workshop.github.io/images/Milliff_Aidan.jpg" width="340" height="360"
     ></a>
@@ -161,7 +161,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 <br />Before MIT, Aidan was a James C. Gaither Junior Fellow in the South Asia Program at the Carnegie Endowment for International Peace. He was born and raised in Colorado.</p>
   </details> </td>
     <td class="tg-0pky">
-    <p><a href = "https://www.alexanderkirss.com/"><b>Alexander Kirss</b></a></p>
+    <p style="font-size:20px"><a href = "https://www.alexanderkirss.com/"><b>Alexander Kirss</b></a></p>
 <a href="https://www.alexanderkirss.com/">
     <img src="https://gsipe-workshop.github.io/images/KIRSS_ALEXANDER.jpg" width="340" height="360"
     ></a>
@@ -172,7 +172,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
     </tr>
     <tr>
     <td class="tg-0pky">
-    <p><a href = "https://www.jacquegao.com/"><b>Jacque Gao</b></a></p>
+    <p style="font-size:20px"><a href = "https://www.jacquegao.com/"><b>Jacque Gao</b></a></p>
     <a href="https://www.jacquegao.com/">
     <img src="https://gsipe-workshop.github.io/images/Gao_Jacque.jpg" width="340" height="360"
     ></a>
