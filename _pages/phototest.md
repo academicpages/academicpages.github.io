@@ -185,10 +185,11 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </thead>
 </table>
 
+<hr>
 
-Job Market Candidates by tags
+# Job Market Candidates by tags
 <a id='jmc_tag'></a>
-------
+
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
