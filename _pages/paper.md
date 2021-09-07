@@ -7,6 +7,8 @@ author_profile: true
 
 Monday, September 13th:
 
+[Noah Zucker](https://www.noahzucker.com/) (Columbia), presents:
+
 **Title:** ["*Group Ties amid Industrial Change: Historical Evidence from the Fossil Fuel Industry.*"](/_talks/Noah_Zucker_13SEP2021.pdf)
 
 **Abstract:**
