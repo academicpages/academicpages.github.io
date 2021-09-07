@@ -5,7 +5,7 @@ permalink: /job-market-2021/
 author_profile: true
 ---
 
-Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check out them by tag [here](#jmc_tag).
+Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag [here](#jmc_tag).
 
 <style>
 HTML SCSSResult Skip Results Iframe
