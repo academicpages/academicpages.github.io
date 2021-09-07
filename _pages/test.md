@@ -4,6 +4,7 @@ title: "Test for tags"
 permalink: /test/
 author_profile: true
 ---
+{{ content }}
 
 {% include toc title="Tags" %}
 
@@ -13,7 +14,7 @@ Profiles of graduate students in international political economy on the 2021 job
 <a id='jmc_tag'></a>
 
 {% for tag in site.tags %}
-  <h1 id="Blah">{{ tag[0] }}</h1>
+  <h1 class="archive__subtitle">{{ tag[0] }}</h1>
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
