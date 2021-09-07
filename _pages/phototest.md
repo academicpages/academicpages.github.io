@@ -44,12 +44,12 @@ details p {
   cursor: auto;
   background: #eee;
   padding: 15px;
-  width: 500px;
-  position: center;
-  left: 0;
+  width: 350px;
+  position: absolute;
+  left: -150px;
   top: 35px;
   border-radius: 4px;
-  right: 0;
+  right: 100px;
 
   &:before {
     content: "";
@@ -91,8 +91,8 @@ details[open] p {
 <thead>
     <tr>
     <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "www.siyao-li.com"><b>Siyao Li</b></a></p>
-    <a href="www.siyao-li.com">
+    <p style="font-size:20px"><a href = "https://www.siyao-li.com"><b>Siyao Li</b></a></p>
+    <a href="https://www.siyao-li.com">
     <img src="https://gsipe-workshop.github.io/images/LI_SIYAO.jpg" width="340" height="360"
     ></a>
   <br />
@@ -183,6 +183,19 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </tr>
   </thead>
 </table>
+
+
+JMCs by tags
+------
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 
 
