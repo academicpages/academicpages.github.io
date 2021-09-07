@@ -2,6 +2,8 @@
 layout: archive
 title: "Job Market Candidates 2021"
 permalink: /job-market-2021/
+toc: true
+toc_label: "JM tags"
 author_profile: true
 ---
 
