@@ -21,21 +21,27 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 **Workshop format:** 
 
-<p><i>Job Market Talks:</i></p>
-<p>Political science: 40 min. presentation, 40 min. Q&A</p>
-<p>Economics: 1 hr. presentation, 20 min. Q&A</p>
+Participants are expected to read the papers before the workshop. Papers will be posted [here](https://gsipe-workshop.github.io/paper/) and circulated via the mailing list with the link to the Zoom meeting (you can suscribe to our [mailing list](#mailing)). 
 
-<p><i>Regular Talks:</i></p>
-<p>Political science: 20 minutes presentation, 40 min. Q&A</p>
-<p>Economics: 45 min. presentation, 15 min. Q&A</p>
+*Job Market Talks:*
 
-Participants are expected to read the papers before the workshop. Papers will be posted on the “Paper” tab of the website and circulated via the mailing list. The link to the Zoom meeting will likewise be sent to the mailing list one hour before the start time of the meeting.
+Political science: 40 min. presentation, 40 min. Q&A.
 
-The workshop is committed to promoting the work and voices of Black, Indigenous, POC, and women scholars.
+Economics: 1 hr. presentation, 20 min. Q&A.
+
+
+*Regular Talks:*
+
+Political science: 20 minutes presentation, 40 min. Q&A.
+
+Economics: 45 min. presentation, 15 min. Q&A.
+
+*The workshop is committed to promoting the work and voices of Black, Indigenous, POC, and women scholars.*
 
 <hr> 
 
 Sign up for the GSIPE listserv below:
+<a id='mailing'></a>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
