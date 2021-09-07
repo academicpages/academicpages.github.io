@@ -181,6 +181,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </details>
   </td>
   </tr>
+  </thead>
 </table>
 
 
