@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Photo test"
-permalink: /phototest/
+title: "Job Market Candidates 2021"
+permalink: /job-market-2021/
 author_profile: true
 ---
 
