@@ -33,6 +33,8 @@ Participants are expected to read the papers before the workshop. Papers will be
 
 The workshop is committed to promoting the work and voices of Black, Indigenous, POC, and women scholars.
 
+<hr> 
+
 Sign up for the GSIPE listserv below:
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
