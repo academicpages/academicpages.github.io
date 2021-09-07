@@ -13,6 +13,16 @@ Profiles of graduate students in international political economy on the 2021 job
 # Test
 
 
+<table>
+  <tr>
+    <td>
+      <h2 id="testo">
+        Test
+      </h2>
+    </td>
+  </tr>
+</table>
+
 <a id='jmc_tag'></a>
 
 {% for tag in site.tags %}
