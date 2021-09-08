@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin"
-  avatar           : "images/profile_kevin.png"
+  name             : "Kaiwen Dong"
+  avatar           : "assets/img/profile_kevin.png"
   bio              : "PhD student at the University of Notre Dame"
   location         : "Notre Dame, IN"
   employer         :
