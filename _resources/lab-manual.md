@@ -35,7 +35,7 @@ Lab members are welcome to work from home if their current line of research allo
 
 Your mental and physical health are very important – to you and to ensure your success in the lab. You are expected to take time off when needed. If you feel as though you need help, contact Student Care for free: https://www.canterbury.ac.nz/support/needtotalk/. I expect that you will observe official university holidays unless there is a valid reason not to (e.g., the fish need to be fed), and I expect you will also take additional holidays. Taking vacation should be discussed two weeks or more in advance with me, and it is your responsibility to find someone to cover any lab duties you are responsible for. 
 
-## Meetings 
+## Meetings and contact
 
 ### One-on-one meetings
 We will meet formally each week to discuss results, progress, ideas, and relevant literature. Please come to each meeting prepared for substantive discussion – at least 1 thing you’re ready to show me (a plot, data table, thoughts on a paper, etc.) and at least 1 question (which could also be a plot, data, etc.). These discussion points should be documented in [your agenda](https://docs.google.com/document/d/1XCeJSv8ijn_hrwFPVYhswyJgRs69MkpsGHJIm-32pPY/edit?usp=sharing), which must be made available 24 hours prior to the meeting. Please also be ready to propose what you want to accomplish in the upcoming week in light of your week’s workload, and what adjustments need to be made to your schedule. In return, I will be ready for discussion and ideas for new directions. Early on and during ‘crunch’ periods, we may meet more frequently than once a week.
@@ -43,6 +43,12 @@ We will meet formally each week to discuss results, progress, ideas, and relevan
 ### Lab meetings
 
 Lab meetings are an opportunity for the group to discuss lab issues, important news, upcoming events, and to discuss the research being conducted in the lab. The format will change based on the lab members, but students are expected to regularly present at lab meetings and everyone is expected to participate in discussions.
+
+### Engagement with the lab Slack channel
+
+The lab uses Slack for its primary form of communication among lab members, including communication between Sarah and research students. It is not expected that you check or respond to Slack outside of standard working hours. Sarah might (and likely will!) send you messages at odd times, but will not expect a response until the next day's working hours. I recommend you set up your ‘do not disturb’ mode to fit your working hours (and adjust if sick or on vacation etc.) so as not to receive notifications at inconvenient times.
+
+If you don’t leave Slack open or have notifications through the desktop or mobile app (though you are really encouraged to do so), you are expected check and respond to messages at minimum once per day during the week. However, Slack is not meant to be an urgent messaging system -- unless a message is marked as urgent, if you are occupied do not feel obligated to drop what you’re doing and immediately respond to a message.
 
 ### Open Door Policy
 
@@ -101,7 +107,7 @@ All lab members are expected to have a GitHub profile, which should be linked to
 
 ## Expectations of all Lab Members
 
-We want everyone in the Flanagan lab to be honest, humble, happy, and healthy. You are expected to have a proactive attitude and contribute to the lab, bringing your enthusiasm and creativity with you. All lab members are expected to treat each other with respect and dignity, and harassment or scientific misconduct of any kind will not be tolerated (see Code of Conduct). It is common courtesy to keep common spaces clean and organized, and this is doubly true in the laboratory since we share space with others outside of our group. Acknowledge responsibility for your actions and avoid providing excuses for your behaviour.
+We want everyone in the Flanagan lab to be honest, humble, happy, and healthy. You are expected to have a proactive attitude and contribute to the lab, bringing your enthusiasm and creativity with you. All lab members are expected to treat each other with respect and dignity, and harassment or scientific misconduct of any kind will not be tolerated (see Code of Conduct). It is common courtesy to keep common spaces clean and organized, and this is doubly true in the laboratory since we share space with others outside of our group. Acknowledge responsibility for your actions and avoid providing excuses for your behaviour. All lab members are expected to communicate clearly, honestly, and kindly with each other via the channels outlined elsewhere in this document (lab meetings, Slack channels, etc.).
 
 I am committed to helping you develop skills and expertise that will facilitate your career goals, whatever they are and regardless of your current stage. Therefore, I expect you to be open with me about your goals, questions, and concerns so that we can help you along your career path. You are in control of your career and your degree, so I expect you to be vocal about the support that you need. In a similar vein, I expect you to stay on top of your key deadlines. I will do my best to help you but it is ultimately your responsibility. 
 
