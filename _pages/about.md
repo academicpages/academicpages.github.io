@@ -37,7 +37,8 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
        <a href="https://2021.splashcon.org/track/splash-2021-oopsla"> 
       [OOPSLA'21: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]</a>
       <br/>
-      [pre-print will be out soon!]
+      <a href="https://arxiv.org/abs/2109.02445">
+      [Arxiv]
     </font>
     </li>
 </ul>
