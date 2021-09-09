@@ -188,8 +188,6 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>Bio</summary><p>I am currently a Ph.D. candidate in Political Science at the University of Pennsylvania. I was also a GPEP predoctoral fellow at Georgetown University's Mortara Center for International Studies for the 2020-2021 academic year. My research focuses on the politics of foreign direct investment and trade, and business-government relations. My dissertation book project investigates why and how foreign direct investment into weak institutional environments achieve property protection through host government institutions, especially in terms of technology assets. The paper version of my dissertation is a finalist for the GWU-CIBER Best Paper on Emerging Markets Award.</p>
   </details> </td>
-  </tr>
-    <tr>
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://aidanmilliff.com/"><b>Aidan Milliff</b></a></p>
     <a href="https://aidanmilliff.com/">
