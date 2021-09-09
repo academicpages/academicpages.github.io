@@ -183,6 +183,18 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>I am a PhD candidate in Political Science at the University of Rochester. My specializations are formal political theory, comparative political economy (CPE), and international political economy (IPE). I am particularly interested in understanding how a dictator's survival strategies interact with the changing international environment. My research has been accepted for publication in International Organization, The Review of International Organizations, and Social Choice and Welfare.</p>
   </details>
   </td>
+        </td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://gshim8.wixsite.com/gshim"><b>Gyu Sang Shim</b></a></p>
+    <a href="https://www.jacquegao.com/">
+    <img src="https://gsipe-workshop.github.io/images/Gyu Sang_Shim - shimgyusang.jpg" width="340" height="360"
+    ></a>
+  <br />
+  <details><summary>Bio</summary><p>I am currently a Ph.D. candidate in the Department of Political Science at the University of Rochester. My research broadly focuses on political risks that foreign direct investment (FDI) faces. Within my research, I apply formal theory and implement quantitative analysis of firm-level datasets to study how multinational corporations handle political risks such as the host government's policy changes, armed conflicts, and investment screening. I am also interested in collecting new micro-level datasets to solve the issue of sample choice in FDI studies.</p>
+  </details>
+  </td> 
   </tr>
   </thead>
 </table>
