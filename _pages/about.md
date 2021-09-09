@@ -35,3 +35,7 @@ Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of andro
 
 ## Working Paper
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://yongjunzhang.com/files/Seg_Draft.pdf)." 
+
+## Social Media
+
+<a class="twitter-timeline" href="https://twitter.com/DrJoshZhang?ref_src=twsrc%5Etfw">Tweets by DrJoshZhang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
