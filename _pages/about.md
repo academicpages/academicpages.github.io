@@ -24,7 +24,9 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 ## Upcoming Talks
 Yongjun Zhang. Oct 2021. "Human Mobility and Racial Segregation in the U.S. Metro Areas, 2019-2020." Department of Sociology, SUNY Buffalo.
 
-Yongjun Zhang. Sept 2021. "Using Population Mobility Data to Measure Racial Segregation in the U.S." IACS, Stony Brook University.
+Yongjun Zhang. Oct 2021. "Using Population Mobility Data to Measure Racial Segregation in the U.S." IACS, Stony Brook University.
+
+Yongjun Zhang. Sept 24, 2021. "Residential Segregation in U.S. Metro Areas: Using Online Friendship and Human Movement Data to Measure Racial Segregation." Department of Physchology, Stony Brook University.
 
 ## New Paper Alert
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://journals.sagepub.com/eprint/BKSEHRTXFS5BSZAP2WMN/full)." Sociological Perspectivies.
