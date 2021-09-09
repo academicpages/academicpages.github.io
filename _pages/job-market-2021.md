@@ -122,7 +122,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
         <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://web.sas.upenn.edu/gemmad"><b>Gemma Dipoppa</b></a></p>
 <a href="https://web.sas.upenn.edu/gemmad">
-    <img src="https://gsipe-workshop.github.io/images/Gemma_Dpoppa.jpg" width="340" height="360"
+    <img src="https://gsipe-workshop.github.io/images/Gemma_Dipoppa.jpg" width="340" height="360"
     ></a>
   <br />
   <details><summary>Bio</summary><p>I am a Postdoctoral Fellow at Stanford and I received my PhD from University of Pennsylvania. I am interested in political economy, comparative politics and quantitative methods. My research examines current threats to the legitimacy of the state. In my dissertation and book project, I study how criminal organizations are expanding to the richest countries in the world and the consequences of this infiltration on politics. Strong states face important challenges in the management of migration. I ask what causes clashes between natives and migrants and how these fractures can be healed and integration policies be promoted without backlash.</p>
