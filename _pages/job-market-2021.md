@@ -93,36 +93,16 @@ details[open] p {
 <table class="tg">
 <thead>
     <tr>
-    <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.siyao-li.com"><b>Siyao Li</b></a></p>
-    <a href="https://www.siyao-li.com">
-    <img src="https://gsipe-workshop.github.io/images/LI_SIYAO.jpg" width="340" height="360"
+      <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.jcanfil.com"><b>Justin Canfil</b></a></p>
+    <a href="https://www.jcanfil.com">
+    <img src="https://gsipe-workshop.github.io/images/CANFIL_JUSTIN.png" width="340" height="360"
     ></a>
   <br />
-  <details><summary>Bio</summary><p>I am currently a Ph.D. candidate in Political Science at the University of Pennsylvania. I was also a GPEP predoctoral fellow at Georgetown University's Mortara Center for International Studies for the 2020-2021 academic year. My research focuses on the politics of foreign direct investment and trade, and business-government relations. My dissertation book project investigates why and how foreign direct investment into weak institutional environments achieve property protection through host government institutions, especially in terms of technology assets. The paper version of my dissertation is a finalist for the GWU-CIBER Best Paper on Emerging Markets Award.</p>
-  </details> </td>
-    <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.noahzucker.com"><b>Noah Zucker</b></a></p>
-<a href="https://www.noahzucker.com">
-    <img src="https://gsipe-workshop.github.io/images/Zucker_Noah.jpg" width="340" height="360"
-    ></a>
-  <br />
-  <details><summary>Bio</summary><p>Noah is a PhD candidate in political science at Columbia University, specializing in international and comparative political economy. His primary research agenda considers how climate politics interact with the social divisions endemic to many of the world's most fossil fuel-intensive and ecologically vulnerable countries. He studies global climate governance and the broader themes of economic governance and identity in other work. His research is published in the Journal of Politics and has received APSA's McGillivray Award for Best Paper in Political Economy, Sage Paper Prize for Best Paper in Comparative Politics, and Award for Best Paper on Democracy and Autocracy.</p>
-  </details> 
+  <details><summary>Bio</summary><p>Justin Key Canfil is a political scientist conducting research on the political economy of technology law, particularly in the context of international security, cyber conflict, and US-China relations. He holds joint postdoctoral affiliations with the Harvard Belfer Center, the Columbia-Harvard China and the World Program, and the Fletcher School of Law and Diplomacy. His book project, which uses computational, experimental, and archival methods to explain why some arms control regimes are more resilient to technological breakthroughs, has been supported by the NSF, a China Fulbright Scholarship, the US Departments of State and Education, and other major sources.  </p>
+  </details>
   </td>
-    </tr>
-</thead>
-<thead>
-  <tr>
-    <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.ninaobermeier.com/"><b>Nina Obermeier</b></a></p>
-    <a href="https://www.ninaobermeier.com/">
-    <img src="https://gsipe-workshop.github.io/images/OBERMEIER_NINA.jpg" width="340" height="360"
-    ></a>
-  <br />
-  <details><summary>Bio</summary><p>I am a PhD candidate in the Department of Government at Cornell University. My research lies at the intersection of comparative politics and international relations. It examines how attitudes towards international affairs shape and are shaped by processes of political contestation at the domestic level. In my dissertation project, I explore how populist radical right parties can unintentionally drive support for international economic integration among Western European publics when they engage in extremist rhetoric. I use a wide range of methods in my research, including machine learning, quantitative text analysis, survey experiments, elite interviews, and quasi-experimental research designs.</p>
-  </details> </td>
-    <td class="tg-0pky">
+      <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://lorenzo-crippa.github.io"><b>Lorenzo Crippa</b></a></p>
 <a href="https://lorenzo-crippa.github.io">
     <img src="https://gsipe-workshop.github.io/images/CRIPPA_LORENZO.jpg" width="340" height="360"
@@ -134,8 +114,19 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </details> 
   </td>
     </tr>
+</thead>
+<thead>
   <tr>
     <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.jacquegao.com/"><b>Jacque Gao</b></a></p>
+    <a href="https://www.jacquegao.com/">
+    <img src="https://gsipe-workshop.github.io/images/Gao_Jacque.jpg" width="340" height="360"
+    ></a>
+  <br />
+  <details><summary>Bio</summary><p>I am a PhD candidate in Political Science at the University of Rochester. My specializations are formal political theory, comparative political economy (CPE), and international political economy (IPE). I am particularly interested in understanding how a dictator's survival strategies interact with the changing international environment. My research has been accepted for publication in International Organization, The Review of International Organizations, and Social Choice and Welfare.</p>
+  </details>
+  </td>
+      <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://aycankatitas.weebly.com/"><b>Acyan Katitas</b></a></p>
     <a href="https://aycankatitas.weebly.com/">
     <img src="https://gsipe-workshop.github.io/images/KATITAS_AYCAN.jpg" width="340" height="360"
@@ -143,15 +134,25 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>Bio</summary><p>I'm Aycan (pronounced I-John) and I'm a postdoctoral fellow at Princeton's Niehaus Center for Globalization and Governance during the 2021-2022 academic year. I have received my PhD from the University of Virginia's Department of Politics in Spring 2021. My specialty is international political economy and my research focuses on elite priming of opposition to international trade and foreign direct investment. Prior to UVA, I received my MA in European Interdisciplinary Studies from College of Europe (Poland) and my BA in Political Science and International Relations and Business Administration from Bogazici University (Turkey).</p>
   </details> </td>
-    <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://calvinthrall.github.io/"><b>Calvin Thrall</b></a></p>
-<a href="https://calvinthrall.github.io/">
-    <img src="https://gsipe-workshop.github.io/images/thrall_calvin.png" width="340" height="360"
+  </tr>
+  <tr>
+  <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.alexanderkirss.com/"><b>Alexander Kirss</b></a></p>
+<a href="https://www.alexanderkirss.com/">
+    <img src="https://gsipe-workshop.github.io/images/KIRSS_ALEXANDER.jpg" width="340" height="360"
     ></a>
   <br />
-  <details><summary>Bio</summary><p>Calvin Thrall is a PhD candidate in the Department of Government at The University of Texas at Austin. He studies the politics of coercion, cooperation, and collusion between public and private actors; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. His work has been published in International Organization, The Review of International Organizations, Business and Politics, and AEA: Papers and Proceedings. His job market paper,'Spillover Effects in International Law: Evidence from Tax Planning,' received the David A. Lake Award for best paper presented at IPES 2020.</p>
+  <details><summary>Bio</summary><p>Alex is a PhD Candidate in the political science department at George Washington University, where he is concentrating in international relations and research methods. His research sits at the intersection of international political economy and security studies and investigates how businesses are affected by, respond to, and shape large scale international shocks such as interstate war, geopolitical competition, and pandemics.</p>
   </details> 
   </td>
+        <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.siyao-li.com"><b>Siyao Li</b></a></p>
+    <a href="https://www.siyao-li.com">
+    <img src="https://gsipe-workshop.github.io/images/LI_SIYAO.jpg" width="340" height="360"
+    ></a>
+  <br />
+  <details><summary>Bio</summary><p>I am currently a Ph.D. candidate in Political Science at the University of Pennsylvania. I was also a GPEP predoctoral fellow at Georgetown University's Mortara Center for International Studies for the 2020-2021 academic year. My research focuses on the politics of foreign direct investment and trade, and business-government relations. My dissertation book project investigates why and how foreign direct investment into weak institutional environments achieve property protection through host government institutions, especially in terms of technology assets. The paper version of my dissertation is a finalist for the GWU-CIBER Best Paper on Emerging Markets Award.</p>
+  </details> </td>
     </tr>
     <tr>
     <td class="tg-0pky">
@@ -164,25 +165,24 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 <br />Before MIT, Aidan was a James C. Gaither Junior Fellow in the South Asia Program at the Carnegie Endowment for International Peace. He was born and raised in Colorado.</p>
   </details> </td>
     <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.alexanderkirss.com/"><b>Alexander Kirss</b></a></p>
-<a href="https://www.alexanderkirss.com/">
-    <img src="https://gsipe-workshop.github.io/images/KIRSS_ALEXANDER.jpg" width="340" height="360"
+    <p style="font-size:20px"><a href = "https://www.linkedin.com/in/arpitanehra/"><b>Arpita Nehra</b></a></p>
+    <a href="https://www.linkedin.com/in/arpitanehra/">
+    <img src="https://gsipe-workshop.github.io/images/Arpita_Nehra.jpg" width="340" height="360"
     ></a>
   <br />
-  <details><summary>Bio</summary><p>Alex is a PhD Candidate in the political science department at George Washington University, where he is concentrating in international relations and research methods. His research sits at the intersection of international political economy and security studies and investigates how businesses are affected by, respond to, and shape large scale international shocks such as interstate war, geopolitical competition, and pandemics.</p>
-  </details> 
+  <details><summary>Bio</summary><p>I am currently a Ph.D. candidate at Utah State University, on-track to graduate in December 2021. I am primarily, a natural resource economist interested in using economic theory and modeling to facilitate policies revolving around natural resources, agriculture, and trade. My research has centered around the application of econometric and general equilibrium tools to water economics, specifically, urban water and water trade in the Western US and India. In my doctoral dissertation, I study the impacts of Owens Valley water transfer in the1900s on Los Angeles’ economic growth and apply a cost-benefit type analysis for a water sharing project in Utah.  </p>
+  </details>
   </td>
     </tr>
     <tr>
     <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.jacquegao.com/"><b>Jacque Gao</b></a></p>
-    <a href="https://www.jacquegao.com/">
-    <img src="https://gsipe-workshop.github.io/images/Gao_Jacque.jpg" width="340" height="360"
+    <p style="font-size:20px"><a href = "https://www.ninaobermeier.com/"><b>Nina Obermeier</b></a></p>
+    <a href="https://www.ninaobermeier.com/">
+    <img src="https://gsipe-workshop.github.io/images/OBERMEIER_NINA.jpg" width="340" height="360"
     ></a>
   <br />
-  <details><summary>Bio</summary><p>I am a PhD candidate in Political Science at the University of Rochester. My specializations are formal political theory, comparative political economy (CPE), and international political economy (IPE). I am particularly interested in understanding how a dictator's survival strategies interact with the changing international environment. My research has been accepted for publication in International Organization, The Review of International Organizations, and Social Choice and Welfare.</p>
-  </details>
-  </td>
+  <details><summary>Bio</summary><p>I am a PhD candidate in the Department of Government at Cornell University. My research lies at the intersection of comparative politics and international relations. It examines how attitudes towards international affairs shape and are shaped by processes of political contestation at the domestic level. In my dissertation project, I explore how populist radical right parties can unintentionally drive support for international economic integration among Western European publics when they engage in extremist rhetoric. I use a wide range of methods in my research, including machine learning, quantitative text analysis, survey experiments, elite interviews, and quasi-experimental research designs.</p>
+  </details> </td>
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://gshim8.wixsite.com/gshim"><b>Gyu Sang Shim</b></a></p>
     <a href="https://gshim8.wixsite.com/gshim">
@@ -203,25 +203,25 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>I am a postdoctoral fellow at the University of Zurich. I have received my Ph.D. from the University of Wisconsin – Madison in 2021. I was a visiting fellow at the Center for International Business Education and Research (CIBER) at George Washington University in 2017.  My research focuses on international organizations, international finance, trade, business-state relations, and public opinion. My book project investigates why some governments successfully restore private international investors’ confidence through International Monetary Fund (IMF) programs while others fail to do so. My research has been accepted for publication in Comparative Political Studies. </p>
   </details>
   </td>
-            <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.jcanfil.com"><b>Justin Canfil</b></a></p>
-    <a href="https://www.jcanfil.com">
-    <img src="https://gsipe-workshop.github.io/images/CANFIL_JUSTIN.png" width="340" height="360"
+     <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://calvinthrall.github.io/"><b>Calvin Thrall</b></a></p>
+<a href="https://calvinthrall.github.io/">
+    <img src="https://gsipe-workshop.github.io/images/thrall_calvin.png" width="340" height="360"
     ></a>
   <br />
-  <details><summary>Bio</summary><p>Justin Key Canfil is a political scientist conducting research on the political economy of technology law, particularly in the context of international security, cyber conflict, and US-China relations. He holds joint postdoctoral affiliations with the Harvard Belfer Center, the Columbia-Harvard China and the World Program, and the Fletcher School of Law and Diplomacy. His book project, which uses computational, experimental, and archival methods to explain why some arms control regimes are more resilient to technological breakthroughs, has been supported by the NSF, a China Fulbright Scholarship, the US Departments of State and Education, and other major sources.  </p>
-  </details>
-  </td>
-          </tr>
-  <tr>
-              <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.linkedin.com/in/arpitanehra/"><b>Arpita Nehra</b></a></p>
-    <a href="https://www.linkedin.com/in/arpitanehra/">
-    <img src="https://gsipe-workshop.github.io/images/Arpita_Nehra.jpg" width="340" height="360"
+  <details><summary>Bio</summary><p>Calvin Thrall is a PhD candidate in the Department of Government at The University of Texas at Austin. He studies the politics of coercion, cooperation, and collusion between public and private actors; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. His work has been published in International Organization, The Review of International Organizations, Business and Politics, and AEA: Papers and Proceedings. His job market paper,'Spillover Effects in International Law: Evidence from Tax Planning,' received the David A. Lake Award for best paper presented at IPES 2020.</p>
+  </details> 
+  </td>       
+  </tr>
+  <tr>         
+    <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.noahzucker.com"><b>Noah Zucker</b></a></p>
+<a href="https://www.noahzucker.com">
+    <img src="https://gsipe-workshop.github.io/images/Zucker_Noah.jpg" width="340" height="360"
     ></a>
   <br />
-  <details><summary>Bio</summary><p>I am currently a Ph.D. candidate at Utah State University, on-track to graduate in December 2021. I am primarily, a natural resource economist interested in using economic theory and modeling to facilitate policies revolving around natural resources, agriculture, and trade. My research has centered around the application of econometric and general equilibrium tools to water economics, specifically, urban water and water trade in the Western US and India. In my doctoral dissertation, I study the impacts of Owens Valley water transfer in the1900s on Los Angeles’ economic growth and apply a cost-benefit type analysis for a water sharing project in Utah.  </p>
-  </details>
+  <details><summary>Bio</summary><p>Noah is a PhD candidate in political science at Columbia University, specializing in international and comparative political economy. His primary research agenda considers how climate politics interact with the social divisions endemic to many of the world's most fossil fuel-intensive and ecologically vulnerable countries. He studies global climate governance and the broader themes of economic governance and identity in other work. His research is published in the Journal of Politics and has received APSA's McGillivray Award for Best Paper in Political Economy, Sage Paper Prize for Best Paper in Comparative Politics, and Award for Best Paper on Democracy and Autocracy.</p>
+  </details> 
   </td>
     </tr>
   </thead>
