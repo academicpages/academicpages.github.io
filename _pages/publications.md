@@ -15,11 +15,11 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 This paper provides doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
 
 **Doubly Robust Semi-supervised Estimation of Survival**.    
-**Han L,** Hong C, Hou J, Cai T.  
+**Han L,** Hou J, Cai T.  
 This paper develops semi-supervised, transfer learning methods to improve efficiency of pragmatic trials when the study endpoint is time-to-event and is captured using imperfect surrogates in electronic health records.
 
 **Distributed Learning for Causal Inference**.  
-**Han L,** Hou J, Duan R, Cai T.  
+**Han L,** Duan R, Cai T.  
 This paper provides privacy-preserving, communication-efficient, and robust estimation and inference for targeted average treatment effects in the presence of heterogeneity.
 
 **Optimal Sensitivity Analysis for Clinical Trials**.  
@@ -38,6 +38,10 @@ Emergency Medicine Journal (2019).
 **Han L,** Fine J, Robinson SM, Boyle AA, Freeman M, Scholtes S.
 
 ## Cardiology
+
+**[Worldwide differences in primary prevention implantable cardioverter defibrillator utilization and outcomes in hypertrophic cardiomyopathy](https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehab598/6365852?redirectedFrom=fulltext)**.  
+European Heart Journal (2021).  
+Nauffal V, Marstrand, P, **Han L,** et al.
 
 **[Clinical characteristics and outcomes in childhood-onset hypertrophic cardiomyopathy](https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehab148/6189026?redirectedFrom=fulltext)**.  
 European Heart Journal (2021).  
@@ -60,6 +64,10 @@ Heart Rhythm (2020).
 Sidhu K, **Han L,** Picard KCI, Tedrow UB, Lakdawala NK.
 
 ## Social Innovation
+
+**[Assessment of a Crowdsourcing Open Call for Approaches to University Community Engagement and Strategic Planning During COVID-19](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2779869)**.  
+JAMA Network Open (2021).   
+Day S, Li C, Hlatshwako TG, Abu-Hiljleh F, **Han L,** Deitelzweig C, Bayus B, Ramaswamy R, Wang W, Tucker JD.  
 
 **[Social innovation in global health: sparking location action](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30070-X/fulltext)**.  
 Lancet Global Health (2020).  
