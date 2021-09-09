@@ -18,11 +18,14 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Award"
-    url: /award/
+  - title: "Research"
+    url: /research/
 
   - title: "Project"
     url: /project/
+
+  - title: "Award"
+    url: /award/
 
   - title: "Contact"
     url: /contact/
