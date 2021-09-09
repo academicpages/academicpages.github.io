@@ -9,6 +9,8 @@ author_profile: true
 
 Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag [here](#jmc_tag).
 
+Are you on the 2021 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
+
 <style>
 HTML SCSSResult Skip Results Iframe
 EDIT ON
