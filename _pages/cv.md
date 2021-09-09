@@ -18,7 +18,7 @@ A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV
 ---
 
 **Harvard University**  
-PhD in Biostatistics, 2018-2022 (expected)  
+PhD in Biostatistics, 2018-2023 (expected)  
 AM in Biostatistics, 2020  
 Dissertation Primary Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)  
 Dissertation Co-Advisor: [Lorenzo Trippa](https://www.hsph.harvard.edu/lorenzo-trippa/)  
@@ -39,6 +39,7 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 # Honors and Awards
 ---
 
+* ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop Student Poster Award, 2021
 * John Van Ryzin Award and ENAR Distinguished Student Paper Award, 2021   
 * China Hands 25 Under 25 Leaders in US-China Relations, 2019
 * University of Cambridge Distinction and Top Thesis, 2018
@@ -56,6 +57,9 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 
 # Service
 ---
+
+**Harvard Department of Biostatistics Student Committee**.  
+Co-Chair (2021-).
 
 **Harvard Department of Biostatistics Diversity, Inclusion, and Equity Committee**.  
 PhD Student Representative (2020-).
