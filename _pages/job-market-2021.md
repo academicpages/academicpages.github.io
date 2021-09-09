@@ -179,7 +179,14 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </td>
  </tr>
     <tr>
-    
+    <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.lauren.konken.ca/"><b>Lauren Konken</b></a></p>
+    <a href="https://www.lauren.konken.ca/">
+    <img src="https://gsipe-workshop.github.io/images/Lauren_Konken.jpg" width="340" height="360"
+    ></a>
+  <br />
+  <details><summary>Bio</summary><p>My name is Lauren C. Konken and I am a Ph.D. candidate in the Department of Politics at Princeton University. In my research, I seek to explain the design of multilateral and preferential trade agreements (PTAs), and how those design choices consequently change state behaviour.  To answer these questions I rely on a multi-method approach that prioritizes causal process tracing and historical analysis alongside quantitative data analysis and statistics. My research also adopts an interdisciplinary approach, contributing to scholarship in international relations, and the study of international law and organizations, and international political economy (IPE) in particular.</p>
+  </details> </td>
         <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.siyao-li.com"><b>Siyao Li</b></a></p>
     <a href="https://www.siyao-li.com">
@@ -188,6 +195,9 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>Bio</summary><p>I am currently a Ph.D. candidate in Political Science at the University of Pennsylvania. I was also a GPEP predoctoral fellow at Georgetown University's Mortara Center for International Studies for the 2020-2021 academic year. My research focuses on the politics of foreign direct investment and trade, and business-government relations. My dissertation book project investigates why and how foreign direct investment into weak institutional environments achieve property protection through host government institutions, especially in terms of technology assets. The paper version of my dissertation is a finalist for the GWU-CIBER Best Paper on Emerging Markets Award.</p>
   </details> </td>
+       </tr>
+    <tr>
+      
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://aidanmilliff.com/"><b>Aidan Milliff</b></a></p>
     <a href="https://aidanmilliff.com/">
@@ -197,9 +207,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>Aidan is a Ph.D. Candidate in Political Science at the Massachusetts Institute of Technology. In 2021-2022, he is a USIP-Minerva Peace and Security Scholar, and a predoctoral fellow at the Institute for Security and Conflict Studies at George Washington University. His research combines computational social science methods and qualitative tools to answer questions about the cognitive, emotional, and social forces that shape political violence, migration, and the politics of South Asia. 
 <br />Before MIT, Aidan was a James C. Gaither Junior Fellow in the South Asia Program at the Carnegie Endowment for International Peace. He was born and raised in Colorado.</p>
   </details> </td>
-         </tr>
-    <tr>
-      
+        
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.linkedin.com/in/arpitanehra/"><b>Arpita Nehra</b></a></p>
     <a href="https://www.linkedin.com/in/arpitanehra/">
@@ -209,7 +217,9 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>I am currently a Ph.D. candidate at Utah State University, on-track to graduate in December 2021. I am primarily, a natural resource economist interested in using economic theory and modeling to facilitate policies revolving around natural resources, agriculture, and trade. My research has centered around the application of econometric and general equilibrium tools to water economics, specifically, urban water and water trade in the Western US and India. In my doctoral dissertation, I study the impacts of Owens Valley water transfer in the1900s on Los Angeles’ economic growth and apply a cost-benefit type analysis for a water sharing project in Utah.  </p>
   </details>
   </td>
-
+ </tr>
+    <tr>
+      
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.ninaobermeier.com/"><b>Nina Obermeier</b></a></p>
     <a href="https://www.ninaobermeier.com/">
@@ -218,9 +228,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>Bio</summary><p>I am a PhD candidate in the Department of Government at Cornell University. My research lies at the intersection of comparative politics and international relations. It examines how attitudes towards international affairs shape and are shaped by processes of political contestation at the domestic level. In my dissertation project, I explore how populist radical right parties can unintentionally drive support for international economic integration among Western European publics when they engage in extremist rhetoric. I use a wide range of methods in my research, including machine learning, quantitative text analysis, survey experiments, elite interviews, and quasi-experimental research designs.</p>
   </details> </td>
-  </tr>
-    <tr>
-    
+
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://gshim8.wixsite.com/gshim"><b>Gyu Sang Shim</b></a></p>
     <a href="https://gshim8.wixsite.com/gshim">
@@ -230,7 +238,9 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>I am currently a Ph.D. candidate in the Department of Political Science at the University of Rochester. My research broadly focuses on political risks that foreign direct investment (FDI) faces. Within my research, I apply formal theory and implement quantitative analysis of firm-level datasets to study how multinational corporations handle political risks such as the host government's policy changes, armed conflicts, and investment screening. I am also interested in collecting new micro-level datasets to solve the issue of sample choice in FDI studies.</p>
   </details>
   </td> 
-
+ </tr>
+    <tr>
+      
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.sujeongshim.com/"><b>Sujeong Shim</b></a></p>
     <a href="https://www.sujeongshim.com/">
@@ -240,9 +250,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>I am a postdoctoral fellow at the University of Zurich. I have received my Ph.D. from the University of Wisconsin – Madison in 2021. I was a visiting fellow at the Center for International Business Education and Research (CIBER) at George Washington University in 2017.  My research focuses on international organizations, international finance, trade, business-state relations, and public opinion. My book project investigates why some governments successfully restore private international investors’ confidence through International Monetary Fund (IMF) programs while others fail to do so. My research has been accepted for publication in Comparative Political Studies. </p>
   </details>
   </td>
-       </tr>
-    <tr>
-    
+
      <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://calvinthrall.github.io/"><b>Calvin Thrall</b></a></p>
 <a href="https://calvinthrall.github.io/">
@@ -252,7 +260,9 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>Calvin Thrall is a PhD candidate in the Department of Government at The University of Texas at Austin. He studies the politics of coercion, cooperation, and collusion between public and private actors; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. His work has been published in International Organization, The Review of International Organizations, Business and Politics, and AEA: Papers and Proceedings. His job market paper,'Spillover Effects in International Law: Evidence from Tax Planning,' received the David A. Lake Award for best paper presented at IPES 2020.</p>
   </details> 
   </td>     
-
+ </tr>
+    <tr>
+      
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.noahzucker.com"><b>Noah Zucker</b></a></p>
 <a href="https://www.noahzucker.com">
