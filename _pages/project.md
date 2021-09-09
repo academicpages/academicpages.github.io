@@ -11,7 +11,7 @@ redirect_from:
 
 Autonomous Vehicle for NRF, Singapore
 ======
-* This project focuses on Cyber Security of autononous vehicle, in cooperate with by Cyber Security Research Center, Nanyang Technololgical University, Singapore and it is also supported by National Research Foundation(NRF), Singapore
+* This project focuses on Cyber Security of autononous vehicle in cooperate with by Cyber Security Research Center, Nanyang Technololgical University, Singapore and it's supported by National Research Foundation(NRF), Singapore
 * This project studies with LGSVL simulator with Apollo autonomous vehicle platform and it integrates with Baidu Autonomous Driving Development Kit (Apollo D-KIT) hardware platform
 
 Autonomous Vehicle for DSTA, Singapore
