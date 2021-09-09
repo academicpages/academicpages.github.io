@@ -16,7 +16,10 @@ Education
 
 Research Experience 
 ======
-* Autonomous Vehicle & Cyber Security [Video](https://youtu.be/YKY_KbpeELQ)  [Video](https://youtu.be/FbiLicwLClw)
+* Jan 2020 - Now: Research Assistant [Video](https://youtu.be/YKY_KbpeELQ)  [Video](https://youtu.be/FbiLicwLClw)
+  * Nanyang Technological University, Singapore
+  * Cyber Security Lab, SCSE
+  * Autonomous Vehicle Cyber Security Team 
   * Aim to acquire artificial intelligence algorithms and machine learning technique to develop autonomous vehicles' localization, perception, predication, planning, control and v2x modules. 
 * Jan 2019 - Dec 2019 : Final Year Project [Video](https://youtu.be/FbiLicwLClw) [Video](https://youtu.be/xiVnhqW8Fw8) 
   * Nanyang Technological University, Singapore
