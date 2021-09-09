@@ -11,7 +11,7 @@ tags:
   - development
   - globalization
 ---
-<img src="https://gsipe-workshop.github.io/images/Lauren_Konken.jpg" width="300" height="500" />
+<img src="https://gsipe-workshop.github.io/images/Konken_Lauren.jpg" width="300" height="500" />
 
 My name is Lauren C. Konken and I am a Ph.D. candidate in the Department of Politics at Princeton University, focusing on International Relations. In particular, I study how states use ambiguous treaty language to conclude negotiations towards international trade agreements.
 
