@@ -183,12 +183,9 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>Bio</summary><p>I am a PhD candidate in Political Science at the University of Rochester. My specializations are formal political theory, comparative political economy (CPE), and international political economy (IPE). I am particularly interested in understanding how a dictator's survival strategies interact with the changing international environment. My research has been accepted for publication in International Organization, The Review of International Organizations, and Social Choice and Welfare.</p>
   </details>
   </td>
-        </td>
-    </tr>
-    <tr>
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://gshim8.wixsite.com/gshim"><b>Gyu Sang Shim</b></a></p>
-    <a href="https://www.jacquegao.com/">
+    <a href="https://gshim8.wixsite.com/gshim">
     <img src="https://gsipe-workshop.github.io/images/Gyu Sang_Shim - shimgyusang.jpg" width="340" height="360"
     ></a>
   <br />
@@ -196,6 +193,37 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </details>
   </td> 
   </tr>
+      <tr>
+    <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.sujeongshim.com/"><b>Sujeong Shim</b></a></p>
+    <a href="https://www.sujeongshim.com/">
+    <img src="https://gsipe-workshop.github.io/images/Sujeong_Shim.jpg" width="340" height="360"
+    ></a>
+  <br />
+  <details><summary>Bio</summary><p>I am a postdoctoral fellow at the University of Zurich. I have received my Ph.D. from the University of Wisconsin – Madison in 2021. I was a visiting fellow at the Center for International Business Education and Research (CIBER) at George Washington University in 2017.  My research focuses on international organizations, international finance, trade, business-state relations, and public opinion. My book project investigates why some governments successfully restore private international investors’ confidence through International Monetary Fund (IMF) programs while others fail to do so. My research has been accepted for publication in Comparative Political Studies. </p>
+  </details>
+  </td>
+            <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.jcanfil.com"><b>Justin Canfil</b></a></p>
+    <a href="https://www.jcanfil.com">
+    <img src="https://gsipe-workshop.github.io/images/CANFIL_JUSTIN.png" width="340" height="360"
+    ></a>
+  <br />
+  <details><summary>Bio</summary><p>Justin Key Canfil is a political scientist conducting research on the political economy of technology law, particularly in the context of international security, cyber conflict, and US-China relations. He holds joint postdoctoral affiliations with the Harvard Belfer Center, the Columbia-Harvard China and the World Program, and the Fletcher School of Law and Diplomacy. His book project, which uses computational, experimental, and archival methods to explain why some arms control regimes are more resilient to technological breakthroughs, has been supported by the NSF, a China Fulbright Scholarship, the US Departments of State and Education, and other major sources.  </p>
+  </details>
+  </td>
+          </tr>
+  <tr>
+              <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.linkedin.com/in/arpitanehra/"><b>Arpita Nehra</b></a></p>
+    <a href="https://www.linkedin.com/in/arpitanehra/">
+    <img src="https://gsipe-workshop.github.io/images/Arpita_Nehra.jpg" width="340" height="360"
+    ></a>
+  <br />
+  <details><summary>Bio</summary><p>I am currently a Ph.D. candidate at Utah State University, on-track to graduate in December 2021. I am primarily, a natural resource economist interested in using economic theory and modeling to facilitate policies revolving around natural resources, agriculture, and trade. My research has centered around the application of econometric and general equilibrium tools to water economics, specifically, urban water and water trade in the Western US and India. In my doctoral dissertation, I study the impacts of Owens Valley water transfer in the1900s on Los Angeles’ economic growth and apply a cost-benefit type analysis for a water sharing project in Utah.  </p>
+  </details>
+  </td>
+    </tr>
   </thead>
 </table>
 
