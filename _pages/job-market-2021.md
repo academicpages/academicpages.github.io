@@ -182,7 +182,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.lauren.konken.ca/"><b>Lauren Konken</b></a></p>
     <a href="https://www.lauren.konken.ca/">
-    <img src="https://gsipe-workshop.github.io/images/Lauren_Konken.jpg" width="340" height="360"
+    <img src="https://gsipe-workshop.github.io/images/Konken_Lauren.jpg" width="340" height="360"
     ></a>
   <br />
   <details><summary>Bio</summary><p>My name is Lauren C. Konken and I am a Ph.D. candidate in the Department of Politics at Princeton University. In my research, I seek to explain the design of multilateral and preferential trade agreements (PTAs), and how those design choices consequently change state behaviour.  To answer these questions I rely on a multi-method approach that prioritizes causal process tracing and historical analysis alongside quantitative data analysis and statistics. My research also adopts an interdisciplinary approach, contributing to scholarship in international relations, and the study of international law and organizations, and international political economy (IPE) in particular.</p>
