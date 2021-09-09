@@ -38,4 +38,4 @@ Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential S
 
 ## Social Media
 
-<a class="twitter-timeline" href="https://twitter.com/DrJoshZhang?ref_src=twsrc%5Etfw">Tweets by DrJoshZhang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" href="https://twitter.com/DrJoshZhang?ref_src=twsrc%5Etfw">Tweets by DrJoshZhang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
