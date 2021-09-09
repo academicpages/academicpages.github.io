@@ -39,4 +39,12 @@ Technical Report
  <br/>
 
 
+Invited Talks
+======
+
+[NAVER LABS](https://www.naverlabs.com/en/), “A Study on Outdoor Scene Understanding in the Dynamic Outdoor Environment”, 2021.
+
+
+ <br/>
+ <br/>
 
