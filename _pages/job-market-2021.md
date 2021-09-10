@@ -232,7 +232,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://gshim8.wixsite.com/gshim"><b>Gyu Sang Shim</b></a></p>
     <a href="https://gshim8.wixsite.com/gshim">
-    <img src="https://gsipe-workshop.github.io/images/Gyu Sang_Shim - shimgyusang.jpg" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/shimgyusang.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>Bio</summary><p>I am currently a Ph.D. candidate in the Department of Political Science at the University of Rochester. My research broadly focuses on political risks that foreign direct investment (FDI) faces. Within my research, I apply formal theory and implement quantitative analysis of firm-level datasets to study how multinational corporations handle political risks such as the host government's policy changes, armed conflicts, and investment screening. I am also interested in collecting new micro-level datasets to solve the issue of sample choice in FDI studies.</p>
