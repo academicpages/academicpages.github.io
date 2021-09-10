@@ -71,14 +71,12 @@ redirect_from:
  Jieneng Chen, Yongyi Lu, Qihang Yu, <b>Xiangde Luo</b>, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou<br>
  [[paper](https://arxiv.org/pdf/2102.04306.pdf)][[code](https://github.com/Beckschen/TransUNet)]
  
-# Education
+# Education and internship experience
+## Education
 * Ph.D. Student, Medical Image Computing, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2020 - Present
 * Master degree candidate, Mechanical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2018 - June 2020
 * B.S. Mechanical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2014 - June 2018
-
-
-# Internship experience
-
+## Internship
 * Jun. 2021 - Present: Research Internship
   *  [Shanghai AI Lab](https://www.shlab.org.cn/pc/home).
   *  Job description: Data-efficient learning for medical image analysis.
