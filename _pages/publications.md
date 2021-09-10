@@ -5,22 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Select publications indexed here. Full publication history available on <a href="https://scholar.google.com/citations?hl=en&user=k5NnEvgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
-
-<img align="left" src="/images/chart4.png" width="795">
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-*Figure: Select publications by research program theme.*
+Select publications indexed here. Full publication history available on <a href="https://scholar.google.com/citations?hl=en&user=k5NnEvgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.gi
 
 {% if author.googlescholar %}
   Full publication history is available at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
