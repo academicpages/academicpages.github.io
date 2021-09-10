@@ -209,8 +209,8 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </details> </td>
         
     <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.linkedin.com/in/arpitanehra/"><b>Arpita Nehra</b></a></p>
-    <a href="https://www.linkedin.com/in/arpitanehra/">
+    <p style="font-size:20px"><a href = "https://sites.google.com/view/arpita-nehra/home?authuser=0"><b>Arpita Nehra</b></a></p>
+    <a href="https://sites.google.com/view/arpita-nehra/home?authuser=0">
     <img src="https://gsipe-workshop.github.io/images/Arpita_Nehra.jpg" width="300" height="300"
     ></a>
   <br />
