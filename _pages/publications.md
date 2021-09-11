@@ -14,7 +14,7 @@ author_profile: true
   <li>
     Towards Active Air Quality Station Deployment, SubSetML Workshop, ICML'21, 
     <a style="text-decoration:none" 
-       href="../_publications/papers/SubSetML21.pdf">[<b>PDF</b>]
+       href="https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/SubSetML21.pdf">[<b>PDF</b>]
     </a>
   </li>
 
@@ -23,7 +23,7 @@ author_profile: true
        href="https://dl.acm.org/doi/abs/10.1145/3449170">Vartalaap: what drives# airquality discussions: politics, pollution or pseudo-science?, ACM CSCW'21
     </a>, 
     <a style="text-decoration:none" 
-       href="../_publications/papers/vartalaap.pdf">[<b>PDF</b>]
+       href="https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/vartalaap.pdf">[<b>PDF</b>]
     </a>
   </li>
 
@@ -38,7 +38,7 @@ author_profile: true
        href="https://dl.acm.org/doi/abs/10.1145/3384419.3430407">Poster: A toolkit for spatial interpolation and sensor placement, ACM SenSys'20
     </a>, 
     <a style="text-decoration:none" 
-       href="../_publications/papers/polire.pdf">[<b>PDF</b>]</a>
+       href="https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/polire.pdf">[<b>PDF</b>]</a>
   </li>
 
   <li>
