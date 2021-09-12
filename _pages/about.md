@@ -17,19 +17,6 @@ My research interests mainly lie in **Explainable AI applied in healthcare**, bu
 Indeed, my works focus on **interpretable** analysis of those areas and building scalable and effective **optimization** models for them, from theoretical algorithms to practical applications.
 For all that, however, i prefer to be a problem solver rather than a skilled programmer or a data cruncher.
 
-Publications
-======
-1. **Chen HE**, Benjamin DALMAS, Xiaolan XIE, "ACBI: An Alternating Clustering and Bayesian Inference Approach for Optimizing Medical Intervention Budget under Chance Constraints", in the Proceedings of the IEEE 16th International Conference on Automation Science and Engineering, [IEEE CASE 2020](https://doi.org/10.1109/CASE48305.2020.9216791).
-2. To be continued..
-
-Honors and Awards
-------
-To be continued...
-
-**Activity and Service**
-
-To be continued...
-
 For more info
 ------
 To be continued...
