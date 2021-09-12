@@ -1,8 +1,8 @@
 ---
-title: "Sinal Processing with Python"
+title: "Signal Processing with Python"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2021-autumn-singal-processing-with-python
+permalink: /teaching/2021-autumn-signal-processing-with-python
 venue: "Mines Saint-Étienne"
 date: 2021-09-01
 location: "Saint Etienne, France"
