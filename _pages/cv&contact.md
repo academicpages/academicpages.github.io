@@ -9,7 +9,8 @@ author_profile: true
 [Chinese CV [PDF]](https://ieeexplore.ieee.org/author/37088527349)
 
 # Contact
-Departement of Healthcare Engineering, Centre for Biomedical and Healthcare Engineering,<br>
-École des Mines de Saint-Étienne.<br>
-10 Rue de la Marandière, 42270 Saint-Priest-en-Jarez, France.<br>
+Departement of Healthcare Engineering, <br>
+Centre for Biomedical and Healthcare Engineering,<br>
+École des Mines de Saint-Étienne. <br>
+10 Rue de la Marandière, 42270 Saint-Priest-en-Jarez, France. <br>
 Email: c.he [at] emse.fr
