@@ -2,7 +2,7 @@
 title: "Sinal Processing with Python"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-autumn-sinal-processing-with-python
+permalink: /teaching/2020-autumn-singal-processing-with-python
 venue: "Mines Saint-Étienne"
 date: 2020-09-01
 location: "Saint Etienne, France"
