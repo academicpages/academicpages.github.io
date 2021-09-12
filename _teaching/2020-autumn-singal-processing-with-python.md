@@ -1,7 +1,7 @@
 ---
 title: "Sinal Processing with Python"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2020-autumn-singal-processing-with-python
 venue: "Mines Saint-Étienne"
 date: 2020-09-01
