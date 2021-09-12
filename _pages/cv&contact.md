@@ -4,7 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://ieeexplore.ieee.org/author/37088527349)
+[English CV [PDF]](https://hechen95.github.io/files/cv/HE_CV_EN.pdf)
 
 [Chinese CV [PDF]](https://ieeexplore.ieee.org/author/37088527349)
 
