@@ -13,9 +13,9 @@ After graduating from [XIDIAN University](https://en.wikipedia.org/wiki/Xidian_U
 
 Research area
 ======
-My research interests mainly lie in **Explainable AI applied in healthcare**, but also include data mining, operation research and optimization algorithms. <br>
+My research interests mainly lie in **Explainable AI applied in healthcare**, including data mining, operation research and optimization algorithms. <br>
 Indeed, my works focus on **interpretable** analysis of those areas and building scalable and effective **optimization** models for them, from theoretical algorithms to practical applications.
-For all that, however, i prefer to be a problem solver rather than a skilled programmer or a data cruncher.
+For all that, however, I prefer to be a problem solver rather than a skilled programmer or a data cruncher.
 
 For more info
 ------
