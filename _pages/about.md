@@ -38,7 +38,9 @@ Publications
 
 Submitted Manuscripts
 ------
-* Canqi Yao, Shibo Chen, and Zaiyue Yang. "Online Distributed Routing Problem of Electric Vehicles." IEEE Transactions on Intelligent Transportation Systems under the first round review.
+* Canqi Yao, Shibo Chen, and Zaiyue Yang. "Online Distributed Routing Problem of Electric Vehicles." IEEE Transactions on Intelligent Transportation Systems under review.
+* * Canqi Yao, Shibo Chen, and Zaiyue Yang. "Vehicle Routing Problem with Flexible Time Window: A Bi-level Approach." IEEE Transactions on Intelligent Transportation Systems under review.
+
 
 Teaching
 ------
