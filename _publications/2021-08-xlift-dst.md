@@ -1,7 +1,7 @@
 ---
 title: "Cross-lingual Intermediate Fine-tuning improves Dialogue State Tracking"
 collection: publications
-venue: Fifth Conference on Machine Translation (WMT 20), EMNLP 2020
+venue: The 2021 Conference on Empirical Methods in Natural Language Processing, EMNLP 2021
 permalink: /publications/2021-08-xlift-dst
 paperurl: https://nikitamoghe.github.io/files/EMNLP_21_XLIFT.pdf
 ---
