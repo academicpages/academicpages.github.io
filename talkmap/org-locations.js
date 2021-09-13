@@ -21,8 +21,8 @@ var addressPoints = [
   ],
   [
     "Rotterdam, Netherlands",
-    51.9228934,
-    4.4631786
+    51.9244424,
+    4.47775
   ],
   [
     "Leiden, Netherlands",
@@ -51,8 +51,8 @@ var addressPoints = [
   ],
   [
     "Monteverde, Costa Rica",
-    10.30553,
-    -84.8096412
+    10.1006871,
+    -83.4462629
   ],
   [
     "San Jose, Costa Rica",
@@ -121,8 +121,8 @@ var addressPoints = [
   ],
   [
     "Mill Run, Pennsylvania, USA",
-    39.7630965,
-    -79.6659686
+    40.4897253,
+    -78.405228
   ],
   [
     "New York City, New York, USA",
@@ -141,8 +141,8 @@ var addressPoints = [
   ],
   [
     "Washington DC, USA",
-    38.8950368,
-    -77.0365427
+    38.8949924,
+    -77.0365581
   ],
   [
     "Chicago, Illinois, USA",
@@ -208,5 +208,40 @@ var addressPoints = [
     "Duck, North Carolina, USA",
     36.169608,
     -75.7551854
+  ],
+  [
+    "Los Angeles, California, USA",
+    34.0536909,
+    -118.242766
+  ],
+  [
+    "Hollywood, California, USA",
+    34.0980031,
+    -118.329523
+  ],
+  [
+    "Santa Monica, California, USA",
+    34.0194704,
+    -118.4912273
+  ],
+  [
+    "Yosemite, California, USA",
+    37.84054795,
+    -119.51658779802511
+  ],
+  [
+    "San Francisco, California, USA",
+    37.7790262,
+    -122.419906
+  ],
+  [
+    "Sausalito, California, USA",
+    37.8590272,
+    -122.485469
+  ],
+  [
+    "Bakersfield, California, USA",
+    35.3738712,
+    -119.0194639
   ]
 ];
