@@ -5,7 +5,7 @@ permalink: /sagemath/
 author_profile: yes
 ---
 
-SageMath é um moderno sistema de computação algébrica, livre, que tem a missão de ser “uma alternativa viável e de código aberto para o Maple, Magma, Mathematica e Matlab”. É formado por quase 100 pacotes de código aberto, em uma interface unificada. Dentre as suas funcionalidades encontra-se uma grande variedade de ferramentas matemáticas, como: cálculo, equações diferenciais, diversas estruturas algébricas, geometria diferencial, topologia, cálculo tensorial e mais. É adequado tanto para o uso com fins educacionais quanto na pesquisa acadêmica. 
+[SageMath](https://www.sagemath.org/) é um moderno sistema de computação algébrica, livre, que tem a missão de ser “uma alternativa viável e de código aberto para o Maple, Magma, Mathematica e Matlab”. É formado por quase 100 pacotes de código aberto, em uma interface unificada. Dentre as suas funcionalidades encontra-se uma grande variedade de ferramentas matemáticas, como: cálculo, equações diferenciais, diversas estruturas algébricas, geometria diferencial, topologia, cálculo tensorial e mais. É adequado tanto para o uso com fins educacionais quanto na pesquisa acadêmica. 
 
 [**Material de um minicurso de SageMath para físicos que ministrei na Unesp/FEG**](curso_sage.md)
 
