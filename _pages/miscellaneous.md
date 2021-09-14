@@ -4,5 +4,9 @@ title: ""
 permalink: /miscellaneous/
 author_profile: false
 ---
+
+## Differential geometry and symplectic topology seminar
+- [Fall 2021]()
+
 ## Machine Learning
 - [_Equivariant neural networks and equivarification_](https://arxiv.org/abs/1906.07172) (with L. Song), *preprint* (2019)
