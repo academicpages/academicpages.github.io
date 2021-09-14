@@ -7,7 +7,7 @@ author_profile: true
 
 Monday, September 20th:
 
-[Siyao Li](www.siyao-li.com) (University of Pennsylvania), presents:
+[Siyao Li](https://www.siyao-li.com/) (University of Pennsylvania), presents:
 
 **Title:** ["*Closing the institutional gap: Protecting Technology in Foreign Direct Investment.*"](https://gsipe-workshop.github.io/files/Siyao_Li_20SEP2021.pdf)
 
