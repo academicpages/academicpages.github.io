@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I would post my publications and talks as well as open-sourced codes here, please stay fresh!"
+title: #""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
