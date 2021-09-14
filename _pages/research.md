@@ -21,6 +21,7 @@ Research Experience 
   * Cyber Security Lab, SCSE
   * Autonomous Vehicle Cyber Security Team 
   * Aim to acquire artificial intelligence algorithms and machine learning technique to develop autonomous vehicles' localization, perception, predication, planning, control and v2x modules. 
+  * Integrated with Baidu Apollo Autonomous Vehicle Driving Platform
 * Jan 2019 - Dec 2019 : Final Year Project [Video](https://youtu.be/FbiLicwLClw) [Video](https://youtu.be/xiVnhqW8Fw8) 
   * Nanyang Technological University, Singapore
   * Autonomous Robotics Research Center, EEE
@@ -30,6 +31,7 @@ Research Experience 
   * Collaborated Velodyne LIDAR & Delphi RADAR with existing software(ROS) and making necessary modifications with autonomous vehicle software (Autoware)  
   * Aplied Object Detection and Object Avoidance Algos for Toyota Coms Car
   * Tested the performance of Localization sensor in outdoor environment at different distances and reported the result of the observations 
+  * Applied with Autoware Open Source for Autonomous Vehicle
   <!-- * Supervisor: Professor Wang Danwei  -->
 
 * Sep 2018 - Dec 2019: Research Assistant [Video](https://youtu.be/IWc4gnJT64A)
@@ -40,7 +42,8 @@ Research Experience 
   * Tested NTU-JTC-Navya autonomous shuttle on NTU’s campus
   * Developed lane detection algorithms for advanced driver assistance system
   * Acquired and analyzed 3D stereo camera (ZED) vision data using nvidia CUDA
-  * Integrated recognized obstacles using deep learning frame 
+  * Integrated recognized obstacles using deep learning frame
+  * Imported Robot Operating System (ROS) for Autonomous Vehicle Localizaiton Module 
   <!-- * Supervisor: Professor Hub -->
 
 * June 2018 - August 2018: Autonomous Vehicle Software Engineer [SingPilot](http://www.singpilot.com/)  [Video](https://www.youtube.com/watch?v=YP6Q4Bh1sMA)
