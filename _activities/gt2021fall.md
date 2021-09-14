@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive
 title: ""
 permalink: /activities/gt2021fall
 author_profile: false
