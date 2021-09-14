@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /activities/
+permalink: /activities/gt2021fall
 author_profile: false
 ---
 
