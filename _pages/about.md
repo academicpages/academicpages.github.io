@@ -17,5 +17,5 @@ For more information, please refer to my [CV](https://ChenTangMark.github.io/fil
 News 
 ======
 - 09/2021: [One paper](https://openreview.net/forum?id=ftOqDUeLPn3) is accepted by CoRL 2021.
-- 05/2021: Serving as associate editor at IEEE Intelligent Transportation Systems Conference (ITSC).
+- 05/2021: Serving as associate editor at IEEE Intelligent Transportation Systems Conference.
 - 05/2021: Co-organizing [IROS MAIR2 Workshop on Multi-Agent Interaction and Relational Reasoning](https://iros.mair2.com)
