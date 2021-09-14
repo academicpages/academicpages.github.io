@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # About Me
-I am an incoming doctoral student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) starting fall 2021. Previously, I was a Research Fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I have the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I have also worked as a graduate student in the [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science) at [Aalto Univerity (Finland)](https://www.aalto.fi/en) from September 2018 to August 2019. Prior to that, I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) from [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
+I am an incoming doctoral student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) starting fall 2021. Previously, I was a Research Fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I have also worked as a graduate student in the [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science) at [Aalto Univerity (Finland)](https://www.aalto.fi/en) from September 2018 to August 2019. Prior to that, I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) from [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
 
-I am broadly interested in the theoretical aspects of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization and theory of deep learning. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
+I am broadly interested in the theoretical aspects of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization, and theory of deep learning. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<br>
 
 **Contact**: (username id) akk002 at ucsd dot edu
@@ -25,7 +25,7 @@ the computational and statistical efficiency of learning methods, and the extent
 1. <b> Teaching via Best-Case Counterexamples
 in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 **Akash Kumar**, [Yuxin Chen](https://yuxinchen.org/), [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).<br>
-<i> In submission 
+<i> To appear in The 35th Conference on Neural Information Processing Systems (NeurIPS'21), 2021
 </i>, [[Link](https://drive.google.com/file/d/1Tr6EFvBkMajWYaZtYItw3P3cnV9BwGM6/view?usp=sharing)]
 
 2. <b> The Teaching Dimension of Kernel Perceptrons </b> <br>
@@ -51,4 +51,4 @@ in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 <i>Project report completed as part of the Advanced Complexity course at Chennai Mathematical Institute.</i>
 
 # Some Hobbies
-I have been playing Piano for a number of years and have been lucky to have some formal training to grade 2. Recently, I have picked up on Ukulele, which could be approximately thought of as a miniature version of a guiter with 4 strings.  
+I have been playing piano for a number of years and have been lucky to have some formal training to grade 2. Recently, I have picked up on Ukulele, which could be approximately thought of as a miniature version of a guiter with 4 strings.  
