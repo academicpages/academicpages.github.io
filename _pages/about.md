@@ -17,7 +17,44 @@ redirect_from:
 
 About me
 ------
-My research interests include applied machine learning, multimodal machine learning, multisensory systems, wearable devices, mobile systems, healthcare, location tracking. My previous research focus on deploying machine learning for smartphone-based indoor location tracking system using cross-sensor data.
+I graduated from the University of Edinburgh with a B.Eng honour degree in Electrical and Electronics Engineering and an M.Sc degree in Artificial Intelligence. My previous research includes multisensory based multimodal machine learning in contextual recognition and location tracking. Besides research, I adore cooking and travelling.
+
+Research Interest
+======
+<ul>
+<li>Applied Machine Learning</li>
+<li>Multimodal Machine Learning</li>
+<li>Multisensory Systems</li>
+<li>Wearable Devices</li>
+<li>Sensor-based Healthcare</li>
+<li>Location Tracking</li>
+</ul>
+
+<hr color="#FFFFFF" />
+
+Publications
+======
+<!--   <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+
+{% include base_path %}
+
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+ -->
+
+## <i>Journal</i>
+  <ul>{% for post in site.journal reversed %}
+    {% include archive-single-publications.html %}
+  {% endfor %}</ul>
+
+## <i>Conference</i>
+  <ul>{% for post in site.conference reversed %}
+    {% include archive-single-publications.html %}
+  {% endfor %}</ul>
+
 
 For more info
 ------
