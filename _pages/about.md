@@ -1,12 +1,19 @@
 ---
 permalink: /
 title: #""
-excerpt: "About me"
+excerpt: "Where imagination comes true"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<p>Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</p>
+<p style="text-align: right;">-- Steve Jobs</p>
+
+
+
+
+<hr color="#FFFFFF" />
 
 About me
 ------
