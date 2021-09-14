@@ -6,6 +6,7 @@ author_profile: false
 
 ## Differential geometry and symplectic topology seminar (Fall 2021)
 
----
+
 | date | time | speaker | title | location |
----
+| ---- | ---- | ------- | ----- | ------- |
+| test | test | test | test | test |
