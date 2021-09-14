@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: default2
 title: ""
 permalink: /activities/gt2021fall
 author_profile: false
