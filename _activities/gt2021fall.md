@@ -9,18 +9,18 @@ author_profile: false
 
 | date | time | speaker | title | zoom link |
 | ---- | ---- | ------- | ----- | ------- |
-| Thursday, September 9, 2021 |   |   |   |   |
-| Thursday, September 16, 2021 |   |   |   |   |
-| Thursday, September 23, 2021 |   |   |   |   |
-| Thursday, September 30, 2021 |   |   |   |   |
-| Thursday, October 7, 2021 |   |   |   |   |
-| Thursday, October 14, 2021 |   |   |   |   |
-| Thursday, October 21, 2021 |   |   |   |   |
-| Thursday, October 28, 2021 |   |   |   |   |
-| Thursday, November 4, 2021 |   |   |   |   |
-| Thursday, November 11, 2021 |   |   |   |   |
-| Thursday, November 18, 2021 |   |   |   |   |
-| Thursday, November 25, 2021 |   |   |   |   |
-| Thursday, December 2, 2021 |   |   |   |   |
-| Thursday, December 9, 2021 |   |   |   |   |
-| Thursday, December 16, 2021 |   |   |   |   |
+|  Th, Sep 9, 2021 |   |   |   |   |
+|  Th, Sep 16, 2021 |   |   |   |   |
+|  Th, Sep 23, 2021 |   |   |   |   |
+|  Th, Sep 30, 2021 |   |   |   |   |
+|  Th, Oct 7, 2021 |   |   |   |   |
+|  Th, Oct 14, 2021 |   |   |   |   |
+|  Th, Oct 21, 2021 |   |   |   |   |
+|  Th, Oct 28, 2021 |   |   |   |   |
+|  Th, Nov 4, 2021 |   |   |   |   |
+|  Th, Nov 11, 2021 |   |   |   |   |
+|  Th, Nov 18, 2021 |   |   |   |   |
+|  Th, Nov 25, 2021 |   |   |   |   |
+|  Th, Dec 2, 2021 |   |   |   |   |
+|  Th, Dec 9, 2021 |   |   |   |   |
+|  Th, Dec 16, 2021 |   |   |   |   |
