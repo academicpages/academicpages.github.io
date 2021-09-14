@@ -18,5 +18,5 @@ One potential drawback of TILDEv2, compared to the original TILDE, is the extra 
 
 [Download paper here](https://arxiv.org/pdf/2108.08513.pdf)
 
-[Code](https://github.com/ielab/TILDE)
+[Code](https://github.com/ielab/TILDE/tree/main/TILDEv2)
 
