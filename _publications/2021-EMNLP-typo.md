@@ -14,6 +14,6 @@ Passage retrieval and ranking is a key task in open-domain question answering an
 
 In this paper we consider the Dense Retriever (DR), a passage retrieval method, and the BERT re-ranker, a popular passage re-ranking method. In this context, we formally investigate how these models respond and adapt to a speciﬁc type of keyword mismatch – that caused by keyword typos occurring in queries. Through empirical investigation, we ﬁnd that typos can lead to a signiﬁcant drop in retrieval and ranking effectiveness. We then propose a simple typos-aware training framework for DR and BERT re-ranker to address this issue. Our experimental results on the MS MARCO passage ranking dataset show that, with our proposed typos-aware training, DR and BERT re-ranker can become robust to typos in queries, resulting in signiﬁcantly improved effectiveness compared to models trained without appropriately accounting for typos.
 
-[Download paper here](https://arxiv.org/pdf/2108.12139v2.pdf)
+[Download paper here](https://arxiv.org/pdf/2108.12139.pdf)
 
 [Code](https://github.com/ielab/typos-aware-BERT)
