@@ -18,7 +18,7 @@ author_profile: true
 ## Work in Progress
 - Reducing partisan affective polarization through common humanity and perspective-taking: An online survey experiment in the United States. (with Jennifer McCoy and Juan Gomez) *journal article*
 - Displacing an education system through formal and informal institutional changes. *journal article*
-- Organizational adaptation of the post-rebel electoral parties. (with Carrie Manning) *journal article*
+- Organizational adaptation of the post-rebel electoral parties. (with Carrie Manning). *journal article*
 - Parties, Politics, Peace: How Former Insurgent Groups Shape Politics After War. (with Carrie Manning and Ian Smith) *book project*
 
 ## Other Publications
