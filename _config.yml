@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Tang / Chen Tang's Homepage"
+title                    : "Chen Tang's Homepage"
 title_separator          : "-"
 name                     : &name "Chen Tang"
 description              : &description "PhD Candidate at UC Berkeley"
