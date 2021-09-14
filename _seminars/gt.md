@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /dgst_seminar
+permalink: /seminars/gt
 author_profile: false
 ---
 
