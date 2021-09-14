@@ -16,7 +16,7 @@ redirect_from:
 <hr color="#FFFFFF" />
 
 About me
-------
+======
 I graduated from the University of Edinburgh with a B.Eng honour degree in Electrical and Electronics Engineering and an M.Sc degree in Artificial Intelligence. My previous research includes multisensory based multimodal machine learning in contextual recognition and location tracking. Besides research, I adore cooking and travelling.
 
 Research Interest
@@ -32,30 +32,6 @@ Research Interest
 
 <hr color="#FFFFFF" />
 
-Publications
-======
-<!--   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-{% include base_path %}
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
-
-## <i>Journal</i>
-  <ul>{% for post in site.journal reversed %}
-    {% include archive-single-publications.html %}
-  {% endfor %}</ul>
-
-## <i>Conference</i>
-  <ul>{% for post in site.conference reversed %}
-    {% include archive-single-publications.html %}
-  {% endfor %}</ul>
-
-
 For more info
-------
+======
 Please drop me an email if you are interested into my research projects!
