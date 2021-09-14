@@ -12,7 +12,7 @@ Hi! I'am Chen, a PhD candidate in Mechanical Engineering at UC Berkeley. I am a 
 
 The goal of my research is to develope trustworthy and safe intelligent autonomous systems interacting with humans (e.g., autonomous vehicles). In particluar, I am primarily interested in improving the transparency and robustness of learning-based autonomous systems, by incorporating domain knowledge and other techniques (e.g., model-based control, explainable AI) with different deep learning models in a principled manner. Applications of my research include multi-agent trajectory prediction and interaction modeling, motion planning, and vehicle control. 
 
-For more information, please refer to my CV. 
+For more information, please refer to my [CV](https://ChenTangMark.github.io/files/Chen_Tang_Resume.pdf).
 
 News 
 ======
