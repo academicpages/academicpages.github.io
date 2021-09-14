@@ -27,7 +27,7 @@ the computational and statistical efficiency of learning methods, and the extent
 in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 **Akash Kumar**, [Yuxin Chen](https://yuxinchen.org/), [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).<br>
 <i> To appear in The 35th Conference on Neural Information Processing Systems (NeurIPS'21), 2021
-</i>, [[Link](https://drive.google.com/file/d/1Tr6EFvBkMajWYaZtYItw3P3cnV9BwGM6/view?usp=sharing)]
+</i> <br> [[Link](https://drive.google.com/file/d/1Tr6EFvBkMajWYaZtYItw3P3cnV9BwGM6/view?usp=sharing)]<br>
 
 2. <b> The Teaching Dimension of Kernel Perceptrons </b> <br>
 **Akash Kumar**, Hanqi Zhang, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yuxin Chen](https://yuxinchen.org/).<br>
