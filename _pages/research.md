@@ -31,7 +31,7 @@ Research Experience 
   * Collaborated Velodyne LIDAR & Delphi RADAR with existing software(ROS) and making necessary modifications with autonomous vehicle software (Autoware)  
   * Aplied Object Detection and Object Avoidance Algos for Toyota Coms Car
   * Tested the performance of Localization sensor in outdoor environment at different distances and reported the result of the observations 
-  * Applied with Autoware Open Source for Autonomous Vehicle
+  * Applied with Autoware Autonomous Vehicle Platform
   <!-- * Supervisor: Professor Wang Danwei  -->
 
 * Sep 2018 - Dec 2019: Research Assistant [Video](https://youtu.be/IWc4gnJT64A)
