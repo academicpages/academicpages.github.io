@@ -25,11 +25,15 @@ Work experience
 Skills
 ======
 * Languages
-  * Java, Python, Javascript, C++, SQL, Bash, Powershell
-* Frameworks and Libraries
-  * Spring, Hibernate, Node.js, Vue.js, React
+  * Java, Powershell, Bash
+* Languages I am Excited to Learn
+  * Python, C++, SQL, .NET Core
+* Frameworks and Libraries I am Eager to Learn
+  * Spring, Hibernate, .NET Core, Node.js, Vue.js, React
 * Tools
-  * Git, Linux, Docker, AWS/GCP/Azure, Gradle, Maven, Jira, JWT, CI/CD
+  * Git, Linux, Docker, AWS/GCP/Azure, Jira, Active Directory, Group Policy, vCenter
+* Tools I am Excited to Learn
+  * Gradle, Maven, JWT, CI/CD, Kubernetes, Container Orchestration, Jenkins, Ansible, Chef, Puppet
 
 Service and leadership
 ======
