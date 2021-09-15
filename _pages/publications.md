@@ -12,7 +12,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 **[On the Evaluation of Surrogate Markers in Real World Data Settings](https://arxiv.org/abs/2104.05513)**.    
 *2021 ENAR Distinguished Student Paper Award.*    
 **Han L,** Wang X, Cai T.  
-This paper provides doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
+We provide doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
 
 **Doubly Robust Semi-supervised Estimation of Survival**.    
 **Han L,** Hou J, Cai T.  
@@ -20,11 +20,19 @@ This paper develops semi-supervised, transfer learning methods to improve effici
 
 **Distributed Learning for Causal Inference**.  
 **Han L,** Duan R, Cai T.  
-This paper provides privacy-preserving, communication-efficient, and robust estimation and inference for targeted average treatment effects in the presence of heterogeneity.
+We develop privacy-preserving, communication-efficient, and doubly robust estimation and inference for targeted average treatment effects in the presence of heterogeneity.
 
 **Optimal Sensitivity Analysis for Clinical Trials**.  
 **Han L,** Arfe A, Trippa L.  
 This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
+
+**Principal Resampling for Causal Inference**.  
+Han S, **Han L,** Zubizarreta, J.  
+We propose a new principal resampling technique for unbiased estimation of the ATE and proportions in each of four principal strata without requiring the deterministic monotonicity assumption.
+
+**Robust Approach to Combining Multiple Markers to Improve Surrogacy**.  
+Wang X, Parast L, Tian L, **Han L,**, Cai T.  
+We propose a novel calibrated model fusion approach to optimally combine multiple markers to improve surrogacy.
 
 
 ## Electronic Health Records
