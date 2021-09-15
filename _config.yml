@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : # &name "Gilberto Díaz-García"
+name                     : &name "Gilberto Díaz-García"
 description              : # &description "PhD Student at University of California, Santa Barbara"
 url                      : https://gilbertod.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
