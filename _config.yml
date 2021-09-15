@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : # "Gilberto Díaz-García"
 title_separator          : "-"
 name                     : &name "Gilberto Díaz-García"
 description              : # &description "PhD Student at University of California, Santa Barbara"
