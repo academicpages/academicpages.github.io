@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gilberto Díaz-García"
   avatar           : "profile.png"
-  bio              : "PhD Student at University of California, Santa Barbara"
+  bio              : # "PhD Student at University of California, Santa Barbara"
   location         : 
   employer         :
   pubmed           : 
