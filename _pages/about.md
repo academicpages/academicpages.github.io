@@ -14,4 +14,6 @@ I received my bachelor’s degree in Mathematics in 2016 from the <a href="https
 
 News
 ======
-{% twitter https://twitter.com/theYemiAdeoye maxwidth=500 limit=5 %}
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/theYemiAdeoye maxwidth=500 limit=5 %}
+</div>
