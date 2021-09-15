@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gilberto Díaz-García"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
