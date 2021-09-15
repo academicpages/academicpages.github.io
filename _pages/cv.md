@@ -40,14 +40,14 @@ Service and leadership
 
 Publications
 ======
-# Coming Soon
+Coming Soon
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-# Coming Soon
+Coming Soon
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
