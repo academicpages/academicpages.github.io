@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Akash_Kumar_shortcv.pdf){: .btn .btn--info}
+The detailed PDF verison of my CV can be found here - **Update coming**
 
 Research Interests
 ------
@@ -20,8 +20,6 @@ I seek to solve theoretical machine learning problems using ideas from mathemati
 
 Education
 ======
-* **Ph.D.** student at School of Science, Department of Computer Science, Sept, 2018 - Aug, 2019<br>
-<i>Aalto University</i><br>
 * **M.Sc**. in Computer Science, 2016 - 18<br>
 <i>Chennai Mathematical Institute</i>
 * **B.Sc.** in Mathematics and Computer Science, 2013 - 16<br>
