@@ -11,6 +11,7 @@ Profiles of graduate students in international political economy on the 2021 job
 
 <a id='jmc_tag'></a>
 
+<details><summary>here</summary><p>
 {% for tag in site.tags %}
   <div class="toc">
     <ul>
@@ -18,22 +19,8 @@ Profiles of graduate students in international political economy on the 2021 job
     </ul>
   </div>
 {% endfor %}
-
-<style>
-  #toc {
-    position: fixed;
-    right: 0;
-    top: 0;
-    background-color:#FFF;
-  }
-  
-  #toc #full { display: none; } 
-  
-  #toc:hover #full{
-    display: block; 
-  }
-</style>
-
+</p>
+</details> </td>
 
 {% for tag in site.tags %}
   <h1 id="{{ tag[0] }}">{{ tag[0] }}</h1>
