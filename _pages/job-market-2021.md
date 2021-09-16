@@ -7,7 +7,15 @@ toc_label: "JM tags"
 author_profile: true
 ---
 
-Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag [here](#jmc_tag).
+Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by <details><summary>tag</summary>
+<div class="toc">
+  {% for tag in site.tags %}
+      <ul>
+        <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
+      </ul>
+  {% endfor %}
+</div>
+</details>.</p>
 
 Are you on the 2021 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
 
@@ -295,11 +303,9 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 <hr>
 
 # Job Market Candidates by tags
-<a id='jmc_tag'></a>
-
 
 {% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
+  <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
