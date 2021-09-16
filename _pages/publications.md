@@ -7,6 +7,7 @@ author_profile: true
 ## Working Papers
 1. **C. Tang**, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," submitted to *Conference on Neural Information Processing Systems (NeurIPS)*, 2021
 1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," submitted to *IEEE Transactions on Robotics (T-RO)*, 2021 
+1. J. Chen, **C. Tang**, W. Zhan, and M. Tomizuka, “Interaction-and-uncertainty-aware joint decision making and trajectory planning for urban on-road autonomous driving,” *in preparation for journal submission*
 
 ## Journal
 
