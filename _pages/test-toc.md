@@ -89,17 +89,9 @@ details[open] p {
   }
 </style>
 
-Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag [here](#jmc_tag).
-
-<a id='jmc_tag'></a>
-
-<details><summary>here</summary><p>
+Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag <details><summary>here.</summary><p>
 {% for tag in site.tags %}
-  <div class="toc">
-    <ul>
-      <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
-    </ul>
-  </div>
+   <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
 {% endfor %}
 </p>
 </details>
