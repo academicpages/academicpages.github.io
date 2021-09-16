@@ -72,10 +72,10 @@ details div {
   padding: 15px;
   width: 350px;
   position: absolute;
-  left: -150px;
+  left: 0px;
   top: 35px;
   border-radius: 4px;
-  right: 100px;
+  right: 250px;
 
   &:before {
     content: "";
