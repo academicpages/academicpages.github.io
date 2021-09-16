@@ -12,8 +12,9 @@ Information about special events and opportunties can be found here.
 
 We are pleased to announce that GSIPE's third virtual themed conference will be held on November 30, 2021. Its purpose is to showcase completed research and work in progress by graduate students incorporating qualitative or mixed methods research on any aspect of international political economy, broadly defined. We invite submissions by graduate students in economics, political science, international law, or a related discipline.
 
-More information on the conference and application process can be found [here]((https://gsipe-workshop.github.io/files/Mixed-methods-conference-GSIPE.pdf)). Abstracts should be submitted by October 18 via [this form](https://forms.gle/Y1EP7ouC3m5j31fN6).
+More information on the conference and application process can be found [here](https://gsipe-workshop.github.io/files/Mixed-methods-conference-GSIPE.pdf). Abstracts should be submitted by October 18 via [this form](https://forms.gle/Y1EP7ouC3m5j31fN6).
 
+<hr>
 
 ## Previous events:
 
