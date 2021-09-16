@@ -117,7 +117,8 @@ details[open] div {
   }
 </style>
 
-Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by <details><summary>tag.</summary>
+Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by 
+<details><summary>tag.</summary>
 <div class="toc">
   {% for tag in site.tags %}
       <ul>
