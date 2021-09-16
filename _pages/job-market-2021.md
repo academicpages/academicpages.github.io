@@ -129,7 +129,6 @@ Are you on the 2021 IPE job market and would like to be featured on this page? F
 </div>
 </details>
 <br />
-<br />
 
 <table class="tg">
 <thead>
