@@ -66,7 +66,7 @@ details p {
   }
 }
 
-details div class="toc" {
+details div {
   text-align: left;
   cursor: auto;
   background: #eee;
@@ -95,7 +95,7 @@ details[open] p {
   animation: animateDown 0.2s linear forwards;
 }
 
-details[open] div class="toc" {
+details[open] div {
   animation: animateDown 0.2s linear forwards;
 }
 
