@@ -7,6 +7,10 @@ toc_label: "JM tags"
 author_profile: true
 ---
 
+Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag [here](#jmc_tag).
+
+Are you on the 2021 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
+
 <style>
 HTML SCSSResult Skip Results Iframe
 EDIT ON
@@ -116,19 +120,6 @@ details[open] div {
     padding: 0 20px;
   }
 </style>
-
-Are you on the 2021 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
-
-<details><summary>Click here to check out the candidates by tag.</summary>
-<div class="toc">
-  {% for tag in site.tags %}
-      <ul>
-        <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
-      </ul>
-  {% endfor %}
-</div>
-</details>
-<br />
 
 <table class="tg">
 <thead>
@@ -333,6 +324,18 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 <hr>
 
 # Job Market Candidates by tags
+<a id='jmc_tag'></a>
+
+<details><summary>Click here for tag index.</summary>
+<div class="toc">
+  {% for tag in site.tags %}
+      <ul>
+        <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
+      </ul>
+  {% endfor %}
+</div>
+</details>
+<br />
 
 {% for tag in site.tags %}
   <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
