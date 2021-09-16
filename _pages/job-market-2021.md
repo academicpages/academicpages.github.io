@@ -8,6 +8,17 @@ author_profile: true
 ---
 
 <style>
+  details {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: 0.15s background linear;
+    &:hover {
+      background: #d4d1ec;
+    }
+  }
+
   details > summary::-webkit-details-marker {
     display: none;
     float:left;
