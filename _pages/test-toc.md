@@ -7,12 +7,6 @@ toc_label: "JM tags"
 author_profile: true
 ---
 
-<style>
-  #toc:hover div {
-    display: block;
-  }
-</style>
-
 Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag [here](#jmc_tag).
 
 <a id='jmc_tag'></a>
@@ -24,6 +18,21 @@ Profiles of graduate students in international political economy on the 2021 job
     </ul>
   </div>
 {% endfor %}
+
+<style>
+  #toc {
+    position: fixed;
+    right: 0;
+    top: 0;
+    background-color:#FFF;
+  }
+  
+  #toc #full { display: none; } 
+  
+  #toc:hover #full{
+    display: block; 
+  }
+</style>
 
 
 {% for tag in site.tags %}
