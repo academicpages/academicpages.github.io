@@ -117,8 +117,12 @@ details[open] div {
   }
 </style>
 
-<p> Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by 
-<details><summary>tag.</summary>
+Profiles of graduate students in international political economy on the 2021 job market can be found here. 
+
+Are you on the 2021 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
+
+
+<details><summary>Click to check out the job market candidates by tag.</summary>
 <div class="toc">
   {% for tag in site.tags %}
       <ul>
@@ -127,10 +131,6 @@ details[open] div {
   {% endfor %}
 </div>
 </details>
-</p>
-
-Are you on the 2021 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
-
 
 <table class="tg">
 <thead>
