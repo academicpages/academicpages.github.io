@@ -326,7 +326,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 # Job Market Candidates by tags
 <a id='jmc_tag'></a>
 
-<details><summary>Click here for tag index.</summary>
+<details><summary>CLICK HERE FOR TAG INDEX.</summary>
 <div class="toc">
   {% for tag in site.tags %}
       <ul>
