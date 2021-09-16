@@ -15,6 +15,8 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:* 
 
+- Call for papers for 3rd mini-conference: Qualitative and Mixed Methods, [check it here](https://gsipe-workshop.github.io/special-events/).
+
 - Our workshop schedule for the fall semester is ready, [check it here](https://gsipe-workshop.github.io/schedule/).
 
 <hr> 
