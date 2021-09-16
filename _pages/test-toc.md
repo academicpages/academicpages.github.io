@@ -16,7 +16,7 @@ Profiles of graduate students in international political economy on the 2021 job
 {% for tag in site.tags %}
   <div class="toc">
     <ul>
-      <li><a href="{ tag[0] }">{{ tag[0] }}</a></li>
+      <li><a href={ tag[0] }  >{{ tag[0] }}</a></li>
     </ul>
   </div>
   <h1 id="{ tag[0] }">{{ tag[0] }}</h1>
