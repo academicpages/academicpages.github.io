@@ -26,6 +26,9 @@ Updates
 <summary>2021</summary>
 <ul>
   <li>
+    13-16 Sep - Attended Gaussian process summer school 2021 virtually 
+  </li>
+  <li>
     18 Jun - A paper titled "Towards Active Air Quality Station Deployment" accepted in <a style="text-decoration:none" href="https://sites.google.com/view/icml-2021-subsetml/home">SubSetML</a> workshop in ICML'21 
   </li>
   <li>
