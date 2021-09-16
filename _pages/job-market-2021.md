@@ -7,7 +7,55 @@ toc_label: "JM tags"
 author_profile: true
 ---
 
-Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by <details><summary>tag</summary>
+<style>
+  details > summary::-webkit-details-marker {
+    display: none;
+    float:left;
+  }
+  
+  details p {
+    text-align: left;
+    cursor: auto;
+    background: #eee;
+    padding: 15px;
+    width: 350px;
+    position: absolute;
+    left: -150px;
+    top: 35px;
+    border-radius: 4px;
+    right: 100px;
+  
+  &:before {
+      content: "";
+      width: 0;
+      height: 0;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+      border-bottom: 12px solid #eee;
+      top: -10px;
+      position: absolute;
+      left: 10px;
+    }
+  }
+  
+  details[open] p {
+    animation: animateDown 0.2s linear forwards;
+  }
+  
+  @keyframes animateDown {
+    0% {
+      opacity: 0;
+      transform: translatey(-15px);
+    }
+    100% {
+      opacity: 1;
+      transform: translatey(0);
+    }
+  }
+</style>
+
+Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by 
+<details><summary>tag</summary>
 <div class="toc">
   {% for tag in site.tags %}
       <ul>
