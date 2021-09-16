@@ -10,7 +10,7 @@ author_profile: true
  
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
-  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted)</b>.<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted, top 13% in 1630 submissions)</b>.<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
  
 * <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> <br> 
