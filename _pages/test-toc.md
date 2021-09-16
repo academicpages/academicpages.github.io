@@ -66,7 +66,36 @@ details p {
   }
 }
 
+details div class="toc" {
+  text-align: left;
+  cursor: auto;
+  background: #eee;
+  padding: 15px;
+  width: 350px;
+  position: absolute;
+  left: -150px;
+  top: 35px;
+  border-radius: 4px;
+  right: 100px;
+
+  &:before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 12px solid #eee;
+    top: -10px;
+    position: absolute;
+    left: 10px;
+  }
+}
+
 details[open] p {
+  animation: animateDown 0.2s linear forwards;
+}
+
+details[open] div class="toc" {
   animation: animateDown 0.2s linear forwards;
 }
 
@@ -90,7 +119,7 @@ details[open] p {
 </style>
 
 Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag 
-<details><summary>here 2.</summary>
+<details><summary>here 3.</summary>
 <div class="toc">
   {% for tag in site.tags %}
       <ul>
