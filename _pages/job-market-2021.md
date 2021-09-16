@@ -324,9 +324,12 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 <hr>
 
 <a id='jmc_tag'></a>
+
+
 # Job Market Candidates by tags
 
-<details><summary>CLICK HERE FOR TAG INDEX.</summary>
+<br />
+<center><details><summary>CLICK HERE FOR THE TAG INDEX.</summary>
 <div class="toc">
   {% for tag in site.tags %}
       <ul>
@@ -334,7 +337,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
       </ul>
   {% endfor %}
 </div>
-</details>
+</details></center>
 <br />
 
 {% for tag in site.tags %}
