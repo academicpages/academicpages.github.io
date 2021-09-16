@@ -20,14 +20,11 @@ Profiles of graduate students in international political economy on the 2021 job
     </ul>
   </div>
   <h1 id="{{ tag[0] }}">{{ tag[0] }}</h1>
-{% endfor %}
-
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-{% endfor %} 	
+{% endfor %}
+
+
