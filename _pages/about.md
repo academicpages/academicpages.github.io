@@ -78,7 +78,7 @@ I'm interested in modeling techniques and algorithms on mixed-integer optimizati
 1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenichi Bannai and Masashi Sugiyama: Bézier simplex fitting: describing Pareto fronts of simplicial problems with small samples in multi-objective optimization,      The 33rd AAAI Conference on Artificial Intelligence (AAAI-19), Hilton Hawaiian Village Waikiki Beach Resort, February 2019.   
 
 ## Domestic Conferences
-1. 小林健, 高野祐一, 中田和秀: 基数制約つき分布ロバスト最適化. 京科学研究費 基盤研究(A)「機械学習システムの社会実装に向けた次世代最適化技法の研究｣ 2021年度 シンポジウム, オンライン発表, 2021 年 9 月.
+1. 小林健, 高野祐一, 中田和秀: 基数制約つき分布ロバスト最適化. 科学研究費 基盤研究(A)「機械学習システムの社会実装に向けた次世代最適化技法の研究｣ 2021年度 シンポジウム, オンライン発表, 2021 年 9 月.
 1. 小林健, 高野祐一, 中田和秀: 基数制約つき CVaR 最小化問題に対する 2 重切除平面法. 京都大学数理解析研究所 共同研究集会 数理最適化の理論と応用の深化, オンライン発表, 2021 年 8 月.
 1. 小林健, 高野祐一, 中田和秀: 基数制約つき CVaR 最小化問題に対する 2 重切除平面法. 日本オペレーションズ・リサーチ学会 2021 年春季研究発表会, オンライン発表, 2021 年 3 月.
 1.  田中章詞, 三内顕義, 小林健, 濱田直希:  近似ベイズ計算​を用いたベジエ単体フィッティングの理論解析.  第 23 回情報論的学習理論ワークショップ, オンライン発表, 2020 年 11 月.
