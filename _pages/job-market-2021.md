@@ -8,77 +8,6 @@ author_profile: true
 ---
 
 <style>
-  details {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    border-radius: 3px;
-    transition: 0.15s background linear;
-    &:hover {
-      background: #d4d1ec;
-    }
-  }
-
-  details > summary::-webkit-details-marker {
-    display: none;
-    float:left;
-  }
-  
-  details p {
-    text-align: left;
-    cursor: auto;
-    background: #eee;
-    padding: 15px;
-    width: 350px;
-    position: absolute;
-    left: -150px;
-    top: 35px;
-    border-radius: 4px;
-    right: 100px;
-  
-  &:before {
-      content: "";
-      width: 0;
-      height: 0;
-      border-left: 8px solid transparent;
-      border-right: 8px solid transparent;
-      border-bottom: 12px solid #eee;
-      top: -10px;
-      position: absolute;
-      left: 10px;
-    }
-  }
-  
-  details[open] p {
-    animation: animateDown 0.2s linear forwards;
-  }
-  
-  @keyframes animateDown {
-    0% {
-      opacity: 0;
-      transform: translatey(-15px);
-    }
-    100% {
-      opacity: 1;
-      transform: translatey(0);
-    }
-  }
-</style>
-
-Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by 
-<details><summary>tag</summary>
-<div class="toc">
-  {% for tag in site.tags %}
-      <ul>
-        <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
-      </ul>
-  {% endfor %}
-</div>
-</details>.</p>
-
-Are you on the 2021 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
-
-<style>
 HTML SCSSResult Skip Results Iframe
 EDIT ON
 body {
@@ -158,6 +87,20 @@ details[open] p {
     padding: 0 20px;
   }
 </style>
+
+<p>Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by 
+<details><summary>tag</summary>
+<div class="toc">
+  {% for tag in site.tags %}
+      <ul>
+        <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
+      </ul>
+  {% endfor %}
+</div>
+</details>.</p>
+
+Are you on the 2021 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
+
 
 <table class="tg">
 <thead>
