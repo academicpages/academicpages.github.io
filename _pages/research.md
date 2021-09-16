@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-![<img src="/images/porl2.png" width="250"/>](/images/porl2.png){: style="float: left"}
+![<img src="/images/porl2.png" width="100"/>](/images/porl2.png){: style="float: left"}
 
 **Dealing with the Unknown:Pessimistic Offline Reinforcement Learning [[CoRL 2021]](https://openreview.net/forum?id=ftOqDUeLPn3)** <br />
 _Jinning Li, Chen Tang, Masayoshi Tomizuka, Wei Zhan_ <br/> 
