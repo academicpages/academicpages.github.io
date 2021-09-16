@@ -90,14 +90,14 @@ details[open] p {
 </style>
 
 Profiles of graduate students in international political economy on the 2021 job market can be found here. You can also see check them out by tag 
-<details><summary>here.</summary>
-<p>
-{% for tag in site.tags %}
-    <ul>
-      <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
-    </ul>
-{% endfor %}
-</p>
+<details><summary>here 2.</summary>
+<div class="toc">
+  {% for tag in site.tags %}
+      <ul>
+        <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
+      </ul>
+  {% endfor %}
+</div>
 </details>
 
 {% for tag in site.tags %}
