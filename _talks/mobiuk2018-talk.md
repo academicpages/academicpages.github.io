@@ -1,6 +1,6 @@
 ---
 title: "An infrastructure-free smartphone locationing system using inertial sensor data"
-excerpt: "<img src='/files/mobiuk2018talk.png'>"
+[Image]<img src='/files/mobiuk2018talk.png'>
 collection: talks
 type: "Talk"
 permalink: /talks/mobiuk2018-talk
