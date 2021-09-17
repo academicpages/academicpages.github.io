@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simon Wei"
+  name             : "Xijia (Simon) Wei"
   avatar           : "profile.png"
-  bio              : "stay real, stay enthusiastic"
-  location         : "UK"
+  bio              : "Stay real. Stay enthusiastic"
+  location         : :uk::cn:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=C1p76VgAAAAJ"
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"https://www.facebook.com/weixijia"
+  facebook         : #"weixijia"
   foursquare       :
   github           : "weixijia"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/simonwxj"
+  instagram        : "simonwxj"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
