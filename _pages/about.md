@@ -36,7 +36,7 @@ News
 Joint work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks".
 See you in Lloret de Mar, Spain
 
-[Jul. 2019] Paper accepted at IPIN 2019.
+[Jul. 2019] Paper accepted at IPIN, 2019.
 Joint work with Valentin Radu, "Calibrating Recurrent Neural Networks on Smartphone Inertial Sensors for Location Tracking".
 See you in Pisa, Italy
 
