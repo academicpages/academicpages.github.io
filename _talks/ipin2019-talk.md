@@ -6,4 +6,5 @@ permalink: /talks/ipin2019-talk
 venue: "University of Pisa, Department of Computer Science"
 date: 2019-10-01
 location: "Pisa, Italy"
+[Image]<img src='/files/ipin2019talk.png'>
 ---
