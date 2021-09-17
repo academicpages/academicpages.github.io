@@ -1,0 +1,95 @@
+\documentclass{clean_cv}
+
+% Add a BibTeX-style file encoding all of your publications to include here. You can export this from Zotero. Only include
+% publications you want to appear here!
+\addbibresource{pub.bib}
+
+\author{Kaiwen "Kevin" Dong}
+\headlineposition{Ph.D student, University of Notre Dame}
+
+\begin{document}
+
+\maketitle
+% In this section, you can use any of the FontAwesome icons. The commands \faCenter and \faCenterStyle have been defined to properly center the icons
+% when using the default font settings.
+%
+% You can use any of the icons listed in the fontawesome5 package documentation (https://ctan.math.utah.edu/ctan/tex-archive/fonts/fontawesome5/doc/fontawesome5.pdf)
+% If you need to specify a specific style (as is done here for the address card), you should use the two-argument \faCenterCycle command
+\begin{center}
+\begin{tabular}{lll}
+    % & \faCenter{phone-alt} 541-754-301
+    \faCenter{envelope} \href{mailto:kdong2@nd.edu}{kdong2@nd.edu}  & \faCenterStyle{regular}{address-card} 384 Nieuwland Science Hall, Notre Dame, IN 46556 USA & \faCenter{linkedin} \href{https://www.linkedin.com/in/kaiwen-dong-ab0634103/}{kaiwen-dong-ab0634103} \\
+    \faCenter{orcid} \href{https://orcid.org/0000-0001-8244-9562}{0000-0001-8244-9562} & \faCenter{globe} \url{https://barcavin.github.io/} & \faCenter{github} \href{https://github.com/Barcavin}{Barcavin}\\
+\end{tabular}
+\end{center}
+
+\vspace{-1.5em}
+
+\section{Education}
+
+% The datetabular environment takes one argument, which is the width of the left date column. As seen here:
+%   9em is a good choice for "dual-date" formats (e.g. Sep 2015 - Nov 2019).
+%   4em is a good choice for month/year dates (Sep 2014).
+%   2em is a good choice for year-only dates (as seen in the publications)
+\begin{datetabular}{9em}
+% This is just a tabular environment, for the most part. The dateentry command has been defined for
+% convienence. It takes two arguments, the first is the date and the second is whatever you wish placed to the right.
+\dateentry{Aug 2021 -- Present}{
+\textbf{University of Notre Dame}
+
+\textit{Ph.D student in Computer Science, Teaching Assistant, Research Assistant longerr}
+}
+
+\dateentry{Aug 2016 -- May 2018}{
+\textbf{University of Illinois at Urbana-Champaign}
+
+\textit{Master of Science in Statistics}
+}
+
+\dateentry{Sep 2012 -- June 2016}{
+\textbf{University of Illinois at Urbana-Champaign}
+
+\textit{Bachelor of Science in Mathematics and Applied Mathematics}
+}
+\end{datetabular}
+
+\section{Work Experience}
+\begin{datetabular}{9em}
+\dateentry{2021 - 2021}{
+\textbf{University of Notre Dame}
+
+\textit{Graduate Teaching Assistant}
+
+\begin{itemize}
+\item Data Structure(Fall 2021)
+\end{itemize}\eatvspace
+}
+\dateentry{2018 - 2021}{
+\textbf{Aunalytics}
+
+\textit{Data Scientist}
+
+\begin{itemize}
+\item Leaded the development of the text-to-SQL product, which translates a natural language utterance to a machine-executable SQL query.
+\end{itemize}\eatvspace
+}
+% There is something seriously funky happening between the tabular commands and the end of the itemize blocks.
+% The command \eatvspace should be used if extra space appears at the end of a datetabular environment.
+\end{datetabular}
+
+% \section{Leadership and Teaching Experience}
+
+% \section{Honors}
+
+\section{Publications}
+\nocite{*} % Loads every entry from the attached .bib file
+% Highlight takes three entries, given name, given name initials, and family name.
+% If you have a middle initial, this call looks like:
+% \highlightauthorname{Bob H.}{B. H.}{Smith}
+\highlightauthorname{Kaiwen}{K.}{Dong} 
+\begin{datetabular}{2em}
+%printbibyear has been defined to only print entries from a given citation year.
+\dateentry{2021}{\printallbib}
+\end{datetabular}
+
+\end{document}
