@@ -76,3 +76,7 @@ WORK EXPERIENCE
   * Digital trading system development
   * Investment strategy
   * Risk management
+
+Résumé
+======
+[Download CV here](http://weixijia.github.io/files/Xijia's.pdf)
