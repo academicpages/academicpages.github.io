@@ -8,4 +8,4 @@ date: 2018-09-13
 location: "Cambridge, UK"
 ---
 
-image: "<img src='/images/mobiuk2018talk.png'>"
+<img src='/images/mobiuk2018talk.png'>
