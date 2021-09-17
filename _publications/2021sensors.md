@@ -9,4 +9,5 @@ paperurl: 'https://www.preprints.org/manuscript/202109.0301/v1'
 citation: 'Xijia Wei, Zhiqiang Wei and Valentin Radu. Sensor-fusion Tracking System using Hybrid Multimodal Deep Neural Network. Sensors'
 ---
 This paper is currenlty under review.
-[Download paper here]https://www.preprints.org/manuscript/202109.0301/v1
+
+[Download paper here](https://www.preprints.org/manuscript/202109.0301/v1)
