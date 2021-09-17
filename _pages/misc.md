@@ -5,4 +5,4 @@ permalink: /misc/
 author_profile: true
 ---
 
-[developed soon]
+TBA
