@@ -6,5 +6,6 @@ permalink: /talks/mobiuk2018-talk
 venue: "University of Cambridge, Department of Computer Science and Technology"
 date: 2018-09-13
 location: "Cambridge, UK"
-image: "<img src='/files/ipin2019talk.png'>"
 ---
+
+image: "<img src='/images/mobiuk2018talk.png'>"

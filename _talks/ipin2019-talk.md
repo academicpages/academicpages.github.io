@@ -8,4 +8,4 @@ date: 2019-10-01
 location: "Pisa, Italy"
 ---
 
-[Image]<img src='/files/ipin2019talk.png'>
+[Image]<img src='/images/ipin2019talk.png'>
