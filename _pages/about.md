@@ -32,9 +32,17 @@ Research Interests
 
 News
 ======
-[Sept. 2021] Papers accepted at IPIN, 2021.
+[Sept. 2021] Paper accepted at IPIN, 2021.
 Joint work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks".
 See you in Lloret de Mar, Spain
+
+[Jul. 2019] Paper accepted at IPIN 2019.
+Joint work with Valentin Radu, "Calibrating Recurrent Neural Networks on Smartphone Inertial Sensors for Location Tracking".
+See you in Pisa, Italy
+
+[Aug. 2018] Paper accepted at MobiUK 2018.
+Joint work with Valentin Radu, "End-to-End Machine Learning for Smartphone-based Indoor Localisation and Tracking using Recurrent Neural Networks".
+See you in Cambridge, UK
 
 For more info
 ======
