@@ -34,4 +34,4 @@ Research Interest
 
 For more info
 ======
-Please drop me an email if you are interested into my research projects!
+Please drop me an email if you are interested into my research!
