@@ -1,5 +1,5 @@
 ---
-title: "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks"
+title: "An end-to-end multimodal deep neural network based smartphone cross-sensor tracking systems"
 collection: talks
 type: "Talk"
 permalink: /talks/ipin2021-talk

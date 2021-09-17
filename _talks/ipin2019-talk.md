@@ -1,5 +1,5 @@
 ---
-title: "Calibrating Recurrent Neural Networks on Smartphone Inertial Sensors for Location Tracking"
+title: "How recurrent neural network performs like pedestrian dead reckoning for indoor positioning"
 collection: talks
 type: "Talk"
 permalink: /talks/ipin2019-talk
