@@ -79,4 +79,4 @@ WORK EXPERIENCE
 
 Résumé
 ======
-[Download CV here](http://weixijia.github.io/files/Xijia's.pdf)
+[Download CV here](http://weixijia.github.io/files/CV.pdf)
