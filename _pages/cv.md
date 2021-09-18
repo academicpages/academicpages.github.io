@@ -10,50 +10,37 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+=========
+* B.Sc. Mechanical Engineering, RWTH Aachen University (to be completed summer semester 2022)
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+===============
+* Student research assistant (10/2021 -- present)
+  * Institut für Kunststoffverarbeitung (IKV)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software development intern (09/2020 -- 03/2021)
+  * BMW AG -- Software and Development Toolchain, Continous Integration for Vehicle Dynamics (EF-303)
+  * Duties included: 
+    - Software Development for the MATLAB MBSE Toolchain (Generation of ASIL-D C-Code to be run on ECUs)
+    - Developing tooling software for MiL/HiL-Tests
+    - Software builds using Bazel
+    - Test automation in JAVA
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Student lecturer (10/2018 -- 03/2021)
+  * IT Center RWTH Aachen University -- fIT in IT
+  * Responsible for the courses "Introduction to MATLAB" and "Simulation with MATLAB and Simulink"
+  * Duties included: 
+    - Teaching the lecture and exercise
+    - Conception and creation of new teaching materials
+    - Creation of a new digital concept of teaching
+    - Automated test evaluation for homework assignments using Moodle
+    - Coordinated with other lecturers about teaching MATLAB at RWTH Aachen
+  * Completed additional certification: "Qualification program for professional teaching skills for the university"
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Programming languages
+=====================
+* Matlab/Simulink especially Codegen
+* Python3
+* JAVA
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
