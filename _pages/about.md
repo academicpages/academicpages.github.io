@@ -33,6 +33,8 @@ Current and past supporters of my work:
 <img src='/images/insta-logo.png' width="75" >
 <img src='/images/etsy-logo.png' width="100">
 <img src='/images/onr-logo.png' width="150">
+<img src='/images/S_scholars_logo-color.jpeg' width="150">
+<img src='/images/waim.png' width="150">
 
 
 ###### Picture of me by [@gerardoforsure](https://twitter.com/gerardoforsure)
