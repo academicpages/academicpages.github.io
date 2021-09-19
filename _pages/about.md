@@ -10,11 +10,11 @@ redirect_from:
 
 I am a 2nd-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised  by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). 
 
-My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models, Transfer Learning, Contrastive Learning, Knowledge Graph, etc. You can find my CV [here](/cv/).
+My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models and Transfer Learning. You can find my CV [here](/cv/).
 
 
 ## News
-* [Aug. 2021] Got one paper accepted at TASLP 2021 (Journal). 
+* [Aug. 2021] Got one paper accepted at AAAI/TASLP 2021 (Journal). 
 * [Feb. 2021] Got one paper accepted at WWW 2021 (Workshop). 
 * [Aug. 2020] Got one papers accepted at EMNLP 2020 (Findings).
 
