@@ -34,6 +34,7 @@ Coding
 Statistics
 ======
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) by Danielle Navarro
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, & Jerome Friedman
 * [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, & Jannes Muenchow
 * [An Introduction to Spatial Data Analysis and Visualisation in R](https://www.sciencedirect.com/book/9780128044889/environmental-data-analysis-with-matlab) by Joshua Menke & William Menke
 * [Environmental Data Analysis with Matlab](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, & Jannes Muenchow
@@ -76,6 +77,7 @@ Modeling
 * [Neural Networks and Deep Learning: Introduction to core principles](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/) by David Macay
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google
+* [Interpretable Machine Learning A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/) by Alicia A. Johnson, Miles Ott, & Mine Dogucu
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton & Andrew G. Barton
 * [Kaggle](https://www.kaggle.com/) for downloading some fun public datasets to try out machine learning algorithms
