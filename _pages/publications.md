@@ -23,6 +23,7 @@ author_profile: true
 *ACM International Conference on Information and Knowledge Management.*<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://wang-yuke.com/files/CIKM_2021_IF.pdf)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L94-L99)
+[<b style="color:#a31503">[**Slides**]</b>](https://wang-yuke.com/files/yuke_cikm'21.pdf)
 
 + <b style="color:blue">[SC-2021]</b>
 \*Boyuan Feng, **\*Yuke Wang**, Tong Geng, Ang Li, Yufei Ding. \*: equal contribution<br/>
