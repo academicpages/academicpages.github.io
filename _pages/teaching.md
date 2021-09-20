@@ -42,6 +42,14 @@ __Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia__
 ## Outreach
 _Everything should be made simple as possible, but not simpler_. __--Albert Einstein__
 
+__Diversifying Biodiversity Science__
+
+<p align = center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CYlt3bMIsEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</p>
+
 __IUCN Red List reviewer__   
 Expert reviewer for the 2020 Red List of birds (eastern South America).   
 
