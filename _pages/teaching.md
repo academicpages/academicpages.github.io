@@ -44,6 +44,8 @@ _Everything should be made simple as possible, but not simpler_. __--Albert Eins
 
 __Diversifying Biodiversity Science__
 
+YouTube video of the round table entitled "Diversifying Biodiversity Science" under the RCN: Cross-Scale Processes Impacting Biodiversity collaborative project, in which several panelists were invited to talk about their experiences regarding the inequalities in biodiversity science and how they are working to make our work more inclusive.
+
 <p align = center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CYlt3bMIsEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
