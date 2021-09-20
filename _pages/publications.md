@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 <h5>Please don't hesitate to get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
 
-<h3>Articles in Review</h3>
+<h3>Articles in Review and in Press</h3>
 <table class="tg">
 <tbody>
 <tr>
 <td width="5%">[10]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Davidson, E.R., Lees, K.J., Hammer, L.J., Lavoie, M.-F., Lennox, R., Simard, E., Auger-Méthé, M., Archambault, P., McKindsey, C., Whoriskey, F, Furey, N.B. Tracking movements of decapod crustaceans: a review of a half-century of telemetry-based studies. In Review, Submitted 10 May 2021.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Davidson, E.R., Lees, K.J., Hammer, L.J., Lavoie, M.-F., Lennox, R., Simard, E., Auger-Méthé, M., Archambault, P., McKindsey, C., Whoriskey, F, Furey, N.B. In press. Tracking movements of decapod crustaceans: a review of a half-century of telemetry-based studies. <a href="https://www.int-res.com/prepress/m13904.html" rel="noopener noreferrer">doi:10.3354/meps13904</a>.</td>
 </tr>
 </tbody>
 </table>
