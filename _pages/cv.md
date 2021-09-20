@@ -35,6 +35,10 @@ Skills
 * Tools I am Excited to Learn
   * Gradle, Maven, JWT, CI/CD, Kubernetes, Container Orchestration, Jenkins, Ansible, Chef, Puppet
 
+Projects
+======
+* Homelab (Update in Progress)
+
 Service and leadership
 ======
 * Auburn Student ACM Club
