@@ -31,7 +31,7 @@ Skills
 * Frameworks and Libraries I am Eager to Learn
   * Spring, Hibernate, .NET Core, Node.js, Vue.js, React
 * Tools
-  * Git, Linux, Docker, AWS/GCP/Azure, Jira, Active Directory, Group Policy, vCenter
+  * Git, Linux, Docker, AWS/GCP/Azure, Jira, Active Directory, Group Policy, VMWare vSphere
 * Tools I am Excited to Learn
   * Gradle, Maven, JWT, CI/CD, Kubernetes, Container Orchestration, Jenkins, Ansible, Chef, Puppet
 
