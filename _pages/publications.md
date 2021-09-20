@@ -15,7 +15,7 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[10]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Davidson, E.R., Lees, K.J., Hammer, L.J., Lavoie, M.-F., Lennox, R., Simard, E., Auger-Méthé, M., Archambault, P., McKindsey, C., Whoriskey, F, Furey, N.B. In press. Tracking movements of decapod crustaceans: a review of a half-century of telemetry-based studies. <a href="https://www.int-res.com/prepress/m13904.html" rel="noopener noreferrer">doi:10.3354/meps13904</a>.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Davidson, E.R., Lees, K.J., Hammer, L.J., Lavoie, M.-F., Lennox, R.J., Simard, E., Auger-Méthé, M., Archambault, P., McKindsey, C., Whoriskey, F.G., Furey, N.B. In press. Tracking movements of decapod crustaceans: a review of a half-century of telemetry-based studies. <a href="https://www.int-res.com/prepress/m13904.html" rel="noopener noreferrer">doi:10.3354/meps13904</a>.</td>
 </tr>
 </tbody>
 </table>
