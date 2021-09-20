@@ -17,6 +17,10 @@ My research interests mainly lie in **Explainable AI applied in healthcare**, in
 Indeed, my works focus on **interpretable** analysis of those areas and building scalable and effective **optimization** models for them, from theoretical algorithms to practical applications.
 For all that, however, I prefer to be a problem solver rather than a skilled programmer or a data cruncher.
 
+Academic Services
+------
+* Conference Reviewer: IEEE CASE 2020.
+
 For more info
 ------
 To be continued...
