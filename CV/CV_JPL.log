@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.28)  23 AUG 2021 10:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.28)  16 SEP 2021 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -266,7 +266,7 @@ Overfull \hbox (5.74945pt too wide) in paragraph at lines 103--104
 [2
 
 ] [3] [4] [5] [6] [7] [8]
-Overfull \hbox (34.24142pt too wide) in paragraph at lines 451--460
+Overfull \hbox (34.24142pt too wide) in paragraph at lines 456--465
 [][] 
  []
 
@@ -280,7 +280,7 @@ Here is how much of TeX's memory you used:
  20169 multiletter control sequences out of 15000+600000
  410148 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,10n,80p,1583b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,10n,80p,1583b,294s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jkn
 appen/ec/tcrm1095.600pk></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/font
@@ -291,7 +291,7 @@ nyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Libra
 ry/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnp
 l/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/
 jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_JPL.pdf (10 pages, 158037 bytes).
+Output written on CV_JPL.pdf (10 pages, 157778 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
