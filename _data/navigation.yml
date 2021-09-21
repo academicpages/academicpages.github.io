@@ -16,7 +16,7 @@ main:
     url: /blog/
     
   - title: "CV"
-    url: /cv/
+    url: /_pages/CV.pdf
   
   - title: "Slides"
     url: /slides/
