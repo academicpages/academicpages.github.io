@@ -2,7 +2,7 @@
 title: "The role of Clueless in mitochondrial function"
 collection: posters
 type: "Poster presentation"
-permalink: /talks/2012-03-01-talk-1
+permalink: /posters/2018-05-01-poster-2
 venue: "USU Research Days 2018"
 date: May 2018
 location: "Bethesda, MD"
