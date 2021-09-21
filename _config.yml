@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kelsey Sheard"
+  name             : "Kelsey M. Sheard"
   avatar           : "Kelsey.jpeg"
-  bio              : "Graduate Student in Molecular and Cell Biology"
-  location         : "Bethesda, Maryland"
+  bio              : "Ph.D Candidate in Molecular and Cell Biology"
+  location         : "Bethesda, MD"
   employer         : "Uniformed Services University"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "kelsey.sheard@usuhs.edu"
