@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Statistics and Computer Science, Università Bocconi, 2025 (expected)
+* M.S. in Physics, Università degli Studi di Milano, 2020
+* B.S. in Physics, Università degli Studi di Milano, 2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2021-Jul 2021: Machine Learning and Artificial Intelligence Analyst
+  * Jakala
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
