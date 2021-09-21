@@ -1,12 +1,12 @@
 ---
 title: "Clueless forms dynamic, insulin-responsive bliss particles sensitive to stress"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-12-16
+permalink: /publication/2020-03-15-paper-title-number-1
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+date: 2020-03-15
 venue: 'Developmental Biology'
-paperurl: 'https://ksheard.pub/blissparticles'
-citation: 'Sheard, K.M., Thibault-Sennett, S.A., Sen, A., Shewmaker, F., and Cox, R.T. (2019). &quot;Clueless forms dynamic, insulin-responsive bliss particles sensitive to stress.&quot; <i>Developmental Biology</i>.'
+paperurl: #'https://ksheard.pub/blissparticles'
+citation: 'Sheard, K.M., Thibault-Sennett, S.A., Sen, A., Shewmaker, F., and Cox, R.T. (2020). &quot;Clueless forms dynamic, insulin-responsive bliss particles sensitive to stress.&quot; <i>Developmental Biology</i>.'
 ---
 
 
