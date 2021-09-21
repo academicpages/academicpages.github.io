@@ -37,6 +37,16 @@ Publications
 ============
 
 <ul>
+	<li><b>New Metrics to Evaluate the Performance and Fairness of Personalized Federated Learning</b>
+			<br/>
+			Siddharth Divi, Yi-Shan Lin, <b>Habiba Farrukh</b>, Z Berkay Celik
+			<br/>
+			International Workshop on Federated Learning for User Privacy and Data Confidentiality (FL-ICML '21) <a href="https://arxiv.org/pdf/2107.13173.pdf">[Paper]</a>
+			<br/>
+	</li>
+</ul>
+
+<ul>
 	<li><b>S<sup>3</sup>: Side-Channel Attack on Stylus Pencils through Sensors</b>
 			<br/>
 			<b>Habiba Farrukh</b>, Tinghan Yang, Hanwen Xu, Yuxuan Yin, He Wang, Z. Berkay Celik
