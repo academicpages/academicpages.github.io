@@ -10,6 +10,6 @@ citation: 'Sheard, K.M. and Cox, R.T. (2021). &quot;Visualizing the Effects of O
 ---
 
 
-[Download paper here](https://pubmed.ncbi.nlm.nih.gov/33900289/)
+[Download :paperclip:](https://pubmed.ncbi.nlm.nih.gov/33900289/)
 
 #Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
