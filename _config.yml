@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Kelsey M. Sheard"
   avatar           : "Kelsey.jpeg"
-  bio              : "Ph.D Candidate in Molecular and Cell Biology"
+  bio              : "PhD Candidate in Molecular and Cell Biology"
   location         : "Bethesda, MD"
   employer         : "Uniformed Services University"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -181,6 +181,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posters:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -234,6 +237,14 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _posters
+  - scope:
+      path: ""
+      type: posters
     values:
       layout: talk
       author_profile: true
