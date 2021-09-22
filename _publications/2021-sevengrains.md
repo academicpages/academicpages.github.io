@@ -7,7 +7,7 @@ date: 2021/07/21
 venue: 'The Lancet Digital Health'
 paperurl: 'https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00141-2/fulltext'
 biburl: /files/coppock2021sevengrains.bib
-citation: 'H. Coppock, L. Jones, I. Kiskin, B. W. Schuller, Covid-19 detection from audio:  Seven grains of salt, <i>The Lancet Digital Health</i> doi:10.1016/S2589-7500(21)00141-2'
+citation: '<b>Harry Coppock</b>, Lyn Jones, Ivan Kiskin, Björn W. Schuller, Covid-19 detection from audio:  Seven grains of salt, <i>The Lancet Digital Health</i> doi:10.1016/S2589-7500(21)00141-2'
 author_profile: false
 ---
 COVID-19 detection from breath/cough/speech audio has received a lot of media and research attention. In this comment we indentify seven issues plaguing current COVID-19 audio datasets.
