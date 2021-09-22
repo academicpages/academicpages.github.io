@@ -21,7 +21,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 Publication
 ======
-_[\* means equal contribution.]_
+
 
 *  __Sun, Z.__, Barp, A., Briol, F.-X.(2021). Vector-Valued Control Variates _[(pre-print)]()_.
 
