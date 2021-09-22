@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 3"
+title: "Ethical Considerations of Photosensitive Epilepsy in Mixed Reality"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/photosensitive-epilepsy-mixed-reality-workshop
+excerpt: 'As public interest in virtual and augmented reality increases, so do the risks faced by users with photosensitive epilepsy,
+a neurological condition where seizures are triggered by specific kinds of light stimuli. Most research on photosensitive epilepsy focuses on user interaction with television sets and does not necessarily transfer to other methods of interaction. Very little research has been done examining mixed reality from the perspective of photosensitive users and understanding the additional risks posed by new forms of immersive technology. Examples of hackers targeting people with photosensitive epilepsy through social media serve as a wake-up call about the possibility of similar malicious attacks in mixed reality. In this paper we draw from photosensitive epilepsy research to create recommendations for simple steps mixed reality developers can take to minimize photosensitive risk in their systems in addition to issuing a broader call for further research into understanding photosensitive epilepsy in the context of mixed reality.'
+date: 2020-05-01
+venue: 'CHI 2020 Workshop: Exploring Potentially Abusive Ethical, Social and Political Implications of Mixed Reality Research in HCI'
+paperurl: 'http://lsouth.github.io/files/photosensitive-epilepsy-mixed-reality-workshop.pdf'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+## Abstract 
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+As public interest in virtual and augmented reality increases, so do the risks faced by users with photosensitive epilepsy,
+a neurological condition where seizures are triggered by specific kinds of light stimuli. Most research on photosensitive epilepsy focuses on user interaction with television sets and does not necessarily transfer to other methods of interaction. Very little research has been done examining mixed reality from the perspective of photosensitive users and understanding the additional risks posed by new forms of immersive technology. Examples of hackers targeting people with photosensitive epilepsy through social media serve as a wake-up call about the possibility of similar malicious attacks in mixed reality. In this paper we draw from photosensitive epilepsy research to create recommendations for simple steps mixed reality developers can take to minimize photosensitive risk in their systems in addition to issuing a broader call for further research into understanding photosensitive epilepsy in the context of mixed reality.
+
+[Download paper here](http://lsouth.github.io/files/photosensitive-epilepsy-mixed-reality-workshop.pdf)
