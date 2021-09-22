@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Detecting and Defending Against Seizure-Inducing GIFs in Social Media"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/seizure-gifs-chi-2021
+excerpt: ''
+date: 2021-05-08
+venue: 'ACM CHI'
+paperurl: 'http://academicpages.github.io/files/seizure-gifs-chi-2021.pdf'
+# citation: 'South, L. (2021). &quot;Detecting and Defending Against Seizure-Inducing GIFs in Social Media&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+## Abstract
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Despite recent improvements in online accessibility, the Internet remains an inhospitable place for users with photosensitive epilepsy, a chronic condition in which certain light stimuli can trigger seizures and even lead to death in extreme cases. In this paper, we explore how current risk detection systems have allowed attackers to take advantage of design oversights and target vulnerable users with photosensitivity on popular social media platforms. Through interviews with photosensitive individuals and a critical review of existing systems, we constructed design requirements for consumer-driven protective systems and developed a prototype browser extension for actively detecting and disarming potentially seizure-inducing GIFs and videos. We validate our system with a comprehensive dataset of simulated GIFs and GIFs collected from social media. Finally, we conduct a novel quantitative analysis of the prevalence of seizure-inducing GIFs across popular social media platforms and contribute recommendations for improving online accessibility for individuals with photosensitivity. All study materials are available on [OSF](https://osf.io/5a3dy/).
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/seizure-gifs-chi-2021.pdf)
