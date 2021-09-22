@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a 3rd year PhD student in machine learning and computational statistics at Department of Statistical Science, University College London. I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. 
+My name is Z. Sun, a 3rd year PhD student in machine learning and computational statistics at Department of Statistical Science, UCL. I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. 
 
 
 Research Interest
