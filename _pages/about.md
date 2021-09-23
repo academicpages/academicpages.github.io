@@ -14,7 +14,7 @@ My research interests lie within the intersection of Natural Language Processing
 
 
 ## News
-* [Aug. 2021] Got one paper accepted at AAAI/TASLP 2021 (Journal). 
+* [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021 (Journal). 
 * [Feb. 2021] Got one paper accepted at WWW 2021 (Workshop). 
 * [Aug. 2020] Got one papers accepted at EMNLP 2020 (Findings).
 
