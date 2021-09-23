@@ -9,9 +9,6 @@ author_profile: false
 
 | date | time | speaker | title | zoom link |
 | -- | -- | ---- | -------- | ----- |
-| Th, Sep 9, 2021 | 1:30pm - 2:30pm |  |  |  |
-| Th, Sep 16, 2021 | 1:30pm - 2:30pm | |   |  |
-| Th, Sep 23, 2021 | 1:30pm - 2:30pm |  |  |  |
 | Th, Sep 30, 2021 | 1:30pm - 2:30pm |  |  |  |
 | Th, Oct 7, 2021 | 1:30pm - 2:30pm | Russell Avdek |  |  |
 | Th, Oct 14, 2021 | 1:30pm - 2:30pm |  |  |  | |
