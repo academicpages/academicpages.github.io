@@ -16,13 +16,14 @@ redirect_from:
 
 ## About Me
 
-I am a third-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin). 
+I am a third-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin). 
 
 My research interests center on interpretable machine learning and natural language processing. I am particularly interested in techniques for explaining model behavior and aligning ML systems with human values, which are problems I see natural language playing a prominent role in. I am broadly interested in topics related to AI Safety. In all of these areas, I find work on clarifying concepts and developing strong evaluation procedures especially valuable. 
 
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2021 - Awarded a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) for Natural Language Processing! 
 * 2021 - Invited talk at [CHAI](https://humancompatible.ai/), UC Berkeley, on [Evaluating Explainable AI](https://arxiv.org/abs/2005.01831)
 * 2021 - Paper accepted to EMNLP 2021: "FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging" [[pdf]](https://arxiv.org/abs/2012.15781) [[code]](https://github.com/salesforce/fast-influence-functions)
 * 2021 - Named as an [outstanding reviewer](https://2021.aclweb.org/blog/reviewer-list/) for ACL-IJCNLP 2021
