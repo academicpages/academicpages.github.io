@@ -18,6 +18,8 @@ My research interests include Natural Language Processing, Machine Learning, wit
 
 News    
 ======
+<span style="color:red">[9.2021]</span> Our paper is accepted by the International Journal of Medical Informatics (IJMI) (IF:3.21)! 
+
 <span style="color:red">[8.2021]</span> Our paper is accepted by MEDINFO 2021! 
 
 <span style="color:red">[7.2021]</span> Our paper is accepted by the Applied Clinical Informatics (ACI) (IF: 2.405)!   
