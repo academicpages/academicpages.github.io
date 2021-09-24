@@ -19,7 +19,7 @@ For all that, however, I prefer to be a problem solver rather than a skilled pro
 
 Keywords 
 ======
-Data Science, Data-Driven Automation, Machine Learning, Data Mining and Knowledge Discovery, Operation Research, Optimization, Statistics.
+Data-Driven Automation, Data Science, Data Intelligence, Machine Learning, Data Mining and Knowledge Discovery, Operation Research, Optimization, Statistics.
 
 Academic Services
 ------
