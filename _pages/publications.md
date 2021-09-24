@@ -8,7 +8,7 @@ author_profile: true
     
 ## Journal Articles
 
-+ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Cardiology_**, 2021. (in submission)
++ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. 
 
 + **Sun, Y.**, Butler, A., Diallo1, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "A Framework for Systematic Assessment of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Applied Clinical Informatics Journal_** , 2021. [pdf](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0041-1733846)
 
