@@ -9,51 +9,80 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+On this page you can find a short academic CV. For more details, please find me on [LinkedIn](https://www.linkedin.com/in/annalatour/).
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<!--- You can find more details about my Diversity/Inclusion activities [here](http://www.annalatour.nl/diversity/). A list of publications and code can be found [here](http://www.annalatour.nl/code-publications/). --->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### CURRENT POSITION
 
+I am currently working as a PhD student at the [Leiden Institute of Advanced Computer Science](https://liacs.leidenuniv.nl/) (LIACS) of [Leiden University](https://www.universiteitleiden.nl/en), under supervision of [prof. dr. Joost Kok](http://liacs.leidenuniv.nl/~kokjn/) (promotor), [prof. dr. Holger Hoos](http://ada.liacs.nl/members/#Holger) (promotor) and [prof. dr. Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/) (co-promotor / daily supervisor). I am also a visiting researcher at the [ICTEAM](https://uclouvain.be/en/research-institutes/icteam) of [Université catholique de Louvain](https://uclouvain.be/en/index.html).
+
+The project I am hired on is called [PROFIDDS](http://liacs.leidenuniv.nl/~nijssensgr/profidds/) (PRObabilistic Features for Intelligent Declarative Data Science), and is financed by an NWO TOP Grant, awarded to Siegfried Nijssen. I started in January 2017. Our first project was on combining Probabilistic Logic Programming with Constraint Programming.
+
+**June-October** **2019**: Research visit to [prof. dr. Fahiem Bacchus](http://www.cs.toronto.edu/~fbacchus/) and his group at the [Knowledge Representation group](http://www.cs.toronto.edu/kr/) of the University of Toronto.
+
+### EDUCATION
+
+* MSc in Artificial Intelligence, Leiden University, 2016. *Cum laude*. I did a 42 ECTS research project with the [DTAI group](https://dtai.cs.kuleuven.be) of [KU Leuven](https://www.kuleuven.be/english/), under the supervision of the developers of [ProbLog](https://dtai.cs.kuleuven.be/problog/). The title of the resulting thesis was: *Incremental algorithms for solving stochastic constraint optimisation problems with probabilistic logic programming.*
+
+* Pre-master in Computer Science (60 ECTS of Bachelor CS courses), Leiden University, 2014. GPA: 9.2/10 (A+).
+
+* BSc in Physics and Astrophysics, Amsterdam University, 2012.
+
+### AWARDS, SCHOLARSHIPS, GRANTS
+
+**2021:** Outstanding Program Committee Member Award AAAI 2021, which was awarded to the 13 best reviewers. The AAAI-21 Program Committee: “Your efforts were characterised by exceptional care, thoroughness, and thoughtfulness in the reviews and discussions of the papers assigned to you.”
+
+**2019:** Travel grant from Google to attend the [Grace Hopper Celebration](https://ghc.anitab.org/) in Orlando, Florida.
+
+**2019:** [ICT.OPEN Pitch Prize](https://ict-research.nl/ict-open/programme/pitch-prize/) for the best 3-minute elevator pitch, scored on content, clarity, and charisma. See [here](https://www.universiteitleiden.nl/en/news/2019/04/these-are-the-five-leiden-highlights-of-ict.open) and [here](https://adaresearch.wordpress.com/2019/03/29/double-win-at-ict-open-2019-anna-louise-and-can-take-home-pitch-prize-and-poster-prize/).
+
+**2018:** Google’s [Women Techmakers Scholars Program](https://www.womentechmakers.com/scholars) (formally known as the Anita Borg Memorial Scholarship Program) provides scholarships for students in computing and technology who identify as female, to encourage them to excel in their field, and to become active leaders and role models in computing and technology. I am deeply honoured to be one of the recipients of the scholarship.
+
+**2017:** The [KNVI](https://www.knvi.nl/) (*Koninklijke Nederlandse Vereniging voor Informatieprofessionals*, or Royal Dutch Association for Information professionals) together with the [KHMW](https://khmw.nl/) (*Koninklijke Hollandsche Maatschappij der Wetenschappen*, or Royal Holland Society of Sciences and Humanities) each year awards three master students with a prize for their grades and their thesis. In order to win, your work not only has to be of excellent quality, it also has to be relevant and valuable to society. I received this award for the work I did at KU Leuven, which resulted in my Master thesis. The jury: “Despite the complexity of the material, Anna managed to write a thesis that is very pleasant to read, with clear arguments and explanations. The jury is impressed by the quality of the work and the way in which Anna conducted the research.”
+
+Press releases can be found on [the website of Leiden University](https://www.universiteitleiden.nl/nieuws/2017/11/anna-latour-tweede-prijs-scriptie) and [the website of KNVI](http://scriptieprijswebsite.webdevelopmentgroep.nl/scriptie/winnaar-2017-anna-latour-universiteit-leiden/). The full jury report can be downloaded from [the website of KHMW](https://khmw.nl/71-jong-talent-prijzen-uitgereikt/). All of these are in Dutch. The thesis itself can be downloaded [here](http://liacs.leidenuniv.nl/assets/Uploads/AnnaLatour.pdf).
+
+**2017:** Travel grant for attending the [Constraint Programming Conference](http://cp2017.a4cp.org/) in Melbourne, Australia.
+
+**2013:** The Hugo van Woerden award is a prize that is given to young amateur astronomers that work to promote astronomy with children and youngsters. I received the award for the work I did for the [*Jongeren Werkgroep voor Sterrenkunde*](http://sterrenkunde.nl/jwg/) (JWG): a Dutch youth association for astronomy. Specifically, I received the award for the work I did to reinvent our astronomy magazine for children: [Universum](http://sterrenkunde.nl/jwg/universum). The jury: “Anna’s dedication and vigour have permanently elevated *Universum* to a higher level.”
+
+### SERVICE
+
+#### PROGRAM COMMITTEE MEMBER
+
+  - AAAI 2021 (awarded with an Outstanding Reviewer Award)
+
+#### CO-ORGANISER
+
+  - BNAIC/BENELEARN 2020 (sponsor chair, social chair)
+
+### OTHER THINGS YOU MIGHT KNOW ME FROM
+
+* I am featured on [a page](https://www.universiteitleiden.nl/nieuws/2017/10/vrouwelijke-informatici-in-de-spotlights-voor-informatics-ladies-day) to promote the first Informatics Ladies Day, organised in November 2017 by [VHTO](https://www.vhto.nl/english/about-vhto/) and Leiden University, and [again in 2018](https://www.universiteitleiden.nl/nieuws/2018/09/vrouwelijke-informatici-in-de-spotlights-voor-informatics-ladies-day-2018).
+
+* I am a member of the programme committee of Leiden University’s [Studium Generale](https://www.universiteitleiden.nl/studium-generale).
+
+* In 2015 a bunch of awesome fellow students and I organised a [scientific field trip](https://www.deleidscheflesch.nl/activiteiten/reis/2015/) to Boston and New York, for study association [De Leidsche Flesch](https://www.deleidscheflesch.nl/en/).
+
+* In 2014 a different bunch of awesome fellow students and I made a very special yearbook for De Leidsche Flesch. Leiden University’s weekly newspaper [De Mare](http://mareonline.nl/) honoured our yearbook with the [yearbook-of-the-year award](http://www.mareonline.nl/archive/2014/06/18/het-jaarboek-van-hot-jaar), which consisted of free beer and life-long fame, of course. The theme? Ikea.
+
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  --->
