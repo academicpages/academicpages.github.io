@@ -38,6 +38,12 @@ Talks
   {% endfor %}</ul>
 -->
 
+Awards
+======
+* [ICTIR 2021](https://ictir2021.org/awards/)[ Best Student Paper Award {% <i class="fa fa-trophy" aria-hidden="true"></i> %}]
+* [2021 DIGIX GLOBAL AI CHALLENGE](https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201621219634131423): 
+Search rankings in multimodal and multilingual contexts. [Champion {% <span role="image" aria-label="🥇" style="font-family:&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,NotoColorEmoji,&quot;Noto Color Emoji&quot;,&quot;Segoe UI Symbol&quot;,&quot;Android Emoji&quot;,EmojiSymbols;line-height:1em;font-size:1em">🥇</span> %}]
+
 Teaching
 ======
 <!-- 
@@ -61,5 +67,5 @@ Work experience
   
 Service
 ======
-* SIGIR2021 PC member
+* PC member: SIGIR2021, ADCS20201
 * Publicity Chair of [CIKM2021](http://www.cikm2021.org/committee)
