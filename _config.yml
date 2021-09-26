@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi Ru (Helen) Wang"
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : "Prospective Graduate in the Engineering Science Program at the University of Toronto, majoring in Robotics Engineering and Minoring in Artificial Intelligence. I am broadly interested in robotic perception and learning."
   location         : "Toronto, Canada"
   employer         :  University of Toronto
