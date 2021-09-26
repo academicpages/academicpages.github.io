@@ -16,12 +16,17 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 <br><br>
 
 # Publication
+![](images/corl21.png){: .align-right width="200px"}
+**Equivariant Q Learning in Spatial Action Spaces**  
+**Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
+CoRL 2021, London, UK  
+[(Paper)](https://openreview.net/forum?id=IScz42A3iCI)
 
 ![](images/Paladyn21.png){: .align-right width="200px"}
 **Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
 Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, **Dian Wang**, Noah Torname, Sam Laderoute, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
 Paladyn 2021  
-[(PDF)](https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html)
+[(Paper)](https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html)
 
 ![](images/aamas21.png){: .align-right width="200px"}
 **Action Priors for Large Action Spaces in Robotics**  
