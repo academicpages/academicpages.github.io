@@ -16,32 +16,44 @@ Publications and Manuscripts
 ====
 
 **Cost Aware Asynchronous Multi-Agent Active Search**
+
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider
+
 In Submission, 2021.
 
 **Decentralized Multi-Agent Active Search for Sparse Signals**
+
 Ramina Ghods, Arundhati Banerjee, Jeff Schneider
+
 UAI 2021. [arxiv](https://arxiv.org/abs/2006.14718)
 
 **DeepTagRec: A Content-cum-User Based Tag Recommendation Framework for Stack Overflow**
+
 Suman Kalyan Maity, Abhishek Panigrahi, Sayan Ghosh, Arundhati Banerjee, Pawan Goyal, Animesh Mukherjee
+
 ECIR 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_16)
 
 Workshop presentations
 ====
 **Cost Aware Asynchronous Multi-Agent Active Search**
+
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider
+
 WiML Un-Workshop @ ICML 2021 | [poster]()
 
 **Multi-Agent Active Search and Rescue**
+
 Ramina Ghods, Arundhati Banerjee, William Durkin and Jeff Schneider
+
 3rd Robot Learning Workshop : Grounding Machine Learning Development in the Real World @ NeurIPS 2020 | [poster]()
 
 Teaching
 ====
 
 **Introduction to Machine Learning (10-701)**
+
 Teaching Assistant
+
 Carnegie Mellon University, Spring 2021
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

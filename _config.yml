@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@arundhati_ab"
+  username               : #&twitter "@arundhati_ab"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arundhati Banerjee" #"Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Machine Learning PhD student at CMU" #"Your biography for the left-hand sidebar"
+  bio              : "PhD student @ CMU" #"Your biography for the left-hand sidebar"
   location         : "Pittsburgh, USA" #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
