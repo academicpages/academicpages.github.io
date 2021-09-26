@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Luis Palomino"
 title_separator          : "-"
 name                     : &name "Luis Palomino"
-description              : &description "Consultant <br> Teaching Assistant"
+description              : &description "personal description"
 url                      : https://luis-palomino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luis-palomino/luis-palomino.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Luis Palomino"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Consultant <br> Teaching Assistant"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
