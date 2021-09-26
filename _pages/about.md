@@ -23,6 +23,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 CoRL 2021, London, UK  
 [(Paper)](https://openreview.net/forum?id=IScz42A3iCI)
 ` `  
+` `  
 
 ![](images/Paladyn21.png){: .align-right width="200px"}
 **Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
