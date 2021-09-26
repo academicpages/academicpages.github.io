@@ -21,11 +21,16 @@ Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
 
 **Decentralized Multi-Agent Active Search for Sparse Signals**\
 Ramina Ghods, Arundhati Banerjee, Jeff Schneider\
-UAI 2021. [arxiv](https://arxiv.org/abs/2006.14718)
+UAI 2021. | [arxiv](https://arxiv.org/abs/2006.14718)
+
+**Artificial neural network for identification of short-lived particles in the CBM experiment**\
+Arundhati Banerjee, Ivan Kisel, Maksym Zyzak\
+Special Issue: Learning to Discover, International Journal of Modern Physics
+A (IJMPA), 2020. | [paper](https://www.worldscientific.com/doi/abs/10.1142/S0217751X20430034)
 
 **DeepTagRec: A Content-cum-User Based Tag Recommendation Framework for Stack Overflow**\
 Suman Kalyan Maity, Abhishek Panigrahi, Sayan Ghosh, Arundhati Banerjee, Pawan Goyal, Animesh Mukherjee\
-ECIR 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_16)
+ECIR 2019. | [paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_16)
 
 Workshop presentations
 ====
@@ -42,7 +47,7 @@ Teaching
 ====
 
 **Introduction to Machine Learning (10-701)**\
-Teaching Assistant\
+*Teaching Assistant*\
 Carnegie Mellon University, Spring 2021
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
