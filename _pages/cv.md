@@ -40,7 +40,7 @@ Talks
 
 Awards
 ======
-* [ICTIR 2021](https://ictir2021.org/awards/)[<i class="fa fa-trophy" aria-hidden="true">Best Student Paper Award</i>]
+* [ICTIR 2021](https://ictir2021.org/awards/) [<i class="fa fa-trophy" aria-hidden="true">Best Student Paper Award</i>]
 * [2021 DIGIX GLOBAL AI CHALLENGE](https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201621219634131423): 
 Search rankings in multimodal and multilingual contexts. [Champion <span role="image" aria-label="🥇" style="font-family:&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,NotoColorEmoji,&quot;Noto Color Emoji&quot;,&quot;Segoe UI Symbol&quot;,&quot;Android Emoji&quot;,EmojiSymbols;line-height:1em;font-size:1em">🥇</span>]
 
