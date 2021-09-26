@@ -37,11 +37,11 @@ Workshop presentations
 
 **Cost Aware Asynchronous Multi-Agent Active Search**\
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
-WiML Un-Workshop @ ICML 2021 | [poster]()
+WiML Un-Workshop @ ICML 2021 | [poster](files/poster_final.png)
 
 **Multi-Agent Active Search and Rescue**\
 Ramina Ghods, Arundhati Banerjee, William Durkin and Jeff Schneider\
-3rd Robot Learning Workshop : Grounding Machine Learning Development in the Real World @ NeurIPS 2020 | [poster]()
+3rd Robot Learning Workshop : Grounding Machine Learning Development in the Real World @ NeurIPS 2020 | [poster](files/NeurIPS_SPATS_poster.pdf)
 
 Teaching
 ====
