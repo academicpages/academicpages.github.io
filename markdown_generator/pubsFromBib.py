@@ -24,18 +24,33 @@ import html
 import os
 import re
 
+# Build a .bib file from the individual bib entries in files/bib:
+from pathlib import Path
+parentdir = str(Path(os.getcwd()).parent.absolute())
+with open("proceedings.bib", "w") as procfile, open("pubs.bib", "w") as pubsfile:
+    for bib_file in os.listdir(parentdir + '/files/bib'):
+        with open(parentdir + '/files/bib/' + bib_file, 'r') as bf:
+            lines = bf.readlines()
+            if lines[0].strip().startswith('@inproceedings'):
+                procfile.writelines(lines)
+            elif lines[0].strip().startswith('@article'):
+                pubsfile.writelines(lines)
+
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
     "proceeding": {
         "file" : "proceedings.bib",
+        "authorkey": "author",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "",
+        "links": "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
         
     },
     "journal":{
         "file": "pubs.bib",
+        "authorkey": "author",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
@@ -99,8 +114,11 @@ for pubsource in publist:
             citation = ""
 
             #citation authors - todo - add highlighting for primary author?
+            authors = ""
             for author in bibdata.entries[bib_id].persons["author"]:
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                authors = authors+" "+author.first_names[0]+" "+author.last_names[0]+", "
+            authors = authors[:-1]
 
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
@@ -127,15 +145,90 @@ for pubsource in publist:
 
             md += "\ndate: " + str(pub_date) 
 
+            md += "\nauthor: '" + html_escape(authors) + "'"
+
             md += "\nvenue: '" + html_escape(venue) + "'"
-            
+
             url = False
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
-            md += "\ncitation: '" + html_escape(citation) + "'"
+            # Check for the availability of pdf, slides, video, code
+            paper_available = False
+            paper_url = ""
+            paperdir = parentdir + '/files/papers'
+            if bib_id + '.txt' in os.listdir(paperdir):
+                paper_available = True
+                paper_url = open(paperdir + '/' + bib_id + '.txt').readlines()[0].strip()
+            elif bib_id + '.pdf' in os.listdir(paperdir):
+                paper_available = True
+                paper_url = '/files/papers/{id}.pdf'.format(id=bib_id)
+            else:
+                print("WARNING: no paper pdf available for", bib_id)
+
+            slides_available = False
+            slides_url = ""
+            slidesdir = parentdir + '/files/slides'
+            if bib_id + '.txt' in os.listdir(slidesdir):
+                slides_available = True
+                slides_url = open(slidesdir + '/' + bib_id + '.txt').readlines()[0].strip()
+            elif bib_id + '.pdf' in os.listdir(slidesdir):
+                slides_available = True
+                slides_url = 'https://github.com/latower/latower.github.io/files/slides/{id}.pdf'.format(id=bib_id)
+            else:
+                print("WARNING: no slides pdf available for", bib_id)
+
+            video_available = False
+            video_url = ""
+            videodir = parentdir + '/files/video'
+            if bib_id + '.txt' in os.listdir(videodir):
+                video_available = True
+                video_url = open(videodir + '/' + bib_id + '.txt').readlines()[0].strip()
+
+            poster_available = False
+            poster_url = ""
+            posterdir = parentdir + '/files/posters'
+            if bib_id + '.txt' in os.listdir(posterdir):
+                poster_available = True
+                poster_url = open(posterdir + '/' + bib_id + '.txt').readlines()[0].strip()
+            elif bib_id + '.pdf' in os.listdir(posterdir):
+                poster_available = True
+                poster_url = 'https://github.com/latower/latower.github.io/files/posters/{id}.pdf'.format(id=bib_id)
+
+            code_available = False
+            code_url = ""
+            codedir = parentdir + '/files/code'
+            if bib_id + '.txt' in os.listdir(codedir):
+                code_available = True
+                code_url = open(codedir + '/' + bib_id + '.txt').readlines()[0].strip()
+
+            # Create links for these materials
+            available_material = []
+            if paper_available:
+                available_material.append(('pdf', paper_url))
+            if slides_available:
+                available_material.append(('slides', slides_url))
+            if poster_available:
+                available_material.append(('poster', poster_url))
+            if video_available:
+                available_material.append(('video', video_url))
+            if code_available:
+                available_material.append(('code', code_url))
+            available_material.append(('bib', 'https://github.com/latower/latower.github.io/files/bib/{id}.bib'.format(id=bib_id)))
+            links = "\nlinks: "
+            links += ", ".join(["<a href=\"" + text_url + "\" target=\"_blank\">" + text + "</a>" for (text, text_url) in available_material])
+            links += ""
+            # links = "\nlinks: \["
+            # links += ", ".join(["[" + text + "](" + text_url + "){:target=\"_blank\"}" for (text, text_url) in available_material])
+            # links += "\]"
+
+            md += links
+
+            # links = html_escape(links)
+            # publist[pubsource][links] = links
+            # md += "\ncitation: '" + html_escape(citation) + "'"
 
             md += "\n---"
 
@@ -144,15 +237,18 @@ for pubsource in publist:
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
-            else:
-                md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+            # if url:
+            #     md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n"
+            # else:
+            #     md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+
+
 
             md_filename = os.path.basename(md_filename)
 
             with open("../_publications/" + md_filename, 'w') as f:
                 f.write(md)
+                # f.write(links)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference
         except KeyError as e:
