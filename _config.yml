@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : Luis_PalominoN
 facebook:
   username               : Luis.Palomino.Navarro
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luis Palomino"
   avatar           : "profile.png"
-  bio              : "<center> Consultant <br> Teaching Assistant </center>"
+  bio              : "Consultant <br> Teaching Assistant"
   location         : 
   employer         :
   pubmed           : 
