@@ -21,7 +21,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 **Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
 Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, **Dian Wang**, Noah Torname, Sam Laderoute, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
 Paladyn 2021  
-[(PDF)](https://drive.google.com/file/d/1VKOr6LbtzCWvBEv7WtlwlvaMaNplIS2E/view)
+[(PDF)](https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html)
 
 ![](images/aamas21.png){: .align-right width="200px"}
 **Action Priors for Large Action Spaces in Robotics**  
