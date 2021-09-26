@@ -1,7 +1,7 @@
 ---
 title: "Evolución del PIB departamental y análisis de la desigualdad regional en el Perú: 1795-2017"
 collection: publications
-permalink: /publications
+permalink: /publications/
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
