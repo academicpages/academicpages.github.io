@@ -35,7 +35,7 @@ Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
 WiML Un-Workshop @ ICML 2021 | [poster]()
 
 **Multi-Agent Active Search and Rescue**\
-Ramina Ghods, Arundhati Banerjee, William Durkin and Jeff Schneider\
+Ramina Ghods, Arundhati Banerjee, William Durkin and Jeff Schneider\
 3rd Robot Learning Workshop : Grounding Machine Learning Development in the Real World @ NeurIPS 2020 | [poster]()
 
 Teaching
