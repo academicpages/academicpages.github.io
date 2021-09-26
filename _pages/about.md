@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi!" #"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+ I am a third year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu) at Carnegie Mellon University, advised by [Prof. Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests broadly include reinforcement learning and bayesian optimization. My current research involves developing active decision making algorithms in multi-agent systems for robotics search and tracking applications under realistic sensing, communication and resource considerations while modeling motion and detection uncertainty. 
+
+Previously, I graduated from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in) with a combined Bachelors (Hons.) and Masters Dual Degree in Computer Science and Engineering. I was advised by [Prof. Pabitra Mitra](https://cse.iitkgp.ac.in/~pabitra/) for my undergraduate thesis.
+
+Publications and Manuscripts
+====
+
+**Cost Aware Asynchronous Multi-Agent Active Search**
+Arundhati Banerjee, Ramina Ghods, Jeff Schneider
+In Submission, 2021.
+
+**Decentralized Multi-Agent Active Search for Sparse Signals**
+Ramina Ghods, Arundhati Banerjee, Jeff Schneider
+UAI 2021. [arxiv](https://arxiv.org/abs/2006.14718)
+
+**DeepTagRec: A Content-cum-User Based Tag Recommendation Framework for Stack Overflow**
+Suman Kalyan Maity, Abhishek Panigrahi, Sayan Ghosh, Arundhati Banerjee, Pawan Goyal, Animesh Mukherjee
+ECIR 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_16)
+
+Workshop presentations
+====
+**Cost Aware Asynchronous Multi-Agent Active Search**
+Arundhati Banerjee, Ramina Ghods, Jeff Schneider
+WiML Un-Workshop @ ICML 2021 | [poster]()
+
+**Multi-Agent Active Search and Rescue**
+Ramina Ghods, Arundhati Banerjee, William Durkin and Jeff Schneider
+3rd Robot Learning Workshop : Grounding Machine Learning Development in the Real World @ NeurIPS 2020 | [poster]()
+
+Teaching
+====
+
+**Introduction to Machine Learning (10-701)**
+Teaching Assistant
+Carnegie Mellon University, Spring 2021
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +83,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
