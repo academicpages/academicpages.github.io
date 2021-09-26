@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arundhati Banerjee" #"Your Sidebar Name"
-  avatar           : "IMG_0689.jpg"
+  avatar           : "site-logo.png"
   bio              : "PhD student @ CMU" #"Your biography for the left-hand sidebar"
   location         : "Pittsburgh, USA" #"Location"
   employer         :
