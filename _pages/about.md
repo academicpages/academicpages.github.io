@@ -17,7 +17,7 @@ Publications and Manuscripts
 
 **Cost Aware Asynchronous Multi-Agent Active Search**\
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
-In Submission, 2021.
+*In Submission*, 2021.
 
 **Decentralized Multi-Agent Active Search for Sparse Signals**\
 Ramina Ghods, Arundhati Banerjee, Jeff Schneider\
