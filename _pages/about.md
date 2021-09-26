@@ -16,11 +16,12 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 <br><br>
 
 # Publication
-![](images/corl21.png){: .align-right width="200px" height="130px"}
+![](images/corl21.png){: .align-right width="200px"}
 **Equivariant Q Learning in Spatial Action Spaces**  
 **Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
 CoRL 2021, London, UK  
 [(Paper)](https://openreview.net/forum?id=IScz42A3iCI)
+
 
 ![](images/Paladyn21.png){: .align-right width="200px"}
 **Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
