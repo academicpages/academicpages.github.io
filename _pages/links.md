@@ -7,4 +7,11 @@ author_profile: true
 
 
 - <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [Email](mailto:{{ sean.kavanagh.19@ucl.ac.uk }})
-
+- <i class="fas fa-fw fa-googlescholar" aria-hidden="true"></i> [Google Scholar](https://bit.ly/3pBMxOG)
+- <i class="fas fa-fw fa-twitter" aria-hidden="true"></i> [Twitter](https://twitter.com/Kavanagh_Sean_)
+- <i class="fas fa-fw fa-researchgate" aria-hidden="true"></i> [ResearchGate](https://www.researchgate.net/profile/Sean-Kavanagh-3)
+- <i class="fas fa-fw fa-github" aria-hidden="true"></i> [GitHub](https://github.com/kavanase)
+- <i class="fas fa-fw fa-youtube" aria-hidden="true"></i> [YouTube](https://bit.ly/2U5YgLf)
+- <i class="fas fa-fw fa-linkedin" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/seankav/)
+- <i class="fas fa-fw fa-orcid" aria-hidden="true"></i> [ORCID](https://orcid.org/0000-0003-4577-9647)
+- <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [SpeakerDeck (Slides)](http://speakerdeck.com/kavanase)
