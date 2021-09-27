@@ -17,6 +17,11 @@ author_profile: true
 
 # Publications
 
+### *Asking It All: Generating Contextualized Questions for any Semantic Role*
+<ins>Valentina Pyatkin</ins>\*, Paul Roit\*, Julian Michael, Reut Tsarfaty, Yoav Goldberg, Ido Dagan.
+In EMNLP 2021.  
+[ArXiv](http://arxiv.org/abs/2106.08037)
+
 ### *The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing*
 <ins>Valentina Pyatkin</ins>\*, Shoval Sadde\*, Aynat Rubinstein, Paul Portner, Reut Tsarfaty.  
 In ACL 2021.  
