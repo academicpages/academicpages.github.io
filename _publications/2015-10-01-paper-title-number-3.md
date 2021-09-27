@@ -1,5 +1,5 @@
 ---
-title: "Evolución del PIB departamental y análisis de la desigualdad regional en el Perú: 1795-2017"
+title: Evolución del PIB departamental y análisis de la desigualdad regional en el Perú: 1795-2017
 collection: publications
 permalink: 'http://dx.doi.org/10.18235/0002004'
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
