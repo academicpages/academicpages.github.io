@@ -19,4 +19,7 @@ main:
     url: /markdown/
     
   - title: "Links"
-    url: /links/
+    url: /_pages/links.md
+    
+  - title: "Links1"
+    url: /_pages/links1.html
