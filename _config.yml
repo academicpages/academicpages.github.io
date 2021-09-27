@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Luis_PalominoN
+  username               : &twitter
 facebook:
-  username               : Luis.Palomino.Navarro
+  username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Luis Palomino"
   avatar           : "profile.png"
-  bio              : "Economics Consultant <br> Teaching Assistant"
-  location         : 
+  bio              : "Consultant <br> Teaching Assistant"
+  location         : "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.pe/citations?hl=es&user=IvHzv5MAAAAJ"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "palominol"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Luis_PalominoN"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  research:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _research
+  # _talks
   - scope:
       path: ""
-      type: research
+      type: talks
     values:
       layout: talk
       author_profile: true
