@@ -116,8 +116,8 @@ for pubsource in publist:
             #citation authors - todo - add highlighting for primary author?
             authors = ""
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
-                authors = authors+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                citation = citation+" "+author.first_names[0]+" "+author.last_names[0].replace('{', '').replace('}', '')+", "
+                authors = authors+" "+author.first_names[0]+" "+author.last_names[0].replace('{', '').replace('}', '')+", "
             authors = authors[:-1]
 
             #citation title
