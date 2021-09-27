@@ -21,7 +21,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 <br />
 *Moderator:* Elizabeth Meehan (GWU).
 
-**October 11: Eliza Oak (Yale), "*Evidence as Argument: Global Field Experiments Encouraging NGOs to Update.*"**
+**October 11: James Sundquist (Yale), "*Institutional Eclipse: How Chinese Loans Substitute for IMF Assistance.*"**
 <br />
 *Moderator:* Zoe Ge (NYU).
 
