@@ -13,4 +13,3 @@ Welcome to my personal website! You can find my academic CV [here](/files/Sean_K
 ## To-Do:
 - Finish about page (this)
 - Teaching (link to YT and SD as well)
-- Talks (link to YT and SD as well)
