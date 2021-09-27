@@ -6,9 +6,5 @@ excerpt: ''
 date: 2019-11-01
 venue: 'Inter-American Development Bank'
 paperurl: 'http://dx.doi.org/10.18235/0002004'
-citation: 'Seminario, Bruno, María Alejandra Zegarra, and Luis Palomino. Estimación del PIB Departamental y Análisis de la Desigualdad Regional en el Perú: 1795-2017. No. IDB-WP-1016. IDB Working Paper Series, 2019.'
+citation: 'Seminario, B., Zegarra, M. A., & Palomino, L. &quot;Estimación del PIB Departamental y Análisis de la Desigualdad Regional en el Perú: 1795-2017.&quot; <i>Inter-American Development Bank</i>, Working Paper 1184.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
