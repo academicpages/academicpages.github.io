@@ -14,4 +14,4 @@ author_profile: true
 - <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> [YouTube](https://bit.ly/2U5YgLf)
 - <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/seankav/)
 - <i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i> [ORCID](https://orcid.org/0000-0003-4577-9647)
-- <i class="fab fa-speaker-deck"></i> [SpeakerDeck (Slides)](http://speakerdeck.com/kavanase)
+- <i class="fab fa-slideshare"></i>[SpeakerDeck (Slides)](http://speakerdeck.com/kavanase)
