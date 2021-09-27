@@ -16,7 +16,7 @@ main:
     url: https://kavanase.github.io/files/Sean_Kavanagh_Academic_CV.pdf
     
   - title: "Links"
-    url: /_pages/links.md
+    url: /links/
     
   - title: "Links1"
     url: /_pages/links1.html
