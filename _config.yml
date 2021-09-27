@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: research
+      layout: talk
       author_profile: true
       share: true
 
