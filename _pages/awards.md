@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Service"
+permalink: /service/
+author_profile: true
+---
+
 - eMRS Graduate Student Award 2021, for outstanding research performance in the field of earth-abundant next-generation solar cell materials.
 - Shortlisted for the International Conference on Defects in Semiconductors (ICDS) 2021 [Corbett Prize](https://en.wikipedia.org/wiki/International_Conference_on_Defects_in_Semiconductors#Corbett_Prize) (typically awarded to Associate Professors).
 - Max Planck Travel Award for a research stay with Prof. Christoph Freysoldt at MPIE, Germany.
