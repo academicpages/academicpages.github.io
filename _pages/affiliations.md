@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## <a href="https://www.ucm.es/tgis/">Transport, Infrastructure and Territory research group (t-GIS) (Ref-940077)</a>
+Profesor Ayudante Doctor  
+Departmento de Geografía  
+Universidad Complutense de Madrid
+Madrid (España)  
+2021 - Actualidad  
+
+
+## <a href="https://www.ucm.es/tgis/">Transport, Infrastructure and Territory research group (t-GIS) (Ref-940077)</a>
 Investigador Posdoctoral - Juan de la Cierva Formación  
 Departmento de Geografía  
 Universidad Complutense de Madrid
