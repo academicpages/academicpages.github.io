@@ -4,7 +4,7 @@ collection: publications
 permalink: 'http://dx.doi.org/10.18235/0002004'
 excerpt: ''
 date: 2019-11-01
-venue: ''
+venue: 'Inter-American Development Bank'
 paperurl: 'http://dx.doi.org/10.18235/0002004'
 citation: 'Seminario, Bruno, María Alejandra Zegarra, and Luis Palomino. Estimación del PIB Departamental y Análisis de la Desigualdad Regional en el Perú: 1795-2017. No. IDB-WP-1016. IDB Working Paper Series, 2019.'
 ---
