@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [Email](mailto:{{ sean.kavanagh.19@ucl.ac.uk }})
+- <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [Email](mailto:sean.kavanagh.19@ucl.ac.uk)
 - <i class="fab fa-fw fa-googlescholar" aria-hidden="true"></i> [Google Scholar](https://bit.ly/3pBMxOG)
 - <i class="fab fa-fw fa-twitter" aria-hidden="true"></i> [Twitter](https://twitter.com/Kavanagh_Sean_)
 - <i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> [ResearchGate](https://www.researchgate.net/profile/Sean-Kavanagh-3)
