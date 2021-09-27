@@ -13,10 +13,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://kavanase.github.io/files/Sean_Kavanagh_Academic_CV.pdf
     
   - title: "Links"
     url: /_pages/links.md
