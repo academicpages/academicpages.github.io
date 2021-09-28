@@ -10,7 +10,7 @@ author_profile: false
 | date | time | speaker | title | zoom link |
 | -- | -- | ---- | -------- | ----- |
 | Th, Sep 30, 2021 | 1:30pm - 2:30pm |  |  |  |
-| Th, Oct 7, 2021 | 1:30pm - 2:30pm | Russell Avdek |  |  |
+| Th, Oct 7, 2021 | 1:30pm - 2:30pm | Russell Avdek |An algebraic generalization of Giroux's criterion|  |
 | Th, Oct 14, 2021 | 1:30pm - 2:30pm |  |  |  | |
 | Th, Oct 21, 2021 | 1:30pm - 2:30pm | Ke Zhu |Thick-thin Decomposition of Floer Trajectories and Adiabatic Gluing|  |
 | Th, Oct 28, 2021 | 1:30pm - 2:30pm |  |  |  |
@@ -23,5 +23,5 @@ author_profile: false
 | Th, Dec 16, 2021 | 1:30pm - 2:30pm |  |  |  |
 
 ## Abstracts
-* speaker 1
-  * abstract 1
+* Russell Avdek
+  * Let S be a convex hypersurface with neighborhood N(S) inside of some contact manifold M. When dim(M)=3, Giroux's criterion provides a user-friendly way of determining exactly when N(S) is tight in terms of simple closed curves in S. It appears very difficult to state a generalization to the case dim(M)>3 in terms of topological data. Instead, we'll describe an exact criterion for "algebraic tightness" which is applicable in all dimensions using holomorphic curves. The proof of our result combines obstruction bundle gluing and Kuranishi techniques.
