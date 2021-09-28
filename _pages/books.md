@@ -19,7 +19,7 @@ author_profile: true
   </li>
   <li>
     <a style="text-decoration:none" 
-       href="https://observablehq.com/@patel-zeel/roulette">Can you create a strategy to make profit in long run in Roulette?
+       href="https://observablehq.com/@patel-zeel/roulette">Can you create a strategy to make profit in a long run in Roulette?
     </a>
   </li>
 </ul>
