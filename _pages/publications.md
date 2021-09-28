@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Pseudo-Spherical Contrastive Divergence](http://lantaoyu.com/publications/PSCD)</b> <br> 
+<b>Lantao Yu</b>, Jiaming Song, Yang Song, Stefano Ermon.
+<i>The 35th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2021</b>.
+
 <b>[Multi-Agent Imitation Learning with Copulas](http://lantaoyu.com/publications/ECML21)</b> <br>
 Hongwei	Wang<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Zhangjie Cao, Stefano Ermon.
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.
