@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raphael Pellegrin"
+title                    : "Raphael Pellegrin / Site Title"
 title_separator          : "-"
 name                     : &name "Raphael Pellegrin"
 description              : &description "Computational Science & Engineering Master student"
@@ -85,7 +85,7 @@ author:
   bio              : "Computational Science and Engineering at Harvard"
   location         : "Cambridge, MA, USA"
   employer         :
-  pubmed           : "
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            :  raphaelpellegrin [AT] g [DOT] harvard [DOT] edu
   researchgate     :  
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RaphaelPellegrin"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/raphaelpierrepellegrin/"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Raph_Pellegrin"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
