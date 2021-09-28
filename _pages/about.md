@@ -17,6 +17,7 @@ For more information, please refer to my [CV](https://ChenTangMark.github.io/fil
 
 News 
 ======
+- 09/2021: One paper is accepted by NeurIPS 2021. 
 - 09/2021: [One paper](https://openreview.net/forum?id=ftOqDUeLPn3) is accepted by CoRL 2021.
 - 05/2021: Associate editor of IEEE Intelligent Transportation Systems Conference 2021.
 - 05/2021: Co-organizing [IROS MAIR2 Workshop on Multi-Agent Interaction and Relational Reasoning](https://iros.mair2.com)
