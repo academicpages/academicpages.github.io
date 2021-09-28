@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 ## Working Papers
-1. **C. Tang**, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," submitted to *Conference on Neural Information Processing Systems (NeurIPS)*, 2021
 1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," submitted to *IEEE Transactions on Robotics (T-RO)*, 2021 
 1. J. Chen, **C. Tang**, W. Zhan, and M. Tomizuka, “Interaction-and-uncertainty-aware joint decision making and trajectory planning for urban on-road autonomous driving,” *in preparation for journal submission*
 
@@ -16,6 +15,7 @@ author_profile: true
 1. X. Liu, **C. Tang**, X. Du, S. Xiong, S. Xi, Y. Liu, X. Shen, Q. Zheng, Z. Wang, Y. Wu, et al., “A Highly Sensitive Graphene Woven Fabric Strain Sensor for Wearable Wireless Musical Instruments,” *Materials Horizons*, vol. 4, no. 3, pp. 477–486, 2017
 
 ## Conference Proceedings
+1. **C. Tang**, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," Conference on Neural Information Processing Systems (NeurIPS), 2021
 1. J. Li, **C. Tang**, M. Tomizuka and W. Zhan, "Dealing with the unkonw: Pessimistic Offline Reinforcement Learning," 5th Annual Conference on Robot Learning (CoRL), 2021
 1. J. M. Salt Ducaju, **C. Tang**, M. Tomizuka and C. -Y. Chan, "Application Specific System Identification for Model-Based Control in Self-Driving Cars," *2020 IEEE Intelligent Vehicles Symposium (IV)*, pp. 384-390, 2020
 1. **C. Tang**, J. Chen and M. Tomizuka, "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network," *2019 International Conference on Robotics and Automation (ICRA)*, pp. 3846-3852, 2019
