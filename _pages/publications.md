@@ -10,7 +10,7 @@ author_profile: true
 
 + Tian, K., Perotte, A., **Sun, Y.**, Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceMap: A Multi-Level Representation for Medical Evidence Extraction and Synthesis". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
 
-+ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. 
++ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
 
 + **Sun, Y.**, Butler, A., Diallo1, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "A Framework for Systematic Assessment of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Applied Clinical Informatics Journal_** , 2021. [pdf](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0041-1733846)
 
@@ -44,7 +44,7 @@ author_profile: true
     
 + **Sun, Y.**, Loparo, K. and Kolacinski, R., "Conversational structure aware and context sensitive topic model for online discussions". In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 85-92). IEEE, 2020, February. <span style="color:red">(Best Paper Candidiate)</span>
     
-+ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. [pdf]() [video](https://www.ohdsi.org/2020-global-symposium-showcase-70/)
++ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. [video](https://www.ohdsi.org/2020-global-symposium-showcase-70/)
        
 + **Sun, Y.** and Loparo, K., "Opinion Spam Detection Based on Heterogeneous Information Network". In **_IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)_** (pp. 1156-1163). IEEE. 2019, November. 
 
