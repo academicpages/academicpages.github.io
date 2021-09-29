@@ -13,9 +13,9 @@ One project focuses on partisanship and polarization in Corporate America using 
 
 The second project uses population mobility data from Facebook and SafeGraph with voter records to track multiplex segregation in the U.S.
 
-The third project focuses on polarization on social media by monitoring and detecting anti-AAPI hate speech and incident using over 30 million Tweets. 
+The third project focuses on polarization on social media by monitoring and detecting anti-AAPI hate speech and incident using billions of Tweets. 
 
 
 ## ZLab Hiring
 
-Zlab is hiring two grad-level research assistants focusing on computational social science.
+Zlab is hiring grad or undergrad research assistants focusing on computational social science. You can [click here to join us](https://docs.google.com/forms/d/e/1FAIpQLSdcAjGlDqmyHAAqn4bh2UzsUi9zHOE3xZhO-5eKtItJl7ldSA/viewform?usp=sf_link).
