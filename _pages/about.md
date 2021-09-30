@@ -17,6 +17,9 @@ the computational and statistical efficiency of learning methods, and the extent
 **Contact**: (username id) akk002 at ucsd dot edu
 
 # Recent News
+
+* Our paper on **Teaching via Best-Case Counterexamples
+in the Learning-with-Equivalence-Queries Paradigm** is accepted at NeurIPS (2021)! :D 
 * Attended **ICML'21** and **COLT'21** conferences organized virtually.
 * Our paper on **The Teaching Dimension of Kernel Perceptrons** is accepted at AISTATS (2021)! :D 
 * Attended **NeurIPS'20** conference.
@@ -26,7 +29,7 @@ the computational and statistical efficiency of learning methods, and the extent
 1. <b> Teaching via Best-Case Counterexamples
 in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 **Akash Kumar**, [Yuxin Chen](https://yuxinchen.org/), [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).<br>
-<i> To appear in The 35th Conference on Neural Information Processing Systems (NeurIPS'21), 2021
+<i> Accepted in The 35th Conference on Neural Information Processing Systems (NeurIPS'21), 2021
 </i> <br> [[Link](https://drive.google.com/file/d/1Tr6EFvBkMajWYaZtYItw3P3cnV9BwGM6/view?usp=sharing)]<br>
 
 2. <b> The Teaching Dimension of Kernel Perceptrons </b> <br>
