@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pablo Garriga"
   avatar           : "Garriga-Pablo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD candidate"
   location         : "Providence, RI"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pablogarriga"
+  github           : # "pablogarriga"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "pgarriga"
+  twitter          : # "pgarriga"
   vine             :
   weibo            :
   xing             :
