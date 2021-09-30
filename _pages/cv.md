@@ -46,17 +46,9 @@ Work experience
 Projects
 ======
 * <a href="https://github.com/hmmartiny/Predicting-Gene-Expression" target="_blank">Deep protein representations enable recombinant protein expression</a> (2019-2021): Originally my Master thesis project, where the goal was to predict recombinant gene expression using deep learning methods. After I finished in 2019, we wrote the findings into a <a href="https://www.biorxiv.org/content/10.1101/2021.05.13.443426v1.full#fn-1" target="_blank">paper that is currently out on bioRxiv</a>.
-* <a href="https://github.com/mari756h/The_unemployed_cells" targeT="_blank">The Language of Life</a> (2018-2019): applying deep learning methods to predict amino acids in protein sequences.
-  * Project originally started as part of the course 02456 Deep Learning at DTU
-  * Applied Word2Vec and CNNs to protein sequence data
-  * Supervisors: <a href="https://www.linkedin.com/in/jj-almagro-armenteros/" targeT="_blank">Jose Juan Almagro Armenteros</a> and <a href="https://www.linkedin.com/in/alexrosejo" targeT="_blank">Alexander Rosenberg Johansen</a>
-* <a href="http://2018.igem.org/Team:DTU-Denmark">iGEM 2018: Hyphae Hackers, DTU Biobuilders.</a>
-  * Participiated in 2018 as part of the team at Technical University of Denmark
-  * Project investigated how we can use mycelium from fungi as building materials
-    * My work can be seen in the <a href="http://2018.igem.org/Team:DTU-Denmark/GrowthModelling" targeT="_blank">modelling of hyphal growth</a>, and was part of the design team for the webpage.
-* <a href="https://github.com/hmmartiny/Microbesoft" targeT="_blank">Microbesoft</a> (2018): a command-line tool to visualize alignment files.
-  * Project built as part of participiating in Copenhacks 2018, a hackathon held in Copenhagen for students.
-  * Won 2nd place
+* <a href="https://github.com/mari756h/The_unemployed_cells" targeT="_blank">The Language of Life</a> (2018-2019): applying deep learning methods to predict amino acids in protein sequences. Project originally started as part of the course <a href="https://kurser.dtu.dk/course/02456" target="_blank">02456 Deep Learning</a> at DTU. Applied Word2Vec and CNNs to protein sequence data.
+* <a href="http://2018.igem.org/Team:DTU-Denmark">iGEM 2018: Hyphae Hackers, DTU Biobuilders.</a> Participiated in 2018 as part of the team at Technical University of Denmark. The project investigated how we can use mycelium from fungi as building materials, where I personally worked on <a href="http://2018.igem.org/Team:DTU-Denmark/GrowthModelling" targeT="_blank">modelling of hyphal growth</a>, and was part of the design team for the webpage.
+* <a href="https://github.com/hmmartiny/Microbesoft" targeT="_blank">Microbesoft</a> (2018): a command-line tool to visualize alignment files. The project built as part of participiating in Copenhacks 2018, a hackathon held in Copenhagen for students, where our team won 2nd place.
   
   <!-- * Duties included:
     * Data cleaning and visualizations
