@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pablo Garriga"
   avatar           : "Garriga-Pablo.jpg"
-  bio              : "PhD candidate,\nBrown University"
+  bio              : "PhD candidate"
   location         : # "Providence, RI"
-  employer         :
+  employer         : "Brown University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
