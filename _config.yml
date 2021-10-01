@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taylor Grimm / Site Title"
+title                    : "Taylor Grimm"
 title_separator          : "-"
 name                     : &name "Taylor Grimm"
 description              : &description "Statistics PhD Student"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taylor Grimm"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Statistics PhD Student"
   location         : "Waco, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
