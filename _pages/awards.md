@@ -5,7 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-- eMRS Graduate Student Award 2021, for outstanding research performance in the field of earth-abundant next-generation solar cell materials.
+- eMRS Graduate Student Award 2021, Symposium F: "Earth-abundant next generation materials for solar energy” in recognition of outstanding research performance (Paper: '_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3_').
+- eMRS Graduate Student Award 2021, Symposium A: “Materials for energy applications” in recognition of outstanding research performance (Paper: '_Rapid Recombination by Cadmium Vacancies in CdTe_').
 - Shortlisted for the International Conference on Defects in Semiconductors (ICDS) 2021 [Corbett Prize](https://en.wikipedia.org/wiki/International_Conference_on_Defects_in_Semiconductors#Corbett_Prize) (typically awarded to Associate Professors).
 - Max Planck Travel Award for a research stay with Prof. Christoph Freysoldt at MPIE, Germany.
 - École Polytechnique Fédérale Lausanne (EPFL) SeeFuturePV Young Scientist Travel Grant 2021.
