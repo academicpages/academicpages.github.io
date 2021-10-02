@@ -8,10 +8,9 @@ date: ''
 location: "Lima, Peru"
 ---
 
-* International Macroeconomics - <i>Professor: Marco Ortiz</i> (2020-I, 2020-II, 2021-I, 2021-II)
-* Advanced Macroeconomics - <i>Professor: Marco Ortiz</i> (2018-II, 2019-I, 2019-II, 2020-I)
-* Economic Growth - <i>Professor: Marco Ortiz</i> (2019-I, 2019-II)
-* Introductory Macroeconomics - <i>Professor: Jorge Marcelo Franco</i> (2018-II)
+Advanced Macroeconomics - <i>Professor: Juan Mendoza</i> (2016-I, 2017-I)
+International Monetary Theory - <i>Professor: Juan Mendoza</i>  (2016-II)
+Advanced Microeconomics - <i>Professor: Derry Quintana</i> (2016-II)
 
 <i>Foco Económico</i>
 
