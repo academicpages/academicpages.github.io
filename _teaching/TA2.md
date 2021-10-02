@@ -1,10 +1,10 @@
 ---
-title: "Universidad Nacional Mayor de San Marcos"
+title: "Universidad del Pacífico"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Undergraduate"
+permalink: 'http://www.up.edu.pe/carreras-postgrado-idiomas/departamentos-academicos/economia'
+venue: "Faculty of Economic Sciences"
+date: 2018-08-01
 location: "Lima, Peru"
 ---
 

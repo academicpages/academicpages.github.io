@@ -1,10 +1,10 @@
 ---
-title: "Universidad del Pacífico"
+title: "Universidad Nacional Mayor de San Marcos"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Undergraduate"
+permalink: 'https://economia.unmsm.edu.pe/facul/Historia.htm'
+venue: "Department of Economics"
+date: 2016-03-01
 location: "Lima, Peru"
 ---
 
