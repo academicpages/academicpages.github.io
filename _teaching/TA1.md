@@ -3,7 +3,7 @@ title: "Universidad Nacional Mayor de San Marcos"
 collection: teaching
 type: "Undergraduate"
 permalink: 'https://economia.unmsm.edu.pe/facul/Historia.htm'
-venue: "Department of Economics"
+venue: "Faculty of Economic Sciences"
 date: 2016-03-01
 location: "Lima, Peru"
 ---

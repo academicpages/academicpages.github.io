@@ -3,7 +3,7 @@ title: "Universidad del Pacífico"
 collection: teaching
 type: "Undergraduate"
 permalink: 'http://www.up.edu.pe/carreras-postgrado-idiomas/departamentos-academicos/economia'
-venue: "Faculty of Economic Sciences"
+venue: "Department of Economics"
 date: 2018-08-01
 location: "Lima, Peru"
 ---
