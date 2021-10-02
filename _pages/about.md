@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2021 - Paper accepted to NeurIPS 2021! "Search Methods for Sufficient, Socially-Aligned Feature Importance Explanations with In-Distribution Counterfactuals" [[pdf]](https://arxiv.org/abs/2106.00786) [[code]](https://github.com/peterbhase/ExplanationSearch)
 * 2021 - Awarded a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) for Natural Language Processing! 
 * 2021 - Invited talk at [CHAI](https://humancompatible.ai/), UC Berkeley, on [Evaluating Explainable AI](https://arxiv.org/abs/2005.01831)
 * 2021 - Paper accepted to EMNLP 2021: "FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging" [[pdf]](https://arxiv.org/abs/2012.15781) [[code]](https://github.com/salesforce/fast-influence-functions)
