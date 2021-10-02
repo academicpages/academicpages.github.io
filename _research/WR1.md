@@ -1,6 +1,6 @@
 ---
 title: "How can we promote the use of learning platforms? Results of a pilot study in Chile"
-excerpt: "With Elena Arias Ortiz & Julián Cristia <i>Inter-American Development Bank, Technical Note. Forthcoming</i> <b>(Original in Spanish)</b>"
+excerpt: "(With Elena Arias Ortiz & Julián Cristia), <i>Inter-American Development Bank, Technical Note. Forthcoming.</i> <b>(Original in Spanish)</b>"
 collection: research
 ---
 
