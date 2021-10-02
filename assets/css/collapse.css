@@ -10,7 +10,6 @@
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
-    position: fixed;
 }
 .container .content {
     display: none;
