@@ -4,8 +4,9 @@ collection: teaching
 type: "Undergraduate"
 permalink: 'https://economia.unmsm.edu.pe/facul/Historia.htm'
 venue: "Department of Economics"
-date: ''
+date: '2015-03-01'
 location: "Lima, Peru"
+excerpt: "Advanced Macroeconomics - <i>Professor: Juan Mendoza</i> (2016-I, 2017-I)"
 ---
 
 Advanced Macroeconomics - <i>Professor: Juan Mendoza</i> (2016-I, 2017-I)
