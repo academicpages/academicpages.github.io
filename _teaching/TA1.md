@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: 'https://economia.unmsm.edu.pe/facul/Historia.htm'
 venue: "Department of Economics"
-date: 2016-03-01
+date: ''
 location: "Lima, Peru"
 ---
 
