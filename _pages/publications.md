@@ -17,11 +17,11 @@ author_profile: true
 ## Accepted Paper List
 - **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, *Pattern Recognition*, accepted, 2021.
 - **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, D. Luo and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, accepted, 2021.
-- C. Ma, **Qisen Xu**, **Xiangfeng Wang**, **Bo Jin**, X. Zhang, Y. Wang and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. *IEEE Transactions on Medical Imaging*, accepted, 2021.
 - **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2020.
 
 ## 2021
-- **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, 51(9), 2021, pp.4540 - 4552.
+- C. Ma, **Qisen Xu**, **Xiangfeng Wang**, **Bo Jin**, X. Zhang, Y. Wang and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. *IEEE Transactions on Medical Imaging*, 40(10), 2021, pp.2563-2574.
+- **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, 51(9), 2021, pp.4540-4552.
 - Y. Song, T. Liu, T. Wei, **Xiangfeng Wang**, Z. Tao and M. Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. *IEEE Transactions on Industrial Informatics*, 17(11), 2021, pp.7830-7838.
 - B. Wang, **Tingyu Wu**, **Wenhao Li**, **Da Huang**, **Bo Jin**, F. Yang, A. Zhou and **Xiangfeng Wang**, Large-scale UAVs Confrontation via Multi-agent Reinforcement Learning. *Journal of System Simulation*, 33(8), 2021, pp.1-15. (Chinese version)
 - **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and H. Zha, Hyper-Meta Reinforcement Learning with Sparse Reward. *KDD*, 2021.
