@@ -4,13 +4,12 @@ collection: teaching
 type: "Undergraduate"
 permalink: 'https://economia.unmsm.edu.pe/facul/Historia.htm'
 venue: "Department of Economics"
-date: 2015-03-01
+date: 2016-03-01
 location: "Lima, Peru"
-excerpt: "Advanced Macroeconomics - <i>Professor: Juan Mendoza</i> (2016-I, 2017-I)"
 ---
 
-Advanced Macroeconomics - <i>Professor: Juan Mendoza</i> (2016-I, 2017-I)
-International Monetary Theory - <i>Professor: Juan Mendoza</i>  (2016-II)
+Advanced Macroeconomics - <i>Professor: Juan Mendoza</i> (2016-I, 2017-I) <br>
+International Monetary Theory - <i>Professor: Juan Mendoza</i>  (2016-II) <br>
 Advanced Microeconomics - <i>Professor: Derry Quintana</i> (2016-II)
 
 <i>Foco Económico</i>
