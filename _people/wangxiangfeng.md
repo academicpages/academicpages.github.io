@@ -20,15 +20,15 @@ permalink: /people/xfwang
 ---
 
 ### Academic Employment
-- 2014-2018, Assistant Professor, School of Computer Science and Technology, East China Normal University
 - 2018-now, Associate Professor, School of Computer Science and Technology, East China Normal University
+- 2014-2018, Assistant Professor, School of Computer Science and Technology, East China Normal University
 
 ---
 
 ### Research Area
 - Distributed Optimization and Applications
 - Multi-agent Reinforcement Learning
-- Trustworthy Machine Learning
+- Trustworthy Machine Learning: Fairness, Privacy, etc.
 
 ---
 
