@@ -24,15 +24,15 @@ permalink: /people/xfwang
 - Trustworthy Machine Learning
 ---
 ### Externally Funded Projects
-- Research on Advanced Machine Learning Method based on Structured Self-Adaptive and Self-Evolution, National Key Research and Development Program of China, 2021-2023.
-- Research on Machine Learning Algorithms for Distributed Optimization Problems, National Natural Science Foundations of China, 2021-2024.
-- Research on Trustworthy Machine Learning, Artificial Intelligence Project of STCSM, 2021-2022.
+- Research on Advanced Machine Learning Method based on Structured Self-Adaptive and Self-Evolution, National Key Research and Development Program of China, MOST, 2021-2023.
+- Research on Machine Learning Algorithms for Distributed Optimization Problems, National Natural Science Foundations of China, NSFC, 2021-2024.
+- Research on Trustworthy Machine Learning, Artificial Intelligence Project of Shanghai, STCSM, 2021-2022.
 - Virtual Scheduling Algorithm based on Reinforcement Learning, Huawei Project, 2020-2021.
 - Distributed Optimization-driven Multi-agent Collaborative Computing Theory and Method, ZhiJiang Project, 2020-2022.
-- Research on Structured Algorithm for Large-scale Optimization Problem in Machine Learning, Natural Science Foundation of Shanghai, 2019-2022.
-- Research on Structured First-order Algorithm for Large-scale Distributed Consensus Optimization Problem, National Natural Science Foundations of China, 2016-2018.
-- Research on Large-scale Distributed Stochastic Optimization Algorithm, Yangfan Project of Shanghai, 2015-2017.
-- MOST: Ministry of Science and Technology of the People's Republic of China; NSFC: Natural Science Foundations of China; STCSM: Science and Technology Commission of Shanghai Municipality
+- Research on Structured Algorithm for Large-scale Optimization Problem in Machine Learning, Natural Science Foundation of Shanghai, STCSM, 2019-2022.
+- Research on Structured First-order Algorithm for Large-scale Distributed Consensus Optimization Problem, National Natural Science Foundations of China, NSFC, 2016-2018.
+- Research on Large-scale Distributed Stochastic Optimization Algorithm, Yangfan Project of Shanghai, STCSM, 2015-2017.
+- **MOST**: Ministry of Science and Technology of the People's Republic of China; **NSFC**: Natural Science Foundations of China; **STCSM**: Science and Technology Commission of Shanghai Municipality
 ---
 ### Publications
 #### Book Chapter
