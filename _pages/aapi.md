@@ -69,6 +69,15 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="left"><img align="left" width="500" height="500" src="https://yongjunzhang.com/images/collins.jpeg"></p>
+</td>
+<td>
+<p align="left">Andy Collins is a doctoral student in the department of Sociology at Stony Brook University. He holds a BA in Sociology from Clark University (2016) and an MSc in Political Sociology from the London School of Economics and Political Science (2018). His research interests in include social networks, computational social science methodologies, and political sociology. Recently, he is working on vaccine hesitancy on social media.</p>
+</td>
+</tr>
+
 
 </table>
 
