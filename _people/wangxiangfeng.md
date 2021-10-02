@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+title: "wang xiang feng"
+collection: /people 
+permalink: /people/wangxiangfeng
 ---
 
 ## Manuscript
