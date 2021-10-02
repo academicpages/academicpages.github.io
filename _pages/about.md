@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Taylor Grimm and I am a first year PhD student in Statistics at Baylor University. I graduated in 2021 from Brigham Young University with my B.S. in Statistical Science and a minor in mathematics.
+My name is Taylor Grimm, and I am a first year PhD student in Statistics at Baylor University. I graduated in 2021 from Brigham Young University with my B.S. in Statistical Science and a minor in mathematics.
 
 While at BYU, I worked as an undergraduate research assistant for a year working on Bayesian models for estimating elemental profiles of pollution source profiles and their contributions at various locations.
 
@@ -20,7 +20,7 @@ Research Interests
 
 * Bayesian methods
 * Time series
-* Spatial stats
+* Spatial Statistics
 
 [comment]: <> (For more info)
 [comment]: <> (------)
