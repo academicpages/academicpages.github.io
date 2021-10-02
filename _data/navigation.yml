@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /research/    
+    url: /research/
+
+  - title: "Talks"
+    url: /talks/      
 
   - title: "Teaching"
     url: /teaching/    
