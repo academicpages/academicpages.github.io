@@ -9,48 +9,34 @@ permalink: /people/xfwang
 - School of Computer Science and Technology, East China Normal University
 - Shanghai Research Institute for Intelligent Autonomous Systems
 - Email: xfwang at cs.ecnu.edu.cn
-
 ### Education
-
 - Ph.D., Computational Mathematics/Optimization, Nanjing Univerisity, 2014 (Supervisor: Professor Bingsheng He)
 - Visiting Ph.D. student, Optimization, University of Minnesota, 2012-2013 (Supervisor: Professor Zhi-Quan Luo)
 - B.S., Mathematics, Nanjing University, 2009
-
 ---
-
 ### Academic Employment
-
 - 2014-2018, Assistant Professor, School of Computer Science and Technology, East China Normal University
 - 2018-now, Associate Professor, School of Computer Science and Technology, East China Normal University
-
 ---
-
 ### Research Area
-
 - Distributed Optimization and Applications
 - Multi-agent Reinforcement Learning
 - Trustworthy Machine Learning
-
 ---
-
 ### Externally Funded Projects
-
 - Research on Advanced Machine Learning Method based on Structured Self-Adaptive and Self-Evolution, National Key Research and Development Program of China, 2021-2023.
 - Research on Machine Learning Algorithms for Distributed Optimization Problems, National Natural Science Foundations of China, 2021-2024.
+- Research on Trustworthy Machine Learning, Artificial Intelligence Project of STCSM(Science and Technology Commission of Shanghai Municipality), 2021-2022.
 - Virtual Scheduling Algorithm based on Reinforcement Learning, Huawei Project, 2020-2021.
-- Distributed Optimization-driven Multi-agent Collaborative Computing Theory and Method, Zhijiang Project, 2020-2021.
+- Distributed Optimization-driven Multi-agent Collaborative Computing Theory and Method, ZhiJiang Project, 2020-2022.
 - Research on Structured Algorithm for Large-scale Optimization Problem in Machine Learning, Natural Science Foundation of Shanghai, 2019-2022.
 - Research on Structured First-order Algorithm for Large-scale Distributed Consensus Optimization Problem, National Natural Science Foundations of China, 2016-2018.
-
+- Research on Large-scale Distributed Stochastic Optimization Algorithm, Yangfan Project of Shanghai, 2015-2017.
 ---
-
 ### Publications
 #### Book Chapter
-
 1. X. Fu, B. He, **Xiangfeng Wang**, and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. Splitting Algorithms, Modern Operator Theory, and Applications, 2019.
-
 #### Journal 
-
 1. J. Sheng, Yiqiu Hu, W. Zhou, L. Zhu, Bo Jin, J. Wang, and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, Pattern Recognition, accepted, 2021.
 2. W. Li, **Xiangfeng Wang**, Bo Jin, D. Luo, and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space, IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2021.
 3. **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng, and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. Set-Valued and Variational Analysis, accepted, 2020.
@@ -74,9 +60,7 @@ permalink: /people/xfwang
 21. T.-H. Chang, M. Hong, and **Xiangfeng Wang**, Multi-Agent Distributed Large-Scale Optimization by Inexact Consensus ADMM. IEEE Transactions on Signal Processing, 63(2), 2015, pp.482-497.
 22. X. Luo, **Xiangfeng Wang**, Z. Suo, and Z. Li, Efficient InSAR Phase Noise Reduction via Total Variation Regularization. Science China (Information Sciences), 2015, 58(8), 1-13.
 23. **Xiangfeng Wang**, and X. Yuan, The Linearized Alternating Direction Method of Multipliers for Dantzig Selector. SIAM Journal of Scientific Computing, 34(5), 2012, pp.A2792-A2811.
-
 #### Conference
-
 1. Y. Hua, **Xiangfeng Wang**, B. Jin, W. Li, J. Yan, X. He, and H. Zha, Hyper-Meta Reinforcement Learning with Sparse Reward. KDD, 2021.
 2. Q. Xu, Q. Wu, Y. Hu, B. Jin, B. Hu, F. Zhu, Y. Li, and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. IJCNN, 2021.
 3. W. Li, **Xiangfeng Wang**, B. Jin, J. Sheng, Y. Hua, and H. Zha, Structured Diversification Emergence via Reinforced Organization Control and Hierarchical Consensus Learning. AAMAS, 2021.
@@ -95,20 +79,13 @@ permalink: /people/xfwang
 16. C. Li, F. Wei, W. Dong, **Xiangfeng Wang**, J. Yan, X. Zhu, Q. Liu, and X. Zhang, Spatially Regularized Streaming Sensor Selection. AAAI, 2016.
 17. **Xiangfeng Wang**, M. Hong, T.-H. Chang, M. Razaviyayn, and Z.-Q. Luo, Joint Day-Ahead Power Procurement and Load Scheduling using Stochastic ADMM. ICASSP, 2014.
 18. H.-W. Tseng, S. Vishnubhotla, M. Hong, **Xiangfeng Wang**, J. Xiao, Z.-Q. Luo, and T. Zhang, A Single Channel Speech Enhancement Approach by Combining Statistical Criterion and Multi-Frame Sparse Dictionary Learning. INTERSPEECH, 2013.
-
 ---
-
 ### Teaching
-
 - Multi-agent Reinforcement Learning
 - Optimization for Machine Learning
 - Linear Algebra
-
 ---
-
 ### Professional Membership and Services
-
 - Youth Director of Shanghai Operations Research Association
 - Youth Director of Shanghai Computer Science Association
-
 ---
