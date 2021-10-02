@@ -1,7 +1,7 @@
 ---
-title: "wang xiang feng"
+title: "Xiangfeng WANG"
 collection: people 
-permalink: /people/wangxiangfeng
+permalink: /people/xfwang
 ---
 
 ## Manuscript
