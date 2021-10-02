@@ -1,6 +1,6 @@
 ---
 title: "Estimation of GDP at the subnational level using satellite data of night lights: Peru 1993-2018"
-excerpt: "(With Bruno Seminario), <i>Universidad del Pacífico, Research Document</i>. Forthcoming. <b>(Original in Spanish)</b>"
+excerpt: "(With Bruno Seminario). <i>Universidad del Pacífico, Research Document</i>. Forthcoming. <b>(Original in Spanish)</b>"
 collection: research
 ---
 
