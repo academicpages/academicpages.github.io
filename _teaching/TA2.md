@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: 'http://www.up.edu.pe/carreras-postgrado-idiomas/departamentos-academicos/economia'
 venue: "Faculty of Economic Sciences"
-date: ''
+date: 2016-03-01
 location: "Lima, Peru"
 ---
 
