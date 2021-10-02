@@ -1,5 +1,5 @@
 ---
-title: "Medium-term trends in economic activity at the territorial level in Chile: An approximation through satellite data on luminosity, 1992-2019"
+title: "Medium-term trends in economic activity at the territorial level in Chile: An approximation through satellite data of night lights, 1992-2019"
 excerpt: "(With Gabriel Carvallo, Juan Ignacio Pérez & Bruno Seminario)."
 collection: research
 ---
