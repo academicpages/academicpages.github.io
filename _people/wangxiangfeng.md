@@ -1,6 +1,6 @@
 ---
 title: "wang xiang feng"
-collection: /people 
+collection: people 
 permalink: /people/wangxiangfeng
 ---
 
