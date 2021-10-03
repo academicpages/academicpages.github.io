@@ -5,7 +5,7 @@
       <square70x70logo src="/images/Website_Icon_70.png"/>
       <square150x150logo src="/images/Website_Icon_150.png"/>
       <square310x310logo src="/images/Website_Icon_310.png"/>
-      <wide310x150logo src="/images/mstile-310x150.png?v=M44lzPylqQ"/>
+      <wide310x150logo src="/images/mstile-310x150.png"/>
       <TileColor>#000000</TileColor>
     </tile>
   </msapplication>
