@@ -8,13 +8,10 @@ date: 2016-03-01
 location: "Lima, Peru"
 ---
 
-<b>Teaching Assistant</b>
-
+<b>Teaching Assistant</b> <br>
 Advanced Macroeconomics - <i>Professor: Juan Mendoza</i> (2016-I, 2017-I) <br>
 International Monetary Theory - <i>Professor: Juan Mendoza</i>  (2016-II) <br>
 Advanced Microeconomics - <i>Professor: Derry Quintana</i> (2016-II)
-
-<i>Foco Económico</i>
 
 Heading 1
 ======

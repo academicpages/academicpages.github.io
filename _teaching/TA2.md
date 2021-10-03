@@ -8,8 +8,7 @@ date: 2018-08-01
 location: "Lima, Peru"
 ---
 
-<b>Teaching Assistant</b>
-
+<b>Teaching Assistant</b> <br>
 International Macroeconomics - <i>Professor: Marco Ortiz</i> (2020-I, 2020-II, 2021-I, 2021-II) <br>
 Advanced Macroeconomics - <i>Professor: Marco Ortiz</i> (2018-II, 2019-I, 2019-II, 2020-I) <br>
 Economic Growth - <i>Professor: Marco Ortiz</i> (2019-I, 2019-II) <br>
