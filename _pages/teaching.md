@@ -10,13 +10,15 @@ author_profile: true
 
 ### Project Supervision
 As well as of course working with colleagues in both my research groups on several projects and lending my knowledge and expertise where possible, I am directly supervising a PhD student, and am co-supervising 5 other PhD research projects for novice students.
-I have supervised many Masters' (MSci and MSc) and summer student research projects, a large proportion of which have led to significant research outputs suitable for publication.
+I have supervised many Masters' (MSci and MSc) and summer student research projects, a large proportion of which have led to significant research outputs suitable for publication, as well as prizes and awards in recognition of research excellence.
+
 These include:
 - _Spontaneous symmetry breaking by point defects in crystalline hosts. How to identify them?_ <!-- Irea; MKWS -->
   - Mosquera-Lois, I.; Kavanagh, S. R. In Search of Hidden Defects. _**Matter**_ 2021, 4 (8), 2602–2605. https://doi.org/10.1016/j.matt.2021.06.003.
   - Further manuscripts in preparation
 - _Theoretical Study of Metal Chalcogenide Alloys for Solar Cell Applications_ <!-- Helen; Sb2(S/Se)3 Alloys -->
   - Manuscript in preparation
+  - MSci Student Helen Spong was awarded the Neil Sharp Prize for best performance in Theoretical/Computational Chemistry with this research project – a fantastic achievement given the large number of world-class computational research groups in the UCL Chemistry Department.
 - _A computational re-evaluation of elemental solar absorber materials_ <!-- Alp; Se for PV -->
   - Manuscript in preparation
 - _Emerging Cu-based earth-abundant photovoltaic absorber materials_ <!-- Bodoo and Adair; Cu2SiSe3 for PV -->
