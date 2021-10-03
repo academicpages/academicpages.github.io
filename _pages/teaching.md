@@ -29,6 +29,8 @@ These include:
 
 
 Some quotes from MSc students I have supervised are:
+>I am very pleased and lucky that I could receive the invaluable support and guidance of Seán Kavanagh in conducting my research project about simulation calculations on the materials of perovskite solar cells... His explanations were very detailed, coherent, and easy to understand. Seán Kavanagh with his patience, helpful insight, and brilliance helped me a lot throughout the project.
+
 > Sean provided me with a lot of support throughout my MSci project. He contacted me regularly and organised meetings to check my progress and talk to me about the next steps of my project. He explained how to set up all of my VASP calculations and what to do with the results I obtained. He also helped me troubleshoot errors and provided possible explanations for new and unusual results when I got stuck. <!-- Alp -->
 
 
