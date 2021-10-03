@@ -13,4 +13,4 @@ with over 3 years of experience in applied research and teaching. I will apply t
 
 My research interests are: Regional development, Economic geography, Urban economics, Economic history, Human capital, Experimental economics, Mechanisms design. 
 
-You can contact me at <a href="luis.palomino1390@gmail.com">luis.palomino1390@gmail.com</a>
+You can contact me at <a href="mailto:luis.palomino1390@gmail.com">luis.palomino1390@gmail.com</a>
