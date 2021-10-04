@@ -84,7 +84,6 @@ author:
   avatar           : "profile.png"
   bio              : "CS PhD Student at the University of Pennsylvania"
   location         : "Philadelphia, PA"
-  cv               : "http://artemisp.github.io/files/CV.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iAk3vUYAAAAJ&hl=en"
@@ -185,9 +184,9 @@ collections:
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -237,14 +236,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:

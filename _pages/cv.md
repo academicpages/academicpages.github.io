@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Download
+======
+You can download the pdf [here](http://artemisp.github.io/files/CV.pdf)
+
+
 Education
 ======
 * Dual Degree in Artificial Intelligence:
