@@ -184,7 +184,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/  
-  juncture:
+  blogs:
     output: true
     permalink: /:collection/:path/
   research:
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _juncture
+  # _blogs
   - scope:
       path: ""
-      type: juncture
+      type: blogs
     values:
       layout: single
       author_profile: true

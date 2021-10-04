@@ -1,7 +1,7 @@
 ---
 title: "Pandemic and Economic Activity in Peru: Update to the month of October 2020"
 excerpt: "(With Bruno Seminario, Gonzalo Pastor & Vanessa Berrocal). <i>CIUP</i>, 10/2020. <b>(Original in Spanish)</b>"
-collection: juncture
+collection: blogs
 permalink: 'https://ciup.up.edu.pe/analisis/recuperacion-economica-esta-concentrada-en-construccion-industrias-extractivas/'
 ---
 

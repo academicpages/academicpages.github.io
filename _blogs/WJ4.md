@@ -1,7 +1,7 @@
 ---
 title: "Peru: Estimating the Macroeconomic Impact of COVID-19"
 excerpt: "(With Bruno Seminario & Gonzalo Pastor). <i>Foco Económico</i>, 05/2020. <b>(Original in Spanish)</b>"
-collection: juncture
+collection: blogs
 permalink: 'http://focoeconomico.org/2020/05/08/peru-estimando-el-impacto-macroeconomico-de-covid-19/'
 ---
 

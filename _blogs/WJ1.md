@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 and Peruvian families"
 excerpt: "(With Bruno Seminario). <i>El Comercio</i>, 06/2021. <b>(Original in Spanish)</b>"
-collection: juncture
+collection: blogs
 permalink: 'https://elcomercio.pe/opinion/colaboradores/el-covid-19-y-las-familias-peruanas-por-bruno-seminario-y-luis-palomino-economia-estado-empleo-noticia/'
 ---
 
