@@ -85,7 +85,7 @@ author:
   bio              : "CS PhD Student at the University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iAk3vUYAAAAJ&hl=en"
   email            : "artemisp@seas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -191,17 +191,17 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: ""
