@@ -13,10 +13,10 @@ author_profile: true
 - RSC Researcher Development Grant, to attend and present at ACS Fall 2021.
 - Henderson-Lloyd prize for the highest overall grade in the Class of 2019, in the Schools of Chemistry and Physics at Trinity College Dublin (margin >10%).
 - Trinity Employability Award in Partnership with Intel (2018).
-- Elected to Foundation Scholarship, the “most prestigious undergraduate award in Ireland” (€100,000 Value)(2017). [Certificate]('https://kavanase.github.io/files/Kavanagh, Sean (Schol) 2019.02.12.pdf')
+- Elected to Foundation Scholarship, the “most prestigious undergraduate award in Ireland” (€100,000 Value)(2017). [Certificate](https://kavanase.github.io/files/Schol_Results.pdf)
 - Represented Trinity College Dublin in the Eurachem Analytical Measurement Competition, achieving 2nd place out of 20 (2017).
 - Best Poster at TYC Conference 2020, King’s College London – ‘_Band Alignment of Antimony and Bismuth Silver-Bromide Double Perovskites_’.
 - Excellent Poster Prize at RSC Materials Chemistry Poster Symposium 2021 – ‘_Bandgap Lowering in Lead-Free Cs2Ag(SbxBi1-x)Br6 Double Perovskite Alloys_’. [Certificate](https://kavanase.github.io/files/RSC_Mat_Chem_Poster_Certificate.pdf)
-- Excellent Talk Prize at MRS Fall 2020 – ‘_Enhanced Optical Absorption via Mixed-Valent Doping of Vacancy-Ordered A3B2X9 Triple Perovskites_’. [Certificate]('https://kavanase.github.io/files/MRS Fall 2020 - Excellent Talk Award.pdf')
+- Excellent Talk Prize at MRS Fall 2020 – ‘_Enhanced Optical Absorption via Mixed-Valent Doping of Vacancy-Ordered A3B2X9 Triple Perovskites_’. [Certificate](https://kavanase.github.io/files/MRS_Fall_2020_Excellent_Talk_Award.pdf)
 - Excellent Talk Prize at SCI Materials for Energy Technology 2021 – ‘_Rapid Recombination by Cadmium Vacancies in CdTe_’.
-- Best Poster Prize at UCL Chemistry PhD Poster Session (2021) – ‘_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3_’. [Certificate]('https://kavanase.github.io/files/UCL Chemistry 2nd Year Poster Certificate - Computational Prize.pdf')
+- Best Poster Prize at UCL Chemistry PhD Poster Session (2021) – ‘_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3_’. [Certificate](https://kavanase.github.io/files/UCL_Chem_2nd_Yr_Poster_Prize.pdf)
