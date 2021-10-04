@@ -7,6 +7,6 @@ author_profile: true
 
 [Curso no moodle](https://moodle.ufabc.edu.br/course/view.php?id=2177)
 
-[Derivadas parciais](https://rogeriotc.github.io/files/partial_diff.html)
+[Interpretação geométrica de derivadas parciais](https://rogeriotc.github.io/files/partial_diff.html)
 
 
