@@ -10,3 +10,6 @@ author_profile: true
 [Interpretação geométrica das derivadas parciais](https://rogeriotc.github.io/files/partial_diff.html)
 
 
+[Plano tangente e normal](https://rogeriotc.github.io/files/tan_normal.html)
+
+
