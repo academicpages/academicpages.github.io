@@ -1,3 +1,9 @@
+- citation: 'Nationwide trends in COVID-19 cases and SARS-CoV-2 wastewater
+  concentrations in the United States. C Duvallet, F Wu, KA McElroy, M Imakaev,
+  N Endo, A Xiao, J Zhang, R Floyd-O’Sullivan, MM Powell, SMendola, ST Wilson,
+  F Cruz, T Melman, CL Sathyanarayana, **SW Olesen**, TB Erickson, N Ghaeli, P
+  Chai, E Alm, M Matus. *medRxiv* (2021).'
+  doi: 10.1101/2021.09.08.21263283
 - citation: '**SW Olesen**. Interpreting building-level Covid-19 wastewater
   monitoring data. *figshare* (2021).'
   doi: 10.6084/m9.figshare.16587068
@@ -9,7 +15,7 @@
   pmc: PMC8282235
   doi: 10.1016/j.watres.2021.117433
 - citation: 'DS Sun, SM Kissler, S Kanjilal, **SW Olesen**, M Lipsitch, YH
-  Grad.  Large variation in the association between seasonal antibiotic use and
+  Grad. Large variation in the association between seasonal antibiotic use and
   resistance across multiple bacterial species and antibiotic classes.
   *medRxiv*.'
   doi: 10.1101/2020.12.21.20248670
