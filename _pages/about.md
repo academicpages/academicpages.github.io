@@ -101,7 +101,10 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
    <a href="/files/papoc-18.pdf"> [Slides] </a>
 
 
-
+## Service
+      <ul>
+        2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
+      </ul>
 
 
 
