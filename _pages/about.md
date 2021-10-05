@@ -26,6 +26,10 @@ More broadly, I am interested in all formal methods for modeling and analysis of
 I was previously a research intern at [Microsoft](https://www.microsoft.com/en-us/research/), working on a new program synthesis technique based on pre-trained language models. My work was supervised by Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
 
 
+## Service
+<ul> <li> 
+  2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
+  </li> </ul>
 
 
 ## Publications
@@ -105,10 +109,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
       
       
       
-## Service
-<ul> <li> 
-  2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
-  </li> </ul>
+
      
 
 
