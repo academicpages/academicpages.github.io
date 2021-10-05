@@ -7,7 +7,7 @@ author_profile: true
 
 Monday, October 11th:
 
-James Sundquist (Yale University), presents:
+[James Sundquist](https://politicalscience.yale.edu/people/james-sundquist) (Yale University), presents:
 
 **Title:** ["*Institutional Eclipse: How Chinese Loans Substitute for IMF Assistance.*"](https://gsipe-workshop.github.io/files/James_Sundquist_11OCT2021.pdf)
 
