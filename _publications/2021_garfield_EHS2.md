@@ -2,7 +2,7 @@
 title: "The content and structure of reputation domains across human societies: a view from the evolutionary social sciences"
 collection: publications
 permalink: /publication/2021_garfield_EHS2
-excerpt: <blockquote>asf.</blockquote>
+excerpt: <blockquote>We hypothesize reputations for cultural group unity will be a context-independent universal, likely to manifest in all human societies, whereas reputations for social and material success, neural capital, and dominance are more likely to be context-dependent universals, promoted or suppressed by socio-ecological or cultural evolutionary processes.</blockquote>
 date: 2021-10-4
 venue: 'Philosophical Transactions of the Royal Society B'
 paperurl: 'https://doi.org/10.1098/rstb.2020.0296'
