@@ -1,5 +1,5 @@
 ---
-title: "The content and structure of reputation domains across human societies: a view from the evolutionary social sciences"
+title: "The content and structure of reputation domains across human societies"
 collection: publications
 permalink: /publication/2021_garfield_et_al_PT
 excerpt: <blockquote>Using the eHRAF database, we extracted ethnographic accounts of individual-level reputation domains. Results suggest: (i) there is considerable cross- cultural variability in evidence for reputation domains— some domains are common in the ethnographic record (e.g. cul- tural conformity, prosociality) while others are relatively rare (e.g. teaching and honesty); (ii) evidence for most reputations are male-biased with male-specific reputation domains more vari- able than female-specific domains; and (iii) reputation domains cluster within six features: cultural group unity, dominance, neural capital, sexuality, social and material success, and supernatural healing.</blockquote>
