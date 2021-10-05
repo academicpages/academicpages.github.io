@@ -27,6 +27,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
 
 
 
+
 ## Publications
 <ul>
     <li>Multi-modal Program Inference: a Marriage of Pre-trained Language Models and Component-based Synthesis
@@ -99,13 +100,13 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
      [Tech Report]
    </a>
    <a href="/files/papoc-18.pdf"> [Slides] </a>
-
-
+</ul>
+      
+      
+      
       
 ## Service
-      <ul>
- 2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
-</ul>
+  2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
      
 
 
