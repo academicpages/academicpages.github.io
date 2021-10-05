@@ -103,7 +103,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
 
 ## Service
       <ul>
-        <li>2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
+        <li> 2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a> </li>
       </ul>
 
 
