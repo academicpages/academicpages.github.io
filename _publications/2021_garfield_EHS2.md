@@ -2,7 +2,7 @@
 title: "The content and structure of reputation domains across human societies: a view from the evolutionary social sciences"
 collection: publications
 permalink: /publication/2021_garfield_EHS2
-excerpt: <blockquote>We extracted ethnographic accounts of individual-level reputation domains. Results suggest: (i) there is considerable cross- cultural variability in evidence for reputation domains— some domains are common in the ethnographic record (e.g. cultural conformity, prosociality) while others are relatively rare (e.g. teaching and honesty); (ii) evidence for most reputations are male-biased with male-specific reputation domains more variable than female-specific domains; and (iii) reputation domains cluster within six features: cultural group unity, dominance, neural capital, sexuality, social and material success, and supernatural healing.</blockquote>
+excerpt: <blockquote>asf.</blockquote>
 date: 2021-08-31
 venue: 'Evolutionary Human Sciences'
 paperurl: 'https://doi.org/10.1017/ehs.2021.41'
