@@ -3,11 +3,11 @@ title: "The content and structure of reputation domains across human societies: 
 collection: publications
 permalink: /publication/2021_garfield_EHS2
 excerpt: <blockquote>asf.</blockquote>
-date: 2021-08-31
-venue: 'Evolutionary Human Sciences'
-paperurl: 'https://doi.org/10.1017/ehs.2021.41'
-citation: 'Zachary H. Garfield (2021). &quot;Correlates of conflict resolution across cultures.&quot; <i>Evolutionary Human Sciences</i>. 3(E45).'
+date: 2021-10-4
+venue: 'Philosophical Transactions of the Royal Society B'
+paperurl: 'https://doi.org/10.1098/rstb.2020.0296'
+citation: 'Zachary H. Garfield, Ryan Schacht, Emily R. Post, Dominique Ingram, Andrea Uehling, and Shane J. Macfarlan (2021). &quot;The content and structure of reputation domains across human societies: a view from the evolutionary social sciences. &quot;<i>Philosophical Transactions of the Royal Society B</i>. 376(1838).'
 ---
-This cross-cultural study uses the leadership data package to explore traits correlated with conflict resolution services among leaders across social and cultural contexts. Findings include that conflict resolution is more associated with kin group leaders than political group leaders.
+This cross-cultural study includes exploratory analyses on the content, distribution and structure of reputation domain diversity, using the Human Relations Area Files ethnographic database and ethnographic documents from 153 cultures. Results are interpreted in reference to influential evolutionary social science models on reputation and cooperation. This article is part of the theme issue [The language of cooperation: reputation and honest signalling](https://royalsocietypublishing.org/toc/rstb/2021/376/1838).
 
-[Download paper here](http://zhgarfield.github.io/files/garfield_2021_EHS.pdf)
+[Download paper here](http://zhgarfield.github.io/files/garfield_et_al_2021.pdf)
