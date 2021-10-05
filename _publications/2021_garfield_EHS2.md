@@ -1,5 +1,5 @@
 ---
-title: "Correlates of conflict resolution across cultures"
+title: "The content and structure of reputation domains across human societies: a view from the evolutionary social sciences"
 collection: publications
 permalink: /publication/2021_garfield_EHS2
 excerpt: <blockquote>Interpersonal skills and fairness were the only leader qualities predictive of conflict resolution. This supports links between effective conflict resolution and moral evaluations of social justice, suggesting that individuals who conform to and embody such traits are preferred as mediators. Effective mediators of conflict then are not necessarily leaders who can be conceptualised as particularly prestigious or dominant but are more likely to be individuals who effectively identify overlapping interests between individuals with distinct priorities fairly, consistent with emerging views on leadership and followership focused on the process and outcomes over individual trait.</blockquote>
