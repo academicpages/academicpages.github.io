@@ -71,6 +71,7 @@ I'm interested in modeling techniques and algorithms on mixed-integer optimizati
 # Presentations
 
 ## International Conferences
+1. Ken Kobayashi, Yuichi Takano and Kazuhide Nakata:  Bilevel cutting-plane algorithm for cardinality-constrained mean-CVaR optimization, 5th ZIB-RIKEN-IMI-ISM MODAL Workshop on Mathematical Optimization, Data Analysis and HPC, Virtual Conference, September 2021.
 1. Ken Kobayashi, Yuichi Takano and Kazuhide Nakata:  A bilevel cutting-plane algorithm for cardinality-constrained mean-CVaR optimization, 2020 INFORMS Annual Meeting, Virtual Conference, October 2020.
 1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Asymptotic Risk of Bézier Simplex Fitting, The 34th AAAI Conference on Artificial Intelligence (AAAI-20), New York Hilton Midtown, February 2020.
 1. Ken Kobayashi and Yuichi Takano:  A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems, 2019 INFORMS Annual Meeting, Washington Convention Center, October 2019.
