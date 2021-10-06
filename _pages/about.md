@@ -37,7 +37,7 @@ I'm interested in modeling techniques and algorithms on mixed-integer optimizati
 
 ## Refereed Journal Papers and Conference Proceedings
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi and Hiroki Arimura: Distribution-Aware Counterfactual Explanation by Mixed-integer Linear Optimization. Transactions of the Japanese Society for Artificial Intelligence (in press).
-1. Ken Kobayashi, Yuichi Takano and Kazuhide Nakata: Bilevel cutting-plane algorithm for solving cardinality-constrained mean-CVaR portfolio optimization problems. Journal of Global Optimization (in press).
+1. Ken Kobayashi, Yuichi Takano and Kazuhide Nakata: Bilevel cutting-plane algorithm for solving cardinality-constrained mean-CVaR portfolio optimization. Journal of Global Optimization, 81 (2021), 493--528.
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike, Kento Uemura and Hiroki Arimura: Ordered counterfactual explanation by mixed-integer linear optimization. Proceedings of the 35th AAAI Conference on Artificial Intelligence, 35 (2021), 11564--11574.<br>
  **Acceptance rate: 1692/7911 = 21.4%**.
 1. Tomokaze Shiratori, Ken Kobayashi and Yuichi Takano: Prediction of hierarchical time series using structured regularization and its application to artificial neural networks. PLOS ONE, 15 (2020), e0242099.
