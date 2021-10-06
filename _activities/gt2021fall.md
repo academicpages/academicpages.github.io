@@ -13,13 +13,13 @@ author_profile: false
 | Th, Oct 7, 2021 | 1:30pm - 2:30pm | Russell Avdek |An algebraic generalization of Giroux's criterion| [https://umn.zoom.us/j/98547599523](https://umn.zoom.us/j/98547599523)
 | Th, Oct 14, 2021 | 1:30pm - 2:30pm |  |  |  | 
 | Th, Oct 21, 2021 | 1:30pm - 2:30pm |  ||  
-| Th, Oct 28, 2021 | 1:30pm - 2:30pm |  |  |  
+| Th, Oct 28, 2021 | 1:30pm - 2:30pm | Demetre Kazaras |  |  
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun |  |  
 | Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  |  |  
 | Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin Decomposition of Floer Trajectories and Adiabatic Gluing |  
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm |  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu |  |  
-| Th, Dec 9, 2021 | 1:30pm - 2:30pm |  |  |  
+| Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang |  |  
 | Th, Dec 16, 2021 | 1:30pm - 2:30pm |  |  |  
 
 ## Abstracts
