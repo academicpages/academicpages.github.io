@@ -39,6 +39,7 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 # Honors and Awards
 ---
 
+* New England Statistics Symposium Student Poster Award, 2021  
 * ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop Student Poster Award, 2021
 * John Van Ryzin Award and ENAR Distinguished Student Paper Award, 2021   
 * China Hands 25 Under 25 Leaders in US-China Relations, 2019
