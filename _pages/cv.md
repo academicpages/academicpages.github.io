@@ -28,7 +28,7 @@ Work experience
 ======
 * Co-founder and Software Developer (Sept, 2019 - Aug, 2021)
   * Aarogya, LLC
-  * Co-founded Aarogya LLC, a non-profit health-tech social enterprise creating India’s first medicine  redistribution  platform,  enabling  low-income  patients  to  access  essential  medicines  atextremely  affordable  prices  while  preventing  wastage  of  medicines  lying  unused  in  warehousinginventories.
+  * Co-founded Aarogya LLC, a non-profit health-tech social enterprise creating India’s first medicine  redistribution  platform,  enabling  low-income  patients  to  access  essential  medicines  atextremely  affordable  prices  while  preventing  wastage  of  medicines  lying  unused  in  warehousing inventories.
 
 * Research Assistant (May, 2019- May, 2020)
   * General Robotics, Automation, and Sensing (GRASP) Lab, University of Pennsylvania
