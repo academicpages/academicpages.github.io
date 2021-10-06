@@ -12,5 +12,6 @@ Abstract. Metaphors are very intriguing elements of human language that are surp
 We narrow the scope of the report, following earlier work,  to evaluate deep learning systems fine-tuned on the task of textual entailment (TE). We argue that TE is a task naturally suited to the interpretation of metaphoric language.  We show that TE systems can improve significantly in metaphoric performance by being fine tuned on a small dataset with metaphoric premises. Even though the improvement in performance on metaphors is typically accompanied by a drop in performance on the original dataset we note that auto-regressive models seem to show a smaller drop in performance on literal examples compared to other types of models.
 
 [Download paper here](http://artemisp.github.io/files/thesis.pdf)
+[Download abridged version here](http://artemisp.github.io/files/Thesis_Abridged.pdf)
 
 Recommended citation: Artemis Panagopoulou, Mitch Marcus (2020). "Metaphor and Entailment: Looking at metaphors through the lens of textual entailment." <i>Not Published</i>.
