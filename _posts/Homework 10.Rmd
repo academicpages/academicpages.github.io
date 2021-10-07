@@ -4,7 +4,7 @@ author: "Taylor Grimm"
 date: "11/11/2020"
 output: pdf_document
 
-permalink: /posts/2021/10/stats-topic-1/
+permalink: /posts/homework10/
 tags:
   - cool posts
   - statistics
