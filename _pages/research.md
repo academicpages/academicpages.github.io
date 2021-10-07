@@ -17,13 +17,14 @@ Active Research
 
 #### Selected Works in Progress
 
-* "Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Outcomes" (with [Valerie Bostwick][vkb]). *Draft coming soon!*
+"Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Outcomes" (with [Valerie Bostwick][vkb]). *Draft coming soon!*
 
-* "Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
+"The problem has existed over endless years: Racialized difference in commuting, 1980-2019" (with [Devin Michelle Bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Draft coming soon!*
 
-* "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
+"Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
 
-* "The Racial Commuting Gap since 1980" (with [Devin Michelle Bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Draft coming soon!*
+"Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
+
 
 
 <h2 id="pubs">
@@ -32,11 +33,11 @@ Publications
 
 #### Peer-Reviewed Publications in Economics
 
-* "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)".
+"[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)".
     * **FINAL** pre-publication draft August 2021.
     * Conditionally accepted at the *Review of Economics and Statistics*.
 
-* "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]), [(recentish slides)](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf).
+"[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]), [(recentish slides)](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf).
     * Conditional Accept at *AEJ: Applied*. [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
     * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
 
