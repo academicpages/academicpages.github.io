@@ -29,9 +29,13 @@ These include:
 
 
 Some quotes from MSc students I have supervised are:
->I am very pleased and lucky that I could receive the invaluable support and guidance of Seán Kavanagh in conducting my research project about simulation calculations on the materials of perovskite solar cells... His explanations were very detailed, coherent, and easy to understand. Seán Kavanagh with his patience, helpful insight, and brilliance helped me a lot throughout the project.
+> Seán supervised me during my master's research project and was very helpful and always approachable. He explained complex topics in a succinct, easy to understand way. Seán was very organised and helped guide me through the project with regards to what the next steps of the project would be. He had excellent problem solving skills and would help me fix any issues that would arise by solving them in a logical way and communicated this extremely well as the project was carried out remotely. <!-- Helen -->
 
-> Sean provided me with a lot of support throughout my MSci project. He contacted me regularly and organised meetings to check my progress and talk to me about the next steps of my project. He explained how to set up all of my VASP calculations and what to do with the results I obtained. He also helped me troubleshoot errors and provided possible explanations for new and unusual results when I got stuck. <!-- Alp -->
+> I am very pleased and lucky that I could receive the invaluable support and guidance of Seán Kavanagh in conducting my research project about simulation calculations on the materials of perovskite solar cells... His explanations were very detailed, coherent, and easy to understand. Seán Kavanagh with his patience, helpful insight, and brilliance helped me a lot throughout the project. <!-- Yinan -->
+
+> Seán was my supervisor for a summer research project on computationally modelling a material for photovoltaic applications. He gave me useful resources such as video lectures and Jupyter notebooks, made a concise project plan and guided me through VASP and pymatgen calculations. Seán was eager to answer my questions and his feedback was invaluable when compiling the final report. My only complaint is that he uses Mac instead of Windows! <!-- Bodoo -->
+
+> Seán provided me with a lot of support throughout my MSci project. He contacted me regularly and organised meetings to check my progress and talk to me about the next steps of my project. He explained how to set up all of my VASP calculations and what to do with the results I obtained. He also helped me troubleshoot errors and provided possible explanations for new and unusual results when I got stuck. <!-- Alp -->
 
 
 ---
