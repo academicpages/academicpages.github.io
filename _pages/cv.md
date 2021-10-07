@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.E, Dwarkadas J. Sanghvi College of Engineering, Mumbai University, 2021 (expected)
+* MS CS, Georgia Institute of Technology, 2023 (expected)
+* B.E, Dwarkadas J. Sanghvi College of Engineering, Mumbai University, 2021 
 * HSC, Pace Junior College Andheri, 2017
 * ICSE, VCW Arya Vidya Mandir, 2015
 
@@ -73,6 +74,12 @@ Publications
 Talks
 ======
   <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
