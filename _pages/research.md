@@ -12,7 +12,7 @@ Active Research
 
 ### Working Papers
 
-* "[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020). Revision requested at *Review of Economics and Statistics* (short paper).
+"[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020). Revision requested at *Review of Economics and Statistics* (short paper).
 
 
 ### Selected Works in Progress
@@ -35,25 +35,25 @@ Publications
 
 "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)".
 
-    * **FINAL** pre-publication draft August 2021.
-    * Conditionally accepted at the *Review of Economics and Statistics*.
+  * **FINAL** pre-publication draft August 2021.
+  * Conditionally accepted at the *Review of Economics and Statistics*.
 
 "[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]), [(recentish slides)](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf).
 
-    * Conditional Accept at *AEJ: Applied*. [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
-    * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
+  * Conditional Accept at *AEJ: Applied*. [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
+  * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
 
 "[Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020).
 
-    * ([older NBER Working Paper](https://www.nber.org/papers/w21414))
+  * ([older NBER Working Paper](https://www.nber.org/papers/w21414))
 
 "[Land-Use Regulations, Property Values, and Rents: Decomposing the Effects of the California Coastal Act](https://www.sciencedirect.com/science/article/pii/S0094119018300421)" with [Andrew Plantinga][aplantinga]. *Journal of Urban Economics* 107 (2018): 65-78.
 
-    * [[UCSB press coverage]](http://www.news.ucsb.edu/2018/019175/value-proposition), [Pre-print version](https://cseveren.github.io/files/CCC_Final.pdf), [Supplemental Material](https://cseveren.github.io/files/CCC_Appendix.pdf)
+  * [[UCSB press coverage]](http://www.news.ucsb.edu/2018/019175/value-proposition), [Pre-print version](https://cseveren.github.io/files/CCC_Final.pdf), [Supplemental Material](https://cseveren.github.io/files/CCC_Appendix.pdf)
 
 "[A forward-looking Ricardian approach: Do land markets capitalize climate change forecasts?](https://www.sciencedirect.com/science/article/pii/S0095069618301177)" with [Chris Costello][ccostello], and [Olivier Deschênes][odeschenes]. *Journal of Environmental Economics and Management* 89 (2018): 235-254.
 
-    * [Pre-print version](https://cseveren.github.io/files/ricardian_Final.pdf), [Supplemental Material](https://cseveren.github.io/files/ricardian_Appendix.pdf)
+  * [Pre-print version](https://cseveren.github.io/files/ricardian_Final.pdf), [Supplemental Material](https://cseveren.github.io/files/ricardian_Appendix.pdf)
 
 ### Books, Chapters, and Essays
 
