@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
+theme                    : "air" # or change back to default
 title                    : "Seán R. Kavanagh"
 title_separator          : "-"
 name                     : &name "Seán R. Kavanagh"
@@ -75,7 +76,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-3G7SBTDJLY
 
 
 # Site Author
@@ -249,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Dublin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
