@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-theme                    : "air" # or change back to default
+remote_theme             : pages-themes/cayman@v0.2.0
 title                    : "Seán R. Kavanagh"
 title_separator          : "-"
 name                     : &name "Seán R. Kavanagh"
@@ -260,6 +260,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
