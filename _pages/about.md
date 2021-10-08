@@ -12,8 +12,8 @@ I am a 3rd-year Ph.D. student in [Computer Science at University of Southern Cal
 
 In 2019, I received my B.E. in computer science from [Yao Class](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University.
 
-In Summer 2021, I was a research scientist intern at Amazon Robotics. 
-In Spring 2018, I was a research intern at Carneige Mellon University advised by Professor [Fei Fang](https://feifang.info/).   
+In Summer 2021, I was a research scientist intern at Amazon Robotics.
+In Spring 2018, I was a research intern at Carneige Mellon University advised by Professor [Fei Fang](https://feifang.info/).
 In Summer 2018, I was a research intern at The University of Hong Kong advised by Professor [Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/).
 
 My research interests lie in artificial intelligence, with a focus on multi-agent systems, combinatorial optimization, machine learning, computational game theory and computational sustainability.
