@@ -18,7 +18,7 @@ In Summer 2018, I was a research intern at The University of Hong Kong advised b
 
 My research interests lie in artificial intelligence, with a focus on multi-agent systems, combinatorial optimization, machine learning, computational game theory and computational sustainability.
 
-[CV](https://taoanhuang.github.io/files/TaoanCV.pdf)
+[CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
 * \[2021.04\] I am joining Amazon Robotics as a summer research intern in May. 
