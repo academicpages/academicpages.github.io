@@ -17,7 +17,7 @@ author_profile: false
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun |  |  
 | Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  |  |  
 | Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin Decomposition of Floer Trajectories and Adiabatic Gluing |  
-| Th, Nov 25, 2021 | 1:30pm - 2:30pm |  |  |  
+| Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu |  |  
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang |  |  
 | Th, Dec 16, 2021 | 1:30pm - 2:30pm |  |  |  
