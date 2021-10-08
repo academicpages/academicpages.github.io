@@ -12,7 +12,7 @@ author_profile: false
 | Th, Sep 30, 2021 | 1:30pm - 2:30pm |  |  |  
 | Th, Oct 7, 2021 | 1:30pm - 2:30pm | Russell Avdek |An algebraic generalization of Giroux's criterion| [https://umn.zoom.us/j/98547599523](https://umn.zoom.us/j/98547599523)
 | Th, Oct 14, 2021 | 1:30pm - 2:30pm |  |  |  | 
-| Th, Oct 21, 2021 | 1:30pm - 2:30pm |  ||  
+| Th, Oct 21, 2021 | 1:30pm - 2:30pm |Jie Min ||  
 | Th, Oct 28, 2021 | 1:30pm - 2:30pm | Demetre Kazaras |  |  
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun |  |  
 | Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  |  |  
