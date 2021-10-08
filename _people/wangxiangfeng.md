@@ -40,14 +40,19 @@ permalink: /people/xfwang
 - Distributed Optimization-driven Multi-agent Collaborative Computing Theory and Method, ZhiJiang Project, 2020-2022.
 - Research on Structured Algorithm for Large-scale Optimization Problem in Machine Learning, Natural Science Foundation of Shanghai, STCSM, 2019-2022.
 - Research on Structured First-order Algorithm for Large-scale Distributed Consensus Optimization Problem, National Natural Science Foundations of China, NSFC, 2016-2018.
-- Research on Large-scale Distributed Stochastic Optimization Algorithm, Yangfan Project of Shanghai, STCSM, 2015-2017.
-- **MOST**: Ministry of Science and Technology of the People's Republic of China; **NSFC**: Natural Science Foundations of China; **STCSM**: Science and Technology Commission of Shanghai Municipality
+- Research on Large-scale Distributed Stochastic Optimization Algorithm, YangFan Project of Shanghai, STCSM, 2015-2017.
+- Remark: **MOST** (Ministry of Science and Technology of the People's Republic of China); **NSFC** (Natural Science Foundations of China); **STCSM** (Science and Technology Commission of Shanghai Municipality).
 
 ---
 
 ### Publications
+
+#### 出版书籍
+1. 王祥丰/金博, 群体智能/Swarm Intelligence, 人工智能与智能教育丛书, 教育科学出版社.
+
 #### Book Chapter
 1. X. Fu, B. He, **Xiangfeng Wang**, and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. Splitting Algorithms, Modern Operator Theory, and Applications, 2019.
+
 #### Journal 
 1. J. Sheng, Yiqiu Hu, W. Zhou, L. Zhu, Bo Jin, J. Wang, and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, Pattern Recognition, accepted, 2021.
 2. W. Li, **Xiangfeng Wang**, Bo Jin, D. Luo, and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space, IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2021.
@@ -69,9 +74,10 @@ permalink: /people/xfwang
 18. T.-H. Chang, W.-C. Liao, M. Hong, and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part II: Linear Convergence Analysis and Numerical Performances, IEEE Transactions on Signal Processing, 64(12), 2016, pp.3131-3144.
 19. **Xiangfeng Wang**, On the Convergence Rate of a Class of Proximal-Based Decomposition Methods for Monotone Variational Inequalities. Journal of the Operations Research Society of China, 3(3), 2015, pp.347-362.
 20. **Xiangfeng Wang**, M. Hong, S. Ma, and Z.-Q. Luo, Solving Multiple-Block Separable Convex Minimization Problems using Two-Block ADMM. Pacific Journal of Optimization, 11(4), 2015, pp.645-667.
-21. T.-H. Chang, M. Hong, and **Xiangfeng Wang**, Multi-Agent Distributed Large-Scale Optimization by Inexact Consensus ADMM. IEEE Transactions on Signal Processing, 63(2), 2015, pp.482-497.
+21. T.-H. Chang, M. Hong, and **Xiangfeng Wang**, Multi-Agent Distributed Large-Scale Optimization by Inexact Consensus ADMM. IEEE Transactions on Signal Processing, 63(2), 2015, pp.482-497. **ESI高被引论文**
 22. X. Luo, **Xiangfeng Wang**, Z. Suo, and Z. Li, Efficient InSAR Phase Noise Reduction via Total Variation Regularization. Science China (Information Sciences), 2015, 58(8), 1-13.
 23. **Xiangfeng Wang**, and X. Yuan, The Linearized Alternating Direction Method of Multipliers for Dantzig Selector. SIAM Journal of Scientific Computing, 34(5), 2012, pp.A2792-A2811.
+
 #### Conference
 1. Y. Hua, **Xiangfeng Wang**, B. Jin, W. Li, J. Yan, X. He, and H. Zha, Hyper-Meta Reinforcement Learning with Sparse Reward. KDD, 2021.
 2. Q. Xu, Q. Wu, Y. Hu, B. Jin, B. Hu, F. Zhu, Y. Li, and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. IJCNN, 2021.
@@ -102,7 +108,7 @@ permalink: /people/xfwang
 ---
 
 ### Professional Membership and Services
-- Youth Director of Shanghai Operations Research Association
-- Youth Director of Shanghai Computer Science Association
+- Youth Director of Shanghai Operations Research Association/上海市运筹学会青年委员
+- Youth Director of Shanghai Computer Science Association/上海市计算机学会青工委通讯委员
 
 ---
