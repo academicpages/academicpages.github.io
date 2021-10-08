@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd-year Ph.D. student in [Computer Science at University of Southern California](https://www.cs.usc.edu/). I am co-advised by Professor [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) and Professor [Sven Koenig](http://idm-lab.org/index.html).
+I am a 3rd-year Ph.D. student in [Computer Science at University of Southern California](https://www.cs.usc.edu/). I am co-advised by Professor [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) and Professor [Sven Koenig](http://idm-lab.org/index.html).
 
 In 2019, I received my B.E. in computer science from [Yao Class](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University.
 
+In Summer 2021, I was a research scientist intern at Amazon Robotics. 
 In Spring 2018, I was a research intern at Carneige Mellon University advised by Professor [Fei Fang](https://feifang.info/).   
 In Summer 2018, I was a research intern at The University of Hong Kong advised by Professor [Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/).
 
