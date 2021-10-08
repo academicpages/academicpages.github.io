@@ -13,8 +13,8 @@ permalink: /people/xfwang
 ---
 
 ### Education
-- Ph.D., Computational Mathematics/Optimization, Nanjing Univerisity, 2014 (Supervisor: Professor Bingsheng He)
-- Visiting Ph.D. student, Optimization, University of Minnesota, 2012-2013 (Supervisor: Professor Zhi-Quan Luo)
+- Ph.D., Computational Mathematics/Optimization, Nanjing Univerisity, 2014 (Supervisor: Professor **Bingsheng He**)
+- Visiting Ph.D. student, Optimization, University of Minnesota, 2012-2013 (Supervisor: Professor **Zhi-Quan Luo**)
 - B.S., Mathematics, Nanjing University, 2009
 
 ---
