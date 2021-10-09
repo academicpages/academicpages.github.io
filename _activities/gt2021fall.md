@@ -20,7 +20,7 @@ author_profile: false
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu |  |  
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang |  |  
-| Th, Dec 16, 2021 | 1:30pm - 2:30pm |  |  |  
+| Th, Dec 16, 2021 | 1:30pm - 2:30pm | Josef Dorfmeister |  |  
 
 ## Abstracts
 * Russell Avdek
