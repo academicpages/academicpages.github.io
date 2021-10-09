@@ -12,3 +12,8 @@ Welcome to my personal website! You can find my academic CV [here](/files/Sean_K
 
 ### What I Do
 I'm a PhD student in the research groups of both Professor David Scanlon at University College London and Professor Aron Walsh at Imperial College London. My research uses computational methods such as Density Functional Theory (DFT) to simulate and predict the properties of materials. In particular, my PhD project is focused on the behaviour of defects in solar photovoltaic materials, and how they affect performance through non-radiative electron-hole recombination.
+
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/Kavanagh_Sean_ maxwidth=500 limit=5 %}
+</div>
