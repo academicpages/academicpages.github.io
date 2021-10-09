@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ayesha Bhimdiwala"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +11,8 @@ redirect_from:
 Hi! I am a first-year doctoral student in [School of Information](https://ischool.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I am advised by [Dr. Ahmer Arif](https://ahmerarif.com/), [Dr. Angela Smith](https://angeladrsmith.com/), and [Dr. Kenneth Fleischmann](https://www.ischool.utexas.edu/people/people-details?PersonID=220). I am a mixed-methods researcher who focuses on human-centered design of learning environments that meets the need of marginalized voices.
 
 I obtained my B.Eng. in Information Technology from University of Mumbai, M.S. in Data Science and M.Ed. in Learning Sciences from [Indiana University Bloomington](https://www.indiana.edu/). 
+
+
 
 
 Publications
