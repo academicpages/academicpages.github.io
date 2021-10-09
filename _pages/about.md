@@ -18,7 +18,3 @@ I'm a PhD student in the research groups of both Professor David Scanlon at Univ
 Our _Materials Horizons_ article [Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3](https://doi.org/10.1039/D1MH00764E) was featured on the front cover of Issue 10 (October, 2021) 🤩:
 
 <img align="center" width="500" src="files\MH_Cover.png">
-
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/Kavanagh_Sean_ maxwidth=500 limit=5 %}
-</div>
