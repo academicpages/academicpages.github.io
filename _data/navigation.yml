@@ -1,5 +1,6 @@
 # main links links
 main:
+{% comment %} 
   - title: "Publications"
     url: /publications/
 
@@ -20,3 +21,4 @@ main:
     
   - title: "Guide"
     url: /markdown/
+{% endcomment %} 
