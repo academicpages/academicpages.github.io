@@ -8,5 +8,8 @@
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
 {% endcase %}
+{% when "google-analytics" %}
+  {% include /analytics-providers/google-analytics.html %}
+{% endcase %}
 
 {% endif %}
