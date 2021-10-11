@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nima ghorbani"
+title                    : "Nima Ghorbani"
 title_separator          : "-"
 name                     : &name "Nima Ghorbani"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : #"Nima Ghorbani"
   avatar           : "profile.png"
-  bio              : "Research Engineer at Max-Planck Institute for Intelligent Systems"
+  bio              : "Research Engineer at the Max-Planck Institute for Intelligent Systems"
   location         : "Tübingen, Germany"
   employer         :
   pubmed           : #""
