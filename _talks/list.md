@@ -5,7 +5,10 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
-**Tutorial:** <span style="color:blue">Preference Bandits.</span> *Asian Conference of Machine Learning (ACML)*. November 2021.<br/><br/>
+**Tutorials:** <br/>
+ <div><span style="color:blue">Preference Bandits.</span> *Asian Conference of Machine Learning (ACML)*. November 2021.<br/><br/>
+
+**Talks:** <br/>
 <span style="color:blue">PbRL: Preference based Reinforcement Learning.</span> *RL Track, Microsoft Research Summit*. October 2021.<br/><br/>
 <span style="color:blue">Adversarial Dueling Bandits.</span> *Data Science in India, KDD Conference, India*. August 2021.<br/><br/>
 *3 talks at ICML*, 2021. <br/><br/>
