@@ -1,6 +1,5 @@
 ---
 title: ""
-collection: talks
 type: "Talk"
 permalink: /talks/list.md
 ---
