@@ -10,7 +10,6 @@ permalink: /talks/list.md
      <li><span style="color:blue">Preference Bandits.</span> Asian Conference of Machine Learning (ACML). November 2021.</li>
      <li><span style="color:blue">Bandits for Beginners.</span> Microsoft Reactor: Data Science and Machine Learning Track. November 2021.</li>
 </ul>
-<br/>
  **Talks:** <br/>
 <ul>
      <li><span style="color:blue"><span style="color:blue">PbRL: Preference based Reinforcement Learning.</span> RL Track, Microsoft Research Summit. October 2021.</li>
@@ -22,7 +21,7 @@ permalink: /talks/list.md
 
 <!-- 
 *3 talks at ICML*, 2021. <br/><br/>
-<span style="color:blue">Active Ranking with Subset-wise Preferences.</span> *Artificial Intelligence and Statistics (AISTATS)*. Naha, Okinawa, Japan, April 2019.<br/><br/>
+ensp;ensp;<span style="color:blue">Active Ranking with Subset-wise Preferences.</span> *Artificial Intelligence and Statistics (AISTATS)*. Naha, Okinawa, Japan, April 2019.<br/><br/>
 <span style="color:blue">PhD Thesis Overview: Information Aggregation from Preferential Feedback.</span> *EECS Symposium, Indian Institute of Science, Bangalore, India*. April 2019.<br/><br/>
 <span style="color:blue">PAC Battling-Bandits in the Plackett-Luce model.</span> *Algorithmic Learning Theory (ALT), 2019*. Chicago, USA, March 2019.<br/> 
 -->
