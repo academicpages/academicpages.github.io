@@ -1,5 +1,5 @@
 ---
-title: "YOUR NEW TITLE HERE"
+title: ""
 collection: talks
 type: "Talk"
 permalink: /talks/list.md
