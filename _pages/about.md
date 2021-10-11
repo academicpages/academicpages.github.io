@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at [Microsoft Research New York City](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I did my PhD from the depratment of [Computer Science](https://www.csa.iisc.ac.in/), [Indian Institute of Science, Bangalore](https://iisc.ac.in/), during which I was fortunate to intern at [Microsoft Research, Bangalore](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), [Inria, Paris](https://www.inria.fr/en/centre-inria-de-paris), and [Google AI, Mountain View](https://ai.google/). Before that I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). 
+I am currently a postdoctoral researcher at [Microsoft Research New York City](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I did my PhD from the department of [Computer Science](https://www.csa.iisc.ac.in/), [Indian Institute of Science, Bangalore](https://iisc.ac.in/), during which I was fortunate to intern at [Microsoft Research, Bangalore](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), [Inria, Paris](https://www.inria.fr/en/centre-inria-de-paris), and [Google AI, Mountain View](https://ai.google/). Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). 
 
 Research interests: Bandits and Reinforcement Learning, Optimization, Learning theory, Algorithm analysis. 
 
