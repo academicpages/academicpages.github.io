@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
-<h3>**Tutorials:**</h3> <br/>
+<h4>**Tutorials:**</h4> <br/>
 <ul>
      <li><span style="color:blue">Preference Bandits.</span> Asian Conference of Machine Learning (ACML). November 2021.</li>
      <li><span style="color:blue">Bandits for Beginners.</span> Microsoft Reactor: Data Science and Machine Learning Track. November 2021.</li>
