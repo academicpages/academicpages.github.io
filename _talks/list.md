@@ -12,7 +12,7 @@ permalink: /talks/list.md
 </ul>
  **Talks:** <br/>
 <ul>
-     <li><span style="color:blue"><span style="color:blue">PbRL: Preference based Reinforcement Learning.</span> RL Track, Microsoft Research Summit. October 2021.</li>
+     <li><span style="color:blue">PbRL: Preference based Reinforcement Learning.</span> RL Track, Microsoft Research Summit. October 2021.</li>
      <li><span style="color:blue">Adversarial Dueling Bandits.</span> Data Science in India, KDD Conference, India. August 2021.</li>
      <li><span style="color:blue">Battle of Bandits.</span> Sabarmati Seminar Series, IIT Gandhinagar, India. July 2021.</li>
      <li><span style="color:blue">Online Learning from Preferences.</span> SIERRA-Seminar, Inria, Paris. January 2020.</li>
