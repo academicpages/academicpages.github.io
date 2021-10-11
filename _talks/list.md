@@ -10,7 +10,6 @@ permalink: /talks/list.md
      <li><span style="color:blue">Preference Bandits.</span> Asian Conference of Machine Learning (ACML). November 2021.</li>
      <li><span style="color:blue">Bandits for Beginners.</span> Microsoft Reactor: Data Science and Machine Learning Track. November 2021.</li>
 </ul>
-
  **Talks:** <br/>
 <ul>
      <li><span style="color:blue"><span style="color:blue">PbRL: Preference based Reinforcement Learning.</span> RL Track, Microsoft Research Summit. October 2021.</li>
