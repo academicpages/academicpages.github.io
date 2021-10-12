@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyi Zhou / IMED"
 title_separator          : "-"
 name                     : &name "Xinyi Zhou"
-description              : &description "Research Assistant at IMED in SUSTECH"
+description              : &description "Research Assistant in IMED at SUSTECH"
 url                      : https://CindyChow123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CindyChow123/CindyChow123.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinyi Zhou"
-  avatar           : "images/selfie.png"
+  avatar           : "selfie.png"
   bio              : "Research Assistant at IMED in SUSTECH"
   location         : "Shenzhen"
   employer         :
