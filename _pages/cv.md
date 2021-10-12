@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Southern University of Science and Technology, 2018 to present
-# * M.S. in Jekyll, GitHub University, 2014
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
