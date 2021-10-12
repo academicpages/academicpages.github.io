@@ -18,7 +18,7 @@ Work experience
 * Fall and Spring 2020: Research Assistant
   * Southern University of Science and Technology
   * Projects participated: Axial Length Estimation, Depth Estimation for Ophthalmic Surgeries, Image Fusion for Multi-focus Surgical images 
-  * Supervisor: Professor Git
+  * Supervisor: [Jiang Liu](https://www.sustech.edu.cn/zh/faculties/liujiang.html)
   
 Skills
 ======
