@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Monash University working on gamma-ray bursts, neutron stars and gravitational waves under the supervision of Paul Lasky and Greg Ashton.
-I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav. Starting from November, I will be joining NORDITA (Stockholm) as a NORDITA Fellow.
+I am a postdoc at Monash University working on gamma-ray bursts, neutron stars and gravitational waves with Paul Lasky. I also did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which I submitted in July 2021. Starting from November, I will be joining NORDITA and Stockholm University as a NORDITA Fellow.
+I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
+* October 8th: I did an interview on the highs and lows of my PhD with LIGO-India. Check it out on [Youtube](https://www.youtube.com/watch?v=A-3n3IklmM0) or the press release [here](https://www.ligo-india.in/blog36/)
+* October 8th: I am now officially Dr Nikhil Sarin!
 * July 18-23rd: This week I am attending the AMALDI meeting. I will be giving a talk on the multimessenger signatures of binary neutron star mergers.
 * July 15th: Today I submitted my PhD thesis titled _The observational signatures of nascent neutron stars_!! Hoping for a smooth review!
 * July 12-16th: I am attending the Annual ASA meeting this week (in hybrid format). Looking forward to listening to all the exciting science happening across Australia.
