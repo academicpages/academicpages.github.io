@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Valentyn Melnychuk"
 title_separator          : "-"
 name                     : &name "Valentyn Melnychuk"
-description              : &description "Research assistant | Data Science Master Student at LMU Munich"
+description              : &description "PhD Candidate at LMU Munich"
 url                      : https://valentyn1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Valentyn1997/valentyn1997.github.io"
@@ -34,7 +34,7 @@ staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
+  filename               : comment-{@timestamp}ƒ
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Valentyn Melnychuk"
   avatar           : "profile.png"
-  bio              : "Research assistant | Data Science Master Student at LMU Munich"
+  bio              : "PhD Candidate at LMU Munich"
   location         : "Munich, Germany"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EMExrOMAAAAJ&hl=en"
   email            : "valik.melnichuk@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Valentyn_Melnychuk"
-  uri              :
+  uri              : "https://www.ai.bwl.uni-muenchen.de/team/research_team/valentyn_melnychuk/index.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - gems/jekyll-3.9.0/lib/site_template/_posts/0000-00-00-welcome-to-jekyll.markdown.erb
 keep_files:
   - .git
   - .svn
