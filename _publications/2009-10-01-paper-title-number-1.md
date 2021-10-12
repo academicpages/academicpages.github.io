@@ -7,6 +7,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 </br></br>
 <b>Collaborators</b> I am really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
+  [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/), 
   [Yonathan Efroni](https://sites.google.com/view/yonathan-efroni/home),
   [Pierre Gaillard](http://pierre.gaillard.me/),
   [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/),
