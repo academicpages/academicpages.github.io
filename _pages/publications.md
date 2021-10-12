@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 [Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
-</br></br>
-<b>Collaborators</b> I am really fortunate to be able to work with some of the amazing research minds: 
+
+
+<b>Collaborators. </b> I am really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
   [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/), 
   [Yonathan Efroni](https://sites.google.com/view/yonathan-efroni/home),
