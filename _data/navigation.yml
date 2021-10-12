@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: https://github.com/hafezgh/hafezgh.github.io/blob/master/files/Hafez%20Ghaemi_CV.pdf
+    url: /cv/cv.pdf
     
   - title: "Publications"
     url: https://scholar.google.com/citations?user=JCLX6oYAAAAJ&hl=en
