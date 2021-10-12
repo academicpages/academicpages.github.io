@@ -22,6 +22,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
   [Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/),
   [Praneeth Netrapalli](https://praneethnetrapalli.org/),
   [Rakesh Shivanna](https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en),
-  [Michal Valko](https://misovalko.github.io/),
+  [Michal Valko](https://misovalko.github.io/)
   (in alphabetical order).
 <!--[Nadav Merlis]()-->
