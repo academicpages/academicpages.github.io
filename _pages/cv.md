@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* MSc. Neural Information Processing, Eberhard Karls Universität, Tübingen, Germany, 2017
+* MSc. Neural Information Processing, Eberhard Karls University, Tübingen, Germany, 2017
 * BSc. Electrical Engineering, Electronics, Tabriz Azad University, Tabriz, Iran, 2012
 
 Work experience
 ======
-* 2018 - Present
-    * Research Engineer, Human Body Modeling
-    * Perceiving Systems Department, Michael Black, Max-Planck Institute for Intelligent Systems, Tübingen, Germany
+* 02.2018 – Present\
+  Research Engineer, Digital Humans in Motion \
+  Perceiving Systems Department, Michael Black, Max-Planck Institute for Intelligent Systems, Tübingen, Germany
     
-* Winter 2017: Research Assistant
-  * Student Assistant, Data Analysis of Recordings from Human Retinal Implants
-  * Zrenner Lab, Eye Clinic, University Hospital Tübingen, Tübingen, Germany
+* 12.2017 – 02.2018\
+  Student Assistant, Data Analysis of Recordings from Human Retinal Implants\
+  Zrenner Lab, Eye Clinic, University Hospital Tübingen, Tübingen, Germany
 
-* Summer 2017:
-    * Student Assistant, Human Motion Recording and Modeling
-    * AG. Prof. Martin Giese, Center for Integrative Neuroscience, Tübingen, Germany
+* 02.2017 – 12.2017\
+  Student Assistant, Human Motion Recording and Modeling\
+  AG. Prof. Martin Giese, Center for Integrative Neuroscience, Tübingen, Germany
     
-* 2016:
-    * Student Assistant, Data Analysis of Neuronal Recordings in Hippocampal Region of Fully Behaving Animals [Matlab]
-    * AG Dr. Burgalossi, Center for Integrative Neuroscience, Tübingen, Germany
+* 05.2016 – 12.2016\
+  Student Assistant, Data Analysis of Neuronal Recordings in Hippocampal Region of Fully Behaving Animals\
+  AG Dr. Burgalossi, Center for Integrative Neuroscience, Tübingen, Germany
 
-* 2013 - 2015
-    * R&D Engineer, Enterprise Resource Planning Software Development and Implementation, OpenERP
-    * SuperPipe International Co., Tehran, Iran
+* 04.2013 – 03.2015\
+  Software Engineer, Enterprise Resource Planning Software Development and Implementation, Odoo\
+  SuperPipe International Co., Tehran, Iran
        
 <!--Skills-->
 <!--======-->
