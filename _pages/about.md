@@ -17,19 +17,13 @@ Professor [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
 
 
 
-My PhD thesis is focused around compilation, synthesis and testing of modern database-backed programs.
-More broadly, I am interested in all formal methods for modeling and analysis of (classical or quantum) computer programs. 
+My PhD thesis is focused on analysis of concurrency in modern data-intensive programs. More broadly, I am interested in all mathematical methods for modeling, analysis and verification of (classical or quantum) computer programs. 
 
 
 
 
 I was previously a research intern at [Microsoft](https://www.microsoft.com/en-us/research/), working on a new program synthesis technique based on pre-trained language models. My work was supervised by Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
 
-
-## Service
-<ul> <li> 
-  2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
-  </li> </ul>
 
 
 ## Publications
@@ -38,7 +32,9 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     <br />
     <font size="3">
       (<b>Kia Rahmani</b>, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
-    </font> <br /> <font size="2">
+    </font> 
+    <br /> 
+    <font size="2">
        <a href="https://2021.splashcon.org/track/splash-2021-oopsla"> 
       [OOPSLA'21: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]</a>
       <br/>
@@ -77,10 +73,10 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
       [Tech Report]
       </a>
       <a href="https://www.youtube.com/watch?v=d9akLpsgeyg">
-      [OOPSLA]
+      [Talk @OOPSLA]
       </a>
       <a href="https://www.youtube.com/watch?v=XtL1oaITAuY">
-      [Midwest PL Summit]
+      [Talk @Midwest PL Summit]
       </a>
       <a href="/files/oopsla-19.pdf">
       [Slides]
@@ -88,6 +84,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     </font>
     </li>
 </ul>
+
 <ul>
     <li>Fine-grained Distributed Consistency Guarantees with Effect Orchestration
     <br />
@@ -99,19 +96,16 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     <a href= "https://dl.acm.org/citation.cfm?id=3194267"> 
       [PaPoC'18: Workshop on the Principles and Practice of Consistency for
       Distributed Data]</a >
-    <font size="1"> <br /> </font>
-   <a href="http://docs.lib.purdue.edu/cstech/1780/">
-     [Tech Report]
-   </a>
+     <br /> 
+   <a href="http://docs.lib.purdue.edu/cstech/1780/">  [Tech Report] </a>
    <a href="/files/papoc-18.pdf"> [Slides] </a>
-   </li> </ul>
+   </li>
+   </ul>
       
-      
-      
-      
-
-     
-
+## Service
+<ul> <li> 
+  2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
+  </li> </ul>
 
 
 
