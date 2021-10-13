@@ -29,7 +29,7 @@ which is widely used and provides a standard skeletal representation as well as 
 method works for arbitrary marker sets, while recovering
 soft-tissue dynamics and realistic hand motion. We evaluate
 MoSh++ and tune its hyperparameters using a new dataset
-of 4D body scans that are jointly recorded with markerbased mocap. The consistent representation of AMASS
+of 4D body scans that are jointly recorded with marker-based mocap. The consistent representation of AMASS
 makes it readily useful for animation, visualization, and
 generating training data for deep learning. Our dataset is
 significantly richer than previous human motion collections,
