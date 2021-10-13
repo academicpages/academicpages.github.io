@@ -57,7 +57,7 @@ ISRR 2019, Hanoi, Vietnam
 ` `  
 ` `  
 
-## Thesis
+# Thesis
 **Imitation Learning with Pixel-Wise Robotic End Effector Action Parametrization**  
 M.S. Thesis. November 2019.  
 Khoury College of Computer Sciences, Northeastern University, Boston, USA  
