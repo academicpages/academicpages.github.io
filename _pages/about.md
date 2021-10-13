@@ -99,6 +99,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
      <br /> 
    <a href="http://docs.lib.purdue.edu/cstech/1780/">  [Tech Report] </a>
    <a href="/files/papoc-18.pdf"> [Slides] </a>
+      </font>
    </li>
    </ul>
       
