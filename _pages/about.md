@@ -21,7 +21,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 **Equivariant Q Learning in Spatial Action Spaces**  
 **Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
 CoRL 2021, London, UK  
-[(Paper)](https://openreview.net/forum?id=IScz42A3iCI)
+[(Paper)](https://openreview.net/forum?id=IScz42A3iCI)[(Page)](https://pointw.github.io/equi_q_page/)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
 ` `  
 ` `  
 
