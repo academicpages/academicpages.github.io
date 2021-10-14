@@ -55,6 +55,7 @@ Data Visualization
 * [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 * [R Graph Gallery](https://www.r-graph-gallery.com/) for different figure templates in R
 * [Matplotlib Gallery](https://matplotlib.org/stable/index.html) for figure templates in Python
+* [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Mastering Shiny](https://mastering-shiny.org/index.html) by Hadley Wickham (Shiny is a popular data app)
 * [From Data to Viz](https://www.data-to-viz.com/) helps match graph types to data types
 * [FURY](https://fury.gl/) a Python library for scientific visualization

@@ -24,9 +24,9 @@ Education
 
 Work experience
 ======
-* Machine Learning Research Intern, [Max Planck Institute for Software System](https://www.mpi-sws.org/).                              Aug. 2021 – Present
-
 * [Data Science Instructor](https://www.coursera.org/instructor/you-lilian-cheng) for Guided Projects, Coursera Inc.                              Aug. 2020 – Present
+
+* Machine Learning Research Intern, [Max Planck Institute for Software System](https://www.mpi-sws.org/).                              Aug. 2021 – Oct. 2021
 
 * Instructor of Record, [Psychology Fundamentals](http://catalogue.uci.edu/allcourses/psych/), University of California Irvine.                              June 2021 – July 2021
   
