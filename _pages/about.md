@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD candidate in Economics at Brown University. I am on the job market in 2021-22.
+Hello! I am a PhD candidate in Economics at Brown University.
+I am on the job market in 2021-22.
 
 Primary Research Fields: public economics and development economics.
 
