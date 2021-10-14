@@ -5,7 +5,7 @@ author_profile: true
 ---
 * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Shaoting Zhang<br>
-  <i>Submitted to <b>IEEE Transaction on Medical Imaging</b><br>
+  <i>Submitted to <b>IEEE Transaction on Medical Imaging</b> (extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
  
 * <b>Few-Shot Domain Adaptation with Polymorphic Transformers</b> <br> 
