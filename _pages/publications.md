@@ -3,6 +3,11 @@ title: "Publications (* means equal contribution)"
 permalink: /publications/
 author_profile: true
 ---
+* <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
+  <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Shaoting Zhang<br>
+  <i>Submitted to <b>IEEE Transaction on Medical Imaging</b>.<br>
+ [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
+ 
 * <b>Few-Shot Domain Adaptation with Polymorphic Transformers</b> <br> 
    Shaohua Li, Xiuchao Sui, Huazhu Fu, <b>Xiangde Luo</b>, Xinxing Xu, Yong Liu, Daniel Tin, Rick Siow Mong Goh<br>
   <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (accepted)</b>.<br>
