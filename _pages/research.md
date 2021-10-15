@@ -21,6 +21,8 @@ Active Research
 
 "The problem has existed over endless years: Racialized difference in commuting, 1980-2019" (with [Devin Michelle Bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Draft coming soon!*
 
+  * [*Slides!*](https://cseveren.github.io/files/bfrs_presentation_202110_General.pdf) (preliminary results, please do not cite)
+
 "Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
 
 "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
@@ -33,14 +35,10 @@ Publications
 
 ### Peer-Reviewed Publications in Economics
 
-"[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)".
+"[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)", (final pre-publication draft). Conditional Accepted at *Review of Economics and Statistics*.
 
-  * **FINAL** pre-publication draft August 2021.
-  * Conditionally accepted at the *Review of Economics and Statistics*.
+"[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]). Conditional Accept at *AEJ: Applied*. [Recentish slides](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf), [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
 
-"[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]), [(recentish slides)](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf).
-
-  * Conditional Accept at *AEJ: Applied*. [Slightly older NBER WP 26091](https://www.nber.org/papers/w26091).
   * Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml).
 
 "[Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020).
