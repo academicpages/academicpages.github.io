@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Pranjal Drall"
   avatar           : "profile.png"
-  bio              : "Predoc at EPIC"
+  bio              : "Predoc at UChicago EPIC"
   location         : "Chicago, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
