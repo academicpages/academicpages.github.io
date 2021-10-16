@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Pranjal Drall"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Predoc at EPIC"
+  location         : "Chicago, IL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "pranjal-drall"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "PranjalDrall"
   vine             :
   weibo            :
   xing             :
@@ -215,35 +215,35 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
