@@ -85,9 +85,9 @@ author:
   bio              : "Predoc at UChicago EPIC"
   location         : "Chicago, IL"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "pdrall@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
