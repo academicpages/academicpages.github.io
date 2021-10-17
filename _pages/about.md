@@ -25,7 +25,7 @@ Updates
 	</li>
 	<li> <b>[Mar 2021]</b> Our paper about side-channel attacks on stylus pencils is accepted to IMWUT-UbiComp 2021!
 	</li>
-	<li> <b>[September 2020]</b> Our work on secure face liveness detection on commodity smartphones to appear in MobiCom 2020!
+	<li> <b>[Sep 2020]</b> Our work on secure face liveness detection on commodity smartphones to appear in MobiCom 2020!
 	</li>
 	<li> <b>[July 2020]</b> Our work on context addressing for camera-to-human communication to appear in InfoCom 2020!
 	</li>
