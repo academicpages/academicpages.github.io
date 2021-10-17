@@ -1,6 +1,6 @@
 # main links links
 main:
-   - title: "About"
+  - title: "About"
     url: /about/
   
   - title: "Publications"
@@ -15,7 +15,7 @@ main:
   - title: "Resources"
     url: /resources/
         
-  #- title: "EMBODY Research Group"
-  #  url: https://embody-rg.github.io
+  - title: "EMBODY Research Group"
+    url: https://embody-rg.github.io
     
   
