@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 
 ---
@@ -18,7 +18,7 @@ In this randomized vignette experiment, we asked 4,000 respondents through a You
 
 **The Impact of Involuntary Outpatient Committment Laws on Mental Health Outcomes**
 (with Ian Ayres)
-We aim to measure how changes in the Involuntary Outpatient Committment (sometimes known as Assissted Outpatient Laws, AOT) can impact the health outcomes of suicide rates. AOT laws rely on a standard of dangerousness (although this varies by state) to committ individuals to outpatient facilities for a few days. In 1971, Florida passed the "Baker Act" which allows the involuntary institutionalization and examination of an individual by judges, law enforcement officials, physicians, or mental health professionals. Similar laws have been enacted in 43 states since then. These policy changes offer an opportunity to measure the impact of involuntary committment on health outcomes, especially suicide and gun violence. We also utilize variation in mental health capacity within states to measure the heterogenous impacts of these laws. 
+We aim to measure how changes in the Involuntary Outpatient Committment (sometimes known as Assissted Outpatient Laws, AOT) can impact the health outcomes of suicide rates. AOT laws rely on a standard of dangerousness (although this varies by state) to committ individuals to outpatient facilities for a few days. In 1971, Florida passed the "Baker Act" which allows the involuntary institutionalization and examination of an individual by judges, law enforcement officials, physicians, or mental health professionals. Similar laws have been enacted in 43 states since then. These policy changes offer an opportunity to measure the impact of involuntary committment on health outcomes, especially suicide and gun violence. We also utilize variation in mental health capacity within states to measure the heterogenous impacts of these laws.
 
 ## Publications
 Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectures Using Survey Data, *3 Quinnipiac Law Review 387 (2021)*, (with Ian Ayres, Spurthi Jonnalagadda and, Frederick Vars).
