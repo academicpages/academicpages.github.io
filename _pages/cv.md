@@ -14,9 +14,9 @@ Education
 * B.S. in Computer Science, Beijing University of Posts and Telecommunications, 2023 (expected)
 
 [//]: # ( * B.S. in GitHub, GitHub University, 2012)
-[//]: # (  * M.S. in Jekyll, GitHub University, 2014 )
-[//]: # (  * Ph.D in Version Control Theory, GitHub University, 2018 (expected) )
-
+[//]: # ( * M.S. in Jekyll, GitHub University, 2014 )
+[//]: # ( * Ph.D in Version Control Theory, GitHub University, 2018 (expected) )
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -59,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
