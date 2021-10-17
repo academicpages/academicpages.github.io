@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /publications/
 author_profile: true
 
 ---
@@ -18,7 +18,7 @@ author_profile: true
 
 **[The Impact of Involuntary Outpatient Committment Laws on Mental Health Outcomes] (Very preliminary)**
 (with Ian Ayres)
-**Summary:** *We aim to measure how changes in the Involuntary Outpatient Committment (sometimes known as Assissted Outpatient Laws, AOT) can impact the health outcomes of suicide rates. AOT laws rely on a standard of dangerousness (although this varies by state) to committ individuals to outpatient facilities for a few days. In 1971, Florida passed the "Baker Act" which allows the involuntary institutionalization and examination of an individual by judges, law enforcement officials, physicians, or mental health professionals. Similar laws have been enacted in 43 states since then. These policy changes offer an opportunity to measure the impact of involuntary committment on health outcomes, especially suicide and gun violence. We also utilize variation in mental health capacity at the county level to measure the heterogenous impacts of these laws.*
+**Summary:** *We aim to measure how changes in the Involuntary Outpatient Committment (sometimes known as Assissted Outpatient Laws, AOT) can impact the health outcomes of suicide rates. AOT laws rely on a standard of dangerousness (although this varies by state) to committ individuals to outpatient facilities for a few days. In 1971, Florida passed the "Baker Act" which allows the involuntary institutionalization and examination of an individual by judges, law enforcement officials, physicians, or mental health professionals. Similar laws have been enacted in 43 states since then. These policy changes offer an opportunity to measure the impact of involuntary committment on health outcomes, especially suicide and gun violence. We also utilize variation in mental health capacity at the county level to measure the heterogenous impacts of these law*
 
 ## Inactive Projects
 
