@@ -1,5 +1,8 @@
 # main links links
 main:
+   - title: "About"
+    url: /
+  
   - title: "Publications"
     url: /publications/
 
@@ -9,14 +12,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Resources"
+    url: /resources/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "EMBODY Research Group"
+    url: https://embody-rg.github.io
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
