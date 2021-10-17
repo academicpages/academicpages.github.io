@@ -9,7 +9,7 @@ author_profile: true
 
 **Can Supply Shocks facilitate Price Coordination? Evidence from the Airline Industry**
 
-I start with a descriptive analysis of the Boeing 737 MAX grounding. I show that ticket prices increased significantly on affected routes using a differences-in-difference event study framework. The price increases are primarily driven by Southwest (the low cost carrier) while the remaining major airlines (AA, Delta, and United) reduced prices in response to the shock. I start by measuring the welfare effects of this supply shock by estimating demand. I then focus on the conduct angle--can the rival airline prices increases be explained by Nash-Bertrand? I use Ciliberto and Williams' (2014) conduct tests to answer this question. Please see this [proposal]({{https://pranjal-drall.github.io}}/files/601_proposal.pdf) for more details. 
+I conduct a descriptive analysis of the effects of the Boeing 737 MAX grounding on airline ticket prices. I show that prices increased significantly on affected routes using an differences-in-difference event study framework. The price increases are primarily driven by Southwest (the low cost carrier) while the remaining major airlines (AA, Delta, and United) reduced prices in response to the shock. I start by measuring the welfare effects of this supply shock by estimating demand. I will then focus on the conduct angle--can the rival airline prices increases be explained by Nash-Bertrand? I plan to use Ciliberto and Williams' (2014) conduct tests to answer this question. Please see this [proposal]({{https://pranjal-drall.github.io}}/files/601_proposal.pdf) for more details.
 
 *Previous Version:* This paper was originally written for Eric Ohrn's senior seminar in Microeconometrics at Grinnell. It was titled "Market Power in Airlines: Evidence from the Boeing 737 MAX Grounding" and it won the Midwest Economics Association's Best Undergraduate Paper Prize in 2020. This project has *substntially* changed since then but [here]({{https://pranjal-drall.github.io}}/files/airlines.pdf) is the original draft that won the prize.
 
@@ -26,11 +26,11 @@ Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectu
 
 ## Inactive Projects
 
-**Trade Liberalization and Pollution: Evidence from the China Shock [(Draft)]({{https://pranjal-drall.github.io}}/files/pollution.pdf)**
+**Trade Liberalization and Pollution: Evidence from the China Shock** [(Draft)]({{https://pranjal-drall.github.io}}/files/pollution.pdf)
 
 This paper exploits an exogenous shock to import competition, the U.S. granting China Permanent National Trade Relations (PNTR) in 2000, to determine the effect of trade liberalization on industrial pollution. I find that increased geographic exposure to PNTR significantly reduced industrial pollution at the county level. A one unit standard deviation increase in exposure reduces PM2.5 concentration by 0.7 micrograms per cubic meter per year relative to counties that aren’t exposed. I find similar results for NO2 and SO2 concentration. These results confirm a classic prediction of trade models–that increased trade (import competition) reduces domestic pollution. They also help explain the decline in aggregate pollution from 1990-2015.
 
-**The Impact of Replacement Stadiums on Property Values: A CPUMA Geographic Level Approach [(Draft)]({{https://pranjal-drall.github.io}}/files/stadiums.pdf)** (with Nola Agha)
+**The Impact of Replacement Stadiums on Property Values: A CPUMA Geographic Level Approach** (with Nola Agha) [(Draft)]({{https://pranjal-drall.github.io}}/files/stadiums.pdf)
 
 Billions of dollars are spent annually constructing new facilities for professional sport teams. In recent years, a good portion of that spending is for facilities that replace existing facilities in the same city. This paper examines the role of new sporting facilities as local amenities that contribute to the value of housing prices. It investigates facilities opened between 2005 and 2017 in the top five professional leagues in the United States by utilizing a Consistent Public Use Microdata Area (CPUMA) to capture the local effect of a team and adjacent effects in bordering CPUMAs. It finds no significant effects of construction years or opening years on housing values in either the main or surrounding CPUMAs. The league for which the facility was built can be significantly positive or negative, with the effect changing depending on the specification.
 
