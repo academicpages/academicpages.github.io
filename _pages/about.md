@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year doctoral student in [School of Information](https://ischool.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I am advised by Drs. [Ahmer Arif](https://ahmerarif.com/), [Angela Smith](https://angeladrsmith.com/), and [Kenneth Fleischmann](https://www.ischool.utexas.edu/people/people-details?PersonID=220). I am a mixed-methods researcher who focuses on human-centered design of technology and learning environments that meets the need of marginalized voices.
+Hi! I am a first-year doctoral student in [School of Information](https://ischool.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I am advised by Drs. [Ahmer Arif](https://ahmerarif.com/), [Angela Smith](https://angeladrsmith.com/), and [Kenneth Fleischmann](https://www.ischool.utexas.edu/people/people-details?PersonID=220). I am a mixed-methods researcher who focuses on human-centered design of technology, media and learning environments that meets the need of marginalized voices.
 
 I obtained my B.Eng. in Information Technology from University of Mumbai, M.S. in Data Science and M.Ed. in Learning Sciences from [Indiana University Bloomington](https://www.indiana.edu/). 
 
