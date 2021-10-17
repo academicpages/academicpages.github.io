@@ -25,6 +25,8 @@ Updates
 	</li>
 	<li> <b>[Mar 2021]</b> Our paper about side-channel attacks on stylus pencils is accepted to IMWUT-UbiComp 2021!
 	</li>
+	<li> <b>[September 2020]</b> Our work on secure face liveness detection on commodity smartphones to appear in MobiCom 2020!
+	</li>
 	<li> <b>[July 2020]</b> Our work on context addressing for camera-to-human communication to appear in InfoCom 2020!
 	</li>
 	<li> <b>[June 2020]</b> Started internship at Amazon Robotics as Applied Scientist with the Machine Learning Team!
@@ -101,7 +103,15 @@ Professional Activity
 </ul>
 <ul>
 	<li>
-		External Reviewer, Annual Computer Security Applications Conference (ACSAC), 2021
+		External Reviewer
+		<ul>
+			<li>
+				Annual Computer Security Applications Conference (ACSAC), 2021
+			</li>
+			<li>
+				Network and Distributed System Security (NDSS), 2021
+			</li>
+		</ul>
 	</li>
 </ul>
 
