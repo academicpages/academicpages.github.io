@@ -84,10 +84,10 @@ author:
   avatar           : "gui-headshot.jpg"
   bio              : "philosophy + embodied cognitive science + ecological psychology"
   location         : 
-  employer         : "Technische Universität Berlin (Germany)"
+  employer         : "Technische Universität Berlin"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cA03b8QAAAAJ&hl=en"
-  email            :
+  email            : "gui.cogsci@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  academia         : "https://tu-berlin.academia.edu/GuiSanches"
 
 
 # Reading Files
