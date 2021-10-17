@@ -121,7 +121,7 @@ Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mi
 *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://arxiv.org/pdf/2009.12495.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/b04ce7e4366f9e5f5522d9f5a6c79fa2e0aa75ac/_publications/publication.bib#L64-L69)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L64-L69)
 
 + <b style="color:blue">[ICTAI-2020] </b> \*Boyuan Feng, \***Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding.  \*: equal contribution.<br/>
 ***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization.***
