@@ -15,4 +15,4 @@ I am pre-doctoral fellow at the [Energy Policy Institute at the University of Ch
 
 Prior to EPIC, I was a Tobin pre-doctoral fellow at Yale Law School where I worked with Ian Ayres on topics such as corporate finance, behavioral economics, and gun policy. I graduated from Grinnell College with double major in economics and math in 2020 where I also played tennis.  
 
-Click [here]({{https://pranjal-drall.github.io}}/files/cv_pd.pdf) for my CV. *See [research](https://pranjal-drall.github.io/research/) page for active projects.* Please feel free to reach out to me at pdrall@uchicago.edu.  
+Click [here]({{https://pranjal-drall.github.io}}/files/cv_pd.pdf) for my CV. See [research](https://pranjal-drall.github.io/publications/) page for active projects. * Please feel free to reach out to me at pdrall@uchicago.edu.  
