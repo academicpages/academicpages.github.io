@@ -12,7 +12,7 @@ author_profile: false
 | Th, Sep 30, 2021 | 1:30pm - 2:30pm |  |  |  
 | Th, Oct 7, 2021 | 1:30pm - 2:30pm | Russell Avdek |An algebraic generalization of Giroux's criterion| [https://umn.zoom.us/j/98547599523](https://umn.zoom.us/j/98547599523)
 | Th, Oct 14, 2021 | 1:30pm - 2:30pm |  |  |  | 
-| Th, Oct 21, 2021 | 1:30pm - 2:30pm |Jie Min ||  
+| Th, Oct 21, 2021 | 1:30pm - 2:30pm |Jie Min |Moduli space of symplectic log Calabi-Yau divisors and torus fibrations|  [https://umn.zoom.us/j/98340833451]( https://umn.zoom.us/j/98340833451)
 | Th, Oct 28, 2021 | 1:30pm - 2:30pm | Demetre Kazaras |  |  
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun |  |  
 | Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  |  |  
@@ -25,3 +25,7 @@ author_profile: false
 ## Abstracts
 * Russell Avdek
   * Let S be a convex hypersurface with neighborhood N(S) inside of some contact manifold M. When dim(M)=3, Giroux's criterion provides a user-friendly way of determining exactly when N(S) is tight in terms of simple closed curves in S. It appears very difficult to state a generalization to the case dim(M)>3 in terms of topological data. Instead, we'll describe an exact criterion for "algebraic tightness" which is applicable in all dimensions using holomorphic curves. The proof of our result combines obstruction bundle gluing and Kuranishi techniques.
+
+* Jie Min
+  * Abstract: Symplectic log Calabi-Yau divisors are the symplectic analogue of anti-canonical divisors in algebraic geometry. We study the rigidity of such divisors. In particular we prove a Torelli type theorem and form an equivalent moduli space of homology configurations which is more suitable for counting. We also discuss their relations to toric actions and almost toric fibrations, reprove a finiteness result and an upper bound for toric actions by Karshon-Kessler-Pinsonnault, and prove a new stability result.
+  
