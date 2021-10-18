@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Chunkit Lau's personal homepage.
+I am an undergraduate at [Beijing University of Posts and Telecommunications(BUPT)](http://www.bupt.edu.cn/), where my major is computer science.
 
-This page is under construction.
+At BUPT I am working on mobile system, where I am advised by [Mengwei Xu](https://xumengwei.github.io/).
+
