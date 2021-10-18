@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nipun Ramani / Worhsipper of GPU"
+title                    : "Nipun Ramani / Worshipper of GPU"
 title_separator          : "-"
 name                     : &name "Nipun Ramani"
 description              : &description "Stand on the shoulders on giants."
-url                      : https://bhayanakmoth.github.io/grayskull/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bhayanakmoth.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "bhayanakmoth/grayskull"
+repository               : "BhayanakMoth/grayskull"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ramaninipun"
+  twitter          : "ramaninipun"
   vine             :
   weibo            :
   xing             :
