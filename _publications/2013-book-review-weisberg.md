@@ -1,7 +1,7 @@
 ---
 title: "Review of Michael Weisberg's _Simulation and Similarity: Using Models to Understand the World_"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2013-book-review-weisberg
 excerpt: 'Book Review.'
 date: 2013
 venue: 'Metapsychology, Volume 17, Issue 40'
