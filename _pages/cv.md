@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ Education
 * MSc. Neural Information Processing, Eberhard Karls University, Tübingen, Germany, 2017
 * BSc. Electrical Engineering, Electronics, Tabriz Azad University, Tabriz, Iran, 2012
 
-Work experience
+Work Experience
 ======
 * 02.2018 – Present\
   Research Engineer, Digital Humans in Motion \
