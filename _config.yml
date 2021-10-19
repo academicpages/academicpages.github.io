@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Predoc at UChicago EPIC"
   location         : "Chicago, IL"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "pdrall@uchicago.edu"
+  pubmed           : ""
+  googlescholar    : ""
+  email            : ""
   github           : "pranjal-drall"
   twitter          : "PranjalDrall"
 
