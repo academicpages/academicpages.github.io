@@ -10,6 +10,6 @@ citation: 'Sanches de Oliveira, Guilherme (2012). &quot;Interaction and Mental S
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.academia.edu/5008768/Interaction_and_Mental_State_Attributions_Social_Aspects_of_Folk_Psychology)
 
 Recommended citation: Sanches de Oliveira, G. (2012). Interaction and Mental State Attributions: Social Aspects of Folk Psychology.  C. Caorsi, R. Navia, P. Melogno (Eds.), _Actas  del Primer Congreso de la Sociedad Filosofica del Uruguay_.  ISSN: 1688-9649.
