@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my attempt at a personal blog. Hello!
+This is my attempt at a personal blog. Hello World!
 
 I am a Deep Learning Research Engineer at Deepen AI, an autonomous driving tooling company focusing on annotation and callibration capabilities powered by AI models and Computational Geometry.
 
