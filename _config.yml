@@ -84,12 +84,13 @@ author:
   avatar           : "myphoto.jpg"
   bio              : "Deep Learning Research at Deepen AI  | ex-Microsoft"
   location         : "Hyderabad, India"
-  employer         : "Deepen AI"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Iupv_YUAAAAJ&hl=en"
   email            : "menonsandu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://oneortworesearchdigest.blogspot.com/"
+  cv_link          : http://127.0.0.1:4000/files/Sandeep_Menon_CV.pdf
   bitbucket        :
   codepen          :
   dribbble         :

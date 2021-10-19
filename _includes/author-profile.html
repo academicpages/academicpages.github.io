@@ -28,8 +28,11 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+      {% if author.cv_link %}
+        <li><a href="{{ author.cv_link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].cv_label | default: "Curriculum Vitae" }}</a></li>
+      {% endif %}
       {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Blog" }}</a></li>
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
