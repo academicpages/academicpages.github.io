@@ -20,18 +20,20 @@ Journal Publications
 Conference Publications
 ------
 
+* Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Jun. 2021. [[URL](https://arxiv.org/abs/2106.03194)] <b>To appear</b>
+
+* Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, May 2021. [[URL](https://arxiv.org/abs/2110.03623] <b>To appear (Invited Tutorial Paper)</b>
+
 * <b>Alexander Davydov</b>, Derrick W. Yeo, and Yancy Diaz-Mercado. “Low-Mobility Atmospheric Sensing via Multi-Vehicle Adaptive Coverage Control,” <i>AIAA AVIATION 2020 FORUM</i>, Jun. 2020. [[DOI](https://doi.org/10.2514/6.2020-2821)]
 
 Preprints and Publications Under Review
 ------
 
-* Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Jun. 2021. [[URL](https://arxiv.org/abs/2106.03194)] <b>Submitted</b>
-
-* Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, May 2021. <b>Submitted (Invited Tutorial Paper)</b>
+* <b>Alexander Davydov</b>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Contractivity of Recurrent Neural Networks,” <i>American Control Conference</i>, Oct. 2021. [[URL](https://arxiv.org/abs/2110.08298)] <b>Submitted</b>
 
 * Saber Jafarpour, <b>Alexander Davydov</b>, and Francesco Bullo. “Non-Euclidean Contraction Theory for Monotone and Positive Systems,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2104.01321)] <b>Submitted</b>
 
-* <b>Alexander Davydov</b>, Saber Jafarpour, and Francesco Bullo. “Non-Euclidean Contraction Theory via Semi-Inner Products,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2103.12263)] <b>Submitted</b>
+* <b>Alexander Davydov</b>, Saber Jafarpour, and Francesco Bullo. “Non-Euclidean Contraction Theory for Robust Nonlinear Stability,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2103.12263)] <b>Submitted</b>
 
 
 <sup>*</sup> -- These authors contributed equally
