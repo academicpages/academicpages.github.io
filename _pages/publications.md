@@ -7,7 +7,7 @@ author_profile: true
 
 <html>
 <body>
-<h2 style="color:DodgerBlue;">Selected Publications:</h2>
+<h2 style="color:DodgerBlue;"><a id="my_sel_pubs">Selected Publications:</a></h2>
 <hr style="color:DodgerBlue;">
 
 <ul style="list-style-type:none;">
