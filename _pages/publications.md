@@ -5,21 +5,58 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h4>Selected Publications</h4>
-
+<h3 style="color:DodgerBlue;">Selected Publications: </h3>
+<hr>Optimal Algorithms for Stochastic Contextual Preference Bandits
 <dl>
-  <dt>  Optimal Algorithms for Stochastic Contextual Preference Bandits</dt>
-  <dd>   Aadirupa Saha</dd>
-  <dd>   NeurIPS 2021</dd>
+  <dt>  [Dueling Bandits with Adversarial Sleeping]()</dt>
+  <dd>  Aadirupa Saha, Pierre Gaillard</dd>
+  <dd>  (To appear)In Neural Information Processing Systems, NeurIPS 2021</dd>
+  <dd>  [Arxiv Version]()
   
-  <dt>Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</dt>
+  <dt>  [Optimal Algorithms for Stochastic Contextual Dueling Bandits]()</dt>
+  <dd>  Aadirupa Saha</dd>
+  <dd>  (To appear)In Neural Information Processing Systems, NeurIPS 2021</dd
+    
+  <dt>  []()</dt>
+  <dd>  Aadirupa Saha</dd>
+  <dd>  </dd>
+  <dd>  [Arxiv Version]()    
+    
+  <dt>  []()</dt>
+  <dd>  Aadirupa Saha</dd>
+  <dd>  </dd>
+  <dd>  [Arxiv Version]()    
+    
+  <dt> [Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization]()</dt>
   <dd>- Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain</dd>
+  <dd>  </dd>
+  <dd>  [Arxiv Version]()  
+  
+  <dt>  []()</dt>
+  <dd>  Aadirupa Saha</dd>
+  <dd>  </dd>
+  <dd>  [Arxiv Version]()    
+    
+  <dt>  []()</dt>
+  <dd>  Aadirupa Saha</dd>
+  <dd>  </dd>
+  <dd>  [Arxiv Version]()    
+  
+  <dt>  []()</dt>
+  <dd>  Aadirupa Saha</dd>
+  <dd>  </dd>
+  <dd>  [Arxiv Version]()    
+    
+  <dt>  []()</dt>
+  <dd>  Aadirupa Saha</dd>
+  <dd>  </dd>
+  <dd>  [Arxiv Version]()    
+
 </dl>
 
 
 
-[Full Publication List (Yearwise)](https://www.microsoft.com/en-us/research/people/aasa/publications/)
-
+[Complete List of Publications](https://www.microsoft.com/en-us/research/people/aasa/publications/) (Yearwise)
 
 
 <b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
