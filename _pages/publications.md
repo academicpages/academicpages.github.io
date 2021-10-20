@@ -8,7 +8,6 @@ author_profile: true
 <html>
 <body>
 <h2 style="color:DodgerBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
-<hr style="color:black;">
 
 <ul style="margin:2;padding:0">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank"> [Arxiv Version]</a>
@@ -49,10 +48,14 @@ author_profile: true
 </ul>
 </body>
 </html>
-  
+ 
+<hr style="color:black;"> 
+ 
 <h2 style="color:DodgerBlue;"><a id="my_full_pubs">Full List of Publications:</a></h2>
-[Yearwise](https://www.microsoft.com/en-us/research/people/aasa/publications/) 
-[Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
+[[Yearwise]](https://www.microsoft.com/en-us/research/people/aasa/publications/) 
+[[Google Scholar]](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
+<hr style="color:black;">
+[[arXiv]](https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1)
 <hr style="color:black;">
 
 <b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
