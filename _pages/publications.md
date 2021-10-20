@@ -57,7 +57,7 @@ A persistent criticism of radical embodied cognitive science is that it will be 
 
 <br><br>
 
-### Representationalism is a Dead End<br>*Synthese*, 2021 (online since 2018).  ([Link](https://link.springer.com/article/10.1007/s11229-018-01995-9)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130"> 
+## Representationalism is a Dead End<br>*Synthese*, 2021 (online since 2018).  ([Link](https://link.springer.com/article/10.1007/s11229-018-01995-9)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130"> 
 > Representationalism—the view that scientific modeling is best understood in representational terms—is the received view in contemporary philosophy of science. Contributions to this literature have focused on a number of puzzles concerning the nature of representation and the epistemic role of misrepresentation, without considering whether these puzzles are the product of an inadequate analytical framework. The goal of this paper is to suggest that this possibility should be taken seriously. The argument has two parts, employing the "can't have" and "don't need" tactics drawn from philosophy of mind. On the one hand, I propose that representationalism doesn't work: different ways to flesh out representationalism create a tension between its ontological and epistemological components and thereby undermine the view. On the other hand, I propose that representationalism is not needed in the first place—a position I articulate based on a pragmatic stance on the success of scientific research and on the feasibility of alternative philosophical frameworks. I conclude that representationalism is untenable and unnecessary, a philosophical dead end. A new way of thinking is called for if we are to make progress in our understanding of scientific modeling.
 >
 > KEYWORDS: scientific modeling; representation; epistemology of science; pragmatism 
@@ -66,7 +66,7 @@ A persistent criticism of radical embodied cognitive science is that it will be 
 
 <br><br>
 
-### Experimentation, “models” and the turn to practice.<br>*Metascience*, 2020. ([Link](https://link.springer.com/article/10.1007/s11016-020-00564-6)) <img align="right" src="https://gui-cogsci.github.io/images/metascience.jpg" width="130">
+## Experimentation, “models” and the turn to practice.<br>*Metascience*, 2020. ([Link](https://link.springer.com/article/10.1007/s11016-020-00564-6)) <img align="right" src="https://gui-cogsci.github.io/images/metascience.jpg" width="130">
  > Review of Isabelle F. Peschard and Bas C. Van Fraassen (Eds.): The experimental side of modeling. University of Minnesota Press, 2018, 336pp, $40 PB<br><br> 
  >> Sanches de Oliveira, G. (2020). Experimentation, “models” and the turn to practice. *Metascience* 29, 395–398. DOI: 10.1007/s11016-020-00564-6|
 
