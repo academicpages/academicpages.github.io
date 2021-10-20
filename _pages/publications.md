@@ -37,7 +37,7 @@ a:active {
 <body>
 <h2 style="color:FireBrick;"><a id="my_sel_pubs">Selected Papers:</a></h2>
 
-<ul style="margin:2;padding:1">
+<ul style="margin:1;padding:1">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
@@ -83,25 +83,25 @@ a:active {
   <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"> [arXiv]</a>
 
 <hr style="color:black;">
-
+" target="_blank"></a>
 <b><p style="color:FireBrick">Collaborators.</p> </b> I have been really fortunate to be able to work with some of the amazing research minds: 
-  [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
-  [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/), 
-  [Yonathan Efroni](https://sites.google.com/view/yonathan-efroni/home),
-  [Pierre Gaillard](http://pierre.gaillard.me/),
-  [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/),
-  [Shubham Gupta](https://scholar.google.co.in/citations?user=Nt-tK2UAAAAJ&hl=en),
-  [Katja Hofmann](https://www.microsoft.com/en-us/research/people/kahofman/),
-  [Prateek Jain](https://www.prateekjain.org/),
-  [Sumeet Katariya](https://sumeetsk.github.io/),
-  [Tomer Koren](https://tomerkoren.github.io/),
-  [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/),
-  [Shie Mannor](https://webee.technion.ac.il/Sites/People/shie/),
-  [Yishay Mansour](https://www.tau.ac.il/~mansour/),
-  [Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/),
-  [Praneeth Netrapalli](https://praneethnetrapalli.org/),
-  [Rakesh Shivanna](https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en),
-  [Michal Valko](https://misovalko.github.io/)
+   <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
+   <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
+   <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
+   <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
+   <a href="https://ece.iisc.ac.in/~aditya/" target="_blank">Aditya Gopalan</a>,
+   <a href="https://scholar.google.co.in/citations?user=Nt-tK2UAAAAJ&hl=en" target="_blank">Shubham Gupta</a>,
+   <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>,
+   <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
+   <a href="https://sumeetsk.github.io/" target="_blank"Sumeet Katariya></a>,
+   <a href="https://tomerkoren.github.io/" target="_blank"Tomer Koren></a>,
+   <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
+   <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
+   <a href="https://www.tau.ac.il/~mansour/" target="_blank">Yishay Mansour</a>,
+   <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
+   <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
+   <a href="https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en" target="_blank">Rakesh Shivanna</a>,
+   <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>
   (in alphabetical order).
 <!--[Nadav Merlis]()-->
 </body>
