@@ -3,6 +3,16 @@ title: ""
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 
+<h2>Selected Publications</h2>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+
+</br></br>
 [Full Publication List (Yearwise)](https://www.microsoft.com/en-us/research/people/aasa/publications/)
 </br></br>
 <b>Collaborators</b> I am really fortunate to be able to work with some of the amazing research minds: 
