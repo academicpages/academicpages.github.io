@@ -83,8 +83,8 @@ a:active {
   <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"> [arXiv]</a>
 
 <hr style="color:black;">
-" target="_blank"></a>
-<b><p style="color:FireBrick">Collaborators.</p> </b> I have been really fortunate to be able to work with some of the amazing research minds: 
+
+<b><font color="FireBrick">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
    <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
