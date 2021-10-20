@@ -18,36 +18,36 @@ author_profile: true
   <dd>  Aadirupa Saha</dd>
   <dd>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</dd>
   
-  <dt>  [Dueling Convex Optimization](http://proceedings.mlr.press/v139/saha21b.html)</dt>
+  <dt>  <a href="http://proceedings.mlr.press/v139/saha21b.html">Dueling Convex Optimization</a></dt>
   <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
   <dd>  In International Conference on Machine Learning, ICML 2021</dd>
   
-  <dt>  [Adversarial Dueling Bandits](http://proceedings.mlr.press/v139/saha21a.html)</dt>
+  <dt>  <a href="http://proceedings.mlr.press/v139/saha21a.html">Adversarial Dueling Bandits</a></dt>
   <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
   <dd>  In International Conference on Machine Learning, ICML 2021</dd>
   <dd>  <a href="https://arxiv.org/abs/2010.14563">Arxiv Version</a></dd> 
     
-  <dt> [Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization](http://proceedings.mlr.press/v139/saha21c.html)</dt>
+  <dt> <a href="http://proceedings.mlr.press/v139/saha21c.html">Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</a></dt>
   <dd>- Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain</dd>
   <dd>  In International Conference on Machine Learning, ICML 2021</dd>
   <dd>  <a href="https://arxiv.org/abs/2102.07387">Arxiv Version</a></dd>
     
-  <dt>  [From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model](https://proceedings.mlr.press/v119/saha20b.html)</dt>
+  <dt>  <a href="https://proceedings.mlr.press/v119/saha20b.html">From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model</a></dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In International Conference on Machine Learning, ICML 2020</dd>
   <dd>  <a href="https://arxiv.org/abs/1903.00558">Arxiv Version</a></dd>
     
-  <dt>  [Best-item Learning in Random Utility Models with Subset Choices](https://proceedings.mlr.press/v108/aadirupa-saha20a.html)</dt>
+  <dt>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html">Best-item Learning in Random Utility Models with Subset Choices</a></dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</dd>
   <dd>  <a href="https://arxiv.org/abs/2002.07994">Arxiv Version</a></dd>
     
-  <dt>  [Combinatorial Bandits with Relative Feedback](http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback)</dt>
+  <dt>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback">Combinatorial Bandits with Relative Feedback</a></dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In Neural Information Processing Systems, NeurIPS 2019</dd>
   <dd>  <a href="https://arxiv.org/abs/1903.00543">Arxiv Version</a></dd>   
     
-  <dt>  [PAC Battling Bandits in the Plackett-Luce Model](http://proceedings.mlr.press/v98/saha19a.html)</dt>
+  <dt>  <a href="http://proceedings.mlr.press/v98/saha19a.html">PAC Battling Bandits in the Plackett-Luce Model</a></dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In Algorithmic Learning Theory, ALT 2019</dd>
   <dd>  <a href="https://arxiv.org/abs/1808.04008">Arxiv Version</a></dd> 
