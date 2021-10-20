@@ -52,8 +52,8 @@ author_profile: true
 <hr style="color:black;"> 
  
 <h2 style="color:DodgerBlue;"><a id="my_full_pubs">Full List of Publications:</a></h2>
-[[Yearwise]](https://www.microsoft.com/en-us/research/people/aasa/publications/) &nbsp &nbsp
-[[Google Scholar]](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)&nbsp &nbsp
+[[Yearwise]](https://www.microsoft.com/en-us/research/people/aasa/publications/) &nbsp;&nbsp;
+[[Google Scholar]](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)&nbsp;&nbsp;
 [[arXiv]](https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1)
 
 <hr style="color:black;">
