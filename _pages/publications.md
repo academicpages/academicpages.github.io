@@ -9,25 +9,25 @@ author_profile: true
 <head>
 <style>
 a:link {
-  color: green;
+  color: RoyalBlue;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: SkyBlue;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: RoyalBlue;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: DarkRed;
   background-color: transparent;
   text-decoration: underline;
 }
