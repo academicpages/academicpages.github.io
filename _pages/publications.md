@@ -10,7 +10,7 @@ author_profile: true
 <h2 style="color:DodgerBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
 <hr style="color:black;">
 
-<ul style="margin:1;padding:0">
+<ul style="margin:2;padding:0">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
@@ -19,7 +19,7 @@ author_profile: true
   <br>  Aadirupa Saha
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
   
-  <li>  <a href="http://proceedings.mlr.press/v139/saha21b.html" target="_blank">Dueling Convex Optimization</a>
+  <li>  <a href="http://proceedings.mlr.press/v139/saha21b.html" target="_blank"><b>Dueling Convex Optimization</b></a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour
   <br>  In International Conference on Machine Learning, ICML 2021</li>
   
