@@ -9,9 +9,9 @@ author_profile: true
 Working Papers
 ---
 
-Aid, Blame, and Backlash: The Political Economy of Unpopular Aid (<a href= "https://cobrienudry.github.io/files/aid_blame7.15.2021.pdf">draft</a>)
+Aid, Blame, and Backlash: The Political Economy of Unpopular Aid (<a href= "https://cobrienudry.github.io/files/obrien-udry_aid_blame_backlash.pdf">draft</a>)
 
-Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler Pratt) (<a href= "https://cobrienudry.github.io/files/Genes_July2021_GRIP.pdf">draft</a>)
+Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler Pratt) (<a href= "https://cobrienudry.github.io/files/GenesSept2021.pdf">draft</a>)
 
 Turning the Tables: Aid, Status and Stability in the International System (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/Status_Reversal_Ferry_OBrienUdry.pdf">draft</a>)
 
