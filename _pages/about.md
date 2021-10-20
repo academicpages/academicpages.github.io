@@ -35,12 +35,16 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
     </font> 
     <br /> 
     <font size="2">
-       <a href="https://2021.splashcon.org/track/splash-2021-oopsla"> 
+       <a href="https://dl.acm.org/doi/10.1145/3485535"> 
       [OOPSLA'21: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]</a>
       <br/>
       <a href="https://arxiv.org/abs/2109.02445">
       [Arxiv]
       </a>
+      <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3485535&file=oopsla21main-p410-p-video.mp4">
+        [15min-talk]
+        </a>
+      
     </font>
     </li>
 </ul>
