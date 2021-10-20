@@ -74,15 +74,13 @@ a:active {
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Algorithmic Learning Theory, ALT 2019</li>
 </ul>
-</body>
-</html>
  
 <hr style="color:black;"> 
  
 <h2 style="color:FireBrick;"><a id="my_full_pubs">Full List of Publications:</a></h2>
-[[Yearwise]](https://www.microsoft.com/en-us/research/people/aasa/publications/) &nbsp;
-[[Google Scholar]](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)&nbsp;
-[[arXiv]](https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1)
+  <a href="https://www.microsoft.com/en-us/research/people/aasa/publications/" target="_blank"> [Yearwise]</a>&nbsp;
+  <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"> [Google Scholar]</a>&nbsp;
+  <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"> [arXiv]</a>
 
 <hr style="color:black;">
 
@@ -106,4 +104,5 @@ a:active {
   [Michal Valko](https://misovalko.github.io/)
   (in alphabetical order).
 <!--[Nadav Merlis]()-->
-
+</body>
+</html>
