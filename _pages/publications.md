@@ -35,9 +35,9 @@ author_profile: true
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Machine Learning, ICML 2020</li>
     
-  <li>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank">Best-item Learning in Random Utility Models with Subset Choices</a> <a href="https://arxiv.org/abs/2002.07994" target="_blank"> [Arxiv Version]</a></li>
-  <li> Aadirupa Saha, Aditya Gopalan</li>
-  <li>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>
+  <li>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank">Best-item Learning in Random Utility Models with Subset Choices</a> <a href="https://arxiv.org/abs/2002.07994" target="_blank"> [Arxiv Version]</a>
+  <br> Aadirupa Saha, Aditya Gopalan
+  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>
     
   <li>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank">Combinatorial Bandits with Relative Feedback</a><a href="https://arxiv.org/abs/1903.00543" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
