@@ -15,7 +15,7 @@ a:link {
 }
 
 a:visited {
-  color: SkyBlue;
+  color: FireBrick;
   background-color: transparent;
   text-decoration: none;
 }
