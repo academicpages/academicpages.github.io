@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h3>Selected Publications</h3>
+<h4>Selected Publications</h4>
 
 <dl>
   <dt>Optimal Algorithms for Stochastic Contextual Preference Bandits</dt>
