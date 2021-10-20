@@ -16,9 +16,11 @@ author_profile: true
 </dl>
 
 
-</br></br>
+
 [Full Publication List (Yearwise)](https://www.microsoft.com/en-us/research/people/aasa/publications/)
-</br></br>
+
+
+
 <b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
   [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/), 
