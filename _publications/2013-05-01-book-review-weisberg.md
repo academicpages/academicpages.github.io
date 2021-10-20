@@ -1,5 +1,5 @@
 ---
-title: "Review of Michael Weisberg's _Simulation and Similarity: Using Models to Understand the World_"
+title: "Review of Michael Weisberg's Simulation and Similarity: Using Models to Understand the World"
 collection: publications
 permalink: /publication/2013-05-01-book-review-weisberg
 excerpt: 'Book Review.'
