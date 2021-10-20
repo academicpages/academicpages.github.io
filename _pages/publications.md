@@ -10,7 +10,7 @@ author_profile: true
 <h2 style="color:DodgerBlue;"><a id="my_sel_pubs">Selected Publications:</a></h2>
 <hr style="color:DodgerBlue;">
 
-<ul style="list-style-type:none;">
+<ul>
   <li>  Dueling Bandits with Adversarial Sleeping <a href="https://arxiv.org/abs/2107.02274" target="_blank"> [Arxiv Version]</a></li>
   <li>  Aadirupa Saha, Pierre Gaillard</li>
   <li>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
