@@ -15,9 +15,9 @@ Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler 
 
 Turning the Tables: Aid, Status and Stability in the International System (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/Status_Reversal_Ferry_OBrienUdry.pdf">draft</a>)
 
-How Aid, Visibility, and Volatility Affect Incumbents: Evidence from Kosovo (email for draft)
+Populism, Promises, and Aid Withdrawal: The Case of 'Kosova e Re' (<a href= "https://cobrienudry.github.io/files/aid_withdrawal_parties.pdf">draft</a>)
 
-The Domestic Political Economy of Aid Withdrawal: The Case of "Kosova e Re" (email for draft)
+How Aid, Visibility, and Volatility Affect Incumbents: Evidence from Kosovo (email for draft)
 
 Race and the International Status Quo (with Lauren Ferry) (email for draft)
 
