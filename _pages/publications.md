@@ -37,7 +37,7 @@ a:active {
 <body>
 <h2 style="color:DarkSlateBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
 
-<ul style="margin:2;padding:2">
+<ul style="margin:2;padding:1">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
