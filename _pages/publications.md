@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2 style="color:DodgerBlue;">Selected Publications:</h2>
-<hr style="color=blue">
+<hr style="color:DodgerBlue;">
 
 <dl>
   <dt>  Dueling Bandits with Adversarial Sleeping <a href="https://arxiv.org/abs/2107.02274" target="_blank"> [Arxiv Version]</a></dt>
@@ -55,7 +55,7 @@ author_profile: true
 <h2 style="color:DodgerBlue;">Full List of Publications:</h2>
 [Yearwise](https://www.microsoft.com/en-us/research/people/aasa/publications/) 
 [Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
-<hr style="color=blue">
+<hr style="color:DodgerBlue;">
 
 <b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
