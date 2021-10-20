@@ -6,8 +6,19 @@ author_profile: true
 ---
 
 [Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
+<h2>Selected Publications</h2>
+
+<dl>
+  <dt>Optimal Algorithms for Stochastic Contextual Preference Bandits</dt>
+  <dd>- Aadirupa Saha</dd>
+  <dt>Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</dt>
+  <dd>- Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain</dd>
+</dl>
 
 
+</br></br>
+[Full Publication List (Yearwise)](https://www.microsoft.com/en-us/research/people/aasa/publications/)
+</br></br>
 <b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
   [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/), 
