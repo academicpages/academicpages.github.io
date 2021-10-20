@@ -24,7 +24,7 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 ## Upcoming Talks
 Yongjun Zhang. Dec 2021. "Integrating Text, Image, and Video Data for Social Science Research." Peking University.
 
-Yongjun Zhang. Oct 2021. ["Residential Segregation in U.S. Metro Areas: Using Facebook and Safegraph Data to Assess Racial Segregation."](https://arts-sciences.buffalo.edu/sociology/news-events/colloquium.html) Department of Sociology, SUNY Buffalo.
+Yongjun Zhang. Oct 2021. ["Residential Segregation in U.S. Metro Areas: Using Facebook and Safegraph Data to Assess Racial Segregation."](https://arts-sciences.buffalo.edu/sociology/news-events/colloquium.html) Department of Sociology, SUNY Buffalo [[Poster]](https://yongjunzhang.com/files/ub.pdf).
 
 Yongjun Zhang. Oct 2021. ["Using Population Mobility Data to Measure Racial Segregation in the U.S." IACS, Stony Brook University](https://calendar.stonybrook.edu/site/iacs/event/stride-con-2021/).
 
