@@ -22,7 +22,7 @@ Conference Publications
 
 * Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Jun. 2021. [[URL](https://arxiv.org/abs/2106.03194)] <b>To appear</b>
 
-* Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, May 2021. [[URL](https://arxiv.org/abs/2110.03623] <b>To appear (Invited Tutorial Paper)</b>
+* Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, May 2021. [[URL](https://arxiv.org/abs/2110.03623)] <b>To appear (Invited Tutorial Paper)</b>
 
 * <b>Alexander Davydov</b>, Derrick W. Yeo, and Yancy Diaz-Mercado. “Low-Mobility Atmospheric Sensing via Multi-Vehicle Adaptive Coverage Control,” <i>AIAA AVIATION 2020 FORUM</i>, Jun. 2020. [[DOI](https://doi.org/10.2514/6.2020-2821)]
 
