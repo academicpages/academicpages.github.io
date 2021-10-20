@@ -5,43 +5,6 @@ title: "Publications"
 author_profile: true
 ---
 
-<!---
-<img align="left" src="https://gui-cogsci.github.io/images/synthese.jpg" width="100"> **Radical Embodied Cognitive Science and "Real Cognition."** (w/ Vicente Raja and Tony Chemero)<br>*Synthese*, 2021 (online since 2019).  ([Link](https://link.springer.com/article/10.1007/s11229-019-02475-4))<br><br>
-A persistent criticism of radical embodied cognitive science is that it will be impossible to explain “real cognition” without invoking mental representations. This paper provides an account of explicit, real-time thinking of the kind we engage in when we imagine counter-factual situations, remember the past, and plan for the future. We first present a very general non-representational account of explicit thinking, based on pragmatist philosophy of science. We then present a more detailed instantiation of this general account drawing on nonlinear dynamics and ecological psychology.
-<br><br> KEYWORDS: embodied cognition,  thinking,  representation,  artifactualism,  resonance,  ecological psychology<br><br> Preferred citation: Sanches de Oliveira, G., Raja, V. & Chemero, A. (2021) Radical embodied cognitive science and “Real Cognition”. *Synthese* 198, 115–136. DOI: 10.1007/s11229-019-02475-4
-<br><br> --->
-
-
-
-<!---
-|  | Radical Embodied Cognitive Science and "Real Cognition." (w/ Vicente Raja and Tony Chemero)<br>*Synthese*, 2021 (online since 2019).  ([Link](https://link.springer.com/article/10.1007/s11229-019-02475-4))|
-|:--- |:---	|
-| <img src="https://gui-cogsci.github.io/images/synthese.jpg" alt="Synthese" width="1000"/>  |  A persistent criticism of radical embodied cognitive science is that it will be impossible to explain “real cognition” without invoking mental representations. This paper provides an account of explicit, real-time thinking of the kind we engage in when we imagine counter-factual situations, remember the past, and plan for the future. We first present a very general non-representational account of explicit thinking, based on pragmatist philosophy of science. We then present a more detailed instantiation of this general account drawing on nonlinear dynamics and ecological psychology. <br><br> KEYWORDS: embodied cognition,  thinking,  representation,  artifactualism,  resonance,  ecological psychology<br><br> Preferred citation: Sanches de Oliveira, G., Raja, V. & Chemero, A. (2021) Radical embodied cognitive science and “Real Cognition”. *Synthese* 198, 115–136. DOI: 10.1007/s11229-019-02475-4|
-
-<br><br>
-
-| | Experimentation, “models” and the turn to practice.<br>*Metascience*, 2020. ([Open Access](https://link.springer.com/article/10.1007/s11016-020-00564-6))
-|:--- |:---	|
-|  <img src="https://gui-cogsci.github.io/images/metascience.jpg" alt="Metascience" width="285"/>  |  Review of Isabelle F. Peschard and Bas C. Van Fraassen (Eds.): The experimental side of modeling. University of Minnesota Press, 2018, 336pp, $40 PB<br><br> Preferred citation: Sanches de Oliveira, G. (2020). Experimentation, “models” and the turn to practice. *Metascience* 29, 395–398. DOI: 10.1007/s11016-020-00564-6|
-
-<br><br>
-
-
-| | Representationalism is a Dead End<br>*Synthese*, 2021 (online since 2018).  ([Link](https://link.springer.com/article/10.1007/s11229-018-01995-9))|
-|:--- |:---	|
-| <img src="https://gui-cogsci.github.io/images/synthese.jpg" alt="Synthese" />  |  Representationalism—the view that scientific modeling is best understood in representational terms—is the received view in contemporary philosophy of science. Contributions to this literature have focused on a number of puzzles concerning the nature of representation and the epistemic role of misrepresentation, without considering whether these puzzles are the product of an inadequate analytical framework. The goal of this paper is to suggest that this possibility should be taken seriously. The argument has two parts, employing the "can't have" and "don't need" tactics drawn from philosophy of mind. On the one hand, I propose that representationalism doesn't work: different ways to flesh out representationalism create a tension between its ontological and epistemological components and thereby undermine the view. On the other hand, I propose that representationalism is not needed in the first place—a position I articulate based on a pragmatic stance on the success of scientific research and on the feasibility of alternative philosophical frameworks. I conclude that representationalism is untenable and unnecessary, a philosophical dead end. A new way of thinking is called for if we are to make progress in our understanding of scientific modeling. <br><br> KEYWORDS: scientific modeling; representation; epistemology of science; pragmatism<br><br> Preferred citation: Sanches de Oliveira, G. (2021) Radical embodied cognitive science and “Real Cognition”. *Synthese* 198, 115–136. DOI: 10.1007/s11229-018-01995-9|
-
-<br><br>
-
-> ### Representationalism is a Dead End<br>*Synthese*, 2021 (online since 2018).  ([Link](https://link.springer.com/article/10.1007/s11229-018-01995-9))
-> >
-> <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130"> Representationalism—the view that scientific modeling is best understood in representational terms—is the received view in contemporary philosophy of science. Contributions to this literature have focused on a number of puzzles concerning the nature of representation and the epistemic role of misrepresentation, without considering whether these puzzles are the product of an inadequate analytical framework. The goal of this paper is to suggest that this possibility should be taken seriously. The argument has two parts, employing the "can't have" and "don't need" tactics drawn from philosophy of mind. On the one hand, I propose that representationalism doesn't work: different ways to flesh out representationalism create a tension between its ontological and epistemological components and thereby undermine the view. On the other hand, I propose that representationalism is not needed in the first place—a position I articulate based on a pragmatic stance on the success of scientific research and on the feasibility of alternative philosophical frameworks. I conclude that representationalism is untenable and unnecessary, a philosophical dead end. A new way of thinking is called for if we are to make progress in our understanding of scientific modeling.
->
-> KEYWORDS: scientific modeling; representation; epistemology of science; pragmatism 
->
->> Sanches de Oliveira, G. (2021) Radical embodied cognitive science and “Real Cognition”. *Synthese* 198, 115–136. DOI: 10.1007/s11229-018-01995-9
---->
-
 
 
 ## Radical Embodied Cognitive Science and "Real Cognition." (w/ Vicente Raja and Tony Chemero)<br>*Synthese*, 2021. ([Link](https://link.springer.com/article/10.1007/s11229-019-02475-4)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
@@ -112,47 +75,58 @@ A persistent criticism of radical embodied cognitive science is that it will be 
 
 
 
-Ecological Psychology and the Environmentalist Promise of Affordances.  Proceedings of the 40th Annual Meeting of the Cognitive Science Society, 2018.
+## Ecological Psychology and the Environmentalist Promise of Affordances.<br> *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, 2018. ([Link](https://www.academia.edu/37088487/Ecological_Psychology_and_the_Environmentalist_Promise_of_Affordances))  <img align="right" src="https://gui-cogsci.github.io/images/cogsci2018.jpg" width="130">
+> What is ecological about Gibsonian Ecological Psychology? Well-known senses in which Gibson’s scientific program is ‘ecological’ have to do with its theoretical, ontological and methodological foundations. But, besides these, the Gibsonian framework is ‘ecological’ in an additional sense that has remained understudied and poorly understood—a sense of “ecological” that connects Gibson’s view to the environmentalism of environmental psychology and environmental ethics. This paper focuses on the latter sense of ‘ecological’, and explores the relevance of Gibson’s notion of “affordance” for thinking about environmental issues like deforestation, pollution and climate change. One existing account is criticized and an alternative is proposed. 
+> 
+> KEYWORDS: affordances; perception; environmental ethics; environmental psychology; moral psychology; responsibility
+>> Sanches de Oliveira, G. (2018) Ecological Psychology and the Environmentalist Promise of Affordances. T.T. Rogers, M. Rau, X. Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society*, pp. 1014-1019. Austin, TX: Cognitive Science Society. ISBN: 978-0-9911967-8-4.
 
-What is ecological about Gibsonian Ecological Psychology? Well-known senses in which Gibson’s scientific program is ‘ecological’ have to do with its theoretical, ontological and methodological foundations. But, besides these, the Gibsonian framework is ‘ecological’ in an additional sense that has remained understudied and poorly understood—a sense of “ecological” that connects Gibson’s view to the environmentalism of environmental psychology and environmental ethics. This paper focuses on the latter sense of ‘ecological’, and explores the relevance of Gibson’s notion of “affordance” for thinking about environmental issues like deforestation, pollution and climate change. One existing account is criticized and an alternative is proposed. 
-
-KEYWORDS: affordances; perception; environmental ethics; environmental psychology; moral psychology; responsibility
-
-
-[PDF]
-
-Emotion as a Form of Perception: Why William James was not a Jamesian.  Proceedings of the 40th Annual Meeting of the Cognitive Science Society, 2018.
-
-Two main views have informed the literature on the psychology of emotion in the past few decades. On one side, cognitivists identify emotions with processes such as judgments, evaluations and appraisals. On the other side, advocates of non-cognitive approaches leave the “intellectual” aspects of emotional experience out of the emotion itself, instead identifying emotions with embodied processes involving physiological changes. Virtually everyone on either side of the cognitive/non-cognitive divide identify William James’ view, also known as the James-Lange theory, fully on the noncognitivist side. But this is a mistake. Re-interpreting James’ writings in its scientific context, this paper argues that he actually rejected the cognitive/non-cognitive divide, such that his view of emotions did not fit either side—that is, James was not a “Jamesian” in the sense the term is used in the literature.
-
-KEYWORDS: emotion; cognitivism; James-Lange theory; perception; sensation; physiological changes.
-
-
-[PDF]
-
-Model-based science: diverse perspectives, little cross-disciplinary dialogue. Metascience, 2018.
-
-Review of Lorenzo Magnani and Tommaso Bertolotti (Editors): Springer handbook of model-based science. Dordrecht: Springer, 2017, 1179pp.
-
-
-[PDF]
-
-Gibson's Reasons for Realism and Gibsonian Reasons for Anti-Realism: An Ecological Approach to Model-Based Reasoning in Science. Proceedings of the 38th Annual Meeting of the Cognitive Science Society, 2016.
-
-Representational views of the mind traditionally face a skeptical challenge on perceptual knowledge: if our experience of the world is mediated by representations built upon perceptual inputs, how can we be certain that our representations are accurate and our perceptual apparatus reliable? J. J. Gibson's ecological approach provides an alternative framework, according to which direct perception of affordances does away with the need to posit internal mental representations as intermediary steps between perceptual input and behavioral output. Gibson accordingly spoke of his framework as providing “reasons for realism.” In this paper I suggest that, granting Gibson his reasons for perceptual realism, the Gibsonian framework motivates antirealism when it comes to scientific theorizing and modeling. If scientists are Gibsonian perceivers, then it makes sense to take their use of models in indirect investigations of real-world phenomena not as representations of the phenomena, but rather as autonomous tools with their own affordances. 
-
-KEYWORDS: perception; ecological psychology; affordances; representation; philosophy of science; scientific modeling
-
-
-[PDF]
+<br><br>
 
 
 
-Review of A. C. Grayling's The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind. Metapsychology (ISSN 1931-5716), Volume 20, Issue 34, 2016. 
+## Emotion as a Form of Perception: Why William James was not a Jamesian.<br> *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, 2018.  ([Link](https://www.academia.edu/37088486/Emotion_as_a_Form_of_Perception_Why_William_James_was_not_a_Jamesian))  <img align="right" src="https://gui-cogsci.github.io/images/cogsci2018.jpg" width="130">
+> Two main views have informed the literature on the psychology of emotion in the past few decades. On one side, cognitivists identify emotions with processes such as judgments, evaluations and appraisals. On the other side, advocates of non-cognitive approaches leave the “intellectual” aspects of emotional experience out of the emotion itself, instead identifying emotions with embodied processes involving physiological changes. Virtually everyone on either side of the cognitive/non-cognitive divide identify William James’ view, also known as the James-Lange theory, fully on the noncognitivist side. But this is a mistake. Re-interpreting James’ writings in its scientific context, this paper argues that he actually rejected the cognitive/non-cognitive divide, such that his view of emotions did not fit either side—that is, James was not a “Jamesian” in the sense the term is used in the literature.
+>
+> KEYWORDS: emotion; cognitivism; James-Lange theory; perception; sensation; physiological changes.
+>> Sanches de Oliveira, G. (2018) Emotion as a Form of Perception: Why William James was not a Jamesian. T.T. Rogers, M. Rau, X. Zhu, \& C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society*, pp. 1020-1024. Austin, TX: Cognitive Science Society. ISBN: 978-0-9911967-8-4
+
+
+<br><br>
 
 
 
-[PDF]
+
+## Model-based science: diverse perspectives, little cross-disciplinary dialogue.<br> *Metascience*, 2018.  ([Link](https://link.springer.com/article/10.1007/s11016-018-0327-x)) <img align="right" src="https://gui-cogsci.github.io/images/metascience.jpg" width="130">
+
+> Review of Lorenzo Magnani and Tommaso Bertolotti (Editors): Springer handbook of model-based science. Dordrecht: Springer, 2017, 1179pp.
+>
+>> Sanches de Oliveira, G. (2018) Model-Based Science: Diverse Perspectives, Little Cross-Disciplinary Dialogue. Model-based science: diverse perspectives, little cross-disciplinary dialogue. *Metascience* 27, 453–456 (2018). DOI: 10.1007/s11016-018-0327-x
+
+
+<br><br>
+
+
+## Gibson's Reasons for Realism and Gibsonian Reasons for Anti-Realism: An Ecological Approach to Model-Based Reasoning in Science.<br> *Proceedings of the 38th Annual Meeting of the Cognitive Science Society*, 2016.  ([Link](https://www.academia.edu/27632744/Gibsons_Reasons_for_Realism_and_Gibsonian_Reasons_for_Anti-Realism_An_Ecological_Approach_to_Model-Based_Reasoning_in_Science))  <img align="right" src="https://gui-cogsci.github.io/images/cogsci2016.jpg" width="130">
+> Representational views of the mind traditionally face a skeptical challenge on perceptual knowledge: if our experience of the world is mediated by representations built upon perceptual inputs, how can we be certain that our representations are accurate and our perceptual apparatus reliable? J. J. Gibson's ecological approach provides an alternative framework, according to which direct perception of affordances does away with the need to posit internal mental representations as intermediary steps between perceptual input and behavioral output. Gibson accordingly spoke of his framework as providing “reasons for realism.” In this paper I suggest that, granting Gibson his reasons for perceptual realism, the Gibsonian framework motivates antirealism when it comes to scientific theorizing and modeling. If scientists are Gibsonian perceivers, then it makes sense to take their use of models in indirect investigations of real-world phenomena not as representations of the phenomena, but rather as autonomous tools with their own affordances. 
+> 
+> KEYWORDS: perception; ecological psychology; affordances; representation; philosophy of science; scientific modeling
+>> Sanches de Oliveira, G. (2016) Gibson's Reasons for Realism and Gibsonian Reasons for Anti-Realism: An Ecological Approach to Model-Based Reasoning in Science. Papafragou, A., Grodner, D., Mirman, D., \& Trueswell, J.C. (Eds.). *Proceedings of the 38th Annual 	Conference of the Cognitive Science Society*, pp. 1373-1378. Austin, TX: Cognitive Science Society.  ISBN: 978-0-9911967-3-9
+
+
+
+<br><br>
+
+
+
+## Review of A. C. Grayling's "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind."<br> *Metapsychology*, 2016.  ([Link](https://www.academia.edu/27955708/G._S._Oliveira_2016_Review_of_A._C._Graylings_The_Age_of_Genius_The_Seventeenth_Century_and_the_Birth_of_the_Modern_Mind_))  <img align="right" src="https://gui-cogsci.github.io/images/metapsychology.png" width="130">
+>> Sanches de Oliveira, G. (2016) Review of A. C. Grayling's The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind. \*Metapsychology*, Vol. 20, Issue 34. (ISSN 1931-5716)
+
+
+<br><br>
+
+
+
 
 Approaches to Scientific Modeling, and the (Non)Issue of Representation: A Case Study in Multi-model Research on Thigmotaxis and Group Thermoregulation. Model-Based Reasoning in Science and Technology, L. Magnani and C. Casadio (eds.), Springer, 2016. 
 
