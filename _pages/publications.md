@@ -6,10 +6,38 @@ author_profile: true
 ---
 
 <html>
-<body>
-<h2 style="color:DodgerBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
+<head>
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
 
-<ul style="margin:2;padding:0">
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>  
+</head>  
+  
+<body>
+<h2 style="color:DarkSlateBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
+
+<ul style="margin:2;padding:2">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
@@ -51,9 +79,9 @@ author_profile: true
  
 <hr style="color:black;"> 
  
-<h2 style="color:DodgerBlue;"><a id="my_full_pubs">Full List of Publications:</a></h2>
-[[Yearwise]](https://www.microsoft.com/en-us/research/people/aasa/publications/) &nbsp;&nbsp;
-[[Google Scholar]](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)&nbsp;&nbsp;
+<h2 style="color:DarkSlateBlue;"><a id="my_full_pubs">Full List of Publications:</a></h2>
+[[Yearwise]](https://www.microsoft.com/en-us/research/people/aasa/publications/) &nbsp;
+[[Google Scholar]](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)&nbsp;
 [[arXiv]](https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1)
 
 <hr style="color:black;">
