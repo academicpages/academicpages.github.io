@@ -35,7 +35,7 @@ a:active {
 </head>  
   
 <body>
-<h2 style="color:FireBrick;"><a id="my_sel_pubs">Selected Papers:</a></h2>
+<h2 style="color:SteelBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
@@ -77,14 +77,14 @@ a:active {
  
 <hr style="color:black;"> 
  
-<h2 style="color:FireBrick;"><a id="my_full_pubs">Full List of Publications:</a></h2>
+<h2 style="color:SteelBlue;"><a id="my_full_pubs">Full List of Publications:</a></h2>
   <a href="https://www.microsoft.com/en-us/research/people/aasa/publications/" target="_blank"> [Yearwise]</a>&nbsp;
   <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"> [Google Scholar]</a>&nbsp;
   <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"> [arXiv]</a>
 
 <hr style="color:black;">
 
-<b><font color="FireBrick">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
+<b><font color="SteelBlue">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
    <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
