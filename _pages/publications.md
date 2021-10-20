@@ -5,17 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h3 style="color:DodgerBlue;">Selected Publications: </h3>
+<h3 style="color:DodgerBlue;">Selected Publications:</h3>
 <hr>
+
 <dl>
   <dt>  [Dueling Bandits with Adversarial Sleeping]()</dt>
   <dd>  Aadirupa Saha, Pierre Gaillard</dd>
-  <dd>  (To appear)In Neural Information Processing Systems, NeurIPS 2021</dd>
+  <dd>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</dd>
   <dd>  [Arxiv Version](https://arxiv.org/abs/2107.02274)
   
   <dt>  [Optimal Algorithms for Stochastic Contextual Dueling Bandits]()</dt>
   <dd>  Aadirupa Saha</dd>
-  <dd>  (To appear)In Neural Information Processing Systems, NeurIPS 2021</dd
+  <dd>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</dd
     
   <dt>  [Dueling Convex Optimization](http://proceedings.mlr.press/v139/saha21b.html)</dt>
   <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
