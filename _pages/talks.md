@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-List of peer-reviewed talks (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors indicated by an asterisk. A map is available at the end.
+List of peer-reviewed talks (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. A map is available at the end.
 
 <br>
 
