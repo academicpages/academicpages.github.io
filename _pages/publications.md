@@ -73,6 +73,10 @@ Sidhu K, **Han L,** Picard KCI, Tedrow UB, Lakdawala NK.
 
 ## Social Innovation
 
+ **[Joint International Consensus Statement on Crowdsourcing Challenge Contests in Health and Medicine: Results of a Modified Delphi Process]**.  
+ BMJ Open (2021).  
+ **Han L,** Tang, W, Tiarney R, et al.
+
 **[Assessment of a Crowdsourcing Open Call for Approaches to University Community Engagement and Strategic Planning During COVID-19](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2779869)**.  
 JAMA Network Open (2021).   
 Day S, Li C, Hlatshwako TG, Abu-Hiljleh F, **Han L,** Deitelzweig C, Bayus B, Ramaswamy R, Wang W, Tucker JD.  
