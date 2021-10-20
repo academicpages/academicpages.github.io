@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /talks/
-title: "Talks"
+title: "Talks and Presentations"
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 
 
 
-## 2021
+### 2021
 
 77. **"Affordances in the Wild: Sociocultural Constitution and the Anthropological Contribution to Embodied Cognitive Science."** 5th International Conference on Interactivity, Language & Cognition: Integrating Quantitative and Qualitative Methods in the Cognitive and Language Sciences. University of Warsaw, Poland. (September 15-19, 2021) [online]
 
@@ -28,13 +28,13 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2020
+### 2020
 
 71. **"Radical Embodiment and the Relation Between Individual and Joint Action:  A Level-Neutral Approach."**   42nd Annual Meeting of the Cognitive Science Society. Virtual Meeting (July 29 - August 1, 2020)
 <br>
 
 
-## 2019
+### 2019
 
 70. **"Ecological Computational Thinking."**  Recent Developments in Situated Cognition – Empirical and Philosophical Investigations. Ruhr-University Bochum, Germany (September 23-26, 2019)
 
@@ -70,7 +70,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2018
+### 2018
 
 59. **"Scientific Representation, Mental Representation, and Embodied Cognition."** Australasian Society for Philosophy and Psychology. Macquarie University in Sydney, Australia (December 5-7, 2018)
 
@@ -100,7 +100,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2017
+### 2017
 
 49.  **“Go Big AND Go Home? The Biome Problem and its Metaphysical and Epistemological Roots.”** International Society for History, Philosophy and Social Studies of Biology (ISHPSSB) 2017 meeting. Institute of Biosciences, University of São Paulo, Brazil (July 16-21, 2017) 
 
@@ -126,7 +126,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2016
+### 2016
 
 39.  **“Correlation, Causal Mechanisms, and Explanation: Making Sense of Big Data through Complexity Science.”** "Algorithms in Culture" conference. University of California - Berkeley, USA (December 1-2, 2016) 
 
@@ -152,7 +152,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2015
+### 2015
 
 28.  **“Scientific Models: Against Fictionalism and Representationalism.”** Workshop: "The Roots of Fiction: Possibilities and Imagination". University of Macau, China (December 5-6, 2015) 
 
@@ -174,7 +174,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2014
+### 2014
 
 19.  **“Fictions in Model-Based Scientific Reasoning: A Continuum-Hypothetical Approach.”** Joint Conference of the Latin American Association for Analytic Philosophy (ALFAn) and the Brazilian Society for Analytic Philosophy (SBFA). Fortaleza, Brazil (May 27-30, 2014) 
 
@@ -182,7 +182,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2013
+### 2013
 
 17.  **“The Persistence of Mindreading in Ratcliffe's Non-Mindreading-Based Embodied-Situated Model of Interpersonal Understanding.”** Tennessee Philosophical Association. Vanderbilt University – Nashville, TN, USA (Oct 25-26, 2013) 
 
@@ -200,7 +200,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2012
+### 2012
 
 12.  **“Is There Life Before Death?: Ivan Illich on Health, Medicalization, and Mortality.”** Ernest G. Welch Interdisciplinary Symposium on Death. Georgia State University – Atlanta, GA, USA (December 14-15, 2012)
 
@@ -208,7 +208,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2011
+### 2011
 
 10.  **“Descriptions of Events: Opacity of Intentions in Davidson, and Predicative Sentences in Anscombe”** [in Portuguese]. 13th International Meeting on Pragmatism. Pontifical Catholic University of São Paulo (PUC-SP) – São Paulo, Brazil (November 10, 2011)
 
@@ -222,7 +222,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2010
+### 2010
 
 5.  **“Freedom to Act and Freedom to Think – Moral Responsibility, Reason, and Involuntary Beliefs.”** Phi Sigma Tau – 1st Annual Student Philosophy Conference. University of North Texas – Denton, TX, USA (November 12-13, 2010)
 
@@ -234,6 +234,6 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 <br>
 
 
-## 2009
+### 2009
 
 1.  **“Belief and Action – An Overview of the Dispositional Perspective”** [in Portuguese]. 14th Modern and Contemporary Philosophy Symposium. State University of West Paraná (UNIOESTE) – Toledo, Brazil (October 26-30, 2009)
