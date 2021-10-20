@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -11,7 +11,7 @@ author_profile: true
   <dt>  [Dueling Bandits with Adversarial Sleeping]()</dt>
   <dd>  Aadirupa Saha, Pierre Gaillard</dd>
   <dd>  (To appear)In Neural Information Processing Systems, NeurIPS 2021</dd>
-  <dd>  [Arxiv Version]()
+  <dd>  [Arxiv Version](https://arxiv.org/abs/2107.02274)
   
   <dt>  [Optimal Algorithms for Stochastic Contextual Dueling Bandits]()</dt>
   <dd>  Aadirupa Saha</dd>
@@ -24,12 +24,12 @@ author_profile: true
   <dt>  [Adversarial Dueling Bandits](http://proceedings.mlr.press/v139/saha21a.html)</dt>
   <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
   <dd>  In International Conference on Machine Learning, ICML 2021</dd>
-  <dd>  [Arxiv Version]()    
+  <dd>  [Arxiv Version](https://arxiv.org/abs/2010.14563)    
     
   <dt> [Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization](http://proceedings.mlr.press/v139/saha21c.html)</dt>
   <dd>- Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain</dd>
   <dd>  In International Conference on Machine Learning, ICML 2021</dd>
-  <dd>  [Arxiv Version]()  
+  <dd>  [Arxiv Version](https://arxiv.org/abs/2102.07387)  
     
   <dt>  [From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model](https://proceedings.mlr.press/v119/saha20b.html)</dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
@@ -39,17 +39,17 @@ author_profile: true
   <dt>  [Best-item Learning in Random Utility Models with Subset Choices](https://proceedings.mlr.press/v108/aadirupa-saha20a.html)</dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</dd>
-  <dd>  [Arxiv Version]() 
+  <dd>  [Arxiv Version](https://arxiv.org/abs/2002.07994) 
   
-  <dt>  [On Preference based Combinatorial Semi-Bandits](http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback)</dt>
+  <dt>  [Combinatorial Bandits with Relative Feedback](http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback)</dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In Neural Information Processing Systems, NeurIPS 2019</dd>
-  <dd>  [Arxiv Version]()    
+  <dd>  [Arxiv Version](https://arxiv.org/abs/1903.00543)    
     
   <dt>  [PAC Battling Bandits in the Plackett-Luce Model](http://proceedings.mlr.press/v98/saha19a.html)</dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In Algorithmic Learning Theory, ALT 2019</dd>
-  <dd>  [Arxiv Version]()    
+  <dd>  [Arxiv Version](https://arxiv.org/abs/1808.04008)    
 </dl>
 
 
