@@ -15,7 +15,7 @@ a:link {
 }
 
 a:visited {
-  color: FireBrick;
+  color: DarkSlateBlue;
   background-color: transparent;
   text-decoration: none;
 }
@@ -35,7 +35,7 @@ a:active {
 </head>  
   
 <body>
-<h2 style="color:DarkSlateBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
+<h2 style="color:FireBrick;"><a id="my_sel_pubs">Selected Papers:</a></h2>
 
 <ul style="margin:2;padding:1">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
@@ -79,14 +79,14 @@ a:active {
  
 <hr style="color:black;"> 
  
-<h2 style="color:DarkSlateBlue;"><a id="my_full_pubs">Full List of Publications:</a></h2>
+<h2 style="color:FireBrick;"><a id="my_full_pubs">Full List of Publications:</a></h2>
 [[Yearwise]](https://www.microsoft.com/en-us/research/people/aasa/publications/) &nbsp;
 [[Google Scholar]](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)&nbsp;
 [[arXiv]](https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1)
 
 <hr style="color:black;">
 
-<b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
+<b><p style="color:FireBrick">Collaborators.</p> </b> I have been really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
   [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/), 
   [Yonathan Efroni](https://sites.google.com/view/yonathan-efroni/home),
