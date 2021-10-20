@@ -32,20 +32,6 @@ A persistent criticism of radical embodied cognitive science is that it will be 
 | <img src="https://gui-cogsci.github.io/images/synthese.jpg" alt="Synthese" />  |  Representationalism—the view that scientific modeling is best understood in representational terms—is the received view in contemporary philosophy of science. Contributions to this literature have focused on a number of puzzles concerning the nature of representation and the epistemic role of misrepresentation, without considering whether these puzzles are the product of an inadequate analytical framework. The goal of this paper is to suggest that this possibility should be taken seriously. The argument has two parts, employing the "can't have" and "don't need" tactics drawn from philosophy of mind. On the one hand, I propose that representationalism doesn't work: different ways to flesh out representationalism create a tension between its ontological and epistemological components and thereby undermine the view. On the other hand, I propose that representationalism is not needed in the first place—a position I articulate based on a pragmatic stance on the success of scientific research and on the feasibility of alternative philosophical frameworks. I conclude that representationalism is untenable and unnecessary, a philosophical dead end. A new way of thinking is called for if we are to make progress in our understanding of scientific modeling. <br><br> KEYWORDS: scientific modeling; representation; epistemology of science; pragmatism<br><br> Preferred citation: Sanches de Oliveira, G. (2021) Radical embodied cognitive science and “Real Cognition”. *Synthese* 198, 115–136. DOI: 10.1007/s11229-018-01995-9|
 
 <br><br>
---->
-
-
-
-> ### Radical Embodied Cognitive Science and "Real Cognition." (w/ Vicente Raja and Tony Chemero)<br>*Synthese*, 2021 (online since 2019).  ([Link](https://link.springer.com/article/10.1007/s11229-019-02475-4))
-> 
-> <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130"> A persistent criticism of radical embodied cognitive science is that it will be impossible to explain “real cognition” without invoking mental representations. This paper provides an account of explicit, real-time thinking of the kind we engage in when we imagine counter-factual situations, remember the past, and plan for the future. We first present a very general non-representational account of explicit thinking, based on pragmatist philosophy of science. We then present a more detailed instantiation of this general account drawing on nonlinear dynamics and ecological psychology.
-> 
-> KEYWORDS: embodied cognition,  thinking,  representation,  artifactualism,  resonance,  ecological psychology
->
->> Sanches de Oliveira, G., Raja, V. & Chemero, A. (2021) Radical embodied cognitive science and “Real Cognition”. *Synthese* 198, 115–136. DOI: 10.1007/s11229-019-02475-4
-
-<br><br>
-
 
 > ### Representationalism is a Dead End<br>*Synthese*, 2021 (online since 2018).  ([Link](https://link.springer.com/article/10.1007/s11229-018-01995-9))
 > >
@@ -54,10 +40,25 @@ A persistent criticism of radical embodied cognitive science is that it will be 
 > KEYWORDS: scientific modeling; representation; epistemology of science; pragmatism 
 >
 >> Sanches de Oliveira, G. (2021) Radical embodied cognitive science and “Real Cognition”. *Synthese* 198, 115–136. DOI: 10.1007/s11229-018-01995-9
+--->
+
+
+
+## Radical Embodied Cognitive Science and "Real Cognition." (w/ Vicente Raja and Tony Chemero)<br>*Synthese*, 2021 (online since 2019).  ([Link](https://link.springer.com/article/10.1007/s11229-019-02475-4)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
+>  A persistent criticism of radical embodied cognitive science is that it will be impossible to explain “real cognition” without invoking mental representations. This paper provides an account of explicit, real-time thinking of the kind we engage in when we imagine counter-factual situations, remember the past, and plan for the future. We first present a very general non-representational account of explicit thinking, based on pragmatist philosophy of science. We then present a more detailed instantiation of this general account drawing on nonlinear dynamics and ecological psychology.
+> 
+> KEYWORDS: embodied cognition,  thinking,  representation,  artifactualism,  resonance,  ecological psychology
+>
+>> Sanches de Oliveira, G., Raja, V. & Chemero, A. (2021) Radical embodied cognitive science and “Real Cognition”. *Synthese* 198, 115–136. DOI: 10.1007/s11229-019-02475-4
 
 <br><br>
 
-## Representationalism is a Dead End<br>*Synthese*, 2021 (online since 2018).  ([Link](https://link.springer.com/article/10.1007/s11229-018-01995-9)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130"> 
+
+
+
+<br><br>
+
+## Representationalism is a Dead End<br>*Synthese*, 2021 (online since 2018). ([Link](https://link.springer.com/article/10.1007/s11229-018-01995-9)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130"> 
 > Representationalism—the view that scientific modeling is best understood in representational terms—is the received view in contemporary philosophy of science. Contributions to this literature have focused on a number of puzzles concerning the nature of representation and the epistemic role of misrepresentation, without considering whether these puzzles are the product of an inadequate analytical framework. The goal of this paper is to suggest that this possibility should be taken seriously. The argument has two parts, employing the "can't have" and "don't need" tactics drawn from philosophy of mind. On the one hand, I propose that representationalism doesn't work: different ways to flesh out representationalism create a tension between its ontological and epistemological components and thereby undermine the view. On the other hand, I propose that representationalism is not needed in the first place—a position I articulate based on a pragmatic stance on the success of scientific research and on the feasibility of alternative philosophical frameworks. I conclude that representationalism is untenable and unnecessary, a philosophical dead end. A new way of thinking is called for if we are to make progress in our understanding of scientific modeling.
 >
 > KEYWORDS: scientific modeling; representation; epistemology of science; pragmatism 
@@ -68,20 +69,19 @@ A persistent criticism of radical embodied cognitive science is that it will be 
 
 ## Experimentation, “models” and the turn to practice.<br>*Metascience*, 2020. ([Link](https://link.springer.com/article/10.1007/s11016-020-00564-6)) <img align="right" src="https://gui-cogsci.github.io/images/metascience.jpg" width="130">
  > Review of Isabelle F. Peschard and Bas C. Van Fraassen (Eds.): The experimental side of modeling. University of Minnesota Press, 2018, 336pp, $40 PB<br><br> 
- >> Sanches de Oliveira, G. (2020). Experimentation, “models” and the turn to practice. *Metascience* 29, 395–398. DOI: 10.1007/s11016-020-00564-6|
+ >> Sanches de Oliveira, G. (2020). Experimentation, “models” and the turn to practice. *Metascience* 29, 395–398. DOI: 10.1007/s11016-020-00564-6
 
 
 <br><br>
 
 
-Patterns in Cognitive Phenomena and Pluralism of Explanatory Styles. Topics in Cognitive Science, 2019. (w/ Angela Potochnik) 
+## Patterns in Cognitive Phenomena and Pluralism of Explanatory Styles. (w/ Angela Potochnik).<br> *Topics in Cognitive Science*, 2020 (online since 2019). ([Link](https://onlinelibrary.wiley.com/doi/10.1111/tops.12481))  <img align="right" src="https://gui-cogsci.github.io/images/topics.jpg" width="130">
+> Debate about cognitive science explanations has been formulated in terms of identifying the proper level(s) of explanation. Views range from reductionist, favoring only neuroscience explanations, to mechanist, favoring the integration of multiple levels, to pluralist, favoring the preservation of even the most general, high-level explanations, such as those provided by embodied or dynamical approaches. In this paper, we challenge this framing. We suggest that these are not different levels of explanation at all but, rather, different styles of explanation that capture different, cross-cutting patterns in cognitive phenomena. Which pattern is explanatory depends on both the cognitive phenomenon under investigation and the research interests occasioning the explanation. This reframing changes how we should answer the basic questions of which cognitive science approaches explain and how these explanations relate to one another. On this view, we should expect different approaches to offer independent explanations in terms of their different focal patterns and the value of those explanations to partly derive from the broad patterns they feature.
+>
+> KEYWORDS: levels of explanation,  explanatory pluralism,  reductionism,  mechanism,  embodied cognitive science
+>> Potochnick, A., & Sanches de Oliveira, G. (2020). Patterns in Cognitive Phenomena and Pluralism of Explanatory Styles. *Top Cogn Sci*, 12: 1306-1320. DOI: 10.1111/tops.12481 
 
-Debate about cognitive science explanations has been formulated in terms of identifying the proper level(s) of explanation. Views range from reductionist, favoring only neuroscience explanations, to mechanist, favoring the integration of multiple levels, to pluralist, favoring the preservation of even the most general, high-level explanations, such as those provided by embodied or dynamical approaches. In this paper, we challenge this framing. We suggest that these are not different levels of explanation at all but, rather, different styles of explanation that capture different, cross-cutting patterns in cognitive phenomena. Which pattern is explanatory depends on both the cognitive phenomenon under investigation and the research interests occasioning the explanation. This reframing changes how we should answer the basic questions of which cognitive science approaches explain and how these explanations relate to one another. On this view, we should expect different approaches to offer independent explanations in terms of their different focal patterns and the value of those explanations to partly derive from the broad patterns they feature.
-
-KEYWORDS: levels of explanation,  explanatory pluralism,  reductionism,  mechanism,  embodied cognitive science
-
-
-[PDF]
+<br><br>
 
 Bee-ing In the World: Phenomenology, Cognitive Science, and Interactivity in a Novel Insect-Tracking Task. Proceedings of the 41st Annual Meeting of the Cognitive Science Society, 2019. (w/ Christopher Riehm and Colin T. Annand) 
 
