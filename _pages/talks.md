@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-List of peer-reviewed talks (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors indicated by an asterisk.
+List of peer-reviewed talks (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors indicated by an asterisk. A map is available at the end.
 
 <br>
 
@@ -237,3 +237,16 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 ### 2009
 
 1.  **“Belief and Action – An Overview of the Dispositional Perspective”** [in Portuguese]. 14th Modern and Contemporary Philosophy Symposium. State University of West Paraná (UNIOESTE) – Toledo, Brazil (October 26-30, 2009)
+
+<br>
+<br>
+
+<p align="center">
+  
+<a href="https://www.google.com/maps/d/u/0/viewer?mid=1zPnX2Nh0ojQpgJC5Z1KsiZr0i48&ll=18.903692167723385%2C-110.75820850000002&z=2" target="_blank">
+  
+<img align="center" src="https://gui-cogsci.github.io/images/talksmap.png">
+
+</a>
+
+</p>
