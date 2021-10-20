@@ -15,7 +15,7 @@ a:link {
 }
 
 a:visited {
-  color: DarkSlateBlue;
+  color: SteelBlue;
   background-color: transparent;
   text-decoration: none;
 }
