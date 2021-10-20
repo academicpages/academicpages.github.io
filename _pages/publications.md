@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<html>
+<body>
 <h2 style="color:DodgerBlue;">Selected Publications:</h2>
 <hr style="color:DodgerBlue;">
 
@@ -45,7 +47,9 @@ author_profile: true
   <li>  Aadirupa Saha, Aditya Gopalan</li>
   <li>  In Algorithmic Learning Theory, ALT 2019</li>
 </ul>
-
+</body>
+</html>
+  
 <h2 style="color:DodgerBlue;">Full List of Publications:</h2>
 [Yearwise](https://www.microsoft.com/en-us/research/people/aasa/publications/) 
 [Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
