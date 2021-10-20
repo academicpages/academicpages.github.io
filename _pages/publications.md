@@ -128,34 +128,38 @@ author_profile: true
 
 
 
-Approaches to Scientific Modeling, and the (Non)Issue of Representation: A Case Study in Multi-model Research on Thigmotaxis and Group Thermoregulation. Model-Based Reasoning in Science and Technology, L. Magnani and C. Casadio (eds.), Springer, 2016. 
-
-Recent contributions to the philosophical literature on scientific modeling have tended to follow one of two approaches, on the one hand addressing conceptual, metaphysical and epistemological questions about models, or, on the other hand, emphasizing the cognitive aspects of modeling and accordingly focusing on model-based reasoning. In this paper I explore the relationship between these two approaches through a case study of model-based research on the behavior of infant rats, particularly thigmotaxis (movement based on tactile sensation) and temperature regulation in groups. A common assumption in the philosophical literature is that models represent the target phenomena they simulate. In the modeling project under investigation, however, this assumption was not part of the model-based reasoning process, arising only in a theoretical article as, I suggest, a post hoc rhetorical device. I argue that the otherwise nonexistent concern with the model-target relationship as being representational results from a kind of objectification often at play in philosophical analysis, one that can be avoided if an alternative form of objectification is adopted instead.
-
-KEYWORDS: Scientific modeling; Model-based reasoning; Representation; Thigmotaxis; Thermoregulation; Robotics; Agent-based modeling
-
-
-[PDF]
-
-Against Smallism and Localism. (with Anthony Chemero). Studies in Logic, Grammar, and Rhetoric: Special issue on Thinking with Hands, Eyes, and Things, Vol 41, 2015. 
-
-The question whether cognition ever extends beyond the head is widely considered to be an empirical issue. And yet, all the evidence amassed in recent years has not sufficed to settle the debate. In this paper we suggest that this is because the debate is not really an empirical one, but rather a matter of definition. Traditional cognitive science can be identified as wedded to the ideals of “smallism” and “localism”. We criticize these ideals and articulate a case in favor of extended cognition by highlighting the historical pedigree and conceptual adequacy of related empirical and theoretical work.
-
-KEYWORDS: extended cognition; reductionism; internalism; affordances; dynamical systems; tool-use; social interaction; cognitive institutions 
+## Approaches to Scientific Modeling, and the (Non)Issue of Representation: A Case Study in Multi-model Research on Thigmotaxis and Group Thermoregulation.<br> *Model-Based Reasoning in Science and Technology*, 2016.  ([Link](https://www.academia.edu/26961236/Approaches_to_Scientific_Modeling_and_the_Non_Issue_of_Representation_A_Case_Study_in_Multi-model_Research_on_Thigmotaxis_and_Group_Thermoregulation))  <img align="right" src="https://gui-cogsci.github.io/images/mbr2016.jpg" width="130">
+> Recent contributions to the philosophical literature on scientific modeling have tended to follow one of two approaches, on the one hand addressing conceptual, metaphysical and epistemological questions about models, or, on the other hand, emphasizing the cognitive aspects of modeling and accordingly focusing on model-based reasoning. In this paper I explore the relationship between these two approaches through a case study of model-based research on the behavior of infant rats, particularly thigmotaxis (movement based on tactile sensation) and temperature regulation in groups. A common assumption in the philosophical literature is that models represent the target phenomena they simulate. In the modeling project under investigation, however, this assumption was not part of the model-based reasoning process, arising only in a theoretical article as, I suggest, a post hoc rhetorical device. I argue that the otherwise nonexistent concern with the model-target relationship as being representational results from a kind of objectification often at play in philosophical analysis, one that can be avoided if an alternative form of objectification is adopted instead.
+>
+> KEYWORDS: Scientific modeling; Model-based reasoning; Representation; Thigmotaxis; Thermoregulation; Robotics; Agent-based modeling
+>> Sanches de Oliveira G. (2016). Approaches to Scientific Modeling, and the (Non)Issue of Representation: A Case Study in Multi-model Research on Thigmotaxis and Group Thermoregulation. Magnani L., Casadio C. (eds), *Model-Based Reasoning in Science and Technology. Studies in Applied Philosophy, Epistemology and Rational Ethics*, vol 27. Springer, Cham. DOI: 10.1007/978-3-319-38983-7_5
 
 
-[PDF]
+<br><br>
 
 
 
-Review of Michael Weisberg's Simulation and Similarity: Using Models to Understand the World. Metapsychology (ISSN 1931-5716), Volume 17, Issue 40, 2013.
+## Against Smallism and Localism. (w/ Tony Chemero)<br> *Studies in Logic, Grammar, and Rhetoric*, 2015. ([Link](https://www.sciendo.com/article/10.1515/slgr-2015-0017))  <img align="right" src="https://gui-cogsci.github.io/images/smallism.jpg" width="130"> 
+> The question whether cognition ever extends beyond the head is widely considered to be an empirical issue. And yet, all the evidence amassed in recent years has not sufficed to settle the debate. In this paper we suggest that this is because the debate is not really an empirical one, but rather a matter of definition. Traditional cognitive science can be identified as wedded to the ideals of “smallism” and “localism”. We criticize these ideals and articulate a case in favor of extended cognition by highlighting the historical pedigree and conceptual adequacy of related empirical and theoretical work.
+>
+> KEYWORDS: extended cognition; reductionism; internalism; affordances; dynamical systems; tool-use; social interaction; cognitive institutions 
+>> Sanches de Oliveira, G., and Chemero, A. (2015). Against Smalism and Localism. *Studies in Logic, Grammar and Rhetoric* vol 41, no 1, pp. 9-23. DOI: 10.1515/slgr-2015-0017
+
+
+<br><br>
+
+
+## Review of Michael Weisberg's "Simulation and Similarity: Using Models to Understand the World."<br> *Metapsychology*, 2013.  ([Link](https://www.academia.edu/4667878/Review_of_Michael_Weisbergs_Simulation_and_Similarity_Using_Models_to_Understand_the_World))  <img align="right" src="https://gui-cogsci.github.io/images/metapsychology.png" width="130">
+>> Sanches de Oliveira, G. (2013) Review of Michael Weisberg's Simulation and Similarity: Using Models to Understand the World. *Metapsychology*, Vol. 17, Issue 40. ISSN 1931-5716.
+
+
+<br><br>
 
 
 
-[PDF]
+## Interaction and Mental State Attributions: Social Aspects of Folk Psychology.<br> *Actas del Primer Congreso de la Sociedad Filosofica del Uruguay*, 2012.  ([Link](https://www.academia.edu/5008768/Interaction_and_Mental_State_Attributions_Social_Aspects_of_Folk_Psychology))  <img align="right" src="https://gui-cogsci.github.io/images/uruguay.jpeg" width="130">
+> Matthew Rattcliffe defends that Folk Psychology is incompatible with ordinary interpersonal understanding, which he says is more fundamentally interactive and interpretative according to the social rules of the shared environment than based on mental state attributions. In this paper I examine Ratcliffe's position, arguing that his rejection of mindreading is unjustified; although it is right that coordinated action can be a result of mere contextual comprehension, there are cases in which there is no interpersonal understanding exactly because of failed mindreading, thus making clear the importance of mental state attributions.  [in Portuguese]
+>
+> KEYWORDS: folk psychology, mindreading, interpersonal understanding
+>>  Sanches de Oliveira, G. (2012) Interaction and Mental State Attributions: Social Aspects of Folk Psychology. C. Caorsi, R. Navia, P. Melogno (Eds.), *Actas del Primer Congreso de la Sociedad Filosofica del Uruguay*, pp. 510-518. ISSN: 1688-9649.
 
-Interaction and Mental State Attributions: Social Aspects of Folk Psychology. Actas del Primer Congreso de la Sociedad Filosofica del Uruguay, C. Caorsi, R. Navia, and P. Melogno (eds.), ISSN: 1688-9649, 2012. [in Portuguese]
-
-Matthew Rattcliffe defends that Folk Psychology is incompatible with ordinary interpersonal understanding, which he says is more fundamentally interactive and interpretative according to the social rules of the shared environment than based on mental state attributions. In this paper I examine Ratcliffe's position, arguing that his rejection of mindreading is unjustified; although it is right that coordinated action can be a result of mere contextual comprehension, there are cases in which there is no interpersonal understanding exactly because of failed mindreading, thus making clear the importance of mental state attributions. 
-
-KEYWORDS: folk psychology, mindreading, interpersonal understanding
