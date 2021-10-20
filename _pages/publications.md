@@ -9,11 +9,10 @@ author_profile: true
 <hr color=blue>
 
 <dl>
-  <dt>  Dueling Bandits with Adversarial Sleeping</dt>
+  <dt>  Dueling Bandits with Adversarial Sleeping <a href="https://arxiv.org/abs/2107.02274" target="_blank">[Arxiv Version]</a></dt>
   <dd>  Aadirupa Saha, Pierre Gaillard</dd>
   <dd>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</dd>
-  <dd>  <a href="https://arxiv.org/abs/2107.02274" target="_blank">Arxiv Version</a></dd>
-  
+
   <dt>  Optimal Algorithms for Stochastic Contextual Dueling Bandits</dt>
   <dd>  Aadirupa Saha</dd>
   <dd>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</dd>
@@ -54,10 +53,9 @@ author_profile: true
 </dl>
 
 <h2 style="color:DodgerBlue;">Complete List of Publications:</h2>
-<hr color=blue>
 [Yearwise](https://www.microsoft.com/en-us/research/people/aasa/publications/) 
 [Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
-
+<hr color=blue>
 
 <b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
