@@ -11,7 +11,7 @@ redirect_from:
 I am currently a postdoctoral researcher at [Microsoft Research New York City](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I did my PhD from the department of [Computer Science](https://www.csa.iisc.ac.in/), [Indian Institute of Science, Bangalore](https://iisc.ac.in/). I was fortunate to intern at [Microsoft Research, Bangalore](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), [Inria, Paris](https://www.inria.fr/en/centre-inria-de-paris), and [Google AI, Mountain View](https://ai.google/). 
 <!-- Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). -->
 
-<font color="SteelBlue"><b>Research interests:</b></font>Bandits and Reinforcement Learning, Optimization, Learning theory, Algorithm analysis. 
+<b><font color="SteelBlue">Research interests:</font></b> Bandits and Reinforcement Learning, Optimization, Learning theory, Algorithm analysis. 
 
 My current research mainly focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, e.g. preference information, proxy rewards, partial ranking, etc. Some of my other recent ventures include non-stationary contextual bandits, privacy-preserving recommender systems, improving system performances by combining absolute feedback with relative preferences. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.
 <br><br>
