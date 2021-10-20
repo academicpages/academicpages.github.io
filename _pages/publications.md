@@ -1,11 +1,11 @@
-![image](https://user-images.githubusercontent.com/35531371/138137304-de943fb9-ed31-473c-85be-06310129df57.png)
-![image](https://user-images.githubusercontent.com/35531371/138137308-5a99c19f-2334-44b2-8e16-3b7d777eb2ff.png)
 ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<h3>Selected Publications</h3>
 
 <dl>
   <dt>Optimal Algorithms for Stochastic Contextual Preference Bandits</dt>
