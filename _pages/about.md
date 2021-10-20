@@ -15,7 +15,8 @@ I am currently a postdoctoral researcher at [Microsoft Research New York City](h
 
 My current research mainly focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, e.g. preference information, proxy rewards, partial ranking, etc. Some of my other recent ventures include non-stationary contextual bandits, privacy-preserving recommender systems, improving system performances by combining absolute feedback with relative preferences. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.
 <br>
-[Selected Publications](<a href="#INSERT_YOUR_OBJECT_NAME_HERE">Click here to see the content below.</a>)
-[Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
+<a href="#my_sel_pubs">[Selected Publications]</a>
+<a href="#my_full_pubs">[Full List]</a>
+
 <!--Email: firstname.lastname @ microsoft.com-->
 
