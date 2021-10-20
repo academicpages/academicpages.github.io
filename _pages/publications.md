@@ -8,9 +8,10 @@ author_profile: true
 <h4>Selected Publications</h4>
 
 <dl>
-  <dt>Optimal Algorithms for Stochastic Contextual Preference Bandits</dt>
-  <dd>- Aadirupa Saha</dd>
-  <dd>- NeurIPS 2021</dd>
+  <dt>  Optimal Algorithms for Stochastic Contextual Preference Bandits</dt>
+  <dd>   Aadirupa Saha</dd>
+  <dd>   NeurIPS 2021</dd>
+  
   <dt>Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</dt>
   <dd>- Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain</dd>
 </dl>
