@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h3 style="color:DodgerBlue;">Selected Publications: </h3>
-<hr>Optimal Algorithms for Stochastic Contextual Preference Bandits
+<hr>
 <dl>
   <dt>  [Dueling Bandits with Adversarial Sleeping]()</dt>
   <dd>  Aadirupa Saha, Pierre Gaillard</dd>
@@ -17,17 +17,16 @@ author_profile: true
   <dd>  Aadirupa Saha</dd>
   <dd>  (To appear)In Neural Information Processing Systems, NeurIPS 2021</dd
     
-  <dt>  [Dueling Convex Optimization]()</dt>
+  <dt>  [Dueling Convex Optimization](http://proceedings.mlr.press/v139/saha21b.html)</dt>
+  <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
+  <dd>  In International Conference on Machine Learning, ICML 2021</dd>
+    
+  <dt>  [Adversarial Dueling Bandits](http://proceedings.mlr.press/v139/saha21a.html)</dt>
   <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
   <dd>  In International Conference on Machine Learning, ICML 2021</dd>
   <dd>  [Arxiv Version]()    
     
-  <dt>  [Adversarial Dueling Bandits]()</dt>
-  <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
-  <dd>  In International Conference on Machine Learning, ICML 2021</dd>
-  <dd>  [Arxiv Version]()    
-    
-  <dt> [Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization]()</dt>
+  <dt> [Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization](http://proceedings.mlr.press/v139/saha21c.html)</dt>
   <dd>- Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain</dd>
   <dd>  In International Conference on Machine Learning, ICML 2021</dd>
   <dd>  [Arxiv Version]()  
@@ -42,17 +41,16 @@ author_profile: true
   <dd>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</dd>
   <dd>  [Arxiv Version]() 
   
-  <dt>  [On Preference based Combinatorial Semi-Bandits]()</dt>
+  <dt>  [On Preference based Combinatorial Semi-Bandits](http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback)</dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In Neural Information Processing Systems, NeurIPS 2019</dd>
   <dd>  [Arxiv Version]()    
     
-  <dt>  [PAC Battling Bandits in the Plackett-Luce Model]()</dt>
+  <dt>  [PAC Battling Bandits in the Plackett-Luce Model](http://proceedings.mlr.press/v98/saha19a.html)</dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In Algorithmic Learning Theory, ALT 2019</dd>
   <dd>  [Arxiv Version]()    
 </dl>
-
 
 
 [Complete List of Publications](https://www.microsoft.com/en-us/research/people/aasa/publications/) (Yearwise)
