@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2 style="color:DodgerBlue;">Selected Publications:</h2>
-<hr color=blue>
+<hr style="color=blue">
 
 <dl>
   <dt>  Dueling Bandits with Adversarial Sleeping <a href="https://arxiv.org/abs/2107.02274" target="_blank">[Arxiv Version]</a></dt>
@@ -29,33 +29,33 @@ author_profile: true
   <dt> <a href="http://proceedings.mlr.press/v139/saha21c.html" target="_blank">Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</a></dt>
   <dd>- Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain</dd>
   <dd>  In International Conference on Machine Learning, ICML 2021</dd>
-  <dd>  <a href="https://arxiv.org/abs/2102.07387" target="_blank">Arxiv Version</a></dd>
+  <dd>  </dd>
     
-  <dt>  <a href="https://proceedings.mlr.press/v119/saha20b.html" target="_blank">From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model</a></dt>
+  <dt>  <a href="https://proceedings.mlr.press/v119/saha20b.html" target="_blank">From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model</a> <a href="https://arxiv.org/abs/2102.07387" target="_blank">[Arxiv Version]</a></dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In International Conference on Machine Learning, ICML 2020</dd>
   <dd>  <a href="https://arxiv.org/abs/1903.00558" target="_blank">Arxiv Version</a></dd>
     
-  <dt>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank">Best-item Learning in Random Utility Models with Subset Choices</a></dt>
+  <dt>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank">Best-item Learning in Random Utility Models with Subset Choices</a> <a href="https://arxiv.org/abs/2002.07994" target="_blank">[Arxiv Version]</a></dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</dd>
-  <dd>  <a href="https://arxiv.org/abs/2002.07994" target="_blank">Arxiv Version</a></dd>
+  <dd>  </dd>
     
-  <dt>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank">Combinatorial Bandits with Relative Feedback</a></dt>
+  <dt>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank">Combinatorial Bandits with Relative Feedback</a><a href="https://arxiv.org/abs/1903.00543" target="_blank">[Arxiv Version]</a></dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In Neural Information Processing Systems, NeurIPS 2019</dd>
-  <dd>  <a href="https://arxiv.org/abs/1903.00543" target="_blank">Arxiv Version</a></dd>   
+  <dd>  </dd>   
     
-  <dt>  <a href="http://proceedings.mlr.press/v98/saha19a.html" target="_blank">PAC Battling Bandits in the Plackett-Luce Model</a></dt>
+  <dt>  <a href="http://proceedings.mlr.press/v98/saha19a.html" target="_blank">PAC Battling Bandits in the Plackett-Luce Model</a> <a href="https://arxiv.org/abs/1808.04008" target="_blank">Arxiv Version</a></dt>
   <dd>  Aadirupa Saha, Aditya Gopalan</dd>
   <dd>  In Algorithmic Learning Theory, ALT 2019</dd>
-  <dd>  <a href="https://arxiv.org/abs/1808.04008" target="_blank">Arxiv Version</a></dd> 
+  <dd>  </dd> 
 </dl>
 
-<h2 style="color:DodgerBlue;">Complete List of Publications:</h2>
+<h2 style="color:DodgerBlue;">Full List of Publications:</h2>
 [Yearwise](https://www.microsoft.com/en-us/research/people/aasa/publications/) 
 [Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
-<hr color=blue>
+<hr style="color=blue">
 
 <b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
