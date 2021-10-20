@@ -7,13 +7,13 @@ author_profile: true
 
 <html>
 <body>
-<h2 style="color:DodgerBlue;"><a id="my_sel_pubs">Selected Publications:</a></h2>
-<hr style="color:DodgerBlue;">
+<h2 style="color:DodgerBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
+<hr style="color:black;">
 
-<ul>
-  <li>  Dueling Bandits with Adversarial Sleeping <a href="https://arxiv.org/abs/2107.02274" target="_blank"> [Arxiv Version]</a></li>
-  <li>  Aadirupa Saha, Pierre Gaillard</li>
-  <li>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+<ul style="margin:0;padding:0">
+  <li>  Dueling Bandits with Adversarial Sleeping <a href="https://arxiv.org/abs/2107.02274" target="_blank"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Pierre Gaillard
+  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021
 
   <li>  Optimal Algorithms for Stochastic Contextual Dueling Bandits</li>
   <li>  Aadirupa Saha</li>
@@ -50,10 +50,10 @@ author_profile: true
 </body>
 </html>
   
-<h2 style="color:DodgerBlue;">Full List of Publications:</h2>
+<h2 style="color:DodgerBlue;"><a id="my_full_pubs">Full List of Publications:</a></h2>
 [Yearwise](https://www.microsoft.com/en-us/research/people/aasa/publications/) 
 [Google Scholar](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en)
-<hr style="color:DodgerBlue;">
+<hr style="color:black;">
 
 <b>Collaborators. </b> I have been really fortunate to be able to work with some of the amazing research minds: 
   [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/),
