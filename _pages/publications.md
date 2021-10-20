@@ -17,41 +17,40 @@ author_profile: true
   <dd>  Aadirupa Saha</dd>
   <dd>  (To appear)In Neural Information Processing Systems, NeurIPS 2021</dd
     
-  <dt>  []()</dt>
-  <dd>  Aadirupa Saha</dd>
-  <dd>  </dd>
+  <dt>  [Dueling Convex Optimization]()</dt>
+  <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
+  <dd>  In International Conference on Machine Learning, ICML 2021</dd>
   <dd>  [Arxiv Version]()    
     
-  <dt>  []()</dt>
-  <dd>  Aadirupa Saha</dd>
-  <dd>  </dd>
+  <dt>  [Adversarial Dueling Bandits]()</dt>
+  <dd>  Aadirupa Saha, Tomer Koren, Yishay Mansour</dd>
+  <dd>  In International Conference on Machine Learning, ICML 2021</dd>
   <dd>  [Arxiv Version]()    
     
   <dt> [Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization]()</dt>
   <dd>- Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain</dd>
-  <dd>  </dd>
+  <dd>  In International Conference on Machine Learning, ICML 2021</dd>
   <dd>  [Arxiv Version]()  
+    
+  <dt>  [From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model](https://proceedings.mlr.press/v119/saha20b.html)</dt>
+  <dd>  Aadirupa Saha, Aditya Gopalan</dd>
+  <dd>  In International Conference on Machine Learning, ICML 2020</dd>
+  <dd>  [Arxiv Version](https://arxiv.org/abs/1903.00558) 
   
-  <dt>  []()</dt>
-  <dd>  Aadirupa Saha</dd>
-  <dd>  </dd>
+  <dt>  [Best-item Learning in Random Utility Models with Subset Choices](https://proceedings.mlr.press/v108/aadirupa-saha20a.html)</dt>
+  <dd>  Aadirupa Saha, Aditya Gopalan</dd>
+  <dd>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</dd>
+  <dd>  [Arxiv Version]() 
+  
+  <dt>  [On Preference based Combinatorial Semi-Bandits]()</dt>
+  <dd>  Aadirupa Saha, Aditya Gopalan</dd>
+  <dd>  In Neural Information Processing Systems, NeurIPS 2019</dd>
   <dd>  [Arxiv Version]()    
     
-  <dt>  []()</dt>
-  <dd>  Aadirupa Saha</dd>
-  <dd>  </dd>
+  <dt>  [PAC Battling Bandits in the Plackett-Luce Model]()</dt>
+  <dd>  Aadirupa Saha, Aditya Gopalan</dd>
+  <dd>  In Algorithmic Learning Theory, ALT 2019</dd>
   <dd>  [Arxiv Version]()    
-  
-  <dt>  []()</dt>
-  <dd>  Aadirupa Saha</dd>
-  <dd>  </dd>
-  <dd>  [Arxiv Version]()    
-    
-  <dt>  []()</dt>
-  <dd>  Aadirupa Saha</dd>
-  <dd>  </dd>
-  <dd>  [Arxiv Version]()    
-
 </dl>
 
 
