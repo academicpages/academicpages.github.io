@@ -14,7 +14,7 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 
 77. **"Affordances in the Wild: Sociocultural Constitution and the Anthropological Contribution to Embodied Cognitive Science."** 5th International Conference on Interactivity, Language & Cognition: Integrating Quantitative and Qualitative Methods in the Cognitive and Language Sciences. University of Warsaw, Poland. (September 15-19, 2021) [online]
 
-76. **"Insight in Graph Comprehension as a Phase Transition."** [with Paul Schweidler*] Workshop Enacting Chance: Ignorance Insight and Intuition. Lorentz Center, Leiden, Netherlands.  (August 23-27, 2021)  [online]
+76. **"Insight in Graph Comprehension as a Phase Transition."** [with Paul Schweidler*] Workshop Enacting Chance: Ignorance Insight and Intuition. Lorentz Center, Leiden, Netherlands.  (August 23-27, 2021)
 
 75. **"Affordances in the wild: Anthropological Contributions to Embodied Cognitive Science."** 43rd Annual Meeting of the Cognitive Science Society. (July 29 - August 1, 2021)  [online]
 
