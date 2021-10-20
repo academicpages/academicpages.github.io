@@ -85,7 +85,7 @@ A persistent criticism of radical embodied cognitive science is that it will be 
 > Dotov, Nie and Chemero (2010) conducted a set of experiments to demonstrate how phenomenology, particularly the work of Martin Heidegger, interfaces with experimental research in embodied cognitive science. Specifically, they drew a parallel between Heidegger’s notion of readiness-to-hand and the concept of an extended cognitive system (Clark 2008) by looking for the presence or absence of interaction-dominant dynamics (Holden, van Orden, and Turvey 2009; Ihlen and Vereijken 2010) in a hand/mouse system. We share Dotov, Nie and Chemero’s optimism about the potential for cross-pollination between phenomenology and cognitive science, but we think that it can be better advanced through a shift in focus. First, we argue in favor of using Maurice Merleau-Ponty’s phenomenological theory as the philosophical foundation for experimental research in embodied cognitive science. Second, we describe an audio-visual tracking task in virtual reality that we designed and used to empirically investigate humanenvironment coupling and interactivity. In addition to providing further support for phenomenologically-inspired empirical cognitive science, our research also offers a more generalizable scientific treatment of the interaction between humans and their environments.
 >
 > KEYWORDS: phenomenology, embodiment, interactivity, agent-environment systems
->> Sanches de Oliveira, G., Riehm, C., & Annand, C. (2019). Bee-ing in the World: Phenomenology, Cognitive Science, and Interactivityin a Novel Insect-Tracking Task. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society (pp. 1008-1013). ISBN: 0-9911967-7-5. Montreal, QB: Cognitive Science Society.
+>> Sanches de Oliveira, G., Riehm, C., & Annand, C. (2019). Bee-ing in the World: Phenomenology, Cognitive Science, and Interactivityin a Novel Insect-Tracking Task. A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society (pp. 1008-1013). ISBN: 0-9911967-7-5. Montreal, QB: Cognitive Science Society.
 
 <br><br>
 
@@ -100,14 +100,17 @@ A persistent criticism of radical embodied cognitive science is that it will be 
 <br><br>
 
 
-The Cognition-Perception Distinction Across Paradigms: An Ecological View. Proceedings of the 40th Annual Meeting of the Cognitive Science Society, 2018. (w/ Vicente Raja) 
+## The Cognition-Perception Distinction Across Paradigms: An Ecological View. (w/ Vicente Raja)<br> *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, 2018.  ([Link](https://www.academia.edu/37088485/The_Cognition-Perception_Distinction_Across_Paradigms_An_Ecological_View))  <img align="right" src="https://gui-cogsci.github.io/images/cogsci2018.jpg" width="130">
+>
+> Folk psychology takes perception and cognition to be two distinct processes. It seems that when we perceive the world we are engaged in one kind of activity and when we think about it we are engaged in a different one. This conception underlies various discussions within the cognitive sciences, such as on the architecture and modularity of the mind, and the cognitive penetrability of perception. But is the distinction justified? This paper looks for an answer in two opposing paradigms in the sciences of the mind: traditional cognitivism and ecological psychology. Even though cognitivism is the dominant paradigm, we argue that it has thus far failed to give a definite account of the relation between perception and cognition, and to support or to deny their separation. Ecological psychology, on the other hand, rejects the distinction and integrates cognition with perception. We discuss previous work within the ecological view and sketch directions for future research.
+>
+> KEYWORDS: cognition; perception; folk psychology; cognitivism; ecological psychology
+>> Sanches de Oliveira, G. & Raja, V. (2018). The Cognition-Perception Distinction Across Paradigms: An Ecological View. T.T. Rogers, M. Rau, X. Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society*, pp. 2403-2408. Austin, TX: Cognitive Science Society. ISBN: 978-0-9911967-8-4
 
-Folk psychology takes perception and cognition to be two distinct processes. It seems that when we perceive the world we are engaged in one kind of activity and when we think about it we are engaged in a different one. This conception underlies various discussions within the cognitive sciences, such as on the architecture and modularity of the mind, and the cognitive penetrability of perception. But is the distinction justified? This paper looks for an answer in two opposing paradigms in the sciences of the mind: traditional cognitivism and ecological psychology. Even though cognitivism is the dominant paradigm, we argue that it has thus far failed to give a definite account of the relation between perception and cognition, and to support or to deny their separation. Ecological psychology, on the other hand, rejects the distinction and integrates cognition with perception. We discuss previous work within the ecological view and sketch directions for future research.
 
-KEYWORDS: cognition; perception; folk psychology; cognitivism; ecological psychology
+<br><br>
 
 
-[PDF]
 
 Ecological Psychology and the Environmentalist Promise of Affordances.  Proceedings of the 40th Annual Meeting of the Cognitive Science Society, 2018.
 
