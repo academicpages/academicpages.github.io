@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Recent News
-* Oct. 21, 2021, Our paper <b>SCPM-Net:An Anchor-free 3D Lung Nodule Detection Network using SphereRepresentation and Center Points Matching</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SCPM-Net) and [paper](https://arxiv.org/abs/2104.05215) are available.
+* Oct. 21, 2021, Our paper <b>SCPM-Net:An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SCPM-Net) and [paper](https://arxiv.org/abs/2104.05215) are available.
 * Aug. 29, 2021, We released a 2D inference code and GUI of MIDeepSeg (published in MedIA2021), the repo at [MIDeepSeg](https://github.com/HiLab-git/MIDeepSeg).
 * Jun. 21, 2021, I have joined [Shanghai AI Lab](https://www.shlab.org.cn/pc/home)  as a research intern.
 * Jun. 12, 2021, Two co-authors papers were accepted by MICCAI 2021 (~33% acceptance rate) after the rebuttal, congratulate all collaborators.
