@@ -1,7 +1,7 @@
 ---
 title: "Status, identity, and language: A study of issue discussions in GitHub"
 collection: publications
-permalink: /publications/GitHubNLP
+permalink: /publications/2019-12-01-GitHubNLP
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019
 venue: 'PLOS ONE 14(6): e0215059'
