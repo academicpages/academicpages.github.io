@@ -13,7 +13,7 @@ I am currently a postdoctoral researcher at [Microsoft Research New York City](h
 
 <b><font color="SteelBlue">Research interests:</font></b> Bandits and Reinforcement Learning, Optimization, Learning theory, Algorithm analysis. 
 
-My current research mainly focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, e.g. preference information, proxy rewards, partial ranking, etc. Some of my other recent ventures also include non-stationary contextual bandits, privacy-preserving recommender systems, improving system performances by combining absolute feedback with relative preferences. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.
+My current research mainly focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, for example, preference information, proxy rewards, partial ranking, etc. Some other recent ventures also include handling non-stationarity in contextual environments, developing scalable and robust systems, differential privacy, learning from proxy rewards. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.
 <br><br>
 <a href="https://aadirupa.github.io/publications#selected_publications">[Selected Papers]</a>
 <a href="https://aadirupa.github.io/publications#full_publications">[Full List]</a>
