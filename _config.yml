@@ -60,9 +60,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-universal # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-136087327-2
+    tracking_id          : G-DTBYRRX0GP
+
 
 # Google AdSense
 google_ad_client         :
