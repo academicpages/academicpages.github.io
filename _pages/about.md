@@ -15,11 +15,12 @@ redirect_from:
 
 
 # Recent News
+* Oct. 21, 2021, Our paper <b>SCPM-Net:An Anchor-free 3D Lung Nodule Detection Network using SphereRepresentation and Center Points Matching</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SCPM-Net) and [paper](https://arxiv.org/abs/2104.05215) are available.
 * Aug. 29, 2021, We released a 2D inference code and GUI of MIDeepSeg (published in MedIA2021), the repo at [MIDeepSeg](https://github.com/HiLab-git/MIDeepSeg).
 * Jun. 21, 2021, I have joined [Shanghai AI Lab](https://www.shlab.org.cn/pc/home)  as a research intern.
 * Jun. 12, 2021, Two co-authors papers were accepted by MICCAI 2021 (~33% acceptance rate) after the rebuttal, congratulate all collaborators.
 * May 14, 2021, Our paper <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> was early accepted by <b>MICCAI2021</b> (top 13% in total 1630 submissions), thanks to all co-authors.
-* May 06, 2021, Our paper <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors.
+* May 06, 2021, Our paper <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/MIDeepSeg) and [paper](https://www.sciencedirect.com/science/article/pii/S1361841521001481).
 * April 29, 2021, One co-author paper <b>Medical Image Segmentation using Squeeze-and-Expansion Transformers</b> was accepted by <b>IJCAI2021</b> (~13% acceptance rate), congratulate Dr. [Shaohua Li](https://scholar.google.com.sg/citations?hl=en&user=e4pk9x0AAAAJ&view_op=list_works&sortby=pubdate).
 * Jan. 25, 2021, We released a code base and some 2D examples for weakly-supervised medical image segmentation research, the repo at [WSL4MIS](https://github.com/Luoxd1996/WSL4MIS), any advices and suggestions are welcomed. 
 * Jan. 08, 2021, Our paper <b>Deep Elastica for Image Segmentation</b> was accepted by <b>ISBI 2021</b>.
