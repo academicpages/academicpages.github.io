@@ -5,6 +5,6 @@ permalink: /publication/2019-12-01-GitHub-NLP
 excerpt: 'Toadd.'
 date: 2018-12-01
 venue: 'PLOS ONE'
-authors: Jingxian Liao, Guowei Yang, David Kavaler, Vladimir Filkov, Prem Devanbu
+authors: <strong>Jingxian Liao</strong>, Guowei Yang, David Kavaler, Vladimir Filkov, Prem Devanbu
 paperurl: 'https://doi.org/10.1371/journal.pone.0215059'
 ---
