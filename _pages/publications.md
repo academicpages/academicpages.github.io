@@ -8,6 +8,8 @@ author_profile: true
     
 ## Journal Articles
 
++ Lee, J., Chen, Z., **Sun, Y.**, Kim, J., Rogers, J., Liu, C. and Weng, C., " Deep Learning for Rare Disease: Scoping Review with Methodological Focus". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
+
 + Tian, K., Perotte, A., **Sun, Y.**, Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceMap: A Multi-Level Representation for Medical Evidence Extraction and Synthesis". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
 
 + Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
