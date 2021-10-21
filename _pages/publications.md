@@ -35,7 +35,7 @@ a:active {
 </head>  
   
 <body>
-<h2 style="color:SteelBlue;"><a id="my_sel_pubs">Selected Papers:</a></h2>
+<h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
@@ -77,7 +77,7 @@ a:active {
  
 <hr style="color:black;"> 
  
-<h2 style="color:SteelBlue;"><a id="my_full_pubs">Full List of Publications:</a></h2>
+<h2 style="color:SteelBlue;"><a id="full_publications">Full List of Publications:</a></h2>
   <a href="https://www.microsoft.com/en-us/research/people/aasa/publications/" target="_blank"> [Yearwise]</a>&nbsp;
   <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"> [Google Scholar]</a>&nbsp;
   <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"> [arXiv]</a>
@@ -94,7 +94,7 @@ a:active {
    <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>,
    <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
    <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>,
-   <a href="https://tomerkoren.github.io/" target="_blank">Tomer Koren></a>,
+   <a href="https://tomerkoren.github.io/" target="_blank">Tomer Koren</a>,
    <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
    <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
    <a href="https://www.tau.ac.il/~mansour/" target="_blank">Yishay Mansour</a>,
