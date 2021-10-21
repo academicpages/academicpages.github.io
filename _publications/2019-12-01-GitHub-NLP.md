@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Status, identity, and language: A study of issue discussions in GitHub"
 collection: publications
 permalink: /publication/2019-12-01-GitHub-NLP
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
