@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "Gestures as Intrinsic Creativity Support: Understanding the Usage and Function of Hand Gestures in Computer-Mediated Group Brainstorming"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-Gesture
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
