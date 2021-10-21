@@ -20,7 +20,7 @@ location: "Berlin, Germany"
 > The course is divided in two parts: (1) a lecture series followed by discussion sessions and a (2) seminar series with student presentations and discussion sessions.
 > Student evaluation: weekly quizzes during lecture series + seminar presentations + final paper.
 > 
-> (This course is a graduate-level version of my undergraduate course PHIL1006 Introduction to Cognitive Studies, taught at the University of Cincinnati in Summer 2018)
+> (This course is a graduate-level elaboration of my undergraduate course PHIL1006 Introduction to Cognitive Studies, taught at the University of Cincinnati in Summer 2018)
 
 
 
