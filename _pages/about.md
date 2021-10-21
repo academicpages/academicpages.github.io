@@ -62,8 +62,8 @@ Friends
 ======
 I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
 
-[Haodong Duan](https://kennymckormick.github.io/) (MPhil. Student at the Chinese University of Hong Kong, Computer Vision). 
+[Haodong Duan](https://kennymckormick.github.io/) (Ph.D Student at the Chinese University of Hong Kong, Computer Vision). 
 
-[Peiqing Chen](https://kaiserv2.github.io/) (Undergraduate student at Peking University, Networking Algorithms). 
+[Peiqing Chen](https://kaiserv2.github.io/) (Ph.D student at Boston University, Network measurement). 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script>
