@@ -13,7 +13,7 @@ redirect_from:
 
 <b><font color="SteelBlue">Research interests:</font></b> Bandits and Reinforcement Learning, Optimization, Learning theory, Algorithm analysis. 
 
-<p align="justify"> My current research mainly focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some other recent ventures also include handling non-stationarity in contextual environments, differential privacy, multiplayer games, online convex optimization. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.</p>
+<p align="justify"> My current research mainly focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity in contextual environments, differential privacy, multiplayer games, online convex optimization. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.</p>
 <br><br>
 <a href="https://aadirupa.github.io/publications#selected_publications">[Selected Papers]</a>
 <a href="https://aadirupa.github.io/publications#full_publications">[Full List]</a>
