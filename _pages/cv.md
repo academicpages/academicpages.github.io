@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_Oct_13_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
+Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_Oct_21_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
 
 Education
 ======
@@ -54,6 +54,8 @@ Publications
 Select Conference Presentations 
 ======
 <b><big>Oral Presentations</big></b>
+
+* <b>Cheng, Y. </b>. Travel Direction as a Fundamental Component of Human Navigation, UCI Cognitive Sciences Colloquium Flash Talk.  Oct., 2021.
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. Head Direction Signals During Navigation. Virtual Spring CNLM Conference - Memory: It's About Time, Virtual.  May, 2021. [[news](/posts/2021/5/blog-post-2/)]
 
