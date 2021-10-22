@@ -18,7 +18,8 @@ location: "Berlin, Germany"
 > Course offered in Winter 2020/21, Summer 2021 and Winter 2021/22 to master's and PhD students from various programs at TU Berlin, including psychology, neuroscience, human factors, computer science,  human-computer interaction, and design.
 > 
 > The course is divided in two parts: (1) a lecture series followed by discussion sessions and a (2) seminar series with student presentations and discussion sessions.
-> Student evaluation: weekly quizzes during lecture series + seminar presentations + final paper.
+> 
+> **Student evaluation:** weekly quizzes during lecture series + seminar presentations + final paper.
 > 
 > (This course is a graduate-level elaboration of my undergraduate course PHIL1006 Introduction to Cognitive Studies, taught at the University of Cincinnati in Summer 2018)
 
@@ -36,7 +37,7 @@ Topics within embodied cognitive science include: conceptual and motor grounding
 
 
 
-Sample of Readings from Part 1 (lecture + discussion)
+Sample of readings from Part 1 (lecture + discussion)
 ======
 
 - Cummins, D. D. (1988) A History of Thinking
@@ -61,7 +62,7 @@ Sample of Readings from Part 1 (lecture + discussion)
 
 
 
-Sample of Topics / Readings from Part 2 (student presentations + discussion)
+Sample of topics & readings from Part 2 (student presentations + discussion)
 ======
 
 - Rietveld, E., and Kiverstein, J. (2014) A rich landscape of affordances
