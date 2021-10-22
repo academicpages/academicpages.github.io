@@ -15,7 +15,7 @@ location: "Cincinnati, USA"
 </p>
 
 
-> Course offered in Spring 2017 to undergraduate students at University of Cincinnati.
+> Course offered in Spring 2017 at University of Cincinnati, to undergraduate students of various backgrounds (philosophy majors were the minority).
 > 
 > **Student evaluation:** weekly quizzes + six mini-tests + one midterm paper (on ancient period) and one final paper (on medieval period).
 
@@ -37,7 +37,7 @@ Readings
 - Plato: excerpts from the _Republic_, _Meno_, and _Theaetetus_
 - Aristotle: excerpts from _Physics_, _Posterior Analytics_, and _On the Soul_
 - Hellenistic and Roman Period: excerpts by Epicurus, Seneca, and Sextus Empiricus
-- Augustine: excerpts from On the Free Choice of the Will
+- Augustine: excerpts from _On the Free Choice of the Will_
 - Christian Mystics: excerpts by Hildegard of Bingen, Julian of Norwich, and Mechtild of Magdeburg 
 - Muslim Commentators: excerpts from _Concerning the Soul_, by Ibn Sīnā (Avicenna), and from _Long Commentary on the Soul_, by Ibn Rushd (Averroes)
 - Aquinas: excerpts from _On the unity of the intellect against the Averroists_
