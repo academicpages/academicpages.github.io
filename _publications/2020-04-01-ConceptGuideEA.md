@@ -7,5 +7,6 @@ date: 2020-04-01
 pubtype: 'short'
 venue: 'CHI 2020 EA'
 authors: Chien-Lin Tang*, <strong>Jingxian Liao*</strong>, Hao-Chuan Wang, Ching-Ying Sung, Yu-Rong Cao, Wen-Chieh Lin
-paperurl: 'https://doi.org/10.1145/3442381.3449808'
+paperurl: 'https://doi.org/10.1145/3334480.3382943
+'
 ---
