@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor in Statistics, Hunan University (Sep 2012 – June 2016)
+* M.S in Statistics, University of California, Davis (Sep 2016 – June 2018)
+* Ph.D in Computer Science with HCI, University of California, Davis (Sep 2018 - 2022 Expected)
 
 Work experience
 ======
@@ -56,4 +56,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Best student paper award, the Web Conference 2021
+* Google PhD fellowship nominee, 2020
+* First class scholarship, Hunan University, 2013-2015
+
+* Conference reviewer for ACM CHI 2021 
+* Conference reviewer for ACM CSCW 2020
+
+* US patent. “Method of Machine Learning Training for Data Augmentation”. Filed
+* US patent. “Combining Unsupervised and Supervised Machine Learning to Estimate SMB (Small Business) Revenue in Lending”. Pending file.
+
