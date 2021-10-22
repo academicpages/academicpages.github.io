@@ -15,9 +15,9 @@ location: "Cincinnati, USA"
 </p>
 
 
-> 3000-level undergraduate course offered in Summer 2017 at University of Cincinnati to a small group students of diverse backgrounds (philosophy majors were the minority). Cross-listed as an Environmental Studies course.
+> Upper-level, seminar-style undergraduate course offered in Summer 2017 at University of Cincinnati to a small group students of diverse backgrounds (philosophy majors were the minority). Cross-listed as an Environmental Studies course.
 >
-> Course organization: 1/3 of the course introduced theoretical and conceptual foundations, and 2/3 of the course dedicated to a seminar-style close reading of the 2015 book _Thinking Like a Mall_, by Steven Vogel.
+> Course organization: 1/3 of the course introduced theoretical and conceptual foundations, and 2/3 of the course dedicated to a close reading of the 2015 book _Thinking Like a Mall_, by Steven Vogel.
 > 
 > **Student evaluation:** reading responses (short essay) + three tests + three short papers + peer review of papers
 
