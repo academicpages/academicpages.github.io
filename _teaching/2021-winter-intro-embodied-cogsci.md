@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Embodied Cognitive Science"
+title: "(Grad.) Introduction to Embodied Cognitive Science"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-winter-intro-embodied-cogsci
