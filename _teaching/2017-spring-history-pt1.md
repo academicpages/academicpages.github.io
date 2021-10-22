@@ -40,7 +40,7 @@ Readings
 - Augustine: excerpts from _On the Free Choice of the Will_
 - Christian Mystics: excerpts by Hildegard of Bingen, Julian of Norwich, and Mechtild of Magdeburg 
 - Muslim Commentators: excerpts from _Concerning the Soul_, by Ibn Sīnā (Avicenna), and from _Long Commentary on the Soul_, by Ibn Rushd (Averroes)
-- Aquinas: excerpts from _On the unity of the intellect against the Averroists_
-- Toward Modernity – Skepticism: excerpts from _First_ and _Second Letter to Bernard_, by Nicholas of Autrecourt
+- Aquinas: excerpts from _Summa Theologica_, _On the unity of the intellect against the Averroists_
 - Toward Modernity – Observation and Measurement: excerpts from _Opus Majus_, by Roger Bacon
+- Toward Modernity – Skepticism: excerpts from _First_ and _Second Letter to Bernard_, by Nicholas of Autrecourt
 
