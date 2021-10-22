@@ -61,7 +61,7 @@ Sample of Readings from Part 1 (lecture + discussion)
 
 
 
-Sample of Readings from Part 2 (student presentations + discussion)
+Sample of Topics / Readings from Part 2 (student presentations + discussion)
 ======
 
 - Rietveld, E., and Kiverstein, J. (2014) A rich landscape of affordances
