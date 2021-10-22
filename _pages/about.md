@@ -8,25 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) on link prediction with bandit feedback. Before that, I have worked under the supervision of [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on network estimation.
+I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on link prediction with bandit feedback, and on network estimation.
 
 # News
-
-   I will be presenting our paper **Outliers Detection in Networks with Missing Links** at the conference ["Data Science, Statistics & Visualisation and European Conference on Data Analysis 2021”](https://iasc-isi.org/dssv-ecda2021/) in July.
    
    I have taken a gap in my PhD from September 2020 to February 2021 to work with [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Gilles Stolzt on Adaptative Electric Load Forecasting, and Renewable Energy Production Forecasting.
 
 # Papers and software
 
-**Finite Continuum-Armed Bandits**, S. Gaucher. [NeuRIPS 2020.](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf)
+**Finite Continuum-Armed Bandits**, S. Gaucher. [NeuRIPS 2020.](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495)
 
-**Outliers Detection in Networks with Missing Links**, To appear in Computational Statistics and Data Analysis. S. Gaucher, O. Klopp, G. Robin. [Arxiv](https://arxiv.org/abs/1911.13122)
+**Outliers Detection in Networks with Missing Links**, S. Gaucher, O. Klopp, G. Robin (2021). [Computational Statistics and Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947321001420).[Preprint on Arxiv](https://arxiv.org/abs/1911.13122)
 
-**Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp. [Journal of Statistical Planning and Inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375821000422), [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-02050003)
+**Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp (2021). [Journal of Statistical Planning and Inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375821000422), [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-02050003)
 
 R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020). S Gaucher, G. Robin. The package allows to robustly estimate probabilities of connections in the presence of missing observations and outlier nodes, while detecting those outlier nodes.
 
 # Talks
+
+**Robust estimation in network with outliers and missing links**, Octobre 21st, MAD-STAT seminar, Toulouse School of Economics.
+
+**Outliers Detection in Networks with Missing Links**, July 8th, 2021, ["Data Science, Statistics & Visualisation and European Conference on Data Analysis 2021”](https://iasc-isi.org/dssv-ecda2021/)
 
 **Continuum-armed bandits : from the classical setting to the finite setting**, April 6th, 2021, [Seminaire Palaisien](https://palaisien.herokuapp.com/), Palaiseau.
 
@@ -37,7 +39,6 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, April 5. 2019, Huitièmes Rencontres des Jeunes Statisticiens, Hyères.
 
 **Estimation of Sparse Networks**, October 25. 2018, Network Days II, Orsay.
-
 
 # Teaching 
 
