@@ -1,5 +1,5 @@
 ---
-title: "(Undergrad.) Introduction to Philosophy: History of Epistemology and Philosophy of Mind, part 1"
+title: "(Undergrad.) Intro to Philosophy: History of Epistemology and Philosophy of Mind, part 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-history-pt1
