@@ -4,13 +4,13 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-phil-environment
 venue: "University of Cincinnati, Department of Philosophy"
-date: 2018-08-15
+date: 2019-08-15
 location: "Cincinnati, USA"
 ---
 
 <p align="center">
 
-<img src="https://gui-cogsci.github.io/images/course-phil1004historypt2.png">
+<img src="https://gui-cogsci.github.io/images/course-phil2026philenv.png">
 
 </p>
 
