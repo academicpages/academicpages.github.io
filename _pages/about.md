@@ -38,7 +38,7 @@ a:active {
 </head>  
   
 <body>
-<p align="justify" vspace = "-30px" width="140px"> I am a postdoctoral researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a>. I obtained my PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>, <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>, and <a href="https://ai.google/">Google AI, Mountain View</a>.</p> 
+<p align="justify" vspace = "-30px" width="160px"> I am a postdoctoral researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a>. I obtained my PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>, <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>, and <a href="https://ai.google/">Google AI, Mountain View</a>.</p> 
 <!-- Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). -->
 
 <b><font color="SteelBlue">Research interests:</font></b> Bandits, Reinforcement Learning, Optimization, Learning theory, Algorithms. 
@@ -52,7 +52,7 @@ a:active {
   
 <!--<hr style="color:black;">  -->    
   
- <p align="justify" vspace = "-30px" width="140px"><b><font color="SteelBlue">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
+ <p align="justify" vspace = "-10px" width="160px"><b><font color="SteelBlue">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
   <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
    <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
@@ -75,7 +75,7 @@ a:active {
   
 <h2 style="color:SteelBlue;" vspace = "-30px"><a id="selected_publications">Selected Papers:</a></h2>
 
-<ul style="margin:1;padding:1" vspace = "-30px">
+<ul style="margin:1;padding:1" vspace = "-60px">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
