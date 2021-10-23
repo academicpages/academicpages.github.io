@@ -81,12 +81,16 @@ a:active {
   <br>  In International Conference on Machine Learning, ICML 2020</li>
   
   <li>  <a href="https://proceedings.mlr.press/v119/saha20a" target="_blank" LINK="red"><b>Improved Sleeping Bandits with Stochastic Action Sets and Adversarial Rewards</b></a> <a href="https://arxiv.org/abs/2004.06248" target="_blank"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Aditya Gopalan
+  <br>  Aadirupa Saha, Pierre Gaillard, Michal Valko
   <br>  In International Conference on Machine Learning, ICML 2020</li>
     
   <li>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank"><b>Best-item Learning in Random Utility Models with Subset Choices</b></a> <a href="https://arxiv.org/abs/2002.07994" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>  
+  
+  <li> <a href="http://proceedings.mlr.press/v115/s20a.html" target="_blank"><b>Be Greedy: How Chromatic Number meets Regret Minimization in Graph Bandits</b></a>
+  <br> Shreyas Seshadri*, Aadirupa Saha*, Chiranjib Bhattacharyya (*Equal Contribution)
+  <br> In Uncertainty in Artificial Intelligence, UAI 2020</li>
   
   <li>  <a href="http://proceedings.mlr.press/v129/saha20a.html" target="_blank" LINK="red"><b>Polytime Decomposition of Generalized Submodular Base Polytopes with Efficient Sampling</b></a>
   <br>  Aadirupa Saha
@@ -101,13 +105,17 @@ a:active {
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Neural Information Processing Systems, NeurIPS 2019</li>
     
+  <li>  <a href="https://proceedings.mlr.press/v89/saha19a" target="_blank"><b>Active Ranking with Subset-wise Preferences</b></a> <a href="https://arxiv.org/abs/1810.10321" target="_blank"> [Arxiv Version]</a>
+  <br> Aadirupa Saha, Aditya Gopalan
+  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2019</li>  
+  
   <li>  <a href="http://proceedings.mlr.press/v98/saha19a.html" target="_blank"><b>PAC Battling Bandits in the Plackett-Luce Model</b></a> <a href="https://arxiv.org/abs/1808.04008" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Algorithmic Learning Theory, ALT 2019</li>  
   
-  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Pierre Gaillard
-  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+  <li>  <a href="https://ojs.aaai.org//index.php/AAAI/article/view/5182" target="_blank"><b>How Many Pairwise Preferences Do We Need to Rank A Graph Consistently?</b></a> <a href="https://arxiv.org/abs/1811.02161" target="_blank"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Rakesh Shivanna, Chiranjib Bhattacharyya
+  <br>  In AAAI Conference on Artificial Intelligence, AAAI 2019</li>  
 </ul>  
     
 <h2 style="color:DarkRed;">2018</h2>  
