@@ -19,7 +19,7 @@ redirect_from:
 
 - Aiming Right at You: Group versus Individual Clientelistic Targeting in Brazil. **Journal of Politics in Latin America** (2018), 10(2): 41-76. <br/> [[Paper]](https://journals.sub.uni-hamburg.de/giga/jpla/article/view/1121/1128). [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Clientelism_paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/JPLA_2018). [[Citation]](https://raw.github.com/hbahamonde/Clientelism_paper/Bahamonde_JPLA_2018.bib).
 
-- El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009. **Revista de Ciencia Política** (2011), 31(2): 285-310. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). [[Abstract]](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2011000200007&lng=es&nrm=iso&tlng=en). With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart
+- El Secreto de mi Éxito: Parte II. Los Caminos a Valparaíso en 2009. **Revista de Ciencia Política** (2011), 31(2): 285-310. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf). [[Abstract]](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2011000200007&lng=es&nrm=iso&tlng=en). With Pilar Giannini, Juan Pablo Luna, Rodolfo López, Martín Ordoñez and Gonzalo Recart.
 
 
 
@@ -28,10 +28,10 @@ redirect_from:
 
 ## In Preparation
 
-- **Electoral Risk and Vote Buying, Introducing Prospect Theory in the Experimental Study of Clientelism**. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). [[Paper]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/Vote_Selling_Bahamonde_Canales_Paper.pdf). **In preparation**. With Andrea Canales (UOH).
+- **Electoral Risk and Vote Buying, Introducing Prospect Theory in the Experimental Study of Clientelism**. <br/> [[Paper]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/Vote_Selling_Bahamonde_Canales_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **In preparation**. With Andrea Canales (UOH).
 
 
-- **Analyzing Conjoint Datasets with Support Vector Machine Methods**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **Under review, Political Analysis**. With Cristobal Quininao (UOH).
+- **Analyzing Conjoint Datasets with Support Vector Machine Methods**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **In preparation**. With Cristobal Quininao (UOH).
 
 - **The Bus of Inequality: Public Transportation and COVID in Santiago**. <br/> [[Abstract]](https://github.com/hbahamonde/Bus/raw/main/abstract.txt). **Data analyses**. With Felix Modrego (UOH) and Andrea Canales (UOH).
 
@@ -39,13 +39,13 @@ redirect_from:
 
 - **Machine Learning and Political Ideology in the U.S.: An Experimental Case Study using SMOTE**. **Data analyses**. With Cristobal Quininao (UOH).
 
-- **Vote Selling in the United States: Introducing Support Vector Machine Methods to Analyzing Conjoint Experimental Data**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt) **Data analyses**. With Cristobal Quininao (UOH).
+- **Vote Selling in the United States: Introducing Support Vector Machine Methods to Analyzing Conjoint Experimental Data**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract.txt). **Data analyses**. With Cristobal Quininao (UOH).
 
 - **Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations**. <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt). **Data analyses**. With Natalia Bahamonde (PUCV-Chile) and Igor Kovac (U Cincinnati).
 
 - **Structural Transformations and State Institutions in Latin America, 1900-2010**. <br/> [[Paper]](https://github.com/hbahamonde/NegativeLink/raw/master/Bahamonde_NegativeLink.pdf).  [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Negative_Link_Paper/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Negative_Link_Paper/raw/master/data.dta). 
 
-- **Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt).
+- **Income Taxation and State Capacity in Chile: Measuring Institutional Development Using Historical Earthquake Data**. <br/> [[Paper]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/Bahamonde_Earthquake_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Earthquake_Paper/raw/master/abstract.txt). 
 
 
 - **Testing the Online Model of Candidate Evaluation in a More Realistic Environment**. <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt). [[Data]](https://github.com/hbahamonde/Replication_Materials). With Richard Lau (Rutgers) and Mona Kleinberg (UMass - Lowell).
