@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify"> I am currently a postdoctoral researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a>. I did my PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>, <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>, and <a href="https://ai.google/">Google AI, Mountain View</a>.</p> 
+<p align="justify"> I am currently a postdoctoral researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a>. I obtained my PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>, <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>, and <a href="https://ai.google/">Google AI, Mountain View</a>.</p> 
 <!-- Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). -->
 
 <b><font color="SteelBlue">Research interests:</font></b> Bandits, Reinforcement Learning, Optimization, Learning theory, Algorithms. 
