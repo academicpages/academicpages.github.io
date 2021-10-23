@@ -35,8 +35,12 @@ a:active {
 </head>  
   
 <body>
+<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
+  
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
-
+  
 <h2 style="color:DarkRed;">2021</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
@@ -127,26 +131,26 @@ a:active {
   <br> In Uncertainty in Artificial Intelligence, UAI 2018</li>
   
   <li>  <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16518/16537" target="_blank"><b>Online Learning for Structured Loss Spaces</b></a> <a href="https://arxiv.org/abs/1706.04125" target="_blank"> [Arxiv Version]</a>
-  <br>  Siddharth Barman, Aditya Gopalan, Aadirupa Saha (Alphabetical order)
+  <br>  Siddharth Barman, Aditya Gopalan, Aadirupa Saha (Alphabetical Order)
   <br>  In AAAI Conference on Artificial Intelligence, AAAI 2018</li>  
 </ul>  
   
-<h2 style="color:DarkRed;">2017</h2>  
+<h2 style="color:DarkRed;">2015</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />  
 
 <ul style="margin:1;padding:1">
-  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Pierre Gaillard
-  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+  <li>  <a href="http://proceedings.mlr.press/v37/narasimhanb15.pdf" target="_blank" LINK="red"><b>Consistent Multiclass Algorithms for Complex Performance Measures</b></a>
+  <br>  Harikrishna Narasimhan, Harish Ramaswamy, Aadirupa Saha, Shivani Agarwal
+  <br>  In International Conference on Machine Learning, ICML 2015</li>
 </ul>  
     
 <h2 style="color:DarkRed;">2014</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
   
 <ul style="margin:1;padding:1">
-  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Pierre Gaillard
-  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+  <li>  <a href="https://ieeexplore.ieee.org/document/7033097" target="_blank" LINK="red"><b>Learning Score Systems for Patient Mortality Prediction in Intensive Care Units via Orthogonal Matching Pursuit</b></a> 
+  <br>  Aadirupa Saha, Chandrahas Dewangan, Harikrishna Narasimhan, Sriram Sampath, Shivani Agarwal
+  <br>  In International Conference on Machine Learning and Applications, ICMLA 2014</li>
 </ul>  
     
 <hr style="color:black;">
