@@ -35,10 +35,10 @@ a:active {
 </head>  
   
 <body>
-<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
-<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
-<a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
-<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
+<a href="https://aadirupa.github.io#selected_publications"><b>[Selected Papers]</b></a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"><b>[Google Scholar]</b></a> &nbsp;
+<a href="https://dblp.org/pid/14/10003.html" target="_blank"><b>[DBLP]</b></a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"><b>[arXiv]</b></a>  
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
   
@@ -157,11 +157,12 @@ a:active {
 <hr style="color:black;">
 
 &nbsp;&nbsp;
-<a href="https://aadirupa.github.io/publications#full_publications">[Back to Top]</a> &nbsp;
-<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
-<a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
-<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
-<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>   
+<a href="https://aadirupa.github.io/publications#full_publications"><b>[Back to Top]</b></a> &nbsp;
+<a href="https://aadirupa.github.io#selected_publications"><b>[Selected Papers]</b></a> &nbsp;
+<a href="https://aadirupa.github.io/publications#full_publications" target="_blank"><b>[Full List]</b></a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"><b>[Google Scholar]</b></a> &nbsp;
+<a href="https://dblp.org/pid/14/10003.html" target="_blank"><b>[DBLP]</b></a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"><b>[arXiv]</b></a>   
 
 </body>
 </html>
