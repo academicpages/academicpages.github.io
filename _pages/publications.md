@@ -79,14 +79,18 @@ a:active {
   <li>  <a href="https://proceedings.mlr.press/v119/saha20b.html" target="_blank" LINK="red"><b>From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model</b></a> <a href="https://arxiv.org/abs/1903.00558" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Machine Learning, ICML 2020</li>
+  
+  <li>  <a href="https://proceedings.mlr.press/v119/saha20a" target="_blank" LINK="red"><b>Improved Sleeping Bandits with Stochastic Action Sets and Adversarial Rewards</b></a> <a href="https://arxiv.org/abs/2004.06248" target="_blank"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Aditya Gopalan
+  <br>  In International Conference on Machine Learning, ICML 2020</li>
     
   <li>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank"><b>Best-item Learning in Random Utility Models with Subset Choices</b></a> <a href="https://arxiv.org/abs/2002.07994" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>  
   
-  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Pierre Gaillard
-  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+  <li>  <a href="http://proceedings.mlr.press/v129/saha20a.html" target="_blank" LINK="red"><b>Polytime Decomposition of Generalized Submodular Base Polytopes with Efficient Sampling</b></a>
+  <br>  Aadirupa Saha
+  <br>  In Asian Conference on Machine Learning, ACML 2020</li>
 </ul>  
   
 <h2 style="color:DarkRed;">2019</h2>  
