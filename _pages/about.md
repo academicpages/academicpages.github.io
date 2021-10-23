@@ -67,6 +67,7 @@ a:active {
    <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
    <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
    <a href="https://www.tau.ac.il/~mansour/" target="_blank">Yishay Mansour</a>,
+    <a href="https://scholar.google.co.il/citations?user=pX2zzp0AAAAJ&hl=en" target="_blank">Nadav Merlis</a>,
    <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
    <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
    <a href="https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en" target="_blank">Rakesh Shivanna</a>,
