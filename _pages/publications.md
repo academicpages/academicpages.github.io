@@ -60,7 +60,15 @@ a:active {
   <li> <a href="http://proceedings.mlr.press/v139/saha21c.html" target="_blank"><b>Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</b></a> <a href="https://arxiv.org/abs/2102.07387" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain
   <br> In International Conference on Machine Learning, ICML 2021</li>
-    
+
+  <li> <a href="https://proceedings.mlr.press/v139/efroni21a.html" target="_blank"><b>Confidence-Budget Matching for Sequential Budgeted Learning</b></a> <a href="https://arxiv.org/abs/2102.03400" target="_blank"> [Arxiv Version]</a>
+  <br> Yonathan Efroni, Nadav Merlis, Aadirupa Saha, Shie Mannor
+  <br> In International Conference on Machine Learning, ICML 2021</li>
+  
+   <li> <a href="https://www.auai.org/uai2021/pdf/uai2021.606.pdf" target="_blank"><b>Strategically Efficient Exploration in Competitive Multi-agent Reinforcement Learning</b></a> <a href="https://arxiv.org/abs/2107.14698" target="_blank"> [Arxiv Version]</a>
+  <br> Robert Loftin, Aadirupa Saha, Sam Devlin, Katja Hofmann
+  <br> In Uncertainty in Artificial Intelligence, UAI 2021</li>
+
 </ul>
  
 <h2 style="color:DarkRed;">2020</h2>  
