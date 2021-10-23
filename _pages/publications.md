@@ -78,6 +78,51 @@ a:active {
   <br>  In Algorithmic Learning Theory, ALT 2019</li>
 </ul>
  
+<h2 style="color:DarkRed;">2020</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+
+<ul style="margin:1;padding:1">
+  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Pierre Gaillard
+  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+</ul>  
+  
+<h2 style="color:DarkRed;">2019</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+
+<ul style="margin:1;padding:1">
+  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Pierre Gaillard
+  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+</ul>  
+    
+<h2 style="color:DarkRed;">2018</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+
+<ul style="margin:1;padding:1">
+  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Pierre Gaillard
+  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+</ul>  
+  
+<h2 style="color:DarkRed;">2017</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />  
+
+<ul style="margin:1;padding:1">
+  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Pierre Gaillard
+  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+</ul>  
+    
+<h2 style="color:DarkRed;">2014</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />   
+  
+<ul style="margin:1;padding:1">
+  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Pierre Gaillard
+  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+</ul>  
+    
 <hr style="color:black;">
 
 &nbsp;&nbsp;
