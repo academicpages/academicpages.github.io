@@ -49,9 +49,10 @@ a:active {
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
 <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
+
   <br>
 <!-- <hr style="color:black;">  -->
-  
+  <br>
  <p align="justify" vspace = "0px" width="160px"><b><font color="SteelBlue">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
   <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
