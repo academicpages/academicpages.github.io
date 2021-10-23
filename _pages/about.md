@@ -29,8 +29,11 @@ I am a Senior Researcher at the University of Turku, Finland. I am affiliated wi
 Next Talks/Conferences
 ============
 
-1.  TBA.
+1. Oct. 26th 2021:  [DPINVEST & INVESThub Workshop on interventions, evaluations and field experiments](https://invest.utu.fi/events/dpinvest-investhub-workshop-on-interventions-evaluations-and-field-experiments/).
 
+2. Dec. 14th 2021: TSE Economics weekly Research Seminar, University of Turku.
+
+3. Dec. 17th 2021: Political Science Research Seminar, University of Turku.
 
 <!---
 Job Market
