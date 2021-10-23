@@ -28,9 +28,10 @@ redirect_from:
 
 ## In Preparation
 
-- **Analyzing Conjoint Datasets with Support Vector Machine Methods**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **Under review, Political Analysis**. With Cristobal Quininao (UOH).
+- **Electoral Risk and Vote Buying, Introducing Prospect Theory in the Experimental Study of Clientelism**. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). [[Paper]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/Vote_Selling_Bahamonde_Canales_Paper.pdf). **In preparation**. With Andrea Canales (UOH).
 
-- **Recreating Market Conditions for Vote-Selling and Vote-Buying in the Lab: The Chilean Case**. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **Data collection**. With Andrea Canales (UOH).
+
+- **Analyzing Conjoint Datasets with Support Vector Machine Methods**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **Under review, Political Analysis**. With Cristobal Quininao (UOH).
 
 - **The Bus of Inequality: Public Transportation and COVID in Santiago**. <br/> [[Abstract]](https://github.com/hbahamonde/Bus/raw/main/abstract.txt). **Data analyses**. With Felix Modrego (UOH) and Andrea Canales (UOH).
 
