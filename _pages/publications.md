@@ -35,8 +35,11 @@ a:active {
 </head>  
   
 <body>
-<h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
+<h2 style="color:SteelBlue;"><a id="full_publications">Full list of Publications:</a></h2>
 
+<h2 style="color:DarkRed;">2021</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+  
 <ul style="margin:1;padding:1">
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
@@ -75,34 +78,12 @@ a:active {
   <br>  In Algorithmic Learning Theory, ALT 2019</li>
 </ul>
  
-<hr style="color:black;"> 
- 
-<h2 style="color:SteelBlue;"><a id="full_publications">Full List of Publications:</a></h2>
-  <a href="https://www.microsoft.com/en-us/research/people/aasa/publications/" target="_blank"> [Yearwise]</a>&nbsp;
-  <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"> [Google Scholar]</a>&nbsp;
-  <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"> [arXiv]</a>
-
 <hr style="color:black;">
 
-<b><font color="SteelBlue">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
-   <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
-   <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
-   <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
-   <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
-   <a href="https://ece.iisc.ac.in/~aditya/" target="_blank">Aditya Gopalan</a>,
-   <a href="https://scholar.google.co.in/citations?user=Nt-tK2UAAAAJ&hl=en" target="_blank">Shubham Gupta</a>,
-   <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>,
-   <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
-   <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>,
-   <a href="https://tomerkoren.github.io/" target="_blank">Tomer Koren</a>,
-   <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
-   <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
-   <a href="https://www.tau.ac.il/~mansour/" target="_blank">Yishay Mansour</a>,
-   <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
-   <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
-   <a href="https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en" target="_blank">Rakesh Shivanna</a>,
-   <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>
-  (in alphabetical order).
-<!--[Nadav Merlis]()-->
+<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
+<a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>   
+
 </body>
 </html>
