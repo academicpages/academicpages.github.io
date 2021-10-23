@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Your Sidebar Name"
-  avatar           : https://aadirupa.github.io/download.png
+  avatar           : https://aadirupa.github.io/download2.jpg
   bio              : "Postdoc Researcher, Microsoft Research, New York City"
   location         : "New York, USA"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "aadirupa-saha"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4965-6417" #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
