@@ -80,6 +80,7 @@ a:active {
  
 <hr style="color:black;">
 
+&nbsp;&nbsp;
 <a href="https://aadirupa.github.io/publications">[Back to Top]</a> &nbsp;
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
