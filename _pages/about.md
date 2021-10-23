@@ -41,20 +41,20 @@ a:active {
 <p align="justify" vspace = "-0px" width="160px"> I am a postdoctoral researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a>. I obtained my PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>, <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>, and <a href="https://ai.google/">Google AI, Mountain View</a>.</p> 
 <!-- Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). -->
 
-<b><font color="SteelBlue">Research interests:</font></b> Bandits, Reinforcement Learning, Optimization, Learning theory, Algorithms. 
+<font color="SteelBlue">Research interests:</font> Bandits, Reinforcement Learning, Optimization, Learning theory, Algorithms.<br>
 
 <p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity in contextual environments, differential privacy, multiplayer games, online convex optimization. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.</p>
   
-<a href="https://aadirupa.github.io#selected_publications"><b>[Selected Papers]</b></a> &nbsp;
-<a href="https://aadirupa.github.io/publications#full_publications" target="_blank"><b>[Full List]</b></a> &nbsp;
-<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"><b>[Google Scholar]</b></a> &nbsp;
-<a href="https://dblp.org/pid/14/10003.html" target="_blank"><b>[DBLP]</b></a> &nbsp;
-<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"><b>[arXiv]</b></a>  
+<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
+<a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
+<a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
   <br>
 <!-- <hr style="color:black;">  -->
   <br>
- <p align="justify" vspace = "0px" width="160px"><b><font color="SteelBlue">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
+ <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> I have been really fortunate to be able to work with some of the amazing research minds: 
   <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
    <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
