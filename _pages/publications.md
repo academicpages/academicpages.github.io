@@ -153,6 +153,25 @@ a:active {
   <br>  Aadirupa Saha, Chandrahas Dewangan, Harikrishna Narasimhan, Sriram Sampath, Shivani Agarwal
   <br>  In International Conference on Machine Learning and Applications, ICMLA 2014</li>
 </ul>  
+  
+<h2 style="color:DarkRed;">2013</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />   
+  
+<ul style="margin:1;padding:1">
+  <li>  <a href="https://link.springer.com/chapter/10.1007/978-3-642-39693-9_9" target="_blank" LINK="red"><b>Energy Saving Replay Attack Prevention in Clustered Wireless Sensor Networks</b></a> 
+  <br>  Amrita Ghosal, Aadirupa Saha, Sipra Das Bit
+  <br>  In Pacific-Asia Workshop on Intelligence and Security Informatics, PAISI 2013</li>
+</ul>  
+  
+<h2 style="color:DarkRed;">2011</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />   
+  
+<ul style="margin:1;padding:1">
+  <li>  <a href="https://link.springer.com/chapter/10.1007/978-3-642-23641-9_34" target="_blank" LINK="red"><b>Energy-Balancing and Lifetime Enhancement of Wireless
+Sensor Network with Archimedes Spiral</b></a> 
+  <br>  Subir Halder, Amrita Ghosal, Aadirupa Saha, Sipra DasBit
+  <br>  In International Conference on Ubiquitous Intelligence and Computing, ICUIC 2011</li>
+</ul>    
     
 <hr style="color:black;">
 
