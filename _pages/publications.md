@@ -35,7 +35,7 @@ a:active {
 </head>  
   
 <body>
-<h2 style="color:SteelBlue;"><a id="full_publications">Full list of Publications:</a></h2>
+<h2 style="color:SteelBlue;" vspace="-30px;"><a id="full_publications">Full list of Publications:</a></h2>
 
 <h2 style="color:DarkRed;">2021</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
