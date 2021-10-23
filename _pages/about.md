@@ -45,11 +45,11 @@ a:active {
 
 <p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity in contextual environments, differential privacy, multiplayer games, online convex optimization. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.</p>
   
-<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
-<a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
-<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
-<a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
-<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
+<a href="https://aadirupa.github.io#selected_publications"><b>[Selected Papers]</b></a> &nbsp;
+<a href="https://aadirupa.github.io/publications#full_publications" target="_blank"><b>[Full List]</b></a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"><b>[Google Scholar]</b></a> &nbsp;
+<a href="https://dblp.org/pid/14/10003.html" target="_blank"><b>[DBLP]</a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"><b>[arXiv]</b></a>  
 
   <br>
 <!-- <hr style="color:black;">  -->
