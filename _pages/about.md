@@ -50,7 +50,7 @@ a:active {
 <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a>
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
   
---<hr style="color:black;">  
+ <hr style="color:black;">  
   
  <p align="justify" vspace = "0px" width="160px"><b><font color="SteelBlue">Collaborators.</font></b> I have been really fortunate to be able to work with some of the amazing research minds: 
   <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
