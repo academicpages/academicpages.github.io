@@ -35,7 +35,7 @@ a:active {
 </head>  
   
 <body>
-<h2 style="color:SteelBlue;" vspace="-30px;"><a id="full_publications">Full list of Publications:</a></h2>
+<h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
 
 <h2 style="color:DarkRed;">2021</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
@@ -61,27 +61,21 @@ a:active {
   <br> Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain
   <br> In International Conference on Machine Learning, ICML 2021</li>
     
+</ul>
+ 
+<h2 style="color:DarkRed;">2020</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+  
+<ul style="margin:1;padding:1">
+  
   <li>  <a href="https://proceedings.mlr.press/v119/saha20b.html" target="_blank" LINK="red"><b>From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model</b></a> <a href="https://arxiv.org/abs/1903.00558" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Machine Learning, ICML 2020</li>
     
   <li>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank"><b>Best-item Learning in Random Utility Models with Subset Choices</b></a> <a href="https://arxiv.org/abs/2002.07994" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Aditya Gopalan
-  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>
-    
-  <li>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank"><b>Combinatorial Bandits with Relative Feedback</b></a><a href="https://arxiv.org/abs/1903.00543" target="_blank"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Aditya Gopalan
-  <br>  In Neural Information Processing Systems, NeurIPS 2019</li>
-    
-  <li>  <a href="http://proceedings.mlr.press/v98/saha19a.html" target="_blank"><b>PAC Battling Bandits in the Plackett-Luce Model</b></a> <a href="https://arxiv.org/abs/1808.04008" target="_blank"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Aditya Gopalan
-  <br>  In Algorithmic Learning Theory, ALT 2019</li>
-</ul>
- 
-<h2 style="color:DarkRed;">2020</h2>  
-<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
-
-<ul style="margin:1;padding:1">
+  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>  
+  
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
@@ -89,8 +83,16 @@ a:active {
   
 <h2 style="color:DarkRed;">2019</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
-
+  
 <ul style="margin:1;padding:1">
+   <li>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank"><b>Combinatorial Bandits with Relative Feedback</b></a><a href="https://arxiv.org/abs/1903.00543" target="_blank"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Aditya Gopalan
+  <br>  In Neural Information Processing Systems, NeurIPS 2019</li>
+    
+  <li>  <a href="http://proceedings.mlr.press/v98/saha19a.html" target="_blank"><b>PAC Battling Bandits in the Plackett-Luce Model</b></a> <a href="https://arxiv.org/abs/1808.04008" target="_blank"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Aditya Gopalan
+  <br>  In Algorithmic Learning Theory, ALT 2019</li>  
+  
   <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
@@ -126,7 +128,7 @@ a:active {
 <hr style="color:black;">
 
 &nbsp;&nbsp;
-<a href="https://aadirupa.github.io/publications">[Back to Top]</a> &nbsp;
+<a href="https://aadirupa.github.io/publications#full_publications">[Back to Top]</a> &nbsp;
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
 <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
