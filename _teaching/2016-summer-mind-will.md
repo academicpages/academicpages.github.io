@@ -17,9 +17,8 @@ location: "Cincinnati, USA"
 
 > Introductory-level undergraduate course offered in Summer 2016 at University of Cincinnati to a small group students of diverse backgrounds (philosophy majors were the minority).
 >
-> The course was organized into four parts focusing on the ideas of four different philosophers: Descartes, Leibniz, Locke, and Hume.
-> 
-> **Student evaluation:** reading questions for each assigned reading + four reaction essays (one per philosopher) + peer editing of reaction essays
+
+
 
 
 
@@ -30,6 +29,11 @@ Most of us think that we know our own minds as well as, or better than, we know 
 
 
 
+Student work
+======
+
+reading questions for each assigned reading + four reaction essays (one per philosopher) + peer editing of reaction essays
+
 
 Readings
 ======
@@ -38,3 +42,18 @@ Readings
 - Leibniz: _Monadology_ 
 - Locke: selections from _An Essay Concerning Human Understanding_
 - Hume: selections from _Enquiry Concerning Human Understanding_
+
+
+<br>
+
+
+> ## Sample of student comments: 
+> 
+>  - "Instructor obviously extremely knowledgeable about subject matter. He always made himself available to student questions/issues and was even 
+exible with his original weekly deadlines to accommodate student work schedules."
+>  
+>  - "The reading and questions were fair and not that diffcult. The length of the readings and the questions were the main hard part. The readings definitely were key to understanding the topics clearly and the PowerPoint slides alone would not explain in enough detail to skip the readings. The peer reviews were really helpful and I liked that way of setting up the course!"
+>  
+>  - "In my three years at UC, this was easily the most organized and clear course, with regard to class lectures, assignments, and what was expected of the students."
+>  
+>  - "In terms of clarity of presentation, positive attitude, and clearly articulated expectations of student work, this instructor put most of the professors I've had to shame. Lectures were interesting, assistance was always available, and class material was consistently challenging but never abstruse."
