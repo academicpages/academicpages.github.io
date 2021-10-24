@@ -45,3 +45,18 @@ Readings
 - Carolyn Merchant (1980) selection from _The Death of Nature: Women, Ecology and the Scientific Revolution_
 - Karen J. Warren (1990) "The Power and the Promise of Ecological Feminism"
 - Maria Mies and Vandana Shiva (1993) selection from _Ecofeminism_
+
+<br>
+
+
+> ## Sample of student comments: 
+> 
+>  - "I really enjoyed this class. I was a little apprehensive about taking a philosophy class at first, but this course helped widen my view about how to handle the ecological crisis and in a sense has even motivated me to act more sustainably. Additionally, the course forced me to think outside of the box about not just the environment, but other day to day interactions with the world. I am very glad that I took this course."
+>  
+>  - "This professor was honestly one of the best professors I have ever had, and I’m a transfer student. His willingness to go over material until everyone fully understood it was admirable and I enjoyed the content along with the way he chose to present it. If this weren’t his last class at UC I would be taking another one of his courses."
+>  
+>  - "Gui loves what he teaches and it shows. Every concept discussed was delivered thoroughly and with passion. When a teacher shows interest in the topic it translates to interest among students."
+>  
+>  - "Great attitude, obviously very interested in what he does, and makes it interesting for the students."
+>  
+>  - "He seems to really care about his students and their learning of the subject."
