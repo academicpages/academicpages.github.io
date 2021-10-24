@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Santa Marta, Colombia",
-    11.2422289,
-    -74.2055606
+    11.2430534,
+    -74.2046826
   ],
   [
     "Amsterdam, Netherlands",
@@ -206,8 +206,8 @@ var addressPoints = [
   ],
   [
     "Duck, North Carolina, USA",
-    36.169608,
-    -75.7551854
+    36.1700137,
+    -75.7559261
   ],
   [
     "Los Angeles, California, USA",
@@ -225,7 +225,7 @@ var addressPoints = [
     -118.4912273
   ],
   [
-    "Yosemite, California, USA",
+    "Yosemite National Park, California, USA",
     37.84054795,
     -119.51658779802511
   ],
@@ -243,5 +243,20 @@ var addressPoints = [
     "Bakersfield, California, USA",
     35.3738712,
     -119.0194639
+  ],
+  [
+    "Pasadena, California, USA",
+    34.1476452,
+    -118.1444779
+  ],
+  [
+    "Wayne National Forest, Ohio, USA",
+    40.8615819,
+    -81.9034617
+  ],
+  [
+    "Springfield, Ohio, USA",
+    39.9234046,
+    -83.810138
   ]
 ];
