@@ -19,6 +19,26 @@ tags:
   - rmarkdown
 ---
 
+---
+date: 2020-10-26
+excerpt: "I use [jekyll](https://jekyllrb.com/) to create my website. Jekyll converts Markdown files into the HTML that your browser renders into the pages you see. As [others](http://svmiller.com/blog/2019/08/two-helpful-rmarkdown-jekyll-tips/) and [I](/posts/2020/09/jekyll-html) have written before, it’s pretty easy to use [R Markdown](https://rmarkdown.rstudio.com/) to generate pages with R code and output all together. One thing has consistently eluded me, however: footnotes."
+header:
+  og_image: posts/jekyll-footnotes/ggplot-1.png
+knit: "(function(inputFile, encoding) { rmarkdown::render(inputFile, encoding = encoding, output_dir = “../\\_posts”) })"
+output:
+  md_document:
+    pandoc_args:
+    - –wrap=preserve
+    preserve_yaml: true
+    variant: gfm
+permalink: /posts/2020/10/jeykll-footnotes
+tags:
+- jekyll
+- rmarkdown
+title: R Markdown, Jekyll, and Footnotes
+toc: true
+---
+
 
 
 {% capture notice-text %}
@@ -198,12 +218,12 @@ turns out that `iris` was originally
 [published in the Annals of Eugenics](https://en.wikipedia.org/wiki/Iris_flower_data_set),
 so I went digging for a new built in dataset.[^4] I landed on the
 [Loblolly pines dataset](https://stat.ethz.ch/R-manual/R-patched/library/datasets/html/Loblolly.html),
-which records the height of `length(unique(Loblolly$Seed))` different
+which records the height of 14 different
 [loblolly pine trees](https://en.wikipedia.org/wiki/Pinus_taeda).[^5]
 
 [^4]: If you’re willing to install additional packages, Allison Horst’s [palmerpenguins](https://github.com/allisonhorst/palmerpenguins) package is fantastic and fills much the same educational niche as `iris`. See [here](https://www.meganstodel.com/posts/no-to-iris/) for even more alternatives.
 
-[^5]: Fun fact, loblolly pine seeds were carried aboard Apollo 14 and subsequently planted through the [throughout the US](https://en.wikipedia.org/wiki/Moon_tree).
+[^5]: Fun fact, loblolly pine seeds were carried aboard Apollo 14 and subsequently planted [throughout the US](https://en.wikipedia.org/wiki/Moon_tree).
 
 ``` r
 library(ggplot2)
