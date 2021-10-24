@@ -17,7 +17,7 @@ location: "Cincinnati, USA"
 
 > 2000-level undergraduate course offered in Fall 2019 at University of Cincinnati to students of various backgrounds (philosophy majors were the minority). Cross-listed as an Environmental Studies course.
 > 
-> **Student evaluation:** weekly quiz + weekly reading response (short essay) + midterm paper and final paper + peer review of weekly reading responses and of papers
+> **Student evaluation:** weekly quiz + weekly reading response (short essay) + midterm paper and final paper + peer review of weekly reading responses and of papers + four concept maps / visualizations
 
 
 
