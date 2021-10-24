@@ -15,13 +15,11 @@ location: "Berlin, Germany"
 </p>
 
 
-> Course offered in Winter 2020/21, Summer 2021 and Winter 2021/22 to master's and PhD students from various programs at TU Berlin, including psychology, neuroscience, human factors, computer science,  human-computer interaction, and design.
+> Graduate course offered in Winter 2020/21, Summer 2021 and Winter 2021/22 to small groups (<10) of master's and PhD students from various programs at TU Berlin, including psychology, neuroscience, human factors, computer science, human-computer interaction, and design.
 > 
 > The course is divided in two parts: (1) a lecture series followed by discussion sessions and a (2) seminar series with student presentations and discussion sessions.
 > 
-> **Student evaluation:** weekly quizzes during lecture series + seminar presentations + final paper.
-> 
-> (This course is a graduate-level elaboration of my undergraduate course PHIL1006 Introduction to Cognitive Studies, taught at the University of Cincinnati in Summer 2018)
+> (This course is a graduate-level elaboration of my undergraduate course PHIL1006 Introduction to Cognitive Studies, taught at the University of Cincinnati in Summer 2018. Information about the undergraduate version is available upon request.)
 
 
 
@@ -34,6 +32,13 @@ Foundational topics discussed include:  behaviorism and the cognitive revolution
 
 Topics within embodied cognitive science include: conceptual and motor grounding; distributed cognition, wide computationalism, and the extended mind; anti-representationalism in evolutionary robotics and dynamical systems theory; the enactive approach and central elements such as autonomy, sense-making and autopoiesis; ecological psychology and central elements such as its theory of direct perception and affordances.
 
+
+
+
+Student work
+======
+
+weekly quizzes during lecture series + seminar presentations + final paper
 
 
 
@@ -73,3 +78,27 @@ Sample of topics & readings from Part 2 (student presentations + discussion)
 - van Woerkum, B. (2021) The evolution of episodic-like memory: The importance of biological and ecological constraints
 - Baber, C., Chemero, T., & Hall, J. (2019). What the jeweller’s hand tells the jeweller’s brain: tool use, creativity and embodied cognition
 - van Dijk, L., & Myin, E. (2019). Ecological neuroscience: From reduction to proliferation of our resources
+
+
+
+
+<br>
+
+
+> ## Sample of student comments (from Winter 2020/21 and Summer 2021): 
+> 
+>  - "Gui is a really friendly, very helpful and open instructor. He looks for that every student is feeling comfortable and is explaining very well. By discussing with him one is always feeling equal and on a same level to him, what is nice and shows the respect towards the other students. Also, his presentations are very well made and creative."
+>  
+>  - "The course was better than I imagined, mostly because I was used to the old style of teaching. The video classes, weekly quizzes and open-ended weekly discussion really improved my enjoyment of this course far beyond what I expected."
+>  
+>  - "He was quite responsive and he had a good command over the flow of the course."
+>  
+>  - "fast multidirectional thinker, great videos"
+>  
+>  - "The instructor is helpful since I had some personal meetings with him about my academic performance and he really gave me advice to help me."
+>  
+>  - "I really liked the weekly discussions, they were one of my favourite parts of the semester."
+>  
+>  - "It was better than I expected. I expected to know more about psychology and ECS. The course managed to do that and also it made me think more on the subjects even after the semester."
+
+
