@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 This is Dr. Raúl Sedano's page on the web!
-
-Lorem ipsum.
