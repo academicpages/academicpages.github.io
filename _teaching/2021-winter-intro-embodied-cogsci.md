@@ -14,6 +14,7 @@ location: "Berlin, Germany"
 
 </p>
 
+<br>
 
 > Graduate course offered in Winter 2020/21, Summer 2021 and Winter 2021/22 to small groups (<10) of master's and PhD students from various programs at TU Berlin, including psychology, neuroscience, human factors, computer science, human-computer interaction, and design.
 > 
@@ -32,15 +33,17 @@ Foundational topics discussed include:  behaviorism and the cognitive revolution
 
 Topics within embodied cognitive science include: conceptual and motor grounding; distributed cognition, wide computationalism, and the extended mind; anti-representationalism in evolutionary robotics and dynamical systems theory; the enactive approach and central elements such as autonomy, sense-making and autopoiesis; ecological psychology and central elements such as its theory of direct perception and affordances.
 
-
+<br>
 
 
 Student work
 ======
 
-weekly quizzes during lecture series + seminar presentations + final paper
+- weekly quizzes during lecture series
+- seminar presentations
+- final paper
 
-
+<br>
 
 Sample of readings from Part 1 (lecture + discussion)
 ======
@@ -65,7 +68,7 @@ Sample of readings from Part 1 (lecture + discussion)
 - Gibson, J. (1966) _The Senses Considered as Perceptual Systems_ [selection]
 - Michaels and Palatinus (2014) A Ten Commandments for Ecological Psychology
 
-
+<br>
 
 Sample of topics & readings from Part 2 (student presentations + discussion)
 ======
@@ -80,9 +83,8 @@ Sample of topics & readings from Part 2 (student presentations + discussion)
 - van Dijk, L., & Myin, E. (2019). Ecological neuroscience: From reduction to proliferation of our resources
 
 
-
-
 <br>
+
 
 
 > ## Sample of student comments (from Winter 2020/21 and Summer 2021): 
