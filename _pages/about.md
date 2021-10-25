@@ -31,7 +31,7 @@ Yongjun Zhang. Oct 2021. ["Using Population Mobility Data to Measure Racial Segr
 Yongjun Zhang. Sept 24, 2021. "Using Relational Data from Facebook and SafeGraph to Measure Racial Segregation." Department of Physchology, Stony Brook University.
 
 ## New Paper Alert
-Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://journals.sagepub.com/eprint/BKSEHRTXFS5BSZAP2WMN/full)." Sociological Perspectivies.
+Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://doi.org/10.1177/07311214211017587)." Sociological Perspectivies.
 
 Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
