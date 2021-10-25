@@ -30,7 +30,10 @@ Some of what we learn in life comes through first-hand experience: this is how w
 Student work
 ======
 
-weekly quizzes + weekly short essay + online forum participation + midterm and final exam
+- weekly quizzes
+- weekly short essay
+- online forum participation
+- midterm and final exam
 
 <br>
 
@@ -61,7 +64,7 @@ Readings
 > 
 >  - "The videos made by the instructor himself explaining the relevant topics was most helpful to my learning."
 >  
->  - "I think that our instructor did a very good job of being present in the class, which is especially important considering it was an online course. He was always willing to answer questions, spoke to us in a respectful way, and presented the information in a way that could be easily understood|which again is important since the class was online."
+>  - "I think that our instructor did a very good job of being present in the class, which is especially important considering it was an online course. He was always willing to answer questions, spoke to us in a respectful way, and presented the information in a way that could be easily understood, which again is important since the class was online."
 >  
 >  - "I think Professor Gui did a wonderful job teaching this course. Other than having a thorough understanding of the subject and presenting in a digestible way, I really appreciated his organization and consistency throughout the course. This was my first online course and I can say it was a great experience."
 >  
