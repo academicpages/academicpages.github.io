@@ -32,7 +32,9 @@ Most of us think that we know our own minds as well as, or better than, we know 
 Student work
 ======
 
-reading questions for each assigned reading + four reaction essays (one per philosopher) + peer editing of reaction essays
+- reading questions for each assigned reading
+- four reaction essays (one per philosopher)
+- peer editing of reaction essays
 
 
 Readings
