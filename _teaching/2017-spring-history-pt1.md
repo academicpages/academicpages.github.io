@@ -31,7 +31,9 @@ Some of what we learn in life comes through first-hand experience, as in the cas
 Student work
 ======
 
-weekly quizzes  +  six mini-tests  +  one midterm paper (on ancient period) and one final paper (on medieval period).
+- weekly quizzes
+- six mini-tests
+- one midterm paper (on ancient period) and one final paper (on medieval period)
 
 
 
