@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised  by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). 
-
-My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models and Transfer Learning. <!--You can find my CV [here](/cv/).-->
+I am a 3rd-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models and Transfer Learning. <!--You can find my CV [here](/cv/).-->
 
 
 ## News
@@ -43,7 +41,7 @@ My research interests lie within the intersection of Natural Language Processing
 * <b>Yusheng Su</b>, Xu Han, Zhengyan Zhang, Peng Li, Zhiyuan Liu, Yankai Lin, Jie Zhou, Maosong Sun. <b>CokeBERT: Contextual Knowledge Selection and Embedding towards Enhanced Pre-Trained Language Models</b> (EMNLP-Findings 2020, AI OPEN 2021). [[pdf]](https://arxiv.org/abs/2009.13964) [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666651021000188) [[code]](https://github.com/thunlp/CokeBERT)
 
 
-## Experiences
+## Research Experiences
 
 ### Tsinghua NLP Lab. (Beijing) 09.2019 - 06.2023
 * Ph.D. Student 
