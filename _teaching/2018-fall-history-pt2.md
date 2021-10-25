@@ -18,23 +18,21 @@ location: "Cincinnati, USA"
 > Course offered online in Fall 2018 at University of Cincinnati, to undergraduate students of various backgrounds (philosophy majors were the minority).
 > 
 
-
-
+<br>
 
 Course Description
 ======
 
 Some of what we learn in life comes through first-hand experience: this is how we know the taste of chocolate, how to ride a bicycle, and that rain is wet. But very often we learn from other people, be it friends, relatives, professors, experts, or the news. Some of what we think about the world seems to be beyond question (for example, 2+2=4), whereas other facts are subject to revision (for example, the number of planets in the solar system, or if coffee is good for your health). What is the difference between the many sources and kinds of knowledge we have? Is there a difference between what we know with our mind and what we know with our body? Should we even think of all these examples as "knowledge" or is that a special label that only some of our thoughts deserve? How does knowledge relate to truth: can we "know" something that is not true? and, on the other hand, if we have a belief that is true, does it automatically count as "knowledge"? Throughout history, philosophers have asked many questions similar to these. This course is an introduction to some of their answers. By examining profound and enduring philosophical works spanning a period of around three hundred years, from the mid-1600s through the mid-1900s, students will gain a greater understanding of the foundations of contemporary philosophical issues and will become better equipped for critical epistemic agency.
 
-
-
+<br>
 
 Student work
 ======
 
 weekly quizzes + weekly short essay + online forum participation + midterm and final exam
 
-
+<br>
 
 Readings
 ======
