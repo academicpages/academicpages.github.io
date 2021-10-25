@@ -4,7 +4,7 @@ collection: teaching
 type: "Posgrado"
 permalink:
 venue: "Facultad de Geografía e Historia, Universidad Complutense de Madrid"
-date:
+date: 2021
 location: "Madrid, España"
 ---
 * Asignatura: Introducción a las Tecnologías de Información Geográfica (2020-2021)
