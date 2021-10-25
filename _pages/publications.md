@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %} -->
 
 
-+ <b style="color:blue">[CIKM-2021]</b>
++ <b style="color:blue">[CIKM-2021 (Spotlight)]</b>
 **Yuke Wang**, Boyuan Feng, Xueqiao Peng, Yufei Ding. <br/>
 ***An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks*** <br/>
 *ACM International Conference on Information and Knowledge Management.*<br/>
