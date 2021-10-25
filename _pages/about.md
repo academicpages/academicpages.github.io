@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 2nd-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised  by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). 
 
-My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models and Transfer Learning. You can find my CV [here](/cv/).
+My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models and Transfer Learning. <!--You can find my CV [here](/cv/).-->
 
 
 ## News
@@ -27,6 +27,9 @@ My research interests lie within the intersection of Natural Language Processing
 
 ## Publications
 ### 2021
+
+* Yujia Qin, Xiaozhi Wang, <b>Yusheng Su</b>, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. <b>Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning</b> (ArXiv). [[pdf]](https://arxiv.org/abs/2110.07867)
+
 * Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. <b>Knowledge Inheritance for Pre-trained Language Models</b> (ArXiv). [[pdf]](https://arxiv.org/abs/2105.13880) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
 
 
