@@ -9,7 +9,7 @@ redirect_from:
 ---
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="simone-maria-giancola-011465173" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/simone-maria-giancola-011465173?trk=profile-badge">Simone Maria Giancola</a></div>          
-I am a 21 years old student soon to graduate with a Bachelor in Economics and Computer Science. From September 2021 I will attend an MS in Data Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page. You can find more information on my Github page, at the link on the left panel (follow button if you are using your phone). The repo is named after this website. 
+I am a 21 years old student fresh graduate with a Bachelor in Economics and Computer Science. Since September 2021 I am attending a MS in Data Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page. You can find more information on my Github page, at the link on the left panel (follow button if you are using your phone). The repo is named after this website. 
 
 Also on the left (again, follow button if from phone), some contact information is made available. On the top menu, each visitor is allowed to access my Resume, my portfolio, and a blog I might start using. You can write me on any of the mentioned platforms. 
 
