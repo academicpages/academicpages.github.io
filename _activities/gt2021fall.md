@@ -13,7 +13,7 @@ author_profile: false
 | Th, Oct 7, 2021 | 1:30pm - 2:30pm | Russell Avdek |An algebraic generalization of Giroux's criterion| [https://umn.zoom.us/j/98547599523](https://umn.zoom.us/j/98547599523)
 | Th, Oct 14, 2021 | 1:30pm - 2:30pm |  |  |  | 
 | Th, Oct 21, 2021 | 1:30pm - 2:30pm |Jie Min |Moduli space of symplectic log Calabi-Yau divisors and torus fibrations|  [https://umn.zoom.us/j/98340833451]( https://umn.zoom.us/j/98340833451)
-| Tu, Oct 26, 2021 | 1:30 - 2:30pm | Nate Bottman | An overview of the symplectic (A-infinity,2)-category, and progress toward a "cellular" version of its definition | [https://umn.zoom.us/j/92800984421](https://umn.zoom.us/j/92800984421)
+| Tu, Oct 26, 2021 | 3:00 - 4:00pm | Nate Bottman | An overview of the symplectic (A-infinity,2)-category, and progress toward a "cellular" version of its definition | [https://umn.zoom.us/j/92800984421](https://umn.zoom.us/j/92800984421)
 | Th, Oct 28, 2021 | 1:30pm - 2:30pm | Demetre Kazaras | If Ricci is bounded below, then mass is in control! |  [https://umn.zoom.us/j/97043232587](https://umn.zoom.us/j/97043232587)
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun |  |  
 | Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  |  |  
