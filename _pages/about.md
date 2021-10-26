@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is  Raúl Sedano's page on the web!
-![](https://www.facebook.com/photo.php?fbid=824455257897436&set=t.1343050493&type=3)
+![](../images/paisaje-digital-en-atardecer_2560x1440_xtrafondos.com.jpg)
