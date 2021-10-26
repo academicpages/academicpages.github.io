@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Raúl Sedano's page on the web!
+This is  Raúl Sedano's page on the web!
+![](https://www.facebook.com/photo.php?fbid=824455257897436&set=t.1343050493&type=3)
+![](../images/asd.png)
