@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 Basic Information
 ======
-* Download a PDF version [here](http://simonegiancola09.github.io/files/CV_Simone_maria_giancola_English.pdf), feel free to use it with my personal authorization. The template is taken from [flowcv](https://flowcv.io/)
+* Download a PDF shorter version [here](http://simonegiancola09.github.io/files/CV_Simone_maria_giancola_English.pdf), feel free to use it with my personal authorization. The template is taken from those available in Latex. 
+* I have placed more information in this page, the one I use for applications is at the link above. 
 * Legal Name: Simone Maria Giancola
 * Date of birth: 06 September 1999
 * Nationality: Italian
