@@ -99,7 +99,7 @@ maintain.
 
 ![](/images/posts/mrap/mrap-1.png)<!-- -->
 
-By 2021 only 7 states have not received a single MRAP (Hawaii is not
+By 2021 only 3 states have not received a single MRAP (Hawaii is not
 included in the data from DLA, although the Marshall Project’s database
 records that the FBI has received 3). The grey band in each panel of the
 plot marks the suspension of the 1033 program from 2014 to 2017. While
