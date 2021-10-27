@@ -90,7 +90,7 @@ from the Defense Logistics Agency (DLA), which administers the 1033
 program.
 
 Below I’ve plotted the total number of MRAPs transferred to law
-enforcement agencies in each state from 1990 to 2020. It’s important to
+enforcement agencies in each state from 1990 to 2021. It’s important to
 note that this is *not* a reflection of the total number of MRAPs in
 each state as this just count the transfers from DLA to local agencies.
 It’s possible for agencies to return the vehicles, as LAUSD did, and
@@ -99,14 +99,14 @@ maintain.
 
 ![](/images/posts/mrap/mrap-1.png)<!-- -->
 
-By 2020 only 3 states have not received a single MRAP (Hawaii is not
+By 2021 only 7 states have not received a single MRAP (Hawaii is not
 included in the data from DLA, although the Marshall Project’s database
 records that the FBI has received 3). The grey band in each panel of the
 plot marks the suspension of the 1033 program from 2014 to 2017. While
 some states like Connecticut and New Mexico demonstrate a freeze in
 transfers during this period, others like Tennessee and New Jersey
 continued to receive multiple vehicles. To date, the state that has
-received the most MRAPs is Texas with a whopping 116 vehicles.
+received the most MRAPs is Texas with a whopping 118 vehicles.
 
 ## Thinking about the future
 
