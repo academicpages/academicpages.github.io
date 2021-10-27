@@ -9,6 +9,4 @@ redirect_from:
 ---
 
 This is  Raúl Sedano's page on the web!
-![](../images/paisaje-digital-en-atardecer_2560x1440_xtrafondos.com.jpg)
-esta imagen es con path absoluto
-![](C:/Users/LENOVO/Documents/GitHub/academicpages.github.io/images/paisaje-digital-en-atardecer_2560x1440_xtrafondos.com.jpg)
+![](../images/profile.png)
