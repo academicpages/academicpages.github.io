@@ -16,6 +16,6 @@ Prior to joining EPIC, I was a Tobin pre-doctoral fellow at Yale Law School wher
 
 I enjoy playing tennis and running in my free time.
 
-Click [here]({{https://pranjal-drall.github.io}}/files/cv_pd.pdf) for my CV. See [research](https://pranjal-drall.github.io/publications/) page for active projects.
+Click [here]({{https://pranjal-drall.github.io}}/files/cv_pd.pdf) for my CV and see my [research](https://pranjal-drall.github.io/publications/) page for active projects.
 
 Please feel free to reach out to me at pdrall@uchicago.edu.
