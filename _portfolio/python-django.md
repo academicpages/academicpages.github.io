@@ -1,6 +1,8 @@
 ---
 title: "Dictionary with Python and Django"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+## This project is related to Web Development with Python and Django
+
+excerpt: "Dictionary created with Python, Django, PostgreSQL, HTML, CSS, Javascript.   <br/><img src='/images/giphy.gif' style='width:2000px;'>"
 collection: portfolio
 priority: "2"
 
