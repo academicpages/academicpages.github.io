@@ -43,19 +43,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Award and Service
 ======
 * Best student paper award, the Web Conference 2021
 * Google PhD fellowship nominee, 2020
@@ -65,5 +60,12 @@ Service and leadership
 * Conference reviewer for ACM CSCW 2020
 
 * US patent. “Method of Machine Learning Training for Data Augmentation”. Filed
-* US patent. “Combining Unsupervised and Supervised Machine Learning to Estimate SMB (Small Business) Revenue in Lending”. Pending file.
+* US patent. “Combining Unsupervised and Supervised Machine Learning to Estimate SMB (Small Business) Revenue in Lending”. Filed.
+
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
