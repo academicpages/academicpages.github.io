@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Bachelor in Statistics, Hunan University (Sep 2012 – June 2016)
-* M.S in Statistics, University of California, Davis (Sep 2016 – June 2018)
+
 * Ph.D in Computer Science with HCI, University of California, Davis (Sep 2018 - 2022 Expected)
+* M.S in Statistics, University of California, Davis (Sep 2016 – June 2018)
+* Bachelor in Statistics, Hunan University (Sep 2012 – June 2016)
 
 Work experience
 ======
