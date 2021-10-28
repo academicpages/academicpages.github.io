@@ -43,7 +43,7 @@ Technical Report
 Invited Talks
 ======
 
-[NAVER LABS](https://www.naverlabs.com/en/), “A Study on Outdoor Scene Understanding in the Dynamic Outdoor Environment”, 2021.
+[NAVER LABS](https://www.naverlabs.com/en/), “A Study on Outdoor Scene Understanding in the Dynamic Outdoor Environment”, 2021. <br/>
 [42dot](https://42dot.ai/), “Deep Neural Network for Single Image De-raining using Real-world Time-lapse data”, 2021.
 
 
