@@ -44,7 +44,7 @@ I was previously a research intern at [Microsoft](https://www.microsoft.com/en-u
       <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3485535&file=oopsla21main-p410-p-video.mp4">
         [15min-talk]
         </a>
-      
+      <a href="/files/OOPSLA21-NLX.pdf"> [Slides] </a>
     </font>
     </li>
 </ul>
