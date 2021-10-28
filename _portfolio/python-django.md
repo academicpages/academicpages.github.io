@@ -8,4 +8,15 @@ priority: "2"
 
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+## This project is related to Web Development and SOA
+There are two parts of the code. One gives you an Address ID and the other gives you longitude and latitude after cleaning up the address. 
+After you run the code an input prompt is displayed asking you for location. once you enter the location, you get Address ID. To get lng and lat uncomment the relevant code. 
+
+<br/><img src='/images/giphy.gif'>"
+
+***[Project link](https://github.com/safakhan413/dictionary1){:target="_blank"}***
+
+<Mark >Tools Used: </Mark>
+
+Python, Django, PostgreSQL, HTML, CSS, Javascript
+***[Dictionary link](https://dictionary1safa.herokuapp.com/){:target="_blank"}***
