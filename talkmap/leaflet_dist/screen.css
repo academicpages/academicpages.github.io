@@ -1,7 +1,7 @@
 
 	#map {
-		width: 850px;
-		height: 600px;
+		width: 800px; 
+		height: 600px; 
 		border: 1px solid #ccc;
 	}
 
@@ -27,3 +27,4 @@
 	    background-color: #76A6FC;
 	    border-radius: 4px;
 	}
+        
