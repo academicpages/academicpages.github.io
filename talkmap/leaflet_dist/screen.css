@@ -1,6 +1,6 @@
 
 	#map {
-		width: ;
+		width: auto;
 		height: 600px;
 		border: 1px solid #ccc;
 	}
@@ -27,4 +27,3 @@
 	    background-color: #76A6FC;
 	    border-radius: 4px;
 	}
-        
