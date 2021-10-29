@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models and Transfer Learning. <!--You can find my CV [here](/cv/).-->
+I am Yusheng Su, now a Ph.D candidate in [THUNLP Lab](https://twitter.com/tsinghuanlp), the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models and Transfer Learning. <!--You can find my CV [here](/cv/).-->
 
 
 ## News
