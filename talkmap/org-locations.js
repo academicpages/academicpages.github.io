@@ -5,7 +5,7 @@ var addressPoints = [
     -3.7035825
   ],
   [
-    "Madrid, Espa\u00f1a",
+    "Madrid, Spain",
     40.4167047,
     -3.7035825
   ],
@@ -15,7 +15,7 @@ var addressPoints = [
     -6.2602732
   ],
   [
-    "Granada, Espa\u00f1a",
+    "Granada, Spain",
     37.1734995,
     -3.5995337
   ],
