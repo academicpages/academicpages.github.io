@@ -11,8 +11,8 @@ author_profile: true
 
 {% endif %}
 
-<iframe src="/talkmap/map.html" height="300" width="100%" style="border:none;"></iframe>
-
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+<iframe src="/talkmap/map.html" height="300" width="100%" style="border:none;"></iframe>
