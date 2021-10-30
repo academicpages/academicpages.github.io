@@ -7,13 +7,13 @@ venue: "University of Minnesota-Twin Cities"
 date: 2020-01-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+
+Assisted instructors developing curricula of basic knowledge in machine learning and data science
 ======
 
-Heading 2
+Resolved problems the students met in class and in their projects
 ======
 
-Heading 3
+Encouraged high school girls that are interested in enter data science / STEM fields
 ======
