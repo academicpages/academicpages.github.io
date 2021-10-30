@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Machine learning / data science summer camp"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2020-summer-teaching-1
+venue: "University of Minnesota-Twin Cities"
+date: 2020-01-01
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
