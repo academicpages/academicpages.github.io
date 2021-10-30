@@ -29,6 +29,12 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+
+Awards
+======
+* Patrick Whitcomb & Patty Napier Fellowship
   
 Talks
 ======
