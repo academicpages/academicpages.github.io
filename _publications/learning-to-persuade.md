@@ -7,5 +7,4 @@ venue: 'The Twenty-Second ACM Conference on Economics and Computation (EC’21),
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3465456.3467593'
 ---
 
-[Download paper here](https://arxiv.org/abs/2102.10156)
 
