@@ -1,8 +1,7 @@
 ---
-title: "Machine learning / data science summer camp"
+title: "Machine learning / Data Science Summer Camp for High School Students"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2020-summer-teaching-1
+type: ""
 venue: "University of Minnesota-Twin Cities"
 date: 2020-01-01
 ---
