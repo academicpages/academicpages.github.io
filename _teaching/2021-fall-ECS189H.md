@@ -1,5 +1,5 @@
 ---
-title: "Evaluating User Interactions with Computing Artifacts"
+title: " TA in Evaluating User Interactions with Computing Artifacts"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-ECS189H
