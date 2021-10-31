@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is  Raúl Sedano's page on the web!
-![](../images/profile.png)
+![](/images/profile.png "Raul Sedano")
