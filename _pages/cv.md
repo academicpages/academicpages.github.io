@@ -16,28 +16,6 @@ Education
 * M.S in Statistics, University of California, Davis (Sep 2016 – June 2018)
 * Bachelor in Statistics, Hunan University (Sep 2012 – June 2016)
 
-Work experience
-======
-* Summer 2020 - Fall 2021: Data Scientist Intern, Intuit AI+Data, Intuit, Inc.
-  * Created novel semi-supervised technique with Self-Training and TrustScore confidence estimate to label data and generate high-accuracy prediction with 4% KPI improvement in production and 26% data augmentation
-  * Applied data programming idea, Snorkel, and boosted weak classifiers to create unbiased datasets
-  * Cleaned-up data of 10million samples and analyze missing patterns using Spark and Databricks
-  * Proposed innovative two-stage method to estimate revenue by leveraging peer benchmarks with XGBoost and NN and received 37% KPI increase  
-
-* Summer 2019: Research Summer Intern, Intel-NTU Connected Context Computing Center, Taipei.
-  * Conducted health-related experiment design with A/B test for professional drivers’ behavior analysis 
-  * Applied multivariate time-series qualitative and quantitative analysis for efficient rest
-  
-Skills
-======
-* Method
-  * Natural Language Processing, Semisupervised Machine Learning, Unsupervised Machine Learning, Model explanation, Data Analysis, Decision Making, Time Series Data Analysis, Causal Inference,  
-  * Quantatitive Research, Data Visualization, Survey, Usability Test 
-* Language and Platform
-  * Python, Spark, TensorFlow, PyTorch, SQL, NoSQL, R, SPSS, MATLAB
-  * JavaScript, HTML+CSS, D3.js 
-  * AWS, Microsoft Azure, Git, Databricks, Google Cloud, Hadoop, Linux
-
 
 Publications
 ======
@@ -57,12 +35,41 @@ Award and Service
 * Best student paper award, the Web Conference 2021
 * Google PhD fellowship nominee, 2020
 * First class scholarship, Hunan University, 2013-2015
-<br/>
+
+
 * Conference reviewer for ACM CHI 2021 
 * Conference reviewer for ACM CSCW 2020
-<br/>
+
+
 * US patent. “Method of Machine Learning Training for Data Augmentation”. Filed
 * US patent. “Combining Unsupervised and Supervised Machine Learning to Estimate SMB (Small Business) Revenue in Lending”. Filed.
+
+
+  
+Skills
+======
+* Research Topics and MethodS
+  * Natural Language Processing, Semisupervised Machine Learning, Unsupervised Machine Learning, Model explanation, Data Analysis, Decision Making, Time Series Data Analysis, Causal Inference,  
+  * Quantatitive Research, User Research Design, Prototyping, Data Visualization, Web Designing, Full Stack, Survey, Usability Test 
+* Language and Platform
+  * Python, Spark, TensorFlow, PyTorch, SQL, NoSQL, R, SPSS, MATLAB
+  * JavaScript, HTML+CSS, D3.js 
+  * AWS, Microsoft Azure, Git, Databricks, Google Cloud, Hadoop, Linux
+
+  
+
+Work experience
+======
+* Summer 2020 - Fall 2021: Data Scientist Intern, Intuit AI+Data, Intuit, Inc.
+  * Created novel semi-supervised technique with Self-Training and TrustScore confidence estimate to label data and generate high-accuracy prediction with 4% KPI improvement in production and 26% data augmentation
+  * Applied data programming idea, Snorkel, and boosted weak classifiers to create unbiased datasets
+  * Cleaned-up data of 10million samples and analyze missing patterns using Spark and Databricks
+  * Proposed innovative two-stage method to estimate revenue by leveraging peer benchmarks with XGBoost and NN and received 37% KPI increase  
+
+* Summer 2019: Research Summer Intern, Intel-NTU Connected Context Computing Center, Taipei.
+  * Conducted health-related experiment design with A/B test for professional drivers’ behavior analysis 
+  * Applied multivariate time-series qualitative and quantitative analysis for efficient rest
+
 
 
 Teaching
