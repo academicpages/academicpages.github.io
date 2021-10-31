@@ -1,5 +1,5 @@
 ---
-title: "Discrete Mathematics in Computer Science"
+title: "TA in Discrete Mathematics in Computer Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-ECS20
