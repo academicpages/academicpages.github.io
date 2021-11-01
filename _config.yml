@@ -80,9 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Raul Sedano"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : |
+    "You don't really understand something
+     unless you are able to explain it
+      to your grandmother."😄
+      
+
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
