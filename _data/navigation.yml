@@ -16,7 +16,8 @@ main:
 #    url: /year-archive/
 #    
   - title: "CV"
-    url: /paper1.pdf/
+    url: /files/paper1.pdf/
+      files: 'paer1.pdf'
     
 #  - title: "Guide"
 #    url: /markdown/
