@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : " Raúl Sedano Molina"
-  avatar           : "paisaje-digital-en-atardecer_2560x1440_xtrafondos.com.jpg"
+  avatar           : "profile.png"
   bio              : "Scheduler in progress"
-  location         : "San Juan De Lurigancho,Lima,Perú"
+  location         : "Lima,Perú"
   employer         :
   pubmed           :
   googlescholar    :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "raul.sedano.10"
+  facebook         :
   foursquare       :
   github           : "raulsedano2410"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "/Raul08654871"
+  twitter          :
   vine             :
   weibo            :
   xing             :
