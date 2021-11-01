@@ -22,7 +22,7 @@ tags:
 
 
 
-In my research I frequently work with large datasets. Sometimes that means datasets that cover [the entire globe](/research/dissertation), and other times it means working with lots of micro-level [event data](/research/event-data). Usually, my computer is powerful enough to load and manipulate all of the data in R without issue. When my computer’s fallen short of the task at hand, my solution has often been to throw it at a high performance computing cluster. However, I finally ran into a situation where the data proved too large even for that approach.
+In my research I frequently work with large datasets. Sometimes that means datasets that cover [the entire globe](/research/conflict-preemption), and other times it means working with lots of micro-level [event data](/research/event-data). Usually, my computer is powerful enough to load and manipulate all of the data in R without issue. When my computer’s fallen short of the task at hand, my solution has often been to throw it at a high performance computing cluster. However, I finally ran into a situation where the data proved too large even for that approach.
 
 <!--more-->
 
