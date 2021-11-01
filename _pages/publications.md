@@ -13,6 +13,11 @@ author_profile: true
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <b>Medical Image Analysis (SCI, IF=11.148)</b>.<br>
    [[paper](https://arxiv.org/pdf/2104.12166.pdf)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
+   
+ * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
+  <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Shaoting Zhang<br>
+  <i>Submitted to a journal for consideration (extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
+ [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
 
 **Conferences**
   
@@ -30,8 +35,3 @@ author_profile: true
   Xu Chen*, <b>Xiangde Luo*</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
   A short version of this paper was accepted by <b>ISBI2021</b>.<br>
  [[paper](https://arxiv.org/abs/2011.00526)][[code](https://github.com/HiLab-git/ACELoss)]
- 
- * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
-  <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Shaoting Zhang<br>
-  <i>Submitted to a journal for consideration (extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
- [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
