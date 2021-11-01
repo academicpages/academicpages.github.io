@@ -11,7 +11,7 @@ redirect_from:
 Basic Information
 ======
 * Download a PDF shorter version [here](http://simonegiancola09.github.io/files/CV_Simone_maria_giancola_English.pdf), feel free to use it with my personal authorization. The template is taken from those available in Latex. 
-* I have placed more information in this page, the one I use for applications is at the link above. 
+* I have placed more information on this page, the one I use for applications is at the link above. 
 * Legal Name: Simone Maria Giancola
 * Date of birth: 06 September 1999
 * Nationality: Italian
@@ -29,7 +29,7 @@ Education
 * **BS in Economics, Management and Computer Science**, Bocconi University, 08/2018 - 07/2021
     * The degree provides a Computer Science, Mathematics and Statistics background  for Data Science and Machine Learning.
     * Weighed average 29.18/30 (GPA 3.88/4)
-    * **Thesis:** [PDF link](http://simonegiancola09.github.io/files/Support_vector_machine_and_value_of_information_an_exploration.pdf)"_Value of Information in a Support Vector Machine, an exploration_"
+    * **Thesis:** [PDF link](http://simonegiancola09.github.io/files/Support_vector_machine_and_value_of_information_an_exploration.pdf)"_Value of Information in a Support Vector Machine, an exploration_", advised by Professor Borgonovo Emanuele. 
     * Associations: Bocconi Healthcare Hub, Bocconi Students for Data Science
     * **Final Grade** 110 Cum Laude/110 (maximum)
 
@@ -45,7 +45,7 @@ Professional experience
   * Five days into Barclays Technology headquarters, followed by expert members
   * Focus on: work shadowing, meetings with seniors, and activities on personal development
 
-Projects on Portfolio Section
+Machine Learning Projects (@Portfolio)
 =====
  * **Heartbeat classification and Disease detection**, Python, 2020
      * Data preparation and analysis, random forest classifier. With a single heartbeat the condition is identified with around 90% accuracy.
@@ -73,12 +73,19 @@ Skills (on a 5 scale)
     * Italian, mothertongue, **5**
     * Spanish, basic communication **3**
  
+Affiliations
+======
+* IEEE Computer Society
+* Bocconi Students for Data Science
+* Data Science Milan
+
+
 Awards
 ======
 * **Thanksgiving Parchment**, 2020
     * Given to young volunteers by my home municipality
 
-Associations and Organizations
+Volunteering
 ======
 * AVIS (Italian Association for blood donors)
 * Red Cross, temporary COVID volunteer, 2020
@@ -89,6 +96,8 @@ Associations and Organizations
 * Rugby Metanopoli ASD, Assistant coach at junior leagues, 2016-2017
 * Comprehensive Institute "Tommaso Grossi", Assistant teacher, 02/2015
     * Elementary school. Supported students with learning difficulties (mostly language related)
+
+
 
 Interests
 ======
