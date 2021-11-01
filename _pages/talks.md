@@ -16,6 +16,11 @@ Human Navigation
 
 Direction
 -----------
+
+* <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment:  A MachineLearning Approach, UCI Cognitive Sciences Colloquium Flash Talk.  Oct., 2021.
+
+* <b>Cheng, Y. </b>. Travel Direction as a Fundamental Component of Human Navigation, UCI Cognitive Sciences Colloquium Flash Talk.  Oct., 2021.
+
 * <b>Cheng, Y.</b>, Chrastil, E.R.. Head Direction Signals During Navigation: Comparing Movement And Stationary Periods. Spatial Cognition, Virtual. Aug., 2021. [[news](https://lilianyou.github.io/posts/2021/8/blog-post-1/)]
 
 * <b>Cheng, Y. </b>, Chrastil, E.R.. The Emergence of Head Direction Signals in a Complex Environment. Annual Meeting of the Organization for Human Brain Mapping (OHBM), Virtual. June, 2021. [[news](https://lilianyou.github.io/posts/2021/6/blog-post-3/)]
@@ -58,12 +63,16 @@ Distance
 
 Sex Difference
 ------
+* <b>Cheng, Y. </b>, Chrastil, E.R.. Sex Differences in Head Direction Signals When Learning a Complex Environment.
+Society for Neuroscience, Virtual. Nov., 2021.
 * <b>Cheng, Y. </b>. What Are the Sex Differences in Navigation Training? Using Sea Hero Quest Dataset, UCSB Crossroads Symposium, Santa Barbara. Nov., 2019.
 
 <br>
 
 Spatial Cognition
 ======
+
+* <b>Cheng, Y.* </b>, He C. *, Spiers H., Coutrot A., Hornberger M., Hegarty M., Chrastil, E.R.. Self-Evaluations of Navigation Ability: A Big Data Approach. Psychonomic Society Annual Meeting, Virtual. Nov., 2021. *denotes equal authorship
 
 * <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Embodied Experience of the ‘Wrong’ Hand, Not World Knowledge, Supports the Mental Rotation of Hands, Psychonomic Society Annual Meeting, New Orleans, USA. Nov., 2018.
 
