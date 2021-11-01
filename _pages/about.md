@@ -47,7 +47,7 @@ redirect_from:
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+    <h3 align="center">Show some &nbsp;👍&nbsp; by starring some of the repositories!</h3>
     <img align="center" src="../images/raul.jpeg" alt="Coder GIF" width="420">
 </div>
 
