@@ -51,7 +51,6 @@ redirect_from:
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+    <img align="center" src="../images/raul.jpeg" alt="Coder GIF" width="420">
 </div>
 
-
-![](/images/raul.jpeg "Raul Sedano")
