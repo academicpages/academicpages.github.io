@@ -1,5 +1,5 @@
 ---
-title: "Publications[Google Scholar](https://scholar.google.com/citations?user=dD4HLS4AAAAJ&hl=en)"
+title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD4HLS4AAAAJ&hl=en)]"
 permalink: /publications/
 author_profile: true
 ---
