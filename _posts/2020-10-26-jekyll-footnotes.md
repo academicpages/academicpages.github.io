@@ -19,26 +19,6 @@ tags:
   - rmarkdown
 ---
 
----
-date: 2020-10-26
-excerpt: "I use [jekyll](https://jekyllrb.com/) to create my website. Jekyll converts Markdown files into the HTML that your browser renders into the pages you see. As [others](http://svmiller.com/blog/2019/08/two-helpful-rmarkdown-jekyll-tips/) and [I](/posts/2020/09/jekyll-html) have written before, it’s pretty easy to use [R Markdown](https://rmarkdown.rstudio.com/) to generate pages with R code and output all together. One thing has consistently eluded me, however: footnotes."
-header:
-  og_image: posts/jekyll-footnotes/ggplot-1.png
-knit: "(function(inputFile, encoding) { rmarkdown::render(inputFile, encoding = encoding, output_dir = “../\\_posts”) })"
-output:
-  md_document:
-    pandoc_args:
-    - –wrap=preserve
-    preserve_yaml: true
-    variant: gfm
-permalink: /posts/2020/10/jeykll-footnotes
-tags:
-- jekyll
-- rmarkdown
-title: R Markdown, Jekyll, and Footnotes
-toc: true
----
-
 
 
 {% capture notice-text %}
@@ -64,7 +44,7 @@ learning, too.
 
 <div class="notice--danger">
 
-{{ notice-text \| markdownify }}
+{{ notice-text | markdownify }}
 
 </div>
 
