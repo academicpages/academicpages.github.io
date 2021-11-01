@@ -6,7 +6,7 @@ header:
 ---
 
 ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Lab for Advanced Political Data Science
-{: #advanced-political-data-science }
+{: #political-data-science }
 - [Programming Style](/files/html/teaching-materials/R_Style_Guide)
 - [Functional Programming in R](/files/html/teaching-materials/Functional_Programming)
 - [Multilevel Linear Models](/files/html/teaching-materials/Multilevel_Linear_Models)
