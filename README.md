@@ -1,2 +1,2 @@
-[My GitHub.io page](https://raulsedano2410.github.io)
+[My GitHub page](https://raulsedano2410.github.io)
 ===
