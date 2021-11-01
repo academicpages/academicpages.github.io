@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : " Raul Sedano "
-  avatar           : "profile.png"
+  avatar           : "../images/profile.png"
   bio              : "Scheduler in progress"
   location         : "Lima,Perú"
   employer         :
