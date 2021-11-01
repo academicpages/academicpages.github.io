@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-Perú"
-title                    : "Raúl Sedano Molina"
+title                    : "My personal page"
 title_separator          : "-"
 name                     : &name "Raúl"
 description              : &description "Autodidacta"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : " Raúl Sedano Molina"
+  name             : " Raul Sedano "
   avatar           : "profile.png"
   bio              : "Scheduler in progress"
   location         : "Lima,Perú"
