@@ -48,9 +48,9 @@ Award and Service
   
 Skills
 ======
-* Research Topics and MethodS
+* Research Topics and Methods
   * Natural Language Processing, Semisupervised Machine Learning, Unsupervised Machine Learning, Model explanation, Data Analysis, Decision Making, Time Series Data Analysis, Causal Inference,  
-  * Quantatitive Research, User Research Design, Prototyping, Data Visualization, Web Designing, Full Stack, Survey, Usability Test 
+  * Quantitative Research, User Research Design, Prototyping, Data Visualization, Web Designing, Full Stack, Survey, Usability Test 
 * Language and Platform
   * Python, Spark, TensorFlow, PyTorch, SQL, NoSQL, R, SPSS, MATLAB
   * JavaScript, HTML+CSS, D3.js 
@@ -68,6 +68,8 @@ Work experience
 
 * Summer 2019: Research Summer Intern, Intel-NTU Connected Context Computing Center, Taipei.
   * Conducted health-related experiment design with A/B test for professional drivers’ behavior analysis 
+  * Conducted interviews with participants about their working experience and work-life balance
+  * Coded qualitative data collaboratively
   * Applied multivariate time-series qualitative and quantitative analysis for efficient rest
 
 
