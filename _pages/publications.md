@@ -3,21 +3,24 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
+**Journals**
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo </b>, Tao Song, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
  <b>Medical Image Analysis (SCI, IF=8.545)</b>.<br>
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003327)][[code](https://github.com/HiLab-git/SCPM-Net)]
+  
+ * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
+ <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
+ <b>Medical Image Analysis (SCI, IF=11.148)</b>.<br>
+   [[paper](https://arxiv.org/pdf/2104.12166.pdf)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
+
+**Conferences**
   
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
   <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted, top 13% in 1630 submissions)</b>.<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
    
-* <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
- <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
- <b>Medical Image Analysis (SCI, IF=11.148)</b>.<br>
-   [[paper](https://arxiv.org/pdf/2104.12166.pdf)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
-
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
   <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021  (CCF A)</b>.<br>
