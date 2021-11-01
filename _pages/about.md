@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi there, I am Raul Sedano 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,6 @@ redirect_from:
 
 <img align="right" src="../images/developer.gif" alt="Coder GIF" width="420" height="330">
 
-
-
-### Hi there, I am Raul Sedano 👋
 [![Linkedin Badge](https://img.shields.io/badge/-raulsedano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com)
 [![Gmail Badge](https://img.shields.io/badge/-raulsedanomolina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:raulsedanomolina@gmail.com) 
 
