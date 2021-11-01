@@ -26,11 +26,10 @@ fig_path <- 'images/posts/mrap/'
 knitr::opts_knit$set(base.dir = base_dir, base.url = base_url)
 knitr::opts_chunk$set(fig.path = fig_path,
                       message = F, warning = F, echo = F,
-                      cache = T)
+                      cache = F)
 
 library(tidyverse)
 library(lubridate)
-library(RWmisc)
 ```
 
 ```{r load, cache.extra = file.mtime(commandArgs(trailingOnly = T)[1])}
@@ -41,9 +40,13 @@ equipment <- rio::import_list(commandArgs(trailingOnly = T)[1])
 equipment <- lapply(equipment, function(x) filter(x, year(`Ship Date`) >= 1990))
 ```
 
-```{r prep, dependson = 'load'}
+```{r prep}
+## territories to exclude
+terr <- c('GUAM', 'NORTHERN MARIANA ISLANDS',
+          'PUERTO RICO', 'VIRGIN ISLANDS OF THE U.S.')
+
 ## get total number of MRAPs transferred for ymax of suspension rectangle
-bind_rows(equipment[1:49], .id = 'State Name') %>%
+bind_rows(equipment[!(names(equipment) %in% terr)], .id = 'State Name') %>% 
   group_by(year(`Ship Date`), State) %>% 
   summarize(mrap = sum(grepl('MINE RESISTANT', `Item Name`))) %>% 
   rename(year = "year(\`Ship Date\`)") %>% 
@@ -56,7 +59,7 @@ bind_rows(equipment[1:49], .id = 'State Name') %>%
          rect_l = date('2015-05-18'), rect_r = date('2017-08-28')) -> suspension
 
 ## total number of MRAPs transferred
-bind_rows(equipment[1:49], .id = 'State Name') %>%
+bind_rows(equipment[!(names(equipment) %in% terr)], .id = 'State Name') %>%
   group_by(date(`Ship Date`), State) %>% 
   summarize(mrap = sum(grepl('MINE RESISTANT', `Item Name`))) %>% 
   rename(date = "date(\`Ship Date\`)") %>% 
@@ -84,7 +87,7 @@ The [Marshall Project](https://www.themarshallproject.org/) has an [online datab
 
 Below I've plotted the total number of MRAPs transferred to law enforcement agencies in each state from `r min(year(transfers$date))` to `r max(year(transfers$date))`. It's important to note that this is *not* a reflection of the total number of MRAPs in each state as this just count the transfers from DLA to local agencies. It's possible for agencies to return the vehicles, as LAUSD did, and they may be rendered nonoperational over time as they are costly to maintain.
 
-```{r mrap, fig.width = 10, fig.height = 8, dpi = 200, dependson = 'prep'}
+```{r mrap, fig.width = 10, fig.height = 8, dpi = 200}
 ggplot(transfers, aes(x = date, y = mrap_ct)) +
   geom_line() +
   geom_rect(aes(xmin = rect_l, xmax = rect_r, ymin = rect_b, ymax = rect_t),
@@ -98,7 +101,8 @@ ggplot(transfers, aes(x = date, y = mrap_ct)) +
        subtitle = 'Grey region denotes suspension of 1033 program',
        caption = paste('Source: Defense Logistics Agency\nLast updated: ', format(Sys.time(), '%B %d, %Y'))) +
   facet_wrap(~ State) +
-  theme_rw()
+  theme_bw() +
+  theme(panel.grid = element_blank())
 ```
 
 By `r max(year(transfers$date))` only `r sum(transfers %>% group_by(State) %>% slice(n()) %>% pull(mrap_ct) == 0) + 1` states have not received a single MRAP (Hawaii is not included in the data from DLA, although the Marshall Project's database records that the FBI has received 3). The grey band in each panel of the plot marks the suspension of the 1033 program from 2014 to 2017. While some states like Connecticut and New Mexico demonstrate a freeze in transfers during this period, others like Tennessee and New Jersey continued to receive multiple vehicles. To date, the state that has received the most MRAPs is `r state.name[state.abb == transfers$State[which.max(transfers$mrap_ct)]]` with a whopping `r max(transfers$mrap_ct)` vehicles.
