@@ -30,6 +30,9 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <br>
   
 
+### Emily Beasley
+
+<img align="left" src='/images/EmilyBeasley.jpg' width="20%" height="20%"> Emily Beasley is currently working towards a PhD in Biological Sciences. She is using pipefish as a model species to investigate the role of sexual selection in the evolution of sex-biased gene expression. Emily earned her undergraduate honours degree from Saint Mary’s University in Halifax, Nova Scotia, Canada, in 2015. In 2018, she completed her MSc by Research at Middlesex University in London, England. Her current research interests include evolutionary biology, evolutionary game theory, conservation biology, and behavioural ecology. 
 
 ### Fleur van Eyndhoven
 
