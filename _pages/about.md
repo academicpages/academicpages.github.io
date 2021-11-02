@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+November 2021: Emily Beasley has joined the lab as a new PhD student, and we are also welcoming Jude van Houtte as a summer student! Starting in mid-November are two co-supervised students, Alexandra Cox (MSc) and Andrew McCabe (summer BSc student), who co-supervised by Sarah and [Claudia Meisrimler](https://www.canterbury.ac.nz/science/contact-us/people/claudia-meisrimler.html).
+
 September 2021: Lucy Howell has started her PhD  in the lab!
 
 March 2021: Lucy Howell's first paper from her masters research has been published in the New Zealand Journal of Zoology. It is a [review paper on using environmental DNA to monitor Antarctic vertebrates](https://doi-org.ezproxy.canterbury.ac.nz/10.1080/03014223.2021.1900299).
