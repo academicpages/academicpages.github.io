@@ -109,7 +109,7 @@ for pubsource in publist:
             clean_authors = html_escape(authors.replace("{\\\"{a}}","ä").replace("{\\\"{u}}","ü").replace("{\\\"{o}}","ö")) + "."
             
             #citation title
-            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
+            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\",""))[:-1] + ".\""
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
