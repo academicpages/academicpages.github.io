@@ -23,7 +23,7 @@ Work experience
   - Research in deep generative models and manifold learning. Teachning course 02476 Machine Learning Operations. Master and bachelor project supervision.
   
 * 2020 - now: Parttime software engineer
-  - Core developer and maintainer at Pytorch-Lightning: https://github.com/PyTorchLightning/pytorch-lightning
+  - Core developer and maintainer at Pytorch-Lightning: <https://github.com/PyTorchLightning/pytorch-lightning>
   
 * 2014 - 2017: Teaching assistant
   - DTU Compute
@@ -39,12 +39,12 @@ Publications
 ======
 
 - 2021
-  - *What is a meaningful representation of protein sequences?*, Nicki Skafte Detlefsen, Søren Hauberg, Wouter Boomsma. Under review at Nature Communications. Arxiv link: https://arxiv.org/abs/2012.02679
+  - *What is a meaningful representation of protein sequences?*, Nicki Skafte Detlefsen, Søren Hauberg, Wouter Boomsma. Under review at Nature Communications. Arxiv link: <https://arxiv.org/abs/2012.02679>
 
   - *Developing and validating COVID-19 adverse outcome risk prediction models from a bi-national European cohort of 5594 patients*, Espen Jimenez-Solem, Tonny S Petersen, Christina Lioma, Christian Igel, Wouter Boomsma, Oswin Krause, Casper Hansen, Christian Hansen, Stephan Lorenzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zöllner Ankarfeldt, Gert Mehl Virenfeldt, Anne Helms Andreasen, Matilde Winther-Jensen, Mostafa Ghazi, **Nicki S. Detlefsen**, Andreas Lauritsen, Abraham Smith, Marleen de Bruijne, Bulat Ibragimov, Jens Petersen, Martin Lillholm, Jon Middleton, Stine Hasling Mogensen, Hans-Christian Thorsen-Meyer, Anders Perner, Maria Helleberg, Benjamin Skov Kaas-Hansen, Alexander Bonde, Akshay Pai, Mads Nielsen and Martin Sillesen. In Scientific Reports.
 
 - 2020
-  - *Lung Segmentation from Chest X-rays using Variational Data Imputation*, Raghavendra Selvan, Erik B. Dam, **Nicki S. Detlefsen**, Sofus Rischel, Kaining Sheng, Mads Nielsen, Akshay Pai. In ICML Workshop on Learning from Missing Values (Artemiss). Arxiv link: https://arxiv.org/abs/2005.10052
+  - *Lung Segmentation from Chest X-rays using Variational Data Imputation*, Raghavendra Selvan, Erik B. Dam, **Nicki S. Detlefsen**, Sofus Rischel, Kaining Sheng, Mads Nielsen, Akshay Pai. In ICML Workshop on Learning from Missing Values (Artemiss). Arxiv link: <https://arxiv.org/abs/2005.10052>
 
 - 2019
   - *Explicit Disentanglement of Appearance and Perspective in Generative Models*, **Nicki Skafte Detlefsen**, Søren Hauberg. In Proceedings IEEE Conf. on Neural Information Processing Systems (Neurips), Vancouver, Canada. December 2019.
@@ -62,8 +62,9 @@ Teaching
 - Machine Learning Operations
 
   Introduce the student to a number of coding practices that will help them organization, scale, monitor and deploy machine learning models either in a research or production setting. To provide hands-on experience with a number of frameworks, both local and in the cloud, for doing large scale machine learning models.
-  Course webpage: https://skaftenicki.github.io/dtu_mlops/
-  DTU course database: https://kurser.dtu.dk/course/02476
+  
+  Course webpage: <https://skaftenicki.github.io/dtu_mlops/>
+  DTU course database: <https://kurser.dtu.dk/course/02476>
   
 
 
