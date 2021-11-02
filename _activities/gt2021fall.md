@@ -15,7 +15,7 @@ author_profile: false
 | Th, Oct 21, 2021 | 1:30pm - 2:30pm |Jie Min |Moduli space of symplectic log Calabi-Yau divisors and torus fibrations|  [https://umn.zoom.us/j/98340833451]( https://umn.zoom.us/j/98340833451)
 | Tu, Oct 26, 2021 | 3:00 - 4:00pm | Nate Bottman | An overview of the symplectic (A-infinity,2)-category, and progress toward a "cellular" version of its definition | [https://umn.zoom.us/j/92800984421](https://umn.zoom.us/j/92800984421)
 | Th, Oct 28, 2021 | 1:30pm - 2:30pm | Demetre Kazaras | If Ricci is bounded below, then mass is in control! |  [https://umn.zoom.us/j/97043232587](https://umn.zoom.us/j/97043232587)
-| Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun |  |  
+| Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun | Initial perturbation of mean curvature flow |  
 | Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  |  |  
 | Tu, Nov 16, 2021 | 1:30pm - 2:30pm | Mohammad Farajzadeh Tehrani | |
 | Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin Decomposition of Floer Trajectories and Adiabatic Gluing |  
@@ -37,3 +37,5 @@ author_profile: false
 * Nate Bottman
   * Both this talk and my talk in Monday's topology seminar are about the symplectic (A-infinity,2)-category Symp, but this talk will focus much more on the symplectic aspects and on giving a ground-up overview of Symp. Symp is a 2-category-like structure whose objects are symplectic manifolds and where hom(M,N) := Fuk(M^- x N), and it is the right way to package the functoriality properties of the Fukaya category. I will explain why Symp is a necessary extension of Wehrheim--Woodward's construction of functors between Fukaya categories from Lagrangian correspondences, and I will explain the blueprint for Symp's definition. In particular, I will explain what an (A-infinity,2)-category is, and I will describe a new definition of (A-infinity,2)-categories that is enabled by the work I will present in Monday's topology seminar. Expect lots of pictures!
 
+* Ao Sun
+  * We show that after a perturbation on the initial data of mean curvature flow, the perturbed flow can avoid certain non-generic singularities. This contributes to the program of dynamical approach to generic mean curvature flow initiated by Colding and Minicozzi. The key is to prove that a positive perturbation on initial data would drift to the first eigenfunction direction after a long time. This result can be viewed as a global unstable manifold theorem in the most unstable direction for a nonlinear heat equation. This is joint work with Jinxin Xue (Tsinghua University).
