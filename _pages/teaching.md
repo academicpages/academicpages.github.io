@@ -15,7 +15,7 @@ Undergraduate course, Teaching Assistant for Dr. Alex Coppock
 
 PLSC 503: Quantitative Methods II: Foundations of Statistical Inference (Spring 2021)
 ---
-Graduate course, Teaching Assistant for Dr. Peter Aronow
+Graduate course, Teaching Assistant for Dr. P.M. Aronow
 
 PLSC 400: Legacies of Conflict and Communism in Europe (Fall 2019)
 ---
