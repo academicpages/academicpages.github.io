@@ -105,11 +105,13 @@ for pubsource in publist:
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
                 authors = authors+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
+            citation = citation[:-2]
+            authors = authors[:-2]
             #clean authors
             clean_authors = html_escape(authors.replace("{\\\"{a}}","ä").replace("{\\\"{u}}","ü").replace("{\\\"{o}}","ö")) + "."
             
             #citation title
-            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\",""))[:-1] + ".\""
+            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
