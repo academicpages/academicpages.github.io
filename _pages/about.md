@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Political Science at Yale University. I specialize in international political economy and the political economy of development, with a particular focus on foreign aid.  I also work on the international politics of science and technology. 
+I am a PhD candidate in Political Science at Yale University. I specialize in comparative and international politics and the political economy of development, with a particular focus on foreign aid.  I also work on the politics of science and technology. 
 
 Prior to starting the PhD, I served as a Peace Corps Volunteer in Kosovo. I have a Master's in English literature and a very cute cat named Tara. 
 
