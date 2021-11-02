@@ -4,4 +4,4 @@ excerpt: "Jos Stam's Stable Fluid Implementation in SFML. <br/><img src='/images
 collection: portfolio
 ---
   
-<img src='/grayskull/images/sfmlfluidsim.gif' width='500' height='500' >
+<img src='/images/sfmlfluidsim.gif' width='500' height='500' >
