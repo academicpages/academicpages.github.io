@@ -9,3 +9,9 @@ redirect_from:
 ---
 
 I am currently a senior student at Southern University of Science and Technology([SUSTECH](https://www.sustech.edu.cn/)) in the department of Computer Science and Engineering advised by [Jiang Liu](https://www.sustech.edu.cn/zh/faculties/liujiang.html).
+
+My interests are focusing on:
+- Solving public health problems with AI technology
+- Interactive front-end development.
+
+I am always on my way of learning...
