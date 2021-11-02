@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2017 – 2021 Bachelor‘s in Information Technology – Manipal Institute of Technology, Manipal (CGPA 8.04/10)
+* 2015 – 2017 Higher Secondary Certificate – Bharatiya Vidya Mandir, Mumbai (Percentage 78%)
+* 2009 – 2015 Indian Certificate of Secondary Education – Ryan International School, Chembur, Mumbai (Percentage 88%)  
+
+ACHIEVEMENTS
+===
+* 2018 Runner up in Microsoft Code.Fun.Do++, Manipal, India.
+  * Utilised Convolutional Variational Autoencoder (CVAE), to create models for predicting cyclone movement over
+    the Indian subcontinent.[Link](https://github.com/abhinavmittra/Codefundo-18)
+* 2019 Runner up in Smart India Hackathon:
+  * I created a POC for plotting radiation data collected from employee’s wearing sensors. The goal was to leverage
+    CPU and GPU through CUDA and OpenGL to perform computation and then visualize the results. [Link](https://github.com/DwaraknathT/Project-SarVik)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2021 - Present : Associate Java Developer @ SAP Labs India
+* January 2021 – July 2021 : Software Development Engineer, Intern @ Amazon India
+* October 2020 - December 2020: Research Intern, Manipal Institute of Technology, Manipal
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PROGRAMMING LANGUAGES: C++, JAVA, PYTHON
+* FRAMEWORKS/LIBRARIES: CUDA, OPENGL, OPENCV
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
