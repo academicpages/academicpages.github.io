@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Bogong Game Engine"
+excerpt: "A game engine made using OpenGL in my junior years of B.Tech <br/><img src='/images/shadowmapping.gif' width='500' height='500' >"
 collection: portfolio
----
+---  
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/shadowmapping.gif' width='500' height='500' >
