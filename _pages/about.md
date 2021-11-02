@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year undergraduate student majoring in Computer Science and Engineering at the Department of Computer Science at University of California, Los Angeles. Click here to view my up-to-date CV.
+I am a first-year undergraduate student majoring in Computer Science and Engineering at the Department of Computer Science at the University of California, Los Angeles. Click here to view my up-to-date CV.
 
-I am currently interested in researching machine learning, artificial intelligence, and computer vision. Previously, I have used PyTorch to solve machine learning problems, such as increasing the accuracy and incresing the presision of image recognition. I have also worked on projects such as applying algorithms in OI-related problems.
+I am currently interested in researching machine learning, artificial intelligence, and computer vision. Previously, I have used PyTorch to solve machine learning problems, such as increasing the accuracy and increasing the precision of image recognition. I have also worked on projects such as applying algorithms in OI-related problems.
 
 Please feel free to contact me. 
 
