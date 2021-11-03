@@ -8,6 +8,9 @@ main:
 
   - title: "Experience"
     url: /experiences/
+    
+  - title: "Awards & Honors"
+    url: /awards/
 
 
   # - title: "Publications"
