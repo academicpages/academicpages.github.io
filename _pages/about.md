@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
    
-I joined the Department of Biomedical Informatics at [Columbia University](https://www.columbia.edu/) as a postdoctoral research scientist in January 2020 under the supervision of Prof. [Chunhua Weng](https://people.dbmi.columbia.edu/~chw7007/). I received my Ph.D. degree in Computer Science from [Case Western Reserve University](https://case.edu/) in 2019 under the supervision of Prof. [Kenneth Loparo](https://case.edu/datascience/node/131) and received my M.E. degree my B.E. degree in Software Engineering from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China, under the supervision of Prof. [Qingshan Li](https://web.xidian.edu.cn/qshli/index.html).    
+I joined the Department of Biomedical Informatics at [Columbia University](https://www.columbia.edu/) as a postdoctoral research scientist in January 2020 under the supervision of Prof. [Chunhua Weng](https://people.dbmi.columbia.edu/~chw7007/). I received my Ph.D. degree in Computer Science from [Case Western Reserve University](https://case.edu/) in 2019 under the supervision of Prof. [Kenneth Loparo](https://case.edu/datascience/node/131) and received my M.E. degree my B.E. degree in Software Engineering from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China. I am actively seeking tenure-track faculty position in Computer Science or Biomedical Informatics now!    
 
 Research    
 ======
 
-My research interests include Natural Language Processing, Machine Learning, with applications in medical text mining and web text mining.
-
+My research interests include Information Retrieval, Machine Learning and Software Engineering with applications in large clinical information acquisition, mining and visualization that help solving important healthcare problems. I am also interested in web text mining and retrieval.
 
 News    
 ======
