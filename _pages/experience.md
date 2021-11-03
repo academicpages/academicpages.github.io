@@ -10,7 +10,7 @@ author_profile: true
 -- [DATA](http://people.tamu.edu/~guangzhou92/Data_Lab/) Lab, supervision by Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
 
 **University Science and Technology of China, Hefei**, Sep. 2016 - Jun. 2019 \\
--- M.Eng. in Information and Communication Engineering
+-- M.S. in Information and Communication Engineering
 
 **Harbin Insuitute of Technology, Harbin**, Aug. 2012 - Jun. 2016 \\
 -- B.S. in Electronic and Information Engineering\\
