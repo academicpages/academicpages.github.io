@@ -23,8 +23,10 @@ Here is my [CV](tlliao.github.io/files/cv_ltl.pdf) (updated in Mar. 2020) and [c
 
 ## News
 
+<!--
 * **2019.09:** Matlab implementation for Single-perspective warps has been uploaded on github. 
-* **2019.08:** Our work on image stitching has been accepted to IEEE Transactions on Image Processing. Project page can be found [here](https://tlliao.github.io/projects/2020-spw).
+;* **2019.08:** Our work on image stitching has been accepted to IEEE Transactions on Image Processing. Project page can be found [here](https://tlliao.github.io/projects/2020-spw).
+-->
 
 ## Research
 
@@ -43,5 +45,5 @@ Zhengzhou, Henan, P.R.China (450001)
 
 ------
 <footer>
-  <p>Last update: March, 2020</p>
+  <p>Last update: Nov, 2021</p>
 </footer>
