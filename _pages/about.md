@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a lecturer in the [College of Information Science and Engineering](https://computer.haut.edu.cn), [Henan University of Techonology](https://www.haut.edu.cn). I received my Ph.D. in Applied Mathematics in 2019 from [Center for Combinatorics](http://www.combinatorics.net.cn), [Nankai University](http://www.nankai.edu.cn).
+I am a lecturer in the [College of Information Science and Engineering](https://computer.haut.edu.cn), [Henan University of Techonology](https://www.haut.edu.cn). I received my PhD degree in Applied Mathematics in 2019 from [Center for Combinatorics](http://www.combinatorics.net.cn), [Nankai University](http://www.nankai.edu.cn), supervised by Prof [William Y.C.Chen](http://www.billchen.org/).
 
 My research interests include computer vision, machine learning and image processing, mainly focusing on
 * image/video stitching
