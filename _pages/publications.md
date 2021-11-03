@@ -31,7 +31,7 @@ author_profile: true
 </b><br><b>Zhimeng Jiang</b>, Chen Gong, and Zhengyuan Xu. <b>IEEE Transactions on Wireless Communications, vol. 18, no. 12, pp. 6015-6029, Dec. 2019.</b>
 
 <b>[On the sum-rate capacity of Poisson multiple access channel with a sample-based practical photon-counting receiver](https://ieeexplore.ieee.org/abstract/document/9200897)
-</b><br><b>Zhimeng Jiang</b>, Chen Gong, Guanchu Wang, and Zhengyuan Xu. <b>IEEE Transactions on Wireless Communications, vol. 18, no. 12, pp. 6015-6029, Dec. 2019.</b>
+</b><br><b>Zhimeng Jiang</b>, Chen Gong, Guanchu Wang, and Zhengyuan Xu. <b>Journal of Communications and Information Networks, vol. 5, no. 3, pp. 335-349, Sept. 2020.</b>
 
 <b>[Clipping Noise and Power Allocation for OFDM-Based Optical Wireless Communication Using Photon Detection](https://ieeexplore.ieee.org/document/8453026/)
 </b><br><b>Zhimeng Jiang</b>, Chen Gong, and Zhengyuan Xu. <b>IEEE Wireless Communications Letters, vol. 8, no. 1, pp. 237-240, Feb. 2019.</b>
@@ -49,4 +49,4 @@ author_profile: true
 </b><br>Guanchu Wang, Kun Wang, Chen Gong, Difan Zou, <b>Zhimeng Jiang</b>, and Zhengyuan Xu. <b>IEEE Photonics Journal, vol. 10, no. 2, pp. 1-13, Apr. 2018.</b>
 
 <b>[Characterization on Asynchronous Multiple Access in Non-Line of Sight Scattering Communication](https://ieeexplore.ieee.org/abstract/document/8403738)
-</b><br>Guanchu Wang, Chen Gong, <b>Zhimeng Jiang</b>, and Zhengyuan Xu. <b>IEEE International Conference on Communications Workshops} (ICC Workshops), Kansas City, MO, USA, May 20-24, 2018.</b>
+</b><br>Guanchu Wang, Chen Gong, <b>Zhimeng Jiang</b>, and Zhengyuan Xu. <b>IEEE International Conference on Communications Workshops (ICC Workshops), Kansas City, MO, USA, May 20-24, 2018.</b>
