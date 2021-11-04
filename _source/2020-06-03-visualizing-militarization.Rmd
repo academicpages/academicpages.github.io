@@ -9,6 +9,7 @@ knit: (function(inputFile, encoding) {
 date: 2020-06-03
 permalink: /posts/2020/06/visualizing-militarization/
 excerpt_separator: <!--more-->
+toc: true
 header: 
   og_image: "posts/mrap/mrap-1.png"
 tags:
@@ -75,7 +76,7 @@ People often criticize police departments or SWAT teams for owning and deploying
 
 Given the extreme threat they were designed to survive, MRAPs are emblematic of increasing police militarization in the US. But how did police come to own these military-grade vehicles?
 
-## Where have all the MRAPs gone?
+# Where have all the MRAPs gone?
 
 Police departments, sheriff's offices, and even school districts (the LA Unified School District [briefly owned an MRAP](https://www.lamag.com/citythinkblog/lausd-keys-mrap-tank/) in 2014 before [returning it to the Department of Defense ](https://www.dailynews.com/2014/11/21/lausd-school-police-return-armored-military-vehicle-which-is-now-in-barstow/)) that possess MRAPs typically acquire them through the little-known [1033 program](https://en.wikipedia.org/wiki/1033_program) which transfers surplus military property to law enforcement agencies. The 1033 program is separate from the [Department of Homeland Security](https://www.theguardian.com/world/2014/aug/20/police-billions-homeland-security-military-equipment) and [Department of Justice](https://www.nytimes.com/interactive/2014/08/23/us/flow-of-money-and-equipment-to-local-police.html) grants that agencies use to purchase equipment. In contrast, the 1033 program transfers surplus military equipment directly to law enforcement agencies.
 
@@ -107,12 +108,12 @@ ggplot(transfers, aes(x = date, y = mrap_ct)) +
 
 By `r max(year(transfers$date))` only `r sum(transfers %>% group_by(State) %>% slice(n()) %>% pull(mrap_ct) == 0) + 1` states have not received a single MRAP (Hawaii is not included in the data from DLA, although the Marshall Project's database records that the FBI has received 3). The grey band in each panel of the plot marks the suspension of the 1033 program from 2014 to 2017. While some states like Connecticut and New Mexico demonstrate a freeze in transfers during this period, others like Tennessee and New Jersey continued to receive multiple vehicles. To date, the state that has received the most MRAPs is `r state.name[state.abb == transfers$State[which.max(transfers$mrap_ct)]]` with a whopping `r max(transfers$mrap_ct)` vehicles.
 
-## Thinking about the future
+# Thinking about the future
 
 This isn't a one-time issue limited to the current aggressive police response to peaceful protest across the US; it's a longer-running issue and will continue to have consequences for marginalized people throughout the US. The police chief of Camden New Jersey made headlines when he [joined protestors and marched with them](https://philadelphia.cbslocal.com/2020/05/31/members-of-camden-county-police-department-march-alongside-residents-to-honor-george-floyd/). Prior to his tenure as chief, the city disbanded the existing police force and built an entirely new one from the ground up. Without this radical reconstruction, it's doubtful whether the police would have responded with such constructive engagement. Changing the culture of police departments takes time, and we can't lose track of that once the current story fades from the public consciousness.
 
 To that end, I've set up this post to automatically update whenever DLA releases new data on transfers to civilian agencies. It will serve as a way to continue to monitor the ongoing transfer of military hardware to civilian law enforcement agencies.
 
-## Coda
+# Coda
 
 I like to think of myself as pretty in-the-know when it comes to police militarization in the US. I study state-based violence and repression around the world, and I've been aware of increasing militarization in US police forces for over a decade now. I still learned something new while writing this post. The US MRAP program was inspired by the [Casspir](https://en.wikipedia.org/wiki/Casspir) (see Guardia, Mike. 20 November, 2013. *US Army and Marine Corps MRAPs: Mine Resistant Ambush Protected Vehicles*. Osprey Publishing. ISBN 978-1-78096-255-9., p. 4), a vehicle developed by Apartheid South Africa based on their experiences in the [South African Border War](https://en.wikipedia.org/wiki/South_African_Border_War) and [Rhodesian Bush War](https://en.wikipedia.org/wiki/Rhodesian_Bush_War), two anticolonial wars, making the MRAP a potent symbol of how [tools used to police the empire abroad are eventually turned on a country's own citizens at home](https://www.ucpress.edu/book/9780520295629/badges-without-borders).

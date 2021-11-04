@@ -9,6 +9,7 @@ knit: (function(inputFile, encoding) {
 date: 2020-06-03
 permalink: /posts/2020/06/visualizing-militarization/
 excerpt_separator: <!--more-->
+toc: true
 header: 
   og_image: "posts/mrap/mrap-1.png"
 tags:
@@ -35,7 +36,7 @@ Given the extreme threat they were designed to survive, MRAPs are
 emblematic of increasing police militarization in the US. But how did
 police come to own these military-grade vehicles?
 
-## Where have all the MRAPs gone?
+# Where have all the MRAPs gone?
 
 Police departments, sheriff’s offices, and even school districts (the LA
 Unified School District [briefly owned an
@@ -108,7 +109,7 @@ transfers during this period, others like Tennessee and New Jersey
 continued to receive multiple vehicles. To date, the state that has
 received the most MRAPs is Texas with a whopping 118 vehicles.
 
-## Thinking about the future
+# Thinking about the future
 
 This isn’t a one-time issue limited to the current aggressive police
 response to peaceful protest across the US; it’s a longer-running issue
@@ -128,7 +129,7 @@ releases new data on transfers to civilian agencies. It will serve as a
 way to continue to monitor the ongoing transfer of military hardware to
 civilian law enforcement agencies.
 
-## Coda
+# Coda
 
 I like to think of myself as pretty in-the-know when it comes to police
 militarization in the US. I study state-based violence and repression

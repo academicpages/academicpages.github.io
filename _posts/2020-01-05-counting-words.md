@@ -3,6 +3,7 @@ title: 'Counting Words in a Snap'
 date: 2020-01-05
 permalink: /posts/2020/01/counting-words/
 excerpt_separator: <!--more-->
+toc: true
 tags:
   - grading
   - bash
