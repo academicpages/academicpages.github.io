@@ -27,16 +27,22 @@ Work experience
   * Duties included: European Project writing and management. Iot and WoT architectures development and deployment.
   * Supervisor: María Teresa Arredondo Waldmeyer
   
-* Sep. 2020 - Currently : Researcher at Neuromorphic Computing Laboratory at National Centre of Microelectronics, Institute of Microelectronics of Seville (IMSE-CNM).
+  * Sep. 2020 - Feb. 2021 : Researcher at Neuromorphic Computing Laboratory at National Centre of Microelectronics, Institute of Microelectronics of Seville (IMSE-CNM).
   * National Centre of Microelectronics
   * Duties included: Hybrid Enhanced Regenerative Medicine (HERMES).
   * Supervisor: Teresa Serrano Gotarredona and Bernabé Linares Barranco.
+
+
+* Feb. 2020 - Currently : System Applications Engineer, Analog Devices Inc.
+  * Perform firmware testing and verification through pytest testing framework.
+  * Hardware review and test platforms supervision.
+  * Use **python** to develop test framework for firmware and use cases verification.
   
 Skills
 ======
 * Coding
-  * C/C++
-  * Python
+  * **Python**
+  * **C/C++**
   * Matlab
   * VHDL
   * Verilog
