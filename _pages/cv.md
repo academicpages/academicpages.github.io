@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_Oct_31_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
+Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_Nov_3_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
 
 Education
 ======
@@ -54,6 +54,8 @@ Publications
 Select Conference Presentations 
 ======
 <b><big>Oral Presentations</big></b>
+
+* <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Nov., 2021.
 
 * <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment:  A Machine Learning Approach, UCI Cognitive Sciences Colloquium Flash Talk.  Oct., 2021.
 

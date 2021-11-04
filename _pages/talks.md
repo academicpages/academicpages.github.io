@@ -17,6 +17,8 @@ Human Navigation
 Direction
 -----------
 
+* <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Nov., 2021.
+
 * <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment:  A Machine Learning Approach, UCI Cognitive Sciences Colloquium Flash Talk.  Oct., 2021.
 
 * <b>Cheng, Y. </b>. Travel Direction as a Fundamental Component of Human Navigation, UCI Cognitive Sciences Colloquium Flash Talk.  Oct., 2021.
