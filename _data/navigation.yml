@@ -17,8 +17,6 @@ main:
 #    
   - title: "CV"
     url: /paper3.pdf/
-    file: paper3.pdf
-    path: ../files/paper3.pdf
-    
+        
 #  - title: "Guide"
 #    url: /markdown/
