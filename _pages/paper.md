@@ -5,9 +5,9 @@ permalink: /paper/
 author_profile: true
 ---
 
-Tuesday, October 26th:
+Monday, November 8th:
 
-Lukas Wellner (Goettingen University), presents:
+[Lukas Wellner](https://www.uni-goettingen.de/de/588066.html) (Goettingen University), presents:
 
 **Title:** "*The Power of International Bureaucrats: Individual-level Evidence from IMF Mission Chiefs.*"
 
