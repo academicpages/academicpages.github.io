@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Events"
+title: "Events in the Land DA Community"
 permalink: /events/
 author_profile: true
 redirect_from:
