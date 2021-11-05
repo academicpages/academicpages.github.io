@@ -11,7 +11,7 @@ author_profile: true
  
  * <b>WORD: Revisiting Organs Segmentation in the Whole Abdominal Region</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Guotai Wang, Shaoting Zhang<br>
-  <i>This is a tech reports work is ongoing.<br>
+  <i>This is a tech report, the work is still ongoing.<br>
   [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code/dataset](https://github.com/HiLab-git/WORD)]
  
 **Journals**
