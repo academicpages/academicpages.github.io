@@ -146,6 +146,16 @@ details[open] div {
 </thead>
 <thead>
   <tr>
+    <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://mariajosecarreras.weebly.com/"><b>Maria-Jose Carreras-Valle</b></a></p>
+    <a href="https://mariajosecarreras.weebly.com/">
+    <img src="https://gsipe-workshop.github.io/images/CarrerasValle_MariaJose - María José Carreras.png" width="300" height="300"
+    ></a>
+  <br />
+  <details><summary>BIO</summary><p>I am Maria-Jose Carreras-Valle, a PhD candidate in economics at the University of Minnesota. My research interests are international economics and trade. I am particularly interested in topics related to the effects of uncertainty on trade. I am on the job market for 2021-2022 and will be available at the EAA meetings in December 2021 and at the ASSA meetings in January 2022.  </p>
+  </details>
+  </td>
+    
       <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://lorenzo-crippa.github.io"><b>Lorenzo Crippa</b></a></p>
 <a href="https://lorenzo-crippa.github.io">
@@ -157,7 +167,11 @@ details[open] div {
 In my PhD thesis I focus on the multilateral cooperation to regulate corporate foreign bribery. I seek to explain variations in state capacity to hold corporations accountable for exporting corruption abroad. I approach my study employing quantitative methods, and bringing together insights from the literature on international institutions and on political-economic determinants of firms' behaviors.</p>
   </details> 
   </td>
-        <td class="tg-0pky">
+        </tr>
+</thead>
+<thead>
+  <tr>
+    <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://web.sas.upenn.edu/gemmad"><b>Gemma Dipoppa</b></a></p>
 <a href="https://web.sas.upenn.edu/gemmad">
     <img src="https://gsipe-workshop.github.io/images/Gemma_Dipoppa.jpg" width="300" height="300"
@@ -166,10 +180,6 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>BIO</summary><p>I am a Postdoctoral Fellow at Stanford and I received my PhD from University of Pennsylvania. I am interested in political economy, comparative politics and quantitative methods. My research examines current threats to the legitimacy of the state. In my dissertation and book project, I study how criminal organizations are expanding to the richest countries in the world and the consequences of this infiltration on politics. Strong states face important challenges in the management of migration. I ask what causes clashes between natives and migrants and how these fractures can be healed and integration policies be promoted without backlash.</p>
   </details> 
   </td>
-        </tr>
-</thead>
-<thead>
-  <tr>
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.jacquegao.com/"><b>Jacque Gao</b></a></p>
     <a href="https://www.jacquegao.com/">
@@ -179,7 +189,11 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at the University of Rochester. My specializations are formal political theory, comparative political economy (CPE), and international political economy (IPE). I am particularly interested in understanding how a dictator's survival strategies interact with the changing international environment. My research has been accepted for publication in International Organization, The Review of International Organizations, and Social Choice and Welfare.</p>
   </details>
   </td>
-     <td class="tg-0pky">
+        </tr>
+</thead>
+<thead>
+  <tr>
+    <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://sites.google.com/view/yutinggao"><b>Yuting Gao</b></a></p>
     <a href="https://sites.google.com/view/yutingga">
     <img src="https://gsipe-workshop.github.io/images/Gao_Yuting - Yuting Gao.JPG" width="300" height="300"
@@ -187,10 +201,6 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>BIO</summary><p>Yuting Gao is a PhD candidate in international and political economics in Indiana University Bloomington. Her research interest includes liberalization, rent seeking and trade policy. Her present research agenda focus on the interaction between lobbying and policy development of international agreement. In her job market paper, she use a contest model to quantify the influence of lobbying expenditures on ratification probability of free trade agreements in the United States.</p>
   </details> </td> 
-        </tr>
-</thead>
-<thead>
-  <tr>
      <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.haosenge.net/"><b>Haosen Ge</b></a></p>
     <a href="https://www.haosenge.net/">
@@ -199,6 +209,10 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>BIO</summary><p>I specialize in international political economy, Chinese politics, and quantitative methods. My research seeks to understand how foreign firms leverage political dynamics in host countries to influence policy outcomes. My dissertation re-examines the relationship between asset mobility and government treatment. I put forward an alternative view that emphasizes how low asset mobility helps foreign firms gain government support.</p>
   </details> </td> 
+             </tr>
+</thead>
+<thead>
+  <tr> 
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.benjaminhelms.com/"><b>Benjamin Helms</b></a></p>
     <a href="https://www.benjaminhelms.com/">
@@ -207,10 +221,6 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>BIO</summary><p>Benjamin Helms is a PhD candidate and Bankard Pre-Doctoral Research Fellow in the Department of Politics at the University of Virginia. His research interests are in international and comparative political economy, with a focus on the political economy of globalization and international migration. His dissertation focuses on the ways in which workers strategically react to external economic shocks, and how those reactions interact with social cleavages to generate political change and reshape citizens' political expectations. He has taught courses in both international political economy and international relations.</p>
   </details> </td>
-             </tr>
-</thead>
-<thead>
-  <tr> 
      <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://aycankatitas.weebly.com/"><b>Acyan Katitas</b></a></p>
     <a href="https://aycankatitas.weebly.com/">
@@ -219,7 +229,11 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>BIO</summary><p>I'm Aycan (pronounced I-John) and I'm a postdoctoral fellow at Princeton's Niehaus Center for Globalization and Governance during the 2021-2022 academic year. I have received my PhD from the University of Virginia's Department of Politics in Spring 2021. My specialty is international political economy and my research focuses on elite priming of opposition to international trade and foreign direct investment. Prior to UVA, I received my MA in European Interdisciplinary Studies from College of Europe (Poland) and my BA in Political Science and International Relations and Business Administration from Bogazici University (Turkey).</p>
   </details> </td>
-  <td class="tg-0pky">
+        </tr>
+</thead>
+<thead>
+  <tr>
+    <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.alexanderkirss.com/"><b>Alexander Kirss</b></a></p>
 <a href="https://www.alexanderkirss.com/">
     <img src="https://gsipe-workshop.github.io/images/KIRSS_ALEXANDER.jpg" width="300" height="300"
@@ -228,11 +242,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>BIO</summary><p>Alex is a PhD Candidate in the political science department at George Washington University, where he is concentrating in international relations and research methods. His research sits at the intersection of international political economy and security studies and investigates how businesses are affected by, respond to, and shape large scale international shocks such as interstate war, geopolitical competition, and pandemics.</p>
   </details> 
   </td>
-        </tr>
-</thead>
-<thead>
-  <tr>
-     <td class="tg-0pky">
+    <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.lauren.konken.ca/"><b>Lauren Konken</b></a></p>
     <a href="https://www.lauren.konken.ca/">
     <img src="https://gsipe-workshop.github.io/images/Konken_Lauren.jpg" width="300" height="300"
@@ -240,6 +250,21 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <br />
   <details><summary>BIO</summary><p>My name is Lauren C. Konken and I am a Ph.D. candidate in the Department of Politics at Princeton University. In my research, I seek to explain the design of multilateral and preferential trade agreements (PTAs), and how those design choices consequently change state behaviour.  To answer these questions I rely on a multi-method approach that prioritizes causal process tracing and historical analysis alongside quantitative data analysis and statistics. My research also adopts an interdisciplinary approach, contributing to scholarship in international relations, and the study of international law and organizations, and international political economy (IPE) in particular.</p>
   </details> </td>
+   
+     </tr>
+    </thead>
+<thead>
+   <tr>
+     <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://sites.google.com/view/annelaski"><b>Anne Laski</b></a></p>
+<a href="https://sites.google.com/view/annelaski">
+    <img src="https://gsipe-workshop.github.io/images/LASKI, ANNE - Anne Laski.jpg" width="300" height="300"
+    ></a>
+  <br />
+  <details><summary>BIO</summary><p>I am a doctoral student at Brandeis University International Business School in Waltham, Massachusetts.  My research focuses on monetary economics and household saving behavior. In my JMP, I identify a seigniorage channel that biases the optimal inflation target for a currency hegemon upward.  I show this channel using a two-country heterogenous agent model with idiosyncratic income shocks and a single asset (fiat currency) produced by a monopolist, i.e. the currency hegemon.  By collecting an inflation tax from foreign households, this hegemon subsidizes a current account deficit and raises aggregate domestic welfare. These welfare gains come at the expense of the rest of the world.
+</p>
+  </details> 
+  </td>
         <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.siyao-li.com"><b>Siyao Li</b></a></p>
     <a href="https://www.siyao-li.com">
