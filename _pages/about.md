@@ -22,7 +22,7 @@ My PhD thesis is focused on analysis of concurrency in modern data-intensive pro
 
 
 
-I was previously a research intern at [Microsoft](https://www.microsoft.com/en-us/research/), working on a new program synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural langiage model. My work was supervised by Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
+I was previously a research intern at [Microsoft](https://www.microsoft.com/en-us/research/), working on a new program synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural language model. My work was supervised by Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
 
 
 
