@@ -11,7 +11,8 @@ author_profile: true
  
  * <b>WORD: Revisiting Organs Segmentation in the Whole Abdominal Region</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Guotai Wang, Shaoting Zhang<br>
-  [[paper](https://luoxd1996.github.io)][[code/dataset](https://github.com/HiLab-git/WORD)]
+  <i>Tech reports work is ongoing.<br>
+  [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code/dataset](https://github.com/HiLab-git/WORD)]
  
 **Journals**
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
