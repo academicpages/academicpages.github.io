@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Workshops"
-permalink: /workshops/
+title: "Events"
+permalink: /events/
 author_profile: true
 redirect_from:
   - /resume
