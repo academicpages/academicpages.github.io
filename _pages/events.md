@@ -11,3 +11,4 @@ redirect_from:
 
 Workshops
 ======
+**Technical Challenges *in Land DA* Community**
