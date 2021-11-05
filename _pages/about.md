@@ -25,3 +25,5 @@ News
 **Sep. 2021:** Submit the paper on Risk-Aware Bid Optimization for advertisement display. – We propose a risk-aware bid optimization framework in Real-Time Bidding (RTB) with nice Value at Risk (VaR) therectical support. Additionally, we develop two  instantiations to model risk tendency, including an expert knowledge based formulation embracing three essential properties and an adaptive learning method based on self-supervised reinforcement learning.
 
 **May. 2020:** Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en).
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=276bba&w=300&t=n&d=_AahTWe7r3JGq_cYfRXPi0HQTKOD3NUb8lqBF0iSBCg&co=ffffff&ct=120808'></script>
