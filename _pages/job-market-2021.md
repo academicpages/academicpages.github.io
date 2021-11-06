@@ -333,12 +333,13 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </details>
   </td>
      <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://calvinthrall.github.io/"><b>Calvin Thrall</b></a></p>
-<a href="https://calvinthrall.github.io/">
-    <img src="https://gsipe-workshop.github.io/images/thrall_calvin.png" width="300" height="300"
+    <p style="font-size:20px"><a href = "https://yukitakahashi1.github.io"><b>Yuki Takahashi</b></a></p>
+<a href="https://yukitakahashi1.github.io/">
+    <img src="https://gsipe-workshop.github.io/images/Takahashi_Yuki - Yuki Takahashi.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>Calvin Thrall is a PhD candidate in the Department of Government at The University of Texas at Austin. He studies the politics of coercion, cooperation, and collusion between public and private actors; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. His work has been published in International Organization, The Review of International Organizations, Business and Politics, and AEA: Papers and Proceedings. His job market paper,'Spillover Effects in International Law: Evidence from Tax Planning,' received the David A. Lake Award for best paper presented at IPES 2020.</p>
+  <details><summary>BIO</summary><p>I am a PhD candidate in economics at the University of Bologna. I work on topics in behavioral, labor, and gender economics with a particular focus on inequality. In my job market paper, I study whether people dislike collaborating with someone who corrects them and more so when that person is a woman.
+</p>
   </details> 
   </td>     
       
@@ -347,6 +348,15 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   </thead>
   <thead>
   <tr>
+     <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://calvinthrall.github.io/"><b>Calvin Thrall</b></a></p>
+<a href="https://calvinthrall.github.io/">
+    <img src="https://gsipe-workshop.github.io/images/thrall_calvin.png" width="300" height="300"
+    ></a>
+  <br />
+  <details><summary>BIO</summary><p>Calvin Thrall is a PhD candidate in the Department of Government at The University of Texas at Austin. He studies the politics of coercion, cooperation, and collusion between public and private actors; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. His work has been published in International Organization, The Review of International Organizations, Business and Politics, and AEA: Papers and Proceedings. His job market paper,'Spillover Effects in International Law: Evidence from Tax Planning,' received the David A. Lake Award for best paper presented at IPES 2020.</p>
+  </details> 
+  </td> 
    <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.noahzucker.com"><b>Noah Zucker</b></a></p>
 <a href="https://www.noahzucker.com">
