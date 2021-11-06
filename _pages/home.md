@@ -8,4 +8,4 @@ redirect_from:
   - /home.html
 ---
 
-Welcome to by website!
+Welcome to my website!
