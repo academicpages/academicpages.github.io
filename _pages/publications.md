@@ -73,7 +73,7 @@ Sidhu K, **Han L,** Picard KCI, Tedrow UB, Lakdawala NK.
 
 ## Social Innovation
 
- **[Joint International Consensus Statement on Crowdsourcing Challenge Contests in Health and Medicine: Results of a Modified Delphi Process]**.  
+ **[Joint International Consensus Statement on Crowdsourcing Challenge Contests in Health and Medicine: Results of a Modified Delphi Process](https://bmjopen.bmj.com/content/11/11/e048699)**.  
  BMJ Open (2021).  
  **Han L,** Tang, W, Tiarney R, et al.
 
