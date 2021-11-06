@@ -1,7 +1,7 @@
 ---
 title: "Assessment of WRF-CHEM Simulated Dust Using Reanalysis, Satellite Data and Ground-Based Observations"
 collection: publications
-permalink: /_publications/2021/Dustpaper
+permalink: /_publications/2021_Dustpaper
 excerpt: ' '
 date: 2021-03-05
 venue: 'Journal of the Indian Society of Remote Sensing'
