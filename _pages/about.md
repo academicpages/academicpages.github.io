@@ -13,7 +13,7 @@ redirect_from:
 [![Linkedin Badge](https://img.shields.io/badge/-raulsedano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com)
 [![Gmail Badge](https://img.shields.io/badge/-raulsedanomolina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:raulsedanomolina@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://raulsedano2410.github.io/cv/)
+- 🎯 Portfolio website: [Portfolio](https://raulsedano2410.github.io/portofolio/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
