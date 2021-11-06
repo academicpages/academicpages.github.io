@@ -17,13 +17,13 @@ author_profile: true
 **Journals**
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo </b>, Tao Song, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
- <b>Medical Image Analysis (SCI, IF=8.545)</b>.<br>
+ <b>Medical Image Analysis</b>.<br>
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003327)][[code](https://github.com/HiLab-git/SCPM-Net)]
   
  * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
- <b>Medical Image Analysis (SCI, IF=11.148)</b>.<br>
-   [[paper](https://arxiv.org/pdf/2104.12166.pdf)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
+ <b>Medical Image Analysis</b>.<br>
+   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001481)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
    
 **Conferences**
   
