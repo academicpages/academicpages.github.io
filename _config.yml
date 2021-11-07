@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiye (Rex) Deng"
+  title                    : "Rex Weiye Deng"
 title_separator          : "-"
-name                     : &name "Weiye (Rex) Deng"
-description              : &description "A first-year PhD at Washington University in St. Louis"
+name                     : &name "Rex Weiye Deng"
+description              : &description "Ph.D. student in political science, Washington University in St. Louis"
 url                      : https://weiyedeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiyedeng/weiyedeng.github.io"
