@@ -125,6 +125,16 @@ details[open] div {
 <table class="tg">
 <thead>
     <tr>
+            <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.maylisavaro.info/"><b>Maylis Avaro</b></a></p>
+    <a href="https://www.maylisavaro.info/">
+    <img src="" width="300" height="300"
+    ></a>
+  <br />
+  <details><summary>BIO</summary><p>I consider myself as an economist using history and international relations to construct models of the past that inform the present. My research projects are organized along three lines that cut across the fields of monetary history, banking history and the history of economic expertise. I am currently a postdoctoral fellow at Rutgers University and graduated from a PhD in Economic History from the Graduate Institute of International and Development Studies of Geneva. 
+ </p>
+  </details>
+  </td>
       <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https:/www.jessiebullock.com"><b>Jessie Bullock</b></a></p>
     <a href="https://https:/www.jessiebullock.com">
@@ -358,6 +368,15 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
   <details><summary>BIO</summary><p>Calvin Thrall is a PhD candidate in the Department of Government at The University of Texas at Austin. He studies the politics of coercion, cooperation, and collusion between public and private actors; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. His work has been published in International Organization, The Review of International Organizations, Business and Politics, and AEA: Papers and Proceedings. His job market paper,'Spillover Effects in International Law: Evidence from Tax Planning,' received the David A. Lake Award for best paper presented at IPES 2020.</p>
   </details> 
   </td> 
+    <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://nebhup.wixsite.com/website"><b>Neha B Upadhayay</b></a></p>
+<a href="https://nebhup.wixsite.com/website">
+    <img src="https://gsipe-workshop.github.io/images/Upadhayay_Neha - Neha Bhardwaj.jpg" width="300" height="300"
+    ></a>
+  <br />
+  <details><summary>BIO</summary><p>Born and brought up in India, now living in France and Germany, I am an inter-disciplinarian. Starting out as an engineer and after a rewarding stint in the corporate world, I moved to France in 2016 to pursue research and teaching. My research interests and body of work is in international trade & development economics.</p>
+  </details> 
+  </td>
    <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.noahzucker.com"><b>Noah Zucker</b></a></p>
 <a href="https://www.noahzucker.com">
