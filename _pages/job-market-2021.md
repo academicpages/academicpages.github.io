@@ -127,7 +127,7 @@ details[open] div {
       <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.maylisavaro.info/"><b>Maylis Avaro</b></a></p>
     <a href="https://www.maylisavaro.info/">
-  
+  <img src="" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>I consider myself as an economist using history and international relations to construct models of the past that inform the present. My research projects are organized along three lines that cut across the fields of monetary history, banking history and the history of economic expertise. I am currently a postdoctoral fellow at Rutgers University and graduated from a PhD in Economic History from the Graduate Institute of International and Development Studies of Geneva. 
