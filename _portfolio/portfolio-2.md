@@ -4,4 +4,4 @@ excerpt: "A Cuda-OpenGL interop engine made to implement stuff on Cuda and visua
 collection: portfolio
 ---  
 Firin' on all threads!  
-<img src='/images/gerstener.gif' width='500' height='500' >
+<img src='/grayskull/images/gerstener.gif' width='500' height='500' >
