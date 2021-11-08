@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-  title                  : "Rex Weiye Deng"
+title                    : "Rex Weiye Deng"
 title_separator          : "-"
 name                     : &name "Rex Weiye Deng"
 description              : &description "Ph.D. student in political science, Washington University in St. Louis"
