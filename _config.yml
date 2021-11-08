@@ -149,6 +149,7 @@ exclude:
   - _pages/teaching.html
   - _pages/portfolio.html
   - _pages/markdown.md
+  - _pages/year-archive.html
 keep_files:
   - .git
   - .svn
