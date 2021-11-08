@@ -14,7 +14,7 @@ author_profile: true
 
 
 >## Theme:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
----
+
 
 *What are "non-tariff measures" (NTMs)?  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the term suggests, NTMs may include any policy measures other than tariffs that can impact trade flows. At a broad level, NTMs can usefully be divided into three categories.  
@@ -26,8 +26,8 @@ author_profile: true
 
 >### Objective
 
-* Create a database of non-tariff measures (NTMs), based on some important criteria for the development of your study.  
-&nbsp;  
+* Create a database of non-tariff measures (NTMs), based on some important criteria for the development of your study.
+
 >### Imputs
 
 1. Measure/Notification
@@ -68,37 +68,38 @@ author_profile: true
 
      (b) List of countries
 
-|         List        |        Of         |    Countries       |
-|         ----        |       ----        |      ----          |
-|        Germany      |  Saudi Arabia, Kingdom of the | Argentina |
-|        Australia    |   Austria         |    Bolivia         |
-|        Brazil       |     Bulgaria      |    Belgium         |
-|        Canada       |     Chile         |     China          |
-|        Cyprus       |    Colombia       | Korea, Republic of |
-|        Costa Rica   |    Cuba           | Denmark            |
-|        Ecuador      |    El Salvador    | Slovenia           |
-|        Spain        |    United States of America | Estonia  |
-|        Russian Federation | Finland     | France             |
-|        Greece       |    Guatemala      | Honduras           |
-|        Hong Kong    |    China          | Hungary            |
-|        India        |    Indonesia      | Ireland            |
-|        Iceland      |    Italy          | Japan              |
-|        Latvia       |    Malaysia       | Malta              |
-|        Mexico       |    Nicaragua      | Norway             |
-|        Panama       |    Paraguay       | Netherlands        |
-|        Peru         |    Poland         | Portugal           |
-|        United Kingdom | Czech Republic  | Dominican Republic |
-|        Slovak Republic | Romania        | Sweden             |
-|        Switzerland  |    Thailand       | Trinidad and Tobago |
-|        Turkey       |    Uruguay        | Bolivarian Republic of Venezuela |
-|        Viet Nam.    |                   |                    |
+     |         List        |        Of         |    Countries       |
+     |         ----        |       ----        |      ----          |
+     |        Germany      |  Saudi Arabia, Kingdom of the | Argentina |
+     |        Australia    |   Austria         |    Bolivia         |
+     |        Brazil       |     Bulgaria      |    Belgium         |
+     |        Canada       |     Chile         |     China          |
+     |        Cyprus       |    Colombia       | Korea, Republic of |
+     |        Costa Rica   |    Cuba           | Denmark            |
+     |        Ecuador      |    El Salvador    | Slovenia           |
+     |        Spain        |    United States of America | Estonia  |
+     |        Russian Federation | Finland     | France             |
+     |        Greece       |    Guatemala      | Honduras           |
+     |        Hong Kong    |    China          | Hungary            |
+     |        India        |    Indonesia      | Ireland            |
+     |        Iceland      |    Italy          | Japan              |
+     |        Latvia       |    Malaysia       | Malta              |
+     |        Mexico       |    Nicaragua      | Norway             |
+     |        Panama       |    Paraguay       | Netherlands        |
+     |        Peru         |    Poland         | Portugal           |
+     |        United Kingdom | Czech Republic  | Dominican Republic |
+     |        Slovak Republic | Romania        | Sweden             |
+     |        Switzerland  |    Thailand       | Trinidad and Tobago |
+     |        Turkey       |    Uruguay        | Bolivarian Republic of Venezuela |
+     |        Viet Nam.    |                   |                    |
 
 
 4. Product(s) affected by the measure
      * All/Any
 5. Keywords
      * All/Any
-> ### Tools
+
+>### Tools
 
 * Language Python
 * Library
