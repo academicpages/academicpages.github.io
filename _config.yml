@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Elibeth Cirilo"
 title_separator          : "-"
 name                     : &name "Elibeth Cirilo"
-description              : &description "personal description"
+description              : &description "Hola"
 url                      : https://ecirilomendoza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ecirilomendoza/ecirilomendoza.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Elibeth Cirilo"
   avatar           : "profile2.jpg"
-  bio              : "A young researcher interested in microeconometrics, causal inference and machine learning in development economics"
+  bio              : "A young researcher interested in microeconometrics, causal inference and machine learning related to development economics."
   location         : "Lima, Peru"
   employer         :
   pubmed           : 
@@ -121,6 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -145,11 +146,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - files
-  - _pages/teaching.html
-  - _pages/portfolio.html
-  - _pages/markdown.md
-  - _pages/year-archive.html
 keep_files:
   - .git
   - .svn
