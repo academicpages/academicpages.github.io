@@ -7,13 +7,11 @@ author_profile: true
 ---
 
 >## Scraped to:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[www.wto.org](https://www.wto.org)** 
----  
-&nbsp;
 
 <center>
      <img src="../images/logo_en.gif" alt="Coder GIF" width="320" />
 </center>
-&nbsp;
+
 
 >## Theme:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
 ---
@@ -27,33 +25,33 @@ author_profile: true
 [*Complete documentation here*](https://www.wto.org/english/res_e/reser_e/ersd201201_e.pdf)
 
 >### Objective
----
-&nbsp;
+
 * Create a database of non-tariff measures (NTMs), based on some important criteria for the development of your study.  
 &nbsp;  
 >### Imputs
----
-1. Measure/Notification
-     &nbsp;  
 
-     Code|Measure|Requiriment
-     --|--|--
-     A|Sanitary and Phytosanitary|Emergency
-     A|Sanitary and Phytosanitary|Regular
-     B|Technical Barriers to Trade|Regular
-     D1|Anti dumping|-
-     D2|Countervailing|-
-     D31|Safeguards|-
-     D32|Special Safeguards|-
-     E32|Quantitative Restrictions|-
-     E61|Tariff-rate quotas|-
-     P7|Export Subsides|-
-     H1,P2|State Trading Enterprices|-
+1. Measure/Notification
+     
+
+     |Code|Measure|Requiriment|
+     |---|---|---|
+     |A|Sanitary and Phytosanitary|Emergency|
+     |A|Sanitary and Phytosanitary|Regular|
+     |B|Technical Barriers to Trade|Regular|
+     |D1|Anti dumping|-|
+     |D2|Countervailing|-|
+     |D31|Safeguards|-|
+     |D32|Special Safeguards|-|
+     |E32|Quantitative Restrictions|-|
+     |E61|Tariff-rate quotas|-|
+     |P7|Export Subsides|-|
+     |H1,P2|State Trading Enterprices|-|
   
 2. Date(s)
  - Measures taken during period of time
      - From 01/01/1988 to 31/12/2020  
-     - Options<ul><li>[x] initiated</li><li>[x] entered into force</li></ul>  
+     - [x] initiated
+     - [x] entered into force  
 
 
 
@@ -70,38 +68,38 @@ author_profile: true
 
      (b) List of countries
 
-|List | Of | Countries
------------- | ----------------- | -------------- |
-| Germany | Saudi Arabia, Kingdom of the | Argentina |
-| Australia | Austria | Bolivia |
-| Brazil | Bulgaria | Belgium |
-| Canada | Chile | China
-| Cyprus | Colombia | Korea, Republic of
-| Costa Rica | Cuba | Denmark
-| Ecuador | El Salvador | Slovenia
-| Spain | United States of America | Estonia |
-| Russian Federation | Finland | France |
-| Greece | Guatemala | Honduras |
-| Hong Kong | China | Hungary |
-| India | Indonesia | Ireland |
-| Iceland | Italy | Japan |
-| Latvia | Malaysia | Malta |
-| Mexico | Nicaragua | Norway |
-| Panama | Paraguay | Netherlands |
-| Peru | Poland | Portugal |
-| United Kingdom | Czech Republic | Dominican Republic |
-| Slovak Republic | Romania | Sweden |
-| Switzerland | Thailand | Trinidad and Tobago |
-| Turkey | Uruguay | Bolivarian Republic of Venezuela |
-| Viet Nam.
-&nbsp;  
+|         List        |        Of         |    Countries       |
+|         ----        |       ----        |      ----          |
+|        Germany      |  Saudi Arabia, Kingdom of the | Argentina |
+|        Australia    |   Austria         |    Bolivia         |
+|        Brazil       |     Bulgaria      |    Belgium         |
+|        Canada       |     Chile         |     China          |
+|        Cyprus       |    Colombia       | Korea, Republic of |
+|        Costa Rica   |    Cuba           | Denmark            |
+|        Ecuador      |    El Salvador    | Slovenia           |
+|        Spain        |    United States of America | Estonia  |
+|        Russian Federation | Finland     | France             |
+|        Greece       |    Guatemala      | Honduras           |
+|        Hong Kong    |    China          | Hungary            |
+|        India        |    Indonesia      | Ireland            |
+|        Iceland      |    Italy          | Japan              |
+|        Latvia       |    Malaysia       | Malta              |
+|        Mexico       |    Nicaragua      | Norway             |
+|        Panama       |    Paraguay       | Netherlands        |
+|        Peru         |    Poland         | Portugal           |
+|        United Kingdom | Czech Republic  | Dominican Republic |
+|        Slovak Republic | Romania        | Sweden             |
+|        Switzerland  |    Thailand       | Trinidad and Tobago |
+|        Turkey       |    Uruguay        | Bolivarian Republic of Venezuela |
+|        Viet Nam.    |                   |                    |
+
 
 4. Product(s) affected by the measure
      * All/Any
 5. Keywords
      * All/Any
 > ### Tools
----
+
 * Language Python
 * Library
 ```python
