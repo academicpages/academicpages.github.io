@@ -5,9 +5,14 @@ var addressPoints = [
     -3.7035825
   ],
   [
-    "Madrid, Spain",
+    "Madrid, Espa\u00f1a",
     40.4167047,
     -3.7035825
+  ],
+  [
+    "Porto, Portugal",
+    41.1494512,
+    -8.6107884
   ],
   [
     "Dublin, Ireland",
@@ -15,9 +20,19 @@ var addressPoints = [
     -6.2602732
   ],
   [
-    "Granada, Spain",
+    "Lisbon, Portugal",
+    38.7077507,
+    -9.1365919
+  ],
+  [
+    "Granada, Espa\u00f1a",
     37.1734995,
     -3.5995337
+  ],
+  [
+    "Liverpool, United Kingdom",
+    53.4071991,
+    -2.99168
   ],
   [
     "Santiago de Chile, Chile",
