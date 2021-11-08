@@ -121,7 +121,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -146,6 +145,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - files
 keep_files:
   - .git
   - .svn
