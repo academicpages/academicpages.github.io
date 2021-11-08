@@ -18,7 +18,7 @@ author_profile: false
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun | Initial perturbation of mean curvature flow | [https://umn.zoom.us/j/97043232587]( https://umn.zoom.us/j/97043232587)
 | Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  |  |  
 | Tu, Nov 16, 2021 | 1:30pm - 2:30pm | Mohammad Farajzadeh Tehrani | |
-| Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin Decomposition of Floer Trajectories and Adiabatic Gluing |  
+| Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin decomposition of Floer trajectories and adiabatic gluing |  
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu |  |  
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang |  |  
@@ -39,3 +39,7 @@ author_profile: false
 
 * Ao Sun
   * We show that after a perturbation on the initial data of mean curvature flow, the perturbed flow can avoid certain non-generic singularities. This contributes to the program of dynamical approach to generic mean curvature flow initiated by Colding and Minicozzi. The key is to prove that a positive perturbation on initial data would drift to the first eigenfunction direction after a long time. This result can be viewed as a global unstable manifold theorem in the most unstable direction for a nonlinear heat equation. This is joint work with Jinxin Xue (Tsinghua University).
+
+* Ke Zhu
+  * We study the adiabatic degeneration of Floer trajectories to "disk-flow-disk" configurations and the recovering gluing, where the gradient flow part has positive length. Unlike the standard gluing problem, we study the problem of gluing two objects of different dimensions: 1-dimensional gradient segments and 2-dimensional (perturbed) J-holomorphic maps. Similar configurations also appear in the Morse-Bott approach for symplectic homology and contact homology. 
+  As an immediate application, we outline the proof that when a finite number of Hamiltonian deformations of a monotone Lagrangian submanifold collapse simultaneously, the pearl complex moduli spaces by Biran-Cornea are diffeomorphic to the J-holomorohic polygon moduli spaces by Fukaya-Oh-Ono-Ohta, provided the dimension of the moduli spaces is sufficiently small e.g., when the dimension is 0,1 or 2. This is enough to prove that the 𝐴∞-structures appearing in the two pictures are isomorphic to each other.  This also provides another proof of the isomorphism property of PSS map which is different from previous work of Oh-Zhu: It bypasses the nodal Floer trajectories by going directly from "disk-flow-disk" configurations to resolved Floer trajectories, without the need of blowing up target. 
