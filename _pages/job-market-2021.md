@@ -171,7 +171,7 @@ details[open] div {
 <thead>
   <tr>
      <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "hhttps://stevenrychen.com/"><b>Lorenzo Crippa</b></a></p>
+    <p style="font-size:20px"><a href = "hhttps://stevenrychen.com/"><b>Ruoyu Chen</b></a></p>
 <a href="https://stevenrychen.com/">
     <img src="https://gsipe-workshop.github.io/images/CHEN_RUOYU - Ruoyu Chen.JPG" width="300" height="300"
     ></a>
