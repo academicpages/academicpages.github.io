@@ -1,16 +1,14 @@
 ---
 title: "Scraping www.wto.org"
-excerpt: "Using Python and Selenium in data extraction  
-Data: Non-tariff measures<br/><img src='/images/logo_en.gif'>"
+excerpt: "Using Python and Selenium in the extraction of Non-tariff measures with certain criteria.<br/><img src='/images/logo_en.gif'>"
 collection: portfolio
 ---
 
 
 >## Scraped to:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[www.wto.org](https://www.wto.org)** 
 
-<center>
-     <img src='../images/logo_2.gif' alt="Coder GIF" width="320" />
-</center>
+
+<div align=”center”><img src='../images/logo_2.gif' width="320"></div>
 
 
 >## Theme:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
