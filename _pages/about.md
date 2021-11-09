@@ -24,10 +24,12 @@ Research Interests
 <li>Applied Machine Learning</li>
 <li>Multimodal Machine Learning</li>
 <li>Multisensory Systems</li>
+<li>Location Tracking System</li>
+<li>Sensor-based Healthcare</li>
+<li>Human-centred AI System</li>
+<li>Human-computer Interaction</li>
 <li>Wearable Devices</li>
 <li>Mobile Sensing</li>
-<li>Sensor-based Healthcare</li>
-<li>Location Tracking System</li>
 </ul>
 
 <hr color="#FFFFFF" />
