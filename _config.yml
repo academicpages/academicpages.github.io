@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Programmer "
+title                    : "Raul Sedano Molina "
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Raul Sedano"
 description              : &description "personal description"
 url                      : https://raulsedano2410.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -191,7 +191,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: false

@@ -100,8 +100,8 @@ author_profile: true
      * All/Any
 
 >### Tools
-
-* Language Python
+* Jupyter Notebook
+* Python 3.8
 * Library
 ```python
      from selenium.webdriver.support.ui import Select
