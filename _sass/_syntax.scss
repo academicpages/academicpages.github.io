@@ -19,7 +19,7 @@ div.highlighter-rouge, figure.highlight {
     background-color: $lighter-gray;
     #content: "\f121";
     font-family: "Font Awesome 5 Free" !important;
-    font-size: $type-size-4;
+    font-size: .8125em;
     line-height: 1;
     text-transform: none;
     speak: none;
@@ -28,8 +28,8 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
-    line-height: 1.4;
+    font-size: .8125em;
+    line-height: 1.8;
   }
 }
 
