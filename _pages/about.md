@@ -16,7 +16,7 @@ redirect_from:
 
 About Me
 ======
-I hold a B.Eng honour degree in Electrical and Electronics Engineering and an M.Sc degree in Artificial Intelligence, both received from the University of Edinburgh. My research includes multisensory based multimodal machine learning in contextual recognition and location tracking. Besides research, I adore cooking and travelling.
+I hold a B.Eng honour degree in Electronics and Electrical Engineering and an M.Sc degree in Artificial Intelligence, both received from the University of Edinburgh. My research includes multisensory based multimodal machine learning in contextual recognition and location tracking. Besides research, I adore cooking and travelling.
 
 Research Interests
 ======
@@ -40,16 +40,16 @@ Work with Zhiqiang Wei and Valentin Radu, "Sensor-fusion for Smartphone Location
 
 [Sept. 2021] Paper accepted at IPIN, 2021.
 Work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks".
-See you in Lloret de Mar, Spain
+See you in Lloret de Mar, Spain.
 [Invited Talk Video](https://www.youtube.com/watch?v=8UjP0NXLf_0)
 
 [Jul. 2019] Paper accepted at IPIN, 2019.
 Work with Valentin Radu, "Calibrating Recurrent Neural Networks on Smartphone Inertial Sensors for Location Tracking".
-See you in Pisa, Italy
+See you in Pisa, Italy.
 
 [Aug. 2018] Paper accepted at MobiUK 2018.
 Work with Valentin Radu, "End-to-End Machine Learning for Smartphone-based Indoor Localisation and Tracking using Recurrent Neural Networks".
-See you in Cambridge, UK
+See you in Cambridge, UK.
 
 For more info
 ======
