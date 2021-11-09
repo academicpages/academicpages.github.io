@@ -1,5 +1,5 @@
 ---
-title: "An end-to-end multimodal deep neural network based smartphone cross-sensor tracking systems"
+title: "An end-to-end multimodal deep neural network based smartphone cross-sensor tracking system"
 collection: talks
 type: "Talk"
 permalink: /talks/ipin2021-talk
