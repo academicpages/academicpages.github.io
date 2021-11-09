@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shreya Kapoor"
   avatar           : "profile.png"
-  bio              : "Aspiring Computational Neuroscientist. Bachelors in Physics and Masters in Life Science Informatics."
-  location         : "Bonn, Germany"
-  employer         :
+  bio              : "Data Analyst at Max Planck Institute for Human Cognitive and Brain Sciences | BSc.(H) Physics and M.Sc. Life Science Informatics."
+  location         : "Leipzig, Germany"
+  employer         : "Max Planck Institute of Human Cognitive and Brain Sciences"
   pubmed           :
   googlescholar    : 
-  email            :
+  email            : "kapoor@cbs.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "shreyakapoor18/"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-2619-8257" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Skapoor_18"
   vine             :
   weibo            :
   xing             :
