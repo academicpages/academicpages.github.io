@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/nicki-skafte-detlefsen-956741223/
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -203,12 +203,12 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+#  - scope:
+#      path: ""
+#      type: pages
+#    values:
+#      layout: single
+#      author_profile: true
   # _teaching
   - scope:
       path: ""
