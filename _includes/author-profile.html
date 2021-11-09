@@ -26,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="ai ai-google-scholar-square ai-fw"></i> {{ author.employer }}</li>
+        <li><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
@@ -35,7 +35,7 @@
         <li><a href="{{ author.ssrn }}"><i class="ai ai-ssrn-square ai-fw"></i> SSRN</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
