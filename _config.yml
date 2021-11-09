@@ -245,6 +245,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      images: true
   # _talks
   - scope:
       path: ""
