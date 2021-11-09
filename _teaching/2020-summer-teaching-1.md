@@ -9,4 +9,5 @@ location: "Bonn, Germany"
 ---
 Summer Semester 2020
 ======
-I am helping to create and grade assignments for the Lecture Visual Computing in the Life Sciences. 
+I helped to create and grade assignments for the Lecture Visual Computing in the Life Sciences. 
+The 2020 cohort had 20 students who were instructed by me during the course.
