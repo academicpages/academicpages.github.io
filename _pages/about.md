@@ -12,19 +12,19 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
-* October 21st: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ submitted to PASA
-* October 8th: I did an interview on the highs and lows of my PhD with LIGO-India. Check it out on [Youtube](https://www.youtube.com/watch?v=A-3n3IklmM0) or the press release [here](https://www.ligo-india.in/blog36/)
-* October 8th: I am now officially Dr Nikhil Sarin!
-* July 18-23rd: This week I am attending the AMALDI meeting. I will be giving a talk on the multimessenger signatures of binary neutron star mergers.
-* July 15th: Today I submitted my PhD thesis titled _The observational signatures of nascent neutron stars_!! Hoping for a smooth review!
-* July 12-16th: I am attending the Annual ASA meeting this week (in hybrid format). Looking forward to listening to all the exciting science happening across Australia.
-* 4th June 2021: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ submitted to MNRAS.
-* 1st June 2021: _The evolution of binary neutron star post-merger remnants: a review_ accepted in General Relativity and Gravitation.
-* 24th May 2021: _CDF XT1: The off-axis afterglow of a neutron star merger at z = 2.23_ submitted to ApJL.
+* October 21st 2021: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ submitted to PASA. See it on [arXiv](https://arxiv.org/abs/2110.10892).
+* October 8th 2021: I did an interview on the highs and lows of my PhD with LIGO-India. Check it out on [Youtube](https://www.youtube.com/watch?v=A-3n3IklmM0) or the press release [here](https://www.ligo-india.in/blog36/)
+* October 8th 2021: I am now officially Dr Nikhil Sarin!
+* July 18-23rd 2021: This week I am attending the AMALDI meeting. I will be giving a talk on the multimessenger signatures of binary neutron star mergers.
+* July 15th 2021: Today I submitted my PhD thesis titled _The observational signatures of nascent neutron stars_!! Hoping for a smooth review!
+* July 12-16th 2021: I am attending the Annual ASA meeting this week (in hybrid format). Looking forward to listening to all the exciting science happening across Australia.
+* 4th June 2021: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ submitted to MNRAS. See it on [arXiv](https://arxiv.org/abs/2106.01556).
+* 1st June 2021: _The evolution of binary neutron star post-merger remnants: a review_ accepted in General Relativity and Gravitation. See it on [arXiv](https://arxiv.org/abs/2012.08172).
+* 24th May 2021: _CDF XT1: The off-axis afterglow of a neutron star merger at z = 2.23_ submitted to ApJL. See it on [arXiv](https://arxiv.org/abs/2105.10108).
 * 23-26 March 2021: I gave a virtual talk at the THESEUS conference. See slides [here](https://www.isdc.unige.ch/theseus/posters-slides.html)
 * February 2021: Pleased to finally announce that I have accepted a postdoctoral fellowship at NORDITA. Looking forward to moving to Sweden in November.
 * January 2021: I passed my pre-submission milestone for my PhD! This is the last milestone before I submit my thesis in mid July.
-* November 27th 2020: _The evolution of binary neutron star post-merger remnants: a review_ submitted to General Relativity and Gravitation.
+* November 27th 2020: _The evolution of binary neutron star post-merger remnants: a review_ submitted to General Relativity and Gravitation. See it on [arXiv](https://arxiv.org/abs/2012.08172).
 * November 23rd-27th 2020: This week I am attending the annual OzGrav retreat.  
 * 16th November 2020: Today I am giving an invited talk at Caltech.
 * September 2020: _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ accepted in MNRAS.
