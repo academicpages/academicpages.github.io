@@ -43,6 +43,7 @@ See you in Lloret de Mar, Spain
 [Jul. 2019] Paper accepted at IPIN, 2019.
 Work with Valentin Radu, "Calibrating Recurrent Neural Networks on Smartphone Inertial Sensors for Location Tracking".
 See you in Pisa, Italy
+[Invited Talk Video](https://www.youtube.com/watch?v=8UjP0NXLf_0)
 
 [Aug. 2018] Paper accepted at MobiUK 2018.
 Work with Valentin Radu, "End-to-End Machine Learning for Smartphone-based Indoor Localisation and Tracking using Recurrent Neural Networks".
