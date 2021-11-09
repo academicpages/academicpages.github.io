@@ -15,7 +15,7 @@ div.highlighter-rouge, figure.highlight {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 0.5em;
+    padding: 0.15em;
     background-color: $lighter-gray;
     #content: "\f121";
     font-family: "Font Awesome 5 Free" !important;
@@ -29,7 +29,7 @@ div.highlighter-rouge, figure.highlight {
     margin: 0;
     font-family: $monospace;
     font-size: $type-size-7;
-    line-height: 1.8;
+    line-height: 1.4;
   }
 }
 
