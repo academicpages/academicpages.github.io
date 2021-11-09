@@ -7,5 +7,6 @@ venue: "Universitat Oberta de Catalunya, Faculty of Computer Science, Multimedia
 date: 2021-12-01
 location: "Lloret de Mar, Spain"
 youtubeId: 8UjP0NXLf_0
-{% include youtubePlayer.html id=page.youtubeId %}
 ---
+
+{% include youtubePlayer.html id=page.youtubeId %}
