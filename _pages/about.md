@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p>Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</p>
+<p>Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</p>[(Watch Steve Jobs' 2005 Stanford Talk)](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 <p style="text-align: right;">-- Steve Jobs</p>
-[Steve Jobs' 2005 Stanford](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+
 
 <hr color="#FFFFFF" />
 
