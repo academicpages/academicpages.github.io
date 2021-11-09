@@ -83,7 +83,7 @@ author:
   name             : "Piotr Or\u0142owski"
   avatar           : "profile.png"
   bio              : "Assistant Professor of Finance"
-  location         : "Montr&eacuteal"
+  location         : # "Montr&eacuteal"
   employer         : "HEC Montr&eacuteal"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BNpynu0AAAAJ"
