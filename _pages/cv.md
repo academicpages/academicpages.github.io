@@ -46,7 +46,7 @@ Work experience
   
 Service
 ======
-* PC member: SIGIR2021, ADCS20201
+* PC member: SIGIR2021, ADCS2021
 * Publicity Chair of [CIKM2021](http://www.cikm2021.org/committee)
 
 
