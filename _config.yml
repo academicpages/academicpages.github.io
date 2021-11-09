@@ -10,8 +10,7 @@ locale                   : "en-US"
 title                    : "Nikhil Sarin"
 title_separator          : "-"
 name                     : &name "Nikhil Sarin"
-description              : &description "I am a PhD student at Monash University working on detecting gravitational waves from neutron star post-merger remnants as well as neutron stars and gamma-ray bursts.
-    I am supervised by Paul Lasky and Greg Ashton. Away from research, I am interested in soundtracks, climbing, and football."
+description              : &description "I am a Nordita Fellow at the Nordita Institute in Stockholm. Away from research, I am interested in soundtracks, climbing, and football."
 url                      : https://nikhil-sarin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikhil-sarin/nikhil-sarin.github.io.git"
@@ -83,11 +82,11 @@ analytics:
 author:
   name             : "Nikhil Sarin"
   avatar           : "photo.jpg"
-  bio              : "PhD student working on gamma-ray bursts and gravitational waves"
-  location         : "Monash University, Melbourne"
+  bio              : "Nordita Fellow working on various aspects of gravitational-wave multi-messenger astronomy"
+  location         : "Nordita Institute, Stockholm"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=iSXCI9YAAAAJ&hl=en"
-  email            : "nikhil.sarin@monash.edu"
+  email            : "nsarin.astro@gmail.com"
   uri              :
   bitbucket        :
   codepen          :

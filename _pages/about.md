@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Monash University working on gamma-ray bursts, neutron stars and gravitational waves with Paul Lasky. I also did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which I submitted in July 2021. Starting from November, I will be joining NORDITA and Stockholm University as a NORDITA Fellow.
+I am a NORDITA Fellow at the Nordita Institute and Stockholm University working on several aspects of gravitational-wave multimessenger astrophysics and neutron stars more broadly. I did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which was conferred in October 2021.
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
+* October 21st: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ submitted to PASA
 * October 8th: I did an interview on the highs and lows of my PhD with LIGO-India. Check it out on [Youtube](https://www.youtube.com/watch?v=A-3n3IklmM0) or the press release [here](https://www.ligo-india.in/blog36/)
 * October 8th: I am now officially Dr Nikhil Sarin!
 * July 18-23rd: This week I am attending the AMALDI meeting. I will be giving a talk on the multimessenger signatures of binary neutron star mergers.
 * July 15th: Today I submitted my PhD thesis titled _The observational signatures of nascent neutron stars_!! Hoping for a smooth review!
 * July 12-16th: I am attending the Annual ASA meeting this week (in hybrid format). Looking forward to listening to all the exciting science happening across Australia.
-* 4th June 2021: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ submitted to ApJL.
+* 4th June 2021: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ submitted to MNRAS.
 * 1st June 2021: _The evolution of binary neutron star post-merger remnants: a review_ accepted in General Relativity and Gravitation.
 * 24th May 2021: _CDF XT1: The off-axis afterglow of a neutron star merger at z = 2.23_ submitted to ApJL.
 * 23-26 March 2021: I gave a virtual talk at the THESEUS conference. See slides [here](https://www.isdc.unige.ch/theseus/posters-slides.html)

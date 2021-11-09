@@ -9,16 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-This page is sadly a bit out of date. [Click here for full up to date CV in PDF (updated June 10th 2021)](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
+This page is sadly a bit out of date. [Click here for full up to date CV in PDF (updated November 9th 2021)](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
 
 Education
 ======
 * Bachelor of Science. Major in Astrophysics and Geology, Honours (1st class) in Astrophysics, Monash University, 2013-2017
-* PhD in Astrophysics, Monash University, 2018-2021(expected)
+* PhD in Astrophysics, Monash University, 2018-2021
 
 Work experience
 ======
-* Monash University: Feb 2017 - Current
+* Monash University: July 2021 - November 2021
+  * Postdoctoral research fellow.
+* Monash University: Feb 2017 - January 2021
   * Teaching Assistant/Tutor
 
 Skills
