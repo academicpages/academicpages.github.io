@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Piotr Or\u0142owski's Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Piotr Or\u0142owski"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://piotrek-orlowski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "piotrek-orlowski/piotrek-orlowski.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Piotr Or\u0142owski"
-  avatar           : "profile.png"
+  avatar           : "bio-photo-piotr-orlowski.jpg"
   bio              : "Assistant Professor of Finance"
   location         : # "Montr&eacuteal"
   employer         : "HEC Montr&eacuteal"
