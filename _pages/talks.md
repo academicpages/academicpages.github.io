@@ -74,7 +74,7 @@ Sex Difference
 Spatial Cognition
 ======
 
-* <b>Cheng, Y.* </b>, He C. *, Spiers H., Coutrot A., Hornberger M., Hegarty M., Chrastil, E.R.. Self-Evaluations of Navigation Ability: A Big Data Approach. Psychonomic Society Annual Meeting, Virtual. Nov., 2021. *denotes equal authorship
+* <b>Cheng, Y.* </b>, He C. *, Spiers H., Coutrot A., Hornberger M., Hegarty M., Chrastil, E.R.. Self-Evaluations of Navigation Ability: A Big Data Approach. Psychonomic Society Annual Meeting, Virtual. Nov., 2021. *denotes equal authorship [[news](https://lilianyou.github.io/posts/2021/11/blog-post-1/)]
 
 * <b>Cheng, Y. </b>, Hegarty, M., Chrastil, E.R. Embodied Experience of the ‘Wrong’ Hand, Not World Knowledge, Supports the Mental Rotation of Hands, Psychonomic Society Annual Meeting, New Orleans, USA. Nov., 2018.
 

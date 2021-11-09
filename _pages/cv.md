@@ -88,7 +88,7 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
-* <b>Cheng, Y.* </b>, He C. *, Spiers H., Coutrot A., Hornberger M., Hegarty M., Chrastil, E.R.. Self-Evaluations of Navigation Ability: A Big Data Approach. Psychonomic Society Annual Meeting, Virtual. Nov., 2021. *denotes equal authorship
+* <b>Cheng, Y.* </b>, He C. *, Spiers H., Coutrot A., Hornberger M., Hegarty M., Chrastil, E.R.. Self-Evaluations of Navigation Ability: A Big Data Approach. Psychonomic Society Annual Meeting, Virtual. Nov., 2021. *denotes equal authorship [[news](https://lilianyou.github.io/posts/2021/11/blog-post-1/)]
 
 * <b>Cheng, Y.</b>, Chrastil, E.R.. Head Direction Signals During Navigation: Comparing Movement And Stationary Periods. Spatial Cognition, Virtual. Aug., 2021. [[news](https://lilianyou.github.io/posts/2021/8/blog-post-1/)]
 
