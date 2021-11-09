@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruben Talavera-Garcia"
 title_separator          : "-"
 name                     : &name "Ruben Talavera-Garcia"
-description              : &description "Postdoc Researcher"
+description              : &description "Researcher and assistant professor"
 url                      : https://rtalaverag.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rtalaverag/rtalaverag.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
