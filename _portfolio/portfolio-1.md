@@ -1,7 +1,5 @@
 ---
 title: "Awards"
-excerpt: "AWARDS WON"
-collection: portfolio
 ---
 1. STIBET 1 Scholarship for international students (July 2020-November 2020)
    Awarded by DAAD and the German foreign office to support my master's thesis
