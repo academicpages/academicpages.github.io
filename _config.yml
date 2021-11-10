@@ -85,7 +85,7 @@ author:
   bio              : "Assistant Professor of Finance"
   location         : # "Montr&eacuteal"
   # employer         : "HEC Montr&eacuteal"
-  employer         : "<a href='https://www.hec.ca'>HEC Montr&eacuteal</a>"
+  employer         : "<a href=\"https://www.hec.ca\" style=\"display:inline;\">HEC Montr&eacuteal</a>"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BNpynu0AAAAJ"
   email            : "piotr.orlowski@hec.ca"
