@@ -55,6 +55,10 @@ Work with Valentin Radu, "End-to-End Machine Learning for Smartphone-based Indoo
 See you in Cambridge, UK.
 [Picture](https://weixijia.github.io/talks/mobiuk2018-talk)
 
-For more info
+Services
 ======
-Please drop me an email if you are interested into my research!
+Reviewer: ACM Transactions on Embedded Computing Systems
+
+For More Info
+======
+Please drop me an email if you are interested about my research!
