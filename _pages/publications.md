@@ -7,6 +7,61 @@ author_profile: true
 
 # 2021
 
+# 2020
+
+# 2019
+
+# Rule 1
+
+<div class="row">
+  <div class="column"> something</div>
+  <div class="column"> else </div>
+</div> 
+
+
+**Explicit Disentanglement of Appearance and Perspective in Generative Models**
+
+Nicki Skafte Detlefsen, Søren Hauberg
+
+In Advances in Neural Information Processing Systems (Neurips) 2019
+
+
+<p align="center">
+  <img src="../images/2019_disentanglement.PNG" width="500" title="hover text">
+</p>
+
+[PDF](../files/2019_disentanglement.pdf)
+
+
+
+
+<table>
+<tr>
+<td>
+
+**Diffeomorphic Temporal Alignment Nets**
+
+Ron Shapira Weber, Matan Eyal, Nicki Skafte Detlefsen, Oren Shriki, Oren Freifeld
+
+In Advances in Neural Information Processing Systems (Neurips) 2019
+
+</td>
+<td>
+
+<p align="center">
+  <img src="../images/2019_dtan.PNG" width="500" title="hover text">
+</p>
+
+[PDF](../files/2019_dtan.pdf)
+
+</td>
+</tr>
+</table>
+
+
+
+# 2018
+
 <table>
 <tr>
 <td>
@@ -29,11 +84,3 @@ In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
 </td>
 </tr>
 </table>
-
-
-
-# 2020
-
-# 2019
-
-# 2018
