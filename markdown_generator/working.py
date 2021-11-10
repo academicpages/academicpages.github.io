@@ -114,7 +114,7 @@ for row, item in workings.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_workings/" + md_filename, 'w') as f:
+    with open("../_workings/" + md_filename, 'w', encoding="utf-8") as f:
         f.write(md)
 
 

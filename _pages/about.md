@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Piotr's Research Site"
+title: "Cześć!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
