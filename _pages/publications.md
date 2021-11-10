@@ -5,15 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<html>
-<head>
 <style>
 table, th, td {
   border: 0px solid black;
 }
 </style>
-</head>
-<body>
 
 ## 2021
 
