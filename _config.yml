@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Piotr Or\u0142owski's Personal Website"
+title                    : "Piotr Or\u0142owski's Personal Page"
 title_separator          : "-"
 name                     : &name "Piotr Or\u0142owski"
 description              : &description "personal description"
