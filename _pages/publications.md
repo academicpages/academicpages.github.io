@@ -5,22 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2021
+<html>
+<head>
+<style>
+table, th, td {
+  border: 0px solid black;
+}
+</style>
+</head>
+<body>
 
-# 2020
+## 2021
 
-# 2019
+## 2020
 
-<table border="0">
+## 2019
+
+<table>
 <tr>
-<td style="border: 0">
+<td>
 <b> Explicit Disentanglement of Appearance and Perspective in Generative Models </b>
 
 Nicki Skafte Detlefsen, Søren Hauberg
 
 In Advances in Neural Information Processing Systems (Neurips) 2019
 </td>
-<td style="border: 0">
+<td>
 <p align="center">
   <img src="../images/2019_disentanglement.PNG" width="500" title="hover text">
 </p>
@@ -28,16 +38,6 @@ In Advances in Neural Information Processing Systems (Neurips) 2019
 </td>
 </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
 
 
 <table>
@@ -65,7 +65,7 @@ In Advances in Neural Information Processing Systems (Neurips) 2019
 
 
 
-# 2018
+## 2018
 
 <table>
 <tr>
