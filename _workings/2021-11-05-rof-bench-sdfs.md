@@ -6,8 +6,8 @@ excerpt: 'We examine the pricing performance of out-of-sample pricing factors in
 date: 2021-11-05
 venue: 'Review of Finance'
 other_authors:
-	- coauthor: 'Valeri Sokolovski'
-	- coauthor: 'Erik Sverdrup'
+	- 'Valeri Sokolovski'
+	- 'Erik Sverdrup'
 ssrnurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945075'
 paperstatus:	 'under_review'
 citation: 'Orlowski, Piotr and Sokolovski, Valeri and Sverdrup, Erik, Benchmark Currency Stochastic Discount Factors (October 18, 2021). Available at SSRN: https://ssrn.com/abstract=3945075 or http://dx.doi.org/10.2139/ssrn.3945075'

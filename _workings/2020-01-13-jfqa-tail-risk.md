@@ -6,9 +6,9 @@ excerpt: 'This paper proposes a new measure of tail risk premium obtained from h
 date: 2020-01-13
 venue: 'Journal of Financial and Quantitative Analysis'
 other_authors:
-	- coauthor: 'Caio Almeida'
-	- coauthor: 'Kym Ardison'
-	- coauthor: 'Rene Garcia'
+	- 'Caio Almeida'
+	- 'Kym Ardison'
+	- 'Rene Garcia'
 ssrnurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3211954'
 paperstatus:	 'under_review'
 citation: 'Almeida, Caio and Ardison, Kym and Garcia, Rene and Orlowski, Piotr, High-Frequency Tail Risk Premium and Stock Return Predictability (January 10, 2020). Available at SSRN: https://ssrn.com/abstract=3211954 or http://dx.doi.org/10.2139/ssrn.3211954'

@@ -87,7 +87,7 @@ for row, item in workings.iterrows():
         loc_authors = item.authors.split(",")
         md += "\nother_authors:"
         for co in loc_authors:
-            md += "\n\t- coauthor: '" + co + "'"
+            md += "\n\t- '" + co + "'"
 
     
     if len(str(item.paper_url)) > 5:
