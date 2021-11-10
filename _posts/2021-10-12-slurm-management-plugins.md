@@ -10,7 +10,7 @@ tags:
 #   - edge case
 ---
 
-The following have to be set in `slurm.conf` in order to manage the queue with memory limits and CPU limits:
+The following have to be set in `/etc/slurm-llnl/slurm.conf` in order to manage the queue with memory limits and CPU limits:
 <pre>
 MaxMemPerNode=48500
 SchedulerType=sched/backfill
@@ -32,3 +32,5 @@ Full compute node setup at the end of the file:
 NodeName=hpc-9000 CPUs=24 RealMemory=48500 Sockets=8 CoresPerSocket=3 ThreadsPerCore=1 State=UNKNOWN
 PartitionName=batch Nodes=hpc-9000 Default=YES MaxTime=INFINITE State=UP
 </pre>
+
+After making the changes run <code>scontrol reconfigure</code>.
