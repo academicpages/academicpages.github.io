@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 
-I'm a musician, anomaly detection and financial data miner, and philosophy and/or politics writer disguised as a Software Engineer. 
+I'm a musician, financial data miner, and philosophy and/or politics writer disguised as a Software Engineer. 
 
 More specifically:
 * I'm currently at Google, trying to not be evil and make the world's information accessible.
