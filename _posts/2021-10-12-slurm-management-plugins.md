@@ -26,7 +26,7 @@ SelectTypeParameters=CR_Core
 </pre>
 
 Full compute node setup at the end of the file:
-<pre>
+<pre word-wrap="break-word">
 # COMPUTE NODES
 # Threadripper 3960X
 NodeName=hpc-9000 CPUs=24 RealMemory=48500 Sockets=8 CoresPerSocket=3 ThreadsPerCore=1 State=UNKNOWN
