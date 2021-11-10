@@ -16,7 +16,7 @@ author_profile: false
 | Tu, Oct 26, 2021 | 3:00 - 4:00pm | Nate Bottman | An overview of the symplectic (A-infinity,2)-category, and progress toward a "cellular" version of its definition | [https://umn.zoom.us/j/92800984421](https://umn.zoom.us/j/92800984421)
 | Th, Oct 28, 2021 | 1:30pm - 2:30pm | Demetre Kazaras | If Ricci is bounded below, then mass is in control! |  [https://umn.zoom.us/j/97043232587](https://umn.zoom.us/j/97043232587)
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun | Initial perturbation of mean curvature flow | [https://umn.zoom.us/j/97043232587]( https://umn.zoom.us/j/97043232587)
-| Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  | Cobordism maps in embedded contact homology and Heegaard Floer homology |  
+| Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  | Cobordism maps in embedded contact homology and Heegaard Floer homology |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Tu, Nov 16, 2021 | 1:30pm - 2:30pm | Mohammad Farajzadeh Tehrani | |
 | Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin decomposition of Floer trajectories and adiabatic gluing |  
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
