@@ -188,7 +188,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  working:
+  workings:
     output: true
     permalink: /:collection/:path/
 
