@@ -11,26 +11,31 @@ author_profile: true
 
 # 2019
 
-# Rule 1
-
-<div class="row">
-  <div class="column"> something</div>
-  <div class="column"> else </div>
-</div> 
-
-
-**Explicit Disentanglement of Appearance and Perspective in Generative Models**
+<table border="0">
+<tr>
+<td style="border: 0">
+<b> Explicit Disentanglement of Appearance and Perspective in Generative Models </b>
 
 Nicki Skafte Detlefsen, Søren Hauberg
 
 In Advances in Neural Information Processing Systems (Neurips) 2019
-
-
+</td>
+<td style="border: 0">
 <p align="center">
   <img src="../images/2019_disentanglement.PNG" width="500" title="hover text">
 </p>
+ <a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_disentanglement.pdf">PDF</a> 
+</td>
+</tr>
+</table>
 
-[PDF](../files/2019_disentanglement.pdf)
+
+
+
+
+
+
+
 
 
 
