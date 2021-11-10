@@ -85,9 +85,7 @@ for row, item in workings.iterrows():
 
     if len(str(item.authors)) > 0:
         loc_authors = item.authors.split(",")
-        md += "\nother_authors:"
-        for co in loc_authors:
-            md += "\n\t- '" + co + "'"
+        md += "\nother_authors: '" + ", ".join(loc_authors) + "'"
 
     
     if len(str(item.paper_url)) > 5:

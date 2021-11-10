@@ -40,11 +40,8 @@
 
         {% elsif post.collection == 'workings' and post.ssrnurl %}
           <p>Last updated on {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }} | <a href="{{ post.ssrnurl }}" target="blank">ssrn link</a></p>
-        <!-- coauthors: -->
-        {% elsif post.collection == 'workings' and post.other_authors %}
-          {% assign coauthors = '' %}
-          <p>With {% for coauth in post.other_authors %} {% assign coauthors = coauthors | append: coauth %} {{% coauthors %}}, Last updated on {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }} | <a href="{{ post.ssrnurl }}" target="blank">ssrn link</a></p>
-          }
+        {% elsif post.collection == 'workings' and post.ssrnurl and post.other_authors %}
+          <p>With {{ post.other_authors }}, last updated on {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }} | <a href="{{ post.ssrnurl }}" target="blank">ssrn link</a></p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
