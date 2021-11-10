@@ -36,6 +36,19 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+
+        <!-- Display of working paper depending on status -->
+        {% elsif page.collection == 'workings' %}
+          {% if page.paperstatus == 'not_submitted' %}
+          <!-- <p class="page__content"></p> -->
+          {% elsif page.paperstatus == 'under_review' %}
+          <!-- <p class="page__content"></p> -->
+          {% elsif page.paperstatus == 'revise_resubmit' %}
+          <p class="page__content">Revise and Resubmit at at <i>{{ page.venue }}</i></p>
+          {% elsif page.paperstatus == 'accepted' %}
+          <p class="page__content">Accepted for publication at <i>{{ page.venue }}</i></p>
+          {% endif %}
+
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
