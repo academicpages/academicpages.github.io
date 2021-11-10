@@ -38,7 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% elsif post.collection == 'workings' and post.ssrnurl %}
+        {% if post.collection == 'workings' and post.ssrnurl %}
           <p>Last updated on {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }} | <a href="{{ post.ssrnurl }}" target="blank">ssrn link</a></p>
         {% elsif post.collection == 'workings' and post.ssrnurl and post.other_authors %}
           <p>With {{ post.other_authors }}, last updated on {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }} | <a href="{{ post.ssrnurl }}" target="blank">ssrn link</a></p>
