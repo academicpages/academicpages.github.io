@@ -44,7 +44,7 @@ layout: default
           {% elsif page.paperstatus == 'under_review' %}
           <!-- <p class="page__content"></p> -->
           {% elsif page.paperstatus == 'revise_resubmit' %}
-          <p class="page__content">Revise and Resubmit at at <i>{{ page.venue }}</i></p>
+          <p class="page__content">Revise and Resubmit at <i>{{ page.venue }}</i></p>
           {% elsif page.paperstatus == 'accepted' %}
           <p class="page__content">Accepted for publication at <i>{{ page.venue }}</i></p>
           {% endif %}
@@ -57,10 +57,11 @@ layout: default
         
              
         {% if page.citation and page.paperurl and page.ssrnurl %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p>To cite: {{ page.citation }} </p>
           <p><a href="{{ page.paperurl }}">journal link</a> | <a href="{{ page.ssrnurl }}">ssrn link</a></p>
-        {% elsif page.citation %}
+        {% elsif page.citation and page.ssrnurl %}
           <p>Recommended citation: {{ page.citation }} </p>
+          <p><a href="{{ page.ssrnurl }}">ssrn link</a></p>
         {% endif %}
     
         </header>
