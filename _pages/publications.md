@@ -10,7 +10,7 @@ author_profile: true
 ## Working papers
 
 {% for post in site.workings reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-working.html %}
 {% endfor %}
 
 ## Published papers

@@ -82,6 +82,13 @@ for row, item in workings.iterrows():
     md += "\ndate: " + str(item.pub_date) 
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
+
+    if len(str(item.authors)) > 0:
+        loc_authors = item.authors.split(",")
+        md += "\nother_authors:"
+        for co in loc_authors:
+            md += "\n\t- coauthor: '" + co + "'"
+
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
