@@ -1,13 +1,11 @@
 ---
-layout: single
-title:  "SLURM queue management"
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
-  - slurm
-  - ubuntu
-# tags:
-#   - edge case
+title: 'Blog Post number 1'
+date: 2012-08-14
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 The following have to be set in `slurm.conf` in order to manage the queue with memory limits and CPU limits:

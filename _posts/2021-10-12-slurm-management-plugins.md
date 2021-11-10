@@ -1,9 +1,9 @@
 ---
-layout: single
+# layout: single
 title:  "SLURM queue management"
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
+date: "2021-10-12"
+permalink: /posts/2021/10/slurm-queue
+tags: 
   - slurm
   - ubuntu
 # tags:
