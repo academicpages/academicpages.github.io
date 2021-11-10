@@ -41,7 +41,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.paperurl and post.ssrnurl %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} | <a href="{{ post.paperurl }}">journal link</a> | <a href="{{ post.ssrnurl }}">ssrn link</a> </p>
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} | <a href="{{ post.paperurl }}" target=”_blank”>journal link</a> | <a href="{{ post.ssrnurl }}" target=”_blank”>ssrn link</a> </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'working' %}
