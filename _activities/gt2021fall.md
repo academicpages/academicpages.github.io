@@ -16,7 +16,7 @@ author_profile: false
 | Tu, Oct 26, 2021 | 3:00 - 4:00pm | Nate Bottman | An overview of the symplectic (A-infinity,2)-category, and progress toward a "cellular" version of its definition | [https://umn.zoom.us/j/92800984421](https://umn.zoom.us/j/92800984421)
 | Th, Oct 28, 2021 | 1:30pm - 2:30pm | Demetre Kazaras | If Ricci is bounded below, then mass is in control! |  [https://umn.zoom.us/j/97043232587](https://umn.zoom.us/j/97043232587)
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun | Initial perturbation of mean curvature flow | [https://umn.zoom.us/j/97043232587]( https://umn.zoom.us/j/97043232587)
-| Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  |  |  
+| Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  | Cobordism maps in embedded contact homology and Heegaard Floer homology |  
 | Tu, Nov 16, 2021 | 1:30pm - 2:30pm | Mohammad Farajzadeh Tehrani | |
 | Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin decomposition of Floer trajectories and adiabatic gluing |  
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
@@ -39,6 +39,9 @@ author_profile: false
 
 * Ao Sun
   * We show that after a perturbation on the initial data of mean curvature flow, the perturbed flow can avoid certain non-generic singularities. This contributes to the program of dynamical approach to generic mean curvature flow initiated by Colding and Minicozzi. The key is to prove that a positive perturbation on initial data would drift to the first eigenfunction direction after a long time. This result can be viewed as a global unstable manifold theorem in the most unstable direction for a nonlinear heat equation. This is joint work with Jinxin Xue (Tsinghua University).
+
+* Jacob Rooney
+  * An outstanding problem in ECH has been a construction of cobordism maps via a count of holomorphic curves. We give a construction for contact manifolds with no elliptic Reeb orbits up to a certain action and an adaptation for Legendrian surgery cobordisms in Colin-Ghiggini-Honda's hat version of ECH, where a certain type of elliptic orbit appears. We also explain why the latter map agrees with the cobordism map on the hat version of Heegaard Floer homology and give some applications.
 
 * Ke Zhu
   * We study the adiabatic degeneration of Floer trajectories to "disk-flow-disk" configurations and the recovering gluing, where the gradient flow part has positive length. Unlike the standard gluing problem, we study the problem of gluing two objects of different dimensions: 1-dimensional gradient segments and 2-dimensional (perturbed) J-holomorphic maps. Similar configurations also appear in the Morse-Bott approach for symplectic homology and contact homology. 
