@@ -11,5 +11,3 @@ redirect_from:
 I do machine learning for fun.
 
 # News and updates
-
-* 09-11-2021: Personal webpage online
