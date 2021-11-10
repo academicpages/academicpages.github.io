@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cześć!"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+<span style="font-size:2em"> This is the personal page of Piotr Orłowski. </span>
