@@ -31,7 +31,7 @@ Internship, Android team, Shenzhen Danale Technology Co., Ltd, Autumn 2019
 Code: The Hidden Language of Computer Hardware and Software  
 Computer Systems: A Programmer's Perspective  
 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  
-The Model Thinker: What You Need to Know to Make Data Work for You
+The Model Thinker: What You Need to Know to Make Data Work for You  
 Fortress Besieged
 
 ## Shepherding Research
