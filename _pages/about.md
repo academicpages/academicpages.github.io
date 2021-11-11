@@ -17,7 +17,6 @@ Before Carnegie Mellon, I worked as an industrial designer in the industry for o
 
 My current projects include:
 ------
-* **Developing a Taxonomy of AI Capabilities:** Technical vocabulary around AI technologies are often inaccessible for non-experts. How do we translate AI capabilities in human terms to engage a broader set of stakeholders in AI development processes? (w/ [Jodi Forlizzi](https://jodiforlizzi.com/)) 
-* **Situating AI in the Intensive Care Unit:** With a diverse team including clinicians, HCI researchers, designers, and data scientists, we set out to explore opportunities for AI in the ICU. How do we go about envisioning many ideas that are clinically relevant, technically feasible, and financially viable? (w/ many researchers from the University of Pittsburgh)
-* **Scaffolding Fair ML Practice:** How can we support cross-functional AI teams in tackling issues around ML fairness? (w/ [Ken Holstein](https://kenholstein.myportfolio.com/) and [Micheal Madaio](http://michaelmadaio.com/))
-
+* **Developing a Taxonomy of AI Capabilities:** Technical vocabulary around AI technologies are often inaccessible for non-experts. How do we translate AI capabilities in human terms to engage a broader set of stakeholders in AI problem setting and ideation? (w/ [Jodi Forlizzi](https://jodiforlizzi.com/)) 
+* **Envisioning Opportunities for AI in the Intensive Care Unit:** With a diverse team including clinicians, HCI researchers, designers, and data scientists, we set out to explore opportunities for AI in the ICU. How do we go about envisioning and prototyping ideas that are clinically relevant, technically feasible, and financially viable? (w/ many researchers from the University of Pittsburgh)
+* **Scaffolding Fair ML Practice:** How can we support cross-functional collaboration in AI teams around ML fairness efforts? (w/ [Ken Holstein](https://kenholstein.myportfolio.com/) and [Micheal Madaio](http://michaelmadaio.com/))
