@@ -37,7 +37,7 @@ gdf.plot(figsize=(8,8)), plt.axis('off');
 
 
     
-![png](/images/sdc_buildings_blue.png)
+![png](/images/dc_buildings_blue.png)
     
 
 
