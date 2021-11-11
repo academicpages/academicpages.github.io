@@ -14,7 +14,8 @@ My research focuses on supporting cross-functional AI teams in designing human-A
 
 Before Carnegie Mellon, I worked as an industrial designer in the industry for over 7 years, designing products ranging from medical to consumer electronics, assistive robots, and transportation. I received my master's and bachelor's in Industrial Design from [METU](https://www.metu.edu.tr/) in Turkey.
 
-[CV](https://nuryildirim.github.io/files/paper1.pdf)
+[Download my CV](https://nuryildirim.github.io/files/paper1.pdf){:target="_blank"}
+[Check my publications on Google Scholar](https://scholar.google.com/citations?user=1KjMCfQAAAAJ&hl=en){:target="_blank"}
 
 
 My current projects include:
