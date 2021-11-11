@@ -84,12 +84,12 @@ author:
   avatar           : "ny-profile.jpeg"
   bio              : "yildirim [at] cmu.edu"
   location         : "Pittsburgh, PA"
-  employer         : "paper1.pdf"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1KjMCfQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://uryildirim.github.io/files/paper1.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "https://uryildirim.github.io/files/paper1.pdf"
 
 
 # Reading Files
