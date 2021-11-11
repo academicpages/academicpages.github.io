@@ -9,14 +9,14 @@ title: Research
 [Draft coming soon, pending disclosure review by the tax authority]
 
 <table border="0" style="width:100%; margin-bottom: 10px">
-    <td style="width:40%;"><img src="/images/collection-agents.png"></td>
+    <td style="width:40%;"><img src="https://pablogarriga.github.io/images/collection-agents.png"></td>
     <td><p align="justify">We study the implications of delegating tax collection duties on firms. We exploit a major reform to the withholding regime of the Turnover Tax in the City of Buenos Aires, where a substantial number of large firms were appointed to act as Collection Agents (CAs) based on a predetermined revenue threshold. Combining rich firm-to-firm administrative data along with quasi-experimental methods, we show that: (i) firms newly appointed as CAs do not experience any effects on their reported business activity; (ii) firms with pre-existing commercial ties to CAs increase their self-reported income; (iii) the government collects more tax revenue. Additionally, the analysis of a subsequent reform that reduced third-party collection of the tax shows firms respond symmetrically by reducing their reported income. These results are in line with other papers suggesting that reforms to the tax administration can have considerable impact when it comes to raising revenue and building tax capacity. In particular, our findings can provide guidance to other middle- and low-income countries on ways to determine who the right tax collector is as a function of the level of development.</p></td>
 </table>
 
-**[Tax Filings vs Tax Withholdings: Behavioral Responses from Firms and Tax Preparers]("/files/tax-preparers.pdf")** (with Darío Tortarolo)
+**[Tax Filings vs Tax Withholdings: Behavioral Responses from Firms and Tax Preparers](https://pablogarriga.github.io/files/tax-preparers.pdf)** (with Darío Tortarolo)
 
 <table border="0" style="width:100%; margin-bottom: 10px">
-    <td style="width:40%;"><img src="/images/bunching.png"></td>
+    <td style="width:40%;"><img src="https://pablogarriga.github.io/images/images/bunching.png"></td>
     <td><p align="justify">We study the relationship between tax filings and tax withholdings for the Argentine Turnover Tax on businesses and we shed light on the role of tax preparers in that relationship. Firms file a tax return every month through a centralized online platform and can (i) claim a refund if the amount withheld in advance (third-party reported by suppliers and clients) exceeds the tax liability, or (ii) remit the difference if the tax liability is higher than withholdings. Using rich administrative data we first document sharp bunching exactly at the point where tax liabilities (reported by the firm) equal tax withholdings (third-party reported) and argue that this pattern is due to strategic under-reporting of income so that the tax balance matches the withholding shown by the online platform. Second, by linking firms to tax preparers through shared contact information we study the role of accountants on this behavior. We analyze how correlated are the behaviors of firms who share the same accountant (network). We find a positive relationship between accountants and the bunching behavior observed on their clients. We also exploit information on past audits and show that, within a network, non-audited firms respond to their peer's audit, suggesting that tax preparers might act as diffusers of information across firms.</p></td>
 </table>
 
@@ -33,4 +33,4 @@ title: Research
 
 #### Pre-doctoral
 
-“[Exports of Argentina and Brazil under the Generalized System of Preferences]("files/tax-preparers.pdf")” (with Facundo Albornoz and Irene Brambilla). *Ensayos Económicos*, 1(74), pp. 27-55 (2016).
+“[Exports of Argentina and Brazil under the Generalized System of Preferences](https://pablogarriga.github.io/files/tax-preparers.pdf)” (with Facundo Albornoz and Irene Brambilla). *Ensayos Económicos*, 1(74), pp. 27-55 (2016).
