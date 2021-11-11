@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 # About Me
-I am an incoming doctoral student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) starting fall 2021. Previously, I was a Research Fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I have also worked as a graduate student in the [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science) at [Aalto Univerity (Finland)](https://www.aalto.fi/en) from September 2018 to August 2019. Prior to that, I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) from [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
+I am a 1st year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) advised by Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and Prof. [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
+
+I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) from [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
 
 I am broadly interested in the theoretical aspects of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization, and theory of deep learning. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<br>
@@ -45,7 +47,7 @@ in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 [[ArXiv 2020](https://arxiv.org/abs/2008.09660)]
 
 # Talks
-<b> Teaching via Best-case Counterexamples (UCSD AI Seminar) </b>
+Teaching via Best-case Counterexamples (UCSD AI Seminar)
 
   
 # Some notes
