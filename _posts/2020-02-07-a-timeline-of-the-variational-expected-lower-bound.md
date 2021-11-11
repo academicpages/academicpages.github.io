@@ -1,5 +1,5 @@
 ---
-title: An ELBO Timeline
+title: An ELBO timeline
 mathjax: true
 comments: true
 ---

@@ -1,4 +1,8 @@
-
+---
+title:  Density estimation for geospatial imagery using autoregressive neural models
+comments: true
+mathjax: true
+---
 Bayesian machine learning is all about learning a good representation of very complicated datasets, leveraging cleverly structured models and effective parameter estimation techniques to create a high-dimensional probability distribution approximating the observed data. A key advantage of posing computer vision research under the umbrella of Bayesian inference is that some tasks become really straightforward with the right choice of model.
 
 In this notebook, I show how to use **PixelCNN**, a deep generative model of structured data, to perform density estimation on geospatial topographic imagery derived from LiDAR maps of the Earth's surface. I also highlight how easy this is within TensorFlow Probability, a new open-source project extending the capabilities of Tensorflow into **probabilistic programming**, i.e. the representation of probability distributions with computer programs in a way that treats random variables as first-class citizens.

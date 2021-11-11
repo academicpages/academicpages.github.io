@@ -1,5 +1,5 @@
 ---
-title: Posterior Image Inpainting, Part I -  Review of Recent Work
+title:  A review of recent work for posterior image inpainting
 comments: true
 mathjax: true
 ---
