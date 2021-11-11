@@ -23,6 +23,6 @@ Code related to the experiments of our 2018 paper on *Deep Diffiomorphic Transfo
 
 ## torchplot
 
-Link: https://github.com/MachineLearningLifeScience/torchplot
+Link: <https://github.com/MachineLearningLifeScience/torchplot>
 
 Have you ever encountered the problem of forgetting to call `.cpu().detach().numpy()` when you are trying to plot something from `pytorch` in `matplotlib.pyplot`? Then `torchplot` is something for you. It is a simple plug-in replacement for your standard `matplotlib.pyplot` replacement that makes sure to transfer, detach and convert any `torch.tensor` before calling the actual plot function.
