@@ -10,14 +10,14 @@ redirect_from:
 
 I'm a fourth year PhD student at the Human-Computer Interaction Institute at Carnegie Mellon University, where I'm advised by [John Zimmerman](https://www.hcii.cmu.edu/people/john-zimmerman) and [Jim McCann](http://www.cs.cmu.edu/~jmccann/).
 
-My research focuses on supporting AI teams in designing human-AI interactions. I build tools, methods, and boundary objects that help AI teams in (1) envisioning AI innovations collectively before committing to what AI system to build, and (2) facilitating collaboration and participation across disciplines and stakeholders in AI development processes.
+My research focuses on supporting cross-functional AI teams in designing human-AI interactions. I build tools, methods, and boundary objects to help AI teams in (1) envisioning AI innovations collectively before deciding what AI system to build, and (2) facilitating collaboration and participation across disciplines and stakeholders in AI development processes. I draw on approaches from design research, HCI, and service design.
 
-Before Carnegie Mellon, I worked as an industrial designer in the industry for over 7 years, designing products ranging from medical to consumer electronics, assistive robots, and transportation. My work supported the R&D processes of clients across scales, resulting in 25+ shipped products, several patents and design awards. I received my master's and bachelor's in Industrial Design from [METU](https://www.metu.edu.tr/) in Ankara, Turkey.
+Before Carnegie Mellon, I worked as an industrial designer in the industry for over 7 years, designing products ranging from medical to consumer electronics, assistive robots, and transportation. I received my master's and bachelor's in Industrial Design from [METU](https://www.metu.edu.tr/) in Ankara, Turkey.
 
 
 My current projects include:
 ------
-* List item one:
-* List item one:
-* List item one:
+* Developing a Taxonomy of AI Capabilities: Technical vocabulary around AI technologies are often inaccessible for non-experts. How do we translate AI capabilities in human terms to engage a broader set of stakeholders in AI development processes? (in collaboration w/ [Jodi Forlizzi](https://jodiforlizzi.com/)) 
+* Situating AI in the Intensive Care Unit: With a diverse team including clinicians, HCI researchers, designers, and data scientists, we set out to explore opportunities for AI in the ICU. How do we go about envisioning many ideas that are clinically relevant, technically feasible, and financially viable? (in collaboration w/ many researchers at University Pittsburgh)
+* Scaffolding Fair ML Practice: How can we support cross-functional AI teams in tackling issues around ML fairness? (in collaboration w/ [Ken Holstein](https://kenholstein.myportfolio.com/) and [Micheal Madaio](http://michaelmadaio.com/))
 
