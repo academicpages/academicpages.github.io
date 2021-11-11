@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Nur Yildirim"
   avatar           : "ny-profile.jpeg"
-  bio              : "yildirim [at] cmu.edu"
+  bio              : "yildirim [at] cmu.edu, download my CV"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1KjMCfQAAAAJ&hl=en"
-  email            :
+  email            : "yildirim [at] cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://uryildirim.github.io/files/paper1.pdf"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://uryildirim.github.io/files/paper1.pdf"
 
 
 # Reading Files
