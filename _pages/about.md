@@ -44,6 +44,10 @@ in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 **Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br> 
 [[ArXiv 2020](https://arxiv.org/abs/2008.09660)]
 
+# Talks
+<b> Teaching via Best-case Counterexamples (UCSD AI Seminar) </b>
+
+  
 # Some notes
 <b> [Improved Certified Adversarial Lower Bound Using Adaptive Relaxations](https://drive.google.com/file/d/1lZmiU3NnEhWHOtVuGhURxeFS4DWaYP_n/view?usp=sharing) </b> <br>
 <i>Ongoing project on adversarial deep learning.</i>
