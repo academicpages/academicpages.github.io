@@ -21,7 +21,6 @@ title: Research
 </table> -->
 
 ---
-
 **[Tax Filings vs Tax Withholdings: Behavioral Responses from Firms and Tax Preparers](https://pablogarriga.github.io/files/tax-preparers.pdf)**  
 (with Darío Tortarolo)  
 <p align="justify">We study the relationship between tax filings and tax withholdings for the Argentine Turnover Tax on businesses and we shed light on the role of tax preparers in that relationship. Firms file a tax return every month through a centralized online platform and can (i) claim a refund if the amount withheld in advance (third-party reported by suppliers and clients) exceeds the tax liability, or (ii) remit the difference if the tax liability is higher than withholdings. Using rich administrative data we first document sharp bunching exactly at the point where tax liabilities (reported by the firm) equal tax withholdings (third-party reported) and argue that this pattern is due to strategic under-reporting of income so that the tax balance matches the withholding shown by the online platform. Second, by linking firms to tax preparers through shared contact information we study the role of accountants on this behavior. We analyze how correlated are the behaviors of firms who share the same accountant (network). We find a positive relationship between accountants and the bunching behavior observed on their clients. We also exploit information on past audits and show that, within a network, non-audited firms respond to their peer's audit, suggesting that tax preparers might act as diffusers of information across firms.</p>
@@ -31,29 +30,20 @@ title: Research
     <td><p align="justify">We study the relationship between tax filings and tax withholdings for the Argentine Turnover Tax on businesses and we shed light on the role of tax preparers in that relationship. Firms file a tax return every month through a centralized online platform and can (i) claim a refund if the amount withheld in advance (third-party reported by suppliers and clients) exceeds the tax liability, or (ii) remit the difference if the tax liability is higher than withholdings. Using rich administrative data we first document sharp bunching exactly at the point where tax liabilities (reported by the firm) equal tax withholdings (third-party reported) and argue that this pattern is due to strategic under-reporting of income so that the tax balance matches the withholding shown by the online platform. Second, by linking firms to tax preparers through shared contact information we study the role of accountants on this behavior. We analyze how correlated are the behaviors of firms who share the same accountant (network). We find a positive relationship between accountants and the bunching behavior observed on their clients. We also exploit information on past audits and show that, within a network, non-audited firms respond to their peer's audit, suggesting that tax preparers might act as diffusers of information across firms.</p></td>
 </table> -->
 
----
-
 ### Work in Progress
 
 ---
-
 **Firm Dynamics Along the Development Path**  
 (with Pierre Bachas and Anne Brockmeyer)  
 <p align="justify">We study firm-growth dynamics in developing countries and its macroeconomic implications. This area of study has been hampered by data limitations since most countries have only occasional manufacturing surveys or censuses at best. As a consequence, while the literature has documented the existence of market distortions leading to limited firm growth, this evidence has been restricted to a small set of countries that have available data. In turn, this has also limited the possibility of gaining insights at an aggregate level. In this project, we harmonize and combine administrative tax data for multiple countries. This allows us to trace out within-country trends as well as gaining knowledge of firm dynamics along different stages of development.</p>
 
 ---
-
 **Assessing the role of tax preparers in tax compliance: direct and network effects**  
 (with Darío Tortarolo)  
 [Paused due to COVID-19]  
 <p align="justify">Two understudied areas in Public Finance are the role of tax professionals and the role of networks in tax administration and enforcement (Slemrod, 2018). In this project I seek to answer two questions: First, whether it is more cost-effective to communicate tax preparers or taxpayers to improve tax compliance; Second, whether there are spillover effects from targeted to non-targeted taxpayers that form part of the same network (those sharing the same accountant). To that end, I run a large scale randomized communication experiment where I send deterrence emails to taxpayers and/or accountants (about 100,000 taxpayers in the treatment group and 900,000 in the control group).</p>
 
----
-
 ### Pre-doctoral
 
 ---
-
-["Exports of Argentina and Brazil under the Generalized System of Preferences"](https://pablogarriga.github.io/files/sgp.pdf) (with Facundo Albornoz and Irene Brambilla). *Ensayos Económicos*, 1(74), pp. 27-55 (2016).
-
----
+["Exports of Argentina and Brazil under the Generalized System of Preferences"](https://pablogarriga.github.io/files/sgp.pdf) (with Facundo Albornoz and Irene Brambilla). *Ensayos Económicos*, 1(74), pp. 27-55 (2016).  
