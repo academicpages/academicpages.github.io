@@ -135,7 +135,7 @@ In Advances in Neural Information Processing Systems (Neurips) 2019
 
 <table>
 <tr>
-<td width=70%>
+<td style="width:70%">
 <b> Deep Diffeomorphic Transformer Networks </b>
 <br>
 Nicki Skafte Detlefsen, Søren Hauberg, Oren Freifeld
@@ -144,7 +144,7 @@ In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
 <br>
 <a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2018_ddtn.pdf">PDF</a>
 </td>
-<td width=30%>
+<td style="width:30%">
 <p align="center">
 <img src="../images/2018_ddtn.PNG" width="300" title="hover text">
 </p>
