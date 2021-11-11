@@ -40,37 +40,17 @@ Work experience
   
 Skills
 ======
-* Programming   
-  - Java 
-  - Python
-  - C++
-  - MATLAB
-  - R
-  - HTML/CSS
-* Deployment skills
-  - Docker
-  - SLURM
-  - DataLad
-  - Git integration
-* Frameworks
-  - Maven
-  - RestfulAPI
-* Libraries
-  - PyTorch
-  - Tensorflow
-  - Nipype
-  - Nilearn
-  - DiPy
-* Software Packages
-  - mRtrix3
-  - FSL
-  - Psychopy
-  - SPM
-  - FreeSurfer
-* Data Management/Warehousing
-  - Datalad
-  - rclone
-  - ownCloud
+
+
+| Programming   |  Deployment  |   Libraries   |  Software Packages  | Data Management/Warehousing |
+| ------------  | ------------ | ------------- | ------------------- | ----------------------------|
+| Java          |  Docker      |   PyTorch     |     mRtrix3         |    DataLad                  |
+| Python        |  SLURM       |   Tensorflow  |     FSL             |    rclone                   |
+| C++           |  Data Lad    |   Nipype      |     Psychopy        |    ownCloud                 |
+| MATLAB        |  Git         |   Dipy        |     SPM             |                             |
+| R             |              |               |                     |                             |
+| HTML/CSS      |              |               |                     |                             |
+
 
 Service and leadership
 ======
