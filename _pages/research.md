@@ -35,4 +35,4 @@ title: Research
 
 #### Pre-doctoral
 
-["Exports of Argentina and Brazil under the Generalized System of Preferences"](https://pablogarriga.github.io/files/tax-preparers.pdf) (with Facundo Albornoz and Irene Brambilla). *Ensayos Económicos*, 1(74), pp. 27-55 (2016).
+["Exports of Argentina and Brazil under the Generalized System of Preferences"](https://pablogarriga.github.io/files/sgp.pdf) (with Facundo Albornoz and Irene Brambilla). *Ensayos Económicos*, 1(74), pp. 27-55 (2016).
