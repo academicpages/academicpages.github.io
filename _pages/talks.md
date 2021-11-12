@@ -17,6 +17,8 @@ Human Navigation
 Direction
 -----------
 
+* <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Society for Neuroscience, Virtual. Nov., 2021. [[news](https://lilianyou.github.io/posts/2021/11/blog-post-2/)]
+
 * <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Nov., 2021.
 
 * <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment:  A Machine Learning Approach, UCI Cognitive Sciences Colloquium Flash Talk.  Oct., 2021.
@@ -65,7 +67,7 @@ Distance
 
 Sex Difference
 ------
-* <b>Cheng, Y. </b>, Chrastil, E.R.. Sex Differences in Head Direction Signals When Learning a Complex Environment. Society for Neuroscience, Virtual. Nov., 2021.
+* <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Society for Neuroscience, Virtual. Nov., 2021. [[news](https://lilianyou.github.io/posts/2021/11/blog-post-2/)]
 
 * <b>Cheng, Y. </b>. What Are the Sex Differences in Navigation Training? Using Sea Hero Quest Dataset, UCSB Crossroads Symposium, Santa Barbara. Nov., 2019.
 
