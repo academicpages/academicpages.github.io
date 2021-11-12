@@ -87,7 +87,7 @@ setup_twitter_oauth(consumer_key, consumer_secret, access_key, access_secret)
 # let use searchTwitter function to search covid19 
 # here is the documentation of this function <https://www.rdocumentation.org/packages/twitteR/versions/1.1.9/topics/searchTwitter>
 # we store the data as covid_twitter
-twitter <- searchTwitter("#ElectionResults2020",n=1000,lang = "en")
+twitter <- searchTwitter("#ChinaVirus",n=1000,lang = "en")
 # we convert is to a data frame using twListToDF
 twitter_df <- twListToDF(twitter)
 # let us see the data
@@ -111,26 +111,25 @@ Let us say, we need to slightly clean our messy tweets. We need to remove the ur
 
 ```{r}
 # if you can use ?mutate() to see the details of the function, basically it creates a new variable for you
+# you may also want to get rid of all other messy stuff except numbers and words
 data <- twitter_df %>% 
+  mutate(text=str_replace_all(text,"[^a-zA-Z0-9#@]"," ") %>% 
+           str_squish) %>% 
   mutate(
     uid=row_number(),
     text=str_replace_all(tolower(text),"(https)|(http).*? ","") %>% 
            str_squish
     )
 
-# you may also want to get rid of all other messy stuff except numbers and words
-data <- data %>% 
-  mutate(text=str_replace_all(text,"[^a-z0-9#@]"," ") %>% 
-           str_squish)
 
 ```
 
 ```{r}
 # Show a table for visual check
-knitr::kable(data[1:3,],cap="Twitter Data on #ElectionResults2020")
+knitr::kable(data[1:3,],cap="Twitter Data on #ChinaVirus")
 ```
 
-### Using Tidytest package to process some variables
+### Using Tidytext package to process some variables
 
 There are a variety of processing text packages. Today we briefly introduce tidytext package. You can check here<https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html>; This tidytext toturial heavily relies on Julia Silge and David Robinson's work. You can also check their book Text Mining with R here <https://www.tidytextmining.com/>
 
@@ -153,7 +152,7 @@ tidy_data <- data %>%
   mutate(word=SnowballC::wordStem(word))
 
 
-knitr::kable(tidy_data[1:10,],cap="#Twitter Data for ElectionResults2020")
+knitr::kable(tidy_data[1:10,],cap="#Twitter Data for ChinaVirus")
   
 ```
 
@@ -203,7 +202,7 @@ tidy_data %>%
   unnest_tokens(bigram, text,token = "ngrams", n = 2) %>%
   count(bigram,sort = TRUE) %>% 
   mutate(bigram= reorder(bigram, n)) %>%
-  filter(n>150) %>% 
+  filter(n>50) %>% 
   ggplot(aes(bigram, n)) +
   geom_col() +
   xlab(NULL) +
