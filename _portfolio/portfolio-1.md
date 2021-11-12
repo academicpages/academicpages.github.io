@@ -130,7 +130,7 @@ collection: portfolio
 
 In the selection and cleaning of Data they asked me to separate SA Codes of 6 digits or more with certain characteristics, I will leave a file (in Spanish) as a production sample
 
- - <a href="../files/Peru-World.xlsx" download="[Peru-World">download file Peru-World</a>
+<p><a href="../files/Peru-World.xlsx" download> Click to Download </a></p>
 
 
 > ### Important:
