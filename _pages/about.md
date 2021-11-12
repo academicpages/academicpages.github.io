@@ -9,7 +9,7 @@ redirect_from:
 ---
 <H2>
 <div align="center">
-  A programmer trying to learn how we learn!
+    Trying to understand the data humans generate
 </div>
 </H2>  
 I am currently working as a Data Analyst at the Max Planck Institute of Human Cognitive and Brain Sciences in Leipzig, Germany. I work in the Research Group Learning in Early Childhood. My main responsibility is to design pipelines for processing Neuroimaging data from multiple modalities. 
