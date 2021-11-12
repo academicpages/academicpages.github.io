@@ -88,6 +88,8 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Harvard Women in Psychology’s Annual Trends in Psychology Summit (TiPS), Virtual. Nov., 2020. [[news](/posts/2020/11/blog-post-3/)]
+
 * <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Society for Neuroscience, Virtual. Nov., 2021. [[news](https://lilianyou.github.io/posts/2021/11/blog-post-2/)]
 
 * <b>Cheng, Y.* </b>, He C. *, Spiers H., Coutrot A., Hornberger M., Hegarty M., Chrastil, E.R.. Self-Evaluations of Navigation Ability: A Big Data Approach. Psychonomic Society Annual Meeting, Virtual. Nov., 2021. *denotes equal authorship [[news](https://lilianyou.github.io/posts/2021/11/blog-post-1/)]
