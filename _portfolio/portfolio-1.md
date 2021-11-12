@@ -126,9 +126,11 @@ collection: portfolio
      import win32com.client
 ```  
 
->### Output:
+>### Output:  
+
 In the selection and cleaning of Data they asked me to separate SA Codes of 6 digits or more with certain characteristics, I will leave a file (in Spanish) as a production sample
- - [Peru-World](Peru-World.xlsx)
+
+ - <a href="../files/Peru-World.xlsx" download="[Peru-World">download file Peru-World</a>
 
 
 > ### Important:
@@ -138,5 +140,3 @@ In the selection and cleaning of Data they asked me to separate SA Codes of 6 di
 >at the moment I can only share my collaboration as Scraper and data cleaner.  
 >I am sure it will be a great job that I will soon share
 >barely authorized.
-
-Out
