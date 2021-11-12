@@ -4,19 +4,24 @@ excerpt: "Using Python and Selenium in the extraction of Non-tariff measures wit
 collection: portfolio
 ---
 
->### Scraped to:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[www.wto.org](https://www.wto.org)** 
+>### Scraper for:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[www.wto.org](https://www.wto.org)**  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The codes are published on [my GitHub](https://github.com/raulsedano2410) you can find [**this scraper**](https://github.com/raulsedano2410/Scraper-www.wto.org) and [many others](https://github.com/raulsedano2410?tab=repositories)*
 
 
->### Theme:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
+ >### Sub page to work:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[i-tip.wto.org/goods/Forms/TableView.aspx](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This pivot table was complicated at the beginning, but it was managed to understand it perfectly.*
 
-*What are "non-tariff measures" (NTMs)?  
+>### About:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**  
+
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What are "non-tariff measures" (NTMs)?  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the term suggests, NTMs may include any policy measures other than tariffs that can impact trade flows. At a broad level, NTMs can usefully be divided into three categories.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A first category of NTMs are those imposed on imports. This category includes import quotas, import prohibitions, import licensing and customs procedures, and administration fees. A second category of NTMs are those imposed on exports. These include export taxes, export subsidies, export quotas, export prohibitions and voluntary export restraints.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These first two categories encompass NTMs that are applied at the border, either to imports or to exports. A third and final category of NTMs are those imposed internally in the domestic economy. Such behind-the-border measures include domestic legislation covering health / technical / product / labor / environmental standards, internal taxes or charges, and domestic subsidies.*  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[*Complete documentation here*](https://www.wto.org/english/res_e/reser_e/ersd201201_e.pdf)
+*[Complete documentation here](https://www.wto.org/english/res_e/reser_e/ersd201201_e.pdf)*
 
 >### Objective
 
@@ -93,7 +98,8 @@ collection: portfolio
 5. Keywords
      * All/Any
 
->### Tools
+>### Tools  
+
 * Jupyter Notebook
 * Python 3.8
 * Library
@@ -118,4 +124,19 @@ collection: portfolio
      import os
      
      import win32com.client
-```
+```  
+
+>### Output:
+In the selection and cleaning of Data they asked me to separate SA Codes of 6 digits or more with certain characteristics, I will leave a file (in Spanish) as a production sample
+ - [Peru-World](Peru-World.xlsx)
+
+
+> ### Important:
+>---
+>The investigation on non-tariff measures is still in progress  
+>and has not been published by its author,  
+>at the moment I can only share my collaboration as Scraper and data cleaner.  
+>I am sure it will be a great job that I will soon share
+>barely authorized.
+
+Out
