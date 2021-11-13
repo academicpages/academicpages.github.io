@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 I am a 1st year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) advised by Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and Prof. [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
 
-I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) from [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
+My journey into computer science started at [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/), where I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
 
 I am broadly interested in the theoretical aspects of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization, and theory of deep learning. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<br>
