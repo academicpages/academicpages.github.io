@@ -6,7 +6,7 @@ permalink: /talks/ipin2021-talk
 venue: "Universitat Oberta de Catalunya, Faculty of Computer Science, Multimedia and Telecommunications"
 date: 2021-12-01
 location: "Lloret de Mar, Spain"
-youtubeId: 8UjP0NXLf_0
+youtubeId: sILKfClSgOQ
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
