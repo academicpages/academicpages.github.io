@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yusheng-su/"
   orcid            : "https://orcid.org/0000-0001-9509-9573"
   pinterest        :
   soundcloud       :
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  Semantic Scholar : "https://www.semanticscholar.org/author/Yusheng-Su/48576745"
+  dblp             : "https://dblp.org/pid/275/3665"
 
 
 # Reading Files
