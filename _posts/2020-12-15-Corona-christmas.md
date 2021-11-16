@@ -1,6 +1,6 @@
 ---
 title:      'Merry Corona-Christmas'
-date:       2020-12-15
+date:       2020-12-17
 author:     hm_martiny
 summary:    A Christmas Tree for 2020
 permalink:  /posts/2020/12/post-corona-christmas/
