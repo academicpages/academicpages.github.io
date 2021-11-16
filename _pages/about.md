@@ -24,6 +24,3 @@ About me & not in my CV
 Born and raised in the Milan metropolitan area, in a small town with a big identity. Atteded a Scientific oriented high school in Milan, to later move to one of the most prestigious (if not the most prestigious) Economics Universities in Italy. In the free time, I enjoy deepening my understanding of what I am studying, spending valuable time alone, seeing friends, cycling, drinking coffee, doing sports, listening to the radio or expanding my music collection. I like to keep myself busy and at the same time find moments of the day in which I kill time, just to keep a balance between activities. 
 
 
-Additional page
-======
-For some reason, the text is cut and the last section does not appear, this is done to make the upper section show up. 
