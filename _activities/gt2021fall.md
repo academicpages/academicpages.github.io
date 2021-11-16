@@ -18,7 +18,7 @@ author_profile: false
 | Th, Nov 4, 2021 | 1:30pm - 2:30pm | Ao Sun | Initial perturbation of mean curvature flow | [https://umn.zoom.us/j/97043232587]( https://umn.zoom.us/j/97043232587)
 | Th, Nov 11, 2021 | 1:30pm - 2:30pm |Jacob Rooney  | Cobordism maps in embedded contact homology and Heegaard Floer homology |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Tu, Nov 16, 2021 | 1:30pm - 2:30pm | Mohammad Farajzadeh Tehrani | Logarithmic structures in symplectic geometry |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
-| Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin decomposition of Floer trajectories and adiabatic gluing |  
+| Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin decomposition of Floer trajectories and adiabatic gluing |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu |  |  
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang |  |  
