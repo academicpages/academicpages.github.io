@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-CV [here](https://www.dropbox.com/s/pg12fll8wyvryar/Alexander_Quispe_CV.pdf?dl=0)
+[here](https://www.dropbox.com/s/pg12fll8wyvryar/Alexander_Quispe_CV.pdf?dl=0)
