@@ -4,7 +4,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
   - title: "Teaching"
@@ -13,6 +13,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
             
-
+  - title: "Causal Inference and Machine Learning"
+    url: /CIML/
     
 
