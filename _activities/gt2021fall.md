@@ -22,6 +22,7 @@ author_profile: false
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu |  |  
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang |  |  
+| Tu, Dec 14, 2021 | 1:30pm - 2:30pm | Andrew Sageman-Furnas | |
 | Th, Dec 16, 2021 | 1:30pm - 2:30pm | Josef Dorfmeister |  |  
 
 ## Abstracts
