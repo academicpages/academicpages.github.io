@@ -15,6 +15,11 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
++ <b style="color:blue">[PPoPP-2022]</b>
+**Yuke Wang**, Boyuan Feng, Yufei Ding. <br/>
+***An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks*** <br/>
+*ACM International Conference on Information and Knowledge Management.*<br/>
+[<b style="color:#a31503">[**Paper**]</b>](https://wang-yuke.com/files/CIKM_2021_IF.pdf)
 
 
 + <b style="color:blue">[CIKM-2021 (Spotlight)]</b>
