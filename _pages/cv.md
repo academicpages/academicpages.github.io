@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[CV](CV_purba_acadamic (4).pdf)
 
 Education
 ======
