@@ -21,6 +21,11 @@ author_profile: true
 *ACM International Conference on Information and Knowledge Management.*<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://wang-yuke.com/files/CIKM_2021_IF.pdf)
 
++ <b style="color:blue">[PPoPP-2022]</b>
+**Yuke Wang**, Boyuan Feng, Yufei Ding. <br/>
+***QGTC: Accelerating Quantized GNN via GPU Tensor Core*** <br/>
+*ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*<br/>
+[<b style="color:#a31503">[**Paper**]</b>](https://wang-yuke.com/files/PPoPP22_QGTC.pdf)
 
 + <b style="color:blue">[CIKM-2021 (Spotlight)]</b>
 **Yuke Wang**, Boyuan Feng, Xueqiao Peng, Yufei Ding. <br/>
