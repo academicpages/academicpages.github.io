@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV](files/cv.pdf)
+[CV](../files/CV.pdf)
 
 Education
 ======
