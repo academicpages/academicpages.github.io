@@ -16,7 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 + <b style="color:blue">[PPoPP-2022]</b>
-**Yuke Wang**, Boyuan Feng, Yufei Ding. <br/>
+**\*Yuke Wang**, \*Boyuan Feng, Yufei Ding. \*: equal contribution<br/>
 ***QGTC: Accelerating Quantized GNN via GPU Tensor Core*** <br/>
 *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://wang-yuke.com/files/PPoPP22_QGTC.pdf)
