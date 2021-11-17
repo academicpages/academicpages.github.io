@@ -1,7 +1,7 @@
 ---
 title: "Scraping www.minint.gob.cu"
 excerpt: "Use of Python and Selenium in the extraction of addresses of municipal  
-offices throughout Cuba<br/><img src='/images/cuba.PNG'>"
+offices throughout Cuba<br/><img src='/images/minint.jpg'>"
 collection: portfolio
 ---
 
