@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV](CV_purba_acadamic (4).pdf)
+[CV](files/cv.pdf)
 
 Education
 ======
