@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <ul>
-<li> R.Cont, P. Das. _Quadratic variation and quadratic roughness_.
-https://arxiv.org/abs/1907.03115
-<li> R.Cont, P. Das. _Functions with quadratic variation along refining partitions_.
+  <li> R.Cont, P. Das. <i> Quadratic variation and quadratic roughness</i>. <a href="https://arxiv.org/abs/1907.03115"> Arxiv </a>
+  <li> R.Cont, P. Das. <i> Functions with quadratic variation along refining partitions</i>.
 </ul>
