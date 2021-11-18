@@ -54,5 +54,5 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 
 ### Jude van Houtte
 
-<img align="right" src='/images/jude-flanagan lab.jpg' width="30%" height="30%"> Jude is an undergraduate student working towards her BSc, majoring in Biological Science. She has joined the lab through a summer research opportunity with UC, where she will work in collaboration with Emily Beasley studying sexual selection and behaviour in sex-role-reversed pipefish. She is interested in conservation, ethology, and evolution, as well as mātauranga Māori and the connection between science and people.
+<img align="right" src='/images/jude-flanagan lab.jpg' width="20%" height="20%"> Jude is an undergraduate student working towards her BSc, majoring in Biological Science. She has joined the lab through a summer research opportunity with UC, where she will work in collaboration with Emily Beasley studying sexual selection and behaviour in sex-role-reversed pipefish. She is interested in conservation, ethology, and evolution, as well as mātauranga Māori and the connection between science and people.
 
