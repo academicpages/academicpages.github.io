@@ -18,7 +18,7 @@ I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I wo
 
 **Hierarchical transfer learning with applications for electricity load forecasting**, A. Antoniadis, S. Gaucher, Y. Goude. [Preprint on HAL.](https://hal.archives-ouvertes.fr/hal-03429702)
 
-**Optimality of variational inference for stochastic block model with missing links**, S. Gaucher. [NeuRIPS 2021.}(https://papers.nips.cc/paper/2021/file/a5e308070bd6dd3cc56283f2313522de-Paper.pdf)
+**Optimality of variational inference for stochastic block model with missing links**, S. Gaucher. [NeuRIPS 2021](https://papers.nips.cc/paper/2021/file/a5e308070bd6dd3cc56283f2313522de-Paper.pdf)
 
 **Finite Continuum-Armed Bandits**, S. Gaucher. [NeuRIPS 2020.](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495)
 
