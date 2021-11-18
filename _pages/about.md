@@ -14,7 +14,7 @@ Welcome to my personal website! You can find my academic CV [here](/files/Sean_K
 I'm a PhD student in the research groups of both Professor David Scanlon at University College London and Professor Aron Walsh at Imperial College London. My research uses computational methods such as Density Functional Theory (DFT) to simulate and predict the properties of materials. In particular, my PhD project is focused on the behaviour of defects in solar photovoltaic materials, and how they affect performance through non-radiative electron-hole recombination.
 
 
-### Recent Highlight
+### Recent Highlights
 Our _Materials Horizons_ and _Chemical Science_ articles [Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>](https://doi.org/10.1039/D1MH00764E) and [Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping](https://doi.org/10.1039/D1SC03775G) were featured as front covers in October and November 2021 🤩
 
 <a href="https://doi.org/10.1039/D1MH00764E">
