@@ -46,3 +46,13 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 ### Alexandra Cox
 
 <img align="left" src='/images/AlexandraCox.jpeg' width="30%" height="30%"> Alexandra is a Masters student co-supervised by Sarah and [Dr Claudia Meisrimler](https://www.canterbury.ac.nz/science/contact-us/people/claudia-meisrimler.html), whose thesis project is supported by the [Bioprotection Aotearoa Center of Research Excellence](https://bioprotection.org.nz/). Her work focuses on the parasitic oomycete, *Phytophthora cinnamomi* and identifying the genes responsible for its pathogenicity. By annotating the genome of *P. cinnamomi*, Alexandra’s work will contribute to a larger effort in developing counter measures against this invasive species. Her main research interests are bioinformatics, molecular genetics, plant biology and conservation.
+
+
+<br>
+<br>
+<br>
+
+### Jude van Houtte
+
+<img align="right" src='/images/jude-flanagan lab.jpg' width="30%" height="30%"> Jude is an undergraduate student working towards her BSc, majoring in Biological Science. She has joined the lab through a summer research opportunity with UC, where she will work in collaboration with Emily Beasley studying sexual selection and behaviour in sex-role-reversed pipefish. She is interested in conservation, ethology, and evolution, as well as mātauranga Māori and the connection between science and people.
+
