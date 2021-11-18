@@ -39,4 +39,6 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <img align="right" src='/images/fleurvaneyndhoven.jpg' width="40%" height="40%"> Fleur is working towards a Master of Science in biological sciences looking at sexual selection in the wide-bodied pipefish, <i>Stigmatopora nigra</i>. She is interested in animal behaviour and how individuals interact with each other. 
 
 
+### Alexandra Cox
 
+<img align="right" src='/images/AlexandraCox.jpeg' width="40%" height="40%"> Alexandra is a Masters student co-supervised by Sarah and [Dr Claudia Meisrimler](https://www.canterbury.ac.nz/science/contact-us/people/claudia-meisrimler.html), whose thesis project is supported by the [Bioprotection Aotearoa Center of Research Excellence](https://bioprotection.org.nz/). Her work focuses on the parasitic oomycete, *Phytophthora cinnamomi* and identifying the genes responsible for its pathogenicity. By annotating the genome of *P. cinnamomi*, Alexandra’s work will contribute to a larger effort in developing counter measures against this invasive species. Her main research interests are bioinformatics, molecular genetics, plant biology and conservation.
