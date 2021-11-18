@@ -11,4 +11,5 @@ redirect_from:
 
 Workshops
 ======
-**Technical Challenges *in Land DA* Community**
+
+[Tackling Technical Challenges in Land Data Assimilation](https://aimesproject.org/lda_workshop/)
