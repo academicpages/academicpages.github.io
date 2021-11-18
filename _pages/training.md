@@ -1,6 +1,6 @@
 ---
 permalink: /training/
-title: "Training"
+title: "Resources and Training"
 ---
 
 # Online Tutorials
