@@ -1,28 +1,19 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: /overview/
+    
+  - title: "Working Groups"
+    url: /wg/ 
 
   - title: "Events"
     url: /events/ 
+  
+  - title: "News and Opportunities"
+    url: /news/ 
 
   - title: "Training"
     url: /training/    
 
-  #- title: "Talks"
-  #  url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Early Career"
+    url: /ecr 
