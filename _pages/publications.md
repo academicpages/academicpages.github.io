@@ -7,6 +7,7 @@ author_profile: true
 
 ## Manuscript
 
+- **Wenhao Li**, **Qisen Xu**, **Chuyun Shen**, Bin Hu, Fengping Zhu, Yuxin Li, **Bo Jin** and **Xiangfeng Wang**, Interactive Medical Image Segmentation with Self-Adaptive Confidence Calibration. 2021. [arxiv](https://arxiv.org/abs/2111.07716)
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, **Junjie Sheng** and **Hongyuan Zha**, Dealing with Non-Stationarity in Multi-Agent Reinforcement Learning via Trust Region Decomposition. 2021. [arxiv](https://arxiv.org/abs/2102.10616)
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, J. Yan and **Hongyuan Zha**, F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2004.11145)
 - **Junjie Sheng**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, T.-H. Chang, J. Wang and **Hongyuan Zha**, Learning Structured Communication for Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2002.04235)
