@@ -85,9 +85,9 @@ author:
   bio              : "Researcher in Declare LAB"
   location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?hl=en&pli=1&user=rWtF3g8AAAAJ"
-  email            :
+  email            : "henryhan88888@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/CheqiangHan"
   vine             :
   weibo            :
   xing             :
