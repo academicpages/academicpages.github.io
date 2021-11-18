@@ -17,4 +17,4 @@ I'm a PhD student in the research groups of both Professor David Scanlon at Univ
 ### Recent Highlight
 Our _Materials Horizons_ and _Chemical Science_ articles [Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>](https://doi.org/10.1039/D1MH00764E) and [Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping](https://doi.org/10.1039/D1SC03775G) were featured as front covers in October and November 2021 🤩
 
-<img align="center" width="500" src="files\MH_Cover.png"><img align="center" width="500" src="files\Chem_Sci_Cover.png">
+<img align="left" width="450" src="files\MH_Cover.png"><img align="right" width="450" src="files\Chem_Sci_Cover.png">
