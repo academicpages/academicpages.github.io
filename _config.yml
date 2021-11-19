@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Majid Ghasemi"
 title_separator          : "-"
 name                     : &name "Majid Ghasemi"
-description              : &description "Undergraduate student at IKIU - Machine Learning researcher"
+description              : &description "Computer Science undergraduate student at IKIU"
 url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "getorg-testacct.github.io"
@@ -80,41 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Majid Ghasemi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Computer Science Undergraduate Student at IKIU - Machine Learning Researcher"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "majiddghassemi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  github           : "https://github.com/majidghassemi"
+  linkedin         : "https://www.linkedin.com/in/majiddghasemi/"
+  orcid            : "https://orcid.org/0000-0001-5785-2843"
+  twitter          : "https://twitter.com/_thewm"
 
 
 # Reading Files
