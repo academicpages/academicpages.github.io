@@ -20,7 +20,7 @@ I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I wo
 
 **Optimality of variational inference for stochastic block model with missing links**, S. Gaucher. [NeuRIPS 2021](https://papers.nips.cc/paper/2021/file/a5e308070bd6dd3cc56283f2313522de-Paper.pdf)
 
-**Finite Continuum-Armed Bandits**, S. Gaucher. [NeuRIPS 2020.](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495)
+**Finite Continuum-Armed Bandits**, S. Gaucher. [NeuRIPS 2020.](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495), [Poster](../FCAB.pdf)
 
 **Outliers Detection in Networks with Missing Links**, S. Gaucher, O. Klopp, G. Robin (2021). [Computational Statistics and Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947321001420).[Preprint on Arxiv](https://arxiv.org/abs/1911.13122)
 
