@@ -5,5 +5,4 @@ title: "Resources and Training"
 
 # Online Tutorials
 
-Education
-======
+[ECMWF Data Assimilation Tutorial](https://www.ecmwf.int/en/learning/training/data-assimilation/)
