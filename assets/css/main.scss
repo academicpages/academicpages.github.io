@@ -113,7 +113,7 @@ body {
     position: fixed;
     bottom: 0em;
     height: auto;
-    margin-top: em;
+    margin-top: 1em;
     color: #9ba1a6;
     -webkit-animation: intro 0.3s both;
     animation: intro 0.3s both;
@@ -170,7 +170,6 @@ p {
 
 footer {
     position: relative;
-    max-width: 50%;
     top: -50%;
 }
 
