@@ -18,11 +18,13 @@ During my Ph.D., my research interests were in natural language processing and s
 
 Experience and Education
 ======
-### [Experience](experiences/)  
+**[Experience](experiences/)**  
+
 * **Jul. 2021 -- Present.** Algorithm Expert, Alimama Tech @ Alibaba Group.   
 Working on data-driven algorithms to improve the performance of online advertising.  
 
-### Education  
+**Education**  
+
 * **Sep. 2016 -- Jun. 2021.** Ph.D., Pattern Recognition and Intelligent System @ Institute of Automation, Chinese Academy of Sciences (CASIA).
 * **Sep. 2012 -- Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering) @ Wuhan University (WHU). Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
 * **Sep. 2009 -- Jul. 2012.** Tianjin Nankai High School.  
