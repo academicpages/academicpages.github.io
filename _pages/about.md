@@ -13,7 +13,7 @@ Previously I did a research internship at Google, obtained an MSc from the Unive
 
 My research focuses on *discourse* phenomena and *pragmatics*. Often I use QA representations to capture propositions and once in a while I look at the modality of events.
 
-Besides this I love going to the "cinemathèque" and on hikes with my friends. 
+Besides this I love going to the "cinemathèque" and on hikes with my friends. My Erdős number is 5.
 
 ### News
 * November 2021: Got invited to give a talk at the University of Wolverhampton.
