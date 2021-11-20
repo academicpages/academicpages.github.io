@@ -17,10 +17,15 @@ author_profile: true
 
 # Publications
 
+### *Draw Me a Flower: Grounding Formal Abstract Structures Stated in Informal Natural Language*
+Royi Lachmy, <ins>Valentina Pyatkin</ins>, Reut Tsarfaty.
+Under Submission.  
+[PDF](https://arxiv.org/pdf/2106.14321.pdf)
+
 ### *Asking It All: Generating Contextualized Questions for any Semantic Role*
 <ins>Valentina Pyatkin</ins>\*, Paul Roit\*, Julian Michael, Reut Tsarfaty, Yoav Goldberg, Ido Dagan.
 In EMNLP 2021.  
-[ArXiv](http://arxiv.org/abs/2106.08037)
+[PDF](https://aclanthology.org/2021.emnlp-main.108.pdf)
 
 ### *The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing*
 <ins>Valentina Pyatkin</ins>\*, Shoval Sadde\*, Aynat Rubinstein, Paul Portner, Reut Tsarfaty.  
