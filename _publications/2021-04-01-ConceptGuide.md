@@ -2,7 +2,7 @@
 title: "ConceptGuide: Supporting Online Video Learning with Concept Map-based Recommendation of Learning Path"
 collection: publications
 permalink: /publication/2021-04-01-ConceptGuide
-excerpt: '
+excerpt: ''
 date: 2021-04-01
 pubtype: 'regular'
 venue: 'the Web Conference 2021 (WWW)'
