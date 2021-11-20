@@ -18,9 +18,8 @@ author_profile: true
 # Publications
 
 ### *Draw Me a Flower: Grounding Formal Abstract Structures Stated in Informal Natural Language*
-Royi Lachmy, <ins>Valentina Pyatkin</ins>, Reut Tsarfaty.
-Under Submission.  
-[PDF](https://arxiv.org/pdf/2106.14321.pdf)
+Royi Lachmy, <ins>Valentina Pyatkin</ins>, Reut Tsarfaty.  
+[ArXiv](https://arxiv.org/pdf/2106.14321.pdf)
 
 ### *Asking It All: Generating Contextualized Questions for any Semantic Role*
 <ins>Valentina Pyatkin</ins>\*, Paul Roit\*, Julian Michael, Reut Tsarfaty, Yoav Goldberg, Ido Dagan.
