@@ -18,7 +18,6 @@ During my Ph.D., my research interests were in natural language processing and s
 
 Experience and Education
 ======
-
 ### [Experience](experiences/)  
 * **Jul. 2021 -- Present.** Algorithm Expert, Alimama Tech @ Alibaba Group.   
 Working on data-driven algorithms to improve the performance of online advertising.  
@@ -31,7 +30,6 @@ Working on data-driven algorithms to improve the performance of online advertisi
 
 Publications
 ======
-
 ### [Selected Publications](publications/)  
   
 
