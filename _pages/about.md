@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 I am a PhD student in Natural Language Pocessing at the NLP lab of Bar Ilan University, supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty.
+Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich.
 
-My research focuses on *discourse* phenomena and *pragmatics*.
+My research focuses on *discourse* phenomena and *pragmatics*. Often I use QA representations to capture propositions and once in a while I look at the modality of events.
+
+Besides this I love going to the "cinemathèque" and on hikes with my friends. 
 
 ### News
 * November 2021: Got invited to give a talk at the University of Wolverhampton.
