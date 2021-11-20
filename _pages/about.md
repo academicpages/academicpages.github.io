@@ -30,8 +30,7 @@ Working on data-driven algorithms to improve the performance of online advertisi
 
 Publications
 ======
-### [Selected Publications](publications/)  
-  
+[Selected Publications](publications/)  
 
 Awards
 ======
