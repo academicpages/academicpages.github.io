@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/ConceptGuide_interface.png'> ConceptGuide: Supporting Online Video Learning with Concept Map-based Recommendation of Learning Path"
+title: "ConceptGuide: Supporting Online Video Learning with Concept Map-based Recommendation of Learning Path"
 collection: publications
 permalink: /publication/2021-04-01-ConceptGuide
 excerpt: ''
