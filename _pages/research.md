@@ -13,7 +13,7 @@ Aid, Blame, and Backlash: The Political Economy of Unpopular Aid (<a href= "http
 
 Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler Pratt) (<a href= "https://cobrienudry.github.io/files/GenesSept2021.pdf">draft</a>)
 
-Turning the Tables: Aid, Status and Stability in the International System (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/Status_Reversal_Ferry_OBrienUdry.pdf">draft</a>)
+Turning the Tables: Aid, Status and Stability in the International System (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/status_Nov2021.pdf">draft</a>)
 
 Populism, Promises, and Aid Withdrawal: The Case of 'Kosova e Re' (<a href= "https://cobrienudry.github.io/files/aid_withdrawal_parties.pdf">draft</a>)
 
