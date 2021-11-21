@@ -21,4 +21,9 @@ I am a fifth year PhD student at Computer Network Information Center, Chinese Ac
 7. Tang, Zhengzheng, **Ziyue Qiao (Equal contribution)**, Xuehai Hong, Yang Wang, Fayaz Ali Dharejo, Yuanchun Zhou, and Yi Du. "[Data Augmentation for Graph Convolutional Network on Semi-Supervised Classification](https://arxiv.org/pdf/2106.08848.pdf)." In APWeb-WAIM 2021
 
 
+# Awards
 
+1. 2019 Biendata Competition “OAG–WhoIsWho track 1” **Gold Medal** (1st Place/131 teams)
+2. IEEE International Conference on Big Data 2019，**Student Travel Award**
+3. 2020 **National Scholarship**
+4. 2020 Chinese Academy of Sciences (CAS) **Presidential Scholarship**
