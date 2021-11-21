@@ -9,7 +9,9 @@ redirect_from:
 ---
 The Graduate Student International Political Economy Workshop (GSIPE) is a virtual, interdisciplinary, graduate-student-run workshop. We aim to provide a venue for graduate students (including pre-docs and post-docs) to present works-in-progress and solicit feedback from their peers and faculty. 
 
-We invite graduate students and faculty from Political Science and Economics with an interest in International Political Economy ([broadly defined](https://www.isanet.org/ISA/Sections/IPE)) to participate. We welcome papers in all stages of progress and job market papers.
+We invite graduate students and faculty from Political Science and Economics with an interest in International Political Economy ([broadly defined](https://www.isanet.org/ISA/Sections/IPE)) to participate, and to sign up for our [mailing list](#mailing). We welcome papers in all stages of progress and job market papers.
+
+
 
 <hr> 
 
