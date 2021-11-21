@@ -13,6 +13,8 @@ Previously I did a research internship at Google, obtained an MSc from the Unive
 
 My research focuses on *discourse* phenomena and *pragmatics*. Often I use QA representations to capture propositions and once in a while I look at the modality of events.
 
+I am co-organizing [the Second Workshop on Understanding Implicit and Underspecified Language] (https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
+
 Besides this I love going to the "cinemathèque" and on hikes with my friends. My Erdős number is 3.
 
 ### News
