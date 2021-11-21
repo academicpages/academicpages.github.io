@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gonzalo Quiroz"
 title_separator          : "-"
-name                     : &name "Gonzalo Quiroz"
+name                     : &name "Gonzalo Quiroz Rios"
 description              : &description "Economics student at PUCP"
 url                      : https://gonzaloquiroz.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
