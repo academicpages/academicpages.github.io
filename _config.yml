@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziyue Qiao"
+title                    : "Academic Pages"
 title_separator          : "-"
 name                     : &name "Ziyue Qiao"
 description              : &description "Fifth year Ph.D student at Computer Network Information Center, University of Chinese Academy of Sciences"
