@@ -6,12 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+
 locale                   : "en-US"
 title                    : "Gonzalo Quiroz"
 title_separator          : "-"
 name                     : &name "Gonzalo Quiroz"
 description              : &description "Economics student at PUCP"
 url                      : https://gonzaloquiroz.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+=======
+locale                   : "Perú-Esp"
+title                    : "Gonzalo Quiroz "
+title_separator          : "-"
+name                     : &name "Gonzalo Quiroz"
+description              : &description "personal description"
+url                      : https://gonzaloquiroz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GonzaloQuiroz/GonzaloQuiroz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
