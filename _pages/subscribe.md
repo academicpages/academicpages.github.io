@@ -5,7 +5,7 @@ permalink: /subscribe/
 author_profile: true
 ---
 
-We invite faculty and graduate students with an interest in international political economy to sign up for our mailing list, below. We use the list to distribute abstracts, papers and schedules.
+We invite faculty and graduate students with an interest in International Political Economy to sign up for our mailing list, below. We use the list to distribute abstracts, papers and schedules.
 
 Sign up for the GSIPE listserv below:
 <a id='mailing'></a>
