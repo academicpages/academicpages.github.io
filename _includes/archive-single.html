@@ -45,7 +45,7 @@
 	    {{ post.authors }} <br />
 	  {% endif %}
 	  {% if post.award %}
-	    <strong><i class="fas fa-trophy fa-2x"></i></strong>
+	    <strong><i class="fas fa-award fa-lg"></i></strong>
 	  {% endif %}
           Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% elsif post.date %}
