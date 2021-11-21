@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Perú-Esp"
-title                    : "Your Name / Site Title"
+title                    : "Your Name "
 title_separator          : "-"
 name                     : &name "Gonzalo Quiroz"
 description              : &description "personal description"
