@@ -39,7 +39,7 @@ Some quotes from MSc students I have supervised are:
 
 
 ---
-In addition, I have given private tuition for undergraduate and high-school students in Chemistry, Physics and Maths (as well as French, Irish and Biology) for over 4 years, helping to develop my teaching and communication skills, in addition to organisation and time management. I have worked with over 30 students, consistently resulting in high performance and exam success for tutees. Some quotes from reviews/feedback include:
+In addition, I have given private tuition for undergraduate and high-school students in Chemistry, Physics and Maths (as well as French, Irish and Biology) for over 4 years. I have worked with over 30 students, consistently resulting in high performance and exam success for tutees. Some quotes from reviews/feedback include:
 
 > I highly recommend Sean for tutoring, I went to him for my leaving cert (_A-levels_) and he explained everything so clearly and made it so simple to learn and if it wasn’t for Sean I wouldn’t have passed my leaving cert (_A-levels_). Highly recommend. <!-- Sophie -->
 
