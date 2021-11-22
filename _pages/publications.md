@@ -7,6 +7,17 @@ author_profile: true
 
 
 
+## From something old to something new: Functionalist lessons for the cognitive science of scientific creativity.<br>*Frontiers in Psychology: Cognition*, forthcoming. ([Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.750086/abstract)) <img align="right" src="https://gui-cogsci.github.io/images/frontierspsychology.png" width="130">
+>  An intuitive view is that creativity involves bringing together what's already known and familiar in a way that produces something new. In cognitive science this intuition is typically formalized in terms of computational processes that combine or associate internally represented information. From this computationalist perspective, it's hard to imagine how non-representational approaches in embodied cognitive science could shed light on creativity, especially when it comes to abstract conceptual reasoning of the kind scientists so often engage in. The present article offers an entry point to addressing this challenge. The scientific project of embodied cognitive science is a continuation of work in the functionalist tradition in psychology developed over a century ago by William James and John Dewey, among others. The focus here is on how functionalist views on the nature of mind, thought and experience offer an alternative starting point for cognitive science in general, and for the cognitive science of scientific creativity in particular. The result may seem paradoxical. On the one hand, the paper claims that the functionalist conceptual framework motivates rejecting mainstream cognitive views of creativity as the combination or association of ideas. On the other hand, however, the strategy adopted here—namely, revisiting ideas from functionalist psychology to inform current scientific theorizing—can itself be described as a process of arriving at new, creative ideas from combinations of old ones. As is shown here, a proper understanding of cognition in light of the functionalist tradition resolves the seeming tension between these two claims.
+> 
+> KEYWORDS: creativity, representation, mind, experience, Functionalism, Embodied cognitive science
+>
+>> Sanches de Oliveira, G. (forthcoming)  From something old to something new: Functionalist lessons for the cognitive science of scientific creativity. *Frontiers in Psychology: Cognition*. DOI: 10.3389/fpsyg.2021.750086
+
+<br><br>
+
+
+
 ## Radical Embodied Cognitive Science and "Real Cognition." (w/ Vicente Raja and Tony Chemero)<br>*Synthese*, 2021. ([Link](https://link.springer.com/article/10.1007/s11229-019-02475-4)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
 >  A persistent criticism of radical embodied cognitive science is that it will be impossible to explain “real cognition” without invoking mental representations. This paper provides an account of explicit, real-time thinking of the kind we engage in when we imagine counter-factual situations, remember the past, and plan for the future. We first present a very general non-representational account of explicit thinking, based on pragmatist philosophy of science. We then present a more detailed instantiation of this general account drawing on nonlinear dynamics and ecological psychology.  [online first, 2019]
 > 
