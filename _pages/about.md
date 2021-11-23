@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a fourth year PhD student at the Human-Computer Interaction Institute at Carnegie Mellon University, where I'm advised by [John Zimmerman](https://www.hcii.cmu.edu/people/john-zimmerman) and [Jim McCann](http://www.cs.cmu.edu/~jmccann/).
 
-My research focuses on supporting cross-functional AI teams in designing human-AI interactions. I build tools, methods, and boundary objects to help AI teams in (1) envisioning AI innovations collectively before deciding what AI system to build, and (2) facilitating collaboration and participation across disciplines and stakeholders in AI development processes. I draw on approaches from design research, HCI, AI, and service design.
+My research focuses on supporting cross-functional AI teams in designing the user experience of AI. I build tools, methods, and boundary objects to help AI teams in (1) envisioning human-AI interactions collectively before deciding what AI system to build, and (2) facilitating collaboration and participation across disciplines and stakeholders in AI development processes. I draw on approaches from design research, HCI, AI, and service design.
 
 Before Carnegie Mellon, I worked as an industrial designer in the industry for over 7 years, designing products ranging from medical to consumer electronics, assistive robots, and transportation. I received my master's and bachelor's in Industrial Design from [METU](https://www.metu.edu.tr/) in Turkey.
 
