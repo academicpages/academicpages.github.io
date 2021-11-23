@@ -6,7 +6,7 @@ author_profile: true
 ---
 Information about special events and opportunties can be found here.
 
-*Mini-conference: Qualitative and Mixed Methods in International Political Economy*
+**Mini-conference: Qualitative and Mixed Methods in International Political Economy**
 
 [Program here](https://gsipe-workshop.github.io/files/Mixed-methods-conference-program.pdf) and [registration here](https://forms.gle/vRRaEYZK653Gfjf6A).
 
