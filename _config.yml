@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shiqi Xu"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/shiqixu/shiqixu.github.io/blob/master/profile.png"
   bio              : #"PhD student studying computational optics at Duke University"
   location         : "101 Science Dr, Durham, NC; 27705"
   employer         :
