@@ -14,7 +14,7 @@ I am a PhD candidate in the department of Computer Science at University of Cali
 
 I hold a B.S. in Statistics from Hunan University (2016) and an M.S. in Statistics from University of California, Davis (2018).
 
-<span style="color:red">**News!**</span>
+<span>**News!**</span>
 
 *11/21*: Our paper "Combating Sampling Bias: A Self-Training Method in Credit Risk Models" has been accepted by IAAI 2022 and will be presented in Feb 2022!
 
