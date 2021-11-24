@@ -1,5 +1,5 @@
 ---
-title: "Fundamentos de Matemática Elmentar I"
+title: "Fundamentos de Matemática Elmentar I - DCET0088"
 collection: teaching
 type: "Curso de Matemática"
 permalink: /teaching/fme1
