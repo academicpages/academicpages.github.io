@@ -1,0 +1,63 @@
+<!-- Add backlinks to the current page --> 
+{%- assign link_count = 0 -%}
+{%- assign wiki_link_title = '[' | append: page.title | append: ']' -%}
+{%- for note in site.notes -%}
+        {%- if note.url != page.url -%}
+            {%- if note.content contains wiki_link_title -%}
+                {%- assign link_count = link_count | plus:1 -%}
+            {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+{%- for note in site.posts -%}
+        {%- if note.url != page.url -%}
+            {%- if note.content contains wiki_link_title -%}
+                {%- assign link_count = link_count | plus:1 -%}
+            {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+{%- for note in site.pages -%}
+        {%- if note.url != page.url -%}
+            {%- if note.content contains wiki_link_title -%}
+                {%- assign link_count = link_count | plus:1 -%}
+            {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+{%- if link_count > 0 -%}
+{%- assign wiki_link_title = '[' | append: page.title | append: ']' -%}
+<div class="related" id="jekyll-seamless-backlinks">
+    <h4 class="medium-small">Linked Notes</h4>
+    <div class="related-wrapper">
+        {%- for note in site.notes -%}
+        {%- if note.url != page.url -%}
+            {%- if note.content contains wiki_link_title -%}
+            <div class="related-group"><a href="{{note.url}}">
+                <p class="related-title">{{ note.title }}</p>
+                <p class="related-excerpt">{{ note.content | markdownify | strip_html | truncate: 140 }}</p>
+            </a></div>
+            {%- endif -%}
+        {%- endif -%}
+        {%- endfor -%}
+        {%- for note in site.posts -%}
+        {%- if note.url != page.url -%}
+            {%- if note.content contains wiki_link_title -%}
+            <div class="related-group"><a href="{{note.url}}">
+                <p class="related-title">{{ note.title }}</p>
+                <p class="related-excerpt">{{ note.content | markdownify | strip_html | truncate: 140 }}</p>
+            </a></div>
+            {%- endif -%}
+        {%- endif -%}
+        {%- endfor -%}
+        {%- for note in site.pages -%}
+        {%- if note.url != page.url -%}
+            {%- if note.content contains wiki_link_title -%}
+            <div class="related-group"><a href="{{note.url}}">
+                <p class="related-title">{{ note.title }}</p>
+                <p class="related-excerpt">{{ note.content | markdownify | strip_html | truncate: 140 }}</p>
+            </a></div>
+            {%- endif -%}
+        {%- endif -%}
+        {%- endfor -%}
+    </div>
+    <br/>
+</div>
+{%- endif -%}

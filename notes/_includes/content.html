@@ -1,0 +1,263 @@
+<!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
+{%- if page.content-type == "notes" -%}
+<ul class="tags">
+    {%- if page.etat != nil and page.etat != empty -%}
+    <li><a href="javascript:void(0)" class="tag"><b>État:</b> <i>{{page.etat | capitalize}}</i></a></li>
+    {%- endif -%}
+    <!-- Loop through page categories and print them in tags -->
+    {%- if page.tags != empty and page.tags !=nil -%}
+    {%- for tag in page.tags -%}
+    <li><a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
+    {%- endfor -%}
+    {%- endif -%}
+</ul>
+{%- endif -%}
+{%- include toc.html -%}
+<div class="content">
+
+    {%- assign content_array = content | split:'[[' -%}
+    {%- assign external_link_delimiter = '::' -%}
+    {%- assign internal_link_delimiter = '|' -%}
+    {%- assign internal_header_delimiter = '#' -%}
+
+
+    {%- assign link_joiner_delimiter = '$@' -%}
+
+    {%- for item in content_array -%}
+
+    {%- if forloop.index > 1 -%}
+    {%- assign start = item | split:']]' -%}
+
+    {% assign itempart = start[0] | split: "|" %}
+    {% assign alt_link = itempart[1] %}
+
+    {% assign itempart = itempart[0] | split: "#" %}
+    {%- assign internal_link = itempart[0] -%}
+
+    <!-- We need some hacky code to isolate header link -->
+    {%- assign header_link_sub_i = start[0] | split: "|" -%}
+    {%- assign header_link_sub_ii = header_link_sub_i[0] | split: "#" -%}
+    {%- assign header_link = header_link_sub_ii[1] -%}
+
+    {%- assign external_link = itempart[0] | split:external_link_delimiter -%}
+    {%- assign sidenote = itempart[0] | split:sidenote_delimiter -%}
+
+
+    {%- if external_link[1] == nil -%}
+
+    {%- if internal_link -%}
+
+    {%- assign result_notes = site.notes | where: 'title',internal_link -%}
+    {%- assign result_posts = site.posts | where: 'title',internal_link -%}
+    {%- assign result_pages = site.pages | where: 'title',internal_link -%}
+
+    {%- assign internal_links = internal_links | append: link_joiner_delimiter | append: internal_link -%}
+    {%- assign internal_urls = internal_urls | append: link_joiner_delimiter | append: result_notes[0].url | append: result_posts[0].url | append: result_pages[0].url -%}
+
+    {%- endif -%}
+
+    {%- if alt_link -%}
+    {%- assign internal_links_alt = internal_links_alt | append: link_joiner_delimiter | append: internal_link -%}
+    {%- assign internal_urls_alt = internal_urls_alt | append: link_joiner_delimiter | append: result_notes[0].url | append: result_posts[0].url | append: result_pages[0].url -%}
+    {%- assign internal_titles_alt = internal_titles_alt | append: link_joiner_delimiter | append: alt_link -%}
+
+    {%- if header_link -%}
+
+    {%- assign header_links = header_links | append: link_joiner_delimiter | append: header_link -%}
+
+    {%- else -%}
+
+    {%- assign header_links = header_links | append: link_joiner_delimiter | append: "noheader" -%}
+
+    {%- endif -%}
+
+    {%- endif -%}
+
+    {%- else -%}
+
+    {%- assign external_links = external_links | append: link_joiner_delimiter | append: external_link[0] -%}
+    {%- assign external_urls = external_urls | append: link_joiner_delimiter | append: external_link[1] -%}
+
+    {%- endif -%}
+    {%- endif -%}
+    {%- endfor -%}
+
+
+    {%- assign header_link_array = header_links | split:link_joiner_delimiter -%}
+
+
+    {%- assign internal_url_array = internal_urls | split:link_joiner_delimiter -%}
+    {%- assign internal_link_array = internal_links | split:link_joiner_delimiter -%}
+
+    {%- assign external_url_array = external_urls | split:link_joiner_delimiter -%}
+    {%- assign external_link_array = external_links | split:link_joiner_delimiter -%}
+
+    {%- assign replaced_content = content -%}
+
+    {%- for title in internal_link_array -%}
+
+    {%- assign url = internal_url_array[forloop.index0] -%}
+
+    {%- if url == nil -%}
+
+    {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
+    {%- elsif url == empty -%}
+
+    {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
+
+    {%- else -%}
+
+    {%- assign post = site.notes | where: 'title',title -%}
+
+    {%- if post[0].title == nil -%}
+
+    {%- assign post = site.posts | where: 'title',title -%}
+
+    {%- endif -%}
+
+    {%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
+
+    {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
+    {%- endif -%}
+
+    {%- assign bracket_link = '[[' | append: title | append: ']]' -%}
+    {%- assign replaced_content = replaced_content | replace: bracket_link,link_text -%}
+
+
+    {%- endfor -%}
+
+
+    {%- assign internal_url_alt_array = internal_urls_alt | split:link_joiner_delimiter -%}
+    {%- assign internal_link_alt_array = internal_links_alt | split:link_joiner_delimiter -%}
+    {%- assign internal_titles_alt_array = internal_titles_alt | split:link_joiner_delimiter -%}
+
+
+
+    {%- for title in internal_link_alt_array -%}
+
+    {%- assign url = internal_url_alt_array[forloop.index0] -%}
+    {%- assign alt_title = internal_titles_alt_array[forloop.index0] -%}
+    {%- assign header_title = header_link_array[forloop.index0] -%}
+
+    {%- if url == nil -%}
+
+    {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: alt_title | append: '</a>' -%}
+
+    {%- elsif url == empty -%}
+
+    {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: alt_title | append: '</a>' -%}
+
+    {%- elsif header_title == "noheader" -%}
+
+    {%- assign post = site.notes | where: 'title',title -%}
+
+    {%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
+
+    {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: alt_title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: post[0].title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
+
+    {%- assign bracket_link = '[[' | append: title |  append: '|' | append: alt_title | append: ']]' -%}
+    {%- assign replaced_content = replaced_content | replace: bracket_link, link_text -%}
+
+    {%- else  -%}
+
+    {%- assign header_correct_link = header_title | replace: " ", "-" | downcase -%}
+
+    {%- assign post = site.notes | where: 'title',title -%}
+
+    {%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
+
+    {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '#' | append: header_correct_link | append: '">' | append: alt_title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: post[0].title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
+
+    {%- assign bracket_link = '[[' | append: title | append: "#" | append: header_title |  append: '|' | append: alt_title | append: ']]' -%}
+    {%- assign replaced_content = replaced_content | replace: bracket_link, link_text -%}
+
+    {%- endif -%}
+
+    {%- if header_title == "noheader" -%}
+
+    {%- assign bracket_link = '[[' | append: title |  append: '|' | append: alt_title | append: ']]' -%}
+    {%- assign replaced_content = replaced_content | replace: bracket_link, link_text -%}
+
+    {%- else -%}
+
+    {%- assign bracket_link = '[[' | append: title | append: "#" | append: header_title |  append: '|' | append: alt_title | append: ']]' -%}
+    {%- assign replaced_content = replaced_content | replace: bracket_link, link_text -%}
+
+    {%- endif -%}
+
+    {%- endfor -%}
+
+
+
+    {%- assign sideNoteCounter = 0 -%}
+    {%- assign srsCounter = 0 -%}
+    {%- for title in external_link_array -%}
+    {%- assign url = external_url_array[forloop.index0] -%}
+    {%- if url contains "wikipedia.org" -%}
+    {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-wikipedia-w"></i>
+</sup></a>' -%}
+    {%- elsif url contains "archive.org" -%}
+    {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup >Wayback</sup></a>' -%}
+    {%- elsif url contains "gutenberg.org" -%}
+    {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup >Guten</sup></a>' -%}
+    {%- elsif url contains "youtube.com" or url contains "youtu.be" -%}
+    {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-youtube"></i></sup></a>' -%}
+    {%- elsif url contains "twitter.com" -%}
+    {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-twitter"></i></sup></a>' -%}
+    {%- elsif url contains "github.com" or url contains "github.io" -%}
+    {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-github"></i></sup></a>' -%}
+    {%- elsif url == "highlight" -%}
+    {%- assign link_text = '<span style="background-color: #DAEDFF; color: #555;">' | append: title | append: '</span>' -%}
+    {%- elsif url == "wrap" -%}
+    {%- assign link_text = '<div class="boxit">' | append: title | append: '</div>' -%}
+    {%- elsif url == "img" -%}
+    {%- assign link_text = '<img src="' | append: title | append: '"/>' -%}
+    {%- elsif url == "lsn" or url == "rsn" or url == "lsn-transclude" or url == "rsn-transclude"  or url == "lmn" or url == "rmn" or url == "lmn-transclude" or url == "rmn-transclude" -%}
+    {%- assign toggleLabel = "" -%}
+    {%- assign sideNoteNum = "" -%}
+    {%- if url contains "lsn" -%}
+    {%- assign noteType = "sn-left" -%}
+    {%- assign sideNoteNum = "sidenote-number" -%}
+    {%- elsif url contains "rsn" -%}
+    {%- assign noteType = "sn-right" -%}
+    {%- assign sideNoteNum = "sidenote-number" -%}
+    {%- elsif url contains "lmn" -%}
+    {%- assign noteType = "mn-left" -%}
+    {%- assign toggleLabel = "&#8853;" -%}
+    {%- elsif url contains "rmn" -%}
+    {%- assign noteType = "mn-right" -%}
+    {%- assign toggleLabel = "&#8853;" -%}
+    {%- endif -%}
+
+
+    {%- if url contains "transclude" -%}
+    {%- assign post = site.notes | where: 'title',title -%}
+    {%- if post[0].title == nil -%}
+    {%- assign post = site.posts | where: 'title',title -%}
+    {%- endif -%}
+    {%- assign excerpt = post[0].content | strip_html | truncate: 280 -%}
+    {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: noteType | append: '"><a href="' | append: post[0].url  | append: '"> <span style="background-color: #ffffc4; color: #555;">Transclusion</span><br/><b>' | append: title | append: '</b><br/>' | append: excerpt | append: '</a></span>' -%}
+    {%- else -%}
+    {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: noteType | append: '">' | append: title | append: '</span>' -%}
+    {%- endif -%}
+
+    {%- assign sideNoteCounter = sideNoteCounter | plus:1 -%}
+    {%- elsif url == "srs" -%}
+    {%- assign link_text = '<label for="' | append: url | append: '-' | append: srsCounter | append: '" class="srs-toggle "><svg class="srs-svg" x="0px" y="0px" height="20" width="18" viewBox="0 0 100 125" enable-background="new 0 0 100 100" xml:space="preserve"><path fill="none" d="M41.648,12.407c-0.186-0.286-0.5-0.457-0.841-0.457c-0.191,0-0.379,0.056-0.542,0.162l-5.235,3.396l8.239-0.602  L41.648,12.407z"/><path fill="none" d="M28.45,19.776L8.471,32.737c-0.462,0.3-0.594,0.921-0.294,1.384l23.832,36.736l-3.638-49.85  C28.34,20.584,28.379,20.176,28.45,19.776z"/><path d="M40.055,81.425l0.127-0.082l-1.181,0.086C39.319,81.615,39.731,81.635,40.055,81.425z"/><path d="M94.964,32.733c-0.616-1.185-1.656-2.06-2.93-2.462l-15.315-4.845l-0.576-7.905c-0.2-2.721-2.604-4.834-5.352-4.623  l-22.969,1.676l-2.818-4.344c-0.925-1.428-2.495-2.28-4.197-2.28c-0.966,0-1.907,0.279-2.719,0.806L6.294,29.381  c-2.313,1.5-2.974,4.603-1.473,6.916l30.496,47.008c0.926,1.428,2.495,2.28,4.198,2.28c0.965,0,1.905-0.278,2.717-0.806l1.04-0.675  l28.847,9.123c0.491,0.155,0.999,0.233,1.511,0.233c2.191,0,4.105-1.404,4.764-3.491l16.902-53.424  C95.697,35.273,95.58,33.919,94.964,32.733z M40.266,12.112c0.163-0.106,0.35-0.162,0.542-0.162c0.341,0,0.656,0.17,0.841,0.457  l1.622,2.5l-8.239,0.602L40.266,12.112z M8.177,34.121c-0.3-0.463-0.168-1.083,0.294-1.384l19.979-12.96  c-0.071,0.399-0.11,0.808-0.08,1.23l3.638,49.85L8.177,34.121z M35.678,66.191L32.36,20.716c-0.04-0.55,0.375-1.031,0.924-1.071  l12.471-0.909l4.552-0.332l20.852-1.52c0.519,0,0.955,0.408,0.993,0.928l0.461,6.315L55.9,18.841  c-0.49-0.155-0.997-0.234-1.508-0.234c-1.206,0-2.32,0.437-3.195,1.169c-0.715,0.597-1.274,1.385-1.571,2.324l-0.554,1.75  L35.678,66.191z M91.48,35.34l-11.408,36.06l-2.057,6.5l-3.438,10.867c-0.194,0.614-0.798,0.794-1.253,0.647l-25.706-8.13  l-1.247-0.394l-3.694-1.169l-5.488-1.735c-0.343-0.108-0.514-0.355-0.586-0.493c-0.061-0.116-0.137-0.342-0.093-0.617  c0.007-0.047,0.011-0.093,0.026-0.143l15.354-48.536l1.547-4.891c0.005-0.016,0.016-0.026,0.021-0.041  c0.166-0.451,0.579-0.659,0.932-0.659c0.101,0,0.202,0.016,0.301,0.047l18.233,5.768l4.105,1.299l13.795,4.364  c0.345,0.109,0.516,0.356,0.588,0.494C91.486,34.715,91.59,34.997,91.48,35.34z"/><path d="M40.055,81.425c-0.323,0.21-0.735,0.19-1.054,0.004l1.181-0.086L40.055,81.425z"/></svg></label><input type="checkbox" id="' | append: url | append: '-' | append: srsCounter | append: '" class="srs-toggle"/><span class="spaced-rep"><span style="font-size: 14px; color: #555;"><u><strong>Carte mémoire !</strong></u></span><br/>' | append: title | append: '</span>' -%}
+    {%- assign srsCounter = srsCounter | plus:1 -%}
+    {%- elsif url == "todo" -%}
+    {%- assign todo_list = title | split:';' -%}
+    {%- assign link_text = "<h4>::TODO::</h4><ul style='padding-left: 20px; margin-top: -20px; list-style-type:decimal;'>" -%}
+    {%- for list_items in todo_list -%}
+    {%- assign link_text = link_text | append: '<li>' | append: list_items | append: '</li>' -%}
+    {%- endfor -%}
+    {%- assign link_text = link_text | append: '</ul>' -%}
+    {%- else -%}
+    {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '</a>' -%}
+    {%- endif -%}
+    {%- assign bracket_link = '[[' | append: title | append: external_link_delimiter | append: url | append: ']]' -%}
+    {%- assign replaced_content = replaced_content | replace: bracket_link,link_text -%}
+    {%- endfor -%}
+
+    {{ replaced_content }}
+</div>

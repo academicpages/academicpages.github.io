@@ -1,0 +1,24 @@
+{%- if page.permalink == "/" or page.permalink == "/notes" -%}
+<nav class="context-menu" id="context-menu">
+    <ul class="context-menu__items">
+      <li class="context-menu__item">
+            <a href="#" class="context-menu__link" data-action="backlinks">
+              View Linked References
+            </a>
+      </li>
+      <li class="context-menu__item">
+            <a href="#" class="context-menu__link" data-action="related-posts">
+              View Related Posts
+            </a>
+      </li>
+      <li class="context-menu__item">
+        <a href="#" class="context-menu__link" data-action="new-tab">
+          Open in new tab
+        </a>
+      </li>
+    </ul>
+</nav>
+<nav class="context-menu-res" id="context-menu-res">
+</nav>
+<script src="/assets/js/contextmenu.js"></script>
+{%- endif -%}

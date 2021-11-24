@@ -1,0 +1,24 @@
+---
+---
+
+[
+  {% for post in site.posts %}
+    {
+
+      "title"    : "{{ post.title | strip_html | escape }}",
+      "url"      : "{{ post.url }}",
+      "content"  : {{ post.content | strip_html | strip_newline | strip | jsonify }}
+
+    },
+  {% endfor %}
+
+  {% for note in site.notes %}
+    {
+
+      "title"    : "{{ note.title | strip_html | escape }}",
+      "url"      : "{{ note.url }}",
+      "content"  : {{ note.content | newline_to_br | strip_newlines | replace: '<br/>', '' | strip | strip_html | strip | jsonify }}
+
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
