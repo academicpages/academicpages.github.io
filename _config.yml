@@ -83,7 +83,8 @@ author:
   name             : "Shiqi Xu"
   avatar           : "profile.png"
   bio              : #"PhD student studying computational optics at Duke University"
-  location         : "101 Science Dr, 
+  location         : "101 Science Dr,
+                      <br> 
                       Durham, NC, 27705"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
