@@ -1,0 +1,29 @@
+---
+---
+
+
+.userboard,
+.avatar,
+.searchbar,
+.menu,
+.related {
+    display: none !important;
+}
+
+#scroll-head,
+#disqus_thread {
+    display: none !important;
+}
+.sn-right,
+.mn-right {
+    margin-right: -30%;
+    width: 25%;
+}
+.sn-left,
+.mn-left {
+    margin-left: -30%;
+    width: 25%;
+}
+.box {
+    border: none !important;
+}

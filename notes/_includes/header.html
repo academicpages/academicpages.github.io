@@ -1,0 +1,113 @@
+
+<header>
+    <div class="dashboard disable-select">
+        <div class="site-heading profile-board-col">
+           <h4 class="medium"><a href="/">{{site.title}}</a></h4>
+        </div>
+        <div class="userboard profile-board-col">
+            <div class="username">
+                <p class="title-sans"><a href="/" style="text-decoration: none;">{{site.name}}</a></p>
+            </div>
+            <div class="userdesc">
+                <p class="title-sans">{{site.user_description}}</p>
+            </div> 
+
+        </div>
+    </div>
+    <div class="avatar disable-select" title="click me to know more">
+        <a class="avatar-link" href="/">
+            <img src="/assets/img/profile.png" class="avatar-img" alt="avatar"/>
+        </a>
+    </div>
+    <div class="main-site-subheader menu disable-select">
+        <div class="home">
+            <a style="text-decoration: none;" href="/about">
+                <svg class="icon-home" width="18" height="19" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M20.9777 21.6138V19.6138C20.9777 18.553 20.5563 17.5356 19.8061 16.7854C19.056 16.0353 18.0386 15.6138 16.9777 15.6138H8.97768C7.91682 15.6138 6.8994 16.0353 6.14926 16.7854C5.39911 17.5356 4.97768 18.553 4.97768 19.6138V21.6138"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M12.9777 11.6138C15.1868 11.6138 16.9777 9.82298 16.9777 7.61385C16.9777 5.40471 15.1868 3.61385 12.9777 3.61385C10.7685 3.61385 8.97768 5.40471 8.97768 7.61385C8.97768 9.82298 10.7685 11.6138 12.9777 11.6138Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <p class="home-p">About</p>
+            </a>
+        </div>
+        <div class="categories">
+            <a style="text-decoration: none;" href="/tags">
+            <svg class="icon-category" width="18" height="19" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 9.5H20"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M4 15.5H20"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M10 3.5L8 21.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M16 3.5L14 21.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>                               
+            <p class="categories-p">Tags</p>
+            </a>
+        </div>
+        <div class="rss">
+            <a style="text-decoration: none;" href="/feed.xml">
+                <svg class="icon-rss" width="18" height="19" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M4 11.5C6.38695 11.5 8.67613 12.4482 10.364 14.136C12.0518 15.8239 13 18.1131 13 20.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M4 4.5C8.24346 4.5 12.3131 6.18571 15.3137 9.18629C18.3143 12.1869 20 16.2565 20 20.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M5 20.5C5.55228 20.5 6 20.0523 6 19.5C6 18.9477 5.55228 18.5 5 18.5C4.44772 18.5 4 18.9477 4 19.5C4 20.0523 4.44772 20.5 5 20.5Z"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>    
+            <p class="rss-p">RSS</p>
+            </a>
+        </div>
+
+    </div>
+    <div class="searchbar search-container">
+        <i class="fa fa-search" aria-hidden="true"></i>
+        <label for="search-input"></label>
+        <input type="text" oninput="changeResultContainerDisp(this.value)" id="search-input" autocomplete="off" placeholder="Search..."/>
+        <ul id="results-container"></ul>
+    </div>
+    <script src="/assets/js/simple-jekyll-search.min.js"></script>
+    <script>
+        function changeResultContainerDisp(val) {
+            if (val) {
+                document.getElementById("results-container").style.display = "block";
+                document.getElementById("search-input").addEventListener('blur', function() {
+                    document.addEventListener('click', function(event) {
+                        var isClickInside = document.getElementById("results-container").contains(event.target);
+                        if (!isClickInside) {
+                            document.getElementById("results-container").style.display = "none";
+                        }
+                    })
+                }) 
+            }  else {
+                document.getElementById("results-container").style.display = "none";
+            }
+        }
+        var sjs = SimpleJekyllSearch({
+                    searchInput: document.getElementById('search-input'),
+                    resultsContainer: document.getElementById('results-container'),
+                    json: '/search.json',
+                    searchResultTemplate: '<li class="search_res" style="list-style: none;"><a href="{{ site.url }}{url}" style="text-decoration: none; color: #555555;"><p style="font-size: 1.0rem; font-family: "Inter !important"; font-weight: 600;">{title}</p></a></li>',
+                    noResultsText: 'No results found',
+                    fuzzy: false,
+                    limit: 4
+                    })
+
+
+
+    </script>
+    {%- if page.permalink != "/" -%}
+    <div class="main-site-subheader disable-select" id="scroll-head" onclick="window.location.assign('/');">
+        <div class="back-icon">
+            <svg class="ripple" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0z" fill="none"/>
+                <path d="M21 11H6.83l3.58-3.59L9 6l-6 6 6 6 1.41-1.41L6.83 13H21z"/>
+            </svg>
+        </div>
+        <p class="back-p">Accueil</p>
+    </div>
+    {%- endif -%}
+
+    <script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+       tex2jax: {
+           inlineMath: [ ['$','$'], ['\\(', '\\)'] ],
+           displayMath: [ ['$$','$$'], ['\\[', '\\]'] ],
+           processEscapes: true
+               }
+           });
+</script>
+
+</header>

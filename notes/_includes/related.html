@@ -1,0 +1,105 @@
+
+{%- if page.content-type == "notes" -%}
+{%- assign sameTagCount = 0 -%}
+{%- assign minCommonTags =  1 -%}
+{%- for note in site.notes -%}
+{%- assign commonTags = '' -%}
+{%- for tag in note.tags -%}
+  {%- if note.url != page.url -%}
+    {%- if page.tags contains tag -%}
+      {%- unless note.content contains page.title -%}
+        {%- assign sameTagCount = sameTagCount | plus: 1 -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+{%- if sameTagCount >= minCommonTags-%}
+<div class="related" id="jekyll-seamless-relatedposts">
+    <h4 class="medium-small">Related Posts </h4>
+    <div class="related-wrapper">
+    {%- assign maxRelated = 100 -%}
+    {%- assign minCommonTags =  1 -%}
+    {%- assign maxRelatedCounter = 0 -%}
+    {%- for note in site.notes -%}
+        {%- assign sameTagCount = 0 -%}
+        {%- assign commonTags = '' -%}
+        {%- for tag in note.tags -%}
+          {%- if note.url != page.url -%}
+            {%- if page.tags contains tag -%}
+              {%- unless note.content contains page.title -%}
+                {%- assign sameTagCount = sameTagCount | plus: 1 -%}
+                {%- capture tagmarkup -%} <span class="label label-default">{{ tag }}</span> {%- endcapture -%}
+                {%- assign commonTags = commonTags | append: tagmarkup -%}
+              {%- endunless -%}
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+        {%- if sameTagCount >= minCommonTags -%}
+          <div class="related-group"><a href="{{note.url}}">
+            <p class="related-title">{{ note.title }}</p>
+            <p class="related-excerpt">{{ note.content | markdownify | strip_html | truncate: 140 }}</p>
+          </a></div>
+          {%- assign maxRelatedCounter = maxRelatedCounter | plus: 1 -%}
+          {%- if maxRelatedCounter >= maxRelated -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endif -%}
+    {%- endfor -%}
+    </div>
+      <br/>
+</div>   
+{%- endif -%} 
+{%- endif -%}
+
+{%- if page.content-type == "post" -%}
+{%- assign sameTagCount = 0 -%}
+{%- assign minCommonTags =  1 -%}
+{%- for post in site.posts -%}
+{%- for tag in post.tags -%}
+  {%- if post.url != page.url -%}
+    {%- if page.tags contains tag -%}
+      {%- unless post.content contains page.title -%}
+        {%- assign sameTagCount = sameTagCount | plus: 1 -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+{%- if sameTagCount >= minCommonTags-%}
+<div class="related" id="jekyll-seamless-relatedposts">
+    <h4 class="medium-small">Related Posts</h4>
+    <div class="related-wrapper">
+    {%- assign maxRelated = 8 -%}
+    {%- assign minCommonTags =  1 -%}
+    {%- assign maxRelatedCounter = 0 -%}
+    {%- for post in site.posts -%}
+        {%- assign sameTagCount = 0 -%}
+        {%- assign commonTags = '' -%}
+        {%- for tag in post.tags -%}
+          {%- if post.url != page.url -%}
+            {%- if page.tags contains tag -%}
+              {%- unless post.content contains page.title -%}
+                {%- assign sameTagCount = sameTagCount | plus: 1 -%}
+                {%- capture tagmarkup -%} <span class="label label-default">{{ tag }}</span> {%- endcapture -%}
+                {%- assign commonTags = commonTags | append: tagmarkup -%}
+              {%- endunless -%}
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+        {%- if sameTagCount >= minCommonTags -%}
+          <div class="related-group"><a href="{{post.url}}">
+            <p class="related-title">{{ post.title }}</p>
+            <p class="related-excerpt">{{ post.content | markdownify | strip_html | truncate: 140 }}</p>
+          </a></div>
+          {%- assign maxRelatedCounter = maxRelatedCounter | plus: 1 -%}
+          {%- if maxRelatedCounter >= maxRelated -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endif -%}
+    {%- endfor -%}
+    </div>
+      <br/>
+    </div>
+{%- endif -%}
+{%- endif -%}

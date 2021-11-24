@@ -1,0 +1,76 @@
+
+
+{%- if page.permalink == "/" -%}
+    {%- for item in site.notes -%}
+        {%- if item.season == 'summer' -%}
+        <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+            <a href="{{item.url}}" style="text-decoration: none; color: #555555;">
+            {%- if item.status == "Ongoing" or item.status == "ongoing" -%}
+            <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+            <li style="padding: 0 5px; border-radius: 10px;" class="tag"><b>Status: </b>{{item.status | capitalize }}</li>
+            </ul>
+            <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+            {%- else -%}
+                <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+                    <li style="padding: 0 5px; border-radius: 10px;" class="tag">{{item.tags[0]}}</li>
+                </ul>
+                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+            {%- endif -%}
+            <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100}}</p>
+            </a>
+        </div>
+        {%- endif -%}
+    {%- endfor -%}
+    {%- for item in site.notes -%}
+        {%- if item.season == 'spring' -%}
+        <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+            <a href="{{item.url}}" style="text-decoration: none; color: #555555;">
+                {%- if item.status == "Ongoing" or item.status == "ongoing" -%}
+                <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+                    <li style="padding: 0 5px; border-radius: 10px;" class="tag"><b>Status: </b>{{item.status | capitalize }}</li>
+                </ul>
+                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+                {%- else -%}
+                <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+                    <li style="padding: 0 5px; border-radius: 10px;" class="tag">{{item.tags[0]}}</li>
+                </ul>
+                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+                {%- endif -%}
+                <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100}}</p>
+            </a>
+        </div>
+        {%- endif -%}
+    {%- endfor -%}
+    {%- for item in site.notes -%}
+        {%- if item.season == 'winter' -%}
+        <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+            <a href="{{item.url}}" style="text-decoration: none; color: #555555;">
+                {%- if item.status == "Ongoing" or item.status == "ongoing" -%}
+                <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+                    <li style="padding: 0 5px; border-radius: 10px;" class="tag"><b>Status: </b>{{item.status | capitalize }}</li>
+                </ul>
+                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+                {%- else -%}
+                <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+                    <li style="padding: 0 5px; border-radius: 10px;" class="tag">{{item.tags[0]}}</li>
+                </ul>
+                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+                {%- endif -%}
+                <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100}}</p>
+            </a>
+        </div>
+        {%- endif -%}
+        {%- endfor -%}
+{%- endif -%}
+
+{%- if page.permalink == "/notes" -%}
+{%- for item in site.notes -%}
+<div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+    <a href="{{item.url}}" style="text-decoration: none; color: #333333;">
+        <p class="feed-title">{{ item.title }}</p>
+        <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100 }}</p>
+    </a>
+</div>
+{%- endfor -%}
+{%- endif -%}
+
