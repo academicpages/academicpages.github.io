@@ -1,0 +1,3 @@
+[build]
+  command = "jekyll build --trace"
+  publish = "_site"
