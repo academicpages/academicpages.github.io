@@ -3,7 +3,7 @@ title: "Fundamentos de Matemática Elmentar I - DCET0088"
 collection: teaching
 type: "Curso de Matemática"
 permalink: /teaching/fme1
-venue: "UESB, DCET"
+venue: "DCET, UESB"
 date: 2021-12-06
 location: "Vitória da Conquista-Ba, Brasil"
 ---
@@ -20,7 +20,9 @@ Serão consideradas para a avaliação listas de exercícios e provas escritas p
 
 Bibliografia
 ======
-* Lima, E. L., Carvalho, P. C. P., Wagner, E., Morgado, A. C., A Matemática no Ensino Médio, Volume 1, Coleção do Professor de Matemática, SBM, 2006
+* do Carmo, M. P., Morgado, A. C., Wagner, E., Trigonometria e Números Complexos, Coleção do Professor de Matemática, SBM, 1992.
+
+* Lima, E. L., Carvalho, P. C. P., Wagner, E., Morgado, A. C., A Matemática no Ensino Médio, Volume 1, Coleção do Professor de Matemática, SBM, 2006.
 
 Plano de Curso
 ======
