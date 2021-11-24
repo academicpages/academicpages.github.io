@@ -3,7 +3,7 @@ title: "Equações Diferenciais - DCET0116"
 collection: teaching
 type: "Curso de Matemática"
 permalink: /teaching/edos
-venue: "UESB, DCET"
+venue: "DCET, UESB"
 date: 2021-12-06
 location: "Vitória da Conquista-Ba, Brasil"
 ---
@@ -16,11 +16,18 @@ Introdução às equações diferenciais. Equações diferenciais ordinárias de
 
 Avaliação
 ======
-Serão consideradas para a avaliação uma prova escrita para cada uma das três unidades. 
+Serão consideradas para a avaliação uma prova escrita para cada uma das três unidades. A média final será a média aritmética simples das notas de cada unidade. 
 
 Bibliografia
 ======
-* Lima, E. L., Carvalho, P. C. P., Wagner, E., Morgado, A. C., A Matemática no Ensino Médio, Volume 1, Coleção do Professor de Matemática, SBM, 2006
+* Boyce, W. E., DiPrima, R. C., Equações Diferenciais Elementares e Problemas de Valores de Contorno, LTC, 2002.
+* Braun, M., Equações Diferenciais e suas Aplicações, Editora Campus, 1979.
+* Coddington, E. A., An Introduction to Ordinary Differential Equations, Dover, 1961.
+* de Figueiredom, D. G, Neves, A. F., Equações Diferenciais Aplicadas, Coleção Matemática Universitária, IMPA, 2007.
+* Kreider, D. et all, Introdução à Análise Linear, Volume 1, Ao Livro Técnico S/A, 1972.
+* Machado, K. D., Equações Dferenciais Aplicadas à Física, Editora UEPG, 3a Edição, 2004. 
+* de Oliveira, E. C., Tygel, M., Métodos Matemáticos para Engenharia, Textos Universitários, SBM, 2010.
+* Zill, D. G., Equações Diferenciais com Aplicações em Modelagem, Thomson, 2003.
 
 Plano de Curso
 ======
