@@ -30,6 +30,8 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 # Talks
 
+**An Introduction to Continuum-armed Bandits with extension to the finite setting**, Novembre 23rd, 2021, Institut für Mathematik, Potsdam.
+
 **Robust estimation in network with outliers and missing links**, Octobre 21st, MAD-STAT seminar, Toulouse School of Economics.
 
 **Outliers Detection in Networks with Missing Links**, July 8th, 2021, ["Data Science, Statistics & Visualisation and European Conference on Data Analysis 2021”](https://iasc-isi.org/dssv-ecda2021/)
