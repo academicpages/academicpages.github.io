@@ -6,4 +6,7 @@ author_profile: true
 ---
 
 * Continuous optimization
+======
+
 * Computational Modelling
+======
