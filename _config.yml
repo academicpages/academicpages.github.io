@@ -86,7 +86,7 @@ author:
   location         : "Orsay - France"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "https://scholar.google.com/citations?user=cxgVVJcAAAAJ&hl=fr&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=cxgVVJcAAAAJ&hl=fr&oi=sra"
   #email            : "solenne.gaucher[at]math.u-psud.fr
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
