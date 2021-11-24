@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiqi Xu(徐世奇) website under construction.."
+title                    : "Shiqi Xu/徐世奇 website under construction.."
 title_separator          : "-"
 name                     : &name "shiqiXu"
 description              : &description "personal description"
