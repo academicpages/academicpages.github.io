@@ -20,14 +20,14 @@ Serão consideradas para a avaliação uma prova escrita para cada uma das três
 
 Bibliografia
 ======
-* Boyce, W. E., DiPrima, R. C., Equações Diferenciais Elementares e Problemas de Valores de Contorno, LTC, 2002.
-* Braun, M., Equações Diferenciais e suas Aplicações, Editora Campus, 1979.
-* Coddington, E. A., An Introduction to Ordinary Differential Equations, Dover, 1961.
-* de Figueiredom, D. G, Neves, A. F., Equações Diferenciais Aplicadas, Coleção Matemática Universitária, IMPA, 2007.
-* Kreider, D. et all, Introdução à Análise Linear, Volume 1, Ao Livro Técnico S/A, 1972.
-* Machado, K. D., Equações Dferenciais Aplicadas à Física, Editora UEPG, 3a Edição, 2004. 
-* de Oliveira, E. C., Tygel, M., Métodos Matemáticos para Engenharia, Textos Universitários, SBM, 2010.
-* Zill, D. G., Equações Diferenciais com Aplicações em Modelagem, Thomson, 2003.
+1. Boyce, W. E., DiPrima, R. C., Equações Diferenciais Elementares e Problemas de Valores de Contorno, LTC, 2002.
+2. Braun, M., Equações Diferenciais e suas Aplicações, Editora Campus, 1979.
+3. Coddington, E. A., An Introduction to Ordinary Differential Equations, Dover, 1961.
+4. de Figueiredom, D. G, Neves, A. F., Equações Diferenciais Aplicadas, Coleção Matemática Universitária, IMPA, 2007.
+5. Kreider, D. et all, Introdução à Análise Linear, Volume 1, Ao Livro Técnico S/A, 1972.
+6. Machado, K. D., Equações Dferenciais Aplicadas à Física, Editora UEPG, 3a Edição, 2004. 
+7. de Oliveira, E. C., Tygel, M., Métodos Matemáticos para Engenharia, Textos Universitários, SBM, 2010.
+8. Zill, D. G., Equações Diferenciais com Aplicações em Modelagem, Thomson, 2003.
 
 Plano de Curso
 ======
