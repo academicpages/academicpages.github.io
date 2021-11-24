@@ -25,3 +25,7 @@ Bibliografia
 Plano de Curso
 ======
 Disponível no sistema SAGRES.
+
+Listas de Exercícios
+======
+* Lista 01
