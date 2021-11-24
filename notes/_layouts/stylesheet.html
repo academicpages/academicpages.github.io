@@ -1,4 +1,0 @@
----
-layout: none
----
-{{ content | scssify }}
