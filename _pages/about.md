@@ -12,7 +12,7 @@ I am a PhD student in [Computational Optics Lab](http://horstmeyer.pratt.duke.ed
 
 Before arriving at Duke, I was an M.S. student at Washington University working on computational imaging and large-scale optimization problems in [Computational Imaging Group](https://cigroup.wustl.edu/).
 
-Outside of research, I played the violin. Three of my current favorite orchastral works are Tchaikovsky's Fifth, Mahler's Ninth, and Mendelssohn's Third. My favorite Kantata is BWV147, and I prefer Bach(BWV1001-1006, for instance) to be played in an extensively researched but more contemporary way. In my humble opinion, [Augustin Hadelich](https://www.youtube.com/watch?v=8WV15SoAq3I) has done a terrific job.
+Outside of research, I played the violin. Three of my current favorite orchastral works are Tchaikovsky's Fifth, Mahler's Ninth, and Mendelssohn's Third. My favorite Kantata is BWV147, and I prefer Bach (BWV1001-1006, for instance) to be played in an extensively researched but more contemporary way. In my humble opinion, [Augustin Hadelich](https://www.youtube.com/watch?v=8WV15SoAq3I) has done a terrific job.
 
 News
 ======
