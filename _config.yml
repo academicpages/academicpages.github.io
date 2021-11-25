@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lixin Su"
 title_separator          : "-"
 name                     : &name "Lixin Su"
-description              : &description "CS Ph.D. Candidate at ICT,CAS"
+description              : &description "Senior R&D at Biadu Inc"
 url                      : https://lixinsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lixin Su"
   avatar           : "me.jpg"
-  bio              : "CS Ph.D. Candidate at ICT,CAS"
+  bio              : "Senior R&D at Biadu Inc"
   location         : "Beijing, China"
   employer         :  
   pubmed           : 
@@ -102,14 +102,12 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "%E7%AB%8B%E6%96%B0-%E8%8B%8F-58b058121/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LoooBottle"
   vine             :
   weibo            :
   xing             :
