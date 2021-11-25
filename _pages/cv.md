@@ -40,14 +40,14 @@ Work experience
   * Emotion recognition from Speech
   * Supervisor: Professor Kishore Prahallad
  
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
+Skills
+======
+* Python
+* Tensorflow
+* Pytorch
+* C++
+* Java
+* Matlab
 
 Publications
 ======
@@ -55,14 +55,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards and Achievements
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Participated and won ML4SETI Hackathon'17 under the "Best Classifier without Neural Networks and Signal Processing" category at San Francisco, USA.
+* Awarded "President's Gold Medal" by the university (DA-IICT) for achieving first rank and academic excellence in undergraduate studies.
+* Awarded "Merit Medal and Certificate" by institution of Engineers India, Gujarat State Center for achieving academic excellence at Undergrad level.
+* Awarded Summer Research fellowship by "Indian Academy of Sciences, Bangalore" to do research at IIIT Hyderabad in May 2013.
