@@ -1,0 +1,10 @@
+---
+title: "A priori guarantees of finite-time convergence for Deep Neural Networks"
+collection: publications
+permalink: /publication/2020-09-16-A-priori-guarantees-of-finite-time-convergence-for-Deep-Neural-Networks-number-1
+excerpt: 'In this paper, we perform Lyapunov based analysis of the loss function to derive an a priori upper bound on the settling time of deep neural networks. While previous studies have attempted to understand deep learning using control theory framework, there is limited work on a priori finite time convergence analysis. Drawing from the advances in analysis of finite-time control of non-linear systems, we provide a priori guarantees of finite-time convergence in a deterministic control theoretic setting. We formulate the supervised learning framework as a control problem where weights of the network are control inputs and learning translates into a tracking problem. An analytical formula for finite-time upper bound on settling time is computed a priori under the assumptions of boundedness of input. Finally, we prove the robustness and sensitivity of the loss function against input perturbations.'
+date: 2020-09-16
+venue: 'arXiv preprint arXiv:2009.0750'
+paperurl: 'https://arxiv.org/abs/2009.07509'
+---
+In this paper, we perform Lyapunov based analysis of the loss function to derive an a priori upper bound on the settling time of deep neural networks. While previous studies have attempted to understand deep learning using control theory framework, there is limited work on a priori finite time convergence analysis. Drawing from the advances in analysis of finite-time control of non-linear systems, we provide a priori guarantees of finite-time convergence in a deterministic control theoretic setting. We formulate the supervised learning framework as a control problem where weights of the network are control inputs and learning translates into a tracking problem. An analytical formula for finite-time upper bound on settling time is computed a priori under the assumptions of boundedness of input. Finally, we prove the robustness and sensitivity of the loss function against input perturbations.
