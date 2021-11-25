@@ -20,7 +20,7 @@ Education
   * **Institute of Computing Technology, Chinese Academy of Sciences**
     * M.S. in Computer Science, 2015 - 2017
     * Advisor: Assoc Prof. [Ying Liang](http://sourcedb.ict.cas.cn/cn/jssrck/200909/t20090917_2496667.html)
-  * **Beijing Jiatong University**
+  * **Beijing Jiaotong University**
     * B.E. in Electrical Engineering , 2011 - 2015
   
 <style>
