@@ -1,7 +1,7 @@
 ---
 title: "Equações Diferenciais - DCET0116"
 collection: teaching
-type: "Curso de Matemática"
+type: "Curso de Física"
 permalink: /teaching/edos
 venue: "DCET, UESB"
 date: 2021-12-06
