@@ -15,8 +15,8 @@ I am a Research Assistant Professor in the Urban Governance and Design Thrust Ar
 
 Contact
 ======
-Urban Governance and Design Thrust, Society Hub \\ 
-The Hong Kong University of Science and Technology (Guangzhou) \\ 
+Urban Governance and Design Thrust, Society Hub <br>
+The Hong Kong University of Science and Technology (Guangzhou) <br>
 Nansha, Guangzhou, China 
 
 
