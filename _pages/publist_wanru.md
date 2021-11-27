@@ -1,11 +1,9 @@
 ---
 permalink: /publication/
-title: ""
+title: "Publications"
 author_profile: true
 
 ---
-## Publications
-
 1. <span style="font-size:0.9em;">**Dynamics between Regional Sex Ratios at Birth and Sex Ratios at Prime Marriageable Ages in China**    
    Xiong, W.         
   *Population and Development Review*, 2021, accepted 
