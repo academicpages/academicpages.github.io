@@ -1,0 +1,165 @@
+body {
+ background-color:#fff;
+ padding:50px;
+ font-family: 'Source Sans Pro', Arial, sans-serif;
+ font-size: 15.5px;
+ line-height: 1.5;
+ color:#424242;
+ font-weight:400
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ color:rgba(87,6,140,1)
+}
+h1,
+h3,
+h4,
+h5,
+h6 {
+ margin:0 0 20px
+}
+h2 {
+ margin:35px 0 20px	 
+}
+p {
+ margin:0 0 20px
+}
+h1,
+h2,
+h3 {
+ line-height:1.1
+}
+h1 {
+ font-family: 'Source Sans Pro', Arial, Verdana, sans-serif;
+ font-size:32px
+}
+h2 {
+ color:#393939
+}
+h3,
+h4,
+h5,
+h6 {
+ color:#494949
+}
+.subtext {
+ font-weight: normal;
+}
+p {
+ text-align: justify;
+ text-justify: inter-word
+}
+a {
+ color:rgba(87,6,140,1); 
+ text-decoration:none
+}
+a:hover {
+text-decoration: underline;
+}
+.wrapper {
+ width:860px;
+ margin:0 auto
+}
+img {
+ max-width:100%
+}
+header {
+ width:270px;
+ float:left;
+ position:fixed;
+ -webkit-font-smoothing:subpixel-antialiased
+}
+strong {
+ color:#222;
+ font-weight:700
+}
+section {
+ width:550px;
+ float:right;
+ padding-bottom:50px
+}
+small {
+ font-size:11px
+}
+hr {
+ border:0;
+ background:#e5e5e5;
+ height:1px;
+ margin:0 0 20px
+}
+footer {
+ width:270px;
+ float:left;
+ position:fixed;
+ bottom:50px;
+ -webkit-font-smoothing:subpixel-antialiased
+}
+@media print, screen and (max-width: 960px) {
+ div.wrapper {
+  width:auto;
+  margin:0
+ }
+ header,
+ section,
+ footer {
+  float:none;
+  position:static;
+  width:auto
+ }
+ header {
+  padding-right:320px
+ }
+ section {
+  border:1px solid #e5e5e5;
+  border-width:1px 0;
+  padding:20px 0;
+  margin:0 0 20px
+ }
+ header a small {
+  display:inline
+ }
+ header ul {
+  position:absolute;
+  right:50px;
+  top:52px
+ }
+}
+@media print, screen and (max-width: 720px) {
+ body {
+  word-wrap:break-word
+ }
+ header {
+  padding:0
+ }
+ header ul,
+ header p.view {
+  position:static
+ }
+ pre,
+ code {
+  word-wrap:normal
+ }
+}
+@media print, screen and (max-width: 480px) {
+ body {
+  padding:15px
+ }
+ header ul {
+  width:99%
+ }
+ header li,
+ header ul li+li+li {
+  width:33%
+ }
+}
+@media print {
+ body {
+  padding:0.4in;
+  font-size:12pt;
+  color:#444
+ }
+}
