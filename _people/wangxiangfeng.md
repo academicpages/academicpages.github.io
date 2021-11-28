@@ -7,7 +7,6 @@ permalink: /people/xfwang
 ### Personal Information
 - Associate Professor
 - School of Computer Science and Technology, East China Normal University
-- Shanghai Research Institute for Intelligent Autonomous Systems
 - Email: xfwang at cs.ecnu.edu.cn
 
 ---
@@ -54,9 +53,9 @@ permalink: /people/xfwang
 1. X. Fu, B. He, **Xiangfeng Wang**, and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. Splitting Algorithms, Modern Operator Theory, and Applications, 2019.
 
 #### Journal 
-1. J. Sheng, Yiqiu Hu, W. Zhou, L. Zhu, Bo Jin, J. Wang, and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, Pattern Recognition, accepted, 2021.
-2. W. Li, **Xiangfeng Wang**, Bo Jin, D. Luo, and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space, IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2021.
-3. **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng, and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. Set-Valued and Variational Analysis, accepted, 2020.
+1. W. Li, **Xiangfeng Wang**, Bo Jin, D. Luo, and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space, IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2021.
+2. **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng, and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. Set-Valued and Variational Analysis, accepted, 2020.
+3. J. Sheng, Yiqiu Hu, W. Zhou, L. Zhu, B. Jin, J. Wang, and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, Pattern Recognition, 121, 2022, pp.108254.
 4. C. Ma, Q. Xu, **Xiangfeng Wang**, Bo Jin, X. Zhang, Y. Wang, and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. IEEE Transactions on Medical Imaging, 40(10), 2021, pp.2563-2574.
 5. **Xiangfeng Wang**, J. Yan, B. Jin, and W. Li, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. IEEE Transactions on Cybernetics, 51(9), 2021, pp.4540-4552.
 6. Y. Song, T. Liu, T. Wei, **Xiangfeng Wang**, Z. Tao, and M. Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. IEEE Transactions on Industrial Informatics, 17(11), 2021, pp.7830-7838.
@@ -109,6 +108,6 @@ permalink: /people/xfwang
 
 ### Professional Membership and Services
 - Youth Director of Shanghai Operations Research Association/上海市运筹学会青年委员
-- Youth Director of Shanghai Computer Science Association/上海市计算机学会青工委通讯委员
+- Youth Director of Shanghai Computer Science Association/上海市计算机学会青工委委员
 
 ---
