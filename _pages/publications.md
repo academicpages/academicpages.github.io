@@ -16,19 +16,21 @@ author_profile: true
 - X. Fu, B. He, **Xiangfeng Wang** and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. *Splitting Algorithms, Modern Operator Theory, and Applications*, 2019.
 
 ## Accepted Paper List
-- **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, *Pattern Recognition*, accepted, 2021.
-- **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, D. Luo and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, accepted, 2021.
-- **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2020.
+- **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, D. Luo and **Hongyuan Zha**, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, accepted, 2021.
+- **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2021.
+
+## 2022
+- **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, *Pattern Recognition*, 121, 2021, pp.108254.
 
 ## 2021
 - C. Ma, **Qisen Xu**, **Xiangfeng Wang**, **Bo Jin**, X. Zhang, Y. Wang and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. *IEEE Transactions on Medical Imaging*, 40(10), 2021, pp.2563-2574.
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, 51(9), 2021, pp.4540-4552.
 - Y. Song, T. Liu, T. Wei, **Xiangfeng Wang**, Z. Tao and M. Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. *IEEE Transactions on Industrial Informatics*, 17(11), 2021, pp.7830-7838.
 - B. Wang, **Tingyu Wu**, **Wenhao Li**, **Da Huang**, **Bo Jin**, F. Yang, A. Zhou and **Xiangfeng Wang**, Large-scale UAVs Confrontation via Multi-agent Reinforcement Learning. *Journal of System Simulation*, 33(8), 2021, pp.1-15. (Chinese version)
-- **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and H. Zha, Hyper-Meta Reinforcement Learning with Sparse Reward. *KDD*, 2021.
-- **Wenyan Liu**, **Chuyun Shen**, **Xiangfeng Wang**, **Bo Jin**, X. Lu, X. Wang, H. Zha and J. He, Fairness in Trustworthy Machine Learning: A Survey. *Journal of Software*, 32(5), 2021, pp.1404-1426. (Chinese version)
+- **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. *KDD*, 2021.
+- **Wenyan Liu**, **Chuyun Shen**, **Xiangfeng Wang**, **Bo Jin**, X. Lu, X. Wang, **Hongyuan Zha** and J. He, Fairness in Trustworthy Machine Learning: A Survey. *Journal of Software*, 32(5), 2021, pp.1404-1426. (Chinese version)
 - **Qisen Xu**, **Qian Wu**, **Hu Yiqiu**, **Bo Jin**, B. Hu, F. Zhu, Y. Li and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. *IJCNN*, 2021.
-- **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, **Junjie Sheng**, **Yun Hua** and H. Zha, Structured Diversification Emergence via Reinforced Organization Control and Hierachical Consensus Learning. *AAMAS* (oral), 2021.
+- **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, **Junjie Sheng**, **Yun Hua** and **Hongyuan Zha**, Structured Diversification Emergence via Reinforced Organization Control and Hierachical Consensus Learning. *AAMAS* (oral), 2021.
 
 ## 2020
 - **Xiangfeng Wang**, J. Zhang and W. Zhang, The Distance Between Convex Sets with Minkowski Sum Structure: Application to Collision Detection. *Computational Optimization and Applications*, 77, 2020, pp.465–490.
@@ -42,17 +44,15 @@ author_profile: true
 
 - C. Li, **Xiangfeng Wang**, W. Dong, J. Yan, Q. Liu and **Hongyuan Zha**, Active Sample Learning and Feature Selection: A Unified Approach. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 41(6), 2019, pp.1382-1396.
 - C. Li, F. Wei, W. Dong, Q. Liu, **Xiangfeng Wang** and X. Zhang, Dynamic Structure Embedded Online Multiple-output Regression for Streaming Data. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 41(2), 2019, pp.323-336.
-- Y. Xie, **Xiangfeng Wang**, R. Wang and **Hongyuan Zha**, A Fast Proximal Point Method for Computing Exact Wasserstein Distance. *UAI* (oral), 2019.
-- M. Zhang, C. Li, **Xiangfeng Wang**, Multi-View Metric Learning for Multi-Label Image Classification. *ICIP*, 2019.
+- Y. Xie, **Xiangfeng Wang**, R. Wang and **Hongyuan Zha**, A Fast Proximal Point Method for Computing Exact Wasserstein Distance. *UAI*, 2019.
 - **Wenhao Li**, **Bo Jin** and **Xiangfeng Wang**, SparseMAAC: Sparse Attention for Multi-agent Reinforcement Learning. *DASFAA*, 2019.
-- **Jinghui Cai**, Boyang Wang, **Xiangfeng Wang** and **Bo Jin**, Accelerate Black-Box Attack with White-Box Prior Knowledge. *IScIDE*, 2019.
 
 ## 2018
 
 - H. Yue, Q. Yang, **Xiangfeng Wang** and X. Yuan, Implementing the ADMM to Big Datasets: A Case Study of LASSO. *SIAM Journal on Scientific Computing*, 40(5), 2018, pp.A3121-A3156.
-- **Xiangfeng Wang**, W. Zhang, J. Yan, X. Yuan and H. Zha, On the Flexibility of Block Coordinate Descent for Large-Scale Optimization. *Neurocomputing*, 272, 2018, pp.471-480.
+- **Xiangfeng Wang**, W. Zhang, J. Yan, X. Yuan and **Hongyuan Zha**, On the Flexibility of Block Coordinate Descent for Large-Scale Optimization. *Neurocomputing*, 272, 2018, pp.471-480.
 - H.T. Zhao, S.Y. Sun, **Bo Jin**. Sequential Fault Diagnosis based on LSTM Neural Network. *IEEE Access*, 2018.
-- **Wenjie Zhang**, J. Yan, **Xiangfeng Wang** and **Hongyuan Zha**, Deep eXtreme Multi-label Learning. *ICMR* (oral), 2018.
+- **Wenjie Zhang**, J. Yan, **Xiangfeng Wang** and **Hongyuan Zha**, Deep eXtreme Multi-label Learning. *ICMR*, 2018.
 
 ## 2017
 
@@ -81,7 +81,7 @@ author_profile: true
 
 - **Bo Jin**, Z.L. Jing and H.T. Zhao. EVD Dualdating based Online Subspace Learning. *Mathematical Problems in Engineering*, 2014.
 - **Bo Jin**, Z.L. Jing, M. Wang and H. Pan. Robust Visual Multi-task Tracking via Composite Sparse Model. *Journal of Electronic Imaging*, 2014, 23(6).
-- **Xiangfeng Wang**, M. Hong, T.-H. Chang, M. Razaviyayn and Z.-Q. Luo, Joint Day-Ahead Power Procurement and Load Scheduling using Stochastic ADMM. *ICASSP* (oral), 2014.
+- **Xiangfeng Wang**, M. Hong, T.-H. Chang, M. Razaviyayn and Z.-Q. Luo, Joint Day-Ahead Power Procurement and Load Scheduling using Stochastic ADMM. *ICASSP*, 2014.
 
 ## 2013
 
