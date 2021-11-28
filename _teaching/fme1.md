@@ -1,5 +1,5 @@
 ---
-title: "Fundamentos de Matemática Elmentar I - DCET0088"
+title: "Fundamentos de Matemática Elementar I - DCET0088"
 collection: teaching
 type: "Curso de Matemática"
 permalink: /teaching/fme1
@@ -27,4 +27,8 @@ Bibliografia
 Plano de Curso
 ======
 Disponível no sistema SAGRES.
+
+Listas de Exercícios
+======
+* Lista 01
 
