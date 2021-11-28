@@ -9,6 +9,8 @@ author_profile: yes
 
 [**Material de um minicurso de SageMath para físicos que ministrei na Unesp/FEG**](curso_sage.md)
 
+[Exemplos de superfícies](surf_sage.md)
+
 ## Por que usar o SageMath?
 
 Abaixo estão alguns pontos elencados no livro [Elementos de Computação Matemática com SageMath](https://sagectu.com.br/index.html), publicado pela editora da [Sociedade Brasileira de Matemática](https://www.sbm.org.br/), em favor do SageMath:
@@ -26,6 +28,8 @@ Além disso há o projeto [SageManifolds](https://sagemanifolds.obspm.fr/index.h
 ## Onde aprender a usar?
 
 ### Tutoriais
+
+- [Gria de referência rápida](https://rogeriotc.github.io/files/quickref-calc.pdf)
 
 - [Tutorial oficial de funcionalidades básicas (em português)](https://doc.sagemath.org/html/pt/tutorial/index.html)
 

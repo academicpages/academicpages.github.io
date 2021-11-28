@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Superfícies de revolução"
+title: "Exempplos de superfícies produzidas no sage"
 permalink: /sagemath/surf/
 author_profile: true
 ---
+
+## Superfícies de revolução
 
 [Laterais de tronco de cone](https://rogeriotc.github.io/files/surf_rev.html)
 
