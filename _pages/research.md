@@ -8,7 +8,11 @@ permalink: /research/
 
 ## Research
 
-**Search Methods for Sufficient, Socially-Aligned Feature Importance Explanations with In-Distribution Counterfactuals**  
+**Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
+Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.13654.pdf) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
+
+**The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations**  
 Peter Hase, Harry Xie, Mohit Bansal  
 *NeurIPS 2021.* [[pdf]](https://arxiv.org/pdf/2106.00786.pdf) [[code]](https://github.com/peterbhase/ExplanationSearch)  
 
