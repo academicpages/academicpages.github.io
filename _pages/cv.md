@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](../files/cv.pdf)
-
 <a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/CV.pdf">PDF version</a>
 
 Education
