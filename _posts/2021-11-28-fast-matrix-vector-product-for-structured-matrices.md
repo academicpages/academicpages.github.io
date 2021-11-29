@@ -14,9 +14,7 @@ Our strategy in computing this is to rearrange $\mathbf{y}$ into a multdimension
 where we let $u^{(1)}_{k_1k_2}$ refer to the entry of the $k_1$-th row and $k_2$-th column of $\mathbf{A}_1$. The second equation above uses [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation) in representing the tensor product and multidimensional array $\mathbf{Y}$. The $k$ indices look a little funky compared to usual tensor notation; in physics we are used to having actual letters such as $i, j, k$ rather than letters with numbers. However, if we have an arbitrary number of Kronecker factors, there may be many, many indices used, so we avoid using any particular letter and instead replace $i, j, k, l, m,...$ with $k_1, k_2, k_3, k_4, k_5,...$.
 
 The rule for Einstein notation is that when an index appears twice, we sum over it, also described as "contraction" over that index. Contracting the repeated indices, the result of the above procedure is an array $\mathbf{Z}$ of the same dimensions as $\mathbf{Y}$ running over indices $k_1, k_3,...,k_{2J-1}$ which has been transformed by the repeated application of the matrix and tensor product operations and which satisfies the equality 
-\begin{equation}
-    Vec(\mathbf{Z})=\left(\bigotimes_{j=1}^J \mathbf{A}_j \right) \mathbf{y}.
-\end{equation}
+$$Vec(\mathbf{Z})=\left(\bigotimes_{j=1}^J \mathbf{A}_j \right) \mathbf{y}.$$
 Since each of the $J$ tensor contractions involves a sum involving $N_j$ terms, each of which makes use of all $N$ elements in $\mathbf{Y}$, the overall complexity of this algorithm is $\mathcal{O}(N \cdot \sum_{j=1}^J N_j)$, which compares favorably with the naive $\mathcal{O}(N^2)$. 
 
 This entire procedure can be run in a single call to the `einsum` function available in Numpy.
