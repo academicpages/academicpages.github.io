@@ -16,7 +16,7 @@ For the past 5+ years, I have helped numerous clients improve their businesses b
 
 My Background and History
 ======
-I received my masters of arts degree in Mathematics at San Francisco State University in 2016. During that time, I wrote my thesis on ![relating gene expression profiling to copy number changes with different sub-types of breast cancer] (https://scholarworks.calstate.edu/concern/theses/x920fz53t). Since then, I have went from an Associate Consultant to Consultant to a Senior Consultant with 3 different consulting firms until I reached Microsoft, my current company.  
+I received my masters of arts degree in Mathematics at San Francisco State University in 2016. During that time, I wrote my thesis on "[relating gene expression profiling to copy number changes with different sub-types of breast cancer] (https://scholarworks.calstate.edu/concern/theses/x920fz53t)". Since then, I have went from an Associate Consultant to Consultant to a Senior Consultant with 3 different consulting firms until I reached Microsoft, my current company.  
 
 My Certifications
 ======
