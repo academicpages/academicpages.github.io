@@ -7,7 +7,7 @@ mathjax: true
 comments: true
 ---
 
-In numerical linear algebra for large datasets, a common problem that arises in the analysis of large datasets is the product of a dense but structured $N \times N$ matrix $\mathbf{A} = \bigotimes_{j=1}^J \mathbf{A}_j$ with a similarly dense vector $\mathbf{y}$. We're assuming that $\mathbf{A}$ can be written as the tensor or Kronecker product of $J$ smaller matrices denoted by $\mathbf{A}_j$, each of which has dimension $N_j$. 
+In numerical linear algebra, a common problem that arises in the analysis of large datasets is the product of a dense but structured $N \times N$ matrix $\mathbf{A} = \bigotimes_{j=1}^J \mathbf{A}_j$ with a similarly dense vector $\mathbf{y}$. We're assuming that $\mathbf{A}$ can be written as the tensor or Kronecker product of $J$ smaller matrices denoted by $\mathbf{A}_j$, each of which has dimension $N_j$. 
 
 Our strategy in computing this is to rearrange $\mathbf{y}$ into a multdimensional array and, by contracting indices in an efficient way, avoid an $\mathcal{O}(N^2)$ matrix-vector operation. Some of the commonly used identities of product matrices are available on [Wikipedia](https://en.wikipedia.org/wiki/Kronecker_product), and we'll make use of several of them. We let $\mathbf{Y}$ denote an array formed from the vector $\mathbf{y}$ by reshaping into a form with axis dimensions of $N_1,...,N_J$. By the associative property of the tensor product,
 $$
