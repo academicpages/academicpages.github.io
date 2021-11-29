@@ -1,6 +1,6 @@
 ---
 title: "Bootstraping"
-excerpt: "In this [Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_5/Group5_Lab5_Python.ipynb), we will use bootstrapping tools on the data obtained from the Pennsylvania re-employment bonus experiment. In this case, group 4 ($T4$) is used as the treatment group. "
+excerpt: "In this Python [Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_5/Group5_Lab5_Python.ipynb), we will use bootstrapping tools on the data obtained from the Pennsylvania re-employment bonus experiment. In this case, group 4 ($T4$) is used as the treatment group. "
 
 collection: portfolio
 ---

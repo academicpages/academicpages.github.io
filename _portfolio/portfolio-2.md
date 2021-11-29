@@ -1,6 +1,6 @@
 ---
 title: "Estimating Treatment Effects with Causal Forests: An Application"
-excerpt: "This [Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_6/Group5_Lab6_R.ipynb) replicates the results of the article 'Estimating Treatment Effects with Causal Forests: An Application' by Athey and Wager"
+excerpt: "This R [Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_6/Group5_Lab6_R.ipynb) replicates the results of the article 'Estimating Treatment Effects with Causal Forests: An Application' by Athey and Wager"
 
 collection: portfolio
 ---
