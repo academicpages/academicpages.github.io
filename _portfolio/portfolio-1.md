@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+title: "Analyzing RCT data with Precision Adjustment"
+excerpt: "In the second part of this script,In the second part of these scripts, we analyze the Pennsylvania reemployment bonus experiment that were conductedto test the incentive effects of alternative compensation schemes for unemployment insurance.For this purpose, we used 4 models : CL, CRA ,IRA and IRA with Lasso. As a result, it is found that treatment group 2 experiences an average decrease of about 7.4% in the duration of the unemployment period.It is also observed that CRA, IRA and IRA estimators using Lasso have lower standard errors than the CL estimator, but basically, they all have similar standard errors."
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+collection: portfolio
+paperurl: 'https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Group5_lab3_R.ipynb'
+---
