@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer science, Georgia Institute of Technology, 2021
+* Ph.D in Computer science, Georgia Institute of Technology, Present
   * Ph.D. thesis: -Coming Soon-.
 
 * M.S. of Science in Computer science, University of Victoria, 2018
