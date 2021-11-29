@@ -20,7 +20,7 @@ I received my masters of arts degree in Mathematics at San Francisco State Unive
 
 My Certifications
 ======
-![Applied Data Science with Python - Coursera](coursera.png)
-![Azure Data Engineer Associate](Microsoft_Certified_Professional_Certificate_0.pdf)
-![Azure Data Scientist Associate](Microsoft_Certified_Professional_Certificate_1.pdf)
-![Apache Spark Programming with Databricks](proof-of-completion-245b120e-265c-33e5-9845-dfb902c37ff5.pdf)
+[Applied Data Science with Python - Coursera](coursera.png)
+[Azure Data Engineer Associate](Microsoft_Certified_Professional_Certificate_0.pdf)
+[Azure Data Scientist Associate](Microsoft_Certified_Professional_Certificate_1.pdf)
+[Apache Spark Programming with Databricks](proof-of-completion-245b120e-265c-33e5-9845-dfb902c37ff5.pdf)
