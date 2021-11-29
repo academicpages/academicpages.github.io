@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachael Phillips/nData Expert"
+title                    : "Rachael Phillips \n\n Data Expert"
 title_separator          : "-"
 name                     : &name "Rachael Phillips"
 description              : &description "Hello! My name is Rachael Phillips and I am a Senior Consultant for Microsoft Consulting Services in the Azure Cloud and Artificial Intelligence realm!"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "UC0NlJNSZeP8Nw7c2UTfsWog"
+  youtube          : "0NlJNSZeP8Nw7c2UTfsWog/"
   wikipedia        :
 
 
