@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachael Phillips - Data Expert"
+title                    : "Rachael Phillips Data Expert"
 title_separator          : "-"
 name                     : &name "Rachael Phillips"
-description              : &description "personal description"
+description              : &description "Hello! My name is Rachael Phillips and I am a Senior Consultant for Microsoft Consulting Services in the Azure Cloud and Artificial Intelligence realm!"
 url                      : https://rachaelph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rachaelph/rachaelph.github.io"
