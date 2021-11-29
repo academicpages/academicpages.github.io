@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachael Phillips \n\n Data Expert"
+title                    : "Rachael Phillips - Data Expert"
 title_separator          : "-"
 name                     : &name "Rachael Phillips"
 description              : &description "Hello! My name is Rachael Phillips and I am a Senior Consultant for Microsoft Consulting Services in the Azure Cloud and Artificial Intelligence realm!"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rachael Phillips"
   avatar           : "Snapchat-541433501.jpg"
-  bio              : "All Things Data!"
+  bio              : "Data - It's What I do!"
   location         : "Northern California"
   employer         : "Microsoft"
   pubmed           : 
