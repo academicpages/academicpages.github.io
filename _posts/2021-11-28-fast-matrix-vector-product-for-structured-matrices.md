@@ -7,10 +7,12 @@ comments: true
 In numerical linear algebra for large datasets, a common problem that arises in the analysis of large datasets is the product of a dense but structured $N \times N$ matrix $\mathbf{A} = \bigotimes_{j=1}^J \mathbf{A}_j$ with a similarly dense vector $\mathbf{y}$. We're assuming that $\mathbf{A}$ can be written as the tensor or Kronecker product of $J$ smaller matrices denoted by $\mathbf{A}_j$, each of which has dimension $N_j$. 
 
 Our strategy in computing this is to rearrange $\mathbf{y}$ into a multdimensional array and, by contracting indices in an efficient way, avoid an $\mathcal{O}(N^2)$ matrix-vector operation. Some of the commonly used identities of product matrices are available on [Wikipedia](https://en.wikipedia.org/wiki/Kronecker_product), and we'll make use of several of them. We let $\mathbf{Y}$ denote an array formed from the vector $\mathbf{y}$ by reshaping into a form with axis dimensions of $N_1,...,N_J$. By the associative property of the tensor product,
+$$
 \begin{align}
 \left(\bigotimes_{j=1}^J \mathbf{A}_j \right) \mathbf{y}&=\mathbf{A}_1\otimes\left(\cdot\cdot\cdot\otimes(\mathbf{A}_J\mathbf{Y})\right)\\
 &=u^{(1)}_{k_1,k_2}u^{(2)}_{k_3,k_4}\cdot\cdot\cdot u^{(J)}_{k_{2J-1},k_{2J}}Y_{k_2,k_4,...,k_{2J}}
 \end{align}
+$$
 where we let $u^{(1)}_{k_1k_2}$ refer to the entry of the $k_1$-th row and $k_2$-th column of $\mathbf{A}_1$. The second equation above uses [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation) in representing the tensor product and multidimensional array $\mathbf{Y}$. The $k$ indices look a little funky compared to usual tensor notation; in physics we are used to having actual letters such as $i, j, k$ rather than letters with numbers. However, if we have an arbitrary number of Kronecker factors, there may be many, many indices used, so we avoid using any particular letter and instead replace $i, j, k, l, m,...$ with $k_1, k_2, k_3, k_4, k_5,...$.
 
 The rule for Einstein notation is that when an index appears twice, we sum over it, also described as "contraction" over that index. Contracting the repeated indices, the result of the above procedure is an array $\mathbf{Z}$ of the same dimensions as $\mathbf{Y}$ running over indices $k_1, k_3,...,k_{2J-1}$ which has been transformed by the repeated application of the matrix and tensor product operations and which satisfies the equality 
