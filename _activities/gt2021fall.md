@@ -20,7 +20,7 @@ author_profile: false
 | Tu, Nov 16, 2021 | 1:30pm - 2:30pm | Mohammad Farajzadeh Tehrani | Logarithmic structures in symplectic geometry |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin decomposition of Floer trajectories and adiabatic gluing |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
-| Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu |  |  
+| Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu | Closed and open string theories of gauged linear sigma model |  
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang |  |  
 | Tu, Dec 14, 2021 | 1:30pm - 2:30pm | Andrew Sageman-Furnas | |
 | Th, Dec 16, 2021 | 1:30pm - 2:30pm | Josef Dorfmeister |  |  
