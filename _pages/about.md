@@ -16,11 +16,12 @@ For the past 5+ years, I have helped numerous clients improve their businesses b
 
 My Background and History
 ======
-I received my masters of arts degree in Mathematics at San Francisco State University in 2016. During that time, I wrote my thesis on [relating gene expression profiling to copy number changes with different sub-types of breast cancer] (https://scholarworks.calstate.edu/concern/theses/x920fz53t). Since then, I have went from an Associate Consultant to Consultant to a Senior Consultant with 3 different consulting firms until I reached Microsoft, my current company.  
+I received my masters of arts degree in Mathematics at San Francisco State University in 2016. During that time, I wrote my thesis on [Relating gene expression profiling to copy number changes with different sub-types of breast cancer] (https://scholarworks.calstate.edu/concern/theses/x920fz53t). 
+Since then, I have went from an Associate Consultant to Consultant to a Senior Consultant with 3 different consulting firms until I reached Microsoft, my current company.  
 
 My Certifications
 ======
-[Applied Data Science with Python - Coursera](coursera.png)
-[Azure Data Engineer Associate](Microsoft_Certified_Professional_Certificate_0.pdf)
-[Azure Data Scientist Associate](Microsoft_Certified_Professional_Certificate_1.pdf)
-[Apache Spark Programming with Databricks](proof-of-completion-245b120e-265c-33e5-9845-dfb902c37ff5.pdf)
+![Applied Data Science with Python - Coursera](/images/coursera.png)
+[Azure Data Engineer Associate](/images/Microsoft_Certified_Professional_Certificate_0.pdf)
+[Azure Data Scientist Associate](/images/Microsoft_Certified_Professional_Certificate_1.pdf)
+[Apache Spark Programming with Databricks](/images/proof-of-completion-245b120e-265c-33e5-9845-dfb902c37ff5.pdf)
