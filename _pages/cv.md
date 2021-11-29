@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version](../files/cv.PDF)
+
 Education
 ======
 - [2017-2020] PhD in deep learning, Technical University of Denmark (DTU)
