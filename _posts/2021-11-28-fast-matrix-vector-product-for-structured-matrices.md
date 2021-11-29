@@ -2,7 +2,7 @@
 title: Fast Kronecker matrix-vector product with einsum 
 layout: single
 header:
-  teaser: "/images/kron_im.png"
+  teaser: "assets/images/kron_im.png"
 mathjax: true
 comments: true
 ---
