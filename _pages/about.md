@@ -25,3 +25,6 @@ My Certifications
 ![Azure Data Engineer Associate](/images/Microsoft_Certified_Professional_Certificate_0.pdf)
 ![Azure Data Scientist Associate](/images/Microsoft_Certified_Professional_Certificate_1.pdf)
 ![Apache Spark Programming with Databricks](/images/proof-of-completion-245b120e-265c-33e5-9845-dfb902c37ff5.pdf)
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
