@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2021 - New preprint on arxiv! "Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs" [[pdf]](https://arxiv.org/abs/2111.13654) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
 * 2021 - Paper accepted to NeurIPS 2021! "Search Methods for Sufficient, Socially-Aligned Feature Importance Explanations with In-Distribution Counterfactuals" [[pdf]](https://arxiv.org/abs/2106.00786) [[code]](https://github.com/peterbhase/ExplanationSearch)
 * 2021 - Awarded a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) for Natural Language Processing! 
 * 2021 - Invited talk at [CHAI](https://humancompatible.ai/), UC Berkeley, on [Evaluating Explainable AI](https://arxiv.org/abs/2005.01831)
