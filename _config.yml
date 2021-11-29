@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sonia Asto"
 title_separator          : "-"
 name                     : &name "Sonia Rosmery Asto Mercado"
-description              : &description "Economics student at the Pontificia Universidad Catolica del Peru."
+description              : &description "Economics student at the Pontificia Universidad Catolica del Peru"
 url                      : https://rosmeryasto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rosmeryasto/rosmeryasto.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sonia Asto"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Economics student at the Pontificia Universidad Catolica del Peru"
   location         : "Lima, Perú"
   employer         :
   pubmed           : 
