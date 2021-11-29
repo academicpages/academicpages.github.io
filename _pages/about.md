@@ -27,4 +27,4 @@ My Certifications
 ![Apache Spark Programming with Databricks](/images/proof-of-completion-245b120e-265c-33e5-9845-dfb902c37ff5.pdf)
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Applied Data Science with Python - Coursera](/images/coursera.png)
