@@ -18,6 +18,7 @@ I am co-organizing [the Second Workshop on Understanding Implicit and Underspeci
 Besides this I love going to the "cinemathèque" and on hikes with my friends. My Erdős number is 3.
 
 ### News
+* December 2021: Will present a poster at the [Meaning in Context: Pragmatic Communication in Humans and Machines](https://mic-workshop.github.io) workshop at NeurIPS 2021.
 * November 2021: Got invited to give a talk at the University of Wolverhampton.
 * October 2021: Gave a talk at Cardiff University.
 * August 2021: [Paper](https://arxiv.org/pdf/2109.04832.pdf) accepted at EMNLP 2021.
