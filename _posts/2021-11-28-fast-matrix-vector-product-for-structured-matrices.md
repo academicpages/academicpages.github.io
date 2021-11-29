@@ -42,7 +42,13 @@ matrices = [X@X.T for X in matrices]
 
 ```
 
+
+
 In the end, we want to take the Kronecker / tensor product of these matrices. Since they have increasing dimension, the dimension of their Kronecker product will be `3*4*5*6*7=2520`
+
+To see what the Kronecker product looks like, let's see what the product of two of these matrices looks like:
+
+![png](/images/kron_im.png)
 
 
 ```python
