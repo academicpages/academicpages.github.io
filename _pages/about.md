@@ -21,7 +21,7 @@ Since then, I have went from an Associate Consultant to Consultant to a Senior C
 
 My Certifications
 ======
-Applied Data Science with Python - Coursera ("coursera.png")
+Applied Data Science with Python - Coursera (coursera.png)
 ![Azure Data Engineer Associate](/images/Microsoft_Certified_Professional_Certificate_0.pdf)
 ![Azure Data Scientist Associate](/images/Microsoft_Certified_Professional_Certificate_1.pdf)
 ![Apache Spark Programming with Databricks](/images/proof-of-completion-245b120e-265c-33e5-9845-dfb902c37ff5.pdf)
