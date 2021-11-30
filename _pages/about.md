@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Wei Han (Henry) currently is a second-year Ph.D candidates in [DeCLare Lab](https://declare-lab.net/), ISTD, SUTD, advised by Prof. [Soujanya Poria](https://sporia.info/). Before joining SUTD, he obtained a M.Phill Degree in Electronic and Computer Engineering in The Hong Kong University of Science and Technology (HKUST) in 2020.
+Wei Han (Henry, 韩炜 in Chinese) is currently a second-year Ph.D candidates in [DeCLare Lab](https://declare-lab.net/), ISTD, SUTD, advised by Prof. [Soujanya Poria](https://sporia.info/). Before joining SUTD, he obtained a M.Phill Degree in Electronic and Computer Engineering in The Hong Kong University of Science and Technology (HKUST) in 2020.
 
 His research interests include multimdoal learning, information retrieval and meta learning (few-shot learning) in Natural Language Processing.
