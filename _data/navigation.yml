@@ -1,22 +1,23 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /files/Chile series analysis.pdf
+    url: /files/ANÁLISIS COSTO BENEFICIO DEL PROYECTO DE LEY.pdf
 
-  - title: "Talks"
-    url: /talks/    
+ #- title: "Talks"
+ # - url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Blog Posts"
+ #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CURRICULUM VITAE-Marcio Tapia_2021.pdf
     
   - title: "Guide"
     url: /markdown/
