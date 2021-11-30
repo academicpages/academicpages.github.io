@@ -14,5 +14,4 @@ Jiwon studies discourses about political events at different levels of internati
 
 Jiwon's research uses computer science tools and psychological theories to answer political science questions. She has particular interests in applying various text classification, event extraction, and anaphora resolution schemes with social science sensibilities.   
 
-Jiwon enjoys and believes in collaborative research, and has an interest in creating a healthy and sustainable culture in research labs.  
-Her passion for political science started when she was an exchange student in Hong Kong, during the Umbrella Movement in 2014. Jiwon received her B.A. in literature and linguistics from Sungkyunkwan University in the beautiful and traditional neighborhood of Jongno in Seoul, South Korea.
+Jiwon enjoys and believes in collaborative research, and has an interest in creating a healthy and sustainable culture in research labs. Her passion for political science started when she was an exchange student in Hong Kong, during the Umbrella Movement in 2014. Jiwon received her B.A. in literature and linguistics from Sungkyunkwan University in the beautiful and traditional neighborhood of Jongno in Seoul, South Korea.
