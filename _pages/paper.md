@@ -7,7 +7,7 @@ author_profile: true
 
 Monday, December 6th:
 
-[Gal Bitton](https://people.socsci.tau.ac.il/mu/talsadeh/research-2/phd-and-ma-thesis-supervision-2/phd-2/) (Tel Aviv, presents:
+[Gal Bitton](https://people.socsci.tau.ac.il/mu/talsadeh/research-2/phd-and-ma-thesis-supervision-2/phd-2/) (Tel Aviv), presents:
 
 **Title:** ["*How Does Culture Shape Financial Policies? A Macro-Level Analysis Using Instrumental Variables.*"](https://gsipe-workshop.github.io/files/Gal_Bitton_06DEC2021.pdf)
 
