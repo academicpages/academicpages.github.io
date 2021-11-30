@@ -32,7 +32,7 @@ in the Learning-with-Equivalence-Queries Paradigm** is accepted at NeurIPS (2021
 in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 **Akash Kumar**, [Yuxin Chen](https://yuxinchen.org/), [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).<br>
 <i> Accepted in The 35th Conference on Neural Information Processing Systems (NeurIPS'21), 2021
-</i> <br> [[Camera Ready](https://drive.google.com/file/d/1XKl5khSSGuf6_ZUZu-vsFBttMkXe_70Q/view?usp=sharing)]<br>
+</i> <br> [[Camera Ready](https://drive.google.com/file/d/1XKl5khSSGuf6_ZUZu-vsFBttMkXe_70Q/view?usp=sharing)], [[Openreview](https://openreview.net/forum?id=Ee7IOrpLwT)]<br>
 
 2. <b> The Teaching Dimension of Kernel Perceptrons </b> <br>
 **Akash Kumar**, Hanqi Zhang, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yuxin Chen](https://yuxinchen.org/).<br>
