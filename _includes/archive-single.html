@@ -44,6 +44,8 @@
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% elsif post.collection == 'publications' and post.status == 'preprint' %}
+      <p style="font-size:14px;margin:0px"><i>{{ post.venue }}</i></p> 
     {% elsif post.collection == 'publications' %}
       <p style="font-size:14px;margin:0px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
