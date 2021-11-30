@@ -48,7 +48,7 @@
       <p style="font-size:14px;margin:0px"><i>{{ post.venue }}</i></p> 
     {% elsif post.collection == 'publications' %}
       <p style="font-size:14px;margin:0px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
-        <% if post.award %><strong style="color:red">{{ post.award }}</strong><% endif %>
+        {% if post.award %}<strong style="color:red">{{ post.award }}</strong>{% endif %}
       </p>
     {% elsif post.date %}
      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
