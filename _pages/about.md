@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiwon Kim is a PhD candidate at Emory University's Political Science Department. She also codes for the Political Terror Scale (PTS) and leads the Interstate Shaming Events (ISE) data project, which is a part of her dissertation.
+Jiwon Kim is a PhD candidate at Emory University's Political Science Department. She also codes for the [Political Terror Scale (PTS)] (https://www.politicalterrorscale.org/ "PTS") and leads the Interstate Shaming Events (ISE) data project, which is a part of her dissertation.
 
 Jiwon studies discourses about political events at different levels of international politics. She is particularly interested in how foreign governments talk about each other's domestic human rights practices, how organizations of different ideological stances report the same conflict event, and what information persuades people to change their opinion about foreign policy, and why. Her works use natural language processing (NLP) and survey experiments.
 
