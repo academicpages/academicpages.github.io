@@ -21,5 +21,7 @@ Since then, I have went from an Associate Consultant to Consultant to a Senior C
 
 My Certifications
 ======
+Azure Data Engineer Associate
 ![Azure Data Engineer Associate](https://user-images.githubusercontent.com/46200746/143965136-26640f5d-6147-4b9a-967f-2881643a9262.png)
+Azure Data Scientist Associate
 ![Azure Data Scientist Associate](https://user-images.githubusercontent.com/46200746/143965365-70e21c96-1046-4ba5-b4ac-801dfaa9d812.png)
