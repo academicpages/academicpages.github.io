@@ -24,8 +24,6 @@ the computational and statistical efficiency of learning methods, and the extent
 in the Learning-with-Equivalence-Queries Paradigm** is accepted at NeurIPS (2021)! :D 
 * Attended **ICML'21** and **COLT'21** conferences organized virtually.
 * Our paper on **The Teaching Dimension of Kernel Perceptrons** is accepted at AISTATS (2021)! :D 
-* Attended **NeurIPS'20** conference.
-* Participated in **Directions in ML: AutoML and Automating Algorithms** Lecture series starting 28th July, 2020 by Microsoft Research which features talks by outstanding academics and domain experts.
 
 # Publications and Preprints
 1. <b> Teaching via Best-Case Counterexamples
