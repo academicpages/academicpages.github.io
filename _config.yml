@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : Willard Robinson
-  avatar           : "C:\Users\Robin\Dropbox\Website\images\ski_lift_selfie.jpg"
+  avatar           : "ski_lift_selfie.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : Bozeman, MT
   employer         :
