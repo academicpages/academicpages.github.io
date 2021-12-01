@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    url: http://carlosgonzalez26.github.io/files/CV-Carlos-Gonzalez-Avila.pdf
+    
   - #title: "CV"
     #url: /talks/    
 
@@ -14,9 +17,6 @@ main:
         
   - #title: "Blog Posts"
     #url: /year-archive/
-    
-  - title: "CV"
-    url: http://carlosgonzalez26.github.io/files/CV-Carlos-Gonzalez-Avila.pdf
-    
+      
   - #title: "Guide"
     #url: /markdown/
