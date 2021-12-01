@@ -11,6 +11,6 @@ paperurl: 'http://carlosgonzalez26.github.io/files/tesis_parcial.pdf'
 This paper is about the number 1. The number 2 is left for future work.
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://carlosgonzalez26.github.io/files/tesis_parcial.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Gonzalez, Carlos. (2021). "Impacto del TLC Perú - Unión Europea en las exportaciones de productos agropecuarios no tradicionales: un análisis en el margen extensivo e intensivo." <i>PUCP</i>. 1(1).
