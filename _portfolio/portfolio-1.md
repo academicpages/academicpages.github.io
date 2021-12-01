@@ -10,4 +10,4 @@ collection: portfolio
 
 ## Databases developed with the Layout Parser package
 
-[Here](https://github.com/alexander-pacheco/Layout_parser_ap) you will find my attempts to develop databases with the layout parser package.
+[Here](https://github.com/alexander-pacheco/Layout_parser_ap) you will find my attempts to develop databases with the layout parser package
