@@ -21,7 +21,9 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
-* \[2021.04\] I am joining Amazon Robotics as a summer research intern in May. 
+* \[2021.12\] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+* \[2021.11\] I am joining Facebook AI Research as a research intern next May.
+* \[2021.08\] I finisned my 3-month research internship at [Amazon Robotics](https://www.amazon.jobs/en/teams/amazon-robotics). 
 * \[2021.04\] Our team won the 7th place out of 50 teams and received a $1,000 prize in [Terminal Live (West Coast Regional)](https://terminal.c1games.com/competitions/237), which is a games-based AI & coding competition hosted by [Citadel LLC](https://www.citadel.com/) and [Citadel Securities](https://www.citadelsecurities.com/). 
 * \[2021.04\] I won a Second Prize of $500 at [the Thirteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium](https://ahf.usc.edu/events/scymposium/). I will be presenting my work on "How and When to Follow Tips: Using Game Theory for Multi-Agent Communication and Coordination in Wildlife Conservation".
 * \[2021.02\] A [virtual talk](https://slideslive.com/embed/presentation/38948038?url=https%3A%2F%2Fvirtual.2021.aaai.org%2Fpaper_AAAI-1869.html&origin=https%3A%2F%2Fvirtual.2021.aaai.org&target_id=presentation-embed&auto_play=&zoom_ratio=&disable_fullscreen=&locale=en&demo=&vertical_enabled=true&vertical_enabled_on_mobile=&vertical_when_width_lte=500&allow_hidden_controls_when_paused=true&debug_slideslive_player=&user_uuid=2eeb9c93-3010-492d-8f6e-55deb5b32d4c)(drag this link to a new tab for it to work properly) at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
