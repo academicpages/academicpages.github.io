@@ -1,7 +1,7 @@
 ---
 title: "TESIS"
 collection: publications
-permalink: /publication/tesis.md
+permalink: /publication/2009-10-01-paper-title-number-1.md
 excerpt: 'Impacto del TLC Perú-Unión Europea en las exportaciones de productos agropecuarios.'
 date: 2021-24-10
 # venue: 'Journal 1'
