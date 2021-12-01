@@ -86,7 +86,7 @@ author:
   location         : Cambridge, Massachusetts
   employer         : "Harvard University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.co.in/citations?user=EosYhvYAAAAJ&hl=en
   email            : "fenil_doshi@fas.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/fenil-doshi-ai
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
