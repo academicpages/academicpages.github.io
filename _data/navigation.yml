@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /http://carlosgonzalez26.github.io/files/CV-Carlos-Gonzalez-Avila.pdf
+    url: http://carlosgonzalez26.github.io/files/CV-Carlos-Gonzalez-Avila.pdf
     
   - title: "Guide"
     url: /markdown/
