@@ -10,4 +10,4 @@ date: 2021-10-01
 
 [R Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_2/Grupo4_lab2_R.ipynb)<br>
 
-[Pyhton Script]("https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_2/Grupo4_lab2_Python.ipynb")<br>
+[Pyhton Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_2/Grupo4_lab2_Python.ipynb)<br>
