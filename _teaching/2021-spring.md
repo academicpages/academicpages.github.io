@@ -20,5 +20,4 @@ TA, weekly sections (zoom)
 
 * [International Public Goods: Global Health Case Study](https://docs.google.com/presentation/d/1_1OFYZf6uxqw0Xq_apXVaTP3NNsfiSnUSGt0NKABFZg/edit?usp=sharing)
 
-* [The Positive Approach vs Normative Apprach to International Politics"](https://docs.google.com/presentation/d/1ve886J8GS0i-ZFQRnOfoe9xhly8G7l4ljbg77UiXeBo/edit?usp=sharing)
 
