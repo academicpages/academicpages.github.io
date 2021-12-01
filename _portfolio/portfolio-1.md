@@ -1,5 +1,8 @@
 ---
-title: "Creating a YouTube Video with OBS Studio"
-excerpt: [Click Here To Watch](https://www.youtube.com/watch?v=hQH6bv946T4)
+title: "YouTube Video 1"
+excerpt: "Creating a YouTube Video with OBS Studio [Video](https://www.youtube.com/watch?v=srPQlPqb4wA)"
 collection: videos
 ---
+
+This is my first YouTube Video on my channel
+
