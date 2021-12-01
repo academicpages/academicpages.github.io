@@ -83,9 +83,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Relating gene expression profiling and copy number changes with different sub-types of breast cancer](http://rachaelph.github.io/images/thesis.pdf)
   
 Teaching and Tutoring Experience
 ======
