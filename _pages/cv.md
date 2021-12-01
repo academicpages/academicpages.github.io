@@ -40,7 +40,7 @@ Work experience
 Publications
 ======
 
-* Cheng, Y., & Chrastil, L. (2021, November 30). From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines and Measurement of Factors that Could Distort the Mapping Process. https://doi.org/10.31234/osf.io/7ygk2 [[pdf](https://lilianyou.github.io/files/2021_collective_navigation_preprint_Cheng.pdf)]
+* <b>Cheng, Y.</b>., & Chrastil, L. (2021, November 30). From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines and Measurement of Factors that Could Distort the Mapping Process. https://doi.org/10.31234/osf.io/7ygk2 [[pdf](https://lilianyou.github.io/files/2021_collective_navigation_preprint_Cheng.pdf)]
 
 * Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  In R. D. Montello & K. M. Curtin (Eds.), Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor and Francis).  (in press)
 
