@@ -18,4 +18,4 @@ Jiwon has an interest in different models of collaborative research. Her passion
 
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/jongnocafe.png =50x20)
-{: .full}
+{: .align-left .width-half}
