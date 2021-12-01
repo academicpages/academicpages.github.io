@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multiconilearity and RCT data analysis with Precision Adjustment"
+excerpt: "[Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Grupo4_Lab3_R.ipynb)
+
 collection: portfolio
 ---
 
