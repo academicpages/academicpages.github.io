@@ -7,8 +7,9 @@ date: 2021-10-01
 
 paperurl: 'https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Grupo4_Lab3_R.ipynb'
 
+---
+
 [R Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Grupo4_Lab3_R.ipynb)<br>
 
 [Pyhton Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Grupo4_Lab3_Python.ipynb)<br>
 
----
