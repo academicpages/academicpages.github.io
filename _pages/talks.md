@@ -17,6 +17,10 @@ Human Navigation
 Direction
 -----------
 
+* <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Neuromatch Conference 4.0 Flash Talk, Virtual, Dec., 2021. [[news]](https://lilianyou.github.io/posts/2021/12/blog-post-1/)[[video](https://www.youtube.com/watch?v=fgzp-sRqbmQ&t=12s)]
+
+* <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Dec., 2021.
+
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Harvard Women in Psychology’s Annual Trends in Psychology Summit (TiPS), Virtual. Nov., 2021. [[news](/posts/2021/11/blog-post-3/)]
 
 * <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Society for Neuroscience, Virtual. Nov., 2021. [[news](https://lilianyou.github.io/posts/2021/11/blog-post-2/)]

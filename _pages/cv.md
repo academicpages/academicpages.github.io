@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_Nov_30_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
+Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_Dec_1_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
 
 Education
 ======
@@ -57,7 +57,9 @@ Select Conference Presentations
 ======
 <b><big>Oral Presentations</big></b>
 
-* <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Neuromatch 4.0, Flash Talk. Dec., 2021. [[video](https://www.youtube.com/watch?v=fgzp-sRqbmQ&t=12s)]
+* <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Neuromatch Conference 4.0 Flash Talk, Virtual, Dec., 2021. [[news]](https://lilianyou.github.io/posts/2021/12/blog-post-1/)[[video](https://www.youtube.com/watch?v=fgzp-sRqbmQ&t=12s)]
+
+* <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Dec., 2021.
 
 * <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Nov., 2021.
 
